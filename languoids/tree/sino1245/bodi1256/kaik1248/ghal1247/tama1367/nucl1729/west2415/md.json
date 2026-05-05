@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Western Tamang",
+    "hid": "tdg",
+    "level": "language",
+    "iso639-3": "tdg",
+    "latitude": "28.0239",
+    "longitude": "85.0563",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NP"
+    ],
+    "links": "\n[Tamang (Sahu)](https://lexibank.clld.org/languages/halenepal-SahuTamang)\n[Western Tamang](https://grambank.clld.org/languages/west2415)\nhttps://en.wikipedia.org/wiki/Western_Tamang\nhttps://www.wikidata.org/entity/Q12953178"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Hofer:WTamang**\n**hh:ew:Campbell:Limboos**\n**hh:g:Owen-Smith:Tamang**\n**hh:g:RegmiRegmi:Western-Tamang**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Beames:Indian**\n**hh:hv:Pittman:Tamang-Gurung-Thakali**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Hale:Nepal**\n**hh:s:Tamang:Tamang**\n**hh:s:Taylor:Western-Tamang**\n**hh:t:Taylor:Tamang**\n**hh:w:Pittman:Tibeto-Burman-Word-Lists**\n**hh:wsoc:Lipp:Western-Tamang**\n**iso6393:2022-001**\n**ldh:item_2152218**\n**ldh:item_2152221**\n**ldh:item_2152224**\n**ldh:item_408234**\n**sil16:10016**\n**sil16:10018**\n**sil16:10635**\n**sil16:10812**\n**sil16:10975**\n**sil16:10999**\n**sil16:11008**\n**sil16:12103**\n**sil16:12446**\n**sil16:12447**\n**sil16:12448**\n**sil16:12451**\n**sil16:15934**\n**sil16:16672**\n**sil16:24546**\n**sil16:26453**\n**sil16:26456**\n**sil16:27187**\n**sil16:27194**\n**sil16:27195**"
+  },
+  "altnames": {
+    "multitree": "\nBhōtiā\nIshāng\nMurmi\nSain\nTamang\nTamang, Western\nTamang,Western\nTāmāng",
+    "lexvo": "\nWestern Tamang [en]",
+    "hhbib_lgcode": "\nJharlang (Dhading)\nLekharka and Bhote Namlang\nMoormee\nMurmi\nSahugaun (Gorkha)\nTamang\nTamang-Western"
+  },
+  "triggers": {
+    "lgcode": "\nNOT central AND NOT grammar AND NOT nepal AND tamang\nbodic"
+  },
+  "identifier": {
+    "multitree": "tdg"
+  },
+  "classification": {
+    "sub": "**hh:s:Noonan:Chantyal** **hh:hv:Honda:Tamangic**",
+    "subrefs": "\n**hh:s:Noonan:Chantyal**\n**hh:hv:Honda:Tamangic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tamang (1114-taj, tge, tmk, tsf, tdg) = Vulnerable"
+  }
+}

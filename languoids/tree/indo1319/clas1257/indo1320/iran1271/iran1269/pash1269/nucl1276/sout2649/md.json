@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Southern Pashto",
+    "hid": "pbt",
+    "level": "language",
+    "iso639-3": "pbt",
+    "latitude": "31.5",
+    "longitude": "65.7",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "IR",
+      "PK",
+      "TJ",
+      "TM"
+    ],
+    "links": "\n[Southern Pashto](https://grambank.clld.org/languages/sout2649)\nhttps://en.wikipedia.org/wiki/Southern_Pashto\nhttps://www.wikidata.org/entity/Q16112855"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Khan:Irtizai**\n**hh:d:Zudin:Afgansko**\n**hh:g:David:Pashto**\n**hh:g:Grjunberg:Pashto**\n**hh:g:Lorenz:Pashto**\n**hh:g:Penzl:Pashto**\n**hh:g:Septfonds:Dzadrani**\n**hh:g:Trumpp:Pasto**\n**hh:hvw:Grierson:10**\n**hh:hvwsoc:Coyle:Wardak**\n**hh:hvwsoc:Hallberg:PWO**\n**hh:ld:Bertels:Afganskom**\n**hh:s:Chavarria-Aguilar:Pashto**\n**hh:s:Meyer-Ingwersen:Pashto**\n**hh:s:Shafeev:Pashto**\n**hh:s:Wakil:Pashto**\n**hh:sd:Coletti:Pashtu**\n**hh:sv:Kreidl:Pashto**\n**hh:typ:Pate:Pashto**\n**hh:v:Morgenstierne:Pashto**\n**ldh:item_405413**\n**mpieva:Aslanov1966Afgansko**\n**mpieva:Becka1969Astudyin**\n**mpieva:Dvorjankov1960Jazykpus**\n**mpieva:Kabir1999Dictionn**\n**mpieva:Kabir2005Dictionn**\n**mpieva:Lebedev1961Karmanny**\n**mpieva:Lebedev1982Ucebnyip**\n**mpieva:Lebedev1996Sintaksi**\n**mpieva:Penzl1955Agrammar**\n**mpieva:Ristin1948Pastogra**\n**sil16:44291**\n**sil16:47850**"
+  },
+  "altnames": {
+    "multitree": "\n\"Afghani\"\nAfghan\nKandahari\nPakhtoo\nPakhtu\nPaktu\nPashto\nPashto, Southern\nPashtu\nPushto\nQuetta-Kandahar Pashto\nSouthern Pashto",
+    "lexvo": "\nSouthern Pashto [en]",
+    "hhbib_lgcode": "\nAfghanistan presumably Kandahar\nCHA Chaman Pashto\nDoesn't say explicitly but presumably Afghani Pashto\nDzadrani\nDzadrani (DZA)\nKAK Pashin KakaRi Pashto\nKHR Kandahar Pashto\nKandahar\nKandahar Pashto\nKandahari\nPAS Pishin Pashto\nPashto\nPashto Southern Pashto\nPashto-Southern\nQUE Quetta Pashto\nSW Pashto Kandahar etc\nSoutheastern Pashto\nSouthwest Pashto (SW)"
+  },
+  "triggers": {
+    "lgcode": "\npsto\nafgansko\nafghans\npashto\npustu\nsubordinate\npastu\nafghanisch\npushtu"
+  },
+  "identifier": {
+    "multitree": "pbt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cheung:Pashto** **hh:hvwsoc:Hallberg:PWO** **hh:hv:Novak:Eastern-Iranian:2013**",
+    "subrefs": "\n**hh:hv:Cheung:Pashto**\n**hh:hv:Novak:Eastern-Iranian:2013**\n**hh:hvwsoc:Hallberg:PWO**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pashto, Southern (pbt-pbt) = 1 (National). Statutory national language (2004, Constitution, Article 16(1))."
+  }
+}

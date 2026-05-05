@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kobiana",
+    "hid": "kcj",
+    "level": "language",
+    "iso639-3": "kcj",
+    "latitude": "13.5269",
+    "longitude": "-14.4527",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Kobiana](https://endangeredlanguages.com/lang/4352)\nhttps://www.wikidata.org/entity/Q35609\nhttps://en.wikipedia.org/wiki/Kobiana_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:gessain:lestrange:80**\n**cldf:gessain:lestrange:etal:84**\n**cldf:kihm:80**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:10254**\n**eballiso2009:10256**\n**eballiso2009:53273**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hel:Sommer:Survey**\n**hh:hv:Doneux:Senegal**\n**hh:hv:Wilson:Guine**\n**hh:hvs:Wilson:Atlantic**\n**hh:hw:Buhnen:Banun-Kasanga-Cobiana**\n**hh:s:Basso:Cobianas**\n**hh:sv:Doneux:Buy**\n**hh:typ:Voisin:Kobiana**\n**hh:typ:Voisin:Kobiana-Classes-Nominales**\n**hh:w:Armstrong:West-African**\n**hh:w:deLespinay:Baynunk**"
+  },
+  "altnames": {
+    "multitree": "\nBuy\nCobiana\nKobiana\nUboi",
+    "lexvo": "\nKobiana [en]",
+    "hhbib_lgcode": "\nBuy\nCobiana\nCobianas\nKabòy (gubòy)\nKobiana (00041)",
+    "elcat": "\nBuy\nCobiana\nGuboy\nKobiana\nUboi"
+  },
+  "triggers": {
+    "lgcode": "\nkasanga\nidiomatica\nboin"
+  },
+  "identifier": {
+    "multitree": "kcj",
+    "endangeredlanguages": "4352"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kobiana (4352-kcj) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

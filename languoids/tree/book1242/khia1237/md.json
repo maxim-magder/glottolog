@@ -1,0 +1,21 @@
+{
+  "core": {
+    "name": "Khiamniungan Naga (Retired)",
+    "level": "language",
+    "iso639-3": "nky",
+    "hid": "nky"
+  },
+  "iso_retirement": {
+    "comment": "Makuri Naga and Para Naga share very low lexical similarity with Khiamniungan\nNaga. Inherent intelligibility should therefore be low. Ethnolinguistic identity\nis separate between these three groups (Makuri and Para each show signs of\nstrong language vitality), and there is no known common literature. Also, there\nis not any known intermediate variety that would be intelligible to any pair of\nthese three language groups.",
+    "code": "nky",
+    "name": "Khiamniungan Naga",
+    "effective": "2008-01-14",
+    "reason": "split",
+    "remedy": "Split into three languages: Khiamniungan Naga [kix] (new identifier); Para Naga [pzn]; Makuri Naga [jmn]",
+    "change_request": "2007-252",
+    "change_to": "\nkix\npzn\njmn"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-252**"
+  }
+}

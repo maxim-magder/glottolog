@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "German Sign Language",
+    "hid": "gsg",
+    "level": "language",
+    "iso639-3": "gsg",
+    "latitude": "50.8154",
+    "longitude": "7.30478",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33282\nhttps://en.wikipedia.org/wiki/German_Sign_Language\n[Deutsche Gebärdensprache](https://wals.info/languoid/lect/wals_code_dge)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Maisch:Gebarden-Lexikon**\n**hh:g:Beecken:Deutsche-Gebardensprache**\n**hh:g:Erlenkamp:Deutschen-Gebardensprache**\n**hh:g:Papaspyrou:Deutschen-Gebardensprache**\n**hh:g:Proske:German-Sign**\n**hh:phon:Becker:Deutschen-Gebardensprache**\n**hh:s:PrillwitzLeven:Deutschen-Gebardensprache**\n**hh:s:Rammel:Gebardensprache**\n**hh:soc:Wrobel:German-Sign**\n**hh:typ:Bross:German-Sign**\n**hh:typ:Herrmann:German-Sign**\n**hh:typ:Loos:Resultative**\n**hh:typ:Rathmann:German-Sign**\n**hh:typ:Thamm:Deutschen-Gebardensprache**"
+  },
+  "altnames": {
+    "wals": "\nDeutsche Gebärdensprache",
+    "multitree": "\nDeutsche Gebärdensprache\nDgs\nGerman Sign Language",
+    "lexvo": "\nDeutsche Gebärdensprache [de]\nGerman Sign Language [en]\nTysk tegnspråk [no]"
+  },
+  "triggers": {
+    "lgcode": "\ndgs"
+  },
+  "identifier": {
+    "wals": "dge",
+    "multitree": "gsg"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "German Sign Language (gsg-gsg) = 5 (Developing). Recognized language (2002, Disability Equality Act, Section 6(1))."
+  },
+  "classification": {
+    "sub": "Swiss-German Sign Language [swis1240] is said to be similar to German Sign Language in South Germany (**hh:h:Boyes-Braem:Gebardensprache-Schweiz-Ausblick**):61 and there is a historical connection (**hh:soc:Boyes:Swiss-German-Sign**):90. Israeli Sign Language [isra1236] is related to German Sign Language according to (**hh:ssoc:MeirSandler:Israeli-Sign**:218-222, **hh:h:Abdel-Fattah:Sign-Western-Asia**:828 (**hh:h:Woll:Global-Sign**):29) on both lexical and historical evidence.",
+    "subrefs": "\n**hh:ssoc:MeirSandler:Israeli-Sign**\n**hh:h:Boyes-Braem:Gebardensprache-Schweiz-Ausblick**\n**hh:h:Woll:Global-Sign**\n**hh:soc:Boyes:Swiss-German-Sign**\n**hh:h:Abdel-Fattah:Sign-Western-Asia**"
+  }
+}

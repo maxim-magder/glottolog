@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Sarsi",
+    "hid": "srs",
+    "level": "language",
+    "iso639-3": "srs",
+    "latitude": "50.8822",
+    "longitude": "-114.301",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Sarcee](https://wals.info/languoid/lect/wals_code_src)\n[Sarsi](https://grambank.clld.org/languages/sars1236)\n[Tsuut'ina](https://endangeredlanguages.com/lang/1529)\nhttps://en.wikipedia.org/wiki/Tsuut%CA%BCina_language\nhttps://www.wikidata.org/entity/Q20825"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3354**\n**cldf:bamforth:88**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:78**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:ed:25**\n**cldf:golla:goddard:etal:08**\n**cldf:honigmann:56:1**\n**cldf:institute:14**\n**cldf:jenness:38**\n**cldf:lewis:ed:09**\n**cldf:np:96:5**\n**cldf:np:nd:264**\n**hh:e:Dempsey:Sarcee**\n**hh:g:Cook:Sarcee**\n**hh:s:NA:Nanagusja**\n**hh:t:Goddard:Sarsi**\n**mpieva:Cook1972Sarceeve**"
+  },
+  "altnames": {
+    "wals": "\nSarcee",
+    "ruhlen (1987)": "\nSarcee",
+    "moseley & asher (1994)": "\nSarcee",
+    "multitree": "\nSarcee\nSarsi\nTsutina\nTsuu T'ina\nTsuut'ina",
+    "lexvo": "\nSarcee [de]\nSarsi [en]\nTsuut’ina language [en]",
+    "hhbib_lgcode": "\nSarcee",
+    "elcat": "\nSarcee\nSarsi\nTsutina\nTsuu T'ina\nTsuut'ina"
+  },
+  "triggers": {
+    "lgcode": "\nsarsi\nsarcee"
+  },
+  "identifier": {
+    "wals": "src",
+    "multitree": "sarc;srs",
+    "endangeredlanguages": "1529"
+  },
+  "classification": {
+    "sub": "**hh:h:Mithun:NAmerica**:345-354 **hh:hv:Goddard:Introduction-North-America** **hh:h:Jaker:Na-Dene**:474",
+    "subrefs": "\n**hh:h:Mithun:NAmerica**\n**hh:h:Jaker:Na-Dene**\n**hh:hv:Goddard:Introduction-North-America**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tsuut'ina (1529-srs) = Critically Endangered (80 percent certain, based on the evidence available) [Institute 2014](cldf:institute:14)"
+  }
+}

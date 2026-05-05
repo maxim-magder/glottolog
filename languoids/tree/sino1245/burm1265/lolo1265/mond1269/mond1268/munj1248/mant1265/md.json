@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mantsi",
+    "hid": "nty",
+    "level": "language",
+    "iso639-3": "nty",
+    "latitude": "23.1829",
+    "longitude": "105.405",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56878\nhttps://en.wikipedia.org/wiki/Mantsi_language"
+  },
+  "classification": {
+    "sub": "**hh:hld:Edmondson:3Tibeto-Burman**",
+    "subrefs": "\n**hh:hld:Edmondson:3Tibeto-Burman**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Khanh:Lo-Lo**\n**hh:e:USA:Lolo**\n**hh:e:USA:Man**\n**hh:e:Vu:Lolo**\n**hh:hld:Edmondson:3Tibeto-Burman**\n**hh:hvw:Hsiu:Mondzish**\n**hh:ld:Loan:Lo-Lo**\n**hh:w:Bonifacy:Haute**\n**hh:w:Kazue:Ma-Ndzi**"
+  },
+  "altnames": {
+    "multitree": "\nBlack Lolo\nFlowery Lolo\nLolo\nMantsi\nRed Mantsi",
+    "lexvo": "\nMantsi [en]",
+    "hhbib_lgcode": "\nBlack Lolo\nFlowery Lolo of Meo Vac\nLolo\nLolo of Ha Giang and Cao Bang\nMa Ndzi\nMa Ndzi / Mandzi\nMaang\nMantsy\nMeang\nMo'ang\nMo'ang TODO\nTongking\nWhite Lolo\nof Mantsi"
+  },
+  "triggers": {
+    "lgcode": "\nmoang\nmoso\nyunan\nndzi"
+  },
+  "identifier": {
+    "multitree": "nty"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Mo'ang (5194-nty) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

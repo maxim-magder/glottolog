@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kháng",
+    "hid": "kjm",
+    "level": "language",
+    "iso639-3": "kjm",
+    "latitude": "21.6624",
+    "longitude": "103.736",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\n[Kháng](https://endangeredlanguages.com/lang/4397)\n[Kháng](https://grambank.clld.org/languages/khan1274)\nhttps://en.wikipedia.org/wiki/Kh%C3%A1ng_language\nhttps://www.wikidata.org/entity/Q6403501"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:Proschan:Laos-Vietnam** **hh:hv:Sidwell:Khmuic**:49",
+    "subrefs": "\n**hh:hsoc:Proschan:Laos-Vietnam**\n**hh:hv:Sidwell:Khmuic**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Bouchet:Xa**\n**hh:e:Tran:Khang**\n**hh:ew:Macey:Khas**\n**hh:g:Dao:Bumang**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:hew:Macey:Cammon**\n**hh:hsoc:Proschan:Laos-Vietnam**\n**hh:hv:ThomasHeadley:Mon-Khmer**\n**hh:ld:Edmondson:Khang**\n**hh:s:Dao:Bumang**\n**hh:w:Mikami:Khang**\n**hh:w:Proschan:Khang**\n**hh:wt:Maspero:Teng**\n**mpieva:Ueda2003Reportso**"
+  },
+  "altnames": {
+    "glottolog": "\nKhang",
+    "multitree": "\nBren\nHang\nJang\nKhaang\nKhang quang lam\nKháng\nKsakautenh\nPouteng\nPutenh\nQuang Lam\nTay Hay\nTayhay\nTeng\nTheng\nXa\nXa Ai\nXa Bung\nXa Dang\nXa Don\nXa Hoc\nXa Suak\nXa Xua\nXá Khao",
+    "lexvo": "\nKháng [en]",
+    "hhbib_lgcode": "\nBumang in China descend from Kháng\nKhang\nKhao (Khang Ai)\nKhas Khao (ou Tié)\nKhaô ou Tié\nMon-Khmer Kháng of Vietnam\nT'eng\nXa Chang B Hin\nXá Khao\nXá Xuak",
+    "elcat": "\nBren\nHang\nKhaang\nKháng\nKsakautenh\nPouteng\nPutenh\nQuang Lam\nTay Hay\nTayhay\nTeng\nTheng\nXa\nXa Ai\nXa Bung\nXa Dang\nXa Don\nXa Hoc\nXa Suak\nXa Xua\nXá Khao"
+  },
+  "triggers": {
+    "lgcode": "\nkhang\nteng\nbumang"
+  },
+  "identifier": {
+    "multitree": "kjm",
+    "endangeredlanguages": "4397"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kháng (4397-kjm) = Threatened (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

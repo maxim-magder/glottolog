@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Korubo",
+    "hid": "xor",
+    "level": "language",
+    "iso639-3": "xor",
+    "latitude": "-5.3655",
+    "longitude": "-70.5094",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Korubo](https://endangeredlanguages.com/lang/3090)\nhttps://www.wikidata.org/entity/Q3199022\nhttps://en.wikipedia.org/wiki/Korubo_language\nhttps://phoible.org/languages/koru1247"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonby:stan:etal:10**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:fleck:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**fabreall2009ann:6700**\n**fabreall2009ann:Pano-Takana_korubo0**\n**fabreall2009ann:Pano-Takana_korubo1**\n**fabreall2009ann:Pano-Takana_korubo2**\n**hh:e:Arisi:Matis-Korubo**\n**hh:e:Oliveira:Korubo**\n**hh:e:deOliveira:Korubo**\n**hh:ephon:deOliveira:Korubo**\n**hh:hb:Erikson:Pano-Setetionales**\n**hh:he:Melatti:Javari**\n**hh:he:Ricardo:Javari**\n**hh:hsoc:AnonbyHolbrook:Javari**\n**hh:hsoc:deAguiar:Panoan**\n**hh:hvb:Fleck:Panoan**\n**hh:hvld:deOliveira:Proto-Pano**\n**hh:ld:Arisi:Matis-Korubo**"
+  },
+  "altnames": {
+    "multitree": "\nCaceteiros\nKorubo\nKorúbo",
+    "lexvo": "\nKorubo [en]",
+    "hhbib_lgcode": "\nKorúbo\nÍndios da confluência do Ituí com o Itacoaí (= Korúbo)",
+    "elcat": "\nCaceteiros\nChankuëshbo\nKorubo"
+  },
+  "triggers": {
+    "lgcode": "\nindica\nafinal\nkorubo"
+  },
+  "identifier": {
+    "multitree": "xor",
+    "endangeredlanguages": "3090"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Korubo (3090-xor) = Severely Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

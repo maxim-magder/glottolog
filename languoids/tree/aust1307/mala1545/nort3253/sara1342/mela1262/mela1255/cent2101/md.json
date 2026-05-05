@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Central Melanau",
+    "hid": "mel",
+    "level": "language",
+    "iso639-3": "mel",
+    "latitude": "2.524086",
+    "longitude": "111.346451",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "BN",
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q18638319\n[Melanau](https://wals.info/languoid/lect/wals_code_mel)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:71**\n**hh:e:Appleton:Melanau**\n**hh:e:Morris:Coastal-Melanau**\n**hh:g:Clayre:Melanau**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Rensch:Central-Sarawak**\n**hh:hvw:Chou:Melanau**\n**hh:hvw:Nothofer:Brunei**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:s:Blust:Mukah**\n**hh:s:Hsiu:Melanau**\n**hh:typ:Clayre:Melanau-Focus**\n**hh:w:Appleton:Melanau-Mukah**\n**hh:w:Lawrence:Mukah-Milano**\n**hh:wsoc:Ozea:Melanau**\n**iso6393:2007-237**\n**sil16:47274**"
+  },
+  "altnames": {
+    "wals": "\nMelanau",
+    "ruhlen (1987)": "\nMelanau",
+    "moseley & asher (1994)": "\nMelanau",
+    "multitree": "\nBelana'u\nMelanau\nMilanau\nMilano",
+    "lexvo": "\nCentral Melanau [en]\nMelanau language [en]",
+    "hhbib_lgcode": "\nBalingian (BN)\nBruit\nDalat\nDalat (DT)\nDalat (DT) based on Clayre 1972\nDalat Melanau\nIgan (IN)\nMelanau-Central\nMuka\nMukah\nOya\nOya river Melanau"
+  },
+  "triggers": {
+    "lgcode": "\nmukah\nmelanau\ntanggapan"
+  },
+  "identifier": {
+    "wals": "mel",
+    "multitree": "mel"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kroeger:Sarawak**:161-162 **hh:hvw:Smith:Borneo**:99-111",
+    "subrefs": "\n**hh:hv:Kroeger:Sarawak**\n**hh:hvw:Smith:Borneo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Melanau, Central (mel-mel) = 6b* (Threatened)."
+  }
+}

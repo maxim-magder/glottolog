@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "International Sign",
+    "hid": "ils",
+    "level": "language",
+    "iso639-3": "ils",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "longitude": "11.4",
+    "latitude": "44.95",
+    "links": "\nhttps://www.wikidata.org/entity/Q35754\nhttps://en.wikipedia.org/wiki/International_Sign\n[International Sign](https://wals.info/languoid/lect/wals_code_isl)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:webb:supalla:94**\n**hh:d:BDA:Gestuno**\n**hh:ld:McKee:International-Sign**\n**hh:ld:SupallaWebb:International-Sign**\n**hh:s:Byun:International-Sign**\n**hh:s:NA:Kokusai-Shuwa**\n**hh:soc:Moreno:Signos-Internacional**\n**iso6393:2008-025**"
+  },
+  "identifier": {
+    "wals": "isl"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "International Sign (ils-ils) = 9 (Second language only)."
+  },
+  "classification": {
+    "sub": "**hh:ld:SupallaWebb:International-Sign**",
+    "subrefs": "\n**hh:ld:SupallaWebb:International-Sign**"
+  }
+}

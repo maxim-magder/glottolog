@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Loo",
+    "hid": "ldo",
+    "level": "language",
+    "iso639-3": "ldo",
+    "latitude": "9.4066",
+    "longitude": "11.0511",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Loo of Galdemaru](https://lexibank.clld.org/languages/kleinewillinghoeferbikwinjen-LooofGaldemaru)\n[Loo of Waamura](https://lexibank.clld.org/languages/kleinewillinghoeferbikwinjen-LooofWaamura)\nhttps://en.wikipedia.org/wiki/Loo_language\nhttps://www.wikidata.org/entity/Q3915378"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Adelberger:Loo**\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hvw:NortonOthaniel:Jen**\n**hh:hvw:Othaniel:Jen**\n**hh:ld:Kleinewillinghofer:Waja-Geographisches**"
+  },
+  "altnames": {
+    "multitree": "\nLo\nLoh\nLoo\nShungo\nShunhu",
+    "lexvo": "\nLoo [en]"
+  },
+  "triggers": {
+    "lgcode": "\nnellim\nboum\ntounia\nNOT niellim AND NOT sociolinguistique AND boua\nburak"
+  },
+  "identifier": {
+    "multitree": "ldo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonOthaniel:Jen** **hh:hv:Kleinewillinghofer:Adamawa:2020**:224 **hh:hvld:Kleinewillinghofer:Adamawa**:96",
+    "subrefs": "\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hv:Kleinewillinghofer:Adamawa:2020**\n**hh:hvw:NortonOthaniel:Jen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Loo (ldo-ldo) = 6b (Threatened)."
+  }
+}

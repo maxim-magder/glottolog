@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Lonwolwol",
+    "hid": "crc",
+    "level": "language",
+    "iso639-3": "crc",
+    "latitude": "-16.2286",
+    "longitude": "168.016",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lonwolwol](https://grambank.clld.org/languages/lonw1238)\n[Lonwolwol](https://lexibank.clld.org/languages/abvdoceanic-Lonwolwol)\n[Lonwolwol](https://wals.info/languoid/lect/wals_code_lnw)\n[Raljago](https://endangeredlanguages.com/lang/4052)\nhttps://en.wikipedia.org/wiki/Lonwolwol_language\nhttps://www.wikidata.org/entity/Q3259216"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2286**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:francois:14:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:paton:73**\n**hh:d:Paton:Lonwolwol**\n**hh:g:Paton:Ambrym**\n**hh:hew:HagenPineau:Hebrides**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:ld:Codrington:Ambrym**\n**hh:typ:Paton:Pronouns**\n**mpieva:Paton1971TalesofA**"
+  },
+  "altnames": {
+    "wals": "\nLonwolwol",
+    "wals other": "\nAmbrym\nAmbrym (Lonwolwol)",
+    "ruhlen (1987)": "\nLonwolwol",
+    "moseley & asher (1994)": "\nLonwolwol",
+    "multitree": "\nCraig Cove\nFali\nFanting\nLonwolwol",
+    "lexvo": "\nLonwolwol [en]",
+    "hhbib_lgcode": "\nAmbrym\nAmbrym (Tribu de Panté)\nFali\nLonwolwol / Dal Kalaen\nWest Ambrym\nWest Ambrym (Lonwolwol)\nWest Ambryn",
+    "elcat": "\nCraig Cove\nFali\nFanting\nLonwolwol\nRaljago\nWest Ambrym"
+  },
+  "triggers": {
+    "lgcode": "\nambryn\nlonwolwol"
+  },
+  "identifier": {
+    "wals": "lnw",
+    "multitree": "crc",
+    "endangeredlanguages": "4052"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Raljago (4052-crc) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Korandje",
+    "hid": "kcy",
+    "level": "language",
+    "iso639-3": "kcy",
+    "latitude": "29.4957",
+    "longitude": "-2.48113",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "DZ"
+    ],
+    "links": "\n[Kwarandzyey](https://endangeredlanguages.com/lang/3803)\nhttps://www.wikidata.org/entity/Q33427\nhttps://en.wikipedia.org/wiki/Korandje_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:souag:11**\n**cldf:tilmatine:91**\n**hh:e:Champault:Tabelbala**\n**hh:hvs:Souag:Siwi-Tabelbala**\n**hh:phon:Nicolai:Songhay**\n**hh:s:Cancel:Tabelbala**\n**hh:s:Tilmatine:Tabelbala**\n**hh:v:Souag:Korandje**\n**hh:v:Souag:Korandje:2023**\n**hh:v:Souag:Western-Berber-Kwarandzyey**"
+  },
+  "altnames": {
+    "multitree": "\nKorandje",
+    "lexvo": "\nKorandje [de]\nKorandje jezik [hr]\nKorandje language [en]\nKorandjeg [br]\nKorandjé [fr]",
+    "elcat": "\nBelbali\nKorandje\nKwarandzyey\nTabelbala\nlbəlbaliyya\nالبلبالية‎‎"
+  },
+  "triggers": {
+    "lgcode": "\nkwarandzyey\ntabelbala"
+  },
+  "identifier": {
+    "multitree": "kcy",
+    "endangeredlanguages": "3803"
+  },
+  "classification": {
+    "sub": "**hh:hv:Souag:Songhay**",
+    "subrefs": "\n**hh:hv:Souag:Songhay**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kwarandzyey (3803-kcy) = Endangered (100 percent certain, based on the evidence available) [Souag 2010](cldf:souag:10)"
+  }
+}

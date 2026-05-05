@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tandroy Malagasy",
+    "hid": "tdx",
+    "level": "language",
+    "iso639-3": "tdx",
+    "latitude": "-24.80155",
+    "longitude": "45.9",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2852592"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2864**\n**asjp2010:3146**\n**asjp2010:437**\n**cldf:n:64**\n**cldf:rajohnson:08**\n**hh:d:Decary:Antandroy**\n**hh:d:RajaonarimananaFee:Tandroy**\n**hh:e:Decary:Tandroy**\n**hh:e:ValverdeHonore:Antandroy**\n**hh:he:Schomerus-Gernbock:Madagaskar**\n**hh:hv:Servaetal:Malagasy**\n**hh:hv:Verinetal:Malagasy**\n**hh:hvw:ServaPasquini:Madagascar:2020**\n**hh:typ:Nishimoto:Tandroy**\n**hh:vsoc:Ratsima:Atandroy**\n**hh:w:Dahl:Cockney-Malgache**\n**hh:w:Yamada:Malagasy**\n**mpieva:Fee2001Dictionn**"
+  },
+  "altnames": {
+    "multitree": "\nMalagasy, Tandroy-Mahafaly\nTandroy\nTandroy-Mahafaly Malagasy",
+    "lexvo": "\nTandroy-Mahafaly Malagasy [en]",
+    "hhbib_lgcode": "\n15 Antandroy (Ambovombe)\n33 - Antandroy (Toliara)\n4 - Antandroy (Ambovombe)\n59 - Antandroy (Tsihombe)\nAntandroy\nAntandroy 1\nAntandroy 2\nKarimbola\nMalagasy Tandroy\nMalagasy-Tandroy\nTandroy"
+  },
+  "triggers": {
+    "lgcode": "\ntandroy\nantandroy\nmadagaskars"
+  },
+  "identifier": {
+    "multitree": "tdx"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ServaPasquini:Madagascar:2020**",
+    "subrefs": "\n**hh:hvw:ServaPasquini:Madagascar:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malagasy, Tandroy-Mahafaly (tdx-tdx) = 6a (Vigorous)."
+  }
+}

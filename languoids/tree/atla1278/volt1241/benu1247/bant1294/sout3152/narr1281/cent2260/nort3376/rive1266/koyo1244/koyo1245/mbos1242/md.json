@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mbosi",
+    "hid": "mdw",
+    "level": "language",
+    "iso639-3": "mdw",
+    "latitude": "-1.23019",
+    "longitude": "15.5322",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36035\nhttps://en.wikipedia.org/wiki/Mbosi_language\n[Mbosi](https://wals.info/languoid/lect/wals_code_mdw)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:12299**\n**eballiso2009:19241**\n**eballiso2009:28707**\n**eballiso2009:30557**\n**eballiso2009:41345**\n**eballiso2009:41797**\n**eballiso2009:56996**\n**eballiso2009:56999**\n**hh:d:Kouarata:Mbochi**\n**hh:d:Prat:Mbochi**\n**hh:e:Itaoua:Mbosi**\n**hh:e:Ollandet:Teke-Mbosi**\n**hh:g:Amboulou:Mbochi**\n**hh:g:Fontaney:Mboshi**\n**hh:h:NdingaOba:Congo-Brazzaville**\n**hh:h:Struck:Moyen-Congo**\n**hh:hphontyp:NdingaOba:Congo-Brazzaville**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:ld:Nzete:Bokwele**\n**hh:phon:Aborobongui:Mbondzi**\n**hh:phon:Amboulou:Mbochi**\n**hh:phon:Kouarata:Mbochi**\n**hh:phon:Kouarata:Mbochi:2014**\n**hh:phon:Kouarata:Mbochi:Variatios**\n**hh:phon:Ndinga:Embosi**\n**hh:phon:Ndongo:Embosi**\n**hh:phon:Ndongo:Mbochi**\n**hh:phon:Obenga:Mbochi**\n**hh:phon:Ollassa:Mbosi**\n**hh:s:Kouarata:Mbosi**\n**hh:s:Ndongo:Embosi**\n**hh:s:Ossere:Olee**\n**hh:s:Prat:Mboshi**\n**hh:sd:Prat:Mbochie**\n**hh:sv:Kouarata:Mbochi-Variations**\n**hh:typ:Bedrosian:Mboshi**\n**hh:typ:RobbinsRobbins:Mbochi**\n**hh:w:Kouarata:Mbochi-Annexes**\n**sil16:43930**\n**sil16:43933**\n**sil16:43934**\n**sil16:43937**\n**sil16:43938**\n**sil16:43939**"
+  },
+  "altnames": {
+    "multitree": "\nEmbosi\nMbochi\nMboshe\nMboshi\nMbosi",
+    "lexvo": "\nMbosi [en]",
+    "hhbib_lgcode": "\nBokwele\nBokwele close\nBonyala\nC141_Bonyala\nC25A_Bunji\nC25B_Olee\nC25C_Ondinga\nC25E_Eboyi\nC25_Mboshi\nEmbosi\nLikuba if one looks at ALAC/E23 maps but the maps seem to be wrong --- this thesis shows Likuba as a different variety north of Bonyala and Bonyala seems to group with Mbosi\nMbochi\nMbondzi\nMboshi 1 Boundji C25\nMboshi 2 d. ngolo C25\nMboshi 3 d. olee C25\nMboshi 4 Olombo C25\nMboshi de Boundji\nMbosi 1 Boundji\nMbosi 2 Olee\nNgaé\nNgilima\nObaa\nOlee\nOndinga\nTsambitso\nto Likwala but groups with Mbosi"
+  },
+  "triggers": {
+    "lgcode": "\nondo{mbi\nyos\nmbosi\nimbamba\nnorr\nmboshi\nmossaka\nmbochi\nmbochie"
+  },
+  "identifier": {
+    "wals": "mdw",
+    "multitree": "mdw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:205 **hh:hphontyp:NdingaOba:Congo-Brazzaville**",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hphontyp:NdingaOba:Congo-Brazzaville**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbosi (mdw-mdw) = 6b (Threatened)."
+  }
+}

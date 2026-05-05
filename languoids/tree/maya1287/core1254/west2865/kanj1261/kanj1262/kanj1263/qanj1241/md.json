@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Q'anjob'al",
+    "hid": "kjb",
+    "level": "language",
+    "iso639-3": "kjb",
+    "latitude": "15.6846",
+    "longitude": "-91.3043",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT"
+    ],
+    "links": "\n[Kanjobal (Eastern)](https://wals.info/languoid/lect/wals_code_kea)\n[Q'anjob'al](https://endangeredlanguages.com/lang/652)\n[Q'anjob'al](https://grambank.clld.org/languages/qanj1241)\nhttps://en.wikipedia.org/wiki/Q%CA%BCanjob%CA%BCal_language\nhttps://www.wikidata.org/entity/Q35551"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:diegodediego:pascual:etal:96**\n**cldf:lewis:ed:09**\n**cldf:np:09:1**\n**cldf:np:nd:264**\n**cldf:pellicer:05**\n**cldf:richards:03**\n**cldf:rodriguez:nd:1**\n**haspelmath:toledo_complex_2012**\n**haspelmath:toledo_secondary_2012**\n**hh:d:ALMG:Qanjobal**\n**hh:d:Raymundo:Qanjobal**\n**hh:d:Sosa:Qanjobal**\n**hh:d:deDiego:Qanjobal**\n**hh:e:Wagley:Maya-Northwestern-Guatemala**\n**hh:g:Montejo:Qanjobal**\n**hh:hvs:Yasugi:Mayas-Guatemala**\n**hh:ld:Garcia:Moocho**\n**hh:phon:Raymundo:Chuj-Qanjobal**\n**hh:s:Mateo:Qanjobal**\n**hh:styp:Acker:Qanjobal**\n**hh:styp:Toledo:Qanjobal**\n**hh:typ:Craig:Qanjobal-Clasificadores**\n**hh:typ:Martin:Kanjobal**\n**hh:w:DienhartMichaelsen:Kanjobal**\n**iso6393:2008-059**\n**mpieva:Pascual2007Skawxuba**\n**sil16:13447**\n**sil16:13448**\n**sil16:23630**\n**sil16:46685**"
+  },
+  "altnames": {
+    "wals": "\nKanjobal (Eastern)",
+    "moseley & asher (1994)": "\nKanjobal",
+    "multitree": "\nConob\nEastern Kanjobal\nKanhobal\nKanjobal\nKanjobal (Eastern)\nKanjobal, Eastern\nQ'anjob'al\nQanjobal\nSanta Eulalia Kanjobal",
+    "lexvo": "\nIdioma q'anjob'al [es]\nKanjobal [de]\nLíngua canjobal [pt]\nQ'anjob'al [en]\nQ'anjob'al language [en]\nQ'anjob'al simi [qu]\nКанхобалски јазик [mk]",
+    "elcat": "\nConob\nEastern\nEastern Kanjobal\nKanhobal\nKanjobal\nKanjobal (Eastern)\nQ'anjob'al\nQanjobal",
+    "hhbib_lgcode": "\nMoocho'\nQanjobal\nQ’anjob’al"
+  },
+  "triggers": {
+    "lgcode": "\ntxuljubal\nqanjobal"
+  },
+  "identifier": {
+    "wals": "kea",
+    "multitree": "kjb",
+    "endangeredlanguages": "652"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Q'anjob'al (652-kjb) = Vulnerable (20 percent certain, based on the evidence available) [Richards 2003](cldf:richards:03)"
+  }
+}

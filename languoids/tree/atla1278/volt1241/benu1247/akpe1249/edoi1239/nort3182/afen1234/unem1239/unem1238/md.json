@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Uneme",
+    "hid": "une",
+    "level": "language",
+    "iso639-3": "une",
+    "latitude": "6.97237",
+    "longitude": "6.13427",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913357\nhttps://en.wikipedia.org/wiki/Uneme_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3904**\n**hh:e:Harunah:Uneme**\n**hh:ew:Asimiafele:Unemhe**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Bradbury:Edo**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hvld:Lewis:North-Western-Edo**\n**hh:hvw:Bradbury:Edo**\n**hh:hvw:Elugbe:Edoid**\n**hh:ld:Yuka:Uneme**\n**hh:w:Elimelech:Etsako-Wordlist**"
+  },
+  "altnames": {
+    "multitree": "\nIleme\nIneme\nUleme\nUneme",
+    "lexvo": "\nUneme [en]",
+    "hhbib_lgcode": "\nIneme\nS. Uneme\nUleme\nUneme-Eturu\nUnemhe"
+  },
+  "triggers": {
+    "lgcode": "\nphonology AND edoid"
+  },
+  "identifier": {
+    "multitree": "une"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Elugbe:Edoid**",
+    "subrefs": "\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Uneme (une-une) = 6b* (Threatened)."
+  }
+}

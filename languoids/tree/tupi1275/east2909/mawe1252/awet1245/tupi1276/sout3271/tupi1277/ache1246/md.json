@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Aché",
+    "hid": "guq",
+    "level": "language",
+    "iso639-3": "guq",
+    "latitude": "-25.5865",
+    "longitude": "-56.4697",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PY"
+    ],
+    "links": "\n[Aché](https://endangeredlanguages.com/lang/1520)\n[Aché](https://grambank.clld.org/languages/ache1246)\n[Aché](https://wals.info/languoid/lect/wals_code_ach)\n[Guayaki](https://lexibank.clld.org/languages/gerarditupi-Guayaki)\nhttps://en.wikipedia.org/wiki/Ach%C3%A9_language\nhttps://phoible.org/languages/ache1246\nhttps://www.wikidata.org/entity/Q383701"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clastres:68**\n**cldf:clastres:72**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:depaiva:79**\n**cldf:gippert:drude:13**\n**cldf:hill:hawkes:etal:84**\n**cldf:jones:83:2**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**cldf:susnik:74**\n**hh:e:Bertoni:Guayakies**\n**hh:e:Cadogan:Guayaki**\n**hh:e:Clastres:Guayaki**\n**hh:e:Gurven:Hunter-Gatherers**\n**hh:e:HillHurtado:Ache**\n**hh:e:McMillan:Ache**\n**hh:e:Melia:Ache-Guayaki**\n**hh:e:MetrauxBaldus:Guayaki**\n**hh:e:Shprintsin:Guayaki**\n**hh:ew:Bertoni:Guayaki**\n**hh:ew:Vogt:Guayaki**\n**hh:he:Miraglia:Paraguay**\n**hh:ld:FirminodePaiva:Ache**\n**hh:lde:Miraglia:Ava**\n**hh:phon:Rossler:Ache**\n**hh:phon:Susnik:Guayaki**\n**hh:phond:Susnik:Guayaki**\n**hh:s:Mayntzhusen:Guayaki**\n**hh:s:Vellard:Guayaki**\n**hh:t:Mberendy:Ache**\n**hh:vw:Dietrich:Ache**\n**hh:w:Bertoni:Guayaki**\n**hh:w:Gomez-Perasso:Guajaki**\n**hh:w:vondenSteinen:Guayaqui**"
+  },
+  "altnames": {
+    "glottolog": "\nAche",
+    "wals": "\nAché",
+    "wals other": "\nAche\nGuayakí",
+    "ruhlen (1987)": "\nGuayakí",
+    "moseley & asher (1994)": "\nGuayaki",
+    "multitree": "\n\"Guaiaqui\"\n\"Guayakí\"\n\"Guoyagui\"\nAché\nAxe\nGuaiaqui\nGuajaki\nGuayaki\nGuayaki-Ache\nGuayakí\nGuayaquí\nGuoyagui",
+    "lexvo": "\nAché [en]",
+    "hhbib_lgcode": "\nAché in the appendix\nAché-Guayaki\nGuajakí\nGuayaki",
+    "elcat": "\nAché\nAxe\nGuaiaqui\nGuajaki\nGuayaki\nGuayaki-Ache\nGuayakí\nGuayaquí\nGuoyagui"
+  },
+  "triggers": {
+    "lgcode": "\nweickhmann\nguayaqui\nguayaki\ntransfers\nNOT tematico AND guayaki\nguayakies"
+  },
+  "identifier": {
+    "wals": "ach",
+    "multitree": "guq",
+    "endangeredlanguages": "1520"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mello:Tupi-Guarani** **hh:hv:RodriguesCabral:Tupi-Guarani** **hh:hv:Rodrigues:Xeta** **hh:vw:Dietrich:Ache**",
+    "subrefs": "\n**hh:hv:Mello:Tupi-Guarani**\n**hh:hv:Rodrigues:Xeta**\n**hh:vw:Dietrich:Ache**\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aché (1520-guq) = Severely Endangered (60 percent certain, based on the evidence available) (Intergenerational transmission is interrupted, as only older generations speak Aché fluently and in most speech domains. The younger generations have switched to the two national languages in Paraguay: (non-indigenous) Guarani and Paraguayan Spanish.) [Gippert and Drude 2013](cldf:gippert:drude:13)"
+  }
+}

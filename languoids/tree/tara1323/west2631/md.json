@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Western Highland Purepecha",
+    "hid": "pua",
+    "level": "language",
+    "iso639-3": "pua",
+    "latitude": "19.5392",
+    "longitude": "-102.154",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q16114351"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Chavez:Purepecha**\n**hh:g:deWolf:Tarasco**\n**hh:g:deWolf:Tarasco:Tarecuato**\n**hh:h:Chamoreau:Purepecha**\n**hh:phon:Friedrich:Tarascan**\n**hh:phontyp:Diego:Purhepecha**\n**hh:s:Friedrich:Tarascan**\n**hh:s:Monzon:Tarascas**\n**hh:typ:Friedrich:Tarascan:1971**\n**hh:typ:Monzon:Pureperha**\n**mpieva:Martinez1997Lenguaye**\n**mpieva:Medina2000Vocabula**"
+  },
+  "altnames": {
+    "multitree": "\nPurepecha\nPurépecha\nPurépecha del Oeste de las Sierras\nSierra Occidental Purépecha\nTarascan\nTarasco\nTarasko\nWestern Highland Purépecha",
+    "lexvo": "\nIdioma purépecha [es]\nP'urhépecha language [en]\nPurepecha [sv]\nPurépecha [nl]\nTarascan [hr]\nTarasco [de]\nTaraska simi [qu]\nWestern Highland Purepecha [en]\nПурепеча [ru]",
+    "hhbib_lgcode": "\nAngahuan (A)\nLa Cantera (C)\nNorthern dialects of Cocucho-Tirindaro-San José de Ocumicho supplemented by extensive research elsewhere in the Zacapu Valley and the Eleven Pueblos\nP'urhépecha de San Luis Tsuren\nPurepecha-Western Highland\nSierra Purepecha\nTarecuato"
+  },
+  "triggers": {
+    "lgcode": "\ntarascas\nsinopsis\npatzcuaro\nbenedict"
+  },
+  "identifier": {
+    "wals": "genus/tarascan",
+    "multitree": "pua",
+    "endangeredlanguages": "7569"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Purepecha (7569-pua) = Threatened (60 percent certain, based on the evidence available) (Data from Puácuaro village. \"According to the National Indigenous Languages Institute (INALI 2006), 59.8% of the people of Puácuaro speak P’orhépecha, all of whom are bilingual.\") ['bib1479']"
+  },
+  "classification": {
+    "sub": "**hh:hv:Friedrich:Tarascan**",
+    "subrefs": "\n**hh:hv:Friedrich:Tarascan**"
+  }
+}

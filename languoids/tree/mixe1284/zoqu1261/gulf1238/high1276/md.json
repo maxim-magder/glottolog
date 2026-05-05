@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Highland Popoluca",
+    "hid": "poi",
+    "level": "language",
+    "iso639-3": "poi",
+    "latitude": "18.198",
+    "longitude": "-94.9109",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Highland Popoluca](https://grambank.clld.org/languages/high1276)\n[Popoluca (Sierra)](https://wals.info/languoid/lect/wals_code_zqs)\n[Sierra Popoluca](https://endangeredlanguages.com/lang/6169)\n[Soteapan Zoque](https://lexibank.clld.org/languages/wichmannmixezoquean-SoteapanZoque)\nhttps://en.wikipedia.org/wiki/Sierra_Popoluca\nhttps://www.wikidata.org/entity/Q7511556"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2037**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:elson:47**\n**cldf:elson:g:99**\n**cldf:foster:40**\n**cldf:foster:42**\n**cldf:foster:45**\n**cldf:lewis:ed:09**\n**cldf:marlett:86**\n**cldf:sanchez:martinez:etal:12**\n**hh:d:Gutierrez:Popoluca-Sierra**\n**hh:g:Boudreault:Sierra-Popoluca**\n**hh:g:deJong:Sierra-Popoluca**\n**hh:hv:Elson:Mixe-Zoque**\n**hh:hv:Gutierrez:Protozoque**\n**hh:s:Elson:Popoluca**\n**hh:s:Elson:Popoluca-Soteapan**\n**hh:s:Foster:Popoluca-Veracruz**\n**hh:s:FosterFoster:Sierra-Popoluca**\n**hh:s:Morales:Popoluca-Veracruz**\n**hh:s:deMirandaetal:Popoluca**\n**hh:sd:ElsonGutierrez:Popoluca**\n**hh:soc:Gutierrez:Amamaloya**\n**hh:styp:Lopez:Nuntajiiyi**\n**hh:t:Gutierrez:Chichimeca**\n**hh:typ:Elson:Sierra-Popoluca**\n**hh:typ:Elson:Sierra-Popoluca-Morphology**\n**hh:typ:Himes:Sierra-Popoluca**\n**hh:typ:Lind:Sierra-Populuca**\n**hh:w:Foster:Popoluca**\n**mpieva:Elson1984Gramatic**\n**sil16:10617**\n**sil16:10618**\n**sil16:10619**\n**sil16:10620**\n**sil16:10625**\n**sil16:10627**\n**sil16:11707**\n**sil16:11830**\n**sil16:18566**\n**sil16:22527**\n**sil16:32228**\n**sil16:33300**\n**sil16:34250**\n**sil16:48831**"
+  },
+  "altnames": {
+    "wals": "\nZoque (Soteapan)",
+    "wals other": "\nHighland Popoluca\nSierra Popoluca",
+    "ruhlen (1987)": "\nSokean (Highland)",
+    "moseley & asher (1994)": "\nPopoluca (Sierra)",
+    "multitree": "\nHighland Popoluca\nHighland Sokean\nPopoluca (Sierra)\nPopoluca de Sierra\nPopoluca de la Sierra\nPopoluca, Highland\nPopulaca de la Sierra\nSierra Popoluca\nSoke\nSoteapan Zoque\nSoteapaneko\nZoque (Soteapan)",
+    "lexvo": "\nHighland Popoluca [en]\nSierra Popoluca [en]",
+    "hhbib_lgcode": "\nHighland\nNuntajɨɨyi\nPopoluca de Amamaloya\nPopoluca-Highland\nSierra Popoluca\nSoteapan Zoque-Popoluca",
+    "elcat": "\nHighland Popoluca\nPopoluca de la Sierra\nSierra Popoluca\nSoteapan Zoque\nSoteapanec"
+  },
+  "triggers": {
+    "lgcode": "\nsierra AND popoluca\nsoteapanec\nsoteapan"
+  },
+  "identifier": {
+    "wals": "zqs",
+    "multitree": "poi",
+    "endangeredlanguages": "6169"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sierra Popoluca (6169-poi) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

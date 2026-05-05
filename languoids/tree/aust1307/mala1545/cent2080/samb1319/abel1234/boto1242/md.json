@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Botolan Sambal",
+    "hid": "sbl",
+    "level": "language",
+    "iso639-3": "sbl",
+    "latitude": "15.2315",
+    "longitude": "120.164",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Botolan Sambal](https://grambank.clld.org/languages/boto1242)\nhttps://en.wikipedia.org/wiki/Botolan_language\nhttps://www.wikidata.org/entity/Q4095195"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2919**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:cribb:00**\n**cldf:madulid:01**\n**hh:d:Houck:Botolan-Sambal**\n**hh:e:Barrato:Pinatubo-Negritos**\n**hh:e:Shimizu:Pinatubo-Aytas**\n**hh:hvld:Stone:Sambalic:2006**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:hvw:Stone:Sambalic**\n**hh:ld:Minot:Aeta**\n**hh:lde:Fox:Pinatubo-Negritos**\n**hh:s:Antworth:Botolan-Sambal**\n**hh:s:Malicisi:Halitaq-Baytan**\n**hh:st:YamashitaConstantino:Kakilingan-Sambal**\n**sil16:14877**\n**sil16:14878**\n**sil16:14879**\n**sil16:14880**\n**sil16:14881**\n**sil16:18189**\n**sil16:18190**\n**sil16:20259**\n**sil16:22140**\n**sil16:29591**\n**sil16:42641**\n**sil16:50511**"
+  },
+  "altnames": {
+    "multitree": "\nAeta Negrito\nAyta Hambali\nBotolan Zambal\nSambal, Botolan",
+    "lexvo": "\nBotolan Sambal [en]",
+    "hhbib_lgcode": "\nSambal-Botolan\nSambal-Botolan (SblBt.)"
+  },
+  "triggers": {
+    "lgcode": "\npanambal\ndawdinonong\nhalitaq\npaglako\nbahawen\noyap\nbotolan\nkabayo\nsambalic\nbaytan\naeta\npinatubo\nkakilingan"
+  },
+  "identifier": {
+    "multitree": "sbl"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Stone:Sambalic**",
+    "subrefs": "\n**hh:hvw:Stone:Sambalic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sambal, Botolan (sbl-sbl) = 5 (Developing)."
+  }
+}

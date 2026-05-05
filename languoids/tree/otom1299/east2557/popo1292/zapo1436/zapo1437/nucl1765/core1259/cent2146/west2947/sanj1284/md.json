@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Western Tlacolula Valley Zapotec",
+    "hid": "zab",
+    "level": "language",
+    "iso639-3": "zab",
+    "latitude": "17.0332",
+    "longitude": "-96.5967",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Western Tlacolula Valley Zapotec](https://grambank.clld.org/languages/sanj1284)\n[Zapotec (San Lucas Quiaviní)](https://wals.info/languoid/lect/wals_code_zsq)\nhttps://en.wikipedia.org/wiki/Western_Tlacolula_Valley_Zapotec\nhttps://phoible.org/languages/sanj1284\nhttps://www.wikidata.org/entity/Q5614751"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1544**\n**hh:d:JCM:Zapoteco**\n**hh:d:Munroetal:San-Lucas-Quiavini-Zapotec**\n**hh:d:WhitecottonWhitecotton:Zapoteco**\n**hh:d:deCordova:Capoteca**\n**hh:g:Lillehaugen:Tlacoluca-Zapotec**\n**hh:hld:Munro:Valley-Zapotecs**\n**hh:hv:Campbell:Central-Zapotec**\n**hh:hvw:Radin:Zapotec**\n**hh:hvw:Rendon:Zapoteco**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:Chavez:Quiavini-Zapotec**\n**hh:phon:Esposito:Santa-Ana-Zapotec**\n**hh:phon:KnudsonJones:Guelavia-Zapotec**\n**hh:s:Broadwell:Santa-Ana-Zapotec**\n**hh:s:Lee:San-Lucas-Quiavini-Zapotec**\n**hh:s:Lee:San-Lucas-Quiavini-Zapotec:1999**\n**hh:s:Munro:Zapotec:2004**\n**hh:s:Reko:Zapoteca-del-Valle**\n**hh:s:delosReyes:Zapoteca**\n**hh:soc:Nee:Teotitlan-Valle-Zapotec**\n**hh:soc:Perez:Quiavini-Zapotec**\n**hh:styp:Gutierrez:Zapoteco-Teotitlan**\n**hh:typ:Galant:San-Lucas-Quiavini-Zapotec**\n**hh:typ:Gutierrez:Zapoteco-Teotitlan**\n**hh:typ:JonesChurch:Guelavia-Zapotec**\n**hh:typ:Kalivoda:Teotitlan-Valle-Zapotec**\n**hh:typ:Lillehaugen:Valley-Zapotec**\n**hh:typ:Nee:Teotitlan-Valle-Zapotec**\n**hh:typ:RoseNee:Teotitlan-Valle-Zapotec**\n**hh:typ:Rosenbaym:Zapotec**\n**hh:typ:Uchihara:Teotitlan-Zapotec**\n**hh:typ:Uchihara:Teotitlan-Zapotec-Activizing**\n**hh:vld:Gutierrez:Central-Zapotec**\n**iso6393:2015-020**\n**mpieva:Merrifield1977Studiesi**\n**sil16:15239**\n**sil16:44923**\n**sil16:44925**\n**sil16:46106**\n**sil16:46107**\n**sil16:46108**\n**sil16:46706**\n**sil16:47820**\n**sil16:47979**\n**sil16:49456**\n**sil16:51325**"
+  },
+  "altnames": {
+    "glottolog": "\nSan Juan Guelavia Zapotec\nSan Juan Guelavía Zapotec",
+    "wals": "\nZapotec (San Lucas Quiaviní)",
+    "wals other": "\nZapotec (San Lucas)",
+    "ruhlen (1987)": "\nSapoteko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nCentral Sapoteko\nSan Juan Guelavía Zapotec\nWestern Tlacolula Zapotec\nZapotec\nZapotec (San Lucas Quiaviní)\nZapotec, San Juan Guelavía\nZapoteco de San Felipe Tejalápam\nZapoteco de San Juan Guelavía\nZapotèque de San Felipe Tejalapan",
+    "lexvo": "\nSan Juan Guelavía Zapotec [en]",
+    "hhbib_lgcode": "\nAntequera (Oaxaca City) Zapotec\nColonial Valley Zapotec\nDel Valle\nSan Juan Guelavía Zapotec\nSan Lucas Quiaviní\nSan Lucas Quiaviní Zapotec\nSanta Ana Del Valle Zapotec\nTeotitlán del Valle Zapotec\nTilcaxete Valley Zapotec\nTlalixtac\nTlalixtac de Cabrera\nValley Zapotec\nZapotec-San Juan Guelavía\nZapotec-Western Tlacolula Valley\nZapoteco de Teotitlán"
+  },
+  "triggers": {
+    "lgcode": "\ntlacolula\nguelavia\nrlaba\nzapotecs\n>tu\nverschollene\nphonation\nxnana\nilit\ngaspar\nquellenschriften\nxte\nlucas\nmexikanischen\ncerrana\ncapoteca\nquiavini"
+  },
+  "identifier": {
+    "wals": "zsq",
+    "multitree": "zab"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Central-Zapotec**",
+    "subrefs": "\n**hh:hv:Campbell:Central-Zapotec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Zapotec of the Valleys, central (946-) = Severely endangered; Zapotec of the Valleys, middle northwest (955-) = Definitely endangered; Zapotec of the Valleys north (947-) = Severely endangered"
+  }
+}

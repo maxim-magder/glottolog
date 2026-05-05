@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Colombian Sign Language",
+    "hid": "csn",
+    "level": "language",
+    "iso639-3": "csn",
+    "latitude": "5.33532",
+    "longitude": "-75.4464",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\n[Colombian Sign Language](https://endangeredlanguages.com/lang/7005)\nhttps://www.wikidata.org/entity/Q2748229\nhttps://en.wikipedia.org/wiki/Colombian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:d:Parra:Senas-Colombiana**\n**hh:d:Royet:Manual-Colombiano**\n**hh:g:Oviedo:Lengua-Senas-Colombia**\n**hh:typ:Gateley:Colombian-Sign**"
+  },
+  "altnames": {
+    "lexvo": "\nColombian Sign Language [en]",
+    "elcat": "\nColombian Sign Language"
+  },
+  "identifier": {
+    "endangeredlanguages": "7005"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Colombian Sign Language (7005-csn) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "Lexical similarity (**hh:g:Clark:Sivia-Sign**):17-18.",
+    "subrefs": "\n**hh:g:Clark:Sivia-Sign**"
+  }
+}

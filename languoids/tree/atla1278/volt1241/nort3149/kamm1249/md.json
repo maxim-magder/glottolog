@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kam",
+    "hid": "kdx",
+    "level": "language",
+    "iso639-3": "kdx",
+    "latitude": "8.305",
+    "longitude": "11.05611111",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kam](https://grambank.clld.org/languages/kamm1249)\nhttps://en.wikipedia.org/wiki/Nyingwom_language\nhttps://www.wikidata.org/entity/Q36753"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Lesage:Kam-Dictionary**\n**hh:d:Lesage:Kam:Lexicon**\n**hh:g:Lesage:Kam**\n**hh:hew:Meek:Tribal:II**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:Boyd:Adamawa-Ubangi**\n**hh:hvw:Boyd:Adamawa:1988**\n**hh:t:Lesage:Kam-Texts**\n**hh:typ:Lesage:Kam-Adjectives**\n**hh:typ:Lesage:Kam-Logophoricity**\n**hh:typ:Lesage:Kam-Negation**\n**hh:typ:Lesage:Kam-TAM**\n**hh:typ:Lesage:Kam-Tense**\n**hh:v:Lesage:Kam-Position**\n**hh:w:Kleinewillinghofer:Kam**"
+  },
+  "altnames": {
+    "multitree": "\nKam\nNyingwom\nNyiwom\nYimwom",
+    "lexvo": "\nKam [en]\nKam language [en]\nNyimwomeg [br]\n𐌽𐌾𐌹𐌼𐍅𐍉𐌼𐌰𐍂𐌰𐌶𐌳𐌰 [got]",
+    "hhbib_lgcode": "\nNyingwom"
+  },
+  "triggers": {
+    "lgcode": "\nNOT du AND NOT le AND les AND adamawa"
+  },
+  "identifier": {
+    "multitree": "kdx"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kam (kdx-kdx) = 6a* (Vigorous)."
+  },
+  "classification": {
+    "sub": "**hh:v:Lesage:Kam-Position**",
+    "subrefs": "\n**hh:v:Lesage:Kam-Position**"
+  }
+}

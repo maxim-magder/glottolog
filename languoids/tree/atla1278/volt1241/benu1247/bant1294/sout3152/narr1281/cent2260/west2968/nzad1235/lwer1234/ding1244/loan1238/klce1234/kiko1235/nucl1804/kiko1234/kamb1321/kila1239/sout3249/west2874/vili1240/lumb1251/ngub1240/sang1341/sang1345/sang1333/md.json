@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sangu (Gabon)",
+    "hid": "snq",
+    "level": "language",
+    "iso639-3": "snq",
+    "latitude": "-1.52694",
+    "longitude": "11.9098",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36609\nhttps://en.wikipedia.org/wiki/Sangu_language_(Gabon)\n[Sangu](https://wals.info/languoid/lect/wals_code_sgu)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:idiata:03**\n**cldf:idiata:g:ed:03:3**\n**eballiso2009:14602**\n**eballiso2009:14603**\n**eballiso2009:14607**\n**eballiso2009:1718**\n**eballiso2009:23011**\n**eballiso2009:28707**\n**eballiso2009:29883**\n**eballiso2009:29884**\n**eballiso2009:29886**\n**eballiso2009:29887**\n**eballiso2009:29889**\n**eballiso2009:29890**\n**eballiso2009:29891**\n**eballiso2009:29892**\n**eballiso2009:29893**\n**eballiso2009:31133**\n**eballiso2009:45434**\n**eballiso2009:45510**\n**eballiso2009:52481**\n**eballiso2009:52482**\n**eballiso2009:52485**\n**eballiso2009:52487**\n**eballiso2009:52488**\n**eballiso2009:52489**\n**eballiso2009:7087**\n**eballiso2009:7942**\n**hh:e:Bonhommeetal:Babongo**\n**hh:e:Matsuura:Babongo**\n**hh:e:Matsuura:Babongo:2016**\n**hh:g:Idiata:Isangu**\n**hh:g:Idiate:Isangu**\n**hh:gsoc:Idiata:Isangu**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hlde:duChaillu:Afrique-Equatoriale**\n**hh:htyp:Blanchon:Gabon**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvld:Raponda:Gabon**\n**hh:ld:Beauchef:Massangu**\n**hh:phonv:Idiata:Isangu**\n**hh:s:Ondo-Mebiame:Yisangu**\n**hh:s:Ondo-Mebiame:Yisangu:1988**\n**hh:typ:Idiata:Isangu-Acquisition**"
+  },
+  "altnames": {
+    "wals": "\nSangu",
+    "wals other": "\nIsangu",
+    "ruhlen (1987)": "\nSangu",
+    "moseley & asher (1994)": "\nSangu",
+    "multitree": "\nChango\nIsangu\nSangu\nShango\nYisangou\nYisangu",
+    "lexvo": "\nSangu (Gabon) [en]\nSangu [en]",
+    "hhbib_lgcode": "\nAshango\nB42_Sangu_Mb\nB42_Sangu_Mi\nBabongo-Sangu\nI-Sangu\nIsangu\nMasangu\nMassangu\nSangu\nSangu 1 B42\nSangu 2 B42\nSedentarized Babongo of Boutoumbi village in Ngounié province in realtionship with the Masango\nYisangu"
+  },
+  "triggers": {
+    "lgcode": "\nmasangu\nashango\nisangu\nb42\necotone\nyisangu\nmassangu\nmorphophonologique\npsycholinguistique\ninzebi\nashangos\nmassango\nmusangu\ntells"
+  },
+  "identifier": {
+    "wals": "sgu",
+    "multitree": "snq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo** **hh:hv:deSchryver:Kikongo**:138-145",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Bostoen:Aire-Kongo**\n**hh:hv:deSchryver:Kikongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sangu (snq-snq) = 6a* (Vigorous)."
+  }
+}

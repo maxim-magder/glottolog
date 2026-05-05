@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Marba",
+    "hid": "mpg",
+    "level": "language",
+    "iso639-3": "mpg",
+    "latitude": "9.54",
+    "longitude": "15.8",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Marba_language\nhttps://www.wikidata.org/entity/Q56614"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4365**\n**hh:d:Nicola:Marba**\n**hh:d:Nicola:Marba:2014**\n**hh:hsoc:Hammetal:Monogoy**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Ajelloetal:Six-Tchadique-Central**"
+  },
+  "altnames": {
+    "multitree": "\n'Azumeina\nAzumeina\nKolong\nKulong\nKulung\nMaraba\nMarba",
+    "lexvo": "\nMarba [ca]\nMarba hizkuntza [eu]\nMarba jezik [hr]\nMarba language [en]\nMarbaeg [br]",
+    "hhbib_lgcode": "\nKulung\nMonogoy"
+  },
+  "triggers": {
+    "lgcode": "\nmarba\nmonogoy"
+  },
+  "identifier": {
+    "multitree": "mpg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Shyrock:Masa** **hh:el:Melis:Ham**",
+    "subrefs": "\n**hh:hv:Shyrock:Masa**\n**hh:el:Melis:Ham**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marba (mpg-mpg) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Yosondúa Mixtec",
+    "hid": "mpm",
+    "level": "language",
+    "iso639-3": "mpm",
+    "latitude": "16.874",
+    "longitude": "-97.579",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (Yosondúa)](https://wals.info/languoid/lect/wals_code_mxy)\n[Western Alta Mixtec](https://endangeredlanguages.com/lang/10537)\nhttps://www.wikidata.org/entity/Q12953741"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:312**\n**cldf:bradley:ed:92:2**\n**hh:g:Farris:Yosondua-Mixtec**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:ld:Josserand:Mixteca**\n**hh:sd:Farris:Mixteco**\n**sil16:32232**\n**sil16:43191**"
+  },
+  "altnames": {
+    "glottolog": "\nYosondua Mixtec",
+    "wals": "\nMixtec (Yosondúa)",
+    "wals other": "\nMixtec (Yosundua)\nMixteco (Yosundúa)\nYosundua Mixtec",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nMixtec (Yosondúa)\nMixtec, Yosondúa\nMixteco (Yosonda)\nMixteco de Santiago Yosondúa\nSouthern Misteko\nSouthern Mixteco\nSouthern Tlaxiaco Mixtec\nTlaxiaco",
+    "lexvo": "\nYosondúa Mixtec [en]",
+    "hhbib_lgcode": "\n115 Santiago Yosondua Mixtec Farris 1992; Josserand 1983\nMixtec-Yosondúa\nSantiago Yosondua\nYoso\nYosondúa",
+    "elcat": "\nAtatláhuca Mixtec\nChalcatongo Mixtec\nEastern Putla Mixtec\nItundujia Mixtec\nMagdalena Peñasco Mixtec\nMixteco de San Antonio Sinicahua\nMixteco de San Bartolomé Yucuañe\nMixteco de San Esteban Atatláhuca\nMixteco de San Juan Teita\nMixteco de San Juan Ñumí\nMixteco de San Pablo Tijaltepec\nMixteco de San Pedro Molinos\nMixteco de Santa Cruz Itundujia\nMixteco de Santa Cruz Tacahua\nMixteco de Santa Lucía Monteverde\nMixteco de Santa María Yosoyúa\nMixteco de Santiago Nuyoo\nMixteco de Santiago Yosondúa\nMixteco de Santo Tomás Ocotepec\nMixteco de Sierra Sur Noroeste\nMixteco de Yosonotú\nMixteco del Sur Bajo\nMixteco del norte de Tlaxiaco\nMixteco del sur medio\nMixteco del sureste central\nMixteco del suroeste de Tlaxiaco\nNorthern Tlaxiaco Mixtec\nNuyoo Mixtec\nOcotepec Mixtec\nSan Esteban Atatláhuca Mixteco\nSan Juan Teita Mixtec\nSan Miguel el Grande Mixtec\nSanta Lucía Monteverde Mixtec\nSanto Tomás Ocotepec Mixtec\nSinicahua Mixtec\nSouth Central Tlaxiaco Mixtec\nSoutheastern Ocotepec Mixtec\nSouthern Tlaxiaco Mixtec\nSouthwestern Tlaxiaco Mixtec\nTacahua Mixtec\nTeita Mixtec\nTijaltepec Mixtec\nWestern Alta Mixtec\nYosondúa Mixtec\nYucuañe Mixtec\nÑumí Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nyosondua"
+  },
+  "identifier": {
+    "wals": "mxy",
+    "multitree": "mpm",
+    "endangeredlanguages": "10537"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:15-16",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Alta Mixtec (10537) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

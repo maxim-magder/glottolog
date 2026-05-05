@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Repanbitip",
+    "hid": "rpn",
+    "level": "dialect",
+    "iso639-3": "rpn",
+    "latitude": "-16.3265",
+    "longitude": "167.619",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Niolean](https://endangeredlanguages.com/lang/2518)\nhttps://www.wikidata.org/entity/Q7313900\nhttps://en.wikipedia.org/wiki/Repanbitip_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2437**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**"
+  },
+  "altnames": {
+    "multitree": "\nRepanbitip",
+    "lexvo": "\nRepanbitip [en]",
+    "elcat": "\nNiolean\nRepanbitip"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "rpn",
+    "endangeredlanguages": "2518"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Repanbitip [rpn] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate language of East Malakula (Vanuatu), but it is mutually intelligible with Lendamboi [nms] (**hh:hvb:LynchCrowley:Vanuatu**:71). See also: Letemboi [nms].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "rpn"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Niolean (2518-rpn) = Severely Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

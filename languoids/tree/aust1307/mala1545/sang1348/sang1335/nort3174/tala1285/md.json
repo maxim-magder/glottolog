@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Talaud",
+    "hid": "tld",
+    "level": "language",
+    "iso639-3": "tld",
+    "latitude": "4.11846",
+    "longitude": "126.795",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7678964\nhttps://en.wikipedia.org/wiki/Talaud_language\n[Talaud](https://wals.info/languoid/lect/wals_code_tld)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hvw:MerrifieldSalea:NSulawesi**\n**hh:s:Bawole:Talaud**\n**hh:s:Kembuan:Miangas**\n**hh:s:Salea-Warouwetal:Talaud**\n**hh:s:Steller:Talaoetsch**\n**hh:s:Talens:Talaoetsch**\n**hh:s:Utsumi:Talaud**\n**hh:w:Stokhof:Holle:Talaud-Sangir**\n**hh:w:Utsumi:Talaud**"
+  },
+  "altnames": {
+    "wals": "\nTalaud",
+    "wals other": "\nTalaut\nTalodda",
+    "ruhlen (1987)": "\nTalaud",
+    "moseley & asher (1994)": "\nTalaud",
+    "multitree": "\nTalaud\nTalaut\nTalodda",
+    "lexvo": "\nTalaud [en]",
+    "hhbib_lgcode": "\nBeo\nLirung\nMiangas\nSalibabo Islands or Talaut"
+  },
+  "triggers": {
+    "lgcode": "\ntalaoetsch\ntalaud"
+  },
+  "identifier": {
+    "wals": "tld",
+    "multitree": "tld"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sneddon:Proto-Sangiric** **hh:hv:Mead:Sulawesi:2024**:153",
+    "subrefs": "\n**hh:hvw:Sneddon:Proto-Sangiric**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Talaud (tld-tld) = 7 (Shifting)."
+  }
+}

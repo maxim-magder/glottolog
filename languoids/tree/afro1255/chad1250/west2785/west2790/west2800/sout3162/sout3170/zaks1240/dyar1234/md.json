@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Dyarim",
+    "hid": "dyr",
+    "level": "language",
+    "latitude": "10.03",
+    "longitude": "9.065",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Dyarim](https://endangeredlanguages.com/lang/10450)\nhttps://en.wikipedia.org/wiki/Dyarim_language\nhttps://www.wikidata.org/entity/Q52395140",
+    "iso639-3": "dyr"
+  },
+  "classification": {
+    "sub": "**hh:w:Blench:Dyarim** **hh:wsoc:Decker:Zeem**",
+    "subrefs": "\n**hh:wsoc:Decker:Zeem**\n**hh:w:Blench:Dyarim**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:04:3**\n**cldf:blench:12:1**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:w:Blench:Dyarim**\n**hh:w:Blench:Dyarim:2005**\n**hh:wsoc:Decker:Zeem**\n**iso6393:2022-030**"
+  },
+  "triggers": {
+    "lgcode": "\ndyarim"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dyarim (10450) = Severely Endangered (80 percent certain, based on the evidence available) (\"The chief himself does not have a fluent command of Dyàrìm Tə́ and none of the young people present at the meeting could speak it. Nonetheless, the older informants have remained fluent and perhaps the language is still commonly spoken in isolated hamlets. But there is no doubt that it is very endangered.”) [Blench 2007](cldf:blench:07:6)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nDyarim (Kayauri Dutse)\nKaiyorawa",
+    "elcat": "\nDyarim\nDyarim Tə\nDyarum\nDyàrìm Tə́\nKaiwari\nKayaurinci\nNdyarim Tə"
+  },
+  "identifier": {
+    "endangeredlanguages": "10450"
+  }
+}

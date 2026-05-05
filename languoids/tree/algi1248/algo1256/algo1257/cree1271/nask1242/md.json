@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Naskapi",
+    "hid": "nsk",
+    "level": "language",
+    "iso639-3": "nsk",
+    "latitude": "55.9316",
+    "longitude": "-61.1318",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Naskapi](https://wals.info/languoid/lect/wals_code_nsk)\nhttps://en.wikipedia.org/wiki/Naskapi_language\nhttps://www.wikidata.org/entity/Q1704302"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hallowell:29**\n**cldf:henriksen:73**\n**cldf:lips:47:1**\n**cldf:mackenzie:jancewicz:94**\n**cldf:nichols:ed:00:3**\n**cldf:ostler:ed:98:1**\n**cldf:pentland:ed:98:2**\n**cldf:pentland:ed:99:10**\n**cldf:pentland:ed:99:2**\n**cldf:strong:29:2**\n**cldf:tanner:44**\n**cldf:turner:90**\n**hh:d:MacKenzieJancewicz:Naskapi**\n**hh:e:RogersLeacock:Montagnias-Naskapi**\n**hh:e:Speck:Naskapi**\n**hh:hv:Michelson:Cree-Montagnais-Naskapi**\n**hh:hvs:MacKenzie:Cree-Montagnais-Naskapi**\n**hh:phon:Scott:Naskapi**\n**hh:s:MacKenzie:Montagnais-Naskapi**\n**sil16:31473**\n**sil16:40562**\n**sil16:45277**\n**sil16:45279**\n**sil16:45281**\n**sil16:45282**\n**sil16:45283**\n**sil16:45284**\n**sil16:47209**"
+  },
+  "altnames": {
+    "wals": "\nNaskapi",
+    "ruhlen (1987)": "\nNaskapi",
+    "multitree": "\nCree\nEastern Naskapi\nInnu Aimuun\nIyuw Imuun\nMushuaau Innu\nNaskapee\nNaskapi\nNaskapí\nWestern Naskapi",
+    "lexvo": "\nNaskapi [en]\nNaskapi language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nNOT cree AND NOT notes AND naskapi\nnaskapi"
+  },
+  "identifier": {
+    "wals": "nsk",
+    "multitree": "nskp;nsk"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Naskapi (2354-nsk) = Vulnerable"
+  }
+}

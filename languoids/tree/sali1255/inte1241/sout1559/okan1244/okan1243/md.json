@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Okanagan",
+    "hid": "oka",
+    "level": "language",
+    "iso639-3": "oka",
+    "latitude": "49.2745",
+    "longitude": "-119.294",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Nsyilxcən](https://endangeredlanguages.com/lang/1919)\n[Okanagan](https://grambank.clld.org/languages/okan1243)\n[Okanagan](https://wals.info/languoid/lect/wals_code_oka)\nhttps://en.wikipedia.org/wiki/Okanagan_language\nhttps://www.wikidata.org/entity/Q2984602"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barthmaier:02**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:downing:noonan:ed:95:2**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:mattina:80**\n**cldf:mattina:82**\n**cldf:mattina:93**\n**cldf:np:12:6**\n**cldf:np:13:13**\n**cldf:np:nd:264**\n**hh:d:Mattina:Colville**\n**hh:e:KennedyBouchard:Northern-Okanagan**\n**hh:e:Miller:Middle-Columbia-River**\n**hh:e:Ray:Sanpoil-Nespelem**\n**hh:e:Teit:Salishan**\n**hh:g:Mattina:Colville**\n**hh:hv:Swadesh:Salish:1950**\n**hh:hw:Howse:NAmerican**\n**hh:hw:Scouler:NWCoast**\n**hh:phon:OBrien:Methow**\n**hh:phon:Watkins:Lake-Okanagan**\n**hh:phon:Young:Okanogan**\n**hh:styp:Hebert:Okanagan**\n**hh:styp:Lyon:Okanagan**\n**hh:w:Doak:Okanagan**"
+  },
+  "altnames": {
+    "wals": "\nOkanagan",
+    "wals other": "\nColville-Okanagan",
+    "ruhlen (1987)": "\nOkanagan",
+    "moseley & asher (1994)": "\nOkanagan",
+    "multitree": "\nColville-Okanagan\nNsilxcín\nOkanagan\nOkanagan-Colville\nOkanagon\nOkanagon Cluster\nOkanogan\nOkanogán\nOkinagan\nnsilxcín",
+    "lexvo": "\nColville-okanagan [fr]\nOkanagan [en]\nOkanagan language [en]",
+    "hhbib_lgcode": "\nColville\nMethow\nNespelem\nOkanagan (= Salish family)\nOkanagan Ok\nOkanagon\nOkanogan\nSanpoil",
+    "elcat": "\nColville-Okanagan\nNsilxcín\nNsyilxcen\nNsyilxcn\nNsyilxcən\nNsəlxcin\nOkanagan\nOkanagan-Colville\nOkanagon\nOkanagon Cluster\nOkanogan\nOkinagan\nn̓səl̓̓xčin̓"
+  },
+  "triggers": {
+    "lgcode": "\ncolville\nokanagan\nmethow"
+  },
+  "identifier": {
+    "wals": "oka",
+    "multitree": "oka",
+    "endangeredlanguages": "1919"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950**",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nsyilxcən (1919-oka) = Endangered (20 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  }
+}

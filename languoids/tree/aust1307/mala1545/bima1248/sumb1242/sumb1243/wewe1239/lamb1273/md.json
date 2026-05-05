@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Lamboya",
+    "hid": "lmy",
+    "level": "language",
+    "iso639-3": "lmy",
+    "latitude": "-9.70434",
+    "longitude": "119.344",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Laboya](https://endangeredlanguages.com/lang/9950)\n[Lamboya](https://grambank.clld.org/languages/lamb1273)\nhttps://en.wikipedia.org/wiki/Lamboya_language\nhttps://www.wikidata.org/entity/Q2479725"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:barat:08**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:geirnaert-martin:92**\n**cldf:geirnaert:87**\n**cldf:geirnaert:89**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:keane:07**\n**cldf:keesing:84:2**\n**cldf:lansing:nd**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:14:5**\n**cldf:np:16:7**\n**cldf:vel:05**\n**cldf:vel:08**\n**hh:d:RinaKabba:Lamboya**\n**hh:h:DjuliJawa:Sumba-Barat**\n**hh:hv:Blust:Bima-Sumba**\n**hh:hvw:Budasi:Sumba**\n**hh:hvw:Jawa:Sumba**\n**hh:hvw:Putra:Sumba**\n**hh:s:Verdizade:Laboya**\n**hh:w:Wielenga:Soemba**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nLamboya",
+    "lexvo": "\nLamboya [en]",
+    "hhbib_lgcode": "\n9 Weelibo\nLaboya\nLamboja",
+    "elcat": "\nLaboya\nLamboya"
+  },
+  "identifier": {
+    "multitree": "lmy",
+    "endangeredlanguages": "9950"
+  },
+  "classification": {
+    "sub": "**hh:hv:Asplund:Sumba**",
+    "subrefs": "\n**hh:hv:Asplund:Sumba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Laboya (9950-lmy) = Threatened (40 percent certain, based on the evidence available) [Barat 2008](cldf:barat:08)"
+  }
+}

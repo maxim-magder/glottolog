@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Lower Sorbian",
+    "hid": "dsb",
+    "level": "language",
+    "iso639-3": "dsb",
+    "latitude": "51.6621",
+    "longitude": "13.9407",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\n[Lower Sorbian](https://endangeredlanguages.com/lang/4109)\n[Lower Sorbian](https://lexibank.clld.org/languages/wold-LowerSorbian)\n[Sorbian (Lower)](https://wals.info/languoid/lect/wals_code_srl)\nhttps://en.wikipedia.org/wiki/Lower_Sorbian_language\nhttps://phoible.org/languages/lowe1385\nhttps://www.wikidata.org/entity/Q13286"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:janas:76**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:213**\n**cldf:np:nd:264**\n**cldf:wowcerk:51**\n**hh:d:Starosta:Dolnoserbsko**\n**hh:g:Fasske:Vetschauer**\n**hh:g:Hauptmann:Wendische**\n**hh:g:Janas:Niedersorbische**\n**hh:g:Jentsch:Rodewitz**\n**hh:gt:Brijnen:Niedersorbische**\n**hh:phon:Brijnen:Slepe**\n**hh:phon:Fasske:Schleifer**\n**hh:phon:Schroeder:Schleife**\n**hh:phonv:Kalnyn:Nizhneluzhitskom**\n**hh:s:Kalnyn:Serboluzhitskim**\n**hh:s:Shcherba:Vostocholuzhitskoe**\n**hh:s:Stone:Sorbian**\n**hh:s:Swjela:Niedersorbischen**\n**hh:vphontyp:Mucke:Niedersorbischen**\n**mpieva:Lindseth1998Nullsubj**\n**mpieva:MuckeWorterbu**\n**mpieva:Schaarschmidt1997Thehisto**\n**mpieva:SchusterSewc2000DasSorbi**"
+  },
+  "altnames": {
+    "wals": "\nSorbian (Lower)",
+    "ruhlen (1987)": "\nSorbian",
+    "moseley & asher (1994)": "\nSorbian, Lower",
+    "multitree": "\nBas Sorabe\nDelnoserbski\nDolna Lužica\nDolnoserbski\nLow Sorbian\nLower Lusatian\nLower Sorbian\nLower Wendish\nLusatian\nNiedersorbisch\nSaxon Lusatian\nSorbian\nSorbian (Lower)\nSorbian, Lower\nSorbien\nSorbio\nSouthern Lusatian\nWendisch\nWendish",
+    "lexvo": "\nAşağı Sorb tili [crh]\nBaix sòrab [ca]\nBaixo sorábio [pt]\nBas-sorabe [fr]\nDelnjoserbšćina [hsb]\nDolnolužická srbčina [sk]\nDolnolužická srbština [cs]\nDolnoserbšćina [dsb]\nDolnosorbsko godka [szl]\nDólnosorbsczi jãzëk [csb]\nJęzyk dolnołużycki [pl]\nLimba sorabă de jos [ro]\nLingua lusaziana inferiore [it]\nLower Sorbian [en]\nLower Sorbian language [en]\nMalsuprasoraba lingvo [eo]\nNedersorbisch [li]\nNiedersorbische Sprache [de]\nSorabe Bas [oc]\nSorbais Iosal [gd]\nSorbish Eeghtyragh [gv]\nbas-sorabe [fr]\nДолнолужички јазик [mk]\nДолнолужишки език [bg]\nДольнасорбская мова [be]\nНижнелужицкий язык [ru]\nНижньолужицька мова [uk]\nТүбәнге лужи теле [ba]\n低地ソルブ語 [ja]\n고지 소르브어 [ko]",
+    "hhbib_lgcode": "\nLower Lusatian Wendish\nMuskau\nMuskau-Schleife\nNiedersorbischen\nNizhneluzhitskim\nRodewitz/Spree\nSchleife\nSchleifer\nSerboluzhitskim\nSlepe\nSorbian-Lower\nTransitional Sorbian\nWetosow/Vetschau",
+    "elcat": "\nBas Sorabe\nDelnoserbski\nDolna Lužica\nDolnoserbski\nLow Sorbian\nLower\nLower Lusatian\nLower Sorbian\nLower Wendish\nLusatian\nNiedersorbisch\nSaxon Lusatian\nSorbian\nSorbian (Lower)\nSouthern Lusatian\nWendisch\nWendish"
+  },
+  "triggers": {
+    "lgcode": "\nniedersorbischen\nrohne\nsorbische\nhanso\nobersorbische\nniedersorbisch\nschleife\nnieder\nnepila\nniedersorbische\ndolnoserbsko\nrecy\nlausisssche"
+  },
+  "identifier": {
+    "wals": "srl",
+    "multitree": "dsb",
+    "endangeredlanguages": "4109"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic** **hh:hv:Poljakov:Slavic** **hh:g:Schuster-Sewc:Upper-Sorbian**:245-248",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**\n**hh:g:Schuster-Sewc:Upper-Sorbian**\n**hh:hv:Poljakov:Slavic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lower Sorbian (4109-dsb) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

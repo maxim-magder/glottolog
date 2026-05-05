@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "O'du",
+    "hid": "tyh",
+    "level": "language",
+    "iso639-3": "tyh",
+    "latitude": "19.3497",
+    "longitude": "104.106",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Iduh](https://endangeredlanguages.com/lang/5937)\nhttps://en.wikipedia.org/wiki/O%CA%BCdu_language\nhttps://www.wikidata.org/entity/Q3347428"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Muxlinov:Nge-An**\n**hh:h:EdmondsonGregerson:Vietnam**\n**hh:hb:Parker:Austroasiatic**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:hld:Thomas:South-Bahnaric**\n**hh:hsoc:Proschan:Laos-Vietnam**\n**hh:hv:BradleyHarlow:1994Moseley**\n**hh:vld:Rischel:Khmuic**\n**hh:w:Proschan:Khang**"
+  },
+  "altnames": {
+    "multitree": "\n\"Tay Hat\"\n'Iduh\nHaat\nHat\nIduh\nO Du\nO'du\nTay Hat",
+    "lexvo": "\nO'du [en]",
+    "hhbib_lgcode": "\nIduh\nO Du\nTai Xat\nTay Hat\nTay Hay\nTayhat\nTayhat-O'du",
+    "elcat": "\n'Iduh\nHaat\nHat\nIduh\nO Du\nO'du\nTay Hat"
+  },
+  "triggers": {
+    "lgcode": "\nmosaics"
+  },
+  "identifier": {
+    "multitree": "tyh",
+    "endangeredlanguages": "5937"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Khmuic**",
+    "subrefs": "\n**hh:hv:Sidwell:Khmuic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Iduh (5937-tyh) = Severely Endangered (80 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

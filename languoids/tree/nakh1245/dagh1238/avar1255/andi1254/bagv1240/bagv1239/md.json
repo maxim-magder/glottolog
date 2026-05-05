@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bagvalal",
+    "hid": "kva",
+    "level": "language",
+    "iso639-3": "kva",
+    "latitude": "42.3966",
+    "longitude": "46.1041",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Bagvalal](https://endangeredlanguages.com/lang/1122)\n[Bagvalal](https://grambank.clld.org/languages/bagv1239)\n[Bagvalal](https://wals.info/languoid/lect/wals_code_bgv)\nhttps://en.wikipedia.org/wiki/Bagvalal_language\nhttps://www.wikidata.org/entity/Q56638"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4320**\n**cldf:anonymous:01**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:daniel:01**\n**cldf:ed:10**\n**cldf:gudava:64**\n**cldf:humphreys:mits:ed:93**\n**cldf:kibrik:03**\n**cldf:kodzasov:99:1**\n**cldf:lewis:ed:09**\n**cldf:moseley:05**\n**cldf:np:nd:264**\n**hh:d:Magomedova:Bagvalinsko**\n**hh:gtd:Kibrik:Bagvalinskij**\n**hh:htyp:Gamzatova:Dagestana**\n**hh:st:Gudava:Bagvaluri**\n**mpieva:Kibrik2001Bagvalin**"
+  },
+  "altnames": {
+    "wals": "\nBagvalal",
+    "wals other": "\nBagwalal",
+    "ruhlen (1987)": "\nBagval",
+    "moseley & asher (1994)": "\nBagulal",
+    "multitree": "\nBagulal\nBagvalal\nBagvalin\nBagwalal\nBarbalin\nKvanada\nKvanadin",
+    "lexvo": "\nBagvalal [en]\nBagvalal language [en]\nBagvalaleg [br]\nBagvalin kieli [fi]\nBagwalal [fr]\nJęzyk bagulalski [pl]\nБагвалинский язык [ru]\nБагвалинська мова [uk]",
+    "elcat": "\nBagulal\nBagvalal\nBagvalin\nBagwalal\nBarbalin\nKvanada\nKvanadin\nбагвалинский язык\nбагулальский язык\nкванадинский язык\nბაგვალალური ენა",
+    "hhbib_lgcode": "\nBagvalinskij"
+  },
+  "triggers": {
+    "lgcode": "\nslovari\nbagvalinsko\nbagvalinskij\nbagvaluri"
+  },
+  "identifier": {
+    "wals": "bgv",
+    "multitree": "kva",
+    "endangeredlanguages": "1122"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudava:Andijskix**",
+    "subrefs": "\n**hh:hv:Gudava:Andijskix**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Bagvalal (1122-kva) = Threatened (20 percent certain, based on the evidence available) [Moseley 2005](cldf:moseley:05)"
+  }
+}

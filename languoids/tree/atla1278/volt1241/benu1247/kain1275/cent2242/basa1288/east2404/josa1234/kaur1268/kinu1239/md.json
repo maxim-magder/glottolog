@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kinuku",
+    "hid": "kkd",
+    "level": "language",
+    "iso639-3": "kkd",
+    "latitude": "10.3524",
+    "longitude": "8.1296",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6414422\nhttps://en.wikipedia.org/wiki/Kinuku_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Temple:NNigeria**\n**hh:he:Gunn:Pagan-Central**\n**hh:hel:Sommer:Survey**"
+  },
+  "altnames": {
+    "multitree": "\nKinugu\nKinuka\nKinuku",
+    "lexvo": "\nKinuku [en]",
+    "hhbib_lgcode": "\nKauru-Kinuku\nKinuka"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND death"
+  },
+  "identifier": {
+    "multitree": "kkd"
+  },
+  "classification": {
+    "sub": "**hh:h:Blench:East-Kainji**",
+    "subrefs": "\n**hh:h:Blench:East-Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kinugu (kkd-kkd) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Jimi (Nigeria)",
+    "hid": "jmi",
+    "level": "language",
+    "iso639-3": "jmi",
+    "latitude": "10.7299",
+    "longitude": "9.8118",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Jimi (Nigeria)](https://endangeredlanguages.com/lang/4335)\nhttps://www.wikidata.org/entity/Q3502308\nhttps://en.wikipedia.org/wiki/Jimi_language_(Nigeria)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2112**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hel:Sommer:Survey**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:w:Cosper:Barawa**\n**hh:w:Gowers:Bauchi**\n**hh:wsoc:Decker:South-Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nBi-Gimu\nJimi",
+    "lexvo": "\nJimi (Nigeria) [en]\nJimi [en]\nJimi language [en]",
+    "hhbib_lgcode": "\nJimi",
+    "elcat": "\nBi-Gimu\nJimi (Nigeria)"
+  },
+  "triggers": {
+    "lgcode": "\nlexicon AND barawa"
+  },
+  "identifier": {
+    "multitree": "jmi",
+    "endangeredlanguages": "4335"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:SBauchi**",
+    "subrefs": "\n**hh:hvw:Shimizu:SBauchi**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Jimi (Nigeria) (4335-jmi) = Severely Endangered (60 percent certain, based on the evidence available) ([Used by] Mainly older adults.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

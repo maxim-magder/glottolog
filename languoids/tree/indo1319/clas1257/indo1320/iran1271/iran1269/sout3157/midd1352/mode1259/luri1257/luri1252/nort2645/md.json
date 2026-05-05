@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Northern Luri",
+    "hid": "lrc",
+    "level": "language",
+    "iso639-3": "lrc",
+    "latitude": "32.5438",
+    "longitude": "47.916",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "IR"
+    ],
+    "links": "\n[Luri](https://wals.info/languoid/lect/wals_code_lur)\nhttps://en.wikipedia.org/wiki/Northern_Luri_language\nhttps://www.wikidata.org/entity/Q19933293"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Izadpanah:Lori**\n**hh:hvw:Anonby:Luri**\n**hh:hvw:Hasuri:Lorestan**\n**hh:s:Blau:Lori**\n**hh:s:Kerimova:Lurskie**\n**hh:s:MacKinnon:Gio**\n**hh:s:MacKinnon:Xorramabad**\n**hh:s:Mann:Lurdialekte**\n**hh:sd:Rusyami:Nahavandi**\n**hh:st:Amanolahi:Luristan**\n**hh:typt:Blau:Cagani**\n**hh:w:Kiya:Irani**"
+  },
+  "altnames": {
+    "wals": "\nLuri",
+    "ruhlen (1987)": "\nBakhtiari, Feyli",
+    "moseley & asher (1994)": "\nLuri",
+    "multitree": "\nLori\nLuri\nLuri (Northern)\nLuri, Northern",
+    "lexvo": "\nBorujerdi dialect [en]\nNorthern Luri [en]\nلهجه بروجردی [fa]",
+    "hhbib_lgcode": "\nFeili\nGio\nKhorramabad Lori\nKleinluren/Feili\nLori\nLuri\nLuri-Northern\nMostly Khurramabadi\nNahavandi\nNehavandi\nXorram Abad Shasawar\nXorramābād"
+  },
+  "triggers": {
+    "lgcode": "\ncagani\nangali\nxorramabad"
+  },
+  "identifier": {
+    "wals": "lur",
+    "multitree": "lrc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Anonby:Luri**",
+    "subrefs": "\n**hh:hvw:Anonby:Luri**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Luri, Northern (lrc-lrc) = 6a (Vigorous)."
+  }
+}

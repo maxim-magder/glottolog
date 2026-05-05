@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ratahan",
+    "hid": "rth",
+    "level": "language",
+    "iso639-3": "rth",
+    "latitude": "1.07592",
+    "longitude": "124.858",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Ratahan](https://endangeredlanguages.com/lang/1464)\n[Ratahan](https://grambank.clld.org/languages/rata1244)\n[Toratán](https://wals.info/languoid/lect/wals_code_tor)\nhttps://en.wikipedia.org/wiki/Ratahan_language\nhttps://www.wikidata.org/entity/Q3420026"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:himmelmann:wolf:99**\n**cldf:jukes:05:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hvw:MerrifieldSalea:NSulawesi**\n**hh:hw:Jansen:Talen-Menado**\n**hh:s:HimmelmannWolff:Toratan**\n**hh:w:Stokhofetal:Holle:7:2**"
+  },
+  "altnames": {
+    "wals": "\nToratán",
+    "ruhlen (1987)": "\nRatahan",
+    "moseley & asher (1994)": "\nRatahan",
+    "multitree": "\nBentenan\nPasan\nRatahan\nToratán",
+    "lexvo": "\nRatahan [en]",
+    "elcat": "\nBentenan\nPasan\nRatahan\nToratán"
+  },
+  "triggers": {
+    "lgcode": "\nratahan\ntoratan"
+  },
+  "identifier": {
+    "wals": "tor",
+    "multitree": "rth",
+    "endangeredlanguages": "1464"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sneddon:Proto-Sangiric** **hh:hv:Mead:Sulawesi:2024**:153",
+    "subrefs": "\n**hh:hvw:Sneddon:Proto-Sangiric**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ratahan (1464-rth) = Endangered (20 percent certain, based on the evidence available) [Jukes 2005](cldf:jukes:05:1)"
+  }
+}

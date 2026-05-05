@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "She",
+    "hid": "shx",
+    "level": "language",
+    "iso639-3": "shx",
+    "latitude": "23.0399",
+    "longitude": "114.814",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[She](https://endangeredlanguages.com/lang/1326)\n[She](https://grambank.clld.org/languages/shee1238)\n[She](https://lexibank.clld.org/languages/chenhmongmien-She)\nhttps://en.wikipedia.org/wiki/She_language\nhttps://www.wikidata.org/entity/Q2605689"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2446**\n**cldf:ed:10**\n**cldf:gan:11**\n**cldf:lewis:ed:09**\n**cldf:mao:maozongwu:etal:86**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:wu:04:2**\n**cldf:wu:14**\n**cldf:yang:10:2**\n**cldf:zhao:09:1**\n**cldf:zhao:09:2**\n**cldf:zhao:11:1**\n**hh:d:Nakanishi:She**\n**hh:e:BaoQiu:Huidong-She**\n**hh:e:ZhuJiang:Guangdong-She**\n**hh:g:Gan:Sheyu**\n**hh:hb:TsaiDeng:She**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:hvw:Chen:Miao-Yao**\n**hh:phon:Chen:Yunti-She**\n**hh:s:MaoMeng:She**\n**hh:s:Nakanishi:She**\n**hh:soc:Luo:She**\n**hh:soc:Ma:She**\n**hh:typ:MaoMeng:She**\n**hh:v:Ratliff:Ho-Ne**\n**hh:vtyp:Kwok:She**\n**hh:vw:Lan:Boluo-She**\n**mpieva:Mao1986Sheyujia**"
+  },
+  "altnames": {
+    "multitree": "\nChe\nHo Nte\nHuo Nte\nShe",
+    "lexvo": "\nHo nte [fr]\nShe [en]\nShe language [en]\nШэ [ru]\nシェ語 [ja]\n畲语 [zh]",
+    "hhbib_lgcode": "\nBoluo She\nBuluo\nCangnan\nChenhu Village-Huidong County-Guangdong\nFengshun\nFu'an\nFuding\nGuixi\nHaifeng She\nHo Ne\nHo Nte\nHua'an\nHuidong\nHuidong SHe\nHuidong She\nHuzhou\nLianhua\nLongyou\nLuofu\nLuoyuan\nSanming\nSheyu\nShunchang\nXiashuicun\nYunti She\nZengcheng",
+    "elcat": "\nHuo Nte\nShe\n山哈\n畬語"
+  },
+  "triggers": {
+    "lgcode": "\nyu AND she\nsheyu"
+  },
+  "identifier": {
+    "multitree": "shx",
+    "endangeredlanguages": "1326"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ratliff:Hmong-Mien**",
+    "subrefs": "\n**hh:hv:Ratliff:Hmong-Mien**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "She (1326-shx) = Severely Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

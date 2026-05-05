@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Sanumá",
+    "hid": "xsu",
+    "level": "language",
+    "iso639-3": "xsu",
+    "latitude": "4.5",
+    "longitude": "-64.5",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "VE"
+    ],
+    "links": "\n[Sanuma](https://wals.info/languoid/lect/wals_code_snm)\n[Sanumá](https://endangeredlanguages.com/lang/2750)\n[Sanumá](https://grambank.clld.org/languages/sanu1240)\nhttps://en.wikipedia.org/wiki/San%C3%B6ma_language\nhttps://phoible.org/languages/sanu1240\nhttps://www.wikidata.org/entity/Q251728"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikhenvald:dixon:99**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:wilbert:63**\n**hh:e:Ramos:Sanuma**\n**hh:e:Ramos:Sanuma:1990**\n**hh:e:Wilbert:Yanomami-Literature**\n**hh:ew:Vinci:Samatari**\n**hh:g:Borgman:Sanuma**\n**hh:h:Borgmanetal:Waican**\n**hh:h:Silva:Roraima**\n**hh:he:Wilbert:Orinoco-Ventuari**\n**hh:hv:Ferreira:Yanomami-Brasil**\n**hh:hvwtyp:Migliazza:Yanomama**\n**hh:phon:Autuori:Sanuma**\n**hh:s:Borgman:Sanuma**\n**hh:w:Koch-Grunberg:Schiriana**\n**hh:w:Wilbert:Sanema**\n**iso6393:2006-015**"
+  },
+  "altnames": {
+    "glottolog": "\nSanuma",
+    "wals": "\nSanuma",
+    "wals other": "\nSanima",
+    "ruhlen (1987)": "\nSanemá",
+    "moseley & asher (1994)": "\nSanuma",
+    "multitree": "\nChirichano\nGuaika\nSamatali\nSamatari\nSamatli\nSanema\nSanema (Brésil)\nSanema (République bolivarienne du Venezuela)\nSanemá\nSanemá (Venezuela)\nSanima\nSanma\nSanum\nSanuma\nSanumá\nSanɨma\nShiriana\nTsanuma\nXamatari",
+    "lexvo": "\nIdioma Sanemá [es]\nSanumá [en]\nSanumá language [en]",
+    "hhbib_lgcode": "\nAuaris\nSamatari\nSanema\nSanuma\nSanöma\nSchiriana by name but looks more like Samatari\nScirisciana",
+    "elcat": "\nChirichano\nGuaika\nSamatali\nSamatari\nSamatli\nSanema\nSanemá\nSanima\nSanma\nSanum\nSanuma\nSanumá\nSanɨma\nShiriana\nTsanuma\nXamatari"
+  },
+  "triggers": {
+    "lgcode": "\nsanuma\naryon\namazzoni\nsurara\nsanema\npakidai\nsamatari"
+  },
+  "identifier": {
+    "wals": "snm",
+    "multitree": "xsu",
+    "endangeredlanguages": "2750"
+  },
+  "classification": {
+    "sub": "**hh:hvwtyp:Migliazza:Yanomama** **hh:s:Ferreira:Yaroame** **hh:g:Perri:Yanomama**:12 **hh:hv:Ferreira:Yanomami-Brasil**",
+    "subrefs": "\n**hh:s:Ferreira:Yaroame**\n**hh:hv:Ferreira:Yanomami-Brasil**\n**hh:g:Perri:Yanomama**\n**hh:hvwtyp:Migliazza:Yanomama**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sanumá (2750-xsu) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

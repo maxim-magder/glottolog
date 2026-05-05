@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Phukha",
+    "hid": "phh",
+    "level": "language",
+    "iso639-3": "phh",
+    "latitude": "22.27082",
+    "longitude": "104.41851",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\n[Phula](https://endangeredlanguages.com/lang/4964)\nhttps://www.wikidata.org/entity/Q7188298\nhttps://en.wikipedia.org/wiki/Phukha_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Tuyen:Northwest**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:hel:Bradley:EAsia**\n**hh:hld:Edmondson:3Tibeto-Burman**\n**hh:hvsoc:Pelkey:Phula**\n**hh:vphon:Fried:Phu-Kha**\n**iso6393:2007-068**\n**sil16:47679**"
+  },
+  "altnames": {
+    "multitree": "\nFu Khla\nPhu Kha\nPhu Khla\nPhu La\nPhula\nPhù Lá\nPhù Lá Hán",
+    "lexvo": "\nPhukha [en]\nPhula language [en]",
+    "hhbib_lgcode": "\nBo Kho Pa\nPhu Ka\nPhu La\nPhukhla\nPhula\nPhula (Pula/Bo Kho Pa)",
+    "elcat": "\nFu Khla\nPhu Kha\nPhu Khla\nPhu La\nPhula\nPhù Lá\nPhù Lá Hán"
+  },
+  "triggers": {
+    "lgcode": "\nmujis\nphula"
+  },
+  "identifier": {
+    "multitree": "phh",
+    "endangeredlanguages": "4964"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Pelkey:Phula**",
+    "subrefs": "\n**hh:hvsoc:Pelkey:Phula**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Phula (4964-phh) = Vulnerable (20 percent certain, based on the evidence available) (shifting to Vietnamese and other ethnic languages in the region; should be considered highly endangered.) [Pelkey 2011](cldf:pelkey:11:2)"
+  }
+}

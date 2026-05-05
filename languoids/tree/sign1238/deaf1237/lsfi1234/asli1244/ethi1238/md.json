@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Ethiopian Sign Language",
+    "hid": "eth",
+    "level": "language",
+    "iso639-3": "eth",
+    "latitude": "8.9761",
+    "longitude": "38.8534",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3501903\nhttps://en.wikipedia.org/wiki/Ethiopian_sign_languages"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:ENAD:Ethiopian-Sign**\n**hh:h:Derso:Gestural-Ethiopia**\n**hh:ld:Pawlos:Ethiopian-Sign-Aspect**\n**hh:ld:Woinshet:Ethiopian-Sign-Antonymy**\n**hh:s:Hailu:Ethiopian-Sign**\n**hh:soc:Demissie:Ethiopian-Sign:2011**\n**hh:soc:Demissie:Ethiopian-Sign:2024**\n**hh:soc:Hailu:Ethiopian-Sign**\n**hh:soc:Hailu:Ethiopian-Sign:2016**\n**hh:soc:Hailu:Ethiopian-Sign:2017**\n**hh:soc:Pawlos:Ethiopian-Sign**\n**hh:soc:Teklemariam:Sign-Ethiopia**\n**hh:typ:French:Ethiopian-Sign**\n**hh:typ:Gensler:Ethiopian-English**\n**hh:typ:Hailu:Ethiopian-Sign**\n**hh:typ:Woinshet:Ethiopian-Sign**\n**hh:w:ENAD:Amarinna-Melekket**"
+  },
+  "altnames": {
+    "multitree": "\nEthiopian Sign Language",
+    "lexvo": "\nEthiopian Sign Language [en]"
+  },
+  "identifier": {
+    "multitree": "eth"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ethiopian Sign Language (eth-eth) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Possibly derived from an ASL introduced in deaf school or merely influenced by ASL (**hh:soc:Hailu:Ethiopian-Sign:2016**:308, **hh:soc:Hailu:Ethiopian-Sign:2017**, **hh:typ:Woinshet:Ethiopian-Sign**:390-391).",
+    "subrefs": "\n**hh:soc:Hailu:Ethiopian-Sign:2017**\n**hh:soc:Hailu:Ethiopian-Sign:2016**\n**hh:typ:Woinshet:Ethiopian-Sign**"
+  }
+}

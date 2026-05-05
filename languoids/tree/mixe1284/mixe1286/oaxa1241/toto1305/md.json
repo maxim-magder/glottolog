@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Totontepec Mixe",
+    "hid": "mto",
+    "level": "language",
+    "iso639-3": "mto",
+    "latitude": "17.2157",
+    "longitude": "-96.0179",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixe (Totontepec)](https://wals.info/languoid/lect/wals_code_mtp)\n[North Highland Mixe](https://lexibank.clld.org/languages/wichmannmixezoquean-NorthHighlandMixe)\n[Totontepec Mixe](https://endangeredlanguages.com/lang/7589)\nhttps://en.wikipedia.org/wiki/Totontepec_Mixe\nhttps://phoible.org/languages/toto1305\nhttps://www.wikidata.org/entity/Q7828400"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1291**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:vanhaitsma:haitsma:76**\n**hh:d:SchoenhalsSchoenhals:Mixe-Totontepec**\n**hh:e:Bauer-Thoma:Zapoteken-Mixes**\n**hh:g:Suslak:Totontepecano**\n**hh:ldsoc:Morgan:Totontepec**\n**hh:phon:Crawford:Totontepec-Mixe**\n**hh:phon:Crawford:Totontepec-Mixe:1963**\n**hh:phon:Martinez:Mixe-Metepec**\n**hh:ssoc:Suslak:Totontepecano**\n**hh:styp:GuzmanGuzman:Mixe-Totontepec**\n**hh:typ:Guzman:Mixe-Totontepec-Codificacion**\n**hh:typ:Schoenhals:Totontepec-Mixe**\n**sil16:16489**"
+  },
+  "altnames": {
+    "wals": "\nMixe (Totontepec)",
+    "wals other": "\nMixe\nTotontepec\nTotontepec dialect",
+    "ruhlen (1987)": "\nMije",
+    "moseley & asher (1994)": "\nMixe",
+    "multitree": "\nAyuk\nMije\nMixe\nMixe (Totontepec)\nMixe, Totontepec\nMize (Totontepec)\nNorth Highland Mixe\nNorthern Highland Mije\nNorthwestern Mixe\nOaxaca Mije\nTetontepec\nTotontepec",
+    "lexvo": "\nTotontepec Mixe [en]",
+    "hhbib_lgcode": "\nAyook\nMixe Metepec",
+    "elcat": "\nAyuk\nNorthern Highland Mixe\nNorthwestern Mixe\nTotontepec Mixe"
+  },
+  "triggers": {
+    "lgcode": "\ntotontepec\n7ay2k\ntotontepecano\n7anyukojmit\nmetepec"
+  },
+  "identifier": {
+    "wals": "mtp",
+    "multitree": "mto",
+    "endangeredlanguages": "7589"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Totontepec Mixe (7589-mto) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

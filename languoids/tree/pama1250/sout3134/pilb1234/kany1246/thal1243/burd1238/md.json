@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Burduna",
+    "hid": "bxn",
+    "level": "language",
+    "iso639-3": "bxn",
+    "latitude": "-22.9646",
+    "longitude": "114.658",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Burduna](https://collection.aiatsis.gov.au/austlang/language/w24)\n[Purduna](https://endangeredlanguages.com/lang/4007)\nhttps://en.wikipedia.org/wiki/Burduna_language\nhttps://phoible.org/languages/burd1238\nhttps://www.wikidata.org/entity/Q4998313",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:centre:09:4**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Burgman:Burduna**\n**hh:h:Brandenstein:Pilbara**\n**hh:hb:Thieberger:WAustralian**\n**hh:hv:Austin:Gascoyne-Ashburton**\n**hh:hv:Austin:Kanyara-Mantharta**\n**hh:hv:Dench:Pilbara:Pronoun**\n**ozbib:1446**\n**ozbib:234**\n**ozbib:247**\n**ozbib:249**\n**ozbib:256**\n**ozbib:4426**\n**ozbib:4530**\n**ozbib:5628**\n**ozbib:6287**"
+  },
+  "altnames": {
+    "multitree": "\nBoordoona\nBootena\nBoruna\nBu-tena\nBudina\nBudoona\nBuduna\nBurduna\nPinneegooroo\nPoodena\nPoordoona\nPurduma\nPurduna\nTalandji-Buduna",
+    "lexvo": "\nBurduna [en]",
+    "hhbib_lgcode": "\nPurduna",
+    "elcat": "\nBoordoona\nBootena\nBoruna\nBu-tena\nBudina\nBudoona\nBuduna\nBurduna\nPinneegooroo\nPoodena\nPoordoona\nPurduma\nPurduna\nTalandji-Buduna",
+    "aiatsis": "\nBoordoona\nBootena\nBudina\nBudoona\nBuduna\nBurdana\nBurduna\nBuruna\nPeedona\nPinneegooroo\nPoodena\nPoordoona\nPuduna\nPurduma\nPurduna\nWati Paruna\nWati Puruna"
+  },
+  "triggers": {
+    "lgcode": "\ncd\nrom\nburduna"
+  },
+  "identifier": {
+    "multitree": "bxn",
+    "endangeredlanguages": "4007"
+  },
+  "classification": {
+    "sub": "**hh:g:WMPALCDeak:Thalanyji**:15-16",
+    "subrefs": "\n**hh:g:WMPALCDeak:Thalanyji**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Purduna (4007-bxn) = Dormant [Centre 2009](cldf:centre:09:4)"
+  }
+}

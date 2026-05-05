@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kachama-Ganjule-Haro",
+    "hid": "kcx",
+    "level": "language",
+    "iso639-3": "kcx",
+    "latitude": "6.3971",
+    "longitude": "37.9291",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Gats'amé](https://endangeredlanguages.com/lang/4358)\n[Kachama-Ganjule-Haro](https://grambank.clld.org/languages/kach1284)\nhttps://en.wikipedia.org/wiki/Kachama-Ganjule_language\nhttps://www.wikidata.org/entity/Q12634070"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:15757**\n**eballiso2009:15766**\n**eballiso2009:24941**\n**eballiso2009:24945**\n**eballiso2009:24946**\n**eballiso2009:31554**\n**eballiso2009:31555**\n**hh:d:Woldemariam:Haro**\n**hh:e:Braukmann:Haro**\n**hh:e:Braukmann:Haro-Nipferdjager**\n**hh:g:Sintayehu:Ganta**\n**hh:g:Wolde-Mariam:Haro:2015**\n**hh:g:Woldermariam:Haro**\n**hh:hel:Sommer:Survey**\n**hh:hsoc:Brenzinger:Islanders**\n**hh:s:ContiRossini:Haruro**\n**hh:soc:Abate:Ganjule**\n**hh:soc:Mohammed:Zayse-Zergulla**\n**hh:t:Abate:Ganjule**\n**hh:typ:Konig:MarkNom**\n**hh:typ:Worku:Ganta**\n**hh:vld:Woldemariam:Ganta**\n**hh:vld:Woldemariam:Ganta:2005**\n**hh:w:Brenzinger:Harro-Ganjule-Gatsame-Bayso**\n**hh:w:Inui:Ganjule**\n**sil16:37549**\n**sil16:42576**"
+  },
+  "altnames": {
+    "multitree": "\nGatame\nGats'ame\nGats'amé\nGatsama - ganjule - harro\nGatsame\nGet'eme\nGidicho\nHarro\nHaruro\nKachama\nKachama-Ganjule",
+    "lexvo": "\nKachama-Ganjule [en]\nKachama-Ganjule language [en]",
+    "hhbib_lgcode": "\nGanjule\nGanta\nGats'ame\nHaro\nKachama\nKachama-Ganjule\nThough Ganta is not MI with Gamo there seems to be no compelling reason not to trust the Siebert survey which holds that Ganta is MI with Kachama-Ganjule",
+    "elcat": "\nGatame\nGats'ame\nGats'amé\nGatsame\nGet'eme\nGidicho\nHaruro\nKachama\nKachama-Ganjule\nQechem"
+  },
+  "triggers": {
+    "lgcode": "\nganjule\nharo\nganta\nchamo\njubaland\nmargherita\nharuro"
+  },
+  "identifier": {
+    "multitree": "kcx",
+    "endangeredlanguages": "4358"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Gats'amé (4358-kcx) = Threatened (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

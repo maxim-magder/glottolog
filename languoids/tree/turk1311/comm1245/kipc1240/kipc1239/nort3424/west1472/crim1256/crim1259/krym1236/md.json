@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Krymchak",
+    "hid": "jct",
+    "level": "language",
+    "iso639-3": "jct",
+    "latitude": "45.05543",
+    "longitude": "34.55619",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BG",
+      "GE",
+      "RO",
+      "UA"
+    ],
+    "links": "\n[Krymchak](https://endangeredlanguages.com/lang/1739)\n[Krymchak](https://wals.info/languoid/lect/wals_code_kym)\nhttps://en.wikipedia.org/wiki/Krymchak_language\nhttps://www.wikidata.org/entity/Q33723"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:rebi:achkinazi:etal:97**\n**hh:d:Ianbay:Krimchak**\n**hh:e:Ackinazi:Krymcaki**\n**hh:htyp:Shapira:Judeo-Turkic**\n**hh:hv:Egorov:Crimean**\n**hh:s:Jankowski:Karaim-Krymchak**\n**hh:s:Rebi:Krymcakskij**\n**hh:sd:Rebi:Krymcakskij**\n**hh:std:Gulludag:Kirimcak**\n**hh:std:Gulludag:Kirimcak:2005**\n**hh:t:Filonenko:Krymcakskie**\n**hh:t:IanbayErdal:Krimchak**\n**iso6393:2006-038**"
+  },
+  "altnames": {
+    "multitree": "\n'Kypchak dialects of Uzbek'\nJudeo-Crimean Tatar\nJudeo-Crimean Turkish\nKipchak\nKrimchak\nKrymchak\nKypchak",
+    "lexvo": "\nJęzyk krymczacki [pl]\nKrimtchakeg [br]\nKrimĉaka lingvo [eo]\nKrymchak [en]\nKrymchak language [en]\nKrymtšakin kieli [fi]\nKırımçakça [tr]\nLingua krymchak [it]\nQırımçaq dili [az]\nQırımçaq tili [crh]\nКримчакски јазик [mk]\nКримчацька мова [uk]\nКрымчакский язык [ru]\nภาษาเครียมชาก [th]",
+    "elcat": "\nJudeo-Crimean Tatar\nKrimchak\nKrymchak\nKırımçakça\nкримчацька мова\nкрымчакский язык\nкърымчах тыльы\nкырымчак тележ Judeo-Crimean Turkish",
+    "hhbib_lgcode": "\nKrimchak"
+  },
+  "triggers": {
+    "lgcode": "\nkrymcakskij\nruth\nseni\ntargum\nkrimchak"
+  },
+  "identifier": {
+    "multitree": "uzn-kip;jct",
+    "endangeredlanguages": "1739"
+  },
+  "classification": {
+    "sub": "**hh:vwld:Polinsky:Krymchak**",
+    "subrefs": "\n**hh:vwld:Polinsky:Krymchak**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Krymchak (1739-jct) = Critically Endangered (80 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

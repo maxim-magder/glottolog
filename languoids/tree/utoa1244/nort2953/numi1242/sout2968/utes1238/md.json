@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ute-Southern Paiute",
+    "hid": "ute",
+    "level": "language",
+    "iso639-3": "ute",
+    "latitude": "40.0965",
+    "longitude": "-110.305",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Ute](https://endangeredlanguages.com/lang/2965)\n[Ute-Southern Paiute](https://grambank.clld.org/languages/utes1238)\nhttps://en.wikipedia.org/wiki/Colorado_River_Numic_language\nhttps://phoible.org/languages/utes1238\nhttps://www.wikidata.org/entity/Q13260"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4559**\n**cldf:adelaar:07:2**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:harms:66**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:79:2**\n**cldf:np:nd:264**\n**cldf:sapir:30:1**\n**cldf:sapir:92**\n**cldf:tribe:80**\n**hh:d:Givon:Ute**\n**hh:d:Sapir:Southern-Paiute**\n**hh:e:Callaway:Ute**\n**hh:e:Kelly:Southern-Paiute**\n**hh:g:Givon:Ute**\n**hh:g:Givon:Ute:1980**\n**hh:g:Press:Chemehuevi**\n**hh:g:Press:Chemehuevi:1975**\n**hh:gtd:Sapir:Paiute**\n**hh:hew:Whippleetal:North-American**\n**hh:hv:Gatschet:Eleven-Idioms**\n**hh:hv:Sapir:Uto-Aztecan**\n**hh:hv:Sapir:Uto-Aztekan**\n**hh:hvb:Golla:California**\n**hh:hvw:Kroeber:Shoshonean**\n**hh:hvw:Kroeber:Shoshonean-Southern**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Goss:Southern-Ute**\n**hh:phonsoc:Oberly:Southern-Ute**\n**hh:s:Benioh:Paiute**\n**hh:s:Bunte:Southern-Paiute**\n**hh:s:Kroeber:Ute**\n**hh:s:Serratos:Chemehuevi**\n**hh:t:Givon:Ute**\n**mpieva:1980Uterefer**\n**mpieva:Sapir1992Southern**\n**sil16:15015**\n**sil16:15016**\n**sil16:15017**\n**sil16:47945**\n**sil16:47946**\n**sil16:47947**\n**sil16:47948**"
+  },
+  "altnames": {
+    "wals": "\nChemehuevi\nPaiute (Southern)\nUte",
+    "wals other": "\nPaiute\nS. Paiute\nSouthern\nSouthern Paiute",
+    "ruhlen (1987)": "\nChemehuevi",
+    "moseley & asher (1994)": "\nChemehuevi\nPaiute (Southern)",
+    "multitree": "\n\"ute (Colorado, Ute des montagnes)\"\n\"ute (Colorado, Ute méridional)\"\nChemehuevi\nPai Ute\nPaiute du sud\nPaviotso\nSouth Paiute\nSouthern Paiute\nUte\nUte (Utah)\nUte-Southern Paiute\nUté (Utah)",
+    "lexvo": "\nColorado River Numic language [en]\nIdioma paiute meridional [es]\nOuteg [br]\nUte-Southern Paiute [en]",
+    "hhbib_lgcode": "\nChemehuevi\nSouthern Paiute\nUte",
+    "elcat": "\nChemehuevi\nPai Ute\nPaviotso\nSouth Paiute\nSouthern Paiute\nUte\nUte-Chemehuevi\nUte-Southern Paiute"
+  },
+  "triggers": {
+    "lgcode": "\nchemehuevi\npuokwata\nute\nniyei\naztekan\ntavuchu"
+  },
+  "identifier": {
+    "wals": "cmh;put;ute",
+    "multitree": "ute",
+    "endangeredlanguages": "2965"
+  },
+  "classification": {
+    "sub": "**hh:hv:Garrettetal:Numic**",
+    "subrefs": "\n**hh:hv:Garrettetal:Numic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ute (2965-ute) = Endangered (80 percent certain, based on the evidence available) (Ute-Chemehuevi is a dialect chain; there are 3 major regional varieties, all mutually intelligible.\nUte (Colorado and central Utah) is spoken by about 900: (1) Southern Ute (Ignacio, Colorado), where there about 100 first-language speakers, the youngest about 55, out of a total population of 1,300. (2) Ute Mountain Ute (Towaoc, Colorado), where there about 500 first-language speakers, the youngest about 25, out of a total population of 1,500. (3) Uintah & Ouray (Northern) Ute (Ft. Duchesne, Utah), where there about 300 first-language speakers, the youngest about 45, out of a total population of 2,000. Southern Paiute (southern Utah and Nevada) is spoken in 10 widely separated communities in Utah, Arizona, and Nevada. The 5 Utah communities constitute the Paiute Tribe of Utah and have a total population of about 600. The San Juan Paiute Tribe is settled on the Navajo Reservation in Utah and Arizona and has a population of 220. The Kaibab Paiute Tribe, with a reservation north of the Grand Canyon, has a population of 212. The 3 southern Nevada tribes (Moapa, Las Vegas, and Pahrump) have a combined population of over 400. The language is spoken to a varying extent in all communities, but only in the San Juan tribe are children still acquiring it as their first language. Chemehuevi (southern California) is spoken on the Colorado River Indian Reservation at Parker, Arizona, and on the neighboring Chemehuevi Reservation in California. There are fewer than 20 first-language speakers, with the youngest nearly 40.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

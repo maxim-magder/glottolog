@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Xicotepec De Juárez Totonac",
+    "hid": "too",
+    "level": "language",
+    "iso639-3": "too",
+    "latitude": "20.6532",
+    "longitude": "-97.7463",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northern Totonac](https://endangeredlanguages.com/lang/3521)\n[Totonac (Xicotepec de Juárez)](https://wals.info/languoid/lect/wals_code_txj)\n[Xicotepec de Juárez Totonac](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Xicotepecdejuareztotonac)\nhttps://en.wikipedia.org/wiki/Xicotepec_Totonac\nhttps://www.wikidata.org/entity/Q8044353"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:reid:bishop:74**\n**cldf:reid:bishop:etal:68**\n**hh:ew:Marschall:Sierra-Totonaken**\n**hh:g:Reid:Totonac:1968**\n**hh:g:Reid:Totonaca-Xicotepec**\n**hh:hv:MacKayTrechsel:Totonac-Tepehua:2018**\n**hh:hv:Moore:Coahuitlan-Totonac**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:sd:ReidBishop:Totonaco-Xicotepec**\n**mpieva:Reid1991Gramatic**\n**sil16:12153**\n**sil16:15385**\n**sil16:16413**\n**sil16:18465**\n**sil16:22961**"
+  },
+  "altnames": {
+    "glottolog": "\nXicotepec De Juarez Totonac",
+    "wals": "\nTotonac (Xicotepec de Juárez)",
+    "wals other": "\nTotonac\nTotonac (Xicotepec)\nTotonaca (Xicotepec de Juaréz)\nXicotepec",
+    "ruhlen (1987)": "\nTotonako",
+    "moseley & asher (1994)": "\nTotonac",
+    "multitree": "\nJuárez Totonako\nNorthern Totonac\nTotonac\nTotonac (Xicotepec de Juárez)\nTotonac, Xicotepec de Juárez\nTotonaca (Xicotepec de Juarez)\nTotonacano de Patla\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonaco de Villa Juárez\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Patla-Chicontla",
+    "lexvo": "\nXicotepec De Juárez Totonac [en]",
+    "hhbib_lgcode": "\nAP\nApapantilla\nApapantilla Totonac (A)\nApapantilla/Xicotepec de Juárez\nPan\nPantepec\nSierra Totonaka Zihuateutla\nTotonac-Xicotepec de Juárez\nZihuateutla Totonac (Zh)",
+    "elcat": "\nNorthern Totonac\nTotonac\nTotonac (Xicotepec de Juárez)\nTotonaca (Xicotepec de Juarez)\nTotonaco\nTotonaco de Villa Juárez\nTotonako\nXicotepec de Juárez"
+  },
+  "triggers": {
+    "lgcode": "\nxicotepec\ntotonaken"
+  },
+  "identifier": {
+    "wals": "txj",
+    "multitree": "too",
+    "endangeredlanguages": "3521"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Totonac (3521-too) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

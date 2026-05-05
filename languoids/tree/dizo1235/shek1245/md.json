@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sheko",
+    "hid": "she",
+    "level": "language",
+    "iso639-3": "she",
+    "latitude": "7.05022",
+    "longitude": "35.2826",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Sheko](https://endangeredlanguages.com/lang/2701)\n[Sheko](https://grambank.clld.org/languages/shek1245)\n[Sheko](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Sheko)\nhttps://en.wikipedia.org/wiki/Sheko_language\nhttps://www.wikidata.org/entity/Q3183355"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aklilu:siebert:etal:02**\n**cldf:aklilu:siebert:etal:93**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:straube:63**\n**eballiso2009:24642**\n**eballiso2009:24643**\n**eballiso2009:31557**\n**eballiso2009:56807**\n**eballiso2009:56808**\n**hh:d:Worku:Sheko**\n**hh:e:Straube:Tschako**\n**hh:g:Hellenthal:Sheko**\n**hh:hv:Aklilu:Maji**\n**hh:ld:Hellenthal:Seko**\n**hh:phon:Aklilu:Sheko**\n**hh:phon:Aklilu:Sheko:1988**\n**hh:s:Hellenthal:Sheko**\n**hh:s:Yilma:Sheko**\n**hh:typ:Dereje:Shekka**\n**sil16:42879**"
+  },
+  "altnames": {
+    "multitree": "\nShak\nShakko\nShako\nShekka\nShekko\nSheko\nTschako",
+    "lexvo": "\nSheko [en]\nSheko language [en]",
+    "elcat": "\nShak\nShakko\nShako\nShekka\nShekko\nSheko\nTschako",
+    "hhbib_lgcode": "\nShako\nTschako"
+  },
+  "triggers": {
+    "lgcode": "\nshekka\nsheko\ntschako"
+  },
+  "identifier": {
+    "multitree": "she",
+    "endangeredlanguages": "2701"
+  },
+  "classification": {
+    "sub": "**hh:hv:Aklilu:Maji** the similarities between Sheko and Nayi in historical phonology are all retentions and therefore\ndo not count as evidence for a Sheko-Nayi node",
+    "subrefs": "\n**hh:hv:Aklilu:Maji**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sheko (2701-she) = Vulnerable (60 percent certain, based on the evidence available) (Within the family Sheko is the language which is used primarily. In the homes, the use of Sheko is very stable.) [Aklilu et al. 2002](cldf:aklilu:siebert:etal:02)"
+  }
+}

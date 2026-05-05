@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Rawo",
+    "hid": "rwa",
+    "level": "language",
+    "iso639-3": "rwa",
+    "latitude": "-2.84201",
+    "longitude": "141.603",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Rawo](https://endangeredlanguages.com/lang/10585)\nhttps://www.wikidata.org/entity/Q3504269\nhttps://en.wikipedia.org/wiki/Rawo_language\n[Poko-Rawo](https://wals.info/languoid/lect/wals_code_pok)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:SkoKwomtariLeftMay**\n**hh:hvld:DonohueCrowther:NCNG**\n**hh:typ:McPherson:Poko**\n**hh:typ:McPhersonDryer:Poko-Rawo**\n**hh:w:Laycock:D4**"
+  },
+  "altnames": {
+    "wals": "\nPoko-Rawo",
+    "wals other": "\nPoko",
+    "ruhlen (1987)": "\nRawo",
+    "moseley & asher (1994)": "\nRawo",
+    "multitree": "\nPoko-Rawo\nRawo",
+    "lexvo": "\nRawo [en]",
+    "elcat": "\nRawo",
+    "hhbib_lgcode": "\nPoko\nPoko-Rawo"
+  },
+  "identifier": {
+    "wals": "pok",
+    "multitree": "rwa",
+    "endangeredlanguages": "10585"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Donohue:Skou**, **hh:hvld:DonohueCrowther:NCNG** **hh:g:DonohueRoque:Isaka**:6-7",
+    "subrefs": "\n**hh:g:DonohueRoque:Isaka**\n**hh:hvphon:Donohue:Skou**\n**hh:hvld:DonohueCrowther:NCNG**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Rawo (10585-rwa) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

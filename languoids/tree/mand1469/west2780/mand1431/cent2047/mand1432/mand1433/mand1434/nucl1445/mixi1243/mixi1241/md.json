@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mixifore",
+    "hid": "mfg",
+    "level": "language",
+    "iso639-3": "mfg",
+    "latitude": "10.6822",
+    "longitude": "-14.385",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914478\nhttps://en.wikipedia.org/wiki/Mixifore_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Polinder:Mogofin**\n**hh:hvw:Diallo:Pular-Mande**\n**hh:hvw:VydrinaVydrin:Kakabe-Dialektologii**\n**hh:phon:Kaba:Mogofinkan**\n**hh:s:Janse:Mogofin**\n**hh:s:Janse:Mogofin:MA**\n**hh:vw:VydrinaVydrin:Kakabe**\n**iso6393:2012-089**"
+  },
+  "altnames": {
+    "multitree": "\nMikifore\nMixifore\nMogofin",
+    "lexvo": "\nMixifore [en]",
+    "hhbib_lgcode": "\nMogofin"
+  },
+  "triggers": {
+    "lgcode": "\nsyntax AND syntagmatic\nmogofin"
+  },
+  "identifier": {
+    "multitree": "mfg"
+  },
+  "classification": {
+    "sub": "**hh:vw:VydrinaVydrin:Kakabe**",
+    "subrefs": "\n**hh:vw:VydrinaVydrin:Kakabe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mogofin (mfg-mfg) = 5* (Developing)."
+  }
+}

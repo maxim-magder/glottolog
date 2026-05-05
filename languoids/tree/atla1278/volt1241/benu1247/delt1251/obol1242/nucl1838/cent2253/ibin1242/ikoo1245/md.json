@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Iko",
+    "hid": "iki",
+    "level": "language",
+    "iso639-3": "iki",
+    "latitude": "4.56197",
+    "longitude": "7.9866",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3813290\nhttps://en.wikipedia.org/wiki/Iko_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:280**\n**hh:d:Edet:Iko**\n**hh:hvw:Connell:Lower-Cross**\n**hh:hvw:Connell:Lower-Cross:1994**\n**hh:ld:Urua:Iko**\n**hh:phon:Ochulor:Iko**\n**hh:phon:Udoinyang:Iko**\n**hh:w:Connell:LCross**"
+  },
+  "altnames": {
+    "multitree": "\nIko\nNigeria",
+    "lexvo": "\nIko [en]"
+  },
+  "triggers": {
+    "lgcode": "\ntones AND iko"
+  },
+  "identifier": {
+    "multitree": "iki"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Connell:Lower-Cross**:10 **hh:vtyp:Connell:Usaghade**:46",
+    "subrefs": "\n**hh:vtyp:Connell:Usaghade**\n**hh:hvw:Connell:Lower-Cross**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Iko (iki-iki) = 6a (Vigorous)."
+  }
+}

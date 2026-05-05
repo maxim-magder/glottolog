@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sekpele",
+    "hid": "lip",
+    "level": "language",
+    "iso639-3": "lip",
+    "latitude": "7.16751",
+    "longitude": "0.5886",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Sekpele](https://endangeredlanguages.com/lang/1309)\n[Sekpele](https://grambank.clld.org/languages/sekp1241)\nhttps://en.wikipedia.org/wiki/Likpe_language\nhttps://phoible.org/languages/sekp1241\nhttps://www.wikidata.org/entity/Q36257"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4843**\n**cldf:blench:nd:1**\n**cldf:delalorm:11**\n**cldf:moseley:07**\n**eballiso2009:10642**\n**eballiso2009:14495**\n**eballiso2009:14498**\n**eballiso2009:14499**\n**eballiso2009:17654**\n**eballiso2009:22668**\n**eballiso2009:38513**\n**eballiso2009:55563**\n**eballiso2009:7246**\n**hh:g:Delalorm:Sekpele**\n**hh:hs:Westermann:Mitteltogo**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:hwtyp:Seidel:Togo**\n**hh:s:Delalorm:Sekpele**\n**hh:s:Funke:Santrokofi**\n**hh:s:Ring:Sekpele**"
+  },
+  "altnames": {
+    "multitree": "\nBosele\nLikpe\nMu\nSekpele",
+    "lexvo": "\nSekpele [en]",
+    "hhbib_lgcode": "\nLikpe\nLikpe-Sekpele",
+    "elcat": "\nBosele\nLikpe\nMu\nSekpele\nSɛkpɛlé"
+  },
+  "triggers": {
+    "lgcode": "\nmultiverb\nsantrokofisprache\nlikpe\nallomorphic\nmitteltogo\nsekpele"
+  },
+  "identifier": {
+    "multitree": "lip",
+    "endangeredlanguages": "1309"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Central-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Central-Togo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sekpele (1309-lip) = Threatened (100 percent certain, based on the evidence available) [Delalorm 2016](cldf:delalorm:16)"
+  }
+}

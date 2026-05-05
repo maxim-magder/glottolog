@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Habu",
+    "hid": "hbu",
+    "level": "language",
+    "iso639-3": "hbu",
+    "latitude": "-8.76565",
+    "longitude": "125.965",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "TL"
+    ],
+    "links": "\n[Habu](https://endangeredlanguages.com/lang/1766)\nhttps://en.wikipedia.org/wiki/Habun_language\nhttps://www.wikidata.org/entity/Q1567033"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvtyp:Hull:Timoric**\n**hh:hvw:Hull:Timor:Austronesian**"
+  },
+  "altnames": {
+    "multitree": "\nHabu\nKairui",
+    "lexvo": "\nHabu [en]",
+    "hhbib_lgcode": "\nHabu (Tetum)\nHabun",
+    "elcat": "\nHabu\nKairui"
+  },
+  "identifier": {
+    "multitree": "hbu",
+    "endangeredlanguages": "1766"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:188-194",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Habu (1766-hbu) = Threatened (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

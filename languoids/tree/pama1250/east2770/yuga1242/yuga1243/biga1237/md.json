@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bigambal",
+    "hid": "xbe",
+    "level": "language",
+    "iso639-3": "xbe",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "longitude": "149.515",
+    "latitude": "-28.266",
+    "links": "\n[Bigambal](https://endangeredlanguages.com/lang/10756)\nhttps://www.wikidata.org/entity/Q16841801\nhttps://en.wikipedia.org/wiki/Bigambal_language\nhttps://phoible.org/languages/biga1237",
+    "timespan": "1996-01-01/1996-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:16**\n**cldf:tindale:74:1**\n**hh:hv:Schmidt:Australischen**\n**hh:hvw:Waferetal:New-South-Wales**\n**hh:hw:Ridley:Australian**\n**hh:w:Barlow:Queensland**\n**hh:w:Ridley:Kamilaroi:1875**\n**hh:w:TurbayneLawlorMyles:Dumaresque**\n**hh:wld:Mathews:Queensland-Victoria**\n**iso6393:2012-110**\n**ozbib:2430**\n**ozbib:3409**\n**ozbib:3606**\n**ozbib:5086**\n**ozbib:6223**"
+  },
+  "triggers": {
+    "lgcode": "\nmacintyre\ndumaresque"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Waferetal:New-South-Wales**:332-340",
+    "subrefs": "\n**hh:hvw:Waferetal:New-South-Wales**"
+  },
+  "identifier": {
+    "endangeredlanguages": "10756"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bigambal (10756-xbe) = Dormant [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBegumble\nNorthern Tablelands language (Yugambal) and Southeast Queensland Western Slopes language (Bigambal)\nPikumbil\nPikumbul",
+    "elcat": "\nBigambal\nBigambul\nBigumbil"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Northern Tepehuan",
+    "hid": "ntp",
+    "level": "language",
+    "iso639-3": "ntp",
+    "latitude": "26.4348",
+    "longitude": "-107.379",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northern Tepehuan](https://grambank.clld.org/languages/nort2959)\n[Northern Tepehuan](https://lexibank.clld.org/languages/utoaztecan-NorthernTepehuan)\n[Northern Tepehuán](https://endangeredlanguages.com/lang/10845)\n[Tepehuan (Northern)](https://wals.info/languoid/lect/wals_code_tpn)\nhttps://www.wikidata.org/entity/Q15615651"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:casad:ed:00:7**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:mason:48**\n**cldf:np:96:8**\n**cldf:radin:31**\n**hh:e:Pennington:Northern-Tepehuan**\n**hh:e:Service:Northern-Tepehuan**\n**hh:g:Bascom:NTepehuan**\n**hh:hew:Lumholtz:Mexico**\n**hh:hvld:Buschmann:Sonorischen**\n**hh:s:Carrillo:Odami**\n**hh:st:Rinaldini:Tepeguana**\n**hh:styp:Ramos:Tepehuano-Norte**\n**hh:typ:Carrillo:Odami**\n**mpieva:Bascom1965ProtoTep**\n**sil16:10199**\n**sil16:10200**\n**sil16:12057**\n**sil16:15222**\n**sil16:19987**\n**sil16:35672**\n**sil16:40985**\n**sil16:43669**"
+  },
+  "altnames": {
+    "wals": "\nTepehuan (Northern)",
+    "wals other": "\nN Tepehuan\nN. Tepehuan\nNorthern Tepehuan",
+    "ruhlen (1987)": "\nTepahue (Northern)",
+    "moseley & asher (1994)": "\nTepehuan (Northern)",
+    "multitree": "\nNorth Tepehuane\nNorthern Tepehuan\nNorthern Tepewan\nTepeguana\nTepehuan (Northern)\nTepehuan, Northern\nTepehuán (Norte)\nTepehuán del Norte\nTepiman",
+    "lexvo": "\nNorthern Tepehuan [en]",
+    "hhbib_lgcode": "\nNorthern Tepehuane\nTepeguana\nTepehuano del norte",
+    "elcat": "\nNorthern Tepehuan\nNorthern Tepehuán"
+  },
+  "triggers": {
+    "lgcode": "\ntepeguana\ntepiman"
+  },
+  "identifier": {
+    "wals": "tpn",
+    "multitree": "ntp",
+    "endangeredlanguages": "10845"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Tepehuán (10845-ntp) = Threatened (20 percent certain, based on the evidence available) [Bascom 1982](cldf:bascom:82)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Eastern-Southern Bontok",
+    "hid": "bkb",
+    "level": "language",
+    "iso639-3": "bkb",
+    "latitude": "17.0319",
+    "longitude": "121.11",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Finallig](https://grambank.clld.org/languages/fina1242)\nhttps://www.wikidata.org/entity/Q12631018"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:FukudaFukuda:Eastern-Bontoc**\n**hh:s:Fukuda:EBontoc**\n**hh:s:Fukuda:EBontoc:1983**\n**hh:typ:Fukuda:Kadaklan**\n**hh:w:Hettick:Bayyu-Bontoc**\n**hh:w:Morley:Talubin**\n**hh:wt:KikusawaReid:Talubin**\n**iso6393:2009-073**\n**mpieva:1998Localist**\n**mpieva:Fukuda1992Behavior**\n**sil16:17998**\n**sil16:17999**\n**sil16:18000**\n**sil16:18001**\n**sil16:18002**\n**sil16:18003**\n**sil16:18004**\n**sil16:18005**\n**sil16:19664**\n**sil16:19666**\n**sil16:22132**\n**sil16:22447**\n**sil16:34206**\n**sil16:39366**\n**sil16:44745**\n**sil16:47343**"
+  },
+  "triggers": {
+    "lgcode": "\nnafiya\ntalubin\nammayun\nbidirectional\ntokotokun\nkadaklan\nomoyan\nofok\nmunfiasa\nindigenized"
+  },
+  "iso_retirement": {
+    "comment": "The present reference name used with [bkb], Finallig, is erroneous; that name\nshould be used to refer only to the dialect spoken in the community of Barlig,\nMountain Province, the Philippines, and cannot appropriately be used to refer to\nthe language of other closely related dialects of Eastern Bontok that are spoken\nin the Barlig municipality, such as Kenachakran (spoken in Kadaklan), or Linias\n(spoken in Lias), who would never label their language variety as Finallig (see\nFukuda 1997:11, 1980), or to the distinctively different Southern Bontok\nvarieties.\n\nCurrently this code element (as described in the Ethnologue) has three\n\"alternate names\": Eastern Bontoc, Kadaklan-Barlig Bontoc, and Southern Bontoc.\nThe term \"Kadaklan- Barlig\" appears nowhere in the literature, although Kadaklan\nand Barlig do so separately (see Fukuda 1997:11, 1980, etc.). The term Southern\nBontoc was proposed by Busenitz (1973) in an unpublished SIL survey.\n\nAlthough Eastern Bontok is closely related to Southern Bontok (that is the\ndialects spoken in the communities of Can-eo, Talubin and Bayyo) , each has a\nmarkedly different phonology from the others., e.g., the pre-vocalic variants of\n/b/ and /d/, which are voiceless (and fricativized) in Central and Eastern\nlanguages are voiced in Southwestern Bontok, and the aspirated voiceless variant\nof /g/ found in Central and Eastern languages is lost, i.e., /g/ has no\nprevocalic variant at all. Eastern Bontok dialects of both Barlig and Kadaklan\nhave a unique palatalized, voiceless, fricativized variant of /b/ and /d/ before\n/a/, written _fia_ (hence _Fiallig_, the local pronunciation of Barlig) and\n_cha_, respectively, which is not found in the Southern dialects. The reflex of\n*schwa in Southern Bontok is schwa, as in the Central Bontok dialects, whereas\nin the Eastern dialects it has fallen together with a back vowel /u/ (sometimes\nalso represented as o). Southern dialects also have developed an /o/ vowel, but\nfrom a completely different source than the Eastern dialects (see Kikusawa and\nReid 2003 for the developments in the Talubin dialect that is known as\nTinoveng).\n\n\nThere are a wide range of both morphological and syntactic features that\ndistinguish Eastern and Southern dialects, discussed in Kikusawa and Reid\n(2003). The Southern dialects of Talubin and Bayyo are strongly influenced also\nfrom their proximity to the neighboring languages to the south, the various\ndialects of Ifugao. These communities are located on the main road between\nBontoc town and the Ifugao municipality of Banaue.\n\nAlthough Talubin and Bayyo are listed as dialects of Eastern Bontok based on an\nunpublished SIL survey by Busenitz in 1973 (cited by Fukuda 1997:11, Busenitz\ncalled all Eastern dialects Southern), my own research shows that the varieties\nare distinct enough in phonology, morphology, syntax and lexicon to be\nconsidered separate languages.\n\nApart from the linguistic differences between the two groups of dialects,\nspeakers of the Eastern Bontok varieties have rejected the label Southern\nBontok, since historically they have been enemies (especially of the Can-eo\npeople), and even today have vivid memories of headhunting exploits of one group\nagainst the other.\n\nThe reference name \"Bontok, Eastern\" matches the proposed macrolanguage name\n\"Bontok\", and correctly positions them geographically in the Eastern area of\nMountain Province. The communalects of Kadaklan and Barlig are referred to as\nEastern Bontoc in several publications (Fukuda 1980, 1981, 1992,1997, and Pang\n1998.)",
+    "code": "bkb",
+    "name": "Finallig",
+    "effective": "2010-01-18",
+    "reason": "split",
+    "remedy": "Split into Eastern Bontok [ebk] and Southern Bontok [obk]",
+    "change_request": "2009-073",
+    "change_to": "\nebk\nobk"
+  },
+  "classification": {
+    "sub": "**hh:d:Reid:Bontok**:v **hh:hv:Himes:Meso-Cordilleran** **hh:v:Reid:Isinay**",
+    "subrefs": "\n**hh:v:Reid:Isinay**\n**hh:hv:Himes:Meso-Cordilleran**\n**hh:d:Reid:Bontok**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBayyu Bontoc\nFinallig\nSouthern Bontoc\nSouthern Bontok\nTalubin",
+    "glottolog": "\nFinallig"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E23",
+    "date": "2020-04-01T21:11:32",
+    "comment": "Bontok, Eastern (ebk-bkb) = 5 (Developing)."
+  }
+}

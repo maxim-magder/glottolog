@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Forest Nenets",
+    "hid": "NOCODE_Forest-Nenets",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "longitude": "71.97",
+    "latitude": "63.72",
+    "links": "\n[Forest Nenets](https://endangeredlanguages.com/lang/3393)\nhttps://en.wikipedia.org/wiki/Forest_Nenets_language\nhttps://phoible.org/languages/fore1274\nhttps://www.wikidata.org/entity/Q1295107"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**hh:d:Popova:Nenetsko**\n**hh:e:Verbov:Lesnye-Nentsy**\n**hh:e:Zenko:Lesnye-Nentsy**\n**hh:g:Pusztay:Pur**\n**hh:g:Verbov:Lesnyx-Nentsev**\n**hh:phon:Salminen:Forest-Nenets**\n**hh:s:Burkova:Nenets**\n**hh:s:Sammallahti:Nenets**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has an entry Nenets [yrk] combining both Tundra and Forest Nenets, but the two are not intelligible thus require separate entries (**hh:styp:Salminen:Tundra-Nenets**:13). I wish to thank Matthew Dryer for alerting me to this fact. See also: Tundra Nenets [yrk].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Forest-Nenets"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Janhunen:Samoyedic**",
+    "subrefs": "\n**hh:hvtyp:Janhunen:Samoyedic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Forest Nenets (NOCODE_Forest-Nenets-NOCODE_Forest-Nenets) = 7 (Shifting)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nPur\nWaldjurakischen",
+    "elcat": "\nDialekt der Waldjuraken\nForest Nenets\nForest Yurak\nmetsänenetsi\nnyenetsya' vada\nненецкий лесной язык\nненэцяʼ вада\nнешанский язык\nнешаӈ вата\nнещанский язык"
+  },
+  "identifier": {
+    "endangeredlanguages": "3393"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Narim",
+    "hid": "loh",
+    "level": "language",
+    "iso639-3": "loh",
+    "latitude": "4.80331",
+    "longitude": "33.3312",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Narim](https://endangeredlanguages.com/lang/4524)\nhttps://www.wikidata.org/entity/Q56353\nhttps://en.wikipedia.org/wiki/Laarim_language\nhttps://phoible.org/languages/nari1240"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arensen:88**\n**cldf:arensen:91**\n**cldf:arensen:98**\n**cldf:driberg:22**\n**cldf:driberg:27:1**\n**cldf:driberg:29**\n**cldf:driberg:30**\n**cldf:driberg:31:1**\n**cldf:driberg:35**\n**cldf:ed:10**\n**cldf:evans-pritchard:29:1**\n**cldf:fukui:86**\n**cldf:heine:70**\n**cldf:jong:01**\n**cldf:jong:04**\n**cldf:kronenberg:61**\n**cldf:kronenberg:67**\n**cldf:kronenberg:72**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Bryan:No-Man**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hv:Bender:Surma**\n**hh:phon:Stirtz:Laarim**\n**hh:s:Joseph:Laarim**\n**hh:typ:Joseph:Laarim-Discourse**\n**hh:w:JosephStirtz:Laarim**\n**iso6393:2022-029**\n**mpieva:1998Surmicla**\n**sil16:18428**\n**sil16:37995**"
+  },
+  "altnames": {
+    "multitree": "\nLariim\nLarim\nLariminit\nLarimo\nLongarim\nNariim\nNarim",
+    "lexvo": "\nNarim [en]",
+    "hhbib_lgcode": "\nBoya or Longarim\nLaarim\nLogarim\nLongarim",
+    "elcat": "\nLariim\nLarim\nLariminit\nLarimo\nLongarim\nNariim\nNarim"
+  },
+  "triggers": {
+    "lgcode": "\nstraw\nloh\nlaarim"
+  },
+  "identifier": {
+    "multitree": "loh",
+    "endangeredlanguages": "4524"
+  },
+  "classification": {
+    "sub": "**hh:hv:Yigezu:Surmic**",
+    "subrefs": "\n**hh:hv:Yigezu:Surmic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Narim (4524-loh) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

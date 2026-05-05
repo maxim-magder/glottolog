@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Southern Pomo",
+    "hid": "peq",
+    "level": "language",
+    "iso639-3": "peq",
+    "latitude": "38.7643",
+    "longitude": "-122.545",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Southern Pomo](https://endangeredlanguages.com/lang/1533)\n[Southern Pomo](https://lexibank.clld.org/languages/johanssonsoundsymbolic-SouthernPomo)\nhttps://en.wikipedia.org/wiki/Southern_Pomo_language\nhttps://www.wikidata.org/entity/Q3396023",
+    "timespan": "2014-01-01/2014-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:450**\n**cldf:aginsky:35:2**\n**cldf:barrett:52**\n**cldf:baumhoff:63**\n**cldf:christopherrogers:campbell:10**\n**cldf:ed:10**\n**cldf:gifford:22**\n**cldf:gifford:23**\n**cldf:gifford:26:2**\n**cldf:gifford:kroeber:37**\n**cldf:golla:goddard:etal:08**\n**cldf:kniffen:39**\n**cldf:kroeber:29:1**\n**cldf:lewis:ed:09**\n**cldf:loeb:26:2**\n**cldf:loeb:32**\n**cldf:np:nd:264**\n**cldf:stewart:43**\n**hh:g:Walker:Southern-Pomo**\n**hh:g:Walker:Southern-Pomo:2020**\n**hh:hew:Barrett:Pomo**\n**hh:hvb:Golla:California**\n**zurich:Halpern1980**\n**zurich:Oswalt1990**"
+  },
+  "altnames": {
+    "multitree": "\nGallinoméro\nPomo du sud\nPomo meridional\nPomo, Southern\nRussian River\nSouth Pomo\nSouthern Pomo",
+    "lexvo": "\nLenga pomo meridional [pms]\nPomo du Sud [fr]\nSouthern Pomo [en]\nSouthern Pomo language [en]",
+    "hhbib_lgcode": "\nPomo-Southern",
+    "elcat": "\nGallinoméro\nPomo\nRussian River\nSouth Pomo\nSouthern\nSouthern Pomo"
+  },
+  "triggers": {
+    "lgcode": "\nsouthern AND pomo"
+  },
+  "identifier": {
+    "multitree": "peq",
+    "endangeredlanguages": "1533"
+  },
+  "classification": {
+    "sub": "**hh:hv:McLendon:Pomoan:2006**",
+    "subrefs": "\n**hh:hv:McLendon:Pomoan:2006**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pomo, Southern (peq-peq) = 9 (Dormant). Language of registered tribe: Cloverdale Rancheria of Pomo Indians of California, Dry Creek Rancheria of Pomo Indians, Federated Indians of Graton Rancheria, Lytton Rancheria of California."
+  }
+}

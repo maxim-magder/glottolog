@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "South Barisan Malay",
+    "hid": "pse",
+    "level": "language",
+    "iso639-3": "pse",
+    "latitude": "-3.79673",
+    "longitude": "103.137",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/South_Barisan_Malay\nhttps://www.wikidata.org/entity/Q3367751"
+  },
+  "classification": {
+    "sub": "**hh:h:Mitani:South-Sumatra**:3 **hh:hvw:Smith:Borneo**:183-197 **hh:hvw:McDowell:Southern-Sumatra**:13-25, 66",
+    "subrefs": "\n**hh:hvw:McDowell:Southern-Sumatra**\n**hh:h:Mitani:South-Sumatra**\n**hh:hvw:Smith:Borneo**"
+  },
+  "sources": {
+    "glottolog": "\n**bahasa:288**\n**bahasa:atmajaya3798**\n**cldf:andaya:93**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:bowen:93**\n**cldf:calculator:14**\n**cldf:forbes:85**\n**cldf:jaspan:64**\n**cldf:jaspan:72:1**\n**cldf:keesing:84:2**\n**cldf:np:14:5**\n**cldf:raffles:35**\n**cldf:shelf:16**\n**cldf:sumatra:17**\n**hh:d:Aliana:Ogan**\n**hh:dial:Wahab:Ogan**\n**hh:e:Collins:Besemah**\n**hh:h:Mitani:South-Sumatra**\n**hh:hv:Adelaar:Borneo**\n**hh:hvw:Adelaar:Melayik-Purba**\n**hh:hvw:Adelaar:Proto-Malayic**\n**hh:hvw:Anderbeck:Batanghari**\n**hh:s:Ahmad:Lintang**\n**hh:s:Arif:Enim**\n**hh:s:Arif:Ogan**\n**hh:s:Arifin:Benakat**\n**hh:s:Arifin:Serawai**\n**hh:s:Gaffar:Besemah**\n**hh:s:Gani:Ogan**\n**hh:s:Helena:Bengkulu**\n**hh:s:Ihsan:Ogan**\n**hh:s:Saleh:Semende:1979**\n**hh:s:Saleh:Semende:1985**\n**hh:s:Wahab:Basemah**\n**hh:s:Wahab:Enim**\n**hh:sdt:Helfrich:Midden-Maleisch**\n**hh:styp:Bradley:Besemah**\n**hh:w:Stokhofetal:Holle:10/2**\n**iso6393:2007-179**"
+  },
+  "altnames": {
+    "multitree": "\nBengkulu\nBesemah\nCentral Malay\nEnim\nLintang\nMidden Maleisch\nOgan\nPasemah\nSemendo\nSerawai",
+    "lexvo": "\nCentral Malay [en]",
+    "hhbib_lgcode": "\n2xSerawai\nBasemah\nBenakat\nBesemah\nBesemahsch\nCentral Malay\nEnim\nLintang\nMalay-Central\nMelayu Bengkulu\nMiddle Malay\nMiddle Malay Pasemah\nOgan\nPesemah\nSemende\nSemendo\nSerawai\nSerawai-Manna-Pasemah\nSerawai-Saluma\nSerawajsch\nSeraway Middle Malay",
+    "glottolog": "\nCentral Malay"
+  },
+  "triggers": {
+    "lgcode": "\nbesemahsch\nbatanghari\nserawajsch"
+  },
+  "identifier": {
+    "multitree": "pse"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, Central (pse-pse) = 6a (Vigorous)."
+  }
+}

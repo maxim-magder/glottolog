@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Southern Amami-Oshima",
+    "hid": "ams",
+    "level": "language",
+    "iso639-3": "ams",
+    "latitude": "28.1955",
+    "longitude": "129.28521",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "JP"
+    ],
+    "links": "\n[Southern Amami-Oshima](https://grambank.clld.org/languages/sout2954)\nhttps://en.wikipedia.org/wiki/Southern_Amami_%C5%8Cshima_language\nhttps://www.wikidata.org/entity/Q2840986"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Daigaku:Ryukyu:1976**\n**hh:g:Niinaga:Yuwan**\n**hh:s:Niinaga:Amami**\n**hh:s:Niinaga:Yuwan**\n**hh:s:Suyama:Amami-Oshima-Southern**"
+  },
+  "altnames": {
+    "multitree": "\nAmami\nAmami-Oshima, Southern\nAmami-Osima\nAmani\nNorthern Ryukyuan\nOosima\nRyukyuan\nSouthern Amami-Osima",
+    "lexvo": "\nAmami language [en]\nAmamieg [br]\nIdioma amami [es]\nSouthern Amami-Oshima [en]\nภาษาอะมามิ [th]\n奄美方言 [ja]",
+    "hhbib_lgcode": "\nAmami-Oshima-Southern\nHas characteristics of both Southern and Northern Amami-Oshima\nHas characteristics of both Southern and Northern Amami-Oshima but\nYuwan\nbelongs to Southern Amami-Oshima\nmore Southern Amami-Oshima"
+  },
+  "triggers": {
+    "lgcode": "\namami\nsake"
+  },
+  "identifier": {
+    "multitree": "ams",
+    "endangeredlanguages": "10377"
+  },
+  "classification": {
+    "sub": "**hh:g:Pellard:Ogami**:249-276",
+    "subrefs": "\n**hh:g:Pellard:Ogami**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Amami (10377-ams) = Severely Endangered (100 percent certain, based on the evidence available) (All dialects in the Amami Islands are endangered today. In other words, the younger generation does not speak these dialects. Depending on the situation, they speak a local variety of Japanese or Standard Japanese instead. Every dialect in the Amami Islands is endangered because Standard Japanese has more political, economical, and cultural power. If such imbalance of power continues, it will continue to be diﬃcult, and unlikely, for younger people to choose to speak these dialects, which are not their ﬁrst language.) ['bib5531']"
+  }
+}

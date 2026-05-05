@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Koonzime",
+    "hid": "ozm",
+    "level": "language",
+    "iso639-3": "ozm",
+    "latitude": "3.25933",
+    "longitude": "13.54152",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Koonzime](https://grambank.clld.org/languages/koon1245)\nhttps://en.wikipedia.org/wiki/Nzime_language\nhttps://phoible.org/languages/koon1245\nhttps://www.wikidata.org/entity/Q35566"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beavon:83**\n**cldf:beavon:85**\n**eballiso2009:36826**\n**eballiso2009:36828**\n**eballiso2009:36829**\n**eballiso2009:36830**\n**eballiso2009:36832**\n**eballiso2009:36833**\n**eballiso2009:50111**\n**eballiso2009:53625**\n**eballiso2009:59976**\n**eballiso2009:59977**\n**eballiso2009:9887**\n**hh:d:BeavonBeavon:Koonzime**\n**hh:e:Vallois:Badjoue**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Tessmann:Kameruns**\n**hh:phon:Beavon:Konzime**\n**hh:phontyp:Beavon:Konzime**\n**hh:s:BarreteauBeavon:Koozime**\n**hh:s:Beavon:Koozime**\n**hh:typ:Beavon:Konzime**\n**hh:w:Cottes:Sud-Cameroun**\n**mpieva:Anderson1991Tenseand**\n**mpieva:Beavon1979Studiesi**\n**sil16:15353**\n**sil16:18451**\n**sil16:18452**\n**sil16:18453**\n**sil16:18454**\n**sil16:19225**\n**sil16:20178**\n**sil16:22666**\n**sil16:31705**\n**sil16:32545**\n**sil16:35103**\n**sil16:35865**\n**sil16:38038**\n**sil16:40190**\n**sil16:40197**\n**sil16:42988**\n**sil16:42990**\n**sil16:43790**\n**sil16:46890**\n**sil16:46891**\n**sil16:48124**\n**sil16:48135**\n**sil16:49757**\n**sil16:49758**\n**sil16:50203**\n**sil16:50204**"
+  },
+  "altnames": {
+    "multitree": "\nDjimu\nDzimou\nKooncimo\nKoonzime\nKoozhime\nKoozime\nNzime\nZimu",
+    "lexvo": "\nKoonzime [en]",
+    "hhbib_lgcode": "\nA841_Badwe\nBadjoué\nBadjüe\nBadwee\nBajwee\nD'Zimu\nDjem-Dzimu-Badjue\nKoozime A84\nNzimou"
+  },
+  "triggers": {
+    "lgcode": "\nkoozime\nofwo\nakp\nsoho\nngbamp\noju\ngwa\nkalara\nekpaa\nkoonzime\nko{o{zime\nkonsime\nokan\nlw\nkonzime"
+  },
+  "identifier": {
+    "multitree": "ozm"
+  },
+  "classification": {
+    "subrefs": "\n**hh:phontyp:Beavon:Konzime**\n**hh:hv:Cheucle:Makaa-Njem**",
+    "sub": "**hh:hv:Cheucle:Makaa-Njem**:516 **hh:phontyp:Beavon:Konzime**:2-3"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koonzime (ozm-ozm) = 6b (Threatened)."
+  }
+}

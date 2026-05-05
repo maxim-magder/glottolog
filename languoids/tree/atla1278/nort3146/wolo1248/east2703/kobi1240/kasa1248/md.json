@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kasanga",
+    "hid": "ccj",
+    "level": "language",
+    "iso639-3": "ccj",
+    "latitude": "12.4173",
+    "longitude": "-15.9413",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Kasanga](https://endangeredlanguages.com/lang/4159)\nhttps://www.wikidata.org/entity/Q35542\nhttps://en.wikipedia.org/wiki/Kasanga_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:coelho:53**\n**cldf:coelho:80**\n**cldf:coelho:85**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:50006**\n**eballiso2009:50008**\n**eballiso2009:50009**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hel:Sommer:Survey**\n**hh:hv:Doneux:Senegal**\n**hh:hw:Buhnen:Banun-Kasanga-Cobiana**\n**hh:s:Basso:Cobianas**\n**hh:w:Armstrong:West-African**\n**hh:w:deLespinay:Baynunk**"
+  },
+  "altnames": {
+    "multitree": "\nCassanga\nHaal\nI-Hadja\nKasanga\nKassanga",
+    "lexvo": "\nKasanga [en]",
+    "hhbib_lgcode": "\nCasangas de Sedenghal (guhaca)\nCassanga\nCassangas\nKasanga (00040)",
+    "elcat": "\nCassanga\nHaal\nI-Hadja\nKasanga\nKassanga"
+  },
+  "triggers": {
+    "lgcode": "\nkasanga\nidiomatica\nseiscentistas"
+  },
+  "identifier": {
+    "multitree": "ccj",
+    "endangeredlanguages": "4159"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kasanga (4159-ccj) = Critically Endangered (60 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

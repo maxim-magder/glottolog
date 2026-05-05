@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Unserdeutsch",
+    "hid": "uln",
+    "level": "language",
+    "iso639-3": "uln",
+    "latitude": "-4.19566",
+    "longitude": "152.183",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "AU",
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q13244\nhttps://en.wikipedia.org/wiki/Unserdeutsch"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ld:Muhlhausler:Rabaul-Creole**\n**hh:ldsoc:MaitzVolker:Unserdeutsch**\n**hh:s:LindenfelserMaitz:Rabaul-Creole-German**\n**hh:s:Volker:Rabaul:Syntax**\n**hh:s:Volker:Unserdeutsch**\n**hh:soc:Maitz:Unserdeutsch:2016**\n**hh:w:Volker:Rabaul**\n**mpieva:Volker1982Anintrod**"
+  },
+  "altnames": {
+    "lexvo": "\nUnserdeutsch [br]\nUnserdeutsch language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nunserdeutsch\npazifik\nrabaul"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:829-837",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Unserdeutsch (uln-uln) = 8b (Nearly extinct)."
+  }
+}

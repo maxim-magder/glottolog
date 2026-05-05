@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Khispi",
+    "hid": "lsh",
+    "level": "language",
+    "iso639-3": "lsh",
+    "latitude": "27.3688993",
+    "longitude": "92.2394672",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Khispi](https://lexibank.clld.org/languages/bodtkhobwa-Khispi)\n[Khispi](https://lexibank.clld.org/languages/lieberherrkhobwa-Khispi)\n[Lish Lish](https://lexibank.clld.org/languages/abrahammonpa-LishLish)\nhttps://en.wikipedia.org/wiki/Lish_language\nhttps://www.wikidata.org/entity/Q6558822"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Barthakur:Kameng**\n**hh:hv:Bodt:Western-Kho-Bwa**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:hwsoc:Abrahametal:WArunachal**\n**hh:hwsoc:Abrahametal:WArunachal:2018**\n**iso6393:2006-034**"
+  },
+  "altnames": {
+    "multitree": "\nKishpignag\nLish\nLish Monpa\nLishpa\nMonpa",
+    "lexvo": "\nLish [en]",
+    "hhbib_lgcode": "\nLish\nLish-Monpa\nLishpa\nLishpa (g)",
+    "glottolog": "\nLish"
+  },
+  "triggers": {
+    "lgcode": "\nmtsho"
+  },
+  "identifier": {
+    "multitree": "lsh"
+  },
+  "classification": {
+    "sub": "**hh:hv:LieberherrBodt:Kho-Bwa**",
+    "subrefs": "\n**hh:hv:LieberherrBodt:Kho-Bwa**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Lishpa (1226-) = Definitely endangered"
+  }
+}

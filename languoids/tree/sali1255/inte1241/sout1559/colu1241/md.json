@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Columbia-Wenatchi",
+    "hid": "col",
+    "level": "language",
+    "iso639-3": "col",
+    "latitude": "48.217",
+    "longitude": "-118.454",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Columbia-Wenatchi](https://grambank.clld.org/languages/colu1241)\n[Columbia-Wenatchi](https://wals.info/languoid/lect/wals_code_cwe)\n[Columbian](https://endangeredlanguages.com/lang/1696)\nhttps://en.wikipedia.org/wiki/Columbia-Moses_language\nhttps://www.wikidata.org/entity/Q3324744"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:czaykowska-higgins:willet:97**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:granberry:vescelius:04**\n**cldf:kinkade:82**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:poser:03**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Czaykowska-Higgins:Nxaamxcin**\n**hh:d:Kinkade:Moses-Columbia**\n**hh:e:Miller:Middle-Columbia-River**\n**hh:e:Teit:Middle-Columbia**\n**hh:g:Willett:Nxaamxcin**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hv:Swadesh:Salish:1950**\n**hh:typ:Kinkade:Moses-Columbian-Transitive**\n**hh:w:Krueger:Selica**\n**mpieva:CzaykowskaHiggins1996Whatsina**\n**mpieva:Dale1975Thelexic**"
+  },
+  "altnames": {
+    "wals": "\nColumbia-Wenatchi",
+    "ruhlen (1987)": "\nColumbia",
+    "moseley & asher (1994)": "\nColumbian",
+    "multitree": "\nColumbia\nColumbia-Wenatchi\nColumbian\nColumbiano\nMiddle Columbia Cluster\nMoses Columbia\nMoses Columbian\nMoses-Columbian\nNxaʔamxcín\nWenatchi-Columbia\nnxaʔamxcín",
+    "lexvo": "\nColumbia-Wenatchi [en]",
+    "hhbib_lgcode": "\nColumbia Cm\nMoses-Columbia Salish\nNxa'amxcin\nSinkayuse\nSinkiuse\nWenatchee\nWenatchi",
+    "elcat": "\nChelan\nColumbia\nColumbia-Wenatchi\nColumbian\nMiddle Columbia Cluster\nMoses Columbian\nMoses-Colombia Salish\nMoses-Columbia\nMoses-Columbian\nNxaʔamxcín\nWenatchee\nWenatchi-Columbia"
+  },
+  "triggers": {
+    "lgcode": "\nwenatchee\nselica\nnxaamxcin\nmoses\nnxa"
+  },
+  "identifier": {
+    "wals": "cwe",
+    "multitree": "col",
+    "endangeredlanguages": "1696"
+  },
+  "classification": {
+    "sub": "**hh:h:Davis:Salish** **hh:hv:Thompson:Salishan**",
+    "subrefs": "\n**hh:h:Davis:Salish**\n**hh:hv:Thompson:Salishan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Columbian (1696-col) = Critically Endangered (60 percent certain, based on the evidence available) (All are elderly, ranging in age from late 60s to mid-80s with most well over 70.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

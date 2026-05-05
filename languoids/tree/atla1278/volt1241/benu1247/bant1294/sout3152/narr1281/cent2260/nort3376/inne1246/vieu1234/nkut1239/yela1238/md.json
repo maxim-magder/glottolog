@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yela-Kela",
+    "hid": "yel",
+    "level": "language",
+    "iso639-3": "yel",
+    "latitude": "-2.46204",
+    "longitude": "22.5891",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q32151338\nhttps://en.wikipedia.org/wiki/Yela-Kela_language"
+  },
+  "classification": {
+    "sub": "**hh:h:Hulstaert:Cuvette-Congolaise**:23 **hh:hv:Mangulu:Bassin-Congolais**",
+    "subrefs": "\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:hv:Mangulu:Bassin-Congolais**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:torday:joyce:22**\n**eballiso2009:17931**\n**eballiso2009:22335**\n**eballiso2009:25996**\n**eballiso2009:39730**\n**eballiso2009:51305**\n**hh:e:Bakasa:Balinga**\n**hh:e:Molin:Boyela**\n**hh:g:Forges:Kela**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:h:Motingea:Tshuapa-Lomela**\n**hh:h:Torday:Kasai**\n**hh:he:Hulstaert:Lomela**\n**hh:he:MaesBoone:Congo-Belge**\n**hh:he:TordayJoyce:Kasai-Kwango**\n**hh:hv:Bastinetal:Bantu**\n**hh:lde:Empain:Bakela**\n**hh:phon:Ikosso:Ikela**\n**hh:s:Hulstaert:Boyela**\n**hh:s:Motingea:Balinga-Bondombe**\n**hh:s:Motingea:Boyela**\n**hh:w:TordayJoyce:Kasai-Kwango-Foret-Linguistique**"
+  },
+  "altnames": {
+    "multitree": "\nBoyela\nKutu\nYela",
+    "lexvo": "\nYela [en]",
+    "hhbib_lgcode": "\nAkela\nBakela de la Loto\nBalinga de la zone de Bokungu et d'Ikela (Bondombe)\nBoyela\nBoyela (Ekuku-Bokutu)\nBoyela van de Tshuapa\nBálingá-Bondombe\nIkela\nKela\nKela of Forges C75\nKela see Hulstaert (1999:20-21) Dialectologie Mongo\nKela-Yela\nOkela\nYela"
+  },
+  "triggers": {
+    "lgcode": "\nelembe\nNOT et AND boyela"
+  },
+  "identifier": {
+    "multitree": "yel"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 differentiates between Yela [yel] and Kela [kel] corresponding to two extant geographical enclaves. Hulstaert (**hh:h:Hulstaert:Cuvette-Congolaise**:23, **hh:g:Hulstaert:Dialectologie-Mongo**:20-21) who had studied the varieties in the field, argues that this distinction is not particularly salient linguistically, wherefore they should arguably be merged. See also: Kela (Democratic Republic of Congo) [kel].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "yel"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E26",
+    "date": "2023-03-07T13:49:51",
+    "comment": "Yela (yel-yel) = 6a* (Vigorous)."
+  }
+}

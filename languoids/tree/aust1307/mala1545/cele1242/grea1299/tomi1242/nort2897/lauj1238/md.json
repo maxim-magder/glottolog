@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lauje",
+    "hid": "law",
+    "level": "language",
+    "iso639-3": "law",
+    "latitude": "0.50708",
+    "longitude": "120.262",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Lauje](https://endangeredlanguages.com/lang/1332)\nhttps://www.wikidata.org/entity/Q6498258\nhttps://en.wikipedia.org/wiki/Lauje_language\n[Lauje](https://wals.info/languoid/lect/wals_code_lje)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:himmelmann:91**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Nourse:Lauje**\n**hh:h:Karsana:Lauje**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:hw:Himmelmann:Tomini-Tolitoli**"
+  },
+  "altnames": {
+    "wals": "\nLauje",
+    "wals other": "\nLaudje\nTinombo",
+    "multitree": "\nAmpibabo-Lauje\nAmpibabo-lauje\nLaudje\nLauje\nTinombo",
+    "lexvo": "\nLauje [en]",
+    "hhbib_lgcode": "\nAmpibabo\nAmpibabo-Lauje\nTinombo",
+    "elcat": "\nAmpibabo-Lauje\nLaudje\nLauje\nTinombo"
+  },
+  "triggers": {
+    "lgcode": "\nlauje"
+  },
+  "identifier": {
+    "wals": "lje",
+    "multitree": "law",
+    "endangeredlanguages": "1332"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zobel:Kaili-Wolio**:299",
+    "subrefs": "\n**hh:hv:Zobel:Kaili-Wolio**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lauje (1332-law) = Threatened (40 percent certain, based on the evidence available) (There is less tendency to language shift than in other provincial capitals.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northern Pumi",
+    "hid": "pmi",
+    "level": "language",
+    "iso639-3": "pmi",
+    "latitude": "28.6626",
+    "longitude": "101.305",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Northern Pumi](https://endangeredlanguages.com/lang/5607)\n[Northern Pumi](https://grambank.clld.org/languages/nort2723)\n[Pumi (Taoba)](https://lexibank.clld.org/languages/gaotb-PumiTaoba)\nhttps://www.wikidata.org/entity/Q3403245"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:jacques:11:2**\n**cldf:jacques:11:6**\n**cldf:lewis:ed:09**\n**cldf:lu:01:1**\n**cldf:lu:83**\n**cldf:roche:suzuki:17**\n**cldf:sun:01**\n**cldf:sun:93:2**\n**hh:e:Wellens:Premi**\n**hh:g:Daudey:Wadu-Pumi**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvphon:Lu:Pumi**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:s:Lu:Pumi**\n**hh:typ:Daudey:Wadu-Pumi**\n**hh:w:Bufan:Zangmian**\n**mpieva:Lu1983Pumiyuji**\n**mpieva:Lu2001Pumiyufa**"
+  },
+  "altnames": {
+    "multitree": "\nCh'rame\nNorthern\nNorthern Prinmi\nP'rome\nP'umi\nP'ömi\nPimi\nPrimi\nPrimmi\nPrinmi\nPruumi\nPumi\nPumi, Northern\nPumi,Northern\nSouthern",
+    "lexvo": "\nNorthern Pumi [en]",
+    "hhbib_lgcode": "\n= Pumi-Northern\nNiuwozi in Ninglang\nPremi\nPrinmi\nPumi Taoba\nPumi-Jiulong\nPumi-Northern\nSanyanglong\nSānyǎnlóng (Jiǔlóng-Sichuan)\nTaoba\nTaoba Pumi\nTuoqi Pumi\nTuōqī (northern Nínglàng-Yunnan)\nTáobā Prinmi in Mùlǐ County-Liángshān-Prefecture-Sichuan\nWadu Pumi\nWădū Pŭmĭ\nZuŏsuŏ (Yányuán-Sichuan)",
+    "elcat": "\nCh'rame\nNorthern Prinmi\nNorthern Pumi\nP'rome\nP'umi\nP'ömi\nPimi\nPrimi\nPrimmi\nPrinmi\nPruumi\nPumi\n北普米語"
+  },
+  "triggers": {
+    "lgcode": "\nyu AND pumi\nprinmi"
+  },
+  "identifier": {
+    "multitree": "pmi",
+    "endangeredlanguages": "5607"
+  },
+  "classification": {
+    "sub": "**hh:hv:JacquesMichaud:Naxi-Na-Laze**",
+    "subrefs": "\n**hh:hv:JacquesMichaud:Naxi-Na-Laze**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Pumi (5607-pmi) = Vulnerable (20 percent certain, based on the evidence available) [Daudey 2014](cldf:daudey:14:1)"
+  }
+}

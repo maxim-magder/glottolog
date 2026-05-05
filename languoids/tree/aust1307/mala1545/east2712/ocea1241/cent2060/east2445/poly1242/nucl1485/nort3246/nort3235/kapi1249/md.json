@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kapingamarangi",
+    "hid": "kpg",
+    "level": "language",
+    "iso639-3": "kpg",
+    "latitude": "1.039166",
+    "longitude": "154.797223",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Kapingamarangi](https://endangeredlanguages.com/lang/4432)\n[Kapingamarangi](https://grambank.clld.org/languages/kapi1249)\n[Kapingamarangi](https://lexibank.clld.org/languages/abvdoceanic-Kapingamarangi)\n[Kapingamarangi](https://wals.info/languoid/lect/wals_code_kpn)\n[Kapingamarangi_217](https://lexibank.clld.org/languages/walworthpolynesian-Kapingamarangi)\nhttps://en.wikipedia.org/wiki/Kapingamarangi_language\nhttps://www.wikidata.org/entity/Q35771"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:buck:28**\n**cldf:buck:50**\n**cldf:buden:98**\n**cldf:calculator:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:ed:10**\n**cldf:eilers:34:1**\n**cldf:emory:65**\n**cldf:lewis:ed:09**\n**cldf:lieber:77**\n**cldf:lieber:91**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**hh:d:LieberDikepa:Kapingamarangi**\n**hh:e:Ray:Greenwich-Atoll**\n**hh:ew:Tolksdorf:ZBrasilien**\n**hh:he:Eilers:Ponape**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:Ray:Polynesian:1912-1921**\n**hh:std:Elbert:Kapingamarangi**"
+  },
+  "altnames": {
+    "wals": "\nKapingamarangi",
+    "wals other": "\nKirinit",
+    "ruhlen (1987)": "\nKapingamarangi",
+    "moseley & asher (1994)": "\nKapingamarangi",
+    "multitree": "\nKapingamarangi\nKirinit",
+    "lexvo": "\nKapingamarangi [en]",
+    "hhbib_lgcode": "\nGreenwhich Atoll\nKaraja\nPikiram",
+    "elcat": "\nKapingamarangi\nKirinit"
+  },
+  "triggers": {
+    "lgcode": "\nkapingamarangi\ngreenwich"
+  },
+  "identifier": {
+    "wals": "kpn",
+    "multitree": "kpg",
+    "endangeredlanguages": "4432"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:Northern-Outliers-East-Polynesian**",
+    "subrefs": "\n**hh:hv:Wilson:Northern-Outliers-East-Polynesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kapingamarangi (4432-kpg) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Namat",
+    "hid": "nkm",
+    "level": "language",
+    "iso639-3": "nkm",
+    "latitude": "-8.827",
+    "longitude": "141.641",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Namat](https://endangeredlanguages.com/lang/4871)\nhttps://en.wikipedia.org/wiki/Namat_language\nhttps://www.wikidata.org/entity/Q15634505"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Williams:Trans-Fly**\n**hh:hsoc:Rueck:Morehead**\n**hh:hsoc:Rueck:Morehead:2006**"
+  },
+  "altnames": {
+    "multitree": "\nNamat",
+    "lexvo": "\nNamat [en]",
+    "hhbib_lgcode": "\nKaunje\nNamat in Mibini\nNyamone-Yem\nTuj",
+    "elcat": "\nNamat"
+  },
+  "identifier": {
+    "multitree": "nkm",
+    "endangeredlanguages": "4871"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dohler:Morehead** **hh:hwld:Donohue:Wasur**",
+    "subrefs": "\n**hh:hv:Dohler:Morehead**\n**hh:hwld:Donohue:Wasur**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Namat (4871-nkm) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

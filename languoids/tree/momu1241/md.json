@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Momuna",
+    "hid": "mqf",
+    "level": "language",
+    "iso639-3": "mqf",
+    "latitude": "-5.04431",
+    "longitude": "139.26",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Momuna](https://endangeredlanguages.com/lang/2717)\nhttps://www.wikidata.org/entity/Q6897518\nhttps://en.wikipedia.org/wiki/Momuna_language\n[Momuna](https://wals.info/languoid/lect/wals_code_mqf)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Henson:Melanesia**\n**hh:e:Henson:Momina**\n**hh:e:Henson:Momina:1992**\n**hh:h:Sugono:Indonesia**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:Wilbrink:Kopkaka**\n**hh:typ:Reimer:Momuna**\n**hh:typ:Walchli:Momuna**\n**hh:typt:Reimer:Momuna**\n**sil16:31723**\n**sil16:31724**"
+  },
+  "altnames": {
+    "multitree": "\nMomuna\nSomage\nSomahai\nSumohai",
+    "lexvo": "\nMomuna [en]",
+    "hhbib_lgcode": "\nMomina in Sumo on the Baliem (Vriendschap) River\nMomuna Kronemann\nMomuna LdV\nMomuna from Sumo on the Baliem (Vriendschap) River\nMomuna from the NT which is from Sumo on the Baliem (Vriendschap) River\nSomahai (Bob Leland from the Catalina River and Bim River by John D. Wilson)\nSomahai (Le-W1)\nW1)",
+    "elcat": "\nMomuna\nSomage\nSomahai\nSumohai"
+  },
+  "triggers": {
+    "lgcode": "\nmomuna\nmomina\nookooro"
+  },
+  "identifier": {
+    "wals": "mqf",
+    "multitree": "mqf;momu",
+    "endangeredlanguages": "2717"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Momuna (2717-mqf) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

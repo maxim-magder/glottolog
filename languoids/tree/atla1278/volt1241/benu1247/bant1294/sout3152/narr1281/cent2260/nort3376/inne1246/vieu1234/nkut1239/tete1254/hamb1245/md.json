@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hamba de Lomela",
+    "hid": "hba",
+    "level": "language",
+    "iso639-3": "hba",
+    "latitude": "-2.49047",
+    "longitude": "24.2299",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11028905"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:deHeusch:Hamba**\n**hh:h:Kasongo:Otetela-Hamba**\n**hh:h:Motingea:Tshuapa-Lomela**\n**hh:hdial:LabaereShango:Otetela**\n**hh:he:MaesBoone:Congo-Belge**\n**hh:hvb:vanBulck:Congo**\n**hh:s:Motingea:Hamba**\n**hh:s:Onawongo:Tetela-Loja**"
+  },
+  "altnames": {
+    "multitree": "\nDemocratic Republic of the Congo\nHamba",
+    "lexvo": "\nHamba [en]",
+    "hhbib_lgcode": "\nBahamba (Lomami)\nHamba\nHambá\nHambá de la Chefferie Djembo Territoire de Lɔmɛla\nOtetela-Hamba de Lomela\nTetela of Ongele in Lodja"
+  },
+  "triggers": {
+    "lgcode": "\npotlach"
+  },
+  "identifier": {
+    "multitree": "hba"
+  },
+  "classification": {
+    "sub": "**hh:g:Jacobs:Tetela** **hh:hvw:Motingea:Nkutsu** **hh:g:Wetshemongo:Otetela**:9-11",
+    "subrefs": "\n**hh:g:Wetshemongo:Otetela**\n**hh:hvw:Motingea:Nkutsu**\n**hh:g:Jacobs:Tetela**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hamba (hba-hba) = 6a (Vigorous)."
+  }
+}

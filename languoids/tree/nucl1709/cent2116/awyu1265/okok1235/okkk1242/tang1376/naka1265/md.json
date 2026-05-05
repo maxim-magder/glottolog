@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nakai",
+    "hid": "nkj",
+    "level": "language",
+    "iso639-3": "nkj",
+    "latitude": "-5.19377",
+    "longitude": "140.512",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Nakai](https://endangeredlanguages.com/lang/10695)\n[Nakai](https://lexibank.clld.org/languages/transnewguineaorg-nakai)\nhttps://en.wikipedia.org/wiki/Nakai_language\nhttps://www.wikidata.org/entity/Q14916897"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:h:Sitokdana:Pegunungan-Bintang**\n**hh:h:Versteeg:Oerwoud**\n**hh:h:deVries:Upper-Kao**\n**hh:hvw:Wilbrink:Kopkaka**\n**hh:hvwsoc:Jang:Southeastern-Foothills**\n**hh:hwsoc:Hughes:UDigul**\n**hh:hwsoc:Leboldetal:Upper-Digul**\n**hh:ld:Sitokdana:Ngalum-Ketengban-Lepki-Arimtap**"
+  },
+  "altnames": {
+    "multitree": "\nNa'ai\nNa'i\nNagai\nNakai",
+    "lexvo": "\nNakai [en]",
+    "hhbib_lgcode": "\nArimtap\nArintap is -3.954600-140.428200 so in the far northern end of Ketengban and there are some resemblances to the Ketengban and Ok given (but none to Kosare of Heeschen 1978 or Wambaliau) but there are great resemblances to Nakai\nNagi/Kawor2\nNagi/Tarngob\nNakai/Burunggop\nNakai7Awimbon\nSait\nSait-Nagi",
+    "elcat": "\nNagai\nNakai\nNa’ai\nNa’i"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND digul"
+  },
+  "identifier": {
+    "multitree": "nkj",
+    "endangeredlanguages": "10695"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:Hughes:UDigul** **hh:hvw:Wilbrink:Kopkaka**",
+    "subrefs": "\n**hh:hwsoc:Hughes:UDigul**\n**hh:hvw:Wilbrink:Kopkaka**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nakai (10695-nkj) = Endangered (40 percent certain, based on the evidence available) [Hughes 2009](cldf:hughes:09)"
+  }
+}

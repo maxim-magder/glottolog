@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Archaic Angloromani",
+    "hid": "rme",
+    "level": "language",
+    "iso639-3": "rme",
+    "latitude": "51.75",
+    "longitude": "-2.56",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AU",
+      "GB",
+      "US",
+      "ZA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Angloromani\nhttps://www.wikidata.org/entity/Q541279"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Borrow:Romano-Lavo-Lil**\n**hh:h:Lockwood:British-Isles**\n**hh:he:Leland:Gypsies**\n**hh:ld:Acton:Romani**\n**hh:s:Leland:Gipsies**\n**hh:soc:Hancock:Angloromani**\n**hh:soc:Hancock:Cant-Angloromani**\n**hh:soc:Matras:Romani-Britain**\n**hh:std:SmartCrofton:English-Gypsies**\n**hh:typsoc:Hancock:Angloromani**\n**hh:typsoc:Matrasetal:Angloromani**\n**hh:v:Hancok:Anglo-Romanes**\n**hh:vld:Grant:British-Romani**\n**hh:w:Bakker:British-Romani**\n**hh:w:NA:Anglo-Romani**"
+  },
+  "altnames": {
+    "multitree": "\nAngloromani\nEnglish Romani\nEuropean Romany\nPogadi Chib\nPosh 'N' Posh\nRomani English\nRomanichal\nRomanis",
+    "lexvo": "\nAnglo-Romany [fy]\nAngloromani [en]\nAngloromani language [en]",
+    "hhbib_lgcode": "\nAmerican Angloromani\nAngloromani\nAngloromani of Pogerdi Jib (broken language)\nEnglish Gypsies\nRomany",
+    "glottolog": "\nAngloromani"
+  },
+  "triggers": {
+    "lgcode": "\ngipsies\nlavo\nafterlife\nangloromani\nlil"
+  },
+  "identifier": {
+    "multitree": "rme"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Angloromani (rme-rme) = 6b (Threatened)."
+  },
+  "classification": {
+    "sub": "**hh:s:Leland:Gipsies** **hh:hv:Matras:Romani**:242-249",
+    "subrefs": "\n**hh:s:Leland:Gipsies**\n**hh:hv:Matras:Romani**"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kalispel-Pend d'Oreille",
+    "hid": "fla",
+    "level": "language",
+    "iso639-3": "fla",
+    "latitude": "47.5825",
+    "longitude": "-114.19",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Kalispel](https://wals.info/languoid/lect/wals_code_kls)\n[Kalispel-Pend d'Oreille](https://grambank.clld.org/languages/kali1308)\nhttps://en.wikipedia.org/wiki/Salish%E2%80%93Spokane%E2%80%93Kalispel_language\nhttps://www.wikidata.org/entity/Q3111983"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:giorda:77**\n**cldf:thomason:everett:93**\n**hh:d:MSJ:Kalispel**\n**hh:e:Lahren:Kalispel**\n**hh:e:Malouf:Flathead**\n**hh:e:Teit:Salishan**\n**hh:g:Vogt:Kalispel**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hew:Tyloretal:North-Western-Canada**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hw:Howse:NAmerican**\n**hh:phon:Flemming:Montana-Salish**\n**hh:s:Mengarini:Selish**\n**hh:s:Speck:Kalispel**\n**hh:s:Speck:Kalispel:1977**\n**hh:soc:Malan:Flathead**\n**hh:soc:Wood:Salish**\n**hh:w:MattinaTaylor:Salish**\n**mpieva:Jorgensen1969Salishla**\n**mpieva:Kiyosawa2006Applicat**"
+  },
+  "altnames": {
+    "wals": "\nKalispel",
+    "ruhlen (1987)": "\nKalispel",
+    "moseley & asher (1994)": "\nKalispel",
+    "multitree": "\n\"Flathead\"-Kalispel\nFlathead\nFlathead-Kalispel-Spokane\nFlathead-Pend d'Oreille-Spokane\nKalispel\nKalispel-Flathead\nKalispel-Pend D'oreille\nKalispel-Pend d'Oreille\nMontana Salish-Kalispel-Spokane\nMontana Salish-Pend d'Oreille-Spokane\nQalispé\nSalish\nSalish de Montana\nSalish du Montana\nSpokane-Kalispel-Flathead\nSéliš",
+    "lexvo": "\nKalispel [fr]\nKalispel-Pend d'Oreille [en]",
+    "hhbib_lgcode": "\nFlat-Head\nFlathead\nFlathead and Pend d'Oreille\nKalispel\nKalispel-Pend D'oreille\nMontana Salish\nSalish-Flathead"
+  },
+  "triggers": {
+    "lgcode": "\nkalispel\nflathead"
+  },
+  "identifier": {
+    "wals": "kls",
+    "multitree": "fla",
+    "endangeredlanguages": "4148"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950**",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Kalispel-Spokane-Pend d'Oreille-Salish (4148-fla) = Severely Endangered (20 percent certain, based on the evidence available) (Spokane-Kalispel is spoken in 3 major dialects: (1) Spokane dialect (It has only 2 fluent first-language speakers, a married couple in their 70s; (2) Flathead dialect (also known as Montana Salish) (about 60 fluent first-language speakers of Flathead, one in his 40s, another about 55, all others 65 or older). A sub-dialect is said to characterize Flathead speakers of Pend d’Oreille descent. (3) Kalispel dialect (a few speakers, information is scant). (Golla et al. 2008.)) ['bib5217']"
+  }
+}

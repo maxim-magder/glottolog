@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Shoshoni",
+    "hid": "shh",
+    "level": "language",
+    "iso639-3": "shh",
+    "latitude": "41.0",
+    "longitude": "-116.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Shoshone](https://endangeredlanguages.com/lang/1473)\n[Shoshone](https://wals.info/languoid/lect/wals_code_sho)\n[Shoshone (Wind River)](https://wals.info/languoid/lect/wals_code_swr)\n[Shoshoni](https://grambank.clld.org/languages/shos1248)\nhttps://en.wikipedia.org/wiki/Shoshoni_language\nhttps://www.wikidata.org/entity/Q33811"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:casad:ed:00:1**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crum:80**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:gould:loether:03**\n**cldf:guzman:ed:00:7**\n**cldf:langacker:76**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lindsey:jr:etal:00**\n**cldf:miller:72**\n**cldf:nowak:ed:03:6**\n**cldf:np:nd:255**\n**cldf:np:nd:264**\n**hh:d:Shaul:Eastern-Shoshone**\n**hh:dial:Miller:Western-Shoshoni**\n**hh:e:Murphy:Northern-Shoshone**\n**hh:e:Shimkin:Eastern-Shoshone**\n**hh:e:Thomas:Western-Shoshone**\n**hh:g:CrumDayley:WShoshoni**\n**hh:g:GouldLoether:Shoshoni**\n**hh:hew:Hale:Philology**\n**hh:hv:Davis:Numic**\n**hh:hv:Gatschet:Eleven-Idioms**\n**hh:hv:Kroeber:California**\n**hh:hvb:Golla:California**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Gatschet:Seven-Stocks**\n**hh:hvw:Kroeber:Shoshonean**\n**hh:hvw:Latham:Comparative**\n**hh:ld:Elzinga:Shoshoni-Verb**\n**hh:ldsoc:Elzinga:Shoshoni**\n**hh:s:Dayley:Shoshone**\n**hh:s:McLaughlin:Shoshoni**\n**hh:s:Miller:Shoshone**\n**hh:s:Shaul:Shoshone**\n**hh:s:Shimkin:Shoshone**\n**hh:s:StClair:Shoshone**\n**hh:sd:Crapo:Big-Smokey-Shoshoni**\n**hh:soc:Tagliavini:Shoshone**\n**hh:t:Crum:Shoshoni**\n**hh:typ:Lindsey:Shoshoni**\n**hh:vtyp:Stephens:Shoshone**\n**mpieva:Miller1972Newenate**\n**sil16:33287**\n**sil16:33289**"
+  },
+  "altnames": {
+    "wals": "\nShoshone\nShoshone (Wind River)",
+    "wals other": "\nBig Smokey Valley Shoshoni\nWind River Shoshone",
+    "ruhlen (1987)": "\nShoshone\nShoshone (Northern)",
+    "moseley & asher (1994)": "\nShoshone",
+    "multitree": "\nShonshoni\nShoshone\nShoshone (Idaho)\nShoshone (Nevada)\nShoshone (Wind River)\nShoshone (Wyoming)\nShoshoni\nShoshoni-Goshiute\nWind River",
+    "lexvo": "\nChochoneg [br]\nShoshone [de]\nShoshone language [en]\nShoshoni [en]",
+    "hhbib_lgcode": "\nEastern Shoshone\nKauvuya-Shoshonee\nNorthern Shoshone and Bannock\nShoshone\nShoshonean\nShoshoni-Yarrow\nWestern Shoshone\nWyoming Shoshone",
+    "elcat": "\nShonshoni\nShoshone\nShoshoni\nShoshoni-Goshiute"
+  },
+  "triggers": {
+    "lgcode": "\ndayley\nshoshoni\nnumic"
+  },
+  "identifier": {
+    "wals": "sho;swr",
+    "multitree": "shh;shh-win",
+    "endangeredlanguages": "1473"
+  },
+  "classification": {
+    "sub": "**hh:hv:Garrettetal:Numic**",
+    "subrefs": "\n**hh:hv:Garrettetal:Numic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Shoshone (1473-shh) = Endangered (60 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

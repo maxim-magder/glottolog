@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Wobe-Wè Northern",
+    "hid": "wob",
+    "level": "language",
+    "iso639-3": "wob",
+    "latitude": "7.40391",
+    "longitude": "-7.24617",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\n[Wobe](https://wals.info/languoid/lect/wals_code_wob)\nhttps://en.wikipedia.org/wiki/Wob%C3%A9_language\nhttps://phoible.org/languages/weno1238\nhttps://www.wikidata.org/entity/Q3915363"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4011**\n**cldf:bearth:link:80**\n**cldf:grimes:ed:78:6**\n**cldf:link:78**\n**cldf:paradis:84**\n**cldf:singler:84**\n**eballiso2009:101**\n**eballiso2009:10401**\n**eballiso2009:10403**\n**eballiso2009:11152**\n**eballiso2009:11273**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:11716**\n**eballiso2009:12542**\n**eballiso2009:12543**\n**eballiso2009:12904**\n**eballiso2009:12911**\n**eballiso2009:14811**\n**eballiso2009:14926**\n**eballiso2009:14928**\n**eballiso2009:16212**\n**eballiso2009:16213**\n**eballiso2009:18422**\n**eballiso2009:24335**\n**eballiso2009:26261**\n**eballiso2009:28829**\n**eballiso2009:30458**\n**eballiso2009:30460**\n**eballiso2009:30461**\n**eballiso2009:31933**\n**eballiso2009:32257**\n**eballiso2009:34044**\n**eballiso2009:36891**\n**eballiso2009:36893**\n**eballiso2009:36895**\n**eballiso2009:36896**\n**eballiso2009:37982**\n**eballiso2009:37987**\n**eballiso2009:38479**\n**eballiso2009:45329**\n**eballiso2009:45330**\n**eballiso2009:55662**\n**eballiso2009:56986**\n**eballiso2009:59371**\n**eballiso2009:7398**\n**eballiso2009:9509**\n**hh:g:Egner:Wobe**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:Richard:Sud-Ouest-Ivoirien**\n**hh:h:Schwartz:Guere-Wobe**\n**hh:hvphon:Bole-Richard:We**\n**hh:hvs:Marchese:Kru**\n**hh:hvtyp:Marchese:Kru**\n**hh:hvw:Duitsman:Guere**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:ld:Gfeller:Wobe**\n**hh:soc:Hair:Afro-European**\n**hh:typ:Bearth:Wobe-Tone-Puzzle**\n**hh:w:Bertho:GereWobe**\n**hh:w:Marchese:Kru-Lexemes**\n**sil16:11116**\n**sil16:11433**\n**sil16:15350**\n**sil16:15621**\n**sil16:15623**\n**sil16:15951**\n**sil16:17357**\n**sil16:17358**\n**sil16:17359**\n**sil16:17360**\n**sil16:17361**\n**sil16:18560**\n**sil16:19443**\n**sil16:19446**\n**sil16:21541**\n**sil16:22302**\n**sil16:22303**\n**sil16:22766**\n**sil16:23552**\n**sil16:23553**\n**sil16:23674**\n**sil16:33174**\n**sil16:34493**\n**sil16:36225**\n**sil16:36226**\n**sil16:38088**\n**sil16:38089**\n**sil16:46885**"
+  },
+  "altnames": {
+    "wals": "\nWobe",
+    "wals other": "\nWobé",
+    "ruhlen (1987)": "\nWobe",
+    "moseley & asher (1994)": "\nWobe",
+    "multitree": "\nOuobe\nWobe\nWobé\nWè Northern\nWèè",
+    "lexvo": "\nWè Northern [en]",
+    "hhbib_lgcode": "\nBaon\nGbean Wobe\nGbéon\nKouibly\nKouibly Wobe\nTao dialect in the Kouibly area\nWobe\nWobe Kuibli\nWobe-Peome\nWobe-Tao\nWobé\nWè Northern\nZoho\nZouagnon"
+  },
+  "triggers": {
+    "lgcode": "\nkwibli\ntowerson\nkran\nkrahn\nwobe\nb2a\nso{n\npod\nsro\nsaasb\nwny\nyeere\nkruan\nguynee\nsrosb"
+  },
+  "identifier": {
+    "wals": "wob",
+    "multitree": "wobe;wob"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Duitsman:Guere** **hh:hv:Ingemann:Kruan** **hh:e:Lauer:Doo**",
+    "subrefs": "\n**hh:e:Lauer:Doo**\n**hh:hv:Ingemann:Kruan**\n**hh:hvw:Duitsman:Guere**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wè Northern (wob-wob) = 5* (Developing)."
+  }
+}

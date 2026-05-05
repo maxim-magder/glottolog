@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Yessan-Mayo",
+    "hid": "yss",
+    "level": "language",
+    "iso639-3": "yss",
+    "latitude": "-4.15721",
+    "longitude": "142.574",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Yessan-Mayo](https://endangeredlanguages.com/lang/10593)\n[Yessan-Mayo](https://grambank.clld.org/languages/yess1239)\n[Yessan-Mayo](https://wals.info/languoid/lect/wals_code_yes)\nhttps://en.wikipedia.org/wiki/Yessan-Mayo_language\nhttps://phoible.org/languages/yess1239\nhttps://www.wikidata.org/entity/Q8052927"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:g:Foreman:Yessan**\n**hh:he:Newton:Upper-Sepik**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**\n**hh:hvw:Laycock:Lumi**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:phon:ForemanMarten:Yessan-Mayo**\n**hh:w:Haberland:Korowori**\n**mpieva:Foreman1973Grammaro**\n**mpieva:Healey1973Phonolog**\n**sil16:10008**\n**sil16:11491**\n**sil16:17801**\n**sil16:20014**\n**sil16:20521**\n**sil16:20522**\n**sil16:20523**\n**sil16:20524**\n**sil16:20525**\n**sil16:20526**\n**sil16:20527**\n**sil16:20528**\n**sil16:20529**\n**sil16:20530**\n**sil16:20532**\n**sil16:23086**\n**sil16:38959**\n**sil16:39010**\n**sil16:42945**\n**sil16:43659**\n**sil16:49237**\n**sil16:49238**\n**sil16:49239**\n**sil16:49240**\n**sil16:49880**\n**silpng:silpng1956-1990:1180**\n**silpng:silpng1956-1990:1181**\n**silpng:silpng1956-1990:1182**\n**silpng:silpng1956-1990:1183**\n**silpng:silpng1956-1990:1184**\n**silpng:silpng1956-1990:1185**\n**silpng:silpng1956-1990:1186**\n**silpng:silpng1956-1990:1187**\n**silpng:silpng1956-1990:1188**\n**silpng:silpng1956-1990:1189**\n**silpng:silpng1956-1990:1190**\n**silpng:silpng1956-1990:1191**\n**silpng:silpng1956-1990:1192**\n**silpng:silpng1956-1990:1193**\n**silpng:silpng1956-1990:1194**\n**silpng:silpng1956-1990:1195**\n**silpng:silpng1956-1990:1196**\n**silpng:silpng1956-1990:1881**\n**silpng:silpng1956-1990:1882**\n**silpng:silpng1956-1990:1883**\n**silpng:silpng1956-1990:1887**\n**silpng:silpng1956-1990:1889**\n**silpng:silpng1956-1990:1890**\n**silpng:silpng1956-1990:1893**\n**silpng:silpng1956-1990:1894**\n**silpng:silpng1956-1990:1895**\n**silpng:silpng1956-1990:1896**\n**silpng:silpng2001-2003:431**\n**silpng:silpng2001-2003:432**\n**silpng:silpng2004:172**\n**silpng:silpng2004:26**"
+  },
+  "altnames": {
+    "wals": "\nYessan-Mayo",
+    "wals other": "\nMayo\nYessan-Mayo",
+    "ruhlen (1987)": "\nYessan-Mayo",
+    "moseley & asher (1994)": "\nMayo",
+    "multitree": "\nMaio-Yesan\nMayo\nMayo-Yesan\nYasi\nYasyin\nYesan\nYessan-Mayo",
+    "lexvo": "\nYessan-Mayo [en]",
+    "hhbib_lgcode": "\nKaiserin Augusta River 1 (uarra-busi-nomu) a Tama group language likely Yessan-Mayo\nMayo\nVI-Yesan\nWarasai\nWarasei-Yasyin",
+    "elcat": "\nMaio-Yesan\nMayo\nMayo-Yesan\nYamano\nYasyin\nYesan\nYessan-Mayo"
+  },
+  "triggers": {
+    "lgcode": "\ntewma\nmenamane\nwouken\nNOT toma AND NOT pp AND yessan\nyeiwarege"
+  },
+  "identifier": {
+    "wals": "yes",
+    "multitree": "yss",
+    "endangeredlanguages": "10593"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:Hutchinson:Heyoetc**:128",
+    "subrefs": "\n**hh:hsoc:Hutchinson:Heyoetc**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yessan-Mayo (10593-yss) = Endangered (20 percent certain, based on the evidence available) [Foreman 1974](cldf:foreman:74)"
+  }
+}

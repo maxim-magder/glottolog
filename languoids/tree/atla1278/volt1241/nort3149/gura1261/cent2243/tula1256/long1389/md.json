@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Longuda",
+    "hid": "lnu",
+    "level": "language",
+    "iso639-3": "lnu",
+    "latitude": "9.75787",
+    "longitude": "11.8378",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Longuda_language\nhttps://www.wikidata.org/entity/Q35797"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:973**\n**cldf:meek:31:2**\n**eballiso2009:24347**\n**eballiso2009:2685**\n**eballiso2009:2686**\n**eballiso2009:31944**\n**hh:dial:NewmanNewman:Longuda**\n**hh:e:Bairah:Longuda**\n**hh:h:Gebauer:Pero-Longuda-Tula**\n**hh:h:Olaoye:Longuda**\n**hh:hew:Meek:Tribal:II**\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hvw:Boyd:Adamawa:1988**\n**hh:hvw:Jungraithmayr:Class**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:NewmanNewman:Longuda**\n**hh:typ:Elstermann:Longuda**\n**hh:typ:Newman:Longuda**\n**hh:vld:Kleinerwillinghofer:Dead-Father**\n**sil16:11810**\n**sil16:14373**\n**sil16:16231**\n**sil16:16233**"
+  },
+  "altnames": {
+    "multitree": "\nGroup 10\nLanguda\nLonguda\nLongura\nNunguda\nNungura\nNunguraba",
+    "lexvo": "\nLonguda [en]",
+    "hhbib_lgcode": "\nCerii\nDeele\nGwaanda\nGwaanda Longuda\nKoola\nLonguda Hill dialect\nWala Lunguda (Variante des Guyuk Dialektes)"
+  },
+  "triggers": {
+    "lgcode": "\nlonguda\nbwahangkiya\nnjwande"
+  },
+  "identifier": {
+    "multitree": "lond;lnu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kleinewillinghofer:Adamawa:2020**:224",
+    "subrefs": "\n**hh:hv:Kleinewillinghofer:Adamawa:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nungura (lnu-lnu) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tuamotuan",
+    "hid": "pmt",
+    "level": "language",
+    "iso639-3": "pmt",
+    "latitude": "-16.17259",
+    "longitude": "-146.321755",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PF"
+    ],
+    "links": "\n[Tuamotu](https://lexibank.clld.org/languages/abvdoceanic-Tuamotu)\n[Tuamotuan](https://endangeredlanguages.com/lang/2449)\n[Tuamotuan](https://wals.info/languoid/lect/wals_code_tua)\n[Tuamotuan_246](https://lexibank.clld.org/languages/walworthpolynesian-Tuamotuan)\nhttps://en.wikipedia.org/wiki/Tuamotuan_language\nhttps://www.wikidata.org/entity/Q36763"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:danielsson:54**\n**cldf:danielsson:55**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:stimson:64**\n**hh:d:StimsonMarshall:Tuamotuan**\n**hh:e:Hatanaka:Ethnological-Reao**\n**hh:hvw:Schooling:French-Polynesia**\n**hh:hvwphon:Ward:Polynesian**\n**hh:hw:CharpentierFrancois:Polynesie-Francaise**\n**hh:phon:Kuki:Tuamotuan**\n**hh:phon:Kuki:Tuamotuan:1969**\n**hh:phonw:Shibata:Reao**"
+  },
+  "altnames": {
+    "wals": "\nTuamotuan",
+    "ruhlen (1987)": "\nPa'umotu",
+    "moseley & asher (1994)": "\nPa'umotu",
+    "multitree": "\nPa'umotu\nTuamotuan\nTuamotuano",
+    "lexvo": "\nJęzyk tuamotu [pl]\nPaumotu [fr]\nTuamotuan [en]\nTuamotuan language [en]\nTuamotun kieli [fi]\nТуамоту [ru]",
+    "elcat": "\nPa'umotu\nTuamotuan",
+    "hhbib_lgcode": "\nMihiroa\nNapuka\nReao\nTapuhoe\nTuamotu (Takaroa Atoll)\nVahitu"
+  },
+  "triggers": {
+    "lgcode": "\ntuamotuan"
+  },
+  "identifier": {
+    "wals": "tua",
+    "multitree": "pmt",
+    "endangeredlanguages": "2449"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:East-Polynesian** **hh:hv:Marck:Polynesian**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tuamotuan (2449-pmt) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

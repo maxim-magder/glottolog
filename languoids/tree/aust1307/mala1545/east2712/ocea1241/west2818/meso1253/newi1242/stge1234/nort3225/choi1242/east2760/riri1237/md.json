@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Ririo",
+    "hid": "rri",
+    "level": "language",
+    "iso639-3": "rri",
+    "latitude": "-6.88927",
+    "longitude": "156.92",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Ririo](https://endangeredlanguages.com/lang/1757)\n[Ririo](https://lexibank.clld.org/languages/abvdoceanic-Ririo)\nhttps://en.wikipedia.org/wiki/Ririo_language\nhttps://www.wikidata.org/entity/Q2404190"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:palmer:10**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Capell:Choiseul**\n**hh:hvw:TryonHackman:Solomon**"
+  },
+  "altnames": {
+    "multitree": "\nRirio",
+    "lexvo": "\nRirio [en]",
+    "elcat": "\nRirio"
+  },
+  "identifier": {
+    "multitree": "rri",
+    "endangeredlanguages": "1757"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:NWSolomonic**",
+    "subrefs": "\n**hh:hv:Ross:NWSolomonic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ririo (1757-rri) = Severely Endangered (20 percent certain, based on the evidence available) [Palmer 2010](cldf:palmer:10)"
+  }
+}

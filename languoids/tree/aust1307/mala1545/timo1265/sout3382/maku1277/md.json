@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Maku'a",
+    "hid": "lva",
+    "level": "language",
+    "iso639-3": "lva",
+    "latitude": "-8.40372",
+    "longitude": "127.239",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "TL"
+    ],
+    "links": "\n[Maku'a](https://endangeredlanguages.com/lang/2710)\n[Maku'a](https://grambank.clld.org/languages/maku1277)\nhttps://en.wikipedia.org/wiki/Makuva_language\nhttps://www.wikidata.org/entity/Q35790"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:s:Sudana:Makua**\n**hh:soc:Hajeketal:Lovaia**\n**hh:sv:vanEngelenhovenCailoru:Makuva**\n**hh:sv:vanEngelenhovenCailoru:Makuva:2010**\n**hh:v:HullBranco:Lovaia**\n**hh:v:vanEngelenhoven:Makuva**\n**hh:w:Capell:Timor**"
+  },
+  "altnames": {
+    "multitree": "\nLovaea\nLovaia\nMaku'a",
+    "lexvo": "\nMaku'a [en]",
+    "hhbib_lgcode": "\nLovaia\nMakuv'a",
+    "elcat": "\nLovaea\nLovaia\nMaku'a"
+  },
+  "triggers": {
+    "lgcode": "\nlovaia\nvariation AND makua\nmakuva"
+  },
+  "identifier": {
+    "multitree": "lva;mkur",
+    "endangeredlanguages": "2710"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:202-247 **hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva**",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maku'a (2710-lva) = Critically Endangered (60 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

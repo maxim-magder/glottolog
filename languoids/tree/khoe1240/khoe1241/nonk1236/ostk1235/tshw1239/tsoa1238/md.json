@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Northern Tshwa",
+    "hid": "hio",
+    "level": "language",
+    "iso639-3": "hio",
+    "latitude": "-19.7974",
+    "longitude": "26.9638",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "ZW"
+    ],
+    "links": "\n[Tshwa](https://endangeredlanguages.com/lang/781)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brenzinger:11**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**eballiso2009:11819**\n**eballiso2009:11823**\n**eballiso2009:11825**\n**eballiso2009:11826**\n**eballiso2009:12358**\n**eballiso2009:12458**\n**eballiso2009:15943**\n**eballiso2009:16556**\n**eballiso2009:21030**\n**eballiso2009:23240**\n**eballiso2009:25698**\n**eballiso2009:28567**\n**eballiso2009:2958**\n**eballiso2009:31081**\n**eballiso2009:31086**\n**eballiso2009:32679**\n**eballiso2009:33596**\n**eballiso2009:33766**\n**eballiso2009:33769**\n**eballiso2009:33900**\n**eballiso2009:33947**\n**eballiso2009:33948**\n**eballiso2009:35109**\n**eballiso2009:36443**\n**eballiso2009:36446**\n**eballiso2009:3818**\n**eballiso2009:39245**\n**eballiso2009:40536**\n**eballiso2009:40543**\n**eballiso2009:42205**\n**eballiso2009:45184**\n**eballiso2009:45185**\n**eballiso2009:45738**\n**eballiso2009:45894**\n**eballiso2009:4627**\n**eballiso2009:51702**\n**eballiso2009:56560**\n**eballiso2009:8367**\n**hh:e:Cashdan:Bushmen**\n**hh:e:Cashdan:NKalahari**\n**hh:e:Dornan:Bushmen-Basutoland**\n**hh:e:Ndlovu:Zimbabwe**\n**hh:el:Chabata:Tshwao**\n**hh:ew:Passarge:Kalahari**\n**hh:g:Phiri:Tjwao**\n**hh:h:Motzafi-Haller:Tswapong**\n**hh:hel:ChebanneNthapelelang:EKhoe**\n**hh:hsoc:Chebanne:EKhoe**\n**hh:hsoc:Hachipola:Zimbabwe**\n**hh:htyp:Bleek:Bushman**\n**hh:hv:Ehret:SAfrica**\n**hh:hv:Maingard:Central**\n**hh:hv:Vossen:Khoe:1998**\n**hh:hvw:Bleek:Bushman**\n**hh:ld:Dornan:Masarwas**\n**hh:phon:Phiri:Tshwao**\n**hh:s:Chebanne:Cirecire**\n**hh:s:Dornan:Tati**\n**hh:s:Phiri:Tjwao**\n**hh:soc:Chebanne:Eastern-Kalahari-Khoe**\n**hh:typ:Andrason:Tjwao**\n**hh:typ:Chebanne:Cirecire:Word**\n**hh:typ:Fehn:Northern-Tshwa**\n**hh:typ:Pratchett:Tchabale-Tchoe**\n**hh:w:Maingard:Central**\n**hh:w:Ndlovu:Tshwao**"
+  },
+  "altnames": {
+    "multitree": "\nChuwau\nChware\nG//abake\nGabake-Ntshori\nG||abake\nHaitshuari\nHaitshuwau\nHiechware\nHietshware\nHiochuwau\nHiotshuwau\nKwe\nKwe-Etshori Kwee\nKwe-Tshori\nKwee\nMasarwa\nSarwa\nSesarwa\nTati\nTati Bushman\nTshuwau\nTshwa\nTsoa",
+    "lexvo": "\nTsoa [en]",
+    "hhbib_lgcode": "\nCI Hie or Hietʃware (Masarwa)\nCIb Mohissa\nCirecire\nG||abak'e and Hiechware\nHie\nHietsho\nHietshware\nKhoisan-Tshwawo\nKua-Tsua\nMohissa\nTcire-Tcire\nThabala Tchoe\nTjwao\nTshwa\nTshwao group in western Zimbabwe\nTsoa\nTsua\neasternmost member of the Khoisan family (in the Tsoa group of Central Khoe)",
+    "elcat": "\nChuwau\nChware\nCire-cire\nCua\nCuaa\nG//abake\nGabake-Ntshori\nG||abake\nHaitshuari\nHaitshuwau\nHiechware\nHietshware\nHiochuwau\nHiotshuwau\nKwe\nKwe-Etshori Kwee\nKwe-Tshori\nKwee\nMasarwa\nSarwa\nSesarwa\nShua\nTati\nTati Bushman\nTshoa\nTshuwau\nTshwa\nTsoa",
+    "glottolog": "\nTsoa"
+  },
+  "triggers": {
+    "lgcode": "\ntyua\ncuaa\nmasarwas\nbamangwato\nhietshware\ntsowaa\ntati\ntswapong"
+  },
+  "identifier": {
+    "multitree": "hio",
+    "endangeredlanguages": "781"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Vossen:Khoe**",
+    "subrefs": "\n**hh:hvphon:Vossen:Khoe**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tshwa (781-hio) = Threatened (20 percent certain, based on the evidence available) [Brenzinger 2011](cldf:brenzinger:11)"
+  }
+}

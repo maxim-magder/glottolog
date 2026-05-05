@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Chittagonian",
+    "hid": "ctg",
+    "level": "language",
+    "iso639-3": "ctg",
+    "latitude": "20.831",
+    "longitude": "93.1695",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33173\nhttps://en.wikipedia.org/wiki/Chittagonian_language\n[Bengali (Chittagong)](https://wals.info/languoid/lect/wals_code_bec)"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Grierson:5:I**",
+    "subrefs": "\n**hh:hvw:Grierson:5:I**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Ucida:Chittagong**\n**hh:hvld:Chowdhury:East-Pakistan**\n**hh:hvld:Dabbs:East-Bengal**\n**hh:hvw:Grierson:5:I**\n**hh:phonv:Barua:Bengali-Chittagonian**\n**hh:s:Goswami:Chittagong**\n**hh:s:Hai:Chittagong**\n**hh:wtyp:Pargiter:Chittagong**\n**iso6393:2006-048**"
+  },
+  "altnames": {
+    "multitree": "\nChatgaiyan Buli\nChatgaya\nChittagonian\nChittagonian Bengali",
+    "lexvo": "\nChittagonian [en]\nChittagonian language [en]\nChittagonien [fr]\nசிட்டகோனிய மொழி [ta]\nภาษาจิตตะกอง [th]",
+    "hhbib_lgcode": "\n3xChittagong\nSE Bengali Chittagong"
+  },
+  "triggers": {
+    "lgcode": "\nvon AND chittagong"
+  },
+  "identifier": {
+    "wals": "bec",
+    "multitree": "ctg"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chittagonian (ctg-ctg) = 3 (Wider communication). Used as a trade language under the Portuguese colonial administration in 1528. Widespread during the British period (1700–1947) with other speech communities migrating to Chittagong district and surrounding areas. Main domain is everyday communication."
+  }
+}

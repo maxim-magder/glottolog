@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Garrwan",
+    "level": "family",
+    "iso639-3": "gbc",
+    "hid": "gbc",
+    "countries": [
+      "AU"
+    ],
+    "macroareas": [
+      "Australia"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Garawan_languages\nhttps://www.wikidata.org/entity/Q5521951"
+  },
+  "classification": {
+    "family": "Includes Wanyi and Garrwa.",
+    "familyrefs": "\n**hh:hv:Breen:WanyiGarrwa**\n**hh:hv:Belfrage:WanyiGarrwa**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4487**\n**asjp2010:62**\n**hh:hv:Harvey:Garrwan**\n**iso6393:2011-121**"
+  },
+  "iso_retirement": {
+    "comment": "The languages were probably misanalyzed as dialects of a single language\nbecause, as Breen admits \"Garrwa and Wanyi are superficially very similar\"\n(2003: 426). He concludes an extensive comparison of the two languages by saying\n\"The many correspondences in grammar, especially the pronoun inventories,\nconfirm the conclusion that these languages are closely related, but at the same\ntime the substantial differences in grammar suggest that they must be mutually\nunintelligible -- closely related languages rather than dialects of a language\"\n(2003: 454).\n\nGarrwa and Wanyi have about 50% shared lexicon, either identical words or\nconfirmed cognates. Nominal morphology is more or less similar but by far the\nmost significant difference is the verbal system. Wanyi has no evidence of the\nclitic system that Garrwa uses to express TAM, and prefers a richer verb\nconjugation to express these instead. Belfrage (2003) corroborates these\nconclusions of Breen, and while he revises the verb analysis so that the two\nlanguages resemble each other even further, he maintains the assertion that the\nlanguages are distinct.\n\nPerhaps contributing to the confusion is the asymmetrical distribution of the\ntwo: they both occupy areas about the same size, but per Walsh (1981) Garrwa had\n\"300+\" speakers while Wanyi had a questionable \"10?\". Moreover, Walsh recognizes\nthe dichotomy and goes so far as to list Garrwa and Wanyi as distinct subgroups\nwithin a larger family. As Breen (2003) explains, the situation is more complex\nthan it seems on the surface. Garrwa in fact has two or three true\ndialects--Western Garrwa and Eastern Garrwa, the latter of which may or may not\nbe distinguishable from another variety called Kunindirri (2003: 426).\n\nIn terms of higher-level organization, Austin mentions that \"The two\nclosely-related languages Garawa and Wanyi are spoken in an area immediately\nnorth of Wagay. In vocabulary and morphology they are very different from all\nthe languages discussed above, and are classified as members of a distinct\nlanguage family by O'Grady et al\" (1981: 327). Breen calls this family \"Yanyi,\"\nexplaining \"I have used the name Yanyi (the word for 'language' in these\nlanguages) for the group for a number of years... and propose this as a name for\nthe group that makes no implications regarding its status and does not imply\nprimacy for either language\" (2003: 426).",
+    "code": "gbc",
+    "name": "Garawa",
+    "effective": "2012-02-03",
+    "remedy": "Split into Garrwa [wrk] and Wanyi [wny]",
+    "reason": "split",
+    "change_request": "2011-121",
+    "change_to": "\nwrk\nwny"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Garawa (gbc-gbc) = 10 (Extinct)"
+  }
+}

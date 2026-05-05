@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Isconahua",
+    "hid": "isc",
+    "level": "language",
+    "iso639-3": "isc",
+    "latitude": "-7.75236",
+    "longitude": "-74.5193",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Isconahua](https://grambank.clld.org/languages/isco1239)\n[Iskonawa](https://endangeredlanguages.com/lang/4308)\nhttps://en.wikipedia.org/wiki/Iskonawa_language\nhttps://www.wikidata.org/entity/Q3052971"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:decultura:nd**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rodriguezalzza:nd**\n**cldf:whiton:greene:etal:64**\n**hh:d:Zariquiey:Iskonawa**\n**hh:e:Momsen:Isconahua-Change**\n**hh:ew:Whitonetal:Isconahua**\n**hh:g:Zariquiey:Iskonawa**\n**hh:hv:Kensinger:Panoan**\n**hh:hvb:Fleck:Panoan**\n**hh:typ:Rodriguez:Iskonawa**\n**hh:typ:Zariquiey:Iskonawa**\n**hh:w:Loukotka:Inedits**\n**sil16:11512**"
+  },
+  "altnames": {
+    "multitree": "\nIscobakebo\nIscobaquebu\nIsconahua\nIskonawa",
+    "lexvo": "\nIsconahua [en]",
+    "hhbib_lgcode": "\nIsconawa acc to Fleck\nIskonawa\nYumanáwa",
+    "elcat": "\nIscobakebo\nIscobaquebu\nIsconahua\nIskonawa"
+  },
+  "triggers": {
+    "lgcode": "\nfolkloristic\nisconahua\nfragmento"
+  },
+  "identifier": {
+    "multitree": "isc",
+    "endangeredlanguages": "4308"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Iskonawa (4308-isc) = Critically Endangered (80 percent certain, based on the evidence available) [Rodríguez Alzza n.d.](cldf:rodriguezalzza:nd)"
+  }
+}

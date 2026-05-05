@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Zeeuws",
+    "hid": "zea",
+    "level": "language",
+    "iso639-3": "zea",
+    "latitude": "51.4981",
+    "longitude": "3.85428",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "links": "\n[Dutch (Zeeuws)](https://wals.info/languoid/lect/wals_code_duz)\nhttps://en.wikipedia.org/wiki/Zeelandic\nhttps://www.wikidata.org/entity/Q237409"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Debrabandere:Zeeuws**\n**hh:d:Dek:Kruiningensch**\n**hh:e:Buysse:Zeeuws-Vlaamse**\n**hh:phon:Taeldeman:Kleit**\n**hh:phon:Verschuur:Noord-Bevelandsch**\n**hh:phon:Versieck:Maldegemse**\n**hh:phonsoc:Rys:Eede**\n**hh:s:Landheer:Overflakkee**\n**hh:s:deVin:Schouwen**\n**hh:s:vanDriel:Zeeuws**\n**hh:s:vanWeel:West-Voorne**\n**hh:sd:Landheer:Overflakkee**\n**hh:soc:Schaffel:Holandesa**\n**hh:typ:Will:Zeeuws-Vlaams**\n**hh:typsoc:Francke:Walcheren**\n**hh:w:Goemans:Schouwen**"
+  },
+  "altnames": {
+    "wals": "\nDutch (Zeeuws)",
+    "wals other": "\nFlemish (Zeeuws)",
+    "ruhlen (1987)": "\nNetherlandic",
+    "moseley & asher (1994)": "\nDutch",
+    "multitree": "\nDutch (Zeeuws)\nZeaws\nZeeuws",
+    "lexvo": "\nDialekt zelandzki [pl]\nDialetto zelandese [it]\nSeeländisch [de]\nSî-làn-ngî [hak]\nZais [nds]\nZeelandic [en]\nZeeländska [sv]\nZeeuws [en]\nZelanda lingvo [eo]\nZelandeg [br]\nZelandès [ca]\nZelandés [es]\nZeêuws [pt]\nZiews [li]\nZélandais [fr]\nZêeuws [vls]\nЗеландский диалект [ru]\nゼーランド語 [ja]",
+    "hhbib_lgcode": "\nDutch immigrants in Espírito Santo who left Zeeland in 1858-1862\nEede\nGoeree\nHolandesa no espírito santo\nKleit\nKruiningensch\nLow Franconian\nMaldegem\nNoord-Bevelandsch\nOverflakee\nSchouwen\nSchouwen-Duiveland\nWest-Voorne\nZeeuws-Vlaamse gemeenschap van Holanda\nZeews\nZuid-Bevelandsch\nas Zeeuws\nto"
+  },
+  "triggers": {
+    "lgcode": "\nduiveland\nzeeuws\nschouwen"
+  },
+  "identifier": {
+    "wals": "duz",
+    "multitree": "zea"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bakker:Three-Dutch-Creoles**",
+    "subrefs": "\n**hh:hv:Bakker:Three-Dutch-Creoles**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "West Flemish (1476-vls, zea) = Vulnerable"
+  }
+}

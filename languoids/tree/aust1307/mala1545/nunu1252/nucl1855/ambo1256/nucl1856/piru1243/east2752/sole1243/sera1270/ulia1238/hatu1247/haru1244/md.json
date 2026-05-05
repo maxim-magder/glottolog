@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Haruku",
+    "hid": "hrk",
+    "level": "language",
+    "iso639-3": "hrk",
+    "latitude": "-3.57029",
+    "longitude": "128.476",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5675762\nhttps://en.wikipedia.org/wiki/Haruku_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1104**\n**asjp2010:3688**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hv:Kotynski:Lease**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hvw:Collins:CMaluku**\n**hh:hw:vanHoevell:Ambonsche**\n**hh:phon:Poedjimah:Pelau**\n**hh:t:Marasabessy:Haruku**\n**hh:w:Stokhofetal:Holle:3:3**\n**hh:w:vanEkris:Ambonsche**"
+  },
+  "altnames": {
+    "multitree": "\nHaruku\nIndonesia",
+    "lexvo": "\nHaruku [en]",
+    "hhbib_lgcode": "\nHaroekoe\nHulaliu\nKailolo\nKariu\nOma Haruku\nPelauw\nPelauw Haruku\nRohomoni\nTumalehu K Haruku"
+  },
+  "triggers": {
+    "lgcode": "\niii AND seram"
+  },
+  "identifier": {
+    "multitree": "hrk"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Haruku (hrk-hrk) = 8a (Moribund)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Cacaloxtepec Mixtec",
+    "hid": "miu",
+    "level": "language",
+    "iso639-3": "miu",
+    "latitude": "17.7248",
+    "longitude": "-97.7637",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Tezoatlan Mixtec](https://endangeredlanguages.com/lang/10536)\nhttps://en.wikipedia.org/wiki/Cacaloxtepec_Mixtec\nhttps://www.wikidata.org/entity/Q12953723"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hdial:Eglandetal:Mexico**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:phon:PikeCowan:Huajuapan**\n**sil16:34954**"
+  },
+  "altnames": {
+    "multitree": "\nHuajuapan Mixtec\nMixtec, Cacaloxtepec\nMixteco de Cacaloxtepec\nNorthern Misteko\nNorthern Mixteco",
+    "lexvo": "\nCacaloxtepec Mixtec [en]",
+    "hhbib_lgcode": "\n103 Santiago Cacaloxtepec Mixtec Dürr 1987; Josserand 1983\nCac\nCacaloxtepec (Huajuapan)\nHuajuapan\nHuajuapan de León-Oaxaca\nMixtec-Cacaloxtepec\nNdo\nSantiago Cacaloxtepec\nSanto Domingo Nundó\nperhaps closest to Cacaloxtepec Mixtec\nsaid to be N Baja but",
+    "elcat": "\nCacaloxtepec Mixtec\nHuajuapan Mixtec\nMixteco de Cacaloxtepec\nMixteco de Tezoatlán de Segura y Luna\nTezoatlan Mixtec\nTezoatlán Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nhuajuapan"
+  },
+  "identifier": {
+    "multitree": "miu",
+    "endangeredlanguages": "10536"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:18-20 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tezoatlan Mixtec (10536) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

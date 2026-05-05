@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "West Ambae",
+    "hid": "nnd",
+    "level": "language",
+    "iso639-3": "nnd",
+    "latitude": "-15.4281",
+    "longitude": "167.807",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ambae, West (Ngwatua)](https://lexibank.clld.org/languages/abvdoceanic-AmbaeWestNgwatua)\nhttps://en.wikipedia.org/wiki/West_Ambae_language\nhttps://www.wikidata.org/entity/Q2841479"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2569**\n**hh:e:Allen:Nduindui**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:nt:Vuti:Duidui**\n**hh:s:Aru:Duidui**\n**hh:typ:Syed:Nduindui**"
+  },
+  "altnames": {
+    "multitree": "\nAmbae, West\nOpa",
+    "lexvo": "\nWest Ambae [en]",
+    "hhbib_lgcode": "\nDuidui\nNduindui\nNgwatua"
+  },
+  "triggers": {
+    "lgcode": "\nkokona\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "nnd"
+  },
+  "classification": {
+    "sub": "**hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ambae, West (nnd-nnd) = 6a (Vigorous)."
+  }
+}

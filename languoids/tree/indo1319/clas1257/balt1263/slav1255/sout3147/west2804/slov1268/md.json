@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Slovenian",
+    "hid": "slv",
+    "level": "language",
+    "iso639-3": "slv",
+    "latitude": "46.2543",
+    "longitude": "14.7766",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AT",
+      "HR",
+      "HU",
+      "IT",
+      "SI"
+    ],
+    "links": "\n[Slovene](https://lexibank.clld.org/languages/northeuralex-slv)\n[Slovene](https://wals.info/languoid/lect/wals_code_slo)\n[Slovenian](https://grambank.clld.org/languages/slov1268)\nhttps://en.wikipedia.org/wiki/Slovene_language\nhttps://phoible.org/languages/slov1268\nhttps://www.wikidata.org/entity/Q9063"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:754**\n**cldf:gvozdanovic:99**\n**cldf:jug-kranjec:89**\n**cldf:malherbe:rosenberg:96**\n**cldf:priestly:93**\n**hh:d:Cujec:Zatolminskega**\n**hh:d:Rajh:Severozahodnoprleskega**\n**hh:d:Spehonja:Nedisko**\n**hh:dial:Ramovs:Slovenskega-Dialekti**\n**hh:g:Derbyshire:Slovene**\n**hh:g:Herrity:Slovene**\n**hh:g:Lencek:Slovene**\n**hh:g:Pronk:Slovene-Austria**\n**hh:g:Spehonja:Nediska**\n**hh:g:Steenwijk:Resia**\n**hh:s:Bohoric:Arcticae**\n**hh:s:Greenberg:Slovene**\n**hh:sd:Tominec:Crnovrski**\n**hh:sv:Karnicar:Obir**\n**mpieva:Greenberg2000Ahistori**\n**mpieva:Greenberg2008Ashortre**\n**mpieva:Jakop2008Theduali**\n**mpieva:Lencek1966Theverbp**\n**mpieva:Reindl2008Language**"
+  },
+  "altnames": {
+    "wals": "\nSlovene",
+    "ruhlen (1987)": "\nSlovene",
+    "moseley & asher (1994)": "\nSlovene",
+    "multitree": "\nResiano\nRésien\nSlovene\nSlovenian\nSlovenisch\nSlovenscina",
+    "lexvo": "\nAn tSlóivéinis [ga]\nBahasa Slovene [ms]\nBahasa Slovenia [id]\nEsloveniera [eu]\nEslovenu [ast]\nEslovè [ca]\nEslovèn [oc]\nGagana Slovene [sm]\nGjuha sllovene [sq]\nIdioma esloveno [an]\nIsluwinya simi [qu]\nJęzyk słoweński [pl]\nLenga sloven-a [pms]\nLenghe slovene [fur]\nLengua slovena [lij]\nLimba slovenă [ro]\nLingua Slovena [la]\nLingua eslovena [gl]\nLingua slovena [it]\nLingua sluvena [co]\nLíngua eslovena [pt]\nSlofeneg [cy]\nSloveanish [gv]\nSloveeni [fi]\nSloveeni keel [et]\nSloveens [li]\nSloveensk [fy]\nSloven dili [az]\nSlovena lingvo [eo]\nSlovenagiella [se]\nSlovence [tr]\nSlovene language [en]\nSloveneg [br]\nSlovenek [kw]\nSlovenian [en]\nSloveniana linguo [io]\nSlovenie leid [sco]\nSlovensk [da]\nSlovenska [sv]\nSlovenski jezik [bs]\nSlovenščina [sl]\nSlovinčina [sk]\nSlovinština [cs]\nSlovène [fr]\nSlovèno [frp]\nSlovēņu valoda [lv]\nSlovėnų kalba [lt]\nSloweens [af]\nSloweensche Spraak [nds]\nSlowenische Sprache [de]\nSlowenische Sproch [bar]\nSlòbhainis [gd]\nSlóvenska [is]\nSzlovén nyelv [hu]\nSłowjenšćina [hsb]\nSłowjeńska rěc [dsb]\nTiếng Slovenia [vi]\nslovène [fr]\nŁéngua slovena [vec]\nΣλοβενική γλώσσα [el]\nЇллѷрі́искословѣ́ньскъ ѩꙁꙑ́къ [cu]\nЗабони словенӣ [tg]\nСлавенская мова [be]\nСловен йылме [mhr]\nСловеначки језик [sr]\nСловенечки јазик [mk]\nСловенски език [bg]\nСловенский язык [ru]\nСловенська мова [uk]\nՍլովեներեն [hy]\nסלאוועניש [yi]\nסלובנית [he]\nزبان اسلوونیایی [fa]\nسلوۋېن تىلى [ug]\nلغة سلوفينية [ar]\nस्लोवेनियन भाषा [hi]\nস্লোভেনীয় ভাষা [bn]\nსლოვენური ენა [ka]\nスロベニア語 [ja]\n斯洛文尼亚语 [zh]\n슬로베니아어 [ko]",
+    "hhbib_lgcode": "\nNedisko\nObir\nSan Giorgio in Resia\nSlovene\nZatolmin"
+  },
+  "triggers": {
+    "lgcode": "\ntujce\nslovene\nslovenian\nslowenisch"
+  },
+  "identifier": {
+    "wals": "slo",
+    "multitree": "slv",
+    "languagelandscape": "http://languagelandscape.org/language/Slovenian"
+  },
+  "classification": {
+    "sub": "**hh:g:Lencek:Slovene**:141-153",
+    "subrefs": "\n**hh:g:Lencek:Slovene**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Slovene (slv-slv) = 1 (National). Statutory national language (1991, Constitution, Article 11)."
+  }
+}

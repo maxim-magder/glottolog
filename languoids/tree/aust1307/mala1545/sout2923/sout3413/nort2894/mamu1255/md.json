@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mamuju",
+    "hid": "mqx",
+    "level": "language",
+    "iso639-3": "mqx",
+    "latitude": "-2.50762",
+    "longitude": "119.082",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6746004\nhttps://en.wikipedia.org/wiki/Mamuju_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2595**\n**hh:hv:Valkama:Mamuju**\n**hh:hvld:AdrianiKruyt:Celebes**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:t:Rasyid:Mamuju**\n**hh:typ:Stromme:Mamuju-Person**\n**hh:w:Stokhofetal:Holle:11**\n**hh:w:Stokhofetal:Holle:7:3**\n**sil16:22011**"
+  },
+  "altnames": {
+    "multitree": "\nMamoedjoe\nMamoedjoesch\nMamudju\nMamuju\nNordost-Celebes\nUdai",
+    "lexvo": "\nMamuju [en]",
+    "hhbib_lgcode": "\nMamoedjoesch\nMamuju-Mamuju\nMamuju-Padang\nMamuju-Sinyonyoi\nMamuju-Sumare\nMamuju-Toraja-Galumpang"
+  },
+  "triggers": {
+    "lgcode": "\nmamuju"
+  },
+  "identifier": {
+    "multitree": "mqx"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Ulunnu** **hh:hvw:GrimesGrimes:South-Sulawesi**",
+    "subrefs": "\n**hh:hvw:Smith:Ulunnu**\n**hh:hvw:GrimesGrimes:South-Sulawesi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mamuju (mqx-mqx) = 6b (Threatened)."
+  }
+}

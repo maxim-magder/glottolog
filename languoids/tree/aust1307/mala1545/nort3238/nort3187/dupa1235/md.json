@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Dupaninan Agta",
+    "hid": "duo",
+    "level": "language",
+    "iso639-3": "duo",
+    "latitude": "17.3748",
+    "longitude": "122.188",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Agta (Dupaningan)](https://wals.info/languoid/lect/wals_code_agd)\n[Dupaninan Agta](https://endangeredlanguages.com/lang/961)\n[Dupaninan Agta](https://grambank.clld.org/languages/dupa1235)\nhttps://en.wikipedia.org/wiki/Dupaningan_Agta\nhttps://phoible.org/languages/dupa1235\nhttps://www.wikidata.org/entity/Q5315912"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:nickell:nickell:87**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:b:GriffinHeadland:Agta**\n**hh:e:Barbosa:Agta-Lamika**\n**hh:e:Estioko-Griffin:Ebuked**\n**hh:e:Ogawa:Piniobranca-Negrito**\n**hh:g:Robinson:Dupaningan**\n**hh:g:Robinson:Dupaningan:2011**\n**hh:hel:Headland:Philippines**\n**hh:hv:Headland:ELuzon**\n**hh:hv:Reid:Negrito**\n**hh:s:Nickell:Eastern-Cagayan-Agta**\n**hh:s:Nickell:Eastern-Cagayan-Dupaninan-Agta**\n**hh:w:Garvan:Negritos**\n**hh:w:Scherer:Agta**\n**sil16:36281**\n**sil16:36282**\n**sil16:37599**\n**sil16:40289**\n**sil16:41392**\n**sil16:43503**"
+  },
+  "altnames": {
+    "multitree": "\nAgta de Cagayan oriental\nAgta de Cagayán oriental\nAgta, Dupaninan\nEastern Cagayan Agta",
+    "lexvo": "\nDupaninan Agta [en]",
+    "hhbib_lgcode": "\nAgta of Pasigi\nAgta-Dupaninan\nBolos-Dyanggu\nEastern Cagayan Negrito (Agta)\nNegrito of Pasigi near Palawi Island near Cagayan (Scheerer 1909)\nPenablanca\nSoutheastern Cagayan Negrito\nformed by the narrow passage between the N. E. cape of Luzon and the small island Palawi",
+    "elcat": "\nAgta\nDupaninan\nDupaninan Agta\nDupaningan Agta\nEastern Cagayan Agta"
+  },
+  "triggers": {
+    "lgcode": "\nlamika\nmaadya\nboyboy\nmagkuenta\nbalasang\npenablanca\nmapalungo\ndupaningan\nalpabeto"
+  },
+  "identifier": {
+    "wals": "agd",
+    "multitree": "duo",
+    "endangeredlanguages": "961"
+  },
+  "classification": {
+    "sub": "**hh:hv:RobinsonLobel:Northeastern-Luzon**",
+    "subrefs": "\n**hh:hv:RobinsonLobel:Northeastern-Luzon**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dupaninan Agta (961-duo) = Threatened (60 percent certain, based on the evidence available) (The language is endangered, as it is beginning to lose child speakers... Of the roughly thirty-five communities where Dupaningan Agta people live, the language is no longer learned by children in five... Even in places where children know Dupaningan, those children often reply in Ilokano when spoken to in Dupaningan... without drastic change, the Dupaningan Agta language will die out within the next few generations.) [Robinson 2008](cldf:robinson:08)"
+  }
+}

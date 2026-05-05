@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Keapara",
+    "hid": "khz",
+    "level": "language",
+    "iso639-3": "khz",
+    "latitude": "-10.1342",
+    "longitude": "147.95",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Keapara](https://grambank.clld.org/languages/keap1239)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Guise:Wanigela**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Dutton:Austronesian-ESE-Papua**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hvw:Zoller:DNG**\n**hh:hvwtyp:Dutton:Rigo**\n**hh:hw:Lawes:New-Guinea**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Central-Papua**\n**hh:hw:Ray:ESEPapua**\n**hh:ld:Dutton:Lauuna**\n**hh:s:Craig:Aroma**\n**hh:s:Craig:Aroma:1977**\n**hh:s:King:Kalo**\n**hh:w:Bastard:Karo**\n**hh:w:Bastard:Lau-Una**\n**hh:w:Lawes:Keakalo**\n**sil16:23156**\n**silpng:silpng2004:136**"
+  },
+  "altnames": {
+    "multitree": "\nKeapara\nKeopara\nKerepunu",
+    "lexvo": "\nKeapara [en]",
+    "hhbib_lgcode": "\nAroma\nDedele\nGaloma (Aroma)\nGaloma (Aroma) and Keakalo\nHula-Aroma\nKalo\nKaro\nKeakalo\nKeapara or Kerepunu\nKeapara-Maopa\nKerepunu\nLalaura\nLau'una\nLauuna - Ray thought this was Papuan\nLoyalupu\nMelanesian: Karo\nRubi\nalso Keapara"
+  },
+  "triggers": {
+    "lgcode": "\naroma\nwanigela\nkeakalo\nlauuna\nparamana\nvererupu"
+  },
+  "identifier": {
+    "multitree": "khz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hv:LynchRossCrowley:Subgrouping**:102-106 **hh:g:Sheppard:Sudest**:12",
+    "subrefs": "\n**hh:g:Sheppard:Sudest**\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Keapara (khz-khz) = 5 (Developing)."
+  }
+}

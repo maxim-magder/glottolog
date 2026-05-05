@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Serrano",
+    "hid": "ser",
+    "level": "language",
+    "iso639-3": "ser",
+    "latitude": "33.9479",
+    "longitude": "-116.772",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Serrano](https://endangeredlanguages.com/lang/1518)\n[Serrano](https://grambank.clld.org/languages/serr1255)\n[Serrano](https://lexibank.clld.org/languages/utoaztecan-Serrano)\n[Serrano](https://wals.info/languoid/lect/wals_code_srr)\nhttps://en.wikipedia.org/wiki/Serrano_language\nhttps://phoible.org/languages/serr1255\nhttps://www.wikidata.org/entity/Q3479942",
+    "timespan": "2002-01-01/2002-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:benedict:24**\n**cldf:casad:ed:00:10**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:drucker:37:1**\n**cldf:gifford:18**\n**cldf:gifford:22**\n**cldf:gifford:26:1**\n**cldf:golla:goddard:etal:08**\n**cldf:langacker:76**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:project:nd:2**\n**hh:e:BeanSmith:Serrano**\n**hh:e:BlackburnBean:Kitanemuk**\n**hh:e:Hudson:Tataviam**\n**hh:e:JohnsonEarler:Tataviam**\n**hh:e:KingBlackburn:Tataviam**\n**hh:g:Anderton:Kitanemuk**\n**hh:g:Hill:Serrano**\n**hh:h:Kroeber:California**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hv:HillHill:Takic**\n**hh:hv:Miller:Uto-Aztecan:1983**\n**hh:hvb:Golla:California**\n**hh:hvw:Kroeber:Shoshonean**\n**hh:hvw:Kroeber:Shoshonean-Southern**\n**hh:ld:Bright:Alliklik**\n**hh:t:Ramon:Wayta-Yawa**"
+  },
+  "altnames": {
+    "wals": "\nSerrano",
+    "ruhlen (1987)": "\nSerrano",
+    "moseley & asher (1994)": "\nSerrano",
+    "multitree": "\nKitanemuk\nSerran\nSerrano",
+    "lexvo": "\nSerrano [en]",
+    "hhbib_lgcode": "\nGitanemuk\nKitanemuk\nTataviam",
+    "elcat": "\nKitanemuk\nMaara'yam püvüravk\nSerran\nSerrano"
+  },
+  "triggers": {
+    "lgcode": "\nserrano\nkitanemuks\nkitanemuk\nalliklik\ntataviam"
+  },
+  "identifier": {
+    "wals": "srr",
+    "multitree": "ser-ser;ser",
+    "endangeredlanguages": "1518"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Uto-Aztecan** **hh:hvb:Golla:California** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Serrano (1518-ser) = Awakening [Project n.d.](cldf:project:nd:2)"
+  }
+}

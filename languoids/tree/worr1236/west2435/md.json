@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Western Worrorran",
+    "level": "family",
+    "iso639-3": "unp",
+    "hid": "unp",
+    "countries": [
+      "AU"
+    ],
+    "longitude": "124.66753",
+    "latitude": "-16.10935",
+    "macroareas": [
+      "Australia"
+    ]
+  },
+  "classification": {
+    "sub": "**hh:hv:McGregorRumsey:Worrorran**",
+    "subrefs": "\n**hh:hv:McGregorRumsey:Worrorran**"
+  },
+  "iso_retirement": {
+    "comment": "Unggumi and Worrorra have been considered separate languages for some time now.\nIn McGregor's 1988 Worrorran classification in his \"Handbook of Kimberley\nLanguages,\" he lists them both as separate languages. In 2009, McGregor and Alan\nRumsey also list both Unggumi and Worrorra as independent languages within the\nWestern Worrorran group (7).\n\nThe Australian Phylum classification by O'Grady, Voegelin and Voegelin also\ntreats Unggumi and Worrorra as separate languages (1966: 35). They explain that\n\"the primary verbal distinction is between realis and irrealis in all languages\nin the Wororan family (except Worora, which distinguishes many moods and\ntenses)\" (1966: 79). Presumably this further sets Worora apart from Unggumi.\n\nBoth languages are listed independently in AUSTLANG, with Unggumi given the\nAIATSIS code K14 and Worrorra given the separate code K17. AUSTLANG classifies\nthem both within the Worrorric subgroup of the Worrorran family.\n\nDr. Bowern's documentation on Australian language locations also places the\nUnggumi and Worrorra languages in different areas, which one may see by\nconsulting the following map:\n\nhttp://maps.google.com/maps?q=http://pantheon.yale.edu/~clb3/PamaNyungan/CCAL1.2.k\nmz\n\nWe believe that Dr. Bowern's research and expertise on languages of Australia,\nas well as the support of the sources listed below are sufficient to define\nUnggumi and Worrorra as languages distinct from one another.",
+    "code": "unp",
+    "name": "Worora",
+    "effective": "2012-02-03",
+    "remedy": "Split into Worrorra [wro] and Unggumi [xgu].",
+    "reason": "split",
+    "change_request": "2011-091",
+    "change_to": "\nwro\nxgu"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2011-091**"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bai",
+    "hid": "bdj",
+    "level": "language",
+    "iso639-3": "bdj",
+    "latitude": "7.57221",
+    "longitude": "26.48246",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Bai](https://endangeredlanguages.com/lang/3896)\nhttps://www.wikidata.org/entity/Q34894\nhttps://en.wikipedia.org/wiki/Bai_language_(South_Sudan)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:wang:05**\n**hh:h:Santandrea:Ghazal**\n**hh:h:Santandrea:Ndogo:1933**\n**hh:h:Tucker:Wau**\n**hh:he:Santandrea:Ndogo**\n**hh:he:Santandrea:Ndogoetal**\n**hh:hv:Santandrea:Bahr-el-Ghazal**\n**hh:hw:Monino:Oubanguiennes**\n**hh:s:Santandrea:Ndogo**\n**hh:s:Santandrea:Ndogo:1934**"
+  },
+  "altnames": {
+    "multitree": "\nBai\nBari",
+    "lexvo": "\nBai [en]",
+    "elcat": "\nBai\nBari",
+    "hhbib_lgcode": "\nBare\nBari"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND belanda"
+  },
+  "identifier": {
+    "multitree": "bdj",
+    "endangeredlanguages": "3896"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anlauff:Ndogoic**",
+    "subrefs": "\n**hh:hv:Anlauff:Ndogoic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bai (3896-bdj) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Loun",
+    "hid": "lox",
+    "level": "language",
+    "iso639-3": "lox",
+    "latitude": "-2.8778",
+    "longitude": "128.912",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Loun](https://endangeredlanguages.com/lang/2708)\nhttps://www.wikidata.org/entity/Q6689636\nhttps://en.wikipedia.org/wiki/Loun_language",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hs:Tauern:Seran**\n**hh:hv:Collins:Maluku**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hvw:Collins:CMaluku**"
+  },
+  "altnames": {
+    "multitree": "\nLoun",
+    "lexvo": "\nLoun [en]\nLoun language [en]",
+    "hhbib_lgcode": "\nLoun-Patunuru-Eti",
+    "elcat": "\nLoun"
+  },
+  "identifier": {
+    "multitree": "lox;loun",
+    "endangeredlanguages": "2708"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Loun (2708-lox) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

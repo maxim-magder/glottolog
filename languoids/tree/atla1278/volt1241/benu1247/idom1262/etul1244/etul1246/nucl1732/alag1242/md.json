@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Alago",
+    "hid": "ala",
+    "level": "language",
+    "iso639-3": "ala",
+    "latitude": "8.34986",
+    "longitude": "8.52085",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Alago](https://endangeredlanguages.com/lang/8195)\nhttps://www.wikidata.org/entity/Q34813\nhttps://en.wikipedia.org/wiki/Alago_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:lewis:ed:09**\n**hh:b:Struck:NNigeria**\n**hh:e:Armstrong:Igala-Idoma**\n**hh:hv:Armstrong:Idomoid:1981**\n**hh:hvw:Armstrong:Idomoid**\n**hh:w:Judd:Arago**"
+  },
+  "altnames": {
+    "multitree": "\nAlago\nArago\nAragu\nArgo\nIdoma Nokwu",
+    "lexvo": "\nAlago [en]",
+    "elcat": "\nAlago\nArago\nAragu\nArgo\nIdoma Nokwu",
+    "hhbib_lgcode": "\nArago\nKyana"
+  },
+  "triggers": {
+    "lgcode": "\narago\nalago"
+  },
+  "identifier": {
+    "multitree": "ala",
+    "endangeredlanguages": "8195"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Armstrong:Idomoid** **hh:hv:Armstrong:Idomoid:1989**",
+    "subrefs": "\n**hh:hvw:Armstrong:Idomoid**\n**hh:hv:Armstrong:Idomoid:1989**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Alago (8195-ala) = Vulnerable (20 percent certain, based on the evidence available) [Blench 2011](cldf:blench:11:1)"
+  }
+}

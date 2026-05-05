@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "El Molo",
+    "hid": "elo",
+    "level": "language",
+    "iso639-3": "elo",
+    "latitude": "2.79312",
+    "longitude": "36.7619",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[El Molo](https://endangeredlanguages.com/lang/4124)\n[El Molo](https://grambank.clld.org/languages/elmo1238)\nhttps://en.wikipedia.org/wiki/El_Molo_language\nhttps://www.wikidata.org/entity/Q56719",
+    "timespan": "1999-01-01/1999-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:heine:73:2**\n**cldf:heine:80:4**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:15760**\n**eballiso2009:21025**\n**eballiso2009:22388**\n**eballiso2009:35663**\n**eballiso2009:43265**\n**eballiso2009:45885**\n**eballiso2009:48175**\n**eballiso2009:59073**\n**eballiso2009:59851**\n**hh:e:Dalton:ElMolo**\n**hh:e:DysonFuchs:Elmolo**\n**hh:e:Scherrer:Elmolo**\n**hh:e:Spencer:Dorobo-Elmolo**\n**hh:el:Brenzinger:Lexical**\n**hh:el:Tosco:Elmolo**\n**hh:hel:Sommer:Survey**\n**hh:s:Heine:Elmolo**\n**hh:s:Heine:Elmolo:1980**\n**hh:soc:Odero:Elmolo**\n**hh:typ:Heine:AfricanNC**\n**hh:vw:ASLIP:El-Molo**\n**hh:w:Heine:Elmolo**\n**hh:w:Omondi:Elmolo**\n**hh:wsoc:Tosco:Elmolo**\n**mpieva:Heine1981TheNonBa**\n**sil16:18428**"
+  },
+  "altnames": {
+    "multitree": "\n\"Ndorobo\"\nDehes\nEl Molo\nElmolo\nEmolo\nFura-Pawa\nLdes",
+    "lexvo": "\nEl Molo [en]\nEl Molo hizkuntza [eu]\nEl Molo language [en]\nLenga El Molo [pms]",
+    "hhbib_lgcode": "\nElmolo",
+    "elcat": "\n\"Ndorobo\"\nDehes\nEl Molo\nElmolo\nFura-Pawa\nLdes"
+  },
+  "triggers": {
+    "lgcode": "\nrudolph\nelmolo"
+  },
+  "identifier": {
+    "multitree": "elo",
+    "endangeredlanguages": "4124"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tosco:Cushitic**:94-95",
+    "subrefs": "\n**hh:hv:Tosco:Cushitic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "El Molo (4124-elo) = Dormant (To be true, tads and bits of the old language are still in use: a good number of words belonging to basic vocabulary are still known among the elders, while possibly hundreds of words pertaining to fishing (from fish names and fish parts to fishing implements) – which were simply absent in the language of the pastoralist Samburu – have been grafted onto the 'new' Samburu language of the Elmolo. Finally, a few formulaic expressions in the old language are still used in songs, greetings and propitiatory rituals.) [Tosco 2012](cldf:tosco:12)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Central Pomo",
+    "hid": "poo",
+    "level": "language",
+    "iso639-3": "poo",
+    "latitude": "38.90547",
+    "longitude": "-123.66393",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Central Pomo](https://endangeredlanguages.com/lang/1532)\nhttps://www.wikidata.org/entity/Q3396020\nhttps://en.wikipedia.org/wiki/Central_Pomo_language\n[Pomo (Central)](https://wals.info/languoid/lect/wals_code_pmc)",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3535**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:corbett:mithun:96**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:mithun:08**\n**cldf:mithun:16**\n**cldf:np:nd:264**\n**cldf:smith:ed:95**\n**hh:hew:Barrett:Pomo**\n**hh:hv:McLendon:Pomo**\n**hh:hv:Moshinsky:Pomo**\n**hh:hv:Whistler:Pomo**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:typ:Mithun:Central-Pomo**\n**hh:typ:Mithun:Central-Pomo:Negation**\n**hh:typ:Mithun:Central-Pomo:Number**\n**hh:typ:Mithun:Central-Pomo:Order**\n**hh:typ:Mithun:Central-Pomo:Pronouns**\n**hh:w:Gibbs:Northwest-California**\n**mpieva:Walker2005Aguideto**\n**zurich:Mithun1990-1**"
+  },
+  "altnames": {
+    "wals": "\nPomo (Central)",
+    "wals other": "\nCentral Pomo",
+    "ruhlen (1987)": "\nPomo",
+    "moseley & asher (1994)": "\nPomo (Central)",
+    "multitree": "\nBallo-Kai-Pomo\nCabanapo\nCentral Pomo\nH'hana\nHabenapo\nKhabenapo\nKhana\nKulanapan\nKulanapo\nKábinapek\nOat Valley\nPomo (Central)\nPomo central\nPomo, Central\nVenaambakaia\nVenambakaiia\nYokaia\nYokaya",
+    "lexvo": "\nCentral Pomo [en]\nCentral Pomo language [en]\nPomo central [fr]",
+    "hhbib_lgcode": "\n\"Batem-da-kai-ee\nBatemdakaii\nChauishek\nChow-e-shak\nH'hana\nKabinapek\nKulanapa\nKulanapo\nPomo-Central\nVenaambakaiia\nYokaia\nYukai",
+    "elcat": "\nBallo-Kai-Pomo\nCabanapo\nCentral\nCentral Pomo\nH'hana\nHabenapo\nKhabenapo\nKhana\nKulanapan\nKulanapo\nKábinapek\nOat Valley\nPomo\nPomo (Central)\nVenaambakaia\nVenambakaiia\nYokaia\nYokaya"
+  },
+  "triggers": {
+    "lgcode": "\ncentral AND pomo"
+  },
+  "identifier": {
+    "wals": "pmc",
+    "multitree": "poo",
+    "endangeredlanguages": "1532"
+  },
+  "classification": {
+    "sub": "**hh:hv:McLendon:Pomoan:2006**",
+    "subrefs": "\n**hh:hv:McLendon:Pomoan:2006**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Central Pomo (1532-poo) = Dormant (Revitalization efforts underway with a number of language learners.) [Mithun 2016](cldf:mithun:16)"
+  }
+}

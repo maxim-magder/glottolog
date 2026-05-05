@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Tesaka Malagasy",
+    "hid": "tkg",
+    "level": "language",
+    "iso639-3": "tkg",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MG"
+    ],
+    "longitude": "47.33",
+    "latitude": "-23.3",
+    "links": "\nhttps://en.wikipedia.org/wiki/Antesaka_dialect\nhttps://www.wikidata.org/entity/Q2852547"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:deschamps:36**\n**hh:estd:Deschamps:Antaisaka**\n**hh:hv:Dez:Malgache-Dialectologie**\n**hh:hv:Servaetal:Malagasy**\n**hh:hv:Verinetal:Malagasy**\n**hh:hvw:ServaPasquini:Madagascar:2020**\n**hh:ld:Elle:Tesaka**\n**iso6393:2010-035**"
+  },
+  "triggers": {
+    "lgcode": "\ntesaka\nantaisaka\ntaisaka"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ServaPasquini:Madagascar:2020**",
+    "subrefs": "\n**hh:hvw:ServaPasquini:Madagascar:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malagasy, Tesaka (tkg-tkg) = 6a (Vigorous)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\n10 - Zafisoro (Farafangana)\n2 Antaisaka (Vangaindrano)\n23 - Antaisaka (Vangaindrano)\n4 Zafisoro (Farafangana)\nAntaisaka\nZafisoro"
+  }
+}

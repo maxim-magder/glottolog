@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Aisi",
+    "hid": "mmq",
+    "level": "language",
+    "iso639-3": "mmq",
+    "latitude": "-5.37407",
+    "longitude": "145.197",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Aisi](https://endangeredlanguages.com/lang/10330)\n[Aisi](https://grambank.clld.org/languages/musa1266)\n[Aisi](https://lexibank.clld.org/languages/transnewguineaorg-aisi)\n[Musak](https://lexibank.clld.org/languages/transnewguineaorg-musak)\n[musak](https://lexibank.clld.org/languages/zgraggenmadang-musak)\nhttps://en.wikipedia.org/wiki/Aisi_language\nhttps://www.wikidata.org/entity/Q6940074"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1966**\n**cldf:daniels:14**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Kasprus:Ramu**\n**hh:hv:Daniels:Sogeram**\n**hh:hv:Daniels:Sogeram:2020**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:SAdelbert**\n**hh:s:Daniels:Aisi**"
+  },
+  "altnames": {
+    "lexvo": "\nMusak [en]",
+    "hhbib_lgcode": "\nMabin\nMusak\nMusek\nSumusaru and Musak",
+    "elcat": "\nAisi\nBlue Miao\nGreen Miao\nMusak\nRed Miao\nWhite Miao"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert\naisi"
+  },
+  "identifier": {
+    "multitree": "mmq",
+    "endangeredlanguages": "10330"
+  },
+  "classification": {
+    "sub": "**hh:vw:Daniels:Magi**",
+    "subrefs": "\n**hh:vw:Daniels:Magi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Aisi (10330-mmq) = Endangered (60 percent certain, based on the evidence available) [Daniels 2014](cldf:daniels:14)"
+  }
+}

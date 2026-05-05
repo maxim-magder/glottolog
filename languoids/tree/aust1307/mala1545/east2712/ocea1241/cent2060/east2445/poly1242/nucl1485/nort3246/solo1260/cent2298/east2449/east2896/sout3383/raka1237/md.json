@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Rakahanga-Manihiki",
+    "hid": "rkh",
+    "level": "language",
+    "iso639-3": "rkh",
+    "latitude": "-10.03",
+    "longitude": "-161.09",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CK",
+      "NZ"
+    ],
+    "links": "\n[Manihiki](https://lexibank.clld.org/languages/abvdoceanic-Manihiki)\n[Rakahanga-Manihiki](https://endangeredlanguages.com/lang/5338)\n[RakahangaManihiki_589](https://lexibank.clld.org/languages/walworthpolynesian-RakahangaManihiki)\nhttps://en.wikipedia.org/wiki/Rakahanga-Manihiki_language\nhttps://www.wikidata.org/entity/Q3119695"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:buck:32:1**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:hays:91:3**\n**cldf:lawrence:95:1**\n**cldf:lewis:ed:09**\n**cldf:mcarthur:67**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**hh:et:Hiroa:Manihiki-Rakahanga**\n**hh:g:Olesen:Manihiki**"
+  },
+  "altnames": {
+    "multitree": "\nManihiki\nManihiki-Rakahanga\nManihiki-rakahanga\nRakahanga-Manihiki",
+    "lexvo": "\nRakahanga-Manihiki [en]\nRakahanga-Manihiki language [en]\nRakahanga-manihikin kieli [fi]",
+    "elcat": "\nManihiki-Rakahanga\nRakahanga-Manihiki",
+    "hhbib_lgcode": "\nManihiki"
+  },
+  "triggers": {
+    "lgcode": "\nmanihiki\nrakahanga"
+  },
+  "identifier": {
+    "multitree": "rkh",
+    "endangeredlanguages": "5338"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:East-Polynesian** **hh:hv:Marck:Polynesian**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Rakahanga-Manihiki (5338-rkh) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

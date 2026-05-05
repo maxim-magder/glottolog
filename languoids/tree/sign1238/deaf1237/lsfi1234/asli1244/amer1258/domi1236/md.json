@@ -1,0 +1,34 @@
+{
+  "core": {
+    "name": "Dominican Sign Language",
+    "hid": "doq",
+    "level": "language",
+    "iso639-3": "doq",
+    "latitude": "18.8798",
+    "longitude": "-71.1722",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "DO"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5290820\nhttps://en.wikipedia.org/wiki/Dominican_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Gerner:Deaf-Dominican**\n**hh:h:Braithwaite:Caribbean-Sign**\n**hh:soc:WilliamsParks:Sorda-Dominicana**\n**hh:v:Parks:Sign-Language-Comparisons**"
+  },
+  "altnames": {
+    "lexvo": "\nDominican Sign Language [en]",
+    "hhbib_lgcode": "\nDominican Republic\nLenguaje de Señas Dominicana (LSD)"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dominican Sign Language (doq-doq) = 5 (Developing). Recognized language (2013, Ley General sobre la Discapacidad en la República Dominicana, No. 5-13, del 15 de enero del año 2013)."
+  },
+  "classification": {
+    "sub": "Lexical comparison (**hh:v:Parks:Sign-Language-Comparisons**):82 and historical information (**hh:soc:WilliamsParks:Sorda-Dominicana**:12, **hh:e:Gerner:Deaf-Dominican**).",
+    "subrefs": "\n**hh:v:Parks:Sign-Language-Comparisons**\n**hh:soc:WilliamsParks:Sorda-Dominicana**\n**hh:e:Gerner:Deaf-Dominican**"
+  }
+}

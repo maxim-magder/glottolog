@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Northeast Maidu",
+    "hid": "nmu",
+    "level": "language",
+    "iso639-3": "nmu",
+    "latitude": "40.4102",
+    "longitude": "-120.645",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Maidu](https://endangeredlanguages.com/lang/4884)\n[Maidu (Northeast)](https://wals.info/languoid/lect/wals_code_mne)\n[Northeast Maidu](https://grambank.clld.org/languages/nort2952)\nhttps://en.wikipedia.org/wiki/Maidu_language\nhttps://phoible.org/languages/nort2952\nhttps://www.wikidata.org/entity/Q3278074",
+    "timespan": "2013-01-01/2013-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:heizer:65**\n**cldf:dixon:05:1**\n**cldf:ed:10**\n**cldf:gifford:22**\n**cldf:gifford:26:1**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:loeb:33:2**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:robbins:91**\n**cldf:shipley:56**\n**cldf:shipley:63**\n**cldf:shipley:90**\n**cldf:stolz:96**\n**cldf:voegelin:42**\n**hh:g:Shipley:Maidu**\n**hh:g:Shipley:Maidu:1960**\n**hh:hvb:Golla:California**\n**hh:s:Dixon:Maidu**\n**hh:s:Dixon:Maidu:1900**\n**hh:t:Dixon:Maidu**\n**mpieva:Dixon1974Maidutex**\n**mpieva:Shipley2005Maidutex**"
+  },
+  "altnames": {
+    "wals": "\nMaidu (Northeast)",
+    "wals other": "\nMaidu (Moutain)\nMountain Maidu\nN.E. Maidu\nNE Maidu\nNortheast Maidu",
+    "ruhlen (1987)": "\nMaidu",
+    "moseley & asher (1994)": "\nMaidu (Mountain)",
+    "multitree": "\nMaidu\nMaidu (Northeast)\nMaidu, Northeast\nMaidú nororiental\nMountain Maidu\nNortheast Maidu\nNortheastern Maidu",
+    "lexvo": "\nMaidu [fr]\nMaidu language [en]\nNortheast Maidu [en]",
+    "elcat": "\nMaidu\nMountain Maidu\nNortheast Maidu\nNortheastern Maidu"
+  },
+  "triggers": {
+    "lgcode": "\nNOT and AND maidu"
+  },
+  "identifier": {
+    "wals": "mne",
+    "multitree": "nmu",
+    "endangeredlanguages": "4884"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maidu (4884-nmu) = Dormant [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

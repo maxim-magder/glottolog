@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lele (Papua New Guinea)",
+    "hid": "lle",
+    "level": "language",
+    "iso639-3": "lle",
+    "latitude": "-2.04783",
+    "longitude": "147.207",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Lele (Papua New Guinea)](https://grambank.clld.org/languages/lele1270)\nhttps://en.wikipedia.org/wiki/Lele_language_(Papua_New_Guinea)\nhttps://www.wikidata.org/entity/Q3229269"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:75:1**\n**cldf:schwartz:64**\n**hh:g:Boettger:Lele**\n**hh:he:Nevermann:Admiralitats**\n**hh:hv:Ross:WMelanesia**\n**hh:hvwld:Schnee:Bismarck**\n**hh:nt:Goebel:Lele-Manus**\n**hh:typ:Dixon:Lele**"
+  },
+  "altnames": {
+    "multitree": "\nAdmiralitäts-inseln\nElu-Kara\nHai\nLele\nLele Hai\nManus\nMoanus\nUsiai",
+    "lexvo": "\nLele (Papua New Guinea) [en]\nLele [en]",
+    "hhbib_lgcode": "\nLele\nUsiai"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND manus\nndorlaben\nadu\nkristo\nbolumiadu\npredictions\nniu"
+  },
+  "identifier": {
+    "multitree": "lle"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:315-345",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lele (lle-lle) = 6b (Threatened)."
+  }
+}

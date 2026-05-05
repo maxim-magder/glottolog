@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Upper Chinook",
+    "hid": "wac",
+    "level": "language",
+    "iso639-3": "wac",
+    "latitude": "45.0278",
+    "longitude": "-121.509",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Wasco-Wishram](https://endangeredlanguages.com/lang/1938)\nhttps://www.wikidata.org/entity/Q12645081\nhttps://en.wikipedia.org/wiki/Upper_Chinook_language\n[Chinook (Upper)](https://wals.info/languoid/lect/wals_code_cku)",
+    "timespan": "2012-01-01/2012-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:clark:08:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:french:61**\n**cldf:golla:07**\n**cldf:golla:ed:11:1**\n**cldf:golla:goddard:etal:08**\n**cldf:hymes:80**\n**cldf:nichols:92**\n**cldf:ninton:nichols:etal:ed:94:4**\n**cldf:np:nd:264**\n**cldf:silverstein:76**\n**cldf:silverstein:78**\n**cldf:simons;:fennig:ed:13**\n**cldf:spier:sapir:30**\n**cldf:switzler:haynes:14**\n**hh:dial:Hymes:Clackamas**\n**hh:e:FrenchFrench:Wasco-Wishram**\n**hh:et:Sapir:Wishram**\n**hh:s:Dyk:Wishram**\n**hh:s:Sapir:Chinook**\n**hh:soc:Moore:Wasco-Wishram**\n**hh:t:Sapir:Wishram**\n**hh:typ:Duncan:Kiksht-Relative**\n**hh:typ:Dyk:Wishram**\n**sil16:44086**"
+  },
+  "altnames": {
+    "wals": "\nChinook (Upper)",
+    "wals other": "\nCathlamet\nKathlamet\nUpper Chinook\nWasco-Wishram\nWishram",
+    "ruhlen (1987)": "\nCathlamet",
+    "moseley & asher (1994)": "\nChinook (Upper)",
+    "multitree": "\nChinook (Upper)\nColumbia Chinook\nKiksht\nUpper Chinook\nUpper Chinookan\nWasco\nWasco-Wishram\nWishram",
+    "lexvo": "\nWasco-Wishram [en]\nWasco-Wishram language [en]\nWaskoeg-wichrameg [br]",
+    "glottolog": "\nWasco-Wishram",
+    "hhbib_lgcode": "\nClackamas\nKiksht\nWasco-Wishram",
+    "elcat": "\nChinook (Upper)\nColumbia Chinook\nKiksht\nUpper Chinook\nUpper Chinookan\nWasco\nWasco-Wishram\nWishram"
+  },
+  "triggers": {
+    "lgcode": "\nwishram\nkathlamet"
+  },
+  "identifier": {
+    "wals": "cku",
+    "multitree": "wac",
+    "endangeredlanguages": "1938"
+  },
+  "classification": {
+    "sub": "**hh:dial:Hymes:Clackamas**:365",
+    "subrefs": "\n**hh:dial:Hymes:Clackamas**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wasco-Wishram (1938-wac) = Dormant [Switzler and Haynes 2014](cldf:switzler:haynes:14)"
+  }
+}

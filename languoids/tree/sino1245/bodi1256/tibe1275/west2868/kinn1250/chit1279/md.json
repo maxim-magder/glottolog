@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Chhitkul-Rakchham",
+    "hid": "cik",
+    "level": "language",
+    "iso639-3": "cik",
+    "latitude": "31.2965",
+    "longitude": "78.5287",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Chitkuli_Kinnauri_language\nhttps://www.wikidata.org/entity/Q15615982"
+  },
+  "sources": {
+    "glottolog": "\n**hh:gtyp:Martinez:Chhitkul**\n**hh:hs:Bailey:Himalaya**\n**hh:hv:Saxena:Empirical-Kinnauri**\n**hh:hv:SaxenaBorin:Himalayas:Dialect**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**\n**hh:hvwsoc:Chamberlain:Kinnauri**\n**hh:s:Martinez:Chhitkul**\n**hh:s:Sharma:Chhitkuli**\n**hh:soc:Martinez:Chhitkul-Rakchham**"
+  },
+  "altnames": {
+    "multitree": "\nChitkhuli\nChitkuli\nKanauri\nKanāwri\nKinauri\nKinnauri\nKinnauri, Chitkuli\nKinnauri,Chitkuli\nThebarskad\nTsitkhuli\nTsíhuli\nTśikhuli",
+    "lexvo": "\nChitkuli Kinnauri [en]",
+    "hhbib_lgcode": "\nChhitkul-Rakchham\nChhitkuli\nChitkul\nChitkul (Ch)\nChitkuli\nChitkuli Kinnauri\nKinnauri-Chitkuli\nRakchham",
+    "glottolog": "\nChitkuli Kinnauri"
+  },
+  "triggers": {
+    "lgcode": "\nkanauri"
+  },
+  "identifier": {
+    "multitree": "cik"
+  },
+  "classification": {
+    "sub": "**hh:hv:SaxenaBorin:Tibeto-Kanauri** **hh:hvw:Widmer:West-Himalayish** **hh:hv:Widmer:Western-Himalayas:2022**",
+    "subrefs": "\n**hh:hv:Widmer:Western-Himalayas:2022**\n**hh:hvw:Widmer:West-Himalayish**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kinnauri, Chitkuli (cik-cik) = 6a (Vigorous)."
+  }
+}

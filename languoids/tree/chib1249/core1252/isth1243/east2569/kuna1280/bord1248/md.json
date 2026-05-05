@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Border Kuna",
+    "hid": "kvn",
+    "level": "language",
+    "iso639-3": "kvn",
+    "latitude": "7.92993",
+    "longitude": "-77.1664",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO",
+      "PA"
+    ],
+    "links": "\n[Border Kuna](https://grambank.clld.org/languages/bord1248)\n[Kuna](https://wals.info/languoid/lect/wals_code_kun)\nhttps://phoible.org/languages/bord1248\nhttps://www.wikidata.org/entity/Q31777873"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:189**\n**cldf:baptista:wallin:74**\n**cldf:erice:85**\n**cldf:gianelli:01**\n**cldf:holmer:52**\n**cldf:sherzer:83**\n**fabreall2009ann:Chibcha_kuna000**\n**fabreall2009ann:Chibcha_kuna002**\n**fabreall2009ann:Chibcha_kuna018**\n**fabreall2009ann:Chibcha_kuna030**\n**fabreall2009ann:Chibcha_kuna032**\n**fabreall2009ann:Chibcha_kuna034**\n**fabreall2009ann:Chibcha_kuna043**\n**fabreall2009ann:Chibcha_kuna045**\n**fabreall2009ann:Chibcha_kuna052**\n**fabreall2009ann:Chibcha_kuna053**\n**fabreall2009ann:Chibcha_kuna054**\n**fabreall2009ann:Chibcha_kuna055**\n**fabreall2009ann:Chibcha_kuna056**\n**fabreall2009ann:Chibcha_kuna066**\n**fabreall2009ann:Chibcha_kuna067**\n**fabreall2009ann:Chibcha_kuna070**\n**fabreall2009ann:Chibcha_kuna071**\n**fabreall2009ann:Chibcha_kuna076**\n**fabreall2009ann:Chibcha_kuna099**\n**fabreall2009ann:Chibcha_kuna106**\n**fabreall2009ann:Chibcha_kuna107**\n**fabreall2009ann:Chibcha_kuna109**\n**fabreall2009ann:Chibcha_kuna111**\n**fabreall2009ann:Chibcha_kuna112**\n**fabreall2009ann:Chibcha_kuna116**\n**fabreall2009ann:Chibcha_kuna126**\n**fabreall2009ann:Chibcha_kuna127**\n**fabreall2009ann:Chibcha_kuna128**\n**fabreall2009ann:Chibcha_kuna129**\n**fabreall2009ann:Chibcha_kuna130**\n**hh:e:Herrera:Cuna**\n**hh:g:Forster:Paya-Kuna**\n**hh:g:Llerena-Villalobos:Kuna**\n**hh:ld:Forster:Border-Cuna**\n**hh:s:Villalobos:Cuna**\n**hh:typ:Giannelli:Cuna**\n**hh:w:deWavrin:Cuna**\n**ldh:item_400080**\n**mpieva:Longacre1976Discours**\n**sil16:15233**\n**sil16:15684**\n**sil16:17598**\n**sil16:20061**"
+  },
+  "altnames": {
+    "wals": "\nKuna",
+    "wals other": "\nCaiman Nuevo\nColumbia Cuna\nCuna\nKuna de la Frontiera\nPaya-Pucuro Kuna",
+    "ruhlen (1987)": "\nKuna",
+    "moseley & asher (1994)": "\nCuna",
+    "multitree": "\nCaiman Nuevo\nCaimán\nColombia Cuna\nCueva\nCuna\nKuna\nKuna (Border)\nKuna (Colombie)\nKuna (Panama)\nKuna (Panamá)\nKuna, Border\nPaya-Pocuro\nPaya-Pucuro",
+    "lexvo": "\nBorder Kuna [en]",
+    "hhbib_lgcode": "\nCuna\nDi Dupbir/San Ignacio de Tupile e di Ukubseni/San Francisco de Playón Chico due isole del Sector Central della Comarca Kuna Yala (Panama)"
+  },
+  "triggers": {
+    "lgcode": "\nsimral\ncuna\ngaua\nreuter\nkunas\ndule\nuraba\nrattlesnake\ncunaland\nbodin\nikala\ncunas\npredicado\nigal\nb4f>4\nblas\nkuna"
+  },
+  "identifier": {
+    "wals": "genus/kuna",
+    "multitree": "kvn",
+    "endangeredlanguages": "1369"
+  },
+  "classification": {
+    "sub": "**hh:hv:Constenla-Umana:Chibchan**",
+    "subrefs": "\n**hh:hv:Constenla-Umana:Chibchan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Kuna (1369-kvn) = Vulnerable (20 percent certain, based on the evidence available) ['bib6904']"
+  }
+}

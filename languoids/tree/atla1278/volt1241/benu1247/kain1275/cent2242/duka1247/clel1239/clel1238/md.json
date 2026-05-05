@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "C'lela",
+    "hid": "dri",
+    "level": "language",
+    "iso639-3": "dri",
+    "latitude": "11.4653",
+    "longitude": "5.26544",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914004\nhttps://en.wikipedia.org/wiki/Lela_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:harris:38**\n**eballiso2009:15799**\n**eballiso2009:2369**\n**eballiso2009:39243**\n**eballiso2009:4546**\n**eballiso2009:4651**\n**hh:d:Rikoto:Clela**\n**hh:e:Harris:Dakarkari**\n**hh:g:Dettweiler:Clela**\n**hh:h:Bertho:Nigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:GunnConant:Middle-Niger**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvw:Amfani:Zuruland**\n**hh:hvw:Rowlands:NNigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Voorhoeve:Benue-Congo-Noun-Class**\n**hh:typ:Aliero:Clela**\n**hh:typ:Hoffmann:Dakarkari**\n**sil16:45668**\n**sil16:48583**\n**sil16:48836**\n**sil16:48837**\n**sil16:48838**"
+  },
+  "altnames": {
+    "multitree": "\nC'lela\nCala-Cala\nChilala\nChilela\nDakakari\nDakarkari\nDakkarkari\nKolela\nLalawa\nLela",
+    "lexvo": "\nC'lela [en]",
+    "hhbib_lgcode": "\nC'Lela\nC’Lela\nDakakari\nDakarkari\nDakarkari-Dabai\nKeri\nWipsi\nZuru C'lela"
+  },
+  "triggers": {
+    "lgcode": "\ndakarkari\nzuru\nclela\ndakarci\nkaratun\nlabad\nzuruland\nnocurimu"
+  },
+  "identifier": {
+    "multitree": "dri"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "C’Lela (dri-dri) = 5 (Developing)."
+  }
+}

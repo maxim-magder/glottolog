@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Touo",
+    "hid": "tqu",
+    "level": "language",
+    "iso639-3": "tqu",
+    "latitude": "-8.58405",
+    "longitude": "157.296",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG",
+      "SB"
+    ],
+    "links": "\n[Mbaniata](https://lexibank.clld.org/languages/transnewguineaorg-mbaniata)\n[Touo](https://endangeredlanguages.com/lang/10811)\n[Touo](https://grambank.clld.org/languages/touo1238)\nhttps://en.wikipedia.org/wiki/Touo_language\nhttps://www.wikidata.org/entity/Q56750"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**hh:h:Ray:Non-Melanesian**\n**hh:hsoc:TerrillDunn:Touo**\n**hh:hv:Pedros:Central-Solomons**\n**hh:hv:Terrill:Solomon-Islands**\n**hh:hv:Wurm:EPapuan**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvtyp:Capell:NAN-Solomons**\n**hh:hvtyp:DunnReesinkTerrill:EPapuan**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvwtyp:Todd:Solomon**\n**hh:ld:Grace:46**\n**hh:ld:Scheffler:Baniata**\n**hh:s:Frahm:Baniata**\n**hh:w:Waterhouse:Baniata**"
+  },
+  "altnames": {
+    "multitree": "\nBaniata\nLokuru\nMbaniata\nTouo",
+    "lexvo": "\nTouo [en]\nTouo language [en]",
+    "hhbib_lgcode": "\nBaniata\nBañata\nMbaniata",
+    "elcat": "\nTouo"
+  },
+  "triggers": {
+    "lgcode": "\nbaniata"
+  },
+  "identifier": {
+    "multitree": "tqu",
+    "endangeredlanguages": "10811"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Terrill:CSolomon**\n**hh:hv:DunnTerrill:Central-Solomons**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Touo (10811-tqu) = Threatened (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

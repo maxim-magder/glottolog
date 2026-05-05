@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Isthmus Zapotec",
+    "hid": "zai",
+    "level": "language",
+    "iso639-3": "zai",
+    "latitude": "16.4548",
+    "longitude": "-94.8444",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Isthmus Zapotec](https://endangeredlanguages.com/lang/1061)\n[Zapotec (Isthmus)](https://wals.info/languoid/lect/wals_code_zai)\nhttps://en.wikipedia.org/wiki/Isthmus_Zapotec\nhttps://phoible.org/languages/isth1244\nhttps://www.wikidata.org/entity/Q56728"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grenoble:11**\n**cldf:lewis:ed:09**\n**cldf:marlett:pickett:87**\n**cldf:pickett:60**\n**cldf:pickett:black:etal:98**\n**hh:d:Pickett:Zapoteco**\n**hh:d:Pickett:Zapoteco-Istmo:2007**\n**hh:d:PickettEmbrey:Zapoteco-Istmo**\n**hh:g:Pickettetal:Zapoteco**\n**hh:hv:Campbell:Central-Zapotec**\n**hh:hv:Fernandez:Protozapoteco**\n**hh:hvw:Radin:Zapotec**\n**hh:hvw:Rendon:Zapoteco**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:Swadesh:Zapotecos**\n**hh:s:Castillo:Zapoteco-Comitancillo**\n**hh:s:Penafiel:Zapoteca**\n**hh:s:Pickett:Dos-Zapotecos**\n**hh:s:Pickett:IsthmusZapotec**\n**hh:s:Pickett:Zapotec**\n**hh:s:PickettEmbrey:Istmo**\n**hh:s:Radin:Zapotec**\n**hh:soc:Saynes:Zapotec-Juchitan**\n**hh:soc:Toledo:Zapoteco-Union-Hidalgo**\n**hh:styp:Bueno:Isthmus-Zapotec**\n**hh:styp:Holle:Isthmus-Zapotec**\n**hh:typ:Enriquez:Zapoteco-Istmo**\n**hh:typ:PerezKaufman:Zapoteco-Istmo**\n**hh:w:Spear:Tehuantepec**\n**ldh:item_400681**\n**ldh:item_400930**\n**ldh:item_403047**\n**ldh:item_408006**\n**mpieva:Augsburger2004Language**\n**mpieva:Marlett1999Elpronom**\n**mpieva:Pickett1979Vocabula**\n**mpieva:Pickett2001Gramatic**\n**sil16:11922**\n**sil16:11923**\n**sil16:11924**\n**sil16:11926**\n**sil16:11927**\n**sil16:11933**\n**sil16:12017**\n**sil16:18810**\n**sil16:20060**\n**sil16:21213**\n**sil16:21230**\n**sil16:21945**\n**sil16:22796**\n**sil16:22931**\n**sil16:23713**\n**sil16:32229**\n**sil16:33302**\n**sil16:34106**\n**sil16:34450**\n**sil16:35093**\n**sil16:38644**\n**sil16:39325**\n**sil16:44388**\n**sil16:44389**\n**sil16:46731**\n**sil16:50413**\n**sil16:51159**"
+  },
+  "altnames": {
+    "wals": "\nZapotec (Isthmus)",
+    "ruhlen (1987)": "\nSapoteko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nEastern Sapoteko\nIsthmus Zapotec\nZapotec\nZapotec (Isthmus)\nZapotec, Isthmus\nZapoteco (Istmo)\nZapoteco de Petapa\nZapoteco de San Bartolo Yautepec\nZapoteco del Istmo\nZapoteco mixtepeco\nZapotèque de Mixtepe\nZapotèque de Petapa\nZapotèque de San Bartolo Yautepec",
+    "lexvo": "\nIsthmus Zapotec [en]\nLandengte-Zapoteeks [nl]\nZapotekeg Isthmus [br]",
+    "hhbib_lgcode": "\nDel Istmo Juchitán\nIstmo de Tehuantepec\nJuchitán\nMainly Tehuantepec\nSan Pedro Comitancillo en el sur del estado de Oaxaca y perteneciente a la zona del Istmo de Tehuantepec\nTehuantepec\nZapotec-Isthmus\nZapoteco\nZapoteco de Unión Hidalgo",
+    "elcat": "\nIsthmus\nIsthmus Zapotec\nZapotec\nZapotec (Isthmus)\nZapoteco (Istmo)\nZapoteco del Istmo"
+  },
+  "triggers": {
+    "lgcode": "\nnonphonemic\nzapotecs\nzapoteco AND istmo\nautor\nistmo\njuchitan\nintuitive"
+  },
+  "identifier": {
+    "wals": "zai",
+    "multitree": "zai",
+    "endangeredlanguages": "1061"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Central-Zapotec**",
+    "subrefs": "\n**hh:hv:Campbell:Central-Zapotec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Isthmus Zapotec (1061) = Vulnerable (20 percent certain, based on the evidence available) [Grenoble 2011](cldf:grenoble:11)"
+  }
+}

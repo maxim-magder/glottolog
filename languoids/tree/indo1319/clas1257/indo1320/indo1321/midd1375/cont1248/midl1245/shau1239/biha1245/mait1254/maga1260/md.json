@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Magahi",
+    "hid": "mag",
+    "level": "language",
+    "iso639-3": "mag",
+    "latitude": "25.0915",
+    "longitude": "85.3335",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Magahi](https://grambank.clld.org/languages/maga1260)\n[Magahi](https://wals.info/languoid/lect/wals_code_mgh)\nhttps://en.wikipedia.org/wiki/Magahi_language\nhttps://phoible.org/languages/maga1260\nhttps://www.wikidata.org/entity/Q33728"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cardona:jain:ed:03:10**\n**hh:g:Paudyal:Khortha**\n**hh:g:Sinha:Magahi**\n**hh:h:Grierson:Introductory-Bihari**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hv:Jeffers:Bihari**\n**hh:hvw:Grierson:5:II**\n**hh:phon:Prasad:Patna**\n**hh:s:Aryani:Magahi**\n**hh:s:Grierson:Magadhi**\n**hh:s:Grierson:Magadhi-South-Patna**\n**hh:s:Verma:Magahi**\n**hh:s:Verma:Magahi:1966**\n**hh:soc:Priya:Khortha**\n**hh:typ:Bhowmik:Khorta-Bangla**\n**hh:typ:Bhowmik:Malda-Khortha**\n**hh:typ:Das:Khortha**\n**hh:vld:Bhowmik:Malda-Khortha**\n**hh:wsoc:Thakur:Magahi**"
+  },
+  "altnames": {
+    "wals": "\nMagahi",
+    "ruhlen (1987)": "\nBihari",
+    "moseley & asher (1994)": "\nMagahi",
+    "multitree": "\nBihari\nMagadhi\nMagahi\nMagaya\nMaghai\nMaghaya\nMaghori\nMagi\nMagodhi\nMegahi",
+    "lexvo": "\nJęzyk magahi [pl]\nLenga magahi [pms]\nLingua Magahi [la]\nLingua magadhi [it]\nMagadeg [br]\nMagadhi [nn]\nMagahi [da]\nMagahi language [en]\nMagahijština [cs]\nMagahî [fr]\nmagahi [fr]\nМагахи [ru]\nМаґадхі [uk]\nमगही [hi]\nमागधी भाषा [mr]\nমাগধী ভাষা [bn]\nમગહી ભાષા [gu]\nภาษามคธี [th]\nマガヒー語 [ja]\n摩揭陀語 [zh]",
+    "hhbib_lgcode": "\nDhanusha\nKhontai of Malda distinctly a form of Magahi spoken in a\nKhortha\nKhotta\nMagahi Palamau\nMagahi Patna\nMagahi Singhbhum\nMahottari\nMorang\nSaptari\nSarlahi\nSouth Patna and Gaya\nslightly odd location"
+  },
+  "triggers": {
+    "lgcode": "\nbrh\nmagadhi\nmagahi\nmagadhii"
+  },
+  "identifier": {
+    "wals": "mgh",
+    "multitree": "mag"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jeffers:Bihari** **hh:hvld:PaudyalPeterson:Sadani**",
+    "subrefs": "\n**hh:hv:Jeffers:Bihari**\n**hh:hvld:PaudyalPeterson:Sadani**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Magahi (mag-mag) = 6b (Threatened)."
+  }
+}

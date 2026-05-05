@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tobian",
+    "hid": "tox",
+    "level": "language",
+    "iso639-3": "tox",
+    "latitude": "3.004528",
+    "longitude": "131.171295",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PW"
+    ],
+    "links": "\n[Tobian](https://endangeredlanguages.com/lang/2451)\nhttps://en.wikipedia.org/wiki/Tobian_language\nhttps://www.wikidata.org/entity/Q34022"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:black:black:etal:09**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:palmer:21**\n**hh:e:Eilers:Tobi**\n**hh:e:Tibbetts:Tobian**\n**hh:hvw:Quackenbush:Sonsorol-Truk**\n**hh:phon:Vita:Ramari-Hatohobeian**"
+  },
+  "altnames": {
+    "multitree": "\nHatohobei\nTobi\nTobian\nTobiano\nTobien",
+    "lexvo": "\nIdioma tobiano [es]\nTobi [fr]\nTobiaans [nl]\nTobian [en]\nTobian language [en]\nTobin kieli [fi]",
+    "hhbib_lgcode": "\nHatohobeian\nTobi",
+    "elcat": "\nHatohobei\nHatohobeian\nRamari Hatohobei\nTobi\nTobian"
+  },
+  "identifier": {
+    "multitree": "tox",
+    "endangeredlanguages": "2451"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Quackenbush:Sonsorol-Truk**",
+    "subrefs": "\n**hh:hvw:Quackenbush:Sonsorol-Truk**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tobian (2451-tox) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

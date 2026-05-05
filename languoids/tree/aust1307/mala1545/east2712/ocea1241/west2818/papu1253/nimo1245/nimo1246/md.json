@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nimoa",
+    "hid": "nmw",
+    "level": "language",
+    "iso639-3": "nmw",
+    "latitude": "-11.2297",
+    "longitude": "153.158",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7037729\nhttps://en.wikipedia.org/wiki/Nimoa_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hew:MacGillivray:Rattlesnake**\n**hh:hld:Lean:Milne-Bay**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Lithgow:Milne**\n**hh:hvw:HendersonHenderson:Louisiade**\n**hh:hvw:Ray:Melanesian**\n**hh:hw:Ray:ESEPapua**\n**hh:hw:Ray:Louisiade**\n**hh:w:Armstrong:South-Eastern**\n**iso6393:2014-002**\n**ldh:item_402516**\n**mpieva:Healey1974Threestu**\n**sil16:10010**\n**silpng:silpng2001-2003:43**"
+  },
+  "altnames": {
+    "multitree": "\nNimoa\nNimowa",
+    "lexvo": "\nNimoa [en]",
+    "hhbib_lgcode": "\nBrierly Island\nNimoa of Twomey ms and SIL\nNimowa\nPanatinani\nSabari"
+  },
+  "triggers": {
+    "lgcode": "\nNOT on AND studies AND eastern AND three"
+  },
+  "identifier": {
+    "multitree": "nmw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hv:LynchRossCrowley:Subgrouping**:102-106 **hh:g:Sheppard:Sudest**:12",
+    "subrefs": "\n**hh:g:Sheppard:Sudest**\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rifao (nmw-nmw) = 6a* (Vigorous)."
+  }
+}

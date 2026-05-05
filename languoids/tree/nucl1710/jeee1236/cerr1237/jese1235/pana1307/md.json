@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Panará",
+    "hid": "kre",
+    "level": "language",
+    "iso639-3": "kre",
+    "latitude": "-10.58",
+    "longitude": "-53.0",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kreen-Akarore](https://endangeredlanguages.com/lang/2961)\n[Panará](https://grambank.clld.org/languages/pana1307)\n[Panará](https://wals.info/languoid/lect/wals_code_pnx)\nhttps://en.wikipedia.org/wiki/Panar%C3%A1_language\nhttps://phoible.org/languages/pana1307\nhttps://www.wikidata.org/entity/Q3361895"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Je_panara00**\n**fabreall2009ann:Je_panara01**\n**fabreall2009ann:Je_panara04**\n**fabreall2009ann:Je_panara05**\n**fabreall2009ann:Je_panara06**\n**fabreall2009ann:Je_panara09**\n**fabreall2009ann:Je_panara10**\n**fabreall2009ann:Je_panara11**\n**fabreall2009ann:Je_panara14**\n**fabreall2009ann:Je_panara15**\n**fabreall2009ann:Je_panara16**\n**fabreall2009ann:Je_panara17**\n**fabreall2009ann:Je_panara19**\n**fabreall2009ann:Je_panara20**\n**fabreall2009ann:Je_panara21**\n**fabreall2009ann:Je_panara22**\n**fabreall2009ann:Je_panara24**\n**fabreall2009ann:Je_panara26**\n**fabreall2009ann:Je_panara27**\n**fabreall2009ann:Je_panara28**\n**fabreall2009ann:Je_panara29**\n**fabreall2009ann:Je_panara30**\n**fabreall2009ann:Je_panara31**\n**fabreall2009ann:Je_panara32**\n**fabreall2009ann:Je_panara33**\n**fabreall2009ann:Je_panara34**\n**fabreall2009ann:Je_panara35**\n**fabreall2009ann:Je_panara36**\n**fabreall2009ann:Je_panara37**\n**fabreall2009ann:Je_panara38**\n**fabreall2009ann:Je_panara40**\n**fabreall2009ann:Je_panara42**\n**hh:e:Cowell:Kreen-Akrore**\n**hh:e:Kupfer:Cayapos**\n**hh:e:Mead:Caiapo-Sul**\n**hh:ew:Barbosa:Cayapo-Panara**\n**hh:g:Dourado:Panara**\n**hh:hw:Martius:Brasiliens**\n**hh:phon:Dourado:Panara**\n**hh:phon:Lapierre:Panara**\n**hh:soc:AnonbyHolbrook:Panara-Kreen-Akarore**\n**hh:styp:Bardagil:Panara**\n**hh:v:Dourado:Panara**\n**hh:v:Rodrigues:Panara**\n**hh:vwphon:Vasconcelos:Cayapo-do-Sul:2009**\n**hh:w:Pohl:Cayapos**\n**hh:w:Vasconcelos:Cayapo-do-Sul**\n**hh:w:Vasconcelos:Cayapo-do-Sul:2009**\n**iso6393:2006-019**\n**mpieva:Dourado1990Estudopr**"
+  },
+  "altnames": {
+    "glottolog": "\nPanara",
+    "multitree": "\nCreen-Acarore\nIpewí\nKreen-Akarore\nKreen-Akorore\nKren Akarore\nKren-Akarore\nPanará",
+    "lexvo": "\nPanará [en]",
+    "hhbib_lgcode": "\nCayapo do Sul\nCayapó do Sul\nCayapós\nKreen-Akrore",
+    "elcat": "\nCreen-Acarore\nIpewí\nKreen-Akarore\nKren Akarore\nKren-Akarore\nPanará"
+  },
+  "triggers": {
+    "lgcode": "\nnehring\npanar\nNOT xingu AND panara\nkrenakore\nkreen\npanara\ncayapos"
+  },
+  "identifier": {
+    "wals": "pnx",
+    "multitree": "kre",
+    "endangeredlanguages": "2961"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nikulin:Northern-Je**",
+    "subrefs": "\n**hh:hv:Nikulin:Northern-Je**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kreen-Akarore (2961-kre) = Endangered (20 percent certain, based on the evidence available) [Crevels 2007](cldf:crevels:07)"
+  }
+}

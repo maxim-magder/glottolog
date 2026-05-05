@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bozaba",
+    "hid": "bzo",
+    "level": "dialect",
+    "iso639-3": "bzo",
+    "latitude": "2.07295",
+    "longitude": "18.6784",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4952785\nhttps://en.wikipedia.org/wiki/Bozaba_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:HackettvanBulck:ETeam**:73-74 **hh:h:Mangulu:Riverains**:12",
+    "subrefs": "\n**hh:hv:HackettvanBulck:ETeam**\n**hh:h:Mangulu:Riverains**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:HackettvanBulck:ETeam**\n**hh:hv:deBoeck:Classification**"
+  },
+  "altnames": {
+    "multitree": "\nBozaba\nBudzaba\nBuzaba",
+    "lexvo": "\nBozaba [en]",
+    "hhbib_lgcode": "\nBudjaba"
+  },
+  "identifier": {
+    "multitree": "bzo"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bozaba (bzo-bzo) = 6b (Threatened)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 lists two separate neighbouring languages Bozaba\n[bzo] and Bomboli [bml] of the Ngiri area of the DRC. The corresponding ethnic groups speak intelligible languages, exhibiting only minor differences (**hh:hvld:FultzMorgan:Ubangi-Mongala**:5, 8, 21-22).\nEven if the two groups see each other as different, only one language entry is justified. See also: Bomboli-Bozaba [bml].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "bzo"
+  }
+}

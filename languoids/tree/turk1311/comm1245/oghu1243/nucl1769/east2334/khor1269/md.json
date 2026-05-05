@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Khorasan Turkic",
+    "hid": "kmz",
+    "level": "language",
+    "iso639-3": "kmz",
+    "latitude": "36.4438",
+    "longitude": "60.0277",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Turkic (East-Central Xorasan)](https://wals.info/languoid/lect/wals_code_tex)\n[Turkic (West Xorasan)](https://wals.info/languoid/lect/wals_code_twx)\nhttps://en.wikipedia.org/wiki/Khorasani_Turkic\nhttps://www.wikidata.org/entity/Q35373"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:potseluevskij:97:2**\n**hh:d:Azizi:Bugnurdi**\n**hh:g:Szabolcs:Bodschnurdi**\n**hh:g:Tulu:Chorasanturkische**\n**hh:h:Doerfer:Turkic-Iran**\n**hh:h:Doerfer:Turkische-Iran**\n**hh:s:Bozkurt:Chorasanturkischen**\n**hh:s:DoerferHesche:Chorasanturkisch**\n**hh:s:Potseluevskij:Bodzhnurdi**"
+  },
+  "altnames": {
+    "wals": "\nTurkic (East-Central Xorasan)\nTurkic (West Xorasan)",
+    "wals other": "\nEast/Central Xorasan Turkic\nTurkic (East/Central Xorasan)\nWest Khorasani Turkic\nWest Quchani\nWest Xorasan Turkic\nXorasan\nXorasan Turkic",
+    "ruhlen (1987)": "\nKhorasani Turkish",
+    "multitree": "\nKhorasan Turkic\nKhorasani Turkish\nNorthwest Quchani\nQuchani\nTurc du Khorassan\nTurco jorasaní\nTurkic (West Xorasan)\nWest Quchani",
+    "lexvo": "\nChorasan-türkische Sprache [de]\nHorasanca [tr]\nIdioma turco de Jorasán [es]\nKhorasani Turkic language [en]\nKhorasani Turkish [en]\nKhorasaninturkin kieli [fi]\nTurk du Khorassan [fr]\nXorasan Türkcəsi [az]\nХорасански турски јазик [mk]\nХорасанско-тюркский язык [ru]\nภาษาเติร์กโคราซานี [th]",
+    "hhbib_lgcode": "\nAsadli\nBodschnurdi\nBojnurd\nBozhnurdi\nBuǧnūrdī\nCaram-Sarjam\nDara-Gaz\nDouga'i\nEast Oghuz\nGujgi\nHarw-e Olya\nHokm-abad\nJogatay\nJonk\nKhorasani Turkish\nKhorasantürkisch\nLangar\nLotf-abad\nNW Khorasan Turkish\nNorth Khorasan Turkic\nNortheast Khorasan Turkic\nNorthwest Khorasan Turkic\nQuchan\nRuh-abad\nSeyh-Teymur\nSirwan\nSoltan-abad\nSouth Khorasani Turkic\nSoutheast Khorasan Turkic\nSurak\nXarw-e ‘Olya\nZeyarat",
+    "glottolog": "\nKhorasani Turkish"
+  },
+  "triggers": {
+    "lgcode": "\nchorasanturischen\nbojnurd\nxorasano\nkurzgrammatiken\nbodzhnurdi\nchorasanturkisch"
+  },
+  "identifier": {
+    "wals": "tex;twx",
+    "multitree": "kmz-wes;kmz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Johanson:Turkic:2021**:21-40 **hh:hv:Tekin:Turkic**",
+    "subrefs": "\n**hh:hv:Johanson:Turkic:2021**\n**hh:hv:Tekin:Turkic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Khorasani Turk (847-kmz) = Vulnerable"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Logorik",
+    "hid": "liu",
+    "level": "language",
+    "iso639-3": "liu",
+    "latitude": "11.1739",
+    "longitude": "29.8053",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Logorik](https://endangeredlanguages.com/lang/4508)\nhttps://www.wikidata.org/entity/Q6667811\nhttps://en.wikipedia.org/wiki/Logorik_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3726**\n**cldf:bell:79**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:meinhof:17:3**\n**cldf:np:nd:264**\n**eballiso2009:9231**\n**eballiso2009:9232**\n**hh:ew:Stevenson:Liguri**\n**hh:hv:Thelwall:Daju**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Thelwall:NubianDajuDinka**\n**hh:soc:Manfredi:Laggori**\n**hh:vld:Manfredi:Nuba**\n**hh:w:Alamin:Laggori**\n**hh:w:Knoblecher:Africae**\n**hh:w:Meinhof:Saburi**"
+  },
+  "altnames": {
+    "multitree": "\nLiguri\nLogori\nLogorik",
+    "lexvo": "\nLogorik [en]",
+    "hhbib_lgcode": "\nJebel Doldoko\nLaggori\nLaggorí\nLiguri",
+    "elcat": "\nLiguri\nLogorik"
+  },
+  "triggers": {
+    "lgcode": "\nliguri\nlaggori\nsaburi"
+  },
+  "identifier": {
+    "multitree": "liu",
+    "endangeredlanguages": "4508"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thelwall:Daju**",
+    "subrefs": "\n**hh:hv:Thelwall:Daju**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Logorik (4508-liu) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

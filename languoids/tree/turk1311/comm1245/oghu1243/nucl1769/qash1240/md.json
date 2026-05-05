@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Qashqa'i",
+    "hid": "qxq",
+    "level": "language",
+    "iso639-3": "qxq",
+    "latitude": "28.25931",
+    "longitude": "52.83349",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q13192\nhttps://en.wikipedia.org/wiki/Qashqai_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:garrod:46:1**\n**cldf:garrod:46:2**\n**hh:d:Assadollah:Qasqayi**\n**hh:e:Beck:Qashqai**\n**hh:g:Dolatkhah:Kashkay**\n**hh:g:Dolatkhah:Qashqai**\n**hh:g:Dolatkhah:Qashqay-Turcique**\n**hh:g:Dolatkhah:Qashqay:2016**\n**hh:h:Doerfer:Turkic-Iran**\n**hh:h:Doerfer:Turkische-Iran**\n**hh:h:Menges:Turkic-Iran**\n**hh:phon:Assadollah:Qasqayi**\n**hh:phonwt:DoerferHesche:Sudoghusische-Afghanistan**\n**hh:s:Assadollah:Qasqayi**\n**hh:s:Dolatkhah:Qashqay**\n**hh:s:Kowalski:Ainallu**\n**hh:soc:Abadi-Karimnia:Kashkay**\n**hh:std:Celik:Kaskay**\n**hh:sv:Soper:Tajik-Uzbek-Qashqay**\n**hh:t:Doerferetal:Oghusica-Iran**\n**hh:t:Dolatkhah:Qashqai**\n**hh:typ:Csato-Johanson:Kashkay**"
+  },
+  "altnames": {
+    "multitree": "\nAzarbaydjanian\nAzerbaijani\nKashkai\nKashkay\nQashqa'i\nQashqa'ī\nQashqai\nQashqay\nQašqay",
+    "lexvo": "\nJęzyk kaszkajski [pl]\nKachkaeg [br]\nKachkaï [fr]\nKaschgaische Sprache [de]\nKaŝgaja lingvo [eo]\nKaşkayca [tr]\nKaškain kieli [fi]\nQashqa'i [en]\nQashqai language [en]\nQaşqay dili [az]\nКашкайски език [bg]\nКашкайское наречие [ru]\nКашкајски јазик [mk]\nҚашқай тілі [kk]\nภาษาควาซไคว [th]\n카슈카이어 [ko]",
+    "hhbib_lgcode": "\nFiruz-ābād\nHoseyn-ābād-e Sarmasad\nKashkay\nParadomba\nParadonba-Sahrak-Ali-Qurci\nQashqa'i aus Firuz-abad\nSahrak\nSouth Oghuz\nSouth Oguz"
+  },
+  "triggers": {
+    "lgcode": "\noghusica\nsteins\nainallu\naurel\nqashqay\nkashkay\nsprachaufzeichnungen\nsudpersien"
+  },
+  "identifier": {
+    "multitree": "qxq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Johanson:Turkic:2021**:21-40 **hh:hv:Tekin:Turkic**",
+    "subrefs": "\n**hh:hv:Johanson:Turkic:2021**\n**hh:hv:Tekin:Turkic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kashkay (qxq-qxq) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nyaheun",
+    "hid": "nev",
+    "level": "language",
+    "iso639-3": "nev",
+    "latitude": "15.1034",
+    "longitude": "106.543",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA"
+    ],
+    "links": "\n[Nyaheun](https://grambank.clld.org/languages/nyah1249)\n[Nyaheun](https://lexibank.clld.org/languages/sidwellbahnaric-nyaheun)\nhttps://en.wikipedia.org/wiki/Nyaheun_language\nhttps://www.wikidata.org/entity/Q7070801"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3286**\n**cldf:jacq:06**\n**hh:d:Ferlus:Nhaheun**\n**hh:e:Wall:Nya-Hon**\n**hh:hv:Ferlus:Austroasiens-Sud-Laos**\n**hh:hv:SidwellJacq:WBahnaric**\n**hh:hv:Smith:Mon-Khmer**\n**hh:ld:Ferlus:Deux-Austroasiens**\n**hh:phon:Davis:Nyaheun**\n**hh:s:Davis:Nyaheun**\n**hh:vld:Sidwell:Boloven**\n**mpieva:Ferlus1998NhaheunF**\n**sil16:15561**\n**sil16:49005**"
+  },
+  "altnames": {
+    "multitree": "\nHin\nHoen\nHu'n\nHun\nNha Heun\nNia Hoen\nNiahon\nNyah Heuny\nNyaheun\nNyahuen\nNyahön\nProu\nYaheun\nÑa-hu'n",
+    "lexvo": "\nNyaheun [en]",
+    "hhbib_lgcode": "\nNYH Nyaheun\nNha Heun\nNhaheun\nNya Hön"
+  },
+  "triggers": {
+    "lgcode": "\nnyaheun\nnhaheun"
+  },
+  "identifier": {
+    "multitree": "nev;nyah"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic-MSEA**:185-186",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic-MSEA**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nyaheun (nev-nev) = 6a (Vigorous)."
+  }
+}

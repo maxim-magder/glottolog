@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southern Bai",
+    "hid": "bfs",
+    "level": "language",
+    "iso639-3": "bfs",
+    "latitude": "25.519",
+    "longitude": "100.289",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Bai (Dali)](https://lexibank.clld.org/languages/gaotb-DaliBai)\n[Southern Bai](https://grambank.clld.org/languages/sout2730)\nhttps://www.wikidata.org/entity/Q12952250"
+  },
+  "sources": {
+    "glottolog": "\n**hh:es:Fitzgerald:Min-Chia**\n**hh:g:Zhao:Zhaozhuang-Bai**\n**hh:g:ZhaoDai:Zhaozhuang-Bai**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Bradley:Mran-Ni**\n**hh:hv:Dell:Bai**\n**hh:hv:Wang:Bai**\n**hh:hv:Yang:Bai**\n**hh:hvw:Wang:Bai**\n**hh:hvw:Wang:Bai:2012**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hwdial:Allen:Bai**\n**hh:hwdial:Allen:Bai:2004**\n**hh:phond:Dell:Bai**\n**hh:s:Wang:Xishan-Bai**\n**hh:t:Wang:Bai**\n**hh:typ:Fu:Bai**\n**hh:typ:Li:Meiba-Bai**\n**hh:w:Dali:Bai**\n**hh:w:Wang:Bai**\n**mpieva:Xu1984Baiyujia**\n**mpieva:Xu2008Spaceinl**\n**mpieva:Zhao1996BaiHanci**\n**sil16:41971**\n**sil16:44951**\n**sil16:46138**\n**sil16:46139**\n**sil16:46140**\n**sil16:46144**"
+  },
+  "altnames": {
+    "multitree": "\nBai\nBai, Southern\nBai,Southern",
+    "lexvo": "\nSouthern Bai [en]",
+    "hhbib_lgcode": "\n33 varieties of Dali Bai\nBai Dali\nBai of Da-Li\nBai-Dali\nBai-Southern\nBaoshan\nBinchuan\nBái yǔ (běi)\nDa-Li\nDali Bai\nDali Dacheng\nDali Jiangxi\nMazhelong Bai\nMeiba Bai in Xizhou township in Dali\nQiliqiao\nXiangyun\nXishan Bai similar to Dali Bai\nZhoucheng Bai\nZhuocheng\nZhàozhuāng bái"
+  },
+  "triggers": {
+    "lgcode": "\ndistillation\nNOT jianzhi AND baiyu\nlaryngoscopic\nmozzarella\nzhengmianlin"
+  },
+  "identifier": {
+    "multitree": "bfs"
+  },
+  "classification": {
+    "sub": "**hh:hwdial:Allen:Bai**",
+    "subrefs": "\n**hh:hwdial:Allen:Bai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bai, Southern (bfs-bfs) = 6a (Vigorous). Language of recognized nationality: Bai."
+  }
+}

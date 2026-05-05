@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Antankarana Malagasy",
+    "hid": "xmv",
+    "level": "language",
+    "iso639-3": "xmv",
+    "latitude": "-13.2164",
+    "longitude": "49.2402",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MG"
+    ],
+    "links": "\n[Antankarana](https://lexibank.clld.org/languages/servamalagasy-AntankaranaAmbilobe)\n[Antankarana](https://lexibank.clld.org/languages/servamalagasy-AntankaranaVohemar)\n[Antankarana Malagasy](https://grambank.clld.org/languages/anta1255)\nhttps://en.wikipedia.org/wiki/Antakarana_dialect\nhttps://www.wikidata.org/entity/Q2167573"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4068**\n**hh:d:Gueunier:Malgache-Mayotte**\n**hh:d:Velonandro:Nord-Madagascar**\n**hh:g:Thomas-Fattier:Sakalava**\n**hh:gd:Bare-Thomas:Sakalava**\n**hh:he:Schomerus-Gernbock:Madagaskar**\n**hh:hld:Rombi:Mayotte**\n**hh:hv:Servaetal:Malagasy**\n**hh:hv:Verinetal:Malagasy**\n**hh:hvw:Jully:Malgaches**\n**hh:hvw:ServaPasquini:Madagascar:2020**\n**hh:t:Dandouau:Sakalava**\n**hh:typ:Bodihely:Nosy-Be**\n**hh:v:Serva:Malagasy-Mayotte**\n**hh:vsoc:Gueunier:Malgache-Mayotte**\n**hh:vtyp:Mbima:Antankarana**\n**hh:w:Sibree:Malagasy**\n**iso6393:2010-034**"
+  },
+  "altnames": {
+    "multitree": "\nAntankarana Malagasy\nMalagasy, Antankarana\nTankarana",
+    "lexvo": "\nAntankarana Malagasy [en]",
+    "hhbib_lgcode": "\n1 - Sakalava (Ambanja)\n16 Antankarana (Vohemar)\n18 Antankarana (Antalaha)\n19 Sakalava (Ambanja)\n23 Antankarana (Ambilobe)\n24 - Antankarana (Vohemar)\n3 - Antankarana (Ambilobe)\n36 - Betsimisaraka (Antsiranana)\nAnkoala\nAnorontsanga\nAntankarana\nAntankaraña\nIharana\nKibosy Kimaore\nKibosy Kimaore close to Nosy Be or Sambirano\nKibushi Kimaore\nMalagasy-Antankarana\nMostly Kibosy Kimaore close to Nosy Be or Sambirano\nNosy Be\nNosy Be-Sambirano\nSakalava of Ambanja\nTankarana"
+  },
+  "triggers": {
+    "lgcode": "\nankova\nspeech AND glottochronology"
+  },
+  "identifier": {
+    "multitree": "xmv"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ServaPasquini:Madagascar:2020**",
+    "subrefs": "\n**hh:hvw:ServaPasquini:Madagascar:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malagasy, Antankarana (xmv-xmv) = 6a (Vigorous)."
+  }
+}

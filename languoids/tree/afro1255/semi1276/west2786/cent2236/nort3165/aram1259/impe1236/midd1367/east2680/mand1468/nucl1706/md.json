@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Neo-Mandaic",
+    "hid": "mid",
+    "level": "language",
+    "iso639-3": "mid",
+    "latitude": "31.3443",
+    "longitude": "48.8128",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AU",
+      "IQ",
+      "IR",
+      "US"
+    ],
+    "links": "\n[Mandaic (Modern)](https://wals.info/languoid/lect/wals_code_mma)\n[Neo-Mandaic](https://endangeredlanguages.com/lang/4659)\n[Neo-Mandaic](https://grambank.clld.org/languages/nucl1706)\nhttps://en.wikipedia.org/wiki/Neo-Mandaic\nhttps://www.wikidata.org/entity/Q6991742"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:macuch:dankwarth:93**\n**cldf:malone:97**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Stevens:Mandaic**\n**hh:g:Haberl:Khorramshahr**\n**hh:g:Haberl:Khorramshahr:2009**\n**hh:s:Ahmadi:Mandaic**\n**hh:s:Haberl:Mandaic**\n**hh:s:Haberl:Mandaic:2019**\n**hh:st:Macuch:Mandaic**\n**hh:t:Macuch:Mandaic**\n**hh:t:deMorgan:Mandaites**"
+  },
+  "altnames": {
+    "wals": "\nMandaic (Modern)",
+    "wals other": "\nMandaic\nModern Mandaic",
+    "ruhlen (1987)": "\nMandaic",
+    "multitree": "\nManda:yi\nMandaean\nMandaic\nMandaic (Modern)\nMandeo\nMandi\nMandéen\nModern Mandaic\nNeo-Mandaic\nSabe'in\nSabean\nSubbi",
+    "lexvo": "\nMandaic [en]\nNeo-Mandaic [en]\nزبان مندائی نو [fa]",
+    "hhbib_lgcode": "\nAhwaz\nMandaic\nNeo-Mandaic",
+    "elcat": "\nManda:yi\nMandaean\nMandaic\nMandaic (Modern)\nModern Mandaic\nNeo-Mandaic",
+    "glottolog": "\nMandaic"
+  },
+  "triggers": {
+    "lgcode": "\nphonology AND mandaic\nneumandaische\nkhorramshahr"
+  },
+  "identifier": {
+    "wals": "mma",
+    "multitree": "mid",
+    "endangeredlanguages": "4659"
+  },
+  "classification": {
+    "sub": "**hh:hv:HuehnergardRubin:Semitic**",
+    "subrefs": "\n**hh:hv:HuehnergardRubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Neo-Mandaic (4659-mid) = Severely Endangered (100 percent certain, based on the evidence available) (Mandaic is severely endangered today, and all signs indicate that it will become extinct with the current generation of speakers.) [Haberl 2006](cldf:haeberl:06)"
+  }
+}

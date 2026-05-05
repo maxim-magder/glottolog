@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tennet",
+    "hid": "tex",
+    "level": "language",
+    "iso639-3": "tex",
+    "latitude": "4.91107",
+    "longitude": "32.6307",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Tennet](https://endangeredlanguages.com/lang/5060)\n[Tennet](https://grambank.clld.org/languages/tenn1246)\n[Tennet](https://wals.info/languoid/lect/wals_code_ten)\nhttps://en.wikipedia.org/wiki/Tennet_language\nhttps://www.wikidata.org/entity/Q56346"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:98:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:randal:00**\n**cldf:randall:98**\n**cldf:wise:ed:00:2**\n**eballiso2009:58592**\n**eballiso2009:58637**\n**hh:hel:Sommer:Survey**\n**hh:ld:Amargira:Tennet:Modifiers**\n**hh:ld:Amargira:Tennet:Tone**\n**hh:ld:Dimmendaal:Tenet**\n**hh:s:Randal:Tennet:1998**\n**hh:s:Randal:Tennet:Nominal**\n**hh:s:Waag:Tennet**\n**hh:typ:Konig:MarkNom**\n**hh:typ:WaagKilpatrick:Tennet**\n**mpieva:1998Surmicla**\n**sil16:37995**\n**sil16:40852**\n**sil16:40853**"
+  },
+  "altnames": {
+    "wals": "\nTennet",
+    "wals other": "\nTenet",
+    "multitree": "\nTenet\nTennet",
+    "lexvo": "\nTennet [en]",
+    "elcat": "\nTenet\nTennet"
+  },
+  "triggers": {
+    "lgcode": "\ntenet\ntennet\npartiellen\ntennets"
+  },
+  "identifier": {
+    "wals": "ten",
+    "multitree": "tex;tenn",
+    "endangeredlanguages": "5060"
+  },
+  "classification": {
+    "sub": "**hh:hv:Yigezu:Surmic**",
+    "subrefs": "\n**hh:hv:Yigezu:Surmic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tennet (5060-tex) = Threatened (40 percent certain, based on the evidence available) (The Tennet have adopted some aspects of Lopit culture and intermarried with the Lopit, but Tennet is still their primary language.) [Amargira 2006](cldf:amargira:06)"
+  }
+}

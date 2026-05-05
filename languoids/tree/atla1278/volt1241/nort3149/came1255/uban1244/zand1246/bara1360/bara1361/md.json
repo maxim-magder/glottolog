@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Barambu",
+    "hid": "brm",
+    "level": "language",
+    "iso639-3": "brm",
+    "latitude": "3.34642",
+    "longitude": "26.861",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Barambu](https://endangeredlanguages.com/lang/4593)\n[Barambu](https://grambank.clld.org/languages/bara1361)\n[Barambu](https://wals.info/languoid/lect/wals_code_bbu)\nhttps://en.wikipedia.org/wiki/Barambu_language\nhttps://www.wikidata.org/entity/Q34893"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1874**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:czekanowski:24**\n**cldf:lewis:ed:09**\n**cldf:nvs:96**\n**hh:e:Nys:Abarambos**\n**hh:h:Santandrea:Ghazal**\n**hh:hb:Kadima:Congo**\n**hh:hb:Moiso:Haut-Zaire**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hs:TuckerHackett:Zande**\n**hh:hv:Muller:Aquatoriale**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hvw:Dijkmans:Gwane**\n**hh:hvw:McMaster:Uele**\n**hh:s:Santandrea:Banda-Zande**\n**hh:typ:Bada:Barambo**\n**hh:w:Bruggeretal:Abarambo**\n**hh:w:Junker:Centralafrikanischer**\n**mpieva:Brugger1912Vocabula**"
+  },
+  "altnames": {
+    "wals": "\nBarambu",
+    "ruhlen (1987)": "\nBaramba",
+    "moseley & asher (1994)": "\nBarambo",
+    "multitree": "\nAbarambo\nAmiangba\nAmiangbwa\nBalambu\nBarambo\nBarambu\nDuga",
+    "lexvo": "\nBarambu [en]",
+    "hhbib_lgcode": "\nA-Barambo\nAbarambo\nBarambo\nBarambolo",
+    "elcat": "\nAbarambo\nAmiangba\nAmiangbwa\nBalambu\nBarambo\nBarambu\nDuga"
+  },
+  "triggers": {
+    "lgcode": "\ncentralafrikanischer\nabarambo"
+  },
+  "identifier": {
+    "wals": "bbu",
+    "multitree": "brm",
+    "endangeredlanguages": "4593"
+  },
+  "classification": {
+    "sub": "**hh:h:Boyd:Zande**",
+    "subrefs": "\n**hh:h:Boyd:Zande**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Barambu (4593-brm) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

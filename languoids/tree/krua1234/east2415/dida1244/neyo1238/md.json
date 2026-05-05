@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Neyo",
+    "hid": "ney",
+    "level": "language",
+    "iso639-3": "ney",
+    "latitude": "4.95048",
+    "longitude": "-6.08043",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36410\nhttps://en.wikipedia.org/wiki/Neyo_language\n[Neyo](https://wals.info/languoid/lect/wals_code_ney)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:grah:83**\n**eballiso2009:101**\n**eballiso2009:10403**\n**eballiso2009:59371**\n**eballiso2009:9823**\n**hh:g:Grah:Niwoli**\n**hh:g:Thomann:Neouole**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:Richard:Sud-Ouest-Ivoirien**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hvs:Marchese:Kru**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:w:Marchese:Kru-Lexemes**\n**sil16:17352**"
+  },
+  "altnames": {
+    "multitree": "\nGwibwen\nNeyo\nTowi",
+    "lexvo": "\nNeyo [en]",
+    "hhbib_lgcode": "\nNewole\nNéouolé\nNéyo"
+  },
+  "triggers": {
+    "lgcode": "\nnoli\nb2a\nnewole\nneoule\nnewo{le"
+  },
+  "identifier": {
+    "wals": "ney",
+    "multitree": "ney"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:38-60 **hh:hv:Marchese:Kru:1989** **hh:hv:Zogbo:Kru**",
+    "subrefs": "\n**hh:hv:Zogbo:Kru**\n**hh:hv:Vogler:Kru:2017**\n**hh:hv:Marchese:Kru:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Neyo (ney-ney) = 6a* (Vigorous)."
+  }
+}

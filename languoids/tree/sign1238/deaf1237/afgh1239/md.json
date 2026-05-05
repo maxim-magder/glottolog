@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Afghan Sign Language",
+    "hid": "afg",
+    "level": "language",
+    "iso639-3": "afg",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF"
+    ],
+    "longitude": "70.447778",
+    "latitude": "34.434167",
+    "links": "\nhttps://www.wikidata.org/entity/Q4689093\nhttps://en.wikipedia.org/wiki/Afghan_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:ANAD:Afghan-Sign**\n**hh:d:SHIP:Afghan-Sign**\n**hh:h:Morgan:Southern-Asia**\n**hh:hld:Wilkinson:Signed**\n**hh:phon:Power:Afghan-Sign**\n**hh:w:NA:Zaban-Ishara**\n**iso6393:2006-041**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Afghan Sign Language (afg-afg) = 5 (Developing)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAfghanistan: Afghan Sign Language (AFSL)"
+  },
+  "classification": {
+    "sub": "Through **hh:hvsoc:Power:Tajik-Sign(**) it is clear that Afghan Sign Language is not related to Tajik Sign Language and that influence and/or origins are likely to lie with (Indo-)Pakistan Sign Language or ASL. There is some ASL lexical influence (**hh:phon:Power:Afghan-Sign**, **hh:h:Morgan:Southern-Asia**) but a systematic comparison remains to be done with ASL, (Indo-)Pakistani Sign or any other sign language. Hence, it is a presumed isolate.",
+    "subrefs": "\n**hh:phon:Power:Afghan-Sign**\n**hh:hvsoc:Power:Tajik-Sign**\n**hh:h:Morgan:Southern-Asia**"
+  }
+}

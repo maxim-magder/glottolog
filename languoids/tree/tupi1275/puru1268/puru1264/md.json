@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Puruborá",
+    "hid": "pur",
+    "level": "language",
+    "iso639-3": "pur",
+    "latitude": "-11.4226",
+    "longitude": "-62.4358",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Puruborá](https://endangeredlanguages.com/lang/2766)\nhttps://www.wikidata.org/entity/Q7261619\nhttps://en.wikipedia.org/wiki/Purubora_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:koch-gruenberg:32**\n**cldf:lewis:ed:09**\n**cldf:np:16:3**\n**cldf:np:nd:264**\n**fabreall2009ann:Tupi_purubora0**\n**hh:e:Velden:Karitiana-Purubora**\n**hh:e:Velden:Puruboras**\n**hh:h:MeirellesMeirelles:Rondonia**\n**hh:ld:Monserrat:Purubora-Kujubim**\n**hh:phon:Vilacy:Purubora**\n**hh:w:Koch-Grunberg:Maue**\n**hh:w:Monserrat:Purubora**"
+  },
+  "altnames": {
+    "glottolog": "\nPurubora",
+    "multitree": "\nAurã\nBoruborá\nBurubora\nCujubi\nKuyubi\nMiguelenho\nMigueleno\nPumbora\nPuroborá\nPuruba\nPurubora\nPuruborá",
+    "lexvo": "\nPuruborá [en]",
+    "elcat": "\nAurã\nBoruborá\nBurubora\nCujubi\nKuyubi\nMiguelenho\nMigueleno\nPumbora\nPuroborá\nPuruba\nPurubora\nPuruborá"
+  },
+  "triggers": {
+    "lgcode": "\npurubora"
+  },
+  "identifier": {
+    "multitree": "pur",
+    "endangeredlanguages": "2766"
+  },
+  "classification": {
+    "sub": "**hh:hv:EriksenVilacy:Tupian**",
+    "subrefs": "\n**hh:hv:EriksenVilacy:Tupian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Puruborá (2766-pur) = Critically Endangered (80 percent certain, based on the evidence available) [n.a. 2016](cldf:np:16:3)"
+  }
+}

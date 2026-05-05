@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Luang",
+    "hid": "lex",
+    "level": "language",
+    "iso639-3": "lex",
+    "latitude": "-8.18378",
+    "longitude": "127.944",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Luang](https://endangeredlanguages.com/lang/8452)\n[Luang](https://grambank.clld.org/languages/luan1263)\n[Wetan](https://wals.info/languoid/lect/wals_code_wet)\nhttps://en.wikipedia.org/wiki/Luang_language\nhttps://www.wikidata.org/entity/Q6695015"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:94:9**\n**cldf:carpenter:96**\n**cldf:dejong:87**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:g:TaberTaber:Luang**\n**hh:h:Taber:Maluku**\n**hh:hvw:Taber:SWMaluku**\n**hh:ld:Carpenter:Wetan**\n**hh:s:Chlenova:Teun**\n**hh:s:Jonker:Lettineesche**\n**hh:st:Josselin:Wetan**\n**hh:typ:TaberTaber:Luang**\n**mpieva:Burquest19921995Descript**\n**sil16:39556**"
+  },
+  "altnames": {
+    "wals": "\nWetan",
+    "wals other": "\nLgona\nLiteri Lagona",
+    "ruhlen (1987)": "\nLetri Lgona",
+    "moseley & asher (1994)": "\nLetri Lgona",
+    "multitree": "\nLetri Lgona\nLgona\nLiteri Lagona\nLuang",
+    "lexvo": "\nLuang [en]",
+    "hhbib_lgcode": "\nLuang of Luang Timur\nLuang-Sermata\nMoa similar to Taber's Luang\nTomra (Leti)\nWetan\nWetan of Isu and Layeni on Teun",
+    "elcat": "\nLetri Lgona\nLgona\nLiteri Lagona\nLuang"
+  },
+  "triggers": {
+    "lgcode": "\nwetan\npregnant\npartially\njosselin\nluang\njongs"
+  },
+  "identifier": {
+    "wals": "wet",
+    "multitree": "lex",
+    "endangeredlanguages": "8452"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:202-247 **hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva**",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Luang (8452-lex) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

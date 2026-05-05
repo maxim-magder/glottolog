@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kashaya",
+    "hid": "kju",
+    "level": "language",
+    "iso639-3": "kju",
+    "latitude": "38.5424",
+    "longitude": "-123.08",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Kashaya](https://endangeredlanguages.com/lang/1534)\nhttps://www.wikidata.org/entity/Q3193689\nhttps://en.wikipedia.org/wiki/Kashaya_language\n[Kashaya](https://wals.info/languoid/lect/wals_code_ksh)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1025**\n**cldf:buckley:94**\n**cldf:buckley:96**\n**cldf:camacho:choueiri:etal:ed:96:1**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:56**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:hinton:munro:ed:98:8**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:oswalt:86**\n**cldf:oswalt:88**\n**cldf:oswalt:98**\n**hh:g:Oswalt:Kashaya**\n**hh:hew:Barrett:Pomo**\n**hh:hew:vonWrangellKostromitinov:NWAmerika**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:s:Buckley:Kashaya**\n**hh:t:Oswalt:Kashaya**\n**hh:typ:Gamon:Kashaya**\n**hh:typ:Olsson:Kashaya-Negation**\n**hh:typ:Olsson:Kashaya-Pomo**\n**mpieva:Buckley1994Theoreti**\n**mpieva:Oswalt1960AKashaya**"
+  },
+  "altnames": {
+    "wals": "\nKashaya",
+    "wals other": "\nKashaya (Southwestern Pomo)\nKashaya Pomo\nPomo (Kashaya)\nPomo (Southwestern)\nSouthwestern Pomo",
+    "moseley & asher (1994)": "\nKashaya",
+    "multitree": "\nKashaya\nKashayn\nKashia\nSouthwest Pomo\nSouthwestern Pomo",
+    "lexvo": "\nKashaya [en]\nKashaya language [en]",
+    "hhbib_lgcode": "\nChwachamaju\nKashaya Pomo\nSevernovskaya\nSewernowzer",
+    "elcat": "\nKashaya\nKashayn\nKashia\nSouthwest Pomo\nSouthwestern Pomo"
+  },
+  "triggers": {
+    "lgcode": "\nkashaya"
+  },
+  "identifier": {
+    "wals": "ksh",
+    "multitree": "kju",
+    "endangeredlanguages": "1534"
+  },
+  "classification": {
+    "sub": "**hh:hv:McLendon:Pomoan:2006**",
+    "subrefs": "\n**hh:hv:McLendon:Pomoan:2006**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kashaya (1534-kju) = Severely Endangered (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:264)"
+  }
+}

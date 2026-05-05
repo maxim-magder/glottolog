@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Tai Laing",
+    "hid": "tjl",
+    "level": "language",
+    "iso639-3": "tjl",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7675773\nhttps://en.wikipedia.org/wiki/Tai_Laing_language",
+    "longitude": "95.0772",
+    "latitude": "24.9041"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Edmondson:Shan**\n**hh:hvwsoc:Chantanaroj:Tai-Nua**\n**hh:phon:Owen:Tai-Laing**\n**hh:s:Marseille:Shan-Ni**\n**iso6393:2011-026**"
+  },
+  "triggers": {
+    "lgcode": "\nlaing"
+  },
+  "classification": {
+    "sub": "**hh:s:Marseille:Shan-Ni** **hh:hv:Morey:Tonal-Tai-India**",
+    "subrefs": "\n**hh:hv:Morey:Tonal-Tai-India**\n**hh:s:Marseille:Shan-Ni**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tai Laing (tjl-tjl) = 6b (Threatened)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\n24 Tai Leng\nShan-Ni\nShan-Ni (Indawgyi)\nTai Lai\nTai Lai in Hommaling\nTai Lai in Ketda\nTai Lai in Khatcho\nTai Lai in Khatcho Maungkham\nTai Lai in Ywatit\nTai Laing of Myitkina\nTai Leng"
+  }
+}

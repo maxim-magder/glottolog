@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mpama",
+    "hid": "NOCODE_Mpama",
+    "level": "language",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q16918315\nhttps://en.wikipedia.org/wiki/Mpama_language",
+    "longitude": "17.685662",
+    "latitude": "-0.739203"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:h:Sulzmann:Baboma**\n**hh:h:Windels:Mpama**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mangulu:Ngiri**\n**hh:s:Hulstaert:Mpama**"
+  },
+  "triggers": {
+    "lgcode": "\nmpama"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:185-189 **hh:hv:Bastinetal:Bantu**:205",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nC323_Mpama\nMongo n 223\nPama C30P"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E28",
+    "date": "2025-03-19T11:52:53",
+    "comment": "Mongo-Nkundu (lol-NOCODE_Mpama) = 5* (Developing)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Mpámá is a language spoken around Lukolela on the right hand side of the Congo river (**hh:s:Hulstaert:Mpama**, **hh:h:Windels:Mpama**, **hh:h:Sulzmann:Baboma**:553, **hh:h:Hulstaert:Cuvette-Congolaise**). It is counted as a Mongo-Nkundu [lol] dialect in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29, but linguistically, Mpámá is certainly not a Mongo-Nkundu dialect **hh:s:Hulstaert:Mpama**:5, and lexicostatistically too different from its closest relatives to be intelligible to any of them (**hh:hv:Bastinetal:Bantu**:205). See also: Mongo [lol].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Mpama"
+  }
+}

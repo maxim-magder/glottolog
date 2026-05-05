@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ngizim",
+    "hid": "ngi",
+    "level": "language",
+    "iso639-3": "ngi",
+    "latitude": "12.1051",
+    "longitude": "11.0178",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ngizim](https://endangeredlanguages.com/lang/10439)\n[Ngizim](https://lexibank.clld.org/languages/kraftchadic-Ngizim)\n[Ngizim](https://lexibank.clld.org/languages/polyglottaafricana-Ngizim)\n[Ngizim](https://wals.info/languoid/lect/wals_code_ngz)\nhttps://en.wikipedia.org/wiki/Ngizim_language\nhttps://phoible.org/languages/ngiz1242\nhttps://www.wikidata.org/entity/Q3914924"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:12:1**\n**cldf:bonne:boling:etal:99**\n**cldf:frawley:ed:03**\n**cldf:meek:31:2**\n**cldf:schuh:05:2**\n**cldf:schuh:09**\n**cldf:schuh:71**\n**cldf:schuh:78:1**\n**eballiso2009:18042**\n**eballiso2009:33460**\n**eballiso2009:45474**\n**eballiso2009:49939**\n**eballiso2009:53249**\n**hh:d:Beduetal:Ngizim**\n**hh:d:Schuh:Ngizim**\n**hh:d:Schuh:Ngizim:1981**\n**hh:g:Schuh:Ngizim**\n**hh:h:Schuh:Potiskum**\n**hh:hew:Meek:Tribal:II**\n**hh:hv:Ibrizimowetal:Linguistic-Environment**\n**hh:hv:Schuh:Bode-Polyglotta**\n**hh:hv:Schuh:Dialect-Bade**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Kraft:Chadic:I**\n**hh:typ:Schuh:Bade-Ngizim**\n**ldh:item_403545**\n**mpieva:1989Currentp**\n**mpieva:Umenjoh1997Reduplic**\n**sil16:29264**"
+  },
+  "altnames": {
+    "wals": "\nNgizim",
+    "ruhlen (1987)": "\nNgizim",
+    "moseley & asher (1994)": "\nNgizim",
+    "multitree": "\nNgezzim\nNgizim\nNgizmawa",
+    "lexvo": "\nNgizim [en]\nNgizim language [en]",
+    "hhbib_lgcode": "\nBode-Ngodsin\nDgodjin\nMengum\nNgie",
+    "elcat": "\nNgezzim\nNgizim\nNgizimanci\nNgizmawa\nNgo:djin\nNgojin"
+  },
+  "triggers": {
+    "lgcode": "\nngizim\nboulder\npotiskum"
+  },
+  "identifier": {
+    "wals": "ngz",
+    "multitree": "ngi",
+    "endangeredlanguages": "10439"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schuh:Shira**",
+    "subrefs": "\n**hh:hvw:Schuh:Shira**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ngizim (10439-ngi) = Vulnerable (20 percent certain, based on the evidence available) [Schuh 2009](cldf:schuh:09)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bonan",
+    "hid": "peh",
+    "level": "language",
+    "iso639-3": "peh",
+    "latitude": "35.515",
+    "longitude": "102.01778",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Bao'an](https://wals.info/languoid/lect/wals_code_bao)\n[Bonan](https://grambank.clld.org/languages/bona1250)\n[Gansu Bonan](https://endangeredlanguages.com/lang/8198)\n[Qinghai Bonan](https://endangeredlanguages.com/lang/8199)\nhttps://en.wikipedia.org/wiki/Bonan_language\nhttps://phoible.org/languages/bona1250\nhttps://www.wikidata.org/entity/Q32983"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alpatov:ed:97:1**\n**cldf:mo:chao:etal:10**\n**cldf:mo:mochaozhangjianjun:08**\n**cldf:roche:suzuki:17**\n**cldf:todaeva:97:3**\n**cldf:wu:03**\n**elpub:ldd53**\n**hh:d:Chen:Baonan**\n**hh:d:LiDwyer:Eastern-Bonan**\n**hh:d:Ma:Bonan**\n**hh:g:Fried:Baoan-Tu**\n**hh:g:Li:Baoan**\n**hh:g:Todaeva:Baoanskij**\n**hh:hld:Li:Western-China**\n**hh:hs:Todaeva:Mongolskie**\n**hh:hv:Nugteren:Qinghai-Gansu**\n**hh:s:Hugjiltu:Bonan**\n**hh:s:Liu:Baoan**\n**hh:s:Todaeva:Baoanskij**\n**hh:typ:HeChen:Tongren-Baoan**\n**mpieva:2003TheMongo**\n**mpieva:Buh1982Baoanyuj**"
+  },
+  "altnames": {
+    "wals": "\nBaonan",
+    "ruhlen (1987)": "\nBao-an",
+    "moseley & asher (1994)": "\nPao-an",
+    "multitree": "\nBao'an\nBaoan\nBaonan\nBoan\nBonan\nPao-an\nPaoan\nPaongan",
+    "lexvo": "\nBonan [en]\nBonan language [en]\nБаоаньский язык [ru]\nБонански јазик [mk]\n保安语 [zh]",
+    "hhbib_lgcode": "\nBao'an\nBaoan\nBaonan\nGansu Bao'an\nTongren Bao'an",
+    "elcat": "\nBao'an Tu\nBaongan\nBuddhist Bonan\nDordo\nGansu Bonan\nIslamic Bonan\nMoslem Bonan\nQinghai Bonan\nmistakenly also: Tu, Monguour\n甘肅保安語\n積石山保安語\n青海保安語"
+  },
+  "triggers": {
+    "lgcode": "\nbonan\nbaoanskij\nbaoan"
+  },
+  "identifier": {
+    "wals": "bao",
+    "multitree": "peh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nugteren:Qinghai-Gansu**",
+    "subrefs": "\n**hh:hv:Nugteren:Qinghai-Gansu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Gansu Bonan (8198-peh) = Threatened (40 percent certain, based on the evidence available) [Hugjiltu 2003](cldf:hugjiltu:03)"
+  }
+}

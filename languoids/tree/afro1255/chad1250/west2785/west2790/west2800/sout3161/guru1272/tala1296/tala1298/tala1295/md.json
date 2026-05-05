@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tala",
+    "hid": "tak",
+    "level": "language",
+    "iso639-3": "tak",
+    "latitude": "10.233",
+    "longitude": "9.85457",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Tala](https://endangeredlanguages.com/lang/1021)\nhttps://www.wikidata.org/entity/Q3914494\nhttps://en.wikipedia.org/wiki/Tala_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Shimizu:SBauchi**\n**hh:wsoc:Decker:South-Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nGurdu-mbaaru\nGurdung\nGuruntum\nGuruntum-Mbaaru\nTala",
+    "lexvo": "\nTala [en]",
+    "hhbib_lgcode": "\nLungu",
+    "elcat": "\nTala"
+  },
+  "identifier": {
+    "multitree": "tak",
+    "endangeredlanguages": "1021"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Decker:South-Bauchi**:27",
+    "subrefs": "\n**hh:wsoc:Decker:South-Bauchi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tala (1021-tak) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

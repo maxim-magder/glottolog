@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mann",
+    "hid": "mev",
+    "level": "language",
+    "iso639-3": "mev",
+    "latitude": "7.04616",
+    "longitude": "-8.86405",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GN",
+      "LR"
+    ],
+    "links": "\n[Mann](https://grambank.clld.org/languages/mann1248)\n[Mano](https://wals.info/languoid/lect/wals_code_man)\n[Mano (Mann)](https://lexibank.clld.org/languages/polyglottaafricana-ManoMann)\nhttps://en.wikipedia.org/wiki/Mano_language\nhttps://phoible.org/languages/mann1248\nhttps://www.wikidata.org/entity/Q3913286"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4313**\n**cldf:bybee:perkins:etal:94**\n**eballiso2009:11152**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:37157**\n**eballiso2009:4664**\n**eballiso2009:5519**\n**eballiso2009:57453**\n**eballiso2009:59371**\n**hh:dial:Khachaturyan:Mano**\n**hh:e:Zetterstrom:Mano**\n**hh:g:Becker-Donner:Mano**\n**hh:g:Khachaturyan:Mano**\n**hh:g:Khachaturyan:Mano:2015**\n**hh:g:deZeeuwKruah:Mano**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Germain:Guinee**\n**hh:he:Schwab:Mano**\n**hh:hv:TuckerBryan:ESection**\n**hh:hvw:Vydrine:Mande**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Khachaturyan:Mano**\n**hh:s:Khachaturyan:Mano:2017**\n**hh:s:Prost:Mana-Busa**\n**hh:s:Schwab:Mano**\n**hh:sd:Khachaturyan:Mano**\n**hh:w:BonimyYamakoshi:Manon**\n**hh:w:Prost:Mana-Busa-Vocabulaires**\n**iso6393:2012-084**"
+  },
+  "altnames": {
+    "wals": "\nMano",
+    "wals other": "\nMaa\nMawe",
+    "ruhlen (1987)": "\nMano",
+    "moseley & asher (1994)": "\nMano",
+    "multitree": "\nMaa\nMah\nMann\nMano\nManö\nMawe",
+    "lexvo": "\nMann [en]",
+    "hhbib_lgcode": "\nMana\nMano\nMano Mann\nMano/Mana\nManon"
+  },
+  "triggers": {
+    "lgcode": "\nmano\nmanon\nmaawe\ncourantes"
+  },
+  "identifier": {
+    "wals": "man",
+    "multitree": "mano;mev"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dwyer:Mande:1989** **hh:hv:Dwyer:Mande**",
+    "subrefs": "\n**hh:hv:Dwyer:Mande:1989**\n**hh:hv:Dwyer:Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maan (mev-mev) = 5* (Developing)."
+  }
+}

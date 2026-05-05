@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Toro So Dogon",
+    "hid": "dts",
+    "level": "language",
+    "iso639-3": "dts",
+    "latitude": "14.40749",
+    "longitude": "-3.10006",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Toro So](https://wals.info/languoid/lect/wals_code_dts)\nhttps://phoible.org/languages/toro1252\nhttps://www.wikidata.org/entity/Q11003311"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:390**\n**cldf:bendor-samuel:olsen:etal:89**\n**eballiso2009:2136**\n**eballiso2009:23023**\n**eballiso2009:23025**\n**eballiso2009:23026**\n**eballiso2009:4141**\n**hh:d:Calame-Griaule:Dogon**\n**hh:e:DieterlenCalame-Griaule:Dogon**\n**hh:g:Calame-Griaule:Dogon**\n**hh:g:Heath:Yorno-So**\n**hh:hew:Arnaud:Habe**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:s:Hantgan:Toro-So**\n**hh:s:Leiris:Dogons**\n**sil16:22861**\n**sil16:45051**"
+  },
+  "altnames": {
+    "wals": "\nDogon (Toro So)",
+    "wals other": "\nDogon\nToro So dialect",
+    "ruhlen (1987)": "\nDogon",
+    "moseley & asher (1994)": "\nDogon",
+    "multitree": "\nBomu Tegu\nDogon (Toro So)\nDogon, Toro So\nDogoso\nToro So",
+    "lexvo": "\nToro So Dogon [en]",
+    "hhbib_lgcode": "\nDogo So\nDogon\nDogon-Toro So\nIbi-So\nIreli\nPresumably Toro So\nSanga\nSanga is Dogon-Toro So\nSangha\nSàga\nToro Soo\nToro-So\nYorno-So"
+  },
+  "triggers": {
+    "lgcode": "\nibi\ntoroso\nto{ro{\nyorno"
+  },
+  "identifier": {
+    "wals": "genus/dogon",
+    "multitree": "dts"
+  },
+  "classification": {
+    "sub": "**hh:hw:Hochstetler:Dogon**, **hh:hv:HeathProkhorov:Dogon** **hh:hv:MoranProkic:Dogon**",
+    "subrefs": "\n**hh:hw:Hochstetler:Dogon**\n**hh:hv:HeathProkhorov:Dogon**\n**hh:hv:MoranProkic:Dogon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dogon, Toro So (dts-dts) = 4 (Educational). Recognized language (1982, Decree No. 159 of 19 July, Article 1)."
+  }
+}

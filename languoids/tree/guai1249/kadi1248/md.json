@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kadiwéu",
+    "hid": "kbc",
+    "level": "language",
+    "iso639-3": "kbc",
+    "latitude": "-19.7222",
+    "longitude": "-57.582",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kadiwéu](https://endangeredlanguages.com/lang/3150)\n[Kadiwéu](https://wals.info/languoid/lect/wals_code_kdw)\nhttps://en.wikipedia.org/wiki/Kadiw%C3%A9u_language\nhttps://phoible.org/languages/kadi1248\nhttps://www.wikidata.org/entity/Q18168288"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:nevins:sandalo:66**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Buckwalter:Guaycuru**\n**hh:d:Griffiths:Kadiweu**\n**hh:e:Hanke:Cadivens-Terenos**\n**hh:e:Ribeiro:Kadiweu**\n**hh:e:Rivasseau:Guaycurus**\n**hh:ew:Boggiani:Caduvei**\n**hh:ew:Boggiani:Guaicuru**\n**hh:g:GriffithsGriffiths:Kadiweu**\n**hh:g:Sandalo:Kadiweu**\n**hh:g:Sandalo:Kadiweu:1995**\n**hh:g:Susnik:Mbaya**\n**hh:h:Balzan:Centrale-America-Meriodionale**\n**hh:hb:Mitre:Catalogo**\n**hh:he:Kersten:Chaco:1968**\n**hh:he:deAzara:Paraguay**\n**hh:hew:Pena:Chaco**\n**hh:ht:Hervas:Saggio**\n**hh:ht:Marietti:CCL**\n**hh:hvs:Adam:Guaicuru**\n**hh:hvw:Hervas:Poligloto**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Martius:Brasiliens**\n**hh:ld:Boggiani:Caduveos**\n**hh:s:Braggio:Kadiweu**\n**hh:s:Lafone:Mbaya**\n**hh:soc:deSouza:Kadiweu**\n**hh:typ:Ringmacher:Mbaya**\n**hh:w:Loukotka:Inedits**\n**hh:w:Loukotka:Kaduveo**\n**hh:w:Loukotka:Poco**\n**hh:w:daFonseca:Redor:I:1880**\n**mpieva:Griffiths1991WHmoveme**\n**sil16:10853**\n**sil16:31665**"
+  },
+  "altnames": {
+    "glottolog": "\nKadiweu",
+    "wals": "\nKadiwéu",
+    "ruhlen (1987)": "\nKadiwéu",
+    "moseley & asher (1994)": "\nKadiweu",
+    "multitree": "\nCaduveo\nEdiu-Adig\nGuaicuru\nGuaicurú\nKadiwéu\nMbaya\nMbaya-Guaikuru\nMbayá\nMbayá-Guaycuru",
+    "lexvo": "\nCadiueus [pt]\nCaduveo [hr]\nKadiweu language [en]\nKadiwéu [en]\nKaduvėjai [lt]",
+    "hhbib_lgcode": "\nBeakeo (Guaycuruan)\nCadivens\nGuaycurú\nGuaycurú-Mbayá\nGuaycurûs\nKaduveio\nKaduweu\nMbaice\nMbaya\nMbayá\nMbayás\nQuiniquinaus (Note: these are loans from Kadiweu see de Souza 2008)",
+    "elcat": "\nCaduveo\nEdiu-Adig\nGuaicuru\nGuaicurú\nKadiwéu\nMbaya\nMbaya-Guaikuru\nMbayá\nMbayá-Guaycuru"
+  },
+  "triggers": {
+    "lgcode": "\nNOT social AND kadiweu\nkadiweu\nkaduveo\ncaduveos\nreducidos\nsueltos\neyiguayegi\nmbaya"
+  },
+  "identifier": {
+    "wals": "kdw",
+    "multitree": "kbc",
+    "endangeredlanguages": "3150"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Reconstruccion:2013**",
+    "subrefs": "\n**hh:hv:ViegasBarros:Guaicuru-Reconstruccion:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kadiwéu (3150-kbc) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

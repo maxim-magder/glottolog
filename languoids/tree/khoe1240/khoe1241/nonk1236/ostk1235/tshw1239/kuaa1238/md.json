@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Southern Tshwa",
+    "hid": "tyu",
+    "level": "language",
+    "iso639-3": "tyu",
+    "latitude": "-22.0237",
+    "longitude": "26.0158",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3832933"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hitchcock:90**\n**cldf:hitchcock:ebert:89**\n**cldf:kent:ed:89**\n**cldf:tobias:62**\n**cldf:wyndham:morrison:58**\n**hh:e:Hitchcock:Tyua**\n**hh:e:Vierich:Kua**\n**hh:e:VierichHitchcock:Kua**\n**hh:ew:Passarge:Kalahari**\n**hh:hvphon:Vossen:Khoe**\n**hh:hvw:Bleek:Bushman**\n**hh:ld:Chebanne:Kua**\n**hh:phon:Chebanne:Cuaa**\n**hh:phon:Mathes:Tsua**\n**hh:s:Collins:Cua**\n**hh:s:Collins:Kuasi**\n**hh:s:Vossen:Tshwa**\n**hh:soc:Chebanne:Eastern-Kalahari-Khoe**\n**hh:typ:Storment:Tshila**\n**hh:v:Batchelder:Tshila**\n**hh:w:Norton:South-West-Protectorate**"
+  },
+  "altnames": {
+    "multitree": "\nCua\nKua\nMacua\nTyhua\nTyua",
+    "lexvo": "\nKua [en]",
+    "hhbib_lgcode": "\nCIa Sehura\nCua\nCuaa\nKua\nKua-Tsua\nKuasi\nSesarwa of Molepolole\nSsehura\nTshila\nTsua",
+    "glottolog": "\nKua"
+  },
+  "triggers": {
+    "lgcode": "\ntshwa\nsoutheastern AND kua"
+  },
+  "identifier": {
+    "multitree": "tyu"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Vossen:Khoe**",
+    "subrefs": "\n**hh:hvphon:Vossen:Khoe**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Kua (1419-tyu) = Definitely endangered"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ewage-Notu",
+    "hid": "nou",
+    "level": "language",
+    "iso639-3": "nou",
+    "latitude": "-8.68756",
+    "longitude": "148.405",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ewage-Notu](https://lexibank.clld.org/languages/transnewguineaorg-ewage-notu)\nhttps://en.wikipedia.org/wiki/Ewage_language\nhttps://www.wikidata.org/entity/Q5418860"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Dutton:SEPapua**\n**hh:hv:Dutton:SETNG**\n**hh:hv:Wilson:Binandere**\n**hh:s:ParringtonParrington:Notu-Ewage**\n**hh:typ:ParringtonParrington:Notu-Ewage**\n**hh:w:Strong:North-Eastern-Divisions**\n**silpng:silpng1956-1990:1345**"
+  },
+  "altnames": {
+    "multitree": "\nEwage\nEwage-Notu\nNotu\nYega",
+    "lexvo": "\nEwage-Notu [en]",
+    "hhbib_lgcode": "\nNotu\nNotu-Ewage\nOkeina\nYega\nYega-Okeina"
+  },
+  "triggers": {
+    "lgcode": "\nnotu\ntestatment\newage"
+  },
+  "identifier": {
+    "multitree": "nou"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smallhorn:Binanderean**",
+    "subrefs": "\n**hh:hv:Smallhorn:Binanderean**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ewage-Notu (nou-nou) = 5* (Developing)."
+  }
+}

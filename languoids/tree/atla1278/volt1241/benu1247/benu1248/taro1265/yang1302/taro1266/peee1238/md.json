@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pye",
+    "hid": "pai",
+    "level": "language",
+    "iso639-3": "pai",
+    "latitude": "9.27191",
+    "longitude": "9.56437",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914871\nhttps://en.wikipedia.org/wiki/Pe_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Ames:Plateau**\n**hh:hv:Blench:Tarok**\n**hh:hvw:Blench:Tarokoid**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:w:Armstrong:West-African**\n**hh:w:Blench:Pe**\n**hh:w:Blench:Pe:2023**\n**hh:wsoc:Decker:Pye**"
+  },
+  "altnames": {
+    "multitree": "\nDalong\nPai\nPe",
+    "lexvo": "\nPe [en]",
+    "hhbib_lgcode": "\nPai\nPai/Dalong\nPe\nPye of Dok",
+    "glottolog": "\nPe"
+  },
+  "triggers": {
+    "lgcode": "\npe AND tarokoid%20page"
+  },
+  "identifier": {
+    "multitree": "pai"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:17-18 **hh:hvw:Blench:Tarokoid**",
+    "subrefs": "\n**hh:hvw:Blench:Tarokoid**\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pye (pai-pai) = 6b (Threatened)."
+  }
+}

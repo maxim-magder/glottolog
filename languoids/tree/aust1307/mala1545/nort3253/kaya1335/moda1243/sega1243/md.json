@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Segai",
+    "hid": "sge",
+    "level": "language",
+    "iso639-3": "sge",
+    "latitude": "1.97695",
+    "longitude": "116.954",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7446180\nhttps://en.wikipedia.org/wiki/Segai_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Guerreiro:Kelai**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Guerreiro:CBornean**\n**hh:hvw:Smith:Borneo**\n**hh:hvw:Smith:Segai-Modang**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nSegai",
+    "lexvo": "\nSegai [en]",
+    "hhbib_lgcode": "\nGa'ay\nGaai\nKelai who are ethnographically Punan Aput but speak Segai\nMengga'ay Long La'ay\nSegayi"
+  },
+  "triggers": {
+    "lgcode": "\nkelai"
+  },
+  "identifier": {
+    "multitree": "sge"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Kenyah-Kayanic** **hh:hvw:Smith:Borneo**:72-82 **hh:hvw:Smith:Segai-Modang**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hvw:Smith:Segai-Modang**\n**hh:hvw:Smith:Kenyah-Kayanic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Segai (sge-sge) = 6b* (Threatened)."
+  }
+}

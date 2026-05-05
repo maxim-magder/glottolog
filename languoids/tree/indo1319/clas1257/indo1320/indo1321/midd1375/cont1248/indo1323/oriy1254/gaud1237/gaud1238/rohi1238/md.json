@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Rohingya",
+    "hid": "rhg",
+    "level": "language",
+    "iso639-3": "rhg",
+    "latitude": "20.833082",
+    "longitude": "92.393968",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "MM",
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3241177\nhttps://en.wikipedia.org/wiki/Rohingya_language"
+  },
+  "classification": {
+    "sub": "**hh:e:Yegar:Rohingya**",
+    "subrefs": "\n**hh:e:Yegar:Rohingya**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Dovert:Rohingya**\n**hh:e:Yegar:Rohingya**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:ld:Basu:Rohingya**\n**hh:w:Buchanan:Burma**\n**hh:w:William:Rohingya**\n**iso6393:2006-048**"
+  },
+  "altnames": {
+    "multitree": "\nAkyab\nArakan\nRohinga\nRohingya\nRohinja",
+    "lexvo": "\nRohingya [en]\nRohingya language [en]\nภาษาโรฮิงยา [th]",
+    "hhbib_lgcode": "\nRooinga"
+  },
+  "triggers": {
+    "lgcode": "\nmuslims\nzuban\nvon AND chittagong\nrohingyalish\nruaingya\nrohingya"
+  },
+  "identifier": {
+    "multitree": "rhg"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rohingya (rhg-rhg) = 6a (Vigorous)."
+  }
+}

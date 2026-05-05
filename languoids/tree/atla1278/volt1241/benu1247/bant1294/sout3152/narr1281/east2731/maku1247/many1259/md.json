@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Manyawa",
+    "hid": "mny",
+    "level": "language",
+    "iso639-3": "mny",
+    "latitude": "-16.4963",
+    "longitude": "36.8459",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11002622"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:47880**\n**eballiso2009:7658**\n**eballiso2009:8170**\n**eballiso2009:8327**\n**hh:hsoc:ShrumShrum:Western-Zambezia**\n**hh:wsoc:Reiman:Lolo**\n**sil16:43252**\n**sil16:44985**"
+  },
+  "altnames": {
+    "multitree": "\nManyawa\nMozambique",
+    "lexvo": "\nManyawa [en]",
+    "hhbib_lgcode": "\nManyawa Munguluni"
+  },
+  "triggers": {
+    "lgcode": "\ncirima\nchirima\nmarenje\nalolo"
+  },
+  "identifier": {
+    "multitree": "mny"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:EBantu**",
+    "subrefs": "\n**hh:hv:Nurse:EBantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Manyawa (mny-mny) = 6a (Vigorous)."
+  }
+}

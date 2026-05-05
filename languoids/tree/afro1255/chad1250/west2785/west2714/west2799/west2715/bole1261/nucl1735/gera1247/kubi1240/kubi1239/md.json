@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kubi",
+    "hid": "kof",
+    "level": "language",
+    "iso639-3": "kof",
+    "latitude": "10.6274",
+    "longitude": "10.2746",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kubi](https://endangeredlanguages.com/lang/5021)\nhttps://www.wikidata.org/entity/Q3438718\nhttps://en.wikipedia.org/wiki/Kubi_language",
+    "timespan": "1940-01-01/1940-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:paul:etal:ed:15**\n**hh:h:Schuh:Bole-Tangale:Introduction**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:w:Gowers:Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nBe\nDenawa\nDeno\nDenwa\nKuba\nKubawa\nKubi",
+    "lexvo": "\nKubi [en]\nKubi language [en]",
+    "hhbib_lgcode": "\nKobi\nKubawa",
+    "elcat": "\nBe\nDenawa\nDeno\nDenwa\nKuba\nKubawa\nKubi"
+  },
+  "identifier": {
+    "multitree": "kof",
+    "endangeredlanguages": "5021"
+  },
+  "classification": {
+    "sub": "**hh:h:Schuh:Bole-Tangale:Introduction**",
+    "subrefs": "\n**hh:h:Schuh:Bole-Tangale:Introduction**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kubi (5021-kof) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

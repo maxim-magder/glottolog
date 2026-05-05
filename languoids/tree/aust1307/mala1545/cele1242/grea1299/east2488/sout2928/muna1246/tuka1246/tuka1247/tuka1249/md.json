@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tukang Besi South",
+    "hid": "bhq",
+    "level": "language",
+    "iso639-3": "bhq",
+    "latitude": "-5.7478",
+    "longitude": "123.948",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12643975"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:donohue:01:2**\n**hh:hvld:AdrianiKruyt:Celebes**\n**hh:hvw:Donohue:Tukang-Besi**\n**hh:s:Manyambeangetal:Binongko**\n**hh:s:Usmar:Binongko:1991**"
+  },
+  "altnames": {
+    "multitree": "\nButon\nTukang Besi\nTukang Besi South\nTukang-Besi\nWakatobi",
+    "lexvo": "\nTukang Besi South [en]",
+    "hhbib_lgcode": "\nBinongko"
+  },
+  "triggers": {
+    "lgcode": "\nbinongko\ntukang"
+  },
+  "identifier": {
+    "multitree": "bhq"
+  },
+  "classification": {
+    "sub": "**hh:hv:vandenBerg:Muna-Buton:2003** **hh:hv:Donohue:Muna-Buton**",
+    "subrefs": "\n**hh:hv:vandenBerg:Muna-Buton:2003**\n**hh:hv:Donohue:Muna-Buton**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tukang Besi South (bhq-bhq) = 6a (Vigorous)."
+  }
+}

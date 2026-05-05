@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Norwegian Sign Language",
+    "hid": "nsl",
+    "level": "language",
+    "iso639-3": "nsl",
+    "latitude": "60.7733",
+    "longitude": "10.242",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NO"
+    ],
+    "links": "\n[Norwegian Sign Language](https://endangeredlanguages.com/lang/7357)\nhttps://www.wikidata.org/entity/Q1781613\nhttps://en.wikipedia.org/wiki/Norwegian_Sign_Language\n[Norsk Tegnspråk](https://wals.info/languoid/lect/wals_code_nte)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:vogt-svendsen:90**\n**hh:h:BergmanEngberg:Sign-Nordic**\n**hh:h:Schroder:Norwegian-Sign**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**\n**hh:h:Willoughby:Tactile-Sign**\n**hh:hld:Wilkinson:Signed**\n**hh:s:Greftegreff:Norwegian-Sign**\n**hh:typ:Amundsen:Norsk-Tegnspraak**\n**hh:typ:Bo:Norwegian-Sign**\n**hh:typ:Erlenkamp:Norsk-Tegnsprak**\n**hh:typ:Greftegreff:Norwegian-Sign**\n**hh:typ:Halvorsen:Norsk-Tegnspraak**\n**hh:typ:Selvik:Norwegian-Sign**\n**hh:typ:Slowikowska:Norsk-Tegnspraak**\n**hh:typ:Vogt-Svendsen:Norsk-Tegnspraak**\n**hh:vld:Minoura:Norwegian-Malagasy-Sign**"
+  },
+  "altnames": {
+    "wals": "\nNorsk Tegnspråk",
+    "multitree": "\nNorwegian Sign Language",
+    "lexvo": "\nNorsk tegnspråk [no]\nNorskt teckenspråk [sv]\nNorwegian Sign Language [en]",
+    "elcat": "\nNorwegian Sign Language",
+    "hhbib_lgcode": "\nTactile Norwegian Sign Language (e.g. Berge & Raanes  2013; Mesch & Raanes & Ferrara 2015; Raanes 2011; Raanes & Berge 2017)"
+  },
+  "identifier": {
+    "wals": "nte",
+    "multitree": "nsl",
+    "endangeredlanguages": "7357"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Norwegian Sign Language (7357-nsl) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "Danish Sign Language [dani1246], Icelandic Sign Language [icel1236] and Norwegian Sign Language [norw1255] are lexically and historically related (**hh:h:Thorvaldsdottir:Sign-Scandinavia**, **hh:h:Schroder:Norwegian-Sign**). Historical and some meagre lexical evidence suggests that Madagascar Sign Language [mada1271] derives from a Norwegian Sign Language introduced in the 1960s (**hh:vld:Minoura:Norwegian-Malagasy-Sign**). The Danish-Icelandic subgroup can be established on lexical comparison (63%, **hh:hv:AlderssonMcEntee:Icelandic-Danish**) and historical evidence (**hh:h:Thorvaldsdottir:Sign-Scandinavia**):812.",
+    "subrefs": "\n**hh:hv:AlderssonMcEntee:Icelandic-Danish**\n**hh:h:Schroder:Norwegian-Sign**\n**hh:vld:Minoura:Norwegian-Malagasy-Sign**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**"
+  }
+}

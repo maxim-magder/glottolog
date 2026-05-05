@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tai Pao",
+    "hid": "tpo",
+    "level": "language",
+    "iso639-3": "tpo",
+    "latitude": "18.5562",
+    "longitude": "104.658",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Louppe:Muongs-Cua-Rao**\n**hh:e:Ovesen:Central-Laos**\n**hh:h:Schliesinger:Laos**\n**hh:he:Schliesinger:Austro-Thai**\n**hh:hv:Chamberlain:Tai-Khammouan**\n**hh:phon:Ferlus:Tai-Nghe-An**\n**iso6393:2015-018**"
+  },
+  "altnames": {
+    "multitree": "\nT'ien-pao\nTai Pao\nTien-pao",
+    "lexvo": "\nTai Pao [en]",
+    "hhbib_lgcode": "\nTai Hang Tong\nTai Hang Tong-Pao\nTay Muong"
+  },
+  "identifier": {
+    "multitree": "tpo"
+  },
+  "classification": {
+    "subrefs": "\n**hh:hv:Chamberlain:Tai**",
+    "sub": "**hh:hv:Chamberlain:Tai**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has a separate entry Tai Pao [tpo] in Laos. But this language is the same as that of the Tai Hang Tong [thc] in Vietnam,\nalso named Tai Muong (**hh:e:Louppe:Muongs-Cua-Rao**, **hh:phon:Ferlus:Tai-Nghe-An**). See also: Tai Pao [thc].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "tpo"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tai Pao (tpo-tpo) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Southeastern Tepehuan",
+    "hid": "stp",
+    "level": "language",
+    "iso639-3": "stp",
+    "latitude": "23.1584",
+    "longitude": "-103.983",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Southeastern Tepehuan](https://grambank.clld.org/languages/sout2976)\n[Southeastern Tepehuan](https://lexibank.clld.org/languages/utoaztecan-SoutheasternTepehuan)\n[Tepehuan (Southeastern)](https://wals.info/languoid/lect/wals_code_tps)\nhttps://www.wikidata.org/entity/Q12953917"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:willett:79**\n**cldf:willett:82**\n**hh:d:Solisetal:Tepehuano**\n**hh:g:Willett:Tepehuan**\n**hh:g:Willett:Tepehuan:1988**\n**hh:phon:Taboada:Tepehuano**\n**hh:s:Garcia:Tepehuano-Suroeste**\n**hh:s:Kim:Southeastern-Tepehuan**\n**hh:s:Willett:SETepehuan**\n**hh:soc:Torres:Tepehuano**\n**hh:styp:Salido:Southeastern-Tepehuan**\n**hh:typ:Garcia:Tepehuano-Sur**\n**ldh:item_401937**\n**sil16:19052**\n**sil16:19053**\n**sil16:21392**\n**sil16:21863**\n**sil16:21864**\n**sil16:21865**\n**sil16:21868**\n**sil16:21869**\n**sil16:21870**\n**sil16:21871**\n**sil16:34098**\n**sil16:35386**\n**sil16:37016**\n**sil16:40834**\n**sil16:43669**\n**sil16:45692**\n**sil16:47751**\n**sil16:48694**"
+  },
+  "altnames": {
+    "wals": "\nTepehuan (Southeastern)",
+    "wals other": "\nSE Tepehuan\nSoutheast Tepehuan\nSoutheastern Tepehuan\nTepehuan (Southeast)",
+    "ruhlen (1987)": "\nTepahue (Southeastern)",
+    "multitree": "\nSouth Tepehuane\nSouth-east Tepewan\nSouthern Tepehuan\nSouthern Tepewan\nTepeguana\nTepehuan (Southeastern)\nTepehuan, Southeastern\nTepehuano\nTepehuán (Sureste)\nTepehuán del Sureste\nTepiman",
+    "lexvo": "\nSoutheastern Tepehuan [en]\nTepehuan du Sud-Est [fr]\nTepehuán language [en]\nTepewan simi [qu]",
+    "hhbib_lgcode": "\nTepehuan-Southeastern\nTepehuano del Sur de Santa María de Ocotán"
+  },
+  "triggers": {
+    "lgcode": "\nsoutheastern AND tepehuan\nocotan\ntepehuano"
+  },
+  "identifier": {
+    "wals": "tps",
+    "multitree": "stp",
+    "endangeredlanguages": "10844"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Southern Tepehuán (10844-stp) = Threatened (100 percent certain, based on the evidence available) (The Southeastern variety is used in rural schools, church, parties, and at home. Central Tepehuan is not spoken by young people in school or at medical clinics, and Spanish is used bilingually at schools, jobs, markets, and in the city. Those who travel for work or move away permanently significantly decrease their use and transmission of Southern Tepehuan.) ['bib2525']"
+  }
+}

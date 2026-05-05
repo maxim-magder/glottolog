@@ -1,0 +1,22 @@
+{
+  "core": {
+    "name": "Arakanese",
+    "level": "language",
+    "iso639-3": "mhv",
+    "hid": "mhv",
+    "links": ""
+  },
+  "iso_retirement": {
+    "comment": "Based on word lists recently elicited, lexical similarity percentages between\nMarma and Rakhine are 62-68%. Intelligibility testing was also done by playing a\nRakhine story among Marma mother tongue speakers in two Marma villages. The\naverage scores in the two villages were 73% and 53%, indicating insufficient\ninherent intelligibility. Also, during the course of survey fieldwork, the term\n\"Arakanese\" was not mentioned by either the Marma or the Rakhine. Rather, the\nMarma refer to themselves as Marma, and the Rakhine refer to themselves as\nRakhine.",
+    "code": "mhv",
+    "name": "Arakanese",
+    "effective": "2008-01-14",
+    "reason": "split",
+    "remedy": "Split into Marma [rmz] and Rakhine [rki]",
+    "change_request": "2007-189",
+    "change_to": "\nrmz\nrki"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-189**"
+  }
+}

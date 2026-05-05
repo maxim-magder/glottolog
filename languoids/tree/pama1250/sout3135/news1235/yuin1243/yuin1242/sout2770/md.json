@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Southern Inland Yuin",
+    "hid": "NOCODE_Southern-Inland-Yuin",
+    "level": "language",
+    "latitude": "-36.30008261",
+    "longitude": "148.7238073",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Ngarigo_language\nhttps://phoible.org/languages/sout2770\nhttps://www.wikidata.org/entity/Q7022072",
+    "timespan": "1845-01-01/1925-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Waferetal:New-South-Wales**\n**hh:hw:Eyre:Central-Australia**\n**hh:hw:Hercus:Victoria:1969**\n**hh:v:Koch:Canberra**\n**hh:w:Bulmer:Moneroo**\n**hh:w:Bulmer:Omeo**\n**hh:w:Bunce:Victoria**\n**hh:w:DuVeBulmer:Moneroo**\n**hh:w:Lhotsky:Van-Diemen**\n**hh:w:Mathews:Ngarrugu**\n**hh:w:Queanbeyan:Queanbeyan**\n**ozbib:2037**\n**ozbib:2165**\n**ozbib:2794**\n**ozbib:4730**\n**ozbib:6100**\n**ozbib:6328**\n**ozbib:6860**\n**ozbib:6958**\n**ozbib:7249**\n**ozbib:7279**"
+  },
+  "triggers": {
+    "lgcode": "\nsouthern AND inland AND yuin\nngarrugu\nqueanbeyan\nmenero\nomeo\nmoneroo"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The extinct Southern Inland Yuin language of the Yuin subgroup is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:w:DuVeBulmer:Moneroo**, **hh:w:Bulmer:Moneroo**, **hh:w:Queanbeyan:Queanbeyan**, **hh:w:Mathews:Ngarrugu**, **hh:w:Lhotsky:Van-Diemen**, **hh:v:Koch:Canberra**, **hh:w:Bunce:Victoria**, **hh:hw:Hercus:Victoria:1969**, **hh:hvw:Waferetal:New-South-Wales**, **hh:hw:Eyre:Central-Australia**, **hh:w:Bulmer:Omeo**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Southern-Inland-Yuin"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Waferetal:New-South-Wales** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hvw:Waferetal:New-South-Wales**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Southern Inland Yuin (NOCODE_Southern-Inland-Yuin-NOCODE_Southern-Inland-Yuin) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCanberra language\nJaitmathang\nMenero\nMolonglo or its vicinity\nMonaro\nMoneroo\nNgarigo\nNgarigu\nNgarrugu\nOmeo\nOmio-Snowy Mountains\nSouthern Ngarigu"
+  }
+}

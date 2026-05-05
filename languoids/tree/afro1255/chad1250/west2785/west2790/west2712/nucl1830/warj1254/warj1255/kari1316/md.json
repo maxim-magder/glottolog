@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kariya",
+    "hid": "kil",
+    "level": "language",
+    "iso639-3": "kil",
+    "latitude": "11.0119",
+    "longitude": "9.63992",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kariya](https://endangeredlanguages.com/lang/5018)\nhttps://www.wikidata.org/entity/Q3438708\nhttps://en.wikipedia.org/wiki/Kariya_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:lewis:ed:09**\n**eballiso2009:8467**\n**hh:e:Blench:Kariya**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Skinner:NBauchi**\n**hh:ve:Blench:Wiihe**\n**hh:wsoc:Decker:Bauchi-Jigawa**"
+  },
+  "altnames": {
+    "multitree": "\nKariya\nKariyu\nKauyawa\nLipkawa\nVinahe\nWihe",
+    "lexvo": "\nKariya [en]\nKariya language [en]",
+    "hhbib_lgcode": "\nKariyawa\nKauyawa\nTulu\nVinahe\nWiihe",
+    "elcat": "\nKariya\nKariyu\nKauyawa\nLipkawa\nVinahe\nWihe"
+  },
+  "triggers": {
+    "lgcode": "\nkariya\nwiih\nwuro"
+  },
+  "identifier": {
+    "multitree": "kil",
+    "endangeredlanguages": "5018"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Decker:Bauchi-Jigawa**",
+    "subrefs": "\n**hh:wsoc:Decker:Bauchi-Jigawa**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kariya (5018-kil) = Threatened (20 percent certain, based on the evidence available) [Blench 2011](cldf:blench:11:1)"
+  }
+}

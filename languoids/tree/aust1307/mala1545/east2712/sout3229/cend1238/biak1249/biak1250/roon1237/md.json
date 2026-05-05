@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Roon",
+    "hid": "rnn",
+    "level": "language",
+    "iso639-3": "rnn",
+    "latitude": "-2.43005",
+    "longitude": "134.556",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7366335\nhttps://en.wikipedia.org/wiki/Roon_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Fabritius:NNG**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:ld:Gil:Roon**\n**hh:typ:Deres:Roon**"
+  },
+  "altnames": {
+    "multitree": "\nRon\nRoon",
+    "lexvo": "\nRoon [en]",
+    "hhbib_lgcode": "\nRon\nRon (Ac)\nRón"
+  },
+  "triggers": {
+    "lgcode": "\ninheritances\nroon"
+  },
+  "identifier": {
+    "multitree": "rnn"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Anceaux:Yapen**:146",
+    "subrefs": "\n**hh:hvw:Anceaux:Yapen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Roon (rnn-rnn) = 6b* (Threatened)."
+  }
+}

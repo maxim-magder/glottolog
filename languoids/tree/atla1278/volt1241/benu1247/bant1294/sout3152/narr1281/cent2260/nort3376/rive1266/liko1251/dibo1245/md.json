@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Dibole",
+    "hid": "bvx",
+    "level": "language",
+    "iso639-3": "bvx",
+    "latitude": "1.07773",
+    "longitude": "17.2305",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG"
+    ],
+    "links": "\n[Babole](https://wals.info/languoid/lect/wals_code_bbl)\n[Dibole](https://endangeredlanguages.com/lang/525)\n[Dibole](https://grambank.clld.org/languages/dibo1245)\nhttps://en.wikipedia.org/wiki/Bole_language_(Bantu)\nhttps://phoible.org/languages/dibo1245\nhttps://www.wikidata.org/entity/Q35180"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:connell:07:1**\n**cldf:idiata-mayombo:leitch:etal:00**\n**eballiso2009:13098**\n**eballiso2009:14027**\n**eballiso2009:14602**\n**eballiso2009:31860**\n**eballiso2009:3376**\n**eballiso2009:37748**\n**hh:dialsoc:Leitch:Epena**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hvw:Klieman:WEquatorial**\n**hh:s:Leitch:Babole**\n**hh:typ:Leitch:Babole-Negation**\n**hh:typ:Leitch:Vowel-Congo-Basin**\n**hh:wdialsoc:Leitch:Epena:2004**\n**hh:wsoc:Gardner:Epena**\n**ldh:item_404989**\n**sil16:34949**\n**sil16:43930**\n**sil16:47661**"
+  },
+  "altnames": {
+    "wals": "\nBabole",
+    "wals other": "\nSouthern Bomitaba",
+    "ruhlen (1987)": "\nBabole",
+    "multitree": "\nBabole\nDibole\nSouthern Bomitaba",
+    "lexvo": "\nDibole [en]",
+    "hhbib_lgcode": "\n(disparaged as being Pygmies p 222)\n= Dibole\nBabole\nBabole 1 Dzeke C10Ba1\nBabole 2 Impfondo C10Ba2\nBabole of Dzeke\nBabole-Bakolu from Mangoumba-Baye (0.9952778N 17.0788889E) close to and very\nBakolo pygmies\nBakolu pygmies\nBotongo\nBouanila\nC101_Babole_Dz\nC101_Babole_Ep\nC101_Babole_Ma\nDzeke\nEbambe\nEdzama\nKinami\nMossengue\nMounda\nTua Yaka",
+    "elcat": "\nBabole\nDibole\nSouthern Bomitaba"
+  },
+  "triggers": {
+    "lgcode": "\ndibole\ndepena\nc101\nbabole"
+  },
+  "identifier": {
+    "wals": "bbl",
+    "multitree": "bvx",
+    "endangeredlanguages": "525"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:204-205 **hh:hvld:BouquiauxThomas:C10**",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:BouquiauxThomas:C10**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dibole (525-bvx) = Threatened (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

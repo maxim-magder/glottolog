@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sagala",
+    "hid": "sbm",
+    "level": "language",
+    "iso639-3": "sbm",
+    "latitude": "-6.98537",
+    "longitude": "36.9153",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11732610\nhttps://en.wikipedia.org/wiki/Sagara_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:12977**\n**eballiso2009:22166**\n**eballiso2009:23459**\n**eballiso2009:23463**\n**eballiso2009:25051**\n**eballiso2009:2995**\n**eballiso2009:33131**\n**eballiso2009:33180**\n**eballiso2009:3407**\n**eballiso2009:37408**\n**eballiso2009:37746**\n**eballiso2009:39811**\n**eballiso2009:39812**\n**eballiso2009:41158**\n**eballiso2009:54523**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hvw:Gonzales:Ruvu**\n**hh:hw:Stanley:Dark:II**\n**hh:phontyp:Bollaert:Sagala**"
+  },
+  "altnames": {
+    "multitree": "\nKisagala\nKisagara\nSagala\nSagara\nSouthern Kisagala",
+    "lexvo": "\nSagala [en]",
+    "hhbib_lgcode": "\nG39_Saghala\nKi-Sagara\nSagala E74B"
+  },
+  "triggers": {
+    "lgcode": "\nuseguru\nswynnerton\nruvu\nsagara\ntravers AND zanguebar"
+  },
+  "identifier": {
+    "multitree": "sbm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Gonzales:Ruvu**",
+    "subrefs": "\n**hh:hvw:Gonzales:Ruvu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sagala (sbm-sbm) = 6b* (Threatened)."
+  }
+}

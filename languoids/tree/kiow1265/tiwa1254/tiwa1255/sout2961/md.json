@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Southern Tiwa",
+    "hid": "tix",
+    "level": "language",
+    "iso639-3": "tix",
+    "latitude": "34.7873",
+    "longitude": "-106.661",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Southern Tiwa](https://endangeredlanguages.com/lang/1471)\nhttps://www.wikidata.org/entity/Q7570552\nhttps://en.wikipedia.org/wiki/Southern_Tiwa_language\nhttps://phoible.org/languages/sout2961\n[Tiwa (Southern)](https://wals.info/languoid/lect/wals_code_tws)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:allen:frantz:86**\n**cldf:allen:gradiner:etal:84**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:euler:54**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:parsons:32:1**\n**cldf:trager:43**\n**hh:e:Brandt:Sandia**\n**hh:e:Ellis:Isleta**\n**hh:e:Houser:Tigua**\n**hh:es:Brandt:Sandia-Pueblo**\n**hh:g:Leap:Isleta**\n**hh:hvw:Gatschet:SW-Amerikas**\n**hh:hvw:Gatschet:Seven-Stocks**\n**hh:t:Hiatt:Tiwa**"
+  },
+  "altnames": {
+    "wals": "\nTiwa (Southern)",
+    "wals other": "\nIsleta\nS Tiwa\nS. Tiwa\nSouthern Tiwa",
+    "ruhlen (1987)": "\nTiwa (Southern)",
+    "moseley & asher (1994)": "\nnot specified",
+    "multitree": "\nIsleta\nIsleta-Sandia\nSouthern Tiwa\nTiwa\nTiwa (Southern)\nTiwa meridional (Sandía)\nTiwa méridional (Pueblo Isleta)\nTiwa méridional (Pueblo Sandia)\nTiwa, Southern",
+    "lexvo": "\nSouthern Tiwa [en]",
+    "hhbib_lgcode": "\nIsleta\nIsleta Pueblo\nSandia Pueblo\nTigua Pueblo\nTiwa-Southern\nYsleta der Sur",
+    "elcat": "\nIsleta-Sandia\nSouthern Tiwa\nTiwa (Southern)"
+  },
+  "triggers": {
+    "lgcode": "\nisleta\nsandia"
+  },
+  "identifier": {
+    "wals": "tws",
+    "multitree": "tix",
+    "endangeredlanguages": "1471"
+  },
+  "classification": {
+    "sub": "**hh:hvbtyp:Sutton:Kiowa-Tanoan**:1173-1191",
+    "subrefs": "\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Southern Tiwa (1471-tix) = Endangered (60 percent certain, based on the evidence available) (At Sandia Pueblo,  only middle-aged and elderly people are fully fluent, although some younger people use the language and at least a few children still acquire it. In all there are about 100 speakers in a total population of about 500. At Isleta Pueblo, there are approximately 1,500 speakers in a membership of about 4,000.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

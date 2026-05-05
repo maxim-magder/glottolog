@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Gwama",
+    "hid": "kmq",
+    "level": "language",
+    "iso639-3": "kmq",
+    "latitude": "9.50836",
+    "longitude": "34.2457",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Gwama](https://grambank.clld.org/languages/kwam1249)\n[Kwama](https://endangeredlanguages.com/lang/2676)\nhttps://en.wikipedia.org/wiki/Kwama_language\nhttps://phoible.org/languages/kwam1249\nhttps://www.wikidata.org/entity/Q2591184"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**cldf:siebert:siebert:etal:02**\n**eballiso2009:32061**\n**eballiso2009:39253**\n**eballiso2009:46349**\n**hh:d:Hellenthal:Gwama**\n**hh:ew:Jamesetal:Schuver**\n**hh:ew:Schuwer:Blauwen**\n**hh:g:Andargachew:Gwama**\n**hh:hvwphon:Otero:Koman**\n**hh:hwsoc:Kuspert:Mao-Komo**\n**hh:ld:SiebertBryant:Kwama**\n**hh:phon:Andargachew:Gwama**\n**hh:phon:Teshome:Komo:2006**\n**hh:phon:Yehualashet:Kwama**\n**hh:s:GoldbergHellenthal:Gwama**\n**hh:s:KievitRobertson:Gwama**\n**hh:s:Leyew:Gwama**\n**hh:soc:Andargachew:Gwama**\n**hh:soc:Davisetal:Mao-Kwama-Komo**\n**hh:typ:Amare:Tense-Gwama**\n**hh:w:Schuver:Toumat**\n**hh:wsoc:Wedekindetal:Asosa**\n**ldh:item_406288**\n**mpieva:LeyewGwamaali**\n**sil16:42880**"
+  },
+  "altnames": {
+    "multitree": "\nAfan Mao\nAmam\nGogwama\nGoma\nGwama\nKoma of Asosa\nKwama\nMao\nNokanoka\nNorth Koma\nT'wa Kwama\nTakwama",
+    "lexvo": "\nKwama [en]",
+    "hhbib_lgcode": "\nAppendix VII: Schuver's vocabularies and ethnographic notes (.): includes \"Goma\" (Koma or Kwama)\nBegi Mao\nGoma (= Gwama)\nGwama\nHighland Gwama\nKoman Mao\nKwama\nLowland Gwama\nSit Shwala\nor Kwama)",
+    "elcat": "\nAfan Mao\nAmam\nGogwama\nGoma\nGwama\nKoma of Asosa\nKwama\nMao\nNokanoka\nNorth Koma\nQewama\nT'wa Kwama\nTakwama",
+    "glottolog": "\nKwama"
+  },
+  "triggers": {
+    "lgcode": "\nof AND gwama\nkwama\ngwama"
+  },
+  "identifier": {
+    "multitree": "kmq",
+    "endangeredlanguages": "2676"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Otero:Koman**",
+    "subrefs": "\n**hh:hvwphon:Otero:Koman**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kwama (2676-kmq) = Vulnerable (80 percent certain, based on the evidence available) (Within the family, Kwama is used primarily. As language used at home, Kwama seem sto be stable. [...]  The Kwama speakers expressed a very positive attitude towards their mother tongue, and they are convinced that their language will be used throughout generations and will not be forgotten) [Siebert et al. 2002](cldf:siebert:siebert:etal:02)"
+  }
+}

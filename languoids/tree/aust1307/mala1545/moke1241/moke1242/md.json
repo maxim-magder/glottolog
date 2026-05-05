@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Moken",
+    "hid": "mwt",
+    "level": "language",
+    "iso639-3": "mwt",
+    "latitude": "10.1474",
+    "longitude": "98.6765",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Moken](https://endangeredlanguages.com/lang/1987)\n[Moken](https://grambank.clld.org/languages/moke1242)\n[Moken](https://lexibank.clld.org/languages/blustaustronesian-moken)\nhttps://en.wikipedia.org/wiki/Moken_language\nhttps://phoible.org/languages/moke1242\nhttps://www.wikidata.org/entity/Q3217488"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:acord:09**\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:ed:10**\n**cldf:falk:13**\n**cldf:hodal:12**\n**cldf:ivanoff:92**\n**cldf:keesing:84:2**\n**cldf:lewis:ed:09**\n**cldf:maudy:13**\n**cldf:meijaard:03**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**cldf:pittayaporn:06**\n**hh:e:Ivanoff:Moken**\n**hh:e:Ivanoff:Moken-Semang**\n**hh:e:Nowak:Moken**\n**hh:e:Sorenson:Sea-Nomads**\n**hh:e:White:Mawken**\n**hh:ew:Anderson:Selungs-Mergui**\n**hh:ew:Carrapiett:Salons**\n**hh:ew:Court:Moken**\n**hh:g:Chantanakomes:Moken**\n**hh:he:Fortier:HG-Southeast-Asia**\n**hh:hv:Pittayaporn:Moken**\n**hh:hvphon:Makboon:Sea-Peoples**\n**hh:hvs:Larish:Moken-Moklen**\n**hh:hvw:Chaiyanara:Austronesia**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:ld:Larish:Moken-Moklen**\n**hh:phon:Bay:Dung-Moken**\n**hh:s:Larish:Moken**\n**hh:s:White:Mawken**\n**hh:t:Lewis:Moken**\n**hh:w:Ambler:Mawkhen**\n**sil16:41969**\n**sil16:48355**"
+  },
+  "altnames": {
+    "multitree": "\nBasing\nChau Ko'\nMawken\nMoken\nMoklen\nSalon\nSalong\nSelong\nSelung",
+    "lexvo": "\nMoken [en]",
+    "hhbib_lgcode": "\nMawkhen\nRanong\nRawai\nSalon\nVictoria Point",
+    "elcat": "\nBasing\nChau Ko'\nMawken\nMoken\nMoklen\nSalon\nSalong\nSelong\nSelung"
+  },
+  "triggers": {
+    "lgcode": "\nmergui\nmoken\nselung\nmawken"
+  },
+  "identifier": {
+    "multitree": "mwt",
+    "endangeredlanguages": "1987"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith:Western-Malayo-Polynesian**:459-460",
+    "subrefs": "\n**hh:hv:Smith:Western-Malayo-Polynesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Moken (1987-mwt) = Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

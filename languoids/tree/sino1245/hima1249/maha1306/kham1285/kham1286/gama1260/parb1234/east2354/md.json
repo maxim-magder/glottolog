@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Eastern Parbate Kham",
+    "hid": "kif",
+    "level": "language",
+    "iso639-3": "kif",
+    "latitude": "28.5259",
+    "longitude": "82.9523",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953022"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Watters:Kham**\n**iso6393:2006-077**\n**sil16:51149**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Parbate\nKham\nKham,EasternParbate\nKhamkura\nKhams\nNisel\nNishel Kham\nNisi\nNisi Kham\nParbate\nParbate, Eastern\nProto-Kham",
+    "lexvo": "\nEastern Parbate Kham [en]"
+  },
+  "triggers": {
+    "lgcode": "\nbhujel"
+  },
+  "identifier": {
+    "multitree": "kif"
+  },
+  "classification": {
+    "sub": "**hh:g:Watters:Kham**:11-14 **hh:soc:Sapkota:Magar-Kham**:86-87",
+    "subrefs": "\n**hh:soc:Sapkota:Magar-Kham**\n**hh:g:Watters:Kham**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kham, Eastern Parbate (kif-kif) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ilongot",
+    "hid": "ilk",
+    "level": "language",
+    "iso639-3": "ilk",
+    "latitude": "16.3785",
+    "longitude": "121.547",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Ilongot](https://grambank.clld.org/languages/ilon1239)\nhttps://en.wikipedia.org/wiki/Bugkalot_language\nhttps://www.wikidata.org/entity/Q3148787"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1832**\n**hh:e:Blumentritt:Cagayan**\n**hh:e:Perez:Aetas**\n**hh:h:Larena:Philippines**\n**hh:hv:Himes:Southern-Cordilleran**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:hw:Vanoverbergh:Luzon**\n**hh:s:Liao:Ilongot**\n**hh:s:Zorc:Western-Visayas**"
+  },
+  "altnames": {
+    "multitree": "\nBugkalut\nBukalot\nIlongot\nLingotes",
+    "lexvo": "\nIlongot [en]",
+    "hhbib_lgcode": "\nBogkalot\nBugkalot\nIlongo\nIlongot-Kakidugen\nIlongoten"
+  },
+  "triggers": {
+    "lgcode": "\nNOT and AND philippine AND minor\nilongot"
+  },
+  "identifier": {
+    "multitree": "ilk;ilon"
+  },
+  "classification": {
+    "sub": "**hh:hv:Himes:Southern-Cordilleran**",
+    "subrefs": "\n**hh:hv:Himes:Southern-Cordilleran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bogkalot (ilk-ilk) = 6b (Threatened)."
+  }
+}

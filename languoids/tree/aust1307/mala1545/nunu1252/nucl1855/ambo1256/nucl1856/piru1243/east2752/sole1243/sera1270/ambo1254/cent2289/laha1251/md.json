@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Laha (Indonesia)",
+    "hid": "lhh",
+    "level": "language",
+    "iso639-3": "lhh",
+    "latitude": "-3.70755",
+    "longitude": "128.073",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Laha (Indonesia)](https://endangeredlanguages.com/lang/4500)\nhttps://www.wikidata.org/entity/Q6473107\nhttps://en.wikipedia.org/wiki/Laha_language_(Indonesia)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hv:Travis:Ambon**\n**hh:hvw:Collins:CMaluku**\n**hh:v:Collins:Laha**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Ambon\nLaha",
+    "lexvo": "\nLaha (Indonesia) [en]\nLaha [en]",
+    "hhbib_lgcode": "\nLaha",
+    "elcat": "\nCentral Ambon\nLaha (Indonesia)"
+  },
+  "identifier": {
+    "multitree": "lhh",
+    "endangeredlanguages": "4500"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Laha (Indonesia) (4500-lhh) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

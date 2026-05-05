@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Seeku",
+    "hid": "sos",
+    "level": "language",
+    "iso639-3": "sos",
+    "latitude": "11.1285",
+    "longitude": "-4.58203",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36274\nhttps://en.wikipedia.org/wiki/Sembla_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4886**\n**hh:g:McPherson:Seenku**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Dittmer:Obervolta**\n**hh:hvtyp:Kastenholz:Samogo**\n**hh:hvw:Vydrine:Mande**\n**hh:hwdial:Morse:Samogo**\n**hh:phon:Congo:Sembla**\n**hh:sd:Prost:Sembla**\n**hh:typ:Idiatov:Bobo-Samogo**\n**hh:typ:McPherson:Seeku**\n**hh:typ:McPherson:Seenku**"
+  },
+  "altnames": {
+    "multitree": "\nSambla\nSamogho\nSeeku\nSembla\nSouthern Samo",
+    "lexvo": "\nSeeku [en]",
+    "hhbib_lgcode": "\nNorthern Seeku\nNorthern Seeku of Gbeneku\nSamlaba\nSeen\nSeenku\nSembla\nSembla of Bouendé\nSembla of Karangasso\nSembla of Timiku\nSouthern Seeku\nSouthern Seenku of Bouendé and surrounding villages"
+  },
+  "triggers": {
+    "lgcode": "\nseeku\nsembla"
+  },
+  "identifier": {
+    "multitree": "sos"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Kastenholz:Samogo**:92-93, 100",
+    "subrefs": "\n**hh:hvtyp:Kastenholz:Samogo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Seenku (sos-sos) = 6a (Vigorous)."
+  }
+}

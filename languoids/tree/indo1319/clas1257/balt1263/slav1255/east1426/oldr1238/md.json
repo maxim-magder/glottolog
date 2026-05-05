@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Old Russian",
+    "hid": "orv",
+    "level": "language",
+    "iso639-3": "orv",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35228\nhttps://en.wikipedia.org/wiki/Old_East_Slavic",
+    "longitude": "31.827",
+    "latitude": "54.813",
+    "timespan": "1113-01-01/1113-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Schmalstieg:Old-Russian**\n**hh:g:Zaliznyak:Drevnenovgorodskij**"
+  },
+  "altnames": {
+    "multitree": "\nOld East Slavic\nOld Russian\nVladimir-Suzdal",
+    "lexvo": "\nAltostslawische Sprache [de]\nAntica lingua slava orientale [it]\nGammeløstslavisk [no]\nJęzyk starowschodniosłowiański [pl]\nOld East Slavic [en]\nOld Russian [en]\nOudrussisch [nl]\nStara wuchodosłowjanšćina [hsb]\nStaroruski jezik [sh]\nStaroruština [cs]\nStarovzhodnoslovanščina [sl]\nStarowschodńosłowjańsko godka [szl]\nStará ruština [sk]\nVanavene keel [et]\nДавньоруська мова [uk]\nДревнерусский язык [ru]\nДрє́вл҄ьн҄ь роу́сьскъ ѩꙁꙑ́къ [cu]\nОбщоизточнославянски език [bg]\nСтаражытнаруская мова [be]\nСтароисточнословенски јазик [mk]\nСтароруски језик [sr]",
+    "hhbib_lgcode": "\nPresumably intelligible to Old Russian"
+  },
+  "triggers": {
+    "lgcode": "\ndrevnenovgorodskij"
+  },
+  "identifier": {
+    "multitree": "orv;orv-vls"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic** **hh:hv:Poljakov:Slavic**",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**\n**hh:hv:Poljakov:Slavic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Russian (orv-orv) = 10 (Extinct)."
+  }
+}

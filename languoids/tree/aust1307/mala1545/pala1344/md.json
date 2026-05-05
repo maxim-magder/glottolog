@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Palauan",
+    "hid": "pau",
+    "level": "language",
+    "iso639-3": "pau",
+    "latitude": "7.34138",
+    "longitude": "134.476678",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PW"
+    ],
+    "links": "\n[Palauan](https://grambank.clld.org/languages/pala1344)\n[Palauan](https://lexibank.clld.org/languages/blustaustronesian-palauan)\n[Palauan](https://wals.info/languoid/lect/wals_code_pal)\nhttps://en.wikipedia.org/wiki/Palauan_language\nhttps://phoible.org/languages/pala1344\nhttps://www.wikidata.org/entity/Q33776"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:gibbons:ed:97**\n**cldf:agency:76**\n**cldf:barnett:49**\n**cldf:barnett:60**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:dobbin:11**\n**cldf:force:60**\n**cldf:force:force:72**\n**cldf:gorenflo:96**\n**cldf:hisakatsu:93**\n**cldf:johannes:81**\n**cldf:keate:88**\n**cldf:keesing:84:2**\n**cldf:kubary:00**\n**cldf:kubary:73**\n**cldf:machiko:02**\n**cldf:matsumoto:10**\n**cldf:mcmanus:77**\n**cldf:murdock:ford:etal:44**\n**cldf:np:14:5**\n**cldf:np:19:1**\n**cldf:palau:14**\n**cldf:parmentier:87**\n**cldf:parmentier:91**\n**cldf:semper:73**\n**cldf:shuster:21**\n**cldf:smith:83:2**\n**cldf:useem:50**\n**hh:d:Josephs:Palauan**\n**hh:d:Josephs:Palauan:1978**\n**hh:d:McManus:Palau**\n**hh:d:Ramarui:Palauan**\n**hh:d:Walleser:Palau**\n**hh:e:Barnett:Palauan**\n**hh:e:Kramer:Palau**\n**hh:e:Kramer:Palau:1926**\n**hh:e:Kramer:Palau:1929**\n**hh:e:Kubary:Karolinen**\n**hh:es:Kramer:Palau:1919**\n**hh:ew:Keate:Pelew**\n**hh:g:Flora:Palauan**\n**hh:g:Hagege:Palau**\n**hh:g:Josephs:Palauan**\n**hh:g:Josephs:Palauan:1997-1999**\n**hh:phon:Carlson:Palauan**\n**hh:phon:Conant:Palau**\n**hh:s:Capell:Palau**\n**hh:s:Lemarechal:Palau**\n**hh:s:Malsol:Palauan**\n**hh:s:Walleser:Palausprache**\n**hh:s:Zobel:Palauan**\n**hh:styp:Nuger:Palauan**\n**hh:sv:Patzold:Palau**\n**hh:typ:Georgopoulos:Palauan**\n**hh:typ:Georgopoulos:Palauan:1985**\n**hh:typ:Nuger:Palauan**\n**hh:v:Semper:Palau**\n**hh:w:Cheyne:WPacific**\n**hh:w:vonMiklucho-Maclay:Yan-Pelau**\n**mpieva:Georgopoulos1991Syntacti**\n**mpieva:Gibson1993Palauanc**\n**mpieva:Patzold1968DiePalau**"
+  },
+  "altnames": {
+    "wals": "\nPalauan",
+    "ruhlen (1987)": "\nPalauan",
+    "moseley & asher (1994)": "\nPalauan",
+    "multitree": "\nBauzi\nBelauan\nPalao\nPalau\nPalauan",
+    "lexvo": "\nBahasa Palau [ms]\nGjuha palauane [sq]\nIdioma palauano [es]\nJęzyk palau [pl]\nLingua palauana [it]\nLíngua palauense [pt]\nPalauaans [nl]\nPalauan [en]\nPalauan language [en]\nPalauek [kw]\nPalaui nyelv [hu]\nPalauiečių kalba [lt]\nPalauiešu valoda [lv]\nPalauische Sprache [de]\nPalauiska [sv]\nPalaun kieli [fi]\nPalauski jezik [sh]\nPalauès [ca]\nPaluan [en]\npalau [fr]\nΠαλάου [el]\nПалауански език [bg]\nПалауский язык [ru]\nパラオ語 [ja]\n팔라우어 [ko]",
+    "hhbib_lgcode": "\nPalau\nPallou Island\nPelau\nPelew"
+  },
+  "triggers": {
+    "lgcode": "\npalauan\npalausprache\npalau"
+  },
+  "identifier": {
+    "wals": "genus/palauan",
+    "multitree": "pala;pau"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith:Western-Malayo-Polynesian**:476-477, 481-485",
+    "subrefs": "\n**hh:hv:Smith:Western-Malayo-Polynesian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Palauan (pau-pau) = 1 (National). Statutory national language (1979, Constitution, Article 13(1))."
+  }
+}

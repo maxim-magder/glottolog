@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kamas-Koibal",
+    "hid": "xas",
+    "level": "language",
+    "iso639-3": "xas",
+    "latitude": "55.07",
+    "longitude": "94.83",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Kamas](https://endangeredlanguages.com/lang/10474)\n[Kamass](https://wals.info/languoid/lect/wals_code_kms)\nhttps://en.wikipedia.org/wiki/Kamas_language\nhttps://phoible.org/languages/kama1351\nhttps://www.wikidata.org/entity/Q35991",
+    "timespan": "1989-01-01/1989-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:joki:44**\n**hh:b:Kunnap:Kojbalskij**\n**hh:ew:Potapov:Kojbalov**\n**hh:hvs:Castren:Samojedischen**\n**hh:hvtyp:Janhunen:Samoyedic**\n**hh:s:Klumpp:Kamas**\n**hh:s:Kunnap:Kamasinskij**\n**hh:s:Kunnap:Kamass**\n**hh:s:Simoncsics:Kamassian**\n**hh:sd:Donner:Kamassisches**\n**hh:w:Potapov:Koibalen**\n**mpieva:Castren1997Grammati**\n**mpieva:Donner1944Kamassis**\n**mpieva:Joki1952DieLehnw**\n**mpieva:Kunnap19711978Systemun**"
+  },
+  "altnames": {
+    "wals": "\nKamass",
+    "moseley & asher (1994)": "\nKamas",
+    "multitree": "\nKamas\nKamass\nKamasse\nKamassian\nKamassin\nKamassinic\nKamassinisch\nKamassisch\nKoibal\nSayan\nSayan Samoyed\nSayan Samoyedic\nSayan-Samoyedic",
+    "lexvo": "\nJęzyk kamasyjski [pl]\nKamas [en]\nKamaseg [br]\nKamasinų kalba [lt]\nKamassagiella [se]\nKamasse [fr]\nKamassian language [en]\nKamassin kieli [fi]\nKamassische Sprache [de]\nKamassish [gv]\nKamassisk språk [nn]\nKamassiska [sv]\nKamassz nyelv [hu]\nLingua kamassina [it]\nКамасински јазик [mk]\nКамасинский язык [ru]\nカマス語 [ja]",
+    "hhbib_lgcode": "\nKamas\nKamass\nKoibal\nKojbal\nSamoyed Koibal",
+    "elcat": "\nKamas\nKamasse\nKamassian\nkamassin kieli\nʒaǯ̕ kall\nкалмажи шəкə\nкамасинский язык"
+  },
+  "triggers": {
+    "lgcode": "\ndonners\nkamassischen\nkamass\nkamassian\nsajansamojedischen\nkamasinskij\nkamassisches"
+  },
+  "identifier": {
+    "wals": "kms",
+    "multitree": "xas",
+    "endangeredlanguages": "10474"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Janhunen:Samoyedic**",
+    "subrefs": "\n**hh:hvtyp:Janhunen:Samoyedic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kamas (10474-xas) = Dormant [ed. 2010](cldf:ed:10)"
+  }
+}

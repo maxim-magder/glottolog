@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Emplawas",
+    "hid": "emw",
+    "level": "language",
+    "iso639-3": "emw",
+    "latitude": "-8.03209",
+    "longitude": "129.721",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Emplawas](https://endangeredlanguages.com/lang/1759)\nhttps://www.wikidata.org/entity/Q5374265\nhttps://en.wikipedia.org/wiki/Emplawas_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hvw:Taber:SWMaluku**"
+  },
+  "altnames": {
+    "multitree": "\nEmplavas\nEmplawas",
+    "lexvo": "\nEmplawas [en]",
+    "elcat": "\nEmplawas",
+    "hhbib_lgcode": "\nEmplawas (Babar)"
+  },
+  "triggers": {
+    "lgcode": "\ndictionary AND lake AND miwok"
+  },
+  "identifier": {
+    "multitree": "emw",
+    "endangeredlanguages": "1759"
+  },
+  "classification": {
+    "sub": "**hh:h:Taber:Maluku**:119-121 **hh:hvw:Taber:SWMaluku**:393",
+    "subrefs": "\n**hh:h:Taber:Maluku**\n**hh:hvw:Taber:SWMaluku**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Emplawas (1759-emw) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Gilaki",
+    "hid": "glk",
+    "level": "language",
+    "iso639-3": "glk",
+    "latitude": "37.1344",
+    "longitude": "49.8359",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Gilaki](https://wals.info/languoid/lect/wals_code_gil)\nhttps://en.wikipedia.org/wiki/Gilaki_language\nhttps://www.wikidata.org/entity/Q33657"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christensen:30**\n**hh:d:Farzpur:Gilaki**\n**hh:d:Kerimova:Gilyansko**\n**hh:d:Sotoodeh:Gilaki**\n**hh:g:Lockwood:Gilaki**\n**hh:g:Rastorgueva:Gilyanskij**\n**hh:hs:Rogova:Iranskie**\n**hh:hv:Lecoq:Irano-Aryennes-Occidentales**\n**hh:hvld:Stilo:Tati**\n**hh:hvs:Christensen:Iranienne**\n**hh:hvtyp:Jahandust:Tati-Taleshi-Gilaki**\n**hh:ld:Shokri:Caspian**\n**hh:phon:Zavyalova:Giljanskogo**\n**hh:s:Machiani:Machiani**\n**hh:s:Radmard:Galeshi**\n**hh:s:RastorguevaEdelman:Mazanderanskij**\n**hh:sd:Nader:Lahijan**\n**hh:ssoc:Rahmani:Gilaki**\n**hh:typ:Koohkan:Modern-West-Iranian**\n**hh:w:Bazin:Talesi**\n**hh:w:Ishaque:Gilaki**\n**hh:w:Melgounof:Mazanderan**\n**hh:w:deMorgan:Nord-Perse**\n**mpieva:Christensen19301935Contribu**"
+  },
+  "altnames": {
+    "wals": "\nGilaki",
+    "ruhlen (1987)": "\nGilaki",
+    "moseley & asher (1994)": "\nGilaki",
+    "multitree": "\nGelaki\nGilaki\nGilani\nGuilaki\nGuilani",
+    "lexvo": "\nGila lingvo [eo]\nGilakeg [br]\nGilaki [de]\nGilaki language [en]\nGilanice [tr]\nGileki [diq]\nLingua gilaki [it]\nГилянский язык [ru]\nلغة كيلكية [ar]\nگیلکی [fa]\nگیلکی زوان [glk]\nภาษาคิเลกิ [th]\nギラキ語 [ja]\n吉拉基语 [zh]",
+    "hhbib_lgcode": "\nEastern Gilaki\nGaleshi\nGhilan\nGhileki de Recht\nGilaki (Shaft)\nGilyanskij\nGāleši\nLahijan\nMačiān\nMāchiāni\nPoshtir\nRamsar\nRasht\nWesternmost Gilaki\neasternmost Gilaki"
+  },
+  "triggers": {
+    "lgcode": "\ngilaki\nmazanderanskogo\ngiljakischen\ngiljanskogo"
+  },
+  "identifier": {
+    "wals": "gil",
+    "multitree": "glk"
+  },
+  "classification": {
+    "sub": "**hh:h:Lecoq:Caspiens** **hh:hvld:Stilo:Tati**",
+    "subrefs": "\n**hh:hvld:Stilo:Tati**\n**hh:h:Lecoq:Caspiens**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gilaki (glk-glk) = 4 (Educational)."
+  }
+}

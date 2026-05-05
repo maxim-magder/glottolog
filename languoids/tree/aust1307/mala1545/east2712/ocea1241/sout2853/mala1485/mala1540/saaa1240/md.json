@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sa'a",
+    "hid": "apb",
+    "level": "language",
+    "iso639-3": "apb",
+    "latitude": "-9.60258",
+    "longitude": "161.467",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Sa'a](https://grambank.clld.org/languages/saaa1240)\n[Sa'a](https://wals.info/languoid/lect/wals_code_saa)\n[Sa'a (A'ulu Village)](https://lexibank.clld.org/languages/abvdoceanic-SaaAuluVillage)\nhttps://en.wikipedia.org/wiki/Sa%CA%BCa_language\nhttps://www.wikidata.org/entity/Q36294"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clark:08:1**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:ivens:13**\n**cldf:ivens:29:1**\n**cldf:ivens:72**\n**cldf:np:14:2**\n**cldf:tryon:hackman:83**\n**hh:e:Ivens:Melanesians-Solomon**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Codrington:Ulawa**\n**hh:ld:Rawcliffe:Ugi**\n**hh:ld:Ray:Gower**\n**hh:s:Ivens:Saa**\n**hh:sd:Ivens:SaaUlawa**\n**hh:styp:Ashley:Saa**\n**hh:w:Lanyon-Orgill:South-East-Solomon**\n**hh:w:Ray:Salomon**"
+  },
+  "altnames": {
+    "wals": "\nSa'a",
+    "wals other": "\nApae'aa\nSaa\nSouth Malaita\nUlawa",
+    "ruhlen (1987)": "\nMalaita (South)",
+    "moseley & asher (1994)": "\nSa'a",
+    "multitree": "\nApae'aa\nSa'a\nSaa\nSouth Malaita\nSüdliche Salomons-Inseln",
+    "lexvo": "\nSa'a [de]\nSa'a jezik [hr]\nSa'a language [en]",
+    "hhbib_lgcode": "\nSaa\nSouth Malaita\nUgi\nUlaua\nUlava\nUlawa\nUlawa-Sa'a"
+  },
+  "triggers": {
+    "lgcode": "\nulawa\nugi\nsaa"
+  },
+  "identifier": {
+    "wals": "saa",
+    "multitree": "apb"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saꞌa (apb-apb) = 4 (Educational)."
+  }
+}

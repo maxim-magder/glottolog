@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Hiberno-Scottish Gaelic",
+    "hid": "ghc",
+    "level": "dialect",
+    "iso639-3": "ghc",
+    "latitude": "55.932",
+    "longitude": "-5.222",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Classical_Gaelic\nhttps://www.wikidata.org/entity/Q5128278",
+    "timespan": "1200-01-01/1700-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Dwelly:Gaelic**\n**hh:s:Breatnach:Mhean-Ghaeilge**\n**hh:s:McManus:Ghaeilge-Chlasaiceach**\n**hh:s:McManus:Ghaeilge-Chlasaiceach:Teanga**"
+  },
+  "altnames": {
+    "multitree": "\nGadhelisch\nGaelic, Hiberno-Scottish\nGaoidhealg\nHiberno-Scottish Classical Common Gaelic",
+    "lexvo": "\nClassical Gaelic [en]\nHiberno-Scottish Gaelic [en]",
+    "hhbib_lgcode": "\nClassical Gaelic\nMiddle Irish"
+  },
+  "triggers": {
+    "lgcode": "\nghaeilge\nteanga\nchlasaiceach\nagus\ndana\nphrois"
+  },
+  "identifier": {
+    "multitree": "ghc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Eska:Celtic**",
+    "subrefs": "\n**hh:hv:Eska:Celtic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2022-12-02T15:26:38",
+    "comment": "Hiberno-Scottish Gaelic (ghc-ghc) = 10 (Extinct)"
+  }
+}

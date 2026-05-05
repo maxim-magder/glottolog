@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kumyk",
+    "hid": "kum",
+    "level": "language",
+    "iso639-3": "kum",
+    "latitude": "43.0",
+    "longitude": "47.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KZ",
+      "RU"
+    ],
+    "links": "\n[Kumyk](https://lexibank.clld.org/languages/savelyevturkic-Kumyk)\n[Kumyk](https://wals.info/languoid/lect/wals_code_kuq)\nhttps://en.wikipedia.org/wiki/Kumyk_language\nhttps://phoible.org/languages/kumy1244\nhttps://www.wikidata.org/entity/Q36209"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gadzhiaxmedov:00**\n**cldf:gadzhieva:58**\n**cldf:institutistorii:60**\n**cldf:levitskaja:97**\n**hh:d:Bammatov:Kumykskij**\n**hh:d:Bammatov:Kumyksko**\n**hh:d:Magomedov:Kumyksko**\n**hh:dial:Kerimov:Kumykskoj**\n**hh:g:Abdullaeva:Kumykskij**\n**hh:g:Dmitriev:Kumykskogo**\n**hh:sd:Doniyorova:Koumyk**\n**hh:t:Ramstedt:Cumucica**\n**hh:typ:Dzanmavov:Kumykskom**\n**hh:vtyp:Olmesov:Kumykskogo**\n**mpieva:Bammatov1960Ruscakum**\n**mpieva:Gadziachmedov1996Slovoizm**\n**mpieva:Magomedov1969Kumukcar**\n**sil16:45632**\n**sil16:45637**\n**sil16:45643**\n**sil16:51354**"
+  },
+  "altnames": {
+    "wals": "\nKumyk",
+    "ruhlen (1987)": "\nKumyk",
+    "moseley & asher (1994)": "\nKumyk",
+    "multitree": "\nKoumyk\nKumuk\nKumuklar\nKumyk\nKumyki\nKumyko",
+    "lexvo": "\nIdioma cumuco [es]\nKoemuks [nl]\nKoumyk [fr]\nKumika lingvo [eo]\nKumukça [tr]\nKumyk [ca]\nKumyk language [en]\nKumykin kieli [fi]\nKumykische Sprache [de]\nKumyčtina [sk]\nLíngua kumyk [pt]\nkoumyk [fr]\nКумиски јазик [mk]\nКумыкский язык [ru]\nХъуымыхъхъаг æвзаг [os]"
+  },
+  "triggers": {
+    "lgcode": "\nkumykskij\nnogaica\nkumykskom\nkumukca\nkoumyk\nkumyk\nkumykskogo"
+  },
+  "identifier": {
+    "wals": "kuq",
+    "multitree": "kum"
+  },
+  "classification": {
+    "sub": "**hh:hv:Egorov:Turkic**:16-19 **hh:g:Eleusin:Mischar**:8-9; 322-329",
+    "subrefs": "\n**hh:g:Eleusin:Mischar**\n**hh:hv:Egorov:Turkic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Kumyk (1074-kum) = Vulnerable"
+  }
+}

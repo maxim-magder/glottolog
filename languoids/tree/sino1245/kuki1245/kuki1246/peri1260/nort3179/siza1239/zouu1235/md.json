@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Zou",
+    "hid": "zom",
+    "level": "language",
+    "iso639-3": "zom",
+    "latitude": "24.0649",
+    "longitude": "93.9253",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Zome](https://endangeredlanguages.com/lang/1249)\nhttps://en.wikipedia.org/wiki/Zou_language\nhttps://www.wikidata.org/entity/Q37011"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:d:Kumar:Zou**\n**hh:e:Khai:Zo**\n**hh:g:Lukram:Zou**\n**hh:g:Tungdim:Zo**\n**hh:hvw:Button:NChin**\n**hh:hvw:Button:NChin:2011**\n**hh:hvw:Dal:Proto-Zomi**\n**hh:hvw:Thang:Chin**\n**hh:phon:SinghHimmat:Zou**\n**hh:s:Thanglienmang:Zou**\n**hh:s:Zomi:Zolai**\n**iso6393:2006-088**\n**iso6393:2012-035**"
+  },
+  "altnames": {
+    "multitree": "\nKuki Chin\nZo\nZome\nZomi\nZorni\nZou",
+    "lexvo": "\nZomeg [br]\nZou [en]\nZou language [en]",
+    "hhbib_lgcode": "\nZo\nZo of Tonzang\nZomi",
+    "elcat": "\nJo\nKuki Chin\nZo\nZome\nZomi\nZorni\nZou\nဇိုမီး"
+  },
+  "identifier": {
+    "multitree": "zom",
+    "endangeredlanguages": "1249"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin** **hh:hvw:Button:NChin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:hvw:Button:NChin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Zome (1249-zom) = Vulnerable (20 percent certain, based on the evidence available) [Driem 2007](cldf:driem:07)"
+  }
+}

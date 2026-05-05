@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Han",
+    "hid": "haa",
+    "level": "language",
+    "iso639-3": "haa",
+    "latitude": "64.5002",
+    "longitude": "-140.352",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Han](https://endangeredlanguages.com/lang/2092)\nhttps://en.wikipedia.org/wiki/H%C3%A4n_language\nhttps://www.wikidata.org/entity/Q28272"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0001**\n**anla:ANLC0007**\n**anla:ANLC0008**\n**anla:ANLC0009**\n**anla:ANLC0536**\n**anla:ANLC0537**\n**anla:ANLC0538**\n**anla:ANLC0545**\n**anla:ANLC0546**\n**anla:ANLC0547**\n**anla:ANLC0548**\n**anla:ANLC0549**\n**anla:ANLC0550**\n**anla:ANLC0551**\n**anla:ANLC0552**\n**anla:ANLC0553**\n**anla:ANLC0554**\n**anla:ANLC0555**\n**anla:ANLC1052**\n**anla:ANLC6136**\n**anla:ANLC7004**\n**anla:ANLC7005**\n**anla:ANLC7006**\n**anla:ANLC7007**\n**anla:ANLC7008**\n**anla:ANLC7009**\n**anla:CA870D1870**\n**anla:CA976R1979**\n**anla:CA977An1977**\n**anla:CA982A1982a**\n**anla:CA994ALS1994**\n**anla:HN006R2006**\n**anla:HN006R2010**\n**anla:HN006R2011**\n**anla:HN976R1979b**\n**anla:KU962C1964**\n**cldf:adney:00**\n**cldf:center:14**\n**cldf:christopherrogers:campbell:10**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:krauss:07:1**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**hh:d:Paul:Han**\n**hh:d:Ritter:Han**\n**hh:d:Ritter:Han:1978**\n**hh:e:CrowObley:Han**\n**hh:e:MishlerSimeone:Han**\n**hh:e:Osgood:Han**\n**hh:hv:Hoijer:Athapaskan**\n**hh:hvphon:KraussGolla:NAthapaskan**\n**hh:ld:Lehman:Han**\n**hh:phon:Marlow:Han**\n**hh:s:deReuse:Han**\n**hh:t:Ridley:Eagle-Han**\n**hh:w:Shinen:Han-Kutchin**\n**iso6393:2024-011**"
+  },
+  "altnames": {
+    "multitree": "\nDawson\nHan\nHan (Canada)\nHan (Estados Unidos)\nHan (États-Unis d'Amérique)\nHan-Kutchin\nMoosehide",
+    "lexvo": "\nHan [en]\nHana lingvo [eo]\nHän language [en]\nLíngua hän [pt]",
+    "elcat": "\nDawson\nHan\nHan-Kutchin\nHän\nMoosehide",
+    "hhbib_lgcode": "\nHän"
+  },
+  "triggers": {
+    "lgcode": "\nhwechin\nathapaskans\neagle"
+  },
+  "identifier": {
+    "multitree": "haa",
+    "endangeredlanguages": "2092"
+  },
+  "classification": {
+    "sub": "**hh:h:Jaker:Na-Dene**:474",
+    "subrefs": "\n**hh:h:Jaker:Na-Dene**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Han (2092-haa) = Critically Endangered (80 percent certain, based on the evidence available) [Krauss 2007](cldf:krauss:07:1)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Gela",
+    "hid": "nlg",
+    "level": "language",
+    "iso639-3": "nlg",
+    "latitude": "-9.04587",
+    "longitude": "160.186",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Gela](https://grambank.clld.org/languages/gela1263)\n[Gela](https://wals.info/languoid/lect/wals_code_gel)\n[Nggela](https://lexibank.clld.org/languages/abvdoceanic-Nggela)\nhttps://en.wikipedia.org/wiki/Gela_language\nhttps://www.wikidata.org/entity/Q3063531"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:codrington:91**\n**cldf:cribb:00**\n**cldf:diamond:76**\n**cldf:keesing:84:2**\n**cldf:lynch:ross:etal:ed:02:10**\n**cldf:moore:17**\n**cldf:moore:19**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**hh:d:Fox:Nggela**\n**hh:g:Miller:Gela**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:s:Codrington:Gela**\n**hh:s:Crowley:Gela**\n**hh:s:Fox:Gela:1941**\n**hh:s:Fox:Nggela:1950**\n**hh:s:Ivens:Nggela**"
+  },
+  "altnames": {
+    "wals": "\nGela",
+    "ruhlen (1987)": "\nGela",
+    "moseley & asher (1994)": "\nGela",
+    "multitree": "\nFlorida Islands\nGela\nNggela\nSüdliche Salomons-Inseln",
+    "lexvo": "\nGela [en]\nGela language [en]\nLengua gela [es]",
+    "hhbib_lgcode": "\nNggela"
+  },
+  "triggers": {
+    "lgcode": "\nsolomon AND florida\nnggela"
+  },
+  "identifier": {
+    "wals": "gel",
+    "multitree": "gela;nlg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Guadalcanal-Nggelic**",
+    "subrefs": "\n**hh:hv:Pawley:Guadalcanal-Nggelic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gela (nlg-nlg) = 5 (Developing)."
+  }
+}

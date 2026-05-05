@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ngam",
+    "hid": "nmc",
+    "level": "language",
+    "iso639-3": "nmc",
+    "latitude": "8.25957",
+    "longitude": "18.4648",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3915446\nhttps://en.wikipedia.org/wiki/Ngam_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:YangontanMoymadide:Ngam**\n**hh:h:ALAC:CAR**\n**hh:hvw:Huguet:Sara-Tchad**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:phon:Kodjilal:Ngam**\n**hh:phon:Somte:Ngam**\n**hh:phontyp:Somte:Ngam:2009**\n**hh:s:Meynier:Sara-Ngama**\n**hh:typ:Somte:Ngam**"
+  },
+  "altnames": {
+    "multitree": "\nNgahm\nNgam\nNgama\nNgamh\nSarngam",
+    "lexvo": "\nNgam [en]",
+    "hhbib_lgcode": "\nNgam Tel\nNgam of Tra\nNgama\nNgama of Bruel\nSara-Ngam"
+  },
+  "triggers": {
+    "lgcode": "\nngama\netudus\nngam\nmadjingaye"
+  },
+  "identifier": {
+    "multitree": "nmc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngam (nmc-nmc) = 5* (Developing)."
+  }
+}

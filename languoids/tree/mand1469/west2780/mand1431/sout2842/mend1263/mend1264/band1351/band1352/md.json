@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Bandi",
+    "hid": "bza",
+    "level": "language",
+    "iso639-3": "bza",
+    "latitude": "8.207",
+    "longitude": "-10.1886",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "LR",
+      "SL"
+    ],
+    "links": "\n[Bandi](https://lexibank.clld.org/languages/polyglottaafricana-Bandi)\n[Bandi](https://wals.info/languoid/lect/wals_code_bnd)\nhttps://en.wikipedia.org/wiki/Gbandi_language\nhttps://phoible.org/languages/band1352\nhttps://www.wikidata.org/entity/Q34912"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3066**\n**cldf:mugele:rodewald:91**\n**eballiso2009:12821**\n**eballiso2009:25395**\n**eballiso2009:25400**\n**eballiso2009:25648**\n**eballiso2009:25649**\n**eballiso2009:32560**\n**eballiso2009:33528**\n**hh:d:Grossmann:Bandi**\n**hh:he:Germann:Liberia**\n**hh:he:Schwab:Mano**\n**hh:hvw:Vydrine:Mande**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Grossmann:Bandi**\n**hh:s:Heydorn:Bandi**\n**hh:s:Rodewald:Bandi-Mende**\n**sil16:37992**"
+  },
+  "altnames": {
+    "wals": "\nBandi",
+    "ruhlen (1987)": "\nBandi",
+    "moseley & asher (1994)": "\nBandi",
+    "multitree": "\nBande\nBandi\nGbande\nGbandi\nGbunde\nMende-Bandi",
+    "lexvo": "\nBandi [en]",
+    "hhbib_lgcode": "\nBande\nGbande\nGbandi\nGbunde"
+  },
+  "triggers": {
+    "lgcode": "\nbandi\ngbande\nNOT the AND bandi"
+  },
+  "identifier": {
+    "wals": "bnd",
+    "multitree": "bza;bndi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bandi (bza-bza) = 5* (Developing)."
+  }
+}

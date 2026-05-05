@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Northern East Cree",
+    "hid": "crl",
+    "level": "language",
+    "iso639-3": "crl",
+    "latitude": "55.1928",
+    "longitude": "-77.7505",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[East Cree](https://endangeredlanguages.com/lang/2165)\nhttps://www.wikidata.org/entity/Q12642195"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:ellis:75**\n**cldf:ellis:83**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Salt:Cri-Est-Baie-James**\n**hh:e:Barger:Inuit-Cree**\n**hh:e:Feit:James-Bay-Cree**\n**hh:e:Preston:East-Main-Cree**\n**hh:g:Collette:Cri-Est-Nord**\n**hh:hvs:MacKenzie:Cree-Montagnais-Naskapi**\n**hh:ssoc:Henke:Northern-East-Cree**\n**hh:typ:Neacappo:Eastern-James-Bay-Cree**\n**hh:typ:Necappo:Eastern-James-Bay-Cree**\n**hh:typ:Terry:Northern-East-Cree**"
+  },
+  "altnames": {
+    "multitree": "\nClisteno nororiental\nCree\nCree (Eastern)\nCree du nord-est\nEast Cree\nEast Cree, Northern\nNorthern\nNorthern East Cree\nNorthern Eastern James Bay Cree\nNorthern James Bay Cree",
+    "lexvo": "\nNorthern East Cree [en]\nNorthern East Cree language [en]",
+    "hhbib_lgcode": "\nCree-Northern East\nCri de l'Est de la Baie James\nCri de l'Est dialecte du Nord\nIdiolect of Northern Eastern James Bay Cree\nWhapmagoostui",
+    "elcat": "\nCree\nEast Cree\nMontagnais-Naskapi\nNorthern East Cree\nNorthern Eastern James Bay Cree\nNorthern James Bay Cree"
+  },
+  "identifier": {
+    "multitree": "crl",
+    "endangeredlanguages": "2165"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "East Cree (2165-crl) = Vulnerable (80 percent certain, based on the evidence available) (Of a population of about 12,000, all but a small number are speakers.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

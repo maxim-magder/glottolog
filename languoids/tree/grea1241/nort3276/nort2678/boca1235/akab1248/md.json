@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Akabo",
+    "hid": "akm",
+    "level": "language",
+    "iso639-3": "akm",
+    "latitude": "12.3629",
+    "longitude": "92.8011",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Aka-Bo](https://endangeredlanguages.com/lang/10715)\nhttps://en.wikipedia.org/wiki/Akabo_dialect\nhttps://www.wikidata.org/entity/Q35361",
+    "timespan": "2010-01-01/2010-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:09:2**\n**hh:d:Abbi:Great-Andamanese**\n**hh:he:Radcliffe-Brown:Andaman**\n**hh:s:Abbi:Great-Andamanese:Vanishing**"
+  },
+  "altnames": {
+    "multitree": "\nAka-Bo\nBa\nBo\nGreat Andamanese",
+    "lexvo": "\nAka-Bo [en]\nAka-Bo jezik [hr]\nAka-Bo language [en]\nAka-bo [eo]\nBo kalba [lt]\nBon kieli [fi]\nJęzyk bo [pl]\nLenga aka-bo [pms]\nLèngua Aka-Bo [lmo]\nWikang Aka-Bo [tl]\nАка-бо [mk]\nБо [ru]\nபோ மொழி [ta]\n아카보어 [ko]",
+    "hhbib_lgcode": "\nAka-Bo\nBo",
+    "glottolog": "\nAka-Bo",
+    "elcat": "\nAka-Bo\nBa\nBo"
+  },
+  "identifier": {
+    "multitree": "akm",
+    "endangeredlanguages": "10715"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**",
+    "subrefs": "\n**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aka-Bo (10715-akm) = Dormant [Abbi 2009](cldf:abbi:09:2)"
+  }
+}

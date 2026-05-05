@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Principense",
+    "hid": "pre",
+    "level": "language",
+    "iso639-3": "pre",
+    "latitude": "1.614",
+    "longitude": "7.392",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ST"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36520\n[Principense](https://apics-online.info/contributions/37)\nhttps://en.wikipedia.org/wiki/Principense_Creole\nhttps://phoible.org/languages/prin1242\n[Príncipense](https://wals.info/languoid/lect/wals_code_pri)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:guenther:73**\n**cldf:maurer:97**\n**cldf:traill:ferraz:81**\n**hh:g:Agostinho:Lungie**\n**hh:g:Gunther:Principe**\n**hh:g:Maurer:Principense**\n**hh:hvphon:Mane:Crioulos-Guine**\n**hh:ld:Schuchardt:Principe**\n**hh:phon:Agostinho:Lungie**\n**hh:s:Maurer:Principense**\n**hh:soc:GrahamGraham:West-Africa-Lusolexed**\n**mpieva:Maurer2009Principe**\n**sil16:47003**"
+  },
+  "altnames": {
+    "wals": "\nPríncipense",
+    "multitree": "\n\"Moncó\"\nLun'gwiye\nPrincipense",
+    "lexvo": "\nIdioma principense [es]\nPrincipense [en]\nPrincipense language [en]\nPrincipenski jezik [sh]",
+    "hhbib_lgcode": "\nLung'ie"
+  },
+  "triggers": {
+    "lgcode": "\nprincipense\nkreolisch\nprincipe AND kreolisch\nlusolexed"
+  },
+  "identifier": {
+    "wals": "pri",
+    "multitree": "pre"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hagemeijer:Gulf-Guinea** **hh:hv:Bandeira:Guinea:Creole**",
+    "subrefs": "\n**hh:hv:Bandeira:Guinea:Creole**\n**hh:hv:Hagemeijer:Gulf-Guinea**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Principense (pre-pre) = 8b (Nearly extinct)."
+  }
+}

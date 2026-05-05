@@ -1,0 +1,54 @@
+{
+  "core": {
+    "name": "Gulf Arabic",
+    "hid": "afb",
+    "level": "language",
+    "iso639-3": "afb",
+    "latitude": "30.17",
+    "longitude": "47.5",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AE",
+      "BH",
+      "IQ",
+      "IR",
+      "KW",
+      "OM",
+      "QA",
+      "SA",
+      "YE"
+    ],
+    "links": "\n[Arabic (Gulf)](https://wals.info/languoid/lect/wals_code_arg)\n[Arabic (Kuwaiti)](https://wals.info/languoid/lect/wals_code_arj)\n[Gulf Arabic](https://grambank.clld.org/languages/gulf1241)\n[United Arab Emirates](https://lexibank.clld.org/languages/ratcliffearabic-GulfArabic)\nhttps://en.wikipedia.org/wiki/Gulf_Arabic\nhttps://www.wikidata.org/entity/Q56385"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dt:Al-Rawi:Abu-Dabi**\n**hh:e:Westphal-Hellbusch:Barbara**\n**hh:g:Al-Bahri:Hadari-Arabic**\n**hh:g:Hoffiz:Dubai-Arabic**\n**hh:g:Holes:Arabic-Gulf**\n**hh:g:Holes:Gulf**\n**hh:g:Leung:Emirati-Arabic**\n**hh:g:Qafisheh:Gulf-Arabic**\n**hh:g:SmartAltorfer:Arabic-Gulf**\n**hh:g:Sulaiti:Qatari**\n**hh:phon:AlAmeri:Emirati-Arabic**\n**hh:phon:Shockley:Urban-Qatari**\n**hh:s:Brustad:Four-Arabic**\n**hh:s:Holes:Bahraini-Arabic**\n**hh:s:Johnstone:Eastern-Arabian**\n**hh:s:Wagoner:Saudi-Arabic**\n**hh:socphon:Al-Qenaie:Kuwaiti**\n**hh:soctyp:Al-Mubarak:Ahsa**"
+  },
+  "altnames": {
+    "wals": "\nArabic (Gulf)",
+    "wals other": "\nGulf Arabic\nKhaliji",
+    "moseley & asher (1994)": "\nArabic (Eastern)",
+    "multitree": "\nArabic\nArabic (Gulf)\nArabic, Gulf Spoken\nBedawi\nEastern Arabian\nGulf Arabic\nGulf Spoken\nKhaliji\nOmani Bedawi Arabic\nQatari",
+    "lexvo": "\nArabe du Golfe [fr]\nArabeg ar Pleg-mor [br]\nGulf Arabic [en]\nJęzyk arabski rejonu Zatoki Perskiej [pl]\nZaljevski arapski [hr]\nЗаливски арапски јазик [mk]\nلهجة خليجية [ar]\nவளைகுடா அரபு மொழி [ta]\nภาษาอาหรับอ่าว [th]",
+    "hhbib_lgcode": "\nAbu Daby\nArabic-Gulf\nArabic-Gulf Spoken\nBahrain A\nBarbara fishing caste in the marshes of the Eufrat-Tigris delta\nEmirati Arabic\nHadari\nKuwait\nKuwaiti\nQatar Arabic\nSpoken Arabic of eastern Saudi Arabia"
+  },
+  "triggers": {
+    "lgcode": "\nnominalbildung\nthe AND kuwaiti\ndubai\nqatari\ndaby\nlexik"
+  },
+  "identifier": {
+    "wals": "arg;arj",
+    "multitree": "afb",
+    "languagelandscape": "http://languagelandscape.org/language/Arabic%2C%20Gulf"
+  },
+  "classification": {
+    "sub": "**hh:hvld:FischerJastrow:Arabischen**:24-25",
+    "subrefs": "\n**hh:hvld:FischerJastrow:Arabischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Gulf (afb-afb) = 3 (Wider communication). De facto national working language, widely used in public administration. Originated from the speakers of Najdi Arabic who migrated to Kuwait in the 18th century; emerged as a mixture of various different dialects. Became widely spoken around 1914. Widespread in the Arabian Gulf region. Used in everyday life, in media, and in business. Influenced by Persian [pes], Hindi [hin], Turkish [tur], Portuguese [por], English [eng], and other languages are evident due to historical trade and cultural exchanges. It is used in daily communication, media, and informal settings."
+  }
+}

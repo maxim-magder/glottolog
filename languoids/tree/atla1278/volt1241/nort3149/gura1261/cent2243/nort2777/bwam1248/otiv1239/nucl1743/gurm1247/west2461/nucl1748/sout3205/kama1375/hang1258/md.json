@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Hanga",
+    "hid": "hag",
+    "level": "language",
+    "iso639-3": "hag",
+    "latitude": "9.33929",
+    "longitude": "-1.57833",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Hanga](https://endangeredlanguages.com/lang/4620)\nhttps://en.wikipedia.org/wiki/Hanga_language\nhttps://phoible.org/languages/hang1258\nhttps://www.wikidata.org/entity/Q35426"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4072**\n**cldf:cahill:97**\n**cldf:kroppdakubu:80**\n**cldf:lewis:ed:09**\n**eballiso2009:32788**\n**eballiso2009:33938**\n**eballiso2009:33940**\n**eballiso2009:33941**\n**eballiso2009:4388**\n**eballiso2009:47744**\n**eballiso2009:56366**\n**hh:hv:Manessy:Oti-Volta**\n**hh:hv:Naden:Central-Mabia**\n**hh:hvw:Swadesh:Gur**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:ld:Hunt:Hanga**\n**hh:phon:HuntHunt:Hanga**\n**sil16:17199**\n**sil16:17200**\n**sil16:17201**\n**sil16:22264**\n**sil16:22265**\n**sil16:23656**\n**sil16:23657**\n**sil16:32037**"
+  },
+  "altnames": {
+    "multitree": "\nAnga\nHanga",
+    "lexvo": "\nHanga [en]",
+    "elcat": "\nAnga\nHanga"
+  },
+  "triggers": {
+    "lgcode": "\nlarabanga\ncheli\nbileesi\nhanga\nhang{a"
+  },
+  "identifier": {
+    "multitree": "hag",
+    "endangeredlanguages": "4620"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Naden:Kamara-Larabanga**",
+    "subrefs": "\n**hh:vtyp:Naden:Kamara-Larabanga**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hanga (4620-hag) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Palaic",
+    "hid": "plq",
+    "level": "language",
+    "iso639-3": "plq",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "longitude": "33.499",
+    "latitude": "41.334",
+    "links": "\nhttps://www.wikidata.org/entity/Q36582\nhttps://en.wikipedia.org/wiki/Palaic_language",
+    "timespan": "-1600-01-01/-1400-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kloekhorst:Anatolian**:67-75",
+    "subrefs": "\n**hh:hv:Kloekhorst:Anatolian**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ld:Giusfredi:Palaic**\n**hh:s:Kammenhuber:Hethitischetc**\n**hh:s:Kammenhuber:Palaite**\n**hh:s:KassianSatskov:Palajskij**\n**hh:st:Carruba:Palaische**\n**hh:t:Carruba:Palaische**\n**hh:w:Melchert:Palaic**\n**hh:w:Melchert:Palaic:1984**"
+  },
+  "altnames": {
+    "lexvo": "\nJęzyk palajski [pl]\nLingua palaica [it]\nLingua palaíta [gl]\nPalaic [en]\nPalaic language [en]\nPalaische Sprache [de]\nPalaisk [no]\nPalaiska [sv]\nPalajščina [sl]\nPalaïsch [nl]\nPalaïte [fr]\nΠαλαϊκή γλώσσα [el]\nПалайский язык [ru]\nПалайська мова [uk]\nПалајски јазик [mk]\nزبان پالائی [fa]\nภาษาปาลา [th]\n팔라어 [ko]",
+    "hhbib_lgcode": "\nPalaisch\nPalajskij\nPalaïte"
+  },
+  "triggers": {
+    "lgcode": "\npalaic\npalaische"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Palaic (**hh:w:Melchert:Palaic**, **hh:s:KassianSatskov:Palajskij**, **hh:st:Carruba:Palaische**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "plq"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Palaic (plq-plq) = 10 (Extinct)."
+  }
+}

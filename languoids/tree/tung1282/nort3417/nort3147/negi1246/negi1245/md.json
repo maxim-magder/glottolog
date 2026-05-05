@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Negidal",
+    "hid": "neg",
+    "level": "language",
+    "iso639-3": "neg",
+    "latitude": "52.96584",
+    "longitude": "139.20575",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Negidal](https://endangeredlanguages.com/lang/2891)\n[Negidal](https://grambank.clld.org/languages/negi1245)\n[Negidal](https://wals.info/languoid/lect/wals_code_neg)\nhttps://en.wikipedia.org/wiki/Negidal_language\nhttps://www.wikidata.org/entity/Q33676"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4904**\n**cldf:alpatov:ed:97:13**\n**cldf:cincius:97:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gapanovich:27**\n**cldf:humphreys:mits:ed:93**\n**cldf:kolesnikova:konstantinova:68**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:shternberg:33:1**\n**hh:e:Shternberg:Gilyaki**\n**hh:g:Tsintius:Negidalskij**\n**hh:he:Findeisen:Baikalsee**\n**hh:he:Hasse:Baikal-Pazifik**\n**hh:he:LevinPotapov:Sibiri**\n**hh:ldb:Khasanova:Negidals**\n**hh:s:Mylnikov:Negidalskogo**\n**hh:s:Tsintsius:Negidalskij**\n**hh:st:Kazama:Negidal**\n**hh:t:ChasanovaPevnov:Negidal**\n**hh:w:Kazama:Tungusic**\n**hh:w:Schmidt:Negidals**\n**hh:w:Schmidt:Samagirs**\n**mpieva:Cincius1982Negidals**"
+  },
+  "altnames": {
+    "wals": "\nNegidal",
+    "moseley & asher (1994)": "\nNegidal",
+    "lexvo": "\nNegidaalin kieli [fi]\nNegidal [en]\nNegidal language [en]\nNegidala lingvo [eo]\nNegidale [fr]\nNegidaleg [br]\nNegidalsk [no]\nNegidalsk språk [nn]\nNegidalų kalba [lt]\nНегидалски јазик [mk]\nНегидальский язык [ru]",
+    "hhbib_lgcode": "\nNegda\nNegidal'tsy\nSamagir",
+    "elcat": "\nEl'kan Beye\nElkembei\nIlkan Beye\nNeghidal\nNegidal\nNegidaly\nNigidal\nНеғида\nнегидальский язык"
+  },
+  "triggers": {
+    "lgcode": "\nskazki\nmify\nnegidal\nnegidals\nnegidalcev\nnegidalskij"
+  },
+  "identifier": {
+    "wals": "neg",
+    "endangeredlanguages": "2891"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Whaley:Tungusic**",
+    "subrefs": "\n**hh:hv:Whaley:Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Negidal (2891-neg) = Severely Endangered (80 percent certain, based on the evidence available) [Salminen 2000](cldf:salminen:00)"
+  }
+}

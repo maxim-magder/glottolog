@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Coquille",
+    "hid": "coq",
+    "level": "language",
+    "iso639-3": "coq",
+    "latitude": "44.5177",
+    "longitude": "-119.605",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953452",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Tveskov:Coos-Coquille**\n**hh:e:Younker:Coquille**\n**hh:hsoctyp:Hall:Nuu-Wee-Ya**\n**hh:hv:Spence:Oregon-Athabaskan**\n**hh:hvb:Golla:California**"
+  },
+  "altnames": {
+    "multitree": "\nChasta Costa\nCoquille\nMishikhwutmetunee\nTutuni-Chasta Costa-Coquille\nTututni\nUpper Coquille",
+    "lexvo": "\nCoquille [en]"
+  },
+  "triggers": {
+    "lgcode": "\ncoquille"
+  },
+  "identifier": {
+    "multitree": "coq"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Coquille (coq-coq) = 10 (Extinct). Language of registered tribe: Confederated Tribes of the Siletz Reservation, Coquille Indian Tribe."
+  }
+}

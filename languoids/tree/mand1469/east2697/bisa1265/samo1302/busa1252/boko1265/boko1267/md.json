@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bokobaru",
+    "hid": "bus",
+    "level": "language",
+    "iso639-3": "bus",
+    "latitude": "9.52724",
+    "longitude": "3.80058",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q9228931"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:116**\n**hh:w:Bertho:Nord-Dahomey**\n**mpieva:Jones2004Bokobaru**\n**sil16:14335**\n**sil16:14336**\n**sil16:22572**"
+  },
+  "altnames": {
+    "multitree": "\nBokobaru\nBusa-Bokobaru\nZongben\nZõgbe",
+    "lexvo": "\nBokobaru [en]",
+    "hhbib_lgcode": "\nBoko-Busa"
+  },
+  "triggers": {
+    "lgcode": "\nbusanci\nboko AND baru"
+  },
+  "identifier": {
+    "multitree": "bus"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dwyer:Mande:1989** **hh:hv:Dwyer:Mande**",
+    "subrefs": "\n**hh:hv:Dwyer:Mande:1989**\n**hh:hv:Dwyer:Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bokobaru (bus-bus) = 5 (Developing)."
+  }
+}

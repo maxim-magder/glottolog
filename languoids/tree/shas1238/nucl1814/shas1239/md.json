@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Shasta",
+    "hid": "sht",
+    "level": "language",
+    "iso639-3": "sht",
+    "latitude": "41.7587",
+    "longitude": "-122.738",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Shasta](https://grambank.clld.org/languages/shas1239)\n[Shasta](https://wals.info/languoid/lect/wals_code_shs)\nhttps://en.wikipedia.org/wiki/Shasta_language\nhttps://phoible.org/languages/shas1239\nhttps://www.wikidata.org/entity/Q56396",
+    "timespan": "1978-01-01/1978-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3761**\n**cldf:cook:heizer:65**\n**cldf:dixon:07**\n**cldf:holt:46**\n**cldf:nichols:92**\n**cldf:powell:77**\n**cldf:silver:64**\n**cldf:voegelin:42**\n**hh:e:Kroeber:Shastan**\n**hh:e:Silver:Shastan**\n**hh:g:Silver:Shasta**\n**hh:hv:Silver:Shasta-Konomihu**\n**hh:hvb:Golla:California**\n**hh:hvw:Dixon:Shasta-Achumawi**\n**hh:hvw:Powell:California**\n**hh:soct:Sarmento:Shasta**\n**hh:t:SilverWicks:Shasta**\n**hh:w:BrightOlmsted:Shasta**"
+  },
+  "altnames": {
+    "wals": "\nShasta",
+    "ruhlen (1987)": "\nShasta",
+    "moseley & asher (1994)": "\nShasta",
+    "multitree": "\nAhútireʔécu\nIruʔáycu\nKammatwa\nKlamath River\nKonomihu\nOregon\nSastean\nScotts Valley\nShasta\nShasta Valley\nShasta de New River\nShasta proper\nShastan\nShastika\nWatiru",
+    "lexvo": "\nSastean [hr]\nShasta [en]\nShasta language [en]",
+    "hhbib_lgcode": "\nShaste\nShastie\nShastika"
+  },
+  "triggers": {
+    "lgcode": "\nshastan\nshasta"
+  },
+  "identifier": {
+    "wals": "genus/shasta",
+    "multitree": "sht;sht-val;sht-kla;sht-ore;sht-kam;sht-sct"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**:90-95",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Konomihu (828-sht) = Extinct; New River Shasta (827-sht) = Extinct"
+  }
+}

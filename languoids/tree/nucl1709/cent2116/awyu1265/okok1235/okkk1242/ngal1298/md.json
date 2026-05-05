@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ngalum",
+    "hid": "szb",
+    "level": "language",
+    "iso639-3": "szb",
+    "latitude": "-4.67682",
+    "longitude": "141.03",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "PG"
+    ],
+    "links": "\n[Ngalum](https://endangeredlanguages.com/lang/10696)\nhttps://en.wikipedia.org/wiki/Ngalum_language\nhttps://www.wikidata.org/entity/Q11732516"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Healey:Ok**",
+    "subrefs": "\n**hh:hvw:Healey:Ok**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:pouwer:64**\n**hh:e:Baretal:Sobger**\n**hh:e:Dasselaar:Sobger**\n**hh:e:Hylkema:Nalum**\n**hh:e:Kurniawan:Ngalum**\n**hh:e:Reynders:Star**\n**hh:e:Sitokdana:Ngalum**\n**hh:h:Sitokdana:Pegunungan-Bintang**\n**hh:h:Sugono:Indonesia**\n**hh:he:BrongersmaVenema:Witte**\n**hh:he:Fyfe:Upper-Sepik**\n**hh:hv:Steer:Upper-Sepik**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Healey:Ok**\n**hh:hvw:Voorhoeve:Irian**\n**hh:ld:Anceaux:Sibil**\n**hh:ld:Galis:NNG**\n**hh:ld:Iribaram:Ngalum**\n**hh:ld:Sanjoko:Ngalum**\n**hh:ld:Sitokdana:Ngalum-Ketengban-Lepki-Arimtap**\n**hh:t:RCM:Apmisibil**"
+  },
+  "altnames": {
+    "multitree": "\nNgalum\nSibil",
+    "lexvo": "\nNgalum [en]",
+    "hhbib_lgcode": "\nNS Sibil\nNgalum (Vo)\nSibil",
+    "elcat": "\nNgalum\nSibil"
+  },
+  "triggers": {
+    "lgcode": "\nmannen\nsibil\ndraagnet\nkristus\nsterrengebergte\njepwenga"
+  },
+  "identifier": {
+    "multitree": "szb",
+    "endangeredlanguages": "10696"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ngalum (10696-szb) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

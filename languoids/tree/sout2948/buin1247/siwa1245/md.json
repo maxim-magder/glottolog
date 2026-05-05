@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Siwai",
+    "hid": "siw",
+    "level": "language",
+    "iso639-3": "siw",
+    "latitude": "-6.6429",
+    "longitude": "155.452",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Motuna](https://wals.info/languoid/lect/wals_code_mot)\n[Siwai](https://grambank.clld.org/languages/siwa1245)\nhttps://en.wikipedia.org/wiki/Motuna_language\nhttps://www.wikidata.org/entity/Q7532519"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1728**\n**cldf:bhaskararao:ed:04:4**\n**cldf:dixon:aikhenvald:ed:00:3**\n**cldf:oliver:49**\n**cldf:oliver:55**\n**cldf:onishi:00**\n**hh:d:Onishi:Motuna**\n**hh:e:Chinnery:Bougainville**\n**hh:e:Oliver:Siuai**\n**hh:g:Onishi:Motuna**\n**hh:g:Onishi:Motuna:2011**\n**hh:hv:Evans:SBougainville**\n**hh:hv:Wurm:EPapuan**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:ld:Grace:46**\n**hh:phonw:Gasaway:Nagowis**\n**hh:w:McAdam:Baitsi**\n**hh:w:McAdam:Koianu**\n**mpieva:Onishi2002Anannota**\n**mpieva:Onishi2003Motunate**"
+  },
+  "altnames": {
+    "wals": "\nMotuna",
+    "ruhlen (1987)": "\nSiwai",
+    "moseley & asher (1994)": "\nSiwai",
+    "multitree": "\nMotuna\nSiwai",
+    "lexvo": "\nSiwai [en]",
+    "hhbib_lgcode": "\nBaitsi\nHaarinai\nMainoitu village Motuna tribe\nMeiwa village Baitsi tribe\nMotuna\nPokwo\nRuise\nSiuai\nTonu"
+  },
+  "triggers": {
+    "lgcode": "\nmotuna"
+  },
+  "identifier": {
+    "wals": "mot",
+    "multitree": "siw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Evans:SBougainville** **hh:hv:Onishi:South-Bougainville**",
+    "subrefs": "\n**hh:hv:Evans:SBougainville**\n**hh:hv:Onishi:South-Bougainville**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Motuna (siw-siw) = 6a (Vigorous)."
+  }
+}

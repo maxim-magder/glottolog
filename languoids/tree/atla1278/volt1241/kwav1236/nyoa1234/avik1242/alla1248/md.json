@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Alladian",
+    "hid": "ald",
+    "level": "language",
+    "iso639-3": "ald",
+    "latitude": "5.22371",
+    "longitude": "-4.42647",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34837\nhttps://en.wikipedia.org/wiki/Alladian_language\nhttps://phoible.org/languages/alla1248\n[Alladian](https://wals.info/languoid/lect/wals_code_ald)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clozel:villamur:02**\n**cldf:dumestre:duponchel:71**\n**cldf:duponchel:71**\n**eballiso2009:2370**\n**eballiso2009:25108**\n**eballiso2009:28266**\n**eballiso2009:50835**\n**eballiso2009:59371**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hv:Delafosse:Soudan**\n**hh:hvld:Westermann:Tschi-Guang**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phonw:Duponchel:Alladian**\n**hh:s:Duponchel:Alladian**\n**hh:typ:Essy:Alladjan**"
+  },
+  "altnames": {
+    "wals": "\nAlladian",
+    "ruhlen (1987)": "\nAladian",
+    "moseley & asher (1994)": "\nAladian",
+    "multitree": "\nAlladian\nAlladyan\nAllagia\nAllagian",
+    "lexvo": "\nAlladian [en]",
+    "hhbib_lgcode": "\nAladian\nAladyan\nAladyã\nAlagiã\nAlaguian\nAlagya\nAlladjan"
+  },
+  "triggers": {
+    "lgcode": "\nlalladian\nalladian"
+  },
+  "identifier": {
+    "wals": "ald",
+    "multitree": "ald"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kropp:Kwa** **hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Kropp:Kwa**\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Alladian (ald-ald) = 5* (Developing)."
+  }
+}

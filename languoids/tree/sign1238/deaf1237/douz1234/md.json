@@ -1,0 +1,25 @@
+{
+  "core": {
+    "name": "Douz Sign Language",
+    "level": "language",
+    "hid": "NOCODE_Douz-Sign",
+    "countries": [
+      "TN"
+    ],
+    "macroareas": [
+      "Africa"
+    ],
+    "longitude": "9.01667",
+    "latitude": "33.45"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Belarbi:Sourd**\n**hh:h:Pizzuto:Gestualite**\n**hh:v:Nefaa:Tunisian-Sign**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nKebili"
+  },
+  "classification": {
+    "sub": "No historical connection to another sign language has been documented (**hh:h:Pizzuto:Gestualite**) so the language is a presumed isolate. Nevertheless, it is subsumed under the umbrella term Tunisian Sign in **hh:v:Nefaa:Tunisian-Sign(**) but it is not clear whether this implies closeness. **hh:v:Nefaa:Tunisian-Sign(**) also contains a lexical comparison to LSF (but not to any other language) but the outcome in the low 30%:s range is inconclusive of a genealogical relationship.",
+    "subrefs": "\n**hh:v:Nefaa:Tunisian-Sign**\n**hh:h:Pizzuto:Gestualite**"
+  }
+}

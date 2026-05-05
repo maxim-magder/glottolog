@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Thai Sign Language",
+    "hid": "tsq",
+    "level": "language",
+    "iso639-3": "tsq",
+    "latitude": "13.7837",
+    "longitude": "100.445",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7709156\nhttps://en.wikipedia.org/wiki/Thai_Sign_Language\n[Thai Sign Language](https://wals.info/languoid/lect/wals_code_ths)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:94:1**\n**cldf:adams:hudak:ed:94:5**\n**cldf:alaves:ed:95:1**\n**cldf:alaves:ed:95:3**\n**cldf:bauer:93**\n**cldf:bilmes:95:1**\n**cldf:bilmes:95:2**\n**cldf:carpenter:92**\n**cldf:chelliah:dereuse:ed:97:2**\n**cldf:ebert:ed:01:2**\n**cldf:gandour:82**\n**cldf:gandour:89**\n**cldf:gandour:etal:92**\n**cldf:guzman:ed:00:1**\n**cldf:guzman:ed:00:4**\n**cldf:guzman:ed:00:5**\n**cldf:guzman:ed:00:8**\n**cldf:harris:chamberlain:ed:75:1**\n**cldf:harris:chamberlain:ed:75:10**\n**cldf:harris:chamberlain:ed:75:11**\n**cldf:harris:chamberlain:ed:75:12**\n**cldf:harris:chamberlain:ed:75:2**\n**cldf:harris:chamberlain:ed:75:3**\n**cldf:harris:chamberlain:ed:75:4**\n**cldf:harris:chamberlain:ed:75:5**\n**cldf:harris:chamberlain:ed:75:6**\n**cldf:harris:chamberlain:ed:75:7**\n**cldf:harris:chamberlain:ed:75:9**\n**cldf:howard:00**\n**cldf:iwasaki:horie:95**\n**cldf:koelver:84**\n**cldf:potisuk:gandour:etal:94**\n**cldf:suwanarat:reilly:86**\n**cldf:warotamasikkhadit:panakul:ed:97:1**\n**cldf:warotamasikkhadit:panakul:ed:97:10**\n**cldf:warotamasikkhadit:panakul:ed:97:11**\n**cldf:warotamasikkhadit:panakul:ed:97:12**\n**cldf:warotamasikkhadit:panakul:ed:97:2**\n**cldf:warotamasikkhadit:panakul:ed:97:3**\n**cldf:warotamasikkhadit:panakul:ed:97:8**\n**cldf:warotamasikkhadit:panakul:ed:97:9**\n**hh:d:Thailand:Thai-Sign**\n**hh:d:Wrigley:Thai-Sign**\n**hh:hv:Woodward:Sign-Thailand-Viet-Nam**\n**hh:hv:Woodward:Thailand-Viet**\n**hh:s:Danthanavanich:Thai-Sign**\n**hh:s:Woodward:Modern-Thai-Sign**\n**hh:typ:Niwatphan:Thai-Sign**\n**hh:typ:Tumtavitikul:Thai-Sign**\n**hh:typ:Wallace:Thai-Sign**\n**hh:v:Woodward:Modern-Thai-Sign**"
+  },
+  "altnames": {
+    "wals": "\nThai Sign Language",
+    "multitree": "\nThai Sign Language",
+    "lexvo": "\nLíngua de Sinais Tailandesa [pt]\nThai Sign Language [en]",
+    "hhbib_lgcode": "\nModern Thai"
+  },
+  "triggers": {
+    "lgcode": "\nthai AND sign"
+  },
+  "identifier": {
+    "wals": "ths",
+    "multitree": "tsq"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Thai Sign Language (tsq-tsq) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Lexical and historical evidence in **hh:v:Wilson:French-Sign-Family(**).",
+    "subrefs": "\n**hh:v:Wilson:French-Sign-Family**"
+  }
+}

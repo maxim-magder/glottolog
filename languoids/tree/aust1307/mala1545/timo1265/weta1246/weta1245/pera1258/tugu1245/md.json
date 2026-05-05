@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tugun",
+    "hid": "tzn",
+    "level": "language",
+    "iso639-3": "tzn",
+    "latitude": "-7.72555",
+    "longitude": "126.7",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tugun](https://grambank.clld.org/languages/tugu1245)\n[Tugun](https://wals.info/languoid/lect/wals_code_tgn)\nhttps://www.wikidata.org/entity/Q12953225"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:grimes:ed:00:3**\n**hh:g:Hinton:Tugun**\n**hh:h:Taber:Maluku**\n**hh:hvw:Hinton:Wetar**\n**hh:hvw:Taber:SWMaluku**\n**mpieva:2000Spicesfr**"
+  },
+  "altnames": {
+    "wals": "\nTugun",
+    "multitree": "\nMahuan\nTugun\nTutunohan",
+    "lexvo": "\nTugun [en]",
+    "hhbib_lgcode": "\nMahuan (Wetar)"
+  },
+  "triggers": {
+    "lgcode": "\ntugun"
+  },
+  "identifier": {
+    "wals": "tgn",
+    "multitree": "tzn"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hinton:Wetar**",
+    "subrefs": "\n**hh:hvw:Hinton:Wetar**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tugun (tzn-tzn) = 6b (Threatened)."
+  }
+}

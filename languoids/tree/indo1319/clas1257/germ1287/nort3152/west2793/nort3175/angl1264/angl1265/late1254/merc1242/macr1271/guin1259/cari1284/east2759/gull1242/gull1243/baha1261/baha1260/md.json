@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bahamas Creole English",
+    "hid": "bah",
+    "level": "language",
+    "iso639-3": "bah",
+    "latitude": "25.032149",
+    "longitude": "-77.390587",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "BS"
+    ],
+    "links": "\n[Bahamas Creole English](https://grambank.clld.org/languages/baha1260)\n[Bahamian Creole](https://apics-online.info/contributions/12)\nhttps://en.wikipedia.org/wiki/Bahamian_Creole\nhttps://www.wikidata.org/entity/Q2669229"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:holm:shilling:82**\n**hh:d:Holm:Bahamian-English**\n**hh:hs:Schreieretal:Lesser-Known-English**\n**hh:s:Hackert:Bahamian**\n**hh:s:ReaserTorbert:Bahamian-English**\n**hh:s:Shilling:Bahamian**\n**hh:soc:Seymour:Bahamian**\n**hh:ssoc:Hackert:Bahamian**"
+  },
+  "altnames": {
+    "multitree": "\nBahamas Creole English\nBahamian Creole English\nBahamian Dialect",
+    "lexvo": "\nBahamas Creole English [en]\nBahamian Creole [en]\nBahamski kreolski engleski [hr]\nBahamų kreolų kalba [lt]\nБагамский креольский язык [ru]\nバハマ・クレオール語 [ja]",
+    "hhbib_lgcode": "\nBahamian English"
+  },
+  "triggers": {
+    "lgcode": "\nbahamian"
+  },
+  "identifier": {
+    "multitree": "bah"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bahamas English Creole (bah-bah) = 6a (Vigorous). De facto language of national identity."
+  }
+}

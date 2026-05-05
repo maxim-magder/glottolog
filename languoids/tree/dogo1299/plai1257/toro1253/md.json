@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Toro Tegu Dogon",
+    "hid": "dtt",
+    "level": "language",
+    "iso639-3": "dtt",
+    "latitude": "15.0644",
+    "longitude": "-2.22427",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Toro_Tegu](https://lexibank.clld.org/languages/hantganbangime-Toro_Tegu)\nhttps://en.wikipedia.org/wiki/Toro-tegu_Dogon\nhttps://www.wikidata.org/entity/Q3913924"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Heath:Tabi-Sarinyere**\n**hh:g:Heath:Toro-Tegu**\n**hh:h:Calame-Griaule:Dogon**\n**hh:hew:Arnaud:Habe**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**ldh:item_2157088**\n**ldh:item_2176429**\n**sil16:45051**"
+  },
+  "altnames": {
+    "multitree": "\nDogon\nDogon, Toro Tegu\nTandam",
+    "lexvo": "\nToro Tegu Dogon [en]",
+    "hhbib_lgcode": "\nTabi\nTabi Toro Tegu\nTabi-Sarinyere\nToro Tegu"
+  },
+  "triggers": {
+    "lgcode": "\nsarinyere\ntegu"
+  },
+  "identifier": {
+    "multitree": "dtt"
+  },
+  "classification": {
+    "sub": "**hh:hw:Hochstetler:Dogon**, **hh:hv:HeathProkhorov:Dogon** **hh:hv:MoranProkic:Dogon**",
+    "subrefs": "\n**hh:hw:Hochstetler:Dogon**\n**hh:hv:HeathProkhorov:Dogon**\n**hh:hv:MoranProkic:Dogon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dogon, Toro Tegu (dtt-dtt) = 6a (Vigorous)."
+  }
+}

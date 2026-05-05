@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Western Neo-Aramaic",
+    "hid": "amw",
+    "level": "language",
+    "iso639-3": "amw",
+    "latitude": "33.8162",
+    "longitude": "36.484",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SY"
+    ],
+    "links": "\n[Western Neo-Aramaic](https://endangeredlanguages.com/lang/3839)\n[Western Neo-Aramaic](https://grambank.clld.org/languages/west2763)\nhttps://en.wikipedia.org/wiki/Western_Neo-Aramaic\nhttps://www.wikidata.org/entity/Q34226"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arnold:89**\n**cldf:ed:10**\n**cldf:haeberl:13**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:g:Arnold:Neuwestaramaische**\n**hh:g:Jacobi:Thumischen**\n**hh:g:Maclean:Vernacular-Syriac**\n**hh:g:Spitaler:Malula**\n**hh:ld:Arnold:Western-Neo-Aramaic**\n**hh:s:Arnold:Neuwestaramaischen**\n**hh:s:Arnold:Western-Neo-Aramaic**\n**hh:s:Jastrow:Neo-Aramaic**\n**hh:sv:Correll:Neuwestaramaischen**\n**hh:t:Cantarino:Gubb-Adin**\n**hh:t:Nakano:Jubbadin**\n**mpieva:Arnold1988DasNeuwe**"
+  },
+  "altnames": {
+    "multitree": "\nAramaic\nAraméen occidental\nLoghtha Siryanoytha\nMa'lula\nMaalula\nNeo-Western Aramaic\nNeo-arameo sirio\nSiryon\nWestern Neo-Aramaic",
+    "lexvo": "\nNeuwestaramäische Sprache [de]\nNevez-aramaeg ar c'hornôg [br]\nNéo-araméen occidental [fr]\nWestern Neo-Aramaic [en]\nZapadni novoaramejski [hr]\nZápadní aramejština [cs]\nЗападен неоарамејски јазик [mk]\nארמית מערבית חדשה [he]\nภาษาอราเมอิกใหม่ตะวันตก [th]",
+    "glottolog": "\nLishshoona Aroomay\nLiššōna Arōmay\nSiryanooytha\nSiryanoytha\nSiryon\nSiryoon",
+    "hhbib_lgcode": "\nGubb Adin\nJubb'adin\nMa'lula\nMa'lūla",
+    "elcat": "\nAramaic\nLoghtha Siryanoytha\nLoghtha Siryanōytha\nMa'lula\nMaaloula\nMaalula\nNeo-Aramaic\nNeo-Western Aramaic\nSiryon\nSiryōn\nWestern\nWestern Neo-Aramaic"
+  },
+  "triggers": {
+    "lgcode": "\nmalula\nneuaramaisch\nneuwestaramaische"
+  },
+  "identifier": {
+    "multitree": "amw",
+    "endangeredlanguages": "3839"
+  },
+  "classification": {
+    "sub": "**hh:hv:HuehnergardRubin:Semitic**",
+    "subrefs": "\n**hh:hv:HuehnergardRubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Western Neo-Aramaic (3839-amw) = Endangered (20 percent certain, based on the evidence available) (Although Western Neo-Aramaic is largely considered a dying language, it is still extremely active in the three villages the author visited, used within the home and around the village.) [Arnold 1989](cldf:arnold:89)"
+  }
+}

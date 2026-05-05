@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "West Coast Bajau",
+    "hid": "bdr",
+    "level": "language",
+    "iso639-3": "bdr",
+    "latitude": "6.00631",
+    "longitude": "116.124",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Bajau (West Coast)](https://wals.info/languoid/lect/wals_code_bwc)\n[West Coast Bajau](https://grambank.clld.org/languages/west2560)\nhttps://en.wikipedia.org/wiki/West_Coast_Bajau_language\nhttps://phoible.org/languages/west2560\nhttps://www.wikidata.org/entity/Q2880037"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Miller:WCoastBajau**\n**hh:hew:Rutter:Pagans-Borneo**\n**hh:hv:Banker:West-Coast-Bajau**\n**hh:s:Miller:WCoastBajau**\n**sil16:48665**\n**sil16:48666**\n**sil16:48667**\n**sil16:49689**"
+  },
+  "altnames": {
+    "multitree": "\nBajau, West Coast\nLand Bajaw\nWest Coast Bajao",
+    "lexvo": "\nWest Coast Bajau [en]",
+    "hhbib_lgcode": "\nBajau-West Coast\nPutatan"
+  },
+  "triggers": {
+    "lgcode": "\ntembolok\nkerungaian\nbelud"
+  },
+  "identifier": {
+    "wals": "bwc",
+    "multitree": "bdr"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Pallesen:Convergence**",
+    "subrefs": "\n**hh:hvw:Pallesen:Convergence**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bajau, West Coast (bdr-bdr) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Busuu",
+    "hid": "bju",
+    "level": "language",
+    "iso639-3": "bju",
+    "latitude": "6.68152",
+    "longitude": "9.78433",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Busuu](https://endangeredlanguages.com/lang/545)\nhttps://www.wikidata.org/entity/Q35046\nhttps://en.wikipedia.org/wiki/Busuu_language",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Breton:Furu:1993**:104-105",
+    "subrefs": "\n**hh:hv:Breton:Furu:1993**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:ed:10**\n**hh:hv:Breton:Furu**\n**hh:hv:Breton:Furu:1993**"
+  },
+  "altnames": {
+    "multitree": "\nAwa\nBusuu\nBusú\nFuru",
+    "lexvo": "\nBusuu [de]\nBusuu language [en]",
+    "hhbib_lgcode": "\nAwa speak Busuu\nFuru-Awa",
+    "elcat": "\nAwa\nBusuu\nFuru"
+  },
+  "triggers": {
+    "lgcode": "\nvoisins AND furu"
+  },
+  "identifier": {
+    "multitree": "bju",
+    "endangeredlanguages": "545"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Busuu (bju-bju) = 10 (Extinct)."
+  }
+}

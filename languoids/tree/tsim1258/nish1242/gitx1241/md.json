@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Gitxsan",
+    "hid": "git",
+    "level": "language",
+    "iso639-3": "git",
+    "latitude": "55.09",
+    "longitude": "-128.08",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Gitksan](https://wals.info/languoid/lect/wals_code_git)\n[Gitsenimx̱](https://endangeredlanguages.com/lang/4213)\nhttps://en.wikipedia.org/wiki/Gitxsan_language\nhttps://www.wikidata.org/entity/Q3107862"
+  },
+  "sources": {
+    "glottolog": "\n**anla:CA985B1985**\n**anla:CA987KR1987**\n**cldf:adams:73**\n**cldf:boas:99**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cybulski:90**\n**cldf:drucker:50**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:garfield:39**\n**cldf:garfield:wingert:etal:51**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:goddard:etal:08**\n**cldf:kane:59**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:sapir:20:1**\n**haspelmath:matthewson_gitksan_2013**\n**hh:d:Hindle:Gitksan**\n**hh:d:MathewsWale:Gitksan**\n**hh:e:Daly:Gitxsan**\n**hh:e:HalpinSeguin:Tsimshian**\n**hh:g:Rigsby:Gitksan**\n**hh:phon:Brown:Gitksan**\n**hh:phon:Wickstrom:Gitksan**\n**hh:s:Rigsby:Gitksan**\n**hh:styp:Hunt:Gitksan**\n**hh:svtyp:Forbes:Tsimshianic**\n**hh:typ:Peterson:Gitksan**\n**hh:v:Dunn:Southern-Tsimshian**"
+  },
+  "altnames": {
+    "wals": "\nGitksan",
+    "wals other": "\nNass-Gitksan",
+    "ruhlen (1987)": "\nNass-Gitksan",
+    "multitree": "\nGiklsan\nGitksan\nGitksanimx\nGitskan\nGitxsan\nGityskyan\nGyitska'n\nInterior\nNass-Gitksan\nNass-gitskan",
+    "lexvo": "\nGitksan [fr]\nGitxsan [en]\nGitxsan language [en]",
+    "hhbib_lgcode": "\nGitksan",
+    "elcat": "\nGiklsan\nGitksan\nGitksanimx\nGitsanimx̱\nGitsenimx̱\nGitxsan\nGitxsen\nGityskyan\nGyitska'n\nHazelton\nInterior\nNass-Gitksan"
+  },
+  "triggers": {
+    "lgcode": "\ngitxsan\nNOT in AND gitksan"
+  },
+  "identifier": {
+    "wals": "git",
+    "multitree": "ngit;git",
+    "endangeredlanguages": "4213"
+  },
+  "classification": {
+    "sub": "**hh:g:Tarpent:Nisgha**",
+    "subrefs": "\n**hh:g:Tarpent:Nisgha**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Gitsenimx̱ (4213-git) = severely endangered"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tsat",
+    "hid": "huq",
+    "level": "language",
+    "iso639-3": "huq",
+    "latitude": "18.3192",
+    "longitude": "109.336",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Tsat](https://endangeredlanguages.com/lang/1992)\n[Tsat](https://grambank.clld.org/languages/tsat1238)\n[Tsat](https://wals.info/languoid/lect/wals_code_tst)\nhttps://en.wikipedia.org/wiki/Tsat_language\nhttps://www.wikidata.org/entity/Q34133"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:92:1**\n**cldf:np:nd:264**\n**cldf:thurgood:92**\n**hh:g:Thurgood:Hainan-Cham**\n**hh:g:Zheng:Huihui**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:ThurdgoodLi:Tsat**\n**hh:ld:OuyangViqing:Huihui**\n**hh:ld:ThurgoodLi:Tsat**\n**hh:typ:Thurgood:Hainan-Cham-Anong-ECham**\n**hh:vld:Ni:Sanya-Hui**\n**sil16:35852**\n**sil16:35853**\n**sil16:48368**"
+  },
+  "altnames": {
+    "wals": "\nTsat",
+    "ruhlen (1987)": "\nHuihui",
+    "moseley & asher (1994)": "\nHuihui",
+    "multitree": "\nHainan Cham\nHui\nHuihui\nTsat\nUtsat\nUtset",
+    "lexvo": "\nTsat [en]\nTsat language [en]\nЦатский язык [ru]\nภาษาทซัต [th]\n回輝話 [zh]",
+    "hhbib_lgcode": "\nHainan Cham\nHuihui\nHutsan\nSanya Hui\nUtsat",
+    "elcat": "\nHainan Cham\nHui\nHuihui\nTsat\nUtsat\nUtset\n占語\n回輝話"
+  },
+  "triggers": {
+    "lgcode": "\nhuihui\nutsat\ntsat"
+  },
+  "identifier": {
+    "wals": "tst",
+    "multitree": "huq",
+    "endangeredlanguages": "1992"
+  },
+  "classification": {
+    "sub": "**hh:hv:Brunelle:Chamic:2024**",
+    "subrefs": "\n**hh:hv:Brunelle:Chamic:2024**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tsat (1992-huq) = Threatened (60 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

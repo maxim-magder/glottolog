@@ -1,0 +1,32 @@
+{
+  "core": {
+    "name": "Puebla and Northeastern Mazatec",
+    "level": "language",
+    "iso639-3": "pbm",
+    "hid": "pbm",
+    "countries": [
+      "MX"
+    ],
+    "macroareas": [
+      "North America"
+    ],
+    "longitude": "-96.9894",
+    "latitude": "18.2806"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMazatec-Puebla and Northeastern\nPuebla Mazatec\nSan Lorenzo Cuaunecuiltitla"
+  },
+  "classification": {
+    "sub": "**hh:hv:Leonard:Mazateco**:20-21 **hh:hv:Leonard:Mazatec-Patterns**:246-247",
+    "subrefs": "\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hv:Leonard:Mazateco**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mazatec, Puebla and Northeastern (pbm-pbm) = 6a (Vigorous)."
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Gamez:Mazatzongo**\n**hh:hvwphon:Kirk:Mazatec**\n**hh:phon:Carrera:Mazateco-Cuaunecuiltitla**\n**iso6393:2017-021**"
+  }
+}

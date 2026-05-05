@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Khasi",
+    "hid": "kha",
+    "level": "language",
+    "iso639-3": "kha",
+    "latitude": "24.977",
+    "longitude": "91.9998",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN"
+    ],
+    "links": "\n[Khasi](https://grambank.clld.org/languages/khas1269)\n[Khasi](https://lexibank.clld.org/languages/nagarajakhasian-Khasi)\n[Khasi](https://wals.info/languoid/lect/wals_code_khs)\nhttps://en.wikipedia.org/wiki/Khasi_language\nhttps://phoible.org/languages/khas1269\nhttps://www.wikidata.org/entity/Q33584"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:351**\n**cldf:abbi:87**\n**cldf:becker:09**\n**cldf:chattopadhyay:41**\n**cldf:duttabaruah:ed:97:2**\n**cldf:grierson:ed:95:9**\n**cldf:guha:31**\n**cldf:gurden:04**\n**cldf:gurdon:07**\n**cldf:henderson:89**\n**cldf:mccormack:64**\n**cldf:mccormack:67**\n**cldf:miri:ed:03:3**\n**cldf:miri:ed:03:4**\n**cldf:nagaraja:94**\n**cldf:rabel-heymann:77**\n**cldf:roberts:95:1**\n**cldf:singh:06**\n**hh:bsoc:Bareh:Meghalaya**\n**hh:d:Joseph:Khasi**\n**hh:d:Kharkongngor:Khasi**\n**hh:e:Bareh:Khasi**\n**hh:es:Gurdon:Khasis**\n**hh:g:Nagaraja:Khasi**\n**hh:g:Nagaraja:Khasi:1977**\n**hh:g:Pryse:Khasia**\n**hh:g:Rabel:Khasi**\n**hh:g:Rabel:Khasi:1958**\n**hh:g:Roberts:Khasi**\n**hh:g:Roberts:Khassi**\n**hh:he:Bessaignet:Northern-East-Pakistan**\n**hh:he:vonFurer-Haimendorf:Tribal-Indian**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hv:Diffloth:Khasi-Sino-Tibetan**\n**hh:hv:Schmidt:Khasi-Mon-Khmer**\n**hh:hv:Sidwell:Khasi-Palaung**\n**hh:hv:Sidwell:Khasian:2018**\n**hh:hvw:Daladier:Pnaric**\n**hh:hvw:Grierson:2**\n**hh:hvw:Nagarajaetal:Khasian**\n**hh:phon:Bajpai:Khasi**\n**hh:phon:Dhar:Lamin**\n**hh:phon:Khyriem:Nongtrai**\n**hh:phon:Syiemlieh:Mawlong-Khasi**\n**hh:phonv:Dhar:Lamin-Shella**\n**hh:s:Lyngdoh:Maram**\n**hh:s:Nagaraja:Bhoi-Khasi**\n**hh:s:Nagaraja:Standard-Khasi**\n**hh:s:Shabong:Khasi-Kharia**\n**hh:s:vonderGabelentz:Kassia**\n**hh:soc:Lakyntiew:Harlibagan**\n**hh:typ:Lyngdoh:Maram**\n**hh:typ:Nongkynrih:Khasi**\n**hh:typ:War:Khasi**\n**hh:v:DasGupta:Khasi**\n**hh:w:Campbell:India**\n**iso6393:2007-064**\n**mpieva:Dutta1997Language**\n**mpieva:Gewali2007HindiKha**\n**mpieva:Kharkongngor2002Kadiensh**\n**mpieva:Marak2003GaroKhas**\n**mpieva:Nagaraja1990Khasipho**\n**mpieva:Roberts2000Agrammar**\n**mpieva:Singh2004KhasiEng**\n**mpieva:Singh2006EnglishK**\n**mpieva:Synrem2002Kastanda**\n**sil16:34758**\n**sil16:37936**\n**sil16:41973**"
+  },
+  "altnames": {
+    "wals": "\nKhasi",
+    "ruhlen (1987)": "\nKhasi",
+    "moseley & asher (1994)": "\nKhasi",
+    "multitree": "\nCossyah\nJasí\nKahasi\nKassi\nKhasa\nKhashi\nKhasi\nKhasia\nKhasie\nKhasiyas\nKhassee\nKhuchia\nKyi\nStandard Khasi",
+    "lexvo": "\nJęzyk chasi [pl]\nKaseg [br]\nKhasi [de]\nKhasi language [en]\nLingua Khasi [la]\nLíngua khasi [pt]\nkhasi [fr]\nКхаси [ru]\nखासी भाषा [hi]\nภาษากาสี [th]",
+    "hhbib_lgcode": "\nBhoi Khasi\nBhoi-War Khasi\nKhasis\nKhassi\nLamin\nMaram\nMawlong\nNongtrai\nStandard Khasi"
+  },
+  "triggers": {
+    "lgcode": "\nkhasis\nsalwin\nkassia\nderjenigen\nkhasian\nbenedicts\nkhassi\nsuggestion\nlyngngam\npnaric\nkhasi\nshafers"
+  },
+  "identifier": {
+    "wals": "khs",
+    "multitree": "kha"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Nagarajaetal:Khasian** **hh:hv:Sidwell:Khasian:2018**",
+    "subrefs": "\n**hh:hvw:Nagarajaetal:Khasian**\n**hh:hv:Sidwell:Khasian:2018**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Khasi (1231-kha) = Vulnerable"
+  }
+}

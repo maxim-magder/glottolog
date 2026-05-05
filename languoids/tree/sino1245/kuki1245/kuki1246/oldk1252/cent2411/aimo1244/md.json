@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Aimol",
+    "hid": "aim",
+    "level": "language",
+    "iso639-3": "aim",
+    "latitude": "24.6437",
+    "longitude": "94.3556",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Aimol](https://endangeredlanguages.com/lang/3700)\nhttps://www.wikidata.org/entity/Q4697175\nhttps://en.wikipedia.org/wiki/Aimol_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bose:36**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:needham:60**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Aimol:Aimol**\n**hh:e:Furness:Nagas**\n**hh:g:Singh:Aimol**\n**hh:h:Ruhemann:Burma-Assam**\n**hh:hv:Konnerth:Northwestern-Kuki-Chin**\n**hh:hvw:Grierson:3:III**\n**hh:ldsoc:Suantak:Aimol**\n**hh:soc:Aimol:Aimol**\n**hh:typ:Aimol:Aimol**\n**hh:typ:Singh:Kom-Aimol**"
+  },
+  "altnames": {
+    "multitree": "\nAimal\nAimol\nLangrong",
+    "lexvo": "\nAimol [en]",
+    "elcat": "\nAimal\nAimol\nLangrong",
+    "hhbib_lgcode": "\nAimon"
+  },
+  "triggers": {
+    "lgcode": "\naimol"
+  },
+  "identifier": {
+    "multitree": "aim",
+    "endangeredlanguages": "3700"
+  },
+  "classification": {
+    "sub": "**hh:ldsoc:Suantak:Aimol**",
+    "subrefs": "\n**hh:ldsoc:Suantak:Aimol**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Aimol (3700-aim) = Endangered (40 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

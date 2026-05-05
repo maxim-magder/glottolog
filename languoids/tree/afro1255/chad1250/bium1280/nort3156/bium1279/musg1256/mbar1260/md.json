@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mbara (Chad)",
+    "hid": "mpk",
+    "level": "language",
+    "iso639-3": "mpk",
+    "latitude": "10.91",
+    "longitude": "15.54",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Mbara](https://wals.info/languoid/lect/wals_code_mbr)\n[Mbara (Chad)](https://endangeredlanguages.com/lang/578)\n[Mbara (Chad)](https://grambank.clld.org/languages/mbar1260)\nhttps://en.wikipedia.org/wiki/Mbara_language_(Chad)\nhttps://www.wikidata.org/entity/Q3912770"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:connell:07:1**\n**cldf:ed:10**\n**eballiso2009:49699**\n**eballiso2009:5181**\n**hh:g:TourneuxSeignobosLafarge:Mbara**\n**hh:w:Tourneux:Mbara**"
+  },
+  "altnames": {
+    "wals": "\nMbara",
+    "multitree": "\nG'kelendeg\nG'kelendeng\nGuelengdeng\nMassa de Guelengdeng\nMbara",
+    "lexvo": "\nMbara (Chad) [en]\nMbara [en]",
+    "elcat": "\nG'kelendeg\nG'kelendeng\nGuelengdeng\nMassa de Guelengdeng\nMbara (Chad)"
+  },
+  "triggers": {
+    "lgcode": "\nmbara"
+  },
+  "identifier": {
+    "wals": "mbr",
+    "multitree": "mpk",
+    "endangeredlanguages": "578"
+  },
+  "classification": {
+    "sub": "**hh:g:TourneuxSeignobosLafarge:Mbara**:122, 195-203 **hh:hv:Tourneux:Musgu**",
+    "subrefs": "\n**hh:g:TourneuxSeignobosLafarge:Mbara**\n**hh:hv:Tourneux:Musgu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mbara (Chad) (578-mpk) = Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

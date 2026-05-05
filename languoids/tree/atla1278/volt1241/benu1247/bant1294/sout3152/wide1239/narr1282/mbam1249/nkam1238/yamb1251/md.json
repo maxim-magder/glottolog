@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Yamba",
+    "hid": "yam",
+    "level": "language",
+    "iso639-3": "yam",
+    "latitude": "6.535505",
+    "longitude": "11.07711",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Yamba](https://lexibank.clld.org/languages/polyglottaafricana-Yamba)\n[Yamba](https://wals.info/languoid/lect/wals_code_yba)\nhttps://en.wikipedia.org/wiki/Yamba_language\nhttps://phoible.org/languages/yamb1251\nhttps://www.wikidata.org/entity/Q36904"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:leroy:83**\n**eballiso2009:11236**\n**eballiso2009:15875**\n**eballiso2009:15882**\n**eballiso2009:19336**\n**eballiso2009:31619**\n**eballiso2009:43537**\n**eballiso2009:50111**\n**eballiso2009:51728**\n**eballiso2009:53610**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Scruggs:Yamba**\n**hh:phon:Scruggs:Yamba**\n**hh:s:Lucia:Yamba**\n**hh:soctyp:Yeriwa:Yamba**\n**hh:typ:Njerim:Yamba**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**iso6393:2014-044**\n**ldh:item_403580**\n**mpieva:Nassuna2001Yambaamo**\n**sil16:17027**\n**sil16:20180**\n**sil16:20181**\n**sil16:33827**\n**sil16:48125**\n**sil16:48735**\n**sil16:48736**"
+  },
+  "altnames": {
+    "wals": "\nYamba",
+    "ruhlen (1987)": "\nYamba",
+    "moseley & asher (1994)": "\nYamba",
+    "multitree": "\n\"Kaka\"\nBebaroe\nBoenga Ko Muzok\nKakayamba\nMbem\nMbubem\nSwe'nga\nYamba",
+    "lexvo": "\nYamba [en]",
+    "hhbib_lgcode": "\nKaka\nKaka of R Koops in Williamson 1973\nKwak\nMbëm\nMfe\nNde Bukwok\nNkot\nNtem\nNtong\nNtshep be Si\nSih\nTshintshe of Ntem\nWante"
+  },
+  "triggers": {
+    "lgcode": "\nmandz\nadun\nntem\nyamba"
+  },
+  "identifier": {
+    "wals": "yba",
+    "multitree": "yam"
+  },
+  "classification": {
+    "sub": "**hh:hv:Eliasetal:Mbam-Nkam**",
+    "subrefs": "\n**hh:hv:Eliasetal:Mbam-Nkam**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yamba (yam-yam) = 5 (Developing)."
+  }
+}

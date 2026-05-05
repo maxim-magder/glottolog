@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Morisyen",
+    "hid": "mfe",
+    "level": "language",
+    "iso639-3": "mfe",
+    "latitude": "-20.2613",
+    "longitude": "57.5517",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MU"
+    ],
+    "links": "\n[Mauritian Creole](https://apics-online.info/contributions/55)\n[Mauritian Creole](https://wals.info/languoid/lect/wals_code_mcr)\nhttps://en.wikipedia.org/wiki/Mauritian_Creole\nhttps://phoible.org/languages/mori1278\nhttps://www.wikidata.org/entity/Q33661"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adone:04**\n**cldf:atchia-emmerich:05**\n**cldf:baker:03:2**\n**cldf:baker:ed:95:2**\n**cldf:baker:hookoomsing:87**\n**cldf:baker:syea:ed:96:5**\n**cldf:bollee:04**\n**cldf:carden:stewart:89**\n**cldf:corne:88:1**\n**cldf:corne:99**\n**cldf:kriegel:00**\n**cldf:kriegel:07**\n**cldf:kriegel:96**\n**cldf:kriegel:98**\n**cldf:kriegel:michaelis:07**\n**cldf:kriegel:michaelis:etal:03**\n**cldf:kriegel:sibylle:etal:08**\n**cldf:kriegel:sibylle:etal:09**\n**cldf:ludwig:ralph:etal:nd**\n**cldf:seuren:90:2**\n**cldf:seuren:95**\n**cldf:syea:11**\n**cldf:syea:97**\n**cldf:veronique:00**\n**cldf:veronique:93**\n**cldf:veronique:ed:96:3**\n**cldf:veronique:ed:96:4**\n**eballiso2009:1818**\n**eballiso2009:20390**\n**eballiso2009:20391**\n**eballiso2009:20749**\n**eballiso2009:22377**\n**eballiso2009:22378**\n**eballiso2009:24333**\n**eballiso2009:30991**\n**eballiso2009:31333**\n**eballiso2009:31939**\n**eballiso2009:38561**\n**eballiso2009:38563**\n**eballiso2009:40794**\n**eballiso2009:40986**\n**eballiso2009:43486**\n**eballiso2009:48516**\n**eballiso2009:51686**\n**eballiso2009:51687**\n**eballiso2009:5752**\n**eballiso2009:5756**\n**eballiso2009:5882**\n**eballiso2009:8769**\n**eballiso2009:8774**\n**hh:d:Lee:Mauritius**\n**hh:e:Jeffery:Chagos**\n**hh:g:Baissac:Mauricien**\n**hh:g:Baker:Mauritian**\n**hh:g:BakerCorne:IsledeFrance**\n**hh:g:Carpooran:Mauricien**\n**hh:g:Corne:Creole**\n**hh:g:Most:Mauritian**\n**hh:g:Police-Michel:Morisien**\n**hh:hvtyp:Papen:Indian-Ocean**\n**hh:s:Adam:Aryen**\n**hh:s:BakerKriegel:Mauritian**\n**hh:s:Choy:Morisien**\n**hh:s:David:Creole**\n**hh:s:Gobl-Galdi:Patois-Francais**\n**hh:soc:Benjelloun:Chagossien**\n**hh:soc:Mahadeo:Mauritian-Creole**\n**hh:t:Baissac:Creoles**\n**hh:typ:Alleesaib:Creole-Mauricien**\n**hh:typ:Strandqvist:Mauritian:Article**\n**hh:v:Baker:Mauritian-Creole**\n**mpieva:2001Corpuscr**\n**mpieva:Adone1994Theacqui**\n**mpieva:Baker1987Diksyone**\n**mpieva:Bollee20002007**\n**mpieva:Chaudenson1981Textescr**\n**mpieva:Corne1995MetchifM**"
+  },
+  "altnames": {
+    "wals": "\nMauritian Creole",
+    "wals other": "\nCreole (Mauritian)\nKreol (Mauritian)\nMauritian French Creole",
+    "multitree": "\nIndian Ocean Creole French\nKreol\nKreole\nMauritian\nMauritius Creole French\nMaurysen\nMorisyen",
+    "lexvo": "\nCreolo mauriziano [it]\nCriollo mauriciano [es]\nCrioulo de Maurício [pt]\nCréole mauricien [fr]\nJęzyk kreolski Mauritiusa [pl]\nKreoleg Maoris [br]\nMauricijski kreolski jezik [hr]\nMauritian Creole [en]\nMorisyen [de]\nМаврицийски език [bg]\nМаурицијски креолски [sr]",
+    "hhbib_lgcode": "\nChagos Creole\nChagossien\nMaleo-Aryen\nMauritian Creole\nRodrigues Creole"
+  },
+  "triggers": {
+    "lgcode": "\n978\ntouristes\nultimate\nmauriciens\ncoolies\nmorisyen\nfranzoesisch\nparlez\nmauritien\nmetchif\nresided\nlatter\nparadoxale\nmauricien\ncreole AND mauritian"
+  },
+  "identifier": {
+    "wals": "mcr",
+    "multitree": "mfe"
+  },
+  "classification": {
+    "sub": "**hh:g:BakerCorne:IsledeFrance**",
+    "subrefs": "\n**hh:g:BakerCorne:IsledeFrance**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Morisyen (mfe-mfe) = 3 (Wider communication). De facto language of national identity. Originated in 1721 in the colonial society in Bourbon and brought to Mauritius. Lingua franca between freed slaves, Indian and Chinese immigrants."
+  }
+}

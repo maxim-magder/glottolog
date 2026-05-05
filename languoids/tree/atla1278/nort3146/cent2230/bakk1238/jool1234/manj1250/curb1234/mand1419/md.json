@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mandjak",
+    "hid": "mfv",
+    "level": "language",
+    "iso639-3": "mfv",
+    "latitude": "12.829",
+    "longitude": "-15.9217",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Manjaku](https://lexibank.clld.org/languages/polyglottaafricana-Manjaku)\n[Manjaku](https://wals.info/languoid/lect/wals_code_mjk)\n[Manjaku-Tame](https://lexibank.clld.org/languages/polyglottaafricana-ManjakuTame)\nhttps://en.wikipedia.org/wiki/Manjak_language\nhttps://www.wikidata.org/entity/Q35822"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:buis:90**\n**cldf:kihm:98**\n**eballiso2009:16271**\n**eballiso2009:16272**\n**eballiso2009:20983**\n**eballiso2009:20984**\n**eballiso2009:20986**\n**eballiso2009:23238**\n**eballiso2009:30733**\n**eballiso2009:41677**\n**eballiso2009:53273**\n**eballiso2009:53281**\n**eballiso2009:7393**\n**eballiso2009:7398**\n**hh:g:Buis:Manjako**\n**hh:g:CarreiraMarques:Manjaca**\n**hh:g:Karlik:Manjako**\n**hh:hv:Marques:Manjacos**\n**hh:hv:Mukarovsky:Westatlantischen**\n**hh:hvs:Wilson:Atlantic**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Tastevin:Senegalais**\n**hh:s:Doneux:Manjaku**\n**hh:typ:Doneux:Manjaku**\n**hh:w:Armstrong:West-African**\n**hh:w:Doneux:Manjaku**\n**mpieva:Buis1990Essaisur**\n**sil16:45308**"
+  },
+  "altnames": {
+    "wals": "\nManjaku",
+    "wals other": "\nMandyak",
+    "ruhlen (1987)": "\nManjanku",
+    "moseley & asher (1994)": "\nManjaku",
+    "multitree": "\nKanyop\nKenyop\nMajak\nMandjak\nMandjaque\nMandyak\nManjaca\nManjack\nManjaco\nManjaku\nManjiak\nManyako\nMendyako\nNdjak\nNdyak\nSarar\nSchadal",
+    "lexvo": "\nMandjak [en]",
+    "hhbib_lgcode": "\nKanyop\nKanyop or Manjako\nMa N'jak\nManjaco\nManjacos\nManjak\nManjaku\nSarar\nSarar or Sadal"
+  },
+  "triggers": {
+    "lgcode": "\nmandyak\nmanjaku\nmanjaca\nsenegaliases\nmanjacos\nmanjako"
+  },
+  "identifier": {
+    "wals": "mjk",
+    "multitree": "mfv"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mandjak (mfv-mfv) = 6b (Threatened)."
+  }
+}

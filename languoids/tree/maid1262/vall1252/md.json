@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Valley Maidu",
+    "hid": "vmv",
+    "level": "language",
+    "iso639-3": "vmv",
+    "latitude": "39.8078",
+    "longitude": "-121.191",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5096458\nhttps://en.wikipedia.org/wiki/Chico_language",
+    "timespan": "2000-01-01/2000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dixon:05:1**\n**cldf:loeb:33:2**\n**cldf:voegelin:42**\n**hh:hvb:Golla:California**"
+  },
+  "altnames": {
+    "multitree": "\nMaidu\nMaidu, Valley\nMaidú nororiental",
+    "lexvo": "\nChico language [en]\nValley Maidu [en]",
+    "hhbib_lgcode": "\nChico Maidu"
+  },
+  "triggers": {
+    "lgcode": "\ngrammar AND valley"
+  },
+  "identifier": {
+    "multitree": "vmv"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maidu, Valley (vmv-vmv) = 10 (Extinct)."
+  }
+}

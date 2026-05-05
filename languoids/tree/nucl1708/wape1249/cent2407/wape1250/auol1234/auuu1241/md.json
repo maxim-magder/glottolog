@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Au",
+    "hid": "avt",
+    "level": "language",
+    "iso639-3": "avt",
+    "latitude": "-3.53277",
+    "longitude": "142.105",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Au](https://endangeredlanguages.com/lang/10544)\n[Au](https://grambank.clld.org/languages/auuu1241)\n[Au](https://wals.info/languoid/lect/wals_code_au)\nhttps://en.wikipedia.org/wiki/Au_language\nhttps://phoible.org/languages/auuu1241\nhttps://www.wikidata.org/entity/Q3446608"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:scorza:80**\n**hh:e:Philsooph:Au**\n**hh:e:Scorza:Au**\n**hh:e:Tracer:Au**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:s:Scorza:Au**\n**hh:s:Scorza:Au:1973**\n**hh:s:Scorza:Au:1974**\n**hh:s:Scorza:Au:1976**\n**hh:s:Scorza:Au:1978**\n**hh:v:Elgh:Au-Olo**\n**hh:w:Laycock:C9**\n**mpieva:Healey1973Threestu**\n**sil16:12269**\n**sil16:14444**\n**sil16:14445**\n**sil16:14446**\n**sil16:14447**\n**sil16:14448**\n**sil16:17649**\n**sil16:17650**\n**sil16:17651**\n**sil16:17652**\n**sil16:17653**\n**sil16:23089**\n**sil16:49877**\n**sil16:50159**\n**silpng:silpng1956-1990:106**\n**silpng:silpng1956-1990:107**\n**silpng:silpng1956-1990:108**\n**silpng:silpng1956-1990:109**\n**silpng:silpng1956-1990:110**\n**silpng:silpng1956-1990:111**\n**silpng:silpng1956-1990:112**\n**silpng:silpng1956-1990:113**\n**silpng:silpng1956-1990:1240**\n**silpng:silpng1956-1990:1241**\n**silpng:silpng1956-1990:1242**"
+  },
+  "altnames": {
+    "wals": "\nAu",
+    "ruhlen (1987)": "\nAu",
+    "moseley & asher (1994)": "\nAu",
+    "lexvo": "\nAu [en]\nAu language [en]\nJęzyk au [pl]",
+    "hhbib_lgcode": "\nAu of Puang village",
+    "elcat": "\nAu"
+  },
+  "triggers": {
+    "lgcode": "\ntuwei\nscorza\nmetike\nnekinaam\nplease\nbehave\nmenmen"
+  },
+  "identifier": {
+    "wals": "au",
+    "endangeredlanguages": "10544"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Laycock:Lumi**:48 **hh:v:Elgh:Au-Olo**",
+    "subrefs": "\n**hh:v:Elgh:Au-Olo**\n**hh:hvw:Laycock:Lumi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Au (10544-avt) = Threatened (20 percent certain, based on the evidence available) [Scorza 1980](cldf:scorza:80)"
+  }
+}

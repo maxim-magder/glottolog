@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Avar",
+    "hid": "ava",
+    "level": "language",
+    "iso639-3": "ava",
+    "latitude": "41.7047",
+    "longitude": "46.558",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "GE",
+      "RU",
+      "TR"
+    ],
+    "links": "\n[Avar](https://lexibank.clld.org/languages/northeuralex-ava)\n[Avar](https://wals.info/languoid/lect/wals_code_ava)\nhttps://en.wikipedia.org/wiki/Avar_language\nhttps://phoible.org/languages/avar1256\nhttps://www.wikidata.org/entity/Q29561"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1312**\n**cldf:bokarev:49:1**\n**cldf:kalinina:93**\n**cldf:kazenin:93**\n**cldf:kibrik:03**\n**cldf:kodzasov:99:1**\n**cldf:madieva:67**\n**cldf:madieva:80**\n**cldf:vonerckert:95**\n**cldf:zhirkov:36**\n**hh:d:Abshilov:Sogratlinskij**\n**hh:d:Saidova:Avarskogo**\n**hh:d:Zirkov:Avarsko**\n**hh:e:Aglarov:Avars**\n**hh:g:Alekseev:Avarskij**\n**hh:g:AlekseevAtaev:Avarskij**\n**hh:g:Bokarev:Avarskogo**\n**hh:g:Charachidze:Avar**\n**hh:g:ChikobavaTsertsvadze:Xundzuri**\n**hh:g:Saidova:Zakatalskij**\n**hh:g:Zirkov:Avarskogo**\n**hh:gd:Uslar:Avarskij**\n**hh:hs:Klaproth:Kaukasus**\n**hh:htyp:Gamzatova:Dagestana**\n**hh:hv:Alekseev:Avaro-Andijskix**\n**hh:hv:Ardoteli:Avar-Andi-Dido**\n**hh:hv:Ardoteli:Avar-Andi-Dido:2009**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:hv:Mikailov:Avarskoj**\n**hh:hvw:Latham:Comparative**\n**hh:s:Ebeling:Avar**\n**hh:s:Forker:Avar**\n**hh:s:Graham:Avar**\n**hh:s:Magomedova:Tloxskogo**\n**hh:s:Nurmagomedova:Tloxskogo**\n**hh:s:Schiefner:Awarische**\n**hh:styp:Rudnev:Avar**\n**hh:typ:Kibrik:Andalal**\n**mpieva:2008Inzilnov**\n**mpieva:Alekseev1998Avarskij**\n**mpieva:Chajbullaev1998Duchovna**\n**mpieva:Chalidova2004Ustnoena**\n**mpieva:Chalidova2006Avarskoa**\n**mpieva:Isakov1992Giurusav**\n**mpieva:Magomaeva2005Avarskie**\n**mpieva:Magomedov2006Canka**\n**mpieva:Mallaeva1998Vidovrem**\n**mpieva:Saidov1967Avarskor**\n**mpieva:Savas1990Dagistan**\n**mpieva:Schiefner2008Awarisch**\n**sil16:45462**\n**sil16:45587**\n**sil16:45588**"
+  },
+  "altnames": {
+    "glottolog": "\nAvaric",
+    "wals": "\nAvar",
+    "wals other": "\nAvar\nKhunza dialect",
+    "ruhlen (1987)": "\nAvar",
+    "moseley & asher (1994)": "\nAvar",
+    "multitree": "\nAkari\nAvar\nAvari\nAvaro\nDagestan",
+    "lexvo": "\nAbararazda [got]\nAvaarin kieli [fi]\nAvaars [nl]\nAvar [fr]\nAvar dili [az]\nAvar language [en]\nAvarca [tr]\nAvareg [br]\nAvaric [en]\nAvarisk [no]\nAvarisk språk [nn]\nAvariska [sv]\nAvarska [is]\nAvarština [cs]\nAvarščina [sl]\nAvarų kalba [lt]\nAvāru valoda [lv]\nAwar dili [tk]\nAwarische Sprache [de]\nBahasa Avar [ms]\nIdioma ávaro [es]\nJęzyk awarski [pl]\nLingua avara [it]\nLíngua avar [pt]\navar [fr]\nÀvar [ca]\nÈdè Avar [yo]\nАварски език [bg]\nАварски јазик [mk]\nАварский язык [ru]\nАварська мова [uk]\nАуар теле [ba]\nЖIайхойн мотт [ce]\nМагIарул мацI [av]\nСолиаг æвзаг [os]\nزبان آواری [fa]\nアヴァル語 [ja]\n阿瓦尔语 [zh]\n아바르어 [ko]",
+    "hhbib_lgcode": "\nAvaric\nAvarische\nAvars\nAvarskij\nAwarische\nNorthern Avar\nOrotin\nSogratl\nStandard Literary Avar\nStandard Northern Avar\nTlox\nXundzuri"
+  },
+  "triggers": {
+    "lgcode": "\nandijskie\navarskij\navarskogo\nawarische\navar\navarskoj"
+  },
+  "identifier": {
+    "wals": "ava",
+    "multitree": "avar;ava"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nichols:Nakh-Dagestanian**",
+    "subrefs": "\n**hh:hv:Nichols:Nakh-Dagestanian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Avar (1069-ava) = Vulnerable"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sabanê",
+    "hid": "sae",
+    "level": "language",
+    "iso639-3": "sae",
+    "latitude": "-12.9857",
+    "longitude": "-60.335",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Sabané](https://endangeredlanguages.com/lang/2756)\n[Sabanê](https://grambank.clld.org/languages/saba1268)\nhttps://en.wikipedia.org/wiki/Saban%C3%AA_language\nhttps://phoible.org/languages/saba1268\nhttps://www.wikidata.org/entity/Q3460478"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**fabreall2009ann:Nambikwara_sabane1**\n**hh:g:deAraujo:Sabane**\n**hh:phon:deAraujo:Sabane**\n**hh:soc:Couto:Sabane**\n**iso6393:2008-020**\n**ldh:item_401352**\n**mpieva:Antunes2004Agrammar**"
+  },
+  "altnames": {
+    "glottolog": "\nSabane",
+    "multitree": "\nSabane\nSabané\nSabanés\nSabanê\nSabanês\nSabones",
+    "lexvo": "\nSabanê [en]",
+    "hhbib_lgcode": "\nSabanês",
+    "elcat": "\nSabane\nSabané\nSabanés\nSabanê\nSabanês\nSabones"
+  },
+  "triggers": {
+    "lgcode": "\nsabane\nnambikwaran"
+  },
+  "identifier": {
+    "multitree": "sae",
+    "endangeredlanguages": "2756"
+  },
+  "classification": {
+    "sub": "**hh:g:Eberhard:Mamainde**:21-31",
+    "subrefs": "\n**hh:g:Eberhard:Mamainde**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sabané (2756-sae) = Critically Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Parthian",
+    "hid": "xpr",
+    "level": "language",
+    "iso639-3": "xpr",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q25953\nhttps://en.wikipedia.org/wiki/Parthian_language",
+    "longitude": "56.056",
+    "latitude": "37.052",
+    "timespan": "0020-01-01/0020-01-01"
+  },
+  "classification": {
+    "sub": "**hh:v:Paul:Zazaki** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:v:Paul:Zazaki**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:b:Dresden:Middle-Iranian**\n**hh:d:Boyce:Parthian**\n**hh:d:Durkin-Meisterernst:Parthian**\n**hh:g:Durkin-Meisterernst:Westmitteliranischen**\n**hh:hb:Durkin-Meisterernst:Mitteliranisch**\n**hh:s:RastorguevaMolcanova:Parfjanskij**\n**hh:s:Skjaervo:MWIranian**\n**hh:s:Sundermann:Parthisch**\n**hh:t:Boyce:Parthian**\n**hh:typ:Ghilain:Parthe**"
+  },
+  "altnames": {
+    "lexvo": "\nBahasa Parthia [id]\nIdioma parto [es]\nLingua Parthica [la]\nLíngua pahlavi [pt]\nParthe [fr]\nParthian [en]\nParthian kieli [fi]\nParthian language [en]\nParthische Sprache [de]\nPartki [diq]\nPartça [tr]\nПарфянский язык [ru]\nПарћански језик [sr]\nزبان پارتی [fa]\nภาษาพาร์เทียน [th]",
+    "hhbib_lgcode": "\nManichaean Middle Persian and Parthian\nParthain\nParthe"
+  },
+  "triggers": {
+    "lgcode": "\nparfjanskij\nparthisch"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient languages of the Middle East and Central Asia are attested, but missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One is Parthian (**hh:s:RastorguevaMolcanova:Parfjanskij**, **hh:g:Durkin-Meisterernst:Westmitteliranischen**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xpr"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Parthian (xpr-xpr) = 10 (Extinct)."
+  }
+}

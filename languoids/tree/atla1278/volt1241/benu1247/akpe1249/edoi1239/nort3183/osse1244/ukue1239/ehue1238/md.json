@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ehueun",
+    "hid": "ehu",
+    "level": "language",
+    "iso639-3": "ehu",
+    "latitude": "7.450998",
+    "longitude": "5.858846",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3441392\nhttps://en.wikipedia.org/wiki/Ehueun_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1117**\n**hh:h:Egbokhare:Afenmai**\n**hh:hvphon:Elugbe:Edo:1973**\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "altnames": {
+    "multitree": "\nEhueun\nEkpenmen\nEkpimi\nEpimi",
+    "lexvo": "\nEhueun [en]",
+    "hhbib_lgcode": "\nEhuen"
+  },
+  "triggers": {
+    "lgcode": "\nphonology AND edoid"
+  },
+  "identifier": {
+    "multitree": "ehu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Elugbe:Edoid**",
+    "subrefs": "\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ehueun (ehu-ehu) = 6a* (Vigorous)."
+  }
+}

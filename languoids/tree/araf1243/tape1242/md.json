@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tapei",
+    "hid": "afp",
+    "level": "language",
+    "iso639-3": "afp",
+    "latitude": "-4.77763",
+    "longitude": "143.337",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Alfendio](https://endangeredlanguages.com/lang/10642)\nhttps://www.wikidata.org/entity/Q16887371\nhttps://en.wikipedia.org/wiki/Tapei_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Haberland:Alfendio**\n**hh:w:Haberland:Korowori**\n**hh:wsoc:Kassell:Arafundi**\n**iso6393:2007-026**"
+  },
+  "altnames": {
+    "multitree": "\nAlfendio\nArafundi\nTapei",
+    "lexvo": "\nTapei [en]",
+    "hhbib_lgcode": "\nAngarat\nAuvim\nAwiakay\nAwim\nImboin-Awim\nKanjimei\nKansimei\nVIb Angarat",
+    "elcat": "\nAlfendio\nArafundi\nAunda\nImboin\nKapagmai\nLower Arafundi\nNanubae\nTapei\nUpper Arafundi"
+  },
+  "triggers": {
+    "lgcode": "\nbattle\nalfendio\nkanjimei\nawiakay"
+  },
+  "identifier": {
+    "multitree": "afp",
+    "endangeredlanguages": "10642"
+  },
+  "classification": {
+    "sub": "**hh:ew:Haberland:Alfendio** **hh:wsoc:Kassell:Arafundi**",
+    "subrefs": "\n**hh:ew:Haberland:Alfendio**\n**hh:wsoc:Kassell:Arafundi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Alfendio (10642) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

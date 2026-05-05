@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nijadali",
+    "level": "language",
+    "iso639-3": "nad",
+    "longitude": "120.83057",
+    "latitude": "-22.85576",
+    "countries": [
+      "AU"
+    ],
+    "macroareas": [
+      "Australia"
+    ],
+    "hid": "nad",
+    "links": "\n[Palyku](https://endangeredlanguages.com/lang/4748)\n[Nyiyaparli](https://collection.aiatsis.gov.au/austlang/language/a50)\nhttps://www.wikidata.org/entity/Q10600723"
+  },
+  "identifier": {
+    "endangeredlanguages": "4748"
+  },
+  "iso_retirement": {
+    "change_request": "2015-028",
+    "remedy": "Duplicate of [xny] Nyiyaparli",
+    "code": "nad",
+    "name": "Nijadali",
+    "effective": "2016-01-15",
+    "reason": "duplicate",
+    "change_to": "\nxny"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Palyku (4748-nad) = Critically Endangered (60 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:thieberger:96**\n**iso6393:2015-028**\n**ozbib:1057**\n**ozbib:1067**\n**ozbib:1161**\n**ozbib:1466**\n**ozbib:5628**\n**ozbib:7237**\n**ozbib:726**\n**ozbib:735**\n**ozbib:737**"
+  },
+  "altnames": {
+    "elcat": "\nBailgu\nBailko\nBailko-Pandjima\nBalgoo\nBalgu\nBalygu\nBoolgoo\nIabali\nJana\nJanari\nJauna\nNiabali\nNijadali\nNjiabali\nNjijabali\nNjijapali\nNyiyabali\nNyiyaparli\nNyiypali\nPaljgu\nPalyku\nPulgoe",
+    "aiatsis": "\nBailgu\nBinigura\nIabali\nJana\nJanari\nNiabali\nNijadali\nNjiabadi\nNjiabali\nNjijabadi\nNjijabali\nNjijapali\nNjiyabali\nNjiyapali\nNyiyabali\nNyiyapali\nNyiyaparli\nPaljgu\nPalyku\nPalyku/Nyiyaparli"
+  }
+}

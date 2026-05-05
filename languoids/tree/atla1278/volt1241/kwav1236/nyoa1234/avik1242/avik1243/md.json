@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Avikam",
+    "hid": "avi",
+    "level": "language",
+    "iso639-3": "avi",
+    "latitude": "5.15838",
+    "longitude": "-5.2529",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34840\nhttps://en.wikipedia.org/wiki/Avikam_language\nhttps://phoible.org/languages/avik1243\n[Avikam](https://wals.info/languoid/lect/wals_code_avk)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clozel:villamur:02**\n**cldf:grivot:42**\n**eballiso2009:28266**\n**eballiso2009:31607**\n**eballiso2009:47003**\n**eballiso2009:59371**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hvld:Westermann:Tschi-Guang**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:s:Herault:Avikam**\n**hh:s:Rongier:Avikam**\n**hh:s:Schang:Avikam**\n**hh:w:Latham:Avekvom**\n**hh:w:Wilson:Negro**"
+  },
+  "altnames": {
+    "multitree": "\nAvekom\nAvikam\nBrignan\nBrinya\nGbanda\nKwakwa\nLahu",
+    "lexvo": "\nAvikam [en]\nAvikam language [en]\nLenga Avikam [pms]",
+    "hhbib_lgcode": "\nAvikam (Brignan/Brinya)"
+  },
+  "triggers": {
+    "lgcode": "\nuterine\nlavikam\naveekvoom\navikam\navekvom"
+  },
+  "identifier": {
+    "wals": "avk",
+    "multitree": "avi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kropp:Kwa** **hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Kropp:Kwa**\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Avikam (avi-avi) = 5* (Developing)."
+  }
+}

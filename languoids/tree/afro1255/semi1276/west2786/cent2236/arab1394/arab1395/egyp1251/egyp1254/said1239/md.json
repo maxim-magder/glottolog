@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Saidi Arabic",
+    "hid": "aec",
+    "level": "language",
+    "iso639-3": "aec",
+    "latitude": "25.4132",
+    "longitude": "30.5302",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "EG",
+      "SD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56592\nhttps://en.wikipedia.org/wiki/Sa%CA%BDidi_Arabic"
+  },
+  "classification": {
+    "sub": "**hh:g:Khalafallah:Saidi**",
+    "subrefs": "\n**hh:g:Khalafallah:Saidi**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kennett:25**\n**cldf:murray:35**\n**eballiso2009:25592**\n**eballiso2009:34987**\n**eballiso2009:39544**\n**hh:g:DropWoidich:IlBahariyya**\n**hh:g:Khalafallah:Saidi**\n**hh:hdial:BehnstedtWoidich:Agyptischen-Oasen**\n**hh:ld:Woidich:Beri-Arabic**\n**hh:ldphon:Behnstedt:Bukara**\n**hh:s:deJong:Ababda**\n**hh:s:deJong:Fayyumi**\n**hh:sd:Nishio:Arabic-Qift**\n**hh:typ:Woidich:Oberagypten**\n**mpieva:Junge2005LateEgyp**"
+  },
+  "altnames": {
+    "multitree": "\nArabic\nArabic, Sa`idi Spoken\nSa`idi\nSaidi Arabic\nUpper Egypt Arabic",
+    "lexvo": "\nSa'idi Arabic [en]\nSaidi Arabic [en]\nSaidi arapski [hr]\nСаудиски арапски јазик [mk]\nصعيدى [arz]\nلهجة صعيدية [ar]",
+    "hhbib_lgcode": "\n'Beri\nAbabda\nArabic-Sa'idi Spoken\nArabic-Sa’idi Spoken\nB'ēri Arabic\nEgyptian Arabic dialect of the oasis of ilBa5ariyya\nNordmittelägyptischen Bukaṛa\nSa'idi Arabic\nSa'idi Spoken\nUpper Egypt Arabic\nUpper Egyptian Arabic\nWestern Oases Egyptian Arabic\nÄgyptischen Oasen"
+  },
+  "triggers": {
+    "lgcode": "\nqift\nsaidi\nfayyumi\ncababda"
+  },
+  "identifier": {
+    "multitree": "aec"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Sa’idi (aec-aec) = 6a* (Vigorous)."
+  }
+}

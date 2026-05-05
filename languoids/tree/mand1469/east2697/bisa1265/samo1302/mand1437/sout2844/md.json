@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southern Samo",
+    "hid": "sbd",
+    "level": "language",
+    "iso639-3": "sbd",
+    "latitude": "12.713",
+    "longitude": "-2.9052",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF"
+    ],
+    "links": "\nhttps://phoible.org/languages/sout2844\nhttps://www.wikidata.org/entity/Q33122730"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tauxier:17**\n**eballiso2009:11007**\n**eballiso2009:23782**\n**eballiso2009:23789**\n**eballiso2009:26231**\n**eballiso2009:3976**\n**eballiso2009:44105**\n**eballiso2009:46318**\n**eballiso2009:46319**\n**eballiso2009:46322**\n**eballiso2009:46324**\n**eballiso2009:46326**\n**eballiso2009:46327**\n**eballiso2009:46328**\n**eballiso2009:49253**\n**hh:g:Platiel:SamoToma**\n**hh:hv:Prost:Busa-Boko-Bisa-Samo**\n**hh:hwsoc:Berthelette:San-Samo**\n**hh:phon:Ki:San-Toma**\n**hh:s:Pare:San**\n**hh:s:Perekhvalskaya:San-Maka:2017**\n**hh:soc:Hoeth:Samo-Sud**\n**hh:t:Woodham:San-Toma**\n**hh:typ:Pare:San**\n**hh:typ:Pare:San:Nominaux**\n**hh:typ:Siebecke:Samo**\n**hh:w:Prost:Mana-Busa-Vocabulaires**\n**mpieva:PlatielDescript**\n**sil16:41927**"
+  },
+  "altnames": {
+    "multitree": "\nSamo\nSamo, Southern\nSan\nSane\nSomono\nSouthern Samo",
+    "lexvo": "\nSouthern Samo [en]",
+    "hhbib_lgcode": "\nMaka\nSan\nSan Maka\nSan de Toma\nSan de Yaba\nSã du Sud (de Toma)\nToma"
+  },
+  "triggers": {
+    "lgcode": "\nNOT notes AND NOT pp AND NOT of AND NOT to AND NOT and AND samo\nsamoghohiri"
+  },
+  "identifier": {
+    "multitree": "sbd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dwyer:Mande:1989** **hh:hv:Dwyer:Mande**",
+    "subrefs": "\n**hh:hv:Dwyer:Mande:1989**\n**hh:hv:Dwyer:Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samo, Southern (sbd-sbd) = 5 (Developing)."
+  }
+}

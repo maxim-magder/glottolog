@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Northern Khmer",
+    "hid": "kxm",
+    "level": "language",
+    "iso639-3": "kxm",
+    "latitude": "14.4674",
+    "longitude": "103.863",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "TH"
+    ],
+    "links": "\n[Northern Khmer](https://grambank.clld.org/languages/nort2684)\nhttps://en.wikipedia.org/wiki/Northern_Khmer_dialect\nhttps://phoible.org/languages/nort2684\nhttps://www.wikidata.org/entity/Q3502234"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4327**\n**hh:d:Dhanan:Khmer-Surin**\n**hh:g:Pornpen:Northern-Khmer**\n**hh:phon:Yodmongkhon:Northern-Khmer**\n**hh:phonw:Wichitkhachee:Khmer-Ban-Nawattai**\n**hh:s:Ayutthaya:Northern-Khmer**\n**hh:s:CummingsThomas:Surin-Khmer**\n**hh:s:Prakorb:Northern-Khmer**\n**hh:soc:Smalley:Norther-Khmer**\n**hh:typ:Kotchakorn:Northern-Khmer**\n**hh:typ:Somkiet:Northern-Khmer**\n**hh:vphon:Prakorb:Central-Northern-Khmer**\n**ldh:item_403379**\n**mpieva:Isarangkun1984Arelatio**\n**sil16:18992**\n**sil16:27741**\n**sil16:32271**\n**sil16:34115**\n**sil16:37933**\n**sil16:38623**\n**sil16:41970**\n**sil16:43712**\n**sil16:44194**\n**sil16:45824**\n**sil16:45825**"
+  },
+  "altnames": {
+    "multitree": "\nCambodian\nKambojanisch\nKhmaer\nKhmer\nKhmer Lue\nKhmer, Northern\nKhmɛr\nThailand Khmer",
+    "lexvo": "\nNorthern Khmer [en]",
+    "hhbib_lgcode": "\nBan Nawattai in Thailand\nBuriram\nKhmer-Northern\nSurin"
+  },
+  "triggers": {
+    "lgcode": "\nkhmer AND surin\nwichai\nbotsonthana\nnitian\nkhamen\nchanthaburi\nburiram"
+  },
+  "identifier": {
+    "multitree": "kxm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Khmer, Northern (kxm-kxm) = 5* (Developing)."
+  }
+}

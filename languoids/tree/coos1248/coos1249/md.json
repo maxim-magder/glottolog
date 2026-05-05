@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Hanis",
+    "hid": "csz",
+    "level": "language",
+    "iso639-3": "csz",
+    "latitude": "43.4413",
+    "longitude": "-124.16",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Coos](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Coos)\n[Coos (Hanis)](https://wals.info/languoid/lect/wals_code_coo)\n[Hanis](https://endangeredlanguages.com/lang/4057)\n[Hanis](https://grambank.clld.org/languages/coos1249)\nhttps://en.wikipedia.org/wiki/Hanis_language\nhttps://www.wikidata.org/entity/Q3126783",
+    "timespan": "1972-01-01/1972-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barnett:37**\n**cldf:boyd:90**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:jacobs:40**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:pierce:71**\n**cldf:stolz:96**\n**hh:e:Zenk:Siuslawans-Coosans**\n**hh:g:Frachtenberg:Coos**\n**hh:g:Frachtenberg:Coos:1910**\n**hh:hv:Pierce:HanisMiluk**\n**hh:s:Whereat:Hanis**\n**hh:t:Frachtenberg:Coos**\n**hh:t:Jacobs:Coos**\n**hh:typ:Dryer:Six-Way**\n**hh:typ:Kroeber:Hanis-Miluk**\n**hh:w:Grant:Hanis**\n**mpieva:Frachtenberg1914LowerUmp**"
+  },
+  "altnames": {
+    "wals": "\nCoos (Hanis)",
+    "wals other": "\nCoos\nHanis\nHanis Coos",
+    "ruhlen (1987)": "\nHanis",
+    "moseley & asher (1994)": "\nCoos",
+    "multitree": "\nAnasitch\nCoos\nCoos (Hanis)\nHanis",
+    "lexvo": "\nCoos [en]",
+    "hhbib_lgcode": "\nCoos",
+    "elcat": "\nAnasitch\nCoos\nCoos (Hanis)\nHanis"
+  },
+  "triggers": {
+    "lgcode": "\nkusan\ncoos\nmilhaus\ncoosans\nsiuslawans\nunrelated"
+  },
+  "identifier": {
+    "wals": "coo",
+    "multitree": "csz",
+    "endangeredlanguages": "4057"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Hanis (4057-csz) = Dormant [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

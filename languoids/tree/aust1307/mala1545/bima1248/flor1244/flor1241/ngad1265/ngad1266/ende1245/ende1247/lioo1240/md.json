@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Li'o",
+    "hid": "ljl",
+    "level": "language",
+    "iso639-3": "ljl",
+    "latitude": "-8.68615",
+    "longitude": "121.832",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Lio_language\nhttps://www.wikidata.org/entity/Q2697010"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:vandierendonck:nd**\n**hh:d:Arndt:Lio**\n**hh:hvphont:Elias:Lio**\n**hh:ld:Mbete:Lio**\n**hh:ld:Mbete:Lio:1985**\n**hh:lde:Genua:Lio**\n**hh:s:Levi:Lionese**\n**hh:s:Sawardoetal:Lio**\n**hh:styp:Yudha:Lio**\n**hh:typ:Yudha:Lio**\n**hh:w:Astar:Swadesh-Ende**\n**hh:w:Calon:Lio**\n**hh:w:Stokhofetal:Holle:6**\n**langsci:sawardo:tarno:etal:87**"
+  },
+  "altnames": {
+    "multitree": "\nAku\nLi'o\nLio\nLionese\nTanah Kunu",
+    "lexvo": "\nLi'o [en]",
+    "hhbib_lgcode": "\nFataatu\nLio\nLio in Detukeli\nLionese\nWestern Lio"
+  },
+  "triggers": {
+    "lgcode": "\nlio\nlionesisch"
+  },
+  "identifier": {
+    "multitree": "ljl"
+  },
+  "classification": {
+    "sub": "**hh:hvphont:Elias:Lio**:129-131",
+    "subrefs": "\n**hh:hvphont:Elias:Lio**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Li’o (ljl-ljl) = 6a* (Vigorous)."
+  }
+}

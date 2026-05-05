@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tepetotutla Chinantec",
+    "hid": "cnt",
+    "level": "language",
+    "iso639-3": "cnt",
+    "latitude": "17.7115",
+    "longitude": "-96.5404",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chinantec (Tepetotutla)](https://wals.info/languoid/lect/wals_code_cte)\n[Lower West-Central Chinantec](https://endangeredlanguages.com/lang/9872)\nhttps://en.wikipedia.org/wiki/Chinantec_of_Tepetotutla\nhttps://www.wikidata.org/entity/Q5100113"
+  },
+  "sources": {
+    "glottolog": "\n**hh:s:Westley:Chinantec-Tepetotutla**\n**hh:typ:WestleyMerrifield:Chinantla**\n**ldh:item_407692**\n**mpieva:Merrifield1990Syllable**\n**sil16:12699**\n**sil16:17386**\n**sil16:17387**\n**sil16:17388**\n**sil16:17389**\n**sil16:17390**"
+  },
+  "altnames": {
+    "wals": "\nChinantec (Tepetotutla)",
+    "ruhlen (1987)": "\nChinanteko",
+    "moseley & asher (1994)": "\nChinantec",
+    "multitree": "\nChinantec\nChinantec (Tepetotutla)\nChinantec, Tepetotutla\nChinanteco\nChinanteco (Tepetotutla)\nChinanteko\nTepetotutla Chinantec",
+    "lexvo": "\nTepetotutla Chinantec [en]",
+    "elcat": "\nChinantec\nChinanteco\nChinanteco del oeste central bajo\nChinanteko\nLower West-Central Chinantec\nTepetotutla Chinantec\nUsila Chinantec\njajmi dzä  kï ï '\njejmei\njejmi"
+  },
+  "triggers": {
+    "lgcode": "\nchinantla\ntepetotutla\narriving\n8325"
+  },
+  "identifier": {
+    "wals": "cte",
+    "multitree": "cnt",
+    "endangeredlanguages": "9872"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lower West-Central Chinantec (9872) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

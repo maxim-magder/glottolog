@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Yugh (Retired)",
+    "hid": "yuu",
+    "level": "language",
+    "iso639-3": "yuu",
+    "latitude": "60.87784",
+    "longitude": "89.74791",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Yug](https://endangeredlanguages.com/lang/3162)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2683**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:verner:97**\n**iso6393:2013-031**\n**mpieva:Werner1997Probleme**"
+  },
+  "triggers": {
+    "lgcode": "\nwiesbaden\njugskij\njugische\nyugh\nin AND jenissej\nsym\nakzentologie"
+  },
+  "iso_retirement": {
+    "comment": "[yuu] Yugh (Yug) and [yug] Yug (Sym-Ket) are the same language.\n\nI suggest retiring code [yuu] because [yug] is easier to remember, but if [yuu]\nis older it might be better to retain it instead. The fact that Ethnologue has\nan entry for [yuu] but not for [yug] might be reason to retain [yuu], though\nperhaps they could move their article to [yug].\n\nIn order to complete the change request, the form “Request for New Language Code\nElement in ISO 639-3” (file name “ISO639-3_NewCodeRequestForm.doc” or “ISO639-\n3_NewCodeRequestForm.rtf”) must also be submitted for each new identifier that\nis to be created. That step can be deferred until this form has been processed\nby the ISO 639-3 registrar, provided that sufficient information on the\nrationale is given in (b) above.\n\nIn the case of a minority language that has been considered in some contexts to\nbe a dialect of a major language, yet is divergent enough to be unintelligible\nto speakers of the standard variety of the major language, it may be more\nbeneficial for the users of the ISO 639-3 and 639-2 code sets to create a new\ncode element for the divergent language variety without splitting the existing\ncode element of the major language. The ISO 639-3 Registration Authority may\nmake this determination when considering a request involving a major language\nand a highly distinct “dialect.” If such a course is followed, the rationale for\nthe decision will be published in a comment by the Registration Authority on\napproval of the requested addition for the divergent variety.",
+    "code": "yuu",
+    "name": "Yugh",
+    "effective": "2014-02-03",
+    "reason": "duplicate",
+    "remedy": "Duplicate of Yug [yug]",
+    "change_request": "2013-031",
+    "change_to": "\nyug"
+  },
+  "identifier": {
+    "endangeredlanguages": "3162"
+  },
+  "altnames": {
+    "elcat": "\nD'uk\nSouthern Ket\nSym Ket\nYug\nYugh\nюгский язык"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Yugh (yuu-yuu) = 10 (Extinct)"
+  }
+}

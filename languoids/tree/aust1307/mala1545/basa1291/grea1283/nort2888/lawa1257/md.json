@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Lawangan",
+    "hid": "lbx",
+    "level": "language",
+    "iso639-3": "lbx",
+    "latitude": "-1.80261",
+    "longitude": "115.876",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Ibrahim:Pasir**\n**hh:h:Sugono:Indonesia**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Hudson:Sarawak**\n**hh:hvld:Sigiro:Tamuan**\n**hh:hvw:Durasid:Barito**\n**hh:hvw:Hudson:Barito**\n**hh:hvw:Hudson:Padju-Epat**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:s:Andianto:Bawo**\n**hh:s:Darmansyah:Lawangan**\n**hh:s:Darmansyah:Pasir**\n**hh:s:Lorida:Lawangan**\n**hh:s:Winarti:Paser**\n**hh:w:denHamer:Borneo**"
+  },
+  "altnames": {
+    "multitree": "\nLawangan\nLuwangan\nNortheast Barito",
+    "lexvo": "\nLawangan [en]\nLawangan language [en]",
+    "hhbib_lgcode": "\nBawo\nBenuaq\nDusun Lawangan\nPaser\nPasir"
+  },
+  "triggers": {
+    "lgcode": "\nisolects"
+  },
+  "identifier": {
+    "multitree": "lbx"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:169-182 **hh:hv:Blust:NBorneo**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:Blust:NBorneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lawangan (lbx-lbx) = 6a* (Vigorous)."
+  }
+}

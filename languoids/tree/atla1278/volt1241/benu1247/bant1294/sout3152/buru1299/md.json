@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Buru-Angwe",
+    "hid": "bqw",
+    "level": "language",
+    "iso639-3": "bqw",
+    "latitude": "7.01091",
+    "longitude": "10.8617",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Buru%E2%80%93Angwe_language\nhttps://www.wikidata.org/entity/Q1017152"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:w:Blench:Batu-Kamino-Butu**\n**sil16:49251**\n**sil16:49252**\n**sil16:49253**"
+  },
+  "altnames": {
+    "lexvo": "\nBuru (Nigeria) [en]\nBuru [en]",
+    "glottolog": "\nBuru (Nigeria)",
+    "hhbib_lgcode": "\nBatu-Anwe closer to Buru\nBuru\nBuru (Nigeria)"
+  },
+  "triggers": {
+    "lgcode": "\nkamino\nprecedence"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:Tivoid**:14 **hh:hv:Blench:Bantoid**:31-32",
+    "subrefs": "\n**hh:hv:Blench:Bantoid**\n**hh:hvw:Blench:Tivoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Buru (bqw-bqw) = 6b* (Threatened)."
+  }
+}

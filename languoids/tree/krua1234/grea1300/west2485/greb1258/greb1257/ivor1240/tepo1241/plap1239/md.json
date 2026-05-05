@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Plapo Krumen",
+    "hid": "ktj",
+    "level": "language",
+    "iso639-3": "ktj",
+    "latitude": "4.56109",
+    "longitude": "-7.30644",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "LR"
+    ],
+    "links": "\n[Plapo Krumen](https://endangeredlanguages.com/lang/4448)\nhttps://www.wikidata.org/entity/Q10975356"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:nt:ThalmannThalmann:Plapo**\n**hh:w:MaireThalmann:Kroumen**"
+  },
+  "altnames": {
+    "multitree": "\nKrumen, Plapo\nPlapo",
+    "lexvo": "\nPlapo Krumen [en]",
+    "hhbib_lgcode": "\nKrumen Plapo\nKrumen-Plapo\nPlaoui\nPlapo\nPlawi",
+    "elcat": "\nKrumen\nPlapo\nPlapo Krumen"
+  },
+  "triggers": {
+    "lgcode": "\nhaantitie\nnyisa"
+  },
+  "identifier": {
+    "multitree": "ktj",
+    "endangeredlanguages": "4448"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:15-18 **hh:hsoc:JohnsonHasselbring:Grebo**",
+    "subrefs": "\n**hh:hv:Vogler:Kru:2017**\n**hh:hsoc:JohnsonHasselbring:Grebo**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Plapo Krumen (4448-ktj) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

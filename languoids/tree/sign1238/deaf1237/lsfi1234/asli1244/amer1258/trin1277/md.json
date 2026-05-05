@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Modern Trinidad and Tobago Sign Language",
+    "hid": "lst",
+    "level": "language",
+    "iso639-3": "lst",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "TT"
+    ],
+    "longitude": "-61.516667",
+    "latitude": "10.666667",
+    "links": "\n[Trinidad and Tobago Sign Language](https://endangeredlanguages.com/lang/6990)\nhttps://www.wikidata.org/entity/Q7842495\nhttps://en.wikipedia.org/wiki/Trinidad_and_Tobago_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:h:Braithwaite:Caribbean**\n**hh:soc:Braithwaite:Deaf-Trinidad-Tobago**\n**hh:soc:Lamb:TTSL**\n**hh:v:Parks:Sign-Language-Comparisons**\n**hh:vldsoc:Braithwaite:Sign-Trinidad**\n**iso6393:2008-088**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6990"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Trinidad and Tobago Sign Language (6990-lst) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nTrinidad Sign Language\nTrinidad and Tobago Sign Language",
+    "elcat": "\nTSL\nTTSL\nTrinidad Sign Language\nTrinidad and Tobago Sign Language",
+    "glottolog": "\nTrinidad and Tobago Sign Language"
+  },
+  "classification": {
+    "sub": "Modern TTSL is historically a continuation of an introduced ASL (**hh:vldsoc:Braithwaite:Sign-Trinidad**) as also borne out by lexical comparisons (**hh:v:Parks:Sign-Language-Comparisons**):82.",
+    "subrefs": "\n**hh:v:Parks:Sign-Language-Comparisons**\n**hh:vldsoc:Braithwaite:Sign-Trinidad**"
+  }
+}

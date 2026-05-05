@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Natchez",
+    "hid": "ncz",
+    "level": "language",
+    "iso639-3": "ncz",
+    "latitude": "31.75",
+    "longitude": "-91.33",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Natchez](https://endangeredlanguages.com/lang/10858)\n[Natchez](https://grambank.clld.org/languages/natc1249)\n[Natchez](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Natchez)\n[Natchez](https://wals.info/languoid/lect/wals_code_nat)\nhttps://en.wikipedia.org/wiki/Natchez_language\nhttps://www.wikidata.org/entity/Q3111838",
+    "timespan": "1957-01-01/1957-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:haas:75**\n**cldf:macleod:24**\n**cldf:smith:11:1**\n**cldf:swanton:91**\n**cldf:vantuyl:79**\n**cldf:white:murdock:etal:71**\n**haspelmath:kimball_marking_2013**\n**haspelmath:kimball_natchez_2012**\n**haspelmath:kimball_woman_2013**\n**hh:d:Kimball:Natchez**\n**hh:de:vanTuyl:Natchez**\n**hh:e:GallowayJackson:Natchez**\n**hh:e:Lorenz:Natchez**\n**hh:he:Swanton:Atakapa**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:s:Kimball:Natchez**\n**hh:v:Haas:Natchez-Muskogean**\n**hh:w:Brinton:Natchez**\n**mpieva:2005Nativela**"
+  },
+  "altnames": {
+    "wals": "\nNatchez",
+    "ruhlen (1987)": "\nNatchez",
+    "moseley & asher (1994)": "\nNatchez",
+    "multitree": "\nNa'htchi\nNachez\nNatchez",
+    "lexvo": "\nNatchez [en]",
+    "elcat": "\nNatchez"
+  },
+  "triggers": {
+    "lgcode": "\nnatchez"
+  },
+  "identifier": {
+    "wals": "genus/natchez",
+    "multitree": "ncz",
+    "endangeredlanguages": "10858"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Natchez (10858-ncz) = Awakening [Smith 2011](cldf:smith:11:1)"
+  }
+}

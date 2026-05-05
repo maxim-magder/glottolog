@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Chuave",
+    "hid": "cjv",
+    "level": "language",
+    "iso639-3": "cjv",
+    "latitude": "-6.17824",
+    "longitude": "145.139",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Chuave](https://wals.info/languoid/lect/wals_code_cve)\nhttps://en.wikipedia.org/wiki/Chuave_language\nhttps://phoible.org/languages/chua1250\nhttps://www.wikidata.org/entity/Q5115226"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:thurman:70**\n**hh:hld:Lean:Enga-Western-Highlands-Simbu**\n**hh:hv:Tida:Simbu**\n**hh:hvw:Capell:CHighlands**\n**hh:phon:Swick:Chuave**\n**hh:s:Thurman:Chuave:Deep**\n**hh:typ:Thurman:Chuave**\n**hh:typ:Thurman:Chuave:Clauses**\n**mpieva:Thurman1981Intercla**\n**sil16:16713**\n**sil16:16714**\n**silpng:silpng1956-1990:1324**\n**silpng:silpng1956-1990:1325**\n**silpng:silpng1956-1990:1326**\n**silpng:silpng1956-1990:1327**\n**silpng:silpng1956-1990:236**\n**silpng:silpng1956-1990:237**\n**silpng:silpng1956-1990:238**\n**silpng:silpng1956-1990:239**\n**silpng:silpng1956-1990:240**\n**silpng:silpng1956-1990:241**\n**silpng:silpng1956-1990:242**\n**silpng:silpng1991-2000:476**\n**silpng:silpng1991-2000:477**\n**silpng:silpng1991-2000:478**\n**silpng:silpng1991-2000:479**\n**silpng:silpng1991-2000:480**\n**silpng:silpng1991-2000:481**"
+  },
+  "altnames": {
+    "wals": "\nChuave",
+    "ruhlen (1987)": "\nChuave",
+    "moseley & asher (1994)": "\nChuave",
+    "multitree": "\nChuave\nTjuave",
+    "lexvo": "\nChuave [en]",
+    "hhbib_lgcode": "\nTjuave"
+  },
+  "triggers": {
+    "lgcode": "\nthurman\nkerowapune\narome\nkakamai\nchuave\nboingua\nnongua\nmabunom\nkerowano\ndume"
+  },
+  "identifier": {
+    "wals": "cve",
+    "multitree": "cjv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tida:East-Simbu**, **hh:hv:Tida:Simbu**",
+    "subrefs": "\n**hh:hv:Tida:East-Simbu**\n**hh:hv:Tida:Simbu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chuave (cjv-cjv) = 5* (Developing)."
+  }
+}

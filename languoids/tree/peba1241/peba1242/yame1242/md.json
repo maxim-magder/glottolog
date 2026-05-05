@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yameo",
+    "hid": "yme",
+    "level": "language",
+    "iso639-3": "yme",
+    "latitude": "-4.16666",
+    "longitude": "-73.6667",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Yaméo](https://endangeredlanguages.com/lang/3180)\nhttps://www.wikidata.org/entity/Q3121032\nhttps://en.wikipedia.org/wiki/Yameo_language\nhttps://phoible.org/languages/yame1242",
+    "timespan": "1960-01-01/1960-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:campbell:12**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**fabreall2009ann:Kawapana1**\n**fabreall2009ann:Peba-Yagua_yameo0**\n**fabreall2009ann:Peba-Yagua_yameo2**\n**hh:es:Espinosa:Peruano**\n**hh:ht:Hervas:Saggio**\n**hh:hv:Adelungetal:Mithridates:32**\n**hh:hv:Pena:Peba-Yaguan**\n**hh:hv:Rivet:Peba**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Villarejo:Idiomas-Selva**"
+  },
+  "altnames": {
+    "multitree": "\nCamuchivo\nLlameo\nMasamae\nMasamae Yameo\nMazan\nParara\nYameo\nYaméo",
+    "lexvo": "\nYameo [en]",
+    "hhbib_lgcode": "\nYamea\nYameos",
+    "elcat": "\nCamuchivo\nLlameo\nMasamae\nMasamae Yameo\nMazan\nParara\nYameo\nYaméo"
+  },
+  "triggers": {
+    "lgcode": "\nsobre AND zonas\nyameos"
+  },
+  "identifier": {
+    "multitree": "yme",
+    "endangeredlanguages": "3180"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pena:Peba-Yaguan**, **hh:hv:GildeaPayne:Macro-Carib**",
+    "subrefs": "\n**hh:hv:Pena:Peba-Yaguan**\n**hh:hv:GildeaPayne:Macro-Carib**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yaméo (3180-yme) = Dormant [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

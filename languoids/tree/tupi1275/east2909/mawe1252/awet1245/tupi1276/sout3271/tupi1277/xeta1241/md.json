@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Xetá",
+    "hid": "xet",
+    "level": "language",
+    "iso639-3": "xet",
+    "latitude": "-24.9408",
+    "longitude": "-52.2266",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Xeta](https://lexibank.clld.org/languages/gerarditupi-Xeta)\n[Xetá](https://endangeredlanguages.com/lang/1651)\nhttps://en.wikipedia.org/wiki/Xeta_language\nhttps://phoible.org/languages/xeta1241\nhttps://www.wikidata.org/entity/Q2980404",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cabral:14**\n**cldf:crevels:12:3**\n**cldf:degeografiaeestatisticaibge:10**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:59:2**\n**cldf:np:nd:264**\n**fabreall2009ann:4871**\n**fabreall2009ann:Tupi_xeta02**\n**fabreall2009ann:Tupi_xeta04**\n**fabreall2009ann:Tupi_xeta05**\n**fabreall2009ann:Tupi_xeta06**\n**fabreall2009ann:Tupi_xeta08**\n**fabreall2009ann:Tupi_xeta09**\n**fabreall2009ann:Tupi_xeta10**\n**fabreall2009ann:Tupi_xeta11**\n**fabreall2009ann:Tupi_xeta12**\n**fabreall2009ann:Tupi_xeta13**\n**fabreall2009ann:Tupi_xeta14**\n**fabreall2009ann:Tupi_xeta15**\n**fabreall2009ann:Tupi_xeta16**\n**fabreall2009ann:Tupi_xeta17**\n**fabreall2009ann:Tupi_xeta18**\n**fabreall2009ann:Tupi_xeta19**\n**fabreall2009ann:Tupi_xeta20**\n**fabreall2009ann:Tupi_xeta21**\n**fabreall2009ann:Tupi_xeta22**\n**fabreall2009ann:Tupi_xeta23**\n**fabreall2009ann:Tupi_xeta24**\n**fabreall2009ann:Tupi_xeta25**\n**fabreall2009ann:Tupi_xeta27**\n**hh:e:Kozaketal:Heta**\n**hh:e:Loukotka:Seta**\n**hh:e:Loureiro:Xeta**\n**hh:e:Mota:Xeta**\n**hh:e:daSilva:Xeta**\n**hh:he:Carvalho:Parana**\n**hh:hv:Rodrigues:Xeta**\n**hh:phon:Vasconcelos:Xeta**\n**hh:v:Guerios:Xeta**\n**hh:vw:Loukotka:Seta**\n**hh:w:Borba:Ares**\n**hh:w:Loukotka:Inedits**\n**hh:w:Loukotka:Seta**\n**hh:wsoc:deAlencar:Xeta**\n**mpieva:Vasconcelos2008Aspectos**"
+  },
+  "altnames": {
+    "glottolog": "\nXeta",
+    "multitree": "\nAré\nCheta\nNotobotocudo\nSeta\nSheta\nShetá\nXetá\nŠetá",
+    "lexvo": "\nXetá [en]",
+    "hhbib_lgcode": "\nAre\nHeta\nXeta\nŠetá",
+    "elcat": "\nAré\nBotocudo\nCheta\nChetá\nHeta\nNotobotocudo\nSetá\nSheta\nShetá\nSsetá\nXetá\nYvaparé\nŠetá"
+  },
+  "triggers": {
+    "lgcode": "\nxeta\nxet\nheta\nseta"
+  },
+  "identifier": {
+    "multitree": "xet",
+    "endangeredlanguages": "1651"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mello:Tupi-Guarani** **hh:hv:RodriguesCabral:Tupi-Guarani** **hh:hv:Rodrigues:Xeta** **hh:vw:Dietrich:Ache**",
+    "subrefs": "\n**hh:hv:Mello:Tupi-Guarani**\n**hh:hv:Rodrigues:Xeta**\n**hh:vw:Dietrich:Ache**\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Xetá (xet-xet) = 9 (Dormant)."
+  }
+}

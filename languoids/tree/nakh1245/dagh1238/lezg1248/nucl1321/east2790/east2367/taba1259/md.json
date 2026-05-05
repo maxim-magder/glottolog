@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Tabasaran",
+    "hid": "tab",
+    "level": "language",
+    "iso639-3": "tab",
+    "latitude": "42.0198",
+    "longitude": "47.8379",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "KZ",
+      "RU"
+    ],
+    "links": "\n[Tabasaran](https://endangeredlanguages.com/lang/3051)\n[Tabassaran](https://wals.info/languoid/lect/wals_code_tbs)\nhttps://en.wikipedia.org/wiki/Tabasaran_language\nhttps://www.wikidata.org/entity/Q34079"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2490**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:kibrik:03**\n**cldf:lewis:ed:09**\n**cldf:magometov:65**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:stolz:96**\n**hh:d:Gadzhiev:Tabasaranskij**\n**hh:d:Genko:Tabasaransko**\n**hh:d:Zagirov:Tabasaranskij**\n**hh:e:Junusov:Tabasarany**\n**hh:g:AlekseevShixalieva:Tabasaranskij**\n**hh:g:Babaliyeva:Tabasaran**\n**hh:g:Magometov:Tabasaranskij**\n**hh:gd:Uslar:Tabasaranskij**\n**hh:hld:Dirr:Kaukasischen**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Bouda:Tabassaranische**\n**hh:s:Dirr:Tabassaranskogo**\n**hh:s:Xanmagomedov:Tabasaranskij:2000**\n**hh:s:Xanmagomedov:Tabasaranskogo**\n**hh:s:Zvegintsev:Tabasaranskie**\n**hh:sd:XanmyagmadovShalbuzov:Tabasaransko**\n**hh:st:Zirkov:Tabasaranskij**\n**mpieva:Alekseev2003Tabasara**\n**mpieva:Bouda1966DasTabas**\n**mpieva:Chanmagomedov1970Ocerkipo**\n**mpieva:Hanmjagmadov2001Tabasara**\n**mpieva:Kurbanova2007Tabasara**\n**mpieva:Magometov1965Tabasara**\n**mpieva:Zvegincev1982Tabasara**"
+  },
+  "altnames": {
+    "wals": "\nTabassaran",
+    "ruhlen (1987)": "\nTabasaran",
+    "moseley & asher (1994)": "\nTabasaran",
+    "multitree": "\nGhumghum\nTabasaran\nTabasarano\nTabasarantsy\nTabassaran",
+    "lexvo": "\nJęzyk tabasarański [pl]\nLíngua tabassarã [pt]\nTabasaraans [nl]\nTabasaran [ca]\nTabasaran language [en]\nTabasaranera [eu]\nTabasaranin kieli [fi]\nTabasareg [br]\nTabassaran [en]\nTabassaranische Sprache [de]\nТабасарайнаг æвзаг [os]\nТабасарански јазик [mk]\nТабасаранский язык [ru]\nТабасаранська мова [uk]",
+    "hhbib_lgcode": "\nKhanag\nLiterary Tabarasan\nLiterary Tabasaran\nLiterary Tabassaran\nNitrika\nNorthern Tabassaran\nSouth Tabasaran\nSouthern Tabasaran\nSouthern Tabassaran\nTabassaran\nTabassaranische",
+    "elcat": "\nGhumghum\nTabasaran\nTabasaran dili\nTabasarantsy\nTabassaran\ntabasaran č’al\nтабасаран чIал\nтабасаранский язык\nԹաբասարաներեն\nთაბასარანული ენა"
+  },
+  "triggers": {
+    "lgcode": "\ntabasaransko\ntabasaranskie\ntabasaran\ndagestanskich\ntabasaranskij\nverbalprafixe\ntabasaranskogo"
+  },
+  "identifier": {
+    "wals": "tbs",
+    "multitree": "tab",
+    "endangeredlanguages": "3051"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Schulze:Caucasian-Albanian-Udi**",
+    "subrefs": "\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Tabasaran (3051-tab) = Vulnerable (20 percent certain, based on the evidence available) [Humphreys and Mits 1993](cldf:humphreys:mits:ed:93)"
+  }
+}

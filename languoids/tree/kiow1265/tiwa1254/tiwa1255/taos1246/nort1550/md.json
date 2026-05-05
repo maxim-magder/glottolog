@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Taos Northern Tiwa",
+    "hid": "twf",
+    "level": "language",
+    "iso639-3": "twf",
+    "latitude": "36.4277",
+    "longitude": "-105.604",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Taos](https://endangeredlanguages.com/lang/6510)\nhttps://www.wikidata.org/entity/Q7684320\nhttps://en.wikipedia.org/wiki/Taos_language\nhttps://phoible.org/languages/nort1550\n[Tiwa (Northern)](https://wals.info/languoid/lect/wals_code_twn)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:curtis:26:1**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:hoijer:dozier:49**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:trager:71**\n**hh:e:Bodine:Taos**\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**\n**hh:hvw:Gatschet:Seven-Stocks**\n**hh:s:Harrington:Tiwa**\n**hh:s:Kocsis:Taos**\n**hh:s:Trager:Taos**\n**hh:t:Hiatt:Tiwa**"
+  },
+  "altnames": {
+    "wals": "\nTiwa (Northern)",
+    "wals other": "\nN. Tiwa\nNorthern Tiwa\nPicuris\nTaos",
+    "ruhlen (1987)": "\nTiwa (Northern)",
+    "moseley & asher (1994)": "\nPicuris, Taos",
+    "multitree": "\nNorthern Tiwa\nPicuris\nTaos\nTiwa\nTiwa (Northern)\nTiwa, Northern",
+    "lexvo": "\nNorthern Tiwa [en]\nTaos language [en]",
+    "hhbib_lgcode": "\nTaos Pueblo",
+    "elcat": "\nNorthern\nNorthern Tiwa\nTaos\nTiwa\nTiwa (Northern)"
+  },
+  "triggers": {
+    "lgcode": "\ntaos\nclara\npicuris"
+  },
+  "identifier": {
+    "wals": "twn",
+    "multitree": "twf;ntiw",
+    "endangeredlanguages": "6510"
+  },
+  "classification": {
+    "sub": "**hh:hvbtyp:Sutton:Kiowa-Tanoan**:1168-1173",
+    "subrefs": "\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Taos (6510-twf) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Merlav",
+    "hid": "mrm",
+    "level": "language",
+    "iso639-3": "mrm",
+    "latitude": "-14.450679",
+    "longitude": "168.053527",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Mwerlap (Merlav)](https://lexibank.clld.org/languages/abvdoceanic-MwerlapMerlav)\nhttps://en.wikipedia.org/wiki/Mwerlap_language\nhttps://www.wikidata.org/entity/Q3331115"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:142**\n**asjp2010:1937**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Merlav**\n**iso6393:2008-073**"
+  },
+  "altnames": {
+    "multitree": "\nBanks-Inseln\nMerelava\nMerlav\nMerlav-Merig\nMwerlap",
+    "lexvo": "\nMerlav [en]\nMwerlap [en]",
+    "hhbib_lgcode": "\nMerig\nMosin\nMwerlap"
+  },
+  "triggers": {
+    "lgcode": "\nmerlav\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "mrm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Francois:Ecology:NVanuatu**",
+    "subrefs": "\n**hh:hv:Francois:Ecology:NVanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mwerlap (mrm-mrm) = 6a* (Vigorous)."
+  }
+}

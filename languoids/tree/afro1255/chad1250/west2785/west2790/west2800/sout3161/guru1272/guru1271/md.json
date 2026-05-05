@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Guruntum-Mbaaru",
+    "hid": "grd",
+    "level": "language",
+    "iso639-3": "grd",
+    "latitude": "9.87332",
+    "longitude": "10.162",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Guruntum](https://endangeredlanguages.com/lang/4240)\n[Guruntum-Mbaaru](https://grambank.clld.org/languages/guru1271)\nhttps://en.wikipedia.org/wiki/Guruntum_language\nhttps://www.wikidata.org/entity/Q3441272"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:ed:10**\n**cldf:jaggar:88**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**eballiso2009:19046**\n**eballiso2009:2533**\n**eballiso2009:2538**\n**eballiso2009:39749**\n**eballiso2009:39750**\n**eballiso2009:39751**\n**eballiso2009:57441**\n**hh:el:Haruna:Gurdun:2003**\n**hh:g:Haruna:Gurdung**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Shimizu:SBauchi**\n**hh:s:Jaggar:Guruntum**\n**hh:w:Gowers:Bauchi**\n**mpieva:Haruna2003Agrammat**"
+  },
+  "altnames": {
+    "multitree": "\nGurdu-mbaaru\nGurdung\nGuruntum\nGuruntum-Mbaaru\nTala",
+    "lexvo": "\nGuruntum language [en]\nGuruntum-Mbaaru [en]",
+    "hhbib_lgcode": "\nGuruntawa\nGuruntum\nMbaaru",
+    "elcat": "\nGurdung\nGuruntum\nGuruntum-Mbaaru\nGùrdùŋ\nGùrùntùm\nTala"
+  },
+  "triggers": {
+    "lgcode": "\nguruntum\nguruntun\ngurdung"
+  },
+  "identifier": {
+    "multitree": "grd",
+    "endangeredlanguages": "4240"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:SBauchi**",
+    "subrefs": "\n**hh:hvw:Shimizu:SBauchi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Guruntum (4240-grd) = Vulnerable (20 percent certain, based on the evidence available) (Many of the western educated younger generation are becoming language conscious, forming language associations, giving their children Gurdung language names and making conscious efforts to learn and teach their children the language.) [Haruna 2003](cldf:haruna:03)"
+  }
+}

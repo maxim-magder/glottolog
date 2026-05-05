@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Southern Kiwai",
+    "hid": "kjd",
+    "level": "language",
+    "iso639-3": "kjd",
+    "latitude": "-8.64889",
+    "longitude": "143.244",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kiwai (Southern)](https://wals.info/languoid/lect/wals_code_kiw)\n[Southern Kiwai](https://grambank.clld.org/languages/sout2949)\n[Southern Kiwai (Tureture Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-tureture)\nhttps://phoible.org/languages/sout2949\nhttps://www.wikidata.org/entity/Q11732322"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beaver:20**\n**cldf:nichols:92**\n**cldf:ray:33**\n**cldf:wurm:77**\n**hh:e:Beardmore:Daudai**\n**hh:e:Chalmers:Kiwai**\n**hh:e:Eley:Kiwai**\n**hh:e:Hammar:South-Fly**\n**hh:e:Landtman:Kiwai**\n**hh:e:Riley:Papuan**\n**hh:g:Ray:Kiwai**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hv:Wurm:Trans-Fly**\n**hh:hvld:Wurm:Kiwaian**\n**hh:hvld:Wurm:Trans-Fly:1971**\n**hh:hvtyp:Wurm:Kiwai**\n**hh:hvw:Ray:Western**\n**hh:hvw:RayHaddon:Torres-I**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Gulf:1914**\n**hh:hw:Ray:WFly**\n**hh:hw:RileyRay:Fly**\n**hh:hw:Zgraggen:Gulf**\n**hh:s:Ray:Kiwai**\n**hh:s:RayHaddon:Saibai-Daudai**\n**hh:t:RileyRay:Fly-River**\n**hh:w:Anonymous:Kiwai**\n**hh:w:MacGregor:Kiwai**\n**hh:w:dAlbertis:NG**"
+  },
+  "altnames": {
+    "multitree": "\nKiwai\nKiwai, Southern\nSouthern Kiwai",
+    "lexvo": "\nSouthern Kiwai [en]",
+    "hhbib_lgcode": "\nDaru\nDaudai\nDaudai or Kiwai\nDomori\nIsland Kiwai\nIăsa\nKiwai\nKiwai Southern\nKiwai island village Iasa\nKiwai-Southern\nKiwai: Tureture\nMawata Kiwai\nMawata/Kadawa and Parama/Perem Island ie Bampton island east of Kunini\nMoatta at the mouth of the river Kataw\nMowat\nSui\nTurituri"
+  },
+  "triggers": {
+    "lgcode": "\nNOT by AND the AND kiwai\ndaudai\nmawata\nmowat"
+  },
+  "identifier": {
+    "wals": "kiw",
+    "multitree": "kjd"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Wurm:Kiwaian**",
+    "subrefs": "\n**hh:hvld:Wurm:Kiwaian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kiwai, Southern (kjd-kjd) = 5 (Developing)."
+  }
+}

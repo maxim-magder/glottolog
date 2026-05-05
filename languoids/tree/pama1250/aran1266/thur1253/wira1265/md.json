@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wirangu",
+    "hid": "wgu",
+    "level": "language",
+    "iso639-3": "wgu",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "longitude": "134.0",
+    "latitude": "-32.0",
+    "links": "\n[Wirangu](https://endangeredlanguages.com/lang/3344)\n[Wirangu](https://grambank.clld.org/languages/wira1265)\n[Wirangu](https://lexibank.clld.org/languages/bowernpny-Wirangu)\n[Wirangu](https://wals.info/languoid/lect/wals_code_wir)\nhttps://en.wikipedia.org/wiki/Wirangu_language\nhttps://www.wikidata.org/entity/Q2092286",
+    "timespan": "2015-01-01/2015-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:195**\n**cldf:np:nd:254**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:ew:Bates:West-Coast-South-Australia**\n**hh:g:Hercus:Wirangu**\n**hh:hv:Brown:Western-Desert**\n**hh:hv:Koch:Pama-Nyungan**\n**hh:hv:SimpsonHercus:Thura-Yura**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:OGradyKlokeid:Australian**\n**hh:hw:Eyre:Central-Australia**\n**hh:hw:Taplin:South-Australian**\n**hh:v:Platt:Kukata-Kukatja**\n**hh:vw:HercusSimpson:Nauo**\n**hh:w:Bates:Yuria**\n**hh:w:RichardsonProvis:Streaky-Bay**\n**iso6393:2011-133**\n**ozbib:1855**\n**ozbib:2787**\n**ozbib:2853**\n**ozbib:2914**\n**ozbib:3081**\n**ozbib:3083**\n**ozbib:3418**\n**ozbib:4090**\n**ozbib:4091**\n**ozbib:4092**\n**ozbib:4426**\n**ozbib:4455**\n**ozbib:4633**\n**ozbib:6607**\n**ozbib:6608**"
+  },
+  "triggers": {
+    "lgcode": "\nyuria\nminbunga\nstreaky\nwirangu"
+  },
+  "classification": {
+    "sub": "**hh:hv:SimpsonHercus:Thura-Yura** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:SimpsonHercus:Thura-Yura**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "identifier": {
+    "endangeredlanguages": "3344"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wirangu (3344-wgu) = Awakening [n.a. n.d.](cldf:np:nd:254)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nFowler's Bay\nHead of Bight\nHead of Great Australian Bight\nStreaky Bay\nVenus Bay\nYardea\nYuria",
+    "elcat": "\nHilleri\nHillery\nIllarie\nJilbara\nJulbari Wonnga\nKartawongulta\nNaljara\nNgadha Wangga\nNgadhu wangga\nNgoleiadjara\nNhangga\nNhawu\nNjangga\nNonga\nNyangga\nTidni\nTidni and Hilleri\nTidnie\nTitnie\nUlbarara\nWambira\nWanbiri\nWanggan\nWangon\nWarna-biri\nWarrangoo\nWeerung\nWilleuroo\nWilluro\nWilyaru\nWindakan\nWirangga\nWirangu\nWirongu\nWironguwongga\nWirrongu\nWirrung\nWirrunga\nYilrea\nYoulbara\nYulbara\nYulbara wonga"
+  }
+}

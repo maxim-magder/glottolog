@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Zo'é",
+    "hid": "pto",
+    "level": "language",
+    "iso639-3": "pto",
+    "latitude": "-1.77208",
+    "longitude": "-55.50746",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Zo'é](https://endangeredlanguages.com/lang/1632)\nhttps://en.wikipedia.org/wiki/Zo%CA%BC%C3%A9_language\nhttps://phoible.org/languages/zoee1240\nhttps://www.wikidata.org/entity/Q8073148"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:degeografiaeestatisticaibge:10**\n**cldf:ed:10**\n**cldf:hitotuzi:delimasilva:etal:20**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**elpub:ldd107**\n**fabreall2009ann:Tupi_zo'e02**\n**fabreall2009ann:Tupi_zo'e03**\n**fabreall2009ann:Tupi_zo'e05**\n**fabreall2009ann:Tupi_zo'e09**\n**fabreall2009ann:Tupi_zo'e10**\n**fabreall2009ann:Tupi_zo'e11**\n**hh:d:Carvalho:Zoe**\n**hh:e:Cartagenes:Zoe**\n**hh:e:Kastner:Zoe**\n**hh:e:Ribeiro:Zoe**\n**hh:ld:Cabral:Zoe**\n**hh:phon:Cabral:Joe**\n**hh:phon:Cabral:Joe:1996**\n**hh:phon:Souza:Zoe**\n**hh:typ:Cabral:Zoe**\n**hh:typ:Castro:Zoe**\n**hh:v:Cabral:Joe**\n**hh:v:Cabral:Zoe**\n**hh:vw:Machado:Zoe**"
+  },
+  "altnames": {
+    "glottolog": "\nZo'e",
+    "multitree": "\nBuré\nJo'é\nPoturu\nPoturujara\nPoturú\nTupí of Cuminapanema\nZo'é\nZoé",
+    "lexvo": "\nZo'é [en]\nZoé [de]\nZoés [pt]\nzoe [en]",
+    "elcat": "\nBuré\nJo'é\nPoturu\nPoturujara\nPutur\nTupí of Cuminapanema\nZo'é\nZoé"
+  },
+  "triggers": {
+    "lgcode": "\njoe\nzoe\ncuminapanema"
+  },
+  "identifier": {
+    "multitree": "pto",
+    "endangeredlanguages": "1632"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cabral:Tupi-Guarani:VIII**",
+    "subrefs": "\n**hh:hv:Cabral:Tupi-Guarani:VIII**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zo'é (1632-pto) = Endangered (40 percent certain, based on the evidence available) [Hitotuzi et al. 2020](cldf:hitotuzi:delimasilva:etal:20)"
+  }
+}

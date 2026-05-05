@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Brokskat",
+    "hid": "bkk",
+    "level": "language",
+    "iso639-3": "bkk",
+    "latitude": "34.5308",
+    "longitude": "76.6026",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Brokskat](https://endangeredlanguages.com/lang/3927)\n[Brokskat](https://wals.info/languoid/lect/wals_code_bkt)\nhttps://en.wikipedia.org/wiki/Brokskat_language\nhttps://phoible.org/languages/brok1247\nhttps://www.wikidata.org/entity/Q2925988"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3592**\n**cldf:cardona:jain:ed:03:4**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Ramaswami:Brokskat**\n**hh:g:Ramaswami:Brokskat**\n**hh:g:Sharma:Brok-Skad**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:hvld:Schmidt:Shina**\n**hh:hvw:Grierson:8:II**\n**hh:phon:Carree:Shina-Da-Hanu**\n**hh:typ:Ramaswami:Brokskat**\n**mpieva:Sharma1998Aconcise**"
+  },
+  "altnames": {
+    "wals": "\nBrokskat",
+    "wals other": "\nBrok-skad",
+    "ruhlen (1987)": "\nShina",
+    "moseley & asher (1994)": "\nShina",
+    "multitree": "\nBrokpa\nBrokpa of Dah-Hanu\nBrokskat\nBroskatí\nDardu\nDokskat\nHanu\nKyango",
+    "lexvo": "\nBrokskat [en]",
+    "hhbib_lgcode": "\nBrokpa of Dah-Hanu\nShinaic Brokskat",
+    "elcat": "\nBrokpa\nBrokpa of Dah-Hanu\nBrokskat\nDardu\nDokskat\nHanu\nKyango"
+  },
+  "triggers": {
+    "lgcode": "\nladakh\nbrokeh\nhanu\nbrokskat\nbrok"
+  },
+  "identifier": {
+    "wals": "bkt",
+    "multitree": "bkk",
+    "endangeredlanguages": "3927"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Brokskat (3927-bkk) = Threatened (20 percent certain, based on the evidence available) [Bashir 2003](cldf:bashir:03)"
+  }
+}

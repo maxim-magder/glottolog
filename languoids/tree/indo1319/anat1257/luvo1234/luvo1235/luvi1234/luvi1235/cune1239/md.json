@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Cuneiform Luwian",
+    "hid": "xlu",
+    "level": "language",
+    "iso639-3": "xlu",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Cuneiform_Luwian\nhttps://www.wikidata.org/entity/Q12634577",
+    "longitude": "36.0",
+    "latitude": "38.0",
+    "timespan": "-1600-01-01/-1400-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:MoutonYakubovich:Luwili**\n**hh:es:Melchert:Luwians**\n**hh:ld:Woudhuizen:ALuwian**\n**hh:s:Kammenhuber:Hethitischetc**\n**hh:s:Melchert:Luvian**\n**hh:ssoc:Yakubovich:Luvian**\n**hh:ssoc:Yakubovich:Luvian:2010**\n**hh:t:Yakubovich:Luwili**\n**mpieva:Laroche1959Dictionn**"
+  },
+  "altnames": {
+    "multitree": "\nCuneiform Hittite\nCuneiform Luvian\nCuneiform Luwian\nLuwian\nWest Luwian",
+    "lexvo": "\nCuneiform Luwian [en]",
+    "hhbib_lgcode": "\nLuwian"
+  },
+  "triggers": {
+    "lgcode": "\nlouvite\ntyrrhenian"
+  },
+  "identifier": {
+    "multitree": "xlu"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Cuneiform Luwian (**hh:es:Melchert:Luwians**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xlu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kloekhorst:Anatolian**:67-75",
+    "subrefs": "\n**hh:hv:Kloekhorst:Anatolian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Cuneiform Luwian (xlu-xlu) = 10 (Extinct)."
+  }
+}

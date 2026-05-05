@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Coahuilteco",
+    "hid": "xcw",
+    "level": "language",
+    "iso639-3": "xcw",
+    "latitude": "28.2589",
+    "longitude": "-97.89",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Coahuilteco](https://grambank.clld.org/languages/coah1252)\n[Coahuilteco](https://wals.info/languoid/lect/wals_code_coa)\nhttps://en.wikipedia.org/wiki/Coahuilteco_language\nhttps://www.wikidata.org/entity/Q2008062",
+    "timespan": "1825-01-01/1825-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:driver:massey:57**\n**cldf:garcia:60**\n**cldf:romney:nd**\n**hh:b:Bright:Hokan-Coahuiltecan**\n**hh:e:Campbell:Coahuiltecans**\n**hh:e:Ruecking:Coahuiltecan**\n**hh:h:Griffen:Southern-East**\n**hh:hs:Pimentel:Mexico**\n**hh:hv:Campbell:Coahuiltecan**\n**hh:hv:Sapir:Hokan-Coahuiltecan**\n**hh:hv:Zamponi:Mexico**\n**hh:hvw:Swanton:NEMexico**\n**hh:s:Acosta:Coahuiltecan**\n**hh:s:Garcia:Coahuilteca**\n**hh:s:Troike:Coahuilteco**\n**hh:s:Troike:Coahuilteco:1959**\n**hh:soc:Reyes:Tzo-Capan**\n**hh:t:deVergara:Pajalates**\n**hh:typ:Troike:Tonkawa-Coahuilteco**\n**hh:w:Swanton:Coahuilteco**"
+  },
+  "altnames": {
+    "wals": "\nCoahuilteco",
+    "ruhlen (1987)": "\nnot specified",
+    "moseley & asher (1994)": "\nCoahuiltec",
+    "multitree": "\nCoahuiltec\nCoahuiltecan\nCoahuiltecan Family\nCoahuilteco\nPajalate",
+    "lexvo": "\nCoahuiltec Indijanci [hr]\nCoahuilteco [ca]\nCoahuilteco language [en]\nCoahuilteeks [nl]\nCoahuiltekisch [de]\nIdioma coahuilteco [es]\nКоавильтекский язык [ru]",
+    "hhbib_lgcode": "\nCoahuiltecan\nTejano/Coahuilteco"
+  },
+  "triggers": {
+    "lgcode": "\ncuadernillo\ncoahuiltecan\npajalates\ncoahuilteca\ntexas AND coahuilteco\ncoahuiltecans\ncoahuilteco"
+  },
+  "identifier": {
+    "wals": "coa",
+    "multitree": "xcw;coah"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:Coahuiltecan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Coahuilteco (xcw-xcw) = 10 (Extinct)."
+  }
+}

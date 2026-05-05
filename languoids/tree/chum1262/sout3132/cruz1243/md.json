@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Cruzeño",
+    "hid": "crz",
+    "level": "language",
+    "iso639-3": "crz",
+    "latitude": "34.0465",
+    "longitude": "-119.864",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Island_Chumash_language\nhttps://www.wikidata.org/entity/Q2967636",
+    "timespan": "1925-01-01/1925-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cook:heizer:65**\n**cldf:harrington:42**\n**cldf:kroeber:25:3**\n**hh:e:Grant:Island-Chumash**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**mpieva:Pinart1952TheMissi**"
+  },
+  "altnames": {
+    "glottolog": "\nCruzeno",
+    "multitree": "\nChumash\nChumasha Proper\nChumasho\nCruzeño\nIsland Chumash\nIsland Chumashan\nIsleño\nSanta Rosa\nYsleño",
+    "lexvo": "\nCruzeño [en]",
+    "hhbib_lgcode": "\nCruze\\~no\nIsland Chumash\nIsland of Santa Cruz"
+  },
+  "triggers": {
+    "lgcode": "\nvocabularies AND pinart"
+  },
+  "identifier": {
+    "multitree": "crz"
+  },
+  "classification": {
+    "sub": "**hh:hv:JonesKlar:Polynesian-Southern-California**",
+    "subrefs": "\n**hh:hv:JonesKlar:Polynesian-Southern-California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Island Chumash (857-crz) = Extinct"
+  }
+}

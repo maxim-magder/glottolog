@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Piamatsina",
+    "hid": "ptr",
+    "level": "language",
+    "iso639-3": "ptr",
+    "latitude": "-14.9959",
+    "longitude": "166.738",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Piamatsina](https://endangeredlanguages.com/lang/5295)\n[Piamatsina](https://lexibank.clld.org/languages/abvdoceanic-Piamatsina)\nhttps://en.wikipedia.org/wiki/Piamatsina_language\nhttps://www.wikidata.org/entity/Q7190040"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1965**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nPiamatsina\nVanuatu",
+    "lexvo": "\nPiamatsina [en]",
+    "elcat": "\nPiamatsina"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "ptr",
+    "endangeredlanguages": "5295"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Piamatsina (5295-ptr) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

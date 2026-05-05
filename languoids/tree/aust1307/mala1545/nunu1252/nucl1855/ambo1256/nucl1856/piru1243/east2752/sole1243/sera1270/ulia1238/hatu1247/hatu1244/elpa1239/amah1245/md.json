@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Amahai",
+    "hid": "amq",
+    "level": "language",
+    "iso639-3": "amq",
+    "latitude": "-3.32028",
+    "longitude": "128.939",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Amahai](https://endangeredlanguages.com/lang/1330)\nhttps://www.wikidata.org/entity/Q3327384\nhttps://en.wikipedia.org/wiki/Amahai_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hv:Kotynski:Lease**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hv:Taguchi:WSeram**\n**hh:hvw:Collins:CMaluku**\n**hh:lde:Tichelman:Amahei**\n**hh:w:Stokhofetal:Holle:3:2**"
+  },
+  "altnames": {
+    "multitree": "\nAmahai\nAmahei",
+    "lexvo": "\nAmahai [en]",
+    "hhbib_lgcode": "\n3xAmahai\nAmahai-Seram\nAmahai-Seram JB1939\nAmahai-Soahuku\nAmahei\nMakariki\nRutah",
+    "elcat": "\nAmahai\nAmahei"
+  },
+  "identifier": {
+    "multitree": "amq",
+    "endangeredlanguages": "1330"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Amahai (1330-amq) = Critically Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

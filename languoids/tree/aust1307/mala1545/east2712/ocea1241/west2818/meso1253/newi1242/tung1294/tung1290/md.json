@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tungag",
+    "hid": "lcm",
+    "level": "language",
+    "iso639-3": "lcm",
+    "latitude": "-2.52188",
+    "longitude": "150.198",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Tungag](https://grambank.clld.org/languages/tung1290)\n[Tungag / Tungak / Lavongai](https://lexibank.clld.org/languages/abvdoceanic-TungagTungakLavongai)\n[Tungak](https://wals.info/languoid/lect/wals_code_tnk)\nhttps://en.wikipedia.org/wiki/Tungag_language\nhttps://www.wikidata.org/entity/Q3542085"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Roberts:Lavongai**\n**hh:he:Strauch:Neu-Guinea**\n**hh:hv:Beaumont:Tigak-Tungag-Kara**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Lithgow:Milne**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:s:Fast:Tungak**\n**hh:s:Stamm:Lavongai**\n**hh:styp:Fast:Tungag**\n**hh:typ:Beaumont:Tigak-Kara**\n**hh:w:Strauch:477**\n**mpieva:1990Twogramm**\n**mpieva:Stamm1986Lavongai**\n**sil16:34313**\n**sil16:34314**\n**sil16:41586**\n**sil16:41587**\n**sil16:49311**\n**silpng:silpng1956-1990:1776**\n**silpng:silpng1991-2000:2128**\n**silpng:silpng1991-2000:2129**\n**silpng:silpng1991-2000:2130**\n**silpng:silpng1991-2000:2131**\n**silpng:silpng1991-2000:2132**\n**silpng:silpng1991-2000:2133**\n**silpng:silpng1991-2000:2134**\n**silpng:silpng1991-2000:2135**\n**silpng:silpng1991-2000:2136**\n**silpng:silpng1991-2000:2137**\n**silpng:silpng1991-2000:2138**\n**silpng:silpng1991-2000:2139**\n**silpng:silpng1991-2000:2140**\n**silpng:silpng1991-2000:2141**"
+  },
+  "altnames": {
+    "wals": "\nTungak",
+    "wals other": "\nLavongai",
+    "ruhlen (1987)": "\nLavongai",
+    "moseley & asher (1994)": "\nLavongai",
+    "multitree": "\nDang\nLavangai\nLavongai\nNeu-Mecklenburg\nTungag\nTungak",
+    "lexvo": "\nTungag [en]",
+    "hhbib_lgcode": "\nLavongai\nLavongai (= Tungak/Tungag)\nLavongai-Tungag\nNeu-Hannover 1 Ankerplatz\nNeu-Hannover 2 Ankerplatz\nPakail"
+  },
+  "triggers": {
+    "lgcode": "\namalmalangasai\nulen\nangasik\ntungak\nlavongai\nakus\npoisan\ntataot\nkovek"
+  },
+  "identifier": {
+    "wals": "tnk",
+    "multitree": "lcm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:New-Ireland** **hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:New-Ireland**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tungag (lcm-lcm) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Brunei Bisaya-Dusun",
+    "hid": "bsb",
+    "level": "language",
+    "iso639-3": "bsb",
+    "latitude": "4.60791",
+    "longitude": "114.517",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "BN",
+      "MY"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Brunei_Bisaya_language\nhttps://www.wikidata.org/entity/Q3450611"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:71**\n**hh:e:Sandin:Bisayah:1971**\n**hh:e:Sandin:Bisayah:1972**\n**hh:hvw:Alas:Dusun**\n**hh:hvw:Nothofer:Brunei**\n**hh:hw:Ray:Borneo**\n**hh:phon:Alas:Bisaya**\n**hh:phon:Jalin:Dusun**\n**hh:soc:JamilNewman:Bisaya**\n**hh:w:Lobel:North-Borneo**\n**iso6393:2007-206**\n**mpieva:Guillen1898Gramatic**"
+  },
+  "altnames": {
+    "multitree": "\nBasaya\nBekiau\nBesaya\nBisaia\nBisaya\nBisaya Bukit\nBisaya, Brunei\nBisayah\nDusun\nJilama Bawang\nJilama Sungai\nLorang Bukit\nSouthern Bisaya\nTutong 1\nVisayak",
+    "lexvo": "\nBrunei Bisaya [en]",
+    "hhbib_lgcode": "\n(2) Brunei Dusun (BRDUSUN)\n(3) Limbang Bisaya (LBISAYA)\nBatu Danau Limbang\nBekiau\nBisaya-Brunei\nBisayah of Limbang\nBrunei Bisaya\nBrunei Dusun\nDusun\nMerimbun Tutong\nPadang Kerbau Merudi\nSungai Bangat Labuan\nTelisai Tutong\nTutong 1\nUpper Tutong",
+    "glottolog": "\nBrunei Bisaya"
+  },
+  "triggers": {
+    "lgcode": "\ntindal\npanayana\nfacilitar"
+  },
+  "identifier": {
+    "multitree": "bsb"
+  },
+  "classification": {
+    "subrefs": "\n**hh:hv:Lobel:Southwest-Sabah**",
+    "sub": "**hh:hv:Lobel:Southwest-Sabah**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bisaya, Brunei (bsb-bsb) = 5* (Developing). De facto language of national identity."
+  }
+}

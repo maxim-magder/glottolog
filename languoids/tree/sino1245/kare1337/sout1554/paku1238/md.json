@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Paku Karen",
+    "hid": "jkp",
+    "level": "language",
+    "iso639-3": "jkp",
+    "latitude": "18.8137",
+    "longitude": "97.1203",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q25559420"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hew:Luce:Burma**\n**hh:hld:Grierson:12:Burma**\n**iso6393:2011-059**"
+  },
+  "altnames": {
+    "multitree": "\nKaren, Paku\nKaren,Paku\nMogpha\nMogwa\nMonebwa\nMonnepwa\nMopaga\nMopha\nMopwa\nPagu\nPaku\nThalwepwe",
+    "lexvo": "\nPaku Karen [en]",
+    "hhbib_lgcode": "\nKaren-Paku\nMopwā\nPaku"
+  },
+  "triggers": {
+    "lgcode": "\nphases"
+  },
+  "iso_retirement": {
+    "comment": "The entry for Karen, Paku contained Mobwa as a dialect in the past. However,\nspeakers of Mobwa report low inherent intelligibility with Paku. Based on low\nreported comprehension and separate identities, it seems that Mobwa should be\nconsidered a separate language from Paku. In addition, Mobwa is treated as a\ndistinct variety from Paku in the linguistic literature.\n\nRegarding Mobwa being different from Paku and from Sgaw, there is an article by\nShintani (2001) in which he did lexicostatistical analysis of various Karen\nvarieties, including Sgaw, Paku, and Mobwa. He found 79% similarity between\nMobwa and Paku and put them in separate groupings. He found 74% similarity\nbetween Mobwa and Sgaw and put them in separate groupings.\n\nThe Mobwa live among the Bwe, but have to switch to Sgaw or Burmese to\ncommunicate with them. They do not have much contact with Paku people, have low\nunderstanding of Paku, and have a distinct identity from the Paku.",
+    "code": "kpp",
+    "name": "Paku Karen",
+    "effective": "2012-02-03",
+    "reason": "split",
+    "remedy": "Split into Paku Karen [jkp] and Mobwa Karen [jkm]",
+    "change_request": "2011-059",
+    "change_to": "\njkp\njkm"
+  },
+  "identifier": {
+    "multitree": "kpp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Karen, Paku (jkp-jkp) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Vili",
+    "hid": "vif",
+    "level": "language",
+    "iso639-3": "vif",
+    "latitude": "-4.06716",
+    "longitude": "11.3804",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "CG",
+      "GA"
+    ],
+    "links": "\n[Vili](https://wals.info/languoid/lect/wals_code_vif)\nhttps://en.wikipedia.org/wiki/Vili_language\nhttps://www.wikidata.org/entity/Q3558409"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:20433**\n**eballiso2009:22593**\n**eballiso2009:23011**\n**eballiso2009:23013**\n**eballiso2009:23015**\n**eballiso2009:23899**\n**eballiso2009:24301**\n**eballiso2009:25996**\n**eballiso2009:28707**\n**eballiso2009:29879**\n**eballiso2009:31133**\n**eballiso2009:34817**\n**eballiso2009:37046**\n**eballiso2009:41534**\n**eballiso2009:41539**\n**eballiso2009:41540**\n**eballiso2009:41543**\n**eballiso2009:43186**\n**eballiso2009:44281**\n**eballiso2009:48207**\n**eballiso2009:50908**\n**eballiso2009:58514**\n**eballiso2009:622**\n**eballiso2009:6706**\n**eballiso2009:742**\n**eballiso2009:9190**\n**hh:d:Derouet:Fiote**\n**hh:d:Marichelle:Vili**\n**hh:d:Marichelle:Vili:1902**\n**hh:e:Hutereau:Mayumbe**\n**hh:g:Lipou:Vili**\n**hh:g:Loembe:Vili**\n**hh:g:Ndamba:Vili**\n**hh:h:Mabiala:Kouilou**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hb:Leblanc:Congo**\n**hh:htyp:Blanchon:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hv:Mabiala:Kongo**\n**hh:hv:deSchryver:Kikongo**\n**hh:hvw:Klieman:WEquatorial**\n**hh:hw:Magalhaes:Angola**\n**hh:ld:Klouvi:Yilumbu**\n**hh:ld:Ndinga-Koumba-Binza:Merye**\n**hh:ld:Tele-Pemba:Civili**\n**hh:phon:Mabiala:Kiyoombi**\n**hh:phon:Ndinga:Civili**\n**hh:phond:Mabiala:Kiyoombi**\n**hh:s:Marichelle:Vili**\n**hh:s:Marichelle:Vili:1907**\n**hh:s:Mavoungouetal:Civili**\n**hh:s:Ussel:Fiote**\n**hh:s:Voulgre:Language-Loango**\n**hh:soc:Pambou:Civili**\n**hh:vw:Drieghe:Cilinji-Cizobe**"
+  },
+  "altnames": {
+    "multitree": "\nCivili\nFiot\nFiote\nTsivili\nVili",
+    "lexvo": "\nVili [en]",
+    "hhbib_lgcode": "\nCi-Vili\nCi-Vili H12a\nCivili\nCivili H12\nCivili de Mayumba\nFiote du Loango\nH12 Civili Congo\nH12 Civili Gabon\nH12_Civili_Congo\nH16c Kiyombi Congo\nH16c_Yombe should be H12\nKakamoëka un district de la région du Kouilou au Congo (-4.091243402682411-12.065477352792072)\nKi-Yoombi H12b\nKiyombi by J Ndamba from Bastin et al. 1999 similar to Vili\nKiyoombi H12b of Mabiala\nVili (H12a)\nVili 1 Congo H12A\nVili 2 Gabon H12A collected by Marchal-Nasse quite deviant but nevertheless\nVili H12\nVili H12a\nVili from Mayumbe\nYombe\nYombe 2 Congo H12B from Kakamoeka in Kouilou (Congo)\nYombe H12b\na poorly recorded/deviant Civili (resembles I-vili of la Ngounié much less)"
+  },
+  "triggers": {
+    "lgcode": "\nkivili\nbavili\nkingly\ncivili\nvili\nirebou"
+  },
+  "identifier": {
+    "wals": "vif",
+    "multitree": "vif"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vandenabeel:Congo-Delta** **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Bostoen:Aire-Kongo**\n**hh:hv:Vandenabeel:Congo-Delta**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vili (vif-vif) = 5 (Developing)."
+  }
+}

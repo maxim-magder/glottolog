@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Padoe",
+    "hid": "pdo",
+    "level": "language",
+    "iso639-3": "pdo",
+    "latitude": "-2.60642",
+    "longitude": "121.236",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Padoe](https://endangeredlanguages.com/lang/2744)\nhttps://www.wikidata.org/entity/Q3360370\nhttps://en.wikipedia.org/wiki/Padoe_language\n[Padoe](https://wals.info/languoid/lect/wals_code_pad)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:kahunen:94**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hsoc:KarhunenVuorinen:Mori**\n**hh:hv:Valkama:Toraja**\n**hh:hvld:AdrianiKruyt:Celebes**\n**hh:hvwb:Mead:Bungku-Tolaki**\n**hh:phon:Karhunen:Padoe**\n**hh:typ:Karhunen:Padoe**\n**hh:typ:Vuorinen:Padoe-Person**\n**sil16:26542**\n**sil16:31527**\n**sil16:41956**\n**sil16:42852**"
+  },
+  "altnames": {
+    "wals": "\nPadoe",
+    "wals other": "\nMori",
+    "ruhlen (1987)": "\nMori",
+    "moseley & asher (1994)": "\nMori",
+    "multitree": "\nAlalao\nPadoe\nPadoé\nSouth Mori",
+    "lexvo": "\nPadoe [en]",
+    "elcat": "\nAlalao\nPadoe\nPadoé\nSouth Mori",
+    "hhbib_lgcode": "\nPadoesch"
+  },
+  "triggers": {
+    "lgcode": "\ncelebic\npadoe"
+  },
+  "identifier": {
+    "wals": "pad",
+    "multitree": "pdo",
+    "endangeredlanguages": "2744"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Mead:Bungku-Tolaki** **hh:hv:Mead:Sulawesi:2024**:154",
+    "subrefs": "\n**hh:hvs:Mead:Bungku-Tolaki**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Padoe (2744-pdo) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

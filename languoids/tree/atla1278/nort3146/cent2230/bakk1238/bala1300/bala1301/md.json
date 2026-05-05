@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Balanta-Kentohe",
+    "hid": "ble",
+    "level": "language",
+    "iso639-3": "ble",
+    "latitude": "11.8203",
+    "longitude": "-15.3221",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW"
+    ],
+    "links": "\n[Balanta-Soofa](https://lexibank.clld.org/languages/polyglottaafricana-BalantaSoofa)\nhttps://www.wikidata.org/entity/Q56789"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bernatzik:33**\n**eballiso2009:14914**\n**eballiso2009:15414**\n**eballiso2009:20986**\n**eballiso2009:3789**\n**eballiso2009:39114**\n**eballiso2009:41677**\n**eballiso2009:48457**\n**eballiso2009:53273**\n**eballiso2009:6454**\n**eballiso2009:7398**\n**eballiso2009:773**\n**eballiso2009:774**\n**eballiso2009:9045**\n**hh:d:Doneux:Balante**\n**hh:hvld:Kane:Numeration-Ouest-Atlantiques-Mande**\n**hh:s:Doneux:Balante**\n**hh:s:Quintino:Balanta**\n**hh:s:Quintino:Balanta:1951**\n**hh:s:Wilson:Balanta**\n**hh:s:deSousa:Balantas**"
+  },
+  "altnames": {
+    "multitree": "\nAlante\nBalanda\nBalant\nBalanta\nBalanta-Kentohe\nBalante\nBallante\nBelante\nBrassa\nBulanda\nFrase",
+    "lexvo": "\nBalanta-Kentohe [en]",
+    "hhbib_lgcode": "\nBalantas de Jabadá situé sur la rive sud du Rio Geba\nBëlante Kan Tohe\nFora\nKentohe-Binar"
+  },
+  "triggers": {
+    "lgcode": "\nfulacunda\nsenegaliases\nmonacensis\nbalante\njabada\nestruture\nceuta\nbalanta\nconhencimento\nbalantas"
+  },
+  "identifier": {
+    "multitree": "ble"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017** **hh:hv:Merrill:Atlantic** **hh:hv:Merrill:Cangin**",
+    "subrefs": "\n**hh:hv:Merrill:Atlantic**\n**hh:hv:Merrill:Cangin**\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Balanta (ble-ble) = 6b (Threatened)."
+  }
+}

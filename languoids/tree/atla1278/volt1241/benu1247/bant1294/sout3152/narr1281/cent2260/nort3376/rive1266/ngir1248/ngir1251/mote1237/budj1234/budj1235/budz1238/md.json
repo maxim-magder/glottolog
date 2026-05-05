@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Budza",
+    "hid": "bja",
+    "level": "language",
+    "iso639-3": "bja",
+    "latitude": "2.19951",
+    "longitude": "22.6107",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Budza](https://grambank.clld.org/languages/budz1238)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:soupart:38**\n**cldf:vandenbergh:34**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:13228**\n**eballiso2009:2407**\n**eballiso2009:2496**\n**eballiso2009:25996**\n**eballiso2009:28707**\n**eballiso2009:35132**\n**eballiso2009:39254**\n**eballiso2009:47206**\n**eballiso2009:51530**\n**eballiso2009:58532**\n**hh:e:vandenBergh:Budjas**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:h:Vanhouteghem:Lisala**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Donzo:Congo-Ubangi:Afrika-Focus**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mangulu:Ngiri**\n**hh:hvw:Donzo:Congo-Ubangi**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:McMaster:Uele**\n**hh:hw:Thonner:Ubangi**\n**hh:phon:Kasekay:Budya**\n**hh:s:Bemon-Musubao:Mbudza**\n**hh:s:Mangulu:Buja**\n**hh:s:Mangulu:Lipoto-Yaolema**\n**hh:s:Schillebeeckx:Budja**\n**hh:s:Toulmond:Ebudja**\n**hh:typ:Ewalo:Ebudza**\n**hh:typ:Mombaya:Yaolema**\n**sil16:44984**"
+  },
+  "altnames": {
+    "multitree": "\nBudja\nBudza\nBuja\nEbuja\nEmbudja\nLimbudza\nMbudja",
+    "lexvo": "\nBudza [en]",
+    "hhbib_lgcode": "\nAbuja or Buja\nBudja\nBudja C37\nBudja-Mombongo\nBudja/Mbuja\nBudya\nBuja\nBuja 1 Monongo C37\nBuja 2 Bumba C37\nBujá des Yambuli\nC37_Ebudza\nEbudja C37\nEbudzá\nEmbuja\nMbudza\nMbudza C37\nMbuza\nSimilar to Ebudzá-ebango C.44 and mombesa C.51\nYaolema"
+  },
+  "triggers": {
+    "lgcode": "\nlikangala\nbuja\nyambuli\nbabale\ndebudja\nbudya\nbudja"
+  },
+  "identifier": {
+    "multitree": "bja"
+  },
+  "classification": {
+    "sub": "**hh:s:Mangulu:Buja** **hh:hv:HackettvanBulck:ETeam**:77",
+    "subrefs": "\n**hh:s:Mangulu:Buja**\n**hh:hv:HackettvanBulck:ETeam**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Budja (bja-bja) = 6a (Vigorous)."
+  }
+}

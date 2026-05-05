@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Yapese",
+    "hid": "yap",
+    "level": "language",
+    "iso639-3": "yap",
+    "latitude": "9.55811",
+    "longitude": "138.125",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Yapese](https://grambank.clld.org/languages/yape1248)\n[Yapese](https://lexibank.clld.org/languages/abvdoceanic-Yapese)\n[Yapese](https://wals.info/languoid/lect/wals_code_yap)\nhttps://phoible.org/languages/yape1248"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:ballantyne:04**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:bouma:ling:etal:ed:10**\n**cldf:calculator:14**\n**cldf:chelliah:dereuse:ed:97:11**\n**cldf:cribb:00**\n**cldf:dobbin:11**\n**cldf:fisher:50**\n**cldf:hunt:schneider:etal:49**\n**cldf:jensen:defeg:77**\n**cldf:keesing:84:2**\n**cldf:labby:76**\n**cldf:lingenfelter:72**\n**cldf:lingenfelter:91**\n**cldf:lynch:98**\n**cldf:marksbury:04**\n**cldf:murdock:ford:etal:44**\n**cldf:np:14:5**\n**cldf:np:nd:2**\n**cldf:s:13**\n**cldf:salesius:06:1**\n**cldf:salesius:06:2**\n**cldf:schneider:53**\n**cldf:schneider:57:2**\n**cldf:schneider:62:1**\n**cldf:schneider:nd**\n**cldf:senfft:03:2**\n**cldf:senft:03**\n**cldf:tetens:58**\n**cldf:tetens:kubary:73**\n**cldf:throop:08**\n**hh:d:Jensen:Yapese**\n**hh:e:Kubary:Karolinen**\n**hh:e:Salesius:Jap**\n**hh:g:Jensen:Yapese**\n**hh:g:Lorrach:Yap**\n**hh:hv:Finney:Yap**\n**hh:hv:Ross:Yapese**\n**hh:hvw:Latham:Comparative**\n**hh:lde:Muller:Yap**\n**hh:phon:Hsu:Yapese**\n**hh:s:Ballantyne:Yapese**\n**hh:s:deValencina:Yap**\n**hh:t:Muller:Yap**\n**hh:w:Cheyne:WPacific**\n**hh:w:vonMiklucho-Maclay:Yan-Pelau**\n**sil16:21203**"
+  },
+  "altnames": {
+    "wals": "\nYapese",
+    "ruhlen (1987)": "\nYapese",
+    "moseley & asher (1994)": "\nYapese",
+    "multitree": "\nYap\nYapese",
+    "lexvo": "\nJapo kalba [lt]\nJapski jezik [hr]\nLingua yapese [it]\nLíngua yap [pt]\nYapees [nl]\nYapese [en]\nYapese language [en]\nYapesische Sprache [de]\nYapesisk [no]\nYapin kieli [fi]\nyapois [fr]",
+    "hhbib_lgcode": "\nJap\nYap"
+  },
+  "triggers": {
+    "lgcode": "\nyapese"
+  },
+  "identifier": {
+    "wals": "genus/yapese",
+    "multitree": "yap;yape"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yapese (yap-yap) = 2 (Provincial). Statutory provincial language in State of Yap (1986, Yap State Constitution, Article 14(5))."
+  }
+}

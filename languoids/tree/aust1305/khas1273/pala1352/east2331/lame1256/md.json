@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Lamet",
+    "hid": "lbn",
+    "level": "language",
+    "iso639-3": "lbn",
+    "latitude": "20.40086",
+    "longitude": "100.58413",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3216723\nhttps://en.wikipedia.org/wiki/Lamet_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2921**\n**cldf:izikowitz:51**\n**hh:e:Izikowitz:Lamet**\n**hh:e:Izikowitz:Lamet:1943**\n**hh:hew:Lefevre-Pontalis:Nord-Indo-Chine**\n**hh:hsoc:Proschan:Laos-Vietnam**\n**hh:hvw:Rangsit:NSiam**\n**hh:hvw:Sidwell:Palaungic**\n**hh:phon:Charoenma:Lamet:1982**\n**hh:phon:Conver:Lamet**\n**hh:phon:Mitani:Khamet**\n**hh:phon:Mitani:Khamet:1965**\n**hh:phon:Narumol:Lamet**\n**hh:phonw:Lindelletal:Lamet**\n**hh:s:Barkman:Lamet**\n**hh:typ:Rice:Golden-Triangle**\n**hh:w:LagreeGarnier:Indo-Chinois**\n**iso6393:2018-007**\n**ldh:item_406672**"
+  },
+  "altnames": {
+    "multitree": "\nKamet\nKha\nKha Lamet\nKha-Lamet\nKhamed\nKhamet\nLamet\nLe-Met\nLemet\nRmeet",
+    "lexvo": "\nLamet [en]",
+    "hhbib_lgcode": "\nKhas-Lemet\nLameet-Lampang\nLamet/Rmeet\nLampang Lamet\nLemet (Nieng Khong)\nLemet (Pak Ta)\nPa Pao\nRmeet\nWiang Papao Lua"
+  },
+  "triggers": {
+    "lgcode": "\nNOT language AND lamet\nlamet\nkhamet"
+  },
+  "identifier": {
+    "multitree": "lbn"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sidwell:Palaungic**:12",
+    "subrefs": "\n**hh:hvw:Sidwell:Palaungic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rmeet (lbn-lbn) = 6a* (Vigorous)."
+  }
+}

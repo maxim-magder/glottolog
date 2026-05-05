@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Lake Miwok",
+    "hid": "lmw",
+    "level": "language",
+    "iso639-3": "lmw",
+    "latitude": "39.0021",
+    "longitude": "-122.621",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Lake Miwok](https://endangeredlanguages.com/lang/1147)\nhttps://www.wikidata.org/entity/Q3216471\nhttps://en.wikipedia.org/wiki/Lake_Miwok_language\nhttps://phoible.org/languages/lake1258\n[Miwok (Lake)](https://wals.info/languoid/lect/wals_code_mwl)",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:callaghan:98**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:55**\n**cldf:ed:10**\n**cldf:gifford:22**\n**cldf:gifford:kroeber:37**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Callaghan:Lake-Miwok**\n**hh:e:Callaghan:LakeMiwok**\n**hh:g:Callaghan:LakeMiwok**\n**hh:hvb:Golla:California**"
+  },
+  "altnames": {
+    "wals": "\nMiwok (Lake)",
+    "ruhlen (1987)": "\nMiwok (Lake)",
+    "moseley & asher (1994)": "\nMiwok (Lake)",
+    "multitree": "\nLake Miwok\nMiwok (Lake)\nMiwok du lac\nMiwok, Lake\nMiwokano del lago",
+    "lexvo": "\nLake Miwok [en]",
+    "hhbib_lgcode": "\nMiwok-Lake",
+    "elcat": "\nLake\nLake Miwok\nMiwok\nMiwok (Lake)"
+  },
+  "triggers": {
+    "lgcode": "\ngrammar AND miwok"
+  },
+  "identifier": {
+    "wals": "mwl",
+    "multitree": "lmw",
+    "endangeredlanguages": "1147"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Callaghan:Utian**:8-9",
+    "subrefs": "\n**hh:hvw:Callaghan:Utian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miwok, Lake (lmw-lmw) = 9 (Dormant). Language of registered tribe: Middletown Rancheria of Pomo Indians of California."
+  }
+}

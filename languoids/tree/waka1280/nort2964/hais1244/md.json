@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Haisla",
+    "hid": "has",
+    "level": "language",
+    "iso639-3": "has",
+    "latitude": "53.964",
+    "longitude": "-128.602",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Haisla](https://wals.info/languoid/lect/wals_code_hsl)\n[X̄enaksialak̓ala / X̄a'islak̓ala (Haisla)](https://endangeredlanguages.com/lang/2385)\nhttps://en.wikipedia.org/wiki/Haisla_language\nhttps://www.wikidata.org/entity/Q3107399"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bach:02**\n**cldf:bach:96**\n**cldf:barnett:68**\n**cldf:codere:50**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:drucker:40**\n**cldf:drucker:50**\n**cldf:drucker:heizer:67**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lopatin:45**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:olson:40**\n**cldf:rohner:rohner:70**\n**cldf:rosman:rubel:71**\n**cldf:schalk:78**\n**hh:e:Hamori-Torok:Haisla**\n**hh:hvd:Fortescue:Wakashan**\n**hh:hvw:LincolnRath:North-Wakashan**\n**hh:phon:Vink:Haisla**\n**hh:phond:LincolnRath:Haisla**\n**hh:t:Robertson:Haisla**"
+  },
+  "altnames": {
+    "wals": "\nHaisla",
+    "ruhlen (1987)": "\nHaisla",
+    "moseley & asher (1994)": "\nHaisla",
+    "multitree": "\nHaishilla\nHaisla\nKitamat\nXiʔslak'ala",
+    "lexvo": "\nHaisla [en]",
+    "elcat": "\nHaishilla\nHaisla\nKitamat\nKitlope\nNorthern Kwakiutl\nXiʔslak'ala\nX̄a'islak̓ala\nX̄enaksialak̓ala\nX̄enaksialak̓ala / X̄a'islak̓ala (Haisla)"
+  },
+  "triggers": {
+    "lgcode": "\nhaisla"
+  },
+  "identifier": {
+    "wals": "hsl",
+    "multitree": "has",
+    "endangeredlanguages": "2385"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stonham:Wakashan**, **hh:hv:Campbell:1997**, **hh:hvd:Fortescue:Wakashan**",
+    "subrefs": "\n**hh:hvd:Fortescue:Wakashan**\n**hh:hv:Stonham:Wakashan**\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "X̄enaksialak̓ala / X̄a'islak̓ala (Haisla) (2385-has) = Critically Endangered (80 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tabla",
+    "hid": "tnm",
+    "level": "language",
+    "iso639-3": "tnm",
+    "latitude": "-2.45368",
+    "longitude": "140.396",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7673105\nhttps://en.wikipedia.org/wiki/Tabla_language\n[Tabla](https://wals.info/languoid/lect/wals_code_tbl)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abisay:mentanawai:etal:83**\n**cldf:collier:collier:86**\n**hh:e:Collier:Tabla**\n**hh:e:deClercq:Tarfia**\n**hh:h:Mambrasar:Arso-Sentani**\n**hh:hlde:deClercq:NNG**\n**hh:hlde:deClercq:WNNNG**\n**hh:hv:HartzlerGregerson:Proto-Tabla-Sentani**\n**hh:hv:Sanjoko:Nafri-Sentani-Tabla**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:lde:Collier:Tepera**\n**hh:s:ComrieJakarimilena:Tepera**\n**hh:typ:CollierGregerson:Tabla**\n**hh:typ:Jakarimilena:Tepera**\n**hh:wtyp:Abisayetal:Tabla**\n**sil16:17325**\n**sil16:18524**\n**sil16:19412**\n**sil16:19413**\n**sil16:19414**\n**sil16:19415**\n**sil16:19870**\n**sil16:22289**\n**sil16:22290**\n**sil16:26255**"
+  },
+  "altnames": {
+    "wals": "\nTabla",
+    "ruhlen (1987)": "\nTanahmerah",
+    "moseley & asher (1994)": "\nTanah Merah(2)",
+    "multitree": "\nJakari\nTabi\nTabla\nTanah Merah\nTanahmerah\nTanahmerah 2\nTanahmerah II\nTepera",
+    "lexvo": "\nTabla [en]",
+    "hhbib_lgcode": "\nTanah Merah\nTanah Merah (Ac)\nTanah Merah (Sentani-Tanah Merah)\nTanah Mérah\nTepera\nTepera Tepera"
+  },
+  "triggers": {
+    "lgcode": "\ntabla"
+  },
+  "identifier": {
+    "wals": "tbl",
+    "multitree": "tnm"
+  },
+  "classification": {
+    "sub": "**hh:hv:HartzlerGregerson:Proto-Tabla-Sentani**",
+    "subrefs": "\n**hh:hv:HartzlerGregerson:Proto-Tabla-Sentani**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tabla (tnm-tnm) = 8a (Moribund)."
+  }
+}

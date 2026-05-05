@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tahitian",
+    "hid": "tah",
+    "level": "language",
+    "iso639-3": "tah",
+    "latitude": "-17.6485",
+    "longitude": "-149.45",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PF"
+    ],
+    "links": "\n[Tahitian](https://grambank.clld.org/languages/tahi1242)\n[Tahitian](https://lexibank.clld.org/languages/abvdoceanic-Tahitian)\n[Tahitian](https://wals.info/languoid/lect/wals_code_tah)\n[Tahitian_173](https://lexibank.clld.org/languages/walworthpolynesian-Tahitian)\nhttps://en.wikipedia.org/wiki/Tahitian_language\nhttps://www.wikidata.org/entity/Q34128"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:01**\n**cldf:bellwood:95**\n**cldf:bickmore:95:1**\n**cldf:bril:ozanne-rivierre:ed:04:4**\n**cldf:bybee:perkins:etal:94**\n**cldf:calculator:14**\n**cldf:cook:84:2**\n**cldf:corney:14**\n**cldf:cribb:00**\n**cldf:davies:51**\n**cldf:ellis:05**\n**cldf:ellis:31**\n**cldf:emory:33**\n**cldf:ferdon:91**\n**cldf:finney:73**\n**cldf:foster:20:1**\n**cldf:hamilton:07**\n**cldf:handy:30**\n**cldf:handy:32**\n**cldf:hawkesworth:nd**\n**cldf:henry:28**\n**cldf:international:14:2**\n**cldf:jaussen:69**\n**cldf:lazard:peltzer:91**\n**cldf:lazard:peltzer:99**\n**cldf:malherbe:rosenberg:96**\n**cldf:mcarthur:67**\n**cldf:newbury:80**\n**cldf:np:14:5**\n**cldf:oliver:02**\n**cldf:oliver:74**\n**cldf:paia:vernaudon:99**\n**cldf:parkinson:73**\n**cldf:rallu:07**\n**cldf:rallu:91**\n**cldf:tryon:76:1**\n**cldf:vergnaud:halle:78**\n**cldf:vernaudon:rigo:04**\n**cldf:williamson:24**\n**hh:d:Jaussen:Tahitienne**\n**hh:d:Vanaa:Tahitienne**\n**hh:d:Wahlroos:Tahitian**\n**hh:g:AT:Tahitienne**\n**hh:g:Cadosteau:Tahitienne**\n**hh:g:CoppenrathPrevost:Tahitienne**\n**hh:g:Iorss:Tahitien**\n**hh:g:LazardPeltzer:Tahitienne**\n**hh:g:Paia:Tahitien**\n**hh:g:Peltzer:Tahitien**\n**hh:g:Raapoto:Tahitienne**\n**hh:g:Tryon:Tahitian**\n**hh:g:Vanaa:Tahitienne**\n**hh:gd:Jaussen:Tahitien**\n**hh:ld:White:Tahitian**\n**hh:s:Arakin:Taityanskij**\n**hh:s:BuschmannHumboldt:Marquises**\n**hh:s:LovyBouge:Tahitienne**\n**hh:s:Stimson:Tahitian**\n**hh:sd:Davies:Tahitian**\n**hh:sd:Jaussen:Tahitienne**\n**hh:w:Fischer:Rurutuan**\n**hh:w:Lemaitre:Tahitian**\n**mpieva:2004Complexp**\n**mpieva:Davies1851ATahitia**\n**mpieva:Hovdhaugen1999Negation**\n**mpieva:Paia2003Tahitien**\n**sil16:48349**\n**sil16:48359**"
+  },
+  "altnames": {
+    "wals": "\nTahitian",
+    "ruhlen (1987)": "\nTahitian",
+    "moseley & asher (1994)": "\nTahitian",
+    "multitree": "\nTahiti\nTahitian",
+    "lexvo": "\nIdioma tahitiano [es]\nJęzyk tahitański [pl]\nLengua tahitiann-a [lij]\nLíngua taitiana [pt]\nReo Tahiti [mi]\nTahiti simi [qu]\nTahitiaans [nl]\nTahitian [en]\nTahitian language [en]\nTahitianische Sprache [de]\nTahitieg [br]\nTahitien [fr]\nTahitin kieli [fi]\nTahitisk [no]\nTahitiska [sv]\nTahitià [ca]\nTahityan [pih]\nTahitïeg [cy]\nTaitiečių kalba [lt]\ntahitien [fr]\nТаитянский язык [ru]\nТаіцянская мова [be]\nلغة تاهيتية [ar]\n‘Ōlelo Kahiki [haw]\nタヒチ語 [ja]\n타히티어 [ko]"
+  },
+  "triggers": {
+    "lgcode": "\npearses\ntahitien\ntahitian\ntaityanskij\nboundness\ntahitienne\nraivavaean\nrurutuan\nrimataran"
+  },
+  "identifier": {
+    "wals": "tah",
+    "multitree": "tah"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:East-Polynesian** **hh:hv:Marck:Polynesian**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tahitian (tah-tah) = 2 (Provincial). Statutory provincial language in French Polynesia (2004, Organic Law, No. 2004-192, Article 57)."
+  }
+}

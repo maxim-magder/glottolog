@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Bahinemo",
+    "hid": "bjh",
+    "level": "language",
+    "iso639-3": "bjh",
+    "latitude": "-4.55527",
+    "longitude": "142.832",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bahinemo](https://endangeredlanguages.com/lang/10620)\n[Bahinemo](https://lexibank.clld.org/languages/transnewguineaorg-bahinemo)\n[Bahinemo](https://wals.info/languoid/lect/wals_code_bhn)\nhttps://en.wikipedia.org/wiki/Bahinemo_language\nhttps://www.wikidata.org/entity/Q56361"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:d:DyeDye:Bahinemo**\n**hh:e:Bakker:Hunstein**\n**hh:e:Dye:Wagu**\n**hh:e:Kawasaki:Bahinemo**\n**hh:h:Roscoe:New-Guinea**\n**hh:he:Newton:Upper-Sepik**\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:hvw:Dyeetal:Sepik-Hill**\n**hh:ld:Dye:Wagu**\n**hh:phon:Dye:Bahinemo**\n**hh:s:DyeDye:Bahinemo**\n**hh:soc:DyeDye:Wagu**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D1**\n**hh:w:Laycock:D27**\n**hh:w:Newton:Sepik**\n**sil16:11492**\n**sil16:14468**\n**sil16:21655**\n**sil16:22124**\n**silpng:silpng1956-1990:1261**\n**silpng:silpng1956-1990:1262**\n**silpng:silpng1956-1990:1263**\n**silpng:silpng1956-1990:127**\n**silpng:silpng1956-1990:128**\n**silpng:silpng1956-1990:129**\n**silpng:silpng1956-1990:130**\n**silpng:silpng1956-1990:131**\n**silpng:silpng1956-1990:132**"
+  },
+  "altnames": {
+    "wals": "\nBahinemo",
+    "ruhlen (1987)": "\nBahinemo",
+    "moseley & asher (1994)": "\nBahinemo",
+    "multitree": "\nBabinemo\nBahenemo\nBahinemo\nGahom\nInaru\nWogu\nYigai",
+    "lexvo": "\nBahinemo [en]",
+    "elcat": "\nBahenemo\nBahinemo\nGahom\nInaru\nWogu\nYigai",
+    "hhbib_lgcode": "\nWagu\nWagu by W. Dye (Gahom)\nWagu-Yigai"
+  },
+  "triggers": {
+    "lgcode": "\nwusisufa\ndisiyam\nbahinemo\nwusu\nnoweyfa\ndemomo"
+  },
+  "identifier": {
+    "wals": "bhn",
+    "multitree": "bahi;bjh",
+    "endangeredlanguages": "10620"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bruce:Middle-Sepik**:472-519 (on lexicostatistical grounds and consistent and the merger of *ts and *t to t)",
+    "subrefs": "\n**hh:hvld:Bruce:Middle-Sepik**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bahinemo (10620-bjh) = Vulnerable (60 percent certain, based on the evidence available) (In Wagu those couples with two home languages and those with a special interest in the developed world have children who speak more Tok Pisin than the norm.) [Dye and Dye 2012](cldf:dye:dye:12)"
+  }
+}

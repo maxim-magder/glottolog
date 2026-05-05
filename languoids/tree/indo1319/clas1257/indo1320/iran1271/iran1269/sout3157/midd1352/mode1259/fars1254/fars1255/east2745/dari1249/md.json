@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Dari",
+    "hid": "prs",
+    "level": "language",
+    "iso639-3": "prs",
+    "latitude": "34.39757",
+    "longitude": "66.14961",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "IR",
+      "PK",
+      "TJ",
+      "TM"
+    ],
+    "links": "\n[Dari](https://wals.info/languoid/lect/wals_code_dri)\nhttps://en.wikipedia.org/wiki/Dari\nhttps://www.wikidata.org/entity/Q178440"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:muellerbing:80**\n**cldf:stumprashidi:95**\n**hh:d:Afghani-Nawees:Afghan**\n**hh:d:Bedford:Afghan-Dari**\n**hh:d:Kiseleva:Dari**\n**hh:d:Kiseleva:Dari:1986**\n**hh:g:Farhadi:Kaboli**\n**hh:g:Farhadi:Persan-Afghanistan**\n**hh:g:Ioannesyan:Geratskij-Dari**\n**hh:g:Phillott:Persian**\n**hh:g:Rashidi:Dari**\n**hh:hv:Usmon:Dai**\n**hh:phon:Henderson:Dari**\n**hh:s:Baker:Dari**\n**hh:s:Bogdanov:Kabuli-Persian**\n**hh:s:Dorofeeva:Farsi-Kabuli**\n**hh:s:Entezar:Dari**\n**hh:s:Hamidi:Dari**\n**hh:s:Kiseleva:Dari**\n**hh:s:Lorimer:Bakhtiari-Badakhshani-Madaglashti**\n**hh:s:Mitchell:Dari**\n**hh:s:Rishtin:Pashtu**\n**hh:soctyp:Rzehak:Kandahari-Pashtuns**\n**hh:st:Arman:Dari**\n**hh:w:Schwarts:Iranian-Secret**\n**hh:w:Troitskaya:Abdoltili**\n**iso6393:2009-008**\n**iso6393:2009-027**\n**iso6393:2009-028**\n**mpieva:130**\n**mpieva:1959Karmanny**\n**mpieva:AssadiLespheno**\n**mpieva:Ates1962Farscagr**\n**mpieva:Daumer1846Hafisein**\n**mpieva:Doerfer1965Turkisch**\n**mpieva:Doerfer1975Turkisch**\n**mpieva:Hawker1960Writtena**\n**mpieva:Junker1965Persisch**\n**mpieva:Junker1966Persisch**\n**mpieva:Karimi2005Aminimal**\n**mpieva:Lazard1995La**\n**mpieva:MonchiZadeh1969DasPersi**\n**mpieva:Nassimi2005Zweispra**\n**mpieva:Necef1963Turklere**\n**mpieva:Parsafar1996Spatialp**\n**mpieva:Rubincik1959Sloznyep**\n**mpieva:Rypka1959Iranisch**\n**mpieva:Sattler1900Deutschp**\n**mpieva:Stilo2005ModernPe**"
+  },
+  "altnames": {
+    "wals": "\nDari",
+    "wals other": "\nDari (in Afghanistan)",
+    "ruhlen (1987)": "\nDari",
+    "moseley & asher (1994)": "\nFarsi",
+    "multitree": "\nAfghan Persian\nBadakhshi\nDari\nDarwazi\nFarsi\nFarsi, Eastern\nMadaglashti\nNeupersisch\nParsi\nPersian\nTajik",
+    "lexvo": "\nAfghan Persian [en]\nDari [en]",
+    "hhbib_lgcode": "\nAbdoltili\nDari of Herat\nFarsi-Kabuli\nFourteenth-century manuscript in Tashkent on secret forms of communication comprising a vocabulary for an underworld Shi'ite argot\nGeratskij Dari\nKabuli-Persian\nKandahari Pashtuns who live in Sholgar district of Balkh province\nKâboli\nMadaglashti\nUzbek Gypsies"
+  },
+  "triggers": {
+    "lgcode": "\npersisches\ntadzicke\nfarsca\npersisch\nglottalisation\nneupersischen\nkodex\npridatocnymi\ndifferenses\nafganistana\nzugaben\nturklere\nkaboli\n7250"
+  },
+  "identifier": {
+    "wals": "dri",
+    "multitree": "prs",
+    "languagelandscape": "http://languagelandscape.org/language/Dari"
+  },
+  "classification": {
+    "sub": "**hh:h:Kieffer:Afghanistan**",
+    "subrefs": "\n**hh:h:Kieffer:Afghanistan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dari (prs-prs) = 1 (National). Statutory national language (2004, Constitution, Article 16(1))."
+  }
+}

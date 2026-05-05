@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mlahsô",
+    "hid": "lhs",
+    "level": "language",
+    "iso639-3": "lhs",
+    "latitude": "37.0311",
+    "longitude": "41.2209",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SY",
+      "TR"
+    ],
+    "links": "\n[Mlahsô](https://grambank.clld.org/languages/mlah1239)\n[Mlaḥsô](https://endangeredlanguages.com/lang/9229)\nhttps://en.wikipedia.org/wiki/Mla%E1%B8%A5s%C3%B4_language\nhttps://www.wikidata.org/entity/Q3393063",
+    "timespan": "1998-01-01/1998-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:haeberl:13**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:g:Jastrow:Mlahso**\n**hh:ld:Jastrow:Mlahso**\n**hh:s:Jastrow:Turoyo-Mlahso**"
+  },
+  "altnames": {
+    "glottolog": "\nMlahso\nMlahsö",
+    "multitree": "\nMelasó (Turquía)\nMlahso (République arabe syrienne)\nMlahso (Turquie)\nMlahsö\nMlaḥso\nSuryoyo",
+    "lexvo": "\nMlahsô language [en]\nMlahsö [en]\nMlahsö jezik [hr]\nMlahsöspråket [sv]\nМлахсо јазик [mk]\nภาษามลาโซ [th]",
+    "hhbib_lgcode": "\nMlahsö",
+    "elcat": "\nMlahso\nMlahsö\nMlaḥso\nMlaḥsô\nSuryoyo"
+  },
+  "triggers": {
+    "lgcode": "\nmlahso\nmlaho"
+  },
+  "identifier": {
+    "multitree": "lhs",
+    "endangeredlanguages": "9229"
+  },
+  "classification": {
+    "sub": "**hh:s:Jastrow:Turoyo-Mlahso** **hh:v:Kim:Turoyo**",
+    "subrefs": "\n**hh:s:Jastrow:Turoyo-Mlahso**\n**hh:v:Kim:Turoyo**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mlaḥsô (9229-lhs) = Dormant [Jastrow 2011](cldf:jastrow:11)"
+  }
+}

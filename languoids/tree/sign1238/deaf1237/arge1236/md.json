@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Argentine Sign Language",
+    "hid": "aed",
+    "level": "language",
+    "iso639-3": "aed",
+    "latitude": "-34.797",
+    "longitude": "-59.1798",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR"
+    ],
+    "links": "\n[Argentine Sign Language](https://endangeredlanguages.com/lang/7001)\nhttps://www.wikidata.org/entity/Q3322073\nhttps://en.wikipedia.org/wiki/Argentine_Sign_Language\n[Lengua de Señas Argentina](https://wals.info/languoid/lect/wals_code_lsa)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:simons;:fennig:ed:13**\n**cldf:veinberg:93**\n**cldf:veinberg:nd**\n**hh:g:Massone:Senas-Argentina**\n**hh:g:Massone:Senas-Argentina:2001**\n**hh:g:MassoneMachado:Senas-Argentina**\n**hh:ld:Cvejanov:Senas-Argentina-Lexicalizacion**\n**hh:s:Caceres:Senas-Argentina**\n**hh:s:MassoneMartinez:Argentine-Sign**\n**hh:sd:Crespo:Senas-Cordoba**\n**hh:styp:Manrique:Argentine-Sign**\n**hh:typ:Cvejanov:Senas-Argentina-Incorporacion**\n**hh:typ:Cvejanov:Senas-Argentina-Movimiento**\n**hh:typ:MassoneCuriel:Argentine-Sign**"
+  },
+  "altnames": {
+    "wals": "\nLengua de Señas Argentina",
+    "lexvo": "\nArgentine Sign Language [en]",
+    "hhbib_lgcode": "\nLSAo\nLSAp\nLanguaje de señas de Córdoba-Argentina\nOlder people's lengua de señas Argentina\nYounger people's lengua de señas Argentina",
+    "elcat": "\nArgentine Sign Language\nLSA\nLengua de Señas Argentina"
+  },
+  "identifier": {
+    "wals": "lsa",
+    "endangeredlanguages": "7001"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Argentine Sign Language (aed-aed) = 5 (Developing). Recognized language (2023, Ley 27710)."
+  },
+  "classification": {
+    "sub": "Derives from deaf schools founded around 1900 either influenced by or derived from Italian Sign Language (**hh:styp:Manrique:Argentine-Sign**:27-28, **hh:s:MassoneMartinez:Argentine-Sign**:73-75). Since there is no assertion that it does derive from an Italian Sign Language of the early 1900s it is a presumed isolate. A systematic lexical investigation remains to be done.",
+    "subrefs": "\n**hh:styp:Manrique:Argentine-Sign**\n**hh:s:MassoneMartinez:Argentine-Sign**"
+  }
+}

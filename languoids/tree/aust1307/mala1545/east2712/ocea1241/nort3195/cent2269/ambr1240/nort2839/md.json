@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "North Ambrym",
+    "hid": "mmg",
+    "level": "language",
+    "iso639-3": "mmg",
+    "latitude": "-16.1741",
+    "longitude": "168.14",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ambrym, North (Fonah)](https://lexibank.clld.org/languages/abvdoceanic-AmbrymNorthFonah)\n[North Ambrym](https://endangeredlanguages.com/lang/1128)\n[North Ambrym](https://grambank.clld.org/languages/nort2839)\nhttps://en.wikipedia.org/wiki/North_Ambrym_language\nhttps://www.wikidata.org/entity/Q2842468"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4295**\n**asjp2010:593**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:barnard:38**\n**cldf:deacon:27**\n**cldf:franjieh:09**\n**cldf:guiart:56:2**\n**cldf:lane:lane:58**\n**cldf:lewis:ed:09**\n**cldf:sprachen:nd**\n**hh:d:Franjieh:North-Ambrym**\n**hh:d:Guiart:Olal**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:styp:Franjieh:North-Ambrym**\n**mpieva:Paton1971TalesofA**"
+  },
+  "altnames": {
+    "multitree": "\nAmbrym, North\nVanuatu",
+    "lexvo": "\nNorth Ambrym [en]",
+    "hhbib_lgcode": "\nAmbrym-North\nFonah\nOlal\nRanon",
+    "elcat": "\nAmbrym\nNorth\nNorth Ambrym"
+  },
+  "triggers": {
+    "lgcode": "\ntales AND ambrym"
+  },
+  "identifier": {
+    "multitree": "mmg",
+    "endangeredlanguages": "1128"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "North Ambrym (1128-mmg) = Threatened (20 percent certain, based on the evidence available) [Lynch and Crowley 2001](cldf:lynch:crowley:01)"
+  }
+}

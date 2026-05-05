@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Panim",
+    "hid": "pnr",
+    "level": "language",
+    "iso639-3": "pnr",
+    "latitude": "-5.21388",
+    "longitude": "145.752",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Panim](https://lexibank.clld.org/languages/transnewguineaorg-panim)\n[panim](https://lexibank.clld.org/languages/zgraggenmadang-panim)\nhttps://en.wikipedia.org/wiki/Panim_language\nhttps://www.wikidata.org/entity/Q11732562"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Dempwolff:Deutsch-Neuguinea**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "altnames": {
+    "multitree": "\nPanim",
+    "lexvo": "\nPanim [en]"
+  },
+  "triggers": {
+    "lgcode": "\nmabuso"
+  },
+  "identifier": {
+    "multitree": "pnr"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Zgraggen:Madang**:42 **hh:hw:Zgraggen:Mabuso**",
+    "subrefs": "\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Panim (pnr-pnr) = 8b (Nearly extinct)."
+  }
+}

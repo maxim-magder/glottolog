@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dorze",
+    "hid": "doz",
+    "level": "language",
+    "iso639-3": "doz",
+    "latitude": "6.25237",
+    "longitude": "37.5554",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56336\nhttps://en.wikipedia.org/wiki/Dorze_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:straube:57**\n**cldf:straube:63**\n**eballiso2009:26964**\n**hh:e:Olmstead:Southern-Ethiopian**\n**hh:e:Straube:Dita**\n**hh:e:Straube:Dorse**\n**hh:hvw:Bender:Ethiopia**\n**hh:phon:Birku:Dorze**\n**hh:phon:Haile:Dorze**\n**hh:typ:Adane:Dorze**\n**hh:v:Girard:Ometo**\n**sil16:41938**\n**sil16:42894**"
+  },
+  "altnames": {
+    "multitree": "\nDorze\nDorzé\nGeresé",
+    "lexvo": "\nDorze [en]\nDorze language [en]\nDorzé [fr]",
+    "hhbib_lgcode": "\nDita"
+  },
+  "triggers": {
+    "lgcode": "\ndorze\ndita\ndorse"
+  },
+  "identifier": {
+    "multitree": "doz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dorze (doz-doz) = 6b* (Threatened)."
+  }
+}

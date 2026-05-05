@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Gros Ventre",
+    "hid": "ats",
+    "level": "language",
+    "iso639-3": "ats",
+    "latitude": "48.4834",
+    "longitude": "-108.738",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Gros Ventre](https://endangeredlanguages.com/lang/2440)\n[Gros Ventre](https://grambank.clld.org/languages/gros1243)\nhttps://en.wikipedia.org/wiki/Gros_Ventre_language\nhttps://www.wikidata.org/entity/Q56628",
+    "timespan": "1981-01-01/1981-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bamforth:88**\n**cldf:christopherrogers:campbell:10**\n**cldf:cooper:56**\n**cldf:culbertson:52**\n**cldf:ed:10**\n**cldf:ewers:55**\n**cldf:flannery:53**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:johansen:07**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:swanton:52**\n**hh:d:Taylor:Gros-Ventre**\n**hh:e:FowlerFlannery:Gros-Ventre**\n**hh:e:Kroeber:Gros-Ventre**\n**hh:g:Cowell:Gros-Ventre**\n**hh:hv:Goddard:Algonquian-Plains**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:hvw:Kroeber:Arapaho**\n**hh:phon:Salzmann:Atsina**\n**hh:typ:Cowell:Gros-Ventre**\n**hh:w:Cowell:Gros-Ventre**\n**hh:w:Taylor:Atsina**"
+  },
+  "altnames": {
+    "multitree": "\nAhahnelin\nAhe\nAnanin\nArapaho-Atsina\nAtsina\nAtsina (gros ventre)\nAáni\nFall Indians\nGros Ventre\nGros Ventres\nNorthern Arapaho\nWhite Clay People",
+    "lexvo": "\nAtsina [fr]\nGros Ventre [en]\nGros Ventre language [en]",
+    "elcat": "\nAhahnelin\nAhe\nAnanin\nArapaho-Atsina\nAtsina\nAáni\nFall Indians\nGros Ventre\nGros Ventres\nNorthern Arapaho\nWhite Clay People",
+    "hhbib_lgcode": "\nHa'aninin"
+  },
+  "triggers": {
+    "lgcode": "\natsina\ndialects AND arapaho"
+  },
+  "identifier": {
+    "multitree": "ats",
+    "endangeredlanguages": "2440"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Algonquian-Plains**:74-76",
+    "subrefs": "\n**hh:hv:Goddard:Algonquian-Plains**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gros Ventre (2440-ats) = Awakening [Johansen 2007](cldf:johansen:07)"
+  }
+}

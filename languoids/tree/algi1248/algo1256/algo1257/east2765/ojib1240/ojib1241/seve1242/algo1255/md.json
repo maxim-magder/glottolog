@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Algonquin",
+    "hid": "alq",
+    "level": "language",
+    "iso639-3": "alq",
+    "latitude": "47.3876",
+    "longitude": "-77.5258",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Algonquin](https://wals.info/languoid/lect/wals_code_alg)\nhttps://en.wikipedia.org/wiki/Algonquin_language\nhttps://www.wikidata.org/entity/Q28092"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2792**\n**cldf:cowan:ed:91:2**\n**cldf:cowan:ed:91:7**\n**cldf:daviault:93**\n**cldf:lemoine:11**\n**cldf:librik:beeler:ed:96:2**\n**cldf:nichols:ogg:ed:96:2**\n**cldf:pentland:ed:95:8**\n**cldf:pentland:ed:99:3**\n**cldf:pentland:ed:99:6**\n**cldf:pentland:ed:99:7**\n**cldf:rhodes:96**\n**cldf:wolfart:ed:03:8**\n**hh:b:Daviault:Algonquin**\n**hh:d:Cuoq:Algonquine**\n**hh:d:McGregor:Algonquin**\n**hh:d:Piggott:Ojibwa**\n**hh:e:Day:Nipissing**\n**hh:e:DayTrigger:Algonquin**\n**hh:e:Hessel:Algonkin**\n**hh:g:Brouillard:Algonquine**\n**hh:g:Cuoq:Algonquine**\n**hh:hs:Adam:Seize**\n**hh:hvphontyp:Gilstrap:Algonquin**\n**hh:hvw:Duponceau:Amerique-Nord**\n**hh:hvw:Valentine:Ojibwe**\n**hh:hw:Howse:NAmerican**\n**hh:s:Jacquemin:Algonquine**\n**hh:s:Jones:Algonquin**\n**hh:s:Nicolas:Algonquine**\n**hh:s:Schoolcraft:Algonquin**\n**hh:sv:Hanzeli:New-France**\n**hh:t:SmithJones:River-Desert**\n**sil16:15720**\n**sil16:17031**\n**sil16:17032**\n**sil16:17033**\n**sil16:17034**\n**sil16:20110**\n**sil16:21923**\n**sil16:22891**\n**sil16:23372**"
+  },
+  "altnames": {
+    "wals": "\nAlgonquin",
+    "ruhlen (1987)": "\nAlgonquin",
+    "lexvo": "\nAlgonkeg [br]\nAlgonkin [fi]\nAlgonkinska [sv]\nAlgonquin [en]\nAlgonquin language [en]\nJęzyk algonkiński [pl]\nLingua algonquina [gl]\nLíngua algonquina [pt]\nАлгонкинский язык [ru]",
+    "hhbib_lgcode": "\nAlgonquin at Lac Simon\nAlgonquin then spoken at Oka-Quebec\nAmos\nManiwaki\nNipissing\nOjibwa-Algonkin"
+  },
+  "triggers": {
+    "lgcode": "\nmozotibadjimowinan\nnitam\nalgonquine\nwidigemagobanin\nalgonkin\nwaban\nalgonquin\nlalgonquin"
+  },
+  "identifier": {
+    "wals": "alg"
+  },
+  "classification": {
+    "sub": "**hh:hv:RhodesTodd:Subarctic-Algonquian**:62",
+    "subrefs": "\n**hh:hv:RhodesTodd:Subarctic-Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Northern Algonquin (2359-alq) = Vulnerable; Maniwaki Algonquin (1319-alq) = Severely endangered"
+  }
+}

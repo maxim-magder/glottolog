@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Dhimal",
+    "hid": "dhi",
+    "level": "language",
+    "iso639-3": "dhi",
+    "latitude": "26.6283",
+    "longitude": "88.3798",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Dhimal](https://endangeredlanguages.com/lang/4076)\n[Dhimal](https://grambank.clld.org/languages/dhim1246)\n[Dhimal](https://wals.info/languoid/lect/wals_code_dhm)\nhttps://en.wikipedia.org/wiki/Dhimal_language\nhttps://phoible.org/languages/dhim1246\nhttps://www.wikidata.org/entity/Q35229"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1678**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:king:00:2**\n**cldf:king:02**\n**cldf:lahiri:16**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Dhimaletal:Dhimal**\n**hh:d:Toba:Dhimal**\n**hh:es:Hodgson:Kocch-Bodo-Dhimal**\n**hh:g:Khatiwada:Dhimal**\n**hh:g:Khatiwada:Dhimal:2016**\n**hh:g:King:Dhimal**\n**hh:g:King:Dhimal:2009**\n**hh:he:Bista:Nepal**\n**hh:he:GautamThapa:Nepal**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Hodgson:NEIndia**\n**hh:s:Cooper:Dhimal**\n**hh:s:Dhimal:Dhimal**\n**hh:s:Khatiwada:Dhimal**\n**hh:soc:Khatiwada:Dhimal**\n**hh:t:Khatiwada:Dhimal**\n**hh:typ:King:Dhimal**\n**hh:v:Sotrug:Madeska**\n**mpieva:268**\n**mpieva:King2009Agrammar**\n**sil16:41773**\n**sil16:43560**\n**sil16:49657**"
+  },
+  "altnames": {
+    "wals": "\nDhimal",
+    "wals other": "\nDELETE IF NOT USED",
+    "moseley & asher (1994)": "\nDhimal",
+    "multitree": "\nDhimal\nDhīmāl",
+    "lexvo": "\nDhimal [en]",
+    "elcat": "\nDhimal\nDhīmāl",
+    "hhbib_lgcode": "\nEastern Dhimal\nWestern Dhimal"
+  },
+  "triggers": {
+    "lgcode": "\ndhimal\nsaakshipta"
+  },
+  "identifier": {
+    "wals": "dhm",
+    "multitree": "dhim;dhi",
+    "endangeredlanguages": "4076"
+  },
+  "classification": {
+    "sub": "**hh:v:Grollmann:Lhokpu-Dhimal** and contra **hh:hv:vanDriem:Himalayas**:548-567 Dhimalish fails to show sufficient Brahmaputran diagnostic vocabulary",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:v:Grollmann:Lhokpu-Dhimal**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dhimal (4076-dhi) = Endangered (40 percent certain, based on the evidence available) (\"The traditional culture, to which the language is closely tied, is being torn apart at a rapid pace as\nDhimals find themselves thrust into a cash economy without skills or a land base. Dhimals are marrying non-Dhimals, while others are only teaching their children to speak Nepali. Some individuals and families\nare adopting the dominant hill culture to the point of complete linguistic assimilation. Things are changing at such a pace that it is difficult to imagine this language being spoken after more than a generation or two, unless a concerted effort is made in that direction.\" (pg. 16)) [King 2008](cldf:king:08)"
+  }
+}

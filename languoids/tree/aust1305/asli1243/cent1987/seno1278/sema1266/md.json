@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Semai",
+    "hid": "sea",
+    "level": "language",
+    "iso639-3": "sea",
+    "latitude": "4.13257",
+    "longitude": "101.477",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Semai](https://endangeredlanguages.com/lang/1257)\n[Semai](https://grambank.clld.org/languages/sema1266)\n[Semai](https://wals.info/languoid/lect/wals_code_smj)\n[Semai Kampar](https://lexibank.clld.org/languages/dunnaslian-Semai_Kampar)\n[Semai Ringlet](https://lexibank.clld.org/languages/dunnaslian-Semai_Ringlet)\nhttps://en.wikipedia.org/wiki/Semai_language\nhttps://www.wikidata.org/entity/Q3135426"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2521**\n**asjp2010:87**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dentan:67**\n**cldf:jenner:ed:76:3**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:MeansMeans:Semai**\n**hh:d:MeansMeans:Senoi**\n**hh:d:Wilkinson:Central-Sakai**\n**hh:e:Dentan:Semai:1968**\n**hh:e:Dentan:Senoi-Semai**\n**hh:e:Robarchek:Semai**\n**hh:he:Carey:Orang-Asli**\n**hh:hv:Dunnetal:Aslian**\n**hh:hvw:Benjamin:Prehistory**\n**hh:hvw:SkeatBlagden:Malay**\n**hh:ld:Nabitoepoeloe:Sengoi**\n**hh:lde:Wilkinson:Central-Sakai**\n**hh:phon:Philips:Semai-Betau**\n**hh:phon:Phillips:Semai**\n**hh:phonsocv:Phillips:Semai**\n**hh:s:Dentan:Semai**\n**hh:vw:Means:Three-Malayan-Aboriginal**\n**hh:w:Clifford:Sakai**\n**sil16:46415**"
+  },
+  "altnames": {
+    "wals": "\nSemai",
+    "wals other": "\nSenoi",
+    "ruhlen (1987)": "\nSemai",
+    "moseley & asher (1994)": "\nSemai",
+    "multitree": "\nCentral \"Sakai\"\nCentral Sakai\nSakai\nSemai\nSengoi\nSenoi\nZentral Sakai",
+    "lexvo": "\nBahasa Semai [ms]\nSemai [en]\nSemai language [en]",
+    "hhbib_lgcode": "\nBetau\nJelai-Sakai\nOrang Berumban Sakai\nOrang Tanjong Ulu Langat\nSa. Martin\nSak Blanj Cl\nSak Blanj Sw\nSak Br Low\nSak Chen\nSak. Blanj Cliff\nSak. Em\nSak. J. Low.\nSak. Kinta.\nSak. Lengk.\nSak. Ra\nSak. Slim.\nSak. Sung.\nSak. Tap.\nSak. U. Bert.\nSak. U. Kampar.\nSak. U. Tap.\nSakai-Darat\nSemai Betau\nSemai Kampar\nSemai Ringlet\nSen. Cl.\nSen. Cliff.\nSen. Em.\nSengoi\nSenoi\nSerau\nSerau-Sakai",
+    "elcat": "\nCentral \"Sakai\"\nCentral Sakai\nSakai\nSemai\nSengoi\nSenoi\nZentral Sakai"
+  },
+  "triggers": {
+    "lgcode": "\nsenoi\ngopeng\nsemai\nsengoi\nbetau"
+  },
+  "identifier": {
+    "wals": "smj",
+    "multitree": "sea",
+    "endangeredlanguages": "1257"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunnetal:Aslian**",
+    "subrefs": "\n**hh:hv:Dunnetal:Aslian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Semai (1257-sea) = Vulnerable (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

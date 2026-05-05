@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Chikunda",
+    "hid": "kdn",
+    "level": "language",
+    "iso639-3": "kdn",
+    "latitude": "-15.7337",
+    "longitude": "30.2804",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MZ",
+      "ZM",
+      "ZW"
+    ],
+    "links": "\n[Kunda](https://endangeredlanguages.com/lang/10944)\nhttps://en.wikipedia.org/wiki/Kunda_language\nhttps://www.wikidata.org/entity/Q4121130"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bruwer:58**\n**eballiso2009:28707**\n**eballiso2009:30511**\n**eballiso2009:33766**\n**eballiso2009:33769**\n**eballiso2009:40159**\n**eballiso2009:48214**\n**eballiso2009:4874**\n**eballiso2009:4877**\n**eballiso2009:51972**\n**hh:b:Maho:Mozambican**\n**hh:e:IsaacmanIsaacman:Chikunda**\n**hh:h:Moggridge:Nyassaland**\n**hh:h:Nicolle:Zambesi**\n**hh:h:Silva:Tete**\n**hh:h:Stigand:Nyassaland:1907**\n**hh:h:Stigand:Nyassaland:1909**\n**hh:he:Brelsford:Northern-Rhodesia**\n**hh:he:dosSantos:Tete**\n**hh:hsoc:Hachipola:Zimbabwe**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:w:Laws:Tshigunda**"
+  },
+  "altnames": {
+    "multitree": "\nChicunda\nChikunda\nCikunda\nKunda",
+    "lexvo": "\nKunda [en]",
+    "hhbib_lgcode": "\nAchikunda\nChicundas\nChicúndas\nKunda\nKunda N42\nN42_Kunda\nTshigunda resembles Sena more than Senga\nVachikunda",
+    "elcat": "\nChikunda\nCikunda\nKunda"
+  },
+  "triggers": {
+    "lgcode": "\ntribes AND nyassaland\ntraverse\ntshigunda\nchikunda"
+  },
+  "identifier": {
+    "multitree": "kdn",
+    "endangeredlanguages": "10944"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:220",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kunda (kdn-kdn) = 6b* (Threatened)."
+  }
+}

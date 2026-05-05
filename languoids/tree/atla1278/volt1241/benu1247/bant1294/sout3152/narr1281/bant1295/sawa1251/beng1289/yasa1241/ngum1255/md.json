@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ngumbi",
+    "hid": "nui",
+    "level": "language",
+    "iso639-3": "nui",
+    "latitude": "1.72096",
+    "longitude": "9.73613",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GQ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36459\nhttps://en.wikipedia.org/wiki/Kombe_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:24409**\n**eballiso2009:25818**\n**eballiso2009:28587**\n**eballiso2009:28707**\n**eballiso2009:37176**\n**hh:d:Fernandez:Kombe**\n**hh:h:deGranda:Guinea-Ecuatorial**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:phon:Ogouamba:Kombe**\n**hh:s:Ikuga:Kombe**\n**hh:s:Ikuga:Ndowe**\n**hh:s:Maguga:Kombe**\n**hh:typ:Elimelech:Kombe**"
+  },
+  "altnames": {
+    "multitree": "\nCombe\nKombe\nNgumbi",
+    "lexvo": "\nKombe language [en]\nLlengua Combe [ca]\nNgumbi [en]",
+    "hhbib_lgcode": "\nBundju et Kombe\nKombe\nNdowe\nNdowé"
+  },
+  "triggers": {
+    "lgcode": "\nNOT et AND kombe\ncombe"
+  },
+  "identifier": {
+    "multitree": "nui"
+  },
+  "classification": {
+    "sub": "**hh:hv:NursePhilippson:Bantu**:170 **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:he:Ardener:Coastal-Cameroons** Yasa-Kombe: **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:h:Guthrie:Bantu-Western**:26 **hh:soc:Belew:Iyasa**:33",
+    "subrefs": "\n**hh:hv:NursePhilippson:Bantu**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:h:Guthrie:Bantu-Western**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:soc:Belew:Iyasa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kombe (nui-nui) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sila",
+    "hid": "slt",
+    "level": "language",
+    "iso639-3": "slt",
+    "latitude": "21.6888",
+    "longitude": "102.134",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Sila](https://endangeredlanguages.com/lang/5192)\nhttps://www.wikidata.org/entity/Q7514021\nhttps://en.wikipedia.org/wiki/Sila_language_(Sino-Tibetan)"
+  },
+  "classification": {
+    "sub": "**hh:hel:Bradley:EAsia**:365",
+    "subrefs": "\n**hh:hel:Bradley:EAsia**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:edmondson:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Ma:Si-La**\n**hh:e:Tuyen:Northwest**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:hel:Bradley:EAsia**\n**hh:hew:Lefevre-Pontalis:Nord-Indo-Chine**\n**hh:hld:Badenoch:Paza**\n**hh:hld:Edmondson:Central-Southern-Loloish**\n**hh:hsoc:Shintanietal:Phongxaly**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:phon:BadenochHayashi:Sida**\n**hh:w:Kato:Khir**\n**hh:w:Kato:Tibeto-Burman-Lao**\n**hh:w:KingsadaShintani:Sida**"
+  },
+  "altnames": {
+    "multitree": "\nSida\nSila",
+    "lexvo": "\nSila [en]",
+    "hhbib_lgcode": "\nAsong\nKhir\nKhir (Kang variety mainly spoken in Kangnamlae formerly Kang and Phiangsaeng Villages)\nPaza\nPhusang\nSi La\nSida\nSida-1 Longthang\nSida-2 of Sida village\nSila (Sida/Asong/Kha Pai)\nWanyä (Muchi) of Ipoeching closest to Sila",
+    "elcat": "\nAsong\nKha Pai\nSida\nSila"
+  },
+  "identifier": {
+    "multitree": "slt",
+    "endangeredlanguages": "5192"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sila (5192-slt) = Threatened (40 percent certain, based on the evidence available) (While most members of the ethnic group can speak the language, it has low prestige and is losing domains.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

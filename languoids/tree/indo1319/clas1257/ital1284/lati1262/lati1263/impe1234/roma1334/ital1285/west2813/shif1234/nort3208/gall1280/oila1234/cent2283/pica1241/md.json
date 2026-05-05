@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Picard",
+    "hid": "pcd",
+    "level": "language",
+    "iso639-3": "pcd",
+    "latitude": "50.2831",
+    "longitude": "3.25085",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BE",
+      "FR"
+    ],
+    "links": "\n[Picard](https://endangeredlanguages.com/lang/3276)\nhttps://en.wikipedia.org/wiki/Picard_language\nhttps://www.wikidata.org/entity/Q34024"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:d:Dawson:Picard**\n**hh:d:Fernard:Francais-Nord**\n**hh:d:Smirnova:Picard**\n**hh:d:Vasseur:Picards**\n**hh:g:Bonnotte:Picard**\n**hh:g:Debrie:Picard**\n**hh:g:Vasseur:Picards**\n**hh:phon:Cardoso:Picard**\n**hh:phon:Dawson:Picard**\n**hh:s:Chaurand:Thierache-Laonnois**\n**hh:typsoc:Villeneuve:Vimeu-French**"
+  },
+  "altnames": {
+    "multitree": "\nChtimi\nPicard\nPicardo\nRouchi",
+    "lexvo": "\nIdioma picardo [an]\nJęzyk pikardyjski [pl]\nLingua picarda [gl]\nLingua piccarda [it]\nLíngua picarda [pt]\nPecârd [frp]\nPicard [ca]\nPicard language [en]\nPicardisch [li]\nPicardische Sprache [de]\nPicardish [gv]\nPicardo [es]\nPicardsch [nds]\nPicård [wa]\nPikarda franca dialekto [eo]\nPikardeg [br]\nPikardesch [ksh]\nPikardiera [eu]\nPikardies [af]\nPikardijski jezik [hr]\nPikardische Sprache [gsw]\nPikardisk [no]\nPikardiska [sv]\nПикардски език [bg]\nПикардский язык [ru]\nПікардійська мова [uk]\nピカルディ語 [ja]",
+    "elcat": "\nChtimi\nPicard\nRouchi"
+  },
+  "triggers": {
+    "lgcode": "\npicard\nvimeu"
+  },
+  "identifier": {
+    "multitree": "pcd",
+    "endangeredlanguages": "3276"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80 **hh:hv:Agard:French**",
+    "subrefs": "\n**hh:hv:Agard:Romance**\n**hh:hv:Agard:French**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Picard (3276-pcd) = Vulnerable (60 percent certain, based on the evidence available) (A few children learn the language, and\nthe future of Picard seems slightly less bleak than that of other Oi'l languages of\nFrance. It is nevertheless severely endangered.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

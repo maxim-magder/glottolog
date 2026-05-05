@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Osage",
+    "hid": "osa",
+    "level": "language",
+    "iso639-3": "osa",
+    "latitude": "36.7828",
+    "longitude": "-96.2949",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Osage](https://endangeredlanguages.com/lang/4931)\nhttps://www.wikidata.org/entity/Q2600085\nhttps://en.wikipedia.org/wiki/Osage_language\n[Osage](https://wals.info/languoid/lect/wals_code_osa)",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2298**\n**asjp2010:998**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:laflesche:32**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:nation:nd:2**\n**cldf:np:nd:263**\n**cldf:np:nd:264**\n**cldf:wolff:53**\n**haspelmath:altshuler_quantityinsensitive_2009**\n**haspelmath:conathan_osage_2007**\n**hh:d:Quintero:Osage**\n**hh:e:Bailey:Osage**\n**hh:g:Quintero:Osage**\n**hh:g:Quintero:Osage:1997**\n**hh:g:Quintero:Osage:Course**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:w:Wolff:Osage**"
+  },
+  "altnames": {
+    "wals": "\nOsage",
+    "ruhlen (1987)": "\nOsage",
+    "moseley & asher (1994)": "\nOsage",
+    "multitree": "\nKansa\nOsage\nOsague\nWazhazhe",
+    "lexvo": "\nOsage [en]\nOsage language [en]\nosage [fr]",
+    "hhbib_lgcode": "\nOsages",
+    "elcat": "\nOsage\nWazhazhe ie"
+  },
+  "triggers": {
+    "lgcode": "\nosage"
+  },
+  "identifier": {
+    "wals": "osa",
+    "multitree": "osa",
+    "endangeredlanguages": "4931"
+  },
+  "classification": {
+    "sub": "**hh:s:Rankin:Quapaw**:455",
+    "subrefs": "\n**hh:s:Rankin:Quapaw**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Osage (4931-osa) = Awakening (We will continue to make an aggressive effort to revitalize the Osage language. Because of what we have experienced so far, we know that it can be done.) [Nation n.d.](cldf:nation:nd:2)"
+  }
+}

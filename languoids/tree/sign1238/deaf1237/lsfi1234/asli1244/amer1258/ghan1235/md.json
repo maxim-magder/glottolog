@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Ghanaian Sign Language",
+    "hid": "gse",
+    "level": "language",
+    "iso639-3": "gse",
+    "latitude": "5.55225",
+    "longitude": "-0.30274",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35289\nhttps://en.wikipedia.org/wiki/Ghanaian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Deutsch:Ghanaian-Sign**\n**hh:d:GNAD:Ethiopian-Sign**\n**hh:d:Oppong:Sign**\n**hh:h:Kamei:Afurika-Shuwa:Fosuta**\n**hh:hv:Hadjah:Signed-Ghana**\n**hh:ld:Edward:Adamorobe-Ghanaian-Sign**\n**hh:ld:Fragkiadakis:American-Ghanaian-Sign**\n**hh:typ:Edward:Ghanaian-Adamorobe-Sign**\n**hh:typ:Edward:Ghanaian-Sign**\n**hh:typ:MacHadjah:Ghanaian-Sign**\n**hh:vsoc:Hadjah:Ghanaian-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nGhanaian Sign Language",
+    "lexvo": "\nGhanaian Sign Language [en]",
+    "hhbib_lgcode": "\nFormal Ghanaian Sign Language\nGhana Sign"
+  },
+  "identifier": {
+    "multitree": "gse"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ghanaian Sign Language (gse-gse) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Intelligible to ASL (**hh:h:Kamei:Afurika-Shuwa**):48 and close lexically (**hh:hv:Hadjah:Signed-Ghana**).",
+    "subrefs": "\n**hh:h:Kamei:Afurika-Shuwa**\n**hh:hv:Hadjah:Signed-Ghana**"
+  }
+}

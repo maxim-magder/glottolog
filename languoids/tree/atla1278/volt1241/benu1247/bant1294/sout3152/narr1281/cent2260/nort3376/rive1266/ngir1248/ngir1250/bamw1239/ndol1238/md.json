@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ndolo",
+    "hid": "ndl",
+    "level": "language",
+    "iso639-3": "ndl",
+    "latitude": "2.15101",
+    "longitude": "19.4087",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6983788\nhttps://en.wikipedia.org/wiki/Ndolo_dialect"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:2496**\n**eballiso2009:28707**\n**hh:h:deBoeck:Ngiri**\n**hh:hv:Donzo:Congo-Ubangi:Afrika-Focus**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:HackettvanBulck:ETeam**\n**hh:hv:deBoeck:Classification**\n**hh:hvld:FultzMorgan:Ubangi-Mongala**\n**hh:hvw:Donzo:Congo-Ubangi**\n**hh:phon:Zelenge:Mosange**\n**hh:s:Bonzoi:Bokala**\n**hh:s:Bonzoi:Bokala:1999**\n**mpieva:1989Currentp**"
+  },
+  "altnames": {
+    "multitree": "\nDollo\nMosange\nNdolo\nNdoolo\nTando",
+    "lexvo": "\nNdolo [en]",
+    "hhbib_lgcode": "\nBokala\nBokala-Ndoolo C36g\nC36g_Mosange\nMosange\nMosángé\nNdoolo\nTando"
+  },
+  "triggers": {
+    "lgcode": "\nparler AND babale\nboulder"
+  },
+  "identifier": {
+    "multitree": "ndl"
+  },
+  "classification": {
+    "sub": "**hh:hvld:FultzMorgan:Ubangi-Mongala**:5",
+    "subrefs": "\n**hh:hvld:FultzMorgan:Ubangi-Mongala**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndolo (ndl-ndl) = 6a* (Vigorous)."
+  }
+}

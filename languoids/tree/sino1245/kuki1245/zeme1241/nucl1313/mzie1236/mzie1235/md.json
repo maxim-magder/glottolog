@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mzieme Naga",
+    "hid": "nme",
+    "level": "language",
+    "iso639-3": "nme",
+    "latitude": "25.4779",
+    "longitude": "93.71",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Mzieme](https://lexibank.clld.org/languages/marrisonnaga-Mzieme)\n[Mzieme Naga](https://endangeredlanguages.com/lang/5670)\nhttps://en.wikipedia.org/wiki/Mzieme_language\nhttps://www.wikidata.org/entity/Q6949473"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:954**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**hh:hvw:Marrison:Naga**"
+  },
+  "altnames": {
+    "multitree": "\nMzieme\nNaga, Mzieme\nNaga,Mzieme\nNorthern Zeme\nZeme",
+    "lexvo": "\nMzieme Naga [en]",
+    "hhbib_lgcode": "\nMzieme\nNaga-Mzieme",
+    "elcat": "\nMzieme\nMzieme Naga\nNaga\nNorthern Zeme\nZeme"
+  },
+  "triggers": {
+    "lgcode": "\ntower AND files"
+  },
+  "identifier": {
+    "multitree": "nme",
+    "endangeredlanguages": "5670"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Marrison:Naga**:I:260",
+    "subrefs": "\n**hh:hvw:Marrison:Naga**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mzieme Naga (5670-nme) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pwo Western Karen",
+    "hid": "pwo",
+    "level": "language",
+    "iso639-3": "pwo",
+    "latitude": "17.3622",
+    "longitude": "97.7044",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7988202\nhttps://en.wikipedia.org/wiki/Western_Pwo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mcmahon:76**\n**hh:hld:Grierson:12:Burma**\n**hh:hvwld:Kato:Htoklibang**\n**hh:phon:Kato:Three-Pwo-Karen**\n**hh:phon:Phillips:West-Central-Pwo**\n**hh:s:Duffin:Pwo-Karen**\n**hh:typ:Phillips:West-Central-Pwo-Karen**"
+  },
+  "altnames": {
+    "multitree": "\nBassein Pwo Karen\nDelta Pwo Karen\nKaren\nKaren (Pwo)\nKaren, Pwo Western\nKaren,PwoWestern\nMutheit\nPhlon\nPhlong Sho\nPho\nPho of Bassein\nPwo\nPwo Eastern\nPwo Karen\nPwo Western\nShu\nWestern Pwo",
+    "lexvo": "\nPwo Western Karen [en]",
+    "hhbib_lgcode": "\nBassein\nKaren-Pwo Western\nKyonbyaw\nPwo"
+  },
+  "triggers": {
+    "lgcode": "\ncomparison AND pwo"
+  },
+  "identifier": {
+    "multitree": "pwo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Karen** **hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**\n**hh:hv:Manson:Karen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Karen, Pwo Western (pwo-pwo) = 6b (Threatened)."
+  }
+}

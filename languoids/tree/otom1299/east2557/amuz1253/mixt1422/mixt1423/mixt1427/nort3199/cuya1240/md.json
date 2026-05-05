@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Cuyamecalco Mixtec",
+    "hid": "xtu",
+    "level": "language",
+    "iso639-3": "xtu",
+    "latitude": "18.0821",
+    "longitude": "-96.7314",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northern Alta Mixtec](https://endangeredlanguages.com/lang/10533)\nhttps://www.wikidata.org/entity/Q12953726\nhttps://en.wikipedia.org/wiki/Cuyamecalco_Mixtec"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Arana:Mixteco-Trique**\n**hh:hvw:Josserand:Mixtec**\n**hh:hvw:Rendon:Papabuco**\n**hh:hvw:Rendon:Zapoteco**"
+  },
+  "altnames": {
+    "multitree": "\nCuicatlán Mixtec\nMixtec, Cuyamecalco\nMixteco de Cuyamecalco\nNorthern Misteko\nNorthern Mixteco",
+    "lexvo": "\nCuyamecalco Mixtec [en]",
+    "hhbib_lgcode": "\n13 Cuyamecalco Villa Zaragoza Mixtec Josserand 1983\n81 Santa Ana Cuauhtemoc Mixtec Josserand 1983\nCuau\nCuya\nElotepec y Recibimiento de Cuauhtémoc\nMixtec-Cuyamecalco\nMixteco-Cuyamee\nRecibimiento de Cuauhtémoc\nSanta Ana Cuauhtémoc",
+    "elcat": "\nCoatzospan Mixtec\nCuicatlán Mixtec\nCuyamecalco Mixtec\nMixteco de Cañada central\nMixteco de Coatzóspan\nMixteco de Cuyamecalco\nMixteco de San Juan Coatzospan\nNorthern Alta Mixtec\nTeotitlán Mixtec"
+  },
+  "identifier": {
+    "multitree": "xtu",
+    "endangeredlanguages": "10533"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:12-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Alta Mixtec (10533) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

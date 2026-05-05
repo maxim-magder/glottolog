@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Virgin Islands Creole English",
+    "hid": "vic",
+    "level": "language",
+    "iso639-3": "vic",
+    "latitude": "18.04715",
+    "longitude": "-63.07851",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "BQ",
+      "MF",
+      "PR",
+      "SX",
+      "VG",
+      "VI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7933935\nhttps://en.wikipedia.org/wiki/Virgin_Islands_Creole"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Hancock:Anglophone**\n**hh:phon:Plata:Crucian-Creole**\n**hh:s:Aceto:Statian-Creole**\n**hh:s:Sterns:Crucian**\n**hh:typ:Emanuel:Africanisms-Virgin-Islands-English**"
+  },
+  "triggers": {
+    "lgcode": "\nstatian\nderived\ncrucian"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Virgin Islands English Creole (vic-vic) = 6b (Threatened). De facto language of national identity."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCrucian\nSaba\nSt Eustatius"
+  }
+}

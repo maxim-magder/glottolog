@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southern Thai",
+    "hid": "sou",
+    "level": "language",
+    "iso639-3": "sou",
+    "latitude": "6.85668",
+    "longitude": "99.7031",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "MY",
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56508\nhttps://en.wikipedia.org/wiki/Southern_Thai_language\nhttps://phoible.org/languages/sout2746"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Sathaban:Song-Ha**\n**hh:dial:Udomphan:Sakom-Tak-Bai-Saongkhla**\n**hh:h:Ratanakul:Tai**\n**hh:he:Schliesinger:Tai-Thailand**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hv:PuttachartThananan:Tak-Bai**\n**hh:hvld:Egerod:Thai**\n**hh:hvw:Praphaphan:Southern-Thai**\n**hh:hw:Hudak:Tai**\n**hh:ld:Gandour:Phuket**\n**hh:phon:Chalerm:Sakom**\n**hh:phon:Jariya:Thammarat**\n**hh:phon:Kijprasert:Takbai**\n**hh:phon:Miller:Nakhon-Thammarat**\n**hh:phon:Sawai:Thep-Kasat-Tri**\n**hh:phon:Somchit:Phuket**\n**hh:phon:Thongkum:Suratthani**\n**hh:sv:Diller:Southern-Thai**\n**hh:v:Manoosawet:Southern-Thai**\n**hh:vwphon:Umar:Thai-Kedah**\n**hh:w:Srisuwitthanon:Tak-Bai**"
+  },
+  "altnames": {
+    "multitree": "\nDambro\nPak Tai\nPak Thai\nPaktay\nSouthern Thai\nThai, Southern",
+    "lexvo": "\nPaktaieg [br]\nSouthern Thai [en]\nSouthern Thai language [en]\nภาษาไทยถิ่นใต้ [th]\n南タイ語 [ja]",
+    "hhbib_lgcode": "\nJehe\nKelantan Thai\nKo Samui\nNakhon Si Thammarat\nPak Thai or Dambrö\nPhuket\nS Tai\nS Thai\nSakom\nSongkhla\nSouthern Thai Narathiwat-Yala\nSouthern Thai-Songkhla-Trang-Phattalung-Nakhonsithammerat-Phuket\nSouthern Thai-Surat Thani-Ko Samui\nSurat\nSuratthani\nTak Bai\nThai-Southern\nThep Kasat Tri"
+  },
+  "triggers": {
+    "lgcode": "\ndiglossic\nsakom\ntakbai"
+  },
+  "identifier": {
+    "multitree": "sou"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chamberlain:Tai** **hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**",
+    "subrefs": "\n**hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**\n**hh:hv:Chamberlain:Tai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Thai, Southern (sou-sou) = 5 (Developing). De facto language of provincial identity in southeasternmost 15 provinces."
+  }
+}

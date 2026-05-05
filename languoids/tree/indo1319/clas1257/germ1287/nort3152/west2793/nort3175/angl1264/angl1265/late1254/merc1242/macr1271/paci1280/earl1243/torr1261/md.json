@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Torres Strait-Lockhart River Creole",
+    "hid": "tcs",
+    "level": "language",
+    "iso639-3": "tcs",
+    "latitude": "-11.066",
+    "longitude": "142.692",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Broken](https://wals.info/languoid/lect/wals_code_bro)\n[Torres Strait Creole](https://collection.aiatsis.gov.au/austlang/language/p2)\n[Torres Strait Creole](https://endangeredlanguages.com/lang/10289)\n[Torres Strait-Lockhart River Creole](https://grambank.clld.org/languages/torr1261)\nhttps://en.wikipedia.org/wiki/Torres_Strait_Creole\nhttps://www.wikidata.org/entity/Q36648"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:marmion:obata:etal:14**\n**cldf:simons;:fennig:ed:13**\n**hh:g:Dutton:Palm-Island**\n**hh:g:Mittag:Lockhart-River-Creole**\n**hh:g:Shnukal:Broken**\n**hh:h:Kenndy:Broken**\n**hh:s:CrowleyRigsby:CapeYork**\n**hh:s:Malcolm:Australian-Creoles**\n**hh:s:Shnukal:Torres**\n**hh:soc:Shnukal:Spread-Torres-Creole**\n**hh:soc:Shnukel:Torres-Strait**\n**hh:w:Ray:Jargon**\n**iso6393:2018-058**\n**sil16:29202**"
+  },
+  "triggers": {
+    "lgcode": "\nbroken AND strait"
+  },
+  "identifier": {
+    "wals": "bro",
+    "endangeredlanguages": "10289"
+  },
+  "classification": {
+    "sub": "**hh:hv:Clark:Beach-la-mar**",
+    "subrefs": "\n**hh:hv:Clark:Beach-la-mar**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Torres Strait Creole (10289-tcs) = Vulnerable (80 percent certain, based on the evidence available) (Yumplatok speakers in all age groups use the language ‘often’.) [Marmion et al. 2014](cldf:marmion:obata:etal:14)"
+  },
+  "altnames": {
+    "elcat": "\nAp-Ne-Ap\nBlaik\nCape York Creole\nCreole\nLockhart Creole\nTorres Strait Broken\nTorres Strait Creole\nTorres Strait Pidgin\nWest Torres\nYumplatok",
+    "aiatsis": "\nTorres Strait Creole\nTorres Strait Islander language\nTorres Strait Islander people\nYumblatok\nYumplatok",
+    "glottolog": "\nTorres Strait Creole",
+    "hhbib_lgcode": "\nCreole of Torres Straits Islanders\nLockhart River Creole\nTorres Strait Creole"
+  }
+}

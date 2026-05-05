@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Al-Sayyid Bedouin Sign Language",
+    "hid": "syy",
+    "level": "language",
+    "iso639-3": "syy",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL"
+    ],
+    "longitude": "34.916111",
+    "latitude": "31.284444",
+    "links": "\n[Al-Sayyid Bedouin Sign Language](https://endangeredlanguages.com/lang/6998)\nhttps://www.wikidata.org/entity/Q2915457\nhttps://en.wikipedia.org/wiki/Al-Sayyid_Bedouin_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:simons;:fennig:ed:13**\n**hh:h:Abdel-Fattah:Sign-Western-Asia**\n**hh:hel:Rice:Endangered**\n**hh:hld:Nyst:Shared-Sign**\n**hh:hv:FityaniPadden:Sign-Arab**\n**hh:ld:Morgan:Young-Sign**\n**hh:phon:Sandler:Emergence-Phonological**\n**hh:soc:Kisch:Al-Sayyid**\n**hh:typ:Borstell:Object-Marking**\n**hh:typ:Sandler:Emergence-Grammar**\n**hh:typ:Sandler:Emergence-Sayyid**\n**hh:typ:Tkachman:Two-Sign**\n**iso6393:2008-047**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6998"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Al-Sayyid Bedouin Sign Language (6998-syy) = Endangered (20 percent certain, based on the evidence available) [Sandler et al. 2005](cldf:sandler:meir:etal:05)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAl-Sayyid\nAl-Sayyid Bedouin Sign\nAl-Sayyid Bedouin Sign Language (ABSL)\nAl-Sayyid Bedouin Sign Lg. (ABSL)",
+    "elcat": "\nABSL\nAl-Sayyid Bedouin Sign Language"
+  },
+  "classification": {
+    "sub": "**hh:typ:Sandler:Emergence-Sayyid**, **hh:ld:Morgan:Young-Sign**",
+    "subrefs": "\n**hh:typ:Sandler:Emergence-Sayyid**\n**hh:ld:Morgan:Young-Sign**"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Weenhayek",
+    "hid": "mtp",
+    "level": "language",
+    "iso639-3": "mtp",
+    "latitude": "-21.988",
+    "longitude": "-63.5971",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BO"
+    ],
+    "links": "\n[Wichí](https://endangeredlanguages.com/lang/1850)\nhttps://www.wikidata.org/entity/Q5908756\nhttps://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_Nocten\nhttps://phoible.org/languages/wich1262"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Claesson:Weenhayek**\n**hh:e:Alvarsson:Mataco**\n**hh:e:Alvarsson:Weenhayek**\n**hh:g:Terraza:Wichi**\n**hh:he:Nusser-Asport:OBolivia**\n**hh:hsoc:Terraza:Wichi**\n**hh:phon:Claesson:Noctenes**\n**hh:phon:Garay:Wichi-Paraje**\n**hh:phon:GaraySpinelli:Wichi-Rivadavia**\n**hh:s:Alvarsson:Weenhayek**\n**hh:s:Alvarsson:Wehnayek:1979**\n**hh:s:Alvarsson:Wenhayek:1984**\n**hh:w:LafoneQuevedo:Nocten**\n**hh:w:Lehmann-Nitsche:Mataco**\n**mpieva:Pelleschi1886Eightmon**"
+  },
+  "altnames": {
+    "glottolog": "\nWichi Lhamtes Nocten\nWichí Lhamtés Nocten",
+    "multitree": "\nBolivian Mataco\nMataco\nMataguayo\nMatahuayo\nMatako\nNocten\nNoctenes\nOktenai\nWeenhayek\nWennhayek\nWichí\nWichí Lhamtés Nocten",
+    "lexvo": "\nWichí Lhamtés Nocten [en]",
+    "hhbib_lgcode": "\nMataco-Nocten\nRivadavia en provincia de Salta\nRivadavia in Salta\nSoutheastern Wichi\nWeenhayek\nWichi Lhamtes Nocten\nWichí Lhamtés Nocten",
+    "elcat": "\nMataco\nMataco Güisnay\nMataco Pilcomayo\nMatako\nPilcomayo Wichí\nWichí\nWichí Lhamtés Güisnay"
+  },
+  "triggers": {
+    "lgcode": "\nnocten\nweenhayek\nnoctenes\nlhamtes\nNOT grammar AND NOT los AND mataco"
+  },
+  "identifier": {
+    "multitree": "mtp",
+    "endangeredlanguages": "1850"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013** **hh:hv:Nikulin:Mayaguayan**",
+    "subrefs": "\n**hh:hv:Nikulin:Mayaguayan**\n**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wichí (1850) = Vulnerable (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

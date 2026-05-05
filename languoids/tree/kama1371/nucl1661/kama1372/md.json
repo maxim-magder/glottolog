@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kamakan",
+    "hid": "vkm",
+    "level": "language",
+    "iso639-3": "vkm",
+    "latitude": "-15.0",
+    "longitude": "-41.0",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kamak%C3%A3_language\nhttps://www.wikidata.org/entity/Q3192316",
+    "timespan": "1938-01-01/1938-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:5932**\n**fabreall2009ann:Kamaka0**\n**fabreall2009ann:Kamaka1**\n**fabreall2009ann:Kamaka10**\n**fabreall2009ann:Kamaka12**\n**fabreall2009ann:Kamaka3**\n**fabreall2009ann:Kamaka4**\n**fabreall2009ann:Kamaka5**\n**fabreall2009ann:Kamaka7**\n**hh:e:MetrauxNimuendaju:Camacan**\n**hh:ew:Ignace:Camacans**\n**hh:ew:Metraux:Kamakan**\n**hh:ew:Oliveira:Camacans**\n**hh:h:Dantas:Nordeste**\n**hh:he:Martius:Brasiliens**\n**hh:hv:Loukotka:Kamakan**\n**hh:hv:Ribeiro:Kamaka-Puri-Krenak**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Silva:Kamaka**\n**hh:hw:Martius:Brasiliens**\n**hh:typ:Grahl:Kamaka**\n**hh:w:Guerios:Camaca**\n**ldh:item_383407**"
+  },
+  "altnames": {
+    "multitree": "\nCamacán\nEzeshio\nKamakan\nKamakán\nKamakán language area/complex",
+    "lexvo": "\nKamakan [en]",
+    "hhbib_lgcode": "\nCamacan\nCamacans\nK1 Martius- K2 Douville - K3 Sá de Oliveira - K4 Guérios\nMix of Menien of von Wied and Kamakan of Martius taken from Guimaraes with its errors"
+  },
+  "triggers": {
+    "lgcode": "\nchestmir\ncamacans\nmasacara\nmongoyo\ncamacan\nsulamericanas\ncamaca\nkamakan\nkamaka"
+  },
+  "identifier": {
+    "multitree": "vkm;vkm-kam"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Silva:Kamaka**",
+    "subrefs": "\n**hh:hvw:Silva:Kamaka**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kamakan (vkm-vkm) = 10 (Extinct)."
+  }
+}

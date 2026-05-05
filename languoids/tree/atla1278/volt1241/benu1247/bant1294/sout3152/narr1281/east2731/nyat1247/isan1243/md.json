@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Isanzu",
+    "hid": "isn",
+    "level": "language",
+    "iso639-3": "isn",
+    "latitude": "-3.99991",
+    "longitude": "34.846",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Isanzu](https://endangeredlanguages.com/lang/5068)\nhttps://www.wikidata.org/entity/Q6078891\nhttps://en.wikipedia.org/wiki/Isanzu_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:e:Sanders:Ihanzu**\n**hh:e:vonLuschan:Abflusslosen**\n**hh:ew:Obst:Issansu-Iramba**\n**hh:hvw:Masele:F**\n**hh:phon:Beletskiy:Isanzu**"
+  },
+  "altnames": {
+    "multitree": "\nIsanzu\nKinyihanzu\nKinyisanzu",
+    "lexvo": "\nIsanzu [en]",
+    "hhbib_lgcode": "\nIhanzu\nKinihaanzu\nWanissansu",
+    "elcat": "\nIsanzu\nKinyihanzu\nKinyisanzu"
+  },
+  "identifier": {
+    "multitree": "isn",
+    "endangeredlanguages": "5068"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Masele:F**",
+    "subrefs": "\n**hh:hvw:Masele:F**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Isanzu (5068-isn) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

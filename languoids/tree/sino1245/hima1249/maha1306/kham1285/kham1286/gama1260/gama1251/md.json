@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Gamale Kham",
+    "hid": "kgj",
+    "level": "language",
+    "iso639-3": "kgj",
+    "latitude": "28.411",
+    "longitude": "82.6749",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Gamale Kham](https://endangeredlanguages.com/lang/4378)\nhttps://www.wikidata.org/entity/Q22236996"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:watters:73**\n**hh:h:Watters:Kham**\n**hh:hv:Watters:Kham-Magar**\n**hh:hvtyp:Rempt:Kham**\n**hh:phon:Wilde:Gamale-Kham**\n**hh:phon:Wilde:Gamale-Sheram-Ghusbang**\n**hh:phonw:Wilde:Gamale-Kham-Lexicon**\n**hh:s:Moore:Gamale-Kham**\n**hh:soc:Sapkota:Magar-Kham**"
+  },
+  "altnames": {
+    "wals": "\nKham",
+    "moseley & asher (1994)": "\nKham",
+    "multitree": "\nGamale\nJamí\nKham\nKham, Gamale\nKham,Gamale\nKhamkura\nKhams\nProto-Kham",
+    "lexvo": "\nGamale Kham [en]",
+    "hhbib_lgcode": "\nGaam\nGamale\nGamāle Khām\nGhusbang\nKham-Gamale\nSheram",
+    "elcat": "\nGamale\nGamale Kham\nKham\nKhamkura\nKhams\nProto-Kham"
+  },
+  "triggers": {
+    "lgcode": "\ntakale\ngamale"
+  },
+  "identifier": {
+    "wals": "kmh",
+    "multitree": "kgj",
+    "endangeredlanguages": "4378"
+  },
+  "classification": {
+    "sub": "**hh:g:Watters:Kham**:11-14 **hh:soc:Sapkota:Magar-Kham**:86-87",
+    "subrefs": "\n**hh:soc:Sapkota:Magar-Kham**\n**hh:g:Watters:Kham**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gamale Kham (4378-kgj) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

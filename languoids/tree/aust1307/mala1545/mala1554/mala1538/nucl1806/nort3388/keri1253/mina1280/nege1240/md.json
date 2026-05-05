@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Negeri Sembilan Malay",
+    "hid": "zmi",
+    "level": "language",
+    "iso639-3": "zmi",
+    "latitude": "2.66503",
+    "longitude": "102.291",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Malay (Ulu Muar)](https://wals.info/languoid/lect/wals_code_mmu)\n[Negeri Sembilan Malay](https://grambank.clld.org/languages/nege1240)\nhttps://en.wikipedia.org/wiki/Negeri_Sembilan_Malay\nhttps://www.wikidata.org/entity/Q3915909"
+  },
+  "classification": {
+    "sub": "**hh:s:Hendon:Ulu-Muar**",
+    "subrefs": "\n**hh:s:Hendon:Ulu-Muar**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alaves:ed:95:5**\n**cldf:gulick:58**\n**cldf:lewis:62:2**\n**cldf:parmer:59**\n**cldf:swift:65**\n**cldf:wilkinson:11**\n**hh:s:Hendon:Ulu-Muar**\n**hh:s:Hendon:Ulu-Muar:1960**"
+  },
+  "altnames": {
+    "wals": "\nMalay (Ulu Muar)",
+    "wals other": "\nOrang Negeri\nUlu Muar Malay",
+    "ruhlen (1987)": "\nMinangkabau",
+    "moseley & asher (1994)": "\nMinangkabau",
+    "multitree": "\nMalay (Ulu Muar)\nMalaysian Minangkabau\nNegeri Sembilan Malay\nOrang Negeri\nUlu Muar Malay",
+    "lexvo": "\nLenga Negeri Sembilan Malay [pms]\nNegeri Sembilan Malay [en]\nNegeri Sembilan Malay language [en]",
+    "hhbib_lgcode": "\nMelayu Bengkulu"
+  },
+  "triggers": {
+    "lgcode": "\nmuar\npilah\nsembilan\nkuala"
+  },
+  "identifier": {
+    "wals": "mmu",
+    "multitree": "zmi"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Negeri Sembilan Malay (zmi-zmi) = 6b* (Threatened)."
+  }
+}

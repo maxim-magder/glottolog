@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Cherepon",
+    "hid": "cpn",
+    "level": "language",
+    "iso639-3": "cpn",
+    "latitude": "6.05387",
+    "longitude": "-0.10955",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35181\nhttps://en.wikipedia.org/wiki/Cherepon_language\nhttps://phoible.org/languages/cher1271"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Painter:Guang**\n**hh:ld:Rapp:Guang-Dialekte**\n**hh:t:Rapp:Kyerepong**\n**hh:typ:Oppong:Okere**"
+  },
+  "altnames": {
+    "multitree": "\nCherepon\nChiripon\nChiripong\nGuang\nKyerepong\nOkere",
+    "lexvo": "\nCherepon [en]",
+    "hhbib_lgcode": "\nCherepong\nKyerepong\nOkere"
+  },
+  "triggers": {
+    "lgcode": "\nkyerepong\napirede"
+  },
+  "identifier": {
+    "multitree": "cpn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Snider:Proto-Guang:Consonants**",
+    "subrefs": "\n**hh:hv:Snider:Proto-Guang:Consonants**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cherepon (cpn-cpn) = 6a* (Vigorous)."
+  }
+}

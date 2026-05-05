@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Majera",
+    "hid": "xmj",
+    "level": "language",
+    "iso639-3": "xmj",
+    "latitude": "11.1433",
+    "longitude": "15.044",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Midah](https://endangeredlanguages.com/lang/2305)\nhttps://www.wikidata.org/entity/Q6737666\nhttps://en.wikipedia.org/wiki/Majera_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Lebeuf:Tchad**\n**hh:hv:Barreteau:NCameroun**\n**hh:hv:Tourneux:Kotoko:Consonantique**\n**hh:hv:Tourneux:Kotoko:Vocalique**\n**hh:hvld:Barreteau:Tchadique-Cameroun**"
+  },
+  "altnames": {
+    "multitree": "\nDa'a\nDaa\nMajera\nMayera\nMazera\nMida'a\nMidah",
+    "lexvo": "\nMajera [en]",
+    "hhbib_lgcode": "\nDah subsumes Majera",
+    "elcat": "\nDa'a\nDaa\nMajera\nMazera\nMida'a\nMidah"
+  },
+  "identifier": {
+    "multitree": "xmj",
+    "endangeredlanguages": "2305"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:61",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Midah (2305-xmj) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Daonda",
+    "hid": "dnd",
+    "level": "language",
+    "iso639-3": "dnd",
+    "latitude": "-3.31443",
+    "longitude": "141.22",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Daonda](https://endangeredlanguages.com/lang/4095)\nhttps://www.wikidata.org/entity/Q5221528\nhttps://en.wikipedia.org/wiki/Daonda_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:BassLoving:Amanab**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Steer:Upper-Sepik**\n**hh:hvw:Seiler:Imonda-Related**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:w:Laycock:D1**\n**hh:w:Laycock:D12**"
+  },
+  "altnames": {
+    "lexvo": "\nDaonda [en]",
+    "elcat": "\nDaonda",
+    "hhbib_lgcode": "\nDawnda (Daonda) by Bass/Loving"
+  },
+  "triggers": {
+    "lgcode": "\ndaonda"
+  },
+  "classification": {
+    "sub": "**hh:hv:BassLoving:Amanab**:4",
+    "subrefs": "\n**hh:hv:BassLoving:Amanab**"
+  },
+  "identifier": {
+    "endangeredlanguages": "4095"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Daonda (4095-dnd) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

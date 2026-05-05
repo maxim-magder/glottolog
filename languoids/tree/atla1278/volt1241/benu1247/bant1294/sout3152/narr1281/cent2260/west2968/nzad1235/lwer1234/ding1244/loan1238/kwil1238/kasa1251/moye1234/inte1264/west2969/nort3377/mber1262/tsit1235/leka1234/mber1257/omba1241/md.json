@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Ombamba-Congo",
+    "hid": "mbm",
+    "level": "dialect",
+    "iso639-3": "mbm",
+    "latitude": "-2.75341",
+    "longitude": "13.617",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\n[Ombamba-Congo](https://grambank.clld.org/languages/omba1241)\nhttps://en.wikipedia.org/wiki/Mbama_language\nhttps://www.wikidata.org/entity/Q36407"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:26160**\n**eballiso2009:28707**\n**eballiso2009:31133**"
+  },
+  "altnames": {
+    "multitree": "\nBakota\nBambaama\nGimbaama\nLembaamba\nMbaama\nMbama\nMbamba\nObamba\nOmbamba",
+    "lexvo": "\nOmbamba [en]",
+    "hhbib_lgcode": "\nB601_Lempini\nB62_Mbaama\nLempiini\nLim-Bamba or M-Bamba\nMBL Mbamba Liweme\nMBS Mbamba Sibiti\nMbaama\nMbamba 1 Gabon B62\nMbamba 2 d. mpini B62\nMbamba 3 Gabon B62\nMbamba likely\nNDB Ndouba\nOBL Obeli\nOYB Oyabi\nObamba (Lembaama)\nOmbamba",
+    "glottolog": "\nOmbamba"
+  },
+  "triggers": {
+    "lgcode": "\nlempiini\nlembaama\niaka\nobamba"
+  },
+  "identifier": {
+    "multitree": "mbm"
+  },
+  "classification": {
+    "sub": "**hh:hvwsoc:Lane:Mbete**",
+    "subrefs": "\n**hh:hvwsoc:Lane:Mbete**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ombamba (mbm-mbm) = 6a* (Vigorous)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 lists two separate languages Mbere\n[mdt] and Ombamba [mbm] of Gabon (also extending over into Congo-Brazzaville). The detailed study by **hh:hvwsoc:Lane:Mbete**\nshows that the two designations Mbere (with variants) and Ombamba\n(with variants) overlap and that local varieties spanning both are lexicostatistically similar enough to be the same language (cf. similar remarks in\n**hh:hvw:Adam:Teke**:44-47). This holds also for recorded varieties in Congo-Brazzaville\n(**hh:hv:BoukaNdamba:Congo-Brazzaville**:42-45, 49, **hh:hv:Pacchiarotti:West-Coastal-Bantu**:163,\n184). Indeed, a linguist native speaker of the variety around Okondja understands data from either name to refer to his own language\n**hh:s:Okoudowa:Lembaama:2010**:1-3. See also: Mbere-Mbamba [mdt].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "mbm"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lipo",
+    "hid": "lpo",
+    "level": "language",
+    "iso639-3": "lpo",
+    "latitude": "25.226",
+    "longitude": "101.302",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Lipo](https://grambank.clld.org/languages/lipo1242)\n[Lipo](https://lexibank.clld.org/languages/yangyi-Lipo)\nhttps://en.wikipedia.org/wiki/Lipo_language\nhttps://www.wikidata.org/entity/Q56921"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:ShearerHongkai:China**\n**hh:hphon:Wang:Yi**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:hvw:Chenetal:Yi**\n**hh:hvw:Lama:Nisoic**\n**hh:hvw:Zhu:Yi**\n**hh:hwsoc:Gao:Yunnan**\n**hh:s:Yu:Lisu**\n**hh:s:Yuzhang:Lipo**\n**hh:typ:Gerner:Yi**\n**hh:vld:Bradley:Lisu-Birth-Order**\n**hh:w:Lietard:Lo-Lo**\n**hh:w:YNYF:Yunnan-Yi**\n**hh:w:Zhang:Yunnan-Yi**\n**iso6393:2007-073**"
+  },
+  "altnames": {
+    "multitree": "\nBlack Lisu\nDayao\nDayao Lipo\nEastern Lisu\nHe Lisu\nLipho\nLipo\nLisu\nLolo\nTaku\nTaku Lisu\nYi",
+    "lexvo": "\nLipo [en]",
+    "hhbib_lgcode": "\nDayao\nDayao Yi\nLipho 566\nLisu-Luchuan\nLuquan Lipo\nYongren (Lolopo)\nYongren Lolo\nYongren Lolopo\nYongren Yi"
+  },
+  "triggers": {
+    "lgcode": "\nyi AND continuum"
+  },
+  "identifier": {
+    "multitree": "lpo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**:153-156 **hh:hv:Bradley:Tibeto-Burman**:101-102",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**\n**hh:hv:Bradley:Tibeto-Burman**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lipo (lpo-lpo) = 6a (Vigorous). Language of recognized nationality: Yi. Only those in Dayao and Yongren counties of Western Chuxing Prefecture. Language of recognized nationality: Lisu."
+  }
+}

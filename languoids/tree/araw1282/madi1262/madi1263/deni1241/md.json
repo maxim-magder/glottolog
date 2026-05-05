@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Deni",
+    "hid": "dny",
+    "level": "language",
+    "iso639-3": "dny",
+    "latitude": "-6.74962",
+    "longitude": "-67.5029",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Dení](https://endangeredlanguages.com/lang/2558)\nhttps://www.wikidata.org/entity/Q56562\nhttps://en.wikipedia.org/wiki/Deni_language\nhttps://phoible.org/languages/deni1241\n[Dení](https://wals.info/languoid/lect/wals_code_den)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:macieldecaravalho:13**\n**cldf:np:nd:264**\n**fabreall2009ann:Arawa_deni0**\n**fabreall2009ann:Arawa_deni1**\n**fabreall2009ann:Arawa_deni2**\n**fabreall2009ann:Arawa_deni3**\n**fabreall2009ann:Arawa_deni4**\n**fabreall2009ann:Arawa_deni6**\n**fabreall2009ann:Arawa_deni7**\n**hh:e:KoopLingenfelter:Deni**\n**hh:g:deCarvalho:Deni**\n**hh:phon:deCarvalho:Deni**\n**hh:phon:deCarvalho:Deni:book**\n**hh:s:MoranMoran:Deni**\n**hh:sd:KoopKoop:Deni**\n**hh:v:Dienst:Madiha**\n**mpieva:Koop1976200814Denipers**\n**mpieva:Koop1977200832Processe**\n**mpieva:Koop1980200847Deniverb**\n**mpieva:Koop1980TheDenio**\n**mpieva:Koop1988OsAfixos**\n**sil16:15586**\n**sil16:18748**\n**sil16:21464**\n**sil16:21465**\n**sil16:22074**"
+  },
+  "altnames": {
+    "glottolog": "\nDeni",
+    "wals": "\nDení",
+    "wals other": "\nDeni",
+    "ruhlen (1987)": "\nDení",
+    "moseley & asher (1994)": "\nDeni",
+    "multitree": "\nDani\nDen\nDeni\nDení",
+    "lexvo": "\nDení [en]",
+    "hhbib_lgcode": "\nDení\nJamamadi Ocidental\nJamamadi de Capana",
+    "elcat": "\nDani\nDen\nDeni\nDení"
+  },
+  "triggers": {
+    "lgcode": "\nNOT affixes AND NOT structure AND NOT verb AND deni"
+  },
+  "identifier": {
+    "wals": "den",
+    "multitree": "dny",
+    "endangeredlanguages": "2558"
+  },
+  "classification": {
+    "sub": "**hh:v:Dienst:Madiha**",
+    "subrefs": "\n**hh:v:Dienst:Madiha**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Dení (2558-dny) = Threatened (20 percent certain, based on the evidence available) [Maciel de Caravalho 2013](cldf:macieldecaravalho:13)"
+  }
+}

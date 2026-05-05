@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Titan",
+    "hid": "ttv",
+    "level": "language",
+    "iso639-3": "ttv",
+    "latitude": "-2.18168",
+    "longitude": "146.888",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sivisa Titan](https://lexibank.clld.org/languages/abvdoceanic-SivisaTitan)\n[Titan](https://grambank.clld.org/languages/tita1241)\nhttps://en.wikipedia.org/wiki/Titan_language\nhttps://www.wikidata.org/entity/Q3445811"
+  },
+  "sources": {
+    "glottolog": "\n**bowern:smyzgr75**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:calculator:14**\n**cldf:carrier:91**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:fortune:32:2**\n**cldf:fortune:35**\n**cldf:gibbs:04**\n**cldf:gustafsson:92**\n**cldf:keesing:84:2**\n**cldf:mead:30:1**\n**cldf:mead:30:2**\n**cldf:mead:30:3**\n**cldf:mead:32:1**\n**cldf:mead:34**\n**cldf:mead:37:2**\n**cldf:mead:56**\n**cldf:mead:69**\n**cldf:np:13:7**\n**cldf:np:14:5**\n**cldf:otto:98**\n**cldf:parkinson:10**\n**cldf:schwartz:93**\n**cldf:wanek:96**\n**hh:e:Gustafsson:Manus**\n**hh:hew:Thilenius:Melanesien**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hvwld:Schnee:Bismarck**\n**hh:hw:Zgraggen:Admiralty**\n**hh:s:Meier:Moanus**\n**hh:st:Bowern:Titan**\n**hh:w:Friederici:Nakanai**\n**silpng:silpng2001-2003:303**"
+  },
+  "altnames": {
+    "multitree": "\nAdmiralitäts-inseln\nM'bunai\nManus\nMoanus\nTitan\nTito",
+    "lexvo": "\nTitan [en]",
+    "hhbib_lgcode": "\nAdmiralty something\nElisabeth-Inseln\nElisabethsinseln\nInsel Mouk (Moanus)\nManus\nMbunai\nMoánus\nTaui"
+  },
+  "triggers": {
+    "lgcode": "\nmeier\nsurvey AND manus\nberichtigungen\ntitan\nsivisa\nschnees\nminis\nmoanus"
+  },
+  "identifier": {
+    "multitree": "ttv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:315-345",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Titan (ttv-ttv) = 6a (Vigorous)."
+  }
+}

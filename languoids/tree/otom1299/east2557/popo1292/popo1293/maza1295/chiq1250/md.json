@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Chiquihuitlán Mazatec",
+    "hid": "maq",
+    "level": "language",
+    "iso639-3": "maq",
+    "latitude": "18.0541",
+    "longitude": "-96.6659",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chiquihuitlán Mazatec](https://endangeredlanguages.com/lang/4625)\n[Mazatec (Chiquihuitlán)](https://wals.info/languoid/lect/wals_code_mzc)\nhttps://en.wikipedia.org/wiki/Chiquihuitl%C3%A1n_Mazatec\nhttps://phoible.org/languages/chiq1250\nhttps://www.wikidata.org/entity/Q5101757"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2819**\n**cldf:capen:96**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:jamieson:76:1**\n**cldf:jamieson:76:2**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Capen:Mazateco-Chiquihuitlan**\n**hh:g:Jamieson:Mazateca**\n**hh:hv:Gudschinsky:Mazatec**\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hvwphon:Kirk:Mazatec**\n**hh:s:JamiesonTejeda:Mazateco**\n**hh:typ:Jamieson:Chiquihuitlan-Mazatec**\n**hh:typ:Jamieson:Chiquihuitlan-Mazatec-Tone**\n**hh:typ:Jamieson:Chiquihuitlan-Mazatec-Verbs**\n**hh:typ:Jamieson:Chiquihuitlan-Mazatec:Phrases**\n**ldh:item_400217**\n**mpieva:Capen1996Dicciona**\n**mpieva:Merrifield1977Studiesi**\n**sil16:15239**\n**sil16:16045**\n**sil16:16047**\n**sil16:36582**\n**sil16:36795**"
+  },
+  "altnames": {
+    "glottolog": "\nChiquihuitlan Mazatec",
+    "wals": "\nMazatec (Chiquihuitlán)",
+    "wals other": "\nMazatec (Chiquihuitlan)",
+    "ruhlen (1987)": "\nMasateko",
+    "moseley & asher (1994)": "\nMazatec",
+    "multitree": "\nChiquihuitlán Masateko\nMasateko\nMazatec\nMazatec (Chiquihuitlán)\nMazatec, Chiquihuitlán\nMazateco\nMazateco de San Juan Chiquihuillán\nMazateco de San Juan Chiquihuitlán\nMazatèque de Chiquihuitlán",
+    "lexvo": "\nChiquihuitlán Mazatec [en]",
+    "hhbib_lgcode": "\nCQ\nChiquihuitlán\nSan Juan Chiquihuitlán",
+    "elcat": "\nChiquihuitlán\nChiquihuitlán Mazatec\nMasateko\nMazatec\nMazatec (Chiquihuitlán)\nMazateco\nMazateco de San Juan Chiquihuitlán"
+  },
+  "triggers": {
+    "lgcode": "\nchiquihuitlan"
+  },
+  "identifier": {
+    "wals": "mzc",
+    "multitree": "maq",
+    "endangeredlanguages": "4625"
+  },
+  "classification": {
+    "sub": "**hh:hv:Leonard:Mazatec-Patterns**:246-247 **hh:hv:Leonard:Mazateco**:20-21",
+    "subrefs": "\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hv:Leonard:Mazateco**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chiquihuitlán Mazatec (4625-maq) = Threatened (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

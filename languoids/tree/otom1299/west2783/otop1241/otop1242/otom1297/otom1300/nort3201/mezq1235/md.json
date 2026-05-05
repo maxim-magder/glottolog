@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Mezquital Otomi",
+    "hid": "ote",
+    "level": "language",
+    "iso639-3": "ote",
+    "latitude": "20.2274",
+    "longitude": "-99.5564",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Mezquital Otomi](https://grambank.clld.org/languages/mezq1235)\n[Mezquital Otomí](https://endangeredlanguages.com/lang/4934)\n[Otomi](https://lexibank.clld.org/languages/wold-Otomi)\n[Otomí (Mezquital)](https://wals.info/languoid/lect/wals_code_otm)\nhttps://en.wikipedia.org/wiki/Mezquital_Otomi_language\nhttps://phoible.org/languages/mezq1235\nhttps://www.wikidata.org/entity/Q23755711"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hekking:dejesus:84**\n**cldf:hensey:72**\n**cldf:hernandez-green:20**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:priegomontfortdemostaghimi:89**\n**cldf:sinclair:pike:48**\n**cldf:soustelle:37**\n**cldf:voigtlander:echegoyen:79**\n**cldf:wallis:56**\n**cldf:wallis:64**\n**hh:d:Andrews:Otomi-Tasquillo**\n**hh:d:Bernard:Otomi**\n**hh:d:Hernandez:Otomi-Mezquital**\n**hh:d:LanierWallis:Otomi**\n**hh:e:Guerrero:Otomi-Mezquital**\n**hh:g:Hess:Mezquital**\n**hh:g:Priego:Otomi**\n**hh:hbw:Lastra:Otomi**\n**hh:hevw:Lastra:Otomies**\n**hh:phon:Leon:Otomi**\n**hh:s:Arroyo:Otomi**\n**hh:s:Boot:Othomi**\n**hh:s:Ecker:Otomi**\n**hh:s:Escandon:Otomi**\n**hh:s:NeveyMolina:Othomi**\n**hh:s:Vollmann:Otomi**\n**hh:s:Zimmermann:Otomi**\n**hh:sd:Buelna:Otomi**\n**hh:sd:Ecker:Otomi-Colonial**\n**hh:td:Lopez:Otomi**\n**hh:typ:Wallis:Mezquital-Otomi**\n**hh:vtyp:Naxera:Othomitorum**\n**ldh:item_405389**\n**sil16:10192**\n**sil16:10458**\n**sil16:11103**\n**sil16:11353**\n**sil16:11714**\n**sil16:12328**\n**sil16:12589**\n**sil16:12590**\n**sil16:12592**\n**sil16:12593**\n**sil16:12594**\n**sil16:12596**\n**sil16:15334**\n**sil16:35761**\n**sil16:44916**\n**sil16:45862**\n**sil16:48770**\n**sil16:48771**\n**sil16:48774**\n**sil16:48775**\n**sil16:48776**\n**sil16:48778**"
+  },
+  "altnames": {
+    "wals": "\nOtomí (Mezquital)",
+    "wals other": "\nMezquital\nMezquital Otomi\nOtomi",
+    "ruhlen (1987)": "\nOtomí",
+    "moseley & asher (1994)": "\nOtomi",
+    "multitree": "\nHñahñu\nHñohño\nNortheastern Otomí\nNorthwest\nNorthwestern Otomi\nOthomí\nOtomi\nOtomi (Mezquital)\nOtomi, Ixtenco\nOtomi, Mezquital\nOtomi, Querétaro\nOtomi, Texcatepec\nOtomí\nOtomí (Mezquital)\nOtomí d'Ixtenco\nOtomí de Ixtenco\nOtomí de Mezquital\nOtomí de Querétaro\nOtomí de Texcatepec\nOtomí de la Sierra\nOtomí del Valle del Mezquital\nOtomí del valle de Mezquital\nOtomí nord-occidental\nOtomí noroccidental\nSoutheastern Otomí\nWestern Otomi",
+    "lexvo": "\nMezquital Otomi [en]",
+    "hhbib_lgcode": "\nGundhó in Hidalgo\nItzmiquilpan\nMezquital\nOtomi-Mezquital\nOtomí from Neve y Molina",
+    "elcat": "\nHñahñu\nMezquital\nMezquital Otomí\nOthomí\nOtomi\nOtomi (Mezquital)\nOtomí (Mezquital)\nOtomí del Valle del Mezquital"
+  },
+  "triggers": {
+    "lgcode": "\nmezquital\nmolina\nhijitos"
+  },
+  "identifier": {
+    "wals": "otm",
+    "multitree": "otq;otz;otx;ote",
+    "endangeredlanguages": "4934"
+  },
+  "classification": {
+    "sub": "**hh:hevw:Lastra:Otomies**",
+    "subrefs": "\n**hh:hevw:Lastra:Otomies**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mezquital Otomí (4934-ote) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

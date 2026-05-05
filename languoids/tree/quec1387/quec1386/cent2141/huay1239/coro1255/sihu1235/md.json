@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sihuas Ancash Quechua",
+    "hid": "qws",
+    "level": "language",
+    "iso639-3": "qws",
+    "latitude": "-8.49346",
+    "longitude": "-77.5319",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q42308366"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Cerron-Palomino:Quechua**\n**hh:hv:Grimes:Quechua**\n**hh:hv:Torero:Andina:1972**\n**hh:s:Quesada:Quechua-Sihuas**\n**hh:typ:Hintz:Sihuas-Quechua**\n**sil16:50734**"
+  },
+  "altnames": {
+    "multitree": "\nAncas\nAncash\nChinchaysuyo\nConchucos\nNorth Central Kechua\nNorthern Quechua\nQuechua, Sihuas  Ancash\nSihuas Ancash Quechua",
+    "lexvo": "\nSihuas Ancash Quechua [en]",
+    "hhbib_lgcode": "\nSih Sihuas QI\nSihuas\nSihuas Quechua"
+  },
+  "triggers": {
+    "lgcode": "\nancashino\nvigente"
+  },
+  "identifier": {
+    "multitree": "qws",
+    "endangeredlanguages": "8113"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grimes:Quechua**:274-279",
+    "subrefs": "\n**hh:hv:Grimes:Quechua**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Conchucos Quechua (8113-qws) = Vulnerable (60 percent certain, based on the evidence available) (Vigorous, but not in all communities) ['bib71']"
+  }
+}

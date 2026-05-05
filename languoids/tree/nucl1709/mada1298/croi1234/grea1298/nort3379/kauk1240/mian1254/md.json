@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Miani",
+    "hid": "pla",
+    "level": "language",
+    "iso639-3": "pla",
+    "latitude": "-4.42116",
+    "longitude": "145.276",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Miani](https://lexibank.clld.org/languages/transnewguineaorg-miani)\n[miani](https://lexibank.clld.org/languages/zgraggenmadang-miani)\nhttps://www.wikidata.org/entity/Q12952844"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3717**\n**hh:ew:Tranel:Moando**\n**hh:hb:Zgraggen:Madang**\n**hh:hew:Sullivan:Bogia**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Capell:Bogia**\n**hh:hw:Zgraggen:NAdelbert**\n**hh:phon:MayLoeweke:Kaukambaran**\n**hh:s:LoewekeMay:Kaukombaran**\n**silpng:silpng1956-1990:1565**\n**silpng:silpng1956-1990:1566**\n**silpng:silpng1956-1990:1567**\n**silpng:silpng1956-1990:1568**"
+  },
+  "altnames": {
+    "multitree": "\nBonaputa-Mapu\nBonaputa-Mopu\nMiani\nMiani North\nTani",
+    "lexvo": "\nMiani [en]",
+    "hhbib_lgcode": "\nBanar\nBanara\nTani"
+  },
+  "triggers": {
+    "lgcode": "\nsprachgebiet AND adelbert"
+  },
+  "identifier": {
+    "multitree": "pla"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Pick:Northern-Adelbert**:188-194 **hh:hw:Zgraggen:NAdelbert**",
+    "subrefs": "\n**hh:hw:Zgraggen:NAdelbert**\n**hh:hvld:Pick:Northern-Adelbert**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miani (pla-pla) = 6b (Threatened)."
+  }
+}

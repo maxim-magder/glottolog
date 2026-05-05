@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bhili",
+    "hid": "bhb",
+    "level": "language",
+    "iso639-3": "bhb",
+    "latitude": "20.85",
+    "longitude": "73.9592",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33229\nhttps://en.wikipedia.org/wiki/Bhili_language\nhttps://phoible.org/languages/bhil1251\n[Bhili](https://wals.info/languoid/lect/wals_code_bhi)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bose:ray:53**\n**cldf:naik:56**\n**hh:e:Konrad:Bhagoria-Bhils**\n**hh:e:Konrad:Bhagoria-Bhils:Zwischen**\n**hh:e:Konrad:Bhils**\n**hh:e:Koppers:Bhil**\n**hh:hew:Rigby:Sathpoora**\n**hh:hvwsoc:Varkey:Bareli**\n**hh:hvwt:Grierson:9:III**\n**hh:ld:Varma:Bhil**\n**hh:s:Ahirwal:Varli**\n**hh:s:Yogendra:Bhili**\n**hh:sd:Thompson:Bhili**\n**hh:soc:Ishtiaq:Bhils**\n**hh:vsoc:Cain:Garasia**\n**hh:w:Ahirwal:Dadri-Nagar**\n**hh:w:Tagare:Bhili-Baglan**"
+  },
+  "altnames": {
+    "wals": "\nBhili",
+    "ruhlen (1987)": "\nBhili",
+    "moseley & asher (1994)": "\nBhili",
+    "multitree": "\nBhagoria\nBhil\nBhilbari\nBhilboli\nBhili\nBhilla\nBhilodi\nLengotia\nVil",
+    "lexvo": "\nBhili [en]\nBhili language [en]\nBileg [br]\nIdioma bhili [es]\nJęzyk bhili [pl]\nLenga bhili [pms]\nLingua Bhili [la]\nБхили [ru]\nभील भाषा [hi]\nভিলি ভাষা [bn]\nภาษาภิล [th]\nビリー語 [ja]",
+    "hhbib_lgcode": "\nAhiri of Cutch\nBK Bhil in Kharod-Dahod-Panch Mahals-Gujarat\nBhagoria\nBhil of Manikantha\nBhil of Ramphapur Jhabua state\nBhili of Jhabua\nBhili of Mahikantha\nBhili of West Baglan\nBhili-Anjhera\nBhili-Kharod\nBhili-Piplia\nBhili-Punyawat\nCentral Bhili Sukhsar\nCharani\nDavar Varli\nHabura\nNaikdi\nPB Pateliya Bhil in Sakarda-Dahod-Panch Mahals-Gujarat\nPanchali\nRanawat\nRani Bhil\nVarli (lexicon seems to match Davar Varli)\nWarli\nWurralee in the Akrani mts\ndoes not look Marathic"
+  },
+  "triggers": {
+    "lgcode": "\nlabhani\ndangs\nbhagoria\njhabua"
+  },
+  "identifier": {
+    "wals": "bhi",
+    "multitree": "bhb"
+  },
+  "classification": {
+    "sub": "**hh:hvwt:Grierson:9:III**",
+    "subrefs": "\n**hh:hvwt:Grierson:9:III**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bhili (bhb-bhb) = 5* (Developing)."
+  }
+}

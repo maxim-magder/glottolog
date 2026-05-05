@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Paumari",
+    "hid": "pad",
+    "level": "language",
+    "iso639-3": "pad",
+    "latitude": "-5.78403",
+    "longitude": "-64.2803",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Paumarí](https://endangeredlanguages.com/lang/2926)\n[Paumarí](https://wals.info/languoid/lect/wals_code_pau)\nhttps://en.wikipedia.org/wiki/Paumar%C3%AD_language\nhttps://phoible.org/languages/paum1247\nhttps://www.wikidata.org/entity/Q389827"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikhenvald:10:1**\n**cldf:chapman:81**\n**cldf:chapman:salzer:98**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Arawa_paumari02**\n**fabreall2009ann:Arawa_paumari03**\n**fabreall2009ann:Arawa_paumari04**\n**fabreall2009ann:Arawa_paumari05**\n**fabreall2009ann:Arawa_paumari07**\n**fabreall2009ann:Arawa_paumari08**\n**fabreall2009ann:Arawa_paumari10**\n**fabreall2009ann:Arawa_paumari11**\n**fabreall2009ann:Arawa_paumari12**\n**fabreall2009ann:Arawa_paumari13**\n**fabreall2009ann:Arawa_paumari14**\n**fabreall2009ann:Arawa_paumari16**\n**fabreall2009ann:Arawa_paumari17**\n**fabreall2009ann:Arawa_paumari18**\n**fabreall2009ann:Arawa_paumari19**\n**fabreall2009ann:Arawa_paumari20**\n**fabreall2009ann:Arawa_paumari21**\n**hh:e:Bonilla:Paumari**\n**hh:ew:Steere:Purus**\n**hh:g:ChapmanDerbyshire:Paumari**\n**hh:h:Nowotny:Brasilianischer**\n**hh:sd:ChapmanSalzer:Paumari**\n**hh:typ:Aikhenvald:Paumari**\n**hh:typ:Aikhenvald:Paumari:Gender**\n**hh:typ:deOliveiras:Paumari**\n**hh:w:Chandless:Purus**\n**hh:w:Ehrenreich:Purus**\n**ldh:item_400776**\n**ldh:item_402097**\n**ldh:item_407481**\n**ldh:item_407484**\n**mpieva:Chapman1978Paumarid**\n**mpieva:Chapman1979Prominen**\n**mpieva:Chapman1988Interrog**\n**mpieva:Odmark1977DoisCone**\n**mpieva:Odmark1987Asobrepo**\n**mpieva:Salzer1996Dicionar**\n**sil16:15496**\n**sil16:15586**\n**sil16:16248**\n**sil16:18518**\n**sil16:18519**\n**sil16:18544**\n**sil16:18860**\n**sil16:19863**\n**sil16:19924**\n**sil16:21225**\n**sil16:22056**\n**sil16:26882**\n**sil16:41833**\n**sil16:44096**\n**sil16:44667**"
+  },
+  "altnames": {
+    "glottolog": "\nPaumari",
+    "wals": "\nPaumarí",
+    "wals other": "\nPaumari",
+    "ruhlen (1987)": "\nPaumarí",
+    "moseley & asher (1994)": "\nPaumari",
+    "multitree": "\nCurucuru\nKurukuru\nPalmarí\nPamari\nPamarí\nPammari\nPammarí\nPaumari\nPaumarí\nPurupuru\nPurupurú",
+    "lexvo": "\nIdioma paumarí [es]\nPaumarieg [br]\nPaumarí [en]\nPaumarí language [en]\nПаумариски јазик [mk]",
+    "hhbib_lgcode": "\nPaumari\nPaumarí\nPorupurús",
+    "elcat": "\nCurucuru\nKurukuru\nPalmarí\nPamari\nPamarí\nPammarí\nPaumari\nPaumarí\nPurupuru\nPurupurú"
+  },
+  "triggers": {
+    "lgcode": "\npaumari"
+  },
+  "identifier": {
+    "wals": "pau",
+    "multitree": "pad;pad-pad",
+    "endangeredlanguages": "2926"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dienst:Arawan**",
+    "subrefs": "\n**hh:hv:Dienst:Arawan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Paumarí (2926-pad) = Endangered (60 percent certain, based on the evidence available) [Aikhenvald 2010](cldf:aikhenvald:10:1)"
+  }
+}

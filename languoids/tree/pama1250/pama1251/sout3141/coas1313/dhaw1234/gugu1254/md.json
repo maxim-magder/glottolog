@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Gugubera",
+    "hid": "kkp",
+    "level": "language",
+    "iso639-3": "kkp",
+    "latitude": "-15.4296",
+    "longitude": "141.635",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Koko-Bera](https://endangeredlanguages.com/lang/4402)\n[Koko Bera](https://collection.aiatsis.gov.au/austlang/language/y85)\nhttps://en.wikipedia.org/wiki/Koko-Bera_language\nhttps://phoible.org/languages/gugu1254\nhttps://www.wikidata.org/entity/Q6426699"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hv:Alpher:SWCapeYork**\n**hh:hv:Black:Cape-York**\n**hh:hv:Black:Norman-Pama**\n**hh:ld:Black:Change**\n**hh:ld:Black:Koko-Bera**\n**hh:s:Sommer:Kok-Kaber**\n**hh:v:Black:Kok-Paponk**\n**iso6393:2018-034**"
+  },
+  "altnames": {
+    "multitree": "\n(Yirrq-) Kongarrlh\nBa:bung\nBerang\nGoona-nin\nGoonamin\nGoonamon\nGugu Bera\nGugubera\nGunani\nGunanni\nKok Kaber\nKok-Chel\nKok-Kaper\nKok-Kapér\nKok-Per\nKoko Bera\nKoko Pera\nKoko papung\nKoko-Bera\nKoko-bera\nKokobera\nKokopapun\nKokopera\nKonanin\nKukaberra\nKukubera\nKungkara\nPaperyn",
+    "lexvo": "\nGugubera [en]",
+    "hhbib_lgcode": "\nGugu Bera\nKok Kaber\nKok-Kaper\nKoko Bera\nKoko-Bera\ndialect of Gugubera",
+    "elcat": "\n(Yirrq-) Kongarrlh\nBa:bung\nBerang\nGoona-nin\nGoonamin\nGoonamon\nGugu Bera\nGugubera\nGunani\nGunanni\nKok Kaber\nKok-Chel\nKok-Kaper\nKok-Kapér\nKok-Per\nKoko Bera\nKoko Pera\nKoko papung\nKoko-Bera\nKokobera\nKokopapun\nKokopera\nKonanin\nKukaberra\nKukubera\nKungkara\nPaperyn",
+    "aiatsis": "\nAnavilla\nBa:bung\nBabung\nBadedj\nBera\nBerang\nGogo Bera\nGonani:n\nGoonamen\nGoonamin\nGoonamon\nGoonanin\nGugu Bera\nGugubera\nGumani\nGunami\nGunani\nGunanni\nKok Kaber\nKok Kaper\nKok Kapér\nKok Per\nKoko Bera\nKoko Pera\nKoko Peryn\nKoko babung\nKoko bera\nKokobera\nKokopapun\nKokopapung\nKokopera\nKonanin\nKongarrlh\nKukaberra\nKungkara\nNanna\nNinnggora\nPaperyn\nPapung\nPeryn\nWab"
+  },
+  "triggers": {
+    "lgcode": "\npaponk\nkaber"
+  },
+  "identifier": {
+    "multitree": "kkp",
+    "endangeredlanguages": "4402"
+  },
+  "classification": {
+    "sub": "**hh:hv:Black:Cape-York** **hh:hv:Alpher:SWCapeYork**",
+    "subrefs": "\n**hh:hv:Black:Cape-York**\n**hh:hv:Alpher:SWCapeYork**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Koko-Bera (4402-kkp) = Severely Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Lezgian",
+    "hid": "lez",
+    "level": "language",
+    "iso639-3": "lez",
+    "latitude": "41.5157",
+    "longitude": "47.8951",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "GE",
+      "KZ",
+      "RU",
+      "UA"
+    ],
+    "links": "\n[Lezgian](https://grambank.clld.org/languages/lezg1247)\n[Lezgian](https://lexibank.clld.org/languages/northeuralex-lez)\n[Lezgian](https://wals.info/languoid/lect/wals_code_lez)\nhttps://en.wikipedia.org/wiki/Lezgian_language\nhttps://phoible.org/languages/lezg1247\nhttps://www.wikidata.org/entity/Q31746"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4871**\n**cldf:gadzhiev:63**\n**cldf:haspelmath:91**\n**cldf:haspelmath:97**\n**cldf:haspelmath:koenig:ed:95:2**\n**cldf:kodzasov:90:1**\n**cldf:kodzasov:99:1**\n**hh:d:Gadziev:Lezginskij**\n**hh:d:Kerimova:Lezgica**\n**hh:d:Talibov:Lezginsko**\n**hh:dial:Mejlanova:Lezginskoj**\n**hh:g:Gadziev:Lezginskogo**\n**hh:g:Ganieva:Kurusskij**\n**hh:g:Haspelmath:Lezgian**\n**hh:gd:Uslar:Kjurinskij**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:hvphon:Talibov:Lezginskix**\n**hh:s:AlekseevSejxov:Lezginskij**\n**hh:s:Babaliyeva:Lezgi**\n**hh:s:Ganieva:Dzabinskij**\n**hh:s:Saadiev:Kimalskogo**\n**hh:w:Pallas:Vocabularia**\n**ldh:item_403873**\n**mpieva:Abdulmutalibov2007Russkole**\n**mpieva:Alekseev1997Lezginsk**\n**mpieva:Gadziev1963Sintaksi**\n**mpieva:Gajdarov1966Leksikal**\n**mpieva:Gajdarov2009Sovremen**\n**mpieva:Jaraliev1995Alupansk**\n**mpieva:Mejlanova1970Gjunejsk**\n**mpieva:Mejlanova1995Lezginsk**\n**mpieva:Moor1985Studienz**\n**mpieva:Stalskij1959Socineni**\n**mpieva:Talibov1992Russkole**\n**mpieva:Zabitov2001Slovarar**\n**sil16:45453**\n**sil16:45574**\n**sil16:45577**"
+  },
+  "altnames": {
+    "wals": "\nLezgian",
+    "wals other": "\nLezgi",
+    "ruhlen (1987)": "\nLezgian",
+    "moseley & asher (1994)": "\nLezgi",
+    "multitree": "\nCurali\nKiurinsty\nKiurinty\nLezghi\nLezghien\nLezgi\nLezgian\nLezgin\nLezguio",
+    "lexvo": "\nJęzyk lezgiński [pl]\nLesgische Sprache [de]\nLesguià [ca]\nLezga lingvo [eo]\nLezghian [en]\nLezgian language [en]\nLezgice [tr]\nLezgieg [br]\nLezgin kieli [fi]\nLezgisch [nl]\nLezguien [fr]\nLíngua lezgui [pt]\nlezghien [fr]\nЛезгинский язык [ru]\nЛезгиски јазик [mk]\nЛезгінська мова [uk]\nزبان لزگی [fa]\nภาษาเลซกี [th]\n레즈긴어 [ko]",
+    "hhbib_lgcode": "\nKjurinskij\nLezghian\nLezgi\nLezgi de Yargun\nLezginski"
+  },
+  "triggers": {
+    "lgcode": "\nkimalskij\nlezginskoj\nlezginskogo\nktab\ndagestanskich\npersidskich\njezginskogo\nlezginsko\nlezginskij\nlezgian\nlesgischen\nlezgi\nkjurinskij"
+  },
+  "identifier": {
+    "wals": "lez",
+    "multitree": "lez",
+    "languagelandscape": "http://languagelandscape.org/language/Lezgian"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Schulze:Caucasian-Albanian-Udi**",
+    "subrefs": "\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Lezgian (1072-lez) = Vulnerable"
+  }
+}

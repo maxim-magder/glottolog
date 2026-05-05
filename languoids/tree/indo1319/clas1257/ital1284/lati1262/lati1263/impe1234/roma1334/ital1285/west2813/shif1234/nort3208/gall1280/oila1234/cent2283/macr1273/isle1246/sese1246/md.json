@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Seselwa Creole French",
+    "hid": "crs",
+    "level": "language",
+    "iso639-3": "crs",
+    "latitude": "-4.62314",
+    "longitude": "55.4503",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SC"
+    ],
+    "links": "\n[Seychelles Creole](https://apics-online.info/contributions/56)\n[Seychelles Creole](https://lexibank.clld.org/languages/wold-SeychellesCreole)\n[Seychelles Creole](https://wals.info/languoid/lect/wals_code_sey)\nhttps://en.wikipedia.org/wiki/Seychellois_Creole\nhttps://www.wikidata.org/entity/Q34015"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3778**\n**cldf:adone:04**\n**cldf:baker:syea:ed:96:1**\n**cldf:baker:syea:ed:96:6**\n**cldf:bollee:00**\n**cldf:bollee:04**\n**cldf:bollee:rosalie:94**\n**cldf:corne:77:2**\n**cldf:kouwenberg:ed:03:9**\n**cldf:kriegel:04**\n**cldf:kriegel:michaelis:07**\n**cldf:kriegel:michaelis:etal:03**\n**cldf:michaelis:08**\n**cldf:michaelis:93**\n**cldf:michaelis:94**\n**cldf:stjorre:lionnet:99**\n**hh:d:JorreLionnet:Seychellois**\n**hh:d:dOffayLionnet:Seychellois**\n**hh:g:Bollee:Seychelles**\n**hh:g:Corne:Seychelles**\n**hh:s:Choppy:Seselwa**\n**hh:s:Green:Romance-Creoles**\n**hh:s:MichaelisRosalie:Seychelles**\n**hh:typ:Bruck:Seselwa**\n**hh:typ:Chapuis:Seychellois**\n**mpieva:2001Corpuscr**\n**mpieva:Bollee1994Parolekm**\n**mpieva:Bollee20002007**\n**mpieva:Fleischmann2007Pourmwan**\n**mpieva:Michaelis1993Tempseta**\n**mpieva:Michaelis1994Komplexe**\n**mpieva:Saint1999Diksyonn**\n**sil16:23622**"
+  },
+  "altnames": {
+    "wals": "\nSeychelles Creole",
+    "wals other": "\nFrench (Seychelles Creole)\nSeychellois",
+    "ruhlen (1987)": "\nFrench Creole",
+    "moseley & asher (1994)": "\nFrench Creole",
+    "multitree": "\nCreole\nIlois\nKreol\nSeselwa Creole French\nSeychelles Creole French\nSeychellois\nSeychellois Creole",
+    "lexvo": "\nCreolo delle Seychelles [it]\nCriollo seychelense [es]\nCrioulo de Seychelles [pt]\nCréole seychellois [fr]\nJęzyk seszelski [pl]\nLengua creola [lij]\nSeišelu kreolu valoda [lv]\nSejŝela lingvo [eo]\nSejšelski kreolski [sh]\nSeselwa Creole French [en]\nSeychelle-i kreol nyelv [hu]\nSeychellenkreol [de]\nSeychellois Creole [en]\nΚρεολική Σεσελουά [el]\nСејшелски креолски [sr]\nセーシェル・クレオール語 [ja]",
+    "hhbib_lgcode": "\nSeselwa\nSeychelles\nSeychellois"
+  },
+  "triggers": {
+    "lgcode": "\nseychellois\nseselwa"
+  },
+  "identifier": {
+    "wals": "sey",
+    "multitree": "crs"
+  },
+  "classification": {
+    "sub": "**hh:g:BakerCorne:IsledeFrance**",
+    "subrefs": "\n**hh:g:BakerCorne:IsledeFrance**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Seychelles French Creole (crs-crs) = 1 (National). Statutory national language (2003, Constitution, Article 4(1))."
+  }
+}

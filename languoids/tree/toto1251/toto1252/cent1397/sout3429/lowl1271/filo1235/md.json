@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Filomeno Mata Totonac",
+    "hid": "tlp",
+    "level": "language",
+    "iso639-3": "tlp",
+    "latitude": "20.1415",
+    "longitude": "-97.5931",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Filomeno Mata Totonac](https://grambank.clld.org/languages/filo1235)\n[Totonac](https://endangeredlanguages.com/lang/3540)\nhttps://en.wikipedia.org/wiki/Filomeno_Mata_Totonac\nhttps://www.wikidata.org/entity/Q5449202"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:McFarland:Filomeno-Mata**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:typ:Quintana:Filomeno-Mata**\n**hh:v:Santiago:Totonaco-Filomeno**"
+  },
+  "altnames": {
+    "glottolog": "\nFilomena Mata Totonac\nFilomena Mata-Coahuitlan Totonac",
+    "multitree": "\nSanto Domingo Totonac\nTotonac\nTotonac, Filomena Mata-Coahuitlán\nTotonacano de Patla\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonaco de Filomena Mata-Coahuitlán\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Patla-Chicontla",
+    "lexvo": "\nFilomena Mata-Coahuitlán Totonac [en]",
+    "hhbib_lgcode": "\nFM1\nFM2\nFilomena Mata Totonac\nFilomena Mata-Coahuitlán Totonac\nFilomeno Mata",
+    "elcat": "\nTotonac"
+  },
+  "triggers": {
+    "lgcode": "\nmata AND filomeno"
+  },
+  "identifier": {
+    "multitree": "tlp",
+    "endangeredlanguages": "3540"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Totonac (3540) = At risk (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

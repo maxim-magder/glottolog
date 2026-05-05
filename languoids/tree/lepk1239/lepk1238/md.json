@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Lepki",
+    "hid": "lpe",
+    "level": "language",
+    "iso639-3": "lpe",
+    "latitude": "-4.1059",
+    "longitude": "140.464",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Lepki](https://endangeredlanguages.com/lang/4528)\nhttps://www.wikidata.org/entity/Q4259152\nhttps://en.wikipedia.org/wiki/Lepki_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:10:2**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:ew:Andersen:Lepki**\n**hh:ew:Sitokdana:Lepki**\n**hh:h:SilzerClouse:Index**\n**hh:h:Sitokdana:Pegunungan-Bintang**\n**hh:ld:Blegur:Lepki**\n**hh:ld:Sitokdana:Ngalum-Ketengban-Lepki-Arimtap**\n**hh:lde:Langeler:Sobger**\n**hh:w:Donohue:Lepki**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nLepki",
+    "lexvo": "\nLepki [en]",
+    "elcat": "\nLepki"
+  },
+  "triggers": {
+    "lgcode": "\nlepki"
+  },
+  "identifier": {
+    "multitree": "lpe",
+    "endangeredlanguages": "4528"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lepki (4528-lpe) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:Wambaliau:Murkim** and he short unpublished 35-item Kembra wordlist **hh:h:Doriot:6234** contains significant matches with Lepki and Murkim warranting the inclusion of this language in the family.",
+    "subrefs": "\n**hh:hwsoc:Wambaliau:Murkim**\n**hh:h:Doriot:6234**"
+  }
+}

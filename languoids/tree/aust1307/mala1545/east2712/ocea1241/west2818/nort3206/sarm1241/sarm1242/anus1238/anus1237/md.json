@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Korur",
+    "hid": "auq",
+    "level": "language",
+    "iso639-3": "auq",
+    "latitude": "-2.26271",
+    "longitude": "139.502",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Anus](https://endangeredlanguages.com/lang/1335)\nhttps://en.wikipedia.org/wiki/Anus_language\nhttps://www.wikidata.org/entity/Q23855"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:h:Sugono:Indonesia**\n**hh:h:vanderLeeden:Sarmische**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:hwsoc:LeeSawi:Sobei**\n**iso6393:2007-210**"
+  },
+  "altnames": {
+    "multitree": "\nAnus\nSobei",
+    "lexvo": "\nAnus [en]\nAnus language [en]\nKorur [en]\nАнус [ru]\nภาษาอานุส [th]\nアヌス語 [ja]",
+    "hhbib_lgcode": "\nAnus\nKorur\nSobei-Anus",
+    "glottolog": "\nAnus",
+    "elcat": "\nAnus\nKoroernoes\nKorur"
+  },
+  "identifier": {
+    "multitree": "auq",
+    "endangeredlanguages": "1335"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:LeeSawi:Sobei**",
+    "subrefs": "\n**hh:hwsoc:LeeSawi:Sobei**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Anus (1335-auq) = Endangered (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Iau",
+    "hid": "tmu",
+    "level": "language",
+    "iso639-3": "tmu",
+    "latitude": "-3.14537",
+    "longitude": "137.69",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Iau](https://lexibank.clld.org/languages/transnewguineaorg-iau)\n[Iau](https://wals.info/languoid/lect/wals_code_iau)\nhttps://en.wikipedia.org/wiki/Iau_language\nhttps://www.wikidata.org/entity/Q56867"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:edmondson:bateman:etal:92**\n**hh:e:Bateman:Iau**\n**hh:e:Bateman:Iau-Worlds**\n**hh:hphon:ClouseClouse:WLakes-Plain**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**\n**hh:ld:Miehle:Iau**\n**hh:phon:Bateman:Iau**\n**hh:phon:Edmondsonetal:Iau**\n**hh:s:Bateman:Iau**\n**hh:s:Bateman:Iau:2021**\n**hh:typ:Bateman:Iau**\n**hh:typ:Bateman:Iau:Particles**\n**hh:w:Moszkowski:Mamberamo**\n**mpieva:Verhaar19751990Miscella**\n**sil16:21236**\n**sil16:21238**\n**sil16:38381**"
+  },
+  "altnames": {
+    "wals": "\nIau",
+    "ruhlen (1987)": "\nTuru",
+    "moseley & asher (1994)": "\nTuru",
+    "multitree": "\nFoi\nIau\nIaw\nTuru\nUrundi\nUruri\nYau",
+    "lexvo": "\nIau [en]",
+    "hhbib_lgcode": "\n= Iau\nIau of Turu\nTuru\nTuru (Br)\nZentral-Gebirgstämme 9 words"
+  },
+  "triggers": {
+    "lgcode": "\niau\nNOT verb AND NOT pp AND iau"
+  },
+  "identifier": {
+    "wals": "iau",
+    "multitree": "tmu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Iau (tmu-tmu) = 5 (Developing)."
+  }
+}

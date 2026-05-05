@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Western Karaboro",
+    "hid": "kza",
+    "level": "language",
+    "iso639-3": "kza",
+    "latitude": "10.6298",
+    "longitude": "-4.76482",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF"
+    ],
+    "links": "\n[Tenyer](https://wals.info/languoid/lect/wals_code_tny)\n[Western Karaboro](https://grambank.clld.org/languages/west2466)\nhttps://en.wikipedia.org/wiki/Syer-Tenyer_language\nhttps://phoible.org/languages/west2466\nhttps://www.wikidata.org/entity/Q36601"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dahl:85**\n**cldf:prost:64:3**\n**hh:e:Hagberg:Karaboro-Fulbe**\n**hh:g:Dombrowsky-Hahn:Syer**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:hvw:Swadesh:Gur**\n**hh:s:Prost:Tenyer**\n**hh:w:Prost:Voltaiques**\n**sil16:38392**"
+  },
+  "altnames": {
+    "wals": "\nTenyer",
+    "wals other": "\nKaraboro",
+    "ruhlen (1987)": "\nKaraboro",
+    "moseley & asher (1994)": "\nKaraboro",
+    "multitree": "\nKaraboro, Western\nSyer-Tenyer",
+    "lexvo": "\nWestern Karaboro [en]",
+    "hhbib_lgcode": "\nKaraboro\nKaraboro Western\nKaraboro-Western\nKlaudia Dombrowsky-Hahn: G5. Tenyer\nSyer\nTenyer"
+  },
+  "triggers": {
+    "lgcode": "\ntenyer"
+  },
+  "identifier": {
+    "wals": "tny",
+    "multitree": "kza"
+  },
+  "classification": {
+    "sub": "**hh:hv:Guldemann:Africa:Classification**:199 **hh:hv:Miehe:Gur:2020**:194-196 **hh:hv:Carlson:Senufo** **hh:hb:vonRoncadorMiehe:Gur** **hh:phon:Mills:Senoufo**:xii-xx",
+    "subrefs": "\n**hh:hb:vonRoncadorMiehe:Gur**\n**hh:hv:Guldemann:Africa:Classification**\n**hh:hv:Carlson:Senufo**\n**hh:hv:Miehe:Gur:2020**\n**hh:phon:Mills:Senoufo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Karaboro, Western (kza-kza) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Lendu",
+    "hid": "led",
+    "level": "language",
+    "iso639-3": "led",
+    "latitude": "2.1898",
+    "longitude": "30.6794",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "UG"
+    ],
+    "links": "\n[Lendu](https://grambank.clld.org/languages/lend1245)\n[Lendu](https://wals.info/languoid/lect/wals_code_ldu)\nhttps://en.wikipedia.org/wiki/Lendu_language\nhttps://phoible.org/languages/lend1245\nhttps://www.wikidata.org/entity/Q523823"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2068**\n**cldf:connell:arvaniti:ed:95:2**\n**cldf:czekanowski:24**\n**cldf:kutschlojenga:89**\n**cldf:maenhaut:39**\n**cldf:trifkovic:77:1**\n**cldf:trifkovic:77:2**\n**cldf:tucker:67**\n**cldf:vandeneynde:23**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:10639**\n**eballiso2009:13645**\n**eballiso2009:17510**\n**eballiso2009:22017**\n**eballiso2009:27130**\n**eballiso2009:27514**\n**eballiso2009:33914**\n**eballiso2009:35541**\n**eballiso2009:35583**\n**eballiso2009:36405**\n**eballiso2009:3860**\n**eballiso2009:4034**\n**eballiso2009:41611**\n**eballiso2009:43077**\n**eballiso2009:46835**\n**eballiso2009:4765**\n**eballiso2009:50275**\n**eballiso2009:51596**\n**eballiso2009:52188**\n**eballiso2009:52601**\n**eballiso2009:52922**\n**eballiso2009:5364**\n**eballiso2009:54003**\n**eballiso2009:55350**\n**eballiso2009:5794**\n**eballiso2009:58603**\n**eballiso2009:58607**\n**eballiso2009:58676**\n**eballiso2009:6256**\n**eballiso2009:658**\n**eballiso2009:7128**\n**eballiso2009:7724**\n**hh:d:Mertens:Bbadha**\n**hh:dial:Chelo:Baledha**\n**hh:e:vandenEynde:Walendu**\n**hh:hb:Kadima:Congo**\n**hh:hb:Moiso:Haut-Zaire**\n**hh:he:Stuhlmann:Pascha**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hew:Liesenborghs:NEKongo**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hvtyp:Tucker:Madi**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hw:Johnston:Uganda:2**\n**hh:hw:Stuhlmann:Zentralafrikanischer**\n**hh:hwb:BokulaIrumu:Moru-Mangbetu**\n**hh:ld:Demolin:Lendu**\n**hh:phon:Dhelo:Lendu**\n**hh:phon:Hertsens:Lendu**\n**hh:s:Deleu:Lendu**\n**hh:s:Tucker:Lendu**\n**hh:sd:Dhejju:Lendu**\n**hh:soc:Bagamba:Hema**\n**hh:typ:Bunu:Lendu**\n**hh:typ:Dhese:Lendu**\n**hh:typ:Dzaringa:Walendu**\n**hh:typ:Lotsove:Lendu**\n**hh:vld:Aerts:Walendu-Geti**\n**hh:vld:Dhelo:Kilendu**\n**hh:w:Alcober:Lendu**\n**hh:w:Kutsch:Lendu**\n**hh:w:Struck:Nachlass**\n**mpieva:Dhejju1979Systemat**\n**sil16:23695**\n**sil16:24291**\n**sil16:31688**\n**sil16:31689**"
+  },
+  "altnames": {
+    "wals": "\nLendu",
+    "wals other": "\nBaledha\nLendu (North)\nN Lendu\nN. Lendu\nNorth Lendu",
+    "ruhlen (1987)": "\nBale",
+    "moseley & asher (1994)": "\nBalendru",
+    "multitree": "\nBale\nBalendru\nBaletha\nBatha\nBbadha\nBbaledha\nHema-Nord\nKihema-Nord\nKilendu\nLendu",
+    "lexvo": "\nLendu [en]",
+    "hhbib_lgcode": "\nA-Lendú\nBale\nBaleda\nBaleda (Kilendu)\nBaledha\nBbadha\nLendu-Djadha\nLendu-Pidha\nLendu-Tadha\nLendu/Lega/Balega\nLendú\nN Lendu\nNdru\nWa-Legga (Lendú)\nWalendu\nWalendu Sud\nWalendu de Geti\nWalendu-Watsi\nWalégga\nZuid Lendu"
+  },
+  "triggers": {
+    "lgcode": "\nwalendu\nalendu\nbbaledha\nngiti\nbbadha\nlendu\nbhadha\nbalendu\nkilendu\nbbadhcais"
+  },
+  "identifier": {
+    "wals": "genus/lendu",
+    "multitree": "led"
+  },
+  "classification": {
+    "sub": "**hh:g:Kutsch:Ngiti**:8-9, 428-444",
+    "subrefs": "\n**hh:g:Kutsch:Ngiti**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lendu (led-led) = 5* (Developing)."
+  }
+}

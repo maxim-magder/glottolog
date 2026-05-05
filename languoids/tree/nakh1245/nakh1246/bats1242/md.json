@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bats",
+    "hid": "bbl",
+    "level": "language",
+    "iso639-3": "bbl",
+    "latitude": "42.1806",
+    "longitude": "45.344",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE"
+    ],
+    "links": "\n[Bats](https://grambank.clld.org/languages/bats1242)\n[Batsbi](https://endangeredlanguages.com/lang/1124)\n[Tsova-Tush](https://wals.info/languoid/lect/wals_code_ttu)\nhttps://en.wikipedia.org/wiki/Bats_language\nhttps://phoible.org/languages/bats1242\nhttps://www.wikidata.org/entity/Q33259"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1277**\n**cldf:brynhauk:19**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:desheriev:53:1**\n**cldf:ed:10**\n**cldf:gippert:schultze:etal:06**\n**cldf:harris:samuel:11**\n**cldf:holisky:76**\n**cldf:holisky:81**\n**cldf:holisky:87**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:moseley:05**\n**cldf:np:nd:264**\n**cldf:staff:15**\n**hh:d:Fahnrich:Batsisch**\n**hh:d:KadagidzeKadagidze:Tsova**\n**hh:g:Desheriev:Batsbijskij**\n**hh:g:Schiefner:Thusch**\n**hh:s:HoliskyGagua:Batsbi**\n**hh:styp:Hauk:Tsova-Tush**\n**hh:vtyp:Schreur:Tsova-Tush**\n**hh:vtyp:Wichers:Tsova-Tush:2025**"
+  },
+  "altnames": {
+    "wals": "\nTsova-Tush",
+    "wals other": "\nBatsbi\nTsova-Tush (Batsbi)",
+    "ruhlen (1987)": "\nBats",
+    "moseley & asher (1994)": "\nBats",
+    "multitree": "\nBac\nBats\nBatsaw\nBatsbi\nBatsbiitsy\nBatsi\nBácico\nTsova-Tush\nTush",
+    "lexvo": "\nBacba lingvo [eo]\nBats [en]\nBats language [en]\nBatseg [br]\nBatsin kieli [fi]\nBatsische Sprache [de]\nBatsisk [no]\nBatsça [tr]\nJęzyk bacbijski [pl]\nБатски јазик [mk]\nБацбийски език [bg]\nБацбийский язык [ru]\nБацбійська мова [uk]\nבאצבית [he]\nภาษาบัตส์ [th]\nბაცბური ენა [ka]",
+    "elcat": "\nBac\nBats\nBatsaw\nBatsbi\nBatsi\nTsova-Tush\nTush\nbatsba motjiti\nбацбийский язык\nбацбур мотlтl\nцова-тушинский\nцоватский язык\nბაცბური ენა\nწოვათუშური ენა",
+    "hhbib_lgcode": "\nTsova-Tush"
+  },
+  "triggers": {
+    "lgcode": "\nbatsisch\ntsova\ntush\nthusch\nbatsbijskij\nzowatuschisch"
+  },
+  "identifier": {
+    "wals": "ttu",
+    "multitree": "bbl",
+    "endangeredlanguages": "1124"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nichols:Nakh-Dagestanian**",
+    "subrefs": "\n**hh:hv:Nichols:Nakh-Dagestanian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Batsbi (1124-bbl) = Severely Endangered (80 percent certain, based on the evidence available) (Their [Tsova Tush] language, known as Batsbi or Bats, is spoken in approximately half of the village of Zemo Alvani... There is also a generational gap. [According to Revaz Orbetishvili,] ‘Some youth in their late twenties speaks Batsbi, but teenagers can’t speak it at all. The language is headed towards a disaster.’) [Staff 2015](cldf:staff:15)"
+  }
+}

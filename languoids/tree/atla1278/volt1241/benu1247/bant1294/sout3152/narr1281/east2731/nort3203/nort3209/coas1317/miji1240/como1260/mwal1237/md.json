@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mwali Comorian",
+    "hid": "wlc",
+    "level": "language",
+    "iso639-3": "wlc",
+    "latitude": "-12.3164",
+    "longitude": "43.741",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3319155\nhttps://phoible.org/languages/mwal1237"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:28326**\n**eballiso2009:41221**\n**hh:hvw:Full:Komorischen**\n**hh:hvw:NurseHinnebusch:Swahili-Sabaki**\n**hh:ld:Rey:Mwali**\n**hh:s:Heepe:Komorendialekte**"
+  },
+  "altnames": {
+    "multitree": "\nComorian, Mwali\nShimwali",
+    "lexvo": "\nMwali Comorian [en]",
+    "hhbib_lgcode": "\nComorian-Mwali\nMwali"
+  },
+  "triggers": {
+    "lgcode": "\nmwali\ntones AND sabaki"
+  },
+  "identifier": {
+    "multitree": "wlc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Full:Komorischen**",
+    "subrefs": "\n**hh:hvw:Full:Komorischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Comorian, Mwali (wlc-wlc) = 6a* (Vigorous). Statutory language of provincial identity in Moheli Island (2002, Constitution, Article 1)."
+  }
+}

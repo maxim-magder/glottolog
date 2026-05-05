@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Tongva",
+    "hid": "xgf",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "longitude": "-118.11",
+    "latitude": "34.1",
+    "iso639-3": "xgf",
+    "links": "\n[Tongva](https://grambank.clld.org/languages/tong1329)\n[Tongva](https://lexibank.clld.org/languages/utoaztecan-Gabrielino)\nhttps://en.wikipedia.org/wiki/Tongva_language\nhttps://www.wikidata.org/entity/Q56387",
+    "timespan": "1925-01-01/1925-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:harrington:42**\n**cldf:johnston:55**\n**cldf:johnston:64**\n**cldf:kroeber:25:4**\n**cldf:reid:85**\n**hh:e:BeanSmith:Gabrielino**\n**hh:hew:Hale:Philology**\n**hh:hv:HillHill:Takic**\n**hh:hvb:Golla:California**\n**hh:hvw:Kroeber:Shoshonean**\n**hh:hvw:Kroeber:Shoshonean-Southern**\n**hh:hvw:Latham:Comparative**\n**hh:typ:Munro:Gabrielino**\n**hh:w:Buschmann:Sonorischen**\n**hh:w:Grant:Scouler**\n**hh:w:Munro:Gabrielino**"
+  },
+  "triggers": {
+    "lgcode": "\nscouler\ngabrielino\ncoulter\ntolmie"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Uto-Aztecan** **hh:hvb:Golla:California** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E25",
+    "date": "2023-03-07T13:49:51",
+    "comment": "Gabrielino-Fernandeño (xgf-xgf) = 9 (Reawakening)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nGabrielino\nKij\nKiz\nKizh\nSan Gabriel"
+  }
+}

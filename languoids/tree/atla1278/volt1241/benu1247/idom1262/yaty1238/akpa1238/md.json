@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Akpa",
+    "hid": "akf",
+    "level": "language",
+    "iso639-3": "akf",
+    "latitude": "7.32586",
+    "longitude": "8.01629",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Akpa_language\nhttps://www.wikidata.org/entity/Q34801"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Armstrong:Igala-Idoma**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hv:Armstrong:Idomoid:1981**\n**hh:hvw:Armstrong:Idomoid**\n**hh:phon:Armstrong:Akpa**"
+  },
+  "altnames": {
+    "multitree": "\nAkpa\nAkweya",
+    "lexvo": "\nAkpa [en]",
+    "hhbib_lgcode": "\nAkweya\nAkweya-Yachi\nAkweya/Akpa"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND akpa\nakpa"
+  },
+  "identifier": {
+    "multitree": "akf"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Armstrong:Idomoid** **hh:hv:Armstrong:Idomoid:1989**",
+    "subrefs": "\n**hh:hvw:Armstrong:Idomoid**\n**hh:hv:Armstrong:Idomoid:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Akweya (akf-akf) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Kao",
+    "hid": "kax",
+    "level": "language",
+    "iso639-3": "kax",
+    "latitude": "1.16654",
+    "longitude": "127.847",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kao](https://endangeredlanguages.com/lang/1889)\nhttps://en.wikipedia.org/wiki/Kao_language\nhttps://www.wikidata.org/entity/Q3192799"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hv:GrimesGrimes:NMoluccas**"
+  },
+  "altnames": {
+    "multitree": "\nKa'u\nKao\nKau",
+    "lexvo": "\nKao [en]",
+    "elcat": "\nKa'u\nKao\nKau"
+  },
+  "identifier": {
+    "multitree": "kax",
+    "endangeredlanguages": "1889"
+  },
+  "classification": {
+    "sub": "**hh:s:Wimbish:Pagu**:6",
+    "subrefs": "\n**hh:s:Wimbish:Pagu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kao (1889-kax) = Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

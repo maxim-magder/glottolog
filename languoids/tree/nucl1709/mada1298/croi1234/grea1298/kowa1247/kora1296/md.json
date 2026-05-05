@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Korak",
+    "hid": "koz",
+    "level": "language",
+    "iso639-3": "koz",
+    "latitude": "-4.5998",
+    "longitude": "145.514",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Korak](https://lexibank.clld.org/languages/transnewguineaorg-korak)\n[korak](https://lexibank.clld.org/languages/zgraggenmadang-korak)\nhttps://en.wikipedia.org/wiki/Amako_language\nhttps://www.wikidata.org/entity/Q6431365"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1941**\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:hb:Zgraggen:Madang**\n**hh:he:Schebesta:Neuguinea**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:NAdelbert**"
+  },
+  "altnames": {
+    "lexvo": "\nKorak [en]",
+    "hhbib_lgcode": "\nAmako"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Pick:Northern-Adelbert**:193, 452-454 **hh:hv:Zgraggen:Madang:1971**",
+    "subrefs": "\n**hh:hv:Zgraggen:Madang:1971**\n**hh:hvld:Pick:Northern-Adelbert**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Amako (koz-koz) = 6b (Threatened)."
+  }
+}

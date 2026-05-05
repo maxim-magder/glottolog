@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Paite Chin",
+    "hid": "pck",
+    "level": "language",
+    "iso639-3": "pck",
+    "latitude": "24.0381",
+    "longitude": "93.6136",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Paite](https://wals.info/languoid/lect/wals_code_pte)\n[Paite Chin](https://endangeredlanguages.com/lang/5678)\n[Paite Chin](https://grambank.clld.org/languages/pait1244)\nhttps://en.wikipedia.org/wiki/Paite_language\nhttps://phoible.org/languages/pait1244\nhttps://www.wikidata.org/entity/Q12952337"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:92**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grierson:ed:95:17**\n**cldf:np:01:1**\n**hh:d:Kamkhenthang:Paite**\n**hh:d:Kumar:Paite**\n**hh:e:Kamkhenthang:Paite**\n**hh:g:Singh:Paite:1985**\n**hh:h:SinghSuantak:Manipur:Epilogue**\n**hh:hsoc:Lhungdim:Manipur**\n**hh:hvphon:Devi:Hmar-PaiteVaiphei**\n**hh:hvw:Dal:Proto-Zomi**\n**hh:hvw:Grierson:3:III**\n**hh:ld:Henderson:Teizang**\n**hh:s:Kumara:Paite**\n**hh:s:Saratchandra:Paite**\n**hh:typ:Haokip:Kuki-Chin:2009**\n**hh:typ:Muana:Paite**"
+  },
+  "altnames": {
+    "wals": "\nPaite",
+    "ruhlen (1987)": "\nPaite",
+    "moseley & asher (1994)": "\nVuite",
+    "multitree": "\nChin (Paite)\nChin paite\nChin, Paite\nChin,Paite\nHaithe\nOarte\nPaite\nPaithe\nParte\nVuite\nZoukam",
+    "lexvo": "\nPaite Chin [en]",
+    "hhbib_lgcode": "\nChin-Paite\nPaite\nTeizang",
+    "elcat": "\nChin\nChin (Paite)\nHaithe\nOarte\nPaite\nPaite Chin\nPaithe\nParte\nVuite\nZoukam"
+  },
+  "triggers": {
+    "lgcode": "\nteizang\npaite"
+  },
+  "identifier": {
+    "wals": "pte",
+    "multitree": "pck",
+    "endangeredlanguages": "5678"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin** **hh:hvw:Button:NChin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:hvw:Button:NChin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Paite Chin (5678-pck) = Vulnerable (20 percent certain, based on the evidence available) [Haokip 2011](cldf:haokip:11:2)"
+  }
+}

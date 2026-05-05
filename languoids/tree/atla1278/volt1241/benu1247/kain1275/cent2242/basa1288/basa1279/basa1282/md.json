@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Basa (Nigeria)",
+    "hid": "bzw",
+    "level": "language",
+    "iso639-3": "bzw",
+    "latitude": "8.03159",
+    "longitude": "7.06183",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Basa (Nigeria)](https://grambank.clld.org/languages/basa1282)\nhttps://en.wikipedia.org/wiki/Basa-Benue_language\nhttps://www.wikidata.org/entity/Q34898"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:byng-hall:09**\n**hh:e:Byng-Hall:Bassa-Komo**\n**hh:e:Clifford:Bassa-Komo**\n**hh:e:Paul:Bassa**\n**hh:he:GunnConant:Middle-Niger**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:s:Imoh:Bassa**\n**hh:typ:Imoh:Bassa**\n**hh:typ:Imoh:Bassa:2008**\n**hh:typ:Imoh:Bassa:Negativization**\n**hh:w:Armstrong:West-African**\n**hh:w:Blench:Basa**\n**hh:w:Blench:Basa:2019**"
+  },
+  "altnames": {
+    "multitree": "\n\"Bassa-Komo\"\n\"Bassa-Kwomu\"\nAbacha\nAbatsa\nBasa\nBasa-Benue\nRubasa\nRubassa",
+    "lexvo": "\nBasa (Nigeria) [en]\nBasa [en]",
+    "hhbib_lgcode": "\nBasa\nBasa (Bassa)-Komo\nBasa east of Enupa four days from Koara and six from Raba\nBasa-Benue\nBasa-Komo\nBassa\nBassa Komo\nBassa from Koelle VIII B.1"
+  },
+  "triggers": {
+    "lgcode": "\nkogi\nnassarawa\nNOT und AND kamerun AND basa"
+  },
+  "identifier": {
+    "multitree": "bzw"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Basa (bzw-bzw) = 5* (Developing)."
+  }
+}

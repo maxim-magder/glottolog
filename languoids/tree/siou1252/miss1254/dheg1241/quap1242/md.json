@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Quapaw",
+    "hid": "qua",
+    "level": "language",
+    "iso639-3": "qua",
+    "latitude": "34.15",
+    "longitude": "-92.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Quapaw](https://endangeredlanguages.com/lang/5305)\n[Quapaw](https://grambank.clld.org/languages/quap1242)\nhttps://en.wikipedia.org/wiki/Quapaw_language\nhttps://www.wikidata.org/entity/Q3412974",
+    "timespan": "2022-01-01/2022-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1648**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:ofoklahoma:nd**\n**cldf:siebert:jr:etal:89**\n**hh:e:YoungHoffman:Quapaw**\n**hh:hv:Rankin:Quapaw**\n**hh:s:Rankin:Quapaw**\n**hh:w:Siebert:Quapaw**"
+  },
+  "altnames": {
+    "multitree": "\nAlkansea\nArkans\nArkansas\nCapa\nKwapa\nKwapaw\nOgaxpa\nQuapaw",
+    "lexvo": "\nQuapaw [en]",
+    "elcat": "\nAlkansea\nArkans\nArkansas\nCapa\nKwapa\nKwapaw\nOgaxpa\nQuapaw"
+  },
+  "triggers": {
+    "lgcode": "\nquapaw"
+  },
+  "identifier": {
+    "multitree": "qua",
+    "endangeredlanguages": "5305"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Quapaw (5305-qua) = Awakening [of Oklahoma n.d.](cldf:ofoklahoma:nd)"
+  }
+}

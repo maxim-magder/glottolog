@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sindhi",
+    "hid": "snd",
+    "level": "language",
+    "iso639-3": "snd",
+    "latitude": "26.0",
+    "longitude": "69.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Sindhi](https://wals.info/languoid/lect/wals_code_sdh)\nhttps://en.wikipedia.org/wiki/Sindhi_language\nhttps://phoible.org/languages/sind1272\nhttps://www.wikidata.org/entity/Q33997"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:92**\n**cldf:bordie:nd**\n**cldf:cardona:jain:ed:03:16**\n**cldf:jegorova:66**\n**cldf:khubchandani:69**\n**cldf:malherbe:rosenberg:96**\n**cldf:nihalani:99**\n**cldf:wilber:64**\n**eballiso2009:34658**\n**hh:b:Khubchandani:Sindhi**\n**hh:d:Advani:Sindhi**\n**hh:d:Baloch:Sindhi**\n**hh:d:BalochKhan:Sindhi:1959**\n**hh:d:BalochKhan:Sindhi:1960**\n**hh:d:DeepchandraPribhdas:Sindhi**\n**hh:d:Dulhamal:Sindhi**\n**hh:d:Fatehsingh:Sindhi**\n**hh:d:Ibin:Sindhi**\n**hh:d:Mamiya:Sindii**\n**hh:d:Memon:Sindhi**\n**hh:d:Mewaram:Sindhi**\n**hh:d:Paranjpye:Sindhi**\n**hh:d:Parmanand:Sindhi**\n**hh:d:Parmanand:Sindhi:1910**\n**hh:d:Prinsep:Scindee**\n**hh:d:Stack:Sindhi**\n**hh:g:Bherumal:Sindhi**\n**hh:g:Dulhamal:Sindhi**\n**hh:g:Egorova:Sindxi**\n**hh:g:Haskell:Sindhi**\n**hh:g:Jetley:Sindhi**\n**hh:g:Khan:Sindhi**\n**hh:g:Lekhwani:Sindhi**\n**hh:g:Qaleech:Sindhi**\n**hh:g:Trumpp:Sindhi**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hv:Lodhi:Oriental-Swahili**\n**hh:hvw:Grierson:8:I**\n**hh:hvw:Kogan:New-Indo-Aryan**\n**hh:phon:Bordie:Sindhi**\n**hh:phon:Khubchandani:Sindhi**\n**hh:s:Khubchandani:Sindhi**\n**hh:s:Mamiya:Sindii**\n**hh:s:NagpalPurswani:Sindhi**\n**hh:s:Oodharam:Sindhi**\n**hh:s:Seymour:Sindhi**\n**hh:s:SharmaBoda:Sindhi**\n**hh:s:Stack:Sindhi**\n**hh:s:Tolani:Sindhi**\n**hh:s:Vasnai:Sindhi**\n**hh:s:Wahid:Sindhi**\n**hh:s:Wathen:Sindhi**\n**hh:s:Yegorova:Sindhi**\n**hh:soc:Iyengar:Sindhi**\n**hh:sv:Khubchandani:Sindhi**\n**hh:typ:Junejo:Larri-Kachhi**\n**hh:w:Eastwick:Scindee**\n**hh:w:Eastwick:Sindi**\n**mpieva:2000Linguist**\n**mpieva:Egorova1966Jazyksin**\n**mpieva:Mewaram1998AnewEngl**\n**mpieva:Stack2001Agrammar**\n**sil16:26334**"
+  },
+  "altnames": {
+    "wals": "\nSindhi",
+    "ruhlen (1987)": "\nSindhi",
+    "moseley & asher (1994)": "\nSindhi",
+    "multitree": "\nSindhi",
+    "lexvo": "\nBahasa Sindh [ms]\nBahasa Sindhi [id]\nIdioma sindhi [es]\nLingua Sindhi [it]\nLingua Sindhuica [la]\nLíngua sindi [pt]\nSinda lingvo [eo]\nSindeg [br]\nSindera [eu]\nSindhi [ca]\nSindhi bhasa [hif]\nSindhi language [en]\nSindhî [tr]\nSindhština [cs]\nSindi simi [qu]\nsindhi [fr]\nÈdè Sindhi [yo]\nСиндхи [bg]\nСіндхі [uk]\nסינדהי [he]\nسندھی [pnb]\nسندھی زبان [ur]\nسنڌي ٻولي [sd]\nسىندى تىلى [ug]\nسيندى [arz]\nلغة سندية [ar]\nसिंधी भाषा [hi]\nসিন্ধি ভাষা [bn]\nசிந்தி மொழி [ta]\nസിന്ധി ഭാഷ [ml]\nภาษาสินธี [th]\nსინდჰური ენა [ka]\nシンド語 [ja]\n信德语 [zh]\n신디어 [ko]",
+    "hhbib_lgcode": "\nLari\nLarri\nSND — Sindhi\nSindi\nThareli/Dhatki\nThari in Pakistan\nVicholi\nVicholi-Siraiki"
+  },
+  "triggers": {
+    "lgcode": "\nsindchi\nsindhi\nsindxi\nscindee"
+  },
+  "identifier": {
+    "wals": "sdh",
+    "multitree": "sind;snd"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Kogan:New-Indo-Aryan**:236-237",
+    "subrefs": "\n**hh:hvw:Kogan:New-Indo-Aryan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sindhi (snd-snd) = 3 (Wider communication)."
+  }
+}

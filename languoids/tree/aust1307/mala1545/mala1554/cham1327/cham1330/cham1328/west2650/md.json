@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Western Cham",
+    "hid": "cja",
+    "level": "language",
+    "iso639-3": "cja",
+    "latitude": "12.4771",
+    "longitude": "104.026",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "TH",
+      "VN"
+    ],
+    "links": "\n[Cham (Western)](https://wals.info/languoid/lect/wals_code_chw)\n[Western Cham](https://grambank.clld.org/languages/west2650)\nhttps://en.wikipedia.org/wiki/Western_Cham_language\nhttps://phoible.org/languages/west2650\nhttps://www.wikidata.org/entity/Q12645578"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:213**\n**cldf:edmondson:gregerson:93**\n**hh:d:AymonierCabaton:Cam**\n**hh:d:Friberg:Western-Cham**\n**hh:phon:Headley:Kompong-Thom-Cham**\n**hh:s:Aymonier:Chame**\n**hh:s:Baumgartner:WCham**\n**hh:s:Kvoeu-HorFriberg:Western-Cham**\n**hh:s:Ueki:Western-Cham**\n**mpieva:Alieva1999Chamlang**\n**mpieva:Edmondson1993Tonality**\n**sil16:15060**\n**sil16:15061**\n**sil16:15741**\n**sil16:29245**\n**sil16:35851**\n**sil16:49414**\n**sil16:49415**"
+  },
+  "altnames": {
+    "wals": "\nCham (Western)",
+    "moseley & asher (1994)": "\nCham (West)",
+    "multitree": "\nCambodian\nCambodian Cham\nCham\nCham (Western)\nCham de l'ouest\nCham, Western\nChamo occidental\nChiem\nNew Cham\nTjam",
+    "lexvo": "\nWestern Cham [en]",
+    "hhbib_lgcode": "\nCham-Western\nChams de l'Annam\nChams du Cambodge\nKompong Thom Cham in Cambodia\net par un K le dialecte parlé au pays des Khmers"
+  },
+  "triggers": {
+    "lgcode": "\nvostocnogo\npanuaik\nchammic\nsaph\n519"
+  },
+  "identifier": {
+    "wals": "chw",
+    "multitree": "cja"
+  },
+  "classification": {
+    "sub": "**hh:hv:Brunelle:Chamic:2024**",
+    "subrefs": "\n**hh:hv:Brunelle:Chamic:2024**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Western Cham (2225-cja) = Vulnerable"
+  }
+}

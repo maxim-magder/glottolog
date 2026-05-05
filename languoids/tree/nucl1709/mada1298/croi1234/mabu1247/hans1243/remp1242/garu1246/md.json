@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Garus",
+    "hid": "gyb",
+    "level": "language",
+    "iso639-3": "gyb",
+    "latitude": "-4.9222",
+    "longitude": "145.683",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Garus](https://lexibank.clld.org/languages/transnewguineaorg-garus)\n[Garus](https://wals.info/languoid/lect/wals_code_grs)\n[garus](https://lexibank.clld.org/languages/zgraggenmadang-garus)\nhttps://en.wikipedia.org/wiki/Garus_language\nhttps://www.wikidata.org/entity/Q5524492"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hvw:Kasprus:Mugil**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "altnames": {
+    "wals": "\nGarus",
+    "ruhlen (1987)": "\nGarus",
+    "moseley & asher (1994)": "\nGarus",
+    "multitree": "\nAte\nEm\nGarus\nKurupi",
+    "lexvo": "\nGarus [en]",
+    "hhbib_lgcode": "\nGarus (Em-Dialect)"
+  },
+  "triggers": {
+    "lgcode": "\nmabuso"
+  },
+  "identifier": {
+    "wals": "grs",
+    "multitree": "gyb"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Zgraggen:Madang**:50",
+    "subrefs": "\n**hh:hvld:Zgraggen:Madang**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Garus (gyb-gyb) = 6a* (Vigorous)."
+  }
+}

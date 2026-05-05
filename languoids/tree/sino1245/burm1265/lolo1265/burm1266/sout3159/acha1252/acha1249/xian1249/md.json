@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Xiandao",
+    "hid": "xia",
+    "level": "dialect",
+    "iso639-3": "xia",
+    "latitude": "24.5458",
+    "longitude": "97.9052",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Burmish_Xiandao](https://lexibank.clld.org/languages/sagartst-Xiandao)\nhttps://en.wikipedia.org/wiki/Xiandao_dialect\nhttps://www.wikidata.org/entity/Q10884275"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2012-008**"
+  },
+  "altnames": {
+    "multitree": "\nChaunta\nChintaw\nXiandao\nXiandaohua",
+    "lexvo": "\nXiandao [en]"
+  },
+  "iso_retirement": {
+    "comment": "This is a subdialect of the Husa dialect of Achang. According to a native\nspeaker of Husa Achang, it is very easily mutually intelligible with Husa Achang\nand its speakers only recently moved away from the Husa valley.\n\nXiandao is a subdialect of the Husa dialect of Achang and should be included in\nthe element [acn].",
+    "code": "xia",
+    "name": "Xiandao",
+    "effective": "2013-01-23",
+    "remedy": "Merge into Achang [acn]",
+    "reason": "merge",
+    "change_request": "2012-008",
+    "change_to": "\nacn"
+  },
+  "identifier": {
+    "multitree": "xia"
+  }
+}

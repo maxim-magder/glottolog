@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Alorese",
+    "hid": "aol",
+    "level": "language",
+    "iso639-3": "aol",
+    "latitude": "-8.20382",
+    "longitude": "124.264",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Alor (Baranusa Kabir Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-alor-baranusa-kabir)\n[Alor (Kalabahi Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-alor-kalabahi)\n[Alorese](https://grambank.clld.org/languages/alor1247)\nhttps://en.wikipedia.org/wiki/Alorese_language\nhttps://www.wikidata.org/entity/Q3332062"
+  },
+  "classification": {
+    "sub": "**hh:g:Klamer:Alorese**:17-18 **hh:hv:Doyle:Flores-Lembata** **hh:hvw:Keraf:Lamalera**",
+    "subrefs": "\n**hh:g:Klamer:Alorese**\n**hh:hv:Doyle:Flores-Lembata**\n**hh:hvw:Keraf:Lamalera**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Verbeek:AlorPantar**\n**hh:g:Klamer:Alorese**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:Doyle:Flores-Lembata**\n**hh:hvw:Stokhof:Alor**\n**hh:sv:Sulistyono:Alorese**\n**hh:vld:Klamer:Alorese**\n**hh:w:Stokhofetal:Holle:6**"
+  },
+  "altnames": {
+    "multitree": "\nAlor\nAlorese",
+    "lexvo": "\nAlor [en]\nAlorese [en]\nAlorski jezik [hr]",
+    "hhbib_lgcode": "\n2xAlor\nAllor\nAlor\nAlorese Alor Kecil\nAlorese Baranusa\nAlorese-Kalabahi\nAlorsch\nBaranusa Alorese\nBaranusa/Kabir\nKalabahi\nPandai-Wailawar-Kabir"
+  },
+  "triggers": {
+    "lgcode": "\nalorese\npronouns AND pantar"
+  },
+  "identifier": {
+    "multitree": "aol"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Alor (aol-aol) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Finnish Sign Language",
+    "hid": "fse",
+    "level": "language",
+    "iso639-3": "fse",
+    "latitude": "60.661",
+    "longitude": "25.0677",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AX",
+      "FI"
+    ],
+    "links": "\n[Finnish Sign Language](https://endangeredlanguages.com/lang/7355)\n[Finnish Sign Language](https://grambank.clld.org/languages/finn1310)\n[Finnish Sign Language](https://wals.info/languoid/lect/wals_code_fsl)\nhttps://en.wikipedia.org/wiki/Finnish_Sign_Language\nhttps://www.wikidata.org/entity/Q33225"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:savolainen:03**\n**hh:d:Liitto:Viittomakielen**\n**hh:d:Malm:Viittomakielen**\n**hh:h:BergmanEngberg:Sign-Nordic**\n**hh:h:Moges:Eritrean-Sign**\n**hh:h:Wallvik:Finlandska-Dovsamfundets**\n**hh:hv:ParkhurstParkhurst:Comparisons-Signed**\n**hh:ld:Rissanen:Finnish-Sign**\n**hh:s:Takkinen:Finnish-Sign**\n**hh:soc:Moges:Deaf-Eritrean**\n**hh:soc:Moges:Eritrean-Sign**\n**hh:soc:Moges:Eritrean-Sign-Resistance**\n**hh:typ:Jantunen:Finnish-Sign**\n**hh:typ:Savolainen:Finnish-Sign**\n**hh:typ:TaalasLeinonen:Numeroita**\n**hh:w:Hirn:Viittomakieli**"
+  },
+  "altnames": {
+    "wals": "\nFinnish Sign Language",
+    "multitree": "\nFinnish Sign Language\nViittomakieli",
+    "lexvo": "\nFinna mansigna lingvo [eo]\nFinnish Sign Language [en]\nLingua dei segni finlandese [it]\nLíngua de Sinais Finlandesa [pt]\nSuomalainen viittomakieli [fi]",
+    "hhbib_lgcode": "\nEritrean Sign Language\nViittomakieli",
+    "elcat": "\nFinnish Sign Language\nViittomakieli"
+  },
+  "triggers": {
+    "lgcode": "\nlexical AND signed"
+  },
+  "identifier": {
+    "wals": "fsl",
+    "multitree": "fse",
+    "endangeredlanguages": "7355"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Finnish Sign Language (7355-fse) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "Although the origin of Finnish Sign Language is in the early Swedish Sign Language, the two languages developed in their own directions. Today, 160 years later, Finnish Sign Language and Swedish Sign Language are totally different languages. It has been estimated that already at the beginning of the 20th century the congruence in the lexicons of Finnish Sign Language and Swedish Sign Language had fallen to 71–73 percent. In 2000 congruence was no more than 42% (**hh:s:Takkinen:Finnish-Sign**:254, **hh:hv:Mesch:Teckensprak**). Finland-Swedish Sign Language [finl1235] is also a member of this family as shown by historical and lexical evidence (**hh:soc:Hoyer:Borgatecken**, **hh:h:Thorvaldsdottir:Sign-Scandinavia**:812, **hh:vw:Brudzewski:Portugal-Sign**). Finnish Sign Language [finn1310] includes Eritrean Sign Language (**hh:h:Moges:Eritrean-Sign**, **hh:soc:Moges:Eritrean-Sign**).",
+    "subrefs": "\n**hh:s:Takkinen:Finnish-Sign**\n**hh:soc:Hoyer:Borgatecken**\n**hh:h:Moges:Eritrean-Sign**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**\n**hh:vw:Brudzewski:Portugal-Sign**\n**hh:hv:Mesch:Teckensprak**\n**hh:soc:Moges:Eritrean-Sign**"
+  }
+}

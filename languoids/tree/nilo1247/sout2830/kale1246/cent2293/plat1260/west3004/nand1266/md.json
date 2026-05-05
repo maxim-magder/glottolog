@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Nandi",
+    "hid": "niq",
+    "level": "language",
+    "iso639-3": "niq",
+    "latitude": "0.793737",
+    "longitude": "35.408478",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Nandi](https://grambank.clld.org/languages/nand1266)\n[Nandi](https://wals.info/languoid/lect/wals_code_nan)\nhttps://en.wikipedia.org/wiki/Naandi_language\nhttps://phoible.org/languages/nand1266\nhttps://www.wikidata.org/entity/Q6956591"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1345**\n**cldf:akinlabi:mutaka:01**\n**cldf:black:95**\n**cldf:creider:nd**\n**cldf:downing:00**\n**cldf:hollis:09**\n**cldf:huntingford:50**\n**cldf:huntingford:53:1**\n**cldf:mutaka:00**\n**cldf:mutaka:95**\n**cldf:mutaka:hyman:90**\n**cldf:snell:54**\n**eballiso2009:26647**\n**eballiso2009:28273**\n**eballiso2009:28284**\n**eballiso2009:44461**\n**eballiso2009:54150**\n**eballiso2009:6493**\n**hh:d:CreiderCreider:Nandi**\n**hh:e:Huntingford:Nandi**\n**hh:e:Langley:Kenya**\n**hh:es:Hollis:Nandi**\n**hh:g:CreiderCreider:Nandi**\n**hh:hew:Hobley:EUganda**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:s:Africa:Nandi**\n**hh:s:Bryson:Nandi**\n**hh:v:Moore:Nandi**\n**hh:w:Hobley:Kavirondo**\n**hh:w:Hobley:Oggiek**\n**hh:w:MacDonald:Juba-Expedition**\n**iso6393:2007-169**"
+  },
+  "altnames": {
+    "lexvo": "\nNandi [en]",
+    "hhbib_lgcode": "\nBarao HG"
+  },
+  "triggers": {
+    "lgcode": "\npresent AND biographies"
+  },
+  "identifier": {
+    "wals": "nan"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nandi (niq-niq) = 5* (Developing)."
+  }
+}

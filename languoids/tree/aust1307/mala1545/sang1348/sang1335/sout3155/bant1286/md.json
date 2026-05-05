@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bantik",
+    "hid": "bnq",
+    "level": "language",
+    "iso639-3": "bnq",
+    "latitude": "1.44586",
+    "longitude": "124.846",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2883521\nhttps://en.wikipedia.org/wiki/Bantik_language\n[Bantik](https://wals.info/languoid/lect/wals_code_bnt)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tsunoda:ed:01:4**\n**hh:hld:Riedel:NMCelebes**\n**hh:hv:Danie:Minahasa-Timur-Laut**\n**hh:hvw:MerrifieldSalea:NSulawesi**\n**hh:hw:Jansen:Talen-Menado**\n**hh:ld:Utsumi:Bantik**\n**hh:s:Bawole:Bantik**\n**hh:s:Sendewana-Runtuwene:Bantik**\n**hh:styp:Utsumi:Bantik**\n**hh:typ:Atsuko:Bantik**\n**hh:typ:Atsuko:Bantik:Applicative**\n**hh:typ:Bawole:Bantik**\n**hh:w:Stokhofetal:Holle:7:2**"
+  },
+  "altnames": {
+    "wals": "\nBantik",
+    "ruhlen (1987)": "\nBantik",
+    "moseley & asher (1994)": "\nBantik",
+    "lexvo": "\nBantik [en]\nBantik language [en]\nภาษาบันติก [th]",
+    "hhbib_lgcode": "\n3xBantik\nBantik JB 1939\nBantik NGB 1897\nBantiksch"
+  },
+  "triggers": {
+    "lgcode": "\nbantic\nbantik"
+  },
+  "identifier": {
+    "wals": "bnt"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sneddon:Proto-Sangiric** **hh:hv:Mead:Sulawesi:2024**:153",
+    "subrefs": "\n**hh:hvw:Sneddon:Proto-Sangiric**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bantik (bnq-bnq) = 8a (Moribund)."
+  }
+}

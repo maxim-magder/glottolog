@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Arop",
+    "hid": "aps",
+    "level": "language",
+    "iso639-3": "aps",
+    "latitude": "-3.06984",
+    "longitude": "142.12",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Arop](https://lexibank.clld.org/languages/abvdoceanic-Arop)\n[Arop-Sissano](https://grambank.clld.org/languages/arop1242)\nhttps://en.wikipedia.org/wiki/Arop_language\nhttps://www.wikidata.org/entity/Q12627242"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nystrom:94**\n**hh:e:Schleiermacher:Arop**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Friederici:Melanesische**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:phon:Whitacre:Arop**\n**hh:s:Whitacre:Arop-Sissano**\n**hh:w:Erdweg:Varopu**\n**sil16:35486**\n**sil16:47570**\n**silpng:silpng1991-2000:240**\n**silpng:silpng1991-2000:241**\n**silpng:silpng1991-2000:242**\n**silpng:silpng1991-2000:243**\n**silpng:silpng1991-2000:244**\n**silpng:silpng1991-2000:245**\n**silpng:silpng2001-2003:118**\n**silpng:silpng2001-2003:26**"
+  },
+  "altnames": {
+    "multitree": "\nArop\nArop-Sissano",
+    "lexvo": "\nArop-Sissano [en]",
+    "hhbib_lgcode": "\nArop\nArop-Sissano\nSissano-Arop",
+    "glottolog": "\nArop-Sissano"
+  },
+  "triggers": {
+    "lgcode": "\narop AND sissano"
+  },
+  "identifier": {
+    "multitree": "aps"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:120-132",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Orop (aps-aps) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Djinba",
+    "hid": "djb",
+    "level": "language",
+    "iso639-3": "djb",
+    "latitude": "-12.93",
+    "longitude": "134.967",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Djinba](https://endangeredlanguages.com/lang/4086)\n[Djinba](https://collection.aiatsis.gov.au/austlang/language/n97)\nhttps://en.wikipedia.org/wiki/Djinba_language\nhttps://phoible.org/languages/djin1252\nhttps://www.wikidata.org/entity/Q5285351"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:ed:09**\n**cldf:long:70**\n**cldf:macintosh:52**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:peterson:70**\n**cldf:peterson:73**\n**cldf:peterson:92:1**\n**cldf:peterson:92:2**\n**cldf:peterson:94**\n**cldf:peterson:ed:76**\n**cldf:peterson:long:86**\n**cldf:tryon:07**\n**hh:e:Keen:Yolngu**\n**hh:e:Warner:Murngin**\n**hh:g:Waters:Djinang**\n**hh:w:Capell:Forty-North-Australian**\n**ozbib:1860**\n**ozbib:1864**\n**ozbib:6076**\n**ozbib:6322**\n**ozbib:6487**\n**ozbib:6962**\n**ozbib:6963**\n**ozbib:971**"
+  },
+  "altnames": {
+    "multitree": "\nDjimba\nDjinba\nDyinba\nGanalbwingu\nJinba\nKurkamarnapia\nOutjanbah",
+    "lexvo": "\nDjinba [en]",
+    "hhbib_lgcode": "\n14 Djinba",
+    "elcat": "\nDjimba\nDjinba\nDyinba\nGanalbwingu\nJinba\nKurkamarnapia\nOutjanbah",
+    "aiatsis": "\nDaii\nDiakui\nDjimba\nDjinang\nDjinba\nGanalbwingu\nGunalbingu\nJinba\nKurkamarnapia\nOutjanbah\nRitharngu\nYolngu"
+  },
+  "triggers": {
+    "lgcode": "\ndjinba"
+  },
+  "identifier": {
+    "multitree": "djb;djb-dji",
+    "endangeredlanguages": "4086"
+  },
+  "classification": {
+    "sub": "**hh:g:Wilkinson:Djambarrpuyngu**:10-14 **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:g:Wilkinson:Djambarrpuyngu**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Djinba (4086-djb) = Severely Endangered (20 percent certain, based on the evidence available) [Waters 1989](cldf:waters:89)"
+  }
+}

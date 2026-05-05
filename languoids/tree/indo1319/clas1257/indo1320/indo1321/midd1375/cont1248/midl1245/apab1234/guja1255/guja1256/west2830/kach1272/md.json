@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kachi Koli",
+    "hid": "gjk",
+    "level": "language",
+    "iso639-3": "gjk",
+    "latitude": "24.2966",
+    "longitude": "69.1901",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kachi_Koli_language\nhttps://www.wikidata.org/entity/Q12953646"
+  },
+  "classification": {
+    "sub": "**hh:g:Woodland:Kachi-Gujerati**",
+    "subrefs": "\n**hh:g:Woodland:Kachi-Gujerati**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Young:Veil-Pakistan**\n**hh:g:Woodland:Kachi-Gujerati**\n**hh:he:Singh:Scheduled**\n**hh:hv:GraingerGrainger:Sind**\n**sil16:43261**\n**sil16:50354**"
+  },
+  "altnames": {
+    "multitree": "\nBajania\nKachi\nKachi Gujarati\nKatchi\nKohli\nKolhi\nKoli\nKoli, Kachi\nKori\nKuchi\nKuchikoli\nVagari\nVagaria\nVaghri",
+    "lexvo": "\nKachi Koli [en]",
+    "hhbib_lgcode": "\nKoli-Kachi\nKutchi Koli\nVaghri in Kutch district of Gujarat speak Sarhodi"
+  },
+  "triggers": {
+    "lgcode": "\nveil\nkachchi\nvadien\ngujerati\nsindh\nupholding"
+  },
+  "identifier": {
+    "multitree": "gjk"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koli, Kachi (gjk-gjk) = 5 (Developing)."
+  }
+}

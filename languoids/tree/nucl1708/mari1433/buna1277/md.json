@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Buna",
+    "hid": "bvn",
+    "level": "language",
+    "iso639-3": "bvn",
+    "latitude": "-3.95553",
+    "longitude": "144.119",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Buna](https://endangeredlanguages.com/lang/10570)\nhttps://www.wikidata.org/entity/Q3450516\nhttps://en.wikipedia.org/wiki/Buna_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Toyoda:Sepik**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:Torricelli**\n**hh:hvldsoc:SandersSanders:Marienberg**\n**hh:ld:Kirschbaum:Buna**\n**hh:ld:Kirschbaum:Deutsch-Neuguinea**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D26**"
+  },
+  "altnames": {
+    "lexvo": "\nBuna [en]",
+    "hhbib_lgcode": "\nBuna of Marienberg with is 9 nominal classes\nKakra\np 32 in pdf 59-III-nanga-nangte",
+    "elcat": "\nBuna"
+  },
+  "triggers": {
+    "lgcode": "\nneuguinea AND miscellanea"
+  },
+  "classification": {
+    "sub": "**hh:hvldsoc:SandersSanders:Marienberg**",
+    "subrefs": "\n**hh:hvldsoc:SandersSanders:Marienberg**"
+  },
+  "identifier": {
+    "endangeredlanguages": "10570"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Buna (10570-bvn) = Threatened (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

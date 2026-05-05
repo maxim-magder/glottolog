@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ottawa",
+    "hid": "otw",
+    "level": "language",
+    "iso639-3": "otw",
+    "latitude": "44.5988",
+    "longitude": "-83.226",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Ottawa](https://endangeredlanguages.com/lang/4938)\n[Ottawa](https://grambank.clld.org/languages/otta1242)\nhttps://en.wikipedia.org/wiki/Ottawa_dialect\nhttps://www.wikidata.org/entity/Q133678"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:kinietz:40:2**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:morgan:71**\n**cldf:rhodes:06**\n**hh:d:Piggott:Ojibwa**\n**hh:d:Rhodes:Eastern-Ojibwa-Chippewa**\n**hh:e:FeestFeest:Ottawa**\n**hh:e:WolffCash:Ottawa**\n**hh:hv:Rhodes:Eastern-Ojibwa-Odawa**\n**hh:phon:Piggott:Odawa**\n**hh:s:Blackbird:Chippewa**\n**hh:s:Holmer:Ojibway**\n**hh:st:Bloomfield:Eastern-Ojibwa**\n**hh:typ:KatholRhodes:Ojibwe**\n**hh:typ:Rhodes:Algonquian-Relative-Root**\n**ldh:item_406544**\n**mpieva:Piggott1980Aspectso**"
+  },
+  "altnames": {
+    "multitree": "\nChippewa\nChippeway\nEastern Ojibwa\nOdawa\nOjibwa\nOjibway\nOjibwe\nOttawa\nOttawa (Canada)\nOttawa (Michigan)\nOttawa (île Walpole)\nOyibua odahua (Isla de Walpole)",
+    "lexvo": "\nOttawa [en]\nOttawa language [en]",
+    "hhbib_lgcode": "\nBay City-Michigan\nCape Croker-Ontario\nCross Village\nManitoulin\nOdawa\nOjibwa of Wikwemikong at the E end of Manitoulin Island in Ontario\nOjibway on Walpole\nOttawa dialect unless otherwise noted\nSarnia-Ontario\nThis is Ottawa of Walpole island\nThis is supposed to be Ottawa\nWalpole Island",
+    "elcat": "\nEastern Ojibwa\nOdaawaa\nOdawa\nOttawa"
+  },
+  "triggers": {
+    "lgcode": "\nodawa\nwalpole\nnishnaabemwin\nottawa"
+  },
+  "identifier": {
+    "multitree": "otw",
+    "endangeredlanguages": "4938"
+  },
+  "classification": {
+    "sub": "**hh:hv:RhodesTodd:Subarctic-Algonquian**:62",
+    "subrefs": "\n**hh:hv:RhodesTodd:Subarctic-Algonquian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ottawa (4938-otw) = Severely Endangered (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

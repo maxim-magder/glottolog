@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Pidgin Delaware",
+    "hid": "dep",
+    "level": "language",
+    "iso639-3": "dep",
+    "latitude": "38.569",
+    "longitude": "-75.463",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Pidgin_Delaware\nhttps://www.wikidata.org/entity/Q1183938"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:vanderVoortBakker:Polysynthesis-Contact**\n**hh:hvw:deLaet:Americae**\n**hh:s:Goddard:Delaware-Jargon**\n**hh:s:Goddard:PidginDelaware**\n**hh:vld:Holmer:Delaware**\n**hh:w:Denny:Delaware**\n**hh:w:Holm:Unami**\n**hh:w:Prince:NJ**\n**hh:w:Prince:New-Jersey-Indian**\n**ldh:item_1920236**"
+  },
+  "altnames": {
+    "multitree": "\nDelaware\nDelaware, Pidgin",
+    "lexvo": "\nPidgin Delaware [en]",
+    "hhbib_lgcode": "\nCampanius Delaware\nDelaware Jargon\nDelaware-Pidgin\nNew Jersey Indian Jargon\nSankikanorum (see p 82 of Goddard 1997)"
+  },
+  "triggers": {
+    "lgcode": "\ndelaware AND dennys"
+  },
+  "identifier": {
+    "multitree": "dep"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Delaware, Pidgin (dep-dep) = 10 (Extinct)."
+  }
+}

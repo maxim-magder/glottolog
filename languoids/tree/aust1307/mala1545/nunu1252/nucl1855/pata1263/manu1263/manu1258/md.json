@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Manusela",
+    "hid": "wha",
+    "level": "language",
+    "iso639-3": "wha",
+    "latitude": "-3.1109",
+    "longitude": "129.429",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Manusela](https://grambank.clld.org/languages/manu1258)\nhttps://en.wikipedia.org/wiki/Manusela_language\nhttps://www.wikidata.org/entity/Q3287127"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Taber:Maluku**\n**hh:hld:Grimes:Central-Maluku**\n**hh:hs:Tauern:Seran**\n**hh:hv:Collins:Maluku**\n**hh:hv:LoskiLoski:ESeram**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hv:Taguchi:WSeram**\n**hh:s:Chlenova:Manusela**\n**hh:w:MacDonald:Nusaweleh**\n**hh:w:Stokhofetal:Holle:3:1**\n**iso6393:2015-006**"
+  },
+  "altnames": {
+    "multitree": "\nManusela\nWahai\nWahinama",
+    "lexvo": "\nManusela [en]",
+    "hhbib_lgcode": "\nAir Besar\nHatuolo\nKanikeh\nManeo Ratu\nManeo Rendah\nManeorendah\nManusela (Kowa)\nNusaweleh\nPiliana\nSou Upaa\nSouth Manusela\nWahinama\nWanasa\nYamahema"
+  },
+  "triggers": {
+    "lgcode": "\nmanusela\nserama\ntsentralnogo"
+  },
+  "identifier": {
+    "multitree": "wha"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sou Upaa (wha-wha) = 6b (Threatened)."
+  }
+}

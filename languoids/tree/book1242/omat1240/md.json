@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Omati",
+    "hid": "mgx",
+    "level": "language",
+    "iso639-3": "mgx",
+    "latitude": "-7.39808",
+    "longitude": "144.005",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2011-081**"
+  },
+  "altnames": {
+    "multitree": "\nImi\nMini\nOmati",
+    "lexvo": "\nOmati [en]"
+  },
+  "iso_retirement": {
+    "comment": "Omati is the name of a village, and not the name of a language, so the name\nOmati should be replaced by the two new names: Mouwase and Barikewa. Although\nreports indicate that there is some mutual intelligibility between speakers of\nthe Mouwase and Barikewa languages, speakers of these languages see themselves\nas having distinct linguistic identities. They recognize that both languages are\npart of the \"Kaser\" subgroup, but still identify Mouwase and Barikewa as\nseparate varieties. Lexicostatistics confirms their status as separate\nlanguages, as there is only 38% lexical similarity between them.",
+    "code": "mgx",
+    "name": "Omati",
+    "effective": "2012-02-03",
+    "remedy": "Split into Barikewa [jbk] and Mouwase [jmw]",
+    "reason": "split",
+    "change_request": "2011-081",
+    "change_to": "\njbk\njmw"
+  },
+  "identifier": {
+    "multitree": "mgx"
+  }
+}

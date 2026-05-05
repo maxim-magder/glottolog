@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Loniu",
+    "hid": "los",
+    "level": "language",
+    "iso639-3": "los",
+    "latitude": "-2.06124",
+    "longitude": "147.35",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Loniu](https://grambank.clld.org/languages/loni1238)\n[Loniu](https://lexibank.clld.org/languages/abvdoceanic-Loniu)\n[Loniu](https://wals.info/languoid/lect/wals_code_lon)\nhttps://en.wikipedia.org/wiki/Loniu_language\nhttps://phoible.org/languages/loni1238\nhttps://www.wikidata.org/entity/Q3259202"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:75:1**\n**cldf:hamel:93**\n**hh:g:Hamel:Loniu**\n**hh:g:Hamel:Loniu:1985**\n**hh:hv:Ross:WMelanesia**\n**hh:wtyp:Blust:Loniu**\n**mpieva:Hamel1985Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nLoniu",
+    "ruhlen (1987)": "\nLoniu",
+    "moseley & asher (1994)": "\nLoniu",
+    "multitree": "\nAdmiralitäts-inseln\nLonio\nLoniu\nNdroku",
+    "lexvo": "\nLoniu [en]"
+  },
+  "triggers": {
+    "lgcode": "\nloniu"
+  },
+  "identifier": {
+    "wals": "lon",
+    "multitree": "los"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:315-345",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Loniu (los-los) = 6a (Vigorous)."
+  }
+}

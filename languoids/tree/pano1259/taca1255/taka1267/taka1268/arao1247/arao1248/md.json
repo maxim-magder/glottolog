@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Araona",
+    "hid": "aro",
+    "level": "language",
+    "iso639-3": "aro",
+    "latitude": "-12.4242",
+    "longitude": "-67.7293",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Araona](https://endangeredlanguages.com/lang/3858)\n[Araona](https://grambank.clld.org/languages/arao1248)\n[Araona](https://wals.info/languoid/lect/wals_code_ana)\nhttps://en.wikipedia.org/wiki/Araona_language\nhttps://phoible.org/languages/arao1248\nhttps://www.wikidata.org/entity/Q958414"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:fonseca:10**\n**cldf:ed:10**\n**cldf:gonzalez:97**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:8232**\n**fabreall2009ann:8233**\n**fabreall2009ann:Pano-Takana73**\n**fabreall2009ann:Pano-Takana_araona00**\n**fabreall2009ann:Pano-Takana_araona02**\n**fabreall2009ann:Pano-Takana_araona03**\n**fabreall2009ann:Pano-Takana_araona04**\n**fabreall2009ann:Pano-Takana_araona05**\n**fabreall2009ann:Pano-Takana_araona06**\n**fabreall2009ann:Pano-Takana_araona07**\n**fabreall2009ann:Pano-Takana_araona08**\n**fabreall2009ann:Pano-Takana_araona09**\n**fabreall2009ann:Pano-Takana_araona10**\n**fabreall2009ann:Pano-Takana_araona11**\n**fabreall2009ann:Pano-Takana_araona12**\n**fabreall2009ann:Pano-Takana_araona13**\n**fabreall2009ann:Pano-Takana_araona14**\n**hh:d:dePittman:Araona**\n**hh:g:Emkow:Araona**\n**hh:g:Emkow:Araona:2019**\n**hh:g:Pitman:Araona**\n**hh:h:Balzan:Centrale-America-Meriodionale**\n**hh:hew:Armentia:Madre-de-Dios**\n**hh:phonsoc:Gonzalez:Araona**\n**hh:s:Emkow:Araona**\n**sil16:12074**\n**sil16:12075**\n**sil16:12928**\n**sil16:12929**\n**sil16:12930**\n**sil16:12931**\n**sil16:12932**\n**sil16:15259**\n**sil16:16378**\n**sil16:16380**\n**sil16:19149**"
+  },
+  "altnames": {
+    "wals": "\nAraona",
+    "ruhlen (1987)": "\nAraona",
+    "moseley & asher (1994)": "\nAraona",
+    "multitree": "\nAraona\nCarina\nCavina\nSouthern Quechua\nTahuantisuyo",
+    "lexvo": "\nAraona [en]\nAraonų kalba [lt]\nIdioma araona [es]",
+    "hhbib_lgcode": "\nAraonas",
+    "elcat": "\nAraona\nCarina\nCavina"
+  },
+  "triggers": {
+    "lgcode": "\naraonas\npando\nriberalta\njilica\naraona\neyecana\nlaraona"
+  },
+  "identifier": {
+    "wals": "ana",
+    "multitree": "aro",
+    "endangeredlanguages": "3858"
+  },
+  "classification": {
+    "sub": "**hh:hv:Loukotka:SAmerica**, **hh:hv:Guillaume:Motion-Tacanan**",
+    "subrefs": "\n**hh:hv:Loukotka:SAmerica**\n**hh:hv:Guillaume:Motion-Tacanan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Araona (3858-aro) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

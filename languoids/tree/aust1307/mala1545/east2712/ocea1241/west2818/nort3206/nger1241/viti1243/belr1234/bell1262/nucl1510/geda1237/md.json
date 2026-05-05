@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gedaged",
+    "hid": "gdd",
+    "level": "language",
+    "iso639-3": "gdd",
+    "latitude": "-5.18175",
+    "longitude": "145.781",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Gedaged](https://grambank.clld.org/languages/geda1237)\n[Gedaged](https://lexibank.clld.org/languages/abvdoceanic-Gedaged)\nhttps://en.wikipedia.org/wiki/Gedaged_language\nhttps://www.wikidata.org/entity/Q35292"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dempwolff:nd**\n**hh:d:Mager:Gedaged**\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:hb:Zgraggen:Madang**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Lithgow:Milne**\n**hh:hvld:Zgraggen:Madang**\n**hh:hvtyp:Ross:Bel**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:hw:vonMiklucho-Maclay:Papua-Maclay**\n**hh:ld:BergmannKunze:Siar-Karkar**\n**hh:s:Dempwolff:Graged**\n**hh:w:Friederici:Nakanai**\n**hh:w:Mager:Gedaged**\n**hh:w:vonMiklucho-Maclay:Maklaya**\n**mpieva:Dempwolff1969DieLaute**"
+  },
+  "altnames": {
+    "multitree": "\nBel\nGedaged\nGraged\nMitebog\nRagetta\nRio\nSek\nStar\nStar-Ragetta\nSzeak-Bagili\nTiara",
+    "lexvo": "\nGedaged [de]\nGedaged language [en]",
+    "hhbib_lgcode": "\nBagili\nGraget\nMitebog\nRio\nSiar\nSiar X4\nSiar-Ragetta\nSzeak\nSzeak-Bagili\nTiara\nZiwo/Riwo"
+  },
+  "triggers": {
+    "lgcode": "\nsudseesprachen\ngedaged\ngraged"
+  },
+  "identifier": {
+    "multitree": "gdd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gedaged (gdd-gdd) = 5* (Developing)."
+  }
+}

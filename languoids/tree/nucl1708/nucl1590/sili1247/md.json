@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Siliput",
+    "hid": "mkc",
+    "level": "language",
+    "iso639-3": "mkc",
+    "latitude": "-3.60838",
+    "longitude": "142.397",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Siliput](https://endangeredlanguages.com/lang/10559)\nhttps://www.wikidata.org/entity/Q7515090\nhttps://en.wikipedia.org/wiki/Siliput_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hld:Lean:Sandaun**\n**hh:hsoc:Bigenhagen:MehekSiliput**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:w:Laycock:C9**"
+  },
+  "altnames": {
+    "multitree": "\nMai\nMaimai\nSiliput\nSokorok",
+    "lexvo": "\nSiliput [en]",
+    "elcat": "\nMai\nMaimai\nSeleput\nSiliput\nSokorok"
+  },
+  "triggers": {
+    "lgcode": "\na AND siliput"
+  },
+  "identifier": {
+    "multitree": "mkc",
+    "endangeredlanguages": "10559"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:Hutchinson:Heyoetc**:130 **hh:hvw:Laycock:Lumi**:48",
+    "subrefs": "\n**hh:hsoc:Hutchinson:Heyoetc**\n**hh:hvw:Laycock:Lumi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Siliput (10559-mkc) = Endangered (40 percent certain, based on the evidence available) [Bugenhagen 1981](cldf:bugenhagen:81)"
+  }
+}

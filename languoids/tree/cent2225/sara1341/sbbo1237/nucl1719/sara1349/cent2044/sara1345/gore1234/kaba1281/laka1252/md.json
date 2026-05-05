@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Laka of Lau (Nigeria)",
+    "hid": "lak",
+    "level": "dialect",
+    "iso639-3": "lak",
+    "latitude": "9.14965",
+    "longitude": "11.228",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Lau_Laka_language\nhttps://www.wikidata.org/entity/Q6474529"
+  },
+  "classification": {
+    "sub": "**hh:hv:Elders:Kebi-Benue**",
+    "subrefs": "\n**hh:hv:Elders:Kebi-Benue**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Boyd:Adamawa-Ubangi**\n**iso6393:2021-026**"
+  },
+  "altnames": {
+    "multitree": "\nGodogodo\nLaka\nLakka\nLao Habe\nLau",
+    "lexvo": "\nLaka (Nigeria) [en]\nLaka [en]",
+    "hhbib_lgcode": "\nLaka",
+    "glottolog": "\nLaka (Nigeria)"
+  },
+  "triggers": {
+    "lgcode": "\nNOT sprache AND mbakka"
+  },
+  "identifier": {
+    "multitree": "lak"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E24",
+    "date": "2021-03-15T20:30:07",
+    "comment": "Laka (lak-lak) = 6a* (Vigorous)."
+  },
+  "iso_retirement": {
+    "code": "lak",
+    "name": "Laka (Nigeria)",
+    "effective": "2022-01-20",
+    "reason": "merge",
+    "change_to": "\nksp",
+    "remedy": "Merged into [ksp] Kaba",
+    "change_request": "2021-026"
+  }
+}

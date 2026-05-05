@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Zimbabwe Sign Language",
+    "hid": "zib",
+    "level": "language",
+    "iso639-3": "zib",
+    "latitude": "-17.9128",
+    "longitude": "31.0216",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ZW"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q8072097\nhttps://en.wikipedia.org/wiki/Zimbabwean_sign_languages"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Mhlanga:Zimbabwean-Sign**\n**hh:soc:Chimedza:Deaf-Zimbabwe**\n**hh:soc:Chimedza:Sign-Zimbabwe:1995**"
+  },
+  "altnames": {
+    "multitree": "\nZimbabwe Sign Language\nZimsign",
+    "lexvo": "\nZimbabwe Sign Language [en]",
+    "hhbib_lgcode": "\nManicaland Zimbabwe Sign\nMashonaland Zimbabwe Sign\nMasvingo Zimbabwe Sign\nMatebeleland Zimbabwe Sign\nMidlands Zimbabwe Sign"
+  },
+  "triggers": {
+    "lgcode": "\nacademic\nzimbabwean\nachievement"
+  },
+  "identifier": {
+    "multitree": "zib"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zimbabwe Sign Language (zib-zib) = 5 (Developing). Recognized language (2010, Constitution, Article 6(1))."
+  },
+  "classification": {
+    "sub": "Internally diverse (**hh:soc:Chimedza:Sign-Zimbabwe:1995**) but nothing said regarding provenance (**hh:d:Mhlanga:Zimbabwean-Sign**, **hh:soc:Chimedza:Deaf-Zimbabwe**, **hh:soc:Chimedza:Sign-Zimbabwe:1995**). A presumed language isolate.",
+    "subrefs": "\n**hh:soc:Chimedza:Sign-Zimbabwe:1995**\n**hh:d:Mhlanga:Zimbabwean-Sign**\n**hh:soc:Chimedza:Deaf-Zimbabwe**"
+  }
+}

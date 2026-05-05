@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sanaani Arabic",
+    "hid": "ayn",
+    "level": "language",
+    "iso639-3": "ayn",
+    "latitude": "15.6552",
+    "longitude": "44.8412",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SA",
+      "YE"
+    ],
+    "links": "\n[Arabic (San'ani)](https://wals.info/languoid/lect/wals_code_ars)\n[Sanaani Arabic](https://grambank.clld.org/languages/sana1295)\nhttps://en.wikipedia.org/wiki/San%CA%BDani_Arabic\nhttps://www.wikidata.org/entity/Q56578"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1557**\n**cldf:hazard:56**\n**cldf:watson:93:2**\n**hh:d:Behnstedt:Nordjemenitischen:1992**\n**hh:d:Qafisheh:Yemeni**\n**hh:dial:Behnstedt:Nordjemenitischen:1985**\n**hh:dial:Behnstedt:North-Yemen:2016**\n**hh:g:Naim:Yemenite**\n**hh:g:Qafisheh:Yemeni**\n**hh:g:Rossi:Sana**\n**hh:g:Watson:Sanani-Arabic**\n**hh:g:Watson:Sanani-Arabic:1996**\n**hh:he:KislyakovPersits:Perednej-Azii**\n**hh:s:Abbas:Farasani**\n**hh:s:Behnstedt:Sacdah**\n**hh:s:Bettini:Baraddun**\n**hh:s:Diem:Jemenitischer**\n**hh:st:Werbeck:Manaha**\n**hh:st:Werbeck:Manaha:1997**\n**hh:t:Behnstedt:Hugairah**\n**hh:typ:Greenman:Yamani-Tihamah**\n**mpieva:Watson1993Asyntaxo**"
+  },
+  "altnames": {
+    "wals": "\nArabic (San'ani)",
+    "wals other": "\nArabic (North Yemen)\nArabic (Northern Yemeni)\nArabic (Sanaani Spoken)",
+    "moseley & asher (1994)": "\nArabic (Eastern)",
+    "multitree": "\nArabic\nArabic (San'ani)\nArabic, Sanaani Spoken\nNorthern Yemeni Arabic\nSanaani Arabic\nSanaani Spoken",
+    "lexvo": "\nSanaani Arabic [en]\nSjevernojemenski arapski [hr]",
+    "hhbib_lgcode": "\nArabic-Sanaani Spoken\nAraby Jemena\nFarasani\nGegend von Ṣaʕdah\nN High Plateau\nN Yemeni Arabic\nS High Plateau\nSanaani Spoken"
+  },
+  "triggers": {
+    "lgcode": "\ntihamah\nnordjemenitischen\nntcs\nbaraddun\nsullarabo\njemenitischer\njemen\ncdah\nyemenite\nshahtu\nsanaa\nsanani\nyamani"
+  },
+  "identifier": {
+    "wals": "ars",
+    "multitree": "ayn"
+  },
+  "classification": {
+    "sub": "**hh:typ:Shachmon:Jewish-Yemeni**:158",
+    "subrefs": "\n**hh:typ:Shachmon:Jewish-Yemeni**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Sanaani (ayn-ayn) = 6a* (Vigorous). De facto language of provincial identity in North Yemen."
+  }
+}

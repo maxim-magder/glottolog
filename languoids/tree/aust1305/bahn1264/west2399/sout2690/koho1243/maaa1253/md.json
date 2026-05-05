@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Maa",
+    "hid": "cma",
+    "level": "language",
+    "iso639-3": "cma",
+    "latitude": "11.5205",
+    "longitude": "107.339",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\n[M.Dip](https://lexibank.clld.org/languages/peirosaustroasiatic-MDip)\nhttps://www.wikidata.org/entity/Q12953680"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Marty:Ma**\n**hh:ew:Boulbet:Ma**\n**hh:hvw:Le:Maa-Koho**"
+  },
+  "altnames": {
+    "multitree": "\nChau-Ma\nChauma\nChe Ma\nMa\nMa Krung\nMa Ngan\nMa To\nMa Xop\nMaa\nMaa'\nMaaq",
+    "lexvo": "\nMaa [en]",
+    "hhbib_lgcode": "\nMaa Dagui"
+  },
+  "triggers": {
+    "lgcode": "\nverb AND keekonyokie\ngenies\nnggar\nyaang\nchau\nprotoindochinoise\ndethno"
+  },
+  "identifier": {
+    "multitree": "cma"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:SBahnaric**",
+    "subrefs": "\n**hh:hv:Sidwell:SBahnaric**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maa (cma-cma) = 6a* (Vigorous). Language of recognized ethnic group: Ma."
+  }
+}

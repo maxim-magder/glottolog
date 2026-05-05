@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tukang Besi North",
+    "hid": "khc",
+    "level": "language",
+    "iso639-3": "khc",
+    "latitude": "-5.30994",
+    "longitude": "123.578",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tukang Besi](https://wals.info/languoid/lect/wals_code_tuk)\n[Tukang Besi North](https://grambank.clld.org/languages/tuka1248)\nhttps://phoible.org/languages/tuka1248\nhttps://www.wikidata.org/entity/Q18611555"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Donohue:TukangBesi**\n**hh:hv:vandenBerg:Muna-Buton:2003**\n**hh:hv:vandenBerg:Munic**\n**hh:hvw:Donohue:Tukang-Besi**\n**hh:hvw:Susiati:Sulawesi-Tenggara**\n**hh:hw:Kaseng:Sulawesi-Tenggara**\n**hh:ld:Susiati:Wakatobi**"
+  },
+  "altnames": {
+    "multitree": "\nButon\nTukang Besi\nTukang Besi North\nWakatobi",
+    "lexvo": "\nTukang Besi North [en]",
+    "hhbib_lgcode": "\nTukangbesi\nWakatobi\nWanci"
+  },
+  "triggers": {
+    "lgcode": "\nof AND tukang\nbesi\ntukang"
+  },
+  "identifier": {
+    "multitree": "khc"
+  },
+  "classification": {
+    "sub": "**hh:hv:vandenBerg:Muna-Buton:2003** **hh:hv:Donohue:Muna-Buton**",
+    "subrefs": "\n**hh:hv:vandenBerg:Muna-Buton:2003**\n**hh:hv:Donohue:Muna-Buton**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tukang Besi North (khc-khc) = 6b (Threatened)."
+  }
+}

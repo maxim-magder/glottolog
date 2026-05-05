@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Bodo Gadaba",
+    "hid": "gbj",
+    "level": "language",
+    "iso639-3": "gbj",
+    "latitude": "18.3857",
+    "longitude": "82.771",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Bodo Gadaba](https://grambank.clld.org/languages/bodo1267)\n[Gutob](https://endangeredlanguages.com/lang/5620)\n[Gutob](https://wals.info/languoid/lect/wals_code_gdb)\nhttps://en.wikipedia.org/wiki/Gutob_language\nhttps://phoible.org/languages/bodo1267\nhttps://www.wikidata.org/entity/Q3347070"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:subbarao:patnaik:92**\n**hh:d:Muduli:Gadaba**\n**hh:e:Berger:Hochland-Orissa**\n**hh:e:Narayanrao:Gadaba**\n**hh:e:Ramadas:Gadabas**\n**hh:es:Subba:Gadaba**\n**hh:hld:Yeatts:Languages**\n**hh:hvwld:Grierson:4**\n**hh:s:Ghosh:Gutob**\n**hh:s:Griffiths:Gutob**\n**hh:s:Mohanty:Bhasa**\n**hh:s:Rajan:Gutob**\n**hh:typ:Just:Differential-Indexing**\n**hh:typ:Just:Gutob**\n**hh:typ:Voss:Gutob**\n**hh:typd:Gauda:Gadaba**\n**hh:w:Glasfurd:Gudwa**\n**hh:w:Muduli:Gadaba**"
+  },
+  "altnames": {
+    "wals": "\nGadaba",
+    "ruhlen (1987)": "\nGutob",
+    "moseley & asher (1994)": "\nGutob",
+    "multitree": "\nBodo\nBodo-Gadaba\nBoi Gadaba\nGadaba\nGadaba, Bodo\nGadba\nGadwa\nGodwa\nGoutob\nGudwa\nGutob\nGutop\nSodia",
+    "lexvo": "\nBodo Gadaba [en]\nGadabeg [br]\nGutob language [en]",
+    "hhbib_lgcode": "\nAndhra Gutob\nGadaba\nGadaba-Bodo\nGadabas of Vizagapatam-Bastar-Kalahandi\nGudwa\nGutob\nGutob in Andhra Pradesh\nMunda Gadaba",
+    "elcat": "\nBodo\nBodo-Gadaba\nBoi Gadaba\nGadaba\nGadba\nGadwa\nGodwa\nGudwa\nGutob\nGutop\nSodia"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND gadaba\nbustar"
+  },
+  "identifier": {
+    "wals": "gdb",
+    "multitree": "gbj",
+    "endangeredlanguages": "5620"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderson:Munda** **hh:hvld:Anderson:Proto-Munda**:159-160",
+    "subrefs": "\n**hh:hv:Anderson:Munda**\n**hh:hvld:Anderson:Proto-Munda**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Gutob (5620-gbj) = Endangered (80 percent certain, based on the evidence available) (Many speakers are shifting to Desiya in home and religious domains. Desiya preferred by young people.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

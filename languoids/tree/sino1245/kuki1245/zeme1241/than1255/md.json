@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Thangal Naga",
+    "hid": "nki",
+    "level": "language",
+    "iso639-3": "nki",
+    "latitude": "25.3472",
+    "longitude": "93.8396",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Khoirao](https://lexibank.clld.org/languages/marrisonnaga-Khoirao)\n[Thangal Naga](https://endangeredlanguages.com/lang/5646)\nhttps://en.wikipedia.org/wiki/Khoirao_language\nhttps://www.wikidata.org/entity/Q56374"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:thangmi:12**\n**hh:e:Devi:Thangal**\n**hh:e:Thangmi:Thangal-Naga**\n**hh:e:Thangmi:Thangal:2002**\n**hh:g:McDonough:Thangal**\n**hh:g:Singh:Thangal**\n**hh:g:Singh:Thangal:2011**\n**hh:h:Haokip:Kuki-Chin**\n**hh:h:Stirn:Naga**\n**hh:he:Hodson:Naga-Manipur**\n**hh:hew:McCulloch:Munnipore**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:phon:Singh:Thangal:2000**\n**hh:typ:Devi:Thangal**"
+  },
+  "altnames": {
+    "multitree": "\nKhoirao\nKhoirao Naga\nKoirao\nKolya\nLiyāng\nMayangkhang\nMiyang-Khang\nMiyāng Khāng\nNaga, Thangal\nNaga,Thangal\nNgari\nThangal\nThanggal\nTukaimi",
+    "lexvo": "\nThangal Naga [en]",
+    "hhbib_lgcode": "\nKhoirao\nKoirao\nKolya/Khoirao/Mayang Khong\nMaram (Khoirao)\nMaram (wrongly labelled as in the list is in fact Khoirao)\nMiyangkhang\nNaga-Thangal\nThangal\nTukai Mee",
+    "elcat": "\nKhoirao\nKhoirao Naga\nKoirao\nKolya\nLiyāng\nMayangkhang\nMiyang-Khang\nMiyāng Khāng\nNaga\nNgari\nThangal\nThangal Naga\nThanggal\nTukaimi"
+  },
+  "identifier": {
+    "multitree": "nki",
+    "endangeredlanguages": "5646"
+  },
+  "classification": {
+    "sub": "**hh:hv:Burling:NEIndia** **hh:hv:PostBurling:NEIndia**",
+    "subrefs": "\n**hh:hv:Burling:NEIndia**\n**hh:hv:PostBurling:NEIndia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Thangal Naga (5646-nki) = Vulnerable (20 percent certain, based on the evidence available) [Anderson 2012](cldf:anderson:12)"
+  }
+}

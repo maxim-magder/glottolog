@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Herero",
+    "hid": "her",
+    "level": "language",
+    "iso639-3": "her",
+    "latitude": "-21.0231",
+    "longitude": "20.5655",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "BW",
+      "NA"
+    ],
+    "links": "\n[Herero](https://endangeredlanguages.com/lang/10431)\n[Herero](https://grambank.clld.org/languages/here1253)\n[Herero](https://wals.info/languoid/lect/wals_code_her)\nhttps://en.wikipedia.org/wiki/Herero_language\nhttps://phoible.org/languages/here1253\nhttps://www.wikidata.org/entity/Q33315"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:batibo:smieja:ed:00:1**\n**cldf:elderkin:01**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:irle:06**\n**cldf:kavari:93**\n**cldf:maho:ed:98:6**\n**cldf:moehlig:03**\n**cldf:ohly:02**\n**cldf:waernloef:98**\n**eballiso2009:14692**\n**eballiso2009:1495**\n**eballiso2009:16036**\n**eballiso2009:16037**\n**eballiso2009:16127**\n**eballiso2009:16130**\n**eballiso2009:16937**\n**eballiso2009:18976**\n**eballiso2009:18977**\n**eballiso2009:21821**\n**eballiso2009:25063**\n**eballiso2009:27348**\n**eballiso2009:28707**\n**eballiso2009:30696**\n**eballiso2009:31081**\n**eballiso2009:31085**\n**eballiso2009:31915**\n**eballiso2009:38411**\n**eballiso2009:3869**\n**eballiso2009:38842**\n**eballiso2009:40525**\n**eballiso2009:44108**\n**eballiso2009:44142**\n**eballiso2009:44561**\n**eballiso2009:45896**\n**eballiso2009:48417**\n**eballiso2009:51848**\n**eballiso2009:55644**\n**eballiso2009:55653**\n**eballiso2009:55655**\n**eballiso2009:57427**\n**eballiso2009:57928**\n**eballiso2009:6096**\n**eballiso2009:9801**\n**hh:d:Kolbe:Herero**\n**hh:d:Nguaiko:Otjiherero**\n**hh:d:Viljoen:Otjiherero**\n**hh:e:Vedder:Herero:1928**\n**hh:e:Vivelo:Herero**\n**hh:ew:Irle:Herero**\n**hh:g:Booysen:Otjiherero**\n**hh:g:Hahn:Herero**\n**hh:g:Mohlig:Herero**\n**hh:h:Westphal:Ngamiland**\n**hh:he:Schlosser:Herero**\n**hh:hld:AnderssonJanson:Botswana**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hw:Schinz:Deutsch-Sudwest-Afrika**\n**hh:s:Brockmann:Herero**\n**hh:s:Buttner:Damaraland**\n**hh:s:Elderkin:Herero**\n**hh:s:Kavari:Otjiherero**\n**hh:s:Meinhof:Herero**\n**hh:s:Mohligetal:Herero**\n**hh:s:Ohly:Herero**\n**hh:s:Seidel:Hauptsprachen**\n**hh:sd:Brincker:Otji-Herero**\n**hh:sd:Viehe:Otjiherero**\n**hh:v:Mohlig:Herero**\n**hh:w:Andersson:Tioge**"
+  },
+  "altnames": {
+    "wals": "\nHerero",
+    "wals other": "\nOchiherero\nOtjiherero",
+    "ruhlen (1987)": "\nHerero",
+    "moseley & asher (1994)": "\nHerero",
+    "multitree": "\nHerero\nOchiherero\nOtjiherero",
+    "lexvo": "\nBahasa Herero [ms]\nHerera lingvo [eo]\nHerereg [br]\nHerero [ca]\nHerero dili [tr]\nHerero language [en]\nHereron kieli [fi]\nHererų kalba [lt]\nHéréro [fr]\nIdioma herero [es]\nJęzyk herero [pl]\nLimba herero [ro]\nLingua herero [it]\nLíngua hereró [pt]\nOtjiherero [de]\nherero [fr]\nГереро [ru]\nГерэрская мова [be]\nहीरीरो भाषा [hi]\nภาษาเฮเรโร [th]\nヘレロ語 [ja]",
+    "hhbib_lgcode": "\nHerero R31\nOtjihereo\nOtjiherero\nOtyiherero\nR31_Herero",
+    "elcat": "\nHerero\nOchiherero\nOtjiherero"
+  },
+  "triggers": {
+    "lgcode": "\nhererosprache\novaherero\notjiherero\novambanderu\nherero"
+  },
+  "identifier": {
+    "wals": "her",
+    "multitree": "her",
+    "endangeredlanguages": "10431"
+  },
+  "classification": {
+    "sub": "**hh:s:Elderkin:Herero**:583 **hh:hv:Vansina:West-Central-Africa**:273-283",
+    "subrefs": "\n**hh:s:Elderkin:Herero**\n**hh:hv:Vansina:West-Central-Africa**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Herero (10431-her) = Vulnerable (20 percent certain, based on the evidence available) [Kavari 1993](cldf:kavari:93)"
+  }
+}

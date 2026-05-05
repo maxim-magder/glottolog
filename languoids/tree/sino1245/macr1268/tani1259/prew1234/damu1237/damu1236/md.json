@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Damu",
+    "hid": "NOCODE_Damu",
+    "level": "language",
+    "latitude": "29.483",
+    "longitude": "95.5",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN",
+      "IN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Adi_languages\nhttps://www.wikidata.org/entity/Q56440"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Sun:Tani**\n**hh:phonw:Ouyang:Bengni-Damu**"
+  },
+  "altnames": {
+    "glottolog": "\nAdi",
+    "wals": "\nBokar\nBori\nGallong\nMilang",
+    "wals other": "\nMilan",
+    "ruhlen (1987)": "\nAdi",
+    "moseley & asher (1994)": "\nAdi",
+    "multitree": "\nAbhor\nAbor\nAbor-Miri\nAdi\nAdi-Bokar\nBengni\nBengni-Boga'er\nBoga'er\nBoga'er Luoba\nBokar\nBori\nGallong\nGalong\nLho-Pa\nLhoba\nLuoba\nMilang\nMinyong\nMiri\nMiśing\nNa Bengni\nPasi (adi)\nTangam",
+    "lexvo": "\nAdi [en]",
+    "hhbib_lgcode": "\nDamu-Bokar"
+  },
+  "identifier": {
+    "wals": "mil;boj;gal;boq",
+    "multitree": "adi;adi-gal"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Damu (NOCODE_Damu-NOCODE_Damu) = 7 (Shifting)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Damu, a small group often subsumed with Bokar (itself subsumed under Adi [adi] in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29), speak a language not intelligible to Bokar (**hh:hld:ShearerHongkai:China**:237, **hh:phonw:Ouyang:Bengni-Damu**) and arguably does not even subgroup with it (**hh:hv:Post:Defoliating-Tani**). See also: Bori-Karko [adi].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Damu"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nalögo",
+    "hid": "nlz",
+    "level": "language",
+    "iso639-3": "nlz",
+    "latitude": "-10.8",
+    "longitude": "165.8",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Nalögo](https://grambank.clld.org/languages/nalo1235)\nhttps://en.wikipedia.org/wiki/Nal%C3%B6go_language\nhttps://www.wikidata.org/entity/Q20527138"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Alfarano:Nalogo**\n**hh:hv:Lincoln:Reef-Santa**\n**hh:hv:NaessBoerger:RSC**\n**hh:hv:Wurm:EPapuan**\n**hh:hv:Wurm:ReefSanta**\n**hh:hv:Wurm:ReefVocabulary**\n**hh:hvw:Wurm:Reef**\n**hh:ldsoc:BoergerZimmerman:Nalogo-Natugu**\n**hh:s:Wurm:Reef-Possession**\n**hh:wsoc:Simons:Santa-Cruz**\n**iso6393:2008-070**"
+  },
+  "altnames": {
+    "glottolog": "\nNalogo",
+    "multitree": "\nNalrgo\nNalögo\nNea\nSanta Cruz\nSouth-Western Santa Cruz\nSouthern Santa Cruz",
+    "lexvo": "\nNalögo [en]",
+    "hhbib_lgcode": "\nMbanyö BYO\nMenjembelo\nNea\nNea NEA\nNemboi\nNoepe NOP\nNoipx\nNoipä\nNooli\nNooli NOO"
+  },
+  "triggers": {
+    "lgcode": "\nwith AND indication"
+  },
+  "identifier": {
+    "multitree": "nlz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lincoln:Reef-Santa** **hh:hv:Wurm:EPapuan**",
+    "subrefs": "\n**hh:hv:Lincoln:Reef-Santa**\n**hh:hv:Wurm:EPapuan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nalögo (nlz-nlz) = 5 (Developing)."
+  }
+}

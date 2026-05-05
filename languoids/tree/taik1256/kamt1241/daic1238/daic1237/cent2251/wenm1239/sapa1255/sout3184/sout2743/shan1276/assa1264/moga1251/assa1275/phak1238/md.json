@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Phake",
+    "hid": "phk",
+    "level": "language",
+    "iso639-3": "phk",
+    "latitude": "27.8197",
+    "longitude": "95.8131",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Phake](https://endangeredlanguages.com/lang/1422)\n[Phake](https://grambank.clld.org/languages/phak1238)\nhttps://en.wikipedia.org/wiki/Phake_language\nhttps://www.wikidata.org/entity/Q7675798"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:np:nd:264**\n**haspelmath:morey_syntactic_2010**\n**hh:h:Diller:Tai-Assam**\n**hh:hv:Edmondson:Shan**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hvs:Morey:Tai**\n**hh:hvs:Morey:Tai:2002**\n**hh:hvw:Grierson:2**\n**hh:phon:Pankhuenkhat:Phake-Kammueng**\n**hh:s:Gohain:Tai-Phakaes**\n**hh:s:Wilaisak:Thai-Phake**\n**hh:sv:Puzari:Assamese-Phake**\n**hh:typ:Gogoi:Tai-Phake**\n**hh:typ:Morey:Tai-Assam-Order**\n**hh:typsoc:Sharma:Tai-Phake**"
+  },
+  "altnames": {
+    "multitree": "\nFaake\nPhake\nPhakey\nPhakial\nTai phake",
+    "lexvo": "\nPhake [en]",
+    "hhbib_lgcode": "\n37 Tai Phake\nTai Phake\nTai-Phake",
+    "elcat": "\nFaake\nPhake\nPhakey\nPhakial\nTai Phakial"
+  },
+  "triggers": {
+    "lgcode": "\nphakaes"
+  },
+  "identifier": {
+    "multitree": "phk",
+    "endangeredlanguages": "1422"
+  },
+  "classification": {
+    "sub": "**hh:s:Marseille:Shan-Ni** **hh:hv:Morey:Tonal-Tai-India**",
+    "subrefs": "\n**hh:hv:Morey:Tonal-Tai-India**\n**hh:s:Marseille:Shan-Ni**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Phake (1422-phk) = Threatened (60 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

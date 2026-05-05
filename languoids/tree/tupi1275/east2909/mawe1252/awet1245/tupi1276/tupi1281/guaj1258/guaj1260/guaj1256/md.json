@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Guajá",
+    "hid": "gvj",
+    "level": "language",
+    "iso639-3": "gvj",
+    "latitude": "-3.93574",
+    "longitude": "-46.3683",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Guajá](https://endangeredlanguages.com/lang/2692)\n[Guajá](https://lexibank.clld.org/languages/gerarditupi-Guaja)\nhttps://en.wikipedia.org/wiki/Guaj%C3%A1_language\nhttps://phoible.org/languages/guaj1256\nhttps://www.wikidata.org/entity/Q3915506"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:loving:mckaughan:73**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**cldf:steward:ed:48:2**\n**fabreall2009ann:Tupi_guaja01**\n**fabreall2009ann:Tupi_guaja02**\n**fabreall2009ann:Tupi_guaja04**\n**fabreall2009ann:Tupi_guaja06**\n**fabreall2009ann:Tupi_guaja07**\n**fabreall2009ann:Tupi_guaja10**\n**hh:e:Beghin:Guaja**\n**hh:e:Forline:Awa-Guaja**\n**hh:e:Forline:Guaja**\n**hh:e:Garcia:Guaja**\n**hh:e:Hernando:Awa**\n**hh:e:Nimuendaju:Guaja**\n**hh:g:Magalhaes:Guaja**\n**hh:h:Survival:Uncontacted**\n**hh:phon:Cunha:Guaja**\n**hh:phon:Nascimento:Guaja**\n**hh:s:Magalhaes:Guaja**\n**hh:typ:Matta:Guaja**\n**hh:vtyp:Gomes:Parakana-Ava**\n**hh:w:Beghin:Guaja**\n**hh:w:Ehrenreich:Anambe**\n**hh:w:Santana:Awa-Guaja**\n**hh:w:Silva:Awa**\n**mpieva:Cunha1987Analisef**\n**mpieva:Magalhaes2007Sobreamo**\n**mpieva:Nascimento2008Estudofo**\n**mpieva:Silva2002Aspectos**"
+  },
+  "altnames": {
+    "glottolog": "\nGuaja",
+    "multitree": "\nAmanage\nAmanajo\nAmanajé\nAmanayé\nAnambé\nAvá\nAwá\nAwá Guajá\nAyaya\nGuajá\nGuaxare\nGuažá\nKa'apór\nManajo\nManaxo\nManaze\nManazo\nUrubú\nUrubú-kaapor\nWazaizara",
+    "lexvo": "\nGuajá [en]",
+    "hhbib_lgcode": "\nAnambé closest to Guaja not the current Anambe of Rio Cairari\nAwá\nAwá-Guajá",
+    "elcat": "\nAvá\nAwá\nAwá Guajá\nAyaya\nGuajá\nGuaxare\nWazaizara"
+  },
+  "triggers": {
+    "lgcode": "\nguaja"
+  },
+  "identifier": {
+    "multitree": "gvj",
+    "endangeredlanguages": "2692"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cabral:Tupi-Guarani:VIII**",
+    "subrefs": "\n**hh:hv:Cabral:Tupi-Guarani:VIII**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Guajá (2692-gvj) = Endangered (20 percent certain, based on the evidence available) [Crevels 2007](cldf:crevels:07)"
+  }
+}

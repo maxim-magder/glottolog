@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sipacapense",
+    "hid": "qum",
+    "level": "language",
+    "iso639-3": "qum",
+    "latitude": "15.23054",
+    "longitude": "-91.7041",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT"
+    ],
+    "links": "\n[Sipakapa](https://endangeredlanguages.com/lang/5310)\nhttps://www.wikidata.org/entity/Q36589\nhttps://en.wikipedia.org/wiki/Sipakapa_language\nhttps://phoible.org/languages/sipa1247\n[Sipakapense](https://wals.info/languoid/lect/wals_code_qum)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:610**\n**cldf:burrett:99**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:09:1**\n**cldf:np:nd:264**\n**cldf:pellicer:05**\n**cldf:richards:03**\n**hh:g:Barrett:Sipakapense**\n**hh:hsoc:Kindberg:Sipakapa**\n**sil16:15956**\n**sil16:17295**\n**sil16:37580**"
+  },
+  "altnames": {
+    "multitree": "\nSipacapa\nSipacapa Quiché\nSipacapeno\nSipacapense\nSipacaperse\nSipakapense\nSipakapenyo",
+    "lexvo": "\nIdioma sipacapense [es]\nLíngua sipacapense [pt]\nSipacapansk [no]\nSipacapense [en]\nSipakapense [fr]\nSipakapense language [en]\nСипакапенсе јазик [mk]",
+    "hhbib_lgcode": "\nSipakapense",
+    "elcat": "\nSipacapa\nSipacapa Quiché\nSipacapense\nSipacapeño\nSipakapa\nSipakapense"
+  },
+  "triggers": {
+    "lgcode": "\nrtzibxik\nsipacapa\nsipakapense\nsipakapa"
+  },
+  "identifier": {
+    "wals": "qum",
+    "multitree": "qum",
+    "endangeredlanguages": "5310"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sipakapa (5310-qum) = Threatened (20 percent certain, based on the evidence available) [Richards 2003](cldf:richards:03)"
+  }
+}

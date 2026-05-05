@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chak",
+    "hid": "ckh",
+    "level": "language",
+    "iso639-3": "ckh",
+    "latitude": "21.4134",
+    "longitude": "92.5953",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Chak](https://grambank.clld.org/languages/chak1270)\nhttps://en.wikipedia.org/wiki/Sak_language\nhttps://www.wikidata.org/entity/Q7402721"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Khaing:Sak**\n**hh:ew:Bernot:Cak**\n**hh:ew:Loffler:Chakma-Sak**\n**hh:g:Huziwara:Chakku**\n**hh:h:Bernot:Chittagong:1960**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Hodgson:Indo-Chinese**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Huziwara:Chakku**\n**hh:s:Huziwara:Cak:2019**\n**hh:sd:Huziwara:Cak**\n**hh:t:Huziwara:Chakku**\n**hh:typ:Sandar:Sak**\n**hh:w:Bernot:Cak**\n**sala:luce-19.004-077**"
+  },
+  "altnames": {
+    "multitree": "\nChak\nSak\nSak (Bangladesh)\nSak (Myanmar)",
+    "lexvo": "\nChak [en]",
+    "hhbib_lgcode": "\nSak"
+  },
+  "triggers": {
+    "lgcode": "\nchakku\ncak\ngengogakuteki\nkijutsu"
+  },
+  "identifier": {
+    "multitree": "ckh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Huziwara:Luish:2014**",
+    "subrefs": "\n**hh:hv:Huziwara:Luish:2014**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Sak (Bangladesh) (1138-ckh) = Severely endangered; Sak (Myanmar) (554-ckh) = Vulnerable"
+  }
+}

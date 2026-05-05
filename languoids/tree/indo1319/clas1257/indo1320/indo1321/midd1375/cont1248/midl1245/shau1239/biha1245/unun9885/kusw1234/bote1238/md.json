@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bote",
+    "hid": "bmj",
+    "level": "language",
+    "iso639-3": "bmj",
+    "latitude": "27.7074",
+    "longitude": "84.348",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Bote-Majhi](https://endangeredlanguages.com/lang/3937)\nhttps://www.wikidata.org/entity/Q9229570"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:d:Dhakal:Bote**\n**hh:e:Rai:Bote**\n**hh:g:Dhakal:Bote**\n**hh:he:Ghimire:Chitwan**\n**hh:hv:Regmi:Tarai**\n**hh:hv:vanDriem:Himalayas**\n**hh:hvw:Latham:Comparative**\n**hh:s:Prasain:Bote**\n**hh:s:Sharma:Bote**\n**hh:typ:Poudel:Bote**\n**hh:typ:Poudel:Bote:1999**\n**hh:typ:Prasain:Bote:1999**\n**hh:w:Hodgson:Broken-Nepal**\n**hh:wsoc:Page:Majhi-Bote**\n**hh:wsoc:Shrestha:Bote**"
+  },
+  "altnames": {
+    "multitree": "\nBote-Majhi\nBote-majhi\nKushar\nMajhi",
+    "lexvo": "\nBote-Majhi [en]",
+    "hhbib_lgcode": "\nBote\nBote in Chitipani\nBote-Majhi\nKawasoti NP in Nawalparasi\nKuswar\nMadi NP in Chitwan\nP 1168 Bote-Majhi",
+    "elcat": "\nBote-Majhi\nKushar",
+    "glottolog": "\nBote-Majhi"
+  },
+  "triggers": {
+    "lgcode": "\nbote"
+  },
+  "identifier": {
+    "multitree": "bmj",
+    "endangeredlanguages": "3937"
+  },
+  "classification": {
+    "sub": "**hh:w:Hodgson:Broken-Nepal** **hh:hv:vanDriem:Himalayas**:1168-1175 **hh:hvw:Shackelford:Dewas-Danuwar-Rai**",
+    "subrefs": "\n**hh:w:Hodgson:Broken-Nepal**\n**hh:hv:vanDriem:Himalayas**\n**hh:hvw:Shackelford:Dewas-Danuwar-Rai**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bote-Majhi (3937-bmj) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

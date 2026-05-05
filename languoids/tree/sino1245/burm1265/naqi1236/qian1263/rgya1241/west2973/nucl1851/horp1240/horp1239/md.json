@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Stau-Dgebshes",
+    "hid": "ero",
+    "level": "language",
+    "iso639-3": "ero",
+    "latitude": "31.1026",
+    "longitude": "101.72",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Ergong](https://lexibank.clld.org/languages/gaotb-Ergong)\n[Horpa](https://endangeredlanguages.com/lang/640)\n[Nyagrong Minyag](https://endangeredlanguages.com/lang/8369)\nhttps://en.wikipedia.org/wiki/Horpa_language\nhttps://www.wikidata.org/entity/Q56854"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:dgadbangmo:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:roche:suzuki:17**\n**cldf:sun:01**\n**cldf:suzuki:08**\n**cldf:way:12**\n**cldf:way:john:etal:15**\n**cldf:zgraggen:70**\n**gj:antonov14rtau**\n**gj:hodgson57sifan**\n**gj:huangbf91daofu**\n**gj:jacques14rtau**\n**gj:sun13gexi**\n**gj:sun83liujiang**\n**gj:wang70stau**\n**hh:g:Duoerji:Daofu**\n**hh:g:Gates:Mazur-Stau**\n**hh:g:Honkasalo:Geshiza**\n**hh:g:Tunzhi:Rtau**\n**hh:h:Hattaway:China**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvld:Sun:Western-Sichuan**\n**hh:hvs:Sun:Six-Rivers**\n**hh:hvw:Migot:Tibetains-Si-Kang**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hwdial:Gates:Jiarong**\n**hh:hwphon:Daietal:Zangmianyu**\n**hh:phon:Bufan:Daofu**\n**hh:phon:Suzuki:Nyarong-Minyag**\n**hh:phon:Vanderveen:Stau**\n**hh:phon:Way:Nyagrong-Minyag**\n**hh:s:Douerji:Geshiza**\n**hh:s:Genga:Daofu**\n**hh:s:Genga:Daofu:2019**\n**hh:s:Jacques:Stau**\n**hh:s:Sun:Ergong:2007**\n**hh:s:Suzuki:Nyarong-Minyag**\n**hh:s:Suzuki:Xinlong-Muya**\n**hh:s:Yang:Bawang**\n**hh:soc:Lhondrup:Rtau**\n**hh:soc:WayBzangpo:Nyagrong-Minyag**\n**hh:typ:Chen:Minyag**\n**hh:typ:Jacques:Rtau**\n**hh:v:Honkasalo:Horpa**\n**hh:vld:Gates:Stau-Geshiza-Khroskyabs**\n**hh:w:Edgar:Szechwan**\n**hh:w:Hodgson:Sifan-Horsok**\n**iso6393:2011-156**"
+  },
+  "altnames": {
+    "multitree": "\nBawang\nDanba\nDaofu\nErgong\nHor\nHorpa\nHorpa-Shangzhai\nHórsók\nPawang\nWestern Jiarong",
+    "lexvo": "\nHorpa [en]",
+    "hhbib_lgcode": "\nBawang Hora\nBawang Rong-Ke\nBomei\nBragmda' rTa'u variety of Horpa in Bragmgo County (Lúhuò Xiàn)\nBāwàng\nCentral Horpa\nDaofu rTau\nDaofu-Chengguan\nDaofu-Geshizha\nDgebshes\nEastern Geshiza\nErgong\nErgong-Daofu\nGeshitsa\nGeshiza\nHorpa\nHorpic language of the Rgyalrongic branch\nMazur Stau\nNW Horpa\nNorthern Horpa\nNyagrong Minyag\nNyagrong Minyag of Bomei\nPuxi\nShesnyag Mazur Stau\nStau\nTaofu\nWestern Horpa\nZhangda (Stau)\nrTa'u\nrTau\nsTau",
+    "glottolog": "\nHorpa",
+    "elcat": "\nBawang\nDanba\nDaofu\nErgong\nHor\nHorpa\nHorpa-Shangzhai\nHórsók\nPawang\nWestern Jiarong\n爾龔語\n道孚語\n霍爾語"
+  },
+  "triggers": {
+    "lgcode": "\nkang\nsifan\nbianhua\ngeshizahua\ntibetains\ndaofu"
+  },
+  "identifier": {
+    "multitree": "ero",
+    "endangeredlanguages": "640"
+  },
+  "classification": {
+    "sub": "**hh:s:Jacques:Stau** **hh:hwdial:Gates:Jiarong** **hh:v:Engels:Songlin**",
+    "subrefs": "\n**hh:hwdial:Gates:Jiarong**\n**hh:s:Jacques:Stau**\n**hh:v:Engels:Songlin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Horpa (640-ero) = Vulnerable (20 percent certain, based on the evidence available) [Shearer and Sun 2002](cldf:shearer:sun:02)"
+  }
+}

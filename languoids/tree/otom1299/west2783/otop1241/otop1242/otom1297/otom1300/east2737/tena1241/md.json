@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tenango Otomi",
+    "hid": "otn",
+    "level": "language",
+    "iso639-3": "otn",
+    "latitude": "20.4262",
+    "longitude": "-98.1751",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q25559589"
+  },
+  "sources": {
+    "glottolog": "\n**hh:phon:PikeBlight:Tenango-Otomi**\n**hh:t:Lastra:Santa-Ana-Hueytlalpan**\n**hh:typ:Hernandez-Green:Tenango-Otomi**\n**hh:w:Lastra:Otomi**\n**ldh:item_405389**"
+  },
+  "altnames": {
+    "multitree": "\nOthomí\nOtomi\nOtomi, Tenango\nOtomí\nOtomí de Mezquital\nOtomí de Tenango\nOtomí de la Sierra\nOtomí del valle de Mezquital",
+    "lexvo": "\nTenango Otomi [en]",
+    "hhbib_lgcode": "\nSanta Ana Hueytlalpan"
+  },
+  "triggers": {
+    "lgcode": "\ntenango\nthe AND tenango\ntulancingo\nhueytlalpan"
+  },
+  "identifier": {
+    "multitree": "otn"
+  },
+  "classification": {
+    "sub": "**hh:hevw:Lastra:Otomies**",
+    "subrefs": "\n**hh:hevw:Lastra:Otomies**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Otomi, Tenango (otn-otn) = 5* (Developing)."
+  }
+}

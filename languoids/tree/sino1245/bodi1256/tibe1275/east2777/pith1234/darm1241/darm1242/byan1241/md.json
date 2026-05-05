@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Byangsi",
+    "hid": "bee",
+    "level": "language",
+    "iso639-3": "bee",
+    "latitude": "29.92002",
+    "longitude": "80.63653",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Byangsi](https://endangeredlanguages.com/lang/1616)\n[Byangsi](https://grambank.clld.org/languages/byan1241)\n[Byansi](https://wals.info/languoid/lect/wals_code_bya)\n[TibetoKinauri_Byangsi](https://lexibank.clld.org/languages/sagartst-Byangsi)\nhttps://en.wikipedia.org/wiki/Byangsi_language\nhttps://www.wikidata.org/entity/Q56904"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Trivedi:Byansi**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**\n**hh:hvw:Grierson:3:I**\n**hh:s:Sharma:Byangsi**\n**hh:s:Sharma:Byangsi:2001**\n**hh:s:Sharma:Chaudangsi-Byangsi**\n**hh:s:Tinkari:Tinkar**\n**hh:soc:Rai:Byansi**\n**hh:typ:Roka:Byansi**\n**hh:wsoc:Regmi:Dhuleli**"
+  },
+  "altnames": {
+    "wals": "\nByansi",
+    "moseley & asher (1994)": "\nByangsi",
+    "multitree": "\nBhotia\nByangkho Lwo\nByangkhopa\nByangsi\nByanshi\nByansi\nByasi\nByāngsī\nJaba\nRang\nSaukas\nShaukas",
+    "lexvo": "\nByangsi [en]",
+    "hhbib_lgcode": "\nBalaundi\nByansi\nChoudangsi-Byangsi 101-194\nDhuleli is\nDhuli\nJagera\nNyuna\nTinkar\nTinkar lo\nintelligibile to Byansi",
+    "elcat": "\nBhotia\nByangkho Lwo\nByangkhopa\nByangsi\nByanshi\nByansi\nByasi\nByāngsī\nJaba\nRang\nSaukas\nShaukas"
+  },
+  "triggers": {
+    "lgcode": "\nbyansi\nbyangsi"
+  },
+  "identifier": {
+    "wals": "bya",
+    "multitree": "bee",
+    "endangeredlanguages": "1616"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDriem:Himalayas** **hh:hv:Sharma:Uttar-Pradesh**",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:hv:Sharma:Uttar-Pradesh**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Byangsi (1616-bee) = Threatened (40 percent certain, based on the evidence available) [Sharma, Suhnu Ram 2007](cldf:sharmasuhnuram:07)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Laze",
+    "hid": "NOCODE_Laze",
+    "level": "language",
+    "latitude": "27.85",
+    "longitude": "101.45",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q17007626\nhttps://en.wikipedia.org/wiki/Laze_language"
+  },
+  "sources": {
+    "glottolog": "\n**elpub:ldd53**\n**hh:hld:Michaud:Naish**\n**hh:hv:JacquesMichaud:Naxi-Na-Laze**\n**hh:phonw:Michaud:Laze**\n**hh:s:Huang:Muli-Shuitian**\n**hh:typ:Michaud:Numerals:Tones**"
+  },
+  "triggers": {
+    "lgcode": "\nshuitianhua"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Laze (also known as Muli Shuitian), a Tibeto-Burman language of the Naish group (**hh:hv:JacquesMichaud:Naxi-Na-Laze**), is missing\n(**hh:s:Huang:Muli-Shuitian**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Laze"
+  },
+  "classification": {
+    "sub": "**hh:hv:JacquesMichaud:Naxi-Na-Laze**",
+    "subrefs": "\n**hh:hv:JacquesMichaud:Naxi-Na-Laze**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMuli Shuitian"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "MichaudandJacques",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Laze (NOCODE_Laze-NOCODE_Laze) = 8a (Moribund)."
+  }
+}

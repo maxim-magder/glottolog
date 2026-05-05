@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Arbëreshë Albanian",
+    "hid": "aae",
+    "level": "language",
+    "iso639-3": "aae",
+    "latitude": "38.911",
+    "longitude": "16.7164",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Arbëreshë](https://endangeredlanguages.com/lang/962)\nhttps://en.wikipedia.org/wiki/Arb%C3%ABresh_language\nhttps://phoible.org/languages/arbe1236\nhttps://www.wikidata.org/entity/Q1075302"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:demiraj:98**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:05**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Fiorilli:Arberesh**\n**hh:d:Gerbino:Arberisht**\n**hh:dial:AltimariSavoia:Italo-Albanesi**\n**hh:e:Tagarelli:Arbereshe-Torino**\n**hh:g:Camaj:Arbereshe-Potenza**\n**hh:g:Camaj:Falconara-Albanese**\n**hh:g:Solano:Albanese-Arberesh**\n**hh:phon:Altimari:Macchia-Albanese**\n**hh:phon:Guzzetta:Albanesi**\n**hh:phon:Hamp:Albanese**\n**hh:phon:Mandala:Arbershe**\n**hh:s:Cabej:Italoalbanishe**\n**hh:s:Camaj:Arbereshe-Avellino**\n**hh:s:Gallo:Arbereshe**\n**hh:s:Solano:Albanese-Arberesh**\n**hh:s:Solano:Albanese-Firmo**\n**hh:s:Solano:Albanesi-Basile-Plataci**\n**hh:s:diMaggio:Arberisht**\n**hh:soc:Breu:Arbereshe-Molise**\n**hh:soc:BreuGlaser:Italo-Albanischen**\n**hh:soc:Derhemi:Arbresh-Piana**\n**hh:soc:Fritiofsson:Arbereshe**\n**hh:vld:Belluscio:Arbereshe**"
+  },
+  "altnames": {
+    "glottolog": "\nArbereshe Albanian",
+    "multitree": "\nAlbanesisch\nAlbanian\nAlbanian, Arbëreshë\nArber\nArberés\nArbresh\nArbërerisht\nArbëreshë\nArbëreshë Albanian\nArnaut\nItalo-Albanian\nShqipēri\nShquipni\nŠkip",
+    "lexvo": "\nArberesjiska [sv]\nArbëresh language [en]\nArbëreshë Albanian [en]\nArbëreshë albanski [hr]\nArbëreshë hizkuntza [eu]\nArbërisht [fr]\nArvaniteg [br]\nArvaníska [is]\nAрбaрёж [ru]\nDialecto arbëreshë [es]\nLuenga arbëreshë [an]",
+    "hhbib_lgcode": "\nAlbanian in Sicily\nAlbanian-Arbëreshë\nArbëreshë del Molise",
+    "elcat": "\nAlbanesisch\nAlbanian\nArber\nArbresh\nArbëreshë\nArbëreshë Albanian\nArnaut\nItalo-Albanian\nShqipēri\nShquipni\nŠkip"
+  },
+  "triggers": {
+    "lgcode": "\nfalconara\nsicily\ncosenza"
+  },
+  "identifier": {
+    "multitree": "aae",
+    "endangeredlanguages": "962"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sasse:Albanischen**",
+    "subrefs": "\n**hh:hv:Sasse:Albanischen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Arbëreshë (962-aae) = Vulnerable (60 percent certain, based on the evidence available) [Moseley 2005](cldf:moseley:05)"
+  }
+}

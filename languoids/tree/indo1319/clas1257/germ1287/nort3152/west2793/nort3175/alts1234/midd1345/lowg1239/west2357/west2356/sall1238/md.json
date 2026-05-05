@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sallands",
+    "hid": "sdz",
+    "level": "dialect",
+    "iso639-3": "sdz",
+    "latitude": "52.4482",
+    "longitude": "6.29104",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE",
+      "NL"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Sallaans_dialect\nhttps://www.wikidata.org/entity/Q3436668"
+  },
+  "sources": {
+    "glottolog": ""
+  },
+  "altnames": {
+    "multitree": "\nNeuniederdeutsch\nSallan\nSalland\nSallands",
+    "lexvo": "\nSallaans [en]\nSallands [en]",
+    "hhbib_lgcode": "\nKampen"
+  },
+  "triggers": {
+    "lgcode": "\nkampen\ndeventer"
+  },
+  "identifier": {
+    "multitree": "sdz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**, **hh:h:DaanBlok:Dialecten**",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**\n**hh:h:DaanBlok:Dialecten**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Low Saxon (383-act, drt, frs, gos, nds, sdz, stl, twd, vel, wep) = Vulnerable"
+  }
+}

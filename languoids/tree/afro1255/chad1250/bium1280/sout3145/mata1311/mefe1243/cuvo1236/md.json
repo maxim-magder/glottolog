@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Cuvok",
+    "hid": "cuv",
+    "level": "language",
+    "iso639-3": "cuv",
+    "latitude": "10.6448",
+    "longitude": "14.0006",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3515056\nhttps://en.wikipedia.org/wiki/Cuvok_language\nhttps://phoible.org/languages/cuvo1236"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Ndokobai:Cuvok**\n**hh:hv:Barreteau:NCameroun**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:phon:Ndokobai:Cuvok**\n**hh:typ:Ndokobai:Cuvok**\n**hh:wsoc:Lamberty:Cuvok**\n**sil16:46017**\n**sil16:49625**"
+  },
+  "altnames": {
+    "multitree": "\nChuvok\nCuvok\nTchouvok",
+    "lexvo": "\nCuvok [en]\nCuvok language [en]"
+  },
+  "triggers": {
+    "lgcode": "\ntchouvok\ncuvakw\ncuvok"
+  },
+  "identifier": {
+    "multitree": "cuv"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Barreteau:Tchadique-Cameroun**:68",
+    "subrefs": "\n**hh:hvld:Barreteau:Tchadique-Cameroun**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cuvok (cuv-cuv) = 5 (Developing)."
+  }
+}

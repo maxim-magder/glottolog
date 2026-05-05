@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Kawacha",
+    "hid": "kcb",
+    "level": "language",
+    "iso639-3": "kcb",
+    "latitude": "-6.95411",
+    "longitude": "146.20997",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kawacha](https://endangeredlanguages.com/lang/2225)\nhttps://www.wikidata.org/entity/Q11732302\nhttps://en.wikipedia.org/wiki/Kawacha_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hvphon:Lloyd:Angan**\n**hh:hw:Franklin:Appendices**\n**hh:hw:Zgraggen:Gulf**\n**hh:w:Fischer:Kuku-Kuku**"
+  },
+  "altnames": {
+    "multitree": "\nKawacha\nKawatsa",
+    "lexvo": "\nKawacha [en]",
+    "hhbib_lgcode": "\nKatje",
+    "elcat": "\nKawacha\nKawatsa"
+  },
+  "identifier": {
+    "multitree": "kcb",
+    "endangeredlanguages": "2225"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Lloyd:Angan**:36",
+    "subrefs": "\n**hh:hvphon:Lloyd:Angan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kawacha (2225-kcb) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

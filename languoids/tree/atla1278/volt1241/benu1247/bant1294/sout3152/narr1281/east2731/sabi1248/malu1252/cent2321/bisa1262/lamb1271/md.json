@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lamba",
+    "hid": "lam",
+    "level": "language",
+    "iso639-3": "lam",
+    "latitude": "-12.3366",
+    "longitude": "27.9026",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "ZM"
+    ],
+    "links": "\n[Lamba](https://wals.info/languoid/lect/wals_code_lmb)\nhttps://en.wikipedia.org/wiki/Lamba_language\nhttps://www.wikidata.org/entity/Q36098"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bickmore:95:2**\n**cldf:doke:31:2**\n**eballiso2009:12203**\n**eballiso2009:14345**\n**eballiso2009:16800**\n**eballiso2009:17856**\n**eballiso2009:19012**\n**eballiso2009:19080**\n**eballiso2009:19986**\n**eballiso2009:19995**\n**eballiso2009:21638**\n**eballiso2009:22735**\n**eballiso2009:22737**\n**eballiso2009:23997**\n**eballiso2009:24599**\n**eballiso2009:26730**\n**eballiso2009:27827**\n**eballiso2009:27834**\n**eballiso2009:28727**\n**eballiso2009:33872**\n**eballiso2009:34075**\n**eballiso2009:34108**\n**eballiso2009:34110**\n**eballiso2009:35834**\n**eballiso2009:38559**\n**eballiso2009:38560**\n**eballiso2009:39932**\n**eballiso2009:42506**\n**eballiso2009:46926**\n**eballiso2009:47038**\n**eballiso2009:48036**\n**eballiso2009:53940**\n**eballiso2009:56081**\n**eballiso2009:59015**\n**eballiso2009:59422**\n**eballiso2009:8278**\n**eballiso2009:9334**\n**eballiso2009:9339**\n**hh:d:Doke:Lamba**\n**hh:e:Doke:Lambas**\n**hh:e:Mitchell:Lamba**\n**hh:g:Doke:Lamba**\n**hh:g:Doke:Lamba:1938**\n**hh:g:Madan:Lala-Lamba**\n**hh:h:Doke:Bantu**\n**hh:h:Possoz:Katanga**\n**hh:he:Brelsford:Northern-Rhodesia**\n**hh:he:Whiteley:Northern-Rhodesia**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:s:Collard:Lala-Lamba**\n**hh:t:Doke:Lamba**\n**hh:t:Munday:Swaka-West-Lala**\n**hh:typ:Kataka:Lamba**\n**hh:typ:Mwape:Lamba**\n**hh:vld:Guldemann:Nebenpradikationen-Bantu**\n**hh:w:Verhulpen:Balubaises**"
+  },
+  "altnames": {
+    "wals": "\nLamba",
+    "ruhlen (1987)": "\nLamba (in Zambia)",
+    "moseley & asher (1994)": "\nLamba",
+    "multitree": "\nChilamba\nIchilamba\nLamba",
+    "lexvo": "\nLamba [en]\nlamba [fr]",
+    "hhbib_lgcode": "\nLala-Lamba\nLamba M54\nLima\nM54_Lamba\nSwaka"
+  },
+  "triggers": {
+    "lgcode": "\nkilamba\ndoke\nukuwulisisiwa\nsakania\nlambas\nNOT de AND lamba"
+  },
+  "identifier": {
+    "wals": "lmb",
+    "multitree": "lam"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ahmed:East-Central-Africa** **hh:hv:Bastinetal:Bantu**:199",
+    "subrefs": "\n**hh:hvw:Ahmed:East-Central-Africa**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lamba (lam-lam) = 5* (Developing)."
+  }
+}

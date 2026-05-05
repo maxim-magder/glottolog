@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Awabakal",
+    "hid": "awk",
+    "level": "language",
+    "iso639-3": "awk",
+    "latitude": "-33.12847",
+    "longitude": "151.43555",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Awabakal](https://collection.aiatsis.gov.au/austlang/language/s66)\n[Awabakal](https://endangeredlanguages.com/lang/6631)\n[Awabakal](https://grambank.clld.org/languages/awab1243)\n[Awabakal](https://lexibank.clld.org/languages/bowernpny-Awabakal)\nhttps://en.wikipedia.org/wiki/Awabakal_language\nhttps://phoible.org/languages/awab1243\nhttps://www.wikidata.org/entity/Q3449138",
+    "timespan": "1900-01-01/1900-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4263**\n**cldf:bowern:11:1**\n**cldf:fraser:ed:92**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:234**\n**hh:hew:Hale:Philology**\n**hh:hs:Muller:Schlichthaarigen**\n**hh:hvw:Waferetal:New-South-Wales**\n**hh:s:Fraser:Awabakal**\n**hh:s:Oppliger:Awabakal**\n**hh:s:Threlkeld:Aborigines-NSW:1827**\n**hh:s:Threlkeld:Australian:1834**\n**hh:s:Threlkeld:Australian:1858**\n**hh:sd:Lissarrague:Hunter-Macquarie**\n**hh:vsoc:WaferLissarrague:Kuringgai**\n**hh:w:Miller:Wonnarua**\n**ldh:item_401650**\n**mpieva:Threleeld1892AnAustra**\n**mpieva:Threlkeld1958Language**\n**mpieva:ThrelkeldSpecimen**\n**ozbib:1683**\n**ozbib:17**\n**ozbib:1881**\n**ozbib:1991**\n**ozbib:1996**\n**ozbib:1997**\n**ozbib:206**\n**ozbib:2111**\n**ozbib:2114**\n**ozbib:2116**\n**ozbib:2429**\n**ozbib:2446**\n**ozbib:2697**\n**ozbib:3785**\n**ozbib:4005**\n**ozbib:4340**\n**ozbib:4730**\n**ozbib:5086**\n**ozbib:5149**\n**ozbib:5419**\n**ozbib:5687**\n**ozbib:5689**\n**ozbib:5691**\n**ozbib:5692**\n**ozbib:5693**\n**ozbib:5694**\n**ozbib:6218**\n**ozbib:6540**\n**ozbib:6542**\n**ozbib:6550**\n**ozbib:6656**\n**ozbib:6715**\n**ozbib:6890**\n**ozbib:6891**\n**ozbib:6938**\n**ozbib:6952**\n**ozbib:6956**\n**ozbib:7012**\n**ozbib:7016**\n**ozbib:7172**\n**ozbib:7262**\n**ozbib:7280**\n**ozbib:799**\n**ozbib:971**\n**ozbib:998**"
+  },
+  "altnames": {
+    "multitree": "\nAwabagal\nAwabakal\nGeawegal\nGwegal\nKuri\nKuringgai\nLake Macquaire Newcastle tribe\nLake Macquarie",
+    "lexvo": "\nAwabakal [en]\nAwabakal language [en]\nLenga awabakal [pms]",
+    "hhbib_lgcode": "\n1:1-99 includes die Sprache von Lake Macquarie\nHunter-River Lake Macquarie\nWonnarua\nthe languages of Australia: Kāmilarai is in fact the Hunter River language not Kamilaroi",
+    "elcat": "\nArwarbukarl\nAwabagal\nAwabakal\nGeawegal\nGwegal\nHunter River and Lake Macquarie\nKuri\nKuringgai\nLake Macquaire Newcastle tribe\nLake Macquarie",
+    "aiatsis": "\nArwarburkarl\nAwaba\nAwabagal\nAwabakal\nAwarbukal\nKuri\nKuringgai\nLake Macquarie\nNewcastle tribe\nOther Australian Indigenous Languages"
+  },
+  "triggers": {
+    "lgcode": "\nkuringgai\nawabakal\nschlichthaarigen\nwonnarua\ncomprehending"
+  },
+  "identifier": {
+    "multitree": "awk",
+    "endangeredlanguages": "6631"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Waferetal:New-South-Wales**",
+    "subrefs": "\n**hh:hvw:Waferetal:New-South-Wales**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Awabakal (6631-awk) = Awakening (Awabakal School Workshops are being conducted in a number of public schools.) [n.a. n.d.](cldf:np:nd:234)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Margos-Yarowilca-Lauricocha Quechua",
+    "hid": "qvm",
+    "level": "language",
+    "iso639-3": "qvm",
+    "latitude": "-9.84463",
+    "longitude": "-76.4981",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Alto Marañón Quechua](https://endangeredlanguages.com/lang/8114)\nhttps://www.wikidata.org/entity/Q25559675"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lewis:simons:etal:ed:17**\n**cldf:romero:nd**\n**hh:hv:Grimes:Quechua**\n**hh:hv:Torero:Andina:1972**\n**hh:typ:Bean:Quechua-Dos-Mayo**\n**hh:typ:Marsch:Orden**\n**sil16:19833**\n**sil16:22130**\n**sil16:22425**\n**sil16:22429**\n**sil16:23439**\n**sil16:23451**\n**sil16:32812**\n**sil16:32813**\n**sil16:32814**\n**sil16:32859**\n**sil16:32860**\n**sil16:32861**\n**sil16:32863**\n**sil16:33374**\n**sil16:35252**\n**sil16:37596**\n**sil16:38108**\n**sil16:50713**\n**sil16:50734**"
+  },
+  "altnames": {
+    "multitree": "\nAlto Marañón\nAlto Pativilca\nMargos-Yarowilca-Lauricocha Quechua\nQuechua, Margos-Yarowilca-Lauricocha",
+    "lexvo": "\nMargos-Yarowilca-Lauricocha Quechua [en]",
+    "elcat": "\nAlto Marañón Quechua\nMargos-Yarowilca-Lauricocha Quechua\nUpper Marañón Quechua",
+    "hhbib_lgcode": "\nLa Unión\nMargos in Huánuco\nSur de Dos de Mayo\nUni La Unión-Huánuco QI"
+  },
+  "triggers": {
+    "lgcode": "\nyachashqana\npitsga\nmitsikuq\nquilicsa\nsuposiciones\nwilakushqan\nwilapan\nruray\nyaykun\nriyku\nvigente\nalliku"
+  },
+  "identifier": {
+    "multitree": "qvm",
+    "endangeredlanguages": "8114"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grimes:Quechua**:274-279",
+    "subrefs": "\n**hh:hv:Grimes:Quechua**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Alto Marañón Quechua (8114-qvm) = Vulnerable (60 percent certain, based on the evidence available) (vigorous) [Lewis et al. 2017](cldf:lewis:simons:etal:ed:17)"
+  }
+}

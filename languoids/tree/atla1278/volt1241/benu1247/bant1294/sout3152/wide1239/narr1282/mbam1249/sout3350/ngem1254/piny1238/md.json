@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Pinyin",
+    "hid": "pny",
+    "level": "language",
+    "iso639-3": "pny",
+    "latitude": "5.7991",
+    "longitude": "10.0682",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36250\nhttps://en.wikipedia.org/wiki/Pinyin_language\nhttps://phoible.org/languages/piny1238"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:34437**\n**eballiso2009:42352**\n**hh:hsoc:AyotteLamberty:Ngemba**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hvld:Leroy:Ngemba**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:Neba:Pinyin**\n**hh:soc:Kruger:Pinyin-Awing**\n**hh:typ:Ayuk:Pinyin**\n**sil16:45680**\n**sil16:49511**"
+  },
+  "altnames": {
+    "multitree": "\nBapinyi\nPelimpo\nPinyin",
+    "lexvo": "\nPinyin [en]\nPinyin language [en]"
+  },
+  "triggers": {
+    "lgcode": "\npinyin\npinyi"
+  },
+  "identifier": {
+    "multitree": "pny"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:AyotteLamberty:Ngemba**:36 **hh:w:Brye:Beba**:5 **hh:w:Bryeetal:Mundum**:5 **hh:soc:Kruger:Pinyin-Awing**:5",
+    "subrefs": "\n**hh:w:Brye:Beba**\n**hh:soc:Kruger:Pinyin-Awing**\n**hh:w:Bryeetal:Mundum**\n**hh:hsoc:AyotteLamberty:Ngemba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pinyin (pny-pny) = 5 (Developing)."
+  }
+}

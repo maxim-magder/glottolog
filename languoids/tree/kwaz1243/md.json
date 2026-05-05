@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kwaza",
+    "hid": "xwa",
+    "level": "language",
+    "iso639-3": "xwa",
+    "latitude": "-11.6667",
+    "longitude": "-61.1833",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kwaza](https://endangeredlanguages.com/lang/3033)\n[Kwaza](https://grambank.clld.org/languages/kwaz1243)\n[Kwaza](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Kwaza)\n[Kwaza](https://wals.info/languoid/lect/wals_code_kwz)\nhttps://en.wikipedia.org/wiki/Kwaza_language\nhttps://phoible.org/languages/kwaz1243\nhttps://www.wikidata.org/entity/Q3200839"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikhenvald:dixon:99**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:vandervoort:02**\n**cldf:vandervoort:13:2**\n**fabreall2009ann:Kwaza0**\n**fabreall2009ann:Kwaza1**\n**fabreall2009ann:Kwaza10**\n**fabreall2009ann:Kwaza11**\n**fabreall2009ann:Kwaza14**\n**fabreall2009ann:Kwaza15**\n**fabreall2009ann:Kwaza16**\n**fabreall2009ann:Kwaza2**\n**fabreall2009ann:Kwaza5**\n**fabreall2009ann:Kwaza6**\n**fabreall2009ann:Kwaza7**\n**fabreall2009ann:Kwaza8**\n**hh:d:Manso:Kwaza**\n**hh:g:vanderVoort:Kwaza**\n**hh:g:vanderVoort:Kwaza:2000**\n**hh:hvw:vanderVoort:Kwaza**\n**hh:s:Bacelar:Kanoe**\n**hh:s:Voort:Kwaza**\n**hh:s:vanderVoort:Kwaza**\n**hh:s:vanderVoort:Kwaza:2023**\n**hh:soc:Anonby:Tubarao-Latunde**\n**hh:soc:vanderVoort:Aikana-Kwaza**\n**hh:typ:vanderVoort:Reduplication**\n**hh:w:Loukotka:Inedits**\n**iso6393:2006-020**"
+  },
+  "altnames": {
+    "multitree": "\nArara\nKoaiá\nKoayá\nKwaza\nQuaiá",
+    "lexvo": "\nKoaia [hr]\nKwaza [en]\nKwaza language [en]",
+    "hhbib_lgcode": "\nKoaiá",
+    "elcat": "\nArara\nKoaiá\nKoiyá\nKwaza\nQuaiá"
+  },
+  "triggers": {
+    "lgcode": "\nyumtzilob\nredescobertos\nNOT perspective AND kwaza\nkwaza"
+  },
+  "identifier": {
+    "wals": "genus/kwaza",
+    "multitree": "xwa",
+    "endangeredlanguages": "3033"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hvw:vanderVoort:Kwaza**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kwaza (3033-xwa) = Severely Endangered (20 percent certain, based on the evidence available) [van der Voort 2013](cldf:vandervoort:13:2)"
+  }
+}

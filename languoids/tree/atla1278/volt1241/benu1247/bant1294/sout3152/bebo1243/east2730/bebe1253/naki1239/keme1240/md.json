@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kemezung",
+    "hid": "dmo",
+    "level": "language",
+    "iso639-3": "dmo",
+    "latitude": "6.69577",
+    "longitude": "10.4984",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Kemezung](https://grambank.clld.org/languages/keme1240)\nhttps://en.wikipedia.org/wiki/Kemezung_language\nhttps://phoible.org/languages/keme1240\nhttps://www.wikidata.org/entity/Q35562"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hsoc:BryeBrye:Eastern-Beboid**\n**hh:phon:Cox:Kemezung**\n**hh:s:Smoes:Kemezung**\n**hh:soc:BryeBrye:Bebe-Kemezung**\n**hh:typ:Smoes:Kemedzung**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**iso6393:2011-039**"
+  },
+  "altnames": {
+    "multitree": "\nDumbo\nDzumbo\nKemezung\nKumaju",
+    "lexvo": "\nKemezung [en]\nKemezung language [en]",
+    "hhbib_lgcode": "\nDumbo\nDzumbo\nKemedzung"
+  },
+  "triggers": {
+    "lgcode": "\nkemezung"
+  },
+  "identifier": {
+    "multitree": "dmo"
+  },
+  "classification": {
+    "sub": "**hh:soc:BryeBrye:Bebe-Kemezung** **hh:hsoc:BryeBrye:Eastern-Beboid**",
+    "subrefs": "\n**hh:soc:BryeBrye:Bebe-Kemezung**\n**hh:hsoc:BryeBrye:Eastern-Beboid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kemedzung (dmo-dmo) = 5 (Developing)."
+  }
+}

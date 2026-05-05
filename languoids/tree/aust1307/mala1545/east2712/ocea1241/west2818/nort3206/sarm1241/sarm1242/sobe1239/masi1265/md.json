@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Masimasi",
+    "hid": "ism",
+    "level": "language",
+    "iso639-3": "ism",
+    "latitude": "-2.00717",
+    "longitude": "139.04",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Masimasi](https://endangeredlanguages.com/lang/4309)\nhttps://www.wikidata.org/entity/Q6783273\nhttps://en.wikipedia.org/wiki/Masimasi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Sugono:Indonesia**\n**hh:hlde:deClercq:NNG**\n**hh:hlde:deClercq:WNNNG**\n**hh:hv:Grace:Sarmi**\n**hh:hv:Grace:Sarmi:1971**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:ld:Grace:48-50**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nMasimasi",
+    "lexvo": "\nMasimasi [en]",
+    "hhbib_lgcode": "\nMasi-Masi\nSobei-Masimasi",
+    "elcat": "\nMasimasi"
+  },
+  "identifier": {
+    "multitree": "ism",
+    "endangeredlanguages": "4309"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:LeeSawi:Sobei** **hh:v:Collins:Sarmic**",
+    "subrefs": "\n**hh:hwsoc:LeeSawi:Sobei**\n**hh:v:Collins:Sarmic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Masimasi (4309-ism) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

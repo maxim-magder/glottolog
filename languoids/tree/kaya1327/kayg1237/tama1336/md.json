@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tamagario",
+    "hid": "tcg",
+    "level": "language",
+    "iso639-3": "tcg",
+    "latitude": "-6.64493",
+    "longitude": "138.892",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7680531\nhttps://en.wikipedia.org/wiki/Tamagario_language\n[Tamagario](https://wals.info/languoid/lect/wals_code_tmg)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:SilzerClouse:Index**\n**hh:hv:Ross:Voorhoeve**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:Voorhoeve:Miscellaneous**\n**hh:wsoc:Leboldetal:Assue**"
+  },
+  "altnames": {
+    "wals": "\nTamagario",
+    "ruhlen (1987)": "\nTamagario",
+    "moseley & asher (1994)": "\nTamagario",
+    "multitree": "\nBuru\nTamagario\nTamaraw\nTamágario\nWagow",
+    "lexvo": "\nTamagario [en]",
+    "hhbib_lgcode": "\nTamagario/Kaitok\nTamagario/Sigare\nTamagario/Yame"
+  },
+  "triggers": {
+    "lgcode": "\nwest AND miscellaneous"
+  },
+  "identifier": {
+    "wals": "tmg",
+    "multitree": "tcg"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Voorhoeve:Miscellaneous**:87-88",
+    "subrefs": "\n**hh:hvw:Voorhoeve:Miscellaneous**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tamagario (tcg-tcg) = 6b* (Threatened)."
+  }
+}

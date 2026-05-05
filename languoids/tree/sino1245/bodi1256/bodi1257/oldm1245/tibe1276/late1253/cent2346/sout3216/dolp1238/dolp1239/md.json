@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dolpo",
+    "hid": "dre",
+    "level": "language",
+    "iso639-3": "dre",
+    "latitude": "29.1957",
+    "longitude": "83.2927",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NP"
+    ],
+    "links": "\n[Dolpo](https://endangeredlanguages.com/lang/4105)\nhttps://www.wikidata.org/entity/Q12629969"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:vanDriem:Himalayas**\n**hh:hvw:Japola:Mustang**\n**hh:phon:Watters:Five-Tibetan-Himalayan**\n**hh:soc:Jest:Dolpo**\n**hh:typ:Kopp:Dolpo**\n**hh:typ:Vokurkova:Dolpo**"
+  },
+  "altnames": {
+    "multitree": "\nDolpa Tibetan\nDolpike\nDolpo\nPhoke Dolpa",
+    "lexvo": "\nDolpo [en]",
+    "elcat": "\nD'ölpo\nDolpa Tibetan\nDolpike\nDolpo\nPhoke Dolpa",
+    "hhbib_lgcode": "\nNamdo Tsa in Nangkong Valley"
+  },
+  "identifier": {
+    "multitree": "dre",
+    "endangeredlanguages": "4105"
+  },
+  "classification": {
+    "sub": "**hh:soc:Jest:Dolpo**",
+    "subrefs": "\n**hh:soc:Jest:Dolpo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dolpo (4105-dre) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

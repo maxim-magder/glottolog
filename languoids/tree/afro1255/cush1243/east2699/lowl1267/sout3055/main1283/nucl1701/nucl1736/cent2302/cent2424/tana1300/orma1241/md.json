@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Orma",
+    "hid": "orc",
+    "level": "language",
+    "iso639-3": "orc",
+    "latitude": "-1.79489",
+    "longitude": "39.60749",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Orma](https://grambank.clld.org/languages/orma1241)\nhttps://en.wikipedia.org/wiki/Orma_language\nhttps://phoible.org/languages/orma1241\nhttps://www.wikidata.org/entity/Q2919128"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:16189**\n**eballiso2009:25378**\n**eballiso2009:33914**\n**eballiso2009:45066**\n**eballiso2009:59986**\n**eballiso2009:8070**\n**hh:d:Stroomer:Orma**\n**hh:dial:Stroomer:Oromo**\n**hh:e:Mohamed:Tana**\n**hh:hdial:Stroomer:Oromo**\n**hh:hvs:Stroomer:Oromo-Kenya**\n**hh:s:Heine:Munyo**\n**hh:typ:Stroomer:Boraana-Orma-Waata**\n**hh:v:Nurse:Contact-Three-Centuries**\n**mpieva:Heine1981TheNonBa**\n**sil16:50139**"
+  },
+  "altnames": {
+    "multitree": "\nGalla\nOrma\nUardai\nWadai\nWarday\nWardei",
+    "lexvo": "\nOrma [en]\nOrma language [en]",
+    "hhbib_lgcode": "\nMunyo"
+  },
+  "triggers": {
+    "lgcode": "\norma\nmunyo\njeelatte"
+  },
+  "identifier": {
+    "multitree": "orc"
+  },
+  "classification": {
+    "sub": "**hh:s:Heine:Waata**:13-17",
+    "subrefs": "\n**hh:s:Heine:Waata**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Orma (orc-orc) = 5 (Developing)."
+  }
+}

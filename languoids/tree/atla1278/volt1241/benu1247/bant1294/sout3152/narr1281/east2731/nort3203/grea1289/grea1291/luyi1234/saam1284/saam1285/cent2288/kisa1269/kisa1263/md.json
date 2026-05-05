@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kisa",
+    "hid": "lks",
+    "level": "language",
+    "iso639-3": "lks",
+    "latitude": "0.1529",
+    "longitude": "34.5708",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q63259208\nhttps://phoible.org/languages/kisa1263"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hvtyp:Kanyoro:Abaluyia**\n**hh:phon:Sample:Olukisa**\n**hh:typ:Ondondo:Kisa-Noun**\n**hh:typ:Ondondo:Kisa-POS**\n**hh:typ:Ondondo:Kisa-Verb**\n**iso6393:2007-171**"
+  },
+  "altnames": {
+    "multitree": "\nKisa\nLushisa\nShisa",
+    "lexvo": "\nKisa [en]\nOlushisa [en]",
+    "hhbib_lgcode": "\nKSA\nKisa J30K"
+  },
+  "triggers": {
+    "lgcode": "\nolukisa"
+  },
+  "identifier": {
+    "multitree": "luy-kis"
+  },
+  "classification": {
+    "sub": "**hh:phon:Sample:Olukisa**:2",
+    "subrefs": "\n**hh:phon:Sample:Olukisa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Olushisa (lks-lks) = 4 (Educational)."
+  }
+}

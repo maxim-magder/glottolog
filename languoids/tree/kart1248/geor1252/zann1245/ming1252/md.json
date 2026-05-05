@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mingrelian",
+    "hid": "xmf",
+    "level": "language",
+    "iso639-3": "xmf",
+    "latitude": "42.5129",
+    "longitude": "41.8719",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE"
+    ],
+    "links": "\n[Mingrelian](https://endangeredlanguages.com/lang/10906)\n[Mingrelian](https://wals.info/languoid/lect/wals_code_mgl)\nhttps://en.wikipedia.org/wiki/Mingrelian_language\nhttps://phoible.org/languages/ming1252\nhttps://www.wikidata.org/entity/Q13359"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4310**\n**cldf:holsky:tuite:ed:03:2**\n**cldf:kiziria:67**\n**cldf:simons:fennig:ed:18**\n**hh:gtd:Kipsidze:Mingrelskago**\n**hh:hs:Alekseev:Kavkazskie**\n**hh:hvw:vonKlaproth:Asia**\n**hh:s:Harris:Mingrelian**\n**hh:s:Kluge:Mingrelischen**\n**hh:s:Rostovtsev-Popiel:Megrelian**\n**hh:w:Gippert:Celebi**\n**ldh:item_406923**\n**mpieva:2006TheColch**\n**mpieva:Kadchaia2001Mingreli**"
+  },
+  "altnames": {
+    "wals": "\nMingrelian",
+    "wals other": "\nMegrelian",
+    "ruhlen (1987)": "\nMingrelian",
+    "moseley & asher (1994)": "\nMingrelian",
+    "multitree": "\nMingrelian\nMingrelio\nMingrélien",
+    "lexvo": "\nIdioma megreliano [es]\nJęzyk megrelski [pl]\nLingua mengrelia [it]\nLíngua mingreliana [pt]\nMegrelce [tr]\nMegreleg [br]\nMingreels [nl]\nMingrelian [en]\nMingrelian language [en]\nMingrelin kieli [fi]\nMingrelische Sprache [de]\nMingrelsk [no]\nMingrél nyelv [hu]\nMingrélien [fr]\nМегрел чĕлхи [cv]\nМегрелски език [bg]\nМегрельский язык [ru]\nМегрельська мова [uk]\nМингрелски јазик [mk]\nמגרלית [he]\nภาษาเมเกรเลีย [th]\nმეგრული ენა [ka]\nメグレル語 [ja]\n明格列尔语 [zh]",
+    "hhbib_lgcode": "\nMegrelian\nMengrelskij\nMingrelier",
+    "elcat": "\nMargali\nMargaluri\nMegrel\nMegrelian\nMegruli\nMingrelian"
+  },
+  "triggers": {
+    "lgcode": "\nmingrelischen\nmingrelian\nmingrelisch\nmingrelskago\niverskago"
+  },
+  "identifier": {
+    "wals": "mgl",
+    "multitree": "xmf",
+    "endangeredlanguages": "10906"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boeder:Kartvelian**",
+    "subrefs": "\n**hh:hv:Boeder:Kartvelian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mingrelian (10906-xmf) = At risk (20 percent certain, based on the evidence available) [Simons and Fennig 2018](cldf:simons:fennig:ed:18)"
+  }
+}

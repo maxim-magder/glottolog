@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Yudja",
+    "hid": "jur",
+    "level": "language",
+    "iso639-3": "jur",
+    "latitude": "-10.9354",
+    "longitude": "-53.3472",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Juruna](https://endangeredlanguages.com/lang/3152)\nhttps://www.wikidata.org/entity/Q4023175\nhttps://en.wikipedia.org/wiki/Juruna_language\nhttps://phoible.org/languages/juru1256\n[Juruna](https://wals.info/languoid/lect/wals_code_jrn)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:dalinguajuruna:92**\n**cldf:ed:10**\n**cldf:emorfossintaticodalinguajuruna:01**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rodrigues:99:3**\n**fabreall2009ann:Tupi_juruna00**\n**fabreall2009ann:Tupi_juruna01**\n**fabreall2009ann:Tupi_juruna04**\n**fabreall2009ann:Tupi_juruna05**\n**fabreall2009ann:Tupi_juruna06**\n**fabreall2009ann:Tupi_juruna08**\n**fabreall2009ann:Tupi_juruna09**\n**fabreall2009ann:Tupi_juruna10**\n**fabreall2009ann:Tupi_juruna11**\n**fabreall2009ann:Tupi_juruna12**\n**fabreall2009ann:Tupi_juruna13**\n**fabreall2009ann:Tupi_juruna14**\n**fabreall2009ann:Tupi_juruna15**\n**fabreall2009ann:Tupi_juruna18**\n**fabreall2009ann:Tupi_juruna19**\n**fabreall2009ann:Tupi_juruna20**\n**fabreall2009ann:Tupi_juruna23**\n**fabreall2009ann:Tupi_juruna26**\n**fabreall2009ann:Tupi_juruna27**\n**fabreall2009ann:Tupi_juruna28**\n**fabreall2009ann:Tupi_juruna29**\n**hh:e:Galvao:Juruna**\n**hh:e:Nimuendaju:LMXingu**\n**hh:e:Villas:Kaia**\n**hh:e:deOliveira:Juruna**\n**hh:e:deOliveira:Juruna:1970**\n**hh:ew:Coudreau:Xingu**\n**hh:g:Fargetti:Juruna**\n**hh:g:Fargetti:Juruna:2001**\n**hh:he:Ribeiro:Tecelas-Tupi-Xingu**\n**hh:hv:FargettiRodrigues:Xipaya-Juruna**\n**hh:hw:Nimuendaju:Brasil**\n**hh:lde:Mondini:Juruna**\n**hh:phon:Fargetti:Juruna**\n**hh:s:Oliveira:Juruna**\n**hh:typ:Lima:Yudja**\n**hh:v:deOliveira:Juruna**\n**ldh:item_407599**\n**mpieva:Lima2008Aestrutu**"
+  },
+  "altnames": {
+    "glottolog": "\nJuruna\nJurúna",
+    "wals": "\nJuruna",
+    "ruhlen (1987)": "\nJuruna",
+    "moseley & asher (1994)": "\nYuruna",
+    "multitree": "\nDjudjá\nIuruna\nJaruna\nJurna\nJuruna\nJurúna\nYudja\nYudjá\nYudya\nYuruna\nYurúna",
+    "lexvo": "\nJurúna [en]",
+    "hhbib_lgcode": "\nJuruna\nJurúna\nYudja\nYurúna",
+    "elcat": "\nDjudjá\nIuruna\nJaruna\nJurna\nJuruna\nJurúna\nYudjá\nYudya\nYuruna\nYurúna"
+  },
+  "triggers": {
+    "lgcode": "\nperspectivism\nNOT txicao AND juruna\njuruna\nfargetti\nindividuation"
+  },
+  "identifier": {
+    "wals": "jrn",
+    "multitree": "jur",
+    "endangeredlanguages": "3152"
+  },
+  "classification": {
+    "sub": "**hh:hv:FargettiRodrigues:Xipaya-Juruna** **hh:v:deOliveira:Juruna**",
+    "subrefs": "\n**hh:v:deOliveira:Juruna**\n**hh:hv:FargettiRodrigues:Xipaya-Juruna**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Juruna (3152-jur) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

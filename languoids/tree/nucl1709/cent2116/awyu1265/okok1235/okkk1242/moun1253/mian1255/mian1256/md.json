@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mian",
+    "hid": "mpt",
+    "level": "language",
+    "iso639-3": "mpt",
+    "latitude": "-4.70881",
+    "longitude": "141.523",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mian](https://endangeredlanguages.com/lang/10681)\n[Mian](https://grambank.clld.org/languages/mian1256)\n[Mian](https://wals.info/languoid/lect/wals_code_mpt)\nhttps://en.wikipedia.org/wiki/Mian_language\nhttps://www.wikidata.org/entity/Q12952846"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fedden:66**\n**cldf:lewis:paul:etal:ed:15**\n**haspelmath:heath_grammar_2013-2**\n**hh:d:SmithWeston:Mianmin**\n**hh:e:Morren:Miyanmin**\n**hh:g:Fedden:Mian**\n**hh:g:Fedden:Mian:2007**\n**hh:g:SmithWeston:Mianmin**\n**hh:he:Fyfe:Upper-Sepik**\n**hh:he:Jorgensen:Hotmin-Paupe**\n**hh:he:Jorgensen:Min-May-River**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Steer:Upper-Sepik**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Healey:Ok**\n**hh:w:Laycock:D1**\n**mpieva:Loving1974Studiesi**\n**sil16:12341**\n**sil16:16590**\n**sil16:17723**\n**sil16:17724**\n**sil16:17725**\n**sil16:17726**\n**sil16:20331**\n**sil16:21280**\n**sil16:21836**\n**sil16:22102**\n**sil16:23047**\n**sil16:51181**\n**silpng:silpng1956-1990:1569**\n**silpng:silpng1956-1990:1570**\n**silpng:silpng1956-1990:1571**\n**silpng:silpng1956-1990:694**\n**silpng:silpng1956-1990:695**\n**silpng:silpng1956-1990:696**\n**silpng:silpng1956-1990:697**\n**silpng:silpng1956-1990:698**\n**silpng:silpng1956-1990:699**\n**silpng:silpng1991-2000:1453**"
+  },
+  "altnames": {
+    "multitree": "\nMian\nMianmin",
+    "lexvo": "\nMian [en]\nMian language [en]",
+    "hhbib_lgcode": "\nMN Mianmin\nMianmin\nMianmin from Sekabip 1969\nMiyanmin",
+    "elcat": "\nMian\nMianmin\nMiyanmin"
+  },
+  "triggers": {
+    "lgcode": "\ntolamin\nmian\nmianmin\nwentemin"
+  },
+  "identifier": {
+    "wals": "mpt",
+    "multitree": "mpt",
+    "endangeredlanguages": "10681"
+  },
+  "classification": {
+    "sub": "**hh:g:Fedden:Mian**",
+    "subrefs": "\n**hh:g:Fedden:Mian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mian (10681-mpt) = Threatened (20 percent certain, based on the evidence available) [Fedden 2011](cldf:fedden:11)"
+  }
+}

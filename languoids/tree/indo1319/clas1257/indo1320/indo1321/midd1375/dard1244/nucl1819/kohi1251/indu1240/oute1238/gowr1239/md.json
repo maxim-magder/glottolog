@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Gowro",
+    "hid": "gwf",
+    "level": "language",
+    "iso639-3": "gwf",
+    "latitude": "35.1243",
+    "longitude": "73.1233",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\n[Gowro](https://endangeredlanguages.com/lang/4255)\nhttps://en.wikipedia.org/wiki/Gowro_language\nhttps://www.wikidata.org/entity/Q3812403"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hewtyp:Biddulph:Hindoo-Koosh**\n**hh:hvsoc:Hallberg:Indus-Kohistan**\n**hh:t:Rensch:Indus-Kohistani**\n**hh:w:Rensch:Indus-Kohistan**\n**sil16:32836**"
+  },
+  "altnames": {
+    "multitree": "\nDardu\nGabar Khel\nGabaro\nGowro",
+    "lexvo": "\nGowro [en]",
+    "elcat": "\nDardu\nGabar Khel\nGabaro\nGowro"
+  },
+  "identifier": {
+    "multitree": "gwf",
+    "endangeredlanguages": "4255"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Hallberg:Indus-Kohistan** **hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**\n**hh:hvsoc:Hallberg:Indus-Kohistan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Gowro (4255-gwf) = Threatened (20 percent certain, based on the evidence available) (Hallberg (in SSNP Vol. 1, 1992: 131). says that ‘it would seem that the dominance of Shina may be slowly erasing the use of Gowro’. Baart (2003) confirms that only a 1000 speakers are left now and it may be dying.) [Rahman 2006](cldf:rahman:06)"
+  }
+}

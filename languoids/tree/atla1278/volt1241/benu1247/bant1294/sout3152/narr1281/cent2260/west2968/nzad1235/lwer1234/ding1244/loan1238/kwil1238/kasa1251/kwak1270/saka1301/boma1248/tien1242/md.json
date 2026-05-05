@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tiene",
+    "hid": "tii",
+    "level": "language",
+    "iso639-3": "tii",
+    "latitude": "-2.84694",
+    "longitude": "16.4765",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CG"
+    ],
+    "links": "\n[Tiene](https://grambank.clld.org/languages/tien1242)\nhttps://en.wikipedia.org/wiki/Tiene_language\nhttps://www.wikidata.org/entity/Q36469"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3928**\n**eballiso2009:12108**\n**eballiso2009:16182**\n**eballiso2009:28707**\n**eballiso2009:39500**\n**eballiso2009:50203**\n**eballiso2009:7606**\n**hh:g:Ellington:Tiene**\n**hh:he:Tshonda:Maindombe**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:phontyp:Mbaka:Tienne**\n**hh:s:Mangulu:Ketiene**\n**hh:vtyp:Mangulu:Tiene**"
+  },
+  "altnames": {
+    "multitree": "\nKitiene\nKitiini\nTende\nTiene",
+    "lexvo": "\nTiene [en]",
+    "hhbib_lgcode": "\nB81_Tiene\nBa-Tende\nDya around Mansele\nNkete\nNunu C30Nu at Mushire and Bolobo and Yumbi region Equateur Zaire 16.5E/1.9S\nTiene (Batende)\nTiene (Bosiki) Tiene 1 Botala B81\nTiene (DYA-Mansele) Tiene 2 d. Dya B81\nTiene 1 Botala B81\nTiene 2 d. dia B81\nTienne\nshould be Tiene"
+  },
+  "triggers": {
+    "lgcode": "\ntiene\nketiene\nbatende\nmparse"
+  },
+  "identifier": {
+    "multitree": "tii"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:163-167, 184-185, 188 **hh:vtyp:Mangulu:Tiene** **hh:hv:Bastinetal:Bantu**:202-203",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Bastinetal:Bantu**\n**hh:vtyp:Mangulu:Tiene**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tiene (tii-tii) = 5* (Developing)."
+  }
+}

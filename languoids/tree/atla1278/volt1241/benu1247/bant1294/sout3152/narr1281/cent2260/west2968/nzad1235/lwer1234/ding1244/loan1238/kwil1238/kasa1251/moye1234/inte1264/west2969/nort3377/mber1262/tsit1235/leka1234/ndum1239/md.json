@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ndumu",
+    "hid": "nmd",
+    "level": "language",
+    "iso639-3": "nmd",
+    "latitude": "-1.67033",
+    "longitude": "13.7279",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35901\nhttps://en.wikipedia.org/wiki/Ndumu_language\n[Ndumu](https://wals.info/languoid/lect/wals_code_ndu)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:biton:69**\n**eballiso2009:28707**\n**eballiso2009:28828**\n**eballiso2009:31133**\n**eballiso2009:4376**\n**eballiso2009:4476**\n**eballiso2009:9208**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hvw:Adam:Teke**\n**hh:hvwsoc:Lane:Mbete**\n**hh:s:Adam:MbedeNdumuDuma**\n**hh:s:Mouele:Ndumu**\n**hh:sd:Biton:Ndumu**\n**hh:typ:Medjo:Ndumu**"
+  },
+  "altnames": {
+    "wals": "\nNdumu",
+    "ruhlen (1987)": "\nMbere",
+    "moseley & asher (1994)": "\nNdumu",
+    "multitree": "\nBandoumou\nDoumbou\nDumbu\nLendumu\nMindoumou\nMindumbu\nMinduumo\nNdumbo\nNdumbu\nNdumu\nNduumo\nOndoumbo\nOndumbo",
+    "lexvo": "\nNdumu [en]",
+    "hhbib_lgcode": "\nB63_Ndumu\nKuya\nLi-Duma\nLè-nyaani\nNDM Ndumu\nNdumo 1 B63\nNdumo 2 d. kuya B63\nNduumo (Franceville) Ndumo 1 B63\nNduumo (Yéyé) Ndumo 2 d. kuya B63"
+  },
+  "triggers": {
+    "lgcode": "\nNOT duma AND ndumu"
+  },
+  "identifier": {
+    "wals": "ndu",
+    "multitree": "nmd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:163, 184, 186 **hh:hv:Niama-Niama:Bantu-Gabon** **hh:hvw:Adam:Teke**:50-52 **hh:hv:BoukaNdamba:Congo-Brazzaville**:42-45 **hh:hv:Alewijnseetal:Gabon** **hh:hv:Grollemund:Bantu-Nord-Ouest**:380",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Niama-Niama:Bantu-Gabon**\n**hh:hvw:Adam:Teke**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndumu (nmd-nmd) = 6b* (Threatened)."
+  }
+}

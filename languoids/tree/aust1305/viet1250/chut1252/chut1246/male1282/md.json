@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Maleng",
+    "hid": "pkt",
+    "level": "language",
+    "iso639-3": "pkt",
+    "latitude": "17.913525",
+    "longitude": "105.52746",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Maleng](https://endangeredlanguages.com/lang/5879)\nhttps://www.wikidata.org/entity/Q6583562\nhttps://en.wikipedia.org/wiki/Maleng_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:803**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:ew:Fraisse:Sek-Kha**\n**hh:g:Badosa:Malieng**\n**hh:h:Schliesinger:Laos**\n**hh:he:Schliesinger:Austro-Asiatic:Laos**\n**hh:hv:Ferlus:Viet-Muong**\n**hh:vld:Lai:Coi**\n**hh:vld:Lai:Coi-Malieng**"
+  },
+  "altnames": {
+    "multitree": "\nHareme\nKha\nKri\nKrìì\nMalang\nMaleng\nMalieng\nMã Liềng\nSô Salang",
+    "lexvo": "\nMaleng [en]",
+    "elcat": "\nHareme\nKha\nKri\nKrìì\nMalang\nMaleng\nMalieng\nMã Liềng\nSô Salang",
+    "hhbib_lgcode": "\nBan So Phenh\nBo (Laos)\nCoi\nKha Bo\nMa Lieng\nMalieng\nTai Bo"
+  },
+  "triggers": {
+    "lgcode": "\nMaleng\nMalieng"
+  },
+  "identifier": {
+    "multitree": "pkt",
+    "endangeredlanguages": "5879"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic:2015**:205",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic:2015**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Maleng (5879-pkt) = Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has two Laotian languages Maleng [pkt] and Bo (Laos) [bgl], the latter with the alternative names including Kha Bo and Tai Bo. However, the (Kha) Bo are originally speakers of Maleng [pkt] who are being Laoticised (as Tai Bo) (**hh:hv:Ferlus:Viet-Muong**:12). In either case, their language is already covered by the entries Maleng [pkt] or Lao [lao]. See also: Bo (Laos) [bgl], Lao [lao].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "pkt"
+  }
+}

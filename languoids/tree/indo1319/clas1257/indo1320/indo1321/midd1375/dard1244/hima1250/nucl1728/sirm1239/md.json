@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sirmauri",
+    "hid": "srx",
+    "level": "language",
+    "iso639-3": "srx",
+    "latitude": "31.1",
+    "longitude": "77.17",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Sirmauri](https://endangeredlanguages.com/lang/5415)\nhttps://www.wikidata.org/entity/Q7530505\nhttps://en.wikipedia.org/wiki/Sirmauri_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:hendriksen:86**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:hld:Tobdan:Himacal-Prades**\n**hh:hld:Varma:Pahari**\n**hh:hvwt:Grierson:9:IV**\n**hh:w:Varma:Pahari:2003-2004**"
+  },
+  "altnames": {
+    "multitree": "\nSirmauri\nSirmouri\nSirmuri",
+    "lexvo": "\nSirmauri [en]",
+    "elcat": "\nSirmauri\nSirmouri\nSirmuri"
+  },
+  "triggers": {
+    "lgcode": "\nhimachali"
+  },
+  "identifier": {
+    "multitree": "srx",
+    "endangeredlanguages": "5415"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hendriksen:Group-Position** **hh:gtd:Hendriksen:Himachali**",
+    "subrefs": "\n**hh:hv:Hendriksen:Group-Position**\n**hh:gtd:Hendriksen:Himachali**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sirmauri (5415-srx) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

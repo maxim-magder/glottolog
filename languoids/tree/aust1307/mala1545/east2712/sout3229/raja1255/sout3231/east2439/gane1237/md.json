@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gane",
+    "hid": "gzn",
+    "level": "language",
+    "iso639-3": "gzn",
+    "latitude": "-0.42618",
+    "longitude": "127.976",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Gimán](https://lexibank.clld.org/languages/abvdoceanic-Giman)\nhttps://en.wikipedia.org/wiki/Gane_language\nhttps://www.wikidata.org/entity/Q3095108"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1043**\n**cldf:wallace:62**\n**hh:e:Teljeur:Giman**\n**hh:e:Teljeur:Giman:1985**\n**hh:hw:AdrianiKruyt:Baree**\n**hh:v:Jamulia:South-Halmahera**\n**hh:w:Ribbe:34**\n**hh:w:StokhofSaleh-Bronkhorst:Holle:2**\n**hh:w:Teljeur:SHalmahera**"
+  },
+  "altnames": {
+    "multitree": "\nGane\nGani\nGiman",
+    "lexvo": "\nGane [en]",
+    "hhbib_lgcode": "\nGaane und Kajoa\nGane-Giman\nGanesch\nGiman"
+  },
+  "triggers": {
+    "lgcode": "\nNOT of AND their AND makian\ngiman"
+  },
+  "identifier": {
+    "multitree": "gzn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**:137",
+    "subrefs": "\n**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gane (gzn-gzn) = 6b (Threatened)."
+  }
+}

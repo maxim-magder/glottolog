@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Chayuco Mixtec",
+    "hid": "mih",
+    "level": "language",
+    "iso639-3": "mih",
+    "latitude": "16.42",
+    "longitude": "-97.83",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (Chayuco)](https://wals.info/languoid/lect/wals_code_mxu)\nhttps://en.wikipedia.org/wiki/Chayuco-Jamiltepec_Mixtec\nhttps://www.wikidata.org/entity/Q13583510"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3619**\n**cldf:pensinger:74**\n**hh:d:Pensinger:Mixteco-Chayuco**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Arana:Mixteco-Trique**\n**hh:hvw:Josserand:Mixtec**\n**sil16:11910**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (Chayuco)",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nEastern Jamiltepec-Chayuco Mixtec\nMixtec (Chayuco)\nMixtec, Chayuco\nMixteco (Chayuco)\nMixteco de Chayucu\nSouthern Misteko\nSouthern Mixteco",
+    "lexvo": "\nChayuco Mixtec [en]",
+    "hhbib_lgcode": "\n111 Santiago Pinotepa Nacional Mixtec Josserand 1983\n25 San Agustin Chayuco Mixtec Dürr 1987; Josserand 1983; Pensinger et al. 1974\n52 San Lorenzo Mixtec Josserand 1983\n84 Santa Catarina Mechoacan Mixtec Josserand 1983\nChay\nChayC\nChayD\nCris\nLor\nMech\nMixtec-Chayuco\nMixteco-Mechoacán\nNuti\nSan Agustin Chayuco-Oaxaca\nSan Agustín Chayuco (Bradley)\nSan Agustín Chayuco Josserand\nSan Agustín Chayuco Pensinger 1974\nSan Cristóbal (99 percent intelligibility to Mechoacán Egland 1983:25)\nSan Lorenzo\nSanta Catarina Mechoacán\nSanta Maria Nutío"
+  },
+  "triggers": {
+    "lgcode": "\nchayuco"
+  },
+  "identifier": {
+    "wals": "mxu",
+    "multitree": "mih",
+    "endangeredlanguages": "10528"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:13-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Coast Mixtec (10528-mih) = Vulnerable (20 percent certain, based on the evidence available) ['bib69']"
+  }
+}

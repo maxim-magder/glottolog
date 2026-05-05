@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Western Mewahang",
+    "hid": "raf",
+    "level": "language",
+    "iso639-3": "raf",
+    "latitude": "27.4265",
+    "longitude": "87.2893",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Western Mewahang](https://endangeredlanguages.com/lang/5325)\nhttps://www.wikidata.org/entity/Q17442461"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:8**\n**cldf:np:nd:264**\n**hh:e:Gaenszle:Mewahang:1991**\n**hh:e:Gaenszle:Mewahang:2007**\n**hh:e:Mewahan:Mewahang**\n**hh:he:Toba:Rai**\n**hh:hvw:Grierson:3:I**\n**hh:hw:Hunter:High-Asia**\n**hh:ld:Rai:Lungkhim**\n**hh:lde:Gaenszle:Mewahang**\n**hh:s:Mewahan:Mewahan**\n**hh:sv:Gerber:Oberarun**\n**hh:ttyp:EbertGaenszle:Rai**\n**hh:vwsoc:Rai:Mewahang**\n**hh:w:Hodgson:Kirantis**"
+  },
+  "altnames": {
+    "multitree": "\nJindā\nMeohang, Western\nMeohang,Western\nMewahang\nNewahang\nNewahang Jimi\nNewang\nNewange Rai\nRai",
+    "lexvo": "\nWestern Meohang [en]",
+    "hhbib_lgcode": "\nBala\nBáláli\nKhambu-Balali\nKiranti-Balali\nLimkhim\nLingkhim\nLungkhim\nMeohang-Western\nMewahang\nMewahang (author is from Yaphu but the grammar mixed West and East Mewahang)\nMewahang of Bala\nTamku\nWestern Meohang\nWestmewahang\nYamdang",
+    "elcat": "\nJindā\nMeohang\nMewahang\nNewahang\nNewahang Jimi\nNewang\nNewange Rai\nRai\nWestern\nWestern Mewahang",
+    "glottolog": "\nWestern Meohang"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND passage"
+  },
+  "identifier": {
+    "multitree": "raf",
+    "endangeredlanguages": "5325"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:8-40, 81-90",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Mewahang (5325-raf) = Threatened (20 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:8)"
+  }
+}

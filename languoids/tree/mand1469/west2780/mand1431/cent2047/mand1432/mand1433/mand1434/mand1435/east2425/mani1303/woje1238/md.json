@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wojenaka",
+    "hid": "jod",
+    "level": "language",
+    "iso639-3": "jod",
+    "latitude": "9.72582",
+    "longitude": "-7.6104",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GN",
+      "ML"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11029540"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Braconnier:Dioula-Odienne:1999**\n**hh:d:Braconnier:Dioula-dOdienne**\n**hh:g:Braconnier:Dioula-dOdienne**\n**hh:hdial:Bolingetal:Mande-Nord**\n**hh:hdial:Bolingetal:Manding**\n**hh:hvw:Derive:Manding**\n**hh:hvw:Derive:Manding-Ivoire**\n**hh:phon:Braconnier:Tonal-Odienne**\n**hh:soc:Hochstetler:Eastern-Maninakan**\n**sil16:44053**"
+  },
+  "altnames": {
+    "multitree": "\nMalinké\nOdiennekakan\nOdienné Jula\nWojenaka",
+    "lexvo": "\nWojenaka [en]",
+    "hhbib_lgcode": "\nBodugukakan\nDioula d'Odienné\nOdiennekakan\nOdiennekan\nSienkokakan\nTudugukakan\nVandugukakan\nWojenakan\nWojenekakan"
+  },
+  "triggers": {
+    "lgcode": "\ndodienne\nenquette"
+  },
+  "identifier": {
+    "multitree": "jod"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Bolingetal:Manding** **hh:hvw:Derive:Manding-Ivoire**",
+    "subrefs": "\n**hh:hdial:Bolingetal:Manding**\n**hh:hvw:Derive:Manding-Ivoire**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wojenaka (jod-jod) = 6a* (Vigorous)."
+  }
+}

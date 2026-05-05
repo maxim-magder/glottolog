@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Tanema",
+    "hid": "tnx",
+    "level": "language",
+    "iso639-3": "tnx",
+    "latitude": "-11.68",
+    "longitude": "166.97",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Tanema](https://endangeredlanguages.com/lang/3523)\n[Tanema](https://grambank.clld.org/languages/tane1237)\n[Tanema](https://lexibank.clld.org/languages/abvdoceanic-Tanema)\nhttps://en.wikipedia.org/wiki/Tanema_language\nhttps://www.wikidata.org/entity/Q2106984"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:ew:Lesson:Vanikoro**\n**hh:hv:Francois:Vanikoro:2006**\n**hh:hvs:Francois:Vanikoro**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hw:dUrville:Astrolabe**\n**hh:typ:Francois:Vanikoro:Person**"
+  },
+  "altnames": {
+    "multitree": "\nTanema\nTanima",
+    "lexvo": "\nTanema [en]",
+    "elcat": "\nTanema\nTanima"
+  },
+  "identifier": {
+    "multitree": "tnx",
+    "endangeredlanguages": "3523"
+  },
+  "classification": {
+    "sub": "**hh:hv:RossNaess:Temotu**, **hh:hv:NaessBoerger:RSC**, **hh:hvs:Francois:Vanikoro**",
+    "subrefs": "\n**hh:hv:RossNaess:Temotu**\n**hh:hv:NaessBoerger:RSC**\n**hh:hvs:Francois:Vanikoro**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tanema (3523-tnx) = Critically Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

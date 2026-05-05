@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Siar-Lak",
+    "hid": "sjr",
+    "level": "language",
+    "iso639-3": "sjr",
+    "latitude": "-4.62059",
+    "longitude": "152.892",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Siar](https://lexibank.clld.org/languages/abvdoceanic-Siar)\n[Siar](https://wals.info/languoid/lect/wals_code_sir)\n[Siar-Lak](https://grambank.clld.org/languages/siar1238)\nhttps://en.wikipedia.org/wiki/Siar-Lak_language\nhttps://phoible.org/languages/siar1238\nhttps://www.wikidata.org/entity/Q3482907"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lynch:ross:etal:ed:02:22**\n**hh:e:Kingston:Siar**\n**hh:g:Frowein:Siar**\n**hh:g:Rowe:Siar**\n**hh:he:Strauch:Neu-Guinea**\n**hh:hew:StephanGraebner:Neu-Mecklenburg**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Latham:Comparative**\n**hh:s:Erdman:Siar**\n**hh:s:Ross:Siar**\n**hh:w:Strauch:477**\n**mpieva:Rowe2005Siargram**\n**sil16:33207**\n**sil16:51298**"
+  },
+  "altnames": {
+    "wals": "\nSiar",
+    "ruhlen (1987)": "\nSiar",
+    "moseley & asher (1994)": "\nSiar",
+    "multitree": "\nLak\nLamassa\nLambom\nSiar\nSiar-Lak",
+    "lexvo": "\nSiar-Lak [en]",
+    "hhbib_lgcode": "\nLamassa\nNeu-Irland 3 Ankerplatz Port Sulphur\nPort Praslin\nSiar"
+  },
+  "triggers": {
+    "lgcode": "\nNOT the AND siar\nusrai\npoetics"
+  },
+  "identifier": {
+    "wals": "sir",
+    "multitree": "sjr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:New-Ireland** **hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:New-Ireland**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Siar-Lak (sjr-sjr) = 6a (Vigorous)."
+  }
+}

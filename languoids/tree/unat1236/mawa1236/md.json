@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Mawa (Nigeria)",
+    "hid": "wma",
+    "level": "language",
+    "iso639-3": "wma",
+    "latitude": "10.8527",
+    "longitude": "9.72407",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6794339\nhttps://en.wikipedia.org/wiki/Mawa_language_(Nigeria)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Temple:NNigeria**"
+  },
+  "altnames": {
+    "multitree": "\nMawa\nNigeria",
+    "lexvo": "\nMawa (Nigeria) [en]\nMawa [en]",
+    "hhbib_lgcode": "\nMarawa\nMawa"
+  },
+  "triggers": {
+    "lgcode": "\ntschad AND mawa"
+  },
+  "identifier": {
+    "multitree": "wma"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E21",
+    "date": "2018-03-22T14:53:44",
+    "comment": "Mawa (wma-wma) = 10 (Extinct)."
+  }
+}

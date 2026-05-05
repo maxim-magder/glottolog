@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Maritime Sign Language",
+    "hid": "nsr",
+    "level": "language",
+    "iso639-3": "nsr",
+    "latitude": "45.0427",
+    "longitude": "-63.881",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Maritime Sign Language](https://endangeredlanguages.com/lang/4896)\nhttps://www.wikidata.org/entity/Q3915483\nhttps://en.wikipedia.org/wiki/Maritime_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:woodward:12**\n**hh:hld:Warner:Maritime-Sign**\n**hh:soc:CarbinSmith:Deaf-Heritage-Canada**\n**hh:wsoc:Buchanan:Maritime-Sign**\n**hh:wsoc:Yoel:Maritime-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nMaritime Sign Language\nNova Scotian Sign Language",
+    "lexvo": "\nLíngua Gestual das Províncias Marítimas [pt]\nMaritime Sign Language [en]",
+    "elcat": "\nMaritime Sign Language\nNova Scotian Sign Language"
+  },
+  "identifier": {
+    "multitree": "nsr",
+    "endangeredlanguages": "4896"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maritime Sign Language (4896-nsr) = Critically Endangered (60 percent certain, based on the evidence available) ([In 1961] the Deaf community was divided according to age and geographic location. There was no intergenerational contact between Deaf people, and therefore, no transmission of MSL language or culture. Deaf students had little exposure to MSL and MSL users.) [Yoel 2009](cldf:yoel:09)"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Yoel:Maritime-Sign**",
+    "subrefs": "\n**hh:wsoc:Yoel:Maritime-Sign**"
+  }
+}

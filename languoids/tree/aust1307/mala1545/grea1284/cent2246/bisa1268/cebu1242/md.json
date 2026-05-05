@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Cebuano",
+    "hid": "ceb",
+    "level": "language",
+    "iso639-3": "ceb",
+    "latitude": "8.38799",
+    "longitude": "124.367",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Cebuano](https://grambank.clld.org/languages/cebu1242)\n[Cebuano](https://wals.info/languoid/lect/wals_code_ceb)\nhttps://en.wikipedia.org/wiki/Cebuano_language\nhttps://phoible.org/languages/cebu1242\nhttps://www.wikidata.org/entity/Q33239"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cabonce:83**\n**cldf:dahl:85**\n**cldf:hart:65**\n**cldf:hart:nd**\n**cldf:malherbe:rosenberg:96**\n**cldf:quijano:37**\n**cldf:shryrock:93**\n**cldf:svelmoe:54**\n**cldf:valkama:00**\n**cldf:wolff:67**\n**hh:d:Cuenco:Binisaya**\n**hh:d:Hall:Visayan**\n**hh:d:Rafferty:Visayan**\n**hh:d:Wolff:Cebuano-Visayan**\n**hh:e:Locsin:Negros**\n**hh:g:Bermejo:Cebuana**\n**hh:g:BunyeYap:Cebuano:Beginners**\n**hh:g:Ensina:Bisaya**\n**hh:g:Lenches:Cebuano**\n**hh:g:PeaceCorps:Cebuano**\n**hh:g:Tanangkingsing:Cebuano**\n**hh:g:Wolff:Cebuano**\n**hh:g:Wolff:Cebuano-Visayan**\n**hh:h:Larena:Philippines**\n**hh:hld:Riedel:NMCelebes**\n**hh:hv:Zorc:Bisayan**\n**hh:hv:Zorc:Bisayan:1975**\n**hh:hv:Zorc:WBisayan**\n**hh:ld:Chirino:Filipinas**\n**hh:s:BunyeYap:Cebuano**\n**hh:s:Guillen:Bisaya**\n**hh:s:Rama:Binisaya**\n**hh:s:Romualdez:Bisayan**\n**hh:s:Tomas:Zebuana**\n**hh:s:Valkama:Cebuano**\n**hh:typ:Bell:Cebuano**\n**hh:typ:Luzares:Cebuano**\n**hh:typ:Payne:Cebuano**\n**hh:typ:Walters:Cebuano**\n**hh:vsoc:Leput:Boholano**\n**ldh:item_403726**\n**ldh:item_403729**\n**ldh:item_404015**\n**ldh:item_405019**\n**mpieva:Bermejo1894Artecomp**\n**mpieva:Meman1993Cebuanol**\n**mpieva:Wolff2001Beginnin**\n**sil16:10129**\n**sil16:11663**\n**sil16:11700**\n**sil16:35208**\n**sil16:36884**\n**sil16:44066**\n**sil16:48326**\n**sil16:48339**\n**sil16:48347**\n**sil16:51519**"
+  },
+  "altnames": {
+    "wals": "\nCebuano",
+    "wals other": "\nBisaya Cebuano\nCebuano Visayan",
+    "ruhlen (1987)": "\nCebuano",
+    "moseley & asher (1994)": "\nCebuano",
+    "multitree": "\nBinisaya\nBisaya\nBisayan\nCebuano\nSebuano\nSugbuanon\nSugbuhanon\nVisayan",
+    "lexvo": "\nBahasa Cebuano [id]\nCebua lingvo [eo]\nCebuano [de]\nCebuano language [en]\nCebuera [eu]\nCebun kieli [fi]\nCebuà [ca]\nIdioma cebuano [es]\nJęzyk cebuański [pl]\nLengua cebuann-a [lij]\nLingua Caebuana [la]\nLingua cebuana [gl]\nLíngua cebuana [pt]\nPagsasao a Cebuano [ilo]\nSalitan Cebuano [pag]\nSebuanų kalba [lt]\nSebúanó [is]\nSinugboanon [ceb]\nSiwuyanu simi [qu]\nSougbouaneg [br]\nTataramon na Cebuano [bcl]\nWikang Sebwano [tl]\ncebuano [fr]\nСебуано језик [sr]\nСебуанский язык [ru]\nسيبونى [arz]\nसेबुआनो भाषा [new]\nসেবুয়ানো ভাষা [bn]\nภาษาซีบัวโน [th]\nსებუანური ენა [ka]\nセブアノ語 [ja]\n宿霧語 [zh]\n세부아노어 [ko]",
+    "hhbib_lgcode": "\nBisaiasch\nBissaya\nBoholano\nLeyte\nPanay"
+  },
+  "triggers": {
+    "lgcode": "\nbisayan\nsacado\nzebuana\ncebuana\nencina\nbinisaya\ncebu\nescribio\ncalzado\nNOT english AND cebuano\nagustino\niningles\nvisaya"
+  },
+  "identifier": {
+    "wals": "ceb",
+    "multitree": "ceb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cebuano (ceb-ceb) = 3 (Wider communication). Statutory language of provincial identity in Cebu Province, 4 other areas (1991, ACFLC Section 3(f)). Native to the Philippines; used as a lingua franca in Central Visayas and most parts of Mindanao. Second most spoken language in the Philippines. Used in education, newspapers, films, and literature."
+  }
+}

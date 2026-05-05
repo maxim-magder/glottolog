@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tatuyo",
+    "hid": "tav",
+    "level": "language",
+    "iso639-3": "tav",
+    "latitude": "0.55582",
+    "longitude": "-70.5327",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\n[Tatuyo](https://endangeredlanguages.com/lang/2166)\n[Tatuyo](https://lexibank.clld.org/languages/hubercolumbian-Tatuyo)\n[Tatuyo](https://wals.info/languoid/lect/wals_code_tty)\n[tatuyo](https://lexibank.clld.org/languages/chaconcolumbian-Tatuyo)\nhttps://en.wikipedia.org/wiki/Tatuyo_language\nhttps://phoible.org/languages/tatu1247\nhttps://www.wikidata.org/entity/Q2524007"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4978**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:huber:reed:92:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:1079**\n**fabreall2009ann:Tukano17**\n**fabreall2009ann:Tukano_tatuyo00**\n**fabreall2009ann:Tukano_tatuyo01**\n**fabreall2009ann:Tukano_tatuyo03**\n**fabreall2009ann:Tukano_tatuyo04**\n**fabreall2009ann:Tukano_tatuyo05**\n**fabreall2009ann:Tukano_tatuyo06**\n**fabreall2009ann:Tukano_tatuyo07**\n**fabreall2009ann:Tukano_tatuyo09**\n**fabreall2009ann:Tukano_tatuyo10**\n**fabreall2009ann:Tukano_tatuyo13**\n**fabreall2009ann:Tukano_tatuyo14**\n**fabreall2009ann:Tukano_tatuyo15**\n**fabreall2009ann:Tukano_tatuyo16**\n**fabreall2009ann:Tukano_tatuyo17**\n**fabreall2009ann:Tukano_tatuyo18**\n**fabreall2009ann:Tukano_tatuyo19**\n**fabreall2009ann:Tukano_tatuyo20**\n**fabreall2009ann:Tukano_tatuyo21**\n**fabreall2009ann:Tukano_tatuyo22**\n**fabreall2009ann:Tukano_tatuyo23**\n**fabreall2009ann:Tukano_tatuyo24**\n**fabreall2009ann:Tukano_tatuyo25**\n**fabreall2009ann:Tukano_tatuyo26**\n**fabreall2009ann:Tukano_tatuyo27**\n**fabreall2009ann:Tukano_tatuyo28**\n**fabreall2009ann:Tukano_tatuyo29**\n**fabreall2009ann:Tukano_tatuyo30**\n**hh:e:Bidou:Tatuyo**\n**hh:g:Gomez-Imbert:Tatuyo**\n**hh:hvw:HuberReed:Colombia**\n**hh:s:Bostrom:Tatuyo**\n**hh:t:Whisler:Tatuyo**\n**hh:typ:Gomez-Imbert:Tatuyo**\n**hh:w:Mountain:Tucano-Swadesh**\n**mpieva:GomezImbert1982Delaform**\n**sil16:13252**\n**sil16:15202**\n**sil16:15234**\n**sil16:19325**\n**sil16:21842**\n**sil16:21843**\n**sil16:21844**\n**sil16:32741**\n**sil16:50394**"
+  },
+  "altnames": {
+    "wals": "\nTatuyo",
+    "moseley & asher (1994)": "\nTatuyo",
+    "multitree": "\nCarapana (Brésil)\nCarapana (Colombia)\nCarapana (Colombie)\nCarapana-Tapuya\nCarapano\nJuna\nKarapano\nKarapaná\nMextã\nMochda\nMoxdoa\nOa\nPamoa\nTatu-tapuya\nTatutapuyo\nTatuyo",
+    "lexvo": "\nTatuyo [en]",
+    "hhbib_lgcode": "\nTatu Tapuia",
+    "elcat": "\nCarapana-Tapuya\nJuna\nKarapano\nKarapaná\nMextã\nMochda\nMoxdoa\nOa\nPamoa\nTatu-tapuya\nTatutapuyo\nTatuyo"
+  },
+  "triggers": {
+    "lgcode": "\n<riaye\ngrammaticalement\nNOT construccion AND NOT on AND tatuyo\ntatuyo\nbianacas\npino"
+  },
+  "identifier": {
+    "wals": "tty",
+    "multitree": "tav",
+    "endangeredlanguages": "2166"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chacon:Proto-Tukanoan** **hh:gd:Ramirez:Yepa-Masa:2019**:5-7",
+    "subrefs": "\n**hh:hv:Chacon:Proto-Tukanoan**\n**hh:gd:Ramirez:Yepa-Masa:2019**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tatuyo (2166-tav) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

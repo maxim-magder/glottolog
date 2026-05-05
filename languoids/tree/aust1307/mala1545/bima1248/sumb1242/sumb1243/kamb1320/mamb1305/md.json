@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mamboru",
+    "hid": "mvd",
+    "level": "language",
+    "iso639-3": "mvd",
+    "latitude": "-9.42302",
+    "longitude": "119.55",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mamboru](https://endangeredlanguages.com/lang/9929)\nhttps://www.wikidata.org/entity/Q578815\nhttps://en.wikipedia.org/wiki/Mamboru_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lansing:nd**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:tengah:08**\n**hh:e:Needham:Mamboru**\n**hh:hlde:Onvlee:Cultuur**\n**hh:hvw:Budasi:Sumba**\n**hh:hvw:Putra:Sumba**\n**hh:w:Wielenga:Soemba**"
+  },
+  "altnames": {
+    "multitree": "\nMamboru\nMemboro",
+    "lexvo": "\nMamboru [en]",
+    "hhbib_lgcode": "\n13 Wendewa Timur\nMamboro\nMemboro",
+    "elcat": "\nMamboro\nMamboru\nMemboro"
+  },
+  "triggers": {
+    "lgcode": "\nmamboru"
+  },
+  "identifier": {
+    "multitree": "mvd",
+    "endangeredlanguages": "9929"
+  },
+  "classification": {
+    "sub": "**hh:hv:Asplund:Sumba**",
+    "subrefs": "\n**hh:hv:Asplund:Sumba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mamboru (9929-mvd) = Endangered (60 percent certain, based on the evidence available) (Threatened. The rate of population growth was 1.88 percent per annum during 1990-2000 periods. This condition decreased compared to the previous period. In the period of 1980-1990 the average percentage of population growth was 2.10 percent per annum. (I Wayan Arka, personal communication, November 2013)) [Tengah 2008](cldf:tengah:08)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Maaka",
+    "hid": "mew",
+    "level": "language",
+    "iso639-3": "mew",
+    "latitude": "11.5007",
+    "longitude": "11.9035",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Maha](https://endangeredlanguages.com/lang/3019)\nhttps://www.wikidata.org/entity/Q3438764\nhttps://en.wikipedia.org/wiki/Maaka_language"
+  },
+  "classification": {
+    "sub": "**hh:w:Newman:Maha**",
+    "subrefs": "\n**hh:w:Newman:Maha**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:e:Harnischfeger:Maaka**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:htyp:Leger:Bole-Tangale:2014**\n**hh:t:Suzzi:Maaka**\n**hh:typ:StorchColy:Maaka**\n**hh:w:Newman:Maha**\n**hh:w:Suzzi-ValliColy:Makaa**"
+  },
+  "altnames": {
+    "multitree": "\nMaaka\nMaga\nMagha\nMaha\nMaka",
+    "lexvo": "\nMaaka [en]\nMaaka language [en]",
+    "hhbib_lgcode": "\nBaina\nFaia (Wantobari)\nIkobi\nKomaio\nKuri\nMaha\nMoka\nSorobo",
+    "elcat": "\nMaaka\nMaga\nMagha\nMaha\nMaka"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND maha\nmaaka"
+  },
+  "identifier": {
+    "multitree": "mew",
+    "endangeredlanguages": "3019"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Maha (3019-mew) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

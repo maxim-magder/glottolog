@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Old Sirenik",
+    "hid": "ysr",
+    "level": "language",
+    "iso639-3": "ysr",
+    "latitude": "64.5192",
+    "longitude": "-173.925",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Sirenikski](https://endangeredlanguages.com/lang/10829)\nhttps://en.wikipedia.org/wiki/Sirenik_language\n[Yupik (Sirenik)](https://wals.info/languoid/lect/wals_code_ysi)\nhttps://www.wikidata.org/entity/Q28156",
+    "timespan": "1997-01-01/1997-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0064**\n**anla:ANLC0065**\n**anla:ANLC0066**\n**anla:ANLC0067**\n**anla:ANLC0068**\n**anla:ANLC0069**\n**anla:ANLC0070**\n**anla:ANLC0071**\n**anla:ANLC0072**\n**anla:ANLC0073**\n**anla:ANLC0074**\n**anla:ANLC0075**\n**anla:ANLC0076**\n**anla:ANLC0077**\n**anla:ANLC0078**\n**anla:ANLC0079**\n**anla:ANLC0080**\n**anla:ANLC0081**\n**cldf:krupnik:91**\n**cldf:menovshchikov:64**\n**cldf:mudrak:86**\n**cldf:vakhtin:98**\n**cldf:vaxtin:01**\n**cldf:vaxtin:95**\n**hh:d:Vaxtin:Eskimosskogo**\n**hh:d:Vaxtin:Sirenik**\n**hh:e:Schweitzer:Chukchi-Yupik**\n**hh:hvld:Holst:Eskimo-Aleutischen**\n**hh:s:Rodionova:Eskimosskomu**\n**hh:st:Menovscikov:Sirenikskix**\n**hh:st:Vaxtin:Sirenikskix**\n**hh:typ:Vaxtin:Eskimosskij**\n**hh:vw:VakhtinGolovko:Komandorskix-Aleutov**\n**mpieva:Menovscikov1964Jazyksir**\n**mpieva:Vachtin2000TheOldSi**"
+  },
+  "altnames": {
+    "wals": "\nYupik (Sirenik)",
+    "wals other": "\nEskimo (Sirenik)\nSirenik\nSirenik Eskimo\nYup'ik (Sirenik)",
+    "moseley & asher (1994)": "\nSirenik",
+    "multitree": "\nOld Sirenik\nOld Sirinek\nSirenik\nSirenik antiguo\nSirenikski\nVieux sirenik\nVuteen\nYupik (Sirenik)\nYupik, Sirenik",
+    "lexvo": "\nIdioma sirenik [es]\nSirenik Yupik [en]\nSirenik [de]\nSirenikeg [br]\nSirenikgbe [ee]\nSireniki Eskimo language [en]\nSirenikin kieli [fi]\nSzirenyiki eszkimó nyelv [hu]\nСиреникский язык [ru]",
+    "hhbib_lgcode": "\nSirenik\nSirenik Yupik\nSirenikski\nYupik\nYupik-Sirenik",
+    "elcat": "\nOld Sirenik\nSirenik\nSirenikski"
+  },
+  "triggers": {
+    "lgcode": "\nNOT materialy AND eskimosov\naleutischen\neskimosskij\neskimosskomu\nsirenikskix\nslovarnye\npraktikum"
+  },
+  "identifier": {
+    "wals": "ysi",
+    "multitree": "ysr",
+    "endangeredlanguages": "10829"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dorais:Inuit**:1-54",
+    "subrefs": "\n**hh:hv:Dorais:Inuit**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sirenikski (10829-ysr) = Dormant (The language is no longer spoken.) [Vakhtin 1998](cldf:vakhtin:98)"
+  }
+}

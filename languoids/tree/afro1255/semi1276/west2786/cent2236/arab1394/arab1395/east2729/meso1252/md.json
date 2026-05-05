@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Gilit Mesopotamian Arabic",
+    "hid": "acm",
+    "level": "language",
+    "iso639-3": "acm",
+    "latitude": "33.8178",
+    "longitude": "43.1095",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "IR",
+      "JO",
+      "SY",
+      "TR"
+    ],
+    "links": "\n[Arabic (Iraqi)](https://wals.info/languoid/lect/wals_code_arq)\nhttps://en.wikipedia.org/wiki/Gilit_Mesopotamian_Arabic\nhttps://www.wikidata.org/entity/Q115978649"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2399**\n**cldf:salim:62**\n**cldf:thesiger:64**\n**hh:d:Woodhead:Iraqi-Arabic**\n**hh:g:Erwin:Iraqi-Arabic**\n**hh:g:Leitner:Irakisch-Arabischen**\n**hh:g:Leitner:Khuzestani**\n**hh:g:Mahdi:Arabic-Basra**\n**hh:g:Wagoner:Iraqi-Arabic**\n**hh:g:vanEss:Arabic-Mesopotamia**\n**hh:h:Holes:Iraqi-Arabic**\n**hh:hld:KayeRosenhouse:Maltese**\n**hh:hv:Cadora:Arabic**\n**hh:hv:Prochazka:Arabic-Eastern-Anatolia**\n**hh:s:Ingham:Arabic-Euphrates-Bedouin**\n**hh:s:Ingham:Khuzestan**\n**hh:s:Ingham:Khuzestan:2006**\n**hh:s:Leitner:Khuzestani**\n**hh:s:Malaika:Bagdad**\n**hh:s:Malaika:Bagdad:1959**\n**hh:s:Prochazka:Arabic-Eastern-Anatolia**\n**hh:sdial:Blanc:Baghdad**\n**hh:st:Meissner:Neuarabische-Iraq**\n**hh:styp:Ingham:Arabic-Khuzistan**\n**hh:svtyp:Shabibi:Khuzistani-Arabic**\n**hh:typ:Denz:Kwayris**\n**hh:vld:MatrasShabibi:Khuzistani-Arabic**\n**hh:vld:Prochazka:Cilicia-Urfa**\n**hh:vtyp:Leitner:Khuzestan-Arabic**\n**mpieva:Denz1971DieVerba**\n**mpieva:Jastrow1978Diemesop**"
+  },
+  "altnames": {
+    "wals": "\nArabic (Iraqi)",
+    "wals other": "\nBagdahdi Arabic\nIraqi Arabic",
+    "moseley & asher (1994)": "\nArabic (Eastern)",
+    "multitree": "\nArabi\nArabic\nArabic (Iraqi)\nArabic, Mesopotamian Spoken\nBaghdadi Arabic\nFurati\nIraqi Arabic\nMesopotamian\nMesopotamian Arabic\nMesopotamian Gelet Arabic\nMesopotamian Qeltu Arabic\nMesopotamian Spoken\n`Arabi",
+    "lexvo": "\nArabeg Mezopotamia [br]\nDialekty mezopotamskie języka arabskiego [pl]\nIrakisch-Arabisch [de]\nIrakisk arabiska [sv]\nIraqi Arabic [en]\nMesopotamian Arabic [en]\nMezopotamski arapski [hr]\nÁrabe Iraquí [es]\nÁrabe iraquiano [pt]\nИрачки арапски јазик [mk]\nلهجة عراقية [ar]\nภาษาอาหรับอิรัก [th]\nアラビア語イラク方言 [ja]",
+    "hhbib_lgcode": "\nArabic-Mesopotamian Spoken\nBagdad\nBagdad Arabic\nBaghdad (Bg)\nBedouin of Central Northern Fertile Crescent\nBedouin of Harran-Urfa\nBedouin-type dialects of Urfa and Harran\nGilit Mesopotamian\nHarran-Urfa\nIraqi Arabic\nKwayris in der Provinz al-Hilla\nMesopotamian Arabic"
+  },
+  "triggers": {
+    "lgcode": "\ncommunal\nbagdad\nkhuzistan\nkhuzestan\nkhuzistani\nbaghdad\nverbalsyntax\neuphrates\nmesopotamian\nqeltu\nbasra"
+  },
+  "identifier": {
+    "wals": "arq",
+    "multitree": "acm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Talay:Arabic-Mesopotamia**",
+    "subrefs": "\n**hh:hv:Talay:Arabic-Mesopotamia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Mesopotamian (acm-acm) = 3 (Wider communication). De facto national working language. Originated in Mesopotamia, spread throughout the Middle East. Lingua franca of the whole region before the 7th century. Used in most everyday domains."
+  }
+}

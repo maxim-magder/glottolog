@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kyoli",
+    "hid": "cry",
+    "level": "language",
+    "iso639-3": "cry",
+    "latitude": "9.59",
+    "longitude": "8.06",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Cori](https://grambank.clld.org/languages/cori1240)\nhttps://en.wikipedia.org/wiki/Kyoli_language\nhttps://www.wikidata.org/entity/Q35204"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:s:Dihoff:Chori**\n**hh:wsoc:Decker:Kyoli**"
+  },
+  "altnames": {
+    "multitree": "\nChori\nCori",
+    "lexvo": "\nCori [en]\nCori language [en]",
+    "hhbib_lgcode": "\nBobang\nChori\nCori\nHal-Kyoli\nKyoli (Cori)",
+    "glottolog": "\nCori"
+  },
+  "triggers": {
+    "lgcode": "\nchori"
+  },
+  "identifier": {
+    "multitree": "cry"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:19-22",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kyoli (cry-cry) = 6a (Vigorous)."
+  }
+}

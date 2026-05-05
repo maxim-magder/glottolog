@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Eastern Highland Otomi",
+    "hid": "otm",
+    "level": "language",
+    "iso639-3": "otm",
+    "latitude": "20.5991",
+    "longitude": "-98.0978",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Eastern Highland Otomi](https://grambank.clld.org/languages/east2556)\n[Otomí (Sierra)](https://wals.info/languoid/lect/wals_code_ots)\nhttps://en.wikipedia.org/wiki/Sierra_Otomi\nhttps://www.wikidata.org/entity/Q13581718"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:echegoyen:voigtlander:07**\n**hh:g:Echegoyen:Otomi-Sierra**\n**hh:g:VoigtlanderEchegoyen:Otomi-Sierra**\n**hh:hbw:Lastra:Otomi**\n**hh:hevw:Lastra:Otomies**\n**hh:sd:Urbano:Otomi**\n**hh:sd:Urbano:Otomi:1856**\n**hh:t:Lastra:San-Pablito**\n**hh:w:Lastra:Otomi**\n**ldh:item_405389**\n**sil16:11227**\n**sil16:11228**\n**sil16:12580**\n**sil16:15615**\n**sil16:45862**\n**sil16:48769**\n**sil16:48772**\n**sil16:48773**"
+  },
+  "altnames": {
+    "wals": "\nOtomí (Sierra)",
+    "wals other": "\nOtomi\nSierra",
+    "multitree": "\nEastern Otomi\nOthomí\nOtomi\nOtomi (Sierra Oriental)\nOtomi, Eastern Highland\nOtomí\nOtomí (Sierra)\nOtomí de Huehuetla\nOtomí de Mezquital\nOtomí de la Sierra\nOtomí del Oriente\nOtomí del valle de Mezquital\nSierra Oriental Otomi\nYuhu",
+    "lexvo": "\nEastern Highland Otomi [en]\nHighland Otomi [en]",
+    "hhbib_lgcode": "\nOld Otomi of the Tula region\nOtomi-Eastern Highland\nSan Antonio Huehuetla\nSan Pablito\nSierra"
+  },
+  "triggers": {
+    "lgcode": "\nsemology\nluces\npahutlan\ncontemporaneas\nperegrinacion\npablito"
+  },
+  "identifier": {
+    "wals": "ots",
+    "multitree": "otm"
+  },
+  "classification": {
+    "sub": "**hh:hevw:Lastra:Otomies**",
+    "subrefs": "\n**hh:hevw:Lastra:Otomies**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Sierra Otomí (927-otm) = Vulnerable"
+  }
+}

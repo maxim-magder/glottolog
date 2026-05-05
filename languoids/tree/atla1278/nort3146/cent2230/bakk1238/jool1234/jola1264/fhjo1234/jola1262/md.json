@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Jola-Esulalu",
+    "hid": "csk",
+    "level": "language",
+    "iso639-3": "csk",
+    "latitude": "12.5089",
+    "longitude": "-16.5539",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Diola-Kasa](https://wals.info/languoid/lect/wals_code_csk)\nhttps://en.wikipedia.org/wiki/Kasa_language\nhttps://phoible.org/languages/jola1262\nhttps://www.wikidata.org/entity/Q3446622"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:wintz:09**\n**eballiso2009:49172**\n**hh:g:Diatta:Jola**\n**hh:g:Sambou:Diola-Kaasa**\n**hh:hv:Doneux:Senegal**\n**hh:hvld:Kane:Numeration-Ouest-Atlantiques-Mande**\n**hh:hvw:Barry:Joola**\n**hh:phon:PikeDiatta:Joola-Huluf**\n**hh:s:Diatta:Diola-Bliss**\n**hh:sd:Wintz:Dyola**\n**hh:typ:Sambou:Diola-Kasa**\n**hh:typ:Sambou:Joola-Esuulaalu**\n**hh:w:CarltonRand:Diola**\n**hh:wsoc:CarltonRand:Diolas**\n**sil16:41304**\n**sil16:42402**"
+  },
+  "altnames": {
+    "multitree": "\nCasa\nDiola-Kasa\nJola-Kasa\nJola-kassa\nJóola-Kasa\nKasa",
+    "lexvo": "\nJola-Kasa [en]",
+    "hhbib_lgcode": "\nBliss\nBliss-Niomoun\nBs Blis\nDiakène-Kasa (Selek)\nDiogué-Bliss\nElinkine-Kasa (Fluvial)\nEmaye-Selek\nEs Esuuleelu\nEssil\nEsulalu\nFloupe\nHf Huluf\nHuluf\nJola-Kasa\nKaasa\nKahinda-Kasa (Huluf)\nM'Lomp (suf)-Kasa (Esulalu)\nNiambalang-Kasa-Ayun\nNiomoun-Bliss\nOukout-Kasa (Huluf)"
+  },
+  "triggers": {
+    "lgcode": "\nesuulaalur\nniomoune\nkaasa\nrecueillies\nbliss\nhuluf\ndyola\nesuulaalu\nukiicaal\nesulaalu"
+  },
+  "identifier": {
+    "wals": "csk",
+    "multitree": "csk;jolk"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Jola-Kassa (1304-csk) = Vulnerable"
+  }
+}

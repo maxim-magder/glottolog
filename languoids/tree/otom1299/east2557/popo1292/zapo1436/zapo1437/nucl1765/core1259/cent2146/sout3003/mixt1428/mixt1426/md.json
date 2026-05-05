@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mixtepec Zapotec",
+    "hid": "zpm",
+    "level": "language",
+    "iso639-3": "zpm",
+    "latitude": "16.1724",
+    "longitude": "-96.2372",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtepec Zapotec](https://endangeredlanguages.com/lang/3124)\n[Mixtepec Zapotec](https://grambank.clld.org/languages/mixt1426)\n[Zapotec (Mixtepec)](https://wals.info/languoid/lect/wals_code_zam)\nhttps://en.wikipedia.org/wiki/Mixtepec_Zapotec\nhttps://www.wikidata.org/entity/Q7414598"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1164**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Reeck:Zapotec**\n**hh:g:Ramos:Zapoteco-San-Pedro-Mixtepec**\n**hh:hv:Campbell:Central-Zapotec**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:Ramos:Zapoteco-San-Pedro-Mixtepec**\n**hh:phon:Ramos:Zapoteco-San-Pedro-Mixtepec:2009**\n**hh:s:Hunn:Zapoteco-Mixtepec**\n**hh:s:Hunnetal:Mixtepec-Zapotec**\n**hh:s:Mendez:Cisyautepequeno**\n**hh:s:Vasquez:Zapoteco-San-Pedro-Mixtepec**\n**hh:typ:Nelson:San-Juan-Mixtepec-Zapotec**\n**otomanguean:Zapotec399**\n**otomanguean:Zapotec505**"
+  },
+  "altnames": {
+    "wals": "\nZapotec (Mixtepec)",
+    "wals other": "\nMixtepec\nSan Juan Mixtepec Zapoteco\nZapotec",
+    "ruhlen (1987)": "\nSapoteko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nEastern Miahuatlán Zapotec\nEastern Sapoteko\nEastern Zapoteco\nMiahuatec\nMiahuatlan\nMixtepec Zapotec\nSouthern Mountain Zapotec\nZapotec\nZapotec (Mixtepec)\nZapotec, Mixtepec\nZapoteco (Mixtepec)\nZapoteco de Petapa\nZapoteco de San Bartolo Yautepec\nZapoteco de San Juan Mixtepec\nZapoteco mixtepeco\nZapotèque de Mixtepe\nZapotèque de Petapa\nZapotèque de San Bartolo Yautepec",
+    "lexvo": "\nMixtepec Zapotec [en]",
+    "hhbib_lgcode": "\nSan Juan Mixtepec Zapotec\nSan Juan Mixtepec located at 16 deg 16 N and 96 deg 18 W\nZapotec San Pedro Mixtepec",
+    "elcat": "\nEastern Zapoteco\nMiahuatec\nMiahuatlan\nMixtepec\nMixtepec Zapotec\nSouthern Mountain Zapotec\nZapotec\nZapotec (Mixtepec)\nZapoteco (Mixtepec)\nZapoteco de San Juan Mixtepec"
+  },
+  "triggers": {
+    "lgcode": "\ndialectologico\nglottalization\npropriedades\nsuroriental\ncisyautepequeno\nmorfofonologicas\nzapotec AND mixtepec\nditse"
+  },
+  "identifier": {
+    "wals": "zam",
+    "multitree": "zpm",
+    "endangeredlanguages": "3124"
+  },
+  "classification": {
+    "sub": "**hh:s:Hunnetal:Mixtepec-Zapotec**:4",
+    "subrefs": "\n**hh:s:Hunnetal:Mixtepec-Zapotec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mixtepec Zapotec (3124-zpm) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

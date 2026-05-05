@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ghomara",
+    "hid": "gho",
+    "level": "language",
+    "iso639-3": "gho",
+    "latitude": "34.7979",
+    "longitude": "-4.6696",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MA"
+    ],
+    "links": "\n[Ghomara](https://endangeredlanguages.com/lang/8469)\n[Ghomara](https://grambank.clld.org/languages/ghom1257)\nhttps://en.wikipedia.org/wiki/Ghomara_language\nhttps://www.wikidata.org/entity/Q35315"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**hh:e:Camps:Ghomara**\n**hh:g:Mourigh:Ghomara-Berber**\n**hh:g:elHannouche:Ghomara-Berber**\n**hh:t:Colin:Gmara**\n**hh:v:elHannouche:Ghomara-Berber**"
+  },
+  "altnames": {
+    "multitree": "\nGhmara\nGhomara\nGhumāra",
+    "lexvo": "\nGhomara [en]",
+    "elcat": "\nGhmara\nGhomara\nGhomara Berber\nGhumāra"
+  },
+  "triggers": {
+    "lgcode": "\ngmara\nghomara"
+  },
+  "identifier": {
+    "multitree": "gho;ghom",
+    "endangeredlanguages": "8469"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Arabic-Berber**:21 **hh:g:Gutova:Senhaja**:34-50 **hh:v:Kossmann:Senhaja**",
+    "subrefs": "\n**hh:hv:Kossmann:Arabic-Berber**\n**hh:g:Gutova:Senhaja**\n**hh:v:Kossmann:Senhaja**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ghomara (8469-gho) = Threatened (80 percent certain, based on the evidence available) (...not only elderly women or elderly in general speak Ghomara Berber but also children. Children learn this language at home.) [Hannouche 2010](cldf:hannouche:10)"
+  }
+}

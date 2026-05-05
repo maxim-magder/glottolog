@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wampar",
+    "hid": "lbq",
+    "level": "language",
+    "iso639-3": "lbq",
+    "latitude": "-6.67364",
+    "longitude": "146.662",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Wampar](https://lexibank.clld.org/languages/abvdoceanic-Wampar)\nhttps://en.wikipedia.org/wiki/Wampar_language\nhttps://www.wikidata.org/entity/Q7966946"
+  },
+  "sources": {
+    "glottolog": "\n**hh:et:Fischer:Wampar**\n**hh:h:Schmitz:Nordost-Neuguinea**\n**hh:hld:Smith:Morobe**\n**hh:hv:Ross:WMelanesia**\n**hh:hvphon:Holzknecht:Markham**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:ld:Holzknecht:Adzera**\n**hh:sd:Fischer:Wampar**"
+  },
+  "altnames": {
+    "multitree": "\nLaewamba\nLaewomba\nLaiwomba\nWampar",
+    "lexvo": "\nWampar [en]",
+    "hhbib_lgcode": "\nDagin\nWPA"
+  },
+  "triggers": {
+    "lgcode": "\nwampar"
+  },
+  "identifier": {
+    "multitree": "lbq;wamp"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Holzknecht:Markham**",
+    "subrefs": "\n**hh:hvphon:Holzknecht:Markham**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wampar (lbq-lbq) = 6b (Threatened)."
+  }
+}

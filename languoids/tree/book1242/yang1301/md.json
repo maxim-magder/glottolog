@@ -1,0 +1,30 @@
+{
+  "core": {
+    "name": "Yangbye",
+    "hid": "ybd",
+    "level": "language",
+    "iso639-3": "ybd",
+    "latitude": "18.524",
+    "longitude": "94.2543",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56377\nhttps://en.wikipedia.org/wiki/Ramree_dialect"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Bradley:Burmese**\n**iso6393:2011-043**"
+  },
+  "iso_retirement": {
+    "comment": "Both Chaungtha and Yangbye refer to similar varieties within the Rakhine (rki)\nlanguage. The speakers of these dialects identify themselves as \"Rakhine\".\nWordlists collected on Yangbye island and in Kyauktaw Township share at least\n94% lexical similarity with the prestige variety of Rakhine spoken in Sittwe\nTown.",
+    "code": "ybd",
+    "name": "Yangbye",
+    "effective": "2012-02-03",
+    "remedy": "merged into Rakhine [rki]",
+    "reason": "merge",
+    "change_request": "2011-043",
+    "change_to": "\nrki"
+  }
+}

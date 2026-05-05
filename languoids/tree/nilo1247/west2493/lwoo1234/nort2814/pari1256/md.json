@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Päri",
+    "hid": "lkr",
+    "level": "language",
+    "iso639-3": "lkr",
+    "latitude": "5.09472",
+    "longitude": "32.4822",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36487\nhttps://en.wikipedia.org/wiki/P%C3%A4ri_language\n[Päri](https://wals.info/languoid/lect/wals_code_par)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:andersen:00**\n**cldf:andersen:89**\n**cldf:driberg:25:2**\n**cldf:evans-pritchard:40:3**\n**cldf:walsh:22**\n**eballiso2009:12431**\n**eballiso2009:27484**\n**eballiso2009:27489**\n**eballiso2009:27720**\n**eballiso2009:49109**\n**eballiso2009:5733**\n**eballiso2009:6369**\n**hh:h:Gilley:Lwoian**\n**hh:he:Schilde:Niloten**\n**hh:hvtyp:Storch:WNilotic**\n**hh:phon:Andersen:Pari**\n**hh:s:Simeoni:Pari**\n**hh:typ:Andersen:Pari**\n**hh:typ:Konig:MarkNom**\n**mpieva:Simeoni1978PariaLuo**"
+  },
+  "altnames": {
+    "glottolog": "\nPari",
+    "wals": "\nPäri",
+    "wals other": "\nLokoro\nPari",
+    "multitree": "\nLokoro\nPäri",
+    "lexvo": "\nPäri [en]"
+  },
+  "triggers": {
+    "lgcode": "\nlwoian\nNOT vocabulary AND NOT to AND pari\npari"
+  },
+  "identifier": {
+    "wals": "par",
+    "multitree": "lkr"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Päri (lkr-lkr) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Mlabri",
+    "hid": "mra",
+    "level": "language",
+    "iso639-3": "mra",
+    "latitude": "18.5533",
+    "longitude": "101.163",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH"
+    ],
+    "links": "\n[Mlabri](https://endangeredlanguages.com/lang/1240)\n[Mlabri](https://grambank.clld.org/languages/mlab1235)\n[Mlabri](https://lexibank.clld.org/languages/peirosaustroasiatic-Mlabri)\n[Mlabri (Minor)](https://wals.info/languoid/lect/wals_code_mlm)\nhttps://en.wikipedia.org/wiki/Mlabri_language\nhttps://www.wikidata.org/entity/Q3073465"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rischel:Mlabri-Mon-Khmer** **hh:ld:Rischel:Mlabri:2020**",
+    "subrefs": "\n**hh:hv:Rischel:Mlabri-Mon-Khmer**\n**hh:ld:Rischel:Mlabri:2020**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bernatzik:51**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:flatz:63:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:pookajorn:85**\n**cldf:pookajorn:88**\n**cldf:trier:81**\n**cldf:velder:63:1**\n**hh:e:Bernatzik:Gula**\n**hh:e:Bernatzik:Yellow-Leaves**\n**hh:e:Boeles:Mrabri**\n**hh:e:Bourke:Phi-Tong**\n**hh:e:Flatz:Mlabri**\n**hh:e:Kerr:Lawa**\n**hh:e:NimmanahaemindaHartland:Phi-Tong**\n**hh:e:Pookajorn:Mlabri**\n**hh:e:Seidenfaden:Kha-Tong**\n**hh:e:Trier:Mlabri**\n**hh:e:Velder:Phi-Tong-Luang**\n**hh:e:Winit:Phi-Tawng**\n**hh:ephon:Paiyaphrohm:Mlabri**\n**hh:g:Rischel:Minor-Mlabri**\n**hh:h:Kato:Suma-Mlabri**\n**hh:he:Fortier:HG-Southeast-Asia**\n**hh:he:Srisavasdi:Siam**\n**hh:hsoc:Proschan:Laos-Vietnam**\n**hh:hv:Rischel:Mlabri-Mon-Khmer**\n**hh:ld:GaineyHarris:Phi-Tong-Luang**\n**hh:ld:Rischel:Mlabri**\n**hh:ld:Rischel:Mlabri:2020**\n**hh:ld:Rischel:Yumbri**\n**hh:ld:Rischel:Yumbri:1987**\n**hh:phon:Rischel:Mlabri:1982**\n**hh:s:Batscher:Mlabri**\n**hh:s:Ito:Muraburi**\n**hh:v:Rischel:Mlabri-Tin**\n**hh:vld:Rischel:Kammuic**\n**hh:vld:Rischel:Khmuic**\n**hh:vsoc:Rischel:Contact-Tribal**\n**hh:vw:RischelEgerod:Yumbri**\n**hh:w:Nimmanahaeminda:Mrabri**\n**hh:w:Thongkum:Mlabri**\n**mpieva:Sakamoto2005Mlabrite**\n**sil16:41973**\n**sil16:49008**"
+  },
+  "altnames": {
+    "wals": "\nMlabri (Minor)",
+    "wals other": "\nMalabri (Minor)",
+    "ruhlen (1987)": "\nMrabri",
+    "moseley & asher (1994)": "\nMrabri",
+    "multitree": "\nMa Ku\nMabri\nMla\nMla Bri\nMla-Bri\nMlabri\nMlabri (Minor)\nMrabri\nPhi Thong Luang\nYellow Leaf\nYumbri",
+    "lexvo": "\nMlabri [en]\nMlabri language [en]\nภาษามลาบรี [th]",
+    "hhbib_lgcode": "\nKa Tawng Luang\nMlabri-Nimmanhaeminda\nMlabri-Rischel\nMrabri\nPhi Tawng Luang\nPhi Tong Luang",
+    "elcat": "\nMa Ku\nMabri\nMla\nMla Bri\nMla-Bri\nMlabri\nMlabri (Minor)\nMrabri\nPhi Thong Luang (\"Spirits of yellow leaves\")\nYellow Leaf\nYumbri\nผีตองหลือง\nมละบริ\nเผ่าตองหลือง"
+  },
+  "triggers": {
+    "lgcode": "\nphi\nmrabri\nyumbri\nbernatziks\nrefound\nkhon\nmlabri\ngelben\ngeister"
+  },
+  "identifier": {
+    "wals": "mlm",
+    "multitree": "mlab;mra",
+    "endangeredlanguages": "1240"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mlabri (1240-mra) = Threatened (100 percent certain, based on the evidence available) (The Mlabri marry other Mlbari and speak the language to their children. But their society is changing very rapidly (from hunting-gathering to farming) which might affect the survival of the Mlabri languages given their low population.) [Bätscher 2015](cldf:baetscher:15)"
+  }
+}

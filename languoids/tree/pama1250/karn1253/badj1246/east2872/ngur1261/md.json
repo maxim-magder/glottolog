@@ -1,0 +1,58 @@
+{
+  "core": {
+    "name": "Wilson River (Grey Range)",
+    "hid": "nbx",
+    "level": "language",
+    "iso639-3": "nbx",
+    "latitude": "-27.58",
+    "longitude": "142.45",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Wangkumara](https://wals.info/languoid/lect/wals_code_wan)\n[Wilson River (Grey Range)](https://grambank.clld.org/languages/ngur1261)\nhttps://en.wikipedia.org/wiki/Ngura_languages\nhttps://www.wikidata.org/entity/Q13653138",
+    "timespan": "1988-01-01/1988-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2729**\n**asjp2010:4240**\n**asjp2010:628**\n**cldf:breen:nd:3**\n**cldf:mcdonald:wurm:79**\n**hh:g:McDonaldWurm:Wangkumara**\n**hh:hv:Bowern:Karnic:1998**\n**hh:hv:Bowern:Karnic:2001**\n**hh:hvw:Breen:Western-Queensland:1971**\n**hh:hvw:Waferetal:New-South-Wales**\n**hh:ldw:Holmer:Queensland**\n**hh:sd:Robertson:Wangkumara**\n**hh:w:Foott:Nockatoonga**\n**hh:w:SullivanEglinton:Booloo**\n**iso6393:2012-077**\n**ozbib:1660**\n**ozbib:17**\n**ozbib:1973**\n**ozbib:240**\n**ozbib:249**\n**ozbib:250**\n**ozbib:251**\n**ozbib:253**\n**ozbib:3754**\n**ozbib:4872**\n**ozbib:4873**\n**ozbib:5086**\n**ozbib:602**\n**ozbib:6797**\n**ozbib:6944**\n**ozbib:7194**\n**ozbib:765**\n**ozbib:773**\n**ozbib:905**"
+  },
+  "altnames": {
+    "wals": "\nWangkumara",
+    "wals other": "\nWongkumara",
+    "ruhlen (1987)": "\nWanggumara",
+    "moseley & asher (1994)": "\nWangkumara",
+    "multitree": "\nBaddyeri\nBaderi\nBadjedi\nBadjiri\nByjerri\nEastern Karnic\nGalali\nGarlali\nKalil\nKarenggapa\nKarrengappa\nKullalli\nKullally\nKullilla\nKurengappa\nNgura\nNgura Subgroup\nPoidgerry\nWangkumara\nWankgumara\nWankumara-Punthamara\nWongkumara\nWonkamara\nWonkamarra\nWonkamura\nWonkamurra\nWonkomarra\nWonkubara",
+    "lexvo": "\nNgura [en]\nWangkumara [en]",
+    "hhbib_lgcode": "\nBadjiri\nBadjirri\nBitharra\nDhiraila\nGarlali\nKalali\nMambangura\nNgura\nPitjara\nPumthamara\nPunthamara\nPunthamara-Kalali\nThereila\nThiraila\nThis is Punthamara (not Garlali)\nWangkumara\nWilson River\nWilson River language (Wangkumarra)\nWonkomarra (= old form of Wangkumara)",
+    "glottolog": "\nNgura"
+  },
+  "triggers": {
+    "lgcode": "\nwilson\nnockatoonga\nbooloo\ngalali\nwankumara\nthargominda\nwangkumara"
+  },
+  "iso_retirement": {
+    "comment": "There are 11 dialects listed under the existing Ngura nbx code. Dr. Bowern\nsuggests they be understood as follows:\n\nDr. Bowern supports the theory proposed that \"Wurm and Hattori (1981) list the\ndialects as separate languages\", as cited in the ethnologue entry for Ngura, as\nfar as these four listed varieties go. Dr. Bowern suggests that Punthamara,\nGarlali, Wangkumara, Badjiri, and Eastern Karnic be listed as separate languages\nunder a Ngura macrolanguage with the existing nbx code (if the nbx code must be\nretired, please list all these under the Ngura sub-family 190-16 since nbx will\neffectively be redundant).\n\nThe remaining dialects under the existing nbx code--Bidjara, Mambangura,\nMingbari, Ngurawarla, Yarumarra--should be listed as dialects of a new code,\nEastern Karnic.\n\nNote Dhiraila and Karendala (Garandala) are NOT dialects in any sense, they\nshould be listed as alternate names of Eastern Karnic.\n\nWe believe that Dr. Bowern's research and expertise on languages of Australia,\nas well as the support of the sources listed below are sufficient to define\nthese as distinct languages.",
+    "code": "nbx",
+    "name": "Ngura",
+    "effective": "2013-01-23",
+    "remedy": "Split into Eastern Karnic [ekc], Garlali [gll], Punthamara [xpt], Wangkumara [xwk], and Badjiri [jbi]",
+    "reason": "split",
+    "change_request": "2012-077",
+    "change_to": "\nekc\ngll\nxpt\nxwk\njbi"
+  },
+  "identifier": {
+    "wals": "wan",
+    "multitree": "ngra;nbx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Breen:Karnic** **hh:hv:Bowern:Karnic:2010** **hh:hv:BowernAtkinson:Pama-Nyungan**:832-833",
+    "subrefs": "\n**hh:hv:Breen:Karnic**\n**hh:hv:Bowern:Karnic:2010**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Wangkumara (6803-xwk) = Awakening; Punthamara (6722-xpt) = Dormant"
+  }
+}

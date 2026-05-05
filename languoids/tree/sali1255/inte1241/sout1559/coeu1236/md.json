@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Coeur d'Alene",
+    "hid": "crd",
+    "level": "language",
+    "iso639-3": "crd",
+    "latitude": "47.2958",
+    "longitude": "-116.715",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Coeur d'Alene](https://endangeredlanguages.com/lang/1695)\n[Coeur d'Alene](https://grambank.clld.org/languages/coeu1236)\n[Coeur d'Alene](https://wals.info/languoid/lect/wals_code_coe)\nhttps://en.wikipedia.org/wiki/Coeur_d%27Alene_language\nhttps://phoible.org/languages/coeu1236\nhttps://www.wikidata.org/entity/Q32915"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:doak:92**\n**cldf:ed:10**\n**cldf:fitzgerald:97**\n**cldf:golla:goddard:etal:08**\n**cldf:moseley:07**\n**cldf:np:12:5**\n**cldf:np:nd:259**\n**cldf:np:nd:264**\n**cldf:ostler:rudes:ed:00:6**\n**cldf:ray:42**\n**cldf:reichard:59**\n**cldf:simons;:fennig:ed:13**\n**cldf:sloat:80**\n**hh:d:Barthmaier:Coeur-dAlene**\n**hh:e:Palmer:Coeur-Alene**\n**hh:g:Doak:dAlene**\n**hh:g:Reichard:dAlene**\n**hh:gd:Nicodemus:CoeurdAlene**\n**hh:hv:Swadesh:Salish:1950**\n**hh:phon:Johnson:Coeur-dAlene**\n**hh:s:Bischoff:Coeur-dAlene**\n**hh:t:Hayes:Coeur-dAlene**\n**hh:t:Nelson:Coeur-dAlene**\n**hh:typ:Vincent:Coeur-Alene**"
+  },
+  "altnames": {
+    "wals": "\nCoeur d'Alene",
+    "ruhlen (1987)": "\nCoeur d'Alene",
+    "moseley & asher (1994)": "\nCoeur d'Alene",
+    "multitree": "\nCoeur D'Alene\nCoeur d'Alene\nCoeur d’Alene\nCordaleno\nSkitswish\nSnchitsu'umshtsn\nsnčícuʔumšcn",
+    "lexvo": "\nCoeur d'Alene [en]\nCoeur d'Alene language [en]\nCœur d'Alène [fr]",
+    "elcat": "\nCoeur d'Alene\nSkitswish\nSnchitsu'umshtsn\nsnčícuʔumšcn",
+    "hhbib_lgcode": "\nCoeur d'Alene Cr"
+  },
+  "triggers": {
+    "lgcode": "\ncoeur\ndalene"
+  },
+  "identifier": {
+    "wals": "coe",
+    "multitree": "crd",
+    "endangeredlanguages": "1695"
+  },
+  "classification": {
+    "sub": "**hh:h:Davis:Salish** **hh:hv:Thompson:Salishan**",
+    "subrefs": "\n**hh:h:Davis:Salish**\n**hh:hv:Thompson:Salishan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Coeur d'Alene (1695-crd) = Critically Endangered (100 percent certain, based on the evidence available) [Vincent 2014](cldf:vincent:14)"
+  }
+}

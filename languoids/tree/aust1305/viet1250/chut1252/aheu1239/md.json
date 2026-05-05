@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Thavung",
+    "hid": "thm",
+    "level": "language",
+    "iso639-3": "thm",
+    "latitude": "17.7655",
+    "longitude": "104.229",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH"
+    ],
+    "links": "\n[Phonsung](https://endangeredlanguages.com/lang/5882)\n[Thavung](https://endangeredlanguages.com/lang/1214)\n[Thavung](https://grambank.clld.org/languages/aheu1239)\nhttps://en.wikipedia.org/wiki/Thavung_language\nhttps://phoible.org/languages/aheu1239\nhttps://www.wikidata.org/entity/Q34780"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3031**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Suwilai:Thavung**\n**hh:g:Srisakorn:Thavung**\n**hh:h:Chamberlain:Vietic-Khamkeut**\n**hh:he:Schliesinger:Austro-Asiatic:Laos**\n**hh:hel:Bradley:EAsia**\n**hh:hv:Ferlus:Viet-Muong**\n**hh:phon:Suwilai:So**\n**hh:phon:Waiyanont:Thavung**\n**hh:w:Ferlus:Thavung**\n**hh:w:Suwilai:So**"
+  },
+  "altnames": {
+    "multitree": "\nAheu\nAhlao\nKa Tawng Luang\nKha\nKha Tong Luang\nKha Tong Luong\nPhi Taung Luang\nPhon Soung\nPhonesoung\nPhonsung\nSach\nSo\nSo Thavung\nSotawueng\nTac-cui\nThavung\nThavung (République démocratique populaire lao)\nThavung (Tailandia)\nThavung (Thaïlande)\nTong-luang",
+    "lexvo": "\nAheu [en]\nAheu language [en]",
+    "hhbib_lgcode": "\nAheu\nPhonsung (Aheu)\nSo\nThaveung",
+    "elcat": "\nAhao\nAheu\nAhlao\nKa Tawng Luang\nKha\nKha Tong Luang\nKha Tong Luong\nPhi Taung Luang\nPhon Soung\nPhonesoung\nPhonsung\nSach\nSo\nSo Thavung\nSotawueng\nTac-cui\nThavung\nTong-luang"
+  },
+  "triggers": {
+    "lgcode": "\nbolikhamxai\npreliminary AND thavung\nkhamkert"
+  },
+  "identifier": {
+    "multitree": "thm",
+    "endangeredlanguages": "1214"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic:2015**:205",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic:2015**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Phonsung (5882) = Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

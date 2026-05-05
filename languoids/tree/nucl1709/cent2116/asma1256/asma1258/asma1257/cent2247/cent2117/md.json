@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Central Asmat",
+    "hid": "cns",
+    "level": "language",
+    "iso639-3": "cns",
+    "latitude": "-5.80391",
+    "longitude": "138.471",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Asmat](https://wals.info/languoid/lect/wals_code_asm)\n[Asmat, Central (Kainak, Atat Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-asmat-central-kainak-atat)\n[Asmat, Central (Keenakap, Namen Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-asmat-central-keenakap-namen)\n[Asmat, Central (Mecamup, Amisu Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-asmat-central-mecamup-amisu)\n[Asmat, Central (Mecamup, Omanesep Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-asmat-central-mecamup-omanesep)\nhttps://en.wikipedia.org/wiki/Central_Asmat_language\nhttps://www.wikidata.org/entity/Q11732048"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:drabbe:59:1**\n**cldf:drabbe:59:2**\n**hh:d:Drabbe:Asmat**\n**hh:e:Bergman:Kannibal**\n**hh:e:Dobratz:Asmat**\n**hh:e:Eyde:Asmat**\n**hh:e:Pouwer:Asmat-Kamoro**\n**hh:e:Zubrinich:Asmat**\n**hh:e:vanAmelsvoort:Asmat**\n**hh:e:vanArsdale:Asmat**\n**hh:e:vanArsdale:Asmat:1975**\n**hh:e:vanderSchoot:Mimika-Asmat**\n**hh:g:Drabbe:Asmat**\n**hh:gt:Voorhoeve:Asmat**\n**hh:hs:Drabbe:Asmat**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Voorhoeve:Asmat**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Drabbe:24**\n**hh:hw:Drabbe:Asmat-Dialecten**\n**hh:hw:Drabbe:ZWNG**\n**hh:hw:Galis:NNG**\n**hh:hwsoc:Leboldetal:Lower-Digul**\n**hh:phon:Roesler:Ajam-Asmat**\n**sil16:21795**"
+  },
+  "altnames": {
+    "multitree": "\nAsmat\nAsmat, Central\nCentral Asmat\nJas\nManowee\nYas",
+    "lexvo": "\nCentral Asmat [en]",
+    "hhbib_lgcode": "\nAjam dialect of Agats\nAs. (= Asmat)\nAsmat\nAsmat (Vo)\nAsmat-Ayam\nAsmat-Central\nBisman Asmat of Suru village\nCentral Asmat/Isyaman\nKawenak dialect\nKeenok dialect\nKomor"
+  },
+  "triggers": {
+    "lgcode": "\najam AND asmat\ncentral AND asmat\nflamingo AND bay\njaya AND asmat"
+  },
+  "identifier": {
+    "multitree": "cns"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Voorhoeve:Asmat**",
+    "subrefs": "\n**hh:hvw:Voorhoeve:Asmat**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Asmat, Central (cns-cns) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Central Kanuri",
+    "hid": "knc",
+    "level": "language",
+    "iso639-3": "knc",
+    "latitude": "11.8",
+    "longitude": "13.13",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NE",
+      "NG",
+      "SD",
+      "TD"
+    ],
+    "links": "\n[Central Kanuri](https://grambank.clld.org/languages/cent2050)\n[Kanuri](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Kanuri)\n[Kanuri](https://lexibank.clld.org/languages/polyglottaafricana-Kanuri)\n[Kanuri](https://lexibank.clld.org/languages/wold-Kanuri)\n[Kanuri](https://wals.info/languoid/lect/wals_code_knr)\nhttps://en.wikipedia.org/wiki/Central_Kanuri\nhttps://phoible.org/languages/cent2050\nhttps://www.wikidata.org/entity/Q15637215"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonymous:90:2**\n**cldf:bybee:perkins:etal:94**\n**cldf:cohen:60**\n**cldf:cohen:61**\n**cldf:cyffer:78**\n**cldf:cyffer:91**\n**cldf:denham:clapperton:26**\n**cldf:moravcsik:78**\n**cldf:nachtigal:81**\n**cldf:schultze:13**\n**hh:d:Cyffer:Kanuri**\n**hh:d:CyfferHutchison:Kanuri**\n**hh:dial:Lohr:Kanuri**\n**hh:e:Cohen:Kanuri-Bornu**\n**hh:g:Cyffer:Kanuri**\n**hh:g:Cyffer:Kanuri:1974**\n**hh:g:CyfferBulakarima:Kanuri**\n**hh:g:Hutchison:Kanuri**\n**hh:g:Hutchison:Kanuri:1976**\n**hh:g:Lukas:Kanuri**\n**hh:h:Latham:Africa**\n**hh:hld:Bowdich:Cape-Coast-Ashantee**\n**hh:hv:Adelungetal:Mithridates:31**\n**hh:hv:Bulakarima:Kanembu-Kanuri**\n**hh:hv:Bulakarima:Kanuri-Dialects**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Stanley:Dark:II**\n**hh:phon:Awobuluyi:Yerwa-Kanuri**\n**hh:s:Benton:Kanuri**\n**hh:s:Cyffer:Kanuri**\n**hh:s:Cyffer:Kanuri:1998**\n**hh:s:Ellison:Kanuri**\n**hh:s:Norris:Bornu**\n**hh:s:vonDuisburg:Kanuri**\n**hh:soc:Jarrette:Kanuri**\n**hh:typ:Cyffer:Kanuri:Spatial**\n**hh:v:Awagana:Kanuri-Buduma**\n**hh:w:Ellero:Tacruri**\n**hh:w:Lohretal:Kanuri**\n**hh:w:Norris:WCAfrica**\n**hh:w:Spaulding:Sinnar**\n**ldh:item_407120**\n**mpieva:122**\n**mpieva:Cyffer1990Dictiona**\n**mpieva:Hutchison1981Areferen**\n**mpieva:Koelle1854Grammaro**\n**mpieva:Koelle1968Africann**\n**mpieva:Lukas1929KanuriTe**\n**sil16:44740**\n**sil16:44895**\n**sil16:44896**"
+  },
+  "altnames": {
+    "wals": "\nKanuri",
+    "ruhlen (1987)": "\nKanuri",
+    "moseley & asher (1994)": "\nKanuri",
+    "multitree": "\n\"Baribari\"\n\"Beriberi\"\nAga\nBeriberi\nBornouan\nBornouans\nBornu\nCentral Kanuri\nKanembu\nKanouri\nKanoury\nKanuri\nKanuri, Central\nKole\nKolere\nSirata\nYerwa Kanuri",
+    "lexvo": "\nCentral Kanuri [en]",
+    "hhbib_lgcode": "\nBornoo\nBornu\nBornu Kilham\nBornu-Kanuri\nKanuri\nKanuri-Central\nMaiduguri Kanuri\nMaiduguri/Yerwa\nYerwa\nYerwa Kanuri-Central"
+  },
+  "triggers": {
+    "lgcode": "\ntacruri\nkanouri\nyerwa"
+  },
+  "identifier": {
+    "wals": "knr",
+    "multitree": "knc"
+  },
+  "classification": {
+    "sub": "**hh:dial:Jarrett:Kanuri-Niger**:106-107 **hh:w:Lohretal:Kanuri**",
+    "subrefs": "\n**hh:w:Lohretal:Kanuri**\n**hh:dial:Jarrett:Kanuri-Niger**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kanuri, Yerwa (knc-knc) = 3 (Wider communication). De facto language of provincial identity in Borno, Yobe, and Gombe states, used in education; widespread use generally. Indigenous to central south Sahara area, Kanuri people began to expand in the area of Lake Chad in late 7th century. Dominant people group in the Borno state. Also spoken throughout central Africa. Language became widespread in mid-19th century. Used in trade, daily life, religion, and literature."
+  }
+}

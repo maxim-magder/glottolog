@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mesqan",
+    "hid": "mvz",
+    "level": "language",
+    "iso639-3": "mvz",
+    "latitude": "8.10617",
+    "longitude": "38.3386",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Mesqan](https://lexibank.clld.org/languages/felekesemitic-Mesqan)\nhttps://en.wikipedia.org/wiki/Mesqan_language\nhttps://phoible.org/languages/mesq1240\nhttps://www.wikidata.org/entity/Q6821677"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Ousman:Mesqan**\n**hh:hv:Fekede:Gurage**\n**hh:hvs:Hetzron:Gunnan**\n**hh:hvtyp:Hetzron:Outer**\n**hh:hvw:Bender:Ethiopia**\n**hh:hvw:Feleke:South-Ethiosemitic:2020**\n**hh:hvw:Hudson:Northeast-African-Semitic**\n**hh:s:Bulakh:Tigrinya:2023**\n**hh:s:Leslau:Masqan**\n**hh:s:Shafi:Mesqan**\n**hh:s:ShafiMeyer:Mesqan**\n**hh:soc:Shikur:Mesqan**\n**hh:st:Getachew:Mesqan**\n**hh:typ:Eshetu:Mesqan**\n**hh:typ:Shikur:Mesqan**\n**hh:w:Ikeda:Masqan**"
+  },
+  "altnames": {
+    "multitree": "\nMasqan\nMeskan\nMesqan\nMisqan\nMäsqan\nMäsqän",
+    "lexvo": "\nMesqan [en]",
+    "hhbib_lgcode": "\nMäsqan"
+  },
+  "triggers": {
+    "lgcode": "\nmesqan\nmasqan"
+  },
+  "identifier": {
+    "multitree": "mvz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:v:BulakhKogan:Ethiopian-Semitic:2014**",
+    "subrefs": "\n**hh:v:BulakhKogan:Ethiopian-Semitic:2014**\n**hh:hv:Weninger:Ethio-Semitic**\n**hh:hv:Voigt:North-South-Ethiopian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mesqan (mvz-mvz) = 6a (Vigorous)."
+  }
+}

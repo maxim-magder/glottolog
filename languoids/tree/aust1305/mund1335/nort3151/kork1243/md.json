@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Korku",
+    "hid": "kfq",
+    "level": "language",
+    "iso639-3": "kfq",
+    "latitude": "21.8358",
+    "longitude": "77.5541",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Korku](https://endangeredlanguages.com/lang/5621)\n[Korku](https://grambank.clld.org/languages/kork1243)\n[Korku](https://wals.info/languoid/lect/wals_code_kku)\nhttps://en.wikipedia.org/wiki/Korku_language\nhttps://phoible.org/languages/kork1243\nhttps://www.wikidata.org/entity/Q33715"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:np:01:1**\n**cldf:np:14:6**\n**cldf:zide:ed:66:1**\n**hh:d:Girard:Korku**\n**hh:g:Drake:Kurku**\n**hh:he:Koppers:Primitivstammen**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvwld:Grierson:4**\n**hh:ld:Nagaraja:Korku-Nahali**\n**hh:s:Zide:Korku**\n**hh:s:Zide:Korku:2008**\n**hh:st:Nagaraja:Korku**\n**hh:vld:Konow:Kurku**\n**hh:vld:Mohan:Nihali-Korku**\n**hh:w:Cust:Korku**\n**hh:w:Voysey:Goand**\n**hh:wsoc:Stahl:Korku**\n**sil16:11319**\n**sil16:24454**"
+  },
+  "altnames": {
+    "wals": "\nKorku",
+    "wals other": "\nKurku",
+    "ruhlen (1987)": "\nKorku",
+    "moseley & asher (1994)": "\nKorku",
+    "multitree": "\nBondeya\nBopchi\nKoraku\nKorki\nKorku\nKuri\nKurku\nKurku-Ruma\nMuasi\nMuwasi\nRamekhera\nWest-Untergruppe",
+    "lexvo": "\nKorku [en]\nKorku language [en]\nКорку [ru]\nகொற்கு மொழி [ta]",
+    "hhbib_lgcode": "\nChikli Ruma\nCoour Goand\nDharni Ruma\nGoands of Gawilghur whom they call Coour\nKhamalpur Bondoy\nKhanapur Ruma\nKorkus\nKurku\nLahi Bouriya\nMuwasi Kurku",
+    "elcat": "\nBondeya\nBopchi\nKorki\nKorku\nKuri\nKurku\nKurku-Ruma\nMuasi\nMuwasi\nRamekhera"
+  },
+  "triggers": {
+    "lgcode": "\nkorku\nkurku"
+  },
+  "identifier": {
+    "wals": "kku",
+    "multitree": "kfq;kork",
+    "endangeredlanguages": "5621"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderson:Munda** **hh:hvld:Anderson:Proto-Munda**:159-160",
+    "subrefs": "\n**hh:hv:Anderson:Munda**\n**hh:hvld:Anderson:Proto-Munda**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Korku (5621-kfq) = At risk (20 percent certain, based on the evidence available) (Korku speakers are rapidly assimilating with speakers of larger (Indo-Aryan) languages.) [van Driem 2007](cldf:driem:07)"
+  }
+}

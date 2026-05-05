@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bade",
+    "hid": "bde",
+    "level": "language",
+    "iso639-3": "bde",
+    "latitude": "12.789",
+    "longitude": "10.6557",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Bade](https://endangeredlanguages.com/lang/1081)\n[Bade](https://lexibank.clld.org/languages/kraftchadic-Bade)\n[Bade](https://lexibank.clld.org/languages/polyglottaafricana-Bade)\n[Bade](https://wals.info/languoid/lect/wals_code_bad)\nhttps://en.wikipedia.org/wiki/Bade_language\nhttps://phoible.org/languages/bade1248\nhttps://www.wikidata.org/entity/Q56239"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:brenzinger:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lukas:67**\n**cldf:np:nd:264**\n**cldf:schuh:09**\n**eballiso2009:33460**\n**eballiso2009:44241**\n**eballiso2009:45474**\n**eballiso2009:50929**\n**eballiso2009:56273**\n**eballiso2009:56275**\n**eballiso2009:56280**\n**eballiso2009:6344**\n**eballiso2009:6345**\n**eballiso2009:6349**\n**eballiso2009:9956**\n**hh:b:Struck:NNigeria**\n**hh:d:Dagona:Bade**\n**hh:d:Tarbutu:Bade**\n**hh:h:Latham:Africa**\n**hh:he:Hogben:Northern-Nigeria**\n**hh:hld:Bowdich:Cape-Coast-Ashantee**\n**hh:hv:Ibrizimowetal:Linguistic-Environment**\n**hh:hv:Schuh:Bode-Polyglotta**\n**hh:hv:Schuh:Dialect-Bade**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Kraft:Chadic:I**\n**hh:s:Lukas:Bade**\n**hh:s:Schuh:Bade**\n**hh:typ:Schuh:Bade-Ngizim**\n**hh:typ:Ziegelmeyer:Bade**\n**hh:typ:Ziegelmeyer:Bade:2023**\n**hh:v:Schuh:Kanuri-Bade-Ngizim**\n**hh:w:Schuh:Kallaghee**\n**ldh:item_402088**\n**mpieva:Tarbutu2004BadeEngl**"
+  },
+  "altnames": {
+    "wals": "\nBade",
+    "wals other": "\nGusha Bade",
+    "ruhlen (1987)": "\nBade",
+    "moseley & asher (1994)": "\nBade",
+    "multitree": "\nBade\nBade Group\nBadé\nBedde\nBede\nGidgid\nWest Chadic B.1",
+    "lexvo": "\nBade [en]\nBade language [en]\nBadeg [br]\nБаде [ru]",
+    "hhbib_lgcode": "\nBode\nBode-Abunogo\nBode-Ngodsin\nGashua Bade\nKallaghee\nKarage village\nNorthern Bade\nWestern Bade",
+    "elcat": "\nBade\nBedde\nBede\nGidgid"
+  },
+  "triggers": {
+    "lgcode": "\nkallaghee\nenvoyee\nbade\ngoudkust"
+  },
+  "identifier": {
+    "wals": "bad",
+    "multitree": "wchh;bde",
+    "endangeredlanguages": "1081"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schuh:Shira**",
+    "subrefs": "\n**hh:hvw:Schuh:Shira**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bade (1081-bde) = At risk (20 percent certain, based on the evidence available) [Schuh 2009](cldf:schuh:09)"
+  }
+}

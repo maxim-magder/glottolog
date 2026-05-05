@@ -1,0 +1,21 @@
+{
+  "core": {
+    "name": "Europanto",
+    "level": "language",
+    "iso639-3": "eur",
+    "hid": "eur",
+    "links": "\nhttps://www.wikidata.org/entity/Q641768\nhttps://en.wikipedia.org/wiki/Europanto"
+  },
+  "iso_retirement": {
+    "comment": "Existing litterature (see for example: http://www.europanto.be/gram.en.html)\nstates very clearly that Europanto is not a Language name. So, there is no\nreason at all to maintain \"eur\" inside ISO 639-3\n\nCOMMENT BY PURODHA BLISSENBACH:\n\nPlease do not retire code eur as of request 2008-087.\nThere is quite some published materials using Europanto in Brussels\nnewspapers. Writing about it and quoting it in internet sites needs an\nappropriate language code.\n\nOtherwise speech synthesizers, search programs, indexing programs, and other\nwill not be able to function properly since there would be no way to identify\nthe language.\n\nSince at least for linguist publications (and some fun for general\npublic, certainly, too) referring to Europanto both as a concept and in the form\nof samples of text, is useful, we cannot do without a language code. Greetings.\nPurodha Blissenbach",
+    "code": "eur",
+    "name": "Europanto",
+    "effective": "2009-01-16",
+    "reason": "non-existent",
+    "change_request": "2008-087",
+    "change_to": ""
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2008-087**"
+  }
+}

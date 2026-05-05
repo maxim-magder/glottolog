@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Garig-Ilgar",
+    "hid": "ilg",
+    "level": "language",
+    "iso639-3": "ilg",
+    "latitude": "-11.412",
+    "longitude": "132.182",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Ilgar](https://endangeredlanguages.com/lang/4299)\nhttps://en.wikipedia.org/wiki/Garig-Ilgar_language\nhttps://www.wikidata.org/entity/Q5997810",
+    "timespan": "2003-01-01/2003-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**hh:d:Evans:Ilgar**\n**hh:h:Evans:Iwaidjan**\n**hh:hew:Earl:Papuans**\n**hh:hw:Ray:Australia**\n**hh:s:Birch:Confalonieri**\n**hh:s:Evans:Ilgar-Garig**\n**hh:w:Grimwade:Narinjari**\n**hh:w:Soravia:Jiwadja**\n**ozbib:6573**\n**ozbib:6576**\n**ozbib:6796**\n**ozbib:6799**"
+  },
+  "altnames": {
+    "lexvo": "\nGarig-Ilgar [en]",
+    "hhbib_lgcode": "\nGarig with Iwaidja mixed in\nIlgar\nLimbakaraja\nPort Essington\nSaid be Iwaidja but it is Garig with Iwaidja mixed in",
+    "elcat": "\nGarig\nGarig/Garig-Ilgar\nIlgar"
+  },
+  "triggers": {
+    "lgcode": "\nangelo\nilgar\ngarig\nfide\npropaganda\ncanfalonieri\nscritti\narchive\nconfalonieris\nrome\njiwadja"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mailhammer:Iwaidjan**",
+    "subrefs": "\n**hh:hv:Mailhammer:Iwaidjan**"
+  },
+  "identifier": {
+    "endangeredlanguages": "4299"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Garig-Ilgar (ilg-ilg) = 10 (Extinct)."
+  }
+}

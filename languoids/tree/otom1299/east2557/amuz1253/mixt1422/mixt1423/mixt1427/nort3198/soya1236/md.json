@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Soyaltepec Mixtec",
+    "hid": "vmq",
+    "level": "language",
+    "iso639-3": "vmq",
+    "latitude": "17.5892",
+    "longitude": "-97.19211",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northeastern Alta Mixtec](https://endangeredlanguages.com/lang/10532)\nhttps://www.wikidata.org/entity/Q7572001\nhttps://en.wikipedia.org/wiki/Soyaltepec_Mixtec"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Josserand:Mixteca**"
+  },
+  "altnames": {
+    "multitree": "\nMixtec, Soyaltepec\nMixteco de San Bartolo Soyaltepec\nNorthern Misteko\nNorthern Mixteco",
+    "lexvo": "\nSoyaltepec Mixtec [en]",
+    "elcat": "\nApasco Mixtec\nApasco-Apoala Mixtec\nApoala Mixtec\nMixteco de San Bartolo Soyaltepec\nMixteco de Santiago Apoala\nMixteco del noreste bajo\nNortheastern Alta Mixtec\nNorthern Nochixtlán Mixtec\nSoyaltepec Mixtec",
+    "hhbib_lgcode": "\n105 Santiago Ixtaltepec Mixtec Josserand 1983\n34 San Bartolo Soyaltepec Mixtec Josserand 1983\n63 San Miguel Chicahua Mixtec Josserand 1983 (included in Apoala-Apazco in E26 but closer linguistically to Soyaltepec acc to Auderset et al. 2023)\nAdeq\nAdequez outside the SIL maps but NE Alta so perhaps\nCant\nChic\nCui\nIxtl\nJalt\nJaltepetongo outside the SIL maps but NE Alta so perhaps\nLobo\nSM Chicahua (included in Apoala-Apazco in E26 but closer linguistically to Soyaltepec acc to Auderset et al. 2023)\nSan Agustín Montelobos outside the SIL maps but NE Alta so perhaps\nSan Bartolo Soyaltepec\nSan Francisco Jaltepetongo outside the SIL maps but NE Alta so perhaps\nSan Jerónimo Sosola outside the SIL maps but NE Alta so perhaps\nSan Miguel Chicahua\nSan Pedro Coxcaltepec Cántaros outside the SIL maps but NE Alta so perhaps\nSanta Catarina Adéquez outside the SIL maps but NE Alta so perhaps\nSantiago Cuilapan de Guerrero outside the SIL maps but NE Alta so perhaps\nSantiago Ixtaltepec\nSoso\nSoy"
+  },
+  "identifier": {
+    "multitree": "vmq",
+    "endangeredlanguages": "10532"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:15-16 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northeastern Alta Mixtec (10532) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

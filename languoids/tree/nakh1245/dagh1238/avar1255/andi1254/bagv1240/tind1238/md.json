@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tindi",
+    "hid": "tin",
+    "level": "language",
+    "iso639-3": "tin",
+    "latitude": "42.3316",
+    "longitude": "45.9227",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Tindi](https://endangeredlanguages.com/lang/3039)\nhttps://www.wikidata.org/entity/Q36860\nhttps://en.wikipedia.org/wiki/Tindi_language\n[Tindi](https://wals.info/languoid/lect/wals_code_tnd)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2666**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gudava:64**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Magomedova:Tindinskij**\n**hh:hs:Alekseev:Kavkazskie**\n**hh:hs:Vinogradov:Ibero-Kavkaz**\n**hh:s:Magomedbekova:Tindinskij**\n**hh:sd:Magomedova:Tindinsko**"
+  },
+  "altnames": {
+    "wals": "\nTindi",
+    "ruhlen (1987)": "\nTindi",
+    "moseley & asher (1994)": "\nTindi",
+    "multitree": "\nTindal\nTindi\nTindin",
+    "lexvo": "\nJęzyk tindyjski [pl]\nLíngua tindi [pt]\nTindi [en]\nTindi language [en]\nTindieg [br]\nTindin kieli [fi]\nТиндинский язык [ru]\nТиндинська мова [uk]\nТиндски јазик [mk]",
+    "hhbib_lgcode": "\nTindin",
+    "elcat": "\nIdarab mittsi\nTindal\nTindi\nTindin\nидараб мицци\nидаринский язык\nидеринский язык\nтиндальский язык\nтиндийский язык"
+  },
+  "triggers": {
+    "lgcode": "\ntindinskij\ntindinsko\nkavkazskie"
+  },
+  "identifier": {
+    "wals": "tnd",
+    "multitree": "tin",
+    "endangeredlanguages": "3039"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudava:Andijskix**",
+    "subrefs": "\n**hh:hv:Gudava:Andijskix**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Tindi (3039-tin) = Threatened (20 percent certain, based on the evidence available) (Relatively few child speakers.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Hadrami Arabic",
+    "hid": "ayh",
+    "level": "language",
+    "iso639-3": "ayh",
+    "latitude": "15.4468",
+    "longitude": "48.6524",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SA",
+      "YE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3510366\nhttps://en.wikipedia.org/wiki/Hadhrami_Arabic"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Landberg:Datinois**\n**hh:g:Al-Saqqaf:Hadramawt**\n**hh:g:Habtoor:Gayl-Habban**\n**hh:t:Landberg:Datinah**\n**hh:t:Landberg:Hadramout**\n**hh:typ:Ahmed:Yemeni**\n**hh:typ:Gurabi:Hadhrami**"
+  },
+  "altnames": {
+    "multitree": "\nArabic\nArabic, Hadrami Spoken\nHadhrami\nHadrami\nHadrami Arabic\nHadromi",
+    "lexvo": "\nHadhrami Arabic [en]\nHadrami Arabic [en]\nHadrami arapski [hr]\nلهجة حضرمية [ar]",
+    "hhbib_lgcode": "\nAbyan\nAbyani\nDatinah\nGayl Habban is in Shabwah province\nHadhrami\npart of Hadrami"
+  },
+  "triggers": {
+    "lgcode": "\ndramout\ngayl\ndatinois\ndatinah\nhabban"
+  },
+  "identifier": {
+    "multitree": "ayh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Al-Jallad:Neo-Arabic** **hh:hvb:Watson:Arabic-Dialects**",
+    "subrefs": "\n**hh:hv:Al-Jallad:Neo-Arabic**\n**hh:hvb:Watson:Arabic-Dialects**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Hadrami (ayh-ayh) = 6a* (Vigorous)."
+  }
+}

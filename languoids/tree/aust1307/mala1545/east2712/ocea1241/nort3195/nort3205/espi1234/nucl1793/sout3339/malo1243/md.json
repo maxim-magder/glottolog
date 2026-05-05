@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tamambo",
+    "hid": "mla",
+    "level": "language",
+    "iso639-3": "mla",
+    "latitude": "-15.6835",
+    "longitude": "167.16",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Malo (North)](https://lexibank.clld.org/languages/abvdoceanic-MaloNorth)\n[Tamabo](https://wals.info/languoid/lect/wals_code_tmm)\n[Tamambo](https://endangeredlanguages.com/lang/4676)\n[Tamambo](https://grambank.clld.org/languages/malo1243)\nhttps://en.wikipedia.org/wiki/Tamambo_language\nhttps://phoible.org/languages/malo1243\nhttps://www.wikidata.org/entity/Q1153276"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3046**\n**asjp2010:3744**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Jauncey:Tamambo**\n**hh:g:Jauncey:Tamambo:1997**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Jauncey:Tamabo**\n**hh:s:Landels:Malo**"
+  },
+  "altnames": {
+    "wals": "\nTamabo",
+    "wals other": "\nTamambo",
+    "ruhlen (1987)": "\nMalo",
+    "moseley & asher (1994)": "\nMalo",
+    "multitree": "\nMalo\nVanuatu",
+    "lexvo": "\nMalo [en]\nTamambo language [en]",
+    "hhbib_lgcode": "\nMalo\nMalo North\nNorth Malo\nSouth Malo",
+    "elcat": "\nMalo\nTamabo\nTamambo"
+  },
+  "triggers": {
+    "lgcode": "\ntamabo\nmaloese\ntamambo"
+  },
+  "identifier": {
+    "wals": "tmm",
+    "multitree": "mla",
+    "endangeredlanguages": "4676"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tamambo (4676-mla) = Vulnerable (100 percent certain, based on the evidence available) (Some children can be found who are first language Bislama speakers, but this is still quite rare.) [Jauncey 2011](cldf:jauncey:11)"
+  }
+}

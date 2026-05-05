@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Siwu",
+    "hid": "akp",
+    "level": "language",
+    "iso639-3": "akp",
+    "latitude": "7.23811",
+    "longitude": "0.44362",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Siwu](https://grambank.clld.org/languages/siwu1238)\nhttps://en.wikipedia.org/wiki/Siwu_language\nhttps://phoible.org/languages/siwu1238\nhttps://www.wikidata.org/entity/Q36470"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2132**\n**asjp2010:3085**\n**cldf:asmis:11**\n**cldf:hinderling:52**\n**cldf:plehn:98**\n**eballiso2009:10642**\n**eballiso2009:17654**\n**eballiso2009:22668**\n**eballiso2009:49267**\n**hh:g:FordIddah:Siwu**\n**hh:h:KroppDakubu:Central-Togo**\n**hh:hs:Westermann:Mitteltogo**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:hw:Kropp:Lefana-Akpafu-Avatime**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:hwtyp:Seidel:Togo**\n**hh:ld:Ford:Discourse-Three-Ghanaian**\n**hh:s:Atsu:Siwu**\n**hh:s:Ring:Akpafu-Lolobi**\n**hh:styp:Dingemanse:Siwu**\n**hh:typ:Legon:Conjunction-Siwu**\n**hh:w:Iddah:Siwu**"
+  },
+  "altnames": {
+    "multitree": "\nAkpafu\nAkpafu-Lolobi\nLolobi-Akpafu\nSiwu\nSiwusi",
+    "lexvo": "\nSiwu [en]",
+    "hhbib_lgcode": "\nAkpafu\nLolobi\nLolobi-Akpafu"
+  },
+  "triggers": {
+    "lgcode": "\ntogorestsprachen\nmitteltogo\nakpafu\nsiwu"
+  },
+  "identifier": {
+    "multitree": "akp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Central-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Central-Togo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Siwu (akp-akp) = 5 (Developing)."
+  }
+}

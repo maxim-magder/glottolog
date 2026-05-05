@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Pontic",
+    "hid": "pnt",
+    "level": "language",
+    "iso639-3": "pnt",
+    "latitude": "41.266015",
+    "longitude": "36.097421",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BG",
+      "GR",
+      "MK",
+      "TR"
+    ],
+    "links": "\n[Pontic](https://endangeredlanguages.com/lang/3265)\nhttps://en.wikipedia.org/wiki/Pontic_Greek\nhttps://www.wikidata.org/entity/Q36748"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:dial:Dawkins:Pontic**\n**hh:dv:Papadopoulos:Pontikes**\n**hh:ew:Ioannides:Trapezountos**\n**hh:g:Drettas:Pontiques**\n**hh:g:Schreiber:Romeyka**\n**hh:h:Donabedian:Anatolia**\n**hh:h:Mackridge:Pontic**\n**hh:hv:Manolessou:Asia-Minor**\n**hh:hv:Triantaphullides:Neoellenike**\n**hh:ld:Michelioudakis:Greek-Dative**\n**hh:ld:Michelioudakis:Pontic-Greek**\n**hh:ld:Sitaridou:Romeyka**\n**hh:ld:Sitaridou:Romeyka-Infinitive**\n**hh:phon:Oikonomides:Pontischen**\n**hh:s:Janse:Pontic**\n**hh:s:Oikonomidis:Pontou**\n**hh:s:Papadopoulos:Pontikes**\n**hh:s:Schreiber:Romeyka**\n**hh:s:Tompaidis:Pontiake**\n**hh:s:Topxaras:Pontiakes**\n**hh:soc:Bortone:Muslim-Pontic-Greek**\n**hh:soc:Saglam:Romeika**\n**hh:soc:Schreiber:Romeyka**\n**hh:soc:Sitaridou:Romeyka**\n**hh:socdial:Ozkan:Pontic-Muslims**\n**hh:soctyp:Sitaridou:Romeyka**\n**hh:typ:Berikashvili:Pontic-Georgia**\n**hh:typ:Neocleous:Romeyka**\n**hh:typ:Neocleous:Romeyka-Word-Order**\n**hh:typ:Sitaridou:Pontic-Greek**\n**hh:v:Kouses:Trapezountias**\n**hh:v:Sitaridou:Asia-Minor-Greek**\n**hh:vld:Mackridge:Ophitic**\n**hh:vld:Michelioudakis:Asia-Minor-Greek**\n**hh:vld:Sitaridou:Romeyka-Infinitive**\n**hh:vtyp:Genc:Rumca**"
+  },
+  "altnames": {
+    "multitree": "\nGrec pontique\nPontic\nPontic Greek\nPóntico",
+    "lexvo": "\nBahasa Yunani Pontus [id]\nGrec pontique [fr]\nGresianeg Pontos [br]\nJęzyk pontyjski [pl]\nLingua pontica [it]\nPontic Greek [en]\nPontic [en]\nPonties [af]\nPontisch [nl]\nPontische Sprache [de]\nPontisk grekiska [sv]\nPontisk gresk [no]\nPontus lehçesi [tr]\nPontčina [sk]\nPóntico [es]\nΠοντιακή διάλεκτος [el]\nΠοντιακόν λαλίαν [pnt]\nПонтийски език [bg]\nПонтийский язык [ru]\nПонтиски јазик [mk]\nПонтійська мова [uk]\n폰토스 그리스어 [ko]",
+    "elcat": "\nPontic\nPontic Greek\nRomeika\nRomeyka\nRumca\nRumcika",
+    "hhbib_lgcode": "\nArgyroupolis\nChaldia\nChristian Pontic Greek\nCoastal Pontic Greek\nMuslim Pontic Greek\nOphitic\nPontic Greek\nPontika\nRomeyka\nRomeyka of Of\nTrapezunian\nTrapzounta"
+  },
+  "triggers": {
+    "lgcode": "\npontic\npontiques"
+  },
+  "identifier": {
+    "multitree": "pnt",
+    "endangeredlanguages": "3265"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanBeek:Greek** **hh:hv:Browning:Greek** **hh:hv:Sowa:Greek**",
+    "subrefs": "\n**hh:hv:Sowa:Greek**\n**hh:hv:vanBeek:Greek**\n**hh:hv:Browning:Greek**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pontic (pnt-pnt) = 5* (Developing)."
+  }
+}

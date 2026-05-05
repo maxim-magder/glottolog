@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chala",
+    "hid": "cll",
+    "level": "language",
+    "iso639-3": "cll",
+    "latitude": "8.00089",
+    "longitude": "0.50896",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Chala](https://endangeredlanguages.com/lang/4618)\nhttps://www.wikidata.org/entity/Q35190\nhttps://en.wikipedia.org/wiki/Chala_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alonso:92**\n**cldf:barbier:83**\n**cldf:craene:84**\n**cldf:craene:87:1**\n**cldf:craene:87:2**\n**cldf:craene:craene:84**\n**cldf:craene:maliouro:etal:93**\n**cldf:craene:tchagbra:96**\n**cldf:craene:weebi:80**\n**cldf:der-houssikian:80:3**\n**cldf:derman:83**\n**cldf:funke:17**\n**cldf:lewis:ed:09**\n**cldf:westermann:35:2**\n**eballiso2009:15934**\n**eballiso2009:15935**\n**eballiso2009:15937**\n**eballiso2009:15939**\n**eballiso2009:15940**\n**eballiso2009:15941**\n**eballiso2009:17871**\n**eballiso2009:18719**\n**eballiso2009:25464**\n**eballiso2009:28333**\n**eballiso2009:36477**\n**eballiso2009:37969**\n**eballiso2009:38019**\n**eballiso2009:39335**\n**eballiso2009:51855**\n**eballiso2009:51993**\n**eballiso2009:729**\n**eballiso2009:7619**\n**eballiso2009:9189**\n**hh:hvld:Kleinewillinghofer:Sudost-Gurunsi**\n**hh:hvw:Delord:Kabiye**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:s:Westermann:Cala-Delo-Bago**\n**hh:typ:Kleinewillinghofer:Cala**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nCala\nChala\nCãla\nTsa\nTschala\nTshala",
+    "lexvo": "\nChala [en]",
+    "elcat": "\nCala\nChala\nCãla\nTsa\nTschala\nTshala",
+    "hhbib_lgcode": "\nCala (Bogong)"
+  },
+  "triggers": {
+    "lgcode": "\ncala"
+  },
+  "identifier": {
+    "multitree": "cll",
+    "endangeredlanguages": "4618"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manessy:Gurunsi** **hh:hb:Kleinewillinghofer:Gurunsi**",
+    "subrefs": "\n**hh:hv:Manessy:Gurunsi**\n**hh:hb:Kleinewillinghofer:Gurunsi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chala (4618-cll) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

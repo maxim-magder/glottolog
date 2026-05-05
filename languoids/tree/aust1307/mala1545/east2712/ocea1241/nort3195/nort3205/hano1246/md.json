@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Hano",
+    "hid": "lml",
+    "level": "language",
+    "iso639-3": "lml",
+    "latitude": "-15.5432",
+    "longitude": "168.167",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Hano](https://grambank.clld.org/languages/hano1246)\n[Raga](https://lexibank.clld.org/languages/abvdoceanic-Raga)\n[Raga](https://wals.info/languoid/lect/wals_code_rag)\nhttps://en.wikipedia.org/wiki/Raga_language\nhttps://www.wikidata.org/entity/Q3063193"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4027**\n**cldf:palmer:geraghty:ed:00:4**\n**hh:g:Bogiri:Raga**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Ray:New-Hebrides**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Pentecost**\n**hh:ld:Ray:Pentecost**\n**hh:s:Crowley:Raga**\n**hh:s:Gray:Pentecost**\n**hh:s:Ivens:Lamalanga**\n**hh:s:Walsh:Raxa**\n**hh:t:LiniWalsh:Raga**\n**hh:typsoc:Duhamel:Raga**\n**hh:w:Walsh:Raga**\n**mpieva:1996OceanicS**"
+  },
+  "altnames": {
+    "wals": "\nRaga",
+    "ruhlen (1987)": "\nRaga",
+    "moseley & asher (1994)": "\nRaga",
+    "multitree": "\nBwatvenua\nHano\nLamalanga\nNorth Raga\nQatvenua\nRaga\nVunmarama",
+    "lexvo": "\nHano [en]\nRaga language [en]",
+    "hhbib_lgcode": "\nArag\nN Pentecost\nPentecost Arag\nPentecost Island\nRaga\nRaga (Hano)- the language of North Pentecost\nRaxa\nVunmarama"
+  },
+  "triggers": {
+    "lgcode": "\nwhitsuntide\nraxa\nraga\nlamalanga"
+  },
+  "identifier": {
+    "wals": "rag",
+    "multitree": "lml"
+  },
+  "classification": {
+    "sub": "**hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hano (lml-lml) = 5 (Developing). Originated in North Pentecost Island; became widespread in several major villages in the late 19th century with the presence of Anglican missionaries."
+  }
+}

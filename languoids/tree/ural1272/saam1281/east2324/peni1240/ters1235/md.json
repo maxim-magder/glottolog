@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ter Saami",
+    "hid": "sjt",
+    "level": "language",
+    "iso639-3": "sjt",
+    "latitude": "67.2458",
+    "longitude": "38.5061",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Ter Saami](https://endangeredlanguages.com/lang/3566)\nhttps://en.wikipedia.org/wiki/Ter_S%C3%A1mi\nhttps://phoible.org/languages/ters1235\nhttps://www.wikidata.org/entity/Q36656"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:kusmenko:riessler:etal:06**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rasmussen:shaunnolan:20**\n**cldf:ylikoski:ylikoski:16**\n**hh:d:Itkonen:Koltan-Kuolanlapin**\n**hh:dt:Genetz:Kola**\n**hh:g:Tereskin:Jokangskij**\n**hh:phont:Szabo:Kolalappische**\n**hh:s:Halasz:Orosz-Lapp**\n**hh:t:Europaeus:Jokangalaisia**\n**hh:t:Itkonen:Koltan-Kuolanlapin**\n**hh:t:Kert:Saamskoj**\n**hh:t:KertZajkov:Saamskoj**\n**hh:typ:Behnke:Tersaamischen**\n**hh:typ:Szabo:Kola-Lappisch**\n**hh:typ:Zhivotova:Ter-Saami**"
+  },
+  "altnames": {
+    "multitree": "\n\"Lapp\"\n\"Ter Lappish\"\nEastern\nEastern Saami\nLapp\nLappic\nLappisch\nLappish\nOstlappisch\nRussisch-Lappisch\nSaam\nSaami\nSaami ter\nSaami, Ter\nSaamí de Ter\nTer-Lappisch\nTurjan-Lappi\neast dialect\nlapin kieli\nlapon\nlappisk\nlopary\nostlappischer Dialekt\nsaamen kieli\nsaamskij jazyk\nsabme\nsame-\nsāme-giellâ",
+    "lexvo": "\nDarjjesámegiella [se]\nLingua sami di Ter [it]\nLíngua sami de Ter [pt]\nSame de Ter [fr]\nSamieg Ter [br]\nTer Sami [en]\nTer-Samisch [nl]\nTer-samea lingvo [eo]\nTerio samių kalba [lt]\nTersamisk [no]\nTersamisk språk [nn]\nTersamiska [sv]\nTurjansaame [fi]\nЙоканьгско-саамский язык [ru]\nТер-саамски език [bg]\nТерски самиски јазик [mk]",
+    "hhbib_lgcode": "\nIokan'gskij\nKuolanlaapin\nTer\nTer Sami\nTer-Jokang",
+    "elcat": "\n\"Ter Lappish\"\nDarjjesámegiella\nEastern Saami\nKola Saami\nTer Saami\nTer Sami\nsaa´mekiill\nturjansaame\nйоканьгско-саамский язык\nтерско-саамский язык"
+  },
+  "triggers": {
+    "lgcode": "\njokangskij\nkolalappische\nvazlat\nsaamskoj\niokangskij\ntersaamischen"
+  },
+  "identifier": {
+    "multitree": "sjt",
+    "endangeredlanguages": "3566"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sammallahti:Saami**:6-38",
+    "subrefs": "\n**hh:hv:Sammallahti:Saami**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ter Saami (3566-sjt) = Severely Endangered (80 percent certain, based on the evidence available) (Nearly extinct) [Riessler and Wilbur 2007](cldf:riessler:wilbur:07)"
+  }
+}

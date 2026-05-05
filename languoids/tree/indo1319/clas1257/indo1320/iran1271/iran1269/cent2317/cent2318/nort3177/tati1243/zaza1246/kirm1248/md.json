@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kirmanjki",
+    "hid": "kiu",
+    "level": "language",
+    "iso639-3": "kiu",
+    "latitude": "39.1636",
+    "longitude": "39.4004",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Northern_Zazaki\nhttps://www.wikidata.org/entity/Q3944007"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Selcan:Zaza**\n**hh:s:SmirnovaEjubi:Zaza**\n**hh:sv:Keskin:Zazaki**\n**hh:typ:Arslan:Zaza**\n**iso6393:2012-076**"
+  },
+  "altnames": {
+    "multitree": "\nAlevica\nDersimki\nDimilki\nKirmanjki\nKirmanjki (individual language)\nNorthern Zaza\nSo-Bê\nZaza\nZazaki\nZonê Ma",
+    "lexvo": "\nKirmanjki (individual language) [en]\nKirmanjki [en]",
+    "hhbib_lgcode": "\nKirmanjki (individual language)\nN Zaz\nN Zaza\nN Zazaki\nNord-Zazaki"
+  },
+  "triggers": {
+    "lgcode": "\ndersim"
+  },
+  "identifier": {
+    "multitree": "kiu"
+  },
+  "classification": {
+    "sub": "**hh:v:Paul:Zazaki**",
+    "subrefs": "\n**hh:v:Paul:Zazaki**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zazaki, Northern (kiu-kiu) = 6b (Threatened)."
+  }
+}

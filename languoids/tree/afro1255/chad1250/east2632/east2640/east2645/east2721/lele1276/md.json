@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lele (Chad)",
+    "hid": "lln",
+    "level": "language",
+    "iso639-3": "lln",
+    "latitude": "9.158",
+    "longitude": "15.81149",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Lele](https://wals.info/languoid/lect/wals_code_lel)\n[Lele (Chad)](https://grambank.clld.org/languages/lele1276)\nhttps://en.wikipedia.org/wiki/Lele_language_(Chad)\nhttps://phoible.org/languages/lele1276\nhttps://www.wikidata.org/entity/Q1641493"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:frajzyngier:96**\n**cldf:simons:82**\n**cldf:simons:burquest:86**\n**cldf:simonscope:93**\n**eballiso2009:13820**\n**eballiso2009:17882**\n**eballiso2009:5021**\n**eballiso2009:5022**\n**eballiso2009:5023**\n**eballiso2009:7753**\n**hh:d:QuintSimons:Lele**\n**hh:d:WeibeguePalayer:Lele**\n**hh:g:Frajzyngier:Lele**\n**hh:he:Cabot:Moyen-Logone**\n**hh:s:Lami:Lele**\n**hh:typ:Burquest:Pronoun-Chadic**\n**sil16:19267**\n**sil16:21372**\n**sil16:34335**"
+  },
+  "altnames": {
+    "wals": "\nLele",
+    "ruhlen (1987)": "\nLele (Chad)",
+    "moseley & asher (1994)": "\nLele",
+    "multitree": "\nChad\nLele",
+    "lexvo": "\nLele (Chad) [en]\nLele [en]",
+    "hhbib_lgcode": "\nLele\nLélé"
+  },
+  "triggers": {
+    "lgcode": "\nin AND lele\nnantchoa\ntibe"
+  },
+  "identifier": {
+    "wals": "lel",
+    "multitree": "lln"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jungraithmayr:Nachtigal**",
+    "subrefs": "\n**hh:hv:Jungraithmayr:Nachtigal**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lele (lln-lln) = 5* (Developing)."
+  }
+}

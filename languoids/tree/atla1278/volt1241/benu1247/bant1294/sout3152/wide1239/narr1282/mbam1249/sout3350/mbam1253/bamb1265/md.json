@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bambalang",
+    "hid": "bmo",
+    "level": "language",
+    "iso639-3": "bmo",
+    "latitude": "5.861",
+    "longitude": "10.544",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bambalang_language\nhttps://phoible.org/languages/bamb1265\nhttps://www.wikidata.org/entity/Q34868"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hv:BlenchHamm:Nun**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:phon:Fozoh:Cirambo**\n**hh:s:Wright:Chrambo**\n**hh:typ:Wright:Chrambo**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**sil16:50454**"
+  },
+  "altnames": {
+    "multitree": "\nBambalang\nBambolang\nMboyakum\nTshirambo",
+    "lexvo": "\nBambalang [en]",
+    "hhbib_lgcode": "\nChrambo\nCirambo\nTshirambo of Bambalang"
+  },
+  "triggers": {
+    "lgcode": "\nmong{\nbambalang\nchrambo\ncirambo"
+  },
+  "identifier": {
+    "multitree": "bmo"
+  },
+  "classification": {
+    "sub": "**hh:hv:BlenchHamm:Nun**",
+    "subrefs": "\n**hh:hv:BlenchHamm:Nun**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chrambo (bmo-bmo) = 5 (Developing)."
+  }
+}

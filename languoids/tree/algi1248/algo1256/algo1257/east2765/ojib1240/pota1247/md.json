@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Potawatomi",
+    "hid": "pot",
+    "level": "language",
+    "iso639-3": "pot",
+    "latitude": "40.955",
+    "longitude": "-89.1881",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Potawatomi](https://endangeredlanguages.com/lang/121)\n[Potawatomi](https://wals.info/languoid/lect/wals_code_pot)\nhttps://en.wikipedia.org/wiki/Potawatomi_language\nhttps://www.wikidata.org/entity/Q56749"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hockett:48**\n**cldf:kinietz:40:2**\n**cldf:neely:15**\n**cldf:pentland:ed:98:1**\n**cldf:quimby:i:etal:40**\n**cldf:searey:65**\n**cldf:skinner:24**\n**hh:e:Clifton:Potawatomi**\n**hh:g:Hockett:Potawatomi**\n**hh:g:Hockett:Potawatomi:PhD**\n**hh:g:Lockwood:Potawatomi**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:typ:Buszard-Welcher:Potawatomi**\n**hh:typ:Lewis:Potawatomi**\n**mpieva:Hockett1939ThePotaw**\n**sil16:11119**\n**sil16:12059**"
+  },
+  "altnames": {
+    "wals": "\nPotawatomi",
+    "ruhlen (1987)": "\nPotawatomi",
+    "moseley & asher (1994)": "\nPotawatomi",
+    "multitree": "\nPotahuatomí (Wisconsin)\nPotawatomi\nPotawatomi (Canada)\nPotawatomi (Kansas)\nPotawatomi (Michigan)\nPotawatomi (Oklahoma)\nPotawatomi (Wisconsin)\nPotawotami\nPottawotomi",
+    "lexvo": "\nPotawatomi [en]\nPotawatomi language [en]\nПотаватоми [ru]",
+    "elcat": "\nBodewadmi\nBodéwadmi\nPotawatomi\nPottawotomi",
+    "hhbib_lgcode": "\nPotowatamies"
+  },
+  "triggers": {
+    "lgcode": "\npotawatomi"
+  },
+  "identifier": {
+    "wals": "pot",
+    "multitree": "ptwt;pot",
+    "endangeredlanguages": "121"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Algonquian**",
+    "subrefs": "\n**hh:hv:Goddard:Algonquian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Potawatomi (121-pot) = Critically Endangered (60 percent certain, based on the evidence available) [Neely 2015](cldf:neely:15)"
+  }
+}

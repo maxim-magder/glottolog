@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Saluan",
+    "hid": "loe",
+    "level": "language",
+    "iso639-3": "loe",
+    "latitude": "-0.873",
+    "longitude": "122.746",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Saluan](https://endangeredlanguages.com/lang/2776)\nhttps://www.wikidata.org/entity/Q12953867\nhttps://en.wikipedia.org/wiki/Saluan_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**hh:d:Songgo:Saluan**\n**hh:dial:Pamolango:Saluan**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hld:Riedel:NMCelebes**\n**hh:hv:Mead:Saluan-Banggai**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:hvw:MeadPasanda:Saluan-Batui**\n**hh:s:Henteetal:Saluan**\n**hh:s:Karsana:Saluan**\n**hh:s:Rozalietal:Saluan**\n**hh:typ:Hente:Saluan**\n**iso6393:2007-118**\n**sil16:44670**"
+  },
+  "altnames": {
+    "multitree": "\nLoinang\nLoindang\nMadi\nMondono\nSaluan\nSaluan, Coastal",
+    "lexvo": "\nSaluan [en]",
+    "hhbib_lgcode": "\nBAH Bahingin Pagimana Saluan Loinang (Lingketeng)\nBTY Bantayan Luwuk Timur Saluan Luwuk\nHHK Huhak Pagimana Saluan Kintom-Pagimana-Boalemo\nHON Honbola Batui Saluan Loinang (Baloa')\nKIN Kintom Kintom Saluan Kintom-Pagimana-Boalemo\nKND Kondongan Walea Kepulauan Saluan Kintom-Pagimana-Boalemo\nLLB Leme-leme Bungin Buko Saluan Kintom-Pagimana-Boalemo\nLMP Lumpoknyo Luwuk Saluan Luwuk\nLoeinansch\nLoinang Group\nPKB Pakowa Bunta Nuhon Saluan Kintom-Pagimana-Boalemo\nSAM Sampaka' Boalemo Saluan Kintom-Pagimana-Boalemo\nSIM Simpang I Bunta Saluan Loinang (Kahumama'on)",
+    "elcat": "\nCoastal\nLoinang\nLoindang\nMadi\nMondono\nSaluan"
+  },
+  "triggers": {
+    "lgcode": "\nsaluan"
+  },
+  "identifier": {
+    "multitree": "loe",
+    "endangeredlanguages": "2776"
+  },
+  "classification": {
+    "sub": "**hh:hvw:MeadPasanda:Saluan-Batui**",
+    "subrefs": "\n**hh:hvw:MeadPasanda:Saluan-Batui**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Saluan (2776-loe) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Maru",
+    "hid": "mhx",
+    "level": "language",
+    "iso639-3": "mhx",
+    "latitude": "24.942535",
+    "longitude": "99.8338",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM"
+    ],
+    "links": "\n[Burmish_Maru](https://lexibank.clld.org/languages/sagartst-Maru)\n[Maru](https://grambank.clld.org/languages/maru1249)\n[Maru](https://lexibank.clld.org/languages/mannburmish-Maru)\n[Maru](https://wals.info/languoid/lect/wals_code_mru)\nhttps://en.wikipedia.org/wiki/Lhao_Vo_language\nhttps://www.wikidata.org/entity/Q11149315"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbey:99**\n**cldf:clerk:11**\n**hh:b:DaiWu:Chinese-Yi-Burmese**\n**hh:g:Dai:Langsu**\n**hh:hld:Dai:Jingpo**\n**hh:hv:Bradley:Mran-Ni**\n**hh:hv:Mann:NBurmic**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hwphon:Daietal:Zangmianyu**\n**hh:phon:Sawada:Lhaovo**\n**hh:s:Abbey:Maru**\n**hh:s:Clerk:Maru**\n**hh:s:Dai:Langsu:2007**\n**hh:s:DaiXu:Langsu**\n**hh:s:DaiXu:Langsu:2004**\n**hh:s:Yabu:Maru-Lashi-Atsi**\n**hh:s:Yug:Lhaovo**\n**hh:typ:Sawada:Lhaovo:2012**\n**hh:vw:Sawada:Lhaovo:2012**\n**iso6393:2007-060**"
+  },
+  "altnames": {
+    "wals": "\nMaru",
+    "ruhlen (1987)": "\nMaru",
+    "moseley & asher (1994)": "\nMaru",
+    "multitree": "\nDiso\nLang\nLang'e\nLangsu\nLansu\nLaungaw\nLaungwaw\nLawng\nLawngvaw\nLhao Vo\nMalu\nMaru\nMatu\nMulu\nNyky\nZi",
+    "lexvo": "\nLhaovo [en]\nMaru [en]",
+    "hhbib_lgcode": "\nLang'e\nLangsu\nLangsu-Yunqian\nLhao Vo\nLhaovo"
+  },
+  "triggers": {
+    "lgcode": "\nmaru\npeekishkeewin\nlawngwaw"
+  },
+  "identifier": {
+    "wals": "mru",
+    "multitree": "mhx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Trans-Himalayan**:120",
+    "subrefs": "\n**hh:hv:Hill:Trans-Himalayan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lhao Vo (mhx-mhx) = 5 (Developing)."
+  }
+}

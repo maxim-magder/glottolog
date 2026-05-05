@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Karachay-Balkar",
+    "hid": "krc",
+    "level": "language",
+    "iso639-3": "krc",
+    "latitude": "43.565",
+    "longitude": "42.2606",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "GE",
+      "KZ",
+      "RU"
+    ],
+    "links": "\n[Karachay Balkar](https://lexibank.clld.org/languages/savelyevturkic-KarachayBalkar)\n[Karachay-Balkar](https://wals.info/languoid/lect/wals_code_krc)\nhttps://en.wikipedia.org/wiki/Karachay-Balkar\nhttps://www.wikidata.org/entity/Q33714"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chechenov:akhmatov:97**\n**cldf:comrie:98**\n**cldf:institut:56**\n**cldf:nedjalkov:nedjalkov:07:2**\n**cldf:xabichev:66**\n**hh:d:Akbaev:Karacaevo**\n**hh:d:TenisevSuyuncev:Karacaevo-Balkarsko**\n**hh:dial:Aliev:Karacaevtsev**\n**hh:e:Shamanov:Balkars**\n**hh:g:Aliev:Karacaevo**\n**hh:he:Kosven:Kavkaza:I**\n**hh:htyp:Appaev:Balkarskogo**\n**hh:phon:Guzeev:Karacaevo-Balkarskaya**\n**hh:phonsoc:Akbaev:Karacaevo**\n**hh:s:Akbaev:Karacaevo**\n**hh:s:Filonenko:Balkarskogo**\n**hh:s:Seegmiller:Karachay**\n**hh:s:Ulakov:Karacaevo-Balkarskij**\n**hh:typ:Tamazova:Karacaevo-Balkarskogo**\n**hh:typ:Tekelany:Karachai**\n**mpieva:Guzelany1996Tolkovyj**\n**mpieva:Sujuncev1965Oruskara**"
+  },
+  "altnames": {
+    "wals": "\nKarachay-Balkar",
+    "wals other": "\nKarachay",
+    "ruhlen (1987)": "\nKarachay-Balkar",
+    "moseley & asher (1994)": "\nKarachay",
+    "multitree": "\nKaracaylar\nKarachai\nKarachaitsy\nKarachay\nKarachay-Balkar\nKarachay-balkar\nKarachayla\nKaratchaï-balkar\nKaratschaisch\nQaračay",
+    "lexvo": "\nIdioma karachayo-bálkaro [es]\nKarachay-Balkar [en]\nKarachay-Balkar language [en]\nKarachayeg-balkareg [br]\nKaraczaj-bałkarsko godka [szl]\nKaratchaï-balkar [fr]\nKaratjajbalkariska [sv]\nKaratschai-Balkarische Sprache [de]\nKaratsjai-Balkarisch [nl]\nKaratxai-Balkar [ca]\nKaratšai-balkaarin kieli [fi]\nKaraçay-Balkarca [tr]\nKaraĉaja-balkara lingvo [eo]\nQaraçay-Balqar tili [crh]\nkaratchai balkar [fr]\nКарачаево-балкарски език [bg]\nКарачаево-балкарский язык [ru]\nКарачай-Палкар чĕлхи [cv]\nКарачаєво-балкарська мова [uk]\nКарачај-балкарски јазик [mk]\nХъæрæсейаг-балхъайраг æвзаг [os]\nҚарашай-балқар тілі [kk]\nزبان کاراچای-بالکار [fa]\nภาษาคาราไช-บัลคาร์ [th]\nカラチャイ・バルカル語 [ja]\n卡拉恰伊-巴尔卡尔语 [zh]\n카라차이발카르어 [ko]",
+    "hhbib_lgcode": "\nBaksanskij\nBalkars\nBalkartsy\nChegemskij\nCherekskij\nKaračaevtsy\nXulamo-Bezengijskij"
+  },
+  "triggers": {
+    "lgcode": "\nkarachaevo\nkaracaevo\nmalkar\nkarachay\nbalkarskogo\nkarachai"
+  },
+  "identifier": {
+    "wals": "krc",
+    "multitree": "krc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Egorov:Turkic**:16-19 **hh:g:Eleusin:Mischar**:8-9; 322-329",
+    "subrefs": "\n**hh:g:Eleusin:Mischar**\n**hh:hv:Egorov:Turkic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Karachay-Balkar (1075-krc) = Vulnerable"
+  }
+}

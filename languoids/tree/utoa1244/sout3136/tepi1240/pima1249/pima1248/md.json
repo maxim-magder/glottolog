@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Pima Bajo",
+    "hid": "pia",
+    "level": "language",
+    "iso639-3": "pia",
+    "latitude": "28.654",
+    "longitude": "-108.326",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Nevome](https://wals.info/languoid/lect/wals_code_nev)\n[O'ob](https://endangeredlanguages.com/lang/4967)\n[Pima Bajo](https://grambank.clld.org/languages/pima1248)\n[Pima Bajo](https://wals.info/languoid/lect/wals_code_pba)\n[Pima de Onavas](https://lexibank.clld.org/languages/utoaztecan-PimaDeOnavas)\nhttps://en.wikipedia.org/wiki/Pima_Bajo_language\nhttps://www.wikidata.org/entity/Q3388544"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:estradaf:92**\n**cldf:fernandez:01**\n**cldf:fernandez:03**\n**cldf:fernandez:05**\n**cldf:lewis:ed:09**\n**cldf:nowak:ed:03:11**\n**cldf:np:nd:264**\n**cldf:sanchez:martinez:etal:12**\n**cldf:zarina:94**\n**hh:dial:Estrada:Pima-Bajo**\n**hh:e:Dunnigan:Lower-Pima**\n**hh:g:Estrada:Pima-Bajo**\n**hh:g:Estrada:Pima-Bajo:2014**\n**hh:g:Shaul:Nevome**\n**hh:g:Shaul:Nevome:1982**\n**hh:g:Smith:Nevome**\n**hh:hs:Pimentel:Mexico**\n**hh:s:Buschmann:Pima-Koloschen**\n**hh:s:Escalante:Pima-Bajo**\n**hh:s:Estrada:Pima-Bajo**\n**hh:s:Estrada:Pima-Bajo:1998**\n**hh:s:Gamez:Nevome**\n**hh:st:EscalanteEstrada:Pima-Bajo**\n**hh:t:SMGE:Mexicana**\n**hh:typ:Estrada-Fernandez:Pima-Bajo:Finiteness**\n**hh:typ:Villalpando:Nevome**\n**hh:w:Emory:Pimo**\n**ldh:item_402453**\n**mpieva:1970Artedela**\n**mpieva:Buschmann1856DiePimaS**\n**mpieva:Escalante1993Textosyg**\n**mpieva:Estrada1991Argument**"
+  },
+  "altnames": {
+    "wals": "\nPima Bajo",
+    "wals other": "\nPima (Lower)\nPima Bajo",
+    "ruhlen (1987)": "\nPima (Lower)",
+    "moseley & asher (1994)": "\nPima (Bajo)",
+    "multitree": "\nBas-pima du Chihuahua\nLower Piman\nMountain Pima\nMountain Piman\nNebome\nNebomi\nNevomi\nNévome\nPima\nPima Bajo\nPima bajo de Chihuahua\nTepiman",
+    "lexvo": "\nPima Bajo [en]\nPima bajo [fr]",
+    "hhbib_lgcode": "\nLower Pima\nNevome\nNévome\nPima Bajo dialect of Onavas\nPima from various sources\nPima ó Névome\nPima/Névome is plains Pima Bajo according to Shaul\nPimo",
+    "elcat": "\nLower Piman\nMountain Pima\nNévome\nO'ob\nPima Bajo"
+  },
+  "triggers": {
+    "lgcode": "\nyepachi\nkoloschen\nnevome"
+  },
+  "identifier": {
+    "wals": "pba",
+    "multitree": "pia",
+    "endangeredlanguages": "4967"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "O'ob (4967-pia) = Endangered (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

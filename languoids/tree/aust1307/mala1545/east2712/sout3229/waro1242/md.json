@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Waropen",
+    "hid": "wrp",
+    "level": "language",
+    "iso639-3": "wrp",
+    "latitude": "-2.31142",
+    "longitude": "136.633",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Waropen](https://grambank.clld.org/languages/waro1242)\n[Waropen](https://lexibank.clld.org/languages/abvdoceanic-Waropen)\n[Waropen](https://wals.info/languoid/lect/wals_code_wrp)\nhttps://en.wikipedia.org/wiki/Waropen_language\nhttps://www.wikidata.org/entity/Q7969851"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:asher:ed:07**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:f:allen:04**\n**cldf:held:47**\n**cldf:held:57**\n**cldf:keesing:84:2**\n**cldf:mollet:11**\n**cldf:np:14:5**\n**cldf:np:19:5**\n**hh:d:Held:Waropensch**\n**hh:e:Held:Waropen**\n**hh:e:Sanggenafa:Waropen**\n**hh:e:Sujatni:Waropen**\n**hh:e:deClercq:Wandamen**\n**hh:g:Held:Waropensch**\n**hh:h:Mambrasar:Arso-Sentani**\n**hh:h:Sugono:Indonesia**\n**hh:hv:vanVelzen:Waropen**\n**hh:hvw:Anceaux:Yapen**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Fabritius:NNG**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:hw:Stokhof:Holle:1982**\n**hh:phon:Flassyetal:Waropen**\n**hh:s:vanVelzen:Waropen**\n**hh:soc:Walker:Waropen**\n**hh:t:Held:Waropen**\n**hh:typ:Kadang:Waropen**\n**hh:typ:Mararay:Ambumi**\n**hh:typ:Refwalu:Kai-Nubuai**\n**hh:typ:Sikoway:Ambumi**\n**hh:w:Grace:20:Waropen**\n**hh:w:LeRoux:Woordenlijsten**\n**mpieva:Held1942Grammati**\n**mpieva:Held1942Woordenl**\n**mpieva:MacGregor1996Studiesi**"
+  },
+  "altnames": {
+    "wals": "\nWaropen",
+    "ruhlen (1987)": "\nWaropen",
+    "moseley & asher (1994)": "\nWaropen",
+    "multitree": "\nAropen\nWaropen\nWonti\nWorpen",
+    "lexvo": "\nWaropen [en]",
+    "hhbib_lgcode": "\nAmbumi\nAropin\nCoastal Waropen\nInterior Waropen\nMakimi+ganze Waropenküste\nWaropen (Hd)\nWaropen Coast\nWaropens\nWonti (Waropen)"
+  },
+  "triggers": {
+    "lgcode": "\ncoate\nwaropense\nwaropen\nwaropensch\nvoorstudie"
+  },
+  "identifier": {
+    "wals": "wrp",
+    "multitree": "waro;wrp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**:136-137",
+    "subrefs": "\n**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Waropen (wrp-wrp) = 7 (Shifting)."
+  }
+}

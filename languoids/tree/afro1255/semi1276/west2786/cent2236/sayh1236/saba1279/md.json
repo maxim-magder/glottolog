@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Sabaic",
+    "hid": "xsa",
+    "level": "language",
+    "iso639-3": "xsa",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "YE"
+    ],
+    "longitude": "45.35",
+    "latitude": "15.42",
+    "links": "\nhttps://en.wikipedia.org/wiki/Sabaic\nhttps://www.wikidata.org/entity/Q1070391",
+    "timespan": "-0900-01-01/0500-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Beeston:Sabaic**\n**hh:d:Biella:Sabaean**\n**hh:dial:Stein:Sabaischen**\n**hh:g:Stein:Sabaischen**\n**hh:h:Koutchoukali:Himyaritic**\n**hh:hv:Stein:Ancient-South-Arabian**\n**hh:s:Bauer:Juznoaravijskoj**\n**hh:s:Beeston:Epigraphic-South-Arabian**\n**hh:s:Beeston:Sabaic**\n**hh:s:Hofner:Altsudarabische**\n**hh:s:KoganKorotayev:Sayhadic**\n**hh:s:Multhoff:Ancient-South-Arabian**\n**hh:s:NebesStein:South-Arabian**"
+  },
+  "altnames": {
+    "multitree": "\nEpigraphic South Arabian\nHimyaritic\nSabaean\nSabaic",
+    "lexvo": "\nLlengua sabea [ca]\nSabaean [en]\nSabaean language [en]\nSabejščina [sl]\nSzabái nyelv [hu]\nשבאית [he]\nلغة السبئية [ar]\nภาษาซาบาเอียน [th]",
+    "hhbib_lgcode": "\nSabaean"
+  },
+  "triggers": {
+    "lgcode": "\nepigraphic\naltsudarabische\ngrammar AND sabaic\njuznoaravijskoj\nsabaischen\nsabaic\npismennosti"
+  },
+  "identifier": {
+    "multitree": "xsa"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Ancient South Arabian language Sabaic is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:g:Stein:Sabaischen**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xsa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stein:Ancient-South-Arabian**",
+    "subrefs": "\n**hh:hv:Stein:Ancient-South-Arabian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Sabaic (xsa-xsa) = 10 (Extinct)."
+  }
+}

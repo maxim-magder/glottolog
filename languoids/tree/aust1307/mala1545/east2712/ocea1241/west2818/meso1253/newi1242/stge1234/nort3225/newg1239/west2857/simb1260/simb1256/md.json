@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Simbo",
+    "hid": "sbb",
+    "level": "language",
+    "iso639-3": "sbb",
+    "latitude": "-8.26947",
+    "longitude": "156.541",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Simbo](https://grambank.clld.org/languages/simb1256)\n[Simbo](https://lexibank.clld.org/languages/abvdoceanic-Simbo)\nhttps://en.wikipedia.org/wiki/Simbo_language\nhttps://www.wikidata.org/entity/Q3484101"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:ambrose:12**\n**cldf:bayliss-smith:06**\n**cldf:bayliss-smith:hviding:15**\n**cldf:bellwood:95**\n**cldf:calculator:14**\n**cldf:cheyne:52**\n**cldf:cribb:00**\n**cldf:dureau:00**\n**cldf:dureau:01:2**\n**cldf:dureau:12**\n**cldf:dureau:94**\n**cldf:dureau:98**\n**cldf:hocart:22**\n**cldf:hocart:31**\n**cldf:hocart:35:1**\n**cldf:hocart:35:2**\n**cldf:hocart:37**\n**cldf:lauer:12**\n**cldf:lauer:albert:etal:13**\n**cldf:mccracken:00**\n**cldf:np:14:5**\n**cldf:petterson:tolia:etal:08**\n**cldf:rivers:14**\n**cldf:rivers:26**\n**cldf:scheffler:62**\n**cldf:sheppard:13**\n**hh:hew:Ribbe:Solomo-Inseln**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:ld:Ray:Mandegusu**\n**hh:sd:Lanyon-Orgill:Eddystone**\n**hh:typ:Palmer:Simbo**\n**hh:typ:Pat:Hula**\n**hh:w:Cheyne:WPacific**\n**hh:w:Ribbe:34**\n**mpieva:1996OceanicS**"
+  },
+  "altnames": {
+    "multitree": "\nMadeggusu\nMandeghughusu\nSibo\nSimbo",
+    "lexvo": "\nSimbo [en]\nSimbo language [en]",
+    "hhbib_lgcode": "\nEddystone\nEddystone Island\nMandeghusu\nSimba"
+  },
+  "triggers": {
+    "lgcode": "\neddystone"
+  },
+  "identifier": {
+    "multitree": "sbb"
+  },
+  "classification": {
+    "sub": "**hh:hv:DunnRoss:Kazukuru**:216",
+    "subrefs": "\n**hh:hv:DunnRoss:Kazukuru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Simbo (sbb-sbb) = 6a (Vigorous)."
+  }
+}

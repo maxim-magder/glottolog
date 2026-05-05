@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kemi Saami",
+    "hid": "sjk",
+    "level": "language",
+    "iso639-3": "sjk",
+    "latitude": "67.093",
+    "longitude": "27.537",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FI"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kemi_S%C3%A1mi\nhttps://www.wikidata.org/entity/Q35871",
+    "timespan": "1829-01-01/1840-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:et:Schefferus:Lapponia**\n**hh:ld:Kovar:Kemi**\n**hh:t:Wiklund:Kemi**\n**hh:w:AimaItkonen:Kemi-Sami**"
+  },
+  "altnames": {
+    "multitree": "\n\"Lapp\"\nEastern\nEastern Saami\nLapp\nLappic\nLappisch\nLappish\nSaami\nSaami, Kemi\nSami\nSámi\neast dialect\nlapin kieli\nlapon\nlappisk\nlopary\nsaamen kieli\nsaamskij jazyk\nsabme\nsame-\nsāme-giellâ",
+    "lexvo": "\nKemi Sami [en]",
+    "hhbib_lgcode": "\nKemi Sami\nTwo yoik poems by the Kemi Sami Olof (Mattsson) Sirma \"Guldnasas\" and \"Moarsi favrrot\""
+  },
+  "triggers": {
+    "lgcode": "\nkuolajarven\nfellmanin\njacob\nsompion\nmuistiinpanot\nlapponia"
+  },
+  "identifier": {
+    "multitree": "sjk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sammallahti:Saami**:6-38",
+    "subrefs": "\n**hh:hv:Sammallahti:Saami**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Kemi Saami (371-) = Extinct"
+  }
+}

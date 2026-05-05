@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Idoma",
+    "hid": "idu",
+    "level": "language",
+    "iso639-3": "idu",
+    "latitude": "7.19139",
+    "longitude": "7.71261",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Idoma](https://grambank.clld.org/languages/idom1241)\n[Idoma](https://wals.info/languoid/lect/wals_code_ido)\nhttps://en.wikipedia.org/wiki/Idoma_language\nhttps://phoible.org/languages/idom1241\nhttps://www.wikidata.org/entity/Q35478"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:armstrong:54**\n**cldf:forde:brown:etal:55**\n**eballiso2009:20755**\n**eballiso2009:2154**\n**eballiso2009:3148**\n**eballiso2009:38896**\n**eballiso2009:48058**\n**eballiso2009:51521**\n**eballiso2009:56528**\n**eballiso2009:56538**\n**eballiso2009:58104**\n**hh:d:Ikoyi:Idoma**\n**hh:e:Armstrong:Igala-Idoma**\n**hh:g:Abraham:Idoma**\n**hh:g:Abraham:Idoma:1935**\n**hh:g:Abraham:Idoma:1951**\n**hh:h:Bertho:Nigeria**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:CAPRO:Benue-State**\n**hh:hsoc:Odumuh:Idoma**\n**hh:hv:Armstrong:Idoma**\n**hh:hv:Armstrong:Idomoid:1981**\n**hh:hv:Isa:Idoma**\n**hh:hvw:Armstrong:Idomoid**\n**hh:t:Ikoyi:Idoma:2011**\n**hh:t:Ikoyi:Idoma:2014**\n**mpieva:1977Okpaojoj**\n**mpieva:Abraham1967TheIdoma**\n**mpieva:Ikekeonwu2007Thephone**"
+  },
+  "altnames": {
+    "wals": "\nIdoma",
+    "ruhlen (1987)": "\nIdoma",
+    "moseley & asher (1994)": "\nIdoma",
+    "multitree": "\nIdoma\nNigeria",
+    "lexvo": "\nIdoma [en]",
+    "hhbib_lgcode": "\nAgila\nCentral Idoma\nOtukpo\nOturkpo"
+  },
+  "triggers": {
+    "lgcode": "\nidoma"
+  },
+  "identifier": {
+    "wals": "ido",
+    "multitree": "idu;idom"
+  },
+  "classification": {
+    "sub": "**hh:hv:Armstrong:Idomoid:1981**:8",
+    "subrefs": "\n**hh:hv:Armstrong:Idomoid:1981**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Idoma (idu-idu) = 5* (Developing). De facto language of provincial identity in Kogi, Benue, and Enugu states, primary education, radio and television media."
+  }
+}

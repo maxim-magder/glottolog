@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chaura",
+    "hid": "crv",
+    "level": "language",
+    "iso639-3": "crv",
+    "latitude": "8.45745",
+    "longitude": "93.0331",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Chaura](https://endangeredlanguages.com/lang/4053)\nhttps://www.wikidata.org/entity/Q2605680\nhttps://en.wikipedia.org/wiki/Chaura_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:AbbiPachori:Sanenyo**\n**hh:e:Cruz:Nicobarese**\n**hh:e:Cruz:Sanenyo**\n**hh:hb:Parker:Austroasiatic**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hw:Man:CNicobarese**\n**hh:s:AbbiPachori:Sanenyo**\n**hh:s:Suyashi:Sanenyo**\n**hh:w:Rajasingh:Nicobarese**\n**hh:w:Temple:Nicobarese**"
+  },
+  "altnames": {
+    "multitree": "\nChaura\nChowra\nKar Nicobar-Chowra\nSanenyo\nTutet\nTətet\nTətɛt",
+    "lexvo": "\nChaura [en]",
+    "hhbib_lgcode": "\nChowra\nSanenyo\nSanenyö",
+    "elcat": "\nChaura\nChowra\nKar Nicobar-Chowra\nSanenyo\nTatet\nTutet\nTətet\nTətɛt"
+  },
+  "triggers": {
+    "lgcode": "\nmetaphorical\nprobing\nsanenyo"
+  },
+  "identifier": {
+    "multitree": "crv",
+    "endangeredlanguages": "4053"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic:2015**:199",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic:2015**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Chaura (4053-crv) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

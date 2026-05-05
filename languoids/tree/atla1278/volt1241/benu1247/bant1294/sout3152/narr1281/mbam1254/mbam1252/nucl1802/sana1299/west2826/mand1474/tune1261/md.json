@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Tunen",
+    "hid": "tvu",
+    "level": "language",
+    "iso639-3": "tvu",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "longitude": "10.67",
+    "latitude": "4.75",
+    "links": "\n[Tunen](https://grambank.clld.org/languages/tune1261)\n[Tunen](https://wals.info/languoid/lect/wals_code_tnn)\nhttps://en.wikipedia.org/wiki/Nen_language_(Cameroon)\nhttps://phoible.org/languages/tune1261\nhttps://www.wikidata.org/entity/Q36632"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:botne:92**\n**cldf:dugast:44**\n**cldf:dugast:55**\n**cldf:dugast:59**\n**cldf:janssens:88**\n**cldf:mcculloch:littlewood:etal:54**\n**cldf:mous:97**\n**cldf:tessmann:34:1**\n**eballiso2009:11212**\n**eballiso2009:11560**\n**eballiso2009:17674**\n**eballiso2009:28707**\n**eballiso2009:28785**\n**eballiso2009:29560**\n**eballiso2009:29561**\n**eballiso2009:29563**\n**eballiso2009:29568**\n**eballiso2009:36085**\n**eballiso2009:38158**\n**eballiso2009:40031**\n**eballiso2009:42506**\n**eballiso2009:46163**\n**eballiso2009:46168**\n**eballiso2009:46169**\n**eballiso2009:5435**\n**eballiso2009:5437**\n**eballiso2009:55636**\n**eballiso2009:57513**\n**eballiso2009:57562**\n**eballiso2009:59782**\n**eballiso2009:6964**\n**hh:d:Dugast:Tunen**\n**hh:e:Dugast:Banen**\n**hh:e:Dugast:Banen-Bafia-Balom**\n**hh:g:Dugast:Tunen**\n**hh:h:Guthrie:Polyglotta**\n**hh:h:Phillips:Yambeta**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Gerhardt:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Janssens:Bantou-A**\n**hh:hv:MousBreedveld:Bantu-A40-A60**\n**hh:hv:Tessmann:Kameruns**\n**hh:hv:Voorhoeve:Bane**\n**hh:hvphon:Boyd:Mbam**\n**hh:hvw:GuarismaPaulian:Bantous**\n**hh:hw:Koelle:Polyglotta**\n**hh:ld:Dugast:Banen-Siffle**\n**hh:phon:Manga:Tunen**\n**hh:s:Mous:Nen**\n**hh:styp:Kerr:Tunen**\n**hh:typ:Mous:BantuOV**\n**iso6393:2011-080**\n**sil16:38923**\n**sil16:49099**\n**sil16:49747**"
+  },
+  "triggers": {
+    "lgcode": "\nbane\na44"
+  },
+  "classification": {
+    "sub": "**hh:hv:MousBreedveld:Bantu-A40-A60**",
+    "subrefs": "\n**hh:hv:MousBreedveld:Bantu-A40-A60**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tunen (tvu-tvu) = 5 (Developing)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nA44_Tunen\nAlinga\nBanen\nBanénd (Banen-Indiki-Penin-Banyin)\nIndiki\nMandi\nMandi A46\nNen\nNen A44\nPenin\nPenin of Koelle"
+  }
+}

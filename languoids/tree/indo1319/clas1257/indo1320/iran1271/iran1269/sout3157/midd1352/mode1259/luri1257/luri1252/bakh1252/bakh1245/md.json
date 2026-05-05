@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bakhtiari",
+    "hid": "bqi",
+    "level": "language",
+    "iso639-3": "bqi",
+    "latitude": "32.0163",
+    "longitude": "49.7713",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bakhtiari_dialect\nhttps://phoible.org/languages/bakh1245\nhttps://www.wikidata.org/entity/Q257829"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:feilberg:52**\n**cldf:wilson:26**\n**hh:d:Madadi:Bakhtiari**\n**hh:d:Salehi:Baxtiari**\n**hh:d:Sarlak:Baxtiari**\n**hh:g:Taheri:Bakhtiari**\n**hh:he:Amanolahi:Luristan**\n**hh:hvw:Anonby:Chahar-Mahal**\n**hh:hvw:Anonby:Luri**\n**hh:hvw:Zhukovskij:Persidskix:3**\n**hh:phontyp:AnonbyAsadi:Bakhtiari**\n**hh:s:Anonby:Bakhtiari**\n**hh:s:Eydi:Ardal**\n**hh:s:Kerimova:Lurskie**\n**hh:s:Mann:Lurdialekte**\n**hh:s:Rahmanian:Bakhtiari**\n**hh:styp:Zolfaghari:Bakhtiari**\n**hh:t:VahmanAsatrian:Baxtiaris**"
+  },
+  "altnames": {
+    "multitree": "\nBakhtiari\nLori\nLori-ye Khaveri\nLuri",
+    "lexvo": "\nBakhtiari [en]\nBakhtiari dialect [en]\nگویش بختیاری [fa]",
+    "hhbib_lgcode": "\nArdal\nBaxtiarias\nBaxtiarov Čexarleng i Xeftleng"
+  },
+  "triggers": {
+    "lgcode": "\nvazhehnama\nNOT des AND parlons AND jola"
+  },
+  "identifier": {
+    "multitree": "bqi"
+  },
+  "classification": {
+    "sub": "**hh:s:Anonby:Bakhtiari**:445",
+    "subrefs": "\n**hh:s:Anonby:Bakhtiari**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bakhtiâri (bqi-bqi) = 6a (Vigorous)."
+  }
+}

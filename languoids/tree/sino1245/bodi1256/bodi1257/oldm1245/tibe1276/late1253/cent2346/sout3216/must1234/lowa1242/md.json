@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Lowa",
+    "hid": "loy",
+    "level": "language",
+    "iso639-3": "loy",
+    "latitude": "29.0324",
+    "longitude": "83.8959",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Baragaunle](https://wals.info/languoid/lect/wals_code_brl)\nhttps://en.wikipedia.org/wiki/Lhowa_language\nhttps://phoible.org/languages/lowa1242\nhttps://www.wikidata.org/entity/Q12952744"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kretschmar:95**\n**cldf:noonan:03:3**\n**hh:g:Kretschmar:Sudmustang**\n**hh:g:Regmi:Lhowa**\n**hh:he:ShresthaSingh:Nepal**\n**hh:hvw:Japola:Mustang**\n**hh:ld:Dhakal:Causative**\n**hh:s:Kitamura:Glo-Skad**\n**hh:typ:Dhakal:Lowa**\n**hh:vw:Nagano:Glo**\n**hh:w:Nagano:Glo-Skad**\n**hh:wsoc:Regmi:Lhowa**\n**iso6393:2011-173**\n**mpieva:Kretschmar1995Deutsche**\n**mpieva:Kretschmar1995DieVersc**\n**mpieva:Kretschmar1995Untersuc**\n**mpieva:Kretschmar1995Worterbu**"
+  },
+  "altnames": {
+    "wals": "\nBaragaunle",
+    "wals other": "\nBaragaon",
+    "multitree": "\nGurung\nLo Ke\nLo Montang\nLoba\nLopa\nLowa\nLoyu\nMustangi",
+    "lexvo": "\nLowa [en]",
+    "hhbib_lgcode": "\nBahragaun\nCharang\nChhosher\nChoser\nChungjung\nGhiling\nGlo Skad\nJharkot\nJharkot-Kagbeni in Baragaon\nKagbeni\nKimling\nLhowa\nLo Manthang\nLo Mänthang\nMustang\nNorthern Loke\nSouthern Loke\nUpper Mustang\ngLo"
+  },
+  "triggers": {
+    "lgcode": "\nsudmustang\nglo\nmustang"
+  },
+  "identifier": {
+    "wals": "brl",
+    "multitree": "loy"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Japola:Mustang**:19",
+    "subrefs": "\n**hh:hvw:Japola:Mustang**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Loke Tibetan (1156-) = Definitely endangered"
+  }
+}

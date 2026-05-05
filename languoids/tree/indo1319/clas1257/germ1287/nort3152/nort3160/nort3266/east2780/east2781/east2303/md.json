@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Archaic Finnish Swedish",
+    "hid": "NOCODE_Archaic-Finnish-Swedish",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AX",
+      "FI"
+    ],
+    "longitude": "21.348611",
+    "latitude": "62.476944",
+    "links": "\nhttps://en.wikipedia.org/wiki/Finland_Swedish\nhttps://www.wikidata.org/entity/Q1461092",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "altnames": {
+    "multitree": "\nEastern Swedish\nEstonian Swedish\nFinland Swedish",
+    "hhbib_lgcode": "\nBrändö-Kumlinge-Kökar\nFinnish Swedish\nGamlakarlebymålet\nKökarsmålet\nMalaksmålet\nNargö från 1700-talet och dess svenska munart pekar på Nylands svenska kusttrakter som utgångspunkt\nNedervetil (Överby)\nNordfinländska\nNyland\nNyländska\nNärpes\nPedersöre-Purmo (in Österbotten between Vörå and Uleåborg)\nSibbåmålet\nSydfinländska\nVöråmålet mellan Vasa och Nykarleby\nsom titeln till trots beskriver hela raden av sockenmål från Petalax och Pörtom i norr till Lappfjärd och Sideby i söder\nÅlands nordöstra skärgård\nÖstergetska\nÖstsvenska"
+  },
+  "identifier": {
+    "multitree": "swe-eas"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:111-113 **hh:hv:Rendahl:Swedish-Baltic**:143-144 **hh:hv:Rosenkvist:Estlandssvenskarna**:17",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**\n**hh:hv:Rendahl:Swedish-Baltic**\n**hh:hv:Rosenkvist:Estlandssvenskarna**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Freudenthal:Narpesmalet**\n**hh:d:Vendell:Ostsvenska**\n**hh:d:Vendell:Pedersore-Purmo**\n**hh:hv:Hultman:Ostsvenska**\n**hh:hv:Jansson:Ostsvenska**\n**hh:ld:Pavall:Ostergetska**\n**hh:phonv:Wessman:Sibbamalet**\n**hh:phonvw:Sundberg:Alands**\n**hh:s:Freudenthal:Nyland**\n**hh:s:Hagfors:Gamlakarlebymalet**\n**hh:s:Karsten:Kokarsmalet**\n**hh:s:Klockars:Malaksmalets**\n**hh:s:Lundstrom:Nylandsk**\n**hh:s:Vendell:Pedersore-Purmo**\n**hh:sd:Freudenthal:Narpesdialect**\n**hh:sd:Freudenthal:Vora**\n**hh:t:Lagman:Estlands-Dialekttexter**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2026-02-20T17:27:48",
+    "comment": "Archaic Finnish Swedish (NOCODE_Archaic-Finnish-Swedish-NOCODE_Archaic-Finnish-Swedish) = 10 (Extinct)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Swedish dialects of Finland, regardless of diachronic status, are counted as Swedish [swe] in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. However, the divergence of the archaic varieties (**hh:hv:Hultman:Ostsvenska**), the historical depth (**hh:hv:Rendahl:Swedish-Baltic**:143-144, **hh:hv:Rosenkvist:Estlandssvenskarna**:8, 17) and occasional testimonies of unintelligibility (**hh:phonvw:Sundberg:Alands**:xiv-xvi) suggest that some, or the collective, of the archaic varieties merits its own language-level entry, though more research is needed. All authors that sought to describe the archaic varieties noted that the shift to a more standard form was already advanced at the time of their investigations (**hh:phonv:Wessman:Sibbamalet**:vii-xiii, **hh:s:Karsten:Kokarsmalet**:3-5, **hh:phonvw:Sundberg:Alands**:i, vii, xv, xxv, **hh:s:Freudenthal:Nyland**:4-6, **hh:s:Klockars:Malaksmalets**:17-18, **hh:s:Hagfors:Gamlakarlebymalet**:6, **hh:s:Lundstrom:Nylandsk**:1-3). The resulting modern varieties, also typically called (modern) Finnish Swedish, thus do not reflect the divergence of the by now largely lost archaic varieties. See also: Swedish [swe].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Archaic-Finnish-Swedish"
+  }
+}

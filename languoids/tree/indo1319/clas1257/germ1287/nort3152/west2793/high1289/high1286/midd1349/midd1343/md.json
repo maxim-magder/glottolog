@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Middle High German",
+    "hid": "gmh",
+    "level": "language",
+    "iso639-3": "gmh",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q837985\nhttps://en.wikipedia.org/wiki/Middle_High_German",
+    "longitude": "10.599",
+    "latitude": "48.254",
+    "timespan": "1050-01-01/1500-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Hennig:Mittelhochdeutsches**\n**hh:d:Muller:Mittelhochdeutsches**\n**hh:g:Hennings:Mittelhochdeutsche**\n**hh:g:Otis:Middle-High-German**\n**hh:g:Senn:Middle-High-German**\n**hh:g:Wright:MHG**\n**hh:s:Asher:Middle-High-German**"
+  },
+  "triggers": {
+    "lgcode": "\nmittelhochdeutsche\nmiddle AND high and german"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:829-837",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Middle High German (gmh-gmh) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nGerman-Middle High"
+  }
+}

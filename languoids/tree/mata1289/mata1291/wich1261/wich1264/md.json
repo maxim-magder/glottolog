@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Güisnay",
+    "hid": "mzh",
+    "level": "language",
+    "iso639-3": "mzh",
+    "latitude": "-23.1633",
+    "longitude": "-62.1757",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BO",
+      "PY"
+    ],
+    "links": "\n[Wichí](https://endangeredlanguages.com/lang/1850)\n[Wichí](https://lexibank.clld.org/languages/wold-Wichi)\n[Wichí](https://wals.info/languoid/lect/wals_code_wch)\nhttps://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_G%C3%BCisnay\nhttps://www.wikidata.org/entity/Q7998197"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:karsten:32:1**\n**cldf:remedi:96**\n**hh:e:Braunstein:Gran-Chaco**\n**hh:e:Montani:Wichis**\n**hh:e:Rodriguez:Wichi**\n**hh:g:Pelleschi:Matacos**\n**hh:hv:Adelaar:Wichi-Qawasqar**\n**hh:phon:Avram:Wichi**\n**hh:s:Lunt:Wichi**\n**hh:st:Tovar:Mataco**\n**hh:w:LafoneQuevedo:Mataco**\n**mpieva:Lopez2007Ensenanz**\n**mpieva:Pelleschi1886Eightmon**"
+  },
+  "altnames": {
+    "glottolog": "\nWichi Lhamtes Guisnay\nWichí Lhamtés Güisnay",
+    "wals": "\nWichí",
+    "wals other": "\nMataco\nWichí Lhamtés",
+    "ruhlen (1987)": "\nMatako",
+    "moseley & asher (1994)": "\nnot specified",
+    "multitree": "\nGüisnay\nMataco\nMataco Güisnay\nMataco Pilcomayo\nMatako\nPilcomayo Wichí\nWichi\nWichí\nWichí Lhamtés Güisnay",
+    "lexvo": "\nWichí Lhamtés Güisnay [en]",
+    "hhbib_lgcode": "\nWichi Pilcomayo\nWichí Lhamtés Güisnay\nWichí spoken in Misión La Paz-Salta-Argentina-commonly characterized as Central Pilcomayo Wichí\nZona Salteña del Pilcomayo",
+    "elcat": "\nMataco\nMataco Güisnay\nMataco Pilcomayo\nMatako\nPilcomayo Wichí\nWichí\nWichí Lhamtés Güisnay"
+  },
+  "triggers": {
+    "lgcode": "\nseguidos\ncapitalismo\nshamanismo\nejercicios\nlhamtes\nguaikuru\nwichi\nviolencia\ncivilizacion\nmatacos\nfronteras\nmattaco"
+  },
+  "identifier": {
+    "wals": "wch",
+    "multitree": "mzh",
+    "endangeredlanguages": "1850"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013** **hh:hv:Nikulin:Mayaguayan**",
+    "subrefs": "\n**hh:hv:Nikulin:Mayaguayan**\n**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wichí (1850) = Vulnerable (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tapirapé",
+    "hid": "taf",
+    "level": "language",
+    "iso639-3": "taf",
+    "latitude": "-10.5373",
+    "longitude": "-50.5438",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Tapirapé](https://endangeredlanguages.com/lang/2168)\n[Tapirapé](https://lexibank.clld.org/languages/gerarditupi-Tapirape)\nhttps://en.wikipedia.org/wiki/Tapirap%C3%A9_language\nhttps://phoible.org/languages/tapi1254\nhttps://www.wikidata.org/entity/Q7684673"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:wagley:43**\n**fabreall2009ann:Tupi_tapirape00**\n**fabreall2009ann:Tupi_tapirape02**\n**fabreall2009ann:Tupi_tapirape03**\n**fabreall2009ann:Tupi_tapirape04**\n**fabreall2009ann:Tupi_tapirape05**\n**fabreall2009ann:Tupi_tapirape06**\n**fabreall2009ann:Tupi_tapirape07**\n**fabreall2009ann:Tupi_tapirape08**\n**fabreall2009ann:Tupi_tapirape10**\n**fabreall2009ann:Tupi_tapirape12**\n**fabreall2009ann:Tupi_tapirape16**\n**fabreall2009ann:Tupi_tapirape18**\n**fabreall2009ann:Tupi_tapirape19**\n**fabreall2009ann:Tupi_tapirape20**\n**fabreall2009ann:Tupi_tapirape21**\n**fabreall2009ann:Tupi_tapirape22**\n**fabreall2009ann:Tupi_tapirape23**\n**fabreall2009ann:Tupi_tapirape24**\n**fabreall2009ann:Tupi_tapirape25**\n**fabreall2009ann:Tupi_tapirape27**\n**fabreall2009ann:Tupi_tapirape31**\n**fabreall2009ann:Tupi_tapirape32**\n**fabreall2009ann:Tupi_tapirape33**\n**fabreall2009ann:Tupi_tapirape34**\n**fabreall2009ann:Tupi_tapirape35**\n**fabreall2009ann:Tupi_tapirape36**\n**fabreall2009ann:Tupi_tapirape37**\n**fabreall2009ann:Tupi_tapirape38**\n**fabreall2009ann:Tupi_tapirape39**\n**fabreall2009ann:Tupi_tapirape40**\n**fabreall2009ann:Tupi_tapirape41**\n**fabreall2009ann:Tupi_tapirape42**\n**fabreall2009ann:Tupi_tapirape43**\n**fabreall2009ann:Tupi_tapirape44**\n**fabreall2009ann:Tupi_tapirape46**\n**hh:e:Baldus:Tapirape**\n**hh:e:Wagley:Tapirape**\n**hh:e:WagleyGalvao:Tapirape**\n**hh:ew:Kissenberth:Tapirape**\n**hh:g:Neiva:Tapirape**\n**hh:h:deSilva:Goyaz**\n**hh:hew:Krause:Araguaya**\n**hh:ld:Leite:Tapirape**\n**hh:ldsoc:Tapirape:Tapirape**\n**hh:phon:Leite:Tapirape**\n**hh:phonsoc:Bruone:Tapirape**\n**hh:s:Almeidaetal:Tapirape**\n**hh:s:dePaula:Tapirape**\n**hh:v:Leite:Tapirape**\n**mpieva:Pracca1999Nomescom**\n**sil16:11354**"
+  },
+  "altnames": {
+    "glottolog": "\nApyãwa\nTapirape",
+    "multitree": "\nTapirapé",
+    "lexvo": "\nTapirapé [en]",
+    "hhbib_lgcode": "\nTapirapés",
+    "elcat": "\nTapi'irape\nTapirapé"
+  },
+  "triggers": {
+    "lgcode": "\ntapirapes\nNOT tupi AND NOT et AND tapirape\ntapirape"
+  },
+  "identifier": {
+    "multitree": "taf",
+    "endangeredlanguages": "2168"
+  },
+  "classification": {
+    "sub": "**hh:hv:RodriguesCabral:Tupi-Guarani**",
+    "subrefs": "\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tapirapé (2168-taf) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Jaunsari",
+    "hid": "jns",
+    "level": "language",
+    "iso639-3": "jns",
+    "latitude": "30.5587",
+    "longitude": "77.9084",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Jaunsari](https://endangeredlanguages.com/lang/4338)\nhttps://www.wikidata.org/entity/Q6164857\nhttps://en.wikipedia.org/wiki/Jaunsari_language\nhttps://phoible.org/languages/jaun1243"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:dt:Satish:Jaunsari**\n**hh:hld:Varma:Pahari**\n**hh:htyp:BhattPathak:Uttarakhand**\n**hh:htyp:BhattPathak:Uttarakhand:2015**\n**hh:hvwt:Grierson:9:IV**\n**hh:hwsoc:John:Jaunsari**\n**hh:s:Satish:Jaunsari**\n**hh:s:Satish:Jaunsari:1972**\n**hh:w:Varma:Pahari:2003-2004**"
+  },
+  "altnames": {
+    "multitree": "\nJansauri\nJanusari\nJaunsari\nJaunsauri\nPahari",
+    "lexvo": "\nJaunsari [en]",
+    "hhbib_lgcode": "\nBangani closest to Jaunsari",
+    "elcat": "\nJansauri\nJanusari\nJaunsari\nJaunsauri\nPahari"
+  },
+  "triggers": {
+    "lgcode": "\nkentum\nbangani\nbani\njaunsari"
+  },
+  "identifier": {
+    "multitree": "jns",
+    "endangeredlanguages": "4338"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hendriksen:Group-Position** **hh:gtd:Hendriksen:Himachali**",
+    "subrefs": "\n**hh:hv:Hendriksen:Group-Position**\n**hh:gtd:Hendriksen:Himachali**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Jaunsari (4338-jns) = Vulnerable (80 percent certain, based on the evidence available) [John 2008](cldf:john:08)"
+  }
+}

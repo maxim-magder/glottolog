@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mailu",
+    "hid": "mgu",
+    "level": "language",
+    "iso639-3": "mgu",
+    "latitude": "-10.3657",
+    "longitude": "149.521",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Magi](https://wals.info/languoid/lect/wals_code_mgi)\n[Mailu](https://grambank.clld.org/languages/mail1248)\n[Mailu](https://lexibank.clld.org/languages/blustaustronesian-mailu)\n[Mailu](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Mailu)\n[Mailu](https://lexibank.clld.org/languages/transnewguineaorg-mailu)\nhttps://en.wikipedia.org/wiki/Mailu_language\nhttps://www.wikidata.org/entity/Q3278246"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:malinowski:16:2**\n**hh:d:Lanyon-Orgill:Mailu**\n**hh:e:Malinowski:Mailu**\n**hh:e:Saville:New-Guinea**\n**hh:e:Verma:Mailu**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Dutton:Mailu**\n**hh:hv:Dutton:SETNG**\n**hh:hv:Dutton:Southeast-Mainland-Papua**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:ESEPapua**\n**hh:hw:Ray:SE-Papuan**\n**hh:s:Saville:Mailu**\n**hh:s:Thomson:Magi**\n**hh:w:Anonymous:Domara-Mairu**\n**hh:w:Anonymous:East-Central:1913**\n**hh:w:Saville:Mailu**\n**hh:w:Strong:North-Eastern-Divisions**\n**hh:wdial:Thomson:Magi**\n**mpieva:1944Adiction**"
+  },
+  "altnames": {
+    "wals": "\nMagi",
+    "ruhlen (1987)": "\nMagi",
+    "moseley & asher (1994)": "\nMagi",
+    "multitree": "\nDomara\nMagi\nMailu",
+    "lexvo": "\nMailu [en]\nMailu language [en]",
+    "hhbib_lgcode": "\nBurumai\nDomara\nMagi\nMagi-Mailu\nMairu\nSouth Coast of British New Guinea from Domara to Mairu"
+  },
+  "triggers": {
+    "lgcode": "\nmailu\nafterwards"
+  },
+  "identifier": {
+    "wals": "mgi",
+    "multitree": "mgu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dutton:Mailu** **hh:hv:Dutton:Southeast-Mainland-Papua**",
+    "subrefs": "\n**hh:hv:Dutton:Mailu**\n**hh:hv:Dutton:Southeast-Mainland-Papua**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Magi (mgu-mgu) = 5* (Developing)."
+  }
+}

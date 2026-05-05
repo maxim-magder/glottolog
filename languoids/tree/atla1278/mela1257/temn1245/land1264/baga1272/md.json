@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Baga Sitemu",
+    "hid": "bsp",
+    "level": "language",
+    "iso639-3": "bsp",
+    "latitude": "10.4793",
+    "longitude": "-14.4756",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN"
+    ],
+    "links": "\n[Baga Sitemu](https://endangeredlanguages.com/lang/3981)\n[Baga Sitemu](https://grambank.clld.org/languages/baga1272)\n[Baga Sitemu](https://wals.info/languoid/lect/wals_code_bgs)\nhttps://phoible.org/languages/baga1272\nhttps://www.wikidata.org/entity/Q36466"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:13967**\n**eballiso2009:13968**\n**eballiso2009:15463**\n**eballiso2009:19578**\n**eballiso2009:2016**\n**eballiso2009:25760**\n**eballiso2009:25766**\n**eballiso2009:25772**\n**eballiso2009:25777**\n**eballiso2009:37495**\n**eballiso2009:7393**\n**eballiso2009:7398**\n**hh:d:Lamp:Baga-Tshi-Tem**\n**hh:e:Paulme:Baga**\n**hh:h:Lamp:Baga**\n**hh:h:Voeltz:Guinee**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hv:Wilson:Temne-Landuma-Baga**\n**hh:hvw:Fields:Rio-Nunez**\n**hh:phon:Diassi:Baga**\n**hh:phon:Sane:Baga-Sitemu**\n**hh:s:Ganong:Baga**\n**hh:typ:Kalissa:Baga-Sitem**\n**hh:vtyp:Soumah:Baga**\n**hh:w:Wilson:Baga**\n**mpieva:Weller1998Features**"
+  },
+  "altnames": {
+    "wals": "\nBaga Sitemu",
+    "ruhlen (1987)": "\nBaga Sitemu",
+    "moseley & asher (1994)": "\nBaga Sitemu",
+    "multitree": "\nBaga\nBaga Sitemu\nBaga sitemou\nBaga sitemu\nBarka\nRio Pongo Baga\nSitemuú\nStem Baga\nTchitem\nTemne",
+    "lexvo": "\nBaga Sitemu [en]",
+    "hhbib_lgcode": "\nBaga Sitem\nBaga Sitemou\nBaga Sitému\nBaga Sobané\nBaga Tshi-Tem\nKakissa\nKakissa (or Sobane)\nKawass\nSitem\nSitemu\nTshi-Tem (Sitem/Sitemu)\na Sitem village near the mouth of the Kapatchez River (in the Kamsar Sous-Prefecture approximately ten miles fiom Kamsar)",
+    "elcat": "\nBaga\nBaga Sitemu\nBarka\nRio Pongo Baga\nSitemuú\nStem Baga\nTchitem\nTemne"
+  },
+  "triggers": {
+    "lgcode": "\nsitem\nbaixos\nsuccinct\nkakissa\nbaga\nbagas\nalvares"
+  },
+  "identifier": {
+    "wals": "bgs",
+    "multitree": "bsp",
+    "endangeredlanguages": "3981"
+  },
+  "classification": {
+    "sub": "**hh:vld:Ferry:Tyapi**:343",
+    "subrefs": "\n**hh:vld:Ferry:Tyapi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baga Sitemu (3981-bsp) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

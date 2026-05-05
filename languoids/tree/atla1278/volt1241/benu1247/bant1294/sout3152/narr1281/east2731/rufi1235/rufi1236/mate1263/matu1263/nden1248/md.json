@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ndengereko",
+    "hid": "ndg",
+    "level": "language",
+    "iso639-3": "ndg",
+    "latitude": "-7.54628",
+    "longitude": "38.958",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Ndengereko](https://grambank.clld.org/languages/nden1248)\nhttps://en.wikipedia.org/wiki/Ndengereko_language\nhttps://www.wikidata.org/entity/Q6983726"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:21017**\n**eballiso2009:28707**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**hh:el:Strom:Ndengereko**\n**hh:g:Strom:Ndengeleko**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Odden:Rufiji-Ruvuma**"
+  },
+  "altnames": {
+    "multitree": "\nKingengereko\nNdengeleko\nNdengereko",
+    "lexvo": "\nNdengereko [en]",
+    "hhbib_lgcode": "\nP11_Ndengeleko\nP12_Rufiji"
+  },
+  "triggers": {
+    "lgcode": "\np10\nndengereko\nndengeleko"
+  },
+  "identifier": {
+    "multitree": "ndg"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has Ndengereko [ndg] as well as Rufiji\n[rui] entry, but these terms denote the same language -- Ndengereko being the name of the language and Rufiji the name of a river and the area around it (**hh:el:Strom:Ndengereko**).  (Rufiji may also be used as a name for a subfamily that includes Ndengereko and other languages (**hh:h:Tanzania:Tanzania**:xi).) KiRufiji is a natural Swahili way to denote the language spoken in the Rufiji area, and this term is used in the Tanzania census, which is a plausible origin of the E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entry. I wish to thank Eva-Marie Ström for discussion on the Ndengereko [ndg] and Rufiji [rui] entries. See also: Rufiji [rui].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "ndg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:SWTanzania**:93 **hh:hv:Gonzales:Southern-Tanzania**",
+    "subrefs": "\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:Gonzales:Southern-Tanzania**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndengereko (ndg-ndg) = 7 (Shifting)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Toma",
+    "hid": "tod",
+    "level": "language",
+    "iso639-3": "tod",
+    "latitude": "8.4228",
+    "longitude": "-9.3491",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "LR"
+    ],
+    "links": "\n[Toma](https://grambank.clld.org/languages/toma1245)\nhttps://www.wikidata.org/entity/Q11055484"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gabory-dubourdeau:26**\n**cldf:rouet:07**\n**eballiso2009:11068**\n**eballiso2009:18358**\n**eballiso2009:21464**\n**eballiso2009:25395**\n**eballiso2009:25400**\n**eballiso2009:25648**\n**eballiso2009:25649**\n**eballiso2009:28906**\n**eballiso2009:43489**\n**eballiso2009:43690**\n**eballiso2009:4477**\n**eballiso2009:45086**\n**eballiso2009:45094**\n**eballiso2009:45187**\n**eballiso2009:46508**\n**eballiso2009:47701**\n**eballiso2009:49891**\n**eballiso2009:49896**\n**eballiso2009:830**\n**hh:e:Beavogui:Toma**\n**hh:g:Prost:Loghoma**\n**hh:phon:Koly:Loma**\n**hh:s:Guilavogui:Loghomagoi**\n**hh:s:Guilavogui:Loma**\n**hh:s:Mishchenko:Looma**\n**hh:s:Vydrin:Looma**\n**hh:s:Wilhoit:Loma**"
+  },
+  "altnames": {
+    "multitree": "\nToa\nToale\nToali\nToma\nTooma",
+    "lexvo": "\nToma [en]",
+    "hhbib_lgcode": "\nCentral Guinea Loma\nCentral Guinean Looma\nKoimei Loma of Guinea\nLoma of Guinea\nLooma\nLöghömagoi\nMacenta\nMazama variety of Luluma of Guinée Forestière\nSouthern Guinean Loma\nSouthern Guinean Looma\nToma (Buzi)\nVekema\nVoi-Balaga in Guinea\nWoi-Balagha\nWoibalaga"
+  },
+  "triggers": {
+    "lgcode": "\nlorma\nNOT de AND loma\nloghoma\ntheodore\nlooma\ndarbres\nnarratif"
+  },
+  "identifier": {
+    "multitree": "tod"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Toma (tod-tod) = 5* (Developing). De facto language of national identity."
+  }
+}

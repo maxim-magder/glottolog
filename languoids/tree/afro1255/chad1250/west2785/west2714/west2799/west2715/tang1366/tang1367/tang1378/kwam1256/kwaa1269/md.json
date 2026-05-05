@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kwaami",
+    "hid": "ksq",
+    "level": "language",
+    "iso639-3": "ksq",
+    "latitude": "10.4141",
+    "longitude": "11.0192",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3440525\nhttps://en.wikipedia.org/wiki/Kwaami_language\n[Kwami](https://wals.info/languoid/lect/wals_code_kwm)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:leger:89**\n**cldf:leger:94**\n**eballiso2009:18231**\n**eballiso2009:21583**\n**eballiso2009:26439**\n**eballiso2009:3073**\n**eballiso2009:3075**\n**eballiso2009:4870**\n**hh:e:Adelberger:Kupto-Kwami**\n**hh:g:Leger:Kwami**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hld:BaldiLeger:Bole-Tangale:Gender**\n**hh:htyp:Leger:Bole-Tangale:2014**\n**hh:t:Leger:Kwami**\n**hh:typ:Leger:Kupto-Kwaami**\n**hh:typ:Zoch:Bole-Tangale**\n**hh:typ:Zoch:Bole-Tangale:2011**\n**mpieva:Leger1988EineGram**"
+  },
+  "altnames": {
+    "wals": "\nKwami",
+    "ruhlen (1987)": "\nKwami",
+    "multitree": "\nKomawa\nKwaami\nKwam\nKwamanchi\nKwami\nKwom",
+    "lexvo": "\nKwaami [en]",
+    "hhbib_lgcode": "\nKomawa\nKwami"
+  },
+  "triggers": {
+    "lgcode": "\nkwami\nbelly"
+  },
+  "identifier": {
+    "wals": "kwm",
+    "multitree": "ksq"
+  },
+  "classification": {
+    "sub": "**hh:typ:Zoch:Bole-Tangale**:29",
+    "subrefs": "\n**hh:typ:Zoch:Bole-Tangale**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kwaami (ksq-ksq) = 6a* (Vigorous)."
+  }
+}

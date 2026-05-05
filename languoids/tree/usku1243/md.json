@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Usku",
+    "hid": "ulf",
+    "level": "language",
+    "iso639-3": "ulf",
+    "latitude": "-3.63853",
+    "longitude": "140.502",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Afra](https://endangeredlanguages.com/lang/2799)\nhttps://www.wikidata.org/entity/Q4477735\nhttps://en.wikipedia.org/wiki/Usku_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dumatubun:wanane:nd**\n**cldf:ed:10**\n**cldf:hammarstroem:10:2**\n**cldf:hammarstroem:17**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:DumatubunWanane:Usku**\n**hh:h:Sugono:Indonesia**\n**hh:he:Feuilleteauetal:Mamberamo**\n**hh:he:Hoogland:Hollandia**\n**hh:hew:Galis:Jafi**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:Voorhoeve:Miscellaneous**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:wsoc:Im:Usku**\n**iso6393:2007-227**"
+  },
+  "altnames": {
+    "multitree": "\nUsku",
+    "lexvo": "\nAfra [en]\nUsku [en]\nUsku language [en]",
+    "hhbib_lgcode": "\nAframa/Usku\nMowae (= Usku?)\nOeskoe\nSonggoto (= Usku?)\nUsku (Ga)",
+    "elcat": "\nAfra\nUsku"
+  },
+  "triggers": {
+    "lgcode": "\nusku"
+  },
+  "identifier": {
+    "multitree": "usku;ulf",
+    "endangeredlanguages": "2799"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hb:Hammarstrom:Least**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Afra (2799-ulf) = Threatened (60 percent certain, based on the evidence available) (The younger generation is just as strong in Indonesian as it is in Afra, which points to a weakening of the vernacular.) [Hammarström 2010](cldf:hammarstroem:10:2)"
+  }
+}

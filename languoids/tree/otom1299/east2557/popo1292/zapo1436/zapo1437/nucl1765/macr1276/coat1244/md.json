@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Coatecas Altas Zapotec",
+    "hid": "zca",
+    "level": "language",
+    "iso639-3": "zca",
+    "latitude": "16.5609",
+    "longitude": "-96.7336",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Amatec Zapotec](https://endangeredlanguages.com/lang/10955)\nhttps://en.wikipedia.org/wiki/Coatecas_Altas_Zapotec\nhttps://www.wikidata.org/entity/Q5138603"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Beam:Zapoteco-Sureno**\n**hh:hv:Operstein:Zapotec**\n**hh:hvw:Rendon:Papabuco**\n**hh:hvw:Rendon:Zapoteco**\n**hh:styp:Juarez:Coatecas-Altas**\n**hh:sw:Benton:Zapoteco-Coatecas**\n**hh:typ:Valenzuela:Zapoteco-Coatecas-Altas**\n**hh:w:Benton:Zapoteco-Coatecas**\n**sil16:49916**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Sapoteko\nCoatecas Altas Zapotec\nZapotec\nZapotec, Coatecas Altas\nZapoteco de San Felipe Tejalápam\nZapoteco de San Juan Coatecas Altas\nZapotèque de San Felipe Tejalapan",
+    "lexvo": "\nCoatecas Altas Zapotec [en]",
+    "hhbib_lgcode": "\nCoatecano incluye las lenguas de Coatecas altas\nCoatecas Altas\nZapoteco de Coatecas Altas",
+    "elcat": "\nAmatec Zapotec\nAmatlán Zapotec\nCoatecas Altas Zapotec"
+  },
+  "triggers": {
+    "lgcode": "\nnzhaka"
+  },
+  "identifier": {
+    "multitree": "zca",
+    "endangeredlanguages": "10955"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zapotec, Coatecas Altas (zca-zca) = 5* (Developing)."
+  }
+}

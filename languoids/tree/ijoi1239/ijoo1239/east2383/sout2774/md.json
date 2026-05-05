@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southeast Ijo",
+    "hid": "ijs",
+    "level": "language",
+    "iso639-3": "ijs",
+    "latitude": "4.44235",
+    "longitude": "6.32192",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Southeast Ijo](https://endangeredlanguages.com/lang/7930)\n[Southeast Ijo](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Southeastijo)\nhttps://en.wikipedia.org/wiki/Southeast_Ijo\nhttps://phoible.org/languages/sout2774\nhttps://www.wikidata.org/entity/Q3915854"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alagoa:64**\n**cldf:alagoa:87**\n**cldf:alagoa:williamson:81**\n**cldf:efebo:67**\n**cldf:extsubdotefextsubdoteextsubdotbextsubdoto:67**\n**cldf:kaliai:66**\n**cldf:lewis:ed:09**\n**eballiso2009:1013**\n**eballiso2009:30684**\n**eballiso2009:35814**\n**eballiso2009:37257**\n**eballiso2009:37262**\n**eballiso2009:48054**\n**eballiso2009:48060**\n**eballiso2009:49717**\n**eballiso2009:50430**\n**eballiso2009:54916**\n**eballiso2009:57022**\n**eballiso2009:8532**\n**hh:d:Kaliai:Nembe**\n**hh:hv:Blench:Ijoid**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:Efere:Bumo-Nembe**\n**hh:phon:Ikoko:Nembe**\n**hh:s:Efebo:Nembe**\n**hh:s:Tepowa:Nembe**\n**hh:typ:Ikoko-Okparan:Nembe**\n**mpieva:Efebo1967Nembelan**"
+  },
+  "altnames": {
+    "multitree": "\nBrass Ijo\nIjaw\nIjo, Southeast\nỊjọ",
+    "lexvo": "\nSoutheast Ijo [en]",
+    "hhbib_lgcode": "\nIjo-Nembe\nIjo-Southeast\nNembe",
+    "elcat": "\nBrass Ijo\nIjaw\nSoutheast Ijo\nỊjọ"
+  },
+  "triggers": {
+    "lgcode": "\nbrass\nnembe"
+  },
+  "identifier": {
+    "multitree": "ijs",
+    "endangeredlanguages": "7930"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jenewari:Ijoid**, **hh:hv:Connell:Defaka-Ijo:2012**",
+    "subrefs": "\n**hh:hv:Jenewari:Ijoid**\n**hh:hv:Connell:Defaka-Ijo:2012**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Southeast Ijo (7930-ijs) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

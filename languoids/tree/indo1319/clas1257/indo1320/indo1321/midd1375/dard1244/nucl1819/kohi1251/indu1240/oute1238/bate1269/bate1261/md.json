@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bateri",
+    "hid": "btv",
+    "level": "language",
+    "iso639-3": "btv",
+    "latitude": "34.9582",
+    "longitude": "72.92674",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Bateri](https://endangeredlanguages.com/lang/3984)\nhttps://www.wikidata.org/entity/Q3812564\nhttps://en.wikipedia.org/wiki/Bateri_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:hvld:Bashir:Dardic**\n**hh:hvsoc:Hallberg:Indus-Kohistan**\n**hh:t:Rensch:Indus-Kohistani**\n**hh:w:Rensch:Indus-Kohistan**\n**sil16:32836**"
+  },
+  "altnames": {
+    "multitree": "\nBatera Kohistani\nBaterawal\nBaterawal Kohistani\nBateri\nBateri Kohistani\nDardu",
+    "lexvo": "\nBateri [en]",
+    "hhbib_lgcode": "\nIndus Kohistani Batise",
+    "elcat": "\nBatera Kohistani\nBaterawal\nBaterawal Kohistani\nBateri\nBateri Kohistani\nDardu"
+  },
+  "identifier": {
+    "multitree": "btv",
+    "endangeredlanguages": "3984"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Hallberg:Indus-Kohistan** **hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**\n**hh:hvsoc:Hallberg:Indus-Kohistan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bateri (3984-btv) = Vulnerable (40 percent certain, based on the evidence available) [Rahman 2006](cldf:rahman:06)"
+  }
+}

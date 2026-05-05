@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Timucua",
+    "hid": "tjm",
+    "level": "language",
+    "iso639-3": "tjm",
+    "latitude": "30.3027",
+    "longitude": "-82.3132",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Timucua](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Timucua)\n[Timucua](https://wals.info/languoid/lect/wals_code_tmc)\nhttps://en.wikipedia.org/wiki/Timucua_language\nhttps://www.wikidata.org/entity/Q638300",
+    "timespan": "1612-01-01/1767-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brinton:59**\n**cldf:ehrmann:40**\n**cldf:gatschet:78:2**\n**cldf:granberry:56**\n**cldf:swanton:16**\n**cldf:swanton:42:1**\n**hh:e:Milanich:Timucua**\n**hh:g:AdamVinson:Timvqvana**\n**hh:g:Broadwell:Timucua**\n**hh:g:Pareja:Timvquana**\n**hh:h:Goddard:Small-Western-Southeast**\n**hh:htyp:Muller:Nachtrage**\n**hh:hv:Crawford:Timucua-Yuchi**\n**hh:hv:Granberry:Timucua**\n**hh:s:Gatschet:Timucua**\n**hh:s:Gatschet:Timucua:1877:1881**\n**hh:s:Granberry:Timucua**\n**hh:s:Grasserie:Timucua**\n**hh:sd:Granberry:Timucua**\n**hh:t:GatschetGrasserie:Timucua**\n**hh:t:Pareja:Timuquana**\n**hh:t:delaGrasserie:Timucua**\n**hh:typ:Broadwell:Timucua**\n**hh:w:Swanton:Tawasa**\n**hh:w:delaGrasserie:Timucua**"
+  },
+  "altnames": {
+    "wals": "\nTimucua",
+    "wals other": "\nTimucua (Mocama dial.)\nTumucua",
+    "moseley & asher (1994)": "\nTimucua",
+    "multitree": "\nTimucua\nTimuqua",
+    "lexvo": "\nTimucua [en]\nTimucua language [en]\nТимукуа [ru]",
+    "hhbib_lgcode": "\nTawasa"
+  },
+  "triggers": {
+    "lgcode": "\ntimucua\ntimvquana\ntawasa\ntimvqvana"
+  },
+  "identifier": {
+    "wals": "genus/timucua",
+    "multitree": "tjm"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Timucua (tjm-tjm) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Moji",
+    "hid": "ymi",
+    "level": "language",
+    "iso639-3": "ymi",
+    "latitude": "23.2",
+    "longitude": "104.15",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Moji](https://endangeredlanguages.com/lang/3179)\nhttps://www.wikidata.org/entity/Q6895060\nhttps://en.wikipedia.org/wiki/Moji_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**hh:hvsoc:Pelkey:Phula**\n**iso6393:2007-120**"
+  },
+  "altnames": {
+    "multitree": "\nFlathead Phulai\nMoji\nMuji\nPhula\nPhulawa\nPingtou Phula",
+    "lexvo": "\nMoji [en]",
+    "elcat": "\nFlathead Phulai\nMoji\nMuji\nPhula\nPhulawa\nPingtou Phula"
+  },
+  "triggers": {
+    "lgcode": "\nzhi"
+  },
+  "identifier": {
+    "multitree": "ymi",
+    "endangeredlanguages": "3179"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Pelkey:Phula**",
+    "subrefs": "\n**hh:hvsoc:Pelkey:Phula**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Moji (3179-ymi) = Vulnerable (40 percent certain, based on the evidence available) (Some children speak the language, but it is endangered.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

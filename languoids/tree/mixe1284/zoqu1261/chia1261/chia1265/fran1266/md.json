@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Northern Chiapas Zoque",
+    "hid": "zos",
+    "level": "language",
+    "iso639-3": "zos",
+    "latitude": "17.3654",
+    "longitude": "-93.3633",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT",
+      "MX"
+    ],
+    "links": "\n[Francisco León Zoque](https://grambank.clld.org/languages/fran1266)\n[Zoque (Francisco León)](https://wals.info/languoid/lect/wals_code_zfl)\nhttps://www.wikidata.org/entity/Q12954011"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1074**\n**cldf:engel:deengel:87**\n**hh:d:EngelEngel:Zoque**\n**hh:g:Sanchez:Zoque**\n**hh:phon:Herrera:Zoque**\n**hh:s:BartholomewEngel:Zoque**\n**hh:s:Sanchez:Zoque**\n**hh:s:Villavicencio:Zoque-Francisco-Leon**\n**hh:sd:Alvarezetal:Zoque**\n**hh:typ:Villavicencio:Zoque**"
+  },
+  "altnames": {
+    "glottolog": "\nFrancisco Leon Zoque\nFrancisco León Zoque",
+    "wals": "\nZoque (Francisco León)",
+    "wals other": "\nFrancisco Leon\nZoque",
+    "ruhlen (1987)": "\nSokean",
+    "moseley & asher (1994)": "\nZoque",
+    "multitree": "\nChiapas Soke\nFrancisco León\nMagdalena\nNorth Zoque\nSanta Magdalena Zoque\nSoke\nZoque\nZoque (Francisco Lain)\nZoque (Francisco León)\nZoque de Francisco León\nZoque, Francisco León",
+    "lexvo": "\nFrancisco León Zoque [en]",
+    "hhbib_lgcode": "\nChapultenango\nChapultenango Zoque\nChiapas Zoque\nFrancisco León Zoque\nZoque-Francisco León"
+  },
+  "triggers": {
+    "lgcode": "\nfrancesco\nminimas\nanhmakyuy\nore"
+  },
+  "identifier": {
+    "wals": "zfl",
+    "multitree": "zos"
+  },
+  "classification": {
+    "sub": "**hh:sv:Zavala:Jitotolteco**",
+    "subrefs": "\n**hh:sv:Zavala:Jitotolteco**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zoque, Francisco León (zos-zos) = 6a* (Vigorous)."
+  }
+}

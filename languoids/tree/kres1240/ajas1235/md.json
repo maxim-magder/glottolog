@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Aja (South Sudan)",
+    "hid": "aja",
+    "level": "language",
+    "iso639-3": "aja",
+    "latitude": "8.58003",
+    "longitude": "25.6122",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "SS"
+    ],
+    "links": "\n[Aja](https://endangeredlanguages.com/lang/3703)\n[Aja](https://wals.info/languoid/lect/wals_code_aja)\n[Aja (South Sudan)](https://grambank.clld.org/languages/ajas1235)\nhttps://en.wikipedia.org/wiki/Aja_language_(Nilo-Saharan)\nhttps://phoible.org/languages/ajas1235\nhttps://www.wikidata.org/entity/Q3237491"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:fiedler:66**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Santandrea:Ghazal**\n**hh:hv:Guldemann:Pronominal-Macro-Sudan**\n**hh:hvs:Santandrea:Kresh**"
+  },
+  "altnames": {
+    "wals": "\nAja",
+    "ruhlen (1987)": "\nAja",
+    "moseley & asher (1994)": "\nAja",
+    "multitree": "\nAdja\nAja\nAjja",
+    "lexvo": "\nAdjeg [br]\nAja (Sudan) [en]\nAja [en]\nAja language [en]\nAja, nilo-sahariana [gl]",
+    "hhbib_lgcode": "\nAja\nAja (Sudan)",
+    "elcat": "\nAdja\nAja\nAjja"
+  },
+  "triggers": {
+    "lgcode": "\nlinguistic AND kresh"
+  },
+  "identifier": {
+    "wals": "aja",
+    "multitree": "aja",
+    "endangeredlanguages": "3703"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Aja (3703-aja) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Anfillo",
+    "hid": "myo",
+    "level": "language",
+    "iso639-3": "myo",
+    "latitude": "8.568",
+    "longitude": "34.647",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Anfillo](https://endangeredlanguages.com/lang/2675)\n[Anfillo](https://grambank.clld.org/languages/anfi1235)\nhttps://en.wikipedia.org/wiki/Anfillo_language\nhttps://phoible.org/languages/anfi1235\nhttps://www.wikidata.org/entity/Q34928"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**cldf:siebert:siebert:etal:02**\n**cldf:yigezu:yehualashet:95**\n**eballiso2009:18666**\n**eballiso2009:20035**\n**eballiso2009:34422**\n**eballiso2009:41250**\n**eballiso2009:57013**\n**hh:el:Yigezu:Anfillo**\n**hh:ew:Grottanelli:Mao**\n**hh:hv:Fleming:Kefa**\n**hh:phon:Gebre:Anfillo**\n**hh:s:YigezuYehualashet:Anfillo**\n**hh:ssoc:Debela:Anfillo**\n**hh:typ:Alemayehu:Anfillo**\n**hh:typ:Debela:Anfillo**\n**hh:typ:Goshu:Anfillo**\n**hh:w:Bender:Anfillo**\n**sil16:42880**\n**sil16:42881**"
+  },
+  "altnames": {
+    "multitree": "\nAnfillo\nMao\nSouth Mao\nSouthern Mao",
+    "lexvo": "\nAnfillo [de]\nAnfillo language [en]\nAnfiloeg [br]\nBahasa Anfillo [id]",
+    "hhbib_lgcode": "\nMao Meridionale\nNorta Gonga (Anfillo)\nNorth Gonga (Anfillo)",
+    "elcat": "\nAnfillo\nAnfilo\nMao\nSouth Mao\nSouthern Mao"
+  },
+  "triggers": {
+    "lgcode": "\nkomosha\nanfillo"
+  },
+  "identifier": {
+    "multitree": "myo",
+    "endangeredlanguages": "2675"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bender:Omotic**",
+    "subrefs": "\n**hh:hv:Bender:Omotic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Anfillo (2675-myo) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

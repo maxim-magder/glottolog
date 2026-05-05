@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Begbere-Ejar",
+    "hid": "bqv",
+    "level": "language",
+    "iso639-3": "bqv",
+    "latitude": "9.40519",
+    "longitude": "7.59566",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Begbere-Ejar](https://lexibank.clld.org/languages/polyglottaafricana-BegbereEjar)\nhttps://www.wikidata.org/entity/Q7194098"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:SIL:Nigeria**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvld:Gerhardt:Plateaus:1983**\n**hh:phon:Ellison:Miya**\n**hh:s:Gerhardt:Koro**\n**hh:typ:Bala:Waci-Miamia**\n**hh:w:Blench:Koro-Waci**\n**hh:w:Blench:Tinor**\n**iso6393:2011-179**"
+  },
+  "altnames": {
+    "multitree": "\nAgere\nBegbere-Ejar\nKoro\nKoro Agwe\nKoro Makama\nKoro Myamya\nMiamia\nMiamiya",
+    "lexvo": "\nBegbere-Ejar [en]",
+    "hhbib_lgcode": "\nBajar\nKoro\nKoro Waci\nKoro from Kuratam in Kagarke district\nKoro-Kagarko in Zaria\nKoro-Wachi\nKoro-Waci\nMiamia\nMiyã"
+  },
+  "triggers": {
+    "lgcode": "\nwaci\ntinor"
+  },
+  "identifier": {
+    "multitree": "bqv"
+  },
+  "classification": {
+    "sub": "**hh:w:Blench:Ashe**:2",
+    "subrefs": "\n**hh:w:Blench:Ashe**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koro Wachi (bqv-bqv) = 6b (Threatened)."
+  }
+}

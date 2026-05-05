@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kott-Assan",
+    "hid": "zko",
+    "level": "language",
+    "iso639-3": "zko",
+    "latitude": "55.0",
+    "longitude": "94.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34163\nhttps://en.wikipedia.org/wiki/Kott_language\n[Kott](https://wals.info/languoid/lect/wals_code_ktt)",
+    "timespan": "1700-01-01/1858-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1379**\n**cldf:werner:97:1**\n**hh:g:Verner:Kottskij**\n**hh:g:Werner:Kottischen**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Werner:Jenissej:18**\n**hh:s:Verner:Kottskij**\n**hh:sd:Schiefner:Kottischen**\n**hh:w:Pallas:Vocabularia**\n**hh:w:Xelimskiy:Yeniseyskim**\n**iso6393:2022-010**"
+  },
+  "altnames": {
+    "multitree": "\nKott",
+    "lexvo": "\nJęzyk kott [pl]\nKot [nl]\nKotin kieli [fi]\nKott [en]\nKott language [en]\nKotte [fr]\nKotteg [br]\nKottisk [no]\nКотт чĕлхи [cv]\nКоттский язык [ru]\nภาษากอตต์ [th]",
+    "hhbib_lgcode": "\nAssan\nAssanic\nAssanski\nKot\nKott\nKottskij"
+  },
+  "triggers": {
+    "lgcode": "\nkottskij\nkottischen"
+  },
+  "identifier": {
+    "wals": "ktt",
+    "multitree": "zko"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vajda:Yeniseian**:369-372",
+    "subrefs": "\n**hh:hv:Vajda:Yeniseian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Kott (zko-zko) = 10 (Extinct)."
+  }
+}

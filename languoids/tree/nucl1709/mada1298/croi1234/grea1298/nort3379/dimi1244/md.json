@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gavak",
+    "hid": "dmc",
+    "level": "language",
+    "iso639-3": "dmc",
+    "latitude": "-4.8296",
+    "longitude": "145.676",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Gavak](https://lexibank.clld.org/languages/transnewguineaorg-gavak)\n[gavak](https://lexibank.clld.org/languages/zgraggenmadang-gavak)\nhttps://en.wikipedia.org/wiki/Gavak_language\nhttps://www.wikidata.org/entity/Q5277406"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1055**\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:hb:Zgraggen:Madang**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:Pick:Northern-Adelbert**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:NAdelbert**\n**iso6393:2012-091**"
+  },
+  "altnames": {
+    "multitree": "\nBosiken\nBoskien\nDimir",
+    "lexvo": "\nDimir [en]",
+    "glottolog": "\nDimir",
+    "hhbib_lgcode": "\nDimir\nGabak"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "identifier": {
+    "multitree": "dimi;dmc"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Pick:Northern-Adelbert**:188-194",
+    "subrefs": "\n**hh:hvld:Pick:Northern-Adelbert**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gavak (dmc-dmc) = 6b (Threatened)."
+  }
+}

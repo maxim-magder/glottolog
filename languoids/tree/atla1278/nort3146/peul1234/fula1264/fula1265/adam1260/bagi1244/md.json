@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bagirmi Fulfulde",
+    "hid": "fui",
+    "level": "language",
+    "iso639-3": "fui",
+    "latitude": "8.81656",
+    "longitude": "18.3467",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "TD"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bagirmi_Fulfulde\nhttps://www.wikidata.org/entity/Q11003859"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Harrison:Fulfulde**\n**hh:s:Gaden:Foulbe**"
+  },
+  "altnames": {
+    "multitree": "\nBaghirmi Peul\nBagirmi Fula\nBagirmi Fulfulde\nFulah-Idiome\nFulani\nFulfulde, Bagirmi",
+    "lexvo": "\nBagirmi Fulfulde [en]",
+    "hhbib_lgcode": "\nFulfulde-Bagirmi"
+  },
+  "triggers": {
+    "lgcode": "\nbaguirmi\nreport AND fulfulde\nfoul"
+  },
+  "identifier": {
+    "multitree": "fui"
+  },
+  "classification": {
+    "sub": "**hh:s:Gaden:Foulbe**:6",
+    "subrefs": "\n**hh:s:Gaden:Foulbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fulfulde, Bagirmi (fui-fui) = 6a* (Vigorous)."
+  }
+}

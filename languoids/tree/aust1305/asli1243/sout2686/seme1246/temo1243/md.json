@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Temoq",
+    "hid": "tmo",
+    "level": "language",
+    "iso639-3": "tmo",
+    "latitude": "3.11331",
+    "longitude": "102.916",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Temoq](https://endangeredlanguages.com/lang/3532)\nhttps://www.wikidata.org/entity/Q7698205\nhttps://en.wikipedia.org/wiki/Temoq_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gianno:97**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:e:Laird:Temoq**\n**hh:he:Fortier:HG-Southeast-Asia**\n**hh:hvw:Benjamin:Prehistory**\n**hh:hvw:SkeatBlagden:Malay**\n**hh:w:Collings:Temoq**\n**hh:w:Miklucho-Maclay:Johor**"
+  },
+  "altnames": {
+    "multitree": "\nTemoq\nUlu Indau",
+    "lexvo": "\nTemoq [en]",
+    "hhbib_lgcode": "\nOrang Hutan Johor II",
+    "elcat": "\nTemoq\nUlu Indau"
+  },
+  "triggers": {
+    "lgcode": "\ntemoq"
+  },
+  "identifier": {
+    "multitree": "tmo",
+    "endangeredlanguages": "3532"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunnetal:Aslian**",
+    "subrefs": "\n**hh:hv:Dunnetal:Aslian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Temoq (3532-tmo) = Endangered (20 percent certain, based on the evidence available) (Temoq are a hunter-gathering non-sedentary culture. Little linguistic work has been published.) [Gianno 1997](cldf:gianno:97)"
+  }
+}

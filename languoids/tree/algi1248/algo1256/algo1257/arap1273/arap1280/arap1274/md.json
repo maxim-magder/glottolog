@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Arapaho",
+    "hid": "arp",
+    "level": "language",
+    "iso639-3": "arp",
+    "latitude": "43.3879",
+    "longitude": "-108.81",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Arapaho](https://endangeredlanguages.com/lang/661)\n[Arapaho](https://grambank.clld.org/languages/arap1274)\n[Arapaho](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Arapaho)\n[Arapaho](https://wals.info/languoid/lect/wals_code_aho)\nhttps://en.wikipedia.org/wiki/Arapaho_language\nhttps://www.wikidata.org/entity/Q56417"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:98:1**\n**cldf:christopherrogers:campbell:10**\n**cldf:cowell:moss:02**\n**cldf:cowell:moss:06**\n**cldf:cowelland:moss:03**\n**cldf:ed:10**\n**cldf:eggan:37:2**\n**cldf:elkin:40:2**\n**cldf:flannery:53**\n**cldf:golla:goddard:etal:08**\n**cldf:gussow:hafen:etal:74**\n**cldf:hilger:52**\n**cldf:kroeber:02:2**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:michelson:34**\n**cldf:moseley:07**\n**cldf:nichols:ogg:ed:96:5**\n**cldf:np:nd:264**\n**cldf:salzmann:56**\n**cldf:salzmann:67**\n**cldf:sapir:ed:46:2**\n**cldf:wolfart:ed:02:4**\n**hh:d:Salzmann:Arapaho**\n**hh:e:Cowell:Arapaho**\n**hh:e:Fowler:Arapaho**\n**hh:g:CowellMoss:Arapaho**\n**hh:g:Francis:Arapaho**\n**hh:hv:Goddard:Algonquian-Plains**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Kroeber:Arapaho**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Hayden:Missouri**\n**hh:s:Salzmann:Arapaho**\n**hh:s:Salzmann:Arapaho:1963**\n**hh:w:Whiting:West-Mississippi**"
+  },
+  "altnames": {
+    "wals": "\nArapaho",
+    "moseley & asher (1994)": "\nArapaho",
+    "multitree": "\nArapaho\nArapaho (Oklahoma)\nArapaho (Wyoming)\nArapaho-Atsina\nArapahoan\nArapahoan Isolate\nArrapahoe\nNorthern Arapaho",
+    "lexvo": "\nArapaho [en]\nArapaho language [en]\nArapahoeg [br]\nArapažština [cs]\narapaho [fr]",
+    "hhbib_lgcode": "\nArapahoes\nArapoho\nArrapahoes\nBasanwunena\nBesawunena\nHinana’einan\nWood-lodge people",
+    "elcat": "\nArapaho\nArapaho-Atsina\nArrapahoe\nNorthern Arapaho"
+  },
+  "triggers": {
+    "lgcode": "\narapaho"
+  },
+  "identifier": {
+    "wals": "aho",
+    "multitree": "arp;arho",
+    "endangeredlanguages": "661"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Algonquian-Plains**:74-76",
+    "subrefs": "\n**hh:hv:Goddard:Algonquian-Plains**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Arapaho (661-arp) = Severely Endangered (100 percent certain, based on the evidence available) (Most speakers are over 50.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

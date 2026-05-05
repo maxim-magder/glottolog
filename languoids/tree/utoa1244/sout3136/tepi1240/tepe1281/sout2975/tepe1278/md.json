@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tepecano",
+    "hid": "tep",
+    "level": "language",
+    "iso639-3": "tep",
+    "latitude": "22.03529",
+    "longitude": "-103.7367",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Tepecano](https://grambank.clld.org/languages/tepe1278)\n[Tepecano](https://wals.info/languoid/lect/wals_code_tpc)\nhttps://en.wikipedia.org/wiki/Tepecano_language\nhttps://www.wikidata.org/entity/Q3915525",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:langacker:76**\n**hh:e:Riley:Southern-Tepehuan-Tepecano**\n**hh:hew:Lumholtz:Mexico**\n**hh:s:Mason:Tepecano**\n**hh:w:Leon:Tepecano**"
+  },
+  "altnames": {
+    "wals": "\nTepecano",
+    "moseley & asher (1994)": "\nTepecano",
+    "multitree": "\nTepecano\nTepekano\nTepiman",
+    "lexvo": "\nTepecano [en]"
+  },
+  "triggers": {
+    "lgcode": "\ntepecano"
+  },
+  "identifier": {
+    "wals": "tpc",
+    "multitree": "tep"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tepecano (tep-tep) = 10 (Extinct)."
+  }
+}

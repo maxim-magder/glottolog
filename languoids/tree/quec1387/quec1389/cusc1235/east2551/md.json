@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Eastern Apurímac Quechua",
+    "hid": "qve",
+    "level": "language",
+    "iso639-3": "qve",
+    "latitude": "-14.1754",
+    "longitude": "-72.6686",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Eastern-Apurímac](https://lexibank.clld.org/languages/crossandean-Apurimac)\nhttps://www.wikidata.org/entity/Q12953838"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Camacho:Quechua-Apurimac**\n**hh:hv:Blum:Quechua**\n**hh:hv:Grimes:Quechua**\n**hh:hv:Torero:Andina:1972**\n**hh:s:Camacho:Apurimac**\n**sil16:42258**\n**sil16:48687**"
+  },
+  "altnames": {
+    "glottolog": "\nEastern Apurimac Quechua",
+    "multitree": "\nEast Apurimac Quechua\nEastern Apurímac Quechua\nQuechua, Eastern ApurÃ­mac",
+    "lexvo": "\nEastern Apurímac Quechua [en]",
+    "hhbib_lgcode": "\nApurímac\nEastern-Apurímac\nGra Grau-Apurimac QIIC\nGrau\nQuechua-Eastern Apurímac"
+  },
+  "triggers": {
+    "lgcode": "\napurimaqpaq\napurimakpa\napurimeno\nleesunchis\nrunasimin"
+  },
+  "identifier": {
+    "multitree": "qve"
+  },
+  "classification": {
+    "sub": "**hh:hv:Landerman:Quechua**:260-261 **hh:hv:Adelaar:Andes**:183-188",
+    "subrefs": "\n**hh:hv:Landerman:Quechua**\n**hh:hv:Adelaar:Andes**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Quechua, Eastern Apurímac (qve-qve) = 4 (Educational)."
+  }
+}

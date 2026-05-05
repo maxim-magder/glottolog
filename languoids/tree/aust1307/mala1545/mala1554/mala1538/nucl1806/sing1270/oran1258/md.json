@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Orang Kanaq",
+    "hid": "orn",
+    "level": "language",
+    "iso639-3": "orn",
+    "latitude": "1.88296",
+    "longitude": "104.008",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Orang Kanaq](https://endangeredlanguages.com/lang/4928)\nhttps://www.wikidata.org/entity/Q3449510\nhttps://en.wikipedia.org/wiki/Orang_Kanaq_language"
+  },
+  "classification": {
+    "sub": "**hh:he:Carey:Orang-Asli**:236-239 **hh:phonw:Yusop:Kanaq-Duano**:96-172",
+    "subrefs": "\n**hh:phonw:Yusop:Kanaq-Duano**\n**hh:he:Carey:Orang-Asli**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:musa:11**\n**cldf:np:nd:264**\n**hh:e:AbdulWalker:Orang-Seletar**\n**hh:he:Carey:Orang-Asli**\n**hh:ldsoc:Yusop:Kanaq-Duano**\n**hh:phonw:Yusop:Kanaq-Duano**\n**hh:soc:Yusop:Kanaq-Duano**"
+  },
+  "altnames": {
+    "multitree": "\nOrang Kanaq\nOrang kanaq",
+    "lexvo": "\nOrang Kanaq [en]",
+    "hhbib_lgcode": "\nOrang Kanak",
+    "elcat": "\nOrang Kanaq"
+  },
+  "triggers": {
+    "lgcode": "\nkanaq"
+  },
+  "identifier": {
+    "multitree": "orn",
+    "endangeredlanguages": "4928"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Orang Kanaq (4928-orn) = Severely Endangered (20 percent certain, based on the evidence available) [Musa 2011](cldf:musa:11)"
+  }
+}

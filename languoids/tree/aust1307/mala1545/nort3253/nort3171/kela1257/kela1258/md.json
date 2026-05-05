@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kelabit",
+    "hid": "kzi",
+    "level": "language",
+    "iso639-3": "kzi",
+    "latitude": "3.31783",
+    "longitude": "115.428",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "BN",
+      "ID",
+      "MY"
+    ],
+    "links": "\n[Kelabit](https://wals.info/languoid/lect/wals_code_klt)\nhttps://en.wikipedia.org/wiki/Kelabit_language\nhttps://www.wikidata.org/entity/Q6385445"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:amster:06**\n**cldf:amster:08**\n**cldf:bala:07**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:blust:71**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:ethnologue:14**\n**cldf:ewart:12**\n**cldf:janowski:03**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:72**\n**cldf:np:14:5**\n**cldf:quek:09**\n**cldf:strouthes:93:2**\n**cldf:talla:79**\n**hh:d:Amster:Kelabit**\n**hh:e:Janowski:Kelabit**\n**hh:e:Schneeberger:Central-Northeast-Borneo**\n**hh:ew:Moulton:Batu-Lawi**\n**hh:g:Hemmings:Kelabit:2016**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hvw:Blust:Saban**\n**hh:hw:Ray:Borneo**\n**hh:phon:Blust:Kelabit**\n**hh:phonw:Blust:Kelabit**\n**hh:w:BolangHarrisson:Murut**\n**hh:w:Douglas:Kayan-Kenyah-Kalabit**"
+  },
+  "altnames": {
+    "wals": "\nKelabit",
+    "wals other": "\nKalabit",
+    "ruhlen (1987)": "\nKelabit",
+    "moseley & asher (1994)": "\nKelabit",
+    "multitree": "\nKalabit\nKelabit\nKerabit",
+    "lexvo": "\nKelabit [en]\nKelabit language [en]",
+    "hhbib_lgcode": "\nBario\nBario Kelabit\nKalabit\nKelabit-Bario\nTabun"
+  },
+  "triggers": {
+    "lgcode": "\nkalabit"
+  },
+  "identifier": {
+    "wals": "klt",
+    "multitree": "kzi"
+  },
+  "classification": {
+    "sub": "**hh:g:Mortensen:Kemaloh**:221-257",
+    "subrefs": "\n**hh:g:Mortensen:Kemaloh**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kelabit (kzi-kzi) = 6b (Threatened)."
+  }
+}

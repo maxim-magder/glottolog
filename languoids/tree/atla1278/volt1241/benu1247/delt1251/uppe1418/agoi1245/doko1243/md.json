@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Deko-Dusanga",
+    "hid": "uya",
+    "level": "language",
+    "iso639-3": "uya",
+    "latitude": "5.39961",
+    "longitude": "8.26925",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Doko-Uyanga](https://endangeredlanguages.com/lang/3403)\nhttps://www.wikidata.org/entity/Q7904095\nhttps://en.wikipedia.org/wiki/Uyanga_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:johnston:19:30**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hew:Talbot:Shadow-Bush**\n**hh:hv:Dimmendaal:UpperCross**\n**hh:hvw:Blench:Upper-Cross**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:w:Cook:DoKo**\n**hh:w:Simmons:Basanga**\n**hh:wsoc:Decker:Deko-Dusanga**"
+  },
+  "altnames": {
+    "multitree": "\nBasanga\nDoko-Uyanga\nDosanga\nIko\nUyanga",
+    "lexvo": "\nDoko-Uyanga [en]",
+    "hhbib_lgcode": "\nBasanga\nDeko\nDoko\nDoko (Iko Ekperem)\nDoko-Uyanga\nDusanga\nUyanga",
+    "elcat": "\nBasanga\nDoko-Uyanga\nDosanga\nIko\nUyanga",
+    "glottolog": "\nDoko-Uyanga"
+  },
+  "triggers": {
+    "lgcode": "\nbasanga\nuyanga"
+  },
+  "identifier": {
+    "multitree": "uya",
+    "endangeredlanguages": "3403"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sterk:Upper-Cross**:60 **hh:hv:Dimmendaal:UpperCross**",
+    "subrefs": "\n**hh:hv:Sterk:Upper-Cross**\n**hh:hv:Dimmendaal:UpperCross**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Doko-Uyanga (3403-uya) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

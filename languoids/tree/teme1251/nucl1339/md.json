@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Temein",
+    "hid": "teq",
+    "level": "language",
+    "iso639-3": "teq",
+    "latitude": "11.8275",
+    "longitude": "29.3898",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Temein](https://endangeredlanguages.com/lang/5095)\nhttps://www.wikidata.org/entity/Q7698064\nhttps://en.wikipedia.org/wiki/Temein_language\nhttps://phoible.org/languages/nucl1339\n[Temein](https://wals.info/languoid/lect/wals_code_tmn)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:12950**\n**eballiso2009:19828**\n**eballiso2009:57429**\n**eballiso2009:9231**\n**eballiso2009:9232**\n**hh:h:Tucker:Sudanic**\n**hh:he:Stevenson:Nuba**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Blench:Temein**\n**hh:hv:Blench:Temein:2013**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:ld:Shurkian:Temein**\n**hh:soc:Sudan:Tukma**\n**hh:soc:Sudan:Wali-Julud-Temein**\n**hh:typ:Nusslein:Temein**\n**hh:vld:Manfredi:Nuba**\n**hh:w:Blench:Temein**\n**hh:w:Knoblecher:Africae**"
+  },
+  "altnames": {
+    "wals": "\nTemein",
+    "wals other": "\nRone\nRonge",
+    "ruhlen (1987)": "\nRonge",
+    "moseley & asher (1994)": "\nRonge",
+    "multitree": "\nRone\nRonge\nTemainian\nTemein\nTemeino",
+    "lexvo": "\nTemein [en]",
+    "hhbib_lgcode": "\nJebel Kuran\nTemain\nTemein ie Temein",
+    "elcat": "\nRone\nRonge\nTemainian\nTemein"
+  },
+  "triggers": {
+    "lgcode": "\ninterethnischen\nsubfamily\ntemein"
+  },
+  "identifier": {
+    "wals": "genus/temein",
+    "multitree": "teq",
+    "endangeredlanguages": "5095"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Temein (5095-teq) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bolinao",
+    "hid": "smk",
+    "level": "language",
+    "iso639-3": "smk",
+    "latitude": "16.3071",
+    "longitude": "119.853",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Bolinao](https://grambank.clld.org/languages/boli1256)\nhttps://en.wikipedia.org/wiki/Bolinao_language\nhttps://www.wikidata.org/entity/Q2669235"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mcfarland:77**\n**hh:bld:Ridruejo:Sambala**\n**hh:g:Ehrman:Bolinao**\n**hh:g:Villareal:Bolinao**\n**hh:h:Larena:Philippines**\n**hh:hew:Reed:Negritos**\n**hh:hvld:Stone:Sambalic:2006**\n**hh:hvw:Stone:Sambalic**\n**hh:ld:Persons:Bolinao**\n**hh:t:Persons:Bolinao**\n**hh:typ:Persons:Bolinao:Cohesion**\n**hh:typ:Velasquez:Bolinao**\n**hh:w:Alegre:Sambali**\n**hh:w:Jenks:Bolinao-Sambali**\n**hh:w:VirayScheerer:Sambali-Bolinao**\n**sil16:18187**\n**sil16:18188**\n**sil16:29591**\n**sil16:50735**"
+  },
+  "altnames": {
+    "multitree": "\nBinobolinao\nBolinao\nBolinao Sambal\nBolinao Zambal",
+    "lexvo": "\nBolinao [en]\nBolinao language [en]\nWikang Bolinao [tl]\nภาษาโบลิเนา [th]\nボリナオ語 [ja]",
+    "hhbib_lgcode": "\nBolinao Sambali\nZambal of Bolinao"
+  },
+  "triggers": {
+    "lgcode": "\nmiirgu\nsambalic\nbolinao"
+  },
+  "identifier": {
+    "wals": "biq",
+    "multitree": "smk"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Stone:Sambalic**",
+    "subrefs": "\n**hh:hvw:Stone:Sambalic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bolinao (smk-smk) = 6b (Threatened)."
+  }
+}

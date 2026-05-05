@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bondei",
+    "hid": "bou",
+    "level": "language",
+    "iso639-3": "bou",
+    "latitude": "-5.10749",
+    "longitude": "38.5079",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Bondei](https://endangeredlanguages.com/lang/5062)\n[Bondei](https://grambank.clld.org/languages/bond1247)\nhttps://en.wikipedia.org/wiki/Bondei_language\nhttps://www.wikidata.org/entity/Q4941378"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abdy:24**\n**cldf:dale:94**\n**cldf:dale:96**\n**cldf:dammann:37**\n**cldf:dammann:38**\n**cldf:dempwolff:16:2**\n**cldf:farler:79**\n**cldf:guthrie:71:11**\n**cldf:lewis:ed:09**\n**eballiso2009:14889**\n**eballiso2009:1561**\n**eballiso2009:17658**\n**eballiso2009:1837**\n**eballiso2009:23532**\n**eballiso2009:28353**\n**eballiso2009:28361**\n**eballiso2009:28707**\n**eballiso2009:31994**\n**eballiso2009:31995**\n**eballiso2009:32813**\n**eballiso2009:33914**\n**eballiso2009:35839**\n**eballiso2009:36132**\n**eballiso2009:36133**\n**eballiso2009:36136**\n**eballiso2009:36373**\n**eballiso2009:36375**\n**eballiso2009:37408**\n**eballiso2009:39719**\n**eballiso2009:40685**\n**eballiso2009:40686**\n**eballiso2009:44120**\n**eballiso2009:44124**\n**eballiso2009:44126**\n**eballiso2009:44127**\n**eballiso2009:50699**\n**eballiso2009:52289**\n**eballiso2009:53652**\n**eballiso2009:54393**\n**eballiso2009:54523**\n**eballiso2009:56572**\n**eballiso2009:7057**\n**eballiso2009:8063**\n**hh:d:Kiango:Kibondei**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hel:Leger:Tanzania**\n**hh:hv:Athumani:Bondei**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hvw:Dempwolff:Deutsch-Ostafrika**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Last:Polyglotta**\n**hh:phontyp:Meinhof:Ostafrika:Three**\n**hh:s:Merlevede:Bondei**\n**hh:sd:Woodward:Boondei**\n**hh:typ:Lukindo:Bondei**\n**hh:w:Raddatz:Worterverzeichnissen**"
+  },
+  "altnames": {
+    "multitree": "\nBonde\nBondei\nKibondei",
+    "lexvo": "\nBondei [en]",
+    "hhbib_lgcode": "\nBondei G24\nG24_Bondei\nKi-Bondei\nVIII: Bondei\ni.e. Bondei",
+    "elcat": "\nBonde\nBondei\nKibondei"
+  },
+  "triggers": {
+    "lgcode": "\nboondei\nbonde\nbondei\nkibondei"
+  },
+  "identifier": {
+    "multitree": "bou",
+    "endangeredlanguages": "5062"
+  },
+  "classification": {
+    "sub": "**hh:hv:NursePhilippson:EAfrica**",
+    "subrefs": "\n**hh:hv:NursePhilippson:EAfrica**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bondei (5062-bou) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

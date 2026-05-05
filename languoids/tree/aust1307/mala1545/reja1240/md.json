@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Rejang",
+    "hid": "rej",
+    "level": "language",
+    "iso639-3": "rej",
+    "latitude": "-3.33056",
+    "longitude": "102.434",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Rejang](https://wals.info/languoid/lect/wals_code_rej)\nhttps://en.wikipedia.org/wiki/Rejang_language\nhttps://www.wikidata.org/entity/Q3056339"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:birt:08**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:blust:84:2**\n**cldf:boerger:07**\n**cldf:calculator:14**\n**cldf:crawfurd:56**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:jaspan:64**\n**cldf:jaspan:72:2**\n**cldf:jaspan:king:81**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:72**\n**cldf:macken:ed:00:15**\n**cldf:marsden:84**\n**cldf:mcginn:05**\n**cldf:mcginn:82**\n**cldf:nelson:95**\n**cldf:np:14:5**\n**cldf:np:14:7**\n**cldf:reid:87:1**\n**cldf:shelf:16**\n**cldf:sumatra:17**\n**cldf:znoj:98**\n**hh:d:Hamidy:Rejang**\n**hh:hv:Adelungetal:Mithridates:1**\n**hh:hv:McGinn:Rejang-Borneo**\n**hh:hv:McGinn:Rejang-Bukar-Sadong**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marsden:East-Insular**\n**hh:s:Afriazi:Rejang-Pesisir**\n**hh:s:MacGinn:Rejang**\n**hh:s:Napsin:Rejang**\n**hh:sd:Jaspan:Rejang**\n**hh:v:Zobel:Rejang**"
+  },
+  "altnames": {
+    "wals": "\nRejang",
+    "ruhlen (1987)": "\nRejang",
+    "moseley & asher (1994)": "\nRejang",
+    "multitree": "\nDjang\nDjang Bele Tebo\nJang\nRedjang\nRejang\nRejang-Lebong",
+    "lexvo": "\nBahasa Rejang [id]\nRejang [en]\nRejang language [en]",
+    "hhbib_lgcode": "\nPesisir Rejang"
+  },
+  "triggers": {
+    "lgcode": "\nrejang"
+  },
+  "identifier": {
+    "wals": "rej",
+    "multitree": "rej"
+  },
+  "classification": {
+    "sub": "**hh:v:Zobel:Rejang** **hh:hv:McGinn:Rejang-Borneo**",
+    "subrefs": "\n**hh:hv:McGinn:Rejang-Borneo**\n**hh:v:Zobel:Rejang**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rejang (rej-rej) = 5 (Developing)."
+  }
+}

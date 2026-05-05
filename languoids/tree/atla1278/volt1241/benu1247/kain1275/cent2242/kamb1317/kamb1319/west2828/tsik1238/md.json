@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tsikimba",
+    "hid": "kdl",
+    "level": "language",
+    "iso639-3": "kdl",
+    "latitude": "9.60496",
+    "longitude": "4.88739",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kimba_language\nhttps://www.wikidata.org/entity/Q3914404"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:53398**\n**hh:he:GunnConant:Middle-Niger**\n**hh:hvw:Blench:WKainji**\n**hh:typ:Isaiah:Tsigaunshi**\n**sil16:40759**\n**sil16:40760**"
+  },
+  "altnames": {
+    "multitree": "\nAgaushi\nAkimba\nAuna\nKambari\nKamberchi\nKamberri\nKimba\nTsikimba",
+    "lexvo": "\nTsikimba [en]",
+    "hhbib_lgcode": "\nKambari-Kimba\nTsigaunshi"
+  },
+  "triggers": {
+    "lgcode": "\ntsikimba\nkambari"
+  },
+  "identifier": {
+    "multitree": "kdl"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tsikimba (kdl-kdl) = 5 (Developing)."
+  }
+}

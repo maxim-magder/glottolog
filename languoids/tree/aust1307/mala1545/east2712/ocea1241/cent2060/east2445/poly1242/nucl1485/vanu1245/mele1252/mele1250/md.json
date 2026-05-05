@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mele-Fila",
+    "hid": "mxe",
+    "level": "language",
+    "iso639-3": "mxe",
+    "latitude": "-17.6841",
+    "longitude": "168.275",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ifira-Mele](https://wals.info/languoid/lect/wals_code_mxe)\n[Ifira-Mele (Mele-Fila)](https://lexibank.clld.org/languages/abvdoceanic-IfiraMeleMeleFila)\n[Mele-Fila](https://grambank.clld.org/languages/mele1250)\n[Mele-Fila_1163](https://lexibank.clld.org/languages/walworthpolynesian-MeleFila)\nhttps://en.wikipedia.org/wiki/Mele-Fila_language\nhttps://www.wikidata.org/entity/Q3305008"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1887**\n**asjp2010:705**\n**hh:d:Biggs:Mele-Fila**\n**hh:d:Clark:Mele**\n**hh:hv:Clark:CVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Capell:Fila**\n**hh:s:Clark:Ifira-Mele**\n**hh:s:Clark:Mele**\n**hh:w:Clark:Mele-Fila**\n**hh:w:Elbert:Mele-Fila**"
+  },
+  "altnames": {
+    "multitree": "\nFila-Mele\nMele-Fila",
+    "lexvo": "\nMele-Fila [en]",
+    "hhbib_lgcode": "\nFila\nIfira-Mele\nMele"
+  },
+  "triggers": {
+    "lgcode": "\nmele\nNOT 3 AND mele\nfila"
+  },
+  "identifier": {
+    "wals": "mxe",
+    "multitree": "mxe"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian**:128-129",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mele-Fila (mxe-mxe) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Nugunu (Australia)",
+    "hid": "nnv",
+    "level": "language",
+    "iso639-3": "nnv",
+    "latitude": "-32.6655",
+    "longitude": "138.0567",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Nukunu](https://endangeredlanguages.com/lang/6670)\n[Nukunu](https://collection.aiatsis.gov.au/austlang/language/l4)\nhttps://en.wikipedia.org/wiki/Nukunu_language\nhttps://phoible.org/languages/nugu1241\nhttps://www.wikidata.org/entity/Q10604066",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**hh:d:Hercus:Nukunu**\n**hh:hv:SimpsonHercus:Thura-Yura**\n**hh:w:Black:Three-South-Australian**\n**hh:w:Valentine:Mount-Remarkable**\n**ozbib:1855**\n**ozbib:2787**\n**ozbib:3725**\n**ozbib:5585**\n**ozbib:6800**\n**ozbib:6932**"
+  },
+  "altnames": {
+    "multitree": "\nBarutadura\nDoora\nEura\nNjuguna\nNokunna\nNoocoona\nNookoona\nNu-guna\nNuguna\nNugunu\nNukana\nNukuna\nNukunna\nNukunnu\nNukunu\nPukunna\nTjura\nTura\nTyura\nWallaroo\nWarra\nWongaidja\nWongaidya",
+    "lexvo": "\nLenga nugunu [pms]\nNugunu (Australia) [en]\nNugunu [en]\nNukunu language [en]",
+    "hhbib_lgcode": "\nNugunu\nWongaidya",
+    "elcat": "\nBarutadura\nDoora\nEura\nNjuguna\nNokunna\nNoocoona\nNookoona\nNu-guna\nNuguna\nNugunu\nNukana\nNukuna\nNukunna\nNukunnu\nNukunu\nPukunna\nTjura\nTura\nTyura\nWallaroo\nWarra\nWongaidja\nWongaidya",
+    "aiatsis": "\nBarutadura\nDoora\nEura\nNjuguna\nNokunna\nNoocoona\nNookoona\nNu guna\nNuguna\nNugunu\nNukana\nNukuna\nNukunna\nNukunnu\nNukunu\nOther Australian Indigenous Languages\nPukunna\nTjura\nTura\nTyra\nTyura\nWarra\nWongaidja\nWongaidya"
+  },
+  "triggers": {
+    "lgcode": "\nnukunu\nremarkable"
+  },
+  "identifier": {
+    "multitree": "nnv",
+    "endangeredlanguages": "6670"
+  },
+  "classification": {
+    "sub": "**hh:hv:SimpsonHercus:Thura-Yura** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:SimpsonHercus:Thura-Yura**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nukunu (6670-nnv) = Dormant [Bowern 2011](cldf:bowern:11:1)"
+  }
+}

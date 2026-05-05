@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Paisaci Prakrit",
+    "hid": "qpp",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "iso639-3": "qpp",
+    "longitude": "75.38",
+    "latitude": "19.48",
+    "timespan": "0200-01-01/0900-01-01",
+    "links": "\nhttps://en.wikipedia.org/wiki/Paishachi\nhttps://www.wikidata.org/entity/Q2995607"
+  },
+  "classification": {
+    "sub": "**hh:s:Pischel:Prakrit**",
+    "subrefs": "\n**hh:s:Pischel:Prakrit**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:vonHinuber:Mittelindisch**\n**hh:s:Cowell:Prakrita**\n**hh:s:Grierson:Pisaca**\n**hh:s:Pischel:Hemacandra-Prakrit**\n**hh:s:Pischel:Prakrit**"
+  },
+  "altnames": {
+    "multitree": "\nPaisaci Prakrit\nPrakrit",
+    "hhbib_lgcode": "\nPaisaci"
+  },
+  "triggers": {
+    "lgcode": "\npisaca"
+  },
+  "identifier": {
+    "multitree": "qpp"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Paisaci Prakrit (qpp-qpp) = 10 (Extinct)."
+  }
+}

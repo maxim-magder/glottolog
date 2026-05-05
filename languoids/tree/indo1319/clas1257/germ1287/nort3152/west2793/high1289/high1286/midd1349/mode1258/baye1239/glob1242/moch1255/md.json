@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mòcheno",
+    "hid": "mhn",
+    "level": "language",
+    "iso639-3": "mhn",
+    "latitude": "46.1064",
+    "longitude": "11.315",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Mócheno](https://endangeredlanguages.com/lang/4658)\nhttps://www.wikidata.org/entity/Q268130\nhttps://en.wikipedia.org/wiki/M%C3%B2cheno_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Rowley:Mocheno**\n**hh:e:Basz:Sudtirol-Oberitalien**\n**hh:g:Rowley:Fersentalerischen:2010**\n**hh:g:Rowley:Mocheno**\n**hh:g:Tuma:Mocheni**\n**hh:gt:Rowley:Fersental**\n**hh:hwdial:Schweizer:Zimbrischer-Fersentalerischer**\n**hh:phon:Battisti:Mochena**\n**hh:s:Rowley:Fersentals**\n**hh:s:Rowley:Florutz**\n**hh:soc:Mattiola:Mocheno**\n**hh:sv:Bauer:Fersentaler**\n**hh:typ:Cognola:German-Northern-Italy**\n**hh:typ:Cognola:German-Northern-Italy:2013**\n**hh:typ:Cognola:Mocheno**\n**hh:typ:Cognola:Mocheno:2014**\n**hh:typ:Togni:Fersina**\n**iso6393:2025-018**"
+  },
+  "altnames": {
+    "multitree": "\nMocheno\nMócheno",
+    "lexvo": "\nMócheno [en]",
+    "hhbib_lgcode": "\nDeutsch-Fersental\nFersentaler\nFersentalerischer\nFersentales\nFlorutz\nMocheno\nMócheno\nTyrolean dialect Mòcheno a language spoken in three villages of the Fersina valley (Eastern Trentino-Northern Italy)\nValle del fersina",
+    "glottolog": "\nMócheno",
+    "elcat": "\nMócheno"
+  },
+  "triggers": {
+    "lgcode": "\nfersentals\nfersentaler\noberitalien\nfersentalerischen\nliacht\ntrient\nmochena\nmocheno"
+  },
+  "identifier": {
+    "multitree": "mhn",
+    "endangeredlanguages": "4658"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kranzmayer:Gesamtbairischen**",
+    "subrefs": "\n**hh:hv:Kranzmayer:Gesamtbairischen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mócheno (4658-mhn) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

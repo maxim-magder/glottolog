@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Unami",
+    "hid": "unm",
+    "level": "language",
+    "iso639-3": "unm",
+    "latitude": "40.4",
+    "longitude": "-74.3",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Unami](https://endangeredlanguages.com/lang/2144)\n[Unami](https://wals.info/languoid/lect/wals_code_unm)\nhttps://en.wikipedia.org/wiki/Unami_language\nhttps://phoible.org/languages/unam1242\nhttps://www.wikidata.org/entity/Q3549180",
+    "timespan": "2002-01-01/2002-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:goddard:82**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:harrington:13:1**\n**cldf:harrington:21**\n**cldf:herman:50**\n**cldf:lewis:ed:09**\n**cldf:macleod:22**\n**cldf:newcomb:56**\n**cldf:skinner:09**\n**cldf:wallace:47:2**\n**hh:b:Dennis:Accessibility**\n**hh:g:Duponceau:Delaware**\n**hh:g:Goddard:Unami**\n**hh:g:Pearson:Delaware**\n**hh:g:Pearson:Delaware:1988**\n**hh:g:Zeisberger:Lenni-Lenape**\n**hh:hvw:Duponceau:Amerique-Nord**\n**hh:s:Blalocketal:Delaware**\n**hh:s:Goddard:Delaware**\n**hh:s:Pickering:Indianischen**\n**hh:s:Voegelin:Delaware**\n**hh:soc:Hoffman:Unami**\n**hh:t:Goddard:Unami**\n**hh:typ:StAmour:Southern-Unami**\n**hh:w:Cummings:Delaware**\n**hh:w:Heckewelder:Lenni-Lenape**\n**hh:w:Madison:Delawares**\n**ldh:item_1933128**\n**ldh:item_1943442**"
+  },
+  "altnames": {
+    "wals": "\nUnami",
+    "wals other": "\nDelaware",
+    "ruhlen (1987)": "\nUnami",
+    "moseley & asher (1994)": "\nUnami",
+    "multitree": "\nDelaware\nLenape\nLenni-Lenape\nTla Wilano\nUnami\nUnami Delaware\nUnamí",
+    "lexvo": "\nUnami [en]\nUnami language [en]",
+    "hhbib_lgcode": "\nDelaware\nDelawares\nEliot/Zeisberger Delwarischen with comparative notes\nLenape\nLenni Lenape\nSouthern Unami\nSouthern Unami from Edgepillock in Burlington County",
+    "elcat": "\nLenape\nLenni-Lenape\nOklahoma Delaware\nTla Wilano\nUnami\nUnami Delaware"
+  },
+  "triggers": {
+    "lgcode": "\nlenni\nlanguage AND delaware"
+  },
+  "identifier": {
+    "wals": "unm",
+    "multitree": "unm",
+    "endangeredlanguages": "2144"
+  },
+  "classification": {
+    "sub": "**hh:phonvld:Goddard:Mahican**",
+    "subrefs": "\n**hh:phonvld:Goddard:Mahican**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Unami (2144-unm) = Dormant [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

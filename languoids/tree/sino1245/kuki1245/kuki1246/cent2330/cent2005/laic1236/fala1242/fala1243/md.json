@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Falam Chin",
+    "hid": "cfm",
+    "level": "language",
+    "iso639-3": "cfm",
+    "latitude": "23.7892833333",
+    "longitude": "92.3254633333",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Falam Chin](https://endangeredlanguages.com/lang/5630)\n[Falam Chin](https://grambank.clld.org/languages/fala1243)\nhttps://en.wikipedia.org/wiki/Falam_language\nhttps://www.wikidata.org/entity/Q56815"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aarsjoe:aa:05**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Dum:Falam**\n**hh:d:Van:Falam-Chin**\n**hh:e:Bhattacharya:Kaipengs**\n**hh:h:Luce:Chin**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Button:NChin**\n**hh:hvw:Button:NChin:2011**\n**hh:hvw:Grierson:3:III**\n**hh:hvw:Thang:Chin**\n**hh:phon:Thuan:Falam**\n**hh:s:King:Falam-Chin**\n**hh:styp:Osburne:Zahao-Chin**\n**iso6393:2006-023**\n**sil16:22709**"
+  },
+  "altnames": {
+    "multitree": "\nChin, Falam\nChin,Falam\nFalam\nFallam\nHalam\nHallam\nHallam Chin\nTipura\nZahao",
+    "lexvo": "\nFalam Chin [en]",
+    "hhbib_lgcode": "\nChin-Falam\nFalam\nKaipengs\nKhualsim\nLaizo\nShunkla/Tashon\nTaisun\nZahao\nZahao/Yahow",
+    "elcat": "\nChin\nFalam\nFalam Chin\nFallam\nHalam\nHallam\nHallam Chin\nTipura\nZahao\nဖလမ်းချင်း"
+  },
+  "triggers": {
+    "lgcode": "\nzahao\nlaizo\ntone AND instability\naltering"
+  },
+  "identifier": {
+    "multitree": "cfm",
+    "endangeredlanguages": "5630"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Falam Chin (5630-cfm) = Vulnerable (80 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Izora",
+    "hid": "cbo",
+    "level": "language",
+    "iso639-3": "cbo",
+    "latitude": "10.4735",
+    "longitude": "8.76468",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Izora](https://endangeredlanguages.com/lang/5046)\nhttps://www.wikidata.org/entity/Q3915454\nhttps://en.wikipedia.org/wiki/Zora_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:12:1**\n**cldf:lewis:ed:09**\n**hh:h:Danladi:Gyem-Izora-Shau**\n**hh:hvw:Shimizu:Jos**\n**hh:w:Blench:Zora**\n**hh:w:Blench:Zora:2016**\n**hh:w:Shimizu:Five**"
+  },
+  "altnames": {
+    "multitree": "\nAzora\nChikobo\nChokobo\nCikobu\nCokobanci\nCokobo\nIzora",
+    "lexvo": "\nIzora [en]",
+    "hhbib_lgcode": "\nChokobo\nCokobo\nZora",
+    "elcat": "\nAzora\nChikobo\nChokobo\nCikobu\nCokobanci\nCokobo\nIzora\nZora"
+  },
+  "identifier": {
+    "multitree": "cbo",
+    "endangeredlanguages": "5046"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:Jos**",
+    "subrefs": "\n**hh:hvw:Shimizu:Jos**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Izora (5046-cbo) = Endangered (80 percent certain, based on the evidence available) (Highly endangered; not actively spoken by the younger generation.) [Blench 2012](cldf:blench:12:1)"
+  }
+}

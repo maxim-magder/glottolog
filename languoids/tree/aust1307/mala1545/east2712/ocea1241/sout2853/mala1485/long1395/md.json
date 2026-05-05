@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Longgu",
+    "hid": "lgu",
+    "level": "language",
+    "iso639-3": "lgu",
+    "latitude": "-9.75258",
+    "longitude": "160.663",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Longgu](https://endangeredlanguages.com/lang/2056)\n[Longgu](https://grambank.clld.org/languages/long1395)\n[Longgu](https://lexibank.clld.org/languages/abvdoceanic-Longgu)\n[Longgu](https://wals.info/languoid/lect/wals_code_lgu)\nhttps://en.wikipedia.org/wiki/Longgu_language\nhttps://www.wikidata.org/entity/Q3259105"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:bellwood:ayres:etal:75**\n**cldf:calculator:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:gratton:91**\n**cldf:hill:12:2**\n**cldf:hill:94**\n**cldf:hogbin:64**\n**cldf:hogbin:65**\n**cldf:keesing:84:2**\n**cldf:lewis:ed:09**\n**cldf:lynch:ross:etal:ed:02:17**\n**cldf:np:11:1**\n**cldf:np:14:5**\n**cldf:puetz:dirven:ed:96:1**\n**cldf:tryon:hackman:83**\n**hh:e:Hogbin:Kaoka**\n**hh:e:Hogbin:Longgu**\n**hh:g:Hill:Longgu**\n**hh:g:Hill:Longgu:2011**\n**hh:hvw:TryonHackman:Solomon**\n**hh:s:Hill:Longgu**\n**hh:s:Ivens:Longgu**"
+  },
+  "altnames": {
+    "wals": "\nLonggu",
+    "ruhlen (1987)": "\nLonggu",
+    "moseley & asher (1994)": "\nLonggu",
+    "multitree": "\nLogu\nLonggu\nSüdliche Salomons-Inseln",
+    "lexvo": "\nLonggu [en]",
+    "elcat": "\nLogu\nLonggu\nSüdliche Salomons-Inseln"
+  },
+  "triggers": {
+    "lgcode": "\nlonggu\nkaoka"
+  },
+  "identifier": {
+    "wals": "lgu",
+    "multitree": "lgu;long",
+    "endangeredlanguages": "2056"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Longgu (2056-lgu) = Threatened (40 percent certain, based on the evidence available) (Longgu is surrounded by Guadalcanal-Nggelic languages. There is pressure for Longgu Speakers to also understand surrounding languages.) [Hill 2011](cldf:hill:11:3)"
+  }
+}

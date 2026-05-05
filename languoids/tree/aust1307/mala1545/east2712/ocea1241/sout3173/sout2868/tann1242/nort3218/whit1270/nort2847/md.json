@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "North Tanna",
+    "hid": "tnn",
+    "level": "language",
+    "iso639-3": "tnn",
+    "latitude": "-19.3733",
+    "longitude": "169.303",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[North Tanna](https://grambank.clld.org/languages/nort2847)\n[Tanna, North](https://lexibank.clld.org/languages/abvdoceanic-TannaNorth)\nhttps://en.wikipedia.org/wiki/North_Tanna_language\nhttps://www.wikidata.org/entity/Q957945"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1129**\n**hh:e:Bonnemaison:Tanna**\n**hh:e:Bonnemaison:Tanna:1987**\n**hh:h:Lindstrom:Tanna**\n**hh:hv:Lynch:Southern-Vanuatu**\n**hh:hv:Lynch:Southern-Vanuatu-Pronominal**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:phon:Carlson:North-Tanna**\n**hh:s:Sverredal:North-Tanna**\n**hh:w:Blaymires:North-Tanna**\n**hh:w:Nehrbass:Tanna**"
+  },
+  "altnames": {
+    "multitree": "\nTanna, North\nVanuatu",
+    "lexvo": "\nNorth Tanna [en]",
+    "hhbib_lgcode": "\nTanna-North"
+  },
+  "triggers": {
+    "lgcode": "\nnorth AND tanna"
+  },
+  "identifier": {
+    "multitree": "tnn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Southern-Vanuatu**",
+    "subrefs": "\n**hh:hv:Lynch:Southern-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tanna, North (tnn-tnn) = 5 (Developing)."
+  }
+}

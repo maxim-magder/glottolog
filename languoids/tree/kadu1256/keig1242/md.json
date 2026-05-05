@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Keiga",
+    "hid": "kec",
+    "level": "language",
+    "iso639-3": "kec",
+    "latitude": "11.2064",
+    "longitude": "29.3889",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Keiga](https://endangeredlanguages.com/lang/4363)\n[Keiga](https://grambank.clld.org/languages/keig1242)\nhttps://en.wikipedia.org/wiki/Keiga_language\nhttps://phoible.org/languages/keig1242\nhttps://www.wikidata.org/entity/Q3409311"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:meinhof:17:1**\n**cldf:np:79:1**\n**cldf:np:nd:264**\n**hh:hv:Dafalla:Katcha-Kadugli**\n**hh:hv:HallHall:Kadugli-Krongo**\n**hh:hvw:Schadeberg:Kadu**\n**hh:hvw:Yahia:Katcha-Kadugli**\n**hh:s:Reh:Deiga**\n**hh:soc:Sudan:Keiga**\n**hh:soc:Sudan:Keiga-Debri**\n**hh:w:Blench:Kayigang**\n**hh:w:Knoblecher:Africae**\n**hh:w:Meinhof:Keiga**"
+  },
+  "altnames": {
+    "multitree": "\nAigang\nDemik\nKeiga\nKeiga-Al-Kheil\nKeiga-Timero\nYega",
+    "lexvo": "\nKeiga [en]",
+    "hhbib_lgcode": "\nJebel Kega\nYegang",
+    "elcat": "\nAigang\nDemik\nKeiga\nKeiga-Al-Kheil\nKeiga-Timero\nYega"
+  },
+  "triggers": {
+    "lgcode": "\ndeiga\nthe AND keiga"
+  },
+  "identifier": {
+    "multitree": "kec",
+    "endangeredlanguages": "4363"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dafalla:Katcha-Kadugli** **hh:hv:ThelwallSchadeberg:Nuba**",
+    "subrefs": "\n**hh:hv:Dafalla:Katcha-Kadugli**\n**hh:hv:ThelwallSchadeberg:Nuba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Keiga (4363-kec) = Threatened (80 percent certain, based on the evidence available) (Most domains. All ages.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

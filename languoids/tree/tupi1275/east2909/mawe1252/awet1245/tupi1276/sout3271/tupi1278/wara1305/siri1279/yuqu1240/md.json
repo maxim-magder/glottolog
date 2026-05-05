@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yuqui",
+    "hid": "yuq",
+    "level": "language",
+    "iso639-3": "yuq",
+    "latitude": "-16.7875",
+    "longitude": "-64.9438",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Yuki](https://endangeredlanguages.com/lang/633)\n[Yuki](https://lexibank.clld.org/languages/gerarditupi-Yuki)\n[Yuqui](https://grambank.clld.org/languages/yuqu1240)\nhttps://en.wikipedia.org/wiki/Yuqui_language\nhttps://phoible.org/languages/yuqu1240\nhttps://www.wikidata.org/entity/Q8061440"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:dosanjos:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:villafane:03**\n**fabreall2009ann:Tupi_yuki00**\n**fabreall2009ann:Tupi_yuki01**\n**fabreall2009ann:Tupi_yuki02**\n**fabreall2009ann:Tupi_yuki03**\n**fabreall2009ann:Tupi_yuki06**\n**fabreall2009ann:Tupi_yuki07**\n**fabreall2009ann:Tupi_yuki08**\n**fabreall2009ann:Tupi_yuki09**\n**fabreall2009ann:Tupi_yuki10**\n**fabreall2009ann:Tupi_yuki11**\n**fabreall2009ann:Tupi_yuki12**\n**fabreall2009ann:Tupi_yuki14**\n**fabreall2009ann:Tupi_yuki17**\n**fabreall2009ann:Tupi_yuki18**\n**fabreall2009ann:Tupi_yuki19**\n**fabreall2009ann:Tupi_yuki20**\n**fabreall2009ann:Tupi_yuki21**\n**fabreall2009ann:Tupi_yuki22**\n**fabreall2009ann:Tupi_yuki23**\n**fabreall2009ann:Tupi_yuki25**\n**fabreall2009ann:Tupi_yuki26**\n**fabreall2009ann:Tupi_yuki27**\n**fabreall2009ann:Tupi_yuki29**\n**fabreall2009ann:Tupi_yuki30**\n**fabreall2009ann:Tupi_yuki31**\n**fabreall2009ann:Tupi_yuki32**\n**fabreall2009ann:Tupi_yuki33**\n**fabreall2009ann:Tupi_yuki34**\n**fabreall2009ann:Tupi_yuki36**\n**fabreall2009ann:Tupi_yuki37**\n**fabreall2009ann:Tupi_yuki38**\n**fabreall2009ann:Tupi_yuki39**\n**fabreall2009ann:Tupi_yuki41**\n**hh:d:Garland:Yuki**\n**hh:e:Stearman:Yuqui**\n**hh:e:Stearman:Yuqui:1989**\n**hh:g:Villafane:Yuki**\n**hh:hv:Dietrich:Siriono-Yuki**\n**hh:hv:Dietrich:Yuki**\n**hh:hv:Priest:Guarani**\n**hh:s:Villafane:Yuqui**\n**sn:Villafane2004**"
+  },
+  "altnames": {
+    "multitree": "\nBia\nYuki\nYuqui\nYuquí\nYúki",
+    "lexvo": "\nYuqui [en]",
+    "hhbib_lgcode": "\nYuki",
+    "elcat": "\nBia\nYuki\nYuqui\nYúki\nmbiá"
+  },
+  "triggers": {
+    "lgcode": "\nyukis\nbolivianas\nyuqui\nchimore\naccidents\ncommandos\nNOT siriono AND yuqui\nyuquis"
+  },
+  "identifier": {
+    "multitree": "yuq",
+    "endangeredlanguages": "633"
+  },
+  "classification": {
+    "sub": "**hh:vw:DanielsenGasparini:Jora**",
+    "subrefs": "\n**hh:vw:DanielsenGasparini:Jora**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yuki (633-yuq) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

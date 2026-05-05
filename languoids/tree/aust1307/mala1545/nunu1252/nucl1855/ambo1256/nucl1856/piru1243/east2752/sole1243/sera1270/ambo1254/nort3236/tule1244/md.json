@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tulehu",
+    "hid": "tlu",
+    "level": "language",
+    "iso639-3": "tlu",
+    "latitude": "-3.57785",
+    "longitude": "128.31",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7852006\nhttps://en.wikipedia.org/wiki/Tulehu_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Taber:Maluku**\n**hh:hv:Kotynski:Lease**\n**hh:hv:Travis:Ambon**\n**hh:hvw:Collins:CMaluku**\n**hh:ld:Musgrave:Tulehu**\n**hh:phon:Samonsir:Tulehu**\n**hh:typ:Mukhtar:Tulehu**\n**hh:typ:Musgrave:Sou-Amana-Teru**\n**hh:typ:Musgrave:Sou-Amana-Teru:2012**\n**hh:w:Ray:Notes-Malayan**"
+  },
+  "altnames": {
+    "multitree": "\nNortheast Ambon\nTulehu",
+    "lexvo": "\nTulehu [en]",
+    "hhbib_lgcode": "\nLiang\nSou Amana Teru\nTengah-tengah\nTial"
+  },
+  "triggers": {
+    "lgcode": "\namana\nteru\ntulehu"
+  },
+  "identifier": {
+    "multitree": "tlu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tulehu (tlu-tlu) = 7 (Shifting)."
+  }
+}

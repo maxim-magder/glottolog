@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Thangmi",
+    "hid": "thf",
+    "level": "language",
+    "iso639-3": "thf",
+    "latitude": "28.7554",
+    "longitude": "85.7657",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN",
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Thangmi](https://endangeredlanguages.com/lang/4838)\n[Thangmi](https://grambank.clld.org/languages/than1259)\n[Thangmi](https://wals.info/languoid/lect/wals_code_thn)\nhttps://en.wikipedia.org/wiki/Thangmi_language\nhttps://www.wikidata.org/entity/Q7710314"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:genetti:03**\n**cldf:lewis:ed:09**\n**cldf:np:04:4**\n**cldf:np:nd:264**\n**cldf:roche:suzuki:17**\n**cldf:saxena:ed:04:4**\n**cldf:shneiderman:turin:06**\n**cldf:turin:00**\n**cldf:turin:12**\n**cldf:yadava:glover:ed:99:15**\n**hh:d:Turin:Thami**\n**hh:g:Turin:Thangmi**\n**hh:g:Turin:Thangmi:2006**\n**hh:hv:Chalise:Baram-Thami**\n**hh:hvw:Grierson:3:I**\n**hh:phon:Turin:Thangmi**\n**hh:v:Turin:Thangmi**\n**hh:wsoc:Regmi:Thami**\n**mpieva:268**\n**mpieva:Turin2007Agrammar**\n**sil16:41773**"
+  },
+  "altnames": {
+    "wals": "\nThangmi",
+    "moseley & asher (1994)": "\nThami",
+    "multitree": "\nDolakha\nThami\nThangmi\nThāmī",
+    "lexvo": "\nThangmi [en]",
+    "hhbib_lgcode": "\nBabare\nChokati\nDaduwa\nLapilang\nSuspa Kshamawati\nThami",
+    "elcat": "\nDolakha\nThami\nThangmi\nThāmī"
+  },
+  "triggers": {
+    "lgcode": "\nthami\nthangmi"
+  },
+  "identifier": {
+    "wals": "thn",
+    "multitree": "thf",
+    "endangeredlanguages": "4838"
+  },
+  "classification": {
+    "sub": "**hh:v:Turin:Thangmi** **hh:hv:vanDriem:Mahakiranti** **hh:wsoc:Smith:Pahari**:28",
+    "subrefs": "\n**hh:v:Turin:Thangmi**\n**hh:wsoc:Smith:Pahari**\n**hh:hv:vanDriem:Mahakiranti**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Thangmi (4838-thf) = Threatened (100 percent certain, based on the evidence available) (\"[C]hildren and youths up to the age of twenty speak Nepali as their first language.... While as a heritage ethnic tongue, Thangmi is still widely understood, many in this age group speak the Thangmi language with a reduced phonology and with a heavy reliance on Nepali loan words.\" (p. 103)) [Turin 2012](cldf:turin:12)"
+  }
+}

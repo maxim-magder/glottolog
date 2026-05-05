@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Yanda",
+    "hid": "yda",
+    "level": "language",
+    "iso639-3": "yda",
+    "latitude": "-21.23270508",
+    "longitude": "140.5134756",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Yanda](https://endangeredlanguages.com/lang/6741)\nhttps://en.wikipedia.org/wiki/Yanda_language\nhttps://phoible.org/languages/yand1251\nhttps://www.wikidata.org/entity/Q8048318",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:12:5**\n**hh:hv:Breen:Western-Queensland**\n**hh:hvw:Barrett:Maric**\n**hh:hvw:Breen:Western-Queensland:1971**\n**hh:w:Breen:Yanda**\n**hh:w:Eglinton:Hamilton-River**\n**iso6393:2012-116**\n**ozbib:4904**\n**ozbib:784**"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sutton:Gugu-Badhun**",
+    "subrefs": "\n**hh:hv:Sutton:Gugu-Badhun**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6741"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yanda (6741-yda) = Dormant [Breen 1990](cldf:breen:90:3)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nJanda",
+    "elcat": "\nJanda\nYanda\nYunda"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Alur",
+    "hid": "alz",
+    "level": "language",
+    "iso639-3": "alz",
+    "latitude": "2.36213",
+    "longitude": "31.0016",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "UG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Alur_language\nhttps://www.wikidata.org/entity/Q56507"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4822**\n**cldf:demuenynck:08:1**\n**cldf:southall:56**\n**cldf:stirton:25**\n**hh:d:Ukokoetal:Dho-Alur**\n**hh:d:Vanneste:Alur**\n**hh:e:Southall:Alur**\n**hh:ew:Demuenyck:Mahagi**\n**hh:h:Ladefogedetal:Uganda**\n**hh:he:Butt:Nilotes**\n**hh:he:Ogot:Jii**\n**hh:hew:Liesenborghs:NEKongo**\n**hh:hld:Okonye:Luo**\n**hh:hvtyp:Storch:WNilotic**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:ld:Atido:Alur**\n**hh:phon:Ucaki:Alur**\n**hh:s:Ringe:Alur**\n**hh:soc:Ucuon:Dho-Alur**\n**hh:t:Vanneste:Alur-Legenden**\n**hh:t:Vanneste:Alur-Sprookjes**\n**hh:typ:Lokpari:Alur**\n**hh:w:Bey:Afrikanischer**\n**sil16:32445**"
+  },
+  "altnames": {
+    "multitree": "\nAloro\nAlua\nAlulu\nAlur\nDho Alur\nJo Alur\nLur\nLuri",
+    "lexvo": "\nAloureg [br]\nAlur [en]\nAlur jezik [hr]\nAlur language [en]\nLenga Alur [pms]\nLingua alur [gl]\nLíngua alur [pt]",
+    "hhbib_lgcode": "\nAlulu\nAluur\nDhu-Alur\nLur"
+  },
+  "triggers": {
+    "lgcode": "\nmahagi\nune AND luri\nalur"
+  },
+  "identifier": {
+    "multitree": "alur;alz"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Heusing:Lwoo**",
+    "subrefs": "\n**hh:hvw:Heusing:Lwoo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Alur (alz-alz) = 5* (Developing)."
+  }
+}

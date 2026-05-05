@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Berinomo",
+    "hid": "bit",
+    "level": "language",
+    "iso639-3": "bit",
+    "latitude": "-4.41689",
+    "longitude": "142.463",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Berinomo](https://endangeredlanguages.com/lang/10621)\n[Berinomo](https://lexibank.clld.org/languages/transnewguineaorg-berinomo)\nhttps://en.wikipedia.org/wiki/Berinomo_language\nhttps://www.wikidata.org/entity/Q56447"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Dyeetal:Sepik-Hill** **hh:hvld:Bruce:Middle-Sepik**:472-519",
+    "subrefs": "\n**hh:hvw:Dyeetal:Sepik-Hill**\n**hh:hvld:Bruce:Middle-Sepik**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:ld:Roberson:Color-Categories**\n**hh:soc:DyeDye:Wagu**\n**hh:w:Laycock:D1**"
+  },
+  "altnames": {
+    "multitree": "\nApowasi\nBerinomo\nBitara",
+    "lexvo": "\nBerinomo [en]",
+    "hhbib_lgcode": "\nBerinmo\nBitara\nBitara (Eastern and Western)\nBitara by Townsend-Dye (Bitara-Sepik Hill Family)\nKagiru\nLower April by Kooyers (Kakiru-Sepik Hill family)",
+    "elcat": "\nApowasi\nBerinomo\nBitara\nPerbi"
+  },
+  "triggers": {
+    "lgcode": "\nreplications"
+  },
+  "identifier": {
+    "multitree": "bit",
+    "endangeredlanguages": "10621"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Berinomo (10621-bit) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

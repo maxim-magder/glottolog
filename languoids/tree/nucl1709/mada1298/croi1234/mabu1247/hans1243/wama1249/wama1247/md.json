@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Wamas",
+    "hid": "wmc",
+    "level": "language",
+    "iso639-3": "wmc",
+    "latitude": "-4.97757",
+    "longitude": "145.541",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Wamas](https://endangeredlanguages.com/lang/3335)\n[Wamas](https://lexibank.clld.org/languages/transnewguineaorg-wamas)\n[wamas](https://lexibank.clld.org/languages/zgraggenmadang-wamas)\nhttps://en.wikipedia.org/wiki/Wamas_language\nhttps://www.wikidata.org/entity/Q7966909"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "altnames": {
+    "multitree": "\nWamas",
+    "lexvo": "\nWamas [en]",
+    "elcat": "\nWamas"
+  },
+  "triggers": {
+    "lgcode": "\nmabuso"
+  },
+  "identifier": {
+    "multitree": "wmc",
+    "endangeredlanguages": "3335"
+  },
+  "classification": {
+    "sub": "**hh:hw:Zgraggen:Mabuso**",
+    "subrefs": "\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wamas (3335-wmc) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

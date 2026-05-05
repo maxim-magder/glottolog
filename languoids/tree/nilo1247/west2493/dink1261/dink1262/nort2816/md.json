@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Northwestern Dinka",
+    "hid": "diw",
+    "level": "language",
+    "iso639-3": "diw",
+    "latitude": "9.81484",
+    "longitude": "29.2998",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36249"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Ethnologue:17**\n**hh:hwdial:RoettgerRoettger:Dinka**\n**hh:w:Blench:Dinka**\n**mpieva:Mitterutzer1993DieDinka**\n**mpieva:Nebel2005DinkaEng**\n**sil16:44806**"
+  },
+  "altnames": {
+    "multitree": "\nDinka\nDinka, Northwestern\nNord-Dinka\nNorthwestern Dinka\nRuweng",
+    "lexvo": "\nNorthwestern Dinka [en]",
+    "hhbib_lgcode": "\nDinka-Northwestern\nNgok-Kordofan\nRuwen\nRuweng-Alor\nRuweng-Pan-Aru"
+  },
+  "triggers": {
+    "lgcode": "\nmalual"
+  },
+  "identifier": {
+    "multitree": "diw"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dinka, Northwestern (diw-diw) = 6a (Vigorous)."
+  }
+}

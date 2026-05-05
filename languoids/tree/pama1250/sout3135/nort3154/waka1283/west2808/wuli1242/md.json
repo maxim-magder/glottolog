@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wuliwuli",
+    "hid": "wlu",
+    "level": "language",
+    "iso639-3": "wlu",
+    "latitude": "-24.415",
+    "longitude": "149.843",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Wuli Wuli](https://collection.aiatsis.gov.au/austlang/language/e89)\nhttps://en.wikipedia.org/wiki/Wulli_Wulli_language\nhttps://phoible.org/languages/wuli1242\nhttps://www.wikidata.org/entity/Q8039208",
+    "timespan": "1986-01-01/1986-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvwphon:Holmer:South-Eastern-Queensland**"
+  },
+  "altnames": {
+    "multitree": "\nWilili\nWililililee\nWillillee\nWuli-wuli\nWulili\nWuliwuli",
+    "lexvo": "\nWuliwuli [en]",
+    "hhbib_lgcode": "\nWuli-Wuli",
+    "aiatsis": "\nWilili\nWililililee\nWillillee\nWuli Wuli\nWuli wuli\nWulili\nWulilli\nWuliwuli\nWulli Wulli"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND queensland"
+  },
+  "identifier": {
+    "multitree": "wlu"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Holmer:South-Eastern-Queensland**",
+    "subrefs": "\n**hh:hvwphon:Holmer:South-Eastern-Queensland**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wuliwuli (wlu-wlu) = 10 (Extinct)."
+  }
+}

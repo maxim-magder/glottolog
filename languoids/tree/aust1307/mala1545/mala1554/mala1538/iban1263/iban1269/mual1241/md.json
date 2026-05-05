@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mualang",
+    "hid": "mtd",
+    "level": "language",
+    "iso639-3": "mtd",
+    "latitude": "0.31083",
+    "longitude": "111.077",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mualang](https://grambank.clld.org/languages/mual1241)\nhttps://en.wikipedia.org/wiki/Mualang_language\nhttps://www.wikidata.org/entity/Q3073458"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1860**\n**hh:g:Tjia:Mualang**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:htyp:Rahim:Iban-Kantuk-Mualang**\n**hh:htyp:Rahim:Iban-Kantuk-Mualang:1997**\n**hh:hv:Shin:Ibanik**\n**hh:hvld:Collins:Ibanic**\n**hh:hvld:Shin:Ibanic**\n**hh:hvw:Smith:Borneo**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nMualang",
+    "lexvo": "\nMualang [en]",
+    "hhbib_lgcode": "\nEmpaung\nKetungau Sesat\nMualang Menawai Tekam\nNgelai\nSejirak\nSelabi\nTerablian Mangkang\nTinting Boyok"
+  },
+  "triggers": {
+    "lgcode": "\nmualang\nibanic"
+  },
+  "identifier": {
+    "multitree": "mtd"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Collins:Ibanic** **hh:hvw:Smith:Borneo**:183-200 **hh:hv:SmithRama:Borneo**",
+    "subrefs": "\n**hh:hvld:Collins:Ibanic**\n**hh:hvw:Smith:Borneo**\n**hh:hv:SmithRama:Borneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mualang (mtd-mtd) = 5* (Developing)."
+  }
+}

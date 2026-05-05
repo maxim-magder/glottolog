@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southern Nisu",
+    "hid": "nsd",
+    "level": "language",
+    "iso639-3": "nsd",
+    "latitude": "23.058",
+    "longitude": "101.412",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[S Nisu](https://lexibank.clld.org/languages/yangyi-SNisu)\n[Yi (Mojiang)](https://lexibank.clld.org/languages/suntb-MojiangYi)\nhttps://www.wikidata.org/entity/Q63284284"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Hattaway:China**\n**hh:hld:ShearerHongkai:China**\n**hh:hphon:Wang:Yi**\n**hh:hv:Yang:Nisu**\n**hh:hvsoc:Pelkey:Phula**\n**hh:hvw:Chenetal:Yi**\n**hh:hvw:Lama:Nisoic**\n**hh:hw:Luchun:Luchun**\n**hh:ld:Lu:Tianfang-Yi**\n**hh:soc:Chanetal:Nisu**\n**iso6393:2007-086**\n**sil16:50108**"
+  },
+  "altnames": {
+    "multitree": "\nNisu\nNisu, Southern\nNisu,Southern\nYuan-Mo Yi",
+    "lexvo": "\nSouthern Nisu [en]",
+    "hhbib_lgcode": "\nAchang of Niukong\nGJ BH N? Gejiu Baohe Hetao-Nike\nHH BH S Honghe Baohe Zuoluo\nJP JH S Jinping Jinhezhen Baoshan\nJS PT S? Jianshui Potou Yuchu\nMojiang Yi 1\nMojiang Yi 2\nNesu\nNiesu\nNisu\nNisu of Tianfang\nNisu-Southern\nNisu-Yuanyang\nPulian of Qimaba-Daxing-Gekui\nSP NJ S Shiping Niujie Feilongkan\nSouthwestern Nisu\nTianfang Yi\nYJ LT S Yuanjiang Longtan Kongdan\nYJ LT S Yuanjiang Longtan Kongdan (Longtan)\nYY SC S Yuanyang Shengcun Duoyishu\nYY SLT S Yuanyang Shalatuo Fuzhai\nYi-S-Yuanyang\nYuanyang Nisu"
+  },
+  "triggers": {
+    "lgcode": "\nuse AND nisu"
+  },
+  "identifier": {
+    "multitree": "nsd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Yang:Nisu**",
+    "subrefs": "\n**hh:hv:Yang:Nisu**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nisu, Southern (nsd-nsd) = 8a (Moribund). Language of recognized nationality: Yi."
+  }
+}

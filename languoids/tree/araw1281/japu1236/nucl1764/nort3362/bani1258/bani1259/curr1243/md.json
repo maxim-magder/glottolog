@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Curripaco",
+    "hid": "kpc",
+    "level": "language",
+    "iso639-3": "kpc",
+    "latitude": "0.69618",
+    "longitude": "-67.5028",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "CO",
+      "VE"
+    ],
+    "links": "\n[Curripaco](https://endangeredlanguages.com/lang/2466)\n[Curripaco](https://grambank.clld.org/languages/curr1243)\n[Curripaco](https://lexibank.clld.org/languages/hubercolumbian-Curripaco)\n[Curripaco](https://wals.info/languoid/lect/wals_code_cur)\n[curripaco](https://lexibank.clld.org/languages/chaconcolumbian-Curripaco)\nhttps://en.wikipedia.org/wiki/Curripaco_language\nhttps://phoible.org/languages/curr1243\nhttps://www.wikidata.org/entity/Q2882543"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3518**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:huber:reed:92:1**\n**cldf:journet:93**\n**cldf:lewis:ed:09**\n**cldf:mosonyi:00:1**\n**cldf:np:nd:264**\n**cldf:ortiz:98**\n**cldf:wilbert:63**\n**hh:d:Bedoya:Kurripako**\n**hh:e:Hill:Kurrim**\n**hh:e:Hill:Wakuenai**\n**hh:he:Wilbert:Orinoco-Ventuari**\n**hh:he:Wilbert:Venezuela**\n**hh:hv:Goncalves:Baniwa-Koripako**\n**hh:hvtyp:Constenla:Intermedia**\n**hh:hvw:HuberReed:Colombia**\n**hh:hvw:Ramirez:Arawak**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:hw:Nimuendaju:Brasil**\n**hh:phon:Valadares:Kurripako**\n**hh:phon:deSouza:Kuripako**\n**hh:s:Bezerra:Koripako**\n**hh:s:Granadillo:Kurripako**\n**hh:s:Mosonyi:Curripaco-Piapoco**\n**hh:s:Ortiz:Kurripako**\n**hh:typ:DanielsenGranadillo:Baure-Kurripako**\n**hh:typ:Goncalves:Baniwa-Koripako**\n**hh:w:Cordona:Karro**\n**hh:w:Koch-Grunberg:Piapoko-Adzaneni-Mandauaka**\n**hh:w:Loukotka:Inedits**\n**hh:w:Loukotka:Poco**\n**hh:w:Wilbert:Curipaco**\n**hh:w:deCivrieuxLichy:Guainia**\n**iso6393:2007-004**\n**langsci:ramirez:01**"
+  },
+  "altnames": {
+    "wals": "\nCurripaco",
+    "moseley & asher (1994)": "\nCurripaco",
+    "multitree": "\n\"curripaco (Colombia\n\"kurripako (Colombie\nCuripaco\nCurripaco\nCurripako\nIpeka-Kurripako\nKoripako\nKorispaso\nKuripaco\nKurripaco\nKurripako (Brésil)\nPacu\nPaiorience\nPayualiene\nRépublique bolivarienne du Venezuela)\"\nVenezuela)\"",
+    "lexvo": "\nCurripaco [en]",
+    "hhbib_lgcode": "\nAdyánen (Adyána)\nAdzaneni\nAdzáneni\nAdzáneni (2 words)\nBaniwa-Curripaco\nCuripaco\nKapité-Mnanei\nKoripako\nKoripako (S)\nKumadá-Mnanai\nKuripako\nKurripaco\nKurripako\nKárro (Arawakan)\nKúrrim (Curripaco)\nPayualiene",
+    "elcat": "\nCuripaco\nCurripaco\nIpeka-Kurripako\nKoripako\nKorispaso\nKuripaco\nKurripako\nPacu\nPaiorience\nPayualiene"
+  },
+  "triggers": {
+    "lgcode": "\nkurripako\nkumandene\nwakuenai\nkuripako\nguainia\nayaneni\nkumandaminanai\ncuripaco"
+  },
+  "identifier": {
+    "wals": "cur",
+    "multitree": "kpc",
+    "endangeredlanguages": "2466"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ramirez:Arawak**:I:37-229 **hh:hv:Aikhenvald:North-Arawak**",
+    "subrefs": "\n**hh:hv:Aikhenvald:North-Arawak**\n**hh:hvw:Ramirez:Arawak**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Curripaco (2466-kpc) = Vulnerable (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

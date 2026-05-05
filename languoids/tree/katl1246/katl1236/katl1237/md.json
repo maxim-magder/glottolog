@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Katla",
+    "hid": "kcr",
+    "level": "language",
+    "iso639-3": "kcr",
+    "latitude": "11.80325",
+    "longitude": "29.28254",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Katla](https://endangeredlanguages.com/lang/4355)\nhttps://www.wikidata.org/entity/Q35688\nhttps://en.wikipedia.org/wiki/Katla_language\n[Katla](https://wals.info/languoid/lect/wals_code_ktl)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bell:79**\n**cldf:ed:10**\n**cldf:heinitz:17**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:12950**\n**hh:hld:Heinitz:Sudan**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:s:Meinhof:Katla**\n**hh:typ:Hellwig:Katla**"
+  },
+  "altnames": {
+    "wals": "\nKatla",
+    "wals other": "\nAkalak",
+    "moseley & asher (1994)": "\nKatla",
+    "multitree": "\nAkalak\nCatla\nKalak\nKatla",
+    "lexvo": "\nKatla [en]",
+    "hhbib_lgcode": "\nCakom\nKatla ie Katla\nKatla-Tima: Katla\nWest Katla",
+    "elcat": "\nAkalak\nKalak\nKatla"
+  },
+  "triggers": {
+    "lgcode": "\ninterethnischen\nphotographische\nkatla"
+  },
+  "identifier": {
+    "wals": "ktl",
+    "multitree": "katl;kcr",
+    "endangeredlanguages": "4355"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Stevenson:Nuba**",
+    "subrefs": "\n**hh:hvs:Stevenson:Nuba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Katla (4355-kcr) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kagoma",
+    "hid": "kdm",
+    "level": "language",
+    "iso639-3": "kdm",
+    "latitude": "9.22607",
+    "longitude": "8.18694",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Gyong_language\n[Kagoma](https://wals.info/languoid/lect/wals_code_kgm)\nhttps://www.wikidata.org/entity/Q3914420"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:57046**\n**eballiso2009:9012**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Ames:Plateau**\n**hh:he:Gunn:Pagan-Central**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvld:Gerhardt:Plateaus:1983**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Adwiraah-Hagen:Gworok-Gyong**\n**hh:s:Hagen:Gong**\n**hh:s:Hagen:Kagoma**\n**hh:typ:Ibrahim:Gyong**\n**hh:v:deWolf:Kagoma**"
+  },
+  "altnames": {
+    "wals": "\nKagoma",
+    "ruhlen (1987)": "\nKagoma (Gyong)",
+    "moseley & asher (1994)": "\nKagoma",
+    "multitree": "\nAgoma\nGwong\nGyong\nKagoma\nKwong",
+    "lexvo": "\nKagoma [en]",
+    "hhbib_lgcode": "\nGyong\nKatab-Kagoma"
+  },
+  "triggers": {
+    "lgcode": "\nkagoma"
+  },
+  "identifier": {
+    "wals": "kgm",
+    "multitree": "kdm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:19-22",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gyong (kdm-kdm) = 6b (Threatened)."
+  }
+}

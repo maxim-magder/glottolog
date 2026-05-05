@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Emberá-Catío",
+    "hid": "cto",
+    "level": "language",
+    "iso639-3": "cto",
+    "latitude": "7.52721",
+    "longitude": "-76.7476",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO",
+      "PA"
+    ],
+    "links": "\n[Catio](https://wals.info/languoid/lect/wals_code_cat)\n[Catío](https://lexibank.clld.org/languages/hubercolumbian-Catio)\n[Emberá-Catío](https://endangeredlanguages.com/lang/2665)\n[Emberá-Catío](https://grambank.clld.org/languages/embe1260)\n[catío](https://lexibank.clld.org/languages/chaconcolumbian-Catio)\nhttps://en.wikipedia.org/wiki/Catio_language\nhttps://phoible.org/languages/embe1260\nhttps://www.wikidata.org/entity/Q3052039"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3590**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:desanctisimosacramento:36**\n**cldf:huber:reed:92:1**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**fabreall2009ann:3958**\n**fabreall2009ann:Choco18**\n**fabreall2009ann:Choco_zenu0**\n**fabreall2009ann:Choco_zenu1**\n**fabreall2009ann:Choco_zenu2**\n**fabreall2009ann:Choco_zenu3**\n**fabreall2009ann:Choco_zenu5**\n**fabreall2009ann:Choco_zenu6**\n**fabreall2009ann:Choco_zenu7**\n**fabreall2009ann:Choco_zenu8**\n**hh:e:Reichel-Dolmatoff:Sinu**\n**hh:esd:Garcia:Katios**\n**hh:hvw:HuberReed:Colombia**\n**hh:hvw:Rivet:Choco**\n**hh:phon:Greenfield:Embera-Katio**\n**hh:phon:Mortensen:Embera-Katio**\n**hh:s:Atienza:Katio**\n**hh:s:Carlson:Embera-Katio**\n**hh:s:Rex:Catio**\n**hh:s:Sacramento:Katio**\n**hh:sd:Anonimo:Catio**\n**hh:w:Ernst:Tucura**\n**hh:w:deWavrinAguirre:Catio**\n**mpieva:Atienza2002Elidioma**\n**sil16:10012**\n**sil16:12178**\n**sil16:13143**\n**sil16:15212**\n**sil16:16497**\n**sil16:16498**\n**sil16:16499**\n**sil16:16501**\n**sil16:16505**\n**sil16:40680**\n**sil16:50093**\n**sil16:50094**"
+  },
+  "altnames": {
+    "glottolog": "\nEmbera-Catio",
+    "wals": "\nCatio",
+    "wals other": "\nEmbera-Catio",
+    "multitree": "\nAtrato\nCatio\nCatío\nChoco\nCholo\nDabeiba\nDariena\nDarién\nEberã\nEberã Bed’ea\nEmbena\nEmber-Cato\nEmbera (Colombie)\nEmbera (Panama)\nEmbera (Panamá)\nEmberá-Catío\nEmperã\nEpera)\nEperã Pedea\nEyabida (Alternate names in Panama:  Catío\nKatio\nNorthern Emberá\nPanama Embera",
+    "lexvo": "\nCatio-Embera language [en]\nEmberá catío [fr]\nEmberá-Catío [en]",
+    "hhbib_lgcode": "\nEmbera Catio\nEmbera of the Upper Sinu\nKatio\nKatio-Embera-Norte\nTucura",
+    "elcat": "\nAtrato\nCatio\nCatío\nChoco\nCholo\nDabeiba\nDariena\nDarién\nEberã\nEberã Bed'ea\nEmbena\nEmber-Cato\nEmberá-Catío\nEmperã\nEpera)\nEperã Pedea\nEyabida (Alternate names in Panama:  Catío\nKatio\nPanama Embera"
+  },
+  "triggers": {
+    "lgcode": "\nescenas\nzenu\nkatio\nzenus\nturbay\nsinues\npurru\ncatio\nkatios\ntucura\nodaipe"
+  },
+  "identifier": {
+    "wals": "cat",
+    "multitree": "cto",
+    "endangeredlanguages": "2665"
+  },
+  "classification": {
+    "sub": "**hh:hv:AguirreLicht:Choco**",
+    "subrefs": "\n**hh:hv:AguirreLicht:Choco**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Emberá-Catío (2665-cto) = Vulnerable (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

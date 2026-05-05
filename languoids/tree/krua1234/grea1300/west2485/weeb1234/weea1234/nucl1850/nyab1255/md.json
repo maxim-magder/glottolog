@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nyabwa",
+    "hid": "nwb",
+    "level": "language",
+    "iso639-3": "nwb",
+    "latitude": "6.87615",
+    "longitude": "-6.84428",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33664\nhttps://en.wikipedia.org/wiki/Nyabwa_language\nhttps://phoible.org/languages/nyab1255"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:23534**\n**eballiso2009:7110**\n**eballiso2009:7112**\n**eballiso2009:7115**\n**hh:g:Allou:Kouzie**\n**hh:g:Allou:Kouzie:2019**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:hvs:Marchese:Kru**\n**hh:hvw:Duitsman:Guere**\n**hh:phon:Bentick:Niaboua**\n**hh:phon:Bentinck:Niaboua**\n**hh:w:Marchese:Kru-Lexemes**\n**sil16:10256**\n**sil16:15374**\n**sil16:15375**\n**sil16:17353**\n**sil16:19426**\n**sil16:19427**\n**sil16:19428**\n**sil16:19429**\n**sil16:19430**\n**sil16:19431**\n**sil16:22299**\n**sil16:22300**\n**sil16:22301**\n**sil16:22615**\n**sil16:22748**\n**sil16:22760**\n**sil16:23569**\n**sil16:24229**\n**sil16:24230**\n**sil16:24231**\n**sil16:36344**\n**sil16:39977**"
+  },
+  "altnames": {
+    "multitree": "\nNiaboua\nNyaboa\nNyabwa\nNyabwa-Nyédébwa",
+    "lexvo": "\nNyabwa [en]",
+    "hhbib_lgcode": "\nKouzie\nNiaboua\nNiaboua of Guéssabo in Zoukougbeu Sous-Prefecture\nNyedibwa"
+  },
+  "triggers": {
+    "lgcode": "\ndebo\nbny\ndetroya\nzr\nnyaboua\nnyaboa\nbassaraguhe\nniaboua"
+  },
+  "identifier": {
+    "multitree": "nwb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Duitsman:Guere** **hh:hv:Ingemann:Kruan** **hh:e:Lauer:Doo**",
+    "subrefs": "\n**hh:e:Lauer:Doo**\n**hh:hv:Ingemann:Kruan**\n**hh:hvw:Duitsman:Guere**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nyabwa (nwb-nwb) = 5* (Developing)."
+  }
+}

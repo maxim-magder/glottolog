@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kapin",
+    "hid": "tbx",
+    "level": "language",
+    "iso639-3": "tbx",
+    "latitude": "-7.05732",
+    "longitude": "146.529",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6366665\nhttps://en.wikipedia.org/wiki/Kapin_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Smith:Morobe**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hwdial:AdamsLauck:Mumeng**\n**hh:typ:Leaders:Middle-Watut**\n**hh:typ:Leaders:Middle-Watut:Realis**\n**hh:v:SankoffSankoff:Wave-Stammbaum**\n**hh:w:Fischer:WampetMumengLabu**"
+  },
+  "altnames": {
+    "multitree": "\nKapin\nKatumene\nSambio\nTaiak\nTayek",
+    "lexvo": "\nKapin [en]",
+    "hhbib_lgcode": "\nKaping\nMumeng of Sambio\nSambio"
+  },
+  "triggers": {
+    "lgcode": "\nmumeng\npapua AND watut"
+  },
+  "identifier": {
+    "multitree": "tbx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:132-159",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kapin (tbx-tbx) = 6b (Threatened)."
+  }
+}

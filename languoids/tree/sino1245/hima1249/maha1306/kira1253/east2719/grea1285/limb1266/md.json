@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Limbu",
+    "hid": "lif",
+    "level": "language",
+    "iso639-3": "lif",
+    "latitude": "27.2703",
+    "longitude": "87.8859",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Kiranti_Limbu](https://lexibank.clld.org/languages/sagartst-Limbu)\n[Limbu](https://endangeredlanguages.com/lang/1621)\n[Limbu](https://grambank.clld.org/languages/limb1266)\n[Limbu](https://wals.info/languoid/lect/wals_code_lim)\nhttps://en.wikipedia.org/wiki/Limbu_language\nhttps://www.wikidata.org/entity/Q56477"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:driem:93**\n**cldf:ed:10**\n**cldf:grierson:ed:95:11**\n**cldf:hildebrandt:04:4**\n**cldf:hildebrandt:07:2**\n**cldf:hildebrandt:66:2**\n**cldf:hildebrandt:nd**\n**cldf:michailovsky:00:1**\n**cldf:michailovsky:00:2**\n**cldf:michailovsky:02:2**\n**cldf:michailovsky:96:2**\n**cldf:michailovsky:99**\n**cldf:noonan:03:3**\n**cldf:np:12:8**\n**cldf:np:nd:264**\n**cldf:sprigg:85**\n**cldf:vandriem:99**\n**cldf:webster:01**\n**cldf:yadava:glover:ed:99:10**\n**hh:d:Chemjong:Limbu**\n**hh:d:Michailovsky:Limbu**\n**hh:e:Fitzpatrick:Limbu**\n**hh:ew:Campbell:Limboos**\n**hh:g:Tumbahang:Chhatthare-Limbu**\n**hh:g:Tumbahang:Chhatthare-Limbu:2017**\n**hh:g:Tumbahang:Limbu**\n**hh:g:WeidertSubba:Limbu**\n**hh:g:vanDriem:Limbu**\n**hh:g:vanDriem:Limbu:2024**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Beames:Indian**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Latham:Comparative**\n**hh:s:Nishi:Limbu**\n**hh:s:Perumalsamy:Limbu**\n**hh:s:Tumbahang:Limbu-Mundhum**\n**hh:w:Campbell:India**\n**hh:wsoc:Gautam:Limbu**\n**mpieva:268**\n**mpieva:Senior1977Avocabul**\n**sil16:41773**\n**sil16:41779**\n**sil16:42071**\n**sil16:44122**\n**sil16:44123**\n**sil16:44124**\n**sil16:49654**"
+  },
+  "altnames": {
+    "wals": "\nLimbu",
+    "ruhlen (1987)": "\nLimbu",
+    "moseley & asher (1994)": "\nLimbu",
+    "multitree": "\nChang\nLimbo\nLimbu\nLumbu\nMonpa\nSubah\nSuffah. Yakthūngbā\nTsong\nYakthung Pan",
+    "lexvo": "\nIdioma limbu [es]\nJęzyk limbu [pl]\nLimboueg [br]\nLimbu [de]\nLimbu language [en]\nLingua Limbu [la]\nYakthungish [gv]\nЛимбу [ru]\nЛімбу [uk]\nलिंबू भाषा [hi]\nภาษาลิมบู [th]\n林布语 [zh]",
+    "hhbib_lgcode": "\nArubote\nChhatthare Limbu\nChokmagu\nIlam\nLimboo\nMundhum religious scripture Limbu\nPhedap\nPhedappe\nSankranti\nTaplejung",
+    "elcat": "\nChang\nLimbo\nLimbu\nLumbu\nMonpa\nSubah\nSuffah. Yakthūngbā\nTsong\nYakthung Pan"
+  },
+  "triggers": {
+    "lgcode": "\nlimbu\nebert"
+  },
+  "identifier": {
+    "wals": "lim",
+    "multitree": "lif",
+    "endangeredlanguages": "1621"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:68-69",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Limbu (1621-lif) = Threatened (60 percent certain, based on the evidence available) (\"It is sometimes claimed that language retention is as high as 80 percent, but these figures belie the dire situation of [Limbu]... Under the currently prevailing sociolinguistic conditions Limbu is likely to be completely extinct by the end of this century unless measures are taken to revitalize the language through the primary school system.\" (pg. 305)) [Driem 2007](cldf:driem:07)"
+  }
+}

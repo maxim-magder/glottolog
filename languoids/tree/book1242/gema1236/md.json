@@ -1,0 +1,21 @@
+{
+  "core": {
+    "name": "Geman Deng",
+    "level": "language",
+    "iso639-3": "gen",
+    "hid": "gen"
+  },
+  "iso_retirement": {
+    "comment": "It was discovered that the Ethnologue entries for India_Miju Mishmi_mxj and\nChina_Geman Deng_gen are referring to the same language. Gaman Deng is an\nalternate name for mxj. Kuman is an alternate name for Geman Deng and Kaman is\nan alternate name for Miju Mishmi. The locations for each language are just\nacross the India/China border from each other. they are both classified in the\nNorth Assam branch of the Sino-Tibetan language tree. It is proposed that the\nname Geman Deng be retained for China (and Myanmar) but assume the same language\ncode as Miju Mishmi, with India being the HUB country for the language.",
+    "code": "gen",
+    "name": "Geman Deng",
+    "effective": "2008-01-14",
+    "reason": "duplicate",
+    "remedy": "Merge into Miju-Mishmi [mxj] as duplicate",
+    "change_request": "2007-020",
+    "change_to": "\nmxj"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-020**"
+  }
+}

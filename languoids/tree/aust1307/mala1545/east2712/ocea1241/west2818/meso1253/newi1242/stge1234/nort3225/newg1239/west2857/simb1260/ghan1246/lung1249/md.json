@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Lungga",
+    "hid": "lga",
+    "level": "language",
+    "iso639-3": "lga",
+    "latitude": "-8.17469",
+    "longitude": "156.573",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Luqa](https://lexibank.clld.org/languages/abvdoceanic-Luqa)\nhttps://en.wikipedia.org/wiki/Lungga_language\nhttps://www.wikidata.org/entity/Q3267590"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:TryonHackman:Solomon**\n**sil16:43346**"
+  },
+  "altnames": {
+    "multitree": "\nLuga\nLungga\nLuqa",
+    "lexvo": "\nLungga [en]\nLungga language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nstudy AND positive"
+  },
+  "identifier": {
+    "multitree": "lga"
+  },
+  "classification": {
+    "sub": "**hh:hv:DunnRoss:Kazukuru**:216",
+    "subrefs": "\n**hh:hv:DunnRoss:Kazukuru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lungga (lga-lga) = 5 (Developing)."
+  }
+}

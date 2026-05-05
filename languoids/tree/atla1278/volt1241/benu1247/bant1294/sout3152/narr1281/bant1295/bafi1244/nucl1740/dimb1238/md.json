@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dimbong",
+    "hid": "dii",
+    "level": "language",
+    "iso639-3": "dii",
+    "latitude": "4.80551",
+    "longitude": "10.9888",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Dimbong](https://endangeredlanguages.com/lang/2207)\n[Dimbong](https://lexibank.clld.org/languages/polyglottaafricana-Dimbong)\nhttps://en.wikipedia.org/wiki/Kaalong_language\nhttps://www.wikidata.org/entity/Q35196"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:boone:92:2**\n**cldf:dimmendaal:voeltz:07**\n**cldf:djemmo:07**\n**cldf:ed:10**\n**cldf:fofou:06**\n**cldf:guthrie:71:3**\n**cldf:hyman:03:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:24818**\n**eballiso2009:28707**\n**eballiso2009:9289**\n**hh:e:Wilhelm:Mbam-Central**\n**hh:h:Guthrie:Polyglotta**\n**hh:hb:Bikoi:Cameroun**\n**hh:hel:Sommer:Survey**\n**hh:hv:DieuRenaud:Cameroun**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Mbognou:Dembong**\n**hh:typ:Tueche:Dambong**"
+  },
+  "altnames": {
+    "multitree": "\nBape\nBumbong\nDimbong\nDimbongo\nKaalong\nKalong\nLakaalong\nLambong\nMbong\nPalong",
+    "lexvo": "\nDimbong [en]",
+    "hhbib_lgcode": "\nBapé\nDambong\nDəmboŋ\nKaalong\nKalong\nMbong\nMfut",
+    "elcat": "\nBape\nBumbong\nDimbong\nKaalong\nKalong\nLakaalong\nLambong\nMbong\nPalong"
+  },
+  "triggers": {
+    "lgcode": "\nkalong\ndimbong"
+  },
+  "identifier": {
+    "multitree": "dii",
+    "endangeredlanguages": "2207"
+  },
+  "classification": {
+    "sub": "**hh:hvw:GuarismaPaulian:Bantous**",
+    "subrefs": "\n**hh:hvw:GuarismaPaulian:Bantous**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dimbong (2207-dii) = Threatened (60 percent certain, based on the evidence available) (Children use Dimbong in play, and it is said that the young people do speak the language correctly. In the group interview at Dii, it was reported that even children born outside the area to parents from Dii could speak the mother tongue.) [Boone 1992](cldf:boone:92:2)"
+  }
+}

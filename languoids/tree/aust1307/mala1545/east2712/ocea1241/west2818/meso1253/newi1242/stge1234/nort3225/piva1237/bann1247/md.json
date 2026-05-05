@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bannoni",
+    "hid": "bcm",
+    "level": "language",
+    "iso639-3": "bcm",
+    "latitude": "-6.23061",
+    "longitude": "155.128",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bannoni](https://grambank.clld.org/languages/bann1247)\n[Banoni](https://lexibank.clld.org/languages/abvdoceanic-Banoni)\n[Banoni](https://lexibank.clld.org/languages/blustaustronesian-banoni)\n[Banoni](https://wals.info/languoid/lect/wals_code_bnn)\nhttps://en.wikipedia.org/wiki/Bannoni_language\nhttps://www.wikidata.org/entity/Q2882857"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lynch:ross:etal:ed:02:6**\n**hh:g:Lincoln:Banoni**\n**hh:hv:Lincoln:Banoni**\n**hh:hv:Lincoln:Banoni-Piva**\n**hh:hv:Ross:WMelanesia**\n**hh:s:LynchRoss:Banoni**\n**hh:w:Grace:47**\n**sil16:11428**"
+  },
+  "altnames": {
+    "wals": "\nBanoni",
+    "ruhlen (1987)": "\nBanoni",
+    "moseley & asher (1994)": "\nBanoni",
+    "multitree": "\nBannoni\nBanoni\nTsunari",
+    "lexvo": "\nBannoni [en]",
+    "hhbib_lgcode": "\nBanoni"
+  },
+  "triggers": {
+    "lgcode": "\ncount\nbanoni"
+  },
+  "identifier": {
+    "wals": "bnn",
+    "multitree": "bcm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:NWSolomonic**",
+    "subrefs": "\n**hh:hv:Ross:NWSolomonic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bannoni (bcm-bcm) = 6a* (Vigorous)."
+  }
+}

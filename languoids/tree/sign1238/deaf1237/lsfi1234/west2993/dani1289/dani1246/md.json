@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Danish Sign Language",
+    "hid": "dsl",
+    "level": "language",
+    "iso639-3": "dsl",
+    "latitude": "55.8257",
+    "longitude": "12.3187",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DK",
+      "FO",
+      "GL"
+    ],
+    "links": "\n[Danish Sign Language](https://endangeredlanguages.com/lang/7353)\nhttps://www.wikidata.org/entity/Q2605298\nhttps://en.wikipedia.org/wiki/Danish_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:d:DDL:Dansk-Tegn**\n**hh:h:BergmanEngberg:Sign-Nordic**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**\n**hh:hv:Woll:Comparative-Sign**\n**hh:s:Engberg-Pedersen:Tegnsprog**\n**hh:s:Engberg-Pedersen:Tegnsprogs:1991**\n**hh:s:Jorgensen:Tegnsproget**\n**hh:s:McGregor:Danish-Sign**\n**hh:typ:Albertsen:Danish-Sign**\n**hh:typ:Engberg-Pedersen:Danish-Sign**\n**hh:typ:Hansen:Danish-Sign**"
+  },
+  "altnames": {
+    "lexvo": "\nDanish Sign Language [en]",
+    "hhbib_lgcode": "\nDanish Sign Language (including Faroese and Greenlandic)\nDansk-tegn\nDøves Tegnsprog\nGreenlandic Sign Language\nTegnsproget",
+    "elcat": "\nDanish Sign Language"
+  },
+  "triggers": {
+    "lgcode": "\ntegnsprog\ntegnsprogs\ndoves"
+  },
+  "identifier": {
+    "endangeredlanguages": "7353"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Danish Sign Language (7353-dsl) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "Danish Sign Language [dani1246], Icelandic Sign Language [icel1236] and Norwegian Sign Language [norw1255] are lexically and historically related (**hh:h:Thorvaldsdottir:Sign-Scandinavia**, **hh:h:Schroder:Norwegian-Sign**). Historical and some meagre lexical evidence suggests that Madagascar Sign Language [mada1271] derives from a Norwegian Sign Language introduced in the 1960s (**hh:vld:Minoura:Norwegian-Malagasy-Sign**). The Danish-Icelandic subgroup can be established on lexical comparison (63%, **hh:hv:AlderssonMcEntee:Icelandic-Danish**) and historical evidence (**hh:h:Thorvaldsdottir:Sign-Scandinavia**):812.",
+    "subrefs": "\n**hh:hv:AlderssonMcEntee:Icelandic-Danish**\n**hh:h:Schroder:Norwegian-Sign**\n**hh:vld:Minoura:Norwegian-Malagasy-Sign**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**"
+  }
+}

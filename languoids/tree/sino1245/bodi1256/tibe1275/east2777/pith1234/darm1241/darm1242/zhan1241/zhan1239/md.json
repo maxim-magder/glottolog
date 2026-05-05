@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Zhangzhung",
+    "hid": "xzh",
+    "level": "language",
+    "latitude": "31.066667",
+    "longitude": "81.3125",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3437292\nhttps://en.wikipedia.org/wiki/Zhang-Zhung_language",
+    "iso639-3": "xzh",
+    "timespan": "-0500-01-01/0625-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:b:NishiNagano:Zhangzhung**\n**hh:d:Martin:Zhangzhung**\n**hh:h:Martin:Zhang-Zhung**\n**hh:hv:Matisoff:Zhangzhung**\n**hh:hv:vanDriem:Zhangzhung**\n**hh:s:Haarh:Zhang-Zhung**\n**hh:s:Takeuchi:Zhangzhung**\n**sala:3509**"
+  },
+  "triggers": {
+    "lgcode": "\nzhangzhung\nzhang AND zhung"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient Sino-Tibetan languages of various levels of attestation and deciperment are missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One is the very poorly understood Zhangzhung (**hh:hv:vanDriem:Zhangzhung**, **hh:s:Haarh:Zhang-Zhung**, **hh:s:Takeuchi:Zhangzhung**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xzh"
+  },
+  "classification": {
+    "sub": "**hh:d:Martin:Zhangzhung**:17-21 **hh:h:Martin:Zhang-Zhung**",
+    "subrefs": "\n**hh:d:Martin:Zhangzhung**\n**hh:h:Martin:Zhang-Zhung**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Zhangzhung (xzh-xzh) = 10 (Extinct)."
+  }
+}

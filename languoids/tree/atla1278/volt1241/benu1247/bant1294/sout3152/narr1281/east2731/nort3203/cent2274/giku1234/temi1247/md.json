@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Temi",
+    "hid": "soz",
+    "level": "language",
+    "iso639-3": "soz",
+    "latitude": "-2.19303",
+    "longitude": "35.8035",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q13278\nhttps://en.wikipedia.org/wiki/Sonjo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gray:63**\n**eballiso2009:14977**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**hh:e:Derungs:Temi**\n**hh:e:Gray:Sonjo**\n**hh:e:Gray:Sonjo:1958**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:ldsoc:Nurse:Temi**\n**hh:sv:NurseRottland:Sonjo**"
+  },
+  "altnames": {
+    "multitree": "\nKisonjo\nSonjo\nSonyo\nTemi\nWasonjo\nWatemi",
+    "lexvo": "\nSonjo language [en]\nTemi [en]",
+    "hhbib_lgcode": "\nE46_Sonjo\nSonjo"
+  },
+  "triggers": {
+    "lgcode": "\nsonjo"
+  },
+  "identifier": {
+    "multitree": "soz"
+  },
+  "classification": {
+    "sub": "**hh:sv:NurseRottland:Sonjo**:198",
+    "subrefs": "\n**hh:sv:NurseRottland:Sonjo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Temi (soz-soz) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Anuta",
+    "hid": "aud",
+    "level": "language",
+    "iso639-3": "aud",
+    "latitude": "-11.61",
+    "longitude": "169.85",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Anuta](https://endangeredlanguages.com/lang/3872)\n[Anuta](https://grambank.clld.org/languages/anut1237)\n[Anuta](https://lexibank.clld.org/languages/abvdoceanic-Anuta)\n[Anuta_253](https://lexibank.clld.org/languages/walworthpolynesian-Anuta)\nhttps://en.wikipedia.org/wiki/Anuta_language\nhttps://www.wikidata.org/entity/Q35326"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:bellwood:95**\n**cldf:bellwood:ayres:etal:75**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:feinberg:04**\n**cldf:feinberg:11**\n**cldf:feinberg:88**\n**cldf:feinberg:91**\n**cldf:feinberg:95**\n**cldf:feinberg:98:2**\n**cldf:kirch:02**\n**cldf:lewis:ed:09**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:yen:kirch:etal:73**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hv:Biggs:Uvean**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:sd:Feinberg:Anutan**\n**hh:t:Feinberg:Anuta**\n**hh:w:Cashmore:Santa-Cruz**"
+  },
+  "altnames": {
+    "lexvo": "\nAnuta [en]\nAnuta jezik [hr]\nAnuta language [en]\nAnutische Sprache [de]\nLenga anuta [pms]",
+    "hhbib_lgcode": "\nAnudha",
+    "elcat": "\nAnuta"
+  },
+  "triggers": {
+    "lgcode": "\nlexican\nanuta\nanutan"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian** **hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "identifier": {
+    "endangeredlanguages": "3872"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Anuta (3872-aud) = Endangered (20 percent certain, based on the evidence available) (There is little data on the linguistic situation on Anuta. It is assumed that Anutian is used by the community, but word is needed.) [Feinberg 2004](cldf:feinberg:04)"
+  }
+}

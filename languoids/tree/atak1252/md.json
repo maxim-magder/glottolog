@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Atakapa",
+    "hid": "aqp",
+    "level": "language",
+    "iso639-3": "aqp",
+    "latitude": "30.9121",
+    "longitude": "-93.0827",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Atakapa](https://grambank.clld.org/languages/atak1252)\n[Atakapa](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Atakapa)\n[Atakapa](https://wals.info/languoid/lect/wals_code_atk)\nhttps://en.wikipedia.org/wiki/Atakapa_language\nhttps://www.wikidata.org/entity/Q10975683",
+    "timespan": "1721-01-01/1934-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2721**\n**cldf:nichols:92**\n**hh:d:GatschetSwanton:Atakapa**\n**hh:e:Newcomb:Atakapans**\n**hh:g:Kimball:Atakapa**\n**hh:he:Swanton:Atakapa**\n**hh:hv:Kaufman:Lower-Mississippi**\n**hh:hv:Kaufman:Lower-Mississippi:2019**\n**hh:hv:Swadesh:Atakapa-Chitimacha**\n**hh:hv:Swanton:Tunica-Chitimacha-Atakapa**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Swanton:NEMexico**\n**hh:s:Mueller:Atakapa**\n**hh:s:Singleton:Atakapa**\n**hh:s:Swanton:Atakapa**\n**hh:w:Singleton:Atakapa**\n**hh:w:duTerrageRivet:Atakapa**"
+  },
+  "altnames": {
+    "wals": "\nAtakapa",
+    "ruhlen (1987)": "\nAtakapa",
+    "moseley & asher (1994)": "\nAtakapa",
+    "multitree": "\nAtakapa\nAtakapan\nAttacapa\nEastern Atakapa\nWestern Atakapa",
+    "lexvo": "\nAtakapa [en]\nAtakapa hizkuntza [eu]\nAtakapa language [en]\nAtakapeg [br]\nAttacapan [hr]\nIdioma atakapa [es]\nАтакапа [ru]",
+    "hhbib_lgcode": "\nAkokisa\nAttacapas\nWestern Atakapa"
+  },
+  "triggers": {
+    "lgcode": "\natakapans\natakapa"
+  },
+  "identifier": {
+    "wals": "genus/atakapa",
+    "multitree": "aqp"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Martin:Southeastern**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Atakapa (aqp-aqp) = 10 (Extinct)."
+  }
+}

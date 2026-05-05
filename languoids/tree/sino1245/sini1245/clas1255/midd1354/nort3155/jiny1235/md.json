@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Jinyu Chinese",
+    "hid": "cjy",
+    "level": "language",
+    "iso639-3": "cjy",
+    "latitude": "38.8284",
+    "longitude": "111.278",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56479\nhttps://en.wikipedia.org/wiki/Jin_Chinese"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Hou:Pingyao**\n**hh:d:Li:Jinhua**\n**hh:d:Li:Xinzhou**\n**hh:d:Shen:Taiyuan**\n**hh:g:Cao:Ningjin**\n**hh:g:Han:Fugu**\n**hh:g:Hou:Xiandai-Jin:1999**\n**hh:g:Hou:Xiandai-Jinyu**\n**hh:g:HouWen:Shanxi**\n**hh:g:Qiao:Jin**\n**hh:g:Wang:Jinyuan**\n**hh:g:Xin:Xunxian**\n**hh:hs:HouWen:Shanxi**\n**hh:htyp:Xing:Jinyu**\n**hh:hv:ChappellLi:Sinitic**\n**hh:hvphon:Hou:Jinyu**\n**hh:phon:Hou:Xiandai-Jinyu**\n**hh:phon:Qiao:Hongdong**\n**hh:phonv:Hashimoto:Chin**\n**hh:phonv:Shi:Qingjian**\n**hh:phonv:Yagi:Shanxi**\n**hh:s:He:Huojia**\n**hh:s:He:Jiyuan**\n**hh:s:Hu:Wenshui**\n**hh:s:Hu:Zhongyang**\n**hh:s:Xie:Tianzhen**\n**hh:sd:LiuLiu:Huhehaote**\n**hh:soc:Wang:Hohhot**"
+  },
+  "altnames": {
+    "multitree": "\nChinese, Jinyu\nChinese,Jinyu\nJinyu\nJinyu Chinese",
+    "lexvo": "\nChino jin [es]\nDjineg [br]\nJin Chinese [en]\nJin [de]\nJinish [gv]\nJinyu Chinese [en]\nJinyu [fr]\nJęzyk jin [pl]\nĴina lingvo [eo]\n晉語 [yue]\n晋語 [ja]\n晋语 [zh]\n진어 [ko]",
+    "hhbib_lgcode": "\nChinese-Jinyu\nFugu\nHohhot\nHongdong\nHuojia dialect of Jin\nJin\nJin Chinese\nJìyuán in Northwestern Henan in a Jin-speaking area close to Shanxi\nNíngjīn\nQingjian\nShanxi\nTaiyuan\nTiānzhèn\nWenshui in Shanxi\nXinzhou\nXùnxiàn\nYanhe\nZhongyang"
+  },
+  "triggers": {
+    "lgcode": "\njinyu"
+  },
+  "identifier": {
+    "multitree": "cjy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Handel:Chinese-Diversification** **hh:hv:Norman:Chinese-Classification**",
+    "subrefs": "\n**hh:hv:Handel:Chinese-Diversification**\n**hh:hv:Norman:Chinese-Classification**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinese, Jinyu (cjy-cjy) = 5 (Developing). Language of recognized nationality: Han."
+  }
+}

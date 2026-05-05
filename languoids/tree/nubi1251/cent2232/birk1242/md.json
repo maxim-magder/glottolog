@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Birked",
+    "hid": "brk",
+    "level": "language",
+    "iso639-3": "brk",
+    "latitude": "12.5",
+    "longitude": "24.83",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56823\nhttps://en.wikipedia.org/wiki/Birgid_language",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:el:Legereetal:Birgid**\n**hh:hb:JakobiKummerle:Nubian**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hel:Sommer:Survey**\n**hh:hew:MacMichael:Arabs-Sudan**\n**hh:hsoc:Thelwall:El-Fasher**\n**hh:hvw:Thelwall:NubianDajuDinka**\n**hh:ld:Bell:Birgid**\n**hh:ld:OFahey:Birged**\n**hh:ld:OFaheyHales:Birged**\n**hh:phon:Mahmud:Birgid**\n**hh:vw:Zyhlarz:Darfur-Nubischen**\n**hh:w:Bell:Nubian**\n**hh:w:MacMichael:Darfur**\n**hh:w:MacMichael:Nubian**\n**hh:w:Thelwall:Birgid**\n**mpieva:Rouchdy1991Nubiansa**\n**sil16:44815**"
+  },
+  "altnames": {
+    "multitree": "\nBirgid\nBirguid\nBirked\nBirkit\nBirqed\nKajjara\nMurgi",
+    "lexvo": "\nBirked [en]",
+    "hhbib_lgcode": "\nBirged\nBirgid\nBirqed"
+  },
+  "triggers": {
+    "lgcode": "\nbirgid\nfasher\nbirged"
+  },
+  "identifier": {
+    "multitree": "brk;birk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bechhaus-Gerst:Nubischen**",
+    "subrefs": "\n**hh:hv:Bechhaus-Gerst:Nubischen**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Birgid (53-brk) = Extinct"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Haiphong Sign Language",
+    "hid": "haf",
+    "level": "language",
+    "iso639-3": "haf",
+    "latitude": "20.8537",
+    "longitude": "106.689",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\n[Hai Phong Sign Language](https://endangeredlanguages.com/lang/7181)\nhttps://www.wikidata.org/entity/Q39868240\nhttps://en.wikipedia.org/wiki/Haiphong_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:woodward:12**\n**hh:hv:Woodward:Sign-Thailand-Viet-Nam**\n**hh:hv:Woodward:Thailand-Viet**\n**hh:ldsoc:Woodward:Hai-Phong-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nHaiphong Sign Language",
+    "lexvo": "\nHaiphong Sign Language [en]",
+    "hhbib_lgcode": "\nHai Phong",
+    "elcat": "\nHPSL\nHai Phong Sign Language\nNNKHHP\nVietnamese Sign Language\nngôn ngữ ký hiệu Hải Phòng"
+  },
+  "identifier": {
+    "multitree": "haf",
+    "endangeredlanguages": "7181"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hai Phong Sign Language (7181-haf) = Endangered (40 percent certain, based on the evidence available) [Woodward 2015](cldf:woodward:15:1)"
+  },
+  "classification": {
+    "sub": "**hh:hv:Woodward:Thailand-Viet**",
+    "subrefs": "\n**hh:hv:Woodward:Thailand-Viet**"
+  }
+}

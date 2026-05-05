@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Car Nicobarese",
+    "hid": "caq",
+    "level": "language",
+    "iso639-3": "caq",
+    "latitude": "9.18853",
+    "longitude": "92.7671",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Car Nicobarese](https://endangeredlanguages.com/lang/4157)\n[Car Nicobarese](https://grambank.clld.org/languages/carn1240)\n[Nicobarese (Car)](https://wals.info/languoid/lect/wals_code_nca)\nhttps://en.wikipedia.org/wiki/Car_language\nhttps://phoible.org/languages/carn1240\nhttps://www.wikidata.org/entity/Q35156"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:man:32**\n**cldf:man:88**\n**cldf:np:nd:264**\n**cldf:whitehead:24**\n**hh:g:Braine:Nicobarese**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Marsden:East-Insular**\n**hh:hw:Man:CNicobarese**\n**hh:hw:deRoepstorff:Nicobar-Andaman**\n**hh:s:Sidwell:Car-Nicobarese**\n**hh:sd:Whitehead:Car-Nicobarese**\n**hh:typ:Fortuna:Carnicobarese**\n**mpieva:Christopher1990RoTarikl**\n**mpieva:Whitehead1993Dictiona**"
+  },
+  "altnames": {
+    "wals": "\nNicobarese (Car)",
+    "wals other": "\nCar\nCar Nicobarese",
+    "ruhlen (1987)": "\nNicobarese",
+    "moseley & asher (1994)": "\nNicobarese",
+    "multitree": "\nCar\nCar Nicobarese\nCar Nikobar\nKar Nicobar-Chowra\nNicobarese (Car)\nNicobarese, Car\nPu\nPur\nPuː",
+    "lexvo": "\nCar Nicobarese [en]\nCar [de]\nCar language [en]\nKareg Inizi Nikobar [br]\nКар [ru]",
+    "hhbib_lgcode": "\nCar Nicobar\nCarnicobarese\nNicobarese-Car",
+    "elcat": "\nCar\nCar Nicobarese\nCar Nikobar\nKar Nicobar-Chowra\nNicobarese\nNicobarese (Car)\nPu\nPuː"
+  },
+  "triggers": {
+    "lgcode": "\nnicobarese AND car\ntarik"
+  },
+  "identifier": {
+    "wals": "genus/nicobarese",
+    "multitree": "carr;caq",
+    "endangeredlanguages": "4157"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Car Nicobarese (4157-caq) = Vulnerable (20 percent certain, based on the evidence available) (Used as a lingua franca in the Nicobar Islands.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Murik (Malaysia)",
+    "hid": "mxr",
+    "level": "language",
+    "iso639-3": "mxr",
+    "latitude": "3.7519",
+    "longitude": "114.434",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3328150\nhttps://en.wikipedia.org/wiki/Murik_Kayan_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Jalong:Ngurek**\n**hh:hv:Blust:Kayan**\n**hh:hvw:Smith:Borneo**\n**hh:hvw:Smith:Kenyah-Kayanic**\n**hh:typ:Radjaban:Merap:2013**\n**hh:v:Smith:Merap**\n**hh:vw:Blust:Murik**\n**hh:w:Douglas:Murik**\n**iso6393:2007-208**"
+  },
+  "altnames": {
+    "multitree": "\nKayan, Murik\nMalaysia",
+    "lexvo": "\nMurik (Malaysia) [en]\nMurik [en]",
+    "hhbib_lgcode": "\nMerap\nMpraa of the Malinau River\nMurik\nNgorek\nNgurek"
+  },
+  "triggers": {
+    "lgcode": "\nngurek"
+  },
+  "identifier": {
+    "multitree": "mxr"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:83-84, 92 **hh:hvw:Smith:Kenyah-Kayanic**:349-350",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hvw:Smith:Kenyah-Kayanic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Murik (mxr-mxr) = 7 (Shifting)."
+  }
+}

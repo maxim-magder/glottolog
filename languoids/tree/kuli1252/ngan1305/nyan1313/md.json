@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nyang'i",
+    "hid": "nyp",
+    "level": "language",
+    "iso639-3": "nyp",
+    "latitude": "3.4997",
+    "longitude": "33.73651",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "UG"
+    ],
+    "links": "\n[Nyang'i](https://endangeredlanguages.com/lang/5805)\nhttps://www.wikidata.org/entity/Q7070894\nhttps://en.wikipedia.org/wiki/Nyang%27i_language\nhttps://phoible.org/languages/nyan1313\n[Nyangi](https://wals.info/languoid/lect/wals_code_nyg)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:austin:08:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**eballiso2009:43270**\n**hh:g:Beer:Nyangi**\n**hh:h:Bryan:No-Man**\n**hh:he:GulliverGulliver:Central-Nilo-Hamites**\n**hh:hel:Sommer:Survey**\n**hh:hv:Heine:Kuliak**\n**hh:ld:Beer:Nyangi**\n**hh:s:Heine:Tepes-Nyangi**\n**hh:typ:Beer:Nyangi**\n**hh:w:Driberg:Lotuko**\n**mpieva:Lamberti1988Kuliakan**"
+  },
+  "altnames": {
+    "wals": "\nNyangi",
+    "ruhlen (1987)": "\nIk",
+    "multitree": "\nGyangiya\nNgangea\nNgapore\nNgiangeya\nNiporen\nNipori\nNuangeya\nNyang'i\nNyangeya\nNyangi\nNyangia\nNyangiya\nNyuangia\nPoren\nUpale\nÑangui",
+    "lexvo": "\nNyang'i [en]",
+    "hhbib_lgcode": "\nContracted Nyang'i\nNyangeya\nNyangi\nNyangiya\nNyangīya",
+    "elcat": "\nGyangiya\nNgangea\nNgapore\nNgiangeya\nNiporen\nNipori\nNuangeya\nNyang'i\nNyangeya\nNyangi\nNyangia\nNyangiya\nNyuangia\nPoren\nUpale"
+  },
+  "triggers": {
+    "lgcode": "\nnyangi"
+  },
+  "identifier": {
+    "wals": "nyg",
+    "multitree": "nyp",
+    "endangeredlanguages": "5805"
+  },
+  "classification": {
+    "sub": "**hh:hv:Heine:Kuliak**:59-66",
+    "subrefs": "\n**hh:hv:Heine:Kuliak**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Nyang'i (5805-nyp) = Critically Endangered (20 percent certain, based on the evidence available) [Austin 2008](cldf:austin:08:1)"
+  }
+}

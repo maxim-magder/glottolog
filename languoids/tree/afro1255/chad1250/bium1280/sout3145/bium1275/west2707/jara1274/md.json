@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Jara",
+    "hid": "jaf",
+    "level": "language",
+    "iso639-3": "jaf",
+    "latitude": "10.5232",
+    "longitude": "11.7036",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56289\nhttps://en.wikipedia.org/wiki/Jara_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:51210**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hew:Meek:Tribal:II**\n**hh:hvw:JungraithmayrIbriszimow:CLR**"
+  },
+  "altnames": {
+    "multitree": "\nJara\nJera",
+    "lexvo": "\nDjaraeg [br]\nJara [en]\nJara jezik [hr]\nJara language [en]",
+    "hhbib_lgcode": "\nJerra (Jara)"
+  },
+  "triggers": {
+    "lgcode": "\npt AND fula"
+  },
+  "identifier": {
+    "multitree": "jaf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:49-50",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jara (jaf-jaf) = 6a* (Vigorous)."
+  }
+}

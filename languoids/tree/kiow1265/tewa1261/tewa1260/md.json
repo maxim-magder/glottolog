@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Rio Grande Tewa",
+    "hid": "tew",
+    "level": "language",
+    "iso639-3": "tew",
+    "latitude": "35.9053",
+    "longitude": "-106.124",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Tewa](https://endangeredlanguages.com/lang/5881)\n[Tewa (Arizona)](https://wals.info/languoid/lect/wals_code_tew)\n[Tewa (Rio Grande)](https://wals.info/languoid/lect/wals_code_trg)\n[Tewa (San Juan Pueblo)](https://wals.info/languoid/lect/wals_code_tsj)\nhttps://phoible.org/languages/tewa1260"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:425**\n**asjp2010:4525**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:kroskrity:93:2**\n**cldf:lewis:ed:09**\n**cldf:martinez:83**\n**cldf:yegerlehner:59**\n**hh:d:Martinez:San-Juan-Pueblo-Tewa**\n**hh:e:Arnon:Santa-Clara-Pueblo**\n**hh:e:Edelman:San-Ildefonso-Pueblo**\n**hh:e:EdelmanOrtiz:Tesuque**\n**hh:e:Harrington:Tewa**\n**hh:e:Lambert:Pojoaque-Pueblo**\n**hh:e:Ortiz:San-Juan-Pueblo**\n**hh:e:Speirs:Nambe-Pueblo**\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**\n**hh:hvw:Latham:Comparative**\n**hh:s:Speirs:Rio-Grande-Tewa**\n**hh:ve:Ortman:Tewa**\n**hh:w:Harrington:Tewa**\n**hh:w:Speirs:Tewa**\n**hh:w:Whiting:West-Mississippi**\n**mpieva:Kroskrity1993Language**\n**sil16:12377**\n**sil16:12379**\n**sil16:15004**\n**sil16:15006**\n**sil16:15007**\n**sil16:15008**\n**sil16:15009**\n**sil16:15010**\n**sil16:15011**\n**sil16:48405**"
+  },
+  "altnames": {
+    "wals": "\nTewa (Arizona)\nTewa (Rio Grande)\nTewa (San Juan Pueblo)",
+    "wals other": "\nArizona Tewa\nRio Grande Tewa",
+    "ruhlen (1987)": "\nTewa",
+    "moseley & asher (1994)": "\nTewa (Tanoan)",
+    "multitree": "\nArizona Tewa\nHano\nHopi Tewa\nHopi-Tewa\nRio Grande Tewa\nTano\nTano (First Mesa)\nTehua (Nuevo México)\nTewa\nTewa (Arizona)\nTewa (Nouveau-Mexique)",
+    "lexvo": "\nTewa (USA) [en]\nTewa [en]",
+    "hhbib_lgcode": "\nNambe\nPojoaque Pueblo Tewa\nPueblo-Tusuque\nSan Ildefonso Pueblo Tewa\nSan Juan Pueblo Tewa\nSanta Clara Pueblo Tewa\nTesuque\nTesuque Pueblo Tewa\nTesuque Tewa\nTewa",
+    "elcat": "\nTewa"
+  },
+  "triggers": {
+    "lgcode": "\npehtsiye\npaada\nNOT dialect AND tewa\nnambe"
+  },
+  "identifier": {
+    "wals": "tew;trg;tsj",
+    "multitree": "tew",
+    "endangeredlanguages": "5881"
+  },
+  "classification": {
+    "sub": "**hh:hvbtyp:Sutton:Kiowa-Tanoan**:1173-1191",
+    "subrefs": "\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Tewa (5881-tew) = Endangered (100 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

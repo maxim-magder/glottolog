@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Archi",
+    "hid": "aqc",
+    "level": "language",
+    "iso639-3": "aqc",
+    "latitude": "42.3239",
+    "longitude": "46.8267",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Archi](https://endangeredlanguages.com/lang/721)\n[Archi](https://grambank.clld.org/languages/arch1244)\n[Archi](https://lexibank.clld.org/languages/wold-Archi)\n[Archi](https://wals.info/languoid/lect/wals_code_arc)\nhttps://en.wikipedia.org/wiki/Archi_language\nhttps://phoible.org/languages/arch1244\nhttps://www.wikidata.org/entity/Q34915"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3516**\n**cldf:chumakina:66**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:corbett:91**\n**cldf:ed:10**\n**cldf:evans:09:2**\n**cldf:humphreys:mits:ed:93**\n**cldf:kibrik:00**\n**cldf:kibrik:03**\n**cldf:kibrik:75**\n**cldf:kibrik:kodzasov:etal:77**\n**cldf:kodzasov:77**\n**cldf:kodzasov:99:1**\n**cldf:lewis:ed:09**\n**cldf:moseley:05**\n**cldf:np:nd:264**\n**cldf:spencer:zwicky:ed:98:1**\n**hh:d:Chumakina:Archi**\n**hh:e:Sergeeva:Arcintsy**\n**hh:g:Kibrik:Archinskogo**\n**hh:g:Mikailov:Arcinskij**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Chumakina:Archi**\n**hh:s:Chumakina:Archi:2020**\n**hh:s:Kibrik:Archi**\n**hh:td:Kibrik:Archinskij**\n**hh:typ:Chumakina:Archi**\n**mpieva:2008Archilin**\n**mpieva:2008Archiref**\n**mpieva:Cumakina2007Slovarar**\n**mpieva:Kibrik1977Opytstru**"
+  },
+  "altnames": {
+    "wals": "\nArchi",
+    "ruhlen (1987)": "\nArchi",
+    "moseley & asher (1994)": "\nArchi",
+    "multitree": "\nArchi\nArchin\nArchintsy",
+    "lexvo": "\nArchi [en]\nArchi language [en]\nArtchi [fr]\nArtschinische Sprache [de]\nArtšin kieli [fi]\nJęzyk arczyński [pl]\nLíngua archi [pt]\nАрчинский язык [ru]\nАрчинська мова [uk]\nАрчски јазик [mk]",
+    "elcat": "\nArchi\nArchib\nArchin\nArchintsy\nArchsel\nArshashdib\nарчинский язык\nаршаттен чIат\nარჩიბული ენა"
+  },
+  "triggers": {
+    "lgcode": "\narchinskogo\nstrukturnogo\narcinsko\nnominativnaja\narchi\narcinskij\ndagestanskich\nopisanija\narcinskogo\ndagestanian"
+  },
+  "identifier": {
+    "wals": "arc",
+    "multitree": "aqc",
+    "endangeredlanguages": "721"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kassian:Lezginskix**",
+    "subrefs": "\n**hh:hv:Kassian:Lezginskix**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Archi (721-aqc) = Threatened (20 percent certain, based on the evidence available) [Evans 2009](cldf:evans:09:2)"
+  }
+}

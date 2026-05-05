@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Huarijio",
+    "hid": "var",
+    "level": "language",
+    "iso639-3": "var",
+    "latitude": "27.8685",
+    "longitude": "-108.437",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Guarijío](https://endangeredlanguages.com/lang/6203)\n[Guarijío](https://lexibank.clld.org/languages/utoaztecan-Guarijio)\n[Guarijío](https://wals.info/languoid/lect/wals_code_grj)\n[Huarijio](https://grambank.clld.org/languages/huar1255)\nhttps://en.wikipedia.org/wiki/Huarijio_language\nhttps://phoible.org/languages/huar1255\nhttps://www.wikidata.org/entity/Q10974017"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:casad:ed:00:9**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:felixarmendariz:03**\n**cldf:felixarmendariz:04**\n**cldf:felixarmendariz:07**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:sanchez:martinez:etal:12**\n**hh:d:Medina:Guarijio**\n**hh:g:Felix:Warihio**\n**hh:g:Felix:Warihio:2007**\n**hh:g:Miller:Guarijio**\n**hh:hvw:Kroeber:Uto-Aztecan**\n**hh:hvw:Lionnet:Varojio-Mayo**\n**hh:phon:Escalante:Guajirio**\n**hh:s:Barreras:Guarijio**\n**hh:s:Miller:Guarijio:1993**\n**hh:typ:Avila:Guarijio-Sonora**\n**hh:typ:Casas:Guarijio**\n**hh:typ:Miller:Guarijio**\n**hh:w:Johnson:Varohio**\n**sil16:11108**"
+  },
+  "altnames": {
+    "wals": "\nGuarijío",
+    "ruhlen (1987)": "\nVarohio",
+    "moseley & asher (1994)": "\nGuarijío",
+    "multitree": "\nGuarijío\nGuarijío del norte\nGuarijío du nord\nHuarijio\nHuaríjo\nMaculai\nVarihío\nVarohio\nWarihío\nWarijiyo",
+    "lexvo": "\nHuarijio [en]",
+    "hhbib_lgcode": "\nCentral Guajirio\nGuajirio Guadalupe-Victoria\nGuajirío\nGuarijío de Sonora\nHuarijío\nVarohio\nVarohío\nVarojio",
+    "elcat": "\nGuarijío\nHuarijío\nMaculái\nMacurawe\nMacurái\nVarihío\nVarijío\nVorijío\nWarihío"
+  },
+  "triggers": {
+    "lgcode": "\nguarijio\ncolorada\nguarijo\narechuyvo\nwarihio"
+  },
+  "identifier": {
+    "wals": "grj",
+    "multitree": "var",
+    "endangeredlanguages": "6203"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Guarijío (6203-var) = Threatened (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

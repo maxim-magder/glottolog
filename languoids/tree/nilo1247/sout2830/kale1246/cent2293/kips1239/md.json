@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Kipsigis",
+    "hid": "sgc",
+    "level": "language",
+    "iso639-3": "sgc",
+    "latitude": "-0.35774",
+    "longitude": "35.258532",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Kipsigis](https://grambank.clld.org/languages/kips1239)\nhttps://en.wikipedia.org/wiki/Kipsigis_language\nhttps://phoible.org/languages/kips1239\nhttps://www.wikidata.org/entity/Q56339"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barton:23**\n**cldf:peristiany:38**\n**eballiso2009:29882**\n**eballiso2009:50900**\n**hh:d:Ngelechei:Kalenjin**\n**hh:d:Ngelechei:Kalenjin:1970**\n**hh:e:Barton:Kipsikis**\n**hh:e:Manners:Kipsigis**\n**hh:e:Mwanzi:Kipsigis**\n**hh:et:Peristiany:Kipsigis**\n**hh:g:Toweett:Kalenjin**\n**hh:g:Toweett:Kalenjin:1977**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:hw:Johnston:Uganda:2**\n**hh:styp:Bossi:Kipsigis**\n**hh:styp:Kouneli:Kipsigis**\n**iso6393:2007-169**"
+  },
+  "altnames": {
+    "lexvo": "\nKipsigis [en]\nKipsigis language [en]\nKipsigiseg [br]\nKipsikis [fr]",
+    "hhbib_lgcode": "\nKipsikiis\nKipsikis\nNandi-Lumbwa-Sikisi\nNgishu"
+  },
+  "triggers": {
+    "lgcode": "\ntikshenari\nsemantics AND kipsigis\nkotobo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kipsigis (sgc-sgc) = 5 (Developing)."
+  }
+}

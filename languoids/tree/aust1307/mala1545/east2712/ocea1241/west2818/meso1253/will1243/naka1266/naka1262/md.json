@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nakanai",
+    "hid": "nak",
+    "level": "language",
+    "iso639-3": "nak",
+    "latitude": "-5.59931",
+    "longitude": "150.888",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Lakalai](https://lexibank.clld.org/languages/abvdoceanic-Lakalai)\n[Nakanai](https://grambank.clld.org/languages/naka1262)\n[Nakanai](https://wals.info/languoid/lect/wals_code_nak)\nhttps://en.wikipedia.org/wiki/Nakanai_language\nhttps://www.wikidata.org/entity/Q6528669"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:britain:20**\n**cldf:bybee:perkins:etal:94**\n**cldf:calculator:14**\n**cldf:chowning:57**\n**cldf:chowning:65**\n**cldf:chowning:66**\n**cldf:chowning:78:1**\n**cldf:chowning:91**\n**cldf:chowning:97**\n**cldf:coates:01**\n**cldf:cribb:00**\n**cldf:friedlaender:friedlaender:etal:07**\n**cldf:goodenough:55:2**\n**cldf:goodenough:62**\n**cldf:jebens:04**\n**cldf:jebens:10**\n**cldf:jenks:05**\n**cldf:keesing:84:2**\n**cldf:kinch:09**\n**cldf:np:14:5**\n**cldf:spaelti:97**\n**cldf:valentine:61**\n**cldf:valentine:65**\n**cldf:woodhead:eggins:etal:98**\n**hh:d:ChowningGoodenough:Lakalai**\n**hh:e:Chowning:Lakalai**\n**hh:g:Johnston:Nakanai**\n**hh:g:Johnston:Nakanai:1978**\n**hh:hew:Parkinson:Sudsee**\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Chowning:WNewBritain**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Lithgow:Milne**\n**hh:hvs:Chowning:5NewBritain**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hvwld:Johnston:Kimbe-Bay**\n**hh:t:Hees:Nakanai**\n**hh:typ:Chowning:Pidgin-WNB**\n**hh:w:Bischof:Ubilii**\n**hh:w:Grace:47**\n**hh:w:MacKenzieetal:Bebeli**\n**hh:wsoc:Spenceretal:Amio-Gelimi**\n**hh:wsoc:VanCottSpencer:Avau**\n**sil16:10033**\n**sil16:11235**\n**sil16:16060**\n**sil16:16062**\n**sil16:16069**\n**sil16:20350**\n**sil16:20351**\n**sil16:22022**\n**sil16:24324**\n**sil16:35049**\n**silpng:silpng1956-1990:1602**\n**silpng:silpng1956-1990:1603**\n**silpng:silpng1956-1990:1604**\n**silpng:silpng1956-1990:1605**\n**silpng:silpng1956-1990:775**\n**silpng:silpng1956-1990:776**\n**silpng:silpng1956-1990:777**\n**silpng:silpng1956-1990:778**"
+  },
+  "altnames": {
+    "wals": "\nNakanai",
+    "wals other": "\nBileki",
+    "ruhlen (1987)": "\nnot specified",
+    "moseley & asher (1994)": "\nBileki",
+    "multitree": "\nNakanai\nNakonai",
+    "lexvo": "\nNakanai [en]\nNakanai language [en]",
+    "hhbib_lgcode": "\nEast Nakanai\nLakalai (Kimbe subgroup)\nLakalai (otherwise known as Bileki-West Nakanai or just Nakanai)\nLakalai-Bileki\nLoso\nMount Pago\nNakanai (Bileki)\nNakanai (Maututu)\nUbae\nWest Nakanai"
+  },
+  "triggers": {
+    "lgcode": "\negiteu\nmulule\nvalolo\nkimbe\nvigilemulimulile\nubilii\nvigilimulimulile\nnakanai\ntegiteu"
+  },
+  "identifier": {
+    "wals": "nak",
+    "multitree": "nak"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goodenough:Kimbe**",
+    "subrefs": "\n**hh:hv:Goodenough:Kimbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nakanai (nak-nak) = 5* (Developing)."
+  }
+}

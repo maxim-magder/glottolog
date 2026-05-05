@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mota",
+    "hid": "mtt",
+    "level": "language",
+    "iso639-3": "mtt",
+    "latitude": "-13.835361",
+    "longitude": "167.690924",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Mota](https://endangeredlanguages.com/lang/7372)\n[Mota](https://grambank.clld.org/languages/mota1237)\n[Mota](https://lexibank.clld.org/languages/abvdoceanic-Mota)\nhttps://en.wikipedia.org/wiki/Mota_language\nhttps://www.wikidata.org/entity/Q3325052"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3881**\n**cldf:adams:21**\n**cldf:bellwood:95**\n**cldf:calculator:14**\n**cldf:codrington:81**\n**cldf:codrington:91**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:francois:14:1**\n**cldf:ivens:30**\n**cldf:ivens:31**\n**cldf:keesing:84:2**\n**cldf:kolshus:99**\n**cldf:lewis:ed:09**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**cldf:np:19:2**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:rivers:14**\n**cldf:samson:17**\n**cldf:tryon:10:1**\n**cldf:whiteman:83**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Codrington:Mota**\n**hh:sd:CodringtonPalmer:Mota**\n**hh:w:Goodenough:Goodenough**\n**mpieva:Dempwolff1969DieLaute**"
+  },
+  "altnames": {
+    "multitree": "\nBanks-Inseln\nMota",
+    "lexvo": "\nMota [en]\nMota language [en]",
+    "elcat": "\nBanks-Inseln\nMota"
+  },
+  "triggers": {
+    "lgcode": "\nsudseesprachen\nmota"
+  },
+  "identifier": {
+    "multitree": "mtt",
+    "endangeredlanguages": "7372"
+  },
+  "classification": {
+    "sub": "**hh:hv:Francois:Ecology:NVanuatu**",
+    "subrefs": "\n**hh:hv:Francois:Ecology:NVanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mota (7372-mtt) = Endangered (20 percent certain, based on the evidence available) [Tryon 2010](cldf:tryon:10:1)"
+  }
+}

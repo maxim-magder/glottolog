@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Squamish",
+    "hid": "squ",
+    "level": "language",
+    "iso639-3": "squ",
+    "latitude": "49.3231",
+    "longitude": "-123.014",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Squamish](https://wals.info/languoid/lect/wals_code_squ)\n[Sḵwx̱wú7mesh sníchim (Squamish)](https://endangeredlanguages.com/lang/1450)\nhttps://en.wikipedia.org/wiki/Squamish_language\nhttps://phoible.org/languages/squa1248\nhttps://www.wikidata.org/entity/Q2484579"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barnett:38**\n**cldf:barnett:39**\n**cldf:barnett:55**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:demers:horn:78**\n**cldf:drucker:90**\n**cldf:dunlop:gessner:etal:18**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:goddard:etal:08**\n**cldf:guentcheva:ed:96:2**\n**cldf:hill-tout:00**\n**cldf:jacobs:96**\n**cldf:kelly:95**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:suttles:58**\n**haspelmath:gillon_deictic_2009**\n**hh:d:Squamish:Squamish**\n**hh:e:Suttles:Central-Coast-Salish**\n**hh:es:Hill-Tout:Skqomic**\n**hh:ew:Hill-Tout:Squamish**\n**hh:gtd:Kuipers:Squamish**\n**hh:hv:Swadesh:Salish:1950**\n**hh:typ:Bar:Skwxwumesh**\n**hh:typ:Dyck:Skwxwumesh**\n**hh:typ:Gillon:Swxwumesh**\n**hh:typ:Jacobs:Skwxwumesh**\n**iso6393:2024-010**\n**mpieva:BarEl2006Aspectua**\n**mpieva:Darnell1997Afunctio**\n**sil16:11251**"
+  },
+  "altnames": {
+    "wals": "\nSquamish",
+    "wals other": "\nSquamish (Sqxwu7mish)",
+    "ruhlen (1987)": "\nSquamish",
+    "moseley & asher (1994)": "\nSquamish",
+    "multitree": "\nEsquihuamés\nSkwxwu7mesh\nSk̲wx̲wú7mesh\nSquamish\nSquawmisht\nSqwxwumish\nsqʷxʷúʔməš",
+    "lexvo": "\nSquamish [en]\nSquamish language [en]",
+    "hhbib_lgcode": "\nSkwxwu7mesh\nSkwxwú7mesh\nSquamish Sq",
+    "elcat": "\nSKwXwu7mesh snichim\nSkwxwu7mesh\nSk̲wx̲wú7mesh\nSquawmisht\nSqwxwumish\nSḵwx̱wú7mesh sníchim (Squamish)\nsqʷxʷúʔməš"
+  },
+  "triggers": {
+    "lgcode": "\nskwxwu7mesh\nNOT with AND squamish\nxweliten\nsquamish\nsnichim\nskexwts"
+  },
+  "identifier": {
+    "wals": "squ",
+    "multitree": "squ",
+    "endangeredlanguages": "1450"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950**",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sḵwx̱wú7mesh sníchim (Squamish) (1450-squ) = Critically Endangered (80 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  }
+}

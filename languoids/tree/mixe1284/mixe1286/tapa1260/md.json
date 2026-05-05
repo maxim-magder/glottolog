@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tapachultec",
+    "hid": "qcs",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "longitude": "-92.28",
+    "latitude": "14.9",
+    "iso639-3": "qcs",
+    "links": "\nhttps://www.wikidata.org/entity/Q7684401\nhttps://en.wikipedia.org/wiki/Tapachultec_language",
+    "timespan": "1900-01-01/1900-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:ThomasSwanton:Mexico**\n**hh:hv:Kaufman:Mixe-Zoque**\n**hh:hv:Sapper:Sudchiapas**\n**hh:hvwb:Campbell:SEChiapas**\n**hh:hw:Lehmann:Zentral-Amerika:II**\n**hh:v:Gonzalez:Tapachulteco**\n**hh:w:Sapper:Tapachulteca**"
+  },
+  "altnames": {
+    "multitree": "\nMije\nMixe\nOaxaca Mije\nTapachula Mijean\nTapachultec\nTapachulteco\nTapachulteko",
+    "hhbib_lgcode": "\nTapachulteca\nTapachulteco I\nTapachulteco II\nThe author attempts to distinguish two different language sources by etymologizing the scanty lexical materials of Tapachultec. Words without Mixe-Zoquean etymologies are assigned to \"Tapachultec 2\" a language with unknown affiliation. The existence of such a language however is at best dubious"
+  },
+  "triggers": {
+    "lgcode": "\ntapachulteco"
+  },
+  "identifier": {
+    "multitree": "qcs"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Tapachultec, an extinct Mixe language, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:v:Gonzalez:Tapachulteco**, **hh:hw:Lehmann:Zentral-Amerika:II**, **hh:hv:Sapper:Sudchiapas**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "qcs"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-01T21:11:32",
+    "comment": "Tapachultec (qcs-qcs) = 10 (Extinct)."
+  }
+}

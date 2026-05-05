@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mescalero-Chiricahua Apache",
+    "hid": "apm",
+    "level": "language",
+    "iso639-3": "apm",
+    "latitude": "33.1291",
+    "longitude": "-105.566",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Apache (Chiricahua)](https://wals.info/languoid/lect/wals_code_apc)\n[Mescalero-Chiricahua](https://endangeredlanguages.com/lang/1925)\n[Mescalero-Chiricahua Apache](https://grambank.clld.org/languages/mesc1238)\nhttps://en.wikipedia.org/wiki/Mescalero-Chiricahua_language\nhttps://phoible.org/languages/mesc1238\nhttps://www.wikidata.org/entity/Q13368"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3604**\n**cldf:basehart:60**\n**cldf:basehart:67**\n**cldf:basehart:70**\n**cldf:basehart:71**\n**cldf:basehart:72:2**\n**cldf:castetter:opler:36**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:flannery:32**\n**cldf:gifford:40**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:morice:06**\n**cldf:np:nd:264**\n**cldf:opler:36:1**\n**cldf:opler:36:3**\n**cldf:opler:36:4**\n**cldf:opler:37**\n**cldf:opler:41**\n**cldf:opler:55**\n**cldf:opler:69**\n**cldf:opler:71:1**\n**cldf:sonnichsen:58**\n**hh:d:Breuninger:Mescalero-Apache**\n**hh:e:Basehart:Mescalero-Apache**\n**hh:e:Opler:Chiricahua-Apache**\n**hh:e:Opler:Mescalero-Apache**\n**hh:s:Hoijer:Chiricahua**\n**hh:s:Pinnow:Chiricahua-Apachen**\n**hh:t:HoijerOpler:Mescalero-Apache**\n**hh:typ:Story:Chiricahua-Apache**"
+  },
+  "altnames": {
+    "wals": "\nApache (Chiricahua)",
+    "wals other": "\nApache\nChiricahua Apache\nMescalero",
+    "ruhlen (1987)": "\nApache (Chiricahua)",
+    "moseley & asher (1994)": "\nApache (Eastern)",
+    "multitree": "\nApache\nApache (Chiricahua)\nApache (Mescalero-Chiricahua)\nApache mescalero-chiricahua (Nouveau-Mexique)\nApache mescalero-chiricahua (Oklahoma)\nApache, Mescalero-Chiricahua\nChiricahau\nChiricahua\nChiricahua-Mescalero\nEastern Apache\nMescalero\nMescalero Cluster\nMescalero-Chiricahau\nMescalero-Chiricahua",
+    "lexvo": "\nChiricahua [de]\nChiricahua language [en]\nMescalero-Chiricahua Apache [en]",
+    "elcat": "\nApache\nApache (Chiricahua)\nApache (Mescalero-Chiricahua)\nChiricahua\nChiricahua-Mescalero\nEastern Apache\nMescalero\nMescalero Cluster\nMescalero-Chiricahua",
+    "hhbib_lgcode": "\nChiricahua Apache\nMescalero Apache"
+  },
+  "triggers": {
+    "lgcode": "\nchiricahua\nmescalero"
+  },
+  "identifier": {
+    "wals": "apc",
+    "multitree": "apm-chi;apm;apm-mes",
+    "endangeredlanguages": "1925"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hoijer:Apachean-Athapaskan**",
+    "subrefs": "\n**hh:hv:Hoijer:Apachean-Athapaskan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mescalero-Chiricahua (1925-apm) = Threatened (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

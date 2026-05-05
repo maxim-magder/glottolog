@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ume Saami",
+    "hid": "sju",
+    "level": "language",
+    "iso639-3": "sju",
+    "latitude": "64.6383",
+    "longitude": "18.646",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SE"
+    ],
+    "links": "\n[Ume Saami](https://endangeredlanguages.com/lang/3007)\n[Ume Saami](https://grambank.clld.org/languages/umes1235)\nhttps://en.wikipedia.org/wiki/Ume_S%C3%A1mi\nhttps://www.wikidata.org/entity/Q56415"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikio:06:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rasmussen:shaunnolan:20**\n**cldf:ylikoski:ylikoski:16**\n**cldf:zachrisson:05**\n**hh:b:Siegl:Ume-Saami**\n**hh:d:Fiellstrom:Lapponicum**\n**hh:d:Halasz:Ume-Tornio**\n**hh:dt:Schlachter:Waldlappendialekts-Mala**\n**hh:e:Drake:Vasterbottenslapparna**\n**hh:e:Niurenius:Lappland**\n**hh:hv:Larsson:Umesamischen**\n**hh:s:Fiellstrom:Lapponica**\n**hh:s:Wiinka:Umesamiska**\n**hh:s:vonGertten:Umesamisk**\n**hh:t:Budenz:Sved-Lapp**\n**hh:t:Nordberg:Lapponici**\n**hh:typ:Siegl:Ume-Sami**\n**hh:v:Rydving:Sodra-Tarna**"
+  },
+  "altnames": {
+    "multitree": "\n\"Lapp\"\nLapp\nLappic\nLappisch\nLappish\nLappish-Swedish\nSaami\nSaami ume\nSaami, Ume\nSaamí de Ume\nSchwedisch-Lappisch\nSouthern\nSouthern Lappish\nSouthern Saami\nSüd-Lappisch (im weiteren Sinne)\nUme\nUme Lapp\nUme Lappish\nUme-Lappisch\nUmelappisch\nWestlappisch\nlapin kieli\nlapon\nlappisk\nlopary\nsaamen kieli\nsaamskij jazyk\nsabme\nsame-\nschwedisch-lappische Dialektgruppe\nsouth dialect\nsāme-giellâ\nwestlappischer Dialekt",
+    "lexvo": "\nLingua sami di Ume [it]\nLíngua sami de Ume [pt]\nSamieg Ume [br]\nUbmisámegiella [se]\nUme Sami [en]\nUme-samea lingvo [eo]\nUmesamisk [no]\nUmesamisk språk [nn]\nUmesamiska [sv]\nUmesámiskt [fo]\nUmėjo samių kalba [lt]\nUumajansaame [fi]\nУме самиски јазик [mk]\nУме-саамский язык [ru]",
+    "hhbib_lgcode": "\nDialectus australior\nLapponici in Silbojokk\nSpeakers from Malå found in Vienna\nSödra Tärna\nUme Lappmark\nUme Sami\nUmesamisk\nVästerbottenslapparna\nWaldlappendialekts von Malå",
+    "elcat": "\n\"Ume Lapp\"\nSouthern Saami\nUbmejensámien giella\nUme Saami\nUme Sami\nUmesamisk\nUmesamiska\nUumajansaame\nуме-саамский язык"
+  },
+  "triggers": {
+    "lgcode": "\nwaldlappendialekts\nume AND saami"
+  },
+  "identifier": {
+    "multitree": "sju",
+    "endangeredlanguages": "3007"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sammallahti:Saami**:6-38",
+    "subrefs": "\n**hh:hv:Sammallahti:Saami**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ume Saami (3007-sju) = Critically Endangered (100 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Peripheral Mongolian",
+    "hid": "mvf",
+    "level": "language",
+    "iso639-3": "mvf",
+    "latitude": "42.4208",
+    "longitude": "110.157",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MN"
+    ],
+    "links": "\n[Ordos](https://wals.info/languoid/lect/wals_code_ord)\n[Peripheral Mongolian](https://grambank.clld.org/languages/peri1253)\nhttps://en.wikipedia.org/wiki/Mongolian_language_in_Inner_Mongolia\nhttps://www.wikidata.org/entity/Q3320659"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:krader:54:2**\n**cldf:vreeland:54**\n**hh:d:Mostaert:Ordos**\n**hh:d:Sonum:Ordos**\n**hh:g:Chaganqada:Menggu**\n**hh:g:Sodobagatur:Kalaqin-Menggyu**\n**hh:hs:Janhunen:Dialects**\n**hh:ld:Todaeva:Ix-Myangan**\n**hh:phon:Mostaert:Mongols-Urdus**\n**hh:s:Academy:Balin**\n**hh:s:Academy:Keerqin**\n**hh:s:Bayancoytu:Qorcin**\n**hh:s:Caidengduoerji:Khortchin**\n**hh:s:Chaganhada:Keerqin**\n**hh:s:Georg:Ordos**\n**hh:s:Sechenbaatar:Chakhar-Mongol**\n**hh:s:Soulie:Ordoss**\n**hh:t:Mostaert:Ordos**\n**hh:typ:Brosig:Khalkha-Khorchin**\n**hh:typ:Brosig:Khorchin**\n**hh:v:Ligeti:Mongol-Istanboul**\n**hh:w:Yamakoshi:Khorchin**\n**hh:w:Yamakoshi:Uchi-Mongoru**\n**hh:w:Yoshiike:Oold**\n**mpieva:2003TheMongo**\n**mpieva:Dao1981Mengguyu**\n**mpieva:Poppe1955Introduc**\n**mpieva:Sechenbaater2003TheChakh**"
+  },
+  "altnames": {
+    "wals": "\nOrdos",
+    "moseley & asher (1994)": "\nOrdos",
+    "multitree": "\nInner Mongolian\nKhorchin\nKhorčin\nMenggu\nMonggol\nMongol\nMongol (Khamnigan)\nMongolian, Peripheral\nOrdos\nOstmongolisch\nPeripheral Mongolian\nSouthern-Eastern Mongolian",
+    "lexvo": "\nPeripheral Mongolian [en]",
+    "hhbib_lgcode": "\nBalin Mongol\nChahar\nChakhar\nHorqin\nIx Myangan\nKālāqìn Měnggǔyǔ\nKhorchin\nKhorchin Mongol\nKhortchin\nKālāqìn Měnggǔyǔ\nMongol d'Istanboul\nMongolian-Peripheral\nMongols Urdus\nOrdos\nOrdoss\noriginally Oirat-speaking Manchurian Öelet (also known as the Mannai-Öelet or Yeke Mingan) in Heilongjiang\nÖöld"
+  },
+  "triggers": {
+    "lgcode": "\nchakhar\nordos\nmonggol"
+  },
+  "identifier": {
+    "wals": "ord",
+    "multitree": "mvf",
+    "languagelandscape": "http://languagelandscape.org/language/Peripheral%20Mongolian"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rybatzki:Mongolic**",
+    "subrefs": "\n**hh:hv:Rybatzki:Mongolic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Ordos (10470-mvf) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

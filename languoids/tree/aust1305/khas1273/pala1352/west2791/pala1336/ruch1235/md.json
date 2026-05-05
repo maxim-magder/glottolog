@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ruching Palaung",
+    "hid": "pce",
+    "level": "language",
+    "iso639-3": "pce",
+    "latitude": "21.6176",
+    "longitude": "98.0915",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Ruching Palaung](https://grambank.clld.org/languages/ruch1235)\nhttps://www.wikidata.org/entity/Q12953798"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1976**\n**asjp2010:3411**\n**hh:ew:Lowis:Palaungs**\n**hh:hvw:Shintani:Palaung**\n**hh:hvw:Sidwell:Palaungic**\n**hh:hvwtyp:YanZhou:Mon-Khmer**\n**hh:hws:YDBW:Yunnan**\n**hh:phon:Buakaw:Palaung**\n**hh:phon:Chalermchai:Palaung**\n**hh:phon:Chalermchai:Palaung:2013**\n**hh:phon:Janzen:Pale**\n**hh:s:Chen:Deang**\n**hh:s:Chen:Deang:2008**\n**hh:s:Deepadung:Daraang-Palaung**\n**hh:s:Janzen:Pale**\n**hh:s:JanzenJanzen:Pale**\n**hh:typ:Lee:Rucing-Palaung**\n**hh:typ:Sornsrisom:Dara-Ang**\n**hh:vphon:Kasisopa:Dara-Ang**\n**hh:w:Rattanapitak:Palaung**\n**iso6393:2008-027**\n**mpieva:Chen1986Deangyuj**"
+  },
+  "altnames": {
+    "multitree": "\nBulai\nBulei\nDarang\nDi-Ang\nDlang\nNgwe Palaung\nPalaung\nPalaung, Pale\nPalaung, Ruching\nPalaungo pale\nPalay\nPale\nPale Palaung\nPulei\nRumai\nSilver Palaung\nSouthern Ta'ang\nSouthern Ta-Ang",
+    "lexvo": "\nRuching Palaung [en]",
+    "hhbib_lgcode": "\n\"Deang 2\"\nBulei Palaung\nChengphong near Kengtung\nDa-ang or Pale spoken at Kalaw-Shan State in Myanmar from Janzen\nDara'ang\nDara-Ang\nDara-ang at No Lae in Mon-Ping subdistrict in Fang district in Chiang Mai province\nDara-ang at No Lae in Mon-Ping subdistrict in Fang district in Chiang Mai province from Kasisopa\nDeang\nKalaw\nKengtung\nLoikhong near Mängpeng\nMängküng\nNanhu (\"Bulei\" language) - This dialect covered in the Chinese sketch series\nPalaung in Thailand\nPalaung-Dara'ang\nPalaung-Ruching\nPale Palaung\nPale-Yunnan\nPalè\nRucing\nWaanpao near Kengtung"
+  },
+  "triggers": {
+    "lgcode": "\nlae\njianzhi AND deang\nmonpin\ndara\nfocuses\ncomponential"
+  },
+  "identifier": {
+    "multitree": "pce"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sidwell:Palaungic**:12",
+    "subrefs": "\n**hh:hvw:Sidwell:Palaungic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Palaung (2470-pce) = Severely endangered; Pale (2471-pce) = Severely endangered"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Walser",
+    "hid": "wae",
+    "level": "language",
+    "iso639-3": "wae",
+    "latitude": "46.6995",
+    "longitude": "9.18266",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AT",
+      "CH",
+      "IT",
+      "LI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q680517\nhttps://en.wikipedia.org/wiki/Walser_German"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dtyp:Buhler:Davos**\n**hh:h:Hotzenkocherle:Mutten**\n**hh:hvphon:Moulton:Swiss-German**\n**hh:ld:Russ:Bosco-Gurin**\n**hh:phon:Antonietti:Walser**\n**hh:s:Bauen:Rimella**\n**hh:s:Brun:Graubunden**\n**hh:s:Russ:Bosco-Gurin**\n**hh:s:Russ:High-Alemannic**\n**hh:s:Wipf:Wallis**\n**hh:s:Zurrer:Aostatal**\n**hh:sd:Giordani:Valsesia**\n**hh:sd:Zurrer:Gressoney**\n**hh:soc:Negro:German-Alps**\n**hh:soc:Negro:Walser**\n**hh:sv:Russ:Bosco-Gurin**\n**hh:t:Gerstner-Hirzel:Bosco-Gurin**\n**hh:t:Muller:Marecottes**\n**iso6393:2011-180**\n**ludger-paschen-germanic:Konig.2015.dtv**"
+  },
+  "altnames": {
+    "multitree": "\nUpper Alemannic\nWalscher\nWalser",
+    "lexvo": "\nWalser German [en]\nWalser [en]\nWalserski jezik [hr]\nВальзерское наречие [ru]",
+    "hhbib_lgcode": "\nBosco Gurin\nEast Valais\nMutten\nRimella\nValais\nWallis"
+  },
+  "triggers": {
+    "lgcode": "\nwalserdeutsch\nwalser\nitalien\ngressoney\nbosco\nsprachinseldialekte\nvisperterminen\naostatal\ngurin\nindagine"
+  },
+  "identifier": {
+    "multitree": "wae"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:829-837",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Alemannic (1011-gsw, swg, wae) = Vulnerable; Töitschu (1344-gsw, swg, wae) = Severely endangered"
+  }
+}

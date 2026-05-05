@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Panytyima",
+    "hid": "pnw",
+    "level": "language",
+    "iso639-3": "pnw",
+    "latitude": "-22.7816",
+    "longitude": "118.723",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[BANYJIMA](https://collection.aiatsis.gov.au/austlang/language/a53)\n[Panyjima](https://endangeredlanguages.com/lang/2565)\n[Panyjima](https://lexibank.clld.org/languages/bowernpny-Panyjima)\n[Panyjima](https://wals.info/languoid/lect/wals_code_pny)\n[Panytyima](https://grambank.clld.org/languages/pany1241)\nhttps://en.wikipedia.org/wiki/Panyjima_language\nhttps://phoible.org/languages/pany1241\nhttps://www.wikidata.org/entity/Q3913830"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:955**\n**cldf:bowern:11:1**\n**cldf:centre:09:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:thieberger:96**\n**cldf:tryon:07**\n**haspelmath:caudal_semantic_2012**\n**haspelmath:ritz_now_2012**\n**hh:g:Dench:Panyjima**\n**hh:g:Dench:Panyjima:1981**\n**hh:hv:Dench:Pilbara:Pronoun**\n**hh:hv:Koch:Pama-Nyungan**\n**hh:hwbtyp:SharpThieberger:Bilybara**\n**hh:w:Injie:Banjima**\n**iso6393:2018-052**\n**mpieva:1991TheAbori**\n**ozbib:1060**\n**ozbib:1243**\n**ozbib:1446**\n**ozbib:1447**\n**ozbib:1450**\n**ozbib:1452**\n**ozbib:1453**\n**ozbib:1454**\n**ozbib:1457**\n**ozbib:1618**\n**ozbib:3790**\n**ozbib:4448**\n**ozbib:4529**\n**ozbib:4596**\n**ozbib:5174**\n**ozbib:5628**\n**ozbib:5947**\n**ozbib:7238**\n**ozbib:726**\n**ozbib:735**"
+  },
+  "altnames": {
+    "wals": "\nPanyjima",
+    "wals other": "\nPanyima",
+    "ruhlen (1987)": "\nPanytyima",
+    "multitree": "\nBailko-Pandjima\nBandjima\nBanjima\nMandanjongo\nPanchima\nPand'ima\nPandjima\nPanjima\nPanjtjima\nPanyjima\nPanytyima",
+    "lexvo": "\nLenga panytyima [pms]\nPanyjima language [en]\nPanytyima [en]",
+    "hhbib_lgcode": "\nBanyjima\nPanyjima",
+    "elcat": "\nBailko-Pandjima\nBandjima\nBanjima\nBanyjima\nMandanjongo\nPand'ima\nPandjima\nPanjima\nPanjtjima\nPanyjima\nPanytyima",
+    "aiatsis": "\nBANYJIMA\nBandjima\nBanjima\nBanydyima\nBanyjima\nMandanjongo\nMandara\nPaanjima\nPand'ima\nPandima\nPandjima\nPanjima\nPanjtjima\nPanyjima\nPanytyima\nPapupadu"
+  },
+  "triggers": {
+    "lgcode": "\npanyjima"
+  },
+  "identifier": {
+    "wals": "pny",
+    "multitree": "pnw",
+    "endangeredlanguages": "2565"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Panyjima (2565-pnw) = Severely Endangered (20 percent certain, based on the evidence available) [Thieberger 1996](cldf:thieberger:96)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bushoong",
+    "hid": "buf",
+    "level": "language",
+    "iso639-3": "buf",
+    "latitude": "-4.69463",
+    "longitude": "21.4556",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Bushoong](https://grambank.clld.org/languages/bush1247)\n[Bushoong](https://wals.info/languoid/lect/wals_code_bsh)\nhttps://en.wikipedia.org/wiki/Bushong_language\nhttps://www.wikidata.org/entity/Q3449964"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:edmiston:32**\n**cldf:torday:joyce:10**\n**cldf:vansina:62**\n**eballiso2009:1021**\n**eballiso2009:1022**\n**eballiso2009:13234**\n**eballiso2009:15737**\n**eballiso2009:1652**\n**eballiso2009:19929**\n**eballiso2009:20528**\n**eballiso2009:21031**\n**eballiso2009:21032**\n**eballiso2009:22054**\n**eballiso2009:22241**\n**eballiso2009:22639**\n**eballiso2009:22640**\n**eballiso2009:22641**\n**eballiso2009:22642**\n**eballiso2009:22644**\n**eballiso2009:22645**\n**eballiso2009:22646**\n**eballiso2009:22647**\n**eballiso2009:22648**\n**eballiso2009:24373**\n**eballiso2009:25557**\n**eballiso2009:25854**\n**eballiso2009:25996**\n**eballiso2009:26851**\n**eballiso2009:2709**\n**eballiso2009:2710**\n**eballiso2009:27468**\n**eballiso2009:27470**\n**eballiso2009:28707**\n**eballiso2009:29277**\n**eballiso2009:29383**\n**eballiso2009:29394**\n**eballiso2009:31770**\n**eballiso2009:32686**\n**eballiso2009:33736**\n**eballiso2009:34629**\n**eballiso2009:37401**\n**eballiso2009:38143**\n**eballiso2009:41297**\n**eballiso2009:42506**\n**eballiso2009:45054**\n**eballiso2009:46074**\n**eballiso2009:46539**\n**eballiso2009:48934**\n**eballiso2009:49292**\n**eballiso2009:49711**\n**eballiso2009:51976**\n**eballiso2009:51980**\n**eballiso2009:51983**\n**eballiso2009:53459**\n**eballiso2009:55285**\n**eballiso2009:5719**\n**eballiso2009:5771**\n**eballiso2009:7565**\n**hh:e:Harroy:Bakubas**\n**hh:e:Hiernaux:Cwa**\n**hh:e:Hilton-Simpson:Kasai**\n**hh:e:Huysman:Bakubas**\n**hh:ew:Wolf:Central-Afrikas**\n**hh:ew:vonWissmannetal:Kassai**\n**hh:h:Torday:Kasai**\n**hh:he:Vansina:Ba-Kuba**\n**hh:hew:Dias:Lunda**\n**hh:hew:TordayAthol:Bushongo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:s:Denolf:Lukuba**\n**hh:s:Hulstaert:Kuba**\n**hh:s:Vansina:Bushong**\n**hh:sd:Edmiston:Bushonga**\n**hh:w:Maes:Kasai-Lulua-Sankuru**"
+  },
+  "altnames": {
+    "wals": "\nBushoong",
+    "wals other": "\nBukuba\nBushona\nBushonga\nKuba",
+    "ruhlen (1987)": "\nBushong, Kuba",
+    "moseley & asher (1994)": "\nBushong",
+    "multitree": "\nBamongo\nBushong\nBushongo\nBushoong\nBusoong\nGanga\nKuba\nMbale\nMongo\nShongo",
+    "lexvo": "\nBushoong [en]",
+    "hhbib_lgcode": "\nBa-Kuba\nBacuba\nBakuba\nBatshwa-Bushoong\nBatua\nBatua du Kasayi numerals very close to Bakuba\nBatua du Kasayi numerals very close to Bakuba (at appx -4.963225097449856-21.656555121559208)\nBushong 1 Nsheng C83\nBushong 2 C83\nBushongo\nC83_Bushong\nCwa du royaume Kuba\nIlebo C80I\nKuba\nLele 1 Mboombe C84 closest to Bushoong\nLukuba\nPygmy Batua du Kasayi numerals very close to Bakuba"
+  },
+  "triggers": {
+    "lgcode": "\ncommunement\nbashobwa\ntshitetela\ndwell\nbushoong\nkuba\nbakubas\nlidentification\nbushong\nhabitant\nainsi\nbakuba\nbushongo\nbushonga\nbukuba"
+  },
+  "identifier": {
+    "wals": "bsh",
+    "multitree": "buf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:209",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bushoong (buf-buf) = 6a* (Vigorous)."
+  }
+}

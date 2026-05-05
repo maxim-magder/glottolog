@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Duvle",
+    "hid": "duv",
+    "level": "language",
+    "iso639-3": "duv",
+    "latitude": "-3.21832",
+    "longitude": "137.964",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Duvle](https://lexibank.clld.org/languages/transnewguineaorg-duvle)\nhttps://en.wikipedia.org/wiki/Duvle_language\nhttps://www.wikidata.org/entity/Q56364"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Moszkowski:Mamberamo**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:ld:Murdoch:Duvle**\n**hh:nt:Murdoch:Duvle**\n**hh:s:Murdoch:Duvle**\n**hh:w:Moszkowski:Mamberamo**"
+  },
+  "altnames": {
+    "multitree": "\nDuvde\nDuve\nDuvele\nDuvle\nDuvre\nWiri",
+    "lexvo": "\nDuvle [en]",
+    "hhbib_lgcode": "\n= Duvle\nSüdfluß"
+  },
+  "triggers": {
+    "lgcode": "\nduvle"
+  },
+  "identifier": {
+    "multitree": "duv;duvl"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Duvle (duv-duv) = 6b* (Threatened)."
+  }
+}

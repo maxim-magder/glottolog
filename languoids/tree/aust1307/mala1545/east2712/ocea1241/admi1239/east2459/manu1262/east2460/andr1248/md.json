@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Andra-Hus",
+    "hid": "anx",
+    "level": "language",
+    "iso639-3": "anx",
+    "latitude": "-2.05894",
+    "longitude": "147.085",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2846195\nhttps://en.wikipedia.org/wiki/Hus_language"
+  },
+  "sources": {
+    "glottolog": "\n**bowern:smyzgr75**\n**cldf:blust:75:1**\n**hh:hv:Ross:WMelanesia**\n**hh:hw:Zgraggen:Admiralty**\n**hh:w:vonMiklucho-Maclay:Andra-Sorri**"
+  },
+  "altnames": {
+    "multitree": "\nAdmiralitäts-inseln\nAhus\nAndra-Hus\nHa'us",
+    "lexvo": "\nAndra-Hus [en]",
+    "hhbib_lgcode": "\nAnda\nAndra\nHus"
+  },
+  "triggers": {
+    "lgcode": "\nsorri\nostrovkov\nandra"
+  },
+  "identifier": {
+    "multitree": "anx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:315-345",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Andra-Hus (anx-anx) = 6a (Vigorous)."
+  }
+}

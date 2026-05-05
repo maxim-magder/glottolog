@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Bo (Papua New Guinea)",
+    "hid": "bpw",
+    "level": "language",
+    "iso639-3": "bpw",
+    "latitude": "-4.32114",
+    "longitude": "141.45",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bo](https://endangeredlanguages.com/lang/3962)\nhttps://www.wikidata.org/entity/Q56770\nhttps://en.wikipedia.org/wiki/Bo_language_(New_Guinea)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:SkoKwomtariLeftMay**\n**hh:hvw:ConradDye:USepik**"
+  },
+  "altnames": {
+    "multitree": "\nBo\nPo\nSorimi",
+    "lexvo": "\nBo (Papua New Guinea) [en]\nBo [en]",
+    "hhbib_lgcode": "\nBo\nPo",
+    "elcat": "\nBo\nPo\nSorimi"
+  },
+  "identifier": {
+    "multitree": "bpw",
+    "endangeredlanguages": "3962"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ConradDye:USepik**",
+    "subrefs": "\n**hh:hvw:ConradDye:USepik**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bo (3962-bpw) = Severely Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

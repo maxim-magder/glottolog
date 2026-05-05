@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lower Silesian",
+    "hid": "sli",
+    "level": "language",
+    "iso639-3": "sli",
+    "latitude": "50.6963",
+    "longitude": "15.9667",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CZ",
+      "DE",
+      "PL"
+    ],
+    "links": "\n[Lower Silesian](https://endangeredlanguages.com/lang/5386)\nhttps://en.wikipedia.org/wiki/Silesian_German_language\nhttps://www.wikidata.org/entity/Q152965"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:karas:nd**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:d:Lux:Dobschau**\n**hh:dial:Ksiezyk:Kostenthal**\n**hh:est:Peuckert:Schlesisch**\n**hh:est:Peuckert:Schlesisch:1937**\n**hh:g:Elliott:Metzenseifen**\n**hh:hvphont:Schroer:Ungrischen**\n**hh:phon:Bluhme:Oberschlesischen**\n**hh:phont:Pautsch:Kieslingswalde**\n**hh:phont:Valiska:Dobschau**\n**hh:s:Gedeon:Meczenzefi**\n**hh:s:Kovi:Zipser**\n**hh:s:Lersch:Grundler**\n**hh:s:Valiska:Zipserdeutsche**\n**hh:s:Weinelt:Kostenthal**\n**hh:sd:Gusinde:Schonwald**\n**hh:soc:Ksiezyk:Kostenthal**\n**hh:t:Hanika:Kremnitz**\n**hh:t:Rolfe:Metzenseifener**\n**hh:typ:Hanke:Schlesischen**\n**hh:typ:Reiter:Polnisch-Deutschen-Oberschlesien**\n**hh:v:vonUnwerth:Schlesische**"
+  },
+  "altnames": {
+    "multitree": "\nLower Schlesisch\nSilesian\nSilesian, Lower",
+    "lexvo": "\nDialekt śląski języka niemieckiego [pl]\nLaagsilezisch [nl]\nLower Silesian [en]\nSchleesėsch [ksh]\nSchlesisch [de]\nSilesian German [en]\nSlezská němčina [cs]\nSziléziai német nyelv [hu]\nTedesco Slesiano [it]\nŚlůnsko mjymjecko godka [szl]",
+    "hhbib_lgcode": "\nCleveland-Ohio Metzenseifen\nDobschau\nGerman Silesian\nMeczenzefi\nMetzenseifen\nMetzenseifen in Czechoslovakia near the Hungarian border between two branches of the Tatra Mountains\nOld Zipser\nTranscription into phonetic script and glossary of some Poems of Theodore Kliegel of Schmolnitz\nUnterzipser\nZipser",
+    "elcat": "\nLower\nLower Schlesisch\nLower Silesian\nSilesian"
+  },
+  "triggers": {
+    "lgcode": "\nkieslingswalde\noberschlesien\ngleiwitz\nschlesischen\nschonwald"
+  },
+  "identifier": {
+    "multitree": "sli",
+    "endangeredlanguages": "5386"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:869-871",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lower Silesian (5386-sli) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

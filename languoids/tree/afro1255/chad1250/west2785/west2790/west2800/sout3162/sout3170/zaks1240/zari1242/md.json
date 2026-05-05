@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Zari",
+    "hid": "zaz",
+    "level": "language",
+    "iso639-3": "zaz",
+    "latitude": "9.71269",
+    "longitude": "9.40332",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Zari](https://endangeredlanguages.com/lang/10485)\nhttps://www.wikidata.org/entity/Q3914398\nhttps://en.wikipedia.org/wiki/Zari_language",
+    "timespan": "2000-01-01/2000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:12:1**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:office:95**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hvw:Shimizu:SBauchi**\n**hh:w:Gowers:Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nZakshi\nZari\nZariwa",
+    "lexvo": "\nZari [en]",
+    "hhbib_lgcode": "\nBoot\nBoto and associated hamlets\nKopti\nZaarī",
+    "elcat": "\nKopti\nKwapm\nZari\nZariwa"
+  },
+  "identifier": {
+    "multitree": "zaz",
+    "endangeredlanguages": "10485"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:SBauchi** **hh:typ:Caron:South-Bauchi-West** **hh:hv:Caron:Zaar-Voisins**:640-641",
+    "subrefs": "\n**hh:typ:Caron:South-Bauchi-West**\n**hh:hv:Caron:Zaar-Voisins**\n**hh:hvw:Shimizu:SBauchi**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zari (zaz-zaz) = 9 (Reawakening)."
+  }
+}

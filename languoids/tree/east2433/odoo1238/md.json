@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Odoodee",
+    "hid": "kkc",
+    "level": "language",
+    "iso639-3": "kkc",
+    "latitude": "-6.59222",
+    "longitude": "142.486",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Odoodee](https://endangeredlanguages.com/lang/4399)\n[Odoodee](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Odoodee)\nhttps://en.wikipedia.org/wiki/Odoodee_language\nhttps://www.wikidata.org/entity/Q12952987"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:845**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:dial:HaysHays:Odoodee**\n**hh:hvw:Shaw:Bosavi**\n**hh:s:HaysHays:Odoodee**\n**hh:w:Shaw:Western-Province**\n**silpng:silpng1991-2000:1636**\n**silpng:silpng1991-2000:1637**\n**silpng:silpng1991-2000:1638**\n**silpng:silpng1991-2000:1639**\n**silpng:silpng1991-2000:1640**\n**silpng:silpng1991-2000:1641**\n**silpng:silpng1991-2000:1642**\n**silpng:silpng2001-2003:273**\n**silpng:silpng2001-2003:277**\n**silpng:silpng2001-2003:280**\n**silpng:silpng2001-2003:411**\n**silpng:silpng2001-2003:412**\n**silpng:silpng2001-2003:413**\n**silpng:silpng2001-2003:414**\n**silpng:silpng2001-2003:415**\n**silpng:silpng2004:110**\n**silpng:silpng2004:20**"
+  },
+  "altnames": {
+    "multitree": "\nKalamo\nNomad\nOdodei\nOdoodee\nTomu\nTomu River",
+    "lexvo": "\nOdoodee [en]",
+    "hhbib_lgcode": "\nHesif at the Tomu river\nKalamo",
+    "elcat": "\nKalamo\nNomad\nOdodei\nOdoodee\nTomu\nTomu River"
+  },
+  "triggers": {
+    "lgcode": "\ntoloso\ndisi\nsusuga\nsoomagoo\nodoodee"
+  },
+  "identifier": {
+    "multitree": "kkc",
+    "endangeredlanguages": "4399"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shaw:Bosavi** **hh:e:Dwyeretal:Kubo-Febi-Konai**",
+    "subrefs": "\n**hh:hvw:Shaw:Bosavi**\n**hh:e:Dwyeretal:Kubo-Febi-Konai**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Odoodee (4399-kkc) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

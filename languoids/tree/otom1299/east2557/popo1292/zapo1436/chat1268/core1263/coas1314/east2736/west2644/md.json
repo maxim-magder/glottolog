@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Western Highland Chatino",
+    "hid": "ctp",
+    "level": "language",
+    "iso639-3": "ctp",
+    "latitude": "16.2495",
+    "longitude": "-97.3244",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chatino (Sierra Occidental)](https://wals.info/languoid/lect/wals_code_cso)\n[Chatino (Yaitepec)](https://wals.info/languoid/lect/wals_code_cya)\n[Western Highland Chatino](https://endangeredlanguages.com/lang/4058)\n[Western Highland Chatino](https://grambank.clld.org/languages/west2644)\nhttps://phoible.org/languages/west2644\nhttps://www.wikidata.org/entity/Q32861734"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1010**\n**cldf:campbell:13:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:upson:longacre:65**\n**hh:g:Pride:Chatino**\n**hh:g:Rasch:Chatino**\n**hh:phon:Cruz:Quiahije**\n**hh:phon:Cruz:Quiahije:2004**\n**hh:s:PridePride:Chatino-Alta**\n**hh:sd:PridePride:Chatino-Alta**\n**hh:ssoctyp:Cruz:San-Juan-Quiahije-Chatino**\n**hh:t:Cavar:Chatino**\n**hh:typ:Upson:Chatino**\n**hh:w:Boas:Chatino**\n**mpieva:Pride2004Dicciona**\n**mpieva:Rasch2002Thebasic**\n**sil16:12568**\n**sil16:12569**\n**sil16:12571**\n**sil16:19459**\n**sil16:22487**\n**sil16:23483**\n**sil16:24237**\n**sil16:44940**\n**sil16:46117**\n**sil16:46870**"
+  },
+  "altnames": {
+    "wals": "\nChatino (Sierra Occidental)\nChatino (Yaitepec)",
+    "ruhlen (1987)": "\nChatino",
+    "moseley & asher (1994)": "\nChatino",
+    "multitree": "\nCha't-An\nChatino\nChatino (Sierra Occidental)\nChatino de Zacatepec\nChatino de Zacatepeco\nChatino de la Zona Alta Occidental\nChatino de la zona baja occidental\nChatino des basses-terres occidentales\nChatino, Western Highland\nSierra Occidental Chatino",
+    "lexvo": "\nChatino language [en]\nIdioma chatino [es]\nLangues chatino [fr]\nLíngua chatina [pt]\nTchatineg [br]\nWestern Highland Chatino [en]",
+    "hhbib_lgcode": "\nChatino-Western Highland\nJuquila Chatino\nPanixtlahuaca\nSan Juan Quiahije",
+    "elcat": "\nCha't-An\nChatino\nChatino (Sierra Occidental)\nChatino de la Zona Alta Occidental\nSierra Occidental Chatino\nWestern Highland\nWestern Highland Chatino"
+  },
+  "triggers": {
+    "lgcode": "\nquiahije\nchatina\nchatnan\nkitty\nyaitepec\npanixtlahuaca"
+  },
+  "identifier": {
+    "wals": "cya;cso",
+    "multitree": "ctp",
+    "endangeredlanguages": "4058"
+  },
+  "classification": {
+    "sub": "**hh:g:Sullivant:Tataltepec**:8-14",
+    "subrefs": "\n**hh:g:Sullivant:Tataltepec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Highland Chatino (4058-ctp) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

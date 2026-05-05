@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ojitlán Chinantec",
+    "hid": "chj",
+    "level": "language",
+    "iso639-3": "chj",
+    "latitude": "18.075",
+    "longitude": "-96.3369",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northern Chinantec](https://endangeredlanguages.com/lang/9849)\nhttps://en.wikipedia.org/wiki/Chinantec_of_Ojitl%C3%A1n\nhttps://www.wikidata.org/entity/Q5100110"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:merrifield:59**\n**cldf:weitlaner:51**\n**cldf:weitlaner:guevara:54**\n**hh:d:SmithSmith:Chinanteco-Ojitlan**\n**hh:phon:Macaulay:Ojitlan**\n**hh:v:Weitlaner:Proto-Chinanteco**\n**sil16:12354**\n**sil16:12355**"
+  },
+  "altnames": {
+    "glottolog": "\nOjitlan Chinantec",
+    "multitree": "\nChehalis\nChinantec\nChinantec, Ojitlán\nChinanteco\nChinanteko\nCopalis\nOjitlan\nOjitlán\nOjitlán Chinanteko",
+    "lexvo": "\nOjitlán Chinantec [en]",
+    "hhbib_lgcode": "\nChinantec-Ojitlán",
+    "elcat": "\nChinantec\nChinanteco\nChinanteco del norte\nChinanteko\nComaltepec\nNorthern Chinantec\nOjitlán Chinantec\njmiih kia' dzä 'vï ï\njujmi (del norte)\njujmi tsa kö 'w++"
+  },
+  "triggers": {
+    "lgcode": "\ndetalles\nojitlan"
+  },
+  "identifier": {
+    "multitree": "chj",
+    "endangeredlanguages": "9849"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Chinantec (9849-chj) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

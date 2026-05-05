@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Sora",
+    "hid": "srb",
+    "level": "language",
+    "iso639-3": "srb",
+    "latitude": "19.1213",
+    "longitude": "84.19",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Sora](https://endangeredlanguages.com/lang/5619)\n[Sora](https://grambank.clld.org/languages/sora1254)\n[Sora](https://wals.info/languoid/lect/wals_code_sor)\nhttps://en.wikipedia.org/wiki/Sora_language\nhttps://phoible.org/languages/sora1254\nhttps://www.wikidata.org/entity/Q13284"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:etal:ed:02:14**\n**cldf:ramamurti:31**\n**cldf:ramamurti:86**\n**cldf:starosta:89**\n**cldf:stolz:96**\n**hh:d:Gamango:Saori**\n**hh:d:RVM:Sora**\n**hh:d:Ramamurti:Savara**\n**hh:d:Ramamurti:Sora**\n**hh:d:Ramamurti:Sora:1986**\n**hh:e:Fawcett:Saoras**\n**hh:e:Razeq:Saora**\n**hh:g:Association:Savara**\n**hh:g:MishraDash:Saura**\n**hh:g:Nayak:Saora**\n**hh:g:Ramamurti:Sora**\n**hh:g:Rao:Sora**\n**hh:g:Starosta:Sora**\n**hh:he:Thurston:SIndia:6**\n**hh:he:Yeatts:Madras-Tribes**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hs:Mahapatra:Orissa**\n**hh:hvphon:Zide:Sora-Juray-Gorum**\n**hh:hvw:Hodgson:Eastern-Ghats**\n**hh:hvw:Latham:Comparative**\n**hh:hvwld:Grierson:4**\n**hh:s:AndersonHarrison:Sora**\n**hh:s:Chandrasekhara:Savara**\n**hh:s:Mohanty:Saora**\n**hh:s:Muralidhar:Savara**\n**hh:sd:Misra:Saura**\n**hh:t:Grierson:Madras**\n**hh:typ:Gomango:Sora**\n**hh:typd:Patela:Lanjia-Saura**\n**mpieva:1927Language**\n**mpieva:1986SoraEngl**\n**mpieva:Wexler2002Twotiere**\n**mpieva:Zide1979Areconst**"
+  },
+  "altnames": {
+    "wals": "\nSora",
+    "ruhlen (1987)": "\nSavara",
+    "moseley & asher (1994)": "\nSora",
+    "multitree": "\nSabar\nSabara\nSaonras\nSaora\nSaura\nSavara\nSawaria\nShabari\nSora\nSoːra\nSwara",
+    "lexvo": "\nLenga sora [pms]\nLingua Sora [la]\nSora [en]\nSora language [en]\nภาษาโสรา [th]",
+    "hhbib_lgcode": "\nHill Saora\nSaora\nSaoras\nSaura\nSavara\nSavara or Saura of Hunter (not Dravidian)",
+    "elcat": "\nSabar\nSabara\nSaonras\nSaora\nSaura\nSavara\nSawaria\nShabari\nSora\nSoːra\nSwara"
+  },
+  "triggers": {
+    "lgcode": "\nsorbs\nsaura\nsora\nsavara"
+  },
+  "identifier": {
+    "wals": "sor",
+    "multitree": "srb",
+    "endangeredlanguages": "5619"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderson:Munda** **hh:hvld:Anderson:Proto-Munda**:159-160",
+    "subrefs": "\n**hh:hv:Anderson:Munda**\n**hh:hvld:Anderson:Proto-Munda**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Sora (5619-srb) = At risk (20 percent certain, based on the evidence available) (\"In some areas with significant ethnic Sora populations however (e.g. Sambalpur district of Orissa) a language shift has occured. Thus, Sora language appears to be endangered in some areas, but in others (e.g. Gumma block of Gajapati district), most women and children are monolingual Sora speakers.\" (p. 299)) [Anderson and Harrison 2008](cldf:anderson:harrison:08:2)"
+  }
+}

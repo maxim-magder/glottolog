@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ogbah",
+    "hid": "ogc",
+    "level": "language",
+    "iso639-3": "ogc",
+    "latitude": "5.25057",
+    "longitude": "6.53895",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36291\nhttps://en.wikipedia.org/wiki/Ogba_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Blench:Ogba**\n**hh:d:Blench:Ogba:2024**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:phontyp:Maduagwu:Ogbahu**\n**hh:typ:Maduagwu:Ogbahu**\n**hh:w:Clark:Kwa**\n**ldh:item_403922**"
+  },
+  "altnames": {
+    "multitree": "\nOgba\nOgbah",
+    "lexvo": "\nOgba language [en]\nOgbah [en]",
+    "hhbib_lgcode": "\nOgba\nOgbahu\nOkugba (Omoku)"
+  },
+  "triggers": {
+    "lgcode": "\nogba\n7884"
+  },
+  "identifier": {
+    "multitree": "ogc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Williamson:Niger-Delta**:80-82 **hh:w:Clark:Kwa**:35",
+    "subrefs": "\n**hh:hv:Williamson:Niger-Delta**\n**hh:w:Clark:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ogbah (ogc-ogc) = 5* (Developing)."
+  }
+}

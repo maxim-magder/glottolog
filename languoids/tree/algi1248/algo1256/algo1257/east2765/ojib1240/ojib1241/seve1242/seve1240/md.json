@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Severn Ojibwa",
+    "hid": "ojs",
+    "level": "language",
+    "iso639-3": "ojs",
+    "latitude": "53.9092",
+    "longitude": "-89.9331",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Oji-Cree](https://endangeredlanguages.com/lang/2974)\n[Ojibwa (Severn)](https://wals.info/languoid/lect/wals_code_ojs)\n[Severn Ojibwa](https://grambank.clld.org/languages/seve1240)\nhttps://en.wikipedia.org/wiki/Oji-Cree_language\nhttps://www.wikidata.org/entity/Q56494"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:rhodes:06**\n**cldf:slavin:12:2**\n**haspelmath:slavin_phonological_2012**\n**hh:e:Rogers:Round-Lake-Ojibwa**\n**hh:g:Todd:Ojibwa**\n**hh:h:Wolfart:Algonquian**\n**hh:hvw:Valentine:Ojibwe**\n**hh:s:Rogers:Round-Lake-Ojibwa**\n**hh:typ:Mintenko:Anihshininiimowin**"
+  },
+  "altnames": {
+    "wals": "\nOjibwa (Severn)",
+    "multitree": "\nChippeway\nCree\nNorthern Ojibwa\nOji-Cree\nOji-cree\nOjibwa\nOjibwa (Severn)\nOjibwa, Severn\nOjibway\nOjibwe\nOjicree\nOyi-clisteno\nSevern Ojibwa\nSevern Ojibwe",
+    "lexvo": "\nOji-Cree language [en]\nOjibweg Severn [br]\nSevern Ojibwa [en]",
+    "hhbib_lgcode": "\nLake Wunnumin in N Ontario\nOjibwa-Severn\nRound Lake Ojibwa\nSevern",
+    "elcat": "\nAnishininiimowin\nOji-Cree\nOjicree\nSevern Ojibwa\nSevern Ojibwe"
+  },
+  "triggers": {
+    "lgcode": "\nwalpole\nsevern\nanihshininiimowin"
+  },
+  "identifier": {
+    "wals": "ojs",
+    "multitree": "ojs",
+    "endangeredlanguages": "2974"
+  },
+  "classification": {
+    "sub": "**hh:hv:RhodesTodd:Subarctic-Algonquian**:62",
+    "subrefs": "\n**hh:hv:RhodesTodd:Subarctic-Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Oji-Cree (2974-ojs) = vulnerable"
+  }
+}

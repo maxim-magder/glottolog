@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kacipo-Balesi",
+    "hid": "koe",
+    "level": "language",
+    "iso639-3": "koe",
+    "latitude": "6.16512",
+    "longitude": "34.9436",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET",
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5364424\nhttps://en.wikipedia.org/wiki/Baale_language\n[Baale](https://wals.info/languoid/lect/wals_code_blj)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:15013**\n**eballiso2009:41419**\n**eballiso2009:5329**\n**eballiso2009:57017**\n**hh:d:Kapranova:Baale**\n**hh:e:Lyth:Suri**\n**hh:ew:Bader:Bale**\n**hh:ew:Marchetti:Tirma-Tid-Zilmamo**\n**hh:h:Bryan:No-Man**\n**hh:h:Gebeyehu:Dying-Ethiopia**\n**hh:h:Muldrow:Maji**\n**hh:he:Cerulli:SWEthiopia**\n**hh:he:Nalder:Mongalla**\n**hh:hld:Dimmendaal:Tirma-Chai-Baale-Mursi**\n**hh:hv:Arensen:Murle-Kacipo-Tirma**\n**hh:hv:Bender:Remnant**\n**hh:hv:Bender:Surma**\n**hh:hv:Yigezu:SWS**\n**hh:hvtyp:Dimmendaal:Nilo-Saharan**\n**hh:hvw:Bender:Ethiopia**\n**hh:ld:Unseth:Suri**\n**hh:s:Kapranova:Kacipo-Balesi**\n**hh:s:YigezuDimmendaal:Baale**\n**hh:typ:Dimmendaal:Baale**\n**hh:typ:Dimmendaal:Baale:2020**\n**iso6393:2020-020**\n**mpieva:1998Surmicla**"
+  },
+  "altnames": {
+    "wals": "\nBaale",
+    "multitree": "\nBale\nKacipo-Balesi\nZilmamu",
+    "lexvo": "\nKacipo-Balesi [en]\nKacipo-Balesi language [en]",
+    "hhbib_lgcode": "\nArensen's Suri (SWS)\nBaale\nBale\nKichepo\nLyth's Suri is a SWS language (Unseth 1997)\nTucker-Bryan-Lyth Suri (SWS)\nZilmamo\nZilmamoo\nZilmamu\nZulmanu"
+  },
+  "triggers": {
+    "lgcode": "\nbaale\nkacipo\nzelmamo"
+  },
+  "identifier": {
+    "wals": "blj",
+    "multitree": "kacb;koe"
+  },
+  "classification": {
+    "sub": "**hh:hv:Yigezu:Surmic**",
+    "subrefs": "\n**hh:hv:Yigezu:Surmic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Baale (8030-koe-baa) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

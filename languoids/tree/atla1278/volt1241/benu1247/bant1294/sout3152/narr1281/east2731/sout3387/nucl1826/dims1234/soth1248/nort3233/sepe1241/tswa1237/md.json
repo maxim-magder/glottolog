@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tswapong",
+    "hid": "two",
+    "level": "language",
+    "iso639-3": "two",
+    "latitude": "-23.40552",
+    "longitude": "27.42009",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "ZA"
+    ],
+    "links": "\n[Tswapong](https://endangeredlanguages.com/lang/3813)\nhttps://www.wikidata.org/entity/Q3446241\nhttps://en.wikipedia.org/wiki/Tswapong_language"
+  },
+  "classification": {
+    "sub": "**hh:hld:AnderssonJanson:Botswana**:42-46 **hh:hv:Batibo:Bantu-Botswana**:25",
+    "subrefs": "\n**hh:hld:AnderssonJanson:Botswana**\n**hh:hv:Batibo:Bantu-Botswana**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:h:Motzafi-Haller:Tswapong**\n**hh:hld:AnderssonJanson:Botswana**\n**hh:hv:Batibo:Bantu-Botswana**\n**hh:hv:vanWyk:Sotho**\n**hh:ld:BatiboSeloma:Sebirwa**\n**hh:soc:Monaka:Tjhetswapong**\n**hh:w:Wookey:Tswapong**\n**hh:wtyp:Motzafi-Haller:Setswapong**"
+  },
+  "altnames": {
+    "multitree": "\nSetswapong\nTswapong",
+    "lexvo": "\nTswapong [en]",
+    "hhbib_lgcode": "\nSetswapong\nTjhetswapong",
+    "elcat": "\nSetswapong\nTswapong"
+  },
+  "triggers": {
+    "lgcode": "\ntswapong"
+  },
+  "identifier": {
+    "multitree": "two",
+    "endangeredlanguages": "3813"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tswapong (3813-two) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

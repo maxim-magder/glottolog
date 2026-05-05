@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Manda-Matumba",
+    "hid": "mgs",
+    "level": "language",
+    "iso639-3": "mgs",
+    "latitude": "-10.3991",
+    "longitude": "34.7424",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MW",
+      "TZ"
+    ],
+    "links": "\n[Manda (Tanzania)](https://endangeredlanguages.com/lang/4650)\n[Manda-Matumba](https://grambank.clld.org/languages/mand1423)\nhttps://en.wikipedia.org/wiki/Manda-Matumba_language\nhttps://www.wikidata.org/entity/Q16939267"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:28707**\n**eballiso2009:3963**\n**eballiso2009:3964**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Fulleborn:Njassa-Ruwuma**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:styp:Bernander:Manda**\n**hh:typ:Haule:Kimanda**\n**hh:v:GrayRoth:Manda**"
+  },
+  "altnames": {
+    "multitree": "\nKimanda\nKinyasa\nManda\nNyasa",
+    "lexvo": "\nManda (Tanzania) [en]\nManda [en]",
+    "hhbib_lgcode": "\nKimanda\nManda\nManda (Tanzania)\nN11_Manda",
+    "elcat": "\nKimanda\nKinyasa\nManda (Tanzania)\nNyasa"
+  },
+  "identifier": {
+    "multitree": "mgs",
+    "endangeredlanguages": "4650"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:SWTanzania**:92 **hh:styp:Bernander:Manda**:21-23 **hh:v:Ngonyani:Ngoni**",
+    "subrefs": "\n**hh:hv:Nurse:SWTanzania**\n**hh:styp:Bernander:Manda**\n**hh:v:Ngonyani:Ngoni**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Manda (Tanzania) (4650-mgs) = Vulnerable (80 percent certain, based on the evidence available) (Used in low domains and to discuss high domains. For high domains, Swahili [swh] is used or mixed with Manda. All ages. Positive attitude.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Croatian Standard",
+    "hid": "hrv",
+    "level": "dialect",
+    "iso639-3": "hrv",
+    "latitude": "45.555",
+    "longitude": "15.982",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AT",
+      "BA",
+      "HR",
+      "HU",
+      "IT",
+      "ME",
+      "RS",
+      "SI"
+    ],
+    "links": "\n[Croatian](https://lexibank.clld.org/languages/northeuralex-hrv)\nhttps://en.wikipedia.org/wiki/Croatian_language\nhttps://phoible.org/languages/croa1245\nhttps://www.wikidata.org/entity/Q6654"
+  },
+  "sources": {
+    "glottolog": "\n**ldh:item_405989**\n**mpieva:Benson1998Standard**\n**mpieva:Breu2000Dizionar**\n**mpieva:DahmDraksic1997Aroleand**\n**mpieva:Godjevac2000Intonati**\n**mpieva:Hamm1975Grammati**\n**mpieva:Hansen2001Dasslavi**\n**mpieva:Kordic1999DerRelat**\n**mpieva:Matasovic2008Poredben**\n**mpieva:Matic2003Topicspr**\n**mpieva:Seo2001Thefrequ**\n**mpieva:Skaljic1973Turcizmi**\n**mpieva:Townsend1996Commonan**\n**mpieva:Vasmer1944Diegriec**\n**mpieva:Wechsler2003Themanyf**"
+  },
+  "altnames": {
+    "multitree": "\nCroatian\nHrvatski\nSerbian-Croatian\nSerbo-Croat\nSerbo-Croatian\nSerbocroatian",
+    "lexvo": "\nAn Chróitis [ga]\nBahasa Croatia [ms]\nBahasa Kroasia [id]\nBasa Kroasia [jv]\nChorvatština [cs]\nChorvátčina [sk]\nChorwatska rěc [dsb]\nChorwatšćina [hsb]\nChòrwacczi jãzëk [csb]\nCroat [ca]\nCroata [ast]\nCroatais [gd]\nCroate [fr]\nCroateg [cy]\nCroatian [en]\nCroatian language [en]\nCroatie leid [sco]\nCroato [frp]\nGagana Croatian [sm]\nGjuha kroate [sq]\nHorvaadi keel [et]\nHorvát nyelv [hu]\nHorvātu valoda [lv]\nHrvatski jezik [bs]\nHrvaščina [sl]\nHurwat simi [qu]\nHırvatça [tr]\nIdioma croata [es]\nIsi-Croatia [zu]\nJęzyk chorwacki [pl]\nKroaatsch [nds]\nKroata lingvo [eo]\nKroateg [br]\nKroatek [kw]\nKroatian kieli [fi]\nKroaties [af]\nKroatisch [nl]\nKroatische Sprache [de]\nKroatisk [no]\nKroatisk språk [nn]\nKroatiska [sv]\nKroatų kalba [lt]\nKroaziera [eu]\nKrowodische Sproch [bar]\nKroátiagiella [se]\nKróatíska [is]\nLengua croata [lij]\nLimba croată [ro]\nLingua croata [gl]\nLingua cruata [co]\nLíngua croata [pt]\nPinulongang Krowata [ceb]\nXorvat dili [az]\nXırwatki [diq]\ncroate [fr]\nŁéngua croata [vec]\nЗабони хорватӣ [tg]\nХарвацкая мова [be]\nХорват йылме [mhr]\nХорват хэл [mn]\nХорват чĕлхи [cv]\nХорватаг æвзаг [os]\nХорватский язык [ru]\nХорватська мова [uk]\nХрватски јазик [mk]\nХрватски језик [sr]\nХръва́тьскъ ѩꙁꙑ́къ [cu]\nХърватски език [bg]\nԽորվաթերեն [hy]\nקראאטיש [yi]\nקרואטית [he]\nزبان کروواتی [fa]\nكرودىيە تىلى [ug]\nلغة كرواتية [ar]\nक्रोएशियन भाषा [hi]\nক্রোয়েশীয় ভাষা [bn]\nภาษาโครเอเชีย [th]\nხორვატული ენა [ka]\nクロアチア語 [ja]\n克罗地亚语 [zh]\n크로아티아어 [ko]",
+    "hhbib_lgcode": "\nCakavian\nChakavian\nĆunski",
+    "glottolog": "\nCroatian"
+  },
+  "triggers": {
+    "lgcode": "\nkroatische\nslava\nhidegseg\nkansas\nkajkavian\nsrpskohrvatskom\ncakavisch\ncroatian\nfertohomok\nporedbenopovijesna\ncakavian\ntheticity\nstrawberry\nkroatischen\nillyricae\norlec"
+  },
+  "identifier": {
+    "multitree": "hrv",
+    "languagelandscape": "http://languagelandscape.org/language/Croatian"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic**",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Burgenland Croatian (1230-hrv-bur) = Threatened (40 percent certain, based on the evidence available)"
+  }
+}

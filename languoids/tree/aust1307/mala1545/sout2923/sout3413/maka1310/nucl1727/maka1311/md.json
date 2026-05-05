@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Makasar",
+    "hid": "mak",
+    "level": "language",
+    "iso639-3": "mak",
+    "latitude": "-5.65551",
+    "longitude": "119.838",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Makasar](https://grambank.clld.org/languages/maka1311)\n[Makassar](https://wals.info/languoid/lect/wals_code_mks)\nhttps://en.wikipedia.org/wiki/Makassarese_language\nhttps://phoible.org/languages/maka1311\nhttps://www.wikidata.org/entity/Q33643"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4051**\n**cldf:arsyad:basri:etal:87**\n**cldf:cense:79**\n**cldf:chabot:50**\n**hh:d:Arief:Makassar**\n**hh:d:Mathes:Makassaarsch**\n**hh:d:Matthes:Makassaarsch**\n**hh:g:Jukes:Makasar**\n**hh:g:Jukes:Makassarese**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hew:Crawfurd:Indian:1820**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:UrryWalsh:Macassar**\n**hh:hvw:Beauregard:Austronesian**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Ngewa:Makassar**\n**hh:s:Basang:Makassar**\n**hh:s:Jukes:Makassar**\n**hh:s:Jukes:Makassar:1998**\n**hh:s:Macknight:Bugis**\n**hh:s:Manyambeangetal:Makassar**\n**hh:s:Manyambeangetal:Makassar:1996**\n**hh:s:Matthes:Makassaarsche**\n**hh:w:Stokhofetal:Holle:11**\n**hh:w:Stokhofetal:Holle:7:3**\n**mpieva:Cense1979Makasaar**\n**mpieva:Mills1975ProtoSou**"
+  },
+  "altnames": {
+    "wals": "\nMakassar",
+    "ruhlen (1987)": "\nMakassarese",
+    "moseley & asher (1994)": "\nMakassarese",
+    "multitree": "\nGoa\nMacassar\nMacassarese\nMakasar\nMakassa\nMakassaarsche\nMakassar\nMakassar-Bugis\nMakassarese\nMakassarisch\nMangasara\nMengkasara\nTaena\nTena",
+    "lexvo": "\nBahasa Makassar [id]\nMakasar [en]\nMakassar [fr]\nMakassar-Sprache [de]\nMakassarese language [en]\nMakassarin kieli [fi]\nMakassariska [sv]\nmakassar [fr]\nภาษามากัสซาร์ [th]",
+    "hhbib_lgcode": "\nMacassar\nMacassars\nMakasar JB1933\nMakasar NGB 1912\nMakassar"
+  },
+  "triggers": {
+    "lgcode": "\nmakassarese\nmangkasara\nmakassaarsch\nmakassar\nmakasaars\nmacassar\nmakassaarsche"
+  },
+  "identifier": {
+    "wals": "mks",
+    "multitree": "mak"
+  },
+  "classification": {
+    "sub": "**hh:hvw:GrimesGrimes:South-Sulawesi** **hh:hv:Smith:Western-Malayo-Polynesian**:474-475 **hh:hv:Mead:Sulawesi:2024**",
+    "subrefs": "\n**hh:hv:Mead:Sulawesi:2024**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hv:Smith:Western-Malayo-Polynesian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Makasar (mak-mak) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Atong",
+    "hid": "ato",
+    "level": "language",
+    "iso639-3": "ato",
+    "latitude": "6.03539",
+    "longitude": "9.72121",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Atong (Cameroon)](https://endangeredlanguages.com/lang/1581)\nhttps://en.wikipedia.org/wiki/Atong_language_(Cameroon)\nhttps://www.wikidata.org/entity/Q34824"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chiatoh:20**\n**cldf:lewis:ed:09**\n**hh:hvw:Blench:Momo-Western-Momo**\n**hh:hwsoc:AyotteAyotte:Atong**"
+  },
+  "altnames": {
+    "multitree": "\nAtong\nEtoh",
+    "lexvo": "\nAtong [en]",
+    "elcat": "\nAtong (Cameroon)\nEtoh"
+  },
+  "triggers": {
+    "lgcode": "\nwidikum"
+  },
+  "identifier": {
+    "multitree": "ato",
+    "endangeredlanguages": "1581"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:Momo-Western-Momo**",
+    "subrefs": "\n**hh:hvw:Blench:Momo-Western-Momo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Atong (Cameroon) (1581-ato) = Vulnerable (100 percent certain, based on the evidence available) [Ayotte and Ayotte 2002](cldf:ayotte:ayotte:02:1)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kafa",
+    "hid": "kbr",
+    "level": "language",
+    "iso639-3": "kbr",
+    "latitude": "7.34022",
+    "longitude": "36.1718",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Kafa](https://grambank.clld.org/languages/kafa1242)\n[Kefa](https://wals.info/languoid/lect/wals_code_kef)\nhttps://en.wikipedia.org/wiki/Kafa_language\nhttps://phoible.org/languages/kafa1242\nhttps://www.wikidata.org/entity/Q35481"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bieber:20**\n**cldf:cerulli:32**\n**cldf:huntingford:55:3**\n**hh:d:Aberra:Kafa**\n**hh:d:Habte:Kaffinya**\n**hh:e:Bieber:Kaffa**\n**hh:e:Bieber:Kaffa:1909**\n**hh:e:Huntingford:Galla**\n**hh:e:Huntingford:Kafa**\n**hh:e:Seid:Kafi-Noonoo**\n**hh:e:dAbbadie:Kafa**\n**hh:g:Cerulli:Caffina**\n**hh:g:Reinisch:Kafa**\n**hh:g:Wawrzik:Kaffa**\n**hh:hv:Leslau:Ethiopia**\n**hh:hv:Moreno:Galla-Sidama**\n**hh:ld:Brockelmann:Kafa**\n**hh:phon:Theil:Kafa**\n**hh:s:Cecchi:Kaffeccio**\n**hh:s:Theil:Kafa**\n**hh:sd:Masera:Caffina**\n**hh:typ:Girma:Kafi**\n**hh:typ:Kassa:Kafinoonoo**\n**hh:typ:Wubet:Kafi**\n**hh:vw:ASLIP:El-Molo**\n**hh:w:Abbadie:Kam**\n**hh:w:Bieber:Cafficio**\n**hh:w:Ritter:Caffa**"
+  },
+  "altnames": {
+    "wals": "\nKefa",
+    "ruhlen (1987)": "\nKefa",
+    "moseley & asher (1994)": "\nKafa",
+    "multitree": "\nBosha\nCaffino\nGaro\nKafa\nKaffa\nKafficho\nKaficho\nKefa\nKefa-Mocha\nKeffa\nManjo",
+    "lexvo": "\nKafa [en]\nKafa language [en]\nKafa-språket [nn]",
+    "hhbib_lgcode": "\nBosha\nCaffa\nCaffino\nGaro\nKafa-Bosha\nKafacco\nKafi Noonoo\nKafinoonoo"
+  },
+  "triggers": {
+    "lgcode": "\nkaffinya\nkaffa\nlingua AND caffina\ncaffina\nkaffeccio"
+  },
+  "identifier": {
+    "wals": "kef",
+    "multitree": "kbr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bender:Omotic**",
+    "subrefs": "\n**hh:hv:Bender:Omotic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kafa (kbr-kbr) = 4 (Educational)."
+  }
+}

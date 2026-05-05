@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "As",
+    "hid": "asz",
+    "level": "language",
+    "iso639-3": "asz",
+    "latitude": "-0.75267",
+    "longitude": "131.728",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[As](https://endangeredlanguages.com/lang/1350)\n[As](https://lexibank.clld.org/languages/abvdoceanic-As)\nhttps://en.wikipedia.org/wiki/As_language\nhttps://www.wikidata.org/entity/Q2866218"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:grace:nd**\n**cldf:np:nd:264**\n**hh:h:Arnold:Raja-Ampat**\n**hh:hvld:BerryBerry:WPapuan**\n**hh:hvld:Gasser:Halmahera-West-New-Guinea**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:ld:Grace:48-50**"
+  },
+  "altnames": {
+    "multitree": "\nAs",
+    "lexvo": "\nAs [en]",
+    "hhbib_lgcode": "\nAsbaken",
+    "elcat": "\nAs"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND phylum"
+  },
+  "identifier": {
+    "multitree": "asz",
+    "endangeredlanguages": "1350"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**:136-137",
+    "subrefs": "\n**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "Arnold",
+    "date": "2020-08-01T08:16:16",
+    "comment": "As (asz-asz) = 8b (Nearly extinct)"
+  }
+}

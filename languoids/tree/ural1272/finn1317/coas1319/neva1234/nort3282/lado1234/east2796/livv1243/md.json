@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Livvi",
+    "hid": "olo",
+    "level": "language",
+    "iso639-3": "olo",
+    "latitude": "61.6565",
+    "longitude": "29.0726",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FI",
+      "RU"
+    ],
+    "links": "\n[Livvi](https://endangeredlanguages.com/lang/3281)\n[Livvi](https://grambank.clld.org/languages/livv1243)\n[Olonets Karelian](https://lexibank.clld.org/languages/northeuralex-olo)\nhttps://en.wikipedia.org/wiki/Livvi-Karelian_language\nhttps://www.wikidata.org/entity/Q36584"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cheremin:09**\n**cldf:ed:10**\n**cldf:efimenko:77**\n**cldf:kiuru:93:2**\n**cldf:klementev:83**\n**cldf:klementev:98**\n**cldf:kochkurkina:86**\n**cldf:kozlova:82**\n**cldf:lennrot:85**\n**cldf:lewis:ed:09**\n**cldf:majnov:77**\n**cldf:maksimov:97:3**\n**cldf:malmi:87**\n**cldf:markianova:02**\n**cldf:nikolskaja:klementev:ed:76**\n**cldf:np:nd:264**\n**cldf:semenov:ed:00:2**\n**cldf:surhasko:77**\n**cldf:surhasko:85**\n**cldf:taroeva:65**\n**cldf:tolstov:ed:64**\n**cldf:torikka:ed:09**\n**cldf:zherbin:ed:83**\n**hh:d:Makarov:Livvikovskij**\n**hh:dial:Virtaranta:Olonetzischen**\n**hh:hv:Virtaranta:Karelischen:1972**\n**hh:hvw:Latham:Comparative**\n**hh:sd:Genetz:Aunuksen**\n**hh:t:Ojansuu:Karjalan**\n**hh:w:Pallas:Vocabularia**\n**iso6393:2019-037**"
+  },
+  "altnames": {
+    "multitree": "\nAunus\nLivvi\nLivvikovian\nLivvikovskij Jazyk\nLivvin Kielie\nLivvisch\nLívõnkél\nOlonec\nOlonecian\nOlonets\nOlonetsian\nOlonetsiano\nOlonetsien\nOlonetzisch\nSouthern Karelian\nSüdwest-Karelisch\naunuksen kieli\naunus\nlivviki\nlivvikovskij\nlivvikovskij dialekt",
+    "lexvo": "\nLivvi [en]",
+    "hhbib_lgcode": "\nAunus\nLivvi-Karelian\nOlonets\nOlonetski\nOlonetzische",
+    "elcat": "\nAunuksenkarjalan kieli\nAunus\nLivvi\nLivvi Karelian\nLivvikovian\nLivvisch\nLívõnkél\nOlonec\nOlonecian\nOlonets\nOlonetzisch\nSouthern Karelian\nSouthern Olonetsian\nSüdwest-Karelisch\naunuksen kieli\nlivviki\nlivvikovskij jazyk\nlivvin kieli\nliygi\nливвиковский язык"
+  },
+  "triggers": {
+    "lgcode": "\nlivvikovskij\naunuksen"
+  },
+  "identifier": {
+    "multitree": "olo",
+    "endangeredlanguages": "3281"
+  },
+  "classification": {
+    "sub": "**hh:hv:Viitso:Fennic**",
+    "subrefs": "\n**hh:hv:Viitso:Fennic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Livvi (3281-olo) = Endangered (80 percent certain, based on the evidence available) (A few children in Russia learn the language, but most if not all of them become more fluent in Russian and largely stop using Olonetsian later in life. In Finland, there are a few thousand speakers, all elderly, and even those who are fluent in Olonetsian use mostly Finnish.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

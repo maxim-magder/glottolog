@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Mbonga",
+    "hid": "xmb",
+    "level": "language",
+    "iso639-3": "xmb",
+    "latitude": "5.7517",
+    "longitude": "13.6471",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mbonga](https://endangeredlanguages.com/lang/6031)\nhttps://www.wikidata.org/entity/Q36064\nhttps://en.wikipedia.org/wiki/Mboa_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hvw:Blench:Jarawan**\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hw:Strumpell:Adamauas**\n**hh:hw:Thomas:Bantu**\n**hh:lde:Mohammadou:Jarawan-Bantu**\n**hh:vld:Green:Jarawan**"
+  },
+  "altnames": {
+    "multitree": "\nMboa\nMbonga",
+    "lexvo": "\nMbonga [en]",
+    "hhbib_lgcode": "\nMboa\nMboa (östl. Kongola)",
+    "elcat": "\nMboa\nMbonga\nMboŋa"
+  },
+  "identifier": {
+    "multitree": "xmb",
+    "endangeredlanguages": "6031"
+  },
+  "classification": {
+    "sub": "**hh:hvw:MaddiesonWilliamson:Jarawan** **hh:hv:GreenGrollemund:Jarawan-Bantoid**",
+    "subrefs": "\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hv:GreenGrollemund:Jarawan-Bantoid**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mbonga (6031-xmb) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Oroqen",
+    "hid": "orh",
+    "level": "language",
+    "iso639-3": "orh",
+    "latitude": "50.6319",
+    "longitude": "125.017",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "RU"
+    ],
+    "links": "\n[Oroqen](https://endangeredlanguages.com/lang/1187)\n[Oroqen](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Oroqen)\n[Oroqen](https://lexibank.clld.org/languages/wold-Oroqen)\nhttps://en.wikipedia.org/wiki/Oroqen_language\nhttps://www.wikidata.org/entity/Q1367309"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:qiu:83**\n**cldf:salminen:00**\n**hh:g:Hu:Elunchun**\n**hh:g:Hu:Elunchun:2001**\n**hh:g:Ke:Nanmu-Elunchun**\n**hh:htyp:Coyaud:Monde-Chinois**\n**hh:hv:WhaleyLi:Oroqen**\n**hh:hv:Whaleyetal:Tungusic**\n**hh:s:Chaoke:Elunchun**\n**hh:s:Hu:Elunchunyu**\n**hh:s:Whaley:Orochen**\n**hh:s:Zhang:Elunchun**\n**hh:vw:Chaoke:Mantonggusi**\n**hh:w:Chaoke:Three-Evenki**\n**hh:w:Chaoke:Tungusic-China**\n**hh:w:Kotwicz:Tongous-Bargouzine**\n**hh:w:LiWhaley:Oroqen**\n**hh:w:Skurlatov:Tunguzskix**\n**mpieva:Hu1986Elunchun**"
+  },
+  "altnames": {
+    "lexvo": "\nOrokeneg [br]\nOrokenų kalba [lt]\nOroqen [en]\nOroqen language [en]\nОрогенски јазик [mk]\n鄂伦春语 [zh]",
+    "hhbib_lgcode": "\nBarguzin reindeer Tungus\nElunchun\nOrochen\nOron'chonskiya",
+    "elcat": "\nElunchun\nOlunchun\nOrochen\nOrochon\nOronchon\nOroqen\nOročon\nUlunchun\n鄂倫春語"
+  },
+  "triggers": {
+    "lgcode": "\noroqen\norochee\nelunchun"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Whaley:Tungusic**",
+    "subrefs": "\n**hh:hv:Whaley:Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "identifier": {
+    "endangeredlanguages": "1187"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Oroqen (1187-orh) = Severely Endangered (80 percent certain, based on the evidence available) [Moseley 2007](cldf:moseley:07)"
+  }
+}

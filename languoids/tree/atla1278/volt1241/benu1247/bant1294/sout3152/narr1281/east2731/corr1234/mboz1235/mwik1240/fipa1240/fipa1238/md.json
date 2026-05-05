@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Fipa",
+    "hid": "fip",
+    "level": "language",
+    "iso639-3": "fip",
+    "latitude": "-7.88963",
+    "longitude": "31.3442",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MW",
+      "TZ"
+    ],
+    "links": "\n[Fipa](https://grambank.clld.org/languages/fipa1238)\nhttps://en.wikipedia.org/wiki/Fipa_language\nhttps://phoible.org/languages/fipa1238\nhttps://www.wikidata.org/entity/Q667747"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:popplewell:37**\n**cldf:willis:66**\n**eballiso2009:14683**\n**eballiso2009:15144**\n**eballiso2009:16093**\n**eballiso2009:17850**\n**eballiso2009:1837**\n**eballiso2009:19903**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:26310**\n**eballiso2009:26505**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:31609**\n**eballiso2009:32534**\n**eballiso2009:3369**\n**eballiso2009:3385**\n**eballiso2009:36357**\n**eballiso2009:39408**\n**eballiso2009:42433**\n**eballiso2009:46128**\n**eballiso2009:48071**\n**eballiso2009:48214**\n**eballiso2009:49256**\n**eballiso2009:50699**\n**eballiso2009:51108**\n**eballiso2009:53083**\n**eballiso2009:53096**\n**eballiso2009:53112**\n**eballiso2009:53123**\n**eballiso2009:54476**\n**eballiso2009:55716**\n**eballiso2009:7057**\n**hh:e:Fromm:Ufipa**\n**hh:e:Willis:Fipa**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hew:Johnston:British-Central-Africa**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Ntenchi:Lungu-Fipa-Mambwe**\n**hh:hv:WalshSwilla:Corridor**\n**hh:hvw:Dempwolff:Deutsch-Ostafrika**\n**hh:hw:Last:Polyglotta**\n**hh:s:Struck:Fipa**\n**hh:w:Struck:Fipa**"
+  },
+  "altnames": {
+    "multitree": "\nCifipa\nFiba\nFipa\nIchifipa\nIcifipa\nKifipa",
+    "lexvo": "\nFipa [en]",
+    "hhbib_lgcode": "\nCile\nFipa M13\nKi-fipa\nKuulwe\nM13_Fipa"
+  },
+  "triggers": {
+    "lgcode": "\nfipasprache\nkifipa\nchifipa\nfipa\nmkulwe\nufipa"
+  },
+  "identifier": {
+    "multitree": "fip"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Roth:Wungu** **hh:hv:Nurse:SWTanzania**:91",
+    "subrefs": "\n**hh:hvw:Roth:Wungu**\n**hh:hv:Nurse:SWTanzania**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fipa (fip-fip) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Alune",
+    "hid": "alp",
+    "level": "language",
+    "iso639-3": "alp",
+    "latitude": "-3.11477",
+    "longitude": "128.394",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Alune](https://endangeredlanguages.com/lang/1329)\n[Alune](https://wals.info/languoid/lect/wals_code_aln)\nhttps://en.wikipedia.org/wiki/Alune_language\nhttps://www.wikidata.org/entity/Q3327367"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arka:12:1**\n**cldf:bellwood:95**\n**cldf:bennardo:ed:02:5**\n**cldf:boulan-smit:98**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:makaruku:97**\n**cldf:niggemeyer:51**\n**cldf:np:nd:264**\n**hh:d:Erniati:Alune**\n**hh:d:Sierevelt:Alune**\n**hh:e:Rusmaniar:Alune**\n**hh:e:deVries:West-Seran**\n**hh:hew:Ludeking:Amboina**\n**hh:hs:Tauern:Seran**\n**hh:hv:Collins:Maluku**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hv:Taguchi:WSeram**\n**hh:hvw:Collins:CMaluku**\n**hh:phon:TaguchiTaguchi:Alune**\n**hh:s:Florey:Alune**\n**hh:s:Kakerissa:Seram**\n**hh:s:Latueetal:Alune**\n**hh:s:Wattimury:Alune**\n**hh:soc:Florey:WSeram**\n**hh:st:Niggemeyer:Alune**\n**hh:vw:SanjokoErniati:Alune-Wemale**\n**hh:w:Stokhofetal:Holle:3:2**\n**sil16:19145**\n**sil16:36283**\n**sil16:38231**\n**sil16:38262**\n**sil16:38263**\n**sil16:38264**\n**sil16:38265**\n**sil16:38266**\n**sil16:38267**\n**sil16:38268**\n**sil16:38269**\n**sil16:38270**\n**sil16:38271**\n**sil16:38272**"
+  },
+  "altnames": {
+    "wals": "\nAlune",
+    "ruhlen (1987)": "\nAlune",
+    "moseley & asher (1994)": "\nAlune",
+    "multitree": "\nAlune\nPatasiwa Alfoeren\nSapalewa",
+    "lexvo": "\nAlune [en]",
+    "hhbib_lgcode": "\nBoeria\nBuriah\nKairatu\nLohiatala\nMakabale\nMoerinaten\nNikulkan\nNiniari-Piru\nRambetu\nRiring\nSapalewa\nUpper Sapolewa",
+    "elcat": "\nAlune\nPatasiwa Alfoeren\nSapalewa"
+  },
+  "triggers": {
+    "lgcode": "\ntimure\nlakai\nloture\ntekwa\nlekite\nrebe\nalune\nseran\nteluije"
+  },
+  "identifier": {
+    "wals": "aln",
+    "multitree": "alp",
+    "endangeredlanguages": "1329"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Alune (1329-alp) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

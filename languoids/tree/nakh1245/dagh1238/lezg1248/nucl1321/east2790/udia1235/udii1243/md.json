@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Udi",
+    "hid": "udi",
+    "level": "language",
+    "iso639-3": "udi",
+    "latitude": "40.9",
+    "longitude": "47.7236",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "GE",
+      "RU"
+    ],
+    "links": "\n[Udi](https://endangeredlanguages.com/lang/3011)\n[Udi](https://grambank.clld.org/languages/udii1243)\n[Udi](https://wals.info/languoid/lect/wals_code_udi)\nhttps://en.wikipedia.org/wiki/Udi_language\nhttps://www.wikidata.org/entity/Q36867"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alexidze:07**\n**cldf:boeder:ed:03:18**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dsganenkov:08**\n**cldf:ed:10**\n**cldf:evans:09:2**\n**cldf:gippert:schultze:etal:06**\n**cldf:harris:00**\n**cldf:holsky:tuite:ed:03:5**\n**cldf:humphreys:mits:ed:93**\n**cldf:np:nd:264**\n**cldf:schulze:02**\n**cldf:schulze:04**\n**cldf:schulze:17**\n**cldf:schulze:82**\n**cldf:simons;:fennig:ed:13**\n**cldf:stolz:96**\n**hh:g:Pancvidze:Udi**\n**hh:g:Schulze:Uden**\n**hh:he:Gardanov:Kavkaza:II**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Dirr:Udinskago**\n**hh:s:Schiefner:Uden**\n**hh:s:Schulze:Udi**\n**hh:sd:Gukasjan:Udinsko**\n**hh:std:Dzeiranisvili:Udi**\n**hh:std:Lolua:Udiuri**\n**hh:typ:Alekseev:Udinskij**\n**hh:typ:Harris:Udi**\n**hh:typ:MacLeod:Udi**\n**mpieva:Alekseev2008Udinskij**\n**mpieva:Schulze1982DieSprac**\n**mpieva:Schulze2001TheUdigo**\n**sil16:45461**\n**sil16:45574**\n**sil16:45582**\n**sil16:45583**"
+  },
+  "altnames": {
+    "wals": "\nUdi",
+    "ruhlen (1987)": "\nUdi",
+    "moseley & asher (1994)": "\nUdi",
+    "multitree": "\nOudi (Azerbaïdjan)\nUdi\nUdi (Géorgie)\nUdi (Rep. de Georgia)\nUdin\nUti",
+    "lexvo": "\nJęzyk udyjski [pl]\nLíngua udi [pt]\nOudi [fr]\nOudieg [br]\nUdi [en]\nUdi language [en]\nUdin [ca]\nUdin kieli [fi]\nUdinsk [no]\nUdische Sprache [de]\nУдинский язык [ru]\nУдиски јазик [mk]\nУдінська мова [uk]\nزبان اودی [fa]\nภาษาอูดี [th]",
+    "hhbib_lgcode": "\nUden\nUdiny",
+    "elcat": "\nUdi\nUdi dili\nUdin\nUti\nudin muz\nудин муз\nудинский язык\nუდიური ენა"
+  },
+  "triggers": {
+    "lgcode": "\nudiuri\nudinskago\ndagestanskich\nostkaukasischen\nuden\nudis\nudinsko\ndiakronie\nudi\nazerbajdzan\nudinskij"
+  },
+  "identifier": {
+    "wals": "udi",
+    "multitree": "udi",
+    "endangeredlanguages": "3011"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Schulze:Caucasian-Albanian-Udi**",
+    "subrefs": "\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Udi (3011-udi) = Endangered (100 percent certain, based on the evidence available) (There are relatively few child speakers. Until recently, Azerbaijani, Georgian and Russian were used exclusively in school, and they continue to be used for wider communication.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

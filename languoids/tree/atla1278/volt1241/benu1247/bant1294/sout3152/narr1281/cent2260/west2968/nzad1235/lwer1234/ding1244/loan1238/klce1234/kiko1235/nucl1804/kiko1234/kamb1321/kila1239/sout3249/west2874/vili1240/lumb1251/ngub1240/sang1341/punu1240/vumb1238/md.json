@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Vumbu",
+    "hid": "vum",
+    "level": "language",
+    "iso639-3": "vum",
+    "latitude": "-2.17673",
+    "longitude": "10.6498",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\n[Vumbu](https://endangeredlanguages.com/lang/531)\nhttps://www.wikidata.org/entity/Q36629\nhttps://en.wikipedia.org/wiki/Vumbu_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:200",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:ed:10**\n**eballiso2009:31133**\n**eballiso2009:37061**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Mouguiama-Daouda:Gabon**\n**hh:hvld:Raponda:Gabon**\n**hh:phon:Miganga:Givoungou**"
+  },
+  "altnames": {
+    "multitree": "\nVumba\nVumbu\nYivoumbou",
+    "lexvo": "\nVumbu [en]",
+    "hhbib_lgcode": "\nBavungu\nGivoungou\nVungu\nVungu (Givungu)\nVungu 1 B47\nVungu 2 B47",
+    "elcat": "\nVumbu\nYivoumbou"
+  },
+  "triggers": {
+    "lgcode": "\nvungu"
+  },
+  "identifier": {
+    "multitree": "vum",
+    "endangeredlanguages": "531"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Vumbu (531-vum) = Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

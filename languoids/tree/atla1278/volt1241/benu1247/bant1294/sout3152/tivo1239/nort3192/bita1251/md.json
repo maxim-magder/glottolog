@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bitare",
+    "hid": "brt",
+    "level": "language",
+    "iso639-3": "brt",
+    "latitude": "6.87398",
+    "longitude": "11.3072",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34946\nhttps://en.wikipedia.org/wiki/Bitare_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**hh:hew:Meek:Tribal:II**\n**hh:hvw:Blench:Tivoid**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:w:Blench:Abo-Njwande**\n**hh:w:Koops:Baissa**"
+  },
+  "altnames": {
+    "multitree": "\nBitare\nNjwande\nYukutare",
+    "lexvo": "\nBitare [en]",
+    "hhbib_lgcode": "\nBitare of Yukutare\nNjwande\nNjwande Kararuwa\nNzuande"
+  },
+  "triggers": {
+    "lgcode": "\nnjwande"
+  },
+  "identifier": {
+    "multitree": "brt"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:Tivoid**",
+    "subrefs": "\n**hh:hvw:Blench:Tivoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bitare (brt-brt) = 6a* (Vigorous)."
+  }
+}

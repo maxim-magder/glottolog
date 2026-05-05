@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kupsabiny",
+    "hid": "kpz",
+    "level": "language",
+    "iso639-3": "kpz",
+    "latitude": "1.33197",
+    "longitude": "34.5991",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "UG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56445\nhttps://en.wikipedia.org/wiki/Kupsabiny_language\nhttps://phoible.org/languages/kups1238\n[Sebei](https://wals.info/languoid/lect/wals_code_seb)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:montgomery:70**\n**cldf:roscoe:24**\n**hh:e:Weatherby:Sebei**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:s:Montgomery:Sebei**\n**hh:s:OBrienCuypers:Sebei**\n**hh:soc:Kawachi:Kupsapiny**"
+  },
+  "altnames": {
+    "wals": "\nSebei",
+    "wals other": "\nSapiny",
+    "ruhlen (1987)": "\nSapiny",
+    "moseley & asher (1994)": "\nSapiny",
+    "multitree": "\nKupsabiny\nSapei\nSapiny\nSebei",
+    "lexvo": "\nKupsabiny [en]",
+    "hhbib_lgcode": "\nKony\nKupsapiiny\nSapiny\nSebei in Uganda\nSebei of Kaproron Uganda"
+  },
+  "triggers": {
+    "lgcode": "\nNOT les AND moissala AND mbai\nsebei\nkupsapiny"
+  },
+  "identifier": {
+    "wals": "seb",
+    "multitree": "kpz"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kupsapiiny (kpz-kpz) = 5 (Developing)."
+  }
+}

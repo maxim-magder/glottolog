@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Awyi",
+    "hid": "auw",
+    "level": "language",
+    "iso639-3": "auw",
+    "latitude": "-3.00564",
+    "longitude": "140.604",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Awyi](https://endangeredlanguages.com/lang/1353)\n[Awyi](https://lexibank.clld.org/languages/transnewguineaorg-awyi)\n[Awyi](https://wals.info/languoid/lect/wals_code_awy)\nhttps://en.wikipedia.org/wiki/Awyi_language\nhttps://www.wikidata.org/entity/Q3513326"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:623**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:e:Koentjaraningrat:Irian-Jaya**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:Voorhoeve:Miscellaneous**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:ld:Galis:NNG**\n**hh:w:Laycock:D18**\n**hh:w:Stokhof:Holle:5:2**\n**hh:w:Stroeve:Niederlandisch-Neu-Guinea**"
+  },
+  "altnames": {
+    "wals": "\nAwyi",
+    "wals other": "\nAwji",
+    "ruhlen (1987)": "\nAwyi",
+    "moseley & asher (1994)": "\nAwyi",
+    "multitree": "\nAviú\nAwje\nAwji\nAwye\nAwyi\nBeapawa\nEmbiawo\nNjao\nNyao",
+    "lexvo": "\nAwyi [en]",
+    "hhbib_lgcode": "\nAwi\nAwje\nAwji\nAwji-Njao\nAwya\nAwyi (Vo)\nBeapawa\nKwime\nKwimé\nNjao",
+    "elcat": "\nAuyi\nAwje\nAwji\nAwye\nAwyi\nBeapawa\nEmbiawo\nNjao\nNyao"
+  },
+  "triggers": {
+    "lgcode": "\nxavante AND pequeno"
+  },
+  "identifier": {
+    "wals": "awy",
+    "multitree": "auw",
+    "endangeredlanguages": "1353"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Voorhoeve:CWTNG** **hh:hvld:DonohueCrowther:NCNG**",
+    "subrefs": "\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvld:DonohueCrowther:NCNG**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Awyi (1353-auw) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

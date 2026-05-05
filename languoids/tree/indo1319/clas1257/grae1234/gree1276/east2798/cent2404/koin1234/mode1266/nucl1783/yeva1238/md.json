@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yevanic",
+    "hid": "yej",
+    "level": "language",
+    "iso639-3": "yej",
+    "latitude": "31.801",
+    "longitude": "35.1084",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GR"
+    ],
+    "links": "\n[Yevanic](https://endangeredlanguages.com/lang/3201)\nhttps://en.wikipedia.org/wiki/Yevanic\nhttps://www.wikidata.org/entity/Q34200",
+    "timespan": "2000-01-01/2000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:krivoruchko:02**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:DalvenAslanov:Judeo-Greek**\n**hh:ld:Gold:Yevanic**\n**hh:lde:Connerty:Judeo-Greek**\n**hh:ldsoc:Connerty:Judeo-Greek**\n**hh:ldsoc:Krivoruchko:Judeo-Greek**\n**hh:ldsoc:Krivoruchko:Judeo-Greek:2015**\n**hh:s:Blaxou:Gebanikes**\n**hh:t:Lange:Greek-Jewish**\n**hh:t:Matsas:Evraika**\n**hh:vld:Kerem:Judeo-Greek**"
+  },
+  "altnames": {
+    "multitree": "\nJudeo-Greek\nYevanic\nYevanitika",
+    "lexvo": "\nYevanic [en]",
+    "hhbib_lgcode": "\nFrom ca 10th century",
+    "elcat": "\nJudeo-Greek\nRomaniote\nRomaniyot\nYevanic\nYevanitika"
+  },
+  "triggers": {
+    "lgcode": "\ntika\ngiannio\nevraika\ntragoudia\ngenizah\nyevanic"
+  },
+  "identifier": {
+    "multitree": "yej",
+    "endangeredlanguages": "3201"
+  },
+  "classification": {
+    "sub": "**hh:ldsoc:Krivoruchko:Judeo-Greek**",
+    "subrefs": "\n**hh:ldsoc:Krivoruchko:Judeo-Greek**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yevanic (3201-yej) = Dormant [Krivoruchko 2002](cldf:krivoruchko:02)"
+  }
+}

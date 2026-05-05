@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Creek",
+    "hid": "mus",
+    "level": "language",
+    "iso639-3": "mus",
+    "latitude": "33.83557",
+    "longitude": "-85.64162",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Creek](https://grambank.clld.org/languages/cree1270)\n[Creek](https://wals.info/languoid/lect/wals_code_crk)\n[Muskogee](https://endangeredlanguages.com/lang/2007)\n[Seminole](https://wals.info/languoid/lect/wals_code_smn)\nhttps://en.wikipedia.org/wiki/Muscogee_language\nhttps://www.wikidata.org/entity/Q523014"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bartram:53**\n**cldf:booker:88**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dixon:aikhenvald:ed:00:2**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:haas:77**\n**cldf:hardy:92**\n**cldf:hardy:94**\n**cldf:hewitt:39**\n**cldf:lewis:ed:09**\n**cldf:martin:91:3**\n**cldf:martin:93**\n**cldf:martin:94**\n**cldf:martin:johnson:02**\n**cldf:martin:mauldin:00**\n**cldf:martin:mauldin:etal:11**\n**cldf:moseley:07**\n**cldf:murdock:56**\n**cldf:np:nd:264**\n**cldf:speck:07**\n**cldf:swanton:15**\n**cldf:swanton:28:1**\n**cldf:swanton:28:2**\n**cldf:swanton:28:4**\n**cldf:swanton:46**\n**haspelmath:hardy_totkv_2009**\n**haspelmath:martin_how_2010**\n**hh:d:Loughridge:Muskokee**\n**hh:d:MartinMauldin:Creek**\n**hh:e:MacCauley:Seminole**\n**hh:g:BucknerHerrod:Creek**\n**hh:g:Hardy:Creek**\n**hh:g:Innesetal:Creek**\n**hh:g:Innesetal:Creek:Beginning**\n**hh:g:Martin:Creek**\n**hh:g:Nathan:Creek**\n**hh:s:Hardy:Creek**\n**hh:w:Brinton:Muskokee**\n**hh:w:Schoolcraft:Vocabularies:1854**\n**hh:w:Smith:Seminole**\n**ldh:item_402031**\n**mpieva:2005Nativela**\n**mpieva:Buckner1860Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nCreek\nSeminole",
+    "ruhlen (1987)": "\nCreek",
+    "moseley & asher (1994)": "\nMuskogee",
+    "multitree": "\nCreek\nCreek-Seminole\nMaskoke\nMaskoki Proper\nMuskogee\nMuskoguí\nMuskokee\nNorthern Muskogean\nSeminole",
+    "lexvo": "\nCreek [en]\nCreek language [en]\nCreekin kieli [fi]\nIdioma creek [es]\nJęzyk krik [pl]\nMaskoki simi [qu]\nMuskogeeg [br]\nMvskoke [mus]\nmuskogee [fr]\nКрикский язык [ru]\n克里克语 [zh]",
+    "hhbib_lgcode": "\nFlorida Seminole Dialect of Creek\nMuskogee\nMuskogee or Creek\nMuskokee\nSeminole",
+    "elcat": "\nCreek\nCreek-Seminole\nMaskoke\nMaskoki Proper\nMuskogee\nNorthern Muskogean\nSeminole"
+  },
+  "triggers": {
+    "lgcode": "\nmuskogee\nmakasuke\nseminole\nmaskwke\nmuskokee"
+  },
+  "identifier": {
+    "wals": "smn;crk",
+    "multitree": "mus",
+    "endangeredlanguages": "2007"
+  },
+  "classification": {
+    "sub": "**hh:hv:Martin-Munro:Proto-Muskogean**",
+    "subrefs": "\n**hh:hv:Martin-Munro:Proto-Muskogean**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Muskogee (2007-mus) = Severely Endangered (80 percent certain, based on the evidence available) (As of 2001, the youngest speaker in Oklahoma was 18, the youngest in Florida 44. Creek is routinely used among those in their 60s and above, and is also widely used at church services, for hymns, and for ceremonial speeches.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mapia",
+    "hid": "mpy",
+    "level": "language",
+    "iso639-3": "mpy",
+    "latitude": "0.908889",
+    "longitude": "134.304722",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mapia](https://endangeredlanguages.com/lang/2714)\nhttps://www.wikidata.org/entity/Q3287224\nhttps://en.wikipedia.org/wiki/Mapia_language",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:el:Bender:Mapian**\n**hh:hvw:Jackson:Trukic**\n**hh:hw:Galis:NNG**\n**hh:w:Kijne:Mapia**\n**hh:w:Stokhofetal:Holle:11**"
+  },
+  "altnames": {
+    "multitree": "\nMapia\nMapian",
+    "lexvo": "\nMapia [en]",
+    "hhbib_lgcode": "\nOld Mapia from Kubary",
+    "elcat": "\nMapia\nMapian"
+  },
+  "triggers": {
+    "lgcode": "\nmapia\nmapian"
+  },
+  "identifier": {
+    "multitree": "mpy",
+    "endangeredlanguages": "2714"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jackson:Trukic**",
+    "subrefs": "\n**hh:hvw:Jackson:Trukic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mapia (2714-mpy) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

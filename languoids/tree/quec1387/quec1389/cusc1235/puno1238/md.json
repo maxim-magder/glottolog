@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Puno Quechua",
+    "hid": "qxp",
+    "level": "language",
+    "iso639-3": "qxp",
+    "latitude": "-14.608",
+    "longitude": "-70.2084",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Puno](https://lexibank.clld.org/languages/crossandean-Puno)\nhttps://en.wikipedia.org/wiki/Puno_Quechua\nhttps://www.wikidata.org/entity/Q7260479"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Quechua_cuzqueno-boliviano021**\n**fabreall2009ann:Quechua_cuzqueno-boliviano024**\n**fabreall2009ann:Quechua_cuzqueno-boliviano033**\n**fabreall2009ann:Quechua_cuzqueno-boliviano034**\n**fabreall2009ann:Quechua_cuzqueno-boliviano037**\n**fabreall2009ann:Quechua_cuzqueno-boliviano041**\n**fabreall2009ann:Quechua_cuzqueno-boliviano043**\n**hh:hv:Blum:Quechua**\n**hh:soc:Lopez:Puno**\n**hh:t:Buttner:Puno**\n**hh:t:Soto:Qheshwa-Puno**\n**hh:vld:Adelaar:Quechua-Puno**\n**mpieva:Hancco2005Simipirw**"
+  },
+  "altnames": {
+    "multitree": "\nColla\nCollao\nCuzco-Collao\nPuno Quechua\nQuechua Collao\nQuechua Qollaw\nQuechua cuzqueño\nQuechua de Cuzco\nQuechua, Puno\nSouthern Kechua",
+    "lexvo": "\nPuno Quechua [en]",
+    "hhbib_lgcode": "\nPuno\nQuechua-Puno"
+  },
+  "triggers": {
+    "lgcode": "\nunay\nqollasuyu\naymarismos\npirwa\npachas\nqheshwa\naranwaykuna"
+  },
+  "identifier": {
+    "multitree": "qxp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Landerman:Quechua**:260-261 **hh:hv:Adelaar:Andes**:183-188",
+    "subrefs": "\n**hh:hv:Landerman:Quechua**\n**hh:hv:Adelaar:Andes**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Quechua, Puno (qxp-qxp) = 4 (Educational)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sea Island Creole English",
+    "hid": "gul",
+    "level": "language",
+    "iso639-3": "gul",
+    "latitude": "33.6632",
+    "longitude": "-79.6036",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Gullah](https://apics-online.info/contributions/13)\n[Gullah-Geechee](https://endangeredlanguages.com/lang/10943)\nhttps://en.wikipedia.org/wiki/Gullah_language\nhttps://www.wikidata.org/entity/Q33395"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:campbell:11:3**\n**cldf:carrier:90**\n**cldf:crum:40**\n**cldf:cunningham:92:2**\n**cldf:hopkins:06**\n**cldf:hopkins:94**\n**cldf:jones:88:1**\n**cldf:jonesjackson:78**\n**cldf:klein:09**\n**cldf:mcheux:21**\n**cldf:montgomery:94**\n**cldf:mufwene:86:2**\n**cldf:nichols:83**\n**cldf:turner:49**\n**cldf:weldon:03**\n**cldf:weldon:06**\n**cldf:weldon:07**\n**cldf:wolfram:21**\n**hh:d:Geraty:Gulluh**\n**hh:hv:Vass:Bantu-United-States**\n**hh:hvw:Hancock:Anglophone**\n**hh:s:BaileyAna:Chicano-English**\n**hh:s:Cunningham:Gullah**\n**hh:s:Cunningham:SeaIsland**\n**hh:s:Klein:Gullah**\n**hh:s:Mufwene:Gullah**\n**hh:typ:Hopkins:Afro-Cuban-Gullah**\n**hh:typ:Weldon:AAVE-Gullah**\n**hh:typsoc:Jackson:Gullah**\n**hh:v:HackertHuber:Gullah**\n**sil16:49291**"
+  },
+  "altnames": {
+    "multitree": "\nGeechee\nGulla\nGullah\nSea Island Creole English",
+    "lexvo": "\nGulaoj [eo]\nGullah [de]\nGullah jezik [hr]\nGullah language [en]\nLingua Gullah [la]\nSea Island Creole English [en]\nガラ語 [ja]\n古拉人種 [zh]",
+    "hhbib_lgcode": "\nGullah\nSea Islands",
+    "elcat": "\nGeechee\nGullah\nGullah-Geechee\nSea Island Creole"
+  },
+  "triggers": {
+    "lgcode": "\nbahamas\ngullah"
+  },
+  "identifier": {
+    "multitree": "gul",
+    "endangeredlanguages": "10943"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sea Island English Creole (gul-gul) = 6b* (Threatened)."
+  }
+}

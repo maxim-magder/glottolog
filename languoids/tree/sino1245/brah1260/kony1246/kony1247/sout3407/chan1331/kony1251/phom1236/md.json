@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Phom Naga",
+    "hid": "nph",
+    "level": "language",
+    "iso639-3": "nph",
+    "latitude": "26.4715",
+    "longitude": "94.7476",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Phom](https://lexibank.clld.org/languages/marrisonnaga-Phom)\n[Phom Naga](https://endangeredlanguages.com/lang/5680)\n[Phom Naga](https://grambank.clld.org/languages/phom1236)\nhttps://en.wikipedia.org/wiki/Phom_language\nhttps://www.wikidata.org/entity/Q7187109"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3964**\n**cldf:ed:10**\n**cldf:np:01:1**\n**hh:d:Kumaretal:Phom**\n**hh:g:Bano:Phom**\n**hh:g:Bano:Phom:2017**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvphon:French:Northern-Naga**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:ld:BanoSingh:Phom**\n**hh:ld:Kumar:Phom**\n**hh:phon:SinghBano:Phom**\n**hh:wphon:BurlingPhom:Phom**"
+  },
+  "altnames": {
+    "multitree": "\nChingmengnu\nChingmengu\nNaga, Phom\nNaga,Phom\nPhom\nPhon\nTamlu\nTamlu Naga\nTśingmegnu",
+    "lexvo": "\nPhom Naga [en]",
+    "hhbib_lgcode": "\nAssiringia\nNaga-Phom\nPhom",
+    "elcat": "\nChingmengnu\nChingmengu\nNaga\nPhom\nPhom Naga\nPhon\nTamlu\nTamlu Naga\nTśingmegnu"
+  },
+  "triggers": {
+    "lgcode": "\nmesolanguage\nphom"
+  },
+  "identifier": {
+    "multitree": "nph",
+    "endangeredlanguages": "5680"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDam:Patkaian-Northern-Naga** **hh:hv:vanDam:Patkaian** **hh:hv:Burling:NEIndia** **hh:hv:Bernhardt:Northern-Naga**",
+    "subrefs": "\n**hh:hv:Burling:NEIndia**\n**hh:hv:vanDam:Patkaian-Northern-Naga**\n**hh:hv:Bernhardt:Northern-Naga**\n**hh:hv:vanDam:Patkaian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Phom Naga (5680-nph) = Vulnerable (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Khumi Chin",
+    "hid": "cnk",
+    "level": "language",
+    "iso639-3": "cnk",
+    "latitude": "22.87125",
+    "longitude": "92.9894633333",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Khumi](https://lexibank.clld.org/languages/sohartmannchin-Khumi)\n[Khumi](https://wals.info/languoid/lect/wals_code_khu)\n[Khumi Chin](https://grambank.clld.org/languages/khum1248)\nhttps://en.wikipedia.org/wiki/Khumi_language\nhttps://www.wikidata.org/entity/Q56308"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:grierson:ed:95:8**\n**hh:e:loffler:Mru-Khumi**\n**hh:hvw:Grierson:3:III**\n**hh:hvw:Hodgson:Indo-Chinese**\n**hh:hvw:Thang:Chin**\n**hh:s:Mang:Khumi**\n**hh:s:Peterson:Khumi**\n**hh:typ:Peterson:Khumi**\n**hh:w:Houghton:Kami**\n**hh:w:Loffler:Khami**\n**hh:wld:Stilson:Kemi**\n**hh:wsoc:Kimetal:Kuki-Chin**"
+  },
+  "altnames": {
+    "wals": "\nKhumi",
+    "wals other": "\nKhami",
+    "ruhlen (1987)": "\nKhumi",
+    "moseley & asher (1994)": "\nKhumi",
+    "multitree": "\nChin (Khumi)\nChin, Khumi\nChin,Khumi\nKhami\nKhimi\nKhumi\nKhuni\nKhweymi\nNgala",
+    "lexvo": "\nKhumi Chin [en]",
+    "hhbib_lgcode": "\nAreng\nAwa\nBangladesh Khumi\nChin-Khumi\nKami\nKhami\nKhumi\nRuma Bazaar-Bandarban Hill Tracts\nS Khami"
+  },
+  "triggers": {
+    "lgcode": "\nkhumi\nkhimi\nkemi"
+  },
+  "identifier": {
+    "wals": "khu",
+    "multitree": "cnk"
+  },
+  "classification": {
+    "sub": "**hh:g:Hartmann:Daai-Chin**:25-26 **hh:hv:Peterson:Kuki-Chin:2017**",
+    "subrefs": "\n**hh:g:Hartmann:Daai-Chin**\n**hh:hv:Peterson:Kuki-Chin:2017**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chin, Khumi (cnk-cnk) = 5 (Developing)."
+  }
+}

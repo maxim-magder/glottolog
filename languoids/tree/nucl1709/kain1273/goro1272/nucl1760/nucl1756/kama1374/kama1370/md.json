@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kamano",
+    "hid": "kbq",
+    "level": "language",
+    "iso639-3": "kbq",
+    "latitude": "-6.25829",
+    "longitude": "145.728",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kamano](https://grambank.clld.org/languages/kama1370)\n[Kamano](https://lexibank.clld.org/languages/transnewguineaorg-kamano)\n[Kamano-Kafe](https://wals.info/languoid/lect/wals_code_kak)\nhttps://en.wikipedia.org/wiki/Kamano_language\nhttps://www.wikidata.org/entity/Q11732272"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4356**\n**hh:e:Levine:Kafe**\n**hh:e:Zuckerman:Kamano**\n**hh:hld:Lean:EHighlands**\n**hh:hv:Ford:Kamano-Yagaria**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Wurm:ECTNG**\n**hh:hvw:Capell:CHighlands**\n**hh:hvw:Scott:East-Central**\n**hh:s:PayneDrew:Kamano**\n**hh:s:PayneDrew:Kamano:1966**\n**mpieva:Payne1966Kamanola**\n**sil16:12839**\n**sil16:14665**\n**sil16:14666**\n**sil16:14667**\n**sil16:14668**\n**sil16:14669**\n**sil16:14670**\n**sil16:14671**\n**sil16:14672**\n**sil16:14673**\n**sil16:14674**\n**sil16:14676**\n**sil16:14677**\n**sil16:14678**\n**sil16:14679**\n**sil16:14680**\n**sil16:14681**\n**sil16:14682**\n**sil16:14683**\n**sil16:14684**\n**sil16:14685**\n**sil16:14686**\n**sil16:15597**\n**sil16:17699**\n**sil16:17700**\n**sil16:17701**\n**sil16:17702**\n**sil16:17704**\n**sil16:21111**\n**sil16:21352**\n**sil16:22125**\n**sil16:23102**\n**sil16:23393**\n**sil16:47807**\n**sil16:48015**\n**sil16:48956**\n**sil16:49241**\n**sil16:49242**\n**sil16:49243**\n**silpng:silpng2004:134**\n**silpng:silpng2004:64**"
+  },
+  "altnames": {
+    "wals": "\nKamano-Kafe",
+    "ruhlen (1987)": "\nKamano",
+    "moseley & asher (1994)": "\nKamano",
+    "multitree": "\nKamano\nKamano-Kafe",
+    "lexvo": "\nKamano [en]",
+    "hhbib_lgcode": "\nHófaɣa\nKafe\nKamano (Kafe)\nKanite-Yagaria"
+  },
+  "triggers": {
+    "lgcode": "\ntorane\nluther\nayoka\nvano\nuntaona\nkamano\nhamprio\nNOT pp AND kamano\nvaheti"
+  },
+  "identifier": {
+    "wals": "kak",
+    "multitree": "kbq"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:WurmLaycock:NG**",
+    "subrefs": "\n**hh:hvsoc:WurmLaycock:NG**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kamano (kbq-kbq) = 6b (Threatened)."
+  }
+}

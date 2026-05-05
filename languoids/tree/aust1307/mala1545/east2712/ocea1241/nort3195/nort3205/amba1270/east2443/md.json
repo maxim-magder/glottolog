@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "East Ambae",
+    "hid": "omb",
+    "level": "language",
+    "iso639-3": "omb",
+    "latitude": "-15.3523",
+    "longitude": "167.89",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ambae (Lolovoli Northeast)](https://wals.info/languoid/lect/wals_code_aml)\n[Ambae, East (Wailengi)](https://lexibank.clld.org/languages/abvdoceanic-AmbaeEastWailengi)\n[East Ambae](https://grambank.clld.org/languages/east2443)\nhttps://en.wikipedia.org/wiki/East_Ambae_language\nhttps://www.wikidata.org/entity/Q2841471"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2349**\n**asjp2010:2465**\n**asjp2010:3998**\n**cldf:dixon:y:ed:04:2**\n**hh:g:Hyslop:Lolovoli**\n**hh:g:Hyslop:Lolovoli:1998**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Oba**\n**hh:s:Ivens:Lobaha**"
+  },
+  "altnames": {
+    "wals": "\nAmbae (Lolovoli Northeast)",
+    "wals other": "\nAmbae (Lolovoli)\nNorth-East Ambae (Lolovoli)",
+    "ruhlen (1987)": "\nAoban (Northeast)",
+    "moseley & asher (1994)": "\nAoban (Northeast)",
+    "multitree": "\n(Lolovoli Northeast)\nAmbae\nAmbae, East\nAoba\nNortheast Ambae\nNortheast Aoba\nOba\nOmba\nWalurigi",
+    "lexvo": "\nEast Ambae [en]\nEast Ambae language [en]",
+    "hhbib_lgcode": "\nAmbae-East\nLobaha\nLolomatui\nLolsiwoi\nLongana\nNortheast Ambae\nOba\nOba esp from Walurigi\nWailengi"
+  },
+  "triggers": {
+    "lgcode": "\nlobaha\nlolovoli\nlepers\nambae"
+  },
+  "identifier": {
+    "wals": "aml",
+    "multitree": "omb"
+  },
+  "classification": {
+    "sub": "**hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ambae, East (omb-omb) = 6a (Vigorous)."
+  }
+}

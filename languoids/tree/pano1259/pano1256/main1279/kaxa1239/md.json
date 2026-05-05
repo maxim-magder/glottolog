@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kaxararí",
+    "hid": "ktx",
+    "level": "language",
+    "iso639-3": "ktx",
+    "latitude": "-9.47288",
+    "longitude": "-66.3329",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kaxararí](https://endangeredlanguages.com/lang/3100)\nhttps://www.wikidata.org/entity/Q6380124\nhttps://en.wikipedia.org/wiki/Kasharari_language\nhttps://phoible.org/languages/kaxa1239"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3746**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Pano-Takana_kaxariri1**\n**fabreall2009ann:Pano-Takana_kaxariri2**\n**fabreall2009ann:Pano-Takana_kaxariri3**\n**fabreall2009ann:Pano-Takana_kaxariri4**\n**fabreall2009ann:Pano-Takana_kaxariri5**\n**hh:e:Maso:Cachararys**\n**hh:h:Ribeiro:Brazil:1967**\n**hh:hb:deAguiar:Pano**\n**hh:hsoc:deAguiar:Panoan**\n**hh:hvb:Fleck:Panoan**\n**hh:hvld:deOliveira:Proto-Pano**\n**hh:hvphon:Lanes:Pano**\n**hh:phon:Beksta:Kaxarari**\n**hh:phon:Castro:Kaxarari**\n**hh:phon:Cavalcante:Kaxarari**\n**hh:phon:Couto:Kaxarari**\n**hh:w:Pickering:Kaxariri**"
+  },
+  "altnames": {
+    "glottolog": "\nKaxarari",
+    "multitree": "\nCacharari\nKashararí\nKaxarari\nKaxararí\nKaxariri",
+    "lexvo": "\nKaxararí [en]",
+    "hhbib_lgcode": "\nKaxarari",
+    "elcat": "\nCacharari\nKashararí\nKaxarari\nKaxararí\nKaxariri"
+  },
+  "triggers": {
+    "lgcode": "\ncachararys\nkaxariri\nkaxarari\njutai"
+  },
+  "identifier": {
+    "multitree": "ktx",
+    "endangeredlanguages": "3100"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kaxararí (3100-ktx) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

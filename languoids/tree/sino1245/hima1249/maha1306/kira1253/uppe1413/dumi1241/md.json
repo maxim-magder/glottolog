@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Dumi",
+    "hid": "dus",
+    "level": "language",
+    "iso639-3": "dus",
+    "latitude": "27.45849",
+    "longitude": "86.75699",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Dumi](https://endangeredlanguages.com/lang/4113)\n[Dumi](https://grambank.clld.org/languages/dumi1241)\n[Dumi](https://wals.info/languoid/lect/wals_code_dmi)\nhttps://en.wikipedia.org/wiki/Dumi_language\nhttps://www.wikidata.org/entity/Q56315"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bynon:98**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:driem:88**\n**cldf:ed:10**\n**cldf:kulikov:ed:98:2**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:trommer:03**\n**hh:d:Rai:Dumi**\n**hh:g:Rai:Dumi**\n**hh:g:Rai:Dumi:2016**\n**hh:g:vanDriem:Dumi**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:I**\n**hh:soc:Rai:Dumi**\n**hh:st:Rai:Dumi**\n**hh:w:Hodgson:Kirantis**\n**mpieva:268**\n**sil16:41773**"
+  },
+  "altnames": {
+    "wals": "\nDumi",
+    "moseley & asher (1994)": "\nDumi",
+    "multitree": "\nDumi\nDumi Bo'o\nDumi Bro\nDumí\nLsi Rai\nRai\nRo'do Bo'\nSotmali",
+    "lexvo": "\nDoumeg [br]\nDumi [en]\nDumi language [en]\nDumish [gv]",
+    "elcat": "\nDumi\nDumi Bo'o\nDumi Bro\nLsi Rai\nRai\nRo'do Bo'\nSotmali"
+  },
+  "triggers": {
+    "lgcode": "\ndumi"
+  },
+  "identifier": {
+    "wals": "dmi",
+    "multitree": "dus",
+    "endangeredlanguages": "4113"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:61",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dumi (4113-dus) = Critically Endangered (100 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

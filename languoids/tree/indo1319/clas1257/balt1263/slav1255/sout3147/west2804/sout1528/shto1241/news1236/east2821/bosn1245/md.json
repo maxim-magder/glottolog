@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Bosnian Standard",
+    "hid": "bos",
+    "level": "dialect",
+    "iso639-3": "bos",
+    "latitude": "43.859",
+    "longitude": "17.046",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BA",
+      "HR",
+      "ME",
+      "RS"
+    ],
+    "links": "\n[Bosnian](https://wals.info/languoid/lect/wals_code_bos)\nhttps://en.wikipedia.org/wiki/Bosnian_language\nhttps://www.wikidata.org/entity/Q9303"
+  },
+  "sources": {
+    "glottolog": "\n**mpieva:Benson1998Standard**\n**mpieva:Hamm1975Grammati**\n**mpieva:Skaljic1957Turcizmi**"
+  },
+  "altnames": {
+    "wals": "\nBosnian",
+    "wals other": "\nSerbo-Croatian (Bosnian)",
+    "ruhlen (1987)": "\nSerbo-Croat",
+    "moseley & asher (1994)": "\nSerbo-Croatian",
+    "multitree": "\nBosnian\nCroate de Molise\nCroate du Burgenland\nSerbian-Croatian\nTorlak",
+    "lexvo": "\nBahasa Bosnia [id]\nBasa Bosnia [jv]\nBosanski jezik [bs]\nBosanščina [sl]\nBosenština [cs]\nBosnia lingvo [eo]\nBosniagiella [se]\nBosnian [en]\nBosnian kieli [fi]\nBosnian language [en]\nBosniačtina [sk]\nBosnieg [cy]\nBosnien [fr]\nBosniera [eu]\nBosnies [af]\nBosniešu valoda [lv]\nBosnisch [nl]\nBosnische Sprache [de]\nBosnisk [no]\nBosniska [sv]\nBosniu [ast]\nBosniya dili [az]\nBosnià [ca]\nBosnišćina [hsb]\nBosnių kalba [lt]\nBosnyák nyelv [hu]\nBoşnakça [tr]\nBošnjački jezik [hr]\nBusna simi [qu]\nGjuha boshnjake [sq]\nIdioma bosnio [es]\nJęzyk bośniacki [pl]\nLenga bosnian-a [pms]\nLengua bosniaca [lij]\nLimba bosniacă [ro]\nLingua bosniaca [it]\nLingua bosníaca [gl]\nLingua busniaca [co]\nLíngua bósnia [pt]\nPinulongang Bosniyo [ceb]\nWikang Bosniyo [tl]\nbosniaque [fr]\nБаснійская мова [be]\nБасьнійская мова [be]\nБо́сньскъ ѩꙁꙑ́къ [cu]\nБосански јазик [mk]\nБоснийский язык [ru]\nБоснійська мова [uk]\nБошняшки език [bg]\nБошњачки језик [sr]\nԲոսնիերեն [hy]\nבוסנית [he]\nبوسنىيە تىلى [ug]\nزبان بوسنیایی [fa]\nلغة بوسنية [ar]\nボスニア語 [ja]\n波斯尼亚语 [zh]\n보스니아어 [ko]",
+    "glottolog": "\nBosnian"
+  },
+  "triggers": {
+    "lgcode": "\ncroatian\ncroat\nserbocroat\nserbokroatischen\nserbocroatischen"
+  },
+  "identifier": {
+    "wals": "bos",
+    "multitree": "bos"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic**",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Torlak (1026-bos, hrv, srp) = Vulnerable; Burgenland Croatian (1350-bos, hrv, srp) = Definitely endangered; Molise Croatian (1349-bos, hrv, srp) = Severely endangered"
+  }
+}

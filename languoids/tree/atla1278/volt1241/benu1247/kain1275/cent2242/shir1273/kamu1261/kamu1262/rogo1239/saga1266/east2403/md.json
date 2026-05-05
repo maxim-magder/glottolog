@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Eastern Acipa",
+    "hid": "acp",
+    "level": "language",
+    "iso639-3": "acp",
+    "latitude": "10.7104",
+    "longitude": "6.0105",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5329945\nhttps://en.wikipedia.org/wiki/Eastern_Acipa_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:GunnConant:Middle-Niger**\n**hh:hsoc:Yoder:Yara**\n**hh:hwsoc:DettweilerDettweiler:Kamuku**"
+  },
+  "altnames": {
+    "multitree": "\nAchipa\nAcipa, Eastern\nAcipanci\nSagamuk",
+    "lexvo": "\nEastern Acipa [en]",
+    "hhbib_lgcode": "\nAchipawa\nAtsifawa or Achipawa\nBobi\nRandeggi\nSagamuk\nZubazuba"
+  },
+  "triggers": {
+    "lgcode": "\nkamuku"
+  },
+  "identifier": {
+    "multitree": "acp"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Acipa, Eastern (acp-acp) = 6a* (Vigorous)."
+  }
+}

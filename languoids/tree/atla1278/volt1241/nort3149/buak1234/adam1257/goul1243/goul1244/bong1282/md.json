@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bon Gula",
+    "hid": "glc",
+    "level": "language",
+    "iso639-3": "glc",
+    "latitude": "10.6577",
+    "longitude": "19.5774",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Bon Gula](https://endangeredlanguages.com/lang/10430)\nhttps://www.wikidata.org/entity/Q289816\nhttps://en.wikipedia.org/wiki/Bon_Gula_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nodjibogoto:wagner:91**\n**eballiso2009:15481**\n**eballiso2009:1869**\n**eballiso2009:37597**\n**eballiso2009:54759**\n**hh:hv:Boyeldieu:Boua**\n**hh:hv:Boyeldieu:Boua:1988**\n**hh:hv:Boyeldieu:Vestiges**\n**hh:s:Mouchet:Gula**\n**hh:wsoc:FarisMeundeung:Bon-Goula**"
+  },
+  "altnames": {
+    "multitree": "\nBon\nBon Goula\nBon Gula\nBun\nGula Guera\nPoun\nTaataal",
+    "lexvo": "\nBon Gula [en]",
+    "hhbib_lgcode": "\nBon",
+    "elcat": "\nBon\nBon Goula\nBon Gula\nBun\nGula Guera\nPoun\nTaataal\nÊeni"
+  },
+  "triggers": {
+    "lgcode": "\nnellim\nboum\ntounia"
+  },
+  "identifier": {
+    "multitree": "glc",
+    "endangeredlanguages": "10430"
+  },
+  "classification": {
+    "sub": "**hh:phont:Pairault:Kulaal**:12-13 **hh:s:Kastenholz:Bolgo**:2 **hh:hv:Boyeldieu:Bua:2018**",
+    "subrefs": "\n**hh:hv:Boyeldieu:Bua:2018**\n**hh:phont:Pairault:Kulaal**\n**hh:s:Kastenholz:Bolgo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bon Gula (10430-glc) = Threatened (20 percent certain, based on the evidence available) [Boyeldieu 1988](cldf:boyeldieu:88)"
+  }
+}

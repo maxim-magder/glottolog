@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mussau-Emira",
+    "hid": "emi",
+    "level": "language",
+    "iso639-3": "emi",
+    "latitude": "-1.44105",
+    "longitude": "149.624",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mussau](https://lexibank.clld.org/languages/abvdoceanic-Mussau)\n[Mussau](https://wals.info/languoid/lect/wals_code_mus)\n[Mussau-Emira](https://endangeredlanguages.com/lang/2277)\n[Mussau-Emira](https://grambank.clld.org/languages/muss1246)\nhttps://en.wikipedia.org/wiki/Mussau-Emira_language\nhttps://www.wikidata.org/entity/Q6943093"
+  },
+  "sources": {
+    "glottolog": "\n**bowern:smyzgr75**\n**cldf:bellwood:95**\n**cldf:blust:84:2**\n**cldf:brownie:12**\n**cldf:calculator:14**\n**cldf:chinnery:28**\n**cldf:clark:08:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lynch:ross:etal:ed:02:18**\n**cldf:nevermann:10**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:parkinson:10**\n**hh:ew:Chinnery:EMira-StMatthias**\n**hh:g:BrownieBrownie:Mussau**\n**hh:he:Nevermann:Matthias**\n**hh:hv:Ross:WMelanesia**\n**hh:hw:Zgraggen:Admiralty**\n**hh:s:Ross:Mussau**\n**hh:vw:Brownie:Mussau-Emira**\n**hh:w:Blust:Mussau**\n**hh:w:Chinnery:Pakena**\n**sil16:51124**\n**silpng:silpng2001-2003:23**\n**silpng:silpng2001-2003:264**"
+  },
+  "altnames": {
+    "wals": "\nMussau",
+    "ruhlen (1987)": "\nEmira-Mussau",
+    "moseley & asher (1994)": "\nMussau",
+    "multitree": "\nEmira\nEmira-Mussau\nMusao\nMusau-Emira\nMussau\nMussau-Emira\nMussau-emira",
+    "lexvo": "\nMussau-Emira [en]\nMussau-Emira language [en]\nMussau-emira [hr]",
+    "hhbib_lgcode": "\nEastern Mussau\nEmira\nMusau\nMussau\nSouthern Mussau\nSqually\nSt Matthias and Emir\nStorm Island\nWestern Mussau",
+    "elcat": "\nEmira-Mussau\nMusao\nMusau-Emira\nMussau\nMussau-Emira"
+  },
+  "triggers": {
+    "lgcode": "\nNOT the AND mussau\nmatthias\nmussau"
+  },
+  "identifier": {
+    "wals": "mus",
+    "multitree": "emi",
+    "endangeredlanguages": "2277"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mussau-Emira (2277-emi) = Threatened (60 percent certain, based on the evidence available) (The language is under pressure from Tok Pisin, which tends to be preferred by young speakers and children.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

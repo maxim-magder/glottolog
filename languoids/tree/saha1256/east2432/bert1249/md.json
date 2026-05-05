@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Berti",
+    "hid": "byt",
+    "level": "language",
+    "iso639-3": "byt",
+    "latitude": "14.67",
+    "longitude": "25.83",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35008\nhttps://en.wikipedia.org/wiki/Berti_language",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:13623**\n**eballiso2009:23161**\n**eballiso2009:23415**\n**hh:e:Holy:Berti**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hel:Sommer:Survey**\n**hh:hv:Petracek:CSaharan**\n**hh:phon:Petracek:Berti**\n**hh:s:Petracek:Berti**\n**hh:v:Petracek:Berti**\n**hh:w:MacMichael:Darfur**\n**hh:w:Petracek:Berti**"
+  },
+  "altnames": {
+    "multitree": "\nBerti",
+    "lexvo": "\nBerti [en]"
+  },
+  "triggers": {
+    "lgcode": "\nberti"
+  },
+  "identifier": {
+    "multitree": "byt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cyffer:Saharanischen**",
+    "subrefs": "\n**hh:hv:Cyffer:Saharanischen**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Berti (1695-byt) = Extinct"
+  }
+}

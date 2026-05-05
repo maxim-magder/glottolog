@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Waata",
+    "hid": "ssn",
+    "level": "language",
+    "iso639-3": "ssn",
+    "latitude": "-3.25406",
+    "longitude": "40.03761",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Oromo (Waata)](https://wals.info/languoid/lect/wals_code_orw)\n[Sanye](https://endangeredlanguages.com/lang/4787)\nhttps://en.wikipedia.org/wiki/Waata_language\nhttps://www.wikidata.org/entity/Q3501553"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:owens:85:1**\n**eballiso2009:25378**\n**eballiso2009:33914**\n**hh:dial:Stroomer:Oromo**\n**hh:e:Bashuna:Waata**\n**hh:e:Bassi:Waata**\n**hh:e:Cerulli:Watta**\n**hh:e:Champion:Wasanye**\n**hh:e:Gabbert:Arbore-Wata**\n**hh:e:Holman:Liangulo**\n**hh:e:Holman:Liangulu**\n**hh:e:Kassam:Waata**\n**hh:e:KassamBashuna:Waata**\n**hh:e:KassamBashuna:Waata:Etic-Emic**\n**hh:e:Parker:Waliangulo**\n**hh:e:Ville:Waata**\n**hh:e:Ville:Waata:2006**\n**hh:e:Walsh:Waata:2023**\n**hh:ew:Hobley:Ariangulu**\n**hh:h:Banti:Low-Caste**\n**hh:hvs:Stroomer:Oromo-Kenya**\n**hh:s:Heine:Waata**\n**hh:s:Tucker:SanyeBoni**\n**hh:typ:Stroomer:Boraana-Orma-Waata**\n**iso6393:2007-168**"
+  },
+  "altnames": {
+    "wals": "\nOromo (Waata)",
+    "wals other": "\nWaata\nWaata Oromo",
+    "ruhlen (1987)": "\nOromo (Waata)",
+    "moseley & asher (1994)": "\nOromo",
+    "multitree": "\nAriangulu\nLangulo\nOromo (Waata)\nSanya\nSanye\nWaat\nWaata\nWasanye",
+    "lexvo": "\nWaata [en]",
+    "hhbib_lgcode": "\nAriangulo\nAriangulu\nLiangulo\nLiangulu in the Tsavo area\nWa-Langulu or Ariangulu of the Taru Desert is very close to Galla\nWaata of Gedi (10 miles south of Malindi in Kilifi District in Coast Province) now farmers\nWaliangulo\nWáttā",
+    "elcat": "\nAriangulu\nLangulo\nOromo (Waata)\nSanya\nSanye\nWaat\nWaata\nWasanye"
+  },
+  "triggers": {
+    "lgcode": "\nlelephant\ntsavo\ntaru\nwasanye\nlangulu\nwata\nariangulu\ngalana\nwando\nidentitaire\nliangulo"
+  },
+  "identifier": {
+    "wals": "orw",
+    "multitree": "ssn",
+    "endangeredlanguages": "4787"
+  },
+  "classification": {
+    "sub": "**hh:s:Heine:Waata**:13-17",
+    "subrefs": "\n**hh:s:Heine:Waata**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sanye (4787-ssn) = Vulnerable (20 percent certain, based on the evidence available) (The number of speakers is increasing.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

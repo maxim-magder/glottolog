@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Maridjabin",
+    "hid": "zmj",
+    "level": "language",
+    "iso639-3": "zmj",
+    "latitude": "-13.8754",
+    "longitude": "129.844",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Maridjabin](https://endangeredlanguages.com/lang/1908)\nhttps://www.wikidata.org/entity/Q10577274\nhttps://en.wikipedia.org/wiki/Marri_Tjevin"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hs:Tryon:Daly**\n**hh:hw:Tryon:Daly**"
+  },
+  "altnames": {
+    "multitree": "\nMaredyerbin\nMaretyaben\nMaretyabin\nMaridjabin\nMaridyerbin\nMarisyabin\nMarityabin\nMarri Jabin\nMarri Tjevin\nMarrijebin\nMarrisjefin\nMarritjevin\nMarrityabin\nMurindjabin\nMurindzabin\nMurintja-bin\nMurintjabin\nMurintjaran\nNgangityaben\nTanggural\nTangural",
+    "lexvo": "\nMaridjabin [en]",
+    "hhbib_lgcode": "\nMaretyabin\nMarityabin\nTangural\ndialect of Maridjabin",
+    "elcat": "\nMaredyerbin\nMaretyaben\nMaretyabin\nMaridjabin\nMaridyerbin\nMarisyabin\nMarityabin\nMarri Jabin\nMarri Tjevin\nMarrijebin\nMarrisjefin\nMarritjevin\nMarrityabin\nMurindjabin\nMurindzabin\nMurintja-bin\nMurintjabin\nMurintjaran\nNgangityaben\nTanggural\nTangural"
+  },
+  "triggers": {
+    "lgcode": "\naustralia AND languages AND daly"
+  },
+  "identifier": {
+    "multitree": "zmj",
+    "endangeredlanguages": "1908"
+  },
+  "classification": {
+    "sub": "**hh:hs:Tryon:Daly**",
+    "subrefs": "\n**hh:hs:Tryon:Daly**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maridjabin (1908-zmj) = Critically Endangered (100 percent certain, based on the evidence available) (There is no literacy in it. ... The language is moribund.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

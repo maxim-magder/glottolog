@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bomboma",
+    "hid": "bws",
+    "level": "language",
+    "iso639-3": "bws",
+    "latitude": "2.40195",
+    "longitude": "18.7841",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Bomboma](https://grambank.clld.org/languages/bomb1262)\nhttps://en.wikipedia.org/wiki/Bomboma_language\nhttps://www.wikidata.org/entity/Q9229429"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:2496**\n**hh:g:Toronzoni:Bomboma**\n**hh:g:Toronzoni:Bomboma:1985**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:deBoeck:Classification**\n**hh:hvld:FultzMorgan:Ubangi-Mongala**\n**hh:s:Mangulu:Ebuku**\n**mpieva:Toronzoni198485Descript**"
+  },
+  "altnames": {
+    "multitree": "\nBoba\nBomboma",
+    "lexvo": "\nBomboma [en]",
+    "hhbib_lgcode": "\nBangiri\nEbuku\nLikao\nLikau C30Lka\nLikaw\nLingonda\nLingonda and Ebuku\nLingundu"
+  },
+  "triggers": {
+    "lgcode": "\nebuku\nzone AND bomboma\nbomboma"
+  },
+  "identifier": {
+    "multitree": "bws"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:158-189",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bomboma (bws-bws) = 6b (Threatened)."
+  }
+}

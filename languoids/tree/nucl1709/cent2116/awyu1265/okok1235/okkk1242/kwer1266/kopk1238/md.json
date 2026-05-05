@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kopkaka",
+    "hid": "opk",
+    "level": "language",
+    "iso639-3": "opk",
+    "latitude": "-4.91191",
+    "longitude": "139.926",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kopkaka](https://endangeredlanguages.com/lang/10686)\nhttps://www.wikidata.org/entity/Q6431129\nhttps://en.wikipedia.org/wiki/Kopka_language"
+  },
+  "classification": {
+    "sub": "**hh:phon:Wilbrink:Kopkaka**",
+    "subrefs": "\n**hh:phon:Wilbrink:Kopkaka**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hvw:Wilbrink:Kopkaka**\n**hh:phon:Wilbrink:Kopkaka**\n**hh:w:Mukhamdanah:Tokuni**"
+  },
+  "altnames": {
+    "multitree": "\nKopka\nKopkaka",
+    "lexvo": "\nKopkaka [en]",
+    "hhbib_lgcode": "\nKopkaka-UNCEN-SIL\nMarub\nTokuni",
+    "elcat": "\nKopka\nKopkaka"
+  },
+  "triggers": {
+    "lgcode": "\nkopkaka"
+  },
+  "identifier": {
+    "multitree": "opk",
+    "endangeredlanguages": "10686"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kopkaka (10686-opk) = Endangered (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

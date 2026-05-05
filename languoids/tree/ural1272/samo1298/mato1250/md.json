@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mator-Taigi-Karagas",
+    "hid": "mtm",
+    "level": "language",
+    "iso639-3": "mtm",
+    "latitude": "53.403",
+    "longitude": "92.9339",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q20669419",
+    "timespan": "1839-01-01/1839-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Adelungetal:Mithridates:1**\n**hh:hvb:Hajdu:Samoyed**\n**hh:hvtyp:Janhunen:Samoyedic**\n**hh:s:Xelimskij:Matorsko**\n**hh:sd:Helimski:Matorische**\n**mpieva:Helimski1997DieMator**"
+  },
+  "altnames": {
+    "multitree": "\nKaragas\nMator\nMotor\nSayan Samoyed\nSayan Samoyedic\nTaigi",
+    "lexvo": "\nLingua mator [it]\nMator [en]\nMator language [en]\nMator nyelv [hu]\nMatora lingvo [eo]\nMatoreg [br]\nMatorigiella [se]\nMatorin kieli [fi]\nMatorische Sprache [de]\nMatorish [gv]\nMatorisk språk [nn]\nMatorų kalba [lt]\nМаторски јазик [mk]\nМаторский язык [ru]",
+    "hhbib_lgcode": "\nKaragas\nKaragassen-Taiginzen\nMator"
+  },
+  "triggers": {
+    "lgcode": "\nmatorische\ntajgijsko\nkaragasskij\nmatorsko"
+  },
+  "identifier": {
+    "multitree": "mtm"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Janhunen:Samoyedic**",
+    "subrefs": "\n**hh:hvtyp:Janhunen:Samoyedic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mator (488-) = Extinct"
+  }
+}

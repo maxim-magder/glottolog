@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Heiltsuk-Oowekyala",
+    "hid": "hei",
+    "level": "language",
+    "iso639-3": "hei",
+    "latitude": "51.7045",
+    "longitude": "-127.221",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Háiɫzaqvḷa (Heiltsuk)](https://endangeredlanguages.com/lang/2377)\n[Heiltsuk](https://wals.info/languoid/lect/wals_code_hei)\n[Heiltsuk-Oowekyala](https://grambank.clld.org/languages/heil1246)\nhttps://en.wikipedia.org/wiki/Heiltsuk%E2%80%93Oowekyala_language\nhttps://www.wikidata.org/entity/Q5699507"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:howe:00**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**hh:e:Hilton:Haihais**\n**hh:hew:Tyloretal:North-Western-Canada**\n**hh:hvd:Fortescue:Wakashan**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:LincolnRath:North-Wakashan**\n**hh:hw:Scouler:NWCoast**\n**hh:phon:Howe:Oowekyala**\n**hh:phon:Rath:Heiltsuk**\n**hh:sd:Rath:Heiltsuk**\n**hh:w:GibbsDall:Northwest-Vocabularies**"
+  },
+  "altnames": {
+    "wals": "\nHeiltsuk",
+    "moseley & asher (1994)": "\nHeiltsuk",
+    "multitree": "\nBelbellah\nBella Bella\nHeilchuco\nHeiltsuk\nHeiltsuk-Oowekyala",
+    "lexvo": "\nHeiltsuk [en]",
+    "hhbib_lgcode": "\nBella Bella\nHa-ilt-zukh\nHaeeltsuk\nHaeeltzuk\nHaihais\nHeiltsuk\nKlemtu\nOoweekeeno\nOowekyala",
+    "elcat": "\nBelbellah\nBella Bella\nHáiɫzaqvḷa (Heiltsuk)\nHeiltsuk\nHeiltsuk-Oowekyala\nHeiltsuk-Oweek'ala"
+  },
+  "triggers": {
+    "lgcode": "\nheiltsuk\noowekyala"
+  },
+  "identifier": {
+    "wals": "hei",
+    "multitree": "hei",
+    "endangeredlanguages": "2377"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stonham:Wakashan**, **hh:hv:Campbell:1997**, **hh:hvd:Fortescue:Wakashan**",
+    "subrefs": "\n**hh:hvd:Fortescue:Wakashan**\n**hh:hv:Stonham:Wakashan**\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Háiɫzaqvḷa (Heiltsuk) (2377-hei) = critically endangered"
+  }
+}

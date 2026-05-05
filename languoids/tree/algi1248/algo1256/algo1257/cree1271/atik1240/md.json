@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Atikamekw",
+    "hid": "atj",
+    "level": "language",
+    "iso639-3": "atj",
+    "latitude": "47.9555",
+    "longitude": "-73.7989",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Atikamekw](https://wals.info/languoid/lect/wals_code_ati)\n[Attikamek](https://endangeredlanguages.com/lang/1673)\nhttps://en.wikipedia.org/wiki/Atikamekw_language\nhttps://www.wikidata.org/entity/Q56590"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**hh:e:McNultyGilbert:Attikamek**\n**hh:g:Beland:Atikamekw**\n**hh:hvw:Valentine:Ojibwe**\n**hh:s:Cooper:Tete-de-Boule**\n**iso6393:2024-015**\n**sil16:17037**\n**sil16:17038**\n**sil16:17039**\n**sil16:17040**\n**sil16:17041**\n**sil16:17042**\n**sil16:17043**\n**sil16:17047**\n**sil16:17048**\n**sil16:24777**"
+  },
+  "altnames": {
+    "wals": "\nAtikamekw",
+    "wals other": "\nAttikamek",
+    "multitree": "\nAtihkamekw\nAtikamek\nAtikamekw\nAttikamek\nAttikamekw\nAttimewk\nCree\nTête de Boule",
+    "lexvo": "\nAtikamekw [en]\nAtikamekw language [en]\nAtikamekweg [br]\nLingua Atikamekw [la]\nАтикамек [ru]",
+    "hhbib_lgcode": "\nAttikamek",
+    "elcat": "\nAtihkamekw\nAtikamek\nAtikamekw\nAttikamek\nAttikamekw\nAttimewk\nCree\nTête de Boule"
+  },
+  "triggers": {
+    "lgcode": "\nmarerimakaniwitc\natimw\nweckatc\nsisipaskotiriw\natikamekw\nboule\nkokom\nockinikiw\ntante"
+  },
+  "identifier": {
+    "wals": "ati",
+    "multitree": "atj",
+    "endangeredlanguages": "1673"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Attikamek (1673-atj) = Vulnerable (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

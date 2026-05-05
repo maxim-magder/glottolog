@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nukuini",
+    "hid": "nuc",
+    "level": "language",
+    "iso639-3": "nuc",
+    "latitude": "-7.339",
+    "longitude": "-73.5044",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Nukini](https://endangeredlanguages.com/lang/10427)\nhttps://www.wikidata.org/entity/Q3346231\nhttps://en.wikipedia.org/wiki/Nukini_language\nhttps://phoible.org/languages/nuku1263",
+    "timespan": "2013-01-01/2013-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dejesusgomes:09**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Pano-Takana_nukuini0**\n**hh:e:Batista:Nukini**\n**hh:h:RivetTastevin:Purus-Jurua**\n**hh:h:Tastevin:Jurua**\n**hh:h:Tastevin:Moa**\n**hh:he:Tastevin:Jurua**\n**hh:hsoc:deAguiar:Panoan**\n**hh:hvb:Fleck:Panoan**\n**hh:phon:Okidoi:Nukini**\n**hh:w:deAguiar:Nukini**"
+  },
+  "altnames": {
+    "lexvo": "\nNukuini [en]",
+    "hhbib_lgcode": "\nNucuinis (ne vivaient que de chasse)\nNukini\nNukuinis\nles Nukuinis",
+    "elcat": "\nInukuini\nNucuini\nNukini\nNuquini"
+  },
+  "triggers": {
+    "lgcode": "\nnootka\nahousaht\nnutka\nnuuchahnulth\nnukini\nnootkan\nNOT e AND NOT los AND NOT do AND acre"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "identifier": {
+    "endangeredlanguages": "10427"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nukini (10427-nuc) = Dormant (A few remember it.) [Fleck 2013](cldf:fleck:13)"
+  }
+}

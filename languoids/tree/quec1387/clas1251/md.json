@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Classical Quechua",
+    "hid": "qwc",
+    "level": "language",
+    "iso639-3": "qwc",
+    "latitude": "-9.99999",
+    "longitude": "-76.5",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Classical_Quechua\nhttps://www.wikidata.org/entity/Q35882",
+    "timespan": "1560-01-01/1560-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:deSanto:Quechua**\n**hh:gd:deSanto:Quichua:1560**\n**hh:t:Itier:Quechua**"
+  },
+  "altnames": {
+    "multitree": "\nClassical Quechua\nImperial Kechua\nQuechua, Classical",
+    "lexvo": "\nClassical Quechua [en]",
+    "hhbib_lgcode": "\nLa variedad extinta de quechua descrita por Domingo de Santo Thomas en 1560 (generalmente asociada con la costa central del Perú) también pertenecía al grupo Quechua IIB\nQuechua-Classical"
+  },
+  "triggers": {
+    "lgcode": "\nsacramental\nmedrano\nendimion\nrobo\nespinosa\nproserpina"
+  },
+  "identifier": {
+    "multitree": "qwc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Adelaar:Andes**:183-188 **hh:hv:Landerman:Quechua** **hh:hv:Grimes:Quechua**:274-279",
+    "subrefs": "\n**hh:hv:Adelaar:Andes**\n**hh:hv:Landerman:Quechua**\n**hh:hv:Grimes:Quechua**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Quechua, Classical (qwc-qwc) = 10 (Extinct)."
+  }
+}

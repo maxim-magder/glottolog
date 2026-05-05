@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mising-Padam-Miri-Minyong",
+    "hid": "mrg",
+    "level": "language",
+    "iso639-3": "mrg",
+    "latitude": "27.418",
+    "longitude": "94.69",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Mising](https://endangeredlanguages.com/lang/4707)\nhttps://www.wikidata.org/entity/Q3316328\nhttps://en.wikipedia.org/wiki/Mising_language\n[Miri (Hill):](https://wals.info/languoid/lect/wals_code_mhl)\n[Mising](https://wals.info/languoid/lect/wals_code_msg)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:duttabaruah:ed:97:4**\n**cldf:ed:10**\n**cldf:grierson:ed:95:15**\n**cldf:lewis:ed:09**\n**cldf:miri:ed:03:1**\n**cldf:np:01:1**\n**cldf:np:nd:264**\n**cldf:taid:03**\n**hh:d:Lorrain:Abor-Miri**\n**hh:e:Lal:Lower-Siang**\n**hh:e:Roy:Padam-Minyong**\n**hh:ew:Chutia:Nyishi**\n**hh:g:Borang:Adi**\n**hh:g:Needham:Shaiyang**\n**hh:g:Prasad:Mising**\n**hh:he:Dutta:Arunachal**\n**hh:hew:Grewal:Arunachal**\n**hh:hv:Marrison:Adi-Dafla**\n**hh:hv:PostSun:Tani**\n**hh:hvld:Sun:Tani**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Simon:Arunachal**\n**hh:ld:DasGupta:Arunachal**\n**hh:ld:DasGupta:Minyong**\n**hh:phon:Nigam:Padam**\n**hh:phon:Taid:Mising**\n**hh:s:Dubey:Minyong**\n**hh:s:Tayeng:Padam**\n**hh:sd:Taid:Mising**\n**hh:soc:Das:Mising-Assamese**\n**hh:typ:Doley:Gender-Mising**\n**hh:typ:Doley:Number-Mising**\n**hh:typ:DoleyPost:Mising-Classifiers**\n**hh:w:Kumar:Minyong**\n**iso6393:2010-002**\n**mpieva:Dutta1997Language**"
+  },
+  "altnames": {
+    "wals": "\nMising",
+    "wals other": "\nMiri",
+    "ruhlen (1987)": "\nMiri",
+    "multitree": "\nHill Miri\nMiri\nMishing\nMising\nTakam",
+    "lexvo": "\nMiri [en]",
+    "hhbib_lgcode": "\nAbor\nAdi-Padam in East-Siang District\nMinyong\nMiri\nMising\nPadam\nPadam and Mising\nPadam-Adi\nPadam-Minyong\nPangin Minyong",
+    "elcat": "\nMiri\nMishing\nMising\nPlains Miri\nTakam"
+  },
+  "triggers": {
+    "lgcode": "\nmising\nshaiyang\npadam"
+  },
+  "identifier": {
+    "wals": "mhl;msg",
+    "multitree": "mrg",
+    "endangeredlanguages": "4707"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mising (4707-mrg) = At risk (20 percent certain, based on the evidence available) [n.a. 2001](cldf:np:01:1)"
+  }
+}

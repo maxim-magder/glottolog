@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Watakataui",
+    "hid": "wtk",
+    "level": "language",
+    "iso639-3": "wtk",
+    "latitude": "-4.58965",
+    "longitude": "143.005",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Watakataui](https://endangeredlanguages.com/lang/10618)\nhttps://www.wikidata.org/entity/Q7972975\nhttps://en.wikipedia.org/wiki/Watakataui_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Yamada:Wahei:1989**\n**hh:e:Yamada:Wahei:1991**\n**hh:e:Yamada:Waxei**\n**hh:e:Yamada:Waxei:1995**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:lde:Yamada:Waxei:1997**"
+  },
+  "altnames": {
+    "multitree": "\nWatakataui\nWaxe",
+    "lexvo": "\nWatakataui [en]",
+    "elcat": "\nWatakataui\nWaxe\nWaxei",
+    "hhbib_lgcode": "\nWahei\nWaxei"
+  },
+  "triggers": {
+    "lgcode": "\nwaxei"
+  },
+  "identifier": {
+    "multitree": "wtk",
+    "endangeredlanguages": "10618"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bruce:Middle-Sepik**:472-519 (on lexicostatistical grounds and consistent with sound changes)",
+    "subrefs": "\n**hh:hvld:Bruce:Middle-Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Watakataui (10618-wtk) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

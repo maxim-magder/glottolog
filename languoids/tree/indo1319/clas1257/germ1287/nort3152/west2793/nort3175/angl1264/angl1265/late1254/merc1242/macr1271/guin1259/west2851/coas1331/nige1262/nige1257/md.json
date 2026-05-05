@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Nigerian Pidgin",
+    "hid": "pcm",
+    "level": "language",
+    "iso639-3": "pcm",
+    "latitude": "9.65873",
+    "longitude": "4.21068",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Nigerian Pidgin](https://apics-online.info/contributions/17)\n[Nigerian Pidgin](https://wals.info/languoid/lect/wals_code_npi)\nhttps://en.wikipedia.org/wiki/Nigerian_Pidgin\nhttps://phoible.org/languages/nige1257\nhttps://www.wikidata.org/entity/Q33655"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baker:ed:96**\n**cldf:faraclas:85:1**\n**cldf:faraclas:86**\n**cldf:igboanusi:ed:01:2**\n**cldf:marchese:shnukal:82**\n**cldf:mazzoli:13**\n**cldf:mcworther:ed:00:7**\n**cldf:udofot:02**\n**eballiso2009:10835**\n**eballiso2009:1187**\n**eballiso2009:1192**\n**eballiso2009:12218**\n**eballiso2009:12359**\n**eballiso2009:12659**\n**eballiso2009:16011**\n**eballiso2009:16012**\n**eballiso2009:18645**\n**eballiso2009:1912**\n**eballiso2009:20890**\n**eballiso2009:21360**\n**eballiso2009:2355**\n**eballiso2009:2392**\n**eballiso2009:24135**\n**eballiso2009:25121**\n**eballiso2009:31833**\n**eballiso2009:31834**\n**eballiso2009:32182**\n**eballiso2009:33804**\n**eballiso2009:3542**\n**eballiso2009:35567**\n**eballiso2009:36598**\n**eballiso2009:38278**\n**eballiso2009:40338**\n**eballiso2009:42193**\n**eballiso2009:42194**\n**eballiso2009:43008**\n**eballiso2009:43364**\n**eballiso2009:43369**\n**eballiso2009:43800**\n**eballiso2009:43903**\n**eballiso2009:44505**\n**eballiso2009:47838**\n**eballiso2009:5049**\n**eballiso2009:53476**\n**eballiso2009:54051**\n**eballiso2009:54309**\n**eballiso2009:56735**\n**eballiso2009:56737**\n**eballiso2009:57313**\n**eballiso2009:5762**\n**eballiso2009:5764**\n**eballiso2009:58667**\n**eballiso2009:856**\n**hh:g:Faraclas:Nigerian-Pidgin**\n**hh:g:Faraclas:Nigerian-Pidgin:1989**\n**hh:hvld:Yakpo:West-African-Pidgin**\n**hh:ld:Faraclas:Nigerian-Pidgin**\n**hh:ld:MarcheseSchnukal:Pidgin-Warri**\n**hh:ld:Shnukal-Marchese:Nigerian-Pidgin**\n**hh:s:Agheyidi:West-African-Pidgin**\n**hh:s:Faraclas:Nigerian-Pidgin**\n**hh:s:Faraclas:Nigerian-Pidgin:2004**\n**hh:s:Regal:Pidgin-Englisch**\n**hh:s:Walker:Nigerian-Pidgin-English**\n**hh:soc:Deuber:Nigerian-Pidgin**\n**hh:soc:Oloruntoba:Nigerian-Pidgin**\n**hh:ssoc:Barbag-Stoll:Nigerian-Pidgin**\n**hh:ssoc:Elugbe-Omamor:Nigerian-Pidgin**\n**hh:typ:Faraclas:Rivers-Pidgin**\n**hh:typ:Obilade:West-African-Pidgin**\n**sil16:47451**"
+  },
+  "triggers": {
+    "lgcode": "\npidgin AND nigerian"
+  },
+  "identifier": {
+    "wals": "npi",
+    "languagelandscape": "http://languagelandscape.org/language/Nigerian%20Pidgin"
+  },
+  "classification": {
+    "sub": "**hh:svsoc:Huber:Ghanaian**:75-129 **hh:hvld:Yakpo:West-African-Pidgin**",
+    "subrefs": "\n**hh:hvld:Yakpo:West-African-Pidgin**\n**hh:svsoc:Huber:Ghanaian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pidgin, Nigerian (pcm-pcm) = 3 (Wider communication). De facto language of national identity. The Portuguese were the first Europeans to make contact with the region now a part of modern-day Nigeria. Portuguese (more specifically, Old Galician-Portuguese) served as the foundation upon which the later influence of British English was laid for Nigerian Pidgin. Lingua franca across Nigeria."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nNigerian Pidgin English\nPidgin Englisch in Nigeria"
+  }
+}

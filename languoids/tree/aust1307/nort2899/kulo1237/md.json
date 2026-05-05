@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Pazeh-Kahabu",
+    "hid": "pzh",
+    "level": "language",
+    "iso639-3": "pzh",
+    "latitude": "23.7562",
+    "longitude": "120.976",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Kulon-Pazeh](https://grambank.clld.org/languages/kulo1237)\n[Pazeh-Kaxabu](https://endangeredlanguages.com/lang/9629)\nhttps://en.wikipedia.org/wiki/Pazeh_language\nhttps://www.wikidata.org/entity/Q36435"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aahangehawuyuquanqiuzixunwang:nd**\n**cldf:ed:10**\n**cldf:li:tsuchida:02**\n**cldf:linhongrui:13**\n**cldf:linhongruilim:16**\n**cldf:linyingjinlin:00**\n**cldf:meng-ching:pan:14**\n**cldf:np:15:2**\n**cldf:np:16:1**\n**cldf:np:nd:264**\n**cldf:panyongli:ed:15**\n**hh:d:LiTsuchida:Pazih**\n**hh:g:Lin:Baze**\n**hh:hew:Davidson:Formosa**\n**hh:hld:Muller:Formosa**\n**hh:phon:Lim:Gahawu**\n**hh:s:Blust:Pazeh**\n**hh:s:Ferrell:Pazeh**\n**hh:s:Li:Pazeh-Syntax**\n**hh:t:Li:Pazih**\n**hh:t:LiTsuchida:Bazai**\n**hh:typ:Li:Pazih**\n**hh:w:Li:Formosan:2004**\n**iso6393:2021-042**"
+  },
+  "altnames": {
+    "multitree": "\nKulon-Pazeh\nKulun\nPazeh\nSprache von Formosa",
+    "lexvo": "\nKulon-Pazeh [en]\nLingua Pazeh [it]\nPazeh [fr]\nPazeh language [en]\nパゼッヘ語 [ja]\n巴宰語 [zh]",
+    "hhbib_lgcode": "\nBazai\nBaze\nGahawu\nKaxabu\nPazeh\nPazeh-Kaxabu\nPazih\nPazzehe\nPei Po Pazzehe",
+    "glottolog": "\nKulon-Pazeh",
+    "elcat": "\nKahabu\nKaxabu\nKulon\nKulon-Pazeh\nKulon-Pazih\nKulun\nPazeh\nPazeh-Kaxabu\nPazehe\nPazih\nPazzehe\nSprache von Formosa\n噶哈巫語\n巴宰語"
+  },
+  "triggers": {
+    "lgcode": "\npazeh\nkahabu\npazih"
+  },
+  "identifier": {
+    "multitree": "uun",
+    "endangeredlanguages": "9629"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pazeh-Kaxabu (9629-uun) = Critically Endangered (100 percent certain, based on the evidence available) [a ahan 噶哈巫語全球資訊網 n.d.](cldf:aahangehawuyuquanqiuzixunwang:nd)"
+  }
+}

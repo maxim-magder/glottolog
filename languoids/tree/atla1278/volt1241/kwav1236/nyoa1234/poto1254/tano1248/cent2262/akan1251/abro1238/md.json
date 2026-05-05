@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Abron",
+    "hid": "abr",
+    "level": "language",
+    "iso639-3": "abr",
+    "latitude": "7.72094",
+    "longitude": "-2.50289",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bono_dialect\nhttps://www.wikidata.org/entity/Q34831"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alland:63**\n**cldf:clozel:villamur:02**\n**cldf:tauxier:21**\n**hh:g:Kossonou:Abron**\n**hh:g:Kossonou:Abron:2006**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Manoukian:Ga-Adangme**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hew:Tauxier:Bondoukou**\n**hh:hew:Zech:Togo**\n**hh:hld:Bowdich:Cape-Coast-Ashantee**\n**hh:hvw:Christaller:Sudan**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:s:Dolphyne:Brong**\n**hh:s:Timyan-Ravenhill:Abron**\n**hh:typ:Loua:Bron**\n**hh:w:Dolphyne:Abron**"
+  },
+  "altnames": {
+    "multitree": "\nAbron\nBron\nBrong\nDoma\nGyaman",
+    "lexvo": "\nAbron [de]\nAbron jezik [hr]\nAbron language [en]\nLenga Abron [pms]\nLingua abrón [gl]\nLíngua abron [pt]",
+    "hhbib_lgcode": "\nBooroom\nBron\nBrong\nDoma\nGuang aus dem landschaft Brong (of Yeggi)\nGyaman"
+  },
+  "triggers": {
+    "lgcode": "\nbrong\nlabron"
+  },
+  "identifier": {
+    "multitree": "abr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Abron (abr-abr) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kele (Papua New Guinea)",
+    "hid": "sbc",
+    "level": "language",
+    "iso639-3": "sbc",
+    "latitude": "-2.09163",
+    "longitude": "147.064",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kele](https://wals.info/languoid/lect/wals_code_kel)\n[Kele (Papua New Guinea)](https://grambank.clld.org/languages/kele1258)\nhttps://en.wikipedia.org/wiki/Kele_language_(New_Guinea)\nhttps://www.wikidata.org/entity/Q3194847"
+  },
+  "sources": {
+    "glottolog": "\n**bowern:smyzgr75**\n**cldf:lynch:ross:etal:ed:02:15**\n**hh:hv:Ross:WMelanesia**\n**hh:hw:Zgraggen:Admiralty**\n**hh:s:Ross:Kele**"
+  },
+  "altnames": {
+    "wals": "\nKele",
+    "wals other": "\nKele (Papua New Guinea)\nKele (in Papua New Guinea)",
+    "ruhlen (1987)": "\nGele (Ere-Lele-Gele-Kuruti)",
+    "moseley & asher (1994)": "\nGele",
+    "multitree": "\nAdmiralitäts-inseln\nGele'\nKele",
+    "lexvo": "\nKele (Papua New Guinea) [en]\nKele [en]\nKele language [en]",
+    "hhbib_lgcode": "\nBujang\nKele"
+  },
+  "triggers": {
+    "lgcode": "\nNOT of AND NOT notes AND NOT the AND kele"
+  },
+  "identifier": {
+    "wals": "kel",
+    "multitree": "sbc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:315-345",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kele (sbc-sbc) = 6a* (Vigorous)."
+  }
+}

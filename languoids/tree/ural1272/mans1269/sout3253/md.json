@@ -1,0 +1,34 @@
+{
+  "core": {
+    "name": "Southern Mansi",
+    "level": "language",
+    "hid": "NOCODE_Southern-Mansi",
+    "longitude": "65.5664",
+    "latitude": "58.4362",
+    "countries": [
+      "RU"
+    ],
+    "macroareas": [
+      "Eurasia"
+    ],
+    "timespan": "1920-01-01/1920-01-01",
+    "links": "\n[Western Mansi](https://endangeredlanguages.com/lang/8549)"
+  },
+  "classification": {
+    "sub": "**hh:hv:Honti:Wogulischen**",
+    "subrefs": "\n**hh:hv:Honti:Wogulischen**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Mansi (8549) = Dormant (possibly extinct) [Salminen 2000](cldf:salminen:00)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\n60 pages of Southern Mansi texts\nS Mansi\nTavdai Vogul\nTawda\nThe fourth voluma has 30 pgs of S Mansi texts\nThe fourth volume has 30 pgs of S Mansi texts",
+    "elcat": "\nPelym\nVogul\nWest Vogul\nWestern Mansi\nWestern Vogul\nвогульский\nзападно-мансийский язык\nманьси\nмоаньсь"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:salminen:00**\n**hh:ld:Biro:Mansi**\n**hh:s:Munkacsi:Vogul**\n**hh:t:Kannisto:Wogulische**\n**hh:t:Munkacsi:Vogul**\n**hh:typ:Honti:Tawda**"
+  }
+}

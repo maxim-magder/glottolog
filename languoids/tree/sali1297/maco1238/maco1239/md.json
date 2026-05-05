@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Maco",
+    "hid": "wpc",
+    "level": "language",
+    "iso639-3": "wpc",
+    "latitude": "4.5621",
+    "longitude": "-66.5813",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "VE"
+    ],
+    "links": "\n[Maco](https://grambank.clld.org/languages/maco1239)\n[Mako](https://endangeredlanguages.com/lang/3018)\nhttps://en.wikipedia.org/wiki/Wir%C3%B6_language\nhttps://www.wikidata.org/entity/Q12953684"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:labrada:15**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Campoverde:Jojodi**\n**hh:e:Kaplan:Piaroa**\n**hh:g:Roses:Mako**\n**hh:he:Fuchs:EVenezuela**\n**hh:hvw:Loukotka:Inconnues**\n**hh:soc:RosesGranadillo:Mako**\n**hh:typ:Roses:Mako-Marcadores**\n**hh:typ:Roses:Mako-Reciprocal**\n**hh:vw:Hammarstrom:Maco**"
+  },
+  "altnames": {
+    "multitree": "\nAdole\nAture\nGuagua\nItoto\nJojod\nKuakua\nMaco\nMacu\nMako\nPiaroa\nPiaroa-Maco\nPiaroa-Mako\nQuaqua\nWothüha\nWotuja",
+    "lexvo": "\nMaco [en]",
+    "hhbib_lgcode": "\nHohode\nJojodï\nMako",
+    "elcat": "\nAdole\nAture\nGuagua\nItoto\nJojod\nKuakua\nMaco\nMacu\nMako\nMaku\nPiaroa\nPiaroa-Maco\nPiaroa-Mako\nQuaqua\nWothüha\nWotuja"
+  },
+  "triggers": {
+    "lgcode": "\nwpc\nmako\npiaroan\nNOT study AND people AND orinoco\nmaco"
+  },
+  "identifier": {
+    "multitree": "wpc",
+    "endangeredlanguages": "3018"
+  },
+  "classification": {
+    "sub": "**hh:vw:Hammarstrom:Maco**, **hh:hv:Estrada:Saliba-Piaroa**, **hh:v:Roses:Jodi-Saliban:2019**",
+    "subrefs": "\n**hh:hv:Estrada:Saliba-Piaroa**\n**hh:vw:Hammarstrom:Maco**\n**hh:v:Roses:Jodi-Saliban:2019**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mako (3018-wpc) = Vulnerable (100 percent certain, based on the evidence available) (Most children under the age of 10 [in Arena Blanca] are monolinguals in [Mako]... in [Isla Bomba] everyone speaks Piaroa and Mako... Mako remains the language used for everyday interaction with other Mako people both at home and in socialization spaces. Mako is also the language of shamanism, where that practice is still active, and the language of government inside the communities.) [Labrada 2015](cldf:labrada:15)"
+  }
+}

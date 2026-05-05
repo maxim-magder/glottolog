@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Sonsorol",
+    "hid": "sov",
+    "level": "language",
+    "iso639-3": "sov",
+    "latitude": "5.328596",
+    "longitude": "132.221282",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MP",
+      "PW"
+    ],
+    "links": "\n[Pulo-Annan](https://lexibank.clld.org/languages/abvdoceanic-PuloAnnan)\n[Sonsorol](https://endangeredlanguages.com/lang/5403)\n[Sonsorol](https://grambank.clld.org/languages/sons1242)\n[Sonsorol-Tobi](https://wals.info/languoid/lect/wals_code_son)\nhttps://en.wikipedia.org/wiki/Sonsorolese\nhttps://www.wikidata.org/entity/Q13281"
+  },
+  "altnames": {
+    "wals": "\nSonsorol-Tobi",
+    "ruhlen (1987)": "\nSonsorolese",
+    "multitree": "\nSonsorol\nSonsorol-Tobi\nSonsorolese",
+    "lexvo": "\nSonsorol [de]\nSonsorolais [fr]\nSonsorolese language [en]\nSonsorolin kieli [fi]\nСонсорол [ru]",
+    "hhbib_lgcode": "\nHatohobeian\nHatohobeian and Sonsorolese\nMelieli\nMerir\nPulo Anna\nPulo Annian\nSongosor\nSonsorol-Tobi\nSonsorolese\nSonsorolese [sov] Pur",
+    "elcat": "\nSonsorol\nSonsorol-Tobi\nSonsorolese"
+  },
+  "triggers": {
+    "lgcode": "\nannian\npulo\nsonsorol"
+  },
+  "identifier": {
+    "wals": "son",
+    "multitree": "sov",
+    "endangeredlanguages": "5403"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Quackenbush:Sonsorol-Truk**",
+    "subrefs": "\n**hh:hvw:Quackenbush:Sonsorol-Truk**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sonsorol (5403-sov) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Eilers:Songosor**\n**hh:e:Eilers:Tobi**\n**hh:g:Oda:Pulo-Annian**\n**hh:hvw:Jackson:Trukic**\n**hh:hvw:Quackenbush:Sonsorol-Truk**\n**hh:phon:vandenBerg:Hatohobeian-Sonsorolese**\n**hh:sd:Capell:Sonsorol**"
+  }
+}

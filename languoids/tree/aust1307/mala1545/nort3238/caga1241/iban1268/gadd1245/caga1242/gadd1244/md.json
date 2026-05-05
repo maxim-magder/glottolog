@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gaddang",
+    "hid": "gad",
+    "level": "language",
+    "iso639-3": "gad",
+    "latitude": "16.5468",
+    "longitude": "121.177",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3438830\nhttps://en.wikipedia.org/wiki/Gaddang_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:cribb:00**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:72**\n**cldf:lebar:ed:75**\n**cldf:luzon:19**\n**cldf:np:14:5**\n**cldf:wallace:13**\n**cldf:wallace:51**\n**cldf:wallace:69**\n**cldf:wallace:74**\n**cldf:yumul:dimalanta:etal:09**\n**hh:d:Calimag:Gaddang**\n**hh:d:Sierra:Gaddana**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:w:Yamada:Gaddang**"
+  },
+  "altnames": {
+    "multitree": "\nCagayan\nGaddang",
+    "lexvo": "\nGaddang [de]\nGaddang language [en]\nPagsasao nga Gaddang [ilo]",
+    "hhbib_lgcode": "\nBagabag\nGaddang (Gad.)"
+  },
+  "triggers": {
+    "lgcode": "\ngrammar AND gadang"
+  },
+  "identifier": {
+    "multitree": "gadd;gad"
+  },
+  "classification": {
+    "sub": "**hh:hv:Reid:Northern-Luzon**",
+    "subrefs": "\n**hh:hv:Reid:Northern-Luzon**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gaddang (gad-gad) = 6b (Threatened)."
+  }
+}

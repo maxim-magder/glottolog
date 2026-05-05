@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Phunoi",
+    "hid": "pho",
+    "level": "language",
+    "iso639-3": "pho",
+    "latitude": "20.7996",
+    "longitude": "100.957",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH"
+    ],
+    "links": "\n[Phunoi](https://endangeredlanguages.com/lang/5188)\nhttps://www.wikidata.org/entity/Q7188361\nhttps://en.wikipedia.org/wiki/Phunoi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bradley:77**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Boute:Phunoy**\n**hh:ew:Roux:Deux-Phongsaly**\n**hh:g:Dai:Punei**\n**hh:hew:Lefevre-Pontalis:Nord-Indo-Chine**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hsoc:Shintanietal:Phongxaly**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:hv:Udomkool:Bisoid**\n**hh:hv:Wright:Phongsali**\n**hh:hvw:Bradley:Loloish**\n**hh:phon:Bradley:Phunoi**\n**hh:phon:Ferlus:Phou-Noy**\n**hh:s:Ferlus:Phounoy**\n**hh:soc:Kato:Phongset**\n**hh:typ:Ferlus:Phou-Noy**\n**hh:w:Kato:Tibeto-Burman-Lao**\n**hh:w:KingsadaKosaka:Lao-Seng**\n**hh:w:KingsadaKosaka:Phongku**\n**hh:w:KingsadaKosaka:Phunoi-Bun-Tay**\n**hh:w:KingsadaKosaka:Pisu**\n**hh:w:SawadaKosaka:Phunoi-Phongxaly**\n**hh:w:ShintaniSawada:Lao-Pan**"
+  },
+  "altnames": {
+    "multitree": "\nHwethom\nKhaskhong\nKhoany\nMung\nPhounoy\nPhu Noi\nPhunoi\nPunoi",
+    "lexvo": "\nPhunoi [en]",
+    "hhbib_lgcode": "\nCan Than\nCantan\nKhas-Paille\nLao Pan\nLao Seng\nLaoseng\nLaoseng from Laos\nP'u Noi\nPhong Ku\nPhong Set\nPhongku\nPhongku Phunoi\nPhongset\nPhou Noy\nPhu-Lawa\nPhunoi/Bisu\nPhunyot\nPunei\nSingsali\nSinsali",
+    "elcat": "\nHwethom\nKhaskhong\nKhoany\nMung\nPhounoy\nPhu Noi\nPhunoi\nPunoi\nSinsali"
+  },
+  "triggers": {
+    "lgcode": "\nphongku\nphunoi\npisu\nseng\nphai"
+  },
+  "identifier": {
+    "multitree": "pho;phun",
+    "endangeredlanguages": "5188"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic** **hh:hv:Udomkool:Bisoid**:43 **hh:hld:Edmondson:Central-Southern-Loloish**",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**\n**hh:hld:Edmondson:Central-Southern-Loloish**\n**hh:hv:Udomkool:Bisoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Phunoi (5188-pho) = Vulnerable (20 percent certain, based on the evidence available) (Potentially endangered, especially in the case of Phongku, Laoseng and Pisu varieties.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Feroge",
+    "hid": "fer",
+    "level": "language",
+    "iso639-3": "fer",
+    "latitude": "8.61612",
+    "longitude": "25.7171",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35287\nhttps://en.wikipedia.org/wiki/Kaligi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Santandrea:Feroge-Mangaya-Togoyo**\n**hh:e:Santandrea:Indrietal**\n**hh:he:Modat:Fertyt**\n**hh:hvw:Santandrea:Indri-Togoyo-Ndogo-Feroge-Mangaya-Mondu**\n**hh:s:Santandrea:Feroge-Mundu**"
+  },
+  "altnames": {
+    "multitree": "\nFeroge\nFeroghe\nFerroge\nKalige\nKaligi\nKalike\nKaliki",
+    "lexvo": "\nFeroge [en]",
+    "hhbib_lgcode": "\nFaroggé"
+  },
+  "triggers": {
+    "lgcode": "\nNOT in AND feroge"
+  },
+  "identifier": {
+    "multitree": "fer"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bennett:Adamawa-Eastern**:25-27 **hh:h:BoydPasch:Sere-Ngbaka-Mba**:51-52",
+    "subrefs": "\n**hh:hv:Bennett:Adamawa-Eastern**\n**hh:h:BoydPasch:Sere-Ngbaka-Mba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Feroge (1701-fer) = Vulnerable"
+  }
+}

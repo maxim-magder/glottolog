@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Western Arrarnta",
+    "hid": "are",
+    "level": "language",
+    "iso639-3": "are",
+    "latitude": "-24.05052",
+    "longitude": "133.24621",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Arrernte (Western)](https://wals.info/languoid/lect/wals_code_awe)\n[Western Arrarnta](https://collection.aiatsis.gov.au/austlang/language/c47)\n[Western Arrarnta](https://grambank.clld.org/languages/west2441)\n[Western Arrarnta](https://lexibank.clld.org/languages/bowernpny-WesternArrarnta)\n[Western Arrarnte](https://endangeredlanguages.com/lang/6273)\nhttps://phoible.org/languages/west2441\nhttps://www.wikidata.org/entity/Q12645549"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3116**\n**cldf:bowern:11:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:roennfeldt:nd**\n**cldf:strehlow:15**\n**cldf:strehlow:42:2**\n**cldf:tryon:07**\n**hh:e:Schulze:Finke-River**\n**hh:e:SpencerGillen:NCAustralia:1899**\n**hh:ewt:Strehlow:Aranda-Loritja**\n**hh:g:Strehlow:Aranda**\n**hh:g:Strehlow:Aranda:1944**\n**hh:hv:Breen:Arandic**\n**hh:hvw:Hale:Arandic**\n**hh:phon:Anderson:Western-Arrernte**\n**hh:s:Henderson:Pertame**\n**hh:s:Kempe:MacDonnell**\n**hh:s:Mathews:Arranda**\n**hh:ssoc:Sommerfelt:Langue-Societe**\n**hh:w:Planert:Aranda**\n**hh:w:Swan:Pertame**\n**mpieva:Breen2000Introduc**"
+  },
+  "altnames": {
+    "wals": "\nArrernte (Western)",
+    "wals other": "\nAranda\nAranda (Western)\nWestern",
+    "ruhlen (1987)": "\nArranda (Western)",
+    "moseley & asher (1994)": "\nAranda",
+    "multitree": "\nA'randa\nAldolanga\nAldolinga\nAranda\nAranta\nArinta\nArranda\nArrarnta (Western)\nArrarnta, Western\nArrernte\nArrernte (Western)\nArrinda\nArrundta\nArrunta\nArunda\nArunta\nArunta Ulpma\nBurrin-gah\nHerrinda\nIlpma\nJairunda\nOiljpma\nParoola\nUlpma\nUr-rundie\nUrrundie\nWaitjinga\nWestern Aranda\nWonggaranda\nWongkatjeri\nWychinga",
+    "lexvo": "\nWestern Arrarnta [en]",
+    "hhbib_lgcode": "\nArrarnta-Western\nArunta\nHyAr (Pitima or Southern Aranda from Henbury)\nPertame\nSouthern Arrernte\nTyurretye Arrernte\nWestern Arrernte",
+    "elcat": "\nA'randa\nAldolanga\nAldolinga\nAranda\nAranta\nArinta\nArranda\nArrarnta (Western)\nArrernte\nArrernte (Western)\nArrinda\nArrundta\nArrunta\nArunda\nArunta\nArunta Ulpma\nBurrin-gah\nHerrinda\nIlpma\nJairunda\nOiljpma\nParoola\nUlpma\nUr-rundie\nUrrundie\nWaitjinga\nWestern Aranda\nWestern Arranta\nWestern Arrarnte\nWonggaranda\nWongkatjeri\nWychinga",
+    "aiatsis": "\nAranda\nArandic\nArinta\nArranda\nArrarnta\nArrinda\nArrundta\nArrunta\nArunda\nArunndta\nArunta\nTyuretye Arrernte\nUr rundie\nUrrundie\nWestern Aranda\nWestern Aranta\nWestern Arrarnta\nWestern Arrernte"
+  },
+  "triggers": {
+    "lgcode": "\narrandic\nloritja\narranda"
+  },
+  "identifier": {
+    "wals": "awe;arr",
+    "multitree": "are",
+    "endangeredlanguages": "6273"
+  },
+  "classification": {
+    "sub": "**hh:hv:Koch:Arandic** **hh:g:Henderson:Central-Eastern-Arrernte:2013**:10-13",
+    "subrefs": "\n**hh:hv:Koch:Arandic**\n**hh:g:Henderson:Central-Eastern-Arrernte:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Arrarnte (6273-are) = Threatened (20 percent certain, based on the evidence available) [Roennfeldt n.d.](cldf:roennfeldt:nd)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bainounk-Gujaher",
+    "hid": "bab",
+    "level": "language",
+    "iso639-3": "bab",
+    "latitude": "12.3128",
+    "longitude": "-16.0586",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Baynunk-Gujaxer](https://lexibank.clld.org/languages/polyglottaafricana-BaynunkGujaxer)\n[Baïnounk Gujaher](https://endangeredlanguages.com/lang/1419)\nhttps://www.wikidata.org/entity/Q35508"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bernatzik:33**\n**cldf:luepke:storch:13**\n**cldf:nogueira:47**\n**cldf:sprachen:nd**\n**eballiso2009:13967**\n**eballiso2009:13968**\n**eballiso2009:25760**\n**eballiso2009:25766**\n**eballiso2009:25772**\n**eballiso2009:25777**\n**eballiso2009:31609**\n**eballiso2009:36459**\n**eballiso2009:36460**\n**eballiso2009:36461**\n**eballiso2009:36462**\n**eballiso2009:36465**\n**eballiso2009:36467**\n**eballiso2009:36468**\n**eballiso2009:36884**\n**eballiso2009:41677**\n**eballiso2009:48010**\n**eballiso2009:48457**\n**eballiso2009:50006**\n**eballiso2009:50008**\n**eballiso2009:50009**\n**eballiso2009:7393**\n**eballiso2009:7398**\n**eballiso2009:773**\n**eballiso2009:774**\n**hh:ew:Nogueira:Banhum**\n**hh:g:Goudiaby:Gujaahar-Niaguis**\n**hh:hv:Wilson:Guine**\n**hh:hvs:Wilson:Atlantic**\n**hh:hw:Buhnen:Banun-Kasanga-Cobiana**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Lupke:Bainounk-Gujaher**\n**hh:w:Armstrong:West-African**\n**hh:w:deLespinay:Baynunk**"
+  },
+  "altnames": {
+    "multitree": "\nBagnoun\nBainouk-Gunyuño\nBainuk\nBanhum\nBanyuk\nBanyum\nBanyun\nBanyung\nElomay\nElunay",
+    "lexvo": "\nBainouk-Gunyuño [en]",
+    "hhbib_lgcode": "\nBainouk-Gunyuño\nBanhum\nBanyun\nBanyun K\nBanyun Koelle (Gujaher or Djibonker)\nBaïnounk Gujaher\nBañun (Gujaxer) (00039)\nKasa (gujaxer)\nNiaguis\nSonkodu (guñuno)",
+    "elcat": "\nBaïnounk Gujaher"
+  },
+  "triggers": {
+    "lgcode": "\nbanhun\nbainouk"
+  },
+  "identifier": {
+    "multitree": "bab",
+    "endangeredlanguages": "1419"
+  },
+  "classification": {
+    "sub": "**hh:styp:Cobbinah:Bainounk-Gubeeher**:31-34",
+    "subrefs": "\n**hh:styp:Cobbinah:Bainounk-Gubeeher**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baïnounk Gujaher (1419) = Vulnerable (40 percent certain, based on the evidence available) (... it is often the case that those children who grow up in Baïnounk-Gujaher speaking households come from outside the language area and very often have not spoken Gujaher prior to coming to live in Agnack, where they were fostered. Children whose identity is Baïnounk-Gujaher often grow up in Creole-speaking families in Ziguinchor or Wolof-dominant households in Dakar. Second-generation immigrant children whose parents originate from Joola Susaana communities in Guinea Bissau grow up speaking Baïnounk Gujaher as one of their languages. Who is shifting to what language in these contexts depends crucially on the assumed point of departure.) [Lüpke and Storch 2013](cldf:luepke:storch:13)"
+  }
+}

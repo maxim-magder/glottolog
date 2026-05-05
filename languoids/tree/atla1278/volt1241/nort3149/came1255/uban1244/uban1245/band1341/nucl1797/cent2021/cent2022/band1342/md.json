@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Banda-Mbrès",
+    "hid": "bqk",
+    "level": "language",
+    "iso639-3": "bqk",
+    "latitude": "7.32924",
+    "longitude": "23.0108",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3450724"
+  },
+  "sources": {
+    "glottolog": "\n**hh:es:Toque:Banda**\n**hh:ew:Truffert:Mbres**\n**hh:h:Nougayrol:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:soc:Bluhberger:Mbre**\n**hh:soc:Bluhberger:Moruba**"
+  },
+  "altnames": {
+    "glottolog": "\nBanda-Mbres",
+    "multitree": "\nBanda of Mbrès\nBanda-Mbre\nBanda-Mbres\nBanda-Mbrès",
+    "lexvo": "\nBanda-Mbrès [en]",
+    "hhbib_lgcode": "\nBanda au coude de l'Oubangui-le Wadda\nBouka\nBuka\nM'Brés\nMbere\nMbre\nMoruba\nNdys-Moroubas-Ngaos-Sabangas-Tambaggos\nSabanga\nSg\nWadda"
+  },
+  "triggers": {
+    "lgcode": "\nmbres AND banda"
+  },
+  "identifier": {
+    "multitree": "bqk;bann"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cloarec-Heiss:Banda:2000** **hh:hvw:Olson:Banda**",
+    "subrefs": "\n**hh:hvw:Olson:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banda-Mbrès (bqk-bqk) = 6a* (Vigorous)."
+  }
+}

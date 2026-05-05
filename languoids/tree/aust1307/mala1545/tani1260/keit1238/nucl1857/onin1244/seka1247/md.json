@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sekar",
+    "hid": "skz",
+    "level": "language",
+    "iso639-3": "skz",
+    "latitude": "-2.65849",
+    "longitude": "132.469",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7447136\nhttps://en.wikipedia.org/wiki/Sekar_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:grace:nd**\n**hh:e:vanDissel:Sekar**\n**hh:ew:Kuhn:Neu-Guinea:Sekar**\n**hh:h:Hirschi:Nordwest-Neu-Guinea**\n**hh:he:Strauch:Neu-Guinea**\n**hh:hew:Bastian:Timor**\n**hh:hlde:deClercq:MacCluer**\n**hh:hlde:deClercq:WNNNG**\n**hh:hvld:Capell:Austronesian**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:ld:Grace:48-50**\n**hh:vw:Grube:Segaar**\n**hh:w:Ribbe:34**\n**hh:w:Strauch:477**\n**hh:w:deVries:Patipi**"
+  },
+  "altnames": {
+    "multitree": "\nSeka\nSekar",
+    "lexvo": "\nSekar [en]",
+    "hhbib_lgcode": "\nBai von Segaar\nKaukas\nKokas\nNW Neu-Guinea Sekar\nPulo Serang in der bay von Kapua\nSékar"
+  },
+  "triggers": {
+    "lgcode": "\nsegaar\naufenthalt"
+  },
+  "identifier": {
+    "multitree": "skz"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia** **hh:hv:Kaplan:Onin-Sekar-Uruangnirin**",
+    "subrefs": "\n**hh:hv:Kaplan:Onin-Sekar-Uruangnirin**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sekar (skz-skz) = 6b (Threatened)."
+  }
+}

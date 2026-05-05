@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Santa Inés Ahuatempan Popoloca",
+    "hid": "pca",
+    "level": "language",
+    "iso639-3": "pca",
+    "latitude": "18.38647",
+    "longitude": "-97.85991",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Popoloca](https://endangeredlanguages.com/lang/5287)\nhttps://www.wikidata.org/entity/Q42365276"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Veerman-Leichsenring:Popolocan**\n**hh:ld:Mota:Almolonga**"
+  },
+  "altnames": {
+    "glottolog": "\nSanta Ines Ahuatempan Popoloca",
+    "multitree": "\nChocho-Popoloka\nNgigua\nPopoloca\nPopoloca de Santa Inés Ahuatempan\nPopoloca, Santa Inés Ahuatempan",
+    "lexvo": "\nSanta Inés Ahuatempan Popoloca [en]",
+    "elcat": "\nPopoloca",
+    "hhbib_lgcode": "\nPopoloca-Santa Inés Ahuatempan"
+  },
+  "identifier": {
+    "multitree": "pca",
+    "endangeredlanguages": "5287"
+  },
+  "classification": {
+    "sub": "**hh:g:Veerman-Leichsenring:Popoloca**:4-5 **hh:typ:Nakamoto:Temalacayuca-Clasificadores**:3",
+    "subrefs": "\n**hh:typ:Nakamoto:Temalacayuca-Clasificadores**\n**hh:g:Veerman-Leichsenring:Popoloca**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Popoloca (5287) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

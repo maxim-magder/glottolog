@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Nengone",
+    "hid": "nen",
+    "level": "language",
+    "iso639-3": "nen",
+    "latitude": "-21.5305",
+    "longitude": "167.964",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Nengone](https://grambank.clld.org/languages/neng1238)\n[Nengone](https://lexibank.clld.org/languages/abvdoceanic-Nengone)\n[Nengone](https://wals.info/languoid/lect/wals_code_nne)\nhttps://en.wikipedia.org/wiki/Nengone_language\nhttps://www.wikidata.org/entity/Q3338052"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:13:2**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:dubois:81:1**\n**cldf:dubois:84**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:ember:ed:01**\n**cldf:haberkorn:08**\n**cldf:howe:74**\n**cldf:howe:77**\n**cldf:islands:13**\n**cldf:keesing:84:2**\n**cldf:logan:cole:01**\n**cldf:np:08:6**\n**cldf:np:14:5**\n**cldf:np:nd:210**\n**cldf:palmer:geraghty:ed:00:5**\n**cldf:tryon:dubois:69**\n**cldf:tryon:dubois:71**\n**hh:d:Tryon:Nengone**\n**hh:g:Tryon:Nengone**\n**hh:hew:Murray:Polynesia-New-Guinea**\n**hh:hs:Tryon:Loyalty**\n**hh:hv:vonderGabelentz:Melanesischen**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:ld:Codrington:Nengone**\n**hh:phonw:HaewegeneCawa:Nengone**\n**hh:s:Dubois:Mare**\n**hh:s:Dubois:Mare:1950**\n**hh:typ:Bearune:Nengone**\n**hh:w:Tryon:Nengone**\n**hh:w:Turner:Samoa**\n**mpieva:1996OceanicS**"
+  },
+  "altnames": {
+    "wals": "\nNengone",
+    "ruhlen (1987)": "\nNengone",
+    "moseley & asher (1994)": "\nNengone",
+    "multitree": "\nIwatenu\nMaré\nNengone",
+    "lexvo": "\nNengone [en]",
+    "hhbib_lgcode": "\nIwatenu\nMaré\nMaré or Nengone"
+  },
+  "triggers": {
+    "lgcode": "\nnengone\nmare"
+  },
+  "identifier": {
+    "wals": "nne",
+    "multitree": "nen"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rivierre:Nouvelle-Caledonie** **hh:hv:Lynch:Pronouns-Southern-Oceanic**",
+    "subrefs": "\n**hh:hv:Rivierre:Nouvelle-Caledonie**\n**hh:hv:Lynch:Pronouns-Southern-Oceanic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nengone (nen-nen) = 5* (Developing)."
+  }
+}

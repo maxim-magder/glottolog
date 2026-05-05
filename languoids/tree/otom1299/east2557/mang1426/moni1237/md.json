@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mangue",
+    "hid": "mom",
+    "level": "language",
+    "iso639-3": "mom",
+    "latitude": "13.5343",
+    "longitude": "-85.1746",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "NI"
+    ],
+    "links": "\n[Mangue](https://grambank.clld.org/languages/moni1237)\nhttps://www.wikidata.org/entity/Q56542",
+    "timespan": "1870-01-01/1870-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:quirosrodriguez:99**\n**hh:e:Larde:Chorotegas**\n**hh:hvw:Casanova:Popolocas**\n**hh:hw:Lehmann:Zentral-Amerika:I**\n**hh:hw:Lehmann:Zentral-Amerika:II**\n**hh:ld:Quiros:Chorotega**\n**hh:ld:Quiros:Chorotega:Tipologia**\n**hh:phond:Quiros:Chorotega**\n**hh:typ:Quiros:Chorotega**\n**hh:w:Berendt:Chorotega-Maribia**\n**hh:w:Brinton:Mangue**\n**hh:w:Brinton:Mangue:1925**\n**iso6393:2009-034**\n**iso6393:2009-035**"
+  },
+  "altnames": {
+    "glottolog": "\nMonimbo",
+    "multitree": "\nCholuteca\nChorotega\nDirian\nMange\nMangue\nMonimbo\nNagranda\nOrotiña",
+    "lexvo": "\nMangue [en]",
+    "hhbib_lgcode": "\nChorotega\nDiria\nMangue (Berendt-Squier)"
+  },
+  "triggers": {
+    "lgcode": "\nchorotegas\nformerly"
+  },
+  "identifier": {
+    "multitree": "mom"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kaufman:Oto-Mangean:2025**:260-263",
+    "subrefs": "\n**hh:hv:Kaufman:Oto-Mangean:2025**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mangue (mom-mom) = 9 (Dormant)."
+  }
+}

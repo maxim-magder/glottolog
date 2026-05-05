@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Machinere",
+    "hid": "mpd",
+    "level": "language",
+    "iso639-3": "mpd",
+    "latitude": "-10.661655",
+    "longitude": "-70.208108",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO",
+      "BR"
+    ],
+    "links": "\n[Maxineri](https://endangeredlanguages.com/lang/2907)\nhttps://en.wikipedia.org/wiki/Machinere_language\nhttps://phoible.org/languages/mach1268\nhttps://www.wikidata.org/entity/Q12953681"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2198**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:263**\n**cldf:np:nd:264**\n**hh:e:Batista:Machineri**\n**hh:e:Virtanen:Manchineri**\n**hh:phon:Couto:Manxineru**\n**hh:phon:Couto:Manxineru:2012**\n**hh:phon:dosSantos:Manxineri**\n**hh:s:dosSantos:Manxineri**\n**hh:typ:Cabral:Manxineru**\n**hh:w:Chandless:Purus**"
+  },
+  "altnames": {
+    "multitree": "\nMachinere\nMachinere (Brasil)\nManchinere\nManchineri\nManitenere\nManitenerí\nManitenére\nMashineri\nMaxineri\nMaxineri (Brésil)\nMaxineri (État plurinational de Bolivie)\nMaxinéri",
+    "lexvo": "\nMachinere [en]",
+    "hhbib_lgcode": "\nMachineri\nManchineri\nManetenery\nManetenerýs\nManxineru\nManxinéri",
+    "elcat": "\nMachinere\nManchinere\nManchineri\nManitenere\nManitenerí\nManitenére\nMashineri\nMaxineri\nMaxinéri"
+  },
+  "triggers": {
+    "lgcode": "\nNOT structure AND the AND mouton\nmanxineri\nmachineri"
+  },
+  "identifier": {
+    "multitree": "mpd",
+    "endangeredlanguages": "2907"
+  },
+  "classification": {
+    "sub": "**hh:g:Matteson:Piro:1963**:1-2 **hh:hvw:Ramirez:Arawak-Enciclopedia**:740-751",
+    "subrefs": "\n**hh:g:Matteson:Piro:1963**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maxineri (2907-mpd) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

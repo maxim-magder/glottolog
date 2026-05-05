@@ -1,0 +1,71 @@
+{
+  "core": {
+    "name": "Central Romani",
+    "hid": "rmc",
+    "level": "language",
+    "iso639-3": "rmc",
+    "latitude": "48.1968",
+    "longitude": "20.3129",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "AT",
+      "BA",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IT",
+      "LT",
+      "LV",
+      "ME",
+      "MK",
+      "NL",
+      "PL",
+      "RO",
+      "RS",
+      "RU",
+      "SI",
+      "SK",
+      "TR",
+      "UA"
+    ],
+    "links": "\n[Carpathian Romani](https://endangeredlanguages.com/lang/3263)\nhttps://www.wikidata.org/entity/Q5045611\nhttps://en.wikipedia.org/wiki/Carpathian_Romani"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:216**\n**asjp2010:2844**\n**asjp2010:4619**\n**asjp2010:904**\n**asjp2010:947**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Rozwadowski:Zigeunerdialekt-Zakopane**\n**hh:d:Vekerdi:Cigany-Szotara**\n**hh:d:Vekerdi:Magyarorszagi-Cigany:2000**\n**hh:e:Horvathova:Cigani-Slovensku**\n**hh:g:Benisek:Eastern-Uzh**\n**hh:g:Bodnarova:Vend**\n**hh:g:Halwachs:Burgenlandischen-Romani**\n**hh:g:Hancock:Hungarian-Slovak**\n**hh:g:Jesina:Romani**\n**hh:g:vonSowa:Slovakischen-Zigeuner**\n**hh:hv:Matras:Romani**\n**hh:ld:Miltner:Czechoslovakia-Gypsy**\n**hh:s:Bodnarova:Versend**\n**hh:s:Elsik:Southern-Central-Romani**\n**hh:s:Halwachs:Burgenland**\n**hh:s:HalwachsWogg:Roman**\n**hh:s:Hrkal:Zigeunersprache**\n**hh:s:Lipa:Cikanstiny**\n**hh:s:Puchmayer:Romani-Cib**\n**hh:s:Vekerdi:Magyarorszagi-Cigany**\n**hh:sd:Hubschmannova:Southern-Central-Romani**\n**hh:sd:Pott:Zigeuner**\n**hh:t:Vekerdi:Cigany-Nepmesek**\n**hh:vtyp:Vekerdi:Vend-Gypsy**\n**hh:vw:Vulcanius:Getarum**\n**hh:w:Elsik:Selice-Romani**\n**mpieva:1995Romaniin**\n**mpieva:1997Thetypol**\n**mpieva:261**"
+  },
+  "altnames": {
+    "multitree": "\nBashaldo\nCarpathian Romani\nCigány\nEuropean Romany\nHungarian-Slovak Romani\nRomani\nRomani, Carpathian\nRomany\nRomaní\nRomungro\nZigeuner",
+    "lexvo": "\nCarpathian Romani [en]",
+    "hhbib_lgcode": "\nBohemian Rmani\nCarpathian Romani\nCigáni na Slovensku\nCzech Romani\nEast Slovak R: Humenné E Slovakia\nEast Slovak Romani\nEastern Uzh\nEastern Uzh of Transcarpathian Ukraine\nGipsy specimen\nNorth Central Romani\nRomani-Carpathian\nRomungro Hungarian Gypsy\nSelice Romani\nSlovakischen Zigeuner\nSouthern Central Romani of Slovakia and Northern Hungary\nSouthern Central Romani of Slovakia-Czech Republic\nVend\nVend-Prekmurje etc missing but\nZigeunerdialekt von Zakopane\nas Carpathian Romani\nprobably to\nto",
+    "glottolog": "\nCarpathian Romani",
+    "elcat": "\nBashaldo\nCarpathian\nCarpathian Romani\nCigány\nEuropean Romany\nHungarian-Slovak Romani\nRomani\nRomany\nRomungro\nZigeuner"
+  },
+  "triggers": {
+    "lgcode": "\ncarpathian\ntranssilvanischen\ncib\nburgenland\nNOT romani AND romlex\nbashaldo\nvakeripe\nmitteleuropaische\nromungro\nczechoslovakia\namaro\nburgenlandischen"
+  },
+  "identifier": {
+    "multitree": "rmc",
+    "endangeredlanguages": "3263"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matras:Romani**:14-48 **hh:hv:Benisek:Romani-Historical** **hh:hv:ElsikBenisek:Romani**",
+    "subrefs": "\n**hh:hv:ElsikBenisek:Romani**\n**hh:hv:Benisek:Romani-Historical**\n**hh:hv:Matras:Romani**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Carpathian Romani (3263-rmc) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

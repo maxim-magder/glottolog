@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Old Tamil",
+    "hid": "oty",
+    "level": "language",
+    "iso639-3": "oty",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "longitude": "78.0",
+    "latitude": "11.0",
+    "links": "\nhttps://en.wikipedia.org/wiki/Old_Tamil\nhttps://www.wikidata.org/entity/Q20987452",
+    "timespan": "-0200-01-01/0600-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Ananthakrishna:Middle-Tamil**\n**hh:g:Lehmann:Alttamil**\n**hh:g:Rajam:Classical-Tamil**\n**hh:phon:Sankaran:Old-Tamil**\n**hh:s:Agesthialingom:Old-Tamil**\n**hh:s:Andiappa:Kalittokai**\n**hh:s:Damotharan:Tirukkural**\n**hh:s:Lehmann:Old-Tamil:2020**\n**hh:s:Lehmann:OldTamil**\n**hh:s:Natarajan:Sangam**\n**hh:s:Singaravelu:Tirukkural**\n**hh:s:Steever:OldTamil**\n**hh:st:Niklas:Muttollayiram**"
+  },
+  "triggers": {
+    "lgcode": "\nalttamil"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entries. One of them is Old Tamil (**hh:g:Lehmann:Alttamil**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "oty"
+  },
+  "classification": {
+    "sub": "**hh:hvlde:Zvelebil:Nilagiri**",
+    "subrefs": "\n**hh:hvlde:Zvelebil:Nilagiri**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Tamil (oty-oty) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMiddle Tamil"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Swampy Cree",
+    "hid": "csw",
+    "level": "language",
+    "iso639-3": "csw",
+    "latitude": "56.0",
+    "longitude": "-95.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Cree (Swampy)](https://wals.info/languoid/lect/wals_code_cea)\nhttps://en.wikipedia.org/wiki/Swampy_Cree_language\nhttps://www.wikidata.org/entity/Q56696"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ellis:75**\n**cldf:ellis:83**\n**cldf:gmann:53**\n**cldf:honigmann:49**\n**cldf:honigmann:56:2**\n**cldf:mason:67**\n**hh:e:Honigmann:West-Main-Cree**\n**hh:g:Ellis:Cree-James-Bay**\n**hh:g:Ellis:Cree-James-Bay:1962**\n**hh:g:Hunter:Cree**\n**hh:hvw:Valentine:Ojibwe**\n**hh:s:Ahenakew:Cree**\n**hh:s:Ministry:Ojibwe**\n**hh:typ:Reinholtz:SwampyCree**\n**mpieva:174**\n**mpieva:1995atalohka**\n**mpieva:Beardy1988Talkinga**\n**mpieva:Ellis1989Nowthens**\n**mpieva:Watkins1981Adiction**"
+  },
+  "altnames": {
+    "lexvo": "\nKreeg ar gwernioù [br]\nMyr-cree-språket [nn]\nSwampy Cree [en]\nSwampy Cree language [en]",
+    "hhbib_lgcode": "\nCree-Swampy\nSwampy dialect of Fort Albany"
+  },
+  "triggers": {
+    "lgcode": "\ntipacimowina\ncris\nsaskatchewan\nswampy\npisiskiwak"
+  },
+  "identifier": {
+    "wals": "cea"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Swampy Cree (276-csw) = Vulnerable"
+  }
+}

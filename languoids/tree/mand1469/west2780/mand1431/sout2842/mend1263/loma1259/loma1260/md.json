@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Loma (Liberia)",
+    "hid": "lom",
+    "level": "language",
+    "iso639-3": "lom",
+    "latitude": "7.91585",
+    "longitude": "-9.69906",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "LR"
+    ],
+    "links": "\n[Loma](https://lexibank.clld.org/languages/polyglottaafricana-Loma)\n[Loma](https://wals.info/languoid/lect/wals_code_lma)\n[Loma (Liberia)](https://grambank.clld.org/languages/loma1260)\nhttps://en.wikipedia.org/wiki/Loma_language\nhttps://phoible.org/languages/loma1260\nhttps://www.wikidata.org/entity/Q35885"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1035**\n**cldf:rude:83**\n**eballiso2009:11068**\n**eballiso2009:18358**\n**eballiso2009:21464**\n**eballiso2009:25395**\n**eballiso2009:25400**\n**eballiso2009:25648**\n**eballiso2009:25649**\n**eballiso2009:28906**\n**eballiso2009:43489**\n**eballiso2009:43690**\n**eballiso2009:4477**\n**eballiso2009:45086**\n**eballiso2009:45094**\n**eballiso2009:45187**\n**eballiso2009:46508**\n**eballiso2009:47701**\n**eballiso2009:49891**\n**eballiso2009:49896**\n**eballiso2009:830**\n**hh:g:Dwyer:Looma**\n**hh:g:Dwyer:Lorma**\n**hh:g:Sadler:Loma:1951**\n**hh:he:Germann:Liberia**\n**hh:he:Schwab:Mano**\n**hh:hew:Johnston:Liberia**\n**hh:hvw:Vydrine:Mande**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Heydorn:Loma**\n**hh:s:Sadler:Looma**\n**hh:s:Sadler:Looma:1949**\n**hh:s:Solinsky:Loma:1967**\n**hh:s:Terplan:Loma**\n**sil16:22791**"
+  },
+  "altnames": {
+    "wals": "\nLoma",
+    "wals other": "\nLogoma",
+    "ruhlen (1987)": "\nLoma",
+    "moseley & asher (1994)": "\nLoma",
+    "multitree": "\n\"Bouze\"\n\"Busy\"\n\"Buzi\"\nBuzi\nLoghoma\nLoma\nLooma\nLorma\nToma",
+    "lexvo": "\nLoma (Liberia) [en]\nLoma [en]",
+    "hhbib_lgcode": "\nBuzi\nGbunde\nLiberian Loma\nLiberian Loma of Gizima\nLoma\nLoma Liberia\nLorma\nToma (Buzi)\nToma/buse\nWubomai-Wode"
+  },
+  "triggers": {
+    "lgcode": "\nmaninke\nlorma\nloghoma\ngbande\nlooma\ndarbres"
+  },
+  "identifier": {
+    "wals": "lma",
+    "multitree": "lom"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Loma (lom-lom) = 5* (Developing)."
+  }
+}

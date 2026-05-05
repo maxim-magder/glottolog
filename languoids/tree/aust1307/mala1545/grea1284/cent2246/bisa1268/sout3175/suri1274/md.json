@@ -1,0 +1,32 @@
+{
+  "core": {
+    "name": "Surigao",
+    "level": "family",
+    "iso639-3": "sul",
+    "hid": "sul",
+    "countries": [
+      "PH"
+    ],
+    "macroareas": [
+      "Papunesia"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34140\nhttps://en.wikipedia.org/wiki/Surigaonon_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**"
+  },
+  "iso_retirement": {
+    "comment": "The Tandaganon language is distinct from Surigaonon and from other languages in\nnortheastern Mindanao (Butuanon, Kamayo, Mamanwa, Manobo) and other Philippine\nlanguages. It was included in the Zorc dissertation/monograph on Bisayan\nlanguages, but overlooked by all other researchers afterwards (but will be\nincluded in the forthcoming Lobel dissertation, where it is treated a distinct\nlanguage). Zorc's dissertation treats Tandaganon as coordinate with Surigaonon,\nas does the forthcoming Lobel dissertation. Native speakers of this language\nrefer to it as \"Tandaganon\" or \"Tagon-on\" and not as Surigaonon. It is different\nenough from Surigaonon that Surigaonon speakers refer to it as \"Kamayo\" (which\nis the next language to the south of Tandaganon); On the other hand, it is\ndifferent enough from Kamayo that Kamayo speakers refer to it as \"Tandaganon\",\n\"Tagon- on\", or \"Surigaonon\". Tandaganon speakers often have intelligibility of\nSurigaonon because Surigaonon speakers from northern Surigao del Sur often come\nto Tandag (the provincial capitol) in order to conduct business. Surigaonon\nspeakers (and especially those from outside of Surigao del Sur province) have\nmuch less understanding of Tandaganon, and as previously stated, often\nmistakenly refer to it as \"Kamayo\", a language which is even more different from\nSurigaonon.",
+    "code": "sul",
+    "name": "Surigaonon",
+    "effective": "2010-01-18",
+    "remedy": "Split into Tandaganon [tgn] and Surigaonon [sgd] (new identifier)",
+    "reason": "split",
+    "change_request": "2009-087",
+    "change_to": "\ntgn\nsgd"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2009-087**"
+  }
+}

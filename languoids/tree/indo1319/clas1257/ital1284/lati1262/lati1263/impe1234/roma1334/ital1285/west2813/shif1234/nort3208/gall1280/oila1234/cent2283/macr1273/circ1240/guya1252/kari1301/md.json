@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Uaçá Creole French",
+    "hid": "kmv",
+    "level": "language",
+    "iso639-3": "kmv",
+    "latitude": "3.42825",
+    "longitude": "-51.6888",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Karip%C3%BAna_French_Creole\nhttps://phoible.org/languages/kari1301\nhttps://www.wikidata.org/entity/Q2523999"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Montejo:Kheuol**\n**hh:d:Tobler:Karipuna**\n**hh:g:Tobler:Karipuna**\n**hh:hdial:Anonby:Amapa**\n**hh:hvw:Brun-Trigaud:Antilles**\n**hh:ld:Picanco:Karipuna-do-Amapa**\n**hh:phon:Romling:Kheuol-Uaca**\n**hh:s:deAndrade:Crioula**\n**hh:v:Ladhams:Karipuna-Creole**"
+  },
+  "altnames": {
+    "glottolog": "\nKaripuna Creole French\nKaripúna Creole French",
+    "multitree": "\nCrioulo\nKaripuna de l'Amapá\nKaripuna del Amapá\nKaripúna Creole French",
+    "lexvo": "\nKaripúna Creole French [en]",
+    "hhbib_lgcode": "\nKaripúna Creole French\nKheuól do Uaçá\nOiapoque"
+  },
+  "triggers": {
+    "lgcode": "\nfrench AND karipuna"
+  },
+  "identifier": {
+    "multitree": "kmv"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Anonby:Amapa** **hh:hv:Corne:French-Creole**",
+    "subrefs": "\n**hh:hdial:Anonby:Amapa**\n**hh:hv:Corne:French-Creole**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Karipuna do Amapá (1758-kmv) = Vulnerable"
+  }
+}

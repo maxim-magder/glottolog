@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mea",
+    "hid": "meg",
+    "level": "dialect",
+    "iso639-3": "meg",
+    "latitude": "-21.4939",
+    "longitude": "165.771",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Mea](https://endangeredlanguages.com/lang/3569)\nhttps://www.wikidata.org/entity/Q12952836"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**iso6393:2012-131**"
+  },
+  "altnames": {
+    "multitree": "\nHa Mea\nHameha\nMea\nNeukaledonien",
+    "lexvo": "\nMea [en]",
+    "elcat": "\nHa Mea\nHameha\nMea\nNeukaledonien"
+  },
+  "iso_retirement": {
+    "comment": "The proposed correction to the spelling of the Tîrî name is based on better\nlinguistic analysis and is now part of standard linguistic practice in New\nCaledonia, as exemplified in the sites Corpus de la Parole (a summary of\nlanguages spoken in countries associated with France, written by established\nlinguists who have undertaken extensive work in the area) and the official\nAcadémie des langues Kanak site. They also contain further reference to more\nfull linguistic works. The specific Corpus de la Parole site page relevant to\nthis language is: http://corpusdelaparole.in2p3.fr/spip.php?article105\n\nSee below for amalgamation of Mea (correctly Méa) [meg] with [cir] as dialects\nof the same language..\n\nThe settled consensus of NC linguistic opinon, as reflected in the Corpus de la\nParole site (cited above), Wurm & Hattori (1981) and Grace (1976) (bibliographic\ndetails below) is that Tîrî and Méa are dialects of the one language. New\nCaledonian official statistics also gives a single number of speakers for both\ndialects as one.\n\nWhile the cover page of the Académie des langues Kanak site\nhttp://www.alk.gouv.nc/portal/page/portal/alk/langues lists Tîrî and Méa\nseparately when listing the various languages and main dialects spoken in\ndifferent custom areas, this because its aim is to celebrate local linguistic\ndiversity. It has only a single sub-page on the language (listed under\n'Hamea'-re the name, see comments under form submitted for Méa).\n\nThe composite name Tîrî-Méa as used in the Corpus de la Parole site reflects\nNew Caledonian lingistic practice for names of languages composed of two\nsignificant dialects (eg. Nêlêmwa- Nixumwak [nee], Numèè-Kwényi\n\nI have no particular view as to which of the two ISO codes, or a new one, should\nbe used.",
+    "code": "meg",
+    "name": "Mea",
+    "effective": "2013-01-23",
+    "reason": "merge",
+    "remedy": "Merged into [cir] Tiri and named Tîrî or Méa",
+    "change_request": "2012-131",
+    "change_to": "\ncir"
+  },
+  "identifier": {
+    "multitree": "meg",
+    "endangeredlanguages": "3569"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mea (3569-meg) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

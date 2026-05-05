@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Batak Angkola",
+    "hid": "akb",
+    "level": "language",
+    "iso639-3": "akb",
+    "latitude": "1.66127",
+    "longitude": "99.60248",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Angkola_language\nhttps://www.wikidata.org/entity/Q2640686"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Eggink:Angkola-Mandailing**\n**hh:d:Lubis:Angkola**\n**hh:d:Siregar:Angkola**\n**hh:dial:Pangaribuan:Angkola**\n**hh:phon:Dongoran:Angkola**\n**hh:s:Siregar:Angkola**\n**hh:typ:Ilmiah:Angkola**\n**hh:typ:Maschaya:Angkola**\n**hh:w:Stokhof:Holle:Northern-Sumatra**"
+  },
+  "altnames": {
+    "multitree": "\nAnakola\nAngkola\nBatak Angkola",
+    "lexvo": "\nBatak Angkola [en]",
+    "hhbib_lgcode": "\nAngkola Batak\nBatak-Angkola\nBatak-Si Pirok-Mandailing-Angkola-Area\nUlu-Asahan-Labuhan Batu"
+  },
+  "triggers": {
+    "lgcode": "\nmandailing\nangkola"
+  },
+  "identifier": {
+    "multitree": "akb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran** **hh:hv:Adelaar:Proto-Batak**",
+    "subrefs": "\n**hh:hv:Adelaar:Proto-Batak**\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Batak Angkola (akb-akb) = 6b (Threatened)."
+  }
+}

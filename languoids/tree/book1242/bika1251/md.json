@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bikaru-Bragge",
+    "hid": "bic",
+    "level": "language",
+    "iso639-3": "bic",
+    "latitude": "-4.86",
+    "longitude": "142.945",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bikaru_language\nhttps://www.wikidata.org/entity/Q56342"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Laycock:Sepik**\n**hh:hvw:ConradLewis:USepik**\n**hh:w:Bragge:Niksek**\n**hh:w:Laycock:D28**\n**iso6393:2020-026**"
+  },
+  "altnames": {
+    "multitree": "\nBikaru\nBugalu\nPikaru",
+    "lexvo": "\nBikaru [en]",
+    "hhbib_lgcode": "\nBikaru\nBikaru (Bragge)\nBikaru from Ambunti Patrol 1970-71"
+  },
+  "identifier": {
+    "multitree": "bic",
+    "endangeredlanguages": "10628"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Bisorio (10628-bic) = Endangered (20 percent certain, based on the evidence available)"
+  },
+  "iso_retirement": {
+    "code": "bic",
+    "name": "Bikaru",
+    "effective": "2021-01-15",
+    "reason": "merge",
+    "change_to": "\nbir",
+    "remedy": "Merged into [bir] Bisorio",
+    "change_request": "2020-026"
+  }
+}

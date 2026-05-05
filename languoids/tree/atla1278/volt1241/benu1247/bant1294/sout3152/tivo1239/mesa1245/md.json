@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ugare",
+    "hid": "iyo",
+    "level": "language",
+    "iso639-3": "iyo",
+    "latitude": "6.32679",
+    "longitude": "9.8723",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36080\nhttps://en.wikipedia.org/wiki/Mesaka_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:StarrRegnier:Tivoid**\n**hh:h:Cummins:Tivoid**\n**hh:hvw:Alyebo:Tivoid**\n**hh:hvw:Blench:Tivoid**\n**hh:s:CassettaCassetta:Ugare**\n**hh:vld:Angitso:Tivoid**"
+  },
+  "altnames": {
+    "multitree": "\nBanagere\nIyon\nMesaka\nMessaga\nMessaga-Ekol\nMessaka\nUgare",
+    "lexvo": "\nMesaka [en]",
+    "hhbib_lgcode": "\nMesaka\nUgare (= Mesaka)\nUgare (Mesaka)",
+    "glottolog": "\nMesaka"
+  },
+  "triggers": {
+    "lgcode": "\nugare\ntivoid"
+  },
+  "identifier": {
+    "multitree": "iyo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:Tivoid**",
+    "subrefs": "\n**hh:hvw:Blench:Tivoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mesaka (iyo-iyo) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Shuadit",
+    "hid": "sdt",
+    "level": "language",
+    "iso639-3": "sdt",
+    "latitude": "44.1692",
+    "longitude": "5.06601",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Judeo-Proven%C3%A7al\nhttps://www.wikidata.org/entity/Q56472",
+    "timespan": "1977-01-01/1977-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:GuttelAslanov:Judeo-Provencal**\n**hh:h:Sala:Judeo-Romanes**\n**hh:ld:Jochnowitz:Juive-Provence**\n**hh:ld:Nahon:Judeo-Provencal**\n**hh:ld:Pansier:Shuadit**\n**hh:ldb:Oesterreicher:Judisch-Franzosischen:Article**\n**hh:lde:Lunel:Juifs-Provence**\n**hh:ldsoc:Strich:Judeo-Occitan**\n**hh:typ:Aslanov:Judeo-Provencal**\n**hh:vldsoc:Nahon:Francais-Israelites**\n**hh:vldsoc:Nahon:Francais-Israelites:2020**"
+  },
+  "altnames": {
+    "multitree": "\nJudeo-Comtadine\nJudeo-Provençal\nShuadi\nShuadit",
+    "lexvo": "\nChouaditeg [br]\nJudeoprovansalski jezik [hr]\nJudeoprovençal [ca]\nJęzyk szuadit [pl]\nShuadit [en]\nShuadit language [en]\nŞuadit [tr]\nŠuaditšćina [hsb]\nפרובנסלית יהודית [he]\nシュアディート [ja]",
+    "hhbib_lgcode": "\nJudeo-Occitan\nJudeo-Provencal\nJudéo-Provençal\nJuifs de la Provence"
+  },
+  "triggers": {
+    "lgcode": "\nhcal\ncomedie\njudcais"
+  },
+  "identifier": {
+    "multitree": "sdt"
+  },
+  "classification": {
+    "subrefs": "\n**hh:ld:Pansier:Shuadit**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has an entry Shuadit [sdt] for an extinct allegedly Jewish variety of Provençal. But Provençal spoken by Jews has been investigated and found to be indistinguishable from non-Jewish varieties of Provençal\n(**hh:ld:Pansier:Shuadit**, **hh:ld:Banitt:Shuadit**, **hh:h:GuttelAslanov:Judeo-Provencal**:560) which already have entries in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29.",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "sdt"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Shuadit (sdt-sdt) = 10 (Extinct)."
+  }
+}

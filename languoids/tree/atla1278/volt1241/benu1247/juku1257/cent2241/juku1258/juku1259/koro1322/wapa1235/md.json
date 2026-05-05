@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wapan",
+    "hid": "juk",
+    "level": "language",
+    "iso639-3": "juk",
+    "latitude": "7.97862",
+    "longitude": "9.83299",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Wapan](https://endangeredlanguages.com/lang/10437)\nhttps://www.wikidata.org/entity/Q3914914\nhttps://en.wikipedia.org/wiki/Wapan_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:evenhouse:kiekover:68**\n**cldf:lewis:paul:etal:ed:15**\n**eballiso2009:10302**\n**eballiso2009:45308**\n**eballiso2009:5859**\n**hh:e:Moze:Nyifon**\n**hh:ew:Meek:Jukun**\n**hh:he:CAPRO:Benue-State**\n**hh:hv:Shimizu:Jukunoid-Polyglotta**\n**hh:hvw:Shimizu:Jukunoid**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Atim:Nyifon**\n**hh:ld:Dangana:Wapan**\n**hh:ld:Uba:Nyifon**\n**hh:ld:Uba:Nyifon-Igbo**\n**hh:s:Evenhouse:Wukari**\n**hh:s:Welmers:Jukun-Wukari-Takum**\n**hh:w:Armstrong:West-African**\n**hh:w:Gowers:Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nJinkum\nJukon\nJuku\nJuku Junkun\nJukum\nJukun Wapan\nJukun Wukari\nWakari\nWapan\nWapã\nWukari",
+    "lexvo": "\nWapan [en]",
+    "hhbib_lgcode": "\nDjukũ\nJukum\nJukun Wukari\nJukun-Wukari\nNyifon (Iordaa)\nWukari\nWukari Jukun",
+    "elcat": "\nJinkum\nJukon\nJuku\nJuku Junkun\nJukum\nJukun Wapan\nJukun Wukari\nWakari\nWapan\nWukari\nWukari Jukun"
+  },
+  "triggers": {
+    "lgcode": "\nkororofawa\nwukari\ndjuku\njibe"
+  },
+  "identifier": {
+    "multitree": "juk",
+    "endangeredlanguages": "10437"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:Jukunoid**:25-34",
+    "subrefs": "\n**hh:hvw:Shimizu:Jukunoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wapan (10437-juk) = At risk (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

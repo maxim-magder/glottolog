@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Jarawa (India)",
+    "hid": "anq",
+    "level": "language",
+    "iso639-3": "anq",
+    "latitude": "11.6089",
+    "longitude": "92.658",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Jarawa](https://endangeredlanguages.com/lang/3845)\n[Jarawa](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Jarawa)\n[Jarawa (in Andamans)](https://wals.info/languoid/lect/wals_code_jrw)\nhttps://en.wikipedia.org/wiki/Jarawa_language_(Andaman_Islands)\nhttps://www.wikidata.org/entity/Q2475526"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:09:1**\n**cldf:abbi:66:1**\n**cldf:blevins:66:1**\n**cldf:ed:10**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:kumar:03**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:senkuttuvan:82**\n**cldf:temple:03**\n**cldf:witzel:02**\n**hh:e:Cipriani:Jarawa**\n**hh:e:Coomar:Jarawa**\n**hh:e:Mann:Jarawas**\n**hh:e:Sarkar:Jarawa**\n**hh:e:Sarkar:Jarawa:1990**\n**hh:ew:Colebrooke:Andaman**\n**hh:g:Kumar:Jarawa**\n**hh:hew:Earl:Papuans**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hv:Blevins:Sister**\n**hh:hvw:Marsden:East-Insular**\n**hh:hvw:Temple:Languages-Andaman**\n**hh:lde:Sreenathan:Jarawas**\n**hh:phon:Senkuttuvan:Jarawa**\n**hh:vw:Abbi:Jarawa-Aka-Bea**\n**hh:w:Nair:Jarawas**\n**hh:w:Temple:Andamanese**"
+  },
+  "altnames": {
+    "wals": "\nJarawa (in Andamans)",
+    "moseley & asher (1994)": "\nJarawa",
+    "lexvo": "\nIdioma järawa [es]\nJarawa (India) [en]\nJarawa [en]\nJarawa language [en]\nJęzyk jarawa [pl]\nДжарава [ru]",
+    "hhbib_lgcode": "\nAndaman Islands of Colebrooke\nAndaman-Mincopie-Colebrooke\nJarawa",
+    "elcat": "\nJarawa\nJarawa (in Andamans)"
+  },
+  "triggers": {
+    "lgcode": "\nphonology AND jarawa\njarawas"
+  },
+  "identifier": {
+    "wals": "jrw",
+    "endangeredlanguages": "3845"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Jarawa (3845-anq) = Vulnerable (80 percent certain, based on the evidence available) [Kumar 2012](cldf:kumar:12)"
+  }
+}

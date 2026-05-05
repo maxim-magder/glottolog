@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Marúbo",
+    "hid": "mzr",
+    "level": "language",
+    "iso639-3": "mzr",
+    "latitude": "-6.60703",
+    "longitude": "-72.4027",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Marubo](https://endangeredlanguages.com/lang/3008)\n[Marúbo](https://grambank.clld.org/languages/maru1252)\nhttps://en.wikipedia.org/wiki/Mar%C3%BAbo_language\nhttps://www.wikidata.org/entity/Q3296011"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonby:stan:etal:10**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Pano-Takana_marubo00**\n**fabreall2009ann:Pano-Takana_marubo01**\n**fabreall2009ann:Pano-Takana_marubo04**\n**fabreall2009ann:Pano-Takana_marubo05**\n**fabreall2009ann:Pano-Takana_marubo06**\n**fabreall2009ann:Pano-Takana_marubo07**\n**fabreall2009ann:Pano-Takana_marubo08**\n**fabreall2009ann:Pano-Takana_marubo09**\n**fabreall2009ann:Pano-Takana_marubo10**\n**fabreall2009ann:Pano-Takana_marubo13**\n**fabreall2009ann:Pano-Takana_marubo14**\n**fabreall2009ann:Pano-Takana_marubo16**\n**fabreall2009ann:Pano-Takana_marubo17**\n**fabreall2009ann:Pano-Takana_marubo20**\n**fabreall2009ann:Pano-Takana_marubo21**\n**fabreall2009ann:Pano-Takana_marubo22**\n**fabreall2009ann:Pano-Takana_marubo23**\n**fabreall2009ann:Pano-Takana_marubo24**\n**fabreall2009ann:Pano-Takana_marubo25**\n**fabreall2009ann:Pano-Takana_marubo27**\n**fabreall2009ann:Pano-Takana_marubo28**\n**fabreall2009ann:Pano-Takana_marubo29**\n**fabreall2009ann:Pano-Takana_marubo30**\n**fabreall2009ann:Pano-Takana_marubo31**\n**fabreall2009ann:Pano-Takana_marubo32**\n**fabreall2009ann:Pano-Takana_marubo33**\n**fabreall2009ann:Pano-Takana_marubo34**\n**fabreall2009ann:Pano-Takana_marubo35**\n**fabreall2009ann:Pano-Takana_marubo36**\n**fabreall2009ann:Pano-Takana_marubo37**\n**fabreall2009ann:Pano-Takana_marubo38**\n**fabreall2009ann:Pano-Takana_marubo39**\n**fabreall2009ann:Pano-Takana_marubo41**\n**fabreall2009ann:Pano-Takana_marubo42**\n**fabreall2009ann:Pano-Takana_marubo43**\n**fabreall2009ann:Pano-Takana_marubo44**\n**fabreall2009ann:Pano-Takana_marubo45**\n**hh:d:Cesarino:Marubo**\n**hh:e:Melatti:Marubo**\n**hh:e:MontagnerMelatti:Marubo**\n**hh:e:Ruedas:Marubo**\n**hh:e:deLima:Marubo**\n**hh:hsoc:AnonbyHolbrook:Javari**\n**hh:hv:Kensinger:Panoan**\n**hh:hv:deAguiar:Pano**\n**hh:hvb:Fleck:Panoan**\n**hh:hw:Martius:Brasiliens**\n**hh:phon:Costa:Marubo**\n**hh:s:Kennell:Marubo**\n**hh:typ:Costa:Marubo**\n**hh:typ:Costa:Marubo:Caso**\n**hh:typ:Dorigo:Marubo-Matses**\n**hh:typ:Sean:Marubo**\n**hh:vw:Fleck:Kulinas-Marubos**"
+  },
+  "altnames": {
+    "glottolog": "\nMarubo",
+    "multitree": "\nKaniuá\nKatukína\nMarobo\nMarova\nMaruba\nMarubo\nMarúbo\nMarúbu",
+    "lexvo": "\nMarúbo [en]",
+    "hhbib_lgcode": "\nCulino\nKulina Pano Olivenca\nKulina Pano Olivença\nMarubo",
+    "elcat": "\nKaniuá\nKatukína\nMarobo\nMarova\nMaruba\nMarubo\nMarubo of the Javari Basin\nMarúbo"
+  },
+  "triggers": {
+    "lgcode": "\nenganados\nmarubo\nfolkloristic\nlineares\nNOT posse AND marubo\nbraulino"
+  },
+  "identifier": {
+    "multitree": "mzr",
+    "endangeredlanguages": "3008"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Marubo (3008-mzr) = Threatened (20 percent certain, based on the evidence available) [Anonby et al. 2010](cldf:anonby:stan:etal:10)"
+  }
+}

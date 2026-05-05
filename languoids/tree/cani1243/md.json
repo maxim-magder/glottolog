@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Canichana",
+    "hid": "caz",
+    "level": "language",
+    "iso639-3": "caz",
+    "latitude": "-14.3058",
+    "longitude": "-64.944455",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Canichana](https://endangeredlanguages.com/lang/2913)\n[Canichana](https://grambank.clld.org/languages/cani1243)\nhttps://en.wikipedia.org/wiki/Canichana_language\nhttps://www.wikidata.org/entity/Q2936374",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bazan:antonio:00**\n**cldf:decrequi-montfort:rivet:13:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:metraux:48:6**\n**cldf:np:12:5**\n**fabreall2009ann:10133**\n**fabreall2009ann:1137**\n**fabreall2009ann:Kanichana0**\n**fabreall2009ann:Kanichana1**\n**fabreall2009ann:Kanichana2**\n**fabreall2009ann:Kanichana6**\n**fabreall2009ann:Kanichana7**\n**fabreall2009ann:Kanichana9**\n**hh:e:Arlet:Canisiens**\n**hh:e:Metraux:EBolivia**\n**hh:h:Balzan:Centrale-America-Meriodionale**\n**hh:h:Teza:Americane**\n**hh:he:Meireles:Guapore**\n**hh:hew:Cardus:Bolivia**\n**hh:hew:dOrbigny:Americain:2**\n**hh:hsoc:Bazan:Bolivianos**\n**hh:hv:Ibarra:Bolivia**\n**hh:hv:Loukotka:SAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Montano:Bolivia:I**\n**hh:hw:Heath:Bolivian**\n**hh:hw:Nordenskiold:B5858**\n**hh:s:Crevels:Canichana**\n**hh:w:Crequi-MontfortRivet:Kanicana**\n**hh:w:PalauSaiz:Moxos**"
+  },
+  "altnames": {
+    "multitree": "\nAvishiri\nCanesi\nCanichana\nCanisiana\nKanichana\nTekiraka\nTequiraca",
+    "lexvo": "\nCanichana [en]",
+    "hhbib_lgcode": "\nCanichana que es la de los indios del pueblo de San Pedro de Moxos\nCanichanas\nCanichána\nCanisianà",
+    "elcat": "\nCanesi\nCanichana\nCanisiana\nKanichana"
+  },
+  "triggers": {
+    "lgcode": "\nkanicana\nheadwaters\ncanichana"
+  },
+  "identifier": {
+    "multitree": "caz",
+    "endangeredlanguages": "2913"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Adelaar:Andes**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Canichana (2913-caz) = Dormant [Crevels 2012](cldf:crevels:12:1)"
+  }
+}

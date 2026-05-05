@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bilua",
+    "hid": "blb",
+    "level": "language",
+    "iso639-3": "blb",
+    "latitude": "-7.92388",
+    "longitude": "156.663",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG",
+      "SB"
+    ],
+    "links": "\n[Bilua](https://endangeredlanguages.com/lang/10808)\n[Bilua](https://grambank.clld.org/languages/bilu1245)\n[Bilua](https://wals.info/languoid/lect/wals_code_bil)\n[Mbaniata (Lokuru Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-mbaniata-lokuru)\n[Mbilua](https://lexibank.clld.org/languages/transnewguineaorg-mbilua)\n[Mbilua (Ndovele Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-mbilua-ndovele)\nhttps://en.wikipedia.org/wiki/Bilua_language\nhttps://phoible.org/languages/bilu1245\nhttps://www.wikidata.org/entity/Q35003"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2043**\n**cldf:hammarstroem:17**\n**cldf:pawley:ross:etal:ed:01:3**\n**hh:d:NA:Bilua**\n**hh:e:Woodley:Vella-Lavella**\n**hh:g:Obata:Bilua**\n**hh:g:Obata:Bilua:2000**\n**hh:h:Ray:Non-Melanesian**\n**hh:hew:Ribbe:Solomo-Inseln**\n**hh:hv:Pedros:Central-Solomons**\n**hh:hv:Terrill:Solomon-Islands**\n**hh:hv:Wurm:EPapuan**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvtyp:Capell:NAN-Solomons**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvwtyp:Todd:Solomon**\n**hh:hw:Schellong:Worterverzeichnisse**\n**hh:ld:Grace:46**\n**hh:t:Nicholson:Vella-LaVella**\n**hh:vld:Ray:Vella**\n**hh:w:Ribbe:34**\n**mpieva:1960Biluadic**"
+  },
+  "altnames": {
+    "wals": "\nBilua",
+    "wals other": "\nVella la Vella",
+    "ruhlen (1987)": "\nBilua",
+    "moseley & asher (1994)": "\nBilua",
+    "multitree": "\nBilua\nMbilua\nVella Lavella",
+    "lexvo": "\nBilua [en]\nBilua language [en]",
+    "hhbib_lgcode": "\nBilua/Vella La Vella\nMbilua\nVella\nVella LaVella\nWella-La-Wella",
+    "elcat": "\nBilua"
+  },
+  "triggers": {
+    "lgcode": "\nrikiekema\nkarisito\ngosipeli\njisu\nbilua"
+  },
+  "identifier": {
+    "wals": "bil",
+    "multitree": "blb",
+    "endangeredlanguages": "10808"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Terrill:CSolomon**\n**hh:hv:DunnTerrill:Central-Solomons**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bilua (10808-blb) = Threatened (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

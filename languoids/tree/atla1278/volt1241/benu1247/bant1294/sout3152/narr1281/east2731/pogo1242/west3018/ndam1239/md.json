@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ndamba",
+    "hid": "ndj",
+    "level": "language",
+    "iso639-3": "ndj",
+    "latitude": "-8.40485",
+    "longitude": "36.0271",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Ndamba](https://grambank.clld.org/languages/ndam1239)\nhttps://en.wikipedia.org/wiki/Ndamba_language\nhttps://phoible.org/languages/ndam1239\nhttps://www.wikidata.org/entity/Q6983684"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:40995**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**hh:g:EdelstenLijongwa:Chindamba**\n**hh:g:Novotna:Ndamba**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Gonzales:Southern-Tanzania**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:NursePhilippson:EAfrica**\n**hh:hvw:Waite:Southern-Tanzania**\n**hh:soc:Lipembe:Ndamba**"
+  },
+  "altnames": {
+    "multitree": "\nNdamba\nTanzania",
+    "lexvo": "\nNdamba [en]",
+    "hhbib_lgcode": "\nG52_Ndamba"
+  },
+  "triggers": {
+    "lgcode": "\nwandamba\nndamba"
+  },
+  "identifier": {
+    "multitree": "ndj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:EBantu** **hh:hv:Gonzales:Southern-Tanzania**",
+    "subrefs": "\n**hh:hv:Gonzales:Southern-Tanzania**\n**hh:hv:Nurse:EBantu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndamba (ndj-ndj) = 6b* (Threatened)."
+  }
+}

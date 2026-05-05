@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Louisiana Creole French",
+    "hid": "lou",
+    "level": "language",
+    "iso639-3": "lou",
+    "latitude": "30.0412",
+    "longitude": "-90.7475",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Louisiana Creole](https://apics-online.info/contributions/53)\n[Louisiana Creole](https://endangeredlanguages.com/lang/10417)\nhttps://en.wikipedia.org/wiki/Louisiana_Creole\nhttps://www.wikidata.org/entity/Q1185127"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4478**\n**cldf:klinger:neumann-holzschuh:13**\n**cldf:klingler:92**\n**cldf:valdman:albert:etal:98**\n**elpub:ldd2484**\n**hh:g:Broussard:Lousiana**\n**hh:g:Klingler:PointeCoupee**\n**hh:g:Klingler:PointeCoupee:1992**\n**hh:g:Neumann:Breaux**\n**hh:ldsoc:Picone:Cajun-Louisiana**\n**hh:s:KlinglerNeumann:Louisiana**\n**hh:s:ValdmanKlingler:Louisiana-Creole**\n**hh:soc:Carlisle:Louisiana-Creole-French**\n**hh:ssoc:Mayeux:Lousiana-Creole**\n**hh:t:Bienvenu:Negro-French**\n**hh:typ:Perret:Creole-Louisiana**\n**iso6393:2015-003**\n**mpieva:Neumann1985Lecreole**\n**mpieva:Valdman1997Frenchan**\n**mpieva:Valdmann1998Dictiona**\n**sil16:15801**\n**sil16:45238**"
+  },
+  "altnames": {
+    "multitree": "\nLouisiana\nLouisiana Creole\nLouisiana Creole French\nNegro French",
+    "lexvo": "\nCréole louisianais [fr]\nLouisiana Creole French [en]\nLouisianan kreoli [fi]\nルイジアナ・クレオール語 [ja]",
+    "hhbib_lgcode": "\nLouisiana Creole\nLousiana Creole\nLousiana Creole French\nSt. Martin Parish",
+    "elcat": "\nFranse\nKourí-viní\nKreyòl\nLouisiana Creole\nLouisiana Creole French"
+  },
+  "triggers": {
+    "lgcode": "\nparish\ncreole AND louisiana\nlouisiane\nbreaux\npointe\ncoupee"
+  },
+  "identifier": {
+    "multitree": "lou",
+    "endangeredlanguages": "10417",
+    "languagelandscape": "http://languagelandscape.org/language/French%2C%20Louisiana%20Creole"
+  },
+  "classification": {
+    "sub": "**hh:hv:Corne:French-Creole** **hh:h:Marrero:Antillas-Francesas**",
+    "subrefs": "\n**hh:h:Marrero:Antillas-Francesas**\n**hh:hv:Corne:French-Creole**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Louisiana Creole (10417-lou) = Severely Endangered (80 percent certain, based on the evidence available) (The language is not being passed on to children.) [Klinger and Neumann-Holzschuh 2013](cldf:klinger:neumann-holzschuh:13)"
+  }
+}

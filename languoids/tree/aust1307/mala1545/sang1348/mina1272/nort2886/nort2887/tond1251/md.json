@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tondano",
+    "hid": "tdn",
+    "level": "language",
+    "iso639-3": "tdn",
+    "latitude": "1.28024",
+    "longitude": "124.964",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3531514\nhttps://en.wikipedia.org/wiki/Tondano_language\n[Tondano](https://wals.info/languoid/lect/wals_code_tno)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Dotulong:Malayu-Manado**\n**hh:d:Suratman:Tondano**\n**hh:g:Brickell:Tondano**\n**hh:g:Brickell:Tondano:2022**\n**hh:g:Sneddon:Tondano**\n**hh:hv:Sneddon:Proto-Minahasan**\n**hh:hv:Ticoalu:Tonsea-Tondano**\n**hh:hw:Jansen:Talen-Menado**\n**hh:ld:Watuseke:Tondano**\n**hh:s:Watupongoh:Tondano**\n**hh:w:Stokhofetal:Holle:7:2**\n**mpieva:Sneddon1978ProtoMin**\n**sil16:49744**"
+  },
+  "altnames": {
+    "wals": "\nTondano",
+    "ruhlen (1987)": "\nTondano",
+    "moseley & asher (1994)": "\nTondano",
+    "multitree": "\nTolou\nTolour\nTondano\nTondanou\nToulour",
+    "lexvo": "\nTondano [en]",
+    "hhbib_lgcode": "\nTolour-Ka'kas\nTolour-Tondano\nTondano Town\nToundano"
+  },
+  "triggers": {
+    "lgcode": "\ntondano\nminahasan"
+  },
+  "identifier": {
+    "wals": "tno",
+    "multitree": "tdn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sneddon:Proto-Minahasan** **hh:hv:Mead:Sulawesi:2024**:154",
+    "subrefs": "\n**hh:hv:Sneddon:Proto-Minahasan**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tondano (tdn-tdn) = 8a (Moribund)."
+  }
+}

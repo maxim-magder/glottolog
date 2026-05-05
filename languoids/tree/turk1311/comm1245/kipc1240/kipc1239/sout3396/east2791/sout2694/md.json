@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Southern Altai",
+    "hid": "alt",
+    "level": "language",
+    "iso639-3": "alt",
+    "latitude": "50.1347",
+    "longitude": "86.8705",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "KZ",
+      "MN",
+      "RU"
+    ],
+    "links": "\n[Altai (Southern)](https://wals.info/languoid/lect/wals_code_aso)\n[South Altay](https://lexibank.clld.org/languages/savelyevturkic-SouthAltai)\n[Southern Altai](https://endangeredlanguages.com/lang/3044)\nhttps://en.wikipedia.org/wiki/Southern_Altai_language\nhttps://www.wikidata.org/entity/Q1991779"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1311**\n**cldf:anderson:ed:04**\n**cldf:baskakov:97:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:nadelyaev:ed:80:6**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**hh:b:Fisakova:Bachatskix-Teleutov**\n**hh:d:Balakina:Altajsko**\n**hh:d:Baskakov:Altajsko**\n**hh:d:Cumakaev:Altajsko:2015**\n**hh:d:Cumakaev:Altajsko:2018**\n**hh:d:Ryumina:Teleutsko**\n**hh:d:Verbitskij:Altajskago**\n**hh:e:Halemba:Telengits**\n**hh:e:Krader:Altaians**\n**hh:g:Dyrenkova:Ojrotskogo**\n**hh:g:Nevskaya:Altajskogo**\n**hh:hv:Adelungetal:Mithridates:1**\n**hh:hvw:Latham:Comparative**\n**hh:s:Altajskaya:Altajskago**\n**hh:s:Baskakov:Altajskij**\n**hh:s:Baskakov:Altajskij:1958**\n**hh:s:Guner:Altay**\n**hh:s:Kanaev:Altajskogo**\n**hh:s:Simpson:Oirot**\n**hh:s:Tokmasev:Teleutskij**\n**hh:s:Toscakov:Ojrotskogo**\n**hh:s:Toscakova:Ojrotskogo**\n**hh:s:Ubrjatova:Teleutov**\n**hh:s:Urtegeshev:Kalmakov**\n**hh:sd:BaskakovToscakova:Ojrotsko**\n**hh:sd:Bedyurov:Altajskogo**\n**mpieva:Ceremisina1988Voprosya**\n**mpieva:Tazranova2005Biverbal**\n**mpieva:Tybykova1991Issledov**\n**mpieva:Tybykova2000Altajska**\n**mpieva:Tybykova2002Teoretic**"
+  },
+  "altnames": {
+    "wals": "\nAltai (Southern)",
+    "wals other": "\nOirot",
+    "ruhlen (1987)": "\nAltai (Oirot)",
+    "moseley & asher (1994)": "\nAltai",
+    "multitree": "\nAltai\nAltai (Southern)\nAltai, Southern\nAltai-Kalmückisch\nAltay\nAltaï méridional\nAltái meridional\nOirot\nOyrot\nSouth Siberian Turkic",
+    "lexvo": "\nSouthern Altai [en]\nSouthern Altai language [en]\nSudaltaja lingvo [eo]\naltai du Sud [fr]\nЮжноалтайский язык [ru]",
+    "hhbib_lgcode": "\nAltai\nAltai-Kizi\nAltai-Southern\nAltajskij\nKalmak\nLiterary Altaj\nOirot\nOjrot\nOjrotskogo\nTelengitov\nTelengits\nTeleut\nTeleuten\nTeleutov",
+    "elcat": "\nAltai\nAltai Kalmuck\nOirot\nOyrot\nSouthern Altai\nалтай тили\nюжноалтайский язык"
+  },
+  "triggers": {
+    "lgcode": "\nvspomogatelnymi\naltai\nbachatskix\naltajskogo\nojrotskogo\nkumandy\nturkskih\nteleutov\nteoreticeskie\ngorno\naltajskij\noirot\nojrotsko\naltajskaja"
+  },
+  "identifier": {
+    "wals": "aso",
+    "multitree": "alt",
+    "endangeredlanguages": "3044"
+  },
+  "classification": {
+    "sub": "**hh:hv:Egorov:Turkic**:18-19 **hh:hv:Tekin:Turkic**",
+    "subrefs": "\n**hh:hv:Egorov:Turkic**\n**hh:hv:Tekin:Turkic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Southern Altai (3044-alt) = Threatened (80 percent certain, based on the evidence available) [Salminen 2000](cldf:salminen:00)"
+  }
+}

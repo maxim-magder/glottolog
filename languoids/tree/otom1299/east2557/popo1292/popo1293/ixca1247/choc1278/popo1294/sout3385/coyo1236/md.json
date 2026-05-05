@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Coyotepec Popoloca",
+    "hid": "pbf",
+    "level": "language",
+    "iso639-3": "pbf",
+    "latitude": "18.3814",
+    "longitude": "-97.6258",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Popoloca](https://endangeredlanguages.com/lang/5287)\nhttps://www.wikidata.org/entity/Q5180100\nhttps://en.wikipedia.org/wiki/Coyotepec_Popoloca_language\n[Popoloca (San Vicente Coyotepec)](https://wals.info/languoid/lect/wals_code_psv)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:BarreraDakin:Popoloca-San-Vicente-Coyotepec**"
+  },
+  "altnames": {
+    "wals": "\nPopoloca (San Vicente Coyotepec)",
+    "wals other": "\nPopoloca\nSan Vicente Coyotepec",
+    "ruhlen (1987)": "\nPopoloka",
+    "moseley & asher (1994)": "\nPopoloc",
+    "multitree": "\nChocho-Popoloka\nPopoloca\nPopoloca (San Vicente Coyotepec)\nPopoloca, Coyotepec",
+    "lexvo": "\nCoyotepec Popoloca [en]",
+    "elcat": "\nPopoloca"
+  },
+  "triggers": {
+    "lgcode": "\ncoyotepec"
+  },
+  "identifier": {
+    "wals": "psv",
+    "multitree": "pbf",
+    "endangeredlanguages": "5287"
+  },
+  "classification": {
+    "sub": "**hh:typ:Nakamoto:Temalacayuca-Clasificadores**:3",
+    "subrefs": "\n**hh:typ:Nakamoto:Temalacayuca-Clasificadores**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Popoloca (5287) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

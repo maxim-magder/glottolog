@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Madi (Papua New Guinea)",
+    "hid": "grg",
+    "level": "language",
+    "iso639-3": "grg",
+    "latitude": "-5.63017",
+    "longitude": "146.407",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Madi](https://endangeredlanguages.com/lang/4241)\nhttps://www.wikidata.org/entity/Q6727664\nhttps://en.wikipedia.org/wiki/Gira_language\nhttps://phoible.org/languages/madi1261"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:w:Boswell:Mari**\n**hh:w:Cicero:Madi**"
+  },
+  "altnames": {
+    "multitree": "\nGira\nGirara\nGorovu\nMadi",
+    "lexvo": "\nMadi [en]",
+    "hhbib_lgcode": "\nGira\nMadi\nMari-Gumbi\nMari-Lafun",
+    "elcat": "\nGira\nGirara\nMadi"
+  },
+  "identifier": {
+    "multitree": "grg",
+    "endangeredlanguages": "4241"
+  },
+  "classification": {
+    "sub": "**hh:g:McElhanon:Selepet-Finisterre-Huon**:45",
+    "subrefs": "\n**hh:g:McElhanon:Selepet-Finisterre-Huon**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Madi (4241-grg) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

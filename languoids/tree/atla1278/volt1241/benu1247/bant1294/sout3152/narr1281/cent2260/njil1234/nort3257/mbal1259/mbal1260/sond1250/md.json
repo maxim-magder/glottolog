@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sonde",
+    "hid": "shc",
+    "level": "language",
+    "iso639-3": "shc",
+    "latitude": "-6.32223",
+    "longitude": "18.3555",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7560881\nhttps://en.wikipedia.org/wiki/Sonde_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brau:42**\n**eballiso2009:22138**\n**eballiso2009:33133**\n**eballiso2009:44145**\n**eballiso2009:44146**\n**eballiso2009:44147**\n**eballiso2009:47402**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:he:Torday-Joyce:South-Western-Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvtyp:Diata:Soonde-Suku-Mbala**\n**hh:vtyp:Bilongo:Songo-Ngongo**"
+  },
+  "altnames": {
+    "multitree": "\nKisonde\nKisoonde\nSonde\nSoonde",
+    "lexvo": "\nSonde [en]",
+    "hhbib_lgcode": "\nH321_Soonde\nLua\nLuwa\nSondi H43\nSoonde\nSundi Kifouma H13B closest to Sonde"
+  },
+  "triggers": {
+    "lgcode": "\nsoonde"
+  },
+  "identifier": {
+    "multitree": "shc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vansina:West-Central-Africa**:273-283 **hh:hv:Bastinetal:Bantu**",
+    "subrefs": "\n**hh:hv:Vansina:West-Central-Africa**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sonde (shc-shc) = 6a (Vigorous)."
+  }
+}

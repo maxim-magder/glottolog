@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Limonese Creole",
+    "hid": "qlm",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CR"
+    ],
+    "longitude": "-83.0905",
+    "latitude": "9.957414",
+    "iso639-3": "qlm",
+    "links": "\n[Limonese Creole](https://grambank.clld.org/languages/limo1249)\nhttps://en.wikipedia.org/wiki/Limonese_Creole\nhttps://www.wikidata.org/entity/Q1091534"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:WrightMurray:Limon**\n**hh:s:Wolfe:Puerto-Limon**\n**hh:soct:Herzfeld:Costa-Rica**\n**hh:sv:Winkler:Limonese-Creole**\n**hh:typ:Herzfeld:Limon-Creole**\n**hh:typ:Portilla:Criollo-Costa-Rica**"
+  },
+  "triggers": {
+    "lgcode": "\nlimon\nlimonese"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Limonese Creole (643-) = Definitely endangered"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCriollo Inglés de Costa Rica\nLimon Creole"
+  },
+  "identifier": {
+    "multitree": "qlm"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Kurama",
+    "hid": "krh",
+    "level": "language",
+    "iso639-3": "krh",
+    "latitude": "10.4766",
+    "longitude": "7.93507",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35593\nhttps://en.wikipedia.org/wiki/Kurama_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Gunn:Pagan-Central**\n**hh:hew:Meek:Tribal:II**\n**hh:hvw:Rowlands:NNigeria**\n**hh:hvw:Shimizu:Jos**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Ejigboye:Kurama**\n**hh:typ:Adegbite:Kuruma**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nAkurmi\nAkurumi\nAzumu\nBagwama\nBukurumi\nKurama\nTikurami",
+    "lexvo": "\nKurama [en]\nKurama language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nkurrama"
+  },
+  "identifier": {
+    "multitree": "krh"
+  },
+  "classification": {
+    "sub": "**hh:h:Blench:East-Kainji**",
+    "subrefs": "\n**hh:h:Blench:East-Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kurama (krh-krh) = 6a* (Vigorous)."
+  }
+}

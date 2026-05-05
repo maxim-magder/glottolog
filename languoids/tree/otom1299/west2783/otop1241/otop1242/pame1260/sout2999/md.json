@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Southern Pame",
+    "hid": "pmz",
+    "level": "language",
+    "iso639-3": "pmz",
+    "latitude": "20.966",
+    "longitude": "-99.334",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Pame](https://wals.info/languoid/lect/wals_code_pam)\nhttps://www.wikidata.org/entity/Q3361765",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Rubio:Hidalgo**\n**hh:s:Manrique:Jiliapan**\n**hh:s:Manrique:Pame**\n**hh:s:Schuller:Pame**\n**hh:w:Manrique:Pame**\n**hh:w:Soustelle:PameJonaz**"
+  },
+  "altnames": {
+    "multitree": "\nPame\nPame, Southern\nPamean\nSouthern Pame",
+    "lexvo": "\nSouthern Pame [en]",
+    "hhbib_lgcode": "\nClosest to Pacula\nJiliapan\nPame\nSoriano closest to Pacula"
+  },
+  "triggers": {
+    "lgcode": "\njiliapan"
+  },
+  "identifier": {
+    "multitree": "pmz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997** **hh:hv:Campbell:Otomanguean**",
+    "subrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pame, Southern (pmz-pmz) = 10 (Extinct)."
+  }
+}

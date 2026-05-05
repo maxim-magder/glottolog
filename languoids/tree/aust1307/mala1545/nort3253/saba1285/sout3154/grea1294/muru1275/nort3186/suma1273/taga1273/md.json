@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tagal Murut",
+    "hid": "mvv",
+    "level": "language",
+    "iso639-3": "mvv",
+    "latitude": "4.42907",
+    "longitude": "116.177",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7675300\nhttps://en.wikipedia.org/wiki/Tagol_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Ley:Muruts**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hew:Rutter:Pagans-Borneo**\n**hh:hld:Clayre:Eastern-Malaysia**\n**hh:hv:Spitzack:Murutic**\n**hh:ld:Prentice:Alumbis**\n**hh:ld:Prentice:Sumambuq**\n**hh:phon:Lees:Murut**\n**hh:phon:Prentice:Sabah-Murut**\n**hh:typ:Prentice:Sabah-Murut**\n**hh:w:BolangHarrisson:Murut**\n**hh:w:Lobel:North-Borneo**\n**sil16:31571**\n**sil16:31652**\n**sil16:35222**\n**sil16:39812**"
+  },
+  "altnames": {
+    "multitree": "\nSemambu\nSemembu\nSumambu\nSumambu-Tagal\nSumambuq\nTagal Murut",
+    "lexvo": "\nTagal Murut [en]",
+    "hhbib_lgcode": "\n(28) Murut Tagol (TAGOL)\nAlumbis Tagal Murut\nMaligan Tagal\nMurut-Tahol\nN Borneo Murut\nPensiangan\nRundum\nRundum Murut\nSabah Murut\nSumambuq\nTagal\nTagal-Kolur-Lundaya\nTolokoson\nTomani Sumambu"
+  },
+  "triggers": {
+    "lgcode": "\nmurutic\nrundum\nNOT n AND tagal\nsumambuq\nalumbis"
+  },
+  "identifier": {
+    "multitree": "mvv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Spitzack:Murutic**",
+    "subrefs": "\n**hh:hv:Spitzack:Murutic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Murut, Tahol (mvv-mvv) = 6b (Threatened)."
+  }
+}

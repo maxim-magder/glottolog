@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Narom",
+    "hid": "nrm",
+    "level": "language",
+    "iso639-3": "nrm",
+    "latitude": "4.42115",
+    "longitude": "114.011",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Narom](https://grambank.clld.org/languages/naro1251)\n[Narom](https://wals.info/languoid/lect/wals_code_nrm)\nhttps://en.wikipedia.org/wiki/Narom_language\nhttps://www.wikidata.org/entity/Q3336135"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:71**\n**hh:e:Ibrahim:Mirek**\n**hh:e:Rafee:Miriek**\n**hh:h:Ghani:Bibtulu-Miriek**\n**hh:h:Ghani:Miriek**\n**hh:h:Sather:Miri**\n**hh:h:Siraj:Miri**\n**hh:hv:Omar:Baram**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hvw:MohamedYusof:Sarawak-10**\n**hh:hvw:MohamedYusof:Sarawak:**\n**hh:hw:Ray:Borneo**\n**hh:ld:Miri:Meirek**\n**hh:ld:Norahim:Miriek**\n**hh:soc:GhaniRidzuan:Miriek**\n**hh:soc:Ibrahim:Miri**"
+  },
+  "altnames": {
+    "wals": "\nNarom",
+    "wals other": "\nNarum",
+    "ruhlen (1987)": "\nNarom",
+    "moseley & asher (1994)": "\nNarom",
+    "multitree": "\nNarom\nNarum",
+    "lexvo": "\nNarom [en]\nNarom language [en]\nNarum [fr]",
+    "hhbib_lgcode": "\nMirek\nMiri\nMiriek\nNarom of Marudi"
+  },
+  "triggers": {
+    "lgcode": "\nmiriek"
+  },
+  "identifier": {
+    "wals": "nrm",
+    "multitree": "nrm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kroeger:Sarawak**",
+    "subrefs": "\n**hh:hv:Kroeger:Sarawak**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Narom (nrm-nrm) = 7 (Shifting)."
+  }
+}

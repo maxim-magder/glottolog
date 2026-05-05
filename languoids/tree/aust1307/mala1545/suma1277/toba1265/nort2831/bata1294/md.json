@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Batak Dairi",
+    "hid": "btd",
+    "level": "language",
+    "iso639-3": "btd",
+    "latitude": "2.51438",
+    "longitude": "98.2427",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Pakpak_language\nhttps://www.wikidata.org/entity/Q2891045"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Manik:Dairi-Pakpak**\n**hh:g:vanderTuuk:Toba-Batak**\n**hh:g:vanderTuuk:Tobasche**\n**hh:hvw:Latham:Comparative**\n**hh:s:Sembiring:Pakpak-Dairi**\n**hh:typ:Kudadiri:Pakpak**\n**hh:typ:Padang:Simsim**\n**hh:w:Stokhof:Holle:Northern-Sumatra**\n**hh:wsoc:Rahman:Batak-Pakpak**"
+  },
+  "altnames": {
+    "multitree": "\nBatak Dairi\nDairi\nPakpak\nPakpak Dairi",
+    "lexvo": "\nBatak Dairi [en]",
+    "hhbib_lgcode": "\nBatak Toba [bbc]; the Dairi-Batak dialect of Kelasan\nPakpak Batta\nPakpak Dairi\nPakpak-Batak H Hoetabarat\nPakpak-Batak JV Ligvoet\nSimsim\nToba-Batak as it was spoken in Upper Barus\nToba-Batak as it was spoken in Upper Barus; the Dairi-Batak dialect of Kelasan\nthe Dairi-Batak dialect of Kelasan"
+  },
+  "triggers": {
+    "lgcode": "\ndaiki\nuniversitas\ndesember\nfakultas\npakpak"
+  },
+  "identifier": {
+    "multitree": "btd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran** **hh:hv:Adelaar:Proto-Batak**",
+    "subrefs": "\n**hh:hv:Adelaar:Proto-Batak**\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Batak Dairi (btd-btd) = 6b (Threatened)."
+  }
+}

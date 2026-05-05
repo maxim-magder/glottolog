@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sauri",
+    "hid": "srt",
+    "level": "language",
+    "iso639-3": "srt",
+    "latitude": "-2.33349",
+    "longitude": "136.79",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Sauri](https://endangeredlanguages.com/lang/2778)\nhttps://www.wikidata.org/entity/Q7427547\nhttps://en.wikipedia.org/wiki/Sauri_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Detiger:Waroppen**\n**hh:h:Jones:ECenderawasih**\n**hh:h:Sugono:Indonesia**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nSauri",
+    "lexvo": "\nSauri [en]",
+    "hhbib_lgcode": "\nSaoeri\nSauri Sirami",
+    "elcat": "\nSauri"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND cenderawasih"
+  },
+  "identifier": {
+    "multitree": "srt",
+    "endangeredlanguages": "2778"
+  },
+  "classification": {
+    "sub": "**hh:h:Jones:ECenderawasih**",
+    "subrefs": "\n**hh:h:Jones:ECenderawasih**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sauri (2778-srt) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

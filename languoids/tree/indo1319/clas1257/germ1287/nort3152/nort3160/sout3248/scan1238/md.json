@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "East Danish",
+    "hid": "scy",
+    "level": "language",
+    "latitude": "55.52",
+    "longitude": "13.04",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/East_Danish\nhttps://www.wikidata.org/entity/Q4568506"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Hansson:Ostra-Ingelstad**\n**hh:d:Laerere:Bornholmsk**\n**hh:dial:Benson:Blekingska**\n**hh:gd:Swenning:Listers**\n**hh:hdial:Lindqvist:Sydvast**\n**hh:hv:Benson:Sudschwedischer**\n**hh:hv:Inger:Sydvastskanska**\n**hh:hv:Rendahl:Swedish-Baltic**\n**hh:hv:RoikjerRasmussen:Skanske**\n**hh:hv:Sjostedt:Nordostskanska**\n**hh:hvdial:Benson:Blekingska**\n**hh:phon:Billing:Asbomalet**\n**hh:phon:Hansson:Skanska**\n**hh:phon:Olseni:Sodra-Luggudemalet**\n**hh:s:Moller:Bornholmske**\n**hh:s:Prince:Danish-Bornholm**\n**hh:sd:Espersen:Bornholmsk**\n**hh:t:Sjostedt:Glimakra**\n**hh:tsoc:Ohlsson:Skanes**\n**hh:typ:Lech:Skanemalens**\n**hh:vphon:Katlev:Hano**\n**hh:w:Ihre:Swenskt**\n**iso6393:2009-049**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Danish\nScanian\nSkane\nSkånsk\nSkånska\nSouthern Swedish",
+    "hhbib_lgcode": "\nBlekingska\nBornholm\nBornholmsk\nGlimåkra socken i Nordöstra Skåne\nHanö\nListers Härad i Blekinge\nNordöstskånska\nScanian\nSkanica\nSouthern Swedish\nSydvästskånska\nSydöstskånska\nSödra Luggudemålet i Skåne\nÅsbomålet (Norra Skåne)\nÖstra Ingelstad",
+    "glottolog": "\nScanian"
+  },
+  "triggers": {
+    "lgcode": "\nutkast\nskanska\nortografi"
+  },
+  "identifier": {
+    "multitree": "scy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:110-111",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Scanian (409-swe) = Vulnerable"
+  }
+}

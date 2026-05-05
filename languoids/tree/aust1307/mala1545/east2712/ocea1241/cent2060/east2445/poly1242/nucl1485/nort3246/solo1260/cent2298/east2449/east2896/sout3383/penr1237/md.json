@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Māngarongaro",
+    "hid": "pnh",
+    "level": "language",
+    "iso639-3": "pnh",
+    "latitude": "-9.082238",
+    "longitude": "-157.922908",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CK"
+    ],
+    "links": "\n[Māngarongaro](https://grambank.clld.org/languages/penr1237)\n[Penrhyn](https://endangeredlanguages.com/lang/2994)\n[Penrhyn](https://lexibank.clld.org/languages/abvdoceanic-Penrhyn)\n[Penrhyn_235](https://lexibank.clld.org/languages/walworthpolynesian-Penrhyn)\nhttps://en.wikipedia.org/wiki/Penrhyn_language\nhttps://www.wikidata.org/entity/Q3130301"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:buck:32:2**\n**cldf:calculator:14**\n**cldf:campbell:85:1**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:roscoe:91**\n**cldf:roscoe:93**\n**cldf:shibata:03**\n**hh:s:Yasuda:Penrhyn**\n**mpieva:Shibata2003PenrhynE**"
+  },
+  "altnames": {
+    "multitree": "\nMangarongaro\nPenrhyn\nPenrhynese\nTongareva",
+    "lexvo": "\nPenrhyn [en]\nPenrhyn language [en]\nTongarevski jezik [hr]",
+    "hhbib_lgcode": "\nPenrhyn",
+    "elcat": "\nMangarongaro\nPenrhyn\nPenrhynese\nTongareva"
+  },
+  "triggers": {
+    "lgcode": "\npenrhyn"
+  },
+  "identifier": {
+    "multitree": "pnh",
+    "endangeredlanguages": "2994"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:East-Polynesian** **hh:hv:Marck:Polynesian**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Penrhyn (2994-pnh) = Severely Endangered (40 percent certain, based on the evidence available) (The language is being lost by those who leave the atoll to look for economic opportunities elsewhere, typically Australia and New Zealand. On the Atoll, the language is under considerable influence from Rarotongan.) [Shibata 2003](cldf:shibata:03)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Babatana",
+    "hid": "baa",
+    "level": "language",
+    "iso639-3": "baa",
+    "latitude": "-7.22281",
+    "longitude": "157.149",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Babatana](https://grambank.clld.org/languages/baba1268)\n[Sengga](https://lexibank.clld.org/languages/abvdoceanic-Sengga)\n[Sisingga](https://lexibank.clld.org/languages/abvdoceanic-Sisingga)\n[Sisiqa](https://wals.info/languoid/lect/wals_code_sis)\nhttps://en.wikipedia.org/wiki/Babatana_language\nhttps://www.wikidata.org/entity/Q2877785"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tryon:hackman:83**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Ray:Island**\n**hh:hvw:Capell:Choiseul**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hw:Lanyon-Orgill:Choiseul**\n**hh:s:Ray:Bambatana**"
+  },
+  "altnames": {
+    "multitree": "\nBabatana\nEast Choiseul\nMbambatana",
+    "lexvo": "\nBabatana [en]",
+    "hhbib_lgcode": "\nGongoroi east of Cape Silu and including Salavakana-Siepa (inland)-Kiu\nKatoratele\nKiposaka and Babatana\nMbambatana\nRuravai at the eastern end of the south coast\nSengga\nSubi from Subi Head to the eastward for about fifteen miles\nTasobi east of Cape Kiu including the villages of Kansana-Tinoi-Nabisassa-Simoto-Bangan\nincluding the villages of Luti and Sasamalaga"
+  },
+  "triggers": {
+    "lgcode": "\nbambatana"
+  },
+  "identifier": {
+    "wals": "sis",
+    "multitree": "baa"
+  },
+  "classification": {
+    "sub": "**hh:s:Ross:Sisiqa**:456",
+    "subrefs": "\n**hh:s:Ross:Sisiqa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Babatana (baa-baa) = 5 (Developing)."
+  }
+}

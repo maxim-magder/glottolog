@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Phuong",
+    "hid": "phg",
+    "level": "language",
+    "iso639-3": "phg",
+    "latitude": "16.2118",
+    "longitude": "107.467",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7188376\nhttps://en.wikipedia.org/wiki/Phuong_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2140**\n**hh:d:Costello:Katu**\n**hh:hv:Sidwell:Katuic**"
+  },
+  "altnames": {
+    "multitree": "\nHuu River Vân Kiêu\nPhuang\nPhuong\nPhuong Catang",
+    "lexvo": "\nPhuong [en]",
+    "hhbib_lgcode": "\nHigh Katu"
+  },
+  "triggers": {
+    "lgcode": "\nv AND katu"
+  },
+  "identifier": {
+    "multitree": "phg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Phuong (phg-phg) = 6a* (Vigorous). Language of recognized ethnic group: Ktu."
+  }
+}

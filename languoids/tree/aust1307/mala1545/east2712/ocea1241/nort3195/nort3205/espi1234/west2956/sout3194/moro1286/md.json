@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ande",
+    "hid": "mrp",
+    "level": "language",
+    "iso639-3": "mrp",
+    "latitude": "-15.3498",
+    "longitude": "166.891",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ande](https://endangeredlanguages.com/lang/10777)\n[Mores](https://endangeredlanguages.com/lang/4711)\n[Morouas](https://lexibank.clld.org/languages/abvdoceanic-Morouas)\nhttps://en.wikipedia.org/wiki/Ande_language\nhttps://www.wikidata.org/entity/Q6913299"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2120**\n**asjp2010:317**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:creevey:foster:etal:21**\n**cldf:cribb:00**\n**cldf:francois:14:1**\n**cldf:geismar:05**\n**cldf:geismar:09:1**\n**cldf:geismar:09:2**\n**cldf:keesing:84:2**\n**cldf:layard:28**\n**cldf:layard:36**\n**cldf:layard:42**\n**cldf:lewis:ed:09**\n**cldf:np:13:6**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**hh:h:Francois:Density-Vanuatu**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMorouas\nMoruas",
+    "lexvo": "\nMorouas [en]",
+    "hhbib_lgcode": "\nAnde\nBatunlamak\nMorouas",
+    "elcat": "\nKo\nMores\nMorouas\nMoruas",
+    "glottolog": "\nMorouas"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "mrp",
+    "endangeredlanguages": "4711"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ande (10777) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

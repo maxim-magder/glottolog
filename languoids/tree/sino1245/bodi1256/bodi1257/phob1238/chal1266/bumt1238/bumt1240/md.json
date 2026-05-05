@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bumthangkha",
+    "hid": "kjz",
+    "level": "language",
+    "iso639-3": "kjz",
+    "latitude": "27.6494",
+    "longitude": "90.8037",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2786408\nhttps://en.wikipedia.org/wiki/Bumthang_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Dzonkha:Bumthang**\n**hh:hv:Hyslop:East-Bodish:Reconstruction**\n**hh:hv:vanDriem:Himalayas**\n**hh:hvld:Hyslop:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish:2010**\n**hh:hvw:Donohue:Bumthang**\n**hh:s:Peck:Bumthang**\n**hh:s:vanDriem:Bumthang**\n**hh:s:vanDriem:Bumthang-Central-Bhutan**\n**hh:s:vanDriem:Bumthang:2015**\n**hh:typ:DonohueDonohue:Bumthang**\n**hh:typ:DonohueDonohue:Bumthang:Extended**\n**hh:typ:Wyatt:Bumthang**\n**hh:w:MichailovskyMazaudon:Bumthang**"
+  },
+  "altnames": {
+    "multitree": "\nBhumtam\nBumtang\nBumtangkha\nBumtanp\nBumthang\nBumthangkha\nBumthapkha\nKebumtamp",
+    "lexvo": "\nBumthangkha [en]",
+    "hhbib_lgcode": "\nBumthang\nChamkhar\nChumey\nDhur\nNupbikha\nTang\nTrongsa\nUra"
+  },
+  "triggers": {
+    "lgcode": "\nbumthang"
+  },
+  "identifier": {
+    "multitree": "kjz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bodt:East-Bodish** **hh:hvld:Hyslop:East-Bodish**",
+    "subrefs": "\n**hh:hv:Bodt:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Nupbikha (1257-npb) = Vulnerable; Bumthang (1245-kjz) = Vulnerable"
+  }
+}

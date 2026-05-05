@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "I'saka",
+    "hid": "ksi",
+    "level": "language",
+    "iso639-3": "ksi",
+    "latitude": "-2.80084",
+    "longitude": "141.303",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[I'saka](https://endangeredlanguages.com/lang/10584)\n[I'saka](https://grambank.clld.org/languages/kris1246)\n[I'saka](https://wals.info/languoid/lect/wals_code_isa)\nhttps://en.wikipedia.org/wiki/I%27saka_language\nhttps://phoible.org/languages/kris1246\nhttps://www.wikidata.org/entity/Q841704"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:donohue:roque:02**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Cheesman:Bewani**\n**hh:e:Klappa:Krisa**\n**hh:g:DonohueRoque:Isaka**\n**hh:g:DonohueSanRoque:Isaka**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:SkoKwomtariLeftMay**\n**hh:hvld:DonohueCrowther:NCNG**\n**hh:w:Laycock:D3**\n**iso6393:2008-008**"
+  },
+  "altnames": {
+    "wals": "\nI'saka",
+    "ruhlen (1987)": "\nKrisa",
+    "moseley & asher (1994)": "\nKrisa",
+    "multitree": "\nI'saka\nKrisa",
+    "lexvo": "\nI'saka [en]\nI'saka language [en]\nKrisa [en]\nKrisa jezik [hr]\n이사카어 [ko]",
+    "hhbib_lgcode": "\nIsaka\nKrisa\nKrissa",
+    "elcat": "\nI'saka\nIsaka\nKrisa"
+  },
+  "triggers": {
+    "lgcode": "\nfallow\nisaka\nkrisa"
+  },
+  "identifier": {
+    "wals": "genus/krisa",
+    "multitree": "kris;ksi",
+    "endangeredlanguages": "10584"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Donohue:Skou**, **hh:hvld:DonohueCrowther:NCNG** **hh:g:DonohueRoque:Isaka**:6-7",
+    "subrefs": "\n**hh:g:DonohueRoque:Isaka**\n**hh:hvphon:Donohue:Skou**\n**hh:hvld:DonohueCrowther:NCNG**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "I'saka (10584-ksi) = Severely Endangered (80 percent certain, based on the evidence available) (I'saka is no longer being widely learnt as a first language, although the extent of this decline, as opposed to diglossia, is difficult to ascertain, as it seems that children’s passive knowledge of the language greatly exceeds their active capabilities.) [Donohue and Roque 2004](cldf:donohue:sanroque:04)"
+  }
+}

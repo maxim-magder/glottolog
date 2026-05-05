@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mwan",
+    "hid": "moa",
+    "level": "language",
+    "iso639-3": "moa",
+    "latitude": "7.87533",
+    "longitude": "-5.94577",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\n[Mwan](https://grambank.clld.org/languages/mwan1250)\nhttps://en.wikipedia.org/wiki/Mwan_language\nhttps://phoible.org/languages/mwan1250\nhttps://www.wikidata.org/entity/Q3320111"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:670**\n**eballiso2009:11663**\n**eballiso2009:14477**\n**eballiso2009:14478**\n**eballiso2009:56925**\n**eballiso2009:59371**\n**hh:d:PerexvalskayaMoise:Mwan**\n**hh:g:Fleming:Mona**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hvw:Vydrine:Mande**\n**hh:s:Perexvalskaya:Mwan**\n**hh:s:Prost:Mana-Busa**\n**hh:typ:Perekhvalskaya:Mwan**\n**hh:typ:Perekhvalskaya:Mwan:Deictique**\n**hh:typ:Perekhvalskaya:Mwan:Verbale**\n**hh:typ:Yegbe:Mwan**\n**hh:typd:Perekhvalskaya:Mwan**\n**hh:w:Prost:Mana-Busa-Vocabulaires**\n**sil16:15397**\n**sil16:17351**\n**sil16:36347**"
+  },
+  "altnames": {
+    "multitree": "\nMona\nMouan\nMuan\nMuana\nMwa\nMwan",
+    "lexvo": "\nMwan [en]",
+    "hhbib_lgcode": "\nMwa"
+  },
+  "triggers": {
+    "lgcode": "\nmuan\nmwan\nko{o{"
+  },
+  "identifier": {
+    "multitree": "moa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dwyer:Mande:1989** **hh:hv:Dwyer:Mande**",
+    "subrefs": "\n**hh:hv:Dwyer:Mande:1989**\n**hh:hv:Dwyer:Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mwan (moa-moa) = 5* (Developing)."
+  }
+}

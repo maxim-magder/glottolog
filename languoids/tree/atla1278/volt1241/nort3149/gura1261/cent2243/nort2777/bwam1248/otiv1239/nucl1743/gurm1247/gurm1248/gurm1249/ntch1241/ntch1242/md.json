@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ntcham",
+    "hid": "bud",
+    "level": "language",
+    "iso639-3": "bud",
+    "latitude": "9.23971",
+    "longitude": "0.599275",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH",
+      "TG"
+    ],
+    "links": "\n[Ncàm](https://wals.info/languoid/lect/wals_code_ncm)\nhttps://en.wikipedia.org/wiki/Ntcham_language\nhttps://phoible.org/languages/ntch1242\nhttps://www.wikidata.org/entity/Q36266"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1664**\n**cldf:froelich:cornevin:63**\n**cldf:klose:99**\n**cldf:zech:99**\n**eballiso2009:10051**\n**eballiso2009:10485**\n**eballiso2009:10857**\n**eballiso2009:12784**\n**eballiso2009:15503**\n**eballiso2009:17541**\n**eballiso2009:17542**\n**eballiso2009:17543**\n**eballiso2009:17545**\n**eballiso2009:19355**\n**eballiso2009:20857**\n**eballiso2009:22264**\n**eballiso2009:22265**\n**eballiso2009:22267**\n**eballiso2009:25464**\n**eballiso2009:28736**\n**eballiso2009:29479**\n**eballiso2009:31844**\n**eballiso2009:3283**\n**eballiso2009:35939**\n**eballiso2009:35944**\n**eballiso2009:39461**\n**eballiso2009:39618**\n**eballiso2009:42566**\n**eballiso2009:44785**\n**eballiso2009:44819**\n**eballiso2009:44821**\n**eballiso2009:44822**\n**eballiso2009:44823**\n**eballiso2009:44824**\n**eballiso2009:45441**\n**eballiso2009:45946**\n**eballiso2009:46014**\n**eballiso2009:46614**\n**eballiso2009:4682**\n**eballiso2009:46820**\n**eballiso2009:48542**\n**eballiso2009:49268**\n**eballiso2009:49469**\n**eballiso2009:50776**\n**eballiso2009:50778**\n**eballiso2009:50781**\n**eballiso2009:51069**\n**eballiso2009:51092**\n**eballiso2009:51400**\n**eballiso2009:52068**\n**eballiso2009:52940**\n**eballiso2009:55417**\n**eballiso2009:56043**\n**eballiso2009:56369**\n**eballiso2009:9327**\n**eballiso2009:9328**\n**hh:e:Klose:Bassarivolk**\n**hh:g:Badie:Ncam**\n**hh:g:Cox:Ncam**\n**hh:g:Takassi:Ncam**\n**hh:h:Bertho:Voltaiques**\n**hh:he:Froelich:Nord-Togo**\n**hh:hv:Manessy:Oti-Volta**\n**hh:hv:Takassi:Gurma**\n**hh:hvw:Manessy:Gurma**\n**hh:hw:Groh:Togohinterlandes**\n**hh:hw:KroppDakubu:WALDS1:I**\n**hh:phon:AbbottCox:Basari**\n**hh:phonv:Podi:Akasilimi-Baasaal**\n**hh:s:Westermann:Guang**\n**hh:w:Armstrong:West-African**\n**hh:w:CNLT:Togo**\n**mpieva:Westermann1922DieSprac**\n**sil16:10475**\n**sil16:13334**\n**sil16:13335**\n**sil16:18536**\n**sil16:22790**\n**sil16:34507**\n**sil16:40956**\n**sil16:41312**"
+  },
+  "altnames": {
+    "multitree": "\nBasaal\nBasar\nBasare\nBasari\nBassar\nBassari\nNatchamba\nNcham\nNtcham\nTobote",
+    "lexvo": "\nNtcham [en]",
+    "hhbib_lgcode": "\n6xBassar\nBasari\nBassari\nBassari in Togo\nNcam\nTobote"
+  },
+  "triggers": {
+    "lgcode": "\nncham\ntobote\nbasare\nsokode\nbasarivolk\nncam\nvermischte\nzwolf\nlakasilimi\nlallemand\nbassar\ntchambi\nbassars\nlallogement\nntjam\neisenindustrie\nntcham"
+  },
+  "identifier": {
+    "wals": "ncm",
+    "multitree": "bud;ntch"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Manessy:Gurma**",
+    "subrefs": "\n**hh:hvw:Manessy:Gurma**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ntcham (bud-bud) = 5 (Developing)."
+  }
+}

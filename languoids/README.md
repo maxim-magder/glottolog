@@ -9,9 +9,9 @@ within the respective directory of the languoid the information pertains to.
 
 To allow easier access to the languoid information files, three index documents are automatically generated:
 
-- [Languages](languages.md)
-- [Families](families.md)
-- [Dialects](dialects.md)
+- [Languages](languages.json)
+- [Families](families.json)
+- [Dialects](dialects.json)
 
 A better way to navigate through the tree of languoids may be the [Glottolog website](http://glottolog.org), which allows
 searching languoids by name, ISO 639-3 code, glottocode, etc. Each languoid detail page on Glottolog links to the

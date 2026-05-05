@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Xakriabá",
+    "hid": "xkr",
+    "level": "language",
+    "iso639-3": "xkr",
+    "latitude": "-19.0",
+    "longitude": "-47.0",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Xakriabá](https://endangeredlanguages.com/lang/3975)\nhttps://www.wikidata.org/entity/Q3073441\nhttps://en.wikipedia.org/wiki/Xakriab%C3%A1_language",
+    "timespan": "1900-01-01/1900-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**fabreall2009ann:Je_xikriaba0**\n**fabreall2009ann:Je_xikriaba1**\n**fabreall2009ann:Je_xikriaba2**\n**fabreall2009ann:Je_xikriaba5**\n**fabreall2009ann:Je_xikriaba7**\n**hh:e:Marcato:Xakriaba**\n**hh:e:daAlmeidaetal:Xakriaba**\n**hh:e:deAlmeida:Xakriaba**\n**hh:hw:Martius:Brasiliens**\n**hh:v:OrphaoDamulakis:Akroa-Xakriaba**"
+  },
+  "altnames": {
+    "glottolog": "\nXakriaba",
+    "multitree": "\nChakriaba\nChicriaba\nChikriaba\nSakiriabá\nShacriaba\nShakriabá\nXacriabá\nXakriabá",
+    "lexvo": "\nXakriabá [en]\nXakriabá language [en]",
+    "hhbib_lgcode": "\nChikriabás",
+    "elcat": "\nChakriaba\nChicriaba\nChikriaba\nShacriaba\nShakriabá\nXacriabá\nXakriabá"
+  },
+  "triggers": {
+    "lgcode": "\nxikriaba\nxacriaba\nxakriaba"
+  },
+  "identifier": {
+    "multitree": "xkr",
+    "endangeredlanguages": "3975"
+  },
+  "classification": {
+    "sub": "**hh:v:OrphaoDamulakis:Akroa-Xakriaba**",
+    "subrefs": "\n**hh:v:OrphaoDamulakis:Akroa-Xakriaba**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Xakriabá (3975-xkr) = Dormant [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

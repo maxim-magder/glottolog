@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Michoacán Nahuatl",
+    "hid": "ncl",
+    "level": "language",
+    "iso639-3": "ncl",
+    "latitude": "18.3412",
+    "longitude": "-103.361",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Michoacán Nahuatl](https://grambank.clld.org/languages/mich1245)\n[Nahuatl (Michoacán)](https://wals.info/languoid/lect/wals_code_nhm)\nhttps://en.wikipedia.org/wiki/Michoac%C3%A1n_Nahuatl\nhttps://phoible.org/languages/mich1245\nhttps://www.wikidata.org/entity/Q2896217"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Cortes:Mexicano-Guadalaxara**\n**hh:hv:Robinson:Aztec**\n**hh:hvsoctyp:Valinas:Nahuatl-Periferia-Occidental**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:s:Guerra:Mexicana-Guadalajara**\n**hh:s:Sischo:Michoacan**\n**hh:s:SischoHollenbach:Michoacan**\n**hh:vw:Valinas:Jalisco**\n**hh:w:Arreola:Mexicano-Jalisco**\n**hh:w:Ruvalcaba:Mexicano**\n**hh:wdial:Valinas:Jalisco**\n**sil16:12203**\n**sil16:12329**\n**sil16:15223**"
+  },
+  "altnames": {
+    "glottolog": "\nMichoacan Nahuatl",
+    "wals": "\nNahuatl (Michoacán)",
+    "wals other": "\nMichoacan Nahuatl\nMichoacán Aztec",
+    "ruhlen (1987)": "\nNawa",
+    "moseley & asher (1994)": "\nNahuatl",
+    "multitree": "\nMexicano\nMichoacan Aztec\nNahual de Michoacán\nNahuatl\nNahuatl (Michoacán)\nNahuatl, Michoacán\nWestern Nawa",
+    "lexvo": "\nMichoacán Nahuatl [en]",
+    "hhbib_lgcode": "\nCa 20.80 and 103.20 in Jalisco closest to Nahuatl-Michoacán\nClosest to Nahuatl-Michoacán\nJalisco: Tuxpan\nMichoacan\nMichoacán: Ostula-Aquila\nNahuatl-Michoacán\nObispado de Guadalajara\nSan Andres Ixtlan in Jalisco 19.9 and 103.5 closest to Nahuatl-Michoacán\nSuchitlan in Colima closest to Nahuatl-Michoacán\nTuxpan in Jalisco 19.8 and 103.5 closest to Nahuatl-Michoacán\nTuxpan-Jalisco"
+  },
+  "triggers": {
+    "lgcode": "\nnahual\nisco\ntuxpan\nusual\nguadalajara"
+  },
+  "identifier": {
+    "wals": "nhm",
+    "multitree": "ncl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Canger:Nahuatl-Guerrero**",
+    "subrefs": "\n**hh:hv:Canger:Nahuatl-Guerrero**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Michoacán (ncl-ncl) = 6b (Threatened)."
+  }
+}

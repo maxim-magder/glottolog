@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kulung (Nepal)",
+    "hid": "kle",
+    "level": "language",
+    "iso639-3": "kle",
+    "latitude": "27.1606",
+    "longitude": "87.5717",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Kiranti_Kulung](https://lexibank.clld.org/languages/sagartst-Kulung)\n[Kulung](https://wals.info/languoid/lect/wals_code_klg)\n[Kulung (Nepal)](https://endangeredlanguages.com/lang/5653)\n[Kulung (Nepal)](https://grambank.clld.org/languages/kulu1253)\nhttps://en.wikipedia.org/wiki/Kulung_language_(Nepal)\nhttps://phoible.org/languages/kulu1253\nhttps://www.wikidata.org/entity/Q6443304"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1472**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:np:12:8**\n**cldf:simons;:fennig:ed:13**\n**cldf:yadava:glover:ed:99:6**\n**hh:g:Tolsma:Kulung**\n**hh:g:Tolsma:Kulung:1999**\n**hh:he:Toba:Rai**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Toba:Northern-Rai**\n**hh:hvw:Grierson:3:I**\n**hh:typ:Lamontre:Kulung**\n**hh:typ:Rai:Kulung**\n**hh:w:Hodgson:Kirantis**\n**hh:w:Wolfenden:Kulung**\n**hh:wsoc:Yadav:Kulung**\n**mpieva:268**\n**sil16:10019**\n**sil16:11130**\n**sil16:12149**\n**sil16:41773**\n**sil16:43922**"
+  },
+  "altnames": {
+    "wals": "\nKulung",
+    "moseley & asher (1994)": "\nKulung (Tibeto-Burman)",
+    "multitree": "\nJindā\nKhambu\nKholung\nKhulung\nKhulunge Rai\nKulu Ring\nKulung\nKulungo\nRai",
+    "lexvo": "\nKulung (Nepal) [en]\nKulung [en]\nKulungish [gv]",
+    "hhbib_lgcode": "\nBung\nChachalung\nChheskam\nGudel\nKulung\nPelmang",
+    "elcat": "\nJindā\nKhambu\nKholung\nKhulung\nKhulunge Rai\nKulu Ring\nKulung (Nepal)\nRai"
+  },
+  "triggers": {
+    "lgcode": "\nkulung\nkulunge"
+  },
+  "identifier": {
+    "wals": "klg",
+    "multitree": "kle",
+    "endangeredlanguages": "5653"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDriem:Himalayas**:698-703 **hh:ldsoc:Grollmann:Nachiring**:10-15",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:ldsoc:Grollmann:Nachiring**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kulung (Nepal) (5653-kle) = Threatened (80 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

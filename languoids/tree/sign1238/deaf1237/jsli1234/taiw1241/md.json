@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Taiwan Sign Language",
+    "hid": "tss",
+    "level": "language",
+    "iso639-3": "tss",
+    "latitude": "25.0206",
+    "longitude": "121.305",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34019\nhttps://en.wikipedia.org/wiki/Taiwan_Sign_Language\n[Taiwanese Sign Language (Ziran Shouyu)](https://wals.info/languoid/lect/wals_code_tzi)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:b:Smith:Taiwan-Sign**\n**hh:d:Chao:Taiwan-Sign**\n**hh:d:SmithTing:Shou**\n**hh:h:FischerGong:East-Asian-Sign**\n**hh:hld:taiTsay:Taiwan-Sign:2017**\n**hh:hv:SuTai:Taiwan-Chinese-Japanese-American-Sign**\n**hh:phon:Lee:Taiwan-Sign**\n**hh:s:Smith:Taiwan-Sign**\n**hh:s:TaiTsay:Hong-Kong-Sign**\n**hh:s:TaiTsay:Taiwan-Sign-World**\n**hh:soc:Hurlbut:Sign-Taiwan**\n**hh:soctyp:Dai:Shouyu**\n**hh:typ:Chang:Taiwan-Sign**\n**hh:typ:Chen:Taiwan-Sign**\n**hh:typ:Lai:Taiwan-Sign**\n**hh:typ:Lin:Taiwan-Sign**\n**hh:typ:Miao:Taiwan-Sign**\n**hh:typ:Smith:Taiwan-Sign**\n**hh:typ:Su:Taiwan-Sign**\n**hh:typ:TaiSu:Taiwan-Shouyu**\n**hh:typ:TsaySmith:Taiwan-Sign**\n**hh:typ:Zhang:Taiwan-Sign**\n**hh:v:Xu:Chinese-Taiwan-Sign**\n**hh:vld:Sasaki:Japanese-Taiwan-Sign**\n**sil16:45045**"
+  },
+  "altnames": {
+    "wals": "\nTaiwanese Sign Language (Ziran Shouyu)",
+    "multitree": "\nTaiwan Sign Language\nTaiwan Ziran Shouyu",
+    "lexvo": "\nLíngua de Sinais de Taiwan [pt]\nTaiwan Sign Language [en]\nTaiwanese Sign Language [en]\n台灣手語 [zh]",
+    "hhbib_lgcode": "\nTaiwan Sign Language (TSL)"
+  },
+  "triggers": {
+    "lgcode": "\nziran\nthe AND hard\nshouyu"
+  },
+  "identifier": {
+    "wals": "tzi",
+    "multitree": "tss"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Taiwan Sign Language (tss-tss) = 6b (Threatened)."
+  },
+  "classification": {
+    "sub": "Historical and lexical evidence (**hh:hld:Mori:Sign-Japan**:802-803, **hh:h:FischerGong:East-Asian-Sign**, **hh:hvld:Sagara:Japanese-Sign**, **hh:h:Woll:Global-Sign**:29, **hh:vld:Sasaki:Japanese-Taiwan-Sign**).",
+    "subrefs": "\n**hh:hld:Mori:Sign-Japan**\n**hh:h:Woll:Global-Sign**\n**hh:hvld:Sagara:Japanese-Sign**\n**hh:h:FischerGong:East-Asian-Sign**\n**hh:vld:Sasaki:Japanese-Taiwan-Sign**"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Northeast Sahaptin",
+    "hid": "waa",
+    "level": "language",
+    "iso639-3": "waa",
+    "latitude": "45.7206",
+    "longitude": "-118.424",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953960"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jansen:10:2**\n**hh:e:Sprague:Palouse**\n**hh:e:Stern:Cayuse**\n**hh:hv:Rigsby:SPlateau**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:s:Rude:Sahaptin**"
+  },
+  "altnames": {
+    "multitree": "\nNorth Sahaptin\nNortheast Sahaptin\nNortheastern\nSahaptin\nSahaptin (Northern)\nWalla Walla\nWaluulapam",
+    "lexvo": "\nWalla Walla [en]",
+    "hhbib_lgcode": "\nPalouse\nWalawala\nWalla Walla"
+  },
+  "triggers": {
+    "lgcode": "\nnorthern AND sahaptin"
+  },
+  "identifier": {
+    "multitree": "waa-wal;waa",
+    "endangeredlanguages": "3368"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997**",
+    "subrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Sahaptin (3368-waa) = Critically Endangered (80 percent certain, based on the evidence available) ['bib5217']"
+  }
+}

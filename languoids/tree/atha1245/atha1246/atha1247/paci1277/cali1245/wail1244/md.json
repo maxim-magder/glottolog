@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Eel River Athabaskan",
+    "hid": "wlk",
+    "level": "language",
+    "iso639-3": "wlk",
+    "latitude": "39.1513",
+    "longitude": "-123.284",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Eel River Athabaskan](https://endangeredlanguages.com/lang/2174)\nhttps://en.wikipedia.org/wiki/Wailaki_language\nhttps://www.wikidata.org/entity/Q20832",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baumhoff:58**\n**cldf:cook:56**\n**cldf:driver:39**\n**cldf:ed:10**\n**cldf:essene:40**\n**cldf:gifford:22**\n**cldf:golla:goddard:etal:08**\n**cldf:kroeber:barrett:60**\n**cldf:nomland:35**\n**cldf:np:12:5**\n**hh:e:Elsasser:Wailaki**\n**hh:e:Goddard:Wailaki**\n**hh:g:Begay:Wailaki**\n**hh:hv:Hoijer:Athapaskan**\n**hh:hvb:Golla:California**\n**hh:t:Goddard:Wailaki**\n**hh:t:Seaburg:Wailaki**"
+  },
+  "altnames": {
+    "multitree": "\nAthabaskan d'Eel River\nKenesti\nLassik\nNongatl\nSinkyone\nWailaki\nWailaki-Sinkyone\nWailaki-Sinkyone-Nongatl-Lassik\nWailakki",
+    "lexvo": "\nWailaki [en]\nWailaki language [en]",
+    "glottolog": "\nWailaki",
+    "hhbib_lgcode": "\nWailaki",
+    "elcat": "\nEel River Athabaskan\nEel River Athapaskan\nSaiaz"
+  },
+  "triggers": {
+    "lgcode": "\nwailaki"
+  },
+  "identifier": {
+    "multitree": "wlk",
+    "endangeredlanguages": "2174"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eel River Athabaskan (2174) = Dormant (Likely dormant.\n\nGolla et al. (2008): \"Semi-fluent speakers of one or more Eel River Athabaskan varieties survived into the 1970s.\") [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

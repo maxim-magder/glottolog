@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bench",
+    "hid": "bcq",
+    "level": "language",
+    "iso639-3": "bcq",
+    "latitude": "7.04682",
+    "longitude": "35.7673",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Bench](https://grambank.clld.org/languages/benc1235)\n[Gimira](https://wals.info/languoid/lect/wals_code_gim)\nhttps://en.wikipedia.org/wiki/Bench_language\nhttps://phoible.org/languages/benc1235\nhttps://www.wikidata.org/entity/Q35108"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:breeze:86**\n**eballiso2009:15869**\n**eballiso2009:22065**\n**eballiso2009:29330**\n**eballiso2009:30949**\n**eballiso2009:37057**\n**eballiso2009:37058**\n**eballiso2009:43612**\n**eballiso2009:7597**\n**hh:d:Tekle:Benc**\n**hh:e:Lange:Gimira**\n**hh:e:Nicolas:Dizzu**\n**hh:ew:Montandon:Ghimirra**\n**hh:ew:Pauli:Splitterstamme**\n**hh:g:Rapold:Benchnon**\n**hh:h:Cerulli:Etiopia-Occidentale:1928**\n**hh:hv:Leslau:Ethiopia**\n**hh:hv:Wedekind:Tone**\n**hh:hvw:Bender:Ethiopia**\n**hh:hvw:Fleming:EAfrica**\n**hh:s:Breeze:Gimira**\n**hh:typ:Breeze:Gimira**\n**hh:typ:Wedekind:Benchnon**\n**hh:v:Aklilu:Bench-Majoid**\n**hh:v:Atimo:Benchnon-Shenon**\n**hh:v:Breeze:Gimira-Dizi**\n**hh:vw:Conti:Ghimirra**\n**hh:w:dAbbadie:Bench**\n**sil16:22016**\n**sil16:22092**\n**sil16:45008**"
+  },
+  "altnames": {
+    "wals": "\nGimira",
+    "wals other": "\nBencho\nDizu",
+    "ruhlen (1987)": "\nBench",
+    "moseley & asher (1994)": "\nBencho",
+    "multitree": "\nBenc'\nBench\nBencho\nBensho\nDizu\nGhimarra\nGimarra\nGimira\nKaba\nShe",
+    "lexvo": "\nBench [de]\nBench language [en]\nGimira [fr]",
+    "hhbib_lgcode": "\nBenchnon\nBencho\nDizou-Bennecho\nGhimirra\nGimira\nGimirra (Sche)\nSce\nShe"
+  },
+  "triggers": {
+    "lgcode": "\nbench\ngamila\nbenchon\nmajoid\nghimirra\nbenc\nbenchnon\ngimira\nnon4"
+  },
+  "identifier": {
+    "wals": "gim",
+    "multitree": "gimi;bcq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bender:Omotic**",
+    "subrefs": "\n**hh:hv:Bender:Omotic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Shé (5932-bcq-she) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Northeastern Russian River Pomo",
+    "hid": "pef",
+    "level": "language",
+    "iso639-3": "pef",
+    "latitude": "39.2894",
+    "longitude": "-122.509",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3396018\nhttps://en.wikipedia.org/wiki/Northeastern_Pomo_language",
+    "timespan": "1961-01-01/1961-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2271**\n**hh:e:BeanTheodoratus:WNEPomo**\n**hh:hew:Barrett:Pomo**\n**hh:hvb:Golla:California**\n**hh:phonv:Walker:Northeastern-Pomo**"
+  },
+  "altnames": {
+    "multitree": "\nNortheast Pomo\nNortheastern Pomo\nNortheastern Russian River\nPomo du nord-est\nPomo nororiental\nPomo, Northeastern\nSalt Pomo\nSonoma",
+    "lexvo": "\nNortheastern Pomo [en]\nNortheastern Pomo language [en]\nPomo du Nord-Ouest [fr]",
+    "hhbib_lgcode": "\nNortheastern Pomo\nPomo-Northeastern"
+  },
+  "triggers": {
+    "lgcode": "\nproto AND pomo"
+  },
+  "identifier": {
+    "multitree": "pef;nerr"
+  },
+  "classification": {
+    "sub": "**hh:phonv:Walker:Northeastern-Pomo**",
+    "subrefs": "\n**hh:phonv:Walker:Northeastern-Pomo**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Northeastern Pomo (831-pef) = Extinct"
+  }
+}

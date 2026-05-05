@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bukiyip",
+    "hid": "ape",
+    "level": "language",
+    "iso639-3": "ape",
+    "latitude": "-3.47169",
+    "longitude": "143.111",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Arapesh (Mountain)](https://wals.info/languoid/lect/wals_code_arp)\n[Bukiyip](https://endangeredlanguages.com/lang/2123)\n[Bukiyip](https://grambank.clld.org/languages/buki1249)\nhttps://en.wikipedia.org/wiki/Bukiyip_language\nhttps://www.wikidata.org/entity/Q3507895"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aronoff:94**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dobrin:98**\n**cldf:ed:10**\n**cldf:fortune:40**\n**cldf:fraser:corbett:97**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:mead:35**\n**cldf:mead:40**\n**cldf:mead:50:1**\n**cldf:mead:50:2**\n**cldf:mead:ed:37**\n**cldf:np:nd:264**\n**hh:e:MeadFortune:Arapesh**\n**hh:g:ConradWogiga:Bukiyip**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:Torricelli**\n**hh:hvw:Laycock:Lumi**\n**hh:hvw:Ray:NPapua**\n**hh:hw:KlafflVormann:Berlinhafen**\n**hh:s:ConradSimatab:Arapesh-Bukiyip**\n**hh:s:Gerstner:Aluban**\n**hh:soc:Nidue:Makopin**\n**hh:st:Fortune:Arapesh**\n**hh:styp:Dobrin:Arapesh**\n**hh:w:Laycock:D7**\n**mpieva:47**\n**mpieva:Fortune1977Arapesh**\n**mpieva:Loving1978Miscella**\n**sil16:17647**\n**sil16:20332**\n**sil16:20333**\n**sil16:22174**\n**silpng:silpng1956-1990:1315**\n**silpng:silpng1956-1990:1316**\n**silpng:silpng1956-1990:1317**\n**silpng:silpng1956-1990:1318**\n**silpng:silpng1956-1990:1319**\n**silpng:silpng1956-1990:229**\n**silpng:silpng1956-1990:230**\n**silpng:silpng1956-1990:231**\n**silpng:silpng1956-1990:232**\n**silpng:silpng1991-2000:450**\n**silpng:silpng1991-2000:451**"
+  },
+  "altnames": {
+    "multitree": "\nArapesh\nArapeso montañés\nBukiyip\nBukiyúp\nKavu\nMountain Arapesh",
+    "lexvo": "\nBukiyip [en]",
+    "hhbib_lgcode": "\nAluban\nAlubän in the But Mission station\nCoastal Arapesh\nCoastal dialect of Mountain Arapesh\nDakur-Vatai\nDallmann H\nKaip here\nKavu\nKavu (= Mountain Arapesh)\nKumemim\nMountain Arapesh\nMuschu here\nPut\nRohwim dialect of Bukiyip/Mountain Arapesh\nRohwim dialect of Bukiyip/Mountain Arapesh in the Woginara Area\nWoginara",
+    "elcat": "\nArapesh\nBukiyip\nBukiyúp\nKavu\nKawu\nMountain Arapesh"
+  },
+  "triggers": {
+    "lgcode": "\nbukiyup\ntriglossic\nmakopin\nbukiyip\nimporting\nyopinyi\nbukiyupiluh\nalubansprache\nwolobailubi"
+  },
+  "identifier": {
+    "wals": "arp",
+    "multitree": "ape",
+    "endangeredlanguages": "2123"
+  },
+  "classification": {
+    "sub": "**hh:g:Nekitel:Abu**:39",
+    "subrefs": "\n**hh:g:Nekitel:Abu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bukiyip (2123-ape) = Endangered (80 percent certain, based on the evidence available) (Many children are unwilling to speak it, and quite a few of them do not know it at all, or not properly. Even many adults are unwilling to speak it. There is a decided shift of the speakers to Tok Pisin.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

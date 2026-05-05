@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kita Maninkakan",
+    "hid": "mwk",
+    "level": "language",
+    "iso639-3": "mwk",
+    "latitude": "13.1798",
+    "longitude": "-9.49151",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "ML"
+    ],
+    "links": "\nhttps://phoible.org/languages/kita1249"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:sidibe:32**\n**hh:g:Creissels:Malinke-Kita**\n**hh:g:Keita:Malinke-Kita**\n**hh:s:Keita:Kita**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Malinke\nKita Maninka\nKita Maninkakan\nMalinke\nManinkakan, Kita\nNandi",
+    "lexvo": "\nKita Maninkakan [en]",
+    "hhbib_lgcode": "\nMalinké de Kita\nManinka Kity"
+  },
+  "triggers": {
+    "lgcode": "\nelements AND malinke\nbindougouba"
+  },
+  "identifier": {
+    "multitree": "mwk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Galtier:Mandingues**",
+    "subrefs": "\n**hh:hv:Galtier:Mandingues**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maninkakan, Kita (mwk-mwk) = 6a (Vigorous). Recognized language (1996, Law 96-049 of 28 December)."
+  }
+}

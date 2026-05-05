@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Helong",
+    "hid": "heg",
+    "level": "language",
+    "iso639-3": "heg",
+    "latitude": "-10.2647",
+    "longitude": "123.377",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Helong](https://endangeredlanguages.com/lang/1747)\nhttps://en.wikipedia.org/wiki/Helong_language\nhttps://www.wikidata.org/entity/Q35432"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowden:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:GrimesBeeh:Helong**\n**hh:h:Sugono:Indonesia**\n**hh:hvw:Capell:Timor**\n**hh:hvw:Marsden:East-Insular**\n**hh:ld:Culhane:Timor**\n**hh:phon:Balle:Helong**\n**hh:phonw:Edwards:Funai-Helong**\n**hh:s:Maryanto:Helong**\n**hh:t:Jonker:Soembawa-Timor**\n**hh:typ:Balle:Helong**\n**hh:typ:Steinhauer:Helong-Dawanese-Letinese**\n**hh:w:Earl:Timor**\n**langsci:capell:44**"
+  },
+  "altnames": {
+    "multitree": "\nHelon\nHelong\nKupang\nKupong\nSemau",
+    "lexvo": "\nHelong [en]",
+    "hhbib_lgcode": "\nBolok Helong\nCoepanf SW extreme of Timor\nFunai\nIsland Helong\nKupang\nKupangsch\nLand Helong\nSemau\nSemau Helong\nTimor-Coupang",
+    "elcat": "\nHelon\nHelong\nKupang\nKupong\nSemau"
+  },
+  "triggers": {
+    "lgcode": "\ntimor AND kupang\nhelong\napocope"
+  },
+  "identifier": {
+    "multitree": "helo;heg",
+    "endangeredlanguages": "1747"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:169-179",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Helong (1747-heg) = Threatened (100 percent certain, based on the evidence available) (The Funai variety of Helong seems to be stably multilingual, but becoming endangered due to being a minority language in the region, frequent contact with speakers of other languages, and modern intermarriage. Adult speakers use the language with each other, and younger people tend to be fluently bilingual. The regional lingua franca, Meto, is losing ground to Indonesian/Kupang Malay. (Edwards, 2018)) [Edwards 2018](cldf:edwards:18)"
+  }
+}

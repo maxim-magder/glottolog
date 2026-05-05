@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Toto",
+    "hid": "txo",
+    "level": "language",
+    "iso639-3": "txo",
+    "latitude": "26.67",
+    "longitude": "88.975",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Toto](https://endangeredlanguages.com/lang/3451)\n[Toto](https://grambank.clld.org/languages/toto1302)\nhttps://en.wikipedia.org/wiki/Toto_language\nhttps://www.wikidata.org/entity/Q36709"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:13**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:nara:bhasukararao:02**\n**cldf:np:nd:264**\n**hh:e:Burman:Toto**\n**hh:e:Majumdar:Totos**\n**hh:e:Majumdar:Totos:1993**\n**hh:ew:Sanyal:Totos**\n**hh:ew:Sanyal:Totos:1955**\n**hh:g:Basu:Toto**\n**hh:g:Basumatary:Toto**\n**hh:hv:vanDriem:Himalayas**\n**hh:hvw:Grierson:3:I**\n**hh:phon:Basumatary:Toto**\n**hh:s:Bishnu:Toto**\n**hh:s:Chakrabarty:Toto**\n**hh:s:Perumalsamy:Toto**\n**hh:v:Sotrug:Madeska**\n**hh:vld:vanDriem:Toto**\n**hh:w:Mukherjee:Comparative-Lexicons**"
+  },
+  "altnames": {
+    "multitree": "\nToto\nTōtō",
+    "lexvo": "\nToto [en]\nToto language [en]\nTotoish [gv]",
+    "hhbib_lgcode": "\nP 559 Toto",
+    "elcat": "\nToto\nTōtō"
+  },
+  "identifier": {
+    "multitree": "txo",
+    "endangeredlanguages": "3451"
+  },
+  "classification": {
+    "sub": "**hh:v:Grollmann:Lhokpu-Dhimal** and contra **hh:hv:vanDriem:Himalayas**:548-567 Dhimalish fails to show sufficient Brahmaputran diagnostic vocabulary",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:v:Grollmann:Lhokpu-Dhimal**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Toto (3451-txo) = Threatened (20 percent certain, based on the evidence available) [Anderson 2013](cldf:anderson:13)"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "core": {
+    "name": "Chaungtha",
+    "hid": "ccq",
+    "level": "language",
+    "iso639-3": "ccq",
+    "latitude": "20.0653",
+    "longitude": "96.2457",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12628927"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Bradley:Burmese**\n**iso6393:2011-043**"
+  },
+  "iso_retirement": {
+    "comment": "Both Chaungtha and Yangbye refer to similar varieties within the Rakhine (rki)\nlanguage. The speakers of these dialects identify themselves as \"Rakhine\".\nWordlists collected on Yangbye island and in Kyauktaw Township share at least\n94% lexical similarity with the prestige variety of Rakhine spoken in Sittwe\nTown.",
+    "code": "ccq",
+    "name": "Chaungtha",
+    "effective": "2012-02-03",
+    "remedy": "merged into Rakhine [rki]",
+    "reason": "merge",
+    "change_request": "2011-043",
+    "change_to": "\nrki"
+  }
+}

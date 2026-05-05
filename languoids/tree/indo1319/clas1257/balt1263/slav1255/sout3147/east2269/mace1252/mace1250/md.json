@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Macedonian",
+    "hid": "mkd",
+    "level": "language",
+    "iso639-3": "mkd",
+    "latitude": "41.5957",
+    "longitude": "21.7932",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "BG",
+      "GR",
+      "MK",
+      "RS"
+    ],
+    "links": "\n[Macedonian](https://grambank.clld.org/languages/mace1250)\n[Macedonian](https://wals.info/languoid/lect/wals_code_mcd)\nhttps://en.wikipedia.org/wiki/Macedonian_language\nhttps://phoible.org/languages/mace1250\nhttps://www.wikidata.org/entity/Q9296"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:debray:80**\n**hh:d:DeBray:Macedonian**\n**hh:dial:Seliscev:Makedonskata**\n**hh:g:Foulon-Hristova:Macedonien**\n**hh:g:Groen:Macedonian**\n**hh:g:Hill:Gorno-Kalenik**\n**hh:g:Koneski:Makedonskiot**\n**hh:g:KramerMitkovska:Macedonian**\n**hh:g:Lunt:Macedonian**\n**hh:g:Smiger:Nestramski**\n**hh:g:Tomic:Macedonian**\n**hh:hv:Vidoeski:Makedonskiot**\n**hh:s:Friedman:Macedonian**\n**hh:s:Friedman:Macedonian:1993**\n**hh:s:Golab:VisokaSolunsko**\n**hh:s:Kepeski:Makedonska**\n**hh:std:Hendriks:Radozda-Vevcani**\n**hh:sv:Koneski:Makedonskiot**\n**hh:vtyp:Markovik:Aromanskiot-Makedonskiot**\n**mpieva:Hacking1998Codingth**\n**mpieva:Koneski1983Ahistori**\n**mpieva:Neikirk1996Fromadap**\n**sil16:47753**"
+  },
+  "altnames": {
+    "wals": "\nMacedonian",
+    "ruhlen (1987)": "\nMacedonian",
+    "moseley & asher (1994)": "\nMacedonian",
+    "multitree": "\nMacedonian\nMacedonian Slavic\nMakedonski\nSlavic",
+    "lexvo": "\nAn Mhacadóinis [ga]\nBahasa Macedonia [ms]\nBahasa Makedonia [id]\nGjuha sllavomaqedone [sq]\nIdioma macedonio [an]\nJęzyk macedoński [pl]\nLengua maçedone [lij]\nLimba macedoneană [ro]\nLingua Macedonica moderna [la]\nLingua macedone [it]\nLingua macedonia [gl]\nLingua macèdoni [scn]\nLíngua macedônia [pt]\nMacedonian [en]\nMacedonian language [en]\nMacedoniana linguo [io]\nMacedonie leid [sco]\nMacedonies [af]\nMacedonisch [li]\nMacedoniu [ast]\nMacedònic [ca]\nMacedón nyelv [hu]\nMacedónčina [sk]\nMacedůńsko godka [szl]\nMacédonien [fr]\nMakedon dili [az]\nMakedona lingvo [eo]\nMakedonca [tr]\nMakedonek [kw]\nMakedoniagiella [se]\nMakedonian kieli [fi]\nMakedonsk [da]\nMakedonska [sv]\nMakedonski jezik [bs]\nMakedonština [cs]\nMakedonšćina [hsb]\nMakedonščina [sl]\nMakedonų kalba [lt]\nMakedoonia keel [et]\nMakedońska rěc [dsb]\nMakedónska [is]\nMakidunya simi [qu]\nMazedoniera [eu]\nMazedonische Sprache [de]\nMaķedoniešu valoda [lv]\nmacédonien [fr]\nΣλαβομακεδονική γλώσσα [el]\nЗабони мақдунӣ [tg]\nМакедонская мова [be]\nМакедонски език [bg]\nМакедонски јазик [mk]\nМакедонски језик [sr]\nМакедонский язык [ru]\nМакедонська мова [uk]\nМакєдо́ньскъ ѩꙁꙑ́къ [cu]\nמקדונית [he]\nلغة مقدونية [ar]\nماكېدون تىلى [ug]\nमेसिडोनियन भाषा [hi]\nภาษามาซิโดเนีย [th]\nმაკედონური ენა [ka]\nマケドニア語 [ja]\n马其顿语 [zh]\n마케도니아어 [ko]",
+    "hhbib_lgcode": "\nE Lerin\nGorno Kalenik\nMakedonska\nNestramski\nOxrid Macedonian\nRadožda-Vevčani"
+  },
+  "triggers": {
+    "lgcode": "\nmacedonian\nmacedonien\nNOT in AND macedonian"
+  },
+  "identifier": {
+    "wals": "mcd",
+    "multitree": "mkd"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic** **hh:hv:Poljakov:Slavic**",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**\n**hh:hv:Poljakov:Slavic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Macedonian (mkd-mkd) = 1 (National). Statutory national language (1991, Constitution, Article 7(1))."
+  }
+}

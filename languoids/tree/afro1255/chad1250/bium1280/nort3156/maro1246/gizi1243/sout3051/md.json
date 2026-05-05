@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "South Giziga",
+    "hid": "giz",
+    "level": "language",
+    "iso639-3": "giz",
+    "latitude": "10.2809",
+    "longitude": "14.1931",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3502232\nhttps://en.wikipedia.org/wiki/South_Giziga_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fourneau:38**\n**cldf:lembezat:61**\n**eballiso2009:16162**\n**hh:e:Fourneau:Guissiga**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Strumpell:Adamauas**"
+  },
+  "altnames": {
+    "multitree": "\nGisiga\nGisiga-South\nGisika\nGiziga\nGiziga, South\nGiziga-South\nGuiziga\nNorth and Giziga\nSouth\nSouth Gisiga\nSouth Giziga",
+    "lexvo": "\nSouth Giziga [en]\nSouth Giziga language [en]",
+    "hhbib_lgcode": "\nGisiga-Mutura\nGiziga-South\nMoutouroua\nMuturua"
+  },
+  "triggers": {
+    "lgcode": "\nsur AND monoradicaux"
+  },
+  "identifier": {
+    "multitree": "giz"
+  },
+  "classification": {
+    "sub": "**hh:g:Shay:Giziga**:1-3",
+    "subrefs": "\n**hh:g:Shay:Giziga**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Giziga (giz-giz) = 5 (Developing)."
+  }
+}

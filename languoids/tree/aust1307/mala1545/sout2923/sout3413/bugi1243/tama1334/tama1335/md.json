@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Taman (Indonesia)",
+    "hid": "tmn",
+    "level": "language",
+    "iso639-3": "tmn",
+    "latitude": "1.00003",
+    "longitude": "112.975",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Taman_language_(Indonesia)\nhttps://www.wikidata.org/entity/Q7680671"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Sugono:Indonesia**\n**hh:hv:Adelaar:Tamanic**\n**hh:w:Hudson:Selako**"
+  },
+  "altnames": {
+    "multitree": "\nDayak\nDayak Taman\nTaman\nTaman Dayak",
+    "lexvo": "\nTaman (Indonesia) [en]\nTaman [en]",
+    "hhbib_lgcode": "\nTaman"
+  },
+  "triggers": {
+    "lgcode": "\ntamanic\nisolects"
+  },
+  "identifier": {
+    "wals": "genus/taman",
+    "multitree": "tmn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Adelaar:Austronesian-Asia-Madagascar**:23-24",
+    "subrefs": "\n**hh:hv:Adelaar:Austronesian-Asia-Madagascar**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Taman (tmn-tmn) = 6b* (Threatened)."
+  }
+}

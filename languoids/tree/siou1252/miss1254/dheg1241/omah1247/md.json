@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Omaha-Ponca",
+    "hid": "oma",
+    "level": "language",
+    "iso639-3": "oma",
+    "latitude": "42.0944",
+    "longitude": "-96.5295",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Omaha](https://wals.info/languoid/lect/wals_code_omh)\n[Omaha-Ponca](https://endangeredlanguages.com/lang/1920)\n[Omaha-Ponca](https://grambank.clld.org/languages/omah1247)\nhttps://en.wikipedia.org/wiki/Omaha%E2%80%93Ponca_language\nhttps://www.wikidata.org/entity/Q2917968"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:marsault:21**\n**cldf:np:nd:264**\n**hh:e:BrownIrwin:Ponca**\n**hh:e:Liberty:Omaha**\n**hh:g:Awakuni-Swetland:Omaha**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Hayden:Missouri**\n**hh:s:Boas:Ponka**\n**hh:s:Hayden:Pawnee-Winnebago-Omaha**\n**hh:styp:Eschenberg:Umonhon**\n**hh:t:Dorsey:Dhegiha**\n**hh:typ:Marsault:Omaha**\n**mpieva:Dorsey1890TheCegih**"
+  },
+  "altnames": {
+    "wals": "\nOmaha",
+    "wals other": "\nCegiha\nDhegiha\nDhegiha (Ponca)",
+    "moseley & asher (1994)": "\nOmaha",
+    "multitree": "\nCegiha\nDhegiha\nDhegihan\nMahairi\nOmaha\nOmaha-Ponca\nPonka\nPpankka\nUman\nUmanhan",
+    "lexvo": "\nOmaha-Ponca [en]\nOmaha-Ponca language [en]\nOmaha-ponca [fr]",
+    "hhbib_lgcode": "\nOma'ha\nOmaha\nOmahas",
+    "elcat": "\nMahairi\nOmaha\nOmaha-Ponca\nPonca\nPonka\nPpankka\nUman\nUmanhan"
+  },
+  "triggers": {
+    "lgcode": "\numonhon\ncegiha\nponka\ndhegiha"
+  },
+  "identifier": {
+    "wals": "omh",
+    "multitree": "oma;dheg",
+    "endangeredlanguages": "1920"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Omaha-Ponca (1920-oma) = Severely Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

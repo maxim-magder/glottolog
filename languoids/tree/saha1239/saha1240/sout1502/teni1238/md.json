@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tenino",
+    "hid": "tqn",
+    "level": "language",
+    "iso639-3": "tqn",
+    "latitude": "44.7985",
+    "longitude": "-121.44",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q15699255"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jansen:66**\n**cldf:murdock:58**\n**cldf:murdock:65**\n**cldf:murdock:80**\n**cldf:ray:42**\n**hh:e:HunnFrench:Western-Columbia-River-Sahaptins**\n**hh:hv:Rigsby:SPlateau**\n**hh:ld:Hymes:Warm-Springs-Sahaptin**"
+  },
+  "altnames": {
+    "multitree": "\nColumbia River\nSahaptin\nSouthern\nTenaino\nTenino\nWarm Springs",
+    "lexvo": "\nTenino [en]",
+    "hhbib_lgcode": "\nWarm Springs\nWestern Columbia River Sahaptins"
+  },
+  "triggers": {
+    "lgcode": "\nwarm\nnorthern AND sahaptin"
+  },
+  "identifier": {
+    "multitree": "tqn",
+    "endangeredlanguages": "3368"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997**",
+    "subrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Sahaptin (3368-tqn) = Critically Endangered (80 percent certain, based on the evidence available) ['bib5217']"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Emiliano",
+    "hid": "egl",
+    "level": "language",
+    "iso639-3": "egl",
+    "latitude": "44.3536",
+    "longitude": "11.5794",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Carpigiano_Emiliano](https://lexibank.clld.org/languages/saenkoromance-carpigianoemiliano)\n[Ferrarese_Emiliano](https://lexibank.clld.org/languages/saenkoromance-ferrareseemiliano)\n[Italian (Bologna)](https://wals.info/languoid/lect/wals_code_itb)\n[Reggiano_Emiliano](https://lexibank.clld.org/languages/saenkoromance-reggianoemiliano)\nhttps://en.wikipedia.org/wiki/Emilian_language\nhttps://www.wikidata.org/entity/Q1057898"
+  },
+  "sources": {
+    "glottolog": "\n**hh:bsoc:Foresti:Emilia-Romagna**\n**hh:d:Aureli:Bolognese**\n**hh:d:Ferrari:Bolognese**\n**hh:d:Galli:Pavese**\n**hh:d:Guastalla:Guastallese**\n**hh:d:Mainoldi:Bolognese**\n**hh:d:Maranesi:Modenese**\n**hh:d:Peschieri:Parmigiano**\n**hh:d:Ungarelli:Bolognese**\n**hh:d:VitaliLepri:Bolognese**\n**hh:hvphonld:Biondelli:Gallo-Italici**\n**hh:hvw:Hervas:Poligloto**\n**hh:ld:Hajek:Emilia-Romagna**\n**hh:phon:Schurr:Portomaggiore**\n**hh:s:Bellucci:Lunigiana**\n**hh:s:Bertoni:Modena**\n**hh:s:Foresti:Emilia-Romagna**\n**hh:sd:Mainoldi:Bolognese**\n**hh:v:Bertoni:Modena**\n**hh:w:Nannini:Ferrarese**\n**iso6393:2008-040**"
+  },
+  "triggers": {
+    "lgcode": "\nmodenese\nbolognese\nferrara\nlunigiana\nportomaggiore\nparmigiano\nvoci\npavese"
+  },
+  "classification": {
+    "sub": "**hh:hv:Schurr:Romagnolo**",
+    "subrefs": "\n**hh:hv:Schurr:Romagnolo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Emilian-Romagnol (349-eml) = Definitely endangered"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBolognese\nEmigliano\nFerrarese\nGuastallese\nLunigiana\nModena\nModenese\nParmigiano\nPavese\nPavia"
+  }
+}

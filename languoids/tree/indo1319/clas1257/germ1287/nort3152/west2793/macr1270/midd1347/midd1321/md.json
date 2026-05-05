@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Middle Dutch",
+    "hid": "dum",
+    "level": "language",
+    "iso639-3": "dum",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NL"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Middle_Dutch\nhttps://www.wikidata.org/entity/Q178806",
+    "longitude": "5.34",
+    "latitude": "51.656",
+    "timespan": "1100-01-01/1500-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Stoett:Middelnederlandsche**\n**hh:g:Stoett:Middelnederlandsche:1889**\n**hh:g:vanHelten:Middelnederlandsche**\n**hh:hv:deVaan:Dawn-Dutch**"
+  },
+  "altnames": {
+    "lexvo": "\nDutch, Middle (ca.1050-1350) [en]\nMiddelnederlands [nl]\nMiddle Dutch (ca. 1050-1350) [en]\nMiddle Dutch [en]\nMittelniederländisch [de]\nMiðhollenska [is]\nOlandese medio [it]\nnéerlandais moyen (ca. 1050-1350) [fr]"
+  },
+  "triggers": {
+    "lgcode": "\nmiddelnederlandsche\nmiddle AND dutch"
+  },
+  "classification": {
+    "sub": "**hh:s:QuakvanderHorst:Oudnederlands**:19-20",
+    "subrefs": "\n**hh:s:QuakvanderHorst:Oudnederlands**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Middle Dutch (dum-dum) = 10 (Extinct)."
+  }
+}

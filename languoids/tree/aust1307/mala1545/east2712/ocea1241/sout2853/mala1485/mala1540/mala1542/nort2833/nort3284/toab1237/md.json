@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "To'abaita",
+    "hid": "mlu",
+    "level": "language",
+    "iso639-3": "mlu",
+    "latitude": "-8.39233",
+    "longitude": "160.619",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[To'abaita](https://grambank.clld.org/languages/toab1237)\n[To'ambaita](https://lexibank.clld.org/languages/abvdoceanic-Toambaita)\n[Toqabaqita](https://wals.info/languoid/lect/wals_code_toq)\nhttps://en.wikipedia.org/wiki/To%CA%BCabaita_language\nhttps://www.wikidata.org/entity/Q36645"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:government:01**\n**cldf:ivens:30**\n**cldf:keesing:84:2**\n**cldf:keesing:91:1**\n**cldf:lichtenberg:08**\n**cldf:lichtenberg:88**\n**cldf:lichtenberk:00:1**\n**cldf:lichtenberk:05**\n**cldf:lichtenberk:07**\n**cldf:lichtenberk:87**\n**cldf:lichtenberk:91:1**\n**cldf:moore:07**\n**cldf:moore:17**\n**cldf:np:14:5**\n**cldf:np:19:4**\n**cldf:shay:ed:03:2**\n**cldf:simons:86**\n**cldf:timmer:12**\n**hh:d:Lichtenberk:Toqabaqita**\n**hh:d:Waterson:Maluu**\n**hh:e:Hogbin:Toambaita**\n**hh:g:Lichtenberk:Toqabaqita**\n**hh:hvld:Ray:Island**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Ray:Gower**\n**hh:s:Lichtenberk:Toqabaqita**\n**hh:s:Ray:Malu**\n**mpieva:Lichtenberk2008Adiction**\n**sil16:18270**\n**sil16:18271**\n**sil16:18948**\n**sil16:21776**\n**sil16:35662**\n**sil16:35665**\n**sil16:35666**"
+  },
+  "altnames": {
+    "wals": "\nToqabaqita",
+    "wals other": "\nMalaita (North)\nTo'aba'ita\nToabaita",
+    "ruhlen (1987)": "\nNorth Malaita",
+    "moseley & asher (1994)": "\nTo'abaita",
+    "multitree": "\nMalu\nMalu'u\nSüdliche Salomons-Inseln\nTo'abaita\nTo'ambaita\nToqabaqita",
+    "lexvo": "\nTo'abaita [en]",
+    "hhbib_lgcode": "\nMalu\nMalu'u\nTo'ambaita\nTo'ambaita (Malu)\nToambaita\nToqabaqita"
+  },
+  "triggers": {
+    "lgcode": "\nthafali\nmalu\ngradualness\ntoabaita\ntoqabaqita\ntoolangai"
+  },
+  "identifier": {
+    "wals": "toq",
+    "multitree": "mlu"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Siegel:Wai**",
+    "subrefs": "\n**hh:hvld:Siegel:Wai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "To’abaita (mlu-mlu) = 5 (Developing)."
+  }
+}

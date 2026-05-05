@@ -1,0 +1,29 @@
+{
+  "core": {
+    "name": "Keresan Pueblo Indian Sign Language",
+    "hid": "NOCODE_Keresan-Pueblo-Sign",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "longitude": "-106.723333",
+    "latitude": "35.503611",
+    "links": "\nhttps://www.wikidata.org/entity/Q19572436\nhttps://en.wikipedia.org/wiki/Keresan_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Nyst:Shared-Sign**\n**hh:soc:Kelley:Pueblo**\n**hh:soc:KelleyMcGregor:Keresan-Pueblo-Sign**"
+  },
+  "triggers": {
+    "lgcode": "\nindividuals\nacceptance"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nKeresan Pueblo in central New Mexico"
+  },
+  "classification": {
+    "sub": "Indpendent origin (**hh:soc:KelleyMcGregor:Keresan-Pueblo-Sign**, **hh:hld:Nyst:Shared-Sign**, **hh:soc:Kelley:Pueblo**).",
+    "subrefs": "\n**hh:hld:Nyst:Shared-Sign**\n**hh:soc:Kelley:Pueblo**\n**hh:soc:KelleyMcGregor:Keresan-Pueblo-Sign**"
+  }
+}

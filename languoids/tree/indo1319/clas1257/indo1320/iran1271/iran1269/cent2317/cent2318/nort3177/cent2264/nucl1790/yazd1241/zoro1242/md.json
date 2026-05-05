@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Zoroastrian Yazdi",
+    "hid": "gbz",
+    "level": "language",
+    "iso639-3": "gbz",
+    "latitude": "31.8161",
+    "longitude": "54.4469",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Zoroastrian Dari](https://endangeredlanguages.com/lang/4196)\nhttps://www.wikidata.org/entity/Q32389\nhttps://en.wikipedia.org/wiki/Zoroastrian_Dari_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borjian:13:3**\n**cldf:ed:10**\n**cldf:farudi:toosarvandani:04**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Keshavarz:Farhang-Zortostyan-Yazd**\n**hh:d:Sorusian:Behdinan**\n**hh:d:VinogradovaPirejko:Karmannyj-Dari**\n**hh:gd:Khamisi:Yazdi**\n**hh:hld:Yar-Shater:Jewish-Persia**\n**hh:hvld:Borjian:Judeo-Median**\n**hh:hvs:Andreas:Dialekte**\n**hh:phonv:Bernard:Gavrouni**\n**hh:s:FarudiToosarvandani:Dari**\n**hh:s:Firuzbaxs:Yazd**\n**hh:s:Gholami:Behdini**\n**hh:s:Gindin:Jewish-Yazd**\n**hh:s:Justi:Jezd**\n**hh:s:Keshavarz:Zoroastrians-Yazd**\n**hh:s:Lazard:Juifs-Kerman**\n**hh:s:Lorimer:Gabri**\n**hh:s:Molchanova:Jezdi**\n**hh:s:Naqib:Yazdi**\n**hh:st:Ivanow:Gabri**\n**hh:typ:Gindin:Jewish-Yazd**\n**hh:typ:Gindin:Judeo-Yazdi**\n**hh:v:Coletti:Giudeo-Kermani**\n**hh:vsoc:Lorimer:Gabri**\n**hh:w:Kiya:Irani**\n**hh:wt:VahmanAsatrian:Yazd**"
+  },
+  "altnames": {
+    "multitree": "\n\"Gabar\"\n\"Gabri\"\n\"Yazdi\"\nDari\nDari, Zoroastrian\nDarí\nGabri\nYazdi",
+    "lexvo": "\nDari [en]\nZoroastrian Dari [en]\nДари [ru]\nภาษาดารี [th]",
+    "hhbib_lgcode": "\nBehdini\nDari-Zoroastrian\nGavrouni\nGavruni\nGiudeo-Kermani\nJezd\nJudeo-Yazd some intelligibility with Zoroastrian Dari\nJudeo-Yazdi (of Yazd and Kerman) some intelligibility with Zoroastrian Dari\nYazd some intelligibility with Zoroastrian Dari\nYazdi\nYäzdî\nZardashtyan Yazd\nZoroastrian Dari",
+    "elcat": "\n\"Gabar\"\n\"Gabri\"\n\"Yazdi\"\nBehdinan dialect\nDari\nGabri\nYazdi\nZoroastrian\nZoroastrian Dari",
+    "glottolog": "\nZoroastrian Dari"
+  },
+  "triggers": {
+    "lgcode": "\njezd\n9600\nbehdinan\nzoroastrians\nkarmannyj"
+  },
+  "identifier": {
+    "multitree": "gbz",
+    "endangeredlanguages": "4196"
+  },
+  "classification": {
+    "sub": "**hh:h:Lecoq:CIran** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:h:Lecoq:CIran**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zoroastrian Dari (4196-gbz) = Endangered (80 percent certain, based on the evidence available) (The adults’ pride in their language\ndoes not necessarily ensure that they\nwill speak Dari with their children in the home.) [Farudi and Toosarvandani 2004](cldf:farudi:toosarvandani:04)"
+  }
+}

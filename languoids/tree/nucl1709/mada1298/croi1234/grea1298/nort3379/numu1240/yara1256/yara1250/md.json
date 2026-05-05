@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Yarawata",
+    "hid": "yrw",
+    "level": "language",
+    "iso639-3": "yrw",
+    "latitude": "-4.93943",
+    "longitude": "145.454",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Yarawata](https://endangeredlanguages.com/lang/3165)\n[Yarawata](https://lexibank.clld.org/languages/transnewguineaorg-yarawata)\n[yarawata](https://lexibank.clld.org/languages/zgraggenmadang-yarawata)\nhttps://en.wikipedia.org/wiki/Yarawata_language\nhttps://www.wikidata.org/entity/Q8049237"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4265**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:Pick:Northern-Adelbert**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:NAdelbert**"
+  },
+  "altnames": {
+    "multitree": "\nYarawata",
+    "lexvo": "\nYarawata [en]",
+    "elcat": "\nYarawata"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "identifier": {
+    "multitree": "yrw",
+    "endangeredlanguages": "3165"
+  },
+  "classification": {
+    "sub": "**hh:hb:Zgraggen:Madang**:23",
+    "subrefs": "\n**hh:hb:Zgraggen:Madang**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yarawata (3165-yrw) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

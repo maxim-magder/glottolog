@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Oloma",
+    "hid": "olm",
+    "level": "language",
+    "iso639-3": "olm",
+    "latitude": "7.01279",
+    "longitude": "6.02767",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Oloma](https://lexibank.clld.org/languages/polyglottaafricana-Oloma)\nhttps://en.wikipedia.org/wiki/Oloma_language\nhttps://www.wikidata.org/entity/Q3441166"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1627**\n**hh:h:Egbokhare:Afenmai**\n**hh:hvw:Elugbe:Edoid**\n**hh:hw:Koelle:Polyglotta**\n**hh:hwsoc:Decker:Southern-Northwestern-Edoid**\n**hh:ld:Schaefer:Ogbe-Oloma**\n**hh:phontyp:Ajani:Oloma**\n**hh:typ:Elugbe:Oloma**"
+  },
+  "altnames": {
+    "multitree": "\nNigeria\nOloma",
+    "lexvo": "\nOloma [en]",
+    "hhbib_lgcode": "\nOgbe-Oloma\nOlomo"
+  },
+  "triggers": {
+    "lgcode": "\noloma"
+  },
+  "identifier": {
+    "multitree": "olm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Elugbe:Edoid**",
+    "subrefs": "\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Oloma (olm-olm) = 6b (Threatened)."
+  }
+}

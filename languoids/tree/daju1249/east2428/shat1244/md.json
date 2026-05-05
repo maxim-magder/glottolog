@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Shatt",
+    "hid": "shj",
+    "level": "language",
+    "iso639-3": "shj",
+    "latitude": "10.8525",
+    "longitude": "29.7687",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Shatt](https://endangeredlanguages.com/lang/5365)\n[Shatt](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Shatt)\n[Shatt](https://wals.info/languoid/lect/wals_code_sht)\nhttps://en.wikipedia.org/wiki/Shatt_language\nhttps://www.wikidata.org/entity/Q56344"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4778**\n**cldf:boyeldieu:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:g:Alfira:Caning:2016**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Thelwall:Daju**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Thelwall:NubianDajuDinka**\n**hh:phon:Alfira:Caning**\n**hh:s:Alfira:Caning**\n**hh:vtyp:Boyeldieu:Shatt-Damam**\n**hh:w:Alfira:Caning**\n**sil16:18428**"
+  },
+  "altnames": {
+    "wals": "\nShatt",
+    "wals other": "\nCaning",
+    "ruhlen (1987)": "\nShatt",
+    "moseley & asher (1994)": "\nShatt",
+    "multitree": "\nCaning\nShatt",
+    "lexvo": "\nShatt [en]\nShatt language [en]",
+    "hhbib_lgcode": "\nCaning\nDaju mostly Shatt\nShat",
+    "elcat": "\nCaning\nShatt"
+  },
+  "triggers": {
+    "lgcode": "\nshatt\nstraw\nblauer\ndamam\nmodified"
+  },
+  "identifier": {
+    "wals": "sht",
+    "multitree": "shj",
+    "endangeredlanguages": "5365"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thelwall:Daju**",
+    "subrefs": "\n**hh:hv:Thelwall:Daju**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Shatt (5365-shj) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

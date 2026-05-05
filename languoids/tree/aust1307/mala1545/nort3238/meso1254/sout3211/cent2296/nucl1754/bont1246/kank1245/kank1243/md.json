@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kankanaey",
+    "hid": "kne",
+    "level": "language",
+    "iso639-3": "kne",
+    "latitude": "16.8548",
+    "longitude": "120.689",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Kankanaey](https://grambank.clld.org/languages/kank1243)\n[Kankanay](https://wals.info/languoid/lect/wals_code_kky)\nhttps://en.wikipedia.org/wiki/Kankanaey_language\nhttps://www.wikidata.org/entity/Q18753329"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:vanoverbergh:31**\n**cldf:vanoverbergh:33**\n**hh:g:Allen:Kankanaey**\n**hh:g:Allen:Kankanaey:2014**\n**hh:hv:Llamzon:Nine-Philippine**\n**hh:hw:Vanoverbergh:Luzon**\n**hh:ld:Allen:Kankanaey**\n**hh:ld:Allen:Kankanaey:Morphophonemics**\n**hh:s:Allen:Kankanaey**\n**hh:typ:Allen:Kankanaey**\n**hh:w:Garcia:Kankanai**\n**hh:w:Yamada:Philippine**\n**sil16:10092**\n**sil16:15283**\n**sil16:18104**\n**sil16:18106**\n**sil16:18107**\n**sil16:18108**\n**sil16:18109**\n**sil16:19683**\n**sil16:22138**\n**sil16:22443**\n**sil16:23174**\n**sil16:45618**\n**sil16:47328**\n**sil16:51517**"
+  },
+  "altnames": {
+    "wals": "\nKankanay",
+    "ruhlen (1987)": "\nKankanaey",
+    "moseley & asher (1994)": "\nKankanay (Central)",
+    "multitree": "\nCentral Kankanaey\nKankanaey\nKankanai\nKankanay",
+    "lexvo": "\nKankana-ey language [en]\nKankanaey [en]",
+    "hhbib_lgcode": "\nKankana-ey\nKankanai\nKankanay"
+  },
+  "triggers": {
+    "lgcode": "\npasigeden\nmanpakan\nkankanaey\nbonbontiya\ninmeyan"
+  },
+  "identifier": {
+    "wals": "kky",
+    "multitree": "kne"
+  },
+  "classification": {
+    "sub": "**hh:hv:Himes:Meso-Cordilleran** **hh:v:Reid:Isinay**",
+    "subrefs": "\n**hh:v:Reid:Isinay**\n**hh:hv:Himes:Meso-Cordilleran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kankanaey (kne-kne) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mawan",
+    "hid": "mcz",
+    "level": "language",
+    "iso639-3": "mcz",
+    "latitude": "-5.2219",
+    "longitude": "145.589",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mawan](https://endangeredlanguages.com/lang/4633)\n[Mawan](https://lexibank.clld.org/languages/transnewguineaorg-mawan)\n[mawan](https://lexibank.clld.org/languages/zgraggenmadang-mawan)\nhttps://en.wikipedia.org/wiki/Mawan_language\nhttps://www.wikidata.org/entity/Q11732429"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "altnames": {
+    "multitree": "\nMawan",
+    "lexvo": "\nMawan [en]",
+    "elcat": "\nMawan"
+  },
+  "triggers": {
+    "lgcode": "\nmabuso"
+  },
+  "identifier": {
+    "multitree": "mcz",
+    "endangeredlanguages": "4633"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Zgraggen:Madang**:50 **hh:hw:Zgraggen:Mabuso**",
+    "subrefs": "\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mawan (4633-mcz) = Endangered (20 percent certain, based on the evidence available) (The number of speakers is decreasing.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kete",
+    "hid": "kcv",
+    "level": "language",
+    "iso639-3": "kcv",
+    "latitude": "-7.15104",
+    "longitude": "22.9027",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3195598\nhttps://en.wikipedia.org/wiki/Kete_language\nhttps://phoible.org/languages/kete1252\n[Kete](https://wals.info/languoid/lect/wals_code_kte)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10651**\n**eballiso2009:17969**\n**eballiso2009:18943**\n**eballiso2009:1908**\n**eballiso2009:21921**\n**eballiso2009:22707**\n**eballiso2009:25996**\n**eballiso2009:29059**\n**eballiso2009:37305**\n**eballiso2009:41297**\n**eballiso2009:46074**\n**eballiso2009:47233**\n**eballiso2009:47235**\n**eballiso2009:4740**\n**eballiso2009:9651**\n**hh:g:Muzenga:Kete**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Kudjidjika:Kete**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:s:Mbuyi:Kete**\n**hh:s:Mpandanjila-Mwana:Kete-Nord**\n**hh:s:Mukash-Kalel:Kete**\n**hh:s:Tshibangu:Kete**\n**hh:typ:Declerq:Bakete**\n**hh:w:Maes:Kasai-Lulua-Sankuru**\n**mpieva:Tshibangu1986Etudelin**"
+  },
+  "altnames": {
+    "wals": "\nKete",
+    "ruhlen (1987)": "\nKete",
+    "moseley & asher (1994)": "\nKete",
+    "multitree": "\nKete\nKikete\nLukete",
+    "lexvo": "\nKete [en]",
+    "hhbib_lgcode": "\nBakete Nord\nBakete Sud\nBakete a la mission de st. joseph de Luluaborg qui viennent du Sud\nKete 1 Ipila L21\nKete-Nord\nKete-Sud\nKété of Ndjoko-Púndá (Báketé ba Káyéyé)\nLu-Kete"
+  },
+  "triggers": {
+    "lgcode": "\nbakete\nkete\nlukete\nNOT na AND kete"
+  },
+  "identifier": {
+    "wals": "kte",
+    "multitree": "kcv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:216",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kete (kcv-kcv) = 6a* (Vigorous)."
+  }
+}

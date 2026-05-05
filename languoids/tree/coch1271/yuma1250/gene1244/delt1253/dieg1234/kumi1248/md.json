@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Tipai-Kumeyaay-Huerteno",
+    "hid": "dih",
+    "level": "language",
+    "iso639-3": "dih",
+    "latitude": "32.331",
+    "longitude": "-116.604",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Diegueño (Mesa Grande)](https://wals.info/languoid/lect/wals_code_die)\n[Kumeyaay](https://endangeredlanguages.com/lang/847)\n[Tiipay (Jamul)](https://wals.info/languoid/lect/wals_code_tja)\n[Tipai](https://endangeredlanguages.com/lang/2153)\nhttps://en.wikipedia.org/wiki/Tiipai_language\nhttps://phoible.org/languages/kumi1248\nhttps://www.wikidata.org/entity/Q3027471"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4203**\n**asjp2010:4558**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:drucker:37:1**\n**cldf:drucker:41**\n**cldf:dubois:08**\n**cldf:ed:10**\n**cldf:gifford:18**\n**cldf:gifford:22**\n**cldf:gifford:31**\n**cldf:golla:goddard:etal:08**\n**cldf:gorbet:98**\n**cldf:kroeber:20**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:luomala:63**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:shipek:68**\n**cldf:spier:23**\n**cldf:waterman:10**\n**hh:d:MillerLangdon:Iipay-Tiipay**\n**hh:e:Luomala:Tipai-Ipai**\n**hh:e:Wilken:Kumeyaay**\n**hh:g:Miller:Jamul**\n**hh:g:Miller:Jamul-Diegueno**\n**hh:hv:Field:Kumeyaay**\n**hh:hv:Laylander:Baja-California**\n**hh:hv:Mixco:Indigenous-Baja-California**\n**hh:hvb:Golla:California**\n**hh:phon:Gil:Kumiai**\n**hh:s:Gorbet:Diegueno**\n**mpieva:Miller1999Agrammar**\n**sil16:12614**\n**sil16:12615**"
+  },
+  "altnames": {
+    "wals": "\nDiegueño (Mesa Grande)\nTiipay (Jamul)",
+    "wals other": "\nDiegueño\nDiegueño (Jamul)\nJamul Diegueño\nJamul Tiipay\nKumeyaay\nMesa Grande dialect",
+    "ruhlen (1987)": "\nDiegueno",
+    "moseley & asher (1994)": "\nDiegueño",
+    "multitree": "\nBaja California Yuman\nCalifornia\nCampo\nCentral-Eastern\nCochimí\nComeya\nCuchimí\nDiegueño\nDiegueño (Mesa Grande)\nDiegueño (États-Unis d'Amérique)\nDiegueño du nord\nIpai\nKamia\nKamiai\nKamiyahi\nKamiyai\nKi-Miai\nKo'al\nKu'ahl\nKumeyaai\nKumeyaay\nKumia\nKumiai\nKw'aal\nQuemayá\nSouthern Diegueño\nTipai\nTipai (Estados Unidos)\nTipai (Mexique)\nTipai'\nTipái\nTipéi",
+    "lexvo": "\nDiegueño du Nord [fr]\nIdioma diegueño [es]\nIpai language [en]\nKumiai [en]",
+    "hhbib_lgcode": "\nCampo\nJamul\nJamul Tiipay\nKumayaay\nKumeyaay\nKumiai\nTiipai\nTiipay\nTipai",
+    "elcat": "\nCampo\nComeya\nCuchimí\nKamia\nKamiai\nKamiyahi\nKamiyai\nKi-Miai\nKo'al\nKu'ahl\nKumeyaai\nKumeyaay\nKumia\nKumiai\nKw'aal\nQuemayá\nTipai'\nTipái\nTipéi",
+    "glottolog": "\nTipai"
+  },
+  "triggers": {
+    "lgcode": "\ntiipay\njamul\niipay\ndiegueno"
+  },
+  "identifier": {
+    "wals": "tja;die",
+    "multitree": "dih",
+    "endangeredlanguages": "847"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**:117-118",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kumeyaay (847-dih) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

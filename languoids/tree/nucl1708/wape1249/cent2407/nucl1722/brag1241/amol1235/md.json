@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Mol",
+    "hid": "alx",
+    "level": "language",
+    "iso639-3": "alx",
+    "latitude": "-3.46843",
+    "longitude": "142.532",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Aru](https://endangeredlanguages.com/lang/3835)\nhttps://www.wikidata.org/entity/Q3504260\nhttps://en.wikipedia.org/wiki/Mol_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:w:Laycock:C9**\n**iso6393:2006-032**"
+  },
+  "altnames": {
+    "multitree": "\nAlatil\nAru\nEru",
+    "lexvo": "\nAmol [en]",
+    "hhbib_lgcode": "\nAmol\nAru",
+    "elcat": "\nAlang\nAlatil\nAmol\nAru\nEru"
+  },
+  "identifier": {
+    "multitree": "alx",
+    "endangeredlanguages": "3835"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Laycock:Lumi**:48 and p.c. Jennifer Wilson",
+    "subrefs": "\n**hh:hvw:Laycock:Lumi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aru (3835-alx) = Endangered (60 percent certain, based on the evidence available) (Most adults over the age of 30.) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

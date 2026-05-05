@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Choctaw",
+    "hid": "cho",
+    "level": "language",
+    "iso639-3": "cho",
+    "latitude": "32.25",
+    "longitude": "-88.5",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Choctaw](https://endangeredlanguages.com/lang/1692)\n[Choctaw](https://grambank.clld.org/languages/choc1276)\n[Choctaw](https://wals.info/languoid/lect/wals_code_cct)\nhttps://en.wikipedia.org/wiki/Choctaw_language\nhttps://phoible.org/languages/choc1276\nhttps://www.wikidata.org/entity/Q32979"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1642**\n**cldf:broadwell:86**\n**cldf:broadwell:87**\n**cldf:broadwell:91**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:davies:84:1**\n**cldf:davies:84:2**\n**cldf:davies:98**\n**cldf:ed:10**\n**cldf:eggan:37:1**\n**cldf:golla:goddard:etal:08**\n**cldf:heath:77**\n**cldf:hinton:munro:ed:98:9**\n**cldf:kathman:94**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lombardi:mccarthy:91**\n**cldf:moseley:07**\n**cldf:munro:gordon:82**\n**cldf:munro:ulrich:84**\n**cldf:nichols:92**\n**cldf:nicklas:75**\n**cldf:np:nd:264**\n**cldf:swanton:31**\n**cldf:swanton:46**\n**cldf:ulrich:86:1**\n**cldf:valin:80**\n**cldf:williams:99**\n**cldf:yegerlehner:voegelin:57**\n**hh:d:Byington:Choctaw**\n**hh:e:Campisi:Houma**\n**hh:e:GallowayKidwell:ChoctawE**\n**hh:e:Kidwell:ChoctawW**\n**hh:g:Broadwell:Choctaw**\n**hh:g:Davies:Choctaw**\n**hh:g:Nicklas:Choctaw**\n**hh:g:Thurston:Choctaw:1979**\n**hh:hew:Whippleetal:North-American**\n**hh:ld:Schoolcraft:Numeration**\n**hh:phon:Ulrich:Choctaw**\n**hh:s:Badger:Mississippi-Choctaw**\n**hh:s:Broadwell:Choctaw**\n**hh:s:Byington:Choctaw**\n**hh:s:Davies:Choctaw**\n**hh:s:HaagWillis:Choctaw**\n**hh:w:BrownHardy:Houma**\n**ldh:item_1933120**\n**mpieva:2005Nativela**\n**mpieva:Jacob1977Introduc**\n**sil16:21415**\n**sil16:24168**\n**sil16:47967**"
+  },
+  "altnames": {
+    "wals": "\nChoctaw",
+    "ruhlen (1987)": "\nChoctaw",
+    "moseley & asher (1994)": "\nChoctaw",
+    "multitree": "\nChocta (Oklahoma)\nChoctaw\nChoctaw (Louisiane)\nChoctaw (Mississippi)\nChoctaw (Oklahoma)",
+    "lexvo": "\nBahasa Choctaw [ms]\nChahta simi [qu]\nChahta' [cho]\nChoctaw [de]\nChoctaw language [en]\nIdioma choctaw [es]\nJęzyk czoktaw [pl]\nLíngua choctaw [pt]\nTchoktaweg [br]\nchoctaw [fr]\nĈakta lingvo [eo]\nЧоктавский язык [ru]\nЧоктаўская мова [be]\nசொக்டோ மொழி [ta]\nჩოქტაუ [ka]",
+    "hhbib_lgcode": "\nHouma falls within the lexicostatistical range of being a Choctaw dialect",
+    "elcat": "\nChoctaw"
+  },
+  "triggers": {
+    "lgcode": "\nkatohmih\nchocktaw\nhouma\nchoctaw"
+  },
+  "identifier": {
+    "wals": "cct",
+    "multitree": "cho",
+    "endangeredlanguages": "1692"
+  },
+  "classification": {
+    "sub": "**hh:hv:Martin-Munro:Proto-Muskogean**",
+    "subrefs": "\n**hh:hv:Martin-Munro:Proto-Muskogean**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Choctaw (1692-cho) = Vulnerable (20 percent certain, based on the evidence available) (The use of Mississippi\nChoctaw is vigorous at all ages, and many children are monolingual in Choctaw before attending\nschool.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

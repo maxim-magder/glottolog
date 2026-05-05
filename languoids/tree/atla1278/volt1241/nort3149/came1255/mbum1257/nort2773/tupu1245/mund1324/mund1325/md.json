@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mundang",
+    "hid": "mua",
+    "level": "language",
+    "iso639-3": "mua",
+    "latitude": "9.83195",
+    "longitude": "14.4751",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Mundang](https://grambank.clld.org/languages/mund1325)\n[Mundang](https://wals.info/languoid/lect/wals_code_mdg)\nhttps://en.wikipedia.org/wiki/Mundang_language\nhttps://phoible.org/languages/mund1325\nhttps://www.wikidata.org/entity/Q36032"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1135**\n**cldf:brussaux:07**\n**cldf:elders:01**\n**cldf:lembezat:16**\n**cldf:martin:47**\n**eballiso2009:1222**\n**eballiso2009:13957**\n**eballiso2009:25753**\n**eballiso2009:25926**\n**eballiso2009:31589**\n**eballiso2009:33078**\n**eballiso2009:52065**\n**eballiso2009:5913**\n**hh:e:Adler:Moundang**\n**hh:e:Brusseaux:Moundans**\n**hh:e:Cuvillier-Fleury:Mayo-Kebbi**\n**hh:e:Diziain:Guider-Kaele-Yagoua**\n**hh:e:Schilder:Mundang**\n**hh:g:Elders:Mundang**\n**hh:h:Louafaya:Moundang**\n**hh:he:Cabot:Moyen-Logone**\n**hh:hvw:Boyd:Adamawa**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Benton:WSudan**\n**hh:hw:Mouchet:15**\n**hh:hw:Strumpell:Adamauas**\n**hh:hwsoc:Hamm:Mambay**\n**hh:typ:FrajzyngierShay:Person-Number**\n**hh:typ:Yebga:Mundang**\n**hh:vsoc:Daba:Mbum-Mundang-Tupuri**"
+  },
+  "altnames": {
+    "wals": "\nMundang",
+    "ruhlen (1987)": "\nMundang",
+    "moseley & asher (1994)": "\nMundang",
+    "multitree": "\nKaele\nMarhay\nMoundan\nMoundang\nMundang\nMusemban\nNda",
+    "lexvo": "\nMundang [en]",
+    "hhbib_lgcode": "\nImbana (Lere)\nJassing\nKaele\nMata-Fianga quite divergent but\nMoundang\nMoundans\nMunda'\nMundang-Gelami\nMundang-Lere\nanyway"
+  },
+  "triggers": {
+    "lgcode": "\nmoundang\nmundang"
+  },
+  "identifier": {
+    "wals": "mdg",
+    "multitree": "mua"
+  },
+  "classification": {
+    "sub": "**hh:hv:Elders:Kebi-Benue** **hh:s:Glidden:Koh**:225-226 **hh:phon:UbelsUbels:Karang**:1-5 **hh:hv:Elders:Kebi-Benue**",
+    "subrefs": "\n**hh:phon:UbelsUbels:Karang**\n**hh:s:Glidden:Koh**\n**hh:hv:Elders:Kebi-Benue**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mundang (mua-mua) = 5* (Developing)."
+  }
+}

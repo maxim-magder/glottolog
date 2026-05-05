@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Balangingi",
+    "hid": "sse",
+    "level": "language",
+    "iso639-3": "sse",
+    "latitude": "6.011614",
+    "longitude": "121.686646",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY",
+      "PH"
+    ],
+    "links": "\n[Balangingi](https://grambank.clld.org/languages/bala1311)\n[Sama (Balangingi)](https://wals.info/languoid/lect/wals_code_sbg)\nhttps://www.wikidata.org/entity/Q2880535"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3645**\n**cldf:gault:03**\n**cldf:gault:79**\n**cldf:wouk:ed:02:2**\n**cldf:wouk:ed:02:3**\n**hh:d:DimentGault:Bangingi**\n**hh:hld:Riedel:NMCelebes**\n**hh:phon:Gault:Sama-Baangingi**\n**hh:s:Gault:Sama-Bangingi**\n**hh:typ:Blakely:Sama-Bangingi**\n**hh:typ:Gault:Sama-Bangingi**\n**hh:w:Diment:Bingingi-Sama**\n**iso6393:2009-051**\n**sil16:45255**"
+  },
+  "altnames": {
+    "wals": "\nSama (Balangingi)",
+    "ruhlen (1987)": "\nSama (Northern)",
+    "moseley & asher (1994)": "\nSama (North)",
+    "multitree": "\nBalangingi\nSama (Balangingi)",
+    "lexvo": "\nBalangingi [en]\nBangingih Sama [en]",
+    "hhbib_lgcode": "\nBalangingisch"
+  },
+  "triggers": {
+    "lgcode": "\nbangingi\nbalangingi\nbaangingi\nngingi"
+  },
+  "identifier": {
+    "wals": "sbg",
+    "multitree": "sse"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Pallesen:Convergence**",
+    "subrefs": "\n**hh:hvw:Pallesen:Convergence**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sama, Balangingih (sse-sse) = 5 (Developing)."
+  }
+}

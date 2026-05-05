@@ -1,0 +1,31 @@
+{
+  "core": {
+    "name": "Malawian Sign Language",
+    "level": "language",
+    "hid": "lws",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MW"
+    ],
+    "iso639-3": "lws",
+    "links": "\nhttps://www.wikidata.org/entity/Q47522462\nhttps://en.wikipedia.org/wiki/Malawian_Sign_Language"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malawian Sign Language (lws-lws) = 5 (Developing)."
+  },
+  "sources": {
+    "glottolog": "\n**hh:v:Minton-Ryan:Malawi-Sign**\n**iso6393:2017-011**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMalawi Sign Language"
+  },
+  "classification": {
+    "sub": "Large lexical distance to ASL and presumably other sign languages (only 32-39% cognates, **hh:v:Minton-Ryan:Malawi-Sign**). A presumed isolate.",
+    "subrefs": "\n**hh:v:Minton-Ryan:Malawi-Sign**"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wauyai",
+    "hid": "wuy",
+    "level": "language",
+    "iso639-3": "wuy",
+    "latitude": "-0.2828",
+    "longitude": "130.597",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953295"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3351**\n**hh:hw:Remijsen:Raja-Ampat**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:s:Arnold:Wauyai-Batta**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nWauyai",
+    "lexvo": "\nWauyai [en]",
+    "hhbib_lgcode": "\nMa'ya-Wawiai\nWauyai Maˈya"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND ampat"
+  },
+  "identifier": {
+    "multitree": "wuy"
+  },
+  "classification": {
+    "sub": "**hh:phon:Remijsen:Raja-Ampat**:18-21",
+    "subrefs": "\n**hh:phon:Remijsen:Raja-Ampat**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wauyai (wuy-wuy) = 7 (Shifting)."
+  }
+}

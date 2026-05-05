@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lumun",
+    "hid": "lmd",
+    "level": "language",
+    "iso639-3": "lmd",
+    "latitude": "10.8308",
+    "longitude": "30.253",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Lumun](https://endangeredlanguages.com/lang/4516)\n[Lumun](https://grambank.clld.org/languages/lumu1239)\nhttps://en.wikipedia.org/wiki/Lumun_language\nhttps://phoible.org/languages/lumu1239\nhttps://www.wikidata.org/entity/Q35777"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:meinhof:16:9**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**hh:g:Smits:Lumun**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hvw:NortonAlaki:Talodi**\n**hh:hvw:Schadeberg:Talodi**\n**hh:hw:Seligmann:Nubas**\n**hh:phon:Spronk:Talodi**\n**hh:typ:Norton:Talodi**\n**hh:typ:Smits:Lumun**\n**hh:typ:Smits:Lumun:2007**\n**hh:typ:Smits:Lumun:Locative-Applicative**\n**hh:typ:Stirtz:Lumun**\n**hh:typ:Stirtz:Lumun:2012**\n**hh:w:Meinhof:Lumun**\n**sil16:49003**"
+  },
+  "altnames": {
+    "multitree": "\nKuku-Lumun\nLomon\nLomón\nLumun",
+    "lexvo": "\nLumun [en]",
+    "hhbib_lgcode": "\nAru",
+    "elcat": "\nKuku-Lumun\nLomon\nLumun"
+  },
+  "triggers": {
+    "lgcode": "\nasheron\nlumun"
+  },
+  "identifier": {
+    "multitree": "lmd",
+    "endangeredlanguages": "4516"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonAlaki:Talodi** (interpreting the significance of the innovations differently)",
+    "subrefs": "\n**hh:hvw:NortonAlaki:Talodi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lumun (4516-lmd) = Vulnerable (20 percent certain, based on the evidence available) [Stirtz 2011](cldf:stirtz:11:2)"
+  }
+}

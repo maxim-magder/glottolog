@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Mocoví",
+    "hid": "moc",
+    "level": "language",
+    "iso639-3": "moc",
+    "latitude": "-28.097",
+    "longitude": "-60.4145",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR"
+    ],
+    "links": "\n[Mocoví](https://endangeredlanguages.com/lang/1847)\n[Mocoví](https://grambank.clld.org/languages/moco1246)\n[Mocoví](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Mocovi)\n[Mocoví](https://wals.info/languoid/lect/wals_code_mcv)\nhttps://en.wikipedia.org/wiki/Mocov%C3%AD_language\nhttps://phoible.org/languages/moco1246\nhttps://www.wikidata.org/entity/Q3027906"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:flury:51**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:ostler:ed:98:2**\n**hh:d:Buckwalter:Mocovi**\n**hh:g:Grondona:Mocovi**\n**hh:g:Gualdieri:Mocovi**\n**hh:g:Lafone:Mocovi**\n**hh:g:Lafone:Mocovi:1893**\n**hh:he:Kersten:Chaco:1968**\n**hh:hew:dOrbigny:Americain:2**\n**hh:hld:CampbellGrondona:Chaco**\n**hh:ht:Hervas:Saggio**\n**hh:ht:Marietti:CCL**\n**hh:hv:Adelungetal:Mithridates:32**\n**hh:hv:Lafone:Mocovi**\n**hh:hvs:Adam:Guaicuru**\n**hh:s:Lafone:Mocovi**\n**hh:typ:Carrio:Mocovi**\n**hh:typ:Juarez:Mocovi**\n**hh:typ:Ringmacher:Mocovi**\n**hh:w:Lafone:Mocovi-Vocabulario**\n**ldh:item_400793**\n**mpieva:Gualdieri1998MocoviGu**"
+  },
+  "altnames": {
+    "glottolog": "\nMocovi",
+    "wals": "\nMocoví",
+    "wals other": "\nMocovi",
+    "ruhlen (1987)": "\nMokovi",
+    "moseley & asher (1994)": "\nMocovi",
+    "multitree": "\nMbocobí\nMocobí\nMocovi\nMocoví\nMokoví",
+    "lexvo": "\nMocoví [en]\nMocoví language [en]",
+    "hhbib_lgcode": "\nMbocovi/Toba\nMocobi\nMocobice\nMocov?\nMocovi\nMocovy\nMocovíes",
+    "elcat": "\nMbocobí\nMocobí\nMocovi\nMocoví\nMokoví"
+  },
+  "triggers": {
+    "lgcode": "\nmocovi\nNOT y AND mocovi"
+  },
+  "identifier": {
+    "wals": "mcv",
+    "multitree": "moc",
+    "endangeredlanguages": "1847"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Reconstruccion:2013**",
+    "subrefs": "\n**hh:hv:ViegasBarros:Guaicuru-Reconstruccion:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mocoví (1847-moc) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

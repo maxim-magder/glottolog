@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Itene",
+    "hid": "ite",
+    "level": "language",
+    "iso639-3": "ite",
+    "latitude": "-12.2994",
+    "longitude": "-64.9841",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Itene](https://endangeredlanguages.com/lang/2911)\nhttps://www.wikidata.org/entity/Q3038640\nhttps://en.wikipedia.org/wiki/Itene_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3750**\n**cldf:bazan:antonio:00**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:ferrarezi:97**\n**cldf:lewis:ed:09**\n**fabreall2009ann:Chapakura31**\n**fabreall2009ann:Chapakura33**\n**fabreall2009ann:Chapakura_more00**\n**fabreall2009ann:Chapakura_more01**\n**fabreall2009ann:Chapakura_more03**\n**fabreall2009ann:Chapakura_more04**\n**fabreall2009ann:Chapakura_more05**\n**fabreall2009ann:Chapakura_more06**\n**fabreall2009ann:Chapakura_more07**\n**fabreall2009ann:Chapakura_more09**\n**fabreall2009ann:Chapakura_more10**\n**fabreall2009ann:Chapakura_more11**\n**fabreall2009ann:Chapakura_more12**\n**fabreall2009ann:Chapakura_more13**\n**fabreall2009ann:Chapakura_more14**\n**fabreall2009ann:Chapakura_more15**\n**fabreall2009ann:Chapakura_more16**\n**fabreall2009ann:Chapakura_more18**\n**fabreall2009ann:Chapakura_more20**\n**fabreall2009ann:Chapakura_more22**\n**hh:e:Ryden:More**\n**hh:ew:Leigue:Itenez**\n**hh:g:Angenot-de-Lima:More**\n**hh:hew:dOrbigny:Americain:2**\n**hh:hsoc:Bazan:Bolivianos**\n**hh:hvw:Latham:Comparative**\n**hh:w:Chamberlain:Pawumwa**\n**hh:w:Ferrarezi:Itenes**\n**mpieva:Angenotde2002Descript**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Chapacuran\nCentral Chapakuran\nCentral Chapakúran\nGuapore\nGuapore Group\nGuarayo\nIten\nItene\nIteneo\nItenez\nIténez\nMaré\nMore\nMoré",
+    "lexvo": "\nItene [en]",
+    "hhbib_lgcode": "\nIté/Iténès\nItén\nIténès",
+    "elcat": "\nGuarayo\nIten\nItene\nIteneo\nItenez\nIténez\nMaré\nMore\nMoré"
+  },
+  "triggers": {
+    "lgcode": "\nitenes\nitenez\nchapakura\namazonienne"
+  },
+  "identifier": {
+    "multitree": "guap;ite",
+    "endangeredlanguages": "2911"
+  },
+  "classification": {
+    "sub": "**hh:hv:Birchall:Chapacuran:2016**",
+    "subrefs": "\n**hh:hv:Birchall:Chapacuran:2016**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Itene (2911-ite) = Severely Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

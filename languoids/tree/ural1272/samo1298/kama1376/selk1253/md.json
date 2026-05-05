@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Selkup",
+    "hid": "sel",
+    "level": "language",
+    "iso639-3": "sel",
+    "latitude": "59.9409",
+    "longitude": "82.3004",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Northern Selkup](https://lexibank.clld.org/languages/northeuralex-sel)\n[Selkup](https://lexibank.clld.org/languages/syrjaenenuralic-selkup)\n[Selkup](https://wals.info/languoid/lect/wals_code_skp)\nhttps://en.wikipedia.org/wiki/Selkup_languages\nhttps://phoible.org/languages/selk1253\nhttps://www.wikidata.org/entity/Q34008"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cheremisina:ed:86:1**\n**cldf:cheremisina:ed:86:7**\n**cldf:cheremisina:ed:86:8**\n**cldf:decsy:70**\n**cldf:donner:32**\n**cldf:donner:54**\n**cldf:katz:75:2**\n**cldf:kuznecova:xelimskij:etal:80**\n**cldf:polinsky:92:2**\n**cldf:prokofiev:66**\n**cldf:redei:70**\n**cldf:sem:ed:83:11**\n**cldf:sem:ed:83:2**\n**cldf:sem:ed:83:6**\n**cldf:vajda:ed:04:4**\n**cldf:vajda:ed:04:6**\n**cldf:vajda:ed:04:7**\n**hh:d:Alatalo:Solkupisches**\n**hh:d:Bykonja:Selkupsko**\n**hh:d:Bykonja:Selkupsko:1994**\n**hh:d:Irikov:Selkupsko**\n**hh:e:Debets:Selkupy**\n**hh:es:Tuckova:Selkupy**\n**hh:g:Behnke:Selkupischen**\n**hh:g:Harder:Selkupischen**\n**hh:g:Kuznetsova:Selkupskij**\n**hh:g:KuznetsovaXelimskijGrushkina:Selkupskomu**\n**hh:g:Prokofev:Selkupskij**\n**hh:hew:Witsen:Tartarye**\n**hh:hvb:Hajdu:Samoyed**\n**hh:hvs:Castren:Samojedischen**\n**hh:hvtyp:Janhunen:Samoyedic**\n**hh:s:Bekker:Ket-Ob**\n**hh:s:Bekker:Selkupskogo**\n**hh:s:Bekker:Tym**\n**hh:s:Helimski:Selkup**\n**hh:s:Katz:Tym**\n**hh:s:Kazakevic:Selkup**\n**hh:s:Klumpp:Selkup**\n**hh:s:McNaughton:Taz-Selkup**\n**hh:s:Prokofev:Selkupskij**\n**hh:s:Prokofyev:Ostjak-Samojedischen**\n**hh:s:Xelimskij:Selkupskij**\n**hh:typ:Bekker:Selkupskom**\n**hh:v:Zahmoul:Selkup**\n**mpieva:2004Language**\n**mpieva:Bykonja1998Imjacisl**\n**mpieva:Ceremisina1991Selkupsk**\n**mpieva:Erdelyi1997Selkupis**\n**mpieva:Hajdu1997TheSamoy**\n**mpieva:Katz1979Selkupis**\n**mpieva:Kuzmina974Grammati**\n**mpieva:MacNaughton1976TazSelku**\n**mpieva:Szabo1997Selkupte**"
+  },
+  "altnames": {
+    "wals": "\nSelkup",
+    "wals other": "\nOstyak Samoyed\nSel'kup",
+    "ruhlen (1987)": "\nSelkup",
+    "moseley & asher (1994)": "\nSelkup",
+    "multitree": "\nOstiaki\nOstjak-Samojedisch\nOstyak Samoyed\nOstyak Samoyedic\nOstyak-Samoyed\nOstyak-Samoyede\nSelcupo meridional\nSelkoupe meridional\nSelkoupe septentrional\nSelkup\nSelkup central\nSelkupisch\nSelqup\nsel'kupy\nselkoup\nshöl-qup\nśəl-qup",
+    "lexvo": "\nJęzyk selkupski [pl]\nLingua selkupica [it]\nSelkoeps [nl]\nSelkoupe [fr]\nSelkoupeg [br]\nSelkup [ca]\nSelkup language [en]\nSelkupa lingvo [eo]\nSelkupagiella [se]\nSelkupin kieli [fi]\nSelkupische Sprache [de]\nSelkupisk [no]\nSelkupisk språk [nn]\nSelkupiska [sv]\nSelkupų kalba [lt]\nSzölkup nyelv [hu]\nselkoupe [fr]\nСелкупски јазик [mk]\nСелькупский язык [ru]\n셀쿠프어 [ko]",
+    "hhbib_lgcode": "\nKet\nKet’ Selkup\nMiddle Taz\nNorthern Selkup\nOstyak\nSel'kupskij\nTasov\nTassche Samojed\nTaz Selkup\nTazovskij\nTym"
+  },
+  "triggers": {
+    "lgcode": "\njuznye\nselkupskomu\nselkupische\nselkup\ntasovsche\nkoreferat\ntazovskij\nselkupskij\nchast\nselkupskaja\nsamojedskij\nselkupischen\nostjako\nselkupisches\npervaja\nostjak\nselkupov\nselkupskogo"
+  },
+  "identifier": {
+    "wals": "skp",
+    "multitree": "sel"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Janhunen:Samoyedic**",
+    "subrefs": "\n**hh:hvtyp:Janhunen:Samoyedic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Southern Selkup (8555-sel) = Critically Endangered (20 percent certain, based on the evidence available); Northern Selkup (8553-sel) = Endangered (80 percent certain, based on the evidence available); Central Selkup (8554-sel) = Critically Endangered (20 percent certain, based on the evidence available)"
+  }
+}

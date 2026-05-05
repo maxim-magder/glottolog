@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Dakota",
+    "hid": "dak",
+    "level": "language",
+    "iso639-3": "dak",
+    "latitude": "45.86",
+    "longitude": "-96.58",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Dakota](https://wals.info/languoid/lect/wals_code_dak)\nhttps://en.wikipedia.org/wiki/Dakota_language\nhttps://www.wikidata.org/entity/Q530384"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:boas:deloria:39**\n**cldf:dereuse:94:2**\n**cldf:frawley:hill:etal:ed:02:6**\n**cldf:mead:ed:37**\n**cldf:shaw:85:2**\n**cldf:skinner:19**\n**cldf:wallis:47**\n**cldf:warcloud:71**\n**haspelmath:boyle_550_2011**\n**hh:d:Riggs:Dakota**\n**hh:d:Williamson:Dakota**\n**hh:e:Albers:Santee**\n**hh:e:DeMallie:Sioux:1850**\n**hh:e:DeMallie:Yankton-Yanktonai**\n**hh:g:BoasDeloria:Dakota**\n**hh:g:Riggs:Dakota**\n**hh:g:Simons:Dakota**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:s:BoasSwanton:Siouan**\n**hh:s:vonderGabelentz:Dakota**\n**hh:sd:Ullrich:Lakota**\n**hh:styp:Patterson:Dakota**\n**hh:t:Deloria:Dakota**\n**mpieva:Riggs1893Dakotagr**\n**mpieva:Riggs1992ADakotaE**\n**sil16:12403**\n**sil16:23715**\n**sil16:34942**"
+  },
+  "altnames": {
+    "wals": "\nDakota",
+    "wals other": "\nSantee\nSioux\nStoney",
+    "ruhlen (1987)": "\nDakota",
+    "moseley & asher (1994)": "\nDakota",
+    "multitree": "\nDacota\nDakhota\nDakota\nSantee\nSantee-Sisseton\nSioux\nSisseton\nWahpeton\nsiu",
+    "lexvo": "\nDakota [en]\nDakota language [en]\nLingua dakota [it]\ndakota [fr]",
+    "hhbib_lgcode": "\nSantee\nSantee-Sisseton\nYankton\nYankton-Yanktonai\nYanktons"
+  },
+  "triggers": {
+    "lgcode": "\ndakota\ndakotah"
+  },
+  "identifier": {
+    "wals": "dak",
+    "multitree": "dak;dak-san;dak-dak",
+    "endangeredlanguages": "6512"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Sioux (6512-dak) = Endangered (80 percent certain, based on the evidence available) ['bib5217']"
+  }
+}

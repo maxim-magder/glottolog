@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Andai",
+    "hid": "afd",
+    "level": "language",
+    "iso639-3": "afd",
+    "latitude": "-4.96449",
+    "longitude": "143.637",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Meakambut](https://endangeredlanguages.com/lang/10641)\nhttps://www.wikidata.org/entity/Q4753480\nhttps://en.wikipedia.org/wiki/Andai_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:ew:Haberland:Alfendio**\n**hh:hv:Laycock:Sepik**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D35**\n**hh:wsoc:Kassell:Arafundi**\n**iso6393:2007-026**"
+  },
+  "altnames": {
+    "multitree": "\nAlfendio\nAndai\nArafundi\nMeakambut\nPundungum\nWangkai",
+    "lexvo": "\nAndai [en]",
+    "hhbib_lgcode": "\nImboin\nImboin of Haberland 1966\nImboin-Namata\nImbwain\nKaiyam\nMeakambut\nMeakambut (Ayok-Babialam-Kabukam) (Meakambut as the name of mountain villages in the Andai area not the nomadic Meakambut) closely resembles Imbawim\nMeakambut as the name of mountain villages in the Andai area not the nomadic Meakambut\nPuput\nTODO Andai\np 13 VIc Imbwain",
+    "elcat": "\nAndai\nArafundi\nImboin\nMeakambut\nPundungum\nWangkai"
+  },
+  "triggers": {
+    "lgcode": "\nalfendio"
+  },
+  "identifier": {
+    "multitree": "afd",
+    "endangeredlanguages": "10641"
+  },
+  "classification": {
+    "sub": "**hh:ew:Haberland:Alfendio** **hh:wsoc:Kassell:Arafundi**",
+    "subrefs": "\n**hh:ew:Haberland:Alfendio**\n**hh:wsoc:Kassell:Arafundi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Meakambut (10641-afd) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

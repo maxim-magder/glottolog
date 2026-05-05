@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Chilcotin-Nicola",
+    "hid": "clc",
+    "level": "language",
+    "iso639-3": "clc",
+    "latitude": "51.98952",
+    "longitude": "-123.24458",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Chilcotin-Nicola](https://grambank.clld.org/languages/chil1280)\n[Tsilhqot'in (Chilcotin)](https://endangeredlanguages.com/lang/1687)\nhttps://en.wikipedia.org/wiki/Tsilhqot%CA%BCin_language\nhttps://www.wikidata.org/entity/Q28535"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC5045**\n**anla:CA891M1917**\n**anla:CA961K1975a**\n**anla:CA961K1980d**\n**anla:CA973C1972**\n**anla:CA973C1977**\n**anla:CA973C1985b**\n**anla:CA991O1991**\n**anla:CN971C1980**\n**anla:CN971C1986**\n**anla:CN980PRK1980**\n**anla:CN985P1985**\n**anla:KU962C1964**\n**cldf:aro:shepard:67**\n**cldf:boas:99**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:goddard:etal:08**\n**cldf:lane:63:2**\n**cldf:lewis:ed:09**\n**cldf:morice:93**\n**cldf:moseley:07**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:ray:42**\n**hh:e:Lane:Chilcotin**\n**hh:e:Teit:Chilcotin**\n**hh:g:Cook:Tsilhqutin**\n**hh:phon:Andrews:Chilcotin**\n**hh:phon:Ham:Tsilhqutin**\n**hh:phon:King:Chilcotin**\n**hh:phon:Latimer:Chilcotin**\n**hh:typ:Cook:Chilcotin**\n**hh:w:Boas:Chilcotin**\n**hh:w:Boas:Nicola**\n**iso6393:2024-018**"
+  },
+  "altnames": {
+    "multitree": "\nChilcotin\nChilcotín\nTinneh\nTsilhqot'in\nTzilkotin",
+    "lexvo": "\nChilcotin [en]\nChilcotin language [en]",
+    "elcat": "\nChilcotin\nTinneh\nTsilhqot'in\nTsilhqot'in (Chilcotin)\nTzilkotin",
+    "glottolog": "\nChilcotin",
+    "hhbib_lgcode": "\nChilcotin"
+  },
+  "triggers": {
+    "lgcode": "\nchilcotin\ntsilhqutin"
+  },
+  "identifier": {
+    "multitree": "chil;clc",
+    "endangeredlanguages": "1687"
+  },
+  "classification": {
+    "sub": "**hh:h:Mithun:NAmerica**:345, 352-354 **hh:h:Jaker:Na-Dene**:474",
+    "subrefs": "\n**hh:h:Mithun:NAmerica**\n**hh:h:Jaker:Na-Dene**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tsilhqot'in (Chilcotin) (1687-clc) = severely endangered"
+  }
+}

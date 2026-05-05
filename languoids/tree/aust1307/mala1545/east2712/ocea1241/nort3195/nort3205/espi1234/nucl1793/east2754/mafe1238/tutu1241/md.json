@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tutuba",
+    "hid": "tmi",
+    "level": "language",
+    "iso639-3": "tmi",
+    "latitude": "-15.580667",
+    "longitude": "167.268889",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Tutuba](https://endangeredlanguages.com/lang/2447)\n[Tutuba](https://grambank.clld.org/languages/tutu1241)\n[Tutuba](https://lexibank.clld.org/languages/abvdoceanic-Tutuba)\nhttps://en.wikipedia.org/wiki/Tutuba_language\nhttps://www.wikidata.org/entity/Q7857052"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2895**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Naito:Tsutuba**\n**hh:g:Naito:Tutuba**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nTutuba",
+    "lexvo": "\nTutuba [en]",
+    "elcat": "\nTutuba"
+  },
+  "triggers": {
+    "lgcode": "\ntutuba\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "tmi",
+    "endangeredlanguages": "2447"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tutuba (2447-tmi) = Threatened (60 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

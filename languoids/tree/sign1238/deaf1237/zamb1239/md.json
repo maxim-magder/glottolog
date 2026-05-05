@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Zambian Sign Language",
+    "hid": "zsl",
+    "level": "language",
+    "iso639-3": "zsl",
+    "latitude": "-15.5134",
+    "longitude": "28.9898",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ZM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q8065713\nhttps://en.wikipedia.org/wiki/Zambian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Bwalya:Zambian-Sign**\n**hh:d:ZAD:Zambia-Sign**\n**hh:h:Mbewe:Deaf-Zambia**\n**hh:h:SerpellMbewe:Sign-Africa**\n**hh:ld:Chanda:Zambian-Sign**\n**hh:soc:Mulonda:Sign-Zambia**"
+  },
+  "altnames": {
+    "multitree": "\nZambian Sign Language",
+    "lexvo": "\nZambian Sign Language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nmagwero\nsituational"
+  },
+  "identifier": {
+    "multitree": "zsl"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zambian Sign Language (zsl-zsl) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Indigenous origin in a deaf school in the 1950s but with later ASL influence (**hh:ld:Chanda:Zambian-Sign**):194-195.",
+    "subrefs": "\n**hh:ld:Chanda:Zambian-Sign**"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nawathinehena",
+    "hid": "nwa",
+    "level": "language",
+    "iso639-3": "nwa",
+    "latitude": "41.316",
+    "longitude": "-104.45",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6982892\nhttps://en.wikipedia.org/wiki/Nawathinehena_language",
+    "timespan": "1899-01-01/1899-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Kroeber:Arapaho**"
+  },
+  "altnames": {
+    "multitree": "\nArapaho-Atsina\nNawathinehena\nNorthern Arapaho",
+    "lexvo": "\nNawathinehena [en]\nNawathinehena language [en]",
+    "hhbib_lgcode": "\nNanwathin'hänan\nSouthern People"
+  },
+  "triggers": {
+    "lgcode": "\ndialects AND arapaho"
+  },
+  "identifier": {
+    "multitree": "nwa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Algonquian-Plains**:74-76",
+    "subrefs": "\n**hh:hv:Goddard:Algonquian-Plains**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Nawathinehena (nwa-nwa) = 10 (Extinct)."
+  }
+}

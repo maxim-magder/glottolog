@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Cuixtla-Xitla Zapotec",
+    "hid": "zam",
+    "level": "language",
+    "iso639-3": "zam",
+    "latitude": "16.2197",
+    "longitude": "-96.6647",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Miahuatl%C3%A1n_Zapotec\nhttps://www.wikidata.org/entity/Q13541830"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:RuegseggerRuegsegger:Zapoteco-Miahuatlan**\n**hh:hv:Beam:Zapoteco-Sureno**\n**hh:hv:Fernandez:Protozapoteco**\n**hh:hvw:Rendon:Zapoteco**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**sil16:12222**"
+  },
+  "altnames": {
+    "multitree": "\nMiahuatec\nMiahuatlan\nMiahuatlán Zapotec\nSouthern Mountain Zapotec\nSouthern Sapoteko\nZapotec\nZapotec, Miahuatlán\nZapoteco de Asunción Tlacolulita\nZapoteco de Miahuatlán\nZapotèque d'Asunción Tlacolulita",
+    "lexvo": "\nMiahuatlán Zapotec [en]",
+    "hhbib_lgcode": "\nCuixtla\nMiahuatlán\nMiahuatlán Zapotec\nVariantes norteñas del miahuateco que se hablan por ejemplo en Cuixtla y Xitla\nZapotec-Miahuatlán"
+  },
+  "triggers": {
+    "lgcode": "\nquiavani\nmiahuatlan"
+  },
+  "identifier": {
+    "multitree": "zam"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Coatlán Zapotec (8794-zam) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

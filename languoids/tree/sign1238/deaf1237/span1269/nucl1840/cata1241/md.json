@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Catalan Sign Language",
+    "hid": "csc",
+    "level": "language",
+    "iso639-3": "csc",
+    "latitude": "41.635",
+    "longitude": "-1.97",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\n[Catalan Sign Language](https://endangeredlanguages.com/lang/7178)\nhttps://www.wikidata.org/entity/Q35768\nhttps://en.wikipedia.org/wiki/Catalan_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:np:12:5**\n**cldf:rodriguez:nd:2**\n**cldf:woodward:12**\n**hh:d:PerelloFrigola:Signos-Manuals**\n**hh:g:Quer:Catalan-Sign**\n**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**\n**hh:soc:Pruss:Katalanische-Gebardensprache**\n**hh:typ:Barbera:Catalan-Sign**\n**hh:typ:BarberaHofherr:Catalan-Sign**\n**hh:typ:BarberaMosella:Signes-Catalana**\n**hh:typ:BarberaQuer:Catalan-Sign**\n**hh:typ:Josep::LSC-Orden**\n**hh:typ:Veiga:Catalan-Sign**\n**iso6393:2006-086**"
+  },
+  "altnames": {
+    "lexvo": "\nCatalan Sign Language [en]\nKataluna signolingvo [eo]\nLangue des signes catalane [fr]\nLengua de señas catalana [en]\nLengua de signos catalana [es]\nLlengua de Signes Catalana [en]\nLlengua de signes catalana [ca]\nLíngua de Sinais Catalã [pt]",
+    "elcat": "\nCatalan Sign Language\nLengua de Signos Catalana\nLlengua Catalana de Signes\nLlengua de Signes Catalana",
+    "hhbib_lgcode": "\nBarcelona LSC"
+  },
+  "identifier": {
+    "endangeredlanguages": "7178"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Catalan Sign Language (7178-csc) = Vulnerable (20 percent certain, based on the evidence available) [Woodward 2012](cldf:woodward:12)"
+  },
+  "classification": {
+    "sub": "Catalan Sign Language [cata1241], Valencian Sign Language [vale1251], Spanish Sign Language [span1263] (including Galician) clearly form a tight-knit family lexicostatistically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**, **hh:h:Quer:Sign-Mediterranean**:98, **hh:s:Cabeza-Pereiro:Spanish-Sign**:729). Venezuelan Sign Language [vene1237] has a historical connection and also belongs to this family (**hh:soc:WilliamsParks:Deaf-Venezuela**):9. This family has an independent history (**hh:s:Cabeza-Pereiro:Spanish-Sign**):730-731 and (contra **hh:hv:Wittmann:Classification-Signees**:282) is not related to LSF, at least not so that it can be traced lexically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22, nor to Lengua de Señas Mexicana (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22.",
+    "subrefs": "\n**hh:s:Cabeza-Pereiro:Spanish-Sign**\n**hh:h:Quer:Sign-Mediterranean**\n**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**\n**hh:hv:Wittmann:Classification-Signees**\n**hh:soc:WilliamsParks:Deaf-Venezuela**"
+  }
+}

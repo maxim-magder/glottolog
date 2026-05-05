@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ngambay",
+    "hid": "sba",
+    "level": "language",
+    "iso639-3": "sba",
+    "latitude": "8.57051",
+    "longitude": "15.414",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG",
+      "TD"
+    ],
+    "links": "\n[Ngambay](https://grambank.clld.org/languages/ngam1268)\n[Ngambay](https://wals.info/languoid/lect/wals_code_ngm)\nhttps://en.wikipedia.org/wiki/Ngambay_language\nhttps://phoible.org/languages/ngam1268\nhttps://www.wikidata.org/entity/Q2372207"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:lebikaza:ed:00:5**\n**cldf:wiesemann:djemadjioudjiel:81**\n**eballiso2009:10183**\n**eballiso2009:1070**\n**eballiso2009:1071**\n**eballiso2009:14328**\n**eballiso2009:21352**\n**eballiso2009:33367**\n**eballiso2009:37602**\n**eballiso2009:40611**\n**eballiso2009:4070**\n**eballiso2009:43572**\n**eballiso2009:49063**\n**eballiso2009:54667**\n**eballiso2009:54668**\n**eballiso2009:55218**\n**eballiso2009:57005**\n**eballiso2009:6844**\n**eballiso2009:7208**\n**eballiso2009:7210**\n**hh:d:DjemadjioudjielFedry:Ngambay**\n**hh:d:Nangone:Ngambaye**\n**hh:g:Ndjerassem:Ngambay**\n**hh:g:Thayer:Sara-Ngambay**\n**hh:g:ThayerThayer:Ngambay**\n**hh:g:Vandame:Ngambay-Moundou**\n**hh:g:Vandame:Ngambay:1961**\n**hh:h:Djarangar:Sara-Intercomprehension**\n**hh:hw:Benton:WSudan**\n**hh:phon:Nadjirom:Ngambay**\n**hh:phon:Ndjerassem:Ngambai**\n**hh:s:Nderkanzoukou:Ngambay-Moundou**\n**hh:s:Ndjerareou:Ngambay**\n**hh:ssoc:Boukar:Ngambay**\n**hh:t:Maikoubou:Ngambayes**\n**hh:vld:Vine:Sara**\n**hh:w:Barth:Emghedesie**"
+  },
+  "altnames": {
+    "wals": "\nNgambay",
+    "wals other": "\nGambai\nSara-Ngambay",
+    "ruhlen (1987)": "\nNgambay",
+    "moseley & asher (1994)": "\nGambai",
+    "multitree": "\nGamb-Lai\nGamba\nGambai\nGambaye\nGamblai\nNgambai\nNgambay\nSara\nSara Ngambai",
+    "lexvo": "\nNgambay [en]\nNgambay language [en]",
+    "hhbib_lgcode": "\nBang-Bay\nMoundou\nNgambay from Vandame 1963 and Thayer-Thayer 1971"
+  },
+  "triggers": {
+    "lgcode": "\nngambay\nngambayes\nngambai\ntenji\nbaguirmiennes\nngambaye"
+  },
+  "identifier": {
+    "wals": "ngm",
+    "multitree": "sba"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngambay (sba-sba) = 3 (Wider communication). Spoken widely in Chad and some in Cameroon. In the 17th century used as slave trade language and in agriculture."
+  }
+}

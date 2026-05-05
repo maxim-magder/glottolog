@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Wambayan",
+    "hid": "wmb",
+    "level": "language",
+    "iso639-3": "wmb",
+    "latitude": "-17.496",
+    "longitude": "135.683",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Wambaya](https://collection.aiatsis.gov.au/austlang/language/c19)\n[Wambaya](https://endangeredlanguages.com/lang/3336)\n[Wambaya](https://wals.info/languoid/lect/wals_code_wam)\n[Wambayan](https://grambank.clld.org/languages/wamb1258)\nhttps://en.wikipedia.org/wiki/Wambaya_language\nhttps://phoible.org/languages/wamb1258\nhttps://www.wikidata.org/entity/Q2083197"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bender:08**\n**cldf:borowsky:harvey:97**\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:NordlingerHoogenraad:Wambaya**\n**hh:g:Nordlinger:Wambaya**\n**hh:g:Nordlinger:Wambaya:1993**\n**hh:hbw:MenningNash:Central-Australian**\n**hh:he:SpencerGillen:NCAustralia**\n**hh:hvs:Chadwick:WBarkly**\n**hh:hvtyp:Chadwick:WBarkly**\n**hh:hvw:Harvey:Mirndi**\n**hh:s:Aguas:Gudanji**\n**hh:s:Nordlinger:Wambaya**\n**hh:typ:Mushin:Second-Australia**\n**hh:typ:NordlingerBresnan:Wambaya**\n**mpieva:Nordlinger1998Alearner**\n**ozbib:1079**\n**ozbib:1080**\n**ozbib:1082**\n**ozbib:1083**\n**ozbib:1085**\n**ozbib:1973**\n**ozbib:2359**\n**ozbib:2666**\n**ozbib:3754**\n**ozbib:4372**\n**ozbib:4373**\n**ozbib:4375**\n**ozbib:4380**\n**ozbib:4384**\n**ozbib:4387**\n**ozbib:4590**\n**ozbib:4594**\n**ozbib:4970**\n**ozbib:5314**\n**ozbib:5400**\n**ozbib:6370**\n**ozbib:6532**\n**ozbib:6535**\n**ozbib:6879**\n**ozbib:747**\n**ozbib:914**"
+  },
+  "altnames": {
+    "wals": "\nWambaya",
+    "ruhlen (1987)": "\nWambaya",
+    "moseley & asher (1994)": "\nWambaya",
+    "multitree": "\nHuambaya\nMacArthur Subgroup\nUmbai\nUmbaia\nUmbia\nWambaia\nWambaja\nWambaya\nWambayan\nWampaja\nWampaya\nWom-By-A\nWom-by-a\nWombaia\nWombya\nWon-baia\nYumpia",
+    "lexvo": "\nLenga wambaya [pms]\nWambaya [en]\nWambaya language [en]",
+    "hhbib_lgcode": "\nBinbinga\nGudanji\nKutanji\nUmbaia\nWambaya\nWampaya",
+    "elcat": "\nBinbinka\nMacArthur Subgroup\nUmbai\nUmbaia\nUmbia\nWambaia\nWambaja\nWambaya\nWambayan\nWampaja\nWampaya\nWom-By-A\nWom-by-a\nWombaia\nWombya\nWon-baia\nYumpia",
+    "aiatsis": "\nUmbaia\nUmbia\nWailwan\nWailwin\nWailwun\nWaljwan\nWambaia\nWambaja\nWambaya\nWamgaja\nWampaja\nWampaya\nWilwan\nWobya\nWom by a\nWombaia\nWombaya\nWombya\nWon baia\nWonbaia\nYmpia\nYumpia"
+  },
+  "triggers": {
+    "lgcode": "\nwambaya"
+  },
+  "identifier": {
+    "wals": "wam",
+    "multitree": "wmb",
+    "endangeredlanguages": "3336"
+  },
+  "classification": {
+    "sub": "**hh:g:Nordlinger:Wambaya**:3-4",
+    "subrefs": "\n**hh:g:Nordlinger:Wambaya**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wambaya (3336-wmb) = Critically Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

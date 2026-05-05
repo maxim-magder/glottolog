@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Chitimacha",
+    "hid": "ctm",
+    "level": "language",
+    "iso639-3": "ctm",
+    "latitude": "30.3386",
+    "longitude": "-90.9123",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Chitimacha](https://endangeredlanguages.com/lang/510)\n[Chitimacha](https://grambank.clld.org/languages/chit1248)\n[Chitimacha](https://wals.info/languoid/lect/wals_code_ctm)\nhttps://en.wikipedia.org/wiki/Chitimacha_language\nhttps://www.wikidata.org/entity/Q1294227",
+    "timespan": "1940-01-01/1940-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:haas:39**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:moseley:07**\n**cldf:nichols:92**\n**cldf:np:12:5**\n**cldf:oflouisiana:nd**\n**cldf:swadesh:66**\n**hh:b:Hieber:Chitimacha**\n**hh:d:Swadesh:Chitimacha**\n**hh:e:Brightman:Chitimacha**\n**hh:e:Hoover:Chitimacha**\n**hh:h:Mithun:NAmerica**\n**hh:hv:Brownetal:Chitimacha**\n**hh:hv:Kaufman:Lower-Mississippi**\n**hh:hv:Kaufman:Lower-Mississippi:2019**\n**hh:hv:Swanton:Tunica-Chitimacha-Atakapa**\n**hh:hv:Toomey:Chitimachan**\n**hh:hvw:Gallatin:US**\n**hh:phon:Iannucci:Chitimacha**\n**hh:phon:Swadesh:Chitimacha**\n**hh:s:Granberry:Sitimaxa**\n**hh:s:Hieber:Chitimacha:2023**\n**hh:s:Swadesh:Chitimacha**\n**hh:soc:Weinberg:Chitimacha**\n**hh:typ:Hieber:Chitimacha**\n**hh:typ:Hieber:Chitimacha-Category**"
+  },
+  "altnames": {
+    "wals": "\nChitimacha",
+    "ruhlen (1987)": "\nChitimacha",
+    "moseley & asher (1994)": "\nChitimacha",
+    "multitree": "\nChatimacha\nChetimacha\nChitimacha\nChitimacha Cluster\nChitimachan\nShetimacha\nShetimasha",
+    "lexvo": "\nChitimacha [en]\nChitimacha language [en]\nChitimachan [hr]\nЧитимача [ru]",
+    "hhbib_lgcode": "\nChittemachas",
+    "elcat": "\nChitimacha"
+  },
+  "triggers": {
+    "lgcode": "\nchitimacha\nsitimaxa"
+  },
+  "identifier": {
+    "wals": "genus/chitimacha",
+    "multitree": "ctm",
+    "endangeredlanguages": "510"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Mesoamerican:2016**:129-130"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Chitimacha (510-ctm) = Awakening [of Louisiana n.d.](cldf:oflouisiana:nd)"
+  }
+}

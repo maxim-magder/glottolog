@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Coyutla Totonac",
+    "hid": "toc",
+    "level": "language",
+    "iso639-3": "toc",
+    "latitude": "20.5447",
+    "longitude": "-97.6852",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Totonac](https://endangeredlanguages.com/lang/3540)\nhttps://www.wikidata.org/entity/Q15615591"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Moore:Coahuitlan-Totonac**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:phon:Tino:Totonaco-Olintla**"
+  },
+  "altnames": {
+    "multitree": "\nTotonac\nTotonac, Coyutla\nTotonacano de Patla\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonaco de Coyutla\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Patla-Chicontla",
+    "lexvo": "\nCoyutla Totonac [en]",
+    "hhbib_lgcode": "\nCoyutla Totonac (Co)\nLas Lomas\nLom\nMecat\nMecatlán\nOlintla Totonaco\nPro\nProgreso de Zaragoza\nSab\nSabaneta\nTotonac Coyutla\nTotonac-Coyutla",
+    "elcat": "\nTotonac"
+  },
+  "triggers": {
+    "lgcode": "\ntotonaque"
+  },
+  "identifier": {
+    "multitree": "toc",
+    "endangeredlanguages": "3540"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Totonac (3540) = At risk (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Old Sabellic",
+    "hid": "qhr",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "iso639-3": "qhr",
+    "longitude": "13.463",
+    "latitude": "43.538",
+    "timespan": "-0550-01-01/-0350-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:Wallace:Sabellian:1984**\n**hh:ld:Marinetti:Sudpicene**\n**hh:phon:Zamponi:South-Piecen**\n**hh:phontyp:Zamponi:South-Picene**\n**hh:s:PetrocchiWallace:Sabelliche**\n**hh:s:Wallace:Sabellian**\n**hh:s:Wallace:Sabellic:2007**"
+  },
+  "triggers": {
+    "lgcode": "\nsudpicene\nsabellic"
+  },
+  "classification": {
+    "sub": "**hh:hv:Clackson:Sabellian**",
+    "subrefs": "\n**hh:hv:Clackson:Sabellian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Sabellic (qhr-qhr) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nSouth Picene\nSudpicene"
+  },
+  "identifier": {
+    "multitree": "qhr"
+  }
+}

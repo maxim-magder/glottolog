@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Maisin",
+    "hid": "mbq",
+    "level": "language",
+    "iso639-3": "mbq",
+    "latitude": "-9.22853",
+    "longitude": "148.731",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Maisin](https://grambank.clld.org/languages/mais1250)\n[Maisin](https://lexibank.clld.org/languages/abvdoceanic-Maisin)\n[Maisin](https://wals.info/languoid/lect/wals_code_msn)\nhttps://en.wikipedia.org/wiki/Maisin_language\nhttps://www.wikidata.org/entity/Q3448149"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dutton:voorhoeve:etal:ed:71:1**\n**hh:e:Hermkens:Maisin**\n**hh:g:Frampton:Maisin**\n**hh:g:Frampton:Maisin:2020**\n**hh:h:Hasselberg:Tufi**\n**hh:hld:Lean:Northern-Province**\n**hh:hv:Dutton:Melanesia**\n**hh:hv:Dutton:SEPapua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvwtyp:Capell:Mixed**\n**hh:s:Ross:Maisin**\n**hh:typ:Ross:Metatypy**\n**hh:w:MacDonnell:Maisin**\n**hh:w:Ray:Maisin**\n**hh:w:Strong:Maisin**\n**hh:w:Strong:North-Eastern-Divisions**\n**sil16:48966**\n**silpng:silpng1991-2000:1204**\n**silpng:silpng1991-2000:1205**\n**silpng:silpng1991-2000:1206**\n**silpng:silpng2001-2003:32**"
+  },
+  "altnames": {
+    "wals": "\nMaisin",
+    "ruhlen (1987)": "\nMaisin",
+    "moseley & asher (1994)": "\nMaisin",
+    "multitree": "\nMaisan\nMaisin",
+    "lexvo": "\nMaisin [en]\nMaisin language [en]",
+    "hhbib_lgcode": "\n2xMaisin\nCoastal Maisin\nUiaku"
+  },
+  "triggers": {
+    "lgcode": "\ngugugen\nwanno\nmaisin"
+  },
+  "identifier": {
+    "wals": "msn",
+    "multitree": "mbq"
+  },
+  "classification": {
+    "sub": "**hh:typ:Ross:Metatypy**:195",
+    "subrefs": "\n**hh:typ:Ross:Metatypy**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maisin (mbq-mbq) = 5 (Developing)."
+  }
+}

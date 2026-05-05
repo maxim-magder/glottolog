@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Male (Ethiopia)",
+    "hid": "mdy",
+    "level": "language",
+    "iso639-3": "mdy",
+    "latitude": "5.91975",
+    "longitude": "36.9892",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Maale](https://wals.info/languoid/lect/wals_code_mle)\n[Male (Ethiopia)](https://grambank.clld.org/languages/male1284)\n[Malé](https://endangeredlanguages.com/lang/7870)\nhttps://en.wikipedia.org/wiki/Maale_language\nhttps://www.wikidata.org/entity/Q795327"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jensen:ed:59**\n**cldf:koenig:11**\n**cldf:lewis:ed:09**\n**eballiso2009:175**\n**eballiso2009:1922**\n**eballiso2009:20259**\n**eballiso2009:21250**\n**eballiso2009:25788**\n**eballiso2009:25789**\n**eballiso2009:26117**\n**eballiso2009:26129**\n**eballiso2009:26131**\n**eballiso2009:30949**\n**eballiso2009:54228**\n**eballiso2009:54229**\n**hh:d:Gurmu:Maale**\n**hh:e:Milkyas:Maale**\n**hh:e:Thubauville:Maale**\n**hh:g:Amha:Maale**\n**hh:phon:Hirut:Male**\n**hh:soc:VanAswegen:Maale**\n**hh:typ:Konig:MarkNom**\n**sil16:37553**\n**sil16:42591**"
+  },
+  "altnames": {
+    "wals": "\nMaale",
+    "ruhlen (1987)": "\nMale",
+    "moseley & asher (1994)": "\nMale (Omotic)",
+    "multitree": "\nMaale\nMaalé\nMale\nMalé",
+    "lexvo": "\nMale (Ethiopia) [en]\nMale [en]\nMale language [en]",
+    "hhbib_lgcode": "\nMaale\nMale",
+    "elcat": "\nMaale\nMaalé\nMale\nMalé"
+  },
+  "triggers": {
+    "lgcode": "\nmaale"
+  },
+  "identifier": {
+    "wals": "mle",
+    "multitree": "mdy",
+    "endangeredlanguages": "7870"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Malé (7870-mdy) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

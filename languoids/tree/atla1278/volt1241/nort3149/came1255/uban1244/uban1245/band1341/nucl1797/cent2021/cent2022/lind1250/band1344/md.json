@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Banda-Bambari",
+    "hid": "liy",
+    "level": "language",
+    "iso639-3": "liy",
+    "latitude": "6.21563",
+    "longitude": "20.9827",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\n[Banda-Bambari](https://grambank.clld.org/languages/band1344)\n[Linda](https://wals.info/languoid/lect/wals_code_lnd)\nhttps://www.wikidata.org/entity/Q11051591"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4159**\n**cldf:tisserant:30**\n**hh:d:Tisserant:Banda**\n**hh:e:Daigre:Bandas**\n**hh:g:Cloarec-Heiss:Banda-Linda**\n**hh:h:Nougayrol:NECAR**\n**hh:hdial:Cloarec-Heiss:Banda**\n**hh:hs:Boyd:Oubangiennes**\n**hh:hv:Cloarec-Heiss:Banda:2000**\n**hh:hv:Pozdniakov:Linda**\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**\n**hh:hw:Monino:Oubanguiennes**\n**hh:ld:Arom:Tambourine-Banda-Linda**\n**hh:ld:Cloarec-Heiss:Tambourine-Banda**\n**hh:s:Cloarec-Heiss:Banda**\n**hh:s:Cloarec-Heiss:Verbe-Banda**\n**hh:s:Fabre:Banda-Gbambiya**\n**hh:soc:Bluhberger:Gbambiya**\n**hh:soc:Bluhberger:Linda**\n**hh:soc:Probst:Djoto**\n**hh:soc:Probst:Gbende**\n**hh:typ:Boyeldieu:Logophoriques-Banda**\n**hh:typ:Cloarec-Heiss:Banda-Linda**\n**hh:typ:Hagege:Logophoriques**\n**mpieva:CloarecHeiss1967Essaidep**\n**mpieva:CloarecHeiss1969BandaLin**"
+  },
+  "altnames": {
+    "wals": "\nLinda",
+    "wals other": "\nBanda Linda\nBanda-Linda",
+    "ruhlen (1987)": "\nLinda",
+    "moseley & asher (1994)": "\nLinda",
+    "multitree": "\nBanda\nBanda of Bambari\nBanda-Bambari",
+    "lexvo": "\nBanda-Bambari [en]",
+    "hhbib_lgcode": "\nBanda Linda\nBanda of Bambari mission\nBanda-Daburu-Gbaga-Gbaya-Gbongo-Linda\nBanda-Linda\nDjoto\nGbambiya\nGbende\nGbwende\nLinda\nLnda\nMultidialectal with Linda"
+  },
+  "triggers": {
+    "lgcode": "\nbanda AND bambari"
+  },
+  "identifier": {
+    "wals": "lnd",
+    "multitree": "liy;banb"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Cloarec-Heiss:Banda** **hh:hv:Cloarec-Heiss:Banda:2000**",
+    "subrefs": "\n**hh:hdial:Cloarec-Heiss:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banda-Bambari (liy-liy) = 6a* (Vigorous)."
+  }
+}

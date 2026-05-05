@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Aghem",
+    "hid": "agq",
+    "level": "language",
+    "iso639-3": "agq",
+    "latitude": "6.38956",
+    "longitude": "10.0807",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Aghem](https://grambank.clld.org/languages/aghe1239)\n[Aghem](https://wals.info/languoid/lect/wals_code_agh)\nhttps://en.wikipedia.org/wiki/Aghem_language\nhttps://phoible.org/languages/aghe1239\nhttps://www.wikidata.org/entity/Q34737"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:79**\n**cldf:hyman:79:2**\n**cldf:hyman:85:1**\n**cldf:watters:79**\n**eballiso2009:16181**\n**eballiso2009:2181**\n**eballiso2009:31283**\n**eballiso2009:34343**\n**eballiso2009:37606**\n**eballiso2009:39679**\n**eballiso2009:40360**\n**eballiso2009:40362**\n**eballiso2009:41754**\n**eballiso2009:42506**\n**eballiso2009:51**\n**eballiso2009:54293**\n**eballiso2009:54294**\n**eballiso2009:57562**\n**eballiso2009:58210**\n**eballiso2009:7970**\n**eballiso2009:8775**\n**hh:g:Hyman:Aghem**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Thormoset:Aghem**\n**hh:hvw:Paulin:Ring**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:soc:Troyeretal:Mmen-Aghem**\n**hh:typ:Attia:Aghem**\n**hh:typ:Watters:Aghem**\n**mpieva:1979Aghemgra**\n**sil16:15293**\n**sil16:21854**\n**sil16:46431**\n**sil16:48126**\n**sil16:48134**"
+  },
+  "altnames": {
+    "wals": "\nAghem",
+    "ruhlen (1987)": "\nAghem",
+    "moseley & asher (1994)": "\nAghem",
+    "multitree": "\nAghem\nWum\nYum",
+    "lexvo": "\nAghem [en]",
+    "hhbib_lgcode": "\nAggam\nAghem-Isu\nAghem-Isu =Aghem\nAghem-Weh\nAghem-Wum\nAghem_Grassfields"
+  },
+  "triggers": {
+    "lgcode": "\nweh\nwoher\naghem\nrightward"
+  },
+  "identifier": {
+    "wals": "agh",
+    "multitree": "agq"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Piron:Bantoide**:566 **hh:soc:Troyeretal:Mmen-Aghem**:7",
+    "subrefs": "\n**hh:soc:Troyeretal:Mmen-Aghem**\n**hh:hvw:Piron:Bantoide**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aghem (agq-agq) = 5 (Developing)."
+  }
+}

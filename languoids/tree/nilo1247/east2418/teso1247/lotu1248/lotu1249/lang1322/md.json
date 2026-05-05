@@ -1,0 +1,52 @@
+{
+  "core": {
+    "name": "Lango-Logire-Logir",
+    "hid": "lno",
+    "level": "language",
+    "iso639-3": "lno",
+    "latitude": "4.04948",
+    "longitude": "33.0412",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS",
+      "UG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q223306\nhttps://en.wikipedia.org/wiki/Lango_language_(South_Sudan)\nhttps://phoible.org/languages/lang1322"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Huntingford:NNilo-Hamites**\n**hh:he:Nalder:Mongalla**\n**hh:he:Seligman:SSudan**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:ld:Muratori:Lotuxo-Altri**\n**iso6393:2021-027**"
+  },
+  "altnames": {
+    "multitree": "\nLanggo\nLango\nLogiri",
+    "lexvo": "\nLango (Sudan) [en]\nLango [de]\nLango language [en]",
+    "hhbib_lgcode": "\nKetebo\nLango\nLango-Logir-Dongotono\nLango-Logiri-Dongotono",
+    "glottolog": "\nLango (South Sudan)"
+  },
+  "triggers": {
+    "lgcode": "\nsyntax AND lango"
+  },
+  "identifier": {
+    "multitree": "lno"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Vossen:ENilotes**",
+    "subrefs": "\n**hh:hvw:Vossen:ENilotes**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E24",
+    "date": "2021-03-15T20:30:07",
+    "comment": "Lango (lno-lno) = 6a (Vigorous)."
+  },
+  "iso_retirement": {
+    "code": "lno",
+    "name": "Lango (South Sudan)",
+    "effective": "2022-01-20",
+    "reason": "split",
+    "change_to": "\nlgo\nimt\nlqr\noie",
+    "remedy": "Split into Lango [lgo], Imotong [imt], Logir [lqr] and Okolie [oie]",
+    "change_request": "2021-027"
+  }
+}

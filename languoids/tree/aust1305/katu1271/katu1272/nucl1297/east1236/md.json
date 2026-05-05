@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Eastern Katu",
+    "hid": "ktv",
+    "level": "language",
+    "iso639-3": "ktv",
+    "latitude": "15.8553",
+    "longitude": "107.644",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Eastern Katu](https://grambank.clld.org/languages/east1236)\nhttps://www.wikidata.org/entity/Q13018490"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:wallace:66**\n**hh:d:Costello:Katu**\n**hh:d:Costello:Katu:1971**\n**hh:e:Hung:Katu**\n**hh:g:Hoanh:Katu**\n**hh:hlde:Mole:South-Vietnam**\n**hh:hv:Thomas:East-Katuic**\n**hh:hvw:Peiros:Katuic**\n**hh:ld:Nguyen:Katu**\n**hh:phon:KhamluanCostello:Katu**\n**hh:phon:Wallace:Katu**\n**hh:t:Costello:Katu**\n**hh:typ:Costello:Katu**\n**hh:typ:Costello:Katu:1966**\n**hh:typ:Costello:Katu:1969**\n**hh:typ:Hoanh:Katu**\n**hh:w:Costello:Katu**\n**sil16:10447**\n**sil16:12582**\n**sil16:15117**\n**sil16:15118**\n**sil16:15534**\n**sil16:32480**\n**sil16:37890**\n**sil16:41201**\n**sil16:44187**\n**sil16:45777**\n**sil16:50448**"
+  },
+  "altnames": {
+    "multitree": "\nAttouat\nEastern Katu\nHigh Katu\nKantu\nKao\nKatu\nKatu, Eastern\nKhat\nKontu\nNguôn Ta\nPhuang\nPhuong\nPhuong Catang\nPhuong Katu\nTa River Vân Kiêu\nTeu\nThap",
+    "lexvo": "\nEastern Katu [en]",
+    "hhbib_lgcode": "\nHigh Katu Pisuah/Aro\nHigh Katu Tako\nKatu\nKatu in Vietnam\nKatu-Eastern\nKatu-High Katu"
+  },
+  "triggers": {
+    "lgcode": "\nvung\nnooq\nNOT v AND NOT a AND NOT pp AND NOT of AND NOT y AND katu"
+  },
+  "identifier": {
+    "multitree": "ktv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Katu, Eastern (ktv-ktv) = 6a* (Vigorous). Language of recognized ethnic group: Co Tu."
+  }
+}

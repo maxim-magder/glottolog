@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Susquehannock",
+    "hid": "sqn",
+    "level": "language",
+    "iso639-3": "sqn",
+    "latitude": "41.169",
+    "longitude": "-76.208",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Conestoga](https://endangeredlanguages.com/lang/10956)\nhttps://en.wikipedia.org/wiki/Susquehannock_language\nhttps://www.wikidata.org/entity/Q3505736",
+    "timespan": "1763-01-01/1763-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mithun:81**\n**hh:e:Jennings:Susquehannock**\n**hh:hv:Julian:Iroquoian**\n**hh:vwtyp:Mithun:Susquehannock**\n**hh:w:Holm:Susquehannock**\n**ldh:item_1933128**"
+  },
+  "altnames": {
+    "multitree": "\nAndaste\nConestoga\nMinqua\nSusquehanna\nSusquehannock",
+    "lexvo": "\nSusquehannock [en]",
+    "elcat": "\nAndaste (French)\nConestoga\nMinqua (Netherlands Dutch)\nSusquehannock (English)"
+  },
+  "triggers": {
+    "lgcode": "\nsusquehannock"
+  },
+  "identifier": {
+    "multitree": "sqn",
+    "endangeredlanguages": "10956"
+  },
+  "classification": {
+    "sub": "**hh:hv:Julian:Iroquoian**:15 **hh:vwtyp:Mithun:Susquehannock**",
+    "subrefs": "\n**hh:vwtyp:Mithun:Susquehannock**\n**hh:hv:Julian:Iroquoian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Susquehannock (sqn-sqn) = 10 (Extinct)."
+  }
+}

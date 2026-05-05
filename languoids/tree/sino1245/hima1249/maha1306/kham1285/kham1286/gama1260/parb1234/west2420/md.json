@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Western Parbate Kham",
+    "hid": "kjl",
+    "level": "language",
+    "iso639-3": "kjl",
+    "latitude": "28.6521",
+    "longitude": "82.7348",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Kham](https://wals.info/languoid/lect/wals_code_kmh)\nhttps://www.wikidata.org/entity/Q22237017"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:noonan:03:3**\n**cldf:watters:66:1**\n**cldf:watters:73**\n**hh:d:Bhattarai:Magar**\n**hh:d:Watters:Kham**\n**hh:d:WattersWatters:Kham**\n**hh:g:ThapaMagar:Kham**\n**hh:g:Watters:Kham**\n**hh:g:Watters:Kham:1998**\n**hh:h:Watters:Kham**\n**hh:hv:Watters:Kham-Magar**\n**hh:hvtyp:Rempt:Kham**\n**hh:hw:Hale:Nepal**\n**hh:s:Watters:Kham**\n**hh:soc:Sapkota:Magar-Kham**\n**hh:wsoc:Leman:Maikoti**\n**iso6393:2006-078**\n**ldh:item_2152218**\n**ldh:item_2152221**\n**ldh:item_2152224**\n**ldh:item_408234**\n**mpieva:Watters1998TheKhaml**\n**sil16:10016**\n**sil16:12662**\n**sil16:12663**\n**sil16:12664**\n**sil16:12665**\n**sil16:12666**\n**sil16:16823**\n**sil16:22695**\n**sil16:22712**\n**sil16:24546**\n**sil16:26453**\n**sil16:26456**\n**sil16:36216**\n**sil16:36217**\n**sil16:50636**\n**sil16:51151**"
+  },
+  "altnames": {
+    "multitree": "\nKham\nKham,WesternParbate\nKham-Magar\nKhamkura\nKhams\nMagar\nMaikoti Kham\nParbate\nParbate, Western\nProto-Kham\nTakale\nTakale Kham\nWestern Parbate",
+    "lexvo": "\nWestern Parbate Kham [en]",
+    "hhbib_lgcode": "\nKham-Western Parbate\nMaikoti Kham\nProbably mostly Kham-Western Parbate\nSeram/Rolpa\nTakale\nTakāle Khām"
+  },
+  "triggers": {
+    "lgcode": "\nmagaranti\ntaka\ntakale\nNOT languages AND NOT de AND kham\nparicay"
+  },
+  "identifier": {
+    "multitree": "kjl"
+  },
+  "classification": {
+    "sub": "**hh:g:Watters:Kham**:11-14 **hh:soc:Sapkota:Magar-Kham**:86-87",
+    "subrefs": "\n**hh:soc:Sapkota:Magar-Kham**\n**hh:g:Watters:Kham**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kham, Western Parbate (kjl-kjl) = 5 (Developing)."
+  }
+}

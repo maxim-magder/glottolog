@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gende",
+    "hid": "gaf",
+    "level": "language",
+    "iso639-3": "gaf",
+    "latitude": "-5.67528",
+    "longitude": "145.177",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Gende](https://lexibank.clld.org/languages/transnewguineaorg-gende)\nhttps://en.wikipedia.org/wiki/Gende_language\nhttps://www.wikidata.org/entity/Q3100425"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:AufenangerHoltker:Gende**\n**hh:e:Fitz-Patrick:Bundi**\n**hh:e:Zimmer:Gende**\n**hh:hv:Ross:Voorhoeve**\n**hh:hvld:Wurm:ECTNG**\n**hh:hvw:Capell:CHighlands**\n**hh:hvw:Scott:East-Central**\n**hh:ld:Aufenanger:Gende**\n**hh:std:Aufenanger:Gende**\n**silpng:silpng1956-1990:372**"
+  },
+  "altnames": {
+    "multitree": "\nBundi\nGende\nGende-Siane-Gahuku-Kamano-Fore\nGendeka\nGene",
+    "lexvo": "\nGende [en]",
+    "hhbib_lgcode": "\nBundi"
+  },
+  "triggers": {
+    "lgcode": "\ngende\ngendeka"
+  },
+  "identifier": {
+    "multitree": "gaf;gend"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Papuan**:236-237 **hh:hvw:Capell:CHighlands** **hh:hv:Haiman:Gorokan**\n**hh:hvld:Capell:SWPacific:1962**:105-128",
+    "subrefs": "\n**hh:hv:Foley:Papuan**\n**hh:hvw:Capell:CHighlands**\n**hh:hv:Haiman:Gorokan**\n**hh:hvld:Capell:SWPacific:1962**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gende (gaf-gaf) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Suki",
+    "hid": "sui",
+    "level": "language",
+    "iso639-3": "sui",
+    "latitude": "-8.04783",
+    "longitude": "141.842",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2089984\nhttps://en.wikipedia.org/wiki/Suki_language\n[Suki](https://wals.info/languoid/lect/wals_code_suk)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hatfield:08**\n**hh:e:Sharp:Suki**\n**hh:e:vanNieuwenhuijsen-Riedeman:Suki**\n**hh:g:vanTongeren:Suki**\n**hh:he:Williams:Trans-Fly**\n**hh:hv:Voorhoeve:Suki-Gogodala**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Ray:Western**\n**hh:nt:Bidrietal:Suki**\n**hh:typ:vanTongeren:Suki**\n**hh:w:Rentoul:Jiminakana**\n**hh:w:Strong:Nausaku**"
+  },
+  "altnames": {
+    "wals": "\nSuki",
+    "ruhlen (1987)": "\nSuki",
+    "moseley & asher (1994)": "\nSuki",
+    "multitree": "\nSuki\nWiram",
+    "lexvo": "\nSuki [en]\nSuki jezik [hr]\nSuki language [en]",
+    "hhbib_lgcode": "\nGaramudi\nJiminakana\nNausaku\nSuki mixed with Arammba"
+  },
+  "triggers": {
+    "lgcode": "\nnausaku\nsuki\nnew AND suki"
+  },
+  "identifier": {
+    "wals": "suk",
+    "multitree": "sui;suki"
+  },
+  "classification": {
+    "sub": "**hh:hv:Voorhoeve:Suki-Gogodala**",
+    "subrefs": "\n**hh:hv:Voorhoeve:Suki-Gogodala**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Suki (sui-sui) = 5 (Developing)."
+  }
+}

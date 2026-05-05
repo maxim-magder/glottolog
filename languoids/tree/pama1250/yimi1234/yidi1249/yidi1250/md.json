@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Yidiñ",
+    "hid": "yii",
+    "level": "language",
+    "iso639-3": "yii",
+    "latitude": "-17.1332",
+    "longitude": "145.876",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Yidiny](https://endangeredlanguages.com/lang/3197)\n[Yidiny](https://lexibank.clld.org/languages/bowernpny-Yidiny)\n[Yidiny](https://wals.info/languoid/lect/wals_code_yid)\n[Yidiñ](https://grambank.clld.org/languages/yidi1250)\nhttps://en.wikipedia.org/wiki/Yidiny_language\nhttps://phoible.org/languages/yidi1250\nhttps://www.wikidata.org/entity/Q3053283"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:439**\n**cldf:bowern:11:1**\n**cldf:cowhurst:hewitt:95**\n**cldf:dixon:77:2**\n**cldf:lewis:ed:09**\n**cldf:nash:79:2**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:dt:Dixon:Words-Country**\n**hh:g:Dixon:Yiding**\n**hh:h:Roth:Nomenclature**\n**hh:hv:Dixon:Cairns**\n**hh:ld:Comrie:Yidiny**\n**hh:ld:Roth:Miscellaneous**\n**hh:typ:Dixon:Gender-Style**\n**langsci:dixon:77:1**\n**langsci:hopper:thompson:80**\n**ozbib:1220**\n**ozbib:1519**\n**ozbib:1521**\n**ozbib:1522**\n**ozbib:1527**\n**ozbib:1528**\n**ozbib:1551**\n**ozbib:1554**\n**ozbib:1557**\n**ozbib:1574**\n**ozbib:1575**\n**ozbib:1584**\n**ozbib:1585**\n**ozbib:1595**\n**ozbib:1886**\n**ozbib:2038**\n**ozbib:2060**\n**ozbib:2259**\n**ozbib:239**\n**ozbib:2402**\n**ozbib:2403**\n**ozbib:2405**\n**ozbib:2407**\n**ozbib:2415**\n**ozbib:2479**\n**ozbib:2524**\n**ozbib:2570**\n**ozbib:2692**\n**ozbib:2693**\n**ozbib:29**\n**ozbib:2946**\n**ozbib:3005**\n**ozbib:3122**\n**ozbib:3226**\n**ozbib:3838**\n**ozbib:4018**\n**ozbib:4054**\n**ozbib:4069**\n**ozbib:4072**\n**ozbib:4284**\n**ozbib:4324**\n**ozbib:4910**\n**ozbib:4931**\n**ozbib:5124**\n**ozbib:5276**\n**ozbib:5327**\n**ozbib:5328**\n**ozbib:6063**\n**ozbib:6126**\n**ozbib:616**\n**ozbib:6222**\n**ozbib:6313**\n**ozbib:6819**\n**ozbib:6822**\n**ozbib:7193**\n**sil16:47753**"
+  },
+  "altnames": {
+    "wals": "\nYidiny",
+    "wals other": "\nYidin\nYidinj",
+    "ruhlen (1987)": "\nYidiny",
+    "moseley & asher (1994)": "\nYidiny",
+    "multitree": "\nBolambi\nBoolboora\nCharroogin\nDeba\nDjumbandji\nEneby\nGerrah\nGijow\nGillah\nGuwamal\nIdi:\nIdin\nIdin Idindji\nIdin-Wudjar\nIdindji\nIdinji\nIlba\nIndindji\nItti\nJidindji\nJumbandjie\nKitba\nMaiara\nMaimbi\nMaimbie\nMulgrave River dialect\nMungera\nMungera Ohalo\nMungerra\nMyarah\nPegullo-Bura\nPegullobura\nPeulloburra\nWarra-Warra\nWarryboora\nWoggil\nWudjar\nYellingie\nYetinji\nYettingie\nYiddinji\nYidin\nYidindji\nYidindyi\nYidini\nYidiny\nYiti-ntyi\nYitintyi\nYukkaburra",
+    "lexvo": "\nLenga yidiny [pms]\nYidiny [en]\nYidiny language [en]",
+    "hhbib_lgcode": "\nYidin\nYidiny\nYidiñ",
+    "elcat": "\nBoolboora\nDeba\nEneby\nGerrah\nGijow\nGillah\nGuwamal\nIdin\nIdin Idindji\nIdin-Wudjar\nIdinji\nIlba\nIndindji\nJidindji\nKitba\nMaimbie\nMungera\nMungera Ohalo\nMungerra\nPegullo-Bura\nPegullobura\nPeulloburra\nWarra-Warra\nWarryboora\nWoggil\nWudjar\nYetinji\nYiddinji\nYidin\nYidindji\nYidini\nYidiny\nYiti-ntyi\nYitintyi\nYukkaburra"
+  },
+  "triggers": {
+    "lgcode": "\ncairns\nyidiny\nyidi\nyidin"
+  },
+  "identifier": {
+    "wals": "yid",
+    "multitree": "yii-yid;yii",
+    "endangeredlanguages": "3197"
+  },
+  "classification": {
+    "sub": "**hh:g:Patz:Djabugay**",
+    "subrefs": "\n**hh:g:Patz:Djabugay**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yidiny (3197-yii) = Severely Endangered (20 percent certain, based on the evidence available) [Tryon 2007](cldf:tryon:07)"
+  }
+}

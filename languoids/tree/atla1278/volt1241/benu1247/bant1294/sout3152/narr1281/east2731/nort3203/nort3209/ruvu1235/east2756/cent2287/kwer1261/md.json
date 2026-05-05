@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kwere",
+    "hid": "cwe",
+    "level": "language",
+    "iso639-3": "cwe",
+    "latitude": "-6.50666",
+    "longitude": "38.4449",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kwere_language\nhttps://www.wikidata.org/entity/Q779632"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:picarda:86**\n**cldf:reidelman:67**\n**eballiso2009:1028**\n**eballiso2009:12354**\n**eballiso2009:1678**\n**eballiso2009:23459**\n**eballiso2009:23463**\n**eballiso2009:25989**\n**eballiso2009:28707**\n**eballiso2009:29418**\n**eballiso2009:34277**\n**eballiso2009:50699**\n**eballiso2009:54102**\n**eballiso2009:54109**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hvw:Gonzales:Ruvu**\n**hh:ld:Zahran:Kutu-Kwere-Zalamo**\n**hh:typ:Moller:Kwere**\n**hh:w:Legere:Nghwele**"
+  },
+  "altnames": {
+    "multitree": "\nKakwere\nKikwere\nKinghwele\nKwele\nKwere\nNg'were\nNghwele\nNgwele\nTsinghwele",
+    "lexvo": "\nKwere [en]",
+    "hhbib_lgcode": "\nG32_Kwere\nNghwele\nNgwele G32\nNhwele"
+  },
+  "triggers": {
+    "lgcode": "\nkwere\njamii\nmandera\nruvu\nnghwele\nchingwele"
+  },
+  "identifier": {
+    "multitree": "cwe"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Gonzales:Ruvu**",
+    "subrefs": "\n**hh:hvw:Gonzales:Ruvu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kwere (cwe-cwe) = 6b* (Threatened)."
+  }
+}

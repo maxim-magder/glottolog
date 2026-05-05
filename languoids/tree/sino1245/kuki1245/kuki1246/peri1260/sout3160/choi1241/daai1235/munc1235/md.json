@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mün Chin",
+    "hid": "mwq",
+    "level": "language",
+    "iso639-3": "mwq",
+    "latitude": "20.289",
+    "longitude": "94.3929",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\n[Muun (Nitu) Shing Bawk](https://lexibank.clld.org/languages/chindialectsurvey-MuunNituShingBawk-A)\n[Mün Chin](https://grambank.clld.org/languages/munc1235)\n[Ng'ga Kant-thayung](https://lexibank.clld.org/languages/chindialectsurvey-NggaKantthayung-A)\n[Ngmüün](https://lexibank.clld.org/languages/sohartmannchin-Ngmuun)\nhttps://en.wikipedia.org/wiki/K%CA%BCch%C3%B2_language\nhttps://www.wikidata.org/entity/Q331340"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mang:06**\n**hh:d:Jordan:Chin**\n**hh:hew:Hughes:Arakan**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hvw:Hartmann:Southern-Chin**\n**hh:ld:Nolan:Cho**\n**hh:s:Jordan:Chin**\n**hh:s:Mang:Kcho**\n**hh:typ:Bedell:Cho**\n**hh:typ:MangBedell:Kcho**\n**hh:w:Tin:Taungthas**"
+  },
+  "altnames": {
+    "glottolog": "\nMun Chin",
+    "multitree": "\n\"Chinbok\"\nChin, Mün\nChin,Mün\nChinbe\nChinbok\nCho\nMindat\nMun\nMün\nNg'men\nTśinbok\nYawdwin",
+    "lexvo": "\nMün Chin [en]",
+    "hhbib_lgcode": "\nChin-Mün\nChin-Müün\nChinbok\nChinbok Chin\nCho\nNgmüün\nThe name K'Chò in this thesis will refer to the Hmong-K'Cha variety of Ng'meen (excluding Hlet-long) which is a sub-group of Müün\nYawdwin\nYawdwin Chin"
+  },
+  "triggers": {
+    "lgcode": "\ncho\nkcho\ntaungthas\nmindat\nkchoo"
+  },
+  "identifier": {
+    "multitree": "mwq"
+  },
+  "classification": {
+    "sub": "**hh:g:Hartmann:Daai-Chin**:25-26",
+    "subrefs": "\n**hh:g:Hartmann:Daai-Chin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chin, Müün (mwq-mwq) = 5 (Developing)."
+  }
+}

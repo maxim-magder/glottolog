@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Malgbe",
+    "hid": "mxf",
+    "level": "language",
+    "iso639-3": "mxf",
+    "latitude": "12.5342",
+    "longitude": "14.8475",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3502224\nhttps://en.wikipedia.org/wiki/Malgbe_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Lebeuf:Tchad**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:ld:Tourneux:Kotoko-Goulfey**\n**hh:phon:Bouny:Kotoko**\n**hh:phon:Bouny:Mara**\n**hh:t:Bouny:Mandague**\n**hh:typ:Bouny:Kotoko**\n**hh:w:Lebeuf:Kotoko**\n**mpieva:Jungraithmayr1978Cinqtext**"
+  },
+  "altnames": {
+    "multitree": "\nGoulfei\nGoulfey\nGulfe\nGulfei\nKotoko-Gulfei\nMalbe\nMalgbe\nMalgwe\nMandage\nNgwalkwe\nSanbalbe",
+    "lexvo": "\nMalgbe [en]\nMalgbe language [en]",
+    "hhbib_lgcode": "\nGoulfeil\nGulfei\nKotoko de Goulfei\nKotoko-Gulfei\nKotoko-Mandage-Mantage subsumes Malgbe\nMara"
+  },
+  "triggers": {
+    "lgcode": "\ntextes AND tchadiques\ngoulfey\nmandague"
+  },
+  "identifier": {
+    "multitree": "mxf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tourneux:Kotoko:Consonantique** **hh:hv:BarreteauDieu:ENCameroun**:65 against the grouping on very common sound changes suggested in **hh:hv:Gravina:Central-Chadic**:46-47",
+    "subrefs": "\n**hh:hv:Tourneux:Kotoko:Consonantique**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malgbe (mxf-mxf) = 6b (Threatened)."
+  }
+}

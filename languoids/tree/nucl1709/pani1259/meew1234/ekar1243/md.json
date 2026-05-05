@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ekari",
+    "hid": "ekg",
+    "level": "language",
+    "iso639-3": "ekg",
+    "latitude": "-3.88974",
+    "longitude": "136.018",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Ekari](https://grambank.clld.org/languages/ekar1243)\n[Ekari](https://wals.info/languoid/lect/wals_code_eka)\nhttps://en.wikipedia.org/wiki/Ekari_language\nhttps://phoible.org/languages/ekar1243\nhttps://www.wikidata.org/entity/Q5350305"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4196**\n**cldf:fremerey:78**\n**cldf:pospisil:58**\n**cldf:pospisil:60**\n**cldf:pospisil:63:1**\n**cldf:steltenpool:vanderstap:50**\n**hh:d:Doble:Kapauku**\n**hh:d:Steltenpool:Ekagi**\n**hh:d:Takimai:Mee**\n**hh:dial:Ukago:Mee**\n**hh:e:Alua:Ekagi**\n**hh:e:Ballard:Tapiro**\n**hh:e:Boedhisantoso:Kapauku**\n**hh:e:Pospisil:Kapauku**\n**hh:e:Rawling:New-Guinea**\n**hh:e:deBruyn:Elegeboe**\n**hh:e:deBruyn:Koegapa-Kemandora**\n**hh:e:deBruyn:Wisselmeren**\n**hh:e:denHaan:Wisselmeren**\n**hh:e:vanEechoud:Wisselmeren**\n**hh:e:vanEechoud:Wisselmeren-Paniai**\n**hh:g:Drabbe:Ekagi**\n**hh:g:SteltenpoolvanderStap:Kapauku**\n**hh:he:Boelaars:Irian**\n**hh:he:Brinio:Papuans**\n**hh:hv:LarsonLarson:Ekagi-Wodani-Moni**\n**hh:hv:Ross:Voorhoeve**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:LeRoux:Bergpapoeas**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvs:Boelaars:SWNG**\n**hh:hvw:Larson:Irian-Highlands**\n**hh:hvw:Peckham:Etna**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Drabbe:24**\n**hh:hw:Drabbe:ZWNG**\n**hh:hw:Galis:NNG**\n**hh:ld:Althur:Mee**\n**hh:phon:Dharmojo:Ekagi**\n**hh:s:Doble:Ekari**\n**hh:s:Doble:Kapauku**\n**hh:s:Drabbe:Ekari-Moni**\n**hh:typ:Agapa:Kamuu**\n**hh:typ:Paginta:Ekagi**\n**hh:typ:Simin:Ekagi**\n**hh:w:Kuik:Jabistam**\n**hh:w:LeRoux:Uhunduni**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Stokhof:Holle:5:2**\n**hh:w:Stroeve:Niederlandisch-Neu-Guinea**\n**mpieva:Drabbe1952Spraakku**"
+  },
+  "altnames": {
+    "wals": "\nEkari",
+    "wals other": "\nEkagi\nKapauku\nTapiro",
+    "ruhlen (1987)": "\nEkagi",
+    "moseley & asher (1994)": "\nEkagi",
+    "multitree": "\nEkagi\nEkari\nKapauku\nKaupaku\nMe Mana\nMee Mana\nTapiro",
+    "lexvo": "\nEkari [en]\nEkari language [en]",
+    "hhbib_lgcode": "\nA Paniai Lakes lg\nA Paniai lakes lg\nE. (= Ekari)\nEkagi\nJabi\nJabis\nJabistam bovenloop van de Wanggar\nJahi oder ober-Wanggan (misread for Jabi?)\nKamuu\nKapaoekoe\nKapauka-Kiura\nKapauko\nKapauku-Paniai Valley\nKapauku-Paronggo\nMee\nSimori\nSimori Mapia-Gebied (a Paniai Lakes lg) by Tillemans\nTapiro\nTapiros\nTigi\nYabi"
+  },
+  "triggers": {
+    "lgcode": "\nekari\nkapauku\ntapiro\nekagi\nornithologists"
+  },
+  "identifier": {
+    "wals": "eka",
+    "multitree": "ekg"
+  },
+  "classification": {
+    "sub": "**hh:s:Moxness:Auye**:6-7 **hh:hv:Tebay:Paniai**",
+    "subrefs": "\n**hh:hv:Tebay:Paniai**\n**hh:s:Moxness:Auye**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ekari (ekg-ekg) = 5* (Developing)."
+  }
+}

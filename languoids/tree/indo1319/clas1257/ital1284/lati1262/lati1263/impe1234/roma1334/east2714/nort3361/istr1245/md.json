@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Istro-Romanian",
+    "hid": "ruo",
+    "level": "language",
+    "iso639-3": "ruo",
+    "latitude": "45.433",
+    "longitude": "14.2",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "HR"
+    ],
+    "links": "\n[Istro Romanian](https://endangeredlanguages.com/lang/3442)\n[Istro_Romanian](https://lexibank.clld.org/languages/saenkoromance-istroromanian)\nhttps://en.wikipedia.org/wiki/Istro-Romanian_language\nhttps://www.wikidata.org/entity/Q33622"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:dial:Filipi:Istrorimunjski**\n**hh:g:Hurren:Istro-Rumanian**\n**hh:g:Kovacec:Istroromanei**\n**hh:hv:Saenko:Balkano-Romanskix**\n**hh:hvtyp:Maiden:Romanian**\n**hh:ld:Loporcaro:Istro-Romanian**\n**hh:sdt:Kovacec:Istroromunjsko**\n**hh:typ:Loporcaro:Istro-Romanian**\n**hh:vtyp:Narumov:Istrorumynskij**\n**mpieva:1996Lesdiffe**"
+  },
+  "altnames": {
+    "multitree": "\nIstro-Romanian\nIstro-Rumanian\nIstro-roumain\nIstro-rumano\nOther Roumanian Lects\nRomanian, Istro",
+    "lexvo": "\nIdioma istrorrumano [es]\nIstriorrumanu [ast]\nIstro Romanian [en]\nIstro-Roemeens [li]\nIstro-Romanian language [en]\nIstro-romaniera [eu]\nIstro-roumain [fr]\nIstrorumunjski jezik [hr]\nIstrorumunšćina [hsb]\nIstrorumänische Sprache [de]\nIstrorumänska [sv]\nIstrorumäänsche Spraak [nds]\nIsztroromán nyelv [hu]\nJęzyk istrorumuński [pl]\nLimba istroromână [ro]\nLingua Istroromanica [la]\nLingua istrio-romanesa [gl]\nLingua istro-romanian [ia]\nLingua istrorumena [it]\nLíngua istro-romena [pt]\nИстро-романски језик [sr]\nИстроромански јазик [mk]\nИстрорумынский язык [ru]\n伊斯特罗-罗马尼亚语 [zh]",
+    "hhbib_lgcode": "\nIstro Romanian\nIstro-Romanian\nRomanian-Istro",
+    "elcat": "\nIstro\nIstro Romanian\nIstro-Romanian\nIstro-Rumanian\nOther Roumanian Lects\nRomanian"
+  },
+  "triggers": {
+    "lgcode": "\nhrvatski\nrjecnik\ntekstovima\ngramatikom\nrumanisch\nistrorumunjsko\nactuale\ndescrierea\nistroromanei"
+  },
+  "identifier": {
+    "multitree": "ruo",
+    "endangeredlanguages": "3442"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rosetti:Romane** **hh:hv:Saenko:Balkano-Romanskix** **hh:hvtyp:Maiden:Romanian**",
+    "subrefs": "\n**hh:hv:Saenko:Balkano-Romanskix**\n**hh:hvtyp:Maiden:Romanian**\n**hh:hv:Rosetti:Romane**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Istro Romanian (3442-ruo) = Endangered (60 percent certain, based on the evidence available) (There\nare no children and few younger speakers.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

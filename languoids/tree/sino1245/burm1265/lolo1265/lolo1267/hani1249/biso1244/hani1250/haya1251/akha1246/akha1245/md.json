@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Akha",
+    "hid": "ahk",
+    "level": "language",
+    "iso639-3": "ahk",
+    "latitude": "21.2309",
+    "longitude": "100.964",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA",
+      "MM",
+      "TH",
+      "VN"
+    ],
+    "links": "\n[Akha](https://grambank.clld.org/languages/akha1245)\n[Akha](https://wals.info/languoid/lect/wals_code_akh)\nhttps://en.wikipedia.org/wiki/Akha_language\nhttps://phoible.org/languages/akha1245\nhttps://www.wikidata.org/entity/Q56643"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3899**\n**cldf:bernatzik:47**\n**cldf:bradley:03:1**\n**cldf:thurgood:86**\n**hh:d:Lewis:Akha**\n**hh:d:McDaniel:Akha**\n**hh:e:Bernatzik:Akha-Meau**\n**hh:e:Bernatzik:Akha-Miao**\n**hh:ew:Dauffes:Kos**\n**hh:ew:Roux:Deux-Phongsaly**\n**hh:g:Dai:Taiguo-Aka**\n**hh:g:Dellinger:Akha**\n**hh:h:Gaide:Chine-Meridionale**\n**hh:h:Kato:Suma-Mlabri**\n**hh:hew:Lefevre-Pontalis:Nord-Indo-Chine**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hsoc:Shintanietal:Phongxaly**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:hvld:deLacouperie:China**\n**hh:hvw:Hansson:Akha-Hani-Khatu-Pijo**\n**hh:hw:Davies:Yun-Nan**\n**hh:ld:Drewry:Ngwi**\n**hh:phon:Dellinger:Akha**\n**hh:phon:Hayashi:Akha-Buli**\n**hh:phon:Hayashi:Akha-Chicho**\n**hh:phon:Katsura:Akha:1966**\n**hh:phon:Katsura:Akha:1970**\n**hh:phon:Katsura:Alu-Akha**\n**hh:phon:Nishida:Akha**\n**hh:phon:Panadda:Akha**\n**hh:s:Antisdel:Lahoo**\n**hh:s:Hansson:Akha**\n**hh:s:Hansson:Akha:2017**\n**hh:s:Katsura:Akha**\n**hh:typ:Nishida:Akha**\n**hh:typ:Rice:Golden-Triangle**\n**hh:vld:Hansson:Akhe-Pahi-Akha**\n**hh:w:Bradley:Hill-Tribes**\n**hh:w:Brun:Akha**\n**hh:w:Kato:Tibeto-Burman-Lao**\n**hh:w:KingsadaSawada:Ko-Phuso**\n**hh:w:KingsadaShintani:Ko-Puli**\n**hh:w:ShintaniSawada:Ko-Oma**\n**sil16:37937**"
+  },
+  "altnames": {
+    "wals": "\nAkha",
+    "ruhlen (1987)": "\nAkha",
+    "moseley & asher (1994)": "\nAkha",
+    "multitree": "\nAhka\nAini\nAk'a\nAka\nAkha\nAko\nAsong\nEkaw\nHka Ko\nIkaw\nIkor\nKaw\nKha Ko\nKhako\nKhao Kha Ko\nKhao Khao Ikor\nKo\nYani",
+    "lexvo": "\nAkha [en]\nAkha language [en]\nBahasa Akha [ms]",
+    "hhbib_lgcode": "\nA-Khas\nA-k'a from the Shan state of Keng Tung\nAkha Buli\nAkha Chicho\nAkha in Thailand\nAkha not Honi\nAkha or Kaw\nAkha-Buli\nAkhas\nAlu\nAlu Akha\nJeu G'oe (Puli) in C and CE Kengtung\nKhas Kho\nKhas Kôs\nKhas Ou-Nhi\nKhas-Kho\nKhongsat (Hanoish-Bisoid?) Suma\nKo-Eupa\nKo-Luma\nKo-Nyaü\nKo-Oma\nKo-Pala\nKo-Phuso\nKo-Puli\nKos de Muong-Sing\nPahi Akha\nSuma"
+  },
+  "triggers": {
+    "lgcode": "\npuli\nakha\namphur\ngrain\nlahoo\nahka\nhinterindien\njai\nangewandten\nmeau"
+  },
+  "identifier": {
+    "wals": "akh",
+    "multitree": "ahk;akha"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Akha (ahk-ahk) = 5 (Developing). Language of recognized nationality: Hani."
+  }
+}

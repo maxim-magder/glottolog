@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Malacca-Batavia Portuguese Creole",
+    "hid": "mcm",
+    "level": "language",
+    "iso639-3": "mcm",
+    "latitude": "2.188087",
+    "longitude": "102.262059",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "name_comment": "The Portuguese-based creole varieties of Malacca (Malaysia) and Batavia (now Jakarta, Indonesia) are so similar that they are treated as a single language in Glottolog.",
+    "links": "\n[Batavia Creole](https://apics-online.info/contributions/43)\n[Malacca Creole](https://wals.info/languoid/lect/wals_code_mlc)\n[Malaccan Creole Portuguese](https://endangeredlanguages.com/lang/1459)\n[Papiá Kristang](https://apics-online.info/contributions/42)\nhttps://en.wikipedia.org/wiki/Malacca%E2%80%93Batavia_Portuguese_Creole\nhttps://www.wikidata.org/entity/Q60244678"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4276**\n**cldf:baxter:05**\n**cldf:baxter:desilva:04**\n**cldf:baxter:desilvia:04**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hancock:75**\n**cldf:lewis:ed:09**\n**cldf:marbeck:95**\n**cldf:np:nd:264**\n**cldf:philippe:11**\n**cldf:pillai:11**\n**hh:d:Baxter:Kristang**\n**hh:d:ScullyZuzarte:Kristang**\n**hh:g:Baxter:Kristang**\n**hh:g:Maurer:Batavia-Tugu**\n**hh:h:Baxter:Creole-Portuguese**\n**hh:s:Baxter:Papia-Kristang**\n**hh:s:Hancock:Malacca**\n**hh:s:Maurer:Batavia-Tugu**\n**hh:s:Schuchardt:Malaioportugiesische**\n**mpieva:Schuchardt1890Ueberdas**"
+  },
+  "altnames": {
+    "glottolog": "\nMalaccan Creole Portuguese",
+    "wals": "\nMalacca Creole",
+    "wals other": "\nKristang\nPapia Kristang",
+    "moseley & asher (1994)": "\nMalacca Creole",
+    "multitree": "\nBahasa Geragau\nBahasa Serani\nKristang\nMalaccan\nMalaccan Creole Portuguese\nMalaqueiro\nMalaquenho\nMalaquense\nMalaquês\nMalayo-Portuguese\nMalaysian Creole Portuguese\nMoluccas Pidgin\nPapia Kristang\nPapia kristang\nPortuguese Patois\nPortuguês de Malaca\nSerani",
+    "lexvo": "\nKristang [no]\nKristang language [en]\nLíngua cristã [pt]\nMalaccan Creole Portuguese [en]\nМалайско-португальский креольский язык [ru]",
+    "hhbib_lgcode": "\nMalaccan Creole Portuguese\nPC of Batavia and Tugu",
+    "elcat": "\nBahasa Geragau\nBahasa Serani\nKristang\nMalaccan\nMalaccan Creole Portuguese\nMalaqueiro\nMalaquenho\nMalaquense\nMalaquês\nMalayo-Portuguese\nMalaysian Creole Portuguese\nMoluccas Pidgin\nPapia Kristang\nPortuguese Patois\nPortuguês de Malaca\nSerani"
+  },
+  "triggers": {
+    "lgcode": "\nkristang\ntugu"
+  },
+  "identifier": {
+    "wals": "mlc",
+    "multitree": "mcm",
+    "endangeredlanguages": "1459"
+  },
+  "classification": {
+    "sub": "**hh:s:Baxter:Bidau** **hh:hvld:Clements:Portuguese**:489-495",
+    "subrefs": "\n**hh:s:Baxter:Bidau**\n**hh:hvld:Clements:Portuguese**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Malaccan Creole Portuguese (1459-mcm) = Endangered (80 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

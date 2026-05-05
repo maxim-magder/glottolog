@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Southern Ghale",
+    "hid": "ghe",
+    "level": "language",
+    "iso639-3": "ghe",
+    "latitude": "28.106",
+    "longitude": "84.8511",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Southern Ghale](https://endangeredlanguages.com/lang/5634)\n[Southern Ghale](https://grambank.clld.org/languages/sout2715)\nhttps://www.wikidata.org/entity/Q12952453"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:paudel:10**\n**cldf:team:09**\n**hh:hvw:Webster:North-Gorkha**\n**hh:s:Paudel:Ghale**\n**hh:vld:Yoshio:Ghale**\n**hh:w:Nishi:Ghale**"
+  },
+  "altnames": {
+    "multitree": "\nGalle Gurung\nGhale\nGhale, Southern\nGhale,Southern\nGurung",
+    "lexvo": "\nSouthern Ghale [en]",
+    "hhbib_lgcode": "\nBarpak Ghale\nGhale-Southern\nGumda Ghale closest to Ghale-Southern\nKeura\nKeura Ghale\nKýaura\nSGB Southern Ghale Barpak Barpak Gorkha\nSGK Southern Ghale Kyaura Saurpani Gorkha\nSGL Southern Ghale Laprak Laprak Gorkha",
+    "elcat": "\nGalle Gurung\nGhale\nGurung\nLila Ke\nRil-Lila\nSouthern\nSouthern Ghale"
+  },
+  "identifier": {
+    "multitree": "ghe",
+    "endangeredlanguages": "5634"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Webster:North-Gorkha**:10-12",
+    "subrefs": "\n**hh:hvw:Webster:North-Gorkha**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Ghale (5634-ghe) = Vulnerable (100 percent certain, based on the evidence available) (All Ghale speakers are bilingual in Nepali, and code-switch between Ghale and Nepali on a daily basis.) [Paudel 2010](cldf:paudel:10)"
+  }
+}

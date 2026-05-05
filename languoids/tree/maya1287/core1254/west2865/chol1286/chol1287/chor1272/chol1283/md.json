@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Cholti",
+    "hid": "NOCODE_Cholti",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT"
+    ],
+    "longitude": "-89.0",
+    "latitude": "15.5",
+    "links": "\nhttps://www.wikidata.org/entity/Q873995\nhttps://en.wikipedia.org/wiki/Ch%CA%BColti%CA%BC_language",
+    "timespan": "1625-01-01/1695-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvs:Becquey:Cholanes**\n**hh:hvs:Storniolo:ECholan**\n**hh:s:Sattler:Cholti**\n**hh:sd:Gates:Cholti**"
+  },
+  "triggers": {
+    "lgcode": "\nmoran"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Cholti (NOCODE_Cholti-NOCODE_Cholti) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCholti'"
+  }
+}

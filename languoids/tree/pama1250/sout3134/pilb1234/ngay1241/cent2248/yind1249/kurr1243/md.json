@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kurrama",
+    "hid": "vku",
+    "level": "language",
+    "iso639-3": "vku",
+    "latitude": "-22.2134",
+    "longitude": "117.51",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Kurrama](https://collection.aiatsis.gov.au/austlang/language/w36)\n[Kurrama](https://endangeredlanguages.com/lang/3396)\n[Kurrama](https://grambank.clld.org/languages/kurr1243)\n[Kurrama](https://lexibank.clld.org/languages/bowernpny-Kurrama)\nhttps://en.wikipedia.org/wiki/Kurrama_language\nhttps://phoible.org/languages/kurr1243\nhttps://www.wikidata.org/entity/Q3915684"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:centre:09:10**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Burgman:Kurrama**\n**hh:g:Hill:Kurrama**\n**hh:h:Brandenstein:Pilbara**\n**hh:hv:Dench:Pilbara:Pronoun**\n**hh:sd:WMPALC:Kurrama**\n**ozbib:1056**\n**ozbib:1446**\n**ozbib:1454**\n**ozbib:2316**\n**ozbib:3790**\n**ozbib:4173**\n**ozbib:4529**\n**ozbib:5628**"
+  },
+  "altnames": {
+    "lexvo": "\nKurrama [en]\nKurrama language [en]\nLenga kurrama [pms]",
+    "hhbib_lgcode": "\nKurama",
+    "elcat": "\nGurama\nJana:ri\nJawunmara\nKarama\nKarima\nKarlamay\nKerama\nKorama\nKurama\nKurama-Jindjibandi\nKurrama",
+    "aiatsis": "\nGurama\nGurrama\nJana:ri\nJanari\nJardira\nJawunmara\nKarama\nKarima\nKerama\nKorama\nKorima\nKurama\nKurrama\nMarntartka\nMijarranypa\nNgamangamara\nOther Australian Indigenous Languages\nYarnarri\nYinyjiwarnti Kurrama"
+  },
+  "triggers": {
+    "lgcode": "\nkurrama"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "identifier": {
+    "endangeredlanguages": "3396"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kurrama (3396-vku) = Critically Endangered (20 percent certain, based on the evidence available) [Centre 2009](cldf:centre:09:10)"
+  }
+}

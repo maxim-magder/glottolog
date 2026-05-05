@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Aimaq",
+    "hid": "aiq",
+    "level": "language",
+    "iso639-3": "aiq",
+    "latitude": "35.283",
+    "longitude": "59.1756",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "IR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q27898\nhttps://en.wikipedia.org/wiki/Aimaq_dialect"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Ferdinand:Chahar-Aimaq**\n**hh:e:Gafferberg:Dzhemshidov**\n**hh:e:Janata:Aymaq**\n**hh:e:Janata:Ghor**\n**hh:e:Kuhn:Chakhcharan**\n**hh:h:Efimov:Car-Ajmakov**\n**hh:hld:RogovaRomanova:Iranskie**"
+  },
+  "altnames": {
+    "multitree": "\nAimaq\nBarbari\nBerberi\nChahar-Aimaq\nChar Aimaq",
+    "lexvo": "\nAimakeg [br]\nAimaq [en]\nAimaq dialect [en]\nAimaq jezik [hr]\nAímagíska [is]\nภาษาอายมัก [th]",
+    "hhbib_lgcode": "\nChahar Aimaq\nČar-Aimakov gruppa\nČar-Ajmakov"
+  },
+  "triggers": {
+    "lgcode": "\naimaq\nrayona\nkuskinskogo\nchakhcharan\naymaq\ndsidov"
+  },
+  "identifier": {
+    "multitree": "aiq"
+  },
+  "classification": {
+    "sub": "**hh:h:Kieffer:Afghanistan**",
+    "subrefs": "\n**hh:h:Kieffer:Afghanistan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aimaq (aiq-aiq) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Hrangkhol",
+    "hid": "hra",
+    "level": "language",
+    "iso639-3": "hra",
+    "latitude": "24.4559",
+    "longitude": "93.351",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5923435\nhttps://en.wikipedia.org/wiki/Hrangkhol_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Goswami:Bongs**\n**hh:ew:Hrangkhawl:Hrangkhawls**\n**hh:g:Debbarma:Hrangkhawl**\n**hh:htyp:Haokip:Barak**\n**hh:hvphon:Haokip:Barak**\n**hh:hvw:Grierson:3:III**\n**hh:phon:Patgiri:Hrangkhol**\n**hh:s:Soppitt:RangkholLushai**\n**hh:t:Haokip:Barak-Texts**\n**hh:typ:Longmailai:Hrangkhol**\n**hh:w:Hodson:Language**"
+  },
+  "altnames": {
+    "multitree": "\nHrangchol\nHrangkhol\nRancol\nRangkhol\nRāngkhōl",
+    "lexvo": "\nHrangkhol [en]",
+    "hhbib_lgcode": "\nBong\nHrangkhawl\nHrangkhawls\nKarbong\nKorbong\nRangkhol"
+  },
+  "triggers": {
+    "lgcode": "\nsylhet\nrangkhol"
+  },
+  "identifier": {
+    "multitree": "hra"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin** **hh:g:DuttaBaruahBapui:Hmar**:3 **hh:hvphon:Haokip:Barak** **hh:hv:Rufenacht:Northwestern**:39-40",
+    "subrefs": "\n**hh:hv:Rufenacht:Northwestern**\n**hh:hvphon:Haokip:Barak**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:g:DuttaBaruahBapui:Hmar**\n**hh:hv:Peterson:Kuki-Chin:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Hrangkhol (1189-hra) = Vulnerable"
+  }
+}

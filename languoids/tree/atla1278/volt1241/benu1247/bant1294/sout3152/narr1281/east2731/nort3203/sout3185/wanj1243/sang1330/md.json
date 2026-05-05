@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sangu (Tanzania)",
+    "hid": "sbp",
+    "level": "language",
+    "iso639-3": "sbp",
+    "latitude": "-8.4",
+    "longitude": "33.9",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Sangu (Tanzania)](https://grambank.clld.org/languages/sang1330)\nhttps://en.wikipedia.org/wiki/Sangu_language_(Tanzania)\nhttps://www.wikidata.org/entity/Q7418149"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:heese:13**\n**eballiso2009:10352**\n**eballiso2009:11869**\n**eballiso2009:17169**\n**eballiso2009:1837**\n**eballiso2009:23532**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:29814**\n**eballiso2009:32534**\n**eballiso2009:33180**\n**eballiso2009:37408**\n**eballiso2009:37927**\n**eballiso2009:39525**\n**eballiso2009:39526**\n**eballiso2009:39527**\n**eballiso2009:3963**\n**eballiso2009:3964**\n**eballiso2009:42433**\n**eballiso2009:47698**\n**eballiso2009:47704**\n**eballiso2009:47824**\n**eballiso2009:49256**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**eballiso2009:7321**\n**hh:e:Heese:Sango**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Fulleborn:Njassa-Ruwuma**\n**hh:he:Mumford:Hehe-Bena-Sangu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mdemu:Hehe-Bena-Pangwa**\n**hh:hv:Meinhof:Lautlehre-Bantusprachen**\n**hh:hv:Nurse:SWTanzania**\n**hh:phont:Bilodeau:Sangu**\n**hh:s:Bechon:Sangu**\n**hh:s:Heese:Sango**\n**hh:typ:Kaajan:Sangu**"
+  },
+  "altnames": {
+    "multitree": "\nEshisango\nKisangu\nRori\nSango\nSangu",
+    "lexvo": "\nSangu (Tanzania) [en]\nSangu [en]",
+    "hhbib_lgcode": "\nG61_Sangu\nSango\nSangu"
+  },
+  "triggers": {
+    "lgcode": "\nsangu\nusangu\nshisango"
+  },
+  "identifier": {
+    "multitree": "sbp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:SWTanzania**:92",
+    "subrefs": "\n**hh:hv:Nurse:SWTanzania**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sangu (sbp-sbp) = 6b (Threatened)."
+  }
+}

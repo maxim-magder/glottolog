@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Lowland Oaxaca Chontal",
+    "hid": "clo",
+    "level": "language",
+    "iso639-3": "clo",
+    "latitude": "15.9497",
+    "longitude": "-95.6876",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chontal (Huamelultec Oaxaca)](https://wals.info/languoid/lect/wals_code_chx)\n[Lowland Chontal](https://endangeredlanguages.com/lang/1441)\n[Lowland Oaxaca Chontal](https://grambank.clld.org/languages/lowl1260)\nhttps://en.wikipedia.org/wiki/Huamelultec_language\nhttps://www.wikidata.org/entity/Q2964450"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:oconnor:00**\n**cldf:oconnor:05**\n**cldf:sprachen:nd**\n**cldf:turner:71**\n**cldf:turner:turner:71**\n**cldf:waterhouse:49:2**\n**hh:d:OConnor:Lowland-Chontal**\n**hh:e:Madsen:Nahua**\n**hh:e:Olmsted:Tequistlatec**\n**hh:g:OConnor:Chontal**\n**hh:g:OConnor:Lowland-Chontal**\n**hh:hv:Waterhouse:ChontalHokan**\n**hh:phon:Maddieson:Oaxaca-Chontal**\n**hh:s:OConnor:Chontal**\n**hh:s:OConnor:Huamelula-Chontal**\n**hh:s:Waterhouse:Chontal**\n**hh:s:Waterhouse:Huamelultec**\n**hh:s:Waterhouse:Oaxaca-Chontal**\n**sil16:12017**\n**sil16:12636**\n**sil16:12637**\n**sil16:12640**\n**sil16:12641**\n**sil16:12644**\n**sil16:12645**\n**sil16:12648**\n**sil16:12650**\n**sil16:12651**\n**sil16:16751**\n**sil16:19025**\n**sil16:19026**"
+  },
+  "altnames": {
+    "wals": "\nChontal (Huamelultec Oaxaca)",
+    "wals other": "\nHuamelultec Oaxaca Chontal\nOaxaca Chontal",
+    "ruhlen (1987)": "\nChontal",
+    "moseley & asher (1994)": "\nChontal",
+    "multitree": "\nChontal\nChontal (Huamelultec Oaxaca)\nChontal de Oaxaca (Costa)\nChontal de la Costa de Oaxaca\nChontal of Oaxaca\nChontal, Lowland Oaxaca\nCoastal Tequistlatec\nHuamelula Chontal\nHuamelultec\nHuamelulteco\nLowland Chontal\nLowland Oaxaca Chontal\nTluamelula",
+    "lexvo": "\nLowland Oaxaca Chontal [en]",
+    "elcat": "\nChontal\nChontal (Huamelultec Oaxaca)\nChontal de Oaxaca (Costa)\nChontal de la Costa de Oaxaca\nCoastal Tequistlatec\nHuamelula Chontal\nHuamelultec\nHuamelulteco\nLowland Chontal\nLowland Oaxaca Chontal\nTluamelula"
+  },
+  "triggers": {
+    "lgcode": "\ntlaquistlateco\nNOT and AND NOT hokan AND oaxaca AND chontal\nhuamelultec\ntojmeme\nlatyaygi\nlajltyaygi"
+  },
+  "identifier": {
+    "wals": "chx",
+    "multitree": "clo",
+    "endangeredlanguages": "1441"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Lowland Chontal (1441-clo) = Severely Endangered (60 percent certain, based on the evidence available) [Sprachen n.d.](cldf:sprachen:nd)"
+  },
+  "classification": {
+    "sub": "**hh:phon:Maddieson:Oaxaca-Chontal**:70",
+    "subrefs": "\n**hh:phon:Maddieson:Oaxaca-Chontal**"
+  }
+}

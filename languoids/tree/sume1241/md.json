@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sumerian",
+    "hid": "sux",
+    "level": "language",
+    "iso639-3": "sux",
+    "latitude": "31.3",
+    "longitude": "45.6667",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ"
+    ],
+    "links": "\n[Sumerian](https://grambank.clld.org/languages/sume1241)\n[Sumerian](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Sumerian)\nhttps://en.wikipedia.org/wiki/Sumerian_language\nhttps://www.wikidata.org/entity/Q36790",
+    "timespan": "-3100-01-01/-3100-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:goldammer:66**\n**hh:d:Cohen:Sumerian**\n**hh:d:Delitzsch:Sumerisches**\n**hh:g:Edzard:Sumerian**\n**hh:g:Foxvog:Sumerian**\n**hh:g:Jagersma:Sumerian**\n**hh:g:Thomsen:Sumerian**\n**hh:g:Zolyomi:Sumerian**\n**hh:s:Bertin:Cuneiform**\n**hh:s:Delitzsch:Sumerische**\n**hh:s:Dyakonov:Sumerskij**\n**hh:s:Falkenstein:Sumerische**\n**hh:s:Hayes:Sumerian**\n**hh:s:Michalowski:Sumerian**\n**hh:s:Michalowski:Sumerian:2004**\n**hh:st:Langdon:Sumerian**\n**hh:typ:Black:Sumerian**\n**hh:typ:Woods:Sumerian**\n**hh:typ:Zolyomi:Sumerian**\n**mpieva:Attinger1993Elements**\n**mpieva:Schretter1990EmesalSt**\n**mpieva:Streck2005Sprachen**"
+  },
+  "altnames": {
+    "lexvo": "\nBahasa Sumeria [id]\nIdioma sumerio [es]\nJęzyk sumeryjski [pl]\nLimba sumeriană [ro]\nLingua Sumerica [la]\nLingua sumera [it]\nLingua sumeria [gl]\nLíngua suméria [pt]\nSoemerisch [li]\nSumearysk [fy]\nSumer nyelv [hu]\nSumera lingvo [eo]\nSumereg [br]\nSumeri [ca]\nSumeri keel [et]\nSumerian [en]\nSumerian language [en]\nSumerisch [nl]\nSumerische Sprache [de]\nSumerisk [da]\nSumerisk språk [nn]\nSumeriska [sv]\nSumerski jezik [sh]\nSumerčina [sk]\nSumerština [cs]\nSumérien [fr]\nSümerce [tr]\nsumérien [fr]\nŠumerų kalba [lt]\nΣουμεριακή γλώσσα [el]\nШумер [ky]\nШумер тілі [kk]\nШумер чĕлхи [cv]\nШумерский язык [ru]\nزبان سومری [fa]\nசுமேரிய மொழி [ta]\nภาษาสุเมเรีย [th]\nშუმერული ენა [ka]\nシュメール語 [ja]\n苏美尔语 [zh]\n수메르어 [ko]",
+    "hhbib_lgcode": "\nSumero-Akkadian\nŠumerskij"
+  },
+  "triggers": {
+    "lgcode": "\nNOT and AND sumerian\ncuneiform\nsumerian\nsumerische\norients\nsumerischen\nsumerienne\nabridged"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:g:Edzard:Sumerian**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Sumerian, an extinct ancient language isolate whose existence is well-known, but not found in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:g:Edzard:Sumerian**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "sux"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Sumerian (sux-sux) = 10 (Extinct)."
+  }
+}

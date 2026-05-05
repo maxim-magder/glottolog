@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mor (Mor Islands)",
+    "hid": "mhz",
+    "level": "language",
+    "iso639-3": "mhz",
+    "latitude": "-2.87055",
+    "longitude": "135.95",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mor](https://lexibank.clld.org/languages/abvdoceanic-Mor)\n[Mor](https://wals.info/languoid/lect/wals_code_mor)\n[Mor (Mor Islands)](https://grambank.clld.org/languages/morm1235)\n[Mor (Mor Islands, Indonesia)](https://endangeredlanguages.com/lang/1460)\nhttps://en.wikipedia.org/wiki/Mor_language_(Austronesian)\nhttps://www.wikidata.org/entity/Q2122792"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:kamholz:09**\n**cldf:kamholz:10**\n**cldf:kamholz:11**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Flassy:Napan**\n**hh:e:deClercq:Mor**\n**hh:h:Sugono:Indonesia**\n**hh:hlde:deClercq:WNNNG**\n**hh:hvw:Anceaux:Yapen**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Fabritius:NNG**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:ld:Iribaram:Mor**\n**hh:phon:Sidabutar:Moor**\n**hh:s:Laycock:Mor**\n**hh:typ:Aru:Moor**\n**hh:typ:Rorey:Moor**\n**hh:typ:Sahertian:Moor**"
+  },
+  "altnames": {
+    "wals": "\nMor",
+    "ruhlen (1987)": "\nMor",
+    "moseley & asher (1994)": "\nMor",
+    "multitree": "\nAustronesian Mor\nMor",
+    "lexvo": "\nMor (Mor Islands) [en]\nMor [en]",
+    "hhbib_lgcode": "\nArui Mor\nMoor\nMor\nMor (Ac)\nMôr\nNapan Weinami",
+    "elcat": "\nAustronesian Mor\nMor (Mor Islands, Indonesia)"
+  },
+  "triggers": {
+    "lgcode": "\nmoor\nmatine"
+  },
+  "identifier": {
+    "wals": "mor",
+    "multitree": "mhz",
+    "endangeredlanguages": "1460"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**:136-137",
+    "subrefs": "\n**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mor (Mor Islands, Indonesia) (1460-mhz) = Threatened (20 percent certain, based on the evidence available) [Kamholz 2010](cldf:kamholz:10)"
+  }
+}

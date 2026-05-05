@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Marovo",
+    "hid": "mvo",
+    "level": "language",
+    "iso639-3": "mvo",
+    "latitude": "-8.37943",
+    "longitude": "157.747",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Marovo](https://grambank.clld.org/languages/maro1244)\n[Marovo](https://lexibank.clld.org/languages/abvdoceanic-Marovo)\nhttps://en.wikipedia.org/wiki/Marovo_language\nhttps://www.wikidata.org/entity/Q3294683"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bayliss-smith:hviding:etal:03**\n**cldf:bellwood:95**\n**cldf:calculator:14**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:hviding:96**\n**cldf:np:14:5**\n**cldf:somerville:97**\n**hh:hvw:Capell:Choiseul**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Grace:46**\n**hh:ld:Ray:New-Georgia**\n**hh:ld:Somerville:New-Georgia**\n**hh:typ:Evans:Marovo:3PPL**\n**hh:typ:Evans:Marovo:Subject-Agreement**"
+  },
+  "altnames": {
+    "multitree": "\nMarovo\nSolomon Islands",
+    "lexvo": "\nMarovo [cy]\nMarovo language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nmarovo"
+  },
+  "identifier": {
+    "multitree": "mvo"
+  },
+  "classification": {
+    "sub": "**hh:hv:DunnRoss:Kazukuru**:216",
+    "subrefs": "\n**hh:hv:DunnRoss:Kazukuru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marovo (mvo-mvo) = 5* (Developing)."
+  }
+}

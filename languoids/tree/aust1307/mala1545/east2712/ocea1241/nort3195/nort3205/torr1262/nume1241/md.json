@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nume",
+    "hid": "tgs",
+    "level": "language",
+    "iso639-3": "tgs",
+    "latitude": "-14.230149",
+    "longitude": "167.593474",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Nume](https://endangeredlanguages.com/lang/10824)\n[Nume](https://lexibank.clld.org/languages/abvdoceanic-Nume)\nhttps://en.wikipedia.org/wiki/Nume_language\nhttps://www.wikidata.org/entity/Q3346290"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3933**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Gog**"
+  },
+  "altnames": {
+    "multitree": "\nBanks-Inseln\nGaua\nNume\nTarasag",
+    "lexvo": "\nNume [en]",
+    "hhbib_lgcode": "\nGog\nNume (Gog)",
+    "elcat": "\nNume\nTasarag"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "tgs",
+    "endangeredlanguages": "10824"
+  },
+  "classification": {
+    "sub": "**hh:hv:Francois:Ecology:NVanuatu**",
+    "subrefs": "\n**hh:hv:Francois:Ecology:NVanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nume (10824-tgs) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

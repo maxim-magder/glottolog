@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Belhariya",
+    "hid": "byw",
+    "level": "language",
+    "iso639-3": "byw",
+    "latitude": "26.9972",
+    "longitude": "87.2783",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Belhare](https://wals.info/languoid/lect/wals_code_bel)\n[Belhariya](https://endangeredlanguages.com/lang/1580)\n[Belhariya](https://grambank.clld.org/languages/belh1239)\nhttps://en.wikipedia.org/wiki/Belhare_language\nhttps://phoible.org/languages/belh1239\nhttps://www.wikidata.org/entity/Q32961"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1021**\n**cldf:bickel:00:1**\n**cldf:bickel:01**\n**cldf:bickel:03:1**\n**cldf:bickel:04**\n**cldf:bickel:97:2**\n**cldf:bickel:99:2**\n**cldf:bickel:nd**\n**cldf:bickel:nichols:07**\n**cldf:bickel:rai:etal:66**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:s:Bickel:Belhare**\n**hh:s:Bickel:Belhare:2017**\n**hh:typ:Bickel:Belhare**\n**hh:wsoc:Regmi:Belhare**\n**langsci:bickel:01**\n**mpieva:1997Assynopt**\n**mpieva:268**\n**sil16:40620**\n**sil16:41773**"
+  },
+  "altnames": {
+    "wals": "\nBelhare",
+    "multitree": "\nAthpagari\nAthpahariya\nAthpare\nAthpariya\nBelhare\nBelhariya\nBelhariye",
+    "lexvo": "\nBelhare [gv]\nBelhare language [en]\nBelhariya [en]\nภาษาเบลฮาเร [th]",
+    "elcat": "\nAthpagari\nAthpahariya\nAthpare\nAthpariya\nBelhare\nBelhariya\nBelhariye",
+    "hhbib_lgcode": "\nBelhara\nGuthitar\nPiple\nRudrabari"
+  },
+  "triggers": {
+    "lgcode": "\nbelhare"
+  },
+  "identifier": {
+    "wals": "bel",
+    "multitree": "byw",
+    "endangeredlanguages": "1580"
+  },
+  "classification": {
+    "sub": "**hh:typ:Bickel:Belhare**:21",
+    "subrefs": "\n**hh:typ:Bickel:Belhare**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Belhariya (1580-byw) = Severely Endangered (40 percent certain, based on the evidence available) (Number of speakers small and fast declining for all dialects.) [van Driem 2007](cldf:driem:07)"
+  }
+}

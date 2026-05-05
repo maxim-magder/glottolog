@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Lepcha",
+    "hid": "lep",
+    "level": "language",
+    "iso639-3": "lep",
+    "latitude": "27.0869",
+    "longitude": "88.5726",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Lepcha](https://endangeredlanguages.com/lang/4495)\n[Lepcha](https://grambank.clld.org/languages/lepc1244)\n[Lepcha](https://wals.info/languoid/lect/wals_code_lep)\nhttps://en.wikipedia.org/wiki/Lepcha_language\nhttps://phoible.org/languages/lepc1244\nhttps://www.wikidata.org/entity/Q35990"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDriem:Himalayas**",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonymous:09**\n**cldf:anonymous:96:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:das:banerjee:62**\n**cldf:ed:10**\n**cldf:gorer:38**\n**cldf:mainwaring:71**\n**cldf:morris:38**\n**cldf:np:01:1**\n**cldf:np:nd:264**\n**cldf:plaisier:03**\n**cldf:thurgood:r:ed:03:4**\n**cldf:vandriem:07:2**\n**hh:d:Mainwaring:Lepcha**\n**hh:d:Shipme:Lepcha**\n**hh:d:Tamsang:Lepcha**\n**hh:e:Chattopadhyay:Lepchas**\n**hh:g:Mainwaring:Rong**\n**hh:g:Plaisier:Lepcha**\n**hh:g:Plaisier:Lepcha:2006**\n**hh:g:Sinha:Lepcha**\n**hh:g:Tamsang:Lepcha**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Beames:Indian**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Sun:Tani**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Hunter:High-Asia**\n**hh:lde:Gorer:Lepchas**\n**hh:phon:Nishida:Repucha**\n**hh:s:Baskaran:Lepcha**\n**hh:s:Plaisir:Lepcha**\n**hh:s:Plaisir:Lepcha:2017**\n**hh:v:Bodman:Lepcha**\n**hh:v:Schott:Leptscha**\n**hh:w:Campbell:India**\n**mpieva:Mainwaring1971Agrammar**\n**mpieva:Mainwaring1979Dictiona**"
+  },
+  "altnames": {
+    "wals": "\nLepcha",
+    "wals other": "\nRong",
+    "ruhlen (1987)": "\nLepcha",
+    "moseley & asher (1994)": "\nLepcha",
+    "multitree": "\nLapcha\nLapche\nLepcha\nLepoha\nLeptśa\nNümpa\nNünpa\nRong\nRongke\nRongpa\nRóng",
+    "lexvo": "\nJęzyk lepcza [pl]\nLepcha [cy]\nLepcha language [en]\nLepchaish [gv]\nLingua Lepcha [la]\nЛепча [ru]\nภาษาเลปชา [th]\nレプチャ語 [ja]",
+    "elcat": "\nLapcha\nLapche\nLepcha\nLepoha\nLeptśa\nNümpa\nNünpa\nRong\nRongke\nRongpa\nRóng",
+    "hhbib_lgcode": "\nLepcha (Sikkim)\nLeptscha"
+  },
+  "triggers": {
+    "lgcode": "\nlepcha"
+  },
+  "identifier": {
+    "wals": "genus/lepcha",
+    "multitree": "lep;lepc",
+    "endangeredlanguages": "4495"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lepcha (4495-lep) = Severely Endangered (100 percent certain, based on the evidence available) (\"Despite spirited attempts to preserve the language, Lepcha has already effectively been lost everywhere in favour of Nepali. There are very few remaining households where the younger generation actively speaks the language, and these households are few and far between.\" (pg. 296)) [Driem 2007](cldf:driem:07)"
+  }
+}

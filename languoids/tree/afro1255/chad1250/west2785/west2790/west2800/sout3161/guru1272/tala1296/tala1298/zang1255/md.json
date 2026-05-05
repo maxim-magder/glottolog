@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Zangwal",
+    "hid": "zah",
+    "level": "language",
+    "iso639-3": "zah",
+    "latitude": "10.2284",
+    "longitude": "9.74694",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Zangwal](https://endangeredlanguages.com/lang/3146)\nhttps://www.wikidata.org/entity/Q3441387\nhttps://en.wikipedia.org/wiki/Zangwal_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Temple:NNigeria**\n**hh:hvw:Shimizu:SBauchi**\n**hh:wsoc:Decker:South-Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nTwar\nZangwal\nZwangal",
+    "lexvo": "\nZangwal [en]",
+    "hhbib_lgcode": "\nSòòr\nZangwal of Zungur\nZaŋwal\nZungurawa",
+    "elcat": "\nTwar\nZangwal\nZwangal"
+  },
+  "identifier": {
+    "multitree": "zah",
+    "endangeredlanguages": "3146"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Decker:South-Bauchi**:27",
+    "subrefs": "\n**hh:wsoc:Decker:South-Bauchi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zangwal (3146-zah) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

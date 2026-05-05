@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Inland-Buhi-Daraga Bikol",
+    "hid": "bhk",
+    "level": "language",
+    "iso639-3": "bhk",
+    "latitude": "13.1989",
+    "longitude": "123.49",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Inland-Buhi-Daraga Bikol](https://grambank.clld.org/languages/alba1269)\nhttps://en.wikipedia.org/wiki/Albay_Bikol_language\nhttps://www.wikidata.org/entity/Q4709467"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Zorc:Bisayan**\n**hh:hwdial:McFarland:Bikol**\n**hh:s:Portugal:Buhi**\n**hh:styp:Fincke:Bikol**\n**hh:w:Yamada:Buhi-Bikol**\n**iso6393:2009-078**"
+  },
+  "triggers": {
+    "lgcode": "\nbuhi\nsto\nthe AND bikol"
+  },
+  "iso_retirement": {
+    "comment": "The currently-existing \"Bicolano, Albay\" does not correspond to any of the\naccepted Bikol subgroupings, the most widely-recognized of which is McFarland\n(1974) which was also adopted by Zorc (1977). Jason Lobel, the supporter of this\nrequest, has also done extensive research on the languages of the Bikol region,\nand his findings largely support those of McFarland (1974) and likewise do not\nsupport a \"Bicolano Albay\" language that would include Buhi'non, Miraya, and\nBikol Libon. Such a language is also not supported by the identities of the\npeople of Albay province themselves. Therefore, it is requested that the\n\"Bicolano Albay\" entry be split into four entries, \"Bikol West Albay\", \"Bikol\nMiraya\", \"Bikol, Libon\", and \"Bikol Buhi'non\". (Note also that calling any of\nthese languages \"Bicolano\" or \"Bikolano\" is a mistake because \"Bikolano\" is the\nname of the ethnic group while \"Bikol\" is the name of the languages.)",
+    "code": "bhk",
+    "name": "Albay Bicolano",
+    "effective": "2010-01-18",
+    "reason": "split",
+    "remedy": "Split into Buhi'non Bikol [ubl]; Libon Bikol [lbl]; Miraya Bikol [rbl]; West Albay Bikol [fbl]",
+    "change_request": "2009-078",
+    "change_to": "\nubl\nlbl\nrbl\nfbl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan** **hh:hv:Blust:CPhilippines**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**\n**hh:hv:Blust:CPhilippines**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAlbay Bicolano\nBicolano-Albay\nBuhi\nDaraga\nLibon\nOas\nSanto Domingo Bikol"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E23",
+    "date": "2020-04-01T21:11:32",
+    "comment": "Albay Bicolano (rbl-bhk) = 6a* (Vigorous)."
+  }
+}

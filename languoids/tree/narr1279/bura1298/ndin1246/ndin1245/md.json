@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nding",
+    "hid": "eli",
+    "level": "language",
+    "iso639-3": "eli",
+    "latitude": "10.2741",
+    "longitude": "30.7306",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Nding](https://endangeredlanguages.com/lang/4123)\nhttps://www.wikidata.org/entity/Q36176\nhttps://en.wikipedia.org/wiki/Nding_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1282**\n**cldf:ed:10**\n**cldf:meinhof:16:5**\n**cldf:np:78:2**\n**cldf:np:nd:264**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hel:Sommer:Survey**\n**hh:hv:Bork:SKordofan**\n**hh:hvw:NortonAlaki:Talodi**\n**hh:hvw:Schadeberg:Talodi**\n**hh:hw:Seligmann:Nubas**\n**hh:s:Meinhof:Eliri**\n**hh:soc:Sudan:Eliri**"
+  },
+  "altnames": {
+    "multitree": "\nEliri\nNding",
+    "lexvo": "\nNding [en]",
+    "hhbib_lgcode": "\nEliri",
+    "elcat": "\nEliri\nNding"
+  },
+  "triggers": {
+    "lgcode": "\neliri"
+  },
+  "identifier": {
+    "multitree": "eli;ndin",
+    "endangeredlanguages": "4123"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonAlaki:Talodi** (interpreting the significance of the innovations differently)",
+    "subrefs": "\n**hh:hvw:NortonAlaki:Talodi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Nding (4123-eli) = Threatened (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

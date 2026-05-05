@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Beezen",
+    "hid": "bnz",
+    "level": "language",
+    "iso639-3": "bnz",
+    "latitude": "6.81552",
+    "longitude": "10.109",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Beezen](https://endangeredlanguages.com/lang/541)\nhttps://www.wikidata.org/entity/Q35083\nhttps://en.wikipedia.org/wiki/Beezen_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:ed:10**\n**hh:hv:Breton:Furu**\n**hh:hv:Breton:Furu:1993**\n**hh:typ:Kempf:Bezen**\n**hh:typ:Kempf:Bezen-Serialization**\n**hh:typ:Kempf:Bezen:2013**\n**hh:wsoc:AkumbuBrye:Akum**\n**hh:wsoc:Brye:Beezen**"
+  },
+  "altnames": {
+    "multitree": "\nBeezen",
+    "lexvo": "\nBeezen [en]",
+    "hhbib_lgcode": "\nBèèzèn",
+    "elcat": "\nBeezen\nBezen"
+  },
+  "triggers": {
+    "lgcode": "\nbezen\nbeezen"
+  },
+  "identifier": {
+    "multitree": "bnz",
+    "endangeredlanguages": "541"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:AkumbuBrye:Akum**",
+    "subrefs": "\n**hh:wsoc:AkumbuBrye:Akum**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Beezen (541-bnz) = Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

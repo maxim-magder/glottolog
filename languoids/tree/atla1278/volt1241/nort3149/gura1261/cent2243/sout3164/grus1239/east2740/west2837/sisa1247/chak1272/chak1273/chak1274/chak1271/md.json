@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Chakali",
+    "hid": "cli",
+    "level": "language",
+    "iso639-3": "cli",
+    "latitude": "9.83446",
+    "longitude": "-1.90181",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Chakali](https://endangeredlanguages.com/lang/4617)\n[Chakali](https://grambank.clld.org/languages/chak1271)\nhttps://en.wikipedia.org/wiki/Chakali_language\nhttps://www.wikidata.org/entity/Q35206"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brindle:06**\n**cldf:brindle:09**\n**cldf:lewis:ed:09**\n**cldf:tompkins:kluge:02**\n**eballiso2009:14418**\n**eballiso2009:29978**\n**eballiso2009:40723**\n**eballiso2009:8514**\n**hh:g:Brindle:Chakali**\n**hh:gd:Brindle:Chakali:2017**\n**hh:hvw:Bendor-Samuel:Grusi**\n**hh:hvw:Swadesh:Gur**\n**hh:soc:Klugeetal:Chakali**"
+  },
+  "altnames": {
+    "lexvo": "\nChakali [en]",
+    "elcat": "\nChakali"
+  },
+  "triggers": {
+    "lgcode": "\nchakali\ngrusi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manessy:Gurunsi** **hh:hb:Kleinewillinghofer:Gurunsi**",
+    "subrefs": "\n**hh:hv:Manessy:Gurunsi**\n**hh:hb:Kleinewillinghofer:Gurunsi**"
+  },
+  "identifier": {
+    "endangeredlanguages": "4617"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chakali (4617-cli) = Threatened (20 percent certain, based on the evidence available) [Tompkins and Kluge 2002](cldf:tompkins:kluge:02)"
+  }
+}

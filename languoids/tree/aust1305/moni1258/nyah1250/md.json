@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Nyahkur",
+    "hid": "cbn",
+    "level": "language",
+    "iso639-3": "cbn",
+    "latitude": "15.8909",
+    "longitude": "101.515",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TH"
+    ],
+    "links": "\n[Nyah Kur (Tha Pong)](https://wals.info/languoid/lect/wals_code_nkt)\n[Nyahkur](https://endangeredlanguages.com/lang/1235)\n[Nyahkur](https://grambank.clld.org/languages/nyah1250)\nhttps://en.wikipedia.org/wiki/Nyah_Kur_language\nhttps://phoible.org/languages/nyah1250\nhttps://www.wikidata.org/entity/Q116849"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1797**\n**asjp2010:3544**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:diffloth:84**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:shimmin:12**\n**cldf:thongkum:82**\n**hh:d:Thongkum:Nyah-Kur**\n**hh:e:Kerr:Lawa**\n**hh:e:Seidenfaden:Chaubun**\n**hh:ew:Petchabunburi:Lawa-Chaubun**\n**hh:ew:Seidenfaden:Chaubun**\n**hh:g:Memanas:Chaobon**\n**hh:hvs:Diffloth:Old-Mon-Nyah-Kur**\n**hh:phon:Chuasuwan:Nyah-Kur**\n**hh:phon:Phiukhou:Nyah-Kur**\n**hh:typ:Bunphan:Nyah-Kur**\n**hh:v:Diffloth:Nyah-Kur**\n**hh:v:Premsrirat:Nyah-Kur**\n**hh:v:Tran:Nyah-Kur**"
+  },
+  "altnames": {
+    "wals": "\nNyah Kur (Tha Pong)",
+    "wals other": "\nNyah Kur\nTha Pong dialect",
+    "ruhlen (1987)": "\nNyahkur",
+    "moseley & asher (1994)": "\nNyah Kur",
+    "multitree": "\n\"Chaobon\"\n\"Chaodon\"\nChaobon\nChaodon\nLawa\nNiakuol\nNiakuoll\nNyah Kur\nNyah Kur (Tha Pong)\nNyahkur\nNyakur\nÑahkur",
+    "lexvo": "\nNyahkur [en]",
+    "hhbib_lgcode": "\nChaobon\nChaubun\nNyah Kur",
+    "elcat": "\n\"Chaobon\"\n\"Chaodon\"\nChaobon\nChaodon\nLawa\nNiakuol\nNiakuoll\nNyah Kur\nNyah Kur (Tha Pong)\nNyahkur\nNyakur"
+  },
+  "triggers": {
+    "lgcode": "\nkorat\nnyah\nchaubun\nchaobon"
+  },
+  "identifier": {
+    "wals": "nkt",
+    "multitree": "cbn",
+    "endangeredlanguages": "1235"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jenny:Monic**",
+    "subrefs": "\n**hh:hv:Jenny:Monic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Nyahkur (1235-cbn) = Endangered (80 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

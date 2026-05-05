@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Emae",
+    "hid": "mmw",
+    "level": "language",
+    "iso639-3": "mmw",
+    "latitude": "-17.052",
+    "longitude": "168.399",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Emae](https://endangeredlanguages.com/lang/5511)\n[Emae](https://grambank.clld.org/languages/emae1237)\n[Emae](https://lexibank.clld.org/languages/abvdoceanic-Emae)\n[Emae_1030](https://lexibank.clld.org/languages/walworthpolynesian-Emae)\n[Mae](https://wals.info/languoid/lect/wals_code_mae)\nhttps://en.wikipedia.org/wiki/Emae_language\nhttps://www.wikidata.org/entity/Q3051961"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:744**\n**cldf:ed:10**\n**cldf:francois:14:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:gsoc:Dewar:Fakamae**\n**hh:hv:Clark:CVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Capell:Mae**"
+  },
+  "altnames": {
+    "multitree": "\nEmae\nEmai\nEmwae\nMae\nMai\nMwae",
+    "lexvo": "\nEmae [en]",
+    "hhbib_lgcode": "\nFakamae\nMae\nMakatea",
+    "elcat": "\nEmae\nEmai\nEmwae\nMae\nMai\nMakatea\nMwae"
+  },
+  "triggers": {
+    "lgcode": "\nemwae"
+  },
+  "identifier": {
+    "multitree": "mmw",
+    "endangeredlanguages": "5511"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian**:128-129",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Emae (5511-mmw) = Endangered (20 percent certain, based on the evidence available) [Francois 2014](cldf:francois:14:1)"
+  }
+}

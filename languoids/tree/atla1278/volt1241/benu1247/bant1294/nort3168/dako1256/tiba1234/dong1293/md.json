@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dong",
+    "hid": "doh",
+    "level": "language",
+    "iso639-3": "doh",
+    "latitude": "8.64119",
+    "longitude": "11.9924",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Dong](https://endangeredlanguages.com/lang/461)\nhttps://en.wikipedia.org/wiki/Dong_language_(Nigeria)\nhttps://www.wikidata.org/entity/Q3438405"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:06:9**\n**cldf:blench:dendo:06**\n**cldf:lewis:ed:09**\n**cldf:yaohong:guoqiao:98**\n**hh:e:Dong:Yoro**\n**hh:hv:Blench:NBantoid**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:vw:Blench:Dong**"
+  },
+  "altnames": {
+    "multitree": "\nDong\nDonga",
+    "lexvo": "\nDong [en]",
+    "elcat": "\nDong\nDonga\nDɔ",
+    "hhbib_lgcode": "\nDõ from Gambo ms./Blench ms."
+  },
+  "triggers": {
+    "lgcode": "\ndong AND nigeria"
+  },
+  "identifier": {
+    "multitree": "doh",
+    "endangeredlanguages": "461"
+  },
+  "classification": {
+    "sub": "**hh:vw:Blench:Dong**",
+    "subrefs": "\n**hh:vw:Blench:Dong**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dong (461-doh) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

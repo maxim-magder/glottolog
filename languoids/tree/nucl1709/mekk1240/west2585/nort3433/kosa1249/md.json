@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kosarek Yale",
+    "hid": "kkl",
+    "level": "language",
+    "iso639-3": "kkl",
+    "latitude": "-4.06603",
+    "longitude": "139.645",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kosarek Yale](https://grambank.clld.org/languages/kosa1249)\n[Yale (Kosarek)](https://wals.info/languoid/lect/wals_code_yal)\nhttps://en.wikipedia.org/wiki/Kosarek_language\nhttps://www.wikidata.org/entity/Q6432995"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:Heeschen:Mek:1992**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Heeschen:Mek:1978**\n**hh:hvw:Voorhoeve:Irian**\n**hh:s:Heeschen:Yale**\n**hh:sd:Heeschen:Yale**\n**sil16:34267**\n**sil16:34885**"
+  },
+  "altnames": {
+    "wals": "\nYale (Kosarek)",
+    "ruhlen (1987)": "\nKosarek",
+    "moseley & asher (1994)": "\nKosarek",
+    "multitree": "\nIn-lom\nKosarek\nWanam\nYale (Kosarek)\nYale, Kosarek\nYale-Kosarek",
+    "lexvo": "\nKosarek Yale [en]",
+    "hhbib_lgcode": "\nKosarek\nWanam\nWanam (Br)\nYale\nYale-Kosarek\nYaly\nYaly (Br)"
+  },
+  "triggers": {
+    "lgcode": "\nkosarek\nyupu"
+  },
+  "identifier": {
+    "wals": "yal",
+    "multitree": "kkl"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Heeschen:Mek:1978**:9 **hh:sd:Heeschen:Yale**:8",
+    "subrefs": "\n**hh:sd:Heeschen:Yale**\n**hh:hvw:Heeschen:Mek:1978**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yale, Kosarek (kkl-kkl) = 5* (Developing)."
+  }
+}

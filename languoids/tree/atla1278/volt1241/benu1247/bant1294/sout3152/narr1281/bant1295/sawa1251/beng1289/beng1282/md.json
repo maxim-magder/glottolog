@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Benga",
+    "hid": "bng",
+    "level": "language",
+    "iso639-3": "bng",
+    "latitude": "1.075766",
+    "longitude": "9.600739",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA",
+      "GQ"
+    ],
+    "links": "\n[Benga](https://endangeredlanguages.com/lang/588)\n[Benga](https://grambank.clld.org/languages/beng1282)\n[Benga](https://wals.info/languoid/lect/wals_code_bga)\nhttps://en.wikipedia.org/wiki/Benga_language\nhttps://www.wikidata.org/entity/Q34952"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:connell:07:1**\n**cldf:cos:91**\n**cldf:ed:10**\n**cldf:guthrie:71:1**\n**cldf:kingsley:00**\n**cldf:kingsley:97**\n**cldf:lewis:ed:09**\n**cldf:mackey:nassau:92**\n**cldf:ycos:91**\n**eballiso2009:19367**\n**eballiso2009:23678**\n**eballiso2009:25818**\n**eballiso2009:26576**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:34647**\n**eballiso2009:35086**\n**eballiso2009:41**\n**eballiso2009:41744**\n**eballiso2009:42298**\n**eballiso2009:4310**\n**eballiso2009:47607**\n**eballiso2009:6830**\n**hh:d:Good:Benga**\n**hh:g:MacKey:Benga**\n**hh:g:Salvado:Benga**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Meinhof:Benga-Dualla**\n**hh:hvw:Meinhof:Kamerun**\n**hh:s:Essono:Benga**\n**hh:s:Mackey:Benga**\n**hh:s:Perez:Benga**\n**hh:typ:Meinhof:Benga**\n**mpieva:Dakshi2000Aspectin**"
+  },
+  "altnames": {
+    "wals": "\nBenga",
+    "ruhlen (1987)": "\nBenga",
+    "moseley & asher (1994)": "\nBenga",
+    "multitree": "\nBenga",
+    "lexvo": "\nBenga [en]\nBenga language [en]",
+    "hhbib_lgcode": "\nA34_Benga\nBenga 1 Corisco A34\nBenga 2 Gabon A34\nBenga or Bi-enga\nBénga",
+    "elcat": "\nBenga\nQaqet"
+  },
+  "triggers": {
+    "lgcode": "\ncorisco\nbenga"
+  },
+  "identifier": {
+    "wals": "bga",
+    "multitree": "bng",
+    "endangeredlanguages": "588"
+  },
+  "classification": {
+    "sub": "**hh:hv:NursePhilippson:Bantu**:170 **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:he:Ardener:Coastal-Cameroons** Yasa-Kombe: **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:h:Guthrie:Bantu-Western**:26 **hh:soc:Belew:Iyasa**:33",
+    "subrefs": "\n**hh:hv:NursePhilippson:Bantu**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:h:Guthrie:Bantu-Western**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:soc:Belew:Iyasa**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Benga (588-bng) = Severely Endangered (60 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

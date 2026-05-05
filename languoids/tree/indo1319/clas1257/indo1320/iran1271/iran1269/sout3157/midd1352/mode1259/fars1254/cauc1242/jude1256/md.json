@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Judeo-Tat",
+    "hid": "jdt",
+    "level": "language",
+    "iso639-3": "jdt",
+    "latitude": "42.068306",
+    "longitude": "48.264749",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "IL",
+      "RU"
+    ],
+    "links": "\n[Judeo-Tat](https://endangeredlanguages.com/lang/3448)\nhttps://www.wikidata.org/entity/Q56495\nhttps://en.wikipedia.org/wiki/Judeo-Tat\nhttps://phoible.org/languages/jude1256"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:kaufman:16**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Agarunov:Tatsko**\n**hh:g:Authier:Judeo-Tat**\n**hh:g:Authier:Judeo-Tat:2010**\n**hh:h:Shapira:Judeo-Tat**\n**hh:hldsoc:Borjian:Judeo-Iranian**\n**hh:hvld:Borjian:Judeo-Median**\n**hh:s:Anisimov:Zuhun-Tati**\n**hh:s:Miller:Kubinskom-Tatskogo**\n**hh:soc:Cliftonetal:Tat-Jews**\n**hh:std:Miller:Yevreyskotatskogo**\n**hh:t:Agarunov:Gorskix-Jevrejev**\n**hh:typ:Miller:Evrejsko-Tatskago**\n**hh:typ:Miller:Yevreyskotatskogo**\n**hh:typ:Shapira:Juhuri**\n**sil16:45587**\n**sil16:45623**"
+  },
+  "altnames": {
+    "multitree": "\nBik\nDzhuhuric\nHebrew Tat\nJewish Tat\nJudeo-Tat\nJudeo-Tatic\nJudeo-tatí (Israel)\nJuhuri\nJuhuri (Caucase)\nJuhuri (Israël)\nJuwri",
+    "lexvo": "\nCuhuri [tr]\nDjouhourieg [br]\nJudeo-Tat [en]\nJuhuri [fr]\nJuhuri language [en]\nג'והורי [he]\nユダヤ・タート語 [ja]",
+    "elcat": "\nDağ yəhudiləri dili\nDzhuhuric\nHebrew Tat\nJewish Tat\nJudeo-Tat\nJudeo-Tatic\nJuhuri\nJuwri\ncuhuri\ncuuri\nçuhuri\nгорско-еврейский\nджуури\nджухури\nжугьури\nג'והורי\nז'אוּהאוּראִ",
+    "hhbib_lgcode": "\nJudeo-Tat (Juhuri)\nJuhuri"
+  },
+  "triggers": {
+    "lgcode": "\njudeo AND tat\nkubinskom\ntatov\nseveroazerbaidzjanskikh\ntatskogo\nyevreyskotatskogo"
+  },
+  "identifier": {
+    "multitree": "jdt",
+    "endangeredlanguages": "3448"
+  },
+  "classification": {
+    "sub": "**hh:g:Suleymanov:Sirvan-Tat**:27-28",
+    "subrefs": "\n**hh:g:Suleymanov:Sirvan-Tat**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Judeo-Tat (3448-jdt) = Vulnerable (20 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

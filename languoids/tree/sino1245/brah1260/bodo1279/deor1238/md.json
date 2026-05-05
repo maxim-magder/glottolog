@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Deori",
+    "hid": "der",
+    "level": "language",
+    "iso639-3": "der",
+    "latitude": "26.86152",
+    "longitude": "93.70572",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Deori](https://endangeredlanguages.com/lang/4071)\nhttps://www.wikidata.org/entity/Q56478\nhttps://en.wikipedia.org/wiki/Deori_language\n[Deuri](https://wals.info/languoid/lect/wals_code_deu)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:jacquesson:05**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:e:Borah:Deori**\n**hh:g:Jacquesson:Deuri**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:II**\n**hh:s:Brown:Deori**\n**hh:s:Goswami:Deuri**\n**hh:soctyp:Nath:Tiwa-Deori**\n**hh:w:Brown:North-East-Frontier**"
+  },
+  "altnames": {
+    "wals": "\nDeuri",
+    "wals other": "\nChutiya\nDeori",
+    "moseley & asher (1994)": "\nChutiya",
+    "multitree": "\nChutia\nChutiya\nDari\nDeori\nDeori Chutiya\nDeuri\nDewri\nDrori",
+    "lexvo": "\nDeori [en]",
+    "hhbib_lgcode": "\nChutiya\nDeoria Chutia\nDeuri",
+    "elcat": "\nChutia\nChutiya\nDari\nDeori\nDeori Chutiya\nDeuri\nDewri\nDrori"
+  },
+  "triggers": {
+    "lgcode": "\nchutiya\ndeuri\ndeori"
+  },
+  "identifier": {
+    "wals": "deu",
+    "multitree": "der",
+    "endangeredlanguages": "4071"
+  },
+  "classification": {
+    "sub": "**hh:hv:Burling:Bodo-Garo** **hh:hv:Wood:Proto-Boro-Garo**",
+    "subrefs": "\n**hh:hv:Burling:Bodo-Garo**\n**hh:hv:Wood:Proto-Boro-Garo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Deori (4071-der) = Threatened (40 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

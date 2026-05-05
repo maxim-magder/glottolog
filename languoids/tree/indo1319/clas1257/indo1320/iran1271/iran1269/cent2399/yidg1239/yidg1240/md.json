@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yidgha",
+    "hid": "ydg",
+    "level": "language",
+    "iso639-3": "ydg",
+    "latitude": "36.014",
+    "longitude": "71.5077",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\n[Yidgha](https://endangeredlanguages.com/lang/3210)\nhttps://www.wikidata.org/entity/Q34179\nhttps://en.wikipedia.org/wiki/Yidgha_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:skjaervoe:89**\n**hh:hewtyp:Biddulph:Hindoo-Koosh**\n**hh:hvs:Morgenstierne:Pamir**\n**hh:hvw:Grierson:10**\n**hh:hwsoc:Decker:Chitral**\n**hh:s:Skjarvoe:YidghaMunji**\n**hh:s:Sultan:Yidgha**\n**hh:soc:Janjua:Yadgha**\n**mpieva:Morgenstierne1973IranianP**"
+  },
+  "altnames": {
+    "multitree": "\nLutkuhwar\nMunyaní\nYidga\nYidgha\nYudga\nYudgha",
+    "lexvo": "\nJitka keel [et]\nYidgeg [br]\nYidgha [en]\nYidgha language [en]\nЙъдгайски език [bg]\nภาษายิดคา [th]",
+    "hhbib_lgcode": "\nYadgha\nYidghah",
+    "elcat": "\nLutkuhwar\nYidga\nYidgha\nYudga\nYudgha"
+  },
+  "triggers": {
+    "lgcode": "\nyidgha"
+  },
+  "identifier": {
+    "multitree": "ydg",
+    "endangeredlanguages": "3210"
+  },
+  "classification": {
+    "sub": "**hh:hv:Novak:Eastern-Iranian**",
+    "subrefs": "\n**hh:hv:Novak:Eastern-Iranian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yidgha (3210-ydg) = Threatened (20 percent certain, based on the evidence available) [Driem 2007](cldf:driem:07)"
+  }
+}

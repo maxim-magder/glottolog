@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Beami",
+    "hid": "beo",
+    "level": "language",
+    "iso639-3": "beo",
+    "latitude": "-6.14949",
+    "longitude": "142.508",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Beami](https://lexibank.clld.org/languages/transnewguineaorg-beami)\nhttps://en.wikipedia.org/wiki/Beami_language\nhttps://www.wikidata.org/entity/Q3504079"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2880**\n**hh:e:Holmqvist:Grona-Skogen**\n**hh:e:Sorum:Bedamini**\n**hh:e:vanBeek:Bedamuni**\n**hh:h:Voorhoeve:Chain-Interpreting**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Shaw:Bosavi**\n**hh:hw:Zgraggen:Gulf**"
+  },
+  "altnames": {
+    "multitree": "\nBeami\nBedamini\nBedamuni\nBeothuc\nBeothuk\nBethuck\nBethuk\nMougulu\nNewfoundland\nRed Indians",
+    "lexvo": "\nBeami [en]",
+    "hhbib_lgcode": "\nBedamini\nBiami"
+  },
+  "triggers": {
+    "lgcode": "\nbedamini\nbedamuni\nbeami AND bosavi"
+  },
+  "identifier": {
+    "multitree": "beo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shaw:Bosavi**",
+    "subrefs": "\n**hh:hvw:Shaw:Bosavi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bedamuni (beo-beo) = 5* (Developing)."
+  }
+}

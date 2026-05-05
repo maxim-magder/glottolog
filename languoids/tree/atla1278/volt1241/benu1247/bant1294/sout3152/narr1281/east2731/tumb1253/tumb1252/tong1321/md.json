@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tonga (Nyasa)",
+    "hid": "tog",
+    "level": "language",
+    "iso639-3": "tog",
+    "latitude": "-12.0816",
+    "longitude": "34.0613",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MW"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tonga_language_(Malawi)\nhttps://www.wikidata.org/entity/Q3847648"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:velsen:64**\n**eballiso2009:17085**\n**eballiso2009:17977**\n**eballiso2009:18838**\n**eballiso2009:22541**\n**eballiso2009:23273**\n**eballiso2009:23274**\n**eballiso2009:26080**\n**eballiso2009:28707**\n**eballiso2009:30303**\n**eballiso2009:35805**\n**eballiso2009:40218**\n**eballiso2009:4049**\n**eballiso2009:47723**\n**eballiso2009:48214**\n**eballiso2009:52165**\n**eballiso2009:58061**\n**eballiso2009:58534**\n**hh:d:Turner:Tumbuka-Tonga**\n**hh:d:Turner:Tumbuka-Tonga:1996**\n**hh:e:vanVelsen:Tonga**\n**hh:h:Moggridge:Nyassaland**\n**hh:h:Young:Nyasaland**\n**hh:hew:Johnston:British-Central-Africa**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:ld:Mkochi:Malawian-Citonga-Consonants**\n**hh:ld:Mkochi:Malawian-Citonga-Elision**\n**hh:ld:Mkochi:Malawian-Citonga-Tone**\n**hh:t:Mphande:Tonga**\n**hh:typ:Mkochi:Malawian-Citonga**"
+  },
+  "altnames": {
+    "multitree": "\nChitonga\nKitonga\nSiska\nSisya\nTonga\nWestern Nyasa",
+    "lexvo": "\nTonga (Nyasa) [en]\nTonga [en]\ntonga (Nyasa) [fr]",
+    "hhbib_lgcode": "\nAtonga numerically weak on the east coast of Lake Nyassa although on the east side\nCi-Tonga Siska\nMalawian CiTonga (N.15)\nSiska/Sisya\nTonga\nTonga (Nyasa) which is on the west side\nTonga Down on the lake shore in the narrow strip between beach and mountain that is rarely more than ten miles wide and often much less there is the Tonga group a fishing people who are also marked out from others in our area by their use of cassava for food crop as against maize elsewhere\nTonga of Lake Malawi\nand kinship to Tumbuka speech easier to recognize"
+  },
+  "triggers": {
+    "lgcode": "\nordeal\nwatawara\nchikhonde\nintermixture\nlakeside\nmanning"
+  },
+  "identifier": {
+    "multitree": "tog"
+  },
+  "classification": {
+    "sub": "**hh:h:Young:Nyasaland**",
+    "subrefs": "\n**hh:h:Young:Nyasaland**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tonga (tog-tog) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Rakhine",
+    "hid": "rki",
+    "level": "language",
+    "iso639-3": "rki",
+    "latitude": "20.527429",
+    "longitude": "93.145906",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "MM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Rakhine_language\nhttps://www.wikidata.org/entity/Q3450749"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:levi-strauss:52**\n**hh:he:Bessaignet:Chittagong**\n**hh:he:Diran:Burma**\n**hh:hvw:Davis:Burmese-Rakhine-Marma**\n**hh:hvw:Taylor:Burmese**\n**hh:ld:Bernot:Arakanese-Tavoyan**\n**hh:phon:Bradley:Arakanese**\n**hh:phon:Rungjit:Arakanese**\n**hh:s:Okell:Burmese-Dialects**\n**hh:w:Konow:Maghi**\n**hh:w:Latter:Kuladyne**\n**iso6393:2007-189**\n**iso6393:2011-043**"
+  },
+  "altnames": {
+    "multitree": "\nArakanese\nArakanese (Marma)\nMaghī\nMogh\nRakhain\nRakhaing\nRakhine\nRakkhaine\nYakhain",
+    "lexvo": "\nRakhine [en]",
+    "hhbib_lgcode": "\nArakan\nArakanese\nArakanese in Sittwe\nMaghi\nMogh\nRakhine - RB\nRakhine - RT\nRakhine -RS"
+  },
+  "triggers": {
+    "lgcode": "\nmaghi\narakanese"
+  },
+  "identifier": {
+    "multitree": "rki;rki-rak"
+  },
+  "classification": {
+    "sub": "**hh:phon:Bradley:Arakanese**",
+    "subrefs": "\n**hh:phon:Bradley:Arakanese**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rakhine (rki-rki) = 3 (Wider communication). Descendants of Muslim immigrants, Rakhine people and language became dominant in Arakan in the 17th century. Used in poetry, among educated men, administrators, trade, farming, and religion."
+  }
+}

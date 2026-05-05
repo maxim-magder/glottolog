@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Rukai",
+    "hid": "dru",
+    "level": "language",
+    "iso639-3": "dru",
+    "latitude": "22.7738",
+    "longitude": "120.844",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Rukai](https://grambank.clld.org/languages/ruka1240)\n[Rukai (Tanan)](https://wals.info/languoid/lect/wals_code_ruk)\nhttps://en.wikipedia.org/wiki/Rukai_language\nhttps://phoible.org/languages/ruka1240\nhttps://www.wikidata.org/entity/Q49232"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4897**\n**cldf:bybee:perkins:etal:94**\n**cldf:zeitoun:00:2**\n**cldf:zeitoun:07**\n**cldf:zeitoun:97**\n**hh:g:Li:Rukai**\n**hh:g:Shelley:Dukai**\n**hh:g:Zeitoun:Lukai:2018**\n**hh:g:Zeitoun:Rukai**\n**hh:g:Zeitoun:Rukai:2000**\n**hh:hdial:Tu:Rukai**\n**hh:hld:Muller:Formosa**\n**hh:hv:Chen:PaiwanRukai**\n**hh:phon:Hsin:Maga-Rukai**\n**hh:s:Saillard:Rukai-Maga**\n**hh:soc:Huteson:Rukai**\n**hh:t:Li:Rukai**\n**hh:typ:Liu:Dulong**\n**hh:typ:Wu:Budai-Rukai**\n**hh:v:Ho:Rukai**\n**hh:v:Li:Rukai**\n**hh:w:Li:Formosan:2004**\n**hh:w:Li:Rukai**\n**ldh:item_407348**\n**mpieva:Wang2004Morphosy**\n**mpieva:Zeitoun2007Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nRukai",
+    "wals other": "\nRukai\nTanan dialect",
+    "moseley & asher (1994)": "\nRukai",
+    "multitree": "\nBanga\nBantalang\nBantaurang\nDrukai\nDrukay\nDukai\nDyokay\nKadas\nRukai\nRukái\nRutkai\nSarisen\nSprache von Formosa\nTaloma\nTsalisen\nTsarisen",
+    "lexvo": "\nIdioma rukai [es]\nLingua Rukai [it]\nLû-khái-ngî [hak]\nRukai [en]\nRukai language [en]",
+    "hhbib_lgcode": "\nBudai\nBudai Rukai\nDulong\nLukai\nMaga\nMantauran\nTanan\nTaroma\nTona\nTsarisen"
+  },
+  "triggers": {
+    "lgcode": "\ndukai\nlukai\nrukai\nvudai"
+  },
+  "identifier": {
+    "wals": "ruk",
+    "multitree": "xhpn;dru"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Rukai (2033-dru) = Vulnerable"
+  }
+}

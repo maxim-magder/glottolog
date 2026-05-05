@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Zabana",
+    "hid": "kji",
+    "level": "language",
+    "iso639-3": "kji",
+    "latitude": "-7.74311",
+    "longitude": "158.753",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Zabana](https://grambank.clld.org/languages/zaba1237)\n[Zabana (Kia)](https://lexibank.clld.org/languages/abvdoceanic-ZabanaKia)\nhttps://en.wikipedia.org/wiki/Zabana_language\nhttps://www.wikidata.org/entity/Q379130"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tryon:hackman:83**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Ray:Island**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Grace:46**\n**hh:ld:Ray:Kia**\n**hh:s:Fitzsimons:Zabana**"
+  },
+  "altnames": {
+    "multitree": "\nKham\nKia\nZabana",
+    "lexvo": "\nZabana [en]",
+    "hhbib_lgcode": "\nKia\nZabana (Kia)"
+  },
+  "triggers": {
+    "lgcode": "\nzabana"
+  },
+  "identifier": {
+    "multitree": "kji"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:NWSolomonic**",
+    "subrefs": "\n**hh:hv:Ross:NWSolomonic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zabana (kji-kji) = 5 (Developing)."
+  }
+}

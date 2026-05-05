@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Highland Oaxaca Chontal",
+    "hid": "chd",
+    "level": "language",
+    "iso639-3": "chd",
+    "latitude": "16.1849",
+    "longitude": "-95.7301",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chontal (Highland)](https://wals.info/languoid/lect/wals_code_cho)\n[Highland Chontal](https://endangeredlanguages.com/lang/4163)\n[Highland Oaxaca Chontal](https://lexibank.clld.org/languages/johanssonsoundsymbolic-HighlandOaxacaChontal)\nhttps://en.wikipedia.org/wiki/Highland_Oaxaca_Chontal\nhttps://www.wikidata.org/entity/Q2964457"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4469**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:09:4**\n**cldf:np:nd:264**\n**cldf:turner:71**\n**cldf:turner:olmsted:66**\n**cldf:turner:turner:71**\n**hh:d:Turner:Chontal**\n**hh:e:Madsen:Nahua**\n**hh:e:Olmsted:Tequistlatec**\n**hh:g:Turner:Highland-Chontal**\n**hh:hv:Waterhouse:ChontalHokan**\n**hh:phon:Turner:Highland-Chontal**\n**hh:std:Belmar:Chontal**\n**mpieva:Oltrogge1977Twostudi**\n**sil16:11886**\n**sil16:12561**\n**sil16:12562**\n**sil16:12563**\n**sil16:12652**\n**sil16:13672**\n**sil16:15245**\n**sil16:16752**\n**sil16:16812**\n**sil16:19025**"
+  },
+  "altnames": {
+    "wals": "\nChontal (Highland)",
+    "wals other": "\nHighland Chontal\nTequistlatec",
+    "ruhlen (1987)": "\nChontal",
+    "moseley & asher (1994)": "\nChontal",
+    "multitree": "\nChantal (Highland)\nChontal\nChontal de Oaxaca (Sierra)\nChontal de la sierra\nChontal des hautes terres\nChontal of Oaxaca\nChontal, Highland Oaxaca\nHighland Chontal\nHighland Oaxaca Chontal\nMountain Tequistlatec\nTequistlatec\nTequistlateco",
+    "lexvo": "\nHighland Oaxaca Chontal [en]",
+    "hhbib_lgcode": "\nChontal-Highland Oaxaca",
+    "elcat": "\nChontal\nChontal (Highland)\nChontal de Oaxaca (Sierra)\nChontal of Oaxaca\nHighland Chontal\nHighland Oaxaca Chontal\nMountain Tequistlatec\nTequistlateco"
+  },
+  "triggers": {
+    "lgcode": "\ntequixistlan\nhighland AND chontal"
+  },
+  "identifier": {
+    "wals": "cho",
+    "multitree": "chd",
+    "endangeredlanguages": "4163"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Highland Chontal (4163-chd) = Threatened (20 percent certain, based on the evidence available) [n.a. 2009](cldf:np:09:4)"
+  }
+}

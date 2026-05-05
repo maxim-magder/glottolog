@@ -1,0 +1,32 @@
+{
+  "core": {
+    "name": "Russenorsk",
+    "hid": "NOCODE_Russenorsk",
+    "level": "language",
+    "latitude": "70.662",
+    "longitude": "23.681",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NO",
+      "SJ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q505125\nhttps://en.wikipedia.org/wiki/Russenorsk"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Stern:Russische-Pidgins**\n**hh:hld:Perexvalskaya:Russkie-Pidziny**\n**hh:ld:Jahr:Russenorsk**\n**hh:ld:Jahr:Russenorsk:2005**\n**hh:ldsoc:Broch:Russenorsk**\n**hh:ldsoc:Broch:Russenorsk:Norwegian**\n**hh:ldsoc:BrochJahr:Russenorsk:1982**\n**hh:s:BrochJahr:Russenorsk**\n**hh:ssoc:BrochJahr:Russenorsk**\n**hh:ssoc:BrochJahr:Russenorsk:1984**\n**hh:ssoc:Fox:Russenorsk**\n**hh:ssoc:Fox:Russenorsk:1974**\n**hh:t:Broch:Russenorsk**\n**hh:v:Lunden:Russenorsk-Ancestry**\n**hh:vld:Lunden:Russenorsk-Revisited**"
+  },
+  "triggers": {
+    "lgcode": "\nrussenorsk"
+  },
+  "identifier": {
+    "multitree": "qcu"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Russenorsk (NOCODE_Russenorsk-NOCODE_Russenorsk) = 10 (Extinct)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lo-Toga",
+    "hid": "lht",
+    "level": "language",
+    "iso639-3": "lht",
+    "latitude": "-13.334872",
+    "longitude": "166.634338",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lo-Toga](https://endangeredlanguages.com/lang/10822)\n[Toga](https://lexibank.clld.org/languages/abvdoceanic-Toga)\nhttps://en.wikipedia.org/wiki/Lo-Toga_language\nhttps://www.wikidata.org/entity/Q3257566"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:434**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Ray:Polynesian:1912-1921**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Lo**\n**hh:typ:Francois:Lo-Toga-Hiw:2010**\n**hh:typ:Francois:Lo-Toga-Hiw:2019**\n**hh:w:TowiaRiulera:Torres**\n**iso6393:2008-076**"
+  },
+  "altnames": {
+    "multitree": "\nLo\nLo-Toga\nLoh-Toga\nToga\nTorres",
+    "lexvo": "\nLo-Toga [en]",
+    "hhbib_lgcode": "\nLo\nLoh\nTegua\nToga",
+    "elcat": "\nLo-Toga\nLoh\nToga"
+  },
+  "triggers": {
+    "lgcode": "\ntoga\ntegua"
+  },
+  "identifier": {
+    "multitree": "lht",
+    "endangeredlanguages": "10822"
+  },
+  "classification": {
+    "sub": "**hh:hv:KalyanFrancois:Freeing**",
+    "subrefs": "\n**hh:hv:KalyanFrancois:Freeing**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lo-Toga (10822-lht) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

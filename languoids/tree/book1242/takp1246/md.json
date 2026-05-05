@@ -1,0 +1,29 @@
+{
+  "core": {
+    "name": "Takpa (Retired)",
+    "hid": "tkk",
+    "level": "language",
+    "iso639-3": "tkk",
+    "latitude": "28.1652",
+    "longitude": "88.4254",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2010-017**"
+  },
+  "iso_retirement": {
+    "comment": "Ethnologue data on Takpa_tkk is slim - it is spoken in Tibet on the India border\nand is classified as Tibetan, Western, Ladakhi. Researching the bibliographical\nreferences given for the [tkk] entry (Shafer, Hale, Benedict, Voegelin), leads\nto the conclusion that this is an alternate name for [twm], for which there is\nalready an entry in China.\n\nShafer's study was on \"Dwags\", which according to Michailovsky, is spoken in the\nareas of Tawang in Arunachal Pradesh,Tshona in Southern Tibet, and in\nneighboring parts of Bhutan. He classified it as East Bodish. The other three\nsources have no information other than a language called Takpa that has been\nclassified as Bodish (Benedict) or a central dialect of Tibetan (Voegelin). Hale\ngives a comparison of the above classifications along with those of Roerich, who\ncalled it an eastern or southeastern dialect of Tibetan and Nishida, who called\nit a southeastern dialect of Tibetan.\n\nIt appears that the original data and language name of Dakpa, or Dwags, came\nfrom Hodgon (1853) which was then published and used in analysis by Shafer\n(1954). (See Michael Aris (1980) as quoted in Bielmeier (2004)): \"The term\nDag-pa .. is applied by the Bhutanese to a small group of pastoralists on the\neastern border who are related to the Mon-pa people of the rTawang region ...\nHodgson's informant in the mid-19th century was undoubtedly a native of the\narea.\"\n\nTakpa and Dwags are listed in Ethnologue as alternate names for Tawang Monpa\n[twm] in India.\n\nBurling (2003) says that Takpa (Dwags) is spoken in the very western tip of\nArunachal, where it is referred to as 'Northern Monpa'... also spoken in Tibet\nwhere it is known as 'cuona monpa'.\n\nMichailovsky and Mazaudon (1994) states that: \"The closest relative of the\nBumthang group on which studies have been published is probably the Dakpa\nlanguage spoken in the areas of Tawang in Arunachal Pradesh and Tshona (Cuona)\nin southern Tibet, and in neighboring parts of Bhutan.\n\nI can find no data in the Takpa [tkk] references in the Ethnologue to support\nits classification as Tibetan, Western, Ladakhi. On the contrary, Dakpa has been\ngrouped with East Bodish by Shafer, Burling, van Driem and Michailovsky &\nMazaudon. Cuona Monpa (which is the name in China for [twm]) is classified as\nEast Bodish by Bradley. The [twm] entry in the Ethnologue is currently listed as\nTibetan, Unclassified. I propose to assign to it the classification of\nSino-Tibetan, Tibeto-Burman, Himalayish, Tibeto-Kanauri, Tibetic, Tibetan,\nEastern.",
+    "code": "tkk",
+    "name": "Takpa",
+    "effective": "2011-05-18",
+    "remedy": "Merge into Tawang Monpa [twm] as duplicate",
+    "reason": "duplicate",
+    "change_request": "2010-017",
+    "change_to": "\ntwm"
+  }
+}

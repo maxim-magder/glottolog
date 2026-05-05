@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "San Martín Itunyoso Triqui",
+    "hid": "trq",
+    "level": "language",
+    "iso639-3": "trq",
+    "latitude": "17.2428",
+    "longitude": "-97.9202",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Triqui](https://endangeredlanguages.com/lang/6193)\nhttps://phoible.org/languages/sanm1298\nhttps://www.wikidata.org/entity/Q12953934"
+  },
+  "sources": {
+    "glottolog": "\n**haspelmath:dicanio_phonetics_2012**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:ld:CiCanio:Trique:Cue-Weight**\n**hh:phon:DiCanio:SMITrique**\n**hh:phon:DiCanio:SMITrique:2010**\n**hh:typ:DiCanio:Itunyoso-Trique-Coartoculation**\n**hh:typ:DiCanio:Itunyoso-Trique-Tone**\n**hh:typ:DiCanio:Itunyoso-Trique:Aspecto-Verbal**\n**hh:typ:DiCanio:Itunyoso-Trique:Tonal-Classes**"
+  },
+  "altnames": {
+    "glottolog": "\nSan Martin Itunyoso Triqui",
+    "multitree": "\nSan Martín Itunyoso Trique\nTrike\nTriki\nTrique\nTriqui de San Martín Itunyoso\nTriqui, San Martin Itunyoso\nTriqui, San Martín Itunyoso",
+    "lexvo": "\nSan Martín Itunyoso Triqui [en]",
+    "elcat": "\nTriqui",
+    "hhbib_lgcode": "\n137 San Martin Itunyoso Triqui DiCanio 2022b"
+  },
+  "triggers": {
+    "lgcode": "\nitunyoso"
+  },
+  "identifier": {
+    "multitree": "trq",
+    "endangeredlanguages": "6193"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matsukawa:Triqui**",
+    "subrefs": "\n**hh:hv:Matsukawa:Triqui**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Triqui (6193) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

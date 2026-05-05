@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Jamsay Dogon",
+    "hid": "djm",
+    "level": "language",
+    "iso639-3": "djm",
+    "latitude": "14.1794",
+    "longitude": "-2.57999",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "ML"
+    ],
+    "links": "\n[Jamsay](https://lexibank.clld.org/languages/hantganbangime-Jamsay)\n[Jamsay](https://wals.info/languoid/lect/wals_code_jms)\n[Jamsay Dogon](https://grambank.clld.org/languages/jams1239)\nhttps://en.wikipedia.org/wiki/Jamsai_Dogon\nhttps://phoible.org/languages/jams1239\nhttps://www.wikidata.org/entity/Q3913290"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:TessougueTogo:Dogon**\n**hh:g:Heath:Jamsay**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**hh:phon:Ongoiba:Gamsay**\n**hh:w:KroppDakubu:Dogon**\n**sil16:45051**"
+  },
+  "altnames": {
+    "multitree": "\nDogon\nDogon, Jamsay\nDyamsay Tegu",
+    "lexvo": "\nJamsay Dogon [en]",
+    "hhbib_lgcode": "\nHumbebe\nJamsay"
+  },
+  "triggers": {
+    "lgcode": "\njamsay\ngamsaj"
+  },
+  "identifier": {
+    "wals": "jms",
+    "multitree": "djm"
+  },
+  "classification": {
+    "sub": "**hh:hw:Hochstetler:Dogon**, **hh:hv:HeathProkhorov:Dogon** **hh:hv:MoranProkic:Dogon**",
+    "subrefs": "\n**hh:hw:Hochstetler:Dogon**\n**hh:hv:HeathProkhorov:Dogon**\n**hh:hv:MoranProkic:Dogon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dogon, Jamsay (djm-djm) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Makasae-Makalero",
+    "hid": "mkz",
+    "level": "language",
+    "iso639-3": "mkz",
+    "latitude": "-8.65843",
+    "longitude": "126.507",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "TL"
+    ],
+    "links": "\n[Makasae](https://wals.info/languoid/lect/wals_code_mkj)\nhttps://en.wikipedia.org/wiki/Makasae_language\nhttps://www.wikidata.org/entity/Q35782"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Pinto:Makalero**\n**hh:g:Huber:Makalero**\n**hh:h:Thomaz:Timor-Portugues**\n**hh:hv:Hull:Timor**\n**hh:hvphon:Mandala:Oirata**\n**hh:hvw:Capell:Timor**\n**hh:hvw:Fox:Pantar**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:phon:Fogaca:Makasae**\n**hh:s:Anonymous:Macassae**\n**hh:s:Fogaca:Makasae**\n**hh:s:Huber:Makasae**\n**hh:s:Huber:Makasae:2005**\n**hh:s:Hull:Makasai**\n**hh:s:Marques:Makasae**\n**hh:s:Sudiartha:Makasai**\n**hh:styp:Brotherson:Makasai**\n**hh:w:Wain:Makasai**\n**langsci:capell:44**"
+  },
+  "altnames": {
+    "multitree": "\nMa'asae\nMacassai\nMakasae\nMakasai\nMakassai",
+    "lexvo": "\nIdioma makasae [es]\nMacassai [pt]\nMakasae [de]\nภาษามากาแซ [th]\n마카사이어 [ko]",
+    "hhbib_lgcode": "\nMaclere\nMakalero\nMakasae\nMakasai"
+  },
+  "triggers": {
+    "lgcode": "\nmakasae\nmacassae\nmakalero"
+  },
+  "identifier": {
+    "wals": "mkj",
+    "multitree": "mkz"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar** **hh:hvphon:Mandala:Oirata** **hh:hv:vanNaerssen:East-Timorese**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**\n**hh:hvphon:Mandala:Oirata**\n**hh:hv:vanNaerssen:East-Timorese**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Makasae (mkz-mkz) = 6a* (Vigorous)."
+  }
+}

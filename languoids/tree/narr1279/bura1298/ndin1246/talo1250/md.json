@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tasomi-Tata",
+    "hid": "tlo",
+    "level": "language",
+    "iso639-3": "tlo",
+    "latitude": "10.6453",
+    "longitude": "30.4815",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Talodi](https://endangeredlanguages.com/lang/3537)\nhttps://www.wikidata.org/entity/Q36525\nhttps://en.wikipedia.org/wiki/Talodi_language\nhttps://phoible.org/languages/talo1250\n[Jomang](https://wals.info/languoid/lect/wals_code_jom)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3976**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:meinhof:15:3**\n**cldf:np:nd:264**\n**cldf:schadeberg:81:3**\n**hh:e:Bernatzik:Talodi**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hv:Bork:SKordofan**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:NortonAlaki:Talodi**\n**hh:hvw:Schadeberg:Talodi**\n**hh:hw:Seligmann:Nubas**\n**hh:s:Meinhof:Talodi**"
+  },
+  "altnames": {
+    "wals": "\nJomang",
+    "ruhlen (1987)": "\nTalodi",
+    "moseley & asher (1994)": "\nJomang",
+    "multitree": "\nAjomang\nGajomang\nJomang\nTalodi\nTalodí",
+    "lexvo": "\nTalodi [en]",
+    "hhbib_lgcode": "\nJumang-Attang\nTalodi\nTalodi: Talodi (Tasomi)\nTasomu-Tata",
+    "elcat": "\nAjomang\nGajomang\nJomang\nTalodi"
+  },
+  "triggers": {
+    "lgcode": "\nNOT orthographies AND talodi"
+  },
+  "identifier": {
+    "wals": "jom",
+    "multitree": "jmng;tlo",
+    "endangeredlanguages": "3537"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonAlaki:Talodi** (interpreting the significance of the innovations differently)",
+    "subrefs": "\n**hh:hvw:NortonAlaki:Talodi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Talodi (3537-tlo) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

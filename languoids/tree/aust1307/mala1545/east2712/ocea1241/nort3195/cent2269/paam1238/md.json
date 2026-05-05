@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Paama",
+    "hid": "pma",
+    "level": "language",
+    "iso639-3": "pma",
+    "latitude": "-16.47548",
+    "longitude": "168.23693",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Paama](https://grambank.clld.org/languages/paam1238)\n[Paamese](https://wals.info/languoid/lect/wals_code_pms)\n[Paamese (South)](https://lexibank.clld.org/languages/abvdoceanic-PaameseSouth)\nhttps://en.wikipedia.org/wiki/Paamese_language\nhttps://www.wikidata.org/entity/Q3130286"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2667**\n**asjp2010:356**\n**asjp2010:4384**\n**cldf:crowley:87:2**\n**hh:d:Crowley:Paamese**\n**hh:g:Crowley:Paama**\n**hh:g:Crowley:Paamese**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Ray:Paama**\n**hh:w:Crowley:Paamese**"
+  },
+  "altnames": {
+    "wals": "\nPaamese",
+    "wals other": "\nPaamese of Vanuatu",
+    "ruhlen (1987)": "\nPaama",
+    "moseley & asher (1994)": "\nPaama",
+    "multitree": "\nPaama\nPaama-Lopevi\nPaamese\nPauma",
+    "lexvo": "\nPaama [en]\nPaama language [en]\nPaaman kieli [fi]",
+    "hhbib_lgcode": "\nFaulili\nLaul\nLironesa\nPama"
+  },
+  "triggers": {
+    "lgcode": "\npaamese\npaama"
+  },
+  "identifier": {
+    "wals": "pms",
+    "multitree": "pma"
+  },
+  "classification": {
+    "sub": "**hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Paama (pma-pma) = 6b (Threatened)."
+  }
+}

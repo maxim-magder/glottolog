@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Auye",
+    "hid": "auu",
+    "level": "language",
+    "iso639-3": "auu",
+    "latitude": "-3.43705",
+    "longitude": "136.096",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Auye](https://endangeredlanguages.com/lang/1351)\n[Auye](https://grambank.clld.org/languages/auye1238)\nhttps://en.wikipedia.org/wiki/Auye-Dao_language\nhttps://www.wikidata.org/entity/Q4827334"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:seseray:93**\n**hh:et:Price:Ambai**\n**hh:h:Sugono:Indonesia**\n**hh:ld:Donohue:New-Guinea:2020**\n**hh:s:Moxness:Auye**\n**hh:typ:Moxness:Auye**\n**hh:typ:Moxness:Auye:2010**\n**hh:w:Kroneman:Auye**\n**hh:wt:Moxness:Auye**\n**sil16:33767**\n**sil16:49486**\n**sil16:49487**\n**sil16:49927**\n**sil16:49928**\n**sil16:49930**\n**sil16:49933**\n**sil16:49934**\n**sil16:49935**\n**sil16:49938**"
+  },
+  "altnames": {
+    "multitree": "\nAuwje\nAuye",
+    "lexvo": "\nAuye [en]",
+    "elcat": "\nAuwje\nAuye",
+    "hhbib_lgcode": "\nAuye (Ause)"
+  },
+  "triggers": {
+    "lgcode": "\nmenaa\nnekeeniino\nyosias\nuwo\nauye\nbagee"
+  },
+  "identifier": {
+    "multitree": "auu",
+    "endangeredlanguages": "1351"
+  },
+  "classification": {
+    "sub": "**hh:s:Moxness:Auye**:6-7 **hh:hv:Tebay:Paniai**",
+    "subrefs": "\n**hh:hv:Tebay:Paniai**\n**hh:s:Moxness:Auye**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Auye (1351-auu) = Endangered (20 percent certain, based on the evidence available) [Seseray 1993](cldf:seseray:93)"
+  }
+}

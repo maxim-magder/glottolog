@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Halia",
+    "hid": "hla",
+    "level": "language",
+    "iso639-3": "hla",
+    "latitude": "-5.26603",
+    "longitude": "154.662",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Halia](https://grambank.clld.org/languages/hali1244)\n[Halia](https://wals.info/languoid/lect/wals_code_hal)\n[Halia (Selau)](https://lexibank.clld.org/languages/abvdoceanic-HaliaSelau)\nhttps://en.wikipedia.org/wiki/Halia_language\nhttps://www.wikidata.org/entity/Q3125959"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:allen:allen:87**\n**cldf:blust:75:2**\n**cldf:bybee:perkins:etal:94**\n**hh:d:Allen:Haila**\n**hh:g:Allen:Halia**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hvwld:Schnee:Bismarck**\n**hh:ld:Ray:Hanahan**\n**hh:s:Allen:Halia**\n**hh:s:AllenAllen:Halia**\n**hh:v:Blust:Selau**\n**hh:w:McAdam:Koianu**\n**mpieva:Allen1964Halialan**\n**mpieva:Allen1972Relation**\n**mpieva:Allen1987Haliagra**\n**sil16:10033**\n**sil16:10084**\n**sil16:10086**\n**sil16:10087**\n**sil16:10089**\n**sil16:14645**\n**sil16:14646**\n**sil16:14647**\n**sil16:14648**\n**sil16:14649**\n**sil16:17685**\n**sil16:17687**\n**sil16:17688**\n**sil16:23096**\n**silpng:silpng1956-1990:1396**\n**silpng:silpng1956-1990:1397**\n**silpng:silpng1956-1990:1398**\n**silpng:silpng1956-1990:1399**\n**silpng:silpng1956-1990:401**\n**silpng:silpng1956-1990:402**\n**silpng:silpng1956-1990:403**\n**silpng:silpng1956-1990:404**\n**silpng:silpng1956-1990:405**\n**silpng:silpng1956-1990:406**\n**silpng:silpng1956-1990:407**\n**silpng:silpng1956-1990:408**\n**silpng:silpng1956-1990:409**\n**silpng:silpng1956-1990:410**\n**silpng:silpng1956-1990:411**\n**silpng:silpng1956-1990:412**\n**silpng:silpng1956-1990:413**\n**silpng:silpng1991-2000:657**\n**silpng:silpng1991-2000:658**\n**silpng:silpng1991-2000:659**\n**silpng:silpng1991-2000:660**\n**silpng:silpng1991-2000:661**\n**silpng:silpng2001-2003:215**"
+  },
+  "altnames": {
+    "wals": "\nHalia",
+    "wals other": "\nHanahan",
+    "ruhlen (1987)": "\nHalia",
+    "moseley & asher (1994)": "\nHalia",
+    "multitree": "\nHalia\nTasi",
+    "lexvo": "\nHalia [en]",
+    "hhbib_lgcode": "\nHalia (Hanahan)\nHalia (Selau)\nHanahan\nSelau"
+  },
+  "triggers": {
+    "lgcode": "\nniga\nselau\nhahatate\nrola\nvowelless\nnihapita\nhalia\ntsenesis\ntsiu\nhanahan"
+  },
+  "identifier": {
+    "wals": "hal",
+    "multitree": "hali;hla"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:215-256",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Halia (hla-hla) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Qashqa-Darya Arabic",
+    "hid": "auz",
+    "level": "language",
+    "iso639-3": "auz",
+    "latitude": "40.2612",
+    "longitude": "65.3864",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "UZ"
+    ],
+    "links": "\n[Uzbeki Spoken Arabic](https://endangeredlanguages.com/lang/10833)\nhttps://en.wikipedia.org/wiki/Uzbeki_Arabic\nhttps://www.wikidata.org/entity/Q3399507"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:haberl:15**\n**cldf:haeberl:nd**\n**hh:g:Chikovani:Kashkadariuli**\n**hh:gt:Chikovani:Kaskadarinskij**\n**hh:hv:Chikovani:Arabs-Central-Asia**\n**hh:hv:Chikovani:Central-Asian-Arabs:1999**\n**hh:hv:Seeger:Zentralasiatischen-Arabischen**\n**hh:ld:Chikovani:Arabic-Central-Asia-Verb**\n**hh:ld:Chikovani:Central-Asian-Arabic**\n**hh:ld:Chikovani:Qashqa-Darya-Verb**\n**hh:s:Chikovani:Qashqa-Darya**\n**hh:t:Vinnikov:Kaskadarinskix**\n**hh:typ:Chikovani:Central-Asia**\n**hh:typ:Chikovani:Qashqadarian**\n**hh:vld:Chikovani:Central-Asian-Arabic-Lexical**\n**hh:vld:Jastrow:Uzbekistan-Arabic**\n**mpieva:Cereteli1956SuaAziis**"
+  },
+  "altnames": {
+    "multitree": "\nArabic\nArabic, Uzbeki Spoken\nCentral Asian Arabic\nJugari\nKashkadarya Arabic\nUzbeki Arabic",
+    "lexvo": "\nUzbeki Arabic [en]\nUzbečki arapski [hr]",
+    "hhbib_lgcode": "\nArabic Uzbeki Spoken\nArabic-Uzbeki Spoken\nBukhara\nBukhara Arabic\nBuxara and Qashqa-daryā\nBuxarskij\nDjogari\nJugari\nKaškadarinskix\nQashqa Darya\nQashqa-Darya\nQashqa-daryā\nQashqadarian Arabic\nUzbeki Arabic",
+    "elcat": "\nCentral Asian Arabic\nTajiki\nUzbeki Spoken Arabic",
+    "glottolog": "\nUzbeki Arabic"
+  },
+  "triggers": {
+    "lgcode": "\nbukhara\nbuxarskix\narabov\ndialektebi\nbuchara\ndjogari\nuzbekistaans\nfurschungsergebnissen\nirano"
+  },
+  "identifier": {
+    "multitree": "auz",
+    "endangeredlanguages": "10833"
+  },
+  "classification": {
+    "sub": "**hh:hv:Seeger:Zentralasiatischen-Arabischen**",
+    "subrefs": "\n**hh:hv:Seeger:Zentralasiatischen-Arabischen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Uzbeki Spoken Arabic (10833-auz) = Endangered (20 percent certain, based on the evidence available) [Haberl 2015](cldf:haberl:15)"
+  }
+}

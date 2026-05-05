@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Siuslaw",
+    "hid": "sis",
+    "level": "language",
+    "iso639-3": "sis",
+    "latitude": "42.5111",
+    "longitude": "-124.379",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Siuslaw](https://endangeredlanguages.com/lang/8390)\n[Siuslaw](https://grambank.clld.org/languages/sius1254)\n[Siuslaw](https://wals.info/languoid/lect/wals_code_siu)\nhttps://en.wikipedia.org/wiki/Siuslaw_language\nhttps://www.wikidata.org/entity/Q2315424",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barnett:37**\n**cldf:frachtenberg:14**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:nichols:92**\n**cldf:stolz:96**\n**hh:g:Frachtenberg:Siuslawan**\n**hh:hv:Pierce:Hanis-Miluk-Alsea**\n**hh:ld:Shirtz:Oregon-Coast**\n**hh:t:Frachtenberg:LUmpqua**\n**mpieva:Frachtenberg1914LowerUmp**"
+  },
+  "altnames": {
+    "wals": "\nSiuslaw",
+    "wals other": "\nLower Umpqua\nSiuslawan\nUmpqua\nUmpqua (Lower)",
+    "ruhlen (1987)": "\nSiuslaw",
+    "moseley & asher (1994)": "\nSiuslaw",
+    "multitree": "\nSiuslaw",
+    "lexvo": "\nSiuslaw [en]",
+    "elcat": "\nKu-itc (Kuitsh)\nSiuslaw\nUmpqua"
+  },
+  "triggers": {
+    "lgcode": "\numpqua"
+  },
+  "identifier": {
+    "wals": "genus/siuslawan",
+    "multitree": "sis",
+    "endangeredlanguages": "8390"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Siuslaw (8390-sis) = Dormant [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

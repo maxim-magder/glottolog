@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Atohwaim",
+    "hid": "aqm",
+    "level": "language",
+    "iso639-3": "aqm",
+    "latitude": "-6.27123",
+    "longitude": "138.666",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11732297\nhttps://en.wikipedia.org/wiki/Atohwaim_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Sugono:Indonesia**\n**hh:hv:Ross:Voorhoeve**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:Voorhoeve:Miscellaneous**\n**hh:w:Clouse:Atoheim**\n**hh:w:Sawi:Tamimid**\n**hh:w:Sidabutar:Yagamit**"
+  },
+  "altnames": {
+    "multitree": "\nAtohwaim\nKaugat",
+    "lexvo": "\nAtohwaim [en]",
+    "hhbib_lgcode": "\nAmathamit (Athokhin)\nAtoheim\nKaugat\nTamimid\nYagamit"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND western AND phylum"
+  },
+  "identifier": {
+    "multitree": "aqm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Voorhoeve:Miscellaneous**:87-88",
+    "subrefs": "\n**hh:hvw:Voorhoeve:Miscellaneous**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Atohwaim (aqm-aqm) = 6b* (Threatened)."
+  }
+}

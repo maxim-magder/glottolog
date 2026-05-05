@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Western Balochi",
+    "hid": "bgn",
+    "level": "language",
+    "iso639-3": "bgn",
+    "latitude": "29.49928",
+    "longitude": "66.02877",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "IR",
+      "PK",
+      "TM"
+    ],
+    "links": "\n[Baluchi](https://wals.info/languoid/lect/wals_code_blc)\nhttps://en.wikipedia.org/wiki/Rakhshani_dialect\nhttps://phoible.org/languages/west2368\nhttps://www.wikidata.org/entity/Q12645561"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:elfenbein:97:1**\n**cldf:gilbertson:23**\n**cldf:malherbe:rosenberg:96**\n**hh:d:Jahandidah:Baluchi**\n**hh:e:Amiri:Helmand-Baluch**\n**hh:g:Axenov:Turkmenistan**\n**hh:g:BarkerMengal:Baluchi**\n**hh:h:Moshkalo:Baloch-Turkmenistan**\n**hh:hvld:Elfenbein:Baluchi**\n**hh:hvs:Korn:Balochi**\n**hh:hvs:Korn:Balochi:2003**\n**hh:hvw:Grierson:10**\n**hh:phon:Okati:Five-Balochi**\n**hh:phon:Soohani:Iranian-Balochi**\n**hh:s:Baranzehi:Sarawani**\n**hh:s:Bashir:Balochi-Urdu**\n**hh:s:Frolova:Beludzhskij**\n**hh:s:JahaniKorn:Balochi**\n**hh:s:Nasir:Balochi**\n**hh:s:Nawata:Baluchi**\n**hh:s:Sokolov:Beludzej**\n**hh:s:Yusefian:Lashari-Baluchi**\n**hh:st:Buddruss:Balutschen**\n**hh:sttyp:Nourzaei:Koroshi**\n**hh:typ:Delforooz:Balochi-Sistan**\n**hh:typ:Spooner:Baluchi-Persian**\n**hh:typ:Yusefian:Lashari-Baluchi**\n**hh:vtyp:Sabir:Balochi-Brahui**\n**hh:w:Elfenbein:Marw**\n**sil16:22899**\n**sil16:23699**\n**sil16:38353**\n**sil16:44300**"
+  },
+  "altnames": {
+    "multitree": "\nBalochi, Western\nBaloci\nBaluchi\nBaluci\nBalutschi\nWestern Balochi",
+    "lexvo": "\nWestern Balochi [en]",
+    "hhbib_lgcode": "\nAfghanistan Balochi\nBalochi\nBalochi of Quetta\nBalochi-Western\nE Balochi N Baluchistan etc\nGlossary for the texts collected by Ivan I. Zarubin in the 1930s (published as Zarubin 1932/1949). It therefore presents the Turkmenistan variety of Western Balochi\nJazyk Beludžej Sovjetskogo Sojuza\nLashari Balochi\nLashari Balochi (LB)\nMari\nMarw Balochi\nNoshke\nPan-dialectal in parallel but\nRakhshani\nRakhshani-Kechi\nRakhshānī\nSaravan (SA)\nSaravani\nSarawani\nSarawani Balochi (SB)\nSistan (SI)\nSistan Balochi\nSistani Balochi\nTurkmen Balochi\nTurkmenistan Balochi\nW Balochi\nW Balochi in Afghanistan\nmostly Baloch in Afganistan"
+  },
+  "triggers": {
+    "lgcode": "\nbeludzhskij\nbalochistan\nselbst\nbaluchi\nradesenaxti\nbeludzej\ngrammaticerk\nsojuza\njungen\nbalutschen\nbuni\nihm\nsarawani\nsovjetskogo\nfading\ntowsif"
+  },
+  "identifier": {
+    "multitree": "bgn"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Korn:Balochi**:19-21 **hh:hvld:Elfenbein:Baluchi**:28",
+    "subrefs": "\n**hh:hvld:Elfenbein:Baluchi**\n**hh:hvs:Korn:Balochi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Balochi, Western (bgn-bgn) = 5* (Developing)."
+  }
+}

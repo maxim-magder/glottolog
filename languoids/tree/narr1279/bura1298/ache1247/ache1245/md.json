@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Acheron",
+    "hid": "acz",
+    "level": "language",
+    "iso639-3": "acz",
+    "latitude": "10.8827",
+    "longitude": "30.3187",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Acheron](https://endangeredlanguages.com/lang/3591)\n[Acheron](https://grambank.clld.org/languages/ache1245)\nhttps://en.wikipedia.org/wiki/Acheron_language\nhttps://phoible.org/languages/ache1245\nhttps://www.wikidata.org/entity/Q34769"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hvw:NortonAlaki:Talodi**\n**hh:hvw:Schadeberg:Talodi**\n**hh:phon:Norton:Asheron**\n**hh:phon:Spronk:Talodi**\n**hh:s:Alamin:Asheron**\n**hh:s:Alamin:Asheron:2012**\n**hh:typ:Norton:Acheron:2021**\n**hh:typ:Norton:Asheron**\n**hh:typ:Norton:Talodi**"
+  },
+  "altnames": {
+    "multitree": "\nAcheron\nGarme",
+    "lexvo": "\nAcheron [en]",
+    "hhbib_lgcode": "\nWarme",
+    "elcat": "\nAceron\nAcheron\nAchurun\nAsheron\nGarme"
+  },
+  "triggers": {
+    "lgcode": "\nasheron\nxii\ntalodi"
+  },
+  "identifier": {
+    "multitree": "acz",
+    "endangeredlanguages": "3591"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonAlaki:Talodi** (interpreting the significance of the innovations differently)",
+    "subrefs": "\n**hh:hvw:NortonAlaki:Talodi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Acheron (3591-acz) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

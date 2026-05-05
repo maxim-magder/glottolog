@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tilung",
+    "hid": "tij",
+    "level": "language",
+    "iso639-3": "tij",
+    "latitude": "27.2203",
+    "longitude": "86.4694",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Tilung](https://endangeredlanguages.com/lang/4834)\n[Tilung](https://grambank.clld.org/languages/tilu1238)\nhttps://en.wikipedia.org/wiki/Tilung_language\nhttps://www.wikidata.org/entity/Q7803037"
+  },
+  "classification": {
+    "sub": "**hh:s:Opgenort:Tilung**:334-340 **hh:v:Opgenort:Tilung**",
+    "subrefs": "\n**hh:s:Opgenort:Tilung**\n**hh:v:Opgenort:Tilung**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Hansson:Rai**\n**hh:hwb:Rapacha:Kiranti**\n**hh:ld:Rai:Tilung**\n**hh:ld:Toba:Tilung**\n**hh:s:Opgenort:Tilung**\n**hh:v:Opgenort:Tilung**\n**hh:w:Rapaca:Tilung**"
+  },
+  "altnames": {
+    "multitree": "\nHalesidanda\nTiling\nTilling\nTilung\nTilung Blama",
+    "lexvo": "\nTilung [en]",
+    "elcat": "\nTiling\nTilling\nTilung\nTilung Blama"
+  },
+  "triggers": {
+    "lgcode": "\ntilung"
+  },
+  "identifier": {
+    "multitree": "tij",
+    "endangeredlanguages": "4834"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tilung (4834-tij) = Critically Endangered (100 percent certain, based on the evidence available) (\"only 7 elderly people above 60 could speak their language fluently. People over 40 could speak the language with the heavy borrowing (mostly nouns) from Nepali, the youth from 30-40 can understand some Tilung but the young generation below 30 neither speaks the language nor understands it. Children do not learn the language because young parents do not speak the language and the elderly parents tend to use the language only when they do not want their children to know what they are talking about.\" (p. 143)) [Rai 2012](cldf:rai:12)"
+  }
+}

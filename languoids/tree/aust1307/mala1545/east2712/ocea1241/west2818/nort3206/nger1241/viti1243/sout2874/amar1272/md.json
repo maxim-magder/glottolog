@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Amara",
+    "hid": "aie",
+    "level": "language",
+    "iso639-3": "aie",
+    "latitude": "-5.55778",
+    "longitude": "148.68",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Amara](https://endangeredlanguages.com/lang/3694)\n[Amara](https://grambank.clld.org/languages/amar1272)\n[Amara](https://lexibank.clld.org/languages/abvdoceanic-Amara)\n[Amara](https://wals.info/languoid/lect/wals_code_ama)\nhttps://en.wikipedia.org/wiki/Amara_language\nhttps://www.wikidata.org/entity/Q2841180"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Chowning:WNewBritain**\n**hh:hv:Ross:WMelanesia**\n**hh:hv:Thurston:NW-New-Britain**\n**hh:hvw:Thurston:NBritain**\n**hh:s:Thurston:Amara**\n**hh:soc:Parisetal:Amara**\n**hh:w:Friederici:Nakanai**"
+  },
+  "altnames": {
+    "wals": "\nAmara",
+    "wals other": "\nLonga",
+    "ruhlen (1987)": "\nLonga",
+    "moseley & asher (1994)": "\nLonga",
+    "multitree": "\nAmara\nBibling\nLonga",
+    "lexvo": "\nAmara [en]\nAmara language [en]",
+    "hhbib_lgcode": "\nAmara-Longa\nBibling\nLona second language speaker\nLonga-Sahe-Idne",
+    "elcat": "\nAmara\nBibling\nLonga"
+  },
+  "triggers": {
+    "lgcode": "\nbibling"
+  },
+  "identifier": {
+    "wals": "ama",
+    "multitree": "aie",
+    "endangeredlanguages": "3694"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Amara (3694-aie) = Endangered (100 percent certain, based on the evidence available) (Children in Siamatai are taught Amara early and encouraged to use it frequently. Children [in Niuniuai and Natamou] do not learn Amara early and are not placed in environments where Amara language use would be practically beneficial to them, with a result of very low or no language use.\"\n\n\"Amara dominates the domains of language use in Siamatai. The people reported that arguing, joking, and planning cultural events centred on weddings and funerals are only conducted in Amara.\"\n\n\"In Niuniuiai... [t]here are no domains that are reserved for Amara only. Each event that happens in the home or village, including the organisation of cultural events, is mixed between Amara and Bariai.\"\n\n\"In Natamou, all home and village domains are conducted in Maleu-Kilenge.) [Carter et al. 2012](cldf:carter:carter:etal:12)"
+  }
+}

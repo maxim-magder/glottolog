@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Friulian",
+    "hid": "fur",
+    "level": "language",
+    "iso639-3": "fur",
+    "latitude": "46.1473",
+    "longitude": "13.0493",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AT",
+      "IT"
+    ],
+    "links": "\n[Friulian](https://endangeredlanguages.com/lang/3400)\n[Friulian](https://lexibank.clld.org/languages/saenkoromance-friulian)\nhttps://en.wikipedia.org/wiki/Friulian_language\nhttps://phoible.org/languages/friu1240\nhttps://www.wikidata.org/entity/Q33441"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:decia:21**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:bsoc:Morgana:Friuli**\n**hh:e:Krasnovskaya:Friuli**\n**hh:g:Faggin:Friulana**\n**hh:g:Gartner:Raetoromanische**\n**hh:g:Zof:Furlane**\n**hh:hs:HaimanBeninca:Rhaeto-Romance**\n**hh:phon:Finco:Furlan-Central**\n**hh:s:Beninca:Friulian**\n**hh:s:Frau:Friuli**\n**hh:s:Haiman:Rhaeto-Romance**\n**hh:s:Nazzi:Furlane**\n**hh:s:Vanelli:Friuli**\n**hh:s:dellaPorta:Friulana**\n**hh:ssoc:HeinemannMelchior:Friulana**\n**hh:st:Gregor:Friulian**\n**mpieva:1996Lesdiffe**"
+  },
+  "altnames": {
+    "multitree": "\nFrioulan\nFrioulian\nFriulano\nFriulian\nFurlan\nPriulian",
+    "lexvo": "\nBahasa Friuli [id]\nBahasa Friulia [ms]\nFfriŵleg [cy]\nFrioels [li]\nFriolan [oc]\nFrioulan [fr]\nFriouleg [br]\nFriulaans [af]\nFriuli nyelv [hu]\nFriulian [en]\nFriulian language [en]\nFriuliera [eu]\nFriulin kieli [fi]\nFriulisch [nl]\nFriulisk [da]\nFriuliska [sv]\nFriulski jezik [hr]\nFriulu valoda [lv]\nFriulčina [sk]\nFriúl [ast]\nFriülès [ca]\nFurlan [gv]\nFurlanek [kw]\nFurlanische Sprache [bar]\nFurlanština [cs]\nFurlanščina [sl]\nFurlańsko godka [szl]\nFut-liù-li-ngî [hak]\nFôrlan [wa]\nIdioma friulano [es]\nIdioma friulán [an]\nJęzyk friulski [pl]\nLenghe furlane [fur]\nLengua friulana [lij]\nLimba friuliană [ro]\nLingua Foroiuliensis [la]\nLingua friulana [co]\nLingua furlana [rm]\nLíngua friulana [pt]\nZimanê fûrlanî [ku]\nfrioulan [fr]\nФриулски език [bg]\nФриульский язык [ru]\nФрыульская мова [be]\nФурлански језик [sr]\nՖրիուլիերեն [hy]\nפורלן [he]\nፍሪዩልያን [am]\nフリウリ語 [ja]\n弗留利语 [zh]",
+    "hhbib_lgcode": "\nFriulan",
+    "elcat": "\nFrioulan\nFrioulian\nFriulano\nFriulian\nFurlan\nPriulian"
+  },
+  "triggers": {
+    "lgcode": "\ngramatiche\nfurlane\nlenghe\nfriulana\nfriulian"
+  },
+  "identifier": {
+    "multitree": "fur",
+    "endangeredlanguages": "3400"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Friulian (3400-fur) = Vulnerable (80 percent certain, based on the evidence available) (Many children learn the language, but often stop using it at school age) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Satawalese",
+    "hid": "stw",
+    "level": "language",
+    "iso639-3": "stw",
+    "latitude": "7.36084",
+    "longitude": "147.038",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Satawalese](https://endangeredlanguages.com/lang/5426)\n[Satawalese](https://grambank.clld.org/languages/sata1237)\n[Satawalese](https://lexibank.clld.org/languages/abvdoceanic-Satawalese)\nhttps://en.wikipedia.org/wiki/Satawalese_language\nhttps://phoible.org/languages/sata1237\nhttps://www.wikidata.org/entity/Q28477"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Sauchomal:Satawalese**\n**hh:g:Roddy:Satawalese**\n**hh:hvw:Jackson:Trukic**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Quackenbush:Sonsorol-Truk**\n**hh:lde:HambruchSarfert:Polowat**\n**mpieva:Jackson1984Theinter**"
+  },
+  "altnames": {
+    "multitree": "\nSatawal\nSatawalese\nSatawalés",
+    "lexvo": "\nSatawalese [en]",
+    "hhbib_lgcode": "\nSatawal\nSatowal",
+    "elcat": "\nSatawalese"
+  },
+  "triggers": {
+    "lgcode": "\nsatawal\nsatawalese"
+  },
+  "identifier": {
+    "multitree": "stw",
+    "endangeredlanguages": "5426"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jackson:Trukic**",
+    "subrefs": "\n**hh:hvw:Jackson:Trukic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Satawalese (5426-stw) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

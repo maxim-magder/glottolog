@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Huautla Mazatec",
+    "hid": "mau",
+    "level": "language",
+    "iso639-3": "mau",
+    "latitude": "18.2556",
+    "longitude": "-96.724",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mazatec (Huautla)](https://wals.info/languoid/lect/wals_code_mzh)\nhttps://www.wikidata.org/entity/Q63278779"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cowan:46**\n**cldf:cowan:47**\n**cldf:golston:kehrein:97**\n**hh:d:Maximiano:Mazateco**\n**hh:d:Pike:Mazateco**\n**hh:hv:Gudschinsky:Mazatec**\n**hh:hv:Gudschinsky:Mazatec-Dialect**\n**hh:hvw:Fernandez:Popoloca**\n**hh:hvwphon:Kirk:Mazatec**\n**hh:hw:Lehmann:Zentral-Amerika:II**\n**hh:ld:Cowan:Silbado**\n**hh:s:Cowan:Mazatec**\n**hh:s:Garcia:Mazateco-Huautla**\n**hh:s:Pike:Huautla-Jimenez-Mazatec**\n**hh:typ:Cowan:Mazatec**\n**hh:typ:Cowan:Mazateco**\n**hh:typ:Gudschinsky:Mazatec**\n**hh:typ:Gudschinsky:Mazatec-text**\n**hh:typ:LeonardFulcrand:Mazatec**\n**hh:typ:Mora:Mazahua**\n**hh:v:Gudschinsky:Mazatec-Dialect-Borrowing**\n**sil16:10450**\n**sil16:10451**\n**sil16:10452**\n**sil16:10453**\n**sil16:10455**\n**sil16:10456**\n**sil16:10461**\n**sil16:10463**\n**sil16:10469**\n**sil16:10908**\n**sil16:10914**\n**sil16:10919**\n**sil16:11935**\n**sil16:11936**\n**sil16:11938**\n**sil16:11941**\n**sil16:11948**\n**sil16:11950**\n**sil16:11958**\n**sil16:12060**\n**sil16:12066**\n**sil16:12634**\n**sil16:15535**\n**sil16:16331**\n**sil16:31013**\n**sil16:31016**"
+  },
+  "altnames": {
+    "wals": "\nMazatec (Huautla)",
+    "ruhlen (1987)": "\nMasateko",
+    "moseley & asher (1994)": "\nMazatec",
+    "multitree": "\nHighland Mazatec\nHuantla de Jimenez\nHuautla-Mazatlán Masateko\nMasateko\nMazatec\nMazatec (Huautla)\nMazatec, Huautla\nMazateco\nMazateco (Huautla)\nMazateco de Huautla de Jimenez\nMazateco de Mazatlán\nMazateco de Tecóatl\nMazateco de la Sierra\nMazateco de la sierra\nMazatèque d'Eloxochitlán\nMazatèque de Huehuetlán\nMazatèque de Mazatlán\nMazatèque de Tecoatl\nMazatèque des hautes terres",
+    "lexvo": "\nHuautla Mazatec [en]",
+    "hhbib_lgcode": "\nA subdialect of the Central Highlands close to the Huautla dialect described by Pike\nCrescencio Morales (San Mateo)\nH Huautla de Jimenez\nHuautla de Jiménez\nM San Miguel Huautla\nMazatec-Huautla\nMazateco San José Independencia\nMazateco de Huautla de Jiménez in Oaxaca from Gudschinsky\nMazateco de Río Santiago-Huautla\nSJ Santa Maria Jiotes\nSM San Mateo Huautla\nSan Mateo Huautla\nSan Miguel Huautla\nSanta María Jiotes"
+  },
+  "triggers": {
+    "lgcode": "\nvelada\nmariposa\nhuautla\nindustria\nkernel\nmazatecos\nNOT mazateca AND NOT en AND NOT oaxaca AND mazateco\nimpurity\njimenez"
+  },
+  "identifier": {
+    "wals": "mzh",
+    "multitree": "mau"
+  },
+  "classification": {
+    "sub": "**hh:hv:Leonard:Mazateco**:20-21 **hh:hv:Leonard:Mazatec-Patterns**:246-247",
+    "subrefs": "\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hv:Leonard:Mazateco**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Highland Mazatec (1277-mau) = Vulnerable; Chilchotla Mazatec (1280-) = Vulnerable"
+  }
+}

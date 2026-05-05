@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mashi (Nigeria)",
+    "hid": "jms",
+    "level": "language",
+    "iso639-3": "jms",
+    "latitude": "6.91719",
+    "longitude": "10.2778",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11028619"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Blench:Atlas:2020**\n**hh:h:Ethnologue:17**\n**hh:w:Koops:Baissa**"
+  },
+  "altnames": {
+    "multitree": "\nMashi\nNigeria",
+    "lexvo": "\nMashi (Nigeria) [en]\nMashi [en]",
+    "hhbib_lgcode": "\nMairago-Mashi\nMashi"
+  },
+  "triggers": {
+    "lgcode": "\nparlons AND democratique"
+  },
+  "identifier": {
+    "multitree": "jms"
+  },
+  "classification": {
+    "sub": "**hh:soc:BryeBrye:Bebe-Kemezung** **hh:hsoc:BryeBrye:Eastern-Beboid** **hh:h:Blench:Atlas:2020**",
+    "subrefs": "\n**hh:hsoc:BryeBrye:Eastern-Beboid**\n**hh:h:Blench:Atlas:2020**\n**hh:soc:BryeBrye:Bebe-Kemezung**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mashi (jms-jms) = 6b* (Threatened)."
+  }
+}

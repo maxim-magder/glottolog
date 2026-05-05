@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Muduapa",
+    "hid": "wiv",
+    "level": "language",
+    "iso639-3": "wiv",
+    "latitude": "-4.69751",
+    "longitude": "149.489",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Muduapa](https://grambank.clld.org/languages/mudu1242)\n[Vitu](https://lexibank.clld.org/languages/abvdoceanic-Vitu)\nhttps://en.wikipedia.org/wiki/Vitu_language\nhttps://www.wikidata.org/entity/Q3121040"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:goodenough:54:2**\n**cldf:vandenberg:07:2**\n**cldf:vandenberg:08**\n**hh:g:vandenBergBachet:Vitu**\n**hh:hv:Ross:WMelanesia**\n**hh:w:Friederici:Nakanai**\n**iso6393:2011-154**\n**mpieva:Berg2006Vitugram**\n**sil16:47341**"
+  },
+  "altnames": {
+    "multitree": "\nBali-Vitu\nMuduapa\nVitu\nWitu",
+    "lexvo": "\nMuduapa [en]\nMuduapa jezik [hr]\nVitu [fr]\nVitu language [en]",
+    "hhbib_lgcode": "\nBali-Vitu (Vitu)\nVitu-Inseln"
+  },
+  "triggers": {
+    "lgcode": "\nsketch AND vitu"
+  },
+  "identifier": {
+    "multitree": "wiv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vitu (wiv-wiv) = 4 (Educational)."
+  }
+}

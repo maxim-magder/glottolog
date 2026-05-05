@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Kosraean",
+    "hid": "kos",
+    "level": "language",
+    "iso639-3": "kos",
+    "latitude": "5.31",
+    "longitude": "162.98",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM",
+      "NR"
+    ],
+    "links": "\n[Kosraean](https://endangeredlanguages.com/lang/4428)\n[Kosraean](https://grambank.clld.org/languages/kosr1238)\n[Kosraean](https://wals.info/languoid/lect/wals_code_kos)\n[Kusaie](https://lexibank.clld.org/languages/abvdoceanic-Kusaie)\nhttps://en.wikipedia.org/wiki/Kosraean_language\nhttps://www.wikidata.org/entity/Q33464"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:athens:07**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:buck:05**\n**cldf:calculator:14**\n**cldf:dobbin:11**\n**cldf:ed:10**\n**cldf:good:ed:89**\n**cldf:keesing:84:2**\n**cldf:kennedy:05**\n**cldf:lewis:ed:09**\n**cldf:np:14:5**\n**cldf:np:15:6**\n**cldf:np:nd:264**\n**cldf:peoples:91**\n**cldf:ritter:80**\n**cldf:sou:22**\n**cldf:younger:09**\n**hh:d:Lee:Kusaiean**\n**hh:e:Sarfert:Kusae:1919**\n**hh:g:Lee:Kusaiean**\n**hh:lde:Sarfert:Kusae:1920**\n**hh:s:Vesper:Kusaien**\n**hh:typ:Good:Kosraean**\n**hh:typ:Lee:Kusaiean**\n**hh:typ:Vesper:Kusaien**\n**mpieva:Good1989Papersin**\n**sil16:23749**"
+  },
+  "altnames": {
+    "wals": "\nKosraean",
+    "wals other": "\nKusaiean",
+    "ruhlen (1987)": "\nKusaiean",
+    "moseley & asher (1994)": "\nKosraean",
+    "multitree": "\nKosrae\nKosraean\nKosreano\nKusaie\nKusaiean",
+    "lexvo": "\nKosraean [en]\nKosraean language [en]\nKosraeanische Sprache [de]\nKosraen kieli [fi]\nKosraės kalba [lt]\nkosrae [fr]\nコスラエ語 [ja]\n코스라에어 [ko]",
+    "hhbib_lgcode": "\nKusae\nKusaiean\nKusaien",
+    "elcat": "\nKosrae\nKosraean\nKusaie"
+  },
+  "triggers": {
+    "lgcode": "\nkusaiean\nkosraean"
+  },
+  "identifier": {
+    "wals": "kos",
+    "multitree": "kusa;kos",
+    "endangeredlanguages": "4428"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping** **hh:vphon:Hughes:Nauruan**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:vphon:Hughes:Nauruan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kosraean (4428-kos) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

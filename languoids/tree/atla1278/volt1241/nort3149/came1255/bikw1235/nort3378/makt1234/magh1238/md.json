@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mághdì",
+    "hid": "gmd",
+    "level": "language",
+    "iso639-3": "gmd",
+    "latitude": "9.2888",
+    "longitude": "11.0232",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Maɣdi](https://lexibank.clld.org/languages/kleinewillinghoeferbikwinjen-Maghdi)\n[Mághdì](https://endangeredlanguages.com/lang/5025)\nhttps://en.wikipedia.org/wiki/Maghdi_language\nhttps://www.wikidata.org/entity/Q3914475"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:e:Adelberger:Kode-Widala**\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hvw:NortonOthaniel:Jen**\n**hh:hvw:Othaniel:Jen**"
+  },
+  "altnames": {
+    "glottolog": "\nMaghdi",
+    "multitree": "\nMághdì\nTala\nWidala",
+    "lexvo": "\nMághdì [en]",
+    "hhbib_lgcode": "\nMaghdi\nTala\nTala/Maghdi",
+    "elcat": "\nMaghdi\nMághdì\nTala\nWidala"
+  },
+  "triggers": {
+    "lgcode": "\nwidala"
+  },
+  "identifier": {
+    "multitree": "gmd",
+    "endangeredlanguages": "5025"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonOthaniel:Jen** **hh:hv:Kleinewillinghofer:Adamawa:2020**:224 **hh:hvld:Kleinewillinghofer:Adamawa**:96",
+    "subrefs": "\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hv:Kleinewillinghofer:Adamawa:2020**\n**hh:hvw:NortonOthaniel:Jen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mághdì (5025-gmd) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

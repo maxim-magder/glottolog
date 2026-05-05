@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Sirayaic",
+    "hid": "fos",
+    "level": "language",
+    "iso639-3": "fos",
+    "latitude": "22.9777",
+    "longitude": "120.315",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Siraya](https://endangeredlanguages.com/lang/9630)\n[Siraya](https://wals.info/languoid/lect/wals_code_sry)\n[Sirayaic](https://grambank.clld.org/languages/sira1267)\nhttps://en.wikipedia.org/wiki/Sirayaic_languages\nhttps://www.wikidata.org/entity/Q2107202",
+    "timespan": "1661-01-01/1908-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:00:2**\n**cldf:adelaar:13:1**\n**cldf:adelaar:13:2**\n**cldf:adelaar:97:1**\n**cldf:adelaar:99**\n**cldf:blevins:08:3**\n**cldf:campbell:03**\n**cldf:campbell:96**\n**cldf:guzman:ed:00:3**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:li:06:3**\n**cldf:li:10**\n**cldf:np:14:5**\n**cldf:np:16:1**\n**cldf:peiros:08**\n**cldf:ross:92**\n**cldf:shepherd:93**\n**hh:ew:Taintor:Northern-Formosa**\n**hh:g:Adelaar:Siraya**\n**hh:hld:Muller:Formosa**\n**hh:hv:Li:EFormosans**\n**hh:hv:Li:Siraya-Taivuan-Makatau**\n**hh:s:Adelaar:Siraya**\n**hh:v:Adelaar:Siraya**\n**hh:w:Bullock:Formosa**\n**hh:w:Ogawa:Formosa**\n**hh:w:Ogawa:Formosa:2016**\n**hh:w:Steere:Formosa**\n**hh:w:TsuchidaYamada:Siraya**\n**hh:w:vonKlaproth:Formosan**\n**hh:wb:Terrien:Formosa**"
+  },
+  "altnames": {
+    "wals": "\nSiraiya",
+    "moseley & asher (1994)": "\nSiraya",
+    "multitree": "\nBaksa\nFormosan\nFormosanisch\nPepo-Hwan\nPepohoan\nSideia\nSideis\nSideisch\nSiraia\nSiraiya\nSiraya\nSprache von Formosa",
+    "lexvo": "\nLingua Siraya [it]\nSiraya [en]\nSiraya language [en]\n西拉雅語 [zh]",
+    "hhbib_lgcode": "\nMakatao\nMakatao-JA\nMakatau\nMakattao\nPepo\nPepo-hwan\nPepo-whan\nPepohwan\nSideis-Formosan\nSiraia\nSiraia-Bakwa-Thomson\nSiraia-Pepohwan-Bullock\nSiraia-Sideia-Balbi\nSiraia-Sideia-Klaproth\nSiraia-Sideia-MA\nSiraia-Sideia-MR\nSiraia-Sideia-Vlis\nSiraia-Sinkang-Gravius\nSiraiya\nSiraya\nTaivoan\nTaivuan",
+    "glottolog": "\nSiraya",
+    "elcat": "\nBaksa\nFormosan\nFormosanisch\nPepo-Hwan\nPepohoan\nSideia\nSideis\nSideisch\nSiraia\nSiraiya\nSiraya\nSprache von Formosa\n西拉雅語"
+  },
+  "triggers": {
+    "lgcode": "\nnaoyoshi\nsiraya"
+  },
+  "identifier": {
+    "wals": "sry",
+    "multitree": "fos",
+    "endangeredlanguages": "9630"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Siraya (9630-fos) = Awakening [Adelaar 2011](cldf:adelaar:11)"
+  }
+}

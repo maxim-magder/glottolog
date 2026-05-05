@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wom (Nigeria)",
+    "hid": "wom",
+    "level": "language",
+    "iso639-3": "wom",
+    "latitude": "8.92708",
+    "longitude": "12.4533",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Perema_language\nhttps://www.wikidata.org/entity/Q3913378"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10724**\n**eballiso2009:29255**\n**eballiso2009:39198**\n**eballiso2009:57562**\n**hh:e:Fardon:Pere-Chamba**\n**hh:hew:Meek:Tribal:I**\n**hh:vw:Blench:Perema**"
+  },
+  "altnames": {
+    "multitree": "\nPere\nPereba\nPerema\nWom",
+    "lexvo": "\nWom (Nigeria) [en]\nWom [en]",
+    "hhbib_lgcode": "\nPere\nWom"
+  },
+  "triggers": {
+    "lgcode": "\nchamba\nperema"
+  },
+  "identifier": {
+    "multitree": "wom"
+  },
+  "classification": {
+    "sub": "**hh:vw:Blench:Perema**",
+    "subrefs": "\n**hh:vw:Blench:Perema**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wom (wom-wom) = 6a* (Vigorous)."
+  }
+}

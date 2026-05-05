@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tsum",
+    "hid": "ttz",
+    "level": "language",
+    "iso639-3": "ttz",
+    "latitude": "28.4719",
+    "longitude": "85.0817",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NP"
+    ],
+    "links": "\n[Tsum](https://endangeredlanguages.com/lang/3490)\nhttps://en.wikipedia.org/wiki/Tsum_language\nhttps://www.wikidata.org/entity/Q12953223"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:DonohueDhakal:Tsum**\n**hh:hv:Bielmeier:Himalayas**\n**hh:hv:vanDriem:Himalayas**\n**hh:hvw:Webster:North-Gorkha**\n**hh:hwsoc:Webster:North-Gorkha**\n**hh:ld:DhakalDonohue:Tsum**\n**hh:phon:Liu:Tsum**\n**hh:s:Liu:Tsum**\n**hh:typ:Dhakal:Tsum**"
+  },
+  "altnames": {
+    "multitree": "\nTsum\nTsumge",
+    "lexvo": "\nTsum [en]",
+    "elcat": "\nTsum\nTsumge",
+    "hhbib_lgcode": "\nTsC Chekampar Tsum Chekamp. Gorkha"
+  },
+  "identifier": {
+    "multitree": "ttz",
+    "endangeredlanguages": "3490"
+  },
+  "classification": {
+    "sub": "**hh:ld:DhakalDonohue:Tsum**:45-46 **hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hv:TournadreSuzuki:Tibetic**\n**hh:ld:DhakalDonohue:Tsum**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tsum (3490-ttz) = Threatened (20 percent certain, based on the evidence available) (Most domains) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hong Kong-Macau Sign Language",
+    "hid": "hks",
+    "level": "language",
+    "iso639-3": "hks",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "longitude": "113.555225",
+    "latitude": "22.160631",
+    "links": "\n[Hong Kong Sign Language](https://endangeredlanguages.com/lang/7184)\nhttps://www.wikidata.org/entity/Q17038844\nhttps://en.wikipedia.org/wiki/Hong_Kong_Sign_Language\n[Hong Kong Sign Language](https://wals.info/languoid/lect/wals_code_hks)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tang:03**\n**cldf:woodward:12**\n**hh:d:Goodstadt:Sign-Hongkong**\n**hh:d:Tang:Hong-Kong-Sign**\n**hh:ld:Tang:Hong-Kong-Sign**\n**hh:s:Tang:Hong-Kong-Sign**\n**hh:soc:Hurlbut:Sign-Taiwan**\n**hh:typ:Gan:Hong-Kong-Sign**\n**hh:typ:Hakguder:Iconicity-Sign**\n**hh:typ:He:Classifier-Hong-Kong-Tianjin-Beijing**\n**hh:typ:Koenders:Hong-Kong-Sign**\n**hh:typ:Lau:Hong-Kong-Sign**\n**hh:typ:Sze:Hong-Kong-Sign**\n**hh:typ:SzeTang:Hong-Kong-Sign**\n**hh:typ:Tang:Hong-Kong-Sign**\n**hh:typ:Wong:Macao-Sign**\n**iso6393:2007-028**"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND taiwan"
+  },
+  "identifier": {
+    "wals": "hks",
+    "endangeredlanguages": "7184"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hong Kong Sign Language (7184-hks) = Threatened (20 percent certain, based on the evidence available) [Woodward 2012](cldf:woodward:12)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nHong Kong Sign Language\nHong Kong Sign Language (HKSL)\nMacao Sign Language",
+    "elcat": "\nHeung Kong Sau Yue\nHong Kong Sign Language\n香港手語"
+  },
+  "classification": {
+    "sub": "**hh:h:FischerGong:East-Asian-Sign**:499-500, **hh:phon:Gu:Shanghai-Sign**:2-3, **hh:hv:Woodward:Sign-Asian**",
+    "subrefs": "\n**hh:h:FischerGong:East-Asian-Sign**\n**hh:phon:Gu:Shanghai-Sign**\n**hh:hv:Woodward:Sign-Asian**"
+  }
+}

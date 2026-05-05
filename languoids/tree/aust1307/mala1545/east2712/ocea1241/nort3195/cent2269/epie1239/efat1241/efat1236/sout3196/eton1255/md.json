@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Eton (Vanuatu)",
+    "hid": "etn",
+    "level": "language",
+    "iso639-3": "etn",
+    "latitude": "-17.74",
+    "longitude": "168.549",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Eton](https://endangeredlanguages.com/lang/10803)\n[Eton](https://lexibank.clld.org/languages/abvdoceanic-Eton)\nhttps://en.wikipedia.org/wiki/Eton_language_(Vanuatu)\nhttps://www.wikidata.org/entity/Q3059362"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3912**\n**hh:hv:Clark:Efatic**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Efate\nEpwau\nEton",
+    "lexvo": "\nEton (Vanuatu) [en]\nEton [en]",
+    "hhbib_lgcode": "\nEton",
+    "elcat": "\nEton"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "etn",
+    "endangeredlanguages": "10803"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eton (10803-etn) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

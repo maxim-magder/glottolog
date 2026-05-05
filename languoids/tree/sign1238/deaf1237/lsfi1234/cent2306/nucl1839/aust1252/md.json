@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Austrian Sign Language",
+    "hid": "asq",
+    "level": "language",
+    "iso639-3": "asq",
+    "latitude": "48.1197",
+    "longitude": "16.225",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AT"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36668\nhttps://en.wikipedia.org/wiki/Austrian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:FZGS:Osterreichischen-Gebardensprache**\n**hh:g:Skant:Osterreichischen-Gebardensprache**\n**hh:s:Schalber:Austrian-Sign**\n**hh:typ:Krebs:Austrian-Sign-Syntax**\n**hh:typ:Krebs:OGS**\n**hh:typ:Krebs:OGS-Agreement**\n**hh:typ:Krebs:OGS-Agreement-Distributional**\n**hh:typ:Krebs:OGS:2013**\n**hh:typ:Lackner:OGS**\n**hh:typ:Lackner:OGS:2017**\n**hh:typ:Wilbur:ASL-OGS**"
+  },
+  "altnames": {
+    "multitree": "\nAustrian Sign Language\nAustro-Hungarian Sign Language",
+    "lexvo": "\nAustrian Sign Language [en]\nAustrijski znakovni jezik [hr]\nLíngua de Sinais Austríaca [pt]\nÖsterreichische Gebärdensprache [de]\nØsterriksk tegnspråk [no]",
+    "hhbib_lgcode": "\nÖsterreichischen Gebärdensprache"
+  },
+  "identifier": {
+    "multitree": "asq"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Austrian Sign Language (asq-asq) = 5 (Developing). Recognized language (2005, Constitution, Section 8(3) as amended)."
+  },
+  "classification": {
+    "sub": "A Central European sign language is borne out by lexical comparison (**hh:h:Bickford:EEurope**) and is consistent with historical information (**hh:h:Woll:Global-Sign**:28, **hh:h:Rutkowski:Eastern-Europe**:796).",
+    "subrefs": "\n**hh:h:Rutkowski:Eastern-Europe**\n**hh:h:Woll:Global-Sign**\n**hh:h:Bickford:EEurope**"
+  }
+}

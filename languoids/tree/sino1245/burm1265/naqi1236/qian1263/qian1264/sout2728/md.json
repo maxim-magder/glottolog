@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southern Qiang",
+    "hid": "qxs",
+    "level": "language",
+    "iso639-3": "qxs",
+    "latitude": "31.5392",
+    "longitude": "103.384",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Qiang (Taoping)](https://lexibank.clld.org/languages/gaotb-QiangTaoping)\n[Southern Qiang](https://endangeredlanguages.com/lang/5613)\n[Southern Qiang](https://grambank.clld.org/languages/sout2728)\nhttps://en.wikipedia.org/wiki/Southern_Qiang_language\nhttps://www.wikidata.org/entity/Q56563"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1533**\n**asjp2010:2738**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:hongkai:81**\n**cldf:lapolla:03:1**\n**cldf:roche:suzuki:17**\n**cldf:sun:01**\n**hh:g:Huang:Puxi**\n**hh:g:Huang:Puxi-Qiang:2007**\n**hh:g:Wang:Luobozhai-Qiang**\n**hh:g:Zheng:Longxi-Qiang**\n**hh:g:Zheng:Longxi-Qiang:2016**\n**hh:h:Hattaway:China**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Sims:Qiang**\n**hh:hvld:deLacouperie:China**\n**hh:hvwphon:Evans:Qiang**\n**hh:hvwphon:Evans:Qiang:2001**\n**hh:hvwphon:Sun:Qiang**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:s:Sun:Qiang**\n**hh:s:Sun:Qiang:2007**\n**hh:s:Zheng:Longxi-Qiang**\n**hh:typ:WangDong:Luobozhai-Qiang**\n**hh:w:Wang:Qiang**\n**mpieva:Sun1981Qiangyuj**"
+  },
+  "altnames": {
+    "multitree": "\nCh'iang\nNorthern\nQiang\nQiang, Southern\nQiang,Southern\nSouthern\nSouthern Qiang",
+    "lexvo": "\nSouthern Qiang [en]\nSouthern Qiang language [en]\nTchiangeg ar su [br]\nภาษาเกวียงใต้ [th]",
+    "hhbib_lgcode": "\nChiang-S Daqishan\nChiang-S Longxi\nChiang-S Mianchi\nChiang-S Taoping\nDownward-e Southern Qiang\nEastern Lixian\nEastern Lixing\nInward-ji Southern Qiang\nLongxi\nLongxi Qiang\nLuobozhai Qiang\nMianchi\nN Wenchuan\nOuter Man-Zhu\nPuxi\nQiang (Southern) Taoping\nQiang-Longxi\nQiang-Southern\nQiang-Taoping\nS Wenchuan\nTaoping\nTaoping Qiang\nW Lixian\nWestern Lixian",
+    "elcat": "\nQiang\nSouthern Qiang\n羌語南部方言"
+  },
+  "triggers": {
+    "lgcode": "\nyanjiu AND qiangyu"
+  },
+  "identifier": {
+    "multitree": "qxs",
+    "endangeredlanguages": "5613"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sims:Qiang**",
+    "subrefs": "\n**hh:hv:Sims:Qiang**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Qiang (5613-qxs) = Threatened (60 percent certain, based on the evidence available) [LaPolla and Huang 2003](cldf:lapolla:03:1)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Plautdietsch",
+    "hid": "pdt",
+    "level": "language",
+    "iso639-3": "pdt",
+    "latitude": "49.578028",
+    "longitude": "-109.353868",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Plautdietsch](https://grambank.clld.org/languages/plau1238)\nhttps://en.wikipedia.org/wiki/Plautdietsch\nhttps://phoible.org/languages/plau1238\nhttps://www.wikidata.org/entity/Q1751432"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Neufeld:Plautdietsch**\n**hh:d:Rempel:Plautdietsch**\n**hh:d:Thiessen:Plautdietsch**\n**hh:dial:Vogel-Shire:Katharinenstadter-Deutsch**\n**hh:e:Kloberdanz:German-Russians**\n**hh:g:Johnson:Volga-German**\n**hh:g:McCaffery:Plautdietsch**\n**hh:g:Nieuweboer:Altai-Plautdiitsch**\n**hh:g:Nieuweboer:Altai-Plautdiitsch:1999**\n**hh:h:Siemens:Mennoniten**\n**hh:hb:Strauch:German-American**\n**hh:ldsoc:Moelleken:Mennoniten**\n**hh:ldsoc:deGraaf:Plaudietsch**\n**hh:phon:Nieuweboer:Niznemetskogo**\n**hh:phonsoc:Bonebrake:Low-German-Kansas**\n**hh:s:Baerg:Gnadenau-Low-German**\n**hh:s:Buchheit:Plautdietsch**\n**hh:s:Jedig:Niederdeutschen-Altai**\n**hh:s:Jedig:Niznemetskogo**\n**hh:s:Johnson:Volga-German**\n**hh:s:Kanakin:Plautdietsch-Westsibirien**\n**hh:s:Keel:Herzog-Kansas**\n**hh:s:Moelleken:Molotschna**\n**hh:s:Neufeld:Plautdietsch**\n**hh:s:Quiring:Chortitza**\n**hh:s:Sraml:Nemetskix**\n**hh:soc:Hipperdinger:Alemanes-Buenos-Aires**\n**hh:soc:Rohkohl:Plautdietsche-Chaco**\n**hh:soc:deGraaf:Plaudietsch**\n**hh:socvtyp:Muhlan:Mennonitendeutsch**\n**sil16:18581**\n**sil16:19265**\n**sil16:47158**"
+  },
+  "altnames": {
+    "multitree": "\nBajo alemán\nGeldersch\nLow German\nMennonite German\nMennoniten Platt\nNeuniederdeutsch\nPlautdietsch",
+    "lexvo": "\nAlamaneg ar Venonited [br]\nBlattdeitsch [pdc]\nMinnistedútsk [fy]\nPlautdietsch [ca]\nНемецко-платский диалект [ru]\n門諾低地德語 [zh]",
+    "hhbib_lgcode": "\nChortitza\nMennonite \"Plautdietsch\" in York and Hamilton counties Nebraska\nMolotschna- und Chortitzamennoniten in British Columbia/Kanada\nNiznemetskogo dialekta Atlajskogo Kraja\nPlattdietsch\nPlautdietsche Sprachinsel Fernheim/Chaco (Paraguay)\nPlautdietsche Sprachinsel in Fernheim/Paraguay\nPlautdiitsch from Danzig in Siberia\nPlautdiitsch in Siberia"
+  },
+  "triggers": {
+    "lgcode": "\nmennonite\nplautdietsch"
+  },
+  "identifier": {
+    "multitree": "pdt"
+  },
+  "classification": {
+    "sub": "**hh:h:Siemens:Mennoniten**",
+    "subrefs": "\n**hh:h:Siemens:Mennoniten**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Plautdietsch (401-pdt) = Definitely endangered"
+  }
+}

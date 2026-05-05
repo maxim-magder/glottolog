@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wutunhua",
+    "hid": "wuh",
+    "level": "language",
+    "iso639-3": "wuh",
+    "latitude": "35.269",
+    "longitude": "101.957",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Wutunhua](https://endangeredlanguages.com/lang/1311)\n[Wutunhua](https://grambank.clld.org/languages/wutu1241)\nhttps://en.wikipedia.org/wiki/Wutun_language\nhttps://www.wikidata.org/entity/Q1012917"
+  },
+  "classification": {
+    "sub": "**hh:s:Janhunenetal:Wutun**:11-12",
+    "subrefs": "\n**hh:s:Janhunenetal:Wutun**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:acuo:04**\n**cldf:dongzhou:08**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:roche:suzuki:17**\n**cldf:zhuoma:atshogs:14**\n**elpub:ldd53**\n**hh:g:Sandman:Wutun**\n**hh:g:Zhou:Zhoutun:2016**\n**hh:g:Zhou:Zhoutun:2022**\n**hh:htyp:HZZZBW:Wutun**\n**hh:ld:Chen:Wutun:1988**\n**hh:ld:Chen:Wutun:1989**\n**hh:s:Chen:Wutun**\n**hh:s:Chen:Wutun:1986**\n**hh:s:Janhunenetal:Wutun**\n**hh:s:Lee-SmithWurm:Wutun**\n**hh:s:Xi:Wutun**\n**hh:typ:Chen:Wutun**\n**hh:typ:Sandman:Wutun**\n**hh:typ:Zhou:Zhoutun**\n**mpieva:Janhunen2008Wutun**"
+  },
+  "altnames": {
+    "multitree": "\nWutun\nWutunhua",
+    "lexvo": "\nWutunhua [en]",
+    "elcat": "\nWutun\nWutunhua\n五屯話",
+    "hhbib_lgcode": "\nZhoutun"
+  },
+  "triggers": {
+    "lgcode": "\nwutun"
+  },
+  "identifier": {
+    "multitree": "wuh",
+    "endangeredlanguages": "1311"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wutunhua (1311-wuh) = Endangered (40 percent certain, based on the evidence available) [Dongzhou 2008](cldf:dongzhou:08)"
+  }
+}

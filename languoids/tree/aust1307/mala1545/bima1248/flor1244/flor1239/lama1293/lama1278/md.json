@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Peripheral Lembata",
+    "hid": "lmr",
+    "level": "language",
+    "iso639-3": "lmr",
+    "latitude": "-8.53225",
+    "longitude": "123.442",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6480787\nhttps://en.wikipedia.org/wiki/Lamalera_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Barnes:Lamalera**\n**hh:g:Keraf:Lamalera**\n**hh:hv:Doyle:Flores-Lembata**\n**hh:hvw:Keraf:Lamalera**\n**hh:typ:Demon:Lamalera**\n**hh:typ:Manggarani:Lamalera**\n**hh:w:Aritonang:Swadesh-Flores-Timur**\n**hh:w:Stokhofetal:Holle:6**"
+  },
+  "altnames": {
+    "multitree": "\nKawela\nLamalera\nLebatukan\nMulan",
+    "lexvo": "\nLamalera [en]",
+    "hhbib_lgcode": "\nBelang\nLamahora\nLamalera\nLamalera A/B\nLebatukan\nMerdeka\nMulan\nPeripheral Lembata\nSolor as spoken in Lamelera (Lomblen)\nWest Coast Lembata\nWuakerong",
+    "glottolog": "\nPeripherial Lembata"
+  },
+  "triggers": {
+    "lgcode": "\nlamalera"
+  },
+  "identifier": {
+    "multitree": "lmr"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Fricke:Flores-Lembata**:171-228 **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:131-139",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**\n**hh:hvs:Fricke:Flores-Lembata**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lamalera (lmr-lmr) = 6b (Threatened)."
+  }
+}

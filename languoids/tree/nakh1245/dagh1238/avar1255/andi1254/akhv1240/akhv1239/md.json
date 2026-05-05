@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Northern Akhvakh",
+    "hid": "akv",
+    "level": "language",
+    "iso639-3": "akv",
+    "latitude": "42.4003",
+    "longitude": "46.3037",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Akhvakh](https://endangeredlanguages.com/lang/941)\nhttps://www.wikidata.org/entity/Q56423\nhttps://en.wikipedia.org/wiki/Akhvakh_language\n[Akhvakh](https://wals.info/languoid/lect/wals_code_axv)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3021**\n**cldf:boguslavskaja:89**\n**cldf:creissels:06:1**\n**cldf:creissels:66:2**\n**cldf:creissels:66:3**\n**cldf:creissels:66:4**\n**cldf:creissels:66:5**\n**cldf:creissels:66:7**\n**cldf:creissels:66:8**\n**cldf:ed:10**\n**cldf:gudava:64**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Magomedova:Axvaxsko**\n**hh:hvld:Dirr:Ando-Didojskoj**\n**hh:s:Creissels:Northern-Akhvakh**\n**hh:s:Magomedbekova:Axvaxskij:2000**\n**hh:st:Magomedbekova:Axvaxskij**\n**mpieva:Magomedova2007Achvachs**"
+  },
+  "altnames": {
+    "wals": "\nAkhvakh",
+    "ruhlen (1987)": "\nAkhvakh",
+    "moseley & asher (1994)": "\nAxvax",
+    "multitree": "\nAjvaj\nAkhvakh\nAxvax",
+    "lexvo": "\nAc'hvac'heg [br]\nAhvahin kieli [fi]\nAkhvakh [en]\nAkhvakh language [en]\nJęzyk achwaski [pl]\nLingua akhvakh [gl]\nLíngua akhvakh [pt]\nАхвахски јазик [mk]\nАхвахский язык [ru]\nАхвахська мова [uk]",
+    "hhbib_lgcode": "\nAkhvakh\nAxvaxskij\nNorthern Akhvakh\nNorthern Axvax",
+    "elcat": "\nAkhvakh\nAkhwakh\nAxvax\nАшвaлъи мицIи\nавахский язык",
+    "glottolog": "\nAkhvakh"
+  },
+  "triggers": {
+    "lgcode": "\nakhvakh\naxvaxskij\nakhvakhsko\nandijskix"
+  },
+  "identifier": {
+    "wals": "axv",
+    "multitree": "akv",
+    "endangeredlanguages": "941"
+  },
+  "classification": {
+    "sub": "**hh:s:Magomedbekova:Axvaxskij:2000**:307-308",
+    "subrefs": "\n**hh:s:Magomedbekova:Axvaxskij:2000**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Akhvakh (941-akv) = Threatened (60 percent certain, based on the evidence available) (There may be up to 5,000 speakers, including many children, but because of the small size of the community and the dominant position of Avar, the language must be regarded as definitely endangered.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

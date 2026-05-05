@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Slovak",
+    "hid": "slk",
+    "level": "language",
+    "iso639-3": "slk",
+    "latitude": "48.545705",
+    "longitude": "18.78479",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AT",
+      "CZ",
+      "HU",
+      "PL",
+      "RS",
+      "SK",
+      "UA"
+    ],
+    "links": "\n[Slovak](https://lexibank.clld.org/languages/northeuralex-slk)\n[Slovak](https://wals.info/languoid/lect/wals_code_svk)\nhttps://en.wikipedia.org/wiki/Slovak_language\nhttps://phoible.org/languages/slov1269\nhttps://www.wikidata.org/entity/Q9058"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:balaz:darovec:78**\n**cldf:debray:80**\n**cldf:dogil:99**\n**cldf:kralj:88**\n**cldf:letz:50**\n**cldf:malherbe:rosenberg:96**\n**cldf:mistrik:81**\n**cldf:rubach:91**\n**cldf:trnka:92**\n**hh:d:Cierna:Slowakisches**\n**hh:d:Kacala:Slovenskeho**\n**hh:g:Bartos:Slovaque**\n**hh:g:Boisserie:Slovaque**\n**hh:g:Naughton:Slovak**\n**hh:ld:HanulikovaHamann:Slovak**\n**hh:s:Mistrik:Slovak**\n**hh:s:Short:Slovak**\n**hh:v:Rocchi:Hungarian-Slovak**\n**mpieva:Krajcovic1975Ahistori**\n**mpieva:Rubach1993Thelexic**"
+  },
+  "altnames": {
+    "wals": "\nSlovak",
+    "ruhlen (1987)": "\nSlovak",
+    "moseley & asher (1994)": "\nSlovak",
+    "multitree": "\nEslovaco oriental\nSlovak\nSlovakian\nSlovaque oriental\nTschechisch-Slovakisch",
+    "lexvo": "\nAn tSlóvaicis [ga]\nBahasa Slovak [ms]\nBahasa Slowakia [id]\nBasa Slowakia [jv]\nEslovac [ca]\nEslovacu [ast]\nEslovakiera [eu]\nGjuha sllovake [sq]\nIdioma eslovaco [an]\nIsluwakya simi [qu]\nJęzyk słowacki [pl]\nKislovakia [sw]\nLenga slovaca [pms]\nLengua slovacca [lij]\nLimba slovacă [ro]\nLingua Slovaca [la]\nLingua eslovaca [gl]\nLingua slovacca [it]\nLingua sluvacca [co]\nLíngua eslovaca [pt]\nSlobhacais [gd]\nSlovackish [gv]\nSlovaco [frp]\nSlovak [en]\nSlovak dili [az]\nSlovak language [en]\nSlovaka lingvo [eo]\nSlovakeg [br]\nSlovakek [kw]\nSlovaki keel [et]\nSlovakiana linguo [io]\nSlovakimiusut [kl]\nSlovakisk [da]\nSlovakisk språk [nn]\nSlovakiska [sv]\nSlovakki [fi]\nSlovakça [tr]\nSlovakų kalba [lt]\nSlovaque [fr]\nSlovački jezik [bs]\nSlovaščina [sl]\nSlovenčina [sk]\nSlovenština [cs]\nSlovákiagiella [se]\nSlovāku valoda [lv]\nSlowaaks [af]\nSlowaaksk [fy]\nSlowak dili [tk]\nSlowakische Sprache [de]\nSlowaoks [zea]\nSluovaku kalba [lt]\nSlóvakíska [is]\nSzlovák nyelv [hu]\nSłowacczi jãzëk [csb]\nSłowacko godka [szl]\nSłowakska rěc [dsb]\nSłowakšćina [hsb]\nTiếng Slovak [vi]\nTok Slovakia [tpi]\nZimanê slovakî [ku]\nslovaque [fr]\nÈdè Slofákíà [yo]\nΣλοβακική γλώσσα [el]\nЗабони словакӣ [tg]\nКарпа́тьскословѣ́ньскъ ѩꙁꙑ́къ [cu]\nСлавацкая мова [be]\nСловак йылме [mhr]\nСловак хэл [mn]\nСловак чĕлхи [cv]\nСловакаг æвзаг [os]\nСловацкий язык [ru]\nСловацька мова [uk]\nСловачки јазик [mk]\nСловачки језик [sr]\nСловашки език [bg]\nՍլովակերեն [hy]\nסלאוואקיש [yi]\nסלובקית [he]\nزبان اسلواکیایی [fa]\nسلوۋاك تىلى [ug]\nلغة سلوفاكية [ar]\nস্লোভাক ভাষা [bn]\nภาษาสโลวัก [th]\nსლოვაკური ენა [ka]\nスロバキア語 [ja]\n斯洛伐克语 [zh]\n슬로바키아어 [ko]"
+  },
+  "triggers": {
+    "lgcode": "\nslovenskeho\nslovensky\nslowakisches\nslowakischen\nslovak\nvyslovnosti"
+  },
+  "identifier": {
+    "wals": "svk",
+    "multitree": "slk",
+    "languagelandscape": "http://languagelandscape.org/language/Slovak"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic** **hh:hv:Poljakov:Slavic** **hh:vldsoc:Hannan:Teschen-Silesia**:85-130",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**\n**hh:hv:Poljakov:Slavic**\n**hh:vldsoc:Hannan:Teschen-Silesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Vojvodina Rusyn (421-) = Definitely endangered; Eastern Slovak (1024-slk) = Vulnerable"
+  }
+}

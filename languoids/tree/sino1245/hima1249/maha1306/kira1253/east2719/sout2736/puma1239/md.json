@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Puma",
+    "hid": "pum",
+    "level": "language",
+    "iso639-3": "pum",
+    "latitude": "27.0774",
+    "longitude": "86.838",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Puma](https://endangeredlanguages.com/lang/1125)\n[Puma](https://grambank.clld.org/languages/puma1239)\nhttps://en.wikipedia.org/wiki/Puma_language\nhttps://www.wikidata.org/entity/Q33736"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2359**\n**cldf:bickel:gaenszle:etal:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:8**\n**cldf:np:nd:264**\n**cldf:rai:s:etal:09**\n**cldf:schackow:66:3**\n**cldf:sharma:10**\n**hh:g:Sharma:Puma**\n**hh:hwb:Rapacha:Kiranti**\n**hh:sd:Raietal:Puma**\n**hh:typ:Rai:Puma**\n**hh:typ:Stutz:Puma**"
+  },
+  "altnames": {
+    "multitree": "\nPuma\nPuma Kala\nPuma La\nPuma Pima",
+    "lexvo": "\nPoumeg [br]\nPuma [en]\nPuma language [en]\nPumaish [gv]\nПума [ru]\nภาษาปูมา [th]",
+    "elcat": "\nPuma\nPuma Kala\nPuma La\nPuma Pima"
+  },
+  "triggers": {
+    "lgcode": "\ntatha\npuma"
+  },
+  "identifier": {
+    "multitree": "pum",
+    "endangeredlanguages": "1125"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:62-68",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Puma (1125-pum) = Threatened (20 percent certain, based on the evidence available) [Sharma 2010](cldf:sharma:10)"
+  }
+}

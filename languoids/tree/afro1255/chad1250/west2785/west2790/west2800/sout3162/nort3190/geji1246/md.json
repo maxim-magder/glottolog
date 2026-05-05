@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gejic",
+    "level": "family",
+    "latitude": "10.3478",
+    "longitude": "9.64965",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Geji](https://endangeredlanguages.com/lang/2346)\n[Geji](https://lexibank.clld.org/languages/kraftchadic-Geji)\nhttps://en.wikipedia.org/wiki/Geji_language\nhttps://www.wikidata.org/entity/Q3914890"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:12:1**\n**cldf:caron:05:1**\n**cldf:caron:06**\n**cldf:caron:08**\n**cldf:caron:11:3**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**"
+  },
+  "altnames": {
+    "multitree": "\nGejawa\nGeji\nGezawa\nGroupe geji\nGrupo geji\nKayauri",
+    "lexvo": "\nGeji [en]",
+    "hhbib_lgcode": "\nBoolu\nBu\nBuu\nGezawa (Zul-Dorei-Tulai-Danshe-Kayauri)\nGezawa-Geji\nGyaanzi\nMagang\nMigang\nMәgang\nPelu",
+    "elcat": "\nBagba\nGaejawa\nGeeji\nGejawa\nGeji\nGezawa\nGyaazə\nGyannzi\nKaiyorawa\nKayauri",
+    "glottolog": "\nGeji"
+  },
+  "triggers": {
+    "lgcode": "\nzaranda\ngeji"
+  },
+  "identifier": {
+    "multitree": "gji",
+    "endangeredlanguages": "2346"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:SBauchi** **hh:typ:Caron:South-Bauchi-West** **hh:hv:Caron:Zaar-Voisins**:640-641",
+    "subrefs": "\n**hh:typ:Caron:South-Bauchi-West**\n**hh:hv:Caron:Zaar-Voisins**\n**hh:hvw:Shimizu:SBauchi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Geji (2346-gji) = Threatened (20 percent certain, based on the evidence available) [Blench 2012](cldf:blench:12:1)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Xaasongaxango",
+    "hid": "kao",
+    "level": "language",
+    "iso639-3": "kao",
+    "latitude": "14.1",
+    "longitude": "-10.95",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "ML",
+      "SN"
+    ],
+    "links": "\n[Xasonga](https://wals.info/languoid/lect/wals_code_xas)\nhttps://www.wikidata.org/entity/Q36905"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2146**\n**cldf:koite-herschel:82**\n**cldf:monteil:15**\n**eballiso2009:16876**\n**eballiso2009:27221**\n**eballiso2009:4279**\n**eballiso2009:52445**\n**eballiso2009:5372**\n**eballiso2009:54510**\n**hh:d:Delafosse:Mandingue**\n**hh:dial:Bird:Mandenkan**\n**hh:es:Monteil:Khassonke**\n**hh:g:Herschel:Xasonga**\n**hh:hb:Sullivan:Manding**\n**hh:he:Tauxier:Guinee**\n**hh:hv:BastinHalleux:Mande**\n**hh:hvld:Kane:Numeration-Ouest-Atlantiques-Mande**\n**hh:hvw:Delafosse:Mande:1901**\n**hh:hvw:Long:NMande**\n**hh:hvw:Vydrine:Mande**\n**hh:ld:Koite:Xasonga**\n**hh:s:Tveit:Khassonke**\n**hh:sv:Delafosse:Mandingue**\n**hh:w:Prost:Mana-Busa-Vocabulaires**"
+  },
+  "altnames": {
+    "wals": "\nXasonga",
+    "ruhlen (1987)": "\nXasonke",
+    "moseley & asher (1994)": "\nXasonke",
+    "multitree": "\nChassonke\nKasonke\nKasso\nKasson\nKassonke\nKhasonke\nKhassonka\nKhassonké\nXaasonga\nXaasongaxango\nXasonga\nXasonke",
+    "lexvo": "\nKhassonké [fr]\nXaasongaxango [en]\nXaasongaxango language [en]",
+    "hhbib_lgcode": "\nKasonke\nKhassonké\nKhassonkés\nMalinké du nord (khassonké)\nXaso\nXasonke\nXassongke"
+  },
+  "triggers": {
+    "lgcode": "\nNOT phonologique AND khassonke\nxasonga\nkhassonke"
+  },
+  "identifier": {
+    "wals": "xas",
+    "multitree": "kao"
+  },
+  "classification": {
+    "sub": "**hh:hv:Galtier:Mandingues**",
+    "subrefs": "\n**hh:hv:Galtier:Mandingues**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Xaasongaxango (kao-kao) = 5 (Developing). Recognized language (1996, Law 96-049 of 14 December)."
+  }
+}

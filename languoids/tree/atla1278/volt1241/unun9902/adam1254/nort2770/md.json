@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "North Fali",
+    "hid": "fll",
+    "level": "language",
+    "iso639-3": "fll",
+    "latitude": "9.9249",
+    "longitude": "13.6567",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Yingilum](https://lexibank.clld.org/languages/kraftchadic-Yingilum)\nhttps://www.wikidata.org/entity/Q12952419"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4149**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Kraft:Chadic:III**\n**hh:hw:Strumpell:Mandara-Adamaua**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phonvw:Sweetman:Fali**\n**hh:w:Lebeuf:Fali**\n**sil16:31680**"
+  },
+  "altnames": {
+    "multitree": "\nFali\nFali, North",
+    "lexvo": "\nNorth Fali [en]",
+    "hhbib_lgcode": "\nBori\nFali Angu\nFali Bosum\nFali Peské-Bori\nFali-North\nMaesso-Falli looks near-identical to Fali Peske Bori\nPeske\nYingilim\nYingilum (Benue-Congo) data seems to match Peske Fali\nYingilum data seems to match Peske Fali\nmontagnes du nord du Bori-Peske"
+  },
+  "triggers": {
+    "lgcode": "\nNOT in AND NOT le AND NOT de AND NOT of AND NOT du AND fali"
+  },
+  "identifier": {
+    "multitree": "fll"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boyd:Adamawa-Ubangi**:180",
+    "subrefs": "\n**hh:hv:Boyd:Adamawa-Ubangi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fali, North (fll-fll) = 6b* (Threatened)."
+  }
+}

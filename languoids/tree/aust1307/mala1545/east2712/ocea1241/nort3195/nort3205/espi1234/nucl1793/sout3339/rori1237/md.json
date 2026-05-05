@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mores",
+    "hid": "rga",
+    "level": "language",
+    "iso639-3": "rga",
+    "latitude": "-15.4048",
+    "longitude": "166.843",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Roria](https://lexibank.clld.org/languages/abvdoceanic-Roria)\n[Toksiki](https://endangeredlanguages.com/lang/5334)\nhttps://en.wikipedia.org/wiki/Toksiki_language\nhttps://www.wikidata.org/entity/Q7366825"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1572**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMores\nMorés\nRoria",
+    "lexvo": "\nRoria [en]",
+    "hhbib_lgcode": "\nKo/Mores (Farmores)\nRoria",
+    "elcat": "\nMores\nRoria\nSoisoru\nToksiki"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "rga",
+    "endangeredlanguages": "5334"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Toksiki (5334-rga) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

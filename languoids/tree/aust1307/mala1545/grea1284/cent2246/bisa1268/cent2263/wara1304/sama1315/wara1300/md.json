@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Waray (Philippines)",
+    "hid": "war",
+    "level": "language",
+    "iso639-3": "war",
+    "latitude": "11.4911",
+    "longitude": "125.012",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Waray (Philippines)](https://grambank.clld.org/languages/wara1300)\n[Waray-Waray](https://wals.info/languoid/lect/wals_code_wwy)\nhttps://en.wikipedia.org/wiki/Waray_language\nhttps://www.wikidata.org/entity/Q34279"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2281**\n**cldf:abuyen:00**\n**cldf:payne:oyzon:20**\n**cldf:payne:oyzon:22**\n**cldf:rubino:01:3**\n**cldf:tramp:97**\n**hh:d:Abuyen:Waray-Waray**\n**hh:d:Tramp:Waray**\n**hh:e:Lagrimas:Samar**\n**hh:g:Diller:Waray**\n**hh:g:Madeja:Waray**\n**hh:hv:Zorc:Bisayan**\n**hh:phon:Paguio:Waray**\n**hh:s:Balanquit:Samarnon**\n**hh:s:Ezguerra:Bisaya**\n**hh:s:Piczon:Waray**\n**hh:typ:Parer:Calbayog-Waray**\n**hh:w:Tizon:Samar-Leyte**"
+  },
+  "altnames": {
+    "wals": "\nWaray-Waray",
+    "wals other": "\nWaray (Philippines)\nWaray Waray",
+    "ruhlen (1987)": "\nSorsogon (Waray)",
+    "moseley & asher (1994)": "\nWaray (Meso-Phillipines)",
+    "multitree": "\nBinisaya\nBisaya\nSamar-Leyte\nSamaran\nSamareño\nWaray\nWaray-Waray",
+    "lexvo": "\nBahasa Waray-waray [id]\nIdioma samareño [es]\nJęzyk warajski [pl]\nPagsasao a Waray [ilo]\nWaray (Philippines) [en]\nWaray [en]\nWaray-Waray [bcl]\nWaray-waray [fr]\nWikang Waray-Waray [tl]\nWinaray [ceb]\nWinarayeg [br]\nWáray-Wáray [de]\nWáray-Wáray-ngî [hak]\nwaray [fr]\nВарайский язык [ru]\nภาษาวาราย-วาราย [th]\nዊናራይኛ [am]\nワライ語 [ja]",
+    "hhbib_lgcode": "\nBisaya of Leyte\nCalbayog Waray\nNinorte Samarnon\nNorthern Samar\nSamar\nSamar-Leyte\nWaray\nWaray-Waray"
+  },
+  "triggers": {
+    "lgcode": "\ncalbayog\ntopizalization\nutudnon"
+  },
+  "identifier": {
+    "wals": "genus/waray",
+    "multitree": "war"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Waray-Waray (war-war) = 3 (Wider communication). Statutory language of provincial identity in Samar, Leyte islands (1991, ACFLC Section 3(f)). Increasing since the second half of the 16th century under Spanish rule, Waray-Waray is native to and widely spoken in the Eastern Visayas Region of the Philippines. Used in daily life and most informal situations."
+  }
+}

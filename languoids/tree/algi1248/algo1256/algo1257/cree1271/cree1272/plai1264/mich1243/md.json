@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Heritage Michif",
+    "hid": "crg",
+    "level": "language",
+    "iso639-3": "crg",
+    "latitude": "49.1681",
+    "longitude": "-99.9119",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Michif](https://apics-online.info/contributions/75)\n[Michif](https://endangeredlanguages.com/lang/1755)\n[Michif](https://wals.info/languoid/lect/wals_code_mcf)\nhttps://en.wikipedia.org/wiki/Michif\nhttps://phoible.org/languages/mich1243\nhttps://www.wikidata.org/entity/Q13315"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:460**\n**cldf:bakker:papen:66**\n**cldf:chartrand:09**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cowan:ed:91:8**\n**cldf:fleury:04**\n**cldf:fleury:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:nichols:ed:01:5**\n**cldf:np:nd:264**\n**cldf:rhodes:09**\n**cldf:rosen:03**\n**cldf:sammons:11**\n**cldf:whidden:nd**\n**cldf:winford:ed:03:1**\n**hh:d:LaverdureAllard:Michif**\n**hh:e:Payment:Plains-Metis**\n**hh:phon:Zykoski:Michif**\n**hh:phontyp:Rosen:Michif**\n**hh:s:Bakker:Michif**\n**hh:s:BakkerPapen:Michif**\n**hh:s:Fleury:Michif**\n**hh:s:Rhodes:French-Cree**\n**hh:soc:BakkerPaper:Michif**\n**hh:soc:Cathers:Michif**\n**hh:soc:Saunders:Northern-Metis**\n**hh:soc:Wildeman:Michif**\n**hh:svsoc:Bakker:Michif**\n**hh:typ:Bakker:Michif**\n**hh:typ:Gillon:Michif**\n**hh:typ:Gillon:Michif:2018**\n**hh:typ:Lovell:Michif**\n**hh:typ:Sammons:Michif**\n**hh:typ:Weaver:Michif**\n**hh:typsoc:Papen:Hybrid-French-Canada**\n**hh:v:Bakker:Michif**\n**ldh:item_406170**\n**mpieva:2004LaLawngM**\n**mpieva:Bakker2004LearnMic**\n**mpieva:Bakker2007LaPchitS**\n**mpieva:Corne1995MetchifM**\n**sil16:15645**\n**sil16:19031**\n**sil16:40084**"
+  },
+  "altnames": {
+    "wals": "\nMichif",
+    "multitree": "\nFrench Cree\nMichif\nMitchif\nPlains Cree-French Mixed Language",
+    "lexvo": "\nJęzyk miszif [pl]\nMichif [da]\nMichif language [en]\nMichifeg [br]\nMiĉifa lingvo [eo]\nМичиф [ru]\n미치프어 [ko]",
+    "hhbib_lgcode": "\nFort Qu'Appelle Valley in Saskatchewan\nMichif\nPlains Métis\nSouthern Michif\nTurtle Mountain\nthe Saint Lazare and Sainte Madeleine area and Camperville and Duck Bay in Manitoba\nthe Turtle Mountains in North Dakota\nthe Wood Mountain and Cypress Hills area",
+    "elcat": "\nCree\nFrench Cree\nMichif\nMitchif\nMitif\nMétchif\nTurtle Mountain Chippewa Cree\naan krii",
+    "glottolog": "\nMichif"
+  },
+  "triggers": {
+    "lgcode": "\nmichif"
+  },
+  "identifier": {
+    "wals": "mcf",
+    "multitree": "crg",
+    "endangeredlanguages": "1755"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Michif (1755-crg) = Severely Endangered (80 percent certain, based on the evidence available) (No parents speak the language to their young children, but some grandparents use it with their grandchildren.) [Bakker 2013](cldf:bakker:13)"
+  },
+  "classification": {
+    "sub": "Michif is classified as a Plains Cree variety with a very large number of French loans. French-derived words in Michif have Cree stress patterns (and possibly also vowel length and nasality) **hh:phon:Zykoski:Michif** and several elements of the noun phrase are Cree-derived (animacy-alienability-demonstratives-quantifier syntax-derived nouns-adnominal relative clauses) as is the loss of elision and behaviour of articles **hh:s:Rhodes:French-Cree**, **hh:svsoc:Bakker:Michif**. Verb stems of French origin occur but usually need a derivational verbalising affix **hh:s:Rhodes:French-Cree**, **hh:svsoc:Bakker:Michif** in a manner similar to many other languages borrowing verbs. See also **hh:typ:Gillon:Michif:2018**:7-8 **hh:s:Rosen:Michif**:983.",
+    "subrefs": "\n**hh:svsoc:Bakker:Michif**\n**hh:phon:Zykoski:Michif**\n**hh:s:Rhodes:French-Cree**\n**hh:typ:Gillon:Michif:2018**\n**hh:s:Rosen:Michif**"
+  }
+}

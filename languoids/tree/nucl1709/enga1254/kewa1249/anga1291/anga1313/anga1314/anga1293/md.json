@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Angal",
+    "hid": "age",
+    "level": "language",
+    "iso639-3": "age",
+    "latitude": "-6.0127",
+    "longitude": "143.592",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q10951553"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Lederman:Mendi**\n**hh:e:Ryan:Mendi**\n**hh:e:Ryan:Mendi:1961**\n**hh:hv:Franklin:Engan**\n**hh:ld:Ryan:Mendi**\n**hh:phon:Rule:Mendi-Nembi**\n**hh:s:Madden:Mendi**"
+  },
+  "altnames": {
+    "multitree": "\nAngal\nEast Angal\nMendi\nNorth Mendi",
+    "lexvo": "\nAngal [en]",
+    "hhbib_lgcode": "\nMendi\nMendi station\nMendi/East Angal\nNortheastern Mendi"
+  },
+  "triggers": {
+    "lgcode": "\nmendi\nvalleys"
+  },
+  "identifier": {
+    "multitree": "age"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Franklin:Kewa** **hh:vw:Franklin:Samberigi**",
+    "subrefs": "\n**hh:hvtyp:Franklin:Kewa**\n**hh:vw:Franklin:Samberigi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Angal (age-age) = 5* (Developing)."
+  }
+}

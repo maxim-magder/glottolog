@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Marachi",
+    "hid": "lri",
+    "level": "language",
+    "iso639-3": "lri",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "longitude": "34.22",
+    "latitude": "0.34",
+    "links": "\nhttps://www.wikidata.org/entity/Q6754565\nhttps://en.wikipedia.org/wiki/Marachi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Kisembe:Luyia**\n**hh:hvtyp:Kanyoro:Abaluyia**\n**hh:typ:Marlo:Lumarachi**\n**iso6393:2007-171**"
+  },
+  "altnames": {
+    "multitree": "\nMarachi",
+    "lexvo": "\nMarachi [en]\nOlumarachi [en]",
+    "hhbib_lgcode": "\nMCH"
+  },
+  "triggers": {
+    "lgcode": "\nluluyia\nlumarachi"
+  },
+  "identifier": {
+    "multitree": "luy-mar"
+  },
+  "classification": {
+    "sub": "**hh:v:Mohlig:Kanyoro** **hh:hvtyp:Kanyoro:Abaluyia**",
+    "subrefs": "\n**hh:v:Mohlig:Kanyoro**\n**hh:hvtyp:Kanyoro:Abaluyia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Olumarachi (lri-lri) = 4 (Educational)."
+  }
+}

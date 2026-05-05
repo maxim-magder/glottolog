@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Zuni",
+    "hid": "zun",
+    "level": "language",
+    "iso639-3": "zun",
+    "latitude": "35.0056",
+    "longitude": "-108.782",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Zuni](https://endangeredlanguages.com/lang/627)\n[Zuni](https://grambank.clld.org/languages/zuni1245)\n[Zuni](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Zuni)\n[Zuni](https://lexibank.clld.org/languages/utoaztecan-Zuni)\n[Zuni](https://wals.info/languoid/lect/wals_code_zun)\nhttps://en.wikipedia.org/wiki/Zuni_language\nhttps://phoible.org/languages/zuni1245\nhttps://www.wikidata.org/entity/Q10188"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:benedict:34**\n**cldf:bunzel:30**\n**cldf:bunzel:32**\n**cldf:bunzel:35**\n**cldf:bybee:perkins:etal:94**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:75**\n**cldf:cushing:20**\n**cldf:cushing:96**\n**cldf:ed:10**\n**cldf:eggan:50**\n**cldf:eggan:pandey:79**\n**cldf:gifford:40**\n**cldf:goddard:ed:96:1**\n**cldf:goldman:37:2**\n**cldf:golla:goddard:etal:08**\n**cldf:kroeber:17:2**\n**cldf:leighton:adair:66**\n**cldf:lewis:ed:09**\n**cldf:miner:86**\n**cldf:nichols:88:2**\n**cldf:nichols:92**\n**cldf:nichols:97:2**\n**cldf:nichols:99**\n**cldf:np:96:4**\n**cldf:np:nd:264**\n**cldf:parsons:19**\n**cldf:roberts:56**\n**cldf:roberts:nd**\n**cldf:roulon-doko:ed:98:2**\n**cldf:schneider:roberts:56**\n**cldf:smith:roberts:54**\n**cldf:stevenson:04**\n**cldf:stevenson:09:3**\n**cldf:walker:72**\n**haspelmath:nichols_zuni_2008**\n**hh:d:Newman:Zuni**\n**hh:e:Ladd:Zuni**\n**hh:e:Woodbury:Zuni**\n**hh:g:Bunzel:Zuni**\n**hh:g:Nichols:Zuni**\n**hh:hv:Davis:Kiowa-Tanoan**\n**hh:hv:Manaster-Ramer:TonkawaZuni**\n**hh:s:Cook:Zuni**\n**hh:s:Granberry:Zuni**\n**hh:s:Newman:Zuni**\n**hh:s:Newman:Zuni:1965**\n**hh:w:Schoolcraft:Vocabularies:1854**\n**hh:w:Simpson:Pueblo**\n**mpieva:Bunzel1935Zuni**"
+  },
+  "altnames": {
+    "wals": "\nZuni",
+    "wals other": "\nZuñi",
+    "ruhlen (1987)": "\nZuni",
+    "moseley & asher (1994)": "\nZuni",
+    "multitree": "\nShiwi'ma\nZuni\nZuñi\nZuñí",
+    "lexvo": "\nAchiwieg [br]\nIdioma zuñi [es]\nZuni [en]\nZuni language [en]\nZuñi [de]\nzuni [fr]\nЗуни [ru]\nズニ語 [ja]",
+    "hhbib_lgcode": "\nPueblo of Zuñi\nZuñi",
+    "elcat": "\nShiwi'ma\nZuni\nZuñi"
+  },
+  "triggers": {
+    "lgcode": "\nzuni"
+  },
+  "identifier": {
+    "wals": "genus/zuni",
+    "multitree": "zun",
+    "endangeredlanguages": "627"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zuni (627-zun) = Threatened (60 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

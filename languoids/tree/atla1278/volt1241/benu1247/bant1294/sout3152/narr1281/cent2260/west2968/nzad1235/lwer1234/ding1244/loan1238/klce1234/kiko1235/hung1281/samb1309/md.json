@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Samba",
+    "hid": "smx",
+    "level": "language",
+    "iso639-3": "smx",
+    "latitude": "-6.21344",
+    "longitude": "17.1658",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11120157"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:25996**\n**hh:h:Colard:Batsamba**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:he:Matangila:Bandundu**\n**hh:he:Plancquaert:Jaga-Bayaka**\n**hh:he:Torday-Joyce:South-Western-Congo**\n**hh:he:Vansina:Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hvb:vanBulck:Congo**\n**hh:phon:Acker:Kitsamba**\n**hh:phonwtyp:Acker:Kisamba**\n**hh:vwtyp:Acker:Gisamba**\n**hh:w:KoniBostoen:Kwilu-Lexique**"
+  },
+  "altnames": {
+    "multitree": "\nSamba\nShankadi\nTsaam\nTsamba\nUsamba",
+    "lexvo": "\nSamba [en]",
+    "hhbib_lgcode": "\nBatsamba\nBatsamba between Wamba-Inzia district du Kwango\nGisamba\nKisamba\nKitsamba\nNsambaan\nNsambaan (Kwenge) Samba Yanz 7 d. tsambaan Kimatu L12a\nSaamba (Tsamba)\nSaamba (Tsamba) L12\nSamba\nSamba L12a\nTsaamba\nTsamba\nYanz 13 d. tsambaan Nkara B85\nYanz 7 d. tsambaan\nYanz 7 d. tsambaan this is Samba L12a see Pacchiarotti et al 2019:221\np 480 BaTsaamba",
+    "glottolog": "\nNtsambaan"
+  },
+  "triggers": {
+    "lgcode": "\nbatsamba\ntsamba\ntelephone\nntsambaan"
+  },
+  "identifier": {
+    "multitree": "smx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:177-179, 182-184, 190-191 **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo** **hh:vwtyp:Acker:Gisamba**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:vwtyp:Acker:Gisamba**\n**hh:hv:Bostoen:Aire-Kongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samba (smx-smx) = 6a (Vigorous)."
+  }
+}

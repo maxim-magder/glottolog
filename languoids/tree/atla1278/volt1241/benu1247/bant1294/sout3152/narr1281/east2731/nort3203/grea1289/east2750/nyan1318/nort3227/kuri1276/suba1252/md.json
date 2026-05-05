@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Suba-Simbiti",
+    "hid": "ssc",
+    "level": "language",
+    "iso639-3": "ssc",
+    "latitude": "-1.103296",
+    "longitude": "34.268",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7630687\nhttps://en.wikipedia.org/wiki/Suba-Simbiti_language\nhttps://phoible.org/languages/suba1252"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Mreta:Kimsimbiti**\n**hh:htyp:Aunio:Mara**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvtyp:Walker:Mara-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:s:WalkerOverton:Simbiti**\n**hh:typ:Masatu:Suba-Simbiti**\n**hh:typ:Oosterom:Kiroba**\n**hh:vld:Ojwang:Kirinchari-Kisimbiti**\n**hh:vld:Rottland:Suba**\n**hh:w:Kihore:Kihacha**\n**iso6393:2007-031**"
+  },
+  "altnames": {
+    "multitree": "\nKisimbiti\nKisuba\nSuba-Simbiti",
+    "lexvo": "\nSuba-Simbiti [en]",
+    "hhbib_lgcode": "\nHacha (Ha)\nIkiSimbete\nKihacha\nKine (Ki)\nKiroba\nKisimbiti\nMuhuru (Mu)\nOlusuba\nRieri (Ri)\nSimbiti\nSimbiti (Si)\nSuba of Tanzania\nSuna (Sun)\nSurwa (Sur)\nSweta (Sw)"
+  },
+  "triggers": {
+    "lgcode": "\nkisimbiti\nsimbiti"
+  },
+  "identifier": {
+    "multitree": "ssc"
+  },
+  "classification": {
+    "sub": "**hh:v:RothGibson:Ngoreme**:294, 305-307",
+    "subrefs": "\n**hh:v:RothGibson:Ngoreme**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Suba (96-sxb, ssc) = Vulnerable"
+  }
+}

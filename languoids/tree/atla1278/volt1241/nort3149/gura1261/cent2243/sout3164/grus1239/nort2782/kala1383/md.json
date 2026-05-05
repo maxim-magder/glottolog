@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kalamsé",
+    "hid": "knz",
+    "level": "language",
+    "iso639-3": "knz",
+    "latitude": "13.6106",
+    "longitude": "-3.10033",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "ML"
+    ],
+    "links": "\n[Kalamsé](https://endangeredlanguages.com/lang/4826)\nhttps://www.wikidata.org/entity/Q3914000\nhttps://en.wikipedia.org/wiki/Kalams%C3%A9_language"
+  },
+  "classification": {
+    "sub": "**hh:hb:Kleinewillinghofer:Gurunsi**:44-45",
+    "subrefs": "\n**hh:hb:Kleinewillinghofer:Gurunsi**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**eballiso2009:6648**\n**eballiso2009:6650**\n**eballiso2009:6660**\n**hh:phon:Kedrebeogo:Samoma**\n**hh:phontyp:Kedrebeogo:Samoma**"
+  },
+  "altnames": {
+    "glottolog": "\nKalamse",
+    "multitree": "\nKalamsé\nKalemsé\nKalenga\nSàmòmá\nSàmó",
+    "lexvo": "\nKalamsé [en]",
+    "hhbib_lgcode": "\nSamoma",
+    "elcat": "\nKalamsé\nKalemsé\nKalenga\nSàmòmá\nSàmó"
+  },
+  "triggers": {
+    "lgcode": "\nsamoma\nloroni\nyarses"
+  },
+  "identifier": {
+    "multitree": "knz",
+    "endangeredlanguages": "4826"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kalamsé (4826-knz) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

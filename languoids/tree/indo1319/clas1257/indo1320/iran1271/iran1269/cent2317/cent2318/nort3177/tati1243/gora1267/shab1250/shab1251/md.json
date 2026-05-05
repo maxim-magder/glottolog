@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Shabaki",
+    "hid": "sdb",
+    "level": "language",
+    "iso639-3": "sdb",
+    "latitude": "36.375",
+    "longitude": "43.144",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3289596\nhttps://en.wikipedia.org/wiki/Shabaki_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Kakeyi:Sebek**\n**hh:e:Vinogradov:Shabak**\n**hh:esoc:Leezenberg:Shabak**\n**hh:h:Blau:Gurani-Zaza**\n**hh:hv:Haig:Iranian-Northern-Iraq**\n**hh:t:Kakeyi:Sebekan**\n**hh:t:Kakeyi:Sebekan:Idyomen**\n**hh:typ:Sultan:Shabaki:Causatives**\n**hh:typ:Sultan:Shabaki:Light-Verb**\n**hh:typ:Sultan:Shabaki:Reciprocal**\n**hh:typ:Sultan:Shabaki:Serial-Verb**"
+  },
+  "altnames": {
+    "multitree": "\nIraq, Iran\nShabak",
+    "lexvo": "\nLíngua shabaki [pt]\nShabak [en]\nShabaki language [en]",
+    "hhbib_lgcode": "\nChabak\nSabaki\nShabak",
+    "glottolog": "\nShabak"
+  },
+  "triggers": {
+    "lgcode": "\nshabak\nbrokers"
+  },
+  "identifier": {
+    "multitree": "sdb"
+  },
+  "classification": {
+    "sub": "**hh:v:Paul:Zazaki**",
+    "subrefs": "\n**hh:v:Paul:Zazaki**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Hawrami (1802-bjm, hac, sdb, sdf) = Definitely endangered"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pa'o Karen",
+    "hid": "blk",
+    "level": "language",
+    "iso639-3": "blk",
+    "latitude": "20.211",
+    "longitude": "97.5969",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7121294\nhttps://en.wikipedia.org/wiki/Pa%27O_language\nhttps://phoible.org/languages/paok1235"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1829**\n**hh:d:Shintani:Kadaw**\n**hh:e:Hackett:Taungthu**\n**hh:h:Fryer:Burma**\n**hh:he:Diran:Burma**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hld:Grierson:12:Burma**\n**hh:hvw:Purser:Pwo-Karen**\n**hh:phon:Nishida:Pao**\n**hh:phon:Thanamteun:Taungthu**\n**hh:w:Tin:Taungthas**\n**ldh:item_406942**"
+  },
+  "altnames": {
+    "multitree": "\nBlack Karen\nKaren, Pa'o\nKaren,Pa’o\nKarennet\nNorthern Taungthu\nPa Oh\nPa'o\nPa-O\nPa-U\nPa-o\nPao\nTaungthu\nTaungtu",
+    "lexvo": "\nPa'o Karen [en]",
+    "hhbib_lgcode": "\nKadaw\nKaren-Pa'o\nPa-O or Taungthu\nSouthern Pa'o\nTaunghthus\nTaungtha\nTaungthu"
+  },
+  "triggers": {
+    "lgcode": "\npaan\ntower AND files\npao\npha\ntaungthu\nsalop"
+  },
+  "identifier": {
+    "multitree": "blk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Karen** **hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**\n**hh:hv:Manson:Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pa’o (blk-blk) = 5 (Developing)."
+  }
+}

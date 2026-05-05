@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Russia Buriat",
+    "hid": "bxr",
+    "level": "language",
+    "iso639-3": "bxr",
+    "latitude": "50.85331",
+    "longitude": "105.5637",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MN",
+      "RU"
+    ],
+    "links": "\n[Russia Buriat](https://grambank.clld.org/languages/russ1264)\n[Western Buryat](https://endangeredlanguages.com/lang/4012)\nhttps://phoible.org/languages/russ1264\nhttps://www.wikidata.org/entity/Q16116629"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:krader:54:1**\n**cldf:krader:54:2**\n**cldf:krader:57**\n**cldf:krader:63**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**hh:d:Ceremisov:Burjaad**\n**hh:d:Ceremisov:Buryat**\n**hh:e:Vyatkina:Buriats**\n**hh:g:Bertagaev:Burjatskogo**\n**hh:g:Castren:Burjatischen**\n**hh:g:Sanzheev:Buryatskogo**\n**hh:he:LevinPotapov:Sibiri**\n**hh:hv:Budaev:Burjatskie**\n**hh:hvw:Budaev:Burjatskix**\n**hh:s:Abasheev:Tunkinskij**\n**hh:s:Poppe:Buriat**\n**hh:s:Radnaev:Barguzinskij**\n**hh:s:Xomonov:Boxanskij**\n**hh:soc:Khabtagaeva:Sartul-Buryat**\n**hh:v:Afanaseva:Buryatskogo-Bargutskogo**\n**hh:vw:Clark:Buryat**\n**mpieva:Bertagaev1962Sintaksi**\n**mpieva:Bjuraeva1978Ritmomel**\n**mpieva:Poppe1997Buriatgr**\n**mpieva:Rassadin1999Stanovle**"
+  },
+  "altnames": {
+    "multitree": "\nBuriat\nBuriat, Russia\nBuriat-Mongolian\nBurjatisch\nBuryat\nNorthern Mongolian\nRussia Buriat",
+    "lexvo": "\nRussia Buriat [en]\nRussia Buriat language [en]",
+    "hhbib_lgcode": "\nA Western Buryat dialaect\nBarguzin\nBokhan\nBoxan\nBuriat-Russia\nBuryatskogo\nBuryaty\nFischer's A\nRussian Buryat\nSartul south of Lake Baikal in the Dzhida Region of Buryat Republic\nTunka\nTunkin",
+    "elcat": "\nBurjatisch\nBuryat\nNorthern Mongolian\nRussian Buriat\nWestern Buryat\nburiaad xelen\nburyaad xelen\nбуриад аялгуу\nбуряад хэлэн\nбурят-монгольский язык"
+  },
+  "triggers": {
+    "lgcode": "\nritmomelodika\nstanovlenie\nburiat"
+  },
+  "identifier": {
+    "multitree": "bxr",
+    "endangeredlanguages": "4012"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rybatzki:Mongolic**",
+    "subrefs": "\n**hh:hv:Rybatzki:Mongolic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Western Buryat (4012-bxr) = Endangered (60 percent certain, based on the evidence available) (Deteriorating due to interference from Russian, invariably known as a second language; Russian cultural impact has also been stronger on the speakers of Western Buryat than on those of Eastern Buryat.) [Salminen 2000](cldf:salminen:00)"
+  }
+}

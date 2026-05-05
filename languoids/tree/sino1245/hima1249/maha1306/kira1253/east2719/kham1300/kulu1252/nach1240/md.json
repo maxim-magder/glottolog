@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Nachering",
+    "hid": "ncd",
+    "level": "language",
+    "iso639-3": "ncd",
+    "latitude": "27.4202",
+    "longitude": "86.7001",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Nachering](https://endangeredlanguages.com/lang/3795)\nhttps://www.wikidata.org/entity/Q6957144\nhttps://en.wikipedia.org/wiki/Nachhiring_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:8**\n**cldf:np:nd:264**\n**hh:d:Nachiring:Nachiring**\n**hh:hvw:Grierson:3:I**\n**hh:ldsoc:Grollmann:Nachiring**\n**hh:typ:Rai:Nachiring**\n**hh:w:Hodgson:Kirantis**\n**hh:wsoc:Regmi:Nachhiring**"
+  },
+  "altnames": {
+    "multitree": "\nBangdale\nBangdel Tûm\nBangdile\nMathsereng\nNacchhering\nNacering Ra\nNachereng\nNachering\nNachering Tûm\nNacherín\nNacherēng\nNachiring\nNasring\nNatśhereng\nNāchhēreng",
+    "lexvo": "\nNachering [en]",
+    "hhbib_lgcode": "\nAiselukharka\nBakachol\nBangdel\nNacherang\nNacherong\nNachhereng\nNachhiring\nNachiring\nPara\nRakha",
+    "elcat": "\nBangdale\nBangdel Tûm\nBangdile\nMathsereng\nNacchhering\nNacering Ra\nNachereng\nNachering\nNachering Tûm\nNacherēng\nNasring\nNatśhereng\nNāchhēreng"
+  },
+  "identifier": {
+    "multitree": "ncd",
+    "endangeredlanguages": "3795"
+  },
+  "classification": {
+    "sub": "**hh:ldsoc:Grollmann:Nachiring**",
+    "subrefs": "\n**hh:ldsoc:Grollmann:Nachiring**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nachering (3795-ncd) = Vulnerable (20 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:8)"
+  }
+}

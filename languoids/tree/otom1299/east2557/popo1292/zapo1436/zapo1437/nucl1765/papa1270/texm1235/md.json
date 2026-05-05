@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Texmelucan Zapotec",
+    "hid": "zpz",
+    "level": "language",
+    "iso639-3": "zpz",
+    "latitude": "16.49197",
+    "longitude": "-97.08947",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Texmelucan Zapotec](https://endangeredlanguages.com/lang/10952)\n[Zapotec (Texmelucan)](https://wals.info/languoid/lect/wals_code_zte)\nhttps://en.wikipedia.org/wiki/Texmelucan_Zapotec\nhttps://www.wikidata.org/entity/Q7708357"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beamdeazcona:21**\n**cldf:speck:84**\n**hh:htyp:Marlett:Zapotecan-Syntax**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:Speck:Texmelucan-Zapotec**\n**hh:t:Speck:Zapotec-Texmelucan**\n**hh:typ:Speck:Zapotec-Texmelucan-Verb**\n**sil16:16614**\n**sil16:23713**\n**sil16:34947**\n**sil16:34955**\n**sil16:35093**"
+  },
+  "altnames": {
+    "wals": "\nZapotec (Texmelucan)",
+    "ruhlen (1987)": "\nSapateko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nCentral Sapoteko\nCentral Sola de Vega Zapotec\nCentral Zapoteco\nPapabuco\nSolteco\nTexmelucan Zapotec\nZapotec\nZapotec (Texmelucan)\nZapotec, Texmelucan\nZapoteco (Texmelucan)\nZapoteco de San Felipe Tejalápam\nZapoteco de San Lorenzo Texmelucan\nZapotèque de San Felipe Tejalapan",
+    "lexvo": "\nTexmelucan Zapotec [en]",
+    "hhbib_lgcode": "\nTexmelucan",
+    "elcat": "\nTexmelucan Papabuco\nTexmelucan Zapotec"
+  },
+  "triggers": {
+    "lgcode": "\ntexmelucan"
+  },
+  "identifier": {
+    "wals": "zte",
+    "multitree": "zpz",
+    "endangeredlanguages": "10952"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith-Stark:Zapotecas** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Smith-Stark:Zapotecas**"
+  }
+}

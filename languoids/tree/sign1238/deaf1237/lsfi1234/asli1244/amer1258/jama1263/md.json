@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Jamaican Sign Language",
+    "hid": "jls",
+    "level": "language",
+    "iso639-3": "jls",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "JM"
+    ],
+    "longitude": "-76.93205",
+    "latitude": "17.99968",
+    "links": "\nhttps://www.wikidata.org/entity/Q6127433\nhttps://en.wikipedia.org/wiki/Jamaican_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:s:Cumberbatch:Jamaican-Sign**\n**hh:soc:Dolman:Sign-Jamaica**\n**hh:ssoc:Cumberbatch:Urban-Deaf-Jamaica**\n**hh:v:Parks:Sign-Language-Comparisons**\n**iso6393:2009-047**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jamaican Sign Language (jls-jls) = 5 (Developing)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nUrban Jamaican Sign Language (like ASL)"
+  },
+  "classification": {
+    "sub": "The continuation of an ASL introduced in the 1960s (**hh:s:Cumberbatch:Jamaican-Sign**):511-512.",
+    "subrefs": "\n**hh:s:Cumberbatch:Jamaican-Sign**"
+  }
+}

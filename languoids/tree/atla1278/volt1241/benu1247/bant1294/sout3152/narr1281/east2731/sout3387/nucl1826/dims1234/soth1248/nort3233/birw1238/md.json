@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Birwa",
+    "hid": "brl",
+    "level": "language",
+    "iso639-3": "brl",
+    "latitude": "-22.17",
+    "longitude": "28.33",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "ZA",
+      "ZW"
+    ],
+    "links": "\n[Birwa](https://endangeredlanguages.com/lang/3812)\nhttps://www.wikidata.org/entity/Q3501019\nhttps://en.wikipedia.org/wiki/Birwa_language"
+  },
+  "classification": {
+    "sub": "**hh:hld:AnderssonJanson:Botswana**:41-42 **hh:hv:Batibo:Bantu-Botswana**:25",
+    "subrefs": "\n**hh:hld:AnderssonJanson:Botswana**\n**hh:hv:Batibo:Bantu-Botswana**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:e:Bobeng:Babirwa**\n**hh:e:Molelu:Babirwa**\n**hh:e:Nyathi:Babirwa**\n**hh:ew:vanWarmelo:Musina**\n**hh:h:Molosiwa:Babirwa**\n**hh:h:Westphal:Babirwa**\n**hh:he:vonSicard:Sambesi-Limpopo**\n**hh:hld:AnderssonJanson:Botswana**\n**hh:hv:Batibo:Bantu-Botswana**\n**hh:hv:Mokgokong:Northern-Sotho**\n**hh:hv:vanWyk:Sotho**\n**hh:hvwphon:Auer:Sotho**\n**hh:ld:BatiboSeloma:Sebirwa**\n**hh:ld:Chebanne:Sebirwa**\n**hh:ld:Zsiga:Sebirwa**\n**hh:t:Anonymous:Virwa**\n**hh:v:Sethibe:Sebirwa**\n**hh:vldsoc:Sommer:Sebirwa**"
+  },
+  "altnames": {
+    "lexvo": "\nBirwa [en]",
+    "hhbib_lgcode": "\nBabirwa\nBangwato-Babirwa\nSeBirwa\nSebirwa\nVirwa",
+    "elcat": "\nBirwa"
+  },
+  "triggers": {
+    "lgcode": "\nzoutpansberg\nmusina\nminers"
+  },
+  "identifier": {
+    "endangeredlanguages": "3812"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Birwa (3812-brl) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

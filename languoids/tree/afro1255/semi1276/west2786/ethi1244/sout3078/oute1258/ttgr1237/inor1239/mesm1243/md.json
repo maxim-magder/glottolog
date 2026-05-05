@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mesmes",
+    "hid": "mys",
+    "level": "language",
+    "iso639-3": "mys",
+    "latitude": "7.53825",
+    "longitude": "37.5742",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Mesmes](https://endangeredlanguages.com/lang/10861)\nhttps://www.wikidata.org/entity/Q3508617\nhttps://en.wikipedia.org/wiki/Mesmes_language",
+    "timespan": "2010-01-01/2010-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ahland:10**\n**eballiso2009:3347**\n**eballiso2009:41087**\n**hh:hv:Leslau:Gurage**\n**hh:hvtyp:Hetzron:Outer**\n**hh:hvw:Hudson:Northeast-African-Semitic**\n**hh:vw:ASLIP:El-Molo**\n**hh:vwsoc:Ahland:Mesmes**"
+  },
+  "altnames": {
+    "multitree": "\nIndegegn\nMesmes",
+    "lexvo": "\nMesmes [en]",
+    "elcat": "\nMesmes\nMäsmäs"
+  },
+  "triggers": {
+    "lgcode": "\nmesmes"
+  },
+  "identifier": {
+    "multitree": "mys",
+    "endangeredlanguages": "10861"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:vwsoc:Ahland:Mesmes**:98-103",
+    "subrefs": "\n**hh:vwsoc:Ahland:Mesmes**\n**hh:hv:Voigt:North-South-Ethiopian**\n**hh:hv:Weninger:Ethio-Semitic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mesmes (10861-mys) = Dormant [Ahland 2010](cldf:ahland:10)"
+  }
+}

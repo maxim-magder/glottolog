@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ladin",
+    "hid": "lld",
+    "level": "language",
+    "iso639-3": "lld",
+    "latitude": "46.60651",
+    "longitude": "11.89498",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Ladin](https://endangeredlanguages.com/lang/3392)\n[Ladin](https://wals.info/languoid/lect/wals_code_ldn)\nhttps://en.wikipedia.org/wiki/Ladin_language\nhttps://www.wikidata.org/entity/Q36202"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alton:68**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hack:66**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:meul:66**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:g:Bernardi:Gherdeina**\n**hh:g:Chiocchetti:Ladin**\n**hh:g:Elwert:Fassa**\n**hh:g:Gartner:Raetoromanische**\n**hh:g:Valentini:Ladin**\n**hh:hs:HaimanBeninca:Rhaeto-Romance**\n**hh:hvs:Hull:Northern-Italy-Rhaetia**\n**hh:phon:Chiocchetti:Fassa**\n**hh:phon:Heilmann:Moena**\n**hh:phon:Pellegrini:Agordini**\n**hh:s:Apollonio:Ampezzano**\n**hh:s:Haiman:Rhaeto-Romance**\n**hh:s:Salvi:Ladin**\n**hh:s:Salvi:Ladin:2016**\n**hh:s:Tagliavini:Comelico**\n**hh:s:Tagliavini:Livinallongo**\n**hh:s:Valentin:Ladin**\n**hh:s:Vittur:Ladin**\n**hh:sdial:Ascoli:Ladini**\n**hh:soc:Belardi:Ladina**\n**hh:typ:Casalicchio:Verb-Second-Rhaeto**\n**hh:vld:Toth:Ampezzo**\n**hh:vld:Toth:Plie-Fodom**\n**hh:w:Kramer:Ladinische**\n**mpieva:1996Lesdiffe**"
+  },
+  "altnames": {
+    "wals": "\nLadin",
+    "ruhlen (1987)": "\nLadin",
+    "moseley & asher (1994)": "\nLadin",
+    "multitree": "\nDolomite\nLadin\nLadino\nRaeto-Romance\nRhaetian\nRhaetian Latin\nRhaeto-Romance\nRhaeto-Romanic\nRheto-Romance",
+    "lexvo": "\nBahasa Ladin [id]\nDolomiana Latina lingua [la]\nIdioma ladino [es]\nIdioma ladín [an]\nJęzyk ladyński [pl]\nLadin [en]\nLadin nyelv [hu]\nLadina lingvo [eo]\nLadineg [br]\nLadinera [eu]\nLadinies [af]\nLadinisch [nl]\nLadinische Sprache [de]\nLadinish [gv]\nLadinisk [stq]\nLadinsk [no]\nLadinska [sv]\nLadinčina [sk]\nLadinština [cs]\nLadinų kalba [lt]\nLadí [ca]\nLenga ladin-a [pms]\nLenghe ladine [fur]\nLengua ladina [lmo]\nLimba ladină [ro]\nLingua ladina [gl]\nLíngua ladino-dolomítica [pt]\nŁéngoa ładina [vec]\nЈезик ладин [sr]\nЛадин йылме [mhr]\nЛадинский язык [ru]\nラディン語 [ja]\n拉登語 [zh]",
+    "hhbib_lgcode": "\nAgordini\nAmpezzano\nBadiotto\nComelico\nFassa-Tals\nGardenese\nLa Plie da Fodom\nLadina\nLadinische\nLadino\nLivinallongo\nMoena\nVal Badia\nVal di Fassa",
+    "elcat": "\nDolomite\nLadin\nLadino\nRhaeto-Romance\nRhaeto-Romanic"
+  },
+  "triggers": {
+    "lgcode": "\nlezions\nrumanisch\nraetoromanische\nmpare\ngherdeina\nladini\nrujeneda\ntredesc\nladina\nladin"
+  },
+  "identifier": {
+    "wals": "ldn",
+    "multitree": "lld;rhae",
+    "endangeredlanguages": "3392"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ladin (3392-lld) = Threatened (80 percent certain, based on the evidence available) (Some children learn the language, but many stop using it at school age.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Basketo",
+    "hid": "bst",
+    "level": "language",
+    "iso639-3": "bst",
+    "latitude": "6.45774",
+    "longitude": "36.5763",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Basketo](https://endangeredlanguages.com/lang/1383)\nhttps://www.wikidata.org/entity/Q56531\nhttps://en.wikipedia.org/wiki/Basketo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jensen:ed:59**\n**cldf:lewis:ed:09**\n**cldf:treis:11**\n**eballiso2009:21250**\n**eballiso2009:30016**\n**eballiso2009:33201**\n**eballiso2009:34419**\n**eballiso2009:34424**\n**eballiso2009:41300**\n**eballiso2009:4359**\n**hh:e:Doffana:Baskes**\n**hh:ew:Pauli:Splitterstamme**\n**hh:g:Sottile:Basketo**\n**hh:phon:TreisWerth:Baskeet-Phonological**\n**hh:s:Cerulli:Giangero**\n**hh:s:Inui:Basketo**\n**hh:typ:Azeb:Basketto**\n**hh:typ:Treis:Baskeet-Interrogativity**\n**hh:v:Girard:Ometo**\n**sil16:41938**\n**sil16:42893**\n**sil16:50361**"
+  },
+  "altnames": {
+    "multitree": "\nBaskatta\nBasketo\nBasketto\nMesketo",
+    "lexvo": "\nBasketo [ca]\nBasketo language [en]",
+    "hhbib_lgcode": "\nBaskeet\nBaskes",
+    "elcat": "\nBaskatta\nBasketo\nBasketto\nMesketo"
+  },
+  "triggers": {
+    "lgcode": "\nphonostatistical\nmesketo\nmasketo\nbasketto\nbasketo\nfidala"
+  },
+  "identifier": {
+    "multitree": "bst",
+    "endangeredlanguages": "1383"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Basketo (1383-bst) = Vulnerable (20 percent certain, based on the evidence available) (...endangered literary genres, namely songs, poems, prayers and ceremonial speech, which are being abandoned in the course of rapid socio-cultural changes.) [Treis 2011](cldf:treis:11)"
+  }
+}

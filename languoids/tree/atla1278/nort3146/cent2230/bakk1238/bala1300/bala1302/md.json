@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Balanta-Ganja",
+    "hid": "bjt",
+    "level": "language",
+    "iso639-3": "bjt",
+    "latitude": "12.5382",
+    "longitude": "-15.6658",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW",
+      "SN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q19359034\nhttps://phoible.org/languages/bala1302"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fudeman:00**\n**cldf:fudeman:04**\n**eballiso2009:52878**\n**hh:d:Mansaly:Balanta-Ganja**\n**hh:ew:Leprince:Basse-Casamance**\n**hh:g:CreisselsBiaye:Ganja**\n**hh:g:Fudeman:Balanta**\n**hh:g:Mbodj:Balante-Sofa**\n**hh:hvld:Kane:Numeration-Ouest-Atlantiques-Mande**\n**hh:phon:Biaye:Balante-Ganja**\n**hh:s:Creissels:Ganja-Balant**\n**hh:s:Ndiaye-Correard:Ganja**\n**hh:styp:Biaye:Balant-Ganja**\n**hh:t:Mansaly:Balant**\n**hh:typ:Mbodj:Balante-Sofa**"
+  },
+  "altnames": {
+    "multitree": "\nAlante\nBalanda\nBalant\nBalanta\nBalanta-Ganja\nBalante\nBallante\nBelante\nBrassa\nBulanda\nFjaa\nFraase",
+    "lexvo": "\nBalanta-Ganja [en]",
+    "hhbib_lgcode": "\nBalant (de la variété ganja)\nBalant Ganja\nBalante Sofa in Casamance Senegal\nBalantes\nBëlanta Ganja\nGanja\nSoofa"
+  },
+  "triggers": {
+    "lgcode": "\nganja\nfca"
+  },
+  "identifier": {
+    "multitree": "bjt"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017** **hh:hv:Merrill:Atlantic** **hh:hv:Merrill:Cangin**",
+    "subrefs": "\n**hh:hv:Merrill:Atlantic**\n**hh:hv:Merrill:Cangin**\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Balanta-Ganja (bjt-bjt) = 6b (Threatened). Recognized language (2005, Decree No. 979 of 21 October)."
+  }
+}

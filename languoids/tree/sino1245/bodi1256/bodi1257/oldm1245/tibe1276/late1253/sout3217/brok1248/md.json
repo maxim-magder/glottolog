@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Brokpake",
+    "hid": "sgt",
+    "level": "language",
+    "iso639-3": "sgt",
+    "latitude": "27.3438",
+    "longitude": "91.9972",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "IN"
+    ],
+    "links": "\n[Brokpake](https://endangeredlanguages.com/lang/1610)\nhttps://www.wikidata.org/entity/Q56603\nhttps://en.wikipedia.org/wiki/Brokpa_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Awan:Brokpa**\n**hh:d:Dzongkha:Brokat**\n**hh:e:Ramya:Brokpa**\n**hh:g:Wangdi:Brokpa**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:vanDriem:Bhutan**\n**hh:hv:TournadreSuzuki:Tibetic**\n**hh:hv:vanDriem:Himalayas**\n**hh:s:Dondrup:Brokeh**\n**hh:s:Gerber:Brokpa**\n**hh:vw:Blench:Monpa**"
+  },
+  "altnames": {
+    "multitree": "\nBrokpa\nBrokpake\nDakpa\nDamilo\nDap\nDrokpakay\nJobikha\nMera Sagtengpa\nMeragsagstengkha\nMira Sagtengpa\nSagtengpa\nSagtenpa",
+    "lexvo": "\nBrokpake [en]",
+    "hhbib_lgcode": "\nA Central Bodish language TODO Brokpake\nBrokeh of Nyokmadung\nBrokpa\nBrokpa of Merak and Sakteng\nMemba of the Mechuka valley\nMerak/Mera) and Sagteng\nSenge\nSenge close to Brokeh\nSengge",
+    "elcat": "\nBrokpa\nBrokpake\nDakpa\nDamilo\nDap\nDrokpakay\nJobikha\nMera Sagtengpa\nMeragsagstengkha\nMira Sagtengpa\nSagtengpa"
+  },
+  "triggers": {
+    "lgcode": "\nbrokeh\ndzala\nmemba"
+  },
+  "identifier": {
+    "multitree": "sgt",
+    "endangeredlanguages": "1610"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Bielmeier:Tibetan**:38-48 **hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hvw:Bielmeier:Tibetan**\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Brokpake (1610-sgt) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

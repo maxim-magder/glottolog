@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tokelau",
+    "hid": "tkl",
+    "level": "language",
+    "iso639-3": "tkl",
+    "latitude": "-9.227642",
+    "longitude": "-171.780833",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NZ",
+      "TK"
+    ],
+    "links": "\n[Tokelau](https://grambank.clld.org/languages/toke1240)\n[Tokelau](https://lexibank.clld.org/languages/abvdoceanic-Tokelau)\n[Tokelauan](https://endangeredlanguages.com/lang/3543)\n[Tokelauan](https://wals.info/languoid/lect/wals_code_tke)\nhttps://en.wikipedia.org/wiki/Tokelauan_language\nhttps://www.wikidata.org/entity/Q34097"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3088**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:foster:21:2**\n**cldf:hooper:00**\n**cldf:hooper:02**\n**cldf:hooper:97**\n**cldf:hovdhaugen:hoem:etal:88**\n**cldf:hovdhaugen:hoem:etal:89**\n**cldf:huntsman:91**\n**cldf:huntsman:96**\n**cldf:j:73**\n**cldf:keesing:84:2**\n**cldf:lewis:ed:09**\n**cldf:macgregor:37**\n**cldf:mcquarrie:07**\n**cldf:np:08:2**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:palmer:ed:00:1**\n**cldf:vonen:99**\n**hh:d:Simona:Tokelau**\n**hh:g:Hooper:Tokelauan**\n**hh:g:Sharples:Tokelauan**\n**hh:s:Hooper:Tokelauan**\n**hh:s:Hovdhaugen:Tokelau**\n**hh:s:Hovdhaugen:Tokelau:Muamua**\n**ldh:item_407186**\n**mpieva:1996OceanicS**\n**mpieva:Hoem1995Awaywith**\n**mpieva:Hovdhaugen1990AHandboo**\n**mpieva:Hovdhaugen1999Negation**\n**mpieva:Sharples1976Tokelaua**\n**mpieva:Vonen1997Partsofs**"
+  },
+  "altnames": {
+    "wals": "\nTokelauan",
+    "ruhlen (1987)": "\nTokelau",
+    "multitree": "\nFakaafo\nTokelau\nTokelauan\nTokelauano",
+    "lexvo": "\nIdioma tokelauano [es]\nJęzyk tokelau [pl]\nLíngua toquelauana [pt]\nTokelaa lingvo [eo]\nTokelau [en]\nTokelau jezik [sh]\nTokelauan [fr]\nTokelauan language [en]\nTokelauanska [sv]\nTokelaui nyelv [hu]\nTokelauische Sprache [de]\nTokelaun kieli [fi]\nTokelauski jezik [hr]\nTokelauà [ca]\ntokelau [fr]\nТокелау [ru]\nТокелауански јазик [mk]\nزبان توکلائویی [fa]\nلغة توكيلاوية [ar]",
+    "hhbib_lgcode": "\nTokelauan",
+    "elcat": "\nFakaafo\nTokelau\nTokelauan"
+  },
+  "triggers": {
+    "lgcode": "\ntokelau\ntokelauan"
+  },
+  "identifier": {
+    "wals": "tke",
+    "multitree": "tkl;toke",
+    "endangeredlanguages": "3543"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian** **hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tokelauan (3543-tkl) = Threatened (20 percent certain, based on the evidence available) [McQuarrie 2007](cldf:mcquarrie:07)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lemio",
+    "hid": "lei",
+    "level": "language",
+    "iso639-3": "lei",
+    "latitude": "-5.6964",
+    "longitude": "145.7817",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Lemio](https://lexibank.clld.org/languages/transnewguineaorg-lemio)\n[lemio](https://lexibank.clld.org/languages/zgraggenmadang-lemio)\nhttps://en.wikipedia.org/wiki/Lemio_language\nhttps://www.wikidata.org/entity/Q6521165"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**"
+  },
+  "altnames": {
+    "multitree": "\nLemio",
+    "lexvo": "\nLemio [en]",
+    "hhbib_lgcode": "\nGurumbu 71 with Lemio (and same as Lemio Z'graggen 1980:172)"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "lei"
+  },
+  "classification": {
+    "sub": "**hh:hv:ClaassenMcElhanon:Finisterre**:49 **hh:hw:Zgraggen:Rai**",
+    "subrefs": "\n**hh:hw:Zgraggen:Rai**\n**hh:hv:ClaassenMcElhanon:Finisterre**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lemio (lei-lei) = 6b* (Threatened)."
+  }
+}

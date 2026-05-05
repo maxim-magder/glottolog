@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sentani",
+    "hid": "set",
+    "level": "language",
+    "iso639-3": "set",
+    "latitude": "-2.6013",
+    "longitude": "140.512",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Sentani](https://grambank.clld.org/languages/nucl1632)\n[Sentani](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Sentani)\n[Sentani](https://wals.info/languoid/lect/wals_code_snt)\nhttps://en.wikipedia.org/wiki/Sentani_language\nhttps://phoible.org/languages/nucl1632\nhttps://www.wikidata.org/entity/Q3441672"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cremers:dendikken:ed:96:3**\n**cldf:hartzler:94**\n**cldf:nichols:92**\n**hh:d:Fautngil:Sentani**\n**hh:d:Mariati:Sentani**\n**hh:e:Lamster:Sentani**\n**hh:e:Wirz:Sentani:1929**\n**hh:e:Wirz:Sentanier**\n**hh:e:vanderSande:NNG**\n**hh:h:Mambrasar:Arso-Sentani**\n**hh:hv:Cowan:Papuan**\n**hh:hv:HartzlerGregerson:Proto-Tabla-Sentani**\n**hh:hv:Sanjoko:Nafri-Sentani-Tabla**\n**hh:hv:Voorhoeve:SentaniAsmat**\n**hh:hvld:DonohueCrowther:NCNG**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvwphon:Yoku:Sentani**\n**hh:hw:Galis:NNG**\n**hh:hw:Meyer:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:ld:Deda:Sentani**\n**hh:phon:Hartzler:Central-Sentani**\n**hh:s:Cowan:Sentani**\n**hh:s:Cowan:Sentani:1951**\n**hh:s:Mayer:Sentani**\n**hh:s:Onde:Sentani**\n**hh:typ:Hartzler:Central-Sentani**\n**hh:typ:Yaku:Sentani**\n**hh:vld:Sanjoko:Nafri-Sentani**\n**hh:w:Bink:Sentani**\n**hh:w:Moolenburgh:Sentani**\n**hh:w:Stokhof:Holle:5:2**\n**hh:w:Wirz:Sentanier**\n**mpieva:Elenbaas1999Eenunifi**\n**sil16:11075**\n**sil16:11904**\n**sil16:17324**\n**sil16:19934**\n**sil16:20242**\n**sil16:22855**\n**sil16:23531**\n**sil16:26252**\n**sil16:31727**\n**sil16:32711**\n**sil16:34739**\n**sil16:37197**\n**sil16:37367**"
+  },
+  "altnames": {
+    "wals": "\nSentani",
+    "wals other": "\nBuyaka",
+    "ruhlen (1987)": "\nSentani",
+    "moseley & asher (1994)": "\nSentani",
+    "multitree": "\nBuyaka\nSentani",
+    "lexvo": "\nSentani [en]\nSentani language [en]",
+    "hhbib_lgcode": "\nCentral Sentani\nEastern Sentani\nLake Sentani\nSentani (Co)\nSentani Central Dialect\nSentani Eastern Dialect\nWestern Sentani"
+  },
+  "triggers": {
+    "lgcode": "\nsentani\nbuyaka\nnaei\nsentanier\nliebenswurdigen"
+  },
+  "identifier": {
+    "wals": "genus/sentani",
+    "multitree": "set"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sanjoko:Nafri-Sentani-Tabla**",
+    "subrefs": "\n**hh:hv:Sanjoko:Nafri-Sentani-Tabla**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sentani (set-set) = 5* (Developing)."
+  }
+}

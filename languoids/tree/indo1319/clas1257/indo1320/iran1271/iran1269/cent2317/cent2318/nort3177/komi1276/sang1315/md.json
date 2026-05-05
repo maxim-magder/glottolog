@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sangisari",
+    "hid": "sgr",
+    "level": "language",
+    "iso639-3": "sgr",
+    "latitude": "35.72",
+    "longitude": "53.3",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Sangisari](https://endangeredlanguages.com/lang/9251)\nhttps://www.wikidata.org/entity/Q3394363\nhttps://en.wikipedia.org/wiki/Sangsari_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:np:nd:212**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Sutudah:Semnani**\n**hh:hs:Rogova:Iranskie**\n**hh:hvs:Christensen:Semnan**\n**hh:hvw:Zhukovskij:Persidskix:2**\n**hh:ld:Morgenstierna:Persian-Dialects**\n**hh:s:Rastorgueva:Sangesari**\n**hh:s:Windfuhr:Sangesari**\n**hh:sd:AzamiWindfuhr:Sangesari**"
+  },
+  "altnames": {
+    "multitree": "\nSangesari\nSangisari",
+    "lexvo": "\nSangisari [en]\nSangsari language [en]\nSengıserki [diq]\nزبان سنگسری [fa]\nภาษาซังกิซารี [th]",
+    "hhbib_lgcode": "\nSangesari\nSängesärī\nSèngisèr",
+    "elcat": "\nMahdi Shahri\nMehdishahri\nSangesari\nSangisari\nSangsari\nSengiseri\nSengsari\nSängesäri\nSängsari\nSängsäri"
+  },
+  "triggers": {
+    "lgcode": "\nsangesari"
+  },
+  "identifier": {
+    "multitree": "sgr",
+    "endangeredlanguages": "9251"
+  },
+  "classification": {
+    "sub": "**hh:s:Borjian:Aftar**:267",
+    "subrefs": "\n**hh:s:Borjian:Aftar**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sangisari (9251-sgr) = Vulnerable (60 percent certain, based on the evidence available) (Ethnologue 17 (2013) lists the vitality of Sangisari as 6a (vigorous).) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

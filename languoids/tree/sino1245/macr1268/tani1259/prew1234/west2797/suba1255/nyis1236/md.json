@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Nyishi-Hill Miri",
+    "hid": "njz",
+    "level": "language",
+    "iso639-3": "njz",
+    "latitude": "27.278263",
+    "longitude": "93.675529",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Nyishi](https://wals.info/languoid/lect/wals_code_nis)\n[Nyishi-Hill Miri](https://grambank.clld.org/languages/nyis1236)\nhttps://en.wikipedia.org/wiki/Nishi_language\nhttps://phoible.org/languages/nyis1236\nhttps://www.wikidata.org/entity/Q56870"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonymous:96:2**\n**cldf:grierson:ed:95:3**\n**cldf:ray:67**\n**hh:e:Kumar:Bangni**\n**hh:ew:Chutia:Hill-Miris**\n**hh:ew:Chutia:Nyishi**\n**hh:ew:MacGregor:Akas**\n**hh:ew:Robinson:Dophlas**\n**hh:he:vonFurer-Haimendorf:Subansiri**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Baruah:Sino-Tibetan-Arunachal**\n**hh:hv:Padun:NAssam**\n**hh:hv:PostSun:Tani**\n**hh:hvld:Sun:Tani**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Simon:Arunachal**\n**hh:s:Abraham:Nyishi**\n**hh:s:Bor:Yano-Dafla**\n**hh:s:DasGupta:Dafla**\n**hh:s:Goswami:Nishing**\n**hh:s:Hamilton:Dafla**\n**hh:s:Sharma:Nyishi**\n**hh:s:Simon:Hill-Miri**\n**hh:s:Tayeng:Nishi**\n**hh:sd:Tayu:Nyishi**\n**hh:typ:Chhangte:Nishi**\n**hh:typ:Lomdak:Tani**\n**hh:typ:Saha:Meitei-Nyishi**\n**iso6393:2011-132**"
+  },
+  "triggers": {
+    "lgcode": "\nyano\ndophlas\nbangni\nnyishi\nnishi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Hill Miri (10414-njz) = Threatened (60 percent certain, based on the evidence available)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAbor-Miri\nAka\nBangni\nDafla\nDaphla\nDophla\nHill Miri\nHill Miri-Gungu\nHill Miris\nMiri [mrg] and Dafla\nMising\nNishis\nNisi\nNyishi\nPadam\nYano Dafla\nnote that this Aka is actually of Dafla"
+  }
+}

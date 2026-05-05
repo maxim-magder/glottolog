@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Aringa",
+    "hid": "luc",
+    "level": "language",
+    "iso639-3": "luc",
+    "latitude": "3.56143",
+    "longitude": "31.3071",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS",
+      "UG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56556\nhttps://en.wikipedia.org/wiki/Aringa_language\nhttps://phoible.org/languages/arin1244"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Ladefogedetal:Uganda**\n**hh:hld:Maguire:Lugbara**\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**sil16:44808**\n**sil16:46568**\n**sil16:46569**"
+  },
+  "altnames": {
+    "multitree": "\nAringa\nLow Lugbara",
+    "lexvo": "\nAringa [en]\nAringa language [en]\nAringeg [br]\nАрингаски јазик [mk]",
+    "hhbib_lgcode": "\nLugabara Aringa\nN Lugbara"
+  },
+  "triggers": {
+    "lgcode": "\nti AND dri"
+  },
+  "identifier": {
+    "multitree": "luc"
+  },
+  "classification": {
+    "sub": "**hh:hld:Maguire:Lugbara** **hh:hwsoc:WatsonBoone:Moru-Madi** **hh:h:Ladefogedetal:Uganda**",
+    "subrefs": "\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**hh:h:Ladefogedetal:Uganda**\n**hh:hld:Maguire:Lugbara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aringa (luc-luc) = 5 (Developing)."
+  }
+}

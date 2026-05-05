@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Vono",
+    "hid": "kch",
+    "level": "language",
+    "iso639-3": "kch",
+    "latitude": "10.4357",
+    "longitude": "8.20774",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913920\nhttps://en.wikipedia.org/wiki/Vono_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Temple:NNigeria**\n**hh:he:Gunn:Pagan-Central**\n**hh:hel:Sommer:Survey**"
+  },
+  "altnames": {
+    "multitree": "\nKiballo\nKiwollo\nVono",
+    "lexvo": "\nVono [en]",
+    "hhbib_lgcode": "\nKauru-Kiballo\nKiballo"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND death"
+  },
+  "identifier": {
+    "multitree": "kch"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Avonnoh (kch-kch) = 6b* (Threatened)."
+  }
+}

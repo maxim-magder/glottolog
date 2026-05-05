@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Akeu",
+    "hid": "aeu",
+    "level": "language",
+    "iso639-3": "aeu",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA",
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Akeu](https://endangeredlanguages.com/lang/3597)\nhttps://www.wikidata.org/entity/Q4700657\nhttps://en.wikipedia.org/wiki/Akeu_language",
+    "longitude": "101.0823",
+    "latitude": "22.1959"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:johnson:07**\n**hh:d:Shintani:Gokhu**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:ld:Drewry:Ngwi**\n**hh:phon:Gong:Ake-Hua**\n**hh:phonw:Hansson:Gokhy-Akha**\n**hh:typ:Rice:Golden-Triangle**\n**hh:v:Hayashi:Menglun-Akeu**\n**hh:vld:Hansson:Akhe-Pahi-Akha**\n**hh:vw:Hayashi:Akeu**\n**iso6393:2007-015**"
+  },
+  "altnames": {
+    "multitree": "\nAkeu\nAki\nAkui",
+    "lexvo": "\nAkeu [en]",
+    "hhbib_lgcode": "\nAkhə Akha\nAkö tribe Kengtung State\nGokhu\nGokhy\nGɔkhy\nMenglun Akeu",
+    "elcat": "\nAkeu\nAki\nAkui\n阿克"
+  },
+  "identifier": {
+    "multitree": "aeu",
+    "endangeredlanguages": "3597"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Akeu (3597-aeu) = Threatened (20 percent certain, based on the evidence available) (All speakers also speak Akha, which is replacing Akeu in most places; they also know other dominant languages including some Tai language, and in China, also Chinese.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

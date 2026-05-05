@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Munji",
+    "hid": "mnj",
+    "level": "language",
+    "iso639-3": "mnj",
+    "latitude": "35.9321",
+    "longitude": "70.9404",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF"
+    ],
+    "links": "\n[Munji](https://endangeredlanguages.com/lang/4690)\nhttps://www.wikidata.org/entity/Q33639\nhttps://en.wikipedia.org/wiki/Munji_language\nhttps://phoible.org/languages/munj1244"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:skjaervoe:89**\n**hh:e:Snoy:Nuristan-Mungan**\n**hh:h:Rastorgueva:Vostocnoiranskie**\n**hh:hv:Sokolova:Mundzanskogo**\n**hh:hvs:Morgenstierne:Pamir**\n**hh:hvw:Grierson:10**\n**hh:hvw:Tomaschek:Pamir**\n**hh:hw:Badakhshi:Afghanistan**\n**hh:s:Paxalina:Pamirskie**\n**hh:s:Skjarvoe:YidghaMunji**\n**hh:std:Grjunberg:Mundzanskij**\n**hh:vd:Zarubin:Mundzanskogo**"
+  },
+  "altnames": {
+    "multitree": "\nMunjani\nMunjhan\nMunji\nMunjiwar\nMunyí",
+    "lexvo": "\nMunji [en]",
+    "hhbib_lgcode": "\nMundžanskij\nMundžanskogo\nMungi\nMunğan\nYidgha-Munji",
+    "elcat": "\nMunjani\nMunjhan\nMunji\nMunjiwar"
+  },
+  "triggers": {
+    "lgcode": "\nNOT languages AND yidgha\nmundzhanskij"
+  },
+  "identifier": {
+    "multitree": "mnj",
+    "endangeredlanguages": "4690"
+  },
+  "classification": {
+    "sub": "**hh:hv:Novak:Eastern-Iranian**",
+    "subrefs": "\n**hh:hv:Novak:Eastern-Iranian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Munji (4690-mnj) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

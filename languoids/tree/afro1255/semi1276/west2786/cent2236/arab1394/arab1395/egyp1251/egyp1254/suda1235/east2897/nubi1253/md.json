@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Nubi",
+    "hid": "kcn",
+    "level": "language",
+    "iso639-3": "kcn",
+    "latitude": "-0.183215",
+    "longitude": "34.7552",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "KE",
+      "SS",
+      "UG",
+      "US"
+    ],
+    "links": "\n[Kinubi](https://apics-online.info/contributions/63)\n[Nubi](https://endangeredlanguages.com/lang/3790)\n[Nubi](https://grambank.clld.org/languages/nubi1253)\n[Nubi](https://wals.info/languoid/lect/wals_code_nub)\nhttps://en.wikipedia.org/wiki/Nubi_language\nhttps://phoible.org/languages/nubi1253\nhttps://www.wikidata.org/entity/Q36388"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bender:87:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:kaye:86**\n**cldf:kaye:87**\n**cldf:kaye:88**\n**cldf:kaye:91**\n**cldf:khamis:94**\n**cldf:lewis:ed:09**\n**cldf:maurer:stolz:ed:87:2**\n**cldf:ojwang:08**\n**eballiso2009:13074**\n**eballiso2009:14732**\n**eballiso2009:14738**\n**eballiso2009:18683**\n**eballiso2009:23253**\n**eballiso2009:23254**\n**eballiso2009:29460**\n**eballiso2009:30372**\n**eballiso2009:33911**\n**eballiso2009:34172**\n**eballiso2009:34805**\n**eballiso2009:53219**\n**eballiso2009:55349**\n**eballiso2009:5745**\n**hh:e:deSmedt:Nubis**\n**hh:g:Luffin:Kinubi**\n**hh:g:Luffin:Kinubi:2004**\n**hh:g:Owens:Nubi**\n**hh:g:Wellens:Nubi**\n**hh:g:Wellens:Nubi:2005**\n**hh:h:KayeTosco:Creole**\n**hh:hld:Luffin:Arabic-Pidgins-Creoles**\n**hh:hld:Prokosch:Kontaktsprachen**\n**hh:hsoc:Nhial:Ki-Nubi**\n**hh:hv:Owens:Nubi**\n**hh:hv:Owens:Nubi:1985**\n**hh:hvtyp:Owens:Arabic-based**\n**hh:ld:Wellens:Ki-Nubi**\n**hh:s:Boretzky:Nubi**\n**hh:s:Heine:Nubi**\n**hh:s:Luffin:Kinubi**\n**hh:typ:Khamis:Nubi**\n**mpieva:Luffin2004Kinubite**"
+  },
+  "altnames": {
+    "wals": "\nNubi",
+    "multitree": "\nKi-Nubi\nKinubi\nNubi",
+    "lexvo": "\nNubi [de]\nNubi language [en]\nNubieg [br]",
+    "hhbib_lgcode": "\nKenya Kinubi\nKinubi\nNubi of Kibera in Kenya\nNubi von Kibera\nNubis of Kibera in Kenya\nUganda Kinubi",
+    "elcat": "\nKi-Nubi\nKinubi\nKinúbi\nNubi\nRután Núbi"
+  },
+  "triggers": {
+    "lgcode": "\nnubi\nkinubi"
+  },
+  "identifier": {
+    "wals": "nub",
+    "multitree": "kcn",
+    "endangeredlanguages": "3790"
+  },
+  "classification": {
+    "sub": "**hh:hv:ManfrediRoset:Baggara**:1-2",
+    "subrefs": "\n**hh:hv:ManfrediRoset:Baggara**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Nubi (3790-kcn) = Threatened (20 percent certain, based on the evidence available) [Wellens 2003](cldf:wellens:03)"
+  }
+}

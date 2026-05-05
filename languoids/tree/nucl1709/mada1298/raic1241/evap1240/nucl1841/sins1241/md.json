@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kou",
+    "hid": "snz",
+    "level": "language",
+    "iso639-3": "snz",
+    "latitude": "-5.64336",
+    "longitude": "145.599",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sinsauru](https://lexibank.clld.org/languages/transnewguineaorg-sinsauru)\n[sinsauru](https://lexibank.clld.org/languages/zgraggenmadang-sinsauru)\nhttps://en.wikipedia.org/wiki/Kou_language\nhttps://www.wikidata.org/entity/Q7525035"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**\n**hh:w:Anonymous:Ramu-Mari**\n**hh:w:Anonymous:Ramu-Wabe**\n**hh:wsoc:OBannon:Kou**\n**iso6393:2018-012**"
+  },
+  "altnames": {
+    "multitree": "\nKow\nSinsauru",
+    "lexvo": "\nSinsauru [en]",
+    "glottolog": "\nSinsauru",
+    "hhbib_lgcode": "\nAgana\nAsas\nHauna\nHemsis\nKaikovu 77 percent with Koropa\nKoroba\nKorona\nKou (Asas)\nKou (Koroba)\nKow\nMabuluk\nNurup\nSinsauru\nYamit"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "snz"
+  },
+  "classification": {
+    "sub": "**hh:hv:ClaassenMcElhanon:Finisterre**:49 **hh:hw:Zgraggen:Rai**",
+    "subrefs": "\n**hh:hw:Zgraggen:Rai**\n**hh:hv:ClaassenMcElhanon:Finisterre**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kou (snz-snz) = 6b (Threatened)."
+  }
+}

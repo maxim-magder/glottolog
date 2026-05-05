@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bullom So",
+    "hid": "buy",
+    "level": "language",
+    "iso639-3": "buy",
+    "latitude": "9.0",
+    "longitude": "-13.16",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "SL"
+    ],
+    "links": "\n[Bullom So](https://grambank.clld.org/languages/bull1247)\n[Mani](https://endangeredlanguages.com/lang/364)\n[Sei](https://lexibank.clld.org/languages/polyglottaafricana-Sei)\nhttps://en.wikipedia.org/wiki/Bullom_So_language\nhttps://www.wikidata.org/entity/Q35061"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1322**\n**cldf:childs:04**\n**cldf:childs:06**\n**cldf:childs:11:2**\n**cldf:ed:10**\n**cldf:np:12:5**\n**hh:g:Childs:Mani**\n**hh:hv:Mukarovsky:Westguineische**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:hw:Thomas:Sierra-Leone**"
+  },
+  "altnames": {
+    "multitree": "\nBolom\nBulem\nBullin\nBullom\nBullom So\nBullun\nBulom\nMandenyi\nMandingi\nMani\nMmani\nNorthern Bullom",
+    "lexvo": "\nBullom So [en]\nBullom So language [en]\nSoeg [br]",
+    "hhbib_lgcode": "\nBulem\nBullom\nBullom-Kafu\nBulom\nBulom-North\nMani\nMmani",
+    "elcat": "\nBolom\nBulem\nBullin\nBullom So\nBullun\nMandenyi\nMandingi\nMani\nMmani\nNorthern Bullom"
+  },
+  "triggers": {
+    "lgcode": "\nmani\nwest AND kropp"
+  },
+  "identifier": {
+    "multitree": "buy",
+    "endangeredlanguages": "364"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mani (364-buy) = Severely Endangered (60 percent certain, based on the evidence available) (Spoken by only a few hundred people in only a limited number of contexts, if at all... the language is in the last throes of language death.  The relatively few speakers had limited proficiency in the language... the language of enquiry, for the most part, was Soso, the language the Mani people had shifted to. When it was not Soso, it was French, the language of schools, the government, and the former colonial power. Few speakers were fluent speakers of French... On the Guinea side we found only a few elderly people scattered in many towns, [but] in Moribaya and especially on the island of Tangbaya we found a much more vital Mani culture including several Mani dance troupes and children who actually grew up speaking the language.) [Childs 2011](cldf:childs:11:1)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "San Felipe Otlaltepec Popoloca",
+    "hid": "pow",
+    "level": "language",
+    "iso639-3": "pow",
+    "latitude": "18.3594",
+    "longitude": "-97.7432",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Popoloca](https://endangeredlanguages.com/lang/5287)\nhttps://www.wikidata.org/entity/Q25559598"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:DominguezDominguez:Popoloca-San-Felipe-Otlaltepec**\n**hh:d:WilliamsPierson:Popoloca**\n**hh:e:Jacklein:Otlaltepec**\n**hh:e:Jacklein:Otlaltepec:1974**\n**hh:hv:Fernandez:Protopopoloca**\n**hh:hvw:Fernandez:Popoloca**\n**hh:phon:WilliamsPike:Western-Popoloca**\n**hh:s:WilliamsLongacre:Popoloca**\n**hh:typ:Veerman-Leichsenring:Popolocan**\n**sil16:11934**\n**sil16:12733**\n**sil16:12734**"
+  },
+  "altnames": {
+    "multitree": "\nChocho-Popoloka\nPopoloc occidental\nPopoloca\nPopoloca de San Felipe Otlaltepec\nPopoloca del Poniente\nPopoloca occidental\nPopoloca, San Felipe Otlaltepec\nWestern Popoloca\nWestern Popoloka",
+    "lexvo": "\nSan Felipe Otlaltepec Popoloca [en]",
+    "elcat": "\nPopoloca",
+    "hhbib_lgcode": "\nPopoloca de San Felipe Otlaltepec Popoloca\nPopoloca de San Felipe Otlaltepec Popoloca from Williams\nSan Felipe Otlaltepec"
+  },
+  "triggers": {
+    "lgcode": "\notlaltepec\nsanitario"
+  },
+  "identifier": {
+    "multitree": "pow",
+    "endangeredlanguages": "5287"
+  },
+  "classification": {
+    "sub": "**hh:g:Veerman-Leichsenring:Popoloca**:4-5 **hh:typ:Nakamoto:Temalacayuca-Clasificadores**:3",
+    "subrefs": "\n**hh:typ:Nakamoto:Temalacayuca-Clasificadores**\n**hh:g:Veerman-Leichsenring:Popoloca**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Popoloca (5287) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

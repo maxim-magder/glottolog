@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mansaka",
+    "hid": "msk",
+    "level": "language",
+    "iso639-3": "msk",
+    "latitude": "6.79221",
+    "longitude": "126.181",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Mansaka](https://endangeredlanguages.com/lang/8989)\n[Mansaka](https://grambank.clld.org/languages/mans1262)\nhttps://en.wikipedia.org/wiki/Mansaka_language\nhttps://www.wikidata.org/entity/Q12952800"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3153**\n**asjp2010:831**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:d:SvelmoeSvelmoe:Mansaka**\n**hh:hv:Gallman:Mansakan**\n**hh:hv:Zorc:Bisayan**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:s:SvelmoeSvelmoe:Mansaka**\n**hh:typ:Lee:Southeast-Mindanao**\n**hh:w:Yap:Philippine**\n**sil16:10064**\n**sil16:10067**\n**sil16:12439**\n**sil16:12440**\n**sil16:12462**\n**sil16:14865**\n**sil16:14866**\n**sil16:14868**\n**sil16:18160**\n**sil16:18161**\n**sil16:18162**\n**sil16:18163**\n**sil16:18164**\n**sil16:18165**\n**sil16:18166**\n**sil16:18167**"
+  },
+  "altnames": {
+    "multitree": "\nMandaya Mansaka\nMansaka",
+    "lexvo": "\nMansaka [en]",
+    "hhbib_lgcode": "\nMansaka (Msk.)",
+    "elcat": "\nMandaya Mansaka\nMansaka"
+  },
+  "triggers": {
+    "lgcode": "\nomanoman\ntarili\nmadyaw\npyagaanadan\nmansaka\nmagapono\nmagabasa\nkarinis"
+  },
+  "identifier": {
+    "multitree": "msk",
+    "endangeredlanguages": "8989"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan** **hh:hv:Blust:CPhilippines**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**\n**hh:hv:Blust:CPhilippines**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mansaka (8989-msk) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

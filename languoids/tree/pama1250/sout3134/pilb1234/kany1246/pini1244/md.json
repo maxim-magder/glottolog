@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Pinigura",
+    "hid": "pnv",
+    "level": "language",
+    "iso639-3": "pnv",
+    "latitude": "-22.4729",
+    "longitude": "116.538",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Pinikura](https://collection.aiatsis.gov.au/austlang/language/w34)\n[Pinikura](https://endangeredlanguages.com/lang/4984)\nhttps://www.wikidata.org/entity/Q10631927",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:bowern:11:1**\n**cldf:centre:09:3**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:h:Brandenstein:Pilbara**\n**hh:hv:Austin:Gascoyne-Ashburton**\n**hh:ld:Austin:Pinikura:1997**\n**hh:vld:Austin:Pinikura**\n**ozbib:247**\n**ozbib:5628**"
+  },
+  "altnames": {
+    "multitree": "\nBinigura\nBiniguru\nBinnigoora\nBinnigora\nPinigura\nPinikura\nPinikurra",
+    "lexvo": "\nPinigura [en]",
+    "hhbib_lgcode": "\nPinikura\nPinikurra",
+    "elcat": "\nBinigura\nBiniguru\nBinnigoora\nBinnigora\nPinigura\nPinikura\nPinikurra",
+    "aiatsis": "\nBiniguru\nBinnigoora\nBinnigora\nBinniguru\nPinigura\nPinikura\nPinikurra\nPinneegoora"
+  },
+  "triggers": {
+    "lgcode": "\npinikura"
+  },
+  "identifier": {
+    "multitree": "pnv",
+    "endangeredlanguages": "4984"
+  },
+  "classification": {
+    "sub": "**hh:hv:Austin:SPilbara** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:Austin:SPilbara**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pinikura (4984-pnv) = Dormant [Centre 2009](cldf:centre:09:3)"
+  }
+}

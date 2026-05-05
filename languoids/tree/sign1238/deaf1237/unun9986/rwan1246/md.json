@@ -1,0 +1,30 @@
+{
+  "core": {
+    "name": "Rwandan Sign Language",
+    "level": "language",
+    "iso639-3": "rsn",
+    "hid": "rsn",
+    "countries": [
+      "RW"
+    ],
+    "macroareas": [
+      "Africa"
+    ],
+    "longitude": "30.23427",
+    "latitude": "-1.38553",
+    "links": "\nhttps://en.wikipedia.org/wiki/Rwandan_Sign_Language\nhttps://www.wikidata.org/entity/Q25041935"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Woolley:Rwandan-Sign**\n**iso6393:2021-016**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rwandan Sign Language (rsn-rsn) = 5* (Developing)."
+  },
+  "classification": {
+    "sub": "The only publication (**hh:d:Woolley:Rwandan-Sign**) does not address the origin and relations of Rwandan Sign Language. The language/variety does not feature in overviews of Sign Languages in Africa (**hh:h:Kamei:Afurika-Shuwa**, **hh:h:Ethnologue:26**). A historical and/or lexical investigation remains to be done. (The task is mentioned in **hh:phon:Morgan:Kenyan-Sign:2022**:421 as future work).",
+    "subrefs": "\n**hh:d:Woolley:Rwandan-Sign**\n**hh:h:Kamei:Afurika-Shuwa**\n**hh:h:Ethnologue:26**\n**hh:phon:Morgan:Kenyan-Sign:2022**"
+  }
+}

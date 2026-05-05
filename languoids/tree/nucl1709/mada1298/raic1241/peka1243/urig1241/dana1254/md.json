@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Danaru",
+    "hid": "dnr",
+    "level": "language",
+    "iso639-3": "dnr",
+    "latitude": "-5.53634",
+    "longitude": "145.457",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Danaru](https://lexibank.clld.org/languages/transnewguineaorg-danaru)\n[danaru](https://lexibank.clld.org/languages/zgraggenmadang-danaru)\nhttps://en.wikipedia.org/wiki/Danaru_language\nhttps://www.wikidata.org/entity/Q5214932"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**"
+  },
+  "altnames": {
+    "lexvo": "\nDanaru [en]"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "classification": {
+    "sub": "**hh:hw:Zgraggen:Rai**",
+    "subrefs": "\n**hh:hw:Zgraggen:Rai**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Danaru (dnr-dnr) = 6b (Threatened)."
+  }
+}

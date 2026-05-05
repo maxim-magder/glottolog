@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Mandalay Myanmar Sign Language",
+    "level": "language",
+    "hid": "NOCODE_Mandalay-Sign",
+    "countries": [
+      "MM"
+    ],
+    "macroareas": [
+      "Eurasia"
+    ],
+    "longitude": "96.10784",
+    "latitude": "21.93575",
+    "links": "\n[Mandalay Sign Language](https://endangeredlanguages.com/lang/10965)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMantale Sign",
+    "elcat": "\nMandalay Sign Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:woodward:21**\n**hh:d:Lu:Myanmar-Sign**\n**hh:hel:Woodward:Endangered-Sign**"
+  },
+  "identifier": {
+    "endangeredlanguages": "10965"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mandalay Sign Language (10965) = Vulnerable (40 percent certain, based on the evidence available) [Woodward 2021](cldf:woodward:21)",
+    "source": "ElCat"
+  },
+  "classification": {
+    "sub": "**hh:hel:Woodward:Endangered-Sign**:200",
+    "subrefs": "\n**hh:hel:Woodward:Endangered-Sign**"
+  }
+}

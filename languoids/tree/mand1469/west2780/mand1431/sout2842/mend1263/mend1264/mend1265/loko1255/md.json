@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Loko",
+    "hid": "lok",
+    "level": "language",
+    "iso639-3": "lok",
+    "latitude": "9.11838",
+    "longitude": "-12.1583",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SL"
+    ],
+    "links": "\n[Loko](https://lexibank.clld.org/languages/polyglottaafricana-Loko)\n[Loko](https://wals.info/languoid/lect/wals_code_lok)\nhttps://en.wikipedia.org/wiki/Loko_language\nhttps://phoible.org/languages/loko1255\nhttps://www.wikidata.org/entity/Q3914912"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:16086**\n**eballiso2009:31853**\n**eballiso2009:42758**\n**eballiso2009:7398**\n**hh:h:Hair:Lower-Guinea:I**\n**hh:he:McCulloch:Sierra-Leone**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Sierra-Leone**\n**hh:s:Innes:Loko**\n**hh:s:Kimball:Loko**\n**hh:s:Morozova:Loko**\n**hh:s:VydrinMorozova:Loko**"
+  },
+  "altnames": {
+    "wals": "\nLoko",
+    "ruhlen (1987)": "\nLoko",
+    "moseley & asher (1994)": "\nLoko",
+    "multitree": "\nLandogo\nLoko",
+    "lexvo": "\nLoko [en]",
+    "hhbib_lgcode": "\nKoko-Landogo\nLandoro\nLokko"
+  },
+  "triggers": {
+    "lgcode": "\nof AND loko\nloko"
+  },
+  "identifier": {
+    "wals": "lok",
+    "multitree": "lok;loko"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Loko (lok-lok) = 5* (Developing)."
+  }
+}

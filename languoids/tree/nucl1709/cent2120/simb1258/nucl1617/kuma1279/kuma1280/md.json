@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kuman",
+    "hid": "kue",
+    "level": "language",
+    "iso639-3": "kue",
+    "latitude": "-5.90586",
+    "longitude": "144.977",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kuman](https://grambank.clld.org/languages/kuma1280)\n[Kuman](https://lexibank.clld.org/languages/transnewguineaorg-kuman)\n[Kuman](https://wals.info/languoid/lect/wals_code_kmn)\nhttps://en.wikipedia.org/wiki/Kuman_language_(New_Guinea)\nhttps://www.wikidata.org/entity/Q137525"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Bergmann:Kuman**\n**hh:d:Nilles:Kuman**\n**hh:d:Schafer:Chimbu**\n**hh:e:Brown:Chimbu**\n**hh:e:Leahy:Hagen**\n**hh:e:Leahy:New-Guinea:1991**\n**hh:e:Rambo:Kerowagi**\n**hh:e:Standish:Simbu**\n**hh:g:Bergmann:Kuman**\n**hh:g:Bergmann:Kuman:1966**\n**hh:hld:Lean:Enga-Western-Highlands-Simbu**\n**hh:hv:Tida:Simbu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Wurm:ECTNG**\n**hh:hvw:Capell:CHighlands**\n**hh:phon:Hardie:Kuman**\n**hh:s:Trefry:KumanPawaian**\n**hh:s:Trefry:KumanPawaian:1965**\n**hh:s:TrefryTrefry:Kuman**\n**hh:typ:Piau:Kuman**\n**hh:typ:Piau:Kuman:1981**\n**sil16:33725**\n**sil16:47656**\n**sil16:48154**\n**silpng:silpng1991-2000:1032**\n**silpng:silpng2001-2003:373**\n**silpng:silpng2004:32**"
+  },
+  "altnames": {
+    "wals": "\nKuman",
+    "ruhlen (1987)": "\nChimbu",
+    "moseley & asher (1994)": "\nChimbu",
+    "multitree": "\nChimbu\nKuman\nSimbu",
+    "lexvo": "\nKuman [en]\nKuman language [en]",
+    "hhbib_lgcode": "\nChimbu\nChimbu Proper-Kuman\nChimbu:Nagane\nChimbue:Kuman"
+  },
+  "triggers": {
+    "lgcode": "\npawaian\nankang\nyagl\nkuman"
+  },
+  "identifier": {
+    "wals": "genus/chimbu",
+    "multitree": "kue"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tida:East-Simbu**, **hh:hv:Tida:Simbu**",
+    "subrefs": "\n**hh:hv:Tida:East-Simbu**\n**hh:hv:Tida:Simbu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kuman (kue-kue) = 6b (Threatened). Native to Papua New Guinea; gained speakers in the 20th century. Widely spoken in Chimbu Province. Used in trade, mask culture, church, and education."
+  }
+}

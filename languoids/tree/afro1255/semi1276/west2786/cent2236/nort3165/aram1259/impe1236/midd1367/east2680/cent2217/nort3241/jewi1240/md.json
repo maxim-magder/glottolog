@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Jewish Babylonian Aramaic (ca. 200-1200 CE)",
+    "hid": "tmr",
+    "level": "language",
+    "iso639-3": "tmr",
+    "latitude": "32.273",
+    "longitude": "44.245",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33407\nhttps://en.wikipedia.org/wiki/Jewish_Babylonian_Aramaic",
+    "timespan": "0200-01-01/1200-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Sokoloff:Jewish-Babylonian-Aramaic**\n**hh:g:Epstein:Babylonian-Aramaic**\n**hh:g:Segal:Jewish-Babylonian-Aramaic**\n**hh:ldsoc:Fassberg:Judeo-Aramaic**\n**hh:s:Morgenstern:Jewish-Babylonian-Aramaic**\n**mpieva:Davary1974Eineweit**\n**mpieva:Degen1969Altarama**\n**mpieva:Jongeling1991Studiesi**\n**mpieva:Segert1983Altarama**\n**mpieva:Vilsker1981Manualda**"
+  },
+  "altnames": {
+    "multitree": "\nBabylonian Talmudic Aramaic\nJewish Babylonian Aramaic",
+    "lexvo": "\nAramaeg talmoudek Babilonia [br]\nJewish Babylonian Aramaic (ca. 200-1200 CE) [en]\nJewish Babylonian Aramaic [en]\nJudéo-araméen babylonien [fr]\nTalmudski aramejski jezik [hr]\nארמית בבלית [he]\nภาษาอราเมอิกยิวบาบิโลเนีย [th]",
+    "hhbib_lgcode": "\nBabylonian-Aramaic\nChaldaicam\nChaldaice\nChaldaicum\nChaldaisch\nJewish Babylonian Aramaic\nQumran Aramaic"
+  },
+  "triggers": {
+    "lgcode": "\nsamaritain\nchaldee\naltaramaische\nbiblisch\nhoftijzer\nasoka"
+  },
+  "identifier": {
+    "multitree": "tmr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kim:Modern-Aramaic**",
+    "subrefs": "\n**hh:hv:Kim:Modern-Aramaic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jewish Babylonian Aramaic (tmr-tmr) = 9 (Second language only)."
+  }
+}

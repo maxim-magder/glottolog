@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kango (Bas-Uélé District)",
+    "hid": "kty",
+    "level": "language",
+    "iso639-3": "kty",
+    "latitude": "3.47633",
+    "longitude": "24.8202",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6362818\nhttps://en.wikipedia.org/wiki/Kango_language_(Bas-U%C3%A9l%C3%A9_District)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:54577**\n**hh:e:Hutereau:Bakango:1910**\n**hh:e:Vedy:Uele**\n**hh:ew:Calonne-Beaufaict:Bakango**\n**hh:hvw:McMaster:Uele**\n**hh:s:Bakuye:Kango-Poko**\n**hh:typ:Emange:Lekango**\n**hh:v:Abalipate:Leboale-Lekango**\n**hh:vld:Enkakwanza:Lika-Kango**"
+  },
+  "altnames": {
+    "glottolog": "\nKango (Bas-Uele District)",
+    "multitree": "\nKango\nLikango",
+    "lexvo": "\nKango (Bas-Uélé District) [en]\nKango [en]",
+    "hhbib_lgcode": "\nBacango\nBacango on the banks of the Uélé (C403)\nKango\nKango de Bambesa\nKango de Bas-Uele is presumbly Kango\nKango de Poko\nLekango\nLikango C403"
+  },
+  "triggers": {
+    "lgcode": "\nbakango"
+  },
+  "identifier": {
+    "multitree": "kty"
+  },
+  "classification": {
+    "sub": "**hh:hvw:McMaster:Uele**",
+    "subrefs": "\n**hh:hvw:McMaster:Uele**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kango (kty-kty) = 6a (Vigorous)."
+  }
+}

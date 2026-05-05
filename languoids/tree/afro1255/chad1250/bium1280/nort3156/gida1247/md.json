@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Gidar",
+    "hid": "gid",
+    "level": "language",
+    "iso639-3": "gid",
+    "latitude": "9.874715",
+    "longitude": "14.07845",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Gidar](https://grambank.clld.org/languages/gida1247)\n[Gidar](https://wals.info/languoid/lect/wals_code_gdr)\nhttps://en.wikipedia.org/wiki/Gidar_language\nhttps://phoible.org/languages/gida1247\nhttps://www.wikidata.org/entity/Q35265"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:61-62",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:frajzyngier:96**\n**hh:e:Collard:Guidar**\n**hh:e:Diziain:Guider-Kaele-Yagoua**\n**hh:g:Frajzyngier:Gidar**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Mouchet:Quinze**\n**hh:hw:Strumpell:Adamauas**\n**hh:phon:Noukeu:Kada**\n**hh:s:Schuh:Gidar**"
+  },
+  "altnames": {
+    "wals": "\nGidar",
+    "moseley & asher (1994)": "\nGidar",
+    "multitree": "\nBaynawa\nGidar\nGidder\nGuidar\nGuider\nKada",
+    "lexvo": "\nGidar [en]",
+    "hhbib_lgcode": "\nGidder\nGuidar\nGuider"
+  },
+  "triggers": {
+    "lgcode": "\nguidar\nkada\ngidar"
+  },
+  "identifier": {
+    "wals": "gdr",
+    "multitree": "gid"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gidar (gid-gid) = 5* (Developing)."
+  }
+}

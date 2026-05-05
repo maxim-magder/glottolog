@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Abé",
+    "hid": "aba",
+    "level": "language",
+    "iso639-3": "aba",
+    "latitude": "5.59682",
+    "longitude": "-4.38497",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\n[Abé](https://grambank.clld.org/languages/abee1242)\nhttps://en.wikipedia.org/wiki/Ab%C3%A9_language\nhttps://www.wikidata.org/entity/Q34833"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Gbery:Abbey**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:s:NGuessan:Abbey**"
+  },
+  "altnames": {
+    "glottolog": "\nAbe",
+    "multitree": "\nAbbey\nAbbé\nAbi\nAbé",
+    "lexvo": "\nAbé [de]\nAbé jezik [hr]\nAbé language [en]\nLenga Abé [pms]\nLingua abé [gl]",
+    "hhbib_lgcode": "\nAbbey\nAbè"
+  },
+  "triggers": {
+    "lgcode": "\nlabbey\nabbey"
+  },
+  "identifier": {
+    "multitree": "aba"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kropp:Kwa** **hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Kropp:Kwa**\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Abé (aba-aba) = 6a (Vigorous)."
+  }
+}

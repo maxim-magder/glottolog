@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Northwest Gbaya",
+    "hid": "gya",
+    "level": "language",
+    "iso639-3": "gya",
+    "latitude": "5.9503",
+    "longitude": "15.2569",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "CG",
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Gbaya (Northwest)](https://wals.info/languoid/lect/wals_code_gbk)\n[Northwest Gbaya](https://grambank.clld.org/languages/nort2775)\nhttps://en.wikipedia.org/wiki/Northwest_Gbaya_language\nhttps://phoible.org/languages/nort2775\nhttps://www.wikidata.org/entity/Q36594"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1281**\n**cldf:lebikaza:ed:00:2**\n**cldf:monino:roulon:72**\n**cldf:poupon:15**\n**cldf:tessmann:34:2**\n**eballiso2009:15029**\n**eballiso2009:19347**\n**eballiso2009:19349**\n**eballiso2009:19350**\n**eballiso2009:19352**\n**eballiso2009:19353**\n**eballiso2009:19354**\n**eballiso2009:20618**\n**eballiso2009:20621**\n**eballiso2009:25553**\n**eballiso2009:27104**\n**eballiso2009:31589**\n**eballiso2009:38800**\n**eballiso2009:4219**\n**eballiso2009:4220**\n**eballiso2009:4221**\n**eballiso2009:4222**\n**eballiso2009:4223**\n**eballiso2009:4226**\n**eballiso2009:4228**\n**eballiso2009:4229**\n**eballiso2009:42808**\n**eballiso2009:42812**\n**eballiso2009:44529**\n**eballiso2009:4924**\n**eballiso2009:49939**\n**eballiso2009:50111**\n**eballiso2009:526**\n**eballiso2009:528**\n**eballiso2009:56682**\n**eballiso2009:57562**\n**eballiso2009:57838**\n**eballiso2009:57839**\n**eballiso2009:57840**\n**eballiso2009:57843**\n**eballiso2009:57844**\n**eballiso2009:57845**\n**eballiso2009:57847**\n**eballiso2009:57906**\n**eballiso2009:6241**\n**eballiso2009:6308**\n**hh:d:BlanchardNoss:Yaayuwee**\n**hh:d:Roulon-Doko:Gbaya**\n**hh:dial:Samarin:Gbaya**\n**hh:e:Burnham:Gbaya**\n**hh:e:Burnham:Gbaya-Meiganga**\n**hh:e:Burnham:Gbaya-Meiganga:1972**\n**hh:e:Vidal:Gbaya-Kara**\n**hh:g:Noss:Gbaya**\n**hh:g:Noss:Gbaya:1969**\n**hh:g:Roulon-Doko:Gbaya**\n**hh:hs:Boyd:Oubangiennes**\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Monino:Oubanguiennes**\n**hh:hw:Strumpell:Adamauas**\n**hh:phon:MoninoRoulon-Doko:Gbaya-Kara-Bodoe**\n**hh:s:Roulon-Doko:Gbaya**\n**hh:s:Roulon:Gbaya-Kara**\n**hh:typ:Cadiou:Gbaya-Buli**\n**hh:v:Monino:Banda-Gbaya**\n**hh:w:Noss:Gbaya**\n**hh:w:Periquet:AEF**\n**hh:wtyp:Neumann:Baja**\n**ldh:item_404989**\n**mpieva:Boyd2000Exposede**\n**mpieva:Monino1972Phonolog**\n**sil16:16245**\n**sil16:20157**\n**sil16:24349**\n**sil16:37906**\n**sil16:47661**"
+  },
+  "altnames": {
+    "wals": "\nGbaya Kara",
+    "wals other": "\nGbaya Kaka\nGbaya Kara 'Bodoe\nKaka",
+    "ruhlen (1987)": "\nGbaya Kara",
+    "moseley & asher (1994)": "\nGbaya",
+    "multitree": "\n'Bokoto\nBaya\nGbanu\nGbaya\nGbaya (Northwest)\nGbaya Kara\nGbaya Nord-Ouest\nGbaya, Northwest\nGbeya\nKara\nNorthwest Gbaya\nSouthern Gbaya\nSuma",
+    "lexvo": "\nNorthwest Gbaya [en]",
+    "hhbib_lgcode": "\nBaia\nBaya\nBaya du Nord\nBouar Gbaya\nBuar Baja\nGbaya Bodoe\nGbaya Kara\nGbaya Lai\nGbaya Lay\nGbaya Northwest\nGbaya du Nord (quatre parlers Kara / deux yaayuwee)\nGbaya-Northwest\nYaayuwee"
+  },
+  "triggers": {
+    "lgcode": "\nyaayuwee\nnegerstamm\nNOT mbodomo AND NOT n AND gbaya\nbodoe\noubangiennes\nconceptuel\nproposes\nlabi\nmandjia\noubangien"
+  },
+  "identifier": {
+    "wals": "gbk",
+    "multitree": "gya"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Monino:Proto-Gbaya**:451-455 **hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**",
+    "subrefs": "\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gbaya, Northwest (gya-gya) = 5* (Developing)."
+  }
+}

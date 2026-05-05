@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mingang Doso",
+    "hid": "mko",
+    "level": "language",
+    "iso639-3": "mko",
+    "latitude": "9.25942",
+    "longitude": "11.295",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Mingang Doso](https://endangeredlanguages.com/lang/5028)\n[Munga Doso](https://lexibank.clld.org/languages/kleinewillinghoeferbikwinjen-MungaDoso)\nhttps://en.wikipedia.org/wiki/Mingang_Doso_language\nhttps://www.wikidata.org/entity/Q3915382"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:hew:Meek:Tribal:II**\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hvw:NortonOthaniel:Jen**\n**hh:hvw:Othaniel:Jen**\n**hh:ld:Andrason:Mingang-Dza**\n**hh:s:Benson:Doso**"
+  },
+  "altnames": {
+    "glottolog": "\nMingang Doso",
+    "multitree": "\nDoso\nMingang Doso\nMunga\nMunga Doso\nNgwai Mungàn",
+    "lexvo": "\nMingang Doso [en]",
+    "hhbib_lgcode": "\nDoso\nMunga\nMunga Doso",
+    "elcat": "\nDoso\nMingang Doso\nMunga\nMunga Doso\nNgwai Mungàn"
+  },
+  "triggers": {
+    "lgcode": "\nMingang AND Doso\nMunga AND Doso"
+  },
+  "identifier": {
+    "multitree": "mko",
+    "endangeredlanguages": "5028"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonOthaniel:Jen** **hh:hv:Kleinewillinghofer:Adamawa:2020**:224 **hh:hvld:Kleinewillinghofer:Adamawa**:96",
+    "subrefs": "\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hv:Kleinewillinghofer:Adamawa:2020**\n**hh:hvw:NortonOthaniel:Jen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mingang Doso (5028-mko) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

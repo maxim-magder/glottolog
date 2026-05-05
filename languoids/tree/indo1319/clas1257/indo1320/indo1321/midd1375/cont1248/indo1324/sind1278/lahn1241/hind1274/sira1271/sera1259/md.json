@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Saraiki",
+    "hid": "skr",
+    "level": "language",
+    "iso639-3": "skr",
+    "latitude": "29.5534",
+    "longitude": "71.906",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Saraiki_language\nhttps://phoible.org/languages/sera1259\nhttps://www.wikidata.org/entity/Q33902"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3644**\n**hh:g:BashirConners:Hindko-Panjabi-Saraki**\n**hh:g:Bhatia:Lahanda**\n**hh:g:Shackle:Siraiki**\n**hh:g:Smirnov:Lendi**\n**hh:he:Hughes-Buller:Baluchistan**\n**hh:hv:Jamshair:Punjabi**\n**hh:hv:Shackle:Hindko**\n**hh:hv:Singh:Majhi-Multani**\n**hh:hvw:Grierson:8:I**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Nigam:Andhra-Pradesh**\n**hh:ld:Haq:Multani**\n**hh:s:Burton:Jataki**\n**hh:s:Kalanchvi:Saraiki**\n**hh:sd:OBrienKaul:Multani**\n**hh:sd:OBrienWilson:Multani**\n**hh:soc:Imtiaz:Siraiki**\n**hh:st:Shackle:Siraiki**\n**hh:typ:Pattnaik:Multani**\n**hh:vsoc:Wagha:Siraiki**\n**hh:vsoc:Wagha:Siraiki:1990**\n**iso6393:2014-021**\n**sil16:32846**\n**sil16:47849**"
+  },
+  "altnames": {
+    "glottolog": "\nSeraiki",
+    "multitree": "\nBahawalpuri\nLahnda\nMultani\nMutani\nReasati\nRiasiti\nSaraiki\nSeraiki\nSiraiki\nSouthern Panjabi",
+    "lexvo": "\nBahasa Siraiki [id]\nLenga seraiki [pms]\nLingua Saraiki [la]\nLingua saraiki [it]\nSaraiki [de]\nSaraiki language [en]\nSeraiki [en]\nSiraiki [sv]\nسرائیکی [pnb]\nلغة سرائيكية [ar]\nภาษาสิไรกิ [th]",
+    "hhbib_lgcode": "\nBahawalpuri\nCentral Siraiki\nDera Ismail Khan\nHindki of Dera Ghazi Khan\nJataki\nJatki\nJatki and Derawal of Dera Ismail Khan\nJatki of Dera Ghazi Khan\nJatki or Siraiki\nLahanda Dera Ismail Khan\nLahnda Salt Range\nMultani\nNorthern Siraiki\nSaraiki-Multan\nSeraiki\nShahpuri\nShahpuri standard\nSiraiki\nThali\nUnreal composite of Multani and Awankari\nWestern Salt Range of Shahpur District from Wilson 1899"
+  },
+  "triggers": {
+    "lgcode": "\nsaraiki\nsiraiki"
+  },
+  "identifier": {
+    "multitree": "skr"
+  },
+  "classification": {
+    "sub": "**hh:g:Shackle:Siraiki**:6-8",
+    "subrefs": "\n**hh:g:Shackle:Siraiki**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saraiki (skr-skr) = 5 (Developing)."
+  }
+}

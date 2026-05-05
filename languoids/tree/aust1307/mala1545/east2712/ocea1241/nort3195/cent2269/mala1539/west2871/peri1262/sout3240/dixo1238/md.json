@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dixon Reef",
+    "hid": "dix",
+    "level": "language",
+    "iso639-3": "dix",
+    "latitude": "-16.3267",
+    "longitude": "167.516",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Angavae (Dixon Reef)](https://lexibank.clld.org/languages/abvdoceanic-AngavaeDixonReef)\n[Aveteian](https://endangeredlanguages.com/lang/4084)\nhttps://en.wikipedia.org/wiki/Dixon_Reef_language\nhttps://www.wikidata.org/entity/Q5284967"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1889**\n**asjp2010:649**\n**cldf:francois:14:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "lexvo": "\nDixon Reef [en]",
+    "hhbib_lgcode": "\nAveteian\nDixon Reef I",
+    "elcat": "\nAveteian\nDixon Reef"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "classification": {
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "identifier": {
+    "endangeredlanguages": "4084"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Aveteian (4084-dix) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

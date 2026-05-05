@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Sama",
+    "hid": "smd",
+    "level": "dialect",
+    "iso639-3": "smd",
+    "latitude": "-9.86931",
+    "longitude": "13.8713",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO"
+    ],
+    "links": "\n[Sama](https://lexibank.clld.org/languages/polyglottaafricana-Sama)\nhttps://en.wikipedia.org/wiki/Sama_language_(Angola)\nhttps://www.wikidata.org/entity/Q6407456"
+  },
+  "classification": {
+    "sub": "**hh:e:Heintze:Kisama**",
+    "subrefs": "\n**hh:e:Heintze:Kisama**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:magyar:59**\n**cldf:mattenklodt:44**\n**eballiso2009:27705**\n**eballiso2009:37693**\n**iso6393:2021-036**"
+  },
+  "altnames": {
+    "multitree": "\nKissama\nQuissama\nSama",
+    "lexvo": "\nSama [en]",
+    "hhbib_lgcode": "\nKisama\nKissama\nKissamas"
+  },
+  "triggers": {
+    "lgcode": "\nkisama\nquissama"
+  },
+  "identifier": {
+    "multitree": "smd"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E24",
+    "date": "2021-03-15T20:30:07",
+    "comment": "Sama (smd-smd) = 6a* (Vigorous)."
+  },
+  "iso_retirement": {
+    "code": "smd",
+    "name": "Sama",
+    "effective": "2022-01-20",
+    "reason": "merge",
+    "change_to": "\nkmb",
+    "remedy": "Merged into Kimbundu [kmb]",
+    "change_request": "2021-036"
+  }
+}

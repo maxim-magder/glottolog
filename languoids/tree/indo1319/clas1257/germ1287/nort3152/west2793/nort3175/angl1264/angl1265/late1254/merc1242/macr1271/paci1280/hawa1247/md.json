@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Hawai'i Creole English",
+    "hid": "hwc",
+    "level": "language",
+    "iso639-3": "hwc",
+    "latitude": "19.6287",
+    "longitude": "-155.437",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Hawaiian Creole](https://wals.info/languoid/lect/wals_code_hwc)\n[Hawai‘i Creole](https://apics-online.info/contributions/26)\nhttps://en.wikipedia.org/wiki/Hawaiian_Pidgin\nhttps://www.wikidata.org/entity/Q35602"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:balaz:98**\n**cldf:coup:99**\n**cldf:escure:schwegler:ed:04:3**\n**cldf:kouwenberg:ed:03:10**\n**cldf:kouwenberg:ed:03:4**\n**cldf:mcworther:ed:00:2**\n**cldf:reynolds:99**\n**cldf:rickford:romaine:ed:99:1**\n**cldf:rickford:romaine:ed:99:4**\n**cldf:rickford:romaine:ed:99:5**\n**cldf:romaine:05**\n**cldf:simonson:sasaki:86**\n**cldf:velupillai:03:1**\n**cldf:velupillai:03:2**\n**cldf:yamanaka:93**\n**hh:s:SakodaSiegel:Hawaii-Creole**\n**hh:s:SakodaSiegel:Pidgin-Hawaii**\n**hh:s:Velupillai:Hawaii-Creole**\n**hh:soc:Roberts:Hawaii-Creole**\n**hh:soctyp:Inoue:Hawaii-Creole**\n**hh:typ:Day:Hawaiian-Creole**\n**hh:typ:Stabile:Like-Hawaii**\n**iso6393:2012-021**\n**mpieva:Day2001Patterns**\n**mpieva:Masuda1995Verseana**\n**mpieva:Masuda2000Thegenes**\n**mpieva:Roberts2005Theemerg**\n**mpieva:Simonson1986Pidginto**\n**mpieva:Simonson1992Hawaiito**\n**mpieva:Stanwood1999Ontheade**\n**mpieva:Utzurrum1994Theroleo**\n**mpieva:Velupillai2002Thetense**\n**mpieva:Velupillai2003HawaiiCr**\n**sil16:34494**\n**sil16:40342**"
+  },
+  "triggers": {
+    "lgcode": "\ncopula\nNOT for AND hawaii"
+  },
+  "identifier": {
+    "wals": "hwc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Clark:Beach-la-mar**",
+    "subrefs": "\n**hh:hv:Clark:Beach-la-mar**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hawaii Pidgin (hwc-hwc) = 5 (Developing)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nHawaii Creole English\nPidgin"
+  }
+}

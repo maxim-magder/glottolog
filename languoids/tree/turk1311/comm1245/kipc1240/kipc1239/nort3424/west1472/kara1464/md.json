@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Karaim",
+    "hid": "kdr",
+    "level": "language",
+    "iso639-3": "kdr",
+    "latitude": "54.5534",
+    "longitude": "25.1054",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LT",
+      "UA"
+    ],
+    "links": "\n[Karaim](https://endangeredlanguages.com/lang/2366)\n[Karaim](https://lexibank.clld.org/languages/savelyevturkic-Karaim)\n[Karaim](https://wals.info/languoid/lect/wals_code_krm)\nhttps://en.wikipedia.org/wiki/Karaim_language\nhttps://phoible.org/languages/kara1464\nhttps://www.wikidata.org/entity/Q33725"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4176**\n**cldf:berta:98:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:csato:01**\n**cldf:csato:99**\n**cldf:dahl:koptjevskaja-tamm:ed:01:2**\n**cldf:ed:10**\n**cldf:eljashevish:94**\n**cldf:firkovich:69**\n**cldf:good:acl:ed:99:1**\n**cldf:hafuz:94**\n**cldf:humphreys:mits:ed:93**\n**cldf:kefeli:92**\n**cldf:kowalski:29**\n**cldf:lewis:ed:09**\n**cldf:maciuika:ed:55**\n**cldf:muhlinskij:02**\n**cldf:muhlinskij:62**\n**cldf:musaev:66**\n**cldf:musaev:97**\n**cldf:np:nd:264**\n**cldf:shapshal:95**\n**cldf:stolz:ed:01:2**\n**cldf:tuhan-baranowski:96**\n**cldf:vjartsinkjavjachus:89**\n**hh:d:Aqtay:Crimean-Karaim**\n**hh:d:Baskakov:Karaimsko**\n**hh:d:Chafuz:Karaimskij**\n**hh:d:Culha:Karayca**\n**hh:d:Jozefowicz:Karaimski**\n**hh:d:Juchniewicz:Karaimski**\n**hh:d:Lavrinovic:Karaimskij**\n**hh:d:Levi:Karaimskij**\n**hh:d:Mardkowicz:Karaimski**\n**hh:g:Musaev:Karaimskogo**\n**hh:g:Musaev:Karaimskogo:1964**\n**hh:g:Nemeth:Zachodnokaraimskiego**\n**hh:hv:Egorov:Crimean**\n**hh:hv:Oner:Kipcak**\n**hh:ld:Csato:Karaim**\n**hh:s:Grzegorzewski:Caraimica**\n**hh:s:Jankowski:Karaim-Krymchak**\n**hh:s:Pritsak:Karaimische**\n**hh:s:Zajaczkowski:Zachodnio-Karaimskiego**\n**hh:s:vonGrzegorzewski:Turk-Tatarischer**\n**hh:std:Mireev:Karaimov**\n**hh:t:Kowalski:Karaimische**\n**hh:vld:Drimba:Caraimes**\n**mpieva:Baskakov1974Slownikk**\n**mpieva:Kocaoglu2006KarayTra**\n**mpieva:Lavrinovic2005Russkoka**\n**mpieva:Musaev1964Grammati**\n**mpieva:Zajaczkowski1932Lessuffi**"
+  },
+  "altnames": {
+    "wals": "\nKaraim",
+    "moseley & asher (1994)": "\nKaraim",
+    "multitree": "\nKaraim\nKaraite\nKaraím (Ucrania occidental)\nKaraïm\nKaraïm (Crimée)\nKaraïm (Lituanie)\nKaraïm (Ukraine occidentale)",
+    "lexvo": "\nJęzyk karaimski [pl]\nKaraiimin kieli [fi]\nKaraim [en]\nKaraim language [en]\nKaraima lingvo [eo]\nKaraimeg [br]\nKaraimische Sprache [de]\nKaraimiska [sv]\nKaraimų kalba [lt]\nKarayca [tr]\nKaraïm [ca]\nLingua caraima [it]\nLíngua karaim [pt]\nQaray tili [crh]\nКараим чĕлхи [cv]\nКараимски јазик [mk]\nКараимский язык [ru]\nКараїмська мова [uk]\nԿարաիմերեն [hy]\nקראימית [he]\nカライム語 [ja]\n카라임어 [ko]",
+    "hhbib_lgcode": "\nCrimean Karaim\nHalych Karaim\nLithuanian Karaim\nLutsk-Halych\nSouthern (Lutsk-Halich)\nTrakai\nTrakai-Halich\nTrocki\nTroki\nTürk-Tatarischer Dialekt in Galizien",
+    "elcat": "\nKaraim\nKaraite\nKaraïm"
+  },
+  "triggers": {
+    "lgcode": "\nkaraim\nkaraimskogo\nkaraimsko\nkaraimskij"
+  },
+  "identifier": {
+    "wals": "krm",
+    "multitree": "kdr",
+    "endangeredlanguages": "2366"
+  },
+  "classification": {
+    "sub": "**hh:hv:Egorov:Turkic**:16-19 **hh:g:Eleusin:Mischar**:8-9; 322-329",
+    "subrefs": "\n**hh:g:Eleusin:Mischar**\n**hh:hv:Egorov:Turkic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Karaim (2366-kdr) = Critically Endangered (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

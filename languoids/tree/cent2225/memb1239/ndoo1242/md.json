@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ndo",
+    "hid": "ndp",
+    "level": "language",
+    "iso639-3": "ndp",
+    "latitude": "2.68546",
+    "longitude": "30.5652",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "UG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6983774\nhttps://en.wikipedia.org/wiki/Ndo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:32087**\n**eballiso2009:57510**\n**eballiso2009:8907**\n**hh:hb:Kadima:Congo**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hwb:BokulaIrumu:Moru-Mangbetu**\n**hh:typ:Banga:Membitu**"
+  },
+  "altnames": {
+    "multitree": "\nKe'bu\nKebu\nKebutu\nNdo\nNdu\nOke'bu",
+    "lexvo": "\nNdo [en]",
+    "hhbib_lgcode": "\nMembi\nMembitu\nMembitu (Ndo)\nOke'bu\nOkebu"
+  },
+  "triggers": {
+    "lgcode": "\nmangbutu"
+  },
+  "identifier": {
+    "multitree": "ndp"
+  },
+  "classification": {
+    "sub": "**hh:hwb:BokulaIrumu:Moru-Mangbetu**:226-234",
+    "subrefs": "\n**hh:hwb:BokulaIrumu:Moru-Mangbetu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kebu (ndp-ndp) = 5* (Developing)."
+  }
+}

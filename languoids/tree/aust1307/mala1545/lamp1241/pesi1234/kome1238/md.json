@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Komering",
+    "hid": "kge",
+    "level": "language",
+    "iso639-3": "kge",
+    "latitude": "-3.79215",
+    "longitude": "105.107",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Komering](https://wals.info/languoid/lect/wals_code_kag)\nhttps://en.wikipedia.org/wiki/Komering_language\nhttps://www.wikidata.org/entity/Q49224"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gani:yazidyan:etal:86**\n**hh:h:Mitani:South-Sumatra**\n**hh:hv:Anderbeck:Proto-Lampungic**\n**hh:hvw:Walker:Lampung**\n**hh:phon:AbdurrahmanYallop:Komering**\n**hh:s:Donggio:Komering**\n**hh:s:Dunggio:Kayu-Agung**\n**hh:s:Gani:Kayu-Agung**\n**hh:s:Napsin:Komering**\n**hh:s:Schroter:Kemering**\n**hh:wsoc:FernandesSudirman:Komering**\n**iso6393:2007-195**\n**sil16:47333**"
+  },
+  "altnames": {
+    "multitree": "\nKomerin\nKomering\nKumoring\nNjo",
+    "lexvo": "\nKomering [en]",
+    "hhbib_lgcode": "\nKayu Agung\nKemering\nSungkai"
+  },
+  "triggers": {
+    "lgcode": "\nagung\nkomering"
+  },
+  "identifier": {
+    "wals": "kag",
+    "multitree": "kge-kom;kge"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderbeck:Proto-Lampungic**",
+    "subrefs": "\n**hh:hv:Anderbeck:Proto-Lampungic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Komering (kge-kge) = 6b (Threatened)."
+  }
+}

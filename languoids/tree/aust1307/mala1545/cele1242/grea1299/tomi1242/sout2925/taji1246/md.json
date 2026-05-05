@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tajio",
+    "hid": "tdj",
+    "level": "language",
+    "iso639-3": "tdj",
+    "latitude": "-0.31553",
+    "longitude": "120.01",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tajio](https://endangeredlanguages.com/lang/2786)\n[Tajio](https://grambank.clld.org/languages/taji1246)\nhttps://en.wikipedia.org/wiki/Tajio_language\nhttps://www.wikidata.org/entity/Q7676870"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Mayani:Tajio**\n**hh:hsoc:McKenzie:Tajio**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:hw:Himmelmann:Tomini-Tolitoli**\n**sil16:31528**"
+  },
+  "altnames": {
+    "multitree": "\nAdjio\nKasimbar\nTa'adjio\nTadjio\nTajio\nTobada\nTobada'",
+    "lexvo": "\nTajio [en]",
+    "hhbib_lgcode": "\nKasimbar\nTaijo",
+    "elcat": "\nAdjio\nKasimbar\nTa'adjio\nTadjio\nTajio"
+  },
+  "triggers": {
+    "lgcode": "\ndonggala\ntajio\ntomini"
+  },
+  "identifier": {
+    "multitree": "tdj",
+    "endangeredlanguages": "2786"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zobel:Kaili-Wolio**:299",
+    "subrefs": "\n**hh:hv:Zobel:Kaili-Wolio**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tajio (2786-tdj) = Threatened (100 percent certain, based on the evidence available) [Himmelmann 2001](cldf:himmelmann:01)"
+  }
+}

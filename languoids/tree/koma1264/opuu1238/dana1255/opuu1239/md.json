@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Opo",
+    "hid": "lgn",
+    "level": "language",
+    "iso639-3": "lgn",
+    "latitude": "8.47526",
+    "longitude": "33.853",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET",
+      "SS"
+    ],
+    "links": "\n[Opuuo](https://endangeredlanguages.com/lang/2681)\nhttps://www.wikidata.org/entity/Q3354339\nhttps://en.wikipedia.org/wiki/Opuo_language\nhttps://phoible.org/languages/opuu1239"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**eballiso2009:23813**\n**hh:ew:Corfield:Koma**\n**hh:g:Mellese:Tapo**\n**hh:he:Gonzalez-Ruibal:Gambela**\n**hh:hvw:Bender:Ethiopia**\n**hh:hvwphon:Otero:Koman**\n**hh:ld:Bender:Opuuo**\n**hh:phon:vanSilfhout:Opuo**\n**hh:s:Kebebw:Opo**\n**hh:s:Smolders:Bilugu-Opo:2021**\n**hh:typ:Smolders:Bilugu-Opo**\n**hh:w:Corfield:Shilluk**\n**hh:w:Grottanelli:Coma**\n**iso6393:2016-030**"
+  },
+  "altnames": {
+    "multitree": "\n\"Langa\"\nAnsita\nCiita\nCita\nKina\nKwina\nOpo\nOpo-Shita\nOpuo\nOpuuo\nOpúo\nShiita\nShita\nShitta",
+    "lexvo": "\nOpo [fr]\nOpuuo [en]\nOpuuo language [en]",
+    "hhbib_lgcode": "\nBilugu Opo\nBuldiit\nCentral Koma (Ansita)\nChiita\nCiita\nDana\nGambiel (from Kilai) (Koman language Shyita (= Ciita/Ansita) as Gambiel (Gambela) and Kilai are place names)\nKigile Opo\nKusgilo\nMadin A\nMadin B\nModin\nModin Opo\nOpuoo\nOpuuo\nPame Opo\nT'apo",
+    "elcat": "\n\"Langa\"\nAnsita\nCiita\nCita\nKina\nKwina\nOpo\nOpo-Shita\nOpuo\nOpuuo\nShiita\nShita\nShitta\nUpo",
+    "glottolog": "\nT'apo"
+  },
+  "triggers": {
+    "lgcode": "\nopuuo\nopo"
+  },
+  "identifier": {
+    "multitree": "lgn",
+    "endangeredlanguages": "2681"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Otero:Koman**",
+    "subrefs": "\n**hh:hvwphon:Otero:Koman**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Opuuo (2681-lgn) = Endangered (20 percent certain, based on the evidence available) [n.a. 1998](cldf:np:98:1)"
+  }
+}

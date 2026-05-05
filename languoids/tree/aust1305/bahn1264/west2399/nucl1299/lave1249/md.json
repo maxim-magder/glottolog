@@ -1,0 +1,55 @@
+{
+  "core": {
+    "name": "Brao",
+    "hid": "brb",
+    "level": "language",
+    "iso639-3": "brb",
+    "latitude": "14.5994",
+    "longitude": "107.008",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Brao](https://grambank.clld.org/languages/lave1249)\n[Brao](https://lexibank.clld.org/languages/sidwellbahnaric-brao)\n[Brao](https://wals.info/languoid/lect/wals_code_bra)\n[Lave](https://endangeredlanguages.com/lang/3968)\nhttps://en.wikipedia.org/wiki/Brao_language\nhttps://phoible.org/languages/lave1249\nhttps://www.wikidata.org/entity/Q4957737"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:541**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:sidwell:jacq:03**\n**cldf:sidwell:jacq:ed:03:1**\n**hh:e:Baird:Brao**\n**hh:e:Baird:Brao:EFEO**\n**hh:e:Mallow:Krung**\n**hh:e:Matras-Troubetzkoy:Brou**\n**hh:e:Seidenfaden:Chaubun**\n**hh:ew:Taupin:Braous**\n**hh:hb:Parker:Austroasiatic**\n**hh:hv:SidwellJacq:WBahnaric**\n**hh:hv:Smith:Mon-Khmer**\n**hh:hvld:Sokhampu:Cambodian**\n**hh:hw:Prachakitchakonrachak:Siam**\n**hh:lde:MatrasMartin:Brou**\n**hh:phon:Keller:Brao-Krung**\n**hh:s:Keller:Brao**\n**hh:v:Keller:Brao**\n**hh:w:Cabaton:Dix**\n**hh:w:Matras-Troubetzkoy:Brou**\n**iso6393:2021-009**"
+  },
+  "altnames": {
+    "wals": "\nBrao",
+    "ruhlen (1987)": "\nBrao",
+    "moseley & asher (1994)": "\nBrao",
+    "multitree": "\nBrao\nBraou\nBrau\nBrou\nLave\nLaveh\nLove\nLue\nProu\nProue\nRawe\nVeh",
+    "lexvo": "\nLave [en]",
+    "hhbib_lgcode": "\n= Lowland Brao\nBrao (Laveh)\nBrao Krung\nBrao Tanao\nBrao of Pailin\nBrou\nBrou Cambodge\nJree\nKavet\nKha Palau\nKha Tang-Ong\nKravet\nKru'ng 2\nKrung\nLVH Laveh (Le-ven)\nLave\nLaveh\nLowland Brao\nLun\nN Brao\nProu\nRawa\nSouthern Brao",
+    "elcat": "\nBrao\nBraou\nBrau\nBrou\nLave\nLaveh\nLove\nLue\nProu\nProue\nRawe\nVeh"
+  },
+  "triggers": {
+    "lgcode": "\nsketch AND brao\nbraous\nbrao\nhuit"
+  },
+  "identifier": {
+    "wals": "bra",
+    "multitree": "brb",
+    "endangeredlanguages": "3968"
+  },
+  "classification": {
+    "sub": "**hh:v:Keller:Brao**",
+    "subrefs": "\n**hh:v:Keller:Brao**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Lave (3968-brb) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has three entries Brao [brb], Kavet [krv], and Krung [krr] for varieties which are mutually intelligible (**hh:v:Keller:Brao**) and could all be called Brao. See also: Kavet [krv], Krung [krr].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "brb"
+  }
+}

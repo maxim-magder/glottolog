@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Barzani Jewish Neo-Aramaic",
+    "hid": "bjf",
+    "level": "language",
+    "iso639-3": "bjf",
+    "latitude": "31.7696",
+    "longitude": "35.1536",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Barzani\n[Central Jewish Neo-Aramaic](https://endangeredlanguages.com/lang/9290)\nhttps://www.wikidata.org/entity/Q33234"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:haeberl:13**\n**hh:hv:Khan:Neo-Aramaic-Northern-Iraq**\n**hh:s:Mutzafi:Barzani-Jewish-Neo-Aramaic**\n**hh:t:Mutzafi:Barzani**"
+  },
+  "altnames": {
+    "multitree": "\nBarzani Jewish Neo-Aramaic\nBijil Neo-Aramaic\nJudéo-araméen barszani (Iraq)\nJudéo-araméen barszani (Israël)\nLishan Didan\nLishan Dideni\nNeo-arameo judío barzani (Israel)",
+    "lexvo": "\nBarzani Jewish Neo-Aramaic [en]\nBijil neoaramejski [hr]\nDjananeg [br]",
+    "hhbib_lgcode": "\nJewish Barzan",
+    "elcat": "\nBarzani Jewish Neo-Aramaic\nCentral Jewish Neo-Aramaic\nNENA"
+  },
+  "triggers": {
+    "lgcode": "\nbarzani"
+  },
+  "identifier": {
+    "multitree": "bjf",
+    "endangeredlanguages": "9290"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kim:Modern-Aramaic**",
+    "subrefs": "\n**hh:hv:Kim:Modern-Aramaic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Central Jewish Neo-Aramaic (9290) = Critically Endangered (60 percent certain, based on the evidence available) (The Barzani dialect in 2003 had no more than 20 speakers, all in their 70s and 80s.) [Mutzafi 2004](cldf:mutzafi:04:2)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Guamo",
+    "hid": "NOCODE_Guamo",
+    "level": "language",
+    "latitude": "8.2351027",
+    "longitude": "-67.4018753",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "VE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5613495\nhttps://en.wikipedia.org/wiki/Guamo_language",
+    "timespan": "1778-01-01/1778-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Morey:Llanos**\n**hh:hvw:Ortiz:Colombia**\n**hh:w:Anonimo:Guama**"
+  },
+  "triggers": {
+    "lgcode": "\nguamo"
+  },
+  "identifier": {
+    "multitree": "qax;qao;0in"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Adelaar:Andes**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Guamo, an extinct language isolate attested only with the wordlist in **hh:w:Anonimo:Guama**, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Guamo"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Guamo (NOCODE_Guamo-NOCODE_Guamo) = 10 (Extinct)."
+  }
+}

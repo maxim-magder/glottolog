@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Tidung",
+    "level": "family",
+    "iso639-3": "tid",
+    "hid": "tid",
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "macroareas": [
+      "Papunesia"
+    ],
+    "longitude": "117.55143",
+    "latitude": "3.937955",
+    "links": "\nhttps://en.wikipedia.org/wiki/Tidung_language\nhttps://www.wikidata.org/entity/Q7049643"
+  },
+  "classification": {
+    "sub": "**hh:ld:Moody:Tidong** **hh:h:Lobel:Philippine**",
+    "subrefs": "\n**hh:ld:Moody:Tidong**\n**hh:h:Lobel:Philippine**"
+  },
+  "iso_retirement": {
+    "change_request": "2015-058",
+    "remedy": "Split into Northern Tidung [ntd] and Southern Tidung [itd]",
+    "code": "tid",
+    "name": "Tidong",
+    "effective": "2016-01-15",
+    "reason": "split",
+    "change_to": "\nntd\nitd"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Schneeberger:Central-Northeast-Borneo**\n**hh:e:Sellato:Bulungan:2001**\n**hh:w:Sugono:Swadesh-Bulungan**\n**iso6393:2015-058**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nOrang Tidong\nSesajap\nSesayap\nTidong\nTidung Sesayap"
+  }
+}

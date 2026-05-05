@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kuruáya",
+    "hid": "kyr",
+    "level": "language",
+    "iso639-3": "kyr",
+    "latitude": "-7.30696",
+    "longitude": "-55.17252",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kuruaya](https://endangeredlanguages.com/lang/3085)\nhttps://www.wikidata.org/entity/Q3200633\nhttps://en.wikipedia.org/wiki/Kuruaya_language\nhttps://phoible.org/languages/kuru1309",
+    "timespan": "2010-01-01/2010-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cabral:16:3**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:30**\n**cldf:np:nd:264**\n**fabreall2009ann:Tupi_kuruaia1**\n**fabreall2009ann:Tupi_kuruaia5**\n**hh:e:Nimuendaju:LMXingu**\n**hh:e:Snethlage:Mittleren-Xingu**\n**hh:ew:Snethlage:Xingu-Tapajoz**\n**hh:hv:Mendes:Kuruaya-Munduruku**\n**hh:phon:Costa:Kuruaya**\n**hh:phon:daSilva:Kuruaya**\n**hh:w:Nimuendaju:Kuruaya**\n**hh:w:Snethlage:Chipaya**\n**hh:w:Snethlage:Chipaya-Curuahe**\n**ldh:item_406669**\n**mpieva:Mendes2007Comparac**"
+  },
+  "altnames": {
+    "glottolog": "\nKuruaya",
+    "multitree": "\nCaravare\nCuruaia\nKuruaia\nKuruaya\nKuruáya",
+    "lexvo": "\nKuruáya [en]",
+    "hhbib_lgcode": "\nCuruahé\nKuruaya",
+    "elcat": "\nCaravare\nCuruaia\nKuruaia\nKuruaya\nKuruáya"
+  },
+  "triggers": {
+    "lgcode": "\ncuruaya\nkuruaya\nnordbrasilianischen\nvestida"
+  },
+  "identifier": {
+    "multitree": "kyr",
+    "endangeredlanguages": "3085"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nikulin:Tupian-Vowel**",
+    "subrefs": "\n**hh:hv:Nikulin:Tupian-Vowel**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kuruaya (3085-kyr) = Dormant [Cabral 2016](cldf:cabral:16:3)"
+  }
+}

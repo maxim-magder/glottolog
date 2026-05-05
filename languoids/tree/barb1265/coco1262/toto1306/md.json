@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Totoro",
+    "hid": "ttk",
+    "level": "language",
+    "iso639-3": "ttk",
+    "latitude": "2.55149",
+    "longitude": "-76.6379",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\n[Totoró](https://endangeredlanguages.com/lang/3495)\n[Totoró](https://lexibank.clld.org/languages/hubercolumbian-Totoro)\nhttps://en.wikipedia.org/wiki/Totoro_language\nhttps://www.wikidata.org/entity/Q3532756",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3587**\n**cldf:castano;:montenegro:12**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**hh:g:Gonzales:Namtrik**\n**hh:h:Gonzales:Totoro**\n**hh:h:Schuller:Vanished**\n**hh:hv:Anonymous:Grenade**\n**hh:hv:Rivet:Kokonuko**\n**hh:hvw:Brinton:American**\n**hh:hvw:HuberReed:Colombia**\n**hh:ld:Pabon:Totoro**\n**hh:s:Gonzales:Nam-Trik**\n**hh:s:Pabon:Totoro**\n**hh:typ:Pabon:Totoro:1989**\n**hh:w:Ortiz:Totoro**"
+  },
+  "altnames": {
+    "multitree": "\nPolindara\nTotoro\nTotoró",
+    "lexvo": "\nTotoro [en]",
+    "hhbib_lgcode": "\nMocoa-Barbacoa resemling Totoro\nNam Trik de Totoro\nNamtrik\nTototó",
+    "elcat": "\nPolindara\nTotoro\nTotoró"
+  },
+  "triggers": {
+    "lgcode": "\npanikita\ntotoro"
+  },
+  "identifier": {
+    "multitree": "ttk",
+    "endangeredlanguages": "3495"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Gonzales:Barbacoa** **hh:hv:Adelaar:Andes**:141-151",
+    "subrefs": "\n**hh:hvw:Gonzales:Barbacoa**\n**hh:hv:Adelaar:Andes**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Totoró (3495-ttk) = Dormant [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

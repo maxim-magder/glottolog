@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pentlatch",
+    "hid": "ptw",
+    "level": "language",
+    "iso639-3": "ptw",
+    "latitude": "49.1936",
+    "longitude": "-124.689",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2069475\nhttps://en.wikipedia.org/wiki/Pentlatch_language",
+    "timespan": "1940-01-01/1940-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barnett:39**\n**cldf:barnett:55**\n**cldf:suttles:58**\n**hh:e:KennedyBouchard:Northern-Coast-Salish**\n**hh:hew:Tyloretal:North-Western-Canada**\n**hh:hv:Swadesh:Salish:1950**\n**hh:s:Boas:Pentlatch**"
+  },
+  "altnames": {
+    "multitree": "\nPentlatc\nPentlatch\nPuntlatch\npənƛʼáč",
+    "lexvo": "\nPentlatch [en]",
+    "hhbib_lgcode": "\nPentlatch Pt"
+  },
+  "triggers": {
+    "lgcode": "\npentlatch"
+  },
+  "identifier": {
+    "multitree": "ptw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950** **hh:e:KennedyBouchard:Northern-Coast-Salish**:441",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**\n**hh:e:KennedyBouchard:Northern-Coast-Salish**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Pentlatch (2399-ptw) = Extinct"
+  }
+}

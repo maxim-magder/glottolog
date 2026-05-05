@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ingrian",
+    "hid": "izh",
+    "level": "language",
+    "iso639-3": "izh",
+    "latitude": "59.47403",
+    "longitude": "29.71145",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "EE",
+      "RU"
+    ],
+    "links": "\n[Ingrian](https://endangeredlanguages.com/lang/1457)\n[Ingrian](https://grambank.clld.org/languages/ingr1248)\n[Ingrian](https://lexibank.clld.org/languages/syrjaenenuralic-ingrian)\n[Izhor](https://wals.info/languoid/lect/wals_code_izh)\nhttps://en.wikipedia.org/wiki/Ingrian_language\nhttps://www.wikidata.org/entity/Q33559"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:keppen:53**\n**cldf:kiuru:93:1**\n**cldf:konkova:95**\n**cldf:laanest:74**\n**cldf:laanest:82**\n**cldf:lewis:ed:09**\n**cldf:markus:rozhanskiy:13**\n**cldf:np:nd:264**\n**cldf:rozhanskiy:11**\n**cldf:sedov:87**\n**cldf:semenov:ed:00:2**\n**cldf:shlygina:98:1**\n**cldf:sjogren:33**\n**cldf:tolstov:ed:64**\n**cldf:ushakov:90**\n**cldf:uspenskij:45**\n**cldf:zolotarev:27**\n**hh:d:Jussila:Inkeroismurteiden**\n**hh:d:Nirvi:Inkeroismurteiden**\n**hh:dial:Laanest:Izorskie**\n**hh:g:Chernyavskij:Izorskij**\n**hh:phon:Kuznetsova:Izhorskix**\n**hh:phon:Kuznetsova:Izorskix**\n**hh:phon:Magiste:Rosona**\n**hh:phonv:Laanest:Izorskogo**\n**hh:phonv:Sovijarvi:Soikkolan**\n**hh:s:Junus:Izoran**\n**hh:s:Laanest:Izorskij**\n**hh:s:Markus:Ingrian**\n**hh:s:Porkka:Ingrischen**\n**hh:sv:Sidorkevic:Ingermanlandskix-Sibiri**\n**hh:typ:Saar:Soikkola**\n**mpieva:Haarmann1984Soziolin**"
+  },
+  "altnames": {
+    "wals": "\nIzhor",
+    "moseley & asher (1994)": "\nIngrian",
+    "multitree": "\nIngrian\nIngriano\nIngrien\nIngrisch\nIsurisch\nIzhor\nIzhora\nIzhorian\nIžorisch\ningrien\ninkerin kieli\nizhor\nižoran keeli\nižorskij jazyk\nkarjala\nkarjalan keeli\nužory",
+    "lexvo": "\nIdioma ingrio [es]\nIjoreg [br]\nIngrian [en]\nIngrian language [en]\nIngrien [fr]\nIngries [af]\nIngrisch [nl]\nIngrish [gv]\nIngrisk [no]\nIngriska [sv]\nInkeroisen kieli [fi]\nInkeroisgiella [se]\nIschorische Sprache [de]\nIsuri keel [et]\nIĵora lingvo [eo]\nIžoru valoda [lv]\nIžorų kalba [lt]\nJęzyk ingryjski [pl]\nІжорська мова [uk]\nИжора кыв [kv]\nИжоронь кель [myv]\nИжорски език [bg]\nИжорский язык [ru]\nИнгрийн мотт [ce]",
+    "hhbib_lgcode": "\nIngermanlandskix Pereselentsev v Sibiri\nIzhor\nIzor\nRosona\nSoikkola",
+    "elcat": "\nIngrian\nIngrisch\nIsurisch\nIzhorian\nIžorisch\ningrien\ninkerin kieli\ninkerioinen\ninkeroisen kieli\nisuri keel\nizhor\nižoran keeli\nižorskij jazyk\nmaakeeli\nužory\nижорский язык"
+  },
+  "triggers": {
+    "lgcode": "\nsoziolinguistisch\ninkeroismurteiden\ningrischen\nizoran\nkeelen\ngrammatikka"
+  },
+  "identifier": {
+    "wals": "izh",
+    "multitree": "izh",
+    "endangeredlanguages": "1457"
+  },
+  "classification": {
+    "sub": "**hh:hv:Viitso:Fennic**",
+    "subrefs": "\n**hh:hv:Viitso:Fennic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ingrian (1457-izh) = Severely Endangered (80 percent certain, based on the evidence available) (Both Ingrian and Votic populations have decreased drastically from the second half of the 20th century onwards.) [Markus and Rozhanskiy 2013](cldf:markus:rozhanskiy:13)"
+  }
+}

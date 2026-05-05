@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tshangla",
+    "hid": "tsj",
+    "level": "language",
+    "iso639-3": "tsj",
+    "latitude": "27.3694",
+    "longitude": "91.7741",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Bodic_Tshangla](https://lexibank.clld.org/languages/sagartst-MotuoMenba)\n[Monpa Dirang](https://lexibank.clld.org/languages/abrahammonpa-MonpaDirang)\n[Monpa Dirang Dum](https://lexibank.clld.org/languages/abrahammonpa-MonpaDirangDum)\n[Monpa Sangti](https://lexibank.clld.org/languages/abrahammonpa-MonpaSangti)\n[Monpa Tembang](https://lexibank.clld.org/languages/abrahammonpa-MonpaTembang)\n[Tshangla](https://grambank.clld.org/languages/tsha1245)\n[Tshangla](https://wals.info/languoid/lect/wals_code_tgl)\nhttps://en.wikipedia.org/wiki/Tshangla_language\nhttps://phoible.org/languages/tsha1245\nhttps://www.wikidata.org/entity/Q36840"
+  },
+  "classification": {
+    "sub": "**hh:g:Andvik:Tshangla**:4-7 **hh:hv:vanDriem:Himalayas**:991 **hh:hv:Hyslop:Kurtop-Bhutan** **hh:hev:Bodt:Eastern-Bhutan**:188-189",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:hv:Hyslop:Kurtop-Bhutan**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:g:Andvik:Tshangla**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:andvik:03**\n**cldf:saxena:ed:04:1**\n**hh:d:Dzonkha:Tshangla**\n**hh:d:Hoshi:Sharchok**\n**hh:g:Andvik:Tshangla**\n**hh:g:Andvik:Tshangla:1999**\n**hh:g:Grollmann:Bjokapakha**\n**hh:he:Dutta:Arunachal**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Latham:Comparative**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hw:Robinson:Asam**\n**hh:hwsoc:Abrahametal:WArunachal:2018**\n**hh:s:Andvik:Tshangla**\n**hh:s:Andvik:Tshangla:2017**\n**hh:s:Chakravarty:Monpa-Dirang**\n**hh:s:DasGupta:Central-Monpa**\n**hh:s:Egli-Roduner:Tsangla**\n**hh:s:Grollmann:Bjokapakha**\n**hh:s:Hofrenning:Tsangla**\n**hh:s:Wangdi:Sharchokpa**\n**hh:s:Zhang:Cangluo**\n**hh:s:Zhang:Tsangluo:2007**\n**hh:typ:Andvik:Tshangla**\n**hh:typ:Wangdi:Sharchokpa-Nominals**\n**hh:vw:Blench:Monpa**\n**hh:w:Bufan:Zangmian**\n**hh:w:Campbell:India**\n**hh:w:Kumar:Memba**\n**hh:w:Stack:Tsangla**\n**mpieva:Liu1986CuonaMen**\n**mpieva:Sun1980MenbaLuo**\n**mpieva:Zhang1986CangluoM**"
+  },
+  "altnames": {
+    "wals": "\nTshangla",
+    "wals other": "\nMonpa\nMonpa (Central)",
+    "ruhlen (1987)": "\nMonpa",
+    "moseley & asher (1994)": "\nMonpa",
+    "multitree": "\nCanglo Monba\nCangluo Menba\nCangluo Monpa\nCentral Monpa\nChangla\nMenba\nMenba de Motuo\nMonpa\nMotuo Monba\nMotuo Monpa\nSangla\nSarchapkkha\nShachobiikha\nShachopkha\nSharchagpakha\nSharchhopkha\nSharchopka\nTsangla\nTsanglo\nTshangla",
+    "lexvo": "\nLenga Tshangla [pms]\nLingua Tsangla [la]\nLingua tshangla [it]\nTchanglaeg [br]\nTshangla [en]\nTshangla language [en]\nTshanglaish [gv]\n仓洛语 [zh]",
+    "hhbib_lgcode": "\nBhotia Changla\nBjokapakha\nCangluo\nCangluo Eastern Bhutan\nCentral Monpa\nCentral-Monpa\nChanglo\nDirang Dum Monpa (k)\nDirang Monpa\nDirang Monpa (o)\nDungsam Tsangla\nDungsam Tsangla and Upper Trashigang Tsangla\nGamri Lungpa\nMemba\nMemba (numerals p 12 match Tsangla)\nMemba which is here\nMotuo\nMotuo Menba\nMotuo Monpa (= Tsangla)\nSharchok\nTsangla\nTsangla-Bhutanese\nTsangluo"
+  },
+  "triggers": {
+    "lgcode": "\ndengren\nmonpa\ncangluo\ndirang\ntshangla"
+  },
+  "identifier": {
+    "wals": "tgl",
+    "multitree": "tsj;tsha"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Motuo Menba (1219-tsj) = Definitely endangered; Tshangla (1258-tsj) = Vulnerable"
+  }
+}

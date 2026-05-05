@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Kugbo",
+    "hid": "kes",
+    "level": "language",
+    "iso639-3": "kes",
+    "latitude": "4.72951",
+    "longitude": "6.56333",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kugbo](https://endangeredlanguages.com/lang/5022)\nhttps://www.wikidata.org/entity/Q3813394\nhttps://en.wikipedia.org/wiki/Kugbo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hddial:Wolff:Abuan**"
+  },
+  "altnames": {
+    "multitree": "\nKugbo\nNigeria",
+    "lexvo": "\nKugbo [en]",
+    "elcat": "\nKugbo"
+  },
+  "identifier": {
+    "multitree": "kes;kugb",
+    "endangeredlanguages": "5022"
+  },
+  "classification": {
+    "sub": "**hh:hddial:Wolff:Abuan**",
+    "subrefs": "\n**hh:hddial:Wolff:Abuan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kugbo (5022-kes) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

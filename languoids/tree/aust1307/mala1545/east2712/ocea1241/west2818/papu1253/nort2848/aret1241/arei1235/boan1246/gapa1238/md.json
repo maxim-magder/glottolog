@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Gapapaiwa",
+    "hid": "pwg",
+    "level": "language",
+    "iso639-3": "pwg",
+    "latitude": "-9.73317",
+    "longitude": "149.854",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Gapapaiwa](https://grambank.clld.org/languages/gapa1238)\n[Gapapaiwa](https://lexibank.clld.org/languages/abvdoceanic-Gapapaiwa)\n[Gapapaiwa](https://wals.info/languoid/lect/wals_code_gap)\nhttps://en.wikipedia.org/wiki/Gapapaiwa_language\nhttps://www.wikidata.org/entity/Q3095245"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lynch:ross:etal:ed:02:9**\n**cldf:mcguckin:mcguckin:92**\n**hh:d:MacGuckinMacGuckin:Gapapaiwa**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Lithgow:Milne**\n**hh:hvw:Ray:Melanesian**\n**hh:s:McGuckin:Gapapaiwa**\n**hh:w:Atkinson:Damwapa**\n**hh:w:Liston-Blyth:Paiwa**\n**hh:w:Strong:North-Eastern-Divisions**\n**sil16:33961**\n**sil16:34176**\n**sil16:50719**\n**silpng:silpng1991-2000:578**\n**silpng:silpng1991-2000:579**"
+  },
+  "altnames": {
+    "wals": "\nGapapaiwa",
+    "ruhlen (1987)": "\nGapapaiwa (Paiwa, Manape)",
+    "moseley & asher (1994)": "\nGapapaiwa",
+    "multitree": "\nGapa\nGapapaiwa\nManape\nPaiwa",
+    "lexvo": "\nGapapaiwa [en]",
+    "hhbib_lgcode": "\nBoanaki\nBoniki Village of Menapi six miles South of Cape Vogel\nDamwapa\nDauakerike could\nPaiwa\nPaiwa (= Gapapaiwa)\nas Gapapaiwa"
+  },
+  "triggers": {
+    "lgcode": "\ngapapaiwa\nviruwina\ntupua"
+  },
+  "identifier": {
+    "wals": "gap",
+    "multitree": "pwg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hvld:Lithgow:Milne**:460",
+    "subrefs": "\n**hh:hvld:Lithgow:Milne**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gapapaiwa (pwg-pwg) = 5 (Developing)."
+  }
+}

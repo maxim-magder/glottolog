@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Babalia Creole Arabic",
+    "hid": "bbz",
+    "level": "language",
+    "iso639-3": "bbz",
+    "latitude": "12.7617",
+    "longitude": "16.6925",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Babalia Creole Arabic](https://endangeredlanguages.com/lang/10836)\nhttps://www.wikidata.org/entity/Q3504186\nhttps://en.wikipedia.org/wiki/Babalia_Creole_Arabic"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:haberl:15**\n**cldf:haeberl:nd**\n**hh:e:Decobert:Babalia**\n**hh:el:Bouquet:Babalia**\n**hh:el:BouquetCaprile:Babalia**\n**hh:phon:Decobert:Arabe-Babalia**\n**iso6393:2019-013**"
+  },
+  "altnames": {
+    "multitree": "\nArabic, Babalia Creole\nBabalia\nBabalia Creole Arabic\nBabaliya\nBubalia",
+    "lexvo": "\nBabalia Creole Arabic [en]",
+    "elcat": "\nBabalia Creole Arabic"
+  },
+  "triggers": {
+    "lgcode": "\nbabalia"
+  },
+  "identifier": {
+    "multitree": "bbz",
+    "endangeredlanguages": "10836"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Kaye:Chadian**",
+    "subrefs": "\n**hh:hvtyp:Kaye:Chadian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Babalia Creole Arabic (10836-bbz) = Threatened (20 percent certain, based on the evidence available) [Häberl In press](cldf:haeberl:nd)"
+  },
+  "iso_retirement": {
+    "code": "bbz",
+    "name": "Babalia Creole Arabic",
+    "effective": "2020-01-23",
+    "reason": "non-existent",
+    "change_to": "",
+    "change_request": "2019-013"
+  }
+}

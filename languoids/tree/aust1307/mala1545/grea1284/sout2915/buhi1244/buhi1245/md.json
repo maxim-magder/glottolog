@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Buhid",
+    "hid": "bku",
+    "level": "language",
+    "iso639-3": "bku",
+    "latitude": "12.6396",
+    "longitude": "121.21",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Buhid_language\nhttps://www.wikidata.org/entity/Q1002956"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Larena:Philippines**\n**hh:h:Lobel:Philippine**\n**hh:hld:Tweddell:Mindoro**\n**hh:hv:Pennoyer:Buhid-Tawbuid**\n**hh:hv:Zorc:Bisayan**\n**hh:hvw:Barbian:Mangyan-Mindoro**\n**hh:phon:Barham:Mangyan**\n**hh:w:Barbian:Mangyan-English**\n**hh:w:Yap:Philippine**\n**sil16:10021**"
+  },
+  "altnames": {
+    "multitree": "\nBangon\nBatangan\nBuhid\nBukil",
+    "lexvo": "\nBuhid [en]\nBuhid language [en]\nภาษาบูฮิด [th]",
+    "hhbib_lgcode": "\nBangon\nBato Eli-San José Padurucan on the southern bank of the Bugsanga (Bisanga) river\nMangyan-Buhid"
+  },
+  "triggers": {
+    "lgcode": "\nbuhid"
+  },
+  "identifier": {
+    "multitree": "bku"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blust:CPhilippines**",
+    "subrefs": "\n**hh:hv:Blust:CPhilippines**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Buhid (bku-bku) = 5* (Developing)."
+  }
+}

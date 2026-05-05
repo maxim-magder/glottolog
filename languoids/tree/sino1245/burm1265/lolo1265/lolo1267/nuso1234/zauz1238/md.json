@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Zauzou",
+    "hid": "zal",
+    "level": "language",
+    "iso639-3": "zal",
+    "latitude": "26.4572",
+    "longitude": "98.8634",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Zauzou](https://endangeredlanguages.com/lang/5168)\nhttps://www.wikidata.org/entity/Q3616358\nhttps://en.wikipedia.org/wiki/Zauzou_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:sun:sunhongkai:etal:02**\n**hh:g:Li:Zauzou**\n**hh:g:Sunetal:Rouruo**\n**hh:h:Thurgood:Zauzou**\n**hh:hld:ShearerHongkai:China**\n**hh:hvw:Lama:Nisoic**\n**hh:hvw:Satterthwaite-Phillips:Tibeto-Burman**\n**hh:s:Sun:Rourou**\n**hh:s:Sun:Rouruo:2007**\n**hh:typ:Hull:Zauzou**"
+  },
+  "altnames": {
+    "multitree": "\nIndependent Lolo\nJaojo\nRaorou\nRourou\nZaozou\nZauzou",
+    "lexvo": "\nZauzou [en]",
+    "hhbib_lgcode": "\nGuoli\nGuoli Rourou\nJiangmo Zauzou\nRourou\nRouruo\nZaozou",
+    "elcat": "\nIndependent Lolo\nJaojo\nRaoruo\nRouruo\nZauzou\n柔若語"
+  },
+  "triggers": {
+    "lgcode": "\nrouruoyo\nrouruo"
+  },
+  "identifier": {
+    "multitree": "zal",
+    "endangeredlanguages": "5168"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**:157",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Zauzou (5168-zal) = Endangered (60 percent certain, based on the evidence available) (Old people can speak, but many young people are semi-speakers or do not speak it at all.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

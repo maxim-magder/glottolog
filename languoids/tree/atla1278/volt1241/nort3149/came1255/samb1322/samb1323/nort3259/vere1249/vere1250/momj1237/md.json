@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mom Jango",
+    "hid": "ver",
+    "level": "language",
+    "iso639-3": "ver",
+    "latitude": "8.8658",
+    "longitude": "12.7473",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35862\nhttps://en.wikipedia.org/wiki/Vere_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**eballiso2009:53610**\n**hh:h:Temple:NNigeria**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hvld:Kleinewillinghofer:Vere-Gimne-Longto**\n**hh:hw:Strumpell:Adamauas**\n**hh:w:Kleinewillinghofer:Gemme-Vere-Doyayo**\n**hh:w:Kleinewillinghofer:Vere**"
+  },
+  "altnames": {
+    "multitree": "\nKobo\nMom Jango\nVere\nVerre\nWere",
+    "lexvo": "\nMom Jango [en]",
+    "hhbib_lgcode": "\nJango\nJango (Mom Jango) of Dan Wumba-Nigeria\nJango (N) of Nassarawa Koma\nJango (S) of Soncha\nJango (S)-(N) of Soncha-of Nassarawa Koma-Nigeria\nJango of Dan Wumba\nVere\nVerre (Zango) of Nassarao\nWere\nWere of Strumpell 1910"
+  },
+  "triggers": {
+    "lgcode": "\nthrough AND cameroons\nmomi\nvere"
+  },
+  "identifier": {
+    "multitree": "ver"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kleinewillinghofer:Samba-Duru**",
+    "subrefs": "\n**hh:hv:Kleinewillinghofer:Samba-Duru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Verre (ver-ver) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Coast Miwok",
+    "hid": "csi",
+    "level": "language",
+    "iso639-3": "csi",
+    "latitude": "38.3285",
+    "longitude": "-122.994",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Coast Miwok](https://endangeredlanguages.com/lang/1693)\nhttps://www.wikidata.org/entity/Q2981109\nhttps://en.wikipedia.org/wiki/Coast_Miwok_language\n[Miwok (Bodega)](https://wals.info/languoid/lect/wals_code_mkb)",
+    "timespan": "1978-01-01/1978-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:collier:thalman:91**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:moseley:07**\n**hh:d:Callaghan:Bodega-Miwok**\n**hh:e:Kelly:Coast-Miwok**\n**hh:hew:vonWrangellKostromitinov:NWAmerika**\n**hh:hvb:Golla:California**\n**hh:hvw:Barrett:Miwok**\n**hh:hvw:Powell:California**\n**hh:s:Freeland:Western-Miwok**\n**hh:w:Gibbs:Northwest-California**"
+  },
+  "altnames": {
+    "wals": "\nMiwok (Bodega)",
+    "wals other": "\nMiwok (Bodega)",
+    "ruhlen (1987)": "\nMiwok (Coast)",
+    "moseley & asher (1994)": "\nMiwok (Coast)",
+    "multitree": "\nBollanos\nCoast Miwok\nCostal Miwok\nMiwok (Bodega)\nMiwok (Coast)\nMiwok, Coast",
+    "lexvo": "\nCoast Miwok [en]",
+    "hhbib_lgcode": "\nBai Bodega\nBodega Miwok\nBodega W Coast\nBodega dialect of Miwok-Coast\nCoast Miwok (\"Tcho-koyem\")\nMiwok-Coast\nOlamentke\nTcho-ko-yem\nThe text given here is in the dialect spoken by this small group of Miwok living in the hills of the Coast Range",
+    "elcat": "\nBollanos\nCoast\nCoast Miwok\nCostal Miwok\nMiwok\nMiwok (Bodega)\nMiwok (Coast)"
+  },
+  "triggers": {
+    "lgcode": "\nbodega"
+  },
+  "identifier": {
+    "wals": "mkb",
+    "multitree": "csi",
+    "endangeredlanguages": "1693"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Callaghan:Utian**:8-9",
+    "subrefs": "\n**hh:hvw:Callaghan:Utian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Coast Miwok (1693-csi) = Dormant [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Havasupai-Walapai-Yavapai",
+    "hid": "yuf",
+    "level": "language",
+    "iso639-3": "yuf",
+    "latitude": "35.6302",
+    "longitude": "-113.385",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Havasupai](https://wals.info/languoid/lect/wals_code_hav)\n[Havasupai-Walapai-Yavapai](https://grambank.clld.org/languages/hava1248)\n[Hualapai](https://wals.info/languoid/lect/wals_code_hlp)\n[Upland Yuman](https://endangeredlanguages.com/lang/6469)\n[Yavapai](https://wals.info/languoid/lect/wals_code_yav)\nhttps://www.wikidata.org/entity/Q111366384"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2867**\n**asjp2010:4408**\n**asjp2010:931**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:redden:66**\n**cldf:redden:76**\n**cldf:watahomigie:bender:etal:01**\n**cldf:watahomigie:berder:etal:82**\n**cldf:yegerlehner:voegelin:57**\n**hh:d:Watahomigie:Hualapai**\n**hh:e:Harrison:Yavapai**\n**hh:e:KheraMariella:Yavapai**\n**hh:e:McGuire:Walapai**\n**hh:e:Schwartz:Havasupai**\n**hh:g:Hardy:Tolkapaya**\n**hh:g:Kendall:Yavapai**\n**hh:g:Seiden:Havasupai**\n**hh:g:Watahomigie:Hualapai**\n**hh:g:Watahomigie:Hualapai:1982**\n**hh:hv:Kendall:Yuman**\n**hh:hvb:Golla:California**\n**hh:ld:Biggs:Yuman**\n**hh:phond:Shaterian:Yavapai**\n**hh:s:Gatschet:Yuma:1892**\n**hh:s:Kozlowski:Havasupai**\n**hh:s:Redden:Walapai**\n**hh:s:Redden:Walapai:1965**\n**hh:s:ScottYamamoto:Gwaawja**\n**hh:typ:Thomas-Flinders:Maricopa**\n**hh:v:Joel:Paipai**\n**hh:w:Corbusier:Yavapai**\n**mpieva:Spier1946Comparat**\n**mpieva:Watahomigie2001Hualapai**\n**mpieva:Winter1998WalapaiH**\n**sil16:12614**\n**sil16:12615**"
+  },
+  "altnames": {
+    "wals": "\nHavasupai\nHualapai\nYavapai",
+    "wals other": "\nUpland Yuman\nWalapai\nYuman (Upland)",
+    "ruhlen (1987)": "\nHavasupai\nWalapai\nYavapai",
+    "moseley & asher (1994)": "\nHavasupai\nWalapai\nYavapai",
+    "multitree": "\nHavasupai\nHavasupai-Walapai-Yavapai\nHualapai\nNorthern Pai\nPai\nUpland\nUpland Yuman\nUpper Colorado River Yuman\nUpper River Yuman\nWalapai\nWalapai-Havasupai-Yavapai\nYavapai\nYavapái",
+    "lexvo": "\nHavasupai-Walapai-Yavapai [en]",
+    "hhbib_lgcode": "\nArizona Pai\nAvesupai\nHavasupai\nHualapai\nWalapai\nYavapai",
+    "elcat": "\nHavasupai\nHavasupai-Walapai-Yavapai\nHualapai\nNorthern Pai\nPai\nUpland\nUpland Yuman\nUpper Colorado River Yuman\nUpper River Yuman\nYavapai"
+  },
+  "triggers": {
+    "lgcode": "\nhualapai\nyavapai\nhavasupai\nwalapai"
+  },
+  "identifier": {
+    "wals": "yav;hlp;hav",
+    "multitree": "yuf-wal;yuf",
+    "endangeredlanguages": "6469"
+  },
+  "classification": {
+    "sub": "**hh:typ:Langdon:Yuman**:419-422",
+    "subrefs": "\n**hh:typ:Langdon:Yuman**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Upland Yuman (6469-yuf) = Threatened (60 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

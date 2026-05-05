@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Western Flemish",
+    "hid": "vls",
+    "level": "language",
+    "iso639-3": "vls",
+    "latitude": "51.0754",
+    "longitude": "3.11345",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BE",
+      "FR",
+      "NL"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/West_Flemish\nhttps://www.wikidata.org/entity/Q100103"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Couche:Vlamsch**\n**hh:d:deBo:Westvlaamsch**\n**hh:g:Marteel:Flamand**\n**hh:hvphon:Sercu:Oostduinkerke**\n**hh:ldsoc:vandeLouw:Flamand**\n**hh:phon:Soete:Kortrijk**\n**hh:s:Carnel:Flamand**\n**hh:s:DevosVandekerckhove:West-Vlaams**\n**hh:s:Ryckeboer:Frans-Vlaams**\n**hh:s:Vercouillie:Westvlaamsch**\n**hh:soc:Deram:Flamand-Westhoek**\n**hh:soc:Goudissabois:Flamand-France**\n**hh:soc:deCoussemaker:Flamand**\n**hh:t:Carnel:Flamands**\n**hh:t:deCoussemaker:Flamand**\n**hh:typ:Haegeman:West-Flemish**\n**hh:typsoc:Ryckeboer:West-Flemish**\n**hh:typsoc:Vandekerckhove:Deerlijkse**\n**hh:vsoc:Rohrig:Westhoek**\n**hh:vsoc:Ryckeboer:Nederlands-Noord-Frankrijk**"
+  },
+  "altnames": {
+    "multitree": "\nFlamand\nFlamand occidental\nFlamenco occidental\nFlemish\nVlaams\nVlaemsch",
+    "lexvo": "\nFlamand [fr]\nFlamandu kalba [lt]\nFlamandų kalba [lt]\nFlamanski jezik [hr]\nFlamländska [sv]\nFlamsk [no]\nFlandra lingvo [eo]\nFlandrezeg [br]\nFlandriera [eu]\nFlemisc sprǣc [ang]\nFlemish [en]\nFlemish language [en]\nFlämische Dialekte [de]\nFlæmska [is]\nIdioma flamenco [es]\nJęzyk flamandzki [pl]\nLimba flamandă [ro]\nLingua Flandrica [la]\nLingua fiamminga [it]\nLèngoa fiamminga [lij]\nLíngua flamenga [pt]\nVlaams [af]\nVlaams-ngî [hak]\nΦλαμανδική γλώσσα [el]\nФламандиаг æвзаг [os]\nФламандски диалекти [bg]\nФламандский язык [ru]\nФламански јазик [mk]\nФламански језик [sr]\nফ্লেমিশ ভাষা [bn]\nภาษาเฟลมิช [th]\nᐱᓚᒥᔅ/pilamis [iu]\nフラマン語 [ja]\n佛兰芒语 [zh]",
+    "hhbib_lgcode": "\nDeerlijkse\nFlamand Occidental\nFlamand Westhoek\nFlamand de France\nFlamand-France\nFrans-Vlaams\nKortrijk\nOostduinkerke\nVlaams\nWest Flemish\nWest Flemish in France\nWest-Vlaams\nWestern Vlaams\nWesthoek\nWestvlaamsch",
+    "glottolog": "\nVlaams"
+  },
+  "triggers": {
+    "lgcode": "\nflamand\nlocutions\nvlaams\nproverbiales\nflamands"
+  },
+  "identifier": {
+    "multitree": "vls",
+    "languagelandscape": "http://languagelandscape.org/language/Flemish"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weijnen:Nederlandse**:320-347 **hh:hv:Taeldeman:Southwestern-Dutch**",
+    "subrefs": "\n**hh:hv:Weijnen:Nederlandse**\n**hh:hv:Taeldeman:Southwestern-Dutch**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "West Flemish (1476-vls, zea) = Vulnerable"
+  }
+}

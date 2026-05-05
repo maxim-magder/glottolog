@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Woleaian",
+    "hid": "woe",
+    "level": "language",
+    "iso639-3": "woe",
+    "latitude": "7.37957",
+    "longitude": "143.916",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Woleaian](https://endangeredlanguages.com/lang/3328)\n[Woleaian](https://grambank.clld.org/languages/wole1240)\n[Woleaian](https://lexibank.clld.org/languages/abvdoceanic-Woleaian)\n[Woleaian](https://wals.info/languoid/lect/wals_code_wol)\nhttps://en.wikipedia.org/wiki/Woleaian_language\nhttps://www.wikidata.org/entity/Q34037"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alkire:91**\n**cldf:bellwood:95**\n**cldf:betzig:harrigan:etal:89**\n**cldf:betzig:wichimai:91**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:burrows:63**\n**cldf:burrows:spiro:53**\n**cldf:calculator:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:keesing:84:2**\n**cldf:le:00**\n**cldf:lewis:ed:09**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:oliver:74**\n**cldf:sosis:05**\n**cldf:spiro:52**\n**cldf:spiro:80**\n**hh:d:Sohn-Tawerilmang:Woleaian**\n**hh:e:Alkire:Woleai**\n**hh:e:HambruchSarfert:Ifaluk**\n**hh:g:Sohn:Woleaian**\n**hh:hew:Kramer:Lamotrek**\n**hh:hvw:Jackson:Trukic**\n**hh:hvw:Quackenbush:Sonsorol-Truk**\n**hh:s:Tawerilmang:Woleaian**\n**hh:w:Harrison:Woleaian**\n**mpieva:Jackson1984Theinter**"
+  },
+  "altnames": {
+    "wals": "\nWoleaian",
+    "moseley & asher (1994)": "\nWoleaian",
+    "multitree": "\nWoleai\nWoleaian\nWoleayano",
+    "lexvo": "\nWoleaian [en]",
+    "hhbib_lgcode": "\nIfaluk\nLamotrek\nOleai\nWoleai",
+    "elcat": "\nWoleaian"
+  },
+  "triggers": {
+    "lgcode": "\nwoleai\nwoleaian"
+  },
+  "identifier": {
+    "wals": "wol",
+    "multitree": "woe",
+    "endangeredlanguages": "3328"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jackson:Trukic**",
+    "subrefs": "\n**hh:hvw:Jackson:Trukic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Woleaian (3328-woe) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

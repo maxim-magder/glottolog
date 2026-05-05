@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Purisimeño",
+    "hid": "puy",
+    "level": "language",
+    "iso639-3": "puy",
+    "latitude": "34.6866",
+    "longitude": "-120.431",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2967638\nhttps://en.wikipedia.org/wiki/Purisime%C3%B1o_language",
+    "timespan": "1900-01-01/1900-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Greenwood:Obispeno-Purisimeno**\n**hh:hvb:Golla:California**\n**hh:w:Heizer:Henshaw**\n**hh:w:Heizer:Pinart**\n**hh:w:Henry:Purisimeno**\n**mpieva:Pinart1952TheMissi**"
+  },
+  "altnames": {
+    "glottolog": "\nPurisimeno",
+    "multitree": "\nChumasha Proper\nLa Purisima\nPurisimeño\nPurismeño\nPurísima\nSanta Rosa",
+    "lexvo": "\nPurisimeño [en]",
+    "hhbib_lgcode": "\nChumash IV\nLa Purisima\nVocabulario del idioma Alapamus o La Purisima"
+  },
+  "triggers": {
+    "lgcode": "\nvocabularies AND pinart"
+  },
+  "identifier": {
+    "multitree": "puy"
+  },
+  "classification": {
+    "sub": "**hh:hv:JonesKlar:Polynesian-Southern-California**",
+    "subrefs": "\n**hh:hv:JonesKlar:Polynesian-Southern-California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Purisimeño (853-puy) = Extinct"
+  }
+}

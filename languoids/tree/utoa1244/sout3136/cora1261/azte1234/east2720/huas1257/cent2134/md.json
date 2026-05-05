@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Central Huasteca Nahuatl",
+    "hid": "nch",
+    "level": "language",
+    "iso639-3": "nch",
+    "latitude": "21.0963",
+    "longitude": "-98.4356",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2194290"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Garcia:Huasteca-Nahuatl**\n**hh:soct:Stiles:Hidalguense**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Nawa\nMexicano\nNahua central\nNahuatl\nNahuatl, Central Huasteca\nNáhuatl central",
+    "lexvo": "\nCentral Huasteca Nahuatl [en]\nLingua nahuatl huaxteca centrale [it]",
+    "hhbib_lgcode": "\nChicontepec"
+  },
+  "triggers": {
+    "lgcode": "\nhidalguense"
+  },
+  "identifier": {
+    "multitree": "nch"
+  },
+  "classification": {
+    "sub": "**hh:hv:Canger:Nahuas:1988**:478-479",
+    "subrefs": "\n**hh:hv:Canger:Nahuas:1988**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Central Náhuatl (1503-nhn, nch, ncx) = Vulnerable"
+  }
+}

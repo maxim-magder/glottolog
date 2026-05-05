@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Casuarina Coast Asmat",
+    "hid": "asc",
+    "level": "language",
+    "iso639-3": "asc",
+    "latitude": "-6.43005",
+    "longitude": "138.566",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Asmat, Casuarina Coast (Masin Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-asmat-casuarina-coast-masin)\n[Asmat, Casuarina Coast (Otenep Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-asmat-casuarina-coast-otenep)\n[Asmat, Casuarina Coast (Pirimapun Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-asmat-casuarina-coast-pirimapun)\nhttps://en.wikipedia.org/wiki/Casuarina_Coast_Asmat_language\nhttps://www.wikidata.org/entity/Q11732046"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:drabbe:59:1**\n**cldf:drabbe:59:2**\n**hh:e:deAntoni:Asmat**\n**hh:h:Mambrasar:Arso-Sentani**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hvw:Voorhoeve:Asmat**\n**hh:hw:Drabbe:Asmat-Dialecten**"
+  },
+  "altnames": {
+    "multitree": "\nAsmat\nAsmat, Casuarina Coast\nCasuarina Coast Asmat\nKaweinag",
+    "lexvo": "\nCasuarina Coast Asmat [en]",
+    "hhbib_lgcode": "\nAsmat-Casuarina Coast\nKaweinag dialect\nPirimapun\nPirimopon"
+  },
+  "triggers": {
+    "lgcode": "\njaya AND asmat"
+  },
+  "identifier": {
+    "multitree": "asc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Voorhoeve:Asmat**",
+    "subrefs": "\n**hh:hvw:Voorhoeve:Asmat**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Asmat, Casuarina Coast (asc-asc) = 6b* (Threatened)."
+  }
+}

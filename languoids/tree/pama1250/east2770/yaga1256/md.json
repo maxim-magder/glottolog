@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Yagara-Jandai",
+    "hid": "NOCODE_Yagara",
+    "level": "language",
+    "latitude": "-27.87647555",
+    "longitude": "152.4602773",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Durubul](https://lexibank.clld.org/languages/bowernpny-Durubul)\nhttps://en.wikipedia.org/wiki/Turrbal_language\nhttps://www.wikidata.org/entity/Q16979305",
+    "timespan": "1983-01-01/1983-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jefferies:Guwar**:61-66",
+    "subrefs": "\n**hh:hvw:Jefferies:Guwar**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:morwood:87**\n**cldf:winterbotham:80**\n**hh:d:Moorgumpin:Jandai**\n**hh:ew:ColliverWoolston:Stradbroke**\n**hh:hvw:Jefferies:Guwar**\n**hh:hvwphon:Holmer:South-Eastern-Queensland**\n**hh:hw:Ridley:Australian**\n**hh:lde:Lauterer:Australien-Tasmanien**\n**hh:s:Ridley:Turrubul**\n**hh:std:Sullivan:Yagara**\n**hh:w:Ridley:Kamilaroi:1875**\n**hh:w:Ridley:Turrubul**\n**hh:w:WatkinHamilton:Wogee**\n**hh:w:Watson:Queensland**\n**ozbib:2556**\n**ozbib:3408**\n**ozbib:3409**\n**ozbib:438**\n**ozbib:5086**\n**ozbib:5418**"
+  },
+  "triggers": {
+    "lgcode": "\nstradbroke\naborigine\nturrubul\ntasmanien"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Yagara, an extinct language of the East Queensland Border Pama Nyungan subgroup,\nis missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:lde:Lauterer:Australien-Tasmanien**, **hh:w:Ridley:Kamilaroi:1875**, **hh:s:Ridley:Turrubul**, **hh:w:Ridley:Turrubul**, **hh:hw:Ridley:Australian**, **hh:w:WatkinHamilton:Wogee**, **hh:d:Moorgumpin:Jandai**, **hh:hvwphon:Holmer:South-Eastern-Queensland**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Yagara"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Yagara (6804-yxg) = Awakening"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nDurubul\nGoenpul\nJandai\nMoondjan\nMunjan\nNoonukul\nNunugal\nOther: Nunagal\nTurrubul\nTurubul\nYagara\nYaggara-the language of the Yerongpan tribe on the `Sandy Country' between Brisbane and Ipswich\nYugarabul"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Siri",
+    "hid": "sir",
+    "level": "language",
+    "iso639-3": "sir",
+    "latitude": "10.764",
+    "longitude": "9.66743",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Siri](https://endangeredlanguages.com/lang/5374)\nhttps://www.wikidata.org/entity/Q3438729\nhttps://en.wikipedia.org/wiki/Siri_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Skinner:NBauchi**\n**hh:w:Gowers:Bauchi**\n**hh:wsoc:Decker:Bauchi-Jigawa**"
+  },
+  "altnames": {
+    "multitree": "\nSirawa\nSiri",
+    "lexvo": "\nSiri [en]\nSiri language [en]",
+    "hhbib_lgcode": "\nSirawa\nSiri (Sini Ningi)\nSiri (Siri Baba)",
+    "elcat": "\nSirawa\nSiri"
+  },
+  "triggers": {
+    "lgcode": "\ntwo AND siar"
+  },
+  "identifier": {
+    "multitree": "sir",
+    "endangeredlanguages": "5374"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Decker:Bauchi-Jigawa** **hh:g:Schuh:Miya**:1",
+    "subrefs": "\n**hh:wsoc:Decker:Bauchi-Jigawa**\n**hh:g:Schuh:Miya**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Siri (5374-sir) = Endangered (60 percent certain, based on the evidence available) (Older adults only.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

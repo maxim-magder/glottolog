@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Acroá",
+    "hid": "acs",
+    "level": "language",
+    "iso639-3": "acs",
+    "latitude": "-12.20318",
+    "longitude": "-45.08975",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2829146\nhttps://en.wikipedia.org/wiki/Acro%C3%A1_language",
+    "timespan": "1900-01-01/1900-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Apolinario:Akroa**\n**hh:hw:Martius:Brasiliens**\n**hh:v:OrphaoDamulakis:Akroa-Xakriaba**"
+  },
+  "altnames": {
+    "glottolog": "\nAcroa",
+    "multitree": "\nAcroamirim\nAcroá\nAkroá\nCoroá\nKoroá",
+    "lexvo": "\nAcroá [en]",
+    "hhbib_lgcode": "\nAcroa Mirim\nAkroá"
+  },
+  "triggers": {
+    "lgcode": "\nakroa\npraticas"
+  },
+  "identifier": {
+    "multitree": "acs"
+  },
+  "classification": {
+    "sub": "**hh:v:OrphaoDamulakis:Akroa-Xakriaba**",
+    "subrefs": "\n**hh:v:OrphaoDamulakis:Akroa-Xakriaba**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Acroá (acs-acs) = 10 (Extinct)."
+  }
+}

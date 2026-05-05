@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Defaka",
+    "hid": "afn",
+    "level": "language",
+    "iso639-3": "afn",
+    "latitude": "4.58451",
+    "longitude": "7.50186",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Defaka](https://endangeredlanguages.com/lang/305)\n[Defaka](https://grambank.clld.org/languages/defa1248)\n[Defaka](https://wals.info/languoid/lect/wals_code_def)\nhttps://en.wikipedia.org/wiki/Defaka_language\nhttps://phoible.org/languages/defa1248\nhttps://www.wikidata.org/entity/Q35174"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:akinlabi:connell:etal:11**\n**cldf:blench:11:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:connell:bennett:etal:09**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:shryock:ladefoged:etal:96**\n**eballiso2009:30159**\n**hh:g:Essien:Defaka**\n**hh:hv:Blench:Ijoid**\n**hh:hv:Connell:Defaka-Ijo:2012**\n**hh:hv:Connelletal:Defaka-Ijo**\n**hh:hv:Jenewari:Defaka**\n**hh:phon:Shyrock:Defaka**\n**hh:s:Jenewari:Defaka**\n**hh:typ:Essien:Defaka**\n**hh:v:Williamson:Defaka**\n**sil16:18805**\n**sil16:21294**"
+  },
+  "altnames": {
+    "wals": "\nDefaka",
+    "ruhlen (1987)": "\nDefaka-Nkooro",
+    "moseley & asher (1994)": "\nDefaka",
+    "multitree": "\nAfakani\nDefaka",
+    "lexvo": "\nDefaka [en]\nDefaka jezik [hr]\nDefaka language [en]\nDefakeg [br]",
+    "elcat": "\nAfakani\nDefaka"
+  },
+  "triggers": {
+    "lgcode": "\ndefaka"
+  },
+  "identifier": {
+    "wals": "def",
+    "multitree": "defk;afn",
+    "endangeredlanguages": "305"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jenewari:Ijoid**, **hh:hv:Connell:Defaka-Ijo:2012**",
+    "subrefs": "\n**hh:hv:Jenewari:Ijoid**\n**hh:hv:Connell:Defaka-Ijo:2012**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Defaka (305-afn) = Severely Endangered (40 percent certain, based on the evidence available) (The small number of Defaka speakers, and the dominance of other languages in the area, puts the Defaka language in extreme risk of extinction. Within the Defaka communities, Nkoroo is the dominant language. All Defaka people use Nkoroo on an everyday basis, which is an alarming sign of Defaka being lost completely.) [Akinlabi et al. 2011](cldf:akinlabi:connell:etal:11)"
+  }
+}

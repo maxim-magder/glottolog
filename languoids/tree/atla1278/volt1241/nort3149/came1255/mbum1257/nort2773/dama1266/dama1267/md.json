@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dama (Cameroon)",
+    "hid": "dmm",
+    "level": "language",
+    "iso639-3": "dmm",
+    "latitude": "8.72207",
+    "longitude": "14.0597",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Dama](https://endangeredlanguages.com/lang/801)\nhttps://www.wikidata.org/entity/Q5211865"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4136**\n**cldf:lewis:ed:09**\n**cldf:mortier:41**\n**cldf:np:nd:264**\n**eballiso2009:55393**\n**hh:hel:Sommer:Survey**\n**hh:hsoc:AyotteAyotte:Dama**\n**hh:hvw:Boyd:Adamawa**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Strumpell:Adamauas**"
+  },
+  "altnames": {
+    "lexvo": "\nDama [en]",
+    "hhbib_lgcode": "\nDama\nDama (Reibuba-Bevölkerung)",
+    "elcat": "\nDama"
+  },
+  "triggers": {
+    "lgcode": "\nclassificate\noblo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Elders:Kebi-Benue** **hh:s:Glidden:Koh**:225-226 **hh:phon:UbelsUbels:Karang**:1-5 **hh:hv:Elders:Kebi-Benue**",
+    "subrefs": "\n**hh:phon:UbelsUbels:Karang**\n**hh:s:Glidden:Koh**\n**hh:hv:Elders:Kebi-Benue**"
+  },
+  "identifier": {
+    "endangeredlanguages": "801"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dama (801-dmm) = Critically Endangered (100 percent certain, based on the evidence available) [Ayotte and Ayotte 2002](cldf:ayotte:ayotte:02:2)"
+  }
+}

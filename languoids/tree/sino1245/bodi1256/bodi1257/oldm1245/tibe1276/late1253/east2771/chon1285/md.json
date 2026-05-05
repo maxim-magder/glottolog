@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Choni",
+    "hid": "cda",
+    "level": "language",
+    "iso639-3": "cda",
+    "latitude": "33.91167",
+    "longitude": "103.46196",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Choni](https://endangeredlanguages.com/lang/4160)\nhttps://www.wikidata.org/entity/Q2964447\nhttps://en.wikipedia.org/wiki/Choni_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:jacques:14:3**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Nakano:Amdo**\n**hh:h:PowellSuzuki:Qinghai-Tibet**\n**hh:hvw:Yang:Cone**\n**hh:ld:Qu:Zhuoni**\n**hh:phon:Lin:Thebo**\n**hh:phon:Suzuki:DGonpa**\n**hh:phon:Suzuki:Ongsum**\n**hh:phon:Tshebrtan:Cone**\n**hh:phon:Tshebstan:Cone**\n**hh:phonv:Hua:Songpan**\n**hh:phonv:Zou:Zhuoni**\n**hh:soc:Janhunen:Shaowa-Tuzu**\n**hh:soc:Powell:Diebu**\n**hh:sv:Renzeng:Diebu**\n**hh:typ:Mrgyamtsho:Seraolongwa**\n**hh:typ:Suzuki:Bragkhoglung**\n**hh:typt:ZouSuzuki:Cone**\n**hh:vdial:Powell:Thewo**\n**hh:vld:Suzuki:Bragkhoglung**\n**hh:vld:Suzuki:Shar-Khod**\n**hh:vphon:Suzuki:Sharkhog**"
+  },
+  "altnames": {
+    "multitree": "\nChona\nChone\nChoni\nCone\nJone",
+    "lexvo": "\nChoni [en]",
+    "hhbib_lgcode": "\nBragkhoglung\nBragkhoglung Cone\nBragkhoglung Tibetan\nCone\nConi\nCuoni\nDGonpa\nDazhai\nDiebu\nGyiba Tibetan\nHanpan\nKhod po khog\nKhöpokhok\nLuo Dahua\nRi-dwangs/Rong-thag\nRidwags Tibetan\nSerrong Lungwa\nShanba\nShaowa Tuzu\nShar Khog\nSharkhog\nSharkhok\nSharkhok (Ndzorge area)\nSongpan\nThebo\nThewo\nThewo-Mä\nThromjekhog Songpan\nWangzang\nXiaobaosi\nZangbawa Tibetan in Cone County\nZhagulu\nZhuoni\ndBang-gtsang\ngTsang-pa-ba\nmBrugchu",
+    "elcat": "\nChona\nChone\nChoni\nCone\nJone\n卓尼話"
+  },
+  "triggers": {
+    "lgcode": "\nzhuoni\nbod\nshengyunmu\nhuiyao\nliang\nguanxi\ndpyad"
+  },
+  "identifier": {
+    "multitree": "cda",
+    "endangeredlanguages": "4160"
+  },
+  "classification": {
+    "sub": "**hh:h:Suzuki:Zhuoni-Diebu-Zhouqu** **hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hv:TournadreSuzuki:Tibetic**\n**hh:h:Suzuki:Zhuoni-Diebu-Zhouqu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Choni (4160-cda) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

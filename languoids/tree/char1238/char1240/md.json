@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Charrúa",
+    "hid": "NOCODE_Charrua",
+    "level": "language",
+    "latitude": "-34.9",
+    "longitude": "-56.16",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "UY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5086680\nhttps://en.wikipedia.org/wiki/Charr%C3%BAa_language",
+    "timespan": "1900-01-01/1900-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Rivet:Charruas**\n**hh:e:Serrano:Charrua**\n**hh:h:Becker:Uruguai**\n**hh:h:Teschauer:Rio-Grande-Sul**\n**hh:hew:dOrbigny:Americain:2**\n**hh:hv:Chamberlain:Puelchean**\n**hh:hv:Schuller:Charrua**\n**hh:ld:Etchegoyen:Charrua**\n**hh:ld:Perea:Charruas**\n**hh:ld:Viegas:Charruas**\n**hh:vld:Viegas:Charruas-Numerales**\n**hh:w:Boerr:Charrua**\n**hh:w:Rona:Charrua**\n**hh:w:Schuller:Charrua**"
+  },
+  "altnames": {
+    "glottolog": "\nCharrua",
+    "hhbib_lgcode": "\nCharrua\nCharruas"
+  },
+  "triggers": {
+    "lgcode": "\ncharrua"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Charrúa, an extinct Charruan language of Uruguay, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:w:Rona:Charrua**, **hh:hew:dOrbigny:Americain:2**, **hh:w:Boerr:Charrua**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Charrua"
+  },
+  "classification": {
+    "sub": "**hh:w:Lafone:Chanases**",
+    "subrefs": "\n**hh:w:Lafone:Chanases**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Charrúa (NOCODE_Charrua-NOCODE_Charrua) = 10 (Extinct)."
+  }
+}

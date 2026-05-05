@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Bebeli",
+    "hid": "bek",
+    "level": "language",
+    "iso639-3": "bek",
+    "latitude": "-5.63282",
+    "longitude": "150.323",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bebeli](https://endangeredlanguages.com/lang/9809)\n[Bebeli](https://lexibank.clld.org/languages/abvdoceanic-Bebeli)\nhttps://en.wikipedia.org/wiki/Bebeli_language\nhttps://www.wikidata.org/entity/Q4878430"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:15:2**\n**cldf:sato:15**\n**cldf:sato:16**\n**cldf:spencer:vancott:etal:13**\n**hh:h:Goodenough:New-Guinea**\n**hh:hv:Chowning:WNewBritain**\n**hh:hv:Ross:WMelanesia**\n**hh:hvwld:Johnston:Kimbe-Bay**\n**hh:w:MacKenzieetal:Ambul**\n**hh:w:MacKenzieetal:Bebeli**\n**hh:wsoc:Spenceretal:Amio-Gelimi**\n**hh:wsoc:VanCottSpencer:Avau**"
+  },
+  "altnames": {
+    "multitree": "\nBanaule\nBebeli\nBeli\nBenaule\nKapore",
+    "lexvo": "\nBebeli [en]",
+    "hhbib_lgcode": "\nBanaule\nBebeli (Banaule/Kapore)\nBebeli-Kapore\nMorokea\nMosa",
+    "elcat": "\nBebeli"
+  },
+  "identifier": {
+    "multitree": "bek",
+    "endangeredlanguages": "9809"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chowning:WNewBritain**",
+    "subrefs": "\n**hh:hv:Chowning:WNewBritain**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bebeli (9809-bek) = Severely Endangered (100 percent certain, based on the evidence available) [Sato 2016](cldf:sato:16)"
+  }
+}

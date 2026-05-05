@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Cocopa",
+    "hid": "coc",
+    "level": "language",
+    "iso639-3": "coc",
+    "latitude": "32.376",
+    "longitude": "-114.848",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Cocopah](https://endangeredlanguages.com/lang/1694)\nhttps://www.wikidata.org/entity/Q33044\nhttps://en.wikipedia.org/wiki/Cocopah_language\n[Cocopa](https://wals.info/languoid/lect/wals_code_ccp)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4281**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crawford:78**\n**cldf:crawford:79:1**\n**cldf:crawford:98**\n**cldf:crawfordjr:66**\n**cldf:cuaron:lastra:91**\n**cldf:drucker:41**\n**cldf:ed:10**\n**cldf:gifford:33**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hinton:munro:ed:98:3**\n**cldf:kelly:42**\n**cldf:langdon:78**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:stolz:96**\n**elpub:ldd2551**\n**hh:d:Crawford:Cocopa**\n**hh:e:Alvarez:Cocopa**\n**hh:e:Kelly:Cocopa**\n**hh:g:Crawford:Cocopa**\n**hh:hb:ThomasSwanton:Mexico**\n**hh:hvb:Golla:California**\n**hh:phontyp:Bendixen:Cocopa**\n**hh:t:Crawford:Cocopa**\n**hh:w:GiffordLowie:Akwaala**\n**sil16:12614**\n**sil16:12615**\n**sil16:33283**"
+  },
+  "altnames": {
+    "wals": "\nCocopa",
+    "wals other": "\nDelta River Yuman\nYuman (Delta River)",
+    "ruhlen (1987)": "\nCocopa",
+    "moseley & asher (1994)": "\nCocopa",
+    "multitree": "\nCocapa\nCocopa\nCocopa (Arizona)\nCocopa (México)\nCocopah\nCocopá\nCucapá\nCucapá (Mexique)\nCucupá\nDelta River Yuman\nKikima\nKikimá\nKwikapá",
+    "lexvo": "\nCocopa [en]\nCocopah language [en]\nCucapa [sv]\nIdioma cucapá [es]",
+    "elcat": "\nCocapa\nCocopa\nCocopah\nCocopá\nCucapá\nCucupá\nDelta River Yuman\nKikima\nKikimá\nKwikapá"
+  },
+  "triggers": {
+    "lgcode": "\nNOT in AND cocopa\ncocopa"
+  },
+  "identifier": {
+    "wals": "ccp",
+    "multitree": "coc",
+    "endangeredlanguages": "1694"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**:117-118",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Cocopah (1694-coc) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

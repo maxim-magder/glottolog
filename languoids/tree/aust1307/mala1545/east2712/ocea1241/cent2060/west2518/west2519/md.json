@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Western Viti Levu-Yasawas Fijian",
+    "hid": "wyy",
+    "level": "language",
+    "iso639-3": "wyy",
+    "latitude": "-17.8355",
+    "longitude": "177.657",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FJ"
+    ],
+    "links": "\n[Fijian (Wayan)](https://wals.info/languoid/lect/wals_code_fiw)\n[Nadroga](https://wals.info/languoid/lect/wals_code_ndr)\n[Western Fijian (Navosa)](https://lexibank.clld.org/languages/abvdoceanic-WesternFijianNavosa)\nhttps://en.wikipedia.org/wiki/Western_Fijian_language\nhttps://www.wikidata.org/entity/Q3062751"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:deane:21**\n**cldf:evenhuis:ed:05**\n**cldf:foster:mcdonald:20**\n**cldf:gounder:reddy:etal:09**\n**cldf:hale:46**\n**cldf:hocart:12**\n**cldf:keesing:84:2**\n**cldf:levu:08**\n**cldf:marck:08**\n**cldf:mcarthur:67**\n**cldf:np:14:5**\n**cldf:pawley:sayaba:03**\n**cldf:reddy:11**\n**cldf:routledge:91**\n**cldf:ryan:09**\n**cldf:ryle:05**\n**cldf:thomson:08**\n**cldf:thomson:95**\n**cldf:thornley:79**\n**cldf:tomlinson:06**\n**cldf:waterhouse:66**\n**cldf:wilkes:45**\n**cldf:williams:58**\n**hh:h:CapellLester:Fiji**\n**hh:hv:Geraghty:Fijian**\n**hh:hv:Geraghty:Fijian:1979**\n**hh:hv:Pawley:Fijian**\n**hh:hvw:Schutz:Viti-Levu**\n**hh:ld:Gatschet:Fijian**\n**hh:s:Geraghty:Nadroga**\n**hh:s:Okamoto:Vatulele-Fijian**\n**hh:typ:Triffit:Yasawa-Fiji**\n**hh:w:Biggs:Nandronga**\n**hh:w:Geraghty:Nadroga**\n**hh:wtyp:Biggs:Western-Viti-Levu**\n**hh:wtyp:Raven-Hart:Yasawa**"
+  },
+  "altnames": {
+    "wals": "\nFijian (Wayan)",
+    "ruhlen (1987)": "\nNamosi-Naitasiri-Serua",
+    "moseley & asher (1994)": "\nFijian",
+    "multitree": "\nFidji-Inseln\nFiji\nFijian (Wayan)\nFijian, Western\nMagodro\nNadroga\nNadronga\nNakoroboya\nNoikoro\nViti\nWaya",
+    "lexvo": "\nWestern Fijian [en]\nWestern Fijian language [en]",
+    "hhbib_lgcode": "\nBaravi (Nadroga)\nFijian Western\nFijian-Western\nKaimbulu\nLewa\nMagodro\nMbau\nNadroga\nNadrogaa\nNadrogā\nNakoroboya\nNalotawa\nNandronga\nNandrongo\nNoikoro\nTubaniwai\nVatulele Fijian\nWaya\nWestern Fijian\nYasawa",
+    "glottolog": "\nWestern Fijian"
+  },
+  "triggers": {
+    "lgcode": "\nnandronga\nnadroga\nfiji"
+  },
+  "identifier": {
+    "wals": "fiw",
+    "multitree": "wyy;wyy-way"
+  },
+  "classification": {
+    "sub": "**hh:hv:Geraghty:Fijian**:278-291",
+    "subrefs": "\n**hh:hv:Geraghty:Fijian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fijian, Western (wyy-wyy) = 6a* (Vigorous)."
+  }
+}

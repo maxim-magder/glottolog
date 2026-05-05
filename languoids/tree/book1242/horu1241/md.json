@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Horuru",
+    "hid": "hrr",
+    "level": "language",
+    "iso639-3": "hrr",
+    "latitude": "-3.12875",
+    "longitude": "129.387",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12632397"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2011-086**"
+  },
+  "altnames": {
+    "multitree": "\nHoruru\nIndonesia",
+    "lexvo": "\nHoruru [en]"
+  },
+  "iso_retirement": {
+    "comment": "The original criteria for including Horuru in the ethnologue as a separate\nlanguage seem to be outweighed by the data that suggests that the name is Haruru\nand is simply a dialect of Yalahatan. Since the only reference for Horuru is\nVoegelin 1965 which is somewhat of a survey of several languages and the only\nnote about Horuru is that it may be an alternate for another languoage or\nextinct, the original inclusion of Horuru seems to be a little weak. Yalahatan,\nwhich is spoken in only two villages (Yalahatan and Haruru), matches well with\nthe classification of Horuru, both being in the Three Rivers linguistic\ngrouping. The geographic location of Horuru is simply Central Maluku, Seram\nwhich is home to several languages, one of which isYalahatan. Since there's no\nlanguage polygon, the location could be anywhere on the island of Seram, but\nnowhere else in Seram is there a village by the name Horuru or a tribe that goes\nby that name (based on the government statistic data from 2000). The closest to\nthe name Horuru is the village Haruru which speaks a dialect of the Yalahatan\nlanguage (Sakiyama 1999 and Beckley personal communication).",
+    "code": "hrr",
+    "name": "Horuru",
+    "effective": "2012-02-03",
+    "remedy": "Merged into the code for Yalahatan [jal]",
+    "reason": "merge",
+    "change_request": "2011-086",
+    "change_to": "\njal"
+  },
+  "identifier": {
+    "multitree": "hrr"
+  }
+}

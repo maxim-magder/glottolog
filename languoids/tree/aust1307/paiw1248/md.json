@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Paiwan",
+    "hid": "pwn",
+    "level": "language",
+    "iso639-3": "pwn",
+    "latitude": "22.3271",
+    "longitude": "120.806",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Paiwan](https://grambank.clld.org/languages/paiw1248)\n[Paiwan](https://wals.info/languoid/lect/wals_code_pai)\nhttps://en.wikipedia.org/wiki/Paiwan_language\nhttps://phoible.org/languages/paiw1248\nhttps://www.wikidata.org/entity/Q715755"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:alvarez:27**\n**cldf:baldick:13**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blundell:ed:00**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:chiang:93**\n**cldf:copper:21**\n**cldf:cribb:00**\n**cldf:ding:yuan:etal:05**\n**cldf:ferrel:69**\n**cldf:ferrel:82**\n**cldf:ho:77**\n**cldf:keesing:84:2**\n**cldf:law:02**\n**cldf:lebar:ed:75**\n**cldf:mabuchi:60**\n**cldf:matsuzawa:89**\n**cldf:mcgovern:22**\n**cldf:np:14:5**\n**cldf:okada:ofpirmitivesocietywei:etal:60**\n**cldf:shih:64**\n**cldf:tan:02**\n**cldf:tan:03**\n**cldf:zeitoun:huang:etal:96**\n**hh:g:Chang:Paiwan**\n**hh:g:Chang:Paiwan:2000**\n**hh:g:Egli:Paiwan**\n**hh:g:Zhang:Paiwan:2018**\n**hh:h:Hattaway:China**\n**hh:h:NA:Taiwan**\n**hh:hew:Davidson:Formosa**\n**hh:hld:Muller:Formosa**\n**hh:hv:Chen:PaiwanRukai**\n**hh:phon:Ho:Butanglu**\n**hh:s:ChenMa:Paiwan**\n**hh:s:Huang:North-Jinfeng-Paiwan**\n**hh:s:Pingtung:Paiwan**\n**hh:s:Pulaluyan:Paiwan**\n**hh:sd:Ferrell:Paiwan**\n**hh:soc:Dechicchis:Paiwan**\n**hh:st:EarlyWhiteborn:Paiwan**\n**hh:typ:Chen:Paiwan**\n**hh:v:Zheng:Paiwan**\n**hh:w:Ho:Paiwan**\n**hh:w:Ho:Paiwan:1995**\n**hh:w:Li:Formosan:2004**\n**mpieva:Chen1986Gaoshanz**\n**mpieva:Egli2002PaiwanWo**\n**sil16:48337**\n**sil16:48374**"
+  },
+  "altnames": {
+    "wals": "\nPaiwan",
+    "wals other": "\nKulalao dialect\nPaiwan",
+    "moseley & asher (1994)": "\nPaiwan",
+    "multitree": "\nButanglu\nKadas\nKale-Whan\nKapiangan\nKatausan\nLi-Li-Sha\nPaiuan\nPaiwan\nPayowan\nSamobi\nSamohai\nSaprek\nSprache von Formosa\nStimul\nTamari",
+    "lexvo": "\nIdioma paiwan [es]\nLingua Paiwan [it]\nPaiwaans [nl]\nPaiwan [en]\nPaiwan language [en]\nPaiwaneg [br]\nPhài-vàn-ngî [hak]\nWikang Paiwan [tl]\nภาษาไปวัน [th]\n排湾语 [zh]",
+    "hhbib_lgcode": "\nButanglu\nNorth Jinfeng Paiwan\nStimul\nTjavuali\nTjuabar\nTjubar"
+  },
+  "triggers": {
+    "lgcode": "\npinaiwanan\nNOT study AND paiwan\npaiwan\npaiwangrammatik"
+  },
+  "identifier": {
+    "wals": "pai",
+    "multitree": "pwn;pain",
+    "languagelandscape": "http://languagelandscape.org/language/Paiwan"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Paiwan (2031-pwn) = Vulnerable"
+  }
+}

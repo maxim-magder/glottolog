@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ma'di",
+    "hid": "mhi",
+    "level": "language",
+    "iso639-3": "mhi",
+    "latitude": "3.62499",
+    "longitude": "31.8471",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS",
+      "UG"
+    ],
+    "links": "\n[Ma'di](https://grambank.clld.org/languages/madi1260)\n[Ma'di](https://wals.info/languoid/lect/wals_code_mad)\nhttps://en.wikipedia.org/wiki/Ma%CA%BCdi_language\nhttps://phoible.org/languages/madi1260\nhttps://www.wikidata.org/entity/Q56670"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3907**\n**asjp2010:4839**\n**cldf:czekanowski:24**\n**cldf:middleton:55**\n**cldf:tucker:67**\n**cldf:wise:ed:97**\n**hh:d:Blackings:Madi**\n**hh:d:Blackings:Madi:2000**\n**hh:g:BlackingsFabb:Madi**\n**hh:h:Allen:Sudan-Uganda**\n**hh:hvtyp:Tucker:Madi**\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**hh:phon:DemolinGoyvaerts:Madi**\n**hh:phon:Kilpatrick:Madi**\n**hh:s:Molinaro:Madi**\n**hh:typ:Andersen:Madi-Relative**\n**sil16:36045**\n**sil16:36046**\n**sil16:37997**\n**sil16:40036**\n**sil16:40775**\n**sil16:41600**\n**sil16:43944**\n**sil16:43945**\n**sil16:43946**\n**sil16:43949**\n**sil16:44808**\n**sil16:48947**"
+  },
+  "altnames": {
+    "wals": "\nMa'di",
+    "wals other": "\nMa'adi\nMa'diti",
+    "ruhlen (1987)": "\nMadi",
+    "moseley & asher (1994)": "\nMadi",
+    "multitree": "\nMa'adi\nMa'di\nMa'diti\nMadi",
+    "lexvo": "\nMa'di [en]\nMadi language [en]",
+    "hhbib_lgcode": "\n3xMadi\nAdjumani Ma'di\nLokai\nLokai Ma'di\nPandikeri\nUgandan Madi in Moyo"
+  },
+  "triggers": {
+    "lgcode": "\nmudri\nma'di"
+  },
+  "identifier": {
+    "wals": "mad",
+    "multitree": "mhi"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:WatsonBoone:Moru-Madi**",
+    "subrefs": "\n**hh:hwsoc:WatsonBoone:Moru-Madi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ma’di (mhi-mhi) = 5 (Developing)."
+  }
+}

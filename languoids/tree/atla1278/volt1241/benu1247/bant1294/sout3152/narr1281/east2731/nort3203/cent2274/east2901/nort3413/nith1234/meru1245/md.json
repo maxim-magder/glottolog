@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Meru",
+    "hid": "mer",
+    "level": "language",
+    "iso639-3": "mer",
+    "latitude": "0.26484",
+    "longitude": "37.7396",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Meru](https://grambank.clld.org/languages/meru1245)\nhttps://en.wikipedia.org/wiki/Meru_language\nhttps://phoible.org/languages/meru1245\nhttps://www.wikidata.org/entity/Q13313"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:holding:42**\n**cldf:lambert:56**\n**cldf:middleton:53**\n**eballiso2009:1098**\n**eballiso2009:1099**\n**eballiso2009:12897**\n**eballiso2009:14068**\n**eballiso2009:15449**\n**eballiso2009:17550**\n**eballiso2009:19227**\n**eballiso2009:19230**\n**eballiso2009:19600**\n**eballiso2009:21309**\n**eballiso2009:22509**\n**eballiso2009:25710**\n**eballiso2009:2661**\n**eballiso2009:28074**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:31839**\n**eballiso2009:35170**\n**eballiso2009:36437**\n**eballiso2009:37620**\n**eballiso2009:39895**\n**eballiso2009:39896**\n**eballiso2009:40455**\n**eballiso2009:40791**\n**eballiso2009:41829**\n**eballiso2009:41830**\n**eballiso2009:41834**\n**eballiso2009:44803**\n**eballiso2009:44804**\n**eballiso2009:44806**\n**eballiso2009:44815**\n**eballiso2009:4509**\n**eballiso2009:45481**\n**eballiso2009:46029**\n**eballiso2009:50699**\n**eballiso2009:54523**\n**eballiso2009:5506**\n**eballiso2009:7057**\n**hh:d:Mugambi:Kemeero**\n**hh:d:Rubanza:Kimeru**\n**hh:dial:Kanana:Meru**\n**hh:e:Dolan:Meru**\n**hh:ew:MoorePuritt:ChaggaMeru**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Erastus:Meru-Tharaka**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Starzmann:Central-Kenya-Bantu**\n**hh:hvw:Bennett:Bantu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvwsoc:Sim:Mt-Kenya**\n**hh:hvwtyp:Mohlig:Bergdialekte**\n**hh:ld:Kanana:Meru**\n**hh:s:Benson:Meru**\n**hh:s:Kinoti:Kemeeru**\n**hh:soc:Pallangyo:Meru**\n**hh:typ:Bernard:Kimeru**\n**hh:typ:Hodges:Kimeru**\n**hh:typ:Lonyangapuo:Kenyan-Bantu**\n**hh:vphon:Kanana:Chuka-Imenti**"
+  },
+  "altnames": {
+    "multitree": "\nKimeru\nMeru",
+    "lexvo": "\nJęzyk meru [pl]\nMeru [en]\nmeru language [en]",
+    "hhbib_lgcode": "\nE53_Igoji\nE53_Imenti\nE53_Meru\nE53_Meruimenti\nE53_Merutig\nE53_Miutini\nE53_Tigania\nIgoji\nImenti\nKemeero\nKimeru\nKimîîru\nMiutini\nMutini\nNkubu\nTigania"
+  },
+  "triggers": {
+    "lgcode": "\nkimeru\nmeru"
+  },
+  "identifier": {
+    "multitree": "mer"
+  },
+  "classification": {
+    "sub": "**hh:hvwtyp:Mohlig:Bergdialekte**",
+    "subrefs": "\n**hh:hvwtyp:Mohlig:Bergdialekte**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kimîîru (mer-mer) = 4 (Educational)."
+  }
+}

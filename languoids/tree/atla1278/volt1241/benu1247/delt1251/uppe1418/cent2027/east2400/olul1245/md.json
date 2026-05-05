@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Olulumo-Ikom",
+    "hid": "iko",
+    "level": "language",
+    "iso639-3": "iko",
+    "latitude": "5.97709",
+    "longitude": "8.56546",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914402\nhttps://en.wikipedia.org/wiki/Ikom_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:12726**\n**eballiso2009:16085**\n**eballiso2009:33706**\n**eballiso2009:4847**\n**eballiso2009:4851**\n**eballiso2009:4852**\n**hh:hv:Dimmendaal:UpperCross**\n**hh:hvw:Blench:Upper-Cross**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:w:Dayrell:Okuni**"
+  },
+  "altnames": {
+    "multitree": "\nLulumo\nOlulumo-Ikom",
+    "lexvo": "\nOlulumo-Ikom [en]",
+    "hhbib_lgcode": "\nIkom\nIkom (Ajijikpo)\nIkom-Olulumo\nOkuni\nOlulumo\nOlulumo (Okuni)\nOlulumo or Okuni"
+  },
+  "triggers": {
+    "lgcode": "\nolulumo\nNOT la AND nsibidi"
+  },
+  "identifier": {
+    "multitree": "iko"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dimmendaal:UpperCross**",
+    "subrefs": "\n**hh:hv:Dimmendaal:UpperCross**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Olulumo-Ikom (iko-iko) = 6b (Threatened)."
+  }
+}

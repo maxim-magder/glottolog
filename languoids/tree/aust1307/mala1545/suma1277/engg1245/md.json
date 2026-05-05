@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Enggano",
+    "hid": "eno",
+    "level": "language",
+    "iso639-3": "eno",
+    "latitude": "-5.38846",
+    "longitude": "102.245",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Enggano](https://endangeredlanguages.com/lang/1760)\nhttps://www.wikidata.org/entity/Q2669164\nhttps://en.wikipedia.org/wiki/Enggano_language\n[Enggano](https://wals.info/languoid/lect/wals_code_eno)"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran**",
+    "subrefs": "\n**hh:hv:Billings:Sumatran**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hemmings:arka:etal:23**\n**cldf:kaehler:40**\n**cldf:koehler:39**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:b:Roth:Nias-Mentawei-Enggano**\n**hh:d:Kahler:Enggano**\n**hh:d:Rajeg:Enggano**\n**hh:d:Riswara:Enggano**\n**hh:e:Amran:Enggano**\n**hh:e:Boewang:Engano**\n**hh:e:terKeurs:Siassi**\n**hh:ew:Modigliani:Engano**\n**hh:ew:Oudemans:Engano**\n**hh:ew:Walland:Engano**\n**hh:ew:vanderStraatenSeverijn:Engano**\n**hh:ew:vonRosenberg:Engano**\n**hh:hb:Suzuki:Nias-Mentawei-Enggano**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hew:Bastian:Sumatra**\n**hh:hew:vonRosenberg:Malayische-Archipel**\n**hh:hld:Kahler:Mischsprachen-Indonesien**\n**hh:hv:Smith:Western-Malayo-Polynesian**\n**hh:phon:Yoder:Enggano**\n**hh:phonv:Schmidt:Enggano**\n**hh:s:Golte-Schroder:Enggano**\n**hh:s:Husin:Enggano**\n**hh:s:Kahler:Enggano**\n**hh:s:Nikelas:Enggano**\n**hh:t:Kahler:Enggano**\n**hh:typ:Butters:Negation**\n**hh:v:Edwards:Enggano**\n**hh:v:Nothofer:Enggano:Lehnworter**\n**hh:w:Helfrich:Engganeesch**\n**hh:w:Oudemans:Enggano**\n**hh:w:Stokhof:Holle:1987**\n**hh:wt:Helfrich:Engganeesch**"
+  },
+  "altnames": {
+    "wals": "\nEnggano",
+    "ruhlen (1987)": "\nEnggano",
+    "moseley & asher (1994)": "\nEnggano",
+    "multitree": "\nEngganese\nEnggano",
+    "lexvo": "\nEnggano [en]",
+    "hhbib_lgcode": "\nEnganese\nEngano",
+    "elcat": "\nEngganese\nEnggano"
+  },
+  "triggers": {
+    "lgcode": "\nenganno\nenggan\nenggano\nengano\nengganeesch"
+  },
+  "identifier": {
+    "wals": "eno",
+    "multitree": "eno;engg",
+    "endangeredlanguages": "1760"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Enggano (1760-eno) = Threatened (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

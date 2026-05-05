@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Jalapa De Díaz Mazatec",
+    "hid": "maj",
+    "level": "language",
+    "iso639-3": "maj",
+    "latitude": "18.0803",
+    "longitude": "-96.4977",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Jalapa_Mazatec\nhttps://www.wikidata.org/entity/Q3915999"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Kirk:Mazatec**\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hvwphon:Kirk:Mazatec**\n**hh:phon:Silvermanetal:Jalapa-Mazatec**\n**hh:t:Perez:Jalapa-Mazatec**\n**hh:typ:JonesSchram:Mazatec-Jalapa**\n**hh:typ:SchramSchram:Mazatec-Japala-Diaz**\n**hh:v:Valle:Mazateco-Jalapa**\n**sil16:11315**\n**sil16:11317**\n**sil16:16507**\n**sil16:16508**\n**sil16:16509**\n**sil16:49562**\n**sil16:50363**\n**sil16:51557**"
+  },
+  "altnames": {
+    "glottolog": "\nJalapa De Diaz Mazatec",
+    "multitree": "\nJalapa Masateko\nLowland Mazatec\nMasateko\nMazatec\nMazatec, Jalapa de Díaz\nMazateco\nMazateco de San Felipe Jalapa de Díaz\nMazateco del este bajo\nMazatèque des basses terres",
+    "lexvo": "\nJalapa De Díaz Mazatec [en]\nJalapa Mazatec [en]\nMazatèque de Jalapa [fr]",
+    "hhbib_lgcode": "\nDO\nJA\nJalapa\nJalapa De Diaz Mazatec\nSan Felipe Jalapa de Díaz\nSanto Domingo\nSanto Domingo del Rio"
+  },
+  "triggers": {
+    "lgcode": "\nnchiyai\nconsanguineal\nencha\njalapa"
+  },
+  "identifier": {
+    "multitree": "maj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudschinsky:Mazatec-Dialect** **hh:hv:Leonard:Mazateco**:20-21 **hh:hv:Leonard:Mazatec-Patterns**:246-247",
+    "subrefs": "\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hv:Leonard:Mazateco**\n**hh:hv:Gudschinsky:Mazatec-Dialect**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Lowland Mazatec (1278-maj) = Vulnerable"
+  }
+}

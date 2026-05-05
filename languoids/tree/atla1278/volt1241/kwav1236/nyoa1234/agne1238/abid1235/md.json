@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Abidji",
+    "hid": "abi",
+    "level": "language",
+    "iso639-3": "abi",
+    "latitude": "5.65656",
+    "longitude": "-4.58421",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34781\nhttps://en.wikipedia.org/wiki/Abidji_language\nhttps://phoible.org/languages/abid1235\n[Abidji](https://wals.info/languoid/lect/wals_code_abd)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tresbarats:90**\n**hh:g:TresbaratsVick:Abidji**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:s:Akale:Abidji**\n**hh:s:Hager:Abidji**\n**hh:s:Tresbarats:Abidji**\n**hh:s:Vick:Abidji**\n**sil16:22291**\n**sil16:22292**\n**sil16:23563**\n**sil16:23564**\n**sil16:23565**\n**sil16:23573**\n**sil16:24232**\n**sil16:24235**\n**sil16:34514**\n**sil16:35504**\n**sil16:36223**"
+  },
+  "altnames": {
+    "wals": "\nAbidji",
+    "ruhlen (1987)": "\nAbiji",
+    "moseley & asher (1994)": "\nAbiji",
+    "multitree": "\nAbidji\nAbiji",
+    "lexvo": "\nAbidji [en]",
+    "hhbib_lgcode": "\nAri\nAri (Abidji)"
+  },
+  "triggers": {
+    "lgcode": "\nogbru\nwoju\nlabidji"
+  },
+  "identifier": {
+    "wals": "abd",
+    "multitree": "abi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kropp:Kwa** **hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Kropp:Kwa**\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Abidji (abi-abi) = 5 (Developing)."
+  }
+}

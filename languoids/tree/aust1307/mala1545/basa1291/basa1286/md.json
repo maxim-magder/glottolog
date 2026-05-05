@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Basap",
+    "hid": "bdb",
+    "level": "language",
+    "iso639-3": "bdb",
+    "latitude": "1.41405",
+    "longitude": "117.942",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3504208\nhttps://en.wikipedia.org/wiki/Basap_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Guerreiro:Basap**\n**hh:h:Guerreiro:Kelai**\n**hh:hvw:Smith:Borneo**\n**hh:lde:Guerreiro:Lebbo**\n**hh:s:Durasid:Basap**\n**hh:s:Ibrahim:Bosap**"
+  },
+  "altnames": {
+    "lexvo": "\nBasap [en]",
+    "hhbib_lgcode": "\nBasap Mangkalihat\nBosap\nBosap di Kabupaten Kutai-khususnya di desa Jitan-Kecamatan Loa Kulu\nInaran\nLebbo’ Aso’ dialect spoken on the Lesan River\nLebu Lebbo Isi\nLebu Lesan\nSouthern Basap\nUlun Lebbo"
+  },
+  "triggers": {
+    "lgcode": "\nkelai\nbasap"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:200-207, 365-375 **hh:hv:SmithRama:Borneo**:205",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:SmithRama:Borneo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Basap (bdb-bdb) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Indus Kohistani",
+    "hid": "mvy",
+    "level": "language",
+    "iso639-3": "mvy",
+    "latitude": "35.3389",
+    "longitude": "73.0154",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Indus_Kohistani_language\nhttps://www.wikidata.org/entity/Q33399"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Zoller:Kohistani**\n**hh:e:Jettmar:Indus-Kohistan**\n**hh:h:Jan:Indus-Kohistan**\n**hh:h:Jettmar:Dardic**\n**hh:he:Barth:Indus-Swat**\n**hh:hvld:Bashir:Dardic**\n**hh:hvsoc:Hallberg:Indus-Kohistan**\n**hh:hvw:Grierson:8:II**\n**hh:ld:Dhar:Kohistani**\n**hh:ld:Dhar:Kohistani-Phonology**\n**hh:s:Buddruss:Kanyawali**\n**hh:s:Dhar:Kohistani**\n**hh:s:HallbergHallberg:Indus-Kohistani**\n**hh:s:Khushboo:Ganderbal-Kohistani**\n**hh:t:Rensch:Indus-Kohistani**\n**hh:typ:Lubberger:Indus-Kohistani**\n**hh:w:Rensch:Indus-Kohistan**\n**mpieva:Backstrom1992Language**\n**mpieva:Pathak1993Echoesof**\n**mpieva:Rensch1992Language**\n**mpieva:Sarker2002Indusscr**\n**mpieva:Zoller2004Agrammar**\n**sil16:32836**\n**sil16:32840**"
+  },
+  "altnames": {
+    "multitree": "\nDardu\nKhili\nKohistani\nKohistani, Indus\nKohiste\nMair\nMaiya\nMaiyon\nMaiyÃ£\nMaiyã\nShuthun",
+    "lexvo": "\nIndus Kohistani [en]",
+    "hhbib_lgcode": "\nDuber\nDuber-Kandia\nIndus Kohistani Kanyawali\nJijal\nJijani\nKandia\nKanyawali Maiya\nKohistani spoken in Kangan area of district Ganderbal of Kashmir valley\nKohistani spoken in district Ganderbal of Kashmir valley\nKohistani-Indus\nMaiya\nPatan\nSeo\nSeo-Patan-Jijal\nan offshoot of Indus Kohistani"
+  },
+  "triggers": {
+    "lgcode": "\nNOT the AND indus"
+  },
+  "identifier": {
+    "multitree": "mvy"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Hallberg:Indus-Kohistan** **hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**\n**hh:hvsoc:Hallberg:Indus-Kohistan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Maiya (2481-mvy) = Vulnerable"
+  }
+}

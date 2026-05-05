@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Patamona",
+    "hid": "pbc",
+    "level": "language",
+    "iso639-3": "pbc",
+    "latitude": "4.75826",
+    "longitude": "-59.5772",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "GY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3915921"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Lutz:Patomana**\n**hh:nt:Bassett:Patamona**\n**hh:phon:Edwards:Akawaio**"
+  },
+  "altnames": {
+    "multitree": "\nEremagok\nIngariko\nIngarikó\nKapon\nKapóng\nPatamona\nPatamona (Brésil)\nPatamona (Guyana)\nPatamona (Guyane)\nPatamuna",
+    "lexvo": "\nPatamona [en]\nPatamona language [en]"
+  },
+  "triggers": {
+    "lgcode": "\npatomana\npatamuna\nstring"
+  },
+  "identifier": {
+    "multitree": "pbc",
+    "endangeredlanguages": "668"
+  },
+  "classification": {
+    "sub": "**hh:g:Sousa:Ingariko**:36-40",
+    "subrefs": "\n**hh:g:Sousa:Ingariko**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Kapong (668-pbc) = Vulnerable (20 percent certain, based on the evidence available) ['bib1902']"
+  }
+}

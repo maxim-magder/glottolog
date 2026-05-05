@@ -1,0 +1,57 @@
+{
+  "core": {
+    "name": "Huron-Wyandot",
+    "hid": "wya",
+    "level": "language",
+    "iso639-3": "wya",
+    "latitude": "44.33",
+    "longitude": "-77.5",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Huron-Wyandot](https://grambank.clld.org/languages/wyan1247)\n[Wyandot](https://wals.info/languoid/lect/wals_code_wya)\nhttps://en.wikipedia.org/wiki/Wyandot_language\nhttps://www.wikidata.org/entity/Q1185119",
+    "timespan": "1960-01-01/1960-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kinietz:40:1**\n**cldf:nowak:ed:99**\n**cldf:tooker:64**\n**cldf:trigger:69**\n**cldf:trigger:87**\n**hh:b:Barbeau:Huron-Wyandot**\n**hh:d:Chaumonot:Huron**\n**hh:d:Sagard:Huronne**\n**hh:d:Steckley:Huron**\n**hh:e:GarradHeidenreich:Khionontateron**\n**hh:e:Gerin:Hurons**\n**hh:e:Heidenreich:Huron**\n**hh:e:Morissonneau:Huron-Lorette**\n**hh:e:Tookez:Wyandot**\n**hh:ew:Schoolcraft:Iroquois**\n**hh:g:Lukaniec:Wendat**\n**hh:gd:Kopris:Wyandot**\n**hh:hew:Gilij:Americana**\n**hh:ht:Hervas:Saggio**\n**hh:hv:Blin-Lagarde:Huronne-Iroquoise**\n**hh:hv:Julian:Iroquoian**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Howse:NAmerican**\n**hh:hwb:Relandus:Insularum-Orientalium**\n**hh:ld:Brebeuf:Hurons**\n**hh:ld:Schoolcraft:Numeration**\n**hh:phon:Kopris:Wyandot**\n**hh:styp:Blin-Lagarde:Huron**\n**hh:t:Ledesme:Chrestienne**\n**hh:w:Brebeuf:Huron**\n**hh:w:Johnston:Wyandot**\n**iso6393:2021-041**\n**ldh:item_403630**\n**mpieva:1980Leverbeh**\n**mpieva:SagardTheodat1632Dictiona**\n**mpieva:Steckley2007AHuronEn**"
+  },
+  "altnames": {
+    "wals": "\nWyandot",
+    "wals other": "\nHuron",
+    "ruhlen (1987)": "\nHuron",
+    "moseley & asher (1994)": "\nHuron",
+    "multitree": "\nHuron\nHuron (Estados Unidos)\nHuron-Petun\nHuron-Wyandot\nHuron-wyandot (Canada)\nWendat\nWendot\nWyandot\nWyandotte\nWyandotte (États-Unis d'Amérique)\nWyendat",
+    "lexvo": "\nJęzyk huroński [pl]\nWendat [fr]\nWyandot [en]\nWyandot language [en]\nГуронский язык [ru]\n웬다트어 [ko]",
+    "hhbib_lgcode": "\nCanadois\nHuron\nHuron of Lorette\nHurona\nHurones\nHurons of Amherstburg\nHurons of Lorette\nIroquois-Wyandot\nPetun\nWendat\nWyandot",
+    "glottolog": "\nWyandot"
+  },
+  "triggers": {
+    "lgcode": "\nhuronne\nlangve\nhvronne\nhuron\nwyandot\niroquoise"
+  },
+  "identifier": {
+    "wals": "wya",
+    "multitree": "wya"
+  },
+  "classification": {
+    "sub": "**hh:hv:Julian:Iroquoian**:15 **hh:vwtyp:Mithun:Susquehannock**",
+    "subrefs": "\n**hh:vwtyp:Mithun:Susquehannock**\n**hh:hv:Julian:Iroquoian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E24",
+    "date": "2021-03-15T20:30:07",
+    "comment": "Wyandot (wya-wya) = 9 (Reawakening). Language of registered tribe: Wyandotte Nation."
+  },
+  "iso_retirement": {
+    "code": "wya",
+    "name": "Wyandot",
+    "effective": "2022-01-20",
+    "reason": "split",
+    "change_to": "\nwyn\nwdt",
+    "remedy": "Split into Wyandot [wyn] and Wendat [wdt]",
+    "change_request": "2021-041"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gongduk",
+    "hid": "goe",
+    "level": "language",
+    "iso639-3": "goe",
+    "latitude": "27.066",
+    "longitude": "91.1686",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT"
+    ],
+    "links": "\n[Gongduk](https://endangeredlanguages.com/lang/5636)\nhttps://www.wikidata.org/entity/Q2669221\nhttps://en.wikipedia.org/wiki/Gongduk_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDriem:Himalayas** **hh:hvld:vanDriem:Black-Mountain**",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:hvld:vanDriem:Black-Mountain**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:driem:nd**\n**cldf:ed:10**\n**cldf:vandriem:07:2**\n**hh:d:Dorji:Gongduk**\n**hh:hel:vanDriem:ThreeGems**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:ld:vanDriem:Gongduk**\n**hh:ld:vanDriem:Gongduk:2013**\n**hh:typ:Gerber:Gongduk:2022**\n**hh:v:Gerber:Gongduk**\n**hh:vld:Gerber:Gongduk-Bjokapakha-Black-Mountain-Monpa:2020**\n**hh:vld:Gerber:Gongduk:2019**\n**hh:w:vanDriem:Gongduk**"
+  },
+  "altnames": {
+    "multitree": "\nGongdubikha\nGongduk",
+    "lexvo": "\nGongduk [en]\nGongduk language [en]",
+    "elcat": "\nGongdubikha\nGongdue Kha\nGongduk"
+  },
+  "triggers": {
+    "lgcode": "\ngem AND curious\ngongduk"
+  },
+  "identifier": {
+    "multitree": "goe",
+    "endangeredlanguages": "5636"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gongduk (5636-goe) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kuwaa",
+    "hid": "blh",
+    "level": "language",
+    "iso639-3": "blh",
+    "latitude": "7.54885",
+    "longitude": "-9.9765",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kuwaa_language\nhttps://www.wikidata.org/entity/Q35579"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:16209**\n**hh:e:Jangaba:Belle**\n**hh:h:Singler:Liberian**\n**hh:he:Schwab:Mano**\n**hh:hv:Marchese:Kru**\n**hh:hvtyp:Marchese:Kru**\n**hh:phon:Thompson:Kuwaa**\n**hh:w:IngemannThompson:Kuwaa**\n**hh:w:Marchese:Kru-Lexemes**"
+  },
+  "altnames": {
+    "multitree": "\nBelle\nBelleh\nKowaao\nKuwaa\nKwaa",
+    "lexvo": "\nKuwaa [en]\nKuwaa language [en]",
+    "hhbib_lgcode": "\nBelle"
+  },
+  "triggers": {
+    "lgcode": "\nkuwaa"
+  },
+  "identifier": {
+    "multitree": "kuwa;blh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:25-37",
+    "subrefs": "\n**hh:hv:Vogler:Kru:2017**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kuwaa (blh-blh) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Momare",
+    "hid": "msz",
+    "level": "language",
+    "iso639-3": "msz",
+    "latitude": "-6.3409",
+    "longitude": "147.79",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Momare](https://endangeredlanguages.com/lang/10519)\nhttps://www.wikidata.org/entity/Q6897030\nhttps://en.wikipedia.org/wiki/Momare_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hld:Smith:Morobe**\n**hh:hvld:McElhanonVoorhoeve:TNG**\n**hh:hvtyp:Suter:Huon**\n**hh:typ:Pilhofer:Kate-Zehn**\n**hh:w:Pilhofer:Kate**"
+  },
+  "altnames": {
+    "multitree": "\nMomale\nMomare\nMomole",
+    "lexvo": "\nMomare [en]",
+    "elcat": "\nMomale\nMomare\nMomole\nMumare",
+    "hhbib_lgcode": "\nMomale"
+  },
+  "identifier": {
+    "multitree": "msz",
+    "endangeredlanguages": "10519"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Suter:Huon** **hh:hv:HooleyMcElhanon:Morobe**:1070",
+    "subrefs": "\n**hh:hv:HooleyMcElhanon:Morobe**\n**hh:hvtyp:Suter:Huon**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Momare (10519-msz) = Endangered (20 percent certain, based on the evidence available) [Smith 1988](cldf:smith:88)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Paulohi",
+    "hid": "plh",
+    "level": "language",
+    "iso639-3": "plh",
+    "latitude": "-3.25404",
+    "longitude": "128.779",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Paulohi](https://endangeredlanguages.com/lang/2754)\n[Paulohi](https://grambank.clld.org/languages/paul1238)\n[Paulohi](https://wals.info/languoid/lect/wals_code_plh)\nhttps://en.wikipedia.org/wiki/Paulohi_language\nhttps://www.wikidata.org/entity/Q7155331"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:stresemann:18:1**\n**cldf:stresemann:18:2**\n**hh:g:Stresemann:Paulohi**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hvw:Collins:CMaluku**\n**hh:w:Stokhofetal:Holle:3:2**"
+  },
+  "altnames": {
+    "wals": "\nPaulohi",
+    "ruhlen (1987)": "\nPaulohi",
+    "moseley & asher (1994)": "\nPaulohi",
+    "multitree": "\nPaulohi\nSolehua",
+    "lexvo": "\nPaulohi [en]",
+    "elcat": "\nPaulohi",
+    "hhbib_lgcode": "\nElpaputih-Seram\nElpaputih-Seram NBG 1919\nElpaputih-Seram-JB1939\nSamasuru-Paulohij"
+  },
+  "triggers": {
+    "lgcode": "\npaulohisprache\npaulohi"
+  },
+  "identifier": {
+    "wals": "plh",
+    "multitree": "plh",
+    "endangeredlanguages": "2754"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Paulohi (2754-plh) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

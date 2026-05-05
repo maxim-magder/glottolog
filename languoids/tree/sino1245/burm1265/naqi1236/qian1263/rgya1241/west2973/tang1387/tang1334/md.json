@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tangut",
+    "hid": "txg",
+    "level": "language",
+    "iso639-3": "txg",
+    "latitude": "38.894904",
+    "longitude": "102.246464",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Tangut](https://grambank.clld.org/languages/tang1334)\n[Tangut](https://lexibank.clld.org/languages/sagartst-Tangut)\nhttps://en.wikipedia.org/wiki/Tangut_language\nhttps://www.wikidata.org/entity/Q2727930",
+    "timespan": "1042-01-01/1499-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**elpub:ldd53**\n**hh:b:DaiWu:Chinese-Yi-Burmese**\n**hh:b:Galambos:Tangut**\n**hh:d:Li:Xia-Han**\n**hh:g:Beaudouin:Tangoute**\n**hh:g:Keping:Tangutskij**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Lai:West-Gyalrongic**\n**hh:hv:Nishida:Hsihsia-Lolo-Moso**\n**hh:hv:Nishida:Hsihsia-Tosu**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:phon:Tai:Tangut**\n**hh:s:Gong:Tangut:2017**\n**hh:s:Hwang-Cherng:Tangut**\n**hh:s:Kepping:Xixia**\n**hh:s:Laufer:Si-Hia**\n**hh:s:Nishida:Seika**\n**hh:s:Nisida:Seikago**\n**hh:s:Shi:Tangut**\n**hh:s:Sofronov:Tangutskogo**\n**hh:s:Sun:Xixia**\n**hh:sv:Jacques:Tangoute**\n**hh:v:Matisoff:Xixia**\n**hh:v:Takumi:Mu-nya-Tangut**\n**hh:vld:Wang:Qiang-Miyao-Xixia**\n**hh:w:KeppingBeckwith:Tangut**"
+  },
+  "altnames": {
+    "multitree": "\nHsi-hsia\nTanguhti\nTangut\nXixia",
+    "lexvo": "\nIdioma tangut [es]\nJęzyk tangucki [pl]\nTangoute [fr]\nTangut [en]\nTangut language [en]\nภาษาตันกัต [th]\n西夏文 [zh]\n서하 문자 [ko]",
+    "hhbib_lgcode": "\nHsihia\nSeika\nTangoute\nXixia\nXixia (=Tangut)"
+  },
+  "triggers": {
+    "lgcode": "\nseikago\nhsihsia\ntangoute\ntangut\ntanguten\nseika\nmoji\nkaidoku\ntangutskogo\nkenky\nhia\nkosei\nxia\njiegou"
+  },
+  "identifier": {
+    "multitree": "txg"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient Sino-Tibetan languages of various levels of attestation and deciperment are missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One is the very poorly understood Tangut (**hh:sv:Jacques:Tangoute**, **hh:s:Sofronov:Tangutskogo**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "txg"
+  },
+  "classification": {
+    "sub": "**hh:g:Beaudouin:Tangoute**:87-107 **hh:v:Engels:Songlin**",
+    "subrefs": "\n**hh:g:Beaudouin:Tangoute**\n**hh:v:Engels:Songlin**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Tangut (txg-txg) = 10 (Extinct)."
+  }
+}

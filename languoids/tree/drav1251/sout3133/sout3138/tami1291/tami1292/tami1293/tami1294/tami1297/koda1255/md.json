@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kodava",
+    "hid": "kfa",
+    "level": "language",
+    "iso639-3": "kfa",
+    "latitude": "12.2443",
+    "longitude": "75.9161",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Kodagu](https://endangeredlanguages.com/lang/4365)\n[Kodava](https://grambank.clld.org/languages/koda1255)\n[Kodava](https://lexibank.clld.org/languages/dravlex-Kodava)\n[Kodava](https://wals.info/languoid/lect/wals_code_kod)\nhttps://en.wikipedia.org/wiki/Kodava_language\nhttps://phoible.org/languages/koda1255\nhttps://www.wikidata.org/entity/Q33531"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:92**\n**cldf:agesth:gowda:ed:76:10**\n**cldf:agesth:subrah:ed:76:9**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ebert:96:2**\n**cldf:ed:10**\n**cldf:emeneau:39**\n**cldf:emeneau:ed:70**\n**cldf:emeneau:ed:76**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rajyashree:01**\n**cldf:reddy:ed:03:4**\n**cldf:srinivas:52**\n**hh:g:Balakrishnan:Kodagu**\n**hh:g:Balakrishnan:Kodagu:1972**\n**hh:g:Garman:Coorg**\n**hh:g:Sastry:Kodava**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:phond:Balakrishnan:Kodagu**\n**hh:s:Bal:Kodava**\n**hh:s:Cole:Coorg**\n**hh:s:Ebert:Kodava**\n**iso6393:2006-024**"
+  },
+  "altnames": {
+    "wals": "\nKodava",
+    "ruhlen (1987)": "\nKodagu/Coorg",
+    "moseley & asher (1994)": "\nKodagu",
+    "multitree": "\nCodagú\nCoorge\nKadagi\nKhurgi\nKodagu\nKodava\nKodava Thak\nKotagu\nKoḍagu\nKoḍagu-Kuṟumba\nKurja\nKurug",
+    "lexvo": "\nKodagu [fr]\nKodava Takk [en]\nKodava [de]\nKodava takk [sv]\nKodaveg [br]\nLenga Kodagu [pms]\nLingua Kodava [la]\nКодагу [ru]\nகுடகு மொழி [ta]\nภาษาโกทวะ [th]",
+    "hhbib_lgcode": "\nCoorg\nKodagu\nKodagu/Korava",
+    "elcat": "\nCoorge\nKadagi\nKhurgi\nKodagu\nKodava\nKodava Thak\nKotagu\nKoḍagu\nKurja\nKurug"
+  },
+  "triggers": {
+    "lgcode": "\nkodagu\nkodava"
+  },
+  "identifier": {
+    "wals": "kod",
+    "multitree": "koda;kfa",
+    "endangeredlanguages": "4365"
+  },
+  "classification": {
+    "sub": "**hh:hv:Krishnamurti:Dravidian**",
+    "subrefs": "\n**hh:hv:Krishnamurti:Dravidian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kodagu (4365-kfa) = Threatened (40 percent certain, based on the evidence available) [Rajyashree 2001](cldf:rajyashree:01)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Vinza",
+    "hid": "vin",
+    "level": "language",
+    "iso639-3": "vin",
+    "latitude": "-4.99312",
+    "longitude": "30.5699",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Vinza](https://endangeredlanguages.com/lang/5073)\nhttps://www.wikidata.org/entity/Q7932956\nhttps://en.wikipedia.org/wiki/Vinza_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:grimes:03:2**\n**cldf:jouannet:85**\n**cldf:lewis:ed:09**\n**eballiso2009:27659**\n**eballiso2009:29415**\n**eballiso2009:36044**\n**eballiso2009:43668**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Schoenbrun:Great-Lakes**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:s:Ko:Vinza**"
+  },
+  "altnames": {
+    "multitree": "\nTanzania\nVinza",
+    "lexvo": "\nVinza [en]",
+    "hhbib_lgcode": "\nJD67_Kivinza\nKiVinza\nVinza J67",
+    "elcat": "\nVinza"
+  },
+  "triggers": {
+    "lgcode": "\nuvinza\nreconstruction AND distributions\nunwinsa"
+  },
+  "identifier": {
+    "multitree": "vin",
+    "endangeredlanguages": "5073"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schoenbrun:Great-Lakes-Bantu**, **hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**",
+    "subrefs": "\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Vinza (5073-vin) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Afade",
+    "hid": "aal",
+    "level": "language",
+    "iso639-3": "aal",
+    "latitude": "12.0551",
+    "longitude": "14.6343",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Afade](https://grambank.clld.org/languages/afad1236)\n[Kotoko](https://wals.info/languoid/lect/wals_code_ktk)\nhttps://en.wikipedia.org/wiki/Afade_language\nhttps://phoible.org/languages/afad1236\nhttps://www.wikidata.org/entity/Q56434"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10977**\n**eballiso2009:10980**\n**eballiso2009:11472**\n**eballiso2009:11905**\n**eballiso2009:13550**\n**eballiso2009:17155**\n**eballiso2009:19065**\n**eballiso2009:19066**\n**eballiso2009:20330**\n**eballiso2009:20333**\n**eballiso2009:20335**\n**eballiso2009:20336**\n**eballiso2009:25492**\n**eballiso2009:25493**\n**eballiso2009:26144**\n**eballiso2009:26892**\n**eballiso2009:28388**\n**eballiso2009:28868**\n**eballiso2009:32454**\n**eballiso2009:3348**\n**eballiso2009:34369**\n**eballiso2009:34370**\n**eballiso2009:34371**\n**eballiso2009:36923**\n**eballiso2009:3850**\n**eballiso2009:39019**\n**eballiso2009:39079**\n**eballiso2009:41256**\n**eballiso2009:41880**\n**eballiso2009:44116**\n**eballiso2009:45353**\n**eballiso2009:47085**\n**eballiso2009:47421**\n**eballiso2009:48906**\n**eballiso2009:51453**\n**eballiso2009:51456**\n**eballiso2009:51457**\n**eballiso2009:52002**\n**eballiso2009:5913**\n**eballiso2009:9901**\n**hh:e:Lebeuf:Kotoko**\n**hh:e:Seetzen:Bornou**\n**hh:e:Seetzen:Bornu**\n**hh:h:Latham:Africa**\n**hh:he:Lebeuf:Tchad**\n**hh:hv:Adelungetal:Mithridates:31**\n**hh:hv:LukasMeyer-Bahlburg:Kotoko**\n**hh:hv:Porxomovskij:Kotoko**\n**hh:hv:Tourneux:Personelles-Kotoko-Mafa**\n**hh:hw:Benton:WSudan**\n**hh:hw:Seetzen:Volks-Mundarten**\n**hh:s:Solken:Affadeh**\n**hh:soc:Lebeuf:Kotoko**\n**hh:w:Lebeuf:Kotoko**\n**hh:w:Solken:Affadeh**\n**mpieva:Caprile1978Prealabl**"
+  },
+  "altnames": {
+    "wals": "\nKotoko",
+    "wals other": "\nMandagué",
+    "ruhlen (1987)": "\nKotoko",
+    "moseley & asher (1994)": "\nKotoko",
+    "multitree": "\nAfada\nAfade\nAfadeh\nAffade\nKotoko\nMandage\nMogari\nNgala",
+    "lexvo": "\nAfade [en]\nAfade jezik [hr]\nAfade language [en]\nAfadeg [br]",
+    "hhbib_lgcode": "\nAffadeh\nAffadéh\nAffădē\nBornou here is Affadéh\nBornu here is Affadéh\nKotoko-Mandage-Mantage subsumes Afade"
+  },
+  "triggers": {
+    "lgcode": "\ntagumi\nmpade\nNOT birni AND NOT makary AND kotoko\nistoriceskij\nlagwan\nsprachdokumentation\nponey\nkotokovokabulars"
+  },
+  "identifier": {
+    "wals": "ktk",
+    "multitree": "aal"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tourneux:Kotoko:Consonantique** **hh:hv:BarreteauDieu:ENCameroun**:65 against the grouping on very common sound changes suggested in **hh:hv:Gravina:Central-Chadic**:46-47",
+    "subrefs": "\n**hh:hv:Tourneux:Kotoko:Consonantique**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Afade (aal-aal) = 6a* (Vigorous)."
+  }
+}

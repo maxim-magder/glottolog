@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Makah",
+    "hid": "myh",
+    "level": "language",
+    "iso639-3": "myh",
+    "latitude": "48.3258",
+    "longitude": "-124.616",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Makah](https://endangeredlanguages.com/lang/1930)\nhttps://www.wikidata.org/entity/Q3280640\nhttps://en.wikipedia.org/wiki/Makah_language\n[Makah](https://wals.info/languoid/lect/wals_code_mak)",
+    "timespan": "2002-01-01/2002-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:colson:53**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:drucker:40**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:gunther:62**\n**cldf:jacobsen:79:1**\n**cldf:jacobsen:86**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:ollikainen:10**\n**cldf:schalk:78**\n**cldf:swan:68**\n**cldf:swan:70**\n**cldf:wike:58**\n**cldf:yvonnewilkie:ed:13**\n**hh:e:Colson:Makah**\n**hh:e:RenkerGunther:Makah**\n**hh:ew:Swan:Cape-Flattery**\n**hh:hv:Jacobsen:Southern-Wakashan**\n**hh:s:Jacobsen:Makah**\n**hh:s:Jacobsen:Makah:1979**\n**hh:t:DavidsonWerle:Makah**\n**hh:typ:GillRenker:Makah**\n**hh:typ:Renker:Makah**"
+  },
+  "altnames": {
+    "wals": "\nMakah",
+    "ruhlen (1987)": "\nMakah",
+    "moseley & asher (1994)": "\nMakah",
+    "multitree": "\nKwe-Nee-Chee-Aht\nKweedishchaaht\nMacaw\nMakah",
+    "lexvo": "\nMakah [en]\nMakah language [en]",
+    "elcat": "\nKwe-Nee-Chee-Aht\nKweedishchaaht\nMacaw\nMakah",
+    "hhbib_lgcode": "\nCape Flattery"
+  },
+  "triggers": {
+    "lgcode": "\nmakah"
+  },
+  "identifier": {
+    "wals": "mak",
+    "multitree": "myh",
+    "endangeredlanguages": "1930"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jacobsen:Southern-Wakashan**",
+    "subrefs": "\n**hh:hv:Jacobsen:Southern-Wakashan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Makah (1930-myh) = Awakening (The goals of the Makah Language Program (MLP) are as follows:\n\n1. To preserve the Makah Language\n2. To restore the Makah Language to spoken fluency\n3. To educate our children and people as scholars, able to compete anywhere in today's world and yet maintain their Tribal heritage) [Yvonne Wilkie 2013](cldf:yvonnewilkie:ed:13)"
+  }
+}

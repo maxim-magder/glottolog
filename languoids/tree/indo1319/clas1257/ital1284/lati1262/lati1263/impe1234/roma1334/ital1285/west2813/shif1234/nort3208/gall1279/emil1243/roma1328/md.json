@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Romagnol",
+    "hid": "rgn",
+    "level": "language",
+    "iso639-3": "rgn",
+    "latitude": "44.2349",
+    "longitude": "11.7189",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT",
+      "SM"
+    ],
+    "links": "\n[Ravennate_Romagnol](https://lexibank.clld.org/languages/saenkoromance-ravennateromagnol)\n[Romagnol](https://endangeredlanguages.com/lang/3206)\nhttps://en.wikipedia.org/wiki/Romagnol\nhttps://www.wikidata.org/entity/Q1641543"
+  },
+  "classification": {
+    "sub": "**hh:sv:Michelotti:Sammarinese**",
+    "subrefs": "\n**hh:sv:Michelotti:Sammarinese**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:simons;:fennig:ed:13**\n**hh:bsoc:Foresti:Emilia-Romagna**\n**hh:g:Pelliciardi:Romagnolo**\n**hh:ld:Hajek:Emilia-Romagna**\n**hh:ldphon:Moretti:Umbria**\n**hh:phon:Schurr:Romagnolische**\n**hh:phontyp:Gatti:Jesi**\n**hh:phonv:Arzilli:Sammarinese**\n**hh:phonv:Muscinelli:Sammarinese**\n**hh:s:Montanari:Sammarinese**\n**hh:soc:Forest:Romagna**\n**hh:sv:Michelotti:Sammarinese**\n**hh:t:Gregor:Romagnol**\n**hh:t:Schurr:Romagnolische**\n**hh:v:Delmonte:Romagnole**\n**iso6393:2008-040**"
+  },
+  "altnames": {
+    "multitree": "\nEmiliano-Romagnolo\nItalian (Bologna)\nRomagnol\nRumagnol",
+    "lexvo": "\nDialeto romagnol [pt]\nDialetto romagnolo [it]\nDiałeto romagnoło [vec]\nRomagnol [de]\nRomagnol language [en]\nRomanjolski jezik [hr]",
+    "hhbib_lgcode": "\nFaenza\nForli\nGallo-Picene\nGubbio\nImola\nImola contado\nJesi\nLugo\nMeldola am Ronco\nN Umbrian\nPerugino\nS. Lucia bei Dovia\nSammarinese\nSouthern Romagnol",
+    "elcat": "\nEmiliano-Romagnolo\nRomagnol\nRumagnol"
+  },
+  "triggers": {
+    "lgcode": "\nromagnolische\nromagnolo\nromagnol\nsammarinese"
+  },
+  "identifier": {
+    "multitree": "rgn",
+    "endangeredlanguages": "3206"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Romagnol (3206-rgn) = Threatened (80 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

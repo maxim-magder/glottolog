@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Marma",
+    "hid": "rmz",
+    "level": "language",
+    "iso639-3": "rmz",
+    "latitude": "22.759948",
+    "longitude": "92.210748",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN"
+    ],
+    "links": "\n[Arakanese (Marma)](https://wals.info/languoid/lect/wals_code_akm)\nhttps://en.wikipedia.org/wiki/Marma_language\nhttps://www.wikidata.org/entity/Q21403256"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Bernot:Arakanais-Pakistan**\n**hh:ew:Barua:Marma**\n**hh:h:Bernot:Chittagong**\n**hh:h:Bernot:Chittagong:1960**\n**hh:hvw:Davis:Burmese-Rakhine-Marma**\n**hh:phon:Bernot:Marma-Birman**\n**hh:phon:Huziwara:Marma**\n**hh:typ:Ashaduzzaman:Marma**\n**iso6393:2007-189**"
+  },
+  "triggers": {
+    "lgcode": "\npaysans\nmarma\narakanais"
+  },
+  "identifier": {
+    "wals": "akm"
+  },
+  "classification": {
+    "sub": "**hh:phon:Bradley:Arakanese**",
+    "subrefs": "\n**hh:phon:Bradley:Arakanese**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marma (rmz-rmz) = 3 (Wider communication). Originating in Pegu of Burma (Myanmar), the Marma people migrated to Chittagong Hill Tracts in Bangladesh from the 14th–17th centuries. Marma became widespread during the European colonization (1757–1857). Used in ethno-medicinal practices, daily communication, trade, and religious ceremonies."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMarma - M1\nMarma - M2"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Aeka",
+    "hid": "aez",
+    "level": "language",
+    "iso639-3": "aez",
+    "latitude": "-8.855095",
+    "longitude": "147.99477",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Aeka](https://lexibank.clld.org/languages/transnewguineaorg-aeka)\nhttps://www.wikidata.org/entity/Q16110528"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Lean:Northern-Province**\n**hh:hv:Dutton:SETNG**\n**hh:hv:Smallhorn:Binanderean-TNG**\n**hh:hv:Wilson:Binandere**\n**hh:hw:FarrLarsen:Binandere**\n**hh:w:BeaverChinnery:Aiga**\n**hh:w:ChinneryBeaver:Mambare-Kumusi**\n**iso6393:2007-190**"
+  },
+  "altnames": {
+    "glottolog": "\nAeka (orokaivic)",
+    "lexvo": "\nAeka [en]",
+    "hhbib_lgcode": "\nAiga"
+  },
+  "triggers": {
+    "lgcode": "\nseries AND orokaiva"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smallhorn:Binanderean**",
+    "subrefs": "\n**hh:hv:Smallhorn:Binanderean**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aeka (aez-aez) = 6a (Vigorous)."
+  }
+}

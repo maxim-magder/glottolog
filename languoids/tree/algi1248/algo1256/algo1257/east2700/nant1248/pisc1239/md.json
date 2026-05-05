@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Piscataway",
+    "hid": "psy",
+    "level": "language",
+    "iso639-3": "psy",
+    "latitude": "39.073",
+    "longitude": "-76.803",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3504233\nhttps://en.wikipedia.org/wiki/Piscataway_language",
+    "timespan": "1775-01-01/1775-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ld:White:Piscataway**\n**hh:s:Mackie:Piscataway**"
+  },
+  "altnames": {
+    "multitree": "\nConoy\nNanticoke-Conoy\nNanticoke-Piscataway\nPiscataway",
+    "lexvo": "\nPiscataway [en]\nPiscataway language [en]"
+  },
+  "triggers": {
+    "lgcode": "\npiscataway"
+  },
+  "identifier": {
+    "multitree": "psy"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Piscataway (psy-psy) = 10 (Extinct)."
+  }
+}

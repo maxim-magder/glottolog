@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Norwegian",
+    "hid": "nor",
+    "level": "language",
+    "iso639-3": "nor",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FI",
+      "NO",
+      "RU",
+      "SE",
+      "SJ"
+    ],
+    "longitude": "10.71",
+    "latitude": "59.92",
+    "links": "\n[Norwegian](https://lexibank.clld.org/languages/starostinpie-norwegian)\n[Norwegian](https://wals.info/languoid/lect/wals_code_nor)\n[Norwegian (Bokmål)](https://lexibank.clld.org/languages/northeuralex-nor)\nhttps://en.wikipedia.org/wiki/Norwegian_language\nhttps://phoible.org/languages/norw1258\nhttps://www.wikidata.org/entity/Q9043"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:962**\n**cldf:askedal:94**\n**cldf:berit:strandskogen:98**\n**cldf:berulfsen:77**\n**cldf:hellan:88**\n**cldf:meyermyklestad:soraas:65**\n**cldf:moen:pedersen:83**\n**cldf:olson:01:1**\n**cldf:rice:99**\n**cldf:strandskogen:strandskogen:86:1**\n**cldf:strandskogen:strandskogen:86:2**\n**cldf:strandskogen:strandskogen:95**\n**cldf:vanvik:72**\n**hh:d:Haugen:Norwegian**\n**hh:g:Aasen:Norske**\n**hh:g:Haugen:Oppdalsmalet**\n**hh:g:Holmes:Norwegian**\n**hh:g:StrandskogenStrandskogen:Norwegian**\n**hh:h:Maehlum:Norske**\n**hh:hv:Elstad:Nordnorske**\n**hh:hv:Sandoy:Norsk**\n**hh:hv:Skjekkeland:Norske**\n**hh:hvphon:Christiansen:Norske**\n**hh:ldsoc:Hjelde:Trondsk**\n**hh:phon:Christiansen:Gimsoy**\n**hh:phon:Christiansen:Rana**\n**hh:phon:Dalen:Skognamalet**\n**hh:phon:Kristoffersen:Norwegian**\n**hh:phon:Markussen:Salangsmalet**\n**hh:s:Aasen:Sondmorsk**\n**hh:s:Dalen:Trondheimsmalet**\n**hh:s:Iversen:Tromsoe**\n**hh:s:Larsen:Bergens-Bymal**\n**hh:s:Larsen:Kristiania-Bymal**\n**hh:s:MoenPedersen:Norwegian**\n**hh:s:Paulsen:Sor-Varanger**\n**hh:s:Pettersen:Bergensmalet**\n**hh:s:Sandoy:Romsdalsmalet**\n**hh:s:Seim:Kragero**\n**hh:sd:Sandvik:Suldalsmalet**\n**hh:ssoc:Haugen:Norwegian-America**\n**hh:t:Aasen:Norske**\n**hh:typ:Lohndal:Norwegian**\n**hh:typ:Rodvand:American-Heritage-Norwegian**\n**hh:typ:Taranrod:Amerikansknorsk**\n**hh:vld:JohannessenLaake:Norwegian-American-Midwest**\n**hh:vphon:Hoff:Skjetvemalet**\n**hh:vw:Iversen:Rodi**\n**ldh:item_401164**"
+  },
+  "altnames": {
+    "lexvo": "\nNorwegian [en]\nnorvégien [fr]",
+    "hhbib_lgcode": "\nAmerikansknorsk\nAustnorsk\nBergen\nGimsøy\nKragerø\nKristiania\nNorwegian in America\nNorwegian in the American Midwest\nNynorsk\nOppdalsmålet\nOslo\nRana\nRodi argot of Norwegian\nRomsdalsmålet\nSalangsmålet\nSkognamålet\nSuldalsmålet\nSøndmørsk\nSør-Varanger\nTromsoe\nTrondheimsmålet\nTrøndsk i Amerika"
+  },
+  "triggers": {
+    "lgcode": "\nfransk\ntromsoe\nsyntaksen\nbymaal"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:110 **hh:h:Maehlum:Norske**:25-120",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**\n**hh:h:Maehlum:Norske**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Norwegian (nor-nor) = 1 (National). De facto national language."
+  }
+}

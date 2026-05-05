@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lewo",
+    "hid": "lww",
+    "level": "language",
+    "iso639-3": "lww",
+    "latitude": "-16.7612",
+    "longitude": "168.334",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lamenu (Nul)](https://lexibank.clld.org/languages/abvdoceanic-LamenuNul)\n[Lewo](https://grambank.clld.org/languages/lewo1242)\n[Lewo](https://wals.info/languoid/lect/wals_code_lew)\nhttps://en.wikipedia.org/wiki/Lewo_language\nhttps://www.wikidata.org/entity/Q3237321"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:106**\n**asjp2010:1280**\n**asjp2010:1895**\n**asjp2010:2619**\n**asjp2010:3859**\n**asjp2010:4754**\n**asjp2010:4845**\n**cldf:early:93**\n**hh:g:Early:Lewo**\n**hh:hew:HagenPineau:Hebrides**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hv:Lynch:Liquid-Central-Vanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvld:Ray:Island**\n**hh:hvw:Ray:New-Hebrides**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Api-Tasiko-Lemaroro**\n**hh:ld:Codrington:Sesake**\n**hh:s:Ray:Tasiko**\n**hh:w:Early:Lewo**\n**sil16:34634**\n**sil16:39275**"
+  },
+  "altnames": {
+    "wals": "\nLewo",
+    "ruhlen (1987)": "\nLewo",
+    "moseley & asher (1994)": "\nLewo",
+    "multitree": "\nLewo\nVarsu",
+    "lexvo": "\nLewo [en]",
+    "hhbib_lgcode": "\nApi (Southeast)\nEpi-Lewo\nEpi-Tasiko\nFilakara\nLaevo\nLemaroro\nMapremo\nMate\nNikaura\nNul\nNuvi\nSesake\nSesake auf Api\nTasiko\nTasiko-Lemaroro-Tonoa\nVisina"
+  },
+  "triggers": {
+    "lgcode": "\nlewo\ntasiko\nsesake"
+  },
+  "identifier": {
+    "wals": "lew",
+    "multitree": "lww"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Tryon:Epi**",
+    "subrefs": "\n**hh:hvtyp:Tryon:Epi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lewo (lww-lww) = 6b (Threatened)."
+  }
+}

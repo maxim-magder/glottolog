@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Ganai",
+    "hid": "unn",
+    "level": "language",
+    "iso639-3": "unn",
+    "latitude": "-38.58",
+    "longitude": "146.5",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Ganai](https://grambank.clld.org/languages/gana1278)\n[Kurnai](https://endangeredlanguages.com/lang/6694)\nhttps://phoible.org/languages/gana1278\nhttps://www.wikidata.org/entity/Q61676882"
+  },
+  "classification": {
+    "sub": "**hh:h:Dixon:Australian2002**:xxxv, 44 **hh:hv:BlakeReid:Victorian**",
+    "subrefs": "\n**hh:h:Dixon:Australian2002**\n**hh:hv:BlakeReid:Victorian**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:fison:howitt:80**\n**cldf:howitt:04**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:paton:nd**\n**hh:e:Howitt:Kurnai**\n**hh:e:Howitt:SEAustralia**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hew:Smyth:Victoira**\n**hh:hv:BlakeReid:Victorian:1995**\n**hh:hv:Schmidt:Australischen**\n**hh:hw:Hercus:Victoria:1969**\n**hh:s:Fesl:Ganai**\n**hh:s:Gardner:Kurnai**\n**hh:w:Bulmer:Snowy-River**\n**iso6393:2012-026**\n**iso6393:2018-061**"
+  },
+  "triggers": {
+    "lgcode": "\nkurnai\nganai"
+  },
+  "identifier": {
+    "endangeredlanguages": "6694"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kurnai (6694-unn) = Awakening (Students are actively encouraged to participate in the process of revival and reclamation of a Victorian Indigenous Language of significance to themselves or to their local area. This involves the identification of strategies for community consultation and for the participation of Indigenous family groups in the ongoing reclamation process. It also includes the acquisition of knowledge and skill in the location and interpretation of historical records of various kinds relating to the target language as well as the active use of the target language in contemporary settings, within and beyond the classroom context.) [Paton n.d.](cldf:paton:nd)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBulmer-John 1876 \"Language of the natives\" 2: 24-37\nGippsland\nHowitt-A. W. 1876 \"The dialect of the Brabrolong and neighbouring tribes\" 2: 48-9\nKurnai\nKurnai of Gippsland\nNot Ngarigu but Gippsland Blake-Reid 1999:17",
+    "elcat": "\nCunni\nGaanay\nGanai\nGooni\nGunai\nGunna\nGunnai\nKunnai\nKurnai\nKurnay"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Uma' Lung",
+    "hid": "ulu",
+    "level": "language",
+    "iso639-3": "ulu",
+    "latitude": "3.25",
+    "longitude": "116.5",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kenyah (Uma' Lung)](https://wals.info/languoid/lect/wals_code_keu)\n[Uma' Lung](https://endangeredlanguages.com/lang/9829)\nhttps://www.wikidata.org/entity/Q3548186"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:hld:Soriente:Penan-Kenyah**\n**hh:hv:Sellato:Kenyah-Putuk**\n**hh:hvw:Soriente:Kenyah:2004**\n**hh:t:Soriente:Mencaleny**\n**hh:v:Blust:Oma-Longh**\n**iso6393:2007-246**"
+  },
+  "altnames": {
+    "multitree": "\nKenyah (Uma' Lung)\nOma Longh\nUma' Lung",
+    "lexvo": "\nUma' Lung [en]",
+    "hhbib_lgcode": "\nOma Longh\nÒma Lóngh",
+    "elcat": "\nKenyah (Uma' Lung)\nOma Longh\nUma' Lung\nÒma Lóngh"
+  },
+  "triggers": {
+    "lgcode": "\nlongh"
+  },
+  "identifier": {
+    "multitree": "ulu",
+    "endangeredlanguages": "9829"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Kenyah-Kayanic** **hh:hv:Sellato:Kenyah-Putuk**:29",
+    "subrefs": "\n**hh:hvw:Smith:Kenyah-Kayanic**\n**hh:hv:Sellato:Kenyah-Putuk**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Uma' Lung (9829-ulu) = Threatened (100 percent certain, based on the evidence available) [Soriente 2006](cldf:soriente:06:1)"
+  }
+}

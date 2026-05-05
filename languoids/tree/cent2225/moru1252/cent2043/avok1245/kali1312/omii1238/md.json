@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Omi",
+    "hid": "omi",
+    "level": "language",
+    "iso639-3": "omi",
+    "latitude": "3.2542",
+    "longitude": "30.5385",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Omi](https://grambank.clld.org/languages/omii1238)\nhttps://en.wikipedia.org/wiki/Omi_language\nhttps://www.wikidata.org/entity/Q56795"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:16035**\n**hh:hvw:Demolin:CSudanic**\n**hh:hwb:BokulaIrumu:Moru-Mangbetu**\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**hh:ld:Goyvaerts:Kaliko**\n**hh:s:Goyvaerts:Kaliko**\n**hh:t:Goyvaerts:Kaliko**\n**sil16:49397**"
+  },
+  "altnames": {
+    "multitree": "\nKaliko-Omi\nOmi",
+    "lexvo": "\nOmi [en]\nOmi language [en]\nOmieg [br]\nОмиски јазик [mk]",
+    "hhbib_lgcode": "\n= Omi\nKaliko\nMádí au nord-ouest de la zone administrative d'Aru\nOmbatse 3.18N 30.40E ca 70km north of Aru"
+  },
+  "triggers": {
+    "lgcode": "\nomiti\nkaliko"
+  },
+  "identifier": {
+    "multitree": "omi"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:WatsonBoone:Moru-Madi**:35-39",
+    "subrefs": "\n**hh:hwsoc:WatsonBoone:Moru-Madi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Omi (omi-omi) = 5* (Developing)."
+  }
+}

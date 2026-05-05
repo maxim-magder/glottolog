@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Runga",
+    "hid": "rou",
+    "level": "language",
+    "iso639-3": "rou",
+    "latitude": "9.7154",
+    "longitude": "20.9945",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "SD",
+      "TD"
+    ],
+    "links": "\n[Runga](https://grambank.clld.org/languages/rung1258)\n[Runga](https://wals.info/languoid/lect/wals_code_run)\n[Runga-Kibet](https://lexibank.clld.org/languages/johanssonsoundsymbolic-RungaKibet)\nhttps://www.wikidata.org/entity/Q56793"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nougayrol:89**\n**eballiso2009:22706**\n**eballiso2009:33721**\n**eballiso2009:36092**\n**eballiso2009:36102**\n**eballiso2009:40775**\n**eballiso2009:52864**\n**eballiso2009:59498**\n**hh:g:Nougayrol:Aiki**\n**hh:h:Santandrea:Ghazal**\n**hh:he:Modat:Fertyt**\n**hh:hew:Browne:Africa**\n**hh:hvtyp:Dimmendaal:Nilo-Saharan**\n**hh:hvw:DoornbosBender:Wadai-Darfur**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hwdial:MbernodjiWolf:Kibet**\n**hh:vld:Guldemann:Northeast-Africa**\n**mpieva:Nougayrol1989Lalangue**\n**sil16:49370**\n**sil16:49371**"
+  },
+  "altnames": {
+    "wals": "\nRunga",
+    "wals other": "\nAiki\nAiki (Runga)\nRunga",
+    "ruhlen (1987)": "\nRunga",
+    "moseley & asher (1994)": "\nRunga",
+    "multitree": "\nAiki\nAyki\nAykindang\nRounga\nRoungo\nRunga\nRunga de Ndele",
+    "lexvo": "\nRunga [en]",
+    "hhbib_lgcode": "\nAiki\nDar-Runga\nRounga\nRuña"
+  },
+  "triggers": {
+    "lgcode": "\nsaheliens\nreferrible\nmututu\nxamiis\nrounga"
+  },
+  "identifier": {
+    "wals": "run",
+    "multitree": "rou"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edgar:Maba** **hh:hv:Starostin:Mimi**",
+    "subrefs": "\n**hh:hv:Edgar:Maba**\n**hh:hv:Starostin:Mimi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Runga (rou-rou) = 6a* (Vigorous)."
+  }
+}

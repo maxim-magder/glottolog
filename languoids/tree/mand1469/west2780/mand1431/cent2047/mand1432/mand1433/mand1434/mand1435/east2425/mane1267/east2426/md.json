@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Eastern Maninkakan",
+    "hid": "emk",
+    "level": "language",
+    "iso639-3": "emk",
+    "latitude": "10.41",
+    "longitude": "-9.3162",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GN",
+      "LR",
+      "ML",
+      "SL"
+    ],
+    "links": "\n[Maninka](https://wals.info/languoid/lect/wals_code_mnk)\n[Maninka-Kankan](https://lexibank.clld.org/languages/polyglottaafricana-ManinkaKankan)\nhttps://phoible.org/languages/east2426\nhttps://www.wikidata.org/entity/Q11002130"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:spears:72**\n**cldf:troebs:99**\n**eballiso2009:10369**\n**eballiso2009:11008**\n**eballiso2009:11080**\n**eballiso2009:11598**\n**eballiso2009:11935**\n**eballiso2009:11997**\n**eballiso2009:11998**\n**eballiso2009:12000**\n**eballiso2009:16578**\n**eballiso2009:16579**\n**eballiso2009:26842**\n**eballiso2009:27591**\n**eballiso2009:30654**\n**eballiso2009:32513**\n**eballiso2009:32636**\n**eballiso2009:3367**\n**eballiso2009:35487**\n**eballiso2009:37040**\n**eballiso2009:3978**\n**eballiso2009:40468**\n**eballiso2009:48189**\n**eballiso2009:5466**\n**eballiso2009:58042**\n**eballiso2009:58142**\n**hh:d:Delafosse:Mandingue**\n**hh:d:Peroz:Mandingue**\n**hh:e:CamaraErny:Wassoulou**\n**hh:g:Camara:Malinke**\n**hh:g:Friedlander:Malinka**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:hb:Sullivan:Manding**\n**hh:he:Zwernemann:Oberniger**\n**hh:hld:Davydov:Manden-Gvinei**\n**hh:hv:Galtier:Mandingues**\n**hh:hvw:Delafosse:Mande:1901**\n**hh:hvw:Long:NMande**\n**hh:hw:Koelle:Polyglotta**\n**hh:ld:Tautain:Soninke**\n**hh:phon:Gregoire:Maninka-Kankan**\n**hh:s:Abiven:Malinkee:1897**\n**hh:s:Camara:Malinke-Guinee**\n**hh:s:Tokarskaja:Malinke**\n**hh:sd:Abiven:Malinke**\n**hh:soc:Hochstetler:Eastern-Maninakan**\n**hh:soc:PBT:Maninka**\n**hh:sv:Delafosse:Mandingue**\n**hh:typ:Davydov:Uatagala**"
+  },
+  "altnames": {
+    "wals": "\nManinka",
+    "ruhlen (1987)": "\nManinka",
+    "moseley & asher (1994)": "\nManinka",
+    "multitree": "\nEastern\nEastern Malinke\nEastern Maninkakan\nKankan Maninka\nMadingo\nMande\nMandingo\nManinka\nManinka-Mori\nManinkakan\nManinkakan, Eastern\nSouthern Maninka",
+    "lexvo": "\nEastern Maninkakan [en]",
+    "hhbib_lgcode": "\nBissandougou\nEastern Maninakan\nForest Maninka\nKankan\nMalinke in Guinea\nMalinké Méridional\nMalinké de Dinguiray\nMalinké de Wulada\nMalinké de l'est\nMalinké de l'est (centered at Manding)\nMalinké du sud\nMalinké v verxnej Gvinee\nMande of Kankan\nMande of Toro\nManinka Kankan\nManinka Kankana\nManinka Manden\nManinkakan-Eastern\nOuassoulounke\nOuassoulounké\nToronké\nUasolon\nUatagala\nUpper Guinea Malinke\nWassoulounka\nWassulunka\nWasulu\nWasulunka\nWatagala"
+  },
+  "triggers": {
+    "lgcode": "\nmankono\nconstituant\nschriftsystem\npsychologisch\nwassoulou\nkorokan\nmandinke\nmalinkee\nrituel\nNOT mandingo AND malinke\nkankan\nkoyaga"
+  },
+  "identifier": {
+    "wals": "mnk",
+    "multitree": "emk"
+  },
+  "classification": {
+    "sub": "**hh:hld:Davydov:Manden-Gvinei**",
+    "subrefs": "\n**hh:hld:Davydov:Manden-Gvinei**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maninkakan, Eastern (emk-emk) = 3 (Wider communication). De facto language of national identity. Originated in one of the Mali empires (1235–1670). Language of court and government during the Mali empire. Widely spoken in the 1890s during French colonization. Native to Guinea, Mali, and Sierra Leone. Maninka people have high regard for their language."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tetserret",
+    "hid": "tez",
+    "level": "language",
+    "latitude": "14.973333",
+    "longitude": "5.699722",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NE",
+      "NG"
+    ],
+    "iso639-3": "tez",
+    "links": "\n[Tetserret](https://endangeredlanguages.com/lang/8509)\nhttps://en.wikipedia.org/wiki/Tetserret_language\nhttps://www.wikidata.org/entity/Q7706841"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Walentowicz:Touaregs**\n**hh:g:Lux:Tetserret**\n**hh:g:Lux:Tetserret:2013**\n**hh:soc:Attayoub:Tetserret**\n**hh:soc:Drouin:Tameseghlalt**\n**hh:soc:WalentowiczAttayoub:Tetserret**\n**hh:typ:Lux:Tamasheq-Tetserret**\n**iso6393:2017-029**"
+  },
+  "triggers": {
+    "lgcode": "\ntamghlalt\ntetserret"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Berber:2020**:281 **hh:v:Souag:Western-Berber-Kwarandzyey**",
+    "subrefs": "\n**hh:v:Souag:Western-Berber-Kwarandzyey**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tetserret (tez-tez) = 6b (Threatened)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nThis is a variety of Tetserrét despite what the actual paper seems to conclude (see Walentowicz 2000-2001)",
+    "elcat": "\nTetserret"
+  },
+  "identifier": {
+    "endangeredlanguages": "8509"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Darai",
+    "hid": "dry",
+    "level": "language",
+    "iso639-3": "dry",
+    "latitude": "27.8623",
+    "longitude": "84.1357",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Darai](https://endangeredlanguages.com/lang/4108)\n[Darai](https://grambank.clld.org/languages/dara1250)\n[Darai](https://wals.info/languoid/lect/wals_code_dar)\nhttps://www.wikidata.org/entity/Q46995026"
+  },
+  "classification": {
+    "sub": "**hh:g:Dhakal:Darai**:166-167",
+    "subrefs": "\n**hh:g:Dhakal:Darai**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dhakal:08**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:paudyal:66:1**\n**hh:d:Darai:Darai**\n**hh:d:KotapishKotapish:Darai**\n**hh:g:Dhakal:Darai**\n**hh:g:Dhakal:Darai:2011**\n**hh:g:Paudyal:Pipaltar-Darai**\n**hh:he:GautamThapa:Nepal**\n**hh:phon:KotapishKotapish:Darai**\n**hh:s:Paudyal:Darai**\n**hh:t:Dhakal:Darai**\n**hh:typ:Dhakal:Darai**\n**hh:typ:Dhakal:Darai-Case**\n**hh:typ:Kotapish:Darai**\n**hh:w:Hodgson:Broken-Nepal**\n**hh:wsoc:RegmiThakur:Darai**\n**sil16:10019**"
+  },
+  "altnames": {
+    "wals": "\nDarai",
+    "multitree": "\nDarai",
+    "lexvo": "\nDarai [en]",
+    "hhbib_lgcode": "\nBara\nDahi or Daráhi\nKavrepalanchok\nLalitpur\nPipaltar Darai\nSindhuli\nSindhupalchok",
+    "elcat": "\nDarai"
+  },
+  "triggers": {
+    "lgcode": "\ndarai"
+  },
+  "identifier": {
+    "wals": "dar",
+    "multitree": "dry",
+    "endangeredlanguages": "4108"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Darai (4108-dry) = Endangered (80 percent certain, based on the evidence available) [Paudyal 2003](cldf:paudyal:03)"
+  }
+}

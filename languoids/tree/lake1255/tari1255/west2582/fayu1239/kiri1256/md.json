@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kirikiri",
+    "hid": "kiy",
+    "level": "language",
+    "iso639-3": "kiy",
+    "latitude": "-3.18494",
+    "longitude": "137.282",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kirikiri](https://endangeredlanguages.com/lang/4395)\n[Kirikiri](https://lexibank.clld.org/languages/transnewguineaorg-kirikiri)\n[Kirikiri](https://wals.info/languoid/lect/wals_code_kkr)\nhttps://en.wikipedia.org/wiki/Kirikiri_language\nhttps://www.wikidata.org/entity/Q6415159"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Clouse:Kirikiri**\n**hh:ephonw:Clouse:Kirikiri**\n**hh:hphon:ClouseClouse:WLakes-Plain**\n**hh:hvw:Clouse:Lakes-Plain**"
+  },
+  "altnames": {
+    "wals": "\nKirikiri",
+    "multitree": "\nKirikiri\nKirira",
+    "lexvo": "\nKirikiri [en]",
+    "hhbib_lgcode": "\nFaia\nFaia dialect of Kirikiri\nKirikiri Kirikiri\nTaû\nWahuka village on the Kliki river (a tributary to the Tariku)",
+    "elcat": "\nKirikiri\nKirira"
+  },
+  "triggers": {
+    "lgcode": "\nkirikiri"
+  },
+  "identifier": {
+    "wals": "kkr",
+    "multitree": "kiy",
+    "endangeredlanguages": "4395"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kirikiri (4395-kiy) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

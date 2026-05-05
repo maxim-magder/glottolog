@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Seti",
+    "hid": "sbi",
+    "level": "language",
+    "iso639-3": "sbi",
+    "latitude": "-3.45521",
+    "longitude": "141.827",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Seti](https://endangeredlanguages.com/lang/5357)\nhttps://www.wikidata.org/entity/Q7456682\nhttps://en.wikipedia.org/wiki/Seti_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Crowther:WWapei**\n**hh:hvw:Laycock:Lumi**"
+  },
+  "altnames": {
+    "multitree": "\nSeti",
+    "lexvo": "\nSeti [en]",
+    "hhbib_lgcode": "\nMa\nMauwil",
+    "elcat": "\nAunalei\nSeti"
+  },
+  "identifier": {
+    "multitree": "sbi",
+    "endangeredlanguages": "5357"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Crowther:WWapei**",
+    "subrefs": "\n**hh:hvw:Crowther:WWapei**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Seti (5357-sbi) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

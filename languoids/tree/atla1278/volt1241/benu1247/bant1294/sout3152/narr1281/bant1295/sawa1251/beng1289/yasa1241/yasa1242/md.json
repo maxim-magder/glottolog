@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Yasa",
+    "hid": "yko",
+    "level": "language",
+    "iso639-3": "yko",
+    "latitude": "2.06043",
+    "longitude": "10.678",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "GA",
+      "GQ"
+    ],
+    "links": "\n[Iyasa](https://endangeredlanguages.com/lang/558)\n[Yasa](https://grambank.clld.org/languages/yasa1242)\nhttps://en.wikipedia.org/wiki/Yasa_language\nhttps://www.wikidata.org/entity/Q36899"
+  },
+  "classification": {
+    "sub": "**hh:hv:NursePhilippson:Bantu**:170 **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:he:Ardener:Coastal-Cameroons** Yasa-Kombe: **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:h:Guthrie:Bantu-Western**:26 **hh:soc:Belew:Iyasa**:33",
+    "subrefs": "\n**hh:hv:NursePhilippson:Bantu**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:h:Guthrie:Bantu-Western**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:soc:Belew:Iyasa**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:avelot:05**\n**cldf:belew:18**\n**cldf:bikoi:ed:11**\n**cldf:bot:97:1**\n**cldf:bot:97:2**\n**cldf:bot:98**\n**cldf:caton:93**\n**cldf:connell:07:1**\n**cldf:ed:10**\n**cldf:flower:89**\n**cldf:johnston:19:18**\n**cldf:klieman:99**\n**cldf:np:37**\n**eballiso2009:11672**\n**eballiso2009:1718**\n**eballiso2009:17310**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:31609**\n**eballiso2009:32534**\n**eballiso2009:32904**\n**eballiso2009:41315**\n**eballiso2009:4224**\n**eballiso2009:4227**\n**eballiso2009:42433**\n**eballiso2009:54712**\n**eballiso2009:57576**\n**eballiso2009:57579**\n**eballiso2009:5965**\n**hh:e:Moualou:Pygmees-Ogooue-Lolo**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:phon:Bot:Yasa**\n**hh:s:BouhMaSitna:Yasa**\n**hh:soc:Belew:Iyasa**\n**hh:w:Blench:Yasa**"
+  },
+  "altnames": {
+    "multitree": "\nBongwe\nLyaasa\nLyassa\nMaasa\nYasa\nYassa",
+    "lexvo": "\nYasa [en]",
+    "hhbib_lgcode": "\nA33a_Yasa\nIyasa\nYasa YAS",
+    "elcat": "\n\"Ndowe\"\nBongwe\nIyaasa\nIyasa\nIyassa\nMaasa\nYasa\nYassa"
+  },
+  "triggers": {
+    "lgcode": "\nashango\nyasa\ndescente\ndwarfs\necotone\nlebongwe\nrimba\nlogoue\nebongwe"
+  },
+  "identifier": {
+    "multitree": "yko;yasa",
+    "endangeredlanguages": "558"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Iyasa (558-yko) = Threatened (100 percent certain, based on the evidence available) (While Iyasa still has many speakers in their 20s, most young Iyasa-speaking parents in the Campo area report that their children have only a passive command of Iyasa. Children in Ebodje generally have active command of Iyasa, but are observed speaking mostly French in daily life. Young parents today report speaking predominantly or exclusively French with their children, whereas their parents spoke mostly Iyasa in the home.) [Belew 2018](cldf:belew:18)"
+  }
+}

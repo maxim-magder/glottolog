@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Cabécar",
+    "hid": "cjp",
+    "level": "language",
+    "iso639-3": "cjp",
+    "latitude": "9.67031",
+    "longitude": "-83.4102",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CR"
+    ],
+    "links": "\n[Cabécar](https://endangeredlanguages.com/lang/3070)\n[Cabécar](https://grambank.clld.org/languages/cabe1245)\n[Cabécar](https://lexibank.clld.org/languages/constenlachibchan-Cabecar)\n[Cabécar](https://wals.info/languoid/lect/wals_code_cab)\nhttps://en.wikipedia.org/wiki/Cab%C3%A9car_language\nhttps://www.wikidata.org/entity/Q27878"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2018**\n**cldf:adelaar:07:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:constenlaumana:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Chibcha_cabecar01**\n**fabreall2009ann:Chibcha_cabecar02**\n**fabreall2009ann:Chibcha_cabecar03**\n**fabreall2009ann:Chibcha_cabecar04**\n**fabreall2009ann:Chibcha_cabecar07**\n**fabreall2009ann:Chibcha_cabecar08**\n**fabreall2009ann:Chibcha_cabecar09**\n**fabreall2009ann:Chibcha_cabecar10**\n**fabreall2009ann:Chibcha_cabecar11**\n**fabreall2009ann:Chibcha_cabecar12**\n**fabreall2009ann:Chibcha_cabecar13**\n**fabreall2009ann:Chibcha_cabecar14**\n**fabreall2009ann:Chibcha_cabecar15**\n**fabreall2009ann:Chibcha_cabecar16**\n**fabreall2009ann:Chibcha_cabecar17**\n**fabreall2009ann:Chibcha_cabecar18**\n**fabreall2009ann:Chibcha_cabecar19**\n**fabreall2009ann:Chibcha_cabecar20**\n**fabreall2009ann:Chibcha_cabecar21**\n**fabreall2009ann:Chibcha_cabecar22**\n**fabreall2009ann:Chibcha_cabecar23**\n**fabreall2009ann:Chibcha_cabecar24**\n**fabreall2009ann:Chibcha_cabecar25**\n**fabreall2009ann:Chibcha_cabecar26**\n**fabreall2009ann:Chibcha_cabecar27**\n**fabreall2009ann:Chibcha_cabecar28**\n**fabreall2009ann:Chibcha_cabecar29**\n**fabreall2009ann:Chibcha_cabecar31**\n**fabreall2009ann:Chibcha_cabecar32**\n**fabreall2009ann:Chibcha_cabecar33**\n**fabreall2009ann:Chibcha_cabecar34**\n**fabreall2009ann:Chibcha_cabecar35**\n**fabreall2009ann:Chibcha_cabecar36**\n**fabreall2009ann:Chibcha_cabecar38**\n**fabreall2009ann:Chibcha_cabecar40**\n**fabreall2009ann:Chibcha_cabecar41**\n**fabreall2009ann:Chibcha_cabecar42**\n**fabreall2009ann:Chibcha_cabecar43**\n**fabreall2009ann:Chibcha_cabecar44**\n**fabreall2009ann:Chibcha_cabecar45**\n**fabreall2009ann:Chibcha_cabecar46**\n**fabreall2009ann:Chibcha_cabecar47**\n**hh:hv:Jara:Protoviceita**\n**hh:hvw:Constenla:Chibcha**\n**hh:hw:Lehmann:Zentral-Amerika:I**\n**hh:phon:Bourland:Cabecar**\n**hh:s:Bourland:Cabecar**\n**hh:s:Pena:Cabecar**\n**hh:s:Quesada:Cabecar**\n**hh:s:Verhoeven:Cabecar**\n**hh:sd:Pena:Cabecar**\n**hh:typ:Campos:Cabecar**\n**hh:typ:Garcia:Cabecar**\n**hh:typ:Richards:Cabecares**\n**hh:w:Fernandez:Centro-America**\n**hh:w:Gabb:Costa-Rica**\n**hh:w:Thiel:Costa-Rica**"
+  },
+  "altnames": {
+    "glottolog": "\nCabecar",
+    "wals": "\nCabécar",
+    "wals other": "\nCabecar",
+    "ruhlen (1987)": "\nKabékar",
+    "moseley & asher (1994)": "\nCabecar",
+    "multitree": "\nCabecar\nCabécar\nChiripo\nChirripó\nEstrella\nKabékar\nTucurrique",
+    "lexvo": "\nCabécar [en]",
+    "hhbib_lgcode": "\nCabecar\nCabecar of Estrella River\nCabecar of Koen River\nCabecara",
+    "elcat": "\nCabecar\nCabécar\nChiripo\nChirripó\nEstrella\nKabékar\nTucurrique"
+  },
+  "triggers": {
+    "lgcode": "\ncabecar\nujarras\ncabecares\nmomostenango\nvandringar\nchirripo\nsopra\netnobiologica\nbrunca\nencrucijada"
+  },
+  "identifier": {
+    "wals": "cab",
+    "multitree": "cjp",
+    "endangeredlanguages": "3070"
+  },
+  "classification": {
+    "sub": "**hh:hv:Constenla-Umana:Chibchan**",
+    "subrefs": "\n**hh:hv:Constenla-Umana:Chibchan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Cabécar (3070-cjp) = Threatened (20 percent certain, based on the evidence available) [Constenla Umaña 2012](cldf:constenlaumana:12)"
+  }
+}

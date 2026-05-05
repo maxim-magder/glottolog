@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Saponi",
+    "hid": "spi",
+    "level": "language",
+    "iso639-3": "spi",
+    "latitude": "-2.385",
+    "longitude": "136.497",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Saponi](https://endangeredlanguages.com/lang/2777)\n[Saponi](https://lexibank.clld.org/languages/transnewguineaorg-saponi)\nhttps://en.wikipedia.org/wiki/Saponi_language\nhttps://www.wikidata.org/entity/Q3915418",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Jones:ECenderawasih**\n**hh:hvw:Clouse:Lakes-Plain**"
+  },
+  "altnames": {
+    "multitree": "\nSaponi",
+    "lexvo": "\nSaponi [en]",
+    "elcat": "\nSaponi"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND cenderawasih"
+  },
+  "identifier": {
+    "multitree": "spi",
+    "endangeredlanguages": "2777"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saponi (spi-spi) = 10 (Extinct)."
+  }
+}

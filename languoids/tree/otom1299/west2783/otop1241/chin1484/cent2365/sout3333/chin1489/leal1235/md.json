@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Lealao Chinantec",
+    "hid": "cle",
+    "level": "language",
+    "iso639-3": "cle",
+    "latitude": "17.3162",
+    "longitude": "-95.9265",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Central Chinantec](https://endangeredlanguages.com/lang/9873)\n[Chinantec (Lealao)](https://wals.info/languoid/lect/wals_code_cle)\nhttps://en.wikipedia.org/wiki/Lealao_Chinantec\nhttps://phoible.org/languages/leal1235\nhttps://www.wikidata.org/entity/Q6509365"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1408**\n**cldf:key:65**\n**cldf:rupp:90**\n**cldf:yasugi:95**\n**hh:g:Rupp:Lealao**\n**hh:s:Rupp:Chinanteco**\n**hh:sd:RuppRupp:Chinantec-Lealao**\n**ldh:item_400220**\n**ldh:item_407692**\n**ldh:item_408001**\n**mpieva:Merrifield1990Syllable**\n**mpieva:Rupp1996Dicciona**\n**sil16:16444**\n**sil16:24344**\n**sil16:24345**"
+  },
+  "altnames": {
+    "wals": "\nChinantec (Lealao)",
+    "wals other": "\nLealao Chinantec\nSan Juan Chinanteco Lealao",
+    "ruhlen (1987)": "\nChinanteko",
+    "moseley & asher (1994)": "\nChinantec",
+    "multitree": "\nChinantec\nChinantec (Lealao)\nChinantec, Lealao\nChinanteco\nChinanteco (Lealao)\nChinanteco de San Juan Lealao\nChinanteko\nLealao Chinantec",
+    "lexvo": "\nLealao Chinantec [en]",
+    "hhbib_lgcode": "\nChinantec-Lealao",
+    "elcat": "\nCentral Chinantec\nChiltepec Chinantec\nChinantec\nChinanteco\nChinanteco Central\nChinanteko\nLealao Chinantec\nPalantla Chinantec\nUsila Chinantec\nValle Nacional Chinantec\njajme dzä mii\njmiih kia' dzä mii"
+  },
+  "triggers": {
+    "lgcode": "\nlealao"
+  },
+  "identifier": {
+    "wals": "cle",
+    "multitree": "cle",
+    "endangeredlanguages": "9873"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Central Chinantec (9873) = Vulnerable (20 percent certain, based on the evidence available) (No monolinguals) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Yawa",
+    "hid": "yva",
+    "level": "language",
+    "iso639-3": "yva",
+    "latitude": "-1.77196",
+    "longitude": "136.263",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Yawa](https://grambank.clld.org/languages/nucl1454)\n[Yawa](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Yawa)\n[Yawa](https://wals.info/languoid/lect/wals_code_yaw)\nhttps://en.wikipedia.org/wiki/Yawa_language\nhttps://phoible.org/languages/nucl1454\nhttps://www.wikidata.org/entity/Q3572020"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jones:86:3**\n**cldf:wise:ed:03**\n**hh:d:Jonesetal:Yawa**\n**hh:h:Sugono:Indonesia**\n**hh:hlde:deClercq:WNNNG**\n**hh:hv:Jones:Yawa**\n**hh:hv:Voorhoeve:EBirdsHeadGeelvinkBay**\n**hh:hvld:Donohue:WPapuan**\n**hh:hvw:Anceaux:Yapen**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**\n**hh:s:Jones:Yawa**\n**hh:typ:Jones:Yawa:Ergativity**\n**hh:typ:Jones:Yawa:Question**\n**hh:typ:Udimeraa:Onate**\n**mpieva:Jones1986Yawaphon**\n**sil16:19966**\n**sil16:23058**\n**sil16:23389**\n**sil16:26415**\n**sil16:37312**\n**sil16:37780**\n**sil16:43630**"
+  },
+  "altnames": {
+    "wals": "\nYawa",
+    "ruhlen (1987)": "\nYava",
+    "moseley & asher (1994)": "\nYava",
+    "multitree": "\nIau\nMantembu\nMora\nTuru\nYapanani\nYava\nYawa",
+    "lexvo": "\nYawa [en]",
+    "hhbib_lgcode": "\nBergbewoners van Japèn's Noordkust ?= Saweru\nMidden-Japen (Mantembu\nToeroe\nTuru\nYava\nYava (Ac)\nYava)\nYawa (Sarawandori)\nYawa (Yapanani)\nYawa Onate\nYawa/Turu"
+  },
+  "triggers": {
+    "lgcode": "\nyawa\nNOT n AND yawa\nmariadei\ntuturaimbe\nrakaror\nonate"
+  },
+  "identifier": {
+    "wals": "genus/yawa",
+    "multitree": "yawa;yva"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yawa (yva-yva) = 5* (Developing)."
+  }
+}

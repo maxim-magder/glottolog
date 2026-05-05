@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Thakali",
+    "hid": "ths",
+    "level": "language",
+    "iso639-3": "ths",
+    "latitude": "28.7014",
+    "longitude": "83.6466",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Thakali](https://endangeredlanguages.com/lang/5703)\n[Thakali](https://grambank.clld.org/languages/thak1245)\n[Thakali](https://lexibank.clld.org/languages/halenepal-Thakali)\n[Thakali](https://wals.info/languoid/lect/wals_code_thk)\nhttps://en.wikipedia.org/wiki/Thakali_language\nhttps://phoible.org/languages/thak1245\nhttps://www.wikidata.org/entity/Q7709348"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2976**\n**asjp2010:940**\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:georg:95**\n**cldf:georg:96:1**\n**cldf:georg:96:2**\n**cldf:lehman:70**\n**cldf:np:12:8**\n**hh:g:Georg:Thakali**\n**hh:g:Regmi:Thakali**\n**hh:hld:Beames:Indian**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Pittman:Tamang-Gurung-Thakali**\n**hh:hvw:Grierson:3:I**\n**hh:t:HariMaibaum:Thakali**\n**hh:w:Hodgson:Broken-Nepal**\n**hh:w:Pittman:Tibeto-Burman-Word-Lists**\n**hh:wsoc:Webster:Thakali**\n**mpieva:Georg1996Marphata**\n**sil16:10018**\n**sil16:10812**\n**sil16:10975**\n**sil16:10998**\n**sil16:11000**\n**sil16:11001**\n**sil16:11002**\n**sil16:12103**\n**sil16:23675**\n**sil16:27187**\n**sil16:27194**\n**sil16:27195**"
+  },
+  "altnames": {
+    "wals": "\nThakali",
+    "wals other": "\nMarphatan Thakali\nThakali Marphatan",
+    "moseley & asher (1994)": "\nThakali",
+    "multitree": "\nPanchgaunle\nTapaang\nThakali\nThaksya\nThāksya",
+    "lexvo": "\nThakali [en]",
+    "hhbib_lgcode": "\nMarpha\nSyang\nThakali Marpha\nThaksya\nThini\nTukuche",
+    "elcat": "\nPanchgaunle\nTapaang\nThakali\nThaksya\nThāksya"
+  },
+  "triggers": {
+    "lgcode": "\nmarpha\nmarphatan\nbodic\nNOT tibeto AND thakali\nkdaki"
+  },
+  "identifier": {
+    "wals": "thk",
+    "multitree": "ths",
+    "endangeredlanguages": "5703"
+  },
+  "classification": {
+    "sub": "**hh:s:Noonan:Chantyal** **hh:hv:Honda:Tamangic**",
+    "subrefs": "\n**hh:s:Noonan:Chantyal**\n**hh:hv:Honda:Tamangic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Thakali (5703-ths) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Igo",
+    "hid": "ahl",
+    "level": "language",
+    "iso639-3": "ahl",
+    "latitude": "7.25499",
+    "longitude": "0.67846",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH",
+      "TG"
+    ],
+    "links": "\n[Igo](https://endangeredlanguages.com/lang/5079)\nhttps://www.wikidata.org/entity/Q35412\nhttps://en.wikipedia.org/wiki/Ahlon_language\nhttps://phoible.org/languages/igoo1238"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**cldf:wuethrich:00**\n**eballiso2009:20382**\n**eballiso2009:31230**\n**eballiso2009:31231**\n**hh:g:Gblem:Igo**\n**hh:g:Gblem:Igo-Ahlon:2021**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:phon:Gblem:Igo**\n**hh:s:Gblem:Igo:2018**\n**hh:s:Westermann:Guang**\n**hh:w:CNLT:Togo**\n**mpieva:Westermann1922DieSprac**\n**sil16:23589**\n**sil16:23593**\n**sil16:31640**\n**sil16:34565**\n**sil16:34566**\n**sil16:34567**\n**sil16:37384**\n**sil16:37435**\n**sil16:41243**\n**sil16:42732**"
+  },
+  "altnames": {
+    "multitree": "\nAchlo\nAgo\nAhlon\nAhlon-Bogo\nAhlõ\nAhonlan\nAnlo\nIgo",
+    "lexvo": "\nIgo [en]",
+    "hhbib_lgcode": "\nAhlo\nAhlo/Ago\nIgo-Ahlon-Bogo",
+    "elcat": "\nAchlo\nAgo\nAhlon\nAhlon-Bogo\nAhlõ\nAhonlan\nAnlo\nIgo"
+  },
+  "triggers": {
+    "lgcode": "\nligo"
+  },
+  "identifier": {
+    "multitree": "ahl",
+    "endangeredlanguages": "5079"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Ghana-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Ghana-Togo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Igo (5079-ahl) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

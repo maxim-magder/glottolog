@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Luo (Cameroon)",
+    "hid": "luw",
+    "level": "language",
+    "iso639-3": "luw",
+    "latitude": "5.9072",
+    "longitude": "9.91259",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Luo](https://endangeredlanguages.com/lang/4541)\nhttps://www.wikidata.org/entity/Q3915366\nhttps://en.wikipedia.org/wiki/Luo_language_(Cameroon)",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:el:Connell:Nigeria-Cameroon**"
+  },
+  "altnames": {
+    "multitree": "\nCameroon\nLuo",
+    "lexvo": "\nLuo (Cameroon) [en]\nLuo [en]",
+    "hhbib_lgcode": "\nKasabe",
+    "elcat": "\nLuo"
+  },
+  "triggers": {
+    "lgcode": "\nluo AND parlons"
+  },
+  "identifier": {
+    "multitree": "luw",
+    "endangeredlanguages": "4541"
+  },
+  "classification": {
+    "sub": "**hh:s:ConnellZeitlyn:Njerep**",
+    "subrefs": "\n**hh:s:ConnellZeitlyn:Njerep**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kasabe (luw-luw) = 10 (Extinct)."
+  }
+}

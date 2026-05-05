@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Àhàn",
+    "hid": "ahn",
+    "level": "language",
+    "iso639-3": "ahn",
+    "latitude": "7.44139",
+    "longitude": "6.00896",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Àhàn](https://endangeredlanguages.com/lang/3690)\nhttps://www.wikidata.org/entity/Q34723\nhttps://en.wikipedia.org/wiki/Ahan_language\nhttps://phoible.org/languages/ahan1244"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Ogunmodimu:Ahan**\n**hh:styp:Akanbi:Ahan-Verb**\n**hh:typ:Akanbi:Ahan-Interrogative**\n**hh:w:Blench:Ayere-Ahan**\n**hh:wsoc:Decker:Ahan-Oyuwu**"
+  },
+  "altnames": {
+    "glottolog": "\nAhan",
+    "multitree": "\nAhaan\nÀhàn",
+    "lexvo": "\nÀhàn [en]",
+    "hhbib_lgcode": "\nAhan",
+    "elcat": "\nAhaan\nAhan\nÀhàn"
+  },
+  "triggers": {
+    "lgcode": "\nahan"
+  },
+  "identifier": {
+    "multitree": "ahn",
+    "endangeredlanguages": "3690"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ohiri-Aniche:Akoko**",
+    "subrefs": "\n**hh:hv:Ohiri-Aniche:Akoko**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Àhàn (3690-ahn) = Endangered (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:264)"
+  }
+}

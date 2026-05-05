@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Austral",
+    "hid": "aut",
+    "level": "language",
+    "iso639-3": "aut",
+    "latitude": "-23.3843",
+    "longitude": "-149.462",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PF"
+    ],
+    "links": "\n[Austral](https://endangeredlanguages.com/lang/2448)\n[Austral_1213](https://lexibank.clld.org/languages/walworthpolynesian-AustralA)\n[Austral_128](https://lexibank.clld.org/languages/walworthpolynesian-AustralB)\nhttps://en.wikipedia.org/wiki/Austral_language\nhttps://www.wikidata.org/entity/Q2669261"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Fischer:Austral**",
+    "subrefs": "\n**hh:hvld:Fischer:Austral**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:ew:Aitken:Tubuai**\n**hh:h:Hancock-Teed:Raivavae**\n**hh:hv:Marck:Polynesian**\n**hh:hvld:Fischer:Austral**\n**hh:hvw:Schooling:French-Polynesia**\n**hh:hw:CharpentierFrancois:Polynesie-Francaise**\n**hh:vw:Zamponi:Raivavaean**\n**hh:w:Fischer:Rurutuan**\n**hh:w:Fischer:Tupuaian-Rapan**"
+  },
+  "altnames": {
+    "multitree": "\nAustral\nDialectes des Iles Australes\nDialectos de las islas Australes\nTubuai-Rurutu",
+    "lexvo": "\nAustral [en]\nAustral language [en]",
+    "hhbib_lgcode": "\nRa'ivavae\nRa'ivavaean\nRaivavae\nRimataran\nRurutu\nRurutu-Tubuai\nRurutuan\nTubuai\nTupua'ian",
+    "elcat": "\nAustral\nTubuai-Rurutu"
+  },
+  "triggers": {
+    "lgcode": "\ntubuai"
+  },
+  "identifier": {
+    "multitree": "aut",
+    "endangeredlanguages": "2448"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Austral (2448-aut) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

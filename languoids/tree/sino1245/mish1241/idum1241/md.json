@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Idu",
+    "hid": "clk",
+    "level": "language",
+    "iso639-3": "clk",
+    "latitude": "29.4473",
+    "longitude": "95.6472",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Deng_Yidu](https://lexibank.clld.org/languages/sagartst-Yidu)\n[Idu](https://grambank.clld.org/languages/idum1241)\n[Idu](https://wals.info/languoid/lect/wals_code_idu)\n[Kera'a](https://endangeredlanguages.com/lang/4179)\n[Lhoba (yidu)](https://lexibank.clld.org/languages/gaotb-IduMishmi)\nhttps://en.wikipedia.org/wiki/Idu_Mishmi_language\nhttps://www.wikidata.org/entity/Q56412"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1817**\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:jiang:05**\n**cldf:np:nd:264**\n**cldf:roche:suzuki:17**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Blench:Idu-Dictionary**\n**hh:e:Baruah:Idu-Mishmis**\n**hh:e:Ghosh:Mishmis**\n**hh:ew:Bhattacharjee:Idus**\n**hh:g:Jiang:Yidu**\n**hh:he:Singh:Scheduled**\n**hh:hes:Baima:Linzhi**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:Sun:Eastern-Himalayan-China**\n**hh:hv:Bradley:Sino-Tibetan-Plants**\n**hh:hvld:Konow:Assam**\n**hh:hvw:Blench:Arunachal:2024**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:phon:Blench:Idu-Mishmi**\n**hh:s:Blench:Idu-Grammar**\n**hh:s:Blench:Idu:2017**\n**hh:s:Pulu:Idu-Mishmi**\n**hh:s:Pulu:Idu:1978**\n**hh:s:Sun:Yidu**\n**hh:s:Sun:Yidu:2007**\n**hh:s:Sunetal:Menba-Luoba**\n**hh:s:Talukdar:Idu**\n**hh:soc:Peck:Keraa**\n**hh:typ:Reinohl:Igu**\n**hh:v:DeLancey:Kuki-Naga**\n**hh:v:Reinohl:Idu**\n**hh:w:Bufan:Zangmian**\n**hh:w:Campbell:India**\n**hh:w:KumarPulu:Idu**"
+  },
+  "altnames": {
+    "wals": "\nIdu",
+    "wals other": "\nChulikata",
+    "ruhlen (1987)": "\nIdu",
+    "moseley & asher (1994)": "\nMidu",
+    "multitree": "\n\"Chulikata\"\n\"Chulikotta\"\nBebejiya\nChulikata\nChulikatta\nChulikātā Mishmi\nIda\nIdu\nIdu Mishmi\nIdu-Mishmi\nLho-Pa\nMethun\nMidhi\nMidu\nNeda\nYidu Luoba",
+    "lexvo": "\nIdu Mishmi Language [en]\nIdu-Mishmi [en]",
+    "hhbib_lgcode": "\nChulikata\nIdu Mishmi\nIdu-Mishmi\nIgu\nKera'a\nKera’a\nLuoba\nMidu\nMishmi-Idu\nSulikata Mishmi\nYidu\nYidu Luoba",
+    "elcat": "\n\"Chulikata\"\n\"Chulikotta\"\nBebejiya\nChulikatta\nChulikātā Mishmi\nIda\nIdu\nIdu Mishmi\nIdu-Mishmi\nKera'a\nLho-Pa\nMethun\nMidhi\nMidu\nNeda\nYidu Luoba\n珞巴\n義都語"
+  },
+  "triggers": {
+    "lgcode": "\nyidu\ntower AND files"
+  },
+  "identifier": {
+    "wals": "idu",
+    "multitree": "clk",
+    "endangeredlanguages": "4179"
+  },
+  "classification": {
+    "sub": "**hh:v:Reinohl:Idu**",
+    "subrefs": "\n**hh:v:Reinohl:Idu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kera'a (4179-clk) = Threatened (100 percent certain, based on the evidence available) [Peck 2020](cldf:peck:20)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Koyraboro Senni Songhai",
+    "hid": "ses",
+    "level": "language",
+    "iso639-3": "ses",
+    "latitude": "16.9634",
+    "longitude": "-0.55187",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML",
+      "NE"
+    ],
+    "links": "\n[Koyraboro Senni](https://wals.info/languoid/lect/wals_code_kse)\n[Koyraboro Senni Songhai](https://grambank.clld.org/languages/koyr1242)\nhttps://en.wikipedia.org/wiki/Koyraboro_Senni\nhttps://phoible.org/languages/koyr1242\nhttps://www.wikidata.org/entity/Q35655"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hutchinson:71**\n**cldf:jacquemond:59**\n**cldf:malherbe:rosenberg:96**\n**cldf:miner:53**\n**cldf:mukarovsky:89**\n**cldf:nicolai:82**\n**cldf:prost:70**\n**cldf:rouch:60**\n**cldf:sarr:73**\n**cldf:shopen:konare:70**\n**cldf:vossen:ed:00:4**\n**cldf:zima:92**\n**eballiso2009:35597**\n**eballiso2009:5340**\n**eballiso2009:8526**\n**hh:d:Heath:Korobono-Senni**\n**hh:d:Traore:Songhoy**\n**hh:d:Zimmerman:Sonrai-Gao**\n**hh:e:Prost:Songhay**\n**hh:e:Sarr:Songhoy**\n**hh:g:Heath:Senni**\n**hh:gtd:Prost:Sonay**\n**hh:hv:Nicolai:Songhay:1984**\n**hh:ld:ChristiansenChristiansen:Tadaksahak**\n**hh:phon:Nicolai:Songhay-Oriental**\n**hh:s:Raffenel:Arama**\n**hh:s:Stauffer:Songhai**\n**hh:w:Williamson:Gao**\n**mpieva:Heath1998Dictionn**\n**mpieva:Heath1998TextsinK**\n**mpieva:Nicolai1990Parentes**\n**mpieva:Nicolai1997Songhay**"
+  },
+  "altnames": {
+    "wals": "\nKoyraboro Senni",
+    "wals other": "\nGao dialect\nKoyraboro Senni Songhay\nSonghai\nSonghai (Gao)\nSonghai (Koyraboro Senni)\nSonghay (Koyraboro Senni)",
+    "ruhlen (1987)": "\nSonghai",
+    "moseley & asher (1994)": "\nSonghai",
+    "multitree": "\nEast Songhay\nGao Songhay\nKoroboro Senni\nKoyra Senni\nKoyra Senni Songhay\nKoyraboro Senni\nSongai\nSongay\nSongay Senni\nSonghai\nSonghay\nSonghay (Koyraboro Senni)\nSonghay, Koyraboro Senni\nSongoi\nSongoy\nSonrai\nSonrhai",
+    "lexvo": "\nKoyra Senni [de]\nKoyraboro Senni Songhai [en]\nKoyraboro Senni [en]",
+    "hhbib_lgcode": "\nE Songhay\nGao\nSonghay Koyraboro Senni\nSonghay of Gao\nSonghay-Koyraboro Senni"
+  },
+  "triggers": {
+    "lgcode": "\nNOT introduction AND NOT reader AND gao\narama\nkoroboro\nparentes\nsenni\nsonay\nchinii"
+  },
+  "identifier": {
+    "wals": "kse",
+    "multitree": "ses"
+  },
+  "classification": {
+    "sub": "**hh:hv:Souag:Songhay**",
+    "subrefs": "\n**hh:hv:Souag:Songhay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Songhay, Koyraboro Senni (ses-ses) = 5 (Developing). Recognized language (1982, Decree No. 159 of 19 July, Article 1)."
+  }
+}

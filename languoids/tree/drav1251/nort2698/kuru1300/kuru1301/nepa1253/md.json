@@ -1,0 +1,52 @@
+{
+  "core": {
+    "name": "Nepali Kurux",
+    "hid": "kxl",
+    "level": "dialect",
+    "iso639-3": "kxl",
+    "latitude": "26.72057",
+    "longitude": "86.00255",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Nepali Kurux](https://endangeredlanguages.com/lang/4464)\nhttps://www.wikidata.org/entity/Q3200624\nhttps://phoible.org/languages/nepa1253"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:grignard:24**\n**cldf:lewis:ed:09**\n**cldf:np:12:8**\n**cldf:np:nd:264**\n**cldf:yadava:01**\n**hh:he:Crooke:Central-Indian**\n**hh:ld:Reinhard:Dhanger**\n**hh:phon:Gordon:Dhangar**\n**hh:s:Gordon:Dhangar-Kurux**\n**hh:s:Sapkota:Jhangar**\n**hh:s:Uranw:Uranw-Kudux**\n**hh:s:Yadava:Dhangar**\n**hh:soc:Yadav:Dhangar**\n**hh:typ:Sapkota:Dhangar**\n**iso6393:2019-048**\n**sil16:10832**\n**sil16:12061**\n**sil16:48781**"
+  },
+  "altnames": {
+    "multitree": "\nKurukh\nKurux\nKurux, Nepali\nKuṛux\nOraon",
+    "lexvo": "\nNepali Kurux [en]",
+    "hhbib_lgcode": "\nDhangar\nDhanger\nJhangar\nKurux-Nepali\nNepali Kurukh",
+    "elcat": "\nKurukh\nKurux\nKuṛux\nNepali\nNepali Kurux\nOraon"
+  },
+  "triggers": {
+    "lgcode": "\noraon\njhangar\ndhanger\njangar\nkudux\ndhangar\nuranw"
+  },
+  "identifier": {
+    "multitree": "kxl",
+    "endangeredlanguages": "4464"
+  },
+  "classification": {
+    "sub": "**hh:gtd:Kobayashi:Kurux**:11-14",
+    "subrefs": "\n**hh:gtd:Kobayashi:Kurux**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Nepali Kurux (4464-kxl) = Vulnerable (80 percent certain, based on the evidence available) (The language is spoken by 69% of the Dhangars.) [Sapkota 2008](cldf:sapkota:08)"
+  },
+  "iso_retirement": {
+    "code": "kxl",
+    "name": "Nepali Kurux",
+    "effective": "2020-01-23",
+    "reason": "merge",
+    "change_to": "\nkru",
+    "remedy": "Merged into Kurux [kru]",
+    "change_request": "2019-048"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kung",
+    "hid": "kfl",
+    "level": "language",
+    "iso639-3": "kfl",
+    "latitude": "6.53881",
+    "longitude": "10.2073",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Kung](https://endangeredlanguages.com/lang/2210)\nhttps://www.wikidata.org/entity/Q6444510\nhttps://en.wikipedia.org/wiki/Kung_language_(Cameroon)"
+  },
+  "classification": {
+    "sub": "**hh:typ:Kiessling:Kung**:139 **hh:soc:Troyeretal:Mmen-Aghem**:7",
+    "subrefs": "\n**hh:soc:Troyeretal:Mmen-Aghem**\n**hh:typ:Kiessling:Kung**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chang-pei:45**\n**cldf:ed:10**\n**cldf:good:dicarlo:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Good:Fungom**\n**hh:s:Tatang:Kung**\n**hh:typ:Kiessling:Kung**\n**hh:typ:Schlenker:Kung**"
+  },
+  "altnames": {
+    "multitree": "\nCungo\nKung",
+    "lexvo": "\nKung [en]",
+    "elcat": "\nKung"
+  },
+  "triggers": {
+    "lgcode": "\nkung AND buschleute"
+  },
+  "identifier": {
+    "multitree": "kfl",
+    "endangeredlanguages": "2210"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kung (2210-kfl) = Endangered (20 percent certain, based on the evidence available) [Good and DiCarlo 2012](cldf:good:dicarlo:12)"
+  }
+}

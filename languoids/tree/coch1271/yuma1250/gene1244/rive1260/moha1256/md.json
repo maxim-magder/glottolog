@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mohave",
+    "hid": "mov",
+    "level": "language",
+    "iso639-3": "mov",
+    "latitude": "34.8866",
+    "longitude": "-114.599",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Mojave](https://endangeredlanguages.com/lang/1667)\n[Mojave](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Mojave)\n[Mojave](https://wals.info/languoid/lect/wals_code_moj)\nhttps://en.wikipedia.org/wiki/Mojave_language\nhttps://www.wikidata.org/entity/Q56510"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:castetter:bell:51**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:devereaux:50**\n**cldf:drucker:41**\n**cldf:ed:10**\n**cldf:fathauer:54:2**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:kroeber:02:1**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:munro:brown:76**\n**cldf:np:nd:264**\n**cldf:redden:ed:75:3**\n**cldf:redden:ed:75:5**\n**cldf:spier:36**\n**cldf:stewart:47**\n**hh:d:Munroetal:Mojave**\n**hh:e:Kroeber:Mohave**\n**hh:e:Stewart:Mohave**\n**hh:g:Munro:Mojave**\n**hh:g:Munro:Mojave:1976**\n**hh:hew:Pena:Chaco**\n**hh:hvb:Golla:California**\n**hh:hvw:Hervas:Poligloto**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Kroeber:Mohave**\n**hh:s:Gatschet:Yuma:1892**\n**hh:s:Poss:Mojave**\n**hh:typ:Thomas-Flinders:Maricopa**\n**sil16:12614**\n**sil16:12615**"
+  },
+  "altnames": {
+    "wals": "\nMojave",
+    "wals other": "\nRiver Yuman\nUpriver Yuman\nYuman (Upriver)",
+    "ruhlen (1987)": "\nMohave",
+    "moseley & asher (1994)": "\nMohave",
+    "multitree": "\nAmaquaqua\nJamajab\nMohave\nMohave (Arizona)\nMohave (California)\nMohave (Californie)\nMojave",
+    "lexvo": "\nMohave [en]\nMojave [fr]\nMojave language [en]",
+    "hhbib_lgcode": "\nMbocovi\nMocobì\nMojave",
+    "elcat": "\nAmaquaqua\nJamajab\nMohave\nMojave"
+  },
+  "triggers": {
+    "lgcode": "\nmojave\nmohave"
+  },
+  "identifier": {
+    "wals": "moj",
+    "multitree": "mov",
+    "endangeredlanguages": "1667"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**:117-118",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mojave (1667-mov) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

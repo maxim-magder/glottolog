@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Carolinian",
+    "hid": "cal",
+    "level": "language",
+    "iso639-3": "cal",
+    "latitude": "15.205",
+    "longitude": "145.765",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MP"
+    ],
+    "links": "\n[Carolinian](https://endangeredlanguages.com/lang/4155)\n[Carolinian](https://grambank.clld.org/languages/caro1242)\n[Carolinian](https://wals.info/languoid/lect/wals_code_crl)\n[Saipan Carolinian](https://lexibank.clld.org/languages/abvdoceanic-SaipanCarolinian)\nhttps://en.wikipedia.org/wiki/Carolinian_language\nhttps://www.wikidata.org/entity/Q28427"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bright:79**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:joseph:murray:51**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:spehr:54**\n**hh:d:Jackson:Carolinian**\n**hh:e:Spoehr:Saipan**\n**hh:hv:Sakiyama:Micronesian**\n**hh:hvw:Jackson:Trukic**\n**hh:phon:Jackson:Saipan**\n**hh:s:Fritz:Zentralkarolinische**\n**hh:soc:Ellis:Saipan**\n**hh:vphon:Ellis:Saipan**\n**mpieva:Jackson1984Theinter**"
+  },
+  "altnames": {
+    "wals": "\nCarolinian",
+    "ruhlen (1987)": "\nSaipan Carolinian",
+    "moseley & asher (1994)": "\nCarolinian",
+    "multitree": "\nCarolinian\nKarolinian\nSaipan Carolinian\nSouthern Carolinian\nSprache der Marianen",
+    "lexvo": "\nCarolinian [en]\nCarolinian language [en]\nCarolinien [fr]\nIdioma carolinio [es]\nKaroliini [fi]\nKarolina lingvo [eo]\nKarolinski jezik [sh]\nKarolinų kalba [lt]\nKarolīniešu valoda [lv]\nカロリン語 [ja]",
+    "hhbib_lgcode": "\nSaipan\nSaipan Carolinian",
+    "elcat": "\nCarolinian\nKarolinian\nSaipan Carolinian\nSouthern Carolinian\nSprache der Marianen"
+  },
+  "triggers": {
+    "lgcode": "\ncarolinian\nzentralkarolinische\nsaipan"
+  },
+  "identifier": {
+    "wals": "crl",
+    "multitree": "cal",
+    "endangeredlanguages": "4155"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Quackenbush:Sonsorol-Truk**",
+    "subrefs": "\n**hh:hvw:Quackenbush:Sonsorol-Truk**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Carolinian (4155-cal) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

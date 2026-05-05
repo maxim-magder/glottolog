@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Nigerian Sign Language",
+    "hid": "nsi",
+    "level": "language",
+    "iso639-3": "nsi",
+    "latitude": "6.49997",
+    "longitude": "3.16664",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7033021\nhttps://en.wikipedia.org/wiki/Nigerian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Odusanya:Nigerian-Sign**\n**hh:h:Ojile:Deaf-Nigeria**"
+  },
+  "altnames": {
+    "multitree": "\nNigerian Sign Language",
+    "lexvo": "\nNigerian Sign Language [en]"
+  },
+  "identifier": {
+    "multitree": "nsi"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nigerian Sign Language (nsi-nsi) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Intelligible to ASL (**hh:h:Asonye:Sign-Africa**):787 which was introduced in the 1960s (**hh:h:Ojile:Deaf-Nigeria**).",
+    "subrefs": "\n**hh:h:Asonye:Sign-Africa**\n**hh:h:Ojile:Deaf-Nigeria**"
+  }
+}

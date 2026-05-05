@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Guianese Creole French",
+    "hid": "gcr",
+    "level": "language",
+    "iso639-3": "gcr",
+    "latitude": "4.94804",
+    "longitude": "-52.7336",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "GF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q1363072\n[Guyanais](https://apics-online.info/contributions/52)\nhttps://en.wikipedia.org/wiki/French_Guianese_Creole\n[Guianese French Creole](https://wals.info/languoid/lect/wals_code_gfr)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barthelmi:95**\n**cldf:fauquenoy:72**\n**cldf:hazael-massieux:90**\n**cldf:hazael-massieux:93**\n**cldf:jennings:pfaender:13**\n**cldf:kriegel:michaelis:etal:03**\n**cldf:ludwig:pfaender:03**\n**cldf:pfaender:00:1**\n**cldf:pfaender:96**\n**cldf:saint-quentin:72**\n**hh:e:Mam:Guyane**\n**hh:g:Peyraud:Guyanais**\n**hh:g:Schlupp:Guyane**\n**hh:h:Jolivet:Creoles-Guyane**\n**hh:h:Queixalos:Guyane**\n**hh:hdial:Anonby:Amapa**\n**hh:ld:Fauquenoy:Guyanese**\n**hh:phon:Fauquenoy:Guyanais**\n**hh:s:Adam:Aryen**\n**hh:s:Armande:Kreyol**\n**hh:s:Contout:Guyanais**\n**hh:s:Corne:Guyane**\n**hh:s:Fauquenoy:Guyanais**\n**hh:s:Horth:Guyanais**\n**hh:s:Jadfard:Kreol**\n**hh:s:Pfander:Guyanais**\n**hh:s:StQuentin:Cayenne**\n**hh:sv:JenningsPfander:French-Guianese**\n**hh:typ:Pfander:Frankokreol**\n**ldh:item_402265**\n**mpieva:2001Corpuscr**\n**mpieva:Damoiseau2003Elements**\n**mpieva:SaintQuentin1872Introduc**\n**mpieva:Schlupp1997Modalite**"
+  },
+  "altnames": {
+    "wals": "\nGuianese French Creole",
+    "wals other": "\nGuianese (French)",
+    "moseley & asher (1994)": "\nFrench Creole",
+    "multitree": "\nFrench Guianese Creole French\nGuianese Creole French\nGuyana French\nGuyanais\nGuyane\nGuyane Creole\nPatois\nPatwa",
+    "lexvo": "\nCréole guyanais [fr]\nFrench Guiana Creole [en]\nGuianese Creole French [en]\nГвианский креольский язык [ru]\nГвіанська креольська мова [uk]",
+    "hhbib_lgcode": "\nCGuianese Creole French\nCayenne\nGuyana Creole\nNegro-Aryen"
+  },
+  "triggers": {
+    "lgcode": "\nguyanais\nmaroni"
+  },
+  "identifier": {
+    "wals": "gfr",
+    "multitree": "gcr"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Anonby:Amapa** **hh:hv:Corne:French-Creole**",
+    "subrefs": "\n**hh:hdial:Anonby:Amapa**\n**hh:hv:Corne:French-Creole**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Guianese French Creole (gcr-gcr) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Eastern Arrernte",
+    "hid": "aer",
+    "level": "language",
+    "iso639-3": "aer",
+    "latitude": "-23.3583",
+    "longitude": "135.046",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Arrernte (Mparntwe)](https://wals.info/languoid/lect/wals_code_amp)\n[Eastern Arrernte](https://grambank.clld.org/languages/east2379)\n[Eastern and Central Arrernte](https://endangeredlanguages.com/lang/5248)\nhttps://phoible.org/languages/east2379\nhttps://www.wikidata.org/entity/Q10728232"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:dixon:ed:02:2**\n**cldf:ed:10**\n**cldf:harkins:wierzbicka:ed:01:2**\n**cldf:henderson:94**\n**cldf:henderson:dobson:99**\n**cldf:lewis:ed:09**\n**cldf:long:70**\n**cldf:murdock:34:2**\n**cldf:murdock:34:4**\n**cldf:np:nd:195**\n**cldf:np:nd:197**\n**cldf:np:nd:264**\n**cldf:raimy:00**\n**cldf:roberts:53**\n**cldf:spencer:gillen:27**\n**cldf:strehlow:07**\n**cldf:strehlow:13**\n**cldf:tryon:07**\n**hh:d:HendersonDobson:Eastern-Central-Arrernte**\n**hh:ew:Stirling:Central-Australia**\n**hh:ew:Willshire:Lake-Amadeus**\n**hh:g:Henderson:Central-Eastern-Arrernte**\n**hh:g:Henderson:Central-Eastern-Arrernte:2013**\n**hh:g:Wilkins:Arrernte**\n**hh:s:Green:ECArrernte**\n**ldh:item_404052**\n**mpieva:1988Complexs**\n**mpieva:Berry1998Alignmen**"
+  },
+  "altnames": {
+    "wals": "\nArrernte (Mparntwe)",
+    "wals other": "\nArrernte (Eastern)\nE Aranda\nE. Arrernte\nMparntwe Arrernte",
+    "ruhlen (1987)": "\nAranda (Eastern)",
+    "moseley & asher (1994)": "\nAranda",
+    "multitree": "\nA'randa\nAldolanga\nAldolinga\nAlitera\nAranda\nAranta\nArinta\nArranda\nArrernte\nArrernte (Eastern)\nArrernte (Mparntwe)\nArrernte, Eastern\nArrinda\nArrundta\nArrunta\nArunda\nArunta\nArunta Ulpma\nBurrin-gah\nEastern Aranda\nHerrinda\nIlpma\nJairunda\nLower Aranda\nOiljpma\nParoola\nPitjapitja\nPitjima\nUlpma\nUr-rundie\nUrrundie\nWaitjinga\nWonggaranda\nWongkatjeri\nWychinga",
+    "lexvo": "\nEastern Arrernte [en]",
+    "elcat": "\nA'randa\nAldolanga\nAldolinga\nAlitera\nAranda\nAranta\nArinta\nArranda\nArrernte\nArrernte (Eastern)\nArrernte (Mparntwe)\nArrinda\nArrundta\nArrunta\nArunda\nArunta\nArunta Ulpma\nBurrin-gah\nEastern\nEastern Aranda\nEastern and Central Arrernte\nHerrinda\nIlpma\nJairunda\nLower Aranda\nOiljpma\nParoola\nPitjapitja\nPitjima\nUlpma\nUr-rundie\nUrrundie\nWaitjinga\nWonggaranda\nWongkatjeri\nWychinga",
+    "hhbib_lgcode": "\nAlice Springs\nArunta-Alice Springs"
+  },
+  "triggers": {
+    "lgcode": "\nmparntwe\nNOT of AND arrernte"
+  },
+  "identifier": {
+    "wals": "arr;amp",
+    "multitree": "aer",
+    "endangeredlanguages": "5248"
+  },
+  "classification": {
+    "sub": "**hh:hv:Koch:Arandic** **hh:g:Henderson:Central-Eastern-Arrernte:2013**:10-13",
+    "subrefs": "\n**hh:hv:Koch:Arandic**\n**hh:g:Henderson:Central-Eastern-Arrernte:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern and Central Arrernte (5248-aer) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

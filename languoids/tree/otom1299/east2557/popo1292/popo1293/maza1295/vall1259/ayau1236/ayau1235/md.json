@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ayautla Mazatec",
+    "hid": "vmy",
+    "level": "language",
+    "iso639-3": "vmy",
+    "latitude": "18.0993",
+    "longitude": "-96.5952",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Ayautla_Mazatec\nhttps://www.wikidata.org/entity/Q14916912"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Gudschinsky:Mazatec-Dialect**\n**hh:hvwphon:Kirk:Mazatec**\n**hh:phontyp:Nakamoto:Ayautla**\n**hh:typ:Nakamoto:Ayautla-Mazatec-Constituency**\n**sil16:44910**"
+  },
+  "altnames": {
+    "multitree": "\nAyautla Soyaltepec Masateko\nMasateko\nMazatec\nMazatec, Ayautla\nMazateco\nMazateco de Ayautla\nMazateco de Ixcatlán\nMazateco de Soyaltepec\nMazatèque d'Ayautla\nMazatèque d'Ixcatlán\nMazatèque de Soyaltepec",
+    "lexvo": "\nAyautla Mazatec [en]",
+    "hhbib_lgcode": "\nA San Bartolomé Ayautla\nSan Bartolomé Ayautla"
+  },
+  "triggers": {
+    "lgcode": "\nayautla"
+  },
+  "identifier": {
+    "multitree": "vmy"
+  },
+  "classification": {
+    "sub": "**hh:phontyp:Nakamoto:Ayautla**:10-12; 338-342",
+    "subrefs": "\n**hh:phontyp:Nakamoto:Ayautla**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Ayautla Mazatec (1285-vmy) = Vulnerable"
+  }
+}

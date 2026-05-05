@@ -1,0 +1,22 @@
+{
+  "core": {
+    "name": "Falam Chin (Retired)",
+    "level": "language",
+    "iso639-3": "flm",
+    "hid": "flm",
+    "links": ""
+  },
+  "iso_retirement": {
+    "comment": "\"The term “Ranglong” is listed in the Ethnologue as being part of Falam Chin\nlanguage but BI considers it a language on its own merits and not a alternative\nname or dialect of the Falam Chin\". from an e-mail dated Oct 2003 from Eric\nElmer, Bibles International corresponding with New Life Computer Institute",
+    "code": "flm",
+    "name": "Falam Chin",
+    "effective": "2007-07-18",
+    "reason": "split",
+    "remedy": "Split into Ranglong [rnl], and Falam Chin (new identifier [cfm]).",
+    "change_request": "2006-023",
+    "change_to": "\nrnl\ncfm"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2006-023**"
+  }
+}

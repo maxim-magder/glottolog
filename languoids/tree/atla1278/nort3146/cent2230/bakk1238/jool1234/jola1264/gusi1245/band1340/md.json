@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bandial",
+    "hid": "bqj",
+    "level": "language",
+    "iso639-3": "bqj",
+    "latitude": "12.5258",
+    "longitude": "-16.4245",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\n[Bandial](https://endangeredlanguages.com/lang/2245)\n[Bandial](https://grambank.clld.org/languages/band1340)\n[Joola-Banjal](https://lexibank.clld.org/languages/polyglottaafricana-JoolaBanjal)\nhttps://en.wikipedia.org/wiki/Bandial_language\nhttps://www.wikidata.org/entity/Q34872"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bassene:creissels:11**\n**cldf:childs:06**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:watson:11**\n**hh:g:Bassene:Banjal**\n**hh:g:Bassene:Banjal:2006**\n**hh:g:Sagna:Banjal**\n**hh:g:Watson:Kujireray**\n**hh:hvw:Barry:Joola**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Bassene:Joola-Eegimaa**\n**hh:phon:Berndt:Bandial**\n**hh:phon:Diandy:Kujireray**\n**hh:s:Berndt:Bandial**\n**hh:s:Sagna:Eegimaa**\n**hh:s:Watson:Kujireray**\n**hh:typ:Sagna:Banjal**\n**hh:typ:Sagna:Eegimaa**\n**hh:w:Armstrong:West-African**\n**hh:w:CarltonRand:Diola**\n**hh:wsoc:CarltonRand:Diolas**\n**sil16:45240**\n**sil16:45244**\n**sil16:45289**\n**sil16:45290**\n**sil16:45295**\n**sil16:45311**\n**sil16:45314**\n**sil16:45327**"
+  },
+  "altnames": {
+    "multitree": "\nBandal\nBandial\nBanjaal",
+    "lexvo": "\nBandial [en]",
+    "hhbib_lgcode": "\nAf Afinyaam\nAffiniam-Gusilay\nBl Banjaal\nBrin-Elun\nBuluf-Affiniam\nElun\nEnampor-Bandial\nFulup\nFúlup\nHulon\nKujireray\nKujireray of Brin",
+    "elcat": "\nBandial\nBanjaal\nBanjal"
+  },
+  "triggers": {
+    "lgcode": "\nbandial\nupoyal\nbanjal\nbundial\nbujusa\nekar\nubindaal\neegimaa"
+  },
+  "identifier": {
+    "multitree": "bqj",
+    "endangeredlanguages": "2245"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bandial (2245-bqj) = Threatened (20 percent certain, based on the evidence available) [Bassene and Creissels 2011](cldf:bassene:creissels:11)"
+  }
+}

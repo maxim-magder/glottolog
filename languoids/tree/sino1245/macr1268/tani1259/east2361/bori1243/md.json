@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bori-Karko",
+    "hid": "adi",
+    "level": "language",
+    "iso639-3": "adi",
+    "latitude": "27.62812",
+    "longitude": "94.3538",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Adi](https://endangeredlanguages.com/lang/1130)\n[Bori](https://wals.info/languoid/lect/wals_code_boj)\n[Bori-Karko](https://grambank.clld.org/languages/bori1243)\nhttps://en.wikipedia.org/wiki/Adi_languages\nhttps://www.wikidata.org/entity/Q56440"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:duff-sutherland-dunbar:15**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:ouyang:85:1**\n**cldf:post:10**\n**cldf:roche:suzuki:17**\n**cldf:roy:60**\n**cldf:simons;:fennig:ed:13**\n**cldf:suntianxin:93**\n**hh:d:Pertin:Adi**\n**hh:d:Pertin:Adi:2016**\n**hh:g:Lalrempuii:Adi**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Padun:NAssam**\n**hh:hv:PostSun:Tani**\n**hh:hvld:Sun:Tani**\n**hh:ld:Deb:Adi**\n**hh:s:Barooah:Abor**\n**hh:s:Megu:Bori**\n**hh:s:Megu:Karkos**\n**hh:s:MibangAbraham:Adi**\n**hh:typ:Pertin:Adi**\n**mpieva:Ouyang1985Luobazuy**\n**mpieva:Prasad1991Misinggr**"
+  },
+  "triggers": {
+    "lgcode": "\naashing\nlhoba\nbokar\nabor\nkarkos\npailibo\nbori\nramo\nmilang\ngallong\nsikshak"
+  },
+  "identifier": {
+    "multitree": "adi-bor",
+    "endangeredlanguages": "1130"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Adi (1130-adi) = At risk (20 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAbor\nAdi\nBori\nKarko\nSimibga and Kasko Adi",
+    "elcat": "\nAbhor\nAbor\nAbor-Miri\nAdi\nAdi-Bokar\nBengni\nBengni-Boga'er\nBoga'er\nBoga'er Luoba\nBokar\nLho-Pa\nLhoba\nLuoba\nMiri\nMiśing\nNa Bengni\n崩尼-博嘎爾语"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Lenca-Salvador",
+    "hid": "NOCODE_Lenca-Salvador",
+    "level": "language",
+    "latitude": "13.560562",
+    "longitude": "-88.114014",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "SV"
+    ],
+    "links": "\n[Lenca-Honduras](https://lexibank.clld.org/languages/constenlachibchan-LencaHonduras)\n[Salvadoran Lenca](https://endangeredlanguages.com/lang/7256)\nhttps://en.wikipedia.org/wiki/Salvadoran_Lenca\nhttps://www.wikidata.org/entity/Q3229434",
+    "timespan": "2012-01-01/2012-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:herranz:00**\n**cldf:np:12:5**\n**cldf:np:97:1**\n**hh:e:Roque:Lenca-Guatajiagua**\n**hh:e:Stone:Lenca**\n**hh:hv:Arguedas:Lenca**\n**hh:hv:Arguedas:Lenca:1988**\n**hh:hv:Campbell:Middle**\n**hh:hv:Costenla:LencasMisumalpas**\n**hh:hv:Kaufman:Maya**\n**hh:hv:Kaufman:Mesoamerica**\n**hh:phon:DelRio:Lenca-Chilanga**\n**hh:w:King:Lenca**\n**hh:w:Larin:Lenca**\n**hh:w:Peccorini:Chilanga**\n**hh:w:SalvadorTorres:Poton**\n**hh:w:delRio:Lenca**"
+  },
+  "triggers": {
+    "lgcode": "\npoton\npiau"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Lenca [len] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as an unclassified language. In reality, there were (or are, given recent information about speakers remaining) two different languages, which may be called Honduran Lenca and Salvadorean Lenca\n(**hh:w:delRio:Lenca**, **hh:wsoc:Herranz:Honduras**). See also: Lenca [len].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Lenca-Salvador"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Salvadoran Lenca (7256) = Dormant [n.a. 1997](cldf:np:97:1)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nLenca\nLenca Chilanga\nLenca Chilanga-Poton\nPoton",
+    "elcat": "\nChilanga\nSalvadoran Lenca"
+  },
+  "identifier": {
+    "endangeredlanguages": "7256"
+  }
+}

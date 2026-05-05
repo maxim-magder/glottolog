@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ho",
+    "hid": "hoc",
+    "level": "language",
+    "iso639-3": "hoc",
+    "latitude": "23.9596",
+    "longitude": "87.1188",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Ho](https://endangeredlanguages.com/lang/10969)\n[Ho](https://grambank.clld.org/languages/hooo1248)\n[Ho](https://wals.info/languoid/lect/wals_code_ho)\nhttps://en.wikipedia.org/wiki/Ho_language\nhttps://phoible.org/languages/hooo1248\nhttps://www.wikidata.org/entity/Q33270"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chatterjee:das:27**\n**cldf:etal:ed:02:3**\n**cldf:majumdar:37**\n**cldf:stolz:96**\n**hh:d:Bandia:Ho**\n**hh:e:Mahapatra:Cerenga-Kulha**\n**hh:g:Burrows:Ho**\n**hh:g:Pucilowski:Ho**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvwld:Grierson:4**\n**hh:s:Anderson:Ho**\n**hh:s:Bhola:Ho**\n**hh:s:Choudhary:Ho**\n**hh:s:Prasad:Ho**\n**hh:s:Shrivastava:Ho**\n**hh:s:Sulankhi:Ho**\n**hh:sd:Bhola:Ho**\n**hh:sd:Deeney:Ho**\n**hh:w:Tickell:Ho**\n**hh:wsoc:Varenkamp:Ho**\n**mpieva:2007Hogramma**\n**mpieva:Burrows1980Thegramm**\n**ofdn:panigrahi_mage_2019**"
+  },
+  "altnames": {
+    "wals": "\nHo",
+    "ruhlen (1987)": "\nHo",
+    "moseley & asher (1994)": "\nHo",
+    "multitree": "\nBihar Ho\nHo\nKol von Singbhum\nLanka Kol\nLankakol\nLaɽka Kol\nMundari\nMundari-Ho",
+    "lexvo": "\nHo [ca]\nHo language [en]\nHoeg [br]\nLingua Ho [la]\nLíngua ho [pt]\nTiếng Ho [vi]\nХо [ru]\nहो भाषा [hi]\nহো ভাষা [bn]\nภาษาโฮ [th]\n호어 [ko]",
+    "hhbib_lgcode": "\nKolha closest to Ho",
+    "elcat": "\nHo\nhōō jagara\nहो जगर\nହୋ ଜଗର"
+  },
+  "triggers": {
+    "lgcode": "\nmunda AND ho"
+  },
+  "identifier": {
+    "wals": "ho",
+    "multitree": "hoc",
+    "endangeredlanguages": "10969"
+  },
+  "classification": {
+    "sub": "**hh:d:Hoffmann:Mundarica**",
+    "subrefs": "\n**hh:d:Hoffmann:Mundarica**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Ho (10969-hoc) = At risk (20 percent certain, based on the evidence available) [Pucilowski 2013](cldf:pucilowski:13)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dendi (Benin)",
+    "hid": "ddn",
+    "level": "language",
+    "iso639-3": "ddn",
+    "latitude": "11.6682",
+    "longitude": "3.49109",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "NE",
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Dendi_language\nhttps://www.wikidata.org/entity/Q35164"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:937**\n**eballiso2009:28363**\n**eballiso2009:29238**\n**eballiso2009:37512**\n**eballiso2009:43110**\n**eballiso2009:44354**\n**eballiso2009:461**\n**eballiso2009:48493**\n**eballiso2009:6207**\n**hh:d:Zima:Dendi**\n**hh:h:Perron:Dendi**\n**hh:hvw:Harrison:Southern-Songhay**\n**hh:phon:Dramane:Dendi**\n**hh:phon:Nicolai:Dendi**\n**hh:s:Zima:Salaga-Dendi**\n**hh:soc:Zima:Integration**\n**hh:typ:Zima:Djougou-Dendi**\n**sil16:48090**"
+  },
+  "altnames": {
+    "multitree": "\nDandawa\nDendi",
+    "lexvo": "\nDendi (Benin) [en]\nDendi [en]",
+    "hhbib_lgcode": "\nMainly Kandi\nSalaga Dendi\nSonghrais\nTanda (Dendi)"
+  },
+  "triggers": {
+    "lgcode": "\nstops\nparakou\nkine\nNOT zarma AND dendi"
+  },
+  "identifier": {
+    "multitree": "ddn"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Harrison:Southern-Songhay**",
+    "subrefs": "\n**hh:hvw:Harrison:Southern-Songhay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dendi (ddn-ddn) = 3 (Wider communication). The Dendi ethnic group came from Mali in 16th century and settled in north-central Benin. Now used as trade language across northern Benin."
+  }
+}

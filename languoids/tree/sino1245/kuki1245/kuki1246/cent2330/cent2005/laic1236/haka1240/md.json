@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Haka Chin",
+    "hid": "cnh",
+    "level": "language",
+    "iso639-3": "cnh",
+    "latitude": "22.8735",
+    "longitude": "92.8208",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Chin_Hakha](https://lexibank.clld.org/languages/sagartst-Hakha)\n[Haka Chin](https://grambank.clld.org/languages/haka1240)\n[Hakha Chin](https://endangeredlanguages.com/lang/5637)\n[Lai](https://wals.info/languoid/lect/wals_code_lai)\nhttps://en.wikipedia.org/wiki/Hakha_Chin\nhttps://phoible.org/languages/haka1240\nhttps://www.wikidata.org/entity/Q3250286"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2659**\n**cldf:adams:hudak:ed:96:12**\n**cldf:adams:hudak:ed:96:8**\n**cldf:anderson:12**\n**cldf:barnes:98**\n**cldf:bedell:01**\n**cldf:bedell:97**\n**cldf:bybee:perkins:etal:94**\n**cldf:chelliah:dereuse:ed:97:1**\n**cldf:chelliah:dereuse:ed:97:6**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grierson:ed:95:10**\n**cldf:haspelmath:ed:04:3**\n**cldf:hay-neave:53**\n**cldf:hlaing:hlun:03**\n**cldf:hyman:vanbik:02**\n**cldf:lalremzani:14**\n**cldf:macken:ed:00:3**\n**cldf:macken:ed:00:6**\n**cldf:patent:97**\n**cldf:patent:98**\n**cldf:peterson:03**\n**cldf:peterson:98**\n**cldf:peterson:99**\n**cldf:peterson:vanbik:04**\n**cldf:roengpitya:97**\n**cldf:simons;:fennig:ed:13**\n**cldf:smith:98:3**\n**cldf:thurgood:ed:99:11**\n**cldf:thurgood:ed:99:3**\n**cldf:thurgood:ed:99:6**\n**cldf:van-bik:98**\n**cldf:vanbik:02**\n**hh:d:Bik:Haka**\n**hh:d:Kio:Chin**\n**hh:d:VanBik:Chin-Hakha**\n**hh:hv:Konow:Kuki-Chin**\n**hh:hvw:Grierson:3:III**\n**hh:hvw:Thang:Chin**\n**hh:ld:Melnik:Lai**\n**hh:phon:Melnik:Lai**\n**hh:phonvw:Mang:Thor-Hakha**\n**hh:s:Lalremzami:Lai**\n**hh:s:Macnabb:Haka**\n**hh:s:Peterson:Lai**\n**hh:s:Peterson:Lai:2017**\n**hh:sd:Hay-Neave:Lai-Chin**\n**hh:sd:Newland:Lais**\n**hh:typ:Kavitskaya:Lai-Chin**\n**hh:typ:Lalremzami:Lai**\n**iso6393:2015-051**\n**sil16:37940**"
+  },
+  "altnames": {
+    "wals": "\nLai",
+    "wals other": "\nChin (Lai)\nHaka\nLai (in Burma)\nLai (in Myanmar)\nLai Chin",
+    "ruhlen (1987)": "\nChin (Central)",
+    "moseley & asher (1994)": "\nHaka",
+    "multitree": "\nBaungshe\nBaungshè\nChin (Haka)\nChin, Haka\nChin,Haka\nHaka\nHakha\nHakha Lai\nLai\nLai Hawlh\nLai Pawi\nLaizo\nPawi\nShonshe",
+    "lexvo": "\nHaka Chin [en]\nHakha-Chin language [en]\nহাকা চিন ভাষা [bn]",
+    "hhbib_lgcode": "\nChin-Haka\nHaka Lai\nHakha\nLai\nLai (Hakha)\nLai of Lawngtlai district of Mizoram\nThangtlang",
+    "elcat": "\nBaungshe\nBaungshè\nChin\nChin (Haka)\nHaka\nHakha\nHakha Chin\nHakha Lai\nLai\nLai Hawlh\nLai Pawi\nLaizo\nPawi\nShonshe\nဟားခါးချင်း"
+  },
+  "triggers": {
+    "lgcode": "\nlaiholh\nhakha\nhaka AND lai\nbaung\nlais\nbaungshe"
+  },
+  "identifier": {
+    "wals": "lai",
+    "multitree": "cnh",
+    "endangeredlanguages": "5637"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hakha Chin (5637-cnh) = Threatened (80 percent certain, based on the evidence available) (Language is threatened in India, and is not used in mass media or the government in Mizoram.) [Anderson 2012](cldf:anderson:12)"
+  }
+}

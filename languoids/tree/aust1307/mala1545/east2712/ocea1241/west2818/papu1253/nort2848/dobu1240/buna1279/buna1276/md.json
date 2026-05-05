@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Bunama",
+    "hid": "bdd",
+    "level": "language",
+    "iso639-3": "bdd",
+    "latitude": "-10.0761",
+    "longitude": "151.066",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bunama](https://grambank.clld.org/languages/buna1276)\n[Bunama](https://lexibank.clld.org/languages/abvdoceanic-Bunama)\nhttps://en.wikipedia.org/wiki/Bunama_language\nhttps://www.wikidata.org/entity/Q4997416"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lithgow:07:1**\n**hh:hld:Lean:Milne-Bay**\n**hh:hv:Ross:WMelanesia**\n**hh:hw:Ray:ESEPapua**\n**hh:ld:Lithgow:Dobu-Bunama**\n**hh:ld:Thurston:West-New-Britain**\n**hh:phon:HughesLeckie:Bunama**\n**hh:s:Hughes:Bunama-Clauses**\n**hh:s:Lithgow:Bunama**\n**hh:typ:Hughes:Bunama-Phrases**\n**hh:typ:Hughes:Bunama-Sentences**\n**hh:typ:Hughes:Bunama-Sequences-Sentences**\n**hh:w:Armstrong:South-Eastern**\n**sil16:32682**\n**sil16:34714**\n**sil16:49374**\n**silpng:silpng1956-1990:1320**\n**silpng:silpng1956-1990:233**\n**silpng:silpng1956-1990:234**\n**silpng:silpng1991-2000:452**\n**silpng:silpng1991-2000:453**\n**silpng:silpng1991-2000:454**\n**silpng:silpng1991-2000:455**\n**silpng:silpng1991-2000:456**\n**silpng:silpng1991-2000:457**\n**silpng:silpng1991-2000:458**\n**silpng:silpng1991-2000:459**\n**silpng:silpng1991-2000:460**\n**silpng:silpng1991-2000:461**\n**silpng:silpng1991-2000:462**\n**silpng:silpng1991-2000:463**\n**silpng:silpng1991-2000:464**\n**silpng:silpng1991-2000:465**\n**silpng:silpng1991-2000:466**\n**silpng:silpng1991-2000:467**"
+  },
+  "altnames": {
+    "lexvo": "\nBunama [en]",
+    "hhbib_lgcode": "\nBunama of SIL\nSawabwala"
+  },
+  "triggers": {
+    "lgcode": "\nunoy\nexoteric\nnanine\nbuild\nnahonborat\ncilemegau\nkosohot\ntemba\ntoginitu\nbohonyi\nyeinggo\nnenengi\nolowahok\nciyana\nbunama\ntaeheeheyale"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hv:LynchRossCrowley:Subgrouping**:102-106 **hh:g:Sheppard:Sudest**:12",
+    "subrefs": "\n**hh:g:Sheppard:Sudest**\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bunama (bdd-bdd) = 5* (Developing)."
+  }
+}

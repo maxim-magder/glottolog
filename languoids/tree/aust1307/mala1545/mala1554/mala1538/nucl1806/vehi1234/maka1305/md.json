@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Makassar Malay",
+    "hid": "mfp",
+    "level": "language",
+    "iso639-3": "mfp",
+    "latitude": "-5.16108",
+    "longitude": "119.408",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Makassar_Malay\nhttps://www.wikidata.org/entity/Q12952776"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Arief:Melayu-Makassar**\n**hh:ld:Collins:Makassar**\n**hh:soctyp:Hanan:Melayu-Makassar**\n**hh:typ:Wiyana:Banjarese**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nMalay, Makassar",
+    "lexvo": "\nMakassar Malay [en]",
+    "hhbib_lgcode": "\nMakassarese\nMalay-Makassar"
+  },
+  "identifier": {
+    "multitree": "mfp"
+  },
+  "classification": {
+    "sub": "**hh:hs:Paauw:Malay**",
+    "subrefs": "\n**hh:hs:Paauw:Malay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Indonesian, Makassar (mfp-mfp) = 3 (Wider communication)."
+  }
+}

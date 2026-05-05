@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Adhari",
+    "hid": "NOCODE_Adhari",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ"
+    ],
+    "longitude": "48.06",
+    "latitude": "40.05",
+    "links": "\nhttps://en.wikipedia.org/wiki/Old_Azeri\nhttps://www.wikidata.org/entity/Q434697",
+    "timespan": "0400-01-01/1000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:vld:Yarshater:Adhari**\n**hh:w:Sadeqi:Azerbaijan**\n**hh:wld:Mortazavi:Diri-Azerbayjan**"
+  },
+  "triggers": {
+    "lgcode": "\ndirin\nazerbayjan\nshirvan\narran"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "There are attestations of an earlier Northwestern Iranian language in Azerbaijan\n(**hh:vld:Yarshater:Adhari**, **hh:w:Sadeqi:Azerbaijan**, **hh:wld:Mortazavi:Diri-Azerbayjan**)\nwhich we may call Adhari. Though modern languages likely descendant from Adhari are in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29, Adhari itself is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Adhari"
+  },
+  "classification": {
+    "sub": "**hh:vld:Yarshater:Adhari**",
+    "subrefs": "\n**hh:vld:Yarshater:Adhari**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Adhari (NOCODE_Adhari-NOCODE_Adhari) = 10 (Extinct)."
+  }
+}

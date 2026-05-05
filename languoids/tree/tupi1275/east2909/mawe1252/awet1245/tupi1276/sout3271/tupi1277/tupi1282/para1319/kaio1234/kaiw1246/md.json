@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Kaiwá",
+    "hid": "kgk",
+    "level": "language",
+    "iso639-3": "kgk",
+    "latitude": "-24.589",
+    "longitude": "-54.6815",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BR",
+      "PY"
+    ],
+    "links": "\n[Kaiwá](https://endangeredlanguages.com/lang/2963)\n[Kaiwá](https://wals.info/languoid/lect/wals_code_kaw)\nhttps://en.wikipedia.org/wiki/Kaiw%C3%A1_language\nhttps://phoible.org/languages/kaiw1246\nhttps://www.wikidata.org/entity/Q3111883"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bendor-samuel:ed:71**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Chamorro:Kaiowa**\n**hh:d:Loman:Kaiwa**\n**hh:e:Schaden:Guarani**\n**hh:e:Watson:Cayua**\n**hh:e:doAmaral:Guaranys-Caiuas-Botocudos**\n**hh:ew:Pereira:Matto-Grosso**\n**hh:ew:Sampaio:Paranapanema**\n**hh:g:Cardoso:Kaiowa**\n**hh:g:Cardoso:Kaiowa:2015**\n**hh:hvld:Dooley:Nandeva**\n**hh:hvw:Firestone:Tupi-Guarani**\n**hh:hw:Martius:Brasiliens**\n**hh:phon:Bridgeman:Kaiwa**\n**hh:s:TaylorTaylor:Kaiwa**\n**hh:typ:Bridgeman:Kaiwa**\n**hh:typ:Filho:Kaiowa**\n**hh:typ:Mejia:Kaiowa**\n**hh:typ:Viegas:Kaiowa**\n**hh:typ:deCarvalho:Kaiowa**\n**hh:w:Hanke:Tembecua**\n**hh:w:Hanke:Temebcua**\n**hh:w:deAntonina:Cayuas**\n**mpieva:BendorSamuel1971Tupistud**\n**mpieva:Bridgeman1966Oralpara**\n**sil16:10003**\n**sil16:10330**\n**sil16:11017**\n**sil16:11354**\n**sil16:12453**\n**sil16:15428**\n**sil16:18397**\n**sil16:18984**\n**sil16:18985**\n**sil16:22943**\n**sil16:48950**\n**sil16:51108**"
+  },
+  "altnames": {
+    "glottolog": "\nKaiwa",
+    "wals": "\nKaiwá",
+    "ruhlen (1987)": "\nKaingwá",
+    "moseley & asher (1994)": "\nKaiwa",
+    "multitree": "\nApytare\nCaiguá\nCaingua\nCaiová\nCaiua\nCaiwa\nCayua\nChiripá\nGuarani-kaiowá\nGuaraní kaiowá\nKaingwa\nKaingwá\nKaiova\nKaiowá\nKaiwa\nKaiwá\nKaiwá/Kayová\nKayova\nKayowá\nMbiá/Mbya/Mbua\nNhandeva\nPãi\nPãi-Tavyterã\nTsiripá\nTxiripá\nÑandeva",
+    "lexvo": "\nKaivų kalba [lt]\nKaiwá [en]",
+    "hhbib_lgcode": "\nCaingua\nCaingua of Brazil\nCaiuás\nCayowâs\nCayuá\nCayuá in southern Mato Grosso\nGuarani in sul de Matto Grosso\nKaiowa\nKaiowá\nKaiwa\nKayová\nMato Grosso Kaiowa\nTembecuá",
+    "elcat": "\nApytare\nCaiguá\nCaingua\nCaiová\nCaiua\nCaiwa\nCayua\nChiripá\nKaingwá\nKaiova\nKaiowa\nKaiowá\nKaiwá\nKaiwá/Kayová\nKayova\nKayowá\nNhandeva\nPãi\nPãi-Tavyterã\nTsiripá\nTxiripá\nÑandeva"
+  },
+  "triggers": {
+    "lgcode": "\nkaiwa\nkaiwas\nparagrafos\nparagrafo"
+  },
+  "identifier": {
+    "wals": "kaw",
+    "multitree": "kaiw;kgk",
+    "endangeredlanguages": "2963"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jensen:Tupi-Guarani:1999**:130-131",
+    "subrefs": "\n**hh:hv:Jensen:Tupi-Guarani:1999**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kaiwá (2963) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

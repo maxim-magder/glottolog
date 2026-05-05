@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Caijia",
+    "hid": "NOCODE_Caijia",
+    "level": "language",
+    "latitude": "27.284",
+    "longitude": "105.292",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5017528\nhttps://en.wikipedia.org/wiki/Caijia_language"
+  },
+  "classification": {
+    "sub": "**hh:h:Hsiu:Southwestern-China**",
+    "subrefs": "\n**hh:h:Hsiu:Southwestern-China**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Lu:Caijia**\n**hh:g:Lu:Caijia:2022**\n**hh:h:Hattaway:China**\n**hh:h:Xie:Puding-Caijia**\n**hh:ld:Lu:Caijia**\n**hh:s:Bo:Caijia**\n**hh:s:Bo:Caijia:2007**\n**hh:typ:Hu:Caijia**\n**hh:typ:Zhengzhang:Caijia**\n**hh:w:Hsiu:Caijia**\n**hh:w:NA:Caijia**\n**hh:wsoc:GPECC:Caijia**\n**hh:wsoc:GPECC:Longjia-Caijia**"
+  },
+  "triggers": {
+    "lgcode": "\ncaijia\ncaijiahua"
+  },
+  "identifier": {
+    "multitree": "1nk"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Càijiā, a newly discovered Sinitic (or sister branch to Sinitic) language in China, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:s:Bo:Caijia**). I wish to thank Hilário de Sousa for informing me of this language.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Caijia"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCai\nNiujiaojing Caijia\nPuding Caijia (shifted to Gelao)"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Caijia (NOCODE_Caijia-NOCODE_Caijia) = 6b (Threatened)."
+  }
+}

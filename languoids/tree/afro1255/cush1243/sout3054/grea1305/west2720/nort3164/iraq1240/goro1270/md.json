@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Gorowa",
+    "hid": "gow",
+    "level": "language",
+    "iso639-3": "gow",
+    "latitude": "-4.23575",
+    "longitude": "35.7996",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Gorowa](https://grambank.clld.org/languages/goro1270)\n[Gorowa](https://wals.info/languoid/lect/wals_code_gor)\n[Gorwaa](https://endangeredlanguages.com/lang/10973)\nhttps://en.wikipedia.org/wiki/Gorowa_language\nhttps://www.wikidata.org/entity/Q3437626"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:harvey:19**\n**cldf:reche:14:2**\n**cldf:seidel:00**\n**eballiso2009:12996**\n**eballiso2009:21210**\n**eballiso2009:2961**\n**eballiso2009:31122**\n**eballiso2009:55431**\n**eballiso2009:7057**\n**elpub:ldd124**\n**hh:d:Maghway:Gorwaa**\n**hh:e:vonLuschan:Abflusslosen**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hew:Baumann:Massailand**\n**hh:hv:Kannenberg:Kondoa**\n**hh:hv:KiesslingMous:WRift**\n**hh:hv:TuckerBryan:ESection**\n**hh:hvw:Blazek:South-Cushitic**\n**hh:soc:Sarrwatt:Gorowa-Kiswahili**\n**hh:styp:Harvey:Gorwaa**\n**hh:t:Heepe:Fiome**\n**hh:typ:Seidel:Ufiomi**"
+  },
+  "altnames": {
+    "wals": "\nGorowa",
+    "wals other": "\nUfromi",
+    "ruhlen (1987)": "\nGorowa",
+    "multitree": "\nFiome\nFiomi\nGoroa\nGorowa\nGorwaa",
+    "lexvo": "\nGorowa [ca]\nGorowa language [en]",
+    "hhbib_lgcode": "\nGoroa\nKifiomi\nUfiomi\nWafiome",
+    "elcat": "\nFiome\nGoroa\nGorowa\nGorwaa\nKimbulu\nUfiomi"
+  },
+  "triggers": {
+    "lgcode": "\ngorwaa\nwambulu\nufromi\nufiomi"
+  },
+  "identifier": {
+    "wals": "gor",
+    "multitree": "gow",
+    "endangeredlanguages": "10973"
+  },
+  "classification": {
+    "sub": "**hh:hv:KiesslingMous:WRift** **hh:hv:Mous:South-Cushitic**",
+    "subrefs": "\n**hh:hv:Mous:South-Cushitic**\n**hh:hv:KiesslingMous:WRift**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gorwaa (gow-gow) = 6b (Threatened)."
+  }
+}

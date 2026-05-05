@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Eastern Keres",
+    "hid": "kee",
+    "level": "language",
+    "iso639-3": "kee",
+    "latitude": "35.5216",
+    "longitude": "-106.453",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Rio Grande Keresan](https://endangeredlanguages.com/lang/6511)\nhttps://www.wikidata.org/entity/Q15649021\n[Keresan (Santa Ana)](https://wals.info/languoid/lect/wals_code_ksa)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**hh:b:Davis:Keresan**\n**hh:e:Hoebel:Zia**\n**hh:e:Lange:Cochiti**\n**hh:e:Lange:Santo-Domingo**\n**hh:e:Strong:San-Felipe-Pueblo**\n**hh:e:Strong:Santa-Ana**\n**hh:g:Davis:Santa-Ana**\n**hh:g:Davis:Santa-Ana-Keresan**\n**hh:hv:MillerDavis:Keresan**\n**hh:phon:Davis:Santa-Ana**\n**hh:s:Fox:Cochiti**\n**sil16:10514**\n**sil16:10517**"
+  },
+  "altnames": {
+    "wals": "\nKeresan (Santa Ana)",
+    "wals other": "\nKeres (Santa Ana Pueblo)\nSanta Ana Keresan\nSanta Ana Pueblo\nd Eastern Keres Pueblo",
+    "ruhlen (1987)": "\nKeresan (Eastern)",
+    "moseley & asher (1994)": "\nKeres (Eastern)",
+    "multitree": "\nEastern Keres Pueblo\nEastern Keresan\nKeres\nKeres, Eastern\nKeresan\nKeresan (Santa Ana)\nRio Grande Keresan\nSanta Ana",
+    "lexvo": "\nEastern Keres [en]",
+    "hhbib_lgcode": "\nCochiti\nKeres-Eastern\nSan Felipe Pueblo\nSanta Ana Keresan\nSanta Ana Pueblo\nSanto Domingo Pueblo\nZia Pueblo",
+    "elcat": "\nEastern\nEastern Keres Pueblo\nEastern Keresan\nKeres\nKeresan\nKeresan (Santa Ana)\nRio Grande Keresan\nSanta Ana"
+  },
+  "triggers": {
+    "lgcode": "\nNOT grammar AND NOT study AND NOT the AND keresan\nwick\ncochiti"
+  },
+  "identifier": {
+    "wals": "ksa",
+    "multitree": "kee",
+    "endangeredlanguages": "6511"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Rio Grande Keresan (6511-kee) = Endangered (100 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

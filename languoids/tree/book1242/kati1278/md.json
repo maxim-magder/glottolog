@@ -1,0 +1,22 @@
+{
+  "core": {
+    "name": "Katingan",
+    "level": "language",
+    "iso639-3": "kxg",
+    "hid": "kxg",
+    "links": "\nhttps://en.wikipedia.org/wiki/Katingan_language\nhttps://www.wikidata.org/entity/Q25559468"
+  },
+  "iso_retirement": {
+    "comment": "Both these varieties [kxg] Katingan and [xah] Kahayan are major [nij] dialects\n(two of three major dialects), almost 100% intelligible with nij.",
+    "code": "kxg",
+    "name": "Katingan",
+    "effective": "2008-01-14",
+    "reason": "merge",
+    "remedy": "Merge into Ngaju [nij]",
+    "change_request": "2007-184",
+    "change_to": "\nnij"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-184**"
+  }
+}

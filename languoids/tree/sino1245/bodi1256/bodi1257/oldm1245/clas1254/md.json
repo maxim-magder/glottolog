@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Classical Tibetan",
+    "hid": "xct",
+    "level": "language",
+    "iso639-3": "xct",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Tibetan (Written)](https://lexibank.clld.org/languages/gaotb-TibetanWritten)\n[Tibetan (Written)](https://lexibank.clld.org/languages/marrisonnaga-WrittenTibetan)\n[Tibetan_Old_Tibetan](https://lexibank.clld.org/languages/sagartst-OldTibetan)\nhttps://en.wikipedia.org/wiki/Classical_Tibetan\nhttps://www.wikidata.org/entity/Q5128314",
+    "longitude": "92.01",
+    "latitude": "29.24",
+    "timespan": "0639-01-01/0639-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:herforth:89**\n**hh:bld:Graf:Tibetan**\n**hh:bld:Gyatso:Tibetan**\n**hh:d:DDC:Choke**\n**hh:e:Hoffman:Medieval-Tibet**\n**hh:g:Beyer:Classical-Tibetan**\n**hh:g:Bialek:Tibetan**\n**hh:g:Foucaux:Tibetaine**\n**hh:g:Hahn:Tibetischen**\n**hh:g:Hahn:Tibetischen:1994**\n**hh:g:Izumi:Chibetto**\n**hh:g:Xodz:Klassiceskij-Tibetskij**\n**hh:s:DeLancey:Classical**\n**hh:s:Giraudeau:Thibetana**\n**hh:s:Rerix:Tibetskij**\n**hh:s:Rerix:Tibetskij:1961**\n**hh:sd:Schroeder:Bhotanta**\n**hh:typ:Oisel:Tibetain**"
+  },
+  "triggers": {
+    "lgcode": "\nklassischen\ntibetskij\ntibetischen\nbhotanta\nmissionis\nthibetana\nthibeti\nalumnorum"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entries. One of them is Classical Tibetan (**hh:s:DeLancey:Classical**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xct"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bialek:Tibetan**",
+    "subrefs": "\n**hh:hv:Bialek:Tibetan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Classical Tibetan (xct-xct) = 10 (Extinct)."
+  }
+}

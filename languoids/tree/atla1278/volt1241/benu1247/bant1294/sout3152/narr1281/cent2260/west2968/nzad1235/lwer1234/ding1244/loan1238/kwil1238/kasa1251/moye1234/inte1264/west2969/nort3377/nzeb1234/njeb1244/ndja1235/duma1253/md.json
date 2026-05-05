@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Duma",
+    "hid": "dma",
+    "level": "language",
+    "iso639-3": "dma",
+    "latitude": "-0.91927",
+    "longitude": "13.0046",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35319\nhttps://en.wikipedia.org/wiki/Duma_language\n[Duma](https://wals.info/languoid/lect/wals_code_dma)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:26247**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:32534**\n**eballiso2009:38508**\n**eballiso2009:41979**\n**eballiso2009:42433**\n**eballiso2009:53259**\n**hh:d:Dahin:Adouma**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Niama-Niama:Bantu-Gabon**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hvwphon:Mouele:Duma**\n**hh:hw:Stanley:Dark:II**\n**hh:s:Adam:MbedeNdumuDuma**\n**hh:s:Mickala:Duma**\n**hh:s:Reeb:Douma**"
+  },
+  "altnames": {
+    "wals": "\nDuma",
+    "ruhlen (1987)": "\nDuma",
+    "moseley & asher (1994)": "\nDuma",
+    "multitree": "\nAdouma\nAduma\nBadouma\nDouma\nDuma\nLiduma",
+    "lexvo": "\nDuma [en]",
+    "hhbib_lgcode": "\n3 Duma (Lastoursville) Duma 1 B51\nAdouma\nAdouma (Liduma)\nAduma (Liduma)\nAdumas\nB51_Duma\nB51_Duma_La\nDuma 1 B51\nFangwe-Aduma\nLiduma (B51)"
+  },
+  "triggers": {
+    "lgcode": "\ndouma\ndu AND duma\ndescente\nadouma\nduma"
+  },
+  "identifier": {
+    "wals": "dma",
+    "multitree": "dma"
+  },
+  "classification": {
+    "sub": "**hh:hv:Niama-Niama:Bantu-Gabon** **hh:hv:Pacchiarotti:West-Coastal-Bantu**:163, 184, 188",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Niama-Niama:Bantu-Gabon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Duma (dma-dma) = 6a* (Vigorous)."
+  }
+}

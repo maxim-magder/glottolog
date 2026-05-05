@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gyalsumdo-Nubri",
+    "hid": "kte",
+    "level": "language",
+    "iso639-3": "kte",
+    "latitude": "28.5092",
+    "longitude": "84.7772",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NP"
+    ],
+    "links": "\n[Nubri](https://endangeredlanguages.com/lang/4446)\nhttps://www.wikidata.org/entity/Q12952969\nhttps://en.wikipedia.org/wiki/Nubri_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Dhakal:Gyalsumdo**\n**hh:d:Dhakal:Nubri**\n**hh:hv:Bielmeier:Himalayas**\n**hh:hvw:Webster:North-Gorkha**\n**hh:hwsoc:Webster:North-Gorkha**\n**hh:ld:Dhakal:Causative**\n**hh:ld:Donohue:Nubri**\n**hh:phon:HildebrandtPerry:Gyalsumdo**\n**hh:s:Dhakal:Nubri**\n**hh:typ:Dhakal:Gyalsumdo**\n**hh:typ:Dhakal:Nubri:Morphology**\n**hh:typ:Dhakal:Nubri:Nouns**"
+  },
+  "altnames": {
+    "lexvo": "\nNubri [en]",
+    "hhbib_lgcode": "\nGyalsumdo close to Nubri\nNuL Nubri Lho Lho Gorkha= Nubri\nNuN Nubri Namrung Prok Gorkha\nNuP Nubri Prok Prok Gorkha\nNuS Nubri Sama Samagaon Gorkha\nNubri",
+    "elcat": "\nKutang Bhotia\nLarkye\nNubri"
+  },
+  "triggers": {
+    "lgcode": "\ngyalsumdo"
+  },
+  "classification": {
+    "sub": "**hh:phon:HildebrandtPerry:Gyalsumdo**",
+    "subrefs": "\n**hh:phon:HildebrandtPerry:Gyalsumdo**"
+  },
+  "identifier": {
+    "endangeredlanguages": "4446"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nubri (4446-kte) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

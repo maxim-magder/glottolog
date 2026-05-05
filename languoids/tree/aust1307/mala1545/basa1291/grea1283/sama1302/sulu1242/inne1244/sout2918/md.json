@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Southern Sama",
+    "hid": "ssb",
+    "level": "language",
+    "iso639-3": "ssb",
+    "latitude": "4.755836",
+    "longitude": "119.483887",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY",
+      "PH"
+    ],
+    "links": "\n[Sama (Southern)](https://wals.info/languoid/lect/wals_code_bjs)\n[Southern Sama](https://grambank.clld.org/languages/sout2918)\nhttps://phoible.org/languages/sout2918\nhttps://www.wikidata.org/entity/Q3470594"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nimmo:64**\n**cldf:nimmo:65**\n**cldf:nimmo:68**\n**cldf:nimmo:69**\n**cldf:nimmo:70**\n**cldf:sather:75**\n**hh:e:Allison:Samal**\n**hh:e:Nimmo:Bajau**\n**hh:e:Nimmo:Sama-Dilaut**\n**hh:e:Nimmo:Sulu**\n**hh:e:Sather:Bajau-Laut**\n**hh:e:Sather:Bajau-Laut:1975**\n**hh:e:Sather:Bajau-Laut:1978**\n**hh:g:Jun:SSinama**\n**hh:g:Jun:Sinama**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:ld:Sather:Bajau**\n**hh:phon:Allison:Sibutu-Sama**\n**hh:s:Jun:Sama**\n**hh:s:Sather:Bajau-Laut**\n**hh:wh:Meijer:Astrolabe**\n**sil16:15287**\n**sil16:47340**\n**sil16:51522**"
+  },
+  "altnames": {
+    "wals": "\nBajau (Semporna)",
+    "wals other": "\nBajau Asli\nKubang\nSemporna Bajau",
+    "ruhlen (1987)": "\nSama (Southern)",
+    "moseley & asher (1994)": "\nSama (South)",
+    "multitree": "\nSama Sibutu'\nSama Tawi-Tawi\nSama, Southern\nSinama\nSinama Tawi-Tawi",
+    "lexvo": "\nSouthern Sama [en]",
+    "hhbib_lgcode": "\nBajau Darat\nBajau Laut\nBajau of Sulu province nomadic boat-dwellers of the Tawi-Tawi Islands and the sedentary house-dwellers of the Sibutu Islands\nMainly Simunul island\nSama de Sitangkai\nSama-Southern\nSamal of Tawi-Tawi\nSamal-laud\nSea Peoples of Sibutu and Tawi-Tawi\nSimunul\nSimunul island\nTawi-Tawi-Sama Dilaut"
+  },
+  "triggers": {
+    "lgcode": "\nNOT in AND samal\nmangkaw\nsibutu\nmanuk"
+  },
+  "identifier": {
+    "wals": "bjs",
+    "multitree": "ssb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Pallesen:Convergence**",
+    "subrefs": "\n**hh:hvw:Pallesen:Convergence**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sama, Southern (ssb-ssb) = 4 (Educational)."
+  }
+}

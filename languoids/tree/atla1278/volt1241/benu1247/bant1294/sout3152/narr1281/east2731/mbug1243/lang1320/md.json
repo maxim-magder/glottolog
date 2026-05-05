@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Langi",
+    "hid": "lag",
+    "level": "language",
+    "iso639-3": "lag",
+    "latitude": "-4.71413",
+    "longitude": "35.9517",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Langi](https://grambank.clld.org/languages/lang1320)\n[Langi](https://wals.info/languoid/lect/wals_code_lgi)\nhttps://en.wikipedia.org/wiki/Rangi_language\nhttps://phoible.org/languages/lang1320\nhttps://www.wikidata.org/entity/Q584983"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baumstark:00**\n**cldf:dunham:04**\n**cldf:gray:53**\n**cldf:seidel:98:1**\n**cldf:stegen:03**\n**eballiso2009:13045**\n**eballiso2009:15099**\n**eballiso2009:17659**\n**eballiso2009:18734**\n**eballiso2009:18740**\n**eballiso2009:18741**\n**eballiso2009:2176**\n**eballiso2009:22166**\n**eballiso2009:23912**\n**eballiso2009:28551**\n**eballiso2009:28581**\n**eballiso2009:28707**\n**eballiso2009:28992**\n**eballiso2009:2961**\n**eballiso2009:3022**\n**eballiso2009:33914**\n**eballiso2009:37408**\n**eballiso2009:37927**\n**eballiso2009:38276**\n**eballiso2009:40792**\n**eballiso2009:40793**\n**eballiso2009:45535**\n**eballiso2009:45553**\n**eballiso2009:50699**\n**eballiso2009:55431**\n**eballiso2009:56875**\n**eballiso2009:7057**\n**hh:e:Kesby:Rangi:1982**\n**hh:e:vonLuschan:Abflusslosen**\n**hh:g:Dunham:Langi**\n**hh:g:Dunham:Valangi**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Dunham:Rift-Tanzanien**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Kannenberg:Kondoa**\n**hh:hvw:Masele:F**\n**hh:s:Akhavan:Irangi**\n**hh:s:Seidel:Irangi**\n**hh:st:Stegen:Rangi**\n**hh:styp:Gibson:Rangi**\n**hh:v:Stegen:Rangi**\n**iso6393:2022-031**\n**sil16:44266**\n**sil16:44659**\n**sil16:47376**\n**sil16:47377**\n**sil16:47401**\n**sil16:47403**\n**sil16:47405**\n**sil16:48093**\n**sil16:48501**\n**sil16:48584**"
+  },
+  "altnames": {
+    "wals": "\nLangi",
+    "wals other": "\nIrangi",
+    "ruhlen (1987)": "\nRangi",
+    "moseley & asher (1994)": "\nLangi",
+    "multitree": "\nIrangi\nKilangi\nKirangi\nLangi\nRangi",
+    "lexvo": "\nLangi [en]",
+    "hhbib_lgcode": "\nF33_Langi\nKiiRangi\nWarangi"
+  },
+  "triggers": {
+    "lgcode": "\nvalangi\nwarangi\nirangi\nlangi\nwanfunzi\nkirangi\nrangi\nkilangi\nhaubi\nussandaui\ngrundri"
+  },
+  "identifier": {
+    "wals": "lgi",
+    "multitree": "lag"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:EBantu**",
+    "subrefs": "\n**hh:hv:Nurse:EBantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rangi (lag-lag) = 5 (Developing)."
+  }
+}

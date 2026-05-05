@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bughotu",
+    "hid": "bgt",
+    "level": "language",
+    "iso639-3": "bgt",
+    "latitude": "-8.47948",
+    "longitude": "159.802",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Bughotu](https://grambank.clld.org/languages/bugh1239)\n[Bughotu](https://lexibank.clld.org/languages/abvdoceanic-Bughotu)\nhttps://en.wikipedia.org/wiki/Bughotu_language\nhttps://www.wikidata.org/entity/Q2927723"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:bellwood:ayres:etal:75**\n**cldf:blust:07:2**\n**cldf:bogesi:48**\n**cldf:calculator:14**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:government:09**\n**cldf:ivens:40:1**\n**cldf:jackson:75**\n**cldf:laracy:20**\n**cldf:np:14:5**\n**cldf:np:16:6**\n**cldf:tryon:hackman:83**\n**hh:d:Ivens:Bugotu**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hv:Levy:Bugotu-Nggelic**\n**hh:hv:Pawley:Guadalcanal-Nggelic**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvw:Zoller:DNG**\n**hh:ld:Codrington:Bugotu**\n**hh:s:Ivens:Bugotu**\n**hh:w:Ray:Malayta**\n**hh:w:Strauch:477**\n**mpieva:Ivens1940Adiction**"
+  },
+  "altnames": {
+    "multitree": "\nBughotu\nBugota\nBugoto\nBugotu\nMahaga\nMbughotu\nSüdliche Salomons-Inseln",
+    "lexvo": "\nBughotu [en]",
+    "hhbib_lgcode": "\nBoguto\nBugotu Ysabel\nIsabel\nMahaga\nMbughotu\nSalomon-Insel Malayta (erroneous label-not collected in situ)\nShows that Strauch's Malayta is Bughotu"
+  },
+  "triggers": {
+    "lgcode": "\nbugotu\nmalayta"
+  },
+  "identifier": {
+    "multitree": "bugh;bgt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Guadalcanal-Nggelic**",
+    "subrefs": "\n**hh:hv:Pawley:Guadalcanal-Nggelic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bughotu (bgt-bgt) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Samburu",
+    "hid": "saq",
+    "level": "language",
+    "iso639-3": "saq",
+    "latitude": "1.60735",
+    "longitude": "37.0539",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56536\nhttps://en.wikipedia.org/wiki/Samburu_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2008**\n**asjp2010:282**\n**cldf:spencer:65**\n**eballiso2009:10527**\n**eballiso2009:14574**\n**eballiso2009:15760**\n**eballiso2009:19847**\n**eballiso2009:24984**\n**eballiso2009:29850**\n**eballiso2009:30742**\n**eballiso2009:31047**\n**eballiso2009:3306**\n**eballiso2009:34953**\n**eballiso2009:35663**\n**eballiso2009:47633**\n**eballiso2009:4826**\n**eballiso2009:49826**\n**eballiso2009:49827**\n**eballiso2009:51203**\n**eballiso2009:51581**\n**eballiso2009:6675**\n**eballiso2009:9867**\n**hh:e:Chanler:Jungle**\n**hh:e:Fumagalli:Samburu**\n**hh:e:HeineHeine:Chamus**\n**hh:e:HeineKonig:Samburu**\n**hh:e:Holtzman:Northern-Kenya**\n**hh:hvw:Vossen:ENilotes**\n**hh:hw:Wellby:Abyssinia**\n**hh:phon:Dahlbacka:Samburu**\n**hh:phon:Lentete:Ilchamus**\n**hh:s:Heine:Camus**\n**hh:soc:Ngure:Rendille-Samburu**\n**hh:ssoc:Sim:Maasai-Samburu-Ilchamus**\n**hh:typ:Heine:AfricanNC**\n**sil16:18428**"
+  },
+  "altnames": {
+    "multitree": "\nBurkeneji\nE Lokop\nLokop\nNkutuk\nSambur\nSamburu\nSampur",
+    "lexvo": "\nSambouroueg [br]\nSamburu [en]\nSamburu language [en]\nSamburun kieli [fi]",
+    "hhbib_lgcode": "\nCamus\nIlchamus\nLokub\nSampur"
+  },
+  "triggers": {
+    "lgcode": "\nchamus\nbotanic\ntranscripts\niichamus\nNOT maasai AND samburu\ncamus\nstraw"
+  },
+  "identifier": {
+    "multitree": "saq"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Vossen:ENilotes**",
+    "subrefs": "\n**hh:hvw:Vossen:ENilotes**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samburu (saq-saq) = 5 (Developing)."
+  }
+}

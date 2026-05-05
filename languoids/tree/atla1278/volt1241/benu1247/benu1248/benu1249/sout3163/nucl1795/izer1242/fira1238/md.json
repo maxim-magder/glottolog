@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Firan",
+    "hid": "fir",
+    "level": "language",
+    "iso639-3": "fir",
+    "latitude": "9.65245",
+    "longitude": "8.69095",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Firan](https://endangeredlanguages.com/lang/5013)\nhttps://www.wikidata.org/entity/Q3915847\nhttps://en.wikipedia.org/wiki/Firan_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:02**\n**cldf:blench:06:1**\n**cldf:blench:06:13**\n**cldf:blench:06:4**\n**cldf:blench:06:6**\n**cldf:blench:11:1**\n**cldf:lewis:ed:09**\n**hh:hvw:Shimizu:Jos**\n**hh:w:Blench:Firan**\n**hh:w:Blench:Firan:2024**\n**hh:wsoc:Decker:Firan**"
+  },
+  "altnames": {
+    "multitree": "\nFaran\nFiran\nForon\nFrisian\nKwakwi\nYes Firan",
+    "lexvo": "\nFiran [en]",
+    "elcat": "\nFaran\nFiran\nForon\nFrisian\nFəran\nKwakwi\nYes Firan",
+    "hhbib_lgcode": "\nFəran\nFɨran"
+  },
+  "identifier": {
+    "multitree": "fir",
+    "endangeredlanguages": "5013"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gerhardt:Noun-Class**:80",
+    "subrefs": "\n**hh:hv:Gerhardt:Noun-Class**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Firan (5013-fir) = Vulnerable (60 percent certain, based on the evidence available) [Blench 2008](cldf:blench:08:2)"
+  }
+}

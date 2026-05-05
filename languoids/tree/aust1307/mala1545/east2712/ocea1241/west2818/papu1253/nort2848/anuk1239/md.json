@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Anuki",
+    "hid": "aui",
+    "level": "language",
+    "iso639-3": "aui",
+    "latitude": "-9.6692",
+    "longitude": "149.822",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Anuki](https://endangeredlanguages.com/lang/2013)\n[Anuki](https://lexibank.clld.org/languages/abvdoceanic-Anuki)\nhttps://en.wikipedia.org/wiki/Anuki_language\nhttps://www.wikidata.org/entity/Q3508132"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hld:Lean:Milne-Bay**\n**hh:hv:Ross:WMelanesia**\n**hh:w:Strong:North-Eastern-Divisions**\n**sil16:48174**"
+  },
+  "altnames": {
+    "multitree": "\nAnuki\nGabobora",
+    "lexvo": "\nAnuki [en]",
+    "hhbib_lgcode": "\nWarakauta",
+    "elcat": "\nAnuki\nGabobora"
+  },
+  "triggers": {
+    "lgcode": "\nstudies AND mechanisms"
+  },
+  "identifier": {
+    "multitree": "anuk;aui",
+    "endangeredlanguages": "2013"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hv:LynchRossCrowley:Subgrouping**:102-106 **hh:g:Sheppard:Sudest**:12",
+    "subrefs": "\n**hh:g:Sheppard:Sudest**\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Anuki (2013-aui) = Threatened (80 percent certain, based on the evidence available) (The language is under pressure from the related larger Are (Mukawa) language, and the children tend to prefer Tok Pisin.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

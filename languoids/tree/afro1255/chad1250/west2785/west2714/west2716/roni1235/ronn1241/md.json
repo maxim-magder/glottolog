@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ron",
+    "hid": "cla",
+    "level": "language",
+    "iso639-3": "cla",
+    "latitude": "9.3",
+    "longitude": "9.02",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ron](https://grambank.clld.org/languages/ronn1241)\n[Ron](https://wals.info/languoid/lect/wals_code_ron)\nhttps://en.wikipedia.org/wiki/Ron_language\nhttps://www.wikidata.org/entity/Q3440432"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jungraithmayr:ed:70:1**\n**cldf:jungraithmayr:ed:70:2**\n**cldf:jungraithmayr:ed:70:3**\n**cldf:wolff:ed:01:3**\n**eballiso2009:13820**\n**eballiso2009:23659**\n**eballiso2009:24106**\n**eballiso2009:24139**\n**eballiso2009:39063**\n**eballiso2009:46431**\n**eballiso2009:46433**\n**eballiso2009:47664**\n**eballiso2009:52002**\n**eballiso2009:8888**\n**eballiso2009:8889**\n**hh:e:Mohr:Schalla**\n**hh:g:Seibert:Ron**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Ames:Plateau**\n**hh:hv:Blench:Ron**\n**hh:hv:Jungraithmayr:Hamito-Semitic**\n**hh:hv:Seibert:Ron**\n**hh:hvs:Jungraithmayr:Ron**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Blench:Ron**\n**hh:typ:Jungraithmayr:Daffo**\n**hh:typ:Jungraithmayr:Ron-Mubi**\n**hh:typ:Jungraithmayr:Ron-plurals**\n**hh:typ:Mallan:Ron**\n**hh:w:Jungraithmayr:Ron**\n**mpieva:Jungraithmayr1970DieRonSp**\n**sil16:40115**"
+  },
+  "altnames": {
+    "wals": "\nRon",
+    "moseley & asher (1994)": "\nRon (Chadic)",
+    "multitree": "\n\"Chala\"\n\"Challa\"\nBaron\nBokkos\nChalla\nDaffo\nRon",
+    "lexvo": "\nRon [en]\nRon language [en]",
+    "hhbib_lgcode": "\nBokkos\nBokos\nButura\nChalla\nDaffo\nDaffo-Butura\nMonguna\nRon or Boram\nRon-Bokkos (Mulwi)\nSchala\nShagawu"
+  },
+  "triggers": {
+    "lgcode": "\nscha\nNOT by AND NOT primer AND ron\nron\nschalla\nronsprachen"
+  },
+  "identifier": {
+    "wals": "ron",
+    "multitree": "cla"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Ron**",
+    "subrefs": "\n**hh:hv:Blench:Ron**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ron (cla-cla) = 5 (Developing)."
+  }
+}

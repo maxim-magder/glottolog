@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Gambera",
+    "hid": "gma",
+    "level": "language",
+    "iso639-3": "gma",
+    "latitude": "-14.29546",
+    "longitude": "126.27131",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Gaambera](https://collection.aiatsis.gov.au/austlang/language/k39)\n[Gambera](https://grambank.clld.org/languages/gamb1251)\n[Gamberre](https://endangeredlanguages.com/lang/4227)\nhttps://phoible.org/languages/gamb1251\nhttps://www.wikidata.org/entity/Q10502327",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**cldf:wielenga:10**\n**hh:hv:McGregorRumsey:Worrorran**\n**hh:hvld:CapellCoate:NKimberley**\n**hh:hvtyp:McGregor:Kimberley**\n**hh:hvw:Capell:NWAustralia**\n**ozbib:3550**\n**ozbib:3566**\n**ozbib:3568**\n**ozbib:6770**\n**ozbib:917**\n**ozbib:920**"
+  },
+  "altnames": {
+    "multitree": "\nGambera\nGambere\nGamberre\nGambre\nGamgre\nGuwan\nKambera\nKambre\nKambure\nNorthern Language",
+    "lexvo": "\nGambera [en]",
+    "hhbib_lgcode": "\nGambere\nGambre",
+    "elcat": "\nGambera\nGambere\nGamberre\nGambre\nGamgre\nGuwan\nKambera\nKambre\nKambure\nNorthern Language",
+    "aiatsis": "\nBarurungari\nGaambera\nGambere\nGamberre\nGambre\nGamgre\nGuwan\nKambera\nKamberange\nKambre\nKambumiri\nKambure\nKanbre\nKularri/Gularri south westerners\nPurungari\nWorrorran"
+  },
+  "triggers": {
+    "lgcode": "\nworrorran"
+  },
+  "identifier": {
+    "multitree": "gma",
+    "endangeredlanguages": "4227"
+  },
+  "classification": {
+    "sub": "**hh:hvld:CapellCoate:NKimberley**:4",
+    "subrefs": "\n**hh:hvld:CapellCoate:NKimberley**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gambera (gma-gma) = 10 (Extinct)."
+  }
+}

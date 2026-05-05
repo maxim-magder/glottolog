@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Apma",
+    "hid": "app",
+    "level": "language",
+    "iso639-3": "app",
+    "latitude": "-15.8559",
+    "longitude": "168.189",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Apma](https://grambank.clld.org/languages/apma1240)\n[Apma (Suru Mwerani)](https://lexibank.clld.org/languages/abvdoceanic-ApmaSuruMwerani)\nhttps://en.wikipedia.org/wiki/Apma_language\nhttps://www.wikidata.org/entity/Q2669188"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4995**\n**hh:d:Gray:Apma**\n**hh:g:Schneider:Abma**\n**hh:g:Schneider:Abma:2006**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Gray:Pentecost**\n**hh:s:SchneiderGray:Suru-Kavian**\n**hh:sd:Loubiere:Melsisi**\n**hh:typ:Schneider:Abma**\n**hh:vwsoc:GooskensSchneider:Intelligibility**"
+  },
+  "altnames": {
+    "multitree": "\nApma\nCentral Raga",
+    "lexvo": "\nApma [en]\nApma language [en]",
+    "hhbib_lgcode": "\nAbma\nApma- the language of Central Pentecost\nApme\nMelsisi\nSuru Kavian\nSuru Mwerani",
+    "glottolog": "\nAbma"
+  },
+  "triggers": {
+    "lgcode": "\nabma\napma"
+  },
+  "identifier": {
+    "multitree": "app"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Apma (app-app) = 5 (Developing)."
+  }
+}

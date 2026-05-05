@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Araweté",
+    "hid": "awt",
+    "level": "language",
+    "iso639-3": "awt",
+    "latitude": "-4.90246",
+    "longitude": "-52.5001",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Araweté](https://endangeredlanguages.com/lang/663)\n[Araweté](https://grambank.clld.org/languages/araw1273)\n[Araweté](https://lexibank.clld.org/languages/gerarditupi-Arawete)\nhttps://en.wikipedia.org/wiki/Arawet%C3%A9_language\nhttps://phoible.org/languages/araw1273\nhttps://www.wikidata.org/entity/Q4784535"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Tupi171**\n**fabreall2009ann:Tupi251**\n**fabreall2009ann:Tupi_arawete04**\n**fabreall2009ann:Tupi_arawete05**\n**fabreall2009ann:Tupi_arawete07**\n**fabreall2009ann:Tupi_arawete08**\n**fabreall2009ann:Tupi_arawete09**\n**fabreall2009ann:Tupi_arawete12**\n**fabreall2009ann:Tupi_arawete13**\n**fabreall2009ann:Tupi_arawete14**\n**fabreall2009ann:Tupi_arawete15**\n**fabreall2009ann:Tupi_arawete16**\n**fabreall2009ann:Tupi_arawete18**\n**fabreall2009ann:Tupi_arawete24**\n**hh:e:Arnaud:Arawete**\n**hh:e:Ribeiro:Arawete**\n**hh:e:Viveiros:Arawete**\n**hh:e:Viveiros:Arawete-Ipixuna**\n**hh:e:Viveiros:Arawete:1986**\n**hh:e:Viveiros:Arawete:1992**\n**hh:g:Solano:Arawete**\n**hh:he:Ribeiro:Tecelas-Tupi-Xingu**\n**hh:hvtyp:Spoladore:Tupi**\n**hh:phon:Ferreira:Arawete**\n**hh:s:Vieira:Arawete**\n**ldh:item_407575**\n**mpieva:Alves2008Fonetica**"
+  },
+  "altnames": {
+    "glottolog": "\nArawete",
+    "multitree": "\nAraweté\nAsuriní\nAsuriní do Coatinema\nAsuriní do Xingú\nAwaeté\nBïde",
+    "lexvo": "\nAraweté [en]",
+    "elcat": "\nAraweté\nAsuriní\nAsuriní do Coatinema\nAsuriní do Xingú\nAwaeté\nBïde"
+  },
+  "triggers": {
+    "lgcode": "\narawete\njaboti\ntecelas\ncanibais"
+  },
+  "identifier": {
+    "multitree": "awt",
+    "endangeredlanguages": "663"
+  },
+  "classification": {
+    "sub": "**hh:hv:Michael:Tupi-Guarani** **hh:g:Juliao:Anambe**:42-48 **hh:hv:RodriguesCabral:Tupi-Guarani**:333",
+    "subrefs": "\n**hh:hv:Michael:Tupi-Guarani**\n**hh:g:Juliao:Anambe**\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Araweté (663-awt) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

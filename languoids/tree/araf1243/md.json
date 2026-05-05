@@ -1,0 +1,34 @@
+{
+  "core": {
+    "name": "Arafundi",
+    "level": "family",
+    "iso639-3": "arf",
+    "hid": "arf",
+    "links": "\nhttps://www.wikidata.org/entity/Q11170629"
+  },
+  "classification": {
+    "sub": "**hh:ew:Haberland:Alfendio** **hh:wsoc:Kassell:Arafundi**",
+    "familyrefs": "\n**hh:h:Foley:2000**",
+    "subrefs": "\n**hh:ew:Haberland:Alfendio**\n**hh:wsoc:Kassell:Arafundi**",
+    "family": "The Meakambut/Mongolo language is likely a member of this family too **hh:h:Kassell:Mongolo**, **hh:e:Jenkins:Cave-People**, **hh:ephonwsoc:Hoenigman:Kanjimei**"
+  },
+  "altnames": {
+    "multitree": "\nArafundi"
+  },
+  "identifier": {
+    "multitree": "araf"
+  },
+  "iso_retirement": {
+    "comment": "An SIL-PNG survey (Kassell, MacKenzie and Potter 2005) found the three proposed\nlanguages were distinct from each other, using both lexicostatistical and\nintelligibility testing. Average lexical similarity of the three speech\nvarieties is between 39% and 58%, as measured with a 170-item standard word\nlist. The accepted threshold for regarding speech varieties as dialects of a\nsingle language is 70% lexical similarity (SIL 1991); these scores are well\nbelow that threshold. Testing of intelligibility found that speakers of each\nvariety had 13 - 56% comprehension of recorded texts in the other varieties. SIL\nguidelines give a recorded text test score of 75% as the lowest acceptable\nindicator of comprehension; again these scores are well below that threshold.\nThe survey team concluded that Andai, Nanubae and Tapei should be considered\nthree distinct languages.",
+    "code": "arf",
+    "name": "Arafundi",
+    "effective": "2008-01-14",
+    "reason": "split",
+    "remedy": "Split into three languages: Andai [afd]; Nanubae [afk]; Tapei [afp]",
+    "change_request": "2007-026",
+    "change_to": "\nafd\nafk\nafp"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-026**"
+  }
+}

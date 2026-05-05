@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Orokolo",
+    "hid": "oro",
+    "level": "language",
+    "iso639-3": "oro",
+    "latitude": "-7.81309",
+    "longitude": "145.34",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Orokolo](https://grambank.clld.org/languages/orok1267)\n[Orokolo](https://wals.info/languoid/lect/wals_code_orl)\nhttps://en.wikipedia.org/wiki/Orokolo_language\nhttps://www.wikidata.org/entity/Q7103758"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brown:88:1**\n**cldf:williams:40:1**\n**hh:d:Brown:Orokolo**\n**hh:e:Chalmers:Pioneering-NG**\n**hh:e:Holmes:Elema**\n**hh:hld:Lean:11**\n**hh:hvgd:Brown:Eleman**\n**hh:hvs:Brown:Eleman:1973**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Gulf**\n**hh:hw:Ray:Gulf:1914**\n**hh:hw:Zgraggen:Gulf**\n**hh:ld:Muller:Papuasprachen**\n**hh:w:Lawes:Orokolo**\n**mpieva:Brown1972Acompara**\n**sil16:31832**"
+  },
+  "altnames": {
+    "wals": "\nOrokolo",
+    "ruhlen (1987)": "\nOrokolo",
+    "moseley & asher (1994)": "\nOrokolo",
+    "multitree": "\nBailala\nElema\nHaira\nKaipi\nKairi-Kaura\nKairu-Kaura\nMuro\nMuru\nOrokolo\nVailala\nWest Elema",
+    "lexvo": "\nOrokolo [en]",
+    "hhbib_lgcode": "\nElema\nElema/Kerema/Orokolo"
+  },
+  "triggers": {
+    "lgcode": "\nherbert\norokolo"
+  },
+  "identifier": {
+    "wals": "orl",
+    "multitree": "oro"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Brown:Eleman:1973**",
+    "subrefs": "\n**hh:hvs:Brown:Eleman:1973**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Orokolo (oro-oro) = 5* (Developing)."
+  }
+}

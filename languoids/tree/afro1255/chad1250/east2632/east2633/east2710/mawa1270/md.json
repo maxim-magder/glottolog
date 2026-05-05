@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mawa (Chad)",
+    "hid": "mcw",
+    "level": "language",
+    "iso639-3": "mcw",
+    "latitude": "11.7461",
+    "longitude": "18.2999",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Mahwa](https://endangeredlanguages.com/lang/4567)\nhttps://www.wikidata.org/entity/Q3441333\nhttps://en.wikipedia.org/wiki/Mawa_language_(Chad)\nhttps://phoible.org/languages/mawa1270"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**eballiso2009:37331**\n**hh:phon:Roberts:Mawa**\n**hh:typ:Roberts:Mawa**\n**hh:w:Jungraithmayr:Mawa**\n**sil16:51036**\n**sil16:51037**\n**sil16:51251**\n**sil16:51252**\n**sil16:51253**"
+  },
+  "altnames": {
+    "multitree": "\nMahoua\nMahwa\nMawa",
+    "lexvo": "\nMawa (Chad) [en]\nMawa [en]\nMawa language [en]",
+    "elcat": "\nMahoua\nMahoura\nMahwa\nMawa"
+  },
+  "triggers": {
+    "lgcode": "\nmawa\npiani\njayno"
+  },
+  "identifier": {
+    "multitree": "mcw",
+    "endangeredlanguages": "4567"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lovestrand:Chadic-Guera**",
+    "subrefs": "\n**hh:hv:Lovestrand:Chadic-Guera**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mahwa (4567-mcw) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

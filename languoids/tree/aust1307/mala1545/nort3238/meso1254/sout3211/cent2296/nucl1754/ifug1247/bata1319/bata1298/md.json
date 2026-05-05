@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Batad Ifugao",
+    "hid": "ifb",
+    "level": "language",
+    "iso639-3": "ifb",
+    "latitude": "16.8266",
+    "longitude": "121.23",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Ifugao (Batad)](https://wals.info/languoid/lect/wals_code_ifu)\nhttps://www.wikidata.org/entity/Q12953578"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1821**\n**cldf:newell:93**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:hw:Walrod:Dialect-Ifugao**\n**hh:s:Newell:Batad-Ifugao**\n**hh:sd:Newell:Batad-Ifugao**\n**iso6393:2009-057**\n**mpieva:Newell1993BatadIfu**\n**sil16:10021**\n**sil16:11802**\n**sil16:11805**\n**sil16:11807**\n**sil16:11808**\n**sil16:12156**\n**sil16:12165**\n**sil16:14757**\n**sil16:14760**\n**sil16:18029**\n**sil16:18030**\n**sil16:18031**\n**sil16:18032**\n**sil16:18033**\n**sil16:19672**\n**sil16:19673**\n**sil16:19674**\n**sil16:20255**\n**sil16:22134**\n**sil16:51481**"
+  },
+  "altnames": {
+    "wals": "\nIfugao (Batad)",
+    "wals other": "\nBatad\nBatad Ifugao",
+    "ruhlen (1987)": "\nIfugao",
+    "moseley & asher (1994)": "\nnot specified",
+    "multitree": "\nBatad\nIfugao\nIfugao (Batad)\nIfugao, Batad\nIfugu",
+    "lexvo": "\nAyangan Ifugao [en]\nBatad Ifugao [en]\nIfugao language [en]",
+    "hhbib_lgcode": "\nAyangan\nIfugao-Batad (IfgBt.)"
+  },
+  "triggers": {
+    "lgcode": "\npundaldallanan\nbahaon\npenghana\nlambrecht\nbabluy\numatan\nbatad\nngadan\nopat\numangob\npangipaphodan"
+  },
+  "identifier": {
+    "wals": "ifu",
+    "multitree": "ifug;ifb"
+  },
+  "classification": {
+    "sub": "**hh:hw:Walrod:Dialect-Ifugao**",
+    "subrefs": "\n**hh:hw:Walrod:Dialect-Ifugao**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ifugao, Batad (ifb-ifb) = 5* (Developing)."
+  }
+}

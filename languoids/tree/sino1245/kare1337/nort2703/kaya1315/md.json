@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kayan Lahwi",
+    "hid": "pdu",
+    "level": "language",
+    "iso639-3": "pdu",
+    "latitude": "19.5183",
+    "longitude": "97.4138",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Kayan Lahwi](https://grambank.clld.org/languages/kaya1315)\nhttps://en.wikipedia.org/wiki/Padaung_language\nhttps://www.wikidata.org/entity/Q7123283"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Shintani:Dokhoncon-Kayan**\n**hh:d:Shintani:Dosanbu-Kayan**\n**hh:d:Shintani:Phulon-Kayan**\n**hh:d:Shintani:Thaidai**\n**hh:g:Manson:Kayan**\n**hh:hv:Shintani:Brakaloungic**\n**hh:phon:Manson:Pekon-Kayan**"
+  },
+  "altnames": {
+    "multitree": "\nKayan\nKayang\nPadaung\nPadaung Karen",
+    "lexvo": "\nKayan [en]",
+    "hhbib_lgcode": "\n(TD)\n(TMD)\nDokhoncon Kayan\nDosanbu Kayan\nKakhaung Kayan\nKayan\nNangki\nPekon\nPhulon Kayan\nThaidai\nThamidai"
+  },
+  "triggers": {
+    "lgcode": "\npekon"
+  },
+  "identifier": {
+    "multitree": "pdu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Karen** **hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**\n**hh:hv:Manson:Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kayan (pdu-pdu) = 5 (Developing)."
+  }
+}

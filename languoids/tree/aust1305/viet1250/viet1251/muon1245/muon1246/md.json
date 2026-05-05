@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Muong",
+    "hid": "mtq",
+    "level": "language",
+    "iso639-3": "mtq",
+    "latitude": "20.7374",
+    "longitude": "105.186",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\n[Muong](https://wals.info/languoid/lect/wals_code_muo)\nhttps://en.wikipedia.org/wiki/M%C6%B0%E1%BB%9Dng_language\nhttps://www.wikidata.org/entity/Q3236789"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cusinier:46**\n**cldf:lebar:hickey:etal:64**\n**cldf:sokolovskaja:nguyen:87**\n**hh:d:BarkerBarker:Muong**\n**hh:d:Van:Muong**\n**hh:e:USA:Muong**\n**hh:hb:Barker:Muong**\n**hh:he:Abadie:Haut-Tonkin**\n**hh:he:Schliesinger:Austro-Asiatic:Laos**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:he:Schrock:Vietnam**\n**hh:hv:Ferlus:Viet-Muong**\n**hh:hv:Hayes:Vietic**\n**hh:hv:Phan:Muong**\n**hh:hv:Smith:Mon-Khmer**\n**hh:hv:Thompson:Viet-Muong**\n**hh:phon:Nguyen:Kim-Thuong**\n**hh:phon:Nguyen:Kim-Thuong:2021**\n**hh:phon:Nguyen:Kim-Thuong:English**\n**hh:s:Barker:Muong**\n**hh:s:BarkerBarker:Muong**\n**hh:std:SokolovskajaNguyen:Muong**\n**hh:vphon:Van:Muong**\n**hh:w:Cheon:Nguon-Sac-Muong**\n**sil16:10174**\n**sil16:10176**\n**sil16:12748**\n**sil16:15321**\n**sil16:49734**"
+  },
+  "altnames": {
+    "wals": "\nMuong",
+    "ruhlen (1987)": "\nMuong (plus diacritics)",
+    "moseley & asher (1994)": "\nMuòng",
+    "multitree": "\nMuong\nViet Nam",
+    "lexvo": "\nMuong [en]",
+    "hhbib_lgcode": "\nMUO Muong\nMuong (Kim Thuong)"
+  },
+  "triggers": {
+    "lgcode": "\nmol\nthieng\nvietnamskoj\nannamuong\nNOT tone AND muong"
+  },
+  "identifier": {
+    "wals": "muo",
+    "multitree": "mtq;muon"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Muong (mtq-mtq) = 5 (Developing). Language of recognized ethnic group: Muong."
+  }
+}

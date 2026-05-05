@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gudang",
+    "hid": "xgd",
+    "level": "language",
+    "latitude": "-10.91613599",
+    "longitude": "142.5768928",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "iso639-3": "xgd",
+    "links": "\nhttps://www.wikidata.org/entity/Q5614528\nhttps://en.wikipedia.org/wiki/Gudang_language",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Moore:Cape-York**\n**hh:ew:Moore:Cape-York**\n**hh:hew:Jukes:Fly**\n**hh:hew:MacGillivray:Rattlesnake**\n**hh:hew:Murray:Polynesia-New-Guinea**\n**hh:hsoc:Harper:Nothern-Cape-York**\n**hh:hv:Schmidt:Australischen**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Ray:Cape-York**\n**hh:w:Jardine:Gudang**\n**iso6393:2012-053**"
+  },
+  "altnames": {
+    "glottolog": "\nKuta",
+    "hhbib_lgcode": "\nCape York\nDialect speoken by the Cape York tribe\nEvans Bay\nII:277ff Gudang\nPudhaga\nPudhaga (Evans Bay)"
+  },
+  "triggers": {
+    "lgcode": "\ngudang"
+  },
+  "identifier": {
+    "multitree": "urf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hale:NPaman**:252 **hh:hv:Schmidt:Australischen**:468-471",
+    "subrefs": "\n**hh:hv:Hale:NPaman**\n**hh:hv:Schmidt:Australischen**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gudang (xgd-xgd) = 10 (Extinct)."
+  }
+}

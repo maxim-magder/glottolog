@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Isthmus-Cosoleacaque Nahuatl",
+    "hid": "nhk",
+    "level": "language",
+    "iso639-3": "nhk",
+    "latitude": "17.9401",
+    "longitude": "-94.7347",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Isthmus-Cosoleacaque Nahuatl](https://grambank.clld.org/languages/isth1240)\nhttps://www.wikidata.org/entity/Q12953757"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Ethnologue:17**\n**hh:s:Lopez:Nahua-Oteapan**"
+  },
+  "altnames": {
+    "multitree": "\nCosoleacaque Aztec\nIsthmus\nMexicano\nNahua de Tabasco\nNahuatl\nNahuatl, Isthmus-Cosoleacaque\nNáhuatl de Tabasco\nNáhuatl de l'Isthme\nNáhuatl del Istmo-Cosoleacaque",
+    "lexvo": "\nIsthmus-Cosoleacaque Nahuatl [en]",
+    "hhbib_lgcode": "\nNahua Oteapan\nNahuatl-Isthmus-Cosoleacaque"
+  },
+  "triggers": {
+    "lgcode": "\noteapan"
+  },
+  "identifier": {
+    "multitree": "nhk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hansen:Nahuan**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tabasco Náhuatl (1500-nhk) = Critically endangered; Isthmus Náhuatl (1505-nhk) = Vulnerable"
+  }
+}

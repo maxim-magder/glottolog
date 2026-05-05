@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Central Moroccan Berber",
+    "hid": "tzm",
+    "level": "language",
+    "iso639-3": "tzm",
+    "latitude": "32.7415",
+    "longitude": "-2.40872",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "DZ",
+      "MA"
+    ],
+    "links": "\n[Berber (Middle Atlas)](https://wals.info/languoid/lect/wals_code_bma)\nhttps://phoible.org/languages/cent2194\nhttps://www.wikidata.org/entity/Q30557579"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1042**\n**asjp2010:1774**\n**cldf:abdel-massih:71**\n**cldf:alalou:farrell:93**\n**cldf:bausi:tosco:ed:96:3**\n**cldf:bourilly:32**\n**cldf:celerier:27**\n**cldf:danon-boileau:ed:99:2**\n**cldf:laoust:15**\n**cldf:lecarme:ed:00:1**\n**cldf:leguil:ed:92**\n**cldf:malherbe:rosenberg:96**\n**cldf:michaux-bellaire:20**\n**cldf:moravcsik:78**\n**cldf:moseley:ostler:etal:ed:01:3**\n**cldf:moseley:ostler:etal:ed:01:4**\n**cldf:ouakrim:01**\n**cldf:pencheon:73**\n**cldf:penchoen:73:1**\n**cldf:piquet:25**\n**cldf:querleux:15**\n**cldf:willms:72**\n**eballiso2009:21390**\n**eballiso2009:21392**\n**eballiso2009:21713**\n**eballiso2009:32868**\n**eballiso2009:50864**\n**eballiso2009:6434**\n**eballiso2009:6452**\n**hh:d:Haddachi:Ayt-Merghad**\n**hh:d:Kaoui:Tachelhit**\n**hh:d:Taifi:Tamazight**\n**hh:e:Vinogradov:Ait-Ndhir**\n**hh:g:Abdel-Massih:Tamazight**\n**hh:g:Azaguagh:Tamazight**\n**hh:g:Bezzaa:Ait-Abbou**\n**hh:g:Boukrisetal:Amazighe**\n**hh:g:Johnson:Tamazight**\n**hh:g:Lemkaden:Ayt-Ayach**\n**hh:g:Penchoen:AytNdhir**\n**hh:g:Sadiqi:Berbere**\n**hh:g:Willms:Beraberdialekts**\n**hh:gt:Laoust:Berbere-Ntifa**\n**hh:gtyp:Mauri:Ayt-Atta**\n**hh:hv:Nait-Zerrad:Maroc**\n**hh:ld:Meyer:Whistled-Tamazight**\n**hh:ldsoc:Berjaoui:Amazigh-Secret**\n**hh:phon:Boukous:Amazighe**\n**hh:phon:Saib:Ayt-Ndhir**\n**hh:s:Alalou:Tamazight**\n**hh:s:Ameur:Amazighe**\n**hh:s:Bisson:Tamazight**\n**hh:s:Quitout:Berbere**\n**hh:std:Loubignac:Zaian**\n**hh:t:Boulifa:Berberes-Atlas**\n**hh:t:Mercier:Ait-Izdeg**\n**hh:typ:Boukhris:Berbere-Clitiques**\n**hh:typ:Boukhris:Tamazight:1986**\n**mpieva:Achab2006Internal**\n**mpieva:Bahmad1987Etudepho**\n**mpieva:Boukhris1986Leverbee**\n**mpieva:Hamimi1997Grammair**"
+  },
+  "altnames": {
+    "wals": "\nBerber (Ayt Seghrouchen Middle Atlas)\nBerber (Middle Atlas)",
+    "wals other": "\nBerber (Ayt Ayache Middle Atlas)\nBerber (Ayt Ndhir Middle Atlas)\nOum Jeniba Tamazight\nTamazight (Ayt Ndhir)\nTamazight (Middle Atlas)\nTamazight (Oum Jeniba)",
+    "ruhlen (1987)": "\nTamazight",
+    "moseley & asher (1994)": "\nTamazight",
+    "multitree": "\nBerber\nBerber (Middle Atlas)\nCentral Shilha\nMiddle Atlas Berber\nShilha\nTamazight\nTamazight (Central Atlas)\nTamazight, Central Atlas",
+    "lexvo": "\nCentral Atlas Tamazight [en]\nCentral Morocco Tamazight [en]\nCentralnoatlaski tamazight [hr]\nJęzyk tamazight [pl]\nTamazight [de]\nTamazight del Marruecos Central [es]\nTamazight du Maroc central [fr]\nTamazigteg [br]",
+    "hhbib_lgcode": "\nAit Hassan\nAit Ndhir\nAit Yafelman-Ait Atta-Ait Seddrat-Ahel Todrha-Ahel-Dades und Ait Mhamed\nAmazigh\nAyt Atta\nAyt Ayach\nAyt Ayache\nAyt Ndhir\nCentral Atlas Tamazight\nNtifa is in the area of SW Central Moroccan Berber\nSome varieties of Central Moroccan Berber\nSouthern part of the Central Moroccan Berber area\nTamazight\nTamazight-Central Atlas\nZaian/Sgougou is\nZemmour around Khemisset between Rabat and Meknes"
+  },
+  "triggers": {
+    "lgcode": "\nzenmours\ntamazight\nayach\nsgougou\ntamazight AND ndhir\nntifa\nberaberdialekte\nzaian\nsudmarokko\nlamazighe\ndazrou"
+  },
+  "identifier": {
+    "wals": "bma;bse",
+    "multitree": "tzm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Proto-Berbere**:31 **hh:hv:Kossmann:Berber:2020**:283",
+    "subrefs": "\n**hh:hv:Kossmann:Proto-Berbere**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tamazight, Central Atlas (tzm-tzm) = 6b (Threatened)."
+  }
+}

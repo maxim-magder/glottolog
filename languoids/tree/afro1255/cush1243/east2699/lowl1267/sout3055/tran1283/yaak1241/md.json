@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yaaku",
+    "hid": "muu",
+    "level": "language",
+    "iso639-3": "muu",
+    "latitude": "0.46863",
+    "longitude": "37.1008",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Yaaku](https://endangeredlanguages.com/lang/4727)\n[Yaaku](https://grambank.clld.org/languages/yaak1241)\nhttps://en.wikipedia.org/wiki/Yaaku_language\nhttps://www.wikidata.org/entity/Q34222"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:mous:05**\n**cldf:np:nd:264**\n**eballiso2009:15760**\n**eballiso2009:22388**\n**eballiso2009:25378**\n**eballiso2009:3393**\n**eballiso2009:43271**\n**eballiso2009:58700**\n**hh:e:Blench:Pygmies**\n**hh:e:Cronk:Mukogodo**\n**hh:e:Cronk:Mukogodo:2004**\n**hh:e:Cronk:Yaaku**\n**hh:el:Brenzinger:Lexical**\n**hh:el:Carrier:Yaaku**\n**hh:ew:Hobley:Kamba**\n**hh:hel:Sommer:Survey**\n**hh:hv:Ehret:Yaakuan**\n**hh:hv:Hayward:Qawko**\n**hh:s:Heine:Yaaku**\n**hh:ssoc:Heijkoop:Yaaku**\n**hh:vw:Baader:Yakunte**\n**hh:vw:Greenberg:Mogogodo**\n**hh:w:Hobley:Oggiek**"
+  },
+  "altnames": {
+    "multitree": "\n\"Ndorobo\"\nMogogodo\nMukogodo\nMukoquodo\nSiegu\nYaaku\nYaakua\nYaakuan",
+    "lexvo": "\nLenga Yaaku [pms]\nYaaku [en]\nYaaku hizkuntza [eu]\nYaaku language [en]",
+    "hhbib_lgcode": "\nMogogodo\nMukogodo\nNeumann's Mogogodo\nYakunte",
+    "elcat": "\n\"Ndorobo\"\nMogogodo\nMukogodo\nMukoquodo\nSiegu\nYaaku\nYaakua\nYakunte\nYiaku\nYiakunte"
+  },
+  "triggers": {
+    "lgcode": "\nmogogodo\nyaaku\nethnocity\nyaakuan\ncontested"
+  },
+  "identifier": {
+    "multitree": "yaak;muu",
+    "endangeredlanguages": "4727"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tosco:Cushitic**:95-98 **hh:hv:Tosco:East-Cushitic**",
+    "subrefs": "\n**hh:hv:Tosco:East-Cushitic**\n**hh:hv:Tosco:Cushitic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yaaku (4727-muu) = Severely Endangered (60 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Elip",
+    "hid": "ekm",
+    "level": "language",
+    "iso639-3": "ekm",
+    "latitude": "4.45694",
+    "longitude": "11.193",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Elip](https://grambank.clld.org/languages/elip1238)\nhttps://phoible.org/languages/elip1238\nhttps://www.wikidata.org/entity/Q12952414"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4231**\n**eballiso2009:28707**\n**eballiso2009:31099**\n**eballiso2009:35211**\n**eballiso2009:39726**\n**eballiso2009:44618**\n**eballiso2009:52651**\n**hh:h:Boone:Central-Yambasa**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvphon:Boyd:Mbam**\n**hh:hvw:Paulian:Yambasa**\n**hh:hvwphon:Bebine:Yambassa**\n**hh:phon:Ekambi:Nulibie**\n**hh:s:Pritte:Nulibie**\n**hh:typ:Nkoa:Nulibie**\n**sil16:45527**\n**sil16:45565**\n**sil16:50185**\n**sil16:50186**\n**sil16:50438**"
+  },
+  "altnames": {
+    "multitree": "\nBelibi\nBelip\nElip\nLibie\nNuasue\nNulibie",
+    "lexvo": "\nElip [en]",
+    "hhbib_lgcode": "\nA62C_Libie\nLibie\nNulipie\nNulíbíe"
+  },
+  "triggers": {
+    "lgcode": "\nyambasa\nbagasa\nnuas\nyamabasa\nrecontre\nnulibie\nkiluume\nnuasue"
+  },
+  "identifier": {
+    "multitree": "ekm"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Boyd:Mbam**:329-361",
+    "subrefs": "\n**hh:hvphon:Boyd:Mbam**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nulibie (ekm-ekm) = 5* (Developing)."
+  }
+}

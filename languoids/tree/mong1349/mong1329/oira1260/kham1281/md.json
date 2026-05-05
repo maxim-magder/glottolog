@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Khamnigan Mongol",
+    "hid": "ykh",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MN",
+      "RU"
+    ],
+    "longitude": "117.0",
+    "latitude": "49.0",
+    "links": "\n[Khamnigan Mongol](https://endangeredlanguages.com/lang/8234)\n[Mongol (Khamnigan)](https://wals.info/languoid/lect/wals_code_mkh)\nhttps://en.wikipedia.org/wiki/Khamnigan_Mongol\nhttps://www.wikidata.org/entity/Q3196052",
+    "iso639-3": "ykh"
+  },
+  "classification": {
+    "sub": "**hh:s:Janhunen:Khamnigan:2003**:85-86",
+    "subrefs": "\n**hh:s:Janhunen:Khamnigan:2003**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hong:12**\n**cldf:janhunen:15:1**\n**cldf:salminen:00**\n**hh:d:Damdinov:Khamnigan**\n**hh:h:Gruntov:Khamnigan**\n**hh:hel:Janhunen:Manchuria**\n**hh:s:Janhunen:Khamnigan**\n**hh:s:Janhunen:Khamnigan:1990**\n**hh:s:Janhunen:Khamnigan:2003**\n**hh:s:Uray:Kamniganische**\n**hh:sd:Yu:Khamnigan-Mongol**\n**hh:soctyp:Damdinov:Xamniganskogo**\n**hh:typ:Gruntov:Khamnigan-Mongol**\n**hh:v:Doerfer:Kamniganische**\n**hh:w:Shimunek:Khamnigan-Mongol**\n**iso6393:2022-018**"
+  },
+  "triggers": {
+    "lgcode": "\nmongolisch\ndadal\nkamniganische"
+  },
+  "identifier": {
+    "multitree": "1lj",
+    "endangeredlanguages": "8234"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Khamnigan Mongol (8234) = Severely Endangered (80 percent certain, based on the evidence available) (the younger generation has gone over (in the last 20 years) to using regular Mongolian (the Inner Mongolian standard, or the Khorchin dialect).) [Janhunen 2015](cldf:janhunen:15:1)"
+  },
+  "altnames": {
+    "elcat": "\nHamunikan\nKamnigan\nKhamnigan\nKhamnigan Mongol\nXamnigan\nхамниганский язык\n哈姆尼堪\n汗尼幹蒙古語",
+    "hhbib_lgcode": "\nMongolian Khamnigan Mongol\nOnon Xamnigan Mongol\nXamnigan Mongol"
+  }
+}

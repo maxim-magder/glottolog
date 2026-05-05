@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Gao",
+    "hid": "gga",
+    "level": "language",
+    "iso639-3": "gga",
+    "latitude": "-8.35163",
+    "longitude": "159.789",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Gao](https://endangeredlanguages.com/lang/5509)\n[Nggao (Poro)](https://lexibank.clld.org/languages/abvdoceanic-NggaoPoro)\nhttps://en.wikipedia.org/wiki/Gao_language\nhttps://www.wikidata.org/entity/Q3095228"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:whiteley:14**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Codrington:Gao**\n**hh:ld:Ray:New-Georgia**"
+  },
+  "altnames": {
+    "multitree": "\nGao\nNggao",
+    "lexvo": "\nGao [en]",
+    "hhbib_lgcode": "\nNggao\nPoro",
+    "elcat": "\nGao\nNggao"
+  },
+  "identifier": {
+    "multitree": "gga",
+    "endangeredlanguages": "5509"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:NWSolomonic**",
+    "subrefs": "\n**hh:hv:Ross:NWSolomonic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gao (5509-gga) = Threatened (100 percent certain, based on the evidence available) (Some households are predominately Cheke Holo. Although children from such households will pick up Gao from class mates due to contact at local primary school. School teaching language is largely pidgin, Cheke Holo, but occasionally Gao. There is an impetus to speak Gao because Gao speakers immediately understand and can speak Cheke Holo, whereas the reverse does not hold. Cheke Holo speakers frequently do not feel confident to speak Gao.) [Whiteley 2014](cldf:whiteley:14)"
+  }
+}

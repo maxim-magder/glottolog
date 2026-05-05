@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kuuku-Ya'u",
+    "hid": "kuy",
+    "level": "language",
+    "iso639-3": "kuy",
+    "latitude": "-12.4947",
+    "longitude": "143.165",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Kuuku Ya'u](https://collection.aiatsis.gov.au/austlang/language/y22)\n[Kuuku Ya'u](https://wals.info/languoid/lect/wals_code_kuu)\n[Kuuku-Ya'u](https://endangeredlanguages.com/lang/3785)\n[Kuuku-Ya’u](https://lexibank.clld.org/languages/bowernpny-KuukuYau)\nhttps://phoible.org/languages/kuuk1238\nhttps://www.wikidata.org/entity/Q10550697"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:thompson:76:1**\n**cldf:tryon:07**\n**hh:e:Chase:Aboriginal-Coastal**\n**hh:e:Chase:North-Queensland**\n**hh:h:Rigsby:Charlotte**\n**hh:ld:Hill:Old-Mission**\n**hh:s:Thompson:Kuuku-Umpila**\n**hh:typ:Hill:Umpila**\n**hh:typ:Hill:Umpila-Yau**\n**hh:typ:Hill:Umpila:2018**"
+  },
+  "altnames": {
+    "wals": "\nKuuku Ya'u",
+    "wals other": "\nBagadji\nKoko-Ja'o\nYa'o",
+    "ruhlen (1987)": "\nKuuku-Ya'u",
+    "multitree": "\nBagadji\nGugu Yau\nKoka-yao\nKoko Ya':o\nKoko-Ja'o\nKokoyao\nKuuku Ya'u\nKuuku-Ya'u\nKuuku-ya'u\nMakadama\nPakadji\nYa'o\nYao",
+    "lexvo": "\nKuuku-Ya'u [en]",
+    "hhbib_lgcode": "\nKuuku Ya'u\nKuuku Ya’u",
+    "elcat": "\nBagadji\nGugu Yau\nKoka-yao\nKoko Ya':o\nKoko-Ja'o\nKokoyao\nKuku-Ya'u\nKuuku Ya'u\nKuuku-Ya'u\nMakadama\nPakadji\nYa'o\nYao",
+    "aiatsis": "\nGugu Yau\nGuugu YauBagadji\nJao\nKao Kokoyao\nKoka yao\nKoko Ya:o\nKoko Yao\nKoko yao\nKokoYao\nKuku Yao\nKuku Yau\nKuuk Yak\nKuuku Ya'u\nKuuku Yau\nKuuku yau\nMakadama\nPakadji\nYao"
+  },
+  "triggers": {
+    "lgcode": "\naaib"
+  },
+  "identifier": {
+    "wals": "kuu",
+    "multitree": "kuy",
+    "endangeredlanguages": "3785"
+  },
+  "classification": {
+    "sub": "**hh:sd:VerstrateRigsby:Yintyingka**:192-194",
+    "subrefs": "\n**hh:sd:VerstrateRigsby:Yintyingka**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kuuku-Ya'u (3785-kuy) = Severely Endangered (100 percent certain, based on the evidence available) (Kuku-Ya'u is endangered.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

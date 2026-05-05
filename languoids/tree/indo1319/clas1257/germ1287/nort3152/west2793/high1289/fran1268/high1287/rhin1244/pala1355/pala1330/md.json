@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pfaelzisch-Lothringisch",
+    "hid": "pfl",
+    "level": "language",
+    "iso639-3": "pfl",
+    "latitude": "49.701",
+    "longitude": "6.846",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Palatine_German_dialects\nhttps://www.wikidata.org/entity/Q23014"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Christmann:Pfalzisch**\n**hh:d:ChristmannKramer:Pfalzische**\n**hh:g:Khramova:Volga-German**\n**hh:h:Wenker:Rheinische**\n**hh:hv:Herrgen:Rheinfrankisch**\n**hh:phon:Erdmann:Bingen**\n**hh:phon:Karch:Braunschwig-Veltenhof**\n**hh:phon:Wanner:Zaisenhausen**\n**hh:phonv:Bertram:Vorderpfalz**\n**hh:phonv:Bohmer:Pfalzischen-Niederrhein**\n**hh:s:Barba:Banater**\n**hh:s:Green:Pfalzische**\n**hh:s:Henn:Pfalzisch**\n**hh:s:Karch:Grossbockenheim**\n**hh:s:Krell:Ludwigshafen**\n**hh:s:Petri:Rheinfrankische-Banat**\n**hh:s:Post:Pfalzisch**\n**hh:s:Wolf:Banater**"
+  },
+  "altnames": {
+    "multitree": "\nFrancique rhénan\nFranconio renano\nPalatinate\nPfaelzisch\nPfälzisch\nPfälzische",
+    "lexvo": "\nDialekt palatynacki [pl]\nFalački jezik [hr]\nLenga pfaelzisch [pms]\nPalatinate German [en]\nPaltsersk [stq]\nPaltsisch [nl]\nPfaelzisch [en]\nPfälzisch [ca]\nPfälzische Dialekte [de]\nPällzisch [ksh]\nPälzisch [nds]\nTedesco palatino [it]\nプファルツ語 [ja]",
+    "glottolog": "\nPfaelzisch",
+    "hhbib_lgcode": "\nBingen\nBraunschweig-Veltenhof\nLudwigshafen\nMilberger originates in the South Hessian area around Darmstadt\nPfaelzisch\nPfälzisch\nPfälzischen Colonie am Niederrhein\nRheinfränkisch\nRheinfränkische\nRheinfränkische Mundart der Großgemeinde Lovrin im rumänischen Banat\nRhenish Franconian\nSüdfränkisch in Banat with Middle German sound changes but with traits from neighbouring Upper German varieties\nZaisenhausen"
+  },
+  "triggers": {
+    "lgcode": "\npfalzische\nweinstrasse\npfalzisches\nkallstadt\nludwigshafen\npfalzisch\ngrossbockenheim\nvorderpfalz"
+  },
+  "identifier": {
+    "multitree": "pfl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:846-849",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Rhenish Franconian (1478-pfl) = Vulnerable"
+  }
+}

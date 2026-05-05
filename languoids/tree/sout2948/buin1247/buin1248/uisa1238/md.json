@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Uisai",
+    "hid": "uis",
+    "level": "language",
+    "iso639-3": "uis",
+    "latitude": "-6.55533",
+    "longitude": "155.706",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Uisai](https://endangeredlanguages.com/lang/5845)\nhttps://www.wikidata.org/entity/Q7878123\nhttps://en.wikipedia.org/wiki/Uisai_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:evans:09:2**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:ld:Grace:46**\n**sil16:23127**\n**silpng:silpng1991-2000:2174**\n**silpng:silpng2001-2003:304**"
+  },
+  "altnames": {
+    "multitree": "\nUisai",
+    "lexvo": "\nUisai [en]",
+    "elcat": "\nUisai"
+  },
+  "triggers": {
+    "lgcode": "\nuisai"
+  },
+  "identifier": {
+    "multitree": "uis",
+    "endangeredlanguages": "5845"
+  },
+  "classification": {
+    "sub": "**hh:typd:Laycock:Buin**:xi **hh:hb:AllenHurd:Bougainville**:4-7",
+    "subrefs": "\n**hh:hb:AllenHurd:Bougainville**\n**hh:typd:Laycock:Buin**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Uisai (5845-uis) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ulumanda'",
+    "hid": "ulm",
+    "level": "language",
+    "iso639-3": "ulm",
+    "latitude": "-3.00933",
+    "longitude": "118.994",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Ulumanda%CA%BC_language\nhttps://www.wikidata.org/entity/Q3501892"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hvw:Smith:Ulunnu**\n**hh:socdial:StrommeValkama:Mandar**\n**sil16:22006**"
+  },
+  "altnames": {
+    "multitree": "\nAwo-Sumakuyu\nBotteng-Tappalang\nKado\nNordost-Celebes\nOeloemanda\nTubbi\nUlumanda'\nUlumandak\nUlunda",
+    "lexvo": "\nUlumanda' [en]",
+    "hhbib_lgcode": "\nB Botteng\nMamuju-Botteng\nMamuju-Tappalang"
+  },
+  "triggers": {
+    "lgcode": "\nunhas AND majene"
+  },
+  "identifier": {
+    "multitree": "ulm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Ulunnu** **hh:hvw:GrimesGrimes:South-Sulawesi**",
+    "subrefs": "\n**hh:hvw:Smith:Ulunnu**\n**hh:hvw:GrimesGrimes:South-Sulawesi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ulumanda’ (ulm-ulm) = 6b (Threatened)."
+  }
+}

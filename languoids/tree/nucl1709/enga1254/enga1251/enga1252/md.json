@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Enga",
+    "hid": "enq",
+    "level": "language",
+    "iso639-3": "enq",
+    "latitude": "-5.45619",
+    "longitude": "143.685",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Enga](https://lexibank.clld.org/languages/transnewguineaorg-enga)\n[Enga](https://wals.info/languoid/lect/wals_code_ena)\n[Enga (Wapi Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-enga-wapi)\nhttps://en.wikipedia.org/wiki/Enga_language\nhttps://www.wikidata.org/entity/Q1143040"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:912**\n**cldf:elkin:53**\n**cldf:goodenough:53**\n**cldf:lang:73**\n**cldf:meggitt:58**\n**cldf:meggitt:62:3**\n**cldf:meggitt:65:1**\n**cldf:meggitt:67**\n**cldf:stolz:96**\n**cldf:valin:80**\n**hh:d:Lang:Enga**\n**hh:e:Feil:Enga**\n**hh:e:Meggitt:Enga**\n**hh:e:Meggitt:Mae-Enga**\n**hh:e:Wiessner:Enga**\n**hh:e:Wirz:Enga**\n**hh:hv:Franklin:Engan**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Wurm:ECTNG**\n**hh:hvw:Capell:CHighlands**\n**hh:hvw:ConradLewis:USepik**\n**hh:hvw:DaviesComrie:Yuat**\n**hh:phon:Hintze:Mai-Enga**\n**hh:s:Hintze:Enga**\n**hh:s:Hintze:Enga:1963**\n**hh:sd:Lang:Enga**\n**hh:styp:Lang:Enga**\n**hh:typ:Burce:Enga**\n**hh:w:Bulmer:Pinaye**\n**hh:w:Crotty:Tchaga**\n**mpieva:Lang1972Inadicti**\n**sil16:21129**\n**sil16:21159**\n**sil16:21260**\n**sil16:21261**\n**sil16:35045**"
+  },
+  "altnames": {
+    "wals": "\nEnga",
+    "ruhlen (1987)": "\nEnga",
+    "moseley & asher (1994)": "\nEnga",
+    "multitree": "\nCaga\nEnga\nTchaga\nTsaga",
+    "lexvo": "\nEnga [en]",
+    "hhbib_lgcode": "\nEnga of Lang 1973\nLaiagam Enga\nLapalama Enga\nLapalana Enga 1\nLapalana Enga 2\nMae\nMae Enga\nSari Enga\nTchaga\nThought to be Pinai but is really Mae Enga\nTjirungki\nTsaga\nWapi Enga"
+  },
+  "triggers": {
+    "lgcode": "\ntchaga\npinaye\nNOT la AND NOT pp AND enga"
+  },
+  "identifier": {
+    "wals": "ena",
+    "multitree": "enq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Franklin:Engan**",
+    "subrefs": "\n**hh:hv:Franklin:Engan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Enga (enq-enq) = 5 (Developing)."
+  }
+}

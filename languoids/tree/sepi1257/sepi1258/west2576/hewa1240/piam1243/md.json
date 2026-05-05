@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Piame",
+    "hid": "pin",
+    "level": "language",
+    "iso639-3": "pin",
+    "latitude": "-4.85835",
+    "longitude": "142.784",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Piame](https://endangeredlanguages.com/lang/4968)\nhttps://www.wikidata.org/entity/Q7190042\nhttps://en.wikipedia.org/wiki/Piame_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:hvw:ConradLewis:USepik**\n**hh:w:Bragge:Niksek**\n**hh:w:Laycock:D28**"
+  },
+  "altnames": {
+    "multitree": "\nBiami\nPiame",
+    "lexvo": "\nPiame [en]",
+    "hhbib_lgcode": "\nBiame (Bragge)\nBiami\nBiami-Bragge\nPiame/Biami from Ambunti Patrol 1970-71",
+    "elcat": "\nBiami\nPiame"
+  },
+  "identifier": {
+    "multitree": "pin",
+    "endangeredlanguages": "4968"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bruce:Middle-Sepik**:472-519 **hh:hvw:ConradDye:USepik**",
+    "subrefs": "\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:hvw:ConradDye:USepik**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Piame (4968-pin) = Severely Endangered (20 percent certain, based on the evidence available) [Conrad and Lewis 1988](cldf:conrad:lewis:88)"
+  }
+}

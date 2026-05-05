@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Dera (Nigeria)",
+    "hid": "kna",
+    "level": "language",
+    "iso639-3": "kna",
+    "latitude": "10.072",
+    "longitude": "12.0256",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Dera](https://lexibank.clld.org/languages/kraftchadic-Dera)\n[Dera (Nigeria)](https://grambank.clld.org/languages/dera1248)\n[Kanakuru](https://wals.info/languoid/lect/wals_code_knk)\nhttps://en.wikipedia.org/wiki/Kanakuru_language\nhttps://phoible.org/languages/dera1248\nhttps://www.wikidata.org/entity/Q56811"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:hudson:84**\n**cldf:meek:31:2**\n**cldf:np:72**\n**eballiso2009:13205**\n**eballiso2009:20633**\n**eballiso2009:21937**\n**eballiso2009:46909**\n**eballiso2009:46914**\n**eballiso2009:49939**\n**eballiso2009:53249**\n**eballiso2009:53854**\n**eballiso2009:8880**\n**hh:g:Newman:Kanakuru**\n**hh:hew:Meek:Tribal:II**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:I**\n**mpieva:1989Currentp**\n**mpieva:Lumwamu1973Essaidem**"
+  },
+  "altnames": {
+    "wals": "\nKanakuru",
+    "ruhlen (1987)": "\nDera, Kanakuru",
+    "moseley & asher (1994)": "\nKanakuru",
+    "multitree": "\nDera\nKanakuru",
+    "lexvo": "\nDera (Nigeria) [en]\nDera [en]",
+    "hhbib_lgcode": "\nDera\nDera/Kanakuru\nKanakuru"
+  },
+  "triggers": {
+    "lgcode": "\nNOT of AND kanakuru\nmorphosynthaxe\nkanakuru\nboulder"
+  },
+  "identifier": {
+    "wals": "knk",
+    "multitree": "kna"
+  },
+  "classification": {
+    "sub": "**hh:hv:Newman:Chadic:1977**",
+    "subrefs": "\n**hh:hv:Newman:Chadic:1977**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dera (kna-kna) = 6b (Threatened)."
+  }
+}

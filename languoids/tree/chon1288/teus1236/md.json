@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Teushen",
+    "hid": "NOCODE_Teushen",
+    "level": "language",
+    "latitude": "-43.187556",
+    "longitude": "-70.187989",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "CL"
+    ],
+    "links": "\n[Teushen](https://endangeredlanguages.com/lang/2150)\nhttps://en.wikipedia.org/wiki/Teushen_language\nhttps://www.wikidata.org/entity/Q3519243",
+    "timespan": "1910-01-01/1910-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:fernandezgaray:12**\n**fabreall2009ann:Chon_teushen1**\n**fabreall2009ann:Chon_teushen2**\n**fabreall2009ann:Chon_teushen4**\n**hh:e:Burmeister:Patagonia**\n**hh:hv:Lehmann-Nitsche:Tshon**\n**hh:hv:Viegas:Tehuelche**\n**hh:hv:ViegasBarros:Patagonia**\n**hh:hvw:Viegas:Chon**\n**hh:hw:Martius:Brasiliens**\n**hh:ld:Viegas:Teushen**\n**hh:v:Viegas:Teushen**\n**hh:w:Molina:Patagonicos**\n**hh:w:Outes:Patagon-Antiguo**\n**hh:w:Vignati:Elizalde**\n**hh:w:deViedma:Patagonia**"
+  },
+  "triggers": {
+    "lgcode": "\ntschon\nteushen"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Teushen, an extinct Continental Chonan language, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:hw:Martius:Brasiliens**, **hh:hv:ViegasBarros:Patagonia**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Teushen"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Viegas:Chon** **hh:hv:Viegas:Fuegopatagonia**",
+    "subrefs": "\n**hh:hvw:Viegas:Chon**\n**hh:hv:Viegas:Fuegopatagonia**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Teushen (2150) = Dormant [Crevels 2012](cldf:crevels:12:3)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\n95 términos recogidos en 1791 en Puerto Deseado\nPatagon\nTehuelche\nTéuesh\n“mecharnwén” de 604 términos y 7 frases (Molina 1967b: 162-76)\n“mecharnwén” de 604 términos y 7 frases (Molina 1967b: 162-76) ? Teushen\n“tö:wesh” de 537 términos y 6 frases",
+    "elcat": "\nChon\nPatagón\nTehuesh\nTeuesen\nTeuesh\nTeushen\nTeuéx"
+  },
+  "identifier": {
+    "endangeredlanguages": "2150"
+  }
+}

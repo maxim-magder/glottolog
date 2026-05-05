@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Pular",
+    "hid": "fuf",
+    "level": "language",
+    "iso639-3": "fuf",
+    "latitude": "12.1826",
+    "longitude": "-12.7338",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "GW",
+      "ML",
+      "SL",
+      "SN"
+    ],
+    "links": "\n[Fula (Guinean)](https://wals.info/languoid/lect/wals_code_fgu)\n[Pular](https://grambank.clld.org/languages/pula1262)\n[Pular (Fuuta Jalon)](https://lexibank.clld.org/languages/polyglottaafricana-FutaJalon)\nhttps://en.wikipedia.org/wiki/Pular_language\nhttps://phoible.org/languages/pula1262\nhttps://www.wikidata.org/entity/Q3915357"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:diallo:97**\n**cldf:durand:29**\n**cldf:koval:79**\n**cldf:vieillard:39**\n**cldf:vieillard:40**\n**eballiso2009:5936**\n**hh:d:Zubko:Fula**\n**hh:e:Guebhard:Peulh-Fouta**\n**hh:e:Tauxier:Peuls**\n**hh:g:Diallo:FuutaJaloo**\n**hh:g:Evans:Pular**\n**hh:gd:Gaden:Poular**\n**hh:gt:Reichardt:Fulde**\n**hh:hew:Johnston:Liberia**\n**hh:hvw:Diallo:Pular-Mande**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Arnaud:Peuhle**\n**hh:s:CaudillDiallo:Fuuta-Jallon**\n**hh:s:KovalZubko:Fula**\n**hh:sd:Diallo:Peul**\n**hh:w:Corre:Rio-Nunez**\n**mpieva:Diallo2001Phonolog**\n**mpieva:Leroy2002Parlonsp**"
+  },
+  "altnames": {
+    "wals": "\nFula (Guinean)",
+    "ruhlen (1987)": "\nFul(ani)",
+    "moseley & asher (1994)": "\nFula",
+    "multitree": "\nFoula Fouta\nFouta Dyalon\nFula (Guinean)\nFulah-Idiome\nFulani\nFulbe\nFulfulde Jalon\nFullo Fuuta\nFuta Fula\nFuta Jallon\nFuuta Jalon\nJalon\nPular",
+    "lexvo": "\nPular [en]\nPular language [en]",
+    "hhbib_lgcode": "\nFoulah du Fouta-Djalon\nFouta\nFula Futa Jalo\nFuta Jallo\nMainly Fouta Jallo\nPeulh du Fouta Dialon\nPeuls du Fouta-Djallon\nPular Fuuta Djallo\nPulo-Futo-Dsalu"
+  },
+  "triggers": {
+    "lgcode": "\npeuhle\nriisinkoore\nkamuusu\nfuuta\nfulde\nfoullaniyya\nfrancuzskij\nfaransikoore\nfulfuldfe\nznachenii"
+  },
+  "identifier": {
+    "wals": "fgu",
+    "multitree": "fuf"
+  },
+  "classification": {
+    "sub": "**hh:g:Breedveld:Maasinankore**:6-13",
+    "subrefs": "\n**hh:g:Breedveld:Maasinankore**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pular (fuf-fuf) = 5* (Developing). De facto language of national identity."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Stodsde",
+    "hid": "jih",
+    "level": "language",
+    "iso639-3": "jih",
+    "latitude": "31.79891",
+    "longitude": "101.30739",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[rGyalrong (Jinchuan Erkai)](https://lexibank.clld.org/languages/naganorgyalrongic-JinchuanErkairGyalrong)\nhttps://www.wikidata.org/entity/Q25559440"
+  },
+  "sources": {
+    "glottolog": "\n**gj:qu07shangzhai**\n**hh:h:Hattaway:China**\n**hh:hwdial:Gates:Jiarong**\n**hh:typ:Qu:Jiarong-Shangzhai**\n**hh:typ:Sun:Puxi**\n**hh:typ:Sun:Shangzhai**\n**iso6393:2011-170**"
+  },
+  "altnames": {
+    "glottolog": "\nShangzhai",
+    "multitree": "\nDaofu\nErgong\nHorpa\nHorpa-Shangzhai\nShangzhai\nWestern Jiarong",
+    "lexvo": "\nShangzhai [en]",
+    "hhbib_lgcode": "\nJiarong-Shangzhai\nPuxi Shangzhai\nShangzai Horpa\nShangzai/sTosde\nShangzhai"
+  },
+  "triggers": {
+    "lgcode": "\npuxi"
+  },
+  "identifier": {
+    "multitree": "jih"
+  },
+  "classification": {
+    "sub": "**hh:s:Jacques:Stau** **hh:hwdial:Gates:Jiarong** **hh:v:Engels:Songlin**",
+    "subrefs": "\n**hh:hwdial:Gates:Jiarong**\n**hh:s:Jacques:Stau**\n**hh:v:Engels:Songlin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "sTodsde (jih-jih) = 6b* (Threatened). Language of recognized nationality: Tibetan."
+  }
+}

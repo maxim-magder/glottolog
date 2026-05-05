@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Iranun",
+    "hid": "ill",
+    "level": "language",
+    "iso639-3": "ill",
+    "latitude": "4.3362",
+    "longitude": "118.224",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Iranun](https://grambank.clld.org/languages/iran1262)\nhttps://en.wikipedia.org/wiki/Iranun_language\nhttps://www.wikidata.org/entity/Q12953581"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:he:Evans:Borneo**\n**hh:hew:Roth:Sarawak**\n**hh:hv:Allison:Danaw**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:t:McKaughan:Iranun**\n**hh:typ:McKaughan:Iranun**\n**hh:v:Banker:Illanun**\n**hh:w:Swettenham:Wild-Tribes**\n**iso6393:2009-089**\n**iso6393:2015-067**\n**sil16:41745**\n**sil16:44744**\n**sil16:46386**\n**sil16:46415**\n**sil16:48653**\n**sil16:48672**\n**sil16:48673**\n**sil16:48674**\n**sil16:48675**\n**sil16:48676**\n**sil16:48677**"
+  },
+  "altnames": {
+    "multitree": "\n\"Ilanun\"\nIllanoan\nIllanoon\nIllanos\nIllanun\nIranon Maranao\nIranum\nIranun\nLanoon\nLanun\nYlanos",
+    "lexvo": "\nIranun [en]",
+    "hhbib_lgcode": "\nIlanun\nIlanun of Sabah\nIlanuns\nIllanun\nIranun of Malaysia\nIranun of Sabah\nIranun of Tampassuk river\nIranun of the Philippines"
+  },
+  "triggers": {
+    "lgcode": "\niranuns\niranun\ntuladan\nNOT in AND iranun\nillanun"
+  },
+  "identifier": {
+    "multitree": "ill"
+  },
+  "classification": {
+    "sub": "**hh:hv:Allison:Danaw**",
+    "subrefs": "\n**hh:hv:Allison:Danaw**"
+  },
+  "iso_retirement": {
+    "change_request": "2015-067",
+    "remedy": "Split into Iranun (Philippines) [ilp] and Iranun (Malaysia) [ilm]",
+    "code": "ill",
+    "name": "Iranun",
+    "effective": "2016-01-15",
+    "reason": "split",
+    "change_to": "\nilp\nilm"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Iranun (ill-ill) = 6a (Vigorous)."
+  }
+}

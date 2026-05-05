@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Aewa",
+    "hid": "ash",
+    "level": "language",
+    "iso639-3": "ash",
+    "latitude": "-1.284096",
+    "longitude": "-75.084405",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Tequiraca](https://endangeredlanguages.com/lang/3665)\nhttps://www.wikidata.org/entity/Q2871740\nhttps://en.wikipedia.org/wiki/Tequiraca_language\nhttps://phoible.org/languages/abis1238",
+    "timespan": "1950-01-01/1950-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:decultura:nd**\n**cldf:ed:10**\n**cldf:hammarstroem:10:2**\n**cldf:lewis:paul:etal:ed:15**\n**fabreall2009ann:10073**\n**fabreall2009ann:7342**\n**fabreall2009ann:Awshiri1**\n**fabreall2009ann:Awshiri4**\n**fabreall2009ann:Awshiri6**\n**hh:ew:Espinosa:Tekiraka**\n**hh:h:Pierre:Oriente**\n**hh:h:Villarejo:Selva**\n**hh:he:Kastner:Ucayali**\n**hh:he:Reeve:Curaray**\n**hh:he:StewardMetraux:PEMontana**\n**hh:he:Villarejo:Selva**\n**hh:hv:Adelaar:Andes**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Villarejo:Idiomas-Selva**\n**hh:phon:MichaelBeier:Aiwa**\n**hh:s:BeierMichael:Aiwa**"
+  },
+  "altnames": {
+    "glottolog": "\nAbishira",
+    "multitree": "\nAbigira\nAbiquira\nAbishira\nAgouisiri\nAuishiri\nAuishiri (tekiraka)\nAvirxiri\nIxignor\nTequraca\nVacacocha",
+    "lexvo": "\nAbishira [en]",
+    "hhbib_lgcode": "\nAbijiras\nAbishira\nAh-Vacacocha Ism. Barrio\nAh-Vacacocha Tessmann\nAuischiri\nTekiraka\nVacacocha\nVacacochas",
+    "elcat": "\nAbigira\nAbiquira\nAbishira\nAgouisiri\nAuishiri\nAushiri\nAvirxiri\nAvishiri\nAvixiri\nIxignor\nTekiraka\nTequiraca\nTequraca\nVacacocha"
+  },
+  "triggers": {
+    "lgcode": "\navijiras\naiwa\ntekiraka\ntequiraca"
+  },
+  "identifier": {
+    "multitree": "ash",
+    "endangeredlanguages": "3665"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Adelaar:Andes**\n**hh:phon:MichaelBeier:Aiwa**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tequiraca (3665-ash) = Dormant [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

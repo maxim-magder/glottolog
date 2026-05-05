@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "East Yugur",
+    "hid": "yuy",
+    "level": "language",
+    "iso639-3": "yuy",
+    "latitude": "38.83687",
+    "longitude": "99.61725",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[East Yugur](https://endangeredlanguages.com/lang/1208)\nhttps://www.wikidata.org/entity/Q29902\nhttps://en.wikipedia.org/wiki/Eastern_Yugur_language\nhttps://phoible.org/languages/east2337\n[Shira Yughur](https://wals.info/languoid/lect/wals_code_shy)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:roche:suzuki:17**\n**cldf:roos:00**\n**hh:d:Bao:Dongbu-Yugu**\n**hh:d:Bolquluu:Dongbu-Yugu**\n**hh:d:Bolquluu:Dongbu-Yugu:2015**\n**hh:d:Yugur:Yugu**\n**hh:e:Mannerheim:Saro-Shera-Yogurs**\n**hh:hv:Nugteren:Qinghai-Gansu**\n**hh:phont:Chuluu:Yogur**\n**hh:s:Junast:Yugu**\n**hh:s:Nugteren:Yughur**\n**hh:s:TenisevTodaeva:ZeltyxUjgorov**\n**hh:t:Bolquluu:Dongbu-Yugu**\n**hh:w:Hermanns:Uigur-Angar**\n**mpieva:2003TheMongo**"
+  },
+  "altnames": {
+    "wals": "\nShira Yughur",
+    "ruhlen (1987)": "\nEast Yugur",
+    "moseley & asher (1994)": "\nYellow Uighur",
+    "multitree": "\nEast Yugur\nEastern Yogor\nEnger\nShera Yogur\nShira Yughur\nShira Yugur\nShira yougur\nYellow Uighur\nYogor\nYugar\nYugu\nYugur sira\nYugur, East\nYögur\nŠera-Yögur",
+    "lexvo": "\nEast Yugur [en]\nEastern Yugur language [en]\nJęzyk szera-jögurski [pl]\nYougoureg ar reter [br]\nYugur oriental [fr]\nИсточен југурски јазик [mk]\nШира-югурский язык [ru]\n东部裕固语 [zh]",
+    "hhbib_lgcode": "\nDongbu Yuguyu\nJegün Yogur\nShera Yogur\nShira Yugurov\nYugur-East",
+    "elcat": "\nEast Yugur\nEastern Yogor\nEnger\nMongolic Yellow Uighur\nShera Yogur\nShira Yughur\nShira Yugur\nYellow Uighur\nYogor\nYugar\nYugu\nYögur\nŠera-Yögur\n東部裕固語"
+  },
+  "triggers": {
+    "lgcode": "\nshira AND yughur\nyughur\njuanzhi"
+  },
+  "identifier": {
+    "wals": "shy",
+    "multitree": "yuy",
+    "endangeredlanguages": "1208"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nugteren:Qinghai-Gansu**",
+    "subrefs": "\n**hh:hv:Nugteren:Qinghai-Gansu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "East Yugur (1208-yuy) = Vulnerable (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

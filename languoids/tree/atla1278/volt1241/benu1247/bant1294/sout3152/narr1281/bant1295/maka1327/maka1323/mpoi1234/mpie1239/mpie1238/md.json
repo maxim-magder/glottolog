@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mpiemo",
+    "hid": "mcx",
+    "level": "language",
+    "iso639-3": "mcx",
+    "latitude": "3.45776",
+    "longitude": "15.5246",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "CG",
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35908\nhttps://en.wikipedia.org/wiki/Mpiemo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:26013**\n**eballiso2009:28365**\n**eballiso2009:28707**\n**eballiso2009:30457**\n**eballiso2009:40617**\n**eballiso2009:40801**\n**eballiso2009:41746**\n**eballiso2009:43629**\n**eballiso2009:43638**\n**eballiso2009:43644**\n**eballiso2009:52694**\n**eballiso2009:59984**\n**eballiso2009:6619**\n**eballiso2009:6621**\n**hh:h:ALAC:CAR**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:hld:Mololi:Mpiemo-Mbenzele**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Cheucle:Makaa-Njem**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Ouzilleau:Pygmees**\n**hh:ld:Thornell:Mpiemo**\n**hh:phon:Festen:Mpyemo**\n**hh:phon:ThornellNagano:Mpiemo**\n**hh:phontyp:Boubandet:Mpiemo**\n**hh:soc:Thornell:Mpiemo**\n**hh:t:DjendaKubik:Mpiemo**\n**hh:t:Thornell:Mpiemo**\n**hh:t:Thornell:Mpiemo:Verb**\n**hh:typ:Biandji:Mpyemo**\n**hh:typ:Biandji:Mpyemo:1989**"
+  },
+  "altnames": {
+    "multitree": "\nBimu\nMbimou\nMbimu\nMbyemo\nMpiemo\nMpo\nMpyemo",
+    "lexvo": "\nMpiemo [en]",
+    "hhbib_lgcode": "\nA86c_Mpiemo\nMbimu\nMbimu et Bidjuki\nMpiémo\nMpo 4 d. mpiemo Cameroun\nMpo 5 d. mpiemo Centrafrique\nMpo-Mpiemo"
+  },
+  "triggers": {
+    "lgcode": "\nmpiemo\npeche\nmpiemos\nmpyemo"
+  },
+  "identifier": {
+    "multitree": "mcx"
+  },
+  "classification": {
+    "sub": "**hh:phon:Festen:Mpyemo**",
+    "subrefs": "\n**hh:phon:Festen:Mpyemo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mpyemo (mcx-mcx) = 6a* (Vigorous)."
+  }
+}

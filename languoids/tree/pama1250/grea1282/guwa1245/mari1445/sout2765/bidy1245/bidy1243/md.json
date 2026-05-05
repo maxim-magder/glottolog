@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bidyara",
+    "hid": "bym",
+    "level": "language",
+    "iso639-3": "bym",
+    "latitude": "-25.192664",
+    "longitude": "147.273359",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Bidjara](https://endangeredlanguages.com/lang/4020)\n[Bidjara / Bidyara](https://collection.aiatsis.gov.au/austlang/language/e37)\nhttps://phoible.org/languages/bidy1243\nhttps://www.wikidata.org/entity/Q8842355",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:g:Breen:Bidyara**\n**hh:hv:Breen:Biri**\n**hh:hv:Breen:Western-Queensland**\n**hh:hv:Sutton:Gugu-Badhun**\n**hh:hvw:Barrett:Maric**\n**hh:hvw:Breen:Western-Queensland:1971**\n**hh:hvwphon:Holmer:South-Eastern-Queensland**\n**hh:vw:Breen:Upper-Barcoo**\n**hh:w:Ahern:Alice**\n**hh:w:Conn:Upper-Warrego**\n**hh:w:Dalhunty:Tambo**\n**hh:w:Hydeetal:Barcoo-River**\n**hh:w:Lookeretal:Paroo-Warrego**\n**hh:w:Powell:Mokaburra**\n**iso6393:2018-021**\n**ozbib:2038**\n**ozbib:2918**\n**ozbib:613**\n**ozbib:6288**\n**ozbib:767**"
+  },
+  "altnames": {
+    "multitree": "\nBidjara\nBidjera\nBidyara\nBithara\nBitjara\nMinkabari\nPeachera\nPeechera\nPitjara\nPitteroo\nWilya",
+    "lexvo": "\nBidyara [en]",
+    "hhbib_lgcode": "\n155 Barcoo River\nBidjara\nConn\nDharawala\nEnniskillen\nIningai\nNguri\nRavensbourne\nSolomon Torra Bell Tara Tambo Conn Holt Alice Black Yangee Mt E\nTarawalla\nWadjabangai\nWadjabangayi\nWadjalang\nYandjibara\nYangeeberra\nYiningai\nYiningayi",
+    "elcat": "\nBidjara\nBidjera\nBidyara\nBithara\nBitjara\nMinkabari\nPeachera\nPeechera\nPitjara\nPitteroo\nWilya",
+    "aiatsis": "\nBidjara / Bidyara\nBidjera\nBithara\nBitharra\nBitjara\nMinkabari\nPeachera\nPeechera\nPitjara\nPitteroo\nWilya"
+  },
+  "triggers": {
+    "lgcode": "\ngungabula\nblackall\nravensbourne"
+  },
+  "identifier": {
+    "multitree": "bym",
+    "endangeredlanguages": "4020"
+  },
+  "classification": {
+    "sub": "**hh:vw:Breen:Upper-Barcoo**",
+    "subrefs": "\n**hh:vw:Breen:Upper-Barcoo**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bidjara (bym-bym) = 10 (Extinct)."
+  }
+}

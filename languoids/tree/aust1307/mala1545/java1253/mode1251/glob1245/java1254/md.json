@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Javanese",
+    "hid": "jav",
+    "level": "language",
+    "iso639-3": "jav",
+    "latitude": "-7.001",
+    "longitude": "109.287",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\n[Javanese](https://grambank.clld.org/languages/java1254)\n[Javanese](https://wals.info/languoid/lect/wals_code_jav)\nhttps://phoible.org/languages/java1254"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:96:15**\n**cldf:chelliah:dereuse:ed:97:10**\n**cldf:chelliah:dereuse:ed:97:8**\n**cldf:dahl:85**\n**cldf:davies:93:1**\n**cldf:davies:93:2**\n**cldf:dewey:62**\n**cldf:ewing:05**\n**cldf:ewing:95**\n**cldf:fagan:88**\n**cldf:geertz:60**\n**cldf:geertz:61**\n**cldf:geertz:63**\n**cldf:geertz:65**\n**cldf:goebel:02**\n**cldf:grant:64**\n**cldf:herrfurth:64**\n**cldf:janse:ed:98:2**\n**cldf:janse:ed:98:3**\n**cldf:janse:ed:98:4**\n**cldf:janse:ed:98:5**\n**cldf:janse:ed:98:8**\n**cldf:jay:63**\n**cldf:jay:69**\n**cldf:kahin:63**\n**cldf:koentjaraningrat:60**\n**cldf:koentjaraningrat:61**\n**cldf:koentjaraningrat:67**\n**cldf:myhill:93**\n**cldf:myhill:94**\n**cldf:noordenbos:41**\n**cldf:np:95:9**\n**cldf:ogloblin:01**\n**cldf:poedjosoedarmo:06**\n**cldf:prijohoetomo:37**\n**cldf:ras:85**\n**cldf:santamaria:rivai:etal:ed:81:4**\n**cldf:sugiarto:93**\n**cldf:thurgood:04**\n**cldf:uhlenbeck:63**\n**cldf:walbeehm:15**\n**cldf:wouk:ed:02:1**\n**cldf:xrakovskij:ed:01:8**\n**hh:d:Adiwimarta:Jawa**\n**hh:d:Djupri:Suroboyoan**\n**hh:d:Egner:Javanese**\n**hh:d:Favre:Javanaise**\n**hh:d:Gericke:Javaansch**\n**hh:d:Herrfurth:Djawanisch**\n**hh:d:Horne:Javanese**\n**hh:d:Kosadi:Cirebon**\n**hh:d:Nardiati:Jawa**\n**hh:d:Patmadiwiria:Banten**\n**hh:d:Pigeaud:Javanese**\n**hh:d:RobsonWibisono:Javanese**\n**hh:d:Rusydi:Jawa**\n**hh:d:Sudjana:Cirebon**\n**hh:d:Sugiarto:Kamus**\n**hh:d:Walbeehm:Tegal**\n**hh:dial:Baribin:Jawa-Pekalongan**\n**hh:dial:Hariyadi:Jawa-Surabaya**\n**hh:dial:Hoogervorst:East-Javanese**\n**hh:dial:Kisyani:Blambangan**\n**hh:dial:Kisyani:Blambangan:2004**\n**hh:dial:Kisyani:Jawa-Mojokerto**\n**hh:dial:Kisyani:Tuban**\n**hh:dial:Kisyani:Ujung-Pangkah**\n**hh:dial:Komariyah:Jawa-Trenggalek**\n**hh:dial:Lestari:Jember**\n**hh:dial:Meutiawati:Jawa-Serang**\n**hh:dial:Nothofer:Zentral-Java**\n**hh:dial:Nur:Brebes**\n**hh:dial:Sabariyanto:Jawa-Jepara**\n**hh:dial:Sasangka:Cirebon**\n**hh:dial:Soedjarwo:Jawa-Rembang**\n**hh:dial:Soetoko:Jawa-Surabaya**\n**hh:dial:Sudaryono:Jawa-Demak**\n**hh:dial:Sunaryo:Jawa-Tuban**\n**hh:g:Dudas:Javanese**\n**hh:g:Favre:Javanaise**\n**hh:g:Kiliaan:Javaansche**\n**hh:g:Klok:Paciran-Javanese**\n**hh:g:Poensen:Javaansche**\n**hh:g:Ras:Javaans**\n**hh:g:Robson:Javanese**\n**hh:g:Roorda:Javaansche**\n**hh:g:Suharno:Javanese**\n**hh:g:Wedhawati:Jawa**\n**hh:g:deHollander:Javaansche**\n**hh:h:Nothofer:Central-Javanese**\n**hh:hb:Teeuw:Malay-Bahasa**\n**hh:hb:Uhlenbeck:Java-Madura**\n**hh:hew:Crawfurd:Indian:1820**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:Dempwolff:Austronesisches**\n**hh:hvw:Mardjana:Djawa**\n**hh:hvw:Marsden:East-Insular**\n**hh:hvw:Nothofer:West-Java**\n**hh:ld:Suwartono:Jawa-Banyumas**\n**hh:phon:Hoogervorst:Surabaya**\n**hh:phon:Samsuri:Javanese**\n**hh:phonsoc:Walbeehm:Javaansche**\n**hh:phonsoctyp:Yannuar:Malangan**\n**hh:s:Bruckner:Javaansche**\n**hh:s:Cornets:Javaansche**\n**hh:s:Esser:Banjoemas**\n**hh:s:Ewing:Cirebon-Javanese**\n**hh:s:Gericke:Javaansche**\n**hh:s:Horne:Javanese**\n**hh:s:Iskandarwassid:Jawa-Banten**\n**hh:s:Kats:Javaansch**\n**hh:s:Krausse:Surabayan-Javanese**\n**hh:s:Nurlina:Jawa**\n**hh:s:Ogloblin:Javanese**\n**hh:s:Paryono:Jawa**\n**hh:s:Roorda:Javaansche:1874**\n**hh:s:Smith:Tjirebon**\n**hh:s:Soenardji:Jawa**\n**hh:s:Sudiroatmadja:Javanese**\n**hh:s:Sumukti:Javanese**\n**hh:s:Suwadji:Jawa-Pesisir-Utara-Jateng**\n**hh:s:Suwadji:Jawa:1986**\n**hh:s:Tatasastra:Paramabasa**\n**hh:s:Teselkin:Yavanskij**\n**hh:s:Walbeehm:Djapara**\n**hh:s:diKaria:Banten**\n**hh:soc:Kartomihardjo:East-Java**\n**hh:std:Cornets:Javaansche**\n**hh:typ:Ekowardono:Jawa-Baku**\n**hh:typ:Poedjosoedarmo:Javanese**\n**hh:typ:Supardo:Jawa-Banyumas**\n**hh:w:Clynes:Javanese**\n**hh:w:Groneman:Javaansch**\n**hh:w:Kanisius:Unggah-Ungguh**\n**hh:w:Pallas:Vocabularia**\n**hh:w:vanHinloopen:Malang**\n**mpieva:Bintoro1980Javanese**\n**mpieva:Dempwolff1969Vergleic**\n**mpieva:Edmondson1993Tonality**\n**mpieva:Errington1998Shifting**\n**mpieva:Esser1928Hetdiale**\n**mpieva:Robson2002Javanese**\n**mpieva:Teselkin1961Javanski**\n**mpieva:Uhlenbeck1949Destruct**\n**mpieva:Uhlenbeck1978Studiesi**\n**mpieva:Verhaar19751990Miscella**\n**mpieva:Vruggink2001Surinaam**\n**sil16:15254**\n**sil16:16653**\n**sil16:35057**\n**sil16:35855**\n**sn:Ras1982**"
+  },
+  "altnames": {
+    "wals": "\nJavanese",
+    "ruhlen (1987)": "\nJavanese",
+    "moseley & asher (1994)": "\nJavanese",
+    "multitree": "\nDjawa\nJava\nJavanese\nJavanic\nJavanisch\nJawa\nKawi",
+    "lexvo": "\nBahasa Banyumasan [id]\nBanjumasa lingvo [eo]\nBanyumasan [fr]\nBanyumasan language [en]\nBasa Banyumasan [jv]\nJavanese [en]\nJęzyk banjumasański [pl]\njavanais [fr]\nБанюмасанский язык [ru]\nภาษาบันยูมาซัน [th]\nባኙማሳን [am]\nバニュマス語 [ja]",
+    "hhbib_lgcode": "\n5xJavanese\nBahasa Jawa\nBanjoemas\nBanten\nBanten Javanese\nBanyumas\nBrebes\nCirebon\nCirebon Javanese\nDjapårå\nEast Javanese\nEastern Javanese\nIndramajoe\nIndramayu\nJavaans\nJavanese of Surakarta\nJawa\nKrama Inggil high register\nKrama Madya register not too formal not too informal\nMalang\nMalangan Javanese\nNgoko register for intimate relations\nPaciran Javanese\nPesisir Utara Jateng\nSurabayan Javanese\nSurinamese Javanese\nSuroboyoan\nTjirebon\nTĕgal\nWestern Javanese\nYavanski"
+  },
+  "triggers": {
+    "lgcode": "\nbaku\njavanskij\njavanaise\nyavanskij\njavaansche\njavanese\ndjawanish\ntegal"
+  },
+  "identifier": {
+    "wals": "jav",
+    "multitree": "jav;java"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith:Malayo-Polynesian** **hh:hv:Ross:Batanic** **hh:hv:Adelaar:Austronesian-Asia-Madagascar** **hh:hv:Smith:Borneo**",
+    "subrefs": "\n**hh:hv:Adelaar:Austronesian-Asia-Madagascar**\n**hh:hv:Smith:Malayo-Polynesian**\n**hh:hv:Smith:Borneo**\n**hh:hv:Ross:Batanic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Javanese (jav-jav) = 4 (Educational). De facto language of provincial identity in central and eastern Java."
+  }
+}

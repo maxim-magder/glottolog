@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Northeastern Timbira",
+    "hid": "xre",
+    "level": "language",
+    "iso639-3": "xre",
+    "latitude": "-4.199179",
+    "longitude": "-44.8295387",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kreye](https://endangeredlanguages.com/lang/2670)\nhttps://en.wikipedia.org/wiki/Kr%E1%BA%BDje_language\nhttps://www.wikidata.org/entity/Q3199686",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:e:Nimuendaju:Timbira**\n**hh:w:NimuendajuUnkel:Crengez**\n**hh:w:NimuendajuUnkel:Timbiras**"
+  },
+  "altnames": {
+    "multitree": "\nBacabal\nCanela\nCrange\nCrenge\nCrengez\nCrenye\nCreye\nGavião du Pará\nGavião pukobiê\nKanela\nKrahó\nKrahô\nKrem-Ye\nKremye\nKrenjé\nKrenjê\nKreye\nKrikati\nPukobyé\nPukobyê\nTage\nTaze\nTimbira",
+    "lexvo": "\nKreye [en]\nKreye language [en]",
+    "hhbib_lgcode": "\nKreye of Bacabal\nKukoekamekra of Bacabal\nMehi Aldea Araparityua linken Ufer des oberen Gurupy\nTaje on the lower Mearim\nTimbira of Araparytiua (Gurupy)",
+    "elcat": "\nBacabal\nCanela\nCrange\nCrenge\nCrengez\nCrenye\nCreye\nKanela\nKrahó\nKrem-Ye\nKremye\nKrenjé\nKreye\nPukobyé\nTage\nTaze"
+  },
+  "triggers": {
+    "lgcode": "\ncrengez\nkre\ngurupi"
+  },
+  "identifier": {
+    "multitree": "xre",
+    "endangeredlanguages": "2670"
+  },
+  "classification": {
+    "sub": "**hh:e:Nimuendaju:Timbira**:6 **hh:hvld:Alves:Timbira**",
+    "subrefs": "\n**hh:e:Nimuendaju:Timbira**\n**hh:hvld:Alves:Timbira**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kreye (xre-xre) = 9 (Dormant)."
+  }
+}

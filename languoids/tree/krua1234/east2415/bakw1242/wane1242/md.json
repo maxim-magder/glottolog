@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Wané",
+    "hid": "hwa",
+    "level": "language",
+    "iso639-3": "hwa",
+    "latitude": "4.85171",
+    "longitude": "-6.44406",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914887\nhttps://en.wikipedia.org/wiki/Wan%C3%A9_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:FrickBolli:CotedIvoire**\n**hh:hw:Delafosse:CotedIvoire**"
+  },
+  "altnames": {
+    "glottolog": "\nWane",
+    "multitree": "\nHwane\nNgwané\nWané",
+    "lexvo": "\nWané [en]",
+    "hhbib_lgcode": "\nHouané"
+  },
+  "triggers": {
+    "lgcode": "\ndivoire AND inventaire"
+  },
+  "identifier": {
+    "multitree": "hwa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:38-60 **hh:hv:Marchese:Kru:1989** **hh:hv:Zogbo:Kru**",
+    "subrefs": "\n**hh:hv:Zogbo:Kru**\n**hh:hv:Vogler:Kru:2017**\n**hh:hv:Marchese:Kru:1989**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wané (hwa-hwa) = 6b* (Threatened)."
+  }
+}

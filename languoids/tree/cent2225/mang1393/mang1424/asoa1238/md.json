@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Asoa",
+    "hid": "asv",
+    "level": "language",
+    "iso639-3": "asv",
+    "latitude": "2.26818",
+    "longitude": "26.7198",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Asoa](https://grambank.clld.org/languages/asoa1238)\nhttps://en.wikipedia.org/wiki/Asoa_language\nhttps://www.wikidata.org/entity/Q56296"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:25799**\n**eballiso2009:26830**\n**eballiso2009:54713**\n**hh:e:Beccari:Due-Pigmei**\n**hh:e:MantegazzaZannetti:Due-Akka**\n**hh:h:Giglioli:Akka**\n**hh:h:Vorbichler:Waldnegern-Pygmaen**\n**hh:hew:Harvey:Bali**\n**hh:hvw:Kilian-Hatz:Pygmies**\n**hh:s:Beltrame:Akka**\n**hh:w:Demolin:Mangbetu**\n**hh:w:Larochette:Asua-Aka-Lombi**"
+  },
+  "altnames": {
+    "multitree": "\nAka\nAsoa\nAsua\nAsuae\nAsuati",
+    "lexvo": "\nAsoa [en]",
+    "hhbib_lgcode": "\nAbulu although its grammar and lexicon differ significantly\nAka noted down in Medje\nAkka\nAsua\nAsua pres de Kisanga entre Balele et Poko\nAsua-ti spoken among the Abulu-ti\nBafwadili Vaiyana\nBangelegu Ngelegu"
+  },
+  "triggers": {
+    "lgcode": "\nvom AND zwerge"
+  },
+  "identifier": {
+    "multitree": "asv"
+  },
+  "classification": {
+    "sub": "**hh:phon:Demolin:Mangbetu**",
+    "subrefs": "\n**hh:phon:Demolin:Mangbetu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Asoa (asv-asv) = 6a* (Vigorous)."
+  }
+}

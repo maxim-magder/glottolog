@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Bodo-Mech",
+    "hid": "brx",
+    "level": "language",
+    "iso639-3": "brx",
+    "latitude": "26.1",
+    "longitude": "92.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Bodo](https://wals.info/languoid/lect/wals_code_bod)\n[Bodo-Mech](https://grambank.clld.org/languages/bodo1269)\nhttps://en.wikipedia.org/wiki/Boro_language_(India)\nhttps://phoible.org/languages/bodo1269\nhttps://www.wikidata.org/entity/Q33223"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:subbarao:devi:etal:00**\n**cldf:subbarao:murthy:00**\n**hh:d:Brahma:Bodo**\n**hh:es:Hodgson:Kocch-Bodo-Dhimal**\n**hh:ew:Sanyal:Meches**\n**hh:g:Bhattacharya:Boro**\n**hh:g:Bhattacharya:Boro:1965**\n**hh:g:Narzary:Bodo**\n**hh:g:Swargiary:North-Central-Bodo**\n**hh:hew:Dalton:Bengal**\n**hh:hv:Basumatary:Boros-Rabhas**\n**hh:hv:Wood:Proto-Boro-Garo**\n**hh:hvw:Damant:Brahmaputra-Ningtri**\n**hh:hvw:Grierson:3:II**\n**hh:lde:Skrefsrud:Mecherne**\n**hh:phon:Mushahary:Bodo**\n**hh:phontyp:Sarma:Bodo**\n**hh:s:Basumatary:Bodo-Syntax**\n**hh:s:Basumatary:Boro**\n**hh:s:Bhat:Boro**\n**hh:s:Bhrama:Bodo**\n**hh:s:Brahma:Bodo-Dimasa**\n**hh:s:Chaudhury:Bodo**\n**hh:s:Muchahary:Mech**\n**hh:s:Perumalsamy:Bodo**\n**hh:soc:Daimari:Bodo-Udalguri**\n**hh:soc:Sapkota:Meche**\n**hh:ssoc:Basumatary:Boro**\n**hh:st:Kiryu:Meche**\n**hh:typ:Basumatary:Bodo**\n**hh:w:Campbell:Mechis**\n**hh:w:Kumar:Bodo**\n**mpieva:1985BodoEngl**\n**mpieva:Bara2001Thehisto**\n**mpieva:Brahma1996BodoEngl**"
+  },
+  "altnames": {
+    "wals": "\nBodo",
+    "wals other": "\nBoro",
+    "ruhlen (1987)": "\nBoro",
+    "moseley & asher (1994)": "\nBodo",
+    "multitree": "\nBara\nBodi\nBodo\nBoro\nBoroni\nKachari\nMech\nMeche\nMechi\nMeci",
+    "lexvo": "\nBodo (India) [en]\nBodo [de]\nBodo jezik [sh]\nBodo language [en]\nBodoa lingvo [eo]\nBodoeg [br]\nBodon kieli [fi]\nIdioma bodo [es]\nJęzyk bodo [pl]\nLingua Bodo [la]\nLingua bodo [it]\nLíngua bodo [pt]\nБодо [ru]\nБодо језик [sr]\nबोडो भाषा [hi]\nবড়ো ভাষা [as]\nবোড়ো ভাষা [bn]\nબોડો ભાષા [gu]\nபோடோ மொழி [ta]\nബോഡോ [ml]\nภาษาโบโด [th]\nボド語 [ja]\n博多语 [zh]\n보도어 [ko]",
+    "hhbib_lgcode": "\nBodo\nBodo (India)\nBodo Udalguri\nBodo of Chirang in Assam\nEastern Bodo\nMech\nMeche\nMechis\nMes/Mech\nNorth Central Dialect of Bodo\nSanzari Bodo\nSouthern Bodo\nWestern Boro"
+  },
+  "triggers": {
+    "lgcode": "\nmeches\nba{ra{"
+  },
+  "identifier": {
+    "wals": "bod",
+    "multitree": "brx"
+  },
+  "classification": {
+    "sub": "**hh:hv:PostBurling:NEIndia**:225-226",
+    "subrefs": "\n**hh:hv:PostBurling:NEIndia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mech (1195-brx) = Severely endangered; Bodo (1229-brx) = Vulnerable"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lou",
+    "hid": "loj",
+    "level": "language",
+    "iso639-3": "loj",
+    "latitude": "-2.38659",
+    "longitude": "147.346",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Lou](https://grambank.clld.org/languages/louu1245)\n[Lou](https://lexibank.clld.org/languages/abvdoceanic-Lou)\n[Lou](https://wals.info/languoid/lect/wals_code_lou)\nhttps://en.wikipedia.org/wiki/Lou_language_(Austronesian)\nhttps://www.wikidata.org/entity/Q3260104"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:75:1**\n**hh:d:Keliwin:Lou**\n**hh:hv:Ross:WMelanesia**\n**hh:s:Stutzman:Lou**\n**hh:s:Stutzman:Lou:1994**\n**hh:w:Blust:Lou**\n**hh:w:Friederici:Nakanai**\n**ldh:item_407856**\n**mpieva:Stutzman1997Astudyof**\n**sil16:37389**\n**silpng:silpng1991-2000:1177**\n**silpng:silpng1991-2000:1178**\n**silpng:silpng1991-2000:1179**\n**silpng:silpng1991-2000:1180**\n**silpng:silpng1991-2000:1181**\n**silpng:silpng1991-2000:1182**\n**silpng:silpng1991-2000:1183**\n**silpng:silpng1991-2000:1184**\n**silpng:silpng1991-2000:1185**\n**silpng:silpng1991-2000:1186**\n**silpng:silpng1991-2000:1187**\n**silpng:silpng1991-2000:1188**\n**silpng:silpng1991-2000:1189**\n**silpng:silpng1991-2000:1190**\n**silpng:silpng1991-2000:1191**\n**silpng:silpng1991-2000:1192**\n**silpng:silpng1991-2000:1193**\n**silpng:silpng1991-2000:1194**"
+  },
+  "altnames": {
+    "wals": "\nLou",
+    "ruhlen (1987)": "\nBaluan-Lou-Pam",
+    "moseley & asher (1994)": "\nLou",
+    "multitree": "\nAdmiralitäts-inseln\nLou",
+    "lexvo": "\nLou [en]",
+    "hhbib_lgcode": "\nUmre and Umboa auf Insel Lou (Admiralitäts-Inseln Matankor)"
+  },
+  "triggers": {
+    "lgcode": "\nsopol\nmwang\nnenewa\nteli\nwaawaa\nkapwete\nlou\nketin\nnesek"
+  },
+  "identifier": {
+    "wals": "lou",
+    "multitree": "loj"
+  },
+  "classification": {
+    "sub": "**hh:g:Schokkin:Paluai**:3",
+    "subrefs": "\n**hh:g:Schokkin:Paluai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lou (loj-loj) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Tambunan Dusun",
+    "hid": "kzt",
+    "level": "dialect",
+    "iso639-3": "kzt",
+    "latitude": "5.68284",
+    "longitude": "116.373",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Tambunan Dusun](https://grambank.clld.org/languages/tamb1254)\nhttps://www.wikidata.org/entity/Q12953514"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2015-060**\n**sil16:31667**"
+  },
+  "altnames": {
+    "multitree": "\nDusun, Tambunan\nTambunan",
+    "lexvo": "\nTambunan Dusun [en]",
+    "hhbib_lgcode": "\n(9) Dusun Tambunan (DTAMB)\nDusun-Tambunan\nKadazan-Tambunan\nPapar and Tambunan Dusun\nTambunam\nTambunan"
+  },
+  "triggers": {
+    "lgcode": "\ntinombunan\ntambunan"
+  },
+  "identifier": {
+    "multitree": "kzt"
+  },
+  "classification": {
+    "sub": "**hh:hdialsoc:BankerBanker:Kadazan-Dusun**",
+    "subrefs": "\n**hh:hdialsoc:BankerBanker:Kadazan-Dusun**"
+  },
+  "iso_retirement": {
+    "change_request": "2015-060",
+    "remedy": "merged into [dtp] Kadazan Dusun",
+    "code": "kzt",
+    "name": "Tambunan Dusun",
+    "effective": "2016-01-15",
+    "reason": "merge",
+    "change_to": "\ndtp"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Dusun, Tambunan (kzt-kzt) = 6b (Threatened)."
+  }
+}

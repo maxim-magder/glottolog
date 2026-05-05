@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Northeast Chiapas Zoque",
+    "hid": "zor",
+    "level": "language",
+    "iso639-3": "zor",
+    "latitude": "17.2953",
+    "longitude": "-93.1006",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12954015\n[Zoque (Rayon)](https://wals.info/languoid/lect/wals_code_zqr)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Cundapi:Zoque**\n**hh:d:HarrisonHarrison:Zoque-Rayon**\n**hh:e:Villa:Zoques**\n**hh:g:Faarland:Chiapas-Zoque**\n**hh:g:Gonzalez:Zoque**\n**hh:styp:Ramirez:Zoque-Ocotepec**\n**hh:typ:delaCruz:Zoque-Ocotepec**"
+  },
+  "altnames": {
+    "glottolog": "\nRayon Zoque\nRayón Zoque",
+    "wals": "\nZoque (Rayon)",
+    "wals other": "\nRayon\nZoque",
+    "ruhlen (1987)": "\nSokean",
+    "moseley & asher (1994)": "\nZoque",
+    "multitree": "\nChiapas Soke\nNortheast Zoque A\nOcotepec\nPantepec\nRayón\nSoke\nTapalapa\nZoque\nZoque (Rayon)\nZoque de Rayón\nZoque, Rayón",
+    "lexvo": "\nRayón Zoque [en]",
+    "hhbib_lgcode": "\n= Rayón Zoque\nMostly Rayón Zoque\nMostly Tapalapa\nOcotepec\nOcotepec/Tapalapa\nRayón Zoque\nTuxtla-Coyatóc Zoque\nZoque de Ocotepec-Chiapas"
+  },
+  "triggers": {
+    "lgcode": "\nrayon"
+  },
+  "identifier": {
+    "wals": "zqr",
+    "multitree": "zor"
+  },
+  "classification": {
+    "sub": "**hh:sv:Zavala:Jitotolteco**",
+    "subrefs": "\n**hh:sv:Zavala:Jitotolteco**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zoque, Rayón (zor-zor) = 7 (Shifting)."
+  }
+}

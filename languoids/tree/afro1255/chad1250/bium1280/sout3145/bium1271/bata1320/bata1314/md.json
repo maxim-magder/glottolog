@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bata",
+    "hid": "bta",
+    "level": "language",
+    "iso639-3": "bta",
+    "latitude": "9.68091",
+    "longitude": "12.677",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Mwulyen](https://lexibank.clld.org/languages/kraftchadic-Mwulyen)\nhttps://en.wikipedia.org/wiki/Bata_language\nhttps://www.wikidata.org/entity/Q56254"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**eballiso2009:25886**\n**eballiso2009:51561**\n**eballiso2009:5913**\n**hh:b:Struck:NNigeria**\n**hh:h:Blench:Atlas**\n**hh:h:Temple:NNigeria**\n**hh:hel:Sommer:Survey**\n**hh:hew:Meek:Tribal:I**\n**hh:hvw:Latham:African:Recent**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Benton:WSudan**\n**hh:hw:Mouchet:Quinze**\n**hh:hw:Strumpell:Adamauas**\n**hh:hw:Strumpell:Mandara-Adamaua**\n**hh:vsoc:Rueck:Bwatiye**\n**hh:w:Barth:Batta**\n**mpieva:1992Anindexo**"
+  },
+  "altnames": {
+    "multitree": "\nBata\nBata Group\nBatta\nBete\nBirsa\nBiu-Mandara A.8\nDemsa Bata\nDii\nDunu\nGboati\nGbwata\nGbwate\nGwate\nKofa\nKota\nMuleng",
+    "lexvo": "\nBata [en]\nBata language [en]",
+    "hhbib_lgcode": "\nBata (Furo)\nBata (Njoboliyo)\nBatta\nBatta (Ribaw)\nBatta (other dialect)\nBatta-Demssa\nBatta-Garrua of Barth\nBatta-Garua\nBaza\nKofa speak the same language as Malabu\nMalabu\nNorthern dialect of Bata\nSong Bata (Murke)\nWadi\nZumu (Jimo)"
+  },
+  "triggers": {
+    "lgcode": "\nwestern AND richardsons\nbriefe"
+  },
+  "identifier": {
+    "multitree": "biun;bta"
+  },
+  "classification": {
+    "sub": "**hh:v:Carnochan:Bachama**:459-460 **hh:vsoc:Rueck:Bwatiye**",
+    "subrefs": "\n**hh:v:Carnochan:Bachama**\n**hh:vsoc:Rueck:Bwatiye**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bata (bta-bta) = 6a (Vigorous)."
+  }
+}

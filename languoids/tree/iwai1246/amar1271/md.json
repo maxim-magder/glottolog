@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Amurdak",
+    "hid": "amg",
+    "level": "language",
+    "iso639-3": "amg",
+    "latitude": "-11.9876",
+    "longitude": "132.878",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Amurdak](https://endangeredlanguages.com/lang/1382)\n[Amurdak](https://collection.aiatsis.gov.au/austlang/language/n47)\nhttps://en.wikipedia.org/wiki/Amurdak_language\nhttps://phoible.org/languages/amar1271\nhttps://www.wikidata.org/entity/Q3360016"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Mailhammer:Iwaidjan**",
+    "subrefs": "\n**hh:vtyp:Mailhammer:Iwaidjan**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:harrison:07**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:mailhammer:12**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**hh:hv:Capell:Arnhem**\n**hh:hv:Evans:Macassan-Top-End**\n**hh:s:Handelsmann:Amurdak**\n**hh:typ:Mailhammer:Amurdak**\n**hh:w:Capell:Forty-North-Australian**\n**iso6393:2011-118**\n**mpieva:Handelsmann1991Towardsa**\n**ozbib:1627**\n**ozbib:1933**\n**ozbib:2541**\n**ozbib:2653**\n**ozbib:5400**\n**ozbib:6796**\n**ozbib:6799**"
+  },
+  "altnames": {
+    "glottolog": "\nAmarag",
+    "lexvo": "\nAmarag [en]\nAmurdag [no]\nAmurdag language [en]",
+    "hhbib_lgcode": "\n4 Amarag\nAmarag",
+    "elcat": "\nA'moordiyu\nAmarag\nAmarak\nAmardak\nAmurag\nAmurdag\nAmurdak\nAmurrag\nAmurrak\nAmurtak\nAmuruk\nMamurug\nMonobar\nNamurug\nNga:mr:rak\nNga:mu:rak\nNgamurag\nNgamurak\nUmoreo\nUmoriu\nUmorrdak\nWardadjbak\nWoraidbug\nWureidbug",
+    "aiatsis": "\nA'moordiyu\nAmarag\nAmarak\nAmardak\nAmooridiyu\nAmurag\nAmurdag\nAmurdak\nAmurrag\nAmurrak\nAmurtak\nAmuruk\nIwaidjan\nMamurug\nMono bar\nMonobar\nNamurug\nNgamrrak\nNgamurag\nNgamurak\nUmoordak\nUmoreo\nUmoriu\nWardadjbak\nWoraidbug"
+  },
+  "triggers": {
+    "lgcode": "\namurdak"
+  },
+  "identifier": {
+    "endangeredlanguages": "1382"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Amurdak (1382-amg) = Critically Endangered (20 percent certain, based on the evidence available) [Mailhammer 2012](cldf:mailhammer:12)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Southern Cook Island Maori",
+    "hid": "rar",
+    "level": "language",
+    "iso639-3": "rar",
+    "latitude": "-21.23",
+    "longitude": "-159.78",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "AU",
+      "CK",
+      "NZ",
+      "PF"
+    ],
+    "links": "\n[Rarotongan](https://lexibank.clld.org/languages/abvdoceanic-Rarotongan)\n[Rarotongan_58](https://lexibank.clld.org/languages/walworthpolynesian-Rarotongan)\n[Southern Cook Island Maori](https://grambank.clld.org/languages/raro1241)\n[Southern Cook Islands Māori](https://endangeredlanguages.com/lang/2519)\nhttps://en.wikipedia.org/wiki/Cook_Islands_M%C4%81ori\nhttps://www.wikidata.org/entity/Q36745"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:allen:96**\n**cldf:baltaxe:75**\n**cldf:bauer:evans:93**\n**cldf:bellwood:95**\n**cldf:buck:34**\n**cldf:buck:93**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:crocome:91**\n**cldf:ed:10**\n**cldf:foster:crocombe:etal:12**\n**cldf:gill:79**\n**cldf:gill:94**\n**cldf:gilson:ed:80**\n**cldf:islands:14**\n**cldf:lewis:ed:09**\n**cldf:marck:96**\n**cldf:mokoroa:81**\n**cldf:nicholas:18**\n**cldf:np:14:5**\n**cldf:np:17:1**\n**cldf:np:nd:210**\n**cldf:np:nd:264**\n**cldf:office:11**\n**cldf:reilly:07**\n**cldf:reilly:09**\n**cldf:savage:80**\n**cldf:scott:91**\n**cldf:sissons:89**\n**cldf:smith:98:1**\n**cldf:walter:10**\n**cldf:williams:01**\n**elpub:ldd138**\n**hh:d:BuseTaringa:Cook-Islands-Maori**\n**hh:d:Savage:Rarotonga**\n**hh:g:Nicholas:Southern-Cook-Islands-Maori**\n**hh:hew:Gill:Southern-Isles**\n**hh:s:Buse:Rarotongan**\n**hh:s:Buzacott:Rarotongan**\n**hh:s:CarpentierBeaumont:Cook-Islands-Maori**\n**hh:s:Pearson:Aitutakian**\n**hh:typ:Buse:Rarotongan-Negative**\n**hh:typ:Buse:Rarotongan-Pronouns**\n**hh:typ:Buse:Rarotongan:Morphology**\n**hh:typ:Buse:Rarotongan:Sentence**\n**hh:typ:Buse:Rarotongan:Verbal**\n**hh:typ:Horton:Cook-Islands-Maori**\n**mpieva:Buse1995CookIsla**\n**mpieva:Christian1971Vocabula**"
+  },
+  "altnames": {
+    "multitree": "\nCook Island\nCook Islands Maori\nKuki Airani\nMaori\nRarotonga\nRarotongan\nRarotongan-Mangaian\nRarotongano\nRarotongien",
+    "lexvo": "\nCook Islands Maori [en]\nRarotongan [en]\nmaori des îles Cook [fr]\nrarotonga [fr]",
+    "hhbib_lgcode": "\nAitutaki atoll is a dialect of Rarotongan\nCook Islands Maori\nMangaian\nRarotongan\nSouthern Cook Islands Māori",
+    "elcat": "\nKuki Airani\nMāori\nSouthern Cook Islands Māori\nTe Reo Māori o te Pae Tonga o te Kuki Airani"
+  },
+  "triggers": {
+    "lgcode": "\nmangaian\naitutakian\nmangaianische\nbsoas\nsprachumwelten\nrarotongan"
+  },
+  "identifier": {
+    "multitree": "rar",
+    "endangeredlanguages": "2519"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:East-Polynesian** **hh:hv:Marck:Polynesian**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Cook Islands Māori (2519) = Endangered (100 percent certain, based on the evidence available) (EGIDS 7-8a;\n90% of Cook Islands people live abroad. In New Zealand, 68% of Cook Islands people under 65 years of age and 80% under 30 years of age are monolingual English speakers. In the Cook Islands, increasing numbers of young people are monolingual in English or passive bilinguals, though the language is used in all domains including online. (Numbers unavailable for Australia). Cook Islands Māori is used by older speakers in some religious contexts and particular media programs as well as in welcoming ceremonies.) [Nicholas 2018](cldf:nicholas:18)"
+  }
+}

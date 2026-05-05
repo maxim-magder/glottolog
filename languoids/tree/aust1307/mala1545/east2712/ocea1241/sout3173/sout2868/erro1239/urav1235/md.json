@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ura (Vanuatu)",
+    "hid": "uur",
+    "level": "language",
+    "iso639-3": "uur",
+    "latitude": "-18.6747",
+    "longitude": "169.084",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ura](https://lexibank.clld.org/languages/abvdoceanic-Ura)\n[Ura](https://wals.info/languoid/lect/wals_code_ura)\n[Ura (Vanuatu)](https://endangeredlanguages.com/lang/2446)\n[Ura (Vanuatu)](https://grambank.clld.org/languages/urav1235)\nhttps://en.wikipedia.org/wiki/Ura_language_(Vanuatu)\nhttps://www.wikidata.org/entity/Q7899531"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:crowley:01**\n**cldf:humphreys:26**\n**cldf:keesing:84:2**\n**cldf:lewis:ed:09**\n**cldf:mcarthur:81**\n**cldf:np:14:5**\n**cldf:np:16:2**\n**cldf:np:nd:264**\n**cldf:robertson:02**\n**cldf:spriggs:wickler:89**\n**hh:g:Crowley:Ura**\n**hh:g:Crowley:Ura:1998**\n**hh:h:TakiTryon:Lost**\n**hh:hv:Crowley:Erromango**\n**hh:hv:Lynch:Southern-Vanuatu**\n**hh:hv:Lynch:Southern-Vanuatu-Pronominal**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Tryon:NewHebrides**\n**hh:hw:Gordon:Eromangan**\n**hh:s:Lynch:Ura**\n**hh:s:Lynch:Ura:1982**"
+  },
+  "altnames": {
+    "wals": "\nUra",
+    "ruhlen (1987)": "\nUra",
+    "moseley & asher (1994)": "\nUra",
+    "multitree": "\nErromango\nUra",
+    "lexvo": "\nUra (Vanuatu) [en]\nUra [en]",
+    "hhbib_lgcode": "\nErromango Northern\nUra",
+    "elcat": "\nArau\nAryau\nUra (Vanuatu)"
+  },
+  "triggers": {
+    "lgcode": "\nvanuatu AND ura"
+  },
+  "identifier": {
+    "wals": "ura",
+    "multitree": "uur",
+    "endangeredlanguages": "2446"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Southern-Vanuatu**",
+    "subrefs": "\n**hh:hv:Lynch:Southern-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ura (Vanuatu) (2446-uur) = Critically Endangered (100 percent certain, based on the evidence available) [Crowley 1999](cldf:crowley:99)"
+  }
+}

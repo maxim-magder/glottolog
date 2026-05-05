@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mortlockese",
+    "hid": "mrl",
+    "level": "language",
+    "iso639-3": "mrl",
+    "latitude": "5.50735",
+    "longitude": "153.710778",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Mortlockese](https://endangeredlanguages.com/lang/4709)\n[Mortlockese](https://grambank.clld.org/languages/mort1237)\n[Mortlockese (Lukunosh)](https://lexibank.clld.org/languages/abvdoceanic-MortlockeseLukunosh)\nhttps://en.wikipedia.org/wiki/Mortlockese_language\nhttps://www.wikidata.org/entity/Q3324598"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:tolerton:rauch:49**\n**hh:e:Chinnery:Bougainville**\n**hh:es:Girschner:Namoluk**\n**hh:estyp:Odango:Mortlockese**\n**hh:ew:Kubary:Mortlock**\n**hh:he:Kramer:Lukunor**\n**hh:hvw:Jackson:Trukic**\n**hh:hvw:Quackenbush:Sonsorol-Truk**\n**hh:hvw:Ray:Polynesian**\n**hh:s:Schmidt:Mortlock**\n**hh:typ:Odango:Mortlockese**\n**hh:w:Chinnery:Taku**\n**mpieva:Jackson1984Theinter**"
+  },
+  "altnames": {
+    "multitree": "\nMortlock\nMortlockese\nNomoi",
+    "lexvo": "\nMortlockese [en]",
+    "hhbib_lgcode": "\nKape-iatu village Taku group Mortlock atoll tribe\nKu\nLower Mortlockese\nMortlock\nMortlocks (Taku)\nNamoluk",
+    "elcat": "\nMortlock\nMortlockese\nNomoi"
+  },
+  "triggers": {
+    "lgcode": "\nnamoluk\nmortlock\nkarolineninsel"
+  },
+  "identifier": {
+    "multitree": "mrl",
+    "endangeredlanguages": "4709"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jackson:Trukic**",
+    "subrefs": "\n**hh:hvw:Jackson:Trukic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mortlockese (4709-mrl) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

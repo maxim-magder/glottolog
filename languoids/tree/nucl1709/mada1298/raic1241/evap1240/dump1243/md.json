@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dumpu",
+    "hid": "wtf",
+    "level": "language",
+    "iso639-3": "wtf",
+    "latitude": "-5.82002",
+    "longitude": "145.655",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Watiwa](https://lexibank.clld.org/languages/transnewguineaorg-watiwa)\n[watiwa](https://lexibank.clld.org/languages/zgraggenmadang-watiwa)\nhttps://en.wikipedia.org/wiki/Watiwa_language\nhttps://www.wikidata.org/entity/Q35316"
+  },
+  "sources": {
+    "glottolog": "\n**hh:el:Tupper:Dumpu**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**\n**hh:w:Anonymous:Ramu-Mari**\n**iso6393:2010-028**"
+  },
+  "altnames": {
+    "multitree": "\nDumpu\nWatifa\nWatiwa",
+    "lexvo": "\nDumpu [en]\nJęzyk dumpu [pl]\nLenga Dumpu [pms]",
+    "hhbib_lgcode": "\nWatiwa\nWatiwa (Bembei)\nWatiwa (Dumpu)\nWatiwa (Kasikapo)"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang\ndumpu\nwatiwa\nwtf"
+  },
+  "identifier": {
+    "multitree": "wtf"
+  },
+  "classification": {
+    "sub": "**hh:hv:ClaassenMcElhanon:Finisterre**:49 **hh:hw:Zgraggen:Rai**",
+    "subrefs": "\n**hh:hw:Zgraggen:Rai**\n**hh:hv:ClaassenMcElhanon:Finisterre**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Watiwa (wtf-wtf) = 6b (Threatened)."
+  }
+}

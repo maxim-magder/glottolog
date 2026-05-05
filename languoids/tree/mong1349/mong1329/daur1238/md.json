@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Dagur",
+    "hid": "dta",
+    "level": "language",
+    "iso639-3": "dta",
+    "latitude": "48.0",
+    "longitude": "124.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "KZ",
+      "MN"
+    ],
+    "links": "\n[Dagur](https://endangeredlanguages.com/lang/3181)\n[Dagur](https://grambank.clld.org/languages/daur1238)\n[Dagur](https://wals.info/languoid/lect/wals_code_dgr)\nhttps://en.wikipedia.org/wiki/Dagur_language\nhttps://phoible.org/languages/daur1238\nhttps://www.wikidata.org/entity/Q32430"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3977**\n**cldf:alpatov:ed:97:3**\n**cldf:anonymous:82:2**\n**cldf:bao:ed:82**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ding:06:1**\n**cldf:ding:09**\n**cldf:ding:98:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lilinjun:enhebatu:11**\n**cldf:mao:maoyan:etal:04**\n**cldf:np:nd:264**\n**cldf:poppe:30**\n**cldf:salminen:00**\n**cldf:stolz:96**\n**cldf:sun:10**\n**cldf:todaeva:97:2**\n**cldf:vreeland:54**\n**cldf:wu:wonsoo:etal:08**\n**cldf:zhong:82**\n**hh:d:Engkebatu:Da**\n**hh:d:Engkebatu:Dawoer**\n**hh:d:Tumurdej:Dagursko**\n**hh:d:Yang:Dawoer**\n**hh:g:Martin:Dagur**\n**hh:g:Poppe:Dagur**\n**hh:g:Todaeva:Dagurskij**\n**hh:g:Yu:Tacheng-Dagur**\n**hh:hld:ShearerHongkai:China**\n**hh:hs:Todaeva:Mongolskie**\n**hh:ld:Ding:Dawoer**\n**hh:phon:Haschimeg:Dawoeryu**\n**hh:phon:Masami:Fagur**\n**hh:s:Guo:Daur**\n**hh:s:Ivanovskij:Mandjurica:1894**\n**hh:s:Poppe:Daguren**\n**hh:s:Tsumagari:Dagur**\n**hh:s:Wu:Daur**\n**hh:s:Yamada:Dagur**\n**hh:s:Zhong:Dawoer**\n**hh:t:Engkebatu:Dawoeryu**\n**hh:t:Ivanovskiy:Mandjurica**\n**hh:t:Tumure:Daur**\n**hh:typ:Wang:Dagur:Verb**\n**hh:vtyp:Engkebatu:Dawoer**\n**hh:w:Kaluzynski:Dagurisches**\n**mpieva:2003TheMongo**\n**mpieva:Ivanovskij1982Mandjuri**\n**mpieva:Martin1997DagurMon**\n**mpieva:PoppeUberdieS**"
+  },
+  "altnames": {
+    "glottolog": "\nDaur",
+    "wals": "\nDagur",
+    "ruhlen (1987)": "\nDagur",
+    "moseley & asher (1994)": "\nDagur",
+    "multitree": "\nDagour (Amour)\nDagour (Hailar)\nDagour (Nonni)\nDagour du Sinkiang\nDaguor\nDagur\nDaguro de Xinjiang\nDahur\nDaur\nDawar\nDawo'er\nTahuerh\nTahur\nTongusikonni",
+    "lexvo": "\nDaur [en]\nDaur language [en]\nJęzyk dagurski [pl]\nYezhoù dagourek [br]\nДаурски јазик [mk]\nДаурский язык [ru]\n达斡尔语 [zh]",
+    "hhbib_lgcode": "\nButha\nDaghur\nDagurisches\nDagurskij\nDauersche omtrent het rivier Amur\nDaur\nDawoer\nDaxurskago\nQiqiha’er",
+    "elcat": "\nDaguor\nDagur\nDahur\nDaur\nDawar\nDawo'er\nTahuerh\nTahur\nTongusikonni\n達斡爾"
+  },
+  "triggers": {
+    "lgcode": "\ndaguren\ndaur\ndagurskij\nnarechie\ndagurskoe\ndagur"
+  },
+  "identifier": {
+    "wals": "dgr",
+    "multitree": "dagu;dta",
+    "endangeredlanguages": "3181"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rybatzki:Mongolic**",
+    "subrefs": "\n**hh:hv:Rybatzki:Mongolic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Dagur (3181-dta) = Endangered (80 percent certain, based on the evidence available) (In Hulun Buir (esp. in the Imin basin) the language is still being retained well, while among most groups in Heilongjiang it has ceased to be transmitted to children.) [Salminen 2000](cldf:salminen:00)"
+  }
+}

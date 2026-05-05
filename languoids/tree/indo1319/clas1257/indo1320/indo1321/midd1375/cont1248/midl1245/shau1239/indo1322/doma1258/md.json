@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Domari",
+    "hid": "rmt",
+    "level": "language",
+    "iso639-3": "rmt",
+    "latitude": "32.0",
+    "longitude": "35.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "EG",
+      "IL",
+      "JO",
+      "PS",
+      "SY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35394\nhttps://en.wikipedia.org/wiki/Domari_language\nhttps://phoible.org/languages/doma1258\n[Domari](https://wals.info/languoid/lect/wals_code_dom)"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matras:Romani**:14-48 **hh:g:Matras:Domari**:20-27",
+    "subrefs": "\n**hh:hv:Matras:Romani**\n**hh:g:Matras:Domari**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:sherzer:stolz:ed:03**\n**hh:e:Bochi:Syrian-Dom**\n**hh:ew:vonGobineau:Wanderstamme-Persiens**\n**hh:g:Matras:Domari**\n**hh:h:Marsh:Gypsies-Turkey**\n**hh:hsoc:Matras:Domari**\n**hh:hv:Hancock:Domba**\n**hh:hv:Herin:Domari**\n**hh:hv:Herin:Northern-Domari**\n**hh:ld:Matras:Gypsy-Arabic**\n**hh:lde:AmanolahiNorbeck**\n**hh:s:Herin:Domari-Aleppo**\n**hh:s:Herin:Northern-Domari**\n**hh:s:Matras:Domari**\n**hh:s:Matras:Domari:2007**\n**hh:sd:Macalister:Nawar-Zutt**\n**hh:sd:Macalister:Nawar-Zutt:1914**\n**hh:typ:Matras:Domari:Borrowing**\n**hh:vld:Rhodokanakis:Zigeunerarabisch**\n**hh:vw:Pott:Zigeuner-Syrien**\n**hh:vwtyp:Littmann:Zigeuner-Arabisch**\n**hh:w:Benninghaus:Tsiganes-Turquie-Orientale**\n**hh:w:Groome:Persian-Syrian-Gypsies**\n**hh:w:Newbold:Gypsies-Egypt**\n**hh:w:PaspatiHamlin:Gypsies**\n**hh:w:Patkanoff:Transcaucasian**\n**hh:w:Patkanov:Kavkazskix-Tsygany**"
+  },
+  "altnames": {
+    "wals": "\nDomari",
+    "wals other": "\nNawar\nNuri\nZutt",
+    "multitree": "\nBarake\nDom\nDomari\nDomarí\nGipsies\nGypsy\nKurbat\nLuti\nMehtar\nMiddle Eastern Romani\nNawar\nNawari\nNear-Eastern Gypsy\nRomani\nTsigene",
+    "lexvo": "\nDomari [de]\nDomari language [en]\nJęzyk domari [pl]\nДомари [ru]\nடோமாரி மொழி [ta]",
+    "hhbib_lgcode": "\nBahlawān lexicon items deriving from\nDom\nDomari of Aleppo\nDomlar\nDuman of Baghdad\nGypsy of West Kurdish W Persian area\nGypsy of West Kurdish-W Persian area\nJerusalem Domari\nKarachi of Azerbaijan\nKarači\nKauli has a Domari\nKurbati of Aleppo and Antioch in Syria\nLuti has a Domari\nMitrip\nNawar\nNorthern Domari\nNorthernmost Domari variety as recorded in the town of Yelizabetpol (Ganja) in Azerbaijan\nNūrī\nPalestinian Nawar\nPersian Gypsies (from Tabriz)\nSouthern Domari\nSyriac Gypsy\nSyrian Dom"
+  },
+  "triggers": {
+    "lgcode": "\nzutt\ndomari\nqainat\nnomad\nnawar"
+  },
+  "identifier": {
+    "wals": "dom",
+    "multitree": "rmt"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Domari (2217-rmt) = Severely endangered"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Kinalakna",
+    "hid": "kco",
+    "level": "language",
+    "iso639-3": "kco",
+    "latitude": "-6.05862",
+    "longitude": "147.442",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kinalakna](https://endangeredlanguages.com/lang/4353)\nhttps://www.wikidata.org/entity/Q11732320\nhttps://en.wikipedia.org/wiki/Kinalakna_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hld:Smith:Morobe**\n**hh:hvtyp:Suter:Huon**"
+  },
+  "altnames": {
+    "multitree": "\nKinalakna",
+    "lexvo": "\nKinalakna [en]",
+    "hhbib_lgcode": "\nKinalaka\nKinalaknga",
+    "elcat": "\nKinalakna"
+  },
+  "identifier": {
+    "multitree": "kco",
+    "endangeredlanguages": "4353"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Suter:Huon** **hh:hv:HooleyMcElhanon:Morobe**:1071",
+    "subrefs": "\n**hh:hv:HooleyMcElhanon:Morobe**\n**hh:hvtyp:Suter:Huon**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kinalakna (4353-kco) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

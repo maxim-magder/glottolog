@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tibea",
+    "hid": "ngy",
+    "level": "language",
+    "iso639-3": "ngy",
+    "latitude": "5.30535",
+    "longitude": "11.3103",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Tibea](https://grambank.clld.org/languages/tibe1274)\nhttps://en.wikipedia.org/wiki/Tibea_language\nhttps://www.wikidata.org/entity/Q36598"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:50639**\n**eballiso2009:50654**\n**eballiso2009:57562**\n**hh:dial:Bradley:Tibea**\n**hh:e:Wilhelm:Mbam-Central**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hvw:GuarismaPaulian:Bantous**\n**hh:phon:Djouonzo:Tebeya**\n**hh:s:Djouonzo:Tiba**\n**hh:typ:Omengue:Tebeya**"
+  },
+  "altnames": {
+    "multitree": "\nDjanti\nMinjanti\nNgayaba\nNjanti\nNyabea\nTibea\nZangnte",
+    "lexvo": "\nTibea [en]",
+    "hhbib_lgcode": "\nA54_Tibea\nDjanti\nNgayaba\nTebeya\nTiba\nTibea (Ndjanti)\nTibea A54"
+  },
+  "triggers": {
+    "lgcode": "\ntibea\ntabeya\ntebeya"
+  },
+  "identifier": {
+    "multitree": "ngy"
+  },
+  "classification": {
+    "sub": "**hh:hvw:GuarismaPaulian:Bantous**",
+    "subrefs": "\n**hh:hvw:GuarismaPaulian:Bantous**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tibea (ngy-ngy) = 6b (Threatened)."
+  }
+}

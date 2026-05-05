@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mandara",
+    "hid": "tbf",
+    "level": "language",
+    "iso639-3": "tbf",
+    "latitude": "-2.7828",
+    "longitude": "151.956",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mandara](https://grambank.clld.org/languages/mand1440)\n[Tabar](https://lexibank.clld.org/languages/abvdoceanic-Tabar)\nhttps://en.wikipedia.org/wiki/Mandara_language\nhttps://www.wikidata.org/entity/Q3285424"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Relandus:Insularum-Orientalium**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Marsden:East-Insular**\n**hh:s:HongHong:Mandara**\n**hh:v:Stokhof:Maire**\n**hh:w:Richer:Austraux**\n**sil16:49287**\n**sil16:49317**\n**sil16:51426**\n**silpng:silpng1991-2000:1196**\n**silpng:silpng2001-2003:386**\n**silpng:silpng2001-2003:53**\n**silpng:silpng2004:21**"
+  },
+  "altnames": {
+    "multitree": "\nMadara\nMandara\nNeu-Mecklenburg\nTabar\nWandala",
+    "lexvo": "\nMandara [en]",
+    "hhbib_lgcode": "\nInsulae Mosis\nKowamerara\nMoyse Island\nSpraecke vant Eylant Moyses\nTabar\nTabar (= Madara)"
+  },
+  "triggers": {
+    "lgcode": "\nmadara\nwhaley\ntovtov\ntuktuk"
+  },
+  "identifier": {
+    "multitree": "tbf;mfi-wan"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:New-Ireland** **hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:New-Ireland**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mandara (tbf-tbf) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pye Krumen",
+    "hid": "pye",
+    "level": "language",
+    "iso639-3": "pye",
+    "latitude": "5.00716",
+    "longitude": "-7.01481",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "LR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11157382"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Behrens:Kroumen**\n**hh:hvw:Duitsman:Guere**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:w:MaireThalmann:Kroumen**"
+  },
+  "altnames": {
+    "multitree": "\nKroumen\nKrumen, Pye\nNortheastern Krumen\nSoutheastern Krumen",
+    "lexvo": "\nPye Krumen [en]",
+    "hhbib_lgcode": "\nAbrioui\nAulopo\nBaolobo\nBéréby\nDougbo\nKrumen-Pye\nPie\nTrepo"
+  },
+  "triggers": {
+    "lgcode": "\noccidentale AND kroumen"
+  },
+  "identifier": {
+    "multitree": "pye"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:15-18 **hh:hsoc:JohnsonHasselbring:Grebo**",
+    "subrefs": "\n**hh:hv:Vogler:Kru:2017**\n**hh:hsoc:JohnsonHasselbring:Grebo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Krumen, Pye (pye-pye) = 5* (Developing)."
+  }
+}

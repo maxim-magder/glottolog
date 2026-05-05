@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Bobangi",
+    "hid": "bni",
+    "level": "language",
+    "iso639-3": "bni",
+    "latitude": "-0.87437",
+    "longitude": "17.227",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CF",
+      "CG"
+    ],
+    "links": "\n[Bobangi](https://grambank.clld.org/languages/bang1354)\n[Bobangi](https://wals.info/languoid/lect/wals_code_bob)\nhttps://en.wikipedia.org/wiki/Bangi_language\nhttps://www.wikidata.org/entity/Q34936"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bokamba:75**\n**cldf:whitehead:99**\n**eballiso2009:12693**\n**eballiso2009:15252**\n**eballiso2009:27015**\n**eballiso2009:28707**\n**eballiso2009:29054**\n**eballiso2009:29060**\n**eballiso2009:29739**\n**eballiso2009:30216**\n**eballiso2009:33535**\n**eballiso2009:3899**\n**eballiso2009:39705**\n**eballiso2009:42506**\n**eballiso2009:46258**\n**eballiso2009:48216**\n**eballiso2009:50131**\n**eballiso2009:51511**\n**eballiso2009:52583**\n**hh:d:Sims:Kibangi**\n**hh:g:MacBeath:Bobangi**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:h:Tanghe:Mbangi**\n**hh:hb:Kadima:Congo**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mangulu:Ngiri**\n**hh:hvs:Stapleton:Congo**\n**hh:hw:Lemaire:Congo**\n**hh:s:Mangulu:Tumba-Inongo**\n**hh:s:Sims:Bobangi**\n**hh:sd:Whitehead:Bobangi**\n**hh:vtyp:Mangulu:Tiene**\n**mpieva:Whitehead1964Grammara**"
+  },
+  "altnames": {
+    "wals": "\nBobangi",
+    "wals other": "\nDzamba",
+    "ruhlen (1987)": "\nBobangi",
+    "moseley & asher (1994)": "\nBobangi",
+    "multitree": "\nBangi\nBobangi\nBubangi\nBungi\nDzamba\nLobobangi\nRebu",
+    "lexvo": "\nBangi [en]",
+    "hhbib_lgcode": "\nBangi\nBobangi\nBobangi C32\nC32_Bobangi\nIkonya is close to Old Bobangi\nKibangi-Irebou\nLo-Bobangi",
+    "glottolog": "\nBangi"
+  },
+  "triggers": {
+    "lgcode": "\nmbonji\nbobangi\ntegenwoordige\nliboko\nkibangi\ncalculating"
+  },
+  "identifier": {
+    "wals": "bob",
+    "multitree": "bni"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:185-189 **hh:hv:Bastinetal:Bantu**:205",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bangi (bni-bni) = 6b (Threatened)."
+  }
+}

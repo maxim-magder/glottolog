@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Eastern Panjabi",
+    "hid": "pan",
+    "level": "language",
+    "iso639-3": "pan",
+    "latitude": "30.0368",
+    "longitude": "75.6702",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Eastern Panjabi](https://grambank.clld.org/languages/panj1256)\n[Panjabi](https://wals.info/languoid/lect/wals_code_pan)\nhttps://phoible.org/languages/panj1256\nhttps://www.wikidata.org/entity/Q113612554"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bala:92**\n**cldf:bala:96**\n**cldf:bhatia:00**\n**cldf:bhatia:01**\n**cldf:cardona:jain:ed:03:15**\n**cldf:dahl:85**\n**cldf:david:naji:etal:03**\n**cldf:gill:gleasonjr:63**\n**cldf:gill:gleasonjr:69**\n**cldf:kaur:93**\n**cldf:kaur:94**\n**cldf:lust:wali:etal:ed:00:9**\n**cldf:malherbe:rosenberg:96**\n**cldf:singh:92**\n**cldf:smirnov:76**\n**hh:d:Bailey:Panjabi:1919**\n**hh:d:Bailey:Punjabi**\n**hh:d:Bhasha:Puadhi**\n**hh:d:Khan:Punjabi**\n**hh:d:Rabinovic:Pandzabsko**\n**hh:d:Singh:Lehndi**\n**hh:e:Eglar:Punjabi**\n**hh:g:Bahri:Punjabi**\n**hh:g:BashirConners:Hindko-Panjabi-Saraki**\n**hh:g:Bhardwaj:Panjabi**\n**hh:g:Bhardwaj:Panjabi:1995**\n**hh:g:Bhatia:Punjabi**\n**hh:g:CummingsBailey:Punjabi**\n**hh:g:Gill:Panjabi**\n**hh:g:GillGleason:Punjabi**\n**hh:g:GillGleason:Punjabi:2013**\n**hh:g:Kalra:Panjabi**\n**hh:g:Mann:Punjabi**\n**hh:g:Shackle:Punjabi**\n**hh:gd:Newton:Panjabi**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hv:Jamshair:Punjabi**\n**hh:hv:Singh:Majhi-Multani**\n**hh:hvwt:Grierson:9:I**\n**hh:hw:Gill:Punjab**\n**hh:phon:Jain:Punjabi-Ludhiani**\n**hh:phon:Kalra:Punjabi**\n**hh:phon:Sakthivel:Punjabi**\n**hh:s:Aksenov:Panjabi**\n**hh:s:Bahl:Panjabi**\n**hh:s:Bahl:Panjabi:1970**\n**hh:s:Bahri:Panjabi**\n**hh:s:Carey:Punjabee**\n**hh:s:Chahil:Janamsakhi**\n**hh:s:Malik:Panjabi**\n**hh:s:Sandhu:Puadi**\n**hh:s:Sandhu:Puadi:1968**\n**hh:s:Sanyukya:Mixed-Panjabi**\n**hh:s:Shackle:Panjabi**\n**hh:s:Tolstaya:Panjabi**\n**hh:ssoc:Datta:Panjabi**\n**hh:st:Sen:Indian**\n**hh:t:Ahmad:Punjabi**\n**hh:vw:HasanKhan:Dhani-Majhi**\n**hh:w:Bailey:Cuhras**\n**hh:w:Singh:Punjabi**\n**mpieva:Gill1969Areferen**\n**mpieva:Koul1989Modesofa**\n**mpieva:Shackle1983Anintrod**\n**mpieva:Singh2003ThePunja**\n**mpieva:Singh2006Panjabip**\n**mpieva:Wilson2005Grammara**\n**sil16:15802**\n**sil16:45800**\n**sil16:51242**"
+  },
+  "altnames": {
+    "wals": "\nPanjabi",
+    "wals other": "\nPunjabi",
+    "ruhlen (1987)": "\nPunjabi",
+    "moseley & asher (1994)": "\nPunjabi",
+    "multitree": "\nEastern Panjabi\nGurmukhi\nGurumukhi\nPandschabi\nPanjabi\nPanjabi (Eastern)\nPanjabi, Eastern\nPunjabi",
+    "lexvo": "\nPanjabi [en]\nPunjabi [en]\npendjabi [fr]",
+    "hhbib_lgcode": "\nCentral Panjabi\nChuhras\nChuras\nDoabi\nKalka\nLehndi\nMajhi\nMajhi-Doabi-Malwai-Puwadhi\nMalvai-Doabi\nMohla in Gujrat district\nMostly Majhi and Ludhiana but also Siraiki etc\nMostly Modern Standard Panjabi of India\nPanjabi\nPanjabi of Western Lahore\nPanjabi-Eastern\nPanjabi-Lahore\nPatiala\nPinjor\nPoadhi Kosh\nPowadhi\nPrimarily based on the Majhi dialect spoken in Lahore (Pakistan) and Amritsar and the Gurdaspur district of the state of Punjab-India as it was before the partition of the Indian subcontinent in 1947\nPuadhi\nPuadi\nPuadi dialect of Panjabi in SE Patiala and Kharar Sub-division\nPunjabi\nPunjabi (Eastern)\nPunjabi-Eastern\nPunjabi-Ludhiani\nSialkot-Gujranwala-Lahaur-Gujrat-Firozpur"
+  },
+  "triggers": {
+    "lgcode": "\npunjabee\npunjabi\npandzhabi\nsikhs\npanjabi"
+  },
+  "identifier": {
+    "wals": "pan",
+    "multitree": "panj;pan",
+    "languagelandscape": "http://languagelandscape.org/language/Panjabi"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Kogan:New-Indo-Aryan**:236 **hh:hsoc:Rensch:Hindko**:9-10",
+    "subrefs": "\n**hh:hsoc:Rensch:Hindko**\n**hh:hvw:Kogan:New-Indo-Aryan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Punjabi, Eastern (pan-pan) = 2 (Provincial). Statutory provincial language in Punjab, West Bengal states; union territories Delhi, Chandigarh (1950, Constitution, Schedule VIII)."
+  }
+}

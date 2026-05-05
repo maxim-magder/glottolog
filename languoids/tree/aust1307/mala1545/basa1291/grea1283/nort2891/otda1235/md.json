@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ot Danum",
+    "hid": "otd",
+    "level": "language",
+    "iso639-3": "otd",
+    "latitude": "-0.3955",
+    "longitude": "113.469",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3033781\nhttps://en.wikipedia.org/wiki/Ot_Danum_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Inagaki:Kadorih**\n**hh:h:Sellato:Melawi**\n**hh:h:Sellato:Upper-Makaham**\n**hh:h:Sugono:Indonesia**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Hudson:Sarawak**\n**hh:hvw:Durasid:Barito**\n**hh:hvw:Hudson:Barito**\n**hh:hvw:Smith:Borneo**\n**hh:phon:Inagaki:Kadorih**\n**hh:s:Inagaki:Kadorih**\n**hh:s:Taib:Ot-Danum**\n**hh:soc:MugrageMugrage:Ot-Danum**\n**hh:typ:Inagaki:Kadorih**\n**hh:typ:Martina:Uud-Danum**\n**hh:w:Effendy:Uud-Danum**\n**hh:w:Stokhofetal:Holle:8**\n**hh:wsoc:Riceetal:Seruyan**\n**iso6393:2007-185**"
+  },
+  "altnames": {
+    "multitree": "\nDohoi\nMalahoi\nOt Danum\nUud Danum\nUut Danum",
+    "lexvo": "\nOt Danum [en]",
+    "hhbib_lgcode": "\nDohoi\nKadorih\nOt Danum Dayak\nSebaun\nUud Danum\nUut Danum"
+  },
+  "triggers": {
+    "lgcode": "\nkadorih\nseruyan"
+  },
+  "identifier": {
+    "multitree": "otd"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:169-182 **hh:hv:Blust:NBorneo**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:Blust:NBorneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ot Danum (otd-otd) = 6a* (Vigorous)."
+  }
+}

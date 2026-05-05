@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lakon",
+    "hid": "lkn",
+    "level": "language",
+    "iso639-3": "lkn",
+    "latitude": "-14.29899",
+    "longitude": "167.429382",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lakon](https://endangeredlanguages.com/lang/1743)\n[Lakona](https://lexibank.clld.org/languages/abvdoceanic-Lakona)\nhttps://en.wikipedia.org/wiki/Lakon_language\nhttps://www.wikidata.org/entity/Q3216494"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2687**\n**cldf:ed:10**\n**cldf:francois:14:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:schmidt:04:2**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Lakon**\n**iso6393:2008-071**"
+  },
+  "altnames": {
+    "multitree": "\nBanks-Inseln\nGaua\nGog\nLakon\nLakona\nVure",
+    "lexvo": "\nLakon [en]\nLakon language [en]\nVure [en]",
+    "hhbib_lgcode": "\nLakona",
+    "elcat": "\nBanks-Inseln\nGaua\nGog\nLakon\nLakona\nVure\nVurē"
+  },
+  "triggers": {
+    "lgcode": "\nlakon\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "lkn",
+    "endangeredlanguages": "1743"
+  },
+  "classification": {
+    "sub": "**hh:hv:KalyanFrancois:Freeing**",
+    "subrefs": "\n**hh:hv:KalyanFrancois:Freeing**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lakon (1743-lkn) = Endangered (20 percent certain, based on the evidence available) [Francois 2014](cldf:francois:14:1)"
+  }
+}

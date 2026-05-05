@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Taloki",
+    "hid": "tlk",
+    "level": "language",
+    "iso639-3": "tlk",
+    "latitude": "-4.6478",
+    "longitude": "122.872",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Taloki](https://endangeredlanguages.com/lang/2787)\nhttps://www.wikidata.org/entity/Q3514563"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvwb:Mead:Bungku-Tolaki**"
+  },
+  "altnames": {
+    "multitree": "\nTaloki\nTaluki",
+    "lexvo": "\nTaloki [en]",
+    "elcat": "\nTaloki\nTaluki"
+  },
+  "identifier": {
+    "multitree": "tlk",
+    "endangeredlanguages": "2787"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Mead:Bungku-Tolaki** **hh:hv:Mead:Sulawesi:2024**:154",
+    "subrefs": "\n**hh:hvs:Mead:Bungku-Tolaki**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Taloki (2787-tlk) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

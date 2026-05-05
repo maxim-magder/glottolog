@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Peere",
+    "hid": "pfe",
+    "level": "language",
+    "iso639-3": "pfe",
+    "latitude": "7.82186",
+    "longitude": "12.2518",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Peere](https://grambank.clld.org/languages/peer1241)\nhttps://en.wikipedia.org/wiki/Kutin_language\nhttps://www.wikidata.org/entity/Q36377"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10102**\n**eballiso2009:10103**\n**hh:g:Raen:Pere**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hw:Strumpell:Adamauas**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:vld:Kastenholz:Pere**\n**hh:w:Griaule:Cameroun**\n**iso6393:2019-012**"
+  },
+  "altnames": {
+    "multitree": "\nKotofo\nKotopo\nKotpojo\nKoutin\nKoutine\nKutin\nKutine\nKutinn\nPare\nPatapori\nPeer\nPeere\nPere\nPotopo\nPotopore",
+    "lexvo": "\nPeere [en]",
+    "hhbib_lgcode": "\nKotopo (Kontscha)\nKoutinn\nKutin\nPatapori\nPere\nPotopore"
+  },
+  "triggers": {
+    "lgcode": "\npere AND activites"
+  },
+  "identifier": {
+    "multitree": "pfe"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kleinewillinghofer:Samba-Duru**",
+    "subrefs": "\n**hh:hv:Kleinewillinghofer:Samba-Duru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pere (pfe-pfe) = 5 (Developing)."
+  }
+}

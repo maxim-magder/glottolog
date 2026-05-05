@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Maram Naga",
+    "hid": "nma",
+    "level": "language",
+    "iso639-3": "nma",
+    "latitude": "25.4378",
+    "longitude": "94.2205",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Maram](https://lexibank.clld.org/languages/marrisonnaga-Maram)\n[Maram Naga](https://endangeredlanguages.com/lang/5667)\n[Maram Naga](https://grambank.clld.org/languages/mara1379)\nhttps://en.wikipedia.org/wiki/Maram_language\nhttps://www.wikidata.org/entity/Q56378"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4175**\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:np:01:1**\n**hh:g:Singh:Maram**\n**hh:h:Haokip:Kuki-Chin**\n**hh:h:Stirn:Naga**\n**hh:he:Hodson:Naga-Manipur**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:w:Kumar:Maram**"
+  },
+  "altnames": {
+    "multitree": "\nMaram\nNaga, Maram\nNaga,Maram",
+    "lexvo": "\nMaram Naga [en]",
+    "hhbib_lgcode": "\nMao and Maram\nMaram\nMaram of Khullen village\nNaga-Maram",
+    "elcat": "\nMaram\nMaram Naga\nNaga"
+  },
+  "identifier": {
+    "multitree": "nma",
+    "endangeredlanguages": "5667"
+  },
+  "classification": {
+    "sub": "**hh:hv:Burling:NEIndia** **hh:hv:PostBurling:NEIndia**",
+    "subrefs": "\n**hh:hv:Burling:NEIndia**\n**hh:hv:PostBurling:NEIndia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maram Naga (5667-nma) = Vulnerable (20 percent certain, based on the evidence available) [Haokip 2011](cldf:haokip:11:2)"
+  }
+}

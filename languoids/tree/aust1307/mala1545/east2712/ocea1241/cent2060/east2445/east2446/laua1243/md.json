@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lauan",
+    "hid": "llx",
+    "level": "language",
+    "iso639-3": "llx",
+    "latitude": "-18.2131",
+    "longitude": "-178.785",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FJ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35682\nhttps://en.wikipedia.org/wiki/Lauan_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:geddes:46**\n**cldf:hocart:29**\n**cldf:thompson:40:1**\n**cldf:thompson:40:2**\n**hh:hv:Geraghty:Fijian**\n**hh:hv:Geraghty:Fijian:1979**"
+  },
+  "altnames": {
+    "multitree": "\nFidji-Inseln\nLau\nLauan",
+    "lexvo": "\nLauan [en]\nLauan language [en]",
+    "hhbib_lgcode": "\nLau\nVanua Balavu"
+  },
+  "triggers": {
+    "lgcode": "\nnorth AND mala"
+  },
+  "identifier": {
+    "multitree": "llx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Geraghty:Fijian**:313-347",
+    "subrefs": "\n**hh:hv:Geraghty:Fijian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lauan (llx-llx) = 6a* (Vigorous)."
+  }
+}

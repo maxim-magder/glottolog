@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kagate",
+    "hid": "syw",
+    "level": "language",
+    "iso639-3": "syw",
+    "latitude": "27.4492",
+    "longitude": "86.1675",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kagate_language\n[Syuba](https://endangeredlanguages.com/lang/5433)\nhttps://www.wikidata.org/entity/Q12952538"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:gawne:15**\n**cldf:gawne:17:2**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**elpub:ldd155**\n**hh:d:Syuba:Syuba**\n**hh:hv:Gawne:Yolmo-Kagate**\n**hh:hv:Nishi:Tibetan-Nepal**\n**hh:hvw:Grierson:3:I**\n**hh:ld:Gawne:Yolmo-Kagate**\n**hh:ld:Nishi:Kagate**\n**hh:phon:Hohlig:Kagate**\n**hh:soc:MitchellEichentopf:Kagate**\n**hh:typ:Hohlig:Syuwa**\n**sil16:15949**\n**sil16:22709**"
+  },
+  "altnames": {
+    "multitree": "\nK?gate\nKagate\nKagate Bhote\nKāgatē\nShuba\nShyuba\nSyuba",
+    "lexvo": "\nKagate [en]",
+    "hhbib_lgcode": "\nSyuba",
+    "elcat": "\nKagate Bhote\nKāgatē\nShuba\nShyuba\nSyuba"
+  },
+  "triggers": {
+    "lgcode": "\nkagate"
+  },
+  "identifier": {
+    "multitree": "syw",
+    "endangeredlanguages": "5433"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gawne:Yolmo-Kagate**",
+    "subrefs": "\n**hh:hv:Gawne:Yolmo-Kagate**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Syuba (5433) = Vulnerable (100 percent certain, based on the evidence available) (EGIDS 6a) [Gawne 2017](cldf:gawne:17:2)"
+  }
+}

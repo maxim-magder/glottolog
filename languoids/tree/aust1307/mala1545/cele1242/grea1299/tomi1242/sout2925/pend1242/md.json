@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pendau",
+    "hid": "ums",
+    "level": "language",
+    "iso639-3": "ums",
+    "latitude": "-0.11396",
+    "longitude": "119.862",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Pendau](https://endangeredlanguages.com/lang/2769)\n[Pendau](https://grambank.clld.org/languages/pend1242)\nhttps://en.wikipedia.org/wiki/Pendau_language\nhttps://www.wikidata.org/entity/Q7162371"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:na:nd**\n**cldf:np:nd:264**\n**cldf:quick:quick:05**\n**hh:g:Quick:Pendau**\n**hh:g:Quick:Pendau:2003**\n**hh:hvw:Wumbu:Sulawesi-Tengah**\n**hh:hw:Himmelmann:Tomini-Tolitoli**\n**sil16:33189**\n**sil16:38997**\n**sil16:41726**\n**sil16:41727**\n**sil16:41762**\n**sil16:41955**\n**sil16:42853**\n**sil16:47339**\n**sil16:47347**\n**sil16:48168**\n**sil16:48169**\n**sil16:48170**\n**sil16:48171**\n**sil16:50180**\n**sil16:51515**"
+  },
+  "altnames": {
+    "multitree": "\nNdaoe\nNdau\nPendau\nUmalasa",
+    "lexvo": "\nPendau [en]",
+    "elcat": "\nNdaoe\nNdau\nPendau\nUmalasa"
+  },
+  "triggers": {
+    "lgcode": "\npendau\nurong\ntonapande\nsitina\nneintolu"
+  },
+  "identifier": {
+    "multitree": "ums",
+    "endangeredlanguages": "2769"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zobel:Kaili-Wolio**:299",
+    "subrefs": "\n**hh:hv:Zobel:Kaili-Wolio**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pendau (2769-ums) = Threatened (100 percent certain, based on the evidence available) [Himmelmann 2001](cldf:himmelmann:01)"
+  }
+}

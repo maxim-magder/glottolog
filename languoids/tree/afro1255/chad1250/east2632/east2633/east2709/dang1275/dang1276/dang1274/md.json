@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Dangaleat",
+    "hid": "daa",
+    "level": "language",
+    "iso639-3": "daa",
+    "latitude": "12.1517",
+    "longitude": "18.385",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Dangaleat](https://endangeredlanguages.com/lang/7811)\n[Dangaléat (Western)](https://wals.info/languoid/lect/wals_code_dnw)\nhttps://en.wikipedia.org/wiki/Dangal%C3%A9at_language\nhttps://phoible.org/languages/dang1274\nhttps://www.wikidata.org/entity/Q942591"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**eballiso2009:13035**\n**eballiso2009:13548**\n**eballiso2009:13551**\n**eballiso2009:13820**\n**eballiso2009:21624**\n**eballiso2009:2283**\n**eballiso2009:2291**\n**eballiso2009:2297**\n**eballiso2009:24597**\n**eballiso2009:24890**\n**eballiso2009:26580**\n**eballiso2009:26585**\n**eballiso2009:29252**\n**eballiso2009:34499**\n**eballiso2009:34501**\n**eballiso2009:36119**\n**eballiso2009:3993**\n**eballiso2009:41280**\n**eballiso2009:48600**\n**hh:d:DjibrinedeMontgolfier:Dangaleat**\n**hh:d:Fedry:Dangaleat**\n**hh:g:Shay:EDangla**\n**hh:hv:Alio:Abou-Telfane**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:phon:Fedry:Mubi-Karbo**\n**hh:s:Abbakaretal:Dangla**\n**hh:s:Fedry:Dangaleat**\n**hh:soc:Nesseiletal:Dangaleat**\n**hh:typ:Burke:Central-Dangaleat**\n**hh:typ:Ebobisse:Ost-Dangaleat:1979**\n**hh:v:Alio:Bidiya-Dangaleat**\n**hh:w:MbernodjiJohnson:Moubi**\n**mpieva:Ebobisse1988Lesverba**\n**sil16:38949**\n**sil16:38950**\n**sil16:38951**\n**sil16:38954**\n**sil16:39417**\n**sil16:39419**\n**sil16:41798**\n**sil16:41799**\n**sil16:41806**\n**sil16:41807**\n**sil16:42075**\n**sil16:42078**\n**sil16:42079**\n**sil16:42085**\n**sil16:42096**\n**sil16:50813**\n**sil16:50826**\n**sil16:50852**\n**sil16:51245**"
+  },
+  "altnames": {
+    "wals": "\nDangaléat (Western)",
+    "wals other": "\nDangaleat\nWestern",
+    "ruhlen (1987)": "\nDangla",
+    "moseley & asher (1994)": "\nDangla",
+    "multitree": "\nDanal\nDangal\nDangaleat\nDangaléat\nDangla",
+    "lexvo": "\nDangaléat [en]\nDangaléat language [en]",
+    "hhbib_lgcode": "\nC Dangla\nCentral Dangaleat\nDangaléat\nE Dangla\nKarbo\nW Dangla\nWest Dangaléat",
+    "elcat": "\nDanal\nDangal\nDangaleat\nDangaléat\nDangla"
+  },
+  "triggers": {
+    "lgcode": "\ndangla\nmariyam\ndangaleat\ntyokiyo\nildonte\nildinte\nrauw\nzentralsudanische\nrawtit\ndandaleat\nzing{kar\npariya\nkaak\nrauwnay\nyeero"
+  },
+  "identifier": {
+    "wals": "dnw",
+    "multitree": "daa",
+    "endangeredlanguages": "7811"
+  },
+  "classification": {
+    "sub": "**hh:v:Alio:Bidiya-Dangaleat** **hh:hv:Lovestrand:Chadic-Guera**",
+    "subrefs": "\n**hh:v:Alio:Bidiya-Dangaleat**\n**hh:hv:Lovestrand:Chadic-Guera**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dangaleat (7811-daa) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

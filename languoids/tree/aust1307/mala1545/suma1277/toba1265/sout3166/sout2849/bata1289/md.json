@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Batak Toba",
+    "hid": "bbc",
+    "level": "language",
+    "iso639-3": "bbc",
+    "latitude": "2.35498",
+    "longitude": "99.1761",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Batak (Toba)](https://wals.info/languoid/lect/wals_code_bto)\n[Batak Toba](https://grambank.clld.org/languages/bata1289)\nhttps://en.wikipedia.org/wiki/Toba_Batak_language\nhttps://phoible.org/languages/bata1289\nhttps://www.wikidata.org/entity/Q33017"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:96:1**\n**cldf:adelaar:95:5**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:bolkestein:degroot:etal:ed:85:3**\n**cldf:bruner:59**\n**cldf:calculator:14**\n**cldf:causey:07**\n**cldf:cribb:00**\n**cldf:crowhurst:01**\n**cldf:cumming:84:2**\n**cldf:cunningham:58**\n**cldf:hirosue:94**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:72**\n**cldf:loeb:33:1**\n**cldf:loeb:74**\n**cldf:meerwaldt:04**\n**cldf:np:14:5**\n**cldf:purba:05**\n**cldf:rodgers:93**\n**cldf:shelf:16**\n**cldf:sibeth:91**\n**cldf:sinaga:81**\n**cldf:sumatra:17**\n**cldf:vandertuuk:71**\n**cldf:vergouwen:64**\n**cldf:viner:79**\n**cldf:warneck:01**\n**cldf:warneck:77**\n**hh:d:Panjaitan:Batak-Toba**\n**hh:d:Stap:Tobasch**\n**hh:d:Tambunan:Batak-Toba**\n**hh:d:Warneck:Tobabataksch**\n**hh:dial:Marbun:Samosir**\n**hh:dial:Pasaribu:Toba**\n**hh:dial:Sarumpaet:Toba-Batak:Samosir**\n**hh:g:Nababan:Toba-Batak**\n**hh:g:Percival:Toba-Batak**\n**hh:g:Percival:Toba-Batak:1964**\n**hh:g:Schachter:Toba-Batak**\n**hh:g:vanderTuuk:Toba-Batak**\n**hh:g:vanderTuuk:Tobasche**\n**hh:hvw:Latham:Comparative**\n**hh:ld:Bartlett:Batak-Malay**\n**hh:phon:Mundalifah:Betawi-Toba-Batak**\n**hh:s:Meerwaldt:Bataksche**\n**hh:s:Nababan:Toba-Batak**\n**hh:s:Simorangkir:Sibolga**\n**hh:typ:Silitonga:Batak**\n**hh:w:Adelaar:Toba-Batak**\n**hh:w:Stokhof:Holle:Northern-Sumatra**\n**mpieva:Schachter1984Studiesi**\n**mpieva:Tuuk1971Agrammar**\n**mpieva:Warneck1977Tobabata**"
+  },
+  "altnames": {
+    "wals": "\nBatak (Toba)",
+    "wals other": "\nToba Batak",
+    "ruhlen (1987)": "\nToba Batak",
+    "moseley & asher (1994)": "\nToba Batak",
+    "multitree": "\nBatak (Toba)\nBatak Toba\nBatta\nToba Batak",
+    "lexvo": "\nBatak Toba [en]\nBatak Toba jezik [hr]\nToba Batak language [en]\nToba batak [fr]\nバタク・トバ語 [ja]",
+    "hhbib_lgcode": "\nBatak Asahan\nBatak Pardembanan\nBatak Toba dialect\nBatak-Sibolga\nBatang Toru\nSamosir\nSamosir-Toba Batak\nSibolga\nSilindung-Toba Batak\nToba Batak\nToba Batak South End of Lake Toba\nToba Batta\nToba-Batak\nToba-Batak as it was spoken in Upper Barus\nand the Batak of Angkola and Mandailing"
+  },
+  "triggers": {
+    "lgcode": "\ntoba AND batak\nsamosir\ntuuk\nurbanised"
+  },
+  "identifier": {
+    "wals": "bto",
+    "multitree": "bbc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran** **hh:hv:Adelaar:Proto-Batak**",
+    "subrefs": "\n**hh:hv:Adelaar:Proto-Batak**\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Batak Toba (bbc-bbc) = 6b (Threatened)."
+  }
+}

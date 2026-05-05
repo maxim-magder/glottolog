@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Dabe",
+    "hid": "dbe",
+    "level": "language",
+    "iso639-3": "dbe",
+    "latitude": "-2.05082",
+    "longitude": "139.116",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Dabe](https://endangeredlanguages.com/lang/4067)\nhttps://www.wikidata.org/entity/Q5207451\nhttps://en.wikipedia.org/wiki/Dabe_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hew:Oosterwal:Tor**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:hwsoc:LeeWambaliau:Kwanem**"
+  },
+  "altnames": {
+    "multitree": "\nDabe\nMangambilis",
+    "lexvo": "\nDabe [en]",
+    "hhbib_lgcode": "\nDabe (Dabe)\nKwesten-Dabe",
+    "elcat": "\nDabe\nMangambilis"
+  },
+  "identifier": {
+    "multitree": "dbe",
+    "endangeredlanguages": "4067"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:LeeWambaliau:Kwanem**",
+    "subrefs": "\n**hh:hwsoc:LeeWambaliau:Kwanem**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dabe (4067-dbe) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Pumpokol",
+    "hid": "xpm",
+    "level": "language",
+    "iso639-3": "xpm",
+    "latitude": "58.5",
+    "longitude": "92.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2991985\nhttps://en.wikipedia.org/wiki/Pumpokol_language",
+    "timespan": "1775-01-01/1775-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3585**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Werner:Jenissej:18**\n**hh:w:Xelimskiy:Yeniseyskim**"
+  },
+  "altnames": {
+    "lexvo": "\nPoumpokole [fr]\nPoumpokoleg [br]\nPumpokol [en]\nPumpokol language [en]\nPumpokolin kieli [fi]\nPumpokolsk [no]\nПумпокольский язык [ru]",
+    "hhbib_lgcode": "\nPumpokolic\nPumpokolsk"
+  },
+  "triggers": {
+    "lgcode": "\nNOT with AND die AND jenissej"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vajda:Yeniseian**:369-372",
+    "subrefs": "\n**hh:hv:Vajda:Yeniseian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Pumpokol (1610-) = Extinct"
+  }
+}

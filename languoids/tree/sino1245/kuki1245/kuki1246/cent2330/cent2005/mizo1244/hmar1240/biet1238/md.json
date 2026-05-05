@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Biete",
+    "hid": "biu",
+    "level": "language",
+    "iso639-3": "biu",
+    "latitude": "24.273507",
+    "longitude": "92.94342",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Biete](https://endangeredlanguages.com/lang/3918)\nhttps://www.wikidata.org/entity/Q4904687\nhttps://en.wikipedia.org/wiki/Biate_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Ramdina:Biates**\n**hh:g:Haokip:Biate**\n**hh:h:Fletcher:Biete**\n**hh:hvw:Grierson:3:III**\n**hh:ld:Kharlukhi:Mara-Biate-Halam-Ranglong**\n**hh:ld:KharlukhiLyngdoh:Biate-Halam**\n**hh:phon:Brahma:Biate**\n**hh:s:Brahma:Biate**\n**hh:s:Kharlukhi:Mara-Biate-Monsang-Halam**\n**hh:typ:Brahma:Biate**"
+  },
+  "altnames": {
+    "multitree": "\nBaite\nBete\nBiate\nBiete",
+    "lexvo": "\nBiete [en]",
+    "hhbib_lgcode": "\nBete\nBiate\nBiete Kukis",
+    "elcat": "\nBaite\nBete\nBiate\nBiete"
+  },
+  "identifier": {
+    "multitree": "biu",
+    "endangeredlanguages": "3918"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin** **hh:g:DuttaBaruahBapui:Hmar**:3 **hh:hvphon:Haokip:Barak** **hh:hv:Rufenacht:Northwestern**:39-40",
+    "subrefs": "\n**hh:hv:Rufenacht:Northwestern**\n**hh:hvphon:Haokip:Barak**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:g:DuttaBaruahBapui:Hmar**\n**hh:hv:Peterson:Kuki-Chin:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Biete (3918-biu) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

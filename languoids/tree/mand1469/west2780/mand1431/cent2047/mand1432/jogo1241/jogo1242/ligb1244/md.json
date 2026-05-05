@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ligbi",
+    "hid": "lig",
+    "level": "language",
+    "iso639-3": "lig",
+    "latitude": "7.94291",
+    "longitude": "-2.56353",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33594\nhttps://en.wikipedia.org/wiki/Ligbi_language\nhttps://phoible.org/languages/ligb1244"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2443**\n**eballiso2009:18643**\n**eballiso2009:30954**\n**eballiso2009:53769**\n**eballiso2009:56366**\n**eballiso2009:59371**\n**hh:d:BraconnierCoulibaly:Jogo**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Zwernemann:Oberniger**\n**hh:hel:Sommer:Survey**\n**hh:hew:Tauxier:Bondoukou**\n**hh:hv:BastinHalleux:Mande**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:hw:Kropp-Dakubu:Begho**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:ld:KroppDakubu:Ligbi**\n**hh:phon:Williams:Jogo**\n**hh:s:PerssonPersson:Ligbi**\n**hh:typ:Sapozhnikova:Dzhogo**\n**hh:w:BraconnierCoulibaly:Numu**\n**hh:w:BraconnierCoulibaly:Sooko**"
+  },
+  "altnames": {
+    "multitree": "\nBanda\nDzowo\nHuela\nHwela-Numu\nJogo\nLigbi\nLigwi\nNamasa\nNigbi\nNigwi\nNumu\nTsie\nTuba\nWeela\nWeila\nWiila",
+    "lexvo": "\nLigbi [de]\nLigbi language [en]",
+    "hhbib_lgcode": "\nDzhogo\nHuela\nHuéla\nHwela\nJogo\nNoumou\nNumu\nSooko"
+  },
+  "triggers": {
+    "lgcode": "\nligbi"
+  },
+  "identifier": {
+    "multitree": "lig"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Hwela (6106-lig-hwe) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

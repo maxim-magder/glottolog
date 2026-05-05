@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Shughni",
+    "hid": "sgh",
+    "level": "language",
+    "iso639-3": "sgh",
+    "latitude": "37.5018",
+    "longitude": "71.7925",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "TJ"
+    ],
+    "links": "\n[Shughni](https://endangeredlanguages.com/lang/5867)\nhttps://www.wikidata.org/entity/Q34053\nhttps://en.wikipedia.org/wiki/Shughni_language\n[Shughni](https://wals.info/languoid/lect/wals_code_rsh)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dodykhudoeva:04**\n**cldf:ed:10**\n**cldf:edelman:d:etal:09**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:sokolova:59**\n**hh:d:AlamsoevAlamsoev:Shughni**\n**hh:d:Karamshoev:Shugnansko**\n**hh:d:Zalemann:Shugnanskij**\n**hh:dt:Sokolova:Rusanskie**\n**hh:dt:Zarubin:Sugnanskie**\n**hh:g:Karamshoev:Badzuvskij**\n**hh:g:Karamxudoev:Bartangskij**\n**hh:g:Kurbanov:Rosorvskij**\n**hh:g:Parker:Shughni**\n**hh:hv:Morgenstierne:Shughni**\n**hh:hv:Sokolova:Jazguljamskogo**\n**hh:hv:Sokolova:Mundzanskogo**\n**hh:hvw:Grierson:10**\n**hh:hw:Badakhshi:Afghanistan**\n**hh:s:Alamsoev:Sugnoni**\n**hh:s:AlamsoevKaramsoev:Shughnoni**\n**hh:s:Bakhtibekov:Shugnoni**\n**hh:s:EdelmanDodykhudoeva:Shughni**\n**hh:s:Fajzov:Rushantsev**\n**hh:s:Hjuler:Shughnan-Vakhan**\n**hh:s:Mirzabdinova:Khufi**\n**hh:s:Morgenstierne:Shughni**\n**hh:s:Nawata:Shugni**\n**hh:t:Zarubin:Bartangskie**\n**hh:td:Sokolova:Bartangskie**\n**hh:typ:Mueller:Shughni**\n**hh:w:Lentz:Pamir**\n**hh:w:Skold:Pamir**\n**hh:wsoc:Beck:Roshani**\n**mpieva:Karamsoev19881999Sugnansk**\n**mpieva:Sokolova1959Rusanski**\n**sil16:45878**\n**sil16:45879**"
+  },
+  "altnames": {
+    "wals": "\nRushan",
+    "ruhlen (1987)": "\nRushani",
+    "moseley & asher (1994)": "\nShughni",
+    "multitree": "\nBartangi\nChugní\nKhugni\nRoshorvi\nRushâni\nShighni\nShughni\nShugnan-Rushan",
+    "lexvo": "\nLingua xugní [gl]\nShughni [en]\nShughni language [en]\nŠugnanin kieli [fi]\nŠugni keel [et]\nШугнано-рушански език [bg]\nШугнанский язык [ru]\nزبان شغنانی [fa]\nภาษาซุกนี [th]",
+    "hhbib_lgcode": "\nBajui\nBartangi\nBartangskie\nBartangskij\nKhufi\nRosani\nRoshani\nRošorvskij\nRushan\nRushanskie\nShahdara\nShughnan\nShughni of Khorog in Tajikstan\nShugni",
+    "elcat": "\nKhugni\nShighni\nShughni\nShugnan-Rushan"
+  },
+  "triggers": {
+    "lgcode": "\nshughni\nsugnanskie\nroshani\nshughnoni\nrushani\nshugni\nrusanskie\nbartangskij\nbartangskie\nbadzuvskij\nrosorvskij\nsovetskogo\nsugnanskogo\nzaboni\nkhufi\npamira\nsugnansko\nrushantsev\ngrammatikai"
+  },
+  "identifier": {
+    "wals": "rsh",
+    "multitree": "sgh",
+    "endangeredlanguages": "5867"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wendtland:Pamir** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:hv:Wendtland:Pamir**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Shughni (5867-sgh) = Vulnerable (40 percent certain, based on the evidence available) [Edelman et al. 2009](cldf:edelman:d:etal:09)"
+  }
+}

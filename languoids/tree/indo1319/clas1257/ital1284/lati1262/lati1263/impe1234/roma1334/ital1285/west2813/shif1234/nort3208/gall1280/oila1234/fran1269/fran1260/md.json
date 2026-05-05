@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Arpitan",
+    "hid": "frp",
+    "level": "language",
+    "iso639-3": "frp",
+    "latitude": "45.8051",
+    "longitude": "6.48152",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CH",
+      "FR",
+      "IT"
+    ],
+    "links": "\n[Francoprovençal](https://endangeredlanguages.com/lang/3395)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:corne:71**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:nagy:11**\n**cldf:np:nd:264**\n**hh:d:AimeDesormaux:Savoyard**\n**hh:d:Brachet:Savoyard**\n**hh:d:ChenalVautherin:Valdotain**\n**hh:d:Massy:Anniviers**\n**hh:g:Chenal:Valdotain**\n**hh:g:Maillan:Mouans-Sartoux**\n**hh:g:Vey:Saint-Etienne**\n**hh:gd:Ratel:Savoie**\n**hh:hv:Jochnowitz:Franco-Provencal**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Hasselrot:Ollon**\n**hh:phon:Martinet:Savoie**\n**hh:phond:Guichardaz:Cogne**\n**hh:s:Ahlborn:Ruffieu**\n**hh:s:Kristol:Francoprovencal**\n**hh:s:Stich:Francoprovencal**\n**hh:s:Violet:Maconnais**\n**hh:sd:Cerlogne:Valdotain**\n**hh:soc:Bert:Francoprovencal**\n**hh:soc:Kasstan:Francoprovencal**\n**hh:vld:Zorner:Francoprovenzali**\n**hh:w:Pasquali:Valdostano**\n**iso6393:2009-088**\n**mpieva:Martinet1956Ladescri**\n**sil16:45241**"
+  },
+  "altnames": {
+    "multitree": "\nArpitan\nFaetar\nFranco-Provençal\nFrancoprovenzal\nFrancoprovençal\nPatois",
+    "lexvo": "\nArpitaani [fi]\nArpitan [en]\nArpitana lingvo [eo]\nArpitanca [tr]\nArpitaneg [br]\nArpitanek [kw]\nArpitanish [gv]\nArpitanska [is]\nArpitanu [scn]\nArpitàn [lmo]\nBahasa Arpitan [id]\nFranco-Provençal language [en]\nFrancoprovençaals [nl]\nFrancoprovençal [ca]\nFrancoprovinçå [wa]\nFranko-Provensalio dialektas [lt]\nFrankoprovansalski jezik [hr]\nFrankoprovanszál nyelv [hu]\nFrankoprovensaals [af]\nFrankoprovensalska [sv]\nFrankoprovenzalische Sprache [de]\nFrankoprovenzera [eu]\nFrankoprovençalsk [no]\nIdioma franco-provenzal [es]\nIdioma francoprovenzal [an]\nJęzyk franko-prowansalski [pl]\nLenga franch-provensal [pms]\nLengua franco-provensâ [lij]\nLingua Arpitanica [la]\nLingua francoprovenzal [gl]\nLingua francoprovenzale [it]\nLíngua franco-provençal [pt]\nФранкопровансальский язык [ru]\nአርፒታንኛ [am]\nアルピタン語 [ja]\n法兰克-普罗旺斯语 [zh]",
+    "hhbib_lgcode": "\nFranco-Provencal\nFranco-Provençal\nFrancoprovencal\nFrancoprovenzali piemontesi\nFrancoprovençal\nMaconnais\nMouans Sartoux\nOllon and d'Aigle\nPatois de Ruffieu-en-Valromey\nPatois d’Anniviers\nSavoyard\nValdostano di Costantino Nigra\nValdotain\nVaudois\nfrancoprovenzali piemontesi",
+    "elcat": "\nArpitan\nFrancoprovençal\nPatois\nRomand"
+  },
+  "triggers": {
+    "lgcode": "\nvaldotain\nfrancoprovencal\nporte\nsuditalien\nsavoie\nmouans\nsavoyard\nfaetar\nfrankoprovenzialische\nsavoi\nabley\nsartoux\nmeconnue"
+  },
+  "identifier": {
+    "multitree": "frp",
+    "endangeredlanguages": "3395",
+    "languagelandscape": "http://languagelandscape.org/language/Arpitan"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80 **hh:hv:Agard:French**",
+    "subrefs": "\n**hh:hv:Agard:Romance**\n**hh:hv:Agard:French**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Francoprovençal (3395-frp) = Endangered (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

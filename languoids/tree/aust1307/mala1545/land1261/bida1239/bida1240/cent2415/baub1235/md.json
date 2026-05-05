@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bau-Jagoi Bidayuh",
+    "hid": "sne",
+    "level": "language",
+    "iso639-3": "sne",
+    "latitude": "1.54467",
+    "longitude": "109.985",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\n[Singhi](https://lexibank.clld.org/languages/blustaustronesian-singhi)\nhttps://en.wikipedia.org/wiki/Jagoi_language\nhttps://www.wikidata.org/entity/Q2891938"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:borneo:19**\n**cldf:calculator:14**\n**cldf:chua:09**\n**cldf:chua:12**\n**cldf:cribb:00**\n**cldf:geddes:54**\n**cldf:geddes:61**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:72**\n**cldf:lebar:ed:75**\n**cldf:low:48**\n**cldf:np:13:5**\n**cldf:np:14:5**\n**cldf:pringle:68**\n**cldf:shelf:16**\n**cldf:stjohn:62**\n**hh:d:Reijffert:Singhi**\n**hh:h:Dundon:Bidayuh**\n**hh:hew:Roth:Sarawak**\n**hh:hv:Adelaar:Borneo**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:ldsoc:McLellan:Bau-Jagoi**\n**hh:v:Renschetal:Bidayuh**\n**hh:v:Renschetal:Bidayuh:2006**\n**hh:v:Smith:Hliboi**\n**hh:w:Hudson:Selako**\n**hh:w:KeppelBrooke:Borneo**\n**hh:w:Nindwihapsari:Jagoi-Babang**\n**iso6393:2007-242**\n**sil16:47135**\n**sil16:47345**\n**sil16:51516**"
+  },
+  "altnames": {
+    "multitree": "\nBau-Jagoi\nDayak\nJaggoi\nJagoi\nSarawak Dayak",
+    "lexvo": "\nBau Bidayuh [en]",
+    "hhbib_lgcode": "\nBau Bidayuh\nBau Jagoi\nBau-Jagoi\nBidayuh-Bau\nBiratak\nGrogo\nHliboi Bidayuh spoken in Merendeng/Siding in West Kalimantan north of Sanggau located right along the border with Sarawak perhaps Bau-Jagoi Bidayuh\nJagoi\nJagoi Belida\nKrokong\nSau\nSauh\nSinghi\nSow\nSungkung\nSungkung Land Dayak in Bengkayang regency near the Sarawak border (Northwest of the Landak river) perhaps Bau-Jagoi Bidayuh\nSungkung in the West Kalimantan regencies of Sambas and Sanggau in a chain of six villages along the Sarawak border perhaps Bau-Jagoi Bidayuh\nSuntah"
+  },
+  "triggers": {
+    "lgcode": "\njagoi\nNOT the AND bidayuh\nsinghi"
+  },
+  "identifier": {
+    "multitree": "sne",
+    "languagelandscape": "http://languagelandscape.org/language/Bau%20Bidayuh"
+  },
+  "classification": {
+    "sub": "**hh:vld:Kroeger:Biatah**:112 **hh:v:Smith:Hliboi**",
+    "subrefs": "\n**hh:vld:Kroeger:Biatah**\n**hh:v:Smith:Hliboi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bidayuh, Bau (sne-sne) = 6b (Threatened). De facto language of provincial identity in Sarawak."
+  }
+}

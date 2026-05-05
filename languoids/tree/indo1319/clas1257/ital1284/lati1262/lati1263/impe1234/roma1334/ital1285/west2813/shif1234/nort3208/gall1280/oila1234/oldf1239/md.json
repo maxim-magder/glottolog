@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Old French (842-ca. 1400)",
+    "hid": "fro",
+    "level": "language",
+    "iso639-3": "fro",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35222\nhttps://en.wikipedia.org/wiki/Old_French",
+    "longitude": "1.11",
+    "latitude": "48.8",
+    "timespan": "0842-01-01/1400-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:b:Sodergard:Ancien-Francais**\n**hh:d:Godard:Sarthois**\n**hh:d:Hindley:Old-French**\n**hh:d:Mohren:Ancien-Francais**\n**hh:g:Anglade:Ancien-Francais**\n**hh:g:Buridant:Ancien-Francais**\n**hh:g:Einhorn:Old-French**\n**hh:g:Moignet:Ancien-Francais**\n**hh:gd:Burguy:Oil**\n**hh:h:Sala:Judeo-Romanes**\n**hh:hv:Vasilyev:Romanskix**\n**hh:ld:Banitt:Shuadit**\n**hh:ldsoc:KiwittDorr:Judeo-French**\n**hh:s:Bourguignon:Oil**\n**hh:s:Roncaglia:Oil**\n**hh:soc:Banitt:Judeo-French**\n**hh:sv:Pellegrini:Francese-Antico**\n**hh:t:Oesterreicher:Judisch-Franzosischen**\n**hh:typ:French:Judeo-French**\n**hh:typ:Pearce:Old-French**\n**hh:typ:Vanceetal:Old-Occitan**"
+  },
+  "altnames": {
+    "lexvo": "\nAajdfrans [li]\nAltfranzösische Sprache [de]\nAncien français [fr]\nAntico francese [it]\nFornfranska [is]\nFrancês antigo [pt]\nFrench, Old (842-ca.1400) [en]\nGammelfransk [no]\nJęzyk starofrancuski [pl]\nLingua Francogallica antiqua [la]\nMalnovfranca lingvo [eo]\nOld French (842-ca. 1400) [en]\nOld French [en]\nOoltfranzöösch [nds]\nOudfrans [nl]\nStarofrancouzština [cs]\nfrançais ancien (842-ca.1400) [fr]\nСтарофранцузский язык [ru]\nСтарофранцуски јазик [mk]\n古フランス語 [ja]\n古法語 [zh]",
+    "hhbib_lgcode": "\nJudeo-French\nOil\nOld French\nSarthois\nWestern Loez\nZarphatic"
+  },
+  "triggers": {
+    "lgcode": "\ndoil\nold AND french"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entries. One of them is Old French (**hh:g:Einhorn:Old-French**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "fro"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80 **hh:hv:Agard:French**",
+    "subrefs": "\n**hh:hv:Agard:Romance**\n**hh:hv:Agard:French**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old French (842-ca. 1400) (fro-fro) = 10 (Extinct)."
+  }
+}

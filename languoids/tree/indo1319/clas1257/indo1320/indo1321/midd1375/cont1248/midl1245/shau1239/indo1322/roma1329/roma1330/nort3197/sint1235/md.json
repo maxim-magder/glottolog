@@ -1,0 +1,75 @@
+{
+  "core": {
+    "name": "Sinte-Manus Romani",
+    "hid": "rmo",
+    "level": "language",
+    "iso639-3": "rmo",
+    "latitude": "48.7",
+    "longitude": "9.4",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "AT",
+      "BA",
+      "BG",
+      "BY",
+      "CH",
+      "CZ",
+      "DE",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IT",
+      "KZ",
+      "LT",
+      "LV",
+      "ME",
+      "MK",
+      "NL",
+      "PL",
+      "RO",
+      "RS",
+      "RU",
+      "SI",
+      "SK",
+      "TR",
+      "UA"
+    ],
+    "links": "\n[Romani (Burgenland)](https://wals.info/languoid/lect/wals_code_rbg)\n[Sinte Romani](https://endangeredlanguages.com/lang/5343)\nhttps://en.wikipedia.org/wiki/Sinte_Romani\nhttps://www.wikidata.org/entity/Q1793299"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:franzese:01**\n**cldf:lewis:ed:09**\n**cldf:matras:02:3**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Formoso:Sinto**\n**hh:d:Valet:Manouche**\n**hh:d:vonSowa:Deutschen-Zigeuner**\n**hh:e:Meyer:Sinti**\n**hh:e:Tribulato:Sinti**\n**hh:ed:Liebich:Zigeuner**\n**hh:es:Predari:Zingari**\n**hh:g:Holzinger:Romanes:1993**\n**hh:g:deGila-Kochanowski:Tsigane**\n**hh:h:Courthiade:Rromani**\n**hh:hphon:Courthiade:Rom**\n**hh:hv:Matras:Romani**\n**hh:hvw:Monrad:Finno-Romani**\n**hh:s:Calvet:Manus**\n**hh:s:Finck:Deutschen-Zigeuner**\n**hh:s:Franzese:Sinto-Piemontese**\n**hh:s:Holzinger:Romanes**\n**hh:s:Meszaros:Szinto**\n**hh:s:Soravia:Zingari**\n**hh:s:Valet:Manush**\n**hh:sd:Franzese:Sinto-Piemontese**\n**hh:soc:Williams:Tsigane**\n**hh:w:Jean:Manus**\n**hh:w:Kluyer:Tsigane-Seizieme**\n**hh:w:NA:Rotwellischen**\n**mpieva:1995Romaniin**\n**mpieva:1997Thetypol**\n**mpieva:261**\n**mpieva:Calvet1993Dictionn**\n**mpieva:GilaKochanowski1994Parlonst**\n**sil16:50357**"
+  },
+  "altnames": {
+    "wals": "\nRomani (Burgenland)",
+    "moseley & asher (1994)": "\nRomany",
+    "multitree": "\nEuropean Romany\nManouche\nManuche\nRomani, Sinte\nRomany\nRommanes\nSinte\nSinte Romani\nSinti\nSintí\nTsigane\nZigeuner\nZiguener",
+    "lexvo": "\nSinte Romani [en]",
+    "hhbib_lgcode": "\n15th century \"Bohemians\" as recorded by the Groningen citizen Johan van Ewsum\nAT-001x\nAbruzzian Romani\nAustrian Sinti\nCroatian-Slovene Romani\nGerman Sinte\nGerman Sinti\nI Sinti delle Tre Venezie\nLombardian Sinti\nMagyarországi szinto\nManouche\nManush\nPiedmontese Sinti\nRO-022\nRomani-Sinte\nRomanian Sinti\nSinte Romani\nSinte dialect in Hungary\nSinti\nSinti German Romani\nSinti German Romani from Hameln-Cologne-Hildesheim\nSinti Lombardi\nSinti variety of Piedmont\nSinto Piemontese\nSüd-Italiens Ziguenerisches\nSüditalien Sinte\nVenetian Sinti\nZigeunerdialekt von Zakopane\na significant part of Ascoli's informants came from Molise and Abruzzo Süditalien Sinte",
+    "elcat": "\nEuropean Romany\nManouche\nManuche\nRomani\nRomany\nRommanes\nSinte\nSinte Romani\nSinti\nSintí\nTsigane\nZigeuner\nZiguener",
+    "glottolog": "\nSinte Romani"
+  },
+  "triggers": {
+    "lgcode": "\nkrajina\nsinto\nulerau\nmesto\nburgenland\ndellarcano\ndolenjski\nwesen\nzingara\ntsigane\nvicende\nsinte\nsinti"
+  },
+  "identifier": {
+    "wals": "rbg",
+    "multitree": "rmo",
+    "endangeredlanguages": "5343"
+  },
+  "classification": {
+    "sub": "**hh:hv:ElsikBenisek:Romani**:398-399, 407-408",
+    "subrefs": "\n**hh:hv:ElsikBenisek:Romani**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sinte Romani (5343-rmo) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

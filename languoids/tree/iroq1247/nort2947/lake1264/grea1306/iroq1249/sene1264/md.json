@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Seneca",
+    "hid": "see",
+    "level": "language",
+    "iso639-3": "see",
+    "latitude": "42.56",
+    "longitude": "-77.53",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Seneca](https://endangeredlanguages.com/lang/514)\n[Seneca](https://grambank.clld.org/languages/sene1264)\n[Seneca](https://wals.info/languoid/lect/wals_code_snc)\nhttps://en.wikipedia.org/wiki/Seneca_language\nhttps://phoible.org/languages/sene1264\nhttps://www.wikidata.org/entity/Q1185133"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2887**\n**cldf:borgia:10**\n**cldf:chafe:66**\n**cldf:chafe:77**\n**cldf:chafe:foster:81**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dahl:85**\n**cldf:fenton:40**\n**cldf:foster:82**\n**cldf:goldenweiser:12**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hunt:40:2**\n**cldf:melinger:02**\n**cldf:morgan:01**\n**cldf:morgan:71**\n**cldf:morgan:77**\n**cldf:nichols:92**\n**cldf:noon:49**\n**cldf:quain:37**\n**cldf:schoolcraft:47**\n**hh:d:Bruyas:Seneca**\n**hh:d:Chafe:Seneca**\n**hh:e:AblerTooker:Seneca**\n**hh:e:Fenton:Northern-Iroquoian**\n**hh:g:Chafe:Seneca**\n**hh:hphon:Michelson:Five-Nations-Iroquoian**\n**hh:hv:Julian:Iroquoian**\n**hh:s:Chafe:Seneca**\n**hh:s:Chafe:Seneca:1963**\n**hh:s:Chafe:Seneca:1968**\n**hh:s:Chafe:Seneca:1996**\n**hh:s:Holmer:Seneca**\n**hh:sd:Chafe:Seneca**\n**hh:w:Gallatin:Seneca**\n**mpieva:Kopris1994Argument**\n**mpieva:Michelson1983Acompara**\n**mpieva:Michelson1988Acompara**"
+  },
+  "altnames": {
+    "wals": "\nSeneca",
+    "ruhlen (1987)": "\nSeneca",
+    "moseley & asher (1994)": "\nSeneca",
+    "multitree": "\nSeneca\nSeneca (Canada)\nSeneca (Estados Unidos)\nSeneca (États-Unis d'Amérique)\nTsonnontouan",
+    "lexvo": "\nSeneca [en]\nSeneca language [en]\nСенека [ru]\n세네카어 [ko]",
+    "elcat": "\nSeneca\nTaroko\nTsonnontouan"
+  },
+  "triggers": {
+    "lgcode": "\nseneca"
+  },
+  "identifier": {
+    "wals": "snc",
+    "multitree": "see",
+    "endangeredlanguages": "514"
+  },
+  "classification": {
+    "sub": "**hh:hv:Julian:Iroquoian**:15 **hh:vwtyp:Mithun:Susquehannock**",
+    "subrefs": "\n**hh:vwtyp:Mithun:Susquehannock**\n**hh:hv:Julian:Iroquoian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Seneca (514-see) = Critically Endangered (80 percent certain, based on the evidence available) [Borgia 2010](cldf:borgia:10)"
+  }
+}

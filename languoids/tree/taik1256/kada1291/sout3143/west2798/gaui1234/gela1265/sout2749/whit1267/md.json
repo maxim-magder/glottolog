@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Duoluo Gelao",
+    "hid": "giw",
+    "level": "language",
+    "iso639-3": "giw",
+    "latitude": "23.0196",
+    "longitude": "105.07",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Telue_language\n[White Gelao](https://endangeredlanguages.com/lang/1508)\nhttps://www.wikidata.org/entity/Q8843040"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:daiqingsha:ed:04**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:ostapirat:00**\n**hh:e:WuJing:Judu**\n**hh:g:Kang:Judou-Gelao**\n**hh:g:Kang:Judou-Gelao:2009**\n**hh:h:Hattaway:China**\n**hh:hel:Bradley:EAsia**\n**hh:hld:EdmondsonJinfang:Corridor**\n**hh:hv:Ostapirat:Proto-Kra:1999**\n**hh:hv:Zhang:Gelao**\n**hh:hvs:Li:Southwest-China**\n**hh:hvwphon:Zhou:Gelao**\n**hh:phon:Guoyan:Judu-Gelao**\n**hh:phond:Samarina:Gelao**\n**hh:s:Yang:Guizhou-Gelao**\n**hh:s:Zhang:Gelao**\n**hh:t:Li:Geyang**\n**hh:vld:Li:Duoluo**\n**hh:vld:LongCai:Judu-Dagouchang**\n**iso6393:2011-055**"
+  },
+  "altnames": {
+    "multitree": "\nGelao blanc (China)\nGelao blanc (Viet Nam)\nGelao blanco (Vietnam)\nGelao, White\nSouthwestern Gelao\nTelue\nTú Du",
+    "lexvo": "\nWhite Gelao [en]",
+    "hhbib_lgcode": "\nBelyj Gèlao\nDuoluo\nDuoluo in China\nDuoluo in Vietnam\nDuoluo)\nGelao (Niupo)\nGelao (White/Duoluo/Tu Du)\nGelao Laozhai Ostapirats SW Gelao\nGelao Yueliangwan\nJudu Gelao\nJudu Gelao is Niupo Gelao is Duoluo\nJudu Gelao is close Niupo Gelao which is Duoluo Gelao\nJūdōu Gēlǎo\nLiuzhi Gelao\nNiupo Gelao\nSW Gelao\nTelue (White Gelao-Duoluo)\nWhite Gelao\nZelënyj Gèlao (is obviously just another White Gelao dialect and NOT related to the Green Gelao dialects in China at all)",
+    "elcat": "\nGelao\nSouthwestern Gelao\nTelue\nTú Du\nWhite\nWhite Gelao\n仡佬語多羅方言\n白仡佬"
+  },
+  "triggers": {
+    "lgcode": "\nproto AND kra\njudu"
+  },
+  "identifier": {
+    "multitree": "giw",
+    "endangeredlanguages": "1508"
+  },
+  "classification": {
+    "sub": "**hh:hld:ShearerHongkai:China**:850-852 **hh:vw:Zhang:Yiren**",
+    "subrefs": "\n**hh:hld:ShearerHongkai:China**\n**hh:vw:Zhang:Yiren**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "White Gelao (1508-giw) = Severely Endangered (100 percent certain, based on the evidence available) [(戴慶廈) 2004](cldf:daiqingsha:ed:04)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Dhargari",
+    "hid": "dhr",
+    "level": "language",
+    "iso639-3": "dhr",
+    "latitude": "-24.0601",
+    "longitude": "114.847",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Dhargari](https://grambank.clld.org/languages/dhar1247)\n[Dhargari](https://wals.info/languoid/lect/wals_code_dhr)\n[Tharrgari](https://lexibank.clld.org/languages/bowernpny-Tharrgari)\n[Tharrkari](https://collection.aiatsis.gov.au/austlang/language/w21)\n[Tharrkari](https://endangeredlanguages.com/lang/4078)\nhttps://phoible.org/languages/dhar1247\nhttps://www.wikidata.org/entity/Q10470289",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:centre:09:18**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Austin:Tharrgari**\n**hh:hv:Austin:Kanyara-Mantharta**\n**hh:hv:Dench:Pilbara:Pronoun**\n**hh:s:Klokeid:Thargari**\n**ozbib:1446**\n**ozbib:1986**\n**ozbib:234**\n**ozbib:247**\n**ozbib:249**\n**ozbib:256**\n**ozbib:266**\n**ozbib:5628**"
+  },
+  "altnames": {
+    "wals": "\nDhargari",
+    "wals other": "\nThargari",
+    "ruhlen (1987)": "\nDhargari",
+    "moseley & asher (1994)": "\nThargari",
+    "multitree": "\nDal'gari\nDalgari\nDargari\nDhargari\nTargari\nTarkari\nTarkarri\nTarl-garri\nTarugari\nThargari\nTharrgari\nTharrkari",
+    "lexvo": "\nDhargari [en]",
+    "elcat": "\nDal'gari\nDalgari\nDargari\nDhargari\nTargari\nTarkari\nTarkarri\nTarl-garri\nTarugari\nThargari\nTharrgari\nTharrkari",
+    "aiatsis": "\nDalgari\nDargari\nDhargari\nTargari\nTarkari\nTarkarri\nTarl garri\nTarlgarri\nTarugari\nThadgarri\nThargari\nTharkarri\nTharrgari\nTharrkari"
+  },
+  "triggers": {
+    "lgcode": "\nthargari\ntharrgari"
+  },
+  "identifier": {
+    "wals": "dhr",
+    "multitree": "dhr",
+    "endangeredlanguages": "4078"
+  },
+  "classification": {
+    "sub": "**hh:s:Austin:Mantharta**:24-25 **hh:hv:BowernAtkinson:Pama-Nyungan** **hh:hv:Austin:SPilbara**",
+    "subrefs": "\n**hh:s:Austin:Mantharta**\n**hh:hv:BowernAtkinson:Pama-Nyungan**\n**hh:hv:Austin:SPilbara**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dhargari (dhr-dhr) = 9 (Dormant)."
+  }
+}

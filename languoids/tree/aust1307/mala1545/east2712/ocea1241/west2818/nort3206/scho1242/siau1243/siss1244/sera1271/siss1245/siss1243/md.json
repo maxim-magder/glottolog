@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sissano",
+    "hid": "sso",
+    "level": "language",
+    "iso639-3": "sso",
+    "latitude": "-3.01976",
+    "longitude": "142.049",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sissano](https://endangeredlanguages.com/lang/2685)\n[Sissano (Arop dialect)](https://lexibank.clld.org/languages/abvdoceanic-SissanoAropdialect)\nhttps://en.wikipedia.org/wiki/Sissano_language\nhttps://phoible.org/languages/siss1243\nhttps://www.wikidata.org/entity/Q7530937"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:jun:03**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:ew:Churchill:Sissano**\n**hh:he:Holtker:Neuguinea**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:Sissano**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Laycock:AustronesianSepik**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Friederici:Melanesische**\n**hh:w:Neuhauss:Neu-Guinea-Sprachen**\n**silpng:silpng1956-1990:1713**"
+  },
+  "altnames": {
+    "multitree": "\nSinama\nSinano\nSisano\nSissano",
+    "lexvo": "\nSissano [en]\nSissano language [en]",
+    "elcat": "\nAissano\nSiau\nSinama\nSinano\nSisano\nSissano",
+    "hhbib_lgcode": "\nSissanu"
+  },
+  "triggers": {
+    "lgcode": "\nand AND sissano"
+  },
+  "identifier": {
+    "multitree": "sso",
+    "endangeredlanguages": "2685"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:120-132",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sissano (2685-sso) = Endangered (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

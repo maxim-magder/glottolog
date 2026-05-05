@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Limburgan",
+    "hid": "lim",
+    "level": "language",
+    "iso639-3": "lim",
+    "latitude": "51.015",
+    "longitude": "5.87705",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BE",
+      "DE",
+      "NL"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Limburgish\nhttps://www.wikidata.org/entity/Q102172"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Prikken:Limburgs**\n**hh:g:Dupont:Bree**\n**hh:g:Houben:Maastricht**\n**hh:htyp:Bakkes:Venloos-Roedmonds-Sittards**\n**hh:hv:Bakker:Noord-Limburg**\n**hh:hv:Weijnen:Nederlandse**\n**hh:ld:Dols:Limburgse**\n**hh:phon:Drieskens:Bocholt**\n**hh:phon:Dupont:Bree**\n**hh:phon:Fournier:East-Limburgian**\n**hh:phon:Kars:Roermondsch**\n**hh:phonv:Grootaers:Tongeren**\n**hh:phonv:Rottsches:Krefelder**\n**hh:phonv:Simons:Roermondsch**\n**hh:s:AartsSalemans:Maastrichts**\n**hh:s:Bister:Krefeld**\n**hh:s:Cornelissen:Niederrhein**\n**hh:s:Franssen:Reckheim**\n**hh:s:GrootaersGrauls:Hasseltsch**\n**hh:s:Kunnen:Bree**\n**hh:s:Mertens:Limburgsch**\n**hh:ssoc:BelemansKeulen:Limburgs**\n**hh:sv:Welter:Luettich**\n**hh:w:Cuijpers:Neeritter**"
+  },
+  "altnames": {
+    "multitree": "\nLimburgisch\nLimburgs Plat",
+    "lexvo": "\nBahasa Limburgish [id]\nGjuha limburge [sq]\nIdioma limburgués [es]\nJęzyk limburgijski [pl]\nLengua limburgheise [lij]\nLimba limburgheză [ro]\nLimbordjwès [wa]\nLimborgsch [nds]\nLimbourgeg [br]\nLimbourgek [kw]\nLimbourgeois [fr]\nLimburchsk [fy]\nLimburga lingvo [eo]\nLimburgan [en]\nLimburger [en]\nLimburgera [eu]\nLimburgisc [ang]\nLimburgisch [de]\nLimburgish [en]\nLimburgiska [sv]\nLimburgs [af]\nLimburgsk [no]\nLimburgänapük [vo]\nLimburčina [sk]\nLimbuurchsk [stq]\nLimbörgs [nds]\nLimbůrjs Platt [ksh]\nLingua Limburgica [la]\nLingua limburghese [it]\nLingua limburguesa [gl]\nLìm-pó-ngî [hak]\nLíngua limburguesa [pt]\nlimbourgeois [fr]\nΛιμβουργιανή γλώσσα [el]\nЛимбургский язык [ru]\nלימבורגית [he]\nلغة ليمبورغية [ar]\nሊምቡርግኛ [am]\nリンブルフ語 [ja]\n林堡语 [zh]",
+    "hhbib_lgcode": "\nBelgisch-Limburgs\nBocholt\nBree\nHasseltsch\nLimburgh\nLimburgish\nLimburgs\nLimburgsch\nLuettich Low Franconian\nMaastricht\nMontzen\nNeeritter\nNiederrhein\nReckheim\nRoermonds\nRoermondsch\nSittards\nTongeren\nVenloos"
+  },
+  "triggers": {
+    "lgcode": "\nlimburgs\nlimburgse\nstad"
+  },
+  "identifier": {
+    "multitree": "lim"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:859 **hh:hv:Weijnen:Nederlandse**:320-347",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**\n**hh:hv:Weijnen:Nederlandse**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Limburgian-Ripuarian (1020-ksh, lim) = Vulnerable"
+  }
+}

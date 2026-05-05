@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Mizo",
+    "hid": "lus",
+    "level": "language",
+    "iso639-3": "lus",
+    "latitude": "22.6138",
+    "longitude": "92.6247",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Lushai](https://lexibank.clld.org/languages/marrisonnaga-Lushai)\n[Mizo](https://grambank.clld.org/languages/lush1249)\n[Mizo](https://wals.info/languoid/lect/wals_code_miz)\n[Mizo_Lushai](https://lexibank.clld.org/languages/sagartst-Lushai)\nhttps://en.wikipedia.org/wiki/Mizo_language\nhttps://phoible.org/languages/lush1249\nhttps://www.wikidata.org/entity/Q36147"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:635**\n**cldf:hillard:92**\n**cldf:levi-strauss:52**\n**cldf:lorrain:savidge:84**\n**cldf:lorrain:savidge:98**\n**cldf:murthy:subbarao:00**\n**cldf:subbarao:04**\n**hh:d:Jini:Mizo**\n**hh:d:Kumar:Mizo**\n**hh:d:Pachuau:Mizo**\n**hh:d:Paidalova:Lushai**\n**hh:d:Vanlalngheta:Mizo**\n**hh:e:Chakravarti:Lushais**\n**hh:e:Tribal:Pang**\n**hh:g:Chhangte:Mizo**\n**hh:g:Chhangte:Mizo:1986**\n**hh:g:Subbarao:Mizo**\n**hh:gd:LorrainSavidge:Lushai**\n**hh:gd:LorrainSavidge:Lushai:1898**\n**hh:h:Bernot:Chittagong**\n**hh:h:Bernot:Chittagong:1960**\n**hh:h:Ruhemann:Burma-Assam**\n**hh:he:Bessaignet:Chittagong**\n**hh:he:Ganchaudhuri:Tripura**\n**hh:hes:Shakespear:Kuki**\n**hh:hew:Lewin:Chittagong**\n**hh:hew:Luce:Burma**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Konow:Kuki-Chin**\n**hh:hv:Shafer:Naga**\n**hh:hvw:Button:NChin**\n**hh:hvw:Button:NChin:2011**\n**hh:hvw:Damant:Brahmaputra-Ningtri**\n**hh:hvw:Grierson:3:III**\n**hh:hvw:Marrison:Naga**\n**hh:hvw:Thang:Chin**\n**hh:phon:Burling:Lushai**\n**hh:phon:Weidert:Lushai**\n**hh:s:Chhangte:Mizo:1989**\n**hh:s:Khiangte:Lushai**\n**hh:s:Lalthangliana:Mizo**\n**hh:s:Shaha:Lushai**\n**hh:s:Zawla:Mizo**\n**hh:t:Khiangte:Mizo**\n**hh:w:Campbell:India**\n**hh:w:Hodson:Language**\n**hh:w:Hutchinson:Lushai**\n**hh:w:Lewin:Lushai**\n**hh:wsoc:Kimetal:Kuki-Chin**\n**mpieva:Lorrain1990Dictiona**"
+  },
+  "altnames": {
+    "glottolog": "\nLushai",
+    "wals": "\nMizo",
+    "wals other": "\nLushai\nLushai (Mizo)",
+    "ruhlen (1987)": "\nLushai-Mizo",
+    "moseley & asher (1994)": "\nMizo",
+    "multitree": "\nDuhlian Twang\nDulien\nHaulngo\nHualngo\nLe\nLei\nLukhai\nLusago\nLusai\nLusei\nLushai\nLushei\nLushēi\nMizo\nSailau\nWhelngo",
+    "lexvo": "\nLingua Mizo [la]\nLushai [en]\nMizo [de]\nMizo language [en]\nlushai [fr]\nमिज़ो भाषा [hi]\nমিজো ভাষা [bn]\nமிசோ மொழி [ta]\nภาษาไมโซ [th]",
+    "hhbib_lgcode": "\nLushai\nLushai (Lewin)\nLushai-Ngente\nLushai/Mizo\nLushei\nPang"
+  },
+  "triggers": {
+    "lgcode": "\nzau\nfables\nmizo\nlushai\nesops"
+  },
+  "identifier": {
+    "wals": "miz",
+    "multitree": "lus"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mizo (1230-lus) = Vulnerable"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Waima",
+    "hid": "rro",
+    "level": "language",
+    "iso639-3": "rro",
+    "latitude": "-8.67145",
+    "longitude": "146.544",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Roro](https://lexibank.clld.org/languages/abvdoceanic-Roro)\n[Roro](https://wals.info/languoid/lect/wals_code_ror)\n[Waima](https://grambank.clld.org/languages/waim1251)\nhttps://en.wikipedia.org/wiki/Waima_language\nhttps://phoible.org/languages/waim1251\nhttps://www.wikidata.org/entity/Q34197"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bluhme:70**\n**cldf:capell:43:2**\n**cldf:strong:13**\n**hh:hdial:Davis:Roro**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Lawes:New-Guinea**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Central-Papua**\n**hh:s:BeataKim:Waima**\n**hh:s:KimKim:Waima**\n**hh:s:Strong:Roro-Mekeo**\n**hh:w:dAlbertis:NG**\n**silpng:silpng1991-2000:2241**\n**silpng:silpng1991-2000:2242**\n**silpng:silpng1991-2000:2243**\n**silpng:silpng1991-2000:2244**\n**silpng:silpng1991-2000:2245**\n**silpng:silpng1991-2000:2246**\n**silpng:silpng1991-2000:2247**\n**silpng:silpng1991-2000:2248**\n**silpng:silpng1991-2000:2249**\n**silpng:silpng1991-2000:2250**\n**silpng:silpng1991-2000:2251**\n**silpng:silpng1991-2000:2252**\n**silpng:silpng1991-2000:2253**\n**silpng:silpng1991-2000:2254**\n**silpng:silpng1991-2000:2255**\n**silpng:silpng1991-2000:2256**\n**silpng:silpng1991-2000:2257**\n**silpng:silpng1991-2000:2258**\n**silpng:silpng1991-2000:2259**\n**silpng:silpng2001-2003:427**\n**silpng:silpng2001-2003:61**"
+  },
+  "altnames": {
+    "wals": "\nRoro",
+    "wals other": "\nWaima",
+    "ruhlen (1987)": "\nRoro",
+    "moseley & asher (1994)": "\nRoro",
+    "multitree": "\nRoro\nWaima",
+    "lexvo": "\nWaima [en]",
+    "hhbib_lgcode": "\nMaiva\nRoro\nWaima or Maiva\nYule Island/Hall Sound"
+  },
+  "triggers": {
+    "lgcode": "\nroro\nwaima\niruba\neumu\nmaeaka\norikia\nmarere\nmobenau\norina\nkarenda\nkebaabi\nenaku\nkurupi\nekia\noruoruna"
+  },
+  "identifier": {
+    "wals": "ror",
+    "multitree": "rro"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:g:Jones:Mekeo**:23-25",
+    "subrefs": "\n**hh:g:Jones:Mekeo**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Waima (rro-rro) = 5 (Developing)."
+  }
+}

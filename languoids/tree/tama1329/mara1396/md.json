@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mararit",
+    "hid": "mgb",
+    "level": "language",
+    "iso639-3": "mgb",
+    "latitude": "14.087",
+    "longitude": "21.6408",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Mararit](https://grambank.clld.org/languages/mara1396)\nhttps://en.wikipedia.org/wiki/Mararit_language\nhttps://www.wikidata.org/entity/Q56359"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:5913**\n**hh:he:DoornbosKapteijns:Tama**\n**hh:hvw:DoornbosBender:Wadai-Darfur**\n**hh:hvw:Edgar:Tama:Lexicon**\n**hh:hw:Benton:WSudan**\n**hh:s:Lukas:Wadai**"
+  },
+  "altnames": {
+    "multitree": "\nAbiri\nAbiyi\nEbiri\nMararet\nMararit\nMerarit",
+    "lexvo": "\nMararit [en]\nMararit language [en]\nMarariteg [br]",
+    "hhbib_lgcode": "\nAbu Sharib\nAbu Shārib (Mararīt and Ménăgōn)\nBarth-Abu Shaarib\nIbiri\nMerarit\nWorbe-Abu Shaarib"
+  },
+  "triggers": {
+    "lgcode": "\nmararet"
+  },
+  "identifier": {
+    "multitree": "mgb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edgar:Tama** **hh:hv:Bender:ESudanic**",
+    "subrefs": "\n**hh:hv:Edgar:Tama**\n**hh:hv:Bender:ESudanic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mararit (mgb-mgb) = 6a* (Vigorous)."
+  }
+}

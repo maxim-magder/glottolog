@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Nüpode Huitoto",
+    "hid": "hux",
+    "level": "language",
+    "iso639-3": "hux",
+    "latitude": "-2.34495",
+    "longitude": "-70.9559",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "CO",
+      "PE"
+    ],
+    "links": "\n[Huitoto (Muinane)](https://wals.info/languoid/lect/wals_code_hmu)\n[Nipode](https://endangeredlanguages.com/lang/2982)\n[Witoto Ni̵pode](https://lexibank.clld.org/languages/hubercolumbian-WitotoNipode)\n[witoto ni̵pode](https://lexibank.clld.org/languages/chaconcolumbian-WitotoNipode)\nhttps://en.wikipedia.org/wiki/N%C3%BCpode_Huitoto_language\nhttps://www.wikidata.org/entity/Q56333"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:291**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:lewis:ed:09**\n**cldf:minor:56**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**fabreall2009ann:Witoto-Bora_uitoto_muinane0**\n**fabreall2009ann:Witoto-Bora_uitoto_muinane1**\n**fabreall2009ann:Witoto-Bora_uitoto_muinane2**\n**fabreall2009ann:Witoto-Bora_uitoto_muinane4**\n**fabreall2009ann:Witoto-Bora_uitoto_muinane7**\n**fabreall2009ann:Witoto-Bora_uitoto_muinane9**\n**hh:d:MinorMinor:HuitotoMuinane**\n**hh:he:ChirifMora:Comunidades-Nativas**\n**hh:hv:Aschmann:Witotoan**\n**hh:hv:SeifartEcheverri:Bora-Witoto:2011**\n**hh:hv:SeifartEcheverri:Bora-Witotoan**\n**hh:hv:Uriarte:Amazonia-Peruana**\n**hh:hvw:HuberReed:Colombia**\n**hh:phon:Jimenez:Nipode**\n**hh:typ:MinorLoos:Witoto-Predicates**\n**hh:w:Wise:Selva-Peruana**\n**mpieva:Minor1971Vocabula**\n**sil16:11757**\n**sil16:20895**\n**sil16:20896**\n**sil16:20897**\n**sil16:20903**\n**sil16:34409**"
+  },
+  "altnames": {
+    "glottolog": "\nNupode Huitoto",
+    "wals": "\nHuitoto (Muinane)",
+    "wals other": "\nHuitoto Muinane\nWitoto Muinane",
+    "multitree": "\nHuitoto (Muinane)\nHuitoto (Nipode)\nHuitoto Muinane\nHuitoto, Nüpode\nMuinane\nMuinane Huitoto\nNipode\nNipode Witoto\nNïpode\nNüpode Huitoto\nUitoto-Kaimo\nWitoto Muinane",
+    "lexvo": "\nNüpode Huitoto [en]\nWitoto nipode [fr]",
+    "hhbib_lgcode": "\nHuitoto Muinane\nHuitoto-Nüpode\nMuinane\nMuinane Huitoto\nNɨpode\nWitoto Nipode\nWitoto-Muinane",
+    "elcat": "\nHuitoto Muinane\nHuitoto Nipode\nMuinane Huitoto\nNipode\nNipode Witoto\nNïpode\nNüpode\nNüpode Huitoto\nWitoto-Kaimo"
+  },
+  "triggers": {
+    "lgcode": "\nNOT les AND witoto\nchontaduro\nuinuac\nrealizado\ncuellena"
+  },
+  "identifier": {
+    "wals": "hmu",
+    "multitree": "hux",
+    "endangeredlanguages": "2982"
+  },
+  "classification": {
+    "sub": "**hh:hv:SeifartEcheverri:Bora-Witotoan**",
+    "subrefs": "\n**hh:hv:SeifartEcheverri:Bora-Witotoan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nipode (2982-hux) = Severely Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

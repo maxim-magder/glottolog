@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ocotlán Zapotec",
+    "hid": "zac",
+    "level": "language",
+    "iso639-3": "zac",
+    "latitude": "16.8258",
+    "longitude": "-96.7263",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Ocotlán Zapotec](https://grambank.clld.org/languages/ocot1244)\nhttps://en.wikipedia.org/wiki/Ocotl%C3%A1n_Zapotec\nhttps://www.wikidata.org/entity/Q7076643"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Olson:Ocotlan**\n**hh:hvw:Rendon:Papabuco**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:s:Padilla:Zapoteco-Santiago-Apostol**\n**hh:t:Olson:Ocotlan**\n**sil16:49132**"
+  },
+  "altnames": {
+    "glottolog": "\nOcotlan Zapotec",
+    "multitree": "\nCentral Sapoteko\nOcotlán Oeste Zapotec\nOcotlán Zapotec\nZapotec\nZapotec, Ocotlán\nZapoteco de San Felipe Tejalápam\nZapoteco del Poniente de Ocotlán\nZapotèque de San Felipe Tejalapan",
+    "lexvo": "\nOcotlán Zapotec [en]",
+    "hhbib_lgcode": "\nSanta Lucia Ocotlán\nZapotec-Ocotlán\nZapoteco Santiago Apostol"
+  },
+  "triggers": {
+    "lgcode": "\nhashta\napostol\nadjetivos"
+  },
+  "identifier": {
+    "multitree": "zac"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Central-Zapotec**",
+    "subrefs": "\n**hh:hv:Campbell:Central-Zapotec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Ocotlán (8791-zac) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

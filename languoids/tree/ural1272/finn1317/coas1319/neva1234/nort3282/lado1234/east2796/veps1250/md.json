@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Veps",
+    "hid": "vep",
+    "level": "language",
+    "iso639-3": "vep",
+    "latitude": "60.3353",
+    "longitude": "34.7865",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Veps](https://endangeredlanguages.com/lang/3002)\n[Veps](https://grambank.clld.org/languages/veps1250)\n[Veps](https://lexibank.clld.org/languages/northeuralex-vep)\n[Veps](https://wals.info/languoid/lect/wals_code_vep)\nhttps://en.wikipedia.org/wiki/Veps_language\nhttps://phoible.org/languages/veps1250\nhttps://www.wikidata.org/entity/Q32747"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borisova:24**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:etoeva:77**\n**cldf:humphreys:mits:ed:93**\n**cldf:kozlova:82**\n**cldf:laanest:82**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:makarev:29**\n**cldf:makarev:32**\n**cldf:malinovskaja:30**\n**cldf:morev:24**\n**cldf:np:nd:264**\n**cldf:pimenov:65**\n**cldf:puura:12**\n**cldf:puura:karjalainen:etal:13**\n**cldf:ravdonikas:26**\n**cldf:sedov:87**\n**cldf:semenov:ed:00:2**\n**cldf:tolstov:ed:64**\n**cldf:ushakov:90**\n**hh:d:Hamalainen:Vepssko**\n**hh:d:Uspenskij:Cudskij**\n**hh:d:Zajceva:Vepsskij**\n**hh:d:ZajcevaMullonen:Vepsskogo**\n**hh:g:Brodskij:Vepsskogo**\n**hh:g:Grunthal:Vepsan**\n**hh:g:Kettunen:Vepsan**\n**hh:g:Zajceva:Vepsskogo**\n**hh:hv:Zajtseva:Vepsskij**\n**hh:phont:Lonnrot:Nord-Tschudiska**\n**hh:s:Ahlqvist:Nord-Tschudiskan**\n**hh:s:Grunthal:Veps**\n**hh:s:Hamalainen:Vepsan**\n**hh:s:Hamalainen:Vepskijan**\n**hh:s:KettunenSiro:Vepsan**\n**hh:s:SovijarviPeltola:Aanisvepsan**\n**hh:s:Zajceva:Vepsskij**\n**hh:std:Ujfalvy:Vepse**\n**hh:t:Setala:Keskivepsan**\n**mpieva:Mark1925DiePosse**\n**mpieva:Tikka1992Vepsansu**\n**mpieva:Zaitseva2001Vepsanki**\n**mpieva:Zaizeva2002Vepsskij**"
+  },
+  "altnames": {
+    "wals": "\nVeps",
+    "moseley & asher (1994)": "\nVepsian",
+    "multitree": "\nVeps\nVepsian\nVepsio\nVepsisch\nVepsä\nWepsisch\nchudj\nlüd\nlüüd\nl΄üd'ikel΄\nvepse\nvepsskij jazyk\nvepsy\nvepsä\nvesj",
+    "lexvo": "\nIdioma vepsio [es]\nJęzyk wepski [pl]\nLingua vepsa [gl]\nVeps [en]\nVeps language [en]\nVepsa keel [et]\nVepsa lingvo [eo]\nVepse [ca]\nVepseg [br]\nVepsisk [no]\nVepsisk språk [nn]\nVepsiska [sv]\nVepsze nyelv [hu]\nVepsä kiil [vro]\nVepsägiella [se]\nVepsän kieli [fi]\nVepsų kalba [lt]\nVepština [cs]\nWepsies [af]\nWepsisch [nl]\nWepsische Sprache [de]\nВепс кыв [kv]\nВепс мотт [ce]\nВепс чĕлхи [cv]\nВепски език [bg]\nВепсский язык [ru]\nВепссэнь кель [myv]\nВепська мова [uk]\nヴェプス語 [ja]\n벱스어 [ko]",
+    "elcat": "\nChudy\nChuhari\nChukhari\nVeps\nVepsian\nVepsisch\nVepsä\nWepsisch\nchudj\nlüd\nlüüd\nl΄üd'ikel΄\nvepse\nvepsskij jazyk\nvepsy\nvepsä\nvepsän kel’\nvesj\nвепсский язык"
+  },
+  "triggers": {
+    "lgcode": "\nmurteista\naanisvepsan\ntchoude\nvepse\ntschudiskan\nnovyj\nvepsskij\nuralischen\nvepsskogo\nvepsan\ntschudiska\nvepskijan"
+  },
+  "identifier": {
+    "wals": "vep",
+    "multitree": "vep",
+    "endangeredlanguages": "3002"
+  },
+  "classification": {
+    "sub": "**hh:hv:Viitso:Fennic**",
+    "subrefs": "\n**hh:hv:Viitso:Fennic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Veps (3002-vep) = Severely Endangered (100 percent certain, based on the evidence available) (The language has lost its foothold in the families and is no longer used cross-generationally or intra-generationally… The domains in which Veps is used are very few and are usually restricted to the private spheres of life. Furthermore, children are no longer encouraged by their parents to use Veps. Parents might not consider learning Veps important, especially since knowledge of the minority language does not entail benefits or advantages in, for example, the labour market.) [Puura et al. 2013](cldf:puura:karjalainen:etal:13)"
+  }
+}

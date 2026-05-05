@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Psikye",
+    "hid": "kvj",
+    "level": "language",
+    "iso639-3": "kvj",
+    "latitude": "10.677",
+    "longitude": "13.569",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Higi Kamale](https://lexibank.clld.org/languages/kraftchadic-Higikamale)\n[Psikye](https://grambank.clld.org/languages/psik1239)\nhttps://en.wikipedia.org/wiki/Psiky%C9%9B_dialect\nhttps://www.wikidata.org/entity/Q56304"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lembezat:61**\n**cldf:meek:31:2**\n**hh:e:vanBeek:Kapsiki**\n**hh:e:vanBeek:Kapsiki-Higi**\n**hh:e:vanBeek:Kapsiki:1981**\n**hh:g:Smith:Kapsiki**\n**hh:hw:Kraft:Chadic:II**\n**hh:hw:Strumpell:Mandara-Adamaua**"
+  },
+  "altnames": {
+    "multitree": "\nKamsiki\nKapsiki\nPsikye\nPtsake",
+    "lexvo": "\nPsikye [en]\nPsikye jezik [hr]\nPsikye language [en]\nPsikyeg [br]",
+    "hhbib_lgcode": "\nHigi Kamale\nKapsiki"
+  },
+  "triggers": {
+    "lgcode": "\nkapsiki"
+  },
+  "identifier": {
+    "multitree": "kvj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:57-58",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Psikye (kvj-kvj) = 5* (Developing)."
+  }
+}

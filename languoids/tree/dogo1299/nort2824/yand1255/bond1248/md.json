@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Najamba-Kindige",
+    "hid": "dbu",
+    "level": "language",
+    "iso639-3": "dbu",
+    "latitude": "14.9066",
+    "longitude": "-3.32636",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Bondu So](https://endangeredlanguages.com/lang/8736)\n[Najamba](https://lexibank.clld.org/languages/hantganbangime-Najamba)\nhttps://en.wikipedia.org/wiki/Bondum_Dogon\nhttps://www.wikidata.org/entity/Q3912758"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:heath:12**\n**cldf:simons;:fennig:ed:13**\n**hh:g:Heath:Najamba**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**hh:ld:Hantgan:Bondu-So**\n**hh:typ:Kassambara:Bondum**\n**sil16:45051**"
+  },
+  "altnames": {
+    "multitree": "\nBondum-Dom\nDogon\nDogon, Bondum Dom",
+    "lexvo": "\nBondum Dom Dogon [en]",
+    "hhbib_lgcode": "\nBondu So\nBondum Dom\nDogon-Bondum Dom\nNajanga-Kindige\nTintam",
+    "elcat": "\nBondu So\nBondum Dom\nBondum Dom Dogon\nBondum dom\nBondum-Dom\nDogon\nNajamba-Kindige\nNorth Plateau Dogon"
+  },
+  "triggers": {
+    "lgcode": "\nbondum\nnajamba\nbondu\nsurvey AND dogon"
+  },
+  "identifier": {
+    "multitree": "dbu",
+    "endangeredlanguages": "8736"
+  },
+  "classification": {
+    "sub": "**hh:hw:Hochstetler:Dogon**, **hh:hv:HeathProkhorov:Dogon** **hh:hv:MoranProkic:Dogon**",
+    "subrefs": "\n**hh:hw:Hochstetler:Dogon**\n**hh:hv:HeathProkhorov:Dogon**\n**hh:hv:MoranProkic:Dogon**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bondu So (8736-dbu) = Vulnerable (20 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

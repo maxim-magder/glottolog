@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Church Slavic",
+    "hid": "chu",
+    "level": "language",
+    "iso639-3": "chu",
+    "latitude": "43.7171",
+    "longitude": "22.8442",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Church_Slavonic\nhttps://www.wikidata.org/entity/Q33251",
+    "timespan": "0900-01-01/1100-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2054**\n**cldf:haug:12**\n**hh:g:Elkina:Staroslavyanskij**\n**hh:g:Gasparov:Old-Church-Slavonic**\n**hh:g:Kamchatnov:Staroslavyanskij**\n**hh:g:Leskien:Altbulgarischen**\n**hh:g:Lunt:Old-Church-Slavonic**\n**hh:g:Marcialis:Paleoslava**\n**hh:g:Nandris:OCS**\n**hh:g:Regier:Old-Church-Slavic**\n**hh:g:Trunte:Altkirchenslavisch**\n**hh:s:Horbatsch:Kirchenslavische**\n**hh:s:Huntley:Old-Church-Slavonic**\n**hh:st:Zhukovskaya:Drevnejskix-Slavyanskix**\n**ldh:item_404572**\n**mpieva:Hansen2001Dasslavi**\n**mpieva:Leskien1919Grammati**\n**mpieva:Rottmann2002Handbuch**\n**mpieva:Schmalstieg1983Anintrod**"
+  },
+  "altnames": {
+    "glottolog": "\nChurch Slavic",
+    "multitree": "\nAlt-slavisch\nOld Bulgarian\nOld Church Slavic\nOld Church Slavonic\nSlavonic, Old Church\naltbulgarische\naltkirchenslawische",
+    "lexvo": "\nAltkirchenslawische Sprache [de]\nAntic eslau [ca]\nAntico slavo ecclesiastico [it]\nAntiguo eslavo eclesiástico [es]\nBahasa Gereja Slavonia Lama [id]\nBaznīcslāvu valoda [lv]\nChurch Slavic [en]\nChurch Slavonic [en]\nEslavo eclesiástico [pt]\nEslavon [oc]\nFornkyrkoslaviska [sv]\nGammelkirkeslavisk [no]\nHen Slafoneg Eglwysig [cy]\nJęzyk staro-cerkiewno-słowiański [pl]\nLingua Slavonica antiqua [la]\nMuinaiskirkkoslaavi [fi]\nOld Bulgarian [en]\nOld Church Slavonic [en]\nOld Slavonic [en]\nOldkirkeslavisk [da]\nOu Kerkslawies [af]\nOudkerkslavisch [nl]\nSenoji bažnytinė slavų kalba [lt]\nStara cerkvena slovanščina [sl]\nStaro-cerkwjejno-słowjańska rěc [dsb]\nStaroslavenski jezik [bs]\nStaroslovienčina [sk]\nStaroslověnština [cs]\nVieux-slave [fr]\nslavon d'église [fr]\nslavon liturgique [fr]\nvieux bulgare [fr]\nvieux slave [fr]\nÓegyházi szláv nyelv [hu]\nΑρχαία εκκλησιαστική σλαβονική γλώσσα [el]\nВатă славян чĕлхи [cv]\nСловѣ́ньскъ ѩꙁꙑ́къ [cu]\nСтаробългарски език [bg]\nСтарославянский язык [ru]\nСтарословенски јазик [mk]\nСтарословенски језик [sr]\nСтароцерковнослов'янська мова [uk]\nШіркеу славян тілі [kk]\nסלאבית כנסייתית עתיקה [he]\nภาษาโบสถ์สลาโวนิกโบราณ [th]\nძველი სლავური ენა [ka]\n古代教会スラヴ語 [ja]\n古教會斯拉夫語 [zh]"
+  },
+  "triggers": {
+    "lgcode": "\nadelphotes\ndrevnejskix\nslavyanskix\ngedruckte\ntekstologiya\naltkirchenslavischen\ngriechisch\nkirchenslavische\nstaroslavyanskij\naltbulgarischen\nojitlan"
+  },
+  "identifier": {
+    "multitree": "chu"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic** **hh:hv:Poljakov:Slavic**",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**\n**hh:hv:Poljakov:Slavic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Slavonic, Church (chu-chu) = 9 (Second language only)."
+  }
+}

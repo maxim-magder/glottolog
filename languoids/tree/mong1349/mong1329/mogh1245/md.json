@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mogholi",
+    "hid": "mhj",
+    "level": "language",
+    "iso639-3": "mhj",
+    "latitude": "34.25",
+    "longitude": "62.28",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF"
+    ],
+    "links": "\n[Mogholi](https://endangeredlanguages.com/lang/4657)\nhttps://www.wikidata.org/entity/Q13336\nhttps://en.wikipedia.org/wiki/Moghol_language\nhttps://phoible.org/languages/mogh1245\n[Moghol](https://wals.info/languoid/lect/wals_code_mog)",
+    "timespan": "1980-01-01/1980-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4223**\n**cldf:alpatov:ed:97:9**\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:kieffer:82**\n**cldf:kuzmenkov:97**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:michael:71**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:schurmann:62**\n**cldf:weiers:72**\n**cldf:weiers:75**\n**hh:e:Schurmann:Moghols**\n**hh:g:Weiers:Moghol**\n**hh:phonw:Hesche:Mogoli**\n**hh:s:Kuzmenkov:Mogolskij**\n**hh:s:Ramstedt:Moghol**\n**hh:s:Weiers:Moghol**\n**hh:typd:Iwamura:Zirni**\n**hh:v:vonderGabelentz:Hazaras-Aimaks**\n**hh:w:Leech:Panjabi**\n**mpieva:2003TheMongo**\n**mpieva:Heissig19741977Schriftl**\n**mpieva:Weiers1972DieSprac**"
+  },
+  "altnames": {
+    "wals": "\nMoghol",
+    "wals other": "\nMogol'",
+    "moseley & asher (1994)": "\nMoghol",
+    "multitree": "\nMoghol\nMogholi\nMogol\nMogul\nMongolen\nMongul",
+    "lexvo": "\nJęzyk mogolski [pl]\nMoghol [de]\nMoghol language [en]\nMogholi [en]\nMogolieg [br]\nМоголски јазик [mk]\nМогольский язык [ru]\nภาษาโมโคล [th]",
+    "hhbib_lgcode": "\nMoghal Aimaks\nMoghol\nMogol'skij",
+    "elcat": "\nMoghol\nMogholi\nMogol\nMogul\nMongolen\nMongul"
+  },
+  "triggers": {
+    "lgcode": "\nschriftliche\nmoghol\nherat\nmogolskij"
+  },
+  "identifier": {
+    "wals": "mog",
+    "multitree": "mhj",
+    "endangeredlanguages": "4657"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rybatzki:Mongolic**",
+    "subrefs": "\n**hh:hv:Rybatzki:Mongolic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mogholi (4657-mhj) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

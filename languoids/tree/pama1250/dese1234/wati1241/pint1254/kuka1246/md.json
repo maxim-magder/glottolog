@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kukatja",
+    "hid": "kux",
+    "level": "language",
+    "iso639-3": "kux",
+    "latitude": "-20.3321",
+    "longitude": "127.666",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Kukatja](https://collection.aiatsis.gov.au/austlang/language/a68)\n[Kukatja](https://endangeredlanguages.com/lang/5886)\n[Kukatja](https://lexibank.clld.org/languages/bowernpny-Kukatja)\nhttps://phoible.org/languages/kuka1246\nhttps://www.wikidata.org/entity/Q10549839"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:caffery:10**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:thieberger:96**\n**cldf:tryon:07**\n**hh:e:Furlong:Kukatja**\n**hh:hbw:MenningNash:Central-Australian**\n**hh:s:Neville:Kukatja**\n**hh:s:Rojas-Berscia:Kukatja**\n**hh:sd:Valiquette:Kukatja**\n**hh:v:Platt:Kukata-Kukatja**\n**hh:w:Basedow:Aluridja**\n**mpieva:MacGregor1996Studiesi**\n**ozbib:1045**\n**ozbib:1409**\n**ozbib:2896**\n**ozbib:2897**\n**ozbib:2979**\n**ozbib:3948**\n**ozbib:4305**\n**ozbib:4455**\n**ozbib:4571**\n**ozbib:4572**\n**ozbib:4573**\n**ozbib:4574**\n**ozbib:4575**\n**ozbib:4576**\n**ozbib:4630**\n**ozbib:4631**\n**ozbib:4835**\n**ozbib:4884**\n**ozbib:504**\n**ozbib:5460**\n**ozbib:5473**\n**ozbib:5481**\n**ozbib:5628**\n**ozbib:5629**\n**ozbib:5922**\n**ozbib:6199**\n**ozbib:6220**\n**ozbib:6222**\n**ozbib:6223**\n**ozbib:6720**\n**ozbib:728**\n**ozbib:942**"
+  },
+  "altnames": {
+    "multitree": "\nAluridja\nBedengo\nBidong\nBidungo\nBoonara\nBunara\nGogada\nGogadja\nGogoda\nGugada\nGugadja\nGugudja\nIlbaridja\nJulbaritja\nJulbre\nJuluridja\nJumu\nKokatja\nKu-kuruba\nKukacha\nKukaja\nKukatja\nLoorudgee\nLoorudgie\nLoritcha\nLoritja\nLuritcha\nLuritja\nLurritji\nMaduntara\nMaiulatara\nManggai\nNambulatji\nPanara\nPardoo\nPeedona\nPeedong\nPidung\nPidunga\nWanaeka\nWangatjunga\nWangatunga\nWangkadjungga\nWangkatjunga\nWangkatunga\nWangu\nWankutjunga",
+    "lexvo": "\nKukatja [en]",
+    "hhbib_lgcode": "\nAluridja\nKu-katja",
+    "elcat": "\nAluridja\nBedengo\nBidong\nBidungo\nBoonara\nBunara\nGogada\nGogadja\nGogoda\nGugada\nGugadja\nGugudja\nIlbaridja\nJulbaritja\nJulbre\nJuluridja\nJumu\nKokatja\nKu-kuruba\nKukacha\nKukaja\nKukatja\nLoorudgee\nLoorudgie\nLoritcha\nLoritja\nLuritcha\nLuritja\nLurritji\nMaduntara\nMaiulatara\nManggai\nNambulatji\nPanara\nPardoo\nPeedona\nPeedong\nPidung\nPidunga\nWanaeka\nWangatjunga\nWangatunga\nWangkadjungga\nWangkatjunga\nWangkatunga\nWangu\nWankutjunga",
+    "aiatsis": "\nBedengo\nBidong\nBidungo\nBoonara\nBunara\nGogada\nGogadja\nGogadya\nGogoda\nGogodj\nGogodja\nGugada\nGugadja\nGugadji\nGugudja\nIlbaridja\nJulbaritja\nJulbre\nKokata\nKokatja\nKoonggada\nKu kuruba\nKukacha\nKukada\nKukadja\nKukaja\nKukata\nKukatja\nKukatji\nKukuruba\nManggai\nNambulatji\nPanara\nPardoo\nPeedona\nPeedong\nPidung\nPidunga\nWanaeka\nWangatjunga\nWangatunga\nWangkadjungga\nWangkatjunga\nWangkatunga\nWangu\nWankutjunga"
+  },
+  "triggers": {
+    "lgcode": "\nkukatja"
+  },
+  "identifier": {
+    "multitree": "kux",
+    "endangeredlanguages": "5886"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kukatja (5886-kux) = Vulnerable (100 percent certain, based on the evidence available) (Central Australia is also home to 40 per cent of Australia’s ‘strong’ Indigenous languages... These languages, taught to children as their first language and spoken across all generations [include] Kukatja) [Caffery 2010](cldf:caffery:10)"
+  }
+}

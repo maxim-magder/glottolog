@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gafat",
+    "hid": "gft",
+    "level": "language",
+    "iso639-3": "gft",
+    "latitude": "10.11067",
+    "longitude": "38.18108",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56910\nhttps://en.wikipedia.org/wiki/Gafat_language",
+    "timespan": "1960-01-01/1960-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:1974**\n**eballiso2009:23386**\n**eballiso2009:25141**\n**eballiso2009:34024**\n**eballiso2009:4491**\n**eballiso2009:46696**\n**hh:e:Tamrat:Gafat**\n**hh:h:TuckerBryan:Non-Bantu-NEAfrica:1956**\n**hh:hel:Sommer:Survey**\n**hh:hv:Adelungetal:Mithridates:31**\n**hh:hv:Leslau:Ethiopia**\n**hh:hvtyp:Hetzron:Outer**\n**hh:hvw:Beke:Abyssinia**\n**hh:hvw:Hudson:Northeast-African-Semitic**\n**hh:hvw:Latham:Comparative**\n**hh:s:Nosnitsyn:Gafat**\n**hh:std:Leslau:Gafat**\n**hh:sv:Leslau:Gafat**\n**mpieva:Leslau1956Etudedes**\n**sil16:44374**"
+  },
+  "altnames": {
+    "multitree": "\nGafat",
+    "lexvo": "\nGafat [ca]\nGafat jezik [hr]\nGafat language [en]\nGafateg [br]\nJęzyk gafat [pl]",
+    "hhbib_lgcode": "\n2xGafat"
+  },
+  "triggers": {
+    "lgcode": "\ngafat\nkinnaird"
+  },
+  "identifier": {
+    "multitree": "gft"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:v:BulakhKogan:Ethiopian-Semitic:2014**",
+    "subrefs": "\n**hh:v:BulakhKogan:Ethiopian-Semitic:2014**\n**hh:hv:Weninger:Ethio-Semitic**\n**hh:hv:Voigt:North-South-Ethiopian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Gafat (89-gft) = Extinct"
+  }
+}

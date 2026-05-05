@@ -1,0 +1,21 @@
+{
+  "core": {
+    "name": "Bisu (Retired)",
+    "level": "language",
+    "iso639-3": "bii",
+    "hid": "bii"
+  },
+  "iso_retirement": {
+    "comment": "Laomian is sometimes included in Bisu by Chinese linguists. Xu (2005:100)\nconfirms this affiliation but notes that degrees of intelligibility vary between\nThailand Bisu and Laomian speakers in different areas; in contrast, Xu reports\nthat the related dialect Laopin shares ease of intelligibility with Bisu.\nBradley (2002:106) recommends Laomian as a distinct language, and remarks\n(personal communication) that intelligibility between Bisu and Laomian is low in\nparticular. Zhang (2004) also considers Laomian to be a distinct variety.\nBradley recommends that Laopin (spoken by only 240 people in China) be\nconsidered a dialect of Thailand Bisu [bii] and Laomian be considered a distinct\nlanguage [lwm]* closely related to Bisu [bii].",
+    "code": "bii",
+    "name": "Bisu",
+    "effective": "2008-01-14",
+    "reason": "split",
+    "remedy": "Split into Bisu [bzi] (new identifier) and Laomian [lwm]",
+    "change_request": "2007-092",
+    "change_to": "\nbzi\nlwm"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-092**"
+  }
+}

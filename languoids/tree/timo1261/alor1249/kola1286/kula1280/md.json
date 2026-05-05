@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kula (Indonesia)",
+    "hid": "tpg",
+    "level": "language",
+    "iso639-3": "tpg",
+    "latitude": "-8.2384",
+    "longitude": "125.004",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kula](https://endangeredlanguages.com/lang/8330)\n[Kula](https://lexibank.clld.org/languages/transnewguineaorg-kula)\n[Tanglapui](https://wals.info/languoid/lect/wals_code_tgp)\nhttps://en.wikipedia.org/wiki/Kula_language\nhttps://www.wikidata.org/entity/Q6442714"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arka:12:1**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hvw:Stokhof:Alor**\n**hh:s:Williams:Kula**\n**hh:styp:Williams:Kula**\n**hh:typ:Donohue:Tanglapui**\n**hh:w:Martis:Alor**"
+  },
+  "altnames": {
+    "multitree": "\nKola\nKula\nLamtoka\nLantoka\nTanglapui",
+    "lexvo": "\nKula [en]",
+    "hhbib_lgcode": "\nKula\nLantoka Tanglapui\nTanglapui",
+    "elcat": "\n\"Tanglapui\"\nKola\nKula\nLamtoka\nLantoka"
+  },
+  "triggers": {
+    "lgcode": "\ntanglapui"
+  },
+  "identifier": {
+    "multitree": "tpg",
+    "endangeredlanguages": "8330"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kula (8330-tpg) = Vulnerable (60 percent certain, based on the evidence available) (Marginalised) [Arka 2012](cldf:arka:12:1)"
+  }
+}

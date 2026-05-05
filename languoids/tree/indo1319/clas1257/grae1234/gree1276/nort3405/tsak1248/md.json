@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tsakonian",
+    "hid": "tsd",
+    "level": "language",
+    "iso639-3": "tsd",
+    "latitude": "37.1405",
+    "longitude": "22.7341",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GR"
+    ],
+    "links": "\n[Tsakonian](https://endangeredlanguages.com/lang/3499)\nhttps://en.wikipedia.org/wiki/Tsakonian_Greek\nhttps://www.wikidata.org/entity/Q220607"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:joseph:09**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Costakis:Tsakonikis**\n**hh:d:Deffner:Tsakonikis**\n**hh:d:Defner:Tsakonikes**\n**hh:e:Karatzas:Tzacones**\n**hh:g:Costakis:Tsakonian**\n**hh:g:Pernot:Tsakonien**\n**hh:h:Fedchenko:Tsakonian**\n**hh:hv:Sobolev:Yuzhnoslavyanskie**\n**hh:hv:Triantaphullides:Neoellenike**\n**hh:ld:Kushnir:Yaure-Prostranstvennyj**\n**hh:phon:Haralambopoulos:Tsakonikis**\n**hh:s:Anagnostopoulos:Tsakonische**\n**hh:s:Oikonomos:Tsakonikes**\n**hh:s:Scutt:Tsakonian**\n**hh:soc:Lekos:Tsakonon**\n**hh:sv:Deffner:Zakonische**\n**hh:sv:Deville:Tzaconien**\n**hh:t:Costakis:Tsakonian**\n**hh:v:Liosis:Peloponniso**\n**hh:vld:Kisilier:Tsakonskij**\n**hh:vld:Liosis:Tsakonian**\n**hh:vw:Nicholas:Tsakonian**\n**hh:w:Makris:Vatka**"
+  },
+  "altnames": {
+    "multitree": "\nTsaconia\nTsakonia\nTsakonian\nTsakoniano\nTsakonien",
+    "lexvo": "\nCakončina [sk]\nGresianeg Tsakonia [br]\nLingua tsakonia [gl]\nTsakonian [en]\nTsakonian kieli [fi]\nTsakonian language [en]\nTsakonien [fr]\nTsakonisch [de]\nΤσακωνική διάλεκτος [el]\nЦаконски език [bg]\nЦаконский язык [ru]\nЦаконська мова [uk]",
+    "elcat": "\nTsaconia\nTsakonia\nTsakonian",
+    "hhbib_lgcode": "\nPropontis Tsakonian\nTsakonika\nTsakonskij\nTzaconien\nVatka and Havoutsi"
+  },
+  "triggers": {
+    "lgcode": "\ntsakonikes\ndialektou\nsyntome\nzakonische\ntsakonien\ntsakonian"
+  },
+  "identifier": {
+    "multitree": "tsd",
+    "endangeredlanguages": "3499"
+  },
+  "classification": {
+    "sub": "**hh:vw:Nicholas:Tsakonian** **hh:vld:Liosis:Tsakonian**",
+    "subrefs": "\n**hh:vw:Nicholas:Tsakonian**\n**hh:vld:Liosis:Tsakonian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tsakonian (3499-tsd) = Severely Endangered (60 percent certain, based on the evidence available) [Fedchenko 2013](cldf:fedchenko:13)"
+  }
+}

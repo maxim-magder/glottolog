@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Flinders Island",
+    "hid": "fln",
+    "level": "language",
+    "iso639-3": "fln",
+    "latitude": "-14.1812",
+    "longitude": "144.259",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Flinders Island](https://endangeredlanguages.com/lang/4150)\n[Flinders Island (retired)](https://collection.aiatsis.gov.au/austlang/language/y61)\nhttps://en.wikipedia.org/wiki/Flinders_Island_language\nhttps://www.wikidata.org/entity/Q3915702",
+    "timespan": "2000-01-01/2000-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Koch:Methodological**:37-39 **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:Koch:Methodological**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:np:nd:264**\n**cldf:roth:09**\n**cldf:tryon:07**\n**hh:hew:HaleTindale:Charlotte-Bay**\n**hh:ld:Sutton:Flinders-Island**\n**hh:t:Flinders:Flinders-Island-Cardinal**\n**hh:typ:Sutton:Flinders-Island**\n**ozbib:2449**"
+  },
+  "altnames": {
+    "multitree": "\nFlinders Island\nGambilmugu\nMutumui\nWalmbaria\nWurima\nYalgawarra",
+    "lexvo": "\nFlinders Island [en]",
+    "hhbib_lgcode": "\nOko Wurriima\nWalmbaria",
+    "elcat": "\nFlinders Island\nGambilmugu\nMutumui\nWalmbaria\nWurima\nYalgawarra",
+    "aiatsis": "\nAmbydher\nFlinders Island\nFlinders Island (retired)\nItu\nKokomiabilo\nMairughan\nManpirlmung wa\nMbambylmu\nMbyrlmurl\nMiabilo\nMutumui\nOko Wurriima\nPipon Island\nWalmbar\nWalmbaria\nWurima\nYalnga bar"
+  },
+  "identifier": {
+    "multitree": "fln;flis",
+    "endangeredlanguages": "4150"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Flinders Island (fln-fln) = 10 (Extinct)."
+  }
+}

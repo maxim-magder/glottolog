@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mbato",
+    "hid": "gwa",
+    "level": "language",
+    "iso639-3": "gwa",
+    "latitude": "5.34421",
+    "longitude": "-3.70421",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914941\nhttps://en.wikipedia.org/wiki/Mbato_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Bogny:Ngwla**\n**hh:hv:Bole-Richard:Potou**\n**hh:hvld:Westermann:Tschi-Guang**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phon:KonanMando:Ngwla**\n**hh:s:GrassiasBole-Richard:Ngula**\n**hh:typ:Ahiman:Ngwla**\n**hh:typ:Blecke:Nghlwa**\n**hh:typ:Bole-Richard:Nghwla**"
+  },
+  "altnames": {
+    "multitree": "\nGoaa\nGwa\nM'bato\nMbato\nMbatto\nMgbato\nN-Batto\nOgwia\nPotu",
+    "lexvo": "\nMbato [en]",
+    "hhbib_lgcode": "\nGoua\nGwa\nMbatto\nNgwla"
+  },
+  "triggers": {
+    "lgcode": "\nngwla\nnghwla\nmbatto"
+  },
+  "identifier": {
+    "multitree": "gwa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bole-Richard:Potou** **hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**\n**hh:hv:Bole-Richard:Potou**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nghlwa (gwa-gwa) = 6a* (Vigorous)."
+  }
+}

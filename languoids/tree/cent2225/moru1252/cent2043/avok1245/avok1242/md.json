@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Avokaya",
+    "hid": "avu",
+    "level": "language",
+    "iso639-3": "avu",
+    "latitude": "4.38639",
+    "longitude": "29.9379",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "SS"
+    ],
+    "links": "\n[Avokaya](https://grambank.clld.org/languages/avok1242)\n[Avokaya](https://wals.info/languoid/lect/wals_code_avo)\nhttps://en.wikipedia.org/wiki/Avokaya_language\nhttps://phoible.org/languages/avok1242\nhttps://www.wikidata.org/entity/Q56685"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3490**\n**asjp2010:94**\n**cldf:kilpatrick:00**\n**cldf:kilpatrick:gilley:04**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:35391**\n**eballiso2009:36760**\n**eballiso2009:36761**\n**eballiso2009:51877**\n**eballiso2009:51878**\n**eballiso2009:57970**\n**hh:hew:MacMichael:Arabs-Sudan**\n**hh:hew:Marno:Aequatorial**\n**hh:hv:Costermans:Logo-Avokaya**\n**hh:hv:Planert:Schnalzsprachen**\n**hh:hvtyp:Tucker:Madi**\n**hh:hw:Johnston:Uganda:2**\n**hh:s:Dimmendaal:Avokaya**\n**hh:typ:Callinan:Avokaya**\n**hh:typ:Kilpatrick:Avokaya**\n**hh:typ:Kilpatrick:Avokaya:Genitives**\n**hh:typ:Kilpatrick:Avokaya:Tales**\n**sil16:15473**\n**sil16:18756**\n**sil16:23587**\n**sil16:33314**\n**sil16:34970**\n**sil16:36040**\n**sil16:36519**\n**sil16:40854**\n**sil16:44808**\n**sil16:47568**\n**sil16:48948**"
+  },
+  "altnames": {
+    "wals": "\nAvokaya",
+    "wals other": "\nAvukaya",
+    "ruhlen (1987)": "\nAvukaya",
+    "moseley & asher (1994)": "\nAvukaya",
+    "multitree": "\nAbukeia\nAvokaya\nAvukaya",
+    "lexvo": "\nAvokaya [en]\nAvokaya language [en]\nAvokayeg [br]\nАвокајаски јазик [mk]",
+    "hhbib_lgcode": "\nAbu-Keia\nAvukaya\nOjiga\nOjila\nShort vocabularies of Abu Keia (= Avukaya)"
+  },
+  "triggers": {
+    "lgcode": "\nrumbek\navokayi\navokaya\nschnalzsprachen"
+  },
+  "identifier": {
+    "wals": "avo",
+    "multitree": "avu"
+  },
+  "classification": {
+    "sub": "**hh:phon:Demolin:Mangbetu**:20-23",
+    "subrefs": "\n**hh:phon:Demolin:Mangbetu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Avokaya (avu-avu) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kuwaataay",
+    "hid": "cwt",
+    "level": "language",
+    "iso639-3": "cwt",
+    "latitude": "12.48255",
+    "longitude": "-16.74835",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\n[Kuwaataay](https://endangeredlanguages.com/lang/4062)\nhttps://en.wikipedia.org/wiki/Kwatay_language\nhttps://phoible.org/languages/kuwa1246\nhttps://www.wikidata.org/entity/Q35699"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:41600**\n**hh:d:Payne:Kwatay**\n**hh:g:Coly:Kuwaataay**\n**hh:hv:Doneux:Senegal**\n**hh:hvw:Barry:Joola**\n**hh:phon:Bouvier:Kuwatay**\n**hh:s:Doneux:Kwatay**\n**hh:s:Payne:Kwatay**\n**hh:w:CarltonRand:Diola**\n**hh:wsoc:CarltonRand:Diolas**\n**sil16:36350**\n**sil16:45315**\n**sil16:45316**"
+  },
+  "altnames": {
+    "multitree": "\nKuwaataay\nKwatay",
+    "lexvo": "\nKuwaataay [en]",
+    "hhbib_lgcode": "\nDiembering-Kwaatay\nKw Kuwaatay\nKwaatay",
+    "elcat": "\nKuwaataay\nKwatay"
+  },
+  "triggers": {
+    "lgcode": "\nkuwaataay\nkaadiksiyoneer\nkwatay\ndiembering"
+  },
+  "identifier": {
+    "multitree": "cwt",
+    "endangeredlanguages": "4062"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kuwaataay (4062-cwt) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

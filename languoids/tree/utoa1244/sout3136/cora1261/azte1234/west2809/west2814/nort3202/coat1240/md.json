@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Coatepec Nahuatl",
+    "hid": "naz",
+    "level": "language",
+    "iso639-3": "naz",
+    "latitude": "18.32",
+    "longitude": "-99.7114",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5138605\nhttps://en.wikipedia.org/wiki/Coatepec_Nahuatl"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:LagunasDiaz:Nahua-Coatepec**\n**hh:hew:Hendrichs:Ignotas**\n**hh:hv:Canger:Nahuatl-Guerrero**\n**hh:hvsoctyp:Valinas:Nahuatl-Periferia-Occidental**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:phon:McQuown:Nahuatl-Guerrero**\n**hh:s:Canger:Coatepec**\n**hh:soc:Lagunas:Nahuatl**\n**hh:soc:Lagunas:Nahuatl:2015**\n**hh:w:Weitlaner:Chilacachapa**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Nawa\nCoatepec Aztec\nMexicano\nNahua central\nNahuatl\nNahuatl, Coatepec\nNáhuatl central\nNáhuatl de Coatepec",
+    "lexvo": "\nCoatepec Nahuatl [en]",
+    "hhbib_lgcode": "\nChilacachapa\nChilacachapa-Cuetzala del Progreso\nCoatepec Costales-Teloloapan\nIxcatepec\nIxcatepec in Guerrero\nNahuatl-Coatepec\nNorte Guerrero\nTotoltepec\nWest of Coatepec but nevertheless"
+  },
+  "triggers": {
+    "lgcode": "\ncostales\nchilacachapa"
+  },
+  "identifier": {
+    "multitree": "naz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Canger:Nahuatl-Guerrero**",
+    "subrefs": "\n**hh:hv:Canger:Nahuatl-Guerrero**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Coatepec (naz-naz) = 7 (Shifting)."
+  }
+}

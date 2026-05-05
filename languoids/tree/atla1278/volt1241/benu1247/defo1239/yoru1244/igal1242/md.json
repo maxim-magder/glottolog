@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Igala",
+    "hid": "igl",
+    "level": "language",
+    "iso639-3": "igl",
+    "latitude": "7.34325",
+    "longitude": "7.17974",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Igala](https://lexibank.clld.org/languages/polyglottaafricana-Igala)\nhttps://en.wikipedia.org/wiki/Igala_language\nhttps://www.wikidata.org/entity/Q35513"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clifford:36**\n**cldf:forde:brown:etal:55**\n**cldf:mockler-ferryman:92**\n**eballiso2009:29595**\n**eballiso2009:33552**\n**eballiso2009:33553**\n**eballiso2009:3410**\n**eballiso2009:36771**\n**eballiso2009:42071**\n**eballiso2009:43977**\n**eballiso2009:49419**\n**eballiso2009:50322**\n**eballiso2009:51521**\n**eballiso2009:56528**\n**eballiso2009:56890**\n**eballiso2009:59900**\n**eballiso2009:6881**\n**hh:b:Amali:Igala**\n**hh:e:Armstrong:Igala-Idoma**\n**hh:e:Seton:Igala**\n**hh:g:Ejeba:Igala**\n**hh:g:Ejeba:Igala:2017**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hv:Akinkugbe:Yoruba**\n**hh:hv:Akinkugbe:Yoruboid**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:ld:Omachonu:Igala**\n**hh:phon:Omachonu:Igala**\n**hh:phon:Omachonu:Igala:2000**\n**hh:phon:Silverstein:Igala**\n**hh:s:Philpot:Igala**\n**hh:soc:Omachonu:Igala**\n**hh:typ:Ejeba:Igala**\n**hh:typ:Ejeba:Igala-Concorc**\n**hh:vphon:Ikani:Igala**\n**hh:w:Armstrong:Yoruba-Igala**\n**hh:w:Coomber:Igara**\n**hh:w:JohnsonChristaller:Niger-Gold-Coast**\n**mpieva:Ikekeonwu2007Thephone**"
+  },
+  "altnames": {
+    "multitree": "\nIgala\nIgara",
+    "lexvo": "\nIgala [en]",
+    "hhbib_lgcode": "\nIbaji\nIgala-Aladi\nIgala-Oguluglu\nÍgálâ"
+  },
+  "triggers": {
+    "lgcode": "\nconfluence\nigara\nNOT la AND NOT with AND igala\nigala"
+  },
+  "identifier": {
+    "multitree": "igl;igal"
+  },
+  "classification": {
+    "sub": "**hh:h:Capo:Defoid** **hh:hv:Akinkugbe:Yoruboid**",
+    "subrefs": "\n**hh:h:Capo:Defoid**\n**hh:hv:Akinkugbe:Yoruboid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Igala (igl-igl) = 5* (Developing)."
+  }
+}

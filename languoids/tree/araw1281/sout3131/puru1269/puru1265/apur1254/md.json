@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Apurinã",
+    "hid": "apu",
+    "level": "language",
+    "iso639-3": "apu",
+    "latitude": "-8.21692",
+    "longitude": "-66.7714",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Apuriná](https://endangeredlanguages.com/lang/3202)\n[Apurinã](https://grambank.clld.org/languages/apur1254)\n[Apurinã](https://lexibank.clld.org/languages/carvalhopurus-Apurina)\n[Apurinã](https://wals.info/languoid/lect/wals_code_apu)\nhttps://en.wikipedia.org/wiki/Apurin%C3%A3_language\nhttps://phoible.org/languages/apur1254\nhttps://www.wikidata.org/entity/Q2859081"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:dasilvafacundes:00**\n**cldf:ed:10**\n**cldf:ehrenreich:00**\n**cldf:facundes:14**\n**cldf:lewis:ed:09**\n**cldf:np:55:2**\n**cldf:np:nd:264**\n**cldf:pickering:77**\n**fabreall2009ann:Arawak38**\n**fabreall2009ann:Arawak_apurina00**\n**fabreall2009ann:Arawak_apurina01**\n**fabreall2009ann:Arawak_apurina02**\n**fabreall2009ann:Arawak_apurina04**\n**fabreall2009ann:Arawak_apurina05**\n**fabreall2009ann:Arawak_apurina06**\n**fabreall2009ann:Arawak_apurina08**\n**fabreall2009ann:Arawak_apurina09**\n**fabreall2009ann:Arawak_apurina14**\n**fabreall2009ann:Arawak_apurina15**\n**fabreall2009ann:Arawak_apurina16**\n**fabreall2009ann:Arawak_apurina17**\n**fabreall2009ann:Arawak_apurina18**\n**fabreall2009ann:Arawak_apurina20**\n**fabreall2009ann:Arawak_apurina21**\n**fabreall2009ann:Arawak_apurina22**\n**fabreall2009ann:Arawak_apurina23**\n**fabreall2009ann:Arawak_apurina26**\n**fabreall2009ann:Arawak_apurina27**\n**fabreall2009ann:Arawak_apurina28**\n**hh:e:Chandless:Aquiry**\n**hh:e:Link:Apurina**\n**hh:ew:Steere:Purus**\n**hh:g:Facundes:Apurina**\n**hh:hv:Danielsen:Baure-Personal**\n**hh:hv:deCarvalho:Purus**\n**hh:hw:Nimuendaju:MakusiWapicanaIpurinaKapisana**\n**hh:s:Pickering:Apurina**\n**hh:sd:Polak:Ipurina**\n**hh:typ:Aberdour:Apurina**\n**hh:typ:Chagas:Apurina**\n**hh:typ:Facundes:Apurina**\n**hh:typ:Facundes:Apurina:2000**\n**hh:typ:Facundes:Apurina:NC**\n**hh:typ:PickeringPickering:Apurina**\n**hh:typ:deFreitas:Apurina**\n**hh:w:Chandless:Purus**\n**hh:w:Koch-Grunberg:Ipurina**\n**hh:w:Nusser-Asport:Madre-de-Dios-Acre**\n**sil16:15586**\n**sil16:16324**\n**sil16:23417**\n**sil16:23424**"
+  },
+  "altnames": {
+    "glottolog": "\nApurina",
+    "wals": "\nApurinã",
+    "wals other": "\nApurina\nIpurina",
+    "ruhlen (1987)": "\nApuriná",
+    "moseley & asher (1994)": "\nApurina",
+    "multitree": "\nApurina\nApuriná\nApurinã\nCangaiti\nIpurina\nIpuriná\nIpurinãn\nKangite\nPopengare",
+    "lexvo": "\nApurinã [en]\nApurinã language [en]",
+    "hhbib_lgcode": "\nApurina\nHypurina\nIpurina",
+    "elcat": "\nApuriná\nApurinã\nCacharary\nCangaiti\nIpurina\nIpuriná\nIpurinãn\nKangite\nPopengare"
+  },
+  "triggers": {
+    "lgcode": "\nipurina\npopunkare\napurina\nasagire\nponpukare"
+  },
+  "identifier": {
+    "wals": "apu",
+    "multitree": "apu",
+    "endangeredlanguages": "3202"
+  },
+  "classification": {
+    "sub": "**hh:hv:deCarvalho:Purus** **hh:hv:daSilvaBrandao:Arawak** **hh:hvw:Ramirez:Arawak-Enciclopedia**:III:243-254",
+    "subrefs": "\n**hh:hv:daSilvaBrandao:Arawak**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:hv:deCarvalho:Purus**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Apuriná (3202-apu) = Endangered (60 percent certain, based on the evidence available) (\"In most villages, the language is not being taught to children, and only adults -- in some villages, only elders -- still have fluent command of it.\" (p. 117)) [Facundes 2014](cldf:facundes:14)"
+  }
+}

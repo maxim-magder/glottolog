@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Iowa-Oto",
+    "hid": "iow",
+    "level": "language",
+    "iso639-3": "iow",
+    "latitude": "40.0511",
+    "longitude": "-95.5213",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Chiwere](https://endangeredlanguages.com/lang/1691)\nhttps://www.wikidata.org/entity/Q56737\nhttps://en.wikipedia.org/wiki/Chiwere_language\n[Oto](https://wals.info/languoid/lect/wals_code_oto)",
+    "timespan": "1996-01-01/1996-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:campbell:nd:1**\n**cldf:cazes:83**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:miner:79**\n**cldf:moseley:07**\n**hh:d:Good:Baxoje-Jiwere**\n**hh:e:Schweitzer:Otoe**\n**hh:e:Wedel:Iowa**\n**hh:g:Wistrand-Robinson:Otoe-Iowa**\n**hh:hw:Hayden:Missouri**\n**hh:ld:Schoolcraft:Iowa**\n**hh:s:Greer:Baxoje-Jiwere**\n**hh:s:Whitman:Ioway-Oto**\n**ldh:item_1945302**\n**mpieva:1978JiweleBa**"
+  },
+  "altnames": {
+    "wals": "\nOto",
+    "wals other": "\nChiwere",
+    "ruhlen (1987)": "\nOtoe",
+    "moseley & asher (1994)": "\nChiwere",
+    "multitree": "\nChiwere\nIowa-Oto\nOto",
+    "lexvo": "\nChiwere language [en]\nIowa-Oto [en]\nIowa-oto [fr]\nIoweg-Otoeg [br]\nJęzyk chiwere [pl]",
+    "hhbib_lgcode": "\nBaxoje-Jiwere\nIowa\nIowa/Oto\nOtoe",
+    "elcat": "\nChiwere\nIowa-Oto\nOto"
+  },
+  "triggers": {
+    "lgcode": "\nioway\nbaxoje\niche\notoe\nwanshige\nukenye\ndorseys\njiwele"
+  },
+  "identifier": {
+    "wals": "oto",
+    "multitree": "iow",
+    "endangeredlanguages": "1691"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chiwere (1691-iow) = Awakening [Campbell n.d.](cldf:campbell:nd:1)"
+  }
+}

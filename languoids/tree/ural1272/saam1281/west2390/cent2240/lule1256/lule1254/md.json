@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Lule Saami",
+    "hid": "smj",
+    "level": "language",
+    "iso639-3": "smj",
+    "latitude": "67.2759",
+    "longitude": "17.8057",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NO",
+      "SE"
+    ],
+    "links": "\n[Lule Saami](https://endangeredlanguages.com/lang/3384)\n[Lule Saami](https://grambank.clld.org/languages/lule1254)\n[Lule Sami](https://lexibank.clld.org/languages/northeuralex-smj)\nhttps://en.wikipedia.org/wiki/Lule_S%C3%A1mi\nhttps://www.wikidata.org/entity/Q56322"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikio:06:2**\n**cldf:ed:10**\n**cldf:grundstroem:46**\n**cldf:lewis:ed:09**\n**cldf:np:00:1**\n**cldf:np:18:6**\n**cldf:np:nd:264**\n**cldf:pirak:93**\n**cldf:rasmussen:shaunnolan:20**\n**cldf:uit:18**\n**cldf:ylikoski:ylikoski:16**\n**cldf:zachrisson:05**\n**hh:d:Fiellstrom:Lapponicum**\n**hh:d:Grundstrom:Lulelapsk**\n**hh:d:Wiklund:Lule-Lappisches**\n**hh:g:Spiik:Lulesamisk**\n**hh:g:Wiklund:Lapska**\n**hh:g:Wiklund:Lapska:1901**\n**hh:g:Wiklund:Lule-Lappischen**\n**hh:phon:Collinder:Waldlappischen-Gallivare**\n**hh:s:Kintel:Lulesamisk**\n**hh:s:Ylikoski:Lule-Saami**\n**hh:t:Halasz:Lule-Pite**\n**hh:typ:Ylikoski:Negation-Lule-Saami**"
+  },
+  "altnames": {
+    "multitree": "\n\"Lapp\"\nCentral\nLapp\nLappic\nLappisch\nLappish\nLappish-Norwegian\nLappish-Swedish\nLule\nLule Lapp\nLule Lappish\nLule saami\nLule-Lappisch\nLule-Lappish\nLulelappisch\nNorthern\nSaame\nSaami\nSaami, Lule\nSaamí de Lule\nSchwedisch-Lappisch\nWestern\nWestlappisch\nlapin kieli\nlapon\nlappisk\nlopary\nlpLule\nsaamen kieli\nsaamskij jazyk\nsabme\nsame-\nschwedisch-lappische Dialektgruppe\nsāme-giellâ\nwestlappischer Dialekt",
+    "lexvo": "\nJulevsámegiella [se]\nLingua sami di Lule [it]\nLule Sami [en]\nLule saami keel [et]\nLule-Samisch [nl]\nLule-samea lingvo [eo]\nLulei számi nyelv [hu]\nLulesamisk [no]\nLulesamisk språk [nn]\nLulesamiska [sv]\nLuleská saamčina [sk]\nLulėjo samių kalba [lt]\nLuulajansaame [fi]\nLíngua sami de Lule [pt]\nSaamish Lule [gv]\nSame de Lule [fr]\nSami lule [es]\nSamieg Lule [br]\nsami de Lule [fr]\nЛуле самиски јазик [mk]\nЛуле-саамски език [bg]\nЛуле-саамский язык [ru]",
+    "hhbib_lgcode": "\nDialectus boralis\nLule Sami\nLulesamisk\nSaami-Lule",
+    "elcat": "\n\"Lule Lapp\"\nLule Saami\nLulesamisk\nLulesamiska\njulevsámegiella\nluulajansaame\nлуле-саамский язык"
+  },
+  "triggers": {
+    "lgcode": "\nscndinavia\nlulesamisk\nwaldlappischen\nlapska\ngallivare"
+  },
+  "identifier": {
+    "multitree": "smj",
+    "endangeredlanguages": "3384"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sammallahti:Saami**:6-38",
+    "subrefs": "\n**hh:hv:Sammallahti:Saami**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lule Saami (3384-smj) = Endangered (80 percent certain, based on the evidence available) (A small number of children learn the language, and while the trend seemed highly alarming a few years ago, the use of Lule Saami has recently been activated to some extent. Younger speakers may nevertheless prefer Swedish or Norwegian.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

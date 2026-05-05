@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Istriot",
+    "hid": "ist",
+    "level": "language",
+    "iso639-3": "ist",
+    "latitude": "45.088",
+    "longitude": "13.64",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "HR"
+    ],
+    "links": "\n[Istriot](https://endangeredlanguages.com/lang/3440)\nhttps://en.wikipedia.org/wiki/Istriot\nhttps://www.wikidata.org/entity/Q35845"
+  },
+  "classification": {
+    "sub": "**hh:hvld:BartoliVidossi:Venezia-Giulia**",
+    "subrefs": "\n**hh:hvld:BartoliVidossi:Venezia-Giulia**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Balbi:Gallesano**\n**hh:d:Bursic:Pola**\n**hh:d:Cernecca:Istria**\n**hh:d:Pellizzer:Rovigno**\n**hh:d:Zonca:Dignanese**\n**hh:et:Benussi:Rovigno**\n**hh:hvld:Bartoli:Dalmazia**\n**hh:hvld:BartoliVidossi:Venezia-Giulia**\n**hh:phon:Cernecca:Istria**\n**hh:s:Ive:Istria**\n**hh:st:Deanovic:Rovigno**\n**hh:t:Ive:Rovignese**\n**hh:typ:Cernecca:Istria**"
+  },
+  "altnames": {
+    "multitree": "\nIstriano\nIstriot",
+    "lexvo": "\nIdioma istriano [es]\nIstriera [eu]\nIstriot [ca]\nIstriot language [en]\nIstriote [fr]\nIstriotisch [li]\nIstriotische Sprache [de]\nIstriotiska [sv]\nIstriotski jezik [hr]\nJęzyk istriocki [pl]\nLingua istriota [it]\nWikang Istriyano [tl]\nİstriotça [tr]\nИстриотски јазик [mk]\nИстриотски језик [sr]\nИстророманский язык [ru]",
+    "hhbib_lgcode": "\nGallesano\nIstriano\nPola\nRovignese\nRovigno",
+    "elcat": "\nIstriot"
+  },
+  "triggers": {
+    "lgcode": "\nveneti\ndistria\nrovigno\ndellistria\ngiulia"
+  },
+  "identifier": {
+    "multitree": "ist",
+    "endangeredlanguages": "3440"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Istriot (3440-ist) = Severely Endangered (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

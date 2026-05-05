@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sãotomense",
+    "hid": "cri",
+    "level": "language",
+    "iso639-3": "cri",
+    "latitude": "0.28332",
+    "longitude": "6.61935",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ST"
+    ],
+    "links": "\n[Santome](https://apics-online.info/contributions/35)\nhttps://en.wikipedia.org/wiki/Forro_Creole\nhttps://phoible.org/languages/saot1239\nhttps://www.wikidata.org/entity/Q36536"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4134**\n**cldf:alexandre:hagemeijer:04**\n**cldf:alexandre:hagemeijer:etal:02**\n**cldf:alexandre:hagemeijer:etal:07**\n**cldf:ferraz:79**\n**cldf:hagemeijer:00**\n**cldf:hagemeijer:01**\n**cldf:hagemeijer:05**\n**cldf:hagemeijer:07**\n**cldf:hagemeijer:09**\n**cldf:hagemeijer:ogie:11**\n**cldf:ladhams:john:etal:03**\n**cldf:maurer:08**\n**hh:d:Antunes:Santome**\n**hh:d:Fontes:Sao-Tomense**\n**hh:es:Negreiros:Ilha-Thome**\n**hh:hv:Bandeira:Golfo-Guine**\n**hh:hv:Bandeira:Guinea:Creole**\n**hh:hv:Bandeira:Protocrioulo-Golfo:PhD**\n**hh:hv:Schang:Golfe-Guinee**\n**hh:hvphon:Mane:Crioulos-Guine**\n**hh:ld:Valkhoff:Africa-Sul-Portugal**\n**hh:s:Ferraz:SaoTome**\n**hh:s:Hagemeijer:Santome**\n**hh:s:Schuchardt:SaoThome**\n**hh:soc:GrahamGraham:West-Africa-Lusolexed**\n**hh:t:Daio:Saotome**\n**hh:t:Santo:Saotome:1979**\n**hh:t:Santo:Saotome:1998**\n**hh:typ:Hagemeijer:Negation-Santome**\n**hh:typ:Hagemeijer:Santome-Double**\n**hh:v:Knupp:Saotomense**\n**hh:vld:Hagemeijer:Vowel-Gulf-Guinea**\n**hh:vtyp:Guldemann:Gulf-Guinea**\n**hh:vtyp:Hagemeijer:Gulf-Guinea-Syntactic**"
+  },
+  "altnames": {
+    "glottolog": "\nSaotomense",
+    "multitree": "\nSão Tomense\nSão Tomé\nSãotomense",
+    "lexvo": "\nCriollo forro [es]\nForra lingvo [eo]\nForro [fr]\nForro jezik [sh]\nForro language [en]\nLingua forro [it]\nSaotomesisk [no]\nSão-tomense [pt]\nSãotomense [en]",
+    "hhbib_lgcode": "\nCrioulo Sãotomense\nSao Tomense"
+  },
+  "triggers": {
+    "lgcode": "\nlusolexed\nthome"
+  },
+  "identifier": {
+    "multitree": "cri"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hagemeijer:Gulf-Guinea** **hh:hv:Bandeira:Guinea:Creole**",
+    "subrefs": "\n**hh:hv:Bandeira:Guinea:Creole**\n**hh:hv:Hagemeijer:Gulf-Guinea**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sãotomense (cri-cri) = 7 (Shifting). De facto language of provincial identity in São Tomé Island except south tip."
+  }
+}

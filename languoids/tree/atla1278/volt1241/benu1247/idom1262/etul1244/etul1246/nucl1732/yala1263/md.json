@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Yala",
+    "hid": "yba",
+    "level": "language",
+    "iso639-3": "yba",
+    "latitude": "6.73852",
+    "longitude": "8.60748",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Yala](https://lexibank.clld.org/languages/polyglottaafricana-Yala)\nhttps://en.wikipedia.org/wiki/Yala_language\nhttps://phoible.org/languages/yala1263\nhttps://www.wikidata.org/entity/Q3914920"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:24690**\n**eballiso2009:40047**\n**eballiso2009:40371**\n**eballiso2009:4245**\n**eballiso2009:44863**\n**hh:g:Bunkowske:Yala**\n**hh:hv:Armstrong:Idomoid:1981**\n**hh:hvw:Armstrong:Idomoid**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Armstrong:Yala**\n**hh:ld:Oko:Yala**\n**hh:w:Armstrong:Glottochronology-African**"
+  },
+  "altnames": {
+    "multitree": "\nIyala\nYala",
+    "lexvo": "\nYala [en]",
+    "hhbib_lgcode": "\nYala Ikom\nYala Ogoja\nYala-Agala\nYala-Ikom\nYala-Inkum\nYala/Ola"
+  },
+  "triggers": {
+    "lgcode": "\nin AND yala\nyala"
+  },
+  "identifier": {
+    "multitree": "yba"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Armstrong:Idomoid** **hh:hv:Armstrong:Idomoid:1989**",
+    "subrefs": "\n**hh:hvw:Armstrong:Idomoid**\n**hh:hv:Armstrong:Idomoid:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yala (yba-yba) = 5 (Developing)."
+  }
+}

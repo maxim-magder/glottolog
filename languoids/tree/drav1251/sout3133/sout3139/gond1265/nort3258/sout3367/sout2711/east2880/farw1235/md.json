@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Far Western Muria",
+    "hid": "fmu",
+    "level": "language",
+    "iso639-3": "fmu",
+    "latitude": "20.1754",
+    "longitude": "80.4712",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q42589412"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvwsoc:Beine:Gondi**\n**hh:hvwsoc:Beine:Gondi:2013**\n**hh:phon:MathewMathew:Far-Western-Muria**"
+  },
+  "altnames": {
+    "multitree": "\nGonḍi\nGōṇḍī\nMuria, Far Western",
+    "lexvo": "\nFar Western Muria [en]",
+    "hhbib_lgcode": "\nGaita Koitor Boli in Kurkheda Tehsil in Gadchiroli district\nMuria-Far Western\nOutlier Eastern Gondi\nktg Gondi from Mohla Tehsil-Rajnandgaon District-Madhya Pradesh\nmdh Gondi from Dhanora Taluk-Garhichiroli District-Maharashtra\nmku Gondi from Kurkhed Taluk-Garhichiroli District-Maharashtra"
+  },
+  "triggers": {
+    "lgcode": "\nkoitor\ngaita"
+  },
+  "identifier": {
+    "multitree": "fmu"
+  },
+  "classification": {
+    "sub": "**hh:hvwsoc:Beine:Gondi:2013**:40-41 **hh:hvs:Garapati:Gondi**",
+    "subrefs": "\n**hh:hvs:Garapati:Gondi**\n**hh:hvwsoc:Beine:Gondi:2013**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Muria, Far Western (fmu-fmu) = 5 (Developing)."
+  }
+}

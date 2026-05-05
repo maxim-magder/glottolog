@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Itbayat",
+    "hid": "ivv",
+    "level": "language",
+    "iso639-3": "ivv",
+    "latitude": "20.77",
+    "longitude": "121.85",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Itbayat](https://grambank.clld.org/languages/ivat1242)\nhttps://en.wikipedia.org/wiki/Ivatan_language\nhttps://phoible.org/languages/ivat1242\nhttps://www.wikidata.org/entity/Q3547080"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:346**\n**asjp2010:3654**\n**cldf:yamada:76**\n**hh:g:Reid:Ivatan:PhD**\n**hh:g:Yamada:Itbayat**\n**hh:het:Benedek:Bashiic**\n**hh:hv:Li:Batanic**\n**hh:hv:Moriguchi:Ivatan**\n**hh:hv:Yang:Batanic**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:hw:Tsuchidaetal:Batanic:Sentences**\n**hh:hw:Tsuchidaetal:Batanic:Worsds**\n**hh:sd:Yamada:Itbayat**\n**hh:t:SetoguchiYamada:Itbayat**\n**hh:w:Yamada:Itbayaten**\n**hh:w:Yamada:Philippine**\n**mpieva:1993Ivatanla**\n**mpieva:Reid1966AnIvatan**\n**sil16:10021**\n**sil16:10448**\n**sil16:11139**\n**sil16:11369**\n**sil16:12160**\n**sil16:12792**\n**sil16:14772**\n**sil16:14773**"
+  },
+  "altnames": {
+    "wals": "\nIvatan\nIvatan (Southern)",
+    "wals other": "\nIvatan\nSouthern",
+    "ruhlen (1987)": "\nIvatan",
+    "moseley & asher (1994)": "\nIvatanen",
+    "multitree": "\nIvatan\nPhilippines",
+    "lexvo": "\nIvatan [en]\nIvatan language [en]\nWikang Ibatan [tl]\nภาษาอีวาตัน [th]",
+    "hhbib_lgcode": "\nItbayaten\nItbayaten Ivatan\nItbayaten-Batanes Islands (Ivtl.)\nIvatan"
+  },
+  "triggers": {
+    "lgcode": "\nivatan\nsambalic\nitbayaten\nitbayat"
+  },
+  "identifier": {
+    "wals": "iva;ivs",
+    "multitree": "ivv;ivat"
+  },
+  "classification": {
+    "sub": "**hh:hv:Li:Batanic** **hh:hv:Ross:Batanic**",
+    "subrefs": "\n**hh:hv:Li:Batanic**\n**hh:hv:Ross:Batanic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ivatan (ivv-ivv) = 4 (Educational). De facto language of provincial identity in Batanes province."
+  }
+}

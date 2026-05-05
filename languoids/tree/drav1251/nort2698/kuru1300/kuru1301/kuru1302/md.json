@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Indian Kurux",
+    "level": "dialect",
+    "latitude": "24.4644",
+    "longitude": "86.4657",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "BT",
+      "IN"
+    ],
+    "links": "\n[Indian Kurux](https://grambank.clld.org/languages/kuru1302)\n[Kurukh](https://lexibank.clld.org/languages/dravlex-Kurukh)\n[Kurukh](https://wals.info/languoid/lect/wals_code_kur)\nhttps://phoible.org/languages/kuru1302\nhttps://www.wikidata.org/entity/Q136393603"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:92**\n**cldf:chandra:02**\n**cldf:etal:ed:02:6**\n**cldf:gupta:chandra:99**\n**cldf:hahn:00**\n**cldf:pfeiffer:72**\n**cldf:pinnow:64**\n**cldf:roy:15**\n**cldf:roy:51**\n**cldf:vesper:68**"
+  },
+  "altnames": {
+    "wals": "\nKurukh",
+    "ruhlen (1987)": "\nKurukh",
+    "moseley & asher (1994)": "\nKurux",
+    "multitree": "\nBirhor\nKadukali\nKisan\nKoda\nKola\nKora\nKuda\nKunha\nKunhar\nKunna\nKunrukh\nKunuk\nKurka\nKurukh\nKurux\nKurux (Bangladesh)\nKurux (Inde)\nKurux (Népal)\nKusunda\nKuṛux\nMorva\nOraoan\nOraon\nUrang\nUraon\nÛrâon",
+    "lexvo": "\nIndisk kurux [sv]\nJęzyk kurukh [pl]\nKouroukeg [br]\nKurukh [en]\nKurukh language [en]\nLenga Kurux [pms]\nLingua Kurukh [la]\nkurukh [fr]\nКурух [ru]\nகுறுக்ஸ் மொழி [ta]",
+    "hhbib_lgcode": "\nBoldipukur-Bangladesh\nDima-West Bengal-India\nDulhapur-Bangladesh\nGabindanagar-Bangladesh\nKhendroi of Jashpur\nKisan\nKisana\nKissan\nKurukh\nKurukh of Bairkhol\nKurukh of Bamra\nKurukh of Bhagalpur\nKurukh of Pal Lahera\nKurukh of Ranchi\nKurukh of Sambalpur\nKurukh of Singbhum\nKurux\nKuṛukh\nKũḍux\nKũṛux\nLohanipara-Bangladesh\nOdisha Kurux\nOraom\nOraon\nOraon (Forest tribe)\nUraon",
+    "glottolog": "\nKurukh"
+  },
+  "triggers": {
+    "lgcode": "\nkurux\noraon\nkurukh\nuraon\nbirhor"
+  },
+  "identifier": {
+    "wals": "kur",
+    "multitree": "kru"
+  },
+  "classification": {
+    "sub": "**hh:gtd:Kobayashi:Kurux**:9-10",
+    "subrefs": "\n**hh:gtd:Kobayashi:Kurux**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Kurux (Bangladesh) (1594-kru) = Vulnerable; Kurux (India) (1591-kru) = Vulnerable; Kurux (Nepal) (1446-kru) = Vulnerable; Kusunda (1259-kru, kxl) = Critically endangered"
+  }
+}

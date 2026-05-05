@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Yemba",
+    "hid": "ybb",
+    "level": "language",
+    "iso639-3": "ybb",
+    "latitude": "5.47421",
+    "longitude": "10.0214",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Yemba](https://wals.info/languoid/lect/wals_code_yem)\nhttps://en.wikipedia.org/wiki/Yemba_language\nhttps://phoible.org/languages/yemb1246\nhttps://www.wikidata.org/entity/Q36917"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3155**\n**cldf:chumbow:nguendjio:91**\n**cldf:hyman:80**\n**cldf:hyman:85:2**\n**cldf:nguendjio:92**\n**cldf:stewart:81**\n**hh:d:BirdTadadjeu:Yemba**\n**hh:e:McCulloch:Bamileke**\n**hh:e:Tardits:Bamileke**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hv:Nanfah:Yemba**\n**hh:hvw:Domche:Bamileke**\n**hh:hvw:Nanfah:Yemba**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Harro:Yemba**\n**hh:ld:Stegen:Bamileke-Dschang**\n**hh:phon:Assoumou:Bulu**\n**hh:phon:Haynes:Yemba**\n**hh:s:HarroHaynes:Yemba**\n**hh:s:Tadadjeu:Lenang**\n**hh:t:Haynes:Yemba**\n**hh:typ:Kitio:Yemba**\n**hh:typ:Tadadjeu:Dschang**\n**ldh:item_406750**\n**mpieva:Harro2002Features**\n**sil16:18422**\n**sil16:24411**\n**sil16:40081**\n**sil16:49510**"
+  },
+  "altnames": {
+    "wals": "\nYemba",
+    "ruhlen (1987)": "\nDschang, Yemba",
+    "moseley & asher (1994)": "\nDschang",
+    "multitree": "\nAtsang-Bangwa\nBafou\nBamileke-Yemba\nBangwa\nDschang\nTchang\nYemba",
+    "lexvo": "\nYemba [en]",
+    "hhbib_lgcode": "\nBafou\nBafou-Dschang\nBafou-Menoua\nBaleveng\nBamendou\nBamileke-Dschang\nBangwa\nDschang\nFongo-Ndeng\nFongo-ndeng\nFongo-tongo\nFongondeng\nForeke-Dschang\nForeké-dschang\nFoto'\nSouth Yemba\nYemba (b)\nYemba (c)\nYemba d. atsang\nYemba-c"
+  },
+  "triggers": {
+    "lgcode": "\nbangwa\ndschang\ntswi\ninterlinearised\nphrastique\nmenoua\nNOT verb AND yemba"
+  },
+  "identifier": {
+    "wals": "yem",
+    "multitree": "ybb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nanfah:Yemba**",
+    "subrefs": "\n**hh:hv:Nanfah:Yemba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yemba (ybb-ybb) = 5 (Developing)."
+  }
+}

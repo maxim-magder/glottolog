@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Yinbaw Karen",
+    "hid": "kvu",
+    "level": "language",
+    "iso639-3": "kvu",
+    "latitude": "19.0383",
+    "longitude": "97.2134",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q14426328"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3957**\n**hh:hb:MansonManson:Kayan**\n**hh:he:Diran:Burma**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hv:Shintani:Brakaloungic**"
+  },
+  "altnames": {
+    "multitree": "\nKaren, Yinbaw\nKaren,Yinbaw\nYeinbaw\nYinbaw",
+    "lexvo": "\nYinbaw Karen [en]",
+    "hhbib_lgcode": "\n(YB)\nKaren-Yinbaw\nKayan Kangan\nSinhmaw Mèpauk Karen\nYinbaw\nYinbaw (Yingbaw)"
+  },
+  "triggers": {
+    "lgcode": "\ntower AND files"
+  },
+  "identifier": {
+    "multitree": "kvu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Karen** **hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**\n**hh:hv:Manson:Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yinbaw (kvu-kvu) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mpade",
+    "hid": "mpi",
+    "level": "language",
+    "iso639-3": "mpi",
+    "latitude": "12.561391",
+    "longitude": "14.446893",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG",
+      "TD"
+    ],
+    "links": "\n[Mpade](https://grambank.clld.org/languages/mpad1242)\nhttps://en.wikipedia.org/wiki/Mpade_language\nhttps://phoible.org/languages/mpad1242\nhttps://www.wikidata.org/entity/Q3280670"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2783**\n**eballiso2009:5913**\n**hh:g:Allison:Makary-Kotoko**\n**hh:g:Allison:Makary-Kotoko:2020**\n**hh:he:Lebeuf:Tchad**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Benton:WSudan**\n**hh:s:Mahamat:Mpadi**\n**hh:t:Mahamat:Makari**\n**hh:typ:Mahamat:Mpade-Verbale:2016**\n**hh:typ:Mahamat:Mpadi**\n**hh:w:Lebeuf:Kotoko**\n**ldh:item_400844**\n**ldh:item_403525**\n**mpieva:Abdolaye1999MakaryKo**\n**sil16:47859**"
+  },
+  "altnames": {
+    "multitree": "\nKotoko-Makari\nMackeri\nMakari\nMakary\nMandage\nMandague\nMandagué\nMendage\nMpade",
+    "lexvo": "\nMpade [en]\nMpade language [en]",
+    "hhbib_lgcode": "\nKotoko-Mandage-Mantage subsumes Mpade\nMackĕri\nMakari\nMakary\nSchoe"
+  },
+  "triggers": {
+    "lgcode": "\nmpade\nmakary\nmpadi\ngoulfeil"
+  },
+  "identifier": {
+    "multitree": "mpi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tourneux:Kotoko:Consonantique** **hh:hv:BarreteauDieu:ENCameroun**:65 against the grouping on very common sound changes suggested in **hh:hv:Gravina:Central-Chadic**:46-47",
+    "subrefs": "\n**hh:hv:Tourneux:Kotoko:Consonantique**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mpade (mpi-mpi) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Urigina",
+    "hid": "urg",
+    "level": "language",
+    "iso639-3": "urg",
+    "latitude": "-5.58982",
+    "longitude": "145.507",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Urigina](https://lexibank.clld.org/languages/transnewguineaorg-urigina)\n[urigina](https://lexibank.clld.org/languages/zgraggenmadang-urigina)\nhttps://en.wikipedia.org/wiki/Urigina_language\nhttps://www.wikidata.org/entity/Q7900603"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:Rai**\n**hh:w:Anonymous:Ramu-Wabe**"
+  },
+  "altnames": {
+    "multitree": "\nOriganau\nUrigina\nUriginau",
+    "lexvo": "\nUrigina [en]",
+    "hhbib_lgcode": "\nKobuka (Ere)\nKobuka (Yakumbu)"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "urg"
+  },
+  "classification": {
+    "sub": "**hh:hw:Zgraggen:Rai**",
+    "subrefs": "\n**hh:hw:Zgraggen:Rai**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kobuka (urg-urg) = 6b (Threatened)."
+  }
+}

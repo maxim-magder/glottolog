@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sylheti",
+    "hid": "syl",
+    "level": "language",
+    "iso639-3": "syl",
+    "latitude": "24.83724",
+    "longitude": "92.25347",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Sylheti_language\nhttps://www.wikidata.org/entity/Q2044560"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Grierson:5:I**",
+    "subrefs": "\n**hh:hvw:Grierson:5:I**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvld:Chowdhury:East-Pakistan**\n**hh:hvld:Dabbs:East-Bengal**\n**hh:hvw:Grierson:5:I**\n**hh:phon:Gope:Sylheti**\n**hh:s:Chalmers:Sylheti**\n**hh:s:Hai:Sylhet**\n**hh:s:Lahiri:Sylheti**\n**hh:s:MishraBhattacharjee:Sylheti**\n**hh:typ:Nabila:Brahmanbaria-Sylhet**"
+  },
+  "altnames": {
+    "multitree": "\nBengali of Cachar\nSileti\nSiloti\nSrihattia\nSylheti\nSylheti Bengali\nSylhetti\nSylhetti Bangla\nSyloti\nSyloty",
+    "lexvo": "\nIdioma sylheti [es]\nLenga sylheti [pms]\nLingua Silati [la]\nSiloti keel [et]\nSylheti [en]\nSylheti language [en]\nSyloti [sv]\nসিলেটি ভাষা [bn]\nภาษาสิเลฏี [th]",
+    "hhbib_lgcode": "\n3xSylhet\nEastern Bengali W/E Sylhet\nSylhet"
+  },
+  "triggers": {
+    "lgcode": "\nsylheti\nbrahmanbaria"
+  },
+  "identifier": {
+    "multitree": "syl",
+    "languagelandscape": "http://languagelandscape.org/language/Sylheti"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sylheti (syl-syl) = 3 (Wider communication). Became widespread in the 16th century alongside standard Bengali [ben]. Used in literature, religious poetry, home life, and online written communication."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ayutla Mixtec",
+    "hid": "miy",
+    "level": "language",
+    "iso639-3": "miy",
+    "latitude": "16.96667",
+    "longitude": "-99.0967",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Southern Baja Mixtec](https://endangeredlanguages.com/lang/10535)\nhttps://www.wikidata.org/entity/Q13583508\nhttps://en.wikipedia.org/wiki/Ayutla_Mixtec\n[Mixtec (Ayutla)](https://wals.info/languoid/lect/wals_code_mxt)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:pankratz:pike:67**\n**hh:g:Hills:Ayutla-Mixtec**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:ld:Josserand:Mixteca**\n**sil16:11107**\n**sil16:11883**\n**sil16:23962**\n**sil16:45909**\n**sil16:45910**\n**sil16:45911**\n**sil16:45912**\n**sil16:45913**\n**sil16:45914**\n**sil16:45915**\n**sil16:45916**\n**sil16:45917**\n**sil16:45918**\n**sil16:45919**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (Ayutla)",
+    "wals other": "\nAyutla Mixtec\nAyutla Mixteco\nMixteco (Ayutla)",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nAyutla\nCoastal Guerrero Mixtec\nMixtec (Ayutla)\nMixtec, Ayutla\nMixteco (Ayutla)\nMixteco de Ayutla\nSouthern Misteko\nSouthern Mixteco",
+    "lexvo": "\nAyutla Mixtec [en]",
+    "hhbib_lgcode": "\n122 Tepango Mixtec Hills 1990; Dürr 1987; Josserand 1983\nAyut\nAyutla de los Libres-Guerrero\nMixtec-Ayutla\nTepango",
+    "elcat": "\nAyutla Mixtec\nCentral Juxtlahuaca Mixtec\nCoastal Guerrero Mixtec\nCoicoyán Mixtec\nJuxtlahuaca Mixtec\nMixteco de Ayutla\nMixteco de Juxtlahuaca\nMixteco del Oeste de Juxtlahuaca\nSouthern Baja Mixtec\nWestern Juxtlahuaca Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nviendo\ntocar\nescriben\nsanya\nayutla\nkwento\nsasiki"
+  },
+  "identifier": {
+    "wals": "mxt",
+    "multitree": "miy",
+    "endangeredlanguages": "10535"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:18",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Baja Mixtec (10535) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

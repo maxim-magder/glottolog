@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Kaibobo",
+    "hid": "kzb",
+    "level": "language",
+    "iso639-3": "kzb",
+    "latitude": "-3.1603",
+    "longitude": "128.211",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kaibobo](https://endangeredlanguages.com/lang/1810)\nhttps://en.wikipedia.org/wiki/Kaibobo_language\nhttps://www.wikidata.org/entity/Q6347565"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hv:Taguchi:WSeram**\n**hh:hvw:Collins:CMaluku**\n**hh:w:vanEkris:Ambonsche**"
+  },
+  "altnames": {
+    "multitree": "\nKaibobo\nKaibubu",
+    "lexvo": "\nKaibobo [en]",
+    "hhbib_lgcode": "\nHatusua\nKamarian\nRumahkai\nTihulale\nVocabularies of several languages of Seram and the surrounding islands compiled by a Protestant missionary who worked in the area. Includes data from Hatusua\nWaisamu",
+    "elcat": "\nKaibobo\nKaibubu"
+  },
+  "identifier": {
+    "multitree": "kzb",
+    "endangeredlanguages": "1810"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kaibobo (1810-kzb) = Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

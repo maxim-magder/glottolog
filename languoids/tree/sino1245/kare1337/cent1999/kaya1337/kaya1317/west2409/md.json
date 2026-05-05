@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Western Kayah",
+    "hid": "kyu",
+    "level": "language",
+    "iso639-3": "kyu",
+    "latitude": "18.687",
+    "longitude": "97.4877",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12952596"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:94:11**\n**cldf:thurgood:r:ed:03:3**\n**hh:hvw:Kauffman:Central-Karen**\n**hh:phon:Bryant:Western-Red-Karen**\n**hh:s:Bryant:Western-Kayah**\n**hh:s:Helgerson:Western-Red-Karen**\n**mpieva:Bennett1995Metrical**\n**sil16:36355**\n**sil16:40664**"
+  },
+  "altnames": {
+    "multitree": "\nKarenni\nKarennyi\nKarieng Daeng\nKaya\nKayah\nKayah Li\nKayah, Western\nKayah,Western\nRed Karen\nYang Daeng",
+    "lexvo": "\nWestern Kayah [en]"
+  },
+  "triggers": {
+    "lgcode": "\nwestern AND kayah"
+  },
+  "identifier": {
+    "multitree": "kyu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kayah, Western (kyu-kyu) = 5 (Developing)."
+  }
+}

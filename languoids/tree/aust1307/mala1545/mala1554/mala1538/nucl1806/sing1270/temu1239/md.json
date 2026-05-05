@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Temuan",
+    "hid": "tmw",
+    "level": "language",
+    "iso639-3": "tmw",
+    "latitude": "2.78176",
+    "longitude": "101.906",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Temuan](https://endangeredlanguages.com/lang/3528)\nhttps://www.wikidata.org/entity/Q3025610\nhttps://en.wikipedia.org/wiki/Temuan_language"
+  },
+  "classification": {
+    "sub": "**hh:he:Carey:Orang-Asli**:241 **hh:vld:Lee:Temuan** **hh:hv:Anderbeck:Orang-Laut**",
+    "subrefs": "\n**hh:hv:Anderbeck:Orang-Laut**\n**hh:he:Carey:Orang-Asli**\n**hh:vld:Lee:Temuan**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baer:03**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:d:Baer:Temuan**\n**hh:d:Looi:Temuan**\n**hh:e:Baharon:Parit-Gong**\n**hh:e:Bourien:Wild-Malay**\n**hh:ew:Borie:Mantras**\n**hh:hv:Anderbeck:Orang-Laut**\n**hh:phon:Hassan:Temuan**\n**hh:phon:Yunus:Temuan**\n**hh:s:Mahadi:Temuan**\n**hh:ttypsoc:Daud:Mantera**\n**hh:vld:Lee:Temuan**"
+  },
+  "altnames": {
+    "multitree": "\nBeduanda\nBenua\nNiap\nTemuan\nTemuano",
+    "lexvo": "\nTemuan [en]\nTemuan language [en]",
+    "hhbib_lgcode": "\nMantras\nParit Gong\nTemuan*",
+    "elcat": "\nBeduanda\nBenua\nNiap\nTemuan"
+  },
+  "triggers": {
+    "lgcode": "\npemikiran\nmantera\ntemuan"
+  },
+  "identifier": {
+    "multitree": "tmw",
+    "endangeredlanguages": "3528"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Temuan (3528-tmw) = Threatened (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

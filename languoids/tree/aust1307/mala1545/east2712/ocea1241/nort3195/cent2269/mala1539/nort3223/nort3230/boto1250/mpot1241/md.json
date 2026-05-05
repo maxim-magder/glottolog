@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mpotovoro",
+    "hid": "mvt",
+    "level": "language",
+    "iso639-3": "mvt",
+    "latitude": "-15.8988",
+    "longitude": "167.232",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Botovro](https://endangeredlanguages.com/lang/4731)\n[Mpotovoro](https://lexibank.clld.org/languages/abvdoceanic-Mpotovoro)\nhttps://en.wikipedia.org/wiki/Botovro_language\nhttps://www.wikidata.org/entity/Q6928305"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1649**\n**asjp2010:3197**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMallicolo\nMpotovoro",
+    "lexvo": "\nMpotovoro [en]",
+    "elcat": "\nBotovro\nMallicolo\nMpotovoro"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "mvt",
+    "endangeredlanguages": "4731"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral** **hh:v:Lynch:Nese**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**\n**hh:v:Lynch:Nese**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Botovro (4731-mvt) = Endangered (20 percent certain, based on the evidence available) [Lynch and Crowley 2001](cldf:lynch:crowley:01)"
+  }
+}

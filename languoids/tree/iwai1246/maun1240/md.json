@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mawng",
+    "hid": "mph",
+    "level": "language",
+    "iso639-3": "mph",
+    "latitude": "-11.66",
+    "longitude": "133.376",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Maung](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Maung)\n[Maung](https://wals.info/languoid/lect/wals_code_mau)\n[Mawng](https://collection.aiatsis.gov.au/austlang/language/n64)\n[Mawng](https://endangeredlanguages.com/lang/2546)\n[Mawng](https://grambank.clld.org/languages/maun1240)\nhttps://en.wikipedia.org/wiki/Maung_language\nhttps://phoible.org/languages/maun1240\nhttps://www.wikidata.org/entity/Q6792550"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:bybee:perkins:etal:94**\n**cldf:curnow:99**\n**cldf:donohue:98**\n**cldf:ed:10**\n**cldf:evans:09:2**\n**cldf:hinch:pike:78**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:nichols:92**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Singer:Mawng**\n**hh:d:Singer:Mawng:2021**\n**hh:g:CapellHinch:Maung**\n**hh:g:Singer:Mawng**\n**hh:h:Evans:Iwaidjan**\n**hh:hv:Evans:Macassan-Top-End**\n**hh:hv:Teo:Iwaidja-Maung**\n**hh:hvtyp:Harris:Gunwingguan**\n**hh:hvw:Capell:NWAustralia**\n**hh:phon:Katz:Maung**\n**hh:typ:Singer:Mawng**\n**hh:typ:Singer:Mawng-Gender:2010**\n**hh:w:Capell:Forty-North-Australian**\n**ozbib:1321**\n**ozbib:1511**\n**ozbib:1627**\n**ozbib:1670**\n**ozbib:1821**\n**ozbib:1822**\n**ozbib:1872**\n**ozbib:1911**\n**ozbib:1933**\n**ozbib:2592**\n**ozbib:2650**\n**ozbib:2668**\n**ozbib:2889**\n**ozbib:2890**\n**ozbib:3199**\n**ozbib:3200**\n**ozbib:3331**\n**ozbib:3816**\n**ozbib:4358**\n**ozbib:4398**\n**ozbib:485**\n**ozbib:5331**\n**ozbib:6771**\n**ozbib:6772**\n**ozbib:6796**\n**ozbib:6799**\n**ozbib:6828**\n**ozbib:6968**\n**ozbib:7082**\n**ozbib:73**\n**ozbib:747**\n**ozbib:927**\n**ozbib:939**\n**ozbib:963**\n**sil16:10043**\n**sil16:11111**\n**sil16:11262**\n**sil16:15943**"
+  },
+  "altnames": {
+    "wals": "\nMaung",
+    "ruhlen (1987)": "\nMawng",
+    "moseley & asher (1994)": "\nMaung",
+    "lexvo": "\nMaung [en]",
+    "hhbib_lgcode": "\n38 Maung\nGunmarung\nMaung",
+    "elcat": "\nGoulburn Islands\nGun-Marung\nGunmarang\nGunmarung\nKunmarung\nManagari\nManangari\nMau\nMaung\nMauung\nMaw\nMawng\nMawung",
+    "aiatsis": "\nGun marung\nGunmarang\nGunmarung\nIwaidjan\nKunmarung\nManagari\nManangari\nMarung\nMau\nMaung\nMauung\nMaw\nMawng\nMawung\nMen ngai"
+  },
+  "triggers": {
+    "lgcode": "\nmawng\nmaung"
+  },
+  "identifier": {
+    "wals": "mau",
+    "endangeredlanguages": "2546"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mailhammer:Iwaidjan**",
+    "subrefs": "\n**hh:hv:Mailhammer:Iwaidjan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mawng (2546-mph) = Vulnerable (100 percent certain, based on the evidence available) [Singer 2006](cldf:singer:06)"
+  }
+}

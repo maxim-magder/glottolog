@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southern Birifor",
+    "hid": "biv",
+    "level": "language",
+    "iso639-3": "biv",
+    "latitude": "9.2873",
+    "longitude": "-2.72672",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI",
+      "GH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Southern_Birifor_language\nhttps://phoible.org/languages/sout2790\nhttps://www.wikidata.org/entity/Q32859745"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:goody:56**\n**cldf:goody:58**\n**hh:e:Goody:LoWiili**\n**hh:phon:Dundaa:Birfor**\n**hh:phon:Kuch:Birifor**\n**hh:w:Naden:Birifor**\n**mpieva:Kuch1993Thephono**\n**sil16:35074**\n**sil16:35156**\n**sil16:39781**\n**sil16:40965**"
+  },
+  "altnames": {
+    "multitree": "\nBirifo\nBirifor, Southern\nGhana Birifor",
+    "lexvo": "\nSouthern Birifor [en]",
+    "hhbib_lgcode": "\nBirifor in Ghana\nBirifor-Southern\nKalba\nLoWiili of Birifu\nLɛnkaal Birifor"
+  },
+  "triggers": {
+    "lgcode": "\ntiise\nfuolse"
+  },
+  "identifier": {
+    "multitree": "biv"
+  },
+  "classification": {
+    "sub": "**hh:s:Kropp:Dagaare**",
+    "subrefs": "\n**hh:s:Kropp:Dagaare**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Birifor, Southern (biv-biv) = 5 (Developing)."
+  }
+}

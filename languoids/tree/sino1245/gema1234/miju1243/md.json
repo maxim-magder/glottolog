@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Kman",
+    "hid": "mxj",
+    "level": "language",
+    "iso639-3": "mxj",
+    "latitude": "28.4732",
+    "longitude": "97.0444",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Deng (Kaman)](https://lexibank.clld.org/languages/gaotb-Miju)\n[Kman](https://grambank.clld.org/languages/miju1243)\n[Miju](https://wals.info/languoid/lect/wals_code_mij)\n[Miju-Mishmi](https://endangeredlanguages.com/lang/5639)\nhttps://en.wikipedia.org/wiki/Miju_language\nhttps://phoible.org/languages/miju1243\nhttps://www.wikidata.org/entity/Q56332"
+  },
+  "classification": {
+    "sub": "**hh:hld:Sun:Eastern-Himalayan-China** **hh:hvw:BlenchPost:Arunachal**",
+    "subrefs": "\n**hh:hld:Sun:Eastern-Himalayan-China**\n**hh:hvw:BlenchPost:Arunachal**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:blench:post:11**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grierson:ed:95:16**\n**cldf:lewis:ed:09**\n**cldf:li:02:1**\n**cldf:roche:suzuki:17**\n**cldf:sastry:85**\n**hh:d:Blench:Kman**\n**hh:d:Boro:Miju**\n**hh:e:Dutta:Miju-Mishmis**\n**hh:e:Ghosh:Mishmis**\n**hh:e:Hamilton:Mishmi-Miri**\n**hh:e:Sarkar:Three-Arunachal**\n**hh:g:Li:Geman**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:ShearerHongkai:China**\n**hh:hld:Sun:Eastern-Himalayan-China**\n**hh:hv:DasGupta:Arunachal**\n**hh:hv:Sun:Tani**\n**hh:hvw:Blench:Arunachal:2024**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:hvw:Grierson:3:I**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:ld:DasGupta:Arunachal**\n**hh:phon:Blench:Kman**\n**hh:s:Blench:Kman**\n**hh:s:DasGupta:Miju**\n**hh:s:Robinson:Mishmis**\n**hh:s:Sun:Geman:2007**\n**hh:typ:Blench:Ethno-Ophresiology**\n**hh:w:Huang:Zangmian**\n**hh:w:Kri:Kaman-Taroan**\n**hh:w:Tawsik:Kaman-Tawrah**\n**iso6393:2007-020**\n**mpieva:Li2002Gemanyuy**"
+  },
+  "altnames": {
+    "wals": "\nMiju",
+    "wals other": "\nKaman",
+    "ruhlen (1987)": "\nMiju",
+    "moseley & asher (1994)": "\nKaman",
+    "multitree": "\nGeman Deng\nKaman\nKaman Mishmi\nMiji\nMiju\nMiju-Mishmi\nMishmi\nMījū Mishmi",
+    "lexvo": "\nGeman Deng [en]\nMiju-Mishmi [en]",
+    "hhbib_lgcode": "\nDeng-Geman\nGeman\nKaman\nKaman Deng\nKeman\nMi Jhu\nMi Shmis\nMiju\nMiju Mishmi\nMiju-Mishmi\nPangoon Kaman Mishmi",
+    "elcat": "\nGeman Deng\nKaman\nKaman Mishmi\nKeman\nMiji\nMiju\nMiju-Mishmi\nMishmi\nMījū Mishmi\n格曼語"
+  },
+  "triggers": {
+    "lgcode": "\nmiju\ngeman\njungles"
+  },
+  "identifier": {
+    "wals": "mij",
+    "multitree": "mxj",
+    "endangeredlanguages": "5639"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Miju-Mishmi (5639-mxj) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

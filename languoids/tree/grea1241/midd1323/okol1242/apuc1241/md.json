@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Apucikwar",
+    "hid": "apq",
+    "level": "language",
+    "iso639-3": "apq",
+    "latitude": "12.241",
+    "longitude": "92.7965",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[A-Pucikwar](https://wals.info/languoid/lect/wals_code_apk)\n[Great Andamanese](https://wals.info/languoid/lect/wals_code_gan)\nhttps://en.wikipedia.org/wiki/Opucikwar\nhttps://phoible.org/languages/apuc1241\nhttps://www.wikidata.org/entity/Q28466",
+    "timespan": "1955-01-01/1955-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:basu:55**\n**cldf:man:85**\n**cldf:portman:92**\n**cldf:radcliffe-brown:48**\n**hh:he:Radcliffe-Brown:Andaman**\n**hh:hsdt:Portman:SAndaman**\n**hh:hv:Mayank:Great-Andamanese**\n**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**\n**hh:hw:Portman:Andamanese**\n**hh:typ:ComrieZamponi:Great-Andamanese**\n**mpieva:Man19191923Dictiona**"
+  },
+  "altnames": {
+    "wals": "\nA-Pucikwar\nGreat Andamanese",
+    "wals other": "\nAka-Bojígíab\nAndamanese\nAndamanese (Great Andaman)\nAndamanese (Great)\nBogijiab\nGreat Andaman dialect\nGreat Andamanese",
+    "moseley & asher (1994)": "\nA-Pucikwar\nnot specified",
+    "multitree": "\nA-Pucikwar\nGreat Andamanese\nPuchikwar\nPucikwar",
+    "lexvo": "\nA-Pucikwar [en]\nA-Pucikwar language [en]\nBahasa A-Pucikwar [id]\nGodka a-pucikwar [szl]\nIdioma pucikwar [es]\nJęzyk a-pucikwar [pl]\nLingua a-pucikwar [it]",
+    "hhbib_lgcode": "\nA-Pucikwar\nAka-Bojigiab\nOPC\nOpucikwar\nPujjikar",
+    "glottolog": "\nA-Pucikwar"
+  },
+  "triggers": {
+    "lgcode": "\na AND andamanese"
+  },
+  "identifier": {
+    "wals": "genus/greatandamanese",
+    "multitree": "apq"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**",
+    "subrefs": "\n**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "A-Pucikwar (apq-apq) = 10 (Extinct)."
+  }
+}

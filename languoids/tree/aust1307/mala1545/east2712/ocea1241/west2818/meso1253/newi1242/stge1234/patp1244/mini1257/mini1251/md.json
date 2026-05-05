@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Minigir",
+    "hid": "vmg",
+    "level": "language",
+    "iso639-3": "vmg",
+    "latitude": "-4.31803",
+    "longitude": "152.005",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Lunga Lunga  (Minigir)](https://lexibank.clld.org/languages/abvdoceanic-LungaLungaMinigir)\n[Minigir](https://grambank.clld.org/languages/mini1251)\nhttps://en.wikipedia.org/wiki/Lungalunga_language\nhttps://www.wikidata.org/entity/Q17053237"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Vandermark:Vinitiri**\n**hh:hv:Ross:WMelanesia**\n**iso6393:2012-098**"
+  },
+  "altnames": {
+    "multitree": "\nLungalunga\nMinigir",
+    "lexvo": "\nMinigir [en]\nMinigir language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nthesis AND miriwung\nvinitiri"
+  },
+  "identifier": {
+    "multitree": "vmg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:New-Ireland** **hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:New-Ireland**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vinitiri (vmg-vmg) = 6a (Vigorous)."
+  }
+}

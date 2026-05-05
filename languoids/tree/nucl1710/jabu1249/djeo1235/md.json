@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Djeoromitxí",
+    "hid": "jbt",
+    "level": "language",
+    "iso639-3": "jbt",
+    "latitude": "-12.038",
+    "longitude": "-64.6694",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Djeoromitxi](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Djeoromitxi)\n[Djeoromitxí](https://grambank.clld.org/languages/djeo1235)\n[Jabutí](https://endangeredlanguages.com/lang/3267)\n[Jabutí](https://wals.info/languoid/lect/wals_code_jbt)\nhttps://en.wikipedia.org/wiki/Djeoromitx%C3%AD_language\nhttps://phoible.org/languages/djeo1235\nhttps://www.wikidata.org/entity/Q2060023"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2371**\n**cldf:aikhenvald:dixon:99**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:dixon:aikhenvald:ed:99:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:ribeiro:08**\n**fabreall2009ann:Jabuti_jabuti1**\n**fabreall2009ann:Jabuti_jabuti2**\n**fabreall2009ann:Jabuti_jabuti5**\n**hh:d:Ribero:Djeoromitxi**\n**hh:e:Caspar:Tupari:Aculturacao**\n**hh:e:Metraux:EBolivia**\n**hh:e:vanderVoort:Djeoromitxi**\n**hh:el:daSilva:Djeoromitxi**\n**hh:ew:Mere:Snethlage**\n**hh:he:Caspar:Guapore**\n**hh:he:Maldi:Guapore**\n**hh:he:Snethlage:Guapore**\n**hh:hv:RibeirovanderVoort:Jabuti-Je**\n**hh:hv:vanderVoort:Proto-Jabuti**\n**hh:s:Pires:Jeoromitxi**\n**hh:typ:deCastro:Djeoromitxi**\n**hh:w:Campbell:Jabuti**\n**hh:w:Caspar:Jabuti**\n**hh:w:Loukotka:Inedits**\n**hh:w:Moore:Guapore**\n**hh:w:Sekelj:Arua-Makurap-Zaboti-Arikapo-Tupari**\n**hh:w:Snethlage:Jabuti**\n**ldh:item_401416**\n**mpieva:Pires1992Estudoda**"
+  },
+  "altnames": {
+    "glottolog": "\nDjeoromitxi",
+    "wals": "\nJabutí",
+    "wals other": "\nJabuti",
+    "ruhlen (1987)": "\nJabutí",
+    "moseley & asher (1994)": "\nYabuti",
+    "multitree": "\nDjeoromitxi\nJabotí\nJabutí\nKipiu\nQuipiu\nYabuti\nYabutí",
+    "lexvo": "\nDjeoromitxi language [en]\nJabutí [en]\nLíngua jabuti [pt]\nЯбути [ru]",
+    "hhbib_lgcode": "\nDjeoromitxi\nJaboti\nJabuti\nJabutí\nYabutí",
+    "elcat": "\nDjeoromitxi\nJabotí\nJabutí\nJeoromitxi\nKipiu\nQuipiu\nYabutí"
+  },
+  "triggers": {
+    "lgcode": "\nNOT arikapu AND jabuti\nzaboti\nmarico\ndjeoromitxi\njeoromitxi"
+  },
+  "identifier": {
+    "wals": "genus/jabuti",
+    "multitree": "jbt",
+    "endangeredlanguages": "3267"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanderVoort:Proto-Jabuti** **hh:hv:Jolkesky:Proto-Je**:3-4",
+    "subrefs": "\n**hh:hv:vanderVoort:Proto-Jabuti**\n**hh:hv:Jolkesky:Proto-Je**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Jabutí (3267-jbt) = Severely Endangered (20 percent certain, based on the evidence available) (\"still being transferred to the younger generations, but having less than 50 speakers\" (p. 1)) [van der Voort 2012](cldf:vandervoort:12)"
+  }
+}

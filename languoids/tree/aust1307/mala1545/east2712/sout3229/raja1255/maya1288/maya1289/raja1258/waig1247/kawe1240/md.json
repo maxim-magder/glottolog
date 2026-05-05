@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kawe",
+    "hid": "kgb",
+    "level": "language",
+    "iso639-3": "kgb",
+    "latitude": "-0.17313",
+    "longitude": "130.327",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12952750"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2179**\n**hh:hw:Remijsen:Raja-Ampat**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nKawe",
+    "lexvo": "\nKawe [en]",
+    "hhbib_lgcode": "\nMa'ya-Kawe"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND ampat"
+  },
+  "identifier": {
+    "multitree": "kgb"
+  },
+  "classification": {
+    "sub": "**hh:phon:Remijsen:Raja-Ampat**:18-21",
+    "subrefs": "\n**hh:phon:Remijsen:Raja-Ampat**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kawe (kgb-kgb) = 6b (Threatened)."
+  }
+}

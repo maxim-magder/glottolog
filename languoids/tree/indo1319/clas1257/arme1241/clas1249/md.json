@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Classical-Middle Armenian",
+    "hid": "xcl",
+    "level": "language",
+    "iso639-3": "xcl",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AM"
+    ],
+    "longitude": "41.346422",
+    "latitude": "38.592316",
+    "links": "\n[Classical-Middle Armenian](https://grambank.clld.org/languages/clas1249)\nhttps://en.wikipedia.org/wiki/Classical_Armenian\nhttps://www.wikidata.org/entity/Q181074",
+    "timespan": "0400-01-01/1100-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Godel:Classical-Armenian**\n**hh:g:Jensen:Altarmenische**\n**hh:g:Marr:Drevnearmyanskago**\n**hh:g:Meillet:Altarmenisches**\n**hh:g:Meillet:Armenien-Classique**\n**hh:g:Minassian:Armenien-Ancien**\n**hh:g:Minassian:Armenien-Classique**\n**hh:g:Schmitt:Klassisch-Armenischen**\n**hh:g:Schmitt:Klassisch-Armenischen:1981**\n**hh:g:Thomson:Classical-Armenian**\n**hh:g:Tumanjan:Drevnearmjanskij**\n**hh:g:VanDamme:Altarmenische**\n**hh:phon:Avagyan:Vimakan**\n**hh:s:Clackson:Classical-Armenian**\n**hh:s:Hovsepyan:Hayeren**\n**hh:s:Lauer:Armenienne**\n**hh:s:Lauer:Classischen-Armenischen**\n**hh:t:Jensen:Altarmenische**"
+  },
+  "altnames": {
+    "multitree": "\nClassical Armenian\nGrabar\nKrabar\nOld Armenian",
+    "lexvo": "\nAltarmenische Sprache [de]\nArménien ancien [fr]\nClassical Armenian [en]\nGammelarmensk [no]\nGrabar [gl]\nOud-Armeens [nl]\nГрабар [ru]\nРагсомихаг æвзаг [os]\nԳրաբար [hy]\nძველი სომხური ენა [ka]\n古典アルメニア語 [ja]",
+    "hhbib_lgcode": "\nAltarmenische\nClassical Armenian\nDrevnearmyanskago",
+    "glottolog": "\nClassical Armenian"
+  },
+  "triggers": {
+    "lgcode": "\naltarmenische\naltarmenisches"
+  },
+  "identifier": {
+    "multitree": "xcl"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entries. One of them is Classical Armenian (**hh:g:Meillet:Altarmenisches**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xcl"
+  },
+  "classification": {
+    "sub": "**hh:hv:KloekhorstPronk:Indo-Anatolian** **hh:hv:Peyrot:Tocharian**:89-101 **hh:hv:Ringe:Tocharian** **hh:hv:Taylor:Character-Based-Reconstruction**",
+    "subrefs": "\n**hh:hv:Ringe:Tocharian**\n**hh:hv:KloekhorstPronk:Indo-Anatolian**\n**hh:hv:Taylor:Character-Based-Reconstruction**\n**hh:hv:Peyrot:Tocharian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Classical Armenian (xcl-xcl) = 10 (Extinct)."
+  }
+}

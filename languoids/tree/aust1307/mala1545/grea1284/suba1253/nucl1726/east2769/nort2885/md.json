@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Northern Subanen",
+    "hid": "stb",
+    "level": "language",
+    "iso639-3": "stb",
+    "latitude": "8.5232",
+    "longitude": "123.588",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Northern Subanen](https://grambank.clld.org/languages/nort2885)\nhttps://www.wikidata.org/entity/Q12953892"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Daguman:Northern-Subanen:2013**\n**hh:g:Daguman:Subanen**\n**hh:hv:Lobel:Subanen**\n**mpieva:SanicasDaguman2001Function**\n**sil16:38751**\n**sil16:42427**"
+  },
+  "altnames": {
+    "multitree": "\nSubanen, Northern\nTuboy Subanon",
+    "lexvo": "\nNorthern Subanen [en]",
+    "hhbib_lgcode": "\nSubanen-Northern"
+  },
+  "triggers": {
+    "lgcode": "\nnorthern AND subanen"
+  },
+  "identifier": {
+    "multitree": "stb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lobel:Subanen**",
+    "subrefs": "\n**hh:hv:Lobel:Subanen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Subanen, Northern (stb-stb) = 5 (Developing)."
+  }
+}

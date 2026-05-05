@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Lishanid Noshan",
+    "hid": "aij",
+    "level": "language",
+    "iso639-3": "aij",
+    "latitude": "36.213298",
+    "longitude": "44.065281",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "IQ"
+    ],
+    "links": "\n[Inter-Zab Jewish Neo-Aramaic](https://endangeredlanguages.com/lang/3697)\n[Lishanid Noshan](https://grambank.clld.org/languages/lish1245)\n[Neo-Aramaic (Arbel Jewish)](https://wals.info/languoid/lect/wals_code_naj)\nhttps://en.wikipedia.org/wiki/Inter-Zab_Jewish_Neo-Aramaic\nhttps://www.wikidata.org/entity/Q3436467"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arsanis:68**\n**cldf:ed:10**\n**cldf:haeberl:13**\n**cldf:khan:00**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:rees:08**\n**hh:g:Khan:Arbel**\n**hh:hv:Khan:Neo-Aramaic-Iran**\n**hh:hv:Khan:Neo-Aramaic-Northern-Iraq**\n**hh:s:Khan:Jews-Rustaqa**\n**hh:typ:Khan:Jews-Arbel**"
+  },
+  "altnames": {
+    "wals": "\nNeo-Aramaic (Arbel Jewish)",
+    "wals other": "\nAramaic (Arbel Jewish)\nArbel Jewish Aramaic\nArbili Neo Aramaic\nNeo-Aramaic (Arbel)",
+    "ruhlen (1987)": "\nAramaic",
+    "moseley & asher (1994)": "\nAramaic",
+    "multitree": "\nGaligalu\nHula'ula\nHulani\nJbeli\nKurdit\nLishana Didán\nLishanid Noshan\nLishanid noshan (Iraq)\nLishanid noshan (Israël)\nLisánido nosán (Israel)\nNeo-Aramaic (Arbel Jewish)",
+    "lexvo": "\nLishanid Noshan [en]\nLişanid Noşan [tr]\nภาษาลิซานิด โนซาน [th]",
+    "hhbib_lgcode": "\nArbel\nRustaqa\nTrans Zab (Jewish)",
+    "elcat": "\nGaligalu\nHulani\nInter-Zab Jewish Neo-Aramaic\nJbeli\nKurdit\nLishana Didán\nLishanid Noshan\nNeo-Aramaic (Arbel Jewish)"
+  },
+  "triggers": {
+    "lgcode": "\nrustaqa\narbel"
+  },
+  "identifier": {
+    "wals": "naj",
+    "multitree": "aij",
+    "endangeredlanguages": "3697"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mutzafi:Trans-Zab**",
+    "subrefs": "\n**hh:hv:Mutzafi:Trans-Zab**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Inter-Zab Jewish Neo-Aramaic (3697-aij) = Severely Endangered (80 percent certain, based on the evidence available) (Knowledge of the dialects is quickly fading in these immigrant communities and they have been widely supplanted by Modern Hebrew, especially among the younger generations, who are generally unable to speak the dialects at all. The Jewish Neo-Aramaic dialects, therefore, are approaching extinction.) [Khan 1999](cldf:khan:99)"
+  }
+}

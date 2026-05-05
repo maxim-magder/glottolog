@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Ditidaht",
+    "hid": "dtd",
+    "level": "language",
+    "iso639-3": "dtd",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "longitude": "-124.75",
+    "latitude": "48.67",
+    "links": "\n[Diitiidʔaatx̣ (Nitinat)](https://endangeredlanguages.com/lang/1716)\nhttps://www.wikidata.org/entity/Q13728042\nhttps://en.wikipedia.org/wiki/Ditidaht_language\n[Nitinaht](https://wals.info/languoid/lect/wals_code_nit)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:carlson:thomas:79**\n**cldf:dunlop:gessner:etal:18**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**hh:hv:Jacobsen:Southern-Wakashan**\n**hh:hvd:Fortescue:Wakashan**\n**hh:phon:Werle:Ditdaht**\n**hh:s:Nakayama:Nitinaht**\n**hh:s:ThomasHess:Nitinaht**\n**hh:t:Haas:Nitinat**\n**hh:t:Touchie:Nitinaht**\n**hh:typ:Heaman:Nitinaht**\n**hh:typ:Klokeid:Nitinaht**\n**hh:typ:RoseCarlson:Nitinaht**\n**iso6393:2010-033**"
+  },
+  "triggers": {
+    "lgcode": "\nnitinaht\nditidaht"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jacobsen:Southern-Wakashan**",
+    "subrefs": "\n**hh:hv:Jacobsen:Southern-Wakashan**"
+  },
+  "identifier": {
+    "endangeredlanguages": "1716"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Diitiidʔaatx̣ (Nitinat) (1716-dtd) = Critically Endangered (80 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  },
+  "altnames": {
+    "elcat": "\nDiitiidʔaatx̣ (Nitinat)\nDitidaht\nNitinaht\nNitinat",
+    "hhbib_lgcode": "\nClo-ose\nNitinaht\nNitinat"
+  }
+}

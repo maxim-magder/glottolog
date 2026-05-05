@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Jicarilla Apache",
+    "hid": "apj",
+    "level": "language",
+    "iso639-3": "apj",
+    "latitude": "36.8079",
+    "longitude": "-107.007",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Jicarilla Apache](https://endangeredlanguages.com/lang/2299)\nhttps://www.wikidata.org/entity/Q28277\nhttps://en.wikipedia.org/wiki/Jicarilla_language\nhttps://phoible.org/languages/jica1244\n[Apache (Jicarilla)](https://wals.info/languoid/lect/wals_code_apj)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1919**\n**asjp2010:1960**\n**cldf:bellah:52**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gifford:40**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:jung:02**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:mersol:77**\n**cldf:np:nd:264**\n**cldf:opler:36:2**\n**cldf:opler:43**\n**cldf:opler:46**\n**cldf:opler:71:2**\n**hh:d:Mersol:Jicarilla-Apache**\n**hh:e:Tiller:Jicarilla-Apache**\n**hh:hvw:Gatschet:Seven-Stocks**\n**hh:sd:Phonetal:Jicarilla-Apache**\n**hh:t:Goddard:Jicarilla-Apache**"
+  },
+  "altnames": {
+    "wals": "\nApache (Jicarilla)",
+    "wals other": "\nApache\nJicarilla",
+    "ruhlen (1987)": "\nApache (Jicarilla)",
+    "moseley & asher (1994)": "\nApache (Eastern)",
+    "multitree": "\nApache\nApache (Jicarilla)\nApache jicarilla\nApache, Jicarilla\nEastern Apache\nHikariya\nJicarilla",
+    "lexvo": "\nJicarilla Apache [en]\nJicarilla language [en]",
+    "hhbib_lgcode": "\nApache-Jicarilla\nJicarilla",
+    "elcat": "\nApache\nApache (Jicarilla)\nEastern Apache\nHikariya\nJicarilla\nJicarilla Apache"
+  },
+  "triggers": {
+    "lgcode": "\njicarilla\nNOT siijai AND jicarilla\nilkee"
+  },
+  "identifier": {
+    "wals": "apj",
+    "multitree": "apj",
+    "endangeredlanguages": "2299"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hoijer:Apachean-Athapaskan**",
+    "subrefs": "\n**hh:hv:Hoijer:Apachean-Athapaskan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Jicarilla Apache (2299-apj) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

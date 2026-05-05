@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "French Sign Language",
+    "hid": "fsl",
+    "level": "language",
+    "iso639-3": "fsl",
+    "latitude": "47.0",
+    "longitude": "3.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FR",
+      "TG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33302\nhttps://en.wikipedia.org/wiki/French_Sign_Language\n[Langue des Signes Française](https://wals.info/languoid/lect/wals_code_lsf)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:moody:83**\n**cldf:moody:86**\n**hh:d:Girod:Langue-Signes**\n**hh:d:Moody:Langue-Signes:Dictionnaire**\n**hh:g:Millet:Langue-Signes-Francaise**\n**hh:g:Neve:Signes-Francaise**\n**hh:h:Cantin:Noetomalalien**\n**hh:h:Garcia:Signes-Francaise**\n**hh:ldsoc:Dolza:Segni-Camerun**\n**hh:s:Millet:French-Sign**\n**hh:s:Moody:Langue-Signes**\n**hh:s:Remi:Langage-Signes**\n**hh:soc:Jouison:Signes-Francaise**\n**hh:ttyp:Sallandre:Signes-Francaise**\n**hh:typ:Meltem:French-Sign**\n**hh:v:Guerra:Lexicons-Four-Signed**\n**hh:vld:Nyst:Size-Sign**"
+  },
+  "altnames": {
+    "wals": "\nLangue des Signes Française",
+    "multitree": "\nFSL\nFrench Sign Language\nLSF\nLangue des Signes Française",
+    "lexvo": "\nFranca mansigna lingvo [eo]\nFrench Sign Language [en]\nLangue des signes française [de]\nLengua de señas francesa [es]\nフランス手話 [ja]",
+    "hhbib_lgcode": "\nFrench Sign Language (La Langue des Signes Française or LSF)\nLSF\nLa scuola di Yaoundè ha oltre 40 anni di vita “Fondation Helene Ressicaud pour l’education et la promotion des persone deficientes auditives” (FEPPDA) usa Lingua dei Segni Francese\nL’Ecole des Sourds-Muets St. Jean Baptiste di Bertoua ha attualmente circa 80 bambini e ragazzi sordi e è certamente imparentata strettamente con la Lingua dei Segni Francese"
+  },
+  "triggers": {
+    "lgcode": "\ntome AND signes\ncommuniquons"
+  },
+  "identifier": {
+    "wals": "lsf",
+    "multitree": "fsl"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "French Sign Language (fsl-fsl) = 5 (Developing). Recognized language (2005, Code de l’éducation, Partie législative, Deuxième partie, Livre III, Titre 1er, Chapitre II, Article L312-9-1, Section 3 bis), Recognized as a complete language for use in education."
+  },
+  "classification": {
+    "sub": "Earley independent origin (**hh:s:Millet:French-Sign**)",
+    "subrefs": "\n**hh:s:Millet:French-Sign**"
+  }
+}

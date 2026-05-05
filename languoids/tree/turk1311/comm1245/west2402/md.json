@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "West Yugur",
+    "hid": "ybe",
+    "level": "language",
+    "iso639-3": "ybe",
+    "latitude": "39.0548",
+    "longitude": "99.3112",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Saryg Yughur](https://wals.info/languoid/lect/wals_code_syg)\n[Saryg Yugur](https://lexibank.clld.org/languages/savelyevturkic-SarygYugur)\n[Yellow Uyghur](https://endangeredlanguages.com/lang/1207)\nhttps://en.wikipedia.org/wiki/Western_Yugur_language\nhttps://www.wikidata.org/entity/Q34224"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:an:anzijun:etal:14**\n**cldf:chen:04**\n**cldf:chen:chenzongzhen:etal:85**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dong:06**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:roche:suzuki:17**\n**cldf:roos:00**\n**cldf:tenishev:97:4**\n**cldf:zhong:09**\n**hh:g:Chen:Yugu**\n**hh:g:Chen:Yugu:2004**\n**hh:g:Miao:Yugu-Gansu:2019**\n**hh:g:Zhong:Xibu-Yugu**\n**hh:gsoc:Zhong:Western-Yugur**\n**hh:gtd:Roos:Western-Yugur**\n**hh:hel:Bradley:EAsia**\n**hh:ld:Hahn:Salar**\n**hh:s:Tenisev:Saryg-Yugurskij**\n**hh:s:TenisevTodaeva:ZeltyxUjgorov**\n**hh:sd:Malov:Zeltyx-Ujgorov**\n**hh:typ:Chen:Yugu**\n**hh:v:Nugteren:Diagnostic-Western-Yugur**\n**hh:v:NugterenRoos:Western-Yugur**\n**hh:w:Kotwicz:Ouigours-Jaunes**\n**mpieva:Lei1992XibuYugu**"
+  },
+  "altnames": {
+    "wals": "\nSaryg Yughur",
+    "wals other": "\nSaryg-Uygur\nUygur (Saryg)\nYughur (Saryg)",
+    "multitree": "\nSari Yogur\nSari yougour\nSarig\nSary-Uighur\nSaryg Yughur\nSarygh Uygur\nSprache der gelben Uiguren\nWest Yugur\nYa Lu\nYellow Uighur\nYellow Uyghur\nYugu\nYugur sarig\nYugur, West\nYuku\nšira-jögur",
+    "lexvo": "\nBatı Yugurca [tr]\nSaryg-jugurin kieli [fi]\nWest Yugur [en]\nWest-Yugurisch [de]\nWestern Yugur language [en]\nYougoureg ar c'hornôg [br]\nYugur occidental [fr]\nЗападен југурски јазик [mk]\nСарыг-югурский язык [ru]\nغەربىي يۇغۇر تىلى [ug]\n西部裕固语 [zh]",
+    "hhbib_lgcode": "\nSaryg Yugurov\nSaryg Yugurskij\nWestern Yugur\nWestern Yugur (Saryg Yugur)\nYellow Uyghur\nYugur-West",
+    "elcat": "\nSari Yogur\nSarig\nSary-Uighur\nSaryg Yughur\nSarygh Uygur\nSprache der gelben Uiguren\nTurkic Yellow Uighur\nWest\nWest Yugur\nYa Lu\nYellow Uighur\nYellow Uyghur\nYugu\nYugur\nYuku\nšira-jögur\n西部裕固語"
+  },
+  "triggers": {
+    "lgcode": "\nsaryg\nyugur"
+  },
+  "identifier": {
+    "wals": "syg",
+    "multitree": "ybe",
+    "endangeredlanguages": "1207"
+  },
+  "classification": {
+    "sub": "**hh:v:Nugteren:Diagnostic-Western-Yugur** **hh:v:NugterenRoos:Western-Yugur** **hh:hv:Egorov:Turkic**",
+    "subrefs": "\n**hh:hv:Egorov:Turkic**\n**hh:v:Nugteren:Diagnostic-Western-Yugur**\n**hh:v:NugterenRoos:Western-Yugur**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yellow Uyghur (1207-ybe) = Threatened (20 percent certain, based on the evidence available) (The vitality varies from place to place. In short, only in Minghai and Lianhua Townships of Minghua District (明花區), Yellow Yugur is the language used for daily communication, and is learned by children at home as L1 before school education.) [Roos 2000](cldf:roos:00)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kanga",
+    "hid": "kcp",
+    "level": "language",
+    "iso639-3": "kcp",
+    "latitude": "11.0174",
+    "longitude": "29.3463",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Kanga](https://endangeredlanguages.com/lang/4354)\nhttps://www.wikidata.org/entity/Q6362384\nhttps://en.wikipedia.org/wiki/Kanga_language\nhttps://phoible.org/languages/kang1288"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:04:2**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Dafalla:Katcha-Kadugli**\n**hh:hv:HallHall:Kadugli-Krongo**\n**hh:hvw:Schadeberg:Kadu**\n**hh:hvw:Yahia:Katcha-Kadugli**\n**hh:phon:Li:Kufo**\n**hh:styp:Mullan:Kufo**"
+  },
+  "altnames": {
+    "multitree": "\nAbu Sinun\nCanga\nChiroro-Kursi\nKanga\nKrongo Abdalla\nKufa-Lima",
+    "lexvo": "\nKanga [en]",
+    "hhbib_lgcode": "\nKofa\nKufo\nKufo-Kanga\nShororo/Kursi",
+    "elcat": "\nAbu Sinun\nChiroro-Kursi\nKanga\nKrongo Abdalla\nKufa\nKufa-Lima\nKufo"
+  },
+  "triggers": {
+    "lgcode": "\nNOT to AND krongo AND kadugli"
+  },
+  "identifier": {
+    "multitree": "kcp",
+    "endangeredlanguages": "4354"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dafalla:Katcha-Kadugli** **hh:hv:ThelwallSchadeberg:Nuba**",
+    "subrefs": "\n**hh:hv:Dafalla:Katcha-Kadugli**\n**hh:hv:ThelwallSchadeberg:Nuba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kanga (4354-kcp) = Threatened (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

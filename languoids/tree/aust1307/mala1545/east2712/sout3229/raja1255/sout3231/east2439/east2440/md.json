@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "East Makian",
+    "hid": "mky",
+    "level": "language",
+    "iso639-3": "mky",
+    "latitude": "0.07337",
+    "longitude": "127.423",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[East Makian](https://grambank.clld.org/languages/east2440)\n[Taba](https://endangeredlanguages.com/lang/1515)\n[Taba](https://wals.info/languoid/lect/wals_code_tab)\nhttps://en.wikipedia.org/wiki/Taba_language\nhttps://phoible.org/languages/east2440\nhttps://www.wikidata.org/entity/Q3512690"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1111**\n**asjp2010:4937**\n**cldf:bowden:66**\n**cldf:bowden:hajek:99**\n**hh:d:Ridha:Waikyon**\n**hh:dial:Afidaa:Taba**\n**hh:g:Bowden:Taba**\n**hh:g:Bowden:Taba:1997**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:GrimesGrimes:NMoluccas**\n**hh:hw:AdrianiKruyt:Baree**\n**hh:s:Bowden:Taba**\n**hh:w:Collins:EMakian**\n**hh:w:Teljeur:SHalmahera**"
+  },
+  "altnames": {
+    "glottolog": "\nEast Makian",
+    "wals": "\nTaba",
+    "wals other": "\nE Makian\nE. Makian\nEast Makian\nMakian (East)\nTaba\nWaikyon dialect",
+    "ruhlen (1987)": "\nMakian (East)",
+    "moseley & asher (1994)": "\nMakian (East)",
+    "multitree": "\nMakian (East)\nMakian Dalam\nMakian Timur\nMakian, East\nTaba",
+    "lexvo": "\nEast Makian [en]\nTaba [fr]\nTaba language [en]",
+    "hhbib_lgcode": "\nKaióa islands a small group north of Batchian\nKayoa\nMakian Dalam\nMakian-East\nOost-Makian",
+    "elcat": "\nEast Makian\nMakian Dalam\nTaba"
+  },
+  "triggers": {
+    "lgcode": "\nkayoa\ntaban\ntaba"
+  },
+  "identifier": {
+    "wals": "tab",
+    "multitree": "mky",
+    "endangeredlanguages": "1515"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**:137",
+    "subrefs": "\n**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Taba (1515-mky) = Endangered (100 percent certain, based on the evidence available) (Taba is preferred for household use. Formal situations call for Malay, even if everyone present also speaks Taba. Functional domains for the use of Taba are decreasing. Local population is in decline, and as speakers more to population centers they switch to Malay. Children in this environment only speak Malay. Volcanic eruptions stimulate an accelerated pace of population dispersal.) [Bowden 2001](cldf:bowden:01)"
+  }
+}

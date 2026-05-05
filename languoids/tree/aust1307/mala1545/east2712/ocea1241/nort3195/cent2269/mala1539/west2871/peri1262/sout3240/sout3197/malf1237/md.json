@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Na'ahai",
+    "hid": "mlx",
+    "level": "language",
+    "iso639-3": "mlx",
+    "latitude": "-16.5499",
+    "longitude": "167.509",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Na'ahai (Mbatvanui) 162-85](https://lexibank.clld.org/languages/abvdoceanic-NaahaiMbatvanui16285)\n[Naha'ai](https://endangeredlanguages.com/lang/10189)\nhttps://en.wikipedia.org/wiki/Malfaxal_language\nhttps://www.wikidata.org/entity/Q2157421"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1925**\n**cldf:francois:14:1**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Curtis:Nahai**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**\n**iso6393:2008-011**"
+  },
+  "altnames": {
+    "multitree": "\nMalfaxal\nMallicolo\nMalvaxal-Toman Island\nNaha'ai\nTaman\nTomman",
+    "lexvo": "\nMalfaxal [en]\nNaha'ai [en]",
+    "hhbib_lgcode": "\nMalfaxal\nNaha'ai\nNahaxaj",
+    "elcat": "\nMalfaxal\nMalvaxal-Toman Island\nNaha'ai\nTaman\nTomman"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "mlx",
+    "endangeredlanguages": "10189"
+  },
+  "classification": {
+    "sub": "**hh:g:Dimock:Nahavaq**:5",
+    "subrefs": "\n**hh:g:Dimock:Nahavaq**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Naha'ai (10189-mlx) = Endangered (20 percent certain, based on the evidence available) [Francois 2014](cldf:francois:14:1)"
+  }
+}

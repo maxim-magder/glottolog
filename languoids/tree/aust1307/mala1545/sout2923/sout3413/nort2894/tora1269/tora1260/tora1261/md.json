@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Toraja-Sa'dan",
+    "hid": "sda",
+    "level": "language",
+    "iso639-3": "sda",
+    "latitude": "-2.97144",
+    "longitude": "119.829",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Toraja](https://wals.info/languoid/lect/wals_code_trd)\nhttps://en.wikipedia.org/wiki/Toraja-Sa%CA%BCdan_language\nhttps://www.wikidata.org/entity/Q36673"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3787**\n**cldf:adams:93**\n**cldf:bellwood:95**\n**cldf:bigalke:05**\n**cldf:blevins:08:3**\n**cldf:calculator:14**\n**cldf:celebes:18**\n**cldf:charlton:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:klenke:13**\n**cldf:nooy-palm:72**\n**cldf:nooy-palm:86**\n**cldf:np:14:5**\n**cldf:volkman:85**\n**cldf:waterson:09**\n**hh:d:Tammu:Toradja**\n**hh:d:vanderVeen:Tae**\n**hh:e:Nooy-Palm:Sadan-Toraja**\n**hh:h:vanderVeen:Toradja**\n**hh:hv:Valkama:Toraja**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:phon:SandeStokhof:Toraja-Kesu**\n**hh:s:Sande:Toraja**\n**hh:s:Sande:Toraja-Sadan**\n**hh:t:vanderVeen:Sadan-Toradjase**\n**hh:typ:Friberg:South-Sulawesi**\n**hh:w:Adriani:Sada-Wadu**\n**hh:w:Stokhofetal:Holle:7:3**\n**hh:wtyp:Salombe:Toraja-Saqdan**\n**mpieva:Mills1975ProtoSou**\n**mpieva:Verhaar19751990Miscella**\n**sil16:22011**\n**sil16:22012**"
+  },
+  "altnames": {
+    "wals": "\nToraja",
+    "wals other": "\nRantepao\nSadan\nTa'e\nTae'\nToradja\nToraja Sa'dan",
+    "ruhlen (1987)": "\nSa'dan",
+    "moseley & asher (1994)": "\nSa'dan",
+    "multitree": "\nNordost-Celebes\nSa'dan\nSa'dansche\nSadan\nSadang\nSouth Toraja\nTa'e\nTae'\nToradja\nToraja\nToraja-Sa'dan",
+    "lexvo": "\nToraja-Sa'dan [en]",
+    "hhbib_lgcode": "\nSa'dan-Toraja\nSalumpang-Makale\nTae' here is Toraja-Sa'dan\nTo Sada\nToradja-Sa'dan\nToraja\nToraja-Sa'dan-Makale"
+  },
+  "triggers": {
+    "lgcode": "\ntoradjasch\nmorfemis\ntoradja\ntoraja\ntoradjase\nkesu\ntae\nsadan\nsaqdan"
+  },
+  "identifier": {
+    "wals": "trd",
+    "multitree": "tors;sda"
+  },
+  "classification": {
+    "sub": "**hh:hvw:GrimesGrimes:South-Sulawesi** **hh:hv:Valkama:Mamuju**",
+    "subrefs": "\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hv:Valkama:Mamuju**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Toraja-Sa’dan (sda-sda) = 7 (Shifting)."
+  }
+}

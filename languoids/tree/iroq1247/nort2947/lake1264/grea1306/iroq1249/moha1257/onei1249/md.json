@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Oneida",
+    "hid": "one",
+    "level": "language",
+    "iso639-3": "one",
+    "latitude": "43.438742",
+    "longitude": "-75.708106",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Oneida](https://endangeredlanguages.com/lang/1921)\n[Oneida](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Oneida)\n[Oneida](https://wals.info/languoid/lect/wals_code_ond)\nhttps://en.wikipedia.org/wiki/Oneida_language\nhttps://phoible.org/languages/onei1249\nhttps://www.wikidata.org/entity/Q857858"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2395**\n**cldf:abbot:81**\n**cldf:abbott:84**\n**cldf:christjohn:hinton:96**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dahl:85**\n**cldf:diessel:99:2**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:michelson:88**\n**cldf:mithun:86:1**\n**haspelmath:koenig_argument_2010**\n**hh:d:Michelson:Oneida**\n**hh:e:Campisi:Oneida**\n**hh:e:Fenton:Northern-Iroquoian**\n**hh:g:Abbott:Oneida:2006**\n**hh:hphon:Michelson:Five-Nations-Iroquoian**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hv:Julian:Iroquoian**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Lounsbury:Oneida**\n**hh:s:Abbott:Oneida**\n**hh:s:Lounsbury:Iroquoian**\n**hh:s:Lounsbury:Oneida**\n**hh:t:John:Oneida**\n**hh:t:Michelson:Oneida**\n**hh:typ:Boas:Iroquois**\n**hh:typ:Mantenuto:Oneida**\n**hh:w:Schoolcraft:Oneida**\n**hh:w:Schoolcraft:Vocabularies:1852**\n**ldh:item_1943442**\n**mpieva:Lounsbury1976Oneidave**\n**mpieva:Michelson1983Acompara**\n**mpieva:Michelson1988Acompara**\n**sil16:11105**"
+  },
+  "altnames": {
+    "wals": "\nOneida",
+    "ruhlen (1987)": "\nOneida",
+    "moseley & asher (1994)": "\nOneida",
+    "multitree": "\nOneida\nOneida (Canada)\nOneida (New York)\nOneida (Wisconsin)",
+    "lexvo": "\nOneida [en]\nOneida language [en]\nOneida nyelv [hu]\n오네이다어 [ko]",
+    "hhbib_lgcode": "\nOneidas",
+    "elcat": "\nOneida"
+  },
+  "triggers": {
+    "lgcode": "\nestimating\noneida"
+  },
+  "identifier": {
+    "wals": "ond",
+    "multitree": "one",
+    "endangeredlanguages": "1921"
+  },
+  "classification": {
+    "sub": "**hh:hv:Julian:Iroquoian**:15 **hh:vwtyp:Mithun:Susquehannock**",
+    "subrefs": "\n**hh:vwtyp:Mithun:Susquehannock**\n**hh:hv:Julian:Iroquoian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Oneida (1921-one) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

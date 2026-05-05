@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Yamdena",
+    "hid": "jmd",
+    "level": "language",
+    "iso639-3": "jmd",
+    "latitude": "-7.73722",
+    "longitude": "131.44",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q8048030\nhttps://en.wikipedia.org/wiki/Yamdena_language\n[Yamdena](https://wals.info/languoid/lect/wals_code_ymd)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:drabbe:26:2**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:jepson:brickle:etal:01**\n**cldf:keesing:84:2**\n**cldf:koentjaraningrat:72:1**\n**cldf:koentjaraningrat:72:2**\n**cldf:lamere:mettler:94**\n**cldf:mckinnon:91**\n**cldf:mettler:mettler:90**\n**cldf:np:14:5**\n**cldf:vandijke:87**\n**cldf:vandijke:95**\n**cldf:vanwouden:68**\n**hh:d:Drabbe:Jamdeensche**\n**hh:e:Renwarin:Yamdena**\n**hh:g:Mettler:Yamdena**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:s:Drabbe:Jamdeensche**\n**hh:s:Lamere:Yamdena**\n**hh:s:Rumyaru:Yamdena**\n**hh:s:Visser:Yamdena**\n**hh:w:Stokhofetal:Holle:3:1**\n**sil16:23479**\n**sil16:25625**\n**sil16:25627**\n**sil16:35712**\n**sil16:37271**\n**sil16:37339**"
+  },
+  "altnames": {
+    "wals": "\nYamdena",
+    "ruhlen (1987)": "\nYamdena",
+    "moseley & asher (1994)": "\nYamdena",
+    "multitree": "\nJamden\nJamdena\nYamdena",
+    "lexvo": "\nYamdena [en]",
+    "hhbib_lgcode": "\nJamdena"
+  },
+  "triggers": {
+    "lgcode": "\njamdeensche\ntanemprar\ntnyangkwar\nyamdena"
+  },
+  "identifier": {
+    "wals": "ymd",
+    "multitree": "yamd;jmd"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:441-487",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yamdena (jmd-jmd) = 6b (Threatened)."
+  }
+}

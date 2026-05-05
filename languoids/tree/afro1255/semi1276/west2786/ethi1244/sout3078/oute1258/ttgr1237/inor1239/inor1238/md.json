@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Inoric",
+    "hid": "ior",
+    "level": "language",
+    "iso639-3": "ior",
+    "latitude": "7.94883",
+    "longitude": "37.7968",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35763\nhttps://en.wikipedia.org/wiki/Inor_language\nhttps://phoible.org/languages/inor1238"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Adigeh:Endegagn**\n**hh:g:Meheretu:Gyeta**\n**hh:h:Feleke:Ethiosemitic:2020**\n**hh:hv:Fekede:Gurage**\n**hh:hvs:Hetzron:Gunnan**\n**hh:hvtyp:Hetzron:Outer**\n**hh:hvw:Bender:Ethiopia**\n**hh:hvw:Feleke:South-Ethiosemitic:2020**\n**hh:hvw:Hudson:Northeast-African-Semitic**\n**hh:phon:Kedir:Geto**\n**hh:s:Chamora:Inor**\n**hh:s:ChamoraHetzron:Inor**\n**hh:s:Leslau:Chaha-Ennemor**\n**hh:s:Nega:Endegan**\n**hh:typ:Bahru:Enor**\n**hh:typ:Kirubel:Geto**\n**hh:typ:Worku:Geto**"
+  },
+  "altnames": {
+    "multitree": "\nEnnemor\nGurage\nInnämor\nInor\nInär\nPeripheral West Gurage",
+    "lexvo": "\nIdioma inor [an]\nInor [ca]\nInor jezik [hr]\nInor language [en]",
+    "hhbib_lgcode": "\nEndegagn\nEndegegn\nEnnemor\nEnor\nGeto\nGyeta\nGyeto\nInor",
+    "glottolog": "\nInor"
+  },
+  "triggers": {
+    "lgcode": "\nennemor\nendegan\ninor"
+  },
+  "identifier": {
+    "multitree": "ior"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:vwsoc:Ahland:Mesmes**:98-103",
+    "subrefs": "\n**hh:vwsoc:Ahland:Mesmes**\n**hh:hv:Voigt:North-South-Ethiopian**\n**hh:hv:Weninger:Ethio-Semitic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Inor (ior-ior) = 6a (Vigorous)."
+  }
+}

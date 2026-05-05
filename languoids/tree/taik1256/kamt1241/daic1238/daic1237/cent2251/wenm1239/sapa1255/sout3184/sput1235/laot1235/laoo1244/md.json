@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Lao",
+    "hid": "lao",
+    "level": "language",
+    "iso639-3": "lao",
+    "latitude": "19.0",
+    "longitude": "102.46",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "LA",
+      "TH"
+    ],
+    "links": "\n[Lao](https://grambank.clld.org/languages/laoo1244)\n[Lao](https://wals.info/languoid/lect/wals_code_lao)\nhttps://en.wikipedia.org/wiki/Lao_language\nhttps://phoible.org/languages/laoo1244\nhttps://www.wikidata.org/entity/Q9211"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3999**\n**asjp2010:4205**\n**cldf:adams:hudak:ed:94:3**\n**cldf:adams:hudak:ed:96:11**\n**cldf:bauer:ed:02:1**\n**cldf:bybee:perkins:etal:94**\n**cldf:chelliah:dereuse:ed:97:12**\n**cldf:dixon:y:ed:04:1**\n**cldf:enfield:04**\n**cldf:garding:svantesson:94**\n**cldf:harris:chamberlain:ed:75:8**\n**cldf:macken:ed:00:14**\n**cldf:malherbe:rosenberg:96**\n**cldf:marcus:70**\n**cldf:morev:moskalyov:etal:79**\n**cldf:newman:ed:02:2**\n**cldf:wayland:96**\n**cldf:yates:sayisthsena:70**\n**hh:d:Cheminaud:Laotien**\n**hh:d:Guignard:Laotien**\n**hh:d:Reinhorn:Laotien**\n**hh:d:Taupin:Laotien**\n**hh:g:Enfield:Lao**\n**hh:g:Hospitaler:Laotienne**\n**hh:g:Huong:Laotienne**\n**hh:he:Abadie:Haut-Tonkin**\n**hh:he:Schliesinger:Austro-Thai**\n**hh:he:Schliesinger:Tai-Thailand**\n**hh:hew:Anonymous:Nakai**\n**hh:hew:Crawfurd:Siam**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hv:Jonsson:SWTai**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hw:Hudak:Tai**\n**hh:s:Cuaz:Laocienne**\n**hh:s:MorevMoskalevPlam:Lao**\n**hh:sd:Cuaz:Laocienne**\n**mpieva:1995LaoEngli**\n**mpieva:57**\n**mpieva:Norindr1994Parlonsl**\n**mpieva:Osatananda1997ToneinVi**\n**mpieva:Rehbein2004Laotisch**\n**sil16:33124**\n**sil16:37481**\n**sil16:43656**\n**sil16:44585**\n**sil16:49011**\n**sil16:50196**"
+  },
+  "altnames": {
+    "wals": "\nLao",
+    "wals other": "\nLaotian",
+    "ruhlen (1987)": "\nLao",
+    "moseley & asher (1994)": "\nLao",
+    "multitree": "\nEastern Thai\nLao\nLao Kao\nLao Wiang\nLao-Lum\nLao-Noi\nLao-Tai\nLaotian\nLaotian Tai\nLum Lao\nLأƒآ o\nPhou Lao\nRong Kong\nTai Lao",
+    "lexvo": "\nBahasa Lao [ms]\nBahasa Laos [id]\nIdioma lao [es]\nJęzyk laotański [pl]\nLao [cy]\nLao language [en]\nLao nyelv [hu]\nLaoca [tr]\nLaon kieli [fi]\nLaosiešu valoda [lv]\nLaotiaans [nl]\nLaotische Sprache [de]\nLaotisk [no]\nLaoština [cs]\nLaw simi [qu]\nLaŭa lingvo [eo]\nLingua lao [it]\nLíngua laociana [pt]\nTiếng Lào [vi]\nlao [fr]\nЛао [bg]\nЛаоски језик [sr]\nЛаосский язык [ru]\nЛаошки јазик [mk]\nلائوس تىلى [ug]\nलाओ भाषा [hi]\nলাও ভাষা [bn]\nภาษาลาว [th]\nພາສາລາວ [lo]\nラーオ語 [ja]\n老挝语 [zh]\n라오어 [ko]",
+    "hhbib_lgcode": "\nChieng Khouang\nLao Nyo in Banteay Meanchey province speak a dialect of Lao rather than Nyo\nLaotien\nLuang Prabang\nTai Yor\nVientiane 1\nVientiane 2"
+  },
+  "triggers": {
+    "lgcode": "\nlaotien\nlaotische\nlao\nindochinese\nlaotienne"
+  },
+  "identifier": {
+    "wals": "lao",
+    "multitree": "lao"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chamberlain:Tai** **hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**",
+    "subrefs": "\n**hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**\n**hh:hv:Chamberlain:Tai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lao (lao-lao) = 1 (National). Statutory national language (2003, Constitution, Article 89)."
+  }
+}

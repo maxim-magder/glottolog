@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Garo",
+    "hid": "grt",
+    "level": "language",
+    "iso639-3": "grt",
+    "latitude": "25.2954",
+    "longitude": "90.462",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN"
+    ],
+    "links": "\n[Garo](https://endangeredlanguages.com/lang/5633)\n[Garo](https://grambank.clld.org/languages/garo1247)\n[Garo](https://wals.info/languoid/lect/wals_code_gar)\n[Garo_Garo](https://lexibank.clld.org/languages/sagartst-Garo)\nhttps://en.wikipedia.org/wiki/Garo_language\nhttps://phoible.org/languages/garo1247\nhttps://www.wikidata.org/entity/Q36137"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:burling:03:1**\n**cldf:burling:63**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grierson:ed:95:5**\n**cldf:miri:ed:03:5**\n**cldf:playfair:09**\n**hh:d:Garo:Garo**\n**hh:d:Holbrook:Achikku**\n**hh:d:Marak:Garo**\n**hh:d:Momin:Garo**\n**hh:d:Nengminza:Garo**\n**hh:d:Nengminza:Garo:1999**\n**hh:e:Bhattacharjee:Garos**\n**hh:es:Bonnerjea:Garo**\n**hh:gd:Burling:Modhupur-Mandi**\n**hh:h:Burling:Modhupur-Mandi**\n**hh:hew:Dalton:Bengal**\n**hh:hv:Burling:Bodo-Garo**\n**hh:hv:Shafer:Northernmost-Naga**\n**hh:hv:Sun:Tani**\n**hh:hv:Wood:Proto-Boro-Garo**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Damant:Brahmaputra-Ningtri**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Kondakov:Koch**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Robinson:Asam**\n**hh:phon:Sangma:Garo**\n**hh:s:Borah:Garo**\n**hh:s:Burling:Garo**\n**hh:s:Burling:Garo:1961**\n**hh:s:Burling:Garo:2017**\n**hh:s:Kar:Garo**\n**hh:s:Keith:Garo**\n**hh:s:Phillips:Garo**\n**hh:s:Phillips:Garo:1912**\n**hh:typ:Ingty:Garo**\n**hh:typ:Marak:Garo**\n**hh:typ:Sangma:Achik**\n**hh:w:Campbell:India**\n**hh:w:Kondakov:Koch**\n**hh:w:Williamson:Garo-Konch**\n**hh:wsoc:Ahmadetal:Garos**\n**ldh:item_401785**\n**ldh:item_405800**\n**ldh:item_405803**\n**mpieva:19**\n**mpieva:1988EnglishG**\n**mpieva:Burling2003Thelangu**\n**mpieva:Marak2003GaroKhas**\n**mpieva:Nengminza2001Theschoo**\n**mpieva:Zeeuw1979WesternM**"
+  },
+  "altnames": {
+    "wals": "\nGaro",
+    "ruhlen (1987)": "\nGaro",
+    "moseley & asher (1994)": "\nGaro",
+    "multitree": "\nGaro\nGarrow\nMande",
+    "lexvo": "\nGaro [de]\nGaro language [en]\nJęzyk garo [pl]\nLingua Garo [la]\nLingua garo [it]\nLíngua garo [pt]\nগারো ভাষা [bn]",
+    "hhbib_lgcode": "\nAbeng\nAchik\nAchikku\nDacca\nGaro aka Mande Kusik",
+    "elcat": "\nGaro\nGarrow\nMande"
+  },
+  "triggers": {
+    "lgcode": "\nkonch\nmandi\nmodhupur\nNOT phonology AND garo\nmeghalaya\nachik"
+  },
+  "identifier": {
+    "wals": "gar",
+    "multitree": "grt;garo",
+    "endangeredlanguages": "5633"
+  },
+  "classification": {
+    "sub": "**hh:hv:Burling:Bodo-Garo** **hh:hv:Wood:Proto-Boro-Garo**",
+    "subrefs": "\n**hh:hv:Burling:Bodo-Garo**\n**hh:hv:Wood:Proto-Boro-Garo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Garo (5633-grt) = Vulnerable (80 percent certain, based on the evidence available) (The Garos of Bangladesh use Bengali for everyday dealings with peddlers, shopkeepers, and government and church officials. Bengali is also the language of education for the Garos of Bangladesh. The impact of Bengali on the Garos of India is less strong, as it is not the language of education or the government, nor is it used in trade. Overall, Garo is more endangered in Bangladesh than in India. However, even in Bangladesh most children of Garo parents learn Garo as their first language.) [Burling 2003](cldf:burling:03:1)"
+  }
+}

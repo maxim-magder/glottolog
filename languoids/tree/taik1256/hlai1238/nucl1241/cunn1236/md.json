@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Cun-Nadou",
+    "hid": "cuq",
+    "level": "language",
+    "iso639-3": "cuq",
+    "latitude": "19.2182",
+    "longitude": "108.743",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Nadouhua](https://endangeredlanguages.com/lang/10720)\nhttps://en.wikipedia.org/wiki/Cun_language\nhttps://www.wikidata.org/entity/Q2475478"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fu:11**\n**cldf:fu:12:2**\n**cldf:fu:90**\n**cldf:fu:fuchangzhong:etal:13**\n**cldf:norquest:07**\n**cldf:wang:wangyizhi:etal:10**\n**hh:g:Fu:Cunhua**\n**hh:g:Fu:Nadou**\n**hh:g:Ouyang:Cun**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Thongkum:Tai-Kadai:Hainan**\n**hh:hvwphon:Norquest:Proto-Hlai:2016**\n**hh:ld:Fu:Cun**\n**hh:ld:Fu:Nadou-Verbs**\n**hh:s:Fu:Lai**\n**hh:s:Fu:Nadou**\n**hh:vld:Fu:Lai**\n**hh:vw:Chin:Gelong**\n**hh:w:Fu:Natou**\n**mpieva:Ouyang1998Cunyuyan**"
+  },
+  "altnames": {
+    "multitree": "\nCun\nCun-Hua\nCunhua\nNgao Fon",
+    "lexvo": "\nCun [en]",
+    "hhbib_lgcode": "\nCun\nCunhua\nFawn\nFuma\nGelong\nLai\nNWC Hlai\nNadou\nNadouhua\nNatou hua\nNgao Fon",
+    "elcat": "\nLaiyu\nNadouhua\nNatou\n來語\n那斗話",
+    "glottolog": "\nCun"
+  },
+  "triggers": {
+    "lgcode": "\ncun\ncunhua"
+  },
+  "identifier": {
+    "multitree": "cuq",
+    "endangeredlanguages": "10720"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Norquest:Proto-Hlai:2016**",
+    "subrefs": "\n**hh:hvwphon:Norquest:Proto-Hlai:2016**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Nadouhua (10720) = Severely Endangered (40 percent certain, based on the evidence available) (\"there is little evidence that the children of Nadouhua speakers are learning the language from their parents, many of whom are only semi-fluent themselves.\" (p.18)) [Norquest 2007](cldf:norquest:07)"
+  }
+}

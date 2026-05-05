@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Jeli",
+    "hid": "jek",
+    "level": "language",
+    "iso639-3": "jek",
+    "latitude": "9.3957",
+    "longitude": "-5.66717",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "name_comment": "Ethnologue's name follows **hh:w:Kastenholz:Jeri-Kuo**, but Glottolog adopts the name \"Jeli\" from **hh:g:Trobs:Jeli**.",
+    "links": "\n[Jeri Kuo](https://endangeredlanguages.com/lang/362)\nhttps://www.wikidata.org/entity/Q11031936\n[Jeli](https://wals.info/languoid/lect/wals_code_jel)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:kastenholz:98:2**\n**cldf:np:12:5**\n**hh:e:Launey:Dieli-Korhogo**\n**hh:g:Trobs:Jeli**\n**hh:w:Kastenholz:Jeri-Kuo**\n**hh:wsoc:Kastenholz:Jeri-Kuo**"
+  },
+  "altnames": {
+    "glottolog": "\nJeri Kuo",
+    "multitree": "\nCelle\nJeli\nJeli Kuo\nJeri\nJeri Kuo\nJeri kuo",
+    "lexvo": "\nJeri Kuo [en]",
+    "hhbib_lgcode": "\nJeri Kuo",
+    "elcat": "\nCelle\nJeli Kuo\nJeri\nJeri Kuo\nJeri.kuo"
+  },
+  "triggers": {
+    "lgcode": "\njeli\nfunktionale\njerikuo\nrepartition\nsprachbeschreibung\njeri"
+  },
+  "identifier": {
+    "wals": "jel",
+    "multitree": "jek",
+    "endangeredlanguages": "362"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Jeri Kuo (362-jek) = Severely Endangered (80 percent certain, based on the evidence available) (In more than half of the settlements with a Jeri population, Jeri.kuo is not spoken any more.  In about a third of the remaining 17 villages, only 3-15 semi-speakers of the oldest generation are found, and even among settlements with a sizeable number of remaining speakers, there are only a few exceptions to the rule that the transmission of the language to the next generation is now interrupted.) [Kastenholz 1998](cldf:kastenholz:98:2)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Vincentian Creole English",
+    "hid": "svc",
+    "level": "language",
+    "iso639-3": "svc",
+    "latitude": "13.2436",
+    "longitude": "-61.1963",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "VC"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3501785\n[Vincentian Creole](https://apics-online.info/contributions/7)\nhttps://en.wikipedia.org/wiki/Vincentian_Creole"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:oliver:86**\n**cldf:prescod:04**\n**cldf:prescod:06**\n**cldf:prescod:08**\n**cldf:prescod:09**\n**hh:hvtyp:Holbrook:Creole-Grenada**\n**hh:hvw:Hancock:Anglophone**\n**hh:phontyp:Prescod:Vincent**\n**hh:phontyp:Prescod:Vincent:2004**\n**hh:s:Prescod:Vincentian-Creole**\n**hh:ssoc:Meyerhoff:Bequia**\n**hh:typ:Daleszynska:Bequia**\n**sil16:48409**"
+  },
+  "triggers": {
+    "lgcode": "\nvincentian\nvincent\napparent\nbequia\nadapt"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vincentian English Creole (svc-svc) = 6a (Vigorous). De facto language of national identity."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBequia\nSt Vincent"
+  }
+}

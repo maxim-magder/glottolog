@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Togbo-Vara Banda",
+    "hid": "tor",
+    "level": "language",
+    "iso639-3": "tor",
+    "latitude": "6.35815",
+    "longitude": "22.7362",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CF",
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11002922"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Tisserant:Banda**\n**hh:g:Tisserant:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**\n**hh:hvw:Olson:Banda**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hw:Monino:Oubanguiennes**\n**hh:sd:Cotel:Banda**\n**hh:soc:Buchanan:Togbo**\n**hh:soc:Probst:Vara**"
+  },
+  "altnames": {
+    "multitree": "\nBanda\nBanda, Togbo-Vara",
+    "lexvo": "\nTogbo-Vara Banda [en]",
+    "hhbib_lgcode": "\nBanda Gobu/Togbo\nBanda-Togbo-Vara\nTogbo\nTogbo and Vora\nVara"
+  },
+  "triggers": {
+    "lgcode": "\ngrammaire AND sur AND banda"
+  },
+  "identifier": {
+    "multitree": "tor"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cloarec-Heiss:Banda:2000** **hh:hvw:Olson:Banda**",
+    "subrefs": "\n**hh:hvw:Olson:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banda, Togbo-Vara (tor-tor) = 6a* (Vigorous)."
+  }
+}

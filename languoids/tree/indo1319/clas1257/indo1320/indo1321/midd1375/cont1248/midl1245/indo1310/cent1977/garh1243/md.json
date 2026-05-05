@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Garhwali",
+    "hid": "gbm",
+    "level": "language",
+    "iso639-3": "gbm",
+    "latitude": "30.5061",
+    "longitude": "78.7201",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Garhwali](https://endangeredlanguages.com/lang/5632)\nhttps://en.wikipedia.org/wiki/Garhwali_language\nhttps://www.wikidata.org/entity/Q33459"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:berreman:62:1**\n**cldf:berreman:62:2**\n**cldf:berreman:63**\n**cldf:ed:10**\n**cldf:np:12:5**\n**cldf:simons;:fennig:ed:13**\n**cldf:zoller:83**\n**hh:e:vonEickstedt:Garhwali**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hld:Varma:Pahari**\n**hh:htyp:BhattPathak:Uttarakhand**\n**hh:htyp:BhattPathak:Uttarakhand:2015**\n**hh:hv:Krylova:South-Odisha**\n**hh:hv:Nautiyal:Garhwali**\n**hh:hvw:Kogan:New-Indo-Aryan**\n**hh:hvwt:Grierson:9:IV**\n**hh:s:Catak:Garhvali**\n**hh:s:Catak:Madhya-Pahari**\n**hh:s:Chandola:Garhwali**\n**hh:s:Kala:Garhwali**\n**hh:s:Kukreti:Garhwali**\n**hh:s:Sharma:Garhwali**\n**hh:sv:Bhatt:Garhwali**\n**hh:w:Varma:Pahari:2003-2004**\n**sil16:24452**"
+  },
+  "altnames": {
+    "multitree": "\nBangani\nBhōṭiā of Garhwal\nGadhavali\nGadhawala\nGadwahi\nGarhwal\nGarhwali\nGashwali\nGirwali\nGodauli\nGorwali\nGurvali\nPahari Garhwali",
+    "lexvo": "\nGarhvali [sh]\nGarhválština [cs]\nGarhwali [en]\nJęzyk garhwali [pl]\nLingua Garhvali [la]\nҐархвалі [uk]\nगढ़वाली भाषा [hi]\nガルワーリー語 [ja]",
+    "hhbib_lgcode": "\nGRH — Garhwali from Grierson 1916\nGadhwali\nGarhvali\nJaunpuri\nOnly Garhwali\nRanwalti\nRathi or Rathwali\nRathwali\nRavai\nRawai\nRawalti",
+    "elcat": "\nBhōṭiā of Garhwal\nGadhavali\nGadhawala\nGadwahi\nGarhwal\nGarhwali\nGashwali\nGirwali\nGodauli\nGorwali\nGurvali\nPahari Garhwali"
+  },
+  "triggers": {
+    "lgcode": "\ngarhwali\ngarhwal\nbhsastiriya"
+  },
+  "identifier": {
+    "multitree": "gbm;garh",
+    "endangeredlanguages": "5632"
+  },
+  "classification": {
+    "sub": "**hh:gtd:Hendriksen:Himachali**",
+    "subrefs": "\n**hh:gtd:Hendriksen:Himachali**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Garhwali (5632-gbm) = Vulnerable (80 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

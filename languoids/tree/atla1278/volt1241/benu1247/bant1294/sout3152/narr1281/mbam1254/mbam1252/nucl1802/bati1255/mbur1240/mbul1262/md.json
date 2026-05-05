@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mbule",
+    "hid": "mlb",
+    "level": "language",
+    "iso639-3": "mlb",
+    "latitude": "4.50635",
+    "longitude": "10.9924",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35843\nhttps://en.wikipedia.org/wiki/Mbule_language"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Boyd:Mbam**:329-361",
+    "subrefs": "\n**hh:hvphon:Boyd:Mbam**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvphon:Boyd:Mbam**\n**hh:hvw:Scruggs:Bokito**\n**hh:soc:Boone:Mbule**"
+  },
+  "altnames": {
+    "multitree": "\nDumbule\nMbola\nMbule",
+    "lexvo": "\nMbule [en]",
+    "hhbib_lgcode": "\nMbule of Cameroon\nMbure"
+  },
+  "triggers": {
+    "lgcode": "\nmbola\nmbule"
+  },
+  "identifier": {
+    "multitree": "mlb"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbule (mlb-mlb) = 6b (Threatened)."
+  }
+}

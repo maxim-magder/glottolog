@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Washo",
+    "hid": "was",
+    "level": "language",
+    "iso639-3": "was",
+    "latitude": "38.8184",
+    "longitude": "-119.64",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Washo](https://endangeredlanguages.com/lang/1149)\n[Washo](https://grambank.clld.org/languages/wash1253)\n[Washo](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Washo)\n[Washo](https://wals.info/languoid/lect/wals_code_was)\nhttps://en.wikipedia.org/wiki/Washo_language\nhttps://phoible.org/languages/wash1253\nhttps://www.wikidata.org/entity/Q34198"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3202**\n**cldf:barrett:17:2**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dazevedo:86**\n**cldf:dazevedo:ed:63**\n**cldf:downs:66**\n**cldf:freed:60**\n**cldf:freed:63**\n**cldf:gifford:26:1**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hinton:munro:ed:98:4**\n**cldf:jacobsen:79:2**\n**cldf:jacobsen:jr:etal:96**\n**cldf:jacobsenjr:98**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:lowie:39**\n**cldf:moravcsik:78**\n**cldf:price:62**\n**cldf:sapir:ed:46:6**\n**cldf:stewart:41**\n**hh:e:dAzevedo:Washoe**\n**hh:g:Jacobsen:Washo**\n**hh:ld:BeltramaBochnak:Intensification**\n**hh:ld:Bochnak:Washo-Modality**\n**hh:ld:Dangberg:Washo**\n**hh:ld:Hanink:Washo-Negative**\n**hh:ld:HaninkBochnak:Washo**\n**hh:s:Bochnak:Wasiw**\n**hh:s:Jacobsen:Washo**\n**hh:s:Kroeber:Washo**\n**hh:t:Dangberg:Washo**\n**hh:t:Lowie:Washo**\n**hh:typ:Bochnak:Washo-Past**\n**hh:typ:BochnakRhomieux:Washo**\n**hh:typ:Hanink:Washo**\n**hh:v:Jacobsen:Washo**\n**hh:v:Jacobsen:Washo-Karok**\n**hh:v:Jacobsen:Washoe**\n**mpieva:Dangberg1923Washotex**"
+  },
+  "altnames": {
+    "wals": "\nWasho",
+    "ruhlen (1987)": "\nWasho",
+    "moseley & asher (1994)": "\nWasho",
+    "lexvo": "\nWachoeg [br]\nWasho [en]\nWasho language [en]\nWashoan [hr]\nWashoe [de]\nWaxo hizkuntza [eu]\nwasho [fr]\nУошо [ru]",
+    "elcat": "\nWasho\nWashoa\nWashoe",
+    "hhbib_lgcode": "\nWasiw\nWáˑšiw"
+  },
+  "triggers": {
+    "lgcode": "\nwashoe\nwasho"
+  },
+  "identifier": {
+    "wals": "genus/washo",
+    "endangeredlanguages": "1149"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Washo (1149-was) = Severely Endangered (20 percent certain, based on the evidence available) [Golla 2007](cldf:golla:07)"
+  }
+}

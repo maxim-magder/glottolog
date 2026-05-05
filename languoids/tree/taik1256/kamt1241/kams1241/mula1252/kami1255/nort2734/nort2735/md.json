@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Northern Dong",
+    "hid": "doc",
+    "level": "language",
+    "iso639-3": "doc",
+    "latitude": "26.9944",
+    "longitude": "109.204",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\nhttps://phoible.org/languages/nort2735\nhttps://www.wikidata.org/entity/Q17195499"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2749**\n**cldf:gerner:05:2**\n**cldf:solnit:88:1**\n**cldf:somsonge:96**\n**hh:d:Ou:Dong**\n**hh:d:Zhao:Dong**\n**hh:hvwtyp:Tu:Jinping**\n**hh:phon:Zhu:Dong-Kouzhai**\n**hh:s:Liang:Dong**\n**sil16:38581**\n**sil16:45884**\n**sil16:45885**\n**zurich:Gerner2005**"
+  },
+  "altnames": {
+    "wals": "\nKam (Zhanglu)",
+    "wals other": "\nKam\nZhanglu dialect",
+    "ruhlen (1987)": "\nKam",
+    "moseley & asher (1994)": "\nKam",
+    "multitree": "\nDong\nDong, Northern\nGam\nKam\nTong\nTung\nTung-Chia",
+    "lexvo": "\nNorthern Dong [en]",
+    "hhbib_lgcode": "\nDatong in Sanjiang\nDong-Northern\nJiuzhai Dong\nNorthern Kam\nalso a section on dialect differences covering Dong-Northern"
+  },
+  "triggers": {
+    "lgcode": "\nrongjiang\nguizhou AND dong"
+  },
+  "identifier": {
+    "wals": "don;kzh",
+    "multitree": "doc"
+  },
+  "classification": {
+    "sub": "**hh:s:YangEdmondson:Kam**",
+    "subrefs": "\n**hh:s:YangEdmondson:Kam**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dong, Northern (doc-doc) = 6b (Threatened). Language of recognized nationality: Dong."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kaningdon-Nindem",
+    "hid": "kdp",
+    "level": "language",
+    "iso639-3": "kdp",
+    "latitude": "9.525",
+    "longitude": "8.37644",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914956\nhttps://en.wikipedia.org/wiki/Ninkyob-Nindem_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Ames:Plateau**\n**hh:hld:Harley:Sounds-Nigerian**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvld:Gerhardt:Ayu**\n**hh:hvld:Gerhardt:Plateaus:1983**\n**hh:hw:Williamson:BCCWL:II**\n**hh:s:Ayantayo:Kaningkon**\n**hh:typ:Abdulkadir:Kaninkon**\n**hh:w:Armstrong:West-African**\n**hh:w:Blench:Ninkyop**"
+  },
+  "altnames": {
+    "multitree": "\nKaningdon-Nindem\nNigeria",
+    "lexvo": "\nKaningdon-Nindem [en]",
+    "hhbib_lgcode": "\nI-Nidem\nKaningkom\nKaningkom-Nindem\nKaninkon\nKaninkwom\nKaninkwom-Ningwon-Numana\nNikyob-Nindem\nNindem\nNinkyob"
+  },
+  "triggers": {
+    "lgcode": "\nkaninkon\nninkyop"
+  },
+  "identifier": {
+    "multitree": "kdp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:24-26",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nikyob-Nindem (kdp-kdp) = 6a (Vigorous)."
+  }
+}

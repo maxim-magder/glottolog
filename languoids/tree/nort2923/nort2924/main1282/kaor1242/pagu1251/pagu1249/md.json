@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Pagu",
+    "hid": "pgu",
+    "level": "language",
+    "iso639-3": "pgu",
+    "latitude": "1.2134",
+    "longitude": "127.78",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Pagu](https://grambank.clld.org/languages/pagu1249)\n[Pagu](https://wals.info/languoid/lect/wals_code_pag)\nhttps://en.wikipedia.org/wiki/Pagu_language\nhttps://www.wikidata.org/entity/Q7124462"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Dalan:Pagu**\n**hh:d:Peranginangin:Pagu**\n**hh:g:Angin:Pagu**\n**hh:h:Taber:Maluku**\n**hh:hv:GrimesGrimes:NMoluccas**\n**hh:hv:Voorhoeve:NMoluccas**\n**hh:hvw:Hueting:Halmaherasche**\n**hh:ld:Donohue:Papuan**\n**hh:phon:Wimbish:Pagu**\n**hh:s:Wimbish:Pagu**\n**hh:t:Ellen:Pagoe:Fabelen**\n**hh:typ:Holton:North-Halmahera**\n**hh:w:Ellen:Pagoe**\n**hh:w:StokhofSaleh-Bronkhorst:Holle:2**\n**mpieva:Burquest19921995Descript**"
+  },
+  "altnames": {
+    "wals": "\nPagu",
+    "ruhlen (1987)": "\nPagu",
+    "moseley & asher (1994)": "\nPagu",
+    "multitree": "\nPago\nPagoe\nPagu",
+    "lexvo": "\nPagu [en]",
+    "hhbib_lgcode": "\nIsam\nPagu-Isam-Toliwiku\nTòloliku"
+  },
+  "triggers": {
+    "lgcode": "\nNOT 3 AND pagu\npagoe\npagu"
+  },
+  "identifier": {
+    "wals": "pag",
+    "multitree": "pgu"
+  },
+  "classification": {
+    "sub": "**hh:s:Wimbish:Pagu**:6",
+    "subrefs": "\n**hh:s:Wimbish:Pagu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pagu (pgu-pgu) = 7 (Shifting)."
+  }
+}

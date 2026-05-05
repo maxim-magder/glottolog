@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bisorio",
+    "hid": "bir",
+    "level": "language",
+    "iso639-3": "bir",
+    "latitude": "-4.77763",
+    "longitude": "143.213",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bisorio](https://endangeredlanguages.com/lang/10628)\nhttps://www.wikidata.org/entity/Q8844749"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Dornstreich:Gadio-Enga**\n**hh:hv:Franklin:Engan**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:ConradLewis:USepik**\n**hh:hvw:DaviesComrie:Yuat**\n**hh:vw:Franklin:Engan-Fringe**\n**hh:w:Haberland:Korowori**\n**iso6393:2020-026**"
+  },
+  "altnames": {
+    "multitree": "\nBisorio\nIniai\nInyai-Gadio-Bisorio",
+    "lexvo": "\nBisorio [en]",
+    "hhbib_lgcode": "\nGadio\nGadio Enga\nIñiai\nPikaru 1 this is likely a variety of Bisorio\nPikaru 1 this is near identical to Bisorio",
+    "elcat": "\nBi\nBigalu\nBikaru\nBisorio\nBugalu\nGne\nIniai\nInyai-Gadio-Bisorio\nPikaru\nSidi"
+  },
+  "triggers": {
+    "lgcode": "\ngadio"
+  },
+  "identifier": {
+    "multitree": "bir",
+    "endangeredlanguages": "10628"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ConradLewis:USepik** **hh:hvw:DaviesComrie:Yuat**:281 **hh:e:Dornstreich:Gadio-Enga** **hh:vw:Franklin:Engan-Fringe**",
+    "subrefs": "\n**hh:e:Dornstreich:Gadio-Enga**\n**hh:hvw:ConradLewis:USepik**\n**hh:vw:Franklin:Engan-Fringe**\n**hh:hvw:DaviesComrie:Yuat**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bisorio (10628) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

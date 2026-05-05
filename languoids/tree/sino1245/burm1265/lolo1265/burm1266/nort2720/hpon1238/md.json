@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Hpon",
+    "hid": "hpo",
+    "level": "language",
+    "iso639-3": "hpo",
+    "latitude": "24.4606",
+    "longitude": "97.1142",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\n[Hpon](https://endangeredlanguages.com/lang/4274)\n[Phon](https://lexibank.clld.org/languages/mannburmish-Phon)\nhttps://en.wikipedia.org/wiki/Hpon_language\nhttps://www.wikidata.org/entity/Q5923277",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**hh:hel:Bradley:EAsia**\n**hh:hew:Luce:Burma**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Mann:NBurmic**\n**hh:hvw:Taylor:Burmese**\n**hh:hvwphon:Wang:Miandianyu**\n**hh:hw:Davies:Yun-Nan**\n**hh:phonw:Henderson:Hpun**\n**hh:phonwtyp:Yabu:Hpun**\n**hh:s:Kyaw:Hpun**\n**hh:v:Nishida:Hpun**\n**sala:luce-10.077a-106b**\n**sala:luce-7.001-040b**\n**sala:luce-7.046a-075b**\n**sala:luce-7.102a-105c**\n**sala:luce-76.041a-b**\n**sala:luce-76.070a-072b**"
+  },
+  "altnames": {
+    "multitree": "\nHpon\nHpun\nHpön\nMegyaw\nPhon\nPhun\nPhön\nSamong",
+    "lexvo": "\nHpon [en]",
+    "hhbib_lgcode": "\nHpun\nHpun-Megyaw/Northern\nMegyaw Hpon\nP'ön from a native of the \"third defile\" of the Irrawaddy between Bhamo and Sen-bo\nPhon\nPwun or Hpōn\nSamong Hpon\nnorthern Hpun",
+    "elcat": "\nHpon\nHpun\nHpön\nMegyaw\nPhon\nPhun\nPhön\nSamong"
+  },
+  "triggers": {
+    "lgcode": "\nhpun"
+  },
+  "identifier": {
+    "multitree": "hpo",
+    "endangeredlanguages": "4274"
+  },
+  "classification": {
+    "sub": "**hh:v:Nishida:Hpun**",
+    "subrefs": "\n**hh:v:Nishida:Hpun**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hpon (4274-hpo) = Dormant [Bradley 2007](cldf:bradley:07)"
+  }
+}

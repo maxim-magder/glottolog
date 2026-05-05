@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mixtepec Mixtec",
+    "hid": "mix",
+    "level": "language",
+    "iso639-3": "mix",
+    "latitude": "17.3317",
+    "longitude": "-97.8791",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Mixtepec Mixtec](https://endangeredlanguages.com/lang/10531)\nhttps://www.wikidata.org/entity/Q6884125\nhttps://en.wikipedia.org/wiki/Mixtepec_Mixtec"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:d:Galindo:Tuun-Savi**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:hvw:Padgett:Mixtec**\n**hh:ldsoc:Rojas:Nuu-Savi**\n**hh:phon:IbachPike:Mixtepec-Mixtec**\n**hh:phon:PasterAzcona:Yucunany-Mixtec**\n**hh:typ:Nieves:Mixtepec**\n**sil16:22799**\n**sil16:47104**\n**sil16:47105**\n**sil16:47119**\n**sil16:47123**\n**sil16:47124**\n**sil16:47125**\n**sil16:47126**\n**sil16:47127**\n**sil16:47128**\n**sil16:47129**\n**sil16:48390**\n**sil16:48391**\n**sil16:48392**\n**sil16:48393**\n**sil16:50112**\n**sil16:50113**\n**sil16:50114**\n**sil16:50115**\n**sil16:50116**\n**sil16:50117**\n**sil16:50118**\n**sil16:50119**\n**sil16:50120**\n**sil16:50121**\n**sil16:50122**\n**sil16:50123**\n**sil16:50124**\n**sil16:50125**\n**sil16:50126**\n**sil16:50127**\n**sil16:50128**\n**sil16:50129**\n**sil16:50130**\n**sil16:50131**\n**sil16:51074**\n**sil16:51075**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Juxtlahuaca Mixtec\nMixtec, Mixtepec\nMixteco de San Juan Mixtepec\nNorthern Misteko\nNorthern Mixteco",
+    "lexvo": "\nMixtepec Mixtec [en]",
+    "hhbib_lgcode": "\n129 Yucunani Mixtec Salazar et al. 2021\n18 La Batea Mixtec Ramirez 2020\n4 Abasolo Valle Mixtec Galindo Sánchez 2009\n47 San Juan Mixtepec Mixtec Dürr 1987; Josserand 1983\nB. 2009)\nLos Tejocotes\nMeson de Guadalupe\nMix\nMixtec-Mixtepec\nSan Juan Mixtepec\nSan Juan Mixtepec (SJM)\nSan Juan Mixtepec-Oaxaca\nTejc\nYucunany",
+    "elcat": "\nEastern Juxtlahuaca Mixtec\nMixteco de Oeste Central\nMixteco de San Juan Mixtepec\nMixtepec Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nnuu AND savi"
+  },
+  "identifier": {
+    "multitree": "mix",
+    "endangeredlanguages": "10531"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:16-18 **hh:hvw:Josserand:Mixtec** **hh:hdial:Eglandetal:Mexico**:26",
+    "subrefs": "\n**hh:hdial:Eglandetal:Mexico**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mixtepec Mixtec (10531-mix) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

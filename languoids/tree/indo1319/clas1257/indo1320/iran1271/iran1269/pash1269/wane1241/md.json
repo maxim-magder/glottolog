@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Waneci",
+    "hid": "wne",
+    "level": "language",
+    "iso639-3": "wne",
+    "latitude": "30.0501",
+    "longitude": "67.8327",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7967334\nhttps://en.wikipedia.org/wiki/Wanetsi\nhttps://phoible.org/languages/wane1241"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Rastorgueva:Vostocnoiranskie**\n**hh:hvwsoc:Hallberg:PWO**\n**hh:s:Askar:Waneci**\n**hh:s:Elfenbein:Waneci**\n**hh:s:Elfenbein:Waneci:1967**\n**hh:s:Morgenstierne:Wanetsi**"
+  },
+  "altnames": {
+    "multitree": "\nChalgari\nPashto\nTarino\nVanechi\nWanechi\nWaneci\nWanetsi",
+    "lexvo": "\nWaneci [en]",
+    "hhbib_lgcode": "\nVanetsi\nWCI WaNeci\nWanetsi\nWaṇecī"
+  },
+  "triggers": {
+    "lgcode": "\nwaneci\nwanetsi"
+  },
+  "identifier": {
+    "multitree": "wne"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cheung:Pashto** **hh:hvwsoc:Hallberg:PWO** **hh:hv:Novak:Eastern-Iranian:2013**",
+    "subrefs": "\n**hh:hv:Cheung:Pashto**\n**hh:hv:Novak:Eastern-Iranian:2013**\n**hh:hvwsoc:Hallberg:PWO**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Waneci (wne-wne) = 6a* (Vigorous)."
+  }
+}

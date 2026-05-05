@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Acehnese",
+    "hid": "ace",
+    "level": "language",
+    "iso639-3": "ace",
+    "latitude": "3.90757",
+    "longitude": "96.6032",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Acehnese](https://grambank.clld.org/languages/achi1257)\n[Acehnese](https://wals.info/languoid/lect/wals_code_ace)\nhttps://en.wikipedia.org/wiki/Acehnese_language\nhttps://phoible.org/languages/achi1257\nhttps://www.wikidata.org/entity/Q27683"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aboebakar:hanafiah:etal:85**\n**cldf:asyik:82**\n**cldf:durie:87**\n**cldf:durie:95**\n**cldf:durie:96**\n**cldf:durie:daud:etal:94**\n**cldf:kreemer:31**\n**cldf:vanlangen:89**\n**hh:d:Bakar:Aceh**\n**hh:d:DaudDurie:Acehnese**\n**hh:d:Djajadiningrat:Atjehsch**\n**hh:d:Santoso:Aceh**\n**hh:g:Asyik:Acehnese**\n**hh:g:Durie:Acehnese**\n**hh:g:vanLangen:Atjehsche**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hv:Durie:Proto-Chamic**\n**hh:hv:Peiros:Malayic-Chamic-Aceh**\n**hh:s:Cowan:Achehnese**\n**hh:s:HanafiahMakam:Aceh**\n**hh:s:Snouck:Atjehsche**\n**hh:s:Sulaiman:Aceh**\n**hh:s:Wildan:Aceh**\n**hh:s:Wildan:Aceh:1999**\n**hh:v:Cowan:Atjehsch-Mon-Khmer**\n**hh:w:Dias:Atjehsche**\n**hh:w:Durie:Acehnese**\n**hh:w:Stokhof:Holle:Northern-Sumatra**\n**mpieva:Verhaar19751990Miscella**\n**sil16:10430**\n**sil16:33759**\n**sil16:34119**\n**sil16:48332**"
+  },
+  "altnames": {
+    "wals": "\nAcehnese",
+    "ruhlen (1987)": "\nAcehnese",
+    "moseley & asher (1994)": "\nAchinese",
+    "multitree": "\nAceh\nAcehnese\nAchehnese\nAchen\nAchinese\nAtjeh\nAtjehnese\nAtschin",
+    "lexvo": "\nAceh [fr]\nAcehnese language [en]\nAcehnesiska [sv]\nAceh’n kieli [fi]\nAchinese [en]\nAtjehs [nl]\nAĉea lingvo [eo]\nBahasa Aceh [id]\nBahsa Acèh [ace]\nBasa Aceh [jv]\nIdioma achenés [an]\nJęzyk aceh [pl]\nLingua achinesa [gl]\nLíngua achém [pt]\naceh [fr]\nАчехский язык [ru]\nআচে ভাষা [bn]\nภาษาอาเจะห์ [th]\nアチェ語 [ja]",
+    "hhbib_lgcode": "\nAceh\nAchinese\nAtjehnese\nBayau-Aceh",
+    "glottolog": "\nAchinese"
+  },
+  "triggers": {
+    "lgcode": "\nacehnese\natjehsch\natjesche\ncontextual\nachehnese\nNOT language AND aceh\natjehnese"
+  },
+  "identifier": {
+    "wals": "ace",
+    "multitree": "achi;ace"
+  },
+  "classification": {
+    "sub": "**hh:hv:Brunelle:Chamic:2024**",
+    "subrefs": "\n**hh:hv:Brunelle:Chamic:2024**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aceh (ace-ace) = 6b (Threatened). De facto language of provincial identity in Aceh province."
+  }
+}

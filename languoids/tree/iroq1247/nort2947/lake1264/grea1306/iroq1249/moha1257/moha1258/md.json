@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mohawk",
+    "hid": "moh",
+    "level": "language",
+    "iso639-3": "moh",
+    "latitude": "43.72",
+    "longitude": "-74.66836",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Mohawk](https://endangeredlanguages.com/lang/1668)\n[Mohawk](https://grambank.clld.org/languages/moha1258)\n[Mohawk](https://wals.info/languoid/lect/wals_code_moh)\nhttps://en.wikipedia.org/wiki/Mohawk_language\nhttps://www.wikidata.org/entity/Q13339"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baker:92**\n**cldf:bonvillain:78**\n**cldf:bonvillain:81**\n**cldf:bonvillain:89:1**\n**cldf:bonvillain:89:2**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:foster:ed:74:2**\n**cldf:foster:ed:74:3**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hopkins:66**\n**cldf:hopkins:87**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:maracle:92**\n**cldf:michelson:81**\n**cldf:michelson:88**\n**cldf:mithun:86:1**\n**cldf:mithun:88:2**\n**cldf:np:12:2**\n**cldf:np:nd:264**\n**cldf:pentangelo:20**\n**cldf:potter:94**\n**elpub:ldd37**\n**hh:d:LaGalissoniere:Iroquois**\n**hh:d:Michelson:Mohawk**\n**hh:e:Fenton:Northern-Iroquoian**\n**hh:e:FentonTooker:Mohawk**\n**hh:g:Bonvillain:Akwesasne**\n**hh:g:Bonvillain:Akwesasne:1972**\n**hh:g:Hopkins:Mohawk**\n**hh:hphon:Michelson:Five-Nations-Iroquoian**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hv:Julian:Iroquoian**\n**hh:hvtyp:Cuoq:Sauvages**\n**hh:s:Beatty:Mohawk**\n**hh:s:DeeringDelisle:Mohawk**\n**hh:s:Mithun:Mohawk**\n**hh:s:Postal:Mohawk**\n**hh:typ:Baker:Polysynthesis**\n**hh:typ:Chamorro:Mohawk**\n**hh:w:Bogaert:Mohawk**\n**hh:w:Elliot:Mohawk**\n**hh:w:Schoolcraft:Vocabularies:1852**\n**hh:w:Smith:Iroquois**\n**ldh:item_1920223**\n**mpieva:Bryant2003GenusSys**\n**mpieva:Michelson1983Acompara**\n**mpieva:Michelson1988Acompara**\n**sil16:11105**\n**sil16:45241**"
+  },
+  "altnames": {
+    "wals": "\nMohawk",
+    "ruhlen (1987)": "\nMohawk",
+    "moseley & asher (1994)": "\nMohawk",
+    "multitree": "\n\"mohawk (Akwesasne, St. Regis)\"\nKanien'kehaka\nMohaqués (Wahta)\nMohawk\nMohawk (Ganienkeh)\nMohawk (Kahnawake)\nMohawk (Kanatsiohareke)\nMohawk (Kanesatake)\nMohawk (Six nations)\nMohawk (Tyendinaga)\nMohawk (Wahta)",
+    "lexvo": "\nJęzyk mohawk [pl]\nKanien'keha:ka [gsw]\nLingua mohawk [ia]\nMohawk [de]\nMohawk language [en]\nMohoka lingvo [eo]\nmohawk [fr]\nМогаукский язык [ru]\n모호크어 [ko]",
+    "hhbib_lgcode": "\nIroquois Agnie",
+    "elcat": "\nKanien'kehaka\nKanienʼkéha\nMohawk"
+  },
+  "triggers": {
+    "lgcode": "\nmohawk\nphilologiques\nakwesasne\nestimating\nabley"
+  },
+  "identifier": {
+    "wals": "moh",
+    "multitree": "moh",
+    "endangeredlanguages": "1668"
+  },
+  "classification": {
+    "sub": "**hh:hv:Julian:Iroquoian**:15 **hh:vwtyp:Mithun:Susquehannock**",
+    "subrefs": "\n**hh:vwtyp:Mithun:Susquehannock**\n**hh:hv:Julian:Iroquoian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mohawk (1668-moh) = Threatened (80 percent certain, based on the evidence available) (The first-language speakers are aging, but sustained interest in cultural revitalisation, which grew precipitously in the 1970s, has led to a growing population of younger second-language speakers (Bonvillain, 1973).) [Pentangelo 2020](cldf:pentangelo:20)"
+  }
+}

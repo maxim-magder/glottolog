@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Seze",
+    "hid": "sze",
+    "level": "language",
+    "iso639-3": "sze",
+    "latitude": "9.50764",
+    "longitude": "34.6449",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Sezo](https://endangeredlanguages.com/lang/4607)\nhttps://www.wikidata.org/entity/Q373683\nhttps://en.wikipedia.org/wiki/Seze_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:mengistu:11**\n**hh:e:Cipriani:Berta-Coma-Mao**\n**hh:e:Smidt:Mao**\n**hh:g:Girma:Sezo**\n**hh:he:Grottanelli:Pre-Nilotes**\n**hh:he:Grottanelli:Pre-Niloti**\n**hh:hv:Bender:Gumuz-Koman-Mao-Omotic**\n**hh:hv:Bender:Mao**\n**hh:hv:Bender:Remnant**\n**hh:hv:Fleming:Mao**\n**hh:hv:Fleming:Mao:2007**\n**hh:ld:Bender:Hozo-Sezo**\n**hh:s:Desta:Sezo**\n**hh:typ:Desta:Sezo**\n**hh:typ:Desta:Sezo-Serial-Verb**\n**hh:vtyp:Ahland:Omotic-Mao**\n**hh:w:Wedekindetal:Asosa:III**\n**sil16:37542**\n**sil16:42882**"
+  },
+  "altnames": {
+    "multitree": "\nSeze\nSezo",
+    "lexvo": "\nSeze [en]",
+    "hhbib_lgcode": "\nSeezo\nSezo\nSezo-Mao",
+    "elcat": "\nSeze\nSezo"
+  },
+  "triggers": {
+    "lgcode": "\nkoman\nsezo"
+  },
+  "identifier": {
+    "multitree": "sze",
+    "endangeredlanguages": "4607"
+  },
+  "classification": {
+    "sub": "**hh:hv:Fleming:Mao:2007**",
+    "subrefs": "\n**hh:hv:Fleming:Mao:2007**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sezo (4607-sze) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

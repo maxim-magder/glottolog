@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "North Mofu",
+    "hid": "mfk",
+    "level": "language",
+    "iso639-3": "mfk",
+    "latitude": "10.6834",
+    "longitude": "14.1117",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56303\nhttps://en.wikipedia.org/wiki/North_Mofu_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:27648**\n**eballiso2009:50111**\n**eballiso2009:50187**\n**hh:e:Vincent:Mofu-Diamare**\n**hh:s:Abdou:Mofu-Nord**"
+  },
+  "altnames": {
+    "multitree": "\nDouvangar\nMofu\nMofu, North\nMofu-Douvangar\nMofu-Duvangar\nMofu-Nord\nMofu-North\nMuffo\nMuffu\nNorth Mofu",
+    "lexvo": "\nMofoueg an norzh [br]\nNorth Mofu [en]\nNorth Mofu language [en]\nSjeverni mofu jezik [hr]",
+    "hhbib_lgcode": "\nMofu-North"
+  },
+  "triggers": {
+    "lgcode": "\nnorth AND mofu"
+  },
+  "identifier": {
+    "multitree": "mfk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:53-55",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mofu, North (mfk-mfk) = 5* (Developing)."
+  }
+}

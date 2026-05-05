@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Rutul",
+    "hid": "rut",
+    "level": "language",
+    "iso639-3": "rut",
+    "latitude": "41.6187",
+    "longitude": "47.3244",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "RU"
+    ],
+    "links": "\n[Rutul](https://endangeredlanguages.com/lang/3046)\n[Rutul](https://grambank.clld.org/languages/rutu1240)\n[Rutul](https://wals.info/languoid/lect/wals_code_rut)\nhttps://en.wikipedia.org/wiki/Rutul_language\nhttps://phoible.org/languages/rutu1240\nhttps://www.wikidata.org/entity/Q36757"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4722**\n**cldf:berg:ed:99:5**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dzhejranishvili:67**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:kibrik:03**\n**cldf:kodzasov:90:2**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Alisultanov:Khnovskij**\n**hh:d:Alisultanov:Rutulsko**\n**hh:d:Ismailova:Rutulskij**\n**hh:g:Ibragimov:Rutulskij**\n**hh:g:Ibragimov:Rutulskij:2004**\n**hh:g:Ibragimova:Mjuxrekskij**\n**hh:he:Kosven:Kavkaza:I**\n**hh:hld:Dirr:Kaukasischen**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Alekseev:Rutul**\n**hh:s:Authier:Khnov**\n**hh:s:Dzeiranisvili:Rutulskogo**\n**hh:s:Dzejranisvili:Rutulskij**\n**hh:s:Islamov:Xnovskij**\n**hh:s:Maxmudova:Rutulskogo**\n**hh:typ:Maxmudova:Rutulskogo**\n**mpieva:Machmudova2001Morfolog**"
+  },
+  "altnames": {
+    "wals": "\nRutul",
+    "ruhlen (1987)": "\nRutul",
+    "moseley & asher (1994)": "\nRutul",
+    "multitree": "\nChal\nMukhad\nMykhanidy\nRoutoul\nRutal\nRutul\nRutultsy\nRutuly",
+    "lexvo": "\nJęzyk rutulski [pl]\nLíngua rutul [pt]\nRutul [en]\nRutul language [en]\nRutulin kieli [fi]\nRutulische Sprache [de]\nРутулски јазик [mk]\nРутульский язык [ru]\nРутульська мова [uk]",
+    "hhbib_lgcode": "\nKhnov\nKhnovskij\nMjuxrek\nMyukhrek\nRutul'tsy\nRutulische\nSouthern Rutul\nXnov\nXnovskij",
+    "elcat": "\nChal\nMukhad\nMykhanidy\nRutal\nRutul\nRutultsy\nRutuly\nmyxʼabišdy čʼel\nмыхӀабишды чӀел\nрутульский язык\nმუხუდური ენა\nრუთულური ენა"
+  },
+  "triggers": {
+    "lgcode": "\nrutul\nmuxadskogo\ndagestanskich\nosnovy\nrutulskogo\nrutulskij"
+  },
+  "identifier": {
+    "wals": "rut",
+    "multitree": "rut",
+    "endangeredlanguages": "3046"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Schulze:Caucasian-Albanian-Udi**",
+    "subrefs": "\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Rutul (3046-rut) = Vulnerable (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

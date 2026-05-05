@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Seget",
+    "hid": "sbg",
+    "level": "language",
+    "iso639-3": "sbg",
+    "latitude": "-1.36931",
+    "longitude": "131.218",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7446237\nhttps://en.wikipedia.org/wiki/Seget_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:el:Ekklesia:Moi-Seget-Kalabra**\n**hh:hlde:deClercq:WNNNG**\n**hh:hvld:BerryBerry:WPapuan**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Flassy:Toror**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nSeget",
+    "lexvo": "\nSeget [en]",
+    "hhbib_lgcode": "\nMosana\nSeget (Ac)\nWaliam typo for Walian\nWalian"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND phylum\nseget"
+  },
+  "identifier": {
+    "multitree": "sbg"
+  },
+  "classification": {
+    "sub": "**hh:hvld:BerryBerry:WPapuan**",
+    "subrefs": "\n**hh:hvld:BerryBerry:WPapuan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Moi Lemas (sbg-sbg) = 7 (Shifting)."
+  }
+}

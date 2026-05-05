@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Glavda",
+    "hid": "glw",
+    "level": "language",
+    "iso639-3": "glw",
+    "latitude": "11.1334",
+    "longitude": "13.8652",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Glavda](https://grambank.clld.org/languages/glav1244)\n[Gələvda](https://lexibank.clld.org/languages/kraftchadic-Glvda)\nhttps://en.wikipedia.org/wiki/Glavda_language\nhttps://phoible.org/languages/glav1244\nhttps://www.wikidata.org/entity/Q3441285"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4807**\n**eballiso2009:28220**\n**eballiso2009:28223**\n**hh:d:RappBenzing:Glavda**\n**hh:hw:Kraft:Chadic:III**\n**hh:hw:Wolff:Gwoza**\n**hh:s:BubaOwens:Glavda**\n**hh:s:Nghagyiya:Glavda**\n**hh:typ:Rapp:Glavda**\n**hh:w:Hamm:Glavda-Cineni**\n**hh:wsoc:Hamm:Glavda-Cineni:2024**"
+  },
+  "altnames": {
+    "multitree": "\nGalavda\nGalvaxdaxa\nGelebda\nGelvaxdaxa\nGlanda\nGlavda\nGuelebda\nVale",
+    "lexvo": "\nGlavda [en]\nGlavda language [en]",
+    "hhbib_lgcode": "\nBokwa\nGelevda Ngoshe\nGelevda Ngoshe (not Gvoko)"
+  },
+  "triggers": {
+    "lgcode": "\nglavda"
+  },
+  "identifier": {
+    "multitree": "glw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:51-53",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Glavda (glw-glw) = 6a* (Vigorous)."
+  }
+}

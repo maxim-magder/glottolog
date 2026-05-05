@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kibiri",
+    "hid": "prm",
+    "level": "language",
+    "iso639-3": "prm",
+    "latitude": "-7.45276",
+    "longitude": "144.296",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kibiri-Porome](https://endangeredlanguages.com/lang/10741)\nhttps://www.wikidata.org/entity/Q56745\nhttps://en.wikipedia.org/wiki/Porome_language"
+  },
+  "classification": {
+    "family": "The suggestion of a Kiwai affiliation is based on pronouns only\n**hh:hv:Ross:Pronouns**.",
+    "familyrefs": "\n**hh:hvld:Franklin:Isolates**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:franklin:68**\n**cldf:hammarstroem:17**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:np:15:2**\n**cldf:ross:05**\n**hh:e:Butcher:Porome**\n**hh:hv:Franklin:Gulf:1968**\n**hh:hv:Franklin:Other**\n**hh:hvld:Franklin:Isolates**\n**hh:hw:Franklin:Appendices**\n**hh:hw:Zgraggen:Gulf**\n**hh:ld:Velasquez:Kibiri**\n**hh:typ:Petterson:Porome**\n**hh:w:Petterson:Porome**"
+  },
+  "altnames": {
+    "multitree": "\nKibiri\nPolome\nPorome",
+    "lexvo": "\nKibiri [en]\nKibirieg [br]\nPorome language [en]",
+    "hhbib_lgcode": "\nPorome",
+    "elcat": "\nGibiri\nKibiri\nKibiri-Porome\nPolome\nPorome"
+  },
+  "triggers": {
+    "lgcode": "\nlived\nporome\navea\ndaporo"
+  },
+  "identifier": {
+    "multitree": "prm",
+    "endangeredlanguages": "10741"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kibiri-Porome (10741-prm) = Threatened (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

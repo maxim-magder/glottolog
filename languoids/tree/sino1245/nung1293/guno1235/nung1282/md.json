@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Nung (Myanmar)",
+    "hid": "nun",
+    "level": "language",
+    "iso639-3": "nun",
+    "latitude": "27.2887",
+    "longitude": "98.7333",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM"
+    ],
+    "links": "\n[Anong](https://endangeredlanguages.com/lang/4904)\n[Anong](https://wals.info/languoid/lect/wals_code_ano)\n[Nung (Myanmar)](https://grambank.clld.org/languages/nung1282)\nhttps://en.wikipedia.org/wiki/Nung_language_(Sino-Tibetan)\nhttps://www.wikidata.org/entity/Q2748232"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:hongkai:88**\n**cldf:lewis:ed:09**\n**cldf:nowak:ed:03:9**\n**cldf:np:nd:264**\n**cldf:sun:05:1**\n**cldf:thienthuat:96**\n**cldf:thurgood:06**\n**hh:d:Shintani:Khwingsang**\n**hh:ew:Peal:Dihing**\n**hh:g:Sun:Anong:2005**\n**hh:g:SunLiu:Anong**\n**hh:hv:Bradley:Mran-Ni**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hw:Davies:Yun-Nan**\n**hh:hws:YDBW:Yunnan**\n**hh:ld:Sun:Anong**\n**hh:s:Sun:Anong**\n**hh:s:Sun:Anong:2000**\n**hh:soc:Sun:Anong**\n**hh:typ:Thurgood:Hainan-Cham-Anong-ECham**\n**hh:typ:ThurgoodLi:Anong**\n**hh:w:Bufan:Zangmian**\n**iso6393:2010-019**\n**sil16:48368**"
+  },
+  "altnames": {
+    "wals": "\nAnong",
+    "ruhlen (1987)": "\nAnung",
+    "moseley & asher (1994)": "\nNung",
+    "multitree": "\nAnong\nAnong (Chine)\nAnong (Myanmar)\nAnoong\nAnu\nAnung\nAnung (Myanmar)\nAñú\nFuch'ye\nKhanung\nKhupang\nKiutze\nKuhpang\nKwingsang\nKwinp'ang\nLu\nLutze\nLutzu\nNu\nNu-tzŭ\nNung",
+    "lexvo": "\nAnung language [en]\nNung (Myanmar) [en]\nNung [en]\n阿侬语 [zh]",
+    "hhbib_lgcode": "\nAnong\nAnong Nu\nAnung\nKhanung\nKhwingsang\nKunung\nLu-tzu from Desgodin\nNung",
+    "elcat": "\nAnong\nAnoong\nAnu\nAnung\nAñú\nFuch'ye\nKhanung\nKhupang\nKiutze\nKuhpang\nKwingsang\nKwinp'ang\nLu\nLutze\nLutzu\nNu\nNu-tzŭ\nရဝမ်\n阿儂語"
+  },
+  "triggers": {
+    "lgcode": "\ndihing\nanong\npani\nsociolinguistics AND anong\ndapha"
+  },
+  "identifier": {
+    "wals": "ano",
+    "multitree": "nun",
+    "endangeredlanguages": "4904"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matisoff:Jingpho**:3-6 **hh:hv:Bradley:Tibeto-Burman:1997**:32-35 **hh:hv:Bradley:Tibeto-Burman**:93-94",
+    "subrefs": "\n**hh:hv:Matisoff:Jingpho**\n**hh:hv:Bradley:Tibeto-Burman:1997**\n**hh:hv:Bradley:Tibeto-Burman**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Anong (4904-nun) = Critically Endangered (100 percent certain, based on the evidence available) [Sun and Liu 2009](cldf:sun:liu:09)"
+  }
+}

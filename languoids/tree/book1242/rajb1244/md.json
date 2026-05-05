@@ -1,0 +1,22 @@
+{
+  "core": {
+    "name": "Rajbanshi (Retired)",
+    "level": "language",
+    "iso639-3": "rjb",
+    "hid": "rjb",
+    "links": "\nhttps://en.wikipedia.org/wiki/Rajbanshi_language_(Nepal)\nhttps://www.wikidata.org/entity/Q12640969"
+  },
+  "iso_retirement": {
+    "comment": "What has formerly been listed as Rajbanshi_rjb in Nepal, India and Bangladesh\ncan more accurately be represented by using 3 different names and 2 different\niso codes. Survey revealed 62-69% intelligibility of Nepal Rajbanshi by speakers\nof Rajbanshi in West Bengal, India. What is spoken in India is intelligible with\nthe variety in Bangladesh and can share an iso code but it is proposed to give\nthem separate main names.",
+    "code": "rjb",
+    "name": "Rajbanshi",
+    "effective": "2008-01-14",
+    "reason": "split",
+    "remedy": "Split into Kamta (India) / Rangpuri (Bangladesh) [rkt] and Rajbanshi (Nepal) [rjs]",
+    "change_request": "2007-008",
+    "change_to": "\nrkt\nrjs"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-008**"
+  }
+}

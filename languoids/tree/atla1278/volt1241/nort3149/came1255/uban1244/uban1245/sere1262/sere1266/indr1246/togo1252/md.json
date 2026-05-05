@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Togoyo",
+    "hid": "tgy",
+    "level": "language",
+    "iso639-3": "tgy",
+    "latitude": "8.6629",
+    "longitude": "25.9756",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36825\nhttps://en.wikipedia.org/wiki/Togoyo_language",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Santandrea:Feroge-Mangaya-Togoyo**\n**hh:e:Santandrea:Indrietal**\n**hh:h:Santandrea:Ghazal**\n**hh:hel:Sommer:Survey**\n**hh:hvw:Santandrea:Indri-Togoyo-Ndogo-Feroge-Mangaya-Mondu**\n**hh:s:Santandrea:Feroge-Mundu**"
+  },
+  "altnames": {
+    "multitree": "\nTogoy\nTogoyo",
+    "lexvo": "\nTogoyo [en]"
+  },
+  "triggers": {
+    "lgcode": "\nindri"
+  },
+  "identifier": {
+    "multitree": "tgy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bennett:Adamawa-Eastern**:25-27 **hh:h:BoydPasch:Sere-Ngbaka-Mba**:51-52",
+    "subrefs": "\n**hh:hv:Bennett:Adamawa-Eastern**\n**hh:h:BoydPasch:Sere-Ngbaka-Mba**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Togoyo (1738-tgy) = Extinct"
+  }
+}

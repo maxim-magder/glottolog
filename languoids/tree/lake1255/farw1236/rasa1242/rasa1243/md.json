@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Rasawa",
+    "hid": "rac",
+    "level": "language",
+    "iso639-3": "rac",
+    "latitude": "-2.37609",
+    "longitude": "136.352",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Rasawa](https://endangeredlanguages.com/lang/5324)\n[Rasawa](https://lexibank.clld.org/languages/transnewguineaorg-rasawa)\nhttps://en.wikipedia.org/wiki/Rasawa_language\nhttps://www.wikidata.org/entity/Q56443"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Jones:ECenderawasih**\n**hh:hvw:Clouse:Lakes-Plain**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nRasawa",
+    "lexvo": "\nRasawa [en]",
+    "elcat": "\nRasawa"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND cenderawasih"
+  },
+  "identifier": {
+    "multitree": "rac",
+    "endangeredlanguages": "5324"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Rasawa (5324-rac) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

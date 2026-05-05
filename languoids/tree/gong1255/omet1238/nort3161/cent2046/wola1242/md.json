@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Wolaytta",
+    "hid": "wal",
+    "level": "language",
+    "iso639-3": "wal",
+    "latitude": "6.32668",
+    "longitude": "37.7537",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Wolaytta](https://grambank.clld.org/languages/wola1242)\n[Wolaytta](https://wals.info/languoid/lect/wals_code_wly)\nhttps://en.wikipedia.org/wiki/Wolaytta_language\nhttps://phoible.org/languages/wola1242\nhttps://www.wikidata.org/entity/Q36943"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:amha:96**\n**cldf:azeb:01**\n**cldf:hayward:01**\n**cldf:hayward:ed:90:2**\n**cldf:tsunoda:ed:01:3**\n**eballiso2009:15167**\n**eballiso2009:15971**\n**eballiso2009:17611**\n**eballiso2009:17635**\n**eballiso2009:1922**\n**eballiso2009:20260**\n**eballiso2009:2057**\n**eballiso2009:23351**\n**eballiso2009:24445**\n**eballiso2009:26116**\n**eballiso2009:26128**\n**eballiso2009:26130**\n**eballiso2009:26439**\n**eballiso2009:30944**\n**eballiso2009:30947**\n**eballiso2009:30949**\n**eballiso2009:30950**\n**eballiso2009:31589**\n**eballiso2009:31609**\n**eballiso2009:32794**\n**eballiso2009:32797**\n**eballiso2009:35268**\n**eballiso2009:36500**\n**eballiso2009:39054**\n**eballiso2009:42204**\n**eballiso2009:43635**\n**eballiso2009:44983**\n**eballiso2009:46467**\n**eballiso2009:56843**\n**eballiso2009:59775**\n**eballiso2009:7497**\n**eballiso2009:8811**\n**hh:e:Abbink:Zala**\n**hh:e:Straube:Borodda**\n**hh:e:Straube:Otschollo**\n**hh:g:Adams:Wolaitta**\n**hh:g:LambertiSottile:Wolaytta**\n**hh:g:Wakasa:Wolaytta**\n**hh:g:Wakasa:Wolaytta:2020**\n**hh:hs:Cerulli:Sidama**\n**hh:hv:Leslau:Ethiopia**\n**hh:ld:Amha:Walaytta**\n**hh:s:OhmanFulass:Welamo**\n**hh:s:Wakasa:Wolaytta**\n**hh:s:Wakasa:Wolaytta:2023**\n**hh:s:daLuchon:Uallamo**\n**hh:sd:Chiomio:Wollamo**\n**hh:sd:SanVito:Uolamo**\n**hh:typ:Bekale:Wolayta**\n**hh:typ:Dalke:Wolayta**\n**hh:v:Girard:Ometo**\n**hh:w:Wakasa:Wolaita**\n**hh:w:daTrento:Etiopia**\n**iso6393:2025-031**\n**sil16:10069**\n**sil16:41938**\n**sil16:42894**"
+  },
+  "altnames": {
+    "wals": "\nWolaytta",
+    "ruhlen (1987)": "\nWolaitta",
+    "moseley & asher (1994)": "\nOmeto",
+    "multitree": "\nBorodda\nGemu\nGofa\nMalo\nOmeto\nUalamo\nUba\nUollamo\nWalamo\nWallamo\nWelaitta\nWelamo\nWellamo\nWolaita\nWolaitta\nWolamo\nWolataita\nWolayta\nWolaytta\nWollamo\nZala",
+    "lexvo": "\nIdioma welayta [es]\nWalamo [en]\nWolaiteg [br]\nWolaitta [en]\nWolaytta [de]\nWolaytta language [en]\nwalamo [fr]\nወላይትኛ [am]",
+    "hhbib_lgcode": "\nBorodda\nOtschollo\nUolamo\nUollamo\nWolamo\nZala"
+  },
+  "triggers": {
+    "lgcode": "\nwelamo\nborodda\nphonostatistical\nwolaytta\nwolaita\nsurvey AND ometo\notschollo\nuallamo\nwolaitta\nwolaamo\nuollamo"
+  },
+  "identifier": {
+    "wals": "wly",
+    "multitree": "wal"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wolaytta (wal-wal) = 3 (Wider communication). Native to Ethiopia; has gained influence since Italy’s invasion in 1895. Used in different places in Ethiopia, though at present is not a lingua franca. Used in radio programs, written materials, trade, and agriculture activities."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Krahô",
+    "hid": "xra",
+    "level": "dialect",
+    "iso639-3": "xra",
+    "latitude": "-8.01172",
+    "longitude": "-47.5774",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Krahô](https://endangeredlanguages.com/lang/3087)\nhttps://en.wikipedia.org/wiki/Krah%C3%B4_dialect\nhttps://phoible.org/languages/krah1246\n[Krahô](https://wals.info/languoid/lect/wals_code_krh)\nhttps://www.wikidata.org/entity/Q3199549"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:quain:52**\n**cldf:shell:52**\n**fabreall2009ann:Je_timbira_oriental006**\n**fabreall2009ann:Je_timbira_oriental022**\n**fabreall2009ann:Je_timbira_oriental035**\n**fabreall2009ann:Je_timbira_oriental036**\n**fabreall2009ann:Je_timbira_oriental037**\n**fabreall2009ann:Je_timbira_oriental038**\n**fabreall2009ann:Je_timbira_oriental039**\n**fabreall2009ann:Je_timbira_oriental041**\n**fabreall2009ann:Je_timbira_oriental042**\n**fabreall2009ann:Je_timbira_oriental043**\n**fabreall2009ann:Je_timbira_oriental044**\n**fabreall2009ann:Je_timbira_oriental050**\n**fabreall2009ann:Je_timbira_oriental104**\n**fabreall2009ann:Je_timbira_oriental105**\n**fabreall2009ann:Je_timbira_oriental118**\n**sil16:12304**"
+  },
+  "altnames": {
+    "glottolog": "\nKraho",
+    "wals": "\nKrahô",
+    "wals other": "\nCraho",
+    "multitree": "\nCanela\nCanela-Krahô\nCraô\nGavião du Pará\nGavião pukobiê\nKanela\nKrahó\nKrahô\nKraô\nKrenjé\nKrenjê\nKreye\nKrikati\nPukobyé\nPukobyê\nTimbira",
+    "lexvo": "\nKrahô [en]",
+    "elcat": "\nKrahô"
+  },
+  "triggers": {
+    "lgcode": "\ngrammtical\nkraho\nquain"
+  },
+  "identifier": {
+    "wals": "ckr;krh",
+    "multitree": "xra",
+    "endangeredlanguages": "3087"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Krahô [xra] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate Eastern Timbira language, but the language spoken by the Krahô is intelligible with that of the Canela [ram] entry (**hh:typ:Miranda:Kraho**:12, **hh:s:PopjesPopjes:Canela-Kraho**, **hh:e:Nimuendaju:Timbira**:26). See also: Canela-Krahô [ram].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xra"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Krahô (3087-xra) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Minangkabau",
+    "hid": "min",
+    "level": "language",
+    "iso639-3": "min",
+    "latitude": "-0.896",
+    "longitude": "100.44",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Minangkabau](https://grambank.clld.org/languages/mina1268)\n[Minangkabau](https://wals.info/languoid/lect/wals_code_min)\nhttps://en.wikipedia.org/wiki/Minangkabau_language\nhttps://phoible.org/languages/mina1268\nhttps://www.wikidata.org/entity/Q13324"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:95:3**\n**cldf:bachtiar:67**\n**cldf:josselindejong:52**\n**cldf:loeb:34**\n**cldf:moussay:81**\n**cldf:nowak:ed:03:8**\n**cldf:vandertoorn:91**\n**cldf:wilkinson:59**\n**cldf:willinck:15**\n**hh:b:Kratz:SEAsian**\n**hh:d:Adnan:Minangkabau**\n**hh:d:Kalipke:Sakai**\n**hh:d:Moussay:Minangkabau**\n**hh:d:Pamoentjak:Minangkabau**\n**hh:d:Rusmali:Minangkabau**\n**hh:dial:Medan:Minangkabau**\n**hh:dial:Nadra:Minangkabau**\n**hh:g:Moussay:Minangkabau**\n**hh:g:Reidbaud:Minangkabau**\n**hh:g:vanderToorn:Minangkabausche**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hv:Adelungetal:Mithridates:1**\n**hh:hvw:Adelaar:Melayik-Purba**\n**hh:hvw:Adelaar:Proto-Malayic**\n**hh:hvw:Anderbeck:Batanghari**\n**hh:phon:Nio:Minangkabau**\n**hh:s:Abdullah:Jamee**\n**hh:s:Abdullahetal:Jamee**\n**hh:s:Aliana:Muko-Muko**\n**hh:s:Ayub:Minangkabau**\n**hh:s:Crouch:Minangkabau**\n**hh:s:Mananetal:Muko-Muko**\n**hh:s:Medan:Minangkabau-Kubuang**\n**hh:s:Nikelas:Minangkabau**\n**hh:s:Roesli:Minangkabau**\n**hh:s:Suhartono:Muko-Muko**\n**hh:s:Yusuf:Jamee**\n**hh:s:Zainil:Minangkabau**\n**hh:s:Zarbaliev:Minangkabau**\n**hh:s:Zulnasri:Minangkabau-Kampar**\n**hh:soc:Anwar:Minangkabau**\n**hh:typ:Halim:Minangkabau**\n**hh:typ:Marnita:Minangkabau**\n**hh:w:Anwar:Minangkabau**\n**hh:w:Stokhof:Holle:Central-Sumatra**\n**iso6393:2007-181**\n**mpieva:2001Issuesin**\n**mpieva:Reibaud2004ParlonsM**"
+  },
+  "altnames": {
+    "wals": "\nMinangkabau",
+    "ruhlen (1987)": "\nMinangkabau",
+    "moseley & asher (1994)": "\nMinangkabau",
+    "multitree": "\nMinang\nMinangkabau\nPadang",
+    "lexvo": "\nBahasa Minangkabau [id]\nBasa Minangkabau [jv]\nLenga Minangkabau [pms]\nLengua minangkabau [lij]\nMinangkabau [en]\nMinangkabau language [en]\nMinangkabauera [eu]\nMinangkabaun kieli [fi]\nMinangkabaus [nl]\nMinankabaŭa lingvo [eo]\nTiếng Minangkabau [vi]\nminangkabau [fr]\nМинангкабау [ru]\nমিনাংকাবাউ ভাষা [bn]\nภาษามินังกาเบา [th]\nミナンカバウ語 [ja]",
+    "hhbib_lgcode": "\nJamee\nKampar Minangkabau\nMeningcabo\nMinangkabau NBG 1904\nMinangkabau NBG 1912\nMinangkabaus\nMokko-Mokko\nMudih\nMuko-Muko\nSakai\nSakai in Sumatra\nTigo Baleh Minangkabau"
+  },
+  "triggers": {
+    "lgcode": "\njamee\nNOT and AND minangkabau\nfocusschrift\nistilah\nminangkabausche"
+  },
+  "identifier": {
+    "wals": "min",
+    "multitree": "min"
+  },
+  "classification": {
+    "sub": "**hh:hvw:McDowell:Southern-Sumatra**",
+    "subrefs": "\n**hh:hvw:McDowell:Southern-Sumatra**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Minangkabau (min-min) = 6b (Threatened)."
+  }
+}

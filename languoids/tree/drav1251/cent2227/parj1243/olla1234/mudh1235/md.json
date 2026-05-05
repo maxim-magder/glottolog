@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mudhili Gadaba",
+    "hid": "gau",
+    "level": "language",
+    "iso639-3": "gau",
+    "latitude": "18.276",
+    "longitude": "83.378",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Mudhili Gadaba](https://endangeredlanguages.com/lang/4188)\nhttps://en.wikipedia.org/wiki/Kondekor_language\nhttps://phoible.org/languages/mudh1235\nhttps://www.wikidata.org/entity/Q12952433"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bhaskarao:98**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Bhaskarao:Kondekor:1973**\n**hh:g:Bhaskarao:Konekor**\n**hh:s:Bhaskararao:Gadaba**\n**hh:s:Bhaskararao:Gadaba:2020**\n**hh:typ:Bhaskararao:Gadaba**\n**hh:typ:BurrowBhattachrarya:Gadaba**\n**hh:w:BurrowBhattacharya:Gadba**\n**hh:wsoc:Adimathara:Mudhili-Gadaba**"
+  },
+  "altnames": {
+    "multitree": "\nGadaba\nGadaba, Mudhili\nGol Gadaba\nKondekar\nKondkor\nSalur\nSalur Gadba\nSalur Ollar Gadaba",
+    "lexvo": "\nMudhili Gadaba [en]",
+    "hhbib_lgcode": "\nGadaba\nGadaba-Mudhili\nKonekor\nSalur Gadba",
+    "elcat": "\nGadaba\nGol Gadaba\nKondekar\nKondekor\nKondekor Gadaba\nKondkor\nMudhili\nMudhili Gadaba\nSalur\nSalur Gadba\nSalur Ollar Gadaba"
+  },
+  "triggers": {
+    "lgcode": "\nNOT the AND gadaba"
+  },
+  "identifier": {
+    "multitree": "gau",
+    "endangeredlanguages": "4188"
+  },
+  "classification": {
+    "sub": "**hh:s:Bhaskararao:Gadaba**:356-357",
+    "subrefs": "\n**hh:s:Bhaskararao:Gadaba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mudhili Gadaba (4188-gau) = Threatened (40 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

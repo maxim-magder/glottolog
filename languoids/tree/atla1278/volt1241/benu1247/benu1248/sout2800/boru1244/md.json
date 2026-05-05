@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bo-Rukul",
+    "hid": "mae",
+    "level": "language",
+    "iso639-3": "mae",
+    "latitude": "8.9352",
+    "longitude": "8.90506",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34967\nhttps://en.wikipedia.org/wiki/Barkul_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:34768**\n**eballiso2009:36958**\n**hh:he:SIL:Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:w:Armstrong:West-African**\n**hh:w:Blench:Rukul**\n**hh:w:Nettle:Fyem**"
+  },
+  "altnames": {
+    "multitree": "\n\"Kaleri\"\nBo-Rukul\nKaleri\nMabo-Barkul\nMabo-Barukul",
+    "lexvo": "\nBo-Rukul [en]",
+    "hhbib_lgcode": "\nMabo\nMabo-Barkul"
+  },
+  "triggers": {
+    "lgcode": "\nbarukul\nrukul"
+  },
+  "identifier": {
+    "multitree": "mae"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2009**",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2009**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Rukul (486-mae-ruk) = Endangered (40 percent certain, based on the evidence available)"
+  }
+}

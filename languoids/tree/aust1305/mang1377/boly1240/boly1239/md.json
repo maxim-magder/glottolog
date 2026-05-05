@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bolyu",
+    "hid": "ply",
+    "level": "language",
+    "iso639-3": "ply",
+    "latitude": "24.7013",
+    "longitude": "104.955",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Bolyu](https://endangeredlanguages.com/lang/1237)\n[Bolyu](https://grambank.clld.org/languages/boly1239)\nhttps://en.wikipedia.org/wiki/Bolyu_language\nhttps://www.wikidata.org/entity/Q3361723"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:li:06:2**\n**cldf:li:99:2**\n**cldf:np:nd:264**\n**hh:g:Li:Lai**\n**hh:hld:EdmondsonJinfang:Corridor**\n**hh:hvs:Li:Southwest-China**\n**hh:hvw:Hsiu:Pakanic**\n**hh:hvwtyp:YanZhou:Mon-Khmer**\n**hh:ld:Min:Lai**\n**hh:s:Liang:Lai**\n**hh:v:Benedict:Lai**\n**hh:v:Sidwell:Bolyu**\n**hh:w:Edmondson:Bolyu**\n**sil16:37474**"
+  },
+  "altnames": {
+    "multitree": "\nBolyu\nLai\nPaliu\nPalju\nPalyu\nPolyu",
+    "lexvo": "\nBolyu [en]",
+    "hhbib_lgcode": "\nChinese Lai in Guangxi\nLai",
+    "elcat": "\nBolyu\nLai\nPalju\nPalyu\nPolyu\n倈語"
+  },
+  "triggers": {
+    "lgcode": "\nlaiyu\nbolyu"
+  },
+  "identifier": {
+    "multitree": "ply",
+    "endangeredlanguages": "1237"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hsiu:Pakanic** **hh:hv:Sidwell:Austroasiatic:2015**:194",
+    "subrefs": "\n**hh:hvw:Hsiu:Pakanic**\n**hh:hv:Sidwell:Austroasiatic:2015**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Bolyu (1237-ply) = Severely Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

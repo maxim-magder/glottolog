@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sepik Iwam",
+    "hid": "iws",
+    "level": "language",
+    "iso639-3": "iws",
+    "latitude": "-4.30928",
+    "longitude": "142.117",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sepik Iwam](https://endangeredlanguages.com/lang/10581)\nhttps://en.wikipedia.org/wiki/Sepik_Iwam_language\nhttps://www.wikidata.org/entity/Q16893603"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Jorgensen:May-Sepik-Iwam**\n**hh:e:Rehburg:Sepik-Iwam**\n**hh:hvld:Rehburgetal:Iwam**\n**hh:phon:LaszloRehburg:Sepik-Iwam**\n**hh:typ:Conrad:Sepik-Iwam**\n**hh:w:Laycock:D1**\n**hh:w:Newton:Sepik**\n**sil16:15524**\n**sil16:17694**\n**sil16:17695**\n**sil16:17696**\n**sil16:17697**\n**sil16:17698**\n**sil16:19554**\n**sil16:19574**\n**sil16:23103**\n**sil16:23104**\n**sil16:40061**\n**sil16:50982**\n**sil16:50984**\n**sil16:51002**\n**sil16:51231**"
+  },
+  "altnames": {
+    "multitree": "\nIwam, Sepik\nSepik Iwam\nYawenian",
+    "lexvo": "\nSepik Iwam [en]",
+    "hhbib_lgcode": "\nIwam Hauna\nSepik Iwam at Yaueniam\nYawen by Conrad (Hauna)",
+    "elcat": "\nSepik Iwam\nYawenian"
+  },
+  "triggers": {
+    "lgcode": "\nwank\nNOT pp AND iwam\nsubga\nipiy\nwhwo\nneewi\noum"
+  },
+  "identifier": {
+    "multitree": "iws",
+    "endangeredlanguages": "10581"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik:2013**",
+    "subrefs": "\n**hh:hv:Foley:Sepik:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sepik Iwam (10581-iws) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

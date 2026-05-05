@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Huehuetla Tepehua",
+    "hid": "tee",
+    "level": "language",
+    "iso639-3": "tee",
+    "latitude": "20.6189",
+    "longitude": "-97.9347",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Huehuetla Tepehua](https://endangeredlanguages.com/lang/5099)\n[Tepehua (Huehuetla)](https://wals.info/languoid/lect/wals_code_tee)\nhttps://en.wikipedia.org/wiki/Huehuetla_Tepehua\nhttps://phoible.org/languages/hueh1236\nhttps://www.wikidata.org/entity/Q56455"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Garcia:Tepehua**\n**hh:g:Kung:Huehuetla**\n**hh:hv:MacKayTrechsel:Totonac-Tepehua:2018**\n**hh:ld:Cowan:Silbado**\n**hh:phon:Williams:Tepehua**\n**hh:phon:Williams:Tepehua:1951**\n**hh:s:BowerErickson:Tepehua**\n**hh:s:Kryder:Tepehua**\n**hh:soc:Neri:Mecapalapa**\n**hh:typ:Herzog:Tepehua-Verb**\n**hh:w:Leon:Tepehua-Huehuetla**\n**ldh:item_405817**\n**sil16:10296**\n**sil16:10297**\n**sil16:10298**\n**sil16:10467**\n**sil16:15535**\n**sil16:15536**\n**sil16:18672**\n**sil16:18673**\n**sil16:46194**\n**sil16:48021**\n**sil16:48022**\n**sil16:49458**\n**sil16:50331**"
+  },
+  "altnames": {
+    "wals": "\nTepehua",
+    "ruhlen (1987)": "\nTepewa",
+    "moseley & asher (1994)": "\nTepehua",
+    "multitree": "\nHuehuetla Mecapalapa Tepewa\nTepehua\nTepehua de Hidalgo\nTepehua de Huehuetla\nTepehua de Pisaflores\nTepehua de Tlachichilco\nTepehua, Huehuetla\nTepehuano de Huehuetla\nTepehuano de Pisa Flores\nTepehuano de Tlachichilco\nTepewa",
+    "lexvo": "\nHuehuetla Tepehua [en]",
+    "hhbib_lgcode": "\nHuehuetla\nMecapalapa\nMecapalapa and Huehuetla\nTepehua-Huehuetla",
+    "elcat": "\nHuehuetla\nHuehuetla Tepehua\nTepehua\nTepehua de Hidalgo\nTepehua de Huehuetla\nTepewa"
+  },
+  "triggers": {
+    "lgcode": "\ntepehuas\nlaunching\nmistu\ncalaktsiu\ntajin\nxacuento\nNOT en AND NOT phonology AND tepehua"
+  },
+  "identifier": {
+    "wals": "tee",
+    "multitree": "tpt;tee;tpp",
+    "endangeredlanguages": "5099"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Huehuetla Tepehua (5099-tee) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

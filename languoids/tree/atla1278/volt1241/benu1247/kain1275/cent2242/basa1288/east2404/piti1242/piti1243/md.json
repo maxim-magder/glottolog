@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Piti",
+    "hid": "pcn",
+    "level": "language",
+    "iso639-3": "pcn",
+    "latitude": "10.1361",
+    "longitude": "8.47037",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Piti](https://endangeredlanguages.com/lang/5030)\nhttps://www.wikidata.org/entity/Q3913375\nhttps://en.wikipedia.org/wiki/Piti_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:h:Temple:NNigeria**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hew:Meek:Tribal:II**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:v:Lang:Juba-Arabic-Kinubi**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nAbisi\nBisi\nPiti\nPitti",
+    "lexvo": "\nPiti [en]",
+    "hhbib_lgcode": "\nKinubi\nPitti\nRibam",
+    "elcat": "\nAbisi\nBisi\nPiti\nPitti"
+  },
+  "identifier": {
+    "multitree": "pcn",
+    "endangeredlanguages": "5030"
+  },
+  "classification": {
+    "sub": "**hh:h:Blench:East-Kainji**",
+    "subrefs": "\n**hh:h:Blench:East-Kainji**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Piti (5030-pcn) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

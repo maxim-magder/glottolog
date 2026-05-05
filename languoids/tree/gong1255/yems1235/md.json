@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yemsa",
+    "hid": "jnj",
+    "level": "language",
+    "iso639-3": "jnj",
+    "latitude": "7.79821",
+    "longitude": "37.4412",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Yem](https://endangeredlanguages.com/lang/2702)\n[Yemsa](https://grambank.clld.org/languages/yems1235)\n[Yemsa](https://wals.info/languoid/lect/wals_code_yms)\nhttps://en.wikipedia.org/wiki/Yem_language\nhttps://phoible.org/languages/yems1235\nhttps://www.wikidata.org/entity/Q36873"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aklilu:93**\n**cldf:aklilu:siebert:etal:02**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:griefenow:voigt:ed:96:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**eballiso2009:13664**\n**eballiso2009:13665**\n**eballiso2009:15866**\n**eballiso2009:17152**\n**eballiso2009:22942**\n**eballiso2009:24642**\n**eballiso2009:24643**\n**eballiso2009:24648**\n**eballiso2009:29330**\n**eballiso2009:31556**\n**eballiso2009:31849**\n**eballiso2009:31850**\n**eballiso2009:41220**\n**eballiso2009:54438**\n**eballiso2009:54441**\n**eballiso2009:55779**\n**eballiso2009:7600**\n**hh:e:Amborn:Yam**\n**hh:e:Milkyas:Yem**\n**hh:e:Straube:Djandjero**\n**hh:g:Lamberti:Yemsa**\n**hh:g:Zaugg-Coretti:Yemsa**\n**hh:hv:Leslau:Ethiopia**\n**hh:hvw:Bender:Ethiopia**\n**hh:ld:Lamberti:Yam**\n**hh:phon:Garoma:Yem**\n**hh:phon:Wedekind:Yemsa**\n**hh:s:Schaumberger:Yemsa**\n**hh:s:Teshome:Yem**\n**hh:s:Zaugg-Coretti:Yemsa**\n**hh:typ:Hirut:Yam**\n**hh:typ:Hirut:Yam:1993**\n**hh:typ:Kossie:Yamsa**\n**hh:typ:Zaugg:Yemsa**\n**hh:w:Abbadie:Kam**\n**hh:w:dAbbadie:Yamma**\n**sil16:20145**\n**sil16:42878**\n**sil16:42879**\n**sil16:44317**\n**sil16:45008**"
+  },
+  "altnames": {
+    "wals": "\nYemsa",
+    "ruhlen (1987)": "\nYemsa",
+    "moseley & asher (1994)": "\nJanjero",
+    "multitree": "\n\"Janjerinya\"\n\"Janjero\"\n\"Janjor\"\n\"Yangaro\"\n\"Zinjero\"\nJanjero\nYem\nYemma\nYemsa",
+    "lexvo": "\nYemsa [en]\nYemsa language [en]",
+    "hhbib_lgcode": "\nJanjero\nYam\nYamma\nYem\nYäm",
+    "elcat": "\nJanjerinya\nJanjero\nJanjor\nYangaro\nYem\nYemma\nYemsa\nZinjero"
+  },
+  "triggers": {
+    "lgcode": "\nyamsa\nyemsani\nyemma\ndjandjero\nyemsa"
+  },
+  "identifier": {
+    "wals": "yms",
+    "multitree": "jnj",
+    "endangeredlanguages": "2702"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bender:Omotic**",
+    "subrefs": "\n**hh:hv:Bender:Omotic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yem (2702-jnj) = Threatened (60 percent certain, based on the evidence available) (Their children speak it less and less.) [Aklilu 1993](cldf:aklilu:93)"
+  }
+}

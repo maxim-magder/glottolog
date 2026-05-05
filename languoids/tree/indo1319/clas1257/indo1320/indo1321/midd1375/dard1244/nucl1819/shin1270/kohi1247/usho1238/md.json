@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ushojo",
+    "hid": "ush",
+    "level": "language",
+    "iso639-3": "ush",
+    "latitude": "35.1584",
+    "longitude": "72.643",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\n[Ushojo](https://endangeredlanguages.com/lang/3410)\nhttps://en.wikipedia.org/wiki/Ushoji_language\nhttps://www.wikidata.org/entity/Q3540446"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:soc:Hussain:Ushojo**\n**hh:wsoc:Decker:Ushojo**\n**sil16:32836**"
+  },
+  "altnames": {
+    "multitree": "\nDardu\nUshojo\nUshuji\nUsoyo",
+    "lexvo": "\nUshojo [en]",
+    "elcat": "\nDardu\nUshojo\nUshuji"
+  },
+  "triggers": {
+    "lgcode": "\nushojo"
+  },
+  "identifier": {
+    "multitree": "ush",
+    "endangeredlanguages": "3410"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ushojo (3410-ush) = Threatened (20 percent certain, based on the evidence available) (J. Baart (2003) suspects that the language is under great pressure and is moribund.) [Rahman 2006](cldf:rahman:06)"
+  }
+}

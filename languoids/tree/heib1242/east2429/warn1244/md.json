@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Warnang",
+    "hid": "wrn",
+    "level": "language",
+    "iso639-3": "wrn",
+    "latitude": "10.594",
+    "longitude": "31.1574",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Warnang](https://endangeredlanguages.com/lang/3310)\nhttps://www.wikidata.org/entity/Q36971\nhttps://en.wikipedia.org/wiki/Werni_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4643**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:schadeberg:81:2**\n**eballiso2009:26324**\n**hh:hvw:Schadeberg:Heiban**"
+  },
+  "altnames": {
+    "multitree": "\nWarnang\nWarnango\nWerni",
+    "lexvo": "\nWarnang [en]",
+    "elcat": "\nWarnang\nWerni"
+  },
+  "triggers": {
+    "lgcode": "\nheiban AND kordofanian"
+  },
+  "identifier": {
+    "multitree": "wrn",
+    "endangeredlanguages": "3310"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schadeberg:Heiban**",
+    "subrefs": "\n**hh:hvw:Schadeberg:Heiban**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Warnang (3310-wrn) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

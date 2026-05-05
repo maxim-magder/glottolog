@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Pawaia",
+    "hid": "pwa",
+    "level": "language",
+    "iso639-3": "pwa",
+    "latitude": "-6.88021",
+    "longitude": "145.081",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Pawaia](https://endangeredlanguages.com/lang/10740)\n[Pawaia](https://grambank.clld.org/languages/pawa1255)\n[Pawaia](https://lexibank.clld.org/languages/transnewguineaorg-pawaia)\n[Pawaian](https://wals.info/languoid/lect/wals_code_paw)\nhttps://en.wikipedia.org/wiki/Pawaia_language\nhttps://www.wikidata.org/entity/Q7156099"
+  },
+  "classification": {
+    "family": "Despite vocabulary cognacy of 5% or so, Pawaia was included in Trans-New-Guinea because of pronoun resemblances to Kuman and on typological  similarities. The typological similarities involve function only **hh:s:Trefry:KumanPawaian**, and thus count for nothing. The pronoun resemblances do not generalize to the Chimbu family **hh:hv:Foley:Papuan**:69-71 and match only an _n_ anyway, so they are better accounted for as accidental similarities than deep relationship.",
+    "familyrefs": "\n**hh:s:Trefry:KumanPawaian**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:np:15:2**\n**cldf:trefry:72**\n**hh:hld:Lean:11**\n**hh:hv:Franklin:Gulf:1968**\n**hh:hvld:MacDonald:Teberan**\n**hh:hvld:Wurm:ECTNG**\n**hh:hw:Franklin:Appendices**\n**hh:hw:Zgraggen:Gulf**\n**hh:s:Trefry:KumanPawaian**\n**hh:s:Trefry:KumanPawaian:1965**\n**hh:w:Brown:Aurama**\n**hh:w:Murray:Huaruha**"
+  },
+  "altnames": {
+    "wals": "\nPawaian",
+    "wals other": "\nOyobe dialect\nPawaian",
+    "ruhlen (1987)": "\nPawaian",
+    "moseley & asher (1994)": "\nPawaian",
+    "multitree": "\nAurama\nPavaia\nPawaia\nPawaian\nSira\nTudahwe\nYasa",
+    "lexvo": "\nPawaia [en]",
+    "hhbib_lgcode": "\nAurama\nHuaruha\nPawaian\nUraru Pawaia",
+    "elcat": "\nAurama\nPavaia\nPawaia\nPawaian\nSira\nTudahwe\nYasa"
+  },
+  "triggers": {
+    "lgcode": "\npawaia"
+  },
+  "identifier": {
+    "wals": "genus/pawaian",
+    "multitree": "pawa;pwa",
+    "endangeredlanguages": "10740"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Pawaia (10740-pwa) = Threatened (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

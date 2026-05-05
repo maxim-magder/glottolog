@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Nar Phu",
+    "hid": "npa",
+    "level": "language",
+    "iso639-3": "npa",
+    "latitude": "28.76714",
+    "longitude": "84.22852",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Nar Phu](https://endangeredlanguages.com/lang/2034)\nhttps://www.wikidata.org/entity/Q4926353\nhttps://en.wikipedia.org/wiki/Nar_Phu_language\nhttps://phoible.org/languages/narp1239\n[Nar-Phu](https://wals.info/languoid/lect/wals_code_nph)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hildebrandt:10**\n**cldf:hildebrandt:66:1**\n**cldf:hildebrandt:ka:etal:nd**\n**cldf:lewis:ed:09**\n**cldf:noonan:03:2**\n**cldf:np:nd:264**\n**hh:e:Gurung:Nar-Phu**\n**hh:s:Noonan:Nar-Phu**\n**hh:s:NoonanHildebrandt:Nar-Phu**"
+  },
+  "altnames": {
+    "wals": "\nNar-Phu",
+    "multitree": "\nNar Phu\nNar-Phu\nNarPhu\nNarpa\nNarpú",
+    "lexvo": "\nNar Phu [en]\nNar Phu language [en]\nNar-Phuish [gv]\nภาษานัรพู [th]",
+    "elcat": "\nNar Phu\nNar-Phu\nNarpa"
+  },
+  "triggers": {
+    "lgcode": "\nnar AND phu"
+  },
+  "identifier": {
+    "wals": "nph",
+    "multitree": "npa",
+    "endangeredlanguages": "2034"
+  },
+  "classification": {
+    "sub": "**hh:s:Noonan:Chantyal** **hh:hv:Honda:Tamangic**",
+    "subrefs": "\n**hh:s:Noonan:Chantyal**\n**hh:hv:Honda:Tamangic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nar Phu (2034-npa) = Endangered (20 percent certain, based on the evidence available) [Hildebrandt 2010](cldf:hildebrandt:10)"
+  }
+}

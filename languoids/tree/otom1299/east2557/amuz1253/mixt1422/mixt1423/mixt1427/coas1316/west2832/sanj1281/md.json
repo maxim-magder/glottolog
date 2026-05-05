@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "San Juan Colorado Mixtec",
+    "hid": "mjc",
+    "level": "language",
+    "iso639-3": "mjc",
+    "latitude": "16.46073",
+    "longitude": "-97.95446",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (San Juan Colorado)](https://wals.info/languoid/lect/wals_code_mjc)\nhttps://www.wikidata.org/entity/Q12953718"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1726**\n**cldf:campbell:peterson:etal:86**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:sd:Johnson:Mixteco-San-Juan-Colorado**\n**hh:typ:Stark:San-Juan-Colorado-Mixtec**\n**mpieva:Campbell1986Dicciona**\n**sil16:46190**\n**sil16:46200**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (San Juan Colorado)",
+    "wals other": "\nMixtec\nSan Juan Colorado",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nMixtec (San Juan Colorado)\nMixtec, San Juan Colorado\nMixteco (San Juan Colorado)\nMixteco de San Juan Colorado\nSouthern Misteko\nSouthern Mixteco",
+    "lexvo": "\nSan Juan Colorado Mixtec [en]",
+    "hhbib_lgcode": "\n45 San Juan Colorado Mixtec Stark et al. 1986; Josserand 1983\nColo\nSan Juan Colorado"
+  },
+  "triggers": {
+    "lgcode": "\nsan AND colorado"
+  },
+  "identifier": {
+    "wals": "mjc",
+    "multitree": "mjc",
+    "endangeredlanguages": "10528"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:13-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Coast Mixtec (10528-mjc) = Vulnerable (20 percent certain, based on the evidence available) ['bib69']"
+  }
+}

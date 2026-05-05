@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Riverine Chorote",
+    "hid": "crt",
+    "level": "language",
+    "iso639-3": "crt",
+    "latitude": "-22.1896",
+    "longitude": "-63.2383",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "PY"
+    ],
+    "links": "\n[Chorote](https://endangeredlanguages.com/lang/3013)\nhttps://en.wikipedia.org/wiki/Iyojwa%CA%BCja_Chorote\nhttps://www.wikidata.org/entity/Q3504118"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4750**\n**hh:d:Carol:Manjui**\n**hh:d:Drayson:Chorote**\n**hh:d:Drayson:Iyojwaja**\n**hh:e:vonRosen:Chorotes**\n**hh:g:Carol:Chorote**\n**hh:g:Hunt:Choroti**\n**hh:phon:Carol:Chorote**\n**mpieva:GerzensteinLenguach**"
+  },
+  "altnames": {
+    "multitree": "\nChorote\nChorote iyojwa’ja\nChorote, Iyojwa'ja\nChoroti\nChoroti iyojwa'ja\nChorotí\nChulupe\nChulupí\nChurupi\nEklenjuy\nManjui\nManjuy\nYofuaha\nYofúaha\nYohwaha",
+    "lexvo": "\nChorote [fr]\nIyojwa'ja Chorote [en]",
+    "hhbib_lgcode": "\nChorote-Iyojwa'ja\nChorote-Iyojwa’ja\nIyojwa'ja\nIyojwa'ja Chorote\nManjui",
+    "elcat": "\nChorote\nChoroti\nChorotí\nManjui\nManjuy",
+    "glottolog": "\nIyojwa'ja Chorote"
+  },
+  "triggers": {
+    "lgcode": "\nyofuaha"
+  },
+  "identifier": {
+    "multitree": "crt",
+    "endangeredlanguages": "3013"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013** **hh:hv:Nikulin:Mayaguayan**",
+    "subrefs": "\n**hh:hv:Nikulin:Mayaguayan**\n**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chorote (3013) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

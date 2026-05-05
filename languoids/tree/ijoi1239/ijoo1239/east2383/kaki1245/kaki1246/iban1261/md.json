@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ibani",
+    "hid": "iby",
+    "level": "language",
+    "iso639-3": "iby",
+    "latitude": "4.49119",
+    "longitude": "7.23558",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ibani](https://endangeredlanguages.com/lang/7929)\nhttps://www.wikidata.org/entity/Q11280479\nhttps://phoible.org/languages/iban1261"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3381**\n**cldf:akinlabi:95**\n**cldf:fombo:75**\n**cldf:horton:62**\n**cldf:koeler:43**\n**cldf:kroppdakubu:80**\n**cldf:lewis:ed:09**\n**eballiso2009:17597**\n**eballiso2009:31609**\n**eballiso2009:31614**\n**eballiso2009:32872**\n**eballiso2009:35562**\n**eballiso2009:5470**\n**eballiso2009:5471**\n**eballiso2009:55666**\n**eballiso2009:56366**\n**eballiso2009:7149**\n**hh:d:Blench:Ibani**\n**hh:d:Green:Ibani**\n**hh:h:Latham:Africa**\n**hh:hew:Leonard:Lower-Niger**\n**hh:hv:Blench:Ijoid**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Clarke:Africa**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:ld:Obikudo:Ibani**\n**hh:s:Benamaisia:Ibani**\n**hh:s:Koler:Bonny**\n**hh:typ:Ibiama:Ibani**\n**hh:w:Johnson:Bonny**\n**hh:w:Latham:Bonny**"
+  },
+  "altnames": {
+    "multitree": "\nBonny\nIbani\nUbani\nỊjọ",
+    "lexvo": "\nIbani [en]",
+    "hhbib_lgcode": "\nBonny\nOkuloma",
+    "elcat": "\nBonny\nIbani\nUbani\nỊjọ"
+  },
+  "triggers": {
+    "lgcode": "\nbonny\nokrika\nglossarium\nibani\nnkoroo"
+  },
+  "identifier": {
+    "multitree": "iby",
+    "endangeredlanguages": "7929"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jenewari:Ijoid**, **hh:hv:Connell:Defaka-Ijo:2012**",
+    "subrefs": "\n**hh:hv:Jenewari:Ijoid**\n**hh:hv:Connell:Defaka-Ijo:2012**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ibani (7929-iby) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kaiep",
+    "hid": "kbw",
+    "level": "language",
+    "iso639-3": "kbw",
+    "latitude": "-3.70524",
+    "longitude": "143.884",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kaiep](https://endangeredlanguages.com/lang/1811)\nhttps://www.wikidata.org/entity/Q6347632\nhttps://en.wikipedia.org/wiki/Kaiep_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Gehberger:Kaiep**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Laycock:AustronesianSepik**"
+  },
+  "altnames": {
+    "multitree": "\nKaiep\nSamap",
+    "lexvo": "\nKaiep [en]",
+    "elcat": "\nKaiep\nSamap\nSumup\nTerebu\nTerepu\nTurupu"
+  },
+  "triggers": {
+    "lgcode": "\nkaiep\nmerkwurdige\ndorfe\nsteinfunde"
+  },
+  "identifier": {
+    "multitree": "kbw",
+    "endangeredlanguages": "1811"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:120-132",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kaiep (1811) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

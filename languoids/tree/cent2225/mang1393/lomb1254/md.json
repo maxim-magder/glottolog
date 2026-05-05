@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lombi",
+    "hid": "lmi",
+    "level": "language",
+    "iso639-3": "lmi",
+    "latitude": "0.26796",
+    "longitude": "27.342",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11259563"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:vangeluwe:56**\n**hh:e:Maes:Warumbi**\n**hh:e:vanGeluwe:Bira**\n**hh:h:Rommes:Stanleyville**\n**hh:hb:Kadima:Congo**\n**hh:hb:Moiso:Haut-Zaire**\n**hh:he:Gusinde:Ituri**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hw:Stuhlmann:Zentralafrikanischer**\n**hh:w:Demolin:Mangbetu**\n**hh:w:Larochette:Asua-Aka-Lombi**\n**hh:wsoc:Boone:Lombi**\n**sil16:51405**"
+  },
+  "altnames": {
+    "multitree": "\nLombi\nLumbi\nOdyalombito\nRombi\nRumli",
+    "lexvo": "\nLombi [en]",
+    "hhbib_lgcode": "\nBarumbi\nDyalombi\nKi-Lumbi\nOdyalombito (Dyalombi / Kirumbi)\nRumbi\nWarumbi"
+  },
+  "triggers": {
+    "lgcode": "\nlombi"
+  },
+  "identifier": {
+    "multitree": "lmi"
+  },
+  "classification": {
+    "sub": "**hh:phon:Demolin:Mangbetu**",
+    "subrefs": "\n**hh:phon:Demolin:Mangbetu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lombi (lmi-lmi) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Southeastern Puebla Nahuatl",
+    "hid": "npl",
+    "level": "language",
+    "iso639-3": "npl",
+    "latitude": "18.39688",
+    "longitude": "-97.12655",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4632950"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Key:Hidalgo-Veracruz-Puebla**\n**hh:e:Gamez:San-Pedro-Tetitlan**\n**hh:hvw:Hertle:Puebla-Tlaxcala**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:s:Hasler:Nahuatl-Tehuacan-Zongolica**\n**hh:s:Hasler:Nahuatl-Tehuacan-Zongolica:2000**\n**hh:soc:Martinez:Nahuatl-Chilac**\n**hh:typ:MacSwan:Southeast-Puebla-Nahuatl**\n**iso6393:2006-089**\n**sil16:35948**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Nawa\nMexicano\nNahua de la Huasteca\nNahuatl\nNáhuatl du Huasteca",
+    "lexvo": "\nSoutheastern Puebla Nahuatl [en]",
+    "hhbib_lgcode": "\nCacaloapan-Puebla (Central area)\nCoapan-Tehuacan\nCoapan/Tehuacan\nNahuatl-Southeastern Puebla\nSan Gabriel Chilac-Puebla\nSoutheastern Puebla Nahuatl\nTehuacán",
+    "glottolog": "\nNahuatl, Southeastern Puebla"
+  },
+  "triggers": {
+    "lgcode": "\nsanguine\nnps"
+  },
+  "identifier": {
+    "multitree": "npl"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lastra:Nahuatl-Moderno**:223-225",
+    "subrefs": "\n**hh:hvw:Lastra:Nahuatl-Moderno**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Southeastern Puebla (npl-npl) = 5* (Developing)."
+  }
+}

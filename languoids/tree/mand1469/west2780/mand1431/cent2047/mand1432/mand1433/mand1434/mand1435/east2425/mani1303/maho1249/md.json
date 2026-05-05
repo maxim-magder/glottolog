@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mahou",
+    "hid": "mxx",
+    "level": "language",
+    "iso639-3": "mxx",
+    "latitude": "8.2494",
+    "longitude": "-7.7062",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11004334\n[Mauka](https://wals.info/languoid/lect/wals_code_mka)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ebermann:86:1**\n**eballiso2009:21668**\n**eballiso2009:25641**\n**hh:g:Ebermann:Mauka**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:hb:Sullivan:Manding**\n**hh:hdial:Bolingetal:Mande-Nord**\n**hh:hdial:Bolingetal:Manding**\n**hh:hv:BastinHalleux:Mande**\n**hh:hvld:Kane:Numeration-Ouest-Atlantiques-Mande**\n**hh:hvw:Derive:Manding**\n**hh:hvw:Derive:Manding-Ivoire**\n**hh:hvw:Long:NMande**\n**hh:s:Breensater:Mahou**\n**hh:s:RedseVado:Maukakan**\n**hh:typ:Bamba:Tons-Accents**\n**iso6393:2009-001**\n**mpieva:Ebermann1983DieSprac**\n**sil16:40693**\n**sil16:44053**"
+  },
+  "altnames": {
+    "wals": "\nMauka",
+    "wals other": "\nMau",
+    "ruhlen (1987)": "\nMau(ka)",
+    "multitree": "\nMahou\nMahu\nMaou\nMau\nMauka\nMauke",
+    "lexvo": "\nMahou [en]\nMawukakan [en]",
+    "hhbib_lgcode": "\nBaralakakan\nFinangakan\nKorokakan\nMau\nMauka\nMaukakan\nTenengakan"
+  },
+  "triggers": {
+    "lgcode": "\nkleineren\nmaukakanng\nmaukakanng{\nmaou\nmauka"
+  },
+  "identifier": {
+    "wals": "mka",
+    "multitree": "mxx"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Bolingetal:Manding** **hh:hvw:Derive:Manding-Ivoire**",
+    "subrefs": "\n**hh:hdial:Bolingetal:Manding**\n**hh:hvw:Derive:Manding-Ivoire**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mahou (mxx-mxx) = 6a* (Vigorous)."
+  }
+}

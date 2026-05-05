@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Lhomi",
+    "hid": "lhm",
+    "level": "language",
+    "iso639-3": "lhm",
+    "latitude": "27.5948",
+    "longitude": "87.7161",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Lhomi](https://endangeredlanguages.com/lang/5642)\nhttps://www.wikidata.org/entity/Q14240916\n[Lhomi](https://wals.info/languoid/lect/wals_code_lho)"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bielmeier:Himalayas**:109-110",
+    "subrefs": "\n**hh:hv:Bielmeier:Himalayas**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:np:12:8**\n**cldf:simons;:fennig:ed:13**\n**cldf:watters:03:1**\n**hh:g:Vesalainen:Lhomi**\n**hh:g:Vesalainen:Lhomi:2016**\n**hh:he:Haimendorf:Himalayan-Nepal**\n**hh:hv:Bielmeier:Himalayas**\n**hh:hv:Nishi:Tibetan-Nepal**\n**hh:phon:Watters:Five-Tibetan-Himalayan**\n**hh:s:VesalainenVesalainen:Lhomi**\n**sil16:16767**\n**sil16:43731**"
+  },
+  "altnames": {
+    "wals": "\nLhomi",
+    "moseley & asher (1994)": "\nCentral Tibetan",
+    "multitree": "\nKar Bhote\nKath Bhote\nLhoket\nLhomi\nShing Saapa",
+    "lexvo": "\nLhomi [en]",
+    "elcat": "\nKar Bhote\nKath Bhote\nLhoket\nLhomi\nShing Saapa"
+  },
+  "triggers": {
+    "lgcode": "\nlhomi"
+  },
+  "identifier": {
+    "wals": "lho",
+    "multitree": "lhm",
+    "endangeredlanguages": "5642"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lhomi (5642-lhm) = Vulnerable (80 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

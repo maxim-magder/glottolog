@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Cornish",
+    "hid": "cor",
+    "level": "language",
+    "iso639-3": "cor",
+    "latitude": "50.5233",
+    "longitude": "-4.18619",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "links": "\n[Cornish](https://endangeredlanguages.com/lang/4050)\n[Cornish](https://wals.info/languoid/lect/wals_code_crn)\nhttps://en.wikipedia.org/wiki/Cornish_language\nhttps://www.wikidata.org/entity/Q25289",
+    "timespan": "1600-01-01/1777-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:george:93**\n**cldf:jaszczolt:turner:ed:96:1**\n**cldf:lewis:ed:09**\n**cldf:nance:78**\n**cldf:np:nd:264**\n**cldf:pool:58**\n**cldf:sayers:renko-michelsen:15**\n**hh:d:Gendall:Modern-Cornish**\n**hh:d:George:Kernewek**\n**hh:el:Sayers:Babel**\n**hh:g:Brown:Cornish**\n**hh:g:Brown:Cornish:1993**\n**hh:h:Evans:Cornish**\n**hh:h:Lockwood:British-Isles**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Mills:Kernewek**\n**hh:s:BockBruch:Cornish**\n**hh:s:George:Cornish**\n**hh:s:Jenner:Cornish**\n**hh:s:Lyon:Cornish**\n**hh:s:Norris:Cornish**\n**hh:s:Smith:Cornish**\n**hh:s:Thomas:Cornish**\n**hh:s:Williams:Middle-Late-Cornish**\n**hh:s:Williams:Unified-Cornish**\n**hh:s:Wmffre:Cornish**\n**hh:soc:GeorgeBroderick:Cornish-Manx**\n**hh:soc:Mills:Cornish**\n**hh:soc:Mills:Cornish-Plays**\n**hh:socd:Jago:Cornish**\n**hh:typ:Thomas:Cornish**\n**hh:v:Chaudhri:Cornish**\n**hh:w:Mills:Cornicum**\n**mpieva:1997JazykiMi**\n**mpieva:Lewis1990Handbuch**"
+  },
+  "altnames": {
+    "wals": "\nCornish",
+    "moseley & asher (1994)": "\nCornish",
+    "multitree": "\nBororo\nCornique\nCornish\nCurnoack\nCórnico\nKernewek\nKernowek",
+    "lexvo": "\nAn Choirnis [ga]\nBahasa Cornish [ms]\nBahasa Kernowek [id]\nCernyweg [cy]\nCornic [oc]\nCornique [fr]\nCornisch [nl]\nCornish [en]\nCornish language [en]\nCornish leid [sco]\nCòrnais [gd]\nCòrnic [ca]\nCórnicu [ast]\nIdioma cornuallés [an]\nIdioma córnico [es]\nJęzyk kornijski [pl]\nKernevekçe [tr]\nKerneveureg [br]\nKernewek [kw]\nKoornsche Spraak [nds]\nKorni [fi]\nKorni keel [et]\nKorni nyelv [hu]\nKornies [af]\nKornijščina [sl]\nKornisch [bar]\nKornisk [da]\nKornisk språk [nn]\nKorniska [sv]\nKornišćina [hsb]\nKornu valoda [lv]\nKornubiera [eu]\nKornvala lingvo [eo]\nKornysk [fy]\nKorníska [is]\nKornčina [sk]\nKornština [cs]\nKornų kalba [lt]\nLimba cornică [ro]\nLingua Cornubica [la]\nLingua cornica [it]\nLingua córnica [gl]\nLuenga córnica [ext]\nLíngua córnica [pt]\ncornique [fr]\nŁéngua còrnega [vec]\nΠαού σάους [el]\nКорнаг æвзаг [os]\nКорнская мова [be]\nКорнски јазик [mk]\nКорнский язык [ru]\nКорнська мова [uk]\nКорнуолски език [bg]\nקורנית [he]\nকর্নিশ ভাষা [bn]\nኮርንኛ [am]\nコーンウォール語 [ja]\n康瓦爾語 [zh]\n콘월어 [ko]",
+    "hhbib_lgcode": "\nA Cornish-to-English and English-to-Cornish dictionary using the Kernewek Kemmyn orthography\nLate Cornish\nLate Cornish words recorded after 1504\nMiddle and Late Cornish\nRevived Cornish",
+    "elcat": "\nCornish\nCurnoack\nKernewek\nKernowek"
+  },
+  "triggers": {
+    "lgcode": "\ncornish\ngerlyver\nmittelkornischen\ncornicum"
+  },
+  "identifier": {
+    "wals": "crn",
+    "multitree": "cor",
+    "endangeredlanguages": "4050"
+  },
+  "classification": {
+    "sub": "**hh:hv:Eska:Celtic:2017**",
+    "subrefs": "\n**hh:hv:Eska:Celtic:2017**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Cornish (4050-cor) = Awakening [Sayers and Renkó-Michelsén 2015](cldf:sayers:renko-michelsen:15)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Camling",
+    "hid": "rab",
+    "level": "language",
+    "iso639-3": "rab",
+    "latitude": "27.3371",
+    "longitude": "86.7612",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Camling](https://endangeredlanguages.com/lang/1619)\n[Camling](https://grambank.clld.org/languages/caml1239)\n[Camling](https://wals.info/languoid/lect/wals_code_cml)\nhttps://en.wikipedia.org/wiki/Chamling_language\nhttps://www.wikidata.org/entity/Q3436664"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ebert:03:1**\n**cldf:ebert:03:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:yalungcha:05:1**\n**cldf:yalungcha:08**\n**hh:d:Camlingarai:Camlina**\n**hh:d:Rai:Camlina**\n**hh:g:Rai:Chamling**\n**hh:g:Rai:Chamling:2012**\n**hh:he:Toba:Rai**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:I**\n**hh:s:Ebert:Camling**\n**hh:s:Ebert:Camling:2003**\n**hh:s:Ebert:Camling:2017**\n**hh:s:Ebert:Kiranti**\n**hh:s:Rai:Chamling**\n**hh:t:Ebert:Camling**\n**hh:ttyp:EbertGaenszle:Rai**\n**hh:typ:Yalungcha:Classifiers**\n**hh:vld:Winter:Diversity-Rai**\n**hh:w:Hodgson:Kirantis**\n**hh:wsoc:Rai:Chamling**\n**mpieva:268**\n**sil16:41773**\n**sil16:42071**"
+  },
+  "altnames": {
+    "wals": "\nCamling",
+    "moseley & asher (1994)": "\nKiranti",
+    "multitree": "\nCamling\nChamling\nChamlinge Rai\nChamlingo\nChāmbling\nRai\nRodong\nRōdōng",
+    "lexvo": "\nCamling [en]\nCamling jezik [hr]\nCamling language [en]\nCamlingish [gv]",
+    "hhbib_lgcode": "\nChamling\nRodong\nRodong (Chamling)",
+    "elcat": "\nCamling\nChamling\nChamlinge Rai\nChāmbling\nRai\nRodong\nRōdōng"
+  },
+  "triggers": {
+    "lgcode": "\ncamling"
+  },
+  "identifier": {
+    "wals": "cml",
+    "multitree": "rab",
+    "endangeredlanguages": "1619"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:62-68",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Camling (1619-rab) = Vulnerable (20 percent certain, based on the evidence available) (First language speakers dwindling; language retention poor in most areas.) [Driem 2007](cldf:driem:07)"
+  }
+}

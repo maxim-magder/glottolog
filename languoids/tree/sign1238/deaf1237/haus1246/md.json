@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Hausa Sign Language",
+    "hid": "hsl",
+    "level": "language",
+    "iso639-3": "hsl",
+    "latitude": "8.486",
+    "longitude": "7.168",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Hausa Sign Language](https://endangeredlanguages.com/lang/7489)\nhttps://www.wikidata.org/entity/Q3915462\nhttps://en.wikipedia.org/wiki/Hausa_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:schmaling:01:1**\n**cldf:schmaling:01:2**\n**hh:b:Schmaling:African-Sign**\n**hh:d:SchmalingHausawa:Hausa**\n**hh:h:Kamei:Afurika-Shuwa**\n**hh:ld:Gwammaja:Hausa-Sign**\n**hh:s:Schmaling:Hausa-Sign**\n**hh:soc:Schmaling:Deaf-Kano**\n**hh:ssoc:Schmaling:Hausa-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nHausa Sign Language",
+    "lexvo": "\nHausa Sign Language [en]\nLíngua Gestual Hausa [pt]",
+    "elcat": "\nHausa Sign Language\nMaganar Bebaye\nMaganar Hannu",
+    "hhbib_lgcode": "\nHausa Sign"
+  },
+  "triggers": {
+    "lgcode": "\nmaganar\nhannu"
+  },
+  "identifier": {
+    "multitree": "hsl",
+    "endangeredlanguages": "7489"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hausa Sign Language (hsl-hsl) = 6a (Vigorous)."
+  },
+  "classification": {
+    "sub": "**hh:ssoc:Schmaling:Hausa-Sign**:362-364",
+    "subrefs": "\n**hh:ssoc:Schmaling:Hausa-Sign**"
+  }
+}

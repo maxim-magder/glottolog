@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Maringarr",
+    "hid": "zmt",
+    "level": "language",
+    "iso639-3": "zmt",
+    "latitude": "-14.3819",
+    "longitude": "130.25",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Marringarr](https://endangeredlanguages.com/lang/1910)\nhttps://www.wikidata.org/entity/Q10577443\nhttps://phoible.org/languages/mari1419\n[Maringarr](https://wals.info/languoid/lect/wals_code_mrr)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:ed:10**\n**cldf:harvey:reid:ed:97:2**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hs:Tryon:Daly**\n**hh:hw:Tryon:Daly**\n**hh:typ:Preston:Marri-Ngarr**\n**hh:w:Nambatuetal:Marri-Ngarr-Magati-Ke**\n**ozbib:1867**\n**ozbib:2085**\n**ozbib:2087**\n**ozbib:2358**\n**ozbib:3702**\n**ozbib:5763**\n**ozbib:5765**\n**ozbib:5907**\n**ozbib:6918**"
+  },
+  "altnames": {
+    "wals": "\nMaringarr",
+    "ruhlen (1987)": "\nMaringarr",
+    "moseley & asher (1994)": "\nMaringarr",
+    "multitree": "\nMarengar\nMarenggar\nMari'ngar\nMaringa\nMaringar\nMaringarr\nMarri Ngarr\nMarringarr\nMerringar\nMoil\nMoyle\nMuringa\nMuringar\nMurrinnga\nNgangikadre\nYaghanin",
+    "lexvo": "\nMaringarr [en]",
+    "hhbib_lgcode": "\nMarengar\nMarri Ngarr",
+    "elcat": "\nMarengar\nMarenggar\nMari'ngar\nMaringa\nMaringar\nMaringarr\nMarri Ngarr\nMarringarr\nMerringar\nMoil\nMoyle\nMuringa\nMuringar\nMurrinnga\nNgangikadre\nYaghanin"
+  },
+  "triggers": {
+    "lgcode": "\naustralia AND languages AND daly"
+  },
+  "identifier": {
+    "wals": "mrr",
+    "multitree": "zmt",
+    "endangeredlanguages": "1910"
+  },
+  "classification": {
+    "sub": "**hh:hs:Tryon:Daly**",
+    "subrefs": "\n**hh:hs:Tryon:Daly**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Marringarr (1910-zmt) = Critically Endangered (100 percent certain, based on the evidence available) (No literacy in it. ... It is now seriously endangered.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Balade",
+    "hid": "NOCODE_Balade",
+    "level": "language",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "longitude": "164.2",
+    "latitude": "-20.25",
+    "links": "\n[Balade](https://grambank.clld.org/languages/bala1316)\nhttps://www.wikidata.org/entity/Q35420285"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ozanne-rivierre:04**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hvw:Latham:Comparative**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:hw:Inglis:New-Hebrides**\n**hh:sd:Ozanne-Rivierre:Nyelayu**\n**hh:w:Forster:South-Sea**\n**hh:w:HaudricourtHollyman:New-Caledonian**\n**hh:w:deRossel:Nouvelle-Caledonie**"
+  },
+  "triggers": {
+    "lgcode": "\nforsters\nbalade\nnyelayu"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has the entry Nyelâyu [yly] merging both Balade-Arama-Tiari and Belep, but they are not intelligible to monolinguals\n(**hh:g:McCracken:Belep**:30) and should thus be separate entries\n(like they are in previous surveys, such as\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**). It is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. See also: Belep [yly].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Balade"
+  },
+  "classification": {
+    "sub": "**hh:g:McCracken:Belep**:22-25",
+    "subrefs": "\n**hh:g:McCracken:Belep**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBalad\nBaladea\nNew-Caledonia\nNoch eine Neu-Caledonische Sprache\nYalasu"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E28",
+    "date": "2025-03-19T11:52:53",
+    "comment": "Nyelâyu (yly-NOCODE_Balade) = 6b* (Threatened)."
+  }
+}

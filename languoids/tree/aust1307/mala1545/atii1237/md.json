@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ati",
+    "hid": "atk",
+    "level": "language",
+    "iso639-3": "atk",
+    "latitude": "11.1539",
+    "longitude": "122.512",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Ati](https://grambank.clld.org/languages/atii1237)\n[Ati (Philippines)](https://endangeredlanguages.com/lang/3864)\nhttps://en.wikipedia.org/wiki/Ati_language_(Philippines)\nhttps://www.wikidata.org/entity/Q3217458"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blust:CPhilippines**:80",
+    "subrefs": "\n**hh:hv:Blust:CPhilippines**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:e:Abrico:Valderrama**\n**hh:e:Baruah:Aklan**\n**hh:e:Bolante:Atis**\n**hh:e:Gloria:CPanay**\n**hh:e:Navarrete:Mundos**\n**hh:e:RahmannMaceda:Negritos-Iloilo**\n**hh:e:RahmannMaceda:Negritos-Panay**\n**hh:h:Larena:Philippines**\n**hh:h:Lobel:Philippine**\n**hh:hv:Blust:CPhilippines**\n**hh:hv:Reid:Negrito**\n**hh:ld:Katalbas:Inete**\n**hh:ldsoc:Manzano:Inati**\n**hh:s:Manzano:Inati**\n**hh:s:Pennoyer:Inati**\n**hh:w:Hsiu:Inati**"
+  },
+  "altnames": {
+    "multitree": "\nA'i\nAri\nAti\nBisaya\nInati",
+    "lexvo": "\nAti [en]",
+    "hhbib_lgcode": "\n\"Mundos\" of Capiz Province\nAti Negros\nAti Panay\nInati\nInati (Inete and Sogodnin) of Nagpana-Iloilo\nInete in Iloilo\nMountain People near Valderrama\nNegritos of Antique-Panay\nNegritos of Central Panay must be\nNegritos of Panay must be",
+    "elcat": "\nAti (Philippines)\nBisaya\nInati"
+  },
+  "triggers": {
+    "lgcode": "\nati\nantique\niloilo\ninati"
+  },
+  "identifier": {
+    "multitree": "gaw-ari;atk",
+    "endangeredlanguages": "3864"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ati (Philippines) (3864-atk) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

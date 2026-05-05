@@ -1,0 +1,54 @@
+{
+  "core": {
+    "name": "Maykulan",
+    "hid": "mnt",
+    "level": "language",
+    "iso639-3": "mnt",
+    "latitude": "-20.4352",
+    "longitude": "140.481",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Mayi-Kulan](https://collection.aiatsis.gov.au/austlang/language/g25)\n[Mayi-Yapi](https://wals.info/languoid/lect/wals_code_myy)\n[Maykulan](https://grambank.clld.org/languages/mayk1239)\nhttps://www.wikidata.org/entity/Q3915696",
+    "timespan": "1960-01-01/1960-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Roth:Nomenclature**\n**hh:hew:Roth:NWCQueensland**\n**hh:hvs:Breen:Mayi**\n**hh:hvw:Mathew:Eaglehawk-Crow**\n**hh:w:Curr:Leichardt:Kamilaroi**\n**hh:w:Macgillivray:Flinder-Cloncurry**\n**hh:w:Palmer:Cloncurry**\n**iso6393:2012-007**\n**ozbib:131**\n**ozbib:3725**\n**ozbib:3783**\n**ozbib:4062**\n**ozbib:4525**\n**ozbib:4904**\n**ozbib:4910**\n**ozbib:5212**\n**ozbib:5534**\n**ozbib:613**\n**ozbib:6922**"
+  },
+  "altnames": {
+    "multitree": "\nMaikolon\nMaikulan\nMaikulung\nMakulu\nMayi-Kulan\nMayi-Thakurti\nMayi-Yapi\nMayi-kulan\nMaykulan\nMiccoolin\nMicoolan\nMikkoolan\nMikoolun\nMycoolon\nMygoolan\nMykoo-lan\nMykoolan\nMykulau\nWunamara",
+    "lexvo": "\nMaykulan [en]",
+    "hhbib_lgcode": "\n80 percent correspondence with Mayi-Thakurti\nMayi-Kulan\nMayi-Thakurti\nMayi-Yapi\nMitakoodi\nMythergoody\nW. G. Marshall's list is Mayi-Thakurti 202-272\nWoonamurra\nWunumara",
+    "aiatsis": "\nMaigudina\nMaigudung\nMaigulung\nMaikolon\nMaikudun\nMaikudung\nMaikudunu\nMaikulan\nMaikulung\nMakulu\nMayagoondoon\nMayagulan\nMayhulan\nMayi kulan\nMayi-Kulan\nMaykulan\nMiccoolin\nMicoolan\nMikadoon\nMikkoolan\nMikoodoono\nMikoolun\nMycoolon\nMygoodan\nMygoodano\nMygoolan\nMykoo lan\nMykoolan\nMykulau"
+  },
+  "triggers": {
+    "lgcode": "\nmaykulan"
+  },
+  "iso_retirement": {
+    "comment": "It is our proposal that the entry currently listed as \"Maykulan\" (mnt) in\nEthnologue 16 has a series of \"alternate names\" which actually represent a\ncollection of languages under a Mayi group (currently Mayabic). These\nlanguages--Mayi-Kulan, Mayi-Thakurti, Mayi-Yapi, and Wunumara--will join the\nlevel of the existing Mayaguduna (xmy) and Ngawun (nxn).\n\nThere are multiple publications discussing the above-mentioned varieties as\nlanguages.\n\nPollock (2011) and Hinton & Hale (2004) clearly denote the Mayi-Yapi people as a\nseparate people from their neighbors. Hinton & Hale illustrate this with a map\nof the region, a dotted line labeled \"ethnographic boundary\" dividing the\nMayi-Yapi from the Mayi-Kutuna (2004: 21). Pollock lists various river\ncatchments and local peoples, for example the Flinders River Catchment has\nlisted under Indigenous peoples groups: Mayi-Yapi, Mayi- Kulan, Mayi-Thakurti,\nwhile other catchments have not all of these listed.\n\nBlair (2001) cites several examples from the languages, for example\n\"jerry-jerry, the annual herb Ammannia multiflora of Queensland, is from\nMayi-Yapi and Mayi-Kulan, spoken around the Cloncurry Riverand the Norman River,\nnorth Queensland\" (141-2).\n\nAlpher (1991) in section 8.2 \"Languages cited for etymological information\" uses\nMayi- Kulan and Mayi-Yapi languages as references.\n\nATSIDA has a database of language groups and peoples, listing the Mayi-Kulan,\nMayi- Thakurti, Mayi-Yapi, and Wunumara peoples as separate entries. AusAnthrop\nalso has separate entires for the peoples, under the names Maijabi, Mayi-Kulan,\nMayi-Thakurti Wanamara.\n\nI cannot neglect to mention perhaps the best publication concerning these\nlanguages, Breen's \"The Mayi Languages of the Queensland Gulf Country\" which\nprovides, among other evidence, a 656 \"concept list\" with translations in all\nthe Mayi languages illustrating the similarities and differences (e.g. 5). The\nbook also provides an overview of cultural differences between the different\npeoples and notes several phonological differences between the languages (e.g.\n29).",
+    "code": "mnt",
+    "name": "Maykulan",
+    "effective": "2013-01-23",
+    "remedy": "Split into Mayi-Kulan [xyk], Mayi-Thakurti [xyt], Mayi-Yapi [xyj], and Wunumara [wnn]",
+    "reason": "split",
+    "change_request": "2012-007",
+    "change_to": "\nxyk\nxyt\nxyj\nwnn"
+  },
+  "identifier": {
+    "wals": "myy",
+    "multitree": "mnt"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Breen:Mayi** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hvs:Breen:Mayi**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Maykulan (mnt-mnt) = 10 (Extinct)."
+  }
+}

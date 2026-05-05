@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Phrygian",
+    "hid": "xpg",
+    "level": "language",
+    "iso639-3": "xpg",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "longitude": "31.28",
+    "latitude": "39.613",
+    "links": "\nhttps://www.wikidata.org/entity/Q36751\nhttps://en.wikipedia.org/wiki/Phrygian_language",
+    "timespan": "-0800-01-01/0300-01-01"
+  },
+  "classification": {
+    "sub": "**hh:s:Brixhe:Phrygian**:72 **hh:std:Obrador-Cursach:Phrygian**:121-127 **hh:v:Obrador-Cursach:Phrygian**",
+    "subrefs": "\n**hh:s:Brixhe:Phrygian**\n**hh:v:Obrador-Cursach:Phrygian**\n**hh:std:Obrador-Cursach:Phrygian**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Visscher:Roman-Languages**\n**hh:hv:Blazek:Hellenic**\n**hh:ld:Haas:Phrygischen**\n**hh:ld:Sowa:Phrygischen**\n**hh:lde:Friedrich:Phrygia**\n**hh:s:Brixhe:Phrygian**\n**hh:s:DiakonoffNeroznak:Phrygian**\n**hh:s:Ligorio:Frigijskij**\n**hh:s:LigorioLubotsky:Phrygian**\n**hh:st:Orel:Phrygians**\n**hh:std:Obrador-Cursach:Phrygian**\n**hh:std:Obrador-Cursach:Phrygian:2018**\n**hh:t:Brixhe:Phrygiennes**\n**hh:v:Obrador-Cursach:Phrygian**\n**hh:vld:Morante:Phrygia**"
+  },
+  "altnames": {
+    "multitree": "\nNeo-Phrygian\nOld Phrygian\nPaleo-Phrygian\nPhrygian",
+    "lexvo": "\nFriga lingvo [eo]\nFrigijščina [sl]\nFrixu [ast]\nFrygisch [nl]\nFrygisk [no]\nFryygian kieli [fi]\nFrýgičtina [sk]\nIdioma frichio [an]\nIdioma frigio [es]\nJęzyk frygijski [pl]\nLingua frigia [it]\nLingua frixia [gl]\nLíngua frígia [pt]\nPhrygian [en]\nPhrygian language [en]\nPhrygische Sprache [de]\nPhrygsche Spraak [nds]\nФригиаг æвзаг [os]\nФригийски език [bg]\nФригийский язык [ru]\nФригиски јазик [mk]\nפריגית [he]\nภาษาฟรีเจีย [th]\nフリュギア語 [ja]",
+    "hhbib_lgcode": "\nPhrygischen"
+  },
+  "triggers": {
+    "lgcode": "\nphrygian"
+  },
+  "identifier": {
+    "multitree": "xpg"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Phrygian (**hh:s:Brixhe:Phrygian**, **hh:st:Orel:Phrygians**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xpg"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Phrygian (xpg-xpg) = 10 (Extinct)."
+  }
+}

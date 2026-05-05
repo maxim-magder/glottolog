@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bera",
+    "hid": "brf",
+    "level": "language",
+    "iso639-3": "brf",
+    "latitude": "1.50054",
+    "longitude": "30.0293",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bira_language\n[Bera](https://wals.info/languoid/lect/wals_code_brq)\nhttps://www.wikidata.org/entity/Q2896850"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:czekanowski:24**\n**cldf:joset:36**\n**cldf:meinhof:39**\n**cldf:vangeluwe:56**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:26583**\n**eballiso2009:27130**\n**eballiso2009:32534**\n**eballiso2009:32781**\n**eballiso2009:42433**\n**eballiso2009:43743**\n**eballiso2009:48803**\n**eballiso2009:55350**\n**eballiso2009:5877**\n**eballiso2009:9291**\n**hh:dial:Issamba:Bira**\n**hh:e:Constance:Babira**\n**hh:e:vanGeluwe:Bira**\n**hh:hew:Harvey:Bali**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hew:Stanley:Darkest**\n**hh:hv:Banyama:Bira-Lika**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Vorbichler:Bira**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:McMaster:Uele**\n**hh:ld:Maeyens:Babira**\n**hh:ld:Maeyens:KiBira**\n**hh:ld:Rzewuski:Kibira**\n**hh:phonv:Manesane:Bira-Lika**\n**hh:s:Meinhof:Bira**\n**hh:s:Susa:Bira**\n**hh:s:Susa:Bira:1974**\n**hh:soc:Boone:Bila**\n**hh:soc:Sezabo:Bira**\n**hh:t:Krzywicki:Bira**\n**hh:typ:Banotanea:Bira-Liliko**\n**hh:typ:Bulahambi:Kibira**\n**hh:typ:Herabo:Kibira-Kinyali**\n**hh:typ:Kisembo:Bira-Nyali**\n**hh:typ:Rietkerk:Kibira**\n**hh:typ:Tagirabo:Bira**\n**hh:v:Nyamaiso:Kibira**\n**hh:w:Struck:Nachlass**\n**hh:w:deWit:Bira-Huku**\n**hh:wsoc:deWit:Bira**\n**iso6393:2019-009**\n**sil16:51396**"
+  },
+  "altnames": {
+    "multitree": "\nBera\nBira\nKibira\nPlains Bira",
+    "lexvo": "\nBera [en]",
+    "hhbib_lgcode": "\nBabira\nBavira grassland\nBira\nBira 1 Miala D32\nBira 2 Badiya D32\nBira de la plaine\nBira-Sedzabo\nBira-Solenyama\nD32_Bira\nD32_Bira_Bunia\nKiBira (between lake Albert and the eastern edge of the forest)\nKibera\nKibira\nLower Bera\nLubira\nLubusese or Lubira\nPlains Bira\nWáwira same as Bavira Grasland of Stanley"
+  },
+  "triggers": {
+    "lgcode": "\ndescente\nzoological\nbira\nbanyarisprachen\nkibira\nbanyari\nmuzikaal"
+  },
+  "identifier": {
+    "wals": "bia",
+    "multitree": "brf"
+  },
+  "classification": {
+    "sub": "**hh:s:Kutsch:Bila**:450-452",
+    "subrefs": "\n**hh:s:Kutsch:Bila**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bira (brf-brf) = 6b* (Threatened)."
+  }
+}

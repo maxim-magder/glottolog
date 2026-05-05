@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Krung",
+    "hid": "krr",
+    "level": "dialect",
+    "iso639-3": "krr",
+    "latitude": "13.5699",
+    "longitude": "106.761",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH"
+    ],
+    "links": "\n[Kru'ng 2](https://endangeredlanguages.com/lang/4439)\nhttps://www.wikidata.org/entity/Q12953650"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:213**\n**cldf:np:nd:264**\n**cldf:sidwell:jacq:03**\n**iso6393:2016-007**"
+  },
+  "altnames": {
+    "multitree": "\nKru'ng\nKru'ng 2\nKrueng\nKrung\nKrɯɱ",
+    "lexvo": "\nKru'ng 2 [en]",
+    "hhbib_lgcode": "\nBrao Krung\nBrao Tanao\nKha Palau\nKru'ng 2\nLun",
+    "elcat": "\nKru'ng\nKru'ng 2\nKrueng\nKrung\nKrɯɱ"
+  },
+  "triggers": {
+    "lgcode": "\nkrung"
+  },
+  "identifier": {
+    "multitree": "krr",
+    "endangeredlanguages": "4439"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kru'ng 2 (4439-krr) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

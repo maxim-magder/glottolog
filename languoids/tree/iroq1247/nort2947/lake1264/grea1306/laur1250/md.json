@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Laurentian",
+    "hid": "lre",
+    "level": "language",
+    "iso639-3": "lre",
+    "latitude": "45.33",
+    "longitude": "-72.5",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q1790301\nhttps://en.wikipedia.org/wiki/Laurentian_language",
+    "timespan": "1575-01-01/1575-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:TriggerPendergast:Saint-Lawrence-Iroquoians**\n**hh:ew:Biggar:Cartier**\n**hh:hv:Julian:Iroquoian**\n**hh:v:Mithun:Laurentians**\n**hh:w:Barbeau:Canada**\n**hh:w:Cartier:Stadaconan**"
+  },
+  "altnames": {
+    "multitree": "\nLaurentian\nSaint Lawrence Iroquoian\nSt. Lawrence Iroquoian",
+    "lexvo": "\nLaurentian [en]",
+    "hhbib_lgcode": "\nCountries and kingdoms of Hochelaga and Canada\nSaint Lawrence Iroquoians\nStadaconan"
+  },
+  "triggers": {
+    "lgcode": "\nlaurentians\ncartier\nstadaconan"
+  },
+  "identifier": {
+    "multitree": "lre"
+  },
+  "classification": {
+    "sub": "**hh:hv:Julian:Iroquoian**:15 **hh:vwtyp:Mithun:Susquehannock**",
+    "subrefs": "\n**hh:vwtyp:Mithun:Susquehannock**\n**hh:hv:Julian:Iroquoian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Laurentian (lre-lre) = 10 (Extinct)."
+  }
+}

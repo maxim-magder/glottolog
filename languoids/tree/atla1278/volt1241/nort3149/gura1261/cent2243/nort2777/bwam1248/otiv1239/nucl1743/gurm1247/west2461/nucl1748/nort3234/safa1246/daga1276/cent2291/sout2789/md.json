@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Central Dagaare",
+    "hid": "dga",
+    "level": "language",
+    "iso639-3": "dga",
+    "latitude": "10.4226",
+    "longitude": "-2.52265",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "GH"
+    ],
+    "links": "\n[Dagaare](https://wals.info/languoid/lect/wals_code_dga)\nhttps://en.wikipedia.org/wiki/Dagaare_language\nhttps://phoible.org/languages/sout2789\nhttps://www.wikidata.org/entity/Q35159"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1696**\n**cldf:bodomo:02**\n**cldf:labouret:20**\n**cldf:nakuma:98**\n**cldf:tauxier:12**\n**hh:e:Goody:LoDagaa**\n**hh:g:Bodomo:Dagaare**\n**hh:hew:Rattray:Ashanti-Hinterland**\n**hh:hv:Der:Dagbani-Dagaare**\n**hh:hv:Manessy:Oti-Volta**\n**hh:hvw:Christaller:Sudan**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:hw:KroppDakubu:WALDS1:I**\n**hh:phon:Kennedy:Dagaari**\n**hh:s:Bodomo:Dagaare:2000**\n**hh:s:Kropp:Dagaare**\n**hh:sd:Ali:Dagaare**\n**hh:vsoc:Beyogle:Dagara**\n**mpieva:Kropp2005Collecte**\n**sil16:43676**"
+  },
+  "altnames": {
+    "wals": "\nDagaare",
+    "wals other": "\nDagare",
+    "ruhlen (1987)": "\nDagaari",
+    "moseley & asher (1994)": "\nDagara",
+    "multitree": "\nDagaare\nDagaare, Southern\nDagaari\nDagara\nDagari\nDagati\nDagatri\nDagatsi\nDegati\nDogaari\nSouthern Dagari",
+    "lexvo": "\nSouthern Dagaare [en]",
+    "hhbib_lgcode": "\nDagaare\nDagaare-Southern\nDagare\nDagatsi\nGbanya\nGbanyan\nLoDagaa of Tom in Ghana\nLoPiel\nLoberu\nSouthern Dagaare"
+  },
+  "triggers": {
+    "lgcode": "\nrelationship AND dagaare\ndagaare"
+  },
+  "identifier": {
+    "wals": "dga",
+    "multitree": "dga"
+  },
+  "classification": {
+    "sub": "**hh:s:Kropp:Dagaare**",
+    "subrefs": "\n**hh:s:Kropp:Dagaare**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dagaare, Southern (dga-dga) = 4 (Educational). Recognized language (1951, Laws of the Gold Coast, Vernacular Literature Board Ordinance, as amended by Ordinance No. 44)."
+  }
+}

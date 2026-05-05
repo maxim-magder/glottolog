@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Logo",
+    "hid": "log",
+    "level": "language",
+    "iso639-3": "log",
+    "latitude": "3.32608",
+    "longitude": "29.8866",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "SS"
+    ],
+    "links": "\n[Logo](https://grambank.clld.org/languages/logo1259)\n[Logoti](https://wals.info/languoid/lect/wals_code_lgt)\nhttps://en.wikipedia.org/wiki/Logo_language\nhttps://phoible.org/languages/logo1259\nhttps://www.wikidata.org/entity/Q2613477"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3138**\n**cldf:czekanowski:24**\n**cldf:tucker:67**\n**eballiso2009:13304**\n**eballiso2009:13841**\n**eballiso2009:16072**\n**eballiso2009:1826**\n**eballiso2009:20697**\n**eballiso2009:25098**\n**eballiso2009:27517**\n**eballiso2009:34522**\n**eballiso2009:36028**\n**eballiso2009:36029**\n**eballiso2009:36039**\n**eballiso2009:37233**\n**eballiso2009:42502**\n**eballiso2009:5364**\n**eballiso2009:54003**\n**eballiso2009:56939**\n**eballiso2009:5775**\n**eballiso2009:9084**\n**hh:d:Vallaeys:Logo**\n**hh:g:Irumu:Logoti**\n**hh:g:Vallaeys:Logo**\n**hh:hew:Liesenborghs:NEKongo**\n**hh:hv:Costermans:Logo-Avokaya**\n**hh:hvtyp:Tucker:Madi**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hwb:BokulaIrumu:Moru-Mangbetu**\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**hh:s:Goyvaerts:Logo**\n**hh:s:Lida:Logo:1969**\n**hh:s:Madragule:Logoti**\n**hh:typ:Wright:Logoti**\n**hh:vphon:Agasuru:Logoti-Logbarati**\n**mpieva:Levinsohn1994Discours**\n**sil16:25282**\n**sil16:25891**\n**sil16:40696**\n**sil16:40808**\n**sil16:45696**\n**sil16:45697**\n**sil16:49399**"
+  },
+  "altnames": {
+    "wals": "\nLogoti",
+    "ruhlen (1987)": "\nLogo",
+    "moseley & asher (1994)": "\nLogo",
+    "multitree": "\nLogo\nLogoti",
+    "lexvo": "\nLogo [en]\nLogo language [en]\nЛогоски јазик [mk]",
+    "hhbib_lgcode": "\n9xLogo\nBari\nBari-Logo\nBariti\nLogoti"
+  },
+  "triggers": {
+    "lgcode": "\nlogo\nrodo\nkop\nwabuyo\nlogoti"
+  },
+  "identifier": {
+    "wals": "lgt",
+    "multitree": "log"
+  },
+  "classification": {
+    "sub": "**hh:phon:Demolin:Mangbetu**:20-23",
+    "subrefs": "\n**hh:phon:Demolin:Mangbetu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Logo (log-log) = 5* (Developing)."
+  }
+}

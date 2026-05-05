@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kintaq",
+    "hid": "knq",
+    "level": "language",
+    "iso639-3": "knq",
+    "latitude": "5.75004",
+    "longitude": "101.277",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY",
+      "TH"
+    ],
+    "links": "\n[Kintaq](https://endangeredlanguages.com/lang/1262)\n[Kintaq](https://lexibank.clld.org/languages/dunnaslian-Kintaq)\nhttps://en.wikipedia.org/wiki/Kintaq_language\nhttps://www.wikidata.org/entity/Q6414335"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:e:Evans:Malaya**\n**hh:e:Razha:Kintak-Bong**\n**hh:e:Schebesta:Kenta-Bogn**\n**hh:hb:Parker:Austroasiatic**\n**hh:he:Carey:Orang-Asli**\n**hh:hv:Dunnetal:Aslian**\n**hh:hv:Yager:Northern-Aslian**\n**hh:hvw:Benjamin:Prehistory**\n**hh:s:Omar:Kentakbong**"
+  },
+  "altnames": {
+    "multitree": "\nBong\nKenta\nKintak\nKintaq\nKintaq Bong\nKintk",
+    "lexvo": "\nKintaq [en]",
+    "hhbib_lgcode": "\nKentok\nKintak Bong\nKintaq Bong\nKĕnta-Bogn",
+    "elcat": "\nBong\nKenta\nKintak\nKintaq\nKintaq Bong\nKintk"
+  },
+  "triggers": {
+    "lgcode": "\nkentakbong"
+  },
+  "identifier": {
+    "multitree": "knq",
+    "endangeredlanguages": "1262"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunnetal:Aslian**",
+    "subrefs": "\n**hh:hv:Dunnetal:Aslian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kintaq (1262-knq) = Endangered (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

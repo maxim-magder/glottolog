@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Iban",
+    "hid": "iba",
+    "level": "language",
+    "iso639-3": "iba",
+    "latitude": "2.09041",
+    "longitude": "112.934",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "BN",
+      "ID",
+      "MY"
+    ],
+    "links": "\n[Iban](https://grambank.clld.org/languages/iban1264)\n[Iban](https://lexibank.clld.org/languages/blustaustronesian-iban)\n[Iban](https://wals.info/languoid/lect/wals_code_iba)\nhttps://en.wikipedia.org/wiki/Iban_language\nhttps://phoible.org/languages/iban1264\nhttps://www.wikidata.org/entity/Q33424"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:96:16**\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:calculator:14**\n**cldf:dent:11**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:freeman:55:1**\n**cldf:freeman:55:2**\n**cldf:freeman:57**\n**cldf:freeman:58:1**\n**cldf:freeman:58:2**\n**cldf:freeman:70**\n**cldf:freeman:81**\n**cldf:gomes:11:1**\n**cldf:gomes:11:2**\n**cldf:hasegawa:18**\n**cldf:howell:08**\n**cldf:jensen:74**\n**cldf:kheung:06**\n**cldf:lebar:ed:72**\n**cldf:np:14:5**\n**cldf:perham:81**\n**cldf:postill:00**\n**cldf:pringle:68**\n**cldf:pringle:70**\n**cldf:quek:09**\n**cldf:roberts:kaplan:ed:56**\n**cldf:roth:ed:92**\n**cldf:sandin:68**\n**cldf:scott:57**\n**cldf:sutlive:73**\n**cldf:sutlive:93**\n**cldf:varney:nd**\n**cldf:vayda:75**\n**cldf:wadley:99**\n**cldf:wagner:72**\n**hh:d:Herpanus:Desa:2015**\n**hh:d:HowellBailey:Sea-Dyak**\n**hh:d:Richards:Iban**\n**hh:d:Scott:Sea-Dayak**\n**hh:d:SutliveSutlive:Iban**\n**hh:d:William:Iban**\n**hh:e:Sandin:Sea-Dayaks**\n**hh:esoc:Herpanus:Desa**\n**hh:esoc:Herpanus:Desa:2014**\n**hh:g:Omar:Iban**\n**hh:g:Omar:Iban:1969**\n**hh:h:Sellato:Melawi**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:he:Harrisson:Sarawak**\n**hh:hew:Roth:Sarawak**\n**hh:htyp:Rahim:Iban-Kantuk-Mualang**\n**hh:htyp:Rahim:Iban-Kantuk-Mualang:1997**\n**hh:hv:Adelaar:Malayic:Internal**\n**hh:hvld:Collins:Ibanic**\n**hh:hvld:Shin:Ibanic**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hvw:Adelaar:Melayik-Purba**\n**hh:hvw:Adelaar:Proto-Malayic**\n**hh:hvw:MohamedYusof:Sarawak-10**\n**hh:hvw:MohamedYusof:Sarawak:**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:ld:Yusriadi:Kantuk**\n**hh:phontypsoc:Anonby:Sebuyau**\n**hh:s:Kamal:Iban**\n**hh:s:Kamal:Iban:1991**\n**hh:s:Steinmayer:Iban**\n**hh:s:Thomas:Kantuk**\n**hh:soc:Chong:Iban-Koine**\n**hh:soc:Coluzzi:Lun-Bawang**\n**hh:soc:Dedy:Iban-Rimbas**\n**hh:soc:OmarSeong:Iban**\n**hh:typ:Omar:Classifiers**\n**hh:vld:Chong:Iban-Desa**\n**hh:vld:Chong:Saribas**\n**hh:w:Chalmers:Sarawak-Dayaks**\n**hh:w:Hudson:Selako**\n**iso6393:2020-042**\n**iso6393:2021-025**\n**sil16:46415**"
+  },
+  "altnames": {
+    "wals": "\nIban",
+    "ruhlen (1987)": "\nIban",
+    "moseley & asher (1994)": "\nIban",
+    "multitree": "\nDayak\nIban\nSea Dayak",
+    "lexvo": "\nBahasa Iban [id]\nIban [de]\nIban language [en]\niban [fr]",
+    "hhbib_lgcode": "\nBalau\nBalaus\nBugau\nDesa\nIban di Saribas\nIban of the Upper Kapuas\nIban-Sarawak\nKantu of the Upper Kapuas river-West Kalimantan\nKantu'\nKantuk\nKantuk of Mandai in Kapuas Hulu\nSebuyau\nSebuyow Dayaks\nSibu-Kanowit-Mapai-Kuching-Betong Iban\nSibuyau\nSkarang"
+  },
+  "triggers": {
+    "lgcode": "\nof AND iban\njako\njalai\nmarginalization"
+  },
+  "identifier": {
+    "wals": "iba",
+    "multitree": "iba"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kroeger:Sarawak**:149",
+    "subrefs": "\n**hh:hv:Kroeger:Sarawak**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Iban (iba-iba) = 3 (Wider communication). Provincially recognized language in Sarawak (1977, Ordinance, Majlis Adat Istiadat Sarawak), authorized for use in state legislative assembly and to be represented to state government by Majlis Adat Istiadat Sarawak (Council for Customs and Traditions). Originated on Borneo Island; Iban people migrated to Malaysia and settled in the state of Sarawak. In 1840 during the British colonization period, Iban language became widely spoken. Used in education, media, literature, and music."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Cupeño",
+    "hid": "cup",
+    "level": "language",
+    "iso639-3": "cup",
+    "latitude": "33.3148",
+    "longitude": "-116.515",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Cupeño](https://endangeredlanguages.com/lang/2009)\n[Cupeño](https://grambank.clld.org/languages/cupe1243)\n[Cupeño](https://lexibank.clld.org/languages/utoaztecan-Cupeno)\n[Cupeño](https://wals.info/languoid/lect/wals_code_cup)\nhttps://en.wikipedia.org/wiki/Cupe%C3%B1o_language\nhttps://phoible.org/languages/cupe1243\nhttps://www.wikidata.org/entity/Q143130",
+    "timespan": "1987-01-01/1987-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alderete:01**\n**cldf:carnie:ed:03:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:drucker:37:1**\n**cldf:gifford:18**\n**cldf:gifford:22**\n**cldf:gifford:26:1**\n**cldf:golla:goddard:etal:08**\n**cldf:langacker:76**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:moseley:07**\n**cldf:munro:90**\n**cldf:project:nd:1**\n**haspelmath:mamet_cupeno_2011**\n**hh:e:BeanSmith:Cupeno**\n**hh:g:Hill:Cupeno**\n**hh:g:Hill:Cupeno:1966**\n**hh:hv:HillHill:Takic**\n**hh:hvb:Golla:California**\n**hh:std:Hill:Cupeno**\n**hh:v:BrightHill:Cupeno**"
+  },
+  "altnames": {
+    "glottolog": "\nCupeno",
+    "wals": "\nCupeño",
+    "ruhlen (1987)": "\nCupeno",
+    "moseley & asher (1994)": "\nCupeño",
+    "multitree": "\nAgua Caliente\nCupeno\nCupeño",
+    "lexvo": "\nCupeño [en]\nCupeño language [en]",
+    "elcat": "\nAgua Caliente\nCupeño"
+  },
+  "triggers": {
+    "lgcode": "\ncupan\ncupeno"
+  },
+  "identifier": {
+    "wals": "cup",
+    "multitree": "cup",
+    "endangeredlanguages": "2009"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Uto-Aztecan** **hh:hvb:Golla:California** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Cupeño (2009-cup) = Awakening [Project n.d.](cldf:project:nd:1)"
+  }
+}

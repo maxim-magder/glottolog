@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Biloxi",
+    "hid": "bll",
+    "level": "language",
+    "iso639-3": "bll",
+    "latitude": "31.32",
+    "longitude": "-89.1951",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2903780\nhttps://en.wikipedia.org/wiki/Biloxi_language\nhttps://phoible.org/languages/bilo1248\n[Biloxi](https://wals.info/languoid/lect/wals_code_blx)",
+    "timespan": "1886-01-01/1934-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dorsey:swanton:12**\n**haspelmath:kaufman_positional_2013**\n**hh:d:DorseySwanton:Biloxi-Ofo**\n**hh:d:Kaufman:Taneks**\n**hh:e:Brain:Tunica**\n**hh:e:Brainetal:Tunica**\n**hh:g:Einaudi:Biloxi**\n**hh:g:Einaudi:Biloxi:1974**\n**hh:hv:Kaufman:Lower-Mississippi**\n**hh:hv:Kaufman:Lower-Mississippi:2019**\n**hh:typ:Haskins:Biloxi**\n**hh:typ:Torres:Biloxi**\n**hh:v:Kaufman:Biloxi**\n**hh:w:Haas:Biloxi**"
+  },
+  "altnames": {
+    "wals": "\nBiloxi",
+    "ruhlen (1987)": "\nBiloxi",
+    "moseley & asher (1994)": "\nBiloxi",
+    "lexvo": "\nBiloxi [en]\nBiloxi language [en]",
+    "hhbib_lgcode": "\nTanek"
+  },
+  "triggers": {
+    "lgcode": "\nbiloxi"
+  },
+  "identifier": {
+    "wals": "blx"
+  },
+  "classification": {
+    "sub": "**hh:hv:OliverioRankin:Virginia-Siouan**",
+    "subrefs": "\n**hh:hv:OliverioRankin:Virginia-Siouan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Biloxi (bll-bll) = 10 (Extinct)."
+  }
+}

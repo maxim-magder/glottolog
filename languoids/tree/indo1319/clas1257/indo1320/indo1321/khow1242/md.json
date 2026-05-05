@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Khowar",
+    "hid": "khw",
+    "level": "language",
+    "iso639-3": "khw",
+    "latitude": "36.0",
+    "longitude": "72.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Khowar](https://endangeredlanguages.com/lang/5647)\n[Khowar](https://wals.info/languoid/lect/wals_code_khw)\nhttps://en.wikipedia.org/wiki/Khowar\nhttps://www.wikidata.org/entity/Q938216"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bashir:00**\n**cldf:bashir:89**\n**cldf:cardona:jain:ed:03:8**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:edelman:94**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:obrien:95**\n**cldf:okrent:ed:00:4**\n**hh:d:Bashir:Khowar**\n**hh:d:Naji:Khowar**\n**hh:d:Sloan:Khowar**\n**hh:d:Solan:Khowar**\n**hh:g:Bashir:Khowar**\n**hh:hewtyp:Biddulph:Hindoo-Koosh**\n**hh:hs:Edelman:Dardskie-Nuristani**\n**hh:htyp:Edelman:Dardic-Nuristani**\n**hh:hv:Fussman:Dardes**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:hvld:Bashir:Dardic**\n**hh:hvw:Grierson:8:II**\n**hh:hwsoc:Decker:Chitral**\n**hh:s:EndresenKristiansen:Khowar**\n**hh:s:Mulk:Khowar**\n**hh:s:Razi:Khowar**\n**hh:s:Tumanovich:Chitralskago**\n**hh:sd:OBrien:Khowar**\n**hh:t:Buddruss:Khowar**\n**hh:typ:Appelgren:Khowar**\n**hh:v:Bashir:Khowar-Contact**\n**hh:v:Bashir:Khowar-Kalasha**\n**hh:v:Buddruss:Kivi**\n**hh:w:Capus:Pre-Pamiriennes**\n**hh:w:Paxalina:Kivi**"
+  },
+  "altnames": {
+    "wals": "\nKhowar",
+    "ruhlen (1987)": "\nChitrali",
+    "moseley & asher (1994)": "\nKhowar",
+    "multitree": "\nArniya\nArniyā\nArnyiā\nChitrali\nChitrari\nCitrali\nCitālī\nDardu\nJovaro\nKashkari\nKhawar\nKhowar\nKhowār\nPatu\nQashqari\nQāšqarī\nČitarī",
+    "lexvo": "\nJęzyk khowar [pl]\nKhowar [de]\nKhowar language [en]\nKowareg [br]\nكهوار [ar]\nکھوار [pnb]\nکھووار [ur]\nகோவார் மொழி [ta]\nภาษาโควาร์ [th]",
+    "elcat": "\nArniya\nArniyā\nArnyiā\nChitrali\nChitrari\nCitrali\nCitālī\nDardu\nKashkari\nKhawar\nKhowar\nKhowār\nPatu\nQashqari\nQāšqarī\nČitarī",
+    "hhbib_lgcode": "\nChitrali\nChitralskogo\nKhowar in Torkhow-Mulkhow and Biyar in Upper Chitral\nKivi\nKiwi almost identical with the Khowar of Chitral\nKxovar\nTchatrare"
+  },
+  "triggers": {
+    "lgcode": "\nkivi\nkhowar\nchitrali"
+  },
+  "identifier": {
+    "wals": "khw",
+    "multitree": "khw",
+    "endangeredlanguages": "5647"
+  },
+  "classification": {
+    "sub": "**hh:egt:DiCarlo:Kalasha**:8-12 **hh:st:Petersen:Kalasha**:23-24 **hh:hwsoc:Decker:Chitral**:34-37 **hh:hv:VasilyevKogan:Vostocnodardskoj** (**hh:v:Bashir:Khowar-Kalasha** fails to identify shared non-areal innovations with Kalasha)",
+    "subrefs": "\n**hh:egt:DiCarlo:Kalasha**\n**hh:v:Bashir:Khowar-Kalasha**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:st:Petersen:Kalasha**\n**hh:hwsoc:Decker:Chitral**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Khowar (5647-khw) = At risk (20 percent certain, based on the evidence available) [Bashir 2003](cldf:bashir:03)"
+  }
+}

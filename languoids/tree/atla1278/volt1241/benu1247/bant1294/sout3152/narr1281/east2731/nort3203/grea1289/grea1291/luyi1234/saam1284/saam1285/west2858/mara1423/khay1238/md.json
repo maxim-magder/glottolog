@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Khayo",
+    "hid": "lko",
+    "level": "language",
+    "iso639-3": "lko",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "UG"
+    ],
+    "longitude": "34.25",
+    "latitude": "0.54",
+    "links": "\nhttps://www.wikidata.org/entity/Q6401095\nhttps://en.wikipedia.org/wiki/Khayo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:33914**\n**hh:hvtyp:Kanyoro:Abaluyia**\n**hh:phon:Etakwa:Olutura**\n**hh:typ:Marlo:Khayo**\n**hh:typ:Marlo:Tura**\n**hh:typ:Wabwire:Olukhayo**\n**iso6393:2007-171**"
+  },
+  "altnames": {
+    "multitree": "\nKhayo",
+    "lexvo": "\nKhayo [en]\nOlukhayo [en]",
+    "hhbib_lgcode": "\nTura\nXYO\nis Khayo"
+  },
+  "triggers": {
+    "lgcode": "\nkhayo"
+  },
+  "identifier": {
+    "multitree": "luy-kha"
+  },
+  "classification": {
+    "sub": "**hh:v:Mohlig:Kanyoro** **hh:hvtyp:Kanyoro:Abaluyia**",
+    "subrefs": "\n**hh:v:Mohlig:Kanyoro**\n**hh:hvtyp:Kanyoro:Abaluyia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Olukhayo (lko-lko) = 4 (Educational)."
+  }
+}

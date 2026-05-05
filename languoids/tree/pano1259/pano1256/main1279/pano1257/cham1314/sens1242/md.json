@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Sensi",
+    "hid": "sni",
+    "level": "language",
+    "iso639-3": "sni",
+    "latitude": "-7.24999",
+    "longitude": "-74.9166",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7451029\nhttps://en.wikipedia.org/wiki/Sensi_language",
+    "timespan": "1950-01-01/1950-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Izaguirre:Tribus-Peru**\n**hh:h:Sagols:Pampa-Sacramento**\n**hh:h:Villarejo:Selva**\n**hh:hvb:Fleck:Panoan**\n**hh:hvw:Tessmann:NOPerus**"
+  },
+  "altnames": {
+    "multitree": "\nMananahua\nSensi\nSenti\nTenti",
+    "lexvo": "\nSensi [en]",
+    "hhbib_lgcode": "\nSencis\nSensis\nSsenssi"
+  },
+  "identifier": {
+    "multitree": "sni"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sensi (sni-sni) = 10 (Extinct)."
+  }
+}

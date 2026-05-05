@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tanzanian Sign Language",
+    "hid": "tza",
+    "level": "language",
+    "iso639-3": "tza",
+    "latitude": "-6.82431",
+    "longitude": "39.127",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7684177\nhttps://en.wikipedia.org/wiki/Tanzanian_sign_languages\n[Tanzania Sign Language](https://wals.info/languoid/lect/wals_code_tsl)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:CVT:Tanzania-Sign**\n**hh:d:Muzale:Tanzanian-Sign**\n**hh:h:Muzale:Tanzanian-Sign**\n**hh:lde:Lee:Deaf-Tanzania**\n**hh:soc:Benjamin:Tanzanian-Sign**\n**hh:soc:Rothe:Deaf-Arusha**\n**hh:soc:Rothe:Deaf-Arusha:2020**\n**hh:typ:Msuya:Tanzanian-Sign**\n**hh:typ:Muganda:Tanzanian-Sign**\n**hh:v:MretaMuzale:Alama-Tanzania**"
+  },
+  "altnames": {
+    "wals": "\nTanzania Sign Language",
+    "multitree": "\n\"Lugha Ya Bubu\"\nLugha Ya Alama\nTanzanian Sign Language",
+    "lexvo": "\nTanzanian Sign Language [en]",
+    "hhbib_lgcode": "\nLugha ya Alama ya Tanzania (LAT)\nTanzanian Sign Language (TSL)"
+  },
+  "triggers": {
+    "lgcode": "\nalama"
+  },
+  "identifier": {
+    "wals": "tsl",
+    "multitree": "tza"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tanzanian Sign Language (tza-tza) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Independent origin (**hh:v:MretaMuzale:Alama-Tanzania**, **hh:d:Muzale:Tanzanian-Sign**:vi)",
+    "subrefs": "\n**hh:d:Muzale:Tanzanian-Sign**\n**hh:v:MretaMuzale:Alama-Tanzania**"
+  }
+}

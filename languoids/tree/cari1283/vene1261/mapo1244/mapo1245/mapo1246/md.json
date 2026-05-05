@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mapoyo",
+    "hid": "mcg",
+    "level": "language",
+    "iso639-3": "mcg",
+    "latitude": "5.96952",
+    "longitude": "-67.2581",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO",
+      "VE"
+    ],
+    "links": "\n[Mapoyo](https://endangeredlanguages.com/lang/3012)\nhttps://www.wikidata.org/entity/Q56946\nhttps://phoible.org/languages/mapo1246\n[Mapoyo](https://wals.info/languoid/lect/wals_code_mpy)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:gildea:nd**\n**cldf:lewis:ed:09**\n**cldf:mattei-muller:85**\n**cldf:np:nd:264**\n**cldf:voort:ed:00:3**\n**fabreall2009ann:Caribe_mapoyo00**\n**fabreall2009ann:Caribe_mapoyo01**\n**fabreall2009ann:Caribe_mapoyo02**\n**fabreall2009ann:Caribe_mapoyo03**\n**fabreall2009ann:Caribe_mapoyo04**\n**fabreall2009ann:Caribe_mapoyo06**\n**fabreall2009ann:Caribe_mapoyo07**\n**fabreall2009ann:Caribe_mapoyo08**\n**fabreall2009ann:Caribe_mapoyo09**\n**fabreall2009ann:Caribe_mapoyo10**\n**fabreall2009ann:Caribe_mapoyo11**\n**fabreall2009ann:Caribe_mapoyo13**\n**fabreall2009ann:Caribe_mapoyo14**\n**hh:hv:Girard:Carib**\n**hh:hw:Tavera-Acosta:Enelsur**\n**hh:phon:Medina:Mapoyo**\n**hh:phon:Villalon:Mapoyo**\n**hh:typ:Granadillo:Mapoyo**\n**hh:typ:Mattei-Muller:Pemono**\n**hh:v:Granadillo:Mapoyo**\n**hh:v:Muller:Panare-Mapoya**\n**hh:w:Mattei-Muller:Mapoya**"
+  },
+  "altnames": {
+    "wals": "\nMapoyo",
+    "ruhlen (1987)": "\nMapoyo-Yavarana",
+    "moseley & asher (1994)": "\nMapoyo",
+    "multitree": "\nMapayo\nMapoye\nMapoyo\nMapoyo-Yavarana\nMopoi\nNepoye\nWanai",
+    "lexvo": "\nMapoja lingvo [eo]\nMapoyo [en]\nMapoyo language [en]\nMapójó [is]",
+    "elcat": "\nMapayo\nMapoye\nMapoyo\nMapoyo-Yavarana\nMopoi\nNepoye\nWanai"
+  },
+  "triggers": {
+    "lgcode": "\nmapoyo\nsalle\nwanai\ntovar\nmapoya"
+  },
+  "identifier": {
+    "wals": "mpy",
+    "multitree": "mcg",
+    "endangeredlanguages": "3012"
+  },
+  "classification": {
+    "sub": "**hh:hv:Meira:Cariban:2006**, **hh:hewsoc:Howard:Waiwai**, **hh:hv:Gildea:Cariban**",
+    "subrefs": "\n**hh:hv:Meira:Cariban:2006**\n**hh:hewsoc:Howard:Waiwai**\n**hh:hv:Gildea:Cariban**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mapoyo (3012-mcg) = Critically Endangered (100 percent certain, based on the evidence available) (Mapoyo has 2-3 speakers (both Tania Granadillo and Mattéi Muller each claim to know 2-3 surviving elderly speakers, and it is not clear to me that their lists contain all the same speakers).) [Gildea n.d.](cldf:gildea:nd)"
+  }
+}

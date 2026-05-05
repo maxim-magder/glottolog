@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kaningi",
+    "hid": "kzo",
+    "level": "language",
+    "iso639-3": "kzo",
+    "latitude": "-1.71316",
+    "longitude": "13.6111",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35683\nhttps://en.wikipedia.org/wiki/Kaning%27i_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:31133**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Niama-Niama:Bantu-Gabon**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:ld:Kwenzi:Lekaningi**\n**hh:phon:Evouna:Lekaningi**\n**hh:typ:Mba:Lekaningi**\n**hh:typ:Munguengui:Lekaningi**"
+  },
+  "altnames": {
+    "multitree": "\nBakanike\nKaningi\nLekaningi",
+    "lexvo": "\nKaningi [en]",
+    "hhbib_lgcode": "\nB602_Kaningi_Nord\nB602_Kaningi_Sud\nBakaningi (Likaningi)\nKaning'i (Masuku) Kaningi B602\nKaningi B64\nKaning’i (Masuku) Kaningi B602\nLekaningi\nLekaningi (B602)"
+  },
+  "triggers": {
+    "lgcode": "\nrecits AND recension"
+  },
+  "identifier": {
+    "multitree": "kzo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:163, 184, 186 **hh:hv:Niama-Niama:Bantu-Gabon** **hh:hvw:Adam:Teke**:50-52 **hh:hv:BoukaNdamba:Congo-Brazzaville**:42-45 **hh:hv:Alewijnseetal:Gabon** **hh:hv:Grollemund:Bantu-Nord-Ouest**:380",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Niama-Niama:Bantu-Gabon**\n**hh:hvw:Adam:Teke**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kaningi (kzo-kzo) = 6b* (Threatened)."
+  }
+}

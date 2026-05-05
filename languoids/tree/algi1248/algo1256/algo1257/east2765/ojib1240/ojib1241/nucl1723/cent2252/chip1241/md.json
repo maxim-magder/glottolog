@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Chippewa",
+    "hid": "ciw",
+    "level": "language",
+    "iso639-3": "ciw",
+    "latitude": "47.347",
+    "longitude": "-94.2738",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Chippewa](https://grambank.clld.org/languages/chip1241)\n[Chippewa (Red Lake and Pillager)](https://wals.info/languoid/lect/wals_code_cpw)\n[Ojibwe (Minnesota)](https://wals.info/languoid/lect/wals_code_ojm)\n[Southwestern Ojibwa](https://endangeredlanguages.com/lang/4171)\nhttps://en.wikipedia.org/wiki/Chippewa_language\nhttps://www.wikidata.org/entity/Q2963878"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:647**\n**cldf:baraga:78:1**\n**cldf:baraga:78:2**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:rhodes:06**\n**cldf:schuster:70**\n**hh:d:Baraga:Otchipwe**\n**hh:d:Nichols:Minnesota-Ojibwe**\n**hh:e:Ritzenthaler:Southwestern-Chippewa**\n**hh:g:Baraga:Otchipwe**\n**hh:g:Baraga:Otchipwe:1850**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hvw:Valentine:Ojibwe**\n**hh:s:Schoolcraft:Chippewa**\n**hh:s:Summerfield:Chippeway**\n**hh:styp:Sullivan:Ojibwe**\n**hh:styp:Sullivan:Ojibwe:2020**\n**hh:sv:Adam:Cree-Chippeway**\n**hh:t:Nichols:Ojibwe**\n**hh:typ:Schwartz:Southwestern-Ojibwe-Pronouns**\n**ldh:item_1945302**\n**ldh:item_1945306**\n**ldh:item_403714**\n**mpieva:Baraga1992Adiction**\n**mpieva:Nichols1997Aconcise**\n**mpieva:Williams1991Thedogsc**"
+  },
+  "altnames": {
+    "wals": "\nChippewa (Red Lake and Pillager)\nOjibwe (Minnesota)",
+    "wals other": "\nMinnesota Ojibwe\nOjibwa (Southwestern)\nOjibwe (Southwestern)",
+    "ruhlen (1987)": "\nChippewa\nOjibwa (South-western)",
+    "moseley & asher (1994)": "\nOjibwa",
+    "multitree": "\nChipewa\nChipeway\nChippewa\nChippeway\nOjibwa\nOjibway\nOjibwe\nOjibwe (Minnesota)\nOyibua\nSouthwestern Ojibwa",
+    "lexvo": "\nChippewa [en]\nChippewa language [en]",
+    "hhbib_lgcode": "\nChippeway bords du Lac Superieur of Baraga\nChippeways\nMichigan Chippewa\nMinnesota Chippewa\nSouthwestern Ojibwe",
+    "elcat": "\nAnishinabe\nChipewa\nChipeway\nChippewa\nChippeway\nOjibwa\nOjibway\nOjibwe\nOjibwe (Minnesota)\nSouthwestern Ojibwa"
+  },
+  "triggers": {
+    "lgcode": "\notchipwe\nanishinaabe\nwalpole\nojibway"
+  },
+  "identifier": {
+    "wals": "ojm;cpw",
+    "multitree": "ciw",
+    "endangeredlanguages": "4171"
+  },
+  "classification": {
+    "sub": "**hh:hv:RhodesTodd:Subarctic-Algonquian**:62",
+    "subrefs": "\n**hh:hv:RhodesTodd:Subarctic-Algonquian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southwestern Ojibwa (4171-ciw) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

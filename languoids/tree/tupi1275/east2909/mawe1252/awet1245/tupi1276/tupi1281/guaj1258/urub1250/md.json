@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Urubú-Kaapor",
+    "hid": "urb",
+    "level": "language",
+    "iso639-3": "urb",
+    "latitude": "-2.46455",
+    "longitude": "-46.2204",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kaapor](https://endangeredlanguages.com/lang/3151)\n[UrubuKaapor](https://lexibank.clld.org/languages/gerarditupi-UrubuKaapor)\n[Urubú-Kaapor](https://wals.info/languoid/lect/wals_code_urk)\nhttps://en.wikipedia.org/wiki/Ka%CA%BCapor_language\nhttps://phoible.org/languages/urub1250\nhttps://www.wikidata.org/entity/Q13893353"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:balee:03**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:kakumasu:kakumasu:88**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**cldf:stolz:96**\n**fabreall2009ann:747**\n**fabreall2009ann:Tupi_tembe_y_tembe-turiwara33**\n**fabreall2009ann:Tupi_tupinamba00**\n**fabreall2009ann:Tupi_tupinamba02**\n**fabreall2009ann:Tupi_tupinamba03**\n**fabreall2009ann:Tupi_tupinamba04**\n**fabreall2009ann:Tupi_tupinamba05**\n**fabreall2009ann:Tupi_tupinamba06**\n**fabreall2009ann:Tupi_tupinamba07**\n**fabreall2009ann:Tupi_tupinamba08**\n**fabreall2009ann:Tupi_tupinamba09**\n**fabreall2009ann:Tupi_tupinamba10**\n**fabreall2009ann:Tupi_tupinamba11**\n**fabreall2009ann:Tupi_tupinamba13**\n**fabreall2009ann:Tupi_tupinamba14**\n**fabreall2009ann:Tupi_tupinamba16**\n**fabreall2009ann:Tupi_tupinamba17**\n**fabreall2009ann:Tupi_tupinamba20**\n**fabreall2009ann:Tupi_tupinamba21**\n**fabreall2009ann:Tupi_tupinamba22**\n**fabreall2009ann:Tupi_tupinamba23**\n**fabreall2009ann:Tupi_tupinamba24**\n**fabreall2009ann:Tupi_tupinamba29**\n**fabreall2009ann:Tupi_tupinamba30**\n**fabreall2009ann:Tupi_tupinamba32**\n**fabreall2009ann:Tupi_tupinamba33**\n**fabreall2009ann:Tupi_tupinamba35**\n**fabreall2009ann:Tupi_tupinamba37**\n**fabreall2009ann:Tupi_tupinamba38**\n**fabreall2009ann:Tupi_tupinamba39**\n**fabreall2009ann:Tupi_tupinamba41**\n**fabreall2009ann:Tupi_tupinamba42**\n**fabreall2009ann:Tupi_tupinamba44**\n**fabreall2009ann:Tupi_tupinamba45**\n**hh:d:KakumasuKakumasu:Kaapor**\n**hh:e:Balee:Kaapor**\n**hh:e:Huxley:Urubu**\n**hh:e:Huxley:Urubu:1963**\n**hh:e:Ribeiro:Urubus**\n**hh:g:Lopez:Kaapor**\n**hh:hv:Lemle:Tupi-Guarani**\n**hh:hv:Lopes:Tupis**\n**hh:phon:Kakumasu:Urubu:1964**\n**hh:phon:Kakumasu:Urubu:1968**\n**hh:s:Correa:Kaapor**\n**hh:s:Kakumasu:Urubu**\n**hh:s:Kakumasu:Urubu-Kaapor**\n**hh:sd:Caldas:Kaapor**\n**hh:w:Hurley:Urubu**\n**hh:w:Nogueira:Maranhao**\n**hh:w:Rice:Urubu**\n**iso6393:2007-058**\n**mpieva:Kakumasu1988Dicionar**\n**sil16:18717**\n**sil16:22675**\n**sil16:47286**\n**sil16:50032**\n**sil16:51117**"
+  },
+  "altnames": {
+    "glottolog": "\nUrubu-Kaapor",
+    "wals": "\nUrubú-Kaapor",
+    "moseley & asher (1994)": "\nUrubu",
+    "multitree": "\nAmanage\nAmanajo\nAmanajé\nAmanayé\nAnambé\nCaapor\nGuajá\nKa'apor\nKa'apór\nKaapor\nKaaporté\nManajo\nManaxo\nManaze\nManazo\nUrubú\nUrubú-Ka'apór\nUrubú-Kaapor\nUrubú-kaapor",
+    "lexvo": "\nKaapor [en]\nUrubú-Kaapor [en]",
+    "hhbib_lgcode": "\nUrubu\nUrubus\nUrubú",
+    "elcat": "\nAmanage\nAmanajé\nAnambé\nCaapor\nGuajá\nKa'apor\nKa'apór\nKaapor\nKaaporté\nManajo\nManaxo\nManaze\nManazo\nUrubú\nUrubú-Ka'apór\nUrubú-Kaapor"
+  },
+  "triggers": {
+    "lgcode": "\nNOT um AND NOT os AND NOT tupi AND NOT the AND NOT e AND urubu\nkaapor\ngerativa\nurubus"
+  },
+  "identifier": {
+    "wals": "urk",
+    "multitree": "urb",
+    "endangeredlanguages": "3151"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cabral:Tupi-Guarani:VIII**",
+    "subrefs": "\n**hh:hv:Cabral:Tupi-Guarani:VIII**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kaapor (3151-urb) = Endangered (20 percent certain, based on the evidence available) [Crevels 2007](cldf:crevels:07)"
+  }
+}

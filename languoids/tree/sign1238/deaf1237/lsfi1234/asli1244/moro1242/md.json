@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Moroccan Sign Language",
+    "hid": "xms",
+    "level": "language",
+    "iso639-3": "xms",
+    "latitude": "32.139",
+    "longitude": "-7.69607",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6913107\nhttps://en.wikipedia.org/wiki/Moroccan_Sign_Language"
+  },
+  "altnames": {
+    "multitree": "\nMoroccan Sign Language",
+    "lexvo": "\nMoroccan Sign Language [en]",
+    "hhbib_lgcode": "\nMoroccan Sign"
+  },
+  "identifier": {
+    "multitree": "xms"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Moroccan Sign Language (xms-xms) = 5 (Developing)."
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Wismann:Signs-Morocco**\n**hh:h:Kamei:Afurika-Shuwa**"
+  },
+  "classification": {
+    "sub": "Said to be ASLic according to **hh:h:Asonye:Sign-Africa(**):787 but without pointing to underlying evidence.",
+    "subrefs": "\n**hh:h:Asonye:Sign-Africa**"
+  }
+}

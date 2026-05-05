@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Iguta",
+    "hid": "nar",
+    "level": "language",
+    "iso639-3": "nar",
+    "latitude": "9.98505",
+    "longitude": "8.81708",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Anaguta\nhttps://www.wikidata.org/entity/Q5621686"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:diamond:64**\n**hh:e:Diamond:Anaguta**\n**hh:h:Bertho:Nigeria**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvtyp:Bouquiaux:Plateau**\n**hh:hvw:Shimizu:Jos**\n**hh:ld:Voorhoeve:Benue-Congo-Noun-Class**\n**hh:w:Armstrong:West-African**\n**hh:w:Gowers:Bauchi**\n**hh:w:Shimizu:Five**\n**hh:wsoc:Decker:Iguta**"
+  },
+  "altnames": {
+    "multitree": "\nAnaguta\nIguta\nNaraguta",
+    "lexvo": "\nIguta [en]",
+    "hhbib_lgcode": "\nAnabor\nAnagohom\nAnaguta\nAndigwong\nAndirigizah\nAndoho/Zangam\nNaraguta"
+  },
+  "triggers": {
+    "lgcode": "\nanaguta"
+  },
+  "identifier": {
+    "multitree": "nar"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:Jos**",
+    "subrefs": "\n**hh:hvw:Shimizu:Jos**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Iguta (nar-nar) = 6b (Threatened)."
+  }
+}

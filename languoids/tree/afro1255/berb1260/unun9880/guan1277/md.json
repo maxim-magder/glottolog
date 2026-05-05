@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Guanche",
+    "hid": "gnc",
+    "level": "language",
+    "iso639-3": "gnc",
+    "latitude": "28.0",
+    "longitude": "-15.5",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35762\nhttps://en.wikipedia.org/wiki/Guanche_language",
+    "timespan": "1341-01-01/1650-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Proto-Berbere**:32-33 **hh:hv:Kossmann:Berber:2020**:287-288",
+    "subrefs": "\n**hh:hv:Kossmann:Proto-Berbere**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cook:00:2**\n**cldf:espinosa:07**\n**cldf:gambier:94**\n**eballiso2009:16232**\n**eballiso2009:16234**\n**eballiso2009:16235**\n**eballiso2009:16475**\n**eballiso2009:23282**\n**eballiso2009:24816**\n**eballiso2009:26274**\n**eballiso2009:29091**\n**eballiso2009:35442**\n**eballiso2009:37817**\n**eballiso2009:37819**\n**eballiso2009:38388**\n**eballiso2009:38404**\n**eballiso2009:39729**\n**eballiso2009:40999**\n**eballiso2009:41529**\n**eballiso2009:42397**\n**eballiso2009:43153**\n**eballiso2009:43409**\n**eballiso2009:47658**\n**eballiso2009:47659**\n**eballiso2009:47660**\n**eballiso2009:5075**\n**eballiso2009:51799**\n**eballiso2009:53057**\n**eballiso2009:55002**\n**eballiso2009:56933**\n**eballiso2009:5758**\n**eballiso2009:5759**\n**eballiso2009:57908**\n**eballiso2009:9365**\n**hh:e:Blench:Canaries**\n**hh:e:Blench:Canaries:2021**\n**hh:e:Vycichl:Kanarischen**\n**hh:hel:Sommer:Survey**\n**hh:hv:Zyhlarz:Kanarische**\n**hh:ld:Abercromby:Canarias**\n**hh:ld:Bute:Tenerife**\n**hh:ld:Trapero:Guanche**\n**hh:ld:Wolfel:Guanche**\n**hh:ld:Wolfel:Kanarischen**\n**hh:lde:Vycichl:Iles-Canaries**\n**hh:v:Reyes:Canarias**\n**hh:w:Basset:Lexicographie**\n**hh:w:Osorio:Guanche**\n**hh:w:Wolfel:Canariae**\n**hh:w:deEspinosa:Guanches**"
+  },
+  "altnames": {
+    "multitree": "\nGuanche\nSpain",
+    "lexvo": "\nGuanche [de]\nGuanche language [en]\nGuantxera [eu]\nGuanxe [ca]\nGuanči [hr]\nGwantcheg [br]\nIdioma guanche [an]\nJęzyk Guanczów [pl]\nГуанчские языки [ru]\nДавньоканарські мови [uk]\nグアンチェ語 [ja]",
+    "hhbib_lgcode": "\nKel-Oui plus numerals 1-10 in Guanche from 1341"
+  },
+  "triggers": {
+    "lgcode": "\nguanches\ncanaries\ncanarias\ntenerife\nguanche\nkanarische\ncanariae\ncanary\nkanarischen\ncanaria"
+  },
+  "identifier": {
+    "multitree": "gnc;guan"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Guanche (4-) = Extinct"
+  }
+}

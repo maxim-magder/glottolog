@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Campidanese Sardinian",
+    "hid": "sro",
+    "level": "language",
+    "iso639-3": "sro",
+    "latitude": "39.0566",
+    "longitude": "9.03935",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Campidanese Sardinian](https://endangeredlanguages.com/lang/1231)\n[Campidanese Sardinian](https://grambank.clld.org/languages/camp1261)\n[Sardinian](https://wals.info/languoid/lect/wals_code_srd)\nhttps://en.wikipedia.org/wiki/Campidanese_Sardinian\nhttps://phoible.org/languages/camp1261\nhttps://www.wikidata.org/entity/Q35348"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blasco:86**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cristofaro:ramat:66**\n**cldf:ed:10**\n**cldf:lausberg:72**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:porru:75**\n**cldf:roca:99**\n**cldf:wagner:84**\n**hh:d:Casciu:Sardu-Campidanesu**\n**hh:d:Lepori:Sardo**\n**hh:d:Lepori:Sardo-Campidanese**\n**hh:g:Jones:Sardinian**\n**hh:hld:Jones:Sardinia**\n**hh:htyp:Mensching:Sardinian**\n**hh:ld:Katz:Campidanese**\n**hh:phon:Bolognesi:Campidanian**\n**hh:phonv:Virdis:Sardo**\n**hh:s:Atzori:Campidanese**\n**hh:s:CSNCSS:Campidanese**\n**hh:s:Ferrer:Sarda**\n**hh:s:Jones:Sardinian**\n**hh:s:Lepori:Sarda-Campidanesus**\n**hh:s:Piras:Sulcis**\n**hh:s:Porru:Sardo**\n**hh:s:Rossi:Sardu**\n**hh:sv:Lupinu:Sarda**\n**hh:vd:Bohne:Sarrabus**\n**hh:vphon:Wagner:Sudsardischen**\n**hh:vtyp:Kanazawa:Sarudinia**"
+  },
+  "altnames": {
+    "wals": "\nSardinian",
+    "wals other": "\nSardinian (Campidanese)",
+    "ruhlen (1987)": "\nSardinian",
+    "moseley & asher (1994)": "\nSardinian",
+    "multitree": "\nCampidanese\nCampidanese Sardinian\nCampidanian Sardinian\nCampidanien\nCampidese\nSardinian\nSardinian, Campidanese\nSardo campidanés\nSardu\nSouth Sardinian",
+    "lexvo": "\nCampidanese Sardinian [en]",
+    "hhbib_lgcode": "\nCampidanese\nCampidanesisch\nSardinian-Campidanese\nSardo\nSarrabus\nSarudinia\nSouthern (Campidanese)\nSulcis",
+    "elcat": "\nCampidanese\nCampidanese Sardinian\nCampidanian Sardinian\nCampidese\nSardinian\nSardu\nSouth Sardinian"
+  },
+  "triggers": {
+    "lgcode": "\ncampidanese\nsardo"
+  },
+  "identifier": {
+    "wals": "srd",
+    "multitree": "sro",
+    "endangeredlanguages": "1231"
+  },
+  "classification": {
+    "sub": "**hh:htyp:Mensching:Sardinian**:270-272 **hh:sv:Lupinu:Sarda**:27",
+    "subrefs": "\n**hh:sv:Lupinu:Sarda**\n**hh:htyp:Mensching:Sardinian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Campidanese Sardinian (1231-sro) = Vulnerable (60 percent certain, based on the evidence available) [Moseley 2007](cldf:moseley:07)"
+  }
+}

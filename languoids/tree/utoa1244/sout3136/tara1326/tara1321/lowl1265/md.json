@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Western Tarahumara",
+    "hid": "tac",
+    "level": "language",
+    "iso639-3": "tac",
+    "latitude": "27.3512",
+    "longitude": "-108.0559",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Lowland Tarahumara](https://grambank.clld.org/languages/lowl1265)\n[Tarahumara](https://endangeredlanguages.com/lang/3453)\n[Tarahumara (Western)](https://wals.info/languoid/lect/wals_code_twe)\nhttps://www.wikidata.org/entity/Q15616384"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:yasugi:95**\n**hh:b:Merrill:Tarahumara**\n**hh:ed:Merrill:Tarahumara**\n**hh:ed:Steffel:Tarahumarisches**\n**hh:g:Burgess:Western-Tarahumara**\n**hh:g:Valdez:Urique-Tarahumara**\n**hh:hdial:Eglandetal:Mexico**\n**hh:hv:Miller:Uto-Aztecan:1983**\n**hh:hvld:Valinas:Guazapar**\n**hh:phon:Burgess:Tarahumara**\n**hh:s:Guadalaxara:Tarahumares-Guazapares**\n**hh:s:Tellechea:Tarahumar**\n**hh:typ:Hurch:Tarahumara**\n**hh:typ:Valdez:Urique-Tarahumara**\n**hh:wsoc:Valinas:Tarahumara**\n**mpieva:Guadalaxara1683Compendi**\n**sil16:10343**\n**sil16:10369**\n**sil16:15445**\n**sil16:15446**\n**sil16:18401**\n**sil16:22962**\n**sil16:34100**"
+  },
+  "altnames": {
+    "wals": "\nTarahumara (Western)",
+    "wals other": "\nRocoroibo\nW Tarahumara\nW. Tarahumara\nWestern Tarahumara",
+    "ruhlen (1987)": "\nTarahumara",
+    "moseley & asher (1994)": "\nTarahumara",
+    "multitree": "\nBaja Tarahumara\nRalámuli de la Tarahumara Baja\nRocoroibo\nSouth-western\nTarahumara\nTarahumara (Western)\nTarahumara Baja\nTarahumara del Poniente\nTarahumara del Suroeste\nTarahumara nord-occidental\nTarahumara noroccidental\nTarahumara, Lowland\nTaraumara\nTubare\nVorohio\nWestern\nWestern Tarahumara",
+    "lexvo": "\nLowland Tarahumara [en]",
+    "hhbib_lgcode": "\nBacusinare\nChinipas\nChinipas (Cerocahui-Guazapares-Chínipas)\nGuadalaxara served in Tarahumara missions located well to the north and east of Guazapares (mainly Matachic) in the period between 1674 and 1681 and the data is closest to modern W Tarahumara\nGuasapar\nGuazapar\nGuazapar (data from de Guadalaxara 1683)\nLowland Tarahumara\nRocoroibo\nSteffel worked in the same missions as Guadalaxara\nTamahumara Oeste\nTarahumar Oeste\nTarahumara mainly from Tellechea\nTarahumara-Western\nUrique Tarahumara\nW Tarahumara\nWestern Tarahumara",
+    "elcat": "\nRocoroibo\nSouth-western\nSouthwestern\nTarahumara\nTarahumara del Suroeste\nTaraumara\nTubare\nVorohio",
+    "glottolog": "\nLowland Tarahumara"
+  },
+  "triggers": {
+    "lgcode": "\nastronauts\nwestern AND tarahumara\ntarahumares"
+  },
+  "identifier": {
+    "wals": "twe",
+    "multitree": "twr;tac",
+    "endangeredlanguages": "3453"
+  },
+  "classification": {
+    "sub": "**hh:h:Caballero:Tarahumara** **hh:g:Villalpando:Tarahumara-Turuachi**:18-28",
+    "subrefs": "\n**hh:g:Villalpando:Tarahumara-Turuachi**\n**hh:h:Caballero:Tarahumara**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tarahumara (3453) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

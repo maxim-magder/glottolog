@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Dungan",
+    "hid": "dng",
+    "level": "language",
+    "iso639-3": "dng",
+    "latitude": "42.7292",
+    "longitude": "76.8382",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KG",
+      "KZ",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "links": "\n[Dungan](https://endangeredlanguages.com/lang/4096)\nhttps://en.wikipedia.org/wiki/Dungan_language\nhttps://www.wikidata.org/entity/Q33050"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:hai:03**\n**cldf:hu:09**\n**cldf:lewis:ed:09**\n**cldf:ma:90**\n**cldf:np:nd:264**\n**hh:d:Imazov:Dunganskij**\n**hh:d:Jansansin:Dunganskij**\n**hh:d:Jansansin:Dungansko**\n**hh:d:Jansansin:Dungansko:2009**\n**hh:d:Jansansin:Tokmakskij**\n**hh:d:Salmi:Dungan**\n**hh:d:Yansansin:Dunganskij**\n**hh:g:Imazov:Dunganskogo**\n**hh:g:Lin:Donggan**\n**hh:g:Lin:Donggan:2012**\n**hh:g:Ma:Nanzhuang**\n**hh:g:Wang:Donggan**\n**hh:he:Tolstov:Srednej-Azii:1963**\n**hh:phon:Imazov:Dunganskogo**\n**hh:phonv:Zavyalova:Gansu**\n**hh:s:ChenLi:Xiangyuan**\n**hh:s:DragunovDragunova:Dunganskij**\n**hh:s:DragunowDragunow:Dunganische**\n**hh:s:Dyer:Dungan**\n**hh:s:Jansansin:Gansun-Sansi**\n**hh:s:Kalimov:Dunganskij**\n**hh:s:Rimsky-Korsakoff:Dungan**\n**hh:sd:Hai:Donggan**\n**hh:typ:Dragunow:Dunganskoj**\n**hh:typ:Hai:Donggan**\n**hh:typ:Honkasalo:Kazakhstani-Gansu-Dungan**\n**hh:typ:Zavyalova:Dungan**\n**hh:v:Tsunvazy:Dunganskogo**\n**mpieva:Imazov1994Grammati**"
+  },
+  "altnames": {
+    "multitree": "\nDoungane\nDungan\nDungano\nDzhunyan\nHuizu\nKwuizwu\nTungan\nZwn'jan",
+    "lexvo": "\nDoungane [fr]\nDounganeg [br]\nDungaanin kieli [fi]\nDungan [en]\nDungan language [en]\nDungana lingvo [eo]\nDunganische Sprache [de]\nDunganish [gv]\nJęzyk dungański [pl]\nДунганский язык [ru]\nДунганська мова [uk]\nדונגאן [he]\nتۇڭگان تىلى [ug]\nภาษาดันกัน [th]\nドンガン語 [ja]\n回回话 [zh]\n둥간어 [ko]",
+    "hhbib_lgcode": "\nDonggan\nDongganyu\nDungane\nGansu Dungan\nKazakhstani Gansu Dungan\nShanxi\nTokmak\nXiangyuan",
+    "elcat": "\nDungan\nDzhunyan\nHuizu\nKwuizwu\nTungan\nZwn'jan\n東干語"
+  },
+  "triggers": {
+    "lgcode": "\nnanzhuang\ndunganskij\nquinghai\ndungan\ndonggan\nshaanxi\ndunganskogo\nzhongya\nguanzhong"
+  },
+  "identifier": {
+    "multitree": "dng",
+    "endangeredlanguages": "4096"
+  },
+  "classification": {
+    "sub": "**hh:s:Rimsky-Korsakoff:Dungan**:356",
+    "subrefs": "\n**hh:s:Rimsky-Korsakoff:Dungan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dungan (4096-dng) = Vulnerable (100 percent certain, based on the evidence available) (Dungan language class is offered in school within the Dungan communities, and code-switching between Dungan and Russian is very common due to widespread bilingualism. People who live outside the Dungan communities begin to shift to Russian.) [Hai 2003](cldf:hai:03)"
+  }
+}

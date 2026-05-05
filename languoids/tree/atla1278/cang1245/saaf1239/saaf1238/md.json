@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Saafi-Saafi",
+    "hid": "sav",
+    "level": "language",
+    "iso639-3": "sav",
+    "latitude": "14.625",
+    "longitude": "-17.0568",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36308\nhttps://en.wikipedia.org/wiki/Safen_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:941**\n**eballiso2009:28251**\n**eballiso2009:30830**\n**hh:d:BotnePouille:Saafi-Saafi**\n**hh:g:Mbodj:Saafi**\n**hh:g:Pouye:Saafi-Saafi:2012**\n**hh:g:Pouye:Senegal**\n**hh:hv:Merrill:Cangin**\n**hh:hvtyp:Drolc:Cangin**\n**hh:hvw:Williams:Cangin**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:phon:Dia:Saafi**\n**hh:phontyp:Ndiaye:Saafi-Saafi**\n**hh:s:Piquero:Saafi**\n**hh:s:Stanton:Saafi**\n**hh:wsoc:Williams:Cangin**\n**sil16:41185**\n**sil16:45293**\n**sil16:45296**\n**sil16:45297**\n**sil16:45304**\n**sil16:45307**\n**sil16:45309**\n**sil16:50757**\n**sil16:50758**\n**sil16:50759**\n**sil16:50760**\n**sil16:50765**"
+  },
+  "altnames": {
+    "multitree": "\nSaafi\nSaafi-Saafi\nSafen\nSafi\nSafi-Safi\nSereer Saafen\nSerer-Safen\nSerere-Saafen",
+    "lexvo": "\nSaafi-Saafi [en]",
+    "hhbib_lgcode": "\nBoukou\nSaafi\nSafen\nSébikotane"
+  },
+  "triggers": {
+    "lgcode": "\nsibbeeruu\nndoof\nsaafi\nndunang{\nmuuma\nsafen"
+  },
+  "identifier": {
+    "multitree": "sav"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saafi-Saafi (sav-sav) = 5 (Developing). Recognized language (2005, Decree No. 2005-989 of 21 October)."
+  }
+}

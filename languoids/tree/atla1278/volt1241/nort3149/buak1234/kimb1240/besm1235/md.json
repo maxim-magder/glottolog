@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Besme",
+    "hid": "bes",
+    "level": "language",
+    "iso639-3": "bes",
+    "latitude": "9.59226",
+    "longitude": "16.0938",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Besme](https://endangeredlanguages.com/lang/2308)\nhttps://www.wikidata.org/entity/Q289832\nhttps://en.wikipedia.org/wiki/Besme_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:15029**\n**eballiso2009:15030**\n**hh:wsoc:IsaacRoberts:Besme**"
+  },
+  "altnames": {
+    "multitree": "\n'Unar\nBeseme\nBesemme\nBesme\nBodor\nHounar\nHuner",
+    "lexvo": "\nBesme [en]",
+    "elcat": "\n'Unar\nBeseme\nBesemme\nBesme\nBodor\nHounar\nHuner"
+  },
+  "triggers": {
+    "lgcode": "\nbesme\njuman\ngerep"
+  },
+  "identifier": {
+    "multitree": "bes",
+    "endangeredlanguages": "2308"
+  },
+  "classification": {
+    "sub": "**hh:w:Roberts:Goundo**",
+    "subrefs": "\n**hh:w:Roberts:Goundo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Besme (2308-bes) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

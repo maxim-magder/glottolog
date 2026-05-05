@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Cajatambo North Lima Quechua",
+    "hid": "qvl",
+    "level": "language",
+    "iso639-3": "qvl",
+    "latitude": "-10.4126",
+    "longitude": "-76.9602",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953839"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Cerron-Palomino:Quechua**\n**hh:hv:Grimes:Quechua**\n**hh:hv:Torero:Andina:1972**\n**hh:hvtyp:Cerron-Palomino:Proto-Quechua**\n**hh:ld:Solis:Quechua-Cajatambo**\n**sil16:21800**"
+  },
+  "altnames": {
+    "multitree": "\n\"quechua de Cajatambo, de Paso y de Junín septentrional.\"\nCajatambo North Lima Quechua\nJunín\nQuechua, Cajatambo North Lima\nQuehcua de Cajatambo Pasco et du Junín nord\nTarma\nYaru",
+    "lexvo": "\nCajatambo North Lima Quechua [en]",
+    "hhbib_lgcode": "\nAndajes\nAnj Andajes QI\nCajatambo\nCjt Cajatambo QI"
+  },
+  "triggers": {
+    "lgcode": "\nNOT la AND del AND oso"
+  },
+  "identifier": {
+    "multitree": "qvl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grimes:Quechua**:274-279 **hh:hv:Adelaar:Andes**:183-188 **hh:hv:Landerman:Quechua**:259-260",
+    "subrefs": "\n**hh:hv:Grimes:Quechua**\n**hh:hv:Adelaar:Andes**\n**hh:hv:Landerman:Quechua**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Quechua of Cajatambo, Pasco and northern Junín (998-qvn, qvr, qva, qxa, qxt, qxh, qvl) = Severely endangered"
+  }
+}

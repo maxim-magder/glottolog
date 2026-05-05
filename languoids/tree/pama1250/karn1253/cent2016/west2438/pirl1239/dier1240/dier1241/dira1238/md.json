@@ -1,0 +1,53 @@
+{
+  "core": {
+    "name": "Dirari",
+    "hid": "dit",
+    "level": "dialect",
+    "latitude": "-28.7992",
+    "longitude": "138.078",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Dhirari](https://collection.aiatsis.gov.au/austlang/language/l14)\nhttps://phoible.org/languages/dira1238\nhttps://www.wikidata.org/entity/Q5285033",
+    "iso639-3": "dit",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "classification": {
+    "sub": "**hh:g:Austin:Diyari**",
+    "subrefs": "\n**hh:g:Austin:Diyari**"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2018-023**\n**ozbib:226**\n**ozbib:250**\n**ozbib:257**\n**ozbib:2833**\n**ozbib:2854**\n**ozbib:3103**\n**ozbib:4240**\n**ozbib:4241**"
+  },
+  "altnames": {
+    "multitree": "\nDhirari\nDirari\nTerari",
+    "lexvo": "\nDirari [en]",
+    "hhbib_lgcode": "\nThirrari",
+    "aiatsis": "\nDhirari\nDhirrari\nDhirrarri\nDirari\nTerari\nThirrari\nTirari"
+  },
+  "triggers": {
+    "lgcode": "\ndhirari"
+  },
+  "identifier": {
+    "multitree": "dit",
+    "endangeredlanguages": "5726"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E22",
+    "date": "2019-02-25T16:03:57",
+    "comment": "Diyari (dit-dit) = 10 (Extinct)."
+  },
+  "iso_retirement": {
+    "code": "dit",
+    "name": "Dirari",
+    "effective": "2019-01-25",
+    "reason": "merge",
+    "change_to": "\ndif",
+    "remedy": "Merged into [dif] Diyari",
+    "change_request": "2018-023"
+  }
+}

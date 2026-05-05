@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Simeulue",
+    "hid": "smr",
+    "level": "language",
+    "iso639-3": "smr",
+    "latitude": "2.50288",
+    "longitude": "96.2757",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2992833\nhttps://en.wikipedia.org/wiki/Simeulue_language\n[Simeulue](https://wals.info/languoid/lect/wals_code_sim)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:faridan:emajies:etal:83**\n**hh:b:Roth:Nias-Mentawei-Enggano**\n**hh:d:Kahler:Simalur**\n**hh:dial:Mardi:Simeulue**\n**hh:e:Kahler:Simalur**\n**hh:e:Westenenk:Simaloer**\n**hh:h:AzizAmery:Simeulue**\n**hh:s:Faridan:Simeulue**\n**hh:s:Faridan:Simeulue:1981**\n**hh:t:Damste:Simaloeresche**\n**hh:t:Kahler:Simalur**\n**hh:w:Bahasa:Haloban**\n**hh:w:Candrasari:Leukon**\n**hh:w:Stokhof:Holle:1987**\n**hh:w:Westenenk:Simaloersch**"
+  },
+  "altnames": {
+    "wals": "\nSimeulue",
+    "wals other": "\nSimalur",
+    "ruhlen (1987)": "\nSimeulue",
+    "moseley & asher (1994)": "\nSimeulue",
+    "multitree": "\nLong Bano\nSimalur\nSimeuloë\nSimeulue\nSimulul",
+    "lexvo": "\nBahasa Devayan [id]\nSimeulue [en]\nSimeulue language [en]",
+    "hhbib_lgcode": "\nHaloban\nLeukon\nLêkon\nSeumalur\nSimaloer\nSimalur\nSimeule\nTapah"
+  },
+  "triggers": {
+    "lgcode": "\nsimaluresischem\nsimeuloee\nsimaloersch\nsimeulue"
+  },
+  "identifier": {
+    "wals": "sim",
+    "multitree": "smr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran**",
+    "subrefs": "\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Simeulue (smr-smr) = 6b (Threatened)."
+  }
+}

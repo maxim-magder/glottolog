@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Samue",
+    "hid": "wbf",
+    "level": "language",
+    "iso639-3": "wbf",
+    "latitude": "10.7283",
+    "longitude": "-5.37515",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "ML"
+    ],
+    "links": "\n[Samue](https://grambank.clld.org/languages/wara1292)\n[Wara](https://endangeredlanguages.com/lang/3819)\nhttps://en.wikipedia.org/wiki/Samwe_language\nhttps://www.wikidata.org/entity/Q3914052"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lebeuf:immokirsch:89**\n**cldf:lewis:ed:09**\n**cldf:prost:68:1**\n**cldf:winkelmann:07:1**\n**hh:e:Trost:Wara**\n**hh:ew:Tauxier:Ouara-Natioro**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:phon:Kalliorinne:Samue**\n**hh:phon:Virpi:Samue**\n**hh:s:Prost:Wara**\n**hh:sphon:Ouattara:Samue**\n**hh:wsoc:Sawadogo:Natioro**\n**mpieva:Prost1968Deuxlang**"
+  },
+  "altnames": {
+    "multitree": "\nOuala\nOuara\nSamoe\nWara\nWára",
+    "lexvo": "\nWara [en]",
+    "hhbib_lgcode": "\nKerstin Winkelmann: K1. Samwe (Wara)\nOuara\nSamwe\nWara",
+    "glottolog": "\nWara",
+    "elcat": "\nOuala\nOuara\nSamoe\nWara\nWára"
+  },
+  "triggers": {
+    "lgcode": "\nperdue"
+  },
+  "identifier": {
+    "multitree": "wbf",
+    "endangeredlanguages": "3819"
+  },
+  "classification": {
+    "sub": "**hh:hv:Winkelmann:Samu**",
+    "subrefs": "\n**hh:hv:Winkelmann:Samu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wara (3819-wbf) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

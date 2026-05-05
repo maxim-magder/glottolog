@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kw'adza",
+    "hid": "wka",
+    "level": "language",
+    "iso639-3": "wka",
+    "latitude": "-4.00743",
+    "longitude": "35.1828",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Kw'adza](https://endangeredlanguages.com/lang/6006)\nhttps://www.wikidata.org/entity/Q3807652\nhttps://en.wikipedia.org/wiki/Kw%CA%BCadza_language",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**eballiso2009:18343**\n**eballiso2009:23660**\n**eballiso2009:23876**\n**eballiso2009:27978**\n**eballiso2009:38016**\n**eballiso2009:46581**\n**eballiso2009:47784**\n**eballiso2009:7057**\n**hh:ew:Kohl-Larsen:Vormenschen**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hel:Sommer:Survey**\n**hh:hv:Ehret:Ethiopians-East-Africans**\n**hh:hvw:Blazek:South-Cushitic**\n**hh:hvw:Ehret:SCushitic**\n**hh:vld:Kruijsdijk:Asa-Qwadza**\n**hh:w:Claus:Wangomwia**"
+  },
+  "altnames": {
+    "multitree": "\nKw'adza\nQwadza",
+    "glottolog": "\nNgomvia\nWangomvia",
+    "lexvo": "\nKw'adza [en]\nKw'adza hizkuntza [eu]\nKw'adza language [en]",
+    "hhbib_lgcode": "\nKwadza\nQwadza",
+    "elcat": "\nKw'adza\nKwadza\nNgomvya\nNg’omvia\nQwadza"
+  },
+  "triggers": {
+    "lgcode": "\nwangomwia"
+  },
+  "identifier": {
+    "multitree": "wka",
+    "endangeredlanguages": "6006"
+  },
+  "classification": {
+    "sub": "**hh:vld:Kruijsdijk:Asa-Qwadza**, **hh:hvw:Blazek:South-Cushitic**",
+    "subrefs": "\n**hh:hvw:Blazek:South-Cushitic**\n**hh:vld:Kruijsdijk:Asa-Qwadza**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kw'adza (6006-wka) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

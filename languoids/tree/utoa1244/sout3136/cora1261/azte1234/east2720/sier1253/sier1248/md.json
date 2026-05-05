@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sierra Negra Nahuatl",
+    "hid": "nsu",
+    "level": "language",
+    "iso639-3": "nsu",
+    "latitude": "18.45",
+    "longitude": "-96.9",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Sierra Negra Nahuatl](https://grambank.clld.org/languages/sier1248)\nhttps://www.wikidata.org/entity/Q63284326"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**iso6393:2006-089**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Nawa\nMexicano\nNahua central\nNahuatl\nNáhuatl central",
+    "lexvo": "\nSierra Negra Nahuatl [en]",
+    "hhbib_lgcode": "\nTehuacán\nZoquitlán"
+  },
+  "triggers": {
+    "lgcode": "\ntehuacan"
+  },
+  "identifier": {
+    "multitree": "nsu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lastra:Nahuatl-Moderno**:204-212",
+    "subrefs": "\n**hh:hvw:Lastra:Nahuatl-Moderno**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Sierra Negra (nsu-nsu) = 5* (Developing)."
+  }
+}

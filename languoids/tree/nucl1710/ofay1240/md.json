@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ofayé",
+    "hid": "opy",
+    "level": "language",
+    "iso639-3": "opy",
+    "latitude": "-22.278",
+    "longitude": "-53.7227",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Ofayé](https://endangeredlanguages.com/lang/1740)\n[Ofayé](https://grambank.clld.org/languages/ofay1240)\nhttps://en.wikipedia.org/wiki/Ofay%C3%A9_language\nhttps://phoible.org/languages/ofay1240\nhttps://www.wikidata.org/entity/Q3446691"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:32:1**\n**cldf:np:nd:264**\n**cldf:ribeiro:03:1**\n**fabreall2009ann:4912**\n**fabreall2009ann:5935**\n**fabreall2009ann:Je17**\n**fabreall2009ann:Ofaie10**\n**fabreall2009ann:Ofaie11**\n**fabreall2009ann:Ofaie12**\n**fabreall2009ann:Ofaie13**\n**fabreall2009ann:Ofaie14**\n**fabreall2009ann:Ofaie19**\n**fabreall2009ann:Ofaie21**\n**fabreall2009ann:Ofaie22**\n**fabreall2009ann:Ofaie23**\n**fabreall2009ann:Ofaie25**\n**fabreall2009ann:Ofaie26**\n**fabreall2009ann:Ofaie5**\n**fabreall2009ann:Ofaie9**\n**hh:e:Borgonha:Ofaye**\n**hh:e:Dutra:Ofaie**\n**hh:e:Dutra:Ofaie:1991**\n**hh:e:Dutra:Ofaie:1996**\n**hh:e:Freundt:Mato-Grosso**\n**hh:g:deOliveira:Ofaye**\n**hh:hv:Gudschinsky:Ofaie-Xavante**\n**hh:hv:Rodrigues:Macro-Je**\n**hh:s:Gudschinsky:Ofaie**\n**hh:w:Loukotka:Kukura**\n**sil16:10015**\n**sil16:51116**"
+  },
+  "altnames": {
+    "glottolog": "\nOfaye",
+    "multitree": "\nGuachi\nOfaié\nOfaié-Xavante\nOfayé\nOfayé-Xavante\nOpaie\nOpaié-Shavante\nOpaye\nOpaye-Chavante\nOpayé",
+    "lexvo": "\nOfayé [en]",
+    "hhbib_lgcode": "\nOfaye\nOpaie",
+    "elcat": "\nGuachi\nOfaié\nOfaié-Xavante\nOfayé\nOfayé-Xavante\nOpaie\nOpaié-Shavante\nOpaye\nOpaye-Chavante\nOpayé"
+  },
+  "triggers": {
+    "lgcode": "\nextinta\nofaye\nreencontro\nvernichtung\nkukura\ncaminhos\nviveremos\nuirai\nterriorio\nofaie"
+  },
+  "identifier": {
+    "multitree": "opy",
+    "endangeredlanguages": "1740"
+  },
+  "classification": {
+    "sub": "**hh:g:Ribeiro:Karaja**:262-287",
+    "subrefs": "\n**hh:g:Ribeiro:Karaja**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Ofayé (1740-opy) = Severely Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

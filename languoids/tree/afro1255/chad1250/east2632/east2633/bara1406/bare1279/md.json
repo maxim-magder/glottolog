@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Barain",
+    "hid": "bva",
+    "level": "language",
+    "iso639-3": "bva",
+    "latitude": "10.970124",
+    "longitude": "17.911727",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Barain](https://endangeredlanguages.com/lang/4565)\n[Barain](https://grambank.clld.org/languages/bare1279)\nhttps://en.wikipedia.org/wiki/Barein_language\nhttps://phoible.org/languages/bare1279\nhttps://www.wikidata.org/entity/Q56285"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:lovestrand:20**\n**elpub:ldd72**\n**hh:g:Lovestrand:Barain**\n**hh:he:Lebeuf:Tchad**\n**hh:hs:deRendinger:Centre-Africain**\n**hh:hsoc:Faris:Barain**\n**hh:hsoc:Maassetal:Barain**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:styp:Lovestrand:Barain:2018**\n**hh:styp:Lovestrand:Barain:2022**\n**hh:vw:Lovestrand:Barain**\n**sil16:41848**"
+  },
+  "altnames": {
+    "multitree": "\nBarain\nBaraïn\nBarein\nGuilia\nJalkia",
+    "lexvo": "\nBarein [en]\nBarein language [en]",
+    "hhbib_lgcode": "\nBaraïn\nBarein\nGiliya\nJalkiya\nKomiya",
+    "elcat": "\nBarain\nBaraïn\nBarein\nGuilia\nJalkia"
+  },
+  "triggers": {
+    "lgcode": "\nbarain\nrapport AND barain"
+  },
+  "identifier": {
+    "multitree": "bva",
+    "endangeredlanguages": "4565"
+  },
+  "classification": {
+    "sub": "**hh:vw:Lovestrand:Barain**",
+    "subrefs": "\n**hh:vw:Lovestrand:Barain**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Barain (4565-bva) = Threatened (20 percent certain, based on the evidence available) [Lovestrand 2020](cldf:lovestrand:20)"
+  }
+}

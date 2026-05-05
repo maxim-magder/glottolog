@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Warji-Gala",
+    "hid": "wji",
+    "level": "language",
+    "iso639-3": "wji",
+    "latitude": "11.1718",
+    "longitude": "9.56925",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Warji](https://endangeredlanguages.com/lang/5566)\nhttps://www.wikidata.org/entity/Q3440381\nhttps://en.wikipedia.org/wiki/Warji_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:nd:2**\n**cldf:jungraithmayr:65**\n**cldf:lewis:ed:09**\n**eballiso2009:19354**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Skinner:NBauchi**\n**hh:typ:Ahmed:Warji**\n**hh:typ:Ibrizimow:Warji**\n**hh:w:Blench:Sirzakwai**\n**hh:w:Gowers:Bauchi**\n**hh:w:Jungraithmayr:Afa**\n**hh:wsoc:Decker:Bauchi-Jigawa**\n**sil16:21318**"
+  },
+  "altnames": {
+    "multitree": "\nSar\nSarawa\nWarja\nWarjawa\nWarji",
+    "lexvo": "\nWarji [en]\nWarji language [en]",
+    "hhbib_lgcode": "\nGala\nSerzakwai\nWarja\nWarjawa\nWarji\nWurjawa",
+    "elcat": "\nAja\nAjanci\nAjawa\nSar\nSarawa\nSirzakwai\nWarja\nWarjawa\nWarji\nWerji",
+    "glottolog": "\nWarji"
+  },
+  "triggers": {
+    "lgcode": "\nsirzakwai\nwarja\nwarji"
+  },
+  "identifier": {
+    "multitree": "wji",
+    "endangeredlanguages": "5566"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Decker:Bauchi-Jigawa**",
+    "subrefs": "\n**hh:wsoc:Decker:Bauchi-Jigawa**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Warji (5566-wji) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

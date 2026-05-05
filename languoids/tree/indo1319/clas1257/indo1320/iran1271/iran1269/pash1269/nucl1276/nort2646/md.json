@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northern Pashto",
+    "hid": "pbu",
+    "level": "language",
+    "iso639-3": "pbu",
+    "latitude": "34.0",
+    "longitude": "71.33",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Northern Pashto](https://lexibank.clld.org/languages/northeuralex-pbu)\nhttps://en.wikipedia.org/wiki/Northern_Pashto\nhttps://phoible.org/languages/nort2646\nhttps://www.wikidata.org/entity/Q12642194"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2124**\n**hh:d:Aslanov:Pushtu**\n**hh:d:Pashto:Paxto**\n**hh:d:Raverty:Pushto**\n**hh:g:David:Pashto**\n**hh:g:Lorimer:Pashtu**\n**hh:g:Momand:Pashto**\n**hh:g:Raverty:Pushto**\n**hh:g:TegeyRobson:Pashto**\n**hh:h:Radloff:Bilingualism**\n**hh:hvw:Grierson:10**\n**hh:hvwsoc:Coyle:Wardak**\n**hh:hvwsoc:Hallberg:PWO**\n**hh:phon:Kuchay:Pashtu-Kashmir**\n**hh:s:Ayazi:Pashto**\n**hh:s:Azad:Pashto**\n**hh:s:Babrakzai:Pashto**\n**hh:s:Bellew:Pashto**\n**hh:s:Bellew:Pashto:1867**\n**hh:s:Dvorjankov:Pushtu**\n**hh:s:Pence:Pashto**\n**hh:s:Reshtin:Pashto**\n**hh:s:Reshtin:Pashto:1948**\n**hh:s:RobsonTegey:Pashto**\n**hh:s:Skjaervoe:Pashto**\n**hh:s:Zyar:Pashto**\n**hh:soc:Khan:Pashto**\n**hh:soc:Wani:Pashtu**\n**hh:typ:Sheikh:Pashtu**\n**hh:typ:Tegey:Pashto**\n**ldh:item_405413**\n**mpieva:195154Pastuqam**\n**mpieva:Aslanov1966Afgansko**\n**mpieva:Backstrom1992Language**\n**mpieva:Dvorjankov1960Jazykpus**\n**mpieva:Kabir1999Dictionn**\n**mpieva:Kabir2005Dictionn**\n**mpieva:Lebedev1961Karmanny**\n**mpieva:Lebedev1982Ucebnyip**\n**mpieva:Lebedev1996Sintaksi**\n**sil16:32836**\n**sil16:32840**\n**sil16:32846**\n**sil16:44291**"
+  },
+  "altnames": {
+    "multitree": "\nAfghan\nEastern Afghan\nNorthern Pashto\nPakh'to\nPakhto\nPakhtoo\nPakhtu\nPaktu\nPashto\nPashto, Northern\nPashtu\nPasstoo\nPushto\nPusto\nYusufzai Pashto",
+    "lexvo": "\nNorthern Pashto [en]",
+    "hhbib_lgcode": "\nAfghan Pashto\nBAF Baffa Pashto\nBAJ Bajaur Pashto\nBAR Bar/Loi Shilman Pashto\nBAT Batagram Pashto\nCHE Cherat Pashto\nCHS Charsadda Pashto\nDIR Dir Pashto\nEastern Afghan Pashto\nJAL Jallozai Pashto\nJAM Jamrud Afridi Pashto\nJalalabad\nKabul Pashto\nMAD Madyan Pashto\nMAL Mallagori Pashto\nMAR Mardan Pashto\nMIN Saidu Sharif/Mingora Pashto\nMOH Mohmand Pashto\nMost informants from Laghman/Afghanistan\nNE Pashto Yusufzai etc\nNIG Ningrahar Pashto\nNortheast (NE)\nNorthwest Pashto (NW)\nOGI Oghi Pashto\nPES Peshawar Pashto\nPashto Peshawar\nPashto spoken by Tegey (who was born in Kabul)\nPashto-Northern\nPashtu\nPashtu in Kashmir\nPeshawar Pashto\nPresumably Northern Pashto\nPresumbaly Pashto from Andrabayo Province-Kabul\nProbably Kabul Pashto\nSHN Shinwari Pashto\nSWA Swabi Pashto\nTIR Tirah Afridi Pashto\nVariety not declared but\nZKH Zakha Khel Afridi Pashto\nZapadny i Vostochnyj Pushtu\nthat of his teacher (an Afghani) so Pashto-Northern"
+  },
+  "triggers": {
+    "lgcode": "\npaktya\npukkhto\nafgansko\npustu\nkhudai\npushtu\nnorthern AND pashto"
+  },
+  "identifier": {
+    "multitree": "pbu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cheung:Pashto** **hh:hvwsoc:Hallberg:PWO** **hh:hv:Novak:Eastern-Iranian:2013**",
+    "subrefs": "\n**hh:hv:Cheung:Pashto**\n**hh:hv:Novak:Eastern-Iranian:2013**\n**hh:hvwsoc:Hallberg:PWO**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pashto, Northern (pbu-pbu) = 5* (Developing)."
+  }
+}

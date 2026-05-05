@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Nobiin",
+    "hid": "fia",
+    "level": "language",
+    "iso639-3": "fia",
+    "latitude": "22.8142",
+    "longitude": "31.8376",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "EG",
+      "SD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36503\nhttps://en.wikipedia.org/wiki/Nobiin_language\nhttps://phoible.org/languages/nobi1240\n[Nobiin](https://wals.info/languoid/lect/wals_code_nob)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bell:68**\n**cldf:bell:71**\n**eballiso2009:26308**\n**eballiso2009:27597**\n**eballiso2009:27995**\n**eballiso2009:29173**\n**eballiso2009:34979**\n**eballiso2009:34982**\n**eballiso2009:34983**\n**eballiso2009:41386**\n**eballiso2009:47438**\n**eballiso2009:50770**\n**eballiso2009:51074**\n**elpub:ldd102**\n**hh:d:Khalili:Nubischen**\n**hh:dial:Bell:Nobiin**\n**hh:es:Hohenwart-Gerlachstein:Fadidja**\n**hh:ew:vonMinutoli:Agypten**\n**hh:g:Werner:Nobiin**\n**hh:gtd:Lepsius:Nubische**\n**hh:hb:JakobiKummerle:Nubian**\n**hh:hs:Reinisch:Nuba**\n**hh:hv:Bechhaus-Gerst:Nile-Nubian**\n**hh:hv:Bechhaus-Gerst:Nubischen**\n**hh:hv:Murray:Nilotic**\n**hh:hvw:Brugsch:Aethiopica**\n**hh:hw:Koenig:Nubie-Superieure**\n**hh:hw:Seetzen:Volks-Mundarten**\n**hh:ld:Murray:Nubian**\n**hh:phon:Bell:Nobiin**\n**hh:s:Badr:Nubiyya**\n**hh:s:Zettersteen:Nubische**\n**hh:soc:Zummrawi:New-Halfa**\n**hh:sv:Bechhaus-Gerst:Nobiin**\n**hh:t:Abel:Ermenne**\n**hh:t:Habbob:Nubian**\n**hh:typ:Awad:Nobiin**\n**hh:v:Staorstin:Nile-Nubian**\n**hh:w:Meinhof:Fadidja**\n**hh:w:Meinhof:Mahas**\n**mpieva:Rouchdy1991Nubiansa**\n**mpieva:Werner1986Grammati**\n**sil16:44815**\n**sil16:44816**"
+  },
+  "altnames": {
+    "wals": "\nNobiin",
+    "wals other": "\nMahas dialect\nNubian\nNubian (Mahas)",
+    "ruhlen (1987)": "\nNobiin",
+    "moseley & asher (1994)": "\nMahas",
+    "multitree": "\nFadicca\nFadicha\nFadija\nFedicca\nFedija\nFiadidja\nFiadidja-Mahas\nFiyadikkya\nMahas\nMahas-Fadidja\nMahas-Fiadidja\nMahas-Fiyadikkya\nNile Nubian\nNobiin\nNubi\nSukot",
+    "lexvo": "\nNobiin [de]\nNobiin language [en]\nNobineg [br]",
+    "hhbib_lgcode": "\nBerberisch (= Maḥas Nubian)\nDar-El-Mahas (= Nobiin)\nDar-el-Mahas (= Nobiin)\nErmenne\nFadidja\nIn parallel Mahas\nMahas\nMahasi\nMahass\nMahās Nubian\nNubian in New Halfa"
+  },
+  "triggers": {
+    "lgcode": "\nmahass\nnobiin\nniltal\nfadidja\ndongolasprache\nmahas"
+  },
+  "identifier": {
+    "wals": "genus/nubian",
+    "multitree": "fia"
+  },
+  "classification": {
+    "sub": "**hh:sv:Bechhaus-Gerst:Nobiin**",
+    "subrefs": "\n**hh:sv:Bechhaus-Gerst:Nobiin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nobiin (fia-fia) = 6b (Threatened)."
+  }
+}

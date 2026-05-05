@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gulay",
+    "hid": "gvl",
+    "level": "language",
+    "iso639-3": "gvl",
+    "latitude": "9.06629",
+    "longitude": "17.3151",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q641737\nhttps://en.wikipedia.org/wiki/Gulay_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:14147**\n**eballiso2009:16196**\n**eballiso2009:16202**\n**eballiso2009:3993**\n**hh:d:Clementetal:Gulay**\n**hh:h:Lanne:Sud-Tchad**\n**hh:he:Bruel:Moyen-Logone**\n**hh:he:Cabot:Moyen-Logone**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:t:ATPLG:Gouley**"
+  },
+  "altnames": {
+    "multitree": "\nGoulai\nGoulaye\nGoulei\nGulai\nGulay\nGulei",
+    "lexvo": "\nGulay [en]",
+    "hhbib_lgcode": "\nFouley\nGoulaye\nS Gulei of Decorse\nSara Gulei\nSara Hii\nSara Péni\nSara de Hii\nSara de Péni"
+  },
+  "triggers": {
+    "lgcode": "\nbedjonde\nNOT du AND bediondo\nbedjong\ngulay\nzentralsudanische"
+  },
+  "identifier": {
+    "multitree": "gvl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gulay (gvl-gvl) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bokar-Ramo",
+    "hid": "NOCODE_Bokar",
+    "level": "language",
+    "latitude": "28.61433",
+    "longitude": "94.066429",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Bokar](https://endangeredlanguages.com/lang/1604)\n[Bokar](https://wals.info/languoid/lect/wals_code_boq)\n[Bokar-Ramo](https://grambank.clld.org/languages/boka1249)\n[Lhoba (Bokar)](https://lexibank.clld.org/languages/gaotb-Bokar)\n[Tani_Bokar](https://lexibank.clld.org/languages/sagartst-Bokar)\nhttps://en.wikipedia.org/wiki/Bokar_language\nhttps://www.wikidata.org/entity/Q4938727"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**hh:e:Dhasmana:Ramos**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Baruah:Sino-Tibetan-Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:phonw:Ouyang:Bengni-Damu**\n**hh:s:Badu:Ramo**\n**hh:s:Ete:Bokar**\n**hh:s:Megu:Aashing**\n**hh:s:Megu:Bokar**\n**hh:s:Ouyang:Bengni-Bogaer**\n**hh:s:Ouyang:Luoba**\n**hh:s:Ouyang:Luoba:1979**\n**hh:sd:John:Ashing**\n**hh:w:Kumar:Bokar**"
+  },
+  "triggers": {
+    "lgcode": "\nbengni\nbogaeryu\nluobazu\nbokar\naashing"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Bokar, a Tibeto-Burman language of the Western Tani subgroup, is missing as a distinct language (**hh:s:Megu:Bokar**, **hh:hew:Grewal:Arunachal**, **hh:s:Ouyang:Luoba**). Bokar occurs under the entry Adi [adi] along with a number of Western and Eastern Tani lects. Bokar should be taken out of ``Adi'' since it is far too divergent from both the other Western and Eastern Tani languages (**hh:hv:Sun:Tani**). See also: Bori-Karko [adi].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Bokar"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Bokar (NOCODE_Bokar-NOCODE_Bokar) = 6b (Threatened)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAashing\nAdi-Lhoba\nAshing\nAshing looks very close to Bokar\nBengni\nBengni-Boga'er\nBo Gaer\nBoga'er Luoba\nBokar\nBokar-Adi\nLuoba\nRamo looks similar to Bokar\nRamos",
+    "elcat": "\nBoga'er Luoba\nBokar\n崩尼-博嘎爾语"
+  },
+  "identifier": {
+    "endangeredlanguages": "1604"
+  }
+}

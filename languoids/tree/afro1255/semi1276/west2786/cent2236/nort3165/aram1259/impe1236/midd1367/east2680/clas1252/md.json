@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Classical Syriac",
+    "hid": "syc",
+    "level": "language",
+    "iso639-3": "syc",
+    "latitude": "37.1129",
+    "longitude": "42.1432",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Syriac_language\nhttps://www.wikidata.org/entity/Q33538",
+    "timespan": "0100-01-01/0800-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Payne:Syriac**\n**hh:g:Aydin:Klassisk-Arameisk**\n**hh:g:Brockelmann:Syrische**\n**hh:g:Healey:Syriac**\n**hh:g:Muraoka:Classical-Syriac**\n**hh:g:Phillip:Syriac**\n**hh:ht:Marietti:CCL**\n**hh:hv:Rabin:Semitic**\n**hh:ld:Bhayro:Judeo-Syriac**\n**hh:s:Ambrogio:Chaldaicam**\n**hh:s:Noldeke:Aramaischen**\n**hh:s:Pat-El:Syriac**\n**hh:s:Tsereteli:Sirijskij**\n**hh:vb:Butts:Classical-Syriac**\n**mpieva:Muraoka1997Classica**\n**mpieva:Noldeke1966Kurzgefa**\n**mpieva:Payne1998Acompend**\n**mpieva:Schulthess1982Grammati**\n**mpieva:Spitaler1966Grammati**\n**mpieva:Tsereteli1978Themoder**\n**mpieva:Ungnad2004Syrische**"
+  },
+  "altnames": {
+    "multitree": "\nAncient Syriac\nClassical Syriac\nLishana Atiga\nSuryaya\nSuryoyo\nSyriac",
+    "lexvo": "\nBahasa Suryani [id]\nClassical Syriac [en]\nGammelsyrisk [no]\nJęzyk syryjski [pl]\nLingua Syriaca [la]\nLingua siriaca [it]\nLíngua siríaca [pt]\nSiria lingvo [eo]\nSiricis [ga]\nSirieg [br]\nSirijski jezik [bs]\nSirjački jezik [hr]\nSiríaco [es]\nSirščina [sl]\nSyriac language [en]\nSyriaque [fr]\nSyrisch [nl]\nSyrische Sprache [de]\nSyriska [sv]\nSyrština [cs]\nSyyrian kieli [fi]\nSüryanice [tr]\nSüüria keel [et]\nSýrčina [sk]\nsyriaque classique [fr]\nСирийский язык [ru]\nСириски јазик [mk]\nסורית [he]\nزبان سریانی [fa]\nسيريانى [arz]\nلغة سريانية [ar]\nܠܫܢܐ ܣܘܪܝܝܐ [aii]\nസുറിയാനി [ml]\nภาษาซีเรียค [th]\nシリア語 [ja]\n敘利亞語 [zh]\n시리아어 [ko]",
+    "hhbib_lgcode": "\nCPA\nChristian Palestinian Aramaic\nJudeo-Syriac is used to refer to the practice of transcribing a Syriac text in Jewish Aramaic script\nSyriac\nSyriacam\nSyriace"
+  },
+  "triggers": {
+    "lgcode": "\nsyriacus\nsyrische\noroomiah\nschriftlehre\nneusyrischer\nleutlehre\npalastinisch\nchristlich\nmalula"
+  },
+  "identifier": {
+    "multitree": "syc"
+  },
+  "classification": {
+    "sub": "**hh:hv:HuehnergardRubin:Semitic**",
+    "subrefs": "\n**hh:hv:HuehnergardRubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Syriac (syc-syc) = 9 (Second language only)."
+  }
+}

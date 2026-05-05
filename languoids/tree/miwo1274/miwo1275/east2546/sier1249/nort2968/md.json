@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Northern Sierra Miwok",
+    "hid": "nsq",
+    "level": "language",
+    "iso639-3": "nsq",
+    "latitude": "38.4179",
+    "longitude": "-120.588",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Miwok (Northern Sierra)](https://wals.info/languoid/lect/wals_code_mwn)\n[Northern Sierra Miwok](https://lexibank.clld.org/languages/johanssonsoundsymbolic-NorthernSierraMiwok)\n[Sierra Miwok](https://endangeredlanguages.com/lang/4056)\nhttps://en.wikipedia.org/wiki/Northern_Sierra_Miwok\nhttps://www.wikidata.org/entity/Q3344226",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aginsky:43**\n**cldf:barrett:gifford:33**\n**cldf:baumhoff:63**\n**cldf:gifford:26:3**\n**cldf:gifford:26:4**\n**cldf:gifford:44**\n**cldf:gifford:55**\n**cldf:kroeber:ed:11:2**\n**hh:d:Callaghan:Northern-Sierra-Miwok**\n**hh:e:Levy:EMiwok**\n**hh:g:Freeland:Central-Sierra-Miwok**\n**hh:hs:Kroeber:NCoast**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:w:Ford:Eastern-Miwok**"
+  },
+  "altnames": {
+    "wals": "\nMiwok (Northern Sierra)",
+    "wals other": "\nN Sierra Miwok\nNorthern Sierra Miwok",
+    "ruhlen (1987)": "\nEastern Division",
+    "moseley & asher (1994)": "\nMiwok (Northern Sierra)",
+    "multitree": "\nMiwok (Northern Sierra)\nMiwok de la Sierra du nord\nMiwok, Northern Sierra\nMiwokano serrano septentrional\nNorthern Sierra Miwok\nSeroushamne",
+    "lexvo": "\nNorthern Sierra Miwok [en]",
+    "hhbib_lgcode": "\nAmador\nMiwok\nMiwok-Northern Sierra\nNorthern Sierra\nNorthwestern Sierra Miwok",
+    "elcat": "\nCentral Sierra Miwok\nCentral Sierra Miwok: Tuolumne\nMe-Wuk\nMeewoc\nMewoc\nMiwoc\nMokélumne\nMoquelumnan\nNorthern Sierra Miwok\nNorthern Sierra Miwok: Seroushamne\nSan Raphael\nSawos\nSierra Miwok\nSouthern Sierra Miwok: Southern Sierra Miwok\nTalatui\nTalutui\nYosemite"
+  },
+  "triggers": {
+    "lgcode": "\nnorthern AND miwok"
+  },
+  "identifier": {
+    "wals": "mwn",
+    "multitree": "nsq",
+    "endangeredlanguages": "4056"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Callaghan:Utian**:8-9",
+    "subrefs": "\n**hh:hvw:Callaghan:Utian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miwok, Northern Sierra (nsq-nsq) = 9 (Dormant). Language of registered tribe: Buena Vista Rancheria of Me-Wuk Indians of California, California Valley Miwok Tribe, Ione Band of Miwok Indians of California, Jackson Band of Miwuk Indians, Shingle Springs Band of Miwok Indians-Shingle Springs Rancheria (Verona Tract), United Auburn Indian Community of the Auburn Rancheria of California."
+  }
+}

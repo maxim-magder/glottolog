@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Kara (Central African Republic)",
+    "hid": "kah",
+    "level": "language",
+    "iso639-3": "kah",
+    "latitude": "9.99526",
+    "longitude": "22.9947",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "SD"
+    ],
+    "links": "\n[Kara](https://endangeredlanguages.com/lang/7949)\n[Kara (Central African Republic)](https://grambank.clld.org/languages/kara1482)\n[Kara (in Central African Republic)](https://wals.info/languoid/lect/wals_code_kar)\nhttps://en.wikipedia.org/wiki/Fer_language\nhttps://www.wikidata.org/entity/Q5443742"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2813**\n**cldf:lewis:ed:09**\n**cldf:struck:30**\n**cldf:ymino:41**\n**eballiso2009:10183**\n**eballiso2009:36092**\n**eballiso2009:39308**\n**eballiso2009:56090**\n**hh:el:Fuchs:Africa**\n**hh:h:Fuchs:Sahara-Sudan**\n**hh:h:Latham:Africa**\n**hh:hew:Grossard:Delimitation**\n**hh:hew:MacMichael:Arabs-Sudan**\n**hh:hld:Santandrea:WGhazal**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Santandrea:BongoBakaYuluKara**\n**hh:hvw:Saxon:Shari**\n**hh:hw:Dalmais:Sara**\n**hh:phon:Kanzi-Soussou:Kara**\n**hh:phon:Kanzi-Soussou:Kara:1985**\n**hh:s:Boyeldieu:FerYulu**\n**hh:s:Kanzi-Soussou:Fer**\n**hh:s:Santandrea:Yulu-Kara**\n**hh:typ:Voeltz:Fer**\n**hh:w:Ruppell:Kordofan**"
+  },
+  "altnames": {
+    "wals": "\nKara (in Central African Republic)",
+    "wals other": "\nFer\nKara (in Central African Rep)",
+    "ruhlen (1987)": "\nFer",
+    "moseley & asher (1994)": "\nKara",
+    "multitree": "\nDam Fer\nFer\nFertit\nKara",
+    "lexvo": "\nFer language [en]\nKara (Central African Republic) [en]\nKara [en]",
+    "hhbib_lgcode": "\nBubu near Raga\nBubu near Raga Kara\nFer de Birao\nFertit\nKara\nKara von Birao\nKhor Shammam",
+    "elcat": "\nDam Fer\nFer\nFertit\nKara\nKara (in Central African Republic)"
+  },
+  "triggers": {
+    "lgcode": "\nfer AND african AND republic\nkara AND yulu\nbahher\nbirao"
+  },
+  "identifier": {
+    "wals": "kar",
+    "multitree": "kah",
+    "endangeredlanguages": "7949"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boyeldieu:Expansion-SBB** **hh:s:Boyeldieu:FerYulu**",
+    "subrefs": "\n**hh:hv:Boyeldieu:Expansion-SBB**\n**hh:s:Boyeldieu:FerYulu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kara (7949-kah) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

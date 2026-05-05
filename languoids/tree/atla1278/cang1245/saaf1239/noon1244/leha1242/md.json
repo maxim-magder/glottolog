@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lehar",
+    "hid": "cae",
+    "level": "language",
+    "iso639-3": "cae",
+    "latitude": "14.9387",
+    "longitude": "-16.8816",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\n[Lehar](https://endangeredlanguages.com/lang/7709)\nhttps://www.wikidata.org/entity/Q35564\nhttps://en.wikipedia.org/wiki/Laalaa_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:345**\n**cldf:canonici:94**\n**cldf:childs:06**\n**cldf:lewis:ed:09**\n**cldf:manessy:sauvageout:ed:63**\n**eballiso2009:16283**\n**eballiso2009:30787**\n**hh:d:Pichl:Laala**\n**hh:g:Dieye:Laalaa**\n**hh:hv:Merrill:Cangin**\n**hh:hvtyp:Drolc:Cangin**\n**hh:hvw:Williams:Cangin**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:phon:SoukkaSoukka:Laalaa-Palor**\n**hh:s:Pichl:Laala**\n**hh:t:Pichl:Laala**\n**hh:typ:Dieye:Lehar**\n**hh:w:Thornell:Lexique-Laalaa**\n**hh:wsoc:Williams:Cangin**\n**iso6393:2007-049**"
+  },
+  "altnames": {
+    "multitree": "\nLala\nLehar",
+    "lexvo": "\nLaalaa [en]\nLehar [en]",
+    "hhbib_lgcode": "\nLaalaa",
+    "elcat": "\nLaalaa\nLala\nLehar"
+  },
+  "triggers": {
+    "lgcode": "\nlehar\nsystem AND serer\nlaalaa\nlaala"
+  },
+  "identifier": {
+    "multitree": "cae",
+    "endangeredlanguages": "7709"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lehar (7709-cae) = Threatened (20 percent certain, based on the evidence available) (Seriously threatened and doomed to extinction in the near future.) [Childs 2006](cldf:childs:06)"
+  }
+}

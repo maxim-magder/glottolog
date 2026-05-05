@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Terik",
+    "hid": "tec",
+    "level": "language",
+    "iso639-3": "tec",
+    "latitude": "0.6",
+    "longitude": "35.0",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3518379\nhttps://en.wikipedia.org/wiki/Terik_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Seroney:Kalenjin**\n**hh:hel:Sommer:Survey**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:hvw:vanOtterloo:Kalenjin**\n**hh:wsoc:Roeder:Terik**\n**iso6393:2007-169**"
+  },
+  "altnames": {
+    "multitree": "\nNyang'ori\nTerik",
+    "lexvo": "\nTerik [en]",
+    "hhbib_lgcode": "\nBegan as Terik but expanded to be multidialectal\nKapkerer Terik\nTeric"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND death\nterik\ngruppenbewusstsein"
+  },
+  "identifier": {
+    "multitree": "kln-ter"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Terik (tec-tec) = 7 (Shifting)."
+  }
+}

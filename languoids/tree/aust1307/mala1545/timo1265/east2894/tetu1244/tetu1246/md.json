@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tetun Dili",
+    "hid": "tdt",
+    "level": "language",
+    "iso639-3": "tdt",
+    "latitude": "-8.58405",
+    "longitude": "125.583",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "TL"
+    ],
+    "links": "\n[Tetum](https://lexibank.clld.org/languages/blustaustronesian-tetum)\n[Tetun Dili](https://grambank.clld.org/languages/tetu1246)\n[Tetun Dili](https://wals.info/languoid/lect/wals_code_ttd)\nhttps://www.wikidata.org/entity/Q12643484"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:williams-vanklinken:nordlinger:02**\n**hh:g:Williams-vanKlinkenetal:Tetun**\n**hh:g:Williams-vanKlinkenetal:TetunDili**\n**hh:s:Williams-vanKlinken:TetunDili:2002**\n**hh:s:deAlbuquerque:Tetun-Prasa**\n**hh:w:Stokhofetal:Holle:6**\n**mpieva:Williamsvan2002Ashortgr**\n**mpieva:Williamsvan2002TetunDil**"
+  },
+  "altnames": {
+    "multitree": "\nDili Tetum\nTetum\nTetum Dili\nTetum Prasa\nTetum Praça\nTetun\nTetun Dili",
+    "lexvo": "\nTetun Dili [en]",
+    "hhbib_lgcode": "\nBelu/Tetum (C Timor)\nBelu/Tetum (Timor) NBG 1896\nBelu/Tetum (Timor) NBG 1905"
+  },
+  "triggers": {
+    "lgcode": "\ndili AND tetun\nleaste\nprasa"
+  },
+  "identifier": {
+    "multitree": "tdt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:188-194",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tetun Dili (tdt-tdt) = 1 (National). Statutory national language (2002, Constitution, Article 13)."
+  }
+}

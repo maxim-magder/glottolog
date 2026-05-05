@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bwe Karen",
+    "hid": "bwe",
+    "level": "language",
+    "iso639-3": "bwe",
+    "latitude": "18.9796",
+    "longitude": "96.9936",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56994\nhttps://en.wikipedia.org/wiki/Bwe_Karen_language\n[Karen (Bwe)](https://wals.info/languoid/lect/wals_code_kbw)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:henderson:85**\n**hh:dt:Henderson:Bwe-Karen**\n**hh:hld:Grierson:12:Burma**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:typ:Swanson:Bwe-Karen**"
+  },
+  "altnames": {
+    "wals": "\nKaren (Bwe)",
+    "wals other": "\nBwe Karen",
+    "moseley & asher (1994)": "\nBwe",
+    "multitree": "\nBaghi\nBghai Karen\nBrec\nBræ\nBrè\nBwe\nKaren (Bwe)\nKaren, Bwe\nKaren,Bwe",
+    "lexvo": "\nBwe Karen [en]",
+    "hhbib_lgcode": "\n(BL)\nBlimaw\nBwe\nKaren (Bwe) Blimaw\nKaren-Bwe\nWestern Bwe"
+  },
+  "triggers": {
+    "lgcode": "\nbwe"
+  },
+  "identifier": {
+    "wals": "kbw",
+    "multitree": "bwe"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Karen** **hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**\n**hh:hv:Manson:Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Karen, Bwe (bwe-bwe) = 6a (Vigorous)."
+  }
+}

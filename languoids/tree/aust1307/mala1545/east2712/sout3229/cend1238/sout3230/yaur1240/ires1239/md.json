@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yerisiam",
+    "hid": "ire",
+    "level": "language",
+    "iso639-3": "ire",
+    "latitude": "-3.62803",
+    "longitude": "135.025",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Yerisiam](https://endangeredlanguages.com/lang/1790)\nhttps://en.wikipedia.org/wiki/Yerisiam_language\nhttps://www.wikidata.org/entity/Q6069398"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:kamholz:21**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Sugono:Indonesia**\n**hh:hv:Kamholz:Cenderawasih**\n**hh:hvld:Gasser:Halmahera-West-New-Guinea**\n**hh:hvw:Peckham:Etna**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:hw:Fabritius:NNG**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:hw:Walker:Bomberai**\n**hh:phon:Kamholz:Yeresiam**\n**hh:vw:Kamholz:Southern-Cenderawasih**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Stokhof:Holle:5:2**\n**hh:w:Stokhofetal:Holle:11**\n**hh:w:Stroeve:Niederlandisch-Neu-Guinea**"
+  },
+  "altnames": {
+    "multitree": "\nBeduba\nIresim\nIroquois\nYerisiam",
+    "lexvo": "\nIresim [en]",
+    "hhbib_lgcode": "\nHumuku-Irege Irisami\nIresim\nIresim (Ga)\nIrisam\nIrsam\nYeresiam",
+    "elcat": "\nBeduba\nIresim\nYeresiam\nYerisiam"
+  },
+  "triggers": {
+    "lgcode": "\nneck"
+  },
+  "identifier": {
+    "multitree": "ire;ires",
+    "endangeredlanguages": "1790"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**:139",
+    "subrefs": "\n**hh:hv:Kamholz:South-Halmahera-West-New-Guinea**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yerisiam (1790-ire) = Threatened (60 percent certain, based on the evidence available) [Kamholz 2021](cldf:kamholz:21)"
+  }
+}

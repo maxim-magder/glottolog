@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bile",
+    "hid": "bil",
+    "level": "language",
+    "iso639-3": "bil",
+    "latitude": "8.90052",
+    "longitude": "11.1907",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34987\nhttps://en.wikipedia.org/wiki/Bile_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hsoc:Rueck:Adamawa-Taraba**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Blench:Jarawan**\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hw:Thomas:Bantu**\n**hh:vld:Green:Jarawan**"
+  },
+  "altnames": {
+    "multitree": "\nBile\nBili\nBillanchi\nBille\nKunbille",
+    "lexvo": "\nBile [en]",
+    "hhbib_lgcode": "\nBile_Jarawan\nBili\nBille"
+  },
+  "triggers": {
+    "lgcode": "\njarawan"
+  },
+  "identifier": {
+    "multitree": "bil"
+  },
+  "classification": {
+    "sub": "**hh:hvw:MaddiesonWilliamson:Jarawan** **hh:hv:GreenGrollemund:Jarawan-Bantoid**",
+    "subrefs": "\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hv:GreenGrollemund:Jarawan-Bantoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bille (bil-bil) = 6b (Threatened)."
+  }
+}

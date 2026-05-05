@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ambelau",
+    "hid": "amv",
+    "level": "language",
+    "iso639-3": "amv",
+    "latitude": "-3.85919",
+    "longitude": "127.196",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2669214\nhttps://en.wikipedia.org/wiki/Ambelau_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:vandermiesen:11**\n**hh:h:Taber:Maluku**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:Collins:Maluku**\n**hh:hv:Collins:WCMaluku**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hvsoc:Grimes:Buru**\n**hh:vw:Erniati:Ambalau-Buru**\n**hh:w:Stokhofetal:Holle:3:4**"
+  },
+  "altnames": {
+    "multitree": "\nAmbelau\nAmblau",
+    "lexvo": "\nAmbelau [en]",
+    "hhbib_lgcode": "\nAmbalau\nAmbelau Buru 55d\nAmblau"
+  },
+  "triggers": {
+    "lgcode": "\nambelau"
+  },
+  "identifier": {
+    "multitree": "ambe;amv"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:369-378",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ambelau (amv-amv) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ludian",
+    "hid": "lud",
+    "level": "language",
+    "iso639-3": "lud",
+    "latitude": "61.853",
+    "longitude": "33.7346",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Ludian](https://endangeredlanguages.com/lang/3385)\n[Ludian](https://grambank.clld.org/languages/ludi1246)\nhttps://en.wikipedia.org/wiki/Ludic_language\nhttps://www.wikidata.org/entity/Q33918"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:kujola:ed:44**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:ojansuu:kujola:etal:ed:34**\n**cldf:pls:12**\n**cldf:rodionova:15**\n**hh:d:ElomaaLaakso:Lyydilaismurteiden**\n**hh:d:Kujola:Lyydilaismurteiden**\n**hh:e:Kujola:Lyydilaiset**\n**hh:el:Kehayov:Keskluudi**\n**hh:phonv:TurunenLyydilaismurteiden**\n**hh:s:Virtaranta:Lyydilaismurteen**\n**hh:t:Ojansuuetal:Lyydilaisia**\n**hh:t:Pahomov:Lyydilaisteksteja**\n**hh:vsoc:Pahomov:Lyydilaiskysymys**\n**mpieva:Ojanen1985Adjektii**\n**mpieva:TurunenLyydilai**\n**mpieva:Virtaranta19631994Lyydilai**"
+  },
+  "altnames": {
+    "multitree": "\nLud\nLude\nLude mixed dialect\nLudian\nLudic\nLudic dialects\nLudio\nLyudic\nLyudikovian\nLüdic\nLüdisch\nSüdost-Karelisch\nSüdostdialekt des Karelischen\nl'udikovskij dialekt\nljudy\nlude\nlyydiäismurteet\nlüd'köi\nlüdisch",
+    "lexvo": "\nLudian [en]",
+    "elcat": "\nLud\nLude\nLudian\nLudic\nLudic Karelian\nLuudi\nLyudic\nLyudikovian\nLyydin kieli\nLüdic\nLüdisch\nSüdost-Karelisch\nSüdostdialekt des Karelischen\nl'udikovskij dialekt\nl'yyd'ikiel'\nljudy\nlyydin kiel'\nlyydiäismurteet\nlüd'köi\nlüdisch\nlüüdikiel'\nlüüdin kiel’\nлюдиковский язык"
+  },
+  "triggers": {
+    "lgcode": "\nlyydilaisia\noppia\nvenalais\nlyydilaismurteiden"
+  },
+  "identifier": {
+    "multitree": "lud",
+    "endangeredlanguages": "3385"
+  },
+  "classification": {
+    "sub": "**hh:hv:Viitso:Fennic**",
+    "subrefs": "\n**hh:hv:Viitso:Fennic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ludian (3385-lud) = Critically Endangered (60 percent certain, based on the evidence available) (Людиковское наречие находится на грани полного исчезновения.\"\n\"Главными причинами быстрого угасания людиковского наречия карельского языка является отсутствие его преподавания в учебных заведениях, а также официальной поддержки деятельности по сохранению и развитию.) [Rodionova] 2015](elcat:5164b46830eb9b286b4e6dd514d84d8c)"
+  }
+}

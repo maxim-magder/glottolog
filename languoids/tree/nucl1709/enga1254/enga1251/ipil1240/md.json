@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ipili",
+    "hid": "ipi",
+    "level": "language",
+    "iso639-3": "ipi",
+    "latitude": "-5.42586",
+    "longitude": "143.089",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Ipili_language\nhttps://www.wikidata.org/entity/Q6065141"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Gibbs:Ipili**\n**hh:e:McBride:Porgera-Strickland**\n**hh:e:Meggitt:Ipili**\n**hh:hld:Lean:Enga-Western-Highlands-Simbu**\n**hh:hv:Franklin:Engan**\n**hh:ld:Ingemann:Ipili:1996**\n**hh:typ:Ingemann:Ipili:1996**\n**hh:w:Haberland:Korowori**\n**silpng:silpng1991-2000:708**\n**silpng:silpng1991-2000:709**\n**silpng:silpng1991-2000:710**\n**silpng:silpng1991-2000:711**\n**silpng:silpng1991-2000:712**"
+  },
+  "altnames": {
+    "multitree": "\nIpili\nIpili-Paiela\nIpili-Payala",
+    "lexvo": "\nIpili [en]",
+    "hhbib_lgcode": "\nKayomtok-Haberland Südlichen Nachbarn der Yimar\nKayomtok-Seyfarth Südlichen Nachbarn der Yimar\nLagaip Enga"
+  },
+  "triggers": {
+    "lgcode": "\nporgera\nipili\ntatomela"
+  },
+  "identifier": {
+    "multitree": "ipi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Franklin:Engan**",
+    "subrefs": "\n**hh:hv:Franklin:Engan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ipili (ipi-ipi) = 5 (Developing)."
+  }
+}

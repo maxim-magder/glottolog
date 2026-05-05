@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Apolista",
+    "hid": "NOCODE_Apolista",
+    "level": "language",
+    "latitude": "-14.83",
+    "longitude": "-68.66",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Apolista](https://grambank.clld.org/languages/apol1242)\n[Lapachu](https://endangeredlanguages.com/lang/1574)\nhttps://en.wikipedia.org/wiki/Lapachu_language\nhttps://www.wikidata.org/entity/Q16916645",
+    "timespan": "1905-01-01/1905-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ramirez:Arawak-Bolivia**:57-59",
+    "subrefs": "\n**hh:hv:Ramirez:Arawak-Bolivia**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:campbell:12**\n**cldf:crevels:07**\n**hh:hew:dOrbigny:Americain:1**\n**hh:hw:Danielsen:Bolivian**\n**hh:hw:Nordenskiold:B5858**\n**hh:v:deCrequi-MontfortRivet:Apolista**"
+  },
+  "triggers": {
+    "lgcode": "\napolista"
+  },
+  "identifier": {
+    "multitree": "qa6",
+    "endangeredlanguages": "1574"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Some century-old data is attributable to an Arawakan language of Bolivia (**hh:v:deCrequi-MontfortRivet:Apolista**, **hh:vw:Payne:Apolista**)\ngiven the name Apolista. Although the present and past status of this language is not unequivocal (**hh:hv:Ramirez:Arawak-Bolivia**),\na language for the old data is missing in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Apolista"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lapachu (1574) = Dormant [Campbell 2012](cldf:campbell:12)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAguachile\nLapachu",
+    "elcat": "\nAguachile\nApolista\nLapacho\nLapachu"
+  }
+}

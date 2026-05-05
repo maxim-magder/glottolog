@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Playero",
+    "hid": "gob",
+    "level": "language",
+    "iso639-3": "gob",
+    "latitude": "6.90948",
+    "longitude": "-71.0036",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO",
+      "VE"
+    ],
+    "links": "\n[Playero](https://endangeredlanguages.com/lang/2956)\n[Playero](https://lexibank.clld.org/languages/hubercolumbian-Playero)\n[Playero](https://wals.info/languoid/lect/wals_code_pla)\n[playero](https://lexibank.clld.org/languages/chaconcolumbian-Playero)\nhttps://en.wikipedia.org/wiki/Playero_language\nhttps://www.wikidata.org/entity/Q3027923"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4089**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:huber:reed:92:1**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**fabreall2009ann:Guahib0_pepojivi1**\n**hh:hv:Queixalos:Guahibo**\n**hh:hvw:HuberReed:Colombia**\n**hh:phon:Ginebra:Yamalero**"
+  },
+  "altnames": {
+    "wals": "\nPlayero",
+    "moseley & asher (1994)": "\nPlayero",
+    "multitree": "\nPlayero\nRio Arauca Guahibo",
+    "lexvo": "\nPlayero [en]\nPlayero language [en]",
+    "elcat": "\nPepojivi\nPlayero\nRio Arauca Guahibo\nYamarero",
+    "hhbib_lgcode": "\nYamalero closest (Ginebra 2022:25) to Playero"
+  },
+  "triggers": {
+    "lgcode": "\nun AND chantiers"
+  },
+  "identifier": {
+    "wals": "pla",
+    "multitree": "gob",
+    "endangeredlanguages": "2956"
+  },
+  "classification": {
+    "sub": "**hh:phon:Ginebra:Yamalero**:25",
+    "subrefs": "\n**hh:phon:Ginebra:Yamalero**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Playero (2956-gob) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

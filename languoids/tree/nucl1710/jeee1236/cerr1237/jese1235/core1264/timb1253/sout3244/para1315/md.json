@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pará Gavião",
+    "hid": "gvp",
+    "level": "language",
+    "iso639-3": "gvp",
+    "latitude": "-4.91161",
+    "longitude": "-49.0217",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Gavião de Parã](https://endangeredlanguages.com/lang/2669)\nhttps://en.wikipedia.org/wiki/Par%C3%A1_Gavi%C3%A3o_language\nhttps://phoible.org/languages/para1315\nhttps://www.wikidata.org/entity/Q3365443"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:ferreira:05:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Je_timbira_oriental014**\n**fabreall2009ann:Je_timbira_oriental015**\n**fabreall2009ann:Je_timbira_oriental016**\n**hh:d:Araujo:Parkateje**\n**hh:e:Arnaud:Gavioes**\n**hh:e:Arnaud:Gavioes:1964**\n**hh:e:Ferraz:Parkateje**\n**hh:e:deMiranda:Gavioes**\n**hh:g:Ferreira:Parkateje**\n**hh:g:Ferreira:Parkateje:2005**\n**hh:gd:deAraujo:Gaviao-Je**\n**hh:hvld:Alves:Timbira**\n**hh:s:Ferreira:Parkateje-Portuguese**\n**hh:s:deAraujo:Gaviao-Je**\n**hh:soc:Rodrigues:Kyikateje**\n**ldh:item_401402**\n**mpieva:Amado2004Aspectos**\n**mpieva:Ferreira2005Amorphos**"
+  },
+  "altnames": {
+    "glottolog": "\nPara Gaviao\nPará Gavião\nPará-Maranhão Gavião",
+    "multitree": "\nBocobu\nCanela\nGavião du Pará\nGavião pukobiê\nGavião, Parã\nKanela\nKrahó\nKrahô\nKrenjé\nKrenjê\nKreye\nKrikati\nParakatêjê\nPiokob\nPukobjê\nPukobyé\nPukobyê\nTimbira",
+    "lexvo": "\nPará Gavião [en]",
+    "hhbib_lgcode": "\nGavião-Pará\nKreje of the Bacaba am Cajuapará\nKrepumkateye / Pykobye\nKreye of Cajuapara\nKreye of Cajuapára\nKreye of Kreye of Cajuapára\nKreye of Posto Indigena da Atracao \"Pedro Dantas\" a beira paraense do Rio Gurupi\nKrikati\nKrikati-Timbira\nKrikatí\nKrinkati\nKrinkati-Timbira\nKrĩnkatí\nKyikatêjê\nMenren\nParkateje\nPará Gavião\nPykobje\nPykobye\nPykobyes",
+    "elcat": "\nBocobu\nCanela\nGavião\nGavião de Parã\nKanela\nKrahó\nKrenjé\nParakatêjê\nParã\nPiokob\nPukobjê\nPukobyé"
+  },
+  "triggers": {
+    "lgcode": "\nsubjacentes\ndeclarativas\npykobje\nmorphossintaxe\npykobye\nparkateje\nafirmativas"
+  },
+  "identifier": {
+    "multitree": "gvp",
+    "endangeredlanguages": "2669"
+  },
+  "classification": {
+    "sub": "**hh:e:Nimuendaju:Timbira**:6 **hh:hvld:Alves:Timbira**",
+    "subrefs": "\n**hh:e:Nimuendaju:Timbira**\n**hh:hvld:Alves:Timbira**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Gavião de Parã (2669-gvp) = Endangered (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:264)"
+  }
+}

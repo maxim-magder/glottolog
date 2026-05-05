@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kélé",
+    "hid": "keb",
+    "level": "language",
+    "iso639-3": "keb",
+    "latitude": "-0.78854",
+    "longitude": "10.3836",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35559\nhttps://en.wikipedia.org/wiki/Kele_language_(Gabon)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:12170**\n**eballiso2009:20389**\n**eballiso2009:21291**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:32904**\n**eballiso2009:37**\n**eballiso2009:41**\n**eballiso2009:4310**\n**eballiso2009:48210**\n**hh:h:Miletto:Haut-Ogooue**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hew:duChaillu:Afrique-Sauvage**\n**hh:hew:duChaillu:Ashango**\n**hh:hld:Bowdich:Cape-Coast-Ashantee**\n**hh:hlde:duChaillu:Afrique-Equatoriale**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvtyp:Jacquot:B10-B20-B30**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hvw:Meinhof:Kamerun**\n**hh:phon:Nkoghe:Akele**\n**hh:s:Amrouche:Akele**\n**hh:s:Avome:Akele**\n**hh:typd:Preston:Bakele**\n**hh:w:Cottes:Sud-Cameroun**"
+  },
+  "altnames": {
+    "glottolog": "\nKele",
+    "multitree": "\nAkele\nDikele\nKélé\nWestern Kele",
+    "lexvo": "\nKélé [en]",
+    "hhbib_lgcode": "\nAkele\nAkele des lacs\nAkele/Ntumbidi/Bungom/Mbaouin\nB22a_Kele\nBakalai\nBakele\nBakélé\nDikele\nKaylee\nKele\nKele or Bangomo\nMuntumbudie\nMétombolo"
+  },
+  "triggers": {
+    "lgcode": "\nb22a\nmakouke\nseke\nongom\nbakele\nlogoue\nakele\nlakele"
+  },
+  "identifier": {
+    "multitree": "keb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359-363 **hh:hvw:Koumbi:Kota-Kele**",
+    "subrefs": "\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kélé (keb-keb) = 6b* (Threatened)."
+  }
+}

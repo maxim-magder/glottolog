@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lokoya",
+    "hid": "lky",
+    "level": "language",
+    "iso639-3": "lky",
+    "latitude": "4.64724",
+    "longitude": "32.26247",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56687\nhttps://en.wikipedia.org/wiki/Lokoya_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2431**\n**asjp2010:662**\n**hh:he:Nalder:Mongalla**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hvw:Vossen:ENilotes**\n**hh:ld:Muratori:Lotuxo-Altri**\n**hh:s:Westermann:Oxoriok**\n**hh:w:Driberg:Lotuko**"
+  },
+  "altnames": {
+    "multitree": "\nEllyria\nKoyo\nLoirya\nLokoiya\nLokoja\nLokoya\nLoquia\nLowoi\nOirya\nOwoi\nOxoriok\nOxoryok",
+    "lexvo": "\nLokoya [en]",
+    "hhbib_lgcode": "\nLoirya\nLokoiya\nLokoya (Lowoi)\nLokoya Telegu (Loyirya)\nLērya\nOwe\nOxoriok"
+  },
+  "triggers": {
+    "lgcode": "\noxoriok\nthe AND nilotes"
+  },
+  "identifier": {
+    "multitree": "lky"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Vossen:ENilotes**",
+    "subrefs": "\n**hh:hvw:Vossen:ENilotes**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lokoya (lky-lky) = 6b* (Threatened)."
+  }
+}

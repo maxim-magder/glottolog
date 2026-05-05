@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Hopi",
+    "hid": "hop",
+    "level": "language",
+    "iso639-3": "hop",
+    "latitude": "35.7653",
+    "longitude": "-110.535",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Hopi](https://endangeredlanguages.com/lang/2374)\n[Hopi](https://lexibank.clld.org/languages/utoaztecan-Hopi)\n[Hopi](https://wals.info/languoid/lect/wals_code_hop)\nhttps://en.wikipedia.org/wiki/Hopi_language\nhttps://phoible.org/languages/hopi1249\nhttps://www.wikidata.org/entity/Q56421"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beaglehole:37**\n**cldf:beaglehole:beaglehole:35**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dennis:40**\n**cldf:dozier:70**\n**cldf:ed:10**\n**cldf:eggan:50**\n**cldf:frawley:hill:etal:ed:02:1**\n**cldf:frawley:hill:etal:ed:02:5**\n**cldf:gipper:72**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:gronemeyer:96**\n**cldf:hrdlicka:35**\n**cldf:jeanne:82**\n**cldf:kalectaca:78**\n**cldf:key:65**\n**cldf:kluckhohn:macleish:55**\n**cldf:langacker:76**\n**cldf:langacker:77**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lowie:29**\n**cldf:manaster-ramer:86**\n**cldf:murdock:34:6**\n**cldf:np:nd:264**\n**cldf:project:98**\n**cldf:seaman:85**\n**cldf:seaman:96**\n**cldf:shaul:88**\n**cldf:simmons:42**\n**cldf:titiev:44**\n**cldf:titiev:56**\n**cldf:voegelin:56**\n**cldf:voegelin:voegelin:57**\n**cldf:whorf:35**\n**cldf:whorf:38**\n**hh:d:AlbertShaul:Hopi**\n**hh:g:Jeanne:Hopi**\n**hh:g:KalectacaLangacker:Hopi**\n**hh:hvb:Golla:California**\n**hh:hvw:Kroeber:Shoshonean**\n**hh:s:Malotki:Hopi**\n**hh:s:Whorf:Hopi**\n**hh:sd:Hill:Hopi**\n**hh:sd:Seaman:Hopi**\n**hh:soc:McElgunn:Hopi**\n**hh:t:Malotki:Hopi-Tales**\n**hh:typ:Malotki:Hopi-Raum**\n**hh:typ:Stahlschmidt:Hopi**\n**mpieva:Hill1998Hopiikwa**\n**mpieva:Voegelin1974Hopidoma**\n**sil16:14965**\n**sil16:14967**\n**sil16:18940**\n**sil16:21138**\n**sil16:23053**"
+  },
+  "altnames": {
+    "wals": "\nHopi",
+    "ruhlen (1987)": "\nHopi",
+    "moseley & asher (1994)": "\nHopi",
+    "multitree": "\nHopi\nHopí\nMoki\nMoqui\nPueblo\nPueblo Shoshonean Subfamily\nTusayan",
+    "lexvo": "\nHopi [en]\nHopi jezik [hr]\nHopi language [en]\nHopi simi [qu]\nHopia lingvo [eo]\nHopieg [br]\nIdioma hopi [es]\nJęzyk hopi [pl]\nLíngua hopi [pt]\nホピ語 [ja]\n호피어 [ko]",
+    "elcat": "\nHopi\nMoki\nMoqui\nPueblo\nTusayan"
+  },
+  "triggers": {
+    "lgcode": "\ntoreva\nNOT phonology AND hopi\nhopiikwa\nlavaytutuveni"
+  },
+  "identifier": {
+    "wals": "genus/hopi",
+    "multitree": "hopi;hop",
+    "endangeredlanguages": "2374"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hopi (2374-hop) = Threatened (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

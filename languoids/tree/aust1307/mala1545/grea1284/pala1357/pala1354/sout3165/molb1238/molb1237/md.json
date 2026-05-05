@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Molbog",
+    "hid": "pwm",
+    "level": "language",
+    "iso639-3": "pwm",
+    "latitude": "7.956663",
+    "longitude": "117.030502",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY",
+      "PH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6895718\nhttps://en.wikipedia.org/wiki/Molbog_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ld:Thiessen:Molbog**\n**hh:typ:Inglis:Molbog**\n**hh:typ:Inglis:Molbog:Discourse**\n**hh:w:Lobel:North-Borneo**\n**hh:w:ZorcThiessen:Molbog**"
+  },
+  "altnames": {
+    "multitree": "\nMolbog\nMolbog Palawan",
+    "lexvo": "\nMolbog [en]",
+    "hhbib_lgcode": "\n(45) Molbog (MOLBOG)"
+  },
+  "triggers": {
+    "lgcode": "\nmolbog"
+  },
+  "identifier": {
+    "multitree": "pwm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thiessen:Palawan**",
+    "subrefs": "\n**hh:hv:Thiessen:Palawan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Molbog (pwm-pwm) = 5 (Developing)."
+  }
+}

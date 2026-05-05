@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Cypriot Arabic",
+    "hid": "acy",
+    "level": "language",
+    "iso639-3": "acy",
+    "latitude": "35.1674",
+    "longitude": "33.0943",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CY"
+    ],
+    "links": "\n[Arabic (Kormakiti)](https://wals.info/languoid/lect/wals_code_ako)\n[Cypriot Arabic](https://grambank.clld.org/languages/cypr1248)\n[Cypriot Spoken Arabic](https://endangeredlanguages.com/lang/3177)\nhttps://en.wikipedia.org/wiki/Cypriot_Arabic\nhttps://www.wikidata.org/entity/Q56416"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Borg:Cypriot-Arabic**\n**hh:g:Frankiskou:Maroniton**\n**hh:h:Boustany:Libains-Chypre**\n**hh:ld:Borg:Cypriot-Arabic**\n**hh:phon:Borg:Kormakiti**\n**hh:s:Tsiapera:Maronite**\n**hh:soc:Gulle:Kormakiti-Arabic**\n**hh:typ:Roth:Kormakiti**\n**hh:vd:Borg:Cypriot-Maronite**\n**hh:vtyp:Walter:Cypriot-Maronite-Arabic**"
+  },
+  "altnames": {
+    "wals": "\nArabic (Kormakiti)",
+    "ruhlen (1987)": "\nCypriot Arabic Kormakiti",
+    "moseley & asher (1994)": "\nArabic (Eastern)",
+    "multitree": "\nArabe chypriote\nArabic\nArabic (Kormakiti)\nArabic, Cypriot Spoken\nCypriot Arabic\nCypriot Arabic: Kormakiti\nCypriot Maronite Arabic\nCypriot Spoken\nMaronite\nSanna\nÁrabe chipriota",
+    "lexvo": "\nArabeg Kiprenez [br]\nCipriotski arapski [hr]\nCypriot Arabic [en]\nCypriot Maronite Arabic [en]\nKormakiti [gsw]\nZyprisches Arabisch [de]\nКипрско-арабский язык [ru]\nلهجة عربية قبرصية [ar]\nภาษาอาหรับมาโรไนต์ [th]\n키프로스 마론파 아랍어 [ko]",
+    "hhbib_lgcode": "\nArabic-Cypriot Spoken\nKormakiti Arabic",
+    "elcat": "\nArabic\nArabic (Kormakiti)\nCypriot Arabic\nCypriot Arabic: Kormakiti\nCypriot Maronite Arabic\nCypriot Spoken\nCypriot Spoken Arabic\nMaronite\nSanna"
+  },
+  "triggers": {
+    "lgcode": "\nsudostanatolien\ncyprus\nkormakiti\nmaronites\nkyrenia\nmaronite"
+  },
+  "identifier": {
+    "wals": "ako",
+    "multitree": "acy",
+    "endangeredlanguages": "3177"
+  },
+  "classification": {
+    "sub": "**hh:g:Borg:Cypriot-Arabic** **hh:hv:Naim:Levant**",
+    "subrefs": "\n**hh:hv:Naim:Levant**\n**hh:g:Borg:Cypriot-Arabic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Cypriot Spoken Arabic (3177-acy) = Endangered (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

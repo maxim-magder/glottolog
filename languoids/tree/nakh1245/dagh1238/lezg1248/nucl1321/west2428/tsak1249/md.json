@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tsakhur",
+    "hid": "tkr",
+    "level": "language",
+    "iso639-3": "tkr",
+    "latitude": "41.5916",
+    "longitude": "46.8858",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "RU"
+    ],
+    "links": "\n[Tsakhur](https://endangeredlanguages.com/lang/3034)\nhttps://www.wikidata.org/entity/Q36853\nhttps://en.wikipedia.org/wiki/Tsakhur_language\n[Tsakhur](https://wals.info/languoid/lect/wals_code_tsa)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2228**\n**cldf:anonymous:99**\n**cldf:clifton:tiessen:etal:05**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:davies:sosenkaja:etal:99**\n**cldf:ed:10**\n**cldf:haspelmath:ed:04:6**\n**cldf:humphreys:mits:ed:93**\n**cldf:ibragimov:90**\n**cldf:kazenin:testelets:04**\n**cldf:kibrik:03**\n**cldf:kibrik:ed:99**\n**cldf:kodzasov:99:1**\n**cldf:lewis:ed:09**\n**cldf:ljutikova:bonch-osmolovskaja:99**\n**cldf:lyutikova:00**\n**cldf:np:nd:264**\n**hh:g:Ibragimov:Tsaxurskij**\n**hh:g:Ibragimov:Tsaxursko**\n**hh:g:KibrikTestelec:Tsaxurskogo**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Isaev:Tsaxurskij**\n**hh:s:Schulze:Tsakhur**\n**hh:s:Talibov:Tsakhur**\n**mpieva:Ibragimov1990Cachursk**\n**mpieva:Kibrik1999Elementy**\n**sil16:45467**\n**sil16:45587**\n**sil16:45620**"
+  },
+  "altnames": {
+    "wals": "\nTsakhur",
+    "ruhlen (1987)": "\nTsakhur",
+    "moseley & asher (1994)": "\nTsaxur",
+    "multitree": "\nCaxur\nSakhur\nTsajur\nTsakhar\nTsakhour\nTsakhur\nTsakhury\nTsaxur",
+    "lexvo": "\nJęzyk cachurski [pl]\nLíngua tsakhur [pt]\nTsachurische Sprache [de]\nTsahurin kieli [fi]\nTsakhur [en]\nTsakhur language [en]\nЦахурски јазик [mk]\nЦахурский язык [ru]\nЦахурська мова [uk]",
+    "elcat": "\nCaxur\nSakhur\nSaxur dili\nTsakhar\nTsakhur\nTsakhury\nTsaxur\ncʼäxna miz\nцахурский язык\nцӀаӀхна миз\nწახური ენა"
+  },
+  "triggers": {
+    "lgcode": "\nzachurskogo\nelementy\ncaxurskij\ntsaxurskij\ntipologiceskom\ndagestanskich\ntsakhur\ncachurskij\ncaxurskogo\naktantnye"
+  },
+  "identifier": {
+    "wals": "tsa",
+    "multitree": "tkr",
+    "endangeredlanguages": "3034",
+    "languagelandscape": "http://languagelandscape.org/language/Tsakhur"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Schulze:Caucasian-Albanian-Udi**",
+    "subrefs": "\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Tsakhur (3034-tkr) = Vulnerable (80 percent certain, based on the evidence available) (Most children are speakers.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

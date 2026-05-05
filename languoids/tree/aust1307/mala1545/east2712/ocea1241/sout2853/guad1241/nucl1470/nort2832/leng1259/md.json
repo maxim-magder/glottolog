@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lengo",
+    "hid": "lgr",
+    "level": "language",
+    "iso639-3": "lgr",
+    "latitude": "-9.56425",
+    "longitude": "160.42",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Lengo](https://grambank.clld.org/languages/leng1259)\n[Lengo](https://lexibank.clld.org/languages/abvdoceanic-Lengo)\nhttps://en.wikipedia.org/wiki/Lengo_language\nhttps://www.wikidata.org/entity/Q3229454"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Unger:Lengo**\n**hh:hew:Woodford:Solomon**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:TryonHackman:Solomon**\n**hh:s:Simons:Ghaimuta**"
+  },
+  "altnames": {
+    "multitree": "\nLengo\nRuavatu\nSüdliche Salomons-Inseln\nTasemboko",
+    "lexvo": "\nLengo [en]",
+    "hhbib_lgcode": "\nAola and Tasimboko Guadalcanar"
+  },
+  "triggers": {
+    "lgcode": "\nlengo\nghaimuta"
+  },
+  "identifier": {
+    "multitree": "lgr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Guadalcanal-Nggelic**",
+    "subrefs": "\n**hh:hv:Pawley:Guadalcanal-Nggelic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lengo (lgr-lgr) = 6a (Vigorous)."
+  }
+}

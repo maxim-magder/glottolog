@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nafusi",
+    "hid": "jbn",
+    "level": "language",
+    "iso639-3": "jbn",
+    "latitude": "31.93488",
+    "longitude": "11.78231",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LY",
+      "TN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36151\nhttps://en.wikipedia.org/wiki/Nafusi_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Arabic-Berber**:25 **hh:hv:Kossmann:Berber:2020**:284",
+    "subrefs": "\n**hh:hv:Kossmann:Arabic-Berber**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3348**\n**eballiso2009:19564**\n**eballiso2009:25574**\n**eballiso2009:36002**\n**eballiso2009:36519**\n**eballiso2009:48231**\n**eballiso2009:48234**\n**eballiso2009:52963**\n**eballiso2009:6036**\n**hh:g:Beguinot:Nefusi**\n**hh:hv:Basset:Berbere**\n**hh:ld:Bossoutrot:Nefoussa**\n**hh:s:Basset:Barbere**\n**hh:st:Motylinski:Djebel-Nefousa**\n**hh:w:deGuiraudon:Dyebayli**\n**iso6393:2021-004**"
+  },
+  "altnames": {
+    "multitree": "\nBerber\nDjerbi\nJabal Nafusi\nJabal Nafūsa\nJabal nafusah\nJbel Nafusi\nJebel Nefusi\nNafusi\nNefousi\nNefusi\nShilha\nTaujjut\nTunisian Berber",
+    "lexvo": "\nLenga Nafusi [pms]\nLingua nefusi [it]\nNafouseg [br]\nNafusi [de]\nNafusi jezik [hr]\nNafusi language [en]\nTamazight [de]",
+    "hhbib_lgcode": "\nDjebel Nefousa\nDyebayli"
+  },
+  "triggers": {
+    "lgcode": "\nnefusi\nnefousa\nnafusi"
+  },
+  "identifier": {
+    "multitree": "jbn"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Nafusi (1970-jbn) = Severely endangered"
+  }
+}

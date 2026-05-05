@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Usila Chinantec",
+    "hid": "cuc",
+    "level": "language",
+    "iso639-3": "cuc",
+    "latitude": "17.9184",
+    "longitude": "-96.4074",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chinantec (San Felipe Usila)](https://wals.info/languoid/lect/wals_code_csf)\n[Upper West-Central Chinantec](https://endangeredlanguages.com/lang/9871)\nhttps://en.wikipedia.org/wiki/Usila_Chinantec\nhttps://www.wikidata.org/entity/Q7901979"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3470**\n**cldf:lewis:paul:etal:ed:15**\n**hh:sd:SkinnerSkinner:Chinanteco-Usila**\n**sil16:12330**\n**sil16:13632**\n**sil16:13633**\n**sil16:17394**"
+  },
+  "altnames": {
+    "wals": "\nChinantec (San Felipe Usila)",
+    "wals other": "\nChinantec\nSan Felipe Usila",
+    "ruhlen (1987)": "\nChinanteko",
+    "moseley & asher (1994)": "\nChinantec",
+    "multitree": "\nChinantec\nChinantec (San Felipe Usila)\nChinantec, Usila\nChinanteco\nChinanteco (Usila)\nChinanteko\nUsila\nUsila Chinanteko",
+    "lexvo": "\nUsila Chinantec [en]",
+    "elcat": "\nChinantec\nChinanteco\nChinanteco del oeste central alto\nChinanteko\nUpper West-Central Chinantec\nUsila Chinantec\njaú jm\njmiih kia' dzä jii'"
+  },
+  "triggers": {
+    "lgcode": "\nusila"
+  },
+  "identifier": {
+    "wals": "csf",
+    "multitree": "cuc",
+    "endangeredlanguages": "9871"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Upper West-Central Chinantec (9871-cuc) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

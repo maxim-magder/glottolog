@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mungbam",
+    "hid": "mij",
+    "level": "language",
+    "iso639-3": "mij",
+    "latitude": "6.5805",
+    "longitude": "10.2267",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mungbam](https://endangeredlanguages.com/lang/8809)\n[Mungbam](https://grambank.clld.org/languages/abar1238)\nhttps://en.wikipedia.org/wiki/Mungbam_language\nhttps://phoible.org/languages/abar1238\nhttps://www.wikidata.org/entity/Q34725"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Goodetal:Lower-Fungom** **hh:hwsoc:Hammetal:WBeboid**:9",
+    "subrefs": "\n**hh:hwsoc:Hammetal:WBeboid**\n**hh:hvld:Goodetal:Lower-Fungom**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:good:dicarlo:12**\n**cldf:good:lovegren:etal:11**\n**cldf:lewis:ed:09**\n**hh:g:Lovegren:Mungbam**\n**hh:h:DiCarlo:Lower-Fungom**\n**hh:h:Good:Fungom**\n**hh:h:Good:Multilingual**\n**hh:hvld:Goodetal:Lower-Fungom**\n**hh:hvld:Hombert:Beboid**\n**hh:hwsoc:Hammetal:WBeboid**\n**hh:phon:Gounou:Missong**\n**iso6393:2011-147**\n**iso6393:2012-099**\n**ldh:item_403263**\n**sil16:41940**"
+  },
+  "altnames": {
+    "multitree": "\nAbar\nMijong\nMissong",
+    "lexvo": "\nAbar [en]",
+    "hhbib_lgcode": "\nAbar\nFən\nMissong",
+    "elcat": "\nAbar\nMijong\nMissong\nMungbam"
+  },
+  "triggers": {
+    "lgcode": "\nwestern AND menchum\nmungbam"
+  },
+  "identifier": {
+    "multitree": "mij",
+    "endangeredlanguages": "8809"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mungbam (8809-mij) = Threatened (20 percent certain, based on the evidence available) [Good and DiCarlo 2012](cldf:good:dicarlo:12)"
+  }
+}

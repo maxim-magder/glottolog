@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Phoenician",
+    "hid": "phn",
+    "level": "language",
+    "iso639-3": "phn",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LB"
+    ],
+    "longitude": "35.65",
+    "latitude": "34.12",
+    "links": "\n[Phoenician](https://grambank.clld.org/languages/phoe1239)\nhttps://en.wikipedia.org/wiki/Phoenician_language\nhttps://www.wikidata.org/entity/Q36734",
+    "timespan": "-1020-01-01/-1020-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Krahmalkov:Phoenician-Punic**\n**hh:g:Segert:Phoenician**\n**hh:g:vandenBranden:Phenicienne**\n**hh:hvtyp:Garr:Syria-Palestine**\n**hh:hvtyp:Garr:Syria-Palestine:1982**\n**hh:ld:Guzzo:Phoenician-Punic-Sicily**\n**hh:ld:Israel:Fenicia**\n**hh:ld:Pittau:Fenicio-Punici**\n**hh:s:Hackett:Phoenician-Punic**\n**hh:s:Harris:Phoenician**\n**hh:s:Segert:Phoenician**\n**hh:st:Tropper:Zincirli**\n**mpieva:Friedrich1999Phonizis**\n**mpieva:Harris1990Agrammar**\n**mpieva:Krahmalkov2000Phoenici**"
+  },
+  "altnames": {
+    "multitree": "\nBana\nPhoenician\nPunic",
+    "lexvo": "\nBahasa Phoenicia [ms]\nFenica lingvo [eo]\nFenicek [kw]\nFenicisch [nl]\nFeniciska [sv]\nFenike dili [tr]\nFenikianeg [br]\nFenički jezik [sh]\nFoiniikia keel [et]\nFoinikian kieli [fi]\nFéničtina [cs]\nFöníciai nyelv [hu]\nFønikisk [no]\nIdioma fenicio [an]\nJęzyk fenicki [pl]\nKifinisia [sw]\nLingua Phoenicia [la]\nLingua fenicia [gl]\nLlengua fenícia [ca]\nLíngua fenícia [pt]\nPhoenician [en]\nPhoenician language [en]\nPhénicien [fr]\nPhönizisch-punische Sprache [de]\nphénicien [fr]\nФеникиски јазик [mk]\nФиникийски език [bg]\nФиникийский язык [ru]\nلغة فينيقية [ar]\nफोनेसियन भाषा [hi]\nபொனிசீய மொழி [ta]\nภาษาฟินิเชียน [th]\nフェニキア語 [ja]\n腓尼基语 [zh]\n페니키아어 [ko]",
+    "hhbib_lgcode": "\nFenicia\nFenicio-Punici in Sardegna"
+  },
+  "triggers": {
+    "lgcode": "\nphoenician\npunische\nzincirli\nphenicienne"
+  },
+  "identifier": {
+    "multitree": "phn"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The extinct but well-attested Phoenician-Punic language is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:s:Harris:Phoenician**, **hh:g:Friedrich:Punische**, **hh:st:Kerr:Latino-Punic**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "phn"
+  },
+  "classification": {
+    "sub": "**hh:s:Hackett:Phoenician-Punic**",
+    "subrefs": "\n**hh:s:Hackett:Phoenician-Punic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Phoenician (phn-phn) = 10 (Extinct)."
+  }
+}

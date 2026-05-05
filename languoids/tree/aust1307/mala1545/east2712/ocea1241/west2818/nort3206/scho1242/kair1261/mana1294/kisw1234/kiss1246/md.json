@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Kis",
+    "hid": "kis",
+    "level": "language",
+    "iso639-3": "kis",
+    "latitude": "-3.83909",
+    "longitude": "143.96",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kis](https://endangeredlanguages.com/lang/4394)\n[Kis](https://lexibank.clld.org/languages/abvdoceanic-Kis)\nhttps://en.wikipedia.org/wiki/Kis_language\nhttps://www.wikidata.org/entity/Q6416362"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Laycock:AustronesianSepik**\n**hh:w:Laycock:D25**"
+  },
+  "altnames": {
+    "multitree": "\nKis",
+    "lexvo": "\nKis [en]",
+    "elcat": "\nKis"
+  },
+  "identifier": {
+    "multitree": "kis",
+    "endangeredlanguages": "4394"
+  },
+  "classification": {
+    "sub": "**hh:g:Lichtenberk:Manam**:2 **hh:hv:Ross:WMelanesia**:120-132, 418",
+    "subrefs": "\n**hh:g:Lichtenberk:Manam**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kis (4394-kis) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

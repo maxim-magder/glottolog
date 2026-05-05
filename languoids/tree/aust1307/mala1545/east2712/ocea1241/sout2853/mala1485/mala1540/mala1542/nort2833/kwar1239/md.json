@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kwara'ae",
+    "hid": "kwf",
+    "level": "language",
+    "iso639-3": "kwf",
+    "latitude": "-8.75779",
+    "longitude": "160.804",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Kwara'ae](https://grambank.clld.org/languages/kwar1239)\n[Kwara'ae (Solomon Islands')](https://lexibank.clld.org/languages/abvdoceanic-KwaraaeSolomonIslands)\nhttps://en.wikipedia.org/wiki/Kwaraqae\nhttps://www.wikidata.org/entity/Q3200829"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:burt:94**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:keesing:91:1**\n**cldf:moore:07**\n**cldf:np:14:5**\n**cldf:np:19:4**\n**cldf:pawley:72**\n**hh:g:Macdonald:Kwaraqae**\n**hh:hvld:Ray:Island**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Ray:Fiu**\n**hh:s:Deck:Kwaraae**\n**hh:s:Ivens:KwaraAe**\n**sil16:16552**"
+  },
+  "altnames": {
+    "multitree": "\nFiu\nKwara'ae\nSüdliche Salomons-Inseln",
+    "lexvo": "\nKwara'ae [en]",
+    "hhbib_lgcode": "\nFiu\nKwara'ae (Piu)\nKwaraqae"
+  },
+  "triggers": {
+    "lgcode": "\nfiu\nkwaraae\nkwaraqae\nkwara"
+  },
+  "identifier": {
+    "multitree": "kwf"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kwara’ae (kwf-kwf) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Solu-Khumbu Sherpa",
+    "hid": "xsr",
+    "level": "language",
+    "iso639-3": "xsr",
+    "latitude": "27.674",
+    "longitude": "86.9994",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Sherpa](https://endangeredlanguages.com/lang/5690)\n[Sherpa](https://wals.info/languoid/lect/wals_code_she)\n[Tibetan (Sherpa)](https://lexibank.clld.org/languages/halenepal-SherpaTibetan)\nhttps://en.wikipedia.org/wiki/Sherpa_language\nhttps://phoible.org/languages/sher1255\nhttps://www.wikidata.org/entity/Q36612"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grierson:ed:95:18**\n**cldf:grimes:ed:78:1**\n**cldf:hale:73:1**\n**cldf:sherpa:09**\n**cldf:woodbury:86**\n**cldf:yadava:glover:ed:99:13**\n**cldf:zgraggen:70**\n**hh:d:Mataina:Sherpa**\n**hh:d:Tournadre:Sherpa**\n**hh:e:Brower:Khumbu**\n**hh:e:Frank:Tamang**\n**hh:e:Haimendorf:Sherpas**\n**hh:g:Graves:Sherpa**\n**hh:g:Kelly:Sherpa**\n**hh:g:Rahman:Sherpa**\n**hh:h:Limberg:Solu-Khumbu**\n**hh:he:ShresthaSingh:Nepal**\n**hh:hvw:Grierson:3:I**\n**hh:hw:Hale:Nepal**\n**hh:s:Baskaran:Sherpa**\n**hh:s:Schottelndreyer:Sherpa**\n**hh:styp:Greninger:Solu-Sherpa**\n**hh:t:SchottelndreyerSchottelndreyer:Sherpa**\n**hh:w:Pittman:Tibeto-Burman-Word-Lists**\n**hh:w:Thingo:Sherpa**\n**ldh:item_2152218**\n**ldh:item_2152221**\n**ldh:item_2152224**\n**ldh:item_408234**\n**mpieva:2004TibetoBu**\n**mpieva:268**\n**sil16:10016**\n**sil16:10017**\n**sil16:10018**\n**sil16:10812**\n**sil16:10828**\n**sil16:10829**\n**sil16:10831**\n**sil16:10833**\n**sil16:10975**\n**sil16:12070**\n**sil16:12103**\n**sil16:12260**\n**sil16:12261**\n**sil16:12265**\n**sil16:16500**\n**sil16:16502**\n**sil16:16503**\n**sil16:16504**\n**sil16:24546**\n**sil16:26453**\n**sil16:26456**\n**sil16:27187**\n**sil16:27194**\n**sil16:27195**\n**sil16:41773**\n**sil16:41776**\n**sil16:43156**\n**sil16:43729**\n**sil16:48410**"
+  },
+  "altnames": {
+    "wals": "\nSherpa",
+    "wals other": "\nSharpa",
+    "ruhlen (1987)": "\nSherpa",
+    "multitree": "\nBhōṭiā of northwestern Nepal\nSerwa\nSharpa\nSharpa Bhotia\nSharpā\nSherpa\nXiaerba",
+    "lexvo": "\nSherpa [en]\nSherpa language [en]\nШерпа [uk]\nШерпский язык [ru]\nภาษาเชอร์ปา [th]\nཤར་པའི་སྐད། [bo]",
+    "hhbib_lgcode": "\nHile Sherpa\nKhumbu\nKhumbu Sherpas\nSharpa\nSherpa\nSherpa of Sikkim\nSherpas\nSolu Sherpa",
+    "elcat": "\nBhōṭiā of northwestern Nepal\nSerwa\nSharpa\nSharpa Bhotia\nSharpā\nSharwa\nSherpa\nXiaerba"
+  },
+  "triggers": {
+    "lgcode": "\nhile\nsherpa\nbodic\nkhumbu\nsolu\nworth"
+  },
+  "identifier": {
+    "wals": "she",
+    "multitree": "xsr",
+    "endangeredlanguages": "5690",
+    "languagelandscape": "http://languagelandscape.org/language/Sherpa"
+  },
+  "classification": {
+    "sub": "**hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sherpa (5690-xsr) = Threatened (100 percent certain, based on the evidence available) (The Sherpa who live in the urban areas have shifted to Nepali though the Sherpa language is actively used in the Sherpa homeland, the Himalayan mountains.) [Graves 2007](cldf:graves:07)"
+  }
+}

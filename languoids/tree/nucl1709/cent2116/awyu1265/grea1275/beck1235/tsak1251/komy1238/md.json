@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Komyandaret",
+    "hid": "kzv",
+    "level": "language",
+    "iso639-3": "kzv",
+    "latitude": "-5.25453",
+    "longitude": "140.213",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Komyandaret](https://lexibank.clld.org/languages/transnewguineaorg-komyandaret)\nhttps://en.wikipedia.org/wiki/Komyandaret_language\nhttps://www.wikidata.org/entity/Q6428671"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hwsoc:Hughes:UDigul**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nKomyandaret",
+    "lexvo": "\nKomyandaret [en]",
+    "hhbib_lgcode": "\nKomyandaret/Donokit"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND digul"
+  },
+  "identifier": {
+    "multitree": "kzv"
+  },
+  "classification": {
+    "sub": "**hh:hv:deVriesetal:Greater-Awyu**",
+    "subrefs": "\n**hh:hv:deVriesetal:Greater-Awyu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Komyandaret (kzv-kzv) = 6b* (Threatened)."
+  }
+}

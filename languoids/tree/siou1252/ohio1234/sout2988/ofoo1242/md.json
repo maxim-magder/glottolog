@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ofo",
+    "hid": "ofo",
+    "level": "language",
+    "iso639-3": "ofo",
+    "latitude": "33.45871",
+    "longitude": "-90.76513",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3349758\nhttps://en.wikipedia.org/wiki/Ofo_language",
+    "timespan": "1909-01-01/1909-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Brainetal:Tunica**\n**hh:ld:Swanton:Ofo**\n**hh:s:Rankin:Ofo**\n**hh:w:DorseySwanton:Ofo**"
+  },
+  "altnames": {
+    "multitree": "\nOfo\nOfogoula",
+    "lexvo": "\nOfo [en]\nOfo language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nwith AND ofo"
+  },
+  "identifier": {
+    "multitree": "ofo"
+  },
+  "classification": {
+    "sub": "**hh:hv:OliverioRankin:Virginia-Siouan**",
+    "subrefs": "\n**hh:hv:OliverioRankin:Virginia-Siouan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Ofo (ofo-ofo) = 10 (Extinct)."
+  }
+}

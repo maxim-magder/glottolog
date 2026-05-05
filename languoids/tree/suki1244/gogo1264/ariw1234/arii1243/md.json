@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Ari",
+    "hid": "aac",
+    "level": "language",
+    "iso639-3": "aac",
+    "latitude": "-7.95526",
+    "longitude": "142.4",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ari](https://endangeredlanguages.com/lang/2887)\nhttps://www.wikidata.org/entity/Q1811224\nhttps://en.wikipedia.org/wiki/Ari_language_(New_Guinea)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**hh:hld:Lean:Western-Province**\n**hh:hvw:Reesink:Aramia**"
+  },
+  "altnames": {
+    "multitree": "\nAri",
+    "lexvo": "\nAri [en]\nAri jezik [hr]\nAri language [en]\nLenga Ari [pms]",
+    "elcat": "\nAri"
+  },
+  "identifier": {
+    "multitree": "aac",
+    "endangeredlanguages": "2887"
+  },
+  "classification": {
+    "sub": "**hh:hv:Voorhoeve:Suki-Gogodala**",
+    "subrefs": "\n**hh:hv:Voorhoeve:Suki-Gogodala**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ari (2887-aac) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

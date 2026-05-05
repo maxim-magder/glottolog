@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Asu (Nigeria)",
+    "hid": "aum",
+    "level": "language",
+    "iso639-3": "aum",
+    "latitude": "10.0849",
+    "longitude": "5.42081",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Asu](https://lexibank.clld.org/languages/polyglottaafricana-Asu)\nhttps://en.wikipedia.org/wiki/Asu_language_(Nigeria)\nhttps://www.wikidata.org/entity/Q34798"
+  },
+  "sources": {
+    "glottolog": "\n**hh:b:Struck:NNigeria**\n**hh:e:Forde:Nupe**\n**hh:hevw:Weise:Niger-Benue**\n**hh:hvw:Blench:Nupoid**\n**hh:hw:Koelle:Polyglotta**\n**hh:ldsoc:Rafiu:Asu**\n**hh:phon:Passetti:Asu**\n**hh:wsoc:Decker:Asu**"
+  },
+  "altnames": {
+    "multitree": "\nAbewa\nAsu\nEbe",
+    "lexvo": "\nAsu (Nigeria) [en]\nAsu [en]",
+    "hhbib_lgcode": "\nAsu\nAsu of Maza-kuka\nEbe\nEbe (Abewa)"
+  },
+  "triggers": {
+    "lgcode": "\nNOT 2 AND linguistic AND fula"
+  },
+  "identifier": {
+    "multitree": "aum"
+  },
+  "classification": {
+    "sub": "**hh:hevw:Weise:Niger-Benue**:97-106",
+    "subrefs": "\n**hh:hevw:Weise:Niger-Benue**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Asu (aum-aum) = 6b (Threatened)."
+  }
+}

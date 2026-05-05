@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Wampanoag",
+    "hid": "wam",
+    "level": "language",
+    "iso639-3": "wam",
+    "latitude": "41.705",
+    "longitude": "-73.3148",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Massachusett](https://wals.info/languoid/lect/wals_code_mtt)\n[Wampanoag](https://endangeredlanguages.com/lang/10009)\nhttps://en.wikipedia.org/wiki/Massachusett_language\nhttps://www.wikidata.org/entity/Q56519",
+    "timespan": "1875-01-01/1875-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:goddard:bragdon:88**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:212**\n**cldf:pentland:ed:99:11**\n**cldf:richards:04**\n**hh:d:Trumbull:Natick**\n**hh:e:Salwen:Southern-New-England**\n**hh:hv:Costa:Southern-New-England**\n**hh:hv:Goddard:Loup**\n**hh:hvw:Duponceau:Amerique-Nord**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:s:Eliot:Indian**\n**hh:s:Eliot:Massachusetts**\n**hh:s:Fermino:Wampanoag**\n**hh:s:Verlato:Massachusetts**\n**hh:st:GoddardBragdon:Massachusett**\n**hh:w:Wood:Massachusett**\n**ldh:item_1921801**\n**mpieva:Goddard1988Nativewr**\n**mpieva:Little2000Anintrod**"
+  },
+  "altnames": {
+    "wals": "\nMassachusett",
+    "wals other": "\nNatick",
+    "ruhlen (1987)": "\nMassachusett",
+    "moseley & asher (1994)": "\nMassachusett",
+    "multitree": "\nMassachusett\nMassachusett-Narragansett\nMassachusetts\nNatick\nWampanoag\nWamponoag",
+    "lexvo": "\nWampanoag [en]",
+    "hhbib_lgcode": "\nMassachusett\nMassachusetts\nMathevet Loup A2 shared a unique innovation with Loup 3\nNatick\nNorwottuck",
+    "elcat": "\nMassachusett\nMassachusett-Narragansett\nMassachusetts\nNatick\nWampanoag\nWamponoag\nWôpanâak"
+  },
+  "triggers": {
+    "lgcode": "\nmassachusetts\nwampanoag\nmassachusett\nnatick"
+  },
+  "identifier": {
+    "wals": "mtt",
+    "multitree": "wam-wam;wam",
+    "endangeredlanguages": "10009"
+  },
+  "classification": {
+    "sub": "**hh:hv:Costa:Southern-New-England**",
+    "subrefs": "\n**hh:hv:Costa:Southern-New-England**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wampanoag (10009-wam) = Awakening (The language is undergoing revitalization, thanks to the effort of the Wopanaak Language Reclamation Project.) [Fermino 2000](cldf:fermino:00)"
+  }
+}

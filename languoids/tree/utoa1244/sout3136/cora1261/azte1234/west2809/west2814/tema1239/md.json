@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Temascaltepec Nahuatl",
+    "hid": "nhv",
+    "level": "language",
+    "iso639-3": "nhv",
+    "latitude": "19.3282",
+    "longitude": "-99.7968",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Temascaltepec Nahuatl](https://grambank.clld.org/languages/tema1239)\nhttps://en.wikipedia.org/wiki/Temascaltepec_Nahuatl\nhttps://www.wikidata.org/entity/Q2379405"
+  },
+  "sources": {
+    "glottolog": "\n**hh:s:SchumannGarcia:Nahual-Almomoloa**"
+  },
+  "altnames": {
+    "multitree": "\nAlmomoloya Náhuatl\nCentral Nawa\nMexicano\nNahua central\nNahuatl\nNahuatl, Temascaltepec\nNáhuatl central\nTemascaltepec Aztec",
+    "lexvo": "\nTemascaltepec Nahuatl [en]",
+    "hhbib_lgcode": "\nAlmomoloa\nNahuatl-Temascaltepec"
+  },
+  "triggers": {
+    "lgcode": "\nalmomoloa"
+  },
+  "identifier": {
+    "multitree": "nhv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Canger:Nahuatl-Guerrero**",
+    "subrefs": "\n**hh:hv:Canger:Nahuatl-Guerrero**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Temascaltepec (nhv-nhv) = 7 (Shifting)."
+  }
+}

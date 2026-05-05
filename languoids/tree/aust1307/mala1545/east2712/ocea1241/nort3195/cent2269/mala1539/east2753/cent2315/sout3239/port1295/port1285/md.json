@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Port Sandwich",
+    "hid": "psw",
+    "level": "language",
+    "iso639-3": "psw",
+    "latitude": "-16.4952",
+    "longitude": "167.78",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Port Sandwich](https://endangeredlanguages.com/lang/3053)\n[Port Sandwich](https://grambank.clld.org/languages/port1285)\n[Port Sandwich](https://wals.info/languoid/lect/wals_code_psw)\n[Port Sandwich (Lamap 1)](https://lexibank.clld.org/languages/abvdoceanic-PortSandwichLamap1)\nhttps://en.wikipedia.org/wiki/Port_Sandwich_language\nhttps://www.wikidata.org/entity/Q3398324"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3593**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:francois:14:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Charpentier:Port-Sandwich**\n**hh:g:Charpentier:Port-Sandwich**\n**hh:g:Charpentier:Port-Sandwich:1974**\n**hh:hv:Lynch:Liquid-Central-Vanuatu**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Ray:New-Hebrides**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Crowley:PortSandwich**\n**hh:s:Williams:Lamap**\n**hh:w:Charpentier:Port-Sandwich**"
+  },
+  "altnames": {
+    "multitree": "\nMallicolo\nNisvai\nPort Sandwich",
+    "lexvo": "\nPort Sandwich [en]",
+    "elcat": "\nLamap\nPort Sandwich",
+    "hhbib_lgcode": "\nLamap"
+  },
+  "triggers": {
+    "lgcode": "\nsandwich"
+  },
+  "identifier": {
+    "wals": "psw",
+    "multitree": "psw",
+    "endangeredlanguages": "3053"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Port Sandwich (3053-psw) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Seychelles Sign Language",
+    "level": "language",
+    "hid": "lsw",
+    "countries": [
+      "SC"
+    ],
+    "macroareas": [
+      "Africa"
+    ],
+    "longitude": "55.45",
+    "latitude": "-4.62",
+    "iso639-3": "lsw",
+    "links": "\nhttps://en.wikipedia.org/wiki/Seychelles_Sign_Language\nhttps://www.wikidata.org/entity/Q110721423"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nSeychellois Sign language"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "Glottolog",
+    "date": "2021-06-17T11:26:38",
+    "comment": "Seychelles Sign Language (lsw-lsw) = Not Endangered"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:GendrotGebert:Signes-Mauricienne-Seychelloise**\n**hh:sd:GebertRisler:Seychellois-Sign**\n**iso6393:2021-013**"
+  },
+  "classification": {
+    "sub": "Independent origin (**hh:h:GendrotGebert:Signes-Mauricienne-Seychelloise**):176",
+    "subrefs": "\n**hh:h:GendrotGebert:Signes-Mauricienne-Seychelloise**"
+  }
+}

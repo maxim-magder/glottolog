@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bishuo",
+    "hid": "bwh",
+    "level": "language",
+    "iso639-3": "bwh",
+    "latitude": "6.67251",
+    "longitude": "9.79396",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Bishuo](https://endangeredlanguages.com/lang/543)\nhttps://www.wikidata.org/entity/Q34973\nhttps://en.wikipedia.org/wiki/Bishuo_language",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Breton:Furu:1993**:104-105",
+    "subrefs": "\n**hh:hv:Breton:Furu:1993**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:ed:10**\n**hh:hv:Breton:Furu**\n**hh:hv:Breton:Furu:1993**"
+  },
+  "altnames": {
+    "multitree": "\nBishuo\nBiyam\nFuru",
+    "lexvo": "\nBishuo [en]",
+    "hhbib_lgcode": "\nBiyam speak Bishuo\nBiyam-Ntjieka-Turuwa-Sambari",
+    "elcat": "\nBishuo\nBiyam\nFuru"
+  },
+  "triggers": {
+    "lgcode": "\nvoisins AND furu"
+  },
+  "identifier": {
+    "multitree": "bwh",
+    "endangeredlanguages": "543"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bishuo (bwh-bwh) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Eastern Ojibwa",
+    "hid": "ojg",
+    "level": "language",
+    "iso639-3": "ojg",
+    "latitude": "45.0112",
+    "longitude": "-79.7503",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Eastern Ojibwe](https://endangeredlanguages.com/lang/4915)\nhttps://www.wikidata.org/entity/Q5330342\nhttps://en.wikipedia.org/wiki/Eastern_Ojibwa_language\nhttps://phoible.org/languages/east2542\n[Ojibwa (Eastern)](https://wals.info/languoid/lect/wals_code_oji)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:black-rogers:82**\n**cldf:bloomfield:57**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:corbett:91**\n**cldf:ed:10**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:jenness:35**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:pentland:ed:99:16**\n**cldf:quimby:62**\n**cldf:rhodes:06**\n**cldf:rhodes:86**\n**cldf:rhodes:90**\n**cldf:rhodes:91:2**\n**cldf:rhodes:93**\n**cldf:valentine:01:1**\n**cldf:wolfart:ed:03:3**\n**cldf:wolfart:ed:03:7**\n**hh:d:Rhodes:Eastern-Ojibwa-Chippewa**\n**hh:e:Rogers:Southeastern-Ojibwa**\n**hh:hv:Rhodes:Eastern-Ojibwa-Odawa**\n**hh:s:Chamberlain:Mississaga**\n**hh:styp:Rogers:Ojibwa**\n**sil16:47949**\n**sil16:47950**"
+  },
+  "altnames": {
+    "wals": "\nOjibwa (Eastern)",
+    "wals other": "\nE Ojibwa\nE. Ojibwa\nEastern Ojibwa\nOjibwa",
+    "ruhlen (1987)": "\nOjibwa (Eastern)",
+    "moseley & asher (1994)": "\nOjibwa",
+    "multitree": "\nEastern Ojibwa\nEastern Ojibwe\nOjibwa\nOjibwa (Eastern)\nOjibwa, Eastern\nOjibway\nOjibwe\nOjibwe de l'est\nOyibua oriental",
+    "lexvo": "\nEastern Ojibwa [en]\nEastern Ojibwa language [en]",
+    "hhbib_lgcode": "\nCurve Lake-Ontario\nOjibwa-Eastern\nParry Island Ojibwa\nRama-Ontario",
+    "elcat": "\nAnishinaabemowin\nEastern Ojibwa\nEastern Ojibwe\nMississauga\nOjibwa\nOjibway\nOjibwe"
+  },
+  "triggers": {
+    "lgcode": "\nNOT the AND ottawa\nmississaga\nwalpole\nskugog"
+  },
+  "identifier": {
+    "wals": "oji",
+    "multitree": "ojg",
+    "endangeredlanguages": "4915"
+  },
+  "classification": {
+    "sub": "**hh:hv:RhodesTodd:Subarctic-Algonquian**:62",
+    "subrefs": "\n**hh:hv:RhodesTodd:Subarctic-Algonquian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern Ojibwe (4915-ojg) = Threatened (20 percent certain, based on the evidence available) [Golla 2007](cldf:golla:07)"
+  }
+}

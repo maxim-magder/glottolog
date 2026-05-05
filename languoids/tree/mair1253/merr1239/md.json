@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mer",
+    "hid": "mnu",
+    "level": "language",
+    "iso639-3": "mnu",
+    "latitude": "-3.3828",
+    "longitude": "134.731",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mer (Indonesia)](https://endangeredlanguages.com/lang/4693)\nhttps://www.wikidata.org/entity/Q6817854\nhttps://en.wikipedia.org/wiki/Mer_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Ronsumbre:Papua-Barat**\n**hh:h:Sugono:Indonesia**\n**hh:he:Rumansara:Kaimana**\n**hh:hvw:Peckham:Etna**\n**hh:ld:Starrenburg:Onderwysgiebed**"
+  },
+  "altnames": {
+    "multitree": "\nMer\nMiere\nMuri",
+    "lexvo": "\nMer [en]\nMer language [en]",
+    "hhbib_lgcode": "\nMiere\nMire",
+    "elcat": "\nMer (Indonesia)\nMiere\nMuri"
+  },
+  "triggers": {
+    "lgcode": "\nmoeilykheden\nonderwysgebied\nneck"
+  },
+  "identifier": {
+    "multitree": "mnu",
+    "endangeredlanguages": "4693"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Peckham:Etna**",
+    "subrefs": "\n**hh:hvw:Peckham:Etna**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mer (Indonesia) (4693-mnu) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bafut",
+    "hid": "bfd",
+    "level": "language",
+    "iso639-3": "bfd",
+    "latitude": "6.14153",
+    "longitude": "10.1194",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Bafut](https://grambank.clld.org/languages/bafu1246)\n[Bafut](https://wals.info/languoid/lect/wals_code_baf)\nhttps://en.wikipedia.org/wiki/Fut_language\nhttps://phoible.org/languages/bafu1246\nhttps://www.wikidata.org/entity/Q34888"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chumbow:tamanji:94**\n**cldf:kaberry:52**\n**cldf:mcculloch:littlewood:etal:54**\n**cldf:neba:04**\n**cldf:tamanji:01**\n**cldf:tamanji:02**\n**cldf:tamanji:mba:03**\n**hh:e:McCulloch:Tikar**\n**hh:e:RitzenhalerRitzenhaler:Bafut**\n**hh:g:Ambe:Bafut**\n**hh:g:Mfonyam:Bafut**\n**hh:g:Tamanji:Bafut**\n**hh:g:Tamanji:Bafut:2009**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvld:Leroy:Ngemba**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:soc:Trudell:Northwest-Cameroon**\n**hh:styp:Tamanji:Bafut**\n**hh:typ:Mfonyam:Bafut**\n**hh:typ:Neba:Bafut**\n**hh:typ:Neba:Bafut:Verb**\n**hh:vwsoc:Chenemo:Lower-Bafut**\n**hh:w:Brye:Beba**\n**hh:w:Bryeetal:Mundum**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**mpieva:Idiata2003Studieso**\n**mpieva:Levinsohn1994Discours**\n**sil16:20026**\n**sil16:21854**\n**sil16:22391**\n**sil16:22392**\n**sil16:24430**\n**sil16:26539**\n**sil16:35397**\n**sil16:42875**\n**sil16:45043**\n**sil16:45533**\n**sil16:46888**\n**sil16:46889**\n**sil16:47145**\n**sil16:47717**\n**sil16:48091**\n**sil16:48753**\n**sil16:50681**"
+  },
+  "altnames": {
+    "wals": "\nBafut",
+    "ruhlen (1987)": "\nBafut",
+    "moseley & asher (1994)": "\nBafut",
+    "multitree": "\nBafut\nBefe\nBufe\nFu\nFut",
+    "lexvo": "\nBafut [en]",
+    "hhbib_lgcode": "\nBafut-Bandeng\nBufe of Bafut"
+  },
+  "triggers": {
+    "lgcode": "\nghaa\njyalaa\nbafut\nbambui"
+  },
+  "identifier": {
+    "wals": "baf",
+    "multitree": "bfd"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:AyotteLamberty:Ngemba**:36 **hh:w:Brye:Beba**:5 **hh:w:Bryeetal:Mundum**:5 **hh:soc:Kruger:Pinyin-Awing**:5",
+    "subrefs": "\n**hh:w:Brye:Beba**\n**hh:soc:Kruger:Pinyin-Awing**\n**hh:w:Bryeetal:Mundum**\n**hh:hsoc:AyotteLamberty:Ngemba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bafut (bfd-bfd) = 5 (Developing)."
+  }
+}

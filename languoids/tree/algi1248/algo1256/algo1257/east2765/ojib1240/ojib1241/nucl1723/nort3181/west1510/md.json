@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Western Ojibwa",
+    "hid": "ojw",
+    "level": "language",
+    "iso639-3": "ojw",
+    "latitude": "50.5664",
+    "longitude": "-102.525",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Saulteaux](https://endangeredlanguages.com/lang/6065)\nhttps://www.wikidata.org/entity/Q3474222\nhttps://en.wikipedia.org/wiki/Western_Ojibwa_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hesketh:23**\n**cldf:howard:61**\n**cldf:howard:65:1**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:rhodes:06**\n**cldf:skinner:14:2**\n**cldf:skinner:14:3**\n**hh:d:Scott:Saulteaux**\n**hh:e:Albers:Plains-Ojibwa**\n**hh:e:Steinbring:Saulteaux**\n**hh:hv:Goddard:Algonquian-Plains**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:s:Belcourt:Sauteux**\n**hh:s:Cote:Saulteaux**\n**hh:s:Dumouchel:Saulteuse**\n**hh:s:Ministry:Ojibwe**\n**hh:s:Voorhis:Saulteaux**\n**hh:st:Logan:Saulteaux**\n**hh:typ:CoteKlokeid:Saulteaux**\n**sil16:47949**\n**sil16:47950**"
+  },
+  "altnames": {
+    "multitree": "\nChippeway\nOjibwa\nOjibwa, Western\nOjibway\nOjibwe\nOjibwe du nord-ouest\nOyibua noroccidental\nPlains Ojibway\nSalteaux\nSaulteau\nSaulteaux\nWestern Ojibwa",
+    "lexvo": "\nSaulteaux [fr]\nWestern Ojibwa [en]\nWestern Ojibwa language [en]",
+    "hhbib_lgcode": "\nOjibwa-Western\nPlains Ojibwa\nSaulteaux\nSaulteux\nSauteux",
+    "elcat": "\nChippeway\nNakawēmowin\nOjibwa\nOjibway\nOjibwe\nPlains Ojibway\nSalteaux\nSaulteaux\nWestern Ojibwa"
+  },
+  "triggers": {
+    "lgcode": "\nwalpole\nsaulteaux\nsauteux"
+  },
+  "identifier": {
+    "multitree": "ojw",
+    "endangeredlanguages": "6065"
+  },
+  "classification": {
+    "sub": "**hh:hv:RhodesTodd:Subarctic-Algonquian**:62",
+    "subrefs": "\n**hh:hv:RhodesTodd:Subarctic-Algonquian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Saulteaux (6065-ojw) = Threatened (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

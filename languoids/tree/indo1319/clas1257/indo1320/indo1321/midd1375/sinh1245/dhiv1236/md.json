@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Dhivehi",
+    "hid": "div",
+    "level": "language",
+    "iso639-3": "div",
+    "latitude": "1.928498",
+    "longitude": "73.54433",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MV"
+    ],
+    "links": "\n[Dhivehi](https://wals.info/languoid/lect/wals_code_dhi)\nhttps://en.wikipedia.org/wiki/Maldivian_language\nhttps://phoible.org/languages/dhiv1236\nhttps://www.wikidata.org/entity/Q32656"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fritz:05**\n**hh:e:Anonymous:Minicoy**\n**hh:g:Gnanadesikan:Dhivehi**\n**hh:g:Joy:Mahl**\n**hh:gv:Cain:Dhivehi**\n**hh:h:Devy:Kerala**\n**hh:hvw:Kogan:New-Indo-Aryan**\n**hh:ld:Panchal:Mahl**\n**hh:s:CainGair:Dhivehi**\n**hh:s:Maumoon:Dhivehi**\n**hh:sv:Fritz:Dhivehi**\n**hh:typ:Lum:Dhivehi**\n**hh:vtyp:Geiger:Maldivische**\n**hh:w:Wilson:Maldivian**\n**iso6393:2025-029**\n**mpieva:Reynolds2003AMaldivi**"
+  },
+  "altnames": {
+    "wals": "\nDhivehi",
+    "ruhlen (1987)": "\nMaldivian",
+    "moseley & asher (1994)": "\nMaldivian",
+    "multitree": "\nDhivehi\nMahl\nMaldivian",
+    "lexvo": "\nBahasa Divehi [id]\nDhivehi [an]\nDhivehi [en]\nDhivehi language [en]\nDiveheg [br]\nDivehi [ca]\nDivehi [en]\nDivehin kieli [fi]\nIdioma dhivehi [es]\nJęzyk malediwski [pl]\nLingua Dhivehi [la]\nLingua maldiviana [it]\nLíngua divehi [pt]\nMahla lingvo [eo]\nMaldivian [en]\nMaldivčina [sk]\nMaldív nyelv [hu]\nMaldīviešu valoda [lv]\nmaldivien [fr]\nΝτιβέχι [el]\nДхивехи [bg]\nМальдивский язык [ru]\nديفهي [ar]\nزبان دیوهی [fa]\nދިވެހި [dv]\nमहल भाषा [mr]\nमहल् [hi]\nதிவெயி மொழி [ta]\nภาษาดิเวฮิ [th]\nディベヒ語 [ja]\n迪维希语 [zh]\n디베히어 [ko]",
+    "hhbib_lgcode": "\nMAL — Maldivian (Dhivehi)\nMahal\nMahl\nMahl of Minicoy\nMaldivian\nMale\nMalé\nNorthern Dhivehi\nStandard Dhivehi of Malé"
+  },
+  "triggers": {
+    "lgcode": "\nmaldivian\ndhivehi\nNOT maldivian AND dhivehi\nminicoy\nmahl"
+  },
+  "identifier": {
+    "wals": "dhi",
+    "multitree": "div"
+  },
+  "classification": {
+    "sub": "**hh:gv:Cain:Dhivehi**",
+    "subrefs": "\n**hh:gv:Cain:Dhivehi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dhivehi (div-div) = 1 (National). Statutory national language (2008, Constitution, Article 11)."
+  }
+}

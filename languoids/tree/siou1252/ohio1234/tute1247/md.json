@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tutelo",
+    "hid": "tta",
+    "level": "language",
+    "iso639-3": "tta",
+    "latitude": "37.67",
+    "longitude": "-78.75",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Tutelo](https://wals.info/languoid/lect/wals_code_tte)\nhttps://en.wikipedia.org/wiki/Tutelo_language\nhttps://www.wikidata.org/entity/Q2311602",
+    "timespan": "1883-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2079**\n**cldf:oliverio:96**\n**hh:e:DeMallie:Tutelo**\n**hh:gd:Oliverio:Tutelo**\n**hh:s:Hale:Tutelo**\n**hh:s:Hale:Tutelo:2001**\n**hh:s:Roberts:Tutelo-Saponi**\n**hh:w:Frachtenberg:Tutelo**\n**hh:w:Sapir:Tutelo**\n**hh:w:Sapir:Tutelo-Saponi**"
+  },
+  "altnames": {
+    "wals": "\nTutelo",
+    "ruhlen (1987)": "\nTutelo",
+    "moseley & asher (1994)": "\nTutelo",
+    "multitree": "\nOccaneechi\nSaponey\nSaponi\nTutelo\nTutelo-Saponi-Monyton",
+    "lexvo": "\nTutelo [en]",
+    "hhbib_lgcode": "\nSaponi"
+  },
+  "triggers": {
+    "lgcode": "\ntutelo"
+  },
+  "identifier": {
+    "wals": "tte",
+    "multitree": "tta"
+  },
+  "classification": {
+    "sub": "**hh:hv:OliverioRankin:Virginia-Siouan**",
+    "subrefs": "\n**hh:hv:OliverioRankin:Virginia-Siouan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Tutelo (tta-tta) = 10 (Extinct)."
+  }
+}

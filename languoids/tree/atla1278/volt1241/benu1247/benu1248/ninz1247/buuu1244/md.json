@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bu",
+    "hid": "jid",
+    "level": "language",
+    "iso639-3": "jid",
+    "latitude": "9.05077",
+    "longitude": "8.65697",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bu_language\nhttps://www.wikidata.org/entity/Q3913321"
+  },
+  "classification": {
+    "sub": "**hh:w:Blench:Bu**",
+    "subrefs": "\n**hh:w:Blench:Bu**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1301**\n**eballiso2009:34768**\n**eballiso2009:47911**\n**hh:w:Blench:Bu**\n**iso6393:2020-031**"
+  },
+  "altnames": {
+    "multitree": "\nBu\nIbut\nJida\nJida-Abu\nJidda-Abu\nNakare",
+    "lexvo": "\nBu [en]"
+  },
+  "triggers": {
+    "lgcode": "\nplateau AND trips"
+  },
+  "identifier": {
+    "multitree": "jid",
+    "endangeredlanguages": "484"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Bu (484-jid) = Threatened (20 percent certain, based on the evidence available) ['bib1014']"
+  }
+}

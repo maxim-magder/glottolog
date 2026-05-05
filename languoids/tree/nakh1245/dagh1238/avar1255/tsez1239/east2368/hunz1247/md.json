@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Hunzib",
+    "hid": "huz",
+    "level": "language",
+    "iso639-3": "huz",
+    "latitude": "42.0808",
+    "longitude": "46.1369",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "RU"
+    ],
+    "links": "\n[Hunzib](https://endangeredlanguages.com/lang/2316)\n[Hunzib](https://grambank.clld.org/languages/hunz1247)\n[Hunzib](https://wals.info/languoid/lect/wals_code_hzb)\nhttps://en.wikipedia.org/wiki/Hunzib_language\nhttps://phoible.org/languages/hunz1247\nhttps://www.wikidata.org/entity/Q56564"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:IsakovXalilov:Gunzibsko**\n**hh:e:Rizakhanova:Gunzibcy**\n**hh:g:IsakovXalilov:Gunzibskij**\n**hh:g:vandenBerg:Hunzib**\n**hh:g:vandenBerg:Hunzib:PhD**\n**hh:hvs:Bokarev:Tsezskie**\n**hh:phon:Gamzatov:Gunzibskogo**\n**hh:s:Lomtadze:Gunzibskogo**\n**mpieva:Berg1995Agrammar**\n**mpieva:Isakov2001Gunzibsk**"
+  },
+  "altnames": {
+    "wals": "\nHunzib",
+    "ruhlen (1987)": "\nHunzib",
+    "moseley & asher (1994)": "\nHunzib",
+    "multitree": "\nEnzeb\nGunzib\nHunzib\nKhunzal\nKhunzaly\nXunzal",
+    "lexvo": "\nHounzibeg [br]\nHunzib [en]\nHunzib language [en]\nHunzibin kieli [fi]\nJęzyk chunzybski [pl]\nLíngua hunzib [pt]\nГунзибский язык [ru]\nГунзибська мова [uk]\nХунзибски јазик [mk]",
+    "elcat": "\nEnzeb\nGunzib\nHunzib\nKhunzal\nKhunzaly\nXunzal\nhonƛʼos mɨc\nгунзибский язык\nгьонкьос мыц\nнахадинский язык\nჰუნზიბური ენა"
+  },
+  "triggers": {
+    "lgcode": "\ngunzibsko\nhunzib"
+  },
+  "identifier": {
+    "wals": "hzb",
+    "multitree": "huz",
+    "endangeredlanguages": "2316"
+  },
+  "classification": {
+    "sub": "**hh:w:ComrieKhalilov:Bezhta**:415",
+    "subrefs": "\n**hh:w:ComrieKhalilov:Bezhta**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Hunzib (2316-huz) = Endangered (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sumau",
+    "hid": "six",
+    "level": "language",
+    "iso639-3": "six",
+    "latitude": "-5.48556",
+    "longitude": "145.474",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sumau](https://lexibank.clld.org/languages/transnewguineaorg-sumau)\n[sumau](https://lexibank.clld.org/languages/zgraggenmadang-sumau)\nhttps://en.wikipedia.org/wiki/Sumau_language\nhttps://www.wikidata.org/entity/Q7637021"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Lawrence:Garia**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:Rai**"
+  },
+  "altnames": {
+    "multitree": "\nGaria\nKari\nKarigari\nSumau\nSumau-Garia",
+    "lexvo": "\nSumau [en]",
+    "hhbib_lgcode": "\nGaria"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang\ngaria"
+  },
+  "identifier": {
+    "multitree": "six"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Chequered-TNG** **hh:hv:PawleyHammarstrom:TNG:2013**",
+    "subrefs": "\n**hh:hv:Pawley:Chequered-TNG**\n**hh:hv:PawleyHammarstrom:TNG:2013**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sumau (six-six) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Boko (Democratic Republic of Congo)",
+    "hid": "bkp",
+    "level": "language",
+    "iso639-3": "bkp",
+    "latitude": "1.51612",
+    "longitude": "18.8806",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35089"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:deBoeck:Classification**\n**hh:s:Mangulu:Mbonji**\n**hh:s:MeeuwisVinck:Congolaise**"
+  },
+  "altnames": {
+    "multitree": "\nBoko\nIboko",
+    "lexvo": "\nBoko (Democratic Republic of Congo) [en]\nBoko [en]",
+    "hhbib_lgcode": "\nBoko\nIboko\nLiboko\nMbondzi villages Modzamba-Bolembe-Bomuna\nMbonji\nMbonji looks very similar to"
+  },
+  "triggers": {
+    "lgcode": "\ncambier\ndemeri"
+  },
+  "identifier": {
+    "multitree": "bkp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:185-189 **hh:hv:Bastinetal:Bantu**:205",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Boko (bkp-bkp) = 6a* (Vigorous)."
+  }
+}

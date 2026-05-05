@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gedeo",
+    "hid": "drs",
+    "level": "language",
+    "iso639-3": "drs",
+    "latitude": "6.18469",
+    "longitude": "38.2395",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56622\nhttps://en.wikipedia.org/wiki/Gedeo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:13403**\n**eballiso2009:16189**\n**eballiso2009:1670**\n**eballiso2009:22063**\n**eballiso2009:9510**\n**hh:e:Guidi:Sidamo-Orientale**\n**hh:g:Eyob:Gedeo**\n**hh:g:Gasparini:Gedeo**\n**hh:g:Tilahun:Gedeo**\n**hh:httyp:Wedekind:Narratives-Cushitic**\n**hh:hv:Eshetu:Burji**\n**hh:hv:Moreno:Galla-Sidama**\n**hh:phon:Lulseged:Gedeo-Amharic**\n**hh:s:Moreno:Darasa**\n**hh:typ:Abebe:Highland-East-Cushitic**\n**hh:typ:Eyob:Gedeo**\n**hh:typ:Giorgis:Gedeo**\n**sil16:17054**\n**sil16:21115**\n**sil16:21279**\n**sil16:42576**\n**sil16:44071**"
+  },
+  "altnames": {
+    "multitree": "\nDarasa\nDarassa\nDerasa\nDerasanya\nDeresa\nGeddeo\nGedeo",
+    "lexvo": "\nGedeo [en]\nGedeo hizkuntza [eu]\nGedeo language [en]\nLenga Gedeo [pms]",
+    "hhbib_lgcode": "\nDarasa\nGedeo (Derasa)"
+  },
+  "triggers": {
+    "lgcode": "\nnumerali\ngedeo\nwedekind\ngedeogna\ndarasa"
+  },
+  "identifier": {
+    "multitree": "drs"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hudson:HECushitic** **hh:hv:Tosco:East-Cushitic**",
+    "subrefs": "\n**hh:hv:Tosco:East-Cushitic**\n**hh:hv:Hudson:HECushitic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gedeo (drs-drs) = 4 (Educational)."
+  }
+}

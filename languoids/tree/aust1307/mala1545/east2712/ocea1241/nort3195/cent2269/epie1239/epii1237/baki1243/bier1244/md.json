@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bierebo",
+    "hid": "bnk",
+    "level": "language",
+    "iso639-3": "bnk",
+    "latitude": "-16.6663",
+    "longitude": "168.154",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Bierebo](https://endangeredlanguages.com/lang/1312)\n[Bierebo](https://grambank.clld.org/languages/bier1244)\n[Bierebo (Yevali)](https://lexibank.clld.org/languages/abvdoceanic-BiereboYevali)\nhttps://en.wikipedia.org/wiki/Bierebo_language\nhttps://www.wikidata.org/entity/Q2902029"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2735**\n**asjp2010:2818**\n**asjp2010:3996**\n**asjp2010:426**\n**cldf:budd:05**\n**cldf:budd:14**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Budd:Bierebo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Fraser:Epi-Bierian**"
+  },
+  "altnames": {
+    "multitree": "\nBierebo\nBonkovia-Yevali",
+    "lexvo": "\nBierebo [en]",
+    "hhbib_lgcode": "\nBonkovia\nBurupika\nEpi-Bierebo\nTavio\nYevali",
+    "elcat": "\nBierebo\nBonkovia-Yevali"
+  },
+  "triggers": {
+    "lgcode": "\nirrealis\nrealis\nlanguages AND hebrides\nbierian\nbierebo"
+  },
+  "identifier": {
+    "multitree": "bnk",
+    "endangeredlanguages": "1312"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Tryon:Epi**",
+    "subrefs": "\n**hh:hvtyp:Tryon:Epi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bierebo (1312-bnk) = Threatened (100 percent certain, based on the evidence available) (A wide range of age groups use the language, with the exception of the moribund varieties Yakana (youngest speaker in mid-thirties in 2006) and Yana. Speaker numbers probably not in decline overall and perhaps even a very slow increase. The picture varies village to village according to demographics. Exogamous marriage is practised and non-Bierebo-speaking women marrying into communities often raise children in Bislama. In smaller villages whose populations are made up of, say, three or four main families this can have a significant impact. This situation is probably counterbalanced by the high birth rate and rising populations in the larger communities where most children continue to learn Bierebo as their first language. 80-90%% of children learn Bierebo as a mother tongue in the home and village.) [Budd 2014](cldf:budd:14)"
+  }
+}

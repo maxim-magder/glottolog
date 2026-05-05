@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Turoyo",
+    "hid": "tru",
+    "level": "language",
+    "iso639-3": "tru",
+    "latitude": "37.2275",
+    "longitude": "42.1451",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "LB",
+      "SY",
+      "TR"
+    ],
+    "links": "\n[Turoyo](https://endangeredlanguages.com/lang/3502)\nhttps://www.wikidata.org/entity/Q34040\nhttps://en.wikipedia.org/wiki/Turoyo_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1250**\n**cldf:ed:10**\n**cldf:haeberl:13**\n**cldf:jastrow:92**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:ritter:67**\n**hh:g:Jastrow:Midin**\n**hh:g:Jastrow:Midin:1985**\n**hh:g:Jastrow:Turoyo**\n**hh:g:Sinha:Neuostaramaische-Bespan**\n**hh:g:Talay:Surayt**\n**hh:g:Waltisberg:Turoyo**\n**hh:s:Haberl:Turoyo**\n**hh:t:Jastrow:Midyat**\n**hh:td:Ritter:Turoyo**\n**hh:v:Tezel:Turoyo**\n**hh:w:Barsky:Turoyo**\n**iso6393:2011-177**"
+  },
+  "altnames": {
+    "multitree": "\nSuryoyo\nSyryoyo\nSüryani\nTouroyo\nTurani\nTuroyo\nṬurōyō",
+    "lexvo": "\nTouroyoeg [br]\nTuroyo [de]\nTuroyo jezik [hr]\nTuroyo language [en]\nТуройо [ru]\nТуројо јазик [mk]\nภาษาตูโรโย [th]\n圖羅尤語 [zh]",
+    "elcat": "\nSuryoyo\nSyryoyo\nSüryani\nTurani\nTuroyo\nṬurōyō",
+    "hhbib_lgcode": "\nMidin\nMidyat"
+  },
+  "triggers": {
+    "lgcode": "\nur\nbn"
+  },
+  "identifier": {
+    "multitree": "tru",
+    "endangeredlanguages": "3502"
+  },
+  "classification": {
+    "sub": "**hh:s:Jastrow:Turoyo-Mlahso** **hh:v:Kim:Turoyo**",
+    "subrefs": "\n**hh:s:Jastrow:Turoyo-Mlahso**\n**hh:v:Kim:Turoyo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Turoyo (3502-tru) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

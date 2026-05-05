@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wanggom",
+    "hid": "wng",
+    "level": "language",
+    "iso639-3": "wng",
+    "latitude": "-5.60094",
+    "longitude": "140.194",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Wanggom](https://lexibank.clld.org/languages/transnewguineaorg-wanggom)\nhttps://www.wikidata.org/entity/Q11732736"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Versteeg:Oerwoud**\n**hh:hwsoc:Hughes:UDigul**"
+  },
+  "altnames": {
+    "multitree": "\nKombai\nWanggo\nWanggom\nWangom",
+    "lexvo": "\nWanggom [en]",
+    "hhbib_lgcode": "\nWanggom/Biwage II"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND digul"
+  },
+  "identifier": {
+    "multitree": "wng"
+  },
+  "classification": {
+    "sub": "**hh:hv:deVriesetal:Greater-Awyu**",
+    "subrefs": "\n**hh:hv:deVriesetal:Greater-Awyu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wanggom (wng-wng) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kilivila",
+    "hid": "kij",
+    "level": "language",
+    "iso639-3": "kij",
+    "latitude": "-8.72574",
+    "longitude": "151.072",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kilivila](https://grambank.clld.org/languages/kili1267)\n[Kilivila](https://lexibank.clld.org/languages/abvdoceanic-Kilivila)\n[Kilivila](https://wals.info/languoid/lect/wals_code_klv)\nhttps://en.wikipedia.org/wiki/Kilivila_language\nhttps://www.wikidata.org/entity/Q3196601"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:barker:92**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:connelly:07**\n**cldf:cribb:00**\n**cldf:fathauer:54:1**\n**cldf:heatwole:75**\n**cldf:keesing:84:2**\n**cldf:lepani:07**\n**cldf:malinowsi:22**\n**cldf:malinowski:16:1**\n**cldf:malinowski:20**\n**cldf:malinowski:21**\n**cldf:malinowski:22**\n**cldf:malinowski:26:1**\n**cldf:malinowski:26:2**\n**cldf:malinowski:27**\n**cldf:malinowski:29:1**\n**cldf:malinowski:29:2**\n**cldf:malinowski:35:1**\n**cldf:malinowski:35:2**\n**cldf:malinowski:54**\n**cldf:malinowski:95:2**\n**cldf:mccarthy:12**\n**cldf:mccarthy:13**\n**cldf:norick:95**\n**cldf:np:14:5**\n**cldf:palmer:geraghty:ed:00:1**\n**cldf:pawley:ross:etal:ed:01:2**\n**cldf:powell:60**\n**cldf:seligman:10**\n**cldf:senft:01**\n**cldf:senft:11**\n**cldf:senft:52**\n**cldf:senft:87**\n**cldf:senft:91**\n**cldf:senft:93**\n**cldf:senft:97**\n**cldf:senft:99**\n**cldf:senft:ed:04:2**\n**cldf:silas:26**\n**cldf:uburoi:62**\n**cldf:villeminot:67**\n**cldf:villeminot:74**\n**cldf:weiner:76**\n**cldf:weiner:88**\n**cldf:weiner:91**\n**cldf:young:79:2**\n**cldf:ziegler:jacobson:84**\n**hh:d:Baldwin:Biga-Boyowa**\n**hh:d:TwomeyTubou:Kiriwinian**\n**hh:e:SenftSenft:Trobriand**\n**hh:g:Lawton:Kiriwina**\n**hh:g:Szczerbowski:Kiriwina**\n**hh:gtyp:Lawton:Kiriwina**\n**hh:hld:Lean:Milne-Bay**\n**hh:hv:Chowning:Papuan-Tip**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Lithgow:Muyuw-Neighbours**\n**hh:hvw:Ray:Melanesian**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:ESEPapua**\n**hh:s:Fellows:Kiriwina**\n**hh:s:Fellows:Kiriwina:1902**\n**hh:sd:Senft:Kilivila**\n**hh:soc:Senft:Kilivila**\n**hh:t:Senft:Kilivila**\n**hh:typ:Senft:Kilivila**\n**hh:typ:Senft:Kilivila:Classificatory:1987**\n**hh:typ:Senft:Persons-Kilivila**\n**hh:w:Grace:47**\n**hh:w:Lawton:Kilivila**\n**hh:w:MacGregor:Kiriwina**\n**sil16:11829**\n**sil16:23406**\n**sil16:35051**"
+  },
+  "altnames": {
+    "wals": "\nKilivila",
+    "wals other": "\nKiriwina",
+    "ruhlen (1987)": "\nKilivila",
+    "moseley & asher (1994)": "\nKilivila",
+    "multitree": "\nKilivila\nKiriwina",
+    "lexvo": "\nKilivila [en]",
+    "hhbib_lgcode": "\nIwa\nKiriwina\nKitava"
+  },
+  "triggers": {
+    "lgcode": "\nkilivila\nkiriwina"
+  },
+  "identifier": {
+    "wals": "klv",
+    "multitree": "kij;kilv"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Lithgow:Milne**",
+    "subrefs": "\n**hh:hvld:Lithgow:Milne**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kilivila (kij-kij) = 5 (Developing)."
+  }
+}

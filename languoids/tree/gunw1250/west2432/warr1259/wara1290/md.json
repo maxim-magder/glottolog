@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Warray",
+    "hid": "wrz",
+    "level": "language",
+    "iso639-3": "wrz",
+    "latitude": "-13.0941",
+    "longitude": "131.236",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Warray](https://endangeredlanguages.com/lang/3323)\n[Warray](https://collection.aiatsis.gov.au/austlang/language/n25)\nhttps://en.wikipedia.org/wiki/Warray_language\nhttps://phoible.org/languages/wara1290\n[Waray (in Australia)](https://wals.info/languoid/lect/wals_code_wry)\nhttps://www.wikidata.org/entity/Q7969971",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:fabricius:98**\n**cldf:harvey:nd**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Harvey:Warray**\n**hh:ew:Bassett-Smith:North-West-Australia**\n**hh:ew:Dahl:Australiens**\n**hh:ew:Spencer:NTerritory**\n**hh:g:Harvey:Waray**\n**hh:g:Harvey:Warray**\n**hh:h:Parkhouse:Port-Darwin**\n**hh:hw:Tryon:Daly**\n**hh:w:Parkhouse:Port-Darwin**\n**mpieva:HarveyBodypart**\n**mpieva:HarveyWarraydi**\n**mpieva:HarveyWarraygr**\n**mpieva:HarveyWarrayte**\n**ozbib:2642**\n**ozbib:2648**\n**ozbib:2653**\n**ozbib:2659**\n**ozbib:2662**\n**ozbib:2664**\n**ozbib:2665**\n**ozbib:322**\n**ozbib:3811**\n**ozbib:5763**\n**ozbib:63**\n**ozbib:6920**\n**ozbib:87**"
+  },
+  "altnames": {
+    "wals": "\nWaray (in Australia)",
+    "wals other": "\nWaray (Australia)",
+    "ruhlen (1987)": "\nWaray",
+    "moseley & asher (1994)": "\nWaray",
+    "lexvo": "\nWaray (Australia) [en]\nWaray [en]\nWaray language [en]",
+    "hhbib_lgcode": "\nAwarra\nWaray\nWaray (Australia)\nWarrai\nWoolwonga",
+    "elcat": "\nArwur\nAwarai\nAwarra\nAwarrai\nNawarray\nWarai\nWaray\nWaray (in Australia)\nWarei\nWarrai\nWarray\nWolwonga\nWoolwonga\nWulwongga",
+    "aiatsis": "\nArwur\nAwara\nAwarai\nAwarra\nAwarrai\nGunwinyguan\nParlamarnyin\nWarai\nWaray\nWarei\nWarrai\nWarray\nWolwonga\nWoolwonga\nWulwongga"
+  },
+  "triggers": {
+    "lgcode": "\namungal\nwarray"
+  },
+  "identifier": {
+    "wals": "genus/waray",
+    "endangeredlanguages": "3323"
+  },
+  "classification": {
+    "sub": "**hh:g:Evans:Bininj-Gun-Wok**:32-35 **hh:hvld:Harvey:WGunwinyguan** **hh:hv:EvansMarley:Gunwinyguan**:783",
+    "subrefs": "\n**hh:hv:EvansMarley:Gunwinyguan**\n**hh:hvld:Harvey:WGunwinyguan**\n**hh:g:Evans:Bininj-Gun-Wok**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Waray (wrz-wrz) = 10 (Extinct)."
+  }
+}

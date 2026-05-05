@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Takestani",
+    "hid": "tks",
+    "level": "language",
+    "iso639-3": "tks",
+    "latitude": "36.065077",
+    "longitude": "49.688542",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Takestani](https://endangeredlanguages.com/lang/3541)\n[Tati (Southern)](https://wals.info/languoid/lect/wals_code_tts)\nhttps://en.wikipedia.org/wiki/Takestani_language\nhttps://www.wikidata.org/entity/Q25261947"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borjian:13:3**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hvld:Stilo:Tati**\n**hh:ld:Rasekh:Tati**\n**hh:ld:Yarshater:Ramand**\n**hh:s:Henning:Ancient-Azerbaijan**\n**hh:s:Taheri:Takestan**\n**hh:s:Yar-Shater:Southern-Tati**\n**hh:typ:Koohkan:Modern-West-Iranian**\n**hh:typ:Taherkhani:Takestani**"
+  },
+  "altnames": {
+    "wals": "\nTati (Southern)",
+    "wals other": "\nS. Tati\nSouthern\nSouthern Tati\nTati",
+    "ruhlen (1987)": "\nTati",
+    "moseley & asher (1994)": "\nTati",
+    "multitree": "\nTakestani\nTakistani\nTati (Southern)",
+    "lexvo": "\nDialectes tats [fr]\nTakestani [en]\nTati [en]\nТати [ru]\nتاتی تبار زوونون [mzn]\nزبان‌های تاتی‌تبار [fa]",
+    "hhbib_lgcode": "\nChāli\nDānesfāni-Esfarvarini-Xoznini\nEbrāhim-Ābādi\nEsfarvarini\nRamand\nSagz-Ābādi\nTati (Takestan)\nTākestāni\nXiāraji",
+    "elcat": "\nTakestani\nTakistani\nTati (Southern)"
+  },
+  "triggers": {
+    "lgcode": "\nshahrud\nramand"
+  },
+  "identifier": {
+    "wals": "tts",
+    "multitree": "tks",
+    "endangeredlanguages": "3541"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Stilo:Tati**",
+    "subrefs": "\n**hh:hvld:Stilo:Tati**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Takestani (3541-tks) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

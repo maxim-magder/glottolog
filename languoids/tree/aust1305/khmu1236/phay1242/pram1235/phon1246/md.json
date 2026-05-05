@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Phong-Kniang",
+    "hid": "pnx",
+    "level": "language",
+    "iso639-3": "pnx",
+    "latitude": "19.9622",
+    "longitude": "104.088",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Phong-Kniang](https://endangeredlanguages.com/lang/5877)\n[Phong-Kniang](https://grambank.clld.org/languages/phon1246)\nhttps://en.wikipedia.org/wiki/Kniang_language\nhttps://www.wikidata.org/entity/Q3914627"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:ew:Tappe:Phong**\n**hh:hew:Macey:Cammon**\n**hh:s:The:Phong**\n**hh:vld:Rischel:Khmuic**\n**hh:w:Kato:Phong**"
+  },
+  "altnames": {
+    "multitree": "\nKeneng\nKenieng\nKhaniang\nKniang\nLao Phong\nP'eng\nPheng\nPhong\nPhong-Kniang\nPong\nPong 3\nTheng",
+    "lexvo": "\nPhong-Kniang [en]",
+    "hhbib_lgcode": "\nPhong Lan\nPhong Phen\nPhong Piat\nPhong Pung\nPhong Tapuang\nPhong ou Pou K'kenièng",
+    "elcat": "\nKeneng\nKenieng\nKhaniang\nKniang\nLao Phong\nP'eng\nPheng\nPhong\nPhong-Kniang\nPong\nPong 3\nTheng"
+  },
+  "triggers": {
+    "lgcode": "\nmelhir\nphano\ncammon\npon\nmegalith\nautochtones"
+  },
+  "identifier": {
+    "multitree": "pnx",
+    "endangeredlanguages": "5877"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Khmuic**",
+    "subrefs": "\n**hh:hv:Sidwell:Khmuic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Phong-Kniang (5877-pnx) = Threatened (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:264)"
+  }
+}

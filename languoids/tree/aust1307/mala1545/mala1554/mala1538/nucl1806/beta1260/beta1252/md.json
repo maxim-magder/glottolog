@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Betawi",
+    "hid": "bew",
+    "level": "language",
+    "iso639-3": "bew",
+    "latitude": "-6.21174",
+    "longitude": "107.022",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Betawi](https://grambank.clld.org/languages/beta1252)\n[Melayu Betawi](https://wals.info/languoid/lect/wals_code_meb)\nhttps://en.wikipedia.org/wiki/Betawi_language\nhttps://www.wikidata.org/entity/Q33014"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gil:conners:etal:15**\n**cldf:ikranegara:80**\n**cldf:wilkinson:59**\n**hh:d:Chaer:Jakarta**\n**hh:d:Kahler:Omong-Jakarta**\n**hh:g:Ikranagara:Melayu-Betawi**\n**hh:g:Ikranagara:Melayu-Betawi:1975**\n**hh:hvw:Adelaar:Melayik-Purba**\n**hh:hvw:Adelaar:Proto-Malayic**\n**hh:phon:Mundalifah:Betawi-Toba-Batak**\n**hh:phonsoc:Wallace:Jakarta-Malay**\n**hh:s:Muhadjir:Djakarta**\n**hh:soc:Fahrizal:Betawi**\n**hh:soct:Grijns:Jakarta-Malay**\n**hh:v:Nothofer:Jakarta-Malay**\n**hh:w:Homan:Bataviaasch-Maleisch**\n**mpieva:Muhadjir1981Morpholo**\n**mpieva:Verhaar19751990Miscella**\n**sn:Grijns1991**"
+  },
+  "altnames": {
+    "wals": "\nMelayu Betawi",
+    "ruhlen (1987)": "\nMalay (Jakarta)",
+    "multitree": "\nBatavi\nBatawi\nBetawi\nBetawi Malay\nJakarta Malay\nMelayu Jakarte",
+    "lexvo": "\nBahasa Betawi [id]\nBetawi [en]\nBetawi language [en]\nภาษาเบตาวี [th]\nベタウィ語 [ja]\n베타위어 [ko]",
+    "hhbib_lgcode": "\nBataviaasch Maleisch\nDialek Jakarta\nJakarta Malay\nOmong Jakarta"
+  },
+  "triggers": {
+    "lgcode": "\nbetawi"
+  },
+  "identifier": {
+    "wals": "meb",
+    "multitree": "bew"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Omar:Susur-Galur-Melayu** **hh:hvw:McDowell:Southern-Sumatra** (a node hypothetically corresponding to lexicostatistical figures hovering over 70%)",
+    "subrefs": "\n**hh:hvw:McDowell:Southern-Sumatra**\n**hh:hvs:Omar:Susur-Galur-Melayu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Betawi (bew-bew) = 6b (Threatened)."
+  }
+}

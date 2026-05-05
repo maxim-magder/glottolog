@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Batui",
+    "hid": "zbt",
+    "level": "language",
+    "iso639-3": "zbt",
+    "latitude": "-1.254442",
+    "longitude": "122.487151",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q16839143\nhttps://en.wikipedia.org/wiki/Batui_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Mead:Saluan-Banggai**\n**hh:hvw:MeadPasanda:Saluan-Batui**\n**hh:t:Saro:Saluan**\n**iso6393:2007-199**"
+  },
+  "altnames": {
+    "multitree": "\nBaha\nBatui\nPamona",
+    "lexvo": "\nBatui [en]",
+    "hhbib_lgcode": "\nBaha\nTLD Tolando Batui Batui"
+  },
+  "triggers": {
+    "lgcode": "\nspraakkunst AND baree"
+  },
+  "identifier": {
+    "multitree": "zbt"
+  },
+  "classification": {
+    "sub": "**hh:hvw:MeadPasanda:Saluan-Batui**",
+    "subrefs": "\n**hh:hvw:MeadPasanda:Saluan-Batui**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Batui (zbt-zbt) = 7 (Shifting)."
+  }
+}

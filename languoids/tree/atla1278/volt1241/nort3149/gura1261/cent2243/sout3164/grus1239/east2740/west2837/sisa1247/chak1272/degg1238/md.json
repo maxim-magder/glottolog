@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Deg",
+    "hid": "mzw",
+    "level": "language",
+    "iso639-3": "mzw",
+    "latitude": "8.43846",
+    "longitude": "-2.28724",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GH"
+    ],
+    "links": "\n[Deg](https://endangeredlanguages.com/lang/4746)\nhttps://en.wikipedia.org/wiki/Deg_language\nhttps://phoible.org/languages/degg1238\nhttps://www.wikidata.org/entity/Q35183"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cahill:97**\n**cldf:delafosse:04**\n**cldf:herbert:96**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:32788**\n**eballiso2009:36637**\n**eballiso2009:4388**\n**eballiso2009:59371**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Dittmer:Obervolta**\n**hh:he:Manoukian:Northern-Gold-Coast**\n**hh:hew:Tauxier:Bondoukou**\n**hh:hvw:Bendor-Samuel:Grusi**\n**hh:hvw:MensahTchagbale:Gur**\n**hh:hvw:Swadesh:Gur**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phon:CrouchHerbert:Deg**\n**hh:phon:Kossonou:Deg**\n**hh:phontyp:Yago:Nuni**\n**hh:typ:Kossonou:Degha**\n**hh:typd:Kossonou:Degha**\n**hh:w:Armstrong:West-African**\n**hh:w:Painter:Banda**\n**mpieva:Crouch2003Collecte**\n**sil16:19337**\n**sil16:19338**\n**sil16:19339**\n**sil16:19340**\n**sil16:19341**\n**sil16:19342**\n**sil16:19343**\n**sil16:19344**\n**sil16:19345**\n**sil16:19346**\n**sil16:19347**\n**sil16:19348**\n**sil16:19349**\n**sil16:19350**\n**sil16:19351**\n**sil16:19352**\n**sil16:19353**\n**sil16:22253**\n**sil16:22254**\n**sil16:22255**\n**sil16:23655**\n**sil16:32035**\n**sil16:35163**\n**sil16:39625**\n**sil16:39626**\n**sil16:39627**\n**sil16:39628**\n**sil16:39654**"
+  },
+  "altnames": {
+    "multitree": "\nAculo\nBuro\nBuru\nDeg\nDegha\nDɛ\nJanela\nMmfo\nMo",
+    "lexvo": "\nDeg [en]",
+    "hhbib_lgcode": "\nAculo\nAtyulo\nDegha\nDégha\nJanela\nMo",
+    "elcat": "\nAculo\nBuro\nBuru\nDeg\nDegha\nDɛ\nJanela\nMmfo\nMo"
+  },
+  "triggers": {
+    "lgcode": "\ngrusi AND deg"
+  },
+  "identifier": {
+    "multitree": "mzw",
+    "endangeredlanguages": "4746"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manessy:Gurunsi** **hh:hb:Kleinewillinghofer:Gurunsi**",
+    "subrefs": "\n**hh:hv:Manessy:Gurunsi**\n**hh:hb:Kleinewillinghofer:Gurunsi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Deg (4746-mzw) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

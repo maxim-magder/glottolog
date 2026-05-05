@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Anmatyerre",
+    "hid": "amx",
+    "level": "language",
+    "iso639-3": "amx",
+    "latitude": "-22.2853",
+    "longitude": "133.286",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Anmatyerre](https://endangeredlanguages.com/lang/3840)\nhttps://www.wikidata.org/entity/Q10412317"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:caffery:10**\n**cldf:lewis:ed:09**\n**cldf:marmion:obata:etal:14**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Green:Anmatyerr**\n**hh:d:Greenetal:Anmatyerr**\n**hh:hbw:MenningNash:Central-Australian**\n**hh:hsoc:Glasgow:CNTerritory**\n**hh:hv:Breen:Arandic**\n**hh:t:Greenetal:Anmatyerr**\n**ozbib:2372**\n**ozbib:2373**\n**ozbib:2375**\n**ozbib:2770**\n**ozbib:2942**\n**ozbib:3072**\n**ozbib:3176**\n**ozbib:3268**\n**ozbib:3272**\n**ozbib:3385**\n**ozbib:3855**\n**ozbib:4685**\n**ozbib:5400**\n**ozbib:5473**\n**ozbib:5481**\n**ozbib:5697**\n**ozbib:5700**\n**ozbib:6079**\n**ozbib:6141**\n**ozbib:6441**\n**ozbib:6467**\n**ozbib:674**\n**ozbib:675**\n**ozbib:7108**\n**ozbib:7110**\n**ozbib:7131**\n**ozbib:7288**"
+  },
+  "altnames": {
+    "multitree": "\nAnmatjara\nAnmatjera\nAnmatjirra\nAnmatyerre\nImatjera\nInmatjera\nJanmadjara\nJanmatjiri\nNmatjera\nUnmatjera\nUrmitchee\nYandmadjari\nYanmedjara",
+    "lexvo": "\nAnmatyerre [en]",
+    "hhbib_lgcode": "\nAnmajirra\nEastern Anmatyerr\nWestern Anmatyerr",
+    "elcat": "\nAnmatjara\nAnmatjera\nAnmatjirra\nAnmatyerre\nImatjera\nInmatjera\nJanmadjara\nJanmatjiri\nNmatjera\nUnmatjera\nUrmitchee\nYandmadjari\nYanmedjara"
+  },
+  "triggers": {
+    "lgcode": "\nanmatyerr"
+  },
+  "identifier": {
+    "multitree": "amx",
+    "endangeredlanguages": "3840"
+  },
+  "classification": {
+    "sub": "**hh:hv:Koch:Arandic** **hh:g:Henderson:Central-Eastern-Arrernte:2013**:10-13",
+    "subrefs": "\n**hh:hv:Koch:Arandic**\n**hh:g:Henderson:Central-Eastern-Arrernte:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Anmatyerre (3840-amx) = Threatened (80 percent certain, based on the evidence available) (While Anmatyerre appears to be used by most members of the community, the source gives no information on its stance in the government or institutions beyond.) [Marmion et al. 2014](cldf:marmion:obata:etal:14)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Pol",
+    "hid": "pmm",
+    "level": "language",
+    "iso639-3": "pmm",
+    "latitude": "4.243",
+    "longitude": "13.446",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36408\nhttps://en.wikipedia.org/wiki/Pol_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:28707**\n**hh:g:Wega:Polri**\n**hh:g:Wega:Polri:2016**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hvw:Wega:Polri**\n**hh:phon:Wega:Polri**"
+  },
+  "altnames": {
+    "multitree": "\nCongo Pol\nPol\nPomo\nPori\nPul",
+    "lexvo": "\nPomo [en]",
+    "hhbib_lgcode": "\nA87_Bomwali\nMambaya\nPol\nPol Asum\nPol Kinda",
+    "glottolog": "\nPomo"
+  },
+  "triggers": {
+    "lgcode": "\npomo AND africa"
+  },
+  "identifier": {
+    "multitree": "pmm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359 **hh:hv:Grollemund:North-Western-Bantu** **hh:g:Wega:Polri:2016**:4, 6, 285-286",
+    "subrefs": "\n**hh:hv:Grollemund:North-Western-Bantu**\n**hh:g:Wega:Polri:2016**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pol (pmm-pmm) = 6a* (Vigorous)."
+  }
+}

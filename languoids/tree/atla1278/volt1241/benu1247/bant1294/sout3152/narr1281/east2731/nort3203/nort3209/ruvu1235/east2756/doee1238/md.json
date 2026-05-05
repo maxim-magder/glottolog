@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Doe",
+    "hid": "doe",
+    "level": "language",
+    "iso639-3": "doe",
+    "latitude": "-6.25844",
+    "longitude": "38.4902",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Doe](https://endangeredlanguages.com/lang/5063)\nhttps://www.wikidata.org/entity/Q5288055\nhttps://en.wikipedia.org/wiki/Doe_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baur:82**\n**cldf:baur:83**\n**cldf:baur:roy:86**\n**cldf:baur:roy:87**\n**cldf:baur:roy:93**\n**cldf:baur:roy:99**\n**cldf:dimmendaal:voeltz:07**\n**cldf:johnston:19:6**\n**cldf:lewis:ed:09**\n**eballiso2009:12977**\n**eballiso2009:15310**\n**eballiso2009:2995**\n**eballiso2009:3025**\n**eballiso2009:39801**\n**eballiso2009:39811**\n**eballiso2009:39812**\n**eballiso2009:39813**\n**eballiso2009:39814**\n**eballiso2009:50699**\n**eballiso2009:54102**\n**eballiso2009:54109**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Stuhlmann:Pascha**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hvw:Gonzales:Ruvu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Stuhlmann:Zentralafrikanischer**"
+  },
+  "altnames": {
+    "multitree": "\nDoe\nDohe\nKidoe",
+    "lexvo": "\nDoe [en]",
+    "hhbib_lgcode": "\nG32_Doe\nKi-Doe\nKidoe\nWadóë\nZaramo 2 d. doe G33\nZigula-Kidoe",
+    "elcat": "\nDoe\nDohe\nKidoe"
+  },
+  "triggers": {
+    "lgcode": "\nmandera\nNOT de AND zanguebar"
+  },
+  "identifier": {
+    "multitree": "doe",
+    "endangeredlanguages": "5063"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Gonzales:Ruvu**",
+    "subrefs": "\n**hh:hvw:Gonzales:Ruvu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Doe (5063-doe) = Vulnerable (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

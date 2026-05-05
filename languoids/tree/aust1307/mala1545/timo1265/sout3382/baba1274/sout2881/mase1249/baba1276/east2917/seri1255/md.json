@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Serili",
+    "hid": "sve",
+    "level": "language",
+    "iso639-3": "sve",
+    "latitude": "-8.11241",
+    "longitude": "129.901",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Serili](https://endangeredlanguages.com/lang/2781)\nhttps://www.wikidata.org/entity/Q7454834\nhttps://en.wikipedia.org/wiki/Serili_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hvw:Taber:SWMaluku**\n**hh:w:vanDijk:Marsela**"
+  },
+  "altnames": {
+    "multitree": "\nSerili",
+    "lexvo": "\nSerili [en]",
+    "elcat": "\nSerili",
+    "hhbib_lgcode": "\nSerili (Marsela)"
+  },
+  "identifier": {
+    "multitree": "sve",
+    "endangeredlanguages": "2781"
+  },
+  "classification": {
+    "sub": "**hh:h:Taber:Maluku**:119-121 **hh:hvw:Taber:SWMaluku**:393",
+    "subrefs": "\n**hh:h:Taber:Maluku**\n**hh:hvw:Taber:SWMaluku**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Serili (2781-sve) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

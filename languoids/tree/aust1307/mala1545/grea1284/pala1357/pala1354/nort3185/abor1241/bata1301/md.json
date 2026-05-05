@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Batak",
+    "hid": "bya",
+    "level": "language",
+    "iso639-3": "bya",
+    "latitude": "10.1115",
+    "longitude": "119.025",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Batak](https://endangeredlanguages.com/lang/2849)\n[Batak](https://wals.info/languoid/lect/wals_code_bat)\nhttps://en.wikipedia.org/wiki/Batak_language_(Philippines)\nhttps://www.wikidata.org/entity/Q3450443"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1599**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:boissiere:06**\n**cldf:calculator:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:eder:78**\n**cldf:eder:84**\n**cldf:eder:87**\n**cldf:eder:97**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:75**\n**cldf:lewis:ed:09**\n**cldf:novellino:09**\n**cldf:np:13:9**\n**cldf:np:14:5**\n**cldf:np:nd:265**\n**cldf:venturello:07**\n**cldf:yumul:dimalanta:etal:09**\n**hh:d:MayerRodda:Batak**\n**hh:e:Cadelina:Batak**\n**hh:e:Eder:Batak-Palawan**\n**hh:e:Eder:Batak-Philippines**\n**hh:e:Miller:Bataks**\n**hh:e:Venturillo:Batacs**\n**hh:ew:Warren:Batak-Palawan**\n**hh:h:Blumentritt:Palawan**\n**hh:h:Larena:Philippines**\n**hh:h:Lobel:Philippine**\n**hh:hv:Thiessen:Palawan**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:s:Rodda:Batak**\n**hh:soc:Tajolosa:Batak**\n**hh:soc:Tajolosa:Batak:2012**\n**hh:w:Warren:Batak-Palawan**\n**hh:w:Warren:Batak-Palawan:1975**\n**mpieva:Tuuk1861Bataksch**\n**sil16:10126**\n**sil16:12204**\n**sil16:14710**\n**sil16:14711**\n**sil16:14712**\n**sil16:22776**"
+  },
+  "altnames": {
+    "wals": "\nBatak",
+    "ruhlen (1987)": "\nBatak",
+    "moseley & asher (1994)": "\nBatak",
+    "multitree": "\nBabuyan\nBataco\nBatak\nBattak\nPalawan Batak\nTinitianes",
+    "lexvo": "\nBatak [en]",
+    "hhbib_lgcode": "\nBatak of Palawan\nBatak of the Philippines\nBatak-Palawan (Btk.)\nBatek",
+    "elcat": "\nBabuyan\nBatak\nBattak\nPalawan Batak\nTinitianes"
+  },
+  "triggers": {
+    "lgcode": "\npirimirung\nNOT a AND batak\nikatlung\nikaduang\nnederduitsch"
+  },
+  "identifier": {
+    "wals": "bat",
+    "multitree": "bya",
+    "endangeredlanguages": "2849"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thiessen:Palawan**",
+    "subrefs": "\n**hh:hv:Thiessen:Palawan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Batak (2849-bya) = Endangered (20 percent certain, based on the evidence available) [Lobel 2013](cldf:lobel:13)"
+  }
+}

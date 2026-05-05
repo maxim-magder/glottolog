@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Palula",
+    "hid": "phl",
+    "level": "language",
+    "iso639-3": "phl",
+    "latitude": "35.5096",
+    "longitude": "71.8421",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\n[Phalura](https://endangeredlanguages.com/lang/4965)\nhttps://en.wikipedia.org/wiki/Palula_language\nhttps://phoible.org/languages/phal1254\nhttps://www.wikidata.org/entity/Q2449549"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:edelman:94**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Liljegren:Palula**\n**hh:e:Cacopardo:Palula**\n**hh:g:Liljegren:Palula**\n**hh:g:Liljegren:Palula:2016**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hs:Edelman:Dardskie-Nuristani**\n**hh:htyp:Edelman:Dardic-Nuristani**\n**hh:hv:Liljegren:Dangari**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:hvld:Bashir:Dardic**\n**hh:s:Morgenstierne:Phalura**\n**hh:t:Liljegren:Palula**\n**iso6393:2008-035**\n**mpieva:Decker1992Factorsa**\n**sil16:32906**\n**sil16:47044**\n**sil16:47754**\n**sil16:47755**\n**zurich:Bashir2003-15**"
+  },
+  "altnames": {
+    "multitree": "\nBiyori\nDangarik\nDangarīk\nDardu\nPalola\nPalula\nPalūla\nPhalulo\nPhalura",
+    "lexvo": "\nPaloureg [br]\nPalula [en]\nPalula language [en]\nPhalura [en]\nภาษาปาลูลา [th]",
+    "hhbib_lgcode": "\nNorthern Palula\nPalula\nPhalura\nPxalura\nSawi\nSouthern Palula",
+    "elcat": "\nBiyori\nDangarik\nDangarīk\nDardu\nPalola\nPalula\nPalūla\nPhalulo\nPhalura",
+    "glottolog": "\nPhalura"
+  },
+  "triggers": {
+    "lgcode": "\nphalura\nphalra\npalula"
+  },
+  "identifier": {
+    "multitree": "phl",
+    "endangeredlanguages": "4965"
+  },
+  "classification": {
+    "sub": "**hh:hv:Liljegren:Dangari** **hh:s:Liljegren:Kalkoti**",
+    "subrefs": "\n**hh:hv:Liljegren:Dangari**\n**hh:s:Liljegren:Kalkoti**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Phalura (4965-phl) = Vulnerable (100 percent certain, based on the evidence available) (\"Palula is almost exclusively used among people who speak Palula as their first language. Within the Biori and Ashret Valleys, it is in most cases the only language in communicative use, and there are very few native speakers of other languages residing in those locations.\" (p. 40)) [Liljegren 2008](cldf:liljegren:08)"
+  }
+}

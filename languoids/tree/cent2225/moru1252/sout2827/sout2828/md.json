@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southern Ma'di",
+    "hid": "snm",
+    "level": "language",
+    "iso639-3": "snm",
+    "latitude": "2.8735",
+    "longitude": "31.25",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "UG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q15637273\nhttps://phoible.org/languages/sout2828"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:12438**\n**eballiso2009:13296**\n**eballiso2009:19687**\n**eballiso2009:22964**\n**eballiso2009:26354**\n**eballiso2009:2658**\n**eballiso2009:3365**\n**eballiso2009:35758**\n**eballiso2009:39872**\n**eballiso2009:39873**\n**eballiso2009:49320**\n**eballiso2009:49453**\n**eballiso2009:52505**\n**eballiso2009:54394**\n**eballiso2009:55351**\n**eballiso2009:56003**\n**eballiso2009:56004**\n**eballiso2009:57164**\n**eballiso2009:5729**\n**eballiso2009:6413**\n**hh:ew:Felkin:Madi**\n**hh:hb:Santandrea:Missioni**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**hh:w:Bey:Afrikanischer**\n**hh:w:Miani:Auidi**"
+  },
+  "altnames": {
+    "multitree": "\nMa'di, Southern\nSouthern Ma'di",
+    "lexvo": "\nSouthern Ma'di [en]",
+    "hhbib_lgcode": "\nMa'di-Southern\nMadi\nOgoko\nOgollo\nOguko\nOkollo"
+  },
+  "triggers": {
+    "lgcode": "\nlulubo\nauidi\nnilotica\nNOT for AND NOT moru AND madi"
+  },
+  "identifier": {
+    "multitree": "snm"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:WatsonBoone:Moru-Madi**",
+    "subrefs": "\n**hh:hwsoc:WatsonBoone:Moru-Madi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ma’di, Southern (snm-snm) = 6a (Vigorous)."
+  }
+}

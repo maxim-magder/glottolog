@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kalo Finnish Romani",
+    "hid": "rmf",
+    "level": "language",
+    "iso639-3": "rmf",
+    "latitude": "60.45",
+    "longitude": "24.43",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FI",
+      "SE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Finnish_Romani_language\nhttps://www.wikidata.org/entity/Q2093214"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:667**\n**hh:b:Gilliat-Smith:Finnish-Romani**\n**hh:b:Granqvist:Romani**\n**hh:b:Valtonen:Finnish-Romani**\n**hh:d:Koivisto:Romani**\n**hh:d:Koivisto:Romano**\n**hh:d:Thesleff:Finnlandischen**\n**hh:dv:Valtonen:Mustalaiskielen**\n**hh:es:Ganander:Tattare**\n**hh:hv:Matras:Romani**\n**hh:hvw:Monrad:Finno-Romani**\n**hh:ld:VuorelaBorin:Finnish-Romani**\n**hh:ldsoc:Ariste:Mustlased**\n**hh:s:Bourgeois:Romani-Finlandais**\n**hh:s:vanderVoort:Finnish-Gypsies**\n**hh:sv:Valtonen:Mustalaiskielen**\n**hh:t:AckerleyWinstedt:Finnish-Romani**\n**hh:typ:Belugin:Finskix**\n**hh:typ:Brandt-Taskninen:Suomen-Romanikielen**\n**hh:vtyp:Ariste:Finnischen-Zigeuner**\n**hh:w:Aalto:Tzigane**\n**mpieva:1995Romaniin**\n**mpieva:1997Thetypol**\n**mpieva:261**"
+  },
+  "altnames": {
+    "multitree": "\nEuropean Romany\nFíntika Rómma\nGypsy\nKalo Finnish Romani\nRomani, Kalo Finnish\nRomany\nZigeuner",
+    "lexvo": "\nKalo Finnish Romani [en]\nKalo Finnish Romani language [en]",
+    "hhbib_lgcode": "\nEast Finnish Romani\nFIN-002\nFIN-005\nFIN-006\nFIN-008\nFIN-012\nLaiuse\nPara-Romani Kalo Finnish Romani\nRomani-Kalo Finnish\nWest Finnish Romani"
+  },
+  "triggers": {
+    "lgcode": "\nromlex\nfinnlandischen\nsuomen"
+  },
+  "identifier": {
+    "multitree": "rmf"
+  },
+  "classification": {
+    "sub": "**hh:hv:ElsikBenisek:Romani**:398-399, 407-408",
+    "subrefs": "\n**hh:hv:ElsikBenisek:Romani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Romani (405-rmc, rmf, rml, rmn, rmo, rmw, rmy) = Definitely endangered"
+  }
+}

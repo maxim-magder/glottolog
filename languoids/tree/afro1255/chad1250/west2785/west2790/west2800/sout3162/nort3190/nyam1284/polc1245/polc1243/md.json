@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pesse",
+    "hid": "pze",
+    "level": "language",
+    "iso639-3": "pze",
+    "latitude": "10.1346",
+    "longitude": "9.5961",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Buli](https://lexibank.clld.org/languages/kraftchadic-Buli)\n[Polci](https://endangeredlanguages.com/lang/4975)\n[Pəlci](https://lexibank.clld.org/languages/kraftchadic-Plci)\nhttps://en.wikipedia.org/wiki/Pesse_language\nhttps://www.wikidata.org/entity/Q116450302"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvw:Shimizu:SBauchi**\n**hh:hvwsoc:Decker:Polci**\n**hh:hw:Kraft:Chadic:I**\n**hh:w:Cosper:Barawa**\n**iso6393:2022-023**"
+  },
+  "altnames": {
+    "multitree": "\nGroupe Polci\nPalchi\nPalci\nPolchi\nPolci",
+    "lexvo": "\nPolci [en]",
+    "hhbib_lgcode": "\nBarang\nBili/Buli\nBuli\nLangas\nMbarimi\nNyamzak\nNyamzax\nPelci\nPesse-Dumba\nPesse-Gauri\nPolci\nZul",
+    "elcat": "\nPalchi\nPalci\nPolchi\nPolci\nPolshi\nPosa\nPosanchi\nPosi\nPosə\nPəlci",
+    "glottolog": "\nPolci"
+  },
+  "triggers": {
+    "lgcode": "\npolci\nzul"
+  },
+  "identifier": {
+    "multitree": "plj",
+    "endangeredlanguages": "4975"
+  },
+  "classification": {
+    "sub": "**hh:hvwsoc:Decker:Polci**",
+    "subrefs": "\n**hh:hvwsoc:Decker:Polci**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Polci (4975-plj) = Vulnerable (20 percent certain, based on the evidence available) [Caron 2005](cldf:caron:05:1)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Hmong Daw",
+    "hid": "mww",
+    "level": "language",
+    "iso639-3": "mww",
+    "latitude": "21.5461",
+    "longitude": "103.164",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA",
+      "TH",
+      "VN"
+    ],
+    "links": "\n[Hmong Daw](https://wals.info/languoid/lect/wals_code_hmd)\n[White Hmong](https://lexibank.clld.org/languages/johanssonsoundsymbolic-WhiteHmong)\n[White Hmong](https://lexibank.clld.org/languages/wold-WhiteHmong)\nhttps://www.wikidata.org/entity/Q3138829"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fuller:87**\n**cldf:jarkey:87**\n**cldf:johns:strecker:87**\n**cldf:ratliff:87**\n**cldf:thurgood:ed:99:5**\n**cldf:xiong:xiong:etal:84**\n**hh:d:Bertrais:Hmong**\n**hh:d:Heimbach:White-Hmong**\n**hh:d:Yang:Hmong-Blanc**\n**hh:dial:FlamingCastro:Hmong-Yunnan**\n**hh:e:Lavest:Kouang-Si**\n**hh:e:Tam:Meo**\n**hh:e:Vial:Miaotse**\n**hh:g:Mottin:HmongBlanc**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Johnson:Far-Western-Hmongic**\n**hh:hv:Purnell:Miao-Yao**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:ld:Vial:Miaotse**\n**hh:lde:Schotter:Kouy**\n**hh:phon:Yang:Saisongben-Miao**\n**hh:phond:Heimbach:White-Meo**\n**hh:phonv:Gu:Tuhe-Miao**\n**hh:phonvw:Johnson:Hmong-Sha**\n**hh:s:Niederer:Hmong**\n**hh:s:Whitelock:White-Hmong**\n**hh:sd:Savina:Miao-Tseu**\n**hh:st:Birnschein:White-Hmong**\n**hh:t:Bisang:Hmong-Blanc**\n**hh:typ:Fuller:Hmong**\n**hh:typ:Ratliff:White-Hmong-Expressives**\n**hh:typ:Rice:Golden-Triangle**\n**hh:vld:Liu:Dashanjiao-Miao**\n**hh:w:Edkins:Miau**\n**hh:w:Pierlot:Meo**\n**hh:w:Vial:Miaotse**\n**sala:clark1985asking**\n**sil16:33124**\n**sil16:37948**"
+  },
+  "altnames": {
+    "wals": "\nHmong Daw",
+    "wals other": "\nHmong (White)\nHmong Dao",
+    "ruhlen (1987)": "\nMiao",
+    "moseley & asher (1994)": "\nMiao",
+    "multitree": "\nBai Miao\nBlue Miao\nChuan Miao\nGreen Miao\nHmong Daw\nMeo Kao\nMán Tráng\nPe Miao\nPeh Miao\nRed Miao\nWhite Lum\nWhite Meo\nWhite Miao",
+    "lexvo": "\nHmong Daw [en]",
+    "hhbib_lgcode": "\n= Hmong Daw\nBlack and White Miao in the province of Yen-Bay\nCQD\nCQD3\nCQD3 closest to Hmong Sha\nCh'uan Miao\nClosest to Hmong Daw (White Hmong)\nDashanjiao\nDleub Y04\nDleub Y07 Whenshan\nDongdi\nHmong Blanc Thailand/Laos\nHmong Dou\nHmong Sha\nHmong Sha closest to Hmong Daw\nHmong Si\nHmong Si in Weixin-Yunnan\nLocal Dialect Three of CQD\nLuzhai (Babao)\nMeo\nMiao-White\nMiaotse\nMong Leng (from Thailand)\nMong Lyai\nMéo from the province laotienne de Tran-ninh chez les Méo Blancs habitant les montagnes du Pou Ké et du Pou Ko Bo et du Pou Sao\nPe-Miao\nPe-Miao ou Miao blancs\nPetchabun\nPingshang\nSichuan-Guizhou-Yunnan Miao (Chuan-Qian-Dian) Local Dialect Three\nTak\nTuhe Xishui\nWeixin\nWhite\nWhite Hmong\nXixiu"
+  },
+  "triggers": {
+    "lgcode": "\ngreen AND hmong\ndaw AND hmong\nwhite AND hmong\nhmong AND blanc"
+  },
+  "identifier": {
+    "wals": "hmd",
+    "multitree": "mww"
+  },
+  "classification": {
+    "sub": "**hh:styp:McLaughlin:Hmong-Soud**:6-10 **hh:vb:Castroetal:Western-Miao**",
+    "subrefs": "\n**hh:vb:Castroetal:Western-Miao**\n**hh:styp:McLaughlin:Hmong-Soud**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hmong Daw (mww-mww) = 5 (Developing). Language of recognized nationality: Miao."
+  }
+}

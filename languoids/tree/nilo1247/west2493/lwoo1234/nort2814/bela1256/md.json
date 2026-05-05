@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Belanda Bor",
+    "hid": "bxb",
+    "level": "language",
+    "iso639-3": "bxb",
+    "latitude": "6.6503",
+    "longitude": "27.8232",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Belanda Bor](https://endangeredlanguages.com/lang/3999)\n[Belanda Bor](https://grambank.clld.org/languages/bela1256)\nhttps://phoible.org/languages/bela1256"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Asan:Belanda-Bor**\n**hh:g:vonHeyking:Belanda-Boor**\n**hh:h:Gilley:Lwoian**\n**hh:h:MJW:Balanda**\n**hh:h:Santandrea:Ghazal**\n**hh:he:Butt:Nilotes**\n**hh:he:Madut:Luo-South-Sudan**\n**hh:hew:Evans-Pritchard:Mberidi**\n**hh:hvtyp:Storch:WNilotic**\n**hh:lde:Santandrea:Shilluk-Luo**\n**hh:typ:vonHeyking:Belanda-Boor**\n**hh:w:Asan:Belanda-Bor**\n**sil16:22670**"
+  },
+  "altnames": {
+    "multitree": "\nBelanda Bor\nBelanda bor\nBor\nBor-Belanda\nDe Bor",
+    "lexvo": "\nBelanda Bor [en]",
+    "hhbib_lgcode": "\nAmberidi\nBaland Bor (Bori)\nBelanda-Bor\nBoor\nBor Belanda\nMberidi",
+    "elcat": "\nBelanda Bor\nBor\nBor-Belanda\nDe Bor"
+  },
+  "triggers": {
+    "lgcode": "\nboor\nbor\nkedo"
+  },
+  "identifier": {
+    "multitree": "bxb",
+    "endangeredlanguages": "3999"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Belanda Bor (3999-bxb) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

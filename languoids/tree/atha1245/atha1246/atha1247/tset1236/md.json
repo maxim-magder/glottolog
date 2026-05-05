@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tsetsaut",
+    "hid": "txc",
+    "level": "language",
+    "iso639-3": "txc",
+    "latitude": "55.5",
+    "longitude": "-130.08",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q20829\nhttps://en.wikipedia.org/wiki/Tsetsaut_language",
+    "timespan": "1927-01-01/1927-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**anla:CA961K1966**\n**anla:CA961K1977a**\n**hh:e:Curtis:9**\n**hh:e:Duff:Tsetsaut**\n**hh:hew:Boas:British-Columbia**\n**hh:hvb:Golla:California**\n**hh:w:BoasGoddard:Tsetsaut**"
+  },
+  "altnames": {
+    "multitree": "\nMountain\nTs'ets'aut\nTsetsaut",
+    "lexvo": "\nTsetsaut [en]",
+    "hhbib_lgcode": "\nTlatskanai\nWillapa"
+  },
+  "triggers": {
+    "lgcode": "\ntsetsaut\nkwalhioqua\nclatskanie"
+  },
+  "identifier": {
+    "multitree": "tsts;txc"
+  },
+  "classification": {
+    "sub": "**hh:h:Mithun:NAmerica**:345-354 **hh:hv:Goddard:Introduction-North-America** **hh:h:Jaker:Na-Dene**:474",
+    "subrefs": "\n**hh:h:Mithun:NAmerica**\n**hh:h:Jaker:Na-Dene**\n**hh:hv:Goddard:Introduction-North-America**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tsetsaut (2400-txc) = Extinct"
+  }
+}

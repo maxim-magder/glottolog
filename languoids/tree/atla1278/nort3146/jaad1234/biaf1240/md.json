@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Biafada",
+    "hid": "bif",
+    "level": "language",
+    "iso639-3": "bif",
+    "latitude": "11.467",
+    "longitude": "-15.1347",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW"
+    ],
+    "links": "\n[Biafada](https://endangeredlanguages.com/lang/7810)\n[Biafada](https://grambank.clld.org/languages/biaf1240)\n[Biafada](https://lexibank.clld.org/languages/polyglottaafricana-Biafada)\n[Biafada](https://wals.info/languoid/lect/wals_code_bfd)\nhttps://en.wikipedia.org/wiki/Biafada_language\nhttps://www.wikidata.org/entity/Q35099"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:almada:41**\n**cldf:almada:42**\n**cldf:almada:64**\n**cldf:almada:84**\n**cldf:almada:94:1**\n**cldf:almada:94:2**\n**cldf:carreira:64**\n**cldf:coelho:53**\n**cldf:coelho:80**\n**cldf:coelho:85**\n**cldf:fernandes:38**\n**cldf:fernandes:51**\n**cldf:fernandes:nd**\n**cldf:gomes:barbosa:etal:46**\n**cldf:hair:67:1**\n**cldf:hair:67:2**\n**cldf:johnston:19:37**\n**cldf:kihm:80**\n**cldf:krause:95**\n**cldf:lewis:ed:09**\n**eballiso2009:13967**\n**eballiso2009:13968**\n**eballiso2009:20986**\n**eballiso2009:25760**\n**eballiso2009:25766**\n**eballiso2009:25772**\n**eballiso2009:25777**\n**eballiso2009:26929**\n**eballiso2009:36459**\n**eballiso2009:36460**\n**eballiso2009:36461**\n**eballiso2009:36462**\n**eballiso2009:36465**\n**eballiso2009:36467**\n**eballiso2009:36468**\n**eballiso2009:43136**\n**eballiso2009:43139**\n**eballiso2009:48457**\n**eballiso2009:50006**\n**eballiso2009:50008**\n**eballiso2009:50009**\n**eballiso2009:53273**\n**eballiso2009:58662**\n**eballiso2009:7393**\n**eballiso2009:7398**\n**eballiso2009:773**\n**eballiso2009:774**\n**hh:ew:Gomes:Biafada**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hv:Doneux:Senegal**\n**hh:hvld:Kane:Numeration-Ouest-Atlantiques-Mande**\n**hh:hvs:Wilson:Atlantic**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:ld:Krause:Fada**\n**hh:s:Wilson:Biafada**\n**hh:s:Wilson:Biafada-Pajade**\n**hh:vld:Klingenheben:Biafada-Ful**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "wals": "\nBiafada",
+    "ruhlen (1987)": "\nBiafada",
+    "moseley & asher (1994)": "\nBiafada",
+    "multitree": "\nBeafada\nBedfola\nBiafada\nBiafar\nBidyola\nFada",
+    "lexvo": "\nBiafada [en]",
+    "elcat": "\nBeafada\nBedfola\nBiafada\nBiafar\nBidyola\nFada\nGanjoola",
+    "glottolog": "\nJoolaa\nNjoola\nYola"
+  },
+  "triggers": {
+    "lgcode": "\nbiafada"
+  },
+  "identifier": {
+    "wals": "bfd",
+    "multitree": "bif",
+    "endangeredlanguages": "7810"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017** **hh:hv:Merrill:Atlantic** **hh:hv:Merrill:Cangin**",
+    "subrefs": "\n**hh:hv:Merrill:Atlantic**\n**hh:hv:Merrill:Cangin**\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Biafada (7810-bif) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

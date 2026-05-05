@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lele (Guinea)",
+    "hid": "llc",
+    "level": "language",
+    "iso639-3": "llc",
+    "latitude": "8.98043",
+    "longitude": "-10.371",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6520837\nhttps://en.wikipedia.org/wiki/Lele_language_(Guinea)\nhttps://phoible.org/languages/lele1266"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2707**\n**hh:hvw:Vydrine:Mande**\n**hh:s:MaraCamara:Lele**\n**hh:s:Vydrine:Lele**"
+  },
+  "altnames": {
+    "multitree": "\nGuinea\nLele",
+    "lexvo": "\nLele (Guinea) [en]\nLele [en]",
+    "hhbib_lgcode": "\nLele"
+  },
+  "triggers": {
+    "lgcode": "\nproto AND homeland\nmokole"
+  },
+  "identifier": {
+    "multitree": "llc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lele (llc-llc) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Monguoric",
+    "level": "family",
+    "latitude": "36.8177",
+    "longitude": "102.117",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34214\nhttps://en.wikipedia.org/wiki/Monguor_language\nhttps://phoible.org/languages/tuuu1240\n[Mangghuer](https://wals.info/languoid/lect/wals_code_mgg)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:desmedt:mostaert:64**\n**cldf:krader:63**\n**cldf:schram:54**\n**cldf:stolz:96**\n**cldf:todaeva:97:3**"
+  },
+  "altnames": {
+    "wals": "\nMangghuer",
+    "wals other": "\nMinxe dialect\nMongor\nMonguor",
+    "ruhlen (1987)": "\nMonguor (Minhe)",
+    "moseley & asher (1994)": "\nMonguor",
+    "multitree": "\nMangghuer\nMinhe monguor\nMongor\nMongour\nMonguor\nMonguor de Huzhu\nMonguor de Minhe\nTu",
+    "lexvo": "\nJęzyk mongorski [pl]\nMangghuer [de]\nMonguor [fr]\nMonguor language [en]\nTu [en]\nYezhoù mongourek [br]\nМонгорски јазик [mk]\nМонгорский язык [ru]\n土族语 [zh]",
+    "hhbib_lgcode": "\nHuzhu\nMangghuer\nMonguor\nMonguor-Tu\nTuzu",
+    "glottolog": "\nTu"
+  },
+  "triggers": {
+    "lgcode": "\nmongorskij\nstronglyaltaicized\nmongghul\nmonguor\nmangghuer\nkansu"
+  },
+  "identifier": {
+    "wals": "mgg",
+    "multitree": "mjg;mngr",
+    "languagelandscape": "http://languagelandscape.org/language/Mangghuer"
+  },
+  "classification": {
+    "sub": "**hh:hv:GruntovMazo:Mongghul-Mangghuer**",
+    "subrefs": "\n**hh:hv:GruntovMazo:Mongghul-Mangghuer**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Huzhu (2088-mjg-huz) = Endangered (100 percent certain, based on the evidence available); Minhe Monguor (10471-mjg) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

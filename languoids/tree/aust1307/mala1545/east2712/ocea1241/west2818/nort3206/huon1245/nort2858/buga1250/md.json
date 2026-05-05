@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bugawac",
+    "hid": "buk",
+    "level": "language",
+    "iso639-3": "buk",
+    "latitude": "-6.67519",
+    "longitude": "147.32",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bugawac](https://endangeredlanguages.com/lang/3987)\n[Bugawac](https://grambank.clld.org/languages/buga1250)\nhttps://en.wikipedia.org/wiki/Bukawa_language\nhttps://www.wikidata.org/entity/Q35043"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:eckerman:eckerman:00**\n**cldf:hogbin:46:2**\n**cldf:hogbin:46:4**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Lehner:Bukaua**\n**hh:g:Eckermann:Bukawa**\n**hh:hld:Smith:Morobe**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schellong:Worterverzeichnisse**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:ld:Capell:Tonal-NG**\n**silpng:silpng1991-2000:428**\n**silpng:silpng1991-2000:429**\n**silpng:silpng1991-2000:430**\n**silpng:silpng1991-2000:431**\n**silpng:silpng1991-2000:432**\n**silpng:silpng1991-2000:433**\n**silpng:silpng1991-2000:434**\n**silpng:silpng1991-2000:435**\n**silpng:silpng1991-2000:436**\n**silpng:silpng1991-2000:437**\n**silpng:silpng1991-2000:438**\n**silpng:silpng1991-2000:439**\n**silpng:silpng1991-2000:440**\n**silpng:silpng1991-2000:441**\n**silpng:silpng1991-2000:442**\n**silpng:silpng1991-2000:443**\n**silpng:silpng1991-2000:444**\n**silpng:silpng1991-2000:445**\n**silpng:silpng1991-2000:446**\n**silpng:silpng1991-2000:447**\n**silpng:silpng1991-2000:448**\n**silpng:silpng1991-2000:449**\n**silpng:silpng2004:12**"
+  },
+  "altnames": {
+    "multitree": "\nBugawac\nBukaua\nBukawa\nBukawac\nKawa\nKawac\nYom Gawac",
+    "lexvo": "\nBugawac [en]\nBukawa [de]\nBukawa language [en]",
+    "hhbib_lgcode": "\nBukaua\nBukawa\nBukawac",
+    "elcat": "\nBugawac\nBukaua\nBukawa\nBukawac\nKawa\nKawac\nYom Gawac"
+  },
+  "triggers": {
+    "lgcode": "\nsilip\nposip\ngaiygway\nyamahom\nwhe\nsolop\nyaleydandic\nmbac\nbal^e\ngapip\nhey\nwha\nteampiy\nygac\nbukawa\ndinay\ntawase\nwatom\nlicwalo"
+  },
+  "identifier": {
+    "multitree": "buk",
+    "endangeredlanguages": "3987"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:132-159",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bugawac (3987-buk) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

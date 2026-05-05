@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mbesa",
+    "hid": "zms",
+    "level": "language",
+    "iso639-3": "zms",
+    "latitude": "1.6207",
+    "longitude": "22.8389",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6799676\nhttps://en.wikipedia.org/wiki/Mbesa_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:52583**\n**hh:e:Verbeke:Bombesa**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:hb:Kadima:Congo**\n**hh:hb:Moiso:Haut-Zaire**\n**hh:he:MaesBoone:Congo-Belge**\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:Gregoire:Bantu-Forest**\n**hh:s:Mangulu:Haut-Congo**\n**hh:typ:Mombaya:Mbesa**\n**hh:typ:Mombaya:Mbesa:2015**\n**hh:wld:deBoeck:Mombesa**"
+  },
+  "altnames": {
+    "multitree": "\nMbesa\nMobesa\nMombesa",
+    "lexvo": "\nMbesa [en]",
+    "hhbib_lgcode": "\nBombesa\nMbesa C51\nMombesa\nOmbesa\nSo 1 Yalemba C52 by J Carrington closest to Mbesa"
+  },
+  "triggers": {
+    "lgcode": "\nmombesa"
+  },
+  "identifier": {
+    "multitree": "zms"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:208",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbesa (zms-zms) = 6a* (Vigorous)."
+  }
+}

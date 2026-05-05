@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Temiar",
+    "hid": "tea",
+    "level": "language",
+    "iso639-3": "tea",
+    "latitude": "4.974",
+    "longitude": "101.438",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Temiar](https://endangeredlanguages.com/lang/5100)\n[Temiar](https://grambank.clld.org/languages/temi1246)\n[Temiar](https://wals.info/languoid/lect/wals_code_tmr)\n[Temiar Kelantan](https://lexibank.clld.org/languages/dunnaslian-Temiar_Kelantan)\nhttps://en.wikipedia.org/wiki/Temiar_language\nhttps://phoible.org/languages/temi1246\nhttps://www.wikidata.org/entity/Q3914693"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:carey:61:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**hh:d:Means:Temiar**\n**hh:e:Benjamin:Temiar**\n**hh:e:Schebesta:O**\n**hh:est:Carey:Tengleq**\n**hh:he:Carey:Orang-Asli**\n**hh:hel:Bradley:EAsia**\n**hh:hv:Dunnetal:Aslian**\n**hh:hvw:Benjamin:Prehistory**\n**hh:hvw:SkeatBlagden:Malay**\n**hh:ld:Kruspe:Aslian-Pronouns**\n**hh:lde:Carey:Orang-Asli**\n**hh:s:Benjamin:Temiar**\n**hh:s:SchebestaBlagden:Ple-Temer**\n**hh:vw:Means:Three-Malayan-Aboriginal**\n**hh:w:Clifford:Sakai**\n**sil16:41973**"
+  },
+  "altnames": {
+    "wals": "\nTemiar",
+    "wals other": "\nN Sakai\nN. Sakai\nNorthern Sakai\nSakai",
+    "ruhlen (1987)": "\nTemiar",
+    "moseley & asher (1994)": "\nTemiar",
+    "multitree": "\nNord Sakai\nNorthern Sakai\nPie\nSakai\nSeroq\nTemer\nTemiar",
+    "lexvo": "\nTemiar [en]",
+    "hhbib_lgcode": "\nPle-Temer\nPo-Klo Sakai\nSak Croix\nSak. Kerb.\nSak. Korb. Lias.\nSak. Plus\nSak. Plus. Cliff\nSak. Tan. Ram.\nSakai-Tembe Cl.\nSakai-Tembi\nSenoi: Temiar\nTembe\nTemiar Kelantan\nTemiar Perak\nTummeor Stev.",
+    "elcat": "\nNord Sakai\nNorthern Sakai\nPie\nSakai\nSeroq\nTemer\nTemiar"
+  },
+  "triggers": {
+    "lgcode": "\ntemer\ntemiar\nple"
+  },
+  "identifier": {
+    "wals": "tmr",
+    "multitree": "tea",
+    "endangeredlanguages": "5100",
+    "languagelandscape": "http://languagelandscape.org/language/Ple-Temiar"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunnetal:Aslian**",
+    "subrefs": "\n**hh:hv:Dunnetal:Aslian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Temiar (5100-tea) = Vulnerable (40 percent certain, based on the evidence available) (The language is losing domains, and is potentially endangered although it is the most secure Aslian language.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

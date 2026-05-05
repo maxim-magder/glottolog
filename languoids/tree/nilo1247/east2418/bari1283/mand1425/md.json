@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mandari",
+    "hid": "mqu",
+    "level": "language",
+    "iso639-3": "mqu",
+    "latitude": "5.83656",
+    "longitude": "31.2327",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3285426\nhttps://en.wikipedia.org/wiki/Mandari_dialect"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1131**\n**cldf:buxton:58**\n**eballiso2009:38446**\n**eballiso2009:44395**\n**eballiso2009:9478**\n**hh:he:Huntingford:NNilo-Hamites**\n**hh:he:Nalder:Mongalla**\n**hh:hvw:Vossen:ENilotes**\n**hh:phon:Stirtz:Mundari**\n**hh:s:Lutwori:Mundari**\n**hh:w:Wani:Mundari**\n**hh:wtyp:Hsiu:Mondari**"
+  },
+  "altnames": {
+    "multitree": "\nChir\nKir\nMandari\nMondari\nMundari\nShir",
+    "lexvo": "\nMandari [fr]",
+    "hhbib_lgcode": "\nMondari"
+  },
+  "triggers": {
+    "lgcode": "\nmondari\nthe AND nilotes"
+  },
+  "identifier": {
+    "multitree": "mqu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Vossen:ENilotes**",
+    "subrefs": "\n**hh:hvw:Vossen:ENilotes**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mandari (mqu-mqu) = 5 (Developing)."
+  }
+}

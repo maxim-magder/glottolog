@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Kado",
+    "hid": "kdv",
+    "level": "language",
+    "iso639-3": "kdv",
+    "latitude": "21.5259",
+    "longitude": "100.092",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\n[Kado](https://grambank.clld.org/languages/kado1242)\nhttps://www.wikidata.org/entity/Q12952535"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Brown:Kadus**\n**hh:g:Sangdong:Kadu**\n**hh:hew:Luce:Burma**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hv:Huziwara:Rui**\n**hh:phon:Huziwara:Ganan**\n**hh:v:Huziwara:Kadou**\n**hh:w:Houghton:Kudos**\n**iso6393:2011-002**"
+  },
+  "altnames": {
+    "multitree": "\nAndro\nAsak\nChakpa\nGado\nGadu\nKado\nKadu\nKadu-Ganaan\nKato\nKatu\nKudo\nMawteik\nPhayeng\nPuteik\nSak\nSengmai\nThat\nThet\nWoni",
+    "lexvo": "\nKado [en]",
+    "hhbib_lgcode": "\nGanan\nGanan 82-90 percent lexicotatistically similar to Kado\nKadu\nKanan\nKudo\nMokhwang Kadu"
+  },
+  "triggers": {
+    "lgcode": "\nkatha\nkudos\nkadus\ndictionary AND katuic\nasak"
+  },
+  "iso_retirement": {
+    "comment": "Research conducted in 2008 showed that Kadu and Kanan speakers do not adequately\nunderstand each other's languages, and have to switch to Burmese in order to\ncommunicate with speakers from the other community. Kadu and Kanan people also\nhave strong separate identities and have a desire to have separate literature.\nIn addition, Myanmar's official list of ethnic groups lists Kadu and Kanan as\nseparate language groups.",
+    "code": "kdv",
+    "name": "Kado",
+    "effective": "2012-02-03",
+    "reason": "split",
+    "remedy": "Split into Kadu [zkd] and Kanan [zkn]",
+    "change_request": "2011-002",
+    "change_to": "\nzkd\nzkn"
+  },
+  "identifier": {
+    "multitree": "kdv"
+  },
+  "classification": {
+    "sub": "**hh:v:Huziwara:Chakpa**",
+    "subrefs": "\n**hh:v:Huziwara:Chakpa**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Kanan (10149-zkn) = Threatened (20 percent certain, based on the evidence available); Kadu (10089-zkd) = Vulnerable (100 percent certain, based on the evidence available)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yauyos Quechua",
+    "hid": "qux",
+    "level": "language",
+    "iso639-3": "qux",
+    "latitude": "-12.62",
+    "longitude": "-75.7",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Laraos](https://lexibank.clld.org/languages/crossandean-Laraos)\n[Yauyos Quechua](https://endangeredlanguages.com/lang/5312)\nhttps://en.wikipedia.org/wiki/Yauyos%E2%80%93Chincha_Quechua\nhttps://www.wikidata.org/entity/Q36964"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:simons:etal:ed:17**\n**cldf:np:nd:264**\n**hh:g:Shimelman:Southern-Yauyos-Quechua**\n**hh:g:Shimelman:Yauyos-Quechua**\n**hh:hv:Blum:Quechua**\n**hh:hv:Grimes:Quechua**\n**hh:hv:Taylor:Yauyos**\n**hh:hv:Torero:Andina:1972**\n**hh:ld:Taylor:Curas-Quechua**\n**hh:ld:Taylor:Yauyos**\n**hh:s:Bertet:Quechua-Hongos**\n**hh:s:Shimelman:Southern-Yauyos-Quechua**\n**hh:s:Taylor:Laraos**\n**hh:soct:Taylor:Yauyos:2000**\n**hh:t:Taylor:Laraos**\n**hh:typ:Ginocchio:Quechua-Huangascar-Verbal**\n**hh:vtyp:Ginocchio:Quechua-Huangascar**\n**hh:wtyp:Taylor:Vitis-Huancaya**"
+  },
+  "altnames": {
+    "multitree": "\nHuangascar-Topará\nQuechua de Yauyos\nQuechua de Yauyos.\nQuechua, Yauyos\nYauyos Kechua\nYauyos Quechua",
+    "lexvo": "\nYauyos Quechua [en]",
+    "hhbib_lgcode": "\nAli Alis QI\nAlis\nApurí\nApurí-Madean-Viñac\nApurí-Madeán-Viñac\nAzángaro-Chocos-Huangáscar\nCacra\nCacra-Hongos\nCcr Cacra QI\nCentral Yúngay Quechua II\nCentral Yúngay Quechua IIA\nChocos-Huangáscar\nHgs Huangáscar QI\nHuangascar\nHuangascar-Topara-Yauyos Quechua\nHuangáscar\nLar Laraos\nLaraos\nLin Lincha\nLincha\nLincha-Tana\nLiscay-San Pedro\nNorthern Yauyos Quechua\nSan Pedro de Huacarpana\nSanPedro\nSouthern Yauyos\nVitis y Huancaya\nYauyos Quechua",
+    "elcat": "\nQuechua\nYauyos\nYauyos Kechua\nYauyos Quechua",
+    "glottolog": "\nHuangascar-Topara-Yauyos Quechua"
+  },
+  "triggers": {
+    "lgcode": "\ncuras\nzorros\nlaraos\nmicrocosmo\ntradicion"
+  },
+  "identifier": {
+    "multitree": "qux",
+    "endangeredlanguages": "5312"
+  },
+  "classification": {
+    "sub": "**hh:g:Shimelman:Yauyos-Quechua**:5-12 **hh:v:Adelaar:Cajamarca**",
+    "subrefs": "\n**hh:g:Shimelman:Yauyos-Quechua**\n**hh:v:Adelaar:Cajamarca**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yauyos Quechua (5312-qux) = Critically Endangered (100 percent certain, based on the evidence available) (I estimate that there are about twenty teens who understand the Viñac and San Pedro dialects, as well as many as 80 adults in their forties and fifties who can still speak it relatively fluently. Moreover, although its use is now generally restricted to the discussion of every-day and ritual activities, it is still used frequently among the oldest speakers.) [Shimelman 2017](cldf:shimelman:17)"
+  }
+}

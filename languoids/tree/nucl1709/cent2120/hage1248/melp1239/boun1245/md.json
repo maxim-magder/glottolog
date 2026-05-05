@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Bo-Ung",
+    "hid": "mux",
+    "level": "language",
+    "iso639-3": "mux",
+    "latitude": "-5.8626",
+    "longitude": "144.086",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bo-Ung](https://grambank.clld.org/languages/boun1245)\nhttps://en.wikipedia.org/wiki/Tembagla_language\nhttps://www.wikidata.org/entity/Q15831607"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:merlan:rumsey:17**\n**hh:soc:MerlanRumsey:Nebilyer**\n**hh:ssoc:MerlanRumsey:KuWaru**\n**iso6393:2006-031**\n**silpng:silpng2001-2003:340**\n**silpng:silpng2004:128**"
+  },
+  "altnames": {
+    "multitree": "\nMbo-Ung",
+    "lexvo": "\nBo-Ung [en]"
+  },
+  "triggers": {
+    "lgcode": "\nnebilyer\nwaru"
+  },
+  "identifier": {
+    "multitree": "mux"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Capell:SWPacific:1962**:105-128 **hh:hv:Shafer:NG**:370-372",
+    "subrefs": "\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hv:Shafer:NG**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bo-Ung (mux-mux) = 5* (Developing)."
+  }
+}

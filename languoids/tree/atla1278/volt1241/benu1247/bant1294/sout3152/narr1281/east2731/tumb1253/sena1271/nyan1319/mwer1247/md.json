@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mwera (Nyasa)",
+    "hid": "mjh",
+    "level": "language",
+    "iso639-3": "mjh",
+    "latitude": "-11.3304",
+    "longitude": "34.8959",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MW",
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6799604\nhttps://en.wikipedia.org/wiki/Mbamba_Bay_language"
+  },
+  "classification": {
+    "sub": "**hh:hew:Ebner:Wangoni**:41-43",
+    "subrefs": "\n**hh:hew:Ebner:Wangoni**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:johnson:22**\n**eballiso2009:7057**\n**hh:e:Johnson:Lake-Nyassa**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Fulleborn:Njassa-Ruwuma**\n**hh:hew:Ebner:Wangoni**\n**hh:hv:Bastinetal:Bantu**\n**hh:s:Ngonyani:Mwera**\n**hh:t:Johnson:Eastern-Nyanja-Mwera**"
+  },
+  "altnames": {
+    "multitree": "\nKinyasa\nMwera\nNyanza\nNyasa",
+    "lexvo": "\nMwera (Nyasa) [en]\nMwera [en]",
+    "hhbib_lgcode": "\nChinyanja of Tanzania\nMbamba Bay\nMwera\nMwera on the eastern side of lake Malawi\nNyasa N31\np 407 on Mwera (Nyasa)"
+  },
+  "triggers": {
+    "lgcode": "\nmalangano\nndi\nndicho\nchikalakala\nkale\nchoyera\nchapano"
+  },
+  "identifier": {
+    "multitree": "mjh"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mwera (mjh-mjh) = 6b (Threatened)."
+  }
+}

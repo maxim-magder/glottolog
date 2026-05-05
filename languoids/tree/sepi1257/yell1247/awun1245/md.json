@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Auwon",
+    "hid": "aww",
+    "level": "language",
+    "iso639-3": "aww",
+    "latitude": "-3.79671",
+    "longitude": "141.999",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Awun](https://endangeredlanguages.com/lang/10601)\nhttps://www.wikidata.org/entity/Q56369\nhttps://en.wikipedia.org/wiki/Auwon_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:KelmKelm:Erzahlungen-Kweiftim-Abrau**\n**hh:e:KelmKelm:Kweiftim**\n**hh:he:Fyfe:Upper-Sepik**\n**hh:hv:Laycock:Sepik**\n**hh:w:Laycock:D9**"
+  },
+  "altnames": {
+    "multitree": "\nAuwan\nAwon\nAwun",
+    "lexvo": "\nAwun [en]",
+    "hhbib_lgcode": "\nAbrau\nAuwan\nAwun",
+    "elcat": "\nAuwan\nAwon\nAwun"
+  },
+  "identifier": {
+    "multitree": "aww",
+    "endangeredlanguages": "10601"
+  },
+  "classification": {
+    "sub": "**hh:hvld:LaycockZGraggen:Sepik-Ramu**",
+    "subrefs": "\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Awun (10601-aww) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

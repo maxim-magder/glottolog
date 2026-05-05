@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Yara",
+    "hid": "cdr",
+    "level": "language",
+    "iso639-3": "cdr",
+    "latitude": "10.3419",
+    "longitude": "5.84212",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Cinda-Regi-Tiyal](https://lexibank.clld.org/languages/polyglottaafricana-CindaRegiTiyal)\nhttps://en.wikipedia.org/wiki/Cinda-Regi_language\nhttps://www.wikidata.org/entity/Q35596"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Yoder:Intelligibility**\n**hh:hsoc:Yoder:Yara**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:hwsoc:DettweilerDettweiler:Kamuku**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nCinda-Regi-Tiyal\nKamuku",
+    "lexvo": "\nCinda-Regi-Tiyal [en]",
+    "hhbib_lgcode": "\nCinda\nCinda-Regi-Kuki\nCinda-Regi-TiyalCinda-Regi-Kuki-Kuru-Maruba\nKamuku\nKamuku from Koelle VIII B.2\nKamuku-Okasa\nKamuku-Okasa caled Dsinda by the Hausas\nKuki\nRegi"
+  },
+  "triggers": {
+    "lgcode": "\nkamuku\nkwongoma"
+  },
+  "identifier": {
+    "multitree": "cdr"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kamuku (cdr-cdr) = 6a (Vigorous)."
+  }
+}

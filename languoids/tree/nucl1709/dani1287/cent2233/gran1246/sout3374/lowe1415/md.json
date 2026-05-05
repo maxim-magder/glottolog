@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lower Grand Valley Dani",
+    "hid": "dni",
+    "level": "language",
+    "iso639-3": "dni",
+    "latitude": "-4.25684",
+    "longitude": "138.992",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Dani (Lower Grand Valley)](https://wals.info/languoid/lect/wals_code_dni)\n[Dani, Lower Grand Valley (Tangma Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-dani-lower-grand-valley-tangma)\nhttps://phoible.org/languages/lowe1415\nhttps://www.wikidata.org/entity/Q12635807"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bromley:61**\n**hh:e:Iskandar:Mukoko**\n**hh:e:Peters:Dani:1965**\n**hh:e:Peters:Dani:1975**\n**hh:e:Sugandi:Hubula**\n**hh:g:Bromley:Dani**\n**hh:g:Bromley:Dani:1972**\n**hh:g:Fahner:Yali**\n**hh:g:vanderStap:Dani**\n**hh:hv:Ross:Voorhoeve**\n**hh:hvld:Bromley:Dani**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Bromley:Dani**\n**hh:hvw:Larson:Irian-Highlands**\n**hh:hvw:Voorhoeve:Irian**\n**hh:phon:Bromley:Dani**\n**hh:phon:Bromley:Dani:1958**\n**hh:typ:Alomau:LGVDani**\n**ldh:item_407502**\n**ldh:item_407505**\n**ldh:item_407508**\n**mpieva:Bromley1961Thephono**\n**sil16:35045**"
+  },
+  "altnames": {
+    "wals": "\nDani (Lower Grand Valley)",
+    "wals other": "\nDani\nGrand Valley Dani\nLower Grand Valley Dani",
+    "ruhlen (1987)": "\nDani (Grand Valley)",
+    "moseley & asher (1994)": "\nDani (Grand Valley)",
+    "multitree": "\nDani\nDani (Lower Grand Valley)\nDani, Lower Grand Valley\nGrand Valley Dani\nNdani",
+    "lexvo": "\nLower Grand Valley Dani [en]",
+    "hhbib_lgcode": "\nAikhe Valley AV\nDani Lower Grand Valley\nDani from the centre of the Balim Valley around the Government Post Wamena by a tribe called Mugogo\nDani mostly from van der Stap’s work on the Mid Grand Valley dialect of Dani\nDani-Lower Grand Valley\nG V Dani\nGorge GD below the confluence with the Muki lies a region called Basema\nGrand Valley Dani-Mugogo\nHitigima of Lower Grand Valley\nHubula in Hepuha\nLower Grand Valley\nLower Grand Valley LGV from the Uwe river to some point below the Muki river\nLower Valley Hitigima\nLower Valley Tangma\nMugogo near Wamena\nMugogo-Siep-Godi-Itlai-Hadluk near Wamena\nMukoko\nTangma of Lower Grand Valley"
+  },
+  "triggers": {
+    "lgcode": "\ndignity\nhubula\npalim\nlower AND dani"
+  },
+  "identifier": {
+    "wals": "genus/dani",
+    "multitree": "dni"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Bromley:Dani**:295-297 **hh:h:GiayGodschalk:Cargoism**:343",
+    "subrefs": "\n**hh:h:GiayGodschalk:Cargoism**\n**hh:hvw:Bromley:Dani**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dani, Lower Grand Valley (dni-dni) = 6b* (Threatened)."
+  }
+}

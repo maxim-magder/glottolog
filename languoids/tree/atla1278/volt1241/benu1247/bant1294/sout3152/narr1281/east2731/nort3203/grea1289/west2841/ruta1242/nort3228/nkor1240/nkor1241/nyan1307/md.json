@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Nyankole",
+    "hid": "nyn",
+    "level": "language",
+    "iso639-3": "nyn",
+    "latitude": "-0.46364",
+    "longitude": "30.548",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "RW",
+      "TZ",
+      "UG"
+    ],
+    "links": "\n[Nyankole](https://grambank.clld.org/languages/nyan1307)\n[Runyankore](https://wals.info/languoid/lect/wals_code_rny)\nhttps://en.wikipedia.org/wiki/Nkore_language\nhttps://phoible.org/languages/nyan1307\nhttps://www.wikidata.org/entity/Q13207"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kotey:ed:99:2**\n**cldf:morris:kirwan:57**\n**cldf:oberg:38**\n**cldf:oberg:40**\n**cldf:roscoe:23:2**\n**cldf:taylor:62:2**\n**hh:d:Kaji:Runyankore**\n**hh:d:Musevenietal:Runyankore**\n**hh:e:Roscoe:Banyankole**\n**hh:e:Weiss:Mpororo**\n**hh:g:MorrisKirwan:Runyankore**\n**hh:he:Taylor:WLacustrine**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hw:Johnston:Uganda:2**\n**hh:s:Poletto:Runyankore**\n**hh:typ:Katushemererwe:Runyakitara**\n**hh:typ:Poletto:Runyankore**\n**hh:typ:Turamyomwe:Runyankore**\n**mpieva:Morris1957ARunyank**\n**mpieva:Taylor1998Asimplif**"
+  },
+  "altnames": {
+    "wals": "\nRunyankore",
+    "wals other": "\nNyankole",
+    "ruhlen (1987)": "\nNkore",
+    "multitree": "\nNkole\nNyankole\nNyankore\nRunyankole\nRunyankore\nUlunyankole\nUlunyankore",
+    "lexvo": "\nJęzyk nyankole [pl]\nLíngua runyankole [pt]\nNyankole [en]\nNyankore language [en]\nRunyankole [fr]\nnyankolé [fr]",
+    "hhbib_lgcode": "\nHima\nHima J13\nHima dialect of Nyankore\nJE13_Runyankore\nNyankore\nOruhima\nRunyaNkore\nWahima"
+  },
+  "triggers": {
+    "lgcode": "\nnyankore"
+  },
+  "identifier": {
+    "wals": "rny",
+    "multitree": "nyn"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schoenbrun:Great-Lakes-Bantu**, **hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**",
+    "subrefs": "\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nyankore (nyn-nyn) = 4 (Educational). De facto language of provincial identity in Bushenyi, Mbarara, Ntungamo districts."
+  }
+}

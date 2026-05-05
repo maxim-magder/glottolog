@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sumi Naga",
+    "hid": "nsm",
+    "level": "language",
+    "iso639-3": "nsm",
+    "latitude": "25.9996",
+    "longitude": "94.4235",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Sema](https://lexibank.clld.org/languages/marrisonnaga-Sema)\n[Sema](https://wals.info/languoid/lect/wals_code_sem)\n[Sumi Naga](https://endangeredlanguages.com/lang/1860)\n[Sumi Naga](https://grambank.clld.org/languages/sumi1235)\nhttps://en.wikipedia.org/wiki/S%C3%BCmi_language\nhttps://phoible.org/languages/sumi1235\nhttps://www.wikidata.org/entity/Q3478238"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:grierson:ed:95:20**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:subbarao:murthy:00**\n**cldf:teo:11**\n**hh:d:BorPawsey:Sema**\n**hh:d:Nekha:Sumi**\n**hh:d:Sema:Sema**\n**hh:d:SwuYepthomi:Sumi**\n**hh:e:Betts:Nzemi**\n**hh:e:Furness:Nagas**\n**hh:ew:Hutton:Sema**\n**hh:g:Sreedhar:Sema**\n**hh:h:Stirn:Naga**\n**hh:he:Saul:Naga-Burma**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:ld:EzungWalling:Naga**\n**hh:phon:Sreedhar:Sema**\n**hh:phon:Teo:Sumi**\n**hh:s:Chishi:Sutsah**\n**hh:s:Hutton:Sema-Naga**\n**hh:styp:Teo:Sumi**\n**hh:typ:Nishida:Sema-Naga**\n**hh:w:Kumar:Sema**"
+  },
+  "altnames": {
+    "wals": "\nSema",
+    "ruhlen (1987)": "\nSema",
+    "multitree": "\nNaga (Sumi)\nNaga, Sumi\nNaga,Sumi\nSema\nSimi\nSimí\nSumi\nZumomi",
+    "lexvo": "\nSumi Naga [en]",
+    "hhbib_lgcode": "\nNaga-Sumi\nNzemi\nSema\nSimi/Sema\nSutsah\nSümi\nSümi/Sütsa\nZümomi",
+    "elcat": "\nNaga\nNaga (Sumi)\nSema\nSimi\nSumi\nSumi Naga\nZumomi"
+  },
+  "triggers": {
+    "lgcode": "\ngrammar AND sema\nsema"
+  },
+  "identifier": {
+    "wals": "sem",
+    "multitree": "nsm",
+    "endangeredlanguages": "1860"
+  },
+  "classification": {
+    "sub": "**hh:hv:Coupe:Overcounting-Nagaland**",
+    "subrefs": "\n**hh:hv:Coupe:Overcounting-Nagaland**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sumi Naga (1860-nsm) = At risk (20 percent certain, based on the evidence available) [Teo 2011](cldf:teo:11)"
+  }
+}

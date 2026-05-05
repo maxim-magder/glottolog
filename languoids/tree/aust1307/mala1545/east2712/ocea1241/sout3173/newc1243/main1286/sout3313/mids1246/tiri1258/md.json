@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tiri-Mea",
+    "hid": "cir",
+    "level": "language",
+    "iso639-3": "cir",
+    "latitude": "-21.8147",
+    "longitude": "165.792",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Ciri](https://lexibank.clld.org/languages/abvdoceanic-Ciri)\n[Tinrin](https://wals.info/languoid/lect/wals_code_tin)\n[Tiri-Mea](https://grambank.clld.org/languages/tiri1258)\nhttps://www.wikidata.org/entity/Q36270816"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Grace:Tiri**\n**hh:g:Osumi:Tinrin**\n**hh:hbld:Haudricourt:New-Caledonia-Loyalty**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:typ:Osumi:Tinrin-Neku**\n**iso6393:2012-131**"
+  },
+  "altnames": {
+    "wals": "\nTinrin",
+    "wals other": "\nTiri (Grand Couli)",
+    "ruhlen (1987)": "\nTîrî",
+    "moseley & asher (1994)": "\nTiri",
+    "multitree": "\nCiri\nHa-Tiri\nNeukaledonien\nTinrin\nTiri",
+    "lexvo": "\nTiri [en]",
+    "hhbib_lgcode": "\nCiri\nGrand Couli\nMea\nTiri"
+  },
+  "triggers": {
+    "lgcode": "\ncouli\ntinrin"
+  },
+  "identifier": {
+    "wals": "tin",
+    "multitree": "cir"
+  },
+  "classification": {
+    "sub": "**hh:hbld:Haudricourt:New-Caledonia-Loyalty**",
+    "subrefs": "\n**hh:hbld:Haudricourt:New-Caledonia-Loyalty**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tiri (2499-tir, meg) = Definitely endangered"
+  }
+}

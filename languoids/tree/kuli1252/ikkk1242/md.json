@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Ik",
+    "hid": "ikx",
+    "level": "language",
+    "iso639-3": "ikx",
+    "latitude": "3.61407",
+    "longitude": "34.2507",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "UG"
+    ],
+    "links": "\n[Ik](https://endangeredlanguages.com/lang/4298)\n[Ik](https://grambank.clld.org/languages/ikkk1242)\n[Ik](https://wals.info/languoid/lect/wals_code_ik)\nhttps://en.wikipedia.org/wiki/Ik_language\nhttps://phoible.org/languages/ikkk1242\nhttps://www.wikidata.org/entity/Q35472"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abraham:02**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:frankland:99**\n**cldf:heine:75:1**\n**cldf:heine:90**\n**cldf:heine:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:serzisko:89**\n**cldf:serzisko:93**\n**cldf:tucker:72**\n**cldf:tucker:73**\n**cldf:wiedemann:nannyombi:07**\n**eballiso2009:11336**\n**eballiso2009:14801**\n**eballiso2009:25378**\n**eballiso2009:35068**\n**eballiso2009:35069**\n**eballiso2009:36080**\n**eballiso2009:36144**\n**eballiso2009:36166**\n**eballiso2009:36183**\n**eballiso2009:36782**\n**eballiso2009:43267**\n**eballiso2009:43429**\n**eballiso2009:4718**\n**eballiso2009:48429**\n**eballiso2009:54099**\n**eballiso2009:54115**\n**eballiso2009:54120**\n**eballiso2009:54381**\n**eballiso2009:59396**\n**hh:d:Heine:Ik**\n**hh:e:Heine:Ik**\n**hh:e:Turnbull:Flux-Hunting**\n**hh:e:Turnbull:Ik**\n**hh:e:Wintereral:Ik**\n**hh:ew:Wayland:Karamoja**\n**hh:g:Heine:Ik**\n**hh:g:Schrock:Ik**\n**hh:h:Huntingford:Free-Hunters**\n**hh:he:GulliverGulliver:Central-Nilo-Hamites**\n**hh:hld:Tucker:Babel-Afrique**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Heine:Kuliak**\n**hh:s:Crazzolara:Ik**\n**hh:s:Heine:Ik**\n**hh:s:Tucker:Ik**\n**hh:sd:Schrock:Ik:2017**\n**hh:styp:Serzisko:Ik**\n**hh:vw:Schrock:Dorobo-Ik**\n**mpieva:Konig2002KasusimI**\n**mpieva:Lamberti1988Kuliakan**\n**sil16:18428**\n**sil16:49025**"
+  },
+  "altnames": {
+    "wals": "\nIk",
+    "wals other": "\nIk (delete in favor of So (=Tepes)?)\nTeuso",
+    "ruhlen (1987)": "\nIk",
+    "moseley & asher (1994)": "\nIk",
+    "multitree": "\nIcietot\nIk\nNgulak\nTeuso\nTeuth",
+    "lexvo": "\nIk [en]",
+    "hhbib_lgcode": "\nDorobo (38 words of a Kuliak language closest to Ik - ethnographic data says they do some agriculture)\nDorobo of Wayland\nTeuso\nWayland 1931's Dorobo",
+    "elcat": "\nIcietot\nIk\nNgulak\nTeuso\nTeuth"
+  },
+  "triggers": {
+    "lgcode": "\nrestsprache\nuntergang\nNOT n AND NOT primer AND NOT storybook AND NOT van AND NOT book AND NOT en AND NOT pp AND ik\nauseinandersetzung\nteuso\nkuliak\nturnbulls"
+  },
+  "identifier": {
+    "wals": "ik",
+    "multitree": "ikkk;ikx",
+    "endangeredlanguages": "4298"
+  },
+  "classification": {
+    "sub": "**hh:hv:Heine:Kuliak**:59-66",
+    "subrefs": "\n**hh:hv:Heine:Kuliak**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Ik (4298-ikx) = Vulnerable (100 percent certain, based on the evidence available) [Wiedemann and Nannyombi 2007](cldf:wiedemann:nannyombi:07)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Cameroon Pidgin",
+    "hid": "wes",
+    "level": "language",
+    "iso639-3": "wes",
+    "latitude": "5.43932",
+    "longitude": "9.80166",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Cameroon Pidgin English](https://apics-online.info/contributions/18)\nhttps://en.wikipedia.org/wiki/Cameroonian_Pidgin_English\nhttps://www.wikidata.org/entity/Q35541"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ayafor:08**\n**cldf:bellama:nkwele:etal:83**\n**cldf:escure:nd**\n**cldf:menang:08**\n**cldf:np:nd:191**\n**cldf:schroeder:03:1**\n**cldf:schroeder:12**\n**cldf:todd:91**\n**cldf:todd:nd**\n**hh:d:Kouega:Cameroon-Pidgin-English**\n**hh:g:AyaforGreen:Cameroon-Pidgin**\n**hh:g:Dwyer:West-African-Pidgin**\n**hh:g:Nkengasong:Cameroonian-Pidgin**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hvld:Yakpo:West-African-Pidgin**\n**hh:ld:Gilman:Cameroonian-Pidgin**\n**hh:ld:Hutter:Kustenenglisch**\n**hh:ld:Hutter:Zeichensprache**\n**hh:ld:deFeral:Pidgin-Cameroun**\n**hh:s:Ayafor:Kamtok**\n**hh:s:Bellama:Cameroon-Pidgin**\n**hh:s:Mbakong:Pidgin**\n**hh:s:Schroder:Cameroon-Pidgin**\n**hh:s:Todd:Pidgin-West-Cameroon**\n**hh:s:vonHagen:Neger-Englisch**\n**hh:soc:Kisob:Pidgin-English**\n**hh:soc:Lekobou:Camspeak**\n**hh:soc:Medjo:Cameroonian-Pidgin**\n**hh:soc:Schroder:Cameroon**\n**hh:soc:deFeral:Pidgin-English**\n**hh:soc:deFeral:Pidgin-English:1977**\n**hh:ssoc:deFeral:Cameroun**\n**hh:ssoc:deFeral:Pidgin-Camerounais:1980**\n**hh:st:Schneider:West-African-Pidgin-Cameroon**\n**hh:v:Gilman:Cameroonian-Pidgin**\n**hh:v:Njeuma:Sierra-Leone-Krio**\n**mpieva:Kouega2007Adiction**\n**mpieva:Obilade1976Thenomin**\n**sil16:43124**"
+  },
+  "triggers": {
+    "lgcode": "\ncameroon AND pidgin"
+  },
+  "classification": {
+    "sub": "**hh:svsoc:Huber:Ghanaian**:75-129 **hh:hvld:Yakpo:West-African-Pidgin**",
+    "subrefs": "\n**hh:hvld:Yakpo:West-African-Pidgin**\n**hh:svsoc:Huber:Ghanaian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pidgin, Cameroon (wes-wes) = 3 (Wider communication). Originated along the west coast of Africa from Sierra Leone through Nigeria to Cameroon around 1800 and used as a trade language. Now the most widespread lingua franca in Cameroon, used by about half the population."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCameroonian Pidgin\nCameroons \"English\"\nCameroons Pidgin English"
+  }
+}

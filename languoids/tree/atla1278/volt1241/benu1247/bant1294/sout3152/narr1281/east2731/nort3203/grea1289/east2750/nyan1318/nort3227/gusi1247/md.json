@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Gusii",
+    "hid": "guz",
+    "level": "language",
+    "iso639-3": "guz",
+    "latitude": "-0.78872",
+    "longitude": "34.76751",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "TZ"
+    ],
+    "links": "\n[Gusii](https://grambank.clld.org/languages/gusi1247)\n[Gusii](https://wals.info/languoid/lect/wals_code_gus)\nhttps://en.wikipedia.org/wiki/Gusii_language\nhttps://www.wikidata.org/entity/Q33603"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:levine:59**\n**cldf:maddieson:hinnebusch:ed:98:5**\n**cldf:mayer:49**\n**cldf:mayer:50**\n**cldf:mayer:53**\n**cldf:mayer:65**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:12121**\n**eballiso2009:13683**\n**eballiso2009:1635**\n**eballiso2009:18053**\n**eballiso2009:19726**\n**eballiso2009:19760**\n**eballiso2009:24001**\n**eballiso2009:24039**\n**eballiso2009:27134**\n**eballiso2009:28707**\n**eballiso2009:28724**\n**eballiso2009:30492**\n**eballiso2009:31106**\n**eballiso2009:31134**\n**eballiso2009:32738**\n**eballiso2009:33914**\n**eballiso2009:38752**\n**eballiso2009:39826**\n**eballiso2009:39827**\n**eballiso2009:39828**\n**eballiso2009:42422**\n**eballiso2009:42506**\n**eballiso2009:45393**\n**eballiso2009:5086**\n**eballiso2009:50902**\n**eballiso2009:50985**\n**eballiso2009:52653**\n**eballiso2009:53759**\n**eballiso2009:53924**\n**eballiso2009:53927**\n**eballiso2009:56079**\n**eballiso2009:56915**\n**eballiso2009:56916**\n**eballiso2009:58543**\n**eballiso2009:59796**\n**eballiso2009:6496**\n**eballiso2009:6800**\n**eballiso2009:8708**\n**hh:e:Hakanson:Gusii**\n**hh:g:Cammenga:Ekegusii**\n**hh:hew:Hobley:EUganda**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Hinnebuschetal:EBantu**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvtyp:Philippson:OBantu:Tons**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Mould:NVictorian-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:phon:Nash:Ekegusii**\n**hh:s:Ongarora:Ekegusii**\n**hh:s:Whiteley:Gusii**\n**hh:typ:Lonyangapuo:Kenyan-Bantu**\n**hh:typ:Mecha:Ekegusii**\n**hh:typ:Whiteley:Gusii**\n**hh:v:Nyauma:Ekegusii-Egekuria**\n**iso6393:2007-155**\n**mpieva:Aksenova2008Grammati**"
+  },
+  "altnames": {
+    "wals": "\nGusii",
+    "wals other": "\nEkegusii",
+    "ruhlen (1987)": "\nGusii",
+    "moseley & asher (1994)": "\nGusii",
+    "multitree": "\nEkegusii\nGusii\nGuzii\nKisii\nKosova",
+    "lexvo": "\nEkegusii [en]\nGusii [en]\nGusii language [en]\nJęzyk gusii [pl]\nLugha ya Kisii [sw]\nLíngua gusii [pt]",
+    "hhbib_lgcode": "\nEkeGusii\nEkegusii\nJE42_Gusii\nKiguzii or Kisuba\nKossova or Kisii"
+  },
+  "triggers": {
+    "lgcode": "\nluiya\nekegusii\nkitende\ngusii\nstrafexpeditionen"
+  },
+  "identifier": {
+    "wals": "gus",
+    "multitree": "guz"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schoenbrun:Great-Lakes-Bantu**, **hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**",
+    "subrefs": "\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ekegusii (guz-guz) = 5 (Developing)."
+  }
+}

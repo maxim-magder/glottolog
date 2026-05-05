@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ngulu",
+    "hid": "ngp",
+    "level": "language",
+    "iso639-3": "ngp",
+    "latitude": "-5.79734",
+    "longitude": "37.6823",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7193332\nhttps://en.wikipedia.org/wiki/Ngulu_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beidelman:67:2**\n**cldf:mcvicar:34**\n**eballiso2009:10611**\n**eballiso2009:10617**\n**eballiso2009:13033**\n**eballiso2009:13044**\n**eballiso2009:13047**\n**eballiso2009:13049**\n**eballiso2009:13051**\n**eballiso2009:1509**\n**eballiso2009:18349**\n**eballiso2009:22681**\n**eballiso2009:23459**\n**eballiso2009:23463**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:3191**\n**eballiso2009:33914**\n**eballiso2009:37394**\n**eballiso2009:37408**\n**eballiso2009:39479**\n**eballiso2009:45957**\n**eballiso2009:4881**\n**eballiso2009:53302**\n**eballiso2009:7057**\n**eballiso2009:8655**\n**eballiso2009:9671**\n**hh:e:Ntemo:Ngulu**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hw:Last:Polyglotta**\n**hh:t:Beidelman:Ngulu**"
+  },
+  "altnames": {
+    "multitree": "\nGeja\nKingulu\nNgulu\nNguru\nNguu\nWayomba",
+    "lexvo": "\nKingulu [sw]\nNgulu [en]\nNgulu language [en]",
+    "hhbib_lgcode": "\nG34_Nguungulu\nNgulu G34\nNguru"
+  },
+  "triggers": {
+    "lgcode": "\nshitsua\nwanguru\nunguu\nnguru\nngulu\nwm\nkinguu"
+  },
+  "identifier": {
+    "multitree": "ngp"
+  },
+  "classification": {
+    "sub": "**hh:hv:NursePhilippson:EAfrica**",
+    "subrefs": "\n**hh:hv:NursePhilippson:EAfrica**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngulu (ngp-ngp) = 5 (Developing)."
+  }
+}

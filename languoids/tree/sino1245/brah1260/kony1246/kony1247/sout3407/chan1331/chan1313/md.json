@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Chang Naga",
+    "hid": "nbc",
+    "level": "language",
+    "iso639-3": "nbc",
+    "latitude": "26.4336",
+    "longitude": "94.9536",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Chang](https://lexibank.clld.org/languages/marrisonnaga-Chang)\n[Chang](https://wals.info/languoid/lect/wals_code_chg)\n[Chang Naga](https://grambank.clld.org/languages/chan1313)\nhttps://en.wikipedia.org/wiki/Chang_language\nhttps://www.wikidata.org/entity/Q5071694"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2392**\n**hh:d:Chang:Chang**\n**hh:hvphon:French:Northern-Naga**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:s:Chang:Chang**\n**hh:s:Chor:Chang**\n**hh:s:Hutton:Chang**\n**hh:s:Hutton:Chang:1929**"
+  },
+  "altnames": {
+    "wals": "\nChang",
+    "ruhlen (1987)": "\nChang",
+    "moseley & asher (1994)": "\nChang",
+    "multitree": "\nChang\nChangyanguh\nMachongrr\nMochumi\nMochungrr\nMojung\nNaga\nNaga, Chang\nNaga,Chang\nTśang",
+    "lexvo": "\nChang Naga [en]",
+    "hhbib_lgcode": "\nChang\nChang or Mojung\nNaga-Chang"
+  },
+  "triggers": {
+    "lgcode": "\nchang\nmesolanguage"
+  },
+  "identifier": {
+    "wals": "chg",
+    "multitree": "nbc"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDam:Patkaian-Northern-Naga** **hh:hv:vanDam:Patkaian** **hh:hv:Burling:NEIndia** **hh:hv:Bernhardt:Northern-Naga**",
+    "subrefs": "\n**hh:hv:Burling:NEIndia**\n**hh:hv:vanDam:Patkaian-Northern-Naga**\n**hh:hv:Bernhardt:Northern-Naga**\n**hh:hv:vanDam:Patkaian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Chang (1131-nbc) = Vulnerable"
+  }
+}

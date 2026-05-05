@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Balaesang",
+    "hid": "bls",
+    "level": "language",
+    "iso639-3": "bls",
+    "latitude": "-0.05644",
+    "longitude": "119.689",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Balaesang](https://endangeredlanguages.com/lang/1356)\nhttps://www.wikidata.org/entity/Q4849796\nhttps://en.wikipedia.org/wiki/Balaesang_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:hw:Himmelmann:Tomini-Tolitoli**\n**hh:s:Garantjangetal:Balaesang**"
+  },
+  "altnames": {
+    "multitree": "\nBalaesan\nBalaesang\nBalaesano\nBalaisang\nBaleasang\nPajo",
+    "lexvo": "\nBalaesang [en]",
+    "hhbib_lgcode": "\nBalaesan",
+    "elcat": "\nBalaesan\nBalaesang\nBalaisang\nPajo"
+  },
+  "triggers": {
+    "lgcode": "\nbalaesang\nword AND tomini"
+  },
+  "identifier": {
+    "multitree": "bls",
+    "endangeredlanguages": "1356"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zobel:Kaili-Wolio**:299",
+    "subrefs": "\n**hh:hv:Zobel:Kaili-Wolio**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Balaesang (1356-bls) = Threatened (100 percent certain, based on the evidence available) [Himmelmann 2001](cldf:himmelmann:01)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bafia",
+    "hid": "ksf",
+    "level": "language",
+    "iso639-3": "ksf",
+    "latitude": "4.72603",
+    "longitude": "11.0982",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Bafia](https://grambank.clld.org/languages/bafi1243)\n[Bafia](https://wals.info/languoid/lect/wals_code_bfi)\nhttps://en.wikipedia.org/wiki/Bafia_language\nhttps://phoible.org/languages/bafi1243\nhttps://www.wikidata.org/entity/Q34930"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:guarisma:00**\n**cldf:guarisma:90**\n**cldf:guarisma:92**\n**cldf:mcculloch:littlewood:etal:54**\n**cldf:nurse:philippson:ed:03:2**\n**cldf:tessmann:34:1**\n**eballiso2009:22959**\n**eballiso2009:22969**\n**eballiso2009:26241**\n**eballiso2009:28707**\n**eballiso2009:45357**\n**eballiso2009:45359**\n**eballiso2009:45361**\n**eballiso2009:45363**\n**eballiso2009:45364**\n**eballiso2009:48938**\n**eballiso2009:48939**\n**eballiso2009:57513**\n**eballiso2009:7860**\n**eballiso2009:7861**\n**eballiso2009:7862**\n**eballiso2009:7863**\n**eballiso2009:7864**\n**eballiso2009:7866**\n**eballiso2009:8582**\n**eballiso2009:8584**\n**eballiso2009:8587**\n**hh:e:Dugast:Banen-Bafia-Balom**\n**hh:e:Wilhelm:Mbam-Central**\n**hh:g:Guarisma:Bafia**\n**hh:g:Guarisma:Bafia:1992**\n**hh:h:Dominik:Bapea**\n**hh:h:Phillips:Yambeta**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Janssens:Bantou-A**\n**hh:hv:MousBreedveld:Bantu-A40-A60**\n**hh:hvw:GuarismaPaulian:Bantous**\n**hh:lde:Tessmann:Bafia**\n**hh:phon:Guarisma:Bafia**\n**hh:phontyp:Guarisma:Bafia**\n**hh:s:Anderson:Bafia**\n**hh:s:Guarisma:Bafia**\n**hh:s:Guarisma:Kpa**\n**hh:soc:AyotteLamberty:Bafia-Lefa**\n**hh:soc:Mbongueetal:Lefa**\n**mpieva:Guarisma1973Lenomenb**\n**mpieva:Guarisma1992Labafial**"
+  },
+  "altnames": {
+    "wals": "\nBafia",
+    "multitree": "\nBafia\nBekpak\nRikpa\nRikpa'\nRipey",
+    "lexvo": "\nBafia [en]",
+    "hhbib_lgcode": "\nA51_Bafia_maja\nA53_Bafia_rikpa\nBekpak\nKpa\nLefa 3 d. maja\nMaja\nRikpa\nRikpa 1\nRikpa 2 A53"
+  },
+  "triggers": {
+    "lgcode": "\na53\nbafia"
+  },
+  "identifier": {
+    "wals": "bfi",
+    "multitree": "ksf"
+  },
+  "classification": {
+    "sub": "**hh:hvw:GuarismaPaulian:Bantous**",
+    "subrefs": "\n**hh:hvw:GuarismaPaulian:Bantous**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bafia (ksf-ksf) = 6a (Vigorous)."
+  }
+}

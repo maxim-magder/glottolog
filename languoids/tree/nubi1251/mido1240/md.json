@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Midob",
+    "hid": "mei",
+    "level": "language",
+    "iso639-3": "mei",
+    "latitude": "14.789",
+    "longitude": "27.2236",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Midob](https://grambank.clld.org/languages/mido1240)\n[Midob](https://wals.info/languoid/lect/wals_code_mid)\nhttps://en.wikipedia.org/wiki/Midob_language\nhttps://www.wikidata.org/entity/Q36007"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lampen:25**\n**cldf:macmichael:22**\n**eballiso2009:31697**\n**eballiso2009:43966**\n**hh:e:Hales:Meidob-Kinship**\n**hh:e:Hales:Meidob-Pastoral**\n**hh:g:Werner:Midob**\n**hh:hb:JakobiKummerle:Nubian**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hv:Murray:Nilotic**\n**hh:hv:Zyhlarz:Nubischen**\n**hh:hvw:Thelwall:NubianDajuDinka**\n**hh:phon:Beshir:Midob**\n**hh:s:Thelwall:Meidob**\n**hh:typ:Gruning:Midob**\n**hh:vw:Zyhlarz:Darfur-Nubischen**\n**hh:w:MacMichael:Nubian**\n**hh:w:Westermann:Meidob**\n**mpieva:Rouchdy1991Nubiansa**\n**sil16:44815**"
+  },
+  "altnames": {
+    "wals": "\nMidob",
+    "wals other": "\nDarfur-Nubian\nMeidob\nMeidob Nubian\nMidob (Darfur Nubian)\nMidob Nubian\nNubian (Meidob)",
+    "ruhlen (1987)": "\nMeidob",
+    "moseley & asher (1994)": "\nMeidob",
+    "multitree": "\nMeidob\nMidob\nMidobi\nTid\nTid-N-Aal\nTidda",
+    "lexvo": "\nMidob [en]",
+    "hhbib_lgcode": "\nMeidob\nMīdōb"
+  },
+  "triggers": {
+    "lgcode": "\nmeidob\nnubischer\ntidn\nmiedob"
+  },
+  "identifier": {
+    "wals": "mid",
+    "multitree": "mei"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bechhaus-Gerst:Nubischen**",
+    "subrefs": "\n**hh:hv:Bechhaus-Gerst:Nubischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Midob (mei-mei) = 6a (Vigorous)."
+  }
+}

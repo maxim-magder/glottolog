@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Humene",
+    "hid": "huf",
+    "level": "language",
+    "iso639-3": "huf",
+    "latitude": "-9.70693",
+    "longitude": "147.562",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Humene](https://lexibank.clld.org/languages/transnewguineaorg-humene)\nhttps://en.wikipedia.org/wiki/Humene_language\nhttps://www.wikidata.org/entity/Q11732231"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Dutton:SETNG**\n**hh:hvwtyp:Dutton:Rigo**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Central-Papua**"
+  },
+  "altnames": {
+    "multitree": "\nHumene\nLakume\nManukolu",
+    "lexvo": "\nHumene [en]",
+    "hhbib_lgcode": "\nGaria\nLagume\nLakumi\nManukolu"
+  },
+  "triggers": {
+    "lgcode": "\nrigo"
+  },
+  "identifier": {
+    "multitree": "huf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dutton:SETNG**:636",
+    "subrefs": "\n**hh:hv:Dutton:SETNG**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Humene (huf-huf) = 6a* (Vigorous)."
+  }
+}

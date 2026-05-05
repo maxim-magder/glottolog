@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Eastern Mnong",
+    "hid": "mng",
+    "level": "language",
+    "iso639-3": "mng",
+    "latitude": "12.3939",
+    "longitude": "108.354",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\n[Eastern Mnong](https://grambank.clld.org/languages/east2333)\n[MnongRlm](https://lexibank.clld.org/languages/sidwellbahnaric-mnongrlm)\nhttps://en.wikipedia.org/wiki/Eastern_Mnong\nhttps://www.wikidata.org/entity/Q12953747"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:condominas:57**\n**cldf:condominas:60**\n**cldf:phillips:73:1**\n**cldf:phillips:73:2**\n**hh:e:Condominas:Mnong-Gar**\n**hh:h:Condominas:Mnong-Gar**\n**hh:hv:Blood:Mnong**\n**hh:ld:Condominas:Mnong-Gar**\n**hh:phon:Blood:Rolom**\n**hh:s:Hmok:Mnong-Lam**\n**hh:typ:Blood:Mnong-Rolom**\n**sil16:10050**\n**sil16:10281**\n**sil16:10283**\n**sil16:10285**\n**sil16:11869**\n**sil16:15395**\n**sil16:51372**"
+  },
+  "altnames": {
+    "wals": "\nMnong (Eastern)",
+    "wals other": "\nE Mnong\nE. Mnong\nEastern Mnong\nRolom",
+    "ruhlen (1987)": "\nMnong (Eastern)",
+    "moseley & asher (1994)": "\nMnong (Eastern)",
+    "multitree": "\nEastern Mnong\nMnong (Eastern)\nMnong, Eastern\nNong\nPenong",
+    "lexvo": "\nEastern Mnong [en]",
+    "hhbib_lgcode": "\nMnong Gar\nMnong-Eastern"
+  },
+  "triggers": {
+    "lgcode": "\nrohorn{lohorn{m\nngoi\nnjun\nriem\nof AND mnong\npop\nlam\nuon\nrolom"
+  },
+  "identifier": {
+    "wals": "mge",
+    "multitree": "emno;mng"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blood:Mnong**",
+    "subrefs": "\n**hh:hv:Blood:Mnong**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mnong, Eastern (mng-mng) = 6a* (Vigorous). Language of recognized ethnic group: Mnong."
+  }
+}

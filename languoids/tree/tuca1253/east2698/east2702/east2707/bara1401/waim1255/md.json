@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Waimaha",
+    "hid": "bao",
+    "level": "language",
+    "iso639-3": "bao",
+    "latitude": "0.30416",
+    "longitude": "-70.1644",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "CO"
+    ],
+    "links": "\n[Bará](https://endangeredlanguages.com/lang/4021)\n[Bará](https://lexibank.clld.org/languages/hubercolumbian-Bara)\n[Waimaha](https://wals.info/languoid/lect/wals_code_bno)\n[Waimaja](https://lexibank.clld.org/languages/hubercolumbian-Waimaja)\n[bará](https://lexibank.clld.org/languages/chaconcolumbian-Bara)\n[waimaja](https://lexibank.clld.org/languages/chaconcolumbian-Waimaja)\nhttps://en.wikipedia.org/wiki/Waimaj%C3%A3_language\nhttps://phoible.org/languages/waim1255\nhttps://www.wikidata.org/entity/Q2883738"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2404**\n**asjp2010:4326**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:huber:reed:92:1**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Tukano_bara00**\n**fabreall2009ann:Tukano_bara01**\n**fabreall2009ann:Tukano_bara02**\n**fabreall2009ann:Tukano_bara04**\n**hh:e:Jackson:Bara**\n**hh:e:Jackson:Bara:1972**\n**hh:e:Jackson:Fish-People**\n**hh:e:StolteStolte:Barasano-Norte**\n**hh:h:Bruzzi:Uaupes**\n**hh:hvw:Gomez-ImbertJones:Piraparana**\n**hh:hvw:HuberReed:Colombia**\n**hh:hvw:Koch-Grunberg:Rio-Negro-Yapura:1906**\n**hh:hw:Koch-Grunberg:Betoya**\n**hh:nt:Stolte:Barasano-Norte**\n**hh:nt:Waimaja**\n**hh:phon:StolteStolte:Barasano-Norte**\n**hh:phon:StolteStolte:Northern-Barasano:1971**\n**hh:w:Mountain:Tucano-Swadesh**\n**sil16:13122**\n**sil16:13123**\n**sil16:13124**\n**sil16:13125**\n**sil16:17059**\n**sil16:32584**\n**sil16:46444**\n**sil16:50396**"
+  },
+  "altnames": {
+    "wals": "\nBarasano (Northern)",
+    "ruhlen (1987)": "\nBará-Tuyuka",
+    "moseley & asher (1994)": "\nBarasano (Northern)",
+    "lexvo": "\nWaimaha [en]",
+    "hhbib_lgcode": "\nBara of the Papuri and Macucu river\nBara-Waimaja\nBará\nBasãna\nHanera\nPanenõá\nPokangá\nWaimasa",
+    "elcat": "\nBarasano\nBará\nBará-Tuyuka\nNorthern Barasano\nWaimaha\nWaimaja\nWaípinõmakã"
+  },
+  "triggers": {
+    "lgcode": "\nwaimajaye\nwaimaja\nwaimaha"
+  },
+  "identifier": {
+    "wals": "bno",
+    "endangeredlanguages": "4021"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chacon:Proto-Tukanoan** **hh:gd:Ramirez:Yepa-Masa:2019**:5-7",
+    "subrefs": "\n**hh:hv:Chacon:Proto-Tukanoan**\n**hh:gd:Ramirez:Yepa-Masa:2019**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bará (4021-bao) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

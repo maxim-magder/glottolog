@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Khandesi",
+    "hid": "khn",
+    "level": "language",
+    "iso639-3": "khn",
+    "latitude": "21.3181",
+    "longitude": "74.142",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33726\nhttps://en.wikipedia.org/wiki/Khandeshi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Chand:Bharwad**\n**hh:ew:Kulkarni:Ahirs**\n**hh:g:Chitnis:Khandeshi**\n**hh:he:Ul-Hassan:Nizam**\n**hh:hvwsoc:Varkey:Bareli**\n**hh:hvwt:Grierson:9:III**\n**hh:hw:Graham:Bheel**\n**hh:ld:Varma:Bhil**\n**hh:soc:Blair:Ahirani**"
+  },
+  "altnames": {
+    "multitree": "\nAhirani\nDhed Gujari\nKhandeshi\nKhandesi\nKhandish",
+    "lexvo": "\nKhandesi [en]",
+    "hhbib_lgcode": "\nAhir\nAhir of Khandesh\nAhirani\nAhirani-Dhule\nBharwad\nBheel of Khandesh\nBhili of Khandesh\nDhed Gujari\nKhandeshi\nKotali\nRangari"
+  },
+  "triggers": {
+    "lgcode": "\nkhandeshi\nmohadi\ndhulia\ntaluka"
+  },
+  "identifier": {
+    "multitree": "khn"
+  },
+  "classification": {
+    "sub": "**hh:hvwt:Grierson:9:III**",
+    "subrefs": "\n**hh:hvwt:Grierson:9:III**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Khandesi (khn-khn) = 5* (Developing)."
+  }
+}

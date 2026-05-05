@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Brazilian Sign Language",
+    "hid": "bzs",
+    "level": "language",
+    "iso639-3": "bzs",
+    "latitude": "-15.5",
+    "longitude": "-48.0",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3436689\nhttps://en.wikipedia.org/wiki/Brazilian_Sign_Language\n[Língua de Sinais Brasileira](https://wals.info/languoid/lect/wals_code_lsb)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Capovilla:Sinais-Brasileira**\n**hh:d:Oates:Linguagem-Maos**\n**hh:d:deAzevedo:Libras**\n**hh:g:Muller:Libras**\n**hh:h:Brito:Brazilian-Sign**\n**hh:h:Burnier:Sign-Brazil**\n**hh:h:Campello:Sign-South-America**\n**hh:ld:Araujo:LSV-Libras**\n**hh:ldsoc:Junior:Sinais-Brasileira**\n**hh:phonsoc:deAndrade:Libras**\n**hh:s:Brito:Libras**\n**hh:s:DeQuadros:Brazilian-Sign**\n**hh:s:Felipe:LIBRAS**\n**hh:s:Ferreira:Sinais**\n**hh:s:Nogueira:Brazilian-Sign**\n**hh:s:deQuadrosKarnopp:Brazilian-Sign**\n**hh:soc:Eler:Surdos-Paiter**\n**hh:soc:Figueiredo:Usher**\n**hh:soc:Gesser:Libras**\n**hh:soc:Giroletti:Surda-Kaingang**\n**hh:soc:Vilhalva:Mato-Grosso-Sul**\n**hh:soc:Vilhalva:Mato-Grosso-Sul:2012**\n**hh:soc:deAzevedo:Surdo-Satere-Mawe**\n**hh:typ:BerenzBrito:BSCL**\n**hh:typ:Correa:Brasileira-Sinais**\n**hh:typ:Felipe:Libras**\n**hh:typ:Gomes:Verbais-Seriadas**\n**hh:typ:Muller:Brazilian-Sign**\n**hh:typ:deFaria:Sinais-Brasileira**\n**hh:typsoc:Paulus:DGS-Libras**\n**hh:vld:Ferreira:Libras-LSKB**\n**hh:vtyp:Coutinho:Brasileira-Sinais**\n**hh:wsoc:Hoemann:Linguagem-Sinais-Brasil**\n**hh:wsoc:Hoemann:Sign-Brazil**\n**hh:wsoc:deAndrade:Libras**"
+  },
+  "altnames": {
+    "wals": "\nLíngua de Sinais Brasileira",
+    "multitree": "\nBrazilian Sign Language\nLsb\nSão Paulo Sign Language",
+    "lexvo": "\nBrasiliansk tegnspråk [no]\nBrazila signolingvo [eo]\nBrazilian Sign Language [en]\nBrazilski znakovni jezik [hr]\nLíngua Brasileira de Sinais [pt]",
+    "hhbib_lgcode": "\nBrazilian Cities Sign Language\nLibras\nLibras plus extra Kaingang signs used in Escola Índigena Estadual Básica Cacique Vanhkre in Ipuaçu a town in the west of Santa Catarina\nLinguagem de Sinais do Brasil\nPresumably Tactile São Paulo Libras\nSign Language of Brazil\nSão Paulo Brazilian Sign\nSão Paulo Brazilian Sign Language"
+  },
+  "identifier": {
+    "wals": "lsb",
+    "multitree": "bzs"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Brazilian Sign Language (bzs-bzs) = 5 (Developing). Recognized language (2002, Law 10.436/2002, Parliamentary decree 5626/2005)."
+  },
+  "classification": {
+    "sub": "**hh:s:Nogueira:Brazilian-Sign**:129-130, **hh:h:Burnier:Sign-Brazil**:22",
+    "subrefs": "\n**hh:s:Nogueira:Brazilian-Sign**\n**hh:h:Burnier:Sign-Brazil**"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Naga Pidgin",
+    "hid": "nag",
+    "level": "language",
+    "iso639-3": "nag",
+    "latitude": "25.2508",
+    "longitude": "93.4438",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Naga Pidgin](https://wals.info/languoid/lect/wals_code_npn)\nhttps://en.wikipedia.org/wiki/Nagamese_creole\nhttps://phoible.org/languages/naga1394\nhttps://www.wikidata.org/entity/Q3503454"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Boruah:Nagamese**\n**hh:g:Baishya:Nagamese**\n**hh:g:Bhattacharjya:Kachari-Bengali**\n**hh:g:Bhattacharjya:Nagamese**\n**hh:g:Boruah:Nagamese**\n**hh:g:Sreedhar:Naga-Pidgin:1974**\n**hh:g:Sreedhar:NagaPidgin**\n**hh:h:Bradley:Nagamese**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:ld:Boruah:Nagamese**\n**hh:ld:Burling:Nagamese**\n**hh:ld:DhongdeBaishya:Nagamese**\n**hh:s:Aye:Nagamese**\n**hh:s:Baruah:Nagamese**\n**hh:s:Khare:Nagamese**\n**hh:soc:Kapfo:Nagamese**\n**hh:vld:Baishya:Nagamese**\n**hh:w:Jamir:Nagamese**"
+  },
+  "altnames": {
+    "wals": "\nNaga Pidgin",
+    "multitree": "\nBodo\nKachari Bengali\nNaga Creole Assamese\nNaga Pidgin\nNaga-Assamese\nNagamese",
+    "lexvo": "\nLenga naga pidgin [pms]\nLingua Nagamensis [la]\nNaga Pidgin [en]\nNagamese [en]",
+    "hhbib_lgcode": "\nBodo\nKachari Bengali\nNagamese"
+  },
+  "triggers": {
+    "lgcode": "\nnagamese"
+  },
+  "identifier": {
+    "wals": "npn",
+    "multitree": "nag"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Toulmin:Bangla**",
+    "subrefs": "\n**hh:hvw:Toulmin:Bangla**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nagamese (nag-nag) = 3 (Wider communication). Naga tribes came from China through Burma by late 14th century. Developed by mid 16th century. In 1826, lingua franca of Naga Hills, widely used in almost all domains by majority of population."
+  }
+}

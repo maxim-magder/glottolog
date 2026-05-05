@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bomu",
+    "hid": "bmq",
+    "level": "language",
+    "iso639-3": "bmq",
+    "latitude": "12.3816",
+    "longitude": "-4.538",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "ML"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35065\nhttps://en.wikipedia.org/wiki/Bomu_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:19428**\n**eballiso2009:19429**\n**eballiso2009:19435**\n**eballiso2009:41548**\n**eballiso2009:41549**\n**eballiso2009:41550**\n**eballiso2009:41551**\n**eballiso2009:41552**\n**eballiso2009:41555**\n**hh:d:deRasilly:Boore**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hv:Malgoubri:Bwamu**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phontyp:Manessy:Bob-oule**\n**hh:s:Manessy:Bwamu:FLSH**\n**hh:s:Manessy:Bwamu:IFAN**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nBobo Oule\nBobo Wule\nBobo-oulé\nBomu\nBoomu\nBore\nWestern Bobo Oule\nWestern Bobo Wule\nWestern Bwamu\nWestern Red Bobo",
+    "lexvo": "\nBomu [en]",
+    "hhbib_lgcode": "\nBob-Oule\nBobo Gbe\nBobo Wule\nBobo-Oulé\nBomborokuy\nBondoukuy\nBoni\nBoore\nDahanmu\nKoumbia\nKyan\nMandiakuy\nRed Bobo\nTara\nWhite Bobo"
+  },
+  "triggers": {
+    "lgcode": "\nbob\nbondoukuy\nsuivi AND precede"
+  },
+  "identifier": {
+    "multitree": "bmq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manessy:Bwamu-Voltaiques**",
+    "subrefs": "\n**hh:hv:Manessy:Bwamu-Voltaiques**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bomu (bmq-bmq) = 5 (Developing). Recognized language (1982, Decree No. 159 of 19 July, Article 1)."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Laz",
+    "hid": "lzz",
+    "level": "language",
+    "iso639-3": "lzz",
+    "latitude": "41.5004",
+    "longitude": "41.9096",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "TR"
+    ],
+    "links": "\n[Laz](https://endangeredlanguages.com/lang/2246)\n[Laz](https://grambank.clld.org/languages/lazz1240)\n[Laz](https://wals.info/languoid/lect/wals_code_laz)\nhttps://en.wikipedia.org/wiki/Laz_language\nhttps://phoible.org/languages/lazz1240\nhttps://www.wikidata.org/entity/Q1160372"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:582**\n**cldf:boeder:ed:03:1**\n**cldf:boeder:ed:03:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ebert:ed:01:1**\n**cldf:ed:10**\n**cldf:kavakli:15**\n**cldf:kutscher:09**\n**cldf:kutscher:mattissen:etal:95**\n**cldf:lacroix:18**\n**cldf:lewis:ed:09**\n**cldf:liu:95**\n**cldf:mattissen:95**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:oldenburg:ed:10:1**\n**cldf:stolz:96**\n**hh:e:Feurstein:Lazen**\n**hh:g:Anderson:Laz**\n**hh:g:KojimaBucaklisi:Lazuri**\n**hh:gt:Lacroix:Laze**\n**hh:s:Holisky:Laz**\n**hh:s:Kutscher:Mutafi-Lazische**\n**hh:s:Lacroix:Laz**\n**hh:s:OzturkPochtrager:Pazar-Laz**\n**hh:std:Marr:Lazskago**\n**hh:styp:Kutscher:Lasischen**\n**hh:sv:Kartozia:Lazuri**\n**mpieva:Kalandia2007incoloph**\n**mpieva:Kalandia2008Laztexts**\n**mpieva:Kutscher1998Ardesenn**\n**mpieva:Kutscher2001Nomenund**"
+  },
+  "altnames": {
+    "wals": "\nLaz",
+    "ruhlen (1987)": "\nLaz",
+    "moseley & asher (1994)": "\nLaz",
+    "multitree": "\nLaz\nLaze",
+    "lexvo": "\nBahasa Laz [ms]\nIdioma laz [es]\nJęzyk lazyjski [pl]\nLasische Sprache [de]\nLaz [ca]\nLaz language [en]\nLazca [tr]\nLaze [fr]\nLazeg [br]\nLazisch [nl]\nLazisk språk [no]\nLazki [diq]\nLingua laz [it]\nLáz nyelv [hu]\nLíngua laz [pt]\nЛазский язык [ru]\nЛаски јазик [mk]\nלאזית [he]\nლაზური ენა [ka]\nラズ語 [ja]",
+    "hhbib_lgcode": "\nLasischen\nMutafi-Lazische\nPazar Laz",
+    "elcat": "\nLaz"
+  },
+  "triggers": {
+    "lgcode": "\ndarhavi\nlasischen\nmutafi\nlazuri\nlaz"
+  },
+  "identifier": {
+    "wals": "laz",
+    "multitree": "lzz",
+    "endangeredlanguages": "2246"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boeder:Kartvelian**",
+    "subrefs": "\n**hh:hv:Boeder:Kartvelian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Laz (2246-lzz) = Vulnerable (20 percent certain, based on the evidence available) (A language shift to Turkish and Georgian has proceeded increasingly rapidly.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

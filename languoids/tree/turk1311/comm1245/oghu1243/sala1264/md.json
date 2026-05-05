@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Salar",
+    "hid": "slr",
+    "level": "language",
+    "iso639-3": "slr",
+    "latitude": "35.5457",
+    "longitude": "102.819",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Salar](https://endangeredlanguages.com/lang/10455)\n[Salar](https://lexibank.clld.org/languages/savelyevturkic-Salar)\n[Salar](https://wals.info/languoid/lect/wals_code_slr)\nhttps://en.wikipedia.org/wiki/Salar_language\nhttps://phoible.org/languages/sala1264\nhttps://www.wikidata.org/entity/Q33963"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:899**\n**cldf:dwyer:00**\n**cldf:ed:10**\n**cldf:lin:85**\n**cldf:ma:09:1**\n**cldf:ma:09:2**\n**cldf:roche:suzuki:17**\n**cldf:tenishev:97:3**\n**hh:b:Drimba:Salars**\n**hh:d:Lin:Sala**\n**hh:d:Vaillant:Salar**\n**hh:d:Xu:Sala**\n**hh:d:Yakup:Ili-Salar**\n**hh:e:NA:Sala**\n**hh:ew:Rockhill:Mongolia-Tibet**\n**hh:g:Mehmet:Cinghai-Salar**\n**hh:g:Simon:Salar**\n**hh:g:Tenishev:Salarskogo**\n**hh:hel:Dwyer:China**\n**hh:hew:Potanin:Tangutsko-Tibetskaja**\n**hh:htyp:Coyaud:Monde-Chinois**\n**hh:ld:Hahn:Salar**\n**hh:ld:Yakup:Xinjiang-Sala**\n**hh:phonv:Poppe:Salar**\n**hh:s:Lin:Sala**\n**hh:s:Mehmet:Salar**\n**hh:s:Tenishev:Salarskij**\n**hh:s:XuWu:Sala**\n**hh:ssoc:Vaillant:Salar**\n**hh:t:MaMaStuart:Salar**\n**hh:t:Tenishev:Salarskie**\n**hh:t:Yakup:Xinjiang-Salar**\n**hh:typ:Teres:Ili-Salir**\n**hh:v:Dwyer:Salar**\n**hh:v:Nugteren:Salar**\n**hh:vb:Teres:Salir**\n**hh:vphon:Dwyer:Salar**\n**hh:vphon:Dwyer:Salar:1996**\n**hh:w:Cinfen:Salar**\n**hh:w:Kakuk:Salar**\n**hh:w:Ma:Salar**\n**mpieva:Lin1985Salayuji**\n**mpieva:Lin1992SalaHanH**\n**sil16:50109**"
+  },
+  "altnames": {
+    "wals": "\nSalar",
+    "ruhlen (1987)": "\nSalar",
+    "moseley & asher (1994)": "\nSalar",
+    "multitree": "\nSala\nSalar",
+    "lexvo": "\nSalaarin kieli [fi]\nSalar [en]\nSalar dili [az]\nSalar language [en]\nSalarca [tr]\nSalareg [br]\nSalarische Sprache [de]\nСалар тілі [kk]\nСаларски јазик [mk]\nСаларский язык [ru]\nزبان سالار [fa]\nسالار تىلى [ug]\nภาษาซาลาร์ [th]\nサラール語 [ja]\n撒拉语 [zh]\n살라르어 [ko]",
+    "elcat": "\nSalar\nсаларский\n撒拉語",
+    "hhbib_lgcode": "\nEastern Salar\nIli Salar\nIli Salir\nMengda Salar of Xunhua\nQinghai  Sala\nQinghai Salar\nQinghai Salar (based on Kakuk/Tenishev/Ma/Lin texts)\nSalar du Qinghai\nSalar of Xunhua (recorded in Peking)\nSalars\nWestern Salar\nXinjiang Sala\nXinjiang Salar\nXunhua-Hualong Salar"
+  },
+  "triggers": {
+    "lgcode": "\nsalarskij\nsalar\nsalars"
+  },
+  "identifier": {
+    "wals": "slr",
+    "multitree": "slr",
+    "endangeredlanguages": "10455"
+  },
+  "classification": {
+    "sub": "**hh:vphon:Dwyer:Salar**",
+    "subrefs": "\n**hh:vphon:Dwyer:Salar**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Salar (10455-slr) = Threatened (100 percent certain, based on the evidence available) (The Salar who live in metropolitan areas don't speak Salar, and their children acquire Chinese languages (either Mandarin or local lingua franca) as their first/native language. Most Salar speakers living in villages are educated in Mandarin; hence they are bilingual in Salar and Chinese languages. They also code-switch a lot between Salar and Chinese.) [Ma 2009](cldf:ma:09:2)"
+  }
+}

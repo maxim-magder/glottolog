@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bura-Pabir",
+    "hid": "bwr",
+    "level": "language",
+    "iso639-3": "bwr",
+    "latitude": "10.4822",
+    "longitude": "12.3007",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Bura](https://lexibank.clld.org/languages/kraftchadic-Bura)\n[Bura-Pabir](https://grambank.clld.org/languages/bura1292)\n[Bura-Pabir](https://wals.info/languoid/lect/wals_code_bpa)\nhttps://en.wikipedia.org/wiki/Bura_language\nhttps://www.wikidata.org/entity/Q56552"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3819**\n**cldf:badejo:89**\n**cldf:gil:82**\n**cldf:helser:26**\n**cldf:maddieson:83**\n**cldf:meek:31:2**\n**eballiso2009:1188**\n**eballiso2009:12058**\n**eballiso2009:16951**\n**eballiso2009:18932**\n**eballiso2009:21354**\n**eballiso2009:3046**\n**eballiso2009:3217**\n**eballiso2009:33291**\n**eballiso2009:39751**\n**eballiso2009:42013**\n**eballiso2009:45192**\n**eballiso2009:51340**\n**eballiso2009:51341**\n**eballiso2009:52678**\n**eballiso2009:5449**\n**eballiso2009:9851**\n**hh:e:Mshelia:Bura-Pabir**\n**hh:g:Hoffmann:Bura**\n**hh:h:Temple:NNigeria**\n**hh:hew:Meek:Tribal:I**\n**hh:hv:Hoffmann:Bura-Margyi**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:II**\n**hh:phon:Malgwi:Bura**\n**hh:phon:Olalekan:Bura**\n**hh:s:CB:Bura**\n**hh:s:Palmer:Bura**\n**hh:typ:UmarBello:Bura**\n**hh:w:ReuttKogan:Margi-Bura**\n**hh:wtyp:Muazu:Bura**"
+  },
+  "altnames": {
+    "wals": "\nBura-Pabir",
+    "ruhlen (1987)": "\nBura",
+    "moseley & asher (1994)": "\nBura",
+    "multitree": "\nBabir\nBabur\nBarburr\nBourrah\nBura\nBura-Pabir\nBurra\nHuve\nHuviya\nKwojeffa\nMya Bura\nPabir",
+    "lexvo": "\nBouraeg-pabireg [br]\nBura-Pabir [en]\nBura-Pabir language [en]\nBura-pabir [hr]\nБура [uk]",
+    "hhbib_lgcode": "\nBura\nBurra"
+  },
+  "triggers": {
+    "lgcode": "\nNOT le AND bura\nnisam\nbeginner"
+  },
+  "identifier": {
+    "wals": "bpa",
+    "multitree": "bwr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:50-51",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bura-Pabir (bwr-bwr) = 6b (Threatened)."
+  }
+}

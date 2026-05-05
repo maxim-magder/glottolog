@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Wakhi",
+    "hid": "wbl",
+    "level": "language",
+    "iso639-3": "wbl",
+    "latitude": "37.1768",
+    "longitude": "73.9777",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "CN",
+      "PK",
+      "TJ"
+    ],
+    "links": "\n[Wakhi](https://endangeredlanguages.com/lang/3155)\n[Wakhi](https://wals.info/languoid/lect/wals_code_wak)\nhttps://en.wikipedia.org/wiki/Wakhi_language\nhttps://phoible.org/languages/wakh1245\nhttps://www.wikidata.org/entity/Q34208"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wendtland:Pamir** **hh:hv:Korn:Central-Iranian** **hh:hv:Novak:Eastern-Iranian:2013**",
+    "subrefs": "\n**hh:hv:Wendtland:Pamir**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Novak:Eastern-Iranian:2013**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1009**\n**asjp2010:1191**\n**asjp2010:2341**\n**asjp2010:296**\n**asjp2010:657**\n**cldf:abbess:mueller:etal:08**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gruenberg:ed:88**\n**cldf:humphreys:mits:ed:93**\n**cldf:jaroslavaobrtelova:18**\n**cldf:lewis:ed:09**\n**cldf:lorimer:58**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:e:Beg:Chinese-Wakhi**\n**hh:g:Saka:Wakhi**\n**hh:gd:Grunberg:Wakhi**\n**hh:gd:Lorimer:Wakhi**\n**hh:gtd:GrjunbergKamenskij:Vaxanskij**\n**hh:h:Rastorgueva:Vostocnoiranskie**\n**hh:h:Weinreich:Diversity-Roof**\n**hh:hvs:Morgenstierne:Pamir**\n**hh:hvw:Grierson:10**\n**hh:hvw:Tomaschek:Pamir**\n**hh:hw:Badakhshi:Afghanistan**\n**hh:hwsoc:Backstrom:Wakhi**\n**hh:s:Bashir:Wakhi**\n**hh:s:Gao:Tajikeyu**\n**hh:s:Hjuler:Shughnan-Vakhan**\n**hh:s:Kieffer:Wakhi**\n**hh:s:Li:Wahan-Tajike**\n**hh:s:Paxalina:Pamirskie**\n**hh:st:Shaw:Wakhi-Sarikoli**\n**hh:std:Paxalina:Vaxanskij**\n**hh:sttyp:Obrtelova:Wakhi**\n**hh:t:Klimcitskij:Vaxanskie**\n**hh:t:Obrtelova:Wakhi**\n**hh:t:Obrtelova:Wakhi-Folktales**\n**hh:typ:Gao:Tajikeyu**\n**hh:typ:Gregory:Wakhi**\n**hh:v:Saxi:Waxi**\n**hh:v:Steblin-Kamenskij:Vaxanskogo**\n**hh:vld:Zeng:Sarikoli-Wakhi**\n**hh:vtyp:Laskarbekov:Vaxanskij**\n**hh:w:Capus:Pre-Pamiriennes**\n**hh:w:Skold:Pamir**\n**mpieva:Backstrom1992Language**\n**mpieva:Morgenstierne1973IranianP**\n**mpieva:SteblinKamenskij1999Etimolog**\n**sil16:32840**\n**sil16:50420**"
+  },
+  "altnames": {
+    "wals": "\nWakhi",
+    "ruhlen (1987)": "\nWakhi",
+    "moseley & asher (1994)": "\nWakhi",
+    "multitree": "\nGuhjali\nKhik\nVakhan\nVakí\nWakhani\nWakhi\nWakhigi",
+    "lexvo": "\nLingua vakhí [gl]\nLíngua wakhi [pt]\nVahanin kieli [fi]\nVahhi keel [et]\nWakheg [br]\nWakhi [en]\nWakhi language [en]\nВахайнаг æвзаг [os]\nВахански език [bg]\nВаханский язык [ru]\nภาษาวาคี [th]",
+    "hhbib_lgcode": "\nVakhan\nVaxanskij\nWaxi",
+    "elcat": "\nGuhjali\nKhik\nVakhan\nWakhani\nWakhi\nWakhigi"
+  },
+  "triggers": {
+    "lgcode": "\nwakhi\nvaxanskij"
+  },
+  "identifier": {
+    "wals": "wak",
+    "multitree": "wbl",
+    "endangeredlanguages": "3155"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Wakhi (3155-wbl) = Vulnerable (20 percent certain, based on the evidence available) [Bashir 2009](cldf:bashir:09)"
+  }
+}

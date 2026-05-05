@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Silesian",
+    "hid": "szl",
+    "level": "language",
+    "iso639-3": "szl",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PL"
+    ],
+    "links": "\n[Upper Silesian](https://endangeredlanguages.com/lang/8349)\nhttps://en.wikipedia.org/wiki/Silesian_language\nhttps://www.wikidata.org/entity/Q30319",
+    "longitude": "16.9491",
+    "latitude": "50.9656"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:02**\n**cldf:np:12:12**\n**hh:ldsoc:Hentschel:Schlesisch**\n**hh:s:Nikel:Polnische-Oberschlisischen**\n**hh:soc:Kamusella:Slonsko**\n**hh:sv:Nitsch:Slaska**\n**hh:t:Olesch:Oberschlesiens**\n**hh:typ:Reiter:Polnisch-Deutschen-Oberschlesien**\n**hh:typsoc:Hentschel:Schlesische**\n**hh:vldsoc:Hannan:Teschen-Silesia**\n**hh:vldsoc:Hannan:Teschen-Silesia:1994**\n**hh:w:Bandtkie:Slasku**\n**iso6393:2006-106**"
+  },
+  "altnames": {
+    "multitree": "\nSilesian",
+    "lexvo": "\nBahasa Silesia [id]\nBasa Silesia [jv]\nCànan Silesianach [gd]\nGjuha silesiane [sq]\nHoogsilezisch [nl]\nIdioma silesiano [es]\nJęzyk śląski [pl]\nKisilesia [sw]\nLang silezyen [ht]\nLenghe slesiane [fur]\nLimba sileseascã [rup]\nLimba sileziană [ro]\nLingua Silesiana [lad]\nLingua Silesica [la]\nLingua silesian [ia]\nLingua silesiana [gl]\nLingua slesiana [it]\nLingwa Sileżjana [mt]\nLuenga silésia [ext]\nLíngua silesiana [pt]\nSchlesesch Sprooch [lb]\nSchlesisch [de]\nSchlesisk [da]\nSchlesiska [sv]\nSileeshish [gv]\nSileesia keel [et]\nSileseg [cy]\nSilesia tongo [srn]\nSilesia-gí [nan]\nSilesiagbe [ee]\nSilesiagiella [se]\nSilesian [en]\nSilesian bhasa [hif]\nSilesian language [en]\nSilesiera [eu]\nSilesies [af]\nSilesisc ȝereord [ang]\nSilesià [ca]\nSilez dili [tr]\nSilez tili [crh]\nSilezia lingvo [eo]\nSilezieg [br]\nSileziečių kalba [lt]\nSilezisch [vls]\nSilezysk [fy]\nSilésien [fr]\nSilēziešu valoda [lv]\nSleesian kieli [fi]\nSleesisk [stq]\nSlezština [cs]\nSziléziai nyelv [hu]\nSzląsczi jãzëk [csb]\nSėlezu kalba [lt]\nTiếng Silesia [vi]\nZimanê silesî [ku]\nŁéngua slesiana [vec]\nŚlůnsko godka [szl]\nŠleski jezik [bs]\nŠlezijščina [sl]\nŠlešćina [hsb]\nΣιλεσική γλώσσα [el]\nЗабони силзиёӣ [tg]\nСилез кыл [udm]\nСилез теле [ba]\nСилез тили [ky]\nСилезиаг æвзаг [os]\nСилезийски език [bg]\nСилезиянь кяль [mdf]\nСилезский язык [ru]\nСилеси чĕлхи [cv]\nСилєꙁі́искъ ѩꙁꙑ́къ [cu]\nСылеская мова [be]\nСілез тілі [kk]\nСілезская мова [be]\nСілезька мова [uk]\nШлезиски јазик [mk]\nՍիլեսերեն [hy]\nשלזית [he]\nשלעזיש [yi]\nزبان سیلزیایی [fa]\nسيليسى [arz]\nसिलेसियन भाषा [hi]\nசிலேசிய மொழி [ta]\nསེལ་འོ་སུ་འན་གྱི་སྐད [bo]\nსილეზიური ენა [ka]\nሳይሌሲያን [am]\nシレジア語 [ja]\n西里西亞語 [zh]\n실레지아어 [ko]",
+    "hhbib_lgcode": "\nBajoki",
+    "elcat": "\nCes: slezský jazyk\nEng: Silesian\nPol: język śląski\nSilesian\nSzlonzok\nUpper Silesian\nŚląski\nślōnski\nślōnskŏ gŏdka\nślōnskŏ mŏwa"
+  },
+  "triggers": {
+    "lgcode": "\nasku\njezyku\noberschlesiens\npolskie\nschlesische\naska\nwiadomosci\npolskim\npolskich\nslavische\nazakach"
+  },
+  "identifier": {
+    "multitree": "szl",
+    "endangeredlanguages": "8349"
+  },
+  "classification": {
+    "sub": "**hh:hv:Poljakov:Slavic** **hh:vldsoc:Hannan:Teschen-Silesia**:85-130 **hh:hvld:Stieber:Zachodnio**:22-43",
+    "subrefs": "\n**hh:vldsoc:Hannan:Teschen-Silesia**\n**hh:hv:Poljakov:Slavic**\n**hh:hvld:Stieber:Zachodnio**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Upper Silesian (8349-szl) = Vulnerable (20 percent certain, based on the evidence available) [n.a. 2002](cldf:np:02)"
+  }
+}

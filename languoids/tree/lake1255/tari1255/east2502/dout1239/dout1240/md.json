@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Doutai",
+    "hid": "tds",
+    "level": "language",
+    "iso639-3": "tds",
+    "latitude": "-3.24832",
+    "longitude": "138.22",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Doutai](https://endangeredlanguages.com/lang/1486)\n[Doutai](https://lexibank.clld.org/languages/transnewguineaorg-doutai)\n[Doutai](https://wals.info/languoid/lect/wals_code_dou)\nhttps://en.wikipedia.org/wiki/Doutai_language\nhttps://www.wikidata.org/entity/Q5302331"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hphon:ClouseClouse:WLakes-Plain**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**\n**hh:phon:McAllisterMcAllister:Doutai**"
+  },
+  "altnames": {
+    "wals": "\nDoutai",
+    "wals other": "\nTolitai",
+    "ruhlen (1987)": "\nTaori-So",
+    "moseley & asher (1994)": "\nTaori-So",
+    "multitree": "\nDoutai\nTaori\nTaori-So\nTolitai",
+    "lexvo": "\nDoutai [en]",
+    "hhbib_lgcode": "\nTaori So (Br)\nTaori-So",
+    "elcat": "\nDoutai\nTaori\nTaori-So\nTolitai"
+  },
+  "triggers": {
+    "lgcode": "\ndoutai"
+  },
+  "identifier": {
+    "wals": "dou",
+    "multitree": "tds",
+    "endangeredlanguages": "1486"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Doutai (1486-tds) = Severely Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

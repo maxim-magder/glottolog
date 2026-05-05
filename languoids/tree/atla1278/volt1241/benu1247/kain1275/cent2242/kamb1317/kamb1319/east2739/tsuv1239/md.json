@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tsuvadi",
+    "hid": "tvd",
+    "level": "language",
+    "iso639-3": "tvd",
+    "latitude": "10.8421",
+    "longitude": "5.22095",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Tsuvadi](https://endangeredlanguages.com/lang/7769)\nhttps://www.wikidata.org/entity/Q3914936\nhttps://en.wikipedia.org/wiki/Vadi_language\nhttps://phoible.org/languages/tsuv1239"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:07:1**\n**cldf:lewis:ed:09**\n**hh:h:Bertho:Nigeria**\n**hh:he:GunnConant:Middle-Niger**\n**hh:he:SIL:Nigeria**\n**hh:hvw:Rowlands:NNigeria**\n**hh:phon:Buttacavoli:Tsuvadi**\n**hh:s:Lovelace:Tsuvadi**\n**hh:w:Blench:Tsuvadi**\n**iso6393:2014-040**"
+  },
+  "altnames": {
+    "multitree": "\nAbadi\nAvadi\nEvadi\nIbeto\nKambari\nKamberi\nTsuvadi",
+    "lexvo": "\nTsuvadi [en]",
+    "hhbib_lgcode": "\nAvadi\nAvadi (Kambari)\nKambari-Abadi\nKambéri d'Avhadi\nTsugudu",
+    "elcat": "\nAbadi\nAvadi\nEvadi\nIbeto\nKambari\nKamberi\nTsuva'di\nTsuvadi"
+  },
+  "triggers": {
+    "lgcode": "\ntsuvadi\ntsuvai"
+  },
+  "identifier": {
+    "multitree": "tvd",
+    "endangeredlanguages": "7769"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tsuvadi (7769-tvd) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

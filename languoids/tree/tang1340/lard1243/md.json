@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Lardil",
+    "hid": "lbz",
+    "level": "language",
+    "iso639-3": "lbz",
+    "latitude": "-16.56152",
+    "longitude": "139.4343",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Lardil](https://collection.aiatsis.gov.au/austlang/language/g38)\n[Lardil](https://endangeredlanguages.com/lang/3787)\n[Lardil](https://grambank.clld.org/languages/lard1243)\n[Lardil](https://wals.info/languoid/lect/wals_code_lrd)\nhttps://en.wikipedia.org/wiki/Lardil_language\nhttps://phoible.org/languages/lard1243\nhttps://www.wikidata.org/entity/Q3915688"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:hale:83:1**\n**cldf:lewis:ed:09**\n**cldf:memmott:83:1**\n**cldf:memmott:83:2**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:richards:97**\n**cldf:tryon:07**\n**haspelmath:nancarrow_whats_2010**\n**hh:d:Hale:Lardil**\n**hh:d:Hale:Lardil:Preliminary**\n**hh:e:McKnight:Lardil**\n**hh:e:Memmott:Lardil**\n**hh:g:Klokeid:Lardil**\n**hh:h:Memmott:Gulf-Carpentaria**\n**hh:hv:Capell:Arnhem**\n**hh:hv:Evans:Macassan-Top-End**\n**hh:hv:Evans:Tangkic:2005**\n**hh:hv:Memmott:Tangkic**\n**hh:ld:Evans:Listening**\n**hh:ld:Hale:Damin-Kinship**\n**hh:ld:Hale:Damin-Lardil**\n**hh:ld:Hale:Lardil**\n**hh:ld:Trezise:Dream**\n**hh:ld:Woolston:Wellesley**\n**hh:s:Hale:Lardil**\n**hh:typ:Hale:Analysis-Australian**\n**hh:typ:Richards:Lardil**\n**ozbib:1393**\n**ozbib:1595**\n**ozbib:189**\n**ozbib:1897**\n**ozbib:1949**\n**ozbib:2306**\n**ozbib:2458**\n**ozbib:2460**\n**ozbib:2465**\n**ozbib:2492**\n**ozbib:2501**\n**ozbib:2505**\n**ozbib:2507**\n**ozbib:2513**\n**ozbib:2951**\n**ozbib:3033**\n**ozbib:3251**\n**ozbib:3475**\n**ozbib:3803**\n**ozbib:4012**\n**ozbib:4391**\n**ozbib:4599**\n**ozbib:5429**\n**ozbib:6169**\n**ozbib:6211**\n**ozbib:6277**\n**ozbib:6304**\n**ozbib:645**\n**ozbib:6827**\n**ozbib:6994**\n**ozbib:7027**\n**ozbib:7046**\n**ozbib:72**\n**ozbib:728**\n**ozbib:7287**\n**ozbib:79**"
+  },
+  "altnames": {
+    "wals": "\nLardil",
+    "ruhlen (1987)": "\nLardil",
+    "moseley & asher (1994)": "\nLardil",
+    "multitree": "\nEngarilla\nEugoola\nGanggalida\nGunana\nIukala\nJakula\nJogula\nJokal\nJokala\nJokul\nJokula\nJokulta\nJugul\nJugulda\nJungulda\nKanggaleida\nKuna'na\nKunana\nLadil\nLaierdila\nLardil\nLardill\nLeerdil\nMornington Island tribe\nYangarella\nYookala\nYugulda\nYukula\nYukulta",
+    "lexvo": "\nLardil [en]\nLardil language [en]",
+    "hhbib_lgcode": "\nDamin\nDemiin\nLaḍil",
+    "elcat": "\nEngarilla\nEugoola\nGanggalida\nGunana\nIukala\nJakula\nJogula\nJokal\nJokala\nJokul\nJokula\nJokulta\nJugul\nJugulda\nJungulda\nKanggaleida\nKuna'na\nKunana\nLadil\nLaierdila\nLardil\nLardill\nLeerdil\nMornington Island tribe\nYangarella\nYookala\nYugulda\nYukula\nYukulta",
+    "aiatsis": "\nDamin\nDemiin\nDemin\nGunana\nJungarl\nKare wa\nKunana\nLa:dil\nLadil\nLaierdila\nLardi:i\nLardiil\nLardil\nLardill\nLayardilda\nLeedil\nMornington Island tribe\nNemarang"
+  },
+  "triggers": {
+    "lgcode": "\nlogic\nlardil\ndamin"
+  },
+  "identifier": {
+    "wals": "lrd",
+    "multitree": "lbz",
+    "endangeredlanguages": "3787"
+  },
+  "classification": {
+    "sub": "**hh:hv:Evans:Tangkic:2005** **hh:hvw:Evans:Minkin**",
+    "subrefs": "\n**hh:hv:Evans:Tangkic:2005**\n**hh:hvw:Evans:Minkin**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lardil (3787-lbz) = Critically Endangered (100 percent certain, based on the evidence available) (The language is moving towards being moribund.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

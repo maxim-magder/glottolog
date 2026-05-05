@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tabasco Chontal",
+    "hid": "chf",
+    "level": "language",
+    "iso639-3": "chf",
+    "latitude": "18.1713",
+    "longitude": "-92.7367",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chontal Maya](https://wals.info/languoid/lect/wals_code_cmy)\n[Chontal de Tabasco](https://endangeredlanguages.com/lang/3460)\nhttps://en.wikipedia.org/wiki/Chontal_Maya_language\nhttps://phoible.org/languages/taba1266\nhttps://www.wikidata.org/entity/Q35175"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3871**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cuaron:lastra:91**\n**cldf:ed:10**\n**cldf:keller:59**\n**cldf:keller:g:97**\n**cldf:knowles-berry:87**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:KellerLuciano:Chontal-Tabasco**\n**hh:d:Perez:Chontal**\n**hh:e:Flores:Chontales-Tabasco**\n**hh:e:Rojas:Chontal-Chol-Kekchi**\n**hh:g:Knowles:Chontal-Maya**\n**hh:g:Osorio:Yokotan**\n**hh:g:Perez:Chontal-Tucta**\n**hh:styp:Osorio:Yokotan**\n**hh:typ:Harris:Chontales**\n**hh:vw:Becerra:Chontales-Tabasco**\n**sil16:11011**\n**sil16:11247**\n**sil16:11248**\n**sil16:11253**\n**sil16:11254**\n**sil16:11255**\n**sil16:12225**\n**sil16:18727**\n**sil16:43427**"
+  },
+  "altnames": {
+    "wals": "\nChontal Maya",
+    "wals other": "\nChontal (Mayan)\nChontal (Tabasco)\nTabasco Chontal\nYocot'an",
+    "ruhlen (1987)": "\nChontal",
+    "moseley & asher (1994)": "\nChontal",
+    "multitree": "\nChontal\nChontal (Tabasco)\nChontal Maya\nChontal de Tabasco\nChontal du Tabasco\nChontal, Tabasco\nYocot'an\nYokot'an\nYokotán",
+    "lexvo": "\nChontal Maya language [en]\nChontal-maya [no]\nChontalin kieli [fi]\nIdioma chontal de Tabasco [es]\nLíngua chontal maia [pt]\nTabasco Chontal [en]\nЧонталски мајански јазик [mk]",
+    "hhbib_lgcode": "\nChontal\nChontal Tabasco\nChontal-Tabasco",
+    "elcat": "\nChontal\nChontal (Tabasco)\nChontal Maya\nChontal de Tabasco\nTabasco\nYocot'an\nYokot'an\nYokotán"
+  },
+  "triggers": {
+    "lgcode": "\nmosquitoes\ntabasco\npoblado\nchontales\ntucta\nyokotan"
+  },
+  "identifier": {
+    "wals": "cmy",
+    "multitree": "chf",
+    "endangeredlanguages": "3460"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Chontal de Tabasco (3460-chf) = vulnerable"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Twana",
+    "hid": "twa",
+    "level": "language",
+    "iso639-3": "twa",
+    "latitude": "47.48952",
+    "longitude": "-123.21227",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Twana](https://grambank.clld.org/languages/twan1247)\n[Twana](https://wals.info/languoid/lect/wals_code_twa)\nhttps://en.wikipedia.org/wiki/Twana_language\nhttps://www.wikidata.org/entity/Q7857412",
+    "timespan": "1980-01-01/1980-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:eells:84**\n**cldf:eells:87:1**\n**cldf:elmendorf:48**\n**cldf:elmendorf:60**\n**cldf:kelly:95**\n**hh:d:Thompson:Twana**\n**hh:d:Thompson:Twana:Student**\n**hh:e:Elmendorf:Twana**\n**hh:e:SuttlesLane:Southern-Coast-Salish**\n**hh:ew:Eells:Skokomish**\n**hh:hv:Elmendorf:Salish**\n**hh:hv:Swadesh:Salish:1950**\n**hh:ld:Eells:Twana**\n**hh:lde:Eells:Twana-Chemakum-Klallam**\n**hh:phont:Drachan:Twana**\n**hh:styp:Thompson:Twana**\n**hh:v:Elmendorf:Coast-Salish**\n**hh:v:Thompson:Dialect**"
+  },
+  "altnames": {
+    "wals": "\nTwana",
+    "ruhlen (1987)": "\nTwana",
+    "moseley & asher (1994)": "\nTwana",
+    "multitree": "\nSkokomish\nSqʷuqʷúʔbəšq\nTuana\nTwana\nsqʷuqʷúʔbəšq",
+    "lexvo": "\nTwana [en]",
+    "hhbib_lgcode": "\nDxwlәšucid\nTwana Tw"
+  },
+  "triggers": {
+    "lgcode": "\nskokomish\nreservation\ntwana"
+  },
+  "identifier": {
+    "wals": "twa",
+    "multitree": "twa"
+  },
+  "classification": {
+    "sub": "**hh:h:Davis:Salish** **hh:hv:Thompson:Salishan**",
+    "subrefs": "\n**hh:h:Davis:Salish**\n**hh:hv:Thompson:Salishan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Twana (794-twa) = Extinct"
+  }
+}

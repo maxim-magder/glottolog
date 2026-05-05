@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Indonesian Bajau",
+    "hid": "bdl",
+    "level": "language",
+    "iso639-3": "bdl",
+    "latitude": "-3.68664",
+    "longitude": "122.253",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2880038\nhttps://phoible.org/languages/indo1317\n[Bajau (Sama)](https://wals.info/languoid/lect/wals_code_baj)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4776**\n**cldf:donohue:96**\n**hh:d:Zacot:Bajo**\n**hh:e:vanVerschuer:Badjos**\n**hh:h:Neveux:Bajau**\n**hh:hw:Stokhofetal:Holle:7:4**\n**hh:s:Hapip:Bajau**\n**hh:st:Nuraini:Bajo**\n**hh:std:Verheijen:Sama-Bajau**\n**hh:w:Nuraini:Indonesian-Bajo**\n**sil16:45197**"
+  },
+  "altnames": {
+    "wals": "\nBajau",
+    "wals other": "\nSama Bajau",
+    "ruhlen (1987)": "\nSama Bajau",
+    "moseley & asher (1994)": "\nOrang Laut",
+    "multitree": "\nBadjaw\nBadjo\nBajao\nBajau\nBajau (Indonesian)\nBajau, Indonesian\nBajo\nBayo\nGaj\nLuaan\nLutaos\nLutayaos\nOrang Laut\nSama\nTurije'ne'",
+    "lexvo": "\nIndonesian Bajau [en]",
+    "hhbib_lgcode": "\nBajau-Indonesian\nBajo\nBajo de Sapeken\nBajo of Pulau Nain (Sulawesi Utara)\nRampa Bajau in Kota Baru Kalimantan Selatan"
+  },
+  "triggers": {
+    "lgcode": "\nNOT west AND bajau\nkangean"
+  },
+  "identifier": {
+    "wals": "baj",
+    "multitree": "bdl"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Pallesen:Convergence**",
+    "subrefs": "\n**hh:hvw:Pallesen:Convergence**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bajau, Indonesian (bdl-bdl) = 6b (Threatened)."
+  }
+}

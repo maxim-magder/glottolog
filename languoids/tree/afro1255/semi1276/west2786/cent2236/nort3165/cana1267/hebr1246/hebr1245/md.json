@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Modern Hebrew",
+    "hid": "heb",
+    "level": "language",
+    "iso639-3": "heb",
+    "latitude": "31.1056",
+    "longitude": "35.0179",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "JO",
+      "LB",
+      "PS",
+      "SY"
+    ],
+    "links": "\n[Hebrew (Modern Ashkenazic)](https://wals.info/languoid/lect/wals_code_hba)\n[Hebrew (Modern)](https://wals.info/languoid/lect/wals_code_heb)\n[Modern Hebrew](https://grambank.clld.org/languages/hebr1245)\n[Modern Hebrew](https://lexibank.clld.org/languages/northeuralex-heb)\nhttps://en.wikipedia.org/wiki/Modern_Hebrew\nhttps://phoible.org/languages/hebr1245\nhttps://www.wikidata.org/entity/Q8141"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bat-el:05**\n**cldf:bat-el:96:1**\n**cldf:bat-el:96:2**\n**cldf:bergman:68**\n**cldf:berman:76**\n**cldf:bolkestein:degroot:etal:ed:85:2**\n**cldf:bolozky:78**\n**cldf:bolozky:82**\n**cldf:bolozky:97**\n**cldf:chayen:73**\n**cldf:dahl:85**\n**cldf:devens:01:2**\n**cldf:ehrich:vater:ed:88**\n**cldf:inkelas:90**\n**cldf:kleinhenz:ed:96:1**\n**cldf:kopelovich:82**\n**cldf:malherbe:rosenberg:96**\n**cldf:malygina:01**\n**cldf:rosen:62**\n**cldf:rosen:77**\n**cldf:simon:79:1**\n**eballiso2009:11940**\n**eballiso2009:20012**\n**eballiso2009:2133**\n**eballiso2009:29087**\n**eballiso2009:29088**\n**eballiso2009:29090**\n**eballiso2009:3419**\n**eballiso2009:35508**\n**eballiso2009:38241**\n**eballiso2009:42517**\n**eballiso2009:46695**\n**eballiso2009:56008**\n**eballiso2009:56010**\n**eballiso2009:57058**\n**eballiso2009:9077**\n**eballiso2009:9605**\n**hh:g:Berman:Modern-Hebrew**\n**hh:g:CoffinBolozky:Modern-Hebrew**\n**hh:g:Glinert:Modern-Hebrew**\n**hh:g:Glinert:Modern-Hebrew:1991**\n**hh:g:Glinert:Modern-Hebrew:1994**\n**hh:g:Glinert:Modern-Hebrew:2005**\n**hh:g:Prince:Tiberian**\n**hh:hv:Bleek:Africae:Generibus**\n**hh:hv:Rabin:Semitic**\n**hh:hvs:Belova:Semitskie**\n**hh:phon:Akun:Hebrew-Jews-Morocco**\n**hh:s:Aikhenvald:Ivrit**\n**hh:s:Berman:Modern-Hebrew**\n**hh:s:Schwarzwald:Modern-Hebrew**\n**hh:s:ZhakevichKantor:Modern-Hebrew**\n**hh:typ:Rapoport:Hebrew**\n**hh:vtyp:Kheir:Druze**\n**ldh:item_401166**\n**ldh:item_403112**\n**mpieva:2002Speaking**\n**mpieva:2002Themesin**\n**mpieva:Ajchenvald1990Sovremen**\n**mpieva:Blau2007Biblical**\n**mpieva:Churchyard1999Topicsin**\n**mpieva:Coetzee1999Tiberian**\n**mpieva:Driver1998Atreatis**\n**mpieva:Glinert1999ModernHe**\n**mpieva:Kramer2005Einfuhru**\n**mpieva:Murtonen19861990Hebrewin**\n**mpieva:Rabin2000Thedevel**\n**mpieva:Ravid1995Language**\n**mpieva:SaenzBadillow1996Ahistory**\n**mpieva:Saulson1979Institut**\n**mpieva:Shlonsky1987Nullandd**\n**mpieva:Shlonsky1997Clausest**\n**phoible:CohenZafrani1968**\n**sil16:45009**"
+  },
+  "altnames": {
+    "wals": "\nHebrew (Modern Ashenazic)\nHebrew (Modern)",
+    "wals other": "\nHebrew (modern Ashkenazic)\nModern Hebrew",
+    "ruhlen (1987)": "\nIsraeli Hebrew",
+    "moseley & asher (1994)": "\nHebrew",
+    "multitree": "\nHebrew\nHebrew (Modern Ashenazic)\nHebrew (Modern)\nIvrit\nModern Hebrew",
+    "lexvo": "\nHebrew [en]\nhébreu [fr]",
+    "hhbib_lgcode": "\nDruze Language in Israel\nHebrew\nPalebrew\nSovremennyj Ivrit"
+  },
+  "triggers": {
+    "lgcode": "\ncopular\npairing\nhebraische\nmasoretic\nhnty\nmodern AND hebrew\nsummos\ntiberian\nstatistically\nhebrewisms\ncalde\nivrit\naccusativi"
+  },
+  "identifier": {
+    "wals": "heb;hba",
+    "multitree": "heb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Kogan:Semitic:2015**",
+    "subrefs": "\n**hh:hvw:Kogan:Semitic:2015**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hebrew (heb-heb) = 1 (National). Statutory national language (1922, Palestine Order in Council, Article 82, 10 October)."
+  }
+}

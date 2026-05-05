@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gvoko",
+    "hid": "ngs",
+    "level": "language",
+    "iso639-3": "ngs",
+    "latitude": "10.9918",
+    "longitude": "13.7537",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3441188\nhttps://en.wikipedia.org/wiki/Gvoko_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hvwld:Kim:Dghwede-Guduf-Gvoko**\n**hh:hw:Wolff:Gwoza**\n**hh:w:Buchner:Gava**\n**hh:w:Hamm:Glavda-Cineni**\n**hh:w:Hamm:GvokoGuduf**\n**hh:wsoc:Hamm:Glavda-Cineni:2024**"
+  },
+  "altnames": {
+    "multitree": "\nGavoko\nGevoko\nGhboko\nGvoko\nKuvoko\nNggweshe\nNgoshe Sama\nNgoshe-Ndhang\nNgoshi\nNgossi\nNgweshe\nNgweshe-Ndaghan",
+    "lexvo": "\nGvoko [en]\nGvoko language [en]",
+    "hhbib_lgcode": "\nGanda-Ghboko\nGelavda-Ngoshie\nGevoko\nGhboko\nNgoshie"
+  },
+  "triggers": {
+    "lgcode": "\ngvoko"
+  },
+  "identifier": {
+    "multitree": "ngs"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:51-53",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gvoko (ngs-ngs) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mungaka",
+    "hid": "mhk",
+    "level": "language",
+    "iso639-3": "mhk",
+    "latitude": "5.89752",
+    "longitude": "10.0294",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mungaka](https://lexibank.clld.org/languages/polyglottaafricana-Mungaka)\n[Mungaka](https://wals.info/languoid/lect/wals_code_mgk)\nhttps://en.wikipedia.org/wiki/Nga%CA%BCka_language\nhttps://phoible.org/languages/mung1266\nhttps://www.wikidata.org/entity/Q36068"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ankermann:10**\n**cldf:covarrubias:37**\n**cldf:gerhardt:98**\n**cldf:hutter:99**\n**cldf:kaberry:52**\n**eballiso2009:10429**\n**eballiso2009:12470**\n**eballiso2009:1612**\n**eballiso2009:2101**\n**eballiso2009:25415**\n**eballiso2009:26565**\n**eballiso2009:30568**\n**eballiso2009:34788**\n**eballiso2009:34790**\n**eballiso2009:37527**\n**eballiso2009:37640**\n**eballiso2009:39679**\n**eballiso2009:39680**\n**eballiso2009:43536**\n**eballiso2009:51726**\n**eballiso2009:55021**\n**eballiso2009:57562**\n**hh:b:Jeffreys:Bali**\n**hh:ewtyp:Hutter:Kamerun**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hv:BlenchHamm:Nun**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Latham:African:Recent**\n**hh:hvw:Meinhof:Kamerun**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:Ngueffo:Bapi**\n**hh:phon:Nusi:Ti**\n**hh:s:Vielhauer:Bali**\n**hh:sd:Tischhauser:Mungaka**\n**hh:soc:Sema:Mungaka**\n**hh:t:Kahler-Meyer:Bali**\n**hh:typ:Hombert:Noun**\n**hh:typ:Nahjella:Mungaka**\n**hh:typ:Ndangam:Mungaka**\n**hh:v:Kiessling:Mungaka**\n**hh:w:Zintgraff:Bali**"
+  },
+  "altnames": {
+    "wals": "\nMungaka",
+    "ruhlen (1987)": "\nMungaka",
+    "moseley & asher (1994)": "\nMungaka",
+    "multitree": "\nBali\nLi\nMunga'ka\nMungaka\nNga'ka\nNgaaka",
+    "lexvo": "\nMungaka [en]",
+    "hhbib_lgcode": "\nBagba\nBaioṅ (in Cameroon)\nBali\nBalu\nBandeng\nBapi\nBapi appx 5.5363 lat 10.3269 long (NW of Bafoussam)\nBati\nBayon Pati of the Polyglotta perhaps Mungaka\nBayon of the Polyglotta\nMungaka_Grassfields\nMunggaka-Bali\nNgaaka\nPati\nTi"
+  },
+  "triggers": {
+    "lgcode": "\nbalisprache\nmungaka\nnyonga"
+  },
+  "identifier": {
+    "wals": "mgk",
+    "multitree": "mhk"
+  },
+  "classification": {
+    "sub": "**hh:hv:BlenchHamm:Nun** **hh:v:Kiessling:Mungaka**",
+    "subrefs": "\n**hh:hv:BlenchHamm:Nun**\n**hh:v:Kiessling:Mungaka**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mungaka (mhk-mhk) = 6a* (Vigorous)."
+  }
+}

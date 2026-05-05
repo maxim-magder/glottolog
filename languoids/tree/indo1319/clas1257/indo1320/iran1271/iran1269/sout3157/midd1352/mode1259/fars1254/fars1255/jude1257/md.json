@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Judeo-Persian",
+    "hid": "jpr",
+    "level": "language",
+    "iso639-3": "jpr",
+    "latitude": "31.45071",
+    "longitude": "43.57147",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "IR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33367\nhttps://en.wikipedia.org/wiki/Judeo-Persian",
+    "timespan": "0700-01-01/1100-01-01"
+  },
+  "classification": {
+    "sub": "**hh:s:Paul:Judeo-Persian**",
+    "subrefs": "\n**hh:s:Paul:Judeo-Persian**"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:19327**\n**eballiso2009:40224**\n**eballiso2009:6142**\n**hh:dial:Lazard:Judeo-Persan**\n**hh:h:Lazard:Judeo-Persian**\n**hh:hldsoc:Borjian:Judeo-Iranian**\n**hh:s:Paul:Judeo-Persian**\n**hh:sv:Paul:Judeo-Persian**\n**hh:t:Asmussen:Jewish-Persian**\n**hh:t:Gindin:Judaeo-Persian**\n**hh:t:Gnoli:Giudeo-Persiane**\n**hh:t:Paper:Judeo-Persian**\n**hh:typ:Paul:Judeo-Persian**\n**hh:typ:Paul:Judeo-Persian:2021**\n**hh:v:Paul:Judeo-Persian:2003**\n**hh:w:Mainz:Judeo-Persan**"
+  },
+  "altnames": {
+    "multitree": "\nDjudi\nDzhidi\nJudeo-Persian\nJudi",
+    "lexvo": "\nJudeo-Persian [en]\njudéo-persan [fr]",
+    "hhbib_lgcode": "\nJudaeo-Persian"
+  },
+  "triggers": {
+    "lgcode": "\ngeniza"
+  },
+  "identifier": {
+    "multitree": "jpr",
+    "endangeredlanguages": "4339"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2022-08-02T21:11:32",
+    "comment": "Early Judeo-Persian (jpr-jpr) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Katang",
+    "hid": "kgd",
+    "level": "family",
+    "iso639-3": "kgd",
+    "latitude": "16.1823",
+    "longitude": "106.459",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953622"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2016-021**"
+  },
+  "altnames": {
+    "multitree": "\nKataang\nKatang\nKattang",
+    "lexvo": "\nKataang [en]"
+  },
+  "identifier": {
+    "multitree": "kgd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gehrmann:West-Katuic**:46-48",
+    "subrefs": "\n**hh:hv:Gehrmann:West-Katuic**"
+  },
+  "iso_retirement": {
+    "change_request": "2016-021",
+    "remedy": "Split into [ncq] Northern Katang and [sct] Southern Katang",
+    "code": "kgd",
+    "name": "Kataang",
+    "effective": "2017-01-31",
+    "reason": "split",
+    "change_to": "\nncq\nsct"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Chuj",
+    "hid": "cac",
+    "level": "language",
+    "iso639-3": "cac",
+    "latitude": "15.8399",
+    "longitude": "-91.76",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT",
+      "MX"
+    ],
+    "links": "\n[Chuj](https://endangeredlanguages.com/lang/3467)\n[Chuj](https://grambank.clld.org/languages/chuj1250)\n[Chuj](https://wals.info/languoid/lect/wals_code_chj)\nhttps://en.wikipedia.org/wiki/Chuj_language\nhttps://www.wikidata.org/entity/Q35233"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4564**\n**asjp2010:4992**\n**cldf:adelaar:07:2**\n**cldf:buenrostro:91**\n**cldf:diego:98**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:09:1**\n**cldf:np:nd:264**\n**cldf:ostler:rudes:ed:00:7**\n**cldf:pellicer:05**\n**cldf:richards:03**\n**hh:d:ALMG:Chuj**\n**hh:g:Hopkins:Chuj**\n**hh:hv:Mayers:Mayan**\n**hh:hv:VielmanMayers:Guatemala**\n**hh:hvwb:Campbell:SEChiapas**\n**hh:phon:Raymundo:Chuj-Qanjobal**\n**hh:s:Buenrostro:Chuj-San-Mateo-Ixtatan**\n**hh:s:Lett:San-Sebastian-Coatan-Chuj**\n**hh:s:Royer:Chuj**\n**hh:s:WilliamsWilliams:Chuj**\n**hh:ssoc:Maxwell:Market-Chuj**\n**hh:t:Hopkins:Chuj**\n**hh:typ:Buenrostro:Chuj**\n**hh:typ:Lett:San-Sebastian-Coatan-Chuj:2021**\n**hh:w:DienhartMichaelsen:Chuj**\n**iso6393:2008-050**\n**sil16:10031**\n**sil16:10047**\n**sil16:12738**\n**sil16:12741**\n**sil16:12742**\n**sil16:13430**\n**sil16:13431**\n**sil16:13432**\n**sil16:13433**\n**sil16:13434**\n**sil16:13435**\n**sil16:13436**\n**sil16:13437**\n**sil16:13438**\n**sil16:13439**\n**sil16:13440**\n**sil16:13441**\n**sil16:13442**\n**sil16:13443**\n**sil16:22974**\n**sil16:24216**\n**sil16:24217**\n**sil16:24218**\n**sil16:24219**\n**sil16:33545**"
+  },
+  "altnames": {
+    "multitree": "\nChuj\nChuj, San Sebastián Coatán",
+    "lexvo": "\nChuj [cs]\nChuj language [en]\nIdioma chuj [es]\nJęzyk chuj [pl]\nLíngua chuj [pt]\nЧухски јазик [mk]\n祖赫語 [zh]",
+    "elcat": "\nChuj",
+    "hhbib_lgcode": "\nSan Mateo Ixtatán Chuj\nSan Sebastián Coatán Chuj"
+  },
+  "triggers": {
+    "lgcode": "\nmayers\nchuljub\njaboc\ntzqui\ncoatan\ntzach\ntacn\nyailni\nchuj\nsicya\ncaw"
+  },
+  "identifier": {
+    "multitree": "cac",
+    "endangeredlanguages": "3467"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Chuj (3467) = Vulnerable (20 percent certain, based on the evidence available) [Richards 2003](cldf:richards:03)"
+  }
+}

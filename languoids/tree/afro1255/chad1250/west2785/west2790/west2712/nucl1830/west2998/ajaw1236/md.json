@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ajawa",
+    "hid": "ajw",
+    "level": "language",
+    "iso639-3": "ajw",
+    "latitude": "10.21",
+    "longitude": "9.89205",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56645\nhttps://en.wikipedia.org/wiki/Ajawa_language",
+    "timespan": "1940-01-01/1940-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:23408**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:h:Haruna:Moribund-Nigeria**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Gunn:Pagan-Central**\n**hh:hel:Sommer:Survey**"
+  },
+  "altnames": {
+    "multitree": "\nAja\nAjanci\nAjawa",
+    "lexvo": "\nAjawa [ca]\nAjawa jezik [hr]\nAjawa language [en]\nLingua ajawa [gl]",
+    "hhbib_lgcode": "\nAjawa-Ajanci\nAjawa/Ajanci"
+  },
+  "triggers": {
+    "lgcode": "\non AND bauchi"
+  },
+  "identifier": {
+    "multitree": "ajw"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Skinner:NBauchi**",
+    "subrefs": "\n**hh:hvw:Skinner:NBauchi**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ajawa (ajw-ajw) = 10 (Extinct)."
+  }
+}

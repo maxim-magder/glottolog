@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wasembo",
+    "hid": "gsp",
+    "level": "language",
+    "iso639-3": "gsp",
+    "latitude": "-6.01318",
+    "longitude": "145.969",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7971402\nhttps://en.wikipedia.org/wiki/Wasembo_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Smith:Morobe**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:v:Jones:Horokoi**\n**hh:vld:McElhanon:Isolates**\n**hh:w:McElhanonSogum:Wasembo**\n**silpng:silpng1956-1990:linguistics_and_anthropology625**"
+  },
+  "altnames": {
+    "multitree": "\nBiapim\nGusap\nWasembo\nYankowan",
+    "lexvo": "\nWasembo [en]",
+    "hhbib_lgcode": "\nGusop\nHorokoi"
+  },
+  "triggers": {
+    "lgcode": "\nwasembo"
+  },
+  "identifier": {
+    "multitree": "waso;gsp"
+  },
+  "classification": {
+    "sub": "**hh:v:Jones:Horokoi** **hh:hv:ClaassenMcElhanon:Finisterre**:49",
+    "subrefs": "\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:v:Jones:Horokoi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wasembo (gsp-gsp) = 6a* (Vigorous)."
+  }
+}

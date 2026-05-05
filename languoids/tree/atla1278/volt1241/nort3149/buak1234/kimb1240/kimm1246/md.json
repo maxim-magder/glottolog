@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kim",
+    "hid": "kia",
+    "level": "language",
+    "iso639-3": "kia",
+    "latitude": "9.79442",
+    "longitude": "15.8936",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Kim](https://endangeredlanguages.com/lang/4389)\n[Kim](https://grambank.clld.org/languages/kimm1246)\n[Kosop](https://wals.info/languoid/lect/wals_code_ksp)\nhttps://en.wikipedia.org/wiki/Kim_language\nhttps://www.wikidata.org/entity/Q35685"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lafarge:77**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**eballiso2009:15029**\n**eballiso2009:15030**\n**hh:e:Cabot:Kim**\n**hh:e:Vossart:Bongor**\n**hh:hew:LafargeSeignobos:Kim**\n**hh:hv:Hoffmann:Masa-Kim**\n**hh:hvw:Boyd:Adamawa:1988**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:phon:Lafarge:Kim**\n**hh:s:Iberg:Kuasap**\n**hh:s:Mouchet:Juman**"
+  },
+  "altnames": {
+    "wals": "\nKosop",
+    "ruhlen (1987)": "\nKim",
+    "moseley & asher (1994)": "\nKim",
+    "multitree": "\nGroup 14\nKim\nKosop\nKwasap\nMasa",
+    "lexvo": "\nKim [en]",
+    "hhbib_lgcode": "\nGerep\nJuman\nKosop\nMasa\nMasa of Mecklenburg",
+    "elcat": "\nKim\nKosop\nKuasap\nKwasap\nMasa"
+  },
+  "triggers": {
+    "lgcode": "\nNOT language AND NOT the AND NOT survey AND kim\ngerep\ndjouman\nkosop\nkuasap\njuman"
+  },
+  "identifier": {
+    "wals": "ksp",
+    "multitree": "kia;kia-kos;kimx",
+    "endangeredlanguages": "4389"
+  },
+  "classification": {
+    "sub": "**hh:w:Roberts:Goundo**",
+    "subrefs": "\n**hh:w:Roberts:Goundo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kim (4389-kia) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

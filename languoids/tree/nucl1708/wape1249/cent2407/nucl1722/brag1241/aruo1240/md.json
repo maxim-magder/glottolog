@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Srenge",
+    "hid": "lsr",
+    "level": "language",
+    "iso639-3": "lsr",
+    "latitude": "-3.45782",
+    "longitude": "142.478",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Aruop](https://endangeredlanguages.com/lang/10551)\nhttps://www.wikidata.org/entity/Q3450566\nhttps://en.wikipedia.org/wiki/Aruop_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:g:Jodar:Srenge**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:w:Laycock:C3**"
+  },
+  "altnames": {
+    "multitree": "\nAlatil\nAruop\nLau'u\nLauisaranga",
+    "lexvo": "\nAruop [en]",
+    "hhbib_lgcode": "\nAruop",
+    "elcat": "\nAlatil\nAruop\nLau'u\nLauisaranga\nLausurankin\nLawu Srenge\nSrenge"
+  },
+  "identifier": {
+    "multitree": "lsr",
+    "endangeredlanguages": "10551"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Laycock:Lumi**:48 and p.c. Jennifer Wilson",
+    "subrefs": "\n**hh:hvw:Laycock:Lumi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aruop (10551-lsr) = Endangered (60 percent certain, based on the evidence available) (Most adults over the age of 30.) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

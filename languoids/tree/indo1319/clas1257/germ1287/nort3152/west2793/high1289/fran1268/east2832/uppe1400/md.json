@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Central East Middle German",
+    "hid": "sxu",
+    "level": "language",
+    "iso639-3": "sxu",
+    "latitude": "51.152",
+    "longitude": "12.692",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://phoible.org/languages/uppe1400"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Jecht:Mansfelder**\n**hh:d:Losch:Thuringisches**\n**hh:d:Muller:Obersachsischen**\n**hh:dial:Protze:Westlausitzische**\n**hh:dial:Spangenberg:Thuringian**\n**hh:hphon:Benesch:Schonhengster**\n**hh:hv:Siebenhaar:Ostmitteldeutsch**\n**hh:phon:Halbsguth:Jauer**\n**hh:phonv:Becker:Sachsische**\n**hh:phonv:Schirmer:Nordthuringischen**\n**hh:phonv:Schonfeld:Fuhnegebiet**\n**hh:s:Bergmann:Upper-Saxon**\n**hh:s:Bergmann:Vorerzgebirgische**\n**hh:s:Borchers:Erzgebirgischen-Oberharz**\n**hh:s:Bruch:Schassburg-Siebenburgen**\n**hh:s:Grosse:Meissnische**\n**hh:s:Kiessling:Schirgiswalde**\n**hh:s:Miess:Jot**\n**hh:s:Scheiner:Mediascher**\n**hh:s:Scheiner:Siebenburger**\n**hh:s:Seibicke:Nordobersachsischen**\n**hh:s:Spangenberg:Thuringen**\n**hh:s:Spangenberg:Thuringian**\n**hh:s:Sperschneider:Thuringer**\n**hh:sd:Albrecht:Leipziger**\n**hh:sv:Langner:Wittenberg**\n**hh:t:Heidler:Erzgebirgisch**\n**hh:t:Scheiner:Hermannstadt**\n**hh:td:Hertel:Thuringer**"
+  },
+  "altnames": {
+    "multitree": "\nSaxon, Upper\nUpper Saxon",
+    "lexvo": "\nAlto sassone [it]\nHoegsaksisch [li]\nHoogsaksisch [nl]\nSachsiska [sv]\nUpper Saxon German [en]\nUpper Saxon [en]\nВерхнесаксонский диалект [ru]",
+    "hhbib_lgcode": "\nAnhaltisch\nBarchfeld an der Werra\nEast Middle German\nEast Thuringian\nErzgebirgisch\nErzgebirgischen Kolonie im Oberharz\nErzgebirschen\nFrankenhausen-Sondershausen\nFriedersdorf\nFuhnegebier\nHessian\nJot\nLeipzig\nMansfelder\nMediasch\nMeißnische\nNordthüringischen\nNorth Upper Saxon\nOstmitteldeutsch\nRheinfränkische Mundart der Großgemeinde Lovrin im rumänischen Banat\nRhon-Eichsfeld\nSachsen von Hermannstadt\nSaxon-Upper\nSchässburg in Siebenbürgen\nSiebenbürgen\nSächsische\nThuringer\nThuringian\nThüringisches\nUpper Saxon\nVorerzgebirgische\nWestlausitzische und Ostmeißnische\nWittenberg",
+    "glottolog": "\nUpper Saxon"
+  },
+  "triggers": {
+    "lgcode": "\nwittenberg\nfulda\nmannheimer\numland\nrhon\nhessian\nthuringian\ndarmstadt\nthuringer\nnordobersachsischen\neichsfeld\nobersachsischen\nhessisch\nfuhnegebiet\npfungstadt"
+  },
+  "identifier": {
+    "multitree": "sxu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:859-862 (Thuringian) **hh:hv:Wiesinger:Deutschen**:862-865 (Upper Saxon) **hh:hv:Wiesinger:Deutschen**:871-872 (High East Prussian) **hh:hv:Wiesinger:Deutschen**:865-869 (Nordobersächsisch-Südmärkisch)",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saxon, Upper (sxu-sxu) = 6a* (Vigorous)."
+  }
+}

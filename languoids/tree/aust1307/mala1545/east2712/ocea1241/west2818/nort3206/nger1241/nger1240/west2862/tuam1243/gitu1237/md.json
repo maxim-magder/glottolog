@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gitua",
+    "hid": "ggt",
+    "level": "language",
+    "iso639-3": "ggt",
+    "latitude": "-6.0151",
+    "longitude": "147.485",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Gitua](https://lexibank.clld.org/languages/abvdoceanic-Gitua)\nhttps://en.wikipedia.org/wiki/Gitua_language\nhttps://www.wikidata.org/entity/Q3107865"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lincoln:77**\n**hh:hld:Smith:Morobe**\n**hh:hv:Chowning:Refugees**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:w:Carteretal:Mur**\n**hh:w:Lincoln:Gitua**\n**hh:wsoc:Carteretal:Malalamai**"
+  },
+  "altnames": {
+    "multitree": "\nGitoa\nGitua\nKelana",
+    "lexvo": "\nGitua [en]",
+    "hhbib_lgcode": "\nKelana"
+  },
+  "triggers": {
+    "lgcode": "\nkunai\ngitua"
+  },
+  "identifier": {
+    "multitree": "ggt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:Northwest-New-Britain:2014**",
+    "subrefs": "\n**hh:hv:Ross:Northwest-New-Britain:2014**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gitua (ggt-ggt) = 6a (Vigorous)."
+  }
+}

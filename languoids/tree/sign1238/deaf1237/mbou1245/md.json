@@ -1,0 +1,26 @@
+{
+  "core": {
+    "name": "Mbour Sign Language",
+    "hid": "NOCODE_Mbour-Sign",
+    "level": "language",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "longitude": "-16.970045",
+    "latitude": "14.420649",
+    "links": "\nhttps://www.wikidata.org/entity/Q6799770\nhttps://en.wikipedia.org/wiki/Mbour_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Nyst:Sign-West-Africa**\n**hh:s:Jirou:Mbour**\n**hh:wld:Jirou:Mbour**"
+  },
+  "triggers": {
+    "lgcode": "\nmbour"
+  },
+  "classification": {
+    "sub": "Said to be ``local'' according to **hh:h:Asonye:Sign-Africa(**):787 and **hh:h:Nyst:Sign-West-Africa(**):406 but without pointing to underlying evidence.",
+    "subrefs": "\n**hh:h:Nyst:Sign-West-Africa**\n**hh:h:Asonye:Sign-Africa**"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Zamba",
+    "hid": "NOCODE_Zamba",
+    "level": "language",
+    "latitude": "1.25",
+    "longitude": "18.3",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Zamba](https://grambank.clld.org/languages/zamb1245)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:deBoeck:Ngiri**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:deBoeck:Classification**\n**hh:ld:Kamanda:Zamba**\n**hh:ld:Kamanda:Zamba:Augment**\n**hh:phon:Bokamba:Dzamba**\n**hh:s:Kamanda:Zamba**\n**hh:s:Mangulu:Zamba**\n**hh:typ:Bokamba:Bantu-Question**\n**hh:typ:Bokamba:Dzamba**\n**hh:typ:Yoy:Dzamba**"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:185-189 **hh:hv:Bastinetal:Bantu**:205",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nC322_Zamba\nDzamba\nDzamba-Makutu\nZamba C31Z\nZámba"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "Glottolog",
+    "date": "2025-10-20T09:27:48",
+    "comment": "Zamba (NOCODE_Zamba-NOCODE_Zamba) = 6b (Threatened)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Zamba (or Dzamba) is a language of the Ngiri area of DRC (**hh:hv:Mangulu:Ngiri**:16, **hh:s:Kamanda:Zamba**:1-3). Consistent with the impression from sociolinguistics, lexicostatistical figures indicate that Zamba is not intelligible to the varieties around it (**hh:hv:Bastinetal:Bantu**:205). The language is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Zamba"
+  }
+}

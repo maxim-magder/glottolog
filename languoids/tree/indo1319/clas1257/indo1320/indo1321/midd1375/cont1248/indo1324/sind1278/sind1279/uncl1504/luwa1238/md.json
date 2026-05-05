@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Luwati",
+    "hid": "luv",
+    "level": "language",
+    "iso639-3": "luv",
+    "latitude": "23.6322",
+    "longitude": "58.4916",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "OM"
+    ],
+    "links": "\n[Luwati](https://endangeredlanguages.com/lang/4540)\nhttps://www.wikidata.org/entity/Q33402\nhttps://en.wikipedia.org/wiki/Luwati_language"
+  },
+  "classification": {
+    "sub": "**hh:ld:SalmanKharusi:Lawatiyya**",
+    "subrefs": "\n**hh:ld:SalmanKharusi:Lawatiyya**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Aljahdhami:Oman**\n**hh:h:Peterson:Oman**\n**hh:ld:SalmanKharusi:Lawatiyya**\n**hh:phon:SalmanKharusi:Lawatiyya**\n**hh:vw:Jahdhami:Maimani-Lawati**"
+  },
+  "altnames": {
+    "multitree": "\nKhojki\nLuvatí\nLuwati",
+    "lexvo": "\nLuwati [en]",
+    "hhbib_lgcode": "\nLawati\nLawatiyya\nLawatiyya or Khojas\nMaimani",
+    "elcat": "\nKhojki\nLawatiya\nLawatiyya\nLuwati"
+  },
+  "triggers": {
+    "lgcode": "\nlawatiyya"
+  },
+  "identifier": {
+    "multitree": "luv",
+    "endangeredlanguages": "4540"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Luwati (4540-luv) = Vulnerable (20 percent certain, based on the evidence available) [Salman and Kharusi 2012](cldf:salman:kharusi:12)"
+  }
+}

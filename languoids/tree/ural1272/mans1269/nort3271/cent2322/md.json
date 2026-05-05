@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Central Mansi",
+    "level": "language",
+    "hid": "NOCODE_Central-Mansi",
+    "longitude": "62.4023",
+    "latitude": "61.1432",
+    "countries": [
+      "RU"
+    ],
+    "macroareas": [
+      "Eurasia"
+    ],
+    "links": "\n[Central Mansi](https://grambank.clld.org/languages/cent2322)\n[Eastern Mansi](https://endangeredlanguages.com/lang/8530)"
+  },
+  "classification": {
+    "sub": "**hh:hv:Honti:Wogulischen**",
+    "subrefs": "\n**hh:hv:Honti:Wogulischen**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern Mansi (8530) = Severely Endangered (80 percent certain, based on the evidence available) [Salminen 2000](cldf:salminen:00)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nE Mansi\nEast Mansi\nEastern Mansi\nEastern Mansi (Konda)\nJukonda\nKonda\nKonda Mansi\nKondai Vogul\nMiddle Konda\nNordvagilsk\nPelimi Vogul\nPelymka\nWest Mansi\nWestmansisch\nWestwogulische",
+    "elcat": "\nEastern Man'si\nEastern Mansi\nEastern Vogul\nKonda\nвогульский язык\nвосточно-мансийский язык\nкондинский-мансийский язык\nманьси\nмоаньсь"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:salminen:00**\n**hh:d:Ahlqvist:Wogulisches**\n**hh:g:Eichinger:Westmansisch**\n**hh:ld:Biro:Mansi**\n**hh:s:Forsberg:East-Mansi**\n**hh:s:Forsberg:Eastern-Mansi**\n**hh:s:Honti:Wogulische**\n**hh:s:Munkacsi:Vogul**\n**hh:s:Wolfauer:Nordvagilsker**\n**hh:st:Ahlqvist:Wogulische**\n**hh:t:Kalman:Wogulische**\n**hh:typ:Virtanen:Eastern-Mansi**"
+  }
+}

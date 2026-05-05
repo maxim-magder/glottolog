@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ngiti",
+    "hid": "niy",
+    "level": "language",
+    "iso639-3": "niy",
+    "latitude": "1.30455",
+    "longitude": "30.2242",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "UG"
+    ],
+    "links": "\n[Ngiti](https://grambank.clld.org/languages/ngit1239)\n[Ngiti](https://wals.info/languoid/lect/wals_code_nti)\nhttps://en.wikipedia.org/wiki/Ngiti_language\nhttps://phoible.org/languages/ngit1239\nhttps://www.wikidata.org/entity/Q7022396"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Kutsch:Ngiti**\n**hh:hb:Kadima:Congo**\n**hh:hwb:BokulaIrumu:Moru-Mangbetu**\n**hh:phontyp:Ndodu:Ngiti**\n**hh:s:Duzoro:Indru**\n**hh:typ:Gombi:Lendu-Indruna**\n**hh:w:Kutsch:Lendu**\n**sil16:34108**\n**sil16:36742**"
+  },
+  "altnames": {
+    "wals": "\nNgiti",
+    "ruhlen (1987)": "\nDru",
+    "moseley & asher (1994)": "\nBalendru",
+    "multitree": "\nBindi\nDruna\nKingeti\nKingiti\nLendu-Sud\nNdruna\nNgeti\nNgiti",
+    "lexvo": "\nNgiti [en]",
+    "hhbib_lgcode": "\nIndruna (Ndruna)\nIndruna (ngiti)\nNdru"
+  },
+  "triggers": {
+    "lgcode": "\nndruna\nngiti"
+  },
+  "identifier": {
+    "wals": "nti",
+    "multitree": "niy"
+  },
+  "classification": {
+    "sub": "**hh:hv:BoyeldieuNougayrol:CSudanic** **hh:hv:Boyeldieu:CSudanic:Labiovelar** **hh:hv:Boyeldieu:Central-Sudanic**",
+    "subrefs": "\n**hh:hv:Boyeldieu:CSudanic:Labiovelar**\n**hh:hv:BoyeldieuNougayrol:CSudanic**\n**hh:hv:Boyeldieu:Central-Sudanic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngiti (niy-niy) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Masikoro Malagasy",
+    "hid": "msh",
+    "level": "language",
+    "iso639-3": "msh",
+    "latitude": "-22.5582",
+    "longitude": "43.8156",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MG"
+    ],
+    "links": "\n[Masikoro](https://lexibank.clld.org/languages/servamalagasy-MasikoroMiary)\nhttps://www.wikidata.org/entity/Q1976816"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kelly:poyer:93**\n**hh:d:Poirot:Vezo**\n**hh:dial:Rabenilaina:Vezo**\n**hh:e:Astuti:Vezo**\n**hh:e:Astuti:Vezo:1995**\n**hh:e:Aubry:Sakalava**\n**hh:e:Birkeli:Madagascar**\n**hh:e:DinaHoerner:Mikea**\n**hh:e:Fanony:Mikea**\n**hh:e:Kelly:Mikea:1999**\n**hh:e:Kellyetal:Mikea**\n**hh:e:Koechlin:Vezo**\n**hh:e:Marikandia:Vezo**\n**hh:e:Molet:Mikea**\n**hh:e:PoyerKelly:Mikea**\n**hh:e:Stiles:Mikea**\n**hh:e:Stiles:Mikea:1991**\n**hh:e:Stiles:Mikea:1998**\n**hh:e:Tucker:Masikoro-Mikea-Vezo**\n**hh:e:Tucker:Mikea**\n**hh:e:Tucker:Mikea-Origins**\n**hh:e:Wahlen:Sakalava**\n**hh:e:Yount:Mikea**\n**hh:el:Gernbock:Mikea**\n**hh:hv:Servaetal:Malagasy**\n**hh:hv:Verinetal:Malagasy**\n**hh:hvw:ServaPasquini:Madagascar:2020**\n**hh:phond:Poirot:Vezo**\n**hh:s:Vultur:Vezo**\n**hh:st:Dahl:Sakalava**\n**hh:t:RaharinjanaharyVelonandro:Masikoro**"
+  },
+  "altnames": {
+    "multitree": "\nMalagasy, Masikoro\nMasikoro Malagasy",
+    "lexvo": "\nMasikoro Malagasy [en]",
+    "hhbib_lgcode": "\n12 Sakalava (Morondava)\n17 Masikoro (Miary)\n19 - Masikoro (Miary)\n20 - Sakalava (Morondava)\n22 - Vezo (Toliara)\n28 - Vezo (Morombe)\n45 - Vezo (Morondava)\n7 Vezo (Toliara)\nMalagasy-Masikoro\nMasikoro\nMikea\nSakalava of Morondava\nSakalava-Morondava\nSouth-west coast between St. Augustine's Bay and Morondava\nVezo"
+  },
+  "triggers": {
+    "lgcode": "\nmasikoro\nmikea"
+  },
+  "identifier": {
+    "multitree": "msh"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ServaPasquini:Madagascar:2020**",
+    "subrefs": "\n**hh:hvw:ServaPasquini:Madagascar:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malagasy, Masikoro (msh-msh) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Letemboi-Repanbitip",
+    "hid": "nms",
+    "level": "language",
+    "iso639-3": "nms",
+    "latitude": "-16.4339",
+    "longitude": "167.566",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lendamboi](https://endangeredlanguages.com/lang/10751)\n[Nombotkote (Usus - Melkin)](https://lexibank.clld.org/languages/abvdoceanic-NombotkoteUsusMelkin)\nhttps://en.wikipedia.org/wiki/Lendamboi_language\nhttps://www.wikidata.org/entity/Q3236886"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4537**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:np:15:2**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nLetemboi\nSmall Nambas",
+    "lexvo": "\nLetemboi [en]",
+    "hhbib_lgcode": "\nA-jiaule-ian\nLendamboi\nLetemboi\nMbotkot\nNabwol\nNatangan\nNioleien\nRepanbitip",
+    "elcat": "\nLendamboi\nLetemboi\nSmall Nambas"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "nms",
+    "endangeredlanguages": "10751"
+  },
+  "classification": {
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lendamboi (10751-nms) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

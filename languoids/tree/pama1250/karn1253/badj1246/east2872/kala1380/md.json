@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Bulloo River",
+    "level": "language",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "iso639-3": "gll",
+    "hid": "gll",
+    "links": "\n[Garlali](https://endangeredlanguages.com/lang/4773)\n[Garlali](https://lexibank.clld.org/languages/bowernpny-Garlali)\nhttps://en.wikipedia.org/wiki/Kalali_language\nhttps://phoible.org/languages/kala1380\nhttps://www.wikidata.org/entity/Q5523396",
+    "longitude": "143.929",
+    "latitude": "-28.136",
+    "timespan": "1999-01-01/1999-01-01"
+  },
+  "altnames": {
+    "multitree": "\nGalali\nGarlali\nKalali\nKullali\nKullally",
+    "elcat": "\nGalali\nGarlali\nGaḷali\nKalali\nKullila",
+    "glottolog": "\nKalali",
+    "hhbib_lgcode": "\nBitharra\nBulloo River language\nGarlali\nGarlali (Kalili)\nPitjara\nWonkomarra (= old form of Wangkumara)\noriginal Wangkumara"
+  },
+  "identifier": {
+    "multitree": "nbx-kal",
+    "endangeredlanguages": "4773"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Garlali [gll] of the Wilson river was close enough to the varieties of Ngura [nbx] to be intelligible to it\n(**hh:hv:Breen:Karnic**, **hh:g:McDonaldWurm:Wangkumara**). See also: Wilson River (Grey Range) [nbx].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "gll"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Garlali (4773-gll) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:mcdonald:wurm:79**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hv:Bowern:Karnic:1998**\n**hh:hv:Bowern:Karnic:2001**\n**hh:hvw:Breen:Western-Queensland:1971**\n**hh:w:Myles:Thargominda**\n**hh:w:Sullivan:Lower-Bulloo**\n**iso6393:2012-077**"
+  },
+  "classification": {
+    "sub": "**hh:hv:Breen:Karnic** **hh:hv:Bowern:Karnic:2010** **hh:hv:BowernAtkinson:Pama-Nyungan**:832-833",
+    "subrefs": "\n**hh:hv:Breen:Karnic**\n**hh:hv:BowernAtkinson:Pama-Nyungan**\n**hh:hv:Bowern:Karnic:2010**"
+  }
+}

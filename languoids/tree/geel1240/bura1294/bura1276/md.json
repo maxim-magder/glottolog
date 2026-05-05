@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Burate",
+    "hid": "bti",
+    "level": "language",
+    "iso639-3": "bti",
+    "latitude": "-2.79301",
+    "longitude": "136.038",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Burate](https://endangeredlanguages.com/lang/1409)\nhttps://en.wikipedia.org/wiki/Burate_language\nhttps://www.wikidata.org/entity/Q56900"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Jones:ECenderawasih**\n**hh:w:Clouse:Burate**"
+  },
+  "altnames": {
+    "multitree": "\nBurate",
+    "lexvo": "\nBurate [en]",
+    "elcat": "\nBurate"
+  },
+  "triggers": {
+    "lgcode": "\nburate\ntotoberi\nthe AND cenderawasih"
+  },
+  "identifier": {
+    "multitree": "bti",
+    "endangeredlanguages": "1409"
+  },
+  "classification": {
+    "sub": "**hh:h:Jones:ECenderawasih**",
+    "subrefs": "\n**hh:h:Jones:ECenderawasih**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Burate (1409-bti) = Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sherdukpen",
+    "hid": "sdp",
+    "level": "language",
+    "iso639-3": "sdp",
+    "latitude": "27.0035",
+    "longitude": "92.5799",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Sherdukpen](https://endangeredlanguages.com/lang/5689)\n[Sherdukpen](https://grambank.clld.org/languages/sher1257)\n[Sherdukpen](https://wals.info/languoid/lect/wals_code_shd)\nhttps://en.wikipedia.org/wiki/Sherdukpen_language\nhttps://www.wikidata.org/entity/Q7494785"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**hh:e:Dondrup:Sherdukpens**\n**hh:e:Paul:Sherdukpens**\n**hh:e:Sharma:Sherdukpens**\n**hh:he:Dutta:Arunachal**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Barthakur:Kameng**\n**hh:hv:Bodt:Western-Kho-Bwa**\n**hh:hvw:Blench:Arunachal:2024**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:hwsoc:Abrahametal:WArunachal:2018**\n**hh:s:Dondrup:Sherdukpen**\n**hh:sd:Blench:Tukpen**\n**hh:sd:Jacquesson:Sherdukpen**\n**hh:w:NEFA:Sherdukpen**"
+  },
+  "altnames": {
+    "wals": "\nSherdukpen",
+    "multitree": "\nNgnok\nSherdukpen",
+    "lexvo": "\nSherdukpen [en]",
+    "hhbib_lgcode": "\nRupa\nRupa (i)\nSherdukpen\nShergaon\nShergaon (E)\nTukpen",
+    "elcat": "\nNgnok\nSherdukpen",
+    "glottolog": "\nMey"
+  },
+  "triggers": {
+    "lgcode": "\nsherdukpen"
+  },
+  "identifier": {
+    "wals": "shd",
+    "multitree": "sdp",
+    "endangeredlanguages": "5689"
+  },
+  "classification": {
+    "sub": "**hh:hv:LieberherrBodt:Kho-Bwa**",
+    "subrefs": "\n**hh:hv:LieberherrBodt:Kho-Bwa**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sherdukpen (5689-sdp) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

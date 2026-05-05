@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Obolo",
+    "hid": "ann",
+    "level": "language",
+    "iso639-3": "ann",
+    "latitude": "4.62851",
+    "longitude": "7.81985",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Obolo](https://wals.info/languoid/lect/wals_code_obo)\nhttps://en.wikipedia.org/wiki/Obolo_language\nhttps://phoible.org/languages/obol1243\nhttps://www.wikidata.org/entity/Q36614"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aaron:96:1**\n**cldf:aaron:96:2**\n**cldf:faraclas:82**\n**cldf:faraclas:84:2**\n**cldf:faraclas:84:3**\n**eballiso2009:11594**\n**eballiso2009:24589**\n**eballiso2009:26678**\n**eballiso2009:38082**\n**eballiso2009:38084**\n**eballiso2009:39176**\n**eballiso2009:43355**\n**eballiso2009:46524**\n**eballiso2009:52666**\n**eballiso2009:52669**\n**eballiso2009:60072**\n**hh:e:Ejituwu:Obolo**\n**hh:g:Faraclas:Obolo**\n**hh:g:Rowland:Obolo-Andoni**\n**hh:g:Rowland:Obolo-Andoni:1999**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:FordeJones:Ibo-Ibibio**\n**hh:hew:Leonard:Lower-Niger**\n**hh:hvw:Connell:Lower-Cross**\n**hh:hvw:Connell:Lower-Cross:1994**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:soc:Aaron:Obolo**\n**hh:typ:Aaron:Obolo**\n**hh:w:Connell:LCross**\n**sil16:18411**\n**sil16:31858**\n**sil16:37902**\n**sil16:38890**"
+  },
+  "altnames": {
+    "wals": "\nObolo",
+    "wals other": "\nAndoni",
+    "ruhlen (1987)": "\nObolo",
+    "moseley & asher (1994)": "\nObolo",
+    "multitree": "\nAndone\nAndoni\nAndonni\nObolo",
+    "lexvo": "\nObolo [en]",
+    "hhbib_lgcode": "\nAndoni\nAndoni-Ibeno\nEbiobolo-Andoni\nIbibio-Kwa Ikorobong near Opobo"
+  },
+  "triggers": {
+    "lgcode": "\nandoni\nobolo"
+  },
+  "identifier": {
+    "wals": "obo",
+    "multitree": "obol;ann"
+  },
+  "classification": {
+    "sub": "**hh:hv:Connell:Cross-River**",
+    "subrefs": "\n**hh:hv:Connell:Cross-River**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Obolo (ann-ann) = 5 (Developing)."
+  }
+}

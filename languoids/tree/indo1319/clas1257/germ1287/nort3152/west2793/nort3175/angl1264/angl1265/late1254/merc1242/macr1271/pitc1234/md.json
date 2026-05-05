@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pitcairn-Norfolk",
+    "hid": "pih",
+    "level": "language",
+    "iso639-3": "pih",
+    "latitude": "-24.379858",
+    "longitude": "-128.324075",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "AU",
+      "FJ",
+      "NF",
+      "NZ",
+      "PN"
+    ],
+    "links": "\n[Pitcairn-Norfolk](https://endangeredlanguages.com/lang/2569)\nhttps://en.wikipedia.org/wiki/Pitkern\nhttps://www.wikidata.org/entity/Q36554"
+  },
+  "classification": {
+    "sub": "**hh:ld:Laycock:Pitcairn-Norfolk**",
+    "subrefs": "\n**hh:ld:Laycock:Pitcairn-Norfolk**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**hh:es:MuhlhauslerNash:Norfolk**\n**hh:hs:Schreieretal:Lesser-Known-English**\n**hh:hvw:Hancock:Anglophone**\n**hh:ld:Laycock:Pitcairn-Norfolk**\n**hh:s:BuffettLaycock:Norfolk**\n**hh:s:Harrison:Norfolk**\n**hh:s:Muhlhausler:Norfk**\n**hh:s:Muhlhausler:Norfolk**\n**hh:s:RossMoverley:Pitcairnese**\n**hh:soc:Harrison:Norfolk**\n**hh:ssoc:Muhlhausler:Pitkern**\n**hh:tsoc:Kallgard:Pitcairnese**\n**hh:w:Kallgard:Pitcairnese**\n**hh:w:Kallgard:Pitkern**\n**hh:w:Nobbs:Norfolk**"
+  },
+  "triggers": {
+    "lgcode": "\npitcairnese\nnorfolk\nnorfk"
+  },
+  "identifier": {
+    "endangeredlanguages": "2569"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Pitcairn-Norfolk (2569-pih) = Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nNorfk\nNorfolk\nNorfolk Island and Pitcairn varieties\nPitkern\nPitkern-Norf'k",
+    "elcat": "\nNorf'k\nNorfolk Language\nNorfolkese\nNorfuk\nPitcairn English\nPitcairn-Norfolk\nPitcairnese\nPitkern"
+  }
+}

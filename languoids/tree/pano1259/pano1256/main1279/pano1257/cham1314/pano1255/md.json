@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Panobo",
+    "hid": "pno",
+    "level": "language",
+    "iso639-3": "pno",
+    "latitude": "-7.16666",
+    "longitude": "-75.0",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Panobo](https://grambank.clld.org/languages/pano1255)\nhttps://en.wikipedia.org/wiki/Wariapano_language\nhttps://phoible.org/languages/pano1255\nhttps://www.wikidata.org/entity/Q3141869",
+    "timespan": "1991-01-01/1991-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Pano-Takana_wariapano0**\n**fabreall2009ann:Pano-Takana_wariapano2**\n**fabreall2009ann:Pano-Takana_wariapano3**\n**fabreall2009ann:Pano-Takana_wariapano4**\n**fabreall2009ann:Pano-Takana_wariapano5**\n**fabreall2009ann:Pano-Takana_wariapano6**\n**fabreall2009ann:Pano-Takana_wariapano7**\n**fabreall2009ann:Pano-Takana_wariapano8**\n**fabreall2009ann:Pano-Takana_wariapano9**\n**hh:d:dAns:Pano**\n**hh:hv:delaGrasserie:Pano**\n**hh:hvb:Fleck:Panoan**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Martius:Brasiliens**\n**hh:hw:deCastelnau:Amerique:V**\n**hh:s:Gomes:Huariapano**\n**hh:sd:Navarro:Quechua-Pano**\n**hh:sd:Navarro:Quechua-Pano:1903**\n**hh:typ:Parker:Epenthesis-Huariapano**\n**hh:w:Parker:Huariapano**\n**sil16:36942**\n**sil16:38913**"
+  },
+  "altnames": {
+    "multitree": "\nHuariapano\nManoa\nPana\nPano\nPano language area\nPanobo\nPelado\nPánobo\nWariapano",
+    "lexvo": "\nPanobo [en]",
+    "hhbib_lgcode": "\nHuariapano\nPano\nPano of Navarro\nPanos\nPanos de l'Ucayale"
+  },
+  "triggers": {
+    "lgcode": "\nhuariapano\nwariapano\nmismos\nrespectivas"
+  },
+  "identifier": {
+    "multitree": "pno"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Panobo (962-pno) = Extinct"
+  }
+}

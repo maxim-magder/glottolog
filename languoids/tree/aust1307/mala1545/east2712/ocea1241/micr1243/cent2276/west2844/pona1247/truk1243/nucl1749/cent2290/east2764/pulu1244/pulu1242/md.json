@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Puluwatese",
+    "hid": "puw",
+    "level": "language",
+    "iso639-3": "puw",
+    "latitude": "7.35695",
+    "longitude": "149.2005",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Puluwat](https://wals.info/languoid/lect/wals_code_pul)\n[Puluwatese](https://endangeredlanguages.com/lang/5301)\n[Puluwatese](https://grambank.clld.org/languages/pulu1242)\n[Puluwatese](https://lexibank.clld.org/languages/abvdoceanic-Puluwatese)\nhttps://en.wikipedia.org/wiki/Puluwat_language\nhttps://www.wikidata.org/entity/Q36397"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Elbert:Puluwat**\n**hh:g:Elbert:Puluwat**\n**hh:hvw:Jackson:Trukic**\n**hh:hvw:Quackenbush:Sonsorol-Truk**\n**hh:lde:HambruchSarfert:Polowat**\n**hh:s:Lynch:Puluwatese**\n**mpieva:Jackson1984Theinter**"
+  },
+  "altnames": {
+    "wals": "\nPuluwat",
+    "ruhlen (1987)": "\nPuluwat",
+    "moseley & asher (1994)": "\nCarolinian",
+    "multitree": "\nPuluwat\nPuluwatese",
+    "lexvo": "\nPuluwatese [en]",
+    "hhbib_lgcode": "\nPolowat\nPullap\nPuluwat",
+    "elcat": "\nPuluwat\nPuluwatese"
+  },
+  "triggers": {
+    "lgcode": "\npuluwatese\npuluwat"
+  },
+  "identifier": {
+    "wals": "pul",
+    "multitree": "puw",
+    "endangeredlanguages": "5301"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jackson:Trukic**",
+    "subrefs": "\n**hh:hvw:Jackson:Trukic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Puluwatese (5301-puw) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

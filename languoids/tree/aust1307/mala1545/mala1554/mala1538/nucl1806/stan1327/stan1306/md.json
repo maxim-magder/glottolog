@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Standard Malay",
+    "hid": "zsm",
+    "level": "language",
+    "iso639-3": "zsm",
+    "latitude": "3.08896",
+    "longitude": "101.699",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BN",
+      "MY",
+      "SG"
+    ],
+    "links": "\n[Malay](https://wals.info/languoid/lect/wals_code_mly)\n[Standard Malay](https://grambank.clld.org/languages/stan1306)\nhttps://phoible.org/languages/stan1306\nhttps://www.wikidata.org/entity/Q123474569"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:96:14**\n**cldf:alaves:ed:95:4**\n**cldf:alaves:ed:95:6**\n**cldf:alaves:ed:95:7**\n**cldf:chelliah:dereuse:ed:97:3**\n**cldf:cheng:03**\n**cldf:chung:05:2**\n**cldf:cole:ed:01**\n**cldf:cole:hermon:05**\n**cldf:cole:hermon:98**\n**cldf:dodds:80**\n**cldf:don:03**\n**cldf:donohue:smith:98**\n**cldf:goddard:00:1**\n**cldf:goddard:03:1**\n**cldf:goddard:94:3**\n**cldf:gueldemann:03:2**\n**cldf:harkins:wierzbicka:ed:01:1**\n**cldf:haspelmath:ed:04:5**\n**cldf:lewis:47**\n**cldf:lodge:93**\n**cldf:macken:ed:00:11**\n**cldf:nordhoff:66**\n**cldf:thurgood:ed:99:7**\n**cldf:winstedt:27**\n**hh:g:Byrnes:Malay**\n**hh:g:Dodds:Malay**\n**hh:g:Karim:Melayu**\n**hh:g:Mintz:Malay-Indonesian**\n**hh:g:Omar:Melayu**\n**hh:g:Othman:Colloquial-Malay**\n**hh:g:Winckel:Malay**\n**hh:g:Winstedt:Malay**\n**hh:g:vanWijk:Melayu**\n**hh:hv:Anderbeck:Orang-Laut**\n**hh:hvw:Adelaar:Melayik-Purba**\n**hh:hvw:Adelaar:Proto-Malayic**\n**hh:s:Ajamiseba:Classical-Malay**\n**hh:s:Ajamiseba:Classical-Malay:1978**\n**hh:s:Hassan:Malay**\n**hh:s:Payne:Standard-Malay**\n**hh:w:KeppelBrooke:Borneo**\n**iso6393:2007-183**\n**mpieva:1983Studiesi**\n**mpieva:2002KamusIng**\n**mpieva:2002Kurikkun**\n**mpieva:50**\n**mpieva:Abdullah1974Themorph**\n**mpieva:Adelaar1985ProtoMal**\n**mpieva:Ahmad2005Thephono**\n**mpieva:Dempwolff1937Deduktiv**\n**mpieva:Dempwolff1941Einfuhru**\n**mpieva:Harahap1994Sejarahp**\n**mpieva:Helfrich1927Naderebi**\n**mpieva:Levinsohn1991Constitu**\n**mpieva:Marsden1812Agrammar**\n**mpieva:Marsden1984Adiction**\n**mpieva:Muhadjir1981Morpholo**\n**mpieva:Noriah2000Sejarahs**\n**mpieva:Robson2002FromMala**\n**mpieva:Winstedt1957Malaygra**\n**sil16:33397**\n**sil16:48351**\n**sn:Chung2005kena**\n**sn:Cumming1991**\n**sn:Hassan1974**\n**sn:Lewis1969**\n**sn:Omar1975**\n**sn:Prentice1990**\n**sn:Safiah1975**\n**sn:Tadmor1995phd**\n**sn:Tadmor2004**\n**sn:WahabEtAl2010**"
+  },
+  "altnames": {
+    "multitree": "\nFormal Malay\nMalaiisch\nMalay\nMalay, Standard\nMalayisch\nMalayu\nMelayu\nMelayu Baku\nStandard Malay",
+    "lexvo": "\nStandard Malay [en]",
+    "hhbib_lgcode": "\nAppears to be the standard variety of Malaysia spoken colloquially\nClassical Malay\nDeli CM 1983 closest to standard (!) Malay\nLiterary Malay of Malaysia\nMalay\nMalay-Standard"
+  },
+  "triggers": {
+    "lgcode": "\npemikiran\njakarta\nmalayan\nmalayu\nmalaiische\nkurik\ndialektgeographische\nmalay\nkiput\ntioman\nsejarah\nurindonesischen\nmaleische\ntonsawang\nserawajsch"
+  },
+  "identifier": {
+    "wals": "mly",
+    "multitree": "zsm"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Omar:Susur-Galur-Melayu** **hh:hvw:McDowell:Southern-Sumatra** (a node hypothetically corresponding to lexicostatistical figures hovering over 70%)",
+    "subrefs": "\n**hh:hvw:McDowell:Southern-Sumatra**\n**hh:hvs:Omar:Susur-Galur-Melayu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, Standard (zsm-zsm) = 1 (National). Statutory national language (1963, Constitution (amended), Article 153A(1))."
+  }
+}

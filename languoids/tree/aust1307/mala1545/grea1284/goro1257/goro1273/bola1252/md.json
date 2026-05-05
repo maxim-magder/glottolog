@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bolango",
+    "hid": "bld",
+    "level": "language",
+    "iso639-3": "bld",
+    "latitude": "0.39044",
+    "longitude": "123.888",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3450578\nhttps://en.wikipedia.org/wiki/Bolango_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:usup:81**\n**hh:dial:Tinggineheetal:Atinggola**\n**hh:dial:Wahidji:Atinggola**\n**hh:hv:SneddonUsup:Gorontalic**\n**hh:hvw:Usup:Gorontalo-Mongondow**\n**hh:s:Datuetal:Diu**\n**hh:s:Kasimetal:Atinggola**\n**hh:s:Tallei-Pinontoan:Uki**\n**hh:w:Stokhofetal:Holle:7:1**"
+  },
+  "altnames": {
+    "multitree": "\nBolango\nBulanga\nBulanga-Uki\nDiu",
+    "lexvo": "\nBolango [en]",
+    "hhbib_lgcode": "\nAtinggola\nUki"
+  },
+  "triggers": {
+    "lgcode": "\natinggola\nuki"
+  },
+  "identifier": {
+    "multitree": "bld"
+  },
+  "classification": {
+    "sub": "**hh:hv:SneddonUsup:Gorontalic**",
+    "subrefs": "\n**hh:hv:SneddonUsup:Gorontalic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bolango (bld-bld) = 6b (Threatened)."
+  }
+}

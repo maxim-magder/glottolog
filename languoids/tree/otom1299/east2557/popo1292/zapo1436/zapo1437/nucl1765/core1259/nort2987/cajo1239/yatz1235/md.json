@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Yatzachi Zapotec",
+    "hid": "zav",
+    "level": "language",
+    "iso639-3": "zav",
+    "latitude": "17.1869",
+    "longitude": "-96.284",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Cajonos Zapotec](https://endangeredlanguages.com/lang/9069)\n[Yatzachi Zapotec](https://grambank.clld.org/languages/yatz1235)\n[Zapotec (Yatzachi)](https://wals.info/languoid/lect/wals_code_zya)\nhttps://en.wikipedia.org/wiki/Yatzachi_Zapotec\nhttps://www.wikidata.org/entity/Q8050301"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2086**\n**cldf:butlerh:80**\n**hh:d:Butler:Zapoteco**\n**hh:e:Gonzalez:Xhon-Xidza**\n**hh:g:Butler:Zapoteco-Yatzachi**\n**hh:g:Lopez:Zapoteco-Zoochina**\n**hh:hvw:Rendon:Zapoteco**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:Swadesh:Zapotecos**\n**hh:typ:Butler:Yatzachi:Verb**\n**hh:typ:Lopez:Zapoteco-Zoochina**\n**ldh:item_408264**\n**mpieva:Butler2000Dicciona**\n**sil16:11398**\n**sil16:11399**\n**sil16:11939**\n**sil16:15462**\n**sil16:15464**\n**sil16:23713**\n**sil16:24801**\n**sil16:31184**\n**sil16:35093**\n**sil16:50413**"
+  },
+  "altnames": {
+    "wals": "\nZapotec (Yatzachi)",
+    "ruhlen (1987)": "\nSapoteko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nEastern Sapoteko\nRincón\nSierra de Villa Alta\nYalálog\nYatzachi Zapotec\nZapotec\nZapotec (Yatzachi)\nZapotec, Yatzachi\nZapoteco de Petapa\nZapoteco de San Bartolo Yautepec\nZapoteco mixtepeco\nZapotèque de Mixtepe\nZapotèque de Petapa\nZapotèque de San Bartolo Yautepec",
+    "lexvo": "\nYatzachi Zapotec [en]",
+    "hhbib_lgcode": "\nSan Baltazar Yatzachi el Bajo\nSan Jerónimo Zoochina\nYatzachi\nZapotec-Yatzachi\nZoochina",
+    "elcat": "\nCajonos Zapotec\nVillalta (non-preferred)\ndill xhon"
+  },
+  "triggers": {
+    "lgcode": "\ndoble\nzoochina\nobjeto\nyatzachi"
+  },
+  "identifier": {
+    "wals": "zya",
+    "multitree": "zav",
+    "endangeredlanguages": "9069"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith-Stark:Zapotecas** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Smith-Stark:Zapotecas**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zapotec, Yatzachi (zav-zav) = 6b* (Threatened)."
+  }
+}

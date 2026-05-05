@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Muno",
+    "hid": "grx",
+    "level": "language",
+    "iso639-3": "grx",
+    "latitude": "-3.5718",
+    "longitude": "141.597",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Guriaso](https://endangeredlanguages.com/lang/4242)\n[Guriaso](https://grambank.clld.org/languages/guri1248)\nhttps://en.wikipedia.org/wiki/Guriaso_language\nhttps://www.wikidata.org/entity/Q12631954"
+  },
+  "classification": {
+    "family": "Laycock never presented real evidence for a Kwomtari-Baibai-Pyu family **hh:hv:Laycock:SkoKwomtariLeftMay**. It is clear from the data collected so far **hh:hvs:Baron:Kwomtari** that Muno [grx] shares no more lexical cognates with Kwomtari and Biaka than expected at random, and that's not even when borrowing is discounted (Kwomtari neighbours Muno). Further correspondences presented are merely typological or random enough to make Japanese a Kwomtari language **hh:hvs:Baron:Kwomtari**:29.",
+    "familyrefs": "\n**hh:hvs:Baron:Kwomtari**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:10:2**\n**cldf:hammarstroem:17**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:e:KelmKelm:Kweiftim**\n**hh:hv:Gasser:Western-Yapen**\n**hh:hvs:Baron:Kwomtari**\n**hh:typ:Ronchen:Onin**"
+  },
+  "altnames": {
+    "multitree": "\nGuriaso",
+    "lexvo": "\nGuriaso [en]",
+    "hhbib_lgcode": "\nGuriaso\nMenóu",
+    "elcat": "\nGuriaso\nMenóu",
+    "glottolog": "\nGuriaso"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND kwomtari"
+  },
+  "identifier": {
+    "multitree": "grx",
+    "endangeredlanguages": "4242"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Guriaso (4242-grx) = Endangered (20 percent certain, based on the evidence available) [Baron 1983](cldf:baron:83:3)"
+  }
+}

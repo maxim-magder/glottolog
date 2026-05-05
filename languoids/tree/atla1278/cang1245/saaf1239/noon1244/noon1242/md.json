@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Noon",
+    "hid": "snf",
+    "level": "language",
+    "iso639-3": "snf",
+    "latitude": "14.792",
+    "longitude": "-16.9205",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\n[Noon](https://endangeredlanguages.com/lang/1754)\n[Noon](https://grambank.clld.org/languages/noon1242)\n[Noon](https://wals.info/languoid/lect/wals_code_noo)\nhttps://en.wikipedia.org/wiki/Noon_language\nhttps://www.wikidata.org/entity/Q36304"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3953**\n**cldf:childs:06**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:faye:dijkstra:05**\n**cldf:fleming:bender:76**\n**cldf:lewis:ed:09**\n**cldf:manessy:sauvageout:ed:63**\n**cldf:np:nd:264**\n**cldf:traill:78**\n**cldf:wane:11**\n**eballiso2009:28251**\n**hh:g:Lopis-Sylla:Noon**\n**hh:g:Lopis:Noon**\n**hh:g:Soukka:Noon**\n**hh:g:Soukka:Noon:1999**\n**hh:g:Wane:Noon**\n**hh:hv:Merrill:Cangin**\n**hh:hvtyp:Drolc:Cangin**\n**hh:hvw:Williams:Cangin**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:hw:Tastevin:Senegalais**\n**hh:w:Armstrong:West-African**\n**sil16:40635**\n**sil16:45288**\n**sil16:45302**\n**sil16:45303**\n**sil16:45305**\n**sil16:45306**\n**sil16:50761**\n**sil16:50767**\n**sil16:50768**"
+  },
+  "altnames": {
+    "wals": "\nNoon",
+    "ruhlen (1987)": "\nNon",
+    "moseley & asher (1994)": "\nNon",
+    "multitree": "\nNon\nNone\nNoon\nNoono\nSerer-Non\nSerer-Noon",
+    "lexvo": "\nNoon [en]",
+    "hhbib_lgcode": "\nNon\nPadee\nSerer-Non\nThiés Noon",
+    "elcat": "\nNon\nNone\nNoon\nSerer-Non\nSerer-Noon"
+  },
+  "triggers": {
+    "lgcode": "\nsibiirum\nsidaanum\notaa\neti\nnoon\noomaaciigaruu"
+  },
+  "identifier": {
+    "wals": "noo",
+    "multitree": "snf",
+    "endangeredlanguages": "1754"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Noon (1754-snf) = Vulnerable (20 percent certain, based on the evidence available) (Seriously threatened and doomed to extinction in the near future.) [Childs 2006](cldf:childs:06)"
+  }
+}

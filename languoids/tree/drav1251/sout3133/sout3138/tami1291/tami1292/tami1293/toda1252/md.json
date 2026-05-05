@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Toda",
+    "hid": "tcx",
+    "level": "language",
+    "iso639-3": "tcx",
+    "latitude": "11.4184",
+    "longitude": "77.0168",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Toda](https://endangeredlanguages.com/lang/5103)\n[Toda](https://grambank.clld.org/languages/toda1252)\n[Toda](https://lexibank.clld.org/languages/dravlex-Toda)\n[Toda](https://wals.info/languoid/lect/wals_code_tda)\nhttps://en.wikipedia.org/wiki/Toda_language\nhttps://phoible.org/languages/toda1252\nhttps://www.wikidata.org/entity/Q34042"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3563**\n**cldf:agesth:gowda:ed:76:22**\n**cldf:agesth:subrah:ed:76:27**\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dutt:geib:87**\n**cldf:ed:10**\n**cldf:emeneau:41**\n**cldf:emeneau:ed:63**\n**cldf:emeneau:ed:79:1**\n**cldf:emeneau:ed:79:2**\n**cldf:fox:63**\n**cldf:lewis:ed:09**\n**cldf:marshall:73**\n**cldf:murdock:34:2**\n**cldf:murdock:34:8**\n**cldf:nara:bhaskararao:01**\n**cldf:np:nd:264**\n**cldf:peter:55**\n**cldf:reddy:16**\n**cldf:rivers:32**\n**hh:e:Metz:Neilgherry**\n**hh:e:Modi:Todas**\n**hh:e:Ostertag:Nilagiri**\n**hh:e:Rivers:Todas**\n**hh:e:Selvaraj:Toda**\n**hh:esoctyp:Ramesh:Todas**\n**hh:g:Sakthivel:Toda**\n**hh:gt:Emeneau:Toda**\n**hh:he:Francis:Nilgiris**\n**hh:he:King:Nilgiri**\n**hh:he:Shortt:Neilgherries**\n**hh:hew:Breeks:Nilagiris**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hlde:Menon:Dravidian**\n**hh:hvw:Hodgson:Nilgiris**\n**hh:hw:Hodgson:SIndia**\n**hh:ld:Subrahmanyam:Toda**\n**hh:lde:Emeneau:Todas**\n**hh:phond:Sakthivel:Toda**\n**hh:sv:Emeneau:Toda**\n**mpieva:Nara2001Todagoki**\n**mpieva:Nara2002Todatext**\n**sil16:23228**"
+  },
+  "altnames": {
+    "wals": "\nToda",
+    "ruhlen (1987)": "\nToda",
+    "moseley & asher (1994)": "\nToda",
+    "multitree": "\nToda\nTodi\nTuda",
+    "lexvo": "\nLenga Toda [pms]\nLingua Toda [la]\nToda [en]\nToda language [en]\nTodeg [br]\nТода [ru]\nதோடா மொழி [ta]",
+    "hhbib_lgcode": "\nTodas\nTodava\nTodâs",
+    "elcat": "\nToda\nTodi\nTuda"
+  },
+  "triggers": {
+    "lgcode": "\nNOT do AND toda\ntodas\ntodago"
+  },
+  "identifier": {
+    "wals": "tda",
+    "multitree": "tcx",
+    "endangeredlanguages": "5103"
+  },
+  "classification": {
+    "sub": "**hh:hv:Krishnamurti:Dravidian**",
+    "subrefs": "\n**hh:hv:Krishnamurti:Dravidian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Toda (5103-tcx) = Endangered (20 percent certain, based on the evidence available) [Driem 2007](cldf:driem:07)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sikule",
+    "hid": "skh",
+    "level": "language",
+    "iso639-3": "skh",
+    "latitude": "2.69113",
+    "longitude": "95.9636",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Sikule](https://grambank.clld.org/languages/siku1242)\n[Sikule](https://wals.info/languoid/lect/wals_code_skl)\nhttps://en.wikipedia.org/wiki/Sigulai_language\nhttps://www.wikidata.org/entity/Q3121081"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:koehler:55**\n**hh:d:Kahler:Sichule**\n**hh:hld:Kahler:Mischsprachen-Indonesien**\n**hh:s:Kahler:Sichule**\n**hh:w:Stokhof:Holle:1987**"
+  },
+  "altnames": {
+    "wals": "\nSikule",
+    "wals other": "\nSichule",
+    "multitree": "\nSichule\nSikhule\nSikule\nWali Banuah",
+    "lexvo": "\nBahasa Sigulai [id]\nSikule [en]\nSikule language [en]",
+    "hhbib_lgcode": "\nSalang and Sigulè\nSichule\nSigulei and Salang"
+  },
+  "triggers": {
+    "lgcode": "\nsichule\ndie AND westkuste"
+  },
+  "identifier": {
+    "wals": "skl",
+    "multitree": "skh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran**",
+    "subrefs": "\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sikule (skh-skh) = 6b (Threatened)."
+  }
+}

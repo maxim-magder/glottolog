@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Bisis",
+    "hid": "bnw",
+    "level": "language",
+    "iso639-3": "bnw",
+    "latitude": "-4.46238",
+    "longitude": "143.058",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bisis](https://endangeredlanguages.com/lang/10619)\n[Bisis](https://lexibank.clld.org/languages/transnewguineaorg-bisis)\nhttps://en.wikipedia.org/wiki/Bisis_language\nhttps://www.wikidata.org/entity/Q56356"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:w:Haberland:Korowori**"
+  },
+  "altnames": {
+    "multitree": "\nBisis\nYambiyambi",
+    "lexvo": "\nBisis [en]",
+    "hhbib_lgcode": "\nII-ndabar-wuitip\nMenswat",
+    "elcat": "\nBisis\nYambiyambi"
+  },
+  "identifier": {
+    "multitree": "bnw",
+    "endangeredlanguages": "10619"
+  },
+  "classification": {
+    "sub": "**hh:e:HaberlandSeyfarth:Korowori**:24 **hh:hvld:Bruce:Middle-Sepik**:472-519",
+    "subrefs": "\n**hh:e:HaberlandSeyfarth:Korowori**\n**hh:hvld:Bruce:Middle-Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bisis (10619-bnw) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

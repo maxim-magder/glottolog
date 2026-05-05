@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Haryanvi",
+    "hid": "bgc",
+    "level": "language",
+    "iso639-3": "bgc",
+    "latitude": "29.0166",
+    "longitude": "76.0432",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33410\nhttps://en.wikipedia.org/wiki/Haryanvi_language"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:MathewsVarghese:Kannauji**:16 **hh:wsoc:Webster:Haryanvi**:6 **hh:hvwt:Grierson:9:I**",
+    "subrefs": "\n**hh:hvwt:Grierson:9:I**\n**hh:wsoc:MathewsVarghese:Kannauji**\n**hh:wsoc:Webster:Haryanvi**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Singh:Bangru**\n**hh:g:Singh:Bangru:1970**\n**hh:hld:MinaRav:Rajasthana**\n**hh:hld:Narayana:Uttar-Pradesh**\n**hh:ld:Fatima:Mabhyani**\n**hh:ld:Singh:Bangru**\n**hh:s:Chandra:Kauravi**\n**hh:sd:Joseph:Jatu**\n**hh:typ:Raza:Rangri**\n**hh:vsoc:Aslam:Haryanvi**"
+  },
+  "altnames": {
+    "multitree": "\nBangaru\nBanger\nBangri\nBangru\nChamarwa\nDesari\nDeswali\nHariani\nHariyani\nHaryani\nHaryanvi\nJati\nJatu",
+    "lexvo": "\nHariani [pt]\nHarianvi [nn]\nHariyani [sh]\nHaryanvi [en]\nХар'янві [uk]\nภาษาหริยนวี [th]\nハリヤーンウィー語 [ja]",
+    "hhbib_lgcode": "\nAmbala\nDeswali\nKarnal\nKarnalvi in Pakistan\nKauravi\nMabhyani in Noida\nRangri"
+  },
+  "triggers": {
+    "lgcode": "\nhariani\njatu\nbangru\njats"
+  },
+  "identifier": {
+    "multitree": "bgc"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Haryanvi (bgc-bgc) = 5 (Developing)."
+  }
+}

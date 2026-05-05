@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tobati",
+    "hid": "tti",
+    "level": "language",
+    "iso639-3": "tti",
+    "latitude": "-2.56434",
+    "longitude": "140.71",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tobati](https://endangeredlanguages.com/lang/2794)\nhttps://www.wikidata.org/entity/Q7811556\nhttps://en.wikipedia.org/wiki/Tobati_language\n[Tobati](https://wals.info/languoid/lect/wals_code_tbt)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lynch:ross:etal:ed:02:28**\n**cldf:np:nd:264**\n**hh:e:Barbour:Dutch-New-Guinea**\n**hh:e:Jakarimilena:Tobati**\n**hh:e:Koning:Papoea**\n**hh:e:Moolenburgh:NNG**\n**hh:e:Sofjan:Teluk-Humboldt**\n**hh:e:vanderGoes:Humboldtbaai**\n**hh:el:Budiono:Tobati**\n**hh:ew:Galis:Humboldt**\n**hh:h:Sugono:Indonesia**\n**hh:hew:Merauje:Kampung-Budaya**\n**hh:hew:Robide:NNG**\n**hh:hew:vonRosenberg:Malayische-Archipel**\n**hh:hlde:deClercq:NNG**\n**hh:hlde:deClercq:WNNNG**\n**hh:hv:Cowan:Austronesisch-Papoease**\n**hh:hv:Suharyanto:Ormu-Kayu-Pulau-Tobati**\n**hh:hvld:DonohueCrowther:NCNG**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Fautngil:Jayapura**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:hw:Friederici:Melanesische**\n**hh:hw:Galis:NNG**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:hw:Stokhof:Holle:1982**\n**hh:ld:Donohue:New-Guinea:2020**\n**hh:phon:Purba:Tobati**\n**hh:s:Donohue:Tobati**\n**hh:s:Purba:Tobati**\n**hh:s:Purba:Tobati-Morfologi**\n**hh:soc:Mariati:Tobati**\n**hh:soc:Supriyanto:Port-Numbay**\n**hh:typ:Aryanti:Tobati**\n**hh:typ:Donohue:Tobati**\n**hh:typ:Mantiri:Tobati**\n**hh:typ:Nurlia:Tobati**\n**hh:typ:Purba:Tobati**\n**hh:v:Kern:Jotafa**\n**hh:w:Bink:Jotafa**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Stroeve:Niederlandisch-Neu-Guinea**\n**hh:w:vonRosenberg:Humboldtbaai**"
+  },
+  "altnames": {
+    "wals": "\nTobati",
+    "ruhlen (1987)": "\nYotafa",
+    "moseley & asher (1994)": "\nYotafa",
+    "multitree": "\nEnggros\nHumboldt Jotafa\nJayapura\nJotafa\nTobati\nTobwadic\nYautefa\nYotafa",
+    "lexvo": "\nTobati [en]",
+    "hhbib_lgcode": "\nEnggros\nEntsau\nHumboldt Bay\nHumboldt-Baai\nHumboldtbaai\nHumboldtbai\nIngros\nInjros\nJaitefach\nJautefa\nJotafa\nJotefa-Humboldtbaai\nTabati\nTabati-Indjeros-Kaju Indjau-Kaju Batu-Nachaiba\nTeluk Humboldt\nTobadi\nTobati-Enggros\nYenbi\nYotafa\nYotefa\nand Tobati",
+    "elcat": "\nEnggros\nHumboldt Jotafa\nJayapura\nJotafa\nTobati\nTobwadic\nYautefa\nYotafa"
+  },
+  "triggers": {
+    "lgcode": "\njotafa\nopgebeekend\ntelandjang\ntobati\nnoordostkust\ngenaamd\njotafas\noostkust\nhumboldtbaai\nhumboldts"
+  },
+  "identifier": {
+    "wals": "tbt",
+    "multitree": "tti",
+    "endangeredlanguages": "2794"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Fautngil:Jayapura**",
+    "subrefs": "\n**hh:hvw:Fautngil:Jayapura**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tobati (2794-tti) = Severely Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

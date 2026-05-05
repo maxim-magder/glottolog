@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Wayu",
+    "hid": "vay",
+    "level": "language",
+    "iso639-3": "vay",
+    "latitude": "27.3047",
+    "longitude": "86.1227",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Hayu](https://wals.info/languoid/lect/wals_code_hay)\n[Kiranti_Hayu](https://lexibank.clld.org/languages/sagartst-Hayu)\n[Wayu](https://endangeredlanguages.com/lang/3399)\n[Wayu](https://grambank.clld.org/languages/wayu1241)\nhttps://en.wikipedia.org/wiki/Vayu_language\nhttps://phoible.org/languages/wayu1241\nhttps://www.wikidata.org/entity/Q7917585"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3524**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:michailovsky:03:1**\n**cldf:michailovsky:74**\n**cldf:michailovsky:75:1**\n**cldf:michailovsky:nd:1**\n**cldf:np:12:8**\n**cldf:np:nd:264**\n**hh:g:Michailovsky:Hayu**\n**hh:g:Michailovsky:Hayu:1981**\n**hh:hvtyp:Michailovsky:Kiranti**\n**hh:hvw:Grierson:3:I**\n**hh:ld:MichailovskyMazaudon:Hayu**\n**hh:s:Hodgson:Vayu**\n**hh:s:Michailovsky:Hayu**\n**hh:s:Michailovsky:Hayu:2017**\n**hh:w:Hodgson:Broken-Nepal**\n**mpieva:268**\n**mpieva:Michailovsky2003Grammair**\n**sil16:41773**"
+  },
+  "altnames": {
+    "wals": "\nHayu",
+    "wals other": "\nVayu",
+    "moseley & asher (1994)": "\nVayu",
+    "multitree": "\nHayu\nVayu\nVāyu\nWayo\nWayu",
+    "lexvo": "\nWayu [en]\nWayu language [en]",
+    "hhbib_lgcode": "\nVayu",
+    "elcat": "\nHayu\nVayu\nVāyu\nWayo\nWayu"
+  },
+  "triggers": {
+    "lgcode": "\nhayu\nvayu"
+  },
+  "identifier": {
+    "wals": "hay",
+    "multitree": "vay",
+    "endangeredlanguages": "3399"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:61-62",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wayu (3399-vay) = Endangered (40 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:8)"
+  }
+}

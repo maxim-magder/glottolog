@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Banda-Yangere",
+    "hid": "yaj",
+    "level": "language",
+    "iso639-3": "yaj",
+    "latitude": "3.95763",
+    "longitude": "16.5907",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q8048561\nhttps://en.wikipedia.org/wiki/Yangere_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:57562**\n**hh:e:Even:Haut-Sangha**\n**hh:h:Struck:Moyen-Congo**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:he:Chauleur:Cameroun**\n**hh:hv:Delafosse:Soudan**\n**hh:hw:Monino:Oubanguiennes**\n**hh:soc:Moehama:Yangere**"
+  },
+  "altnames": {
+    "multitree": "\nBanda\nBanda-Yangere\nYangere\nYanguere",
+    "lexvo": "\nBanda-Yangere [en]",
+    "hhbib_lgcode": "\nYangere\nYanghéré\nYanguéré\nYanguérés"
+  },
+  "triggers": {
+    "lgcode": "\nbanda AND yangere"
+  },
+  "identifier": {
+    "multitree": "yaj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cloarec-Heiss:Banda:2000** **hh:hvw:Olson:Banda**",
+    "subrefs": "\n**hh:hvw:Olson:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banda-Yangere (yaj-yaj) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Sauraseni Prakrit",
+    "hid": "psu",
+    "level": "language",
+    "iso639-3": "psu",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "longitude": "77.56",
+    "latitude": "27.46",
+    "links": "\nhttps://en.wikipedia.org/wiki/Shauraseni_Prakrit\nhttps://www.wikidata.org/entity/Q2452885",
+    "timespan": "-0200-01-01/-0100-01-01"
+  },
+  "classification": {
+    "sub": "**hh:st:Woolner:Prakrit**",
+    "subrefs": "\n**hh:st:Woolner:Prakrit**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:vonHinuber:Mittelindisch**\n**hh:hb:Verbeke:Middel-Indische**\n**hh:s:Cowell:Prakrita**\n**hh:s:Pischel:Hemacandra-Prakrit**\n**hh:s:Pischel:Prakrit**\n**hh:st:Woolner:Prakrit**\n**hh:sv:vandenBossche:Prakrit-Jain**\n**iso6393:2006-069**"
+  },
+  "triggers": {
+    "lgcode": "\ndramas\njain"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Sauraseni Prakrit (psu-psu) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nJain Middle Prakrit\nJain Sauraseni Prakrit\nSauraseni"
+  }
+}

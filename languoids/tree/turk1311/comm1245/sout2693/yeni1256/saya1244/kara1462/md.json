@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Taiga Sayan Turkic",
+    "hid": "kim",
+    "level": "language",
+    "iso639-3": "kim",
+    "latitude": "53.7145",
+    "longitude": "98.3792",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Tofa](https://endangeredlanguages.com/lang/2365)\nhttps://www.wikidata.org/entity/Q36848\nhttps://en.wikipedia.org/wiki/Tofa_language\nhttps://phoible.org/languages/kara1462\n[Tofa](https://wals.info/languoid/lect/wals_code_tof)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4517**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rassadin:97**\n**hh:d:Rassadin:Sojotsko**\n**hh:d:Rassadin:Tofalarsko**\n**hh:d:Rassadin:Tofalarsko:2005**\n**hh:e:Badamxatan:Caatan**\n**hh:e:Kristensen:Duha**\n**hh:e:Melnikova:Tofy**\n**hh:e:Rassadin:Tofalarov**\n**hh:e:Wheeler:Dukha**\n**hh:g:Castren:KoibalischenKaragassischen**\n**hh:g:Ragagnin:Dukhan**\n**hh:he:LevinPotapov:Sibiri**\n**hh:hv:deMol:Sayan**\n**hh:hvld:AndersonHarrison:South-Siberia**\n**hh:ld:Bold:Uygar-Urianxay:1975:Xelniy**\n**hh:ld:Bold:Uygar-Urianxay:1977:Xelend**\n**hh:ld:Bold:Uygar-Urianxay:1977:Xelnees**\n**hh:ld:Bold:Uygar-Urianxay:1982**\n**hh:ld:Bold:Uygar-Urianxay:1987**\n**hh:ld:Eriksson:Tuha**\n**hh:ld:Ragagnin:Sayan-Tukic**\n**hh:ld:Rassadin:Sojotov**\n**hh:phon:Rassadin:Tofalarskogo**\n**hh:phontyp:Eriksson:Tuha**\n**hh:s:Dyrenkova:Tofalarskij**\n**hh:sd:Rassadin:Soyotica**\n**hh:sv:Rassadin:Tofalarskogo**\n**hh:typ:Bold:Ujguro-Urjanxajskogo**\n**hh:typ:Ragagnin:Tofan-Mongolia**\n**hh:typ:deMol:Soyot**\n**hh:vtyp:Eriksonas:Tuha**\n**hh:vtyp:Katanov:Urjangxajskogo**\n**mpieva:Hajdu1997TheSamoy**"
+  },
+  "altnames": {
+    "wals": "\nTofa",
+    "wals other": "\nTofalar",
+    "ruhlen (1987)": "\nTofalar",
+    "moseley & asher (1994)": "\nKaragas",
+    "multitree": "\nKamas\nKanskg\nKaragas\nKaragass\nKaragassisch\nKaragasy\nKhotowci\nSayan Samoyed\nSayan Samoyedic\nTofa\nTofalar",
+    "lexvo": "\nKaragas [en]\nKaragaslar [tr]\nKaragassisk [no]",
+    "hhbib_lgcode": "\nDuha\nDukha\nDukhan\nKaragas\nKhövsgöl Uryangkhay\nSayan Turkic\nSoyot\nSoyot of Buryatiya\nTaiga-Sayan Tuha\nTofa\nTofalary\nTsaatan\nTurkic Karagas\nUrjangxajskogo",
+    "elcat": "\nKaragas\nTofa\nTofa Türkçesi\nTofaca\nTofalar\nTòfa dıl\nТоъфа дыл\nтофаларский язык"
+  },
+  "triggers": {
+    "lgcode": "\ntofalarskij\ntofalarskogo\ntofalarsko"
+  },
+  "identifier": {
+    "wals": "tof",
+    "multitree": "kim",
+    "endangeredlanguages": "2365"
+  },
+  "classification": {
+    "sub": "**hh:hv:Egorov:Turkic** (see SI S4b) **hh:hv:SavelyevRobbeets:Turkic:2020** **hh:hv:Tekin:Turkic** **hh:vldsoc:Filchenko:Teleut-Eushta-Melets**:270-271",
+    "subrefs": "\n**hh:hv:SavelyevRobbeets:Turkic:2020**\n**hh:vldsoc:Filchenko:Teleut-Eushta-Melets**\n**hh:hv:Egorov:Turkic**\n**hh:hv:Tekin:Turkic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tofa (2365-kim) = Critically Endangered (60 percent certain, based on the evidence available) (All known fluent speakers are above forty years of age) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

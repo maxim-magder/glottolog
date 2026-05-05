@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Boano (Maluku)",
+    "hid": "bzn",
+    "level": "language",
+    "iso639-3": "bzn",
+    "latitude": "-2.95535",
+    "longitude": "127.953",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Boano (Maluku, Indonesia)](https://endangeredlanguages.com/lang/4026)\nhttps://www.wikidata.org/entity/Q4931255\nhttps://en.wikipedia.org/wiki/Boano_language_(Maluku)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:ew:vanDoren:Boeroe-Manipa**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hv:Taguchi:WSeram**\n**hh:hvw:Collins:CMaluku**"
+  },
+  "altnames": {
+    "multitree": "\nBoano\nBuano",
+    "lexvo": "\nBoano (Maluku) [en]\nBoano [en]",
+    "hhbib_lgcode": "\nBoano\nBonoa's\nBuano\nBuano-Utara",
+    "elcat": "\nBoano (Maluku, Indonesia)\nBuano"
+  },
+  "triggers": {
+    "lgcode": "\nword AND tomini"
+  },
+  "identifier": {
+    "multitree": "bzn",
+    "endangeredlanguages": "4026"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Boano (Maluku, Indonesia) (4026-bzn) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

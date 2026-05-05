@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Northern Yokuts",
+    "hid": "yok",
+    "level": "language",
+    "iso639-3": "yok",
+    "latitude": "36.3167",
+    "longitude": "-119.721",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Northern Yokuts](https://grambank.clld.org/languages/yoku1256)\n[Wikchamni](https://wals.info/languoid/lect/wals_code_wik)\n[Yawelmani](https://wals.info/languoid/lect/wals_code_ywl)\n[Yokuts](https://endangeredlanguages.com/lang/6146)\n[Yokuts (Yaudanchi)](https://wals.info/languoid/lect/wals_code_yok)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3374**\n**asjp2010:3774**\n**cldf:caron:11:3**\n**cldf:christopherrogers:campbell:10**\n**cldf:golla:goddard:etal:08**\n**cldf:nichols:92**\n**cldf:wallace:78:2**\n**cldf:wallace:78:3**\n**hh:e:Spier:FoothillYokuts**\n**hh:e:Wallace:NYokuts**\n**hh:e:Wallace:SYokuts**\n**hh:g:Collord:Chukchansi**\n**hh:g:Newman:Yokuts**\n**hh:hv:Golla:Yokuts-Maidun**\n**hh:hv:Hubers:Yokutstalen**\n**hh:hv:Kroeber:YokutsYuki**\n**hh:hvb:Golla:California**\n**hh:hvld:Gamble:Yokuts-Pronouns**\n**hh:hvw:Kroeber:Yokuts**\n**hh:hvw:Powell:California**\n**hh:ld:Smith:Tamukan**\n**hh:phon:Archangeli:Yawelmani**\n**hh:phon:Kisseberth:Yawelmani**\n**hh:s:Beeler:Noptinte-Yokuts**\n**hh:s:Newman:Yawelmani**\n**hh:s:Newman:Yokuts**\n**hh:s:Newman:Yokuts:1932**\n**hh:s:Newman:Yokuts:1967**\n**hh:s:VeraVera:Yowlumne**\n**hh:s:Weigel:Yowlumne**\n**hh:st:Kroeber:Yokuts**\n**hh:t:Gamble:Yokuts**\n**hh:t:Hubers:Chawchila**\n**hh:typ:Hockett:Yawelmani**\n**hh:vld:SmithJohnson:Northern-Valley-Yokuts**\n**hh:w:Johnson:California**\n**hh:w:Pinart:Californies**"
+  },
+  "altnames": {
+    "wals": "\nWikchamni\nYawelmani\nYokuts (Yaudanchi)",
+    "wals other": "\nWikchamni (Yokuts)\nYaudanchi\nYaudanchi Yokuts\nYawelmani Yokuts\nYokuts (Valley)\nYokuts (Wikchamni)\nYokuts (Yawelmani)",
+    "ruhlen (1987)": "\nYokutsan",
+    "moseley & asher (1994)": "\nYokuts (Valley)\nYokutsan",
+    "lexvo": "\nYokuts [en]",
+    "hhbib_lgcode": "\n\"Coconoons\" (Delta Yokuts from the Merced River)\n\"Kings river and around Tulare Lake\" (Valley Yokuts)\nCalaveras\nChawchila\nChoynimni\nChukaymina\nChukchansi\nChunut\nCoconoons\nDelta Yokuts\nDumna\nGashowu\nKechayi\nKing's River\nKings River\nKoyeti\nLakisamni\nNopchinchi\nNoptinte Yokuts\nNorthern Hill\nNorthern Valley\nNorthern Valley Yokuts\nNorthern Yokuts\nNuclear Valley Yokuts\nNutúnutu\nSix Yokuts \"dialects\" but is most detailed regarding Yawlamni\nSouthern Valley\nTachi\nTamukan\nTinlinneh\nWichikik\nWo'lasi\nWowol\nYachikamne dialect of Delta Yokuts\nYawelmani\nYawlamni\nYokuts\nYowlumne",
+    "elcat": "\nYokuts"
+  },
+  "triggers": {
+    "lgcode": "\nyowlumne\nyokuts\nfoothill\nyawelmani\nmaidun\nchukchansi\nwikchamni\ncaliforniens\ntamukan"
+  },
+  "identifier": {
+    "wals": "genus/yokuts",
+    "endangeredlanguages": "6146"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yokuts (6146-yok) = Critically Endangered (80 percent certain, based on the evidence available) [Caron 2011](cldf:caron:11:3)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mafa",
+    "hid": "maf",
+    "level": "language",
+    "iso639-3": "maf",
+    "latitude": "10.943",
+    "longitude": "13.8181",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Matakam](https://lexibank.clld.org/languages/kraftchadic-Matakam)\nhttps://en.wikipedia.org/wiki/Mafa_language\nhttps://www.wikidata.org/entity/Q35819"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3043**\n**cldf:hinderling:55**\n**cldf:lembezat:61**\n**eballiso2009:15811**\n**eballiso2009:2239**\n**eballiso2009:29681**\n**eballiso2009:32543**\n**eballiso2009:35235**\n**eballiso2009:35236**\n**eballiso2009:35625**\n**eballiso2009:35953**\n**eballiso2009:39493**\n**eballiso2009:39504**\n**eballiso2009:48472**\n**eballiso2009:48474**\n**eballiso2009:511**\n**eballiso2009:52856**\n**eballiso2009:55274**\n**eballiso2009:55297**\n**hh:e:Hinderling:Mafa**\n**hh:e:Lavergne:Matakam:1944**\n**hh:e:Martin:Matakam**\n**hh:e:Muller-Kosack:Mafa**\n**hh:ew:Lavergne:Matakam**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Boutrais:Mandara**\n**hh:he:Chauleur:Cameroun**\n**hh:he:Lembezat:Kirdi**\n**hh:hv:Tourneux:Personelles-Kotoko-Mafa**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:III**\n**hh:hw:Strumpell:Mandara-Adamaua**\n**hh:s:EichenbergerEichenberger:Mofa**\n**hh:sd:BarreteauLeBleis:Mafa**\n**hh:wsoc:Crawford:Mefele**\n**mpieva:Barreteau1990Lexiquem**"
+  },
+  "altnames": {
+    "multitree": "\n\"Matakam\"\nBula\nBulahai\nMafa\nMatakam\nMofa\nNatakan",
+    "lexvo": "\nMafa [en]\nMafa language [en]",
+    "hhbib_lgcode": "\nCentral Mafa\nMafa ou Matakam\nMatakam\nMatakam I\nMatakam II\nMatakam-Mofa\nMokolo Mofa\nMokolo-Koza-Soulédé\nMuffo"
+  },
+  "triggers": {
+    "lgcode": "\nmatakam\nnontonal\nmofa\nslebau\nNOT and AND mafa"
+  },
+  "identifier": {
+    "multitree": "maf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:46, 49",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mafa (maf-maf) = 3 (Wider communication)."
+  }
+}

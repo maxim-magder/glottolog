@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dhaiso",
+    "hid": "dhs",
+    "level": "language",
+    "iso639-3": "dhs",
+    "latitude": "-4.81209",
+    "longitude": "38.818",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Dhaiso](https://endangeredlanguages.com/lang/4079)\nhttps://www.wikidata.org/entity/Q11001788"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dammann:61**\n**cldf:dempwolff:16:2**\n**cldf:dickson:17**\n**cldf:ed:10**\n**cldf:gray:50**\n**cldf:guthrie:71:8**\n**cldf:johnston:19:3**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:1579**\n**eballiso2009:170**\n**eballiso2009:1837**\n**eballiso2009:28707**\n**eballiso2009:28840**\n**eballiso2009:44041**\n**eballiso2009:47688**\n**eballiso2009:54523**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:sd:Rugemalira:Kidaiso**\n**hh:v:Ngonyani:Dhaisu**\n**hh:v:Nurse:Contact-Three-Centuries**\n**hh:v:Nurse:Daiso-Ilwana**\n**hh:v:Nurse:Segeju-Daisu:1982**"
+  },
+  "altnames": {
+    "multitree": "\nDaisa\nDaiso\nDaisu\nDhaiso\nKidhaiso\nKiseguju",
+    "lexvo": "\nDhaiso [en]",
+    "hhbib_lgcode": "\nDaiso\nDhaisu\nE56_Daiso\nKidaiso",
+    "elcat": "\nDaiso\nDaisu\nDhaiso\nKidhaiso\nKiseguju"
+  },
+  "triggers": {
+    "lgcode": "\nwasegeju\nsegedju\nudigo\nkissegeju\ndaisu\nwings"
+  },
+  "identifier": {
+    "multitree": "dhs",
+    "endangeredlanguages": "4079"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bennett:Bantu**:42-43",
+    "subrefs": "\n**hh:hv:Bennett:Bantu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dhaiso (4079-dhs) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

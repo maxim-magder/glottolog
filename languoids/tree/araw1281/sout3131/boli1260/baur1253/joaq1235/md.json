@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Joaquiniano",
+    "hid": "NOCODE_Joaquiniano",
+    "level": "dialect",
+    "latitude": "-13.4",
+    "longitude": "-64.67",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Arawak_joaquiniano02**\n**fabreall2009ann:Arawak_joaquiniano03**\n**fabreall2009ann:Arawak_joaquiniano04**\n**fabreall2009ann:Arawak_joaquiniano05**\n**fabreall2009ann:Arawak_joaquiniano07**\n**fabreall2009ann:Arawak_joaquiniano10**\n**fabreall2009ann:Arawak_joaquiniano11**"
+  },
+  "altnames": {
+    "multitree": "\nJoaquiniano",
+    "hhbib_lgcode": "\nSan Joaquin"
+  },
+  "triggers": {
+    "lgcode": "\nmoja\ncarmen\nheadwaters"
+  },
+  "identifier": {
+    "multitree": "brg-joa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jolkesky:Mamore-Guapore**",
+    "subrefs": "\n**hh:hv:Jolkesky:Mamore-Guapore**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Joaquiniano (NOCODE_Joaquiniano-NOCODE_Joaquiniano) = 10 (Extinct)."
+  }
+}

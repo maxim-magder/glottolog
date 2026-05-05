@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wolani",
+    "hid": "wod",
+    "level": "language",
+    "iso639-3": "wod",
+    "latitude": "-3.41642",
+    "longitude": "136.703",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q8029704\nhttps://en.wikipedia.org/wiki/Wolani_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hew:deBruijn:Beura-Beurong**\n**hh:hv:LarsonLarson:Ekagi-Wodani-Moni**\n**hh:hvld:LeRoux:Bergpapoeas**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Larson:Irian-Highlands**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "altnames": {
+    "multitree": "\nWoda\nWoda-Mo\nWodani\nWolani",
+    "lexvo": "\nWolani [en]",
+    "hhbib_lgcode": "\nWodani"
+  },
+  "triggers": {
+    "lgcode": "\nwodani"
+  },
+  "identifier": {
+    "multitree": "wod"
+  },
+  "classification": {
+    "sub": "**hh:s:Moxness:Auye**:6-7 **hh:hv:Tebay:Paniai**",
+    "subrefs": "\n**hh:hv:Tebay:Paniai**\n**hh:s:Moxness:Auye**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wolani (wod-wod) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Baima",
+    "hid": "bqh",
+    "level": "language",
+    "iso639-3": "bqh",
+    "latitude": "33.1001",
+    "longitude": "103.952",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Baima](https://endangeredlanguages.com/lang/5614)\n[Baima](https://grambank.clld.org/languages/baim1244)\nhttps://en.wikipedia.org/wiki/Baima_language\nhttps://phoible.org/languages/baim1244\nhttps://www.wikidata.org/entity/Q674990"
+  },
+  "classification": {
+    "sub": "**hh:hv:TournadreSuzuki:Tibetic** **hh:vw:Chirkova:Baima**",
+    "subrefs": "\n**hh:vw:Chirkova:Baima**\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chirkova:15:2**\n**cldf:ed:10**\n**cldf:roche:suzuki:17**\n**cldf:sun:qi:etal:07**\n**elpub:ldd53**\n**hh:d:Sun:Baima**\n**hh:g:Chirkova:Baima**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvld:Sun:Bajiang**\n**hh:hvs:Sun:Six-Rivers**\n**hh:s:Sun:Baima:2007**\n**hh:sv:NishidaSun:Baima**\n**hh:v:HuangZhang:Baima**\n**hh:vld:Sun:Baima**\n**hh:vld:Sun:Baima-Dialect**\n**hh:vld:Zhang:Baima**\n**hh:vw:Chirkova:Baima**"
+  },
+  "altnames": {
+    "multitree": "\nBai Ma\nBaima\nPe",
+    "lexvo": "\nBaima [en]\nBaima language [en]\nภาษาไบมา [th]\n白马语 [zh]",
+    "hhbib_lgcode": "\nBaima Luotongba",
+    "elcat": "\nBai Ma\nBaima\nPe\n白馬語"
+  },
+  "triggers": {
+    "lgcode": "\nbaima"
+  },
+  "identifier": {
+    "multitree": "bqh",
+    "endangeredlanguages": "5614"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baima (5614-bqh) = Threatened (100 percent certain, based on the evidence available) (used mostly home domains) [Chirkova 2015](cldf:chirkova:15:2)"
+  }
+}

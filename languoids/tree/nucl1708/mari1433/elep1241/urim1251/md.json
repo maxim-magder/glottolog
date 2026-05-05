@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Urimo",
+    "hid": "urx",
+    "level": "language",
+    "iso639-3": "urx",
+    "latitude": "-3.86066",
+    "longitude": "143.701",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Urimo](https://endangeredlanguages.com/lang/10575)\nhttps://www.wikidata.org/entity/Q7900611\nhttps://en.wikipedia.org/wiki/Urimo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hv:Laycock:Sepik**\n**hh:hvldsoc:SandersSanders:Marienberg**"
+  },
+  "altnames": {
+    "multitree": "\nUrimo\nYaugiba",
+    "lexvo": "\nUrimo [en]",
+    "elcat": "\nUrimo\nYaugiba"
+  },
+  "identifier": {
+    "multitree": "urx",
+    "endangeredlanguages": "10575"
+  },
+  "classification": {
+    "sub": "**hh:hvldsoc:SandersSanders:Marienberg**",
+    "subrefs": "\n**hh:hvldsoc:SandersSanders:Marienberg**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Urimo (10575-urx) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wogeo",
+    "hid": "woc",
+    "level": "language",
+    "iso639-3": "woc",
+    "latitude": "-3.20238",
+    "longitude": "144.089",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Wogeo](https://endangeredlanguages.com/lang/10525)\n[Wogeo](https://lexibank.clld.org/languages/abvdoceanic-Wogeo)\nhttps://en.wikipedia.org/wiki/Wogeo_language\nhttps://phoible.org/languages/woge1237\nhttps://www.wikidata.org/entity/Q8029061"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:blust:75:1**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:hays:91:1**\n**cldf:hays:91:7**\n**cldf:hogbin:35:2**\n**cldf:hogbin:38:2**\n**cldf:hogbin:43**\n**cldf:hogbin:45**\n**cldf:hogbin:46:1**\n**cldf:hogbin:46:3**\n**cldf:hogbin:78**\n**cldf:hogbin:lawrence:67**\n**cldf:keesing:84:2**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**hh:e:Anderson:Wogeo**\n**hh:e:Hogbin:NNG**\n**hh:e:Hogbin:Wogeo**\n**hh:e:Hogbin:Wogeo:1970**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Laycock:AustronesianSepik**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Friederici:Melanesische**\n**hh:phon:Exter:Wogeo**\n**hh:t:AndersonExter:Wogeo**"
+  },
+  "altnames": {
+    "multitree": "\nUageo\nWogeo",
+    "lexvo": "\nWogeo [en]",
+    "hhbib_lgcode": "\nKaresau a small island in the Schouten group\nKeule\nWokeo\nin the lg of Dagur and Vatai (= Arapeshan it seems cf p 264) but the morphemes are not Oceanic. Wogeo",
+    "elcat": "\nUageo\nWogeo\nWokeo"
+  },
+  "triggers": {
+    "lgcode": "\nwogeo"
+  },
+  "identifier": {
+    "multitree": "woc",
+    "endangeredlanguages": "10525"
+  },
+  "classification": {
+    "sub": "**hh:g:Lichtenberk:Manam**:2 **hh:hv:Ross:WMelanesia**:120-132, 418",
+    "subrefs": "\n**hh:g:Lichtenberk:Manam**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wogeo (10525-woc) = Threatened (60 percent certain, based on the evidence available) (Only people older than 30 use the language in daily conversation.) [Exter 2003](cldf:exter:03)"
+  }
+}

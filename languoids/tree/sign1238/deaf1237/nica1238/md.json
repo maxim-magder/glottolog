@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Nicaraguan Sign Language",
+    "hid": "ncs",
+    "level": "language",
+    "iso639-3": "ncs",
+    "latitude": "12.2509",
+    "longitude": "-86.3399",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "NI"
+    ],
+    "links": "\n[Nicaraguan Sign Language](https://endangeredlanguages.com/lang/7112)\nhttps://www.wikidata.org/entity/Q33765\nhttps://en.wikipedia.org/wiki/Nicaraguan_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:d:Lopez:Senas-Nicaragua**\n**hh:ld:Kegl:Signos-Nicaraguense**\n**hh:sd:Shepard-Kegl:Nicaraguan-Sign**\n**hh:soc:Parks:Deaf-Nicaragua**\n**hh:soc:Polich:Deaf-Nicaragua**\n**hh:soc:Polich:Nicaraguan**\n**hh:soc:Senghas:Deaf-Nicaraguan**\n**hh:typ:Flaherty:Nicaraguan-Sign**\n**hh:typ:Senghas:Nicaraguan-Sign**\n**hh:typ:Senghas:Nicaraguan-Sign:Emergence**"
+  },
+  "altnames": {
+    "multitree": "\nIdioma de Senas de Nicaragua\nNicaraguan Sign Language",
+    "lexvo": "\nIdioma de Signos Nicaragüense [de]\nIdioma de señas de Nicaragua [es]\nLenguaggio d' 'e signe d' 'o Nicaragua [nap]\nLingua dei segni nicaraguense [it]\nLinguaggiu dî signa nicaraguenzi [scn]\nLlengua de signes nicaragüenca [ca]\nLíngua de Sinais Nicaraguense [pt]\nNicaraguaanse gebarentaal [nl]\nNicaragualainen viittomakieli [fi]\nNicaraguan Sign Language [en]\nNicaraguansk tegnspråk [no]\nNicaraguanskt teckenspråk [sv]\nNikaragua işaret dili [tr]\nNikaragva signolingvo [eo]\nNikaragvanski jezik znakova [sh]\nНикарагвански језик знакова [sr]\nНикарагуæйы къухамындтыты æвзаг [os]\nשפת הסימנים של ניקרגואה [he]\nلغة الإشارة النيكاراغوية [ar]\nየኒካራጓ እጅ ቋንቋ [am]\nニカラグア手話 [ja]\n尼加拉瓜手语 [zh]\n니카라과 수화 [ko]",
+    "elcat": "\nIdioma de Senas de Nicaragua\nNicaraguan Sign Language"
+  },
+  "identifier": {
+    "multitree": "ncs",
+    "endangeredlanguages": "7112"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nicaraguan Sign Language (7112-ncs) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "**hh:typ:Senghas:Nicaraguan-Sign:Emergence**",
+    "subrefs": "\n**hh:typ:Senghas:Nicaraguan-Sign:Emergence**"
+  }
+}

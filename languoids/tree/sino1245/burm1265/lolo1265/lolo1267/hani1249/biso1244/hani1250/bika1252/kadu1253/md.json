@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kaduo",
+    "hid": "ktp",
+    "level": "language",
+    "iso639-3": "ktp",
+    "latitude": "22.2996",
+    "longitude": "101.74",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA"
+    ],
+    "links": "\n[Kaduo](https://endangeredlanguages.com/lang/4450)\nhttps://www.wikidata.org/entity/Q769809\nhttps://en.wikipedia.org/wiki/Kaduo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:zhaomin:zhumaoyun:11**\n**hh:e:Minji:Kaduo**\n**hh:ew:Zi:Kaduo**\n**hh:g:MinZhu:Kaduo**\n**hh:h:Wheatley:Hani**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:hvld:deLacouperie:China**\n**hh:hvw:Hansson:Akha-Hani-Khatu-Pijo**\n**hh:phon:Huziwara:Kadu**\n**hh:s:Dai:Kaduo**\n**mpieva:Mu2003Kazhuoyu**"
+  },
+  "altnames": {
+    "multitree": "\nGazhuo\nKado\nKadu\nKaduo\nKhàtù",
+    "lexvo": "\nKaduo [en]",
+    "hhbib_lgcode": "\nHani Kaduo\nK'ato\nKadu\nKhatu\nMojiang Kaduo",
+    "elcat": "\nGazhuo\nKado\nKadu\nKaduo\nKhàtù\n卡多話"
+  },
+  "triggers": {
+    "lgcode": "\nkazhuo"
+  },
+  "identifier": {
+    "multitree": "ktp",
+    "endangeredlanguages": "4450"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kaduo (4450-ktp) = Vulnerable (100 percent certain, based on the evidence available) (Outsiders who were married into Kaduo villages also learn to speak Kaduo.) [趙敏 and 朱茂云 2011](cldf:zhaomin:zhumaoyun:11)"
+  }
+}

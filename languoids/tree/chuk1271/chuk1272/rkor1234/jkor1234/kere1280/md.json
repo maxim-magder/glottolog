@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kerek",
+    "hid": "krk",
+    "level": "language",
+    "iso639-3": "krk",
+    "latitude": "62.1777",
+    "longitude": "175.07",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Kerek](https://endangeredlanguages.com/lang/2429)\nhttps://www.wikidata.org/entity/Q332792\nhttps://en.wikipedia.org/wiki/Kerek_language\n[Kerek](https://wals.info/languoid/lect/wals_code_krq)",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:skorik:86**\n**hh:e:Leontev:Kerek**\n**hh:e:Leontev:Kerekov**\n**hh:s:NikolaevaHelimskij:Yukagirskij**\n**hh:s:Skorik:Kerekskij**\n**hh:s:Volodin:Kerekskij**\n**hh:typ:Volodin:Kerek**\n**mpieva:Kurebito2001Comparat**"
+  },
+  "altnames": {
+    "wals": "\nKerek",
+    "moseley & asher (1994)": "\nKerek",
+    "multitree": "\nKerek",
+    "lexvo": "\nJęzyk kerecki [pl]\nKerek [en]\nKerek language [en]\nKerekin kieli [fi]\nKereks [nl]\nKerečki jezik [hr]\nLíngua kereque [pt]\nКерек чĕлхи [cv]\nКерекский язык [ru]",
+    "elcat": "\nKerek\nкерекский язык"
+  },
+  "triggers": {
+    "lgcode": "\nkerekskij\nkerekov\nkerek\nkamcatskoj"
+  },
+  "identifier": {
+    "wals": "krq",
+    "multitree": "krk",
+    "endangeredlanguages": "2429"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunn:Chukotko-Kamchatkan**:661-665 **hh:w:Kurebito:Chukchee-Kamchatkan**:1",
+    "subrefs": "\n**hh:hv:Dunn:Chukotko-Kamchatkan**\n**hh:w:Kurebito:Chukchee-Kamchatkan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kerek (krk-krk) = 9 (Dormant)."
+  }
+}

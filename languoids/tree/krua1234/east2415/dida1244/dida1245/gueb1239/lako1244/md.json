@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lakota Dida",
+    "hid": "dic",
+    "level": "language",
+    "iso639-3": "dic",
+    "latitude": "5.86012",
+    "longitude": "-5.40633",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11001730\nhttps://phoible.org/languages/lako1244\n[Vata](https://wals.info/languoid/lect/wals_code_vat)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:koopman:84**\n**eballiso2009:45043**\n**eballiso2009:45046**\n**hh:g:Guehoun:Dida-Lakota**\n**hh:g:Vogler:Vata**\n**hh:hv:Kaye:Dida**\n**hh:phon:Miller:Abou-Dida**\n**hh:phon:Tougbo:Gbeiwi**\n**hh:w:KayeKoopman:Dida**\n**hh:w:KayeKoopman:Vata**\n**hh:w:Marchese:Kru-Lexemes**\n**hh:w:Simeon:Dida**"
+  },
+  "altnames": {
+    "wals": "\nVata",
+    "ruhlen (1987)": "\nVata",
+    "moseley & asher (1994)": "\nDida",
+    "multitree": "\nBrabori\nDida, Lakota\nDieko\nGabo\nGuébie\nSatro\nZiki",
+    "lexvo": "\nLakota Dida [en]",
+    "hhbib_lgcode": "\nAbou Dida\nDida de Lakota\nDida-Lakota\nGbeiwi\nGbeyiwi\nLabo\nLabowi\nVata\nVatawi\nWata/Vata"
+  },
+  "triggers": {
+    "lgcode": "\nfono\ntonologico\ngbeiwi\nabou\nvata\nNOT description AND parler AND vata"
+  },
+  "identifier": {
+    "wals": "vat",
+    "multitree": "dic"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kaye:Dida**",
+    "subrefs": "\n**hh:hv:Kaye:Dida**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dida, Lakota (dic-dic) = 6a* (Vigorous)."
+  }
+}

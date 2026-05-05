@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mitla Zapotec",
+    "hid": "zaw",
+    "level": "language",
+    "iso639-3": "zaw",
+    "latitude": "16.86849",
+    "longitude": "-96.29434",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mitla Zapotec](https://endangeredlanguages.com/lang/10961)\n[Zapotec (Mitla)](https://wals.info/languoid/lect/wals_code_zap)\nhttps://en.wikipedia.org/wiki/Mitla_Zapotec\nhttps://www.wikidata.org/entity/Q3053288"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:stubblefield:dehollenbach:91**\n**cldf:stubblefield:destubblefield:91**\n**hh:d:StubblefieldStubblefield:Mitla-Zapotec**\n**hh:g:Briggs:Mitla-Zapotec**\n**hh:hv:Campbell:Central-Zapotec**\n**hh:hv:Fernandez:Protozapoteco**\n**hh:hvw:Radin:Zapotec**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:sd:StubblefieldStubblefield:Mitla-Zapotec**\n**hh:t:StubblefieldStubblefield:Mitla-Zapotec**\n**mpieva:Stubblefield1994MitlaZap**\n**sil16:12434**\n**sil16:35902**\n**sil16:35903**\n**sil16:35904**\n**sil16:35905**\n**sil16:35906**\n**sil16:35907**\n**sil16:35908**\n**sil16:35909**\n**sil16:45021**\n**sil16:48019**\n**sil16:51066**"
+  },
+  "altnames": {
+    "wals": "\nZapotec (Mitla)",
+    "wals other": "\nMitla Zapotec",
+    "ruhlen (1987)": "\nSapoteko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nCentral Sapoteko\nCentral Zapotec\nDidxsaj\nEast Central Tlacolula Zapotec\nEast Valley Zapotec\nEastern Sapoteko\nIsthmus Zapotec\nMitla Zapotec\nValley Zapotec\nZapotec\nZapotec (Mitla)\nZapotec, Mitla\nZapoteco (Mitla)\nZapoteco de San Felipe Tejalápam\nZapotèque de San Felipe Tejalapan",
+    "lexvo": "\nMitla Zapotec [en]",
+    "hhbib_lgcode": "\nDel Valle Mitla\nMitla\nSantiago Matatlán\nZapotec-Mitla",
+    "elcat": "\nMitla Zapotec"
+  },
+  "triggers": {
+    "lgcode": "\nnajza\nNOT grammar AND mitla\ntlacolula\ngisaj\nmaker\nmitla"
+  },
+  "identifier": {
+    "wals": "zap",
+    "multitree": "zaw",
+    "endangeredlanguages": "10961"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Central-Zapotec**",
+    "subrefs": "\n**hh:hv:Campbell:Central-Zapotec**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zapotec, Mitla (zaw-zaw) = 5 (Developing)."
+  }
+}

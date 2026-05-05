@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Subiya",
+    "hid": "sbs",
+    "level": "language",
+    "iso639-3": "sbs",
+    "latitude": "-17.5696",
+    "longitude": "24.8867",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "NA",
+      "ZM",
+      "ZW"
+    ],
+    "links": "\n[Subiya](https://endangeredlanguages.com/lang/3544)\nhttps://www.wikidata.org/entity/Q6442073\nhttps://en.wikipedia.org/wiki/Kuhane_language\nhttps://phoible.org/languages/subi1246\n[Subiya](https://wals.info/languoid/lect/wals_code_sub)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:andersson:janson:97:4**\n**cldf:batibo:mosaka:00**\n**cldf:baumbach:nd**\n**cldf:chimuka:77**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:davey:65**\n**cldf:fortune:70**\n**cldf:fosse:96**\n**cldf:guthrie:71:14**\n**cldf:hartland:07**\n**cldf:hasselbring:00:1**\n**cldf:jacottet:01**\n**cldf:janson:00**\n**cldf:johnston:19:26**\n**cldf:lewis:ed:09**\n**cldf:maho:ed:98:2**\n**cldf:np:12:5**\n**eballiso2009:15982**\n**eballiso2009:21340**\n**eballiso2009:21638**\n**eballiso2009:24872**\n**eballiso2009:24873**\n**eballiso2009:25488**\n**eballiso2009:28618**\n**eballiso2009:28707**\n**eballiso2009:29179**\n**eballiso2009:30722**\n**eballiso2009:31640**\n**eballiso2009:33205**\n**eballiso2009:37911**\n**eballiso2009:38572**\n**eballiso2009:38998**\n**eballiso2009:39711**\n**eballiso2009:42060**\n**eballiso2009:42195**\n**eballiso2009:45896**\n**eballiso2009:47611**\n**eballiso2009:47810**\n**eballiso2009:47857**\n**eballiso2009:48805**\n**eballiso2009:51214**\n**eballiso2009:59501**\n**eballiso2009:59842**\n**eballiso2009:8025**\n**eballiso2009:8162**\n**eballiso2009:9242**\n**hh:e:Shamukuni:Basubiya**\n**hh:h:Maho:Namibia**\n**hh:he:Malan:Namibia**\n**hh:hs:Baumbach:Caprivi**\n**hh:htyp:Schapera:Bantu-Ngamiland**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Batibo:Bantu-Botswana**\n**hh:hv:Bostoen:Western-Zambia**\n**hh:hv:Fortune:Barotseland**\n**hh:hv:Hachipola:Tonga**\n**hh:hv:Ohly:Subiya**\n**hh:hv:deLuna:Botatwe**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Seidel:Eastern-Caprivi**\n**hh:hvw:deLuna:Botatwe**\n**hh:ld:Mathangwane:Chiikuhane**\n**hh:s:Ndana:Chiikuhane**\n**hh:s:Theil:Subiya**\n**hh:st:Jacottet:Soubiya**\n**ldh:item_402122**\n**mpieva:Jacottet1896Etudessu**"
+  },
+  "altnames": {
+    "wals": "\nSubiya",
+    "ruhlen (1987)": "\nSubiya",
+    "moseley & asher (1994)": "\nSubia",
+    "multitree": "\nChikuahane\nChikuhane\nChikwahane\nCiikuhane\nEchisubia\nKuahane\nKwahane\nMbalangwe\nSesubea\nSubia\nSubiya\nSupia",
+    "lexvo": "\nSubiya [en]",
+    "hhbib_lgcode": "\nChiikuhane\nChinalinyanti (Mbalangwe) (CLT)\nEchiSubiya (SUB)\nIcisubiya\nKuhane\nMbalan'we\nMbalangwe\nMbalangwe M60\nSoubiya\nSubia",
+    "elcat": "\nChikuahane\nChikuhane\nChikwahane\nCiikuhane\nCisubiya\nEchisubia\nKuahane\nKuhane\nKwahane\nMbalangwe\nSesubea\nSesubiya\nSubia\nSubiya\nSupia\nTjikuhane"
+  },
+  "triggers": {
+    "lgcode": "\nnamlab\nyeei\ncapriviane\nbasubiya\ndialectometric\ntsuana\nsoubiya\nlipulelo\nsubiya\nstrukturveranderung\nchiwe\nnamlob\nheadache\nlinyanti\nkuhane\nponda\nokavangosumpfland"
+  },
+  "identifier": {
+    "wals": "sub",
+    "multitree": "sbs",
+    "endangeredlanguages": "3544"
+  },
+  "classification": {
+    "sub": "**hh:hv:deLuna:Botatwe**",
+    "subrefs": "\n**hh:hv:deLuna:Botatwe**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Subiya (3544-sbs) = Vulnerable (20 percent certain, based on the evidence available) [Maho 1998](cldf:maho:98)"
+  }
+}

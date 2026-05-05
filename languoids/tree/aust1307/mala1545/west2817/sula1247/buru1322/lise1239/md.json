@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lisela",
+    "hid": "lcl",
+    "level": "language",
+    "iso639-3": "lcl",
+    "latitude": "-3.27358",
+    "longitude": "126.981",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Lisela](https://endangeredlanguages.com/lang/2288)\nhttps://www.wikidata.org/entity/Q6558753\nhttps://en.wikipedia.org/wiki/Lisela_language"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Grimes:Buru**",
+    "subrefs": "\n**hh:hvsoc:Grimes:Buru**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:w:Hersri:Wayapo**\n**hh:w:Stokhofetal:Holle:3:4**"
+  },
+  "altnames": {
+    "multitree": "\nBuru\nLi Enyorot\nLiet Enjorot\nLisela\nNorth Buru\nWayapo",
+    "lexvo": "\nLisela [en]",
+    "hhbib_lgcode": "\nKayeli Buru 55c Alfuru of Kayeli-Tagalisa-Liliali is Li Enyolot dialect of Buru ie Lisela\nMasarete Ambon J Suhoka\nMasarete Ambon from the missionary teacher\nWayapo",
+    "elcat": "\nBuru\nLi Enyorot\nLiet Enjorot\nLisela\nNorth Buru\nWayapo"
+  },
+  "triggers": {
+    "lgcode": "\nwayapo"
+  },
+  "identifier": {
+    "multitree": "lcl",
+    "endangeredlanguages": "2288"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lisela (2288-lcl) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

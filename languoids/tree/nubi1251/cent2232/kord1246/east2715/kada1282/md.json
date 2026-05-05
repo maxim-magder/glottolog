@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kadaru",
+    "hid": "kdu",
+    "level": "language",
+    "iso639-3": "kdu",
+    "latitude": "12.1554",
+    "longitude": "30.2709",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Kadaru](https://endangeredlanguages.com/lang/4361)\nhttps://www.wikidata.org/entity/Q35441\nhttps://en.wikipedia.org/wiki/Kadaru_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:meinhof:18:4**\n**cldf:np:nd:264**\n**cldf:rottland:jakobi:91**\n**eballiso2009:11636**\n**eballiso2009:19828**\n**eballiso2009:26324**\n**eballiso2009:34865**\n**eballiso2009:47432**\n**eballiso2009:47433**\n**eballiso2009:47435**\n**eballiso2009:51375**\n**eballiso2009:56090**\n**eballiso2009:9230**\n**eballiso2009:963**\n**hh:e:Nadel:Kadero**\n**hh:h:Latham:Africa**\n**hh:hb:JakobiKummerle:Nubian**\n**hh:hel:Sommer:Survey**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Thelwall:NubianDajuDinka**\n**hh:ld:Birema:Kadero**\n**hh:ld:JabrelDar:Ajang**\n**hh:phon:AlakiNorton:Kadaru**\n**hh:phon:AlakiNorton:Kadaru-Kurtala**\n**hh:phon:IbrahimHuttenga:Tagle**\n**hh:soc:Ahmed:Hill-Nubian**\n**hh:soc:Sudan:Habila-Kadaru**\n**hh:soc:Sudan:Kudr-Angarko**\n**hh:typ:Gulfan:Taglenna-Possessor**\n**hh:typ:IbrahimJakobi:Taglennaa**\n**hh:w:Holroyd:Kordofan**\n**hh:w:Meinhof:Kadero**\n**hh:w:Ruppell:Kordofan**\n**mpieva:Hirst1906Agrammar**\n**mpieva:Rouchdy1991Nubiansa**"
+  },
+  "altnames": {
+    "multitree": "\nKadaro\nKadaru\nKadero\nKaderu\nKodhin\nKodhinniai\nKodoro\nKoldagi\nNubian (Hill)",
+    "lexvo": "\nKadaru [en]",
+    "hhbib_lgcode": "\nA short voabulary of Jebel Nubah (Nearly the same as Koldagí of Rüppell)\nHabila\nKadero\nKoldagi\nKurtala\nKururu\nTagle\nTagle village in Kadero hills\nTaglennaa",
+    "elcat": "\nKadaro\nKadaru\nKadero\nKaderu\nKodhin\nKodhinniai\nKodoro\nKoldagi\nNubian (Hill)"
+  },
+  "triggers": {
+    "lgcode": "\nangarko\nkadaru\ndaier\ntagle"
+  },
+  "identifier": {
+    "multitree": "kdu",
+    "endangeredlanguages": "4361"
+  },
+  "classification": {
+    "sub": "**hh:typ:ComfortJakobi:Uncunwee**:27",
+    "subrefs": "\n**hh:typ:ComfortJakobi:Uncunwee**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kadaru (4361-kdu) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

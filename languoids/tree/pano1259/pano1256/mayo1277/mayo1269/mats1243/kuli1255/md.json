@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kulina Pano",
+    "hid": "xpk",
+    "level": "language",
+    "iso639-3": "xpk",
+    "latitude": "-6.17715",
+    "longitude": "-72.0438",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kulina](https://endangeredlanguages.com/lang/1734)\nhttps://www.wikidata.org/entity/Q6443027\nhttps://en.wikipedia.org/wiki/Curu%C3%A7a_Kulina_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonby:stan:etal:10**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:fleck:10**\n**cldf:lewis:ed:09**\n**fabreall2009ann:Pano-Takana_kulina_pano0**\n**hh:he:Ricardo:Javari**\n**hh:hsoc:AnonbyHolbrook:Javari**\n**hh:hvb:Fleck:Panoan**\n**hh:hw:Jakway:Palabras**\n**hh:typ:Fleck:Mayoruna**\n**hh:typ:FleckVoss:Panoan**\n**hh:vw:Fleck:Kulinas-Marubos**\n**iso6393:2006-072**"
+  },
+  "altnames": {
+    "multitree": "\nCulina\nCulino\nKulina páno\nKulino",
+    "lexvo": "\nKulina Pano [en]",
+    "hhbib_lgcode": "\nChemá (del Brasil)\nKapishto\nKulina Pano Curuca\nKulina do Curuçá\nKulina-Pano-Curuca\nKulinas of the Curuçá River\nMarubo (del Brasil)\nidioma del río Curaçao (del Brasil)",
+    "elcat": "\nCulina\nCulino\nKulina\nKulino"
+  },
+  "triggers": {
+    "lgcode": "\nvalley AND javari"
+  },
+  "identifier": {
+    "multitree": "xpk",
+    "endangeredlanguages": "1734"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kulina (1734-xpk) = Severely Endangered (20 percent certain, based on the evidence available) [Fleck 2010](cldf:fleck:10)"
+  }
+}

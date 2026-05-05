@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pero",
+    "hid": "pip",
+    "level": "language",
+    "iso639-3": "pip",
+    "latitude": "9.62092",
+    "longitude": "11.044",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Pero](https://lexibank.clld.org/languages/kraftchadic-Pero)\n[Pero](https://wals.info/languoid/lect/wals_code_per)\nhttps://en.wikipedia.org/wiki/Pero_language\nhttps://phoible.org/languages/pero1241\nhttps://www.wikidata.org/entity/Q2411063"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:frajzyngier:80**\n**eballiso2009:20439**\n**eballiso2009:45172**\n**hh:d:Frajzyngier:Pero**\n**hh:e:Adelberger:Pero**\n**hh:ew:Faust:Pero**\n**hh:g:Frajzyngier:Pero**\n**hh:h:Gebauer:Pero-Longuda-Tula**\n**hh:hw:Kraft:Chadic:I**"
+  },
+  "altnames": {
+    "wals": "\nPero",
+    "ruhlen (1987)": "\nPero",
+    "moseley & asher (1994)": "\nPero",
+    "multitree": "\nChong'e\nChonge\nFiliya\nGoji\nKushe\nKushi\nPero\nPipero",
+    "lexvo": "\nPero [en]"
+  },
+  "triggers": {
+    "lgcode": "\nof AND pero"
+  },
+  "identifier": {
+    "wals": "per",
+    "multitree": "pip"
+  },
+  "classification": {
+    "sub": "**hh:ew:Faust:Pero**:39",
+    "subrefs": "\n**hh:ew:Faust:Pero**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pero (pip-pip) = 6a* (Vigorous)."
+  }
+}

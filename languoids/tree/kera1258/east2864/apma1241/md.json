@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ap Ma",
+    "hid": "kbx",
+    "level": "language",
+    "iso639-3": "kbx",
+    "latitude": "-4.35147",
+    "longitude": "144.085",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ap Ma](https://endangeredlanguages.com/lang/10637)\n[Ap Ma](https://grambank.clld.org/languages/apma1241)\n[Ap Ma](https://lexibank.clld.org/languages/transnewguineaorg-ap-ma)\n[Kambot](https://wals.info/languoid/lect/wals_code_kbo)\nhttps://en.wikipedia.org/wiki/Kambot_language\nhttps://www.wikidata.org/entity/Q56298"
+  },
+  "classification": {
+    "sub": "**hh:g:Barlow:Pondi**:14-17 **hh:g:Barlow:Ulwa:2023**:24-28",
+    "subrefs": "\n**hh:g:Barlow:Ulwa:2023**\n**hh:g:Barlow:Pondi**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Huppetz:Kambot**\n**hh:e:PryorPryor:Botin**\n**hh:e:Speiser:Kambrambo**\n**hh:g:Wade:Botin**\n**hh:hb:Zgraggen:Madang**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**\n**hh:hvld:Zgraggen:Madang**\n**hh:s:Pryor:Botin**\n**hh:typ:KillianBarlow:Deictic**\n**hh:typ:PryorFarr:Botin**\n**hh:w:Brien:Ap-Ma**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D23**"
+  },
+  "altnames": {
+    "wals": "\nKambot",
+    "wals other": "\nBotin",
+    "ruhlen (1987)": "\nKambot (Keram)",
+    "moseley & asher (1994)": "\nKambot",
+    "multitree": "\nAp Ma\nAp Ma Botin\nBotin\nKambot\nKeram",
+    "lexvo": "\nAp Ma [en]",
+    "hhbib_lgcode": "\nKambaramba\nKambot\nKambrambo",
+    "elcat": "\nAp Ma\nAp Ma Botin\nBotin\nKambot\nKaraube\nKeram"
+  },
+  "triggers": {
+    "lgcode": "\nbotin\nmobul\nkambrambo\nkambot\ninitiationszeremonie"
+  },
+  "identifier": {
+    "wals": "kbo",
+    "multitree": "kbx",
+    "endangeredlanguages": "10637"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ap Ma (10637-kbx) = Threatened (20 percent certain, based on the evidence available) [Pryor and Farr 1989](cldf:pryor:farr:89)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Chamalal",
+    "hid": "cji",
+    "level": "language",
+    "iso639-3": "cji",
+    "latitude": "42.5024",
+    "longitude": "45.995",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Chamalal](https://endangeredlanguages.com/lang/1234)\n[Chamalal](https://grambank.clld.org/languages/cham1309)\n[Chamalal](https://wals.info/languoid/lect/wals_code_chm)\nhttps://en.wikipedia.org/wiki/Chamalal_language\nhttps://www.wikidata.org/entity/Q56567"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:177**\n**cldf:boguslavskaja:89**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gudava:64**\n**cldf:heine:brenzinger:03**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:magomedova:85**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:xrakovskij:ed:97:6**\n**hh:d:Magomedova:Camalinsko**\n**hh:g:Bokarev:Chamalinskogo**\n**hh:s:Magomedova:Camalinskij:2000**\n**hh:s:Magomedova:Chamalal**\n**hh:soc:Roncero:Gakvarian-Chamalal**\n**mpieva:Magomedova1999Camalins**"
+  },
+  "altnames": {
+    "wals": "\nChamalal",
+    "ruhlen (1987)": "\nChamalal",
+    "moseley & asher (1994)": "\nChamalal",
+    "multitree": "\nCamalal\nChamalal\nChamalin",
+    "lexvo": "\nChamalal [en]\nChamalal language [en]\nJęzyk czamalalski [pl]\nTchamalaleg [br]\nTšamalalin kieli [fi]\nЧамалинский язык [ru]\nЧамалинська мова [uk]\nჭამალალური ენა [ka]",
+    "elcat": "\nCamalal\nChamalal\nChamali  чамалинский язык\nçamalaldub miçʿçʿ\nчамалалдуб мичIчI\nჭამალალური ენა",
+    "hhbib_lgcode": "\nGakvarian Chamalal\nLower Gakvari\nUpper Gakvari"
+  },
+  "triggers": {
+    "lgcode": "\ncamalinskogo\nchamalal\nrassian"
+  },
+  "identifier": {
+    "wals": "chm",
+    "multitree": "cji",
+    "endangeredlanguages": "1234"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudava:Andijskix**",
+    "subrefs": "\n**hh:hv:Gudava:Andijskix**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Chamalal (1234-cji) = Threatened (100 percent certain, based on the evidence available) (Children and young adults more often use Russian when communicating among themselves, particularly on phones and social media. Adults and children of the diaspora use the language less frequently and fluently.) [Roncero 2021](cldf:roncero:21)"
+  }
+}

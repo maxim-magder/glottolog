@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Chaldean Neo-Aramaic",
+    "hid": "cld",
+    "level": "language",
+    "iso639-3": "cld",
+    "latitude": "37.0972",
+    "longitude": "43.5027",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "SY",
+      "TR"
+    ],
+    "links": "\n[Chaldean (Modern)](https://wals.info/languoid/lect/wals_code_cld)\n[Chaldean Neo-Aramaic](https://grambank.clld.org/languages/chal1275)\n[Neo-Aramaic (Amadiya)](https://wals.info/languoid/lect/wals_code_naa)\nhttps://www.wikidata.org/entity/Q33236"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Sabar:Jewish-Neo-Aramaic**\n**hh:g:Coghill:Neo-Aramaic-Alqosh**\n**hh:g:Khan:Neo-Aramaic-Qaraqosh**\n**hh:g:Napiorkowska:Diyana-Zariwaw**\n**hh:g:Rhetore:Soureth**\n**hh:s:Coghill:Northeastern-Neo-Aramaic**\n**hh:s:Coghill:Peshabur**\n**hh:s:Coghill:Telkepe**\n**hh:s:Mole:Chaldean-Zakho**\n**hh:s:Noorlander:Marga**\n**hh:s:Sachau:Fellichi**\n**hh:s:Sara:Modern-Chaldean**\n**hh:styp:Rubba:Modern-Aramaic**\n**hh:t:Sabar:Besallah**\n**hh:t:Sabar:Zakho-Dihok**\n**hh:typ:Coghill:Ditransitive-Telkepe**\n**hh:typ:Gutman:Gaznax**\n**hh:typ:Hoberman:Chaldean-Zakho**\n**mpieva:Hoberman1989Thesynta**"
+  },
+  "altnames": {
+    "wals": "\nChaldean (Modern)\nNeo-Aramaic (Amadiya)",
+    "wals other": "\nAramaic (Amadia)\nAramaic (Amadiya)\nChaldean\nModern Chaldean\nSyriac",
+    "ruhlen (1987)": "\nAramaic",
+    "moseley & asher (1994)": "\nAramaic\nSyriac",
+    "multitree": "\nChaldean\nChaldean (Modern)\nChaldean Neo-Aramaic\nFallani\nFellihi\nKaldaya\nKildani\nLishana Kaldaya\nModern Chaldean\nNeo-Chaldean\nSoorath\nSoorith\nSuras\nSureth",
+    "lexvo": "\nChaldean Neo-Aramaic [en]\nKaldeisk nyarameiska [sv]\nKaldejski neoaramejski [hr]\nКалдеанско неоарамејски јазик [mk]\nภาษาอราเมอิกใหม่คัลเดีย [th]",
+    "hhbib_lgcode": "\nAlqosh\nChaldean Catholic Christians of the town of Telkepe\nChristian Neo-Aramaic East of Zab\nChristian Neo-Aramaic of Zakho\nChristians of Hassan\nDihok\nMarga\nMargaye\nPeshabur\nProbably at least in part the dialect of Ṣanāt where her informants' parents originated\nQaraqosh\nSimilar to the Christian Neo-Aramaic of Zakho\nTisqopa Modern Aramaic\nYemişli (Kurdish Mergeh) in the Uludere district of the Şırnak province\nZakho"
+  },
+  "triggers": {
+    "lgcode": "\nadjacents\nqaraqosh\nmosul\nhassan\nfellichi\nalqosh\nmossoul\nchaldeen\nsoureth\nchaldean"
+  },
+  "identifier": {
+    "wals": "cld;naa",
+    "multitree": "cld"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kim:Modern-Aramaic**",
+    "subrefs": "\n**hh:hv:Kim:Modern-Aramaic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Southern Northeastern Neo-Aramaic (9330-cld) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

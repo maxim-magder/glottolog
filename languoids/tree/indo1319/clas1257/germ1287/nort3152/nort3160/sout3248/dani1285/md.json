@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Danish",
+    "hid": "dan",
+    "level": "language",
+    "iso639-3": "dan",
+    "latitude": "54.8655",
+    "longitude": "9.36284",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE",
+      "DK",
+      "FO",
+      "GL"
+    ],
+    "links": "\n[Danish](https://grambank.clld.org/languages/dani1285)\n[Danish](https://lexibank.clld.org/languages/dunnielex-danish)\n[Danish](https://lexibank.clld.org/languages/northeuralex-dan)\n[Danish](https://lexibank.clld.org/languages/starostinpie-danish)\n[Danish](https://wals.info/languoid/lect/wals_code_dsh)\nhttps://en.wikipedia.org/wiki/Danish_language\nhttps://phoible.org/languages/dani1285\nhttps://www.wikidata.org/entity/Q9035"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bredsdorff:58**\n**cldf:diderichsen:79**\n**cldf:glynjones:gade:81**\n**cldf:haberland:94**\n**cldf:jones:gade:81**\n**cldf:koefoed:58**\n**cldf:nielsen:75**\n**cldf:rischel:70**\n**cldf:rischel:72**\n**cldf:rischel:82**\n**cldf:staffofeditionsberlitzsa:74**\n**eballiso2009:1267**\n**eballiso2009:1268**\n**eballiso2009:228**\n**eballiso2009:229**\n**eballiso2009:230**\n**eballiso2009:2954**\n**eballiso2009:29981**\n**eballiso2009:44635**\n**eballiso2009:54154**\n**hh:g:Allanetal:Danish**\n**hh:g:Brondum-Nielsen:Gammeldansk**\n**hh:g:Diderichsen:Dansk**\n**hh:g:Lundskaer:Danish**\n**hh:g:Pontoppidan:Danica**\n**hh:g:Zola:Dansk**\n**hh:gt:Bredsdorff:Danish**\n**hh:hs:KonigvanderAuwera:Germanic**\n**hh:hv:Larsen:Automatiske**\n**hh:s:Diderichsen:Danish**\n**hh:s:Herslund:Danish**\n**hh:soc:Pedersen:Danish**\n**hh:tdial:BennikeKristensen:Danske**\n**hh:v:Beijering:Danish**\n**hh:v:Hjorth:Dansk**\n**hh:v:Skautrup:Danske**\n**ldh:item_403124**\n**mpieva:1996Contente**\n**mpieva:Basboslashll2005Thephono**"
+  },
+  "altnames": {
+    "wals": "\nDanish",
+    "ruhlen (1987)": "\nDanish",
+    "moseley & asher (1994)": "\nDanish",
+    "multitree": "\nCentral Danish\nDanish\nDansk\nDänisch\nSjaelland",
+    "lexvo": "\nAn Danmhairgis [ga]\nBahasa Denmark [id]\nDan simi [qu]\nDan tili [crh]\nDana lingvo [eo]\nDanca [tr]\nDaneg [br]\nDanek [kw]\nDaniana linguo [io]\nDaniera [eu]\nDanimarka dili [az]\nDanish [en]\nDanish language [en]\nDanois [fr]\nDanouès [frp]\nDansk [da]\nDansk språk [nn]\nDanska [is]\nDanski jezik [bs]\nDanskt mál [fo]\nDanu kalba [lt]\nDanvargish [gv]\nDanès [ca]\nDanés [ast]\nDanšćina [hsb]\nDanščina [sl]\nDanų kalba [lt]\nDeens [af]\nDeensk [fy]\nDenisc sprǣc [ang]\nDens leid [sco]\nDán nyelv [hu]\nDánskkagiella [se]\nDánčina [sk]\nDánština [cs]\nDänische Sprache [de]\nDänisk [stq]\nDäänsche Spraak [nds]\nDāņu valoda [lv]\nGjuha daneze [sq]\nIdioma danés [an]\nIsiDenishi [zu]\nJęzyk duński [pl]\nKidenmark [sw]\nLenga danèisa [pms]\nLimba daneză [ro]\nLingua Danica [la]\nLingua danese [co]\nLingua dinamarquesa [gl]\nLèngoa daneïse [lij]\nLíngua dinamarquesa [pt]\nQallunaatut [kl]\nTaani keel [et]\nTanskan kieli [fi]\nTiếng Đan Mạch [vi]\nTok Denmak [tpi]\nZimanê danîmarkî [ku]\ndanois [fr]\nŁéngua danéxe [vec]\nΔανική γλώσσα [el]\nДаниаг æвзаг [os]\nДанмудн келн [xal]\nДанонь кяль [mdf]\nДански јазик [mk]\nДански језик [sr]\nДанська мова [uk]\nДатски език [bg]\nДатский язык [ru]\nДатчан йылме [mhr]\nДацкая мова [be]\nЗабони даниягӣ [tg]\nԴանիերեն [hy]\nדנית [he]\nدانىش تىلى [ug]\nزبان دانمارکی [fa]\nلغة دنماركية [ar]\nडॅनिश भाषा [mr]\nडेनिश भाषा [hi]\nডেনীয় ভাষা [bn]\nடேனிய மொழி [ta]\nภาษาเดนมาร์ก [th]\nდანიური ენა [ka]\nデンマーク語 [ja]\n丹麦语 [zh]\n덴마크어 [ko]",
+    "hhbib_lgcode": "\nDanidh\nOld Danish\nØstfynsk"
+  },
+  "triggers": {
+    "lgcode": "\ngammeldansk\ndanish\ndanische\nsproghistorisk\nfremstilling"
+  },
+  "identifier": {
+    "wals": "dsh",
+    "multitree": "dan"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:110-111",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Danish (dan-dan) = 1 (National). De facto national language."
+  }
+}

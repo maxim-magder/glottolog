@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "East Frisian Low Saxon",
+    "level": "dialect",
+    "latitude": "52.9713",
+    "longitude": "7.73549",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\n[Frisian (Eastern)](https://wals.info/languoid/lect/wals_code_fea)\nhttps://en.wikipedia.org/wiki/East_Frisian_Low_Saxon\nhttps://www.wikidata.org/entity/Q149208"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fort:01**"
+  },
+  "altnames": {
+    "wals": "\nFrisian\nFrisian (Eastern)",
+    "wals other": "\nFrisian (Saterland)",
+    "ruhlen (1987)": "\nFrisian, East\nnot specified",
+    "moseley & asher (1994)": "\nFrisian",
+    "multitree": "\nFriesisch\nFrisian\nFrisian (Eastern)\nFrisian, Eastern\nOstfriesisch\nSaterlandic Frisian\nSeeltersk Frisian",
+    "lexvo": "\nAastfräisk [stq]\nEast Frisian Low Saxon [en]\nEastern Frisian [en]\nEastfrysk [fy]\nOostfreesch Platt [nds]\nOostfreisk Nederduutsk [nds]\nOostfries Nedersaksisch [nl]\nOrientfrislanda platgermana lingvo [eo]\nOstfriesisches Platt [de]\nfrison oriental [fr]",
+    "hhbib_lgcode": "\nEast Frisian dialect of Low German\nFrisian-Eastern",
+    "glottolog": "\nEastern Frisian"
+  },
+  "triggers": {
+    "lgcode": "\nplattdeutsch\nostfriesischen\nsaterfriesische\nostfriesisches\nkontinentalwestgermanischen\nsaterfriesisches\nostfriesische\nfriesischen"
+  },
+  "identifier": {
+    "wals": "fri;fea",
+    "multitree": "frs"
+  },
+  "classification": {
+    "sub": "**hh:v:Niebaum:Ostfriesisch-Groningische**",
+    "subrefs": "\n**hh:v:Niebaum:Ostfriesisch-Groningische**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Low Saxon (383-act, drt, frs, gos, nds, sdz, stl, twd, vel, wep) = Vulnerable"
+  }
+}

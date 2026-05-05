@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Western Pantar",
+    "hid": "lev",
+    "level": "language",
+    "iso639-3": "lev",
+    "latitude": "-8.52787",
+    "longitude": "124.057",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Western Pantar](https://endangeredlanguages.com/lang/9449)\n[Western Pantar](https://lexibank.clld.org/languages/robinsonap-westernpantar)\nhttps://en.wikipedia.org/wiki/Western_Pantar_language\nhttps://www.wikidata.org/entity/Q6583582"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:holton:11**\n**cldf:holton:koly:08**\n**cldf:simons;:fennig:ed:13**\n**hh:d:HoltonKoly:WPantar**\n**hh:hvw:Stokhof:Alor**\n**hh:s:Holton:Western-Pantar**\n**hh:s:Nitbanietal:Lamma**\n**hh:typ:Holton:WPantar**\n**langsci:holton:lammakoly:08**"
+  },
+  "altnames": {
+    "multitree": "\nLamma\nLamma'\nLemma\nMauta",
+    "lexvo": "\nLamma [en]\nWestern Pantar language [en]\nภาษาปันตาร์ตะวันตก [th]",
+    "hhbib_lgcode": "\n3xLamma\nBiangwala\nKalondama\nLamma\nMauta/Tubal",
+    "elcat": "\nLamma\nMauta\nPantar Barat\nTubbe\nWestern Pantar"
+  },
+  "triggers": {
+    "lgcode": "\npreliminary AND pantar\nlamma"
+  },
+  "identifier": {
+    "multitree": "lev",
+    "endangeredlanguages": "9449"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Western Pantar (9449-lev) = Vulnerable (100 percent certain, based on the evidence available) (Speakers are shifting to Indonesian (Alor Malay) under the influence of urbanization.) [Holton and Koly 2008](cldf:holton:koly:08)"
+  }
+}

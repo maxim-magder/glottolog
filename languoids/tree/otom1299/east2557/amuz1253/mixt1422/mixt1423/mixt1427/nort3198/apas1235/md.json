@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Apasco-Apoala Mixtec",
+    "hid": "mip",
+    "level": "language",
+    "iso639-3": "mip",
+    "latitude": "17.6143",
+    "longitude": "-97.0657",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northeastern Alta Mixtec](https://endangeredlanguages.com/lang/10532)\nhttps://www.wikidata.org/entity/Q13583505\nhttps://en.wikipedia.org/wiki/Apoala_Mixtec"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hdial:Eglandetal:Mexico**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Josserand:Mixteca**\n**hh:w:Jordan:Mixteco**"
+  },
+  "altnames": {
+    "multitree": "\nApasco Mixtec\nApoala Mixtec\nMixtec, Apasco-Apoala\nMixteco de Chocho\nMixteco de Santiago Apoala\nNorthern Misteko\nNorthern Mixteco\nNorthern Nochixtlán Mixtec",
+    "lexvo": "\nApasco-Apoala Mixtec [en]",
+    "hhbib_lgcode": "\n102 Santiago Apoala Mixtec Josserand 1983\n73 San Pedro Jocotipac Mixtec Josserand 1983\n91 Santa Maria Apazco Mixtec Josserand 1983\nApas\nApasco\nApoa\nApoala\nApoala-Jocotipac-Ixtaltepec-Chicahua\nCántaros\nJoco\nJocotipac\nMixtec-Apasco-Apoala\nNdua\nSan Antonio Nduayaco\nSan Pedro Jocotipac\nSantiago Apoala",
+    "elcat": "\nApasco Mixtec\nApasco-Apoala Mixtec\nApoala Mixtec\nMixteco de San Bartolo Soyaltepec\nMixteco de Santiago Apoala\nMixteco del noreste bajo\nNortheastern Alta Mixtec\nNorthern Nochixtlán Mixtec\nSoyaltepec Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nplaticas"
+  },
+  "identifier": {
+    "multitree": "mip",
+    "endangeredlanguages": "10532"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:15-16 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northeastern Alta Mixtec (10532) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

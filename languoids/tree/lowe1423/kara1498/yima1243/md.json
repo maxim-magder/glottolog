@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yimas",
+    "hid": "yee",
+    "level": "language",
+    "iso639-3": "yee",
+    "latitude": "-4.71731",
+    "longitude": "143.572",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Yimas](https://endangeredlanguages.com/lang/2711)\n[Yimas](https://grambank.clld.org/languages/yima1243)\n[Yimas](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Yimas)\n[Yimas](https://lexibank.clld.org/languages/transnewguineaorg-yimas)\n[Yimas](https://wals.info/languoid/lect/wals_code_yim)\nhttps://en.wikipedia.org/wiki/Yimas_language\nhttps://www.wikidata.org/entity/Q36954"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gerstner-link:02**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:g:Foley:Yimas**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:DaviesComrie:Yuat**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D21**"
+  },
+  "altnames": {
+    "wals": "\nYimas",
+    "ruhlen (1987)": "\nYimas",
+    "moseley & asher (1994)": "\nYimas",
+    "multitree": "\nYimas\nYimaso",
+    "lexvo": "\nIdioma Yimas [es]\nJęzyk yimas [pl]\nYimas [de]\nYimas language [en]\nYimaseg [br]",
+    "hhbib_lgcode": "\n(with noun class markers)\nV-mbang-kiipal-tamunum-mangbamang-tam (a Lower Sepik language)\nYimas I\nYimas II",
+    "elcat": "\nYimas"
+  },
+  "triggers": {
+    "lgcode": "\nyimas"
+  },
+  "identifier": {
+    "wals": "yim",
+    "multitree": "yee",
+    "endangeredlanguages": "2711"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik-Ramu** **hh:hv:Laycock:Sepik**",
+    "subrefs": "\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yimas (2711-yee) = Endangered (60 percent certain, based on the evidence available) [Foley 1991](cldf:foley:91)"
+  }
+}

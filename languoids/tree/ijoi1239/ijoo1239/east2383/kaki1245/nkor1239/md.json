@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nkoroo",
+    "hid": "nkx",
+    "level": "language",
+    "iso639-3": "nkx",
+    "latitude": "4.57641",
+    "longitude": "7.45802",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Nkoroo](https://endangeredlanguages.com/lang/841)\n[Nkoroo](https://grambank.clld.org/languages/nkor1239)\nhttps://en.wikipedia.org/wiki/Nkoroo_language\nhttps://www.wikidata.org/entity/Q36000"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:akinlabi:connell:etal:11**\n**cldf:lewis:ed:09**\n**eballiso2009:32872**\n**hh:hv:Blench:Ijoid**\n**hh:hv:Harry:Koin**\n**hh:ld:Obikudo:Nkoroo**\n**hh:phon:Harry:Nkoroo**\n**hh:typ:Akinlabietal:Nkoroo**\n**hh:typ:Obikudo:Nkoroo**"
+  },
+  "altnames": {
+    "multitree": "\nNkoro\nNkoroo\nỊjọ",
+    "lexvo": "\nNkoroo [en]\nNkoroo language [en]",
+    "hhbib_lgcode": "\nNkoro\nNkorooo",
+    "elcat": "\nKirika\nNkoro\nNkoroo\nỊjọ"
+  },
+  "triggers": {
+    "lgcode": "\nkirika\nnkoroo"
+  },
+  "identifier": {
+    "multitree": "nkx",
+    "endangeredlanguages": "841"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jenewari:Ijoid**, **hh:hv:Connell:Defaka-Ijo:2012**",
+    "subrefs": "\n**hh:hv:Jenewari:Ijoid**\n**hh:hv:Connell:Defaka-Ijo:2012**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Nkoroo (841-nkx) = Threatened (20 percent certain, based on the evidence available) [Akinlabi et al. 2011](cldf:akinlabi:connell:etal:11)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sizang Chin",
+    "hid": "csy",
+    "level": "language",
+    "iso639-3": "csy",
+    "latitude": "23.8192",
+    "longitude": "93.6884",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\n[Chin (Siyin)](https://wals.info/languoid/lect/wals_code_chs)\n[Sizang Chin](https://grambank.clld.org/languages/siyi1240)\nhttps://en.wikipedia.org/wiki/Sizang_language\nhttps://www.wikidata.org/entity/Q7533375"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:naylor:25**\n**hh:g:Sarangthem:Sizang**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hvw:Button:NChin**\n**hh:hvw:Button:NChin:2011**\n**hh:hvw:Grierson:3:III**\n**hh:hvw:Thang:Chin**\n**hh:s:Naylor:Chin-Siyin**\n**hh:s:Rundall:Siyin**\n**hh:s:Stern:Sizang-Chin**\n**hh:styp:Davis:Sizang**\n**hh:t:Stern:Sizang**"
+  },
+  "altnames": {
+    "wals": "\nChin (Siyin)",
+    "wals other": "\nSiyin Chin",
+    "ruhlen (1987)": "\nChin (North)",
+    "moseley & asher (1994)": "\nSiyin",
+    "multitree": "\nChin (Siyin)\nChin, Siyin\nChin,Siyin\nShi-zang\nSiyang\nSiyin\nSizang",
+    "lexvo": "\nSiyin Chin [en]",
+    "hhbib_lgcode": "\nChin-Siyin\nSiyin\nSiyin Chin\nSizang"
+  },
+  "triggers": {
+    "lgcode": "\nsiyin"
+  },
+  "identifier": {
+    "wals": "chs",
+    "multitree": "csy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin** **hh:hvw:Button:NChin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:hvw:Button:NChin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chin, Siyin (csy-csy) = 5 (Developing)."
+  }
+}

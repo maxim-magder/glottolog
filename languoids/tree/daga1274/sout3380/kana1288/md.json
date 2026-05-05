@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kanasi",
+    "hid": "soq",
+    "level": "language",
+    "iso639-3": "soq",
+    "latitude": "-10.1658",
+    "longitude": "149.751",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kanasi](https://grambank.clld.org/languages/kana1288)\nhttps://en.wikipedia.org/wiki/Kanasi_language\nhttps://www.wikidata.org/entity/Q11732656"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Lean:Milne-Bay**\n**hh:nt:RoyerRoyer:Kanasi**\n**hh:s:Pappenhagen:Kanasi**\n**hh:s:Pappenhagen:Kanasi:1988**\n**hh:s:RoyerRoyer:Kanasi**\n**hh:w:Anonymous:Wadewinda**\n**silpng:silpng1991-2000:853**"
+  },
+  "altnames": {
+    "multitree": "\nKanasi\nSona",
+    "lexvo": "\nKanasi [en]",
+    "hhbib_lgcode": "\nSona\nWadewinda"
+  },
+  "triggers": {
+    "lgcode": "\nmanasia\nwadewinda\nkanasi\npudi\nboianai\nrebala"
+  },
+  "identifier": {
+    "multitree": "soq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dutton:SEPapua**:15-19",
+    "subrefs": "\n**hh:hv:Dutton:SEPapua**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kanasi (soq-soq) = 5 (Developing)."
+  }
+}

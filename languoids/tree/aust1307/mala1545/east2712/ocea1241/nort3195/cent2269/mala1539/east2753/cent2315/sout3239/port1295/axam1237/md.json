@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Axamb",
+    "hid": "ahb",
+    "level": "language",
+    "iso639-3": "ahb",
+    "latitude": "-16.4838",
+    "longitude": "167.707",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ahamb](https://endangeredlanguages.com/lang/10816)\n[Axamb](https://grambank.clld.org/languages/axam1237)\n[Axamb (Small Island-Brisbane) 162-89](https://lexibank.clld.org/languages/abvdoceanic-AxambSmallIslandBrisbane16289)\nhttps://en.wikipedia.org/wiki/Ahamb_language\nhttps://www.wikidata.org/entity/Q2874710"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1177**\n**asjp2010:1335**\n**asjp2010:932**\n**cldf:barbour:rangelov:etal:19**\n**cldf:rangelov:17**\n**cldf:rangelov:18**\n**cldf:rangelov:19**\n**cldf:rangelov:20:2**\n**cldf:rangelov:barbour:20**\n**hh:e:Bratrud:Ahamb**\n**hh:e:Bratrud:Ahamb-Revival**\n**hh:g:Rangelov:Ahamb**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**\n**hh:soc:Rangelov:Ahamb**"
+  },
+  "altnames": {
+    "multitree": "\nAhamb\nAxamb\nMallicolo",
+    "lexvo": "\nAxamb [en]",
+    "hhbib_lgcode": "\nAhamb\nAkhamb",
+    "elcat": "\nAhamb\nAkamb\nAkhamb\nAxamb\nnaujin sdrato [nauˈtʃin sndraˈto] ‘our language’",
+    "glottolog": "\nAhamb"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "ahb",
+    "endangeredlanguages": "10816"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ahamb (10816) = Endangered (100 percent certain, based on the evidence available) (EGIDS 5-6a) [Rangelov et al. 2019](cldf:rangelov:bratrud:etal:19)"
+  }
+}

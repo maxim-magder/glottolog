@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Eastern Kikongo",
+    "level": "language",
+    "hid": "NOCODE_Eastern-Kikongo",
+    "longitude": "15.5",
+    "latitude": "-5.25",
+    "countries": [
+      "CD"
+    ],
+    "macroareas": [
+      "Africa"
+    ],
+    "links": "\n[Eastern Kikongo](https://grambank.clld.org/languages/east2782)\nhttps://www.wikidata.org/entity/Q116707134"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:177-179, 182-184, 190-191 **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Bostoen:Aire-Kongo**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nEastern variety around Kisantu\nH16 Kimbeko\nH16_Kimbata_Ngidinga\nH16_Kimbeko\nH16a_Kisikongo_2013\nH16g Kintandu\nH16g_Kimpangu_2012\nH16g_Ntandu\nH16h Kinkanu\nH16h_Kinkanu_2012\nKimbata\nKimbeko\nKinkanu\nKintandu\nKisantu\nMambatas\nMbata\nMbeko\nMpangu\nMusentandu\nNkanu\nNtandu\nNtandu H16G"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Butaye:Kikongo**\n**hh:h:deFaria:Pombo**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:deSchryver:Kikongo**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Geoffray:Kintandu**\n**hh:phontyp:Bandoki:Ntandu-Mbata**\n**hh:s:Anonymous:Kikongo**\n**hh:s:Butaye:Congolaise**\n**hh:s:Calloch:Iteke**\n**hh:s:Mfulani:Kintandu**\n**hh:sd:Butaye:Ntandu**\n**hh:typ:Daeleman:Ntandu**\n**hh:typ:Dom:Kikongo**\n**hh:v:Daeleman:Ntandu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E28",
+    "date": "2025-03-19T11:52:53",
+    "comment": "Koongo (kng-NOCODE_Eastern-Kikongo) = 5 (Developing)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Koongo [kng] entry in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 subsumes varieties, which due to their lexical diversity, are unlikely to be mutually intelligible ((**hh:hv:Bastinetal:Bantu**:214), **hh:hv:Pacchiarotti:West-Coastal-Bantu**:177-179, 182-184, 190-191). In this, the varieties Kimbata, Kimbeko, Kimpangu, Kinkanu, and Kintandu of the East and Southeast can be separated into an Eastern Kikongo entry. See also: South-Central Koongo [kng].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Eastern-Kikongo"
+  }
+}

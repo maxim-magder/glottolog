@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Sumuic",
+    "level": "family",
+    "iso639-3": "sum",
+    "hid": "sum",
+    "countries": [
+      "NI"
+    ],
+    "macroareas": [
+      "North America"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Sumo_languages\nhttps://www.wikidata.org/entity/Q971060",
+    "latitude": "13.0",
+    "longitude": "-84.5"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pineda:Misumalpan**",
+    "subrefs": "\n**hh:hv:Pineda:Misumalpan**"
+  },
+  "iso_retirement": {
+    "comment": "I copy from Thomas Michael Green (see reference, page 10): \"Ulwa is the\nsouthernmost surviving member of the Sumu language subfamily. It is not mutually\nintelligible with its northern Sumu neighbor, the Mayangna language, whose\nmodern dialects are Panamahka and Tuahka of Nicaragua (see von Houwald 1980,\nNorwood 1987 and 1997) and Tawahka of Honduras (Benedicto and Hale 1998)\".",
+    "code": "sum",
+    "name": "Sumo-Mayangna",
+    "effective": "2010-01-18",
+    "remedy": "Split into Mayangna [yan] and Ulwa [ulw]",
+    "reason": "split",
+    "change_request": "2009-037",
+    "change_to": "\nyan\nulw"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2009-037**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6199"
+  }
+}

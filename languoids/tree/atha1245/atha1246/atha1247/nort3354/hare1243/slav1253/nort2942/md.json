@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "North Slavey",
+    "hid": "scs",
+    "level": "language",
+    "iso639-3": "scs",
+    "latitude": "63.5",
+    "longitude": "-125.67",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[North Slavey](https://grambank.clld.org/languages/nort2942)\nhttps://www.wikidata.org/entity/Q20628"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC1052**\n**anla:AT996R1996**\n**anla:CA891M1917**\n**anla:CA938H1960a**\n**anla:CA938H1966**\n**anla:CA938H1971b**\n**anla:CA961K1964d**\n**anla:CA961K1968b**\n**anla:CA968P1969**\n**anla:CA969H1970a**\n**anla:CA969H1970b**\n**anla:CA974S1974a**\n**anla:CA975C1979c**\n**anla:CA975T1979a**\n**anla:CA976Rc1979b**\n**anla:CA976Rc1979c**\n**anla:CA976Rc1980**\n**anla:CA976Rc1983b**\n**anla:CA976Rc1985**\n**anla:CA976Rc1986a**\n**anla:CA976Rc1986b**\n**anla:CA976Rc1987**\n**anla:CA976Rc1989b**\n**anla:CA976Rc1990a**\n**anla:CA976Rc1990c**\n**anla:CA976Rc1993**\n**anla:CA976Rc2000**\n**anla:CA980RcA1980**\n**anla:CA982A1982a**\n**anla:CA983ALSC1983**\n**anla:CA986HFC1986**\n**anla:CA988W1989**\n**anla:CA992RcS2002a**\n**anla:CN982D1982**\n**anla:CY978A-Video-19**\n**anla:G976R1994**\n**anla:KU863P1865**\n**anla:KU863P1869**\n**anla:KU863P1870a**\n**anla:KU863P1870b**\n**anla:KU863P1876**\n**anla:KU873P1873**\n**anla:KU894R1894a**\n**anla:KU959U1959**\n**anla:KU959U1959b**\n**asjp2010:4594**\n**cldf:helm:61**\n**cldf:hooper:53**\n**cldf:mackenzie:66:1**\n**cldf:osgood:31**\n**cldf:rushforth:77**\n**cldf:savishinsky:74**\n**cldf:whiting:64**\n**hh:e:Gillespie:Bearlake**\n**hh:e:Gillespie:Mountain-Indians**\n**hh:e:Hara:Hare**\n**hh:e:SavishinskyHara:Hare**\n**hh:esd:Petitot:Dene-Dindjie**\n**hh:g:Rice:Slave**\n**hh:s:Petitot:Dene-Dindjie**\n**hh:s:Rice:Slave**\n**hh:typ:Rice:Slave**\n**mpieva:Rice1978Haredict**"
+  },
+  "altnames": {
+    "lexvo": "\nNorth Slavey [en]",
+    "hhbib_lgcode": "\nBearlake\nFort Good Hope\nHare\nIn linguistic usage the name Mountain is used more broadly to refer to the language spoken in the 1970s at Fort Norman and Fort Wrigley and reportedly also by a few people at Fort Liard (Keren Rice and Victor Golla communications to editors 1979). Mountain is a language of the Northeastern Athapaskan group (Howren 1975) most closely related to Hare and Bearlake\nN Slavey\nPeaux de Lièvre\nSlavey-North"
+  },
+  "triggers": {
+    "lgcode": "\nna AND dene\ndindjie"
+  },
+  "classification": {
+    "sub": "**hh:h:Mithun:NAmerica**:345, 350-352 **hh:h:Jaker:Na-Dene**:474",
+    "subrefs": "\n**hh:h:Mithun:NAmerica**\n**hh:h:Jaker:Na-Dene**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Hare (2442-scs-har) = Severely Endangered (20 percent certain, based on the evidence available); Bearlake (1675-scs-bea) = Endangered (80 percent certain, based on the evidence available)"
+  }
+}

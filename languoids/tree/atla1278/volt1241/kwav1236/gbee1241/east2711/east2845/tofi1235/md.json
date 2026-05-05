@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tofin Gbe",
+    "hid": "tfi",
+    "level": "language",
+    "iso639-3": "tfi",
+    "latitude": "6.51774",
+    "longitude": "2.43226",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3530330\nhttps://en.wikipedia.org/wiki/Tofin_language\nhttps://phoible.org/languages/tofi1235"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:31285**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hv:Capo:Gbe**\n**hh:hv:Kluge:Gbe**\n**hh:hvld:Hazoume:Gbe**\n**hh:ld:Dogil:Tofingbe**\n**hh:soc:Schoch:Tofin**"
+  },
+  "altnames": {
+    "multitree": "\nBenin\nGbe, Tofin",
+    "lexvo": "\nTofin Gbe [en]",
+    "hhbib_lgcode": "\nGbe-Tofin\nTofin\nTofingbe\nTofinu"
+  },
+  "triggers": {
+    "lgcode": "\ntofin"
+  },
+  "identifier": {
+    "multitree": "tfi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kluge:Gbe**",
+    "subrefs": "\n**hh:hv:Kluge:Gbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gbe, Tofin (tfi-tfi) = 6a (Vigorous)."
+  }
+}

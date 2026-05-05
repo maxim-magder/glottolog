@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nemi",
+    "hid": "nem",
+    "level": "language",
+    "iso639-3": "nem",
+    "latitude": "-20.6791",
+    "longitude": "164.797",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Nemi](https://endangeredlanguages.com/lang/3055)\n[Nɛmi](https://lexibank.clld.org/languages/abvdoceanic-Nmi)\nhttps://en.wikipedia.org/wiki/Nemi_language\nhttps://www.wikidata.org/entity/Q3338008"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:190**\n**cldf:np:nd:264**\n**hh:hv:Ozanne-Rivierre:Hienghene**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:hw:HaudricourtOzanne-Rivierre:Hienghene**\n**hh:phon:Rivierre:Nemi**\n**hh:s:Ozanne-Rivierre:Nemi**\n**hh:std:Ozanne-Rivierre:Nemi**\n**hh:w:Ozanne-Rivierre:Nemi**"
+  },
+  "altnames": {
+    "multitree": "\nNemi\nNeukaledonien",
+    "lexvo": "\nNemi [en]",
+    "elcat": "\nNemi\nNeukaledonien"
+  },
+  "triggers": {
+    "lgcode": "\nnemi"
+  },
+  "identifier": {
+    "multitree": "nem;nemi",
+    "endangeredlanguages": "3055"
+  },
+  "classification": {
+    "sub": "**hh:hbld:Haudricourt:New-Caledonia-Loyalty**",
+    "subrefs": "\n**hh:hbld:Haudricourt:New-Caledonia-Loyalty**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nemi (3055-nem) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "North Efate",
+    "hid": "llp",
+    "level": "language",
+    "iso639-3": "llp",
+    "latitude": "-17.5774",
+    "longitude": "168.375",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Nguna](https://lexibank.clld.org/languages/abvdoceanic-Nguna)\n[Nguna](https://wals.info/languoid/lect/wals_code_ngu)\n[North Efate](https://grambank.clld.org/languages/nort2836)\nhttps://en.wikipedia.org/wiki/North_Efate_language\nhttps://www.wikidata.org/entity/Q3580152"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2072**\n**asjp2010:3302**\n**asjp2010:4046**\n**asjp2010:432**\n**asjp2010:4930**\n**cldf:bellwood:95**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:diamond:77**\n**cldf:don:27**\n**cldf:facey:82**\n**cldf:np:14:5**\n**hh:d:Schmidt:Nguna**\n**hh:hv:Capell:Nguna-Efate**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Ray:Island**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Nuna**\n**hh:s:Nose:Nguna**\n**hh:s:Ray:Nguna**\n**hh:s:Schutz:Nguna**\n**hh:t:Schutz:Nguna**\n**hh:w:Ray:Nguna**\n**mpieva:299**\n**mpieva:Schutz1969Ngunatex**"
+  },
+  "altnames": {
+    "wals": "\nNguna",
+    "wals other": "\nTongoa",
+    "ruhlen (1987)": "\nEfate (North)",
+    "moseley & asher (1994)": "\nEfate (North)",
+    "multitree": "\nEfate, North\nVanuatu",
+    "lexvo": "\nNorth Efate [en]\nNorth Efate language [en]",
+    "hhbib_lgcode": "\nEfate-North\nLelepa\nNakanamananga\nNakanamanga\nNguna\nNuna Montague Island\nPwele\nSeseke\nSiviri\nTongoa\nWoraviu"
+  },
+  "triggers": {
+    "lgcode": "\nnguna\nnuna"
+  },
+  "identifier": {
+    "wals": "ngu",
+    "multitree": "llp"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Efate, North (llp-llp) = 6b (Threatened)."
+  }
+}

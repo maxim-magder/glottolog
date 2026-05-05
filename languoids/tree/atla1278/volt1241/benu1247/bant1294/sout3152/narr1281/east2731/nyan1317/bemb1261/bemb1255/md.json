@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bembe",
+    "hid": "bmb",
+    "level": "language",
+    "iso639-3": "bmb",
+    "latitude": "-4.49057",
+    "longitude": "29.0507",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4885023\nhttps://en.wikipedia.org/wiki/Bembe_language_(Ibembe)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:14683**\n**eballiso2009:17465**\n**eballiso2009:17939**\n**eballiso2009:22328**\n**eballiso2009:22329**\n**eballiso2009:25996**\n**eballiso2009:26557**\n**eballiso2009:28707**\n**eballiso2009:29998**\n**eballiso2009:36275**\n**eballiso2009:57901**\n**eballiso2009:7057**\n**hh:d:Wamenka:Bembe**\n**hh:e:Biebuyck:Babembe**\n**hh:h:Cleire:Kivu**\n**hh:hb:Boone:Congo-Sud-Est**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Moeller:Orientale-Congo**\n**hh:hvld:Meeussen:Maniema**\n**hh:styp:Iorio:Bembe-Subject-Object**\n**hh:typ:Iorio:Bembe-Determiner**\n**hh:typ:Iorio:Kibembe**\n**hh:typ:Kyota:Bembe**\n**hh:typ:Mulengwa:Ebembe**\n**hh:typ:Mutombo:Bembe**\n**hh:typ:Pondamali:Ebembe**\n**hh:w:Verhulpen:Balubaises**"
+  },
+  "altnames": {
+    "multitree": "\nBaga maduri\nBaga manduri\nBeembe\nBembe\nEbembe\nIbembe\nKibembe",
+    "lexvo": "\nBembe [en]",
+    "hhbib_lgcode": "\nBaBembe of Kivu\nBabembe\nEbembe\nKibembe\nKibembe D54 in Itombwa\nP 45 BaBembe"
+  },
+  "triggers": {
+    "lgcode": "\nNOT im AND bembe"
+  },
+  "identifier": {
+    "multitree": "bmb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ricquier:Lega-Luba**",
+    "subrefs": "\n**hh:hv:Ricquier:Lega-Luba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Baga Manduri (1313-bmb) = Definitely endangered"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tregami",
+    "hid": "trm",
+    "level": "language",
+    "iso639-3": "trm",
+    "latitude": "34.998117",
+    "longitude": "71.099792",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF"
+    ],
+    "links": "\n[Tregami](https://endangeredlanguages.com/lang/3505)\nhttps://www.wikidata.org/entity/Q34081\nhttps://en.wikipedia.org/wiki/Tregami_language"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Morgenstierne:Nuristan**:120 **hh:t:Degener:Tregami**:80-83",
+    "subrefs": "\n**hh:hvw:Morgenstierne:Nuristan**\n**hh:t:Degener:Tregami**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:degener:02**\n**cldf:ed:10**\n**cldf:edelman:94**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hv:Fussman:Dardes**\n**hh:hvw:Morgenstierne:Nuristan**\n**hh:t:Degener:Tregami**"
+  },
+  "altnames": {
+    "multitree": "\nGambiri\nGambirí\nGambīrī\nTregami\nTregāmī\nTrigami",
+    "lexvo": "\nJęzyk tregami [pl]\nLingua tregamí [gl]\nTregami [en]\nTregami language [en]\nТрегами [bg]\nภาษาเตรกามี [th]",
+    "hhbib_lgcode": "\nDevozi\nGambiri",
+    "elcat": "\nGambiri\nGambīrī\nTregami\nTregāmī\nTrigami"
+  },
+  "identifier": {
+    "multitree": "trm",
+    "endangeredlanguages": "3505"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tregami (3505-trm) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

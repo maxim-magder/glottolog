@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Muna",
+    "hid": "mnb",
+    "level": "language",
+    "iso639-3": "mnb",
+    "latitude": "-5.40419",
+    "longitude": "122.541",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Muna](https://grambank.clld.org/languages/muna1247)\n[Muna](https://wals.info/languoid/lect/wals_code_mna)\n[Wuna](https://lexibank.clld.org/languages/blustaustronesian-wuna)\nhttps://en.wikipedia.org/wiki/Muna_language\nhttps://phoible.org/languages/muna1247\nhttps://www.wikidata.org/entity/Q6935584"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:berg:95**\n**cldf:vandenberg:96**\n**hh:d:Mattalitti:Muna**\n**hh:g:vandenBerg:Muna**\n**hh:g:vandenBerg:Muna:Phd**\n**hh:hv:vandenBerg:Munic**\n**hh:hw:Kaseng:Sulawesi-Tenggara**\n**hh:hw:Stokhofetal:Holle:7:4**\n**hh:phon:Sidu:Muna**\n**hh:s:Mulyaetal:Mawasangka**\n**hh:s:Mursalinetal:Mawasangka**\n**hh:s:Sande:Muna**\n**hh:s:Yatim:Wuna**\n**hh:s:vandenBerg:SMuna**\n**hh:v:vandenBerg:Muna:Historical**\n**mpieva:Berg1996MunaEngl**\n**sil16:22088**\n**sil16:22089**\n**sil16:31635**\n**sil16:31643**\n**sil16:31701**\n**sil16:31704**\n**sil16:35842**\n**sil16:36692**\n**sil16:41014**\n**sil16:42442**\n**sil16:48116**\n**sil16:48117**"
+  },
+  "altnames": {
+    "wals": "\nMuna",
+    "ruhlen (1987)": "\nMuna",
+    "moseley & asher (1994)": "\nMuna",
+    "multitree": "\nMounan\nMuna\nWuna",
+    "lexvo": "\nMuna [en]",
+    "hhbib_lgcode": "\nGulamas\nKatobengke\nMawasangka\nSiompu\nWuna"
+  },
+  "triggers": {
+    "lgcode": "\nmawasangka\nwiteno\nwatangke\nmuna"
+  },
+  "identifier": {
+    "wals": "mna",
+    "multitree": "mnb"
+  },
+  "classification": {
+    "sub": "**hh:hv:vandenBerg:Muna-Buton:2003** **hh:hv:Donohue:Muna-Buton**",
+    "subrefs": "\n**hh:hv:vandenBerg:Muna-Buton:2003**\n**hh:hv:Donohue:Muna-Buton**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Muna (mnb-mnb) = 6b (Threatened)."
+  }
+}

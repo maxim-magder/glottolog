@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Pao",
+    "hid": "ppa",
+    "level": "language",
+    "iso639-3": "ppa",
+    "latitude": "24.0622",
+    "longitude": "80.9619",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7132069\nhttps://en.wikipedia.org/wiki/Pao_language_(India)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Shukla:Madhya-Pradesh**\n**hh:he:Singh:Scheduled**\n**iso6393:2015-012**"
+  },
+  "altnames": {
+    "multitree": "\nPabra\nPao",
+    "lexvo": "\nPao [en]"
+  },
+  "triggers": {
+    "lgcode": "\npaan"
+  },
+  "identifier": {
+    "multitree": "ppa"
+  },
+  "iso_retirement": {
+    "change_request": "2015-012",
+    "remedy": "Merge into Bhageli [bfy]",
+    "code": "ppa",
+    "name": "Pao",
+    "effective": "2016-01-15",
+    "reason": "merge",
+    "change_to": "\nbfy"
+  }
+}

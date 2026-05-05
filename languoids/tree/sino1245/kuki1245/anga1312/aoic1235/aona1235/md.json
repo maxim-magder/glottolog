@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ao Naga",
+    "hid": "njo",
+    "level": "language",
+    "iso639-3": "njo",
+    "latitude": "26.3241",
+    "longitude": "94.3824",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Ao](https://wals.info/languoid/lect/wals_code_ao)\n[Ao Chungli](https://lexibank.clld.org/languages/marrisonnaga-ChungliAo)\n[Ao Naga](https://grambank.clld.org/languages/aona1235)\nhttps://en.wikipedia.org/wiki/Ao_language\nhttps://phoible.org/languages/aona1235\nhttps://www.wikidata.org/entity/Q28433"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:coupe:06**\n**cldf:coupe:99**\n**cldf:grierson:ed:95:2**\n**cldf:gurubasavegowda:72**\n**cldf:gurubasavegowda:75**\n**cldf:smith:25:2**\n**hh:d:Aonok:Changki**\n**hh:d:Gowda:Ao**\n**hh:d:Kumar:Ao**\n**hh:d:Mills:Mongsen-Ao**\n**hh:dg:Clark:Ao-Naga**\n**hh:e:Smith:Ao-Naga**\n**hh:es:Mills:Ao-Nagas**\n**hh:g:Clark:Ao-Naga**\n**hh:g:Clark:Ao-Naga:1893**\n**hh:g:Clark:Ao-Naga:2002**\n**hh:g:Coupe:Mongsen-Ao**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Bruhn:Central-Naga**\n**hh:hv:Shafer:Naga**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marrison:Naga**\n**hh:phon:Coupe:Ao**\n**hh:phon:Temsunungsang:Ao**\n**hh:phon:Temsunungsang:Changki-Ao**\n**hh:phon:Yaden:Chungli**\n**hh:phontyp:Walling:Mongsen**\n**hh:s:Avery:Ao-Naga**\n**hh:s:Coupe:Mongsen-Ao**\n**hh:s:Gowda:Ao**\n**hh:typ:Nishida:Ao-Naga**\n**hh:w:Brown:Eastern-Frontier**\n**hh:w:Brown:Naga**\n**hh:w:Clark:Zoongee**\n**mpieva:Clark2002TheAoNag**\n**mpieva:Gurubasave1975Aogramma**"
+  },
+  "altnames": {
+    "wals": "\nAo",
+    "ruhlen (1987)": "\nAo",
+    "moseley & asher (1994)": "\nAo",
+    "multitree": "\nAo\nAo Group\nAorr\nCholimi\nDupdoria\nHatiggorīa\nHatigoria\nMongsen\nNaga\nNaga, Ao\nNaga,Ao\nNorthern Naga\nNowgong\nPaimi\nUri",
+    "lexvo": "\nAo Naga [en]\nAo [fr]\nAoeg [br]\nAó [is]\nJęzyk ao [pl]\nMongsen Ao language [en]\nภาษาเอา [th]",
+    "hhbib_lgcode": "\nAo\nAo (Chungli)\nAo (Mongsen)\nAo Chungli\nAo Mongsen\nChangki\nChangki Ao\nChongli\nChungi\nChungli\nChungli Ao\nJungli\nKhensa Mongsen\nMongsen\nMongsen Ao\nNaga-Ao\nNowgong\nNowgong Naga\nTengsa\nTengsa Naga\nTengsa and Dopdor\nTrans-Dikhu Ao\nYacham-Tengsa\nYachani-Tengsa"
+  },
+  "triggers": {
+    "lgcode": "\nnagas\nphonological AND nagaland\nmongsen\ndesoi\nbordering\nzurngee\nzoongee\nvillagesauthor\ndikho"
+  },
+  "identifier": {
+    "wals": "ao",
+    "multitree": "aooo;njo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bruhn:Central-Naga**",
+    "subrefs": "\n**hh:hv:Bruhn:Central-Naga**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Chungli (7289-njo-cho) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

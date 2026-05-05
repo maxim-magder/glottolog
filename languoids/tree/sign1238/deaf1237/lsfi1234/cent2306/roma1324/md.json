@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Romanian Sign Language",
+    "hid": "rms",
+    "level": "language",
+    "iso639-3": "rms",
+    "latitude": "44.9292",
+    "longitude": "26.2924",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RO"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7362575\nhttps://en.wikipedia.org/wiki/Romanian_Sign_Language"
+  },
+  "altnames": {
+    "multitree": "\nRomanian Sign Language",
+    "lexvo": "\nRomanian Sign Language [en]",
+    "hhbib_lgcode": "\nLimbajul Semenelor Romanesc\nLimbajul mimico-gestual"
+  },
+  "identifier": {
+    "multitree": "rms"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Romanian Sign Language (rms-rms) = 5 (Developing). Recognized language (2006, Legea nr. 448/2006), in the context of general disability legislation. Recognized language (2020, Decret nr. 213/2020, 2020-03-27), as the mother-tongue of Romanian deaf, from a linguistic/cultural perspective."
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Dragutoiu:Limbajul**\n**hh:soc:Eberle:Romanian-Deaf**\n**hh:soc:Melville:Romanian-Sign**\n**hh:typ:Sohre:Romanian-Sign**"
+  },
+  "classification": {
+    "sub": "A Central European sign language is borne out by lexical comparison (**hh:h:Bickford:EEurope**) and is consistent with historical information (**hh:h:Woll:Global-Sign**:28, **hh:h:Rutkowski:Eastern-Europe**:796).",
+    "subrefs": "\n**hh:h:Rutkowski:Eastern-Europe**\n**hh:h:Woll:Global-Sign**\n**hh:h:Bickford:EEurope**"
+  }
+}

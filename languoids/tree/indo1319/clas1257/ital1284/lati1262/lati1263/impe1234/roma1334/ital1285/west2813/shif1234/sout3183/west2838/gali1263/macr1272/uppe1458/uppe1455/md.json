@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Upper Guinea Crioulo",
+    "hid": "pov",
+    "level": "language",
+    "iso639-3": "pov",
+    "latitude": "13.2335066667",
+    "longitude": "-15.33254",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "GW",
+      "SN",
+      "US"
+    ],
+    "links": "\n[Casamancese Creole](https://apics-online.info/contributions/34)\n[Guinea Bissau Crioulo](https://wals.info/languoid/lect/wals_code_gbc)\n[Guinea-Bissau Kriyol](https://apics-online.info/contributions/33)\nhttps://en.wikipedia.org/wiki/Guinea-Bissau_Creole\nhttps://phoible.org/languages/uppe1455\nhttps://www.wikidata.org/entity/Q33339"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adone:ed:03:3**\n**cldf:couto:95**\n**cldf:doneux:rouge:88**\n**cldf:intumbo:06:1**\n**cldf:kihm:90:1**\n**cldf:kihm:96**\n**cldf:kouwenberg:ed:03:3**\n**cldf:mbodj:79**\n**cldf:mcworther:ed:00:3**\n**cldf:neumann-holzschuh:schneider:ed:00:1**\n**cldf:perl:ed:89**\n**cldf:quint:01**\n**cldf:rouge:88**\n**cldf:scantamburlo:81**\n**cldf:zimmermann:ed:03:1**\n**cldf:zimmermann:ed:03:2**\n**cldf:zimmermann:ed:03:3**\n**cldf:zimmermann:ed:03:4**\n**cldf:zimmermann:ed:03:5**\n**hh:g:Biagui:Afro-Portugais**\n**hh:g:Kihm:Creole-Portugais**\n**hh:g:Kihm:Kriyol**\n**hh:g:doCouto:GuineBissau**\n**hh:gd:Scantamburlo:Guineense**\n**hh:h:vonMurr:Glotticae**\n**hh:phon:Chapouto:Crioulo-Guineense**\n**hh:phon:Costa:Crioulo-Guineense**\n**hh:s:Biagui:Casamance-Creole:2024**\n**hh:s:BiaguiQuint:Casamancese**\n**hh:s:Bull:Guinee-Bissau**\n**hh:s:Doneux:Creole-Bissau**\n**hh:s:Ferreira:Kreolisch-Guinea-Bissau**\n**hh:s:Intumbo:Guineense**\n**hh:s:Intumbo:Guineense:2008**\n**hh:s:Intumboetal:Guinea-Bissau-Kriyol**\n**hh:s:deAlmeida:Crioulo**\n**hh:sd:Scantamburlo:Guine-Bissau**\n**hh:t:Chataigner:Portugais**\n**mpieva:Silva1985Variatio**"
+  },
+  "altnames": {
+    "wals": "\nGuinea Bissau Crioulo",
+    "wals other": "\nCrioulo (Guinea Bissau)",
+    "moseley & asher (1994)": "\nCrioulo",
+    "multitree": "\nCrioulo, Upper Guinea\nGuine Crioulo\nGuinea-Bissau Creole\nKiryol\nKriulo\nPortuguese Creole\nPortuguese Guinea\nSenegal",
+    "lexvo": "\nCrioulo da Guiné-Bissau [pt]\nCréole de Guinée-Bissau [fr]\nGuinea-Bissau Creole [en]\nKriol [no]\nUpper Guinea Crioulo [en]\nギニアビサウ・クレオール語 [ja]",
+    "hhbib_lgcode": "\nAfro-Portugais Ziguinchor\nCasamance Creole\nCorruptissima Creolio-Lusitanica\nCrioula Guineense\nCrioulo Guineense\nCrioulo Upper Guinea\nCrioulo-Upper Guinea\nGuinea Bissau Kriyol"
+  },
+  "triggers": {
+    "lgcode": "\ncriol\nkriyol\nziguinchor\nguineense\ncasamancese\napprenant"
+  },
+  "identifier": {
+    "wals": "gbc",
+    "multitree": "pov"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ferraz:WAfrica**",
+    "subrefs": "\n**hh:hv:Ferraz:WAfrica**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Guinea-Bissau Creole (pov-pov) = 3 (Wider communication). De facto language of national identity. Primary LWC in Guinea-Bissau. Developed as a trade language with the Portuguese during the colonial period. Has its origins in the Upper Guinea Creole that developed on Santiago island in Cabo Verde, spreading to the mainland and then to the Casamance region of Senegal and to all of Guinea-Bissau. Guinea-Bissau Creole is now an L2 that is actively supported by all ethnic groups in the country and used in most domains of public life outside of education. Has become a marker of national identity and solidarity."
+  }
+}

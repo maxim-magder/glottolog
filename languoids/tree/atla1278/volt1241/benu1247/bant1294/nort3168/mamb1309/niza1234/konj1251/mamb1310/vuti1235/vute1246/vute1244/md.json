@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Vute",
+    "hid": "vut",
+    "level": "language",
+    "iso639-3": "vut",
+    "latitude": "6.13603",
+    "longitude": "11.8839",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Vute](https://lexibank.clld.org/languages/polyglottaafricana-Vute)\nhttps://en.wikipedia.org/wiki/Vute_language\nhttps://phoible.org/languages/vute1244\nhttps://www.wikidata.org/entity/Q36897"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lembezat:61**\n**cldf:sieber:25**\n**cldf:thorbecke:16**\n**eballiso2009:35469**\n**eballiso2009:50111**\n**eballiso2009:57562**\n**hh:e:Seige:Vute**\n**hh:e:Sieber:Wute**\n**hh:hv:Blench:Mambiloid**\n**hh:hv:Connell:Mambiloid**\n**hh:hv:Gerhardt:Bantu**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvw:Guarisma:Bantoides**\n**hh:hvw:Meinhof:Kamerun**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:s:Hofmeister:Wute**\n**hh:sd:Guarisma:Voute**\n**hh:sv:Thwing:Vute**\n**hh:typ:Nga:Vute**\n**hh:w:Hofmeister:Wute**\n**ldh:item_406797**\n**mpieva:Thwing2006Verbexte**\n**sil16:17025**\n**sil16:17026**\n**sil16:22086**\n**sil16:22366**\n**sil16:29262**\n**sil16:49502**\n**sil16:49527**"
+  },
+  "altnames": {
+    "multitree": "\n'Abotee\n'Abwetee\nBaboute\nBabute\nBamboute\nBoute\nBubure\nBule\nBute\nButi\nFoute\nLuvure\nMbute\nMbutere\nMfuti\nNbule\nPute\nVoute\nVoutere\nVute\nVutere\nWetere\nWoute\nWute",
+    "lexvo": "\nVute [en]",
+    "hhbib_lgcode": "\nBute\nButi\nVute-Mbanjo\nVute-Yoko\nWute"
+  },
+  "triggers": {
+    "lgcode": "\nmakee\nwute\nbantoide\nvute\nyogo\nvoute"
+  },
+  "identifier": {
+    "multitree": "vute;vut"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Bantoid**",
+    "subrefs": "\n**hh:hv:Blench:Bantoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vute (vut-vut) = 5 (Developing)."
+  }
+}

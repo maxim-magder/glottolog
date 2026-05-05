@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Anambé",
+    "hid": "aan",
+    "level": "language",
+    "iso639-3": "aan",
+    "latitude": "-2.71119",
+    "longitude": "-49.303",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Anambé](https://lexibank.clld.org/languages/gerarditupi-Anambe)\n[Anambé of Cairarí](https://endangeredlanguages.com/lang/1570)\nhttps://en.wikipedia.org/wiki/Anamb%C3%A9_language\nhttps://www.wikidata.org/entity/Q3507873"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:rodrigues:cabral:12**\n**fabreall2009ann:Tupi_anambe00**\n**fabreall2009ann:Tupi_anambe03**\n**fabreall2009ann:Tupi_anambe05**\n**fabreall2009ann:Tupi_anambe06**\n**fabreall2009ann:Tupi_anambe07**\n**fabreall2009ann:Tupi_anambe08**\n**fabreall2009ann:Tupi_anambe11**\n**fabreall2009ann:Tupi_anambe13**\n**fabreall2009ann:Tupi_anambe14**\n**fabreall2009ann:Tupi_anambe15**\n**fabreall2009ann:Tupi_anambe16**\n**fabreall2009ann:Tupi_anambe17**\n**fabreall2009ann:Tupi_tembe_y_tembe-turiwara11**\n**hh:e:Arnaud:Anambe**\n**hh:e:ArnaudGalvao:Anambe**\n**hh:e:Vieira:Amanaye-Anambe**\n**hh:g:Juliao:Anambe**\n**hh:he:Vidal:Tocantins**\n**hh:hv:Michael:Tupi-Guarani**\n**hh:s:Juliao:Anambe**\n**hh:soc:Abreu:Cinco-Brasileiras**\n**hh:typ:Juliao:Anambe:2010**"
+  },
+  "altnames": {
+    "glottolog": "\nAnambe",
+    "multitree": "\nAmanage\nAmanajo\nAmanajé\nAmanayé\nAnambé\nAnambé of Cairarí\nGuajá\nKa'apór\nManajo\nManaxo\nManaze\nManazo\nUrubú\nUrubú-kaapor",
+    "lexvo": "\nAnambé [en]\nAnambé language [en]",
+    "hhbib_lgcode": "\nAnambe\nAnambé of Para\nAnambé of Pará\nAnambé: Silva Julião (2005)",
+    "elcat": "\nAnambé\nAnambé of Cairarí"
+  },
+  "triggers": {
+    "lgcode": "\nlanambe\ncairari\nzacao\nencantados\nanambe"
+  },
+  "identifier": {
+    "multitree": "aan",
+    "endangeredlanguages": "1570"
+  },
+  "classification": {
+    "sub": "**hh:hv:Michael:Tupi-Guarani** **hh:g:Juliao:Anambe**:42-48 **hh:hv:RodriguesCabral:Tupi-Guarani**:333",
+    "subrefs": "\n**hh:hv:Michael:Tupi-Guarani**\n**hh:g:Juliao:Anambe**\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Anambé of Cairarí (1570-aan) = Dormant [Rodrigues and Cabral 2012](cldf:rodrigues:cabral:12)"
+  }
+}

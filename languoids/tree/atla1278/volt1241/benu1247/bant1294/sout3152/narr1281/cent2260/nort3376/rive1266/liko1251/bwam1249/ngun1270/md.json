@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ngundi",
+    "hid": "ndn",
+    "level": "language",
+    "iso639-3": "ndn",
+    "latitude": "3.02108",
+    "longitude": "16.21457",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "CG",
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35916\nhttps://en.wikipedia.org/wiki/Ngondi_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:19271**\n**eballiso2009:28707**\n**eballiso2009:40801**\n**hh:h:ALAC:CAR**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Tessmann:Kameruns**\n**hh:hw:Ouzilleau:Pygmees**\n**hh:w:Periquet:AEF**\n**mpieva:Govender2006Intonati**"
+  },
+  "altnames": {
+    "multitree": "\nIngundi\nNgondi\nNgundi",
+    "lexvo": "\nNgundi [en]",
+    "hhbib_lgcode": "\nGoundi\nGundi (a Bantu language)\nNgondi\nNgondi of Nola-Berberati C11\na Bantu lg"
+  },
+  "triggers": {
+    "lgcode": "\nvocabulaires AND suivies"
+  },
+  "identifier": {
+    "multitree": "ndn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:204-205 **hh:hvld:BouquiauxThomas:C10**",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:BouquiauxThomas:C10**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngundi (ndn-ndn) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Numana",
+    "hid": "nbr",
+    "level": "language",
+    "iso639-3": "nbr",
+    "latitude": "9.16563",
+    "longitude": "8.4657",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Numana_language\nhttps://www.wikidata.org/entity/Q5529310"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:SIL:Nigeria**\n**hh:w:Blench:Ningye**\n**hh:w:Blench:Numana**\n**hh:w:Blench:Numbu**\n**iso6393:2018-090**\n**mpieva:Nurse2008Tenseand**"
+  },
+  "altnames": {
+    "multitree": "\nNumana-Nunku-Gbantu-Numbu\nSanga",
+    "lexvo": "\nNumana-Nunku-Gbantu-Numbu [en]",
+    "hhbib_lgcode": "\nNingye\nNinka\nNumana\nNumana-Nunku-Gbantu-Numbu\nNumbu",
+    "glottolog": "\nNumana-Nunku-Gbantu-Numbu"
+  },
+  "triggers": {
+    "lgcode": "\nnumana\nnumbu\nnunku"
+  },
+  "identifier": {
+    "multitree": "nbr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:24-26",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Numana (nbr-nbr) = 6a (Vigorous)."
+  }
+}

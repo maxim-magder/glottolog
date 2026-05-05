@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Niellim",
+    "hid": "nie",
+    "level": "language",
+    "iso639-3": "nie",
+    "latitude": "9.70362",
+    "longitude": "17.81346",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Niellim](https://endangeredlanguages.com/lang/4588)\nhttps://www.wikidata.org/entity/Q33662\nhttps://en.wikipedia.org/wiki/Niellim_language\nhttps://phoible.org/languages/niel1243\n[Lua](https://wals.info/languoid/lect/wals_code_lua)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**eballiso2009:10180**\n**eballiso2009:48597**\n**eballiso2009:48606**\n**hh:e:Barma:Boa**\n**hh:e:Habe:Bouas-Korbol**\n**hh:ew:Palayer:Noy**\n**hh:g:Boyeldieu:Lua**\n**hh:he:Arditi:Vallee-Chari**\n**hh:he:Bruel:Moyen-Logone**\n**hh:hew:BoyeldieuSeignobos:Niellim**\n**hh:hv:Boyeldieu:Boua**\n**hh:hv:Boyeldieu:Boua:1988**\n**hh:hv:Boyeldieu:Niellim-Tula**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hw:Kumm:Hausaland**\n**hh:lde:Testut:Niellim**\n**hh:soc:Bagwell:Niellim**\n**hh:styp:Vanderkooi:Niellim**\n**ldh:item_405363**"
+  },
+  "altnames": {
+    "wals": "\nLua",
+    "ruhlen (1987)": "\nNiellim",
+    "moseley & asher (1994)": "\nNielim",
+    "multitree": "\nLua\nMjillem\nNielim\nNiellim\nNyilem",
+    "lexvo": "\nNiellim [en]\nNiellim jezik [hr]\nNiellim language [en]\nNiellimeg [br]",
+    "hhbib_lgcode": "\nKwa Tchiini\nKwa Tchini (Niellim dialect)\nLoua\nLua\nLua Ciini\nNielim\nNiellim of Bruel\nNiellim of Decorse\nNilim",
+    "elcat": "\nLua\nMjillem\nNielim\nNiellim\nNyilem"
+  },
+  "triggers": {
+    "lgcode": "\nkorbol\nniellim\nlangue AND niellim"
+  },
+  "identifier": {
+    "wals": "lua",
+    "multitree": "nie",
+    "endangeredlanguages": "4588"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boyeldieu:Bua:2018** **hh:s:Kastenholz:Bolgo**:2 **hh:hew:BoyeldieuSeignobos:Niellim** **hh:hsoc:Nodjibogoto:Boua**:7",
+    "subrefs": "\n**hh:hv:Boyeldieu:Bua:2018**\n**hh:hsoc:Nodjibogoto:Boua**\n**hh:hew:BoyeldieuSeignobos:Niellim**\n**hh:s:Kastenholz:Bolgo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Niellim (4588-nie) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

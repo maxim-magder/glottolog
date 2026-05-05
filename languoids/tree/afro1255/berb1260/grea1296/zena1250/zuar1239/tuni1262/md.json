@@ -1,0 +1,35 @@
+{
+  "core": {
+    "name": "Tunisian-Zuwara Berber",
+    "hid": "NOCODE_Tunisian-Zuwara",
+    "level": "language",
+    "latitude": "32.863859",
+    "longitude": "11.299621",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4117169\nhttps://en.wikipedia.org/wiki/Zuwara_Berber"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Daamar:Guellala**\n**hh:el:Battenburg:Berber-Tunisia**\n**hh:g:Gabsi:Douiret:2013**\n**hh:g:Gabsi:Shilha**\n**hh:g:Mitchell:Zuaran**\n**hh:he:Louis:Tunisie-Sud**\n**hh:ld:Brugnatelli:Ancient-Eastern-Berber**\n**hh:ld:Brugnatelli:Jerba**\n**hh:s:Brugnatelli:Jerba**\n**hh:soc:Ferjani:Djerba**\n**hh:soc:Omrane:Djerba**\n**hh:t:Mitchell:Zuara**\n**hh:typ:Brugnatelli:Eastern-Medieval-Berber**\n**hh:v:Brugnatelli:Jerba**\n**hh:vw:Gabsi:Shilha-Lexical**\n**hh:vwsoc:Hamza:Berber-Tunisia**\n**hh:w:Basset:Lexicographie**\n**hh:w:Saada:Gellala**"
+  },
+  "triggers": {
+    "lgcode": "\ndjerba\ngellala\ndouiret\nzuaran"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Berber:2020** **hh:hv:Blazek:Berber:2010**",
+    "subrefs": "\n**hh:hv:Blazek:Berber:2010**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nChenini\nChenini-Douiret\nCheninnaoui\nChninni\nClose to the language of Yefren\nDjerba\nDjerbi\nDouiret\nDouiri\nEastern Medieval Berber\nGuellala\nJerba\nOuirsighen (Jerba)\nZuara\ncloser to the nearby languages of Zuara and Jerba is its greater proportion of \"Zanata\" features"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Tunisian-Zuwara Berber (NOCODE_NOCODE_Tunisian-Zuwara-NOCODE_Tunisian-Zuwara) = 6b (Threatened)."
+  }
+}

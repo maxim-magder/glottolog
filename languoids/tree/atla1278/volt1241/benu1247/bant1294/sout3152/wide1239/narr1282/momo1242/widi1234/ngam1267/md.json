@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ngamambo",
+    "hid": "nbv",
+    "level": "language",
+    "iso639-3": "nbv",
+    "latitude": "5.87975",
+    "longitude": "10.0779",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11129694"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:25918**\n**eballiso2009:25923**\n**eballiso2009:26565**\n**eballiso2009:26566**\n**eballiso2009:29358**\n**eballiso2009:40160**\n**eballiso2009:43846**\n**eballiso2009:43904**\n**eballiso2009:43947**\n**hh:he:Baumann:Grasland**\n**hh:hvw:Blench:Momo-Western-Momo**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:hwdial:LemBrye:Ngamambo**\n**hh:phon:Akompab:Ngamambo**\n**hh:typ:Nyindem:Ngamambo**\n**hh:w:Ankermann:Mbe**"
+  },
+  "altnames": {
+    "multitree": "\nBafuchu\nBanja\nMbu\nMungyen\nNga\nNgamambo\nNgembo",
+    "lexvo": "\nNgamambo [en]",
+    "hhbib_lgcode": "\nBafotscho\nBafuchu\nBakonwan\nKoelle's Mbe\nKonwan\nMbe\nMbit\nNgamambu"
+  },
+  "triggers": {
+    "lgcode": "\nimperialisms\nNOT phonology AND NOT and AND metta\nngamambo"
+  },
+  "identifier": {
+    "multitree": "nbv"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Stallcup:Moghamo-Ngie-Oshie**",
+    "subrefs": "\n**hh:hvtyp:Stallcup:Moghamo-Ngie-Oshie**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Moghamo (nbv-nbv) = 6b* (Threatened)."
+  }
+}

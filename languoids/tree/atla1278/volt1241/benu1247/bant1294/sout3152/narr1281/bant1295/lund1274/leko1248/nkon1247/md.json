@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nkongho",
+    "hid": "nkc",
+    "level": "language",
+    "iso639-3": "nkc",
+    "latitude": "5.33848",
+    "longitude": "9.80096",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35863\nhttps://en.wikipedia.org/wiki/Nkongho_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Mehpah:Lekongho**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Hedinger:Manenguba**\n**hh:hvw:Hedinger:Manenguba:1984**"
+  },
+  "altnames": {
+    "multitree": "\nKinkwa\nLekongo\nNkongho\nUpper Mbo",
+    "lexvo": "\nNkongho [en]",
+    "hhbib_lgcode": "\nA151_Nkongho\nLEK\nLekongho\nLekongo"
+  },
+  "triggers": {
+    "lgcode": "\nNOT study AND cameroon AND manenguba"
+  },
+  "identifier": {
+    "multitree": "nkc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hedinger:Manenguba**",
+    "subrefs": "\n**hh:hvw:Hedinger:Manenguba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nkongho (nkc-nkc) = 6b (Threatened)."
+  }
+}

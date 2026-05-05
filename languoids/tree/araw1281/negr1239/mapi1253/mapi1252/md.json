@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mapidian-Mawayana",
+    "hid": "mpw",
+    "level": "language",
+    "iso639-3": "mpw",
+    "latitude": "1.190187",
+    "longitude": "-58.585983",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "GY",
+      "SR"
+    ],
+    "links": "\n[Mawayana](https://endangeredlanguages.com/lang/5162)\nhttps://www.wikidata.org/entity/Q6753812\nhttps://en.wikipedia.org/wiki/Mapidian_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**hh:hew:Farabee:CArawaks**\n**hh:hewsoc:Howard:Waiwai**\n**hh:hv:Carlin:Cariban-Mawayana**\n**hh:hv:Miller:Negro-Roraima**\n**hh:hvw:Meira:Mayawana-Wapishana**\n**hh:hvw:Ramirez:Arawak**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:hw:Martius:Brasiliens**\n**hh:hw:Schomburgk:Eighteen-Guiana**\n**hh:hw:Schomburgk:Eighteen-Guiana:1848**\n**hh:phon:Coretta:Mawayana**\n**hh:typ:Michels:Mawayana**\n**langsci:ramirez:01**"
+  },
+  "altnames": {
+    "multitree": "\nMahuayana\nMaiopitian\nMaopidian\nMaopityan\nMapidi\nMapidian\nMapidiana\nMawayana\nMawayana (Brésil)\nMawayana (Guyana)\nMawayana (Guyane)\nUapixana\nVapidiana\nWapishana\nWapishana (Brésil)\nWapishana (Guyana)\nWapishana (Guyane)\nWapisiana\nWapixana\nWapixiána",
+    "lexvo": "\nMapidian [en]",
+    "hhbib_lgcode": "\nMapidian\nMawakwa\nMawayana\nMayawana",
+    "elcat": "\nMadipian\nMahuayana\nMaiopitian\nMaopityan\nMawayana"
+  },
+  "triggers": {
+    "lgcode": "\nmawayana"
+  },
+  "identifier": {
+    "multitree": "mpw",
+    "endangeredlanguages": "5162"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ramirez:Arawak-Enciclopedia**:III:13-58 **hh:hvw:Meira:Mayawana-Wapishana**",
+    "subrefs": "\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:hvw:Meira:Mayawana-Wapishana**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mawayana (5162) = Critically Endangered (20 percent certain, based on the evidence available) [Michels 2014](cldf:michels:14)"
+  }
+}

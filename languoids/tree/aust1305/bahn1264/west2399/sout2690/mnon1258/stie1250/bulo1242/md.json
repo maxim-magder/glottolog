@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bulo Stieng",
+    "hid": "sti",
+    "level": "language",
+    "iso639-3": "sti",
+    "latitude": "11.9777",
+    "longitude": "106.798",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "VN"
+    ],
+    "links": "\n[Bulo Stieng](https://endangeredlanguages.com/lang/5422)\n[Bulo Stieng](https://grambank.clld.org/languages/bulo1242)\n[Stieng](https://lexibank.clld.org/languages/sidwellbahnaric-stieng)\nhttps://www.wikidata.org/entity/Q13018538"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Haupers:Stieng**\n**hh:g:Bon:Stieng**\n**hh:hv:Sidwell:SBahnaric**\n**hh:hvphon:Le:Stieng**\n**hh:hwsoc:BarrPawley:Bahnaric**\n**hh:phon:Bon:Stieng**\n**hh:s:Miller:Stieng**\n**hh:vw:Morice:Tiams-Stiengs**\n**hh:w:Cabaton:Dix**\n**ldh:item_404097**\n**sil16:11029**\n**sil16:11031**\n**sil16:15180**\n**sil16:15181**\n**sil16:15182**\n**sil16:15183**\n**sil16:15897**\n**sil16:39851**\n**sil16:39852**\n**sil16:39853**\n**sil16:39854**\n**sil16:39856**\n**sil16:51373**"
+  },
+  "altnames": {
+    "multitree": "\nBudíp\nKajiang\nKediang\nNorthern Stieng\nRangah\nRmang\nStieng\nStieng, Bulo\nUpper Stieng\nXa-Dieng\nXtieng",
+    "lexvo": "\nBulo Stieng [en]",
+    "hhbib_lgcode": "\nChhnaeng\nMostly Bulo\nStien\nStieng\nStieng-Bulo",
+    "elcat": "\nBudíp\nBulo\nBulo Stieng\nKajiang\nKediang\nNorthern Stieng\nRangah\nRmang\nStieng\nUpper Stieng\nXa-Dieng\nXtieng"
+  },
+  "triggers": {
+    "lgcode": "\nsdieng\nNOT discourse AND stieng\ntwaang"
+  },
+  "identifier": {
+    "multitree": "sti",
+    "endangeredlanguages": "5422"
+  },
+  "classification": {
+    "sub": "**hh:typ:Owen:Stieng**:7-9 **hh:soc:LambrechtMann:Mel-Khaonh**",
+    "subrefs": "\n**hh:soc:LambrechtMann:Mel-Khaonh**\n**hh:typ:Owen:Stieng**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Bulo Stieng (5422-sti) = Threatened (20 percent certain, based on the evidence available) [Bon 2010](cldf:bon:10)"
+  }
+}

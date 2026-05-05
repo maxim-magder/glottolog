@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tulishi",
+    "hid": "tey",
+    "level": "language",
+    "iso639-3": "tey",
+    "latitude": "11.4507",
+    "longitude": "29.108",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Tulishi](https://endangeredlanguages.com/lang/5094)\nhttps://www.wikidata.org/entity/Q12911106\nhttps://en.wikipedia.org/wiki/Tulishi_language\nhttps://phoible.org/languages/tuli1249"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:nadel:50**\n**cldf:np:nd:264**\n**hh:hv:Dafalla:Katcha-Kadugli**\n**hh:hv:HallHall:Kadugli-Krongo**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Schadeberg:Kadu**\n**hh:hvw:Yahia:Katcha-Kadugli**\n**hh:soc:Sudan:Lagawa**\n**hh:soc:Sudan:Liguri-Tesei**\n**hh:typ:Hall:Kamda**\n**hh:w:Hillelson:Dago**"
+  },
+  "altnames": {
+    "multitree": "\nKuntulishi\nThulishi\nTulesh\nTuleshi\nTulishi",
+    "lexvo": "\nTulishi [en]",
+    "hhbib_lgcode": "\nKamda\nLagawa\nMudo-Tulishi\nShort wordlist of Minǧimmina-Kamdang-Tuleshi\nTuleshi",
+    "elcat": "\nKuntulishi\nThulishi\nTulesh\nTuleshi\nTulishi"
+  },
+  "triggers": {
+    "lgcode": "\ndeiga\nlagawa\nkamda\nnuns"
+  },
+  "identifier": {
+    "multitree": "tey",
+    "endangeredlanguages": "5094"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dafalla:Katcha-Kadugli** **hh:hv:ThelwallSchadeberg:Nuba**",
+    "subrefs": "\n**hh:hv:Dafalla:Katcha-Kadugli**\n**hh:hv:ThelwallSchadeberg:Nuba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tulishi (5094-tey) = Threatened (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

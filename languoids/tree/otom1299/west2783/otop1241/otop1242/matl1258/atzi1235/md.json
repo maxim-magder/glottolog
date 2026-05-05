@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Atzingo Matlatzinca",
+    "hid": "ocu",
+    "level": "language",
+    "iso639-3": "ocu",
+    "latitude": "19.3871",
+    "longitude": "-99.9239",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Ocuiltec](https://endangeredlanguages.com/lang/4913)\n[Ocuilteco](https://wals.info/languoid/lect/wals_code_ocu)\nhttps://en.wikipedia.org/wiki/Ocuiltec_language\nhttps://www.wikidata.org/entity/Q10751739"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:muntzel:86**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:palancar:13**\n**cldf:sanchez:martinez:etal:12**\n**hh:d:MonroyEscobedo:Espanol-Otomi-Matlazinca-Tlahuica-Mazahua-Nahuatl:2010**\n**hh:d:Reynoso:Tlahuica**\n**hh:g:Muntzel:Ocuilteco**\n**hh:hvw:Hasler:Matlatzinca-Ocuiltecas**\n**hh:phon:Muntzel:Tlahuica**\n**hh:phon:MuntzelMartinez:Pjyekakjo:2015**\n**hh:phonsoc:MuntzelSabinoMartinez:Pjekakjo:2019**\n**hh:sd:Muntzel:Tlahuica**\n**hh:typ:Ortega:Tlahuica**\n**mpieva:151**\n**mpieva:Muntzel1986Thestruc**\n**sil16:22929**"
+  },
+  "altnames": {
+    "wals": "\nOcuilteco",
+    "ruhlen (1987)": "\nMatlatzinka",
+    "moseley & asher (1994)": "\nOcuiltec",
+    "multitree": "\nAtzinca\nAtzingo\nAtzinteco\nMatlatzinca\nMatlatzinca (Atzingo)\nMatlatzinca, Atzingo\nMatlatzinkan\nOcuiltec\nOcuilteco\nOkwilteko\nPirinda\nTlahuica\nTlahura",
+    "lexvo": "\nAtzingo Matlatzinca [en]",
+    "hhbib_lgcode": "\nMatlatzinca-Atzingo\nOcuilteca\nOcuilteco\nTlahuica\nTlahuica de San Juan Atzingo",
+    "elcat": "\nAtzinca\nAtzingo\nAtzinteco\nMatlatzinca\nMatlatzinca (Atzingo)\nOcuiltec\nOcuilteco\nOkwilteko\nPirinda\nTlahuica\nTlahura"
+  },
+  "triggers": {
+    "lgcode": "\nocuilteco"
+  },
+  "identifier": {
+    "wals": "ocu",
+    "multitree": "ocu",
+    "endangeredlanguages": "4913"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997** **hh:hv:Campbell:Otomanguean**",
+    "subrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ocuiltec (4913-ocu) = Endangered (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

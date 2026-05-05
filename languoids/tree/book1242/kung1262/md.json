@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kunggara",
+    "hid": "kvs",
+    "level": "language",
+    "iso639-3": "kvs",
+    "latitude": "-17.62553",
+    "longitude": "141.1441",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Kunggara](https://endangeredlanguages.com/lang/4456)\nhttps://www.wikidata.org/entity/Q10550183"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Sutton:Gugu-Badhun**\n**iso6393:2015-004**"
+  },
+  "identifier": {
+    "endangeredlanguages": "4456"
+  },
+  "iso_retirement": {
+    "change_request": "2015-004",
+    "remedy": "Duplicate of Gurdjar [gdj]",
+    "code": "kvs",
+    "name": "Kunggara",
+    "effective": "2016-01-15",
+    "reason": "duplicate",
+    "change_to": "\ngdj"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kunggara (4456-kvs) = Critically Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nGunggara",
+    "elcat": "\nGoom-Gharra\nGunggara\nKoonkurri\nKunggara\nKunggera\nUngorri"
+  }
+}

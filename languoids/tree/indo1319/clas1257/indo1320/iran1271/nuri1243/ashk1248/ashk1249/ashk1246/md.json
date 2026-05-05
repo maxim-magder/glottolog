@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ashkun",
+    "hid": "ask",
+    "level": "language",
+    "iso639-3": "ask",
+    "latitude": "35.10699",
+    "longitude": "70.542035",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF"
+    ],
+    "links": "\n[Ashkun](https://endangeredlanguages.com/lang/1578)\nhttps://en.wikipedia.org/wiki/Ashkun_language\nhttps://www.wikidata.org/entity/Q29379"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:degener:02**\n**cldf:ed:10**\n**cldf:edelman:94**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:e:Klimburg:Kafirs**\n**hh:hv:Nelson:Nuristani**\n**hh:hvw:Grierson:8:II**\n**hh:hvw:Morgenstierne:Nuristan**\n**hh:s:Morgenstierne:Ashkun**\n**hh:s:Morgenstierne:Ashkun:Further**\n**hh:t:Buddruss:Wama**\n**hh:typ:Trumpp:Kafirs**\n**hh:vld:Hegedus:Nurisztani**\n**hh:w:Capus:Pre-Pamiriennes**"
+  },
+  "altnames": {
+    "multitree": "\nAshkun\nAshkund\nAshkuni\nAskun\nAskún\nWamai\nWamayi",
+    "lexvo": "\nAshkun [en]\nAshkun jezik [hr]\nAskunu [no]\nAskunu language [en]\nAskúnska [is]\nJęzyk aszkun [pl]\nLingua ascunu [gl]\nАшкун [bg]\nภาษาอัสกุนุ [th]",
+    "hhbib_lgcode": "\nAshkund\nAskun\nKafir-Siahpouche in Mashhad\nKafirs\nWama\nWama Ashkun",
+    "elcat": "\nAshkun\nAshkund\nAshkuni\nAskun\nWamai\nWamayi"
+  },
+  "triggers": {
+    "lgcode": "\nashkun"
+  },
+  "identifier": {
+    "multitree": "ask",
+    "endangeredlanguages": "1578"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hegedus:Proto-Nuristani**:162-164",
+    "subrefs": "\n**hh:hv:Hegedus:Proto-Nuristani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ashkun (1578-ask) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

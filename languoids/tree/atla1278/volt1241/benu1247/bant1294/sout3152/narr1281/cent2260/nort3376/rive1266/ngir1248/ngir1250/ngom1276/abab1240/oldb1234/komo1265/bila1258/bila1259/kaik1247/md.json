@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kaiku",
+    "hid": "kkq",
+    "level": "language",
+    "iso639-3": "kkq",
+    "latitude": "0.75068",
+    "longitude": "28.7394",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6347840\nhttps://en.wikipedia.org/wiki/Kaiku_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Burssens:Pygmees-Ituri**\n**hh:hv:Vorbichler:Bira**\n**hh:soc:Boone:Bila**\n**hh:w:deWit:Bira-Huku**\n**iso6393:2019-010**\n**sil16:51396**"
+  },
+  "altnames": {
+    "multitree": "\nIkaiku\nKaiko\nKaiku",
+    "lexvo": "\nKaiku [en]",
+    "hhbib_lgcode": "\nBakaaiku\nKaiko\nKiPere-KiPakombe-KiKaiko"
+  },
+  "triggers": {
+    "lgcode": "\nbira AND huku"
+  },
+  "identifier": {
+    "multitree": "kkq"
+  },
+  "classification": {
+    "sub": "**hh:s:Kutsch:Bila**:450-452",
+    "subrefs": "\n**hh:s:Kutsch:Bila**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kaiku (kkq-kkq) = 6a* (Vigorous)."
+  }
+}

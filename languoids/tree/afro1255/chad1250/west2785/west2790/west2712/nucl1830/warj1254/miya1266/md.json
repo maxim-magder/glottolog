@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Miya",
+    "hid": "mkf",
+    "level": "language",
+    "iso639-3": "mkf",
+    "latitude": "10.9234",
+    "longitude": "9.71505",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Miya](https://grambank.clld.org/languages/miya1266)\n[Miya](https://lexibank.clld.org/languages/kraftchadic-Miya)\n[Miya](https://wals.info/languoid/lect/wals_code_miy)\nhttps://en.wikipedia.org/wiki/Miya_language\nhttps://www.wikidata.org/entity/Q43328"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:schuh:nd**\n**eballiso2009:13820**\n**eballiso2009:45514**\n**eballiso2009:45517**\n**hh:g:Schuh:Miya**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Skinner:NBauchi**\n**hh:hw:Kraft:Chadic:I**\n**hh:typ:Schuh:VOS**\n**hh:wsoc:Decker:Bauchi-Jigawa**\n**mpieva:1989Currentp**"
+  },
+  "altnames": {
+    "wals": "\nMiya",
+    "ruhlen (1987)": "\nMiya",
+    "moseley & asher (1994)": "\nMiya",
+    "multitree": "\nMiya\nMiyawa\nMuya",
+    "lexvo": "\nMiya [en]\nMiya language [en]",
+    "hhbib_lgcode": "\nMiyanci\nVene Mi\nVune Mi (Miya)"
+  },
+  "triggers": {
+    "lgcode": "\nNOT pp AND miya\nmiya"
+  },
+  "identifier": {
+    "wals": "miy",
+    "multitree": "mkf"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Decker:Bauchi-Jigawa**",
+    "subrefs": "\n**hh:wsoc:Decker:Bauchi-Jigawa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vune mi (mkf-mkf) = 6a* (Vigorous)."
+  }
+}

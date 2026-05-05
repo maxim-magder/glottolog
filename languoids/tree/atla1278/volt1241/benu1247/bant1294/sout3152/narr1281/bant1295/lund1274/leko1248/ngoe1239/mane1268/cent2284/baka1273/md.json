@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bakaka",
+    "hid": "bqz",
+    "level": "language",
+    "iso639-3": "bqz",
+    "latitude": "4.79991",
+    "longitude": "9.80402",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bakaka_language\nhttps://phoible.org/languages/baka1273\nhttps://www.wikidata.org/entity/Q34855"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Etame:Mkaa**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Hedinger:Manenguba**\n**hh:hvw:Hedinger:Manenguba:1984**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Spielmann:Bakaka**\n**hh:typ:Kenmoe:Mkaa**\n**hh:w:Kilham:African**\n**hh:w:Norris:WCAfrica**"
+  },
+  "altnames": {
+    "multitree": "\nBakaka\nCentral Mbo",
+    "lexvo": "\nBakaka [en]",
+    "hhbib_lgcode": "\nA15C_Mkaa\nA15_Manenguba\nBBO\nBLN\nBabong\nBalondo\nBaneka\nBelon\nMHE\nMKA\nMWK\nManehas\nMelon\nMkaa'\nMoko Kilham is\nMoko is\nMwahed\nMwaneka\nNgoten must be from Manehas\nNo 23 Moko is"
+  },
+  "triggers": {
+    "lgcode": "\nNOT study AND cameroon AND manenguba\nmkaa"
+  },
+  "identifier": {
+    "multitree": "bqz"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hedinger:Manenguba**",
+    "subrefs": "\n**hh:hvw:Hedinger:Manenguba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bakaka (bqz-bqz) = 6b (Threatened)."
+  }
+}

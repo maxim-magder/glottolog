@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gimi (West New Britain)",
+    "hid": "gip",
+    "level": "language",
+    "iso639-3": "gip",
+    "latitude": "-6.02464",
+    "longitude": "149.478",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12952457"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Ross:WMelanesia**\n**hh:w:MacKenzieetal:Bebeli**\n**sil16:15971**"
+  },
+  "altnames": {
+    "multitree": "\nGimi\nLoko",
+    "lexvo": "\nGimi (West New Britain) [en]\nGimi [en]",
+    "hhbib_lgcode": "\nGimi"
+  },
+  "triggers": {
+    "lgcode": "\nsouth AND communities AND britain"
+  },
+  "identifier": {
+    "multitree": "gip"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gimi (gip-gip) = 5 (Developing)."
+  }
+}

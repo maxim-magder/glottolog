@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Chinese Pidgin English",
+    "hid": "cpi",
+    "level": "language",
+    "iso639-3": "cpi",
+    "latitude": "-0.53224",
+    "longitude": "166.926",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NR"
+    ],
+    "links": "\n[Nauru Pacific Pidgin](https://endangeredlanguages.com/lang/3570)\nhttps://www.wikidata.org/entity/Q3435078\n[Chinese Pidgin English](https://apics-online.info/contributions/20)\nhttps://en.wikipedia.org/wiki/Chinese_Pidgin_English"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonymous:40**\n**cldf:anonymous:60**\n**cldf:beechey:31**\n**cldf:bolton:03**\n**cldf:booth:04**\n**cldf:coffin:69**\n**cldf:darwent:05**\n**cldf:dier:60**\n**cldf:goldmann:99**\n**cldf:hall:a:etal:44**\n**cldf:holman:34**\n**cldf:hugill:67**\n**cldf:leland:76**\n**cldf:lindley:69**\n**cldf:loines:53**\n**cldf:morrison:07**\n**cldf:nicol:22**\n**cldf:np:67**\n**cldf:np:nd:212**\n**cldf:rasmussen:54**\n**cldf:ruschenberger:38**\n**cldf:shaw:97**\n**cldf:thompson:58**\n**cldf:tilden:31**\n**cldf:tilden:34**\n**cldf:tong:62**\n**cldf:willens:10**\n**cldf:yang:73**\n**cldf:zhang:09:1**\n**hh:ld:Ansaldoetal:China-Coast-Pidgin**\n**hh:ld:Ansaldoetal:China-Coast-Pidgin:2012**\n**hh:ld:Franklin:Copula-Chinese-Pidgin**\n**hh:ld:MatthewsLi:Pidgin-Canton**\n**hh:ld:NA:Anglais-Pidgin**\n**hh:ld:Siegel:Pidgin-English-Nauru**\n**hh:ld:Williams:Jargon-Canton**\n**hh:s:Bisang:Chinesische-Pidgin**\n**hh:s:Hall:Chinese**\n**hh:s:MatthewsLi:Chinese-Pidgin-English**\n**hh:ssoc:Bauer:Kanton-English**\n**hh:ssoc:Shi:Chinese-Pidgin-English**\n**hh:sv:Wang:Chinese-Pidgin-English**\n**hh:typ:Escure:Chinese-Pidgin-English**\n**hh:vld:Baker:Chinese-Pidgin-English**"
+  },
+  "altnames": {
+    "multitree": "\nChina coast pidgin\nChinese Pidgin English",
+    "lexvo": "\nChinese Pidgin English [en]\nChiński pidżyn [pl]\nPidginengelska [sv]\n洋泾浜英语 [zh]",
+    "elcat": "\nMelanesian-Chinese Mixed Pidgin English in Nauru\nNPP\nNauru Pacific Pidgin",
+    "hhbib_lgcode": "\nChina Coast Pidgin\nPidgin English in Nauru"
+  },
+  "triggers": {
+    "lgcode": "\nsuperstrat\npidgin AND copula\nsoziolinguistisches\nkulturkontaktphanomen\nspannungsfeld\npidginidiom\nkreativit{at\nchinesische\nkanton"
+  },
+  "identifier": {
+    "multitree": "cpi",
+    "endangeredlanguages": "3570"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nauru Pacific Pidgin (3570-cpi) = Threatened (20 percent certain, based on the evidence available) (Beginning to be superseded by English) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

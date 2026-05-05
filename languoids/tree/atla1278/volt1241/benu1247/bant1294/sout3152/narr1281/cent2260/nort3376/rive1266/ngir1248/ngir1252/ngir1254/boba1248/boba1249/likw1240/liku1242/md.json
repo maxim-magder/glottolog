@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Likuba",
+    "hid": "kxx",
+    "level": "language",
+    "iso639-3": "kxx",
+    "latitude": "-1.27931",
+    "longitude": "16.4702",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kuba_language\nhttps://www.wikidata.org/entity/Q35646"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:3846**\n**hh:h:Ndamba:Congo**\n**hh:h:NdingaOba:Congo-Brazzaville**\n**hh:hb:Leblanc:Congo**\n**hh:hphontyp:NdingaOba:Congo-Brazzaville**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:phon:Adoua:Likuba**\n**hh:typ:Mowel:Likuba**"
+  },
+  "altnames": {
+    "multitree": "\nKuba\nLikuba",
+    "lexvo": "\nLikuba [en]",
+    "hhbib_lgcode": "\nBonyala\nC141_Bonyala\nInyele\nKuba C27\nLikuba of Bohoulou"
+  },
+  "triggers": {
+    "lgcode": "\nlikuba\nlikouba"
+  },
+  "identifier": {
+    "multitree": "kxx"
+  },
+  "classification": {
+    "sub": "**hh:h:Ndamba:Congo**:26",
+    "subrefs": "\n**hh:h:Ndamba:Congo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Likuba (kxx-kxx) = 6a* (Vigorous)."
+  }
+}

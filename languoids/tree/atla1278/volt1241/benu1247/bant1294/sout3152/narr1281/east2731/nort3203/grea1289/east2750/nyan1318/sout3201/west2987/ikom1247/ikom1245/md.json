@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ikoma-Nata",
+    "hid": "ntk",
+    "level": "language",
+    "iso639-3": "ntk",
+    "latitude": "-1.94989",
+    "longitude": "34.5361",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Ikoma](https://endangeredlanguages.com/lang/5067)\nhttps://www.wikidata.org/entity/Q5996114\nhttps://en.wikipedia.org/wiki/Ikoma_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:guthrie:71:7**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:3100**\n**eballiso2009:33914**\n**eballiso2009:41905**\n**eballiso2009:44845**\n**eballiso2009:50699**\n**eballiso2009:5889**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvtyp:Walker:Mara-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:ld:Mekacha:Ki-Nata**\n**hh:phon:Higgins:Ikoma**\n**hh:phon:Higgins:Ikoma:2011**\n**hh:s:Gambarage:Kinata**\n**hh:s:Gambarage:Nata**\n**hh:soc:Mekacha:Ekinata**\n**hh:typ:Aunio:Ikoma-Verbal**\n**hh:typ:Dechaine:Nata**\n**hh:typ:Gambarage:Nata-Determiners**\n**hh:typ:Johannes:Nata**\n**hh:typ:Robinson:Ikoma**\n**hh:typ:Roth:Ikoma-Ngoreme**\n**hh:vld:Aunio:Bantu-Nominal**\n**iso6393:2007-023**"
+  },
+  "altnames": {
+    "multitree": "\nIkinata\nIkoma\nNata",
+    "lexvo": "\nIkoma-Nata-Isenye [en]",
+    "hhbib_lgcode": "\nEkinata\nIkoma\nIkoma-Nata-Isenye\nJE45_Nata\nKi-Nata\nNata",
+    "elcat": "\nEgiikɔma\nEkinata\nIkinata\nIkoma\nNata",
+    "glottolog": "\nIkoma-Nata-Isenye"
+  },
+  "triggers": {
+    "lgcode": "\nekinata\nnata\nikoma"
+  },
+  "identifier": {
+    "multitree": "ntk",
+    "endangeredlanguages": "5067"
+  },
+  "classification": {
+    "sub": "**hh:vld:Aunio:Bantu-Nominal**:359-360",
+    "subrefs": "\n**hh:vld:Aunio:Bantu-Nominal**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ikoma (5067-ntk) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

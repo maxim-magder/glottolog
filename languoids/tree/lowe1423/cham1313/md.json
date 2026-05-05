@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Chambri",
+    "hid": "can",
+    "level": "language",
+    "iso639-3": "can",
+    "latitude": "-4.27831",
+    "longitude": "143.097",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Chambri](https://endangeredlanguages.com/lang/10631)\n[Chambri](https://lexibank.clld.org/languages/transnewguineaorg-chambri)\n[Chambri](https://wals.info/languoid/lect/wals_code_chb)\nhttps://en.wikipedia.org/wiki/Chambri_language\nhttps://www.wikidata.org/entity/Q5069707"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Gewertz:Sepik**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**\n**hh:typ:Pagotto:Chambri**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D34**\n**hh:w:Newton:Sepik**"
+  },
+  "altnames": {
+    "wals": "\nChambri",
+    "ruhlen (1987)": "\nChambri",
+    "moseley & asher (1994)": "\nChambri",
+    "multitree": "\nAchang\nChambri\nTchambuli\nTshamberi",
+    "lexvo": "\nChambri [en]",
+    "hhbib_lgcode": "\nSambuh",
+    "elcat": "\nChambri\nTchambuli\nTshamberi"
+  },
+  "triggers": {
+    "lgcode": "\nchambri"
+  },
+  "identifier": {
+    "wals": "chb",
+    "multitree": "can",
+    "endangeredlanguages": "10631"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik-Ramu** **hh:hv:Laycock:Sepik**",
+    "subrefs": "\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Chambri (10631-can) = Threatened (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

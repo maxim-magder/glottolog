@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wè Western",
+    "hid": "wec",
+    "level": "language",
+    "iso639-3": "wec",
+    "latitude": "6.36463",
+    "longitude": "-8.40234",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "LR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11159067"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:101**\n**eballiso2009:10401**\n**eballiso2009:10403**\n**eballiso2009:11152**\n**eballiso2009:11273**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:11716**\n**eballiso2009:14811**\n**eballiso2009:16212**\n**eballiso2009:16213**\n**eballiso2009:18422**\n**eballiso2009:24335**\n**eballiso2009:26261**\n**eballiso2009:28829**\n**eballiso2009:30458**\n**eballiso2009:30460**\n**eballiso2009:30461**\n**eballiso2009:32257**\n**eballiso2009:34044**\n**eballiso2009:37982**\n**eballiso2009:37987**\n**eballiso2009:45329**\n**eballiso2009:45330**\n**eballiso2009:55662**\n**eballiso2009:56986**\n**eballiso2009:7398**\n**eballiso2009:9509**\n**hh:e:Schwartz:Guere**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:Richard:Sud-Ouest-Ivoirien**\n**hh:h:Schwartz:Guere-Wobe**\n**hh:hvphon:Bole-Richard:We**\n**hh:hvw:Duitsman:Guere**"
+  },
+  "altnames": {
+    "glottolog": "\nWe Western",
+    "multitree": "\nGere\nGuere\nGuéré\nNeyo\nWè Western\nWèè",
+    "lexvo": "\nWè Western [en]",
+    "hhbib_lgcode": "\nNidrou\nNidru\nToulepleu (Nidrou)\nZiombli"
+  },
+  "triggers": {
+    "lgcode": "\ntowerson\nkran\nkrahn\nvilles\nyeere\nguere\nkruan\nguynee"
+  },
+  "identifier": {
+    "multitree": "wec"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Duitsman:Guere** **hh:hv:Ingemann:Kruan** **hh:e:Lauer:Doo**",
+    "subrefs": "\n**hh:e:Lauer:Doo**\n**hh:hv:Ingemann:Kruan**\n**hh:hvw:Duitsman:Guere**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wè Western (wec-wec) = 5* (Developing)."
+  }
+}

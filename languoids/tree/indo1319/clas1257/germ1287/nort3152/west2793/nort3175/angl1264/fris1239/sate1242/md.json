@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ems-Weser Frisian",
+    "hid": "stq",
+    "level": "language",
+    "iso639-3": "stq",
+    "latitude": "53.117",
+    "longitude": "7.721",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\n[Saterfriesisch](https://endangeredlanguages.com/lang/3052)\nhttps://en.wikipedia.org/wiki/East_Frisian_language\nhttps://www.wikidata.org/entity/Q494355"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:ew:Minssen:Saterlande**\n**hh:hvw:NovotnaBlazek:Frisian**\n**hh:s:Ehrentraut:Wangeroger**\n**hh:s:Ehrentraut:Wangerooger**\n**hh:s:Fort:Saterfriesische:2001**\n**hh:s:Gregersen:Wangerooge**\n**hh:s:Kramer:Seelter**\n**hh:s:Slofstra:Saterfriesischen**\n**hh:s:Versloot:Wangeroogische**\n**hh:sd:Fort:Saterfrieschisches**\n**hh:sd:Fort:Saterfrieschisches:2015**\n**hh:soc:WiltsFort:Nordfriesland-Saterland**\n**hh:t:Fort:Saterfrieschisches**\n**hh:t:Littmann:Alt-Wangerooge**\n**hh:t:Siebs:Wangeroog**\n**hh:vw:Kosegarten:Wangeroger**\n**hh:vw:Matuszak:Saterfriesischen**\n**hh:w:Detten:Niederstift-Munster**\n**hh:w:Konig:Frisicae**\n**hh:w:Versloot:Wangereager**\n**hh:wsoc:Stellmacher:Saterlandische**"
+  },
+  "altnames": {
+    "multitree": "\nEast Frisian\nFrisian\nFrison oriental\nFrisón oriental\nSaterfriesiesch\nSaterfriesisch\nSaterlandic Frisian\nSaterländisch",
+    "lexvo": "\nDialetto frisone orientale [it]\nEkialdeko frisiera [eu]\nFreeshlannish Hiar [gv]\nFrison oriental [fr]\nFrisó oriental [ca]\nFrizeg ar reter [br]\nJęzyk fryzyjski saterlandzki [pl]\nSaterfreesche Spraak [nds]\nSaterfries [li]\nSaterfriesisch [en]\nSaterfriesische Sprache [de]\nSaterfrisa lingvo [eo]\nSaterfrisiska [sv]\nSaterfrizišćina [dsb]\nSaterland Frisian language [en]\nSealterfrysk [fy]\nSeeltersk [stq]\nSelterfrais [nds]\nSâ-thi̍t-fut-lî-sî-ngî [hak]\nSæterlendisc [ang]\nВосточнофризский язык [ru]\nザーターフリジア語 [ja]\n沙特弗里西語 [zh]",
+    "hhbib_lgcode": "\nAlt-Wangerooge\nClosest to Wangerooger\nSatefriesischen\nSater\nSaterfriesisch\nSaterfriesischen\nSaterland\nWangereager\nWangeroger\nWangeroog\nWangerooge Frisian\nWangerooger\nWangeroogische\nWeser Frisian\nWeser Frisische",
+    "glottolog": "\nSaterfriesisch",
+    "elcat": "\nEast Frisian\nFrisian\nSaterfriesiesch\nSaterfriesisch\nSaterlandic Frisian\nSaterländisch"
+  },
+  "triggers": {
+    "lgcode": "\nseelter\nsaterlandische\nkute\nsproakleere\nsaterfriesisches\nsaterland\nsaterfriesischen"
+  },
+  "identifier": {
+    "multitree": "stq",
+    "endangeredlanguages": "3052"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stiles:West-Germanic**:17-23 **hh:hv:Harbert:Germanic**:7-9",
+    "subrefs": "\n**hh:hv:Stiles:West-Germanic**\n**hh:hv:Harbert:Germanic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Saterfriesisch (3052-stq) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

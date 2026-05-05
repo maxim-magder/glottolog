@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sembakung Murut",
+    "hid": "sbr",
+    "level": "language",
+    "iso639-3": "sbr",
+    "latitude": "4.22102",
+    "longitude": "116.799",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7449148\nhttps://en.wikipedia.org/wiki/Sembakung_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:YalisRosdiana:Agabag**\n**hh:h:Appell:Northeast-Borneo**\n**hh:h:vonDewall:Noordoostkust-Borneo**\n**hh:hv:Spitzack:Murutic**\n**hh:typ:Radjaban:Agabag**\n**hh:typ:Radjaban:Agabag:2013**\n**hh:w:Lobel:North-Borneo**"
+  },
+  "altnames": {
+    "multitree": "\nSembakoeng\nSembakong\nSembakung Murut\nSimbakong\nTidoeng\nTidong\nTidung\nTingalun\nTinggalan\nTinggalum",
+    "lexvo": "\nSembakung Murut [en]",
+    "hhbib_lgcode": "\n(30) Tingalan (western) (TNGALAN)\n(31) Eastern Tingalan (ETING)\nAgabag\nTinggalaan\nTinggalan\nTinggalans of Dauts"
+  },
+  "triggers": {
+    "lgcode": "\ntinggalan"
+  },
+  "identifier": {
+    "multitree": "sbr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Spitzack:Murutic**",
+    "subrefs": "\n**hh:hv:Spitzack:Murutic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Murut, Sembakung (sbr-sbr) = 6b* (Threatened)."
+  }
+}

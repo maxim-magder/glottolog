@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hwana",
+    "hid": "hwo",
+    "level": "language",
+    "iso639-3": "hwo",
+    "latitude": "10.3633",
+    "longitude": "12.7683",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Hwona](https://lexibank.clld.org/languages/kraftchadic-Hwona)\nhttps://en.wikipedia.org/wiki/Hwana_language\nhttps://www.wikidata.org/entity/Q56498"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1255**\n**asjp2010:3417**\n**cldf:meek:31:2**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:h:Temple:NNigeria**\n**hh:hew:Meek:Tribal:II**\n**hh:hw:Kraft:Chadic:II**"
+  },
+  "altnames": {
+    "multitree": "\nFiterya\nHona\nHwana\nHwona\nTuftera",
+    "lexvo": "\nC'hwaneg [br]\nHwana [en]\nHwana jezik [hr]\nHwana language [en]\nLíngua hwana [pt]",
+    "hhbib_lgcode": "\nHona\nHwana/Hona\nHwona (Tuftera)"
+  },
+  "triggers": {
+    "lgcode": "\niii AND biu"
+  },
+  "identifier": {
+    "multitree": "hwo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:49-50",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hwana (hwo-hwo) = 6a* (Vigorous)."
+  }
+}

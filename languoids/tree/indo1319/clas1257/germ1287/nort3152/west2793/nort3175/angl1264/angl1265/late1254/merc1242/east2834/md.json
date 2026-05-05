@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Irish Anglo-Norman",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "iso639-3": "yol",
+    "hid": "yol",
+    "countries": [
+      "IE"
+    ],
+    "longitude": "-6.6488",
+    "latitude": "52.2496",
+    "timespan": "1788-01-01/1900-01-01"
+  },
+  "altnames": {
+    "glottolog": "\nEast Coast Irish English",
+    "hhbib_lgcode": "\nAnglo-Norman including Forth and Bargy\nForth and Bargie\nForth and Bargy\nYola"
+  },
+  "classification": {
+    "sub": "**hh:phonv:Hickey:Middle-English**",
+    "subrefs": "\n**hh:phonv:Hickey:Middle-English**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Poole:Yola**\n**hh:ew:Sullivan:Yola**\n**hh:ew:Vallancey:Forth-Bargie**\n**hh:h:OMuirithe:Wexford**\n**hh:hb:Hickey:Ireland:2011**\n**hh:hb:Hickey:Irish-English**\n**hh:phonv:Hickey:Middle-English**\n**iso6393:2008-079**\n**iso6393:2024-008**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2022-12-02T15:26:38",
+    "comment": "Yola (yol-yol) = 10 (Extinct)"
+  },
+  "iso_retirement": {
+    "code": "yol",
+    "name": "Yola",
+    "effective": "2025-10-15",
+    "reason": "merge",
+    "change_to": "\nenm",
+    "remedy": "Merge into Middle English (1100-1500) [enm] as dialect",
+    "change_request": "2008-079"
+  }
+}

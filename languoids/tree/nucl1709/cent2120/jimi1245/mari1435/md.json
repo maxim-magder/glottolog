@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Maring",
+    "hid": "mbw",
+    "level": "language",
+    "iso639-3": "mbw",
+    "latitude": "-5.44015",
+    "longitude": "144.642",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Maring](https://endangeredlanguages.com/lang/4626)\nhttps://www.wikidata.org/entity/Q3293280\nhttps://en.wikipedia.org/wiki/Maring_language\n[Maring](https://wals.info/languoid/lect/wals_code_mav)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Healey:Maring**\n**hh:ld:Woodward:Maring:Intonation**\n**hh:s:Woodward:Maring**\n**hh:typ:Woodward:Maring:Discourse**\n**hh:typ:Woodward:Maring:Phrases**\n**mpieva:Healey1973Threestu**\n**sil16:19561**\n**sil16:19562**\n**sil16:20322**\n**sil16:20323**\n**silpng:silpng1956-1990:1559**\n**silpng:silpng1956-1990:1560**\n**silpng:silpng1956-1990:1561**\n**silpng:silpng1956-1990:682**\n**silpng:silpng1956-1990:683**\n**silpng:silpng1956-1990:684**\n**silpng:silpng1956-1990:685**\n**silpng:silpng1991-2000:1316**\n**silpng:silpng1991-2000:1317**"
+  },
+  "altnames": {
+    "wals": "\nMaring",
+    "ruhlen (1987)": "\nMaring",
+    "moseley & asher (1994)": "\nMaring",
+    "multitree": "\nMareng\nMaring\nYoadabe-Watoare",
+    "lexvo": "\nMaring [en]",
+    "elcat": "\nMareng\nMaring\nYoadabe-Watoare"
+  },
+  "triggers": {
+    "lgcode": "\nmeeny\nyibon\nsereem\nmaring\nwed\ntumkoima\nnaxuyanga"
+  },
+  "identifier": {
+    "wals": "mav",
+    "multitree": "mbw",
+    "endangeredlanguages": "4626"
+  },
+  "classification": {
+    "sub": "**hh:v:Cook:Narak**",
+    "subrefs": "\n**hh:v:Cook:Narak**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maring (4626-mbw) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kami (Tanzania)",
+    "hid": "kcu",
+    "level": "language",
+    "iso639-3": "kcu",
+    "latitude": "-6.71075",
+    "longitude": "37.98",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Kami (Tanzania)](https://endangeredlanguages.com/lang/4357)\nhttps://www.wikidata.org/entity/Q3915212\nhttps://en.wikipedia.org/wiki/Kami_language_(Tanzania)\n[Kami](https://wals.info/languoid/lect/wals_code_kmi)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baur:roy:86**\n**cldf:baur:roy:87**\n**cldf:baur:roy:93**\n**cldf:baur:roy:99**\n**cldf:dempwolff:16:2**\n**cldf:ed:10**\n**cldf:guthrie:71:12**\n**cldf:horner:73:1**\n**cldf:horner:73:2**\n**cldf:horner:74**\n**cldf:houghton:97**\n**cldf:johnston:19:9**\n**cldf:velten:99:2**\n**eballiso2009:12977**\n**eballiso2009:1837**\n**eballiso2009:23532**\n**eballiso2009:28707**\n**eballiso2009:2995**\n**eballiso2009:30909**\n**eballiso2009:36132**\n**eballiso2009:36133**\n**eballiso2009:36136**\n**eballiso2009:37408**\n**eballiso2009:39715**\n**eballiso2009:39795**\n**eballiso2009:39797**\n**eballiso2009:39811**\n**eballiso2009:39812**\n**eballiso2009:50699**\n**eballiso2009:54523**\n**eballiso2009:56710**\n**eballiso2009:7057**\n**eballiso2009:8665**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hvw:Dempwolff:Deutsch-Ostafrika**\n**hh:hvw:Gonzales:Ruvu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:s:PetzellAunio:Kami**\n**hh:s:Velten:Wakami**\n**hh:wtyp:Seidel:Ki-Kami**"
+  },
+  "altnames": {
+    "wals": "\nKami",
+    "wals other": "\nWakami",
+    "ruhlen (1987)": "\nKami",
+    "moseley & asher (1994)": "\nKami",
+    "multitree": "\nKami\nKikami",
+    "lexvo": "\nKami (Tanzania) [en]\nKami [en]",
+    "hhbib_lgcode": "\nG36_Kami\nKami\nKami G36",
+    "elcat": "\nKami (Tanzania)\nKikami"
+  },
+  "triggers": {
+    "lgcode": "\nwakami\nloukami\nruvu"
+  },
+  "identifier": {
+    "wals": "kmi",
+    "multitree": "kcu",
+    "endangeredlanguages": "4357"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Gonzales:Ruvu**",
+    "subrefs": "\n**hh:hvw:Gonzales:Ruvu**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kami (Tanzania) (4357-kcu) = Severely Endangered (80 percent certain, based on the evidence available) [Petzell and Aunio 2019](cldf:petzell:aunio:19)"
+  }
+}

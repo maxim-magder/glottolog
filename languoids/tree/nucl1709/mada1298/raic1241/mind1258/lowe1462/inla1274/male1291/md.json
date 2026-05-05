@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Male (Papua New Guinea)",
+    "hid": "mdc",
+    "level": "language",
+    "iso639-3": "mdc",
+    "latitude": "-5.49975",
+    "longitude": "145.757",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Male](https://lexibank.clld.org/languages/transnewguineaorg-male)\n[male](https://lexibank.clld.org/languages/zgraggenmadang-male)\nhttps://en.wikipedia.org/wiki/Male_language_(Papuan)\nhttps://www.wikidata.org/entity/Q6742927"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Hagen:Papuas**\n**hh:ew:Werner:Finisterre**\n**hh:he:Biro:Astrolabe-Obol**\n**hh:hew:Werner:Kaiser-Wilhelms**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:hw:Zgraggen:Rai**\n**hh:w:Loukotka:Biros-Papuasprachen**\n**hh:w:vonMiklucho-Maclay:Maklaya**"
+  },
+  "altnames": {
+    "multitree": "\nKolika\nKoliku\nMale",
+    "lexvo": "\nMale (Papua New Guinea) [en]\nMale [en]",
+    "hhbib_lgcode": "\nBuram\nBurumana\nDamun\nKaliko\nKoliku\nMale\nMale-Gambanga\nManikam\nUom\nWuong"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "mdc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Daniels:Minjim**",
+    "subrefs": "\n**hh:hv:Daniels:Minjim**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Soq (mdc-mdc) = 6b (Threatened)."
+  }
+}

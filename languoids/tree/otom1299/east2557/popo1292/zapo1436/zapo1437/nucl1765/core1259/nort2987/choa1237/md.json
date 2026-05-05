@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Choapan Zapotec",
+    "hid": "zpc",
+    "level": "language",
+    "iso639-3": "zpc",
+    "latitude": "17.4371",
+    "longitude": "-95.8656",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Rincón](https://endangeredlanguages.com/lang/8789)\nhttps://en.wikipedia.org/wiki/Cho%C3%A1pam_Zapotec\nhttps://www.wikidata.org/entity/Q5103425"
+  },
+  "sources": {
+    "glottolog": "\n**haspelmath:operstein_gramatica_2010**\n**hh:ew:delaFuente:Choapan**\n**hh:g:Lyman:Zapoteco-Comaltepec**\n**hh:g:Lyman:Zapoteco-Comaltepec:2007**\n**hh:hv:Campbell:Central-Zapotec**\n**hh:hvw:Rendon:Zapoteco**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:LymanLyman:Choapan-Zapotec**\n**hh:phon:Morales:Zapoteco-Santiago-Sochiapan**\n**hh:phontyp:Hernandez:Zapoteco**\n**hh:typ:Morales:Zapoteco-Santiago-Sochiapan**\n**mpieva:Merrifield1977Studiesi**\n**sil16:11546**\n**sil16:11547**\n**sil16:15239**\n**sil16:21610**\n**sil16:47818**\n**sil16:47819**"
+  },
+  "altnames": {
+    "multitree": "\nChoapan Zapotec\nEastern Sapoteko\nZapotec\nZapotec, Choapan\nZapoteco de Choapan\nZapoteco de Petapa\nZapoteco de San Bartolo Yautepec\nZapoteco mixtepeco\nZapotèque de Mixtepe\nZapotèque de Petapa\nZapotèque de San Bartolo Yautepec",
+    "lexvo": "\nChoapan Zapotec [en]",
+    "hhbib_lgcode": "\nComaltepec\nSanta María Yahuivé appx 17.372921 and-95.821438\nZapotec-Choapan\nZapoteco de Santiago Sochiapan",
+    "elcat": "\nChoapan Zapotec\nNorthern Sapoteko\nNorthern Villa Alta Zapotec\nNothern Zapoteco\nRincón\nRincón Zapotec\nSierra de Villa Alta\nZapotec\nZapoteco de Choapan\nZapoteco de Yagallo\nZapoteco del Rincón"
+  },
+  "triggers": {
+    "lgcode": "\nchoapan\nxcuidi"
+  },
+  "identifier": {
+    "multitree": "zpc",
+    "endangeredlanguages": "8789"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith-Stark:Zapotecas** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Smith-Stark:Zapotecas**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Rincón (8789) = Threatened (20 percent certain, based on the evidence available) (Developing) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

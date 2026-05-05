@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Malabar-Sri Lanka Portuguese",
+    "hid": "NOCODE_Malabar-Sri-Lanka-Portuguese",
+    "level": "language",
+    "latitude": "8.5867",
+    "longitude": "81.211885",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "LK"
+    ],
+    "links": "\n[Sri Lanka Portuguese](https://apics-online.info/contributions/41)\nhttps://www.wikidata.org/entity/Q131549994"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dalgado:00**\n**cldf:jackson:90**\n**cldf:np:nd:208**\n**cldf:smith:01**\n**cldf:smith:74:2**\n**cldf:smith:79:1**\n**cldf:smith:79:3**\n**hh:hvw:Clements:Indo-Portuguese**\n**hh:ld:Callaway:Ceylon-Portuguese**\n**hh:ld:Schuchardt:Mahe-Cannanore**\n**hh:phon:Smith:Sri-Lanka-Creole-Portuguese**\n**hh:s:Schuchardt:Mangalore**\n**hh:s:Smith:Sri-Lanka-Creole-Portuguese**\n**hh:s:Smith:Sri-Lanka-Portuguese**\n**hh:st:Dalgado:Indo-Portugues-Ceylao**\n**hh:t:Schuchardt:Cochim**\n**hh:typ:Krajinovic:Malabar-Indo-Portuguese**\n**hh:typ:Krajinovic:Malabar-Indo-Portuguese:2018**\n**hh:vtyp:Smith:Sri-Lanka-Portuguese**"
+  },
+  "triggers": {
+    "lgcode": "\nportuguese AND ceylao\nportuguese AND cochim\nportuguese AND mangalore"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clements:Indo-Portuguese**",
+    "subrefs": "\n**hh:hvw:Clements:Indo-Portuguese**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Cochin Indo-Portuguese (10860-NOCODE_Malabar-Sri-Lanka-Portuguese) = Critically Endangered (20 percent certain, based on the evidence available)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCochim\nKannur\nMangalore\nSLP"
+  }
+}

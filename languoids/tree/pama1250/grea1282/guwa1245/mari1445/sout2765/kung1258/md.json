@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kunggari",
+    "hid": "kgl",
+    "level": "language",
+    "iso639-3": "kgl",
+    "latitude": "-24.2182",
+    "longitude": "143.222",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Gunggari](https://collection.aiatsis.gov.au/austlang/language/d37)\n[Gunggari](https://endangeredlanguages.com/lang/4379)\n[Gunggari](https://lexibank.clld.org/languages/bowernpny-Gunggari)\nhttps://phoible.org/languages/kung1258\nhttps://www.wikidata.org/entity/Q10550184",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hvwphon:Holmer:South-Eastern-Queensland**\n**hh:w:Lookeretal:Paroo-Warrego**\n**ozbib:4969**"
+  },
+  "altnames": {
+    "multitree": "\nCongaro\nCoongurri\nGoon-garree\nGungar\nGungari\nGunggari\nKogai\nKogurre\nKoongerri\nKoonkerri\nKungeri\nKunggari\nKungri\nKuungkari\nNgaragari\nUnggari\nUnggri\nUnghi\nUngorri\nYangeberra\nYankibura",
+    "lexvo": "\nKunggari [en]",
+    "hhbib_lgcode": "\nGunggari group: Gunggari\nMungalalla Creek-contributed by W.H. Looker-can be identified with confidence as Gunggari",
+    "elcat": "\nCongaro\nCoongurri\nGoon-garree\nGungar\nGungari\nGunggari\nKogai\nKogurre\nKoongerri\nKoonkerri\nKungeri\nKunggari\nKungri\nKuungkari\nNgaragari\nUnggari\nUnggri\nUnghi\nUngorri\nYangeberra\nYankibura",
+    "aiatsis": "\nCongaro\nCoongurri\nGoon garee\nGoongurri\nGungar\nGungari\nGunggari\nKogai\nKogurre\nKokaburra\nKoongerri\nKoonkerri\nKoonkurri\nKungeri\nKunggari\nKungri\nKunkari\nKunngkari\nKuungkari\nNebine Gunggari\nNgaragari\nTarawalla\nTorraburri\nUngerri\nUnggari\nUnggri\nUnghi\nUngorri\nYangeberra\nYangeeberra\nYangeeburra\nYankibura\nYankiburra"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND queensland"
+  },
+  "identifier": {
+    "multitree": "kgl",
+    "endangeredlanguages": "4379"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sutton:Gugu-Badhun** **hh:hvw:Barrett:Maric**",
+    "subrefs": "\n**hh:hv:Sutton:Gugu-Badhun**\n**hh:hvw:Barrett:Maric**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kunggari (kgl-kgl) = 9 (Dormant)."
+  }
+}

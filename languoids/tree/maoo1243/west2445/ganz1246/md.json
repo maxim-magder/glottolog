@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ganza",
+    "hid": "gza",
+    "level": "language",
+    "iso639-3": "gza",
+    "latitude": "10.2991",
+    "longitude": "35.1373",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET",
+      "SD"
+    ],
+    "links": "\n[Ganza](https://endangeredlanguages.com/lang/4610)\nhttps://www.wikidata.org/entity/Q5521556\nhttps://en.wikipedia.org/wiki/Ganza_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**hh:e:Smidt:Mao**\n**hh:h:Bryan:No-Man**\n**hh:he:Cerulli:SWEthiopia**\n**hh:he:Davies:Nile-Sobat**\n**hh:he:Grottanelli:Pre-Nilotes**\n**hh:he:Grottanelli:Pre-Niloti**\n**hh:hv:Bender:Gumuz-Koman-Mao-Omotic**\n**hh:hv:Bender:Remnant**\n**hh:hv:Fleming:Mao:2007**\n**hh:hwsoc:Kuspert:Mao-Komo**\n**hh:phon:Smolders:Ganza**\n**hh:s:Reidhead:Ganza**\n**hh:vtyp:Ahland:Omotic-Mao**\n**hh:w:Smolders:Ganza**\n**hh:wsoc:Krell:Ganza-Komo**"
+  },
+  "altnames": {
+    "multitree": "\nGanza\nGanzo\nKoma",
+    "lexvo": "\nGanza [en]",
+    "hhbib_lgcode": "\nGanzo\nGwami Nana",
+    "elcat": "\nGanza\nGanzo\nKoma"
+  },
+  "triggers": {
+    "lgcode": "\nganza"
+  },
+  "identifier": {
+    "multitree": "gza",
+    "endangeredlanguages": "4610"
+  },
+  "classification": {
+    "sub": "**hh:hv:Fleming:Mao:2007**",
+    "subrefs": "\n**hh:hv:Fleming:Mao:2007**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ganza (4610-gza) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

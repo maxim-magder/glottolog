@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tima",
+    "hid": "tms",
+    "level": "language",
+    "iso639-3": "tms",
+    "latitude": "11.7176",
+    "longitude": "29.1632",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Tima](https://endangeredlanguages.com/lang/1439)\n[Tima](https://grambank.clld.org/languages/tima1241)\n[Tima](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Tima)\n[Tima](https://wals.info/languoid/lect/wals_code_tia)\nhttps://en.wikipedia.org/wiki/Tima_language\nhttps://www.wikidata.org/entity/Q36684"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bell:79**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:mugaddam:etal:06**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:heinitz:17**\n**cldf:lewis:ed:09**\n**cldf:meinhof:16:3**\n**cldf:np:nd:264**\n**cldf:sprachen:nd**\n**hh:d:Schneider-Blum:Tima**\n**hh:e:Meerpohl:Tima**\n**hh:g:Alamin:Tima**\n**hh:g:Alamin:Tima:2012**\n**hh:hld:Heinitz:Sudan**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Dimmendaal:Tima**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:phon:Bashir:Tima**\n**hh:soc:Mugaddam:Tima**\n**hh:typ:Dimmendaal:Tima**\n**hh:typ:Dimmendaal:Tima:Ergativity**\n**hh:typ:Dimmendaal:Tima:Esoterogeny**\n**hh:w:Meinhof:Tima**\n**hh:w:Schneider-Blum:Tima**"
+  },
+  "altnames": {
+    "multitree": "\nLomorik\nLomuriki\nTamanik\nTima\nYibwa",
+    "lexvo": "\nTima [en]",
+    "elcat": "\nDomurik\nLomorik\nLomuriki\nTamanik\nTima\nYibwa"
+  },
+  "triggers": {
+    "lgcode": "\nlocalist\nphotographische\ntima"
+  },
+  "identifier": {
+    "wals": "tia",
+    "multitree": "tms",
+    "endangeredlanguages": "1439"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Stevenson:Nuba**",
+    "subrefs": "\n**hh:hvs:Stevenson:Nuba**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tima (1439-tms) = Threatened (20 percent certain, based on the evidence available) [Dimmendaal et al. 2006](cldf:dimmendaal:mugaddam:etal:06)"
+  }
+}

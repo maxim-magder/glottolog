@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Zayse-Zergulla",
+    "hid": "zay",
+    "level": "language",
+    "iso639-3": "zay",
+    "latitude": "5.83747",
+    "longitude": "37.3409",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Zayse](https://wals.info/languoid/lect/wals_code_zay)\n[Zayse-Zergulla](https://grambank.clld.org/languages/zays1235)\n[Zaysé-Zergulla](https://endangeredlanguages.com/lang/5808)\nhttps://en.wikipedia.org/wiki/Zayse-Zergulla_language\nhttps://www.wikidata.org/entity/Q673895"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bogale:17**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:siebert:hoeft:01**\n**eballiso2009:23351**\n**eballiso2009:30948**\n**eballiso2009:30949**\n**eballiso2009:31554**\n**eballiso2009:31555**\n**eballiso2009:31847**\n**eballiso2009:33980**\n**eballiso2009:39161**\n**eballiso2009:40579**\n**eballiso2009:47014**\n**hh:e:Abbink:Zayse-Zargulla**\n**hh:g:Yeshimebet:Zaysete**\n**hh:hv:Leslau:Ethiopia**\n**hh:hvw:Bender:Ethiopia**\n**hh:hvw:Jordan:Shara-Ometo**\n**hh:ld:Amha:Zayse-Zargulla**\n**hh:phon:Mulugeta:Zayse**\n**hh:s:BauerWigboldus:Zaysite**\n**hh:s:Cerulli:Giangero**\n**hh:s:Hayward:Zayse**\n**hh:s:Teshome:Zaysse**\n**hh:soc:Mohammed:Zayse-Zergulla**\n**hh:typ:Amha:Complex-Zargulla**\n**hh:typ:Hailu:Zayse**\n**hh:typ:Yimam:Zargulla**\n**hh:vld:Guldemann:Northeast-Africa**\n**iso6393:2007-051**\n**sil16:37549**\n**sil16:42576**"
+  },
+  "altnames": {
+    "wals": "\nZayse",
+    "ruhlen (1987)": "\nZayse-Zergulla",
+    "moseley & asher (1994)": "\nZayse",
+    "multitree": "\nZayse\nZayse-Zergulla\nZaysse\nZaysé",
+    "lexvo": "\nZayse-Zergulla [en]\nZaysete [en]",
+    "hhbib_lgcode": "\nFuse Dhimalle Zergulla\nZaisse\nZargulla\nZayse\nZaysete\nZaysite\nZaysse\nZayssè\nZergulla",
+    "elcat": "\nZayse\nZayse-Zergulla\nZaysse\nZaysé-Zergulla\nZeyse"
+  },
+  "triggers": {
+    "lgcode": "\njubaland\nzargulla\nzaisse\nzergulla\nzayse"
+  },
+  "identifier": {
+    "wals": "zay",
+    "multitree": "zay",
+    "endangeredlanguages": "5808"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Zaysé-Zergulla (5808-zay) = Vulnerable (20 percent certain, based on the evidence available) [Bogale 2017](cldf:bogale:17)"
+  }
+}

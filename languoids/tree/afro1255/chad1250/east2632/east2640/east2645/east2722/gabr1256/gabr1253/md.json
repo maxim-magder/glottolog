@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gabri",
+    "hid": "gab",
+    "level": "language",
+    "iso639-3": "gab",
+    "latitude": "9.33955",
+    "longitude": "16.623",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3441237\nhttps://en.wikipedia.org/wiki/Southern_Gabri_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:15299**\n**eballiso2009:19880**\n**eballiso2009:36923**\n**eballiso2009:5913**\n**hh:e:Vossart:Bongor**\n**hh:he:Bruel:Moyen-Logone**\n**hh:hsoc:Vanderkooietal:Gabri**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Benton:WSudan**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**"
+  },
+  "altnames": {
+    "multitree": "\nGabere\nGaberi\nGabri\nGabri-Nord\nNgabre\nNorthern Gabri\nSouthern Gabri",
+    "lexvo": "\nGabri [en]",
+    "hhbib_lgcode": "\nDormo\nGabéri\nGabéri de Darbe\nGabéri of Bruel\nGabéri of Darbé\nGabéri of Decorse\nTshīre"
+  },
+  "triggers": {
+    "lgcode": "\napophony\nhunts\ntandjile"
+  },
+  "identifier": {
+    "multitree": "gab;tng"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jungraithmayr:Nachtigal**",
+    "subrefs": "\n**hh:hv:Jungraithmayr:Nachtigal**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gabri (gab-gab) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pukur",
+    "hid": "bcg",
+    "level": "language",
+    "iso639-3": "bcg",
+    "latitude": "10.5271",
+    "longitude": "-14.6111",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN"
+    ],
+    "links": "\n[Baga Binari](https://endangeredlanguages.com/lang/3891)\nhttps://en.wikipedia.org/wiki/Mboteni_language\nhttps://www.wikidata.org/entity/Q31172660"
+  },
+  "altnames": {
+    "multitree": "\nBaga\nBaga Binari\nBaga de Binari\nBarka\nBinari\nKalum\nMborin\nPukur\nTemne",
+    "lexvo": "\nBaga Binari [en]\nBaga Binari language [en]\nBinareg [br]",
+    "hhbib_lgcode": "\nBaga Binari\nBaga Mboteni\nMboteni\nPukur\nPukur (commonly called Baga Mboteni or Baga Binari)",
+    "elcat": "\nBaga\nBaga Binari\nBarka\nBinari\nKalum\nMborin\nPukur\nTemne",
+    "glottolog": "\nBaga Mboteni-Binari"
+  },
+  "identifier": {
+    "multitree": "bcg",
+    "endangeredlanguages": "3891"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017** **hh:g:Rochant:Pukur**:11-13",
+    "subrefs": "\n**hh:g:Rochant:Pukur**\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baga Binari (3891-bcg) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Rochant:Pukur**\n**hh:h:Lamp:Baga**\n**hh:h:Voeltz:Guinee**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hvw:Fields:Rio-Nunez**\n**hh:ld:Wilson:Baga-Mboteni**\n**hh:vtyp:Soumah:Baga**\n**hh:w:Wilson:Baga**\n**iso6393:2015-065**"
+  }
+}

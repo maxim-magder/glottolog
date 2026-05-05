@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mekeo",
+    "hid": "mek",
+    "level": "language",
+    "iso639-3": "mek",
+    "latitude": "-8.23853",
+    "longitude": "146.586",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mekeo](https://grambank.clld.org/languages/meke1243)\n[Mekeo](https://lexibank.clld.org/languages/abvdoceanic-Mekeo)\n[Mekeo](https://wals.info/languoid/lect/wals_code_mke)\nhttps://en.wikipedia.org/wiki/Mekeo_language\nhttps://www.wikidata.org/entity/Q3304803"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:belshaw:51**\n**cldf:bergendorff:10**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:f:allen:04**\n**cldf:hauofa:71**\n**cldf:hauofa:81**\n**cldf:keesing:84:2**\n**cldf:mosko:91**\n**cldf:np:14:5**\n**cldf:np:19:5**\n**cldf:seligman:10**\n**cldf:stephen:74**\n**cldf:stephen:95**\n**cldf:williamson:13**\n**hh:e:Hauofa:Mekeo**\n**hh:g:Jones:Mekeo**\n**hh:he:Seligmann:Melanesians**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Lloyd:Angan-Neighbouring**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Ray:Melanesian**\n**hh:hw:Ray:Central-Papua**\n**hh:s:Amala:Mekeo**\n**hh:s:Strong:Roro-Mekeo**\n**hh:w:Anonymous:Upper-Joseph**\n**hh:w:Bouellat:Mekeo**\n**hh:w:Jones:Mekeo**\n**silpng:silpng1991-2000:1344**\n**silpng:silpng1991-2000:1345**\n**silpng:silpng1991-2000:1346**\n**silpng:silpng1991-2000:1347**"
+  },
+  "altnames": {
+    "wals": "\nMekeo",
+    "wals other": "\nMekeo-Kovio",
+    "ruhlen (1987)": "\nMekeo",
+    "moseley & asher (1994)": "\nMekeo",
+    "multitree": "\nKovio\nMekeo\nMekeo-Kovio",
+    "lexvo": "\nMekeo [en]",
+    "hhbib_lgcode": "\nKovio\nMekeo-East\nMekeo-West\nUpper St Joseph District"
+  },
+  "triggers": {
+    "lgcode": "\naupua\naugama\nmekeo\nlaagai\nlexicogrammar"
+  },
+  "identifier": {
+    "wals": "mke",
+    "multitree": "mek",
+    "languagelandscape": "http://languagelandscape.org/language/Mekeo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:g:Jones:Mekeo**:23-25",
+    "subrefs": "\n**hh:g:Jones:Mekeo**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mekeo (mek-mek) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Dalmatian",
+    "hid": "dlm",
+    "level": "language",
+    "iso639-3": "dlm",
+    "latitude": "42.7095",
+    "longitude": "18.0238",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "HR"
+    ],
+    "links": "\n[Dalmatian](https://lexibank.clld.org/languages/saenkoromance-dalmatian)\nhttps://en.wikipedia.org/wiki/Dalmatian_language\nhttps://www.wikidata.org/entity/Q35527",
+    "timespan": "1300-01-01/1898-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:bsoc:Metzeltin:Dalmazia**\n**hh:gtd:Bartoli:Dalmatico**\n**hh:gtd:Bartoli:Dalmatische**\n**hh:ht:Hervas:Saggio**\n**hh:hvw:Hervas:Poligloto**\n**hh:phon:Hadlich:Veljotskog**\n**hh:phonv:Hadlich:Vegliote**\n**hh:phonv:Muljacic:Dalmatische**\n**hh:phonw:Ive:Veglia**\n**hh:s:Maiden:Dalmatian**\n**mpieva:1996Lesdiffe**"
+  },
+  "triggers": {
+    "lgcode": "\ndalmatische\nrumanisch"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80 (Istriot and Venetian show Agard's diagnostic development of the medial kt cluster)",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Dalmatian (345-dlm) = Extinct"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nDalmata\nDalmation\nVeglia\nVegliost\nVegliote"
+  }
+}

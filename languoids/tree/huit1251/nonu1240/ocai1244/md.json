@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ocaina",
+    "hid": "oca",
+    "level": "language",
+    "iso639-3": "oca",
+    "latitude": "-2.159",
+    "longitude": "-72.1422",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO",
+      "PE"
+    ],
+    "links": "\n[Ocaina](https://endangeredlanguages.com/lang/1855)\n[Ocaina](https://lexibank.clld.org/languages/hubercolumbian-Ocaina)\n[Ocaina](https://wals.info/languoid/lect/wals_code_oca)\n[ocaina](https://lexibank.clld.org/languages/chaconcolumbian-Ocaina)\nhttps://en.wikipedia.org/wiki/Ocaina_language\nhttps://phoible.org/languages/ocai1244\nhttps://www.wikidata.org/entity/Q3182577"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4488**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:decultura:nd**\n**cldf:ed:10**\n**cldf:fagua:seifart:10**\n**cldf:faguarincon:15**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**cldf:pozzi-escot:ed:98:20**\n**fabreall2009ann:Witoto-Bora_ocaina01**\n**fabreall2009ann:Witoto-Bora_ocaina02**\n**fabreall2009ann:Witoto-Bora_ocaina03**\n**fabreall2009ann:Witoto-Bora_ocaina04**\n**fabreall2009ann:Witoto-Bora_ocaina05**\n**fabreall2009ann:Witoto-Bora_ocaina07**\n**fabreall2009ann:Witoto-Bora_ocaina08**\n**fabreall2009ann:Witoto-Bora_ocaina10**\n**hh:d:Leach:Ocaina**\n**hh:e:Fanciotti:Okaina**\n**hh:g:Fagua:Ocaina**\n**hh:he:ChirifMora:Comunidades-Nativas**\n**hh:hvw:HuberReed:Colombia**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Villarejo:Idiomas-Selva**\n**hh:phon:AgnewPike:Ocaina**\n**hh:s:FaguaSeifart:Ocaina**\n**hh:w:Wise:Selva-Peruana**\n**hh:w:deWavrinRivet:NonuyaOkaina**\n**mpieva:Fagua2004Lalangue**\n**sil16:12014**\n**sil16:20945**\n**sil16:20946**\n**sil16:20947**\n**sil16:20948**\n**sil16:20949**\n**sil16:20950**\n**sil16:20951**\n**sil16:20952**\n**sil16:20953**\n**sil16:35791**\n**sil16:36336**"
+  },
+  "altnames": {
+    "wals": "\nOcaina",
+    "ruhlen (1987)": "\nOkaina",
+    "moseley & asher (1994)": "\nOcaina",
+    "multitree": "\nOcaina\nOcaina (Colombie)\nOcaina (Perú)\nOcaina (Pérou)\nOkaina",
+    "lexvo": "\nOcaina [en]\nOcaina language [en]\nOkaineg [br]\n𐍉𐌺𐌰𐌹𐌽𐌰𐍂𐌰𐌶𐌳𐌰 [got]",
+    "hhbib_lgcode": "\nOkáina",
+    "elcat": "\nOcaina\nOkaina"
+  },
+  "triggers": {
+    "lgcode": "\nocaina\nNOT a AND ocaina\nocainas\nokaina"
+  },
+  "identifier": {
+    "wals": "oca",
+    "multitree": "oca",
+    "endangeredlanguages": "1855"
+  },
+  "classification": {
+    "sub": "**hh:hv:SeifartEcheverri:Bora-Witotoan**",
+    "subrefs": "\n**hh:hv:SeifartEcheverri:Bora-Witotoan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ocaina (1855-oca) = Critically Endangered (100 percent certain, based on the evidence available) [Fagua Rincón 2015](cldf:faguarincon:15)"
+  }
+}

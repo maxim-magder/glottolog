@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bassa-Kontagora",
+    "hid": "bsr",
+    "level": "language",
+    "iso639-3": "bsr",
+    "latitude": "10.3333",
+    "longitude": "4.98331",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Bassa-Kontagora](https://endangeredlanguages.com/lang/3807)\n[Bassa-Kontagora](https://lexibank.clld.org/languages/polyglottaafricana-BassaKontagora)\nhttps://en.wikipedia.org/wiki/Basa-Kontagora_language\nhttps://www.wikidata.org/entity/Q4866152",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:b:Struck:NNigeria**\n**hh:hel:Sommer:Survey**\n**hh:hvw:Rowlands:NNigeria**"
+  },
+  "altnames": {
+    "multitree": "\nBasa\nBassa-Kontagora",
+    "lexvo": "\nBassa-Kontagora [en]",
+    "elcat": "\nBasa\nBasa-Kontagora\nBassa-Kontagora"
+  },
+  "triggers": {
+    "lgcode": "\nNOT 2 AND linguistic AND fula"
+  },
+  "identifier": {
+    "multitree": "bsr",
+    "endangeredlanguages": "3807"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bassa-Kontagora (bsr-bsr) = 9 (Dormant)."
+  }
+}

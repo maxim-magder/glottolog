@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kadazan Dusun",
+    "hid": "dtp",
+    "level": "language",
+    "iso639-3": "dtp",
+    "latitude": "6.02998",
+    "longitude": "116.681",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Central Dusun](https://grambank.clld.org/languages/cent2100)\nhttps://en.wikipedia.org/wiki/Kadazandusun_language\nhttps://www.wikidata.org/entity/Q5317225"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:williams:65**\n**cldf:williams:nd**\n**hh:d:Lasimbang:Kadazan**\n**hh:h:Kroeger:Dusunic**\n**hh:hdialsoc:BankerBanker:Kadazan-Dusun**\n**hh:hew:Rutter:Pagans-Borneo**\n**hh:hld:Clayre:Eastern-Malaysia**\n**hh:hld:Clayre:Focus-Borneo**\n**hh:hvld:Clayre:Dusun**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hw:Ray:Borneo**\n**hh:ld:Majinal:Dusun**\n**hh:phonsoc:Tangit:Kadazandusun**\n**hh:s:MillerMiller:Kadazan**\n**hh:s:MillerMiller:Kadazan:1985**\n**hh:s:Omar:Kadazan-Tambunan**\n**hh:s:Price:Bundu-Dusun**\n**hh:s:Robinson:Tindal**\n**hh:sd:Antonissen:Kadazan-Dusun**\n**hh:soc:Miller:Bru-So-Kadazan-Dusun**\n**hh:st:Lasimbang:Kadazan**\n**hh:typ:Atin:Bundu-Tuhan**\n**hh:typ:Clayre:Dusun**\n**hh:v:Pekkanen:Kadazan**\n**hh:w:Lobel:North-Borneo**\n**hh:w:Luering:Dusun-Kimanis**\n**hh:w:Staal:Dusun**\n**hh:w:Swettenham:Wild-Tribes**\n**iso6393:2015-060**\n**sil16:31578**\n**sil16:35217**\n**sil16:36597**\n**sil16:46415**\n**sil16:48358**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Dusun\nCentral Kadazan\nDusan\nDusum\nDusun\nDusun, Central\nDusur\nKadasan\nKadayan\nKedayan",
+    "lexvo": "\nCentral Dusun [en]\nCentral Dusun language [en]",
+    "hhbib_lgcode": "\n(6) Kadazan Papar (KPAPAR)\n(7) Kadazan Kimanis (KKMANIS)\n(8) Kadazan Membakut (KMBAKUT)\n(9) Dusun Tambunan (DTAMB)\nBundu\nBundu Tuhan in Ranau\nCentral Dusun\nCoastal Kadazan\nDusun of Papar\nDusun of Tampassuk river\nDusun-Central\nDusun-Tambunan\nDusun/Kadazan of Ranau\nGrammar sketch Kadazan of Penampang\nKadasan\nKadazan Coastal\nKadazan-Coastal\nKadazan-Tambunan\nKimanis Bay is 5 39'N. 115 45'E so this is Kadazan\nKimanis British North Borneo\nKota Marudu Tinagas\nPapar\nPapar and Tambunan Dusun\nPutatan\nRanau Dusun\nTambunam\nTambunan\nTampassuk\nTempasuk\nTempasuk Dusun",
+    "glottolog": "\nCentral Dusun"
+  },
+  "triggers": {
+    "lgcode": "\nmarudu\nbundu\ntindal"
+  },
+  "identifier": {
+    "multitree": "dtp;cdus"
+  },
+  "classification": {
+    "sub": "**hh:hdialsoc:BankerBanker:Kadazan-Dusun**",
+    "subrefs": "\n**hh:hdialsoc:BankerBanker:Kadazan-Dusun**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kadazan Dusun (dtp-dtp) = 6b (Threatened)."
+  }
+}

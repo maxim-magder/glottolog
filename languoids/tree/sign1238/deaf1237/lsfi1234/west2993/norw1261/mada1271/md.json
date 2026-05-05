@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Madagascar Sign Language",
+    "hid": "mzc",
+    "level": "language",
+    "iso639-3": "mzc",
+    "latitude": "-19.04",
+    "longitude": "46.87",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Malagasy_Sign_Language\nhttps://www.wikidata.org/entity/Q12715020"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:FMM:Teninny-Tanana-Malagasy**\n**hh:typ:Minoura:Malagasy-Sign**\n**hh:typ:Minoura:Malagasy-Sign:2008**\n**hh:vld:Minoura:Norwegian-Malagasy-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nMadagascar Sign Language",
+    "lexvo": "\nMadagascar Sign Language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nttm"
+  },
+  "identifier": {
+    "multitree": "mzc"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malagasy Sign Language (mzc-mzc) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Danish Sign Language [dani1246], Icelandic Sign Language [icel1236] and Norwegian Sign Language [norw1255] are lexically and historically related (**hh:h:Thorvaldsdottir:Sign-Scandinavia**, **hh:h:Schroder:Norwegian-Sign**). Historical and some meagre lexical evidence suggests that Madagascar Sign Language [mada1271] derives from a Norwegian Sign Language introduced in the 1960s (**hh:vld:Minoura:Norwegian-Malagasy-Sign**). The Danish-Icelandic subgroup can be established on lexical comparison (63%, **hh:hv:AlderssonMcEntee:Icelandic-Danish**) and historical evidence (**hh:h:Thorvaldsdottir:Sign-Scandinavia**):812.",
+    "subrefs": "\n**hh:hv:AlderssonMcEntee:Icelandic-Danish**\n**hh:h:Schroder:Norwegian-Sign**\n**hh:vld:Minoura:Norwegian-Malagasy-Sign**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Eudeve",
+    "hid": "eud",
+    "level": "language",
+    "latitude": "28.5",
+    "longitude": "-110.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Eudeve](https://endangeredlanguages.com/lang/10964)\n[Eudeve](https://grambank.clld.org/languages/eude1234)\n[Eudeve](https://lexibank.clld.org/languages/utoaztecan-Eudeve)\n[Eudeve](https://wals.info/languoid/lect/wals_code_eud)\nhttps://en.wikipedia.org/wiki/Eudeve_language\nhttps://www.wikidata.org/entity/Q7887299",
+    "timespan": "1600-01-01/1965-01-01",
+    "iso639-3": "eud"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:pennington:81**\n**hh:hbld:Shaul:Opatan**\n**hh:hs:Pimentel:Mexico**\n**hh:ht:Hervas:Saggio**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hv:Shaul:OpataEudeve**\n**hh:hvld:deWolf:Opata-Eudeve**\n**hh:lde:Yetman:Opatas**\n**hh:s:Pennington:Dohema**\n**hh:s:Shaul:Eudeve**\n**hh:s:Smith:Heve**\n**hh:sd:Lionnet:Eudeve**\n**hh:t:SMGE:Mexicana**\n**hh:w:Escalante:Sonora**\n**iso6393:2022-034**"
+  },
+  "triggers": {
+    "lgcode": "\nheve\neudeve"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Eudeve (eud-eud) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nEudeve-Heve ó Dohema\nEudeve/Heve/Dohema\nHeve\nTonichi",
+    "elcat": "\nDohema\nEndeve\nEudeve\nHeve\nOpata-Eudeve\nOpatan"
+  },
+  "identifier": {
+    "endangeredlanguages": "10964"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Leco",
+    "hid": "lec",
+    "level": "language",
+    "iso639-3": "lec",
+    "latitude": "-15.0092",
+    "longitude": "-67.8818",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Leco](https://endangeredlanguages.com/lang/2915)\n[Leco](https://grambank.clld.org/languages/leco1242)\n[Leko](https://wals.info/languoid/lect/wals_code_lec)\nhttps://en.wikipedia.org/wiki/Leco_language\nhttps://phoible.org/languages/leco1242\nhttps://www.wikidata.org/entity/Q2625398"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:campbell:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:fabre:02:2**\n**cldf:ferrie:14**\n**cldf:lewis:ed:09**\n**cldf:np:86:2**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**cldf:wuethrich:00**\n**fabreall2009ann:10235**\n**fabreall2009ann:8703**\n**fabreall2009ann:9988**\n**fabreall2009ann:Leco0**\n**fabreall2009ann:Leco1**\n**fabreall2009ann:Leco12**\n**fabreall2009ann:Leco13**\n**fabreall2009ann:Leco16**\n**fabreall2009ann:Leco17**\n**fabreall2009ann:Leco18**\n**fabreall2009ann:Leco19**\n**fabreall2009ann:Leco21**\n**fabreall2009ann:Leco24**\n**fabreall2009ann:Leco25**\n**fabreall2009ann:Leco5**\n**fabreall2009ann:Leco6**\n**hh:e:Metraux:EBolivia**\n**hh:e:Vellard:Bolivie**\n**hh:e:Vellard:Yungas**\n**hh:e:deBalboa:Chunchos**\n**hh:h:Bueno:Obispado-Santa-Cruz**\n**hh:hew:Cardus:Bolivia**\n**hh:hew:Pauly:Bolivia**\n**hh:hv:Adelaar:Pukina-Leko**\n**hh:hvw:Montano:Bolivia:II**\n**hh:s:LafoneQuevedo:Leca**\n**hh:s:vandeKerke:Leko**\n**hh:s:vandeKerke:Leko:2002**\n**hh:t:vandeKerke:Leko-Doctrine**\n**hh:typ:vandeKerke:Leko**\n**hh:typ:vandeKerke:Leko:Object**\n**hh:w:PalauSaiz:Moxos**\n**hh:w:Weddell:Bolivie**"
+  },
+  "altnames": {
+    "multitree": "\nAteniano\nChuncho Aleniano\nLapalapa\nLeco\nLeka\nLeko\nRik'a",
+    "lexvo": "\nLeco [en]\nLeco language [en]\nLeko [fr]\nЛеко [ru]",
+    "hhbib_lgcode": "\nLeco o Lapa-Lapa\nLecos",
+    "elcat": "\nAteniano\nChuncho Aleniano\nLapalapa\nLeco\nLeko\nRik'a"
+  },
+  "triggers": {
+    "lgcode": "\nlecos\nleko\nleca\ndoctrine"
+  },
+  "identifier": {
+    "wals": "lec",
+    "multitree": "leko;lec",
+    "endangeredlanguages": "2915"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:typ:vandeKerke:Leko**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Leco (2915-lec) = Dormant (A few semispeakers remain.) [Van de Kerke 2009](cldf:vandekerke:09)"
+  }
+}

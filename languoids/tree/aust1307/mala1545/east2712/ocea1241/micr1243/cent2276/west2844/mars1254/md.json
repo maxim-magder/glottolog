@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Marshallese",
+    "hid": "mah",
+    "level": "language",
+    "iso639-3": "mah",
+    "latitude": "8.72",
+    "longitude": "167.73",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MH"
+    ],
+    "links": "\n[Marshallese](https://grambank.clld.org/languages/mars1254)\n[Marshallese](https://lexibank.clld.org/languages/abvdoceanic-Marshallese)\n[Marshallese](https://wals.info/languoid/lect/wals_code_msh)\nhttps://en.wikipedia.org/wiki/Marshallese_language\nhttps://www.wikidata.org/entity/Q36280"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:13:1**\n**cldf:bellwood:95**\n**cldf:bender:71:1**\n**cldf:bender:93**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:carucci:91**\n**cldf:creevey:foster:etal:21**\n**cldf:cribb:00**\n**cldf:dobbin:11**\n**cldf:erdland:10**\n**cldf:gorenflo:levin:94**\n**cldf:hezel:83**\n**cldf:keesing:84:2**\n**cldf:kiste:21**\n**cldf:kraemer:38**\n**cldf:mason:47**\n**cldf:np:14:5**\n**cldf:rudiak-gould:10**\n**cldf:senft:03**\n**cldf:wedgwood:42**\n**cldf:wells:51**\n**cldf:williamson:82**\n**hh:d:Grosser:Marshall**\n**hh:d:Senfft:Marshall**\n**hh:d:Takajietal:Marshallese**\n**hh:e:KramerNevermann:Marshall**\n**hh:es:Hernsheim:Marshall**\n**hh:g:Bender:Marshallese**\n**hh:g:Bender:Marshallese:2016**\n**hh:g:Zewen:Marshallese**\n**hh:gd:Erdland:Marshall**\n**hh:hew:Murray:Polynesia-New-Guinea**\n**hh:sd:Erdland:Marschall**\n**hh:sd:Erland:Marshall**\n**hh:typ:Pagotto:Marshallese**\n**hh:typ:Provencher:Marshallese**\n**hh:typ:Willson:Marshallese**\n**hh:w:Harrison:Marshallese**\n**mpieva:Abo1976Marshall**\n**mpieva:Dempwolff1969DieLaute**"
+  },
+  "altnames": {
+    "wals": "\nMarshallese",
+    "ruhlen (1987)": "\nMarshallese",
+    "moseley & asher (1994)": "\nMarshallese",
+    "multitree": "\nEbon\nMarshall-Inseln\nMarshallese",
+    "lexvo": "\nGjuha marshalleze [sq]\nIdioma marshalés [es]\nJęzyk marszalski [pl]\nLengua marscialleise [lij]\nLingua marshallese [it]\nLíngua marshalesa [pt]\nMarchalleg [br]\nMarshallais [fr]\nMarshallees [nl]\nMarshallese [en]\nMarshallese language [en]\nMarshallesische Sprache [de]\nMarshallesisk [no]\nMarshallesiska [sv]\nMarshallin kieli [fi]\nMarŝala lingvo [eo]\nMaršalski jezik [sh]\nMāršaliešu valoda [lv]\nmarshall [fr]\nМаршалльский язык [ru]\nМаршалски език [bg]\nマーシャル語 [ja]",
+    "hhbib_lgcode": "\nFidji of the Marshall or Rallek islands"
+  },
+  "triggers": {
+    "lgcode": "\nmarshallese\nmarschall\nmarshallsprache"
+  },
+  "identifier": {
+    "wals": "msh",
+    "multitree": "mars;mah"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping** **hh:vphon:Hughes:Nauruan**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:vphon:Hughes:Nauruan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marshallese (mah-mah) = 1 (National). De facto national language."
+  }
+}

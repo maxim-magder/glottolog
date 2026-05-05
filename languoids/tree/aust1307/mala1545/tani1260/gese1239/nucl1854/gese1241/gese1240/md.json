@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Geser-Gorom",
+    "hid": "ges",
+    "level": "language",
+    "iso639-3": "ges",
+    "latitude": "-3.8016",
+    "longitude": "130.701",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Geser-Gorom](https://grambank.clld.org/languages/gese1240)\nhttps://www.wikidata.org/entity/Q24340677"
+  },
+  "altnames": {
+    "multitree": "\nGesa\nGeser\nGeser-Gorom\nGoram\nGoran\nGorom\nGorong\nSeram\nSeran\nSeran Laut",
+    "lexvo": "\nGeser-Gorom [en]",
+    "hhbib_lgcode": "\nAmarsekaru\nCeram\nCeramsch\nCeramsch (Austronesian)\nEast Seram in Manokwari\nEast Seram in Manokwari some matches with Geser-Gorom\nGah\nGaur Islam\nGeser\nGoram\nGoraminseln\nGorom\nKelmuri\nKilfura\nKilgah\nKoda\nKotaloka\nOndor\nSeram\nTerui 1\nTerui 2\nUrung\nVisalen\nWaru"
+  },
+  "triggers": {
+    "lgcode": "\ngeser\nto AND seram"
+  },
+  "identifier": {
+    "multitree": "ges;gego"
+  },
+  "classification": {
+    "sub": "**hh:hv:LoskiLoski:ESeram**:124-129",
+    "subrefs": "\n**hh:hv:LoskiLoski:ESeram**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Geser-Gorom (ges-ges) = 6b (Threatened)."
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3479**\n**cldf:wallace:62**\n**hh:d:Rumalean:Gorom**\n**hh:hew:Muller:Indischen:I**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hew:vonRosenberg:Malayische-Archipel**\n**hh:hew:vonRosenberg:ZOEilanden**\n**hh:hv:Collins:Maluku**\n**hh:hv:LoskiLoski:ESeram**\n**hh:hvw:Collins:ESeram**\n**hh:hw:vonMiklucho-Maclay:Papua-Koviaj**\n**hh:ld:Donohue:Geser**\n**hh:ld:Paradida:Seram-Timur**\n**hh:s:Chlenova:Geser-Gorom**\n**hh:s:Kakerissa:Gorom**\n**hh:w:Miklucho-Maclay:Kowiay**\n**hh:w:Stokhofetal:Holle:3:3**\n**hh:w:dArmandville:Ceramsch-Bonfia**"
+  }
+}

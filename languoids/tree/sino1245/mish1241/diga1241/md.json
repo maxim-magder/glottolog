@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tawra",
+    "hid": "mhu",
+    "level": "language",
+    "iso639-3": "mhu",
+    "latitude": "28.4993",
+    "longitude": "96.8803",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Deng(Darang)](https://lexibank.clld.org/languages/gaotb-DigaroMishmi)\n[Deng_Darang_Taraon](https://lexibank.clld.org/languages/sagartst-DarangTaraon)\n[Digaro](https://wals.info/languoid/lect/wals_code_dig)\n[Digaro-Mishmi](https://endangeredlanguages.com/lang/5700)\n[Tawra](https://grambank.clld.org/languages/diga1241)\nhttps://en.wikipedia.org/wiki/Digaro_Mishmi_language\nhttps://www.wikidata.org/entity/Q56400"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:india:63**\n**cldf:jiangdi:lidaqin:etal:13**\n**cldf:northeastfrontieragencyindiaresearchdepartment:63**\n**cldf:roche:suzuki:17**\n**cldf:sastry:85**\n**hh:d:Chakravarty:Taraon**\n**hh:d:Sastry:Mishmi**\n**hh:e:Ghosh:Mishmis**\n**hh:e:Rowlatt:Mishmee**\n**hh:g:Hotz:Tawra**\n**hh:g:Jiang:Darang**\n**hh:g:Sastry:Mishmi**\n**hh:h:Hattaway:China**\n**hh:he:Dutta:Arunachal**\n**hh:he:Singh:Scheduled**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:ShearerHongkai:China**\n**hh:hld:Sun:Eastern-Himalayan-China**\n**hh:hv:Sun:Tani**\n**hh:hvld:Konow:Assam**\n**hh:hvw:Blench:Arunachal:2024**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Grierson:3:I**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:phon:Evans:Tawra**\n**hh:s:Pulu:Taraon**\n**hh:s:Robinson:Mishmis**\n**hh:s:Sun:Anong:2007**\n**hh:s:Sun:Darang:2007**\n**hh:s:Sunetal:Menba-Luoba**\n**hh:typ:Nishi:Mishmi**\n**hh:w:Bufan:Zangmian**\n**hh:w:Campbell:India**\n**hh:w:Kumar:Taraon**\n**hh:w:Kumar:Taravam**\n**hh:w:Needham:Digaro**\n**hh:w:Tawsik:Kaman-Tawrah**\n**iso6393:2007-021**"
+  },
+  "altnames": {
+    "wals": "\nDigaro",
+    "wals other": "\nDigaro Mishmi\nMishmi\nMishmi (Digaro)\nTaraon",
+    "ruhlen (1987)": "\nTaraon",
+    "moseley & asher (1994)": "\nDigaro",
+    "lexvo": "\nDarang Deng [en]\nDigaro-Mishmi [en]",
+    "hhbib_lgcode": "\nChulikata Mishmi\nDarang\nDarang Deng\nDarang_Taraon\nDaruang\nDeng\nDeng-Darang\nDigaro\nDigaro-Mishmi\nDigaru\nDigaru Mishmi\nDigaru-Mishmi\nMishmi\nMishmi (Digaro)\nMishmi-Robinson-Needham\nMixes data from the three Mishmi languages but\nTaora\nTaraon\nTaravam\nTawrã\nTawrã\nTawrã Mishmi\nTayeng and Me-Me Mi-Shmis\nmost of it is Digaro-Mishmi",
+    "elcat": "\nDarang\nDarang Deng\nDarang Dengyu\nDigaro\nDigaro Mishmi\nDigaro-Mishmi\nDigaru\nDigāru Mishmi\nMishmi\nTaaon\nTaraon\nTaying\n達讓語"
+  },
+  "triggers": {
+    "lgcode": "\nshmis\ntarao\ndigaro\ntaroan\nsolonskago\ntaraon\nthibetian\nmishmis\nmju"
+  },
+  "identifier": {
+    "wals": "dig",
+    "endangeredlanguages": "5700"
+  },
+  "classification": {
+    "sub": "**hh:v:Reinohl:Idu**",
+    "subrefs": "\n**hh:v:Reinohl:Idu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Digaro-Mishmi (5700-mhu) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

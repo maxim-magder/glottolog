@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mono (Cameroon)",
+    "hid": "mru",
+    "level": "language",
+    "iso639-3": "mru",
+    "latitude": "8.78372",
+    "longitude": "14.2254",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mono (Cameroon)](https://endangeredlanguages.com/lang/553)\nhttps://www.wikidata.org/entity/Q11031964\nhttps://en.wikipedia.org/wiki/Mono_language_(Cameroon)\nhttps://phoible.org/languages/mono1269"
+  },
+  "classification": {
+    "sub": "**hh:hv:Elders:Kebi-Benue**",
+    "subrefs": "\n**hh:hv:Elders:Kebi-Benue**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chiatoh:20**\n**cldf:connell:07:1**\n**cldf:elders:blench:nd**\n**cldf:mortier:41**\n**eballiso2009:55393**\n**hh:hel:Sommer:Survey**\n**hh:hsoc:AyotteAyotte:Dama**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Mouchet:15**\n**hh:hw:Strumpell:Adamauas**\n**hh:w:Blench:Mono**"
+  },
+  "altnames": {
+    "multitree": "\nMaru\nMon-Non\nMono",
+    "lexvo": "\nMono (Cameroon) [en]\nMono [en]",
+    "hhbib_lgcode": "\nMon-Non\nMono\nMono (östl. Rei)\nPam",
+    "elcat": "\nMon-Non\nMono (Cameroon)"
+  },
+  "triggers": {
+    "lgcode": "\nclassificate\noblo"
+  },
+  "identifier": {
+    "multitree": "mru",
+    "endangeredlanguages": "553"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mono (Cameroon) (553-mru) = Severely Endangered (60 percent certain, based on the evidence available) [Ayotte and Ayotte 2002](cldf:ayotte:ayotte:02:2)"
+  }
+}

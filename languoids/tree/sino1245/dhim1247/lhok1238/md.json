@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Lhokpu",
+    "hid": "lhp",
+    "level": "language",
+    "iso639-3": "lhp",
+    "latitude": "26.9135",
+    "longitude": "89.3099",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT"
+    ],
+    "links": "\n[Lhokpu](https://endangeredlanguages.com/lang/4503)\nhttps://www.wikidata.org/entity/Q3436603\nhttps://en.wikipedia.org/wiki/Lhokpu_language"
+  },
+  "classification": {
+    "sub": "**hh:v:Grollmann:Lhokpu-Dhimal** and contra **hh:hv:vanDriem:Himalayas**:548-567 Dhimalish fails to show sufficient Brahmaputran diagnostic vocabulary",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:v:Grollmann:Lhokpu-Dhimal**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:vandriem:07:2**\n**cldf:vandriem:nd**\n**hh:ew:Dorji:Lhop**\n**hh:ew:Sharma:Lhops**\n**hh:hel:vanDriem:ThreeGems**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:v:Grollmann:Lhokpu-Dhimal**"
+  },
+  "altnames": {
+    "multitree": "\nLhobikha\nLhokpu\nLokpu\nTaba-Damey-Bikha",
+    "lexvo": "\nLhokpu [en]",
+    "elcat": "\nLhobikha\nLhokpu\nTaba-Damey-Bikha"
+  },
+  "triggers": {
+    "lgcode": "\nlhop\nlhops\ndoya"
+  },
+  "identifier": {
+    "multitree": "lhp",
+    "endangeredlanguages": "4503"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lhokpu (4503-lhp) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

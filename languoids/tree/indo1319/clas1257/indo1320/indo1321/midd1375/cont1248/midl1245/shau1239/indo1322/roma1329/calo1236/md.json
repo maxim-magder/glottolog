@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Caló",
+    "hid": "rmq",
+    "level": "language",
+    "iso639-3": "rmq",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35466\nhttps://en.wikipedia.org/wiki/Cal%C3%B3_language",
+    "longitude": "0.6",
+    "latitude": "41.424"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:McLane:Gypsies**\n**hh:e:Sanchez:Gitanos**\n**hh:ew:Coelho:Ciganos**\n**hh:hv:Bakker:Calo**\n**hh:hv:Krinkova:Iberian-Romani**\n**hh:ld:Adiego:Calo**\n**hh:ld:Adiego:Catalan-Romani**\n**hh:lde:Borrow:Romano-Lavo-Lil**\n**hh:soc:Andersson:Calo**\n**hh:soc:Geipel:Calo**\n**hh:v:Adiego:Calos-Iberics**\n**hh:v:Boretzky:Pararomani**\n**hh:vld:Leigh:Calo**\n**hh:vsoc:Gamella:Hispanoromani**\n**hh:w:Ackerley:Romani-Catalonia**\n**hh:w:Adiego:Spanish-Gypsy**\n**hh:w:Davila:Calo**\n**hh:w:McLane:Guadix**\n**hh:w:Rosensweig:Calo**\n**hh:w:Usoz:Calo**\n**hh:wsoc:Torrione:Calo**\n**iso6393:2009-031**"
+  },
+  "triggers": {
+    "lgcode": "\ncalo"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Caló (rmq-rmq) = 6b (Threatened)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nArchaic Catalonian Romani\nCalo\nCaló Català\nEspanyol\nRomani of Catalonia"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matras:Romani**:14-48 **hh:hv:Benisek:Romani-Historical** **hh:hv:ElsikBenisek:Romani**",
+    "subrefs": "\n**hh:hv:ElsikBenisek:Romani**\n**hh:hv:Benisek:Romani-Historical**\n**hh:hv:Matras:Romani**"
+  }
+}

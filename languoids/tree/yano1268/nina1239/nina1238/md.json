@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ninam",
+    "hid": "shb",
+    "level": "language",
+    "iso639-3": "shb",
+    "latitude": "4.03894",
+    "longitude": "-62.7801",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "VE"
+    ],
+    "links": "\n[Ninam](https://endangeredlanguages.com/lang/861)\n[Ninam](https://grambank.clld.org/languages/nina1238)\n[Ninam](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Ninam)\n[Shiriana](https://wals.info/languoid/lect/wals_code_shi)\nhttps://en.wikipedia.org/wiki/Ninam_language\nhttps://phoible.org/languages/nina1238\nhttps://www.wikidata.org/entity/Q3436586"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:metraux:48:4**\n**cldf:np:nd:264**\n**fabreall2009ann:Yanomami_yanam00**\n**fabreall2009ann:Yanomami_yanam02**\n**fabreall2009ann:Yanomami_yanam05**\n**hh:e:EarlyPeters:Mucajai-Yanomama**\n**hh:e:EarlyPeters:Xilixana**\n**hh:ew:deMatallanadeArmellada:Paragua**\n**hh:g:Gomez:Shiriana**\n**hh:h:Borgmanetal:Waican**\n**hh:h:Silva:Roraima**\n**hh:hvtyp:Migliazza:Roraima**\n**hh:hvwtyp:Migliazza:Yanomama**\n**hh:ld:BorgmanCue:Waica**\n**hh:lde:Peters:Xilixana**\n**hh:s:Tracy:Aikamtheli**\n**hh:typ:Gomez:Ninam**\n**hh:w:Swain:Xilixana**"
+  },
+  "altnames": {
+    "wals": "\nShiriana",
+    "ruhlen (1987)": "\nNinam",
+    "moseley & asher (1994)": "\nNinam",
+    "multitree": "\nCasapare\nCrichana\nJawaperi\nJawari\nKasrapai\nNimam\nNinam\nNinam (Brésil)\nNinam (République bolivarienne du Venezuela)\nNinam (Venezuela)\nSamatari\nShiriana\nShiriana Casapare\nShirianá\nXirianá\nXiriâna\nYanam\nYanam-Ninam",
+    "lexvo": "\nNinam [en]",
+    "hhbib_lgcode": "\nAicamteri and Parimiteri\nAikamtheli\nMucajai Yanomama\nPaukosa (Yanomami)\nShiriana\nWaica\nXilixana\nYanam\nYanoama",
+    "elcat": "\nCasapare\nCrichana\nJawaperi\nJawari\nKasrapai\nNimam\nNinam\nSamatari\nShiriana\nShiriana Casapare\nShirianá\nXirianá\nXiriâna\nYanam\nYanam-Ninam"
+  },
+  "triggers": {
+    "lgcode": "\nschiriana\nwaica\nxilixana\nwaican\naykamteli\nshiriana\nuraricaa\nyanam\nyanoama\nmahekodotedi\nwaika\naikamtheli\nmucajai"
+  },
+  "identifier": {
+    "wals": "shi",
+    "multitree": "shb",
+    "endangeredlanguages": "861"
+  },
+  "classification": {
+    "sub": "**hh:hvwtyp:Migliazza:Yanomama** **hh:s:Ferreira:Yaroame** **hh:g:Perri:Yanomama**:12 **hh:hv:Ferreira:Yanomami-Brasil**",
+    "subrefs": "\n**hh:s:Ferreira:Yaroame**\n**hh:hv:Ferreira:Yanomami-Brasil**\n**hh:g:Perri:Yanomama**\n**hh:hvwtyp:Migliazza:Yanomama**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ninam (861-shb) = Vulnerable (100 percent certain, based on the evidence available) [Campbell 2010](cldf:campbell:10)"
+  }
+}

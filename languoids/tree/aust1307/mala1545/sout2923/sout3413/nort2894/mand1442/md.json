@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mandar",
+    "hid": "mdr",
+    "level": "language",
+    "iso639-3": "mdr",
+    "latitude": "-3.34717",
+    "longitude": "119.068",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35995\nhttps://en.wikipedia.org/wiki/Mandar_language\n[Mandar](https://wals.info/languoid/lect/wals_code_mnr)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2832**\n**cldf:muthalib:sikki:etal:92**\n**hh:d:Muthalib:Mandar**\n**hh:d:Sahur:Mandar**\n**hh:dial:Pelenkahu:Mandar**\n**hh:hv:Stromme:PUS1**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:hw:Stokhofetal:Holle:7:4**\n**hh:phon:Muthalib:Tompebuni**\n**hh:s:Baduduetal:Mandar**\n**hh:s:Muthalib:Mandar**\n**hh:s:Pelenkahu:Mandar**\n**hh:socdial:StrommeValkama:Mandar**\n**hh:typ:Badulu:Mandar-Majene**\n**hh:typ:Friberg:South-Sulawesi**\n**hh:typ:Lee:Mandar**\n**hh:w:Stokhofetal:Holle:7:3**\n**mpieva:Mills1975ProtoSou**\n**sil16:22006**\n**sil16:25281**\n**sil16:48336**"
+  },
+  "altnames": {
+    "wals": "\nMandar",
+    "ruhlen (1987)": "\nMandar",
+    "moseley & asher (1994)": "\nMandar",
+    "multitree": "\nAndian\nMandar\nMandharsche\nManjar\nNordost-Celebes",
+    "lexvo": "\nBahasa Mandar [ms]\nMandar [de]\nMandar language [en]\nmandar [fr]",
+    "hhbib_lgcode": "\nMandar (Majene)\nMandar-Majene\nMandar-Malunda\nMandar-Parnboang\nMandar-Sendana\nToraja-Balanipa"
+  },
+  "triggers": {
+    "lgcode": "\nmandar\nmajene"
+  },
+  "identifier": {
+    "wals": "mnr",
+    "multitree": "mana;mdr"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Ulunnu** **hh:hvw:GrimesGrimes:South-Sulawesi**",
+    "subrefs": "\n**hh:hvw:Smith:Ulunnu**\n**hh:hvw:GrimesGrimes:South-Sulawesi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mandar (mdr-mdr) = 3 (Wider communication). Used for trading purposes and other inter-group communication by 5 other language groups in the area (2020 S. Anonby)."
+  }
+}

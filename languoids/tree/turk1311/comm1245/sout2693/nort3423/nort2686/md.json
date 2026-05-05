@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northern Altai",
+    "hid": "atv",
+    "level": "language",
+    "iso639-3": "atv",
+    "latitude": "50.8998",
+    "longitude": "88.0672",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[North Altay](https://lexibank.clld.org/languages/savelyevturkic-NorthAltai)\n[Northern Altai](https://endangeredlanguages.com/lang/3869)\nhttps://en.wikipedia.org/wiki/Northern_Altai_language\nhttps://phoible.org/languages/nort2686\nhttps://www.wikidata.org/entity/Q2640863"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**hh:d:Dajym:Kumandinskij**\n**hh:d:Gursoy:Altayca**\n**hh:dial:Chislyakova:Shorskogo**\n**hh:e:Krader:Altaians**\n**hh:hv:Baskakov:Altai**\n**hh:s:Baskakov:Altajskij:1958**\n**hh:s:Baskakov:Tuba-Kisi**\n**hh:s:Guner:Altay**\n**hh:st:Baskakov:Calkantsev**\n**hh:std:Baskakov:Kumandincev**\n**hh:t:Baskakov:Altajskogo:Severnye**\n**mpieva:Baskakov1985Dialektl**\n**mpieva:Seljutina1998Kumandin**\n**mpieva:Sumacakova2005Cakajakc**"
+  },
+  "altnames": {
+    "multitree": "\nAltai, Northern\nAltaï septentrional\nAltái septentrional\nNorthern Altai\nTelengit\nTelengut\nTeleut\nTeleutisch",
+    "lexvo": "\nNordaltaja lingvo [eo]\nNorthern Altai [en]\nNorthern Altai language [en]\nСеверноалтайский язык [ru]",
+    "hhbib_lgcode": "\nAltai-Northern\nChalkan\nChalkantsev\nChelkan\nKondoma\nKondoma Shor\nKumandin\nKumandintsev\nKumandy\nLebedin\nNorthern Altay\nTuba-Kiši\nTuba-Kiži\nTubalaraov",
+    "elcat": "\nKumandin\nNorthern Altai\nTelengit\nTelengut\nTeleut\nалтай тили\nкумандинско-челканский язык\nсеверноалтайский язык"
+  },
+  "triggers": {
+    "lgcode": "\nperevody\ncvetocek\nkumandinskij"
+  },
+  "identifier": {
+    "multitree": "atv",
+    "endangeredlanguages": "3869"
+  },
+  "classification": {
+    "sub": "**hh:hv:Egorov:Turkic** (see SI S4b) **hh:hv:SavelyevRobbeets:Turkic:2020** **hh:hv:Tekin:Turkic** **hh:vldsoc:Filchenko:Teleut-Eushta-Melets**:270-271",
+    "subrefs": "\n**hh:hv:SavelyevRobbeets:Turkic:2020**\n**hh:vldsoc:Filchenko:Teleut-Eushta-Melets**\n**hh:hv:Egorov:Turkic**\n**hh:hv:Tekin:Turkic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Northern Altai (3869-atv) = Endangered (80 percent certain, based on the evidence available) (The transmission of the language to children is definitely becoming rare, but it has probably not yet completely ceased; there may be tribal or local differences.) [Salminen 2000](cldf:salminen:00)"
+  }
+}

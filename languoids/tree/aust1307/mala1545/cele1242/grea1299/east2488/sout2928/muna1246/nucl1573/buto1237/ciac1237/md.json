@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Cia-Cia",
+    "hid": "cia",
+    "level": "language",
+    "iso639-3": "cia",
+    "latitude": "-5.68289",
+    "longitude": "122.791",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35284\nhttps://en.wikipedia.org/wiki/Cia-Cia_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Donohue:Muna-Buton**\n**hh:hv:vandenBerg:Munic**\n**hh:hvw:Susiati:Sulawesi-Tenggara**\n**hh:hw:Kaseng:Sulawesi-Tenggara**\n**hh:s:Abdullahetal:Cia-Cia**\n**hh:s:vandenBerg:Cia-Cia**"
+  },
+  "altnames": {
+    "multitree": "\nBoetoneezen\nButon\nButonese\nButung\nCia-Cia\nSouth Buton\nSouthern Butung",
+    "lexvo": "\nBahasa Cia-Cia [ms]\nCia-Cia [en]\nCia-Cia gú [nan]\nCia-Cia language [en]\nLenga cia-cia [pms]\n吉阿吉阿語 [zh]\n찌아찌아어 [ko]",
+    "hhbib_lgcode": "\nKakenauwe\nMasiri\nWabula"
+  },
+  "triggers": {
+    "lgcode": "\nsouth AND buton"
+  },
+  "identifier": {
+    "multitree": "cia"
+  },
+  "classification": {
+    "sub": "**hh:hv:vandenBerg:Muna-Buton:2003** **hh:hv:Donohue:Muna-Buton**",
+    "subrefs": "\n**hh:hv:vandenBerg:Muna-Buton:2003**\n**hh:hv:Donohue:Muna-Buton**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cia-Cia (cia-cia) = 6b (Threatened)."
+  }
+}

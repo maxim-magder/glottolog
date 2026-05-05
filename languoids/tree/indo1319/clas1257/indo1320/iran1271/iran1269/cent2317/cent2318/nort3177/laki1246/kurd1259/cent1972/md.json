@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Central Kurdish",
+    "hid": "ckb",
+    "level": "language",
+    "iso639-3": "ckb",
+    "latitude": "35.6539",
+    "longitude": "45.8077",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "IR"
+    ],
+    "links": "\n[Central Kurdish](https://grambank.clld.org/languages/cent1972)\n[Kurdish (Central)](https://wals.info/languoid/lect/wals_code_krd)\nhttps://en.wikipedia.org/wiki/Central_Kurdish\nhttps://phoible.org/languages/cent1972\nhttps://www.wikidata.org/entity/Q36811"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abdulla:mccarus:67**\n**cldf:barth:53**\n**cldf:blau:80**\n**cldf:bois:66**\n**cldf:cabolov:97**\n**cldf:fattah:97**\n**cldf:hansen:61**\n**cldf:leach:38**\n**cldf:longrigg:53**\n**cldf:masters:53**\n**cldf:mccarus:56**\n**cldf:mccarus:58**\n**cldf:mccarus:97**\n**hh:d:Kordestani:Mardux**\n**hh:d:KurdoevYusupova:Kurdsko**\n**hh:d:Mardux:Mardux**\n**hh:d:McCarus:Kurdish**\n**hh:d:Mihmed:Xal**\n**hh:dial:Bordie:Kurdish**\n**hh:g:Abdulla:Kurdish**\n**hh:g:Akrawy:Kurdish**\n**hh:g:Blau:Kurde**\n**hh:g:Ejjubi:Mukri**\n**hh:g:Opengin:Mukri**\n**hh:g:Soane:Kurmanji:1919**\n**hh:h:Allison:Kurdish-Iraq**\n**hh:hvs:deMorgan:Kurdes**\n**hh:hvst:MacKenzie:Kurdish**\n**hh:phon:Ferhadi:Arbili-Kurdish**\n**hh:phon:Kahn:Kurdish**\n**hh:phon:Lhaliqi:Saqezi**\n**hh:phon:Mohammadi:Sanandaji**\n**hh:phonsoc:Marchal:Kurdish**\n**hh:s:Fossum:Kurdish**\n**hh:s:Friend:Suleimaniye-Kurdish**\n**hh:s:Kaban:Kurdi**\n**hh:s:Karimipour:Sorani**\n**hh:s:Khorramdel:Surani**\n**hh:s:Kurdoev:Kurdskogo:1978**\n**hh:s:McCarus:Kurdish**\n**hh:s:McCarus:Kurdish-Sulaimaniya**\n**hh:s:McCarus:Kurdish:1958**\n**hh:s:Mostafa:Kordi**\n**hh:s:Pur:Kordi**\n**hh:s:Razai:Sanandaji**\n**hh:s:Thackston:Sorani**\n**hh:s:Wahby:Kurdi**\n**hh:sd:Coletti:Curda**\n**hh:st:Mann:Mukri**\n**hh:t:Coletti:Mukri**\n**hh:w:Kalbasi:Mahabad**\n**hh:w:Kiya:Irani**\n**mpieva:Abdullah2007EnglishK**\n**mpieva:Bakaev1957Kurdskor**\n**mpieva:Bozarslan1979Alfabe**\n**mpieva:Cabolov2001Etimolog**\n**mpieva:Farizov1957Ferhenga**\n**mpieva:Fattah1997Agenerat**\n**mpieva:Garzoni1787Grammati**\n**mpieva:HakimDictionn**\n**mpieva:Justi1995Kurdisch**\n**mpieva:Kedajtene1977Ferhengi**\n**mpieva:Kurdoev1960Ferhenga**\n**mpieva:Kurdoev1983Kurdskor**\n**mpieva:Qazi1968BahramoG**\n**mpieva:Rizgar1993KurdishE**\n**mpieva:Sebri1955Elifbeya**\n**mpieva:Wahby1968Kurdishs**\n**sil16:24830**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Kurdish\nEastern Kurdish\nKermanji\nKordi\nKorkora\nKurdi\nKurdisch\nKurdish, Central\nKurdy\nMokri\nMukri\nSine'i\nSorani\nSouthern Kurdish\nWawa",
+    "lexvo": "\nCentral Kurdish [en]\nJęzyk sorani [pl]\nSorani [da]\nSoranî [en]\nSorání [cs]\nSorâni [pt]\nСорани [cv]\nسورانی [fa]\nسۆرانی [ckb]\nภาษาเคิร์ดตอนกลาง [th]",
+    "hhbib_lgcode": "\nArbil\nArbili\nArdalani\nBingird and Pizdar\nDjâfi (Zohâb)\nKordi-ye Mahābād\nKurdi Mahabad\nKurdish-Central\nMoukri\nMukri\nMukri from Sawdj-Bulaq / Mahabad in Iranian Kurdistan\nSanandaj Kurdish\nSanandaji\nSaqezi\nSihnèh\nSine'i\nSorani\nSulaimania\nSulaimaniy\nSulaimaniya\nSuleimaniye\nWarmawa"
+  },
+  "triggers": {
+    "lgcode": "\nmardux\nurisi\nsorani\nmukri\ngolandam\nsuleimaniye\nkurden\nkurda\nkurdsko\nkurdi"
+  },
+  "identifier": {
+    "multitree": "ckb",
+    "languagelandscape": "http://languagelandscape.org/language/Sorani"
+  },
+  "classification": {
+    "sub": "**hh:h:Blau:Kurde**:328",
+    "subrefs": "\n**hh:h:Blau:Kurde**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kurdish, Central (ckb-ckb) = 1 (National). Statutory national language (2005, Constitution, Article 4(1))."
+  }
+}

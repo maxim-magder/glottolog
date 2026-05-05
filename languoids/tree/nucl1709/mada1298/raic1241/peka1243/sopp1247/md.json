@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sop",
+    "hid": "urw",
+    "level": "language",
+    "iso639-3": "urw",
+    "latitude": "-5.49605",
+    "longitude": "145.361",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sop](https://lexibank.clld.org/languages/transnewguineaorg-sop)\n[sop](https://lexibank.clld.org/languages/zgraggenmadang-sop)\nhttps://en.wikipedia.org/wiki/Sop_language\nhttps://www.wikidata.org/entity/Q7562808"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Conton:Usino**\n**hh:e:Eisler:Usino**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:Rai**\n**hh:ld:Harty:Sob**\n**hh:w:Anonymous:Ramu-Wabe**"
+  },
+  "altnames": {
+    "multitree": "\nKari\nSop\nUsino",
+    "lexvo": "\nSop [en]\nSop language [en]",
+    "hhbib_lgcode": "\nSob\nUnino\nUsino"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "urw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Chequered-TNG** **hh:hv:PawleyHammarstrom:TNG:2013**",
+    "subrefs": "\n**hh:hv:Pawley:Chequered-TNG**\n**hh:hv:PawleyHammarstrom:TNG:2013**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sob (urw-urw) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Nasarian",
+    "hid": "nvh",
+    "level": "language",
+    "iso639-3": "nvh",
+    "latitude": "-16.3497",
+    "longitude": "167.414",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Nasarian](https://endangeredlanguages.com/lang/3068)\n[Nasarian (Wileven tu)](https://lexibank.clld.org/languages/abvdoceanic-NasarianWileventu)\nhttps://en.wikipedia.org/wiki/Nasarian_language\nhttps://www.wikidata.org/entity/Q6966614"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hel:Sakiyama:Malayo-Polynesian**\n**hh:hel:Wurm:Pacific**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMallicolo\nNasarian\nNasariano",
+    "lexvo": "\nNasarian [en]",
+    "hhbib_lgcode": "\nDixon Reef II",
+    "elcat": "\nMallicolo\nNasarian"
+  },
+  "identifier": {
+    "multitree": "nvh",
+    "endangeredlanguages": "3068"
+  },
+  "classification": {
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nasarian (3068-nvh) = Critically Endangered (40 percent certain, based on the evidence available) (Speakers have largely shifted to Letemboi and Labo.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

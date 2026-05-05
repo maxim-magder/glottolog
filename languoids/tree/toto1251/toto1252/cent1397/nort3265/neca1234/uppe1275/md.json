@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Upper Necaxa Totonac",
+    "hid": "tku",
+    "level": "language",
+    "iso639-3": "tku",
+    "latitude": "20.236",
+    "longitude": "-97.81",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Totonac](https://endangeredlanguages.com/lang/3540)\n[Upper Necaxa Totonac](https://grambank.clld.org/languages/uppe1275)\nhttps://en.wikipedia.org/wiki/Upper_Necaxa_Totonac\nhttps://www.wikidata.org/entity/Q56343"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beck:00:2**\n**cldf:beck:08**\n**haspelmath:beck_ideophones_2008**\n**hh:d:Beck:Totonaco-Necaxa**\n**hh:hv:MacKayTrechsel:Totonac-Tepehua:2018**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:s:Beck:Upper-Necaxa-Totonaco**\n**hh:sd:Beck:Upper-Necaxa-Totonac**\n**iso6393:2006-085**"
+  },
+  "altnames": {
+    "multitree": "\nTotonac\nTotonacano de Patla\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Patla-Chicontla",
+    "lexvo": "\nUpper Necaxa Totonac [en]",
+    "hhbib_lgcode": "\n= Upper Necaxa Totonac\nA northern Totonac lg\nChic\nChicontla\nCoahuitlán\nTotonac-Upper Necaxa\nUpper Necaxa (Patla/Chicontla)",
+    "elcat": "\nTotonac"
+  },
+  "triggers": {
+    "lgcode": "\nnecaxa"
+  },
+  "identifier": {
+    "multitree": "tku",
+    "endangeredlanguages": "3540"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Totonac (3540) = At risk (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

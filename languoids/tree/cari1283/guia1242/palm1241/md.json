@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Palmela",
+    "hid": "NOCODE_Palmela",
+    "level": "language",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7128186\nhttps://en.wikipedia.org/wiki/Palmela_language",
+    "longitude": "-63.124168",
+    "latitude": "-12.628898",
+    "timespan": "1956-01-01/1956-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Caribe_palmela1**\n**fabreall2009ann:Caribe_palmela2**\n**hh:e:Metraux:EBolivia**\n**hh:e:daFonseca:Palmellas**\n**hh:hew:Nordenskiold:Forskningar**\n**hh:hw:Nordenskiold:B5858**\n**hh:w:Becker-Donner:Guapore**\n**hh:w:daFonseca:Redor:II:1881**"
+  },
+  "triggers": {
+    "lgcode": "\nfunde\npalmellas\nrededor"
+  },
+  "identifier": {
+    "multitree": "qo2"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Palmela, an extinct displaced Cariban once spoken in Rondônia, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:w:daFonseca:Redor:II:1881**, **hh:w:Becker-Donner:Guapore**, **hh:hew:Nordenskiold:Forskningar**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Palmela"
+  },
+  "classification": {
+    "sub": "**hh:hv:Meira:Cariban:2006**, **hh:hewsoc:Howard:Waiwai**, **hh:hv:Gildea:Cariban**",
+    "subrefs": "\n**hh:hv:Meira:Cariban:2006**\n**hh:hewsoc:Howard:Waiwai**\n**hh:hv:Gildea:Cariban**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Palmela (NOCODE_Palmela-NOCODE_Palmela) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nPalmella"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Baraamu",
+    "hid": "brd",
+    "level": "language",
+    "iso639-3": "brd",
+    "latitude": "28.3768",
+    "longitude": "85.0584",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NP"
+    ],
+    "links": "\n[Baraamu](https://grambank.clld.org/languages/bara1357)\n[Baram](https://endangeredlanguages.com/lang/1591)\nhttps://en.wikipedia.org/wiki/Baram_language\nhttps://www.wikidata.org/entity/Q56804"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dhakal:16**\n**cldf:ed:10**\n**cldf:kansakar:11**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:yadava:04:1**\n**hh:d:Kansakaretal:Baram**\n**hh:d:Yadavaetal:Baram:2005**\n**hh:g:Kansakar:Baram**\n**hh:hv:Chalise:Baram-Thami**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**\n**hh:hvw:Grierson:3:I**\n**hh:s:Dhakal:Baram**\n**hh:s:Loeffen:Bhramu**\n**hh:soc:Kansakar:Baram**\n**hh:vtyp:Dhakal:Baram**\n**hh:w:Hodgson:Broken-Nepal**"
+  },
+  "altnames": {
+    "multitree": "\nBar?m\nBaraamu\nBaram\nBarhamu\nBhramu\nBhrāmu\nBrahmu\nBramu\nbaramú",
+    "lexvo": "\nBaraamu [en]",
+    "hhbib_lgcode": "\nBaram\nBhramu",
+    "elcat": "\nBa:rhmu\nBalbang\nBaraamu\nBaram\nBaramu\nBarhamu\nBhra:mu\nBhramu\nBhrāmu\nBrahmu\nBramu"
+  },
+  "triggers": {
+    "lgcode": "\nbhramu"
+  },
+  "identifier": {
+    "multitree": "brd",
+    "endangeredlanguages": "1591"
+  },
+  "classification": {
+    "sub": "**hh:v:Turin:Thangmi** **hh:hv:vanDriem:Mahakiranti** **hh:wsoc:Smith:Pahari**:28",
+    "subrefs": "\n**hh:v:Turin:Thangmi**\n**hh:wsoc:Smith:Pahari**\n**hh:hv:vanDriem:Mahakiranti**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baram (1591-brd) = Critically Endangered (80 percent certain, based on the evidence available) (The survey suggested that Baram is more likely to be used for activities such as thinking, scolding, cursing, and praying than for joking, dreaming, abusing, performing rituals, or playing. Speakers do not sing in Baram and there is not a single traditional native Baram song. It is equally interesting that Baram is not used in any Baram rituals; they use Nepali instead. This is likely due to the linguistic and cultural convergence that resulted from prolonged contact with Nepali-speaking people.) [Kansakar 2011](cldf:kansakar:11)"
+  }
+}

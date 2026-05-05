@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "West Damar",
+    "hid": "drn",
+    "level": "language",
+    "iso639-3": "drn",
+    "latitude": "-7.12065",
+    "longitude": "128.585",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[West Damar](https://grambank.clld.org/languages/west2548)\nhttps://en.wikipedia.org/wiki/West_Damar_language\nhttps://www.wikidata.org/entity/Q3450459"
+  },
+  "classification": {
+    "sub": "**hh:v:vanEngelenhoven:West-Damar**",
+    "subrefs": "\n**hh:v:vanEngelenhoven:West-Damar**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Pannell:Amaya**\n**hh:h:Taber:Maluku**\n**hh:hvw:Taber:SWMaluku**\n**hh:hw:ChlenovaChlenov:Damar**\n**hh:s:Chlenova:WDamar**\n**hh:v:vanEngelenhoven:West-Damar**\n**hh:w:ChlenovChlenova:WDamar**\n**sil16:48316**"
+  },
+  "altnames": {
+    "multitree": "\nDamar, West\nNorth Damar\nWest Damar",
+    "lexvo": "\nWest Damar [en]",
+    "hhbib_lgcode": "\nAmaya\nBatumerah\nDamar Barat"
+  },
+  "triggers": {
+    "lgcode": "\ndamar\namaya"
+  },
+  "identifier": {
+    "multitree": "drn;wdam"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Damar, West (drn-drn) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tahltan",
+    "hid": "tht",
+    "level": "language",
+    "iso639-3": "tht",
+    "latitude": "58.4498",
+    "longitude": "-130.052",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Tāłtān (Tahltan)](https://endangeredlanguages.com/lang/1447)\nhttps://www.wikidata.org/entity/Q30125\nhttps://en.wikipedia.org/wiki/Tahltan_language"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0738**\n**anla:ANLC0739**\n**anla:ANLC0740**\n**anla:ANLC0741**\n**anla:ANLC0742**\n**anla:ANLC0743**\n**anla:ANLC0744**\n**anla:ANLC0745**\n**anla:ANLC1706**\n**anla:CA912T1912**\n**anla:CA965L1985a**\n**anla:CA968D1968**\n**anla:CA973C1972**\n**anla:CA974S1974a**\n**anla:CA982A1982b**\n**anla:CA983H1983**\n**anla:CA986N1986**\n**anla:CA986N1987**\n**anla:CN000A2000**\n**anla:CN002AB2002**\n**cldf:boas:01:1**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:maclachlan:57**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**hh:b:Alderete:Tahltan**\n**hh:e:Emmons:Tahltan**\n**hh:e:MacLachlan:Tahltan**\n**hh:e:Teit:Tahltan**\n**hh:e:Teit:Tahltan-Kaska**\n**hh:phon:Alderete:Tahltan**\n**hh:phon:Bob:Tahltan**\n**hh:phon:Nater:Tahltan**\n**hh:phon:Nater:Tahltan:1989**\n**hh:s:AldereteBlenkiron:Tahltan**\n**hh:s:Hardwick:Tahltan**\n**hh:soc:Thompson:Tahltan**\n**hh:t:Alderete:Tahltan**\n**hh:typ:Dennis:Taltan**\n**hh:typ:Nater:Tahltan**\n**iso6393:2024-016**"
+  },
+  "altnames": {
+    "multitree": "\nTahl-tan\nTahltan",
+    "lexvo": "\nTahltan [en]\nTahltan language [en]",
+    "elcat": "\nNahanni\nTahl-tan\nTahltan\nTāłtān (Tahltan)"
+  },
+  "triggers": {
+    "lgcode": "\ntahltan"
+  },
+  "identifier": {
+    "multitree": "tht",
+    "endangeredlanguages": "1447"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:KraussGolla:NAthapaskan**:82",
+    "subrefs": "\n**hh:hvphon:KraussGolla:NAthapaskan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tāłtān (Tahltan) (1447-tht) = Critically Endangered (80 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  }
+}

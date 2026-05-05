@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Seroa",
+    "level": "dialect",
+    "latitude": "-33.0386",
+    "longitude": "22.0021",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ZA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Seroa_language\nhttps://www.wikidata.org/entity/Q33127766"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:1001**\n**eballiso2009:35109**\n**eballiso2009:35733**\n**eballiso2009:35734**\n**eballiso2009:38866**\n**eballiso2009:39072**\n**eballiso2009:44652**\n**eballiso2009:49849**\n**eballiso2009:55840**\n**eballiso2009:9898**\n**hh:hv:Hahn:Hottentotten**\n**hh:hvw:Bleek:Bushman**\n**hh:s:Wuras:Bushman**\n**hh:w:Anders:SEBushman**\n**hh:w:Arbousset:Bushman**\n**hh:w:Bertin:Bushmen**"
+  },
+  "altnames": {
+    "multitree": "\n!gan!ne\n?ku ?'e\n?ku?e\nSeroa",
+    "lexvo": "\nLíngua seroa [pt]\nSeroa [en]\nSeroa language [en]",
+    "hhbib_lgcode": "\n!Ga!nge\n!gã!ne\nSIIc ||ku||e\nSIId Seroa\nVocabulary of Bushman (Baroa-'Khuaï-Séroa)"
+  },
+  "triggers": {
+    "lgcode": "\nentrepris\nchapitre\nseroa\nmaluti"
+  },
+  "identifier": {
+    "multitree": "kqu"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Guldemann:Lower-Nossob**, **hh:hv:Guldemann:Khoisan:2014**",
+    "subrefs": "\n**hh:hvld:Guldemann:Lower-Nossob**\n**hh:hv:Guldemann:Khoisan:2014**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "ǁKu ǁ'e (1443-kqu) = Extinct; !Gan!ne (1444-kqu) = Extinct"
+  }
+}

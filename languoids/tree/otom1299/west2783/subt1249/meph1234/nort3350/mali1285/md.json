@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Malinaltepec Me'phaa",
+    "hid": "tcf",
+    "level": "language",
+    "iso639-3": "tcf",
+    "latitude": "17.2122",
+    "longitude": "-98.6322",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Malinaltepec Me'phaa](https://grambank.clld.org/languages/mali1285)\n[Tlapanec](https://endangeredlanguages.com/lang/3513)\nhttps://www.wikidata.org/entity/Q25559732"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:wichmann:66**\n**hh:g:Suarez:Tlapaneca**\n**hh:hv:Suarez:Otomangues-Tlapaneco**\n**hh:phon:Carrasco:Mephaa**\n**hh:phon:Coto:Mephaa-Vathaa**\n**hh:phon:Oropeza:Mephaa-Peras**\n**hh:phon:WeathersWeathers:Malinaltepec-Tlapanec**\n**hh:s:Suarez:Tlapaneco**\n**hh:s:Tlapaneca:Tlapaneco**\n**hh:styp:Duncan:Iliatenco-Mephaa**\n**hh:styp:Duncan:Mephaa-Verbal**\n**hh:styp:Navarro:Mephaa-Malinaltepec**\n**hh:typ:Oropeza:Mephaa-Malinaltepec**\n**hh:v:Suarez:Tlapaneco**\n**hh:v:Weathers:Tlapanec**\n**iso6393:2008-093**\n**mpieva:Oltrogge1977Twostudi**\n**sil16:15245**\n**sil16:27942**\n**sil16:45608**\n**sil16:49143**\n**sil16:49144**\n**sil16:49145**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Tlapanec\nGuerrero\nMalinaltepec\nMalinaltepec Tlapaneko\nMañuwíìn\nMe'phaa\nMe'phaa, Malinaltepec\nMi'pha\nTlapanec\nTlapanec, Malinaltepec\nTlapaneco\nTlapaneco de Malinaltepec\nTlapaneco oriental\nTlapaneco-Sutiaba\nTlapaneko\nTlapanèque oriental\nTlappanec",
+    "lexvo": "\nMalinaltepec Me'phaa [en]\nMalinaltepec Tlapanec [en]",
+    "hhbib_lgcode": "\nEastern Tlapanec\nIliatenco\nMalinaltepec\nMe'phaa Vathaa around the town of Zilacayotitlán\nMe'phaa-Malinaltepec\nMe’phaa-Malinaltepec\nTlapanec-Malinaltepec",
+    "elcat": "\nMe'pa\nMe'phaa\nTlapanec\nTlapaneco\nTlapaneko\nTlappanec"
+  },
+  "triggers": {
+    "lgcode": "\nphaa\nmephaa\niliatenco\ncuentii\ntlapaneca\nmalinaltepec"
+  },
+  "identifier": {
+    "multitree": "tcf",
+    "endangeredlanguages": "3513"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Otomanguean**:3",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tlapanec (3513) = At risk (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

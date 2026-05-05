@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Guarayu",
+    "hid": "gyr",
+    "level": "language",
+    "iso639-3": "gyr",
+    "latitude": "-15.8247",
+    "longitude": "-61.6934",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Guarayo](https://lexibank.clld.org/languages/gerarditupi-Guarayo)\n[Guarayu](https://endangeredlanguages.com/lang/3163)\nhttps://en.wikipedia.org/wiki/Guarayu_language\nhttps://phoible.org/languages/guar1292\nhttps://www.wikidata.org/entity/Q3118779"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:metraux:48:6**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Tupi_guarayo00**\n**fabreall2009ann:Tupi_guarayo01**\n**fabreall2009ann:Tupi_guarayo02**\n**fabreall2009ann:Tupi_guarayo03**\n**fabreall2009ann:Tupi_guarayo04**\n**fabreall2009ann:Tupi_guarayo06**\n**fabreall2009ann:Tupi_guarayo07**\n**fabreall2009ann:Tupi_guarayo08**\n**fabreall2009ann:Tupi_guarayo10**\n**fabreall2009ann:Tupi_guarayo11**\n**fabreall2009ann:Tupi_guarayo12**\n**fabreall2009ann:Tupi_guarayo13**\n**fabreall2009ann:Tupi_guarayo14**\n**fabreall2009ann:Tupi_guarayo15**\n**fabreall2009ann:Tupi_guarayo16**\n**fabreall2009ann:Tupi_guarayo18**\n**fabreall2009ann:Tupi_guarayo19**\n**fabreall2009ann:Tupi_guarayo20**\n**fabreall2009ann:Tupi_guarayo21**\n**fabreall2009ann:Tupi_guarayo22**\n**fabreall2009ann:Tupi_guarayo23**\n**fabreall2009ann:Tupi_guarayo24**\n**fabreall2009ann:Tupi_guarayo26**\n**fabreall2009ann:Tupi_guarayo27**\n**fabreall2009ann:Tupi_guarayo28**\n**fabreall2009ann:Tupi_guarayo29**\n**fabreall2009ann:Tupi_guarayo30**\n**fabreall2009ann:Tupi_guarayo31**\n**fabreall2009ann:Tupi_guarayo32**\n**fabreall2009ann:Tupi_guarayo33**\n**fabreall2009ann:Tupi_guarayo34**\n**fabreall2009ann:Tupi_guarayo35**\n**fabreall2009ann:Tupi_guarayo36**\n**fabreall2009ann:Tupi_guarayo37**\n**fabreall2009ann:Tupi_guarayo38**\n**fabreall2009ann:Tupi_guarayo39**\n**fabreall2009ann:Tupi_guarayo40**\n**fabreall2009ann:Tupi_guarayo41**\n**fabreall2009ann:Tupi_guarayo42**\n**fabreall2009ann:Tupi_guarayo43**\n**fabreall2009ann:Tupi_guarayo44**\n**fabreall2009ann:Tupi_guarayo46**\n**fabreall2009ann:Tupi_guarayo47**\n**hh:d:Hoeller:Guarayo**\n**hh:e:Metraux:EBolivia**\n**hh:e:Perasso:Guarayu**\n**hh:e:Riester:Nordostbolivianischen**\n**hh:ew:Schmidt:Guarayu**\n**hh:g:Hoeller:Guarayo**\n**hh:he:Meireles:Guapore**\n**hh:he:Renshaw:Paraguayan-Chaco**\n**hh:he:Torrico:Indigenas**\n**hh:hv:Lemle:Tupi-Guarani**\n**hh:hv:Priest:Guarani**\n**hh:s:Dietrich:Guarayu**\n**hh:s:Privaser:Guarayo**\n**hh:typ:Armoye:Guarayo**\n**hh:typ:Newton:Guarayu**\n**hh:w:daFonseca:Redor:II:1881**\n**sil16:11209**\n**sil16:12988**\n**sil16:12989**\n**sil16:15259**\n**sil16:16948**\n**sil16:22995**\n**sil16:31882**"
+  },
+  "altnames": {
+    "multitree": "\n\"Guarayo\"\nChapacura\nGuapore\nGuarayo\nGuarayu\nGuarayú\nHuachi\nIten\nMaré\nTapacura\nÑañañe",
+    "lexvo": "\nGuarayu [en]",
+    "hhbib_lgcode": "\nGarayos not Pauserna (Ramirez 2017:5) but simply Guarayo\nGuarani Occidentales (Guarayos)\nGuarayo\nGuarayos",
+    "elcat": "\n\"Guarayo\"\nChapacura\nGuapore\nGuarayo\nGuarayu\nGuarayú\nHuachi\nIten\nMaré\nTapacura\nÑañañe"
+  },
+  "triggers": {
+    "lgcode": "\nguarayas\nguaraya\npota\nguarayu\nyaguaru\nguarayo\nguarayos"
+  },
+  "identifier": {
+    "multitree": "gyr",
+    "endangeredlanguages": "3163"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dietrich:Siriono-Yuki** **hh:s:Dietrich:Guarayu**:25-52",
+    "subrefs": "\n**hh:s:Dietrich:Guarayu**\n**hh:hv:Dietrich:Siriono-Yuki**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Guarayu (3163-gyr) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

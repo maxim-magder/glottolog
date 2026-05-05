@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ngom",
+    "hid": "nra",
+    "level": "language",
+    "iso639-3": "nra",
+    "latitude": "0.882925",
+    "longitude": "14.1345",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\n[Southern Ngom](https://lexibank.clld.org/languages/polyglottaafricana-SouthernNgom)\nhttps://www.wikidata.org/entity/Q36087"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:27843**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:48210**\n**eballiso2009:6344**\n**eballiso2009:6345**\n**eballiso2009:6349**\n**hh:d:UNESCO:Koya**\n**hh:e:Biffot:Gabon**\n**hh:e:Cabrol:Pygmees-Mekambo**\n**hh:e:Fleuriot:Mekambo**\n**hh:e:MedjoMve:Bakoya**\n**hh:e:Soengas:Bakoya**\n**hh:e:Soengas:Bakoya:2010**\n**hh:evd:Mve:Bakoya**\n**hh:h:Guthrie:Polyglotta**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hld:Bowdich:Cape-Coast-Ashantee**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvtyp:Jacquot:B10-B20-B30**\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Maganga:Ungom**\n**hh:phon:Nkoghe:Bakoya**\n**hh:wsoc:Mve:Bakoya:2008**\n**mpieva:2006Lexiqued**"
+  },
+  "altnames": {
+    "multitree": "\nAngom\nBangom\nBangomo\nNgom\nNgomo\nOngom\nUngom",
+    "lexvo": "\nNgom [en]",
+    "hhbib_lgcode": "\nB22b_Koya\nB22b_Ngom\nBakola\nBakoya\nBakoya variant of Bungom\nBakoya/Bakola\nBuŋgɔm\nKoya\nNgkele\nNgom B22B\nNgom B22b\nNkele\nOongoomo\nPygmées dy Mékambo presumably\nUngom\nUŋgɔm"
+  },
+  "triggers": {
+    "lgcode": "\nenvoyee\nmission AND ashantee\nwadengo\nlunggom\ngoudkust"
+  },
+  "identifier": {
+    "multitree": "nra"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359-363 **hh:hvw:Koumbi:Kota-Kele**",
+    "subrefs": "\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngom (nra-nra) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Koyaga",
+    "hid": "kga",
+    "level": "language",
+    "iso639-3": "kga",
+    "latitude": "8.0946",
+    "longitude": "-6.2041",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11155632\nhttps://phoible.org/languages/koya1253"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3939**\n**hh:hdial:Bolingetal:Mande-Nord**\n**hh:hdial:Bolingetal:Manding**\n**hh:hv:BastinHalleux:Mande**\n**hh:hvw:Derive:Manding-Ivoire**\n**hh:phon:Creissels:Koyaga**\n**sil16:44053**"
+  },
+  "altnames": {
+    "multitree": "\nKoya\nKoyaa\nKoyaga\nKoyaga Jula\nKoyagakan\nKoyaka\nKoyara",
+    "lexvo": "\nKoyaga [en]",
+    "hhbib_lgcode": "\nKojga\nKoyagakan\nNigbikan\nSagakakan\nSya"
+  },
+  "triggers": {
+    "lgcode": "\nenquette\nadelbert"
+  },
+  "identifier": {
+    "multitree": "kga"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Bolingetal:Manding** **hh:hvw:Derive:Manding-Ivoire**",
+    "subrefs": "\n**hh:hdial:Bolingetal:Manding**\n**hh:hvw:Derive:Manding-Ivoire**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koyaga (kga-kga) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "core": {
+    "name": "Western Farsi",
+    "hid": "pes",
+    "level": "language",
+    "iso639-3": "pes",
+    "latitude": "32.9",
+    "longitude": "53.3",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "AZ",
+      "IQ",
+      "IR",
+      "TM",
+      "TR"
+    ],
+    "links": "\n[Persian](https://wals.info/languoid/lect/wals_code_prs)\n[Western Farsi](https://grambank.clld.org/languages/west2369)\n[Western Farsi](https://lexibank.clld.org/languages/northeuralex-pes)\nhttps://en.wikipedia.org/wiki/Iranian_Persian\nhttps://phoible.org/languages/west2369\nhttps://www.wikidata.org/entity/Q3513637"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:81:2**\n**cldf:corver:vanriemsdijk:ed:94:3**\n**cldf:csato:isaksson:etal:ed:05:1**\n**cldf:csato:isaksson:etal:ed:05:2**\n**cldf:dahl:85**\n**cldf:folli:harley:etal:05**\n**cldf:goldberg:96**\n**cldf:guentcheva:ed:96:1**\n**cldf:harvey:baker:05**\n**cldf:haspelmath:97**\n**cldf:jaszczolt:turner:ed:96:4**\n**cldf:johanson:ed:02:10**\n**cldf:johanson:ed:02:6**\n**cldf:jones:09:1**\n**cldf:karimi:97**\n**cldf:karimi:99**\n**cldf:lambton:53**\n**cldf:lambton:67**\n**cldf:lambton:74**\n**cldf:lambton:84**\n**cldf:laut:k:ed:93:4**\n**cldf:lazard:57:2**\n**cldf:majidi:86**\n**cldf:majidi:90**\n**cldf:majidi:ternes:99**\n**cldf:malherbe:rosenberg:96**\n**cldf:netzer:71**\n**cldf:obolensky:panah:etal:63**\n**cldf:rubinchik:60**\n**cldf:samvelian:01**\n**cldf:shariflan:lotfi:03**\n**cldf:shokouhi:kipka:03**\n**cldf:wiese:94**\n**cldf:windfuhr:82**\n**haspelmath:oroji_exploring_2013**\n**hh:b:Jeremias:Persian**\n**hh:b:Jeremias:Persian-Semitic**\n**hh:d:Danesgar:Torbat**\n**hh:d:Farzinnia:Jahromi**\n**hh:d:Khalili:Kashmar**\n**hh:d:Khomak:Sistani**\n**hh:d:Meninski:Orientalium**\n**hh:d:Mirshakar:Bushehr**\n**hh:d:Muhtasham:Sabzavar**\n**hh:d:Naimi:Hormozgan**\n**hh:d:Rad:Baft**\n**hh:d:Salci:Xorasan**\n**hh:d:Shahriyari:Abadah**\n**hh:d:Sotoodeh:Kermani**\n**hh:d:Tahirzadah:Quchan**\n**hh:d:Yahaqqi:Firdaws**\n**hh:d:Zenker:Turkish-Arabisch-Persisches**\n**hh:d:Zindahbudi:Tangsiri**\n**hh:g:AlaviLorenz:Persischen**\n**hh:g:Elwell-Sutton:Persian:1941**\n**hh:g:Elwell-Sutton:Persian:1963**\n**hh:g:Jones:Persian**\n**hh:g:Lambton:Persian**\n**hh:g:Lazard:Persan:1957**\n**hh:g:Lazard:Persian**\n**hh:g:Mace:Persian**\n**hh:g:Mahootian:Persian**\n**hh:g:Pastor:Persan**\n**hh:g:Phillott:Persian**\n**hh:g:Rezai:Persian**\n**hh:g:Rosen:Persian**\n**hh:g:Tabatabayi:Farsi**\n**hh:g:Tabibzadeh:Farsi**\n**hh:g:Yousef:Persian**\n**hh:h:Borjian:Kerman**\n**hh:h:Borjian:Kermanshah**\n**hh:ht:Hervas:Saggio**\n**hh:hv:Borjian:Shemiran**\n**hh:hvld:Borjian:Perso-Tabaric**\n**hh:hvw:Anonby:Chahar-Mahal**\n**hh:hvw:Hervas:Poligloto**\n**hh:hvw:Zhukovskij:Persidskix:2**\n**hh:ld:Romaskevic:Dervisej**\n**hh:ld:Romer:Persian-Turkish**\n**hh:phon:Ahangar:Sistani**\n**hh:phon:Delforooz:Sistani**\n**hh:phon:Okati:Sistani**\n**hh:phon:Omrani:Sistan**\n**hh:phon:Zomorrodian:Qayen**\n**hh:s:Alamdari:Damavandi**\n**hh:s:Babak:Zarand**\n**hh:s:Borjian:Tajrish**\n**hh:s:Boyle:Persian**\n**hh:s:Fekrat:Heravi**\n**hh:s:Gravius:Persicae**\n**hh:s:Greaves:Persicae**\n**hh:s:Isfahani:Persiana**\n**hh:s:Ivanow:Birjand**\n**hh:s:Kalbasi:Farsi-Esfahan**\n**hh:s:Khatemi:Kazeruni**\n**hh:s:Kuchak:Dashti**\n**hh:s:Labrosse:Persarum**\n**hh:s:Muhsini:Sirjan**\n**hh:s:Mumm:Neupersisch**\n**hh:s:Paul:Persian**\n**hh:s:Rahimi:Savah**\n**hh:s:Rastorgueva:Persian**\n**hh:s:Rezaei:Malayeri**\n**hh:s:Rubincik:Persidskij**\n**hh:s:Sadat-Tehrani:Persian**\n**hh:s:Sistani:Azarbayjan**\n**hh:s:Sistani:Sistani**\n**hh:s:Smirnova:Isfaxanskij**\n**hh:s:Waziri:Sustari**\n**hh:s:Windfuhr:Persian**\n**hh:s:WindfuhrPerry:Persian-Tajik**\n**hh:s:Zumurrudiyan:Qayin**\n**hh:s:deDieu:Persicae**\n**hh:s:diGesu:Persicae**\n**hh:sb:Pytlowany:Persian-Hindustani**\n**hh:sb:Windfuhr:Persian**\n**hh:typ:Ahangar:Sistani**\n**hh:typ:Ahangar:Sistani:Verb**\n**hh:typ:Lazard:Persan-Sistan**\n**hh:typ:Lazard:Sistan**\n**hh:typ:Viola:Persiano**\n**hh:typ:Zomorrodian:Persan-Qayen**\n**hh:v:Doerfer:Neupersischen**\n**hh:v:Qattali:Khamir**\n**hh:w:Golden:Hexaglot**\n**hh:w:Kiya:Irani**\n**hh:w:Muhanna:Insan**\n**iso6393:2009-007**\n**ldh:item_402444**\n**ldh:item_405418**\n**ldh:item_407040**\n**ldh:item_407064**\n**ldh:item_860966**\n**mpieva:130**\n**mpieva:1959Karmanny**\n**mpieva:Amir1961SirinwaH**\n**mpieva:AssadiLespheno**\n**mpieva:Ates1962Farscagr**\n**mpieva:Bakhtiari2002TenseinP**\n**mpieva:Berge1920Dictionn**\n**mpieva:Beroukhim1966Dictionn**\n**mpieva:Daumer1846Hafisein**\n**mpieva:Dehghani2002Persian**\n**mpieva:Doerfer1965Turkisch**\n**mpieva:Doerfer1975Turkisch**\n**mpieva:Eilers1976DieMunda**\n**mpieva:Farchadjan1959Farhangi**\n**mpieva:Fritz1935Glossarz**\n**mpieva:Hagopian1907OttomanT**\n**mpieva:Hawker1960Writtena**\n**mpieva:Heston1976Selected**\n**mpieva:Horn1893Grundris**\n**mpieva:Horn1901Geschich**\n**mpieva:Junker1965Persisch**\n**mpieva:Junker1966Persisch**\n**mpieva:Karimi2005Aminimal**\n**mpieva:Khomak2000ASistani**\n**mpieva:Lazard1995La**\n**mpieva:Miller1953Farhangi**\n**mpieva:Necef1963Turklere**\n**mpieva:Parsafar1996Spatialp**\n**mpieva:Rubincik1959Sloznyep**\n**mpieva:Rypka1959Iranisch**\n**mpieva:Sadi1997Afourtee**\n**mpieva:Saleman1947Persisch**\n**mpieva:Sattler1900Deutschp**\n**mpieva:Schefer1883Chrestom**\n**mpieva:Steingass1975Acompreh**\n**mpieva:Stilo2005ModernPe**"
+  },
+  "altnames": {
+    "wals": "\nPersian",
+    "wals other": "\nFarsi",
+    "ruhlen (1987)": "\nPersian",
+    "moseley & asher (1994)": "\nFarsi, Persian",
+    "multitree": "\nFarsi\nFarsi (Western)\nFarsi, Western\nIrani\nIranian Persian\nNeupersisch\nNew Persian\nParsi\nPersian\nTehrani Persian",
+    "lexvo": "\nIranian Persian [en]",
+    "hhbib_lgcode": "\nAbadah\nAbadeh\nBaft\nBandar Abbasi Persian\nBandar Khamir\nBehbahani Persian\nBushehr Persian\nCharmahali\nDamavand\nDashti\nDerevni Tadžriš\nFarsi\nFarsi dar Azerbaijan\nFarsi-Western\nFarsi-e Šuštari\nFerdowsi\nGorgan\nHerat Persian\nHeravi Persian\nIsfahan Persian\nJahromi\nJajrud\nJargon of Iranian Dervishes\nKashmari\nKazeruni\nKermani Lahja Persian\nKermani Persian\nKhamir\nKhorasani Persian\nMalayeri\nParsi\nPerisan\nPersan Qâyen\nPersan Sistan\nPersian\nPersian Birjand\nPersian of Zarand\nPersiana\nPersicae\nPerside dialect with Caspian overlay\nPersisch\nQayin\nQuchan\nSabzevari\nSavah\nSaveh\nShemiran\nShushtari Persian\nSirjan\nSistani\nSistani Persian\nTajris\nTajrish\nTaleqan\nTaleqan and Karaj\nTangesiri\nTangsiri\nTorbat Haidariyya\nWestern Farsi [pes]\nWestern Persian\na modern dialect which is close to colloquial Persian but with some Tabari characteristic including the presence of the locative verb and the preposition \"in\" shared with other dialects studied here"
+  },
+  "triggers": {
+    "lgcode": "\npraeceptis\nmeymai\npello\niranische\npredislovie\nbandari\nsose\npodesta\npastu\nzugaben\nsayf\ndabistan\ntriplici\ngazophylacium\npersane\nlinguarym\nitalicae\nfarsca\nschahname\ngallicae\nnec\nsistani\npersian\npersisches\nstefano\nneupersisch\nfarsi\nwien\nlandkarten\nlatinae\nreseratum\npersidskij\nstrukturkurs\npersarum\npersiana\njowshaqan\nspecialibus\nneupersischen\npersan\npridatocnymi\nkermaniens\nclavi\ncura"
+  },
+  "identifier": {
+    "wals": "prs",
+    "multitree": "pes",
+    "languagelandscape": "http://languagelandscape.org/language/Persian"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has two entries for the ethnic group Khalaj.\n\n| p{5cm}}\ncode: | klj | kjf |\n| name: | Khalaj, Turkic | Khalaj |\n| Region: | Central Province, northeast of Arak. | Also in Iran. |\n| Classification: | Altaic, Turkic, Southern, Azerbaijani | Indo-European, Indo-Iranian, Iranian, Western, Northwestern |\n| country: | Iran | Azerbaijan, Iran |\n| Population: | 42,100 (2000 WCD). | 42,100. |\n| Language use: | All ages. Most also use Farsi [pes]. |  |\n\n\nOne entry is for the Turkic Khalaj [klj] language -- well known through **hh:g:Doerfer:Chaladsch**'s publications -- which says they also speak Farsi. The other entry Khalaj [kjf] (which has the same population figure and refers to the same ethnic group) is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate Iranian language. But in addition to their Turkic language, the Khalaj speak only Farsi [pes], which already has an entry.\nSee also: Khalaj Turkic [klj], Khalaj [kjf].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "pes"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Borjian:Perso-Tabaric** **hh:s:WindfuhrPerry:Persian-Tajik**:417-421",
+    "subrefs": "\n**hh:s:WindfuhrPerry:Persian-Tajik**\n**hh:hvld:Borjian:Perso-Tabaric**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Persian, Iranian (pes-pes) = 1 (National). Statutory national language (1979, Constitution, Article 15)."
+  }
+}

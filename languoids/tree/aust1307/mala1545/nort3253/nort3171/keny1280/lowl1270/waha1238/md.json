@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Eastern Lowland Kenyah",
+    "hid": "whk",
+    "level": "language",
+    "iso639-3": "whk",
+    "latitude": "1.56635",
+    "longitude": "116.655",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Wahau Kenya](https://endangeredlanguages.com/lang/3351)\nhttps://www.wikidata.org/entity/Q7959737\nhttps://en.wikipedia.org/wiki/Wahau_Kenyah_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:265**\n**cldf:smith:18:2**\n**hh:hld:Soriente:Penan-Kenyah**\n**hh:hvw:Smith:Borneo**\n**hh:hvw:Smith:Kenyah-Kayanic**\n**hh:hvw:Soriente:Kenyah:2004**\n**hh:t:Soriente:Mencaleny**\n**hh:v:Soriente:Uma-Kulit**"
+  },
+  "altnames": {
+    "multitree": "\nKenyah, Wahau\nWahau Kenya",
+    "lexvo": "\nWahau Kenyah [en]",
+    "hhbib_lgcode": "\nKenyah-Wahau\nLebu' Kulit\nLepo' Timai\nPawe\nUma' Kulit\nUma' Pawe\nUma' Ujok",
+    "elcat": "\nKenyah\nWahau\nWahau Kenya"
+  },
+  "triggers": {
+    "lgcode": "\nkulit"
+  },
+  "identifier": {
+    "multitree": "whk",
+    "endangeredlanguages": "3351"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Kenyah-Kayanic**",
+    "subrefs": "\n**hh:hvw:Smith:Kenyah-Kayanic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wahau Kenya (3351-whk) = Threatened (80 percent certain, based on the evidence available) (The languages are under treat because of the migration of Kenyah people from their original villages in the upper reaches of the rivers to coastal locations. Also, they are affected by the double influence of better known or “mainstream” Kenyah and Indonesian, the national language.) [Soriente 2006](cldf:soriente:06:2)"
+  }
+}

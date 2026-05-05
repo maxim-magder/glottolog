@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Dogri",
+    "hid": "dgo",
+    "level": "language",
+    "iso639-3": "dgo",
+    "latitude": "32.5534",
+    "longitude": "75.7111",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Dogri](https://wals.info/languoid/lect/wals_code_dgi)\nhttps://en.wikipedia.org/wiki/Dogri_language\nhttps://www.wikidata.org/entity/Q32730"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:92**\n**hh:d:Gosvami:Dogri**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Kogan:New-Indo-Aryan**\n**hh:hvwt:Grierson:9:I**\n**hh:hwsoc:BrightbillTurner:Batote**\n**hh:s:Bahri:Dogri**\n**hh:s:Gupta:Dogri**\n**hh:s:Shankar:Dogri**\n**hh:sv:Kaur:Dogri**\n**hh:sv:Kaur:Dogri:2019**\n**hh:vs:Sastri:Dogari**"
+  },
+  "altnames": {
+    "multitree": "\nDhogaryali\nDogari\nDogri\nDogri (individual language)\nDogri Jammu\nDogri Pahari\nDogri-Kangri\nDongari\nHindi Dogri\nTokkaru",
+    "lexvo": "\nDogri (individual language) [en]\nDogri [en]",
+    "hhbib_lgcode": "\nDGR — Dogri from Gosvami 2000\nDogari\nDogri (individual language)\nKandi\nPahari"
+  },
+  "triggers": {
+    "lgcode": "\ndogri"
+  },
+  "identifier": {
+    "multitree": "dgo"
+  },
+  "classification": {
+    "sub": "**hh:g:Eaton:Kangri** **hh:g:Sharma:Kangari**:16-18",
+    "subrefs": "\n**hh:g:Eaton:Kangri**\n**hh:g:Sharma:Kangari**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dogri (dgo-dgo) = 4 (Educational). Statutory language of provincial identity in Jammu and Kashmir (1950, Constitution, Schedule VIII), amended 2003."
+  }
+}

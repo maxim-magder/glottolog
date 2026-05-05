@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Atatláhuca Mixtec",
+    "hid": "mib",
+    "level": "language",
+    "iso639-3": "mib",
+    "latitude": "17.07133",
+    "longitude": "-97.67753",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (Atatlahuca)](https://wals.info/languoid/lect/wals_code_mxa)\n[Western Alta Mixtec](https://endangeredlanguages.com/lang/10537)\nhttps://www.wikidata.org/entity/Q32093046"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alexander:80**\n**cldf:yasugi:95**\n**hh:g:Alexander:Mixteca-Atatlahuca**\n**hh:hdial:Eglandetal:Mexico**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**mpieva:Alexander1986Gramatic**\n**sil16:11558**\n**sil16:11560**\n**sil16:11561**\n**sil16:11562**"
+  },
+  "altnames": {
+    "glottolog": "\nAtatlahuca Mixtec",
+    "wals": "\nMixtec (Atatlahuca)",
+    "wals other": "\nAtatlahuca Mixtec\nSan Esteban Atatláhuca Mixteco\nSouth Central Tlaxiaco Mixteco",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nCentral Misteko\nCentreal Mixteco\nMixtec (Atatlahuca)\nMixtec, Atatláhuca\nMixteco (Atatlhuca)\nMixteco de San Esteban Atatláhuca\nSouth Central Tlaxiaco Mixtec\nSouthern Misteko\nSouthern Mixteco\nTlaxiaco",
+    "lexvo": "\nAtatláhuca Mixtec [en]",
+    "hhbib_lgcode": "\n36 San Esteban Atatlahuca Mixtec Dürr 1987; Josserand 1983; Alexander 1980\nAtat\nAtatlahuca\nSan Esteban Atatlahuca (Tlaxiaco)-Santa Lucía Monteverde-Molinos-Itundujía\nSan Esteben Atatlahuca\nSan Sebastián Atatlahuca-Oaxaca",
+    "elcat": "\nAtatláhuca Mixtec\nChalcatongo Mixtec\nEastern Putla Mixtec\nItundujia Mixtec\nMagdalena Peñasco Mixtec\nMixteco de San Antonio Sinicahua\nMixteco de San Bartolomé Yucuañe\nMixteco de San Esteban Atatláhuca\nMixteco de San Juan Teita\nMixteco de San Juan Ñumí\nMixteco de San Pablo Tijaltepec\nMixteco de San Pedro Molinos\nMixteco de Santa Cruz Itundujia\nMixteco de Santa Cruz Tacahua\nMixteco de Santa Lucía Monteverde\nMixteco de Santa María Yosoyúa\nMixteco de Santiago Nuyoo\nMixteco de Santiago Yosondúa\nMixteco de Santo Tomás Ocotepec\nMixteco de Sierra Sur Noroeste\nMixteco de Yosonotú\nMixteco del Sur Bajo\nMixteco del norte de Tlaxiaco\nMixteco del sur medio\nMixteco del sureste central\nMixteco del suroeste de Tlaxiaco\nNorthern Tlaxiaco Mixtec\nNuyoo Mixtec\nOcotepec Mixtec\nSan Esteban Atatláhuca Mixteco\nSan Juan Teita Mixtec\nSan Miguel el Grande Mixtec\nSanta Lucía Monteverde Mixtec\nSanto Tomás Ocotepec Mixtec\nSinicahua Mixtec\nSouth Central Tlaxiaco Mixtec\nSoutheastern Ocotepec Mixtec\nSouthern Tlaxiaco Mixtec\nSouthwestern Tlaxiaco Mixtec\nTacahua Mixtec\nTeita Mixtec\nTijaltepec Mixtec\nWestern Alta Mixtec\nYosondúa Mixtec\nYucuañe Mixtec\nÑumí Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\njee\nsasau\natatlahuca\nnayuu\ncahan"
+  },
+  "identifier": {
+    "wals": "mxa",
+    "multitree": "mib",
+    "endangeredlanguages": "10537"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Eglandetal:Mexico**:25",
+    "subrefs": "\n**hh:hdial:Eglandetal:Mexico**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Alta Mixtec (10537) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

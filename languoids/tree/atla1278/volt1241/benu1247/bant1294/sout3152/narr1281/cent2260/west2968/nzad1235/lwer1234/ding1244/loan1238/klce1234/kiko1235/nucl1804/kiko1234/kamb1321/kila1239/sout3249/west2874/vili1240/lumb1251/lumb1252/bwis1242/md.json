@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bwisi",
+    "hid": "bwz",
+    "level": "language",
+    "iso639-3": "bwz",
+    "latitude": "-3.23686",
+    "longitude": "11.9595",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\n[Bwisi](https://endangeredlanguages.com/lang/2673)\nhttps://www.wikidata.org/entity/Q35067\nhttps://en.wikipedia.org/wiki/Bwisi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:31133**\n**hh:h:Jacquot:Gabon**\n**hh:hb:Leblanc:Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:phon:Yenguita:Bwisi**\n**hh:phon:Yenguitta:Ibwiisi**\n**hh:typ:Mole:Bwisi**"
+  },
+  "altnames": {
+    "multitree": "\nBwisi\nIbwisi\nMbwisi\nTalinga-bwisi",
+    "lexvo": "\nBwisi [en]",
+    "hhbib_lgcode": "\nBwisi B45\nIbwiisi\ni-Bwisi",
+    "elcat": "\nBwisi\nIbwisi\nMbwisi"
+  },
+  "triggers": {
+    "lgcode": "\nbabwizi\nNOT grammatical AND kitalinga"
+  },
+  "identifier": {
+    "multitree": "bwz",
+    "endangeredlanguages": "2673"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:200",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bwisi (2673-bwz) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

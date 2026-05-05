@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Pana (Central African Republic)",
+    "hid": "pnz",
+    "level": "language",
+    "iso639-3": "pnz",
+    "latitude": "7.10191",
+    "longitude": "15.64243",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "CM",
+      "NG",
+      "TD"
+    ],
+    "links": "\n[Pana (Central African Republic)](https://endangeredlanguages.com/lang/4985)\nhttps://www.wikidata.org/entity/Q36241\nhttps://en.wikipedia.org/wiki/Pana_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbott:85:2**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:dArenzano:Pana**\n**hh:phon:Njoya:Pana**"
+  },
+  "altnames": {
+    "multitree": "\nPana\nPani",
+    "lexvo": "\nPana (Central African Republic) [en]\nPana [en]",
+    "hhbib_lgcode": "\nPana",
+    "elcat": "\nPana (Central African Republic)\nPani"
+  },
+  "identifier": {
+    "multitree": "pnz",
+    "endangeredlanguages": "4985"
+  },
+  "classification": {
+    "sub": "**hh:ld:Samarin:Sango**:33",
+    "subrefs": "\n**hh:ld:Samarin:Sango**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pana (Central African Republic) (4985-pnz) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

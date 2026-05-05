@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pa-Hng",
+    "hid": "pha",
+    "level": "language",
+    "iso639-3": "pha",
+    "latitude": "22.8049",
+    "longitude": "105.165",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\n[Baheng, East](https://lexibank.clld.org/languages/chenhmongmien-EasternBaheng)\n[Baheng, West](https://lexibank.clld.org/languages/chenhmongmien-WesternBaheng)\n[Pa-Hng](https://grambank.clld.org/languages/pahn1237)\nhttps://en.wikipedia.org/wiki/Pa-Hng_language\nhttps://www.wikidata.org/entity/Q2625410"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mao:li:97**\n**hh:e:Hiep:Pa-Then**\n**hh:e:Quang:Pa-Then**\n**hh:e:Tuan:Pa-Then**\n**hh:g:MaoLi:Baheng**\n**hh:hew:Lunet:Tonkin**\n**hh:hld:ShearerHongkai:China**\n**hh:hld:Zhang:Guizhuo-Yao**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:hvw:Chen:Miao-Yao**\n**hh:ld:Li:Yao-Gaoniang**\n**hh:phon:Nguyen:Pa-Then**\n**hh:phon:Williamson:Pa-Then**\n**hh:typ:Chen:Baheng**\n**hh:v:Niederer:Pa-Hng**\n**hh:v:Niederer:Pa-Hng:1996**\n**hh:v:Niederer:Pa-Hng:1997**\n**hh:v:Strecker:Na-e**\n**hh:w:Bonifacy:Haute**\n**hh:w:Guizhou:Guizhou**"
+  },
+  "altnames": {
+    "multitree": "\nBaheng\nBaheng (Chine)\nBaheng (Viet Nam)\nBaheng (Vietnam)\nBahengmai\nMan Pa Seng\nMeo Lai\nPa Hng\nPa Ngng\nPa Then\nPa-Hng\nPa-heng\nPa-wu\nPaheng\nPateng\nPà Hung\nPà Then\nTóng",
+    "lexvo": "\nPa-Hng [en]",
+    "hhbib_lgcode": "\nBaheng\nBaheng-East\nBaheng-West\nBaiyun\nBao Lac\nDalang\nGandong\nGunbei\nGundong\nLaobao\nLiangzhai\nMao'ao\nNa-e\nPa Then\nPa Then in Vietnam\nPa-Teng\nPahng-Baheng-N\nPahng-Baheng-S\nShunhua\nTahua Yao (Xishanjie)\nTan Trinh\nTongle\nTongtou\nWenjie\nXiangfen\nXishanjie\nYao-Gundong-Liping County 黎平县滚董; autonym: pa33 h̃əŋ13\nYáo at Lípíng (Gundong commune)\nYáo at Lípíng Pa-Hng"
+  },
+  "triggers": {
+    "lgcode": "\nlipingxian\nshunguaxiang\nbahengyu\ngaoniang\nyaoyu"
+  },
+  "identifier": {
+    "multitree": "pha"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ratliff:Hmong-Mien** **hh:hld:ShearerHongkai:China**:653",
+    "subrefs": "\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Ratliff:Hmong-Mien**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Baheng (China) (2249-pha) = Vulnerable; Baheng (Viet Nam) (2248-pha) = Vulnerable"
+  }
+}

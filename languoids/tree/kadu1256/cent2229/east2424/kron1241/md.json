@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Krongo",
+    "hid": "kgo",
+    "level": "language",
+    "iso639-3": "kgo",
+    "latitude": "10.514",
+    "longitude": "30.003",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Krongo](https://endangeredlanguages.com/lang/4381)\n[Krongo](https://grambank.clld.org/languages/kron1241)\n[Krongo](https://wals.info/languoid/lect/wals_code_kro)\nhttps://en.wikipedia.org/wiki/Krongo_language\nhttps://phoible.org/languages/kron1241\nhttps://www.wikidata.org/entity/Q6438927"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:523**\n**cldf:ahn:ed:03:2**\n**cldf:bell:79**\n**cldf:bybee:perkins:etal:94**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:meinhof:16:4**\n**cldf:np:78:2**\n**cldf:np:nd:264**\n**cldf:reh:85:2**\n**cldf:seligman:seligman:32**\n**eballiso2009:4870**\n**eballiso2009:4955**\n**eballiso2009:52920**\n**eballiso2009:52996**\n**hh:g:Reh:Krongo**\n**hh:he:Nadel:Nuba**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Dimmendaal:Krongo**\n**hh:hv:Ehret:Krongo**\n**hh:hv:Ehret:KrongoShabo**\n**hh:hv:HallHall:Kadugli-Krongo**\n**hh:hv:Stevenson:Kadugli-Krongo**\n**hh:hvtyp:Dimmendaal:Nilo-Saharan**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Schadeberg:Kadu**\n**hh:phon:Beckmann:Krongo**\n**hh:soc:Sudan:Krongo**\n**hh:typ:Baerman:Kadu**\n**hh:typ:Guldemann:Logophoricity**\n**hh:typ:Reh:Krongo**\n**hh:w:Knoblecher:Africae**\n**hh:w:Meinhof:Kurungu**"
+  },
+  "altnames": {
+    "wals": "\nKrongo",
+    "wals other": "\nKurungu",
+    "ruhlen (1987)": "\nKrongo",
+    "moseley & asher (1994)": "\nKrongo",
+    "multitree": "\nCrongo\nDimodongo\nKadumodi\nKorongo\nKrongo\nKurungu\nNuba\nTabanya",
+    "lexvo": "\nKrongo [en]",
+    "hhbib_lgcode": "\nJebel Korongo\nKadugli-Krongo\nKrongo-Torogi\nKurungu\nSangali-Tumma\nTabanya (Krongo)",
+    "elcat": "\nDimodongo\nKadumodi\nKorongo\nKrongo\nKurungu\nNuba\nTabanya"
+  },
+  "triggers": {
+    "lgcode": "\nkrongo\nkurungu"
+  },
+  "identifier": {
+    "wals": "kro",
+    "multitree": "kgo",
+    "endangeredlanguages": "4381"
+  },
+  "classification": {
+    "sub": "**hh:hv:ThelwallSchadeberg:Nuba** **hh:hvs:Stevenson:Nuba**:107",
+    "subrefs": "\n**hh:hv:ThelwallSchadeberg:Nuba**\n**hh:hvs:Stevenson:Nuba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Krongo (4381-kgo) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

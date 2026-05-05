@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tabriak",
+    "hid": "tzx",
+    "level": "language",
+    "iso639-3": "tzx",
+    "latitude": "-4.49162",
+    "longitude": "143.593",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Karawari](https://endangeredlanguages.com/lang/10630)\n[Tabriak](https://lexibank.clld.org/languages/transnewguineaorg-tabriak)\nhttps://en.wikipedia.org/wiki/Tabriak_language\nhttps://www.wikidata.org/entity/Q56872"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Vavrova:Ambonwari**\n**hh:et:Telban:Sepik**\n**hh:hv:Abbott:Nor-Pondo**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvtyp:Foley:Lower-Sepik**\n**hh:typ:Booth:Yokoim**\n**hh:typ:Telban:Karawari-Commands**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D17**"
+  },
+  "altnames": {
+    "multitree": "\nKarawari\nTabriak",
+    "lexvo": "\nTabriak [en]",
+    "hhbib_lgcode": "\nAmbonwari\nIII-mbang-klipoi\nIIIb-mbang-klipoi\nKandiman\nKarawari\nKarawari (Amboin)\nKungriabun\nMensamej I\nMensamej II\nYokoim",
+    "elcat": "\nKarawari\nTabriak"
+  },
+  "identifier": {
+    "multitree": "tzx",
+    "endangeredlanguages": "10630"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik-Ramu** **hh:hv:Laycock:Sepik**",
+    "subrefs": "\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Karawari (10630-tzx) = Threatened (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

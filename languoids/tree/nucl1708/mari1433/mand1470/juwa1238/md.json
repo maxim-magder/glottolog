@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Juwal",
+    "hid": "mwb",
+    "level": "language",
+    "iso639-3": "mwb",
+    "latitude": "-3.78596",
+    "longitude": "143.681",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Muniwara](https://endangeredlanguages.com/lang/10574)\nhttps://www.wikidata.org/entity/Q6319103\nhttps://en.wikipedia.org/wiki/Juwal_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:Torricelli**\n**hh:hvldsoc:SandersSanders:Marienberg**\n**hh:w:Laycock:D36**"
+  },
+  "altnames": {
+    "multitree": "\nJuwal\nMambe\nMuniwara\nTumara\nTumaru",
+    "lexvo": "\nJuwal [en]",
+    "hhbib_lgcode": "\nMuniwara",
+    "elcat": "\nJuwal\nMambe\nMuniwara\nTumara\nTumaru"
+  },
+  "identifier": {
+    "multitree": "mwb",
+    "endangeredlanguages": "10574"
+  },
+  "classification": {
+    "sub": "**hh:hvldsoc:SandersSanders:Marienberg**",
+    "subrefs": "\n**hh:hvldsoc:SandersSanders:Marienberg**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Muniwara (10574-mwb) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

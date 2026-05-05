@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Northern Pomo",
+    "hid": "pej",
+    "level": "language",
+    "iso639-3": "pej",
+    "latitude": "39.1084",
+    "longitude": "-123.209",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Northern Pomo](https://endangeredlanguages.com/lang/1531)\nhttps://www.wikidata.org/entity/Q3396021\nhttps://en.wikipedia.org/wiki/Northern_Pomo_language\nhttps://phoible.org/languages/nort2966\n[Pomo (Northern)](https://wals.info/languoid/lect/wals_code_pmn)",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1628**\n**cldf:barrett:52**\n**cldf:baumhoff:63**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:95:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:56**\n**cldf:ed:10**\n**cldf:essene:42**\n**cldf:gifford:22**\n**cldf:gifford:23**\n**cldf:gifford:26:1**\n**cldf:gifford:26:2**\n**cldf:gifford:kroeber:37**\n**cldf:golla:goddard:etal:08**\n**cldf:hinton:munro:ed:98:7**\n**cldf:kniffen:39**\n**cldf:ko:edwin:etal:15**\n**cldf:kroeber:29:1**\n**cldf:loeb:26:2**\n**cldf:loeb:32**\n**cldf:oconnor:15**\n**cldf:oconnor:90**\n**cldf:simons;:fennig:ed:13**\n**cldf:stewart:43**\n**cldf:vihman:98**\n**hh:g:OConnor:Pomo**\n**hh:g:OConnor:Pomo:1987**\n**hh:hew:Barrett:Pomo**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**zurich:Comrie1995-1**\n**zurich:OConnor1986**\n**zurich:OConnor1990**\n**zurich:OConnor1990-1**\n**zurich:OConnor1994**\n**zurich:Vihman1998**"
+  },
+  "altnames": {
+    "wals": "\nPomo (Northern)",
+    "wals other": "\nN Pomo\nN. Pomo\nNorthern Pomo",
+    "ruhlen (1987)": "\nPomoan",
+    "moseley & asher (1994)": "\nPomo (Northern)",
+    "multitree": "\nNorth Pomo\nNorthern Pomo\nPomo (Northern)\nPomo du nord\nPomo septentrional\nPomo, Northern\nRedwood Cañon",
+    "lexvo": "\nLenga pomo setentrional [pms]\nNorthern Pomo [en]\nNorthern Pomo language [en]\nPomo du Nord [fr]",
+    "hhbib_lgcode": "\nNorthern\nPomo\nPomo-Northern",
+    "elcat": "\nNorth Pomo\nNorthern Pomo\nPomo (Northern)\nRedwood Cañon"
+  },
+  "triggers": {
+    "lgcode": "\nnorthern AND pomo"
+  },
+  "identifier": {
+    "wals": "genus/pomoan",
+    "multitree": "pej",
+    "endangeredlanguages": "1531"
+  },
+  "classification": {
+    "sub": "**hh:hv:McLendon:Pomoan:2006**",
+    "subrefs": "\n**hh:hv:McLendon:Pomoan:2006**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Pomo (1531-pej) = Dormant [O'Connor 2015](cldf:oconnor:15)"
+  }
+}

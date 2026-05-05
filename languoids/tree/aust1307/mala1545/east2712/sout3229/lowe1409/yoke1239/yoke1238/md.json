@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yoke",
+    "hid": "yki",
+    "level": "language",
+    "iso639-3": "yki",
+    "latitude": "-1.68798",
+    "longitude": "138.028",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Yoke](https://endangeredlanguages.com/lang/2760)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clouse:ma:02**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:h:DuBuy:Mamberamo**\n**hh:h:vanderLeeden:Sarmische**\n**hh:hld:ClouseDonohueMa:NCoast**\n**hh:w:Ma:Yokei**"
+  },
+  "altnames": {
+    "multitree": "\nJauke\nPauwi\nPauwi I\nPauwi II\nYauke\nYoke\nYoki",
+    "lexvo": "\nYoke [en]",
+    "hhbib_lgcode": "\nJauke\nMantarbori\nMantebori\nPaito",
+    "elcat": "\nJauke\nPauwi\nPauwi I\nPauwi II\nYauke\nYoke\nYoki"
+  },
+  "triggers": {
+    "lgcode": "\nyokei\nnorth AND jaya"
+  },
+  "identifier": {
+    "multitree": "yki",
+    "endangeredlanguages": "2760"
+  },
+  "classification": {
+    "sub": "**hh:h:Jones:ECenderawasih** **hh:s:Donohue:Warembori** **hh:w:LeRoux:Woordenlijsten**",
+    "subrefs": "\n**hh:h:Jones:ECenderawasih**\n**hh:s:Donohue:Warembori**\n**hh:w:LeRoux:Woordenlijsten**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yoke (2760-yki) = Endangered (60 percent certain, based on the evidence available) (In the village of Mantarbori, the vernacular is used almost exclusively by adults among themselves and when speaking to children. Children, however, use Malay almost exclusively with each other, at school, and when talking with their parents. Adults speaking with outsiders use Malay exclusively. In church, the language used depends upon the religious worker, though most use a mixture of languages.  It is very likely that in the village of Yoke, in the interior, vernacular language use is even stronger with children using it.) [Clouse and Ma 2002](cldf:clouse:ma:02)"
+  }
+}

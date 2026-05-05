@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Peve",
+    "hid": "lme",
+    "level": "language",
+    "iso639-3": "lme",
+    "latitude": "9.16111",
+    "longitude": "14.441",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Lame (Peve)](https://lexibank.clld.org/languages/kraftchadic-Lamepeve)\n[Lamé](https://wals.info/languoid/lect/wals_code_lam)\nhttps://en.wikipedia.org/wiki/Peve_language\nhttps://phoible.org/languages/peve1243\nhttps://www.wikidata.org/entity/Q56249"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2094**\n**asjp2010:4085**\n**cldf:sachnine:82**\n**eballiso2009:46110**\n**hh:d:Cooper:Zime**\n**hh:g:Shay:Peve**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Kraft:Chadic:III**\n**hh:hw:Strumpell:Adamauas**\n**hh:phon:Venberg:Peve**\n**hh:typ:Jungraithmayr:Zime**\n**mpieva:Caprile1978Prealabl**\n**mpieva:Jungraithmayr1978Cinqtext**"
+  },
+  "altnames": {
+    "wals": "\nLamé",
+    "ruhlen (1987)": "\nLame",
+    "multitree": "\n\"Kado\"\nKa'do\nKa'do Pevé\nLame\nLamé\nPeve\nPévé\nZime",
+    "lexvo": "\nPévé [en]",
+    "hhbib_lgcode": "\nDar (Weimba)\nDari\nLame\nLame (Peve)\nLamé)\nNok ou Sigza\nP'evé\nPévé\nPévé (Vaimba-Lamé)\nZime-Dari"
+  },
+  "triggers": {
+    "lgcode": "\nkado\nvun\nlame AND cameroun\npeve\nvpao"
+  },
+  "identifier": {
+    "wals": "lam",
+    "multitree": "lme"
+  },
+  "classification": {
+    "sub": "**hh:hv:Shyrock:Masa** **hh:el:Melis:Ham**",
+    "subrefs": "\n**hh:hv:Shyrock:Masa**\n**hh:el:Melis:Ham**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pévé (lme-lme) = 5* (Developing)."
+  }
+}

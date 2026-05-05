@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bofi",
+    "hid": "bff",
+    "level": "language",
+    "iso639-3": "bff",
+    "latitude": "4.02043",
+    "longitude": "17.3032",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34914\nhttps://en.wikipedia.org/wiki/Bofi_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:57562**\n**hh:e:Even:Haut-Sangha**\n**hh:e:Fancher:Foragers-CAR**\n**hh:e:Fouts:Bofi**\n**hh:e:Hazard:Boffis**\n**hh:e:Hewlett:Congo-Basin**\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hw:Monino:Oubanguiennes**\n**hh:soc:Moehama:Bofi**"
+  },
+  "altnames": {
+    "multitree": "\n'Bofi\nAli\nBoffi\nBofi\nNgbaka\nNgbaka-Manza\nNgbaka-Minagende\nNgbaka-Minangende",
+    "lexvo": "\nBofi [en]",
+    "hhbib_lgcode": "\nBoffi\nBoffis\nBofi farmers\nBofi foragers"
+  },
+  "triggers": {
+    "lgcode": "\nNOT to AND survey AND borderland"
+  },
+  "identifier": {
+    "multitree": "bff"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Monino:Proto-Gbaya**:451-455 **hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**",
+    "subrefs": "\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bofi (bff-bff) = 6a (Vigorous)."
+  }
+}

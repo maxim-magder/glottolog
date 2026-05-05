@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ndombe",
+    "hid": "ndq",
+    "level": "language",
+    "iso639-3": "ndq",
+    "latitude": "-12.96548",
+    "longitude": "13.37097",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6983792\nhttps://en.wikipedia.org/wiki/Ndombe_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:15743**\n**eballiso2009:36883**\n**eballiso2009:41916**\n**hh:he:Diniz:Angola**\n**hh:he:Urquhart:Southwestern-Angola**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**"
+  },
+  "altnames": {
+    "multitree": "\nDombe\nNdombe",
+    "lexvo": "\nNdombe [en]",
+    "hhbib_lgcode": "\nMondombes\nOlu-Koroka"
+  },
+  "triggers": {
+    "lgcode": "\nndombe\ncivilisacao"
+  },
+  "identifier": {
+    "multitree": "ndq"
+  },
+  "classification": {
+    "sub": "**hh:s:Elderkin:Herero**:583 **hh:hv:Vansina:West-Central-Africa**:273-283",
+    "subrefs": "\n**hh:s:Elderkin:Herero**\n**hh:hv:Vansina:West-Central-Africa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndombe (ndq-ndq) = 6a* (Vigorous)."
+  }
+}

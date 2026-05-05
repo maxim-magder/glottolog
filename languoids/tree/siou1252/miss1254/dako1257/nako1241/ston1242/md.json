@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Stoney",
+    "hid": "sto",
+    "level": "language",
+    "iso639-3": "sto",
+    "latitude": "51.1939",
+    "longitude": "-114.984",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Stoney](https://endangeredlanguages.com/lang/1449)\n[Stoney](https://wals.info/languoid/lect/wals_code_sto)\nhttps://en.wikipedia.org/wiki/Stoney_language\nhttps://www.wikidata.org/entity/Q3033570"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Laurie:Stony**\n**hh:e:GettyGooding:Stoney**\n**hh:hv:Parks:Sioux**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:ld:CookOwens:Alexis-Stoney**\n**hh:ld:Shaw:Stoney-Dakota**\n**hh:ld:Taylor:Canadian-Assiniboine**\n**hh:ldsoc:Cook:Chipewyan-Stoney**\n**hh:ldsoc:Rich:Stoney**\n**hh:s:Bellam:Stoney**\n**hh:s:Laurie:Stony**\n**hh:styp:Rhyasen:Stoney**\n**hh:typ:Harbeck:Stoney**\n**hh:typ:Shaw:Dakota**\n**hh:w:Taylor:Assiniboine**\n**sil16:13120**\n**sil16:20182**\n**sil16:22822**"
+  },
+  "altnames": {
+    "wals": "\nStoney",
+    "moseley & asher (1994)": "\nDakota",
+    "multitree": "\nAlberta Assiniboine\nAsinibóin (Estados Unidos)\nAssiniboin\nAssiniboine\nAssiniboine (Canada)\nAssiniboine (États-Unis d'Amérique)\nEstoni\nNakoda\nNakon\nStoney\nStonies\nStony",
+    "lexvo": "\nStoney [en]",
+    "hhbib_lgcode": "\nAlberta Assiniboine\nAlexis Stoney\nCanadian Assiniboine\nHenry-Alberta\nMorley Stoney\nStony",
+    "elcat": "\nAlberta Assiniboine\nAssiniboin\nNakoda\nNakon\nStoney\nStonies\nStony"
+  },
+  "triggers": {
+    "lgcode": "\nNOT and AND stoney\nwodejabi\nozija"
+  },
+  "identifier": {
+    "wals": "sto",
+    "multitree": "sto",
+    "endangeredlanguages": "1449"
+  },
+  "classification": {
+    "sub": "**hh:hv:Collette:Nakoda**",
+    "subrefs": "\n**hh:hv:Collette:Nakoda**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Stoney (1449-sto) = Endangered (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

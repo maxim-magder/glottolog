@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Guadeloupe-Martinique Creole French",
+    "hid": "gcf",
+    "level": "language",
+    "iso639-3": "gcf",
+    "latitude": "16.304875",
+    "longitude": "-61.405914",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "BL",
+      "GP",
+      "MQ"
+    ],
+    "links": "\n[Guadeloupe Creole](https://wals.info/languoid/lect/wals_code_gdl)\n[Guadeloupean Creole](https://apics-online.info/contributions/50)\n[Martinican Creole](https://apics-online.info/contributions/51)\n[Martinique Creole](https://wals.info/languoid/lect/wals_code_mqc)\nhttps://www.wikidata.org/entity/Q113407613"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bernabe:03**\n**cldf:bernabe:83**\n**cldf:colot:02**\n**cldf:colot:04**\n**cldf:damoiseau:99**\n**cldf:ludwig:91**\n**cldf:ludwig:96:1**\n**cldf:ludwig:96:2**\n**cldf:ludwig:ralph:etal:01**\n**cldf:ludwig:ralph:etal:02**\n**cldf:ludwig:ralph:etal:90**\n**cldf:malherbe:rosenberg:96**\n**hh:d:TourneuxBarbotin:Guadeloupe**\n**hh:g:Bernabe:Guadelopeen**\n**hh:g:Bonan:Guadeloupean-Creole**\n**hh:g:Damoiseau:Martiniquais**\n**hh:g:Delumeau:Creole-Guadelopeen**\n**hh:g:Funk:Creole-Martinique**\n**hh:g:PinalieBernabe:Martiniquais**\n**hh:g:Prudent:Martiniquaises**\n**hh:g:Turiault:Creole-Martinique**\n**hh:hvw:Brun-Trigaud:Antilles**\n**hh:ld:Maher:StBarthelemy**\n**hh:ldesoc:Maher:Barthelemy**\n**hh:s:CalvetChaudenson:Saint-Barthelemy**\n**hh:s:Cerol:Guadeloupeen**\n**hh:s:ColotLudwig:Guadeloupean-Martinican**\n**hh:s:Damoiseau:Haitien**\n**hh:s:Damoiseau:Martiniquais**\n**hh:s:Goux:Creole-Martiniquais**\n**hh:s:Maher:StBarthelemy**\n**hh:s:Taylor:French-Caribbean-Creole**\n**hh:sd:Ludwig:Creole**\n**hh:sd:Ludwig:Creole-Guadeloupe**\n**hh:soc:Maher:Barth-Thomas**\n**hh:typ:Pfander:Frankokreol**\n**ldh:item_406987**\n**mpieva:2001Corpuscr**\n**mpieva:Delumeau2006Unedescr**\n**mpieva:Ludwig2002Dictionn**"
+  },
+  "altnames": {
+    "wals": "\nGuadeloupe Creole\nMartinique Creole",
+    "wals other": "\nGuadeloupean\nGuadeloupean Creole\nMartiniquais",
+    "moseley & asher (1994)": "\nFrench Creole",
+    "multitree": "\nGuadeloupean Creole French\nKreyol\nLesser Antillies Creole French\nMartiniquan Creole French\nPatois\nPatwa",
+    "lexvo": "\nGuadeloupean Creole French [en]",
+    "hhbib_lgcode": "\n12xLa Martinique\nFrench Creole of Au Vent\nGuadeloupean Creole French\nMartiniqais\nSt Barth Creole (SBC)\nSt Barthélemy Creole",
+    "glottolog": "\nGuadeloupean Creole French"
+  },
+  "triggers": {
+    "lgcode": "\nlangagieres\nguadeloupeen\nlidiome\nguadelopeen\nceole\ndominicais\nfrankokreol\nguadeloupean\nmartinican\nfonctionnement\nmartiniquais\ngrammire\nfondal\nmartinique\nfondas\ndenonces\nmartiniquaises\ncrcais"
+  },
+  "identifier": {
+    "wals": "lcr;gdl;mqc",
+    "multitree": "gcf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Corne:French-Creole** **hh:h:Marrero:Antillas-Francesas**",
+    "subrefs": "\n**hh:h:Marrero:Antillas-Francesas**\n**hh:hv:Corne:French-Creole**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Guadeloupean French Creole (gcf-gcf) = 6a (Vigorous). De facto language of national identity."
+  }
+}

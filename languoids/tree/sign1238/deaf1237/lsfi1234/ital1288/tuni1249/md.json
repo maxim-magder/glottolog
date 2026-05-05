@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Tunisian Sign Language",
+    "hid": "tse",
+    "level": "language",
+    "iso639-3": "tse",
+    "latitude": "36.49562",
+    "longitude": "10.03348",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7853191\nhttps://en.wikipedia.org/wiki/Tunisian_Sign_Language"
+  },
+  "altnames": {
+    "multitree": "\nTunisian Sign Language",
+    "lexvo": "\nTunisian Sign Language [en]",
+    "hhbib_lgcode": "\nLangue des signes tunisienne (LST)\nLangue des signes tunisienne de Tunis (LST)\nTunis\nTunisian Sign"
+  },
+  "identifier": {
+    "multitree": "tse"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tunisian Sign Language (tse-tse) = 5 (Developing)."
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Asonye:Sign-Africa**\n**hh:h:Kamei:Afurika-Shuwa**\n**hh:ldsoc:Rhouma:Signes-Tunisienne**\n**hh:soc:Khayech:Langue-Signes-Tunisienne**\n**hh:soc:Khayech:Langue-Signes-Tunisienne:2011**\n**hh:soc:Mhimdi:Signes-Tunis**\n**hh:soc:Mhimdi:Signes-Tunisie**\n**hh:v:Nefaa:Tunisian-Sign**"
+  },
+  "classification": {
+    "sub": "Swiss-Italian Sign Language [swis1235] is similar to Italian Sign Language [ital1275] (**hh:h:BoyesRathmann:Sign-Northern-Europe**):22 and is in turn said to derive from French Sign Language (**hh:h:Quer:Sign-Mediterranean**:98, **hh:h:Corazza:Italian-Deaf-History**). Tunisian Sign Language [tuni1249] may be part of this family (**hh:h:Kamei:Afurika-Shuwa**):47 but historical or lexical evidence to this effect is lacking in print. **hh:v:Nefaa:Tunisian-Sign(**) contains a lexical comparison to LSF (but not to any other language) but the outcome in the low 30%:s range is inconclusive of a genealogical relationship to LSF, and if so, any closer relationship to, for example, Italian Sign.",
+    "subrefs": "\n**hh:v:Nefaa:Tunisian-Sign**\n**hh:h:Quer:Sign-Mediterranean**\n**hh:h:Corazza:Italian-Deaf-History**\n**hh:h:Kamei:Afurika-Shuwa**\n**hh:h:BoyesRathmann:Sign-Northern-Europe**"
+  }
+}

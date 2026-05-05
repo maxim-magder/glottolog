@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Aromanian",
+    "hid": "rup",
+    "level": "language",
+    "iso639-3": "rup",
+    "latitude": "40.616",
+    "longitude": "21.2",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "BA",
+      "BG",
+      "GR",
+      "MK",
+      "RO",
+      "RS"
+    ],
+    "links": "\n[Aromanian](https://endangeredlanguages.com/lang/963)\n[Aromanian](https://grambank.clld.org/languages/arom1237)\n[Aromanian](https://lexibank.clld.org/languages/saenkoromance-aromanian)\nhttps://en.wikipedia.org/wiki/Aromanian_language\nhttps://www.wikidata.org/entity/Q29316"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:05**\n**cldf:np:nd:264**\n**hh:b:Kahl:Aromunischen**\n**hh:d:Bara:Armaneasca**\n**hh:d:Dalametra:Macedo-Roman**\n**hh:d:Papahagi:Arumanian-Krusevo**\n**hh:d:Vrabie:Aromanian**\n**hh:dial:DahmenKramer:Aromunischer**\n**hh:dial:Neiescu:Aroman**\n**hh:edial:Capidan:Macedo-Roumains**\n**hh:et:Weigand:Aromunen**\n**hh:g:BaraKalSobolev:Juzhnoarumynskij**\n**hh:g:Beis:Aroumain**\n**hh:g:Capidan:Aromanii**\n**hh:g:Golab:Arumanian-Krusevo**\n**hh:g:Weigand:Olympo-Wallachen**\n**hh:h:Kahl:Aromunischen**\n**hh:h:Kahl:Rramaj-Armanj**\n**hh:h:Saramandu:South-Danubian-Romanian**\n**hh:hv:Saenko:Balkano-Romanskix**\n**hh:hvtyp:Fiedler:Balkansprachen**\n**hh:hvtyp:Maiden:Romanian**\n**hh:s:Golab:Arumunow**\n**hh:s:Narumov:Arumynskij**\n**hh:s:WaceThompson:Nomads-Balkans**\n**hh:v:Polenakovikj:Aromanskijot**\n**iso6393:2020-016**"
+  },
+  "altnames": {
+    "multitree": "\nArmina\nAromanian\nAromunian\nAroumain\nArrumano\nArumanian\nArumun\nMacedo-Rumanian\nOther Roumanian Lects\nRomanian, Macedo\nVlach",
+    "lexvo": "\nAroemeens [af]\nAromaanish [gv]\nAroman-gí [nan]\nAromanian [en]\nAromanian language [en]\nAromanisk [da]\nAromanès [ca]\nAromunische Sprache [de]\nAromán nyelv [hu]\nAroumain [fr]\nAroumanek [kw]\nArumana lingvo [eo]\nArumanian [en]\nArumaniera [eu]\nArumensk [no]\nArumuunsche Spraak [nds]\nArumänska [sv]\nIdioma arrumán [an]\nIdioma arumano [es]\nJęzyk arumuński [pl]\nLimba armãneascã [rup]\nLimba aromână [ro]\nLingua Aromanica [la]\nLingua aromanesa [gl]\nLingua aromanian [ia]\nLingua arumena [it]\nLíngua aromena [pt]\nMacedo-Romanian [en]\nMacedorrumanu [ast]\nMakedorumunjski jezik [hr]\nUlahça [tr]\naroumain [fr]\nmacédo-roumain [fr]\nΒλάχικη γλώσσα [el]\nАрамунская мова [be]\nАрумынский язык [ru]\nВлашки јазик [mk]\nภาษาอะโรมาเนียน [th]\nアルーマニア語 [ja]\n아로마니아어 [ko]",
+    "hhbib_lgcode": "\nAromunisch\nAromunischen\nArumynskij\nChapter 9 is an outline of Aromanian\nMacédo-Roumains\nOlympo-Wallachen",
+    "elcat": "\nArmina\nArmân\nArmãneascã\nArmãneashti\nArmãneshce\nAromanian\nAromunian\nArumanian\nArumun\nMacedo-Romanian\nMacedo-Rumanian\nMachiduneashti\nOther Roumanian Lects\nRrămăneashti\nVlach"
+  },
+  "triggers": {
+    "lgcode": "\nmoldova\npind\nolympo\npindos\nsudaromunische\naroman\narma\ndialectul\nturia\njuzhnoarumynskij\netnolingvistika\nturja\naromanii\nwallachen\nstil"
+  },
+  "identifier": {
+    "multitree": "rup",
+    "endangeredlanguages": "963"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rosetti:Romane** **hh:hv:Saenko:Balkano-Romanskix** **hh:hvtyp:Maiden:Romanian**",
+    "subrefs": "\n**hh:hv:Saenko:Balkano-Romanskix**\n**hh:hvtyp:Maiden:Romanian**\n**hh:hv:Rosetti:Romane**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aromanian (963-rup) = Threatened (80 percent certain, based on the evidence available) [Moseley 2005](cldf:moseley:05)"
+  }
+}

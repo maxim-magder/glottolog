@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Komo (Sudan-Ethiopia)",
+    "hid": "xom",
+    "level": "language",
+    "iso639-3": "xom",
+    "latitude": "8.94162",
+    "longitude": "34.0939",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET",
+      "SD",
+      "SS"
+    ],
+    "links": "\n[Komo](https://endangeredlanguages.com/lang/3233)\nhttps://www.wikidata.org/entity/Q56681\nhttps://en.wikipedia.org/wiki/Komo_language\nhttps://phoible.org/languages/komo1258\n[Komo](https://wals.info/languoid/lect/wals_code_kom)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:grottanelli:48**\n**cldf:hartland:07**\n**cldf:johnston:19:28**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**eballiso2009:23813**\n**eballiso2009:32061**\n**eballiso2009:39253**\n**eballiso2009:53901**\n**hh:d:Hellenthal:Komo**\n**hh:d:Otero:Komo-Dictionary**\n**hh:e:Cipriani:Berta-Coma-Mao**\n**hh:e:Grottanelli:Koma**\n**hh:e:Grottanelli:Koma:Burial**\n**hh:e:Theis:Koma**\n**hh:e:Theis:Koma:1985**\n**hh:ew:Corfield:Koma**\n**hh:g:Negash:Kwom**\n**hh:he:Grottanelli:Pre-Nilotes**\n**hh:he:Grottanelli:Pre-Niloti**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Bender:Gumuz-Koman-Mao-Omotic**\n**hh:hv:Bender:Koman**\n**hh:hv:Bender:Koman:2007**\n**hh:hvwphon:Otero:Koman**\n**hh:hwsoc:Kuspert:Mao-Komo**\n**hh:ld:Siebert:Komo**\n**hh:phon:Otero:Komo**\n**hh:phon:Otero:Komo:2018**\n**hh:s:Burns:Koma**\n**hh:s:BurnsGuth:Koma**\n**hh:s:Otero:Komo**\n**hh:soc:Davisetal:Mao-Kwama-Komo**\n**hh:typ:Otero:Komo**\n**hh:typ:Otero:Komo-Dual:2015**\n**hh:w:Grottanelli:Coma**\n**hh:w:Wedekindetal:Asosa:III**\n**hh:wsoc:Krell:Ganza-Komo**\n**hh:wsoc:Wedekindetal:Asosa**\n**sil16:37542**\n**sil16:42880**\n**sil16:42881**\n**sil16:42882**"
+  },
+  "altnames": {
+    "wals": "\nKomo",
+    "wals other": "\nKoma",
+    "ruhlen (1987)": "\nKomo",
+    "moseley & asher (1994)": "\nKomo",
+    "multitree": "\nCentral Koma\nComo\nGokwom\nHayahaya\nKoma\nKoma of Daga\nKomo\nMadiin\nSouth Koma",
+    "lexvo": "\nKomo (Sudan) [en]\nKomo [en]\nKomo language [en]",
+    "hhbib_lgcode": "\n(according to Otero 2019:13) Komo\nComa Orientali A+B\nEthiopian Komo\nKomo\nKomo (Sudan)\nKwom\nMadin A",
+    "elcat": "\nCentral Koma\nComo\nGokwom\nHayahaya\nKoma\nKoma of Daga\nKomo\nMadiin\nSouth Koma",
+    "glottolog": "\nKomo (Sudan)"
+  },
+  "triggers": {
+    "lgcode": "\nvestiario\ngidami\nbegi\nkoman\nconfine\nacconciatura\nrazzia"
+  },
+  "identifier": {
+    "wals": "kom",
+    "multitree": "xom",
+    "endangeredlanguages": "3233"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Otero:Koman**",
+    "subrefs": "\n**hh:hvwphon:Otero:Koman**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Komo (3233-xom) = Threatened (20 percent certain, based on the evidence available) [n.a. 1998](cldf:np:98:1)"
+  }
+}

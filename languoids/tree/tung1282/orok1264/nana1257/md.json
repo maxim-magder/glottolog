@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Nanai",
+    "hid": "gld",
+    "level": "language",
+    "iso639-3": "gld",
+    "latitude": "48.43426",
+    "longitude": "134.79726",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "RU"
+    ],
+    "links": "\n[Nanai](https://endangeredlanguages.com/lang/1206)\n[Nanai](https://grambank.clld.org/languages/nana1257)\n[Nanai](https://lexibank.clld.org/languages/northeuralex-gld)\n[Nanai](https://wals.info/languoid/lect/wals_code_nai)\nhttps://en.wikipedia.org/wiki/Nanai_language\nhttps://phoible.org/languages/nana1257\nhttps://www.wikidata.org/entity/Q13303"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2354**\n**asjp2010:563**\n**cldf:alpatov:ed:97:12**\n**cldf:anonymous:75:2**\n**cldf:avrorin:59**\n**cldf:avrorin:68**\n**cldf:avrorin:81**\n**cldf:cardinall:29**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:haspelmath:97**\n**cldf:huang:huangze:etal:04**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:menges:68**\n**cldf:nedjalkov:66**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:np:nd:5**\n**cldf:o:33**\n**cldf:onenko:80**\n**cldf:oskolskaya:02**\n**cldf:petrova:60**\n**cldf:salminen:00**\n**cldf:sem:75**\n**cldf:sunik:82**\n**cldf:tang:08**\n**cldf:zhao:zhaoaping:etal:13**\n**hh:b:Alonso:Nanay**\n**hh:d:Grube:Goldisch**\n**hh:d:Onenko:Nanajsko**\n**hh:d:Petrova:Nanajsko**\n**hh:d:Pilsudski:Nanaian**\n**hh:e:Shternberg:Gilyaki**\n**hh:g:Avrorin:Nanajskogo**\n**hh:g:KoYurn:Najkhin-Nanani**\n**hh:g:Petrova:Nanajskogo**\n**hh:he:Findeisen:Baikalsee**\n**hh:he:Hasse:Baikal-Pazifik**\n**hh:he:LevinPotapov:Sibiri**\n**hh:ld:Menges:Bikin**\n**hh:s:Avrorin:Nanajskij**\n**hh:s:Avrorin:Nanajskogo**\n**hh:s:Avrorin:Nanajskomu**\n**hh:s:Kazama:Nanai**\n**hh:s:Lopatin:Orochee**\n**hh:s:Sem:Bikinskij**\n**hh:s:Sem:Bikinskij:1959**\n**hh:sd:Petrova:Nanajsko**\n**hh:w:Menges:Nanaj**\n**mpieva:An1986Hezheyuj**\n**mpieva:Kile1973Obraznye**\n**mpieva:Onenko1986Locanaan**\n**mpieva:Petrova1962Naseslov**\n**mpieva:Schrenck1900Goldisch**\n**mpieva:Sunik1958Naseslov**\n**mpieva:Zhang1989TheHezhe**"
+  },
+  "altnames": {
+    "wals": "\nNanai",
+    "wals other": "\nJuchen",
+    "ruhlen (1987)": "\nNanay",
+    "moseley & asher (1994)": "\nGold",
+    "lexvo": "\nNanai [en]\nNanai language [en]\nNanaieg [br]\nNanaiisk [no]\nNanain kieli [fi]\nNanaja lingvo [eo]\nНанайский язык [ru]\nНанајски јазик [mk]\nภาษานาไน [th]\n赫哲语 [zh]",
+    "hhbib_lgcode": "\nBikin\nBikinskij\nGol'dy\nGolden\nGoldisch\nIX. Gol'dskij\nKili\nKur-Urmi\nKur-Urmiisch\nKur-Urmijskij\nKur-Urmskij\nNanaj\nNanajtsy\nNanay\nSamagir\nUssurijskij\nUssurskij",
+    "elcat": "\nAkani\nBirar\nGold\nGoldi\nGoldisch\nGoldische\nHeche\nHezhe\nHezhen\nJuchen\nKile\nNanai\nNanaj\nNanaje\nNanay\nSamagir\nSushen\nnānai\nНанай\nНанайэ\nнанайский языкж\n赫哲語\n赫真語\n那乃語"
+  },
+  "triggers": {
+    "lgcode": "\nyazyku\nkilen\norochee\nurmijskij\nnationaliy\nnanajsko\nnanajskij\nnanajski\nsamagirs\nnaanaj\nnanayskomu\nussurijskij\nnanajskogo\nhezhe\nnanai\nnanaian\nnanajskomy"
+  },
+  "identifier": {
+    "wals": "nai",
+    "endangeredlanguages": "1206"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Whaley:Tungusic**",
+    "subrefs": "\n**hh:hv:Whaley:Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nanai (1206-gld) = Severely Endangered (100 percent certain, based on the evidence available) (This language is not passing down to children. People who are above 60 may be able to speak it, whereas people between 40-60 only have passive knowledge about Nanai. Nanai is used only in the home domains between active speakers, and is not the major language for communication even among them.) [Tang 2008](cldf:tang:08)"
+  }
+}

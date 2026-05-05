@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Saramaccan",
+    "hid": "srm",
+    "level": "language",
+    "iso639-3": "srm",
+    "latitude": "4.54729",
+    "longitude": "-54.0238",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "GF",
+      "SR"
+    ],
+    "links": "\n[Saramaccan](https://apics-online.info/contributions/3)\n[Saramaccan](https://grambank.clld.org/languages/sara1340)\n[Saramaccan](https://lexibank.clld.org/languages/wold-Saramaccan)\n[Saramaccan](https://wals.info/languoid/lect/wals_code_srm)\nhttps://en.wikipedia.org/wiki/Saramaccan_language\nhttps://www.wikidata.org/entity/Q33779"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3268**\n**cldf:alexiadou:ed:04**\n**cldf:baker:syea:ed:96:2**\n**cldf:baker:syea:ed:96:4**\n**cldf:bakker:03:1**\n**cldf:byrne:87**\n**cldf:daelman:72**\n**cldf:degroot:77**\n**cldf:glock:72**\n**cldf:good:02**\n**cldf:good:04**\n**cldf:grimes:ed:72:5**\n**cldf:grimes:ed:72:6**\n**cldf:herskovits:herskovits:34**\n**cldf:hurault:59**\n**cldf:kouwenberg:87**\n**cldf:kouwenberg:ed:03:8**\n**cldf:mcworther:96**\n**cldf:neumann:67**\n**cldf:price:70**\n**cldf:price:73**\n**cldf:price:75**\n**cldf:price:84**\n**cldf:rickford:romaine:ed:99:2**\n**cldf:stolz:96**\n**cldf:vandevate:08**\n**cldf:veenstra:00**\n**cldf:veenstra:03**\n**cldf:veenstra:94**\n**cldf:veronique:ed:96:6**\n**hh:d:Glock:Saamaka**\n**hh:d:Glocketal:Saramaccan**\n**hh:e:Green:Matawai**\n**hh:e:deBeetSterman:Matawai**\n**hh:g:Barrieras:Saamaka**\n**hh:g:Betianetal:Saramaka**\n**hh:g:GlockRountree:Saramaccan**\n**hh:g:McWhorterGood:Saramaccan**\n**hh:hv:Smith:Creole-Surinam**\n**hh:hvw:Hancock:Anglophone**\n**hh:s:Abohetal:Saramaccan**\n**hh:s:NA:Saramaccaans**\n**hh:s:Rountree:Saramaccan**\n**hh:s:Schuchardt:Saramakkaneger**\n**hh:t:ArendsPerl:Suriname-Creole**\n**hh:typ:Bally:Saramaka**\n**hh:typ:Veenstra:Saramaccan**\n**hh:v:Kramer:Saramaccan-Creole**\n**hh:v:McWhorter:Saramaccan**\n**hh:vld:Migge:Matawai**\n**hh:vtyp:McWhorter:Creole-Genesis**\n**hh:w:Wijmans:Saramaccaner**\n**ldh:item_378277**\n**ldh:item_407289**\n**mpieva:2000Parlonss**\n**mpieva:Byrne1987Grammati**\n**mpieva:Good2003Strongli**\n**mpieva:Kramer2003Substrat**\n**mpieva:MacWhorter1997Towardsa**\n**sil16:10013**\n**sil16:10806**\n**sil16:10807**\n**sil16:10901**\n**sil16:12212**\n**sil16:12213**\n**sil16:14925**\n**sil16:14926**\n**sil16:14927**\n**sil16:14929**\n**sil16:14930**\n**sil16:14931**\n**sil16:14932**\n**sil16:14933**\n**sil16:14934**\n**sil16:14935**\n**sil16:14936**\n**sil16:14937**\n**sil16:14938**\n**sil16:14939**\n**sil16:14940**\n**sil16:14941**\n**sil16:14942**\n**sil16:15230**\n**sil16:15785**\n**sil16:16440**\n**sil16:18339**\n**sil16:18340**\n**sil16:18342**\n**sil16:18343**\n**sil16:18344**\n**sil16:18345**\n**sil16:18346**\n**sil16:18347**\n**sil16:18348**\n**sil16:18349**\n**sil16:18350**\n**sil16:19790**\n**sil16:19791**\n**sil16:19792**\n**sil16:19793**\n**sil16:19794**\n**sil16:19795**\n**sil16:19796**\n**sil16:19797**\n**sil16:19798**\n**sil16:19799**\n**sil16:19800**\n**sil16:19911**\n**sil16:19996**\n**sil16:22151**\n**sil16:22456**\n**sil16:22696**\n**sil16:23649**\n**sil16:34238**\n**sil16:34584**\n**sil16:38115**\n**sil16:40431**\n**sil16:41559**\n**sil16:41592**\n**sil16:43847**\n**sil16:44099**\n**sil16:49866**\n**sil16:49867**\n**sil16:49868**\n**sil16:49869**\n**sil16:49870**\n**sil16:49871**\n**sil16:49882**"
+  },
+  "triggers": {
+    "lgcode": "\nsaamaka\nsaramaccaner\nsaramaccan\nsaramakkaneger\nboschnegers\nsaramaccans\nsaramaccaans\nsaramaka"
+  },
+  "identifier": {
+    "wals": "srm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith:Creole-Surinam**",
+    "subrefs": "\n**hh:hv:Smith:Creole-Surinam**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saramaccan (srm-srm) = 5 (Developing)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMatawai"
+  }
+}

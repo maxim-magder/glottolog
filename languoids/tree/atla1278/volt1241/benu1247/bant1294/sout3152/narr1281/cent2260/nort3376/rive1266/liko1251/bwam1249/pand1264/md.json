@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Pande",
+    "hid": "bkj",
+    "level": "language",
+    "iso639-3": "bkj",
+    "latitude": "3.57935",
+    "longitude": "16.22754",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\n[Pande](https://endangeredlanguages.com/lang/6037)\nhttps://www.wikidata.org/entity/Q36263\nhttps://en.wikipedia.org/wiki/Pande_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:paul:etal:ed:15**\n**eballiso2009:19271**\n**eballiso2009:28707**\n**eballiso2009:40801**\n**eballiso2009:57562**\n**hh:h:ALAC:CAR**\n**hh:h:Hauser:Bantoue-Oubanguienne**\n**hh:he:Kohler:Tribus-Sangha**\n**hh:hew:Bruel:Sanga**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Ouzilleau:Pygmees**\n**hh:w:Periquet:AEF**"
+  },
+  "altnames": {
+    "multitree": "\nIpande\nPande",
+    "lexvo": "\nPande [en]",
+    "hhbib_lgcode": "\nBongiri except for the numerals\nPande 1 C12\nPande 2 d. gongo C12\nPande-Bukongo\nPande-Njeli\nPandé",
+    "elcat": "\nIpande\nPande"
+  },
+  "triggers": {
+    "lgcode": "\nvocabulaires AND suivies"
+  },
+  "identifier": {
+    "multitree": "bkj",
+    "endangeredlanguages": "6037"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:204-205 **hh:hvld:BouquiauxThomas:C10**",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:BouquiauxThomas:C10**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pande (6037-bkj) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

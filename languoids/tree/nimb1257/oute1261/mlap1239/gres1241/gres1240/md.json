@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gresi",
+    "hid": "grs",
+    "level": "language",
+    "iso639-3": "grs",
+    "latitude": "-2.72229",
+    "longitude": "140.279",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5607612\nhttps://en.wikipedia.org/wiki/Gresi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:NA:Kemtuk**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:s:Purbaetal:Gresi**\n**hh:typ:Udam:Gresi**"
+  },
+  "altnames": {
+    "multitree": "\nGlesi\nGresi\nGresik\nKlesi",
+    "lexvo": "\nGresi [en]",
+    "hhbib_lgcode": "\nGresi (Ac)\nKemtuk"
+  },
+  "triggers": {
+    "lgcode": "\ngresi"
+  },
+  "identifier": {
+    "multitree": "grs"
+  },
+  "classification": {
+    "sub": "**hh:hv:Fautngil:Grime** **hh:g:Anceaux:Nimboran**:2",
+    "subrefs": "\n**hh:hv:Fautngil:Grime**\n**hh:g:Anceaux:Nimboran**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gresi (grs-grs) = 8a (Moribund)."
+  }
+}

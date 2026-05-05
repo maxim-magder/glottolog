@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "East Futuna",
+    "hid": "fud",
+    "level": "language",
+    "iso639-3": "fud",
+    "latitude": "-14.278717",
+    "longitude": "-178.137222",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "WF"
+    ],
+    "links": "\n[East Futuna](https://grambank.clld.org/languages/east2447)\n[EastFutuna_210](https://lexibank.clld.org/languages/walworthpolynesian-EastFutuna)\n[Futuna (East)](https://wals.info/languoid/lect/wals_code_fue)\n[Futuna, East](https://lexibank.clld.org/languages/abvdoceanic-FutunaEast)\nhttps://en.wikipedia.org/wiki/Futunan_language\nhttps://www.wikidata.org/entity/Q35334"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:angleviel:94**\n**cldf:bellwood:95**\n**cldf:bellwood:ayres:etal:75**\n**cldf:burrows:36**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:foster:kiste:20**\n**cldf:internationalbusinesspublications:13**\n**cldf:kirch:76**\n**cldf:kirch:94**\n**cldf:moyse-faurie:07**\n**cldf:moyse-faurie:92**\n**cldf:moyse-faurie:99**\n**cldf:np:14:5**\n**cldf:palmer:ed:00:2**\n**cldf:pollock:91**\n**cldf:pollock:95**\n**cldf:sam:paia:etal:09**\n**cldf:smith:92**\n**cldf:v:94**\n**cldf:vandergrijp:05**\n**hh:d:Rensch:Fatafutuna**\n**hh:g:Moyse-Faurie:Futunien**\n**hh:sd:Grezel:Futunien**\n**hh:sd:Moyse-Faurie:Futunien**\n**mpieva:Hovdhaugen1999Negation**"
+  },
+  "altnames": {
+    "wals": "\nFutuna (East)",
+    "wals other": "\nFutunan (East)",
+    "ruhlen (1987)": "\nFutuna (East)",
+    "multitree": "\nFutuna (East)\nFutuna, East\nFutunian",
+    "lexvo": "\nEast Futuna [en]\nFutunaisk [no]\nFutunan kieli [fi]\nFutunan language [en]\nFutunien [fr]\nFutunische Sprache [de]\nFutunià [ca]\nFutunski jezik [sh]\nLingua futuniana [it]"
+  },
+  "triggers": {
+    "lgcode": "\nfutunien\nfutunan"
+  },
+  "identifier": {
+    "wals": "fue",
+    "multitree": "fud"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian** **hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Futuna, East (fud-fud) = 5 (Developing). De facto language of provincial identity in Futuna Islands."
+  }
+}

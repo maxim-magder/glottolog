@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Juray",
+    "hid": "juy",
+    "level": "language",
+    "iso639-3": "juy",
+    "latitude": "19.091",
+    "longitude": "84.1204",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6314963\nhttps://en.wikipedia.org/wiki/Juray_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvphon:Zide:Sora-Juray-Gorum**\n**hh:ld:AndersonGomango:Juray**\n**hh:t:Zide:Juray**\n**mpieva:Zide1979Areconst**\n**ofdn:panigrahi_2021**\n**ofdn:panigrahi_marginalizedaadhaar_2021**"
+  },
+  "altnames": {
+    "multitree": "\nIndia\nJuray",
+    "lexvo": "\nJuray [en]"
+  },
+  "triggers": {
+    "lgcode": "\nsora AND gorum\njuray"
+  },
+  "identifier": {
+    "multitree": "juy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderson:Munda** **hh:hvld:Anderson:Proto-Munda**:159-160",
+    "subrefs": "\n**hh:hv:Anderson:Munda**\n**hh:hvld:Anderson:Proto-Munda**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Juray (juy-juy) = 8a (Moribund)."
+  }
+}

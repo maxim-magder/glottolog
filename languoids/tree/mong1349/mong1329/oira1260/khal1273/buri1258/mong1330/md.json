@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Mongolia Buriat",
+    "hid": "bxm",
+    "level": "language",
+    "iso639-3": "bxm",
+    "latitude": "48.7686",
+    "longitude": "109.005",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MN",
+      "RU"
+    ],
+    "links": "\n[Eastern Buryat](https://endangeredlanguages.com/lang/4006)\nhttps://www.wikidata.org/entity/Q12637238\n[Buriat](https://wals.info/languoid/lect/wals_code_but)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonymous:54**\n**cldf:bybee:perkins:etal:94**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cydendambaev:imechenov:62**\n**cldf:darbeeva:97**\n**cldf:ed:10**\n**cldf:institut:54**\n**cldf:lewis:ed:09**\n**cldf:nedjalkov:skribnik:etal:07**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:sanzheev:62**\n**cldf:skribnik:88**\n**hh:g:Sanzeev:Buryat-Mongolskogo**\n**hh:hv:Budaev:Burjatskie**\n**hh:hvw:Budaev:Burjatskix**\n**hh:s:Skribnik:Buryat**\n**mpieva:160**\n**mpieva:2003TheMongo**\n**mpieva:Bosson1997Buriatre**\n**mpieva:Budaev1978Leksikab**\n**mpieva:Budaev1981Akcentua**\n**mpieva:Cydendambaev1962Kratkijr**\n**mpieva:Cydendambaev1979Grammati**\n**mpieva:Imehenov1954Russkobu**\n**mpieva:Namsaraev1950Povesti**\n**mpieva:Rassadin2004Istorija**\n**mpieva:Sagdarov1974Funkcion**\n**mpieva:Skribnik1988Polipred**"
+  },
+  "altnames": {
+    "wals": "\nBuriat",
+    "wals other": "\nBuryat",
+    "ruhlen (1987)": "\nBuriat",
+    "moseley & asher (1994)": "\nBuriat",
+    "multitree": "\nBouriate (Cis-Baïkalie)\nBouriate (Mandchourie)\nBouriate (Transbaïkalie)\nBur:aad\nBuriat\nBuriat, Mongolia\nBuriat-Mongolian\nBuriato (transbaikálico)\nBurjatisch\nBuryat\nMongolia Buriat\nMongolian Buriat\nNorthern Mongolian",
+    "lexvo": "\nMongolia Buriat [en]\nMongolia Buriat language [en]",
+    "hhbib_lgcode": "\nKhori",
+    "elcat": "\nBur:aad\nBuriat\nBuriat-Mongolian\nBurjatisch\nBuryat\nEastern Buryat\nMongolia Buriat\nMongolian Buriat\nNorthern Mongolian\nburyaad xelen\nбуриад аялгуу\nбуряад хэлэн\nбурят-монгольский язык\nбурятский язык"
+  },
+  "triggers": {
+    "lgcode": "\nburyat\nburjatskich\nburjatskogo\norod\nburjat\nburjatskij\npolipredikativnye"
+  },
+  "identifier": {
+    "wals": "but",
+    "multitree": "bxm",
+    "endangeredlanguages": "4006"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rybatzki:Mongolic**",
+    "subrefs": "\n**hh:hv:Rybatzki:Mongolic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Eastern Buryat (4006-bxm) = Vulnerable (80 percent certain, based on the evidence available) (In many rural areas, children are still learning the language, but not in cities, where Russian is normally spoken even between Buryat-speaking individuals... the Buryat-speaking territory is, nevertheless, continuously shrinking, and there are very few monolingual individuals) [Salminen 2000](cldf:salminen:00)"
+  }
+}

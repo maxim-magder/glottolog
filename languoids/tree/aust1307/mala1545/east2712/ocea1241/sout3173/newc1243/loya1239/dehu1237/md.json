@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Dehu",
+    "hid": "dhv",
+    "level": "language",
+    "iso639-3": "dhv",
+    "latitude": "-20.8892",
+    "longitude": "167.229",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Dehu](https://grambank.clld.org/languages/dehu1237)\n[Dehu](https://lexibank.clld.org/languages/abvdoceanic-Dehu)\n[Drehu](https://wals.info/languoid/lect/wals_code_dre)\nhttps://en.wikipedia.org/wiki/Drehu_language\nhttps://www.wikidata.org/entity/Q3039319"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:13:2**\n**cldf:angleviel:ed:08**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:ember:ed:01**\n**cldf:guiart:63**\n**cldf:haberkorn:08**\n**cldf:hadfield:20**\n**cldf:howe:74**\n**cldf:howe:77**\n**cldf:islands:13**\n**cldf:keesing:84:2**\n**cldf:logan:cole:01**\n**cldf:nichols:92**\n**cldf:np:14:5**\n**cldf:paini:98**\n**cldf:shineberg:foster:20**\n**cldf:stanley:07**\n**hh:d:Lenormand:Drehu**\n**hh:d:Tryon:Dehu**\n**hh:ew:Nevermann:Lifou**\n**hh:g:Moyse-Faurie:Drehu**\n**hh:hs:Tryon:Loyalty**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hv:vonderGabelentz:Melanesischen**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:phon:Moyse-Faurie:Dehu**\n**hh:s:Colomb:Lifu**\n**hh:s:Ray:Lifu**\n**hh:s:Ray:Lifu:1926**\n**hh:s:Tryon:Dehu**\n**hh:w:Cheyne:WPacific**\n**hh:w:Turner:Samoa**\n**iso6393:2012-123**\n**mpieva:Tryon1968Dehugram**"
+  },
+  "altnames": {
+    "wals": "\nDrehu",
+    "wals other": "\nDehu\nLifu",
+    "ruhlen (1987)": "\nDehu",
+    "moseley & asher (1994)": "\nDehu",
+    "multitree": "\nDe'u\nDehu\nDrehu\nLifou\nLifu",
+    "lexvo": "\nDehu [en]\nDrehu [fr]\nDrehu language [en]",
+    "hhbib_lgcode": "\nDe'u\nLifou\nLifu\nMiñ"
+  },
+  "triggers": {
+    "lgcode": "\ndrehu\ndehu\nlifu\nlifou"
+  },
+  "identifier": {
+    "wals": "dre",
+    "multitree": "dhv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rivierre:Nouvelle-Caledonie** **hh:hv:Lynch:Pronouns-Southern-Oceanic**",
+    "subrefs": "\n**hh:hv:Rivierre:Nouvelle-Caledonie**\n**hh:hv:Lynch:Pronouns-Southern-Oceanic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Drehu (dhv-dhv) = 5* (Developing)."
+  }
+}

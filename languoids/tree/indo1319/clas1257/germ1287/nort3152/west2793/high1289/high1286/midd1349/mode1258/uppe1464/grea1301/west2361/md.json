@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Western Yiddish",
+    "hid": "yih",
+    "level": "language",
+    "iso639-3": "yih",
+    "latitude": "51.6889",
+    "longitude": "12.2601",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BE",
+      "CH",
+      "DE",
+      "FR",
+      "HU",
+      "IL",
+      "NL"
+    ],
+    "links": "\n[Western Yiddish](https://endangeredlanguages.com/lang/2990)\nhttps://en.wikipedia.org/wiki/Western_Yiddish_language\nhttps://www.wikidata.org/entity/Q6593714",
+    "timespan": "1950-01-01/1950-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:birnbaum:08**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:esterson:01**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:d:Bibliophilus:Hebraisch-Teutsches**\n**hh:d:Guggenheim:Surbtaler-Jiddisch**\n**hh:d:Klepsch:Westjiddisches**\n**hh:g:Jacobs:Yiddish**\n**hh:h:Fleischer:Western-Yiddish**\n**hh:hssoc:Kahn:Yiddish**\n**hh:hv:Beider:Yiddish-Origins**\n**hh:hv:Witmore:Yiddish**\n**hh:phon:Timm:Westjiddischen**\n**hh:phontyp:Zuckermann:Alsace-Yiddish**\n**hh:s:Callenberg:Judischdeutschen**\n**hh:s:Chrysander:Judisch-Teutsche**\n**hh:s:Gerzon:Judisch-Deutsche**\n**hh:s:Lotto:Jiddischen**\n**hh:s:Lutke:Teutsch-Judischen**\n**hh:s:Selig:Judischdeutschen**\n**hh:s:Weinreich:Yidish**\n**hh:t:Fleischer:Surbtaler-Jiddisch**\n**hh:t:Guggenheim:Gailinger-Jiddisch**\n**hh:t:Guggenheim:Surbtaler-Jiddisch**\n**hh:v:Beider:Tree-Yiddish**\n**hh:vsoctyp:Reershemius:Auricher-Juden**\n**ldh:item_407198**\n**ludger-paschen-germanic:Jacobs.2005.Yiddish**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Yiddish\nJudeo-German\nWestern Yiddish\nYiddish\nYiddish, Western\nYidish",
+    "lexvo": "\nWestern Yiddish [en]",
+    "hhbib_lgcode": "\nAlsace Yiddish\nDeutsch-jiddischen\nGailinger Jiddisch\nJüdischdeutschen\nJüdishdeutschen\nNW Yiddish\nPhonological desc of Western Yiddish\nSW Yiddish\nSouthwestern Yiddish\nSurbtaler Jiddisch\nTeutsch-Jüdischen\nWestjiddischen\nYiddish-Western",
+    "elcat": "\nCentral Yiddish\nJudeo-German\nWestern\nWestern Yiddish\nYiddish\nYidish"
+  },
+  "triggers": {
+    "lgcode": "\njudischdeutschen\nwest AND yiddish\njudischer"
+  },
+  "identifier": {
+    "multitree": "yih",
+    "endangeredlanguages": "2990"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beider:Yiddish-Origins**",
+    "subrefs": "\n**hh:hv:Beider:Yiddish-Origins**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yiddish, Western (yih-yih) = 9 (Dormant)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Oroha",
+    "hid": "ora",
+    "level": "language",
+    "iso639-3": "ora",
+    "latitude": "-9.7386",
+    "longitude": "161.513",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Oroha](https://endangeredlanguages.com/lang/3001)\n[Oroha](https://grambank.clld.org/languages/oroh1237)\n[Oroha](https://lexibank.clld.org/languages/abvdoceanic-Oroha)\nhttps://en.wikipedia.org/wiki/Oroha_language\nhttps://www.wikidata.org/entity/Q36298"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Ray:Gower**\n**hh:s:Ivens:Oroha**\n**hh:typ:Flavelle:Oroha**"
+  },
+  "altnames": {
+    "multitree": "\nMara Ma-Siki\nOraha\nOroha\nSüdliche Salomons-Inseln",
+    "lexvo": "\nLenga Oroha [pms]\nOroha [de]\nOroha jezik [hr]\nOroha language [en]",
+    "hhbib_lgcode": "\nMara Ma-Siki",
+    "elcat": "\nMara Ma-Siki\nOraha\nOroha\nSüdliche Salomons-Inseln"
+  },
+  "triggers": {
+    "lgcode": "\noroha"
+  },
+  "identifier": {
+    "multitree": "ora",
+    "endangeredlanguages": "3001"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Oroha (3001-ora) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

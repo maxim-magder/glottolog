@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Filipino",
+    "hid": "fil",
+    "level": "language",
+    "iso639-3": "fil",
+    "latitude": "12.265",
+    "longitude": "123.464",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Filipino](https://grambank.clld.org/languages/fili1244)\nhttps://en.wikipedia.org/wiki/Filipino_language\nhttps://phoible.org/languages/fili1244\nhttps://www.wikidata.org/entity/Q33298"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:CastleMcGonnell:Filipino**\n**hh:g:Gonzales-Garcia:Filipino**\n**hh:g:Malicsi:Filipino**\n**hh:s:Paz:Filipino**\n**sil16:48318**\n**sil16:48340**\n**sil16:48348**\n**sil16:48401**"
+  },
+  "altnames": {
+    "multitree": "\nFilipino\nPilipino",
+    "lexvo": "\nFilipijns [nl]\nFilipin [wa]\nFilipina lingvo [eo]\nFilipince [tr]\nFilipineg [br]\nFilipino [cbk]\nFilipino [en]\nFilipino language [en]\nFilippinsk [da]\nFilipínčina [sk]\nIdioma filipino [es]\nLingua Philippinica [la]\nLingua filippina [it]\nLíngua filipina [pt]\nPagsasao a Filipino [ilo]\nPilipino [en]\nWikang Filipino [tl]\nfilipino [fr]\npilipino [fr]\nФилипински език [bg]\nФилипински јазик [mk]\nФилипински језик [sr]\nפיליפינית [he]\nزبان فیلیپینی [fa]\nفىلىپىنچە [ug]\nफ़िलिपीनो भाषा [hi]\nফিলিপিনো ভাষা [bn]\nಫಿಲಿಪ್ಪಿನೊ ಭಾಷೆ [kn]\nภาษาฟิลิปิโน [th]\nフィリピン語 [ja]\n菲律賓語 [zh]\n필리핀어 [ko]"
+  },
+  "triggers": {
+    "lgcode": "\ngramar\ngalit\nmakabagong\nsalitang\natin"
+  },
+  "identifier": {
+    "multitree": "fil",
+    "languagelandscape": "http://languagelandscape.org/language/Filipino"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan** **hh:hv:Blust:CPhilippines**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**\n**hh:hv:Blust:CPhilippines**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Filipino (fil-fil) = 1 (National). Statutory national language (1987, Constitution, Article 14(6)), not used in all official domains."
+  }
+}

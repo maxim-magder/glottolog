@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Central Kalapuya",
+    "hid": "kyl",
+    "level": "language",
+    "iso639-3": "kyl",
+    "latitude": "44.9861",
+    "longitude": "-123.925",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Central Kalapuya](https://grambank.clld.org/languages/kala1400)\n[Kalapuya](https://wals.info/languoid/lect/wals_code_klp)\nhttps://en.wikipedia.org/wiki/Central_Kalapuya_language\nhttps://www.wikidata.org/entity/Q3192120",
+    "timespan": "1971-01-01/1971-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kinkade:01**\n**hh:e:Mackey:Kalapuyans**\n**hh:e:Zenk:Kalapuyans**\n**hh:h:Mithun:NAmerica**\n**hh:hv:Berman:Kalapuya**\n**hh:hv:Shipley:Proto-Kalapuyan**\n**hh:hw:Scouler:NWCoast**\n**hh:phont:Jacobs:Kalapuya**\n**hh:s:Banks:Santiam**\n**hh:t:Gatschet:Kalapuya**\n**hh:typ:Rude:Central-Kalapuya**"
+  },
+  "altnames": {
+    "wals": "\nKalapuya",
+    "ruhlen (1987)": "\nKalapuyan",
+    "moseley & asher (1994)": "\nnot specified",
+    "multitree": "\nAtfalati\nAtfálati\nCentral Kalapuya\nCentral Kalapuyan\nKalapuya\nKalapuya central\nLukamiute\nSantaim\nSantiam\nTfalati\nTualatin\nWapatu\nWappato Lake",
+    "lexvo": "\nKalapuya [en]\nKalapuyan languages [en]\nLangues kalapuyanes [fr]\nLenguas kalapuya [es]\nYezhoù kalapouyek [br]\nКалапуянские языки [ru]",
+    "hhbib_lgcode": "\nKalapooiah\nKalapuya\nMary and MacKenzie River\nSantiam/Mary's River/Lower McKenzie"
+  },
+  "triggers": {
+    "lgcode": "\nkalapuyans\nkalapuya\nsantiam"
+  },
+  "identifier": {
+    "wals": "genus/kalapuyan",
+    "multitree": "kyl"
+  },
+  "classification": {
+    "sub": "**hh:h:Mithun:NAmerica**:431-433",
+    "subrefs": "\n**hh:h:Mithun:NAmerica**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Central Kalapuyan (808-kyl) = Extinct"
+  }
+}

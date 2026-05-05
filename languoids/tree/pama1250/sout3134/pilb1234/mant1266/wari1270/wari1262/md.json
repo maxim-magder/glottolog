@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Wariyangga",
+    "hid": "wri",
+    "level": "language",
+    "iso639-3": "wri",
+    "latitude": "-24.353",
+    "longitude": "116.927",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Warriyangga](https://collection.aiatsis.gov.au/austlang/language/w22)\n[Warriyangga](https://endangeredlanguages.com/lang/6652)\n[Warriyangga](https://lexibank.clld.org/languages/bowernpny-Warriyangga)\nhttps://phoible.org/languages/wari1262\nhttps://www.wikidata.org/entity/Q10719289",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**hh:d:Austin:Warriyangga**\n**hh:hv:Austin:Gascoyne-Ashburton**\n**hh:hv:Austin:Kanyara-Mantharta**\n**hh:t:Austin:Mantharta**\n**ozbib:234**\n**ozbib:247**\n**ozbib:256**\n**ozbib:266**\n**ozbib:42**\n**ozbib:5628**"
+  },
+  "altnames": {
+    "multitree": "\nMalgaru\nMalygaru\nWadiwangga\nWari-wonga\nWarianga\nWarienga\nWariengga\nWariwonga\nWariwongga\nWariyangga\nWarrijangga\nWarriwonga\nWarriyangka\nWoorenga\nWoorienga",
+    "lexvo": "\nWariyangga [en]",
+    "hhbib_lgcode": "\nWarriyangka",
+    "elcat": "\nMalgaru\nMalygaru\nWadiwangga\nWari-wonga\nWarianga\nWarienga\nWariengga\nWariwonga\nWariwongga\nWariyangga\nWarrijangga\nWarriwonga\nWarriyangga\nWarriyangka\nWoorenga\nWoorienga",
+    "aiatsis": "\nMalgaru\nMalykaru\nWadi\nWadiwangga\nWari wonga\nWarianga\nWariangga\nWarienga\nWariengga\nWariwonga\nWariwongga\nWariyanga\nWariyangga\nWarrijangga\nWarriwonga\nWarriyangga\nWarriyangka\nWoorenga\nWoorienga\nWorrienga\niengga"
+  },
+  "triggers": {
+    "lgcode": "\nwarriyangga"
+  },
+  "identifier": {
+    "multitree": "wri",
+    "endangeredlanguages": "6652"
+  },
+  "classification": {
+    "sub": "**hh:s:Austin:Mantharta**:24-25 **hh:hv:BowernAtkinson:Pama-Nyungan** **hh:hv:Austin:SPilbara**",
+    "subrefs": "\n**hh:s:Austin:Mantharta**\n**hh:hv:BowernAtkinson:Pama-Nyungan**\n**hh:hv:Austin:SPilbara**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Warriyangga (6652-wri) = Dormant [Austin 1988](cldf:austin:88)"
+  }
+}

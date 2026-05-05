@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Lower Chehalis",
+    "hid": "cea",
+    "level": "language",
+    "iso639-3": "cea",
+    "latitude": "46.7736",
+    "longitude": "-124.004",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Lower Chehalis](https://grambank.clld.org/languages/lowe1427)\nhttps://en.wikipedia.org/wiki/Lower_Chehalis_language\nhttps://www.wikidata.org/entity/Q6693377",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:schalk:78**\n**cldf:taylor:74:1**\n**cldf:taylor:74:2**\n**hh:e:Hajda:Southwestern-Coast-Salish**\n**hh:hv:Swadesh:Salish:1950**\n**hh:ld:Kinkade:Lower-Chehalis**\n**hh:phon:Snow:Lower-Chehalis**\n**hh:s:Robertson:Lower-Chehalis**"
+  },
+  "altnames": {
+    "multitree": "\nBas-chehalis\nChehalis, Lower\nChehalí bajo\nLower Chehalis\nɬəwʼálʼməš",
+    "lexvo": "\nLower Chehalis [en]",
+    "hhbib_lgcode": "\nLower Chehalis Lo"
+  },
+  "identifier": {
+    "multitree": "cea",
+    "endangeredlanguages": "1934"
+  },
+  "classification": {
+    "sub": "**hh:hv:Czaykowska-HigginsKinkade:Salish**",
+    "subrefs": "\n**hh:hv:Czaykowska-HigginsKinkade:Salish**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Lower Chehalis (796-cea) = Extinct"
+  }
+}

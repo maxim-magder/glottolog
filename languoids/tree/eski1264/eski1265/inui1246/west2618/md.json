@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Western Canadian Inuktitut",
+    "hid": "ikt",
+    "level": "language",
+    "iso639-3": "ikt",
+    "latitude": "64.3486",
+    "longitude": "-96.148",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Western Canadian Inuktitut](https://grambank.clld.org/languages/west2618)\nhttps://en.wikipedia.org/wiki/Western_Canadian_Inuktitut\nhttps://www.wikidata.org/entity/Q16653174"
+  },
+  "sources": {
+    "glottolog": "\n**anla:IN-N-9601961**\n**anla:IN850W1850**\n**anla:IN985L2001**\n**anla:KU863P1869**\n**cldf:damas:64**\n**cldf:damas:92**\n**cldf:hallowell:29**\n**cldf:lowe:01**\n**cldf:lyon:24**\n**cldf:mathiassen:28**\n**cldf:rasmussen:29**\n**cldf:szathmary:84**\n**hh:d:Lowe:Kangiryuarmiut**\n**hh:d:Lowe:Siglit**\n**hh:e:Arima:Caribou-Eskimo**\n**hh:e:Balikci:Netsilik**\n**hh:e:Birket-Smith:Caribou**\n**hh:e:BurchCsonka:Caribou-Inuit**\n**hh:e:Damas:Copper-Eskimo**\n**hh:e:Jansen:Rankin-Inlet**\n**hh:e:Mary-Rousseliere:Iglulik**\n**hh:e:Smith:Mackenzie-Delta-Eskimo**\n**hh:g:Mallon:Inuktitut-Rankin**\n**hh:g:MallonKublu:Inuktitut-Rankin**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hvw:Birket-Smith:Eskimo**\n**hh:s:Henry:Innok**\n**hh:s:Lowe:Kangiryuarmiut**\n**hh:s:Lowe:Siglit**\n**hh:s:Sammons:Rankin-Inlet**\n**hh:sd:Petitot:Esquimau**\n**hh:typ:Dorais:Inuit-Igloolik**\n**hh:typ:Johns:Inuktitut**\n**iso6393:2011-168**\n**mpieva:Parkinson1999Theinter**"
+  },
+  "altnames": {
+    "wals": "\nInuktitut (Rankin Inlet)\nKangiryuarmiut",
+    "wals other": "\nKangiryuarmiut Eskimo",
+    "multitree": "\nCanadian Eskimo\nCanadian Inuit\nCentral-Northern\nEskimo\nInuinnaqtun\nInuit\nInuktitut (Rankin Inlet)\nInuktitut, Western Canadian\nInupiat\nInuvialuktun\nMackenzie Coast\nNatsilingmiutut\nSiglitun\nWestern Canadian Eskimo\nWestern Canadian Inuit\nWestern Canadian Inuktitut\nWestern Canadian Inuktun",
+    "lexvo": "\nIdioma inuvialuktun [es]\nInuvialuktun [en]\nWestern Canadian Inuktitut [en]\nИнувиалуктун [ru]",
+    "hhbib_lgcode": "\nCaribou\nCaribou Eskimo\nCaribou and Netsilingmiut\nCopper Eskimo\nCopper Inuit\nHerschel island to Liverpool bay incl Mackenzie Delta\nIgloolik\nIglulik\nInuinnaqtun\nInuktitut-Western Canadian\nKangiryuarmiut\nMackenzie Delta Eskimo at Tuktoyaktuk\nMelville Pen.\nNetsilik\nNetsilik Inuit\nRankin Inlet in Keewatin District of the Northwest Territories\nSiglit\nSimpson Pen.\nTchiglit\nW Canadian Inuktitut\nWestern Inuit-Inupiaq"
+  },
+  "triggers": {
+    "lgcode": "\ntchiglit\niglulingmiut\nkangiryuarmiut\nnwt"
+  },
+  "identifier": {
+    "wals": "inr;kgt",
+    "multitree": "ikt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dorais:Inuit**:1-54",
+    "subrefs": "\n**hh:hv:Dorais:Inuit**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Inuinnaqtun (254-ikt) = Definitely endangered; Siglitun (2380-ikt) = Severely endangered; Natsilingmiutut (2355-ikt) = Vulnerable"
+  }
+}

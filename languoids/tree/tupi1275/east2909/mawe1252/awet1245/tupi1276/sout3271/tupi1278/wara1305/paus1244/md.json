@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Warázu",
+    "hid": "psm",
+    "level": "language",
+    "iso639-3": "psm",
+    "latitude": "-12.8553",
+    "longitude": "-63.1903",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Pauserna](https://endangeredlanguages.com/lang/2957)\n[Warazu](https://lexibank.clld.org/languages/gerarditupi-Warazu)\nhttps://en.wikipedia.org/wiki/War%C3%A1zu_language\nhttps://www.wikidata.org/entity/Q2912846"
+  },
+  "classification": {
+    "sub": "**hh:vtypd:Ramirez:Warazu**:37-40",
+    "subrefs": "\n**hh:vtypd:Ramirez:Warazu**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:danielsen:16**\n**cldf:danielsen:eds:15**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:sell:terhart:etal:nd**\n**fabreall2009ann:Tupi_pauserna-guarasug'we00**\n**fabreall2009ann:Tupi_pauserna-guarasug'we01**\n**fabreall2009ann:Tupi_pauserna-guarasug'we03**\n**fabreall2009ann:Tupi_pauserna-guarasug'we06**\n**fabreall2009ann:Tupi_pauserna-guarasug'we07**\n**fabreall2009ann:Tupi_pauserna-guarasug'we09**\n**fabreall2009ann:Tupi_pauserna-guarasug'we10**\n**fabreall2009ann:Tupi_pauserna-guarasug'we11**\n**fabreall2009ann:Tupi_pauserna-guarasug'we12**\n**fabreall2009ann:Tupi_pauserna-guarasug'we13**\n**fabreall2009ann:Tupi_pauserna-guarasug'we14**\n**fabreall2009ann:Tupi_pauserna-guarasug'we15**\n**fabreall2009ann:Tupi_pauserna-guarasug'we19**\n**fabreall2009ann:Tupi_pauserna-guarasug'we20**\n**hh:e:Metraux:EBolivia**\n**hh:e:Riester:Nordostbolivianischen**\n**hh:e:Riester:Pauserna**\n**hh:e:Snethlage:Pauserna-Guarayu**\n**hh:ew:Riester:Pauserna**\n**hh:he:Meireles:Guapore**\n**hh:he:Riester:Eastern-Bolivia**\n**hh:hvw:Firestone:Tupi-Guarani**\n**hh:ld:vonHorn:Pausernas:1952**\n**hh:vtypd:Ramirez:Warazu**\n**hh:w:vonHorn:Pausernas**"
+  },
+  "altnames": {
+    "multitree": "\nGuarasugwe\nGuarayu-Ta\nPaucerne\nPauserna\nPauserna-Guarasugwé",
+    "lexvo": "\nPauserna [en]",
+    "hhbib_lgcode": "\nPauserna\nPauserna-Guarasug'we",
+    "elcat": "\nGuarasu\nGuarasugwe\nGuarayu-Ta\nPaucerne\nPauserna\nPauserna-Guarasugwé"
+  },
+  "triggers": {
+    "lgcode": "\nguarasugwa\nguarasugwe\nguarasug\npauserna\npausernas\nuaradue"
+  },
+  "identifier": {
+    "multitree": "psm",
+    "endangeredlanguages": "2957"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Pauserna (2957-psm) = Critically Endangered (80 percent certain, based on the evidence available) [Danielsen 2016](cldf:danielsen:16)"
+  }
+}

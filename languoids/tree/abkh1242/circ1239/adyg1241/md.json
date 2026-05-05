@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "West Circassian",
+    "hid": "ady",
+    "level": "language",
+    "iso639-3": "ady",
+    "latitude": "44.0",
+    "longitude": "39.33",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "JO",
+      "RU",
+      "SY",
+      "TR"
+    ],
+    "links": "\n[Adyghe](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Adyghe)\n[Adyghe](https://lexibank.clld.org/languages/northeuralex-ady)\n[Adyghe (Abzakh)](https://wals.info/languoid/lect/wals_code_ady)\n[Adyghe (Shapsugh)](https://wals.info/languoid/lect/wals_code_ash)\n[Adyghe (Temirgoy)](https://wals.info/languoid/lect/wals_code_adt)\nhttps://en.wikipedia.org/wiki/Adyghe_language\nhttps://phoible.org/languages/adyg1241\nhttps://www.wikidata.org/entity/Q27776"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1933**\n**cldf:kumaxov:71**\n**cldf:rogava:kerasheva:66**\n**cldf:rogava:zi:66**\n**hh:d:Loewe:Circassian**\n**hh:d:ParisBatouka:Abzakh**\n**hh:d:Shaov:Adygejsko**\n**hh:d:Txarkaxo:Adygejsko**\n**hh:d:Vodozdokova:Adygejskij**\n**hh:g:JakovlevAshkhamaf:Adygejskogo**\n**hh:g:KumaxovVamling:Circassian**\n**hh:g:RogavaKerasheva:Adygejskogo**\n**hh:g:Smeets:West-Circassian**\n**hh:he:Kosven:Kavkaza:I**\n**hh:hld:Dirr:Kaukasischen**\n**hh:hv:Adelungetal:Mithridates:1**\n**hh:hv:Kumaxov:Adygskix**\n**hh:phon:Mufti:Tscherkessischen**\n**hh:s:Kumaxov:Adygejskij**\n**hh:s:Paris:Abkhaz**\n**hh:s:Paris:Abzakh**\n**hh:s:Paris:Abzakh:PhD**\n**hh:t:Paris:Chapsough**\n**hh:typ:Batouka:Abzakh**\n**hh:typ:Hohlig:Tscherkessischen**\n**hh:w:Gippert:Celebi**\n**mpieva:Hohlig1997Kontaktb**\n**mpieva:Jakovlev1941Grammati**\n**mpieva:Kardanov1955Uryskebe**\n**mpieva:Kumachov1971Slovoizm**\n**mpieva:Kumachov2006rgativno**\n**mpieva:Paris19871995Dictionn**\n**mpieva:Rogave1966Adygabze**\n**mpieva:Smeets1976Septhist**\n**sil16:18356**\n**sil16:21275**\n**sil16:38494**\n**sil16:51198**\n**sil16:51199**"
+  },
+  "altnames": {
+    "wals": "\nAdyghe (Abzakh)\nAdyghe (Shapsugh)\nAdyghe (Temirgoy)",
+    "wals other": "\nAbzakh\nAbzax\nCircassian (West)",
+    "ruhlen (1987)": "\nAdyghe",
+    "moseley & asher (1994)": "\nAdygh",
+    "multitree": "\nAbydh\nAdiga\nAdygei\nAdygey\nAdyghe\nAdyguéen\nCherkes\nCircassian\nKiakh\nKjax\nLower Circassian\nWest Circassian",
+    "lexvo": "\nAdigea lingvo [eo]\nAdigece [tr]\nAdigeg [br]\nAdigejski jezik [hr]\nAdigué [ca]\nAdygei [en]\nAdygeische Sprache [de]\nAdygeiska [sv]\nAdygejština [cs]\nAdygen kieli [fi]\nAdygeyska [is]\nAdyghe [en]\nAdyghe language [en]\nAdyguéen [fr]\nAdygų kalba [lt]\nAn Adyghe [ga]\nJęzyk adygejski [pl]\nLíngua adigue [pt]\nZimanê adigeyî [ku]\nadyghé [fr]\nАдигейська мова [uk]\nАдигејски јазик [mk]\nАдыг хэлэн [bxr]\nАдыгейский язык [ru]\nАдыгъейаг æвзаг [os]\nאדיגית [he]\nلغة أديغية [ar]\nআদিগে ভাষা [bn]\nภาษาอะดืยเก [th]\nアディゲ語 [ja]\n阿迪格語 [zh]\n아디게어 [ko]",
+    "hhbib_lgcode": "\nAbzakh\nAdygejtsy\nAdyghe\nCircassian\nTscherkassen\nTscherkessische\nTscherkessischen",
+    "glottolog": "\nAdyghe"
+  },
+  "triggers": {
+    "lgcode": "\nshapsugh\nadyghe\ntscherkessischen\nadygskix\nrgativnostb\nadygejskogo\nurys\nadygskich\nturkei\nzor\ncherkesskix\nyazykiv\nabzakh\nsapseg"
+  },
+  "identifier": {
+    "wals": "ady;adt;ash",
+    "multitree": "ady"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hewitt:NWC**",
+    "subrefs": "\n**hh:hv:Hewitt:NWC**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Adyge (1064-ady) = Vulnerable"
+  }
+}

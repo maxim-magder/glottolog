@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Mangarrayi",
+    "hid": "mpc",
+    "level": "language",
+    "iso639-3": "mpc",
+    "latitude": "-14.8",
+    "longitude": "133.5",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Mangarrayi](https://collection.aiatsis.gov.au/austlang/language/n78)\n[Mangarrayi](https://endangeredlanguages.com/lang/1914)\n[Mangarrayi](https://grambank.clld.org/languages/mang1381)\n[Mangarrayi](https://wals.info/languoid/lect/wals_code_myi)\nhttps://en.wikipedia.org/wiki/Mangarrayi_language\nhttps://phoible.org/languages/mang1381\nhttps://www.wikidata.org/entity/Q6748829"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arka:10**\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:nichols:92**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:g:Merlan:Mangarayi**\n**hh:g:Merlan:Mangarayi:1989**\n**hh:hv:Merlan:Mangarrayi**\n**hh:hvw:Capell:NWAustralia**\n**hh:w:Capell:Forty-North-Australian**\n**iso6393:2018-043**\n**ozbib:1645**\n**ozbib:2598**\n**ozbib:2642**\n**ozbib:2660**\n**ozbib:2740**\n**ozbib:3097**\n**ozbib:3099**\n**ozbib:3100**\n**ozbib:4049**\n**ozbib:4050**\n**ozbib:4054**\n**ozbib:4057**\n**ozbib:4060**\n**ozbib:4358**\n**ozbib:4599**\n**ozbib:4800**\n**ozbib:597**\n**ozbib:6139**\n**ozbib:7193**\n**ozbib:7298**"
+  },
+  "altnames": {
+    "wals": "\nMangarrayi",
+    "wals other": "\nMaNrayi",
+    "ruhlen (1987)": "\nMangarayi",
+    "moseley & asher (1994)": "\nMangarayi",
+    "multitree": "\nAlawic\nMangarai\nMangaraian Family\nMangarayi\nMangarayic\nMangarei\nMangarrayi\nManggarai\nMungarai\nMungari\nMungerry\nNgarrabadji",
+    "lexvo": "\nMangarayi [en]",
+    "hhbib_lgcode": "\n28 Mangarai\nMangarayi\nMungarai",
+    "elcat": "\nMangarai\nMangarayi\nMangarei\nMangarrayi\nManggarai\nMungarai\nMungari\nMungerry\nNgarrabadji",
+    "aiatsis": "\nMangarai\nMangarayi\nMangarei\nMangarray\nMangarrayi\nMangerei\nManggarai\nMungarai\nMungari\nMungerry\nNgarrabadji\nWalooka"
+  },
+  "triggers": {
+    "lgcode": "\nprefixation\nmangarrayi\nmangarayi"
+  },
+  "identifier": {
+    "wals": "genus/mangarrayi",
+    "multitree": "mpc;mngy",
+    "endangeredlanguages": "1914"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sharpe:Alawa**",
+    "subrefs": "\n**hh:hv:Sharpe:Alawa**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mangarrayi (1914-mpc) = Critically Endangered (100 percent certain, based on the evidence available) (...the language is endangered or seriously endangered.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

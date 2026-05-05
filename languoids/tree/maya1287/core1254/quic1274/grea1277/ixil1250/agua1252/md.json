@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Aguacateco",
+    "hid": "agu",
+    "level": "language",
+    "iso639-3": "agu",
+    "latitude": "15.3307",
+    "longitude": "-91.3153",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT"
+    ],
+    "links": "\n[Aguacatec](https://wals.info/languoid/lect/wals_code_agu)\n[Awakateko](https://endangeredlanguages.com/lang/682)\nhttps://en.wikipedia.org/wiki/Awakatek_language\nhttps://www.wikidata.org/entity/Q35091"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3669**\n**asjp2010:4491**\n**cldf:adelaar:07:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:jones:robert:ed:79:3**\n**cldf:lewis:ed:09**\n**cldf:mcarthur:mcarthur:56**\n**cldf:np:09:1**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:pellicer:05**\n**cldf:richards:03**\n**hh:hv:Mayers:Mayan**\n**hh:hv:VielmanMayers:Guatemala**\n**hh:hvs:Yasugi:Mayas-Guatemala**\n**hh:s:Larsen:Aguacatec**\n**hh:s:McArthurMcArthur:Aguacatec**\n**hh:s:McArthurMcArthur:Aguacateca**\n**hh:s:Rodriguez:Awakateka**\n**hh:s:Solis:Awakateka**\n**hh:t:Shaw:Guatemala-Honduras**\n**hh:typ:Dayley:Mayan-Voice**\n**hh:typ:Larsen:Awakatek**\n**hh:typ:deStiles:Mayances**\n**hh:w:DienhartMichaelsen:Aguacatec**\n**mpieva:2001Toponimi**\n**sil16:10031**\n**sil16:10047**\n**sil16:11603**\n**sil16:11604**\n**sil16:11607**\n**sil16:11608**\n**sil16:11609**\n**sil16:11610**\n**sil16:11613**\n**sil16:11614**\n**sil16:13392**\n**sil16:13393**\n**sil16:13394**\n**sil16:13395**\n**sil16:13396**\n**sil16:13397**\n**sil16:13398**\n**sil16:13399**\n**sil16:13400**\n**sil16:13401**\n**sil16:13402**\n**sil16:13403**\n**sil16:13404**\n**sil16:13405**\n**sil16:13406**\n**sil16:13407**\n**sil16:13408**\n**sil16:13409**\n**sil16:13410**\n**sil16:15243**\n**sil16:15244**\n**sil16:16135**\n**sil16:16136**\n**sil16:16137**\n**sil16:16138**\n**sil16:16139**\n**sil16:16140**\n**sil16:17233**\n**sil16:17234**\n**sil16:18822**\n**sil16:22122**\n**sil16:22276**\n**sil16:22964**\n**sil16:22965**\n**sil16:29400**\n**sil16:29402**\n**sil16:31677**\n**sil16:33545**\n**sil16:40737**"
+  },
+  "altnames": {
+    "wals": "\nAguacatec",
+    "wals other": "\nAguatec Maya\nAguateca",
+    "ruhlen (1987)": "\nAwakateko",
+    "moseley & asher (1994)": "\nAguacatec",
+    "multitree": "\nAguacatec\nAguacateco\nAwakateko",
+    "lexvo": "\nAguacateco [en]\nAguacateeks [nl]\nAguacatekisk [no]\nAwakatek language [en]\nAwakateko [fr]\nIdioma aguacateco [es]\nLingua aguacateca [gl]\nLíngua aguacateca [pt]\nАвакатечки јазик [mk]",
+    "hhbib_lgcode": "\nAguacatec\nAwakatek\nAwakateko",
+    "elcat": "\nAguacatec\nAguacateco\nAwakatek\nAwakateko"
+  },
+  "triggers": {
+    "lgcode": "\nmayers\naguacatecos\naguacateca\ntzaw\ntawlen\nkayol\nkajilonk\naguacateco\nxobilil\nmunt\nxtxolbil\naguacatec\ntzunum\nprojecto\nkucaj\nawakateka\ntifoidea\naguacatan\njilwutz\nwunak\ncuchumuxul"
+  },
+  "identifier": {
+    "wals": "agu",
+    "multitree": "agu",
+    "endangeredlanguages": "682"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Awakateko (682-agu) = Vulnerable (20 percent certain, based on the evidence available) [Richards 2003](cldf:richards:03)"
+  }
+}

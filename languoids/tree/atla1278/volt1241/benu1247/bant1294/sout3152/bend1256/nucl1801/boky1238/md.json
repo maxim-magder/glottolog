@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bokyi",
+    "hid": "bky",
+    "level": "language",
+    "iso639-3": "bky",
+    "latitude": "6.10475",
+    "longitude": "9.05875",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Bokyi](https://lexibank.clld.org/languages/polyglottaafricana-Bokyi)\nhttps://en.wikipedia.org/wiki/Bokyi_language\nhttps://www.wikidata.org/entity/Q35087"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mansfeld:08**\n**cldf:talbot:26**\n**eballiso2009:30758**\n**eballiso2009:56564**\n**eballiso2009:57562**\n**hh:d:Bruns:Bokyi**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvw:Blench:Bendi**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Voorhoeve:Benue-Congo-Noun-Class**\n**hh:nt:Iji:Bokyi**\n**hh:s:Ayugha:Bokyi**\n**hh:s:Tawu-Asu:Bokyi**\n**hh:w:Dayrell:Okuni**\n**hh:w:Jungraithmayr:Boki**"
+  },
+  "altnames": {
+    "multitree": "\nBoki\nBokyi\nByoki\nNfua\nNki\nOkii\nOsikom\nOsukam\nUki\nVaaneroki",
+    "lexvo": "\nBokyi [en]",
+    "hhbib_lgcode": "\nBoki\nBokyi-Abu\nBokyi-Dic\nBokyi-Kocwe\nBokyi-Osokom\nBokyi-Wula\nNgki\nNki\nOsikom-Basua\nOsikom-Bendega"
+  },
+  "triggers": {
+    "lgcode": "\nbokyi\ncamerounian\nbyiraa"
+  },
+  "identifier": {
+    "multitree": "bky"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:Bendi**",
+    "subrefs": "\n**hh:hvw:Blench:Bendi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bokyi (bky-bky) = 6a (Vigorous)."
+  }
+}

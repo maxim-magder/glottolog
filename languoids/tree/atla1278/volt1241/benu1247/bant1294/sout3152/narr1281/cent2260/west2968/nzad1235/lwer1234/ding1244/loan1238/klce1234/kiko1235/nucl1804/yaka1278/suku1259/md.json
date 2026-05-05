@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Suku",
+    "hid": "sub",
+    "level": "language",
+    "iso639-3": "sub",
+    "latitude": "-5.76495",
+    "longitude": "17.7736",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Suku](https://grambank.clld.org/languages/suku1259)\n[Suku](https://wals.info/languoid/lect/wals_code_sku)\nhttps://en.wikipedia.org/wiki/Suku_language\nhttps://www.wikidata.org/entity/Q11732666"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:holemans:59**\n**cldf:kopytoff:61**\n**cldf:kopytoff:64**\n**cldf:kopytoff:65**\n**cldf:kopytoff:71**\n**cldf:kopytoff:77**\n**cldf:torday:joyce:06**\n**cldf:vandeginste:47**\n**eballiso2009:13724**\n**eballiso2009:21254**\n**eballiso2009:21256**\n**eballiso2009:21257**\n**eballiso2009:21269**\n**eballiso2009:21714**\n**eballiso2009:25996**\n**eballiso2009:26556**\n**eballiso2009:27581**\n**eballiso2009:30210**\n**eballiso2009:31180**\n**eballiso2009:42506**\n**eballiso2009:42582**\n**eballiso2009:44195**\n**eballiso2009:44866**\n**eballiso2009:45919**\n**eballiso2009:496**\n**eballiso2009:52034**\n**eballiso2009:6922**\n**eballiso2009:9027**\n**hh:e:Lamal:Basuku**\n**hh:g:Piper:Suku**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:he:Plancquaert:Jaga-Bayaka**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvtyp:Diata:Soonde-Suku-Mbala**\n**hh:lde:Lamal:Basuku-Bayaka**\n**hh:s:Mbishi:Suku**\n**hh:styp:Bunkheti:Suku**\n**hh:t:Watuniya:Kwese-Ngongo-Suku**\n**hh:typ:Nsangu:Suku-Laadi**\n**mpieva:Bunkheti1997Recherch**"
+  },
+  "altnames": {
+    "multitree": "\nKisuku\nSuku",
+    "lexvo": "\nSuku [en]",
+    "hhbib_lgcode": "\nBasuku\nH32_Suku\nSuku H32"
+  },
+  "triggers": {
+    "lgcode": "\nkwago\nbasuku\nsuku\ntagebuchern\nkisuku\nfeshi"
+  },
+  "identifier": {
+    "wals": "sku",
+    "multitree": "sub"
+  },
+  "classification": {
+    "sub": "**hh:v:BostoenKoni:Hungan** **hh:hv:deSchryver:Kikongo**:138-145",
+    "subrefs": "\n**hh:v:BostoenKoni:Hungan**\n**hh:hv:deSchryver:Kikongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Suku (sub-sub) = 6a (Vigorous)."
+  }
+}

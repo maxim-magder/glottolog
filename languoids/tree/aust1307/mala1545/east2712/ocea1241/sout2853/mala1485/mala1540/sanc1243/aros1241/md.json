@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Arosi",
+    "hid": "aia",
+    "level": "language",
+    "iso639-3": "aia",
+    "latitude": "-10.2441",
+    "longitude": "161.432",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Arosi](https://grambank.clld.org/languages/aros1241)\n[Arosi](https://wals.info/languoid/lect/wals_code_aro)\n[Arosi (Tawatana Village)](https://lexibank.clld.org/languages/abvdoceanic-ArosiTawatanaVillage)\nhttps://en.wikipedia.org/wiki/Arosi_language\nhttps://www.wikidata.org/entity/Q2863483"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:bellwood:ayres:etal:75**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:fox:24**\n**cldf:hays:91:2**\n**cldf:hays:91:6**\n**cldf:lynch:ross:etal:ed:02:4**\n**cldf:petterson:magu:etal:09**\n**cldf:scott:07**\n**hh:d:Fox:Arosi**\n**hh:d:Fox:Arosi:1970**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Codrington:Wano**\n**hh:s:Capell:Arosi**\n**hh:s:LynchHoroi:Arosi**\n**sil16:16568**"
+  },
+  "altnames": {
+    "wals": "\nArosi",
+    "ruhlen (1987)": "\nArosi",
+    "moseley & asher (1994)": "\nArosi",
+    "lexvo": "\nArosi [en]",
+    "hhbib_lgcode": "\nWango\nWango (Arosi)\nWano"
+  },
+  "triggers": {
+    "lgcode": "\narosi"
+  },
+  "identifier": {
+    "wals": "aro"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arosi (aia-aia) = 4 (Educational)."
+  }
+}

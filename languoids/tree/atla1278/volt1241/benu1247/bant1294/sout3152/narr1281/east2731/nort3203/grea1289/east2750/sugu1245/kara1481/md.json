@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kara (Tanzania)",
+    "hid": "reg",
+    "level": "language",
+    "iso639-3": "reg",
+    "latitude": "-1.83511",
+    "longitude": "33.0488",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6367567\nhttps://en.wikipedia.org/wiki/Kara_language_(Tanzania)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:paulssen:14**\n**cldf:thornton:rounce:36**\n**eballiso2009:28840**\n**eballiso2009:29569**\n**eballiso2009:47981**\n**eballiso2009:50459**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**hh:e:Paterson:Ukara**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:typ:Masatu:Leki**"
+  },
+  "altnames": {
+    "multitree": "\nKara\nRegi",
+    "lexvo": "\nKara (Tanzania) [en]\nKara [en]",
+    "hhbib_lgcode": "\nJE25_Kilegi\nKara\nKiRegi\nLeki\nRegi J20"
+  },
+  "triggers": {
+    "lgcode": "\nudigo\nukara\nwasiba"
+  },
+  "identifier": {
+    "multitree": "reg"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schoenbrun:Great-Lakes-Bantu**, **hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**",
+    "subrefs": "\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kara (reg-reg) = 7 (Shifting)."
+  }
+}

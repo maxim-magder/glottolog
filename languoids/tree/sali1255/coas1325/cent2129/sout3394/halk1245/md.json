@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Halkomelem",
+    "hid": "hur",
+    "level": "language",
+    "iso639-3": "hur",
+    "latitude": "49.250402",
+    "longitude": "-122.443668",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Halkomelem](https://grambank.clld.org/languages/halk1245)\n[Halkomelem](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Halkomelem)\n[Halkomelem (Island)](https://wals.info/languoid/lect/wals_code_hli)\n[Halkomelem (Upriver)](https://wals.info/languoid/lect/wals_code_hlu)\n[Hulʻqʻumiʻnumʻ (Halkomelem)](https://endangeredlanguages.com/lang/2379)\n[Musqueam](https://wals.info/languoid/lect/wals_code_msq)\nhttps://en.wikipedia.org/wiki/Halkomelem\nhttps://phoible.org/languages/halk1245\nhttps://www.wikidata.org/entity/Q35388"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:etal:ed:99**\n**cldf:farrell:92**\n**cldf:gerdts:03**\n**cldf:gerdts:88:1**\n**cldf:gerdts:91**\n**cldf:gerdts:98:2**\n**cldf:gerdts:hinkson:04**\n**cldf:gerdts:hukari:05**\n**cldf:gerdts:kaoru:05**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hinton:munro:ed:98:6**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:wiltschko:01**\n**cldf:wiltschko:02**\n**cldf:wiltschko:03**\n**cldf:wiltschko:04**\n**haspelmath:gerdts_halkomelem_2008**\n**hh:d:Galloway:Upriver-Halkomelem**\n**hh:d:Gerdts:Hulquminum**\n**hh:e:Boas:Snanaimuq**\n**hh:e:Hill-Tout:Salish**\n**hh:es:Hill-Tout:Halkomelem**\n**hh:ew:Wilson:Indian-Tribes**\n**hh:g:Galloway:Chilliwack-Halkomelem**\n**hh:g:Galloway:UpriverHalkomelem**\n**hh:g:Leslie:Cowichan**\n**hh:g:Suttles:Musqueam**\n**hh:hew:Tyloretal:North-Western-Canada**\n**hh:hv:Swadesh:Salish:1950**\n**hh:hw:Scouler:NWCoast**\n**hh:phon:Kava:Cowichan**\n**hh:sd:Hukari:Hulquminum**\n**hh:styp:Gerdts:Halkomelem-Salish**\n**hh:styp:Gerdts:Halkomelem-Salish:1988**\n**hh:typ:Batscher:Hulquminum-Salish**\n**hh:typ:Gerdts:Halkomelem-Salish-Mapping**\n**hh:typ:Thompson:Halkomelem**\n**mpieva:1977Northwes**"
+  },
+  "altnames": {
+    "wals": "\nHalkomelem",
+    "wals other": "\nHalkomelem (Upriver)\nUpriver Halkomelem",
+    "ruhlen (1987)": "\nHalkomelem",
+    "moseley & asher (1994)": "\nHalkomelem",
+    "multitree": "\nHalkomelem\nHalkomelén\nHolkomelem",
+    "lexvo": "\nHalkomelem [de]\nHalkomelem language [en]\nХалкомелем [ru]",
+    "hhbib_lgcode": "\nCowichan\nCowitchan\nFraser Fr\nHulquminum\nKawitchen\nNanaimo Nn\nSnanaimuq",
+    "elcat": "\nHalkomelem\nHalq'eméylem\nHolkomelem\nHul'q'umi'num'\nHulʻqʻumiʻnumʻ (Halkomelem)\nHul’q’umin’um’\nhən̓q̓əmin̓əm"
+  },
+  "triggers": {
+    "lgcode": "\nhalkomelem\ncowichan\nsnanaimuq\nmusqueam"
+  },
+  "identifier": {
+    "wals": "msq;hli;hlu",
+    "multitree": "hur",
+    "endangeredlanguages": "2379"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950**",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hulʻqʻumiʻnumʻ (Halkomelem) (2379-hur) = severely endangered"
+  }
+}

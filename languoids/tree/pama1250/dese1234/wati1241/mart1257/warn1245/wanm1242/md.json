@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Wanman",
+    "hid": "wbt",
+    "level": "language",
+    "iso639-3": "wbt",
+    "latitude": "-22.7078",
+    "longitude": "122.325",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Wanman](https://grambank.clld.org/languages/wanm1242)\n[Wanman](https://wals.info/languoid/lect/wals_code_wbt)\n[Warnman](https://collection.aiatsis.gov.au/austlang/language/a62)\n[Warnman](https://endangeredlanguages.com/lang/2579)\n[Warnman](https://lexibank.clld.org/languages/bowernpny-Warnman)\nhttps://en.wikipedia.org/wiki/Warnman_language\nhttps://phoible.org/languages/wanm1242\nhttps://www.wikidata.org/entity/Q7967989"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:centre:09:19**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:peterson:long:86**\n**cldf:tryon:07**\n**hh:d:Burgman:Warnman**\n**hh:h:Berndt:Western-Desert**\n**hh:hv:Brown:Western-Desert**\n**hh:hwbtyp:SharpThieberger:Bilybara**\n**hh:sd:WMPALC:Warnman**\n**iso6393:2018-063**\n**ozbib:1064**\n**ozbib:1065**\n**ozbib:1408**\n**ozbib:3578**\n**ozbib:4423**\n**ozbib:5178**\n**ozbib:5628**\n**ozbib:5629**\n**ozbib:5631**\n**ozbib:6124**\n**ozbib:856**"
+  },
+  "altnames": {
+    "multitree": "\nMardu\nNanid-jara\nNanidjara\nNenidjara\nNjanidjara\nNyaani\nWanman\nWanmanba\nWanmin\nWarnman\nWarumala",
+    "lexvo": "\nWanman [en]",
+    "elcat": "\nMardu\nNanid-jara\nNanidjara\nNenidjara\nNjanidjara\nNyaani\nWanman\nWanmanba\nWanmin\nWarnman\nWarumala",
+    "aiatsis": "\nBudijarra\nGardujarra\nGiyajarra\nKartudjara\nKeiadjara\nMandjildjara\nManyjilyjarra\nMardu\nNanid jara\nNanidjara\nNenidjara\nNjanidjara\nPotidjara\nWanman\nWanman Wanman\nWanmanba\nWanmin\nWarnman\nWarumala"
+  },
+  "triggers": {
+    "lgcode": "\nwarnman"
+  },
+  "identifier": {
+    "wals": "wbt",
+    "multitree": "wbt",
+    "endangeredlanguages": "2579"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Warnman (2579-wbt) = Severely Endangered (20 percent certain, based on the evidence available) [Centre 2009](cldf:centre:09:19)"
+  }
+}

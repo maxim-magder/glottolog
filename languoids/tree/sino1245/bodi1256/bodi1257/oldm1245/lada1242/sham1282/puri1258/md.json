@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Purik-Sham-Nubra",
+    "hid": "prx",
+    "level": "language",
+    "iso639-3": "prx",
+    "latitude": "34.3386",
+    "longitude": "76.0127",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Purik](https://endangeredlanguages.com/lang/1613)\n[Purik-Sham-Nubra](https://grambank.clld.org/languages/puri1258)\n[Purki](https://wals.info/languoid/lect/wals_code_prk)\nhttps://en.wikipedia.org/wiki/Purgi_language\nhttps://phoible.org/languages/puri1258\nhttps://www.wikidata.org/entity/Q567905"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:sharma:04**\n**hh:gv:Zemp:Kargil**\n**hh:gv:Zemp:Purik**\n**hh:hld:Koshal:Ladakhi**\n**hh:hs:Bailey:Himalaya**\n**hh:hv:Backstrom:Western-Tibetan**\n**hh:hv:Widmer:Western-Himalayas**\n**hh:hvld:Zeisler:Kenhat**\n**hh:hvtyp:Zeisler:Tibetan**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Widmer:West-Himalayish**\n**hh:phon:Zemp:Kargil**\n**hh:s:Qu:Pulike**\n**hh:s:Rangan:Purki**\n**hh:s:Sharma:Purki**\n**hh:vld:Zeisler:West-Tibetan**\n**mpieva:Backstrom1992Language**\n**sil16:32840**"
+  },
+  "altnames": {
+    "wals": "\nPurki",
+    "moseley & asher (1994)": "\nTibetan (Western)",
+    "multitree": "\nBhōṭiā of Purik\nBurig\nBurigskat\nPurig\nPurigskad\nPurik\nPurik Bhotia\nPurki",
+    "lexvo": "\nPurik [en]",
+    "hhbib_lgcode": "\nAranu\nCiktan\nDomkhar\nDras\nGarkhon\nKargil\nKargil in Purik\nKhalatse\nLower Kinnauri\nNubra\nPulike\nPurik\nPurik-Lower Kanauri\nPurikc= Purik-Sham-Nubra\nPurki\nSham\nShamma\nSkindiang\nTeya",
+    "elcat": "\nBhōṭiā of Purik\nBurig\nBurigskat\nPurig\nPurigskad\nPurik\nPurik Bhotia\nPurki"
+  },
+  "triggers": {
+    "lgcode": "\npurki\nkargil"
+  },
+  "identifier": {
+    "wals": "prk",
+    "multitree": "prx",
+    "endangeredlanguages": "1613"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Zeisler:Kenhat**",
+    "subrefs": "\n**hh:hvld:Zeisler:Kenhat**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Purik (1613-prx) = At risk (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

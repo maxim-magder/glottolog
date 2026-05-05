@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kakwa",
+    "hid": "keo",
+    "level": "language",
+    "iso639-3": "keo",
+    "latitude": "3.65233",
+    "longitude": "30.7762",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "SS",
+      "UG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kakwa_language_(Africa)\nhttps://www.wikidata.org/entity/Q3033547"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2628**\n**eballiso2009:59177**\n**hh:e:Loro:Kakwa**\n**hh:h:Ladefogedetal:Uganda**\n**hh:h:Sembiante:Kakwa**\n**hh:hb:Kadima:Congo**\n**hh:hb:Moiso:Haut-Zaire**\n**hh:he:Huntingford:NNilo-Hamites**\n**hh:he:Nalder:Mongalla**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hvw:Vossen:ENilotes**\n**hh:ld:MPCDU:Kakwa**\n**hh:phon:OnzigaGilley:Kakwa**\n**hh:s:Unyutha:Kakwa**\n**hh:typ:Agoro:Kakwa**\n**hh:w:Philips:Kakwa**"
+  },
+  "altnames": {
+    "multitree": "\nBari Kakwa\nKakua\nKakwa\nKakwak\nKwakwak",
+    "lexvo": "\nKakwa [en]",
+    "hhbib_lgcode": "\nKakwa of Gumbari"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND nilotes\nkakuwa"
+  },
+  "identifier": {
+    "multitree": "keo",
+    "languagelandscape": "http://languagelandscape.org/language/Kakwa"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Vossen:ENilotes**",
+    "subrefs": "\n**hh:hvw:Vossen:ENilotes**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kakwa (keo-keo) = 5* (Developing)."
+  }
+}

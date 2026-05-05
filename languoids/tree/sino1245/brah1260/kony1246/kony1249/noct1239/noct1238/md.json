@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nocte Naga",
+    "hid": "njb",
+    "level": "language",
+    "iso639-3": "njb",
+    "latitude": "27.152",
+    "longitude": "95.3903",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Nocte](https://lexibank.clld.org/languages/marrisonnaga-Nocte)\n[Nocte](https://wals.info/languoid/lect/wals_code_noc)\n[Nocte Naga](https://endangeredlanguages.com/lang/5672)\n[Nocte Naga](https://grambank.clld.org/languages/noct1238)\nhttps://en.wikipedia.org/wiki/Nocte_language\nhttps://www.wikidata.org/entity/Q7046410"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:943**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:01:1**\n**hh:d:John:Kaasik**\n**hh:es:Zeite:Kaasiks**\n**hh:g:Boro:Hakhun-Tangsa**\n**hh:he:Saul:Naga-Burma**\n**hh:hew:Grewal:Arunachal**\n**hh:hv:DasGupta:Arunachal**\n**hh:hv:Morey:Tangsa**\n**hh:hv:Shafer:Northernmost-Naga**\n**hh:hvphon:French:Northern-Naga**\n**hh:hvw:Damant:Brahmaputra-Ningtri**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marrison:Naga**\n**hh:ld:Borang:Hawa-Nokte**\n**hh:ld:Borang:Khapa**\n**hh:lde:John:Ollo**\n**hh:s:DasGupta:Nocte**\n**hh:s:Mongchan:Nokte**\n**hh:typ:Mongchan:Nocte**\n**hh:w:Brown:Eastern-Frontier**\n**hh:w:Brown:Naga**\n**hh:w:Butler:Naga-Hills:1875**\n**hh:w:Kumar:Nocte**"
+  },
+  "altnames": {
+    "wals": "\nNocte",
+    "moseley & asher (1994)": "\nNocte",
+    "multitree": "\nBorduria\nJaipuria\nMohongia\nNaga\nNaga, Nocte\nNaga,Nocte\nNamsang\nNamsangia\nNocte\nNokte\nPaniduria",
+    "lexvo": "\nNocte Naga [en]",
+    "hhbib_lgcode": "\nHaidley\nHakhun\nHawa Nocte\nHawa Nokte\nHawa-Nokte\nJaipuriá Nágá\nKaasik\nKhapa\nMohongia\nNaga-Nocte\nNamsang\nNamsang Naga\nNamsang and Bor Duor\nNamsangia\nNgarinman\nNocte\nNocte dialect: Hakhun\nNocte of Borduria-Kaimai-Paniduria\nOllo",
+    "elcat": "\nBorduria\nJaipuria\nMohongia\nNaga\nNamsang\nNamsangia\nNocte\nNocte Naga\nNokte\nPaniduria"
+  },
+  "triggers": {
+    "lgcode": "\nnocte\nmesolanguage"
+  },
+  "identifier": {
+    "wals": "noc",
+    "multitree": "njb",
+    "endangeredlanguages": "5672"
+  },
+  "classification": {
+    "sub": "**hh:hvld:vanDam:Tangsa-Nocte**:88-94 **hh:hv:vanDam:Patkaian** **hh:hv:vanDam:Patkaian-Northern-Naga**",
+    "subrefs": "\n**hh:hv:vanDam:Patkaian-Northern-Naga**\n**hh:hvld:vanDam:Tangsa-Nocte**\n**hh:hv:vanDam:Patkaian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nocte Naga (5672-njb) = Threatened (80 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

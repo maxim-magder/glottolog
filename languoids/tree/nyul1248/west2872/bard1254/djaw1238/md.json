@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Djawi",
+    "hid": "djw",
+    "level": "language",
+    "iso639-3": "djw",
+    "latitude": "-16.4163",
+    "longitude": "123.186",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Jawi](https://endangeredlanguages.com/lang/4090)\nhttps://www.wikidata.org/entity/Q3913844\nhttps://en.wikipedia.org/wiki/Jawi_dialect\nhttps://phoible.org/languages/djaw1238",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:harrison:07**\n**cldf:bowern:11:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:b:Bowern:Bardi**\n**hh:e:Bird:Buccaneer**\n**hh:hv:CapellElkin:Kimberley**\n**hh:hvw:Capell:NWAustralia**\n**hh:hvw:McGregor:NekesWorms**\n**hh:w:Bird:Chowie**\n**hh:w:Bird:Chowie:1910**\n**mpieva:MacGregor1996Studiesi**"
+  },
+  "altnames": {
+    "multitree": "\nChowie\nDjaoi\nDjau\nDjaui\nDjawi\nDyao\nDyawi\nEwanji\nEwenu\nEwenyoon\nEwenyun\nI:wanja\nJarrau\nJawi\nTohau-i\nTohawi\nTowahi",
+    "lexvo": "\nDjawi [en]\nJawi dialect [en]\nLenga djawi [pms]",
+    "hhbib_lgcode": "\nChowie\nDjaui (Chowie)\nEwenu\nJauor\nJawi",
+    "elcat": "\nChowie\nDjaoi\nDjau\nDjaui\nDjawi\nDyao\nDyawi\nEwanji\nEwenu\nEwenyoon\nEwenyun\nI:wanja\nJarrau\nJawi\nTohau-i\nTohawi\nTowahi"
+  },
+  "triggers": {
+    "lgcode": "\ncoate"
+  },
+  "identifier": {
+    "multitree": "djw",
+    "endangeredlanguages": "4090"
+  },
+  "classification": {
+    "sub": "**hh:hv:StokesMcGregor:Nyulnyulan**, **hh:vld:Bowern:Nyulnyulan**",
+    "subrefs": "\n**hh:vld:Bowern:Nyulnyulan**\n**hh:hv:StokesMcGregor:Nyulnyulan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Djawi (djw-djw) = 10 (Extinct)."
+  }
+}

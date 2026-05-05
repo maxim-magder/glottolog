@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tetum",
+    "hid": "tet",
+    "level": "language",
+    "iso639-3": "tet",
+    "latitude": "-9.11217",
+    "longitude": "125.528",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "TL"
+    ],
+    "links": "\n[Tetum](https://grambank.clld.org/languages/tetu1245)\n[Tetun](https://wals.info/languoid/lect/wals_code_ttn)\nhttps://en.wikipedia.org/wiki/Tetum_language\nhttps://phoible.org/languages/tetu1245\nhttps://www.wikidata.org/entity/Q34125"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arenas:98**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:bouma:ling:etal:ed:10**\n**cldf:calculator:14**\n**cldf:fox:03**\n**cldf:fox:96**\n**cldf:hicks:04**\n**cldf:hicks:72**\n**cldf:hockings:93**\n**cldf:hull:03:1**\n**cldf:jones:03:1**\n**cldf:keesing:84:2**\n**cldf:np:10:7**\n**cldf:np:14:5**\n**cldf:ormeling:57**\n**cldf:pedersen:arneberg:99**\n**cldf:ramos-horta:12**\n**cldf:taryono:rusmadji:etal:93**\n**cldf:vanklinken:00**\n**cldf:vanklinken:97**\n**hh:d:Hull:Tetum**\n**hh:d:Mendes:Tetum**\n**hh:d:Monteiro:Tetun**\n**hh:d:Morris:Tetun**\n**hh:d:NA:Tetun**\n**hh:d:Williams:Tetun**\n**hh:d:dasDores:Teto**\n**hh:e:Nuryahman:Tetun**\n**hh:e:Vroklage:Belu**\n**hh:g:Hull:Tetun**\n**hh:g:HullEccles:Tetum**\n**hh:g:vanKlinken:Fehan**\n**hh:gvsoc:Greksakova:Tetun**\n**hh:hvtyp:Hull:Timoric**\n**hh:hvw:Capell:Timor**\n**hh:s:Costa:Tetum**\n**hh:s:Fernandes:Tetum**\n**hh:s:Mathijsen:Tettum**\n**hh:s:Taryono:Tetum**\n**hh:s:Troeboes:Tetum**\n**hh:s:Troeboes:Tetun**\n**hh:s:vanEngelenhoven:Tetun**\n**hh:wt:Wortelboer:Belu**\n**langsci:capell:44**\n**mpieva:Loch2005KleinesW**"
+  },
+  "altnames": {
+    "wals": "\nTetun",
+    "wals other": "\nFehan\nTetum\nTetun (Fehan)",
+    "ruhlen (1987)": "\nTetun",
+    "moseley & asher (1994)": "\nTetun",
+    "multitree": "\nBelo\nBelu\nFehan\nTeto\nTettum\nTetu\nTetum\nTetun\nTetun Belu\nTetung",
+    "lexvo": "\nBahasa Tetum [ms]\nBahasa Tetun [id]\nBasa Tetun [jv]\nIdioma tetun [es]\nLenga Tetun [pms]\nLia-tetun [tet]\nLingua tetum [it]\nTetum [cs]\nTetum kalba [lt]\nTetuma lingvo [eo]\nTetumin kieli [fi]\nTetun [nl]\nTetunu valoda [lv]\nTetwm [cy]\nTétoum [fr]\nTétum [pt]\ntetum [fr]\nТетум [ru]\nТетун [bg]\nภาษาเตตุม [th]\nテトゥン語 [ja]\n德顿语 [zh]\n테툼어 [ko]",
+    "hhbib_lgcode": "\nBelu\nTeto\nTetun"
+  },
+  "triggers": {
+    "lgcode": "\ntetum\ntettum\ntetun\nfehan\nbelu"
+  },
+  "identifier": {
+    "wals": "ttn;ttd",
+    "multitree": "tet"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:188-194",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tetun (tet-tet) = 5* (Developing). De facto language of national identity."
+  }
+}

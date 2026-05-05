@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Lepontic",
+    "hid": "xlp",
+    "level": "language",
+    "iso639-3": "xlp",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CH"
+    ],
+    "longitude": "8.92",
+    "latitude": "45.98",
+    "links": "\nhttps://www.wikidata.org/entity/Q35993\nhttps://en.wikipedia.org/wiki/Lepontic_language",
+    "timespan": "-0550-01-01/-0100-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:EskaEvans:Continental-Celtic**\n**hh:v:Eska:Lepontic**\n**hh:v:Uhlich:Lepontic**\n**hh:w:Lejeune:Lepontica**"
+  },
+  "altnames": {
+    "lexvo": "\nLepontic [en]"
+  },
+  "triggers": {
+    "lgcode": "\nlepontic\nlepontica"
+  },
+  "classification": {
+    "sub": "**hh:hv:Eska:Celtic:2017**",
+    "subrefs": "\n**hh:hv:Eska:Celtic:2017**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Lepontic (xlp-xlp) = 10 (Extinct)."
+  }
+}

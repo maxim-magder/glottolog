@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Portuguese Sign Language",
+    "hid": "psr",
+    "level": "language",
+    "iso639-3": "psr",
+    "latitude": "38.5474",
+    "longitude": "-8.53355",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PT"
+    ],
+    "links": "\n[Portuguese Sign Language](https://endangeredlanguages.com/lang/7358)\nhttps://www.wikidata.org/entity/Q3915472\nhttps://en.wikipedia.org/wiki/Portuguese_Sign_Language\n[Língua Gestual Portuguesa](https://wals.info/languoid/lect/wals_code_lgp)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:amaral:martins:94**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:d:Baltazar:Gestual-Portuguesa**\n**hh:s:Amaral:Gestual-Portuguesa**\n**hh:vw:Brudzewski:Portugal-Sign**"
+  },
+  "altnames": {
+    "wals": "\nLíngua Gestual Portuguesa",
+    "multitree": "\nLingua Gestual Portuguesa\nPortuguese Sign Language",
+    "lexvo": "\nPortuguese Sign Language [en]",
+    "elcat": "\nLingua Gestual Portuguesa\nPortuguese Sign Language",
+    "hhbib_lgcode": "\nPortuguese Sign Language (LGP)"
+  },
+  "identifier": {
+    "wals": "lgp",
+    "multitree": "psr",
+    "endangeredlanguages": "7358"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Portuguese Sign Language (7358-psr) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "Although there is a historical connection to 19th century Swedish Sign language (**hh:h:Woll:Global-Sign**):29, visible at least in the fingerspelling alphabet, lexical comparison shows that Portuguese Sign Language does not belong to the Swedish Sign language family (**hh:vw:Brudzewski:Portugal-Sign**).",
+    "subrefs": "\n**hh:vw:Brudzewski:Portugal-Sign**\n**hh:h:Woll:Global-Sign**"
+  }
+}

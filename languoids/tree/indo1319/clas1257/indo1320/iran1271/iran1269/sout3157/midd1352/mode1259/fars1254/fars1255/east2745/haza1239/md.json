@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Hazaragi",
+    "hid": "haz",
+    "level": "language",
+    "iso639-3": "haz",
+    "latitude": "33.3708",
+    "longitude": "64.5105",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "IR",
+      "PK",
+      "TJ"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Hazaragi_dialects\nhttps://www.wikidata.org/entity/Q33398"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bacon:58**\n**cldf:hudson:bacon:41**\n**cldf:schurmann:62**\n**cldf:wilber:ed:56**\n**hh:d:MalistaniGehring:Hazaragi**\n**hh:d:Shahrestani:Hazaragi**\n**hh:e:Canfield:Hazara**\n**hh:e:Thesiger:Hazaras**\n**hh:hld:RogovaRomanova:Iranskie**\n**hh:s:Dulling:Hazaragi**\n**hh:s:Efimov:Chazara**\n**hh:s:Efimov:Xazara**\n**hh:s:Efimov:Xazara:2008**\n**hh:v:typ:Mohammadi-Shari:Hazaragi**\n**mpieva:Efimov1965Jazykafg**\n**sil16:47747**"
+  },
+  "altnames": {
+    "multitree": "\nAzargi\nHazara\nHazaragi\nHazaras\nHezare'I\nHezareh",
+    "lexvo": "\nHazara [fr]\nHazaraga lingvo [eo]\nHazarageg [br]\nHazaragi [de]\nHazaragi language [en]\nIdioma hazara [es]\nLíngua hazaragi [pt]\nگویش هزارگی [fa]\nภาษาฮาซารากี [th]\n哈扎拉吉語 [zh]\n하자라어 [ko]",
+    "hhbib_lgcode": "\nHazara\nKhazara\nXazara"
+  },
+  "triggers": {
+    "lgcode": "\nchazara\nmilli\nafganskich\nafsanah\njakaulangskij\nhazaragi"
+  },
+  "identifier": {
+    "multitree": "haz"
+  },
+  "classification": {
+    "sub": "**hh:h:Kieffer:Afghanistan**",
+    "subrefs": "\n**hh:h:Kieffer:Afghanistan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hazaragi (haz-haz) = 5 (Developing)."
+  }
+}

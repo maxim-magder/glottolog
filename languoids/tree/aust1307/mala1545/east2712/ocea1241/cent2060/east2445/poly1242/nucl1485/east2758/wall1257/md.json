@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "East Uvean",
+    "hid": "wls",
+    "level": "language",
+    "iso639-3": "wls",
+    "latitude": "-13.2903",
+    "longitude": "-176.207",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FR",
+      "WF"
+    ],
+    "links": "\n[East Uvean](https://endangeredlanguages.com/lang/11041)\n[East Uvean](https://grambank.clld.org/languages/wall1257)\n[Uvea, East](https://lexibank.clld.org/languages/abvdoceanic-UveaEast)\n[Wallisian](https://wals.info/languoid/lect/wals_code_wll)\n[Wallisian_258](https://lexibank.clld.org/languages/walworthpolynesian-Wallisian)\nhttps://en.wikipedia.org/wiki/Wallisian_language\nhttps://www.wikidata.org/entity/Q36979"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blust:07:2**\n**cldf:bril:ozanne-rivierre:ed:04:2**\n**cldf:burrows:37**\n**cldf:burrows:71**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:moyse-faurie:00:2**\n**cldf:np:14:5**\n**hh:d:Murcia:Wallisien**\n**hh:d:Rensch:Wallis**\n**hh:d:Rensch:Wallisien**\n**hh:e:Bouge:Wallis**\n**hh:g:Livingston:East-Uvean**\n**hh:g:Moyse-Faurie:Wallisien**\n**hh:htyp:Gabelentz:Melanesischen:2**\n**hh:hv:Biggs:Uvean**\n**hh:hvw:Ray:Polynesian**\n**hh:s:Rensch:Wallis**\n**hh:s:Rensch:Wallisien**\n**hh:sd:Bataillon:Wallis**\n**hh:t:Rensch:Fagana**\n**hh:typ:Moyse-Faurie:East-Uvean**\n**hh:typ:Nguyen:Wallisien**\n**hh:w:Rensch:Wallis**\n**mpieva:2004Complexp**"
+  },
+  "altnames": {
+    "wals": "\nWallisian",
+    "wals other": "\nE Uvea\nE. Uvea\nEast Uvea\nUvea (East)\nWallisien",
+    "ruhlen (1987)": "\nUvea (East)",
+    "moseley & asher (1994)": "\nUvea (East)",
+    "multitree": "\nEast Uvean\nUvea\nUvean\nWallisian\nWallisien",
+    "lexvo": "\nIdioma walisiano [es]\nLingua wallisiana [it]\nLíngua wallisiana [pt]\nValiski jezik [sh]\nWallisian [en]\nWallisian language [en]\nWallisianische Sprache [de]\nWallisien [fr]\nWallisià [ca]\nУоллисский язык [ru]",
+    "hhbib_lgcode": "\nUea\nUvea\nWallis\nWallis Is.\nWallisian",
+    "elcat": "\n'Uvea\nEast Uvean\nFaka 'Uvea"
+  },
+  "triggers": {
+    "lgcode": "\nuvea\nboundness\nwallisien\nuvean\nfakauvea"
+  },
+  "identifier": {
+    "wals": "wll",
+    "multitree": "wls"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian** **hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wallisian (wls-wls) = 5 (Developing). De facto language of provincial identity in Wallis (Uvea) Island."
+  }
+}

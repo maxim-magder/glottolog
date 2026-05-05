@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southwestern Guiyang Hmong",
+    "hid": "hmg",
+    "level": "language",
+    "iso639-3": "hmg",
+    "latitude": "26.1803",
+    "longitude": "106.003",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q27478542"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Johnson:Far-Western-Hmongic**\n**hh:hv:Lietal:Miaoyu**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:phon:Chang:Yi-Miao**\n**hh:t:CWN:Miaozu**\n**iso6393:2007-123**"
+  },
+  "altnames": {
+    "multitree": "\nHmo\nHmong\nHmong, Southwestern Guiyang\nHmung\nHsiung\nHunan Miao\nMiao\nSouthwestern Guiyang Hmong\nSouthwestern Guiyang Miao",
+    "lexvo": "\nSouthwestern Guiyang Hmong [en]",
+    "hhbib_lgcode": "\nA-Meu dialect spoken in Qingzhen country in Guizhou\nChangshun Yi Miao\nGezheng\nGuiyang SW\nHei Miao in Guizhou from Ke-Cheng Chai in Kwang-Shun district\nKe-Cheng\nKwang-Shun\nQingzhen\nTuanpo\nWestern Guiyang\nYi Miao\nZhongba"
+  },
+  "triggers": {
+    "lgcode": "\nmiaozu\nzuzhuge\nshier"
+  },
+  "identifier": {
+    "multitree": "hmg"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Niederer:Hmong-Mjen** **hh:hv:Johnson:Far-Western-Hmongic**",
+    "subrefs": "\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:hv:Johnson:Far-Western-Hmongic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miao, Southwestern Guiyang (hmg-hmg) = 6a* (Vigorous). Language of recognized nationality: Miao."
+  }
+}

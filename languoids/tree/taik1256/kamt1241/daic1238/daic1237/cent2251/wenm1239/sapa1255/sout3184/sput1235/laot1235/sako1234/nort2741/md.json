@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northeastern Thai",
+    "hid": "tts",
+    "level": "language",
+    "iso639-3": "tts",
+    "latitude": "16.03",
+    "longitude": "103.67",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "LA",
+      "TH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Isan_language\nhttps://phoible.org/languages/nort2741\nhttps://www.wikidata.org/entity/Q33417"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Ovesen:Central-Laos**\n**hh:g:Kongsin:Northeastern-Thai**\n**hh:h:Ratanakul:Tai**\n**hh:he:Schliesinger:Austro-Asiatic:Laos**\n**hh:he:Schliesinger:Tai-Thailand**\n**hh:hew:Anonymous:Nakai**\n**hh:hv:Chamberlain:Tai-Khammouan**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hw:Hudak:Tai**\n**hh:phon:Buasri:Srisakes**\n**hh:phon:Silagool:Northeastern-Thai**\n**hh:phon:Thisapong:Kaloeng**\n**hh:phonv:Nichsungich:North-Eastern-Thai**\n**hh:phonwsoc:Promkandorn:Isan**\n**hh:s:Paiboonwangcharoen:Nakhonthai**\n**hh:ssoc:Palikupt:Thai**\n**hh:v:Luksanawong:Kaloong**\n**hh:v:Thananan:Sakon-Nakhon**\n**hh:v:Wirat:Northeastern-Thai**\n**hh:w:Burusphat:Zhuang-Dong**"
+  },
+  "altnames": {
+    "multitree": "\nIsaan\nIsan\nIssan\nKaleung\nKha Lu'ng\nKha Lung\nKha-Lɯɱ\nThai Isaan\nThai, Northeastern",
+    "lexvo": "\nIsaan [de]\nIsan language [en]\nIsaneg [br]\nIsarna lingvo [eo]\nNortheastern Thai [en]\nИсански език [bg]\nภาษาไทยถิ่นอีสาน [th]\nイーサーン語 [ja]\n이싼어 [ko]",
+    "hhbib_lgcode": "\nI-san\nIsan of Rongsan\nKaleung\nKaloeng\nKalööng\nLao Kaleung\nNE Tai\nNakhon Phanom\nNortheastern Tai\nPhannananikom\nRoi Et\nThai-Nangrong\nThai-Northeastern\nUbon\nUdon\nWaritchaphum"
+  },
+  "triggers": {
+    "lgcode": "\nnakhonthai\nverions\nthi\nsidhom\nmafai\nloeng"
+  },
+  "identifier": {
+    "multitree": "tts"
+  },
+  "classification": {
+    "sub": "**hh:v:Thananan:Sakon-Nakhon**",
+    "subrefs": "\n**hh:v:Thananan:Sakon-Nakhon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Thai, Northeastern (tts-tts) = 5 (Developing). De facto language of provincial identity in east, northeast provinces."
+  }
+}

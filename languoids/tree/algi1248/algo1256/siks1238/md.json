@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Siksika",
+    "hid": "bla",
+    "level": "language",
+    "iso639-3": "bla",
+    "latitude": "49.0669",
+    "longitude": "-113.109",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Blackfoot](https://wals.info/languoid/lect/wals_code_bla)\n[Niitsipowahsin](https://endangeredlanguages.com/lang/1677)\n[Siksika](https://grambank.clld.org/languages/siks1238)\nhttps://en.wikipedia.org/wiki/Blackfoot_language\nhttps://phoible.org/languages/siks1238\nhttps://www.wikidata.org/entity/Q33060"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1399**\n**cldf:baldwin:94**\n**cldf:bliss:05**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:frantz:19**\n**cldf:frantz:71**\n**cldf:frantz:russell:17**\n**cldf:frantz:russell:89**\n**cldf:frantz:russell:95**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:miyashita:mizuki:etal:15**\n**cldf:moseley:07**\n**cldf:nichols:ed:00:5**\n**cldf:np:nd:264**\n**cldf:pentland:ed:95:3**\n**cldf:prins:19**\n**cldf:proulx:89**\n**cldf:pustet:95**\n**cldf:uhlenbeck:38**\n**haspelmath:berman_blackfoot_2007**\n**hh:e:Dempsey:Blackfoot**\n**hh:e:Kehoe:Blackfoot**\n**hh:g:Frantz:Blackfoot**\n**hh:g:Tailfeathers:Blackfoot**\n**hh:g:Taylor:Blackfoot**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Hayden:Missouri**\n**hh:hw:Howse:NAmerican**\n**hh:phon:Lowery:Blackfoot**\n**hh:phon:vanderMark:Blackfoot**\n**hh:s:Frantz:Blackfoot**\n**hh:s:Frantz:Blackfoot:1971**\n**hh:s:Holterman:Blackfoot**\n**hh:s:Maclean:Blackfoot**\n**hh:sd:Tims:Blackfoot**\n**hh:styp:Armoskaite:Blackfoot-Lithuanian**\n**hh:typ:Bliss:Blackfoot**\n**hh:typ:Denzer-King:Blackfoot**\n**hh:typ:Louie:Blackfoot**\n**hh:typ:Uhlenbeck:Blackfoot**\n**hh:v:Taylor:Blackfoot**\n**hh:w:Schoolcraft:Vocabularies:1852**\n**mpieva:Frantz2004Blackfoo**\n**mpieva:Josselin1914Blackfoo**\n**mpieva:Uhlenbeck1912Anewseri**\n**mpieva:Uhlenbeck1920Asurveyo**\n**mpieva:Uhlenbeck1930AnEnglis**\n**mpieva:Uhlenbeck1938Aconcise**\n**sil16:10750**\n**sil16:10751**\n**sil16:10761**\n**sil16:10763**\n**sil16:10764**\n**sil16:13112**\n**sil16:13113**\n**sil16:15687**\n**sil16:15722**\n**sil16:15723**\n**sil16:15724**\n**sil16:15725**\n**sil16:15727**\n**sil16:15729**\n**sil16:15730**\n**sil16:15732**\n**sil16:19768**\n**sil16:43393**"
+  },
+  "altnames": {
+    "wals": "\nBlackfoot",
+    "wals other": "\nBlackfeet\nPikanii",
+    "ruhlen (1987)": "\nBlackfoot",
+    "moseley & asher (1994)": "\nBlackfoot",
+    "multitree": "\nBlackfeet\nBlackfoot\nPied-noir (Canada)\nPied-noir (États-Unis d'Amérique)\nPies negros (Estados Unidos)\nPikanii\nSiksika\nSiksika Cluster",
+    "lexvo": "\nBlackfoot language [en]\nBlackfoot-Sprache [de]\nBlackfoot-språket [nn]\nJęzyk siksika [pl]\nMustajalka [fi]\nNigrapieda lingvo [eo]\nPied-noir [fr]\nPikanieg [br]\nSiksika [en]\nblackfoot [fr]\nБлэкфут [ru]\nอักษรแบล็กฟุต [th]\n블랙풋어 [ko]",
+    "hhbib_lgcode": "\n2xBlackfoot\nBlackfoot\nSatsika or Blackfoot",
+    "elcat": "\nBlackfeet\nBlackfoot\nNiitsi'powahsin\nNiitsipowahsin\nPiikani\nPikuni\nSiksika\nSiksika Cluster\nᓱᖽᐧᖿ\nブラックフット語"
+  },
+  "triggers": {
+    "lgcode": "\nblackfoot\ndownstairs"
+  },
+  "identifier": {
+    "wals": "bla",
+    "multitree": "blft;bla",
+    "endangeredlanguages": "1677"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California** **hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:hvb:Golla:California**\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Niitsipowahsin (1677-bla) = Severely Endangered (100 percent certain, based on the evidence available) (Significant revitalization efforts are underway, including culture and language instruction at public schools and colleges: Cuts Wood School (Browning, MT), Blackfeet Community College, University of Montana, University of Lethbridge, Red Crow College. (Prins, 2019)) [Prins 2019](cldf:prins:19)"
+  }
+}

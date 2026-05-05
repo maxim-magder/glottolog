@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Edolo",
+    "hid": "etr",
+    "level": "language",
+    "iso639-3": "etr",
+    "latitude": "-6.11618",
+    "longitude": "142.65",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Edolo](https://wals.info/languoid/lect/wals_code_edo)\nhttps://en.wikipedia.org/wiki/Edolo_language\nhttps://www.wikidata.org/entity/Q5340184"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4982**\n**hh:e:Dwyer:Edolo**\n**hh:e:Kelly:Etoro**\n**hh:hvw:Shaw:Bosavi**\n**hh:phon:Gossner:Edolo**\n**hh:s:Gossner:Edolo**\n**hh:typt:Miller:Edolo**\n**sil16:35823**\n**sil16:41060**\n**silpng:silpng1991-2000:521**\n**silpng:silpng1991-2000:522**\n**silpng:silpng1991-2000:523**\n**silpng:silpng1991-2000:524**\n**silpng:silpng1991-2000:525**\n**silpng:silpng1991-2000:526**\n**silpng:silpng2001-2003:348**\n**silpng:silpng2004:14**"
+  },
+  "altnames": {
+    "wals": "\nEdolo",
+    "ruhlen (1987)": "\nBeami",
+    "moseley & asher (1994)": "\nBeami",
+    "multitree": "\nEdolo\nEdolo Ado\nEtolo\nEtoro\nTomu\nToro",
+    "lexvo": "\nEdolo [en]",
+    "hhbib_lgcode": "\nEtoro\nEtruscan"
+  },
+  "triggers": {
+    "lgcode": "\ndedelo\nedolo\nolelo\netoro"
+  },
+  "identifier": {
+    "wals": "edo",
+    "multitree": "etr"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shaw:Bosavi**",
+    "subrefs": "\n**hh:hvw:Shaw:Bosavi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Edolo (etr-etr) = 5 (Developing)."
+  }
+}

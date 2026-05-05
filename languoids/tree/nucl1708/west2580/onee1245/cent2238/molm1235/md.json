@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Molmo One",
+    "hid": "aun",
+    "level": "language",
+    "iso639-3": "aun",
+    "latitude": "-3.38127",
+    "longitude": "141.806",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[One](https://endangeredlanguages.com/lang/10539)\nhttps://www.wikidata.org/entity/Q12637224\n[One](https://wals.info/languoid/lect/wals_code_one)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Sikaleetal:One**\n**hh:hvw:Crowther:WWapei**\n**hh:s:Crowther:Molmo-One**\n**hh:typ:Donohue:One-Phrase**"
+  },
+  "altnames": {
+    "wals": "\nOne",
+    "ruhlen (1987)": "\nOne",
+    "moseley & asher (1994)": "\nOne",
+    "multitree": "\nAunalei\nMolmo\nOne\nOne, Molmo\nOnele\nOni",
+    "lexvo": "\nMolmo One [en]",
+    "hhbib_lgcode": "\nBu\nBuguma\nMo\nMolmo\nOne Molmo\nWo\nWondu",
+    "elcat": "\nAunalei\nInebu One\nKabore One\nKuamtim\nKwamtim One\nMolmo One\nNorthern One\nOne\nOnele\nOni\nSouthern One"
+  },
+  "triggers": {
+    "lgcode": "\npalla\nmolmo"
+  },
+  "identifier": {
+    "wals": "one",
+    "multitree": "aun",
+    "endangeredlanguages": "10539"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Crowther:WWapei**",
+    "subrefs": "\n**hh:hvw:Crowther:WWapei**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "One (10539) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

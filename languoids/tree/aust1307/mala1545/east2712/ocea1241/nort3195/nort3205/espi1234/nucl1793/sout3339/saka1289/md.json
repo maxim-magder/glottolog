@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Wanohe",
+    "hid": "sku",
+    "level": "language",
+    "iso639-3": "sku",
+    "latitude": "-15.0757",
+    "longitude": "167.051",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Sakao](https://wals.info/languoid/lect/wals_code_sak)\n[Sakao (Port-Olry)](https://lexibank.clld.org/languages/abvdoceanic-SakaoPortOlry)\n[Wanohe](https://grambank.clld.org/languages/saka1289)\nhttps://en.wikipedia.org/wiki/Sakao_language\nhttps://www.wikidata.org/entity/Q3298421"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:337**\n**cldf:guy:74:1**\n**cldf:lynch:ross:etal:ed:02:21**\n**hh:g:Touati:Sakao**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Crowley:Sakao**\n**hh:s:Guy:Sakao**\n**hh:s:Guy:Sakao:1972**\n**hh:typ:Meyerhoff:Nkep**\n**mpieva:Guy1974Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nSakao",
+    "wals other": "\nSakau",
+    "ruhlen (1987)": "\nSakao",
+    "moseley & asher (1994)": "\nSakao",
+    "multitree": "\nHog Harbour\nSakao\nSakau\nSanto",
+    "lexvo": "\nSakao [en]\nSakao language [en]",
+    "glottolog": "\nN'kep",
+    "hhbib_lgcode": "\nHog Harbour\nN'Kep\nN'kep\nNekep\nNkep\nSakao"
+  },
+  "triggers": {
+    "lgcode": "\nsakao"
+  },
+  "identifier": {
+    "wals": "sak",
+    "multitree": "sku",
+    "endangeredlanguages": "1462"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "N’kep (sku-sku) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gudu",
+    "hid": "gdu",
+    "level": "language",
+    "iso639-3": "gdu",
+    "latitude": "10.1206",
+    "longitude": "12.5359",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Gudu](https://lexibank.clld.org/languages/kraftchadic-Gudu)\nhttps://en.wikipedia.org/wiki/Gudu_language\nhttps://www.wikidata.org/entity/Q3441172"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3579**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hew:Meek:Tribal:I**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:III**"
+  },
+  "altnames": {
+    "multitree": "\nGombi\nGudo\nGudu\nGutu",
+    "lexvo": "\nGudu [en]\nGudu language [en]",
+    "hhbib_lgcode": "\nKumbi Gudu"
+  },
+  "triggers": {
+    "lgcode": "\niii AND biu"
+  },
+  "identifier": {
+    "multitree": "gdu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:47-48 **hh:hv:BarreteauDieu:ENCameroun**:65-66",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**\n**hh:hv:BarreteauDieu:ENCameroun**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gudu (gdu-gdu) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ternateño",
+    "hid": "tmg",
+    "level": "language",
+    "iso639-3": "tmg",
+    "latitude": "14.28",
+    "longitude": "120.72",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Ternate Chabacano](https://apics-online.info/contributions/44)\nhttps://en.wikipedia.org/wiki/Portugis\nhttps://www.wikidata.org/entity/Q7232597",
+    "timespan": "1950-01-01/1950-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:molony:73**\n**cldf:nigoza:07**\n**cldf:sippola:06**\n**cldf:sippola:10**\n**cldf:vibar:navarro:06**\n**hh:g:Sippola:Chabacano**\n**hh:ht:Whinnom:Spanish-Philippine**\n**hh:s:Sippola:Ternate**\n**hh:s:Steinkruger:Ternateno**\n**hh:soc:LeshoSippola:Chabacano**\n**hh:t:Tirona:Ternate**\n**hh:v:Steinkruger:Chabacano**"
+  },
+  "altnames": {
+    "glottolog": "\nTernateno",
+    "multitree": "\nTernatenyo\nTernateño",
+    "lexvo": "\nPortugis language [en]\nTernateño [en]",
+    "hhbib_lgcode": "\nPortuguese Pidgin and Ternateño\nTernate\nTernateno"
+  },
+  "triggers": {
+    "lgcode": "\nternateno"
+  },
+  "identifier": {
+    "multitree": "tmg"
+  },
+  "classification": {
+    "subrefs": "\n**hh:g:Sippola:Chabacano**",
+    "sub": "**hh:g:Sippola:Chabacano**:25-27"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ternateño (tmg-tmg) = 10 (Extinct)."
+  }
+}

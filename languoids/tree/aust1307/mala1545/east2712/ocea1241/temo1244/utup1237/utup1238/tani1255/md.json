@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Tanimbili",
+    "hid": "tbe",
+    "level": "language",
+    "iso639-3": "tbe",
+    "latitude": "-11.2975",
+    "longitude": "166.507",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Tanimbili](https://endangeredlanguages.com/lang/3003)\n[Tanimbili](https://lexibank.clld.org/languages/abvdoceanic-Tanimbili)\nhttps://en.wikipedia.org/wiki/Tanimbili_language\nhttps://www.wikidata.org/entity/Q3515188"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:tryon:hackman:83**\n**hh:hvw:TryonHackman:Solomon**"
+  },
+  "altnames": {
+    "multitree": "\nNyisunggu\nTanimbili",
+    "lexvo": "\nTanimbili [en]",
+    "elcat": "\nNyisunggu\nTanimbili"
+  },
+  "identifier": {
+    "multitree": "tbe",
+    "endangeredlanguages": "3003"
+  },
+  "classification": {
+    "sub": "**hh:hv:RossNaess:Temotu**, **hh:hv:NaessBoerger:RSC**, **hh:hvs:Francois:Vanikoro**",
+    "subrefs": "\n**hh:hv:RossNaess:Temotu**\n**hh:hv:NaessBoerger:RSC**\n**hh:hvs:Francois:Vanikoro**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tanimbili (3003-tbe) = Severely Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

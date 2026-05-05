@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Suundi",
+    "hid": "sdj",
+    "level": "language",
+    "iso639-3": "sdj",
+    "latitude": "-4.58488",
+    "longitude": "13.3212",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "CD",
+      "CG"
+    ],
+    "links": "\n[Suundi](https://lexibank.clld.org/languages/polyglottaafricana-Suundi)\nhttps://en.wikipedia.org/wiki/Suundi_language\nhttps://www.wikidata.org/entity/Q7650407"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Baka:Kisuundi**\n**hh:e:Palmaer:Basundi**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:hb:Leblanc:Congo**\n**hh:he:Soret:Kongo-Nord-Occidentaux**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mabiala:Kongo**\n**hh:hv:deSchryver:Kikongo**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Futi:Cisuundi**\n**hh:s:NLandu:Kisuundi**\n**hh:typ:Nkombo:Sundi**"
+  },
+  "altnames": {
+    "multitree": "\nKisuundi\nSuundi\nSuundi de Kimongo",
+    "lexvo": "\nSuundi [en]",
+    "hhbib_lgcode": "\nBasunde\nBasundi\nCentral Kisuundi\nCisuundi\nH131 Kisundi Congo Boko\nH131 Kisundi Congo Kimongo\nH131_Kisundi_Congo_Kimongo_1988\nKisuundi\nSunde\nSundi\nSundi 1 Kimongo H16I\nSundi 2 Mboko-Songo H16I\nSundi 4 Boko H16I\nSundi H16c"
+  },
+  "triggers": {
+    "lgcode": "\nkisuundi\nh13b"
+  },
+  "identifier": {
+    "multitree": "sdj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:177-179, 182-184, 190-191 **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Bostoen:Aire-Kongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Suundi (sdj-sdj) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Amundava",
+    "hid": "adw",
+    "level": "language",
+    "iso639-3": "adw",
+    "latitude": "-9.04023",
+    "longitude": "-62.3064",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Amonda](https://lexibank.clld.org/languages/gerarditupi-Amonda)\nhttps://en.wikipedia.org/wiki/Amondawa_dialect\nhttps://phoible.org/languages/amun1246\nhttps://www.wikidata.org/entity/Q12626847"
+  },
+  "sources": {
+    "glottolog": "\n**elpub:ldd2549**\n**fabreall2009ann:Tupi_amundawa0**\n**fabreall2009ann:Tupi_amundawa1**\n**fabreall2009ann:Tupi_amundawa2**\n**fabreall2009ann:Tupi_amundawa3**\n**fabreall2009ann:Tupi_amundawa4**\n**fabreall2009ann:Tupi_amundawa5**\n**fabreall2009ann:Tupi_amundawa6**\n**hh:e:Franca:Kagwahiva**\n**hh:e:Kracke:Kagwahiv**\n**hh:e:Peggion:Amondawa**\n**hh:h:dosSantos:Kawahiva**\n**hh:hew:Hugo:Desbravadores**\n**hh:hv:Marcoli:Kawahib**\n**hh:hv:Mello:Tupi-Guarani:2000**\n**hh:hv:Sampaio:Tupi-Kawahib:Phylogenetic**\n**hh:hvw:Sampaio:Tupi-Kawahib**\n**hh:hvw:Sampaio:Tupi-Kawahib:2001**\n**hh:ld:Sampaio:Amondawa**\n**hh:w:Betts:Kagwahiva**\n**hh:w:Monserrat:Amondawa**"
+  },
+  "altnames": {
+    "multitree": "\nAmondawa\nAmondáwa\nAmundava\nAmundawa\nAmundáwa\nDiahoi\nDiahói\nDiarroi\nDjahui\nJiahui\nJuma\nKaripuna\nKawahib/Paranawat/Pawaté-Wirafed\nParintintín\nParintintín/Tenharim/Juma\nTenharim\nTenharím\nTukumanfed\nUru-eu-uau-uau\nYuma",
+    "lexvo": "\nAmundava [en]",
+    "hhbib_lgcode": "\nAmondava\nAmondawa\nTupi-Kabwahihbw-Parintintin of Tres Casas\nat FUNAI Posto Trincheira in Rondônia"
+  },
+  "triggers": {
+    "lgcode": "\nposseiros\nurueu\nkagwahiva\nsubgrupo\namondawa"
+  },
+  "identifier": {
+    "multitree": "adw"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sampaio:Tupi-Kawahib:2001** **hh:s:dosSantos:Kawahiva**:11-16",
+    "subrefs": "\n**hh:s:dosSantos:Kawahiva**\n**hh:hvw:Sampaio:Tupi-Kawahib:2001**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Uru-eu-au-au (1627-urz, adw) = Vulnerable"
+  }
+}

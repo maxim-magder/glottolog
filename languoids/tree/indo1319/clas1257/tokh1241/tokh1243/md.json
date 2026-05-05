@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Tokharian B",
+    "hid": "txb",
+    "level": "language",
+    "iso639-3": "txb",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "longitude": "82.9",
+    "latitude": "41.65",
+    "links": "\nhttps://en.wikipedia.org/wiki/Tocharian_B\nhttps://www.wikidata.org/entity/Q3199353",
+    "timespan": "0450-01-01/0950-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Adams:Tocharian-B**\n**hh:g:KrauseThomas:Tokharisches**\n**hh:hv:Peyrot:Tocharian**\n**hh:s:Couvreur:Tochaarse**\n**hh:s:Krause:Tocharisch**\n**hh:s:Krause:Westtocharische**\n**hh:t:SiegSiegling:Tocharische**\n**hh:td:ThomasKrause:Tokharisches**\n**hh:typ:Elfenbein:Tocharian-Verbal**\n**hh:typ:Serzant:Tocharischen**\n**hh:typ:Tomba:Tocharian**\n**mpieva:Hackstein1995Untersuc**\n**mpieva:Ivanov2002Tocharia**\n**mpieva:Peyrot2008Variatio**\n**mpieva:Pinault2008Chrestom**"
+  },
+  "altnames": {
+    "glottolog": "\nTokharian B",
+    "multitree": "\nKuchean\nTocharian B\nTokharian B\nWestern Tocharian\nWestern Tokharian",
+    "lexvo": "\nTokharian B [en]",
+    "hhbib_lgcode": "\nTochaarse\nTocharian\nTocharian B"
+  },
+  "triggers": {
+    "lgcode": "\ntocharischen\ntokharienne\ntocharian\ntocharische"
+  },
+  "identifier": {
+    "multitree": "txb"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient languages of the Middle East and Central Asia are attested, but missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One is Tokharian B (**hh:g:KrauseThomas:Tokharisches**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "txb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peyrot:Tocharian**",
+    "subrefs": "\n**hh:hv:Peyrot:Tocharian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Tokharian B (txb-txb) = 10 (Extinct)."
+  }
+}

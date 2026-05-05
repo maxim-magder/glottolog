@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Güilá Zapotec",
+    "hid": "ztu",
+    "level": "language",
+    "iso639-3": "ztu",
+    "latitude": "16.8824",
+    "longitude": "-96.4572",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/G%C3%BCil%C3%A1_Zapotec\nhttps://www.wikidata.org/entity/Q5626813"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Campbell:Central-Zapotec**\n**hh:phon:Arellanes:Zapotec-Guila**\n**hh:phon:Lopez:Guila**\n**hh:s:Lopez:Guila**\n**hh:s:Lopez:Guila:1997**\n**hh:typ:Arrieta:Zapoteco-Guila**\n**hh:typ:Broadwell:San-Dionisio-Ocotepec-Zapotec**"
+  },
+  "altnames": {
+    "glottolog": "\nGuila Zapotec",
+    "multitree": "\nEastern Sapoteko\nGüilá Zapotec\nZapotec\nZapotec, Güilá\nZapoteco de Petapa\nZapoteco de San Bartolo Yautepec\nZapoteco de San Dionisio Ocotepec\nZapoteco de San Pablo Güilá\nZapoteco mixtepeco\nZapotèque de Mixtepe\nZapotèque de Petapa\nZapotèque de San Bartolo Yautepec",
+    "lexvo": "\nGüilá Zapotec [en]",
+    "hhbib_lgcode": "\nGüilá\nSDOZ\nSan Dionisio Ocotepec Zapotec and San Pablo Güilá Zapotec\nZapotec-Güilá"
+  },
+  "triggers": {
+    "lgcode": "\nguila\ndionisio"
+  },
+  "identifier": {
+    "multitree": "ztu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Central-Zapotec**",
+    "subrefs": "\n**hh:hv:Campbell:Central-Zapotec**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zapotec, Güilá (ztu-ztu) = 6a* (Vigorous)."
+  }
+}

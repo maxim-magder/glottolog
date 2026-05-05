@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Jur Modo",
+    "hid": "bex",
+    "level": "language",
+    "iso639-3": "bex",
+    "latitude": "6.03321",
+    "longitude": "29.974",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Jur Modo](https://grambank.clld.org/languages/jurm1239)\n[Jur Mödö](https://wals.info/languoid/lect/wals_code_jmo)\nhttps://en.wikipedia.org/wiki/Jur_Modo_language\nhttps://phoible.org/languages/jurm1239\nhttps://www.wikidata.org/entity/Q56682"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:persson:81**\n**eballiso2009:23892**\n**eballiso2009:23893**\n**eballiso2009:27016**\n**eballiso2009:36627**\n**eballiso2009:53774**\n**eballiso2009:53775**\n**hh:dial:Persson:Jur-Beli**\n**hh:h:Persson:Bongo-Bagirmi**\n**hh:hvw:Persson:Bongo-Baka**\n**hh:hw:Evans-Pritchard:Non-Dinka**\n**hh:s:Andersen:Modo**\n**hh:sd:PerssonPersson:Modo**\n**sil16:16316**\n**sil16:16317**\n**sil16:18890**\n**sil16:19730**\n**sil16:21229**\n**sil16:23586**\n**sil16:36037**\n**sil16:36041**\n**sil16:37263**\n**sil16:37264**\n**sil16:37265**\n**sil16:41607**"
+  },
+  "altnames": {
+    "wals": "\nJur Mödö",
+    "wals other": "\nMorokodo\nMödö",
+    "moseley & asher (1994)": "\nMorokodo",
+    "multitree": "\nJur\nJur Modo\nJur Mödö\nModo",
+    "lexvo": "\nJur Modo [en]",
+    "hhbib_lgcode": "\nLori\nLöri\nModo\nModo and a little Lori\nWira"
+  },
+  "triggers": {
+    "lgcode": "\nmodo AND jur"
+  },
+  "identifier": {
+    "wals": "jmo",
+    "multitree": "bex"
+  },
+  "classification": {
+    "sub": "**hh:hw:Evans-Pritchard:Non-Dinka**",
+    "subrefs": "\n**hh:hw:Evans-Pritchard:Non-Dinka**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jur Modo (bex-bex) = 5 (Developing)."
+  }
+}

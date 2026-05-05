@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Nathembo",
+    "hid": "nte",
+    "level": "language",
+    "iso639-3": "nte",
+    "latitude": "-16.0973",
+    "longitude": "39.9062",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11030947\nhttps://en.wikipedia.org/wiki/Nathembo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:15555**\n**eballiso2009:53087**\n**eballiso2009:57808**\n**hh:b:Maho:Mozambican**\n**hh:hvs:Prata:Macua**\n**hh:typ:Devos:Shangaji**\n**hh:w:LyndonLyndon:Enatthembo**\n**iso6393:2023-001**"
+  },
+  "altnames": {
+    "multitree": "\nEsakaji\nNathembo\nSakaji\nSanagage\nSangaji\nSankaji\nTheithei",
+    "lexvo": "\nNathembo [en]",
+    "hhbib_lgcode": "\nEnatthembo\nMulai\nShangaji\nthis is Nathembo"
+  },
+  "triggers": {
+    "lgcode": "\nenthhembo\nshangaci\nxeicado"
+  },
+  "identifier": {
+    "multitree": "nte"
+  },
+  "classification": {
+    "sub": "**hh:w:LyndonLyndon:Enatthembo**",
+    "subrefs": "\n**hh:w:LyndonLyndon:Enatthembo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E27",
+    "date": "2024-03-03T22:14:27",
+    "comment": "Nathembo (nte-nte) = 7 (Shifting)."
+  },
+  "iso_retirement": {
+    "code": "nte",
+    "name": "Nathembo",
+    "effective": "2024-10-15",
+    "reason": "merge",
+    "change_to": "\neko",
+    "remedy": "Merge into Koti [eko]"
+  }
+}

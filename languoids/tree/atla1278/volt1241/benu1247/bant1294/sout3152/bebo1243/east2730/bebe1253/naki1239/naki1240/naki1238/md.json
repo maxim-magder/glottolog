@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Naki",
+    "hid": "mff",
+    "level": "language",
+    "iso639-3": "mff",
+    "latitude": "6.62784",
+    "longitude": "10.2378",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Naki](https://endangeredlanguages.com/lang/8909)\nhttps://phoible.org/languages/naki1238"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:good:10**\n**cldf:good:dicarlo:12**\n**cldf:kum:02**\n**cldf:lewis:ed:09**\n**eballiso2009:22576**\n**eballiso2009:33734**\n**hh:h:Good:Fungom**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hv:Breton:Furu**\n**hh:hvld:Hombert:Beboid**\n**hh:hwsoc:Hammetal:WBeboid**\n**hh:phon:Kum:Naki**\n**hh:s:Good:Naki**\n**hh:soc:Nyang:Mashi**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**sil16:41940**"
+  },
+  "altnames": {
+    "multitree": "\nBunaki\nMekaf\nMunkaf\nNaki\nNkap",
+    "lexvo": "\nNaki [en]",
+    "hhbib_lgcode": "\nBunaki\nMashi in Cameroon\nMashi in Menchum\nMashi in Menchum Division of the North West Region of Cameroon\nMekaf",
+    "elcat": "\nBunaki\nMekaf\nMunkaf\nNaki\nNkap"
+  },
+  "triggers": {
+    "lgcode": "\nsketch AND naki\nnaki\nmekaf"
+  },
+  "identifier": {
+    "multitree": "mff",
+    "endangeredlanguages": "8909"
+  },
+  "classification": {
+    "sub": "**hh:soc:BryeBrye:Bebe-Kemezung** **hh:hsoc:BryeBrye:Eastern-Beboid** **hh:h:Blench:Atlas:2020**",
+    "subrefs": "\n**hh:hsoc:BryeBrye:Eastern-Beboid**\n**hh:h:Blench:Atlas:2020**\n**hh:soc:BryeBrye:Bebe-Kemezung**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Naki (8909-mff) = Threatened (20 percent certain, based on the evidence available) [Good and DiCarlo 2012](cldf:good:dicarlo:12)"
+  }
+}

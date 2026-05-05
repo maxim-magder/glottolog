@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bongu",
+    "hid": "bpu",
+    "level": "language",
+    "iso639-3": "bpu",
+    "latitude": "-5.50519",
+    "longitude": "145.806",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bongu](https://lexibank.clld.org/languages/transnewguineaorg-bongu)\n[Bongu](https://wals.info/languoid/lect/wals_code_bon)\n[bongu](https://lexibank.clld.org/languages/zgraggenmadang-bongu)\nhttps://en.wikipedia.org/wiki/Bongu_language\nhttps://www.wikidata.org/entity/Q4941930"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:hanke:09**\n**hh:e:Bodrogi:New-Guinea**\n**hh:e:Miklucho-Maclay:Maclay**\n**hh:g:Hanke:Bongu**\n**hh:h:Schmitz:Nordost-Neuguinea**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Ray:Gulf:1914**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:hw:Zgraggen:Rai**\n**hh:hw:vonMiklucho-Maclay:Papua-Maclay**\n**hh:w:Hanke:Astrolabe**\n**hh:w:vonMiklucho-Maclay:Gorendu**\n**hh:w:vonMiklucho-Maclay:Maklaya**\n**hh:wh:Meijer:Astrolabe**"
+  },
+  "altnames": {
+    "wals": "\nBongu",
+    "ruhlen (1987)": "\nBongu",
+    "moseley & asher (1994)": "\nBongu",
+    "lexvo": "\nBongu [en]",
+    "hhbib_lgcode": "\n\"Papua-dialect\" of Astrolabe Bay\nAstrolabe Bay\nDialekt der Dörfer Gorendu-Bongu-Gumbu\nGorendu\nGorendu-Bongu-Gumbu"
+  },
+  "triggers": {
+    "lgcode": "\nbongu"
+  },
+  "identifier": {
+    "wals": "bon"
+  },
+  "classification": {
+    "sub": "**hh:hv:Daniels:Minjim**",
+    "subrefs": "\n**hh:hv:Daniels:Minjim**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bongu (bpu-bpu) = 6b (Threatened)."
+  }
+}

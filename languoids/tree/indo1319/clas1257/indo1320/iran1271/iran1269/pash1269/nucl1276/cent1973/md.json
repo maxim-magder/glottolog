@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Central Pashto",
+    "hid": "pst",
+    "level": "language",
+    "iso639-3": "pst",
+    "latitude": "31.9153",
+    "longitude": "69.4529",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "PK"
+    ],
+    "links": "\n[Pashto](https://wals.info/languoid/lect/wals_code_psh)\nhttps://en.wikipedia.org/wiki/Central_Pashto\nhttps://phoible.org/languages/cent1973\nhttps://www.wikidata.org/entity/Q5061628"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:becka:69**\n**cldf:elfenbein:97:3**\n**cldf:grjunberg:87**\n**cldf:grjunberg:edelman:87**\n**cldf:lorenz:82**\n**cldf:malherbe:rosenberg:96**\n**hh:g:David:Pashto**\n**hh:hvw:Grierson:10**\n**hh:hvwsoc:Hallberg:PWO**\n**hh:sdt:Lorimer:Waziri-Pashto**\n**sil16:44291**"
+  },
+  "altnames": {
+    "wals": "\nPashto",
+    "ruhlen (1987)": "\nPashto",
+    "moseley & asher (1994)": "\nPashto",
+    "multitree": "\nCentral Pashto\nMahsudi\nPakhto\nPashto\nPashto, Central\nPeshwari",
+    "lexvo": "\nCentral Pashto [en]",
+    "hhbib_lgcode": "\nBAN Bannu Pashto\nKRK Karak Pashto\nKandahari\nLAK Lakki Marwat Pashto\nMIR Miran Shah Pashto (North Waziristan)\nPashto\nPashto-Central\nSW Pashto Waziri Bannuchi etc\nSoutheast Pashto (SE)\nWAA Wana Pashto (South Waziristan)\nWaziri (WAZ)\nWaziri Pashto"
+  },
+  "triggers": {
+    "lgcode": "\nNOT waneci AND NOT un AND NOT francais AND NOT word AND NOT a AND pashto\npashtu\nwaziri\nafgansko\nafganskogo"
+  },
+  "identifier": {
+    "wals": "psh",
+    "multitree": "pst"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cheung:Pashto** **hh:hvwsoc:Hallberg:PWO** **hh:hv:Novak:Eastern-Iranian:2013**",
+    "subrefs": "\n**hh:hv:Cheung:Pashto**\n**hh:hv:Novak:Eastern-Iranian:2013**\n**hh:hvwsoc:Hallberg:PWO**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pashto, Central (pst-pst) = 6a* (Vigorous)."
+  }
+}

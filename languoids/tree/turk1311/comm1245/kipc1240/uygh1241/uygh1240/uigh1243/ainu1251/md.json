@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ainu (China)",
+    "hid": "aib",
+    "level": "language",
+    "iso639-3": "aib",
+    "latitude": "39.2714",
+    "longitude": "76.4209",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Ainu (China)](https://endangeredlanguages.com/lang/3691)\nhttps://www.wikidata.org/entity/Q27927\nhttps://en.wikipedia.org/wiki/%C3%84ynu_language\n[Aynu](https://wals.info/languoid/lect/wals_code_ayn)"
+  },
+  "classification": {
+    "sub": "**hh:v:Holzl:Eynu**",
+    "subrefs": "\n**hh:v:Holzl:Eynu**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hayasi:rozi:etal:99**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:zhaoxiangru:aximu:11**\n**hh:e:Hilden:Abdals**\n**hh:ew:Pelliot:Abdal**\n**hh:g:Zhao:Ainu**\n**hh:hel:Dwyer:China**\n**hh:hw:Grenard:Turkestan**\n**hh:ld:Hayasi:Eynu**\n**hh:ld:Hayasi:Eynu:2012**\n**hh:ld:Wurm:NW-China**\n**hh:ld:Zhao:Ainu**\n**hh:ldsoc:Hayasi:Eynu**\n**hh:s:LadstatterTietze:Abdal-Aynu**\n**hh:s:Lee-Smith:Ejnu**\n**hh:s:Zhao:Ainu**\n**hh:sd:Hayasi:Sayxil**\n**hh:soc:Qimanguli:Eynu**\n**hh:soc:Xie:Eynu**\n**hh:v:Holzl:Eynu**\n**hh:vld:Hayasi:Eynu**\n**hh:w:Coq:Abdal**\n**hh:w:Hayasu:Hotan-Einu**"
+  },
+  "altnames": {
+    "wals": "\nAynu",
+    "wals other": "\nAbdal",
+    "multitree": "\nAbdal\nAini\nAinu\nAynu",
+    "lexvo": "\nAinoueg [br]\nAinu (China) [en]\nAinu [en]\nAyni dili [tr]\nAyni tili [crh]\nAíníska [is]\nAïnou [fr]\nIdioma aini [es]\nLingua aini [gl]\nLíngua aini [pt]\nÄynu [de]\nÄynu language [en]\nАиниски јазик [mk]\nАйнийский язык [ru]\nภาษาอายนี [th]\nエイヌ語 [ja]\n艾努语 [zh]\n애이누어 [ko]",
+    "hhbib_lgcode": "\nAbdal from Tamegil\nAbdals\nAbdals (a.k.a. Aynu~Eynu)\nAbdāl\nAbdāl from Paynap\nAinu\nAinu of Givoz\nEynu\nEynu of Bash Qachun\nHotan Eynu\nKhotan Eynu\nShayxil Eynu\nSheyihil Eynu\nŠäyxil",
+    "elcat": "\nAbdal\nAini\nAinu (China)\nAynu\nEynu\nÄynu\n艾努語"
+  },
+  "triggers": {
+    "lgcode": "\nainuren\naynu\nsayxil\nejnu\nabdal"
+  },
+  "identifier": {
+    "wals": "genus/ainu",
+    "multitree": "aib",
+    "endangeredlanguages": "3691"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ainu (China) (3691-aib) = Threatened (60 percent certain, based on the evidence available) (The domain of language use is decreasing since everyone is bilingual in Uyghur which has long been the lingua franca of the Xinjiang region. Plus, Mandarin serves as the medium of education and the official language of China.) [趙相如 and 阿西木 2011](cldf:zhaoxiangru:aximu:11)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southern East Cree",
+    "hid": "crj",
+    "level": "language",
+    "iso639-3": "crj",
+    "latitude": "51.4078",
+    "longitude": "-78.6971",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953464"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lips:47:1**\n**cldf:morantz:83**\n**cldf:rogers:63:2**\n**cldf:rogers:69**\n**cldf:rogers:72**\n**cldf:rogers:73**\n**cldf:rogers:rogers:63**\n**cldf:skinner:11**\n**cldf:skinner:12**\n**cldf:speck:23**\n**cldf:speck:30**\n**hh:e:Feit:James-Bay-Cree**\n**hh:hvs:MacKenzie:Cree-Montagnais-Naskapi**\n**hh:typ:Junker:East-Cree**\n**hh:typ:MacKenzie:Mistassini**\n**mpieva:Junker2000Quantifi**\n**sil16:17050**\n**sil16:17051**\n**sil16:17052**\n**sil16:21220**\n**sil16:31490**\n**sil16:31491**\n**sil16:31492**\n**sil16:31493**\n**sil16:31494**\n**sil16:45279**"
+  },
+  "altnames": {
+    "multitree": "\nClisteno suroriental\nCree\nCree (Eastern)\nCree du sud-est\nEast Cree\nEast Cree, Southern\nEastern James Bay Cree Southern Dialect\nJames Bay Cree Southern Dialect\nSouthern\nSouthern East Cree",
+    "lexvo": "\nSouthern East Cree [en]\nSouthern East Cree language [en]",
+    "hhbib_lgcode": "\nCree-Southern East\nMistissini East Cree"
+  },
+  "triggers": {
+    "lgcode": "\nmasinahiikan\nuutihch\nnachiskahko\nobviation\nwaapushuyaan\nweskach\nnipachistaapaanaaskw"
+  },
+  "identifier": {
+    "multitree": "crj"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Southern East Cree (688-crj) = Vulnerable"
+  }
+}

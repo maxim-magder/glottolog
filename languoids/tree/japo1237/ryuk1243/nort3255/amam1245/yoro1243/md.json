@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Yoron",
+    "hid": "yox",
+    "level": "language",
+    "iso639-3": "yox",
+    "latitude": "27.0407",
+    "longitude": "128.428",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "JP"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Yoron_language\nhttps://www.wikidata.org/entity/Q2424943"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:KikuTakahashi:Yoron**\n**hh:hv:Thorpe:Ryukyuan**\n**hh:s:Kibe:Yoron-Okinoerabu**\n**hh:typ:Hiromitsu:Yoron**"
+  },
+  "altnames": {
+    "multitree": "\nRyukyuan\nYoron",
+    "lexvo": "\nYoron [en]",
+    "hhbib_lgcode": "\nYoron-Chabana (C)"
+  },
+  "triggers": {
+    "lgcode": "\nyoron"
+  },
+  "identifier": {
+    "multitree": "yox",
+    "endangeredlanguages": "10377"
+  },
+  "classification": {
+    "sub": "**hh:g:Pellard:Ogami**:249-276",
+    "subrefs": "\n**hh:g:Pellard:Ogami**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Amami (10377-yox) = Severely Endangered (100 percent certain, based on the evidence available) (All dialects in the Amami Islands are endangered today. In other words, the younger generation does not speak these dialects. Depending on the situation, they speak a local variety of Japanese or Standard Japanese instead. Every dialect in the Amami Islands is endangered because Standard Japanese has more political, economical, and cultural power. If such imbalance of power continues, it will continue to be diﬃcult, and unlikely, for younger people to choose to speak these dialects, which are not their ﬁrst language.) ['bib5531']"
+  }
+}

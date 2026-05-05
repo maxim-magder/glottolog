@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Sika",
+    "hid": "ski",
+    "level": "language",
+    "iso639-3": "ski",
+    "latitude": "-8.67302",
+    "longitude": "122.38",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Sika](https://wals.info/languoid/lect/wals_code_sik)\nhttps://en.wikipedia.org/wiki/Sikka_language\nhttps://www.wikidata.org/entity/Q33960"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:cribb:00**\n**cldf:keesing:84:2**\n**cldf:lewis:06**\n**cldf:lewis:88**\n**cldf:lewis:93:1**\n**cldf:meye:64**\n**cldf:morwood:sutikna:etal:09**\n**cldf:np:14:5**\n**hh:d:Calon:Sikka**\n**hh:d:PareiraLewis:Sikka**\n**hh:e:Weber:Flores-Celebes**\n**hh:h:Sugono:Indonesia**\n**hh:hv:Doyle:Flores-Lembata**\n**hh:hvw:Keraf:Lamalera**\n**hh:hvwtyp:Capell:Mixed**\n**hh:s:Arndt:Sika**\n**hh:s:Bolscher:Sikka**\n**hh:s:Calon:Sikka**\n**hh:s:Fricke:Hewa**\n**hh:s:Laksana:Sikka**\n**hh:s:Soge:Sikka**\n**hh:typ:Rosen:Maumere**\n**hh:typ:Rosen:Maumere:1977**\n**hh:typ:Sedeng:Sikka**\n**hh:w:Donohue:Sika**\n**hh:w:LewisGrimes:Sika**\n**hh:w:Stokhofetal:Holle:6**\n**mpieva:Verhaar19751990Miscella**"
+  },
+  "altnames": {
+    "wals": "\nSika",
+    "ruhlen (1987)": "\nSikka",
+    "moseley & asher (1994)": "\nSikka",
+    "multitree": "\nKrowe\nMaumere\nSara Sikka\nSika\nSikka\nSikka u. Tettun\nSikkanese",
+    "lexvo": "\nSika [en]\nSika language [en]",
+    "hhbib_lgcode": "\nHewa\nHewa of Flores\nIli Sikka\nMaumere\nSikka\nSikka (Central Flores)\nSikka (Flores)\nSikkanese"
+  },
+  "triggers": {
+    "lgcode": "\nsikka\nsika"
+  },
+  "identifier": {
+    "wals": "sik",
+    "multitree": "ski"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Fricke:Flores-Lembata**:171-228 **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:131-139",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**\n**hh:hvs:Fricke:Flores-Lembata**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sika (ski-ski) = 6a* (Vigorous)."
+  }
+}

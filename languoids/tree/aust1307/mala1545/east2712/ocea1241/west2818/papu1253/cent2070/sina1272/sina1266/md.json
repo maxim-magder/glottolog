@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sinaugoro",
+    "hid": "snc",
+    "level": "language",
+    "iso639-3": "snc",
+    "latitude": "-9.79791",
+    "longitude": "147.861",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sinaugoro](https://grambank.clld.org/languages/sina1266)\n[Sinaugoro](https://lexibank.clld.org/languages/transnewguineaorg-sinaugoro)\n[Sinaugoro](https://wals.info/languoid/lect/wals_code_sng)\n[Sinaugoro (Balawaia Dialect)](https://lexibank.clld.org/languages/abvdoceanic-SinaugoroBalawaiaDialect)\nhttps://en.wikipedia.org/wiki/Sinaugoro_language\nhttps://www.wikidata.org/entity/Q4170719"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tauberschmidt:92**\n**cldf:tauberschmidt:snyder:95**\n**hh:d:Tauberschmidt:Sinaugoro**\n**hh:d:Tauberschmidt:Sinaugoro:2007**\n**hh:g:Tauberschmidt:Sinaugoro**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hvwtyp:Dutton:Rigo**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Central-Papua**\n**hh:s:Kolia:Balawaia**\n**hh:w:Anonymous:Sinaugolo**\n**hh:w:English:Sinaugoro**\n**sil16:33265**\n**sil16:35049**\n**sil16:48955**"
+  },
+  "altnames": {
+    "wals": "\nSinaugoro",
+    "wals other": "\nBalawaia",
+    "ruhlen (1987)": "\nSinagoro",
+    "moseley & asher (1994)": "\nSinagoro",
+    "multitree": "\nSaroa\nSinagoro\nSinaugoro",
+    "lexvo": "\nSinaugoro [en]",
+    "hhbib_lgcode": "\nSinagoro\nSinagoro-Balawaia\nSinagoro-Saroa\nSinagoro-Taboro\nSinaugolo"
+  },
+  "triggers": {
+    "lgcode": "\nhoods\nmcfarlanes\nbalawaia\nsinaugoro"
+  },
+  "identifier": {
+    "wals": "sng",
+    "multitree": "snc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hv:LynchRossCrowley:Subgrouping**:102-106 **hh:g:Sheppard:Sudest**:12",
+    "subrefs": "\n**hh:g:Sheppard:Sudest**\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sinaugoro (snc-snc) = 5 (Developing)."
+  }
+}

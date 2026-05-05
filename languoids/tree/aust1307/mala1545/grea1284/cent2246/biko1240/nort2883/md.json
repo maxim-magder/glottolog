@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Northern Catanduanes Bicolano",
+    "hid": "cts",
+    "level": "language",
+    "iso639-3": "cts",
+    "latitude": "13.9032",
+    "longitude": "124.27",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7130477\nhttps://en.wikipedia.org/wiki/Pandan_Bikol_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Zorc:Bisayan**\n**hh:hwdial:McFarland:Bikol**\n**hh:soc:Gumba:Northern-Catanduanes-Bicolano**\n**iso6393:2011-067**"
+  },
+  "altnames": {
+    "multitree": "\nBicolano, Northern Catanduanes\nBikol\nNorthern Catanduanes Bicolano\nPandan",
+    "lexvo": "\nNorthern Catanduanes Bicolano [en]",
+    "hhbib_lgcode": "\nBicolano-Northern Catanduanes\nNorthern Catanduanes\nPandan"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND bikol"
+  },
+  "identifier": {
+    "multitree": "cts"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan** **hh:hv:Blust:CPhilippines**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**\n**hh:hv:Blust:CPhilippines**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bikol, Northern Catanduanes (cts-cts) = 6a (Vigorous)."
+  }
+}

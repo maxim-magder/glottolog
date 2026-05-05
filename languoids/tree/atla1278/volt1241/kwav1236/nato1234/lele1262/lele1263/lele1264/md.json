@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lelemi",
+    "hid": "lef",
+    "level": "language",
+    "iso639-3": "lef",
+    "latitude": "7.34549",
+    "longitude": "0.50746",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH",
+      "TG"
+    ],
+    "links": "\n[Lelemi](https://wals.info/languoid/lect/wals_code_llm)\nhttps://en.wikipedia.org/wiki/Lelemi_language\nhttps://phoible.org/languages/lele1264\nhttps://www.wikidata.org/entity/Q35585"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3798**\n**cldf:fiedler:schwarz:66**\n**cldf:hoeftmann:71**\n**cldf:schwarz:66:2**\n**eballiso2009:1059**\n**eballiso2009:10642**\n**eballiso2009:26334**\n**eballiso2009:41653**\n**eballiso2009:53069**\n**eballiso2009:54065**\n**eballiso2009:55401**\n**eballiso2009:56369**\n**hh:g:Allan:Buem**\n**hh:hv:Heine:Proto-Buem**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:hw:Kropp:Lefana-Akpafu-Avatime**\n**hh:hw:KroppDakubu:WALDS1:I**\n**hh:s:Hoftmann:Lelemi**\n**hh:s:Westermann:Lefana**\n**hh:typ:Heine:AfricanNC**\n**sil16:17216**\n**sil16:17217**\n**sil16:17218**\n**sil16:19359**\n**sil16:39548**\n**sil16:39647**\n**sil16:41195**\n**sil16:50161**"
+  },
+  "altnames": {
+    "wals": "\nLelemi",
+    "ruhlen (1987)": "\nLelemi (Bwem)",
+    "multitree": "\nBuem\nLafana\nLefana\nLelemi",
+    "lexvo": "\nLelemi [en]",
+    "hhbib_lgcode": "\nBuem\nLefana\nLelemi-Lefana"
+  },
+  "triggers": {
+    "lgcode": "\nukyuli\nlefanasprache\nlefana\nuludu\nlelemi\nledon\no{ku\nbuem"
+  },
+  "identifier": {
+    "wals": "llm",
+    "multitree": "lef"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Central-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Central-Togo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lelemi (lef-lef) = 5 (Developing)."
+  }
+}

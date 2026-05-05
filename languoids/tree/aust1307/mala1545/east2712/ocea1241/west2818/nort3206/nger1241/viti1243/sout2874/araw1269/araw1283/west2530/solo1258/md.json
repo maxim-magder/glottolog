@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Solong",
+    "hid": "aaw",
+    "level": "language",
+    "iso639-3": "aaw",
+    "latitude": "-5.86129",
+    "longitude": "148.825",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7558834\nhttps://en.wikipedia.org/wiki/Solong_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Laufer:Arave**\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:w:Friederici:Nakanai**\n**sil16:15971**"
+  },
+  "altnames": {
+    "multitree": "\nArare\nArawe\nArove\nPililo\nSolong",
+    "lexvo": "\nSolong [en]",
+    "hhbib_lgcode": "\nAbutumete\nAmge und Ayo\nArave\nArawe\nArove-Arawe\nAwelen Gubo-Rua"
+  },
+  "triggers": {
+    "lgcode": "\nsouth AND communities AND britain"
+  },
+  "identifier": {
+    "multitree": "aaw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Solong (aaw-aaw) = 5* (Developing)."
+  }
+}

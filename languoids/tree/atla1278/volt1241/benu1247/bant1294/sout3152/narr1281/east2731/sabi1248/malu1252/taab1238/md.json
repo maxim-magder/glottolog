@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Taabwa",
+    "hid": "tap",
+    "level": "language",
+    "iso639-3": "tap",
+    "latitude": "-7.91416",
+    "longitude": "29.5238",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "ZM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7673650\nhttps://en.wikipedia.org/wiki/Taabwa_language\n[Tabwa](https://wals.info/languoid/lect/wals_code_tbw)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3940**\n**cldf:debeerst:96**\n**eballiso2009:14662**\n**eballiso2009:14683**\n**eballiso2009:16936**\n**eballiso2009:17777**\n**eballiso2009:25996**\n**eballiso2009:26558**\n**eballiso2009:28707**\n**eballiso2009:40177**\n**eballiso2009:43999**\n**eballiso2009:44002**\n**eballiso2009:8201**\n**eballiso2009:8202**\n**eballiso2009:8603**\n**eballiso2009:9716**\n**hh:d:vanAcker:Kitabwa**\n**hh:e:Musambachime:Shila**\n**hh:e:Terashima:Bambote**\n**hh:g:deBeerst:Tabwa**\n**hh:hb:Boone:Congo-Sud-Est**\n**hh:hb:Kadima:Congo**\n**hh:he:Brelsford:Northern-Rhodesia**\n**hh:he:Vansina:Congo**\n**hh:he:Whiteley:Northern-Rhodesia**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Ahmed:East-Central-Africa**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:s:Kalenga:Shila**\n**hh:s:Kavimbwa:Kitaabwa**\n**hh:s:Mutono:Kitabwa**\n**hh:s:Rwakazina:Taabwa**\n**hh:s:Wembo:Sila**\n**hh:typ:Ntambo:Kitaabwa**\n**hh:v:Tumbwe:Taabwa**\n**hh:w:Verhulpen:Balubaises**"
+  },
+  "altnames": {
+    "wals": "\nTabwa",
+    "wals other": "\nRungu\nZabwa",
+    "ruhlen (1987)": "\nTabwa",
+    "moseley & asher (1994)": "\nTaabwa",
+    "multitree": "\nIchitaabwa\nRungu\nTaabwa\nTabwa",
+    "lexvo": "\nTaabwa [en]",
+    "hhbib_lgcode": "\nKimbote\nKishila (Shila)\nKitaabwa\nM41_Taabwa\nMalungu (Tabwa)\nShila\nSila\nTabwa\nTabwa 1 Zaire M41\nTabwa or Tumbwe D20T\nWest side of middle of Lake Tanganyika below the Lukuga River\nWest side of middle of Lake Tanganyika below the Lukuga River east of the Niemba river appx 6.75S-28.4E"
+  },
+  "triggers": {
+    "lgcode": "\nbatabwa\ntaabwa\nzabwa\ntabwa\nkitabwa"
+  },
+  "identifier": {
+    "wals": "tbw",
+    "multitree": "tap"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ahmed:East-Central-Africa** **hh:hv:Bastinetal:Bantu**:199",
+    "subrefs": "\n**hh:hvw:Ahmed:East-Central-Africa**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Taabwa (tap-tap) = 5* (Developing)."
+  }
+}

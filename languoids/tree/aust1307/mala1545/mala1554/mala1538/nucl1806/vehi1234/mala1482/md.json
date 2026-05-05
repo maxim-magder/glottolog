@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Malaccan Creole Malay",
+    "hid": "ccm",
+    "level": "language",
+    "iso639-3": "ccm",
+    "latitude": "2.20265",
+    "longitude": "102.240488",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Malay_Chetty_creole_language\nhttps://www.wikidata.org/entity/Q12636092"
+  },
+  "sources": {
+    "glottolog": "\n**hh:phon:Mohamed:Chitty**\n**hh:soc:MohamedKarim:Chetti**\n**hh:v:Mohamed:Chetty**"
+  },
+  "altnames": {
+    "multitree": "\nChitties Creole Malay\nMalaccan Creole Malay",
+    "lexvo": "\nMalaccan Creole Malay [en]"
+  },
+  "triggers": {
+    "lgcode": "\nchetti\nleksiko\nchitty\nchetty"
+  },
+  "identifier": {
+    "multitree": "ccm"
+  },
+  "classification": {
+    "sub": "**hh:hs:Paauw:Malay**",
+    "subrefs": "\n**hh:hs:Paauw:Malay**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malaccan Malay Creole (ccm-ccm) = 8a (Moribund)."
+  }
+}

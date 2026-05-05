@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nahavaq",
+    "hid": "sns",
+    "level": "language",
+    "iso639-3": "sns",
+    "latitude": "-16.5116",
+    "longitude": "167.477",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Nahavaq](https://endangeredlanguages.com/lang/1374)\n[Nahavaq](https://grambank.clld.org/languages/sout2857)\n[Nahavaq](https://lexibank.clld.org/languages/abvdoceanic-Nahavaq)\nhttps://en.wikipedia.org/wiki/Nahavaq_language\nhttps://www.wikidata.org/entity/Q2160435"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3786**\n**asjp2010:3815**\n**cldf:adams:21**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:deacon:34**\n**cldf:dimock:10**\n**cldf:dimrock:07**\n**cldf:keesing:84:2**\n**cldf:larcom:91**\n**cldf:lewis:ed:09**\n**cldf:np:13:6**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:riehl:08**\n**hh:g:Dimock:Nahavaq**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Ray:Sinesip**\n**iso6393:2008-015**"
+  },
+  "altnames": {
+    "multitree": "\nMallicolo\nNa'ahai\nNahavaq\nSeniang\nSinesip\nSouth West Bay",
+    "lexvo": "\nNahavaq [en]\nSouth West Bay [en]",
+    "hhbib_lgcode": "\nBenaur\nLembinwen\nNahava\nSinesip\nSouth West Bay",
+    "elcat": "\nMallicolo\nNa'ahai\nNahavaq\nSeniang\nSinesip\nSouth West Bay"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides\nnahavaq\nsinesip"
+  },
+  "identifier": {
+    "multitree": "sns",
+    "endangeredlanguages": "1374"
+  },
+  "classification": {
+    "sub": "**hh:g:Dimock:Nahavaq**:5",
+    "subrefs": "\n**hh:g:Dimock:Nahavaq**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nahavaq (1374-sns) = Endangered (20 percent certain, based on the evidence available) [Dimock 2010](cldf:dimock:10)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Molima",
+    "hid": "mox",
+    "level": "language",
+    "iso639-3": "mox",
+    "latitude": "-9.57457",
+    "longitude": "150.614",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Molima](https://lexibank.clld.org/languages/abvdoceanic-Molima)\nhttps://en.wikipedia.org/wiki/Molima_language\nhttps://www.wikidata.org/entity/Q3319495"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chowning:62**\n**cldf:chowning:nd:2**\n**cldf:goodenough:52**\n**hh:d:Chowning:Molima**\n**hh:hv:Chowning:Papuan-Tip**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:typ:Engkvist:Molima**\n**sil16:42859**\n**silpng:silpng1991-2000:1495**\n**silpng:silpng1991-2000:1496**\n**silpng:silpng1991-2000:1497**\n**silpng:silpng1991-2000:1498**\n**silpng:silpng1991-2000:1499**\n**silpng:silpng1991-2000:1500**\n**silpng:silpng1991-2000:1501**\n**silpng:silpng1991-2000:1502**\n**silpng:silpng1991-2000:1503**\n**silpng:silpng2001-2003:262**\n**silpng:silpng2001-2003:29**\n**silpng:silpng2001-2003:404**"
+  },
+  "altnames": {
+    "multitree": "\nEbadidi\nFagululu\nMolima\nMorima\nSalakahadi",
+    "lexvo": "\nMolima [en]",
+    "hhbib_lgcode": "\nFagululu of SIL\nMolima of Ailuluai"
+  },
+  "triggers": {
+    "lgcode": "\nleif\nmomsan\nveqidua\nunebu\nmolima\nveluluuya\nnamonamo"
+  },
+  "identifier": {
+    "multitree": "mox"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hv:LynchRossCrowley:Subgrouping**:102-106 **hh:g:Sheppard:Sudest**:12",
+    "subrefs": "\n**hh:g:Sheppard:Sudest**\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Molima (mox-mox) = 5 (Developing)."
+  }
+}

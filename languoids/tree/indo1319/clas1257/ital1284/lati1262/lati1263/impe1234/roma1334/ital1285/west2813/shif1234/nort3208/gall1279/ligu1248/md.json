@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ligurian",
+    "hid": "lij",
+    "level": "language",
+    "iso639-3": "lij",
+    "latitude": "44.0816",
+    "longitude": "7.90522",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FR",
+      "IT",
+      "MC"
+    ],
+    "links": "\n[Italian (Genoa)](https://wals.info/languoid/lect/wals_code_itg)\n[Rapallo_Ligurian](https://lexibank.clld.org/languages/saenkoromance-rapalloligurian)\n[Stella_Ligurian](https://lexibank.clld.org/languages/saenkoromance-stellaligurian)\nhttps://en.wikipedia.org/wiki/Ligurian_language\nhttps://phoible.org/languages/ligu1248\nhttps://www.wikidata.org/entity/Q36106"
+  },
+  "sources": {
+    "glottolog": "\n**hh:bsoc:Beniscelli:Liguria**\n**hh:d:Barral:Monegasque**\n**hh:d:BarralSimone:Monegasque:1983**\n**hh:d:Frisoni:Genovese**\n**hh:d:Frolla:Monegasque**\n**hh:d:Lena:Spezzino**\n**hh:g:Azaretti:Ligure**\n**hh:g:Badiale:Falcinello**\n**hh:g:Dalbera:Nissart**\n**hh:g:Toso:Genovese**\n**hh:g:Toso:Tabarchino**\n**hh:h:Dalbera:Ligurien**\n**hh:h:Toso:Liguria**\n**hh:hv:Forner:Ligurien**\n**hh:hvs:Dalbera:Alpes-Maritimes**\n**hh:hvw:Hervas:Poligloto**\n**hh:phon:Forner:Genua**\n**hh:phon:Ghini:Miogliola**\n**hh:phon:Ricciardi:Ligurian**\n**hh:phonv:Rohlfs:Galloitalienische-Basilika**\n**hh:s:Arveiller:Monaco**\n**hh:s:Casaccia:Genovese**\n**hh:s:Forner:Liguria**\n**hh:s:Frolla:Monegasque**\n**hh:s:Petrucci:Genovese**\n**hh:st:Botton:Saorge**\n**hh:sv:Azaretti:Liguri**\n**hh:sv:Toso:Figun**\n**hh:vtyp:Bottiglioni:Antico-Genovese**"
+  },
+  "altnames": {
+    "wals": "\nItalian (Genoa)",
+    "wals other": "\nGenovese",
+    "ruhlen (1987)": "\nItalian",
+    "moseley & asher (1994)": "\nItalian",
+    "multitree": "\nLigur\nLigure\nLigurian\nLigurien\nLìgure\nZenéize",
+    "lexvo": "\nDialett intemeli [lmo]\nDialetto intemelio [it]\nDialetto ventimiglioso [lij]\nIntemelio [en]\nIntémélien [fr]\nLigurian [en]",
+    "hhbib_lgcode": "\nFalcinello\nFigun\nGenovese\nGenua\nIntemelian\nLigurien\nMiogliola\nMonaco\nMonegasque\nSaorge\nSpezzino\nTabarchino"
+  },
+  "triggers": {
+    "lgcode": "\nalpes\noccitanica\nmonegasque\nesaminata\nolivetta\ntransizione\nasymmetries\ngenovese\nfalcinello\nattraverso\nventimigliese\nliguria\nmaritimes\nlevoluzione\nmichele\nligure\nmiogliola"
+  },
+  "identifier": {
+    "wals": "itg",
+    "multitree": "lij"
+  },
+  "classification": {
+    "sub": "**hh:hv:Forner:Ligurien**",
+    "subrefs": "\n**hh:hv:Forner:Ligurien**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Ligurian (377-lij) = Definitely endangered"
+  }
+}

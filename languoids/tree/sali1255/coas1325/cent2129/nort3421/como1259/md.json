@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Comox",
+    "hid": "coo",
+    "level": "language",
+    "iso639-3": "coo",
+    "latitude": "49.7233",
+    "longitude": "-124.967",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Comox](https://grambank.clld.org/languages/como1259)\n[Comox](https://wals.info/languoid/lect/wals_code_cmx)\nhttps://en.wikipedia.org/wiki/Comox_language\nhttps://phoible.org/languages/como1259\nhttps://www.wikidata.org/entity/Q13583746\n[Éy7á7juuthem (Comox)](https://endangeredlanguages.com/lang/2006)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:ed:15:2**\n**cldf:golla:goddard:etal:08**\n**cldf:harris:81:1**\n**cldf:miyaoka:endo:ed:01:2**\n**cldf:miyaoka:endo:ed:94:1**\n**cldf:miyaoka:oshima:ed:98:5**\n**cldf:moseley:07**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:e:KennedyBouchard:Northern-Coast-Salish**\n**hh:g:Hagege:Comox**\n**hh:g:Harris:Comox**\n**hh:g:Watanabe:Sliammon**\n**hh:g:Watanabe:Sliammon:2000**\n**hh:hv:Swadesh:Salish:1950**\n**hh:phon:Davis:Mainland-Comox**\n**mpieva:Harris1977Agrammat**"
+  },
+  "altnames": {
+    "wals": "\nComox",
+    "ruhlen (1987)": "\nComox",
+    "moseley & asher (1994)": "\nComox",
+    "multitree": "\nComox\nComox Cluster\nComox-Sliammon\nComox/sliammon\nComux\nCómox\nMainland Comox\nÇatlotq",
+    "lexvo": "\nComox [en]\nComox language [en]\nKomoksa lingvo [eo]",
+    "hhbib_lgcode": "\nComox Cx",
+    "elcat": "\nComox\nComox Cluster\nComox-Sliammon\nComux\nMainland Comox\nSliammon\nÇatlotq\nÉy7á7juuthem (Comox)"
+  },
+  "triggers": {
+    "lgcode": "\nlhaamen\nsliammon\ncomox"
+  },
+  "identifier": {
+    "wals": "cmx",
+    "multitree": "coo",
+    "endangeredlanguages": "2006"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950** **hh:e:KennedyBouchard:Northern-Coast-Salish**:441",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**\n**hh:e:KennedyBouchard:Northern-Coast-Salish**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Éy7á7juuthem (Comox) (2006-coo) = Critically Endangered (80 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  }
+}

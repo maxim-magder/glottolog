@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mattole-Bear River",
+    "hid": "mvb",
+    "level": "language",
+    "iso639-3": "mvb",
+    "latitude": "40.4321",
+    "longitude": "-122.863",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q20824\nhttps://en.wikipedia.org/wiki/Mattole_language\n[Mattole](https://wals.info/languoid/lect/wals_code_mtl)",
+    "timespan": "1955-01-01/1955-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3844**\n**cldf:baumhoff:58**\n**cldf:baumhoff:63**\n**cldf:cook:56**\n**cldf:driver:39**\n**cldf:kroeber:barrett:60**\n**cldf:nomland:38**\n**hh:e:Elsasser:Wailaki**\n**hh:g:Li:Mattole**\n**hh:g:Li:Mattole:PhD**\n**hh:hvb:Golla:California**\n**hh:w:Goddard:BearRiver**"
+  },
+  "altnames": {
+    "wals": "\nMattole",
+    "ruhlen (1987)": "\nMattole",
+    "moseley & asher (1994)": "\nMattole",
+    "multitree": "\nMattole\nMattole-Bear River",
+    "lexvo": "\nMattole [en]\nMattole language [en]",
+    "hhbib_lgcode": "\nBear River\nMattole",
+    "glottolog": "\nMattole"
+  },
+  "triggers": {
+    "lgcode": "\nmattole\nbear"
+  },
+  "identifier": {
+    "wals": "mtl",
+    "multitree": "mvb"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mattole (781-mvb) = Extinct"
+  }
+}

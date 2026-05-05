@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wawonii",
+    "hid": "wow",
+    "level": "language",
+    "iso639-3": "wow",
+    "latitude": "-4.13587",
+    "longitude": "123.1",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3566780\nhttps://en.wikipedia.org/wiki/Wawonii_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Valkama:Toraja**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:hvwb:Mead:Bungku-Tolaki**\n**hh:hw:Kaseng:Sulawesi-Tenggara**\n**hh:hw:Stokhofetal:Holle:7:4**\n**hh:s:Garantjang:Manui**\n**hh:s:Manyambeang:Wawonii**\n**sil16:42852**"
+  },
+  "altnames": {
+    "multitree": "\nWawonii\nWowonii",
+    "lexvo": "\nWawonii [en]",
+    "hhbib_lgcode": "\nMenui\nMenui Kepulauan-Kabupaten Poso\nTo Padoé\nWawoni"
+  },
+  "triggers": {
+    "lgcode": "\nwawonii\nv AND sulawesi"
+  },
+  "identifier": {
+    "multitree": "wow"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Mead:Bungku-Tolaki** **hh:hv:Mead:Sulawesi:2024**:154",
+    "subrefs": "\n**hh:hvs:Mead:Bungku-Tolaki**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wawonii (wow-wow) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tallán",
+    "hid": "NOCODE_Tallan",
+    "level": "language",
+    "latitude": "-5.330824",
+    "longitude": "-80.651093",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q16910468\nhttps://en.wikipedia.org/wiki/Tall%C3%A1n_language",
+    "timespan": "1792-01-01/1850-01-01"
+  },
+  "classification": {
+    "family": "There are occasional lexical links to the Sechuran language **hh:hv:Adelaar:Andes**:398-400, but the very limited data available is not compelling towards a genetic relationship.",
+    "familyrefs": "\n**hh:hv:Cerron-Palomino:Peruana**\n**hh:hvld:Urban:Peruvian-North-Coast**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Jijon:Ecuador**\n**hh:hv:Adelaar:Andes**\n**hh:hvld:Urban:Northern-Peru**\n**hh:hvld:Urban:Peruvian-North-Coast**\n**hh:hvw:Loukotka:Inconnues**\n**hh:w:Ramos:Tallan**\n**hh:w:Zevallos:Costa**"
+  },
+  "altnames": {
+    "glottolog": "\nTallan",
+    "hhbib_lgcode": "\nCatacaos\nColan\nColán\nKatakao\nKolan\nTallan\nTallán (a.k.a. Atalán)"
+  },
+  "triggers": {
+    "lgcode": "\ntallan\ntallanca"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Tallán, an extinct poorly attested Peruvian language of uncertain affiliation, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:w:Zevallos:Costa**, **hh:hv:Adelaar:Andes**, **hh:w:Ramos:Tallan**, **hh:hvw:Loukotka:Inconnues**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Tallan"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Tallán (NOCODE_Tallan-NOCODE_Tallan) = 10 (Extinct)."
+  }
+}

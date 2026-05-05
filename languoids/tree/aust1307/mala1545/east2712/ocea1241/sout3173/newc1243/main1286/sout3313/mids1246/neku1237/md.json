@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Neku",
+    "hid": "nek",
+    "level": "language",
+    "iso639-3": "nek",
+    "latitude": "-21.6524",
+    "longitude": "165.578",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Neku](https://endangeredlanguages.com/lang/3056)\n[Neku](https://lexibank.clld.org/languages/abvdoceanic-Neku)\nhttps://en.wikipedia.org/wiki/Neku_language\nhttps://www.wikidata.org/entity/Q14916900"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:190**\n**cldf:np:nd:264**\n**hh:hbld:Haudricourt:New-Caledonia-Loyalty**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:typ:Osumi:Neku**\n**hh:typ:Osumi:Tinrin-Neku**"
+  },
+  "altnames": {
+    "multitree": "\nNeku\nNeukaledonien",
+    "lexvo": "\nNeku [en]",
+    "elcat": "\nNeku\nNeukaledonien"
+  },
+  "triggers": {
+    "lgcode": "\nneku\nposessive"
+  },
+  "identifier": {
+    "multitree": "nek",
+    "endangeredlanguages": "3056"
+  },
+  "classification": {
+    "sub": "**hh:hbld:Haudricourt:New-Caledonia-Loyalty**",
+    "subrefs": "\n**hh:hbld:Haudricourt:New-Caledonia-Loyalty**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Neku (3056-nek) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

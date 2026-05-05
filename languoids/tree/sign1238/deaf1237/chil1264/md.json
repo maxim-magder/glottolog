@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Chilean Sign Language",
+    "hid": "csg",
+    "level": "language",
+    "iso639-3": "csg",
+    "latitude": "-32.781",
+    "longitude": "-70.6698",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CL"
+    ],
+    "links": "\n[Chilean Sign Language](https://endangeredlanguages.com/lang/7004)\nhttps://www.wikidata.org/entity/Q3322112\nhttps://en.wikipedia.org/wiki/Chilean_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**hh:d:Barrientos:Senas**\n**hh:d:Pilleux:Senas-Chile**\n**hh:g:Pilleux:Senas-Chile**\n**hh:phon:Adamo:Senas-Chilena**\n**hh:soc:Parks:Deaf-Chile**\n**hh:typ:Uribe:Senas-Chilena**\n**hh:v:Parks:Sign-Language-Comparisons**"
+  },
+  "altnames": {
+    "lexvo": "\nChilean Sign Language [en]\nLenguaje de Señas Chileno [es]\nLíngua Gestual Chilena [pt]",
+    "hhbib_lgcode": "\nLengua de señas chilena\nSordos de Santiago-Concepción-Temuco-Valdivia",
+    "elcat": "\nChilean Sign Language\nLENSE\nLSCh\nLengua de Señas Chilena\nLenguaje Chileno de Signos\nLenguaje de Señas"
+  },
+  "identifier": {
+    "endangeredlanguages": "7004"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chilean Sign Language (7004-csg) = Vulnerable (80 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  },
+  "classification": {
+    "sub": "Chilean Sign Language appears to be coherent in itself and approximately equally unrelated to other sign languages in the America (**hh:soc:Parks:Deaf-Chile**:13, **hh:v:Parks:Sign-Language-Comparisons**:45, 82).",
+    "subrefs": "\n**hh:v:Parks:Sign-Language-Comparisons**\n**hh:soc:Parks:Deaf-Chile**"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Napu",
+    "hid": "npy",
+    "level": "language",
+    "iso639-3": "npy",
+    "latitude": "-1.43707",
+    "longitude": "120.338",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Napu](https://endangeredlanguages.com/lang/2720)\n[Napu](https://wals.info/languoid/lect/wals_code_npu)\nhttps://en.wikipedia.org/wiki/Napu_language\nhttps://www.wikidata.org/entity/Q12953768"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:garantjang:dahlankadjia:etal:89**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvld:AdrianiKruyt:Celebes**\n**hh:hvld:Martens:Badaic**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:hvw:Wumbu:Sulawesi-Tengah**\n**hh:phon:HannaHanna:Napu**\n**hh:s:Garantjang:Napu**\n**hh:t:Woensdregt:Berg-Toradja**\n**hh:typ:TenCate:Napoesch**\n**hh:vld:Wacana:Poso**\n**sil16:25737**\n**sil16:26543**\n**sil16:37250**\n**sil16:37251**\n**sil16:37276**\n**sil16:37685**\n**sil16:42195**"
+  },
+  "altnames": {
+    "wals": "\nNapu",
+    "ruhlen (1987)": "\nNapu",
+    "moseley & asher (1994)": "\nNapu",
+    "multitree": "\nNapu\nPekurehua",
+    "lexvo": "\nNapu [en]",
+    "elcat": "\nNapu\nPekurehua",
+    "hhbib_lgcode": "\nNapoesch"
+  },
+  "triggers": {
+    "lgcode": "\nnapoesch\nnapu\nbadaic\nseombong\ntorapapuha\nvoornaamwoorden\nwuru\nNOT los AND NOT story AND napu"
+  },
+  "identifier": {
+    "wals": "npu",
+    "multitree": "npy",
+    "endangeredlanguages": "2720"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Martens:Badaic**",
+    "subrefs": "\n**hh:hvld:Martens:Badaic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Napu (2720-npy) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

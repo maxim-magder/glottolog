@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sira",
+    "hid": "swj",
+    "level": "language",
+    "iso639-3": "swj",
+    "latitude": "-1.78084",
+    "longitude": "10.4635",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36599\nhttps://en.wikipedia.org/wiki/Shira_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2713**\n**eballiso2009:13071**\n**eballiso2009:23010**\n**eballiso2009:23016**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:35**\n**eballiso2009:37**\n**eballiso2009:37063**\n**eballiso2009:40**\n**eballiso2009:41**\n**eballiso2009:4310**\n**eballiso2009:7942**\n**hh:el:Gelas:Gisir**\n**hh:g:Dodo-Bounguendza:Gisira**\n**hh:h:Struck:Moyen-Congo**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hew:duChaillu:Afrique-Sauvage**\n**hh:hew:duChaillu:Ashango**\n**hh:htyp:Blanchon:Gabon**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvld:Raponda:Gabon**\n**hh:phon:Belamie:Eshira**\n**hh:phon:Koumba:Gisir**\n**hh:phon:Koundy:Guietsou**\n**hh:phonv:Mouguiama:Gisir**\n**hh:s:Raponda-Walker:Gisira**\n**mpieva:RapondaWalker1994Elements**"
+  },
+  "altnames": {
+    "multitree": "\nEshira\nGisira\nIchira\nIshira\nIsira\nShira\nShire\nSira\nYichira",
+    "lexvo": "\nSira [en]",
+    "hhbib_lgcode": "\nApono-Ashira-Ashango\nB41_Shira\nEshira\nEshira-Mashango\nGisir\nI think Guietso is Sira\nShira B41"
+  },
+  "triggers": {
+    "lgcode": "\nshekiani\nseke\ngisira\nashango\nmboumba\ngisir\neshira\nguietsou\nb41"
+  },
+  "identifier": {
+    "multitree": "swj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo** **hh:hv:deSchryver:Kikongo**:138-145",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Bostoen:Aire-Kongo**\n**hh:hv:deSchryver:Kikongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sira (swj-swj) = 6a* (Vigorous)."
+  }
+}

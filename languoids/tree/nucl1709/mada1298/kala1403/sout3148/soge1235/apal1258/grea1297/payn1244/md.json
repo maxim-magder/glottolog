@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Manat",
+    "hid": "pmr",
+    "level": "language",
+    "iso639-3": "pmr",
+    "latitude": "-4.94303",
+    "longitude": "144.879",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Manat](https://endangeredlanguages.com/lang/4979)\n[Manat](https://grambank.clld.org/languages/payn1244)\n[Paynamar](https://lexibank.clld.org/languages/transnewguineaorg-paynamar)\n[paynamar](https://lexibank.clld.org/languages/zgraggenmadang-paynamar)\nhttps://en.wikipedia.org/wiki/Manat_language\nhttps://www.wikidata.org/entity/Q3450824"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4709**\n**cldf:daniels:14**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hv:Daniels:Sogeram**\n**hh:hv:Daniels:Sogeram:2020**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:SAdelbert**\n**hh:s:Daniels:Manat**"
+  },
+  "altnames": {
+    "multitree": "\nPaynamar",
+    "lexvo": "\nPaynamar [en]",
+    "hhbib_lgcode": "\nPaynamar\nPaynamat",
+    "elcat": "\nManat\nPaynamar"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert\nmanat"
+  },
+  "identifier": {
+    "multitree": "payn;pmr",
+    "endangeredlanguages": "4979"
+  },
+  "classification": {
+    "sub": "**hh:hv:Daniels:Sogeram:2015**",
+    "subrefs": "\n**hh:hv:Daniels:Sogeram:2015**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Manat (4979-pmr) = Severely Endangered (60 percent certain, based on the evidence available) [Daniels 2014](cldf:daniels:14)"
+  }
+}

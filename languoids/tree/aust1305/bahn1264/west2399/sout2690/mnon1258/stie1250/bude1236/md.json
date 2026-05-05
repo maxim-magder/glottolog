@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Budeh Stieng",
+    "hid": "stt",
+    "level": "language",
+    "iso639-3": "stt",
+    "latitude": "11.6917",
+    "longitude": "106.691",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "VN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953891"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Azemar:Stieng**\n**hh:d:Azemar:Stieng:1887**\n**hh:e:Rosset:Hinterindischen**\n**hh:hvphon:Le:Stieng**\n**hh:hwsoc:BarrPawley:Bahnaric**\n**hh:typ:Owen:Stieng**"
+  },
+  "altnames": {
+    "multitree": "\nBudeh\nLower Stieng\nSouthern Stieng\nStieng\nStieng Budeh\nStieng, Budeh",
+    "lexvo": "\nBudeh Stieng [en]",
+    "hhbib_lgcode": "\nOu Am\nStieng"
+  },
+  "triggers": {
+    "lgcode": "\ntwo AND stieng\nbrolam"
+  },
+  "identifier": {
+    "multitree": "stt"
+  },
+  "classification": {
+    "sub": "**hh:typ:Owen:Stieng**:7-9 **hh:soc:LambrechtMann:Mel-Khaonh**",
+    "subrefs": "\n**hh:soc:LambrechtMann:Mel-Khaonh**\n**hh:typ:Owen:Stieng**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Stieng (2461-) = Severely endangered"
+  }
+}

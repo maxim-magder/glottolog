@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Apiaka-Tocantins",
+    "hid": "NOCODE_Apiaka-Tocantins",
+    "level": "language",
+    "latitude": "-6.5",
+    "longitude": "-49.771729",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Apiak%C3%A1_of_Tocantins\nhttps://www.wikidata.org/entity/Q16829627",
+    "timespan": "1970-01-01/1970-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:w:Ehrenreich:Apiaka**\n**hh:w:Krause:Yaruma**"
+  },
+  "triggers": {
+    "lgcode": "\nzentralbrasiliens AND yaruma"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Apiaka of the Tocantins river, an extinct Cariban language of the Xingú subgroup attested with wordlists in **hh:w:Ehrenreich:Apiaka**, **hh:w:Krause:Yaruma**, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29.\nIt is not to be confused with the more well-known Apiaká [api] language of the Tapajos river in Tupi-Guarani Subgroup VI. See also: Apiaká [api].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Apiaka-Tocantins"
+  },
+  "classification": {
+    "sub": "**hh:w:Krause:Yaruma**:41",
+    "subrefs": "\n**hh:w:Krause:Yaruma**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Apiaka-Tocantins (NOCODE_Apiaka-Tocantins-NOCODE_Apiaka-Tocantins) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nApiaka of the Tocantins\nApiaká des Tocantins"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Central Bontoc",
+    "hid": "lbk",
+    "level": "language",
+    "iso639-3": "lbk",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "longitude": "120.92",
+    "latitude": "17.08",
+    "links": "\n[Bontok](https://wals.info/languoid/lect/wals_code_btk)\n[Central Bontoc](https://grambank.clld.org/languages/cent2292)\nhttps://en.wikipedia.org/wiki/Central_Bontok_language\nhttps://www.wikidata.org/entity/Q63257803"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:bodner:88**\n**cldf:calculator:14**\n**cldf:carling:04**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:howell:09**\n**cldf:jenks:05**\n**cldf:keesing:49**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:75**\n**cldf:luzon:19**\n**cldf:mckay:06**\n**cldf:np:14:5**\n**cldf:ofthephilippineislands:21**\n**cldf:prill-brett:04**\n**cldf:reid:05**\n**cldf:yumul:dimalanta:etal:09**\n**hh:d:Reid:Bontok**\n**hh:e:Jenks:Bontoc-Igorot**\n**hh:g:Reid:Bontoc**\n**hh:g:Waterman:Bontoc-Igorots**\n**hh:gdt:Seidenadel:Bontoc**\n**hh:hv:Reid:CCordilleran**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:hw:Vanoverbergh:Luzon**\n**hh:phon:Reid:Central-Bontoc**\n**hh:s:Nava:Mainit-Bontoc**\n**hh:s:Seidenadewl:Bontoc**\n**hh:typ:Benn:Central-Bontoc**\n**hh:typ:Benn:Central-Bontok:1987**\n**hh:typ:Lee:Central-Bontok**\n**hh:typ:Macabuhay:Central-Bontoc**\n**hh:w:Baer:Philippines**\n**hh:w:Beyer:Malaya-Igorot**\n**hh:w:Clapp:Igorot**\n**hh:w:Hunt:Bontoc**\n**hh:w:Yap:Philippine**\n**iso6393:2009-072**\n**sil16:12154**\n**sil16:12155**\n**sil16:12158**\n**sil16:12159**\n**sil16:12553**\n**sil16:14733**\n**sil16:14734**\n**sil16:14735**\n**sil16:15372**\n**sil16:17991**\n**sil16:17992**\n**sil16:17993**\n**sil16:17994**\n**sil16:17996**\n**sil16:17997**\n**sil16:19665**\n**sil16:21556**\n**sil16:22444**\n**sil16:22445**\n**sil16:22446**\n**sil16:22653**\n**sil16:23279**\n**sil16:23280**\n**sil16:23281**\n**sil16:24069**\n**sil16:31172**\n**sil16:31820**\n**sil16:32984**\n**sil16:33268**\n**sil16:33269**\n**sil16:33966**\n**sil16:33967**\n**sil16:34072**\n**sil16:34209**\n**sil16:34210**\n**sil16:34243**\n**sil16:34921**\n**sil16:34922**\n**sil16:36740**\n**sil16:40155**\n**sil16:40156**\n**sil16:44745**\n**sil16:45618**\n**sil16:47337**\n**sil16:47343**\n**sil16:51518**"
+  },
+  "triggers": {
+    "lgcode": "\nbontok\nigorots\nmainit"
+  },
+  "classification": {
+    "sub": "**hh:d:Reid:Bontok**:v **hh:hv:Himes:Meso-Cordilleran** **hh:v:Reid:Isinay**",
+    "subrefs": "\n**hh:v:Reid:Isinay**\n**hh:hv:Himes:Meso-Cordilleran**\n**hh:d:Reid:Bontok**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bontok, Central (lbk-lbk) = 5* (Developing)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBontoc Igorrote\nBontoc-Central\nBontoc-Guinaang\nBontoc-Guinaang (BonG.)\nBontok Igorot\nBontok-Central\nFinontok\nIgorrote Bontoc\nKhininaang\nKhininaang the dialect spoken in Guina-ang\nMa-Init\nMainit\nMalaya Igorot\nNorthern Bontok\nSadanga\nSadanga has (Macabuhay 1979: 86) minor phonological and lexical differences to Guinaang\nTinokokan"
+  }
+}

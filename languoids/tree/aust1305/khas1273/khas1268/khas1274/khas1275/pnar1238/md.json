@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pnar",
+    "hid": "pbv",
+    "level": "language",
+    "iso639-3": "pbv",
+    "latitude": "24.8237",
+    "longitude": "92.2628",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN"
+    ],
+    "links": "\n[Pnar](https://grambank.clld.org/languages/pnar1238)\nhttps://en.wikipedia.org/wiki/Pnar_language\nhttps://phoible.org/languages/pnar1238\nhttps://www.wikidata.org/entity/Q3501850"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Passah:Pnar**\n**hh:g:Bareh:Jowai-Rymbai-Khasi**\n**hh:g:Ring:Pnar**\n**hh:h:Waddell:Brahmaputra**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Bareh:Jowai-Narwan**\n**hh:hvw:Grierson:2**\n**hh:hvw:Nagarajaetal:Khasian**\n**hh:hvwphon:Khyriem:Khasi-Regional**\n**hh:phon:Ring:Pnar**\n**hh:s:Bareh:Pnar**\n**hh:s:Bareh:Pnar:2014**\n**hh:s:Choudhary:Pnar**\n**hh:s:Grignard:Pnar**\n**hh:s:Ring:Pnar**\n**hh:sv:Diengdoh:War-Pnar**\n**hh:typ:Bareh:Pnar**\n**hh:w:Campbell:India**"
+  },
+  "altnames": {
+    "multitree": "\nMnar\nPnar\nSynteng\nSənteng",
+    "lexvo": "\nPnar [en]\nPnar language [en]",
+    "hhbib_lgcode": "\nJowai\nRymbai\nSin-Teng\nSynteng\nWahiajer Pnar"
+  },
+  "triggers": {
+    "lgcode": "\npnar\njowai\njaintia"
+  },
+  "identifier": {
+    "multitree": "pbv"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Nagarajaetal:Khasian** **hh:hv:Sidwell:Khasian:2018**",
+    "subrefs": "\n**hh:hvw:Nagarajaetal:Khasian**\n**hh:hv:Sidwell:Khasian:2018**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pnar (pbv-pbv) = 6a* (Vigorous)."
+  }
+}

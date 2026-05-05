@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chinali",
+    "hid": "cih",
+    "level": "language",
+    "iso639-3": "cih",
+    "latitude": "32.555",
+    "longitude": "76.961",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Chinali_language\n[Chinali](https://endangeredlanguages.com/lang/11007)\nhttps://www.wikidata.org/entity/Q11855245"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mir:17**\n**hh:h:Mir:Chinali**\n**hh:hld:Tobdan:Himacal-Prades**\n**hh:hv:Kaul:Pahari**\n**hh:hvwsoc:Chamberlain:Lahul**\n**hh:s:Sharma:Chinali**\n**hh:w:Kaul:Cinali**"
+  },
+  "altnames": {
+    "multitree": "\nChana\nChannali\nChinal\nChinali\nDagi\nHarijan\nShipi",
+    "lexvo": "\nChinali [en]",
+    "hhbib_lgcode": "\nChinalbhasho\nChinali-Gushal\nChinali-Nalda\nCinali",
+    "elcat": "\nChana\nChannali\nChinal\nChinali\nDagi\nHarijan\nShipi"
+  },
+  "triggers": {
+    "lgcode": "\ncinali\nchinali"
+  },
+  "identifier": {
+    "multitree": "cih",
+    "endangeredlanguages": "11007"
+  },
+  "classification": {
+    "sub": "**hh:s:Sharma:Chinali**:1 **hh:hvwsoc:Chamberlain:Lahul**:16 **hh:hv:Kaul:Pahari**:107-111",
+    "subrefs": "\n**hh:hvwsoc:Chamberlain:Lahul**\n**hh:s:Sharma:Chinali**\n**hh:hv:Kaul:Pahari**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinali (cih-cih) = 6b* (Threatened)."
+  }
+}

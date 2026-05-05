@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Teguima",
+    "hid": "opt",
+    "level": "language",
+    "iso639-3": "opt",
+    "latitude": "31.15211",
+    "longitude": "-110.06212",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Teguima](https://grambank.clld.org/languages/opat1246)\nhttps://en.wikipedia.org/wiki/Opata_language\nhttps://www.wikidata.org/entity/Q2304583\n[Ópata](https://endangeredlanguages.com/lang/4927)\n[Ópata](https://lexibank.clld.org/languages/utoaztecan-Opata)",
+    "timespan": "1680-01-01/1930-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1731b**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:johnson:50**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:239**\n**cldf:np:nd:264**\n**cldf:pennington:81**\n**hh:d:Shaul:Older-Teguima**\n**hh:d:Shaul:Younger-Teguima**\n**hh:g:Guzman:Teguima**\n**hh:g:Lombardo:Teguima**\n**hh:hbld:Shaul:Opatan**\n**hh:hs:Pimentel:Mexico**\n**hh:ht:Hervas:Saggio**\n**hh:ht:Marietti:CCL**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hv:Shaul:OpataEudeve**\n**hh:hvld:deWolf:Opata-Eudeve**\n**hh:lde:Yetman:Opatas**\n**hh:phon:Shaul:Teguima**\n**hh:typ:Ramirez:Teguima**\n**hh:typ:Shaul:Teguima:Morphology**\n**hh:w:Escalante:Sonora**\n**hh:w:Pimentel:Opata**\n**mpieva:Smith1970Agrammat**"
+  },
+  "altnames": {
+    "multitree": "\nCahita\nDohema\nEndeve\nEudeve\nHeve\nOpata\nOpata-Eudeve\nOpatan",
+    "lexvo": "\nOpata [en]",
+    "hhbib_lgcode": "\nArivechi Opata\nOpata\nOpataice\nPónida does not match Pimentel's Jova and is presumably some kind of Opata\nÓpata\nÓpata/Teguima",
+    "elcat": "\nOpata\nOpatan\nTeguima\nÓpata"
+  },
+  "triggers": {
+    "lgcode": "\nopata\nheve\neudeve"
+  },
+  "identifier": {
+    "wals": "eud",
+    "multitree": "opt-opa;opt",
+    "endangeredlanguages": "4927"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ópata (4927-opt) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

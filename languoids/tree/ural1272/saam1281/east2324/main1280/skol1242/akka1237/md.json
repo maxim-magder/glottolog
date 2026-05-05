@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Akkala Saami",
+    "hid": "sia",
+    "level": "language",
+    "iso639-3": "sia",
+    "latitude": "67.8625",
+    "longitude": "32.4046",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Akkala Saami](https://endangeredlanguages.com/lang/942)\nhttps://en.wikipedia.org/wiki/Akkala_S%C3%A1mi\nhttps://www.wikidata.org/entity/Q35241",
+    "timespan": "2003-01-01/2003-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:moseley:05**\n**cldf:np:nd:264**\n**cldf:rasmussen:shaunnolan:20**\n**cldf:scheller:13**\n**cldf:ylikoski:ylikoski:16**\n**hh:g:Zajkov:Babinskij**\n**hh:s:Halasz:Orosz-Lapp**\n**hh:t:KertZajkov:Saamskoj**"
+  },
+  "altnames": {
+    "multitree": "\nAhkkil\nAkkala-Lappisch\nBabino\nBabinsk\nEastern\nEastern Saami\nLapp\nLappic\nLappisch\nLappish\nOstlappisch\nRussisch-Lappisch\nSaami\nSaami akkala\nSaami, Akkala\nSaamí de Akkala\neast dialect\nlapin kieli\nlapon\nlappisk\nlapón de Akkala\nlopary\nostlappischer Dialekt\nsaamen kieli\nsaamskij jazyk\nsabme\nsame-\nsāme-giellâ",
+    "lexvo": "\nAkalos samių kalba [lt]\nAkkala Sami [en]\nAkkala számi nyelv [hu]\nAkkalansaame [fi]\nAkkalasamische Sprache [de]\nAkkalasamisk [no]\nAkkalasamisk språk [nn]\nAkkalasamiska [sv]\nLingua sami di Akkala [it]\nLíngua sami de Akkala [pt]\nSame d'Akkala [fr]\nSamieg Akkala [br]\nÁhkkilsámegiella [se]\nАкала самиски јазик [mk]\nАкала-саамски език [bg]\nАккала саами [cv]\nБабинский саамский язык [ru]",
+    "hhbib_lgcode": "\nAkkala\nAkkala Sami\nBabinskij",
+    "elcat": "\nAhkkil\nAkkala Saami\nAkkala Sami\nAkkalansaame\nBabino Saami\nBabinsk\nču´kksuâlis\nАккала\nбабинский саамский язык"
+  },
+  "triggers": {
+    "lgcode": "\nsaamskogo\nfonologo\nbabinskij\nmorfologiceskoe"
+  },
+  "identifier": {
+    "multitree": "sia",
+    "endangeredlanguages": "942"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sammallahti:Saami**:6-38",
+    "subrefs": "\n**hh:hv:Sammallahti:Saami**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saami, Akkala (sia-sia) = 9 (Dormant)."
+  }
+}

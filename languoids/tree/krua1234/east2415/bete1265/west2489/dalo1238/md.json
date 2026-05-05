@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Daloa Bété",
+    "hid": "bev",
+    "level": "language",
+    "iso639-3": "bev",
+    "latitude": "6.69281",
+    "longitude": "-6.63944",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11155819\nhttps://phoible.org/languages/dalo1238\n[Bété](https://wals.info/languoid/lect/wals_code_bet)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dunglas:39**\n**cldf:hallouin:47**\n**cldf:kobben:56**\n**cldf:koopman:84**\n**cldf:paulme:62**\n**cldf:werle:gbalehi:76**\n**eballiso2009:31887**\n**eballiso2009:50605**\n**eballiso2009:9056**\n**hh:d:Zogbo:Bete**\n**hh:e:Paulme:Bete**\n**hh:g:Zogbo:Bete**\n**hh:g:Zogbo:Daloa**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hvs:Marchese:Kru**\n**hh:typ:Kipre:Bete-Daloa**\n**hh:w:Marchese:Kru-Lexemes**\n**mpieva:Zogbo1981Descript**\n**sil16:21913**"
+  },
+  "altnames": {
+    "glottolog": "\nDaloa Bete",
+    "wals": "\nBété",
+    "wals other": "\nGbadi",
+    "ruhlen (1987)": "\nBete",
+    "moseley & asher (1994)": "\nBete",
+    "multitree": "\nBete\nBété\nBété, Daloa\nDaloua Bété\nNorthern Bété",
+    "lexvo": "\nDaloa Bété [en]",
+    "hhbib_lgcode": "\nBete de Daloa\nBete-Daloa\nBete-Daloa-Niabwa\nBété-Daloa"
+  },
+  "triggers": {
+    "lgcode": "\nparler AND daloa\ndaloa"
+  },
+  "identifier": {
+    "wals": "bet",
+    "multitree": "bev"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:38-60 **hh:hv:Marchese:Kru:1989** **hh:hv:Zogbo:Kru**",
+    "subrefs": "\n**hh:hv:Zogbo:Kru**\n**hh:hv:Vogler:Kru:2017**\n**hh:hv:Marchese:Kru:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bété, Daloa (bev-bev) = 5* (Developing)."
+  }
+}

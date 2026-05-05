@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Hobyót",
+    "hid": "hoh",
+    "level": "language",
+    "iso639-3": "hoh",
+    "latitude": "17.216",
+    "longitude": "52.8334",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "OM",
+      "YE"
+    ],
+    "links": "\n[Hobyot](https://endangeredlanguages.com/lang/4271)\nhttps://en.wikipedia.org/wiki/Hobyot\nhttps://www.wikidata.org/entity/Q33299"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:stroomer:04**\n**hh:dt:Nagano:Hobyot**\n**hh:g:Manoubi:Hobyot**\n**hh:hv:Simeone-Senelle:MSA**\n**hh:hv:Simeone-Simelle:SouthArabian**\n**hh:typ:Buturi:Hobyot**\n**hh:v:Rubin:Hobyot**\n**hh:vld:Arnold:Hobyot**\n**hh:w:MorrisWatson:Modern-South-Arabian**"
+  },
+  "altnames": {
+    "glottolog": "\nHobyot",
+    "multitree": "\nHabyot\nHewbyót\nHobi\nHobioto\nHobyot\nHobyót",
+    "lexvo": "\nHobyót [en]\nHobyót hizkuntza [eu]\nHobyót language [en]\nLenga Hobyót [pms]",
+    "hhbib_lgcode": "\nHobyot\nHobyōt",
+    "elcat": "\nHabyot\nHewbyót\nHobi\nHobyot\nHobyót"
+  },
+  "triggers": {
+    "lgcode": "\nhobyot"
+  },
+  "identifier": {
+    "multitree": "hoh",
+    "endangeredlanguages": "4271"
+  },
+  "classification": {
+    "sub": "**hh:v:Rubin:Hobyot**",
+    "subrefs": "\n**hh:v:Rubin:Hobyot**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Hobyot (4271-hoh) = Endangered (20 percent certain, based on the evidence available) [Simeone-Senelle 2011](cldf:simeone-senelle:11)"
+  }
+}

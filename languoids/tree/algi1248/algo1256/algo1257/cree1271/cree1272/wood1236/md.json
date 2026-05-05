@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Woods Cree",
+    "hid": "cwd",
+    "level": "language",
+    "iso639-3": "cwd",
+    "latitude": "57.0",
+    "longitude": "-99.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Woods Cree](https://grambank.clld.org/languages/wood1236)\nhttps://en.wikipedia.org/wiki/Woods_Cree\nhttps://www.wikidata.org/entity/Q56305"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Smith:Western-Woods-Cree**\n**hh:g:Howse:Cree**\n**hh:g:Starks:Woods-Cree**\n**hh:hvs:MacKenzie:Cree-Montagnais-Naskapi**\n**mpieva:Watkins1981Adiction**\n**sil16:11458**"
+  },
+  "altnames": {
+    "multitree": "\nClisteno del bosque\nCree\nCree des bois\nCree, Woods\nWoods Cree",
+    "lexvo": "\nWoods Cree [en]\nWoods Cree language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nalberta\nwoods"
+  },
+  "identifier": {
+    "multitree": "cwd"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Woods Cree (275-cwd) = Vulnerable"
+  }
+}

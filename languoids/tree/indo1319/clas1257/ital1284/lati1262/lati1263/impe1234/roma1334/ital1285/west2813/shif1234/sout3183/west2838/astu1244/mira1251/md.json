@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mirandese",
+    "hid": "mwl",
+    "level": "language",
+    "iso639-3": "mwl",
+    "latitude": "41.5375",
+    "longitude": "-6.38371",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES",
+      "PT"
+    ],
+    "links": "\n[Miranda do Douro](https://endangeredlanguages.com/lang/4734)\nhttps://en.wikipedia.org/wiki/Mirandese_language\nhttps://phoible.org/languages/mira1251\nhttps://www.wikidata.org/entity/Q13330"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:rodriguez:nd:2**\n**hh:g:deVasconcellos:Mirandesa**\n**hh:ld:Soares:Mirandese**\n**hh:s:Terao:Mirandese**\n**hh:soc:Barros:Mirandes**\n**hh:soc:Merlan:Mirandesa**"
+  },
+  "altnames": {
+    "multitree": "\nMiranda do Douro\nMirandesa\nMirandese",
+    "lexvo": "\nBahasa Miranda [id]\nIdioma mirandés [ast]\nJęzyk mirandyjski [pl]\nLenga mirandèisa [pms]\nLhéngua mirandesa [mwl]\nLimba mirandeză [ro]\nLingua Mirandica [la]\nLingua mirandesa [gl]\nLingua mirandese [it]\nLuenga mirandesa [ext]\nLíngua mirandesa [pt]\nMiranda lingvo [eo]\nMirandais [fr]\nMirandees [li]\nMirandeesi [fi]\nMirandeg [br]\nMirandera [eu]\nMirandese [en]\nMirandese language [en]\nMirandesisk [no]\nMirandesiska [sv]\nMirandski jezik [hr]\nMirandès [ca]\nMirandés [an]\nMirandés-ngî [hak]\nMirandês [frp]\nmirandais [fr]\nМиранд йылме [mhr]\nМирандский язык [ru]\nמירנדזית [he]\nلغة ميراندية [ar]\nミランダ語 [ja]\n미란다어 [ko]",
+    "elcat": "\nMiranda do Douro\nMirandesa\nMirandese\nMirandês"
+  },
+  "triggers": {
+    "lgcode": "\nmirandes\nmirandese\nphilologia\nmirandesa"
+  },
+  "identifier": {
+    "multitree": "mwl",
+    "endangeredlanguages": "4734"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:99-106",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Miranda do Douro (4734-mwl) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

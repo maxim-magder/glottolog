@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mango",
+    "hid": "mge",
+    "level": "language",
+    "iso639-3": "mge",
+    "latitude": "8.75884",
+    "longitude": "16.9082",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q713659\n[Mango](https://wals.info/languoid/lect/wals_code_mgq)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Fideleetal:Mango**\n**hh:hwdial:Johnson:Doba**\n**hh:hwsoc:IsaacJohnson:Doba**\n**hh:s:Khamis:Mango**\n**sil16:41855**"
+  },
+  "altnames": {
+    "multitree": "\nDoba\nMango\nMatepi\nMbay Doba\nMongo",
+    "lexvo": "\nMango [en]"
+  },
+  "triggers": {
+    "lgcode": "\nNOT varietes AND doba"
+  },
+  "identifier": {
+    "wals": "mgq",
+    "multitree": "mge"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mango (mge-mge) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Geba Karen",
+    "hid": "kvq",
+    "level": "language",
+    "iso639-3": "kvq",
+    "latitude": "19.4991",
+    "longitude": "96.9492",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\n[Geba Karen](https://grambank.clld.org/languages/geba1237)\nhttps://en.wikipedia.org/wiki/Geba_Karen_language\nhttps://www.wikidata.org/entity/Q12952581"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1890**\n**hh:g:Shee:Geba-Karen**\n**hh:hld:Grierson:12:Burma**\n**hh:hvw:Kauffman:Central-Karen**"
+  },
+  "altnames": {
+    "multitree": "\nBrè\nBwe\nEastern Bwe\nGeba\nGebo\nKaba\nKaren, Geba\nKaren,Geba\nKarenbyu\nKayinbyu\nWhite Karen",
+    "lexvo": "\nGeba Karen [en]",
+    "hhbib_lgcode": "\nGeba\nKaren-Geba\nKarenbyu"
+  },
+  "triggers": {
+    "lgcode": "\ntower AND files"
+  },
+  "identifier": {
+    "multitree": "kvq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Karen** **hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**\n**hh:hv:Manson:Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Karen, Geba (kvq-kvq) = 5 (Developing)."
+  }
+}

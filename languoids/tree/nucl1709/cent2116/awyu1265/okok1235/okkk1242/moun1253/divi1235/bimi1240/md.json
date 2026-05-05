@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bimin",
+    "hid": "bhl",
+    "level": "language",
+    "iso639-3": "bhl",
+    "latitude": "-5.38732",
+    "longitude": "142.04",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bimin](https://endangeredlanguages.com/lang/10692)\n[Bimin](https://grambank.clld.org/languages/bimi1240)\n[Bimin (Fagobiw Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-bimin-fagobiw)\n[Bimin (Sengen Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-bimin-sengen)\nhttps://en.wikipedia.org/wiki/Bimin_language\nhttps://www.wikidata.org/entity/Q4913743"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:97:2**\n**hh:e:Eggertsson:Kwermin**\n**hh:e:Eggertsson:Kwermin:2003**\n**hh:ew:Poole:Bimin-Kuskusmin**\n**hh:hld:Lean:Western-Province**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Healey:Ok**\n**hh:s:Weber:Bimin**\n**sil16:36622**\n**sil16:38125**\n**sil16:38126**\n**sil16:38127**\n**silpng:silpng1991-2000:398**\n**silpng:silpng1991-2000:399**\n**silpng:silpng1991-2000:400**\n**silpng:silpng1991-2000:401**\n**silpng:silpng1991-2000:402**\n**silpng:silpng2001-2003:107**\n**silpng:silpng2001-2003:117**\n**silpng:silpng2004:124**"
+  },
+  "altnames": {
+    "lexvo": "\nBimin [en]",
+    "hhbib_lgcode": "\nBK Bimin-Kuskusmin\nBM Bimin-Bimin\nKwermin",
+    "elcat": "\nBimin"
+  },
+  "triggers": {
+    "lgcode": "\nyailusso\nteing\nbim\nbimin\nskin\nkwermin"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Healey:Ok**",
+    "subrefs": "\n**hh:hvw:Healey:Ok**"
+  },
+  "identifier": {
+    "endangeredlanguages": "10692"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bimin (10692-bhl) = Vulnerable (60 percent certain, based on the evidence available) [n.a. 1997](cldf:np:97:2)"
+  }
+}

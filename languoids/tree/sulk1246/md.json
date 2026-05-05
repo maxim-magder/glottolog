@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sulka",
+    "hid": "sua",
+    "level": "language",
+    "iso639-3": "sua",
+    "latitude": "-5.03471",
+    "longitude": "151.891",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sulka](https://endangeredlanguages.com/lang/10810)\n[Sulka](https://grambank.clld.org/languages/sulk1246)\n[Sulka](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Sulka)\n[Sulka](https://wals.info/languoid/lect/wals_code_sul)\nhttps://en.wikipedia.org/wiki/Sulka_language\nhttps://www.wikidata.org/entity/Q7636341"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**cldf:mueller:16**\n**cldf:nichols:92**\n**cldf:reesink:15**\n**cldf:schneider:62:2**\n**hh:e:Hill:Mendi-Sulka**\n**hh:e:Rascher:Sulka**\n**hh:e:Schneider:Sulka**\n**hh:g:Schneider:Sulka**\n**hh:hew:Parkinson:Sudsee**\n**hh:hv:Wurm:EPapuan**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvtyp:DunnReesinkTerrill:EPapuan**\n**hh:hw:Lindrud:Open-Wide**\n**hh:ld:Schmidt:Sulka**\n**hh:s:Muller:Sulka**\n**hh:s:Reesink:Sulka**\n**hh:s:Tharp:Sulka**\n**hh:w:Grace:47**\n**sil16:36613**\n**sil16:37100**\n**sil16:37520**\n**silpng:silpng1956-1990:1720**\n**silpng:silpng1991-2000:1923**\n**silpng:silpng1991-2000:1924**\n**silpng:silpng1991-2000:1925**\n**silpng:silpng1991-2000:1926**\n**silpng:silpng1991-2000:1927**\n**silpng:silpng1991-2000:1928**\n**silpng:silpng1991-2000:1929**\n**silpng:silpng1991-2000:1930**\n**silpng:silpng1991-2000:1931**\n**silpng:silpng1991-2000:1932**\n**silpng:silpng1991-2000:1933**\n**silpng:silpng1991-2000:1934**\n**silpng:silpng1991-2000:1935**"
+  },
+  "altnames": {
+    "wals": "\nSulka",
+    "ruhlen (1987)": "\nSulka",
+    "moseley & asher (1994)": "\nSulka",
+    "multitree": "\nNeu-Pommern\nSulka",
+    "lexvo": "\nJęzyk sulka [pl]\nSulka [en]\nSulka language [en]",
+    "elcat": "\nSulka",
+    "hhbib_lgcode": "\nGuma"
+  },
+  "triggers": {
+    "lgcode": "\nsulka"
+  },
+  "identifier": {
+    "wals": "genus/sulka",
+    "multitree": "sulk;sua",
+    "endangeredlanguages": "10810"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:s:Reesink:Sulka**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sulka (10810-sua) = Threatened (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Zizilivakan",
+    "hid": "ziz",
+    "level": "language",
+    "iso639-3": "ziz",
+    "latitude": "10.4689",
+    "longitude": "13.5233",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Fali Jilbu](https://lexibank.clld.org/languages/kraftchadic-Falijilbu)\n[Zizilivakan](https://endangeredlanguages.com/lang/3802)\nhttps://en.wikipedia.org/wiki/Zizilivakan_language\nhttps://www.wikidata.org/entity/Q56300"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4019**\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**hh:he:SIL:Nigeria**\n**hh:hew:Meek:Tribal:I**\n**hh:hw:Kraft:Chadic:III**"
+  },
+  "altnames": {
+    "multitree": "\nFali of Jilbu\nZiliva\nZizilivakan\nZiziliveken\nÀmzírív",
+    "lexvo": "\nZizilivakan [en]\nZizilivakan language [en]\nZizilivakaneg [br]",
+    "hhbib_lgcode": "\nFali Jilbu\nZhilvu",
+    "elcat": "\nFali of Jilbu\nZiliva\nZizilivakan\nZiziliveken\nÀmzírív"
+  },
+  "triggers": {
+    "lgcode": "\niii AND biu"
+  },
+  "identifier": {
+    "multitree": "ziz",
+    "endangeredlanguages": "3802"
+  },
+  "classification": {
+    "sub": "**hh:hv:BarreteauDieu:ENCameroun**:65-66",
+    "subrefs": "\n**hh:hv:BarreteauDieu:ENCameroun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zizilivakan (3802-ziz) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

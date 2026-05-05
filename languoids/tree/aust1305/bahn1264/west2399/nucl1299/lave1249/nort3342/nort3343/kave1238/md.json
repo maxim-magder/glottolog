@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kavet",
+    "hid": "krv",
+    "level": "dialect",
+    "iso639-3": "krv",
+    "latitude": "14.1796",
+    "longitude": "106.586",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "LA"
+    ],
+    "links": "\n[Kravet](https://endangeredlanguages.com/lang/4440)\nhttps://www.wikidata.org/entity/Q12953649"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**iso6393:2006-039**"
+  },
+  "altnames": {
+    "multitree": "\nKavet\nKhvek\nKowet\nKravet",
+    "lexvo": "\nKavet [en]",
+    "hhbib_lgcode": "\nKravet",
+    "elcat": "\nKavet\nKhvek\nKowet\nKravet"
+  },
+  "identifier": {
+    "multitree": "krv",
+    "endangeredlanguages": "4440"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kravet (4440-krv) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

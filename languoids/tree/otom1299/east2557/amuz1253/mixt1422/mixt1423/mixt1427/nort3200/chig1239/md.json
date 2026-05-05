@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Chigmecatitlán Mixtec",
+    "hid": "mii",
+    "level": "language",
+    "iso639-3": "mii",
+    "latitude": "18.6303",
+    "longitude": "-98.1046",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northern Baja Mixtec](https://endangeredlanguages.com/lang/10534)\nhttps://www.wikidata.org/entity/Q12953724\nhttps://en.wikipedia.org/wiki/Chigmecatitl%C3%A1n_Mixtec"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Josserand:Mixteca**"
+  },
+  "altnames": {
+    "glottolog": "\nChigmecatitlan Mixtec",
+    "multitree": "\nCentral Misteko\nCentral Puebla Mixtec\nCentreal Mixteco\nMixtec, Chigmecatitlán\nMixteco de Santa María Chigmecatitlán",
+    "lexvo": "\nChigmecatitlán Mixtec [en]",
+    "hhbib_lgcode": "\n85 Santa Catarina Tlaltempan Mixtec Josserand 1983\n92 Santa Maria Chigmecatitlan Mixtec Josserand 1983\nChig\nMixtec-Chigmecatitlán\nSanta Catarina Tlaltempan\nTlal\nTlaltempan",
+    "elcat": "\nAcatlán Mixtec\nCentral Puebla Mixtec\nChazumba Mixtec\nChigmecatitlán Mixtec\nMixteco de Chazumba\nMixteco de Santa María Chigmecatitlán\nMixteco de la Frontera Puebla-Oaxaca\nMixteco de la frontera Puebla-Oaxaca\nMixteco del Sur de Puebla\nNorthern Baja Mixtec\nNorthern Oaxaca Mixtec\nSouthern Puebla Mixtec\nXayacatlán de Bravo"
+  },
+  "identifier": {
+    "multitree": "mii",
+    "endangeredlanguages": "10534"
+  },
+  "classification": {
+    "sub": ": **hh:hv:Auderset:Mixtecan:2023**:17-18 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Baja Mixtec (10534) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

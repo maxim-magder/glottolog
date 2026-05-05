@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Saliba",
+    "hid": "sbe",
+    "level": "language",
+    "iso639-3": "sbe",
+    "latitude": "-10.6148",
+    "longitude": "150.727",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Saliba](https://endangeredlanguages.com/lang/2606)\n[Saliba](https://lexibank.clld.org/languages/abvdoceanic-Saliba)\n[Saliba (in Papua New Guinea)](https://wals.info/languoid/lect/wals_code_slb)\nhttps://en.wikipedia.org/wiki/Saliba_language_(Papua_New_Guinea)\nhttps://www.wikidata.org/entity/Q3469737"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bril:ozanne-rivierre:ed:04:5**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:margetts:02**\n**cldf:margetts:05**\n**cldf:senft:ed:04:4**\n**cldf:sprachen:nd**\n**hh:g:Margetts:Saliba**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Lithgow:Tubetube**\n**hh:hvw:Ray:Melanesian**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Lawes:New-Guinea**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:ESEPapua**\n**hh:s:Mosel:Saliba**\n**hh:typ:Margetts:Saliba**\n**hh:typ:Margetts:Saliba-Negation**\n**hh:w:Anonymous:Nada**\n**hh:w:Armstrong:South-Eastern**\n**hh:w:MacGregor:Sariba**\n**mpieva:Hovdhaugen1999Negation**\n**sil16:48074**\n**silpng:silpng1991-2000:1843**\n**silpng:silpng2001-2003:289**\n**silpng:silpng2001-2003:89**\n**silpng:silpng2004:27**\n**silpng:silpng2004:28**\n**silpng:silpng2004:29**\n**zurich:Margetts2002**\n**zurich:Margetts2004-1**\n**zurich:Margetts2004-2**\n**zurich:Margetts2004-3**\n**zurich:Margetts2005**"
+  },
+  "altnames": {
+    "wals": "\nSaliba (in Papua New Guinea)",
+    "wals other": "\nSaliba (PNG)\nSuau",
+    "ruhlen (1987)": "\nSuau",
+    "moseley & asher (1994)": "\nSuau",
+    "multitree": "\nSaliba",
+    "lexvo": "\nSaliba [en]",
+    "hhbib_lgcode": "\nHayterinsel\nLogea\nOld Saliba\nRogea\nSariba\nSouth Cape\nSuau (Kwato)\nSuau (Sariba)\nSáriba\nSüdkap",
+    "elcat": "\nSaliba"
+  },
+  "triggers": {
+    "lgcode": "\nwasadi\nsariba\nkasiyebwa"
+  },
+  "identifier": {
+    "wals": "slb",
+    "multitree": "sbe",
+    "endangeredlanguages": "2606"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hvld:Lithgow:Milne**:461 **hh:hvw:Cooper:Suau**",
+    "subrefs": "\n**hh:hvw:Cooper:Suau**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Lithgow:Milne**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Saliba (2606-sbe) = Threatened (20 percent certain, based on the evidence available) (The number of speakers is increasing.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

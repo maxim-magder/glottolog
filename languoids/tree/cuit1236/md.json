@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Cuitlatec",
+    "hid": "cuy",
+    "level": "language",
+    "latitude": "18.1",
+    "longitude": "-100.5",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "iso639-3": "cuy",
+    "links": "\n[Cuitlatec](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Cuitlatec)\n[Cuitlatec](https://wals.info/languoid/lect/wals_code_cut)\nhttps://en.wikipedia.org/wiki/Cuitlatec_language\nhttps://www.wikidata.org/entity/Q2030998",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hendrichsperez:46**\n**hh:e:Druckeretal:Cuitlatec**\n**hh:hb:ThomasSwanton:Mexico**\n**hh:hew:Hendrichs:Ignotas**\n**hh:hv:Osnaya:Cuitlateco**\n**hh:ld:Hendrichs:Cuitlateco**\n**hh:ld:Weitlaner:Atoyac**\n**hh:phon:McQuown:Cuitlateco**\n**hh:phon:Valinas:Cuitlateco**\n**hh:s:Escalante:Cuitlateco**\n**hh:w:Hendrichs:Cuitlateco**\n**hh:w:Leon:Cuitlateca**\n**hh:w:Weitlaner:Cuitlatec**\n**iso6393:2017-031**"
+  },
+  "altnames": {
+    "wals": "\nCuitlatec",
+    "ruhlen (1987)": "\nKwitlateko",
+    "moseley & asher (1994)": "\nCuitlatec",
+    "hhbib_lgcode": "\nCuitlateco\nLos Cuitlatecos de San Miguel Totolapan"
+  },
+  "triggers": {
+    "lgcode": "\ncuitlateco\ncuitlatec\ncuitlateca"
+  },
+  "identifier": {
+    "wals": "genus/cuitlatec",
+    "multitree": "qpb"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cuitlatec (cuy-cuy) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Daasanach",
+    "hid": "dsh",
+    "level": "language",
+    "iso639-3": "dsh",
+    "latitude": "4.58879",
+    "longitude": "35.9888",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET",
+      "KE",
+      "SS"
+    ],
+    "links": "\n[Daasanach](https://endangeredlanguages.com/lang/4780)\n[Daasanach](https://grambank.clld.org/languages/daas1238)\n[Dhaasanac](https://wals.info/languoid/lect/wals_code_dha)\nhttps://en.wikipedia.org/wiki/Daasanach_language\nhttps://www.wikidata.org/entity/Q56637"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:hohnel:90**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:tosco:01:2**\n**cldf:tosco:99**\n**eballiso2009:11410**\n**eballiso2009:20373**\n**eballiso2009:22388**\n**eballiso2009:25378**\n**eballiso2009:27431**\n**eballiso2009:27620**\n**eballiso2009:29018**\n**eballiso2009:44763**\n**eballiso2009:45885**\n**eballiso2009:45886**\n**eballiso2009:47144**\n**eballiso2009:51845**\n**eballiso2009:51846**\n**eballiso2009:51849**\n**eballiso2009:51850**\n**eballiso2009:58776**\n**eballiso2009:59214**\n**eballiso2009:59226**\n**hh:e:Almagor:Dassanetch**\n**hh:e:Girke:First-Contact**\n**hh:e:Sobania:Dassenech**\n**hh:ew:Pauli:Splitterstamme**\n**hh:g:Tosco:Dhaasanac**\n**hh:he:Tippett:SWEthiopia**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Leslau:Ethiopia**\n**hh:hvld:Stigand:Lado**\n**hh:hw:Rossini:Rodolfo**\n**hh:hw:Wellby:Abyssinia**\n**hh:ld:Tosco:Daasanac**\n**hh:s:Saase:Dhaasanac**\n**hh:s:Sasse:Dasenech**\n**hh:w:Haberland:Surma**\n**hh:w:daTrento:Etiopia**\n**sil16:18428**\n**sil16:39341**\n**sil16:40264**\n**sil16:40815**\n**sil16:40816**"
+  },
+  "altnames": {
+    "wals": "\nDhaasanac",
+    "wals other": "\nDasenech\nDhaasanac\nGeleba\nMerille",
+    "ruhlen (1987)": "\nDasenech",
+    "moseley & asher (1994)": "\nDasenech",
+    "multitree": "\n\"Shangilla\"\nDaasanach\nDaasanech\nDaasenech\nDama\nDasenech\nDathanaic\nDathanaik\nDathanik\nDhaasanac\nGallab\nGaluba\nGelab\nGeleb\nGeleba\nGelebinya\nGelubba\nGheleba\nMarille\nMerile\nMerille\nMorille\nReshiat\nRussia\nSorbian",
+    "lexvo": "\nDaasanach [en]\nDaasanach hizkuntza [eu]\nDaasanach language [en]\nDassanakh [ca]",
+    "hhbib_lgcode": "\nDaasenech\nDassanetch\nDassenech\nDhaasanac\nGalloppa (Geleba)\nGeleba\nGheleba\nGhelebà\nGoliba (Reshiat)\nReshiat",
+    "elcat": "\n\"Shangilla\"\nDaasanach\nDaasanech\nDaasenech\nDama\nDasenech\nDathanaic\nDathanaik\nDathanik\nDhaasanac\nGallab\nGaluba\nGelab\nGeleb\nGeleba\nGelebinya\nGelubba\nGheleba\nMarille\nMerile\nMerille\nMorille\nReshiat\nRussia"
+  },
+  "triggers": {
+    "lgcode": "\nninnika\nonot\nkunnaa\ndhaasanac\ngalab\ndc\ngeleba\ndasenech\ndaasenech\ndasanetch\ndassanetch"
+  },
+  "identifier": {
+    "wals": "dha",
+    "multitree": "dsh",
+    "endangeredlanguages": "4780"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tosco:Cushitic**:94-95",
+    "subrefs": "\n**hh:hv:Tosco:Cushitic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Daasanach (4780-dsh) = Vulnerable (20 percent certain, based on the evidence available) [n.a. 1998](cldf:np:98:1)"
+  }
+}

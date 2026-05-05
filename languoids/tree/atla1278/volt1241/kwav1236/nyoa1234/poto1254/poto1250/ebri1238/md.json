@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ebrié",
+    "hid": "ebr",
+    "level": "language",
+    "iso639-3": "ebr",
+    "latitude": "5.36868",
+    "longitude": "-4.03188",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36644\nhttps://en.wikipedia.org/wiki/Ebri%C3%A9_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:13651**\n**eballiso2009:28266**\n**eballiso2009:37415**\n**eballiso2009:43917**\n**eballiso2009:45786**\n**eballiso2009:52674**\n**eballiso2009:59371**\n**hh:e:Bouscayrol:Ebrie**\n**hh:g:Dido:Ebrie**\n**hh:g:Mobio:Ebrie**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:hv:Bole-Richard:Potou**\n**hh:hvld:Westermann:Tschi-Guang**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phon:Russell:Atchan**\n**hh:s:Bole-Richard:Ebrie**\n**sil16:19984**"
+  },
+  "altnames": {
+    "glottolog": "\nEbrie",
+    "multitree": "\nCama\nCaman\nEbrié\nKyama\nTchaman\nTsama\nTyama",
+    "lexvo": "\nEbrié [en]",
+    "hhbib_lgcode": "\nAtchan\nCama\nCámánncân\nEbrie\nKyama"
+  },
+  "triggers": {
+    "lgcode": "\nebrie\nlebrie"
+  },
+  "identifier": {
+    "multitree": "ebr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bole-Richard:Potou** **hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**\n**hh:hv:Bole-Richard:Potou**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tchaman (ebr-ebr) = 5* (Developing)."
+  }
+}

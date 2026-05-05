@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yakkha",
+    "hid": "ybh",
+    "level": "language",
+    "iso639-3": "ybh",
+    "latitude": "27.3714",
+    "longitude": "87.9306",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Yakha](https://endangeredlanguages.com/lang/1380)\n[Yakkha](https://grambank.clld.org/languages/yakk1236)\nhttps://en.wikipedia.org/wiki/Yakkha_language\nhttps://www.wikidata.org/entity/Q56666"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3441**\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:kongren:07**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:schackow:12**\n**cldf:schackow:66:1**\n**cldf:schackow:66:2**\n**hh:ew:Russell:Yakha**\n**hh:g:Schackow:Yakkha**\n**hh:g:Schackow:Yakkha:2014**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:I**\n**hh:ld:Rai:Mugali**\n**hh:s:Schackow:Yakkha**\n**hh:w:Hodgson:Kirantis**\n**hh:wsoc:Rai:Phangduwali**\n**hh:wsoc:Rai:Yakkha**\n**mpieva:1997Assynopt**"
+  },
+  "altnames": {
+    "multitree": "\nDewansala\nRōi\nYakha\nYakkha\nYakkhaba\nYakkhaba Cea\nYakkhaba Sala\nYakthomba\nYākhā",
+    "lexvo": "\nYakeg [br]\nYakha [en]\nYakha language [en]\nЯкха [bg]",
+    "hhbib_lgcode": "\nGairi Gaun\nKaseni\nKhambu-Lambichhong\nLambichong\nMajha Gaun\nMugali\nPhangduwali\nRai Jimdar/Yakkha\nSchool Dada\nSiran Gaun\nTamphok\nYakha",
+    "elcat": "\nDewansala\nRōi\nYakha\nYakkha\nYakkhaba\nYakkhaba Cea\nYakkhaba Sala\nYakthomba\nYākhā"
+  },
+  "triggers": {
+    "lgcode": "\nyakha\nyakkha\nNOT a AND yakkha\nmugali"
+  },
+  "identifier": {
+    "multitree": "ybh",
+    "endangeredlanguages": "1380"
+  },
+  "classification": {
+    "sub": "**hh:g:Schackow:Yakkha**:34",
+    "subrefs": "\n**hh:g:Schackow:Yakkha**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yakha (1380-ybh) = Endangered (60 percent certain, based on the evidence available) [Schackow 2012](cldf:schackow:12)"
+  }
+}

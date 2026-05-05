@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tabo",
+    "hid": "knv",
+    "level": "language",
+    "iso639-3": "knv",
+    "latitude": "-8.09387",
+    "longitude": "143.305",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Tabo](https://endangeredlanguages.com/lang/6674)\n[Tabo](https://grambank.clld.org/languages/tabo1241)\nhttps://en.wikipedia.org/wiki/Tabo_language\nhttps://www.wikidata.org/entity/Q7959888"
+  },
+  "classification": {
+    "family": "**hh:hv:Wurm:Trans-Fly**:325 claims that Waia is related to the Pahoturi languages\nbut adduces no evidence and there is certainly nothing obvious that links the\ntwo. Pronouns were not explicitly examined (and perhaps not implicitly either)\nby Ross **hh:hv:Ross:Pronouns** but, in any case, they do not match Pahoturi.",
+    "familyrefs": "\n**hh:hvw:Reesink:Aramia**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:hammarstroem:17**\n**cldf:lewis:ed:09**\n**hh:g:Schlatter:Tabo**\n**hh:hv:Wurm:Trans-Fly**\n**hh:hvw:Ray:Western**\n**hh:hvw:Reesink:Aramia**\n**hh:hw:Franklin:Appendices**\n**hh:hw:Zgraggen:Gulf**\n**hh:nt:Tabo:Aramia**\n**hh:nt:Tabo:Fly**\n**hh:t:Tabo:Genesis**\n**hh:w:Austen:Hibaradai**\n**hh:w:Austen:Hiwi**\n**hh:w:Austen:Tapapi**"
+  },
+  "altnames": {
+    "multitree": "\nHibaradai\nHiwi\nTabo\nWaia\nWaya",
+    "lexvo": "\nTabo [en]",
+    "hhbib_lgcode": "\n= Tabo/Waia\nHibaradai\nHiwi in villages of Kaibenapi-Genapi-Wagami and Bobonapi-Wariadai and Sarau north of Damira on the Fly River judging from comparison with Reesink 1976\nTabepi village mentioned by Reesink 1976 there are exclusive matches but also very many different words nevertheless\nTabo/Waia\nTapapi Villages of Ubaroniara and Bogabw close to and north of the source of the Sagero Creek which is a tributary of the Lower Fly\nTapapi is\nVillages of Hibaradai (or Irotonapi)-Mawadai (or Hauwara) and Eriga north of Damira on Fly River judging from comparison with Reesink 1976\nWaia\nis",
+    "elcat": "\nHibaradai\nHiwi\nTabo\nWaia\nWaya"
+  },
+  "triggers": {
+    "lgcode": "\naramia\ntabo"
+  },
+  "identifier": {
+    "multitree": "knv",
+    "endangeredlanguages": "6674"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tabo (6674-knv) = Threatened (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

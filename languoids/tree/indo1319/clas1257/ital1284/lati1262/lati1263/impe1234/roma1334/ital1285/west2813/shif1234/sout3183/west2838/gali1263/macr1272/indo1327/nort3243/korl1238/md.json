@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Korlai Portuguese",
+    "hid": "vkp",
+    "level": "language",
+    "iso639-3": "vkp",
+    "latitude": "19.0348",
+    "longitude": "73.0099",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Korlai](https://apics-online.info/contributions/40)\nhttps://en.wikipedia.org/wiki/Korlai_Portuguese_Creole\nhttps://www.wikidata.org/entity/Q3915520"
+  },
+  "classification": {
+    "sub": "**hh:g:Clements:Korlai** **hh:hv:Ferraz:WAfrica**",
+    "subrefs": "\n**hh:g:Clements:Korlai**\n**hh:hv:Ferraz:WAfrica**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Clements:Korlai**\n**hh:hvw:Clements:Indo-Portuguese**\n**hh:s:Clements:Korlai**\n**hh:typ:Clements:Korlai:2007**\n**hh:vtyp:ClementsKoontz:Indo-Portuguese**"
+  },
+  "altnames": {
+    "multitree": "\nKorlai Creole Portuguese",
+    "lexvo": "\nCrioulo de Korlai [pt]\nKorlai Creole Portuguese [en]\nKristi language [en]",
+    "hhbib_lgcode": "\nKorlai\nKorlai Creole Portuguese"
+  },
+  "triggers": {
+    "lgcode": "\nkorlai"
+  },
+  "identifier": {
+    "multitree": "vkp"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Korlai Portuguese Creole (vkp-vkp) = 6a* (Vigorous)."
+  }
+}

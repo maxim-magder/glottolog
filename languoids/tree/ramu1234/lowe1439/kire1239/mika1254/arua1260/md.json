@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Aruamu",
+    "hid": "msy",
+    "level": "language",
+    "iso639-3": "msy",
+    "latitude": "-4.28957",
+    "longitude": "144.842",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Aruamu](https://endangeredlanguages.com/lang/10650)\n[Mikarew](https://wals.info/languoid/lect/wals_code_mkr)\nhttps://en.wikipedia.org/wiki/Aruamu_language\nhttps://www.wikidata.org/entity/Q3501809"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:zgraggen:71**\n**hh:h:Schebesta:Ariawial**\n**hh:h:Schebesta:Potsdamhafen**\n**hh:hb:Zgraggen:Madang**\n**hh:hew:Poch:Wilhelmsland**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Zgraggen:Madang**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Capell:Bogia**\n**hh:w:Zgraggen:Ramu**\n**hh:w:Zgraggen:Ramu:1974**"
+  },
+  "altnames": {
+    "wals": "\nMikarew",
+    "ruhlen (1987)": "\nMikarew",
+    "moseley & asher (1994)": "\nMikarew",
+    "multitree": "\nAriawia\nAriawiai\nAruamu\nGumasi\nMakarub\nMakarup\nMikarew\nMikarew-Ariaw\nMikarup\nMisegian",
+    "lexvo": "\nAruamu [en]",
+    "hhbib_lgcode": "\nAlepapun\nAriawia\nAriawial\nMakarub\nMikarew\nMikarew-Aria",
+    "elcat": "\nAriawia\nAriawiai\nAruamu\nGumasi\nMakarub\nMakarup\nMikarew\nMikarew-Ariaw\nMikarup"
+  },
+  "identifier": {
+    "wals": "genus/mikarew",
+    "multitree": "mise;msy",
+    "endangeredlanguages": "10650"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik:2013**",
+    "subrefs": "\n**hh:hv:Foley:Sepik:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aruamu (10650-msy) = Threatened (20 percent certain, based on the evidence available) [Z'graggen 1971](cldf:zgraggen:71)"
+  }
+}

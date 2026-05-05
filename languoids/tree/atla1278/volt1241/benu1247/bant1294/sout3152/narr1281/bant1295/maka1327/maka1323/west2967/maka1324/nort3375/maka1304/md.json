@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Makaa",
+    "hid": "mcp",
+    "level": "language",
+    "iso639-3": "mcp",
+    "latitude": "4.15471",
+    "longitude": "13.0789",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Makaa](https://grambank.clld.org/languages/maka1304)\n[Makaa](https://wals.info/languoid/lect/wals_code_mkz)\nhttps://en.wikipedia.org/wiki/Makaa_language\nhttps://phoible.org/languages/maka1304\nhttps://www.wikidata.org/entity/Q35803"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:heath:heath:84**\n**cldf:heath:heath:98**\n**eballiso2009:18192**\n**eballiso2009:18193**\n**eballiso2009:21946**\n**eballiso2009:23449**\n**eballiso2009:24229**\n**eballiso2009:26429**\n**eballiso2009:28707**\n**eballiso2009:31623**\n**eballiso2009:31624**\n**eballiso2009:31625**\n**eballiso2009:32116**\n**eballiso2009:33203**\n**eballiso2009:50111**\n**eballiso2009:52709**\n**eballiso2009:52710**\n**eballiso2009:52714**\n**eballiso2009:52716**\n**eballiso2009:52717**\n**eballiso2009:52718**\n**eballiso2009:52719**\n**eballiso2009:9887**\n**hh:d:Heath:Makaa**\n**hh:ew:Bertaut:Negrilles**\n**hh:hew:Koch:Molundu**\n**hh:hv:Cheucle:Makaa-Njem**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:phon:Afane:Meka**\n**hh:s:Heath:Makaa:2003**\n**hh:s:HeathHeath:Makaa**\n**hh:typ:Ibrahim:Makaa-Negation**\n**mpieva:Anderson1991Tenseand**\n**mpieva:Anderson1991Toneinfi**\n**mpieva:Levinsohn1994Discours**\n**sil16:18662**\n**sil16:18663**\n**sil16:19227**\n**sil16:19228**\n**sil16:24422**\n**sil16:24434**\n**sil16:29411**\n**sil16:31336**\n**sil16:31337**\n**sil16:31769**\n**sil16:33030**\n**sil16:33041**\n**sil16:35391**\n**sil16:38233**\n**sil16:40378**\n**sil16:40781**\n**sil16:41434**\n**sil16:43330**\n**sil16:43789**\n**sil16:43823**\n**sil16:45568**\n**sil16:45569**\n**sil16:50943**"
+  },
+  "altnames": {
+    "wals": "\nMakaa",
+    "ruhlen (1987)": "\nMeka",
+    "moseley & asher (1994)": "\nMakaa",
+    "multitree": "\nMakaa\nMekaa\nNyaana\nSouth Makaa\nSouth Mekaa\nToma",
+    "lexvo": "\nMakaa [en]",
+    "hhbib_lgcode": "\nA83_Mekaa\nMaka\nMakaa (A83)\nMakka\nMbandz\nMbwanz"
+  },
+  "triggers": {
+    "lgcode": "\nifamb\nmishwoombu\njiig\na83\nmakaa\nmbwas\nmekaa\nchiwa\nnkweny\ncais\nmkaa\nmpwong{\nsoja\nnyong"
+  },
+  "identifier": {
+    "wals": "mkz",
+    "multitree": "mcp;sbd-tom"
+  },
+  "classification": {
+    "sub": "**hh:soc:Etter:Byep**:10 **hh:s:Heath:Makaa:2003**:335",
+    "subrefs": "\n**hh:soc:Etter:Byep**\n**hh:s:Heath:Makaa:2003**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Makaa (mcp-mcp) = 5* (Developing)."
+  }
+}

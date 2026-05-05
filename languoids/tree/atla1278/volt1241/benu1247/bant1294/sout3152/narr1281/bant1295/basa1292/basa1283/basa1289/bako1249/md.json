@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bakoko",
+    "hid": "bkh",
+    "level": "language",
+    "iso639-3": "bkh",
+    "latitude": "3.56518",
+    "longitude": "9.99905",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kogo_language\nhttps://phoible.org/languages/bako1249\nhttps://www.wikidata.org/entity/Q34866"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nicol:29**\n**eballiso2009:13168**\n**eballiso2009:24422**\n**eballiso2009:28707**\n**eballiso2009:3832**\n**hh:e:Nicol:Bakoko**\n**hh:g:Michel:Bakoko**\n**hh:he:Chauleur:Cameroun**\n**hh:hew:Koch:Molundu**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hv:Nseme:Littoral**\n**hh:hvw:Meinhof:Kamerun**\n**hh:hw:Clarke:Africa**\n**hh:phon:Edika:Bakoko**\n**hh:s:Dodo-Bounguendza:Koko**\n**hh:typ:Ntamack:Bakoko**\n**hh:wtyp:Gehr:Bakoko**"
+  },
+  "altnames": {
+    "multitree": "\nBakoko\nBasoo",
+    "lexvo": "\nBakoko [en]",
+    "hhbib_lgcode": "\nBakoko (westkich Edea)\nBakoko A43b\nDimbombari"
+  },
+  "triggers": {
+    "lgcode": "\nbakokosprache\na43\nsogeland\nbakoko"
+  },
+  "identifier": {
+    "multitree": "bkh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gerhardt:Bantu**",
+    "subrefs": "\n**hh:hv:Gerhardt:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bakoko (bkh-bkh) = 5 (Developing)."
+  }
+}

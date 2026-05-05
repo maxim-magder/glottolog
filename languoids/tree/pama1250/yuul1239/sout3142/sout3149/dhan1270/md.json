@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Dhangu",
+    "hid": "dhg",
+    "level": "language",
+    "iso639-3": "dhg",
+    "latitude": "-11.9493",
+    "longitude": "135.752",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Dhangu](https://lexibank.clld.org/languages/bowernpny-Dhangu)\n[Dhangu-Djangu](https://endangeredlanguages.com/lang/5725)\n[Gaalpu](https://wals.info/languoid/lect/wals_code_glp)\nhttps://en.wikipedia.org/wiki/Dhangu-Djangu_language\nhttps://phoible.org/languages/dhan1270\nhttps://www.wikidata.org/entity/Q5268960"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4974**\n**cldf:bowern:11:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**hh:d:McLellan:Warramirri**\n**hh:e:Keen:Yolngu**\n**hh:g:MacLellan:Wangurri**\n**hh:ld:Wood:Galpu**\n**hh:phon:Wood:Yuulngu**\n**hh:typ:Harper:Wangurri**\n**hh:w:Amery:Wangurri**\n**hh:w:Capell:Forty-North-Australian**\n**iso6393:2012-047**\n**iso6393:2013-025**\n**iso6393:2015-063**\n**iso6393:2018-022**\n**mpieva:Hosokawa2003Yolnguma**\n**ozbib:158**\n**ozbib:1860**\n**ozbib:1864**\n**ozbib:1872**\n**ozbib:3683**\n**ozbib:3684**\n**ozbib:4018**\n**ozbib:480**\n**ozbib:5487**\n**ozbib:5573**\n**ozbib:6178**\n**ozbib:6307**\n**ozbib:6322**\n**ozbib:6505**\n**ozbib:6872**\n**ozbib:7215**"
+  },
+  "altnames": {
+    "wals": "\nGaalpu",
+    "wals other": "\nYuulngu",
+    "ruhlen (1987)": "\nDhaangu",
+    "moseley & asher (1994)": "\nDhangu",
+    "multitree": "\nDangu\nDhangu\nDhangu'mi\nDjangu\nWarameri\nWaramiri\nYirgala",
+    "lexvo": "\nDhangu [en]",
+    "hhbib_lgcode": "\n13 Wang'uri\n17 Galbu\n18 Warameri\n23 Riraidjango\nDjangu\nGaalpu\nGalpu\nKalpu\nWangurri\nWarramirri",
+    "elcat": "\nDangu\nDhangu\nDhangu'mi\nDhangu-Djangu\nDhaŋu\nDjangu\nWarameri\nWaramiri\nYirgala"
+  },
+  "triggers": {
+    "lgcode": "\nwangurri\ngalpu\nyolngumatha"
+  },
+  "identifier": {
+    "wals": "glp",
+    "multitree": "dhg;dhan",
+    "endangeredlanguages": "5725"
+  },
+  "classification": {
+    "sub": "**hh:g:Wilkinson:Djambarrpuyngu**:10-14 **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:g:Wilkinson:Djambarrpuyngu**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dhangu-Djangu (5725-dhg) = Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

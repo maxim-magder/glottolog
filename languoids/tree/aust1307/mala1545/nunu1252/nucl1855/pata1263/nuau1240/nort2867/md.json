@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "North Nuaulu",
+    "hid": "nni",
+    "level": "language",
+    "iso639-3": "nni",
+    "latitude": "-2.93154",
+    "longitude": "129.277",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12952968",
+    "timespan": "2024-01-01/2024-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hv:LoskiLoski:ESeram**\n**hh:hv:Taguchi:WSeram**\n**mpieva:Bolton1990Aprelimi**"
+  },
+  "altnames": {
+    "multitree": "\nAlfurisch\nFatakai\nNuaulu\nNuaulu, North\nPatakai",
+    "lexvo": "\nNorth Nuaulu [en]",
+    "hhbib_lgcode": "\nNuaulu Oping-Rumaolat\nNuaulu Utara\nNuaulu-North\nRumaholat"
+  },
+  "triggers": {
+    "lgcode": "\nbolton"
+  },
+  "identifier": {
+    "multitree": "nni"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nuaulu, North (nni-nni) = 9 (Dormant)."
+  }
+}

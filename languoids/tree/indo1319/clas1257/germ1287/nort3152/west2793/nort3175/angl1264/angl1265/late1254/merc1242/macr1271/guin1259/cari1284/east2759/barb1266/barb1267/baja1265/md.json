@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Bajan",
+    "hid": "bjs",
+    "level": "language",
+    "iso639-3": "bjs",
+    "latitude": "13.1365",
+    "longitude": "-59.5346",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "BB"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2524014\nhttps://en.wikipedia.org/wiki/Bajan_Creole"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Hancock:Anglophone**\n**hh:ld:Rickford:Barbadian**\n**hh:ldsoc:BurrowesAllsopp:Barbadian-Creole**\n**hh:s:Collymore:Barbadian**\n**hh:s:Fields:Bajan**\n**hh:s:Morrow:Bajan**\n**hh:soc:Blake:Barbados**\n**hh:svsoc:Niles:Barbadian**\n**hh:typ:Roy:Barbadian-Creole**\n**hh:vld:Rickford:Barbados**\n**mpieva:Gorlach1986Focusont**"
+  },
+  "triggers": {
+    "lgcode": "\nbajan\nbarbadian\nfocus AND caribbean"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bajan (bjs-bjs) = 6b (Threatened). De facto language of national identity."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBarbadian Creole English\nBarbadian English\nBarbados"
+  }
+}

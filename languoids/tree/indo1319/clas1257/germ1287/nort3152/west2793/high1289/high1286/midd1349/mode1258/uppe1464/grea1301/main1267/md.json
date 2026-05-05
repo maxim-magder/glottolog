@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ostfränkisch",
+    "hid": "vmf",
+    "level": "language",
+    "iso639-3": "vmf",
+    "latitude": "50.005",
+    "longitude": "8.621",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Main-Franconian_dialects\nhttps://www.wikidata.org/entity/Q497345"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Rosenkranz:Saale**\n**hh:dial:Werner:Frankenwaldes**\n**hh:g:Putzer:Grossrosseln**\n**hh:g:Steitz:Saarbrucker**\n**hh:hld:MunskeHinderling:Bavarian**\n**hh:hv:Harnisch:Ostfrankisch**\n**hh:phon:Batz:Bamberger**\n**hh:phon:Gerbet:Vogtlandes**\n**hh:phonv:Niederlohner:Coburger**\n**hh:s:Bock:Waldau**\n**hh:s:Hermann:Coburger**\n**hh:s:Kaussler:Ansbach**\n**hh:s:Labouvie:Dillingen**\n**hh:s:Newton:Central-Franconian**\n**hh:s:Rowley:East-Franconian**\n**hh:s:Schodel:Rezat**\n**hh:s:Wolf:Banater**\n**hh:sd:Schon:Saarbrucker**\n**hh:ssoc:Nutzel:Haysville-East-Franconian**\n**hh:sv:Schubel:Ostfrankisch-Bambergische**\n**hh:td:Hertel:Thuringer**\n**iso6393:2010-012**"
+  },
+  "altnames": {
+    "multitree": "\nFrancique oriental\nFranconian\nFranconio oriental\nHigh Franconian\nMainfränkisch\nUpper Franconian",
+    "lexvo": "\nFranački jezik [hr]\nMain-Franconian [en]\nMainfranksch [nds]\nMainfränkisch [en]\nMainfränkische Dialekte [de]",
+    "hhbib_lgcode": "\nBamberger\nEast Franconian\nFranken\nFriesen near Kronach and Stadtsteinach\nGrossrosseln\nHaysville East Franconian\nMainfrankish\nMainfränkisch\nOberfränkisch\nOberfränkische\nS Central Franconian\nSaarbrucken\nUpper East Franconia\nVogtlandes",
+    "glottolog": "\nMainfränkisch"
+  },
+  "triggers": {
+    "lgcode": "\ndillingen\nehemaligen\nschleusingen\nnaheren\nbamberg\nrezat\nbeugungslehre\nsaar\nsaarbrucker\nansbach\nfranconian\nfurstbistum\ncoburger\nstadtsteinach\nwaldau\nostfrankisch\nbambergische\naltmuhl"
+  },
+  "identifier": {
+    "multitree": "vmf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:842-846",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "East Franconian (1596-vmf) = Vulnerable"
+  }
+}

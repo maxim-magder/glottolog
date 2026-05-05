@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Maká",
+    "hid": "mca",
+    "level": "language",
+    "iso639-3": "mca",
+    "latitude": "-25.0119",
+    "longitude": "-57.3694",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PY"
+    ],
+    "links": "\n[Maca](https://wals.info/languoid/lect/wals_code_mca)\n[Maká](https://endangeredlanguages.com/lang/3020)\nhttps://en.wikipedia.org/wiki/Mak%C3%A1_language\nhttps://phoible.org/languages/maca1260\nhttps://www.wikidata.org/entity/Q3281043"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:lewis:ed:09**\n**cldf:np:12:7**\n**cldf:np:nd:264**\n**hh:d:Gerzenstein:Maka**\n**hh:ew:Kysela:Macca**\n**hh:g:Gerzenstein:Maka**\n**hh:s:Belaieff:Macca**\n**hh:styp:Tacconi:Maka**\n**hh:w:Belaieff:Macca**\n**hh:w:Schmidt:Maka**\n**mpieva:Gerzenstein1999Dicciona**\n**sil16:49720**\n**sil16:49721**\n**sil16:49809**\n**sil16:49810**\n**sil16:49811**"
+  },
+  "altnames": {
+    "wals": "\nMaca",
+    "wals other": "\nTowolhi",
+    "ruhlen (1987)": "\nMaká",
+    "moseley & asher (1994)": "\nMaca",
+    "multitree": "\nEnimaca\nEnimaga\nMaca\nMacca\nMacá\nMak'á\nMaka\nMaká\nNynaka\nToothle\nTowolhi\nTowothli",
+    "lexvo": "\nMaca [en]\nMaká [fr]\nMaká language [en]\nMakų kalba [lt]",
+    "elcat": "\nEnimaca\nEnimaga\nMaca\nMacca\nMacá\nMak'á\nMaka\nMaká\nNynaka\nToothle\nTowolhi\nTowothli",
+    "hhbib_lgcode": "\nMaca\nMaká",
+    "glottolog": "\nMaca"
+  },
+  "triggers": {
+    "lgcode": "\nnaqalax\nwitjamet\nmacca\ndelme"
+  },
+  "identifier": {
+    "wals": "mca",
+    "multitree": "mca",
+    "endangeredlanguages": "3020"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013** **hh:hv:Nikulin:Mayaguayan**",
+    "subrefs": "\n**hh:hv:Nikulin:Mayaguayan**\n**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maká (3020-mca) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

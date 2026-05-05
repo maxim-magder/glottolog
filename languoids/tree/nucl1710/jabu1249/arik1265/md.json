@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Arikapú",
+    "hid": "ark",
+    "level": "language",
+    "iso639-3": "ark",
+    "latitude": "-12.4878",
+    "longitude": "-62.7261",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Arikapú](https://endangeredlanguages.com/lang/664)\n[Arikapú](https://grambank.clld.org/languages/arik1265)\nhttps://en.wikipedia.org/wiki/Arikap%C3%BA_language\nhttps://phoible.org/languages/arik1265\nhttps://www.wikidata.org/entity/Q3446640",
+    "timespan": "2015-01-01/2015-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:807**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**fabreall2009ann:Jabuti_arikapu1**\n**fabreall2009ann:Jabuti_arikapu2**\n**hh:d:Arikapuetal:Arikapu**\n**hh:d:Ribero:Arikapu**\n**hh:e:Caspar:Tupari:Aculturacao**\n**hh:e:Metraux:EBolivia**\n**hh:e:vanderVoort:Arikapu**\n**hh:ew:Mere:Snethlage**\n**hh:he:Caspar:Guapore**\n**hh:he:Maldi:Guapore**\n**hh:he:Snethlage:Guapore**\n**hh:hv:RibeirovanderVoort:Jabuti-Je**\n**hh:hv:vanderVoort:Proto-Jabuti**\n**hh:s:vanderVoort:Arikapu**\n**hh:vw:vanderVoort:Mashubi**\n**hh:w:Bontkes:Arikapu**\n**hh:w:Caspar:Arikapu**\n**hh:w:Caspar:Maxubi**\n**hh:w:Loukotka:Inedits**\n**hh:w:Moore:Guapore**\n**hh:w:Rivet:Masubi**\n**hh:w:Sekelj:Arua-Makurap-Zaboti-Arikapo-Tupari**"
+  },
+  "altnames": {
+    "glottolog": "\nArikapu",
+    "multitree": "\nAricapu\nAricapú\nArikapu\nArikapú\nMaxubí",
+    "lexvo": "\nArikapu [da]\nArikapú [en]\nArikapú language [en]",
+    "hhbib_lgcode": "\nArikapu",
+    "elcat": "\nAricapu\nAricapú\nArikapu\nArikapú\nMashubi\nMaxubí"
+  },
+  "triggers": {
+    "lgcode": "\nmasubi\narikapu\ninclusion\nmarico\nfawcett\nmashubi\nNOT makurap AND arikapu\nwhatever\nmaxubi\nzaboti"
+  },
+  "identifier": {
+    "multitree": "ark",
+    "endangeredlanguages": "664"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanderVoort:Proto-Jabuti** **hh:hv:Jolkesky:Proto-Je**:3-4",
+    "subrefs": "\n**hh:hv:vanderVoort:Proto-Jabuti**\n**hh:hv:Jolkesky:Proto-Je**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arikapú (ark-ark) = 9 (Dormant)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Donga Mambila",
+    "hid": "mcu",
+    "level": "language",
+    "iso639-3": "mcu",
+    "latitude": "6.43829",
+    "longitude": "11.41953",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\nhttps://phoible.org/languages/came1252\nhttps://www.wikidata.org/entity/Q19359039"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**cldf:percival:38**\n**cldf:rehfisch:60**\n**hh:d:Mouh:Mambila**\n**hh:hel:Connell:Adamawa**\n**hh:hel:Sommer:Survey**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hsoc:Connell:Adamawa-Ecology**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Connell:Tone-Mambila**\n**hh:phon:HillPerrin:Mambila**\n**hh:s:Meyer:Mambila**\n**hh:s:Meyer:Mambila:2021**\n**hh:s:Tsuata:Mambila**\n**hh:typ:Abdoul:Mambila:2006**\n**hh:typ:Perrin:Mambila-Indirect**\n**hh:typ:Perrin:Mambila-Tone**\n**mpieva:Levinsohn1994Discours**\n**sil16:13108**\n**sil16:13109**\n**sil16:16310**\n**sil16:22366**\n**sil16:27969**\n**sil16:31683**\n**sil16:31712**\n**sil16:33042**\n**sil16:33043**\n**sil16:33158**\n**sil16:34792**\n**sil16:35400**\n**sil16:38531**\n**sil16:47022**\n**sil16:47428**\n**sil16:49535**\n**sil16:50455**"
+  },
+  "altnames": {
+    "multitree": "\nBang\nBea\nBle\nJuli\nLagubi\nMambere\nMambila\nMambila, Cameroon\nMambilla\nNor\nTagbo\nTongbo\nTorbi",
+    "lexvo": "\nCameroon Mambila [en]",
+    "hhbib_lgcode": "\nAtta\nBa Mambila\nBa as spoken at Somié\nBa as spoken at Sonkolong\nBà Mambila\nCameroon Mambila\nMambila\nMambila Cameroon\nMambila-Atta\nMambila-Cameroon\nNgokh\nTitong\nTungba Mambila spoken in Gembu\nWokude"
+  },
+  "triggers": {
+    "lgcode": "\nkwanye\ndatta\nnyenne\nmambila\ngeh\nmvu"
+  },
+  "identifier": {
+    "wals": "mla",
+    "multitree": "mcu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Connell:Mambiloid:2017**:112, 121-123",
+    "subrefs": "\n**hh:hv:Connell:Mambiloid:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Langa (552-mcu-lan) = Endangered (40 percent certain, based on the evidence available)"
+  }
+}

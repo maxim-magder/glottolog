@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Tebul Sign Language",
+    "hid": "tsy",
+    "level": "language",
+    "iso639-3": "tsy",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "longitude": "-3.499957",
+    "latitude": "14.499995",
+    "links": "\n[Tebul Sign Language](https://endangeredlanguages.com/lang/7192)\nhttps://www.wikidata.org/entity/Q7692090\nhttps://en.wikipedia.org/wiki/Tebul_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:woodward:12**\n**hh:h:Nyst:Mali**\n**hh:h:Nyst:Sign-West-Africa**\n**iso6393:2006-115**"
+  },
+  "identifier": {
+    "endangeredlanguages": "7192"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tebul Sign Language (7192-tsy) = Endangered (20 percent certain, based on the evidence available) [Woodward 2012](cldf:woodward:12)"
+  },
+  "altnames": {
+    "elcat": "\nTebul Sign Language"
+  },
+  "classification": {
+    "sub": "**hh:h:Nyst:Sign-West-Africa**:406, **hh:h:Nyst:Mali**",
+    "subrefs": "\n**hh:h:Nyst:Sign-West-Africa**\n**hh:h:Nyst:Mali**"
+  }
+}

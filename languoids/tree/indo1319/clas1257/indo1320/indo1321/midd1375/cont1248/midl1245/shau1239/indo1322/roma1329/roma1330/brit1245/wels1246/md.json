@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Welsh Romani",
+    "hid": "rmw",
+    "level": "language",
+    "iso639-3": "rmw",
+    "latitude": "52.1166",
+    "longitude": "-3.7888",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GB"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Welsh_Romani_language\n[Romani (Welsh)](https://wals.info/languoid/lect/wals_code_rwe)\nhttps://www.wikidata.org/entity/Q2097387",
+    "timespan": "1968-01-01/1968-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2889**\n**cldf:sampson:26**\n**hh:g:Sampson:Gypsies-Wales**\n**hh:hv:Matras:Romani**\n**mpieva:1995Romaniin**\n**mpieva:1997Thetypol**\n**mpieva:261**"
+  },
+  "altnames": {
+    "wals": "\nRomani (Welsh)",
+    "wals other": "\nRomany (Welsh)\nWelsh Romany",
+    "moseley & asher (1994)": "\nRomany",
+    "multitree": "\nEuropean Romany\nRomani (Welsh)\nRomani, Welsh\nRomany\nWelsh Romani\nZigeuner",
+    "lexvo": "\nValshenengi Romani chhib [rom]\nWelsh Romani [en]\nWelsh-Romani language [en]",
+    "hhbib_lgcode": "\nRomani-Welsh"
+  },
+  "triggers": {
+    "lgcode": "\nabram\nwood\npreserved\nNOT romani AND romlex"
+  },
+  "identifier": {
+    "wals": "rwe",
+    "multitree": "rmw"
+  },
+  "classification": {
+    "sub": "**hh:hv:ElsikBenisek:Romani**:398-399, 407-408",
+    "subrefs": "\n**hh:hv:ElsikBenisek:Romani**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Romani, Welsh (rmw-rmw) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tocho",
+    "hid": "taz",
+    "level": "language",
+    "iso639-3": "taz",
+    "latitude": "10.8828",
+    "longitude": "30.1567",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Tocho](https://endangeredlanguages.com/lang/5115)\nhttps://www.wikidata.org/entity/Q36680\nhttps://en.wikipedia.org/wiki/Tocho_language\nhttps://phoible.org/languages/toch1257"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2233**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:NortonAlaki:Talodi**\n**hh:hvw:Schadeberg:Talodi**\n**hh:phon:AlakiNorton:Tocho**\n**hh:phon:Spronk:Talodi**\n**hh:typ:Norton:Talodi**"
+  },
+  "altnames": {
+    "multitree": "\nTacho\nTocho\nToicho",
+    "lexvo": "\nTocho [en]",
+    "hhbib_lgcode": "\nMoro (Tacho)\nTocco",
+    "elcat": "\nTacho\nTocho\nToicho"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND talodi\nasheron"
+  },
+  "identifier": {
+    "multitree": "toch;taz",
+    "endangeredlanguages": "5115"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonAlaki:Talodi** (interpreting the significance of the innovations differently)",
+    "subrefs": "\n**hh:hvw:NortonAlaki:Talodi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tocho (5115-taz) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

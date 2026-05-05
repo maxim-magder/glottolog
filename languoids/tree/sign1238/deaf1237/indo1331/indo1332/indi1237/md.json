@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Indian Sign Language",
+    "hid": "ins",
+    "level": "language",
+    "iso639-3": "ins",
+    "latitude": "27.5186",
+    "longitude": "79.6787",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Indo-Pakistani Sign Language (Indian dialects)](https://wals.info/languoid/lect/wals_code_ipi)\nhttps://www.wikidata.org/entity/Q113754817"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:BSLC:Bengali-Sign**\n**hh:d:Vasishta:Bangalora-Indian-Sign**\n**hh:d:Vasishta:Bombay-Indian-Sign**\n**hh:d:Vasishta:Calcutta-Indian-Sign**\n**hh:d:Vasishta:Delhi-Indian-Sign**\n**hh:g:Sinha:Indian-Sign**\n**hh:g:Sinha:Indian-Sign:2018**\n**hh:g:Zeshan:Sign-Indo-Pakistan**\n**hh:h:Vasishta:Sign-India**\n**hh:h:Vasishta:Sign-India:Regional**\n**hh:hb:KiryuPardeshi:South-Asian**\n**hh:hv:JohnsonJohnson:Indian-Sign**\n**hh:hv:Woodward:India-Pakistan-Nepal**\n**hh:hv:Woodward:Sign-Asian**\n**hh:s:Juthy:Ishara-Bhashay**\n**hh:s:Sinha:Indian-Sign**\n**hh:s:Wallang:Shillong-Sign**\n**hh:s:Zeshan:Indian-Sign**\n**hh:s:Zeshan:Sign-Indo-Pakistan**\n**hh:soc:Wallang:Shillong-Sign**\n**hh:soctyp:Bhattacharya:Indian-Sign**\n**hh:ssoc:Rajalakshmi:Sign-Deaf**\n**hh:typ:Morgan:Indian-Sign**\n**hh:vsoc:JohnsonJohnson:West-Bengal-Sign**\n**hh:vtyp:Yashomathi:Indian-Sign**\n**hh:w:Banerjee:Deaf-Mutes**"
+  },
+  "altnames": {
+    "wals": "\nIndo-Pakistani Sign Language (Indian dialects)",
+    "wals other": "\nIndo-Pakistani Sign Language",
+    "multitree": "\nIndian Sign Language\nIndo-Pakistani Sign Language\nUrban Indian Sign Language",
+    "lexvo": "\nIndian Sign Language [en]\nIndo-Pakistani Sign Language [en]\nLíngua de Sinais Indiana [pt]",
+    "hhbib_lgcode": "\n1990s offshoot of Indian Sign Language\nBangalore\nBangalore Indian Sign Language\nBangalore-Madras Indian Sign Language\nBangalore-Madras sign language\nBengali Sign\nBombay\nBombay Indian Sign Language\nCalcutta\nChennai\nDeaf-mutes of Dacca-Barisal-Calcutta\nDelhi\nDelhi Indian Sign Language\nHyderabad\nIndian Sign language\nKolkata\nKolkata Sign Language\nKolkata sign language\nMumbai\nMumbai-Delhi sign language\nNew Delhi\nShillong Sign Language\nWest Bengal Sign language"
+  },
+  "triggers": {
+    "lgcode": "\nvarieties AND assessment"
+  },
+  "identifier": {
+    "wals": "ipi",
+    "multitree": "ins"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Indian Sign Language (ins-ins) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Lexicostatistical comparison in **hh:hv:Woodward:India-Pakistan-Nepal(**) and **hh:hv:Woodward:Sign-Asian(**).",
+    "subrefs": "\n**hh:hv:Woodward:India-Pakistan-Nepal**\n**hh:hv:Woodward:Sign-Asian**"
+  }
+}

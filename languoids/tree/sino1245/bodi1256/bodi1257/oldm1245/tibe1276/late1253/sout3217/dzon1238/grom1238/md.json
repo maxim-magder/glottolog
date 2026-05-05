@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Groma",
+    "hid": "gro",
+    "level": "language",
+    "iso639-3": "gro",
+    "latitude": "27.6089",
+    "longitude": "88.8541",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN",
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56551\nhttps://en.wikipedia.org/wiki/Groma_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:TournadreSuzuki:Tibetic**\n**hh:ldw:Walsh:Tromowa**"
+  },
+  "altnames": {
+    "multitree": "\nGroma\nTromawa\nTromowa",
+    "lexvo": "\nGroma [en]\nGroma language [en]\nGromeg [br]\nҐрома [uk]",
+    "hhbib_lgcode": "\nDromo\nTromowa"
+  },
+  "triggers": {
+    "lgcode": "\ndiffers\nsikhimese\ntromowa\npf\nchumbi"
+  },
+  "identifier": {
+    "multitree": "gro"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Bielmeier:Tibetan**:38-48 **hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hvw:Bielmeier:Tibetan**\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Groma (gro-gro) = 6b* (Threatened). Language of recognized nationality: Tibetan."
+  }
+}

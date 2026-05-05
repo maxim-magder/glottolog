@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Teke-Eboo-Nzikou",
+    "hid": "ebo",
+    "level": "language",
+    "iso639-3": "ebo",
+    "latitude": "-2.384219",
+    "longitude": "15.623277",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CG"
+    ],
+    "links": "\n[Central Teke (Ebo)](https://lexibank.clld.org/languages/polyglottaafricana-Ebo)\nhttps://en.wikipedia.org/wiki/Central_Teke_language\nhttps://www.wikidata.org/entity/Q36473"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:descazes:85**\n**cldf:guiral:86**\n**eballiso2009:28707**\n**eballiso2009:35864**\n**hh:d:KristensenKristensen:Iboon**\n**hh:e:Nkoueri:Boma**\n**hh:es:Etsio:Teke**\n**hh:h:Guthrie:Polyglotta**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Hombert:Teke**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Abandzounou:Iboon**\n**hh:phon:Kristensen:Eboo**\n**hh:phon:Raharimanantsoa:Eboo-Nzikou**\n**hh:s:Raharimantsoa:Teke-Plateaux**\n**hh:typ:Abandzounou:Iboon**\n**hh:typ:Kristensen:Eboo**\n**hh:typ:Raharimanantsoa:Teke-Eboo**\n**hh:typ:Wesche:Boma**\n**sil16:43930**"
+  },
+  "altnames": {
+    "multitree": "\nBamboma\nBoma\nBoo\nBoõ\nCentral Teke\nEboo Teke\nEboom\nIboo\nTeke-Boma\nTeke-Eboo",
+    "lexvo": "\nTeke-Ebo [en]",
+    "hhbib_lgcode": "\nBabuma\nBoma\nBoma B74\nBoma B74b\nBoma presumbaly Teke-Eboo-Nzikou\nBoo B73\nEboo\nEboo-Nzikou (Ngo) Boma B74a-B74b\nEnjyunjyu\nFumu (DRC) Fumu-Wumbu 2 d. fumu Zaïre B77bY closest to Teke-Eboo-Nzikou\nFumu-Wumbu 2 d. fumu Zaire B78\nIboo\nIboon\nMosieno (Bolobo) siene/Teke-E 4 Bolobo B76a closest to Teke-Eboo-Nzikou\nNdindziu\nNorth Teke (Pool) Tee 5 Mbe B71Z closest to Teke-Eboo-Nzikou\nPlateux Teke\nTee 5 Mbe lexically closest to Teke-Eboo-Nzikou\nTeke Boma\nTeke-Boma\nTeke-E 4 Bolobo B76 closest to Teke-Eboo-Nzikou\nTeke-Ebo\nTeke-Eboo\nTeke-Nzikou\nTéké des plateaux\nclosest to Teke-Eboo-Nzikou"
+  },
+  "triggers": {
+    "lgcode": "\nteke AND dibole\neboo\nnzikou"
+  },
+  "identifier": {
+    "multitree": "ebo"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has two entries Teke-Eboo [ebo] and Teke-Nzikou [nzu]. Two such entities are frequently enumerated separately but the recent comparison by **hh:phon:Raharimanantsoa:Eboo-Nzikou** shows that such a distinction is untenable linguistically. Thus the two entries should be merged. See also: Teke-Nzikou [nzu].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "ebo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:184, 188-189 **hh:hv:Kristensen:Teke**:7",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Kristensen:Teke**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Teke-Eboo (ebo-ebo) = 6b (Threatened)."
+  }
+}

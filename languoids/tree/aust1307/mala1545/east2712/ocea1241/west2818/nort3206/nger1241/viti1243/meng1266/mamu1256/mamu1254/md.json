@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mamusi",
+    "hid": "kdf",
+    "level": "language",
+    "iso639-3": "kdf",
+    "latitude": "-5.84776",
+    "longitude": "151.033",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6746036\nhttps://en.wikipedia.org/wiki/Mamusi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Ross:WMelanesia**\n**hh:w:Grace:47**\n**hh:w:Rath:Mengen**"
+  },
+  "altnames": {
+    "multitree": "\nKakuna\nMamusi",
+    "lexvo": "\nMamusi [en]",
+    "hhbib_lgcode": "\nMamusi-Kakuna of SIL"
+  },
+  "triggers": {
+    "lgcode": "\nregion AND mengen"
+  },
+  "identifier": {
+    "multitree": "kdf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mamusi (kdf-kdf) = 6a (Vigorous)."
+  }
+}

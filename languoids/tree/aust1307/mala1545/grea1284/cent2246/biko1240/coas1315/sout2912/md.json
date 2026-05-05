@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Coastal-Virac Bikol",
+    "hid": "bln",
+    "level": "language",
+    "iso639-3": "bln",
+    "latitude": "13.6989",
+    "longitude": "124.29",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Coastal-Virac Bikol](https://grambank.clld.org/languages/sout2912)\nhttps://en.wikipedia.org/wiki/Southern_Catanduanes_Bikol_language\nhttps://www.wikidata.org/entity/Q7569754"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Meman:Bikol**\n**hh:hv:Zorc:Bisayan**\n**hh:hvw:Doloros:Cataduanes**\n**hh:hwdial:McFarland:Bikol**\n**iso6393:2011-068**"
+  },
+  "altnames": {
+    "multitree": "\nBicolano, Southern Catanduanes\nBikol\nSouthern Catanduanes Bicolano\nVirac",
+    "lexvo": "\nSouthern Catanduanes Bicolano [en]",
+    "hhbib_lgcode": "\nBicolano-Southern Catanduanes\nBikol-Southern Catanduanes\nCatanduanes Bicolano\nSouthern Southern Catanduanes\nVirac"
+  },
+  "triggers": {
+    "lgcode": "\nviracnon\nthe AND bikol"
+  },
+  "identifier": {
+    "multitree": "bln"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan** **hh:hv:Blust:CPhilippines**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**\n**hh:hv:Blust:CPhilippines**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bikol, Southern Catanduanes (bln-bln) = 5* (Developing)."
+  }
+}

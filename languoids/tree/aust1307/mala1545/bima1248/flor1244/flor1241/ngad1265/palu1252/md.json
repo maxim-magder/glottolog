@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Palu'e",
+    "hid": "ple",
+    "level": "language",
+    "iso639-3": "ple",
+    "latitude": "-8.32877",
+    "longitude": "121.718",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Palu'e](https://endangeredlanguages.com/lang/2746)\nhttps://en.wikipedia.org/wiki/Palu%CA%BCe_language\nhttps://www.wikidata.org/entity/Q2196866"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:arka:12:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Donohue:Palue**\n**hh:e:Vischer:Palue**\n**hh:hv:Fernandez:Flores**\n**hh:ld:Donohue:Papuan**\n**hh:typ:Donohue:Palue-Passive**"
+  },
+  "altnames": {
+    "multitree": "\nLu'a\nPalu'e\nPalue\nPaluqe",
+    "lexvo": "\nPalu'e [en]\nPalu'e language [en]\nPalu'en kieli [fi]\nPaluees [nl]",
+    "elcat": "\nLu'a\nPalu'e\nPalue\nPaluqe"
+  },
+  "triggers": {
+    "lgcode": "\npalue"
+  },
+  "identifier": {
+    "multitree": "ple",
+    "endangeredlanguages": "2746"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:124-130",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Palu'e (2746-ple) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

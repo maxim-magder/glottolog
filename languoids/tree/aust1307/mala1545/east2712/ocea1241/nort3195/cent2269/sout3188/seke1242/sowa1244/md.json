@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sowa",
+    "hid": "sww",
+    "level": "language",
+    "iso639-3": "sww",
+    "latitude": "-15.82653",
+    "longitude": "168.18653",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Sowa](https://endangeredlanguages.com/lang/2510)\n[Sowa](https://lexibank.clld.org/languages/abvdoceanic-Sowa)\nhttps://en.wikipedia.org/wiki/Sowa_language\nhttps://www.wikidata.org/entity/Q7571843",
+    "timespan": "2000-01-01/2000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2934**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:gray:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Gray:Pentecost**"
+  },
+  "altnames": {
+    "multitree": "\nSowa\nVanuatu",
+    "lexvo": "\nSowa [en]\nSowa language [en]",
+    "hhbib_lgcode": "\nSowa- an extinct language of south-central Pentecost",
+    "elcat": "\nSowa"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "sww",
+    "endangeredlanguages": "2510"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sowa (2510-sww) = Dormant [Gray 2010](cldf:gray:10)"
+  }
+}

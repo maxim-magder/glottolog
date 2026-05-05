@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Orowe",
+    "hid": "bpk",
+    "level": "language",
+    "iso639-3": "bpk",
+    "latitude": "-21.6269",
+    "longitude": "165.473",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n['Ôrôê](https://endangeredlanguages.com/lang/3956)\n[Orowe](https://grambank.clld.org/languages/orow1242)\nhttps://en.wikipedia.org/wiki/Orowe_language\nhttps://www.wikidata.org/entity/Q7103905\n[ᵐBoewe](https://lexibank.clld.org/languages/abvdoceanic-Boewe)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:190**\n**cldf:np:nd:264**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:phon:Lee:Orowe**\n**hh:s:Tsuji:Oroe**\n**hh:w:FennigFennig:Oroe**\n**iso6393:2012-126**"
+  },
+  "altnames": {
+    "multitree": "\nBoewe\nNeukaledonien\nOrowe\nÔrôê",
+    "lexvo": "\nOrowe [en]",
+    "hhbib_lgcode": "\n'Ôrôê\nBoewe",
+    "elcat": "\n'Ôrôê\nBoewe\nNeukaledonien\nOrowe"
+  },
+  "triggers": {
+    "lgcode": "\noroe\norowe"
+  },
+  "identifier": {
+    "multitree": "bpk",
+    "endangeredlanguages": "3956"
+  },
+  "classification": {
+    "sub": "**hh:hbld:Haudricourt:New-Caledonia-Loyalty**",
+    "subrefs": "\n**hh:hbld:Haudricourt:New-Caledonia-Loyalty**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "'Ôrôê (3956-bpk) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

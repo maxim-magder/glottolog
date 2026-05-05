@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Olo",
+    "hid": "ong",
+    "level": "language",
+    "iso639-3": "ong",
+    "latitude": "-3.2929",
+    "longitude": "142.131",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Olo](https://endangeredlanguages.com/lang/10540)\n[Olo](https://grambank.clld.org/languages/oloo1241)\n[Olo](https://wals.info/languoid/lect/wals_code_olo)\nhttps://en.wikipedia.org/wiki/Olo_language\nhttps://www.wikidata.org/entity/Q592162"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:staley:94:2**\n**cldf:staley:95**\n**cldf:staley:nd**\n**hh:e:Limbrock:Hinterland-Beukin**\n**hh:e:McGregorFountain:Olo**\n**hh:e:Mitchell:Wape**\n**hh:e:Mitchell:Wape:Equal**\n**hh:e:Schleiermacher:Anal**\n**hh:e:Sullivan:Wape**\n**hh:g:Staley:Olo**\n**hh:g:Staley:Olo:1995**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:Torricelli**\n**hh:hvw:Laycock:Lumi**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:s:McGregor:Olo**\n**hh:sd:Staley:Olo**\n**hh:v:Elgh:Au-Olo**\n**hh:w:Erdweg:Varopu**\n**hh:w:Laycock:D2**\n**hh:w:Laycock:D8**\n**hh:w:Wilkes:Nori**\n**mpieva:MacGregor1982Ololangu**\n**mpieva:Staley1995Referent**\n**sil16:35487**\n**sil16:38499**\n**sil16:47275**\n**silpng:silpng1956-1990:1652**\n**silpng:silpng1956-1990:1653**\n**silpng:silpng1956-1990:1654**\n**silpng:silpng1956-1990:1655**\n**silpng:silpng1956-1990:1656**\n**silpng:silpng1956-1990:1657**\n**silpng:silpng1956-1990:1658**\n**silpng:silpng1956-1990:1659**\n**silpng:silpng1956-1990:1660**"
+  },
+  "altnames": {
+    "wals": "\nOlo",
+    "ruhlen (1987)": "\nOlo",
+    "moseley & asher (1994)": "\nOlo",
+    "multitree": "\nOlo\nOrlei\nWapi",
+    "lexvo": "\nOlo [en]",
+    "hhbib_lgcode": "\nAnal\nLumi Olo from Maui\nNorth Olo in the Payi area\nOlo - minimal pairs (Don McGregor)\nSiaute\nSomoro Olo from Sipote\nSouth Olo in the Wape area\nWape\nWape Olo",
+    "elcat": "\nOlo\nOrlei\nWape\nWapi"
+  },
+  "triggers": {
+    "lgcode": "\nolo\nwape"
+  },
+  "identifier": {
+    "wals": "olo",
+    "multitree": "ong",
+    "endangeredlanguages": "10540"
+  },
+  "classification": {
+    "sub": "**hh:hv:Laycock:Torricelli**:768 **hh:v:Elgh:Au-Olo**",
+    "subrefs": "\n**hh:hv:Laycock:Torricelli**\n**hh:v:Elgh:Au-Olo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Olo (10540-ong) = Vulnerable (20 percent certain, based on the evidence available) [Staley 2007](cldf:staley:07)"
+  }
+}

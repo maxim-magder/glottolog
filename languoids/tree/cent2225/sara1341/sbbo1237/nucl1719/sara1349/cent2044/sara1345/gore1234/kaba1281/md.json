@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kaba",
+    "hid": "ksp",
+    "level": "language",
+    "iso639-3": "ksp",
+    "latitude": "7.64972",
+    "longitude": "16.7344",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "TD"
+    ],
+    "links": "\n[Kaba](https://grambank.clld.org/languages/kaba1281)\nhttps://en.wikipedia.org/wiki/Kabba_language\nhttps://www.wikidata.org/entity/Q3915316"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:957**\n**hh:d:MoserDingatoloum:Kabba**\n**hh:g:Moser:Kabba**\n**hh:g:Moser:Kabba:2003**\n**hh:h:Idiatov:Adamawa-Taraba**\n**hh:he:Carbou:Ouadai**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:vld:Idiatov:Lau**\n**hh:w:Chabrelie:Sara**\n**iso6393:2021-026**\n**mpieva:Moser2007KabbaaNi**\n**sil16:38248**\n**sil16:40390**\n**sil16:51236**"
+  },
+  "altnames": {
+    "multitree": "\nKaba\nKaba de Baibokoum\nKaba de Paoua\nKabba\nSara\nSara Kaba\nWestern Kaba",
+    "lexvo": "\nKaba [en]",
+    "hhbib_lgcode": "\nKaba de Makunda (Ouham Pende)\nKaba of Decorse\nLaka (Nigeria) -lak-\nLaka of Lau\nSame language as Kaba of Chad Kaba\nSara Kaba\nW Sara CAR Kabba b/c maha in the word for six"
+  },
+  "triggers": {
+    "lgcode": "\nkabba\nNOT in AND kabba"
+  },
+  "identifier": {
+    "multitree": "ksp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kabba (ksp-ksp) = 5* (Developing)."
+  }
+}

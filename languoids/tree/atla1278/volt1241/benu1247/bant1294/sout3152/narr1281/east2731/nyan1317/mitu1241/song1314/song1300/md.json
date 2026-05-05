@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Songoora",
+    "hid": "sod",
+    "level": "language",
+    "iso639-3": "sod",
+    "latitude": "-2.21871",
+    "longitude": "26.3477",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7561296\nhttps://en.wikipedia.org/wiki/Songola_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:delhaise:09:1**\n**eballiso2009:10316**\n**eballiso2009:15310**\n**eballiso2009:15724**\n**eballiso2009:22335**\n**eballiso2009:25996**\n**eballiso2009:29999**\n**eballiso2009:52436**\n**eballiso2009:53306**\n**eballiso2009:5948**\n**eballiso2009:8199**\n**hh:ew:Delhaise:WaSongola**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvld:Meeussen:Maniema**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:typ:JacobsOmeonga:Isiamba**"
+  },
+  "altnames": {
+    "multitree": "\nBinja\nKesongola\nSongola\nSongoora\nSonγai",
+    "lexvo": "\nSongoora [en]",
+    "hhbib_lgcode": "\nBashi Luamba\nBinja-N 1 d. Ulindi D24\nBinja-N 2 d. Kasenga D24\nD24_Songola\nIsiamba\nIsilwamba\nKiSongoola\nN Binja\nSongola\nWaSongola"
+  },
+  "triggers": {
+    "lgcode": "\nsongola\nwa{songola\nwasongola\nstuhlmann\nbili\nzentralafrikanischer"
+  },
+  "identifier": {
+    "multitree": "sod"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ricquier:Lega-Luba**",
+    "subrefs": "\n**hh:hv:Ricquier:Lega-Luba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Songoora (sod-sod) = 6a (Vigorous)."
+  }
+}

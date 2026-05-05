@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Muak",
+    "hid": "tlq",
+    "level": "language",
+    "iso639-3": "tlq",
+    "latitude": "21.4293",
+    "longitude": "100.985",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "MM"
+    ],
+    "links": "\n[Tai Loi](https://endangeredlanguages.com/lang/1245)\nhttps://www.wikidata.org/entity/Q7675784\nhttps://en.wikipedia.org/wiki/Tai_Loi_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hsiu:Angkuic**",
+    "subrefs": "\n**hh:hv:Hsiu:Angkuic**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Lowis:Burma**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hvw:Sidwell:Palaungic**\n**hh:phon:Hall:Muak**\n**hh:typ:Rice:Golden-Triangle**"
+  },
+  "altnames": {
+    "multitree": "\n\"mok (Myanmar, Thaïlande)\"\nAngku\nLoi\nMok (Chine)\nMok (République démocratique populaire lao)\nMong-Lwe\nMonglwe\nTai Loi\nTai-Loi\nTailoi\nTailoi von Möng-Lwe\nTailói\nThaï loi\nWa-Küt\nWakut\nĀng-kú",
+    "lexvo": "\nTai Loi [en]",
+    "hhbib_lgcode": "\nEn tribe Kengtung State (Waic)\nHill tribe of Möng Lwe district Kengtung State\nMuak Sa-Aak\nSon tribe Kengtung State (Waic)\nTai Loi",
+    "elcat": "\nAngku\nLoi\nMong-Lwe\nMonglwe\nMuak Sa-aak\nTai Loi\nTai-Loi\nTailoi\nTailoi von Möng-Lwe\nWa-Küt\nWakut\nĀng-kú"
+  },
+  "triggers": {
+    "lgcode": "\nmuak\naak"
+  },
+  "identifier": {
+    "multitree": "tlq",
+    "endangeredlanguages": "1245"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Tai Loi (1245-tlq) = Vulnerable (100 percent certain, based on the evidence available) [Hall 2010](cldf:hall:10)"
+  }
+}

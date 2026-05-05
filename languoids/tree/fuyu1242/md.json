@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Fuyug",
+    "hid": "fuy",
+    "level": "language",
+    "iso639-3": "fuy",
+    "latitude": "-8.6371",
+    "longitude": "147.312",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Fuyug](https://grambank.clld.org/languages/fuyu1242)\n[Fuyug](https://lexibank.clld.org/languages/transnewguineaorg-fuyug)\nhttps://en.wikipedia.org/wiki/Fuyug_language\nhttps://www.wikidata.org/entity/Q3073472"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:williamson:12**\n**hh:e:McKellin:Mafulu**\n**hh:e:Williamson:Mafulu**\n**hh:g:Bradshaw:Fuyug**\n**hh:hv:Dutton:SETNG**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Central-Papua**\n**hh:hw:Ray:Gulf:1914**\n**hh:s:Ray:Fuyuge**\n**hh:st:Bradshaw:Fuyug**\n**hh:w:Chinnery:West-Albert-Edward**\n**hh:w:Egidi:Tauata**\n**hh:w:Fastre:Fujuge**\n**hh:w:Giulianetti:Sikube**\n**hh:w:Jackson:Mafulu**\n**hh:w:Miller:Kambesi**\n**hh:w:Money:Kambisa**\n**hh:w:Strong:North-Eastern-Divisions**"
+  },
+  "altnames": {
+    "multitree": "\nFuyug\nFuyuge\nFuyughe\nMafufu\nMafulu",
+    "lexvo": "\nFuyug [en]",
+    "hhbib_lgcode": "\nAgita\nFujuge\nFuyuge\nGagara\nGomali\nKabana\nKambesi\nKambisa\nKorona\nOnunge\nSikube\nSt.~Josephfluss\nTauada\nVovoi"
+  },
+  "triggers": {
+    "lgcode": "\nsikube\nlicing\nkambisa\nfujuge\nchirima\nvanapa\nmafulu\nfuyuge\nvetapa\nfuyug"
+  },
+  "identifier": {
+    "multitree": "fuy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dutton:SETNG**:631-632 **hh:hv:HooleyMcElhanon:Morobe**:1076",
+    "subrefs": "\n**hh:hv:Dutton:SETNG**\n**hh:hv:HooleyMcElhanon:Morobe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fuyug (fuy-fuy) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Manza",
+    "hid": "mzv",
+    "level": "language",
+    "iso639-3": "mzv",
+    "latitude": "6.51218",
+    "longitude": "18.7935",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36038\nhttps://en.wikipedia.org/wiki/Manza_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4510**\n**cldf:gaud:11**\n**cldf:vergiat:37**\n**eballiso2009:32602**\n**eballiso2009:45200**\n**eballiso2009:48967**\n**eballiso2009:52865**\n**eballiso2009:57394**\n**eballiso2009:57534**\n**hh:e:Vergiat:Oubangui**\n**hh:et:Renouf-Stefanik:Manza**\n**hh:ew:Gaud:Mandja**\n**hh:h:Struck:Moyen-Congo**\n**hh:hew:Maistre:Afrique-Centrale**\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**\n**hh:hw:Monino:Oubanguiennes**\n**hh:soc:Probst:Manza**\n**hh:st:Hoch:Manza**\n**hh:w:Clerc:Sango**\n**hh:w:Eboue:Sango-Banda-Baya-Mandjia**\n**hh:w:Giraud:Sango-Balkongo-Zande**\n**hh:w:Monino:Gbaya-Manza-Ngbaka**\n**sil16:37021**\n**sil16:38903**\n**sil16:42919**"
+  },
+  "altnames": {
+    "multitree": "\nMandja\nManja\nManza",
+    "lexvo": "\nManza [en]",
+    "hhbib_lgcode": "\nMandja\nMandjia\nManjas\nManza but the numerals in Manza are actually Banda\nManza de la région de Damara près Bangui"
+  },
+  "triggers": {
+    "lgcode": "\nmandja\nmandjia\nmanjas\nmanza"
+  },
+  "identifier": {
+    "multitree": "mzv"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Monino:Proto-Gbaya**:451-455 **hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**",
+    "subrefs": "\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mandja (mzv-mzv) = 6a* (Vigorous)."
+  }
+}

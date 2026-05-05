@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Sierra de Juárez Zapotec",
+    "hid": "zaa",
+    "level": "language",
+    "iso639-3": "zaa",
+    "latitude": "17.4219",
+    "longitude": "-96.6191",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Ixtlán](https://endangeredlanguages.com/lang/8749)\n[Sierra de Juárez Zapotec](https://grambank.clld.org/languages/sier1250)\n[Zapotec (Juárez)](https://wals.info/languoid/lect/wals_code_zaj)\nhttps://www.wikidata.org/entity/Q12645588"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3327**\n**cldf:bickmore:broadwell:98**\n**cldf:nellis:denellis:83**\n**hh:e:Bauer-Thoma:Zapoteken-Mixes**\n**hh:g:Foreman:Macuiltianguis**\n**hh:htyp:Marlett:Zapotecan-Syntax**\n**hh:hv:Campbell:Central-Zapotec**\n**hh:hv:Fernandez:Protozapoteco**\n**hh:hvw:Radin:Zapotec**\n**hh:hvw:Rendon:Zapoteco**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:Riestenberg:Zapotec-Macuiltiangis**\n**hh:phon:Tejada:Sierra-Juarez-Zapotec**\n**hh:sd:Nellis:Zapoteco-Juarez**\n**hh:typ:Gibbs:Juarez-Zapotec**\n**hh:typ:Marks:Juarez-Zapotec**\n**mpieva:Butler1980Gramatic**\n**mpieva:Nellis1983Dicciona**\n**otomanguean:Zapotec173**\n**sil16:11796**\n**sil16:18448**\n**sil16:19991**\n**sil16:21137**\n**sil16:24359**\n**sil16:24738**"
+  },
+  "altnames": {
+    "glottolog": "\nSierra de Juarez Zapotec",
+    "wals": "\nZapotec (Juárez)",
+    "ruhlen (1987)": "\nSapoteko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nIxtlan\nIxtlán Zapoteco\nNorthern Sapoteko\nSierra de Juarez\nSierra de Juárez Zapotec\nZapotec\nZapotec (Juárez)\nZapotec, Sierra de Juárez\nZapoteco ( Juarez Sierra)\nZapoteco de Atepec",
+    "lexvo": "\nSierra de Juárez Zapotec [en]",
+    "hhbib_lgcode": "\nAnalco\nAtepec\nAtepec Zapotec\nIncluye listas de 100 palabras de Swadesh en 16 variantes del zapoteco: Atepec\nIncluye listas de lOO palabras de Swadesh en 16 variantes del zapoteco: Atepec\nMacuiltianguis Zapotec\nSan Juan Atepec\nSerrano de Atepec",
+    "elcat": "\nIxtlan\nIxtlán\nIxtlán Zapoteco\nNorthern Sapoteko\nSerrano\nSierra de Juarez\nSierra de Juárez\nSierra de Juárez Zapotec\nZapotec\nZapotec (Juárez)\nZapoteco ( Juarez Sierra)\nZapoteco de Atepec"
+  },
+  "triggers": {
+    "lgcode": "\ntonomechanics\nmacuiltianguis\nnellis\ntitsa\nprotozapoteco"
+  },
+  "identifier": {
+    "wals": "zaj",
+    "multitree": "zaa",
+    "endangeredlanguages": "8749"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith-Stark:Zapotecas** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Smith-Stark:Zapotecas**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ixtlán (8749) = Vulnerable (20 percent certain, based on the evidence available) (Developing) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

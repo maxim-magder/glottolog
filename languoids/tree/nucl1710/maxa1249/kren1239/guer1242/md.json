@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Gueren",
+    "level": "dialect",
+    "latitude": "-17.726974",
+    "longitude": "-39.61441",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5614858\nhttps://en.wikipedia.org/wiki/Gueren_language"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Botocudo_gueren0**\n**fabreall2009ann:Botocudo_gueren1**\n**fabreall2009ann:Botocudo_gueren4**\n**fabreall2009ann:Botocudo_gueren6**\n**fabreall2009ann:Botocudo_gueren7**\n**hh:vw:Loukotka:Botocudo**\n**hh:w:Ignace:Boruns**"
+  },
+  "triggers": {
+    "lgcode": "\nwatu\nguerens\nboruns\ngueren"
+  },
+  "identifier": {
+    "multitree": "060"
+  },
+  "classification": {
+    "sub": "**hh:g:Ribeiro:Karaja**:262-287",
+    "subrefs": "\n**hh:g:Ribeiro:Karaja**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Gueren (NOCODE_Gueren-NOCODE_Gueren) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBorun mixed with Tupinambá"
+  }
+}

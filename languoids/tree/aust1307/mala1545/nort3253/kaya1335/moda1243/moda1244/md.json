@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Modang",
+    "hid": "mxd",
+    "level": "language",
+    "iso639-3": "mxd",
+    "latitude": "0.80793",
+    "longitude": "116.573",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6888037\nhttps://en.wikipedia.org/wiki/Modang_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:smith:18:2**\n**hh:e:Guerreiro:Modang**\n**hh:ew:Bock:Borneo**\n**hh:h:Sellato:Upper-Makaham**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Guerreiro:CBornean**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:lde:Guerreiro:Wehea**\n**hh:w:Barth:Kayan-Mahakam**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nModang",
+    "lexvo": "\nModang [en]",
+    "hhbib_lgcode": "\nGelatsch\nLong Belah\nLong Gelat\nLong Glit/Long Gelat/Long Glat\nLong Way\nMenggaè Long Lesan\nMerap of the Malinau basin related to Modang\nModang on the Telen-Wahau rivers\nWahau Modang\nWehèa Modang"
+  },
+  "triggers": {
+    "lgcode": "\nwehea\nmodang\nmahakkam\nlejie"
+  },
+  "identifier": {
+    "multitree": "moda;mxd"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Kenyah-Kayanic** **hh:hvw:Smith:Borneo**:72-82 **hh:hvw:Smith:Segai-Modang**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hvw:Smith:Segai-Modang**\n**hh:hvw:Smith:Kenyah-Kayanic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Modang (mxd-mxd) = 6b* (Threatened)."
+  }
+}

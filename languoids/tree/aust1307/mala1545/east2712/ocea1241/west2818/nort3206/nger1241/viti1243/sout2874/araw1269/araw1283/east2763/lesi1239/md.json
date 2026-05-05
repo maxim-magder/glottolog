@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lesing-Gelimi",
+    "hid": "let",
+    "level": "language",
+    "iso639-3": "let",
+    "latitude": "-6.19889",
+    "longitude": "150.506",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12635445\nhttps://en.wikipedia.org/wiki/Lesing-Gelimi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Ross:WMelanesia**\n**hh:w:MacKenzieetal:Ambul**\n**hh:w:MacKenzieetal:Bebeli**\n**hh:wsoc:Spenceretal:Amio-Gelimi**\n**hh:wsoc:VanCottSpencer:Avau**\n**iso6393:2011-146**\n**sil16:15971**"
+  },
+  "altnames": {
+    "multitree": "\nAtui\nLesing-Atui\nLesing-Gelimi",
+    "lexvo": "\nLesing-Gelimi [en]",
+    "hhbib_lgcode": "\nAmio\nAmio-Gelimi\nAmio-Kaskas\nAtui\nAtui-Lesing\nGelimi\nKaskas\nPoronga\nPorunga"
+  },
+  "triggers": {
+    "lgcode": "\nsouth AND communities AND britain"
+  },
+  "identifier": {
+    "multitree": "let"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Amio-Gelimi (let-let) = 6a (Vigorous)."
+  }
+}

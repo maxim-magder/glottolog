@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Rempi",
+    "hid": "rmp",
+    "level": "language",
+    "iso639-3": "rmp",
+    "latitude": "-5.02487",
+    "longitude": "145.782",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Rempi](https://lexibank.clld.org/languages/transnewguineaorg-rempi)\n[rempi](https://lexibank.clld.org/languages/zgraggenmadang-rempi)\nhttps://en.wikipedia.org/wiki/Rempi_language\nhttps://www.wikidata.org/entity/Q7312214"
+  },
+  "sources": {
+    "glottolog": "\n**hh:el:Tupper:Rempi**\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:he:Schebesta:Neuguinea**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hvw:Kasprus:Mugil**\n**hh:hvw:Loukotka:Papuanske**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Dempwolff:Deutsch-Neuguinea**\n**hh:hw:Zgraggen:Mabuso**\n**hh:w:vonMiklucho-Maclay:Maklaya**"
+  },
+  "altnames": {
+    "multitree": "\nA'e\nErempi\nRempi\nRempin",
+    "lexvo": "\nRempi [en]",
+    "hhbib_lgcode": "\nErempi\nGarus (A'é̱-Dialect\nMugil-Rempi\nRempin\nRempin tez A'e\nRempini)"
+  },
+  "triggers": {
+    "lgcode": "\nrempi\nrmp\nmabuso"
+  },
+  "identifier": {
+    "multitree": "rmp"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Zgraggen:Madang**:50",
+    "subrefs": "\n**hh:hvld:Zgraggen:Madang**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rempi (rmp-rmp) = 6b (Threatened)."
+  }
+}

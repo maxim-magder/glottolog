@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ilwana",
+    "hid": "mlk",
+    "level": "language",
+    "iso639-3": "mlk",
+    "latitude": "-0.66322",
+    "longitude": "39.793",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Kiwilwana](https://endangeredlanguages.com/lang/4785)\nhttps://www.wikidata.org/entity/Q6001357\nhttps://en.wikipedia.org/wiki/Ilwana_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**eballiso2009:19319**\n**eballiso2009:31723**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hvw:Mohlig:Bantous-Nord-Est**\n**hh:hvw:NurseHinnebusch:Swahili-Sabaki**\n**hh:hwsoc:vanOtterloo:Bantu-Kenya-Coastal**\n**hh:ld:Nurse:Ilwana**\n**hh:soc:Nyaigoti:Ilwana**\n**hh:v:Klein-Arendt:Ilwana-Pokomo**\n**hh:v:Mohlig:Ilwana**\n**hh:v:Nurse:Contact-Three-Centuries**\n**hh:v:Nurse:Daiso-Ilwana**\n**iso6393:2006-053**\n**iso6393:2007-156**\n**sil16:50134**\n**sil16:50135**\n**sil16:50136**\n**sil16:50137**"
+  },
+  "altnames": {
+    "multitree": "\nIlwana\nMalakote",
+    "lexvo": "\nIlwana [en]\nKiwilwana [en]",
+    "hhbib_lgcode": "\nE701_Elwana\nElwana\nElwana G40E\nKiwilwana\nMalakote",
+    "elcat": "\nIlwana\nKiwilwana\n“Malakote”"
+  },
+  "triggers": {
+    "lgcode": "\nilhazia\ncotiers\nmwariamu\nkiwiilwana\nukimwi\nmalakote\nilwana"
+  },
+  "identifier": {
+    "multitree": "mlk",
+    "endangeredlanguages": "4785"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:EBantu**",
+    "subrefs": "\n**hh:hv:Nurse:EBantu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kiwilwana (4785-mlk) = Threatened (20 percent certain, based on the evidence available) (The number of speakers is increasing.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

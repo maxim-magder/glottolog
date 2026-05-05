@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Arem",
+    "hid": "aem",
+    "level": "language",
+    "iso639-3": "aem",
+    "latitude": "17.7672",
+    "longitude": "105.928",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Arem](https://endangeredlanguages.com/lang/1219)\nhttps://www.wikidata.org/entity/Q3507920\nhttps://en.wikipedia.org/wiki/Arem_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:hv:Ferlus:Viet-Muong**\n**hh:phon:Kasuga:Arem**\n**hh:vphon:Ferlus:Arem**\n**hh:w:Riviere:Annam-Laos**"
+  },
+  "altnames": {
+    "multitree": "\nA-Rem\nArem\nAremo\nChombrau\nChomrau\nUmo",
+    "lexvo": "\nArem [en]\nArem language [en]",
+    "hhbib_lgcode": "\nChut\nChut [scb] of which Ruc and the Arem\nHarème",
+    "elcat": "\nA-Rem\nArem\nChombrau\nChomrau\nUmo"
+  },
+  "identifier": {
+    "multitree": "aem",
+    "endangeredlanguages": "1219"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic:2015**:205",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic:2015**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Arem (1219-aem) = Critically Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

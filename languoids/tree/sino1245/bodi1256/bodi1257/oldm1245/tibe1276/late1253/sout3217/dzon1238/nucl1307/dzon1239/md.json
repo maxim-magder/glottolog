@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Dzongkha",
+    "hid": "dzo",
+    "level": "language",
+    "iso639-3": "dzo",
+    "latitude": "27.410786",
+    "longitude": "89.581604",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN",
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Dzongkha](https://grambank.clld.org/languages/dzon1239)\nhttps://en.wikipedia.org/wiki/Dzongkha\nhttps://phoible.org/languages/dzon1239\nhttps://www.wikidata.org/entity/Q33081"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:DDC:Dzongkha**\n**hh:d:Jumang:Dzongkha**\n**hh:g:Imaeda:Zonkago**\n**hh:g:Tshering:Dzongkha**\n**hh:g:Wary:Dukpa**\n**hh:g:Watters:Dzongkha**\n**hh:g:vanDriem:Dzongkha**\n**hh:g:vanDriem:Dzongkha:1992**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Grierson:3:I**\n**hh:ld:HyslopTshering:Tasha-Sili**\n**hh:ld:Lee:Dzongkha**\n**hh:phon:Dorjee:Dzongkha**\n**hh:phon:Nishida:Zonka**\n**hh:phon:Watters:Dzongkha**\n**hh:phon:Watters:Five-Tibetan-Himalayan**\n**hh:s:Byrne:Bhutanese**\n**hh:s:Imaeda:Dzongkha**\n**hh:wsoc:Dorji:Bhutanese**\n**iso6393:2014-049**\n**mpieva:2002Rdzonkha**\n**mpieva:Schroeter2000Agrammar**\n**mpieva:Thinley2000AinlisiR**\n**sil16:50637**"
+  },
+  "altnames": {
+    "multitree": "\nBhotia of Bhutan\nBhotia of Dukpa\nBhutanese\nBhōṭiā of Bhutan\nBhōṭiā of Dukpa\nButanés\nDrukha\nDrukke\nDukpa\nDzongkha\nHloka\nJonkha\nLhoke\nLhoskad\nRdzongkha\nZongkhar",
+    "lexvo": "\nBahasa Dzongkha [id]\nBahasa Jongkha [ms]\nBotijų kalba [lt]\nBoutaneg [br]\nBuotėju kalba [lt]\nButaanish [gv]\nDzongka [tr]\nDzongke [lv]\nDzongkha [de]\nDzongkha keel [et]\nDzongkha language [en]\nDzongkhan kieli [fi]\nDzongkä [cs]\nDzonka lingvo [eo]\nDzonkha simi [qu]\nLingua Dzongkha [la]\nLingua dzongkha [it]\nLíngua butanesa [pt]\ndzongkha [fr]\nЅонгка јазик [mk]\nЏонгка језик [sr]\nДзонг-кэ [ru]\nДзонгкха [bg]\nДзонґ-ке [uk]\nՁոնգքհա [hy]\nדזונגקה [he]\nजोंगखा [hi]\nஜொங்கா மொழி [ta]\nภาษาซองคา [th]\nའབྲུག་པའི་སྐད། [bo]\nརྫོང་ཁ་ [dz]\nゾンカ語 [ja]\n宗喀語 [zh]\n종카어 [ko]",
+    "hhbib_lgcode": "\nBhotia of Dukpa\nDukpa\nGasa\nLhoke or Bhotia of Bhutan\nTasha-Sili\nZonka"
+  },
+  "triggers": {
+    "lgcode": "\nbhutanese\nboutan\ndrokpas\ndzongkha"
+  },
+  "identifier": {
+    "multitree": "dzo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Bielmeier:Tibetan**:38-48 **hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hvw:Bielmeier:Tibetan**\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Dzongkha (1253-dzo) = Vulnerable"
+  }
+}

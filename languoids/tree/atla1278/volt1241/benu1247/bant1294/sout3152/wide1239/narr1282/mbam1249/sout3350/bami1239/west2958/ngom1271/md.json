@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ngombale",
+    "hid": "nla",
+    "level": "language",
+    "iso639-3": "nla",
+    "latitude": "5.70306",
+    "longitude": "10.1446",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36292\nhttps://en.wikipedia.org/wiki/Ngombale_language\nhttps://phoible.org/languages/ngom1271"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:28858**\n**eballiso2009:29476**\n**eballiso2009:57562**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hvw:Domche:Bamileke**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:Kenmogne:Ngombale**\n**hh:s:Voutsa:Ngombale**\n**hh:s:Yemmene:Ngombale**"
+  },
+  "altnames": {
+    "multitree": "\nBamileke-Ngombale\nNgombale",
+    "lexvo": "\nNgombale [en]",
+    "hhbib_lgcode": "\nBabadjou\nBamekoubou\nBamessingue"
+  },
+  "triggers": {
+    "lgcode": "\nngombale"
+  },
+  "identifier": {
+    "multitree": "nla"
+  },
+  "classification": {
+    "sub": "**hh:phon:Hyman:Bamileke-Fefe**:4-11",
+    "subrefs": "\n**hh:phon:Hyman:Bamileke-Fefe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngombale (nla-nla) = 5 (Developing)."
+  }
+}

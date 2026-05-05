@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Teiwa",
+    "hid": "twe",
+    "level": "language",
+    "iso639-3": "twe",
+    "latitude": "-8.37662",
+    "longitude": "124.174",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Teiwa](https://endangeredlanguages.com/lang/2087)\n[Teiwa](https://grambank.clld.org/languages/teiw1235)\n[Teiwa](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Teiwa)\n[Teiwa](https://lexibank.clld.org/languages/robinsonap-teiwa)\n[Teiwa (Sargang Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-teiwa-sargang)\nhttps://en.wikipedia.org/wiki/Teiwa_language\nhttps://www.wikidata.org/entity/Q3519302"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:baird:04**\n**cldf:klamer:10:2**\n**cldf:lewis:ed:09**\n**hh:d:KlamerSir:Teiwa**\n**hh:d:SirSchapper:Teiwa**\n**hh:g:Klamer:Teiwa**\n**hh:h:Sugono:Indonesia**\n**hh:hvw:Fox:Pantar**\n**hh:hvw:Stokhof:Alor**\n**hh:w:Watuseke:Pantar**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nTewa",
+    "lexvo": "\nTewa (Indonesia) [en]\nTewa [en]",
+    "hhbib_lgcode": "\n4xTewa\nDeing\nLebang\nMadar\nSargang\nTeiwa (Indonesia)\nTewa",
+    "elcat": "\nTeiwa\nTewa"
+  },
+  "triggers": {
+    "lgcode": "\nteiwa\nnaschrift"
+  },
+  "identifier": {
+    "multitree": "twe",
+    "endangeredlanguages": "2087"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Teiwa (2087-twe) = Endangered (100 percent certain, based on the evidence available) (The present generation of adults still uses Teiwa at home and when talking to other Teiwa speaking adults, but they typically switch to Malay/Indonesian when addressing children. Children playing outside usually speak Malay/Indonesian amongst each other, Teiwa words and expressions are used occasionally.) [Klamer 2010](cldf:klamer:10:1)"
+  }
+}

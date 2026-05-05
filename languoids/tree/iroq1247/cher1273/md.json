@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Cherokee",
+    "hid": "chr",
+    "level": "language",
+    "iso639-3": "chr",
+    "latitude": "35.4664",
+    "longitude": "-83.163",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Cherokee](https://grambank.clld.org/languages/cher1273)\n[Cherokee](https://wals.info/languoid/lect/wals_code_che)\nhttps://en.wikipedia.org/wiki/Cherokee_language\nhttps://phoible.org/languages/cher1273\nhttps://www.wikidata.org/entity/Q33388\n[ᏣᎳᎩ (Cherokee)](https://endangeredlanguages.com/lang/1684)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2436**\n**cldf:bender:harris:46**\n**cldf:boney:19**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cornelius:nd**\n**cldf:downing:lima:etal:ed:92**\n**cldf:ed:10**\n**cldf:feeling:75**\n**cldf:frawley:hill:etal:ed:02:4**\n**cldf:gearing:62**\n**cldf:gilbert:37**\n**cldf:gilbert:h:etal:43**\n**cldf:golla:goddard:etal:08**\n**cldf:herrick:berardo:etal:15**\n**cldf:holmes:smith:76**\n**cldf:krueger:93**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lindsey:scancarelli:85**\n**cldf:moseley:07**\n**cldf:np:28**\n**cldf:np:nd:264**\n**cldf:reyburn:54:1**\n**cldf:swanton:46**\n**haspelmath:uchihara_high_2009**\n**hh:d:Joyner:Cherokee**\n**hh:ew:Castiglioni:America-Settentrionale**\n**hh:g:Cook:Cherokee**\n**hh:g:HolmesSmith:Cherokee**\n**hh:g:Montgomery-Anderson:Oklahoma-Cherokee**\n**hh:g:Scancarelli:Cherokee**\n**hh:gd:King:Cherokee**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hv:Julian:Iroquoian**\n**hh:hvw:Latham:Comparative**\n**hh:ld:Worcester:Cherokee**\n**hh:phon:Cornelis:Oklahoma-Cherokee**\n**hh:phon:Foley:Western-Cherokee**\n**hh:phon:Uchihara:Oklahoma-Cherokee**\n**hh:phon:Uchihara:Oklahoma-Cherokee:2016**\n**hh:s:Pickering:Cherokee**\n**hh:s:PulteFeeling:Cherokee**\n**hh:s:Reyburn:Cherokee**\n**hh:s:Scancarelli:Cherokee**\n**hh:s:vonderGabelentz:Tscherokesischen**\n**hh:sd:Feeling:Cherokee**\n**hh:t:Olbrechts:Cherokee**\n**hh:typ:Scancarelli:Cherokee**\n**hh:typ:Uchihara:Cherokee**\n**hh:typ:Walker:Cherokee**\n**hh:w:Castiglioni:Cherokee**\n**ldh:item_1933120**\n**mpieva:2005Nativela**\n**mpieva:Beghelli1996Cherokee**\n**mpieva:Feeling2003AHandboo**\n**mpieva:Robinson1996Easytous**\n**mpieva:Robinson2004Conjugat**"
+  },
+  "altnames": {
+    "wals": "\nCherokee",
+    "wals other": "\nCherokee\nNorth Carolina\nTsalagi",
+    "ruhlen (1987)": "\nCherokee",
+    "moseley & asher (1994)": "\nCherokee",
+    "multitree": "\nCherokee\nCherokee (Caroline du Nord)\nCherokee (Oklahoma)\nCheroki (Oklahoma)\nIroquois\nRechahecrian\nRickohockan\nSouthern Iroquoian\nTsalagi\nTslagi",
+    "lexvo": "\nBahasa Cherokee [ms]\nCeroke sprǣc [ang]\nCherokee [ca]\nCherokee dili [tr]\nCherokee language [en]\nCherokeen kieli [fi]\nCherokesisk [no]\nCherokesiska [sv]\nCseroki nyelv [hu]\nIdioma cheroqui [es]\nJęzyk czirokeski [pl]\nLingua cherokee [it]\nLíngua cherokee [pt]\nTsalaki simi [qu]\ncherokee [fr]\nĈeroka lingvo [eo]\nČerokių kalba [lt]\nЧероки [ru]\nЧерокиски јазик [mk]\nЧерокски език [bg]\nภาษาเชอโรกี [th]\nჩეროკი [ka]\nᏣᎳᎩ ᎧᏬᏂᎯᏍᏗ [chr]\nチェロキー語 [ja]\n切羅基語 [zh]\n체로키어 [ko]",
+    "hhbib_lgcode": "\nCerochese\nOklahoma Cherokee\nTscherokesischen",
+    "elcat": "\nIroquois\nRechahecrian\nRickohockan\nSouthern Iroquoian\nTsalagi\nTslagi\nᏣᎳᎩ (Cherokee)\nᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ\nチェロキー語"
+  },
+  "triggers": {
+    "lgcode": "\ncherokee\nuniti\nfatto\ntscherokesischen\nstati"
+  },
+  "identifier": {
+    "wals": "che",
+    "multitree": "chr",
+    "endangeredlanguages": "1684"
+  },
+  "classification": {
+    "sub": "**hh:hv:Julian:Iroquoian**",
+    "subrefs": "\n**hh:hv:Julian:Iroquoian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "ᏣᎳᎩ (Cherokee) (1684-chr) = Threatened (20 percent certain, based on the evidence available) [Boney 2019](cldf:boney:19)"
+  }
+}

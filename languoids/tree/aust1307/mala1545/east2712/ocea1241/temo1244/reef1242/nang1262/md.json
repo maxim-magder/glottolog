@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nanggu",
+    "hid": "ngr",
+    "level": "language",
+    "iso639-3": "ngr",
+    "latitude": "-10.7441",
+    "longitude": "165.887",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Nagu](https://endangeredlanguages.com/lang/4851)\n[Nanggu](https://grambank.clld.org/languages/nang1262)\n[Nanggu](https://lexibank.clld.org/languages/abvdoceanic-Nanggu)\nhttps://en.wikipedia.org/wiki/Nanggu_language\nhttps://www.wikidata.org/entity/Q3063524"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:acord:09**\n**cldf:agency:09**\n**cldf:agency:14:6**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:atkinson:bobogare:etal:09**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:boerger:07**\n**cldf:boerger:09**\n**cldf:boerger:naess:etal:12**\n**cldf:calculator:14**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:davenport:05**\n**cldf:davenport:64**\n**cldf:davenport:91**\n**cldf:dunbar:mungov:etal:13**\n**cldf:graebner:03**\n**cldf:keesing:84:2**\n**cldf:lewis:ed:09**\n**cldf:np:14:5**\n**cldf:np:18:5**\n**cldf:np:nd:264**\n**cldf:oferrall:04**\n**cldf:speiser:16**\n**hh:g:Vaa:Engdewu**\n**hh:hv:Lincoln:Reef-Santa**\n**hh:hv:Wurm:EPapuan**\n**hh:hv:Wurm:ReefVocabulary**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvw:Wurm:Reef**\n**hh:s:Wurm:Reef-Possession**\n**hh:wsoc:Simons:Santa-Cruz**\n**iso6393:2008-065**\n**iso6393:2011-141**"
+  },
+  "altnames": {
+    "multitree": "\nNagu\nNanggu",
+    "lexvo": "\nNagu [en]\nNanggu [en]\nNanggu language [en]",
+    "hhbib_lgcode": "\nEngdewu\nNanggu NNG",
+    "elcat": "\nEngdewu\nNagu\nNanggu"
+  },
+  "triggers": {
+    "lgcode": "\nengdewu"
+  },
+  "identifier": {
+    "multitree": "ngr",
+    "endangeredlanguages": "4851"
+  },
+  "classification": {
+    "sub": "**hh:hv:RossNaess:Temotu**, **hh:hv:NaessBoerger:RSC**, **hh:hvs:Francois:Vanikoro**",
+    "subrefs": "\n**hh:hv:RossNaess:Temotu**\n**hh:hv:NaessBoerger:RSC**\n**hh:hvs:Francois:Vanikoro**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nagu (4851-ngr) = Severely Endangered (80 percent certain, based on the evidence available) (Instead of teaching their children the parents’ languages, Pijin is spoken within the family, and their children acquire it as their first language. [...] Nagu is only spoken in the home, but it is not the exclusive home language since many households also speak Pijin. [...] Unless there is a change in the current pattern of language transmission, Nagu will no longer be spoken within the next two generations since many children are growing up without learning it or desiring to.) [Boerger et al. 2012](cldf:boerger:naess:etal:12)"
+  }
+}

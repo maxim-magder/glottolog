@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Xanaguía Zapotec",
+    "hid": "ztg",
+    "level": "language",
+    "iso639-3": "ztg",
+    "latitude": "15.9748",
+    "longitude": "-96.1927",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Xanagu%C3%ADa_Zapotec\nhttps://www.wikidata.org/entity/Q8042887"
+  },
+  "sources": {
+    "glottolog": "\n**hh:s:Cordova:SFOZapotec**\n**sil16:23713**\n**sil16:35093**\n**sil16:35945**\n**sil16:35947**\n**sil16:45248**"
+  },
+  "altnames": {
+    "glottolog": "\nXanaguia Zapotec",
+    "multitree": "\nSouthern Sapoteko\nXanaguía Zapotec\nZapotec\nZapotec, Xanaguía\nZapoteco de Asunción Tlacolulita\nZapotèque d'Asunción Tlacolulita",
+    "lexvo": "\nXanaguía Zapotec [en]"
+  },
+  "triggers": {
+    "lgcode": "\nxanaguia"
+  },
+  "identifier": {
+    "multitree": "ztg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Coatlán Zapotec (8794-ztg) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Xingú Asuriní",
+    "hid": "asn",
+    "level": "language",
+    "iso639-3": "asn",
+    "latitude": "-4.13463",
+    "longitude": "-52.321",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Asurini Xingu](https://lexibank.clld.org/languages/gerarditupi-AsuriniXingu)\n[Asuriní of Xingú](https://endangeredlanguages.com/lang/678)\nhttps://en.wikipedia.org/wiki/Xingu_Asurini_language\nhttps://phoible.org/languages/xing1248\nhttps://www.wikidata.org/entity/Q8044571"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Tupi_asurini_do_xingu00**\n**fabreall2009ann:Tupi_asurini_do_xingu01**\n**fabreall2009ann:Tupi_asurini_do_xingu02**\n**fabreall2009ann:Tupi_asurini_do_xingu03**\n**fabreall2009ann:Tupi_asurini_do_xingu05**\n**fabreall2009ann:Tupi_asurini_do_xingu06**\n**fabreall2009ann:Tupi_asurini_do_xingu07**\n**fabreall2009ann:Tupi_asurini_do_xingu08**\n**fabreall2009ann:Tupi_asurini_do_xingu11**\n**fabreall2009ann:Tupi_asurini_do_xingu13**\n**fabreall2009ann:Tupi_asurini_do_xingu14**\n**fabreall2009ann:Tupi_asurini_do_xingu15**\n**fabreall2009ann:Tupi_asurini_do_xingu16**\n**fabreall2009ann:Tupi_asurini_do_xingu17**\n**fabreall2009ann:Tupi_asurini_do_xingu20**\n**fabreall2009ann:Tupi_asurini_do_xingu23**\n**hh:e:Lukesch:Asurini**\n**hh:e:Muller:Asurini-Xingu**\n**hh:e:Muller:Asurini-Xingu:1990**\n**hh:e:Nimuendaju:LMXingu**\n**hh:g:Pereira:Asurini-Xingu**\n**hh:s:MonserratIrmazinhas:Asurini-Xingu**\n**hh:s:Nicholson:Assurini**\n**hh:s:Nicholson:Asurini**"
+  },
+  "altnames": {
+    "glottolog": "\nXingu Asurini",
+    "multitree": "\nAkwaya\nAssurini\nAssuriní do Xingú\nAsurini\nAsurini do Xingu\nAsuriní\nAsuriní de Koatinema\nAsuriní do Coatinema\nAsuriní do Xingu\nAsuriní do Xingú\nAsuriní du Xingu\nAsuriní, Xingú\nAwaeté\nAwaté\nXingu Asuriní\nXingú",
+    "lexvo": "\nXingú Asuriní [en]",
+    "elcat": "\nAssurinikin\nAsurini do Xingu\nAsuriní de coatinema\nAsuriní do Koatinema\nAsuriní of Xingú\nAwaeté\nXingú Asuriní"
+  },
+  "triggers": {
+    "lgcode": "\nbearded\nassurini\nxingu AND asurini\ntecela\nipiacaba\ntecelas"
+  },
+  "identifier": {
+    "multitree": "asn",
+    "endangeredlanguages": "678"
+  },
+  "classification": {
+    "sub": "**hh:hv:Michael:Tupi-Guarani** **hh:g:Juliao:Anambe**:42-48 **hh:hv:RodriguesCabral:Tupi-Guarani**:333",
+    "subrefs": "\n**hh:hv:Michael:Tupi-Guarani**\n**hh:g:Juliao:Anambe**\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Asuriní of Xingú (678-asn) = Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

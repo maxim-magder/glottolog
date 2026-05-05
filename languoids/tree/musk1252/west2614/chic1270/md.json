@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Chickasaw",
+    "hid": "cic",
+    "level": "language",
+    "iso639-3": "cic",
+    "latitude": "34.0",
+    "longitude": "-88.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Chickasaw](https://endangeredlanguages.com/lang/1686)\n[Chickasaw](https://grambank.clld.org/languages/chic1270)\n[Chickasaw](https://wals.info/languoid/lect/wals_code_cck)\nhttps://en.wikipedia.org/wiki/Chickasaw_language\nhttps://phoible.org/languages/chic1270\nhttps://www.wikidata.org/entity/Q33192"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2229**\n**cldf:anonymous:85:2**\n**cldf:christopherrogers:campbell:10**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:gordon:03**\n**cldf:gordon:04**\n**cldf:gordon:munro:etal:00**\n**cldf:hinton:munro:ed:98:2**\n**cldf:jun:ed:05:2**\n**cldf:kariabchew:22**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:moseley:07**\n**cldf:munro:98**\n**cldf:munro:gordon:82**\n**cldf:munro:gordon:etal:02**\n**cldf:np:nd:264**\n**cldf:okrent:ed:00:5**\n**cldf:shopen:ed:85**\n**cldf:swanton:28:3**\n**cldf:swanton:46**\n**haspelmath:gordon_phonetic_2007**\n**hh:e:BrightmanWallace:Chickasaw**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:ld:Pulte:Chickasaw**\n**hh:s:Munro:Chickasaw**\n**hh:sd:MunroWillmond:Chickasaw**\n**hh:ssoc:Morgan:Chikasha**\n**mpieva:2005Nativela**\n**sil16:18876**\n**sil16:44083**"
+  },
+  "altnames": {
+    "wals": "\nChickasaw",
+    "wals other": "\nChickasaw\nOklahoma",
+    "ruhlen (1987)": "\nChickasaw",
+    "multitree": "\nChicasa\nChickasaw",
+    "lexvo": "\nChickasaw [de]\nChickasaw language [en]\nChikasa simi [qu]\nLengua chickasaw [nap]\nTchikasaweg [br]\nЧикасо [ru]\nசிக்காசோ மொழி [ta]",
+    "hhbib_lgcode": "\nAdult learned Chickasaw",
+    "elcat": "\nChicasa\nChickasaw"
+  },
+  "triggers": {
+    "lgcode": "\nchickasaw"
+  },
+  "identifier": {
+    "wals": "cck",
+    "multitree": "cic",
+    "endangeredlanguages": "1686"
+  },
+  "classification": {
+    "sub": "**hh:hv:Martin-Munro:Proto-Muskogean**",
+    "subrefs": "\n**hh:hv:Martin-Munro:Proto-Muskogean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Chickasaw (1686-cic) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

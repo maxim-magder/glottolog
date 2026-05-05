@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Eastern Cham",
+    "hid": "cjm",
+    "level": "language",
+    "iso639-3": "cjm",
+    "latitude": "11.2853",
+    "longitude": "108.49",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\n[Cham (Eastern)](https://wals.info/languoid/lect/wals_code_cme)\n[Eastern Cham](https://endangeredlanguages.com/lang/4173)\n[Eastern Cham](https://grambank.clld.org/languages/east2563)\nhttps://en.wikipedia.org/wiki/Eastern_Cham_language\nhttps://phoible.org/languages/east2563\nhttps://www.wikidata.org/entity/Q2948019"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alieva:the:99**\n**cldf:brunelle:05**\n**cldf:brunelle:08**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:han:edmondson:etal:91**\n**cldf:isvan:14**\n**cldf:lafont:64**\n**cldf:lewis:ed:09**\n**cldf:malherbe:rosenberg:96**\n**cldf:np:nd:264**\n**hh:d:AymonierCabaton:Cam**\n**hh:d:Inrasara:Viet-Cham**\n**hh:d:Moussay:Cam**\n**hh:d:TruongShine:Cham**\n**hh:g:Moussay:Cam**\n**hh:lde:Durand:Chams**\n**hh:phon:Blood:Cham**\n**hh:phon:Blood:Cham:1967**\n**hh:s:Alieva:Cam**\n**hh:s:Alieva:Cam:1999**\n**hh:s:Aymonier:Chame**\n**hh:s:Brunelle:Eastern-Cham**\n**hh:s:Smith:Eastern-Cham**\n**hh:s:Thurgood:Phan**\n**hh:vw:Morice:Tiams-Stiengs**\n**hh:w:Edwards:Cham**\n**mpieva:Brunelle2005Register**\n**sil16:10274**\n**sil16:10275**\n**sil16:10276**\n**sil16:10278**\n**sil16:10280**\n**sil16:11407**\n**sil16:15052**\n**sil16:15053**\n**sil16:15054**\n**sil16:15055**\n**sil16:15056**\n**sil16:15057**\n**sil16:15058**\n**sil16:15059**\n**sil16:15062**\n**sil16:15063**\n**sil16:15064**\n**sil16:15389**\n**sil16:15390**\n**sil16:15391**\n**sil16:15392**\n**sil16:15393**\n**sil16:15394**\n**sil16:18380**\n**sil16:19841**\n**sil16:21509**\n**sil16:32760**\n**sil16:35853**\n**sil16:47442**\n**sil16:47694**\n**sil16:50542**"
+  },
+  "altnames": {
+    "wals": "\nCham (Eastern)",
+    "moseley & asher (1994)": "\nCham (East)",
+    "multitree": "\nBhamam\nBình Thuân\nCham\nCham (Eastern)\nCham de l'est\nCham, Eastern\nChamo oriental\nChiem\nChiem ThÃ nh\nTjam",
+    "lexvo": "\nEastern Cham [en]",
+    "hhbib_lgcode": "\nCham\nCham in Vietnam\nCham-Eastern\nChams de l'Annam\nChams du Cambodge\nPanrang ou de Parik au Binh Thuân\nTiam",
+    "elcat": "\nBhamam\nBình Thuân\nCham\nCham (Eastern)\nChiem\nChiem ThÃ nh\nEastern Cham\nPhan Rang Cham\nTjam"
+  },
+  "triggers": {
+    "lgcode": "\ncham\nlimo\nchame\ncam\nphonologic\nphan\nbirau"
+  },
+  "identifier": {
+    "wals": "cme",
+    "multitree": "cjm",
+    "endangeredlanguages": "4173"
+  },
+  "classification": {
+    "sub": "**hh:hv:Brunelle:Chamic:2024**",
+    "subrefs": "\n**hh:hv:Brunelle:Chamic:2024**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern Cham (4173-cjm) = Vulnerable (100 percent certain, based on the evidence available) (Although Eastern Cham communities are increasingly being integrated into the Vietnamese polity, the Cham language, local traditions, and religions (syncretic Hinduism, syncretic Islam, and Sunni Islam) are well preserved.) [Brunelle 2008](cldf:brunelle:08)"
+  }
+}

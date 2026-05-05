@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Brunca Sign Language",
+    "hid": "rnb",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CR"
+    ],
+    "longitude": "-84.821363",
+    "latitude": "9.978549",
+    "links": "\n[Brunca Sign Language](https://endangeredlanguages.com/lang/7177)\nhttps://en.wikipedia.org/wiki/Brunca_Sign_Language\nhttps://www.wikidata.org/entity/Q4978850",
+    "iso639-3": "rnb"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:np:12:5**\n**cldf:woodward:12**\n**hh:hvsoc:Woodward:Sign-Costa-Rica**\n**iso6393:2021-033**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Brunca Sign Language (7177) = Endangered (20 percent certain, based on the evidence available) [Woodward 2012](cldf:woodward:12)"
+  },
+  "altnames": {
+    "elcat": "\nBrunca Sign Language"
+  },
+  "identifier": {
+    "endangeredlanguages": "7177"
+  },
+  "classification": {
+    "sub": "Lexical comparison in **hh:hvsoc:Woodward:Sign-Costa-Rica(**).",
+    "subrefs": "\n**hh:hvsoc:Woodward:Sign-Costa-Rica**"
+  }
+}

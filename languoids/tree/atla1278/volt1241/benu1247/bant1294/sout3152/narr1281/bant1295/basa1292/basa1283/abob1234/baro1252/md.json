@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Barombi",
+    "hid": "bbi",
+    "level": "language",
+    "iso639-3": "bbi",
+    "latitude": "4.64584",
+    "longitude": "9.25261",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Barombi](https://endangeredlanguages.com/lang/3792)\nhttps://www.wikidata.org/entity/Q34985\nhttps://en.wikipedia.org/wiki/Rombi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:atindogbe:05**\n**cldf:johnston:19:22**\n**cldf:lamberty:02**\n**cldf:lewis:ed:09**\n**eballiso2009:37064**\n**eballiso2009:41799**\n**eballiso2009:45252**\n**hh:h:Valdau:Kamerun**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:s:Atindogbe:Barombi**\n**hh:typ:Atindogbe:Directional-Bantu-A**\n**hh:typ:Atindogbe:Lombe**\n**hh:wsoc:Lamberty:Abo-Barombi**"
+  },
+  "altnames": {
+    "multitree": "\nBalombi\nBarombi\nBarumbi\nLambi\nLombe\nLombi\nRambi\nRombi",
+    "lexvo": "\nBankon [de]\nBarombi [en]\nNkon [fr]\nRombi language [en]",
+    "hhbib_lgcode": "\nA41_Barombi-Kang\nBalombi\nLombe",
+    "elcat": "\nBalombi\nBarombi\nBarumbi\nLambi\nLombe\nLombi\nRambi\nRombi"
+  },
+  "triggers": {
+    "lgcode": "\nbarombi\nskildringar"
+  },
+  "identifier": {
+    "multitree": "bbi",
+    "endangeredlanguages": "3792"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Lamberty:Abo-Barombi**",
+    "subrefs": "\n**hh:wsoc:Lamberty:Abo-Barombi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Barombi (3792-bbi) = Threatened (20 percent certain, based on the evidence available) [Atindogbe 2005](cldf:atindogbe:05)"
+  }
+}

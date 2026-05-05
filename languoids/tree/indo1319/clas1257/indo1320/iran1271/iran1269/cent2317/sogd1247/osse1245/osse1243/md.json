@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Modern Ossetic",
+    "level": "family",
+    "latitude": "42.98",
+    "longitude": "44.61",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "GE",
+      "RU",
+      "TR"
+    ],
+    "links": "\n[Ossetian](https://lexibank.clld.org/languages/northeuralex-oss)\n[Ossetic](https://wals.info/languoid/lect/wals_code_oss)\nhttps://phoible.org/languages/osse1243"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abaev:64**\n**cldf:berg:ed:99:10**\n**cldf:haspelmath:97**\n**cldf:isaev:66**\n**cldf:isaev:87**\n**cldf:malherbe:rosenberg:96**\n**haspelmath:erschler_possession_2013**"
+  },
+  "altnames": {
+    "wals": "\nOssetic",
+    "ruhlen (1987)": "\nOssetic",
+    "moseley & asher (1994)": "\nOssetic",
+    "multitree": "\nOsetin\nOssete\nOssetian\nOssetic\nOssète\nOsético",
+    "lexvo": "\nBahasa Ossetia [id]\nIdioma osetio [es]\nJęzyk osetyjski [pl]\nLengua osseta [lij]\nLingua osseta [it]\nLíngua osseta [pt]\nOiséitis [ga]\nOset tili [crh]\nOseta lingvo [eo]\nOseteg [br]\nOsetinščina [sl]\nOsetinų kalba [lt]\nOsetišćina [hsb]\nOsetki [diq]\nOsetçe [tr]\nOsetčina [sk]\nOsseetin kieli [fi]\nOsseta [ca]\nOssetian [en]\nOssetic [en]\nOssetic language [en]\nOssetisch [nl]\nOssetische Sprache [de]\nOssetish [gv]\nOssetisk [da]\nOssetiska [sv]\nOssetiskt mál [fo]\nOssète [fr]\nOszét nyelv [hu]\nPinulongang Osetyo [ceb]\nUsit simi [qu]\nZimanê osetî [ku]\nossète [fr]\nАсяцінская мова [be]\nИрон æвзаг [os]\nОсет теле [ba]\nОсетински език [bg]\nОсетински језик [sr]\nОсетинский язык [ru]\nОсетинська мова [uk]\nՕսերեն [hy]\nاوسيتى [arz]\nزبان آسی [fa]\nلغة أوسيتية [ar]\nঅসেটীয় ভাষা [bn]\nஒசேத்திய மொழி [ta]\nภาษาออสเซติก [th]\nოსური ენა [ka]\nኢሮንኛ [am]\nオセット語 [ja]\n奧塞梯語 [zh]\n오세트어 [ko]",
+    "hhbib_lgcode": "\nDigor Ossetic\nDigoron\nIron\nJassic\nOsetin\nOssetic\nYassic\ndialect of Digor Ossetic",
+    "glottolog": "\nOssetian"
+  },
+  "triggers": {
+    "lgcode": "\nsuanische\nossete\nossetische\nlossete\nosetinskij\nossetian\nyazov\nossetic\nosetinskogo\nosetinsko\nossetischen"
+  },
+  "identifier": {
+    "wals": "oss",
+    "multitree": "oss"
+  },
+  "classification": {
+    "sub": "**hh:s:Erschler:Ossetic**",
+    "subrefs": "\n**hh:s:Erschler:Ossetic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Ossete (1066-oss) = Vulnerable"
+  }
+}

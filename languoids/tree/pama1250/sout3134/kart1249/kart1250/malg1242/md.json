@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Malgana",
+    "hid": "vml",
+    "level": "language",
+    "iso639-3": "vml",
+    "latitude": "-26.211",
+    "longitude": "114.245",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Malgana](https://collection.aiatsis.gov.au/austlang/language/w18)\n[Malgana](https://lexibank.clld.org/languages/bowernpny-Malgana)\n[Malkana](https://endangeredlanguages.com/lang/6672)\nhttps://en.wikipedia.org/wiki/Malgana_language\nhttps://phoible.org/languages/malg1242\nhttps://www.wikidata.org/entity/Q6743201",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:thieberger:96**\n**hh:h:Brandenstein:Pilbara**\n**hh:hb:Thieberger:WAustralian**\n**hh:s:Gargett:Malgana**\n**hh:w:Barlee:Majanna**\n**ozbib:1986**\n**ozbib:3601**\n**ozbib:4730**\n**ozbib:5628**\n**ozbib:652**"
+  },
+  "altnames": {
+    "multitree": "\nMajanna\nMaldjana\nMalgana\nMaljanna\nMalkana\nMalyana",
+    "lexvo": "\nMalgana [en]\nMalgana language [en]",
+    "hhbib_lgcode": "\nMalkana",
+    "elcat": "\nMajanna\nMaldjana\nMalgana\nMaljanna\nMalkana\nMalyana",
+    "aiatsis": "\nBuluguda\nDaguda\nDamala\nMadjana\nMajanna\nMaldjana\nMalgana\nMalkana\nMalyana\nMarlgana\nTamala"
+  },
+  "triggers": {
+    "lgcode": "\nsharks\nmalgana\nshark\nmajanna"
+  },
+  "identifier": {
+    "multitree": "vml",
+    "endangeredlanguages": "6672"
+  },
+  "classification": {
+    "sub": "**hh:hv:Austin:Gascoyne-Ashburton** **hh:hv:Austin:SPilbara**",
+    "subrefs": "\n**hh:hv:Austin:Gascoyne-Ashburton**\n**hh:hv:Austin:SPilbara**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Malkana (6672-vml) = Dormant [Bowern 2011](cldf:bowern:11:1)"
+  }
+}

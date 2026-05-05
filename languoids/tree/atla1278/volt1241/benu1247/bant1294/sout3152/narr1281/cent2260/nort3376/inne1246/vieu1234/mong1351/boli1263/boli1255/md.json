@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bolia",
+    "hid": "bli",
+    "level": "language",
+    "iso639-3": "bli",
+    "latitude": "-1.38362",
+    "longitude": "18.09748",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34910\nhttps://en.wikipedia.org/wiki/Lia-Ntomba_language\n[Bolia](https://wals.info/languoid/lect/wals_code_bol)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mamet:60**\n**eballiso2009:10301**\n**eballiso2009:2496**\n**eballiso2009:28707**\n**eballiso2009:4218**\n**eballiso2009:42506**\n**eballiso2009:47391**\n**eballiso2009:57364**\n**eballiso2009:59236**\n**hh:g:Mamet:Bolia**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:h:Sulzmann:Baboma**\n**hh:he:MaesBoone:Congo-Belge**\n**hh:he:Matangila:Bandundu**\n**hh:he:Tshonda:Maindombe**\n**hh:hv:Bastinetal:Bantu**\n**hh:s:Bolombala:Lolia**\n**hh:typ:Booto:Bolia**\n**hh:typ:Leitch:Vowel-Congo-Basin**\n**hh:typ:Mpongo:Bolia**\n**hh:typ:Spaandonck:Vijf-Bantoetalen**\n**hh:v:Wolf:Bolia-Ntomba**\n**hh:w:Detienne:Maindombe**\n**hh:w:Maselli:Lotwa**"
+  },
+  "altnames": {
+    "wals": "\nBolia",
+    "ruhlen (1987)": "\nBolia",
+    "moseley & asher (1994)": "\nNtomba",
+    "multitree": "\nBokoki\nBolia\nBulia",
+    "lexvo": "\nBolia [en]",
+    "hhbib_lgcode": "\nBolia 1 Bandundu C35Bo1\nBolia 2 Nsao C35Bo2\nLolia\nLotwa Lolia"
+  },
+  "triggers": {
+    "lgcode": "\nNOT zaire AND bolia"
+  },
+  "identifier": {
+    "wals": "bol",
+    "multitree": "bli"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Bassin-Congolais**:27-28 **hh:hv:Bastinetal:Bantu**:206",
+    "subrefs": "\n**hh:hv:Mangulu:Bassin-Congolais**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bolia (bli-bli) = 6a (Vigorous)."
+  }
+}

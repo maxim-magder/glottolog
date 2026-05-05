@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bwela",
+    "hid": "bwl",
+    "level": "language",
+    "iso639-3": "bwl",
+    "latitude": "3.22",
+    "longitude": "19.28",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Bwele](https://wals.info/languoid/lect/wals_code_dok)\nhttps://en.wikipedia.org/wiki/Bwela_language\nhttps://www.wikidata.org/entity/Q5003678"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:twilingiyima:84**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:51530**\n**hh:e:Wijnant:Doko**\n**hh:h:Vanhouteghem:Lisala**\n**hh:he:MaesBoone:Congo-Belge**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Donzo:Congo-Ubangi:Afrika-Focus**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mangulu:Ngiri**\n**hh:hvw:Donzo:Congo-Ubangi**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:s:Hulstaert:Doko**\n**hh:s:Twilingiyimana:Doko**\n**hh:typ:Donzo:Ebwela**"
+  },
+  "altnames": {
+    "multitree": "\nBuela\nBwela\nLingi",
+    "lexvo": "\nBwela [en]",
+    "hhbib_lgcode": "\nBwela or Mamoi\nBwela-Abuja\nC42_Ebwela\nDoko\nDoko C40D from Twilingiyimana seems to be Bwela not Ngombe-Doko\nDoko de la région de Lisala\nDoko seems to be Bwela not Ngombe-Doko\nEbwela\nLidoko-Bwela"
+  },
+  "triggers": {
+    "lgcode": "\nlikangala"
+  },
+  "identifier": {
+    "multitree": "bwl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:177-184 **hh:hv:Bastinetal:Bantu**:207",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bwela (bwl-bwl) = 6a* (Vigorous)."
+  }
+}

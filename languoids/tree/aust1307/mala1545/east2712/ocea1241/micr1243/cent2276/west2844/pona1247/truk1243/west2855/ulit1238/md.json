@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ulithian",
+    "hid": "uli",
+    "level": "language",
+    "iso639-3": "uli",
+    "latitude": "9.961388",
+    "longitude": "139.603611",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Ulithian](https://endangeredlanguages.com/lang/3428)\n[Ulithian](https://grambank.clld.org/languages/ulit1238)\n[Ulithian](https://lexibank.clld.org/languages/abvdoceanic-Ulithian)\n[Ulithian](https://wals.info/languoid/lect/wals_code_uli)\nhttps://en.wikipedia.org/wiki/Ulithian_language\nhttps://www.wikidata.org/entity/Q36842"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4479**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:ed:10**\n**cldf:hancock:durand:etal:07**\n**cldf:keesing:84:2**\n**cldf:lessa:50**\n**cldf:lessa:66**\n**cldf:lessa:91**\n**cldf:lewis:ed:09**\n**cldf:lynch:98**\n**cldf:lynch:ross:etal:ed:02:29**\n**cldf:michio:kazutaka:etal:03**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:walsh:harui-walsh:79**\n**hh:d:MellenHancock:Ulithian**\n**hh:d:MellenUwel:Ulithian**\n**hh:g:Sohn:Ulithian**\n**hh:g:SohnBender:Ulithian**\n**hh:hvw:Jackson:Trukic**\n**hh:hvw:Quackenbush:Sonsorol-Truk**\n**hh:s:Lynch:Ulithian**\n**hh:s:Quackenbush:Ulithi**\n**hh:w:Pleyte:Ulia**\n**hh:w:Ray:Ulia**\n**hh:wtyp:Elbert:Ulithi**\n**ldh:item_407247**\n**mpieva:Jackson1984Theinter**\n**mpieva:Sohn1980AUlithia**\n**mpieva:SohnAnoutlin**"
+  },
+  "altnames": {
+    "wals": "\nUlithian",
+    "ruhlen (1987)": "\nUlithian",
+    "moseley & asher (1994)": "\nUlithian",
+    "multitree": "\nUlithi\nUlithian\nUlitiano",
+    "lexvo": "\nUlithian [en]\nUlithian language [en]\nUlithiano [it]\nUlithische Sprache [de]\nUlitų kalba [lt]",
+    "hhbib_lgcode": "\nUlia\nUlithi",
+    "elcat": "\nUlithian"
+  },
+  "triggers": {
+    "lgcode": "\nulithian\n006"
+  },
+  "identifier": {
+    "wals": "uli",
+    "multitree": "uli",
+    "endangeredlanguages": "3428"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jackson:Trukic**",
+    "subrefs": "\n**hh:hvw:Jackson:Trukic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ulithian (3428-uli) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

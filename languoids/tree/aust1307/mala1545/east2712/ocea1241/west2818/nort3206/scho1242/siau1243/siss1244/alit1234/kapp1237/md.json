@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kap",
+    "hid": "ykm",
+    "level": "language",
+    "iso639-3": "ykm",
+    "latitude": "-3.28761",
+    "longitude": "142.659",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ali](https://lexibank.clld.org/languages/abvdoceanic-Ali)\n[Kap](https://endangeredlanguages.com/lang/10522)\nhttps://en.wikipedia.org/wiki/Yakamul_language\nhttps://www.wikidata.org/entity/Q8047048"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Klaffl:Ali**\n**hh:et:Meyer:Ali**\n**hh:he:Holtker:Neuguinea**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Capell:Austronesian:NG**\n**hh:hvw:Laycock:AustronesianSepik**\n**hh:hvw:Ray:NPapua**\n**hh:hw:KlafflVormann:Berlinhafen**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:t:Blaes:Berlinhafen**\n**hh:t:BlaesHoltker:Ali**\n**hh:w:Erdweg:Varopu**\n**hh:w:Laycock:D2**\n**hh:w:Laycock:D8**\n**iso6393:2008-045**"
+  },
+  "altnames": {
+    "multitree": "\nAli\nKap\nYakamul",
+    "lexvo": "\nKap [en]",
+    "hhbib_lgcode": "\nAli\nAli of Laycock ms\nAli-Yakamul\nJakamul-dialect of Ali\nJamir\nJamir-Sauvein-Saliu\nPaup\nSaliu\nSalíu\nSeleo\nYakamul\nYamir",
+    "elcat": "\nAli\nKap\nYakamul"
+  },
+  "triggers": {
+    "lgcode": "\nsonnenverehrung\nmissionsanfange\nsingspiele\ngeburt\nkindes\nwunekau"
+  },
+  "identifier": {
+    "multitree": "ykm",
+    "endangeredlanguages": "10522"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:120-132",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kap (10522-ykm) = Threatened (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

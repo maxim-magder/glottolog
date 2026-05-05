@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Waiwai",
+    "hid": "waw",
+    "level": "language",
+    "iso639-3": "waw",
+    "latitude": "1.50881",
+    "longitude": "-59.1417",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "GY"
+    ],
+    "links": "\n[Wai Wai](https://wals.info/languoid/lect/wals_code_wai)\n[Waiwai](https://endangeredlanguages.com/lang/1519)\n[Waiwai](https://grambank.clld.org/languages/waiw1244)\nhttps://en.wikipedia.org/wiki/Waiwai_language\nhttps://phoible.org/languages/waiw1244\nhttps://www.wikidata.org/entity/Q56632"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:hawkins:62**\n**cldf:hawkins:91**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**fabreall2009ann:6394**\n**fabreall2009ann:Caribe_waiwai00**\n**fabreall2009ann:Caribe_waiwai01**\n**fabreall2009ann:Caribe_waiwai04**\n**fabreall2009ann:Caribe_waiwai05**\n**fabreall2009ann:Caribe_waiwai06**\n**fabreall2009ann:Caribe_waiwai07**\n**fabreall2009ann:Caribe_waiwai08**\n**fabreall2009ann:Caribe_waiwai09**\n**fabreall2009ann:Caribe_waiwai11**\n**fabreall2009ann:Caribe_waiwai13**\n**fabreall2009ann:Caribe_waiwai15**\n**fabreall2009ann:Caribe_waiwai16**\n**fabreall2009ann:Caribe_waiwai17**\n**fabreall2009ann:Caribe_waiwai18**\n**fabreall2009ann:Caribe_waiwai19**\n**fabreall2009ann:Caribe_waiwai20**\n**fabreall2009ann:Caribe_waiwai23**\n**fabreall2009ann:Caribe_waiwai24**\n**fabreall2009ann:Caribe_waiwai25**\n**fabreall2009ann:Caribe_waiwai26**\n**fabreall2009ann:Caribe_waiwai27**\n**fabreall2009ann:Caribe_waiwai28**\n**fabreall2009ann:Caribe_waiwai29**\n**fabreall2009ann:Caribe_waiwai30**\n**fabreall2009ann:Caribe_waiwai31**\n**hh:d:Hawkins:Uaiuai**\n**hh:d:Vitorino:Wai-Wai**\n**hh:e:Campbell:Waiwai**\n**hh:e:EvansMeggers:Wai-Wai**\n**hh:e:Fock:Waiwai**\n**hh:e:Mentore:Waiwai**\n**hh:e:Yde:Waiwai**\n**hh:g:Hawkins:WaiWai**\n**hh:h:Carlin:Cariban-Suriname**\n**hh:he:Roth:Guiana**\n**hh:hewsoc:Howard:Waiwai**\n**hh:hv:Frikel:Nord-Para**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Martius:Brasiliens**\n**hh:hw:Schomburgk:Eighteen-Guiana**\n**hh:hw:Schomburgk:Eighteen-Guiana:1848**\n**hh:soc:Cancio:Wai-Wai-Escola**\n**hh:typ:Hawkins:Uaiuai**\n**hh:typ:Smoll:Tunayana-Ideophones**\n**hh:typ:Smoll:Tunayana-Ideophones:2014**\n**hh:w:Coudreau:Vocabulaires-Indigenes**\n**hh:w:Hurley:Trombetas-Cachorro-Jacycuru**"
+  },
+  "altnames": {
+    "wals": "\nWai Wai",
+    "ruhlen (1987)": "\nWaiwai",
+    "moseley & asher (1994)": "\nWaiwai",
+    "multitree": "\nKatawiana\nOuayeone\nParukota\nParukotó\nTunayana\nTunayana (Guyane)\nUai Uai\nUaieue\nUaiuai\nWabui\nWai Wai\nWaiwai\nWaiwai (Brésil)\nWaiwai (Surinam)\nWaiwai (Suriname)",
+    "lexvo": "\nWaiwai [en]",
+    "hhbib_lgcode": "\nKatuena\nOuayeoué\nParukotó-Charúma\nTunayana\nWoyawai",
+    "elcat": "\nKatawiana\nOuayeone\nParukota\nParukotó\nUai Uai\nUaieue\nUaiuai\nWabui\nWai Wai\nWaiwai"
+  },
+  "triggers": {
+    "lgcode": "\nuaiuai\nilusorio\nwaiwai\newka\nsubstantivo\njacycury\ncentes"
+  },
+  "identifier": {
+    "wals": "wai",
+    "multitree": "waw;waiw",
+    "endangeredlanguages": "1519"
+  },
+  "classification": {
+    "sub": "**hh:hv:Meira:Cariban:2006**, **hh:hewsoc:Howard:Waiwai**, **hh:hv:Gildea:Cariban**",
+    "subrefs": "\n**hh:hv:Meira:Cariban:2006**\n**hh:hewsoc:Howard:Waiwai**\n**hh:hv:Gildea:Cariban**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Waiwai (1519-waw) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

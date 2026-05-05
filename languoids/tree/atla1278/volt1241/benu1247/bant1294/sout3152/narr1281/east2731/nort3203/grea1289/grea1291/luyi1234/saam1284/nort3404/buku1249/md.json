@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bukusu",
+    "hid": "bxk",
+    "level": "language",
+    "iso639-3": "bxk",
+    "latitude": "0.68043",
+    "longitude": "34.7719",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "UG"
+    ],
+    "links": "\n[Bukusu](https://grambank.clld.org/languages/buku1249)\n[Bukusu](https://wals.info/languoid/lect/wals_code_buk)\n[Bukusu E.31c](https://lexibank.clld.org/languages/bantubvd-2)\nhttps://en.wikipedia.org/wiki/Bukusu_dialect\nhttps://phoible.org/languages/buku1249\nhttps://www.wikidata.org/entity/Q32930"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:austen:74**\n**cldf:wagner:39**\n**cldf:wagner:40**\n**cldf:wagner:49**\n**eballiso2009:10630**\n**eballiso2009:11491**\n**eballiso2009:22342**\n**eballiso2009:22343**\n**eballiso2009:22345**\n**eballiso2009:22346**\n**eballiso2009:27016**\n**eballiso2009:27046**\n**eballiso2009:27047**\n**eballiso2009:28707**\n**eballiso2009:3032**\n**eballiso2009:3033**\n**eballiso2009:3035**\n**eballiso2009:30492**\n**eballiso2009:33914**\n**eballiso2009:38746**\n**eballiso2009:38760**\n**eballiso2009:38781**\n**eballiso2009:42506**\n**eballiso2009:43096**\n**eballiso2009:46516**\n**eballiso2009:47735**\n**eballiso2009:48285**\n**eballiso2009:49771**\n**eballiso2009:49773**\n**eballiso2009:49775**\n**eballiso2009:52240**\n**eballiso2009:52458**\n**eballiso2009:9954**\n**hh:d:Marlo:Lubukusu**\n**hh:e:Stam:Bantu-Kavirondo**\n**hh:e:WagnerMair:Vugusu-Logoli**\n**hh:g:Austen:Bukusu**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Hinnebuschetal:EBantu**\n**hh:hv:Kisembe:Luyia**\n**hh:hv:Mould:Greater-Luyia**\n**hh:hvtyp:Kanyoro:Abaluyia**\n**hh:hvtyp:Philippson:OBantu:Tons**\n**hh:hvw:Mould:NVictorian-Bantu**\n**hh:s:Diercks:Lubukusu**\n**hh:s:Mutonyi:Bukusu**\n**hh:typ:Johnson:Lubukusu**\n**iso6393:2007-157**\n**mpieva:1995Bukusuta**\n**mpieva:Blois1975Bukusuge**\n**mpieva:Mutonyi2000Aspectso**\n**mpieva:Wolf2005Bukusust**"
+  },
+  "altnames": {
+    "wals": "\nBukusu",
+    "ruhlen (1987)": "\nBukusu",
+    "multitree": "\nBukusu\nLubukusu",
+    "lexvo": "\nBoukousoueg [br]\nBukusu [en]\nBukusu language [en]\nLubukusu [en]\nLugha ya Bukusu [sw]",
+    "hhbib_lgcode": "\nBUK\nBabukusu\nBukusu J31C\nJE31c_Bukusu\nVugusu"
+  },
+  "triggers": {
+    "lgcode": "\nsyan\ntachoni\nluiya\nvugusu\norusyan\nshouting\nbukusu\nlubukusu"
+  },
+  "identifier": {
+    "wals": "buk",
+    "multitree": "bxk"
+  },
+  "classification": {
+    "sub": "**hh:phon:Brown:Lumasaaba:1971**:182-251 **hh:g:Austen:Bukusu**:1-33",
+    "subrefs": "\n**hh:g:Austen:Bukusu**\n**hh:phon:Brown:Lumasaaba:1971**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bukusu (bxk-bxk) = 4 (Educational)."
+  }
+}

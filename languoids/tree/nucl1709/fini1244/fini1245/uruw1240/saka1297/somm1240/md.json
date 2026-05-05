@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Som",
+    "hid": "smc",
+    "level": "language",
+    "iso639-3": "smc",
+    "latitude": "-6.07366",
+    "longitude": "146.651",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Som](https://endangeredlanguages.com/lang/2686)\n[Som](https://lexibank.clld.org/languages/transnewguineaorg-som)\nhttps://en.wikipedia.org/wiki/Som_language\nhttps://www.wikidata.org/entity/Q7559081"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hld:Smith:Morobe**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hv:Ross:Voorhoeve**\n**hh:typ:Guerin:Tayatuk**\n**iso6393:2011-045**"
+  },
+  "altnames": {
+    "multitree": "\nSom",
+    "lexvo": "\nSom [en]",
+    "hhbib_lgcode": "\nTayatuk",
+    "elcat": "\nSom\nSomm"
+  },
+  "identifier": {
+    "multitree": "smc",
+    "endangeredlanguages": "2686"
+  },
+  "classification": {
+    "sub": "**hh:g:McElhanon:Selepet-Finisterre-Huon**:44",
+    "subrefs": "\n**hh:g:McElhanon:Selepet-Finisterre-Huon**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Som (2686-smc) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

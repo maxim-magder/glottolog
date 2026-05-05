@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tlaxcala-Puebla-Central Nahuatl",
+    "hid": "nhn",
+    "level": "language",
+    "iso639-3": "nhn",
+    "latitude": "19.1248",
+    "longitude": "-98.3002",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Nahuatl (Central)](https://wals.info/languoid/lect/wals_code_nhc)\nhttps://en.wikipedia.org/wiki/Tlaxcala%E2%80%93Puebla_Nahuatl\nhttps://www.wikidata.org/entity/Q6047309"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:karttunen:01**\n**cldf:nutini:62**\n**cldf:nutini:65**\n**haspelmath:rosales_nahuatl_2008**\n**hh:essoc:HillHill:Mexicano**\n**hh:g:Najera:Tlaxcala-Nahuatl**\n**hh:hb:ThomasSwanton:Mexico**\n**hh:hvw:Hertle:Puebla-Tlaxcala**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:hvw:Pimentel:Mexico:1874-1875**\n**hh:hw:Squier:Nicaragua-Ethnology**\n**hh:hwdial:LastraHorcasitas:NahuatlOriente**\n**hh:ld:Morales:Tlaxcaltecas**\n**hh:phon:Foster:Tetzcocan-Nahuatl**\n**hh:s:Casanova:Mexicano-Teotihuacan**\n**hh:s:Foster:Chiconcuac**\n**hh:s:Hasler:Nahuatl-Moderno**\n**hh:s:LastraHorcasitas:Nahuatl-Tlaxcala**\n**hh:soc:Nava:Buensuceso**\n**hh:ssoc:Vicente:Nahuatl-Puebla**\n**hh:std:Lastra:Nahuatl-Tetzcoco**\n**hh:typ:Najera:Tlaxcala-Nahuatl**\n**hh:w:Bright:Nahuatl-Tlaxcala**\n**ldh:item_404530**\n**mpieva:Carochi1645Artedela**\n**sil16:21379**"
+  },
+  "altnames": {
+    "wals": "\nNahuatl (Central)",
+    "wals other": "\nCentral Aztec\nTlaxcala-Puebla Náhuatl",
+    "ruhlen (1987)": "\nNawa",
+    "moseley & asher (1994)": "\nNahuatl",
+    "multitree": "\nCentral Aztec\nCentral Nahuatl\nCentral Nawa\nMexicano\nNahua central\nNahuatl\nNahuatl (Central)\nNahuatl, Central\nNáhuatl central\nNáhuatl del Centro\nTlaxcala-Puebla Nahuatl",
+    "lexvo": "\nCentral Nahuatl [en]",
+    "hhbib_lgcode": "\nDialectos del Mexicano (Niquiran)\nMalinche volcano in the puebla-tlaxcala area Nahuatl\nNahuatl-Central\nNicaraguan Nahuatl\nNiquiran\nNáhuatl de Tetzcoco\nPedagogical focusing on Central dialects but proposing some sort of standard or koine and including some dialectal comparison\nSF Mazapan and SM de las Piramides 19.6 and 98.90 does not match but is\nSan Miguel Canoa\nSan Miguel Canoa-La Resurección-San Andrés Azumiatla\nSan Miguel Chiconcuac located on the valley floor in the State of Mexico five miles north of Texcoco\nSan Pedro Tlacuapan-Tlaxcala\nSanta Catarina del Monte-Tetzcoco\nSanta Maria Tecuanulco-Tetzcoco\nTetzcocan Nahuatl\nTetzoco\nTlaxcala\nTlaxcala: San Pedro Tlalcuapan-Santa Ana Chiautempan\nTlaxcalancingo/San Andres Cholula\nclosest to Tlaxcala-Puebla-Central Nahuatl"
+  },
+  "triggers": {
+    "lgcode": "\nbuensuceso\ntetzcoco\nantipasiva\nvoz\nchiconcuac\nteotihuacan\nisidro\nadverbios"
+  },
+  "identifier": {
+    "wals": "nhc",
+    "multitree": "nhn"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lastra:Nahuatl-Moderno** **hh:hv:Lastra:Sur-Puebla**:388-389 **hh:dial:Hvilshoj:Nahuatl-Pastores**",
+    "subrefs": "\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:hv:Lastra:Sur-Puebla**\n**hh:dial:Hvilshoj:Nahuatl-Pastores**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Central Náhuatl (1503-nhn, nch, ncx) = Vulnerable"
+  }
+}

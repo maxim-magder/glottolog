@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Tinani",
+    "hid": "lbf",
+    "level": "language",
+    "iso639-3": "lbf",
+    "latitude": "32.2852",
+    "longitude": "77.9912",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Tinani](https://endangeredlanguages.com/lang/4483)\nhttps://www.wikidata.org/entity/Q784502\nhttps://en.wikipedia.org/wiki/Tinani_language\n[Tinani](https://wals.info/languoid/lect/wals_code_tni)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:sharma:89:3**\n**hh:hld:Tobdan:Himacal-Prades**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**\n**hh:hv:Widmer:Western-Himalayas**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Widmer:West-Himalayish**\n**hh:hvwsoc:Chamberlain:Lahul**\n**hh:s:Sharma:Tinani**\n**hh:sd:QuTan:Ali-Zang**\n**hh:typ:Francke:Bunan-Manchad-Tinan**\n**hh:typ:Singh:Lahauli**"
+  },
+  "altnames": {
+    "wals": "\nTinani",
+    "wals other": "\nRangloi",
+    "ruhlen (1987)": "\nLahuli",
+    "moseley & asher (1994)": "\nRangloi",
+    "multitree": "\nBhotia of Lahul\nBhōṭiā of Lahul\nGondhla\nGondla\nGōndlā\nLahauli\nLahouli\nLahul\nLahuli\nLahuli Tinan\nLāhulī\nRangloi\nRanglōī\nRangōi\nTeenan\nTinan\nTinan Lahuli\nTinani",
+    "lexvo": "\nTinani [en]",
+    "hhbib_lgcode": "\nAli Zang\nProbably Tinani\nRangloi-Gondli-Tinan\nTinan\nTinani-Gondhla\nTinani-Sissu",
+    "elcat": "\nGondhla\nGondla\nLahauli\nLahouli\nLahuli\nRangloi\nTeenan\nTinan Lahuli\nTinani"
+  },
+  "triggers": {
+    "lgcode": "\nlahauli"
+  },
+  "identifier": {
+    "wals": "tni",
+    "multitree": "lbf",
+    "endangeredlanguages": "4483"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Widmer:West-Himalayish** **hh:hv:Widmer:Western-Himalayas:2022**",
+    "subrefs": "\n**hh:hv:Widmer:Western-Himalayas:2022**\n**hh:hvw:Widmer:West-Himalayish**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tinani (4483-lbf) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ngamo",
+    "hid": "nbh",
+    "level": "language",
+    "iso639-3": "nbh",
+    "latitude": "12.0048",
+    "longitude": "11.2108",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ngamo](https://endangeredlanguages.com/lang/6352)\n[Ngamo](https://lexibank.clld.org/languages/kraftchadic-Ngamo)\nhttps://en.wikipedia.org/wiki/Ngamo_language\nhttps://www.wikidata.org/entity/Q3438705"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:grubric:zimmermann:11**\n**cldf:lewis:ed:09**\n**cldf:schuh:05:1**\n**eballiso2009:32765**\n**eballiso2009:50920**\n**eballiso2009:50928**\n**hh:d:Schuh:Ngamo**\n**hh:h:Schuh:Potiskum**\n**hh:h:Temple:NNigeria**\n**hh:hew:Meek:Tribal:II**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:I**\n**hh:s:Ibriszimow:Ngamo**\n**hh:typ:Grubic:Ngamo**\n**hh:typ:GrubicZimmermann:Ngamo**\n**hh:w:Newman:Maha**"
+  },
+  "altnames": {
+    "multitree": "\nGamawa\nGamo\nNgamawa\nNgamo",
+    "lexvo": "\nNgamo [en]\nNgamo language [en]",
+    "hhbib_lgcode": "\nGamawa\nGudi Ngamo\nNgamo-Gudi",
+    "elcat": "\nGamawa\nGamo\nNgamawa\nNgamo"
+  },
+  "triggers": {
+    "lgcode": "\nngamo\npotiskum"
+  },
+  "identifier": {
+    "multitree": "nbh",
+    "endangeredlanguages": "6352"
+  },
+  "classification": {
+    "sub": "**hh:h:Schuh:Bole-Tangale:Introduction**",
+    "subrefs": "\n**hh:h:Schuh:Bole-Tangale:Introduction**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ngamo (6352-nbh) = Vulnerable (20 percent certain, based on the evidence available) [Grubric and Zimmermann 2011](cldf:grubric:zimmermann:11)"
+  }
+}

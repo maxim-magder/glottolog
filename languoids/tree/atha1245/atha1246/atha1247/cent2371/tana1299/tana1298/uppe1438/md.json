@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Upper Kuskokwim",
+    "hid": "kuu",
+    "level": "language",
+    "iso639-3": "kuu",
+    "latitude": "62.2976",
+    "longitude": "-155.951",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Upper Kuskokwim](https://endangeredlanguages.com/lang/1167)\nhttps://www.wikidata.org/entity/Q28062\nhttps://en.wikipedia.org/wiki/Upper_Kuskokwim_language\n[Upper Kuskokwim](https://wals.info/languoid/lect/wals_code_uku)"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC6276**\n**anla:ANLC6277**\n**anla:ANLC6278**\n**anla:CA961K1977c**\n**anla:CA965L1976b**\n**anla:CA973K1978c**\n**anla:CA973K1998**\n**anla:CA977An1977**\n**anla:G977K1977**\n**anla:G977K1981**\n**anla:KO898J1916a**\n**anla:KO981P1981**\n**anla:TN981K1998b**\n**anla:UK924P1924**\n**anla:UK950C1950**\n**anla:UK950C1956**\n**anla:UK964C2004**\n**anla:UK977S1977**\n**anla:UK981K1985**\n**anla:UK981K1998**\n**anla:UK997K2001a**\n**anla:UK997K2001b**\n**anla:UK997K2001c**\n**anla:UK997K2001d**\n**anla:UK997K2001e**\n**anla:UK997K2003**\n**anla:UK997K2009**\n**anla:UK997K2010**\n**cldf:center:14**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:CollinsCollins:Upper-Kuskokwim**\n**hh:d:Collinsetal:Upper-Kuskokwim:1966**\n**hh:e:Hosley:Kolchan**\n**hh:ld:Kibrik:Upper-Kuskokwim**\n**hh:typ:Kibrik:Polevaja-Upper-Kuskokwim**\n**hh:typ:Kibrik:Upper-Kuskokwim**\n**sil16:10431**\n**sil16:10432**\n**sil16:23735**\n**sil16:26572**\n**sil16:31406**\n**sil16:31407**\n**sil16:31408**\n**sil16:31409**\n**sil16:31413**\n**sil16:31414**"
+  },
+  "altnames": {
+    "wals": "\nUpper Kuskokwim",
+    "ruhlen (1987)": "\nKolchan",
+    "moseley & asher (1994)": "\nUpper Kuskokwim",
+    "multitree": "\nCuscoquín alto\nHaut-kuskokwim\nKolchan\nKuskokwim (Upper)\nKuskokwim, Upper\nMcgrath Ingalik\nUpper Kuskokwim",
+    "lexvo": "\nKolchan [fr]\nLíngua kolchan [pt]\nUpper Kuskokwim [en]\nUpper Kuskokwim language [en]",
+    "hhbib_lgcode": "\nKolchan\nKuskokwim-Upper",
+    "elcat": "\nKolchan\nKuskokwim\nKuskokwim (Upper)\nMcgrath Ingalik\nUpper\nUpper Kuskokwim"
+  },
+  "triggers": {
+    "lgcode": "\nshisr\nrabota\npolevaja\ntildzidza\ntsiyozra\nduhtote\naljaske\nlingvisticheskaja\nhineyash\natabaskskogo\ndinaki\nverxnekuskokwimskogo\nkuskokwim"
+  },
+  "identifier": {
+    "wals": "uku",
+    "multitree": "kuu",
+    "endangeredlanguages": "1167"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:KraussGolla:NAthapaskan**:75-77",
+    "subrefs": "\n**hh:hvphon:KraussGolla:NAthapaskan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Upper Kuskokwim (1167-kuu) = Critically Endangered (80 percent certain, based on the evidence available) [Center 2014](cldf:center:14)"
+  }
+}

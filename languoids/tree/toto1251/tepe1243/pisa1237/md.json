@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Pisaflores Tepehua",
+    "hid": "tpp",
+    "level": "language",
+    "iso639-3": "tpp",
+    "latitude": "20.7039",
+    "longitude": "-98.0305",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Pisaflores Tepehua](https://endangeredlanguages.com/lang/6189)\nhttps://en.wikipedia.org/wiki/Pisaflores_Tepehua\nhttps://www.wikidata.org/entity/Q56349"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**hh:ephon:Hernandez:Pisaflores-Tepehua**\n**hh:hv:Dakin:Western-Central-Nahua**\n**hh:hv:MacKayTrechsel:Totonac-Tepehua:2018**\n**hh:hv:Moore:Coahuitlan-Totonac**\n**hh:phon:MacKayTrechsel:Pisaflores-Tepehua**\n**hh:s:MacKay:Tepehua-Pisaflores**\n**hh:typ:Watters:Tepehua**\n**sil16:45926**\n**sil16:45927**\n**sil16:45928**\n**sil16:45929**\n**sil16:45930**\n**sil16:45931**\n**sil16:45932**\n**sil16:45933**\n**sil16:48750**\n**sil16:50222**"
+  },
+  "altnames": {
+    "multitree": "\nPisaflores Tepewa\nTepehua\nTepehua de Pisaflores\nTepehua, Pisaflores\nTepehuano de Pisa Flores\nTepewa",
+    "lexvo": "\nPisaflores Tepehua [en]",
+    "hhbib_lgcode": "\nPisaflores\nPisaflores Tepehua (Pf)\nTepehua-Pisaflores",
+    "elcat": "\nPisaflores Tepehua"
+  },
+  "triggers": {
+    "lgcode": "\nnij\ntsokanta\nixtapalay\nvakaj\nskaw\npumatam\ntordo\npisaflores\nsawalh"
+  },
+  "identifier": {
+    "multitree": "tpp",
+    "endangeredlanguages": "6189"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pisaflores Tepehua (6189-tpp) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

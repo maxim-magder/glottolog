@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Beng",
+    "hid": "nhb",
+    "level": "language",
+    "iso639-3": "nhb",
+    "latitude": "7.78122",
+    "longitude": "-4.23539",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913311\nhttps://en.wikipedia.org/wiki/Beng_language\nhttps://phoible.org/languages/beng1286\n[Beng](https://wals.info/languoid/lect/wals_code_bnq)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:11663**\n**eballiso2009:14927**\n**eballiso2009:33451**\n**eballiso2009:36269**\n**eballiso2009:59371**\n**eballiso2009:744**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:ld:Paperno:Beng**\n**hh:ld:Paperno:Beng:Ms**\n**hh:phon:Ory:Beng**\n**hh:phon:Paesler:Beng**\n**hh:s:Paperno:Ben**\n**hh:s:Paperno:Ben:2017**\n**hh:s:Paperno:Beng:2014**\n**hh:s:Prost:Mana-Busa**\n**hh:sd:GottliebMurphy:Beng**\n**hh:soc:Davison:Beng**\n**hh:typ:Paesler:Beng**\n**hh:w:Prost:Mana-Busa-Vocabulaires**\n**sil16:34393**"
+  },
+  "altnames": {
+    "wals": "\nBeng",
+    "wals other": "\nGan",
+    "ruhlen (1987)": "\nBen (Gan)",
+    "multitree": "\nBen\nBeng\nGan\nNgain\nNgan\nNgen\nNgin\nNguin",
+    "lexvo": "\nBeng [en]",
+    "hhbib_lgcode": "\nBen\nBẽ\nGan"
+  },
+  "triggers": {
+    "lgcode": "\ndistinguish\nNOT and AND beng\nbeng"
+  },
+  "identifier": {
+    "wals": "bnq",
+    "multitree": "nhb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dwyer:Mande:1989** **hh:hv:Dwyer:Mande**",
+    "subrefs": "\n**hh:hv:Dwyer:Mande:1989**\n**hh:hv:Dwyer:Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Beng (nhb-nhb) = 6a* (Vigorous)."
+  }
+}

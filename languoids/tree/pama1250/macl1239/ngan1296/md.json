@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Nganyaywana",
+    "hid": "nyx",
+    "level": "language",
+    "iso639-3": "nyx",
+    "latitude": "-29.581",
+    "longitude": "151.313",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Nganyaywana](https://endangeredlanguages.com/lang/6671)\n[Southern Anaiwan](https://collection.aiatsis.gov.au/austlang/language/d24)\nhttps://en.wikipedia.org/wiki/Anewan_language\nhttps://phoible.org/languages/ngan1296\nhttps://www.wikidata.org/entity/Q3913800",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**hh:hv:Crowley:NNSW**\n**hh:hvw:Waferetal:New-South-Wales**\n**hh:v:Black:Nganyaywana**\n**hh:vw:Crowley:Nganyaywana**\n**hh:w:Mathews:NewEngland**\n**ozbib:3605**\n**ozbib:3606**\n**ozbib:3608**\n**ozbib:4760**\n**ozbib:6944**\n**ozbib:7293**\n**ozbib:827**\n**ozbib:942**\n**ozbib:947**\n**ozbib:960**"
+  },
+  "altnames": {
+    "multitree": "\nAnaiwan\nAnaywan\nAnewan\nAniwan\nDariwan\nEe-na-won\nEenewon\nEn-nee-win\nEneewin\nEnni-won\nEnuin\nInuwan\nInuwon\nNarwo\nNee-inuwon\nNganjaywana\nNganyaywana\nNowan\nYenniwon",
+    "lexvo": "\nNganyaywana [en]",
+    "hhbib_lgcode": "\nAnaiwan\nAnēwan\nNew England language",
+    "elcat": "\nAnaiwan\nAnaywan\nAnewan\nAniwan\nDariwan\nEe-na-won\nEenewon\nEn-nee-win\nEneewin\nEnni-won\nEnuin\nInuwan\nInuwon\nNarwo\nNee-inuwon\nNganjaywana\nNganyaywana\nNowan\nYenniwon",
+    "aiatsis": "\nAmberu\nAnaiwan\nAnaywan\nAneewan\nAnewan\nAniwan\nDariwan\nEe na won\nEenewon\nEn nee win\nEneewin\nEnni won\nEnniwon\nEnuin\nInuwan\nInuwen\nInuwon\nNarwon\nNee inuwon\nNewana\nNganjaywana\nNganyaywana\nNowan\nSouthern Anaiwan\nYenniwon\nnganyaywana"
+  },
+  "triggers": {
+    "lgcode": "\nnganyaywana"
+  },
+  "identifier": {
+    "multitree": "nyx",
+    "endangeredlanguages": "6671"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Waferetal:New-South-Wales**",
+    "subrefs": "\n**hh:hvw:Waferetal:New-South-Wales**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nganyaywana (6671-nyx) = Dormant [Bowern 2011](cldf:bowern:11:1)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tumari Kanuri",
+    "hid": "krt",
+    "level": "language",
+    "iso639-3": "krt",
+    "latitude": "14.2584",
+    "longitude": "13.1571",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NE",
+      "TD"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tumari_Kanuri\nhttps://www.wikidata.org/entity/Q11033658"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Jarrett:Kanuri-Niger**\n**hh:hv:Bulakarima:Kanuri-Dialects**\n**hh:typ:Jarrett:Kanuri**"
+  },
+  "altnames": {
+    "multitree": "\nBornu\nKanambu\nKanembu\nKanuri\nKanuri, Tumari\nTumari Kanuri",
+    "lexvo": "\nTumari Kanuri [en]",
+    "hhbib_lgcode": "\nKanuri-Tumari\nNguigmi\nSuwurti\nTumaari"
+  },
+  "triggers": {
+    "lgcode": "\nkaidi"
+  },
+  "identifier": {
+    "multitree": "krt"
+  },
+  "classification": {
+    "sub": "**hh:dial:Jarrett:Kanuri-Niger**:106-107 **hh:w:Lohretal:Kanuri**",
+    "subrefs": "\n**hh:w:Lohretal:Kanuri**\n**hh:dial:Jarrett:Kanuri-Niger**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kanuri, Tumari (krt-krt) = 6a* (Vigorous)."
+  }
+}

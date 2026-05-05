@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mbe",
+    "hid": "mfo",
+    "level": "language",
+    "iso639-3": "mfo",
+    "latitude": "6.57067",
+    "longitude": "8.82998",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36075\nhttps://en.wikipedia.org/wiki/Mbe_language\nhttps://phoible.org/languages/mbee1249"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:12663**\n**eballiso2009:23480**\n**eballiso2009:23493**\n**eballiso2009:2356**\n**eballiso2009:45994**\n**eballiso2009:50187**\n**hh:hv:Gerhardt:Mbe-Bantu**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:s:Pohlig:Mbe**\n**hh:typ:Bamgbose:Mbe**"
+  },
+  "altnames": {
+    "multitree": "\nMbe\nNigeria",
+    "lexvo": "\nMbe [en]",
+    "hhbib_lgcode": "\nCross River Mbe\nMbe (Ketuen)"
+  },
+  "triggers": {
+    "lgcode": "\nNOT du AND NOT langue AND mbe\ncell"
+  },
+  "identifier": {
+    "multitree": "mfo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:Ekoid**",
+    "subrefs": "\n**hh:hvw:Blench:Ekoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbe (mfo-mfo) = 5 (Developing)."
+  }
+}

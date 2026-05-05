@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Odiai",
+    "hid": "bhf",
+    "level": "language",
+    "iso639-3": "bhf",
+    "latitude": "-3.82276",
+    "longitude": "141.336",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Busa](https://endangeredlanguages.com/lang/3910)\nhttps://www.wikidata.org/entity/Q56690\nhttps://en.wikipedia.org/wiki/Busa_language_(Papuan)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:10:2**\n**cldf:hammarstroem:17**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hld:Lean:Sandaun**\n**hh:hsoc:Graham:BusaNagatman**\n**hh:hv:BassLoving:Amanab**\n**hh:hv:Laycock:Isolates**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:ConradDye:USepik**\n**hh:w:Laycock:D32**"
+  },
+  "altnames": {
+    "multitree": "\nBusa\nBusan\nOdiai\nUriai",
+    "lexvo": "\nBouseg [br]\nBusa language [en]\nOdiai [en]",
+    "hhbib_lgcode": "\nBusa\nBusan",
+    "elcat": "\nBusa\nBusan\nOdiai\nUriai"
+  },
+  "triggers": {
+    "lgcode": "\nnagatman"
+  },
+  "identifier": {
+    "multitree": "bhf",
+    "endangeredlanguages": "3910"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Laycock:Isolates**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Busa (3910-bhf) = Endangered (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

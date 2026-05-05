@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Atsugewi",
+    "hid": "atw",
+    "level": "language",
+    "iso639-3": "atw",
+    "latitude": "40.4271",
+    "longitude": "-120.661",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Atsugewi](https://endangeredlanguages.com/lang/679)\nhttps://www.wikidata.org/entity/Q56718\nhttps://en.wikipedia.org/wiki/Atsugewi_language\n[Atsugewi](https://wals.info/languoid/lect/wals_code_ats)",
+    "timespan": "1988-01-01/1988-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3390**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:garth:44**\n**cldf:garth:53**\n**cldf:gifford:26:1**\n**cldf:golla:goddard:etal:08**\n**cldf:moseley:07**\n**cldf:olmsted:58**\n**cldf:voegelin:42**\n**cldf:walters:77**\n**hh:d:Olmsted:Atsugewi**\n**hh:e:Garth:Atsugewi**\n**hh:hv:Goodetal:Palaihnihan**\n**hh:hv:Olmsted:Palaihnihan**\n**hh:hvb:Golla:California**\n**hh:s:deAngulo:Atsugewi**\n**hh:typ:Talmy:Atsugewi**\n**hh:w:Atsugewi:Atsugewi**"
+  },
+  "altnames": {
+    "wals": "\nAtsugewi",
+    "ruhlen (1987)": "\nAtsugewi",
+    "moseley & asher (1994)": "\nAtsugewi",
+    "lexvo": "\nAtsugewi [en]",
+    "elcat": "\nAtsugewi\nHat Creek"
+  },
+  "triggers": {
+    "lgcode": "\napwarukeyi\nNOT palaihnihan AND atsugewi"
+  },
+  "identifier": {
+    "wals": "ats",
+    "endangeredlanguages": "679"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Atsugewi (679-atw) = Dormant (No good speaker since 1988.) [Golla 2011](cldf:golla:11)"
+  }
+}

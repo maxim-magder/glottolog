@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "China Buriat",
+    "hid": "bxu",
+    "level": "language",
+    "iso639-3": "bxu",
+    "latitude": "48.7593",
+    "longitude": "117.786",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MN",
+      "RU"
+    ],
+    "links": "\n[New Bargut](https://endangeredlanguages.com/lang/8557)\nhttps://www.wikidata.org/entity/Q20527417"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:salminen:00**\n**hh:hv:Budaev:Burjatskie**\n**hh:hvw:Budaev:Burjatskix**\n**hh:phon:Poppe:Bargu-Burjatischen**\n**hh:s:Baoxiang:Baerhutuyu**\n**hh:s:Jamsu:Sineken**\n**hh:s:Szeredi:Sinehen-Burjat**\n**hh:s:Yamakoshi:Shinekhen-Buryat**\n**hh:v:Afanaseva:Buryatskogo-Bargutskogo**\n**hh:w:Wuda:Baerhu**\n**hh:w:Zhu:Menggu**\n**mpieva:Egodurova2003Burjatsk**\n**mpieva:Poppe1955Introduc**"
+  },
+  "altnames": {
+    "multitree": "\nBargu Buriat\nBuriat\nBuriat, China\nBuriat-Mongolian\nBurjatisch\nBuryat\nChina Buriat\nNortheastern Mongolian\nNorthern Mongolian",
+    "lexvo": "\nBargu [fr]\nChina Buriat [en]\nChina Buriat language [en]",
+    "hhbib_lgcode": "\nBargutskogo\nBuriat-China\nChina Buryat\nShinekhen\nSinehén Burját\nSineken",
+    "elcat": "\nMenggu\nNew Barghut\nNew Bargut\nXin Baerhu\n新巴爾虎土語"
+  },
+  "triggers": {
+    "lgcode": "\nkhamnigan\nshinekhen\nbargu"
+  },
+  "identifier": {
+    "multitree": "bxu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rybatzki:Mongolic**",
+    "subrefs": "\n**hh:hv:Rybatzki:Mongolic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "New Bargut (8557) = Vulnerable (80 percent certain, based on the evidence available) (the language is apparently still being learnt by many children in pre-school age, but native language skills are undermined in later age by the assimilative pressure of Standard Mongolian, the official minority language of Inner Mongolia) [Salminen 2000](cldf:salminen:00)"
+  }
+}

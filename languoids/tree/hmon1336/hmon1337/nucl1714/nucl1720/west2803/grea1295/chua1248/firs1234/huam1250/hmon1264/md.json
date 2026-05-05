@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Hmong Njua",
+    "hid": "hnj",
+    "level": "language",
+    "iso639-3": "hnj",
+    "latitude": "22.5638",
+    "longitude": "101.95",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA",
+      "MM",
+      "TH",
+      "VN"
+    ],
+    "links": "\n[Hmong Njua](https://wals.info/languoid/lect/wals_code_hmo)\nhttps://phoible.org/languages/hmon1264\nhttps://www.wikidata.org/entity/Q3138831"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3691**\n**cldf:anonymous:72:1**\n**cldf:bisang:91**\n**cldf:bisang:92**\n**cldf:harriehausen:88**\n**cldf:harriehausen:90**\n**cldf:lyman:87**\n**cldf:smalley:76**\n**cldf:wang:83**\n**hh:d:Lyman:Mong-Njua**\n**hh:d:Strecker:Mong**\n**hh:d:Xiong:Mong**\n**hh:dial:FlamingCastro:Hmong-Yunnan**\n**hh:e:Bernatzik:Akha-Meau**\n**hh:e:Bernatzik:Akha-Miao**\n**hh:e:Lemoine:Hmong-Vert-Haut-Laos**\n**hh:e:USA:Meo**\n**hh:g:Harriehausen:Hmong**\n**hh:g:Lyman:Mong-Njua**\n**hh:g:White:Hmong-Queensland**\n**hh:hv:Chang:Proto-Miao**\n**hh:hv:Johnson:Far-Western-Hmongic**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:phon:Gao:Ching-Miao**\n**hh:phon:Mortensen:Mong-Leng**\n**hh:phonvw:Johnson:Hmong-Sa**\n**hh:phonvw:Johnson:Mong-Shi**\n**hh:s:Kunyot:Hmong-Njua**\n**hh:s:Mortensen:Mong-Leng**\n**hh:sd:XiongCohen:Miao**\n**hh:styp:Dej-Amorn:Green-Hmong**\n**hh:typ:Cooper-Leavitt:Hmong**\n**hh:typ:Meister:Hmong-Ntsuab**\n**hh:typ:Rice:Golden-Triangle**\n**iso6393:2007-188**\n**iso6393:2009-090**\n**iso6393:2011-160**\n**mpieva:Harriehausen1990HmongNju**\n**sala:clark1985asking**\n**sil16:37948**"
+  },
+  "altnames": {
+    "multitree": "\nBlue Hmong\nBlue Meo\nBlue Miao\nChing Miao\nGreen Hmong\nGreen Meo\nGreen Miao\nHmong Lens\nHmong Njua\nHmong Nzhua\nHmoob Leeg\nLu Miao\nMeo Dam\nMeo Lai\nMong Ntsua\nQing Miao\nRed Miao\nTak Miao\nWhite Miao",
+    "lexvo": "\nHmong Njua [en]\nMong Leng [en]\nMong Njua [en]",
+    "hhbib_lgcode": "\nBlue Hmong spoken in Yunnan\nBlue Mong\nCh'ing Miao in Mo-shih-ts'un of Eh-shan district in Yünnan\nClosest to Mong Leng\nGreen Hmong\nGreen Mong\nHmong Lenh\nHmong Njua of Thailand\nHmong Sa\nHmong Sa/Hmong Nzi\nHmong Vert Thailand/Laos\nHmong vert du Haut Laos\nMeau\nMiao\nMo-shih-ts'un of Eh-shan district in Yünnan from Kao 1947\nMon Leng\nMong Leng\nMong Njua\nMong Ntsua\nMong Shi\nMoob Leeg\nMoob Ntsuab\nNzhuab\nWhite Hmong (Hmoob Dawb; WH) and Green Mong (Moob Ntsuab/Lees; GM) as spoken in North Queensland\nXieng Khoang province in Laos Far Western Hmong\nZhijin"
+  },
+  "triggers": {
+    "lgcode": "\nmeo\nsudostasiatischen\njiwei\nsprachraumes\nattractor\nnjua\nverbserialisierung\ndatenverarbeitungstechnischer\nntsuab\nmiaoyu\nmithilfe"
+  },
+  "identifier": {
+    "multitree": "hnj"
+  },
+  "classification": {
+    "sub": "**hh:styp:McLaughlin:Hmong-Soud**:6-10 **hh:vb:Castroetal:Western-Miao**",
+    "subrefs": "\n**hh:vb:Castroetal:Western-Miao**\n**hh:styp:McLaughlin:Hmong-Soud**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hmong Njua (hnj-hnj) = 5* (Developing)."
+  }
+}

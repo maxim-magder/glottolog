@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Eipomek",
+    "hid": "eip",
+    "level": "language",
+    "iso639-3": "eip",
+    "latitude": "-4.33691",
+    "longitude": "140.045",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Eipo](https://wals.info/languoid/lect/wals_code_eip)\n[Eipomek](https://grambank.clld.org/languages/eipo1242)\nhttps://en.wikipedia.org/wiki/Eipo_language\nhttps://www.wikidata.org/entity/Q5349839"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2501**\n**hh:d:HeeschenSchiefenhovel:Eipo**\n**hh:e:Heeschen:Eipo:1978**\n**hh:e:Koch:Eipo**\n**hh:e:Koch:Malingdam**\n**hh:e:Michel:Eipo-Moknerkon**\n**hh:e:Schiefenhovel:Eipo**\n**hh:eb:Ploeg:Eipo**\n**hh:esoc:Eibl:Eipo**\n**hh:g:Heeschen:Eipo**\n**hh:hvld:Heeschen:Mek:1992**\n**hh:hvw:Heeschen:Mek:1978**\n**hh:ld:Heeschen:Eipo-Metalinguistic**\n**hh:s:Heeschen:Eipo**\n**hh:typ:Heeschen:Clauses-Eipo**\n**mpieva:Heeschen1998Anethnog**"
+  },
+  "altnames": {
+    "wals": "\nEipo",
+    "ruhlen (1987)": "\nEipo-Mek",
+    "moseley & asher (1994)": "\nEipo",
+    "multitree": "\nEipo\nEipo-mek\nEipomek\nT-Valley",
+    "lexvo": "\nEipomek [en]",
+    "hhbib_lgcode": "\nEipo"
+  },
+  "triggers": {
+    "lgcode": "\nlrian\nzentrales\neipo\neipomek\nmalingdam\nsiedlungsbereich"
+  },
+  "identifier": {
+    "wals": "eip",
+    "multitree": "eip"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Heeschen:Mek:1978** **hh:hvld:Heeschen:Mek:1992** **hh:hv:Suter:Mek**",
+    "subrefs": "\n**hh:hv:Suter:Mek**\n**hh:hvw:Heeschen:Mek:1978**\n**hh:hvld:Heeschen:Mek:1992**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lik (eip-eip) = 6b* (Threatened)."
+  }
+}

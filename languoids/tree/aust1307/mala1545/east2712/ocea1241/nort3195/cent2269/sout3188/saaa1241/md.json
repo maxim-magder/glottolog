@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sa",
+    "hid": "sax",
+    "level": "language",
+    "iso639-3": "sax",
+    "latitude": "-15.9534",
+    "longitude": "168.228",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Sa](https://grambank.clld.org/languages/saaa1241)\n[Sa (south-eastern dialect)](https://lexibank.clld.org/languages/abvdoceanic-Sasoutheasterndialect)\nhttps://en.wikipedia.org/wiki/Saa_language\nhttps://www.wikidata.org/entity/Q3460352"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:982**\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:jolly:03**\n**cldf:jolly:82**\n**cldf:jolly:91**\n**cldf:lane:56**\n**cldf:lane:65**\n**cldf:lane:lane:57**\n**cldf:mescam:89**\n**cldf:np:12:10**\n**cldf:np:14:5**\n**cldf:planet:14**\n**hh:hew:HagenPineau:Hebrides**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Elliott:Sa**\n**hh:s:Gray:Pentecost**"
+  },
+  "altnames": {
+    "multitree": "\nSa\nVanuatu",
+    "lexvo": "\nSa [en]",
+    "hhbib_lgcode": "\nDoltes\nNorthern Sa\nPentecote Sud (Tribu de Nineboulo)\nSa- the language of South Pentecost"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "sax"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sa (sax-sax) = 5 (Developing)."
+  }
+}

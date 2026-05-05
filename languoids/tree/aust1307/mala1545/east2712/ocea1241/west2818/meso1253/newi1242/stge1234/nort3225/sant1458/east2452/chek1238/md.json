@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Cheke Holo",
+    "hid": "mrn",
+    "level": "language",
+    "iso639-3": "mrn",
+    "latitude": "-8.27055",
+    "longitude": "159.625",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Cheke Holo](https://grambank.clld.org/languages/chek1238)\n[Cheke Holo](https://wals.info/languoid/lect/wals_code_ckh)\n[Maringe (Leleghia)](https://lexibank.clld.org/languages/abvdoceanic-MaringeLeleghia)\nhttps://en.wikipedia.org/wiki/Cheke_Holo_language\nhttps://www.wikidata.org/entity/Q2962165"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:bellwood:ayres:etal:75**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:government:09**\n**cldf:keesing:84:2**\n**cldf:laracy:20**\n**cldf:np:14:5**\n**cldf:np:16:6**\n**cldf:tryon:hackman:83**\n**cldf:white:88**\n**cldf:white:91**\n**cldf:white:kokhonigita:etal:85**\n**hh:d:Whiteetal:Cheke-Holo**\n**hh:g:Boswell:Cheke-Holo**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Ray:Island**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Ray:Bush-Ysabel**\n**hh:typ:Palmer:Cheke-Holo**\n**hh:w:White:Maringe**\n**mpieva:White1988ChekeHol**\n**sil16:18263**\n**sil16:41743**\n**sil16:42495**"
+  },
+  "altnames": {
+    "wals": "\nCheke Holo",
+    "wals other": "\nMaring",
+    "ruhlen (1987)": "\nMaringe",
+    "moseley & asher (1994)": "\nMaring (Trans New Guinea)",
+    "multitree": "\nA'ara\nCheke Holo\nHolo\nKubonitu",
+    "lexvo": "\nCheke Holo [en]",
+    "hhbib_lgcode": "\nMaringe\nMaringe (Bush Language)"
+  },
+  "triggers": {
+    "lgcode": "\nholo\ncheke\nnareabu"
+  },
+  "identifier": {
+    "wals": "ckh",
+    "multitree": "mrn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:NWSolomonic**",
+    "subrefs": "\n**hh:hv:Ross:NWSolomonic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cheke Holo (mrn-mrn) = 5* (Developing)."
+  }
+}

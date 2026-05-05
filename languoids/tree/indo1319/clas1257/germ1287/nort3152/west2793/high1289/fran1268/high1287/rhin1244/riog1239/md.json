@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hunsrik",
+    "hid": "hrx",
+    "level": "language",
+    "iso639-3": "hrx",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Hunsrik\nhttps://www.wikidata.org/entity/Q304049",
+    "longitude": "-51.7219",
+    "latitude": "-29.3255"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Rosenberg:Lateinamerika**\n**hh:phon:Wiesemann:Hunsrik**\n**hh:phonsocv:Altenhofen:Hunsruckisch**\n**iso6393:2006-037**"
+  },
+  "altnames": {
+    "multitree": "\nHunsrik\nHunsriker\nRio Grand Hunsriker\nRiograndenser Hunsrückisch",
+    "lexvo": "\nHunsrik [en]\nRiograndenser Hunsrückisch [de]\nRiograndeser Hunsrückisch [pl]",
+    "hhbib_lgcode": "\nBrazilien\nHunsrückisch"
+  },
+  "triggers": {
+    "lgcode": "\nhunsrik\nursula"
+  },
+  "identifier": {
+    "multitree": "hrx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:846-849",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hunsrik (hrx-hrx) = 7 (Shifting)."
+  }
+}

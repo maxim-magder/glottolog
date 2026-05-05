@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Salas",
+    "hid": "sgu",
+    "level": "language",
+    "iso639-3": "sgu",
+    "latitude": "-3.14654",
+    "longitude": "130.53",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Salas](https://endangeredlanguages.com/lang/2775)\nhttps://www.wikidata.org/entity/Q7403694\nhttps://en.wikipedia.org/wiki/Salas_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:LoskiLoski:ESeram**:119 **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:342",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**\n**hh:hv:LoskiLoski:ESeram**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hv:LoskiLoski:ESeram**"
+  },
+  "altnames": {
+    "multitree": "\nLenkaitahe\nLiambata\nSalas\nSalas Gunung\nSalas gunung",
+    "lexvo": "\nSalas [en]",
+    "hhbib_lgcode": "\nLiambata\nSalas Gunung",
+    "elcat": "\nLenkaitahe\nLiambata\nSalas\nSalas Gunung"
+  },
+  "identifier": {
+    "multitree": "sgu",
+    "endangeredlanguages": "2775"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Salas (2775-sgu) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kunyi",
+    "hid": "njx",
+    "level": "language",
+    "iso639-3": "njx",
+    "latitude": "-3.69702",
+    "longitude": "12.5197",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "CG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3196559\nhttps://en.wikipedia.org/wiki/Kunyi_language\nhttps://phoible.org/languages/kuny1238"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:2043**\n**eballiso2009:28707**\n**eballiso2009:34817**\n**hh:hb:Leblanc:Congo**\n**hh:he:Rey:Kuni-Punu-Tsangui**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:deSchryver:Kikongo**\n**hh:phon:Ngoma:Kuni**\n**hh:phontyp:Goma:Kikuni**\n**hh:typ:Raharimantsoa:Kunyi**\n**hh:w:Lumwamu:Dondo-Kamba-Kuni**"
+  },
+  "altnames": {
+    "multitree": "\nKikunyi\nKugni\nKunyi",
+    "lexvo": "\nKunyi [en]",
+    "hhbib_lgcode": "\nH13 Kikunyi\nH13_Kikunyi_1989\nKikuni\nKuni\nKunyi H13A"
+  },
+  "triggers": {
+    "lgcode": "\nkunyi\nNOT primer AND kuni"
+  },
+  "identifier": {
+    "multitree": "njx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:177-179, 182-184, 190-191 **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Bostoen:Aire-Kongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kunyi (njx-njx) = 6a (Vigorous)."
+  }
+}

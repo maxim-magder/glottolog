@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Walloon",
+    "hid": "wln",
+    "level": "language",
+    "iso639-3": "wln",
+    "latitude": "50.2235",
+    "longitude": "5.14509",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BE",
+      "FR",
+      "LU"
+    ],
+    "links": "\n[Walloon](https://endangeredlanguages.com/lang/2991)\nhttps://en.wikipedia.org/wiki/Walloon_language\nhttps://www.wikidata.org/entity/Q34219"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:turney-high:53**\n**hh:d:Beardsmore:Francais-Bruxelles**\n**hh:d:Delcourt:Francais-Belgique**\n**hh:d:Tamine:Ardennes**\n**hh:d:Waslet:Givetois**\n**hh:es:Gaziaux:Wallon**\n**hh:es:Remacle:Wallon**\n**hh:g:Hendschel:Wallonne**\n**hh:g:Remacle:Wallon**\n**hh:ld:Piron:Francais-Belgique**\n**hh:phon:deReuse:Francais-Charleroi**\n**hh:s:Bruneau:Ardenne**\n**hh:s:Colet:Wallon-Wisconsin**\n**hh:s:Delaite:Wallonne**\n**hh:s:Doppagne:Louette-Saint-Pierre**\n**hh:s:Micheels:Wallonne**\n**hh:s:Niederlander:Namur**\n**hh:s:Valkhoff:Wallonnes**\n**hh:sd:Fabry:Soulme**\n**hh:typ:Pohl:Francais-Belgique**\n**hh:v:Feller:Wallonne**"
+  },
+  "altnames": {
+    "multitree": "\nValón\nWallon\nWalloon",
+    "lexvo": "\nAn Vallúinis [ga]\nBahasa Walloon [id]\nFà-liùng-ngî [hak]\nIdioma valón [an]\nJęzyk waloński [pl]\nLengua vallone [lij]\nLimba valonă [ro]\nLingua vallone [it]\nLíngua valona [pt]\nTiếng Wallon [vi]\nValloni [fi]\nVallonsk [da]\nVallonska [sv]\nValoiera [eu]\nValon [frp]\nValona lingvo [eo]\nValonca [tr]\nValonski jezik [hr]\nValonština [cs]\nValó [ca]\nValón [ast]\nWaals [nl]\nWallon [fr]\nWalloneg [br]\nWallonek [kw]\nWallonies [af]\nWallonische Sprache [de]\nWalloon [en]\nWalloon language [en]\nWalloonish [gv]\nWalloonsch [nds]\nWallounesch [lb]\nWalon [pcd]\nWaols [li]\nWoals [vls]\nwallon [fr]\nΒαλλωνική γλώσσα [el]\nВаллонский язык [ru]\nВаллонська мова [uk]\nВалонски език [bg]\nВалёнская мова [be]\nՎալոներեն [hy]\nולונית [he]\nلغة والون [ar]\nภาษาวัลลูน [th]\nワロン語 [ja]\n瓦龙语 [zh]\n왈롱어 [ko]",
+    "hhbib_lgcode": "\nLouette-Saint-Pierre\nNamur\nSoulme\nWallon du Wisconsin\nWallonne",
+    "elcat": "\nWallon\nWalloon\nWalon"
+  },
+  "triggers": {
+    "lgcode": "\nwallonne\nbruxelles\nwallon\nbelgique\nwallonnes"
+  },
+  "identifier": {
+    "multitree": "wln",
+    "endangeredlanguages": "2991"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80 **hh:hv:Agard:French**",
+    "subrefs": "\n**hh:hv:Agard:Romance**\n**hh:hv:Agard:French**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Walloon (2991-wln) = Threatened (80 percent certain, based on the evidence available) (In Belgium, a number of children learn the language, but many are likely to shift entirely to French.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

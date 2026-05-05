@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Avok",
+    "hid": "NOCODE_Avok",
+    "level": "language",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "longitude": "167.773866",
+    "latitude": "-16.536653",
+    "links": "\n[Avok](https://endangeredlanguages.com/lang/10790)\n[Avok (Avok) 162-99](https://lexibank.clld.org/languages/abvdoceanic-AvokAvok16299)\nhttps://en.wikipedia.org/wiki/Avok_language\nhttps://www.wikidata.org/entity/Q34439761"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Francois:Density-Vanuatu**\n**hh:hv:Lynch:Liquid-Central-Vanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Avok, a Eastern Malakula linkage language of the offshore island of Avok,\nis missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:hvw:Charpentier:Sud-Malakula**, **hh:hvw:Tryon:NewHebrides**). It is possibly missing since **hh:hvw:Tryon:NewHebrides** treat it as a dialect of Axamb [ahb]. But lexicostatistical similarity between varieties of the two are never above 75% and go down as low as 60%, leaving little room for intelligibility between the endpoints **hh:hvb:LynchCrowley:Vanuatu**:75. See also: Axamb [ahb].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Avok"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Avok (10790) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAvokh-Marpagho\nMaxbaxo",
+    "elcat": "\nAvok"
+  },
+  "identifier": {
+    "endangeredlanguages": "10790"
+  }
+}

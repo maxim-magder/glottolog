@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Yonggom",
+    "hid": "yon",
+    "level": "language",
+    "iso639-3": "yon",
+    "latitude": "-6.42956",
+    "longitude": "141.213",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "PG"
+    ],
+    "links": "\n[Yonggom](https://endangeredlanguages.com/lang/10691)\n[Yonggom](https://grambank.clld.org/languages/yong1280)\nhttps://en.wikipedia.org/wiki/Yonggom_language\nhttps://www.wikidata.org/entity/Q8055002"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christensen:02**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Kirsch:Yonggom**\n**hh:h:Sugono:Indonesia**\n**hh:h:Versteeg:Oerwoud**\n**hh:hld:Lean:Western-Province**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Healey:Ok**\n**hh:hvw:Ray:Western**\n**hh:hvw:Voorhoeve:Irian**\n**hh:s:Christensen:Yonggom**\n**hh:typ:Christensen:Yongkom**\n**hh:w:Austen:Ambip**\n**hh:w:Austen:Marapka**\n**hh:w:Austen:NW-Papua**\n**hh:w:Austen:Wukpit**\n**iso6393:2010-025**\n**silpng:silpng1991-2000:2339**\n**silpng:silpng1991-2000:2340**\n**silpng:silpng1991-2000:2341**\n**silpng:silpng1991-2000:2342**\n**silpng:silpng1991-2000:2343**\n**silpng:silpng1991-2000:2344**\n**silpng:silpng1991-2000:2345**\n**silpng:silpng1991-2000:2346**\n**silpng:silpng1991-2000:2347**\n**silpng:silpng1991-2000:2348**\n**silpng:silpng1991-2000:2349**\n**silpng:silpng1991-2000:2350**\n**silpng:silpng1991-2000:2351**\n**silpng:silpng1991-2000:2352**\n**silpng:silpng1991-2000:2353**\n**silpng:silpng1991-2000:2354**\n**silpng:silpng1991-2000:2355**\n**silpng:silpng1991-2000:2356**\n**silpng:silpng1991-2000:2357**\n**silpng:silpng1991-2000:2358**\n**silpng:silpng1991-2000:2359**\n**silpng:silpng1991-2000:2360**\n**silpng:silpng1991-2000:2361**\n**silpng:silpng1991-2000:2362**\n**silpng:silpng1991-2000:2363**\n**silpng:silpng1991-2000:2364**\n**silpng:silpng1991-2000:2365**\n**silpng:silpng1991-2000:2366**\n**silpng:silpng1991-2000:2367**\n**silpng:silpng2004:11**\n**silpng:silpng2004:173**"
+  },
+  "altnames": {
+    "wals": "\nKati (in West Papua, Indonesia)",
+    "wals other": "\nKate\nKate [sic]",
+    "ruhlen (1987)": "\nNorthern Kati, Southern Kati",
+    "moseley & asher (1994)": "\nNorthern Kati, Southern Kati",
+    "multitree": "\nIongom\nYonggom\nYongkom\nYongom",
+    "lexvo": "\nYonggom [en]",
+    "hhbib_lgcode": "\nIongom\nKagaip in Yogi village\nMarapka\nOrt-Ambip\nVillages on Wuk River a small tributary of the Tedi (Alice) River on its western side a few miles north of 6 S. lat\nWest bank of Tedi River about three miles north of 6 S. lat.\nWukpit\nYM Yonggom\nYonggom (Vo)",
+    "elcat": "\nYonggom\nYongkom\nYongom"
+  },
+  "triggers": {
+    "lgcode": "\nyongkom\nyoom\nawaan\nongmenaboon\nibturuk\nwonoon\nkomarewa\nkonoo\nyonggom\nmoo\nyidereen\ndaman\nnimakarub\nkambiri\narumi"
+  },
+  "identifier": {
+    "wals": "kti",
+    "multitree": "yon",
+    "endangeredlanguages": "10691"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Healey:Ok**",
+    "subrefs": "\n**hh:hvw:Healey:Ok**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yonggom (10691-yon) = Threatened (20 percent certain, based on the evidence available) [Christensen 2002](cldf:christensen:02)"
+  }
+}

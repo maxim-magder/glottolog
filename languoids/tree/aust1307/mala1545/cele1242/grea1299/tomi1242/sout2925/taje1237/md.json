@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Taje",
+    "hid": "pee",
+    "level": "language",
+    "iso639-3": "pee",
+    "latitude": "-0.72583",
+    "longitude": "120.078",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Taje](https://endangeredlanguages.com/lang/2784)\nhttps://www.wikidata.org/entity/Q12953902\nhttps://en.wikipedia.org/wiki/Taje_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvld:AdrianiKruyt:Celebes**\n**hh:hvw:Wumbu:Sulawesi-Tengah**\n**hh:hw:Himmelmann:Tomini-Tolitoli**\n**hh:s:Kaseng:Sulawesi-Tengah**"
+  },
+  "altnames": {
+    "multitree": "\nPetapa\nTaje",
+    "lexvo": "\nTaje [en]",
+    "hhbib_lgcode": "\nPetapa\nPetapasch\nTaje/Petapa",
+    "elcat": "\nPetapa\nTaje"
+  },
+  "identifier": {
+    "multitree": "pee",
+    "endangeredlanguages": "2784"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zobel:Kaili-Wolio**:299",
+    "subrefs": "\n**hh:hv:Zobel:Kaili-Wolio**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Taje (2784-pee) = Critically Endangered (100 percent certain, based on the evidence available) [Himmelmann 2001](cldf:himmelmann:01)"
+  }
+}

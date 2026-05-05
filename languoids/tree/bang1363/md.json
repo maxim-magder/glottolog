@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bangime",
+    "hid": "dba",
+    "level": "language",
+    "iso639-3": "dba",
+    "latitude": "14.8116",
+    "longitude": "-3.77092",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Bangime](https://endangeredlanguages.com/lang/8172)\n[Bangime](https://grambank.clld.org/languages/bang1363)\n[Bangime](https://lexibank.clld.org/languages/hantganbangime-Bangime)\n[Bangime](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Bangime)\n[Bangime](https://wals.info/languoid/lect/wals_code_bgm)\nhttps://en.wikipedia.org/wiki/Bangime_language\nhttps://www.wikidata.org/entity/Q1982696"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:674**\n**cldf:blench:05:1**\n**cldf:hantgan:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:d:Hantgan:Bangime**\n**hh:g:Hantgan:Bangime**\n**hh:g:HeathHantgan:Bangime**\n**hh:h:Calame-Griaule:Dogon**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**hh:s:Elders:BangeriMe**\n**hh:typ:Hantgan:Bangime**\n**hh:v:Blench:Bangime-Nilo-Saharan**\n**hh:w:Blench:BangiMe**\n**iso6393:2006-116**\n**iso6393:2012-022**\n**sil16:45051**"
+  },
+  "altnames": {
+    "glottolog": "\nBangi Me",
+    "wals": "\nDogon",
+    "wals other": "\nDogoso\nDonno So Dogon",
+    "ruhlen (1987)": "\nDogon",
+    "moseley & asher (1994)": "\nDogon",
+    "multitree": "\nBangeri Me\nDogon\nDogon, Bangeri Me\nNumadaw",
+    "lexvo": "\nBangi Me [en]",
+    "hhbib_lgcode": "\nBangeri Me\nBangi Me\nDyeni\nYɛni",
+    "elcat": "\nBanger-me\nBangeri Me\nBangeri-me\nBangerime\nBangime\nBaŋgi me\nDogon\nDyeni\nDyɛni\nElebo\nNoumandan\nNuma-Daw\nNumadaw\nYeni\nYɛni"
+  },
+  "triggers": {
+    "lgcode": "\nbang{gi\nbangeri\nbangime"
+  },
+  "identifier": {
+    "wals": "genus/dogon",
+    "multitree": "dba",
+    "endangeredlanguages": "8172"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:w:Blench:BangiMe**\n**hh:hv:Guldemann:Africa:Classification**:193-194"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bangime (8172-dba) = Threatened (20 percent certain, based on the evidence available) [Hantgan 2010](cldf:hantgan:10)"
+  }
+}

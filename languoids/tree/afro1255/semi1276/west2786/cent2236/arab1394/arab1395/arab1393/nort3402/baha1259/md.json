@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Baharna Arabic",
+    "hid": "abv",
+    "level": "language",
+    "iso639-3": "abv",
+    "latitude": "26.223615",
+    "longitude": "50.580811",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BH",
+      "OM"
+    ],
+    "links": "\n[Arabic (Bahrain)](https://wals.info/languoid/lect/wals_code_abh)\n[Baharna Arabic](https://grambank.clld.org/languages/baha1259)\nhttps://en.wikipedia.org/wiki/Bahrani_Arabic\nhttps://www.wikidata.org/entity/Q56576"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Holes:Eastern-Arabia**\n**hh:g:Holes:Eastern-Arabia**\n**hh:s:Holes:Bahraini**\n**hh:s:Holes:Bahraini-Arabic**\n**hh:s:Prochazka:Sii-Bahrain**\n**hh:ssoc:Al-Tajir:Baharna**"
+  },
+  "altnames": {
+    "wals": "\nArabic (Bahrain)",
+    "ruhlen (1987)": "\nBahrayn",
+    "moseley & asher (1994)": "\nArabic (Eastern)",
+    "multitree": "\nArabic\nArabic (Bahrain)\nArabic, Baharna Spoken\nBaharna\nBaharna Arabic\nBaharna Spoken\nBaharnah\nBahraini Shi'ite Arabic",
+    "lexvo": "\nArabeg Bahrein [br]\nBaharna Arabic [en]\nBaharna arapski [hr]\nBahrani Arabic [en]\nБахарна арапски јазик [mk]\nلهجة بحرانية [ar]\nภาษาอาหรับบาห์เรน [th]\n바레인 구어체 아랍어 [ko]",
+    "hhbib_lgcode": "\nBahrain Arabic in the Pre-Oil Era\nBahrain B"
+  },
+  "triggers": {
+    "lgcode": "\nbahrain\nbahraini"
+  },
+  "identifier": {
+    "wals": "abh",
+    "multitree": "abv"
+  },
+  "classification": {
+    "sub": "**hh:hvld:FischerJastrow:Arabischen**:24-25",
+    "subrefs": "\n**hh:hvld:FischerJastrow:Arabischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Baharna (abv-abv) = 3 (Wider communication). De facto national working language. Native to Bahrain and Oman, became widespread around 1861 when Bahrain became a protectorate of Britain and under the control of the ruling Al Khalifa dynasty. Used in trade, everyday communication, popular culture, films, plays, and some literature. Also used in sea-faring and agriculture."
+  }
+}

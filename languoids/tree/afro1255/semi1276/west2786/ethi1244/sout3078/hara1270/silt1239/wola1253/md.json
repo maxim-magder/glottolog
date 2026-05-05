@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wolane",
+    "hid": "wle",
+    "level": "language",
+    "iso639-3": "wle",
+    "latitude": "8.23",
+    "longitude": "38.14",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Wolane](https://grambank.clld.org/languages/wola1253)\n[Wolane](https://lexibank.clld.org/languages/felekesemitic-Wolane)\nhttps://www.wikidata.org/entity/Q12645275"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Meyer:Wolane**\n**hh:hvw:Hudson:Northeast-African-Semitic**\n**hh:phon:Nurye:Welene**\n**hh:typ:Demilew:Wolane**\n**hh:typ:Shimeles:Welene**\n**iso6393:2007-114**"
+  },
+  "altnames": {
+    "multitree": "\nOlane\nWalane\nWelene\nWeleni\nWolane\nWäläne",
+    "lexvo": "\nWolane [en]",
+    "hhbib_lgcode": "\nWelene"
+  },
+  "triggers": {
+    "lgcode": "\nwolane\nlanguage AND wolane"
+  },
+  "identifier": {
+    "multitree": "wle"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:v:BulakhKogan:Ethiopian-Semitic:2014**",
+    "subrefs": "\n**hh:v:BulakhKogan:Ethiopian-Semitic:2014**\n**hh:hv:Weninger:Ethio-Semitic**\n**hh:hv:Voigt:North-South-Ethiopian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wolane (wle-wle) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Eastern Oromo",
+    "hid": "hae",
+    "level": "language",
+    "iso639-3": "hae",
+    "latitude": "8.67428",
+    "longitude": "41.4395",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Oromo (Harar)](https://wals.info/languoid/lect/wals_code_orh)\nhttps://en.wikipedia.org/wiki/Eastern_Oromo_language\nhttps://phoible.org/languages/east2652\nhttps://www.wikidata.org/entity/Q5330355"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nichols:92**\n**cldf:owens:85:1**\n**hh:dial:Getahun:Wollo-Oromo**\n**hh:e:Hassen:Oromo-Gibe**\n**hh:e:Hylander:Galla**\n**hh:g:AliZaborski:Oromo**\n**hh:g:Bader:Oromo**\n**hh:g:Chiarini:Oromonica**\n**hh:g:Griefenow-MewisBitima:Oromo**\n**hh:g:Owens:Oromo**\n**hh:g:Praetorius:Gallasprache**\n**hh:g:Teferi:Rayya**\n**hh:hv:Janko:Afaan-Oromo**\n**hh:hv:Janko:Afaan-Oromoo:2012**\n**hh:hv:Negesse:Oromo**\n**hh:ld:Bitima:Oromo**\n**hh:ld:Kebede:Wollo-Oromo**\n**hh:phon:Benyam:Raya**\n**hh:phon:Kebede:Raayaa-Oromo**\n**hh:s:Griefenow-Mewis:Written-Oromo**\n**hh:s:deBoceguillas:Galla-Oromo**\n**hh:sd:Viterbo:Oromonica**\n**hh:sd:daThiene:Galla**\n**hh:typ:Clamons:Oromo**\n**hh:w:Bitima:Walloo**\n**mpieva:Cohen1931EtudesdE**\n**mpieva:Hirpo1996Goldgrub**\n**mpieva:Tucho1996Oromonew**\n**mpieva:Yimam1986Thephras**\n**sil16:42885**"
+  },
+  "altnames": {
+    "wals": "\nOromo (Harar)",
+    "wals other": "\nEastern Oromo\nHarar\nHarar Oromo\nHarar of Dirre Dawa town\nOromo\nOromo (Dirre Dawa Harar)",
+    "ruhlen (1987)": "\nOromo (Eastern)",
+    "moseley & asher (1994)": "\nOromo",
+    "multitree": "\n\"Kwottu\"\n\"Qottu\"\n\"Qotu\" Oromo\n\"Quottu\"\n\"Qwottu\"\nEastern\nEastern Oromo\nHarar\nHarer\nIttu\nOromo\nOromo (Harar)\nOromo Proper\nOromo, Eastern",
+    "lexvo": "\nEastern Oromo [en]\nEastern Oromo language [en]",
+    "hhbib_lgcode": "\nBarentu (or eastern or Hararge) dialect as spoken in Dirree-Dhowaa-Bisidiimoo-Jijjiga-Chercher areas\nDire Dawa\nDire Dawa/Harar\nGalla from Jarosseau\nGalla in Harar\nHarar\nHarar Oromo\nMostly Harar Oromo\nMostly based on Cahagne's Bible translations of Harar Oromo\nN Oromo\nNo dialect stated but data\nNorth Oromo\nOromo dialect not specified in Bader 2006 but examples show a North or East variety\nOromo of Bitima (2000) where no dialect is stated but data\nOromo-Eastern\nOromonica of Chiarini 1887\nRaayaa Oromo in Tigre\nRaya\nRaya dialect as spoken in the Alemata area\nRayya\nWallo\nWollo\nWolo\nWolo dialect as spoken in Baatee area"
+  },
+  "triggers": {
+    "lgcode": "\ngoldgrube\nnozioni\ngallasprache\ndethiopien\neinfuhruing\nraayaa\noromonica"
+  },
+  "identifier": {
+    "wals": "orh",
+    "multitree": "hae"
+  },
+  "classification": {
+    "sub": "**hh:hv:Janko:Afaan-Oromo**",
+    "subrefs": "\n**hh:hv:Janko:Afaan-Oromo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Oromo, Eastern (hae-hae) = 5 (Developing)."
+  }
+}

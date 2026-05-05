@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kharam Naga",
+    "hid": "kfw",
+    "level": "language",
+    "iso639-3": "kfw",
+    "latitude": "25.2738",
+    "longitude": "94.0503",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Kharam Naga](https://grambank.clld.org/languages/khar1288)\nhttps://en.wikipedia.org/wiki/Kharam_language\nhttps://www.wikidata.org/entity/Q12952906"
+  },
+  "classification": {
+    "sub": "Data in **hh:g:Singh:Kharam** is closest to the Central Old Kuki group",
+    "subrefs": "\n**hh:g:Singh:Kharam**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Singh:Kharam**\n**hh:h:Grierson:Chote-Muntuk-Karum**\n**hh:h:Haokip:Kuki-Chin**"
+  },
+  "altnames": {
+    "multitree": "\nDuisalongmei\nNaga, Kharam\nNaga,Kharam\nThinglong",
+    "lexvo": "\nKharam Naga [en]",
+    "hhbib_lgcode": "\nChote/Muntuk/Karum no data\nKharam"
+  },
+  "triggers": {
+    "lgcode": "\nchote\nkarum\nthe AND kato\nmuntuk"
+  },
+  "identifier": {
+    "multitree": "kfw"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Naga, Kharam (kfw-kfw) = 5 (Developing)."
+  }
+}

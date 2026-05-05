@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Laamtuk Thet",
+    "hid": "tcp",
+    "level": "language",
+    "iso639-3": "tcp",
+    "latitude": "22.4996",
+    "longitude": "94.0957",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Thor_language\nhttps://www.wikidata.org/entity/Q7689338"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:hv:VanBik:Proto-Kuki-Chin:2009**\n**hh:phonvw:Mang:Thor-Hakha**"
+  },
+  "altnames": {
+    "multitree": "\nChin, Tawr\nChin,Tawr\nTawr\nTorr",
+    "lexvo": "\nTawr Chin [en]",
+    "hhbib_lgcode": "\nChin-Tawr\nThor"
+  },
+  "identifier": {
+    "multitree": "tcp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chin, Tawr (tcp-tcp) = 6a (Vigorous)."
+  }
+}

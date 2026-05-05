@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wymysorys",
+    "hid": "wym",
+    "level": "language",
+    "iso639-3": "wym",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PL"
+    ],
+    "longitude": "19.15195",
+    "latitude": "49.91617",
+    "links": "\nhttps://en.wikipedia.org/wiki/Wymysorys\nhttps://phoible.org/languages/wymy1235\nhttps://www.wikidata.org/entity/Q56485"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Gara:Wilamowskiego**\n**hh:d:Mojmir:Wilamowice**\n**hh:s:AndrasonKrol:Wymysorys:2016**\n**hh:s:Kleczkowski:Wilamowic**\n**hh:st:Wicherkiewicz:Wilamowice**\n**hh:typ:Andrason:Wilamowskiego**\n**hh:v:Ritchie:Wymysorys**\n**hh:w:Krol:Wilamowice**\n**iso6393:2006-121**"
+  },
+  "altnames": {
+    "multitree": "\nVilamovian\nWilamowicean\nWymysorys",
+    "lexvo": "\nIdioma vilamoviciano [es]\nJęzyk wilamowski [pl]\nLingua vilamoviana [it]\nVilamovian language [en]\nVilamovica lingvo [eo]\nVilamovština [cs]\nVimisojerių kalba [lt]\nVimisoyeg [br]\nViļamoviešu valoda [lv]\nVėmėsojeriu kalba [lt]\nVımısörışa tili [crh]\nWilamowicien [fr]\nWilamowiciskt [fo]\nWilamowičina [sk]\nWilamowsko godka [szl]\nWilamowytsersk [fy]\nWilamowšćina [hsb]\nWilmesaurisch [de]\nWilmesausch [nds]\nWymysorys [en]\nWymysörisk [no]\nWymysöryś [nl]\nВилямовский язык [ru]\nВілямівська мова [uk]\n비미소리쉬어 [ko]",
+    "hhbib_lgcode": "\nWilamowic"
+  },
+  "triggers": {
+    "lgcode": "\nwilamowice\ngalicji\nwilamowic\nzachodniej"
+  },
+  "identifier": {
+    "multitree": "wym"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen** **hh:hv:Kloss:Dialektgebiete** **hh:hv:Beider:Yiddish-Origins**",
+    "subrefs": "\n**hh:hv:Kloss:Dialektgebiete**\n**hh:hv:Beider:Yiddish-Origins**\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Vilamovian (1474-wym) = Severely endangered"
+  }
+}

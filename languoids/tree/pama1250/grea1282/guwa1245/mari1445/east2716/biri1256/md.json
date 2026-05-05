@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Biri",
+    "hid": "bzr",
+    "level": "language",
+    "iso639-3": "bzr",
+    "latitude": "-20.1494",
+    "longitude": "146.67",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Biri](https://collection.aiatsis.gov.au/austlang/language/e56)\n[Biri](https://endangeredlanguages.com/lang/6657)\n[Biri](https://grambank.clld.org/languages/biri1256)\n[Biri](https://lexibank.clld.org/languages/bowernpny-Biri)\n[Biri](https://wals.info/languoid/lect/wals_code_bii)\nhttps://en.wikipedia.org/wiki/Biri_language\nhttps://phoible.org/languages/biri1256\nhttps://www.wikidata.org/entity/Q4087011",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:198**\n**cldf:prost:73**\n**cldf:thieberger:96**\n**hh:hv:Breen:Biri**\n**hh:hv:Schmidt:Australischen**\n**hh:hv:Sutton:Gugu-Badhun**\n**hh:hv:Terrill:Biri-Dialects**\n**hh:hv:Terrill:Biri:1993**\n**hh:hvw:Barrett:Maric**\n**hh:hvwphon:Holmer:South-Eastern-Queensland**\n**hh:s:Terrill:Biri**\n**hh:w:Anonymous:Logan**\n**hh:w:Armit:Dalrymple**\n**hh:w:Brisbane:Charters-Towers**\n**hh:w:Chatfield:Cape-River**\n**hh:w:Curr:Porters-Range**\n**hh:w:Hodgkinson:Aminungo**\n**hh:w:Hodgkinson:Burdekin-River**\n**hh:w:Kent:Upper-Burdekin**\n**hh:w:MacKenzie:Australian**\n**hh:w:Macglashan:Belyando-Cape**\n**hh:w:MuirheadLowe:Belyando-River**\n**hh:w:Murray:Brown-River**\n**hh:w:Scott:Burdekin**\n**hh:w:TompsonChatfield:Natal**\n**hh:w:Tour:Cape-River**\n**hh:w:deBeuzeville:Yuckaburra**\n**ozbib:1098**\n**ozbib:3838**\n**ozbib:423**\n**ozbib:5612**"
+  },
+  "altnames": {
+    "wals": "\nBiri",
+    "ruhlen (1987)": "\nBiri",
+    "moseley & asher (1994)": "\nBiri",
+    "multitree": "\nBiri\nBiria\nBiriaba\nBirigaba\nBirri Gubba\nBreeaba\nJuipera\nPerembba\nPerenbba\nWidi\nWierdi\nWiriwiri\nWirri",
+    "lexvo": "\nBiri [en]",
+    "hhbib_lgcode": "\nAminungo\nBaradha\nBaranha\nBarna\nBirri\nBrown River\nGabulbarra\nGaraynbal\nMamburra\nMay be Yilba\nMiyan\nNarboo Murre\nProbably Biri\nRest is Yilba\nUnlocated Biri\nWadja\nWirri\nYambina\nYangga\nYetimarala\nYilba\nYiningayi-Douglas 1900\nYuwibarra-Biri",
+    "elcat": "\nBiri\nBiria\nBiriaba\nBirigaba\nBirri Gubba\nBreeaba\nGaringbal\nJuipera\nPerembba\nPerenbba\nWidi\nWierdi\nWiriwiri\nWirri",
+    "aiatsis": "\nBiragaba\nBiri\nBiria\nBiriaba\nBirigaba\nBirri Gubba\nBreeaba\nPerembba\nPerenbba\nWiri"
+  },
+  "triggers": {
+    "lgcode": "\naustralia AND biri"
+  },
+  "identifier": {
+    "wals": "bii",
+    "multitree": "bzr-bir;bzr",
+    "endangeredlanguages": "6657"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sutton:Gugu-Badhun** **hh:hvw:Barrett:Maric**",
+    "subrefs": "\n**hh:hv:Sutton:Gugu-Badhun**\n**hh:hvw:Barrett:Maric**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Biri (6657) = Awakening [n.a. n.d.](cldf:np:nd:198)"
+  }
+}

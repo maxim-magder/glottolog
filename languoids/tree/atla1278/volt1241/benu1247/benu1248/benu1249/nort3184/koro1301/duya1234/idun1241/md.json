@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Dũya",
+    "hid": "ldb",
+    "level": "language",
+    "iso639-3": "ldb",
+    "latitude": "9.12585",
+    "longitude": "7.77525",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914441\nhttps://en.wikipedia.org/wiki/Idun_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2948**\n**hh:g:Marggrander:Duya**\n**hh:hvld:Gerhardt:Plateaus:1983**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:typ:Wayo:Duya**\n**hh:w:Blench:Idu**\n**iso6393:2011-028**"
+  },
+  "altnames": {
+    "multitree": "\nAdong\nIdun\nLungu\nUngu",
+    "lexvo": "\nIdun [en]",
+    "hhbib_lgcode": "\nDuya\nIdun\nLungu",
+    "glottolog": "\nIdun"
+  },
+  "triggers": {
+    "lgcode": "\nwordlist AND id"
+  },
+  "identifier": {
+    "multitree": "ldb"
+  },
+  "classification": {
+    "sub": "**hh:g:Marggrander:Duya**:3",
+    "subrefs": "\n**hh:g:Marggrander:Duya**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Duya (ldb-ldb) = 6b (Threatened)."
+  }
+}

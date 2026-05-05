@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Caddo",
+    "hid": "cad",
+    "level": "language",
+    "iso639-3": "cad",
+    "latitude": "33.33",
+    "longitude": "-93.5",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Caddo](https://endangeredlanguages.com/lang/1678)\nhttps://www.wikidata.org/entity/Q56756\nhttps://en.wikipedia.org/wiki/Caddo_language\nhttps://phoible.org/languages/cadd1256\n[Caddo](https://wals.info/languoid/lect/wals_code_cad)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chafe:76**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:griffith:54**\n**cldf:lewis:ed:09**\n**cldf:melnar:04**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:parson:41**\n**cldf:parsons:41**\n**cldf:rogers:sabo:etal:04**\n**cldf:spier:24**\n**cldf:swanton:42:2**\n**hh:e:RogersSabo:Caddo**\n**hh:hv:Chafe:Caddoan**\n**hh:hv:Chafe:Siouanetc**\n**hh:s:Chafe:Caddo**\n**hh:s:Chafe:Caddo:1976**\n**hh:s:Melnar:Caddo**\n**hh:std:Chafe:Caddo**\n**hh:t:Chafe:Caddo**\n**hh:w:Marcy:Caddo-Wichita**\n**mpieva:2005Nativela**\n**mpieva:Melnar2004Caddover**"
+  },
+  "altnames": {
+    "wals": "\nCaddo",
+    "ruhlen (1987)": "\nCaddo",
+    "moseley & asher (1994)": "\nCaddo",
+    "multitree": "\nCaddo\nCaddoe\nCado\nKado\nKadohadacho\nNanatsaho\nPetit Caddo\nUpper Nasoni",
+    "lexvo": "\nCaddo [en]\nCaddo language [en]\nKadoeg [br]\ncaddo [fr]",
+    "hhbib_lgcode": "\nCaddoan",
+    "elcat": "\nCaddo\nCaddoe\nKado\nKadohadacho\nNanatsaho\nPetit Caddo\nUpper Nasoni"
+  },
+  "triggers": {
+    "lgcode": "\ncaddo"
+  },
+  "identifier": {
+    "wals": "cad",
+    "multitree": "cad",
+    "endangeredlanguages": "1678"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Parks:Northern-Caddoan**",
+    "subrefs": "\n**hh:hvw:Parks:Northern-Caddoan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Caddo (1678-cad) = Critically Endangered (100 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

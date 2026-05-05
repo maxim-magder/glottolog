@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Zinza",
+    "hid": "zin",
+    "level": "language",
+    "iso639-3": "zin",
+    "latitude": "-2.64132",
+    "longitude": "32.1755",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Zinza](https://grambank.clld.org/languages/zinz1238)\nhttps://en.wikipedia.org/wiki/Zinza_language\nhttps://phoible.org/languages/zinz1238\nhttps://www.wikidata.org/entity/Q8072460"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:taylor:62:2**\n**eballiso2009:13006**\n**eballiso2009:14805**\n**eballiso2009:18484**\n**eballiso2009:18485**\n**eballiso2009:19092**\n**eballiso2009:19555**\n**eballiso2009:24961**\n**eballiso2009:27246**\n**eballiso2009:27964**\n**eballiso2009:28707**\n**eballiso2009:30800**\n**eballiso2009:30801**\n**eballiso2009:30803**\n**eballiso2009:38713**\n**eballiso2009:45346**\n**eballiso2009:49240**\n**eballiso2009:50699**\n**eballiso2009:53642**\n**eballiso2009:54257**\n**eballiso2009:7057**\n**hh:d:Rubanza:Lizinza**\n**hh:ew:Kollmann:Victoria**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Taylor:WLacustrine**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hwsoc:BradshawOdom:Kara-Kerewe**\n**hh:ld:Rehse:Bazinza**\n**hh:ldsoc:Rwakakindo:Kisubi**\n**hh:s:Odom:Zinza**\n**hh:s:Seidel:Usindja**\n**hh:typ:Rwakakindo:Kisubi**\n**hh:typ:Rwakakindo:Kisubi-Possessive**\n**hh:typ:Rwakakindo:Kisubi-Possessive-Simple**\n**hh:v:Kulwa:Zinza**\n**sil16:49051**"
+  },
+  "altnames": {
+    "multitree": "\nDzinda\nDzindza\nEchidzindza\nEchijinja\nEcizinza\nJinja\nKizinza\nZinja\nZinza",
+    "lexvo": "\nZinza [en]",
+    "hhbib_lgcode": "\nEkiZinza\nJE23_Zinza\nKi-Ussindja\nKisubi closest to Zinza\nZinza J23"
+  },
+  "triggers": {
+    "lgcode": "\nusindja\nrutaran\nwazinza\nuzinza\nbuzinza\nluzinza\nbazinza\nzinza\nbabinza"
+  },
+  "identifier": {
+    "multitree": "zin"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schoenbrun:Great-Lakes-Bantu**, **hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**",
+    "subrefs": "\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zinza (zin-zin) = 6b (Threatened)."
+  }
+}

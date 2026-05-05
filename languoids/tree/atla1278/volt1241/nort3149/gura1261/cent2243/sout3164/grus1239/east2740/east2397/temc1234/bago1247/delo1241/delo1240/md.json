@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Delo",
+    "hid": "ntr",
+    "level": "language",
+    "iso639-3": "ntr",
+    "latitude": "7.90997",
+    "longitude": "0.59728",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH",
+      "TG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Delo_language\nhttps://www.wikidata.org/entity/Q35195"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Froelich:Nord-Togo**\n**hh:hlde:Clerk:Hinterlandern-Togo**\n**hh:hvld:Kleinewillinghofer:Sudost-Gurunsi**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:phon:Jones:Dilo**\n**hh:s:Westermann:Cala-Delo-Bago**\n**sil16:22256**\n**sil16:32032**\n**sil16:32033**\n**sil16:39629**\n**sil16:39630**\n**sil16:39631**\n**sil16:41226**"
+  },
+  "altnames": {
+    "multitree": "\nDelo\nNtribou\nNtribu\nNtrubo\nTribu",
+    "lexvo": "\nDelo [en]",
+    "hhbib_lgcode": "\nDilo\nDulo\nNtribo de Dilo-Se\nNtribou\nTribu"
+  },
+  "triggers": {
+    "lgcode": "\ndilo\nng{aale\nwoseman\nng{on\nsusui"
+  },
+  "identifier": {
+    "multitree": "ntr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manessy:Gurunsi** **hh:hb:Kleinewillinghofer:Gurunsi**",
+    "subrefs": "\n**hh:hv:Manessy:Gurunsi**\n**hh:hb:Kleinewillinghofer:Gurunsi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Delo (ntr-ntr) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "core": {
+    "name": "Situ",
+    "hid": "tzi",
+    "level": "language",
+    "latitude": "31.590536",
+    "longitude": "102.660664",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Gyarong (Cogtse)](https://wals.info/languoid/lect/wals_code_gyc)\n[Situ](https://grambank.clld.org/languages/situ1238)\n[rGyalrong (Ganzi Danba Badi Munashan)](https://lexibank.clld.org/languages/naganorgyalrongic-GanziDanbarGyalrong)\n[rGyalrong_Maerkang](https://lexibank.clld.org/languages/sagartst-MaerkangrGyalrong)\nhttps://en.wikipedia.org/wiki/Situ_language\nhttps://www.wikidata.org/entity/Q19840830"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nagano:03**\n**cldf:zhang:20**\n**elpub:ldd53**\n**gj:bauman75**\n**gj:btsanlha09dict**\n**gj:chang68gyarung**\n**gj:chang75gyarung**\n**gj:dai92suomo**\n**gj:delancey81direction**\n**gj:delancey81ergativity**\n**gj:hsieh99zhuokeji**\n**gj:huangsun02**\n**gj:jacques03s.houzhui**\n**gj:jin49jyarung**\n**gj:jin57suomo**\n**gj:jin58suomo**\n**gj:lin02dimension**\n**gj:mansier83tsenla**\n**gj:nagano03cogtse**\n**gj:nagano84**\n**gj:ngagdbang10gtamdpe**\n**gj:qu83rencheng**\n**gj:wei01ka**\n**gj:wen40paslok**\n**gj:yanmuchu05houzhui**\n**gj:yanmuchu05sa**\n**gj:yanmuchu06hechengci**\n**gj:youjing03zhuokeji**\n**hh:d:HuangSun:Jiarong**\n**hh:d:NaganoPrins:bTsanlha**\n**hh:g:Nagano:Bhola**\n**hh:g:Nagano:Bhola:2021**\n**hh:g:Prins:rGyalrong-Jiaomuzu**\n**hh:g:Prins:rGyalrong-Jiaomuzu:2016**\n**hh:g:Zhang:Situ**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hwdial:Gates:Jiarong**\n**hh:phon:Lin:Zhuokeji**\n**hh:phon:Mansier:Gyarong-Tsenla**\n**hh:s:Guan:Jiarong:2007**\n**hh:s:Lin:Jiarong**\n**hh:s:Nagano:Cogtse**\n**hh:s:Nagano:Cogtse:2017**\n**hh:s:Peng:Jyarung**\n**hh:s:Peng:Jyarung:1957**\n**hh:s:Qu:Jiarong**\n**hh:s:Wolfenden:Jyarung**\n**hh:s:Zhang:Situ**\n**hh:st:Lin:Zhuokeji**\n**hh:styp:Nagano:Rgyarong**\n**hh:typ:Lin:Zhuokeji**\n**hh:typ:Lin:Zhuokeji:2009**\n**hh:typ:Sun:Sastod-Rgyalrong**\n**hh:w:Hodgson:Sifan-Horsok**\n**hh:w:vonRosthorn:Ost-Tibetischer**\n**iso6393:2011-155**\n**iso6393:2011-178**\n**iso6393:2016-027**"
+  },
+  "triggers": {
+    "lgcode": "\ntsa\nkyom\njyarong\nsuomohua\njyarung\ngyarong\njiaomuzu\nrgyarong\nbtsanlha\nkyo\nzhuokeji\nkou"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Sun:rGyalrong** **hh:hwdial:Gates:Jiarong**",
+    "subrefs": "\n**hh:hvld:Sun:rGyalrong**\n**hh:hwdial:Gates:Jiarong**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBhola\nBrag-dbar\nCogtse Gyarong\nGyarung\nJiaomuzu\nJiarong Zhuokeji in Ma'erkang\nJyarung\nKyom-kyo\nKyomkyo\nLis County\nLixian\nMola Gyalrong\nPati\nSastod\nSitu rGyalrong\nSouth-central rGyalrong\nSuomo Jiarong\nTsa-kou-nao\nWassu\nZagu\nZhuokeji\nZhuókèjī/lCog-rtse\nZhuōkèjī\nmBola in Ma'erkang\nrGyalrong bTsanlha\nrGyalrong-Zhuokeji/lCog-rtse"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E28",
+    "date": "2025-03-19T11:52:53",
+    "comment": "Jiarong (jya-tzi) = 6a (Vigorous)."
+  }
+}

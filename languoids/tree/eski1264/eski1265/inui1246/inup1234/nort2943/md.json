@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "North Alaskan Inupiatun",
+    "hid": "esi",
+    "level": "language",
+    "iso639-3": "esi",
+    "latitude": "69.582",
+    "longitude": "-143.77",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Iñupiaq](https://wals.info/languoid/lect/wals_code_inu)\n[North Alaskan Inupiatun](https://lexibank.clld.org/languages/johanssonsoundsymbolic-NorthAlaskanInupiatun)\nhttps://phoible.org/languages/nort2943\nhttps://www.wikidata.org/entity/Q30312338"
+  },
+  "sources": {
+    "glottolog": "\n**anla:CA901C1902**\n**anla:G961R1980**\n**anla:IN850W1850**\n**cldf:webster:zibell:70:1**\n**hh:d:Lowe:Uummarmiut**\n**hh:d:MacLean:Inupiaq**\n**hh:d:WebsterZibell:Inupiat**\n**hh:e:Burch:Kotzebue-Eskimo**\n**hh:e:Hall:Interior-North-Alaska-Eskimo**\n**hh:e:Spencer:North-Alaska-Coast-Eskimo**\n**hh:e:Worl:Inupiat**\n**hh:g:Lowe:Uummarmiut**\n**hh:g:MacLean:Inupiaq**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:phon:Kaplan:North-Alaskan-Inupiaq**\n**hh:phon:Kaplan:North-Alaskan-Inupiaq:1979**\n**hh:s:Panigeo:Eskimo**\n**hh:s:Pederson:Inupiat**\n**hh:styp:MacLean:Inupiaq**\n**mpieva:MacLean1997NorthSlo**\n**mpieva:MacLean2000NorthSlo**\n**sil16:12680**\n**sil16:12681**\n**sil16:12682**\n**sil16:14956**\n**sil16:14958**\n**sil16:14959**\n**sil16:14960**\n**sil16:16522**\n**sil16:20039**\n**sil16:21258**\n**sil16:31496**\n**sil16:39182**"
+  },
+  "altnames": {
+    "wals": "\nIñupiaq",
+    "wals other": "\nInupiaq\nInupiat",
+    "ruhlen (1987)": "\nBering Strait",
+    "multitree": "\n\"Eskimo\"\nAlaskan Inuit\nAlaskan Inupiaq\nEskimo\nInudiatun\nInuit\nInupiaq\nInupiaq de nord de l'Alaska (North Slope)\nInupiaq du nord de l'Alaska  (Golfe de Kotzebue)\nInupiaq du nord de l'Alaska (Canada)\nInupiat\nInupiatun (North Alaskan)\nInupiatun, North Alaskan\nInuí alaskiano septentrional (zona ártica septentrional)\nIñupiaq\nNorth Alaska Inupiaq\nNorth Alaska Iñupiaq\nNorth Alaskan Eskimo\nNorth Alaskan Inupiaq\nNorth Alaskan Inupiat\nNorth Alaskan Inupiatun",
+    "lexvo": "\nNorth Alaskan Inupiatun [en]",
+    "hhbib_lgcode": "\nEsquimaux-Kotzebue's Sound\nInterior North Alaska Eskimo\nInupiatun-North Alaskan\nKotzebue Sound Eskimo\nKotzebue Sound Inuit\nNorth Alaska Coast Eskimo"
+  },
+  "triggers": {
+    "lgcode": "\ninupiat\nuqalungiha\ni{nupiaq\nkalmar\nuummarmiut\nbarrow\nunipkaat\ninupiaq\nuqapiaqta\nilihaurrutikrangit"
+  },
+  "identifier": {
+    "wals": "inu",
+    "multitree": "esi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dorais:Inuit**:1-54",
+    "subrefs": "\n**hh:hv:Dorais:Inuit**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Inupiaq (2369-esi) = Severely Endangered (80 percent certain, based on the evidence available)"
+  }
+}

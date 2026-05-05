@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lolopo",
+    "hid": "ycl",
+    "level": "language",
+    "iso639-3": "ycl",
+    "latitude": "25.50051",
+    "longitude": "101.30185",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Lolopo](https://grambank.clld.org/languages/lolo1259)\nhttps://en.wikipedia.org/wiki/Lolopo_language\nhttps://www.wikidata.org/entity/Q56441"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Merrifield:Yaoan**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hphon:Wang:Yi**\n**hh:hv:Yang:Lolo**\n**hh:hvw:Chenetal:Yi**\n**hh:hvw:Lama:Nisoic**\n**hh:hvw:Zhu:Yi**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hw:Ollone:Chine**\n**hh:hwsoc:Gao:Yunnan**\n**hh:phon:Merrifield:Yaoan**\n**hh:s:Chenetal:Yi**\n**hh:vw:Hayashi:Roro-po**\n**hh:w:Bufan:Zangmian**\n**hh:w:CXMW:Chuxiong**\n**hh:w:Lietard:Lo-Lo**\n**hh:w:Lietard:Yun-nan**\n**hh:w:Madrolle:Lo-Lo**\n**iso6393:2007-069**\n**iso6393:2010-031**"
+  },
+  "altnames": {
+    "multitree": "\nLolo\nLolopho\nLolopo\nYi\nYi, Central",
+    "lexvo": "\nLolopo [en]",
+    "hhbib_lgcode": "\n26 Lolopo-Lolo-Ijen-Djokoula NE de Talifou in Yun nan\nCentral Dialect\nE. Lalu (Xinping)\nLo-lo P'o\nLolo\nLolopho\nLolopo a Djo-kou-la 550-6\nNanhua\nNanhua Yi\nNanhua-Xinping-S Xiangyun Lolo\nQiangyi (N Qianqyun)\nRoro po\nT'ou-kia près par Liétard chez les aborigines Lo-lo-p'o du village de Djo-kou-la\nYao'an\nYao'an Yi\nYao'an cluster Lolo\nYao'an yi\nYi Nanhua\nYi-Nanhua\nYongren (Lolopo)\nlolopo"
+  },
+  "triggers": {
+    "lgcode": "\nNOT with AND yiyu\nyaoan"
+  },
+  "identifier": {
+    "multitree": "ycl"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**:153-156 **hh:hv:Bradley:Tibeto-Burman**:101-102",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**\n**hh:hv:Bradley:Tibeto-Burman**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lolopo (ycl-ycl) = 6a (Vigorous). Language of recognized nationality: Yi."
+  }
+}

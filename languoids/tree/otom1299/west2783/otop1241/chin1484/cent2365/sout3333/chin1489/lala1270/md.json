@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lalana Chinantec",
+    "hid": "cnl",
+    "level": "language",
+    "iso639-3": "cnl",
+    "latitude": "17.58251",
+    "longitude": "-96.00645",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Lower Southeastern Chinantec](https://endangeredlanguages.com/lang/9869)\nhttps://www.wikidata.org/entity/Q12953437"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:hv:Rensch:Chinantec**\n**hh:hv:Rensch:Otomanguean**\n**hh:hv:Rensch:Otomanguean-Tlapanec**\n**hh:hv:Rensch:Otomanguean:1976**\n**hh:phon:Mugele:Lalana-Chinantec**\n**hh:t:Fabregas:Chinantecas**\n**sil16:12172**\n**sil16:12174**\n**sil16:12176**\n**sil16:16209**\n**sil16:16210**\n**sil16:16421**\n**sil16:16422**\n**sil16:17376**\n**sil16:17377**\n**sil16:17378**\n**sil16:18853**\n**sil16:22794**"
+  },
+  "altnames": {
+    "multitree": "\nChinantec\nChinantec, Lalana\nChinanteco\nChinanteco de San Juan Lalana\nChinanteko\nLalana\nLalana Chinanteko",
+    "lexvo": "\nLalana Chinantec [en]",
+    "elcat": "\nChinantec\nChinanteco\nChinanteco de San Juan Lalana\nChinanteco del sureste bajo\nChinanteko\nLalana Chinantec\nLower Southeastern Chinantec\njujmi dsa m+ta'o\njujmi dsa maji'i",
+    "hhbib_lgcode": "\nLalana"
+  },
+  "triggers": {
+    "lgcode": "\nballistic\nlalana\nquiee"
+  },
+  "identifier": {
+    "multitree": "cnl",
+    "endangeredlanguages": "9869"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lower Southeastern Chinantec (9869-cnl) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

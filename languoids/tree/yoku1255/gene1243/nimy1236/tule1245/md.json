@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tule-Kaweah Yokuts",
+    "hid": "NOCODE_Tule-Kaweah",
+    "level": "language",
+    "latitude": "36.05354",
+    "longitude": "-118.768616",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Tule-Kaweah Yokuts](https://grambank.clld.org/languages/tule1245)\nhttps://en.wikipedia.org/wiki/Tule%E2%80%93Kaweah_Yokuts\nhttps://www.wikidata.org/entity/Q7851988"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aginsky:43**\n**cldf:baumhoff:63**\n**cldf:beals:hester:58**\n**cldf:cook:55**\n**cldf:driver:37**\n**cldf:gayton:30**\n**cldf:gayton:36**\n**cldf:gayton:45**\n**cldf:gayton:46**\n**cldf:gayton:48:1**\n**cldf:gayton:48:2**\n**cldf:kroeber:25:7**\n**cldf:latta:49**\n**cldf:powers:77**\n**hh:e:Spier:FoothillYokuts**\n**hh:e:Wallace:SYokuts**\n**hh:g:Gamble:Wikchamni**\n**hh:hvb:Golla:California**\n**hh:hvld:Gamble:Yokuts-Pronouns**\n**hh:st:Kroeber:Yokuts**\n**hh:w:Hoffman:Waitshumni**"
+  },
+  "triggers": {
+    "lgcode": "\nkawia\nwaitshumni\nwikchamni"
+  },
+  "identifier": {
+    "multitree": "yok-tlw"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has a Yokuts [yok] entry which subsumes ``many subvarieties''.\nHowever, careful analysis of all extant Yokutsan materials necessitate the division into several related languages, minimally adding three language-level entries (all extinct) to the one found in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29, i.e., Palewyami Yokuts, Buena Vista Yokuts and Tule-Kaweah Yokuts. See also: Yokuts [yok].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Tule-Kaweah"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Tule-Kaweah Yokuts (NOCODE_Tule-Kaweah-NOCODE_Tule-Kaweah) = 8b (Nearly extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nChoynok\nKaweah\nTule\nTule-Kaweah\nWikchamni\nYawdanchi"
+  }
+}

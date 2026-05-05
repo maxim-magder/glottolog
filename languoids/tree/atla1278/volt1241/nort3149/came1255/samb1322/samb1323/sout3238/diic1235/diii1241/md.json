@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Dii",
+    "hid": "dur",
+    "level": "language",
+    "iso639-3": "dur",
+    "latitude": "7.77412",
+    "longitude": "13.9884",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Dii](https://wals.info/languoid/lect/wals_code_ygd)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bohnhoff:boyd:03**\n**eballiso2009:19144**\n**eballiso2009:31264**\n**eballiso2009:31299**\n**eballiso2009:31304**\n**eballiso2009:47121**\n**eballiso2009:48660**\n**eballiso2009:54754**\n**hh:d:Bohnhoff:Dii**\n**hh:d:Bohnhoff:Dii:2019**\n**hh:g:Bohnhoff:Dii**\n**hh:hvw:Boyd:Adamawa**\n**hh:hvw:Boyd:Adamawa:1988**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Strumpell:Adamauas**\n**hh:s:Bohnhoff:Duru**\n**hh:soc:Yaya:Dii**\n**hh:typ:Altebockwinkel:Dii**\n**hh:typ:Bohnhoff:Duru-Pronouns**\n**hh:typ:Dalrymple:Yag-Dii**\n**sil16:16245**\n**sil16:18774**\n**sil16:34131**"
+  },
+  "altnames": {
+    "wals": "\nYag Dii",
+    "wals other": "\nDuru",
+    "ruhlen (1987)": "\nDii",
+    "moseley & asher (1994)": "\nDuru",
+    "multitree": "\nDii\nDourou\nDurru\nDuru\nNyag Dii\nYag Dii\nZaa",
+    "lexvo": "\nDii [en]",
+    "hhbib_lgcode": "\nDouro\nDouro-Pani\nDurru (Süd)\nDuru Holnbali\nDuru Mbukma\nDuru Sakjé\nDuru Vurnia\nDuru de Tugon (Mam'na?)\nNord)"
+  },
+  "triggers": {
+    "lgcode": "\nyag\nNOT pp AND duru"
+  },
+  "identifier": {
+    "wals": "ygd",
+    "multitree": "diix;dur"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kleinewillinghofer:Samba-Duru**",
+    "subrefs": "\n**hh:hv:Kleinewillinghofer:Samba-Duru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dii (dur-dur) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Samosa",
+    "hid": "swm",
+    "level": "language",
+    "iso639-3": "swm",
+    "latitude": "-5.01391",
+    "longitude": "145.537",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Samosa](https://endangeredlanguages.com/lang/2648)\n[Samosa](https://lexibank.clld.org/languages/transnewguineaorg-samosa)\n[samosa](https://lexibank.clld.org/languages/zgraggenmadang-samosa)\nhttps://en.wikipedia.org/wiki/Samosa_language\nhttps://www.wikidata.org/entity/Q7410037"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "altnames": {
+    "multitree": "\nSamosa",
+    "lexvo": "\nSamosa [en]",
+    "elcat": "\nSamosa"
+  },
+  "triggers": {
+    "lgcode": "\nmabuso"
+  },
+  "identifier": {
+    "multitree": "swm",
+    "endangeredlanguages": "2648"
+  },
+  "classification": {
+    "sub": "**hh:hw:Zgraggen:Mabuso**",
+    "subrefs": "\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Samosa (2648-swm) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

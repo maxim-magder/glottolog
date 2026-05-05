@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Pangkhua",
+    "hid": "pkh",
+    "level": "language",
+    "iso639-3": "pkh",
+    "latitude": "22.4124",
+    "longitude": "92.4581",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Pankhu](https://endangeredlanguages.com/lang/4971)\nhttps://www.wikidata.org/entity/Q7130962\nhttps://en.wikipedia.org/wiki/Pangkhu_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:ew:Barbe:Interior-Chittagong**\n**hh:ew:Farid:Pangkhua**\n**hh:g:Akter:Pangkhua**\n**hh:g:Akter:Pangkhua:2024**\n**hh:h:Bernot:Chittagong:1960**\n**hh:h:Mills:Chittagong**\n**hh:he:Bessaignet:Chittagong**\n**hh:hew:Lewin:Chittagong**\n**hh:hvw:Grierson:3:III**\n**hh:s:Akter:Pangkhua**\n**hh:typ:Akter:Pangkhua**\n**hh:w:Loffler:Paangkua**\n**hh:wsoc:Kimetal:Kuki-Chin**"
+  },
+  "altnames": {
+    "multitree": "\nPaang\nPang\nPang Khua\nPangkhu\nPangkhua\nPankho\nPankhu\nPankhua\nPanko\nPankua",
+    "lexvo": "\nPankhu [en]",
+    "hhbib_lgcode": "\nBunzoo\nBunzoo is actually Pangkhua (Reichle 1981: 4)\nPangkhua\nPankho\nPankho Kukis\nPankhu\nPanku",
+    "elcat": "\nPaang\nPang\nPang Khua\nPangkhu\nPangkhua\nPankho\nPankhu\nPankhua\nPanko\nPankua",
+    "glottolog": "\nPankhu"
+  },
+  "triggers": {
+    "lgcode": "\npaangkhua"
+  },
+  "identifier": {
+    "multitree": "pkh",
+    "endangeredlanguages": "4971"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pankhu (4971-pkh) = Vulnerable (80 percent certain, based on the evidence available) [Kim et al. 2011](cldf:kim:roy:etal:11)"
+  }
+}

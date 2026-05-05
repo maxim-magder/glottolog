@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Hmar",
+    "hid": "hmr",
+    "level": "language",
+    "iso639-3": "hmr",
+    "latitude": "24.7534",
+    "longitude": "93.5497",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Hmar](https://endangeredlanguages.com/lang/5638)\n[Hmar](https://wals.info/languoid/lect/wals_code_hma)\nhttps://en.wikipedia.org/wiki/Hmar_language\nhttps://www.wikidata.org/entity/Q2992841"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:duttabaruah:bapui:96**\n**cldf:grierson:ed:95:6**\n**cldf:np:01:1**\n**hh:d:Bapui:Hmar**\n**hh:d:Bapui:Hmar:2012**\n**hh:d:Pudaite:Hmar**\n**hh:d:Thanglung:Hmar**\n**hh:e:Bordoloi:Assam**\n**hh:ew:Borah:Hmars**\n**hh:g:DuttaBaruahBapui:Hmar**\n**hh:g:Infimate:Hmar**\n**hh:hvphon:Devi:Hmar-PaiteVaiphei**\n**hh:hvw:Grierson:3:III**\n**hh:ld:Bapui:Thiek**\n**hh:s:Ngurte:Hmar**\n**mpieva:Baruah1996Hmargram**\n**mpieva:Dutta1996Hmargram**"
+  },
+  "altnames": {
+    "wals": "\nHmar",
+    "ruhlen (1987)": "\nHmar",
+    "moseley & asher (1994)": "\nHmar",
+    "multitree": "\nHamar\nHmar\nHmari\nMhar",
+    "lexvo": "\nHmar [en]\nHmar language [en]\nภาษาฮมาร์ [th]",
+    "hhbib_lgcode": "\nHmars\nKhawsak\nKhosak\nMhar\nThiek",
+    "elcat": "\nHamar\nHmar\nHmari\nMhar"
+  },
+  "triggers": {
+    "lgcode": "\nhmar"
+  },
+  "identifier": {
+    "wals": "hma",
+    "multitree": "hmr",
+    "endangeredlanguages": "5638"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin** **hh:g:DuttaBaruahBapui:Hmar**:3 **hh:hvphon:Haokip:Barak** **hh:hv:Rufenacht:Northwestern**:39-40",
+    "subrefs": "\n**hh:hv:Rufenacht:Northwestern**\n**hh:hvphon:Haokip:Barak**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:g:DuttaBaruahBapui:Hmar**\n**hh:hv:Peterson:Kuki-Chin:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hmar (5638-hmr) = Vulnerable (60 percent certain, based on the evidence available) [Haokip 2011](cldf:haokip:11:2)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Krim",
+    "hid": "krm",
+    "level": "dialect",
+    "iso639-3": "krm",
+    "latitude": "7.24116",
+    "longitude": "-11.8393",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SL"
+    ],
+    "links": "\n[Krim](https://endangeredlanguages.com/lang/365)\n[Krim](https://grambank.clld.org/languages/krim1238)\nhttps://en.wikipedia.org/wiki/Krim_language\nhttps://phoible.org/languages/krim1238\nhttps://www.wikidata.org/entity/Q35713"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3895**\n**cldf:childs:06**\n**cldf:childs:07**\n**cldf:childs:12**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:np:12:5**\n**cldf:pichl:71**\n**eballiso2009:11152**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:12144**\n**eballiso2009:13967**\n**eballiso2009:13968**\n**eballiso2009:18011**\n**eballiso2009:20350**\n**eballiso2009:21333**\n**eballiso2009:25760**\n**eballiso2009:25766**\n**eballiso2009:25772**\n**eballiso2009:25777**\n**eballiso2009:2741**\n**eballiso2009:2742**\n**eballiso2009:29167**\n**eballiso2009:31609**\n**eballiso2009:31778**\n**eballiso2009:32574**\n**eballiso2009:34650**\n**eballiso2009:36459**\n**eballiso2009:36460**\n**eballiso2009:36461**\n**eballiso2009:36462**\n**eballiso2009:36465**\n**eballiso2009:36467**\n**eballiso2009:36468**\n**eballiso2009:38014**\n**eballiso2009:40926**\n**eballiso2009:48457**\n**eballiso2009:4967**\n**eballiso2009:52077**\n**eballiso2009:60159**\n**eballiso2009:6555**\n**eballiso2009:7393**\n**eballiso2009:7398**\n**eballiso2009:773**\n**eballiso2009:774**\n**eballiso2009:8709**\n**eballiso2009:8728**\n**eballiso2009:904**\n**eballiso2009:9196**\n**eballiso2009:9908**\n**iso6393:2016-015**\n**weball:16489**\n**weball:23224**\n**weball:3640**\n**weball:5709**\n**weball:8052**\n**weball:8071**\n**weball:8072**\n**weball:8177**\n**weball:8313**"
+  },
+  "altnames": {
+    "multitree": "\nBullom\nKim\nKimi\nKirim\nKittim\nKrim",
+    "lexvo": "\nKrim [en]\nKrim language [en]\nKrimeg [br]",
+    "elcat": "\nKim\nKimi\nKirim\nKittim\nKrim"
+  },
+  "triggers": {
+    "lgcode": "\nbullom\nkrim"
+  },
+  "identifier": {
+    "multitree": "krm",
+    "endangeredlanguages": "365"
+  },
+  "iso_retirement": {
+    "change_request": "2016-015",
+    "remedy": "Merge into [bmf] Bom",
+    "code": "krm",
+    "name": "Krim",
+    "effective": "2017-01-31",
+    "reason": "merge",
+    "change_to": "\nbmf"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Krim (365-krm) = Critically Endangered (60 percent certain, based on the evidence available) (There are only a few hundred, all elderly speakers today. No one under fifty speaks the language.) [Childs 2012](cldf:childs:12)"
+  }
+}

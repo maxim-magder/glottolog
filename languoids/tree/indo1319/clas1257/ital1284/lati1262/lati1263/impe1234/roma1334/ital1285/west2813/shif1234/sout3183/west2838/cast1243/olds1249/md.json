@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Old Spanish",
+    "hid": "osp",
+    "level": "language",
+    "iso639-3": "osp",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Old_Spanish\nhttps://www.wikidata.org/entity/Q1088025",
+    "longitude": "-3.9",
+    "latitude": "41.5",
+    "timespan": "1000-01-01/1500-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Penny:Historica-Espanol**\n**hh:s:Dworkin:Old-Spanish**\n**hh:typ:Sitaridou:Old-Spanish**\n**hh:typ:Wanner:Old-Spanish**"
+  },
+  "altnames": {
+    "multitree": "\nOld Castillian\nOld Spanish",
+    "lexvo": "\nOld Spanish [en]",
+    "hhbib_lgcode": "\n11th to 15th century in Spain"
+  },
+  "triggers": {
+    "lgcode": "\nconflicts"
+  },
+  "identifier": {
+    "multitree": "osp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:108-115",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Spanish (osp-osp) = 10 (Extinct)."
+  }
+}

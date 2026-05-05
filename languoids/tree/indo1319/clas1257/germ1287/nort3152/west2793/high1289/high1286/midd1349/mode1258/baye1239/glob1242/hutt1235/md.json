@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Hutterite German",
+    "hid": "geh",
+    "level": "language",
+    "iso639-3": "geh",
+    "latitude": "40.0",
+    "longitude": "-97.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33385\nhttps://en.wikipedia.org/wiki/Hutterite_German"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Hoover:Hutterian**\n**hh:d:Scheer:Hutterischen**\n**hh:e:Hofer:Hutterites**\n**hh:g:Hoover:Hutterian**\n**hh:phon:Wipf:Hutterite**\n**hh:s:Holzman:Hutterian-German**\n**hh:s:Lorenz-Andreasch:Hutterer**\n**hh:v:Scheer:Hutterian**\n**iso6393:2007-178**\n**ludger-paschen-germanic:Lorenz.2004.Hutterer**"
+  },
+  "altnames": {
+    "multitree": "\nGerman, Hutterite\nHutterian German\nTirolean\nTyrolese",
+    "lexvo": "\nAlamaneg an Huterited [br]\nHuterita dialekto [eo]\nHutterisch [en]\nHutterische Sprache [de]\nHutterite German [en]\nHutteritski jezik [hr]\nHuttrisch [pl]",
+    "hhbib_lgcode": "\nHutterite"
+  },
+  "triggers": {
+    "lgcode": "\nhutterite\nhutterischen\nbruder\nhutterian\nnordamerika"
+  },
+  "identifier": {
+    "multitree": "geh"
+  },
+  "classification": {
+    "sub": "**hh:v:Scheer:Hutterian**",
+    "subrefs": "\n**hh:v:Scheer:Hutterian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hutterisch (geh-geh) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Moro",
+    "hid": "mor",
+    "level": "language",
+    "iso639-3": "mor",
+    "latitude": "10.9194",
+    "longitude": "30.2138",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Moro](https://endangeredlanguages.com/lang/4695)\n[Moro](https://grambank.clld.org/languages/moro1285)\n[Moro](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Moro)\n[Moro](https://wals.info/languoid/lect/wals_code_mro)\nhttps://en.wikipedia.org/wiki/Moro_language\nhttps://phoible.org/languages/moro1285\nhttps://www.wikidata.org/entity/Q36172"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:123**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:meinhof:17:2**\n**cldf:np:nd:264**\n**cldf:schadeberg:81:2**\n**eballiso2009:17133**\n**eballiso2009:4787**\n**eballiso2009:59677**\n**hh:e:Lamoureaux:Moro**\n**hh:e:Rottenburg:Moro-Nuba**\n**hh:h:Stevenson:Nuba:1962-1964**\n**hh:hb:Dabitz:Nuba**\n**hh:he:Nadel:Nuba**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Stevenson:Nuba:1975**\n**hh:hvs:Stevenson:Nuba**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Schadeberg:Heiban**\n**hh:nt:Moro**\n**hh:phon:JenksRose:Moro**\n**hh:s:BlackBlack:Moro**\n**hh:s:Kossmann:Moro**\n**hh:soc:Sudan:Umm-Dorein-Murta**\n**hh:typ:Gibbardetal:Moro**\n**hh:typ:Guest:Moro:Noun-Classes**\n**hh:typ:Guest:Moro:Verbs**\n**hh:typ:Jenks:Moro:Copular**\n**hh:typ:Jenks:Moro:Movement**\n**hh:typ:Naser:Moro**\n**hh:w:Meinhof:Moro**"
+  },
+  "altnames": {
+    "wals": "\nMoro",
+    "moseley & asher (1994)": "\nMoro",
+    "multitree": "\nDhimorong\nMoro",
+    "lexvo": "\nMoro [en]",
+    "hhbib_lgcode": "\nKoalib-Moro ie Moro\nUmm Dorein",
+    "elcat": "\nDhimorong\nMoro"
+  },
+  "triggers": {
+    "lgcode": "\naussenwelt\ninnenwelt\nsesam\nengen\nsudkordofan\nrmwa\ndich\noffne\nsudan AND moro"
+  },
+  "identifier": {
+    "wals": "mro",
+    "multitree": "mor",
+    "endangeredlanguages": "4695"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schadeberg:Heiban**",
+    "subrefs": "\n**hh:hvw:Schadeberg:Heiban**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Moro (4695-mor) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

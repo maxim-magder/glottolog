@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kashubian",
+    "hid": "csb",
+    "level": "language",
+    "iso639-3": "csb",
+    "latitude": "54.2996",
+    "longitude": "18.6163",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PL"
+    ],
+    "links": "\n[Kashubian](https://endangeredlanguages.com/lang/3454)\n[Kashubian](https://wals.info/languoid/lect/wals_code_ksu)\n[Slovincian](https://wals.info/languoid/lect/wals_code_svc)\nhttps://en.wikipedia.org/wiki/Kashubian_language\nhttps://www.wikidata.org/entity/Q33690"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cassubian:93**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:karas:nd**\n**cldf:kurylowicz:60**\n**cldf:lehr-splawinski:17**\n**cldf:lewis:ed:09**\n**cldf:lorentz:71**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Ramult:Kaszubskiego**\n**hh:d:Sychta:Kaszubskich**\n**hh:et:Tetzner:Lebakaschuben**\n**hh:g:BrezaTreder:Kaszubska**\n**hh:g:Lorentz:Kaschubischen**\n**hh:g:Lorentz:Pomorska**\n**hh:g:Lorentz:Slovinzinsche**\n**hh:hvld:Stieber:Zachodnio**\n**hh:ldsoc:Hilferding:Ueberreste-Slaven**\n**hh:phon:Biskupski:Kaschuben**\n**hh:phon:Hopkins:Kashubian**\n**hh:s:Cenova:Kasebsko**\n**hh:s:Ceynowa:Kassubische**\n**hh:s:Dulicenko:Kasubskij**\n**hh:s:Lorentz:Kaschubische**\n**hh:s:Makurot:Kaszebsczego**\n**hh:s:Stokhof:Kluki**\n**hh:s:Stone:Cassubian**\n**hh:st:Bronisch:Kaschubische**\n**hh:v:Toby:Kashubian**\n**hh:w:Pallas:Vocabularia**\n**ldh:item_407013**"
+  },
+  "altnames": {
+    "wals": "\nKashubian\nSlovincian",
+    "moseley & asher (1994)": "\nKashubian",
+    "multitree": "\nCashubian\nCassubian\nEslovincio\nKachoube\nKashubian\nKaszubski\nSlovince",
+    "lexvo": "\nBahasa Kasubia [id]\nCachubu [ast]\nCaixubi [ca]\nCashob [oc]\nIdioma caixubio [an]\nIdioma casubio [es]\nJęzyk kaszubski [pl]\nKachoube [fr]\nKachoubeg [br]\nKaschubische Sprache [de]\nKaschubiske Sproake [stq]\nKaschuubsch [nds]\nKashubian [en]\nKashubian language [en]\nKashubiera [eu]\nKasjoebies [af]\nKasjoebisch [li]\nKasjubisk [da]\nKasjubiska [sv]\nKassúbíska [is]\nKasub nyelv [hu]\nKaszubsko godka [szl]\nKaszëbsczi jãzëk [csb]\nKaŝuba lingvo [eo]\nKaşub tili [crh]\nKašobu kalba [lt]\nKašubi [fi]\nKašubska rěc [dsb]\nKašubčina [sk]\nKašubština [cs]\nKašubšćina [hsb]\nKašubščina [sl]\nKašubų kalba [lt]\nKašupski jezik [hr]\nKašuubi keel [et]\nLengua casciuba [lij]\nLimba caşubiană [ro]\nLingua Cassubica [la]\nLingua casciuba [it]\nLingua caxubia [gl]\nLingua kashubya [lad]\nLíngua cassúbia [pt]\nTiếng Kashubian [vi]\nkachoube [fr]\nΚασουμπιανή γλώσσα [el]\nКашоу́бьскъ ѩꙁꙑ́къ [cu]\nКашуб йылме [mhr]\nКашуб чĕлхи [cv]\nКашубская мова [be]\nКашубски език [bg]\nКашубский язык [ru]\nКашубська мова [uk]\nКашупски јазик [mk]\nКашупски језик [sr]\nკაშუბური ენა [ka]\nካሹብኛ [am]\nカシューブ語 [ja]\n卡舒比语 [zh]\n카슈브어 [ko]",
+    "hhbib_lgcode": "\nEast-Slovincian Kluki\nKaschubische\nKaszubisch\nKaszubski\nKaszubskie\nKašubskij\nPomorska",
+    "elcat": "\nCashubian\nCassubian\nKashubian\nKaszubski"
+  },
+  "triggers": {
+    "lgcode": "\npomoranischen\nkaubische\nkaschubische\nkashubian\nslovincian\nslovinzische\ncassubian\nstudiow\nuwaki"
+  },
+  "identifier": {
+    "wals": "svc;ksu",
+    "multitree": "csb",
+    "endangeredlanguages": "3454"
+  },
+  "classification": {
+    "sub": "**hh:hv:Poljakov:Slavic** **hh:vldsoc:Hannan:Teschen-Silesia**:85-130 **hh:hvld:Stieber:Zachodnio**:22-43",
+    "subrefs": "\n**hh:vldsoc:Hannan:Teschen-Silesia**\n**hh:hv:Poljakov:Slavic**\n**hh:hvld:Stieber:Zachodnio**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kashubian (3454-csb) = Vulnerable (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ngbinda-Mayeka",
+    "hid": "nbd",
+    "level": "language",
+    "iso639-3": "nbd",
+    "latitude": "3.27251",
+    "longitude": "23.5669",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Ngbinda](https://endangeredlanguages.com/lang/587)\nhttps://www.wikidata.org/entity/Q11132859\nhttps://en.wikipedia.org/wiki/Ngbinda_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:johnston:19:11**\n**hh:h:Larken:Zande**\n**hh:h:Santandrea:Ghazal**\n**hh:hel:Sommer:Survey**\n**hh:hv:HackettvanBulck:ETeam**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:McMaster:Uele**\n**iso6393:2014-045**"
+  },
+  "altnames": {
+    "multitree": "\nBangbinda\nBungbinda\nNgbinda",
+    "lexvo": "\nNgbinda [en]",
+    "hhbib_lgcode": "\nBangbinda\nBangminda\nBungbinda\nNgbinda\nNgenda\nwords of Larken's Bañgminda are cited throughout vol II",
+    "elcat": "\nBangbinda\nBungbinda\nNgbinda",
+    "glottolog": "\nNgbinda"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND death"
+  },
+  "identifier": {
+    "multitree": "nbd",
+    "endangeredlanguages": "587"
+  },
+  "classification": {
+    "sub": "**hh:hvw:McMaster:Uele**",
+    "subrefs": "\n**hh:hvw:McMaster:Uele**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ngbinda (587-nbd) = Critically Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Niksek",
+    "hid": "gbe",
+    "level": "language",
+    "iso639-3": "gbe",
+    "latitude": "-4.82581",
+    "longitude": "142.45",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Niksek](https://endangeredlanguages.com/lang/10623)\nhttps://www.wikidata.org/entity/Q56375\nhttps://en.wikipedia.org/wiki/Niksek_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:w:Bragge:Niksek**\n**hh:w:Laycock:D28**"
+  },
+  "altnames": {
+    "multitree": "\nMeiyari\nNiksek\nPaka\nSumwari",
+    "lexvo": "\nNiksek [en]",
+    "hhbib_lgcode": "\nGabiano\nPaka\nPaka/Setiali\nSetiali",
+    "elcat": "\nGabiano\nMeiyari\nNiksek\nPaka\nSetiali\nSumwari"
+  },
+  "identifier": {
+    "multitree": "gbe",
+    "endangeredlanguages": "10623"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bruce:Middle-Sepik**:472-519 **hh:hvw:ConradDye:USepik**",
+    "subrefs": "\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:hvw:ConradDye:USepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Niksek (10623-gbe) = Endangered (20 percent certain, based on the evidence available) [Conrad and Lewis 1988](cldf:conrad:lewis:88)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Quinault",
+    "hid": "qun",
+    "level": "language",
+    "iso639-3": "qun",
+    "latitude": "47.4214",
+    "longitude": "-124.16",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3414522\nhttps://en.wikipedia.org/wiki/Quinault_language",
+    "timespan": "1996-01-01/1996-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:olson:36:2**\n**cldf:schalk:78**\n**cldf:willoughby:89**\n**hh:d:Modrow:Quinault**\n**hh:e:Hajda:Southwestern-Coast-Salish**\n**hh:hv:Swadesh:Salish:1950**\n**hh:s:Modrow:Quinault**"
+  },
+  "altnames": {
+    "multitree": "\nKʷínaył\nQueets\nQueniut\nQuinault\nkʷínayɬ",
+    "lexvo": "\nQuinault [en]",
+    "hhbib_lgcode": "\nQuinault Qu"
+  },
+  "triggers": {
+    "lgcode": "\nquinault"
+  },
+  "identifier": {
+    "multitree": "qun-qui;qun;qun-que"
+  },
+  "classification": {
+    "sub": "**hh:hv:Czaykowska-HigginsKinkade:Salish**",
+    "subrefs": "\n**hh:hv:Czaykowska-HigginsKinkade:Salish**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Quinault (795-qun) = Extinct"
+  }
+}

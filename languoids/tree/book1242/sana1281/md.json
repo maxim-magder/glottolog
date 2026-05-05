@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sanapaná (Retired)",
+    "hid": "sap",
+    "level": "language",
+    "iso639-3": "sap",
+    "latitude": "-22.11454",
+    "longitude": "-58.90698",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PY"
+    ],
+    "links": "\n[Sanapaná (Angaité)](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Sanapanaangaite)"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:9425**\n**fabreall2009ann:Enlhet-Enenlhet53**\n**fabreall2009ann:Enlhet-Enenlhet_angaite01**\n**fabreall2009ann:Enlhet-Enenlhet_angaite02**\n**fabreall2009ann:Enlhet-Enenlhet_angaite03**\n**fabreall2009ann:Enlhet-Enenlhet_angaite04**\n**fabreall2009ann:Enlhet-Enenlhet_angaite05**\n**fabreall2009ann:Enlhet-Enenlhet_angaite06**\n**fabreall2009ann:Enlhet-Enenlhet_angaite07**\n**fabreall2009ann:Enlhet-Enenlhet_angaite10**\n**fabreall2009ann:Enlhet-Enenlhet_angaite11**\n**fabreall2009ann:Enlhet-Enenlhet_angaite12**\n**fabreall2009ann:Enlhet-Enenlhet_sanapana0**\n**fabreall2009ann:Enlhet-Enenlhet_sanapana1**\n**fabreall2009ann:Enlhet-Enenlhet_sanapana2**\n**iso6393:2013-013**"
+  },
+  "altnames": {
+    "glottolog": "\nSanapana",
+    "multitree": "\nKasnatan\nLanapsua\nQuiativis\nQuiativs\nQuilyacmoc\nSaapa\nSanam\nSanapana\nSanapaná",
+    "lexvo": "\nSanapaná [en]"
+  },
+  "triggers": {
+    "lgcode": "\nkaiotugui\nsanapana\nleguas\nangaite\nchaquenos"
+  },
+  "iso_retirement": {
+    "comment": "Angaité and Sanapaná are different on all of the above criteria. Indeed, the\ntwo languages are not mutually intelligible, and there is a clear ethnoliguistic\ndistinction.\n\nThe existing code element does not represent a major language. The Sanapaná and\nAngaité languages are of equal standing in relation to each other and to the\nother languages of the family. For example, comparing the differences between\nAngaité and Sanapaná with those between Angaité and Enxet, the classification\nof the two languages in a single code element is clearly arbitrary.",
+    "code": "sap",
+    "name": "Sanapaná",
+    "effective": "2014-02-03",
+    "remedy": "Split into Sanapaná [spn] and Angaité [aqt]",
+    "reason": "split",
+    "change_request": "2013-013",
+    "change_to": "\nspn\naqt"
+  },
+  "identifier": {
+    "multitree": "sap"
+  }
+}

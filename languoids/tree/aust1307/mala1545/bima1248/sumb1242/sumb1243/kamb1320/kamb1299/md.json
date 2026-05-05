@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kambera",
+    "hid": "xbr",
+    "level": "language",
+    "iso639-3": "xbr",
+    "latitude": "-9.88447",
+    "longitude": "120.235",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kambera](https://grambank.clld.org/languages/kamb1299)\n[Kambera](https://wals.info/languoid/lect/wals_code_kam)\nhttps://en.wikipedia.org/wiki/Kambera_language\nhttps://phoible.org/languages/kamb1299\nhttps://www.wikidata.org/entity/Q3053279"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:fischer:ed:04:1**\n**cldf:forth:81**\n**cldf:gooszen:99**\n**cldf:gueldemann:roncador:ed:02:4**\n**cldf:hoskins:00**\n**cldf:hoskins:96**\n**cldf:keane:07**\n**cldf:keesing:84:2**\n**cldf:klamer:02**\n**cldf:klamer:97**\n**cldf:lebar:ed:72**\n**cldf:nooteboom:40**\n**cldf:np:14:5**\n**cldf:np:16:7**\n**cldf:onvlee:84**\n**cldf:vel:05**\n**cldf:vel:08**\n**hh:d:Kapita:Kamberaas**\n**hh:d:Onvlee:Kamberaas**\n**hh:d:Sumantri:Sunda**\n**hh:g:Klamer:Kambera**\n**hh:g:Klamer:Kambera:1994**\n**hh:h:Djuli:Sumba-Timur**\n**hh:h:Sugono:Indonesia**\n**hh:he:Nieuwenkamp:Timor**\n**hh:hlde:Onvlee:Cultuur**\n**hh:hv:Blust:Bima-Sumba**\n**hh:hvw:Budasi:Sumba**\n**hh:hvw:Jawa:Sumba**\n**hh:hvw:Putra:Sumba**\n**hh:ld:Muda:Kambera**\n**hh:phon:Moto:Kanatang**\n**hh:s:Kapita:Kambera**\n**hh:s:Klamer:Kambera**\n**hh:s:Wielenga:Kambera**\n**hh:st:Onvlee:Soembaasche**\n**hh:t:Anonymous:Soembaasche**\n**hh:w:Stokhofetal:Holle:6**\n**hh:w:Wielenga:Soemba**\n**mpieva:Klamer1994Kamberaa**\n**mpieva:Onvlee1984Kamberaa**"
+  },
+  "altnames": {
+    "wals": "\nKambera",
+    "ruhlen (1987)": "\nSumbanese (East)",
+    "moseley & asher (1994)": "\nSumbanese (East)",
+    "multitree": "\nEast Sumba\nEast Sumbanese\nHilu Humba\nHumba\nKambera\nOost-Sumbaas\nSumba\nSumbanese",
+    "lexvo": "\nKambera [en]\nKambera language [en]\nKamberaas [nl]\nภาษากัมเบอรา [th]",
+    "hhbib_lgcode": "\n23 Prailiu Waingapu\nKambera-Melolo\nKanatang\nKapoendoek\nKapunduk\nKarera\nLewa\nLewa-Tidas\nMahu\nMangili\nMassoe\nNapoe\nOostelijk Soemba\nSumba\nTaboendoeng\nTabundung\nTarimbang\nTawoei\nTawui\nWaingapoe op Soemba"
+  },
+  "triggers": {
+    "lgcode": "\nsumba\nsoembaas\nkambera\nkamberaas\nsoembaasche"
+  },
+  "identifier": {
+    "wals": "kam",
+    "multitree": "xbr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Asplund:Sumba**",
+    "subrefs": "\n**hh:hv:Asplund:Sumba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kambera (xbr-xbr) = 5* (Developing)."
+  }
+}

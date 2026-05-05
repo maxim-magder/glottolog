@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bashkardi",
+    "hid": "bsg",
+    "level": "language",
+    "iso639-3": "bsg",
+    "latitude": "27.33262",
+    "longitude": "56.86549",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Bashkardi](https://endangeredlanguages.com/lang/3978)\nhttps://www.wikidata.org/entity/Q33030\nhttps://en.wikipedia.org/wiki/Bashkardi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:ew:Floyer:Baluchistan**\n**hh:h:Borjian:Kerman**\n**hh:hld:Skjaervoe:SEIran**\n**hh:ld:Efimov:Baskardi**\n**hh:s:Dehqani:Jiroft-Kahnuj**\n**hh:s:Mohebbi:Minabi**\n**hh:s:Motamadi:Rudan**\n**hh:s:Pelevin:Bandari**\n**hh:s:Rezaei:Bandari**\n**hh:s:Seddiqi:Basakardi**\n**hh:s:Sheybanifard:Brahui-Rudbari**\n**hh:std:Barbera:Minab**\n**hh:typ:Korn:Bashkardi**\n**hh:typ:Korn:Bashkardi-Word-Order**\n**hh:vld:Motallebi:Rudbari**\n**hh:vw:Anonby:Keshmi**\n**hh:w:Skjaervo:Minab-Hormoz**"
+  },
+  "altnames": {
+    "multitree": "\nBashaka\nBashkardi\nBaskardí",
+    "lexvo": "\nBashkardi [en]",
+    "hhbib_lgcode": "\nBandari\nBašakardi of Dahwast\nHormoz\nJiroft-Kahnuj\nJirofti\nKahnuji\nKeshmi\nMinab\nMinabi\nMinâb\nRudan\nRudbari\nRudbāri-ye Kermān\nS Bashkerdi",
+    "elcat": "\nBashaka\nBashkardi"
+  },
+  "triggers": {
+    "lgcode": "\nbashkurd\nmekran"
+  },
+  "identifier": {
+    "multitree": "bsg",
+    "endangeredlanguages": "3978"
+  },
+  "classification": {
+    "sub": "**hh:h:Borjian:Kerman** **hh:hld:Skjaervoe:SEIran**:364",
+    "subrefs": "\n**hh:hld:Skjaervoe:SEIran**\n**hh:h:Borjian:Kerman**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bashkardi (3978-bsg) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

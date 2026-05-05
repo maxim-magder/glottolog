@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gobasi",
+    "hid": "goi",
+    "level": "language",
+    "iso639-3": "goi",
+    "latitude": "-6.48678",
+    "longitude": "142.201",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Gobasi (Bibo Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-gobasi-bibo)\nhttps://en.wikipedia.org/wiki/Gobasi_language\nhttps://www.wikidata.org/entity/Q5575414"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2542**\n**asjp2010:3087**\n**asjp2010:3409**\n**hh:e:Fink:gabusi**\n**hh:e:Knauft:Gebusi**\n**hh:e:Knauft:Gebusi:1985**\n**hh:e:Knauft:Gebusi:2005**\n**hh:h:Voorhoeve:Chain-Interpreting**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hvw:Shaw:Bosavi**\n**hh:hw:Franklin:Appendices**\n**hh:hw:Zgraggen:Gulf**\n**hh:w:Shaw:Western-Province**"
+  },
+  "altnames": {
+    "multitree": "\nGobasi\nNomad\nNomad Dialects\nSamo",
+    "lexvo": "\nGobasi [en]",
+    "hhbib_lgcode": "\nAibai\nBibo\nGebusi\nGubusi\nHonibo\nIbie Honibo\nOibae\nOibai"
+  },
+  "triggers": {
+    "lgcode": "\ngebusi\n45 AND 76"
+  },
+  "identifier": {
+    "multitree": "goi"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shaw:Bosavi** **hh:e:Dwyeretal:Kubo-Febi-Konai**",
+    "subrefs": "\n**hh:hvw:Shaw:Bosavi**\n**hh:e:Dwyeretal:Kubo-Febi-Konai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gebusi (goi-goi) = 6a (Vigorous)."
+  }
+}

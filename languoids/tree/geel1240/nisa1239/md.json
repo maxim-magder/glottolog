@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nisa-Anasi",
+    "hid": "njs",
+    "level": "language",
+    "iso639-3": "njs",
+    "latitude": "-1.95386",
+    "longitude": "137.6",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q13593518\nhttps://en.wikipedia.org/wiki/Nisa_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Detiger:Waroppen**\n**hh:h:Jones:ECenderawasih**\n**hh:w:Briley:Nisa**"
+  },
+  "altnames": {
+    "multitree": "\nBonefa\nKerema\nNisa",
+    "lexvo": "\nNisa [en]",
+    "hhbib_lgcode": "\nE Cenderawasih: Kerema\nNisa"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND cenderawasih"
+  },
+  "identifier": {
+    "multitree": "njs"
+  },
+  "classification": {
+    "sub": "**hh:h:Jones:ECenderawasih**",
+    "subrefs": "\n**hh:h:Jones:ECenderawasih**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nisa (njs-njs) = 6b (Threatened)."
+  }
+}

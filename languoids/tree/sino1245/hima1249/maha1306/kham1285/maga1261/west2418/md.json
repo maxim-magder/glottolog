@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Western Magar",
+    "hid": "mrd",
+    "level": "language",
+    "iso639-3": "mrd",
+    "latitude": "28.2462",
+    "longitude": "83.511",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Magar (Syangja)](https://wals.info/languoid/lect/wals_code_msy)\n[Western Magar](https://grambank.clld.org/languages/west2418)\nhttps://www.wikidata.org/entity/Q22303263"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:noonan:03:3**\n**hh:e:Hitchcok:Magars-Banyan**\n**hh:g:Grunow-Harsta:Magar**\n**hh:soc:Thakur:Magar-Dhut**\n**sil16:42070**"
+  },
+  "altnames": {
+    "wals": "\nMagar (Syangja)",
+    "wals other": "\nSyangja Magar\nWestern Magar",
+    "moseley & asher (1994)": "\nMagar",
+    "multitree": "\nMagar\nMagar (Syangja)\nMagar (Western)\nMagar Nuwakot\nMagar, Western\nMagar,Western\nMagari\nMagarī\nManggar\nMãgari",
+    "lexvo": "\nWestern Magar [en]",
+    "hhbib_lgcode": "\nMagar-Western\nMagars of Banyan Hill\nSyangja"
+  },
+  "triggers": {
+    "lgcode": "\nnawalparasi"
+  },
+  "identifier": {
+    "wals": "msy",
+    "multitree": "mrd"
+  },
+  "classification": {
+    "sub": "**hh:g:Grunow-Harsta:Magar**",
+    "subrefs": "\n**hh:g:Grunow-Harsta:Magar**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Magar (1118-mgp, mrd) = Definitely endangered"
+  }
+}

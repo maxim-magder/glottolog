@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Coastal-Naga Bikol",
+    "hid": "bcl",
+    "level": "language",
+    "iso639-3": "bcl",
+    "latitude": "13.7574",
+    "longitude": "123.403",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Bikol](https://wals.info/languoid/lect/wals_code_bkl)\n[Coastal-Naga Bikol](https://grambank.clld.org/languages/cent2087)\nhttps://en.wikipedia.org/wiki/Central_Bikol\nhttps://phoible.org/languages/cent2087\nhttps://www.wikidata.org/entity/Q33284"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mintz:01**\n**cldf:mintz:71:1**\n**cldf:mintz:britanico:85**\n**cldf:stolz:96**\n**hh:d:Mintz:Bikol**\n**hh:d:deLisboa:Bicol**\n**hh:g:Mintz:Bikol**\n**hh:hv:Zorc:Bisayan**\n**hh:hwdial:McFarland:Bikol**\n**hh:s:Lobel:Bikol**\n**hh:s:Mintz:Bikol**\n**hh:styp:Mattes:Bikol**\n**hh:t:Mintz:Bikol**\n**hh:typ:Mattes:Bikol**\n**iso6393:2011-069**\n**mpieva:MacFarland1974Thediale**\n**mpieva:Mintz2004Bikoldic**\n**sil16:23177**\n**silpng:silpng2001-2003:64**"
+  },
+  "altnames": {
+    "wals": "\nBikol",
+    "wals other": "\nBicolano (Central)",
+    "ruhlen (1987)": "\nnot specified",
+    "multitree": "\nBicol\nBicolano, Central\nBikol\nCentral Bicolano",
+    "lexvo": "\nBikol [no]\nBikolano [de]\nBikoleg [br]\nCentral Bicolano [en]\nCentral Bikolano [en]\nLíngua bicolana [pt]\nPagsasao a Bikol [ilo]\nPinulongang Bikol [ceb]\nTataramon na Bikol [bcl]\nБикольский язык [ru]\nビコール語 [ja]",
+    "hhbib_lgcode": "\nBicolano-Central\nCentral Bicolano\nLegazpi\nNaga\nStandard Bikol"
+  },
+  "triggers": {
+    "lgcode": "\nbicol\ntataramon\nsatuyang\nbikol"
+  },
+  "identifier": {
+    "wals": "bkl",
+    "multitree": "bcl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan** **hh:hv:Blust:CPhilippines**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**\n**hh:hv:Blust:CPhilippines**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bikol, Central (bcl-bcl) = 3 (Wider communication). Statutory language of provincial identity in Camarines Norte, 4 other provinces (1991, ACFLC Section 3(f)). Became widely spoken in the 16th century during the Spanish occupation (1521–1898). Used in agriculture, trade, church, and daily communication."
+  }
+}

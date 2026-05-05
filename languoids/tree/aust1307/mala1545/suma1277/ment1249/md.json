@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mentawai",
+    "hid": "mwv",
+    "level": "language",
+    "iso639-3": "mwv",
+    "latitude": "-1.41092",
+    "longitude": "98.9401",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mentawai](https://wals.info/languoid/lect/wals_code_mnt)\nhttps://en.wikipedia.org/wiki/Mentawai_language\nhttps://www.wikidata.org/entity/Q13365"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:arifin:85**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:islands:19**\n**cldf:keesing:84:2**\n**cldf:kruyt:23**\n**cldf:lebar:ed:72**\n**cldf:loeb:28**\n**cldf:loeb:29**\n**cldf:loeb:74**\n**cldf:nooy-palm:68**\n**cldf:np:14:5**\n**cldf:persoon:02**\n**cldf:persoon:osseweijer:02**\n**cldf:suzuki:58**\n**cldf:syamsidik:13**\n**cldf:tulius:12**\n**cldf:wallace:51**\n**hh:b:Roth:Nias-Mentawei-Enggano**\n**hh:d:Arifin:Mentawai**\n**hh:d:Khatib:Mentawai**\n**hh:d:Mendrofa:Mentawai**\n**hh:e:Hammons:Siberut**\n**hh:e:Kruyt:Mentawei**\n**hh:e:Maass:Mentawei**\n**hh:e:Mess:Mentawei**\n**hh:e:vanBeukering:Mentaweiers**\n**hh:ew:Crisp:Poggy**\n**hh:ew:Oudemans:Engano**\n**hh:ew:vonRosenberg:Mentawei**\n**hh:hdial:Pampus:Mentawai**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hew:vonRosenberg:Malayische-Archipel**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marsden:East-Insular**\n**hh:lde:Hasen:Pageh**\n**hh:phon:Kasim:Mentawai**\n**hh:phon:Pampus:Mentawai**\n**hh:s:Adriani:Mentawai**\n**hh:s:Lenggangetal:Mentawai**\n**hh:s:Willms:Mentawai**\n**hh:std:Morris:Mentawai**\n**hh:v:Kern:Mentaweisch**\n**hh:w:Oudemans:Enggano**\n**hh:w:Stokhof:Holle:1987**\n**mpieva:Adriani1928Spraakku**"
+  },
+  "altnames": {
+    "wals": "\nMentawai",
+    "ruhlen (1987)": "\nMentawai",
+    "moseley & asher (1994)": "\nMentawai",
+    "multitree": "\nMentawai\nMentawei\nMentawei-Engano\nMentawi",
+    "lexvo": "\nBahasa Mentawai [id]\nMentavajų kalba [lt]\nMentawai [en]\nMentawai language [en]\nMentawaiera [eu]\nMentawain kieli [fi]\nภาษาเม็นตาไว [th]",
+    "hhbib_lgcode": "\nMattaoi\nMentawai-Pagai-Sipora\nMentawai-Southern Dialect called Ngangan Sakalagan\nMentaweians\nPagi\nPoggi\nPoggy\nSiberut"
+  },
+  "triggers": {
+    "lgcode": "\nlying\npoggy\nmentawai\nmentaweiers\nmentawaieilanden\nmentawei"
+  },
+  "identifier": {
+    "wals": "mnt",
+    "multitree": "ment;mwv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran**",
+    "subrefs": "\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mentawai (mwv-mwv) = 5* (Developing)."
+  }
+}

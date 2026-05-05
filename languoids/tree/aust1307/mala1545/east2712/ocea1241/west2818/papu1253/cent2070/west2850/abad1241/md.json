@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Abadi",
+    "hid": "kbt",
+    "level": "language",
+    "iso639-3": "kbt",
+    "latitude": "-9.03389",
+    "longitude": "146.992",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Abadi](https://grambank.clld.org/languages/abad1241)\n[Gabadi](https://lexibank.clld.org/languages/abvdoceanic-Gabadi)\nhttps://en.wikipedia.org/wiki/Abadi_language\nhttps://www.wikidata.org/entity/Q3291159"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:capell:43:2**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Lawes:New-Guinea**\n**hh:hw:Ray:Central-Papua**\n**hh:ld:Timoteo:Kabadi**\n**hh:s:OaPaul:Gabadi**\n**hh:w:Anonymous:Kabadi**\n**hh:w:Strong:Kabadi**\n**hh:wsoc:KassellPotter:Abadi**\n**sil16:46264**\n**sil16:46265**\n**sil16:46266**\n**sil16:46267**\n**sil16:46268**\n**sil16:46269**\n**sil16:46270**\n**silpng:silpng2004:22**"
+  },
+  "altnames": {
+    "multitree": "\nAbadi\nGabadi\nKabadi",
+    "lexvo": "\nAbadi [en]",
+    "hhbib_lgcode": "\nGabadi\nKabadi\nKeveona\nKoupuana\nMagavaira\nPinu"
+  },
+  "triggers": {
+    "lgcode": "\nmaoradada\ngabadi\nmauri\nmaraiuna\nkabadi"
+  },
+  "identifier": {
+    "multitree": "kbt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:g:Jones:Mekeo**:23-25",
+    "subrefs": "\n**hh:g:Jones:Mekeo**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Abadi (kbt-kbt) = 5 (Developing)."
+  }
+}

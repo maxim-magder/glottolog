@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Sobei",
+    "hid": "sob",
+    "level": "language",
+    "iso639-3": "sob",
+    "latitude": "-1.86998",
+    "longitude": "138.75",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Sobei](https://endangeredlanguages.com/lang/2782)\n[Sobei](https://grambank.clld.org/languages/sobe1238)\n[Sobei](https://lexibank.clld.org/languages/abvdoceanic-Sobei)\n[Sobei](https://wals.info/languoid/lect/wals_code_sob)\nhttps://en.wikipedia.org/wiki/Sobei_language\nhttps://www.wikidata.org/entity/Q3121035"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lynch:ross:etal:ed:02:23**\n**cldf:np:nd:264**\n**cldf:sterner:87**\n**hh:d:Ajamiseba:Sobei**\n**hh:h:vanderLeeden:Sarmische**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:phon:Sterner:Sobei-Phonology**\n**hh:s:Sterner:Sobei**\n**hh:s:SternerRoss:Sobei**\n**hh:typ:Sterner:Sobei-Verb**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Stokhof:Holle:5:2**\n**sil16:15254**\n**sil16:22085**\n**sil16:26242**\n**sil16:33765**\n**sil16:35142**\n**sil16:37779**"
+  },
+  "altnames": {
+    "wals": "\nSobei",
+    "ruhlen (1987)": "\nSobei",
+    "moseley & asher (1994)": "\nSobei",
+    "multitree": "\nBiga\nImasi\nLiki\nSobei",
+    "lexvo": "\nSobei [en]\nSobei language [en]",
+    "hhbib_lgcode": "\nSarmi\nSobei (Gr)\nSobei-Sarmi",
+    "elcat": "\nBiga\nImasi\nLiki\nSobei"
+  },
+  "triggers": {
+    "lgcode": "\nsobei"
+  },
+  "identifier": {
+    "wals": "sob",
+    "multitree": "sob",
+    "endangeredlanguages": "2782"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:LeeSawi:Sobei** **hh:v:Collins:Sarmic** **hh:h:vanderLeeden:Sarmische**:9",
+    "subrefs": "\n**hh:h:vanderLeeden:Sarmische**\n**hh:v:Collins:Sarmic**\n**hh:hwsoc:LeeSawi:Sobei**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sobei (2782-sob) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

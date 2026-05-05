@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Transalpine Gaulish",
+    "hid": "xtg",
+    "level": "language",
+    "iso639-3": "xtg",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FR"
+    ],
+    "longitude": "3.3",
+    "latitude": "43.97",
+    "timespan": "-0600-01-01/0600-01-01",
+    "links": "\nhttps://www.wikidata.org/entity/Q65455889"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Delamarre:Gauloise**\n**hh:hvld:EskaEvans:Continental-Celtic**\n**hh:ld:Blazek:Gaulish**\n**hh:ld:Whatmough:Ancient-Gaul**\n**hh:s:Lambert:Gauloise**\n**hh:s:Lambert:Gauloise:1994**\n**hh:std:Dottin:Gauloise**\n**hh:typ:Koch:Gaulish**"
+  },
+  "altnames": {
+    "multitree": "\nGaul\nGaulish\nTransalpine Gaulish",
+    "lexvo": "\nTransalpine Gaulish [en]",
+    "hhbib_lgcode": "\nTransalpine Celtic"
+  },
+  "triggers": {
+    "lgcode": "\ngauloise"
+  },
+  "identifier": {
+    "multitree": "xtg"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Gaulish (Transalpine) (**hh:s:Lambert:Gauloise**, **hh:std:Dottin:Gauloise**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xtg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Eska:Celtic:2017**",
+    "subrefs": "\n**hh:hv:Eska:Celtic:2017**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Transalpine Gaulish (xtg-xtg) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Abure",
+    "hid": "abu",
+    "level": "language",
+    "iso639-3": "abu",
+    "latitude": "5.21534",
+    "longitude": "-3.64123",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34767\nhttps://en.wikipedia.org/wiki/Abure_language\nhttps://phoible.org/languages/abur1243"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:loyer:45**\n**cldf:mouezy:42**\n**cldf:reichenbach:90**\n**eballiso2009:11394**\n**eballiso2009:29559**\n**eballiso2009:59371**\n**eballiso2009:7776**\n**hh:e:Niangoran-Bouah:Aboure**\n**hh:g:Yangra:Aboure**\n**hh:g:Yangra:Aboure:2019**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hvld:Westermann:Tschi-Guang**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phon:Gauthier:Aboure**\n**hh:s:Burmeister:Aboure**\n**hh:typ:Begromissa:Aboure-Ehe**\n**hh:typ:Ngatta:Aboure:2008**"
+  },
+  "altnames": {
+    "multitree": "\nAbonwa\nAbouré\nAbule\nAbure\nAkaplass",
+    "lexvo": "\nAbure [en]",
+    "hhbib_lgcode": "\nAboure\nAbouré\nAbouré éhè\nAbure (Akaples)"
+  },
+  "triggers": {
+    "lgcode": "\naboure\nlaboure"
+  },
+  "identifier": {
+    "multitree": "abu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Abure (abu-abu) = 6a* (Vigorous)."
+  }
+}

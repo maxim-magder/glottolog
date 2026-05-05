@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tem",
+    "hid": "kdh",
+    "level": "language",
+    "iso639-3": "kdh",
+    "latitude": "8.967",
+    "longitude": "1.136",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "GH",
+      "TG"
+    ],
+    "links": "\n[Tem](https://lexibank.clld.org/languages/polyglottaafricana-Tem)\n[Tem](https://wals.info/languoid/lect/wals_code_tem)\nhttps://en.wikipedia.org/wiki/Tem_language\nhttps://phoible.org/languages/temm1241\nhttps://www.wikidata.org/entity/Q36531"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:froelich:cornevin:63**\n**cldf:tchagbale:03**\n**cldf:tchagbale:77**\n**cldf:tchagbale:84**\n**eballiso2009:15934**\n**eballiso2009:15935**\n**eballiso2009:15937**\n**eballiso2009:15939**\n**eballiso2009:15940**\n**eballiso2009:15941**\n**eballiso2009:17871**\n**eballiso2009:18719**\n**eballiso2009:25464**\n**eballiso2009:28333**\n**eballiso2009:36477**\n**eballiso2009:37969**\n**eballiso2009:38019**\n**eballiso2009:38066**\n**eballiso2009:38068**\n**eballiso2009:39335**\n**eballiso2009:51855**\n**eballiso2009:51883**\n**eballiso2009:51993**\n**eballiso2009:52016**\n**eballiso2009:59684**\n**eballiso2009:729**\n**eballiso2009:7619**\n**eballiso2009:9189**\n**hh:e:Alexandre:Kotokoli**\n**hh:g:Bawa:Tem**\n**hh:g:Der-Houssikian:Tem**\n**hh:g:Tchagbale:Tem**\n**hh:g:Tchagbale:Tem:1976**\n**hh:he:Froelich:Nord-Togo**\n**hh:hvw:Christaller:Sudan**\n**hh:hvw:Delord:Kabiye**\n**hh:hvw:Swadesh:Gur**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Copans:Tem**\n**hh:s:Muller:Tem**\n**hh:s:Sama:Tem**\n**hh:s:Tchagbale:Tem**\n**hh:typ:Tchagbale:Tem:Infinitif**\n**hh:typ:Tchagbale:Tem:Verbe**\n**hh:typ:Tchagbale:Tem:Verbe:1995**\n**hh:typ:deCraene:Tem**\n**sil16:19813**\n**sil16:19814**\n**sil16:19882**\n**sil16:21310**\n**sil16:21931**\n**sil16:27961**\n**sil16:27987**\n**sil16:34488**\n**sil16:34527**\n**sil16:34530**\n**sil16:34531**\n**sil16:34532**\n**sil16:34533**\n**sil16:34534**\n**sil16:34535**\n**sil16:34536**\n**sil16:34598**\n**sil16:35315**\n**sil16:35316**\n**sil16:35317**\n**sil16:35318**\n**sil16:35320**\n**sil16:35321**\n**sil16:36451**\n**sil16:36452**\n**sil16:37406**\n**sil16:37407**\n**sil16:37408**\n**sil16:37449**\n**sil16:38500**\n**sil16:38501**\n**sil16:39343**\n**sil16:39678**"
+  },
+  "altnames": {
+    "wals": "\nTem",
+    "ruhlen (1987)": "\nTem",
+    "moseley & asher (1994)": "\nTem",
+    "multitree": "\nCotocoli\nKotokoli\nTem\nTemba\nTim\nTimu",
+    "lexvo": "\nTem [en]",
+    "hhbib_lgcode": "\nKiamba\nKiamba/Dsamba\nKotokoli"
+  },
+  "triggers": {
+    "lgcode": "\nkpangalam\nkadambara\nkparataaw\nkpas\ntem\nntaa\nhinter\nkalandriyee\ncal\nkonkar\nbo{o{w\nbogong"
+  },
+  "identifier": {
+    "wals": "tem",
+    "multitree": "kdh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manessy:Gurunsi** **hh:hb:Kleinewillinghofer:Gurunsi**",
+    "subrefs": "\n**hh:hv:Manessy:Gurunsi**\n**hh:hb:Kleinewillinghofer:Gurunsi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tem (kdh-kdh) = 3 (Wider communication). Tem people emigrated from what is now Burkina Faso to Togo during the 16th and 17th centuries. Became widely used throughout Togo due to trade in local markets. Spoken throughout various parts of western Africa."
+  }
+}

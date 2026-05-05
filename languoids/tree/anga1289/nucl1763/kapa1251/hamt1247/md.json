@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Hamtai",
+    "hid": "hmt",
+    "level": "language",
+    "iso639-3": "hmt",
+    "latitude": "-7.54975",
+    "longitude": "146.227",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Hamtai](https://wals.info/languoid/lect/wals_code_ham)\nhttps://en.wikipedia.org/wiki/Hamtai_language\nhttps://www.wikidata.org/entity/Q5646436"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:healey:81**\n**hh:e:Blackwood:Kukukuku**\n**hh:e:Blackwood:Watut:1939**\n**hh:e:Fischer:Kukukuku**\n**hh:g:OatesOates:Kapau**\n**hh:hvphon:Lloyd:Angan**\n**hh:hw:Ray:Central-Papua**\n**hh:hw:Zgraggen:Gulf**\n**hh:w:Anonymous:Gulf**\n**hh:w:Anonymous:Madinava**\n**hh:w:Chinnery:West-Albert-Edward**\n**hh:w:Chisholm:Kukukuku**\n**hh:w:Fischer:Kuku-Kuku**\n**hh:w:Humphries:Kukukuku**\n**sil16:15914**\n**sil16:33579**"
+  },
+  "altnames": {
+    "wals": "\nHamtai",
+    "wals other": "\nHamtai (=Kapau)\nKapau",
+    "ruhlen (1987)": "\nHamtai (Kapau)",
+    "moseley & asher (1994)": "\nHamtai",
+    "multitree": "\n\"Kukukuku\"\nHamday\nHamtai\nKamea\nKapau\nKukukuku\nWatut",
+    "lexvo": "\nHamtai [en]",
+    "hhbib_lgcode": "\nAshavi a kukukuku village acc to Lloyd 1973\nKapau\nKukukuku\nKukukuku (from Lakekamu)\nKukukuku from Lakekamu\nMadinava"
+  },
+  "triggers": {
+    "lgcode": "\nkukukuku\nchisholm\nkapau\nofficer"
+  },
+  "identifier": {
+    "wals": "ham",
+    "multitree": "hmt"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Lloyd:Angan**:36",
+    "subrefs": "\n**hh:hvphon:Lloyd:Angan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hamtai (hmt-hmt) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "West Central Banda",
+    "hid": "bbp",
+    "level": "language",
+    "iso639-3": "bbp",
+    "latitude": "6.81435",
+    "longitude": "24.1012",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7984377\nhttps://en.wikipedia.org/wiki/West_Banda_language\nhttps://phoible.org/languages/west2458"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3474**\n**cldf:leynaud:54**\n**hh:d:Tisserant:Banda**\n**hh:g:Tisserant:Banda**\n**hh:h:ALAC:CAR**\n**hh:h:Nougayrol:Banda**\n**hh:h:Nougayrol:NECAR**\n**hh:hdial:Cloarec-Heiss:Banda**\n**hh:he:Lenfant:Centre-Afrique**\n**hh:hv:Cloarec-Heiss:Banda:2000**\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**\n**hh:hw:Monino:Oubanguiennes**\n**hh:phon:Ahmadou-Ndema:Dakpa**\n**hh:phon:Segerer:Dakpa**\n**hh:phon:Selezilo:Dakpa**\n**sil16:48947**"
+  },
+  "altnames": {
+    "multitree": "\nBanda, West Central\nGolo\nWest Central Banda",
+    "lexvo": "\nWest Central Banda [en]",
+    "hhbib_lgcode": "\nBanda-Buru-Dakpa\nBanda-West Central\nDakpa\nDakpwa\nDkpa\nGbaga-Nord\nGbgN\nGbi\nGolo\nGólo\nWest-Central Banda\nWojo"
+  },
+  "triggers": {
+    "lgcode": "\noubangien"
+  },
+  "identifier": {
+    "multitree": "bbp;wbda"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cloarec-Heiss:Banda:2000**",
+    "subrefs": "\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banda, West Central (bbp-bbp) = 6a* (Vigorous)."
+  }
+}

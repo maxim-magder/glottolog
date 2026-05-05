@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mbay",
+    "hid": "myb",
+    "level": "language",
+    "iso639-3": "myb",
+    "latitude": "8.23066",
+    "longitude": "15.7328",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "NG",
+      "TD"
+    ],
+    "links": "\n[Mbay](https://grambank.clld.org/languages/mbay1241)\n[Mbay](https://wals.info/languoid/lect/wals_code_mby)\nhttps://en.wikipedia.org/wiki/Mbay_language\nhttps://phoible.org/languages/mbay1241\nhttps://www.wikidata.org/entity/Q3033565"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:djarangar:91**\n**cldf:keegan:02**\n**cldf:maddieson:hinnebusch:ed:98:7**\n**eballiso2009:10183**\n**eballiso2009:13960**\n**eballiso2009:17030**\n**eballiso2009:24621**\n**eballiso2009:28175**\n**eballiso2009:28406**\n**eballiso2009:3159**\n**eballiso2009:3160**\n**eballiso2009:3169**\n**eballiso2009:31990**\n**eballiso2009:36128**\n**eballiso2009:51042**\n**eballiso2009:51043**\n**eballiso2009:51045**\n**eballiso2009:51047**\n**eballiso2009:51900**\n**eballiso2009:54666**\n**eballiso2009:54966**\n**hh:d:Keegan:Mbay**\n**hh:g:Fortier:Mbaye**\n**hh:g:Keegan:Mbay**\n**hh:h:ALAC:CAR**\n**hh:he:Bruel:Moyen-Logone**\n**hh:hvw:Saxon:Shari**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hwdial:Johnson:Doba**\n**hh:phon:Caprile:Mbay-Moissala**\n**hh:s:Caprile:Mbai-Moissala**\n**hh:s:Muraz:Tourkou**\n**hh:w:Caprile:Mbai**\n**hh:w:Chabrelie:Sara**\n**mpieva:Caprile1968Essaidep**\n**mpieva:Caprile1971Ladenomi**\n**mpieva:Keegan2009Thedigit**\n**mpieva:Ngarramadji1999MbayText**"
+  },
+  "altnames": {
+    "wals": "\nMbay",
+    "wals other": "\nMbaye",
+    "ruhlen (1987)": "\nMbai",
+    "moseley & asher (1994)": "\nMbai",
+    "multitree": "\nMbai\nMbay\nMbay Moissala\nMbaye\nMoissala Mbai\nSara Mbai",
+    "lexvo": "\nMbay [en]",
+    "hhbib_lgcode": "\nMbai of Bruel\nMbaï de Bangoul\nMbaï de Beïara\nS Bai of Decorse\nSara-Mbay\nSara-m'baye"
+  },
+  "triggers": {
+    "lgcode": "\nmbacais\nbaguirmiennes\nmbaye\nmoissala\ntourkou\nmbay"
+  },
+  "identifier": {
+    "wals": "mby",
+    "multitree": "myb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbay (myb-myb) = 5* (Developing)."
+  }
+}

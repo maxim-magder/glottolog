@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Maiwa (Papua New Guinea)",
+    "hid": "mti",
+    "level": "language",
+    "iso639-3": "mti",
+    "latitude": "-9.69836",
+    "longitude": "149.274",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Maiwa](https://lexibank.clld.org/languages/transnewguineaorg-maiwa)\nhttps://en.wikipedia.org/wiki/Maiwa_language_(Papuan)\nhttps://www.wikidata.org/entity/Q6737223"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Lean:Milne-Bay**\n**hh:hv:Dutton:SEPapua**\n**hh:hw:Ray:ESEPapua**\n**hh:s:Nakamura:Maiwa**\n**hh:typ:NakamuraNakamura:Maiwa**\n**hh:vw:Nakamura:Maiwa**\n**hh:w:Anonymous:Kwatewa**\n**hh:w:Strong:North-Eastern-Divisions**\n**silpng:silpng2001-2003:85**\n**silpng:silpng2001-2003:88**"
+  },
+  "altnames": {
+    "multitree": "\nMaiwa",
+    "lexvo": "\nMaiwa (Papua New Guinea) [en]\nMaiwa [en]",
+    "hhbib_lgcode": "\nBagoi\nBiniguni\nGairen\nGaleva\nGwareta\nKwateva\nKwatewa\nMaiwa\nManeao\nManigara\nOren\nPue\nPumani"
+  },
+  "triggers": {
+    "lgcode": "\ncollingwood\nkwateva\ngwoira\nlakwa\nmaiwa"
+  },
+  "identifier": {
+    "multitree": "mti"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dutton:SEPapua**:15-19",
+    "subrefs": "\n**hh:hv:Dutton:SEPapua**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maiwa (mti-mti) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Namo",
+    "hid": "mxw",
+    "level": "language",
+    "iso639-3": "mxw",
+    "latitude": "-9.12416",
+    "longitude": "141.824",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Namo](https://endangeredlanguages.com/lang/2152)\nhttps://en.wikipedia.org/wiki/Namo_language\nhttps://www.wikidata.org/entity/Q12952923"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hsoc:Rueck:Morehead**\n**hh:hsoc:Rueck:Morehead:2006**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hv:Wurm:Trans-Fly**\n**hh:hvld:Wurm:Trans-Fly:1971**\n**hh:hvw:Ray:Western**\n**hh:hw:RileyRay:Fly**\n**hh:phon:Gore:Na-Len**\n**hh:w:Lyons:WassiKussa**\n**hh:w:Rentoul:Moi-e**\n**silpng:silpng2001-2003:43**"
+  },
+  "altnames": {
+    "multitree": "\nDorro\nMari\nNamo",
+    "lexvo": "\nNamo [en]",
+    "hhbib_lgcode": "\nDorro\nMoi-e\nNambi: Dorro\nNamo in Tais-Mari\nNamu\nNä\nPotoia villages Wala-Tombuke-Mugakom between the Morehead and the Wasi Kussa",
+    "elcat": "\nDorro (formerly)\nMari\nNa\nNamo"
+  },
+  "triggers": {
+    "lgcode": "\nvocabularies AND sixteen"
+  },
+  "identifier": {
+    "multitree": "mxw",
+    "endangeredlanguages": "2152"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dohler:Morehead** **hh:hwld:Donohue:Wasur**",
+    "subrefs": "\n**hh:hv:Dohler:Morehead**\n**hh:hwld:Donohue:Wasur**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Namo (2152-mxw) = Severely Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

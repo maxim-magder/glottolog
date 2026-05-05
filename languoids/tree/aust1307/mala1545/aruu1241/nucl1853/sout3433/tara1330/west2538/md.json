@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "West Tarangan",
+    "hid": "txn",
+    "level": "language",
+    "iso639-3": "txn",
+    "latitude": "-6.62046",
+    "longitude": "134.168",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tarangan (West)](https://wals.info/languoid/lect/wals_code_tgw)\n[West Tarangan](https://endangeredlanguages.com/lang/10070)\n[West Tarangan](https://grambank.clld.org/languages/west2538)\nhttps://www.wikidata.org/entity/Q3515594"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:burquest:ed:92:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:nivens:02**\n**cldf:nivens:93**\n**hh:e:Nivens:West-Tarangan**\n**hh:hew:Bastian:Timor**\n**hh:hew:vonRosenberg:Malayische-Archipel**\n**hh:hew:vonRosenberg:ZOEilanden**\n**hh:phon:Nivens:West-Tarangan**\n**hh:s:Chlenova:Tarangan-Dobel**\n**hh:s:Nivens:WTarangan**\n**hh:s:Wattimuryetal:Tarangan**\n**hh:t:Botmaonamona:West-Tarangan**\n**hh:vw:ChlenovChlenova:Aruanskie**\n**iso6393:2012-009**\n**mpieva:Burquest1992Phonolog**\n**sil16:32571**\n**sil16:32572**\n**sil16:37113**\n**sil16:42869**\n**sil16:45243**"
+  },
+  "altnames": {
+    "wals": "\nTarangan (West)",
+    "moseley & asher (1994)": "\nTarangan",
+    "multitree": "\nAru\nTarangan (West)\nTarangan Barat\nTarangan, West\nWest Trangan",
+    "lexvo": "\nWest Tarangan [en]",
+    "hhbib_lgcode": "\nAru von Kubur or Maioni auf Mombai der Aru\nTarangan-West\nTrangan\nZapadn Tarangan\na northern variety close to Manombai",
+    "elcat": "\nAroesch\nAru\nTarangan (West)\nTarangan Barat\nWest Tarangan\nWest Trangan"
+  },
+  "triggers": {
+    "lgcode": "\ntarangan"
+  },
+  "identifier": {
+    "wals": "tgw",
+    "multitree": "txn",
+    "endangeredlanguages": "10070"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:273-292",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "West Tarangan (10070-txn) = Vulnerable (100 percent certain, based on the evidence available) (Doba Malay is the language of wider communication. It has replaced Tarangan as a regional lingua franca. The language is spoken in 18 villages and it is spoken by children in all but one. It is used along with Malay in daily interactions within the community.) [Nivens 2002](cldf:nivens:02)"
+  }
+}

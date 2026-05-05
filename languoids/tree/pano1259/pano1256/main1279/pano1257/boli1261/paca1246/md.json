@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pacahuara",
+    "hid": "pcp",
+    "level": "language",
+    "iso639-3": "pcp",
+    "latitude": "-11.9968",
+    "longitude": "-65.5568",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2591165\nhttps://en.wikipedia.org/wiki/Pakawara_language\nhttps://phoible.org/languages/paca1246"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Pano-Takana_pacahuara00**\n**fabreall2009ann:Pano-Takana_pacahuara01**\n**fabreall2009ann:Pano-Takana_pacahuara03**\n**fabreall2009ann:Pano-Takana_pacahuara04**\n**fabreall2009ann:Pano-Takana_pacahuara05**\n**fabreall2009ann:Pano-Takana_pacahuara06**\n**fabreall2009ann:Pano-Takana_pacahuara08**\n**fabreall2009ann:Pano-Takana_pacahuara09**\n**fabreall2009ann:Pano-Takana_pacahuara10**\n**fabreall2009ann:Pano-Takana_pacahuara11**\n**fabreall2009ann:Pano-Takana_pacahuara12**\n**fabreall2009ann:Pano-Takana_pacahuara13**\n**hh:h:Balzan:Centrale-America-Meriodionale**\n**hh:hew:Armentia:Madre-de-Dios**\n**hh:hv:Rivet:Panos**\n**hh:hv:delaGrasserie:Pano**\n**hh:hvb:Fleck:Panoan**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Heath:Bolivian**\n**hh:vld:Tallman:Pacahuara**\n**hh:w:PalauSaiz:Moxos**\n**sil16:11512**"
+  },
+  "altnames": {
+    "multitree": "\nAcahuara\nPacaguara\nPacahuara\nPacawara\nPakaguara\nPakawara",
+    "lexvo": "\nPacahuara [en]\nPacahuara language [en]",
+    "hhbib_lgcode": "\nPacabara\nPacaguara\nPacaguaras\nPacahuara of Pando\nPacavara\nPacavára\nTapanahua"
+  },
+  "triggers": {
+    "lgcode": "\npacahuara\npacaguara\npacaguaras\npakaguara\npakawara"
+  },
+  "identifier": {
+    "multitree": "pcp"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Pacahuara (1953-pcp) = Critically endangered"
+  }
+}

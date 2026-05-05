@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Oroch",
+    "hid": "oac",
+    "level": "language",
+    "iso639-3": "oac",
+    "latitude": "50.32354",
+    "longitude": "137.85131",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Oroch](https://endangeredlanguages.com/lang/3038)\n[Oroch](https://grambank.clld.org/languages/oroc1248)\n[Oroch](https://wals.info/languoid/lect/wals_code_orc)\nhttps://en.wikipedia.org/wiki/Oroch_language\nhttps://www.wikidata.org/entity/Q33650"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2486**\n**cldf:alpatov:ed:97:14**\n**cldf:anonymous:75:2**\n**cldf:avrorin:lebedeva:68**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:iochelson:08**\n**cldf:larkin:64**\n**cldf:lewis:ed:09**\n**cldf:lopatin:25**\n**cldf:np:75:2**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:shternberg:33:1**\n**cldf:smoljak:94**\n**cldf:sunik:82**\n**cldf:turaev:01**\n**hh:d:Abramova:Oroch**\n**hh:d:Arsenev:Orocskij**\n**hh:e:Larkin:Oroci**\n**hh:g:AvrorinBoldyrev:Orocskogo**\n**hh:he:Findeisen:Baikalsee**\n**hh:s:AvrorinLebedeva:Orocskij**\n**hh:s:Kazama:Oroch**\n**hh:s:Lopatin:Orochee**\n**hh:s:Tsintsius:Orocskogo**\n**hh:td:AvrorinLebedeva:Orocskie**\n**hh:w:Kazama:Tungusic**\n**hh:w:Schmidt:Oroches**\n**hh:w:Tronson:Tartars**\n**hh:w:delaFuente:Oroch**"
+  },
+  "altnames": {
+    "wals": "\nOroch",
+    "wals other": "\nOrochi",
+    "ruhlen (1987)": "\nOroch",
+    "moseley & asher (1994)": "\nOroch",
+    "lexvo": "\nOroch [en]\nOroch language [en]\nOrotche [fr]\nOrotsjisk [no]\nOrotšin kieli [fi]\nОрочский язык [ru]\nオロチ語 [ja]",
+    "hhbib_lgcode": "\nOrotschonen\nUlcha–English glossary (or short list) on –9",
+    "elcat": "\nOroch\nOrochi\nOroć\nSprache der Oročonen\nорочский язык"
+  },
+  "triggers": {
+    "lgcode": "\norocskie\noroches\norochskij\norocskij"
+  },
+  "identifier": {
+    "wals": "orc",
+    "endangeredlanguages": "3038"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Whaley:Tungusic**",
+    "subrefs": "\n**hh:hv:Whaley:Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Oroch (3038-oac) = Severely Endangered (80 percent certain, based on the evidence available) [Salminen 2000](cldf:salminen:00)"
+  }
+}

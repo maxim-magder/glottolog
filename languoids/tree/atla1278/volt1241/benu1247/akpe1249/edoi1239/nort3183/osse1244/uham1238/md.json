@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Uhami",
+    "hid": "uha",
+    "level": "language",
+    "iso639-3": "uha",
+    "latitude": "7.38143",
+    "longitude": "5.68537",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913328\nhttps://en.wikipedia.org/wiki/Uhami_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:977**\n**hh:h:Egbokhare:Afenmai**\n**hh:hvphon:Elugbe:Edo:1973**\n**hh:hvw:Elugbe:Edoid**\n**hh:ld:TundeRidwan:Uhanmi**\n**hh:vld:Owoyele:Uhanmi**\n**hh:wtyp:Tunde:Uhanmi**"
+  },
+  "altnames": {
+    "multitree": "\nIshua\nUhami",
+    "lexvo": "\nUhami [en]",
+    "hhbib_lgcode": "\nÙhànmì"
+  },
+  "triggers": {
+    "lgcode": "\nphonology AND edoid"
+  },
+  "identifier": {
+    "multitree": "uha"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Elugbe:Edoid**",
+    "subrefs": "\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Uhami (uha-uha) = 6a* (Vigorous)."
+  }
+}

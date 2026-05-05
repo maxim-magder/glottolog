@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Khunsaric",
+    "hid": "kfm",
+    "level": "language",
+    "iso639-3": "kfm",
+    "latitude": "36.6963",
+    "longitude": "49.3742",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Khunsari](https://endangeredlanguages.com/lang/2209)\nhttps://en.wikipedia.org/wiki/Khunsari_language\nhttps://www.wikidata.org/entity/Q6403030"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borjian:13:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:g:EilersSchapka:Chunsar**\n**hh:hs:Rogova:Iranskie**\n**hh:hv:Krahnke:Central-Iran**\n**hh:hvld:Borjian:Median-Kashan**\n**hh:hvs:MannHadank:Kurdisch-Persische**\n**hh:hvw:Zhukovskij:Persidskix:1**\n**hh:s:Jalali:Vaneshan**\n**hh:s:Mojtabi:Xvansari**\n**hh:s:Tavakkoli:Khansar**\n**hh:typ:Nilipur:Varan**"
+  },
+  "altnames": {
+    "multitree": "\nKhunsari\nKuk",
+    "lexvo": "\nKhunsari [en]",
+    "hhbib_lgcode": "\nEvreev Goroda Kašana\nJawshaqani\nJowshaqani in the Raji/Kashan group of Central Plateau\nJudeo-Kashani\nKafrān\nKashan-Mahallat-Meyma\nKashan/Raji\nKesha\nKeša'i\nKhansar\nKhunsar\nKhunsari\nKoxrudi\nKuhpaye\nKyafron\nKūhpāye\nMahallat\nMeymai\nQohrud\nQohrudi\nSedeh\nSo-Kohrud\nSèdè\nVaneshan\nVanishani\nVarani\nVonishuni\nVānešān\nVānishān\nXunsari\nZefra\nZefren",
+    "glottolog": "\nKhunsari",
+    "elcat": "\nKhunsari\nKhwanshari\nKuk"
+  },
+  "triggers": {
+    "lgcode": "\nchunsar"
+  },
+  "identifier": {
+    "multitree": "kfm",
+    "endangeredlanguages": "2209"
+  },
+  "classification": {
+    "sub": "**hh:h:Lecoq:CIran** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:h:Lecoq:CIran**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Khunsari (2209-kfm) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

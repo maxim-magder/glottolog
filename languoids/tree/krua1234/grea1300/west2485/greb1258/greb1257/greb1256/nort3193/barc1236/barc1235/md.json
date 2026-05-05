@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Barclayville Grebo",
+    "hid": "gry",
+    "level": "language",
+    "iso639-3": "gry",
+    "latitude": "4.67843",
+    "longitude": "-8.09378",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11157342"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hsoc:JohnsonHasselbring:Grebo**\n**hh:hv:IngemannDuitsman:Grebo**"
+  },
+  "altnames": {
+    "wals": "\nGrebo",
+    "ruhlen (1987)": "\nGrebo",
+    "moseley & asher (1994)": "\nGrebo",
+    "multitree": "\nBarclayville Grebo\nGrebo\nGrebo, Barclayville\nWedebo Grebo",
+    "lexvo": "\nBarclayville Grebo [en]",
+    "hhbib_lgcode": "\nGrebo-Barclayville\nKplebo\nWedebo"
+  },
+  "triggers": {
+    "lgcode": "\nintroduction AND grebo"
+  },
+  "identifier": {
+    "wals": "grb",
+    "multitree": "gry"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:15-18 **hh:hsoc:JohnsonHasselbring:Grebo**",
+    "subrefs": "\n**hh:hv:Vogler:Kru:2017**\n**hh:hsoc:JohnsonHasselbring:Grebo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Grebo, Barclayville (gry-gry) = 6a* (Vigorous)."
+  }
+}

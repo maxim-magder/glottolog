@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Western Bukidnon Manobo",
+    "hid": "mbb",
+    "level": "language",
+    "iso639-3": "mbb",
+    "latitude": "7.6682",
+    "longitude": "124.825",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Manobo (Western Bukidnon)](https://wals.info/languoid/lect/wals_code_mwb)\n[Western Bukidnon Manobo](https://endangeredlanguages.com/lang/6250)\n[Western Bukidnon Manobo](https://grambank.clld.org/languages/west2555)\nhttps://en.wikipedia.org/wiki/Western_Bukidnon_Manobo\nhttps://www.wikidata.org/entity/Q7987643"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2430**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**hh:d:Elkins:Manobo**\n**hh:e:HiresHeadland:Western-Bukidnon-Manobo**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:s:Elkins:Manobo**\n**hh:s:Elkins:Manobo:1967**\n**sil16:10594**\n**sil16:10595**\n**sil16:10596**\n**sil16:10597**\n**sil16:10598**\n**sil16:10602**\n**sil16:10603**\n**sil16:10605**\n**sil16:10606**\n**sil16:10607**\n**sil16:10610**\n**sil16:12166**\n**sil16:14857**\n**sil16:14858**\n**sil16:14859**\n**sil16:14860**\n**sil16:14861**\n**sil16:14862**\n**sil16:14863**\n**sil16:14864**\n**sil16:15625**\n**sil16:15627**\n**sil16:15628**\n**sil16:18155**\n**sil16:18156**\n**sil16:18157**\n**sil16:18158**\n**sil16:18159**\n**sil16:18561**\n**sil16:19704**\n**sil16:19705**\n**sil16:19706**\n**sil16:24810**\n**sil16:29636**\n**sil16:29648**\n**sil16:29793**\n**sil16:32464**\n**sil16:35643**\n**sil16:35645**\n**sil16:45618**"
+  },
+  "altnames": {
+    "wals": "\nManobo (Western Bukidnon)",
+    "wals other": "\nBukidnon\nWestern Bukidnon Manobo",
+    "ruhlen (1987)": "\nWest Bukidnon Manobo",
+    "moseley & asher (1994)": "\nWestern Bukidnon",
+    "multitree": "\nManobo (Western Bukidnon)\nManobo, Western Bukidnon",
+    "lexvo": "\nWestern Bukidnon Manobo [en]",
+    "hhbib_lgcode": "\nManobo-Western Bukidnon\nManobo-Western Bukidnon (MbCW.)",
+    "elcat": "\nWestern Bukidnon Manobo"
+  },
+  "triggers": {
+    "lgcode": "\ntumutuu\nedsugud\nkiw\nanit\nigkengezeruwi\nsikan\ntetezemen\nNOT people AND bukidnon\nbukidnon\nkelibutan"
+  },
+  "identifier": {
+    "wals": "mwb",
+    "multitree": "mbb",
+    "endangeredlanguages": "6250"
+  },
+  "classification": {
+    "sub": "**hh:hv:Elkins:Proto-Manobo**",
+    "subrefs": "\n**hh:hv:Elkins:Proto-Manobo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Bukidnon Manobo (6250-mbb) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

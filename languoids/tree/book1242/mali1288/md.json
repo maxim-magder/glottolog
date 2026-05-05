@@ -1,0 +1,27 @@
+{
+  "core": {
+    "name": "Malinguat",
+    "hid": "sic",
+    "level": "language",
+    "iso639-3": "sic",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2008-022**"
+  },
+  "iso_retirement": {
+    "comment": "The two languages are not inherently intelligible; the speakers of Sos Kundi\nidentify their language as different from Keak, similarly the speakers of Keak\nidentify their language as different to Sos Kundi; the lexical similarity of the\ntwo languages is 68%; there is no common literature.",
+    "code": "sic",
+    "name": "Malinguat",
+    "effective": "2009-01-16",
+    "remedy": "Split into Keak [keh] and Sos Kundi [sdk]",
+    "reason": "split",
+    "change_request": "2008-022",
+    "change_to": "\nkeh\nsdk"
+  }
+}

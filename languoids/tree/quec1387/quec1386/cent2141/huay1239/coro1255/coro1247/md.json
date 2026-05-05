@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Corongo Ancash Quechua",
+    "hid": "qwa",
+    "level": "language",
+    "iso639-3": "qwa",
+    "latitude": "-8.57647",
+    "longitude": "-77.9864",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Corongo](https://lexibank.clld.org/languages/crossandean-Yanac)\nhttps://phoible.org/languages/coro1247\nhttps://www.wikidata.org/entity/Q12953841"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Hintz:Corongo**\n**hh:hv:Blum:Quechua**\n**hh:hv:Grimes:Quechua**\n**hh:hv:Torero:Andina:1972**\n**hh:s:Hintz:Corongo**\n**ldh:item_400689**\n**mpieva:Hintz2000Caracter**\n**sil16:23487**\n**sil16:29242**\n**sil16:33381**\n**sil16:36951**\n**sil16:36952**\n**sil16:48987**"
+  },
+  "altnames": {
+    "multitree": "\nAncas\nAncash\nChinchaysuyo\nConchucos\nCorongo Ancash Quechua\nNorth Central Kechua\nNorthern Quechua\nQuechua, Corongo Ancash",
+    "lexvo": "\nCorongo Ancash Quechua [en]",
+    "hhbib_lgcode": "\nCor Corongo QI\nCorongo\nQuechua-Corongo Ancash\nYanac"
+  },
+  "triggers": {
+    "lgcode": "\ncorongo\nancashino\nchumaq"
+  },
+  "identifier": {
+    "multitree": "qwa",
+    "endangeredlanguages": "8113"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grimes:Quechua**:274-279",
+    "subrefs": "\n**hh:hv:Grimes:Quechua**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Conchucos Quechua (8113-qwa) = Vulnerable (60 percent certain, based on the evidence available) (Vigorous, but not in all communities) ['bib71']"
+  }
+}

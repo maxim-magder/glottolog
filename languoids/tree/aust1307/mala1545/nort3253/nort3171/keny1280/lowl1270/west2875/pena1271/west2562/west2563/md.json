@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Western Penan",
+    "hid": "pne",
+    "level": "language",
+    "iso639-3": "pne",
+    "latitude": "3.4667",
+    "longitude": "114.523",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "BN",
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953808"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brosius:86**\n**cldf:harrison:49**\n**cldf:oldrey:75**\n**cldf:pn:75**\n**cldf:sellato:94**\n**hh:e:Arnold:Penan-Rejang**\n**hh:e:Brosius:Penan-Gang**\n**hh:e:Chen:Penans**\n**hh:e:Langub:Penan**\n**hh:e:Needham:Penan:2007**\n**hh:e:Nicolaisen:Penan**\n**hh:e:Nicolaisen:Penan-Hunters**\n**hh:e:Puri:Penan-Benalui**\n**hh:e:Urquhart:Jungle-Punans**\n**hh:he:Fortier:HG-Southeast-Asia**\n**hh:he:SellatoSercombe:Borneo-Hunter-Gatherer**\n**hh:hew:Hildebrand:Borneos**\n**hh:hld:Clayre:Eastern-Malaysia**\n**hh:hld:Soriente:Penan-Kenyah**\n**hh:hv:Kroeger:Sarawak**\n**hh:hv:Rensch:Central-Sarawak**\n**hh:hw:Ray:Borneo**\n**hh:t:Langub:Penan**\n**hh:typ:Soriente:Penan-Kenyah**\n**hh:w:Kaboy:Punan**\n**hh:w:Urquhart:Interior-Dialects**"
+  },
+  "altnames": {
+    "multitree": "\n\"Punan\"\nNibon\nNibong\nPenan, Western",
+    "lexvo": "\nWestern Penan [en]",
+    "hhbib_lgcode": "\nBok\nHose's Punan\nHouse Punan Speng\nJungle Punan Gang\nJungle Punan Lusong of the Rejang river\nNibong\nPenan (Long Merigam)\nPenan Belaga mainly Penan Long Kupang\nPenan Benalui\nPenan Bok of the Tinjar River\nPenan Gang\nPenan-Western\nPlieran Penan\nPunan Bok\nPunan Gang\nPunan Lusong\nPunan Nibong\nPunan Silat\nPunan Sipeng"
+  },
+  "triggers": {
+    "lgcode": "\naxiological\nsuket\nbenalui\npunan\nseventh"
+  },
+  "identifier": {
+    "multitree": "pne",
+    "languagelandscape": "http://languagelandscape.org/language/Penan"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Kenyah-Kayanic** **hh:e:Needham:Penan:2007** **hh:s:Sercombe:Eastern-Penan**:5-7, 30-31",
+    "subrefs": "\n**hh:hvw:Smith:Kenyah-Kayanic**\n**hh:e:Needham:Penan:2007**\n**hh:s:Sercombe:Eastern-Penan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Penan, Western (pne-pne) = 6b (Threatened)."
+  }
+}

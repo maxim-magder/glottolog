@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Logudorese Sardinian",
+    "hid": "src",
+    "level": "language",
+    "iso639-3": "src",
+    "latitude": "40.49",
+    "longitude": "9.09957",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Logudorese Sardinian](https://endangeredlanguages.com/lang/3387)\nhttps://en.wikipedia.org/wiki/Logudorese_Sardinian\nhttps://www.wikidata.org/entity/Q777974"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Casu:Sardo-Logudorese**\n**hh:d:Espa:Logudorese**\n**hh:g:Corda:Sardo-Logudorese**\n**hh:hld:Jones:Sardinia**\n**hh:htyp:Mensching:Sardinian**\n**hh:phon:Hofmann:Logudoresische-Campidanesische**\n**hh:phon:Ludtke:Logudorese**\n**hh:s:Atzori:Sardegna**\n**hh:s:Blasco:Sarda**\n**hh:s:Ferrer:Sarda**\n**hh:s:Jaggli:Sennori**\n**hh:s:Meyer-Lubke:Altlogudoresischen**\n**hh:s:Pittau:Nuoro**\n**hh:sv:Wagner:Sarda**\n**hh:vphon:Wagner:Sudsardischen**\n**mpieva:1988Italieni**\n**mpieva:Wagner1993Lalingua**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Sardinian\nLogodurese Sardinian\nLogoudorien\nLogudorese\nLogudorese Sardinian\nSard\nSardarese\nSardinian\nSardinian, Logudorese\nSardo logudorés",
+    "lexvo": "\nJęzyk logudorski [pl]\nLogudorese Sardinian [en]\nLogudorès [ca]\nSardo logudorese [en]\nSardu logudoresu [sc]\nSardu lugudurese [co]\nЛогудорски јазик [mk]\n劳古多罗方言 [zh]",
+    "hhbib_lgcode": "\nAtleast Logudorese\nLogudorese\nLogudoresisch\nLogudoresische\nNorthern (Logudorese-Nuorese)\nNuorese\nNuoro\nSardinian-Logudorese\nSennori",
+    "elcat": "\nCentral Sardinian\nLogodurese Sardinian\nLogudorese\nLogudorese Sardinian\nSard\nSardarese\nSardinian"
+  },
+  "triggers": {
+    "lgcode": "\naltlogudoresischen\nsardisch"
+  },
+  "identifier": {
+    "multitree": "src",
+    "endangeredlanguages": "3387"
+  },
+  "classification": {
+    "sub": "**hh:htyp:Mensching:Sardinian**:270-272 **hh:sv:Lupinu:Sarda**:27",
+    "subrefs": "\n**hh:sv:Lupinu:Sarda**\n**hh:htyp:Mensching:Sardinian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Logudorese Sardinian (3387-src) = Threatened (80 percent certain, based on the evidence available) (Many children learn the language, but often stop using it at school age.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

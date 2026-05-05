@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Larestani",
+    "hid": "lrl",
+    "level": "language",
+    "iso639-3": "lrl",
+    "latitude": "27.6436",
+    "longitude": "54.63449",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Lari](https://endangeredlanguages.com/lang/4531)\nhttps://en.wikipedia.org/wiki/Achomi_language\nhttps://www.wikidata.org/entity/Q4699526"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dabir-moghaddam:13**\n**cldf:dianat:16**\n**cldf:ed:10**\n**cldf:eghtedari:05**\n**cldf:haeberl:nd**\n**cldf:kamioka:hamidi:etal:86**\n**cldf:lewis:ed:09**\n**cldf:moridi:b:etal:14**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:ourang:nd**\n**cldf:salami:09**\n**hh:b:Moridi:Lar**\n**hh:d:Akbar:Bastaki**\n**hh:d:KamiokaYamada:Lari**\n**hh:d:Salami:Fars:4**\n**hh:h:Borjian:Kerman**\n**hh:hld:RogovaRomanova:Iranskie**\n**hh:hld:Skjaervoe:SEIran**\n**hh:hvst:Mann:Fars**\n**hh:s:Eqtedari:Larestani**\n**hh:s:Khonji:Khonji**\n**hh:s:Khonji:Xonji**\n**hh:s:Molcanova:Larskij**\n**hh:s:Najibi:Fini**\n**hh:s:Rashidi:Buciri**\n**hh:s:Romaskevic:Lar**\n**hh:sd:Eqtedari:Larestani**\n**hh:typ:Assarian:Lari**\n**hh:w:Kamiokaetal:Lari**\n**hh:w:Mahmoodian:Larestanica**"
+  },
+  "altnames": {
+    "multitree": "\nAchomi\nFars\nLarestani\nLari",
+    "lexvo": "\nLareg [br]\nLarestani dialects [en]\nLari [en]\nگویش لارستانی [fa]",
+    "hhbib_lgcode": "\n127-141 Lari\nAchomi\nBastaki\nBuchiri\nFini\nKhonji\nKhunjī\nKhunjī\nLarestani\nLarestanica\nLari\nLarskaya gruppa\nXonji",
+    "elcat": "\n*Achomi\nFars\nLarestani\nLari",
+    "glottolog": "\nLari"
+  },
+  "triggers": {
+    "lgcode": "\nlarskij\nlarestani\nkhonji\nlar"
+  },
+  "identifier": {
+    "multitree": "lrl",
+    "endangeredlanguages": "4531"
+  },
+  "classification": {
+    "sub": "**hh:hld:Skjaervoe:SEIran**:363",
+    "subrefs": "\n**hh:hld:Skjaervoe:SEIran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lari (4531-lrl) = Vulnerable (20 percent certain, based on the evidence available) [Häberl In press](cldf:haeberl:nd)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Meta'",
+    "hid": "mgo",
+    "level": "language",
+    "iso639-3": "mgo",
+    "latitude": "5.88942",
+    "longitude": "9.87416",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Meta'](https://grambank.clld.org/languages/meta1238)\nhttps://en.wikipedia.org/wiki/Meta%CA%BC_language\nhttps://phoible.org/languages/meta1238\nhttps://www.wikidata.org/entity/Q36054"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kaberry:52**\n**eballiso2009:25918**\n**eballiso2009:25923**\n**eballiso2009:26565**\n**eballiso2009:26566**\n**eballiso2009:29358**\n**eballiso2009:40160**\n**eballiso2009:43846**\n**eballiso2009:43904**\n**eballiso2009:43947**\n**hh:dial:Ndam:Moghamo**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Stallcup:Moghamo**\n**hh:hvtyp:Stallcup:Moghamo-Ngie-Oshie**\n**hh:hvw:Blench:Momo-Western-Momo**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:Diboma:Hyrik**\n**hh:phon:Spreda:Metta**\n**hh:phon:Spreda:Metta:1982**\n**hh:phon:Spreda:Metta:2008**\n**hh:phon:Spreda:Moghamo**\n**hh:phon:Tunviken:Moghamo**\n**hh:s:Che:Meta**\n**hh:s:Spreda:Meta**\n**hh:styp:Chibaka:Metta**\n**hh:typ:Fogwe:Meta**\n**hh:typ:Mihas:Negation-Metta**\n**hh:typ:Ngum:Meta**\n**hh:typ:Stallcup:Momo**\n**hh:typ:Teke:Metta**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**mpieva:Levinsohn1994Discours**\n**sil16:30922**\n**sil16:31706**\n**sil16:31767**\n**sil16:34794**\n**sil16:35399**\n**sil16:35864**\n**sil16:36608**\n**sil16:38234**\n**sil16:38235**\n**sil16:38236**\n**sil16:40780**\n**sil16:42409**\n**sil16:42432**\n**sil16:42433**\n**sil16:48129**"
+  },
+  "altnames": {
+    "multitree": "\nBameta\nBatibo\nChubo\nMenemo-Mogamo\nMeta'\nMetta\nMitaa\nMoghamo-Menemo\nMuta\nWidikum-Tadkon",
+    "lexvo": "\nMeta' [en]",
+    "hhbib_lgcode": "\nHyrik\nMenemo\nMeta\nMetta\nMoghamo\nMoghamo_Grassfields\nTshubo-Uta'\nUta"
+  },
+  "triggers": {
+    "lgcode": "\nto{ng{\nmetta\njw\nfogwe\nwe{\ncgh\nmoghamo"
+  },
+  "identifier": {
+    "multitree": "mgo"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Stallcup:Moghamo-Ngie-Oshie**",
+    "subrefs": "\n**hh:hvtyp:Stallcup:Moghamo-Ngie-Oshie**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Meta’ (mgo-mgo) = 5 (Developing)."
+  }
+}

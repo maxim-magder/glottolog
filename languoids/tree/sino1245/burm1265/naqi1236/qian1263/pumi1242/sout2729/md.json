@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southern Pumi",
+    "hid": "pmj",
+    "level": "language",
+    "iso639-3": "pmj",
+    "latitude": "27.8408",
+    "longitude": "100.622",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Pumi (Qinghua)](https://lexibank.clld.org/languages/gaotb-PumiQinghua)\n[Southern Pumi](https://endangeredlanguages.com/lang/5608)\n[Southern Pumi](https://grambank.clld.org/languages/sout2729)\nhttps://phoible.org/languages/sout2729\nhttps://www.wikidata.org/entity/Q3403246"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ding:06:2**\n**cldf:hongkai:97**\n**cldf:jacques:11:2**\n**cldf:jacques:11:6**\n**cldf:jiang:13**\n**cldf:lu:01:1**\n**cldf:moseley:07**\n**cldf:roche:suzuki:17**\n**cldf:sun:01**\n**hh:e:Wellens:Premi**\n**hh:g:Ding:Prinmi**\n**hh:g:Ding:Prinmi:2014**\n**hh:g:Jiang:Dayang-Pumi**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvphon:Lu:Pumi**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:phon:Matisoff:Dayang-Pumi**\n**hh:s:Academy:Pumi**\n**hh:s:Ding:Prinmi**\n**hh:s:Ding:Prinmi:2017**\n**hh:s:Jiang:Dayang-Pumi**\n**hh:s:Lu:Pumi**\n**hh:s:Lu:Pumi:2007**\n**hh:typ:Lu:Pumi**\n**hh:w:Bufan:Zangmian**\n**mpieva:Lu1983Pumiyuji**\n**mpieva:Lu2001Pumiyufa**\n**sil16:47371**"
+  },
+  "altnames": {
+    "multitree": "\nNorthern\nP'rome\nP'umi\nP'ömi\nPimi\nPrimi\nPrimmi\nPrinmi\nPruumi\nPumi\nPumi, Southern\nPumi,Southern\nSouthern\nSouthern Prinmi",
+    "lexvo": "\nSouthern Pumi [en]",
+    "hhbib_lgcode": "\nCentral Pumi\nDayang Pumi\nDianqing\nJinghua\nJinghua Pumi\nNiuwozi in Ninglang\nNorthern Pumi [pmi]\nPremi\nPrinmi\nPumi Jinghua\nPumi-Lanping\nPumi-Southern\nQīnghuā\nQīnghuā Pumi\nQīnghuā-Lánpíng County-Yunnan\nWestern Pumi",
+    "elcat": "\nP'rome\nP'umi\nP'ömi\nPimi\nPrimi\nPrimmi\nPrinmi\nPruumi\nPumi\nSouthern Prinmi\nSouthern Pumi\n南普米語"
+  },
+  "triggers": {
+    "lgcode": "\nNOT language AND pumi\nadumbrations\ndayang"
+  },
+  "identifier": {
+    "multitree": "pmj",
+    "endangeredlanguages": "5608"
+  },
+  "classification": {
+    "sub": "**hh:hv:JacquesMichaud:Naxi-Na-Laze**",
+    "subrefs": "\n**hh:hv:JacquesMichaud:Naxi-Na-Laze**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Pumi (5608-pmj) = Vulnerable (20 percent certain, based on the evidence available) [Moseley 2007](cldf:moseley:07)"
+  }
+}

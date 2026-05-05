@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Irish Sign Language",
+    "hid": "isg",
+    "level": "language",
+    "iso639-3": "isg",
+    "latitude": "53.315",
+    "longitude": "-6.36541",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q14183\nhttps://en.wikipedia.org/wiki/Irish_Sign_Language\n[Irish Sign Language](https://wals.info/languoid/lect/wals_code_irs)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Foran:Irish-Sign**\n**hh:g:OBaoill:Irish-Sign**\n**hh:h:Schembri:Sign-Britain**\n**hh:hld:Wilkinson:Signed**\n**hh:hv:ParkhurstParkhurst:Comparisons-Signed**\n**hh:ldsoc:LeMaster:Irish-Sign**\n**hh:s:Leeson:Irish-Sign**\n**hh:s:LeesonSaeed:Irish-Sign**\n**hh:soc:Burns:Irish-Sign**\n**hh:soc:Matthews:Irish-Deaf**\n**hh:soc:ParksParks:Deaf-Northern-Ireland**\n**hh:typ:Fitzgerald:Irish-Sign**\n**hh:typ:Leeson:ISL**\n**hh:typ:Leeson:Irish-Sign:1996**\n**hh:typ:Mohr:Irish-Sign-Mouth**\n**hh:typsoc:McDonnell:Irish-Sign**\n**hh:v:Parks:Sign-Language-Comparisons**\n**hh:vldsoc:LeesonGrehan:Irish-Sign-Gender**"
+  },
+  "altnames": {
+    "wals": "\nIrish Sign Language",
+    "multitree": "\nIrish Sign Language",
+    "lexvo": "\nIrish Sign Language [en]\nLangue des signes irlandaise [fr]",
+    "hhbib_lgcode": "\nIreland\nIrish Sign Language (ISL)"
+  },
+  "triggers": {
+    "lgcode": "\nlexical AND signed"
+  },
+  "identifier": {
+    "wals": "irs",
+    "multitree": "isg"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Irish Sign Language (isg-isg) = 5 (Developing). Recognized language (2017, Irish Sign Language Act 2017), authorized for use and interpretation in courts, schools, and other public bodies."
+  },
+  "classification": {
+    "sub": "Schooling predominantly deriving from LSF-instruction (**hh:s:LeesonSaeed:Irish-Sign**:30-59, **hh:h:Woll:Global-Sign**:27-29, **hh:soc:Burns:Irish-Sign**).",
+    "subrefs": "\n**hh:h:Woll:Global-Sign**\n**hh:soc:Burns:Irish-Sign**\n**hh:s:LeesonSaeed:Irish-Sign**"
+  }
+}

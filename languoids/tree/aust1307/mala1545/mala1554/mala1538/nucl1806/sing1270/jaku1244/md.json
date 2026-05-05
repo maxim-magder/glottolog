@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Jakun",
+    "hid": "jak",
+    "level": "language",
+    "iso639-3": "jak",
+    "latitude": "2.64582",
+    "longitude": "103.342",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Jakun](https://endangeredlanguages.com/lang/4315)\nhttps://www.wikidata.org/entity/Q4216968\nhttps://en.wikipedia.org/wiki/Jakun_language"
+  },
+  "classification": {
+    "sub": "**hh:phon:Collins:Landai** **hh:phon:Seidlitz:Jakun-Malay**",
+    "subrefs": "\n**hh:phon:Collins:Landai**\n**hh:phon:Seidlitz:Jakun-Malay**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:e:Schebesta:Kubu-Jakudn**\n**hh:e:Schebesta:O**\n**hh:he:Carey:Orang-Asli**\n**hh:hv:Anderbeck:Orang-Laut**\n**hh:hvw:Marsden:East-Insular**\n**hh:hvw:SkeatBlagden:Malay**\n**hh:lde:Logan:Binua**\n**hh:phon:Collins:Landai**\n**hh:phon:Seidlitz:Jakun-Malay**\n**hh:w:Laketeal:Camphor**\n**hh:w:Machado:Jakuns**\n**hh:w:Noone:Benua-Jakun**\n**hh:w:Ross:Ulu-Endau**\n**hh:w:Winstedt:Camphor**"
+  },
+  "altnames": {
+    "multitree": "\nDjakun\nJakoon\nJaku'd\nJakud'n\nJakun\nOrang Hulu\nOrang hulu\nYakuno",
+    "lexvo": "\nJakun [en]",
+    "hhbib_lgcode": "\n11xJakun\nCamphor\nCamphor an avoidance language spoken by the Jakuns when searching for camphor\nCamphor register\nCamphor register an avoidance language spoken by the Jakuns when searching for camphor\nJakong of Malay Peninsula by Raffles\nJakudn\nJakun 1906\nJakun 2003\nPahang Jakun",
+    "elcat": "\nDjakun\nJakoon\nJaku'd\nJakud'n\nJakun\nOrang Hulu"
+  },
+  "triggers": {
+    "lgcode": "\nkalang\nlandai\nmenuju\njakun"
+  },
+  "identifier": {
+    "multitree": "jak",
+    "endangeredlanguages": "4315"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Jakun (4315-jak) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

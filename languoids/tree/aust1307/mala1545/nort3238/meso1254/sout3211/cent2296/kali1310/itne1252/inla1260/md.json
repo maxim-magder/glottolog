@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Inlaod Itneg",
+    "hid": "iti",
+    "level": "language",
+    "iso639-3": "iti",
+    "latitude": "17.61752",
+    "longitude": "120.65389",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953585"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2439**\n**asjp2010:2726**\n**hh:hv:Himes:Kalinga-Itneg**"
+  },
+  "altnames": {
+    "multitree": "\nInlaod\nItneg, Inlaod\nTinggian\nTinguian",
+    "lexvo": "\nInlaod Itneg [en]"
+  },
+  "triggers": {
+    "lgcode": "\n1 AND kamchatkan"
+  },
+  "identifier": {
+    "multitree": "iti"
+  },
+  "classification": {
+    "sub": "**hh:hv:Himes:Kalinga-Itneg**",
+    "subrefs": "\n**hh:hv:Himes:Kalinga-Itneg**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Itneg, Inlaud (iti-iti) = 6b (Threatened)."
+  }
+}

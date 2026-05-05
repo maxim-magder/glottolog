@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Spokane",
+    "hid": "spo",
+    "level": "language",
+    "iso639-3": "spo",
+    "latitude": "47.9087",
+    "longitude": "-118.062",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Spokane](https://wals.info/languoid/lect/wals_code_spo)\nhttps://phoible.org/languages/spok1245\nhttps://www.wikidata.org/entity/Q3493704",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:678**\n**cldf:bates:97:2**\n**cldf:carlson:80:1**\n**cldf:carlson:80:2**\n**cldf:carlson:89**\n**cldf:carlson:96**\n**cldf:carlson:97**\n**cldf:carlson:flett:89**\n**hh:e:Ross:Spokane**\n**hh:g:Carlson:Spokane**\n**mpieva:Carlson1989Spokaned**"
+  },
+  "altnames": {
+    "wals": "\nSpokane",
+    "ruhlen (1987)": "\nSpokane",
+    "multitree": "\nEspokane\nFlathead-Kalispel-Spokane\nFlathead-Pend d'Oreille-Spokane\nMontana Salish-Kalispel-Spokane\nMontana Salish-Pend d'Oreille-Spokane\nNpoqínišcn\nSpokan\nSpokane\nSpokane-Kalispel-Flathead",
+    "lexvo": "\nSpokane [en]"
+  },
+  "triggers": {
+    "lgcode": "\nspokane\nspokan"
+  },
+  "identifier": {
+    "wals": "spo",
+    "multitree": "spo",
+    "endangeredlanguages": "4148"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950**",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Spokane (spo-spo) = 9 (Reawakening). Language of registered tribe: Spokane Tribe of the Spokane Reservation."
+  }
+}

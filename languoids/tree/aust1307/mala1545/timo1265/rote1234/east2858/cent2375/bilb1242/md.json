@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bilba",
+    "hid": "bpz",
+    "level": "language",
+    "iso639-3": "bpz",
+    "latitude": "-10.6503",
+    "longitude": "123.307",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q8843362\nhttps://en.wikipedia.org/wiki/Bilba_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fox:93:1**\n**hh:tdial:Jonker:Rottineesche**"
+  },
+  "altnames": {
+    "multitree": "\nBelubaa\nBilba\nBilbaa\nEastern Rote\nRote\nRote Timur\nRoti\nRotinese",
+    "lexvo": "\nBilba [en]",
+    "hhbib_lgcode": "\nBilba (Belubá)"
+  },
+  "triggers": {
+    "lgcode": "\nportuguese AND diu"
+  },
+  "identifier": {
+    "multitree": "bpz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:180-188",
+    "subrefs": "\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bilba (bpz-bpz) = 6a (Vigorous)."
+  }
+}

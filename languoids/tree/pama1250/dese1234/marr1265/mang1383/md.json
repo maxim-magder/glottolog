@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mangala",
+    "hid": "mem",
+    "level": "language",
+    "iso639-3": "mem",
+    "latitude": "-18.6597",
+    "longitude": "123.769",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Mangala](https://collection.aiatsis.gov.au/austlang/language/a65)\n[Mangala](https://endangeredlanguages.com/lang/5934)\n[Northern Mangarla](https://lexibank.clld.org/languages/bowernpny-NorthernMangarla)\nhttps://en.wikipedia.org/wiki/Mangarla_language\nhttps://phoible.org/languages/mang1383\nhttps://www.wikidata.org/entity/Q6748664"
+  },
+  "sources": {
+    "glottolog": "\n**bowern:ASEDA0192**\n**bowern:hud73**\n**bowern:mckelson**\n**cldf:bowern:11:1**\n**cldf:centre:09:11**\n**cldf:ed:10**\n**cldf:moseley:07**\n**cldf:thieberger:96**\n**cldf:tryon:07**\n**hh:d:Burgman:Mangala**\n**hh:e:Toussaint:Kimberley**\n**hh:g:Agnew:Mangarla**\n**hh:h:Berndt:Western-Desert**\n**hh:hvw:Capell:NWAustralia**\n**hh:s:McKelson:Manala:1974**\n**hh:s:McKelson:Mangala**\n**hh:s:McKelson:Mangala:1983**\n**ozbib:3913**\n**ozbib:4305**\n**ozbib:4321**\n**ozbib:504**\n**ozbib:5628**\n**ozbib:5629**\n**ozbib:6124**\n**ozbib:6217**\n**ozbib:6218**\n**ozbib:6220**\n**ozbib:6222**\n**ozbib:6223**\n**ozbib:6226**\n**ozbib:6770**\n**ozbib:721**\n**ozbib:7244**\n**ozbib:726**\n**ozbib:928**\n**ozbib:931**"
+  },
+  "altnames": {
+    "multitree": "\nDjawali\nDjuwali\nJiwali\nJiwarli\nKoalgurdi\nManala\nMangai\nMangal\nMangala\nMangalaa\nMangarla\nMangula\nMaŋala\nMinala\nYalmbau",
+    "lexvo": "\nMangala [en]",
+    "hhbib_lgcode": "\nManala\nMangarla",
+    "elcat": "\nDjawali\nDjuwali\nJiwali\nJiwarli\nKoalgurdi\nManala\nMangai\nMangal\nMangala\nMangalaa\nMangarla\nMangula\nMaŋala\nMinala\nYalmbau",
+    "aiatsis": "\nDjualin\nDjuwali\nDjuwalia\nJiwali\nKoalgurdi\nManala\nMangai\nMangal\nMangala\nMangarla\nMangula\nMangunda\nMarrngu\nMinala\nMungala\nYalmbau"
+  },
+  "triggers": {
+    "lgcode": "\nmangala\njiwarli"
+  },
+  "identifier": {
+    "multitree": "mem",
+    "endangeredlanguages": "5934"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mangala (5934-mem) = Severely Endangered (20 percent certain, based on the evidence available) [Centre 2009](cldf:centre:09:11)"
+  }
+}

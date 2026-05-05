@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gamo",
+    "hid": "gmv",
+    "level": "language",
+    "iso639-3": "gmv",
+    "latitude": "6.27645",
+    "longitude": "37.23808",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Gamo](https://grambank.clld.org/languages/gamo1243)\n[Gamo](https://wals.info/languoid/lect/wals_code_gam)\nhttps://phoible.org/languages/gamo1243\nhttps://www.wikidata.org/entity/Q16116386"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:12365**\n**eballiso2009:13463**\n**eballiso2009:15970**\n**eballiso2009:1707**\n**eballiso2009:19991**\n**eballiso2009:24940**\n**hh:e:Bureau:Gamo**\n**hh:g:Gonderie:Kole**\n**hh:g:Taylor:Gamo**\n**hh:gd:HaywardChabo:Gamo**\n**hh:hv:Woldemariam:Gamo:2013**\n**hh:hv:Woldemariam:Ometo**\n**hh:hvld:Woldemariam:Gamo**\n**hh:hvw:Jordan:Shara-Ometo**\n**hh:phon:Samuel:Gamo**\n**hh:phon:Thomassen:Gamo**\n**hh:s:Hompo:Gamo**\n**hh:soctyp:Wondimu:Gamotsotso**\n**hh:t:Bureau:Gamo**\n**hh:typ:Belaywork:Gaamo**\n**hh:typ:Binyam:Ochollo**\n**hh:typ:Kassa:Gamo**\n**hh:typ:Wubneh:Ochollo**\n**iso6393:2008-080**"
+  },
+  "altnames": {
+    "multitree": "\nDache\nGamo\nGemu\nGereze",
+    "lexvo": "\nGamo [en]",
+    "hhbib_lgcode": "\nBonke\nDhaach'e Gamo\nGaamo\nKole\nOchollo\nSouth Gamo"
+  },
+  "triggers": {
+    "lgcode": "\nNOT verb AND kullo\nintroduzione"
+  },
+  "identifier": {
+    "multitree": "gmv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gamo (gmv-gmv) = 4 (Educational)."
+  }
+}

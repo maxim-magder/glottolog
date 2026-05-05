@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Budong-Budong",
+    "hid": "bdx",
+    "level": "language",
+    "iso639-3": "bdx",
+    "latitude": "-2.07756",
+    "longitude": "119.327",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Budong-Budong](https://endangeredlanguages.com/lang/1408)\nhttps://en.wikipedia.org/wiki/Budong-Budong_language\nhttps://www.wikidata.org/entity/Q4985158"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Laskowske:Seko**\n**hh:sd:Manda:Tangkou**\n**hh:w:YamaguchiNakashima:Baras-Sarudu-Tangkou**\n**mpieva:Manda2002Kosakata**"
+  },
+  "altnames": {
+    "multitree": "\nBudong-Budong\nBudong-budong\nBudón-budón\nTangkou\nTongkou",
+    "lexvo": "\nBudong-Budong [en]",
+    "hhbib_lgcode": "\nTangkou",
+    "elcat": "\nBubudong\nBudong-Budong\nTangkou\nTo Budo-Budo\nTongkou"
+  },
+  "triggers": {
+    "lgcode": "\ntangkou"
+  },
+  "identifier": {
+    "multitree": "bdx",
+    "endangeredlanguages": "1408"
+  },
+  "classification": {
+    "sub": "**hh:hv:Laskowske:Seko**",
+    "subrefs": "\n**hh:hv:Laskowske:Seko**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Budong-Budong (1408-bdx) = Severely Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

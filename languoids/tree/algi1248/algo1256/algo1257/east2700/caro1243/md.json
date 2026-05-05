@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Carolina Algonquian",
+    "hid": "crr",
+    "level": "language",
+    "iso639-3": "crr",
+    "latitude": "35.979",
+    "longitude": "-77.291",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5044773\nhttps://en.wikipedia.org/wiki/Carolina_Algonquian_language",
+    "timespan": "1795-01-01/1795-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Feest:North-Carolina-Algonquians**\n**hh:hv:Goddard:Eastern-Algonquian**\n**hh:w:Geary:Pamlico**\n**hh:w:Hariotetal:Roanoke**\n**iso6393:2022-008**"
+  },
+  "altnames": {
+    "multitree": "\nCarolina Algonquian\nCarolina Algonquin",
+    "lexvo": "\nCarolina Algonquian [en]",
+    "hhbib_lgcode": "\nNorth Carolina Algonquian\nPamlico"
+  },
+  "triggers": {
+    "lgcode": "\nroanoke"
+  },
+  "identifier": {
+    "multitree": "cral;crr"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Carolina Algonquian (crr-crr) = 10 (Extinct)."
+  }
+}

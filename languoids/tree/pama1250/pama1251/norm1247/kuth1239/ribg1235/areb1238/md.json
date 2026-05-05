@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Areba",
+    "hid": "aea",
+    "level": "language",
+    "iso639-3": "aea",
+    "latitude": "-16.63548",
+    "longitude": "142.63107",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Ariba](https://endangeredlanguages.com/lang/3594)\nhttps://www.wikidata.org/entity/Q3509129",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hv:Black:Norman-Pama**"
+  },
+  "altnames": {
+    "multitree": "\nA:rap\nAraba\nAreba\nAripa\nKurtjar\nNgariba\nRib\nRibh",
+    "lexvo": "\nAreba [en]",
+    "hhbib_lgcode": "\nRib",
+    "elcat": "\nA:rap\nAraba\nAreba\nAriba\nAripa\nKurtjar\nNgariba\nRib\nRibh"
+  },
+  "identifier": {
+    "multitree": "aea",
+    "endangeredlanguages": "3594"
+  },
+  "classification": {
+    "sub": "**hh:hv:Black:Norman-Pama**",
+    "subrefs": "\n**hh:hv:Black:Norman-Pama**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Areba (aea-aea) = 10 (Extinct)."
+  }
+}

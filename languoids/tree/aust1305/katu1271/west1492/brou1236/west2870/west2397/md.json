@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Western Bru",
+    "hid": "brv",
+    "level": "language",
+    "iso639-3": "brv",
+    "latitude": "16.4906",
+    "longitude": "104.754",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH"
+    ],
+    "links": "\n[Bru (Western)](https://wals.info/languoid/lect/wals_code_brw)\n[Western Bru](https://endangeredlanguages.com/lang/3972)\n[Western Bru](https://grambank.clld.org/languages/west2397)\nhttps://phoible.org/languages/west2397\nhttps://www.wikidata.org/entity/Q13018531"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:tebow:ii:etal:10**\n**cldf:thongkum:79**\n**hh:d:ThongkumPuengpa:Bruu**\n**hh:g:Wheeler:Bru**\n**hh:phon:Green:Bru**\n**hh:phon:GreenvanderHaak:Bru**\n**hh:s:Jimreivat:Bruu**\n**hh:st:Engelkemier:Bru**\n**hh:styp:Tebow:Bru-Khok-Sa-At**\n**hh:w:Mundi:Bru**\n**sil16:43081**\n**sil16:43082**"
+  },
+  "altnames": {
+    "wals": "\nBru (Western)",
+    "wals other": "\nBruu\nWestern\nWestern Bru",
+    "moseley & asher (1994)": "\nBru",
+    "multitree": "\nB'ru\nBaroo\nBaru\nBrou\nBru\nBru (Western)\nBru, Western\nBruu\nLeu\nLeung\nMuong Leong\nQuàngtri Vân Kiêu\nTri",
+    "lexvo": "\nWestern Bru [en]",
+    "hhbib_lgcode": "\nBru\nBru in Serk and Makfùang in the remote upstream sections of the Nam Noi and Nam Theun rivers in Nakai District of Khammouane Province in Laos\nBru-Western\nBruu",
+    "elcat": "\nB'ru\nBaroo\nBaru\nBrou\nBru\nBru (Western)\nBruu\nLeu\nLeung\nMuong Leong\nQuàngtri Vân Kiêu\nTri\nWestern\nWestern Bru"
+  },
+  "triggers": {
+    "lgcode": "\nbhumibol\nchiem\nubon\nkhok\nratchathani"
+  },
+  "identifier": {
+    "wals": "brw",
+    "multitree": "brv",
+    "endangeredlanguages": "3972"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gehrmann:West-Katuic**:46-48",
+    "subrefs": "\n**hh:hv:Gehrmann:West-Katuic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Western Bru (3972-brv) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

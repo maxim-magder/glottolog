@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Jejara Naga",
+    "hid": "pzn",
+    "level": "language",
+    "iso639-3": "pzn",
+    "latitude": "25.48",
+    "longitude": "94.92",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Jejara](https://endangeredlanguages.com/lang/10415)\n[Para Naga](https://grambank.clld.org/languages/para1302)\nhttps://en.wikipedia.org/wiki/Para_language\nhttps://www.wikidata.org/entity/Q7133667"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:ed:09**\n**hh:g:Barkman:Jejara**\n**hh:he:Saul:Naga-Burma**\n**iso6393:2007-252**\n**iso6393:2021-014**"
+  },
+  "altnames": {
+    "multitree": "\nBara Naga\nJejara Naga\nNaga, Para\nNaga,Para",
+    "lexvo": "\nPara Naga [en]",
+    "hhbib_lgcode": "\nPara\nPara Naga",
+    "elcat": "\nBara Naga\nJejara\nNaga\nPara\nPara Naga\nParasar",
+    "glottolog": "\nPara Naga"
+  },
+  "triggers": {
+    "lgcode": "\nmesolanguage"
+  },
+  "identifier": {
+    "multitree": "pzn",
+    "endangeredlanguages": "10415"
+  },
+  "classification": {
+    "sub": "**hh:he:Saul:Naga-Burma**",
+    "subrefs": "\n**hh:he:Saul:Naga-Burma**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Jejara (10415-pzn) = Vulnerable (80 percent certain, based on the evidence available) (Jejaras use their mother tongue almost exclusively, the exceptions being at school, in the district center, and during Bible reading.) [Barkman 2014](cldf:barkman:14)"
+  }
+}

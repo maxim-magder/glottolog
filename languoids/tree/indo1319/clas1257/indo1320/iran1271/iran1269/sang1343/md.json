@@ -1,0 +1,35 @@
+{
+  "core": {
+    "name": "Sanglechi-Ishkashimi",
+    "level": "family",
+    "iso639-3": "sgl",
+    "hid": "sgl",
+    "countries": [
+      "AF",
+      "TJ"
+    ],
+    "macroareas": [
+      "Eurasia"
+    ],
+    "longitude": "71.67426",
+    "latitude": "36.635405",
+    "links": "\nhttps://www.wikidata.org/entity/Q18711232"
+  },
+  "classification": {
+    "sub": "**hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses** **hh:hv:Wendtland:Pamir** **hh:wsoc:Beck:Ishkashimi-Sanglechi** **hh:hv:Novak:Eastern-Iranian:2013**",
+    "subrefs": "\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Novak:Eastern-Iranian:2013**\n**hh:hv:Wendtland:Pamir**\n**hh:hv:Korn:Iranian-Isoglosses**\n**hh:wsoc:Beck:Ishkashimi-Sanglechi**"
+  },
+  "iso_retirement": {
+    "comment": "The lexical similarity of Ishkashimi and Sanglechi is 70%. Comprehension testing\nshowed that intelligibility between the two speech varieties is marginal,\nalthough the Sanglechi understand Ishkashimi slightly better than vice versa. No\ncommon writing system and no common literature exists for the two speech\nvarieties since they are oral languages. The speakers of Ishkashimi and\nSanglechi do not perceive themselves to speak the same language nor to have the\nsame ethnolinguistic identity.",
+    "code": "sgl",
+    "name": "Sanglechi-Ishkashimi",
+    "effective": "2010-01-18",
+    "remedy": "Split into Sanglechi [sgy] and Ishkashimi [isk]",
+    "reason": "split",
+    "change_request": "2009-029",
+    "change_to": "\nsgy\nisk"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2009-029**\n**mpieva:Morgenstierne1973IranianP**\n**mpieva:Pachalina1959Iskasims**\n**sil16:45880**"
+  }
+}

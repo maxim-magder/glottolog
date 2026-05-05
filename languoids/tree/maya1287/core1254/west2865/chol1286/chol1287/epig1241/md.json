@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Epigraphic Mayan",
+    "hid": "emy",
+    "level": "language",
+    "iso639-3": "emy",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q301355\nhttps://en.wikipedia.org/wiki/Classic_Maya_language",
+    "longitude": "-88.768865",
+    "latitude": "18.993121",
+    "timespan": "0200-01-01/0900-01-01"
+  },
+  "classification": {
+    "sub": "**hh:g:Macri:Palenque**:30-31",
+    "subrefs": "\n**hh:g:Macri:Palenque**"
+  },
+  "triggers": {
+    "lgcode": "\nepigraphic AND mayan"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Epigraphic Mayan (emy-emy) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nEarly Classic Maya Hieroglyphic\nHieroglyphic Maya\nMaya hieroglyphic writing at Palenque 700AD\nMayan\nPalenque Mayan"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Macri:Palenque**\n**hh:g:MoraMarin:LateMayan**\n**hh:ld:Stuart:Maya-Hieroglyph**\n**hh:s:Bricker:Mayan**\n**hh:s:Lacadena:Hieroglyphic-Maya**\n**hh:s:Law:Early-Classic-Maya-Hieroglyphic-**\n**hh:typ:Sanz:Mayas-Clasico**"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mmen",
+    "hid": "bfm",
+    "level": "language",
+    "iso639-3": "bfm",
+    "latitude": "6.43213",
+    "longitude": "10.2541",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mmen](https://grambank.clld.org/languages/mmen1238)\nhttps://en.wikipedia.org/wiki/Mmen_language\nhttps://phoible.org/languages/mmen1238\nhttps://www.wikidata.org/entity/Q36132"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kaberry:52**\n**cldf:mcculloch:littlewood:etal:54**\n**eballiso2009:18589**\n**eballiso2009:24273**\n**eballiso2009:41754**\n**eballiso2009:42824**\n**eballiso2009:49800**\n**eballiso2009:51337**\n**eballiso2009:55024**\n**eballiso2009:57562**\n**eballiso2009:9855**\n**hh:e:McCulloch:Tikar**\n**hh:hvw:Paulin:Ring**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:phon:Agha:Mmen**\n**hh:phon:Bjorkestedt:Mmen**\n**hh:phontyp:Agha:Mmen**\n**hh:s:Bangha:Mmen**\n**hh:s:Kiessling:Men**\n**hh:soc:Troyeretal:Mmen-Aghem**\n**hh:typ:Moller:Mmen**\n**hh:typ:Nilsson:Mmen**\n**hh:typ:Nilsson:Mmen:MA**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**ldh:item_403515**\n**ldh:item_403519**"
+  },
+  "altnames": {
+    "multitree": "\nBafmen\nBafmeng\nBafoumeng\nBafumen\nMme\nMmen",
+    "lexvo": "\nMmen [en]",
+    "hhbib_lgcode": "\nBafmeng\nCha'\nChai\nFungom-We\nMme\nNwos\nNyos"
+  },
+  "triggers": {
+    "lgcode": "\nmmen\nfungom"
+  },
+  "identifier": {
+    "multitree": "bfm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Piron:Bantoide**:579",
+    "subrefs": "\n**hh:hvw:Piron:Bantoide**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Fungom (547-bfm-fun) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Shua",
+    "hid": "shg",
+    "level": "language",
+    "iso639-3": "shg",
+    "latitude": "-21.52",
+    "longitude": "26.0238",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "ZW"
+    ],
+    "links": "\n[Shua](https://endangeredlanguages.com/lang/600)\nhttps://www.wikidata.org/entity/Q3501092\nhttps://en.wikipedia.org/wiki/Shua_language\n[Deti](https://wals.info/languoid/lect/wals_code_det)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brenzinger:07:2**\n**cldf:brenzinger:11**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hasselbring:00:2**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**eballiso2009:10203**\n**eballiso2009:16556**\n**eballiso2009:31081**\n**eballiso2009:31086**\n**eballiso2009:35109**\n**eballiso2009:39245**\n**eballiso2009:42205**\n**eballiso2009:45738**\n**eballiso2009:45894**\n**eballiso2009:4627**\n**eballiso2009:47792**\n**hh:d:Fehn:Shua**\n**hh:e:Cashdan:NKalahari**\n**hh:hel:ChebanneNthapelelang:EKhoe**\n**hh:hsoc:Chebanne:EKhoe**\n**hh:hv:Vossen:Khoe:1998**\n**hh:hvphon:Vossen:Khoe**\n**hh:s:Vossen:Cara**\n**hh:s:Vossen:Shua**\n**hh:soc:Chebanne:Eastern-Kalahari-Khoe**\n**hh:typ:McGregor:Shua**\n**hh:typ:McGregor:Shua:Counter**"
+  },
+  "altnames": {
+    "wals": "\nDeti",
+    "moseley & asher (1994)": "\nDeti",
+    "lexvo": "\nShua [en]\nShwa language [en]",
+    "hhbib_lgcode": "\nCara\nCara-/Xaise\nDanisi\nDeti",
+    "elcat": "\nMashuakwe\nShua\nShua-Khwe\nTshumakwe"
+  },
+  "triggers": {
+    "lgcode": "\nkolobeng\npans\nverbalbau\ncirecire\nganadi\nshua"
+  },
+  "identifier": {
+    "wals": "det",
+    "endangeredlanguages": "600"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Vossen:Khoe**",
+    "subrefs": "\n**hh:hvphon:Vossen:Khoe**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Shua (600-shg) = Endangered (40 percent certain, based on the evidence available) [Brenzinger 2011](cldf:brenzinger:11)"
+  }
+}

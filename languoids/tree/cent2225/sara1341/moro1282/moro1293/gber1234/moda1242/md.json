@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Mo'da",
+    "hid": "gbn",
+    "level": "language",
+    "iso639-3": "gbn",
+    "latitude": "6.1463",
+    "longitude": "29.7355",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Mo'da](https://endangeredlanguages.com/lang/4194)\nhttps://www.wikidata.org/entity/Q12755683"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:vinson:11**\n**hh:h:Tucker:Eastern-Sudanic**\n**hh:hvw:Persson:Bongo-Baka**\n**hh:hw:Evans-Pritchard:Non-Dinka**"
+  },
+  "altnames": {
+    "multitree": "\nGbara\nGberi\nGweri\nMo'da\nModa\nMuda",
+    "lexvo": "\nMo'da [en]",
+    "hhbib_lgcode": "\nGberi",
+    "elcat": "\nGbara\nGberi\nGweri\nMo'da\nMuda"
+  },
+  "identifier": {
+    "multitree": "gbn",
+    "endangeredlanguages": "4194"
+  },
+  "classification": {
+    "sub": "**hh:hw:Evans-Pritchard:Non-Dinka**",
+    "subrefs": "\n**hh:hw:Evans-Pritchard:Non-Dinka**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mo'da (4194-gbn) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

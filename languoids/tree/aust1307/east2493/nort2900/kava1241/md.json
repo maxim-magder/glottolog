@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kavalan",
+    "hid": "ckv",
+    "level": "language",
+    "iso639-3": "ckv",
+    "latitude": "24.6947",
+    "longitude": "121.645",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Kavalan](https://endangeredlanguages.com/lang/4176)\n[Kavalan](https://grambank.clld.org/languages/kava1241)\nhttps://en.wikipedia.org/wiki/Kavalan_language\nhttps://www.wikidata.org/entity/Q716627"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chang:00:1**\n**cldf:ed:10**\n**cldf:hsieh:xiefuhuihuangxuanfan:07**\n**cldf:lewis:ed:09**\n**cldf:np:16:1**\n**cldf:np:nd:264**\n**hh:d:Li:Kavalan**\n**hh:ew:Taintor:Northern-Formosa**\n**hh:g:Chang:Gamalan**\n**hh:g:Xie:Gemalan:2018**\n**hh:htyp:Liao:Formosan-Philippine**\n**hh:hv:Li:EFormosans**\n**hh:s:Ceng:Gamalan**\n**hh:styp:Lee:Kavalan**\n**hh:typ:Chang:Seediq-Kavalan**\n**hh:typ:Haowen:Kavalan**\n**hh:typ:Lin:Kavalan-Amis:Interrogative-Verbs**\n**hh:typ:Sung:Kavalan-Amis**\n**hh:w:Li:Formosan:2004**\n**sil16:48325**\n**sil16:48326**\n**sil16:48328**"
+  },
+  "altnames": {
+    "multitree": "\nCabaran\nKabalan\nKabaran\nKamalan\nKavalan\nKavalano\nKavanan\nKavarauan\nKbalan\nKibalan\nKiwaraw\nKiwarawa\nKuvalan\nKuvarawan\nKuwarawan\nKvalan\nShekwan\nSprache von Formosa",
+    "lexvo": "\nKavalan [en]\nKavalan language [en]\nLingua Kavalan [it]\nภาษากาวาลัน [th]\nクバラン語 [ja]\n噶瑪蘭語 [zh]",
+    "hhbib_lgcode": "\nGamalan\nGemalan\nKabaran",
+    "elcat": "\nCabaran\nKabalan\nKabaran\nKamalan\nKavalan\nKavanan\nKavarauan\nKbalan\nKibalan\nKiwaraw\nKiwarawa\nKuvalan\nKuvarawan\nKuwarawan\nKvalan\nShekwan\nSprache von Formosa\n噶瑪蘭語"
+  },
+  "triggers": {
+    "lgcode": "\ngemalanyu\nkavalan"
+  },
+  "identifier": {
+    "multitree": "ckv",
+    "endangeredlanguages": "4176"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kavalan (4176-ckv) = Critically Endangered (80 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

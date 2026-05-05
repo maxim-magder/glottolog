@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Papi",
+    "hid": "ppe",
+    "level": "language",
+    "iso639-3": "ppe",
+    "latitude": "-4.4725",
+    "longitude": "142.011",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Papi](https://endangeredlanguages.com/lang/2645)\nhttps://www.wikidata.org/entity/Q7132809\nhttps://en.wikipedia.org/wiki/Papi_language"
+  },
+  "classification": {
+    "family": "Typological arguments are not sufficient to conclude a Leonard Schultze family\nwith Walioic **hh:hvld:LaycockZGraggen:Sepik-Ramu**. The lexical evidence does\nnot show any conclusive genetic relationship either, be it inside or outside\nLeonard Schultze **hh:hvw:ConradDye:USepik**, or with Duranmin\n**hh:hvw:ConradLewis:USepik** (a higher figure (29%) of Papi-Duranmin\nlexicostatistical relations quoted by Laycock earlier, is superseded by the\nlater, below 10%, figures of Conrad and Lewis).",
+    "familyrefs": "\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**\n**hh:hvw:ConradDye:USepik**\n**hh:hvw:ConradLewis:USepik**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:hammarstroem:10:2**\n**cldf:hammarstroem:17**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:e:Skrzypek:Frieda-Gavman**\n**hh:e:Skrzypek:Friede**\n**hh:e:Skrzypek:Friede:2021**\n**hh:he:Jorgensen:Hotmin-Paupe**\n**hh:he:Jorgensen:Min-May-River**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**\n**hh:hvw:ConradDye:USepik**\n**hh:w:Laycock:D33**"
+  },
+  "altnames": {
+    "multitree": "\nPapi\nPaupe",
+    "lexvo": "\nPapi [en]",
+    "hhbib_lgcode": "\nBaiyamo\nPaupe\nPayamo",
+    "elcat": "\nBaiyamo\nPapi\nPaupe"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND ramu"
+  },
+  "identifier": {
+    "multitree": "ppe;papi",
+    "endangeredlanguages": "2645"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Papi (2645-ppe) = Severely Endangered (20 percent certain, based on the evidence available) [Conrad and Lewis 1988](cldf:conrad:lewis:88)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kunbarlang",
+    "hid": "wlg",
+    "level": "language",
+    "iso639-3": "wlg",
+    "latitude": "-11.9133",
+    "longitude": "133.723",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Gunbalang](https://wals.info/languoid/lect/wals_code_gnb)\n[Kunbarlang](https://collection.aiatsis.gov.au/austlang/language/n69)\n[Kunbarlang](https://endangeredlanguages.com/lang/3340)\n[Kunbarlang](https://grambank.clld.org/languages/kunb1251)\nhttps://en.wikipedia.org/wiki/Gunbarlang_language\nhttps://www.wikidata.org/entity/Q5618523",
+    "timespan": "2015-01-01/2015-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:coleman:82**\n**cldf:coleman:nd**\n**cldf:ed:10**\n**cldf:harris:69:1**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**haspelmath:okeeffe_kaddikkaddik_2010**\n**hh:g:Kapitonov:Kunbarlang**\n**hh:g:Kapitonov:Kunbarlang:2021**\n**hh:hvtyp:Harris:Gunwingguan**\n**hh:hvw:Capell:NWAustralia**\n**hh:s:Coleman:Gunbarlang**\n**hh:s:Harris:Gunbalang**\n**hh:typ:Kapitonov:Kunbarlang**\n**hh:w:Capell:Forty-North-Australian**\n**ozbib:1627**\n**ozbib:1860**\n**ozbib:1864**\n**ozbib:1869**\n**ozbib:2132**\n**ozbib:2592**\n**ozbib:2877**\n**ozbib:4032**\n**ozbib:4411**\n**ozbib:5400**\n**ozbib:6826**"
+  },
+  "altnames": {
+    "wals": "\nGunbalang",
+    "wals other": "\nMuralidban",
+    "ruhlen (1987)": "\nWarlang",
+    "moseley & asher (1994)": "\nWarlang",
+    "lexvo": "\nKunbarlang [en]",
+    "hhbib_lgcode": "\n39 Gunbalang\nGunba:lang\nGunbalang",
+    "elcat": "\nGunbalang\nGunbarlang\nGungalang\nKunbarlang\nWalang\nWarlang",
+    "aiatsis": "\nGambalang\nGambalanga\nGeimbio\nGimbarlang\nGunba:lan\nGunba:lang\nGunbalag\nGunbalang\nGunbalong\nGunbarlang\nGunbulan\nGurmadja madja\nKunbarlang\nWalang\nWarlang"
+  },
+  "triggers": {
+    "lgcode": "\ngunbalang\ngunbarlang"
+  },
+  "identifier": {
+    "wals": "gnb",
+    "endangeredlanguages": "3340"
+  },
+  "classification": {
+    "sub": "**hh:hv:EvansMarley:Gunwinyguan**:783-784",
+    "subrefs": "\n**hh:hv:EvansMarley:Gunwinyguan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2022-12-02T15:26:38",
+    "comment": "Kunbarlang (wlg-wlg) = 10 (Extinct)"
+  }
+}

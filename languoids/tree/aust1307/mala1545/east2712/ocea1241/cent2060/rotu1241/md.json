@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Rotuman",
+    "hid": "rtm",
+    "level": "language",
+    "iso639-3": "rtm",
+    "latitude": "-12.5008",
+    "longitude": "177.066",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FJ"
+    ],
+    "links": "\n[Rotuman](https://grambank.clld.org/languages/rotu1241)\n[Rotuman](https://lexibank.clld.org/languages/abvdoceanic-Rotuman)\n[Rotuman](https://wals.info/languoid/lect/wals_code_rot)\nhttps://en.wikipedia.org/wiki/Rotuman_language\nhttps://www.wikidata.org/entity/Q36754"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1770**\n**cldf:bellwood:95**\n**cldf:blevins:94**\n**cldf:calculator:14**\n**cldf:churchward:40**\n**cldf:cribb:00**\n**cldf:gardiner:98**\n**cldf:gardner:97**\n**cldf:howard:91**\n**cldf:howard:howard:64**\n**cldf:kissock:03**\n**cldf:lynch:ed:03**\n**cldf:lynch:ross:etal:ed:02:20**\n**cldf:mccarthey:00**\n**cldf:moravcsik:78**\n**cldf:np:14:5**\n**cldf:ostler:rudes:ed:00:1**\n**cldf:russell:42**\n**cldf:schmidt:00**\n**cldf:tent:geraghty:ed:04:4**\n**cldf:vamarasi:05**\n**hh:gd:Churchward:Rotuman**\n**hh:hew:Hale:Philology**\n**hh:hv:Pawley:Rotuman**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marsden:East-Insular**\n**hh:hvw:Ray:Polynesian:1912-1921**\n**hh:ld:Codrington:Rotuma**\n**hh:s:Hocart:Rotuman**\n**hh:s:Schmidt:Rotuman**\n**hh:s:Vamarasi:Rotuman**\n**hh:v:Schmidt:Rotuma**\n**hh:w:Turner:Samoa**\n**mpieva:Inia1998AnewRotu**"
+  },
+  "altnames": {
+    "wals": "\nRotuman",
+    "ruhlen (1987)": "\nRotuman",
+    "moseley & asher (1994)": "\nRotuman",
+    "multitree": "\nFidji-Inseln\nRotuman\nRotuman-Fijian\nRotumano\nRotuna\nRutuman",
+    "lexvo": "\nJęzyk rotumański [pl]\nRotuman [en]\nRotuman bhasa [hif]\nRotuman kieli [fi]\nRotuman language [en]\nRotumanische Sprache [de]\nРотуманский язык [ru]",
+    "hhbib_lgcode": "\nNotes on the language of Rotuma\nRotuma"
+  },
+  "triggers": {
+    "lgcode": "\nrotuma\nrotuman"
+  },
+  "identifier": {
+    "wals": "rot",
+    "multitree": "rtm;rotu"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**:114-117",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Rotuman (2626-rtm) = Vulnerable"
+  }
+}

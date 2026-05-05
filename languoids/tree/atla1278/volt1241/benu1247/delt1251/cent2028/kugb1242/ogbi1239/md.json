@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ogbia",
+    "hid": "ogb",
+    "level": "language",
+    "iso639-3": "ogb",
+    "latitude": "4.75352",
+    "longitude": "6.34034",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ogbia](https://wals.info/languoid/lect/wals_code_ogb)\nhttps://en.wikipedia.org/wiki/Ogbia_language\nhttps://phoible.org/languages/ogbi1239\nhttps://www.wikidata.org/entity/Q3813400"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:isukul:86**\n**cldf:williamson:70**\n**cldf:williamson:72**\n**eballiso2009:25486**\n**eballiso2009:56613**\n**eballiso2009:8095**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hddial:Wolff:Abuan**\n**hh:hv:Alex:Central-Delta**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Lawson-Ikuru:Ogbia**\n**hh:s:Isukul:Agholo**\n**hh:typ:Isukul:Agholo**\n**hh:w:Blench:Central-Delta**"
+  },
+  "altnames": {
+    "wals": "\nOgbia",
+    "ruhlen (1987)": "\nOgbia",
+    "moseley & asher (1994)": "\nOgbia",
+    "multitree": "\nOgbia\nOgbinya",
+    "lexvo": "\nOgbia [en]",
+    "hhbib_lgcode": "\nAgholo\nEastern Ogbia\nEastern Ogbia of the Kolo creek\nKolo/Oloiḅiri/Anyama\nWestern Ogbia in Oloibiri and Anyama"
+  },
+  "triggers": {
+    "lgcode": "\nogbia"
+  },
+  "identifier": {
+    "wals": "ogb",
+    "multitree": "ogb"
+  },
+  "classification": {
+    "sub": "**hh:hddial:Wolff:Abuan**",
+    "subrefs": "\n**hh:hddial:Wolff:Abuan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ogbia (ogb-ogb) = 5* (Developing)."
+  }
+}

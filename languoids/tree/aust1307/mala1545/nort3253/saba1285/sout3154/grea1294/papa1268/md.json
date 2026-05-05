@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Papar",
+    "hid": "dpp",
+    "level": "language",
+    "iso639-3": "dpp",
+    "latitude": "5.57378",
+    "longitude": "115.58",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Papar](https://grambank.clld.org/languages/papa1268)\nhttps://en.wikipedia.org/wiki/Papar_language\nhttps://www.wikidata.org/entity/Q7132487"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Lobel:Southwest-Sabah**\n**hh:hv:Lobel:Southwest-Sabah:OL**\n**hh:hv:Smith:Sabah**\n**hh:sd:Gossens:Dusun**\n**hh:v:Dunn:Papar**\n**hh:w:Lobel:North-Borneo**\n**sil16:18553**"
+  },
+  "altnames": {
+    "multitree": "\nBajau Bukit\nPapar",
+    "lexvo": "\nPapar [en]",
+    "hhbib_lgcode": "\n(23) Papar (PAPAR)\nDusun of Papar"
+  },
+  "triggers": {
+    "lgcode": "\npapar\nlanguage AND papar"
+  },
+  "identifier": {
+    "multitree": "dpp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lobel:Southwest-Sabah**",
+    "subrefs": "\n**hh:hv:Lobel:Southwest-Sabah**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Papar (dpp-dpp) = 7 (Shifting)."
+  }
+}

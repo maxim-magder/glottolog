@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tagin",
+    "hid": "tgj",
+    "level": "language",
+    "iso639-3": "tgj",
+    "latitude": "27.986064",
+    "longitude": "94.221711",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Tagin](https://endangeredlanguages.com/lang/5696)\n[Tagin](https://grambank.clld.org/languages/tagi1241)\nhttps://www.wikidata.org/entity/Q46698638"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:d:Baram:Tagin**\n**hh:d:Mara:Tagin:2012**\n**hh:e:Huber:Micro-Migrations**\n**hh:hew:Grewal:Arunachal**\n**hh:hew:MeguRondo:Upper-Subansiri**\n**hh:hld:Baruah:Sino-Tibetan-Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:htyp:DevyLomdak:Arunachal**\n**hh:hv:Marrison:Adi-Dafla**\n**hh:hv:PostSun:Tani**\n**hh:hvld:Sun:Tani**\n**hh:hvw:Simon:Arunachal**\n**hh:ld:DasGupta:Arunachal**\n**hh:ld:DasGupta:Tagins**\n**hh:s:DasGupta:Tagin**\n**hh:sd:Mara:Tagin**\n**hh:typ:Lomdak:Tani**\n**hh:wsoc:AbrahamSako:Tagin-Puroik**\n**iso6393:2011-132**"
+  },
+  "triggers": {
+    "lgcode": "\ntagin\ntagins"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "identifier": {
+    "endangeredlanguages": "5696"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tagin (5696-tgj) = Vulnerable (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMra not politically Tagin but speak a very closely related language\nTagen\nTagin of Sippi/U. Subansiri",
+    "elcat": "\nTagin"
+  }
+}

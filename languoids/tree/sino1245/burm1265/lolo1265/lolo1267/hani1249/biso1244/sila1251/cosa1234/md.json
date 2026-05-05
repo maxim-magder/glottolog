@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Cosao",
+    "hid": "NOCODE_Cosao",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA"
+    ],
+    "longitude": "101.566667",
+    "latitude": "21.616667",
+    "links": "\n[Cosao](https://endangeredlanguages.com/lang/10709)\n[Cosao](https://grambank.clld.org/languages/cosa1234)\nhttps://en.wikipedia.org/wiki/Cosao_language\nhttps://www.wikidata.org/entity/Q19840020"
+  },
+  "classification": {
+    "sub": "**hh:v:Hsiu:Cosao**",
+    "subrefs": "\n**hh:v:Hsiu:Cosao**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bai:15**\n**cldf:np:15:2**\n**hh:g:Bai:Cosao**\n**hh:ld:BaiXu:Cosao**\n**hh:v:BaiXu:Cosao**\n**hh:v:Hsiu:Cosao**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Cosao, a newly discovered language on the border of Laos and China,\nis missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:ld:BaiXu:Cosao**). It is probably in the Bi-Ka subgroup of Sino-Tibetan but mutually unintelligible with any of them. I wish to thank Andrew Hsiu for bringing this language and the work of **hh:ld:BaiXu:Cosao** to my attention.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Cosao"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Cosao (10709) = Endangered (80 percent certain, based on the evidence available) (66 fluent speakers in China. No vitality info are available on those living in Laos.\n\nThe percentage of people who CANNOT speak Cosao:\nage 0-5: 100%\nage 6-15: 26.3%\nage 16-25: 4.7％\nage 26-50: 5%\nage 51 and above: 0%) [Bai 2015](cldf:bai:15)"
+  },
+  "altnames": {
+    "elcat": "\nCaosao\nCosao\nCuosuo\ntsho55 sɔ55\n搓梭語"
+  },
+  "identifier": {
+    "endangeredlanguages": "10709"
+  }
+}

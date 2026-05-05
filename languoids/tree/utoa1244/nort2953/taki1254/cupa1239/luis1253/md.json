@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Luiseno-Juaneño",
+    "hid": "lui",
+    "level": "language",
+    "iso639-3": "lui",
+    "latitude": "33.3184",
+    "longitude": "-116.939",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Luiseno-Juaneño](https://grambank.clld.org/languages/luis1253)\n[Luiseño](https://endangeredlanguages.com/lang/1932)\n[Luiseño](https://lexibank.clld.org/languages/utoaztecan-Luiseno)\n[Luiseño](https://wals.info/languoid/lect/wals_code_lui)\nhttps://en.wikipedia.org/wiki/Luise%C3%B1o_language\nhttps://phoible.org/languages/luis1253\nhttps://www.wikidata.org/entity/Q56236",
+    "timespan": "2015-01-01/2015-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:akmajian:steele:etal:79**\n**cldf:bright:65:1**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:drucker:37:1**\n**cldf:dubois:08**\n**cldf:ed:10**\n**cldf:gifford:18**\n**cldf:gifford:26:1**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:government:nd**\n**cldf:harrington:34**\n**cldf:harrington:55**\n**cldf:kroeber:08:3**\n**cldf:kroeber:17:1**\n**cldf:langacker:76**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:malccot:64**\n**cldf:malecot:63:3**\n**cldf:malecot:80**\n**cldf:munro:76:1**\n**cldf:munro:90**\n**cldf:nichols:92**\n**cldf:np:15:9**\n**cldf:np:63:1**\n**cldf:np:63:2**\n**cldf:np:nd:226**\n**cldf:np:nd:264**\n**cldf:oxendine:83**\n**cldf:sparkman:08**\n**cldf:steele:88**\n**cldf:stolz:96**\n**cldf:weinberg:96**\n**cldf:white:63**\n**hh:d:Bright:Luiseno**\n**hh:d:Elliott:Luiseno**\n**hh:e:Bean:Luiseno**\n**hh:ew:Boscana:Chinigchinich**\n**hh:ew:Boscana:Chinigchinich:1978**\n**hh:ew:Woodword:Acjachemen**\n**hh:g:Hyde:Luiseno**\n**hh:g:KroeberGrace:Luiseno**\n**hh:h:Kroeber:California**\n**hh:hv:HillHill:Takic**\n**hh:hvb:Golla:California**\n**hh:hvw:Kroeber:Shoshonean**\n**hh:hvw:Latham:Comparative**\n**hh:s:Davis:Luiseno**\n**hh:s:Malecot:Luiseno**\n**hh:s:Tagliavini:Luiseno**\n**hh:styp:Steele:Luiseno**\n**hh:t:HydeElliott:Long-Ago**\n**hh:w:Buschmann:Sonorischen**\n**hh:w:Grant:Scouler**\n**hh:w:Sparkman:Luiseno**\n**iso6393:2025-003**\n**sil16:33324**"
+  },
+  "altnames": {
+    "wals": "\nLuiseño",
+    "wals other": "\nLuiseno",
+    "ruhlen (1987)": "\nLuiseno-Juaneno",
+    "moseley & asher (1994)": "\nLuiseño",
+    "multitree": "\nLuiseño\nLuiseño-Juaneño",
+    "lexvo": "\nLouisenheg [br]\nLuiseno [en]\nLuiseño [fr]\nLuiseño language [en]\nluiseno [fr]",
+    "hhbib_lgcode": "\nAcagchemem\nAcjachemem\nAcjachemen\nJuaneno\nJuaneño\nLuiseno\nLuiseño\nNetela",
+    "elcat": "\nChamtéela\nLuiseño\nLuiseño-Juaneño",
+    "glottolog": "\nLuiseno"
+  },
+  "triggers": {
+    "lgcode": "\nluiseno\ncherico\nluisenos\nindigeno\nyumauk"
+  },
+  "identifier": {
+    "wals": "lui",
+    "multitree": "lui",
+    "endangeredlanguages": "1932"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Uto-Aztecan** **hh:hvb:Golla:California** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Luiseño (1932-lui) = Awakening [Government n.d.](cldf:government:nd)"
+  }
+}

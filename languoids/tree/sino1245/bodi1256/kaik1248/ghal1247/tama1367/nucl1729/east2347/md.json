@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Eastern Tamang",
+    "hid": "taj",
+    "level": "language",
+    "iso639-3": "taj",
+    "latitude": "27.3239",
+    "longitude": "87.0832",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Eastern_Tamang\nhttps://phoible.org/languages/east2347\nhttps://www.wikidata.org/entity/Q12953177"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Tamang:Tamang**\n**hh:g:Lee:Eastern-Tamang**\n**hh:g:Poudel:Dhankute**\n**hh:g:Poudel:Tamang:2002**\n**hh:g:Yoncan:Tamang**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Mazaudon:Tibeto-Birmane**\n**hh:s:Mazaudon:Tamang**\n**hh:s:Mazaudon:Tamang:2017**\n**hh:s:Perumalsamy:Tamang**\n**hh:soc:Varenkamp:Tamang-Tam**\n**hh:w:Nishi:Ghale**\n**iso6393:2014-035**\n**ldh:item_2149386**\n**ldh:item_2149389**\n**ldh:item_2149392**\n**ldh:item_407712**\n**mpieva:Mazaudon1973Phonolog**\n**sil16:10055**\n**sil16:26469**\n**sil16:26471**\n**sil16:26473**\n**sil16:43730**\n**sil16:47393**"
+  },
+  "altnames": {
+    "multitree": "\nMurmi\nTamang\nTamang, Eastern\nTamang,Eastern",
+    "lexvo": "\nEastern Tamang [en]\nTamang language [en]\nТаманґ [uk]\nतामाङ भाषा [hi]\nภาษาตามัง [th]\n达芒语 [zh]",
+    "hhbib_lgcode": "\nRisiangku Tamang\nTamang (Risiangku)\nTamang Risiangku\nTamang in Sikkim\nTamang-Eastern\nTamang-Risiangku"
+  },
+  "triggers": {
+    "lgcode": "\npatro\ndhankute\ntamang"
+  },
+  "identifier": {
+    "wals": "tam",
+    "multitree": "taj"
+  },
+  "classification": {
+    "sub": "**hh:s:Noonan:Chantyal** **hh:hv:Honda:Tamangic**",
+    "subrefs": "\n**hh:s:Noonan:Chantyal**\n**hh:hv:Honda:Tamangic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tamang (1114-taj, tge, tmk, tsf, tdg) = Vulnerable"
+  }
+}

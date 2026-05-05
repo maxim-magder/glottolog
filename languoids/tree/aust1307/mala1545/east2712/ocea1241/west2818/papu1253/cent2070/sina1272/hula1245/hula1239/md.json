@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hula",
+    "hid": "hul",
+    "level": "language",
+    "iso639-3": "hul",
+    "latitude": "-9.99427",
+    "longitude": "147.705",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Hula](https://grambank.clld.org/languages/hula1239)\n[Hula](https://lexibank.clld.org/languages/abvdoceanic-Hula)\n[Hula](https://lexibank.clld.org/languages/transnewguineaorg-hula)\nhttps://en.wikipedia.org/wiki/Hula_language\nhttps://www.wikidata.org/entity/Q6382179"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hw:Ray:Central-Papua**\n**hh:s:Short:Hula**\n**hh:w:Guise:Bulaa**\n**mpieva:1996OceanicS**"
+  },
+  "altnames": {
+    "multitree": "\nHula\nVulaa",
+    "lexvo": "\nHula [en]",
+    "hhbib_lgcode": "\nBula'a\nKeapara-Hula"
+  },
+  "triggers": {
+    "lgcode": "\nhula\nhood"
+  },
+  "identifier": {
+    "multitree": "hul"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hv:LynchRossCrowley:Subgrouping**:102-106 **hh:g:Sheppard:Sudest**:12",
+    "subrefs": "\n**hh:g:Sheppard:Sudest**\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vula’a (hul-hul) = 5 (Developing)."
+  }
+}

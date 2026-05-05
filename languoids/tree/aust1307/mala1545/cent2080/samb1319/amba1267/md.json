@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ambala Ayta",
+    "hid": "abc",
+    "level": "language",
+    "iso639-3": "abc",
+    "latitude": "14.8156",
+    "longitude": "120.283",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3448896\nhttps://en.wikipedia.org/wiki/Ambala_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Meyer:Negritos-Philippinen**\n**hh:ew:Meyer:Aetas**\n**hh:ew:Schadenberg:Negritos**\n**hh:h:Larena:Philippines**\n**hh:hevw:Meyer:Negritos:1893**\n**hh:hv:Reid:Negrito**\n**hh:hv:Wimbish:Zambales**\n**hh:hvld:Stone:Sambalic:2006**\n**hh:hvw:Stone:Sambalic**\n**hh:v:Kern:Negritos**\n**hh:w:Baer:Philippines**\n**hh:w:Garvan:Negritos**\n**hh:w:Storck:Ayta-Camastilis**\n**hh:w:Storck:Ayta-Mag-Indi**\n**hh:wh:Meijer:Astrolabe**"
+  },
+  "altnames": {
+    "multitree": "\nAmbala Agta\nAmbala Sambal\nAyta, Ambala",
+    "lexvo": "\nAmbala Ayta [en]\nAmbala language [en]\nภาษาอัมบาลา [th]",
+    "hhbib_lgcode": "\nAmbala Ayta language\nAyta Ambala\nAyta-Ambala\nDinalupihan (Batan)\nNegrito Olongapó\nNegrito of Zambales (AB Meyer) seems to match Ambala Ayta\nNegritos von Zambales seems to match Ambala Ayta\nSchadenberg 1880 Dinalupihan (Batan)\nm-Payangan"
+  },
+  "triggers": {
+    "lgcode": "\nsambalic"
+  },
+  "identifier": {
+    "multitree": "abc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Stone:Sambalic**",
+    "subrefs": "\n**hh:hvw:Stone:Sambalic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ayta, Ambala (abc-abc) = 6b* (Threatened)."
+  }
+}

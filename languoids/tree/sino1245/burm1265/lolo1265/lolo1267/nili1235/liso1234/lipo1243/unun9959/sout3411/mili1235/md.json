@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mili",
+    "hid": "ymh",
+    "level": "language",
+    "iso639-3": "ymh",
+    "latitude": "24.115",
+    "longitude": "100.611",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953329\nhttps://en.wikipedia.org/wiki/Mili_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Mullaney:China**\n**hh:h:YSMSY:Mili**\n**hh:hv:Yang:Lolo**\n**hh:hw:Xinping:Xinping**\n**iso6393:2007-081**"
+  },
+  "altnames": {
+    "multitree": "\nMili\nYi, Mili",
+    "lexvo": "\nMili [en]",
+    "hhbib_lgcode": "\nMili (Jingdong)"
+  },
+  "triggers": {
+    "lgcode": "\nmili"
+  },
+  "identifier": {
+    "multitree": "ymh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Yang:Lolo**",
+    "subrefs": "\n**hh:hv:Yang:Lolo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mili (ymh-ymh) = 6b (Threatened). Language of recognized nationality: Yi."
+  }
+}

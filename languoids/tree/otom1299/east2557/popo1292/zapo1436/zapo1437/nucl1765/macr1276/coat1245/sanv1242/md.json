@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "San Vicente Coatlán Zapotec",
+    "hid": "zpt",
+    "level": "language",
+    "iso639-3": "zpt",
+    "latitude": "16.2817",
+    "longitude": "-96.8667",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[San Vicente Coatlán](https://endangeredlanguages.com/lang/10951)\nhttps://en.wikipedia.org/wiki/San_Vicente_Zapotec\nhttps://www.wikidata.org/entity/Q13541831"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beamdeazcona:21**\n**hh:hv:Beam:Zapoteco-Sureno**\n**hh:typ:Wagner:Coatlan-Zapotec**\n**sil16:44324**\n**sil16:47118**\n**sil16:47120**\n**sil16:47121**\n**sil16:47122**"
+  },
+  "altnames": {
+    "glottolog": "\nSan Vicente Coatlan Zapotec",
+    "multitree": "\nCoatlán Zapotec\nSan Vicente Coatlán Zapotec\nSouthern Ejutla Zapotec\nSouthern Sapoteko\nZapotec\nZapotec, San Vicente Coatlán\nZapoteco de Asunción Tlacolulita\nZapoteco de San Vicente Coatlán\nZapotèque d'Asunción Tlacolulita",
+    "lexvo": "\nSan Vicente Coatlán Zapotec [en]",
+    "hhbib_lgcode": "\ny dos muy cercanas que podriamos denominar \"el coateco mayor\" el zapoteco de San Vicente Coatlán",
+    "elcat": "\nSan Vicente Coatlán"
+  },
+  "triggers": {
+    "lgcode": "\nuxax\ndub\nndach\nndon"
+  },
+  "identifier": {
+    "multitree": "zpt",
+    "endangeredlanguages": "10951"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "San Vicente Coatlán (10951) = Vulnerable (40 percent certain, based on the evidence available) (Among Zapotec languages, this is one of the healthier ones still being acquired by children as a first language.) [Beam de Azcona 2021](cldf:beamdeazcona:21)"
+  }
+}

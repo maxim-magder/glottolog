@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Khisa",
+    "hid": "kqm",
+    "level": "language",
+    "iso639-3": "kqm",
+    "latitude": "9.72099",
+    "longitude": "-4.05416",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI"
+    ],
+    "links": "\n[Khisa](https://endangeredlanguages.com/lang/3815)\nhttps://www.wikidata.org/entity/Q3913955\nhttps://en.wikipedia.org/wiki/Khisa_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:delafosse:04**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:showalter:00**\n**eballiso2009:29176**\n**eballiso2009:54819**\n**eballiso2009:59371**\n**hh:e:ParenkoHebert:Gan**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:phon:Ouattara:Khise**\n**hh:soc:Showalter:Four-Burkina**\n**hh:typ:Miehe:Kpatogo-Khi**\n**hh:v:Miehe:Kaansa-Dogose**\n**hh:vld:Coulibaly:Kepar**"
+  },
+  "altnames": {
+    "multitree": "\nKhi\nKhi Khipa\nKhisa\nKomono\nKumwenu",
+    "lexvo": "\nKhisa [en]",
+    "hhbib_lgcode": "\nGudrun Miehe: B3. Khisa (Komono)\nKepar\nKhi\nKomono",
+    "elcat": "\nKhi\nKhi Khipa\nKhi-sa\nKhi-sɛ\nKhisa\nKhise\nKomono\nKumwenu"
+  },
+  "triggers": {
+    "lgcode": "\nkhise\nklamaasise\nkyitu\npadoro"
+  },
+  "identifier": {
+    "multitree": "kqm",
+    "endangeredlanguages": "3815"
+  },
+  "classification": {
+    "sub": "**hh:v:Miehe:Kaansa-Dogose**",
+    "subrefs": "\n**hh:v:Miehe:Kaansa-Dogose**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Khisa (3815-kqm) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Zenaga",
+    "hid": "zen",
+    "level": "language",
+    "iso639-3": "zen",
+    "latitude": "16.82",
+    "longitude": "-16.1711",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "EH",
+      "MR",
+      "SN"
+    ],
+    "links": "\n[Zenaga](https://endangeredlanguages.com/lang/241)\nhttps://www.wikidata.org/entity/Q37005\nhttps://en.wikipedia.org/wiki/Zenaga_language\n[Zenaga](https://wals.info/languoid/lect/wals_code_zen)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adeler:39**\n**cldf:brenzinger:07:1**\n**cldf:cohen:taine-cheikh:00**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:faidherbe:77**\n**cldf:kossmann:01**\n**cldf:lewis:ed:09**\n**cldf:taine-cheikh:23**\n**cldf:tauxier:12**\n**eballiso2009:10346**\n**eballiso2009:10347**\n**eballiso2009:12092**\n**eballiso2009:13828**\n**eballiso2009:17981**\n**eballiso2009:29640**\n**eballiso2009:34258**\n**eballiso2009:40770**\n**eballiso2009:5385**\n**eballiso2009:55362**\n**eballiso2009:57110**\n**eballiso2009:57111**\n**eballiso2009:57777**\n**hh:d:Taine-Cheikh:Zenaga**\n**hh:hdial:Leriche:Berbere**\n**hh:he:Gaudio:Sahara-Occidental**\n**hh:hel:Sommer:Survey**\n**hh:s:Faidherbe:Zenaga**\n**hh:s:Zyhlarz:Zenaga**\n**hh:sd:Basset:Zenaga**\n**hh:std:Nicolas:Berbere-Mauretanie**\n**hh:typ:Taine-Cheikh:Zenaga:2010**\n**hh:v:Taine-Cheikh:Zenaga**\n**hh:w:Masqueray:Zenaga**\n**ldh:item_402699**"
+  },
+  "altnames": {
+    "wals": "\nZenaga",
+    "wals other": "\nBerber (Mauritania)\nBerber (Mauritanian)",
+    "ruhlen (1987)": "\nZenaga",
+    "moseley & asher (1994)": "\nZenaga",
+    "multitree": "\nGroup Four\nWestern\nZenaga\nZenaga (Mauritanie)\nZenaga (Sahara occidental)\nZenaga (Sáhara Occidental)",
+    "lexvo": "\nLingua zenaga [it]\nZenaga [an]\nZenaga jezik [hr]\nZenaga language [en]\nZenagaeg [br]\nzenaga [fr]\nЗенага [ru]",
+    "hhbib_lgcode": "\nBerbere Mauretanie",
+    "elcat": "\nZenaga"
+  },
+  "triggers": {
+    "lgcode": "\nzenagha\nzenaga"
+  },
+  "identifier": {
+    "wals": "zen",
+    "multitree": "zen;zeng",
+    "endangeredlanguages": "241"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Berber:2020**:281 **hh:v:Souag:Western-Berber-Kwarandzyey**",
+    "subrefs": "\n**hh:v:Souag:Western-Berber-Kwarandzyey**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zenaga (241-zen) = Severely Endangered (60 percent certain, based on the evidence available) ([Les locuteurs du zénaga sont] relativement âgés et tous bilingues arabe/berbère, ils appartiennent pour l'essentiel à trois tribus (les Idābləḥsan, les Tändgha et quelques fractions des Äwlâd Däymân). L'autrice de ces lignes a travaillé plus particulièrement avec un informateur de la tribu des Idābləḥsan. Quelques différences seront signalées avec le parler des autres groupes (spécialement celui des Tändgha), mais les variations semblent surtout dues au fait que la bonne maîtrise du zénaga est devenue exceptionnelle.) [Taine-Cheikh 2023](cldf:taine-cheikh:23)"
+  }
+}

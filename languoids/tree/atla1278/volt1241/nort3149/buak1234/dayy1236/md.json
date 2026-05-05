@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Day",
+    "hid": "dai",
+    "level": "language",
+    "iso639-3": "dai",
+    "latitude": "8.52612",
+    "longitude": "17.5146",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35163\nhttps://en.wikipedia.org/wiki/Day_language\n[Day](https://wals.info/languoid/lect/wals_code_day)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nougayrol:79**\n**hh:d:Nougayrol:Day**\n**hh:g:Nougayrol:Day**\n**hh:h:TuckerBryan:Non-Bantu-NEAfrica:1956**\n**hh:hvw:Boyd:Adamawa:1988**\n**hh:phon:Nougayrol:Day-Bouna**\n**hh:st:Djanan:Day**\n**mpieva:Nougayrol19791980LedaydeB**"
+  },
+  "altnames": {
+    "wals": "\nDay",
+    "ruhlen (1987)": "\nDai",
+    "moseley & asher (1994)": "\nDay",
+    "multitree": "\nDai\nDay",
+    "lexvo": "\nDay [en]\nDay language [en]\nDayeg [br]"
+  },
+  "triggers": {
+    "lgcode": "\nday AND bouna\nbangul\nsummaire"
+  },
+  "identifier": {
+    "wals": "day",
+    "multitree": "dayx;dai"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bennett:Adamawa-Eastern** **hh:hv:Boyd:Adamawa-Ubangi**:179-180, 189",
+    "subrefs": "\n**hh:hv:Bennett:Adamawa-Eastern**\n**hh:hv:Boyd:Adamawa-Ubangi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Day (dai-dai) = 6a* (Vigorous)."
+  }
+}

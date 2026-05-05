@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tefaro",
+    "hid": "tfo",
+    "level": "language",
+    "iso639-3": "tfo",
+    "latitude": "-2.35042",
+    "longitude": "136.753",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tefaro](https://endangeredlanguages.com/lang/5093)\nhttps://www.wikidata.org/entity/Q7694618\nhttps://en.wikipedia.org/wiki/Tefaro_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Detiger:Waroppen**\n**hh:h:Jones:ECenderawasih**\n**hh:h:Sugono:Indonesia**\n**hh:w:BouwmanHolster:Tefaro**\n**hh:w:Jones:Tefaro**"
+  },
+  "altnames": {
+    "multitree": "\nDemba\nTefaro",
+    "lexvo": "\nTefaro [en]",
+    "hhbib_lgcode": "\n= Tefaro\nNadoefoeai\nTefaro (Demba)",
+    "elcat": "\nDemba\nTefaro"
+  },
+  "identifier": {
+    "multitree": "tfo",
+    "endangeredlanguages": "5093"
+  },
+  "classification": {
+    "sub": "**hh:h:Jones:ECenderawasih**",
+    "subrefs": "\n**hh:h:Jones:ECenderawasih**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tefaro (5093-tfo) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

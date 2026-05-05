@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bunun",
+    "hid": "bnn",
+    "level": "language",
+    "iso639-3": "bnn",
+    "latitude": "23.4116",
+    "longitude": "121.025",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Bunun](https://grambank.clld.org/languages/bunu1267)\nhttps://en.wikipedia.org/wiki/Bunun_language\nhttps://www.wikidata.org/entity/Q56505"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:94**\n**cldf:alvarez:27**\n**cldf:baldick:13**\n**cldf:blevins:08:3**\n**cldf:blundell:ed:00**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:chiu:62**\n**cldf:cribb:00**\n**cldf:debusser:13**\n**cldf:ding:yuan:etal:05**\n**cldf:fan:hung:etal:04**\n**cldf:ferrel:69**\n**cldf:huang:93:2**\n**cldf:huang:95:2**\n**cldf:jeng:71**\n**cldf:keesing:84:2**\n**cldf:law:02**\n**cldf:lebar:ed:75**\n**cldf:lee:04**\n**cldf:mabuchi:52**\n**cldf:mabuchi:60**\n**cldf:np:14:5**\n**cldf:parnickel:00**\n**cldf:sun:li:etal:00**\n**cldf:trejaut:kivisild:etal:05**\n**cldf:tse:00**\n**cldf:yang:05**\n**cldf:yang:08:1**\n**cldf:yang:11:1**\n**cldf:yang:11:2**\n**hh:d:Jeng:Bunun**\n**hh:g:DeBusser:Takivatan-Bunun**\n**hh:g:Huang:Bunong:2018**\n**hh:g:Zeitoun:Bunong**\n**hh:hew:Davidson:Formosa**\n**hh:hld:Muller:Formosa**\n**hh:hld:ShearerHongkai:China**\n**hh:hvw:Shibata:Bunun**\n**hh:ld:Huang:Bunun**\n**hh:phon:Lin:Isbukun**\n**hh:s:He:Bunun**\n**hh:s:Ispalidav:Bunong**\n**hh:s:Jeng:Bunun**\n**hh:s:Jiang:Takibakha-Bunun**\n**hh:s:Lin:Bunong**\n**hh:s:Wu:Bunun**\n**hh:st:OgawaAsai:Formosan**\n**hh:vw:Li:Bunun**\n**hh:w:Li:Formosan:2004**\n**mpieva:Zheng1976Topicand**"
+  },
+  "altnames": {
+    "multitree": "\nBubukun\nBunan\nBunti\nBunum\nBunun\nBunún\nSprache von Formosa\nVonun\nVunum\nVunun\nVunung",
+    "lexvo": "\nBounouneg [br]\nBunun [en]\nBunun language [en]\nภาษาบูนัน [th]\nブヌン語 [ja]\n布農語 [zh]",
+    "hhbib_lgcode": "\nBunong\nC Bunun\nChapter 8: The Bunun language\nIsbukun\nN Bunun\nS Bunun\nSouth Bunun\nTakbanuad\nTakbanuaz\nTakibakha\nTakibakha Bunun\nTakidutuh Bunun\nTakituduh\nTakivatan\nVonum\nVonum-Sivukun"
+  },
+  "triggers": {
+    "lgcode": "\nbununyu\ngou\nbunun\nisbukun\ngaoshan"
+  },
+  "identifier": {
+    "multitree": "bnn;jhtu"
+  },
+  "classification": {
+    "sub": "**hh:vw:Li:Bunun**",
+    "subrefs": "\n**hh:vw:Li:Bunun**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Bunun (2029-bnn) = Vulnerable"
+  }
+}

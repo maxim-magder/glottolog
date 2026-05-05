@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Miship",
+    "hid": "mjs",
+    "level": "language",
+    "iso639-3": "mjs",
+    "latitude": "9.20477",
+    "longitude": "9.33752",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Cip](https://lexibank.clld.org/languages/kraftchadic-Cip)\nhttps://en.wikipedia.org/wiki/Miship_language\nhttps://www.wikidata.org/entity/Q3441264"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Muazu:Miship**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Ames:Plateau**\n**hh:hld:Jungraithmayr:Chip**\n**hh:hv:Takacs:Angas-Sura**\n**hh:hv:Takacs:Angas-Sura:2005**\n**hh:hv:Takacs:Angas-Sura:I**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:I**\n**hh:soc:MuazuIsah:Miship**\n**hh:wsoc:Decker:Miship**"
+  },
+  "altnames": {
+    "multitree": "\nChip\nCip\nMiship\nShip",
+    "lexvo": "\nMiship [en]\nMiship language [en]",
+    "hhbib_lgcode": "\nChip\nKapil — Longmaar\nMinting — Jiɓaam"
+  },
+  "triggers": {
+    "lgcode": "\nsudplateau\nmiship"
+  },
+  "identifier": {
+    "multitree": "mjs"
+  },
+  "classification": {
+    "sub": "**hh:hv:Takacs:Angas-Sura**:xvii",
+    "subrefs": "\n**hh:hv:Takacs:Angas-Sura**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miship (mjs-mjs) = 6b (Threatened)."
+  }
+}

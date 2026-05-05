@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Ngalakgan",
+    "hid": "nig",
+    "level": "language",
+    "iso639-3": "nig",
+    "latitude": "-14.4281",
+    "longitude": "134.716",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Ngalakgan](https://endangeredlanguages.com/lang/10764)\n[Ngalakgan](https://collection.aiatsis.gov.au/austlang/language/n77)\nhttps://en.wikipedia.org/wiki/Ngalakgan_language\nhttps://phoible.org/languages/ngal1293\n[Ngalakan](https://wals.info/languoid/lect/wals_code_ngl)\nhttps://www.wikidata.org/entity/Q3913796",
+    "timespan": "2004-01-01/2004-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:evans:ed:02:2**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:195**\n**hh:g:Baker:Ngalakgan**\n**hh:g:Baker:Ngalakgan:2008**\n**hh:g:Merlan:Ngalakan**\n**hh:hv:Baker:Ngalakgan-Rembarrnga**\n**hh:w:Capell:Forty-North-Australian**\n**iso6393:2018-048**\n**ozbib:1900**\n**ozbib:2598**\n**ozbib:2642**\n**ozbib:2650**\n**ozbib:2660**\n**ozbib:2668**\n**ozbib:2740**\n**ozbib:313**\n**ozbib:315**\n**ozbib:316**\n**ozbib:317**\n**ozbib:318**\n**ozbib:319**\n**ozbib:320**\n**ozbib:322**\n**ozbib:4050**\n**ozbib:4054**\n**ozbib:4057**\n**ozbib:4245**\n**ozbib:4599**\n**ozbib:63**\n**ozbib:6348**\n**ozbib:6367**\n**ozbib:6534**\n**ozbib:7275**\n**ozbib:7278**\n**ozbib:73**"
+  },
+  "altnames": {
+    "wals": "\nNgalakan",
+    "wals other": "\nNgalakgan",
+    "ruhlen (1987)": "\nNgalakan",
+    "moseley & asher (1994)": "\nNgalakan",
+    "multitree": "\nBidungo\nEngalakán\nHongalla\nHongalla)\nNala-nalagen\nNalagen\nNalakan\nNallakum\nNgalagan\nNgalakan\nNgalakgan\nNgalangan\nNgalar-kan\nNgalarkan\nNgalbon\nNgulkpun\nNullakum\nNullakun\nNullikan\nNullikin",
+    "lexvo": "\nLenga ngalakan [pms]\nNgalakan [en]\nNgalakan language [en]",
+    "hhbib_lgcode": "\n32 Ngalakan\nNgalakan",
+    "elcat": "\nHongalla\nNgalakant\nNgalakgan\nNgalangan",
+    "aiatsis": "\nGunwinyguan\nHongalla\nHongalla/Hongalla\nNala nalagen\nNalagen\nNalakan\nNallakum\nNgalagan\nNgalagkan\nNgalakan\nNgalakgan\nNgalar kan\nNgalarkan\nNgalbon\nNgulkpun\nNullakum\nNullakun\nNullikan\nNullikin"
+  },
+  "triggers": {
+    "lgcode": "\nngalakgan\nngalakan"
+  },
+  "identifier": {
+    "wals": "genus/ngalakan",
+    "multitree": "nig",
+    "endangeredlanguages": "10764"
+  },
+  "classification": {
+    "sub": "**hh:hv:EvansMarley:Gunwinyguan**:783 **hh:hv:Baker:Gunwinyguan**",
+    "subrefs": "\n**hh:hv:Baker:Gunwinyguan**\n**hh:hv:EvansMarley:Gunwinyguan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ngalakgan (10764-nig) = Dormant [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

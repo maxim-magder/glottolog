@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tena Lowland Quichua",
+    "hid": "quw",
+    "level": "language",
+    "iso639-3": "quw",
+    "latitude": "-0.76271",
+    "longitude": "-77.5404",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "EC"
+    ],
+    "links": "\n[Highland Ecuadorian Quichua](https://endangeredlanguages.com/lang/10851)\n[Tena](https://lexibank.clld.org/languages/crossandean-Serena)\nhttps://phoible.org/languages/tena1240\nhttps://www.wikidata.org/entity/Q62387937"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Quechua_oriente_ecuatoriano10**\n**fabreall2009ann:Quechua_oriente_ecuatoriano49**\n**hh:d:WrisleyOrr:Quichua-Oriente**\n**hh:hv:Blum:Quechua**\n**hh:hv:Stark:Lowland-Ecuador**\n**hh:hvw:Orr:Quichuas-Ecuador**\n**hh:ldd:WrisleyOrr:Quichua-Oriente**\n**hh:s:Orr:Quichua-Tena**\n**hh:soc:Wroblewski:Kichwa**\n**hh:styp:Grzech:Tena-Kichwa**\n**hh:t:HartmannOberem:Tena-Quechua**\n**sil16:13316**\n**sil16:17168**\n**sil16:22603**\n**sil16:23432**\n**sil16:47580**"
+  },
+  "altnames": {
+    "multitree": "\nEcuador\nEcuador Quechua\nKichua\nQuichua\nQuichua, Tena Lowland\nTena Lowland Quichua\nYumbo",
+    "lexvo": "\nTena Lowland Quichua [en]",
+    "hhbib_lgcode": "\nNapo\nQuichua-Tena Lowland\nSerena\nTena\nTena Kichwa\nTena-Arajuno-Ahuano",
+    "elcat": "\nCalderón [qud]\nCañar Highland Quichua [qxr]\nChimborazo [qug]\nCotopaxi Quichua.\nHighland Ecuadorian Quichua\nImbabura Quichua [qvi]\nLoja\nNapo Quichua [qvo]\nNorthern Pastaza Quichua [qvz]\nSalasca [qxl]\nTena Quichua [quw]"
+  },
+  "triggers": {
+    "lgcode": "\ncocinanamanda\npasiashca\ncuillurguna\nostecuador"
+  },
+  "identifier": {
+    "multitree": "quw",
+    "endangeredlanguages": "10851"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Orr:Quichuas-Ecuador** **hh:vld:Waters:Napo-Pastaza** **hh:s:Mercier:Kichwa-Napo**:37-39",
+    "subrefs": "\n**hh:hvw:Orr:Quichuas-Ecuador**\n**hh:s:Mercier:Kichwa-Napo**\n**hh:vld:Waters:Napo-Pastaza**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Highland Ecuadorian Quichua (10851) = Vulnerable (80 percent certain, based on the evidence available) (Calderón [qud]: \"shifting\"; home, all ages.\nCañar Highland Quichua [qxr]: \"threatened\"; \"Strong use of Quichua away from the road.\"\nChimborazo [qug]: \"developing\"\nImbabura Quichua [qvi]: Vigorous. All ages.\nLoja [qvj]: \"moribund\"; Mainly older adults. Positive attitude.\nNorthern Pastaza Quichua [qvz]: \"threatened\"; Home, community, religion. All ages. Negative attitudes. Most also\nuse Spanish [spa]. Used as L2 by Achuar-Shiwiar [acu], Waorani [auc].\nSalasca [qxl]: Home, community, agriculture. All ages. Positive attitude.\nNapo Quichua [qvo]: \"developing\".\n(Cotopaxi Quichua is not included as an entry in Ethnologue)) [Lewis et al. 2017](cldf:lewis:simons:etal:ed:17)"
+  }
+}

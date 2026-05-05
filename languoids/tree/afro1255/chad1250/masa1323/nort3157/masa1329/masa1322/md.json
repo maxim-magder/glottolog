@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Masana",
+    "hid": "mcn",
+    "level": "language",
+    "iso639-3": "mcn",
+    "latitude": "10.0606",
+    "longitude": "15.4748",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Banana](https://lexibank.clld.org/languages/kraftchadic-Banana)\n[Masa](https://wals.info/languoid/lect/wals_code_mas)\n[Masana](https://grambank.clld.org/languages/masa1322)\n[Massa](https://lexibank.clld.org/languages/kraftchadic-Massa)\nhttps://en.wikipedia.org/wiki/Massa_language\nhttps://www.wikidata.org/entity/Q56668"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1030**\n**asjp2010:2324**\n**cldf:lembezat:61**\n**cldf:wolff:ed:01:2**\n**eballiso2009:12232**\n**eballiso2009:21493**\n**eballiso2009:30601**\n**eballiso2009:30602**\n**eballiso2009:35078**\n**eballiso2009:3657**\n**eballiso2009:3658**\n**eballiso2009:3660**\n**eballiso2009:3993**\n**eballiso2009:46985**\n**eballiso2009:48939**\n**eballiso2009:52997**\n**eballiso2009:53622**\n**eballiso2009:7961**\n**hh:d:Caitucoli:Masa**\n**hh:d:Melis:Gumay-Haara**\n**hh:e:Diziain:Guider-Kaele-Yagoua**\n**hh:e:Dumas-Champion:Masa**\n**hh:e:Vossart:Bongor**\n**hh:e:deGarine:Massa**\n**hh:ew:vonHagen:Bana**\n**hh:gd:Melis:Masa**\n**hh:he:Arditi:Vallee-Chari**\n**hh:he:Lembezat:Kirdi**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Ajelloetal:Six-Tchadique-Central**\n**hh:hw:Kraft:Chadic:III**\n**hh:hw:Mouchet:Quinze**\n**hh:phon:Matadydy:Massa-Bongor**\n**hh:phon:Ousmanou:Masa-Yagua**\n**hh:s:MouchetErickson:Masana**\n**hh:st:Caitucoli:Masa**\n**hh:typ:Schumann:Masa**\n**mpieva:Caprile1978Prealabl**\n**mpieva:Melis1999Descript**\n**mpieva:Wolff1983Studiesi**"
+  },
+  "altnames": {
+    "wals": "\nMasa",
+    "ruhlen (1987)": "\nMasa",
+    "moseley & asher (1994)": "\nMasa",
+    "multitree": "\n\"Banana\"\nBanana\nMasa\nMasana\nMassa\nWalia",
+    "lexvo": "\nLlengua massa [ca]\nMasana [en]\nMasana hizkuntza [eu]\nMasana jezik [hr]\nMasaneg [br]\nMassa [fr]\nMassa language [en]\nМасаски език [bg]",
+    "hhbib_lgcode": "\nBana (Bongor am Logone)\nBanana\nBanana of Mufadoi\nMasa\nMasa-Yagua\nMassa\nYagoua"
+  },
+  "triggers": {
+    "lgcode": "\nmasana\ntchad AND masa\nmassa AND tchad"
+  },
+  "identifier": {
+    "wals": "genus/masa",
+    "multitree": "mcn"
+  },
+  "classification": {
+    "sub": "**hh:evld:Gaffuri:Gizey**:80-104 **hh:hw:Ajelloetal:Six-Tchadique-Central**:iv-v **hh:el:Melis:Ham** (although listed as a language of the Musey section the evidence provided leaves Ham in the Masa section)",
+    "subrefs": "\n**hh:el:Melis:Ham**\n**hh:evld:Gaffuri:Gizey**\n**hh:hw:Ajelloetal:Six-Tchadique-Central**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Masana (mcn-mcn) = 5* (Developing)."
+  }
+}

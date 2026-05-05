@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Amatlán Zapotec",
+    "hid": "zpo",
+    "level": "language",
+    "iso639-3": "zpo",
+    "latitude": "16.2707",
+    "longitude": "-96.4003",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Amatec Zapotec](https://endangeredlanguages.com/lang/10955)\nhttps://en.wikipedia.org/wiki/Amatl%C3%A1n_Zapotec\nhttps://www.wikidata.org/entity/Q4740613"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Beam:Zapoteco-Sureno**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:phon:Riggs:Amatlan-Zapotec**\n**hh:s:Riggs:Zapotec**\n**hh:s:Riggs:Zapoteco-San-Cristobal-Amatlan**\n**sil16:21361**\n**sil16:47765**\n**sil16:48023**\n**sil16:48388**\n**sil16:49133**"
+  },
+  "altnames": {
+    "glottolog": "\nAmatlan Zapotec",
+    "multitree": "\nAmatlán Zapotec\nDizhe\nMiahuatec\nMiahuatlan\nSouthern Mountain Zapotec\nSouthern Sapoteko\nZapotec\nZapotec, Amatlán\nZapoteco de Asunción Tlacolulita\nZapoteco de San Cristóbal Amatlán\nZapoteco del Noreste de Miahuatlán\nZapotèque d'Asunción Tlacolulita",
+    "lexvo": "\nAmatlán Zapotec [en]",
+    "hhbib_lgcode": "\nAmatlán\nSan Cristobal Amatlán\nZapotec-Amatlán",
+    "elcat": "\nAmatec Zapotec\nAmatlán Zapotec\nCoatecas Altas Zapotec"
+  },
+  "triggers": {
+    "lgcode": "\n>ma\nrop\namatlan\ndizhze"
+  },
+  "identifier": {
+    "multitree": "zpo",
+    "endangeredlanguages": "10955"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  }
+}

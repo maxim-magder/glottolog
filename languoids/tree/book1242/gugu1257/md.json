@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Gugu Mini",
+    "hid": "ggm",
+    "level": "language",
+    "iso639-3": "ggm",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2012-138**"
+  },
+  "iso_retirement": {
+    "comment": "Gugu Mini” is apparently a generic term meaning “good speech” that is used for\nseveral languages in the Thaypan area. The original ISO-addition request noted\nthis when they cited the AIATSIS entry, which is no. Y94 in their data base.\nThere are word lists under the name “Gugu Mini” that AIATSIS labels as\n“potential data”, but no confirmed new language. (See “status” below.) The\nAIATSIS entry for Y94 \"Gugu Mini\" is as follows:\n\nAIATSIS Code: Y94\nAIATSIS reference name: Gugu Mini\n\nComment: According to Rigsby (2005:138), Gugu Mini is a language name whose\nreference is shifting, variable and wide-ranging and that it variably signifies\nlanguages situated on the mainland south of Flinders Island all the way south to\nNormanton. Sommer (2008 p.c.) says that Kuku Mini (Y94) literally means ‘speech\ngood’ and in general it applies to languages/dialects of the Central Paman type.\n\nIt is not clear whether Gugu Mini refers to a group of related\nlanguages/dialects, or simply a group of both related and unrelated\nlanguages/dialects. If the former is the case, Gugu Mini can be treated as a\ncover term or a language name.\n\nIn this database, Gugu Mini is tentatively listed as a language name, and the\nlocation of this language on the map is based on Tindale (1974), who uses\nKokomini (Y94) to refer to one specific tribe.",
+    "code": "ggm",
+    "name": "Gugu Mini",
+    "effective": "2014-02-03",
+    "remedy": "This name is a cover term for several related languages and is not an individual language.",
+    "reason": "non-existent",
+    "change_request": "2013-030",
+    "change_to": ""
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Gugu Mini (ggm-ggm) = 10 (Extinct)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Saek",
+    "hid": "skb",
+    "level": "language",
+    "iso639-3": "skb",
+    "latitude": "17.4558",
+    "longitude": "104.787",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH"
+    ],
+    "links": "\n[Saek](https://endangeredlanguages.com/lang/1429)\nhttps://www.wikidata.org/entity/Q36437\nhttps://en.wikipedia.org/wiki/Saek_language\nhttps://phoible.org/languages/saek1240\n[Saek](https://wals.info/languoid/lect/wals_code_sae)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2748**\n**asjp2010:3405**\n**cldf:abramson:ed:97:5**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:edmondson:solnit:ed:97:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:HudakGedney:Saek**\n**hh:ew:Fraisse:Sek-Kha**\n**hh:gtd:Meng:Saek**\n**hh:hew:Macey:Cammon**\n**hh:hv:Oshika:Kam-Sui-Mak:1973**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:phontyp:Sarinya:Saek-Lao**\n**hh:s:Khanitthanan:Saek**\n**hh:s:Luo:Shijia**\n**hh:s:Morev:Sek**\n**hh:td:Hudak:Saek**\n**hh:v:Benedict:Saek**\n**hh:v:Gedney:Saek**\n**hh:v:Khanittanan:Saek**\n**hh:w:Khanittanan:Saek**\n**hh:w:Riviere:Annam-Laos**\n**mpieva:1993WilliamJ**"
+  },
+  "altnames": {
+    "wals": "\nSaek",
+    "ruhlen (1987)": "\nSaek",
+    "moseley & asher (1994)": "\nSaek",
+    "multitree": "\nSaek\nSek\nSet\nTai Sek",
+    "lexvo": "\nSaek [de]\nSaek language [en]\nSaekeg [br]\nภาษาแสก [th]\n石語 [zh]",
+    "hhbib_lgcode": "\nHang-Tchek\nNa Kadok in Laos\nSaek at At Samat\nSaek of At Samat in Thailand\nSek\nShijia\nSèk\nTeung in the Nam Noi area of Laos",
+    "elcat": "\nSaek\nSek\nSet\nTai Sek\n石語"
+  },
+  "triggers": {
+    "lgcode": "\nsaek\nsek"
+  },
+  "identifier": {
+    "wals": "sae",
+    "multitree": "skb",
+    "endangeredlanguages": "1429"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chamberlain:Kra-Dai**:58-59",
+    "subrefs": "\n**hh:hv:Chamberlain:Kra-Dai**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Saek (1429-skb) = Threatened (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

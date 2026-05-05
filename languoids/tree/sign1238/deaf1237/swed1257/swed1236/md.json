@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Swedish Sign Language",
+    "hid": "swl",
+    "level": "language",
+    "iso639-3": "swl",
+    "latitude": "58.929",
+    "longitude": "16.1133",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SE"
+    ],
+    "links": "\n[Swedish Sign Language](https://endangeredlanguages.com/lang/7359)\nhttps://www.wikidata.org/entity/Q36558\nhttps://en.wikipedia.org/wiki/Swedish_Sign_Language\n[Svenska Teckenspråket](https://wals.info/languoid/lect/wals_code_svt)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bergman:88**\n**cldf:bergman:95**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:d:Osterberg:Atbordsspraket**\n**hh:h:BergmanEngberg:Sign-Nordic**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**\n**hh:h:Willoughby:Tactile-Sign**\n**hh:hld:Wilkinson:Signed**\n**hh:hv:Mesch:Teckensprak**\n**hh:ld:Hedberg:Svenskt-Teckensprak**\n**hh:ld:Mesch:Tactile-Swedish-Finnish**\n**hh:ld:Mesch:Teckensprak-Taktil**\n**hh:s:Bergman:Teckenspraksgrammatik**\n**hh:soctyp:Bergman:Swedish-Sign**\n**hh:typ:Bergman:Signed-Swedish**\n**hh:typ:Bergman:Tecknad-Svenska**\n**hh:typ:BergmanWallin:Swedish-Sign**\n**hh:typ:Borstell:Object-Marking**\n**hh:typ:Mesch:Tactile-Sign**"
+  },
+  "altnames": {
+    "wals": "\nSvenska Teckenspråket",
+    "multitree": "\nSwedish Sign Language",
+    "lexvo": "\nRuotsalainen viittomakieli [fi]\nSvensk tegnspråk [no]\nSvenskt teckenspråk [de]\nSwedish Sign Language [en]",
+    "hhbib_lgcode": "\nInformation on åtbördsspråket\nSvenskt teckenspråk (SSL)\nSwedish Sign Language SSL\nTactile Swedish Sign Language\nTactile Swedish Sign Language (SSL) (e.g. Mesch 2001-2013)\nTactile Swedish Sign Language [swl]\nTactile Swedish Sign language\nTaktilt Svenskt teckenspråk (SSL)",
+    "elcat": "\nSwedish Sign Language"
+  },
+  "triggers": {
+    "lgcode": "\nteckenspra{ksgrammatik"
+  },
+  "identifier": {
+    "wals": "svt",
+    "multitree": "swl",
+    "endangeredlanguages": "7359"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Swedish Sign Language (7359-swl) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "Although the origin of Finnish Sign Language is in the early Swedish Sign Language, the two languages developed in their own directions. Today, 160 years later, Finnish Sign Language and Swedish Sign Language are totally different languages. It has been estimated that already at the beginning of the 20th century the congruence in the lexicons of Finnish Sign Language and Swedish Sign Language had fallen to 71–73 percent. In 2000 congruence was no more than 42% (**hh:s:Takkinen:Finnish-Sign**:254, **hh:hv:Mesch:Teckensprak**). Finland-Swedish Sign Language [finl1235] is also a member of this family as shown by historical and lexical evidence (**hh:soc:Hoyer:Borgatecken**, **hh:h:Thorvaldsdottir:Sign-Scandinavia**:812, **hh:vw:Brudzewski:Portugal-Sign**). Finnish Sign Language [finn1310] includes Eritrean Sign Language (**hh:h:Moges:Eritrean-Sign**, **hh:soc:Moges:Eritrean-Sign**).",
+    "subrefs": "\n**hh:s:Takkinen:Finnish-Sign**\n**hh:soc:Hoyer:Borgatecken**\n**hh:h:Moges:Eritrean-Sign**\n**hh:h:Thorvaldsdottir:Sign-Scandinavia**\n**hh:vw:Brudzewski:Portugal-Sign**\n**hh:hv:Mesch:Teckensprak**\n**hh:soc:Moges:Eritrean-Sign**"
+  }
+}

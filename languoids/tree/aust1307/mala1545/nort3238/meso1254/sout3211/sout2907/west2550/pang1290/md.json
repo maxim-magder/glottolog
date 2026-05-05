@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Pangasinan",
+    "hid": "pag",
+    "level": "language",
+    "iso639-3": "pag",
+    "latitude": "15.9377",
+    "longitude": "120.365",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Pangasinan](https://grambank.clld.org/languages/pang1290)\n[Pangasinan](https://wals.info/languoid/lect/wals_code_pnn)\nhttps://en.wikipedia.org/wiki/Pangasinan_language\nhttps://phoible.org/languages/pang1290\nhttps://www.wikidata.org/entity/Q33879"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:benton:71:1**\n**cldf:bybee:perkins:etal:94**\n**cldf:rubino:01:2**\n**hh:d:Benton:Pangasinan**\n**hh:g:Benton:Pangasinan**\n**hh:g:Benton:Pangasinan-Spoken**\n**hh:g:Lopez:Pangasinan**\n**hh:g:Pellicer:Pangasinan**\n**hh:h:Larena:Philippines**\n**hh:hld:Llamzon:Philippine**\n**hh:hld:MacKinlay:Phillipines**\n**hh:hv:Himes:Southern-Cordilleran**\n**hh:s:Lopez:Pangasinan**\n**hh:s:Perfecto:Pangasinan**\n**hh:s:Rayner:Pangasinan**\n**hh:w:Yamada:Philippine**\n**hh:w:Yap:Philippine**\n**ldh:item_403764**\n**mpieva:Pellicez1904Artedela**\n**mpieva:Rayner1923Grammara**\n**sil16:48347**\n**sil16:51519**"
+  },
+  "altnames": {
+    "wals": "\nPangasinan",
+    "ruhlen (1987)": "\nPangasinan",
+    "moseley & asher (1994)": "\nPangasinan",
+    "multitree": "\nPangasinan\nPhilippines",
+    "lexvo": "\nIdioma pangasinense [es]\nJęzyk pangasinan [pl]\nPagsasao a Pangasinan [ilo]\nPangasinan [en]\nPangasinan language [en]\nPangasinana lingvo [eo]\nPangasinense [bcl]\nPangasinense nga yinaknan [war]\nSalitan Pangasinan [pag]\nWikang Panggasinan [tl]\npangasinan [fr]\nПангасинанский язык [ru]\nภาษาปางาซินัน [th]\nፓንጋሲናንኛ [am]\nパンガシナン語 [ja]",
+    "hhbib_lgcode": "\nThe Pangasinans 70"
+  },
+  "triggers": {
+    "lgcode": "\npangasinan"
+  },
+  "identifier": {
+    "wals": "pnn",
+    "multitree": "pag"
+  },
+  "classification": {
+    "sub": "**hh:hv:Himes:Southern-Cordilleran**",
+    "subrefs": "\n**hh:hv:Himes:Southern-Cordilleran**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pangasinan (pag-pag) = 3 (Wider communication). Statutory language of provincial identity in Pangasinan Province (1991, ACFLC Section 3(f)). Language of wider communication since the 17th century during the Spanish colonial period. Used in government work, trade, shipbuilding, fisheries, farming, salt making, and education."
+  }
+}

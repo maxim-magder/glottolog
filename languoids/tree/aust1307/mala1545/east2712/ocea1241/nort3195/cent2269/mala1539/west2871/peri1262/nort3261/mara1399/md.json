@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Maragus",
+    "hid": "mrs",
+    "level": "language",
+    "iso639-3": "mrs",
+    "latitude": "-16.0695",
+    "longitude": "167.33",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Maragus](https://grambank.clld.org/languages/mara1399)\n[Tape](https://endangeredlanguages.com/lang/4712)\n[Tape](https://lexibank.clld.org/languages/abvdoceanic-Tape)\nhttps://en.wikipedia.org/wiki/Tape_language\nhttps://www.wikidata.org/entity/Q6754640"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:334**\n**cldf:ed:10**\n**cldf:francois:14:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Crowley:Tape**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMallicolo\nMaragaus\nMaragus",
+    "lexvo": "\nMaragus [en]",
+    "hhbib_lgcode": "\nTape",
+    "elcat": "\nMallicolo\nMaragaus\nMaragus\nTape"
+  },
+  "triggers": {
+    "lgcode": "\nvanuatu AND declining"
+  },
+  "identifier": {
+    "multitree": "mrs",
+    "endangeredlanguages": "4712"
+  },
+  "classification": {
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tape (4712-mrs) = Critically Endangered (100 percent certain, based on the evidence available) [Crowley 2006](cldf:crowley:06:3)"
+  }
+}

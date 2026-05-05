@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southwestern Huishui Hmong",
+    "hid": "hmh",
+    "level": "language",
+    "iso639-3": "hmh",
+    "latitude": "26.0436",
+    "longitude": "106.561",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953565"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Hattaway:China**\n**iso6393:2007-127**"
+  },
+  "altnames": {
+    "multitree": "\nHmo\nHmong\nHmong, Southwestern Huishui\nHmung\nHsiung\nHunan Miao\nMiao\nSouthwestern Huishui Hmong\nSouthwestern Huishui Miao",
+    "lexvo": "\nSouthwestern Huishui Hmong [en]\nSouthwestern Huishui Miao [en]",
+    "hhbib_lgcode": "\nMiao-Huishui (Southwestern)"
+  },
+  "triggers": {
+    "lgcode": "\nNOT linguistic AND NOT of AND yao AND miao"
+  },
+  "identifier": {
+    "multitree": "hmh"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Niederer:Hmong-Mjen** **hh:hv:Johnson:Far-Western-Hmongic**",
+    "subrefs": "\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:hv:Johnson:Far-Western-Hmongic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miao, Southwestern Huishui (hmh-hmh) = 6a* (Vigorous). Language of recognized nationality: Miao."
+  }
+}

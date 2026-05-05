@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Amarasi",
+    "hid": "aaz",
+    "level": "language",
+    "iso639-3": "aaz",
+    "latitude": "-10.21751",
+    "longitude": "123.96373",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Amarasi](https://endangeredlanguages.com/lang/9171)\nhttps://www.wikidata.org/entity/Q4740192\nhttps://en.wikipedia.org/wiki/Amarasi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kaufman:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:hv:Edwards:Rote-Meto**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hvw:Edwards:Uab-Meto**\n**hh:t:Middelkoop:Amarasisch**\n**hh:typ:JacobGrimes:Kupang-Malay**\n**hh:typ:vanKranenburg:Amarasi**\n**hh:w:Edwards:Amarasi**\n**hh:w:Kurniawati:Swadesh-Kupang**\n**mpieva:Middelkoop1939Amarasis**"
+  },
+  "altnames": {
+    "multitree": "\nAmarasi\nTimor Amarasi",
+    "lexvo": "\nAmarasi [en]",
+    "hhbib_lgcode": "\nKotos Amarasi\nOenoni\nRo'is\nRo'is Amarasi",
+    "elcat": "\nAmarasi\nTimor Amarasi"
+  },
+  "triggers": {
+    "lgcode": "\ntimoreesche\namarassische"
+  },
+  "identifier": {
+    "multitree": "aaz",
+    "endangeredlanguages": "9171"
+  },
+  "classification": {
+    "sub": "**hh:typ:JacobGrimes:Kupang-Malay**:356-357",
+    "subrefs": "\n**hh:typ:JacobGrimes:Kupang-Malay**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Amarasi (9171-aaz) = Vulnerable (20 percent certain, based on the evidence available) (Amarasi is decreasing dramatically; proximity to the city (Kupang) means that language attrition is proceeding quickly.\n\nIntergenerational transmission of specialized traditional knowledge and vocabulary is breaking down. For instance, all knowledge and vocabulary relating to making traditional round-houses has been lost within the last 40 years.\n\nAmarasi is used in non-ritual contexts only.) [Kaufman 2012](cldf:kaufman:12)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "San Salvador Kongo",
+    "hid": "kwy",
+    "level": "language",
+    "iso639-3": "kwy",
+    "latitude": "-5.7114",
+    "longitude": "12.5372",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "CD",
+      "CG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11017686"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brown:44**\n**cldf:bruyns:51**\n**cldf:czekanowski:24**\n**cldf:ihle:29**\n**cldf:kapstein:22**\n**cldf:mertens:42**\n**cldf:vanwing:21**\n**cldf:weeks:14**\n**hh:bldsoc:Drieghe:Kakongo**\n**hh:ew:Tessmann:Pangwe**\n**hh:ew:Tuckey:Zaire**\n**hh:g:Mingas:Iwoyo**\n**hh:h:Guthrie:Polyglotta**\n**hh:h:Struck:Moyen-Congo**\n**hh:h:daSilva:Cabinda**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:hew:Dias:Lunda**\n**hh:hv:Adelungetal:Mithridates:31**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Vandenabeel:Congo-Delta**\n**hh:hv:deSchryver:Kikongo**\n**hh:hvs:Stapleton:Congo**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Lemaire:Congo**\n**hh:hw:Stanley:Dark:II**\n**hh:ld:Kind:Kikongo-SOV**\n**hh:ld:Proyart:Loango**\n**hh:lde:Pechuel:Loango:1907**\n**hh:phon:Mingas:Oyo**\n**hh:s:Carrie:Fiote**\n**hh:s:Descourvieres:Kakongo**\n**hh:typ:Dom:Kikongo**\n**hh:w:Giraud:Sango-Balkongo-Zande**\n**mpieva:Mfuwa1995Systemat**"
+  },
+  "altnames": {
+    "multitree": "\nCongo\nKikongo\nKikoongo\nKisikongo\nKongo, San Salvador\nSan Salvador Kongo",
+    "lexvo": "\nSan Salvador Kongo [en]",
+    "hhbib_lgcode": "\nBafioti (Mayumba)\nBakongo-Fiote\nCabindas\nCacongos\nCimbala\nCiwoyo\nCizali\nCongo (S Salvador)\nFiote\nFioti\nH16 Cimbala\nH16 Cisundi Cabinda\nH16 Cizali\nH16_Cimbala\nH16d Ciwoyo DRC\nH16d Iwoyo Cabinda\nH16d_Ciwoyo_DRC_2012\nIwoyo\nKabenda\nKakongo\nKakongo was just north of the rivermouth but belongs to NW Kikongo\nKakongo/Kabinda\nKongo of Cabinda\nKongo/Fiote\nMalemba\nW Kongo\nWest Kongo\nWestern Kikongo\nWoyo",
+    "glottolog": "\nCimbala-Cizali"
+  },
+  "triggers": {
+    "lgcode": "\nkisikongo\nntandu\nNOT in AND larobok\nbakongo"
+  },
+  "identifier": {
+    "wals": "kwy",
+    "multitree": "kwy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vandenabeel:Congo-Delta** **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Bostoen:Aire-Kongo**\n**hh:hv:Vandenabeel:Congo-Delta**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kikongo (kwy-kwy) = 3 (Wider communication). De facto language of national identity."
+  }
+}

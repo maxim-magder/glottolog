@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Nyanga",
+    "hid": "nyj",
+    "level": "language",
+    "iso639-3": "nyj",
+    "latitude": "-1.29357",
+    "longitude": "28.31546",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7070879\nhttps://en.wikipedia.org/wiki/Nyanga_language\n[Nyanga](https://wals.info/languoid/lect/wals_code_nng)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mateene:80**\n**cldf:price:66**\n**eballiso2009:17934**\n**eballiso2009:17936**\n**eballiso2009:17937**\n**eballiso2009:17940**\n**eballiso2009:17962**\n**eballiso2009:22325**\n**eballiso2009:22335**\n**eballiso2009:22782**\n**eballiso2009:2372**\n**eballiso2009:25996**\n**eballiso2009:28707**\n**eballiso2009:47469**\n**eballiso2009:56864**\n**hh:h:Cleire:Kivu**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:HackettvanBulck:ETeam**\n**hh:s:Kadima:Nyanga**\n**hh:s:Mateene:Nyanga**\n**hh:s:Mateene:Nyanga:1969**\n**hh:w:MateeneMateene:Nyanga**\n**sil16:22642**"
+  },
+  "altnames": {
+    "wals": "\nNyanga",
+    "ruhlen (1987)": "\nNyanga",
+    "moseley & asher (1994)": "\nNyanga",
+    "multitree": "\nInyanga\nKinyanga\nNyanga",
+    "lexvo": "\nNyanga [en]\nNyanga language [en]",
+    "hhbib_lgcode": "\n*D305_Nyanga-li\nD305_Nyanga-li\nD43_Nyanga\nKiNyanga\nKinyanga\nNyanga D43\nmislabeled because of the subgrouping and absense of data on the actual D305_Nyanga-li - language data is likely is Nyanga D43\nmislabeled because of the subgrouping and absense of data on the actual D305_Nyanga-li ---- language data is likely is Nyanga\nmislabeled because of the subgrouping and absense of data on the actual D305_Nyanga-li ---- language data is likely is Nyanga D43"
+  },
+  "triggers": {
+    "lgcode": "\nrond\nnyanga\nbanyanga\nwanianga\nNOT le AND nyanga"
+  },
+  "identifier": {
+    "wals": "nng",
+    "multitree": "nyj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ricquier:Lega-Luba** **hh:hv:Bastinetal:Bantu**:209-210 **hh:hvb:vanBulck:Congo**:228-235",
+    "subrefs": "\n**hh:hv:Ricquier:Lega-Luba**\n**hh:hvb:vanBulck:Congo**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nyanga (nyj-nyj) = 6a* (Vigorous)."
+  }
+}

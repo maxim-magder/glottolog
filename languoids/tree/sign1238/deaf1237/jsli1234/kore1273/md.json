@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Korean Sign Language",
+    "hid": "kvk",
+    "level": "language",
+    "iso639-3": "kvk",
+    "latitude": "37.4718",
+    "longitude": "127.609",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3073428\nhttps://en.wikipedia.org/wiki/Korean_Sign_Language\n[South Korean Sign Language](https://wals.info/languoid/lect/wals_code_ssl)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Kim:Korean-Sign**\n**hh:g:Lee:Korean-Sign**\n**hh:g:Seong-Ok:Korean-Sign**\n**hh:hld:Wilkinson:Signed**\n**hh:phon:Jhang:Korean-Sign**\n**hh:s:Hwang:Korean-Sign**\n**hh:s:Suk:Korean-Sign**\n**hh:s:Um:Korean-Sign**\n**hh:soc:Hurlbut:Sign-Taiwan**\n**hh:typ:Byun:Korean-Sign**\n**hh:typ:Hong:Koreanischen-Gebardensprache**\n**hh:typ:Jhang:Korean-Sign**\n**hh:typ:Jhang:Korean-Sign-Wh**\n**hh:typ:Jhang:Korean-Sign:2006**\n**hh:typ:Jhang:Korean-Sign:2008**\n**hh:typ:Jo:Korean-Sign**\n**hh:typ:KimCho:Korean-Sign**\n**hh:typ:NamByun:Korean-Sign**\n**hh:typ:Samson:Body-Locations-Sign**"
+  },
+  "altnames": {
+    "wals": "\nSouth Korean Sign Language",
+    "multitree": "\nKorean Sign Language",
+    "lexvo": "\nKorean Sign Language [en]",
+    "hhbib_lgcode": "\nKorean Sign"
+  },
+  "triggers": {
+    "lgcode": "\nkongruenzverben\nsurvey AND taiwan\nempirische\nkoreanischen"
+  },
+  "identifier": {
+    "wals": "ssl",
+    "multitree": "kvk"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Korean Sign Language (kvk-kvk) = 4 (Educational). Recognized language (2016, Korean Sign Language Act), Requires a KSL Development Plan every five years, promotion of standardization, use of KSL in education, promotion in other areas of life, competency testing, and interpreters."
+  },
+  "classification": {
+    "sub": "Historical and lexical evidence (**hh:hld:Mori:Sign-Japan**:802-803, **hh:h:FischerGong:East-Asian-Sign**, **hh:hvld:Sagara:Japanese-Sign**, **hh:h:Woll:Global-Sign**:29, **hh:vld:Sasaki:Japanese-Taiwan-Sign**).",
+    "subrefs": "\n**hh:hld:Mori:Sign-Japan**\n**hh:h:Woll:Global-Sign**\n**hh:hvld:Sagara:Japanese-Sign**\n**hh:h:FischerGong:East-Asian-Sign**\n**hh:vld:Sasaki:Japanese-Taiwan-Sign**"
+  }
+}

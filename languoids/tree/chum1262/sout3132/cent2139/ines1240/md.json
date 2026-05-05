@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ineseño",
+    "hid": "inz",
+    "level": "language",
+    "iso639-3": "inz",
+    "latitude": "34.6169",
+    "longitude": "-120.08",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Chumash (Ineseño)](https://wals.info/languoid/lect/wals_code_cin)\n[Ineseño](https://grambank.clld.org/languages/ines1240)\n[Ineseño](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Ineseno)\nhttps://en.wikipedia.org/wiki/Inese%C3%B1o_language\nhttps://www.wikidata.org/entity/Q35443",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3225**\n**cldf:applegate:92**\n**cldf:nichols:92**\n**hh:d:Ynez:Samala**\n**hh:e:Grant:Eastern-Coastal-Chumash**\n**hh:g:Applegate:Ineseno**\n**hh:hs:Kroeber:SCoast**\n**hh:hvb:Golla:California**\n**hh:hvw:Kroeber:Chumash-Costanoan**\n**hh:hvw:Powell:California**\n**hh:w:Heizer:Henshaw**\n**mpieva:Applegate1972InsenoCh**\n**mpieva:Pinart1952TheMissi**"
+  },
+  "altnames": {
+    "glottolog": "\nIneseno",
+    "wals": "\nChumash (Ineseño)",
+    "wals other": "\nChumash (Ineseno)\nIneseno Chumash\nIneseño",
+    "ruhlen (1987)": "\nChumashan",
+    "moseley & asher (1994)": "\nChumash",
+    "multitree": "\nChumash (Ineseño)\nChumasha Proper\nIneseño\nInezeño\nSanta Inez\nSanta Rosa\nYnezeño",
+    "lexvo": "\nIneseño [en]",
+    "hhbib_lgcode": "\nChumash Santa Ynez\nSanta Inez\nSanta Ynez\nYnezeño"
+  },
+  "triggers": {
+    "lgcode": "\nineseno\ninseno"
+  },
+  "identifier": {
+    "wals": "genus/chumash",
+    "multitree": "inz"
+  },
+  "classification": {
+    "sub": "**hh:hv:JonesKlar:Polynesian-Southern-California**",
+    "subrefs": "\n**hh:hv:JonesKlar:Polynesian-Southern-California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Ineseño (854-inz) = Extinct"
+  }
+}

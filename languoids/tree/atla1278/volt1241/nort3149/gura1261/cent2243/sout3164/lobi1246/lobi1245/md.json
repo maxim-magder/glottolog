@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Lobi",
+    "hid": "lob",
+    "level": "language",
+    "iso639-3": "lob",
+    "latitude": "9.96122",
+    "longitude": "-3.336",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI",
+      "GH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35807\nhttps://en.wikipedia.org/wiki/Lobi_language\n[Lobi](https://wals.info/languoid/lect/wals_code_lob)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kambou:00**\n**eballiso2009:21410**\n**eballiso2009:34073**\n**eballiso2009:50966**\n**eballiso2009:53585**\n**eballiso2009:5559**\n**eballiso2009:5560**\n**eballiso2009:5563**\n**eballiso2009:5564**\n**eballiso2009:57548**\n**eballiso2009:59038**\n**eballiso2009:59041**\n**eballiso2009:59042**\n**eballiso2009:59362**\n**eballiso2009:59365**\n**eballiso2009:7818**\n**eballiso2009:9647**\n**eballiso2009:9648**\n**hh:e:Charles:Lobi**\n**hh:e:Da:Lobis**\n**hh:e:Haumant:Lobi**\n**hh:g:Becuwe:Lobiri**\n**hh:g:Becuwe:Lobiri:1985**\n**hh:g:Lamothe:Lobi**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:he:Labouret:Lobi**\n**hh:hvw:MensahTchagbale:Gur**\n**hh:hvw:Swadesh:Gur**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:s:Maimouna:Lobiri**\n**hh:s:Vaillant:Lobiri**\n**hh:st:Labouret:Lobi**\n**hh:typ:Lamothe:Lobi**\n**hh:w:Armstrong:West-African**\n**mpieva:Anderson2003WhyInica**\n**sil16:33873**\n**sil16:33879**\n**sil16:43928**"
+  },
+  "altnames": {
+    "wals": "\nLobi",
+    "wals other": "\nLobiri",
+    "ruhlen (1987)": "\nLobi",
+    "moseley & asher (1994)": "\nLobi",
+    "multitree": "\nLobi\nLobiri\nMiwa",
+    "lexvo": "\nLobi [en]",
+    "hhbib_lgcode": "\nGudrun Miehe and Florian Tham: D1. Lobiri\nLobiri"
+  },
+  "triggers": {
+    "lgcode": "\ngaoua\nlobiri\nlobis\nlobire\nruines"
+  },
+  "identifier": {
+    "wals": "lob",
+    "multitree": "lobi;lob"
+  },
+  "classification": {
+    "sub": "**hh:v:Miehe:Lobiri-Jaane**",
+    "subrefs": "\n**hh:v:Miehe:Lobiri-Jaane**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lobi (lob-lob) = 5 (Developing)."
+  }
+}

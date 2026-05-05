@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Highland Puebla Nahuatl",
+    "hid": "azz",
+    "level": "language",
+    "iso639-3": "azz",
+    "latitude": "20.1554",
+    "longitude": "-97.5556",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Eastern Nahua](https://endangeredlanguages.com/lang/3885)\n[Highland Puebla Nahuatl](https://grambank.clld.org/languages/high1278)\n[Nahuatl (Sierra de Zacapoaxtla)](https://wals.info/languoid/lect/wals_code_nsz)\n[Zacapoaxtla Nahuatl](https://lexibank.clld.org/languages/utoaztecan-AztecZacapoaxtla)\nhttps://www.wikidata.org/entity/Q12953754"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:key:dekey:53**\n**cldf:lewis:ed:09**\n**cldf:martinez:85**\n**cldf:np:nd:264**\n**cldf:robinson:66**\n**cldf:toumi:84**\n**cldf:yasugi:95**\n**hh:d:Canger:Tacuapan**\n**hh:d:KeyKey:Mejicano-Sierra-Zacapoaxtla**\n**hh:d:Toumi:Mexicano-Tzinacapan**\n**hh:dial:Key:Hidalgo-Veracruz-Puebla**\n**hh:g:Robinson:Sierra-Nahuat**\n**hh:g:Robinson:Sierra-Nahuat:1966**\n**hh:hv:Robinson:Aztec**\n**hh:phon:KeyKey:Sierra-Nahuat**\n**hh:s:Robinson:Nahuat-Sierra-Puebla**\n**hh:s:Troiani:Mexicano-Tzinacapan**\n**hh:td:Keyetal:Puebla-Sierra-Aztec**\n**sil16:11270**\n**sil16:11271**\n**sil16:11272**\n**sil16:11277**\n**sil16:11279**\n**sil16:11682**\n**sil16:12192**\n**sil16:12197**\n**sil16:12199**\n**sil16:12202**\n**sil16:24336**"
+  },
+  "altnames": {
+    "wals": "\nNahuatl (Sierra de Zacapoaxtla)",
+    "wals other": "\nNahuatl\nSierra de Zacapoaxtla",
+    "ruhlen (1987)": "\nNawa",
+    "moseley & asher (1994)": "\nNahuatl",
+    "multitree": "\nEastern Nawa\nMejicano Azteco\nMejicano de Zacapoaxtla\nMexicano\nNahua de la Huasteca\nNahuatl\nNahuatl (Puebla Sierra)\nNahuatl (Sierra de Zacapoaxtla)\nNahuatl, Highland Puebla\nNáhuat de la Sierra de Puebla\nNáhuatl du Huasteca\nSierra Aztec\nSierra Puebla Náhuatl\nZacapoaxtla\nZacapoaxtla Náhuat",
+    "lexvo": "\nHighland Puebla Nahuatl [en]\nSierra astečki [hr]",
+    "hhbib_lgcode": "\nNahuatl Tzinacapan\nNahuatl-Highland Puebla\nSierra de Puebla Nahuatl\nTacuapan-Cuetzalan\nXalacapan-Puebla (Sierra de Puebla)\nZacapoaxtla-Sierra de Puebla",
+    "elcat": "\nEastern Nahua\nHighland Puebla\nMejicano Azteco\nMejicano de Zacapoaxtla\nMexicano\nNahuatl\nNahuatl (Puebla Sierra)\nNahuatl (Sierra de Zacapoaxtla)\nNáhuat de la Sierra de Puebla\nSierra Aztec\nSierra Puebla Náhuatl\nZacapoaxtla\nZacapoaxtla Náhuat"
+  },
+  "triggers": {
+    "lgcode": "\nmexica\nsierra AND nahuat\nmejicano\nzacapoaxtla\ninductiva\npunitive\nxalacapan\ntzinacapan"
+  },
+  "identifier": {
+    "wals": "nsz",
+    "multitree": "azz",
+    "endangeredlanguages": "3885"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lastra:Nahuatl-Moderno**:204-212",
+    "subrefs": "\n**hh:hvw:Lastra:Nahuatl-Moderno**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern Nahua (3885-azz) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

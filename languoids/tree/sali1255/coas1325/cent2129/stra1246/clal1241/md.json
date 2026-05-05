@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Clallam",
+    "hid": "clm",
+    "level": "language",
+    "iso639-3": "clm",
+    "latitude": "48.0707",
+    "longitude": "-123.511",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Klallam](https://endangeredlanguages.com/lang/2292)\nhttps://www.wikidata.org/entity/Q33404\nhttps://en.wikipedia.org/wiki/Klallam_language\n[Clallam](https://wals.info/languoid/lect/wals_code_cla)",
+    "timespan": "2014-01-01/2014-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:boyd:90**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:eells:79**\n**cldf:eells:84**\n**cldf:eells:87:2**\n**cldf:eells:88**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:gunther:27**\n**cldf:kaminsky:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:martin:quimby:etal:47**\n**cldf:np:nd:264**\n**cldf:schalk:78**\n**cldf:thompson:thompson:71**\n**cldf:thompson:thompson:etal:74**\n**cldf:vancouver:98**\n**hh:e:Suttles:Central-Coast-Salish**\n**hh:g:Fleischer:Clallam**\n**hh:g:Montler:Klallam**\n**hh:hv:Swadesh:Salish:1950**\n**hh:hvw:Montler:Straits-Salishan**\n**hh:ldd:Montler:Klallam**\n**hh:lde:Eells:Twana-Chemakum-Klallam**\n**hh:s:ThompsonThompson:Clallam**\n**hh:v:Fleisher:Clallam**\n**hh:w:Gibbs:Clallam-Lummi**\n**iso6393:2024-012**"
+  },
+  "altnames": {
+    "wals": "\nClallam",
+    "ruhlen (1987)": "\nClallam",
+    "moseley & asher (1994)": "\nClallam",
+    "multitree": "\nClallam\nKlallam\nKlellam\nNa'klallam\nNəxʷsƛ'áy'əmucən\nS'klallam\nnəxʷsƛʼáyʼəmʼucən",
+    "lexvo": "\nClallam [en]\nJęzyk klallam [pl]\nKlallam [fr]\nKlallam language [en]",
+    "hhbib_lgcode": "\nClallam Cl\nKlallam",
+    "elcat": "\nClallam\nKlallam\nKlellam\nNa'klallam\nNəxʷsƛ'áy'əmucən\nS'klallam\nnəxʷsƛʼáyʼəmʼucən"
+  },
+  "triggers": {
+    "lgcode": "\nklallam\nclallam"
+  },
+  "identifier": {
+    "wals": "cla",
+    "multitree": "clm",
+    "endangeredlanguages": "2292"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Montler:Straits-Salishan**",
+    "subrefs": "\n**hh:hvw:Montler:Straits-Salishan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Klallam (2292-clm) = Awakening [Kaminsky 2014](cldf:kaminsky:14)"
+  }
+}

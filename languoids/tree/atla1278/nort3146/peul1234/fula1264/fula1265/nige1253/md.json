@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Hausa States Fulfulde",
+    "hid": "fuv",
+    "level": "language",
+    "iso639-3": "fuv",
+    "latitude": "10.9972",
+    "longitude": "11.1188",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG",
+      "TD"
+    ],
+    "links": "\n[Fula (Kano-Katsina-Bororo)](https://lexibank.clld.org/languages/polyglottaafricana-Fula)\n[Fulfulde (Nigerian)](https://wals.info/languoid/lect/wals_code_fni)\n[Hausa States Fulfulde](https://grambank.clld.org/languages/nige1253)\nhttps://en.wikipedia.org/wiki/Nigerian_Fulfulde\nhttps://phoible.org/languages/nige1253\nhttps://www.wikidata.org/entity/Q36129"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:labatut:88**\n**cldf:leger:97**\n**cldf:telababa:jauro:97**\n**hh:dial:Girei:Nigerian-Fulfulde**\n**hh:e:Croix:Fulani**\n**hh:g:Arnott:Fula**\n**hh:g:JungraithmayrAbu-Manga:Ful**\n**hh:g:MacIntosh:Fulfulde**\n**hh:h:Harrison:Fulfulde**\n**hh:hw:KroppDakubu:WALDS1:I**\n**hh:s:Barth:Central-Afrikanischer**\n**hh:s:Krause:Fulischen**\n**hh:s:Leith-Ross:Fulani**\n**hh:s:Miyamoto:Sokoto-Fula**\n**hh:typ:Arnott:Fula-Tiv**\n**hh:typ:Arnott:Fula:1960**\n**hh:typ:Arnott:Fula:Middle**\n**hh:typ:Bello:Fula**\n**mpieva:1993Manuelde**\n**mpieva:Breedveld1995Formandm**\n**mpieva:Eguchi1986AnEnglis**"
+  },
+  "altnames": {
+    "wals": "\nFula (Nigerian)",
+    "ruhlen (1987)": "\nFul(ani)",
+    "moseley & asher (1994)": "\nFula, Fulani",
+    "multitree": "\nFula (Nigerian)\nFulah-Idiome\nFulani\nFulbe\nFulfulde (Nigerian)\nFulfulde, Nigerian\nKano-Katsina-Bororo Fulfulde\nNigerian Fulfulde\nPeul",
+    "lexvo": "\nNigerian Fulfulde [en]",
+    "hhbib_lgcode": "\nAdamawa-Sokoto\nFula of Gombe in Nigeria which is closer to Kano-Katsina Fulfulde than Adamawa\nFula-Gombe\nFulfulde Leydi Nigeria\nFulfulde Nigerian\nFulfulde in Sokoto but might be mixed with Kano-Katsina-Adamawa\nFulfulde-Nigerian\nKano-Katsina Fulfulde\nNigerian\nNigerian Fulfulde\nOne informant from Sokoto and one from Wurio (Adamawa)\nSokoto\nWestern Sokoto\nZaria"
+  },
+  "triggers": {
+    "lgcode": "\ndakarkari\nmaasinankoore\nvitalite\nfuunaangere"
+  },
+  "identifier": {
+    "wals": "fni",
+    "multitree": "fuv"
+  },
+  "classification": {
+    "sub": "**hh:g:Breedveld:Maasinankore**:6-13",
+    "subrefs": "\n**hh:g:Breedveld:Maasinankore**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fulfulde, Nigerian (fuv-fuv) = 3 (Wider communication). The Fulani people were widely dispersed across the Sahel and West Africa, and arrived in Nigeria during the 15th century. Fulfulde became dominant across West Africa during British colonial rule in the 19th century. Used in religion, poetry, literature, education, trade, and agriculture."
+  }
+}

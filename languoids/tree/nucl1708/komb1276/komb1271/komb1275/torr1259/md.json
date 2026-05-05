@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Aro-Mukweym-Orok",
+    "hid": "tei",
+    "level": "language",
+    "iso639-3": "tei",
+    "latitude": "-3.45292",
+    "longitude": "142.622",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Lou](https://endangeredlanguages.com/lang/10561)\nhttps://www.wikidata.org/entity/Q3450788\nhttps://en.wikipedia.org/wiki/Torricelli_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:GlasgowLoving:Maprik**",
+    "subrefs": "\n**hh:hv:GlasgowLoving:Maprik**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:d:Drinfeld:Aro**\n**hh:g:Drinfeld:Aro**\n**hh:hv:GlasgowLoving:Maprik**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:t:Drinfeld:Aro**\n**hh:w:Laycock:C9**"
+  },
+  "altnames": {
+    "multitree": "\nAnamagi\nLou\nTorricelli",
+    "lexvo": "\nTorricelli [en]",
+    "hhbib_lgcode": "\nAro\nLou\nSelep Aro\nTorricelli",
+    "elcat": "\nAnamagi\nLou\nTorricelli",
+    "glottolog": "\nAro"
+  },
+  "triggers": {
+    "lgcode": "\ntorricelli"
+  },
+  "identifier": {
+    "wals": "family/torricelli",
+    "multitree": "tei",
+    "endangeredlanguages": "10561"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lou (10561-tei) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

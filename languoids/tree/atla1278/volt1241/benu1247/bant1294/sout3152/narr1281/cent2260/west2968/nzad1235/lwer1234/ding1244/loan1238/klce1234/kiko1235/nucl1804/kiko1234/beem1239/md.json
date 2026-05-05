@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Beembe",
+    "hid": "beq",
+    "level": "language",
+    "iso639-3": "beq",
+    "latitude": "-3.95895",
+    "longitude": "14.1",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG"
+    ],
+    "links": "\n[Beembe](https://grambank.clld.org/languages/beem1239)\n[Beembe](https://wals.info/languoid/lect/wals_code_bee)\nhttps://en.wikipedia.org/wiki/Bembe_language_(Kibembe)\nhttps://phoible.org/languages/beem1239\nhttps://www.wikidata.org/entity/Q3196320"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blanchon:creissels:ed:99:2**\n**cldf:jacquot:62**\n**cldf:jacquot:81**\n**eballiso2009:14005**\n**eballiso2009:18469**\n**eballiso2009:19022**\n**eballiso2009:25057**\n**eballiso2009:28707**\n**eballiso2009:32826**\n**eballiso2009:34817**\n**eballiso2009:45879**\n**eballiso2009:54428**\n**hh:g:Kouarata:Beembe**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hv:Mabiala:Kongo**\n**hh:hv:deSchryver:Kikongo**\n**hh:hvw:Klieman:WEquatorial**\n**hh:s:Mowelle:Beembe**\n**hh:s:Nsayi:Kibeembe**\n**hh:std:Jacquot:Beembe**\n**hh:v:Tsoko:Kibeembe**\n**sil16:43930**\n**sil16:43936**"
+  },
+  "altnames": {
+    "wals": "\nBeembe",
+    "wals other": "\nBeembe (H.11)",
+    "ruhlen (1987)": "\nBembe (Congo)",
+    "moseley & asher (1994)": "\nBembe (CK if same Bembe)",
+    "multitree": "\nBeembe\nBembe\nKibeembe",
+    "lexvo": "\nBeembe [en]",
+    "hhbib_lgcode": "\nBembe 1 Mouyondzi H11\nBembe 2 Mabombo H11\nH11 Kibembe\nH11 Kibembe 1988\nH11_Beembe\nIbeembe\nIbongo-Beembe\nKibeembe"
+  },
+  "triggers": {
+    "lgcode": "\nkidoondo\nbeembes\nkaamba\nnotations\nkibeembe\nbeembe\ndevinettes"
+  },
+  "identifier": {
+    "wals": "bee",
+    "multitree": "beq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:177-179, 182-184, 190-191 **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Bostoen:Aire-Kongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Beembe (beq-beq) = 5 (Developing)."
+  }
+}

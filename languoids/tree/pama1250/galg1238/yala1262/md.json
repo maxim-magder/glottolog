@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Yalarnnga",
+    "hid": "ylr",
+    "level": "language",
+    "iso639-3": "ylr",
+    "latitude": "-21.731",
+    "longitude": "139.511",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Yalarnnga](https://collection.aiatsis.gov.au/austlang/language/g8)\n[Yalarnnga](https://endangeredlanguages.com/lang/6653)\n[Yalarnnga](https://grambank.clld.org/languages/yala1262)\n[Yalarnnga](https://lexibank.clld.org/languages/bowernpny-Yalarnnga)\n[Yalarnnga](https://wals.info/languoid/lect/wals_code_ylr)\nhttps://en.wikipedia.org/wiki/Yalarnnga_language\nhttps://phoible.org/languages/yala1262\nhttps://www.wikidata.org/entity/Q3915686",
+    "timespan": "1980-01-01/1980-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1928**\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**hh:d:Blake:Yulluna**\n**hh:hvw:Breen:Western-Queensland:1971**\n**hh:ld:Blake:Jalanga-Kalkatungu**\n**hh:s:Blake:Jalanga**\n**hh:s:BreenBlake:Yalarnnga**\n**hh:w:Eglinton:Burke-River**\n**ozbib:4904**\n**ozbib:5501**\n**ozbib:567**\n**ozbib:577**\n**ozbib:603**"
+  },
+  "altnames": {
+    "multitree": "\nJalanga\nWonganja\nYalarnnga\nYalarrnga\nYallunga\nYelina\nYellanga\nYellunga",
+    "lexvo": "\nLenga yalarnnga [pms]\nYalarnnga [en]\nYalarnnga language [en]",
+    "hhbib_lgcode": "\nJalanga\nYelina",
+    "elcat": "\nJalanga\nWonganja\nYalarnnga\nYalarrnga\nYallunga\nYelina\nYellanga\nYellunga",
+    "aiatsis": "\nJalanga\nJalannga\nJalarnnga\nWonganja\nYalannga\nYalarnga\nYalarnnga\nYalarrnga\nYallunga\nYelina\nYellanga\nYellunga"
+  },
+  "triggers": {
+    "lgcode": "\nyulluna\njalanga\nyalarnnga"
+  },
+  "identifier": {
+    "wals": "ylr",
+    "multitree": "ylr",
+    "endangeredlanguages": "6653"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan** **hh:g:Blake:Kalkatungu**:117-150 **hh:hvtyp:Dixon:Australian**:86-87",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**\n**hh:g:Blake:Kalkatungu**\n**hh:hvtyp:Dixon:Australian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yalarnnga (6653-ylr) = Dormant [Bowern 2011](cldf:bowern:11:1)"
+  }
+}

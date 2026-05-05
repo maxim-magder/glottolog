@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tausug",
+    "hid": "tsg",
+    "level": "language",
+    "iso639-3": "tsg",
+    "latitude": "5.12236",
+    "longitude": "118.88",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY",
+      "PH"
+    ],
+    "links": "\n[Tausug](https://grambank.clld.org/languages/taus1251)\n[Tausug](https://wals.info/languoid/lect/wals_code_tsg)\nhttps://en.wikipedia.org/wiki/Tausug_language\nhttps://phoible.org/languages/taus1251\nhttps://www.wikidata.org/entity/Q34142"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2325**\n**cldf:ashley:63**\n**cldf:hassan:ashley:etal:94**\n**cldf:hassan:halud:etal:75**\n**hh:d:Copet:Taosug**\n**hh:d:Copet:Tausug**\n**hh:d:Haynes:Sulu**\n**hh:d:Link:Sulu**\n**hh:g:Rubino:Tausug**\n**hh:hew:Montano:Philippines**\n**hh:hld:Llamzon:Philippine**\n**hh:hv:Gallman:East-Mindanao**\n**hh:hv:Zorc:Bisayan**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:ld:Moody:Tausug**\n**hh:phon:AshleyAshley:Tausug**\n**hh:s:AshleyAshley:Tausug**\n**hh:s:Hardaker:Suluk**\n**hh:s:Jun:Tausug**\n**hh:s:Peneyra:Tausug**\n**hh:sd:Cowie:Sulu**\n**hh:typ:Armour:Tausug**\n**hh:w:Hardaker:Suluk**\n**hh:w:Yap:Philippine**\n**hh:wh:Meijer:Astrolabe**\n**mpieva:1994TausugEn**\n**mpieva:Rubino2006Intensiv**\n**sil16:10115**\n**sil16:10116**\n**sil16:11028**\n**sil16:15299**\n**sil16:31819**\n**sil16:40163**"
+  },
+  "altnames": {
+    "wals": "\nTausug",
+    "wals other": "\nSuluk",
+    "ruhlen (1987)": "\nTausug",
+    "moseley & asher (1994)": "\nTausug",
+    "multitree": "\nBisaya\nJoloano Sulu\nJolohano\nMoro Joloano\nSinug Tausug\nSooloo\nSulu\nSuluk\nTausog\nTausug\nTaw Sug",
+    "lexvo": "\nBahasa Tausug [ms]\nIdioma joloano [es]\nTausug [en]\nTausug language [en]\nTausūg-ngî [hak]\nTinausug [ceb]\nภาษาเตาซุก [th]",
+    "hhbib_lgcode": "\nMoro Joloano\nSoulouan\nSulu\nSulu of Jolo\nSuluk\nThe Tausugs 140"
+  },
+  "triggers": {
+    "lgcode": "\ntausug\nsuluk\ntaosug"
+  },
+  "identifier": {
+    "wals": "tsg",
+    "multitree": "tsg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tausug (tsg-tsg) = 3 (Wider communication). De facto language of provincial identity in Sulu and Tawi-Tawi provinces. Came as a trade language from northeast Mindanao around the 10th century. Lingua franca of the Sulu sultanate at the beginning of the 15th century. Tausug people now the dominant group in the Sulu archipelago. Used in all domains by all generations."
+  }
+}

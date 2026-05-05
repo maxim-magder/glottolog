@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mutu",
+    "hid": "tuc",
+    "level": "language",
+    "iso639-3": "tuc",
+    "latitude": "-5.79405",
+    "longitude": "148.014",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mutu](https://lexibank.clld.org/languages/abvdoceanic-Mutu)\nhttps://en.wikipedia.org/wiki/Mutu_language\nhttps://www.wikidata.org/entity/Q3331003"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:pawley:pawley:98**\n**hh:e:Ambrosoli:Rook**\n**hh:e:Reina:Rook**\n**hh:g:Bugenhagen:Saveeng**\n**hh:hew:Chinnery:SNBritain-Dampier**\n**hh:hld:Smith:Morobe**\n**hh:hv:Chowning:Refugees**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Dempwolff:Deutsch-Neuguinea**\n**hh:hw:Schellong:Worterverzeichnisse**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:typ:Bugenhagen:Tuam**\n**hh:typ:Bugenhagen:Tuam:Motion**\n**hh:w:Anonymous:Rook**\n**sil16:51289**\n**silpng:silpng2001-2003:24**\n**silpng:silpng2001-2003:295**\n**silpng:silpng2001-2003:296**\n**silpng:silpng2001-2003:297**\n**silpng:silpng2001-2003:298**\n**silpng:silpng2001-2003:299**\n**silpng:silpng2001-2003:422**"
+  },
+  "altnames": {
+    "multitree": "\nMutu\nTuam\nTuam-Mutu\nTuom",
+    "lexvo": "\nMutu [en]",
+    "hhbib_lgcode": "\nMalai\nRook\nRook-Ins.\nRook-Insel\nRook-Island\nRookinsel\nTuam\nTuam-Malei-Aramot\nTuam-Mutu\nTuom\nYaagha village on Tuam island"
+  },
+  "triggers": {
+    "lgcode": "\nnorth AND communities AND britain\nrook"
+  },
+  "identifier": {
+    "multitree": "tuc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:Northwest-New-Britain:2014**",
+    "subrefs": "\n**hh:hv:Ross:Northwest-New-Britain:2014**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mutu (tuc-tuc) = 5 (Developing)."
+  }
+}

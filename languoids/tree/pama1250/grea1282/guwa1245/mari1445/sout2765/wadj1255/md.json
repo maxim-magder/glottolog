@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Wadjigu",
+    "hid": "wdu",
+    "level": "language",
+    "iso639-3": "wdu",
+    "latitude": "-23.8029",
+    "longitude": "147.421",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Wadjigu](https://endangeredlanguages.com/lang/3359)\n[Wadjigu](https://collection.aiatsis.gov.au/austlang/language/e39)\nhttps://www.wikidata.org/entity/Q10719025",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hv:Breen:Biri**\n**hh:hv:Terrill:Biri:1993**\n**hh:w:Josephson:Comet-River**\n**hh:w:MiddletonNoble:Nogoa-River**"
+  },
+  "altnames": {
+    "multitree": "\nMaudalgo\nWadja\nWadjainggo\nWadjigu\nWaindjago\nWainggo\nWainjago\nWainjigo",
+    "lexvo": "\nWadjigu [en]",
+    "hhbib_lgcode": "\nGanulu\nGara-Gara\nGayiri\nKharaya\nMiddletons is the E Area\nShould contain Wadja\nWadja\nYagalingu",
+    "elcat": "\nMaudalgo\nWadja\nWadjainggo\nWadjigu\nWaindjago\nWainggo\nWainjago\nWainjigo",
+    "aiatsis": "\nMaudalgo\nWadja\nWadjainggo\nWadjigu\nWadju\nWadya\nWaindjago\nWainggo\nWainjago\nWainjigo\nWatjigu"
+  },
+  "triggers": {
+    "lgcode": "\nnogoa\ncomet"
+  },
+  "identifier": {
+    "multitree": "wdu",
+    "endangeredlanguages": "3359"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sutton:Gugu-Badhun** **hh:hvw:Barrett:Maric**",
+    "subrefs": "\n**hh:hv:Sutton:Gugu-Badhun**\n**hh:hvw:Barrett:Maric**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wadjigu (wdu-wdu) = 10 (Extinct)."
+  }
+}

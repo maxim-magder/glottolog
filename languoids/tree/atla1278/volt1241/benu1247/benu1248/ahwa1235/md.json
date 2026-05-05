@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ndunic",
+    "hid": "nfd",
+    "level": "language",
+    "iso639-3": "nfd",
+    "latitude": "9.17635",
+    "longitude": "8.56205",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913957\nhttps://en.wikipedia.org/wiki/Ahwai_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Prospecting** **hh:w:Blench:Shakara** **hh:w:Blench:Nyeng**",
+    "subrefs": "\n**hh:hv:Blench:Prospecting**\n**hh:w:Blench:Shakara**\n**hh:w:Blench:Nyeng**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1444**\n**eballiso2009:5285**\n**hh:he:SIL:Nigeria**\n**hh:w:Blench:Ndun**\n**hh:w:Blench:Nyeng**\n**hh:w:Blench:Shakara**\n**iso6393:2008-017**"
+  },
+  "altnames": {
+    "multitree": "\nAhwai\nHanyeng\nIndun\nIsakara\nNandu\nNdun\nNingon\nNyeng\nShakara\nTari",
+    "lexvo": "\nAhwai [en]",
+    "hhbib_lgcode": "\nAhwai\nNandu\nNyeng\nShakara"
+  },
+  "triggers": {
+    "lgcode": "\nndun\nnyeng\nshakara"
+  },
+  "identifier": {
+    "multitree": "nfd"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ahwai (nfd-nfd) = 6a (Vigorous)."
+  }
+}

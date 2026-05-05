@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Masalit",
+    "hid": "mls",
+    "level": "language",
+    "iso639-3": "mls",
+    "latitude": "13.2733",
+    "longitude": "22.1752",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56557\nhttps://en.wikipedia.org/wiki/Masalit_language\nhttps://phoible.org/languages/nucl1440\n[Masalit](https://wals.info/languoid/lect/wals_code_msl)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:edgar:89:1**\n**eballiso2009:17231**\n**eballiso2009:17233**\n**eballiso2009:17234**\n**eballiso2009:28087**\n**eballiso2009:33721**\n**eballiso2009:35686**\n**eballiso2009:35828**\n**eballiso2009:37909**\n**eballiso2009:48130**\n**eballiso2009:48137**\n**eballiso2009:8369**\n**hh:h:Tully:Mesalit**\n**hh:he:dAnania:Mondo**\n**hh:he:leRouvreur:Saheliens**\n**hh:hew:Grossard:Delimitation**\n**hh:hew:MacMichael:Arabs-Sudan**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hsoc:Prinzetal:Maba**\n**hh:hvtyp:Dimmendaal:Nilo-Saharan**\n**hh:hvw:DoornbosBender:Wadai-Darfur**\n**hh:phon:Tiemann:Massalit**\n**hh:s:Edgar:Masalit**\n**hh:styp:Edgar:Masalit**\n**hh:t:Abdarahman:Masaraa**\n**hh:typ:Abdo:Masalit**\n**hh:typ:Ibrahim:Masalit**\n**hh:typ:Leffel:Masalit**\n**sil16:50827**"
+  },
+  "altnames": {
+    "wals": "\nMasalit",
+    "wals other": "\nMesalit",
+    "ruhlen (1987)": "\nMasalit",
+    "moseley & asher (1994)": "\nMesalit",
+    "multitree": "\nJwisince\nKaana Masala\nMasale\nMasalit\nMasara\nMassalit\nMassolit\nMesalit",
+    "lexvo": "\nLíngua masalit [pt]\nMasalit [en]\nMasalit language [en]\nMasaliteg [br]\nМасалитски јазик [mk]",
+    "hhbib_lgcode": "\nMaba ie Masalit\nMassalit\nMusalat (Masalit)"
+  },
+  "triggers": {
+    "lgcode": "\nmassalit\nsaheliens\nmesalit\nmasalit"
+  },
+  "identifier": {
+    "wals": "msl",
+    "multitree": "mls;masl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edgar:Maba** **hh:hv:Starostin:Mimi**",
+    "subrefs": "\n**hh:hv:Edgar:Maba**\n**hh:hv:Starostin:Mimi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Masalit (mls-mls) = 6a (Vigorous)."
+  }
+}

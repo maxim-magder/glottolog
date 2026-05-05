@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Narua",
+    "hid": "nru",
+    "level": "language",
+    "iso639-3": "nru",
+    "latitude": "27.8",
+    "longitude": "100.9",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "speakers": "40000 (estimated) (**hh:gtd:Lidz:Yongning-Na**: 3, based on **hh:s:Zhenhong:Mosuo**)",
+    "location": "Yunnan, Sichuan (China)",
+    "links": "\n[Narua](https://grambank.clld.org/languages/yong1270)\nhttps://en.wikipedia.org/wiki/Na_language\nhttps://phoible.org/languages/yong1270\nhttps://www.wikidata.org/entity/Q21658869"
+  },
+  "sources": {
+    "glottolog": "\n**elpub:ldd53**\n**hh:d:Michaud:Na**\n**hh:e:Latami:Mosuo**\n**hh:e:Shih:Yongning-Mosuo**\n**hh:ew:Cordier:Mo-sos**\n**hh:g:Fily:Na-Shekua**\n**hh:gtd:Lidz:Yongning-Na**\n**hh:h:Hattaway:China**\n**hh:he:Harrell:Southwest-China**\n**hh:hew:Jonhston:Peking-Mandalay**\n**hh:hld:Michaud:Naish**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Bradley:Mran-Ni**\n**hh:hv:JacquesMichaud:Naxi-Na-Laze**\n**hh:hv:Nishida:Hsihsia-Lolo-Moso**\n**hh:hv:Xu:Naish**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hw:Davies:Yun-Nan**\n**hh:phon:DobbsLa:Lataddi-Narua**\n**hh:phon:Hui:Mosuo**\n**hh:phon:Suzuki:Malimasa**\n**hh:s:Li:Malimasa**\n**hh:s:Lidz:Yongning-Na**\n**hh:s:Lidz:Yongning-Na:2017**\n**hh:s:Zhenhong:Mosuo**\n**hh:soc:Li:Malimasa**\n**hh:typ:Michaud:Numerals:Tones**\n**hh:typ:Michaud:Yongning-Na**\n**hh:typ:Michaud:Yongning-Na:2025**\n**hh:vw:Bradley:Nahsi**\n**hh:w:Desgodins:Irrawaddy**\n**iso6393:2010-023**"
+  },
+  "altnames": {
+    "glottolog": "\nYongning Na",
+    "hhbib_lgcode": "\nAlawa\nE Naxi\nLataddi Narua\nMali Masa\nMalimasa\nMalimasa Chuanchu\nMo-so from Desgodin\nMo-sos\nMoso\nMosso\nMosuo\nNa\nNarua\nNashi-E (Yongningba-Beiquba-Guabie)\nNasu Eastern/Yongning\nNaze\nQiansuo Na\nShekua\nShekua Na\nYongning\nYongning Na\nYongning Naxi\nYongning ba Na\nYung-Ming Moso\nYungning Naxi"
+  },
+  "triggers": {
+    "lgcode": "\nmandalay\nmosuo"
+  },
+  "classification": {
+    "sub": "**hh:hv:JacquesMichaud:Naxi-Na-Laze**",
+    "subrefs": "\n**hh:hv:JacquesMichaud:Naxi-Na-Laze**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "Lidz",
+    "date": "2024-02-17T13:19:51",
+    "comment": "Narua (nru-nru) = 7 (Shifting)."
+  }
+}

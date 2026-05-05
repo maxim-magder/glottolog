@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Kipchak Urum",
+    "hid": "uum",
+    "level": "language",
+    "iso639-3": "uum",
+    "latitude": "42.0379",
+    "longitude": "43.994",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "GR",
+      "RU",
+      "UA"
+    ],
+    "links": "\n[Urum](https://endangeredlanguages.com/lang/3004)\nhttps://www.wikidata.org/entity/Q13257\nhttps://en.wikipedia.org/wiki/Urum_language\n[Urum](https://wals.info/languoid/lect/wals_code_urm)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Garkavets:Urumskij**\n**hh:d:Skopeteas:Urum-Lexicon**\n**hh:g:Garkavec:Urum**\n**hh:g:Smolina:Urumskij**\n**hh:h:Markov:Grekov-Mariupolya**\n**hh:h:Tenisev:Urumov**\n**hh:ld:OhluxHarkavec:Urumskyx**\n**hh:s:Korelov:Urumov**\n**hh:s:Podolsky:Urum**\n**hh:s:Verhoeven:Urum-Grammatical**\n**hh:t:Skopeteas:Urum-Narrative**\n**hh:typ:Muratov:Urumov**\n**hh:typ:Muratov:Urumskij**\n**hh:v:Beletskij:Grecheskie-Ukrainy**"
+  },
+  "altnames": {
+    "wals": "\nUrum",
+    "multitree": "\nUrum\nUrumo",
+    "lexvo": "\nIdioma urrumano [es]\nOuroumeg [br]\nUrum [en]\nUrum language [en]\nUrum tili [crh]\nUrumca [tr]\nUrumin kieli [fi]\nUrumski jezik [hr]\nУрум чĕлхи [cv]\nУрумски јазик [mk]\nУрумский язык [ru]\nУрумська мова [uk]",
+    "elcat": "\nUrum\nUrum Türkçesi\nUrumca\nурум тыль\nурумский язык\nурумська мова",
+    "hhbib_lgcode": "\nKipchak Urum\nUkrainian Urum\nUlakly som 60km west of Donetsk\nUrum",
+    "glottolog": "\nUrum"
+  },
+  "triggers": {
+    "lgcode": "\nmova\nnadazovya\nprislivya\npisni\npisemni\nkazki\nurum\npamyatki\nzagadki\nurumskij\nurumi"
+  },
+  "identifier": {
+    "wals": "urm",
+    "multitree": "uum",
+    "endangeredlanguages": "3004"
+  },
+  "classification": {
+    "sub": "**hh:s:Podolsky:Urum**",
+    "subrefs": "\n**hh:s:Podolsky:Urum**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Urum (3004-uum) = Endangered (80 percent certain, based on the evidence available) (A language shift to dominant languages has proceeded rapidly, leaving few child speakers.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

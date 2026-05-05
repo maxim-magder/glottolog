@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Southwestern Tepehuan",
+    "hid": "tla",
+    "level": "language",
+    "iso639-3": "tla",
+    "latitude": "23.2553",
+    "longitude": "-104.688",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3518245"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:CabreroValinas:Colotlan**\n**hh:phon:Moctezuma:Tepehuano-Sur**\n**sil16:43669**"
+  },
+  "altnames": {
+    "multitree": "\nSouth Tepehuane\nSouth-west Tepewan\nSouthern Tepehuan\nSouthern Tepewan\nTepeguana\nTepehuan sud-occidental\nTepehuan, Southwestern\nTepehuano suroccidental\nTepehuán del Suroeste\nTepiman",
+    "lexvo": "\nSouthwestern Tepehuan [en]"
+  },
+  "triggers": {
+    "lgcode": "\nchico\nNOT northern AND NOT on AND NOT verb AND NOT del AND NOT of AND NOT in AND tepehuan\ncolotlan\narqueo\nmilpillas"
+  },
+  "identifier": {
+    "multitree": "tla"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Southern Tepehuán (10844-tla) = Threatened (100 percent certain, based on the evidence available) (The Southeastern variety is used in rural schools, church, parties, and at home. Central Tepehuan is not spoken by young people in school or at medical clinics, and Spanish is used bilingually at schools, jobs, markets, and in the city. Those who travel for work or move away permanently significantly decrease their use and transmission of Southern Tepehuan.) ['bib2525']"
+  }
+}

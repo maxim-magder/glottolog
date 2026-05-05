@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Rongmei Naga",
+    "hid": "nbu",
+    "level": "language",
+    "iso639-3": "nbu",
+    "latitude": "25.098",
+    "longitude": "93.7869",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Nruanghmei](https://lexibank.clld.org/languages/marrisonnaga-Nruanghmei)\n[Puiron](https://lexibank.clld.org/languages/marrisonnaga-Puiron)\n[Rongmei Naga](https://endangeredlanguages.com/lang/5673)\n[Rongmei Naga](https://grambank.clld.org/languages/rong1266)\nhttps://en.wikipedia.org/wiki/Rongmei_language\nhttps://www.wikidata.org/entity/Q12952912"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:grierson:ed:95:7**\n**hh:d:Francis:Rongmei**\n**hh:e:Singh:Kabuis**\n**hh:g:Deb:Rongmei**\n**hh:g:Singh:Rongmei:2012**\n**hh:g:Tiwari:Kabui**\n**hh:h:Haokip:Kuki-Chin**\n**hh:hb:Singh:India**\n**hh:he:Hodson:Naga-Manipur**\n**hh:he:HoramRizvi:Manipur**\n**hh:he:Saul:Naga-Burma**\n**hh:hew:McCulloch:Munnipore**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hsoc:Lhungdim:Manipur**\n**hh:hv:Shafer:Naga**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Damant:Brahmaputra-Ningtri**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:ld:Gonmei:Rongmei**\n**hh:phon:Haokip:Rongmei**\n**hh:phon:Laishram:Rongmei**\n**hh:phon:Mpamei:Rongmei**\n**hh:phon:Raguibou:Zeme-Liangmai-Rongmei**\n**hh:phon:YashawantaSingh:Rongmei**\n**hh:s:Gonmei:Rongmei**\n**hh:s:Singh:Kabui**\n**hh:s:Singh:Rongmei**\n**hh:s:Thoudam:Kabui**\n**hh:soc:Gonmei:Rongmei**\n**hh:w:Kumar:Kabui**\n**hh:w:Rongmei:Kabui**\n**mpieva:Ibopishak1990KabuiRon**"
+  },
+  "altnames": {
+    "multitree": "\nKabiu\nKabui\nMaruongmai\nNaga, Rongmei\nNaga,Rongmei\nNruanghmei\nRongmai\nRongmei",
+    "lexvo": "\nRongmei Naga [en]",
+    "hhbib_lgcode": "\nInpui Naga\nKabui\nKabui Naga\nKabui or Kapwi\nKabuis\nKoupouee-Songboo\nNaga-Rongmei\nNruanghmei\nNruangmei\nPuiron\nRongmei\nRongmei/Kabui\nRuangmei of Langthabal village\nSongpu\nSongpu (Kabui)",
+    "elcat": "\nKabiu\nKabui\nMaruongmai\nNaga\nNruanghmei\nRongmai\nRongmei\nRongmei Naga"
+  },
+  "triggers": {
+    "lgcode": "\nrongmei\nkabui"
+  },
+  "identifier": {
+    "multitree": "nbu",
+    "endangeredlanguages": "5673"
+  },
+  "classification": {
+    "sub": "**hh:hv:Burling:NEIndia** **hh:hv:PostBurling:NEIndia**",
+    "subrefs": "\n**hh:hv:Burling:NEIndia**\n**hh:hv:PostBurling:NEIndia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Rongmei Naga (5673-nbu) = Vulnerable (20 percent certain, based on the evidence available) [Anderson 2012](cldf:anderson:12)"
+  }
+}

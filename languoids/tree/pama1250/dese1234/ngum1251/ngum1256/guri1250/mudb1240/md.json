@@ -1,0 +1,59 @@
+{
+  "core": {
+    "name": "Mudburra",
+    "hid": "dmw",
+    "level": "language",
+    "iso639-3": "dmw",
+    "latitude": "-16.7694",
+    "longitude": "132.329",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[MUDBURRA](https://collection.aiatsis.gov.au/austlang/language/c25)\n[Mudburra](https://endangeredlanguages.com/lang/2550)\n[Mudburra](https://lexibank.clld.org/languages/bowernpny-Mudburra)\n[Mudburra](https://wals.info/languoid/lect/wals_code_mdb)\nhttps://en.wikipedia.org/wiki/Mudburra_language\nhttps://phoible.org/languages/mudb1240\nhttps://www.wikidata.org/entity/Q6931573"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Green:Mudburra**\n**hh:ew:Spencer:NTerritory**\n**hh:h:McConvell:Native-Title**\n**hh:hbw:MenningNash:Central-Australian**\n**hh:hsoc:Glasgow:CNTerritory**\n**hh:hv:McConvellLaughren:Ngumpin-Yapa**\n**hh:hvw:Capell:NWAustralia**\n**hh:ld:Laughren:Free-Word-Order**\n**hh:s:Osgarby:Mudburra**\n**hh:sv:Hamilton:Mudburra**\n**hh:v:MeakinsPensalfini:Jingulu-Mudbura**\n**hh:vw:Black:JinguluMudburra**\n**hh:w:Leeding:Mudbura-Ngarinman**\n**iso6393:2012-073**\n**iso6393:2019-040**"
+  },
+  "altnames": {
+    "wals": "\nMudburra",
+    "wals other": "\nMudbarra",
+    "ruhlen (1987)": "\nMudburra",
+    "moseley & asher (1994)": "\nMudburra",
+    "multitree": "\nKarranga\nMadbara\nMoodburra\nMootburra\nMudbara\nMudbera\nMudbra\nMudbura\nMudburra\nMulpira\nMutpura\nPinkangama",
+    "lexvo": "\nMudbura [en]",
+    "hhbib_lgcode": "\nEastern Mudbura\nKriolised Mudburra\nMudbura",
+    "aiatsis": "\nMUDBURRA\nMadbara\nMoodburra\nMootburra\nMudbara\nMudbera\nMudbra\nMudbura\nMudburra\nMulpira\nMutburra\nMutpura\nMutpurra",
+    "elcat": "\nKarranga\nMadbara\nMoodburra\nMootburra\nMudbara\nMudbera\nMudbra\nMudbura\nMudburra\nMulpira\nMutpura\nPinkangama"
+  },
+  "triggers": {
+    "lgcode": "\nmudburra"
+  },
+  "iso_retirement": {
+    "comment": "Dr. Bowern supports the judgement by Patrick McConvell that treats Karranga as a\nseparate language (see http://wold.livingsources.org/language/182).\n\nWe believe that Dr. Bowern's research and expertise on languages of Australia,\nas well as the support of the sources listed below are sufficient to define this\nas a distinct language.",
+    "code": "mwd",
+    "name": "Mudbura",
+    "effective": "2013-01-23",
+    "reason": "split",
+    "remedy": "Split into Karranga [xrq] and Mudburra [dmw]",
+    "change_request": "2012-073",
+    "change_to": "\nxrq\ndmw"
+  },
+  "identifier": {
+    "wals": "mdb",
+    "multitree": "mwd",
+    "endangeredlanguages": "2550"
+  },
+  "classification": {
+    "sub": "**hh:g:Meakins:Gurindji**:1-3",
+    "subrefs": "\n**hh:g:Meakins:Gurindji**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mudburra (dmw-dmw) = 8b (Nearly extinct)."
+  }
+}

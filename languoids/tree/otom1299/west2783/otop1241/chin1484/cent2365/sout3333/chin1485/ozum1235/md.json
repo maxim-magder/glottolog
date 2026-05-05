@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ozumacín Chinantec",
+    "hid": "chz",
+    "level": "language",
+    "iso639-3": "chz",
+    "latitude": "17.6976",
+    "longitude": "-96.2249",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Upper Southeastern Chinantec](https://endangeredlanguages.com/lang/9851)\nhttps://en.wikipedia.org/wiki/Chinantec_of_Ozumac%C3%ADn\nhttps://www.wikidata.org/entity/Q5100111"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:sd:RuppRupp:Chinanteco-Ozumacin**\n**hh:t:RuppRupp:Chinantec-Ozumacin**\n**hh:typ:Rupp:Animacy**\n**sil16:11347**\n**sil16:21364**\n**sil16:35724**"
+  },
+  "altnames": {
+    "glottolog": "\nOzumacin Chinantec",
+    "multitree": "\nChinantec\nChinantec, Ozumacín\nChinanteco\nChinanteco de Ayotzintepec\nChinanteko\nJuujmii\nOzumacin Chinantec",
+    "lexvo": "\nOzumacín Chinantec [en]",
+    "elcat": "\nChinantec\nChinanteco\nChinanteco de Ayotzintepec\nChinanteco del sureste alto\nChinanteko\nJuujmii\nOzumacín Chinantec\nUpper Southeastern Chinantec\njumi dsa mojai"
+  },
+  "triggers": {
+    "lgcode": "\nmultipurpose\nozumacin\nstolen"
+  },
+  "identifier": {
+    "multitree": "chz",
+    "endangeredlanguages": "9851"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Upper Southeastern Chinantec (9851-chz) = Threatened (80 percent certain, based on the evidence available) (Half of parents pass it on to children. Most domains, local administration, commerce, some in religious services.) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

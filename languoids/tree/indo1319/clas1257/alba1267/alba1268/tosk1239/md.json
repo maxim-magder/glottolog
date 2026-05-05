@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Northern Tosk Albanian",
+    "hid": "als",
+    "level": "language",
+    "iso639-3": "als",
+    "latitude": "41.0",
+    "longitude": "20.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "GR",
+      "MK"
+    ],
+    "links": "\n[Northern Tosk Albanian](https://grambank.clld.org/languages/tosk1239)\nhttps://en.wikipedia.org/wiki/Tosk_Albanian\nhttps://phoible.org/languages/tosk1239\nhttps://www.wikidata.org/entity/Q180937"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4329**\n**cldf:hewson:bubenik:ed:97**\n**cldf:hinrichs:ed:04:1**\n**hh:d:Buchholz:Albanisch**\n**hh:d:Kavalliotis:Protopeiria**\n**hh:d:Newmark:Albanian**\n**hh:dial:Gjinari:Shqiptare**\n**hh:dial:Gjinari:Shqiptare:1975**\n**hh:dial:Gjinari:Shqiptare:1989**\n**hh:e:Schwander-Sievers:Albanians**\n**hh:g:BuchholzFiedler:Albanische**\n**hh:g:Camaj:Albanian**\n**hh:g:Gutetal:Albanais**\n**hh:g:HaznedariRepishti:Albanian**\n**hh:g:Kamsi:Albanese**\n**hh:g:Lambertz:Albanischen**\n**hh:g:Newmark:Standard-Albanian**\n**hh:g:PW:Albanaise**\n**hh:g:Sokolova:Albanische-Mandrica**\n**hh:hdial:Desnitskaya:Albanskij**\n**hh:hv:Kahl:Sudalbanien**\n**hh:hvtyp:Orel:Albanian**\n**hh:hvwtyp:Gjinari:Shqipe**\n**hh:s:Camaj:Albanischen**\n**hh:s:Matasovic:Albanian**\n**hh:s:Newmark:Albanian**\n**hh:s:Newmark:Albanian-Tosk**\n**hh:s:Sanz:Albanes**\n**hh:st:Dozon:Chkipe**\n**hh:typ:Blakqori:Albanais**\n**hh:v:Hamp:Albanian**\n**hh:vtyp:Demiraj:Albanian**\n**hh:vtyp:Demiraj:Shqipe**\n**ldh:item_402662**\n**mpieva:Boretzky1975Phonolog**\n**mpieva:Boretzky1976Worterbu**\n**mpieva:Jully2002Albanski**\n**mpieva:Jully2003Diealban**\n**mpieva:Koci1951Kratkija**\n**mpieva:Mann1974AnAlbani**\n**mpieva:Matic2003Topicspr**\n**mpieva:Orel1998Albanian**\n**mpieva:Ylli1997Dasslawi**\n**mpieva:Ylli2000Dasslawi**"
+  },
+  "altnames": {
+    "multitree": "\nAlbanesisch\nAlbanian\nAlbanian, Tosk\nArber\nArbresh\nArnaut\nKosovë\nShip\nShkip\nShqip\nShqiperë\nShqipēri\nShquipni\nSkchip\nTosk\nTosk Albanian\nUkrainian Albanian\nZhgabe\nŠkip",
+    "lexvo": "\nAlbanés tosco [es]\nDialectul Tosk [ro]\nTosk Albanian [en]\nToskijski jezik [hr]\nToskisch [de]\nToskiska [sv]\nToskë [sq]\nTosque [fr]\nΤοσκική διάλεκτος [el]\nТоски [bg]\nТоскский диалект албанского языка [ru]\nトスク方言 [ja]",
+    "hhbib_lgcode": "\nAlbanian\nAlbanian-Tosk\nL'existence à coté d'une langue albanaise unifiée celle dont on s'efforce de donner les principaux éléments dans ce livre\nMandrica in Bulgaria\nPoermet en Epire\nStandard Albanian\nTosk\nTosk Albanian\nToskskaja"
+  },
+  "triggers": {
+    "lgcode": "\nalbanischen\nalbanais\nalbania\nalbanaise\nmandrica\nalbanisches\nshkurter"
+  },
+  "identifier": {
+    "wals": "alb",
+    "multitree": "als"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sasse:Albanischen**",
+    "subrefs": "\n**hh:hv:Sasse:Albanischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Albanian, Tosk (als-als) = 1 (National). Statutory national language (1998, Constitution, Article 14(1))."
+  }
+}

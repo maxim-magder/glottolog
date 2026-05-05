@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Khana",
+    "hid": "ogo",
+    "level": "language",
+    "iso639-3": "ogo",
+    "latitude": "4.70908",
+    "longitude": "7.44363",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kana](https://wals.info/languoid/lect/wals_code_kan)\n[Khana](https://grambank.clld.org/languages/khan1278)\nhttps://en.wikipedia.org/wiki/Khana_language\nhttps://www.wikidata.org/entity/Q3914409"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2131**\n**cldf:ikoro:94**\n**eballiso2009:22956**\n**eballiso2009:23601**\n**eballiso2009:33692**\n**eballiso2009:33693**\n**hh:e:Robinson:Ogoni**\n**hh:g:Ikoro:Kana**\n**hh:h:NdimeleWilliamson:Languages-Rivers-State**\n**hh:hvphon:Ikoro:Keggoid**\n**hh:hvtyp:Wolff:Ogoni**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:phon:Wibe:Kana**\n**hh:typ:Ikoro:Kana**\n**hh:w:Williamson:Kana**"
+  },
+  "altnames": {
+    "multitree": "\nKana\nKhana\nOgoni",
+    "lexvo": "\nKhana [en]",
+    "hhbib_lgcode": "\nKana\nKana-Ogoni\nKen-Khana\nNorKhana\nOgoni\nYeghe"
+  },
+  "triggers": {
+    "lgcode": "\nlanguage AND ogoni"
+  },
+  "identifier": {
+    "wals": "kan",
+    "multitree": "ogo"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:BondAnderson:Ogonoid**",
+    "subrefs": "\n**hh:hvtyp:BondAnderson:Ogonoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Khana (ogo-ogo) = 6a (Vigorous)."
+  }
+}

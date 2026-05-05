@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Galician",
+    "hid": "glg",
+    "level": "language",
+    "iso639-3": "glg",
+    "latitude": "42.2446",
+    "longitude": "-7.5343",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES",
+      "PT"
+    ],
+    "links": "\n[Galician](https://grambank.clld.org/languages/gali1258)\n[Galician](https://wals.info/languoid/lect/wals_code_glc)\nhttps://en.wikipedia.org/wiki/Galician_language\nhttps://phoible.org/languages/gali1258\nhttps://www.wikidata.org/entity/Q9307"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:carballocalero:79**\n**cldf:perezbouza:96**\n**hh:d:Dominguez:Galego**\n**hh:d:Perez:Galego**\n**hh:g:AlvarezXove:Galega**\n**hh:g:Lugris:Galego**\n**hh:g:Santos:Tras-Montes**\n**hh:hv:VallsGonzalez:Signos-Galega**\n**hh:s:Perez:Gallego**\n**hh:typ:DubertGalves:Galician**\n**hh:typ:Rosales:Galician**\n**mpieva:1994Galegisc**\n**mpieva:Perez1996ElGalleg**"
+  },
+  "altnames": {
+    "wals": "\nGalician",
+    "ruhlen (1987)": "\nGalician (only written direcly on the map)",
+    "moseley & asher (1994)": "\nGalician",
+    "multitree": "\nGalego\nGalician\nGallegan\nGallego\nNorthern Portuguese",
+    "lexvo": "\nAn Ghailísis [ga]\nBahasa Galicia [id]\nGaleegi keel [et]\nGaleeshish [gv]\nGalega lingvo [eo]\nGalego [fi]\nGalegogiella [se]\nGaliciai nyelv [hu]\nGalician [en]\nGalician language [en]\nGalicien [fr]\nGalicies [af]\nGalicijski jezik [sh]\nGalicijština [cs]\nGalicijščina [sl]\nGalicisch [li]\nGalicische Sprache [de]\nGalicisk [da]\nGaliciska [sv]\nGalijek [kw]\nGalisieg [cy]\nGalisiešu valoda [lv]\nGalisisk [no]\nGalisisk språk [nn]\nGalisu kalba [lt]\nGalisų kalba [lt]\nGalizeg [br]\nGalizian [lmo]\nGaliziera [eu]\nGaliçyaca [tr]\nGallec [ca]\nGallegu [ast]\nGalligu simi [qu]\nGalèc [oc]\nGalícijčina [sk]\nGjuha galiciane [sq]\nIdioma gallego [an]\nJęzyk galicyjski [pl]\nKigalicia [sw]\nKâ-lî-sî-â-ngî [hak]\nLenga galissian-a [pms]\nLengua galissiann-a [lij]\nLengua gałiziana [vec]\nLia-galegu [tet]\nLimba galiciană [ro]\nLingua Gallaica [la]\nLingua galega [gl]\nLingua galiziana [co]\nLingua gallecian [ia]\nLuenga gallega [ext]\nLíngua galega [pt]\nReo Galicia [mi]\nWikang Galisyano [tl]\nZimanê galîsyayî [ku]\ngalicien [fr]\nΓαλικιανή γλώσσα [el]\nГалисиаг æвзаг [os]\nГалисийски език [bg]\nГалисийский язык [ru]\nГалициски јазик [mk]\nГалицијски језик [sr]\nГалісійська мова [uk]\nԳալիցերեն [hy]\nגליסית [he]\nلغة جليقية [ar]\nگالىسىيەچە [ug]\nगॅलिशियन भाषा [mr]\nगैलिशियन भाषा [hi]\nภาษากาลิเซีย [th]\nგალისიური ენა [ka]\nガリシア語 [ja]\n加里西亞語 [zh]\n갈리시아어 [ko]",
+    "hhbib_lgcode": "\nGalego\nGallego\nTrás-os-Montes"
+  },
+  "triggers": {
+    "lgcode": "\ngalega\ngalego\ngallego"
+  },
+  "identifier": {
+    "wals": "glc",
+    "multitree": "glg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:116-123",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Galician (glg-glg) = 2 (Provincial). Statutory provincial language in Galicia Autonomous Community (1981, Autonomy Statute, Act 1 of 6 April, Article 5)."
+  }
+}

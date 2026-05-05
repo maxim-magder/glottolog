@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dzalakha",
+    "hid": "dzl",
+    "level": "language",
+    "iso639-3": "dzl",
+    "latitude": "27.7855",
+    "longitude": "91.374",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN",
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56607\nhttps://en.wikipedia.org/wiki/Dzala_language\nhttps://phoible.org/languages/dzal1238"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Dzonkha:Dzala**\n**hh:hew:Zhang:Menbazu**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Hyslop:East-Bodish:Reconstruction**\n**hh:hv:vanDriem:Dzala-Dakpa**\n**hh:hvld:Hyslop:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish:2010**\n**hh:hvw:Zhan:Gelao**\n**hh:hvwphon:Lu:Menba-Fangyan**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:s:Lu:Cuona-Menba**\n**hh:s:Lu:Menba:2007**\n**hh:s:Sunetal:Menba-Luoba**\n**mpieva:Lu2002Menbayuf**"
+  },
+  "altnames": {
+    "multitree": "\nDzalakha\nDzalamat\nYangtsebikha",
+    "lexvo": "\nDzalakha [en]",
+    "hhbib_lgcode": "\nCuona Monpa (=Takpa)\nCuona Northern/Wenlang\nCuona Southern/Mama\nDzala\nLekpo\nLekpo closest to Dzalakha\nLepo\nLèbù\nMama\nMama 麻玛\nMenba\nMámă\nSouthern Dialect around Lekpo Mama 麻玛 and Wenlang 文浪 closest to Dzala\nWenlang 文浪"
+  },
+  "triggers": {
+    "lgcode": "\ncuona"
+  },
+  "identifier": {
+    "multitree": "dzl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bodt:East-Bodish** **hh:hvld:Hyslop:East-Bodish**",
+    "subrefs": "\n**hh:hv:Bodt:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Dzala (1250-dzl) = Vulnerable"
+  }
+}

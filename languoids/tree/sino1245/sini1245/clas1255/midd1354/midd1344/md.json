@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Middle Chinese",
+    "hid": "ltc",
+    "level": "language",
+    "iso639-3": "ltc",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "longitude": "108.9",
+    "latitude": "34.27",
+    "links": "\nhttps://www.wikidata.org/entity/Q2016252\nhttps://en.wikipedia.org/wiki/Middle_Chinese",
+    "timespan": "0601-01-01/1150-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Karlgren:Serica**\n**hh:g:Zograf:Srednekitajskij**\n**hh:s:Halliday:Chinese-Secret-History**\n**hh:s:Pulleyblank:Late-Middle-Chinese**\n**hh:s:Zograf:Srednekitajskogo**\n**hh:vw:Starostin:Chinese**"
+  },
+  "triggers": {
+    "lgcode": "\nczin\ntunsu\npamjatniku\nsrednekitajskij\nsjaoso\nsrednekitajskogo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Handel:Chinese-Diversification** **hh:hv:Norman:Chinese-Classification**",
+    "subrefs": "\n**hh:hv:Handel:Chinese-Diversification**\n**hh:hv:Norman:Chinese-Classification**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Middle Chinese (ltc-ltc) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nLate Middle Chinese\nLate Middle Chinese (represented by the language of The Record of Linji)"
+  }
+}

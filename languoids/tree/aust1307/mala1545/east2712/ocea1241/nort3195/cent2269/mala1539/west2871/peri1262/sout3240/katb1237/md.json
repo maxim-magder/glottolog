@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Avava",
+    "hid": "tmb",
+    "level": "language",
+    "iso639-3": "tmb",
+    "latitude": "-16.2701",
+    "longitude": "167.484",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Avava](https://endangeredlanguages.com/lang/10209)\n[Avava](https://grambank.clld.org/languages/katb1237)\n[Avava](https://lexibank.clld.org/languages/abvdoceanic-Avava)\nhttps://en.wikipedia.org/wiki/Avava_language\nhttps://www.wikidata.org/entity/Q2157461"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:149**\n**asjp2010:3942**\n**cldf:francois:14:1**\n**cldf:np:nd:264**\n**hh:g:Crowley:Avava**\n**hh:h:Francois:Density-Vanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**iso6393:2008-009**"
+  },
+  "altnames": {
+    "multitree": "\nAvava\nKatbol\nMallicolo\nTaremp\nTembimbe-Katbol\nTisvel",
+    "lexvo": "\nAvava [en]\nKatbol [en]",
+    "hhbib_lgcode": "\nBangsa\nKatbol\nNavava\nNivat\nNiviar\nTimbembe\nUmbrul",
+    "elcat": "\nAvava\nBangsa’\nKatbol\nMallicolo\nNavava\nTaremp\nTembimbe-Katbol\nTisvel"
+  },
+  "triggers": {
+    "lgcode": "\navava"
+  },
+  "identifier": {
+    "multitree": "tmb",
+    "endangeredlanguages": "10209"
+  },
+  "classification": {
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Avava (10209-tmb) = Vulnerable (100 percent certain, based on the evidence available) (Avava is still learned by children and remains the primary language within the community.) [Crowley 2006](cldf:crowley:06:4)"
+  }
+}

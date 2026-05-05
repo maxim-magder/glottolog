@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wali (Ghana)",
+    "hid": "wlx",
+    "level": "language",
+    "iso639-3": "wlx",
+    "latitude": "10.0212",
+    "longitude": "-2.31263",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36895\nhttps://en.wikipedia.org/wiki/Wali_language_(Gur)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:22672**\n**eballiso2009:46679**\n**eballiso2009:6535**\n**hh:d:Dansieh:Waalii**\n**hh:d:Dansieh:Waalii:2021**\n**hh:he:Manoukian:Northern-Gold-Coast**\n**hh:hew:Rattray:Ashanti-Hinterland**\n**hh:hvw:Christaller:Sudan**\n**hh:hvw:Swadesh:Gur**\n**hh:soc:Klugeetal:Chakali**\n**hh:soc:Klugeetal:Safaliba**"
+  },
+  "altnames": {
+    "multitree": "\nAla\nOuala\nWaali\nWala\nWali",
+    "lexvo": "\nWali (Ghana) [en]\nWali [en]",
+    "hhbib_lgcode": "\nDagaari\nWa\nWaalii\nWala\nWale\nWali"
+  },
+  "triggers": {
+    "lgcode": "\nwritten AND wala"
+  },
+  "identifier": {
+    "multitree": "wlx"
+  },
+  "classification": {
+    "sub": "**hh:s:Kropp:Dagaare**",
+    "subrefs": "\n**hh:s:Kropp:Dagaare**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wali (wlx-wlx) = 5 (Developing)."
+  }
+}

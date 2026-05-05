@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Plains Miwok",
+    "hid": "pmw",
+    "level": "language",
+    "iso639-3": "pmw",
+    "latitude": "38.39772",
+    "longitude": "-121.653344",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Plains Miwok](https://endangeredlanguages.com/lang/4980)\nhttps://www.wikidata.org/entity/Q3391031\nhttps://en.wikipedia.org/wiki/Plains_Miwok_language\n[Miwok (Plains)](https://wals.info/languoid/lect/wals_code_mwp)",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Callaghan:Plains-Miwok**\n**hh:e:Levy:EMiwok**\n**hh:hew:Hale:Philology**\n**hh:hvb:Golla:California**\n**hh:hvw:Barrett:Miwok**\n**hh:hvw:Powell:California**\n**hh:w:Ford:Eastern-Miwok**"
+  },
+  "altnames": {
+    "wals": "\nMiwok (Plains)",
+    "ruhlen (1987)": "\nEastern Division",
+    "moseley & asher (1994)": "\nMiwok (Plains)",
+    "multitree": "\nMiwok (Plains)\nMiwok, Plains\nPlains Miwok\nValley Miwok",
+    "lexvo": "\nPlains Miwok [en]",
+    "hhbib_lgcode": "\nChum-te-ya\nMiwok-Plains\nPlains\nPlains NW Sierra\nTalatūi (Plains Miwok)",
+    "elcat": "\nMiwok\nMiwok (Plains)\nPlains\nPlains Miwok\nValley Miwok"
+  },
+  "triggers": {
+    "lgcode": "\nplains AND miwok"
+  },
+  "identifier": {
+    "wals": "mwp",
+    "multitree": "pmw",
+    "endangeredlanguages": "4980"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Callaghan:Utian**:8-9",
+    "subrefs": "\n**hh:hvw:Callaghan:Utian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Plains Miwok (4980-pmw) = Dormant [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

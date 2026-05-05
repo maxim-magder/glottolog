@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Manange",
+    "hid": "nmm",
+    "level": "language",
+    "iso639-3": "nmm",
+    "latitude": "28.6416",
+    "longitude": "84.0515",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "name_comment": "\"Manange\" is the form of the language name used by Kristine Hildebrandt.",
+    "links": "\n[Manange](https://endangeredlanguages.com/lang/7290)\n[Manange](https://grambank.clld.org/languages/mana1288)\n[Manange](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Manange)\n[Manange](https://lexibank.clld.org/languages/wold-Manange)\n[Manange](https://wals.info/languoid/lect/wals_code_nmm)\nhttps://en.wikipedia.org/wiki/Manang_language\nhttps://phoible.org/languages/mana1288\nhttps://www.wikidata.org/entity/Q6746900"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:genetti:coupe:etal:09**\n**cldf:genetti:hildebrandt:04**\n**cldf:hildebrandt:04:1**\n**cldf:hildebrandt:04:3**\n**cldf:hildebrandt:05:1**\n**cldf:hildebrandt:07:1**\n**cldf:hildebrandt:09**\n**cldf:hildebrandt:ka:etal:nd**\n**hh:b:Yoshio:Tibeto-Burman**\n**hh:d:Hochi:Prakaa**\n**hh:g:Hildebrandt:Manange**\n**hh:g:Hildebrandt:Manange:PhD**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:phon:Hildebrandt:Manange-Tone**\n**hh:s:HildebrandtBond:Manange**\n**hh:s:Hoshi:Prakaa**\n**hh:w:Kuribayashi:Mongoru**\n**mpieva:2004TibetoBu**\n**sil16:10812**"
+  },
+  "altnames": {
+    "glottolog": "\nManangba",
+    "multitree": "\nGurung\nManang\nManangba\nManangbhot\nManangbolt\nManangi\nNorthern Gurung\nNyeshang\nNyeshangba\nNyishang",
+    "lexvo": "\nManangba [en]",
+    "hhbib_lgcode": "\nBraga\nManang\nManang Prakaa\nManangba\nPrakaa",
+    "elcat": "\nManang\nManangba\nManange\nNgyeshang"
+  },
+  "triggers": {
+    "lgcode": "\nprakaa\nmanang\nmanange"
+  },
+  "identifier": {
+    "wals": "nmm",
+    "multitree": "nmm",
+    "endangeredlanguages": "7290"
+  },
+  "classification": {
+    "sub": "**hh:s:Noonan:Chantyal** **hh:hv:Honda:Tamangic**",
+    "subrefs": "\n**hh:s:Noonan:Chantyal**\n**hh:hv:Honda:Tamangic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Manange (7290-nmm) = Threatened (20 percent certain, based on the evidence available) [Hildebrandt 2004](cldf:hildebrandt:04:2)"
+  }
+}

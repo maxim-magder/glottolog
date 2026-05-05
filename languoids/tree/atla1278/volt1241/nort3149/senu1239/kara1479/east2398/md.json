@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Eastern Karaboro",
+    "hid": "xrb",
+    "level": "language",
+    "iso639-3": "xrb",
+    "latitude": "10.4987",
+    "longitude": "-4.52253",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kar_language\nhttps://phoible.org/languages/east2398\nhttps://www.wikidata.org/entity/Q35716"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:SagnonWichser:Karaboro**\n**hh:g:Wichser:Senoufo-Kar**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:phon:WichserBuhler:Karaboro**\n**hh:typ:Konkobo:Kar**\n**hh:v:Dombrowsky-Hahn:Kar**\n**sil16:17346**\n**sil16:19423**\n**sil16:31510**\n**sil16:33812**\n**sil16:33814**\n**sil16:34174**\n**sil16:35159**\n**sil16:36031**\n**sil16:36032**\n**sil16:36033**\n**sil16:36062**\n**sil16:36063**\n**sil16:39745**\n**sil16:45189**\n**sil16:45192**\n**sil16:46627**"
+  },
+  "altnames": {
+    "multitree": "\nKar\nKaraboro, Eastern\nKer\nKler",
+    "lexvo": "\nEastern Karaboro [en]",
+    "hhbib_lgcode": "\nKar\nKaraboro-Eastern\nKlaudia Dombrowsky-Hahn: G4. Kar"
+  },
+  "triggers": {
+    "lgcode": "\nkoineisierung"
+  },
+  "identifier": {
+    "multitree": "xrb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Guldemann:Africa:Classification**:199 **hh:hv:Miehe:Gur:2020**:194-196 **hh:hv:Carlson:Senufo** **hh:hb:vonRoncadorMiehe:Gur** **hh:phon:Mills:Senoufo**:xii-xx",
+    "subrefs": "\n**hh:hb:vonRoncadorMiehe:Gur**\n**hh:hv:Guldemann:Africa:Classification**\n**hh:hv:Carlson:Senufo**\n**hh:hv:Miehe:Gur:2020**\n**hh:phon:Mills:Senoufo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Karaboro, Eastern (xrb-xrb) = 5 (Developing)."
+  }
+}

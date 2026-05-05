@@ -1,0 +1,54 @@
+{
+  "core": {
+    "name": "Northern Kurdish",
+    "hid": "kmr",
+    "level": "language",
+    "iso639-3": "kmr",
+    "latitude": "37.0",
+    "longitude": "43.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AM",
+      "AZ",
+      "IQ",
+      "IR",
+      "JO",
+      "KW",
+      "SY",
+      "TM",
+      "TR"
+    ],
+    "links": "\n[Kurmanji](https://wals.info/languoid/lect/wals_code_kji)\n[Northern Kurdish](https://lexibank.clld.org/languages/northeuralex-kmr)\nhttps://en.wikipedia.org/wiki/Kurmanji\nhttps://phoible.org/languages/nort2641\nhttps://www.wikidata.org/entity/Q36163"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bakaev:66**\n**cldf:bulut:00**\n**cldf:cukerman:62**\n**cldf:dahl:85**\n**cldf:lescot:khan:86**\n**cldf:malherbe:rosenberg:96**\n**hh:d:Chyet:Kurdish**\n**hh:g:Bakaev:Azerbajdzjanskix-Kurdov**\n**hh:g:Bakaev:Kurdov-Turkmenii**\n**hh:g:Bedir-Lescot:Kurmandji**\n**hh:g:Blau:Djabal-Sindjar**\n**hh:g:BlauBarak:Kurmanci**\n**hh:g:Garzoni:Curda**\n**hh:g:Justi:Kurdische**\n**hh:g:Kurdoev:Kurdskogo**\n**hh:g:Soane:Kurmanji**\n**hh:g:Thackston:Kurmanji**\n**hh:hv:OpenginHaig:Kurmanji**\n**hh:hvs:Bakaev:Kurdov**\n**hh:hvst:MacKenzie:Kurdish**\n**hh:phon:Jastrow:Kurdischen-Turkei**\n**hh:s:Badilli:Kurmancca**\n**hh:s:Beidar:Kurde**\n**hh:s:Cukerman:Kurdskogo**\n**hh:s:Cukerman:Kurdskoj:1950**\n**hh:s:Direj:Kurmanci**\n**hh:s:Hadank:Boti-Ezadi**\n**hh:s:Haig:Kurmanji**\n**hh:s:Jardine:Kurmanji**\n**hh:s:Kordo:Kormanji**\n**hh:s:Kurdoev:Kurdskij**\n**hh:s:Kurdoev:Kurdskogo:1978**\n**hh:s:Pikkert:Kurmandji**\n**hh:s:Qazi:Kurdi**\n**hh:s:Rhea:Kurdish**\n**hh:ssoc:HaigOpengin:Kurmanji**\n**hh:t:Komur:Kurdish**\n**hh:t:Ritter:Kurmanci**\n**hh:typ:Cukerman:Kurdskoj**\n**mpieva:Aygen2007Kurmanji**\n**mpieva:Bakaev1957Kurdskor**\n**mpieva:Bakaev1965Jazykaze**\n**mpieva:Bakaev1977Roljazyk**\n**mpieva:BedirXan1991Grammair**\n**mpieva:Blau1999Manuelde**\n**mpieva:Bozarslan1979Alfabe**\n**mpieva:Cabolov2001Etimolog**\n**mpieva:Celebi2002Kurmanji**\n**mpieva:Dorleijn1996Thedecay**\n**mpieva:Farizov1957Ferhenga**\n**mpieva:Fattah1997Agenerat**\n**mpieva:HakimDictionn**\n**mpieva:Justi1995Kurdisch**\n**mpieva:Kedajtene1977Ferhengi**\n**mpieva:Kurdoev1960Ferhenga**\n**mpieva:Kurdoev1983Kurdskor**\n**mpieva:MacCarus1956Descript**\n**mpieva:MacCarus1958AKurdish**\n**mpieva:MackenzieKurdishd**\n**mpieva:Qazi1968BahramoG**\n**mpieva:Rizgar1993KurdishE**\n**mpieva:Sebri1955Elifbeya**\n**mpieva:Wahby1968Kurdishs**\n**mpieva:Wikander1959Recueild**\n**sil16:24830**\n**sil16:47733**\n**sil16:47736**"
+  },
+  "altnames": {
+    "wals": "\nKurdish (Central)\nKurmanji",
+    "wals other": "\nKurdish (Kurmanji)\nKurdish (Northern)\nNorthern Kurdish",
+    "ruhlen (1987)": "\nKurdish",
+    "moseley & asher (1994)": "\nKirmanji\nnot specified",
+    "multitree": "\nBadinani\nBahdini\nBehdini\nEastern Kurmanji\nKermancî\nKhorasani\nKhorasani Kurmanji\nKirmanciya Jori\nKirmancî\nKirmanji\nKordi\nKurdi\nKurdisch\nKurdish\nKurdish (Central)\nKurdish (Northern)\nKurdish, Northern\nKurdî\nKurmancî\nKurmanji\nNorthern Kurdish\nWestern Kurdish\nZaza\nÊzdîkî",
+    "lexvo": "\nNorthern Kurdish [en]",
+    "hhbib_lgcode": "\nAkre\nAmadiya\nAmadiye and Zakho\nAmmadiya\nBoti\nEzädi\nKurdish Hakkari\nKurdish-Northern\nKurmandzi\nMosul Kurdish\nSheikhan and Dohuk\nStandard Kurdish in Armenian SSSR\nSurci\nYezidi"
+  },
+  "triggers": {
+    "lgcode": "\nzimane\nkurmanji\nkurmanci\nezadi\nkurde\nkurmandzi\nsindjar\nkurdish\nkurdi\ncurda\nkurdskoj\ncamadiya\nhakari\nkurmandji\nkurdskij\nwestkurdischen\nkormanji\nkurdskogo\nkurdov\nkourmandji\nkurdische"
+  },
+  "identifier": {
+    "wals": "krd;kji",
+    "multitree": "kurd;kmr"
+  },
+  "classification": {
+    "sub": "**hh:hv:OpenginHaig:Kurmanji** **hh:hv:Jugel:Kurdish** **hh:v:Paul:Zazaki** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:hv:Jugel:Kurdish**\n**hh:v:Paul:Zazaki**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**\n**hh:hv:OpenginHaig:Kurmanji**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kurdish, Northern (kmr-kmr) = 6b (Threatened). Became widespread in the late 19th century with the nationalist movement demanding the establishment of a Kurdish state. Spoken mainly in eastern and southeastern Turkey. Used in poetry, general literature, education, and political documents. 48 people groups speak Kurdish as primary language."
+  }
+}

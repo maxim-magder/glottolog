@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Niuean",
+    "hid": "niu",
+    "level": "language",
+    "iso639-3": "niu",
+    "latitude": "-19.06",
+    "longitude": "-169.86",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CK",
+      "NU",
+      "NZ",
+      "TO"
+    ],
+    "links": "\n[Niue](https://endangeredlanguages.com/lang/4862)\n[Niue](https://lexibank.clld.org/languages/abvdoceanic-Niue)\n[Niuean](https://grambank.clld.org/languages/niue1239)\n[Niuean](https://wals.info/languoid/lect/wals_code_niu)\n[Niuean_247](https://lexibank.clld.org/languages/walworthpolynesian-Niuean)\nhttps://en.wikipedia.org/wiki/Niuean_language\nhttps://www.wikidata.org/entity/Q33790"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:bennardo:ed:02:1**\n**cldf:bennardo:ed:02:2**\n**cldf:bennardo:ed:02:6**\n**cldf:bradshaw:ed:01:3**\n**cldf:calculator:14**\n**cldf:carnie:guilfoyle:ed:00:3**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cribb:00**\n**cldf:ed:10**\n**cldf:foster:nd**\n**cldf:hays:91:4**\n**cldf:keesing:84:2**\n**cldf:lewis:ed:09**\n**cldf:loeb:26:1**\n**cldf:loeb:28**\n**cldf:massam:01**\n**cldf:massam:06**\n**cldf:massam:98**\n**cldf:massam:starks:etal:06**\n**cldf:massam:starks:etal:11**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:palmer:ed:00:3**\n**cldf:pointer:15**\n**cldf:polinskaja:95**\n**cldf:roscoe:93**\n**cldf:smith:83:1**\n**cldf:sperlich:05**\n**cldf:tent:geraghty:ed:04:2**\n**cldf:tregear:93**\n**cldf:walter:95**\n**haspelmath:gorrie_determiners_2010**\n**hh:d:McEwen:Niue**\n**hh:d:Sperlich:Niue**\n**hh:e:Ryan:Niueans**\n**hh:g:Massam:Niuean:2020**\n**hh:g:Seiter:Niuean**\n**hh:g:Seiter:Niuean:1980**\n**hh:s:Polinskaya:Niue**\n**hh:s:Whittaker:Niuean**\n**hh:sd:TregearSmith:Niue**\n**hh:t:Chapman:Niue**\n**hh:typ:Gould:Niuean**\n**hh:typ:Haji-Abdolhosseini:Niuean**\n**hh:typ:Massam:Niuean**\n**hh:typ:Massam:Niuean:1995**\n**hh:typ:Massam:Niuean:2013**\n**hh:typ:MassamSmallwood:Niuean**\n**hh:typ:MassamSperlich:Niuean**\n**hh:w:Turner:Samoa**\n**mpieva:Dempwolff1937Deduktiv**\n**sil16:48343**"
+  },
+  "altnames": {
+    "wals": "\nNiuean",
+    "ruhlen (1987)": "\nNiue",
+    "moseley & asher (1994)": "\nNiuean",
+    "multitree": "\n\"Niuefekai\"\nNiue\nNiuean",
+    "lexvo": "\nIdioma niuano [es]\nJęzyk niue [pl]\nLingua niueana [it]\nNiue jezik [sh]\nNiuean [en]\nNiuean language [en]\nNiueanische Sprache [de]\nNiuen kieli [fi]\nNiuéen [fr]\nniué [fr]\nНиуэ [ru]\n纽埃语 [zh]",
+    "hhbib_lgcode": "\nNiue",
+    "elcat": "\n\"Niuefekai\"\nNiue\nNiuean"
+  },
+  "triggers": {
+    "lgcode": "\nurindonesischen\nniue\nniuean"
+  },
+  "identifier": {
+    "wals": "niu",
+    "multitree": "niu",
+    "endangeredlanguages": "4862"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Niue (4862-niu) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

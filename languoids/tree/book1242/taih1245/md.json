@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tai Pao (Retired)",
+    "hid": "thc",
+    "level": "language",
+    "iso639-3": "thc",
+    "latitude": "19.1282",
+    "longitude": "104.225",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tai_Pao_language\nhttps://www.wikidata.org/entity/Q7675795"
+  },
+  "classification": {
+    "sub": "**hh:phon:Ferlus:Tai-Nghe-An**",
+    "subrefs": "\n**hh:phon:Ferlus:Tai-Nghe-An**"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2015-018**"
+  },
+  "altnames": {
+    "multitree": "\nHàng Tong\nTai Hang Tong\nTày Muòng",
+    "lexvo": "\nTai Hang Tong [en]"
+  },
+  "triggers": {
+    "lgcode": "\nmuongs"
+  },
+  "identifier": {
+    "multitree": "thc"
+  },
+  "iso_retirement": {
+    "change_request": "2015-018",
+    "remedy": "Merged with [tpo] Tai Pao",
+    "code": "thc",
+    "name": "Tai Hang Tong",
+    "effective": "2016-01-15",
+    "reason": "merge",
+    "change_to": "\ntpo"
+  }
+}

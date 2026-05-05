@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kimaama",
+    "hid": "kig",
+    "level": "language",
+    "iso639-3": "kig",
+    "latitude": "-8.01899",
+    "longitude": "138.355",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kimaama](https://grambank.clld.org/languages/kima1246)\n[Kimaghama](https://wals.info/languoid/lect/wals_code_kim)\nhttps://en.wikipedia.org/wiki/Kimaghama_language\nhttps://phoible.org/languages/kima1246\nhttps://www.wikidata.org/entity/Q11732321"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:serpenti:65**\n**hh:e:Serpenti:Frederik-Hendrik**\n**hh:e:Serpenti:Kolepom**\n**hh:e:Wirz:Frederik-Hendrik**\n**hh:e:Wirz:Neuguinea:Damonen**\n**hh:h:Boldingh:Zuid-Nieuw-Guinea**\n**hh:h:Geurtjens:Oermenschen**\n**hh:h:Mambrasar:Arso-Sentani**\n**hh:h:Sugono:Indonesia**\n**hh:h:Wolff:Frederik-Hendrik**\n**hh:hsoc:MenantiSusanto:Kimaam**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hv:WurmMcElhanon:Papuan**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvs:Boelaars:SWNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Drabbe:24**\n**hh:hw:Drabbe:ZWNG**\n**hh:hw:Galis:NNG**\n**hh:hw:Geurtjens:Marindineesche**\n**hh:ld:Donohue:Papuan**\n**hh:s:Drabbe:Frederik**\n**hh:w:LeRoux:Woordenlijsten**\n**iso6393:2007-218**"
+  },
+  "altnames": {
+    "wals": "\nKimaghama",
+    "wals other": "\nKaladdarsch",
+    "ruhlen (1987)": "\nKimaghama",
+    "moseley & asher (1994)": "\nKimaghana",
+    "multitree": "\nKaladdarsch\nKimaama\nKimaghama\nKimaghana\nTeri-Kalwasch\nTeri-Kawalsch",
+    "lexvo": "\nKimaama [en]\nKimaghima [en]",
+    "hhbib_lgcode": "\nKaladdarsch (= Kimaghama)\nKi. (= Kimaghama)\nKimaam\nKimaghama\nKimaghama (Dr)\nKolepom\nTeri-Kalwasch (= Kimaghama)"
+  },
+  "triggers": {
+    "lgcode": "\ndamonen\nriantana\nkolepom"
+  },
+  "identifier": {
+    "wals": "kim",
+    "multitree": "kig"
+  },
+  "classification": {
+    "sub": "**hh:s:Drabbe:Frederik** **hh:hsoc:MenantiSusanto:Kimaam**",
+    "subrefs": "\n**hh:s:Drabbe:Frederik**\n**hh:hsoc:MenantiSusanto:Kimaam**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kimaghima (kig-kig) = 6b (Threatened)."
+  }
+}

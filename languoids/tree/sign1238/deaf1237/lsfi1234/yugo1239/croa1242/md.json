@@ -1,0 +1,35 @@
+{
+  "core": {
+    "name": "Croatian Sign Language",
+    "hid": "csq",
+    "level": "language",
+    "iso639-3": "csq",
+    "latitude": "45.502",
+    "longitude": "16.796",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "HR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3507506\nhttps://en.wikipedia.org/wiki/Croatian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Wilkinson:Signed**\n**hh:phon:kuhn:Croatian-Sign**\n**hh:typ:Milkovic:Order-Croatian-Sign**"
+  },
+  "altnames": {
+    "lexvo": "\nCroatia Sign Language [en]",
+    "hhbib_lgcode": "\nCroatia Sign Language\nCroatian Sign Language\nHrvatskog Znakovnog Jezika",
+    "glottolog": "\nCroatia Sign Language"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Croatian Sign Language (csq-csq) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Direct and indirect observations on the similarity and history of sign languages in the different republics of former Yugoslavia argue for a Yugoslav Sign language family (**hh:soc:Hoyer:Kosovar-Sign**).",
+    "subrefs": "\n**hh:soc:Hoyer:Kosovar-Sign**"
+  }
+}

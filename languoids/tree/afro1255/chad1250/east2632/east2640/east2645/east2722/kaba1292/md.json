@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kabalai",
+    "hid": "kvf",
+    "level": "language",
+    "iso639-3": "kvf",
+    "latitude": "9.38373",
+    "longitude": "16.2821",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Kabalai](https://endangeredlanguages.com/lang/804)\nhttps://www.wikidata.org/entity/Q3440427\nhttps://en.wikipedia.org/wiki/Kabalai_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:he:Bruel:Moyen-Logone**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:w:Hamm:Kabalay**\n**sil16:41854**\n**sil16:43801**"
+  },
+  "altnames": {
+    "multitree": "\nGablai\nKaba-Lai\nKabalai\nKabalay\nKabalaye\nKeb-Kaye\nLai\nLay",
+    "lexvo": "\nKabalai [en]\nKabalai language [en]",
+    "hhbib_lgcode": "\nGablai\nKaba\nMasa de Lai\nMassa de Lai",
+    "elcat": "\nGablai\nKaba-Lai\nKabalai\nKabalay\nKabalaye\nKeb-Kaye\nLai\nLay"
+  },
+  "triggers": {
+    "lgcode": "\nkabalay"
+  },
+  "identifier": {
+    "multitree": "kvf",
+    "endangeredlanguages": "804"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jungraithmayr:Nachtigal**",
+    "subrefs": "\n**hh:hv:Jungraithmayr:Nachtigal**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kabalai (804-kvf) = Vulnerable (40 percent certain, based on the evidence available) (used in church) [Hamm 2002](cldf:hamm:02:2)"
+  }
+}

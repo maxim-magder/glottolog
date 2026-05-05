@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Eastern Newari",
+    "hid": "NOCODE_Dolakha-Newari",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Eastern Newari](https://grambank.clld.org/languages/east2773)\n[Newar (Dolakha)](https://wals.info/languoid/lect/wals_code_nwd)\nhttps://en.wikipedia.org/wiki/Dolakha_Newar_language\nhttps://phoible.org/languages/east2773\nhttps://www.wikidata.org/entity/Q5288841",
+    "longitude": "86.033964",
+    "latitude": "27.576985"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:delancey:66**\n**cldf:genetti:03**\n**cldf:genetti:05**\n**cldf:genetti:86**\n**cldf:genetti:91**\n**cldf:genetti:92:1**\n**cldf:genetti:93:1**\n**cldf:genetti:97**\n**cldf:genetti:nd**\n**hh:g:Genetti:Dolakha-Newar**\n**hh:g:Genetti:Dolakha-Newari**\n**hh:g:Genetti:Dolakha-Newari:1994**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Kansakar:Newar**\n**hh:s:Genetti:Dolakha**\n**hh:s:Genetti:Dolakha-Newar**\n**hh:s:Shreshta:Dolakha**\n**hh:wsoc:Smith:Pahari**\n**hh:wsoc:Smith:Pyangaun-Newar**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has one entry for Newari [new] but the dialects around Dolakha are not mutually intelligible to those in the Kathmandu Valley (**hh:g:Genetti:Dolakha-Newar**:1). Thus the entry should be split into two entries, at least. See also: Kathmandu Valley Newari [new].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Dolakha-Newari"
+  },
+  "classification": {
+    "sub": "**hh:v:Turin:Thangmi** **hh:hv:vanDriem:Mahakiranti** **hh:wsoc:Smith:Pahari**:28",
+    "subrefs": "\n**hh:v:Turin:Thangmi**\n**hh:wsoc:Smith:Pahari**\n**hh:hv:vanDriem:Mahakiranti**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Eastern Newari (NOCODE_Dolakha-Newari-NOCODE_Dolakha-Newari) = 6b (Threatened)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nDolakha Newar\nDolakha Newari\nKodku Pahari\nNewari Dolakha"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Jenaama Bozo",
+    "hid": "bze",
+    "level": "language",
+    "iso639-3": "bze",
+    "latitude": "15.2533",
+    "longitude": "-4.0194",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Jenaama](https://lexibank.clld.org/languages/hantganbangime-Jenaama)\nhttps://www.wikidata.org/entity/Q10950633"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4919**\n**cldf:monteil:32**\n**eballiso2009:10068**\n**eballiso2009:16723**\n**eballiso2009:21073**\n**eballiso2009:27219**\n**eballiso2009:29683**\n**eballiso2009:31899**\n**hh:e:Ligers:Bozo**\n**hh:g:Daget:Bozo**\n**hh:g:Heath:Cliffs-Jenaama**\n**hh:g:Heath:Jenaama-Sorogaama-Djenne**\n**hh:hvdial:BleckeBlecke:Bozo**\n**hh:hvw:Creissels:Bozo**\n**hh:hvw:Vydrine:Mande**\n**hh:s:Monteil:Bozo**\n**hh:soc:Bluhberger:Djenaama**\n**hh:typ:Lauschitzky:Bozo-Jenaama**\n**hh:typ:Wintoch:Sorogama**"
+  },
+  "altnames": {
+    "multitree": "\n\"Boso\" Bozo\nBoso\nBozo, Jenaama\nCorogaama\nCorogama\nDjenaama\nGbunde\nJenama\nNononke\nSarkanci\nSarkawa\nSorko\nSorogaama\nSorogama",
+    "lexvo": "\nJenaama Bozo [en]",
+    "hhbib_lgcode": "\nBozo-Jenaama\nBozo-Soroga\nCliffs Jenaama in Namagué\nDebo\nEast Pondori\nJenaama of Djambakourou\nJenaama-Sorogaama of Djenné in Tombona-Baratou\nJenaama/Sorogaama (JS) around Mopti\nJenaama/Sorogaama of Djenné (JSDj)\nKorondougou\nKorondougou N\nKorondougou S\nKotya\nMopti\nPondori\nPondori N\nPondori S\nSorko\nSorogama"
+  },
+  "triggers": {
+    "lgcode": "\njenaama\ndjenaama\nsorogaama\nNOT im AND bozo\nbouzou"
+  },
+  "identifier": {
+    "multitree": "bze"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Kastenholz:Samogo**:100 **hh:hv:Kastenholz:West-Mande**",
+    "subrefs": "\n**hh:hvtyp:Kastenholz:Samogo**\n**hh:hv:Kastenholz:West-Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bozo, Jenaama (bze-bze) = 5 (Developing)."
+  }
+}

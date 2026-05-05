@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Chitral Kalasha",
+    "hid": "kls",
+    "level": "language",
+    "iso639-3": "kls",
+    "latitude": "35.6415",
+    "longitude": "71.6657",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\n[Kalasha](https://endangeredlanguages.com/lang/4409)\n[Kalasha](https://wals.info/languoid/lect/wals_code_klh)\nhttps://en.wikipedia.org/wiki/Kalasha_language\nhttps://www.wikidata.org/entity/Q33416"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bashir:06:1**\n**cldf:bashir:89**\n**cldf:bashir:90**\n**cldf:cardona:jain:ed:03:6**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dicarlo:12**\n**cldf:ed:10**\n**cldf:edelman:94**\n**cldf:hussain:mielke:20**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:saxena:ed:04:3**\n**elpub:ldd97**\n**hh:d:TrailCooper:Kalasha**\n**hh:e:Maggi:Kalasha**\n**hh:egt:DiCarlo:Kalasha**\n**hh:g:Bashir:Kalasha**\n**hh:hew:Leitner:Dardistan**\n**hh:hv:Heegard:Kalasha-Dialects**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:hvld:Bashir:Dardic**\n**hh:hvw:Grierson:8:II**\n**hh:hwsoc:Decker:Chitral**\n**hh:phon:Cooper:Kalasha**\n**hh:phonv:MorchHeegard:Kalashamon**\n**hh:s:Leitner:Kalasha**\n**hh:s:Mela-Athanasopoulou:Kalasha**\n**hh:s:Morgenstierne:Kalasha**\n**hh:st:Morgenstierne:Kalasha**\n**hh:st:Petersen:Kalasha**\n**hh:styp:Petersen:Kalasha**\n**sil16:32906**\n**sil16:35641**\n**sil16:36959**\n**sil16:36961**"
+  },
+  "altnames": {
+    "wals": "\nKalasha",
+    "ruhlen (1987)": "\nChitrali",
+    "moseley & asher (1994)": "\nKalasha",
+    "multitree": "\nCalasa\nDardu\nKalasa\nKalash\nKalasha\nKalashamon",
+    "lexvo": "\nKalacheg [br]\nKalash language [en]\nKalasha [en]\nKalaština [sk]\nКалашский язык [ru]\nகலஷா மொழி [ta]",
+    "hhbib_lgcode": "\nBirga\nBirir\nBirir-Jinjiret\nBiriu\nEastern Kalasha\nGromel-Uzurbekande\nKalasha\nKalashamon\nKalkatak\nLawi\nNW Kalasha\nNorthern Kalasha\nNot Bashgali but Kalasha\nRukmu and Mumoret\nRukmu-Mumoret\nRumbur-Bumboret\nSouth Kalasha\nSuwir\nUtsun",
+    "glottolog": "\nKalasha",
+    "elcat": "\nDardu\nKalasa\nKalash\nKalasha\nKalashamon"
+  },
+  "triggers": {
+    "lgcode": "\nethnotheory\nNOT with AND kalasha\nbashgeli"
+  },
+  "identifier": {
+    "wals": "klh",
+    "multitree": "kls",
+    "endangeredlanguages": "4409"
+  },
+  "classification": {
+    "sub": "**hh:egt:DiCarlo:Kalasha**:8-12 **hh:st:Petersen:Kalasha**:23-24 **hh:hwsoc:Decker:Chitral**:34-37 **hh:hv:VasilyevKogan:Vostocnodardskoj** (**hh:v:Bashir:Khowar-Kalasha** fails to identify shared non-areal innovations with Khowar)",
+    "subrefs": "\n**hh:egt:DiCarlo:Kalasha**\n**hh:v:Bashir:Khowar-Kalasha**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:st:Petersen:Kalasha**\n**hh:hwsoc:Decker:Chitral**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kalasha (4409-kls) = Threatened (100 percent certain, based on the evidence available) (The younger generation learns Kalasha from family or at school. Community language shift is moving toward other languages of the area, especially Khowar and Pashto, due to religious conversion and migration.) [Hussain and Mielke 2020](cldf:hussain:mielke:20)"
+  }
+}

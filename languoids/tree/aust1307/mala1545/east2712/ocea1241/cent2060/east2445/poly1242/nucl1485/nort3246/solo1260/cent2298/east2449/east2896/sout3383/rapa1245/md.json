@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mangaia-Old Rapa",
+    "hid": "ray",
+    "level": "language",
+    "iso639-3": "ray",
+    "latitude": "-27.6304",
+    "longitude": "-144.338",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PF"
+    ],
+    "links": "\n[Mangaia-Old Rapa](https://grambank.clld.org/languages/rapa1245)\n[Rapa](https://endangeredlanguages.com/lang/5330)\nhttps://en.wikipedia.org/wiki/Rapa_language\nhttps://www.wikidata.org/entity/Q36417"
+  },
+  "classification": {
+    "sub": "**hh:v:Walworth:Old-Rapa:2017**",
+    "subrefs": "\n**hh:v:Walworth:Old-Rapa:2017**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:232**\n**cldf:np:nd:264**\n**hh:d:Rapa:Rapa**\n**hh:e:Hall:Rapa**\n**hh:e:Hanson:Rapan**\n**hh:g:Walworth:Rapa-Iti**\n**hh:hv:Marck:Polynesian**\n**hh:hvld:Fischer:Austral**\n**hh:hvw:Schooling:French-Polynesia**\n**hh:hw:CharpentierFrancois:Polynesie-Francaise**\n**hh:soctyp:Walworth:Reo-Rapa**\n**hh:t:KievietKieviet:Mark**\n**hh:v:Smith:Rapa**\n**hh:v:Walworth:Old-Rapa**\n**hh:v:Walworth:Old-Rapa:2017**\n**hh:vld:Draws-Tychsen:Mangaianische**\n**hh:w:Christian:Mangaian**\n**hh:w:Fischer:Tupuaian-Rapan**\n**hh:w:Stokes:Rapa**"
+  },
+  "altnames": {
+    "multitree": "\nRapa\nRapan\nRapano",
+    "lexvo": "\nRapa [en]\nRapan kieli [fi]\nRapan language [en]",
+    "hhbib_lgcode": "\nMangaian closer to Old Rapa\nOld Rapa\nRapa\nRapan\nReo Rapa Tahitianized Old Rapa",
+    "elcat": "\nRapa\nRapan",
+    "glottolog": "\nOld Rapa"
+  },
+  "triggers": {
+    "lgcode": "\nrapan"
+  },
+  "identifier": {
+    "multitree": "ray",
+    "endangeredlanguages": "5330"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Rapa (5330-ray) = Critically Endangered (100 percent certain, based on the evidence available) (Only about 10-15% of the ethnic population speak Rapa. About 75% of the ethnic population speak the Tahitian-Rapa mixed language \"Reo Rapa\".) [n.a. n.d.](cldf:np:nd:232)"
+  }
+}

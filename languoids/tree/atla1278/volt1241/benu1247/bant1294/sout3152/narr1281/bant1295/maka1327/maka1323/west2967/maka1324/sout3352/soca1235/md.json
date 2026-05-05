@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "So (Cameroon)",
+    "hid": "sox",
+    "level": "language",
+    "iso639-3": "sox",
+    "latitude": "3.68257",
+    "longitude": "12.525",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[So](https://lexibank.clld.org/languages/polyglottaafricana-So)\nhttps://en.wikipedia.org/wiki/Swo_language\nhttps://www.wikidata.org/entity/Q36604"
+  },
+  "classification": {
+    "sub": "**hh:dial:BradleyBradley:Sso**:5",
+    "subrefs": "\n**hh:dial:BradleyBradley:Sso**"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:1485**\n**eballiso2009:28707**\n**hh:dial:BradleyBradley:Sso**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:phon:Yee:Swo**\n**hh:typ:Engolo:So**\n**iso6393:2011-021**"
+  },
+  "altnames": {
+    "multitree": "\nFo\nShwo\nSo\nSso",
+    "lexvo": "\nSo (Cameroon) [en]\nSo [en]",
+    "hhbib_lgcode": "\nSo\nSso\nSwo\nSɔ'"
+  },
+  "triggers": {
+    "lgcode": "\nsso"
+  },
+  "identifier": {
+    "multitree": "sox"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Swo (sox-sox) = 6b (Threatened)."
+  }
+}

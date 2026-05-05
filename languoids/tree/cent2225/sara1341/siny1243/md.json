@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sinyar",
+    "hid": "sys",
+    "level": "language",
+    "iso639-3": "sys",
+    "latitude": "12.1895",
+    "longitude": "22.5278",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56840\nhttps://en.wikipedia.org/wiki/Sinyar_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boyeldieu:CSudanic** **hh:hvw:DoornbosBender:Wadai-Darfur**:70-75",
+    "subrefs": "\n**hh:hv:Boyeldieu:CSudanic**\n**hh:hvw:DoornbosBender:Wadai-Darfur**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:139**\n**hh:he:Haaland:Darfur**\n**hh:hew:Grossard:Delimitation**\n**hh:hvw:DoornbosBender:Wadai-Darfur**\n**hh:lde:Doornbos:Sinyar**\n**hh:typ:Boyeldieu:Sinyar**\n**hh:typ:Boyeldieu:Sinyar-Case:2015**\n**hh:typ:Doornbos:Sinyar**\n**hh:v:Boyeldieu:Sinyar-SBB**"
+  },
+  "altnames": {
+    "multitree": "\nShamya\nShamyan\nShemya\nSinya\nSinyar\nSymiarta\nTaar Shamyan\nZimirra",
+    "lexvo": "\nSinyar [en]",
+    "hhbib_lgcode": "\nFormona by Haaland\nSinyar by Thelwall"
+  },
+  "triggers": {
+    "lgcode": "\nthelwall\nsinyar"
+  },
+  "identifier": {
+    "multitree": "sys;siny"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sinyar (sys-sys) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lovono",
+    "hid": "vnk",
+    "level": "language",
+    "iso639-3": "vnk",
+    "latitude": "-11.6107",
+    "longitude": "166.7984",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Lovono](https://grambank.clld.org/languages/vano1237)\n[Vano](https://endangeredlanguages.com/lang/3372)\n[Vano](https://lexibank.clld.org/languages/abvdoceanic-Vano)\nhttps://en.wikipedia.org/wiki/Lovono_language\nhttps://www.wikidata.org/entity/Q3211090"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:tryon:hackman:83**\n**hh:ew:Lesson:Vanikoro**\n**hh:hv:Francois:Vanikoro:2006**\n**hh:hvld:Ray:Island**\n**hh:hvs:Francois:Vanikoro**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hw:dUrville:Astrolabe**\n**hh:ld:Ray:Vanikolo**\n**hh:typ:Francois:Vanikoro:Person**\n**hh:w:Goodenough:Goodenough**\n**iso6393:2008-068**"
+  },
+  "altnames": {
+    "multitree": "\nLovono\nVanikolo\nVanikoro\nVano",
+    "lexvo": "\nLovono [en]\nVano [en]",
+    "hhbib_lgcode": "\nVanikoro\nVanikoro (Vane)\nVano",
+    "elcat": "\nLovono\nVanikolo\nVanikoro\nVano"
+  },
+  "triggers": {
+    "lgcode": "\nvanikolo\nvanikoro"
+  },
+  "identifier": {
+    "multitree": "vnk",
+    "endangeredlanguages": "3372"
+  },
+  "classification": {
+    "sub": "**hh:hv:RossNaess:Temotu**, **hh:hv:NaessBoerger:RSC**, **hh:hvs:Francois:Vanikoro**",
+    "subrefs": "\n**hh:hv:RossNaess:Temotu**\n**hh:hv:NaessBoerger:RSC**\n**hh:hvs:Francois:Vanikoro**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Vano (3372-vnk) = Critically Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

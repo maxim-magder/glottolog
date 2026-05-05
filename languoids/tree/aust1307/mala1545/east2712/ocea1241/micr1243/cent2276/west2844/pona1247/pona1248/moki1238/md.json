@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mokilese",
+    "hid": "mkj",
+    "level": "language",
+    "iso639-3": "mkj",
+    "latitude": "6.65651",
+    "longitude": "159.776",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Mokilese](https://endangeredlanguages.com/lang/4672)\n[Mokilese](https://grambank.clld.org/languages/moki1238)\n[Mokilese](https://lexibank.clld.org/languages/abvdoceanic-Mokilese)\n[Mokilese](https://wals.info/languoid/lect/wals_code_mok)\nhttps://en.wikipedia.org/wiki/Mokilese_language\nhttps://www.wikidata.org/entity/Q2335528"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1160**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:harrison:73**\n**cldf:harrison:albert:76**\n**cldf:harrison:albert:77**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:stolz:96**\n**hh:d:Harrison:Mokilese**\n**hh:g:Harrison:Mokilese**\n**hh:g:Harrison:Mokilese:1977**\n**sil16:23749**"
+  },
+  "altnames": {
+    "wals": "\nMokilese",
+    "ruhlen (1987)": "\nMokilese",
+    "moseley & asher (1994)": "\nMokilese",
+    "multitree": "\nMokil\nMokilese\nMoquilés\nMwoakilese\nMwoakiloa",
+    "lexvo": "\nMokilese [en]\nMokilese language [en]",
+    "elcat": "\nMokil\nMokilese\nMwoakilese\nMwoakiloa"
+  },
+  "triggers": {
+    "lgcode": "\nmokilese"
+  },
+  "identifier": {
+    "wals": "mok",
+    "multitree": "mkj",
+    "endangeredlanguages": "4672"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping** **hh:vphon:Hughes:Nauruan**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:vphon:Hughes:Nauruan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mokilese (4672-mkj) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

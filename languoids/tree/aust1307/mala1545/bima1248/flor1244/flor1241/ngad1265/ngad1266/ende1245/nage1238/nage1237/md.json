@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Nage",
+    "hid": "nxe",
+    "level": "language",
+    "iso639-3": "nxe",
+    "latitude": "-8.70513",
+    "longitude": "121.31",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2295569"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:erb:91**\n**cldf:forth:01**\n**cldf:forth:81**\n**cldf:forth:91**\n**cldf:forth:94**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:72**\n**cldf:mohamad:adam:etal:21**\n**cldf:morwood:sutikna:etal:09**\n**cldf:np:14:5**\n**hh:dial:Pita:Nagekeo**\n**hh:dial:Pita:Nagekeo:1984**\n**hh:e:Forth:Nage-Volcano**\n**hh:ld:Forth:Nage**\n**hh:ld:Forth:Nage:Birds**\n**hh:phondial:Pita:Nagekeo**"
+  },
+  "altnames": {
+    "multitree": "\nNage\nNage-Keo\nNagé",
+    "lexvo": "\nNage [en]"
+  },
+  "triggers": {
+    "lgcode": "\nnage"
+  },
+  "identifier": {
+    "multitree": "nxe"
+  },
+  "classification": {
+    "sub": "**hh:hvphont:Elias:Lio**:126-147 **hh:g:Baird:Keo**",
+    "subrefs": "\n**hh:hvphont:Elias:Lio**\n**hh:g:Baird:Keo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nage (nxe-nxe) = 5* (Developing)."
+  }
+}

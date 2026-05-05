@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kiai",
+    "hid": "frt",
+    "level": "language",
+    "iso639-3": "frt",
+    "latitude": "-15.4484",
+    "longitude": "166.931",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Fortsenal](https://lexibank.clld.org/languages/abvdoceanic-Fortsenal)\n[Kiai](https://endangeredlanguages.com/lang/4181)\nhttps://en.wikipedia.org/wiki/Kiai_language\nhttps://www.wikidata.org/entity/Q2666835"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4404**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:w:Ludvigson:Kiai**"
+  },
+  "altnames": {
+    "multitree": "\nFortsenal\nVanuatu",
+    "lexvo": "\nFortsenal [en]\nIdioma de kiai [es]\nKiai [bi]\nKiai language [en]\nКиаи [ru]",
+    "hhbib_lgcode": "\nFortsenal",
+    "elcat": "\nFortsenal\nKiai"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides\nkiai"
+  },
+  "identifier": {
+    "multitree": "frt",
+    "endangeredlanguages": "4181"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kiai (4181-frt) = Endangered (20 percent certain, based on the evidence available) [Lynch and Crowley 2001](cldf:lynch:crowley:01)"
+  }
+}

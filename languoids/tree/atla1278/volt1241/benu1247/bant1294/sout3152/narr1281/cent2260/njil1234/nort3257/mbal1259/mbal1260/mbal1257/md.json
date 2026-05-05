@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mbala",
+    "hid": "mdp",
+    "level": "language",
+    "iso639-3": "mdp",
+    "latitude": "-5.11888",
+    "longitude": "18.041",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mbala_language\nhttps://www.wikidata.org/entity/Q6799583"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:916**\n**cldf:torday:joyce:07**\n**cldf:torday:joyce:22**\n**eballiso2009:10592**\n**eballiso2009:18635**\n**eballiso2009:20738**\n**eballiso2009:20739**\n**eballiso2009:20741**\n**eballiso2009:20742**\n**eballiso2009:20743**\n**eballiso2009:24906**\n**eballiso2009:25996**\n**eballiso2009:27378**\n**eballiso2009:27379**\n**eballiso2009:28707**\n**eballiso2009:34310**\n**eballiso2009:34321**\n**eballiso2009:40027**\n**eballiso2009:41039**\n**eballiso2009:41481**\n**eballiso2009:41625**\n**eballiso2009:42506**\n**eballiso2009:49361**\n**eballiso2009:56656**\n**eballiso2009:5955**\n**eballiso2009:6921**\n**eballiso2009:9209**\n**hh:d:Mudindaa-Mbi:Mbala**\n**hh:e:duPierpoint:Bambala**\n**hh:ew:Torday:Mbala**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:he:Torday-Joyce:South-Western-Congo**\n**hh:he:TordayJoyce:Kasai-Kwango**\n**hh:he:Vansina:Congo**\n**hh:hew:TordayAthol:Bushongo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvtyp:Diata:Soonde-Suku-Mbala**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:s:Kosi:Mbala**\n**hh:s:Makila:Mbala**\n**hh:s:Makila:Mbala:1977**\n**hh:s:Mpoyi:Rumbala**\n**hh:s:Mutanda:Mbala**\n**hh:t:Kama:Mbala**\n**hh:typ:Ndolo:Gimbala**\n**hh:vld:Guldemann:Nebenpradikationen-Bantu**\n**hh:w:Gusimana:Kimbala**\n**hh:w:KoniBostoen:Kwilu-Lexique**\n**hh:w:NdoloMalasi:Mbala**\n**hh:w:Torday:Kwilu**\n**hh:w:Verhulpen:Balubaises**"
+  },
+  "altnames": {
+    "multitree": "\nGimbala\nMbala\nRumbala",
+    "lexvo": "\nMbala [en]",
+    "hhbib_lgcode": "\nBa-Mbala\nBambala\nBambala of Kwango\nGimbala\nH41_Mbala\nMbala (Kwilu)\nMbala 1 Ivukuna K51\nMbala 2 Yasa K51\nMbala 4 Mbela K51\nRumbala"
+  },
+  "triggers": {
+    "lgcode": "\ngimbala\nbahungana\nkimbala\nmbala"
+  },
+  "identifier": {
+    "multitree": "mdp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vansina:West-Central-Africa**:273-283 **hh:hv:Bastinetal:Bantu**",
+    "subrefs": "\n**hh:hv:Vansina:West-Central-Africa**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbala (mdp-mdp) = 6b (Threatened)."
+  }
+}

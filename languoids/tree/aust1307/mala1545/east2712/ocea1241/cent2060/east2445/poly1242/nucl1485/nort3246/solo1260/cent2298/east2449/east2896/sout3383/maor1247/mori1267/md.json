@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Moriori",
+    "level": "language",
+    "latitude": "-44.0",
+    "longitude": "-176.5",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NZ"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Moriori_language\nhttps://www.wikidata.org/entity/Q2741879",
+    "hid": "rrm",
+    "timespan": "1933-01-01/1933-01-01",
+    "iso639-3": "rrm"
+  },
+  "altnames": {
+    "multitree": "\nMoriori",
+    "hhbib_lgcode": "\nChatham Islands\nChatham Islands Maori\nMOR (Moriori)"
+  },
+  "identifier": {
+    "multitree": "mri-mor"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:dana:03**\n**cldf:islands:18**\n**cldf:keesing:84:2**\n**cldf:king:00:1**\n**cldf:moran:oliver:etal:21**\n**cldf:np:14:5**\n**cldf:skinner:23**\n**cldf:solomon:12**\n**cldf:sutton:80**\n**cldf:wiltshier:08**\n**cldf:zealand:14**\n**hh:e:Baucke:Moriori**\n**hh:e:Davletshin:Moriori**\n**hh:e:Dieffenbach:Chatham**\n**hh:e:Mair:Chatham**\n**hh:e:Shand:Moriori**\n**hh:e:Travers:Chatham**\n**hh:e:Travers:Chatham:1871**\n**hh:el:Clark:Moriori**\n**hh:ew:King:Moriori**\n**hh:hv:Harlow:Maori**\n**hh:ld:Clark:Maori-Moriori**\n**hh:ld:Clark:Moriori**\n**hh:typ:Middleton:Moriori**\n**hh:w:Deighton:Moriori**\n**hh:w:Rhys:Moriori**\n**hh:w:Taiuru:Moriori**\n**hh:w:Williams:Chatham**\n**iso6393:2019-007**"
+  },
+  "classification": {
+    "sub": "**hh:ld:Clark:Maori-Moriori** **hh:hv:Harlow:Maori**",
+    "subrefs": "\n**hh:hv:Harlow:Maori**\n**hh:ld:Clark:Maori-Moriori**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "NicholasEvans",
+    "date": "2021-03-19T08:57:00",
+    "comment": "Dre (NOCODE_Dre-NOCODE_Dre) = 10 (Extinct)."
+  }
+}

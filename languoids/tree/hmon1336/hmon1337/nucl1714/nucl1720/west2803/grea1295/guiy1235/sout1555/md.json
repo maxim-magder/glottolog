@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southern Guiyang Hmong",
+    "hid": "hmy",
+    "level": "language",
+    "iso639-3": "hmy",
+    "latitude": "26.3902",
+    "longitude": "106.481",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953553"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:ShearerHongkai:China**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:phon:Li:Hmong-Tieshi**\n**hh:w:Guizhou:Guizhou**\n**iso6393:2007-116**"
+  },
+  "altnames": {
+    "multitree": "\nHmo\nHmong\nHmong, Southern Guiyang\nHmung\nHsiung\nHunan Miao\nMiao\nSouthern Guiyang Hmong\nSouthern Guiyang Miao",
+    "lexvo": "\nSouthern Guiyang Hmong [en]\nSouthern Guiyang Miao [en]",
+    "hhbib_lgcode": "\nBaisuo\nGuiyang NW\nGuiyang NW (Tieshi)\nGuiyang SC (Hongyan)\nMiao-Southern Guiyang\nMiao-Tieshi-Qianxi County 黔西县铁石乡\nTieshi"
+  },
+  "triggers": {
+    "lgcode": "\ntieshi\nqianxixian"
+  },
+  "identifier": {
+    "multitree": "hmy"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Niederer:Hmong-Mjen** **hh:hv:Johnson:Far-Western-Hmongic**",
+    "subrefs": "\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:hv:Johnson:Far-Western-Hmongic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miao, Southern Guiyang (hmy-hmy) = 6a* (Vigorous). Language of recognized nationality: Miao."
+  }
+}

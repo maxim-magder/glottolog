@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kimki",
+    "hid": "sbt",
+    "level": "language",
+    "iso639-3": "sbt",
+    "latitude": "-4.2742",
+    "longitude": "140.884",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kimki](https://endangeredlanguages.com/lang/5147)\nhttps://www.wikidata.org/entity/Q6410160\nhttps://en.wikipedia.org/wiki/Kimki_language"
+  },
+  "classification": {
+    "family": "Evidence for a Sepik affiliation is too scant, though data is very scant too. No\nconvincing lexical relationship with Yetfa-Biksi **hh:hwsoc:Kim:Yetfa**.",
+    "familyrefs": "\n**hh:hv:Foley:Sepik:2013**\n**hh:hb:Hammarstrom:Least**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:10:2**\n**cldf:hammarstroem:17**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:SilzerClouse:Index**\n**hh:h:SilzerHeikkinen:Irian**\n**hh:h:Sugono:Indonesia**\n**hh:lde:Langeler:Sobger**\n**hh:w:Whitehouse:Kimgi**\n**hh:wsoc:Rumaropen:Kimki**"
+  },
+  "altnames": {
+    "multitree": "\nAipki\nBiksi\nKimgi\nKimki\nSukubatom\nSukubatong",
+    "lexvo": "\nKimki [en]",
+    "hhbib_lgcode": "\nAipki\nKimgi\nSukubatong",
+    "elcat": "\nAipki\nKimgi\nKimki\nSukubatom\nSukubatong"
+  },
+  "triggers": {
+    "lgcode": "\narbasi\nreimer\ngunung\nkimki\nkimgi\nragam"
+  },
+  "identifier": {
+    "multitree": "sbt",
+    "endangeredlanguages": "5147"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kimki (5147-sbt) = Threatened (40 percent certain, based on the evidence available) (Most domains.) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

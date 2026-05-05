@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Foma",
+    "hid": "fom",
+    "level": "language",
+    "iso639-3": "fom",
+    "latitude": "0.88032",
+    "longitude": "24.3202",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5464911\nhttps://en.wikipedia.org/wiki/Foma_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:208 **hh:h:Hulstaert:Cuvette-Congolaise**:22",
+    "subrefs": "\n**hh:h:Hulstaert:Cuvette-Congolaise**:22\n**hh:hv:Bastinetal:Bantu**:208"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:44250**\n**hh:e:Crine:Foma**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**"
+  },
+  "altnames": {
+    "multitree": "\nFoma\nFuma\nLifoma",
+    "lexvo": "\nFoma [en]",
+    "hhbib_lgcode": "\nLi-Foma or Lo-Kusu\nLokusu or Lofoma"
+  },
+  "triggers": {
+    "lgcode": "\nfoma\nyakusu"
+  },
+  "identifier": {
+    "multitree": "fom"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Foma (fom-fom) = 6a* (Vigorous)."
+  }
+}

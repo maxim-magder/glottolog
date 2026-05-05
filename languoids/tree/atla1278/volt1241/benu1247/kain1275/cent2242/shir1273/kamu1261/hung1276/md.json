@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Hungworo",
+    "hid": "nat",
+    "level": "language",
+    "iso639-3": "nat",
+    "latitude": "10.3243",
+    "longitude": "6.3024",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Hungworo](https://endangeredlanguages.com/lang/5014)\nhttps://www.wikidata.org/entity/Q3914395\nhttps://en.wikipedia.org/wiki/Hungworo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:lewis:ed:09**\n**hh:hsoc:Yoder:Yara**\n**hh:hvw:Rowlands:NNigeria**\n**hh:hwsoc:DettweilerDettweiler:Kamuku**\n**iso6393:2014-015**"
+  },
+  "altnames": {
+    "multitree": "\nHungworo\nIngwe\nIngwo\nNgwe\nNgwoi\nNkwoi\nUngwe",
+    "lexvo": "\nHungworo [en]",
+    "hhbib_lgcode": "\nHungworo (Ungwai)\nKamuku (Ngwoi)",
+    "elcat": "\nHungworo\nIngwe\nIngwo\nNgwe\nNgwoi\nNkwoi\nUngwe",
+    "glottolog": "\nCahungwarya\nCa̱hungwa̱rya̱\nHuŋgwəryə\nUngwai\nũngwāī"
+  },
+  "triggers": {
+    "lgcode": "\nhungworo"
+  },
+  "identifier": {
+    "multitree": "nat",
+    "endangeredlanguages": "5014"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hungworo (5014-nat) = Threatened (20 percent certain, based on the evidence available) [Blench 2011](cldf:blench:11:1)"
+  }
+}

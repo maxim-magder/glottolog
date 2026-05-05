@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bauchi",
+    "hid": "bsf",
+    "level": "language",
+    "iso639-3": "bsf",
+    "latitude": "10.2077",
+    "longitude": "6.61686",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34974\nhttps://en.wikipedia.org/wiki/Bauchi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Temple:NNigeria**\n**hh:hld:Harley:Sounds-Nigerian**\n**hh:hvw:Blench:WKainji**\n**hh:s:Gimba:Bauchi-Guda**\n**hh:wsoc:Decker:Bauchi-Fungwa**\n**iso6393:2022-022**"
+  },
+  "altnames": {
+    "multitree": "\nBauchi\nBauci\nBaushi\nKushi",
+    "lexvo": "\nBauchi [en]",
+    "hhbib_lgcode": "\nBauchi-Nguda\nBaushi\nMdaka\nNguda\nRubo\nSambaro\nSupana\nWayam\nWayam-Guda"
+  },
+  "triggers": {
+    "lgcode": "\ng AND guruntum\nguda"
+  },
+  "identifier": {
+    "multitree": "bsf"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bauchi (bsf-bsf) = 6b (Threatened)."
+  }
+}

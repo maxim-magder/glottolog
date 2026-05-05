@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "North Marquesan",
+    "hid": "mrq",
+    "level": "language",
+    "iso639-3": "mrq",
+    "latitude": "-8.89412",
+    "longitude": "-140.108",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PF"
+    ],
+    "links": "\n[Marquesan](https://lexibank.clld.org/languages/abvdoceanic-Marquesan)\n[North Marquesan](https://grambank.clld.org/languages/nort2845)\n[NorthMarquesan_38](https://lexibank.clld.org/languages/walworthpolynesian-NorthMarquesan)\nhttps://en.wikipedia.org/wiki/North_Marquesan_language\nhttps://phoible.org/languages/nort2845\nhttps://www.wikidata.org/entity/Q2603808"
+  },
+  "altnames": {
+    "multitree": "\nMarquesan\nMarquesan, North\nMarquesas\nMarquesas-Inseln Sprache",
+    "lexvo": "\nNorth Marquesan [en]",
+    "hhbib_lgcode": "\nMarquesan N\nMarquesan Ua Pou\nMarquesan-North\nMarquis\nNuku Hiva\nNukuhiva"
+  },
+  "triggers": {
+    "lgcode": "\nkohuotetua\nua AND pou\navivini\nhamani\nmarquises\nnukuhiva\nenana"
+  },
+  "identifier": {
+    "wals": "mrq",
+    "multitree": "mrq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Walworth:Eastern-Polynesian** **hh:hv:Marck:Polynesian**",
+    "subrefs": "\n**hh:hv:Walworth:Eastern-Polynesian**\n**hh:hv:Marck:Polynesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marquesan, North (mrq-mrq) = 7 (Shifting). Statutory language of national identity (2004, Organic Law, No. 2004-192, Article 57)."
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2282**\n**cldf:agency:09**\n**cldf:agency:14:2**\n**cldf:allen:04**\n**cldf:bellwood:95**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:delastatistiquedelapolynesiefrancaise:07**\n**cldf:ferdon:87**\n**cldf:ferdon:93**\n**cldf:forster:77**\n**cldf:handy:22**\n**cldf:handy:23**\n**cldf:keesing:84:2**\n**cldf:kirch:84**\n**cldf:labarre:34**\n**cldf:linton:23**\n**cldf:linton:39:1**\n**cldf:lisiansky:14**\n**cldf:miranda:64**\n**cldf:mutu:teikitutoua:02**\n**cldf:np:14:5**\n**cldf:np:18:2**\n**cldf:porter:23**\n**cldf:rallu:90**\n**cldf:sheahan:ed:52**\n**cldf:suggs:66**\n**cldf:suggs:71**\n**cldf:sullivan:23**\n**cldf:tautain:96**\n**cldf:tautain:97**\n**cldf:thomas:90**\n**cldf:thomas:91**\n**hh:g:Cablitz:Marquesan**\n**hh:g:Dumond:Marquisien**\n**hh:g:Zewen:Nukuhiva**\n**hh:gd:Dordillon:Marquises**\n**hh:hvw:Schooling:French-Polynesia**\n**hh:s:BuschmannHumboldt:Marquises**\n**hh:s:Lynch:Marquesan**\n**hh:s:Mutu:UaPou**\n**hh:s:MutuTeikitutoua:UaPou**\n**hh:w:Mosblech:Oceanien**\n**mpieva:Dordillon1999Grammair**\n**phoible:mrq_zewen1987**"
+  }
+}

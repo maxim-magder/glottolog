@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southern Puebla Mixtec",
+    "hid": "mit",
+    "level": "language",
+    "iso639-3": "mit",
+    "latitude": "18.2123",
+    "longitude": "-97.9572",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Northern Baja Mixtec](https://endangeredlanguages.com/lang/10534)\nhttps://en.wikipedia.org/wiki/Southern_Puebla_Mixtec\nhttps://www.wikidata.org/entity/Q7570345"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Garcia:Puebla**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Josserand:Mixteca**\n**hh:phon:Rueda:Xayacatlan**\n**hh:s:Vazquez:Mixteca-Sur-Puebla**\n**hh:t:Anonimo:Mixteca**\n**hh:typ:Mendez-Hord:Acatlan-Mixtec**\n**sil16:11962**"
+  },
+  "altnames": {
+    "multitree": "\nAcatlán Mixtec\nMixtec, Southern Puebla\nMixteco del Sur de Puebla\nSouthern Misteko\nSouthern Mixteco",
+    "lexvo": "\nSouthern Puebla Mixtec [en]",
+    "hhbib_lgcode": "\n126 Xayacatlan Bravo Mixtec Josserand 1983\n133 Zapotitlan Palmas Mixtec Josserand 1983\n16 singled out: Acatlán-Puebla\n41 San Jeronimo Xayacatlan Mixtec Dürr 1987; Josserand 1983\nAcatlán Mixtec\nJer\nJerónimo\nMixtec-Southern Puebla\nMixteca del sur de Puebla\nMixteco\nMixteco de San Jerónimo de Xayacatlán\nSan Jerónimo Xayacatlán\nSanta María Totoltepec de Guerrero\nTot\nXay\nXayacatlan B\nXayacatlán Mixtec\nXayacatlán de Bravo\nZap\nZapotitlan Palmas",
+    "elcat": "\nAcatlán Mixtec\nCentral Puebla Mixtec\nChazumba Mixtec\nChigmecatitlán Mixtec\nMixteco de Chazumba\nMixteco de Santa María Chigmecatitlán\nMixteco de la Frontera Puebla-Oaxaca\nMixteco de la frontera Puebla-Oaxaca\nMixteco del Sur de Puebla\nNorthern Baja Mixtec\nNorthern Oaxaca Mixtec\nSouthern Puebla Mixtec\nXayacatlán de Bravo"
+  },
+  "triggers": {
+    "lgcode": "\nup AND acatlan"
+  },
+  "identifier": {
+    "multitree": "mit",
+    "endangeredlanguages": "10534"
+  },
+  "classification": {
+    "sub": ": **hh:hv:Auderset:Mixtecan:2023**:17-18 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Baja Mixtec (10534) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

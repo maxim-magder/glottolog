@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ngando-Lalia",
+    "hid": "nxd",
+    "level": "language",
+    "iso639-3": "nxd",
+    "latitude": "-0.14363",
+    "longitude": "22.6231",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913277\nhttps://en.wikipedia.org/wiki/Ngando_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:maes:34**\n**cldf:rijek:37**\n**cldf:vanderkerken:44**\n**eballiso2009:17167**\n**eballiso2009:17547**\n**eballiso2009:21331**\n**eballiso2009:28707**\n**eballiso2009:29265**\n**eballiso2009:30284**\n**eballiso2009:33651**\n**eballiso2009:36718**\n**eballiso2009:40093**\n**eballiso2009:40472**\n**eballiso2009:5669**\n**eballiso2009:57961**\n**hh:b:Vinck:Bongando**\n**hh:d:Tuerlings:Longando**\n**hh:e:Kimura:Bongando**\n**hh:e:Lingomo:Bongando**\n**hh:e:Takeda:Ngandu**\n**hh:e:deRyck:Lalia-Ngolu**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:h:Motingea:Tshuapa-Lomela**\n**hh:hv:Mangulu:Fluvial-Bantoue**\n**hh:lde:Maes:Yasayama**\n**hh:s:Bosiyo:Lalia-Ngolu**\n**hh:s:Hulstaert:Bongando**\n**hh:s:Mangulu:Bokala-Nkole**\n**hh:s:Mangulu:Bongando**\n**hh:s:Motingea:Yasanyama**\n**hh:s:Walling:Ngando**\n**hh:typ:Iyoko:Longando**\n**hh:typsoc:Lofemba:Bokala**"
+  },
+  "altnames": {
+    "multitree": "\nLongandu\nNgando\nNgandu",
+    "lexvo": "\nNgando (Democratic Republic of Congo) [en]\nNgando [en]",
+    "hhbib_lgcode": "\nBakɛli\nBangando Meridionaux\nBokala en territoire Yahuma\nLalia\nLalia [lal]\nLongandó\nMongo n 220 of Hulstaert (1993:306)\nNgando\nNgando (Democratic Republic of Congo)\nNkoko Loholi\nYasanyama\nYasayama"
+  },
+  "triggers": {
+    "lgcode": "\nngandu\nbangando\nbongando\nlongando\nngolu\nyasayama"
+  },
+  "identifier": {
+    "multitree": "nxd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Bassin-Congolais**:27-28 **hh:hv:Bastinetal:Bantu**:206",
+    "subrefs": "\n**hh:hv:Mangulu:Bassin-Congolais**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngando (nxd-nxd) = 6a* (Vigorous)."
+  }
+}

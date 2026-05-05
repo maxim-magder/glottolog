@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sama Mum",
+    "hid": "ccg",
+    "level": "language",
+    "iso639-3": "ccg",
+    "latitude": "8.06905",
+    "longitude": "11.7077",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Samba Daka](https://grambank.clld.org/languages/samb1311)\nhttps://www.wikidata.org/entity/Q33120805"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**eballiso2009:29255**\n**eballiso2009:39198**\n**hh:d:BoydSaad:Chamba**\n**hh:e:Fardon:Chamba**\n**hh:e:Fardon:Chamba:1988**\n**hh:h:Temple:NNigeria**\n**hh:hew:Meek:Tribal:I**\n**hh:hv:Bennett:Adamawa-Eastern**\n**hh:hv:Blench:NBantoid**\n**hh:hv:Boyd:Chamba-Daka.Bantoid**\n**hh:hvw:Boyd:Adamawa:1988**\n**hh:hvw:Boyd:Chamba-Daka**\n**hh:hw:Strumpell:Adamauas**\n**hh:s:Boyd:Chamba-Daka**\n**hh:typ:Boyd:Tchamba-Daka**\n**sil16:16245**"
+  },
+  "altnames": {
+    "multitree": "\nChamba Daka\nDaka\nDakka\nDekka\nDeng\nJama\nNakanyare\nSama\nSamba\nSamba Daka\nTchamba\nTikk\nTsamba",
+    "lexvo": "\nSamba Daka [en]",
+    "hhbib_lgcode": "\nChamba Daka\nChamba Daka Taram\nChamba or Tshamba\nDaka\nGandole Meek (1931)\nKiri Edwards ms.\nMapeo and Nnakenyaare\nMapeo from Boyd (1994)\nNnakenyare\nNnakenyare from Boyd (1994)/Blench ms\nSamba Daka\nTschamba-Daka",
+    "glottolog": "\nSamba Daka"
+  },
+  "triggers": {
+    "lgcode": "\nNOT to AND of AND chamba\ndaka\nchamba"
+  },
+  "identifier": {
+    "multitree": "ccg"
+  },
+  "classification": {
+    "sub": "**hh:vw:Blench:Dong**",
+    "subrefs": "\n**hh:vw:Blench:Dong**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samba Daka (ccg-ccg) = 5* (Developing)."
+  }
+}

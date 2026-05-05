@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Nhanda",
+    "hid": "nha",
+    "level": "language",
+    "iso639-3": "nha",
+    "latitude": "-27.42523643",
+    "longitude": "114.2680442",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Nhanda](https://grambank.clld.org/languages/nhan1238)\n[Nhanda](https://wals.info/languoid/lect/wals_code_nha)\n[Nhanta](https://endangeredlanguages.com/lang/5965)\n[Nhanta](https://lexibank.clld.org/languages/bowernpny-Nhanta)\nhttps://en.wikipedia.org/wiki/Nhanda_language\nhttps://phoible.org/languages/nhan1238\nhttps://www.wikidata.org/entity/Q3339380"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blevins:Nhanta**",
+    "subrefs": "\n**hh:hv:Blevins:Nhanta**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:thieberger:96**\n**cldf:tryon:07**\n**hh:g:Blevins:Nhanda**\n**hh:hv:Blevins:Nhanta**\n**iso6393:2006-021**\n**ozbib:1073**\n**ozbib:2188**\n**ozbib:2190**\n**ozbib:2191**\n**ozbib:2308**\n**ozbib:3393**\n**ozbib:3601**\n**ozbib:3688**\n**ozbib:5628**\n**ozbib:646**\n**ozbib:650**\n**ozbib:651**\n**ozbib:652**\n**ozbib:653**\n**ozbib:6564**\n**ozbib:7010**"
+  },
+  "altnames": {
+    "wals": "\nNhanda",
+    "wals other": "\nNanda",
+    "ruhlen (1987)": "\nNhanda",
+    "moseley & asher (1994)": "\nNhanda",
+    "multitree": "\nAmangu\nBulgulu\nBuluguda\nChampion Bay tribe\nDaguda\nEau\nEaw\nJau\nNanda\nNanta\nNhanda\nNhanta\nNubda\nNunta\nTamala\nWatchandi\nWatchandie\nWathandi\nWatjandi\nWilunya\nYau\nYaw",
+    "lexvo": "\nNhanda [en]\nNhanda language [en]\nNhanta [fr]",
+    "elcat": "\nAmangu\nBulgulu\nBuluguda\nChampion Bay tribe\nDaguda\nEau\nEaw\nJau\nNanda\nNanta\nNhanda\nNhanta\nNubda\nNunta\nTamala\nWatchandi\nWatchandie\nWathandi\nWatjandi\nWilunya\nYau\nYaw"
+  },
+  "triggers": {
+    "lgcode": "\nnhanda\nnhanta"
+  },
+  "identifier": {
+    "wals": "nha",
+    "multitree": "nha",
+    "endangeredlanguages": "5965"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nhanta (5965-nha) = Critically Endangered (20 percent certain, based on the evidence available) [Thieberger 1996](cldf:thieberger:96)"
+  }
+}

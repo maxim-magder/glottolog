@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ru'us al-Jibal",
+    "hid": "ssh",
+    "level": "language",
+    "iso639-3": "ssh",
+    "latitude": "25.939",
+    "longitude": "56.1711",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AE",
+      "OM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56571\nhttps://en.wikipedia.org/wiki/Shihhi_Arabic"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Sihhi:Ruus-Jibal**\n**hh:e:Dostal:Shihuh**\n**hh:s:Bernabela:Sihhi**\n**hh:t:Bettega:Musandam-Arabic**\n**hh:typ:Anonby:Musandam-Arabic**\n**hh:vld:Shockley:Ruus-Jibal**\n**hh:w:Jayakar:Shahee**"
+  },
+  "altnames": {
+    "multitree": "\nAl-Shihuh\nArabic\nArabic, Shihhi Spoken\nShihhi\nShihhi Arabic\nShihu\nShihuh",
+    "lexvo": "\nShihhi Arabic [en]\nShihhi arapski [hr]\nÁrabe chíji [es]\nШихи арапски јазик [mk]",
+    "hhbib_lgcode": "\nMusandam Arabic\nRuʾūs al-Jibāl Arabic\nShahee\nShihhi Arabic\nShihuh",
+    "glottolog": "\nShihhi Arabic"
+  },
+  "triggers": {
+    "lgcode": "\nshih"
+  },
+  "identifier": {
+    "multitree": "ssh"
+  },
+  "classification": {
+    "sub": "**hh:hvld:FischerJastrow:Arabischen**:24-25 **hh:vld:Shockley:Ruus-Jibal**",
+    "subrefs": "\n**hh:hvld:FischerJastrow:Arabischen**\n**hh:vld:Shockley:Ruus-Jibal**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Shihhi (ssh-ssh) = 6a* (Vigorous)."
+  }
+}

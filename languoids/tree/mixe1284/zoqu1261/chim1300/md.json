@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Chimalapa Zoque",
+    "hid": "zoh",
+    "level": "language",
+    "iso639-3": "zoh",
+    "latitude": "16.6543",
+    "longitude": "-94.6913",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Oaxaca Zoque](https://endangeredlanguages.com/lang/626)\n[San Miguel Chimalapa Zoque](https://lexibank.clld.org/languages/wichmannmixezoquean-SanMiguelChimalapaZoque)\n[Zoque (Chimalapa)](https://wals.info/languoid/lect/wals_code_zch)\nhttps://en.wikipedia.org/wiki/Chimalapa_Zoque\nhttps://phoible.org/languages/chim1300\nhttps://www.wikidata.org/entity/Q5099289"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3811**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:09:4**\n**cldf:np:nd:212**\n**hh:d:KaufmanJohnson:Zoque**\n**hh:e:Trejo:Zoques**\n**hh:g:Jimenez:Zoque-Chimalapa**\n**hh:g:Johnson:Zoque**\n**hh:phon:Knudson:Chimalapa-Zoque**\n**hh:s:Cruz:Zoque**\n**hh:s:Jimenez:Zoque-Chimalapa**\n**hh:s:Knudson:Zoque**\n**hh:w:deCoruna:Zoque**"
+  },
+  "altnames": {
+    "wals": "\nZoque (Chimalapa)",
+    "wals other": "\nZoque (San Miguel Chimalapa)",
+    "ruhlen (1987)": "\nSokean",
+    "moseley & asher (1994)": "\nZoque",
+    "multitree": "\nOaxaca Soke\nSoke\nZoque\nZoque (Chimalapa)\nZoque, Chimalapa",
+    "lexvo": "\nChimalapa Zoque [en]",
+    "hhbib_lgcode": "\nZoque Chimalapa",
+    "elcat": "\nChimalapa Zoque\nOaxaca Zoque\nZoque\nZoque (Chimalapa)"
+  },
+  "triggers": {
+    "lgcode": "\nchimalapa"
+  },
+  "identifier": {
+    "wals": "zch",
+    "multitree": "zoh",
+    "endangeredlanguages": "626"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Oaxaca Zoque (626-zoh) = Threatened (20 percent certain, based on the evidence available) [n.a. 2009](cldf:np:09:4)"
+  }
+}

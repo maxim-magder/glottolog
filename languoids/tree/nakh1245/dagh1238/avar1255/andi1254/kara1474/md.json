@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Karata-Tukita",
+    "hid": "kpt",
+    "level": "language",
+    "iso639-3": "kpt",
+    "latitude": "42.6501",
+    "longitude": "46.3151",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Karata-Tukita_language\n[Karata](https://endangeredlanguages.com/lang/2367)\nhttps://phoible.org/languages/kara1474\n[Karata](https://wals.info/languoid/lect/wals_code_krt)\nhttps://www.wikidata.org/entity/Q56636"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2151**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gudava:64**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:magomedbekova:71**\n**cldf:np:nd:264**\n**hh:ed:Chanakhanov:Tukita**\n**hh:g:Magomedbekova:Karatinskij**\n**hh:hld:Dirr:Kaukasischen**\n**hh:phontyp:Gadzieva:Tukitinskogo**\n**hh:s:Dalgatov:Siwuxskij**\n**hh:s:Pasquereau:Karata**\n**hh:sd:Megomedova:Karatinsko**\n**hh:typ:Pasquereau:Karata**\n**mpieva:Magomedova2001Karatins**"
+  },
+  "altnames": {
+    "wals": "\nKarata",
+    "wals other": "\nKaratay",
+    "ruhlen (1987)": "\nKarata",
+    "moseley & asher (1994)": "\nKarata",
+    "multitree": "\nKarata\nKaratai\nKaratin\nKirdi",
+    "lexvo": "\nKarata [ca]\nKarata language [en]",
+    "hhbib_lgcode": "\nKarata\nKaratinskij\nSiwuxskij\nTukita\nTukitinskogo",
+    "elcat": "\nKarata\nKaratai\nKaratin\nKirdi\nКIкIирлIи мацIцIи\nкаратинский язык\nკარატაული ენა",
+    "glottolog": "\nKarata"
+  },
+  "triggers": {
+    "lgcode": "\nkaratinsko\nkaratinskij\nkarata"
+  },
+  "identifier": {
+    "wals": "krt",
+    "multitree": "kpt",
+    "endangeredlanguages": "2367"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudava:Andijskix**",
+    "subrefs": "\n**hh:hv:Gudava:Andijskix**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Karata (2367-kpt) = Threatened (20 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

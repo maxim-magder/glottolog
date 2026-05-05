@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bhojpuri",
+    "hid": "bho",
+    "level": "language",
+    "iso639-3": "bho",
+    "latitude": "26.458455",
+    "longitude": "84.817115",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Bhojpuri](https://grambank.clld.org/languages/bhoj1244)\n[Bhojpuri](https://wals.info/languoid/lect/wals_code_bho)\nhttps://en.wikipedia.org/wiki/Bhojpuri_language\nhttps://phoible.org/languages/bhoj1244\nhttps://www.wikidata.org/entity/Q33268"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cardona:jain:ed:03:3**\n**cldf:cohn:58**\n**cldf:cohn:nd**\n**cldf:dube:56**\n**cldf:luschinsky:63**\n**cldf:luschinsky:71**\n**cldf:opler:56**\n**cldf:opler:singh:52**\n**cldf:opler:singh:54**\n**cldf:pandey:72**\n**cldf:rowe:60**\n**cldf:trammell:71**\n**eballiso2009:13522**\n**eballiso2009:19840**\n**eballiso2009:20749**\n**eballiso2009:31939**\n**eballiso2009:34260**\n**eballiso2009:39906**\n**eballiso2009:40795**\n**eballiso2009:49065**\n**eballiso2009:49623**\n**eballiso2009:49624**\n**eballiso2009:51336**\n**eballiso2009:53803**\n**eballiso2009:53904**\n**eballiso2009:8769**\n**eballiso2009:8774**\n**hh:g:Boodhoo:Bhojpuri:2010**\n**hh:g:Das:Banarasi-Bhojpuri**\n**hh:g:Shukla:Bhojpuri**\n**hh:g:Shukla:Bhojpuri:1968**\n**hh:g:Thakur:Bhojpuri**\n**hh:hs:Kellogg:Hindi**\n**hh:hsoc:Mishra:Bhojpuri**\n**hh:hv:Regmi:Tarai**\n**hh:hvs:Tiwari:Bhojpuri**\n**hh:hvw:Grierson:5:II**\n**hh:hw:Hale:Nepal**\n**hh:ld:BakerRahnah:Mauritian-Bhojpuri**\n**hh:ld:Mesthrie:Bhojpuri-South-Africa**\n**hh:s:Beames:Bhojpuri**\n**hh:s:Boodhoo:Bhojpuri**\n**hh:s:Grierson:Bhojpuri**\n**hh:s:Tivari:Bhojpuri**\n**hh:s:Verma:Bhojpuri**\n**hh:soc:Laskar:Milky-Shaikhs**\n**hh:soc:Mesthrie:Bhojpuri**\n**hh:soc:Singh:Champaran**\n**hh:st:Hertig-Skalicka:Bhojpuri**\n**hh:sv:Domingue:Bhojpuri**\n**hh:t:Thakur:Bhojpuri**\n**hh:wsoc:ThakurRegmi:Bhojpuri**\n**ldh:item_2152218**\n**ldh:item_2152221**\n**ldh:item_2152224**\n**ldh:item_408234**\n**mpieva:Pandey2003Acompara**\n**mpieva:Tiwari2001Theorigi**\n**sil16:10016**\n**sil16:11178**\n**sil16:24546**\n**sil16:26453**\n**sil16:26456**"
+  },
+  "altnames": {
+    "wals": "\nBhojpuri",
+    "ruhlen (1987)": "\nBhojpuri",
+    "moseley & asher (1994)": "\nBhojpuri",
+    "multitree": "\nBajpuri\nBhojapuri\nBhojpuri\nBhojpuriya\nBhozpuri\nBihari\nDeswali\nHindusthani\nKhotla\nPiscimas",
+    "lexvo": "\nBahasa Bhojpur [ms]\nBahasa Bhojpuri [id]\nBhodjpouri [fr]\nBhodjpuri [nn]\nBhodžpuri keel [et]\nBhojpuri [da]\nBhojpuri language [en]\nBhojpurština [cs]\nBodjpoureg [br]\nIdioma bopurí [es]\nJęzyk bhodźpuri [pl]\nLingua Bhojpuri [la]\nLingua bhojpuri [gl]\nLíngua bhojpuri [pt]\nbhojpuri [fr]\nБходжпури [ru]\nБходжпурі [uk]\nبوجبوري [ar]\nभोजपुरी भाषा [hi]\nભોજપુરી ભાષા [gu]\nபோச்புரி [ta]\nಭೋಜಪುರಿ [kn]\nภาษาโภชปุรี [th]\nბოჯპური [ka]\nボージュプリー語 [ja]\n博杰普尔语 [zh]",
+    "hhbib_lgcode": "\nBanarsi Bhojpuri\nBihari Champaran\nGorakhpuri\nMadhesi\nMauritian Bhojpuri\nMauritius Bhojpuri\nMilky Shaikhs\nNorthern Standard Bhojpuri\nPurbi\nSarawaria\nSarwaria\nW Bhojpuri Azamgarh\nW Bhojpuri Jaunpur similar to Azamgarh"
+  },
+  "triggers": {
+    "lgcode": "\ncreolophone\nshahabao\nsaran\npredominantly\nchamparan\nballia\nbhojpuri\nskeleton\nbanarasi\nresided\nindianness\ncoolies\nbehar\npaysage\ntransplanted"
+  },
+  "identifier": {
+    "wals": "bho",
+    "multitree": "bho"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jeffers:Bihari** **hh:hvld:PaudyalPeterson:Sadani**",
+    "subrefs": "\n**hh:hv:Jeffers:Bihari**\n**hh:hvld:PaudyalPeterson:Sadani**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bhojpuri (bho-bho) = 5* (Developing)."
+  }
+}

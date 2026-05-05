@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Harari",
+    "hid": "har",
+    "level": "language",
+    "iso639-3": "har",
+    "latitude": "9.30485",
+    "longitude": "42.1332",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Harari](https://lexibank.clld.org/languages/felekesemitic-Harari)\n[Harari](https://wals.info/languoid/lect/wals_code_hrr)\nhttps://en.wikipedia.org/wiki/Harari_language\nhttps://phoible.org/languages/hara1271\nhttps://www.wikidata.org/entity/Q33626"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:rose:nd**\n**eballiso2009:12116**\n**eballiso2009:12131**\n**eballiso2009:12717**\n**eballiso2009:12737**\n**eballiso2009:15057**\n**eballiso2009:15058**\n**eballiso2009:15059**\n**eballiso2009:15625**\n**eballiso2009:15629**\n**eballiso2009:16189**\n**eballiso2009:1910**\n**eballiso2009:20015**\n**eballiso2009:20018**\n**eballiso2009:22340**\n**eballiso2009:22341**\n**eballiso2009:22679**\n**eballiso2009:23386**\n**eballiso2009:23390**\n**eballiso2009:24524**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:25141**\n**eballiso2009:29877**\n**eballiso2009:32534**\n**eballiso2009:32607**\n**eballiso2009:32612**\n**eballiso2009:3347**\n**eballiso2009:3419**\n**eballiso2009:34656**\n**eballiso2009:37027**\n**eballiso2009:38089**\n**eballiso2009:42433**\n**eballiso2009:4489**\n**eballiso2009:45878**\n**eballiso2009:46696**\n**eballiso2009:47012**\n**eballiso2009:47016**\n**eballiso2009:4705**\n**eballiso2009:48463**\n**eballiso2009:50619**\n**eballiso2009:53689**\n**hh:d:Leslau:Harari**\n**hh:d:Qorram:Harari**\n**hh:e:Gibb:Harari**\n**hh:g:Cerulli:Harar**\n**hh:g:Mitiku:Harari**\n**hh:hv:Leslau:Ethiopia**\n**hh:hvw:Beke:Abyssinia**\n**hh:ld:Wagner:Harari**\n**hh:s:Bizirova:Xarari**\n**hh:s:Burton:Harari**\n**hh:s:Cohen:Harari**\n**hh:s:Leslau:Harari**\n**hh:s:Littmann:Harari**\n**hh:s:Mondon:Harari**\n**hh:s:Naji:Harari**\n**hh:s:Praetorius:Harar**\n**hh:s:Wagner:Gurage:2011**\n**hh:s:Wagner:Harari**\n**hh:sd:Leslau:Harari**\n**hh:st:GaradWagner:Harari**\n**hh:typ:Mitiku:Harari**\n**hh:typ:Tayech:Harari**\n**hh:vw:Leslau:Harari**\n**hh:w:Bricchetti-Robecchi:Somali-Galla-Harari**\n**mpieva:Cohen1931EtudesdE**\n**sil16:37544**\n**sil16:42575**\n**sil16:44374**"
+  },
+  "altnames": {
+    "wals": "\nHarari",
+    "wals other": "\nAdare\nHarari",
+    "ruhlen (1987)": "\nHarari",
+    "moseley & asher (1994)": "\nHarari",
+    "multitree": "\nAdare\nAdarinnya\nAdere\nAderinya\nGey Sinan\nHarari\nHararri",
+    "lexvo": "\nHarari [de]\nHarari jezik [hr]\nHarari language [en]\nHararieg [br]\nHararščina [sl]\nJęzyk harari [pl]\nLlengua harari [ca]",
+    "hhbib_lgcode": "\nAdäre\nHạ́rrargie (= Harari)\nXarari"
+  },
+  "triggers": {
+    "lgcode": "\nharar\nharari\nmargherita\nlovers\ndescente\nnumerali\ndethiopien\nnachtrage\nharars"
+  },
+  "identifier": {
+    "wals": "hrr",
+    "multitree": "har"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:v:BulakhKogan:Ethiopian-Semitic:2014**",
+    "subrefs": "\n**hh:v:BulakhKogan:Ethiopian-Semitic:2014**\n**hh:hv:Weninger:Ethio-Semitic**\n**hh:hv:Voigt:North-South-Ethiopian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Harari (har-har) = 5* (Developing)."
+  }
+}

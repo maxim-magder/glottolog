@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Mehri",
+    "hid": "gdq",
+    "level": "language",
+    "iso639-3": "gdq",
+    "latitude": "16.793",
+    "longitude": "52.473",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KW",
+      "OM",
+      "YE"
+    ],
+    "links": "\n[Mehri](https://endangeredlanguages.com/lang/4202)\nhttps://www.wikidata.org/entity/Q13361\nhttps://en.wikipedia.org/wiki/Mehri_language\nhttps://phoible.org/languages/mehr1241\n[Mehri](https://wals.info/languoid/lect/wals_code_meh)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3628**\n**cldf:bauer:91**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lonnet:simeone-senelle:97**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:sima:09**\n**cldf:simeone-senelle:97**\n**cldf:stroomer:99**\n**hh:d:Al-Mahri_Mahriya**\n**hh:d:Johnstone:Mehri**\n**hh:e:Henninger:Pariastamme-Arabien**\n**hh:g:Abdullah:Mehri-Qishn**\n**hh:g:Bittner:Mehri**\n**hh:g:Rubin:Mehri**\n**hh:g:Wagner:Mehri**\n**hh:g:Watson:Mehri**\n**hh:g:Watson:Mehri:2020**\n**hh:gt:Rubin:Omani-Mehri**\n**hh:hv:Johnstone:Modern-South-Arabian**\n**hh:hv:Simeone-Senelle:MSA**\n**hh:hv:Simeone-Simelle:SouthArabian**\n**hh:ld:Fresnel:Hhimiarite**\n**hh:s:Rubin:Mehri**\n**hh:s:Thomas:Hadara**\n**hh:styp:Al-Qumairi:Mehri**\n**hh:typ:Al-Qumairi:Mahri**\n**hh:typ:Kungl:Mehri**\n**hh:typ:Rhodokanakis:Mehri**\n**hh:v:Rubin:Mehri-Jibbali**\n**hh:w:Krapf:Sudlichen-Arabien**\n**hh:w:MorrisWatson:Modern-South-Arabian**\n**hh:w:Nakano:Southern-Arabic**"
+  },
+  "altnames": {
+    "wals": "\nMehri",
+    "wals other": "\nMahri",
+    "ruhlen (1987)": "\nMehri",
+    "moseley & asher (1994)": "\nSouth Arabian",
+    "multitree": "\nMahri\nMehri\nMehrī\nMeḥri",
+    "lexvo": "\nBahasa Mehri [ms]\nIdioma mehrí [an]\nMahri hizkuntza [eu]\nMehreg [br]\nMehri [de]\nMehri language [en]\nMéhri [fr]\nSydarabiska språk [sv]\nلغة مهرية [ar]\nภาษาเมห์รี [th]",
+    "hhbib_lgcode": "\nBautāhara und Jeneba vanishing tribe of fishermen who speak a dialect of Mehri\nMahara\nMahra\nMahri\nWestern Yemeni Mehri",
+    "elcat": "\nMahri\nMehri\nMehrī\nMeḥri"
+  },
+  "triggers": {
+    "lgcode": "\nsemitskie\nmehri"
+  },
+  "identifier": {
+    "wals": "meh",
+    "multitree": "gdq",
+    "endangeredlanguages": "4202"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rubin:Semitic**:75-76 **hh:hvw:Kogan:Semitic:2015**",
+    "subrefs": "\n**hh:hvw:Kogan:Semitic:2015**\n**hh:hv:Rubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mehri (4202-gdq) = At risk (20 percent certain, based on the evidence available) [Rubin 2010](cldf:rubin:10:2)"
+  }
+}

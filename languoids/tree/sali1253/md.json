@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Salinan",
+    "hid": "sln",
+    "level": "language",
+    "iso639-3": "sln",
+    "latitude": "36.18753",
+    "longitude": "-121.05221",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Salinan](https://grambank.clld.org/languages/sali1253)\n[Salinan](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Salinan)\n[Salinan](https://wals.info/languoid/lect/wals_code_sal)\nhttps://en.wikipedia.org/wiki/Salinan_language\nhttps://www.wikidata.org/entity/Q1568938",
+    "timespan": "1960-01-01/1960-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dryer:89:1**\n**cldf:gifford:26:1**\n**cldf:harrington:42**\n**cldf:kroeber:ed:04**\n**cldf:nichols:92**\n**cldf:sapir:ed:46:4**\n**cldf:turner:80**\n**hh:b:Turner:Salinan**\n**hh:d:Shaul:Salinan**\n**hh:e:Hester:Salinan**\n**hh:e:Mason:Salinan**\n**hh:g:Mason:Salinan**\n**hh:g:Turner:Salinan**\n**hh:gtv:Shaul:Salinan**\n**hh:hew:Hale:Philology**\n**hh:hs:Kroeber:SCoast**\n**hh:hv:Turner:Salinan**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:hw:Scouler:NWCoast**\n**hh:typ:Dryer:Salinan**\n**hh:w:Heizer:Pinart**\n**hh:w:Sitjar:San-Antonio**\n**ldh:item_406860**\n**mpieva:Pinart1952TheMissi**"
+  },
+  "altnames": {
+    "wals": "\nSalinan",
+    "ruhlen (1987)": "\nSalinan",
+    "moseley & asher (1994)": "\nSalinan",
+    "multitree": "\nSalinan\nUSA",
+    "lexvo": "\nIdioma salinero [es]\nSalinan [en]\nSalinan language [en]\nСалинский язык [ru]",
+    "hhbib_lgcode": "\nAntoniano\nMainly San Antoniano\nMigueleño\nSan Antonio\nSan Antonio de Padua\nSan Miguel\nSant Antonio"
+  },
+  "triggers": {
+    "lgcode": "\nof AND salinan"
+  },
+  "identifier": {
+    "wals": "genus/salinan",
+    "multitree": "sln"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Antoniano (838-sln) = Extinct; Migueleño (839-sln) = Extinct"
+  }
+}

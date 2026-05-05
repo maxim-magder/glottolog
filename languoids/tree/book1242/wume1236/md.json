@@ -1,0 +1,21 @@
+{
+  "core": {
+    "name": "Wumeng Yi",
+    "level": "language",
+    "iso639-3": "ywm",
+    "hid": "ywm"
+  },
+  "iso_retirement": {
+    "comment": "Wumeng and Wusa have long been recognized as distinct varieties of Nasu, but\nWumeng is spoken primarily in Guizhou Province with some speakers also living in\nYunnan Province (thus matching the [ywu] profile), and Wusa is spoken only in\nGuizhou Province (thus matching the [yig] profile). The Ethnologue profile\nassociated with [ywm], however, claims that the language is spoken only in\nYunnan. The confusion, then, can likely be traced back to a lack of\nunderstanding regarding a single variety spoken on both sides of a provincial\nline. Thus, [ywm] should be merged into [ywu], the [ywu] reference name should\nbe changed to reflect the Wumeng distinction, and the [yig] reference name\nshould be changed to reflect the Wusa distinction (cf. the related [ywu] and\n[yig] reference name change applications).",
+    "code": "ywm",
+    "name": "Wumeng Yi",
+    "effective": "2008-01-14",
+    "reason": "merge",
+    "remedy": "Merge into Wusa Yi [ywu], renamed Wumeng Nasu (cf. 2007-038)",
+    "change_request": "2007-037",
+    "change_to": "\nywu"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-037**"
+  }
+}

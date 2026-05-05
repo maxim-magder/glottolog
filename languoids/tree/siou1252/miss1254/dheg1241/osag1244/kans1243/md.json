@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kansa",
+    "hid": "ksk",
+    "level": "language",
+    "iso639-3": "ksk",
+    "latitude": "39.0",
+    "longitude": "-94.4",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Kanza](https://endangeredlanguages.com/lang/4444)\nhttps://en.wikipedia.org/wiki/Kansa_language\nhttps://www.wikidata.org/entity/Q3192772",
+    "timespan": "1983-01-01/1983-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:258**\n**cldf:np:nd:264**\n**hh:d:CumberlandRankin:Kaw**\n**hh:e:BaileyYoung:Kansa**\n**hh:st:McBrideCumberland:Kanza**\n**hh:w:Rankin:Kansa**"
+  },
+  "altnames": {
+    "multitree": "\nKansa\nKansas\nKanze\nKaw\nKonze\nOsage\nOsague",
+    "lexvo": "\nKansa [en]",
+    "elcat": "\nKansa\nKansas\nKanza\nKanze\nKaw\nKonze"
+  },
+  "triggers": {
+    "lgcode": "\nkansa\nmaximilian\nwied\nkanza\nprince"
+  },
+  "identifier": {
+    "multitree": "ksk",
+    "endangeredlanguages": "4444"
+  },
+  "classification": {
+    "sub": "**hh:s:Rankin:Quapaw**:455",
+    "subrefs": "\n**hh:s:Rankin:Quapaw**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kanza (4444-ksk) = Awakening [n.a. n.d.](cldf:np:nd:258)"
+  }
+}

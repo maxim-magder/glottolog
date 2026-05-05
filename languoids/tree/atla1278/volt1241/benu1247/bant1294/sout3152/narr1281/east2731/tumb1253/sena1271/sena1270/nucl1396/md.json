@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sena",
+    "hid": "seh",
+    "level": "language",
+    "iso639-3": "seh",
+    "latitude": "-19.7933",
+    "longitude": "34.9829",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MW",
+      "MZ"
+    ],
+    "links": "\n[Sena](https://wals.info/languoid/lect/wals_code_sen)\nhttps://en.wikipedia.org/wiki/Sena_language\nhttps://www.wikidata.org/entity/Q2964008"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:97:1**\n**cldf:maugham:10**\n**cldf:menteirolopez:06**\n**cldf:schebesta:26**\n**eballiso2009:11135**\n**eballiso2009:11136**\n**eballiso2009:12875**\n**eballiso2009:13815**\n**eballiso2009:21280**\n**eballiso2009:21575**\n**eballiso2009:21589**\n**eballiso2009:23276**\n**eballiso2009:24340**\n**eballiso2009:24441**\n**eballiso2009:26990**\n**eballiso2009:28707**\n**eballiso2009:291**\n**eballiso2009:292**\n**eballiso2009:294**\n**eballiso2009:295**\n**eballiso2009:296**\n**eballiso2009:2992**\n**eballiso2009:2993**\n**eballiso2009:32333**\n**eballiso2009:32334**\n**eballiso2009:33766**\n**eballiso2009:33769**\n**eballiso2009:34075**\n**eballiso2009:35201**\n**eballiso2009:35206**\n**eballiso2009:3600**\n**eballiso2009:36112**\n**eballiso2009:36284**\n**eballiso2009:36469**\n**eballiso2009:36977**\n**eballiso2009:38250**\n**eballiso2009:39400**\n**eballiso2009:39401**\n**eballiso2009:41035**\n**eballiso2009:43987**\n**eballiso2009:44149**\n**eballiso2009:44425**\n**eballiso2009:45149**\n**eballiso2009:46867**\n**eballiso2009:48434**\n**eballiso2009:50377**\n**eballiso2009:50398**\n**eballiso2009:50399**\n**eballiso2009:5157**\n**eballiso2009:5166**\n**eballiso2009:52198**\n**eballiso2009:52793**\n**eballiso2009:53897**\n**eballiso2009:54670**\n**eballiso2009:6311**\n**eballiso2009:6728**\n**eballiso2009:7241**\n**eballiso2009:7655**\n**hh:d:Alves:Chisena**\n**hh:e:Maugham:Zambezia**\n**hh:g:Torrend:Chisena**\n**hh:hew:Johnston:British-Central-Africa**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:deOrnelas:Mocambique**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Bleek:Mosambique**\n**hh:s:Alves:Chisena**\n**hh:s:Anderson:Sena**\n**hh:s:Funnell:Sena**\n**hh:s:KishindoLipenga:Cisena**\n**hh:s:Moreira:Sena**\n**hh:s:Schebesta:Cafre**\n**hh:s:vanderMohl:Tete**\n**hh:soc:VintonVinton:Chuwabu**\n**hh:vld:Ferandes:Cafre**\n**hh:vwtyp:Dupeyron:Chi-Yao**\n**hh:w:Cabral:Vocabulario**\n**sil16:40755**\n**sil16:40757**\n**sil16:43167**\n**sil16:44981**\n**sil16:44983**\n**sil16:44986**\n**sil16:44988**\n**sil16:44994**\n**sil16:45704**"
+  },
+  "altnames": {
+    "wals": "\nSena",
+    "ruhlen (1987)": "\nSena",
+    "moseley & asher (1994)": "\nSena",
+    "multitree": "\nChisena\nCisena\nSena",
+    "lexvo": "\nChisena [fr]\nJęzyk sena [pl]\nSena [en]\nSena language [en]",
+    "hhbib_lgcode": "\nCafre\nCi-Mazaro (a place name on the lower Zambezi) very similar to Podzo\nCi-Podzo\nCisena\nMocambique Sena\nMozambique Sena\nPodzo\nSena N44\nShisena"
+  },
+  "triggers": {
+    "lgcode": "\ncisena\nsena\nchisena\nshisena"
+  },
+  "identifier": {
+    "wals": "sen",
+    "multitree": "sena;seh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:220",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sena (seh-seh) = 5* (Developing)."
+  }
+}

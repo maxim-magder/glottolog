@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Quiotepec Chinantec",
+    "hid": "chq",
+    "level": "language",
+    "iso639-3": "chq",
+    "latitude": "17.5621",
+    "longitude": "-96.602",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chinantec (Quiotepec)](https://wals.info/languoid/lect/wals_code_chq)\n[Quiotepec Chinantec](https://grambank.clld.org/languages/quio1240)\n[Sierra Chinantec](https://endangeredlanguages.com/lang/9874)\nhttps://en.wikipedia.org/wiki/Highland_Chinantec_language\nhttps://phoible.org/languages/quio1240\nhttps://www.wikidata.org/entity/Q5758709"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:robbins:61**\n**hh:e:Bevan:Chinantec**\n**hh:g:Robbins:Quiotepec**\n**hh:g:Robbins:Quiotepec:1968**\n**hh:phon:Castellanos:Chinanteco-Quiotepec**\n**hh:s:Castillo:Chinanteco-Quiotepec**\n**hh:soc:Hernandez:Dzamo**\n**hh:t:delaBarreda:Chinanteca**\n**hh:typ:JamiesonGardner:Quiotepec**\n**ldh:item_407692**\n**mpieva:Merrifield1990Syllable**\n**sil16:10675**\n**sil16:10676**\n**sil16:10779**\n**sil16:12188**\n**sil16:12189**\n**sil16:22001**\n**sil16:24346**"
+  },
+  "altnames": {
+    "wals": "\nChinantec (Quiotepec)",
+    "wals other": "\nChinantec\nHighland\nHighland Chinanteco\nQuiotepec Chinantec\nQuiotepec dialect",
+    "ruhlen (1987)": "\nChinanteko",
+    "moseley & asher (1994)": "\nChinantec",
+    "multitree": "\nChinantec\nChinantec (Quiotepec)\nChinantec, Quiotepec\nChinanteco\nChinanteco (Quiotepec)\nChinanteko\nHighland\nHighland Chinantec\nHighland East Cushtic\nQuiotepec\nQuiotepec Chinanteko\nQuiotepeco",
+    "lexvo": "\nQuiotepec Chinantec [en]",
+    "hhbib_lgcode": "\nChinantec-Quiotepec\nChinanteco de Quiotepec\nChinanteco de las Nieves\nSJ Quiotepec Chinantec\nSan Juan Quiotepec\nYólox",
+    "elcat": "\nChinanteco de la Sierra\nComaltepec Chinantec\nQuiotepec Chinantec\nSierra Chinantec\nValle Nacional Chinantec\njmiih dzä mo'"
+  },
+  "triggers": {
+    "lgcode": "\nyolox\nquiotepec"
+  },
+  "identifier": {
+    "wals": "chq",
+    "multitree": "high;chq",
+    "endangeredlanguages": "9874"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sierra Chinantec (9874) = Vulnerable (40 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

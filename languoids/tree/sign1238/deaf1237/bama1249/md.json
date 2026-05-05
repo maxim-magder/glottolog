@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Langue de Signes Malienne",
+    "hid": "bog",
+    "level": "language",
+    "iso639-3": "bog",
+    "latitude": "12.651",
+    "longitude": "-8.00136",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Malian Sign Language](https://endangeredlanguages.com/lang/6991)\nhttps://www.wikidata.org/entity/Q4853284\nhttps://en.wikipedia.org/wiki/Bamako_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:nyst:12**\n**hh:d:Pinsonneault:Signes-Mali**\n**hh:h:Nyst:Mali**\n**hh:h:Nyst:Sign-West-Africa**\n**hh:soc:Nyst:Sign-Mali**\n**hh:vld:Nyst:Size-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nBamako Sign Language",
+    "lexvo": "\nBamako Sign Language [en]",
+    "hhbib_lgcode": "\nBamako / LaSiMa\nBamako Sign Language\nLaSiMa\nLangue des Signes Malienne (LSM)\nMalian Sign Language",
+    "elcat": "\nBamako Sign Language\nLSM\nLaSiMa\nLangue des Signes Malienne\nLangue des signes bambara\nMali Sign Language\nMalian Sign Language"
+  },
+  "triggers": {
+    "lgcode": "\ndanegafe\nmennikebaliw\ntaamasiyenw"
+  },
+  "identifier": {
+    "multitree": "bog",
+    "endangeredlanguages": "6991"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Malian Sign Language (6991-bog) = Endangered (40 percent certain, based on the evidence available) (Educated deaf signers favor the use of ASL, whereas the vast majority of signers have not been formally educated and use LSM.\"\n\"Having virtually no child users and a lower status than ASL, LSM is being replaced by ASL in the deaf community in Bamako and in other places with deaf schools.) [Nyst 2015](cldf:nyst:15)"
+  },
+  "classification": {
+    "sub": "Indigenous origin (**hh:soc:Nyst:Sign-Mali**):134-137 so a presumed isolate.",
+    "subrefs": "\n**hh:soc:Nyst:Sign-Mali**"
+  }
+}

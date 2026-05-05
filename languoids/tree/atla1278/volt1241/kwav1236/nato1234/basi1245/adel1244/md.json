@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Adele",
+    "hid": "ade",
+    "level": "language",
+    "iso639-3": "ade",
+    "latitude": "8.16975",
+    "longitude": "0.619185",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH",
+      "TG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Adele_language\nhttps://www.wikidata.org/entity/Q27740"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3104**\n**eballiso2009:22668**\n**eballiso2009:26942**\n**eballiso2009:36441**\n**hh:d:Rongier:Adele**\n**hh:e:Conradt:Adeli**\n**hh:hlde:Clerk:Hinterlandern-Togo**\n**hh:hs:Westermann:Mitteltogo**\n**hh:hvw:Christaller:Sudan**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:s:Christaller:Adele**\n**hh:typ:Katchoa:Gidere**\n**hh:typ:Nonon:Adele**\n**sil16:19329**\n**sil16:19418**\n**sil16:19419**\n**sil16:19477**\n**sil16:19528**\n**sil16:19529**\n**sil16:19530**\n**sil16:19531**\n**sil16:32031**\n**sil16:32047**\n**sil16:32048**\n**sil16:39623**"
+  },
+  "altnames": {
+    "multitree": "\nAdele\nBedere\nBidire\nGadre\nGidire",
+    "lexvo": "\nAdele [de]\nAdele language [en]\nAdelen kieli [fi]\nAdelska [is]\nIdioma adele [es]\nLenga Adele [pms]\nLingau adele [gl]\nLíngua adele [pt]",
+    "hhbib_lgcode": "\nAdeli\nGidere"
+  },
+  "triggers": {
+    "lgcode": "\nayebabi\ntogorestsprachen\ngiforo\nnkpa\nladjouti\nadele\ntogogebiet\nadelesprache\nnbolo"
+  },
+  "identifier": {
+    "multitree": "ade"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Central-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Central-Togo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Adele (ade-ade) = 5 (Developing)."
+  }
+}

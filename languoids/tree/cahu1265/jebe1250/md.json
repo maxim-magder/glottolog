@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Jebero",
+    "hid": "jeb",
+    "level": "language",
+    "iso639-3": "jeb",
+    "latitude": "-5.40317",
+    "longitude": "-76.4103",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Shiwilu](https://endangeredlanguages.com/lang/852)\nhttps://www.wikidata.org/entity/Q967031\nhttps://en.wikipedia.org/wiki/Jebero_language\nhttps://phoible.org/languages/jebe1250\n[Jebero](https://wals.info/languoid/lect/wals_code_jeb)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bendor-samuel:61:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:decultura:nd**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:pozzi-escot:ed:98:15**\n**cldf:yupanqui:valenzuela:13**\n**fabreall2009ann:9331**\n**fabreall2009ann:Kawapana_jebero02**\n**fabreall2009ann:Kawapana_jebero03**\n**fabreall2009ann:Kawapana_jebero04**\n**fabreall2009ann:Kawapana_jebero05**\n**fabreall2009ann:Kawapana_jebero06**\n**fabreall2009ann:Kawapana_jebero09**\n**fabreall2009ann:Kawapana_jebero10**\n**fabreall2009ann:Kawapana_jebero11**\n**fabreall2009ann:Kawapana_jebero14**\n**fabreall2009ann:Kawapana_jebero16**\n**fabreall2009ann:Kawapana_jebero17**\n**fabreall2009ann:Kawapana_jebero19**\n**hh:d:Valenzuela:Shiwilu**\n**hh:d:Valenzuela:Shiwilu:2012**\n**hh:e:Julou:Jebero**\n**hh:el:Valenzuela:Shiwilu**\n**hh:g:Bendor-Samuel:Jebero**\n**hh:h:Veigl:Maynensis**\n**hh:hv:Adelungetal:Mithridates:32**\n**hh:hv:Ortiz:Aborigen**\n**hh:hv:Ortiz:Kahuapana**\n**hh:hvw:BeuchatRivet:Cahuapana**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Jakway:Palabras**\n**hh:phon:Barua:Jebero**\n**hh:phon:Madalenagoitia:Shiwilu**\n**hh:phon:Peperkamp:Shiwilu**\n**hh:phont:Peperkamp:Shiwilu**\n**hh:s:Alexander-Bakkerus:Xebero**\n**hh:s:RivetTastevin:Kahuapana**\n**hh:s:vanSchie:Shiwilu**\n**hh:t:Valenzuela:Shiwilu**\n**hh:typ:Farfan:Shiwilu**\n**hh:typ:Valenzuela:Shiwilu**\n**hh:w:Alexander-Bakkerus:Ynga-Xebera**\n**ldh:item_402170**\n**mpieva:BendorSamuel1958Thestruc**\n**mpieva:BendorSamuel1961Theverba**\n**sil16:10234**\n**sil16:10236**"
+  },
+  "altnames": {
+    "wals": "\nJebero",
+    "wals other": "\nChebero\nXebero",
+    "moseley & asher (1994)": "\nJebero",
+    "multitree": "\nChebero\nChébero\nHevero\nJebero\nJébero\nXebero\nXevero\nXihuila\nXébero",
+    "lexvo": "\nJebero [en]",
+    "hhbib_lgcode": "\nChebero\nShiwilu\nXebera\nXebero\nXeberos",
+    "elcat": "\nChebero\nChébero\nHevero\nJebero\nJébero\nShiwilu\nXebero\nXevero\nXihuila\nXiwilu\nXébero"
+  },
+  "triggers": {
+    "lgcode": "\npredateurs\njebero\nxebero\nxeberos\nshiwilu"
+  },
+  "identifier": {
+    "wals": "jeb",
+    "multitree": "jeb",
+    "endangeredlanguages": "852"
+  },
+  "classification": {
+    "sub": "**hh:hv:Valenzuela:Cahuapana**",
+    "subrefs": "\n**hh:hv:Valenzuela:Cahuapana**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Shiwilu (852-jeb) = Critically Endangered (100 percent certain, based on the evidence available) (there would be about 30 people able to speak fluently, all bilingual in regional Spanish and averaging close to 70 years old) [Yupanqui and Valenzuela 2013](cldf:yupanqui:valenzuela:13)"
+  }
+}

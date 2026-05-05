@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lenakel",
+    "hid": "tnl",
+    "level": "language",
+    "iso639-3": "tnl",
+    "latitude": "-19.4763",
+    "longitude": "169.261",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lenakel](https://grambank.clld.org/languages/lena1238)\n[Lenakel](https://lexibank.clld.org/languages/abvdoceanic-Lenakel)\n[Lenakel](https://wals.info/languoid/lect/wals_code_len)\nhttps://en.wikipedia.org/wiki/Lenakel_language\nhttps://phoible.org/languages/lena1238\nhttps://www.wikidata.org/entity/Q3229429"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4925**\n**asjp2010:745**\n**cldf:lynch:78:1**\n**hh:d:Lynch:Lenakel**\n**hh:d:Ramik:Netwar**\n**hh:h:Lindstrom:Tanna**\n**hh:hv:Lynch:Southern-Vanuatu**\n**hh:hv:Lynch:Southern-Vanuatu-Pronominal**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Tryon:NewHebrides**\n**hh:phon:Lynch:Lenakel**\n**hh:s:Lynch:Lenakel**\n**hh:s:Lynch:Lenakel:1971**\n**hh:w:Nehrbass:Tanna**"
+  },
+  "altnames": {
+    "wals": "\nLenakel",
+    "wals other": "\nTanna",
+    "ruhlen (1987)": "\nLenakel",
+    "moseley & asher (1994)": "\nLenakel",
+    "multitree": "\nLenakel\nVanuatu",
+    "lexvo": "\nLenakel [en]",
+    "hhbib_lgcode": "\nLenau\nLonas\nNetwar"
+  },
+  "triggers": {
+    "lgcode": "\nlenakel\nlanakel"
+  },
+  "identifier": {
+    "wals": "len",
+    "multitree": "tnl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Southern-Vanuatu**",
+    "subrefs": "\n**hh:hv:Lynch:Southern-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Netvaar (tnl-tnl) = 6b (Threatened)."
+  }
+}

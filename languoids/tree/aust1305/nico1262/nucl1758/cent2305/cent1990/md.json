@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Central Nicobarese",
+    "hid": "ncb",
+    "level": "language",
+    "iso639-3": "ncb",
+    "latitude": "7.94812",
+    "longitude": "93.3921",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Central Nicobarese](https://endangeredlanguages.com/lang/4775)\n[Central Nicobarese](https://grambank.clld.org/languages/cent1990)\n[Nancowry](https://wals.info/languoid/lect/wals_code_nnc)\n[Nicobarese](https://wals.info/languoid/lect/wals_code_nic)\nhttps://en.wikipedia.org/wiki/Central_Nicobarese_languages\nhttps://phoible.org/languages/cent1990\nhttps://www.wikidata.org/entity/Q3335553"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:man:89:1**\n**cldf:nag:72**\n**cldf:np:nd:264**\n**cldf:steriade:88**\n**cldf:zograf:90**\n**hh:d:Man:CNicobarese**\n**hh:d:deRoepstorff:Nancowry**\n**hh:e:AndamanNicobar:1994**\n**hh:e:Man:Nicobar:I**\n**hh:e:Svoboda:Nikobaren**\n**hh:ew:Man:Nicobar**\n**hh:g:Radhakrishnan:Nancowry**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Man:CNicobarese**\n**hh:hw:deRoepstorff:Nicobar-Andaman**\n**hh:s:Das:Nicobarese**\n**hh:s:Radhakrishnan:Nancowry**\n**hh:s:Rajasingh:Muot**\n**hh:s:Temple:Languages-Nicobar**\n**hh:typ:Rajasingh:Muot**\n**hh:typ:Rajasingh:Muot:Negators**\n**hh:w:Man:Nicobar:1872**\n**hh:w:Temple:Nicobarese**\n**mpieva:Man2005Adiction**"
+  },
+  "altnames": {
+    "wals": "\nNancowry\nNicobarese",
+    "wals other": "\nNicobarese\nNicobarese (Nancowry)",
+    "ruhlen (1987)": "\nNicobarese",
+    "moseley & asher (1994)": "\nNicobarese",
+    "multitree": "\nCentral Nicobarese\nMuot\nNancoury\nNancowry\nNicobar\nNicobarese\nNicobarese, Central\nNicobarés central\nZentraler Dialekt",
+    "lexvo": "\nCentral Nicobarese [en]",
+    "hhbib_lgcode": "\nMuöt\nMūöt\nNancowry\nNankauri\nNicobarese-Central",
+    "elcat": "\nCentral\nCentral Nicobarese\nMuöt\nNancowry\nNicobarese\nZentraler Dialekt"
+  },
+  "triggers": {
+    "lgcode": "\nnicobares\njuzhnoj\nnancowry\nmuot\ncentural\npens"
+  },
+  "identifier": {
+    "wals": "genus/nicobarese",
+    "multitree": "ncb",
+    "endangeredlanguages": "4775"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic:2015**:199",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic:2015**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Central Nicobarese (4775-ncb) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

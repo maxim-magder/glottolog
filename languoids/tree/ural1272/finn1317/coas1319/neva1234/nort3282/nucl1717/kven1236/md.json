@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kven Finnish",
+    "hid": "fkv",
+    "level": "language",
+    "iso639-3": "fkv",
+    "latitude": "70.31894",
+    "longitude": "25.56202",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FI",
+      "NO",
+      "RU"
+    ],
+    "links": "\n[Kven Finnish](https://endangeredlanguages.com/lang/4147)\nhttps://en.wikipedia.org/wiki/Kven_language\nhttps://www.wikidata.org/entity/Q165795"
+  },
+  "classification": {
+    "sub": "**hh:s:Lindgren:Kven-Finnish**",
+    "subrefs": "\n**hh:s:Lindgren:Kven-Finnish**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:granholm:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:raeisaenen:kunnas:12**\n**hh:s:Lindgren:Kven-Finnish**\n**hh:soc:RaisanenKunnas:Kven**\n**hh:vsoc:Jahr:Contact-Hanseatic**"
+  },
+  "altnames": {
+    "multitree": "\nFinnish, Kven\nKven\nNorth Fennic\nNorth Finnish",
+    "lexvo": "\nKveeni keel [et]\nKveens [nl]\nKven Finnish [en]\nKven [ca]\nKven language [en]\nKvensk [no]\nKvensk språk [nn]\nKvenski finski [hr]\nKvänska [sv]\nKvène [fr]\nRuijan murteet [fi]\nКвен фински јазик [mk]",
+    "elcat": "\nKven\nKven Finnish\nNorth Fennic\nNorth Finnish"
+  },
+  "triggers": {
+    "lgcode": "\nhanseatic\nkven"
+  },
+  "identifier": {
+    "multitree": "fkv",
+    "endangeredlanguages": "4147"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kven Finnish (4147-fkv) = Severely Endangered (100 percent certain, based on the evidence available) (The number of people who are able to speak Kven fluently, as native speakers, decreases as older people continue to pass away. Nevertheless, Kven is still used daily by the elderly.) [Räisänen and Kunnas 2012](cldf:raeisaenen:kunnas:12)"
+  }
+}

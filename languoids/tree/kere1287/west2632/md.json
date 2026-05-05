@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Western Keres",
+    "hid": "kjq",
+    "level": "language",
+    "iso639-3": "kjq",
+    "latitude": "34.9733",
+    "longitude": "-107.517",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Acoma](https://wals.info/languoid/lect/wals_code_aco)\n[Acoma-Laguna](https://endangeredlanguages.com/lang/650)\n[Western Keres](https://grambank.clld.org/languages/west2632)\nhttps://phoible.org/languages/west2632\nhttps://www.wikidata.org/entity/Q12645568"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:casad:ed:00:5**\n**cldf:christopherrogers:campbell:10**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:miller:66:1**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:spencer:46**\n**hh:b:Davis:Keresan**\n**hh:e:Ellis:Laguna**\n**hh:e:Garcia-Mason:Acoma**\n**hh:g:Lachler:Laguna**\n**hh:g:Maring:Acoma**\n**hh:g:Miller:Acoma**\n**hh:g:Valiquette:Laguna-Keresan**\n**hh:hv:Davis:Kiowa-Tanoan**\n**hh:hv:MillerDavis:Keresan**\n**hh:hvw:Gatschet:Seven-Stocks**\n**hh:s:Spencer:Keresan**\n**hh:w:Simpson:Pueblo**\n**mpieva:Lachler2005Agrammar**\n**sil16:10514**"
+  },
+  "altnames": {
+    "wals": "\nAcoma",
+    "ruhlen (1987)": "\nKeresan (Western)",
+    "moseley & asher (1994)": "\nKeres (Western)",
+    "multitree": "\nAcoma\nAcoma-Laguna\nAcoma-laguna\nKeres\nKeres, Western\nKeresan\nQueresano occidental\nWestern Keres\nWestern Keres Pueblo\nWestern Keresan",
+    "lexvo": "\nWestern Keres [en]",
+    "hhbib_lgcode": "\nAcoma\nAcoma Pueblo\nKeres-Western\nLaguna\nMostly Acoma\nSanta Ana-Laguna-Acoma",
+    "elcat": "\nAcoma\nAcoma-Laguna\nWestern Keres Pueblo\nWestern Keresan"
+  },
+  "triggers": {
+    "lgcode": "\nkeresan\nacoma"
+  },
+  "identifier": {
+    "wals": "aco",
+    "multitree": "kjq",
+    "endangeredlanguages": "650"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Acoma-Laguna (650-kjq) = Threatened (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

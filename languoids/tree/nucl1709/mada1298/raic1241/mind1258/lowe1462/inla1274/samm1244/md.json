@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sam",
+    "hid": "snx",
+    "level": "language",
+    "iso639-3": "snx",
+    "latitude": "-5.55572",
+    "longitude": "145.813",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sam](https://lexibank.clld.org/languages/transnewguineaorg-sam)\n[Sam (Buan Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-sam-buan)\n[Sam (Songum Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-sam-songum)\n[Sam (Wongbe Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-sam-wongbe)\n[sam](https://lexibank.clld.org/languages/zgraggenmadang-sam)\nhttps://en.wikipedia.org/wiki/Sam_language\nhttps://www.wikidata.org/entity/Q7408387"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Troolin:Sam**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Zgraggen:Rai**\n**hh:phon:TroolinTroolin:Sam**\n**hh:w:Komo:Sam**\n**hh:w:vonMiklucho-Maclay:Maklaya**\n**hh:wsoc:JoreRueck:Sam**\n**sil16:47656**\n**silpng:silpng2001-2003:57**\n**silpng:silpng2004:34**"
+  },
+  "altnames": {
+    "multitree": "\nEastern\nRendille-Boni\nSam\nSongum",
+    "lexvo": "\nSam [en]",
+    "hhbib_lgcode": "\nDschongu\nShongu\nSongum\nSungumana\nTen'gum-Mana\nTengum"
+  },
+  "triggers": {
+    "lgcode": "\nsongumsam\nsongum"
+  },
+  "identifier": {
+    "multitree": "rend;snx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Daniels:Minjim**",
+    "subrefs": "\n**hh:hv:Daniels:Minjim**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sam (snx-snx) = 6a (Vigorous)."
+  }
+}

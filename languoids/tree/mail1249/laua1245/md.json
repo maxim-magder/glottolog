@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Laua",
+    "hid": "luf",
+    "level": "language",
+    "iso639-3": "luf",
+    "latitude": "-10.16145",
+    "longitude": "149.25747",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Laua](https://endangeredlanguages.com/lang/2265)\nhttps://www.wikidata.org/entity/Q6497673\nhttps://en.wikipedia.org/wiki/Laua_language",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Dutton:Mailu**\n**hh:hv:Dutton:Southeast-Mainland-Papua**\n**hh:hw:Ray:ESEPapua**\n**hh:w:Strong:North-Eastern-Divisions**"
+  },
+  "altnames": {
+    "multitree": "\nLabu\nLaua\nLauwa",
+    "lexvo": "\nLaua [en]",
+    "hhbib_lgcode": "\nLauwa\nLawa",
+    "elcat": "\nLabu\nLaua\nLauwa"
+  },
+  "triggers": {
+    "lgcode": "\nwampet"
+  },
+  "identifier": {
+    "multitree": "luf",
+    "endangeredlanguages": "2265"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dutton:Mailu** **hh:hv:Dutton:Southeast-Mainland-Papua**",
+    "subrefs": "\n**hh:hv:Dutton:Mailu**\n**hh:hv:Dutton:Southeast-Mainland-Papua**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Laua (luf-luf) = 10 (Extinct)."
+  }
+}

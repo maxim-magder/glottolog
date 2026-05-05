@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Darma",
+    "hid": "drd",
+    "level": "language",
+    "iso639-3": "drd",
+    "latitude": "29.8629",
+    "longitude": "80.5439",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Darma](https://endangeredlanguages.com/lang/4104)\n[Darma](https://grambank.clld.org/languages/darm1243)\n[Darma](https://wals.info/languoid/lect/wals_code_drm)\nhttps://en.wikipedia.org/wiki/Darmiya_language\nhttps://phoible.org/languages/darm1243\nhttps://www.wikidata.org/entity/Q5224058"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:sharma:89:2**\n**hh:g:Willis:Darma**\n**hh:g:Willis:Darma:2019**\n**hh:htyp:BhattPathak:Uttarakhand**\n**hh:htyp:BhattPathak:Uttarakhand:2015**\n**hh:hv:Krishan:Darma-Chaudangsi-Raji**\n**hh:hvw:Grierson:3:I**\n**hh:s:Krishan:Darma**\n**hh:s:Sharma:Darmiya**"
+  },
+  "altnames": {
+    "glottolog": "\nDarmiya",
+    "wals": "\nDarmiya",
+    "wals other": "\nDarma Lwo",
+    "moseley & asher (1994)": "\nDarmiya",
+    "multitree": "\nDarimiya\nDarma\nDarmani\nDarmiya\nDarmiyā\nDārmūyā\nSauka\nSaukas\nShauka\nShaukas",
+    "lexvo": "\nDarmiya [en]",
+    "hhbib_lgcode": "\nDarmiya\nRang Lu here is Darmiya\nRang Lvu here is Darmiya",
+    "elcat": "\nDarimiya\nDarma\nDarmani\nDarmiya\nDarmiyā\nDārmūyā\nSauka\nSaukas\nShauka\nShaukas"
+  },
+  "triggers": {
+    "lgcode": "\ndarma\ntibeto AND darma"
+  },
+  "identifier": {
+    "wals": "drm",
+    "multitree": "drd",
+    "endangeredlanguages": "4104"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDriem:Himalayas** **hh:hv:Sharma:Uttar-Pradesh**",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:hv:Sharma:Uttar-Pradesh**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Darma (4104-drd) = Threatened (100 percent certain, based on the evidence available) (\"While some of the children that I visited in the villages near Dharchula spoke\nDarma fluently, many parents encourage their children to focus on learning English and\nHindi.\" (pg. 17)) [Willis 2007](cldf:willis:07:1)"
+  }
+}

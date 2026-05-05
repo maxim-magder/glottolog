@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Northern Straits Salish",
+    "hid": "str",
+    "level": "language",
+    "iso639-3": "str",
+    "latitude": "48.51614",
+    "longitude": "-123.757114",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Lummi](https://wals.info/languoid/lect/wals_code_lum)\n[Northern Straits Salish](https://endangeredlanguages.com/lang/1917)\n[Saanich](https://wals.info/languoid/lect/wals_code_sch)\n[Salish (Samish Straits)](https://wals.info/languoid/lect/wals_code_sss)\n[Salish (Straits)](https://wals.info/languoid/lect/wals_code_sst)\n[Songish](https://wals.info/languoid/lect/wals_code_sgs)\n[Sooke](https://wals.info/languoid/lect/wals_code_soo)\nhttps://en.wikipedia.org/wiki/North_Straits_Salish_language\nhttps://phoible.org/languages/stra1244\nhttps://www.wikidata.org/entity/Q36444",
+    "timespan": "2020-01-01/2020-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:99:2**\n**cldf:carnie:guilfoyle:ed:00:1**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:halpern:ed:96**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:montler:03**\n**cldf:montler:97**\n**cldf:np:12:11**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:stonham:ed:94:2**\n**cldf:thompson:thompson:etal:74**\n**hh:d:Montler:Saanich**\n**hh:e:Hill-Tout:Salish-Dene**\n**hh:e:Suttles:Central-Coast-Salish**\n**hh:g:Efrat:Sooke**\n**hh:g:Montler:Saanich**\n**hh:g:Raffo:Songish**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hew:Boas:Sixth**\n**hh:hew:Tyloretal:North-Western-Canada**\n**hh:hv:Elmendorf:Salish**\n**hh:hv:Swadesh:Salish:1950**\n**hh:hvw:Montler:Straits-Salishan**\n**hh:phon:Galloway:Samish**\n**hh:s:Galloway:Samish**\n**hh:styp:Turner:Saanich**\n**hh:typ:Leonard:Sencoten**\n**hh:typ:Turner:Sencoten**\n**hh:w:Gibbs:Clallam-Lummi**\n**ldh:item_402495**\n**mpieva:2001ICSNLXXX**\n**mpieva:2002Papersfo**\n**mpieva:2003Papersfo**\n**mpieva:2004Papersfo**\n**mpieva:2005Papersfo**\n**mpieva:2006Papersfo**"
+  },
+  "altnames": {
+    "wals": "\nLummi\nSaanich\nSalish (Samish Straits)\nSalish (Straits)\nSongish\nSooke",
+    "wals other": "\nNorthern Straits Salish (Samish)\nSamish\nStraits Salish",
+    "ruhlen (1987)": "\nNorthern Straits\nStraits (Northern)",
+    "moseley & asher (1994)": "\nStraits (Northern)",
+    "multitree": "\nLkungen\nNorthern Straits\nNorthern Straits Salish\nSalish (Straits)\nSalish straits\nSalish, Straits\nSongish\nStraits\nStraits salish",
+    "lexvo": "\nNorth Straits Salish languages [en]\nNorthern straits salish [fr]\nStraits Salish [en]",
+    "hhbib_lgcode": "\nLekwungen\nLku'ñgen\nLkungen\nLkungen Lk\nLummi\nLummi Lm\nNorthern Straits\nNorthern Straits Salish\nSaanich\nSaanish\nSalish-Straits\nSencoten\nSongish\nSooke\nStraits Salish",
+    "glottolog": "\nStraits Salish",
+    "elcat": "\nLekwungen\nLkungen\nMalchosen\nNorthern Straits Salish\nSENĆOŦEN/Malchosen/Lekwungen/Semiahmoo/T’Sou-ke\nSalish (Straits)\nSemiahmoo\nSongish\nStraits\nStraits Salish\nT'Sou-ke"
+  },
+  "triggers": {
+    "lgcode": "\nsooke\nsongish\nicsnl\nsamish\nsaanich"
+  },
+  "identifier": {
+    "wals": "sch;sst;lum;sgs;sss;soo",
+    "multitree": "str",
+    "endangeredlanguages": "1917"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Montler:Straits-Salishan**",
+    "subrefs": "\n**hh:hvw:Montler:Straits-Salishan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Northern Straits Salish (str-str) = 9 (Dormant). Language of recognized indigenous peoples: Esquimalt, Pauquachin, Semiahmoo, Songhees, T’Sou-ke, Tsartlip, Tsawout, Tseycum."
+  }
+}

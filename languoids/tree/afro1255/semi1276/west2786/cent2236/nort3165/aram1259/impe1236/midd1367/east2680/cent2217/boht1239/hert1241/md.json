@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Hertevin",
+    "hid": "hrt",
+    "level": "language",
+    "iso639-3": "hrt",
+    "latitude": "37.373",
+    "longitude": "42.5192",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "links": "\n[Hertevin](https://grambank.clld.org/languages/hert1241)\nhttps://en.wikipedia.org/wiki/Neo-Aramaic_dialect_of_Hertevin\nhttps://www.wikidata.org/entity/Q33290"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Jastrow:Hertevin**\n**hh:ld:Jastrow:Siirt**"
+  },
+  "altnames": {
+    "multitree": "\nHartevan\nHertevino\nHértevin",
+    "lexvo": "\nHertevin [de]\nHertevineg [br]\nHértevin [en]\nHértevin jezik [hr]\nHértevin language [en]\nХертевински јазик [mk]\nภาษาเฮอร์เตวิน [th]",
+    "hhbib_lgcode": "\nHértevin\nVilayet Siirt"
+  },
+  "triggers": {
+    "lgcode": "\njilu\nhertevin"
+  },
+  "identifier": {
+    "multitree": "hrt",
+    "endangeredlanguages": "3912"
+  },
+  "classification": {
+    "sub": "**hh:s:Fox:Bohtan**:166",
+    "subrefs": "\n**hh:s:Fox:Bohtan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Bohtan Neo-Aramaic (3912-hrt) = Severely Endangered (60 percent certain, based on the evidence available)"
+  }
+}

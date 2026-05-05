@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nyamwanga",
+    "hid": "mwn",
+    "level": "language",
+    "iso639-3": "mwn",
+    "latitude": "-9.11261",
+    "longitude": "32.3163",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MW",
+      "TZ",
+      "ZM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mwanga_language\nhttps://www.wikidata.org/entity/Q6944666"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:coxhead:14**\n**cldf:willis:66**\n**cldf:wilson:58**\n**eballiso2009:10631**\n**eballiso2009:15171**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:44298**\n**eballiso2009:48214**\n**eballiso2009:50699**\n**eballiso2009:53925**\n**eballiso2009:53938**\n**eballiso2009:54355**\n**eballiso2009:55716**\n**eballiso2009:6035**\n**eballiso2009:7057**\n**hh:e:Chisholm:Winamwanga**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Labroussi:Sud-Ouest-Tanzanie**\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:WalshSwilla:Corridor**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:KashokiMann:Zambia**\n**hh:phon:Busse:Inamwanga**"
+  },
+  "altnames": {
+    "multitree": "\nChinamwanga\nIchinamwanga\nInamwanga\nKinamwanga\nMwanga\nNamwanga\nNyamwanga",
+    "lexvo": "\nKinyamwanga [sw]\nMwanga language [en]\nNjamuangoj [eo]\nNyamwanga [en]",
+    "hhbib_lgcode": "\nCi-na-mwanga\nInamwanga\nInamwanga-Iwa\nIwa\nM22_Namwanga\nNamwanga\nS Lambya-Tambo\nTambo\nWinamwanga\nWiwa"
+  },
+  "triggers": {
+    "lgcode": "\nnyamwanga\nwinamwanga\ninamwanga\ncinamwanga\nnamwanga\nchinamwanga"
+  },
+  "identifier": {
+    "multitree": "mwn"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Roth:Wungu** **hh:hv:Nurse:SWTanzania**:91",
+    "subrefs": "\n**hh:hvw:Roth:Wungu**\n**hh:hv:Nurse:SWTanzania**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nyamwanga (mwn-mwn) = 5* (Developing)."
+  }
+}

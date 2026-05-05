@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Saniyo-Hiyewe",
+    "hid": "sny",
+    "level": "language",
+    "iso639-3": "sny",
+    "latitude": "-4.4376",
+    "longitude": "142.369",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Saniyo-Hiyewe](https://endangeredlanguages.com/lang/10622)\n[Saniyo-Hiyewe](https://lexibank.clld.org/languages/transnewguineaorg-saniyo-hiyewe)\nhttps://en.wikipedia.org/wiki/Sanio_language\nhttps://www.wikidata.org/entity/Q7418302"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Townsend:NG**\n**hh:e:Townsend:Sago-NG**\n**hh:e:Townsend:Saniyo**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:hvw:Dyeetal:Sepik-Hill**\n**hh:hw:Franklin:Appendices**\n**hh:phon:Hepburn:SaniwoHiyewe**\n**hh:s:LewisLewis:Sanio**\n**hh:typ:Lewis:Sanio-Hiowe:Paragraph**\n**hh:typ:Lewis:Sanio-Hiowe:VP**\n**hh:w:Laycock:D33**\n**sil16:12539**\n**sil16:19575**\n**sil16:19576**\n**sil16:20123**\n**sil16:21982**\n**sil16:23126**\n**sil16:36506**\n**silpng:silpng2001-2003:69**\n**silpng:silpng2001-2003:70**\n**silpng:silpng2004:166**"
+  },
+  "altnames": {
+    "multitree": "\nSanio\nSaniyo-Hiyewe",
+    "lexvo": "\nSaniyo-Hiyewe [en]",
+    "hhbib_lgcode": "\nHeve of Mive at the Wogamus river\nSanio\nSanio Western dialect\nSanio-Hiowe\nSaniyo",
+    "elcat": "\nSanio\nSanio-Hiowe\nSaniyo-Hiyewe"
+  },
+  "triggers": {
+    "lgcode": "\nsaniyo\nsanio\nhiyewe"
+  },
+  "identifier": {
+    "multitree": "sny",
+    "endangeredlanguages": "10622"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bruce:Middle-Sepik**:472-519 **hh:hvw:ConradDye:USepik**",
+    "subrefs": "\n**hh:hvld:Bruce:Middle-Sepik**\n**hh:hvw:ConradDye:USepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Saniyo-Hiyewe (10622-sny) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

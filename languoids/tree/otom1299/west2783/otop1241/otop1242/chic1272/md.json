@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Chichimeca-Jonaz",
+    "hid": "pei",
+    "level": "language",
+    "iso639-3": "pei",
+    "latitude": "21.2943",
+    "longitude": "-100.524",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chichimeca-Jonaz](https://endangeredlanguages.com/lang/3457)\nhttps://www.wikidata.org/entity/Q3915427\nhttps://en.wikipedia.org/wiki/Chichimeca_Jonaz_language\n[Chichimeca-Jonaz](https://wals.info/languoid/lect/wals_code_cjo)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:33**\n**cldf:castaneda:97**\n**cldf:cazes:83**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cuaron:lastra:91**\n**cldf:deangulo:32**\n**cldf:driver:driver:63**\n**cldf:lastradesuarez:84**\n**cldf:lewis:ed:09**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:vignalichaussabel:nd**\n**hh:e:DriverDriver:Chichimeca-Jonaz**\n**hh:h:Griffen:Southern-East**\n**hh:hb:ThomasSwanton:Mexico**\n**hh:hs:Pimentel:Mexico**\n**hh:phon:Avelino:Chichimec**\n**hh:phon:Kelterer:Chichimeco**\n**hh:phon:Romero:Chichimeco-Jonaz**\n**hh:s:Lastra:Chichimeca:2014**\n**hh:s:Lastra:Chichimeco**\n**hh:s:Lastra:Jonaz**\n**hh:s:Soustelle:Chichimeque**\n**hh:s:deAngulo:Chichimeco**\n**hh:st:Lastra:Chichimecos**\n**hh:styp:Lizarraga:Chichimeco**\n**hh:typ:PalancarAvelino:Chichimec**"
+  },
+  "altnames": {
+    "wals": "\nChichimeca-Jonaz",
+    "wals other": "\nChichimec\nChichimeco",
+    "ruhlen (1987)": "\nChichimeco",
+    "moseley & asher (1994)": "\nChichimeca",
+    "multitree": "\nChichimec\nChichimeca\nChichimeca-Jonaz\nChichimeco\nChichimeko\nChichimèque\nJonaz\nMeco\nPame de Chichimeca-Jonaz",
+    "lexvo": "\nChichimeca Jonaz language [en]\nChichimeca-Jonaz [en]",
+    "hhbib_lgcode": "\nChichimec\nChichimeca\nChichimeca-Pame-Jonaz\nChichimeco\nChicimec\nJonaz\nPame Mision de Arnedo\nPame San Luis de la Paz\nʔuzãʔ",
+    "elcat": "\nChichimec\nChichimeca\nChichimeca-Jonaz\nChichimeco\nJonaz\nMeco\nPame de Chichimeca-Jonaz"
+  },
+  "triggers": {
+    "lgcode": "\nchichimeco"
+  },
+  "identifier": {
+    "wals": "genus/chichimec",
+    "multitree": "pei",
+    "endangeredlanguages": "3457"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997** **hh:hv:Campbell:Otomanguean**",
+    "subrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chichimeca-Jonaz (3457-pei) = Threatened (20 percent certain, based on the evidence available) [Castañeda 1997](cldf:castaneda:97)"
+  }
+}

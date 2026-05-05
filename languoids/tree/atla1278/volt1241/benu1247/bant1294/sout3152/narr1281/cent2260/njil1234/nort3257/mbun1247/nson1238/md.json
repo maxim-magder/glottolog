@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nsongo",
+    "hid": "nsx",
+    "level": "language",
+    "iso639-3": "nsx",
+    "latitude": "-10.5166",
+    "longitude": "16.7348",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO"
+    ],
+    "links": "\n[Nsongo](https://lexibank.clld.org/languages/polyglottaafricana-Nsongo)\nhttps://en.wikipedia.org/wiki/Nsongo_language\nhttps://www.wikidata.org/entity/Q7067577"
+  },
+  "classification": {
+    "sub": "**hh:ld:Pires:Songo**",
+    "subrefs": "\n**hh:ld:Pires:Songo**"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:26865**\n**eballiso2009:52761**\n**hh:h:Guthrie:Polyglotta**\n**hh:h:deMagalhaes:Ba-Songos**\n**hh:hew:JaspertJaspert:Mittel-Angolas**\n**hh:hew:Lux:Loanda-Kimbundu**\n**hh:hv:Bastinetal:Bantu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:ld:Pires:Songo**\n**hh:ld:deAbreu:Songo**"
+  },
+  "altnames": {
+    "multitree": "\nNsongo\nSongo\nSungu",
+    "lexvo": "\nNsongo [en]",
+    "hhbib_lgcode": "\nBa-Songos\nBasongo\nMassongo\nSongo\nSongo H26\nSongu H24 in Zaire"
+  },
+  "triggers": {
+    "lgcode": "\nsongos\nNOT und AND songo\nsongo\nminungo"
+  },
+  "identifier": {
+    "multitree": "nsx"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Songo (nsx-nsx) = 5* (Developing)."
+  }
+}

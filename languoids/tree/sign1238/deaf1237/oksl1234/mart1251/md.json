@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Martha's Vineyard Sign Language",
+    "hid": "mre",
+    "level": "language",
+    "iso639-3": "mre",
+    "latitude": "41.414542",
+    "longitude": "-70.625275",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Martha's Vineyard Sign Language](https://endangeredlanguages.com/lang/7209)\nhttps://www.wikidata.org/entity/Q33494\nhttps://en.wikipedia.org/wiki/Martha%27s_Vineyard_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:np:nd:212**\n**cldf:woodward:12**\n**hh:hld:Nyst:Shared-Sign**\n**hh:s:Nash:Martha-Vineyard-Sign**\n**hh:soc:Groce:Martha-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nMVSL\nMartha's Vineyard Sign Language",
+    "lexvo": "\nMartha's Vineyard Sign Language [en]\nMartha’s Vineyard-tegnspråk [no]\nMartha’s Vineyards Gebärdensprache [de]",
+    "hhbib_lgcode": "\nMartha's Vineyard",
+    "elcat": "\nMVSL\nMartha's Vineyard Sign Language"
+  },
+  "identifier": {
+    "multitree": "mre",
+    "endangeredlanguages": "7209"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Martha's Vineyard Sign Language (7209-mre) = Dormant (The language fell out of use with the death of the last signing deaf resident of the town of Chilmark in 1952.\"\n\"In 1950, Eva West Look, the last of the Chilmark hereditary deaf, died. Katie West, her sister-in-law, whom Eva had brought to the Vineyard, died in 1952. Though some hearing Chilmarkers continued to use the sign language among themselves, they did not use it with people in the town who became deaf, nor with people from out of town.) [Nash 2015](cldf:nash:15)"
+  },
+  "classification": {
+    "sub": "Historical evidence points to a relation between Martha's Vineyard Sign Language [mart1251] and Old Kentish Sign Language [oldk1238] (**hh:soc:Groce:Martha-Sign**, **hh:s:Nash:Martha-Vineyard-Sign**:608-612).",
+    "subrefs": "\n**hh:s:Nash:Martha-Vineyard-Sign**\n**hh:soc:Groce:Martha-Sign**"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kanu",
+    "hid": "khx",
+    "level": "language",
+    "iso639-3": "khx",
+    "latitude": "-1.82559",
+    "longitude": "28.1017",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Kanu](https://endangeredlanguages.com/lang/4604)\nhttps://www.wikidata.org/entity/Q12952571"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:botne:03**\n**cldf:felix:87:1**\n**cldf:felix:87:3**\n**cldf:johnston:19:7**\n**cldf:johnston:19:8**\n**cldf:kyankenge:85**\n**cldf:lewis:ed:09**\n**eballiso2009:19737**\n**eballiso2009:25996**\n**eballiso2009:37408**\n**eballiso2009:51255**\n**eballiso2009:52574**\n**eballiso2009:52575**\n**hh:h:Biebuyck:Lega**\n**hh:hv:HackettvanBulck:ETeam**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**"
+  },
+  "altnames": {
+    "multitree": "\nKaanu\nKano\nKanu\nLikanu",
+    "lexvo": "\nKanu [en]",
+    "hhbib_lgcode": "\nKiKaanu\nNE Kilega",
+    "elcat": "\nKaanu\nKano\nKanu\nLikanu"
+  },
+  "triggers": {
+    "lgcode": "\nmetallurgie\norientalis\nyakusu\nbeya\nmoteur"
+  },
+  "identifier": {
+    "multitree": "khx",
+    "endangeredlanguages": "4604"
+  },
+  "classification": {
+    "sub": "**hh:h:Biebuyck:Lega** **hh:s:Botne:Lega**:422-423",
+    "subrefs": "\n**hh:h:Biebuyck:Lega**\n**hh:s:Botne:Lega**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kanu (4604-khx) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

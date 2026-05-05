@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Zay",
+    "hid": "zwa",
+    "level": "language",
+    "iso639-3": "zwa",
+    "latitude": "8.01148",
+    "longitude": "38.8258",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Zay](https://endangeredlanguages.com/lang/3092)\n[Zway](https://lexibank.clld.org/languages/felekesemitic-Zway)\nhttps://en.wikipedia.org/wiki/Zay_language\nhttps://phoible.org/languages/zayy1238\nhttps://www.wikidata.org/entity/Q10195"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:gardner:siebert:01**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:vinson:12**\n**cldf:wedekind:wedekind:02**\n**eballiso2009:19944**\n**eballiso2009:24524**\n**eballiso2009:25706**\n**eballiso2009:3340**\n**eballiso2009:3347**\n**eballiso2009:41087**\n**eballiso2009:41872**\n**eballiso2009:43762**\n**eballiso2009:56016**\n**eballiso2009:56017**\n**hh:e:Meyer:Zay:Ethnography**\n**hh:g:Leslau:Zway**\n**hh:g:Meyer:Zay**\n**hh:hv:Leslau:Gurage**\n**hh:ld:Meyer:Zay:Language**\n**hh:phon:Ambaw:Zay**\n**hh:s:Majer:Zaj**\n**hh:s:Meyer:Zay**\n**hh:s:Meyer:Zay:2006**\n**hh:soc:Jordanetal:Zay**\n**hh:soc:Negash:Zay**\n**hh:typ:Fekadu:Zay-Fishing**\n**hh:typ:Shikur:Zay**\n**sil16:37544**\n**sil16:42575**\n**sil16:42889**"
+  },
+  "altnames": {
+    "multitree": "\nGelilla\nLak'i\nLaqi\nZaisé\nZay\nZway",
+    "lexvo": "\nZai [ca]\nZay [de]\nZay language [en]\nZayeg [br]",
+    "elcat": "\nGelilla\nLak'i\nLaqi\nZay\nZoay\nZway",
+    "hhbib_lgcode": "\nZaj"
+  },
+  "triggers": {
+    "lgcode": "\nzay\nzway"
+  },
+  "identifier": {
+    "multitree": "zwa",
+    "endangeredlanguages": "3092"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:v:BulakhKogan:Ethiopian-Semitic:2014**",
+    "subrefs": "\n**hh:v:BulakhKogan:Ethiopian-Semitic:2014**\n**hh:hv:Weninger:Ethio-Semitic**\n**hh:hv:Voigt:North-South-Ethiopian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zay (3092-zwa) = Threatened (20 percent certain, based on the evidence available) [Wedekind and Wedekind 2002](cldf:wedekind:wedekind:02)"
+  }
+}

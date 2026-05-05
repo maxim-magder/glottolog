@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ama (Papua New Guinea)",
+    "hid": "amm",
+    "level": "language",
+    "iso639-3": "amm",
+    "latitude": "-4.20192",
+    "longitude": "141.658",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ama](https://endangeredlanguages.com/lang/10662)\n[Ama](https://lexibank.clld.org/languages/transnewguineaorg-ama)\n[Ama](https://wals.info/languoid/lect/wals_code_amm)\n[Ama (Papua New Guinea)](https://grambank.clld.org/languages/amap1240)\nhttps://en.wikipedia.org/wiki/Ama_language_(New_Guinea)\nhttps://www.wikidata.org/entity/Q3446626"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Bengtsson:Ama**\n**hh:e:Guddemi:Sawiyano**\n**hh:e:Guddemi:Sawiyano:HG**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:SkoKwomtariLeftMay**\n**hh:hvw:ConradDye:USepik**\n**hh:ld:Arsjo:Ama**\n**hh:s:Arsjo:Ama**\n**hh:typ:Arsjo:Ama**\n**hh:w:Laycock:D1**\n**sil16:15306**\n**sil16:17637**\n**sil16:17638**\n**sil16:17639**\n**sil16:23088**\n**sil16:34569**\n**silpng:silpng1956-1990:1204**\n**silpng:silpng1956-1990:1205**\n**silpng:silpng1956-1990:1206**\n**silpng:silpng1956-1990:1207**\n**silpng:silpng1956-1990:27**\n**silpng:silpng1956-1990:28**\n**silpng:silpng1956-1990:29**\n**silpng:silpng1956-1990:30**\n**silpng:silpng1956-1990:31**\n**silpng:silpng1991-2000:103**\n**silpng:silpng1991-2000:104**\n**silpng:silpng1991-2000:105**\n**silpng:silpng1991-2000:106**\n**silpng:silpng1991-2000:107**\n**silpng:silpng1991-2000:108**\n**silpng:silpng1991-2000:109**"
+  },
+  "altnames": {
+    "multitree": "\nAma\nSawiyanu\nWanibu",
+    "lexvo": "\nAma (Papua New Guinea) [en]\nAma [en]",
+    "hhbib_lgcode": "\nAma\nApaka (Kua) village Waniabu language 1963\nAsawi village Waniabu language (May River area) 1964\nKauya or Paropa village Waniabu language T. Webb 1965\nNasiap village Waniabu language 1963\nWaniabu",
+    "elcat": "\nAma\nNeinbonei\nSawiyanu\nWaniabu"
+  },
+  "triggers": {
+    "lgcode": "\nsawiyano\nliterates\npuko\npukaa\nmoter\nliali\nainemo\namafolket\nimo\ntukoo\nordet\nmilaa"
+  },
+  "identifier": {
+    "wals": "amm",
+    "multitree": "amm",
+    "endangeredlanguages": "10662"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ConradDye:USepik**",
+    "subrefs": "\n**hh:hvw:ConradDye:USepik**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ama (10662-amm) = Vulnerable (60 percent certain, based on the evidence available) (Children grow up learning to speak the language.) [Årsjö 1999](cldf:arsjoe:99)"
+  }
+}

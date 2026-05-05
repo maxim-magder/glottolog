@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ewondo",
+    "hid": "ewo",
+    "level": "language",
+    "iso639-3": "ewo",
+    "latitude": "4.21141",
+    "longitude": "11.93646",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Ewondo](https://wals.info/languoid/lect/wals_code_ewo)\nhttps://en.wikipedia.org/wiki/Ewondo_language\nhttps://phoible.org/languages/ewon1239\nhttps://www.wikidata.org/entity/Q35459"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abega:70**\n**cldf:biloa:96**\n**cldf:malherbe:rosenberg:96**\n**cldf:neely:94**\n**eballiso2009:13**\n**eballiso2009:28707**\n**hh:d:Tsala:Ewondo**\n**hh:e:Nekes:Jaunde**\n**hh:ew:Tessmann:Pangwe**\n**hh:g:Angenot:Ewondo**\n**hh:g:Essono:Ewondo**\n**hh:g:Essono:Ewondo:2000**\n**hh:g:Nekes:Jaunde**\n**hh:g:Redden:Ewondo**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:hew:Koch:Molundu**\n**hh:hv:AlexandreBinet:Pahouin**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Janssens:Bantou-A**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvw:GuarismaPaulian:Bantous**\n**hh:hvw:Meinhof:Kamerun**\n**hh:hvw:Wega:Polri**\n**hh:phon:Biakolo:Ewondo-Mvele**\n**hh:phon:Owona:Ewondo**\n**hh:s:Abega:Ewondo**\n**hh:s:Abesoolo:Ewondo**\n**hh:s:EssonoAbega:Ewondo**\n**hh:s:GraffinPichon:Ewondo**\n**hh:s:Haarpaintner:Yaunde**\n**hh:s:Meyer:Fok**\n**hh:s:Nekes:Jaunde**\n**hh:s:Tabi-Manga:Ewondo**\n**hh:w:Boum:Bakja-Bamvele-Mvele**\n**mpieva:Essono1994Descript**\n**mpieva:Essono2000LEwondol**\n**mpieva:Nekes1911Lehrbuch**\n**sil16:19206**\n**sil16:19207**\n**sil16:19208**\n**sil16:19209**\n**sil16:19210**\n**sil16:31663**\n**sil16:35654**\n**sil16:40679**"
+  },
+  "altnames": {
+    "wals": "\nEwondo",
+    "wals other": "\nYaunde",
+    "ruhlen (1987)": "\nEwondo",
+    "moseley & asher (1994)": "\nEwondo",
+    "multitree": "\nEwondo\nEwundu\nJaunde\nYaounde\nYaunde",
+    "lexvo": "\nEwondo [de]\nEwondo language [en]\nJęzyk yaunde [pl]\néwondo [fr]",
+    "hhbib_lgcode": "\nA72a_Ewondo\nEwondo 1 A72\nEwondo 2 A72\nFuk (Fök-Fu)\nFök\nJaunde\nMvele\nOmvang\nYebekolo\nYesum-Yebekanga"
+  },
+  "triggers": {
+    "lgcode": "\nlewondo\newando\newondo\nfok\njaunde\nyaundesprache"
+  },
+  "identifier": {
+    "wals": "ewo",
+    "multitree": "ewo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Wega:Polri**",
+    "subrefs": "\n**hh:hvw:Wega:Polri**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ewondo (ewo-ewo) = 3 (Wider communication). Originated in the forests south of the Sanaga river (East, Centre, and Littoral regions of Cameroon). Used for trade."
+  }
+}

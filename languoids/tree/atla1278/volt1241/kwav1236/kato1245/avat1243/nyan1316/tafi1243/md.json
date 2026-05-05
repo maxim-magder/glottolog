@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tafi",
+    "hid": "tcd",
+    "level": "language",
+    "iso639-3": "tcd",
+    "latitude": "6.79522",
+    "longitude": "0.39875",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Tafi](https://grambank.clld.org/languages/tafi1243)\nhttps://www.wikidata.org/entity/Q36545"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:17654**\n**eballiso2009:25464**\n**eballiso2009:28382**\n**hh:g:Bobuafor:Tafi**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:hwtyp:Seidel:Togo**\n**hh:ld:Ford:Discourse-Three-Ghanaian**\n**hh:typ:Bobuafor:Tafi**"
+  },
+  "altnames": {
+    "multitree": "\nNyangbo-Tafi\nTafi\nTegbo",
+    "lexvo": "\nTafi [en]"
+  },
+  "triggers": {
+    "lgcode": "\nnyangbo"
+  },
+  "identifier": {
+    "multitree": "tcd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Ghana-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Ghana-Togo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tafi (1327-tcd) = Vulnerable"
+  }
+}

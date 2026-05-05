@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Burmbar",
+    "hid": "vrt",
+    "level": "language",
+    "iso639-3": "vrt",
+    "latitude": "-16.41653",
+    "longitude": "167.73124",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Burmbar](https://endangeredlanguages.com/lang/10750)\n[Burmbar (Fartavo)](https://lexibank.clld.org/languages/abvdoceanic-BurmbarFartavo)\nhttps://en.wikipedia.org/wiki/Burmbar_language\nhttps://www.wikidata.org/entity/Q2928522"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3120**\n**asjp2010:3300**\n**asjp2010:3551**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:np:15:2**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**\n**hh:v:Hoback:Banam-Bay**\n**iso6393:2008-010**"
+  },
+  "altnames": {
+    "multitree": "\nBanam Bay\nBanan Bay\nBurmbar\nMallicolo\nVartavo",
+    "lexvo": "\nBanam Bay [en]\nBurmbar [en]",
+    "hhbib_lgcode": "\nBanam Bay\nLepaxsivir\nVartavo",
+    "elcat": "\nBanam Bay\nBurmbar\nVartavo"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "vrt",
+    "endangeredlanguages": "10750"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Burmbar (10750-vrt) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

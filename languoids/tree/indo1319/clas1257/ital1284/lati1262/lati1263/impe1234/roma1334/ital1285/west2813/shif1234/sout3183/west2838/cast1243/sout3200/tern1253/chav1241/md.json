@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Chavacano",
+    "hid": "cbk",
+    "level": "language",
+    "iso639-3": "cbk",
+    "latitude": "7.435034",
+    "longitude": "122.18849",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Cavite Chabacano](https://apics-online.info/contributions/45)\n[Chavacano](https://wals.info/languoid/lect/wals_code_cvc)\n[Zamboanga Chabacano](https://apics-online.info/contributions/46)\nhttps://en.wikipedia.org/wiki/Chavacano\nhttps://www.wikidata.org/entity/Q33281"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aoto:02**\n**cldf:escalante:05**\n**cldf:forman:93**\n**cldf:kouwenberg:ed:03:7**\n**cldf:lipski:88**\n**cldf:lipski:john:etal:96**\n**cldf:llamado:72**\n**cldf:np:05**\n**cldf:ogiwara:02**\n**cldf:plag:ed:03:3**\n**cldf:riegodedios:89**\n**cldf:romanillos:06**\n**cldf:sippola:10**\n**cldf:valles-akil:00**\n**cldf:zimmermann:ed:01:1**\n**hh:d:Riego:Philippine-Creole**\n**hh:g:Forman:Zamboangeno**\n**hh:ht:Whinnom:Spanish-Philippine**\n**hh:ld:Bartens:Chabacano**\n**hh:ld:Grant:Zamboangeno**\n**hh:s:Escalante:Chabacano**\n**hh:s:German:Cavite**\n**hh:s:Llamado:Cavite-Chavacano**\n**hh:s:Lorenzino:Spanish**\n**hh:s:McKaughan:Chabacano**\n**hh:s:Schuchardt:Malaiospanische**\n**hh:s:Sippola:Cavite**\n**hh:s:Steinkruger:Zamboanga**\n**hh:soc:Fernandez:Chabacano**\n**hh:soc:Genuino:Chabacano**\n**hh:soc:LeshoSippola:Chabacano**\n**hh:socphon:Lesho:Cavite**\n**hh:sv:Perez:Cavite-Chabacano**\n**hh:ttyp:Santos:Caviteno**\n**hh:typ:Lipski:Zamboangueno**\n**hh:v:Frake:Zamboangeno**\n**hh:v:Steinkruger:Chabacano**\n**sil16:32220**\n**sil16:48313**\n**sil16:48367**\n**sil16:51520**"
+  },
+  "altnames": {
+    "wals": "\nChavacano",
+    "ruhlen (1987)": "\nChavacano",
+    "moseley & asher (1994)": "\nChavacano",
+    "multitree": "\nChabacano\nChabakan\nChavacano\nZamboangueño",
+    "lexvo": "\nChabacano [br]\nChabacano nyelv [hu]\nChavacano [cbk]\nChavacano language [en]\nChavacano-ngî [hak]\nIdioma chabacano [es]\nJęzyk chavacano [pl]\nLingua chavacan [ia]\nLingua zamboangueña [it]\nLíngua chavacana [pt]\nPinulongang Tsabakano [ceb]\nTataramon na Zamboangueño [bcl]\nWikang Zamboangueño [tl]\nЧабакано [ru]\nภาษาชาวากาโน [th]\nチャバカノ語 [ja]\n차바카노어 [ko]",
+    "hhbib_lgcode": "\nCavite\nCaviteño\nChabacano\nZamboangeno\nZamboangeño\nZamboangueño"
+  },
+  "triggers": {
+    "lgcode": "\nzamboangueno\nrelexificacion\ncavite\nportuges\nmalaiospanische\nNOT un AND chabacano\nisabelita\nlexified\nzamboanga"
+  },
+  "identifier": {
+    "wals": "cvc",
+    "multitree": "cbk"
+  },
+  "classification": {
+    "subrefs": "\n**hh:g:Sippola:Chabacano**",
+    "sub": "**hh:g:Sippola:Chabacano**:25-27"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chavacano (cbk-cbk) = 6b (Threatened)."
+  }
+}

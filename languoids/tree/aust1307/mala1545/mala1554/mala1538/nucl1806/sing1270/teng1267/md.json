@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tenggarong Kutai Malay",
+    "hid": "vkt",
+    "level": "language",
+    "iso639-3": "vkt",
+    "latitude": "0.71803",
+    "longitude": "117.645",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kutai](https://wals.info/languoid/lect/wals_code_kuy)\nhttps://www.wikidata.org/entity/Q12683226"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fudiatsuryadikara:ibrahim:etal:84**\n**hh:ew:Witkamp:Koetei**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Collins:Malay-Borneo**\n**hh:s:Suryadikara:Kutai**\n**hh:s:Suryadikara:Kutai:1979**\n**hh:typ:Awang:Kutai**\n**hh:typ:Sugiyono:Kutai**"
+  },
+  "altnames": {
+    "wals": "\nKutai",
+    "moseley & asher (1994)": "\nMalay",
+    "multitree": "\nKutai\nMalay (Tenggarong Kutai)\nMalay, Tenggarong Kutai\nTenggarong\nTenggarong Kutai Malay",
+    "lexvo": "\nTenggarong Kutai Malay [en]",
+    "hhbib_lgcode": "\nKutai\nKutai Malay\nMalay-Tenggarong Kutai\nOn the dialect of Muara Antjalung p. 589 List of 75 Kutai words p. 608—610\np. 589 List of 75 Kutai words p. 608—610"
+  },
+  "triggers": {
+    "lgcode": "\nkuti\nkutai\npemarkah\ninterrogatif\noudheden\nkontras\nprosodik\nkoetei\ndeklaratif"
+  },
+  "identifier": {
+    "wals": "kuy",
+    "multitree": "vkt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Collins:Malay-Borneo**:45",
+    "subrefs": "\n**hh:hv:Collins:Malay-Borneo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, Tenggarong Kutai (vkt-vkt) = 6b (Threatened)."
+  }
+}

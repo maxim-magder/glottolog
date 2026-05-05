@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Anam",
+    "hid": "pda",
+    "level": "language",
+    "iso639-3": "pda",
+    "latitude": "-4.68869",
+    "longitude": "145.051",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Anam](https://endangeredlanguages.com/lang/4954)\n[Anam](https://lexibank.clld.org/languages/transnewguineaorg-anam)\n[anam](https://lexibank.clld.org/languages/zgraggenmadang-anam)\nhttps://en.wikipedia.org/wiki/Anam_language\nhttps://www.wikidata.org/entity/Q3501930"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:599**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:SAdelbert**"
+  },
+  "altnames": {
+    "multitree": "\nAnam\nPondoma",
+    "lexvo": "\nAnam [en]",
+    "hhbib_lgcode": "\nPondoma",
+    "elcat": "\nAnam\nPondoma"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "identifier": {
+    "multitree": "pda",
+    "endangeredlanguages": "4954"
+  },
+  "classification": {
+    "sub": "**hh:hv:Daniels:Sogeram:2015**",
+    "subrefs": "\n**hh:hv:Daniels:Sogeram:2015**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Anam (4954-pda) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

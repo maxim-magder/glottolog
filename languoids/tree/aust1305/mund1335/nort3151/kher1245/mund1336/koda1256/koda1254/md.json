@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kodaku",
+    "hid": "ksz",
+    "level": "language",
+    "iso639-3": "ksz",
+    "latitude": "23.5757",
+    "longitude": "83.8454",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q21179986"
+  },
+  "classification": {
+    "sub": "**hh:e:SinghDanda:Kodaku**",
+    "subrefs": "\n**hh:e:SinghDanda:Kodaku**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Singh:Kodaku**\n**hh:e:SinghDanda:Kodaku**\n**hh:wsoc:Behera:Korwa-Kodaku**\n**iso6393:2007-148**"
+  },
+  "altnames": {
+    "multitree": "\nKodaku\nKoraku\nKorku",
+    "lexvo": "\nKodaku [en]",
+    "hhbib_lgcode": "\nKodaku in Bankheta in Surguja"
+  },
+  "triggers": {
+    "lgcode": "\nterms AND korku"
+  },
+  "identifier": {
+    "multitree": "ksz"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kodaku (ksz-ksz) = 6b* (Threatened)."
+  }
+}

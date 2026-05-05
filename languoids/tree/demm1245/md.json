@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dem",
+    "hid": "dem",
+    "level": "language",
+    "iso639-3": "dem",
+    "latitude": "-3.72183",
+    "longitude": "137.632",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Dem](https://endangeredlanguages.com/lang/4070)\nhttps://www.wikidata.org/entity/Q5254989\nhttps://en.wikipedia.org/wiki/Dem_language"
+  },
+  "classification": {
+    "family": "The cognation judgments involving Dem in **hh:hvw:Larson:Irian-Highlands** are\noverly optimistic in that a match is judged if at least one segment matches.\nThis procedure yields inconsistent sound correspondences. The lexicostatistic\nargument for relatedness is the only one offered so far, and apart from probable\nborrowings, we cannot find any cognates in vocabulary or morphology.",
+    "familyrefs": "\n**hh:hvw:Larson:Irian-Highlands**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:10:2**\n**cldf:hammarstroem:17**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hew:deBruijn:Beura-Beurong**\n**hh:hvld:LeRoux:Bergpapoeas**\n**hh:hvw:Larson:Irian-Highlands**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:w:LeRoux:Dem**\n**hh:w:LeRoux:Uhunduni**\n**hh:w:Stokhof:Holle:5:2**"
+  },
+  "altnames": {
+    "multitree": "\nDem\nLem\nNdem",
+    "lexvo": "\nDem [en]",
+    "hhbib_lgcode": "\nDem (LR)\nDem (not original)\nDèm",
+    "elcat": "\nDem\nLem\nNdem"
+  },
+  "triggers": {
+    "lgcode": "\nzinnen\nuitdrukkingen\nalphabetische"
+  },
+  "identifier": {
+    "multitree": "demm;dem",
+    "endangeredlanguages": "4070"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dem (4070-dem) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

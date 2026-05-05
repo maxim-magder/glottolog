@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Southern Puget Sound Salish",
+    "hid": "slh",
+    "level": "language",
+    "iso639-3": "slh",
+    "latitude": "47.263",
+    "longitude": "-122.141",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Salish (Southern Puget Sound)](https://wals.info/languoid/lect/wals_code_sps)\nhttps://en.wikipedia.org/wiki/Southern_Lushootseed\nhttps://www.wikidata.org/entity/Q7997684",
+    "timespan": "2016-01-01/2016-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ballard:35**\n**cldf:haeberlin:gunther:30**\n**cldf:kroeber:86**\n**cldf:smith:40:1**\n**cldf:smith:40:2**\n**hh:d:Gibbs:Niskwalli**\n**hh:e:HaeberlinGunther:Puget**\n**hh:e:SuttlesLane:Southern-Coast-Salish**\n**hh:g:HessHilbert:Lushootseed**\n**hh:hv:Swadesh:Salish:1950**\n**hh:hw:Tolmie:BC**\n**hh:ld:Eells:Twana**\n**hh:s:Ranson:Duwamish**\n**hh:s:Snyder:Southern-Puget-Sound**\n**hh:s:Snyder:Southern-Puget:1968**\n**hh:s:Tweddell:Snoqualmie-Duwamish**\n**hh:t:Barnard:Southern-Puget-Salish**\n**mpieva:2004Studiesi**\n**sil16:15818**"
+  },
+  "altnames": {
+    "wals": "\nSalish (Southern Puget Sound)",
+    "lexvo": "\nSouthern Puget Sound Salish [en]",
+    "hhbib_lgcode": "\nNiskwall Sinahomish\nNiskwalli\nNisqualli Ni\nNisqually\nSalish-Southern Puget Sound\nSkwaksin dialect of Niskwalli\nSnuqwualmi"
+  },
+  "triggers": {
+    "lgcode": "\nduwamish\nniskwalli\nkinkade\npuget"
+  },
+  "identifier": {
+    "wals": "sps"
+  },
+  "classification": {
+    "sub": "**hh:d:Batesetal:Lushootseed**:i-xiii",
+    "subrefs": "\n**hh:d:Batesetal:Lushootseed**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Southern Lushootseed (slh-slh) = 9 (Dormant). Language of registered tribe: Nisqually Indian Tribe, Snoqualmie Indian Tribe, Squaxin Island Tribe of the Squaxin Island Reservation, Suquamish Indian Tribe of the Port Madison Reservation, Tulalip Tribes of Washington."
+  }
+}

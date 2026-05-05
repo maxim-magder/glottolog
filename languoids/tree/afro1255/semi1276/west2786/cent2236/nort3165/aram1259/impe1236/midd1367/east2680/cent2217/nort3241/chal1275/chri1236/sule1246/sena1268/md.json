@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Senaya",
+    "hid": "syn",
+    "level": "dialect",
+    "iso639-3": "syn",
+    "latitude": "35.7776",
+    "longitude": "51.4363",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AU",
+      "IR",
+      "US"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Christian_Neo-Aramaic_dialect_of_Senaya\n[Senaya](https://endangeredlanguages.com/lang/5432)\nhttps://www.wikidata.org/entity/Q33914"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:haeberl:13**\n**cldf:lewis:ed:09**\n**cldf:mcpherson:caldani:13**\n**cldf:mcpherson:ryan:11**\n**cldf:np:12:5**\n**cldf:np:nd:213**\n**cldf:np:nd:264**\n**hh:hv:Hopkins:Neo-Aramaic-Iran**\n**hh:s:Panoussi:Senaya**\n**hh:typ:Heinrichs:Senaya**\n**hh:typ:Kalin:Neo-Aramaic**\n**hh:typ:Kalin:Senaya**\n**hh:w:Panoussi:Senaya**"
+  },
+  "altnames": {
+    "multitree": "\nChristian Neo-Aramaic\nLshan Sray\nNeo-arameo cristiano\nSena:ya\nSenaya\nShan Gyanan\nShan Sray\nSoray\nSray",
+    "lexvo": "\nSenaya [en]\nSenaya jezik [hr]\nSenaya language [en]\nSenayeg [br]\nСенајски јазик [mk]\nภาษาเซนายา [th]",
+    "hhbib_lgcode": "\nKurdistan Christian",
+    "elcat": "\nChristian Neo-Aramaic\nLshan Sray\nSena:ya\nSenaya\nShan Gyanan\nShan Sray\nSoray\nSray"
+  },
+  "triggers": {
+    "lgcode": "\nsenaya"
+  },
+  "identifier": {
+    "multitree": "syn",
+    "endangeredlanguages": "5432"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mutzafi:Trans-Zab**",
+    "subrefs": "\n**hh:hv:Mutzafi:Trans-Zab**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Senaya (5432-syn) = Endangered (60 percent certain, based on the evidence available) [McPherson and Caldani 2013](cldf:mcpherson:caldani:13)"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Senaya [syn] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate Christian Neo-Aramaic language of Sanandaj in Iran. But this variety is closely related to the subgroup of Suleimaniyya Christian dialects (**hh:hv:Khan:Neo-Aramaic-Iran**:447-448) of the Chaldean Neo-Aramaic [cld] entry and does not warrant a separate entry. See also: Chaldean Neo-Aramaic [cld].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "syn"
+  }
+}

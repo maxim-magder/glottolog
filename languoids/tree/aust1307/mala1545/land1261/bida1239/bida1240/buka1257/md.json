@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Bukar-Sadung Bidayuh",
+    "hid": "sdo",
+    "level": "language",
+    "iso639-3": "sdo",
+    "latitude": "0.96817",
+    "longitude": "110.657",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\n[Bukar-Sadung Bidayuh](https://grambank.clld.org/languages/buka1257)\n[Mentuh Tapuh](https://wals.info/languoid/lect/wals_code_mta)\nhttps://en.wikipedia.org/wiki/Bukar%E2%80%93Sadong_language\nhttps://www.wikidata.org/entity/Q2927799"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:court:72**\n**cldf:nais:88**\n**hh:ew:Elam:Dayaks-Sadong**\n**hh:hdial:Topping:Land-Dayaks**\n**hh:hv:McGinn:Rejang-Borneo**\n**hh:hv:McGinn:Rejang-Bukar-Sadong**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hw:Ray:Borneo**\n**hh:ld:Court:Mentu-Land-Dayak**\n**hh:phon:Court:Mentu-Land-Dayak**\n**hh:v:Renschetal:Bidayuh**\n**hh:v:Renschetal:Bidayuh:2006**\n**hh:w:Aichner:Land-Dayaks**\n**hh:w:Mace:Tebekang**\n**iso6393:2007-243**\n**sil16:47135**\n**sil16:47136**\n**sil16:47345**\n**sil16:51516**"
+  },
+  "altnames": {
+    "wals": "\nMentuh Tapuh",
+    "wals other": "\nMentu",
+    "ruhlen (1987)": "\nBukar Sadong",
+    "moseley & asher (1994)": "\nBukar Sadong",
+    "multitree": "\nBuka\nBukar\nBukar Sadong\nSabutan\nSadong\nSaputan\nSeputan\nSerian\nTebakang",
+    "lexvo": "\nBukar-Sadung Bidayuh [en]",
+    "hhbib_lgcode": "\nBedayuh-Serian\nBidayuh-Bukar-Sadong\nBukar Sadong\nBukar-Sadong\nKampong Tapuh in the southern part of the Upper Sadong (Serian) District\nSadong\nTebakang\nTebekang"
+  },
+  "triggers": {
+    "lgcode": "\nbidayuh\nmentu\nsadong"
+  },
+  "identifier": {
+    "wals": "mta",
+    "multitree": "sdo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:139-168 **hh:hv:SmithRama:Borneo**:205",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:SmithRama:Borneo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bidayuh Serian (sdo-sdo) = 6b (Threatened)."
+  }
+}

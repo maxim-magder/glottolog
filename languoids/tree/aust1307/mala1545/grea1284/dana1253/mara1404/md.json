@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Maranao",
+    "hid": "mrw",
+    "level": "language",
+    "iso639-3": "mrw",
+    "latitude": "7.79414",
+    "longitude": "124.175",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Maranao](https://grambank.clld.org/languages/mara1404)\n[Maranao](https://wals.info/languoid/lect/wals_code_mrn)\nhttps://en.wikipedia.org/wiki/Maranao_language\nhttps://phoible.org/languages/mara1404\nhttps://www.wikidata.org/entity/Q33800"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mckaughan:58**\n**hh:hv:Allison:Danaw**\n**hh:hvw:Fleischman:Danao**\n**hh:ld:Aragon:Meranaw**\n**hh:phon:LobelRiwarung:Maranao**\n**hh:phonv:LobelRiwarung:Maranao**\n**hh:sd:MacKaughanMacaraya:Maranao**\n**hh:w:Elliott:Lanao-Moro**\n**hh:w:Yap:Philippine**\n**mpieva:MacKaughan1958Theinfle**\n**mpieva:MacKaughan1967AMaranao**\n**sil16:11658**\n**sil16:11659**\n**sil16:11662**\n**sil16:11667**\n**sil16:11668**\n**sil16:12612**\n**sil16:14869**\n**sil16:16161**\n**sil16:29633**\n**sil16:40149**"
+  },
+  "altnames": {
+    "wals": "\nMaranao",
+    "ruhlen (1987)": "\nMaranao",
+    "moseley & asher (1994)": "\nMaranao",
+    "multitree": "\nMaranao\nMaranaw\nRanao",
+    "lexvo": "\nMaranao [en]\nMaranao language [en]\nMaranao-ngî [hak]\nMinaranaw [ceb]\nภาษามาราเนา [th]",
+    "hhbib_lgcode": "\nLanao Moro\nMëranaw"
+  },
+  "triggers": {
+    "lgcode": "\nmaranao\nmaranaw\npuganadan"
+  },
+  "identifier": {
+    "wals": "mrn",
+    "multitree": "mrw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Allison:Danaw**",
+    "subrefs": "\n**hh:hv:Allison:Danaw**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maranao (mrw-mrw) = 6b (Threatened). De facto language of provincial identity in Lanao del Sur."
+  }
+}

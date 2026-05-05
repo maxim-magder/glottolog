@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lelepa",
+    "hid": "lpa",
+    "level": "language",
+    "iso639-3": "lpa",
+    "latitude": "-17.6042",
+    "longitude": "168.202",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lelepa](https://endangeredlanguages.com/lang/10802)\n[Lelepa](https://grambank.clld.org/languages/lele1267)\n[Lelepa](https://lexibank.clld.org/languages/abvdoceanic-Lelepa)\nhttps://en.wikipedia.org/wiki/Lelepa_language\nhttps://www.wikidata.org/entity/Q3229273"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2071**\n**hh:g:Lacrampe:Lelepa**\n**hh:hv:Clark:Efate**\n**hh:hv:Clark:Efatic**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Lacrampe:Lelepa**\n**hh:sd:MacDonald:Efate**"
+  },
+  "altnames": {
+    "multitree": "\nHavannah Harbour\nLelepa",
+    "lexvo": "\nLelepa [en]",
+    "hhbib_lgcode": "\n= Lelepa\nHavannah Point",
+    "elcat": "\nHavannah Harbour\nLelepa"
+  },
+  "triggers": {
+    "lgcode": "\nlelepa\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "lpa",
+    "endangeredlanguages": "10802"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lelepa (10802-lpa) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

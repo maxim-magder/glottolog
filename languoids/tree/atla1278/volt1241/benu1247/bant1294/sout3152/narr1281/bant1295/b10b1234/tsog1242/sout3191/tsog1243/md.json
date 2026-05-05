@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tsogo",
+    "hid": "tsv",
+    "level": "language",
+    "iso639-3": "tsv",
+    "latitude": "-1.55469",
+    "longitude": "11.1359",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\n[Tsogo](https://grambank.clld.org/languages/tsog1243)\n[Tsogo](https://wals.info/languoid/lect/wals_code_tgo)\nhttps://en.wikipedia.org/wiki/Tsogo_language\nhttps://www.wikidata.org/entity/Q36674"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4739**\n**cldf:balandier:52**\n**cldf:maclatchy:45**\n**cldf:raponda-walker:50**\n**eballiso2009:14288**\n**eballiso2009:14289**\n**eballiso2009:14290**\n**eballiso2009:14291**\n**eballiso2009:1482**\n**eballiso2009:1483**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:33**\n**eballiso2009:37**\n**eballiso2009:37050**\n**eballiso2009:37060**\n**eballiso2009:39583**\n**eballiso2009:46421**\n**eballiso2009:48210**\n**eballiso2009:51270**\n**eballiso2009:55101**\n**eballiso2009:55103**\n**eballiso2009:55104**\n**eballiso2009:55106**\n**hh:e:Bonhommeetal:Babongo**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hv:vanderVeen:B30**\n**hh:hvs:vanderVeen:Okani**\n**hh:hvw:Klieman:WEquatorial**\n**hh:s:Marchal:Tsogo**\n**hh:s:Raponda:Ebongwe**\n**hh:s:Raponda:Ebongwe:1996**\n**hh:s:Raponda:Tsogo**\n**hh:s:Raponda:Tsogo:1996**\n**ldh:item_401889**"
+  },
+  "altnames": {
+    "wals": "\nTsogo",
+    "ruhlen (1987)": "\nTsogo",
+    "moseley & asher (1994)": "\nTsogo",
+    "multitree": "\nGetsogo\nGhetsogo\nMitsogo\nTsogo",
+    "lexvo": "\nTsogo [en]",
+    "hhbib_lgcode": "\nB31_Tsogo\nBabongo-Tsogo\nBongwe\nBongwe of Raponda-Walker close to Tsogo\nBongwè (Babongo)\nEbongo\nEbongo-Itsogho (B31.1) Okondja in Prov. Ngounié in Gabon 71 percent cognate with Tsogo\nEbongwe\nEbongwe very close to Tsogo\nGetsogo\nItsogho\nTsogo B31\nɣe-tsɔɣɔ"
+  },
+  "triggers": {
+    "lgcode": "\nvoyager\ntsogo\nmitsogbo\nghetsogho\nokani\nlebongwe\ngetsogo\nb30\ntsogho\nmitsogho"
+  },
+  "identifier": {
+    "wals": "tgo",
+    "multitree": "tsv"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanderVeen:B30**",
+    "subrefs": "\n**hh:hv:vanderVeen:B30**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tsogo (tsv-tsv) = 6a* (Vigorous)."
+  }
+}

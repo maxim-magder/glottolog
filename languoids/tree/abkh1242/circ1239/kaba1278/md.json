@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kabardian",
+    "hid": "kbd",
+    "level": "language",
+    "iso639-3": "kbd",
+    "latitude": "43.5082",
+    "longitude": "43.3918",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU",
+      "TR"
+    ],
+    "links": "\n[Kabardian](https://grambank.clld.org/languages/kaba1278)\n[Kabardian](https://lexibank.clld.org/languages/joophonosemantic-Kabardian)\n[Kabardian](https://wals.info/languoid/lect/wals_code_kab)\nhttps://en.wikipedia.org/wiki/Kabardian_language\nhttps://phoible.org/languages/kaba1278\nhttps://www.wikidata.org/entity/Q33522"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:535**\n**cldf:abitov:balkarov:etal:57**\n**cldf:anonymous:70:1**\n**cldf:castagne:29**\n**cldf:kardanov:bichoev:etal:55**\n**cldf:kazenin:07**\n**cldf:kuipers:60**\n**cldf:kumaxov:71**\n**cldf:ladysenskij:29**\n**cldf:ozsoy:ed:97:5**\n**cldf:paris:99**\n**hh:d:Apazev:Kabardino**\n**hh:d:Jaimoukha:Kabardian**\n**hh:d:Kardanov:Kabardinsko**\n**hh:e:Colarusso:Circassians**\n**hh:g:Applebaum:Kabardian**\n**hh:g:Colarusso:Kabardian**\n**hh:g:Jaimoukha:Kabarde**\n**hh:g:Kumaxov:Kabardino**\n**hh:g:Turchaninov:Kabardinskogo**\n**hh:gd:Kumaxov:Kabardino**\n**hh:he:Kosven:Kavkaza:I**\n**hh:phon:Kuipers:Kabardian**\n**hh:phon:Paris:Besney**\n**hh:s:Abitov:Kabardino**\n**hh:s:AlparslanDumezil:Besney**\n**hh:s:Balkarov:Besleneevtsev**\n**hh:s:Colarusso:Kabardian**\n**hh:s:Matasovic:Kabardian**\n**hh:s:Matasovic:Kabardian:2009**\n**hh:s:Matasovic:Kabardinskoga**\n**hh:std:Balkarov:Besleneevskogo**\n**hh:typ:Jakovlev:Kabardinskogo**\n**mpieva:Abitov1957Grammati**\n**mpieva:Abitov1999Slovarka**\n**mpieva:Colarusso2006Kabardia**\n**mpieva:Kardanov1955Uryskebe**\n**mpieva:Kardanov1957Keberdej**\n**mpieva:Kumachov1971Slovoizm**\n**mpieva:Kumachov1998Dopolnit**\n**mpieva:Kumachov2006rgativno**\n**mpieva:Lipkin1951Nartykab**\n**sil16:12096**"
+  },
+  "altnames": {
+    "wals": "\nKabardian",
+    "wals other": "\nCircassian (East)\nKabardino-Cherkes",
+    "ruhlen (1987)": "\nKabardo-Cherkessian",
+    "moseley & asher (1994)": "\nKabardian",
+    "multitree": "\nBeslenei\nEast Circassian\nKabarde-tcherkesse\nKabardian\nKabardino-Cherkes\nKabardo-Cherkes\nKabardái\nUpper Circassian",
+    "lexvo": "\nIdioma cabardiano [es]\nKabarde [fr]\nKabardeyce [tr]\nKabardi-tšerkessi keel [et]\nKabardian [en]\nKabardian language [en]\nKabardin kieli [fi]\nKabardinische Sprache [de]\nKabardinski jezik [hr]\nKabardinų kalba [lt]\nKabardisch [nl]\nKabardí [ca]\nKabardčina [sk]\nLingua cabarda [it]\nZimanên çerkezî [ku]\nkabardien [fr]\nКæсгон-черкесаг æвзаг [os]\nКабардино-черкесский язык [ru]\nКабардински јазик [mk]\nКабардинська мова [uk]\nקברדינית [he]\nภาษาคาบาร์เดีย [th]\nカバルド語 [ja]\n卡巴尔达语 [zh]\n카바르디어 [ko]",
+    "hhbib_lgcode": "\nKabardintsy i Čerkesy"
+  },
+  "triggers": {
+    "lgcode": "\npregled\ntcherkesse\nrgativnostb\nkabardinsko\nbesney\nadygskich\nnarty\nkabardinskoga\nkabardian\nkabardino"
+  },
+  "identifier": {
+    "wals": "kab",
+    "multitree": "kbd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hewitt:NWC**",
+    "subrefs": "\n**hh:hv:Hewitt:NWC**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Kabard-Cherkes (1065-kbd) = Vulnerable"
+  }
+}

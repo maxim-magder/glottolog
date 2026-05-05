@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lambayeque Quechua",
+    "hid": "quf",
+    "level": "language",
+    "iso639-3": "quf",
+    "latitude": "-6.1715",
+    "longitude": "-79.468",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Lambayeque](https://lexibank.clld.org/languages/crossandean-Inkawasi)\n[Lambayeque Quechua](https://endangeredlanguages.com/lang/5307)\nhttps://en.wikipedia.org/wiki/Lambayeque_Quechua\nhttps://phoible.org/languages/lamb1276\nhttps://www.wikidata.org/entity/Q35519"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:simons:etal:ed:17**\n**cldf:np:nd:264**\n**fabreall2009ann:Quechua_canaris-incahuasi00**\n**fabreall2009ann:Quechua_canaris-incahuasi01**\n**fabreall2009ann:Quechua_canaris-incahuasi02**\n**fabreall2009ann:Quechua_canaris-incahuasi03**\n**fabreall2009ann:Quechua_canaris-incahuasi04**\n**fabreall2009ann:Quechua_canaris-incahuasi05**\n**fabreall2009ann:Quechua_canaris-incahuasi06**\n**fabreall2009ann:Quechua_canaris-incahuasi08**\n**fabreall2009ann:Quechua_canaris-incahuasi09**\n**fabreall2009ann:Quechua_canaris-incahuasi10**\n**fabreall2009ann:Quechua_canaris-incahuasi13**\n**hh:g:Taylor:Ferrenafe:1999**\n**hh:hv:Blum:Quechua**\n**hh:hv:Grimes:Quechua**\n**hh:hv:Landerman:Quechua**\n**hh:hv:Torero:Andina:1972**\n**hh:hvphon:Taylor:Quechua**\n**hh:phon:Escribens:Ferrenafe**\n**hh:s:NA:Quechua-Lambayeque**\n**hh:s:Shaver:Lambayeque**\n**hh:s:Taylor:Ferrenafe**\n**hh:s:Taylor:Ferrenafe:1996**\n**hh:s:Taylor:Ferrenafe:Dialectologia**\n**hh:v:Torero:Ferranafe-Cajamarca**\n**hh:v:Torres:Ferrenafe**\n**ldh:item_406702**\n**mpieva:2006Guiadele**\n**sil16:21800**\n**sil16:23431**\n**sil16:23436**\n**sil16:33385**\n**sil16:33386**\n**sil16:33387**\n**sil16:34410**\n**sil16:35245**\n**sil16:35254**\n**sil16:35370**\n**sil16:38107**\n**sil16:43556**\n**sil16:50733**\n**sil16:50734**"
+  },
+  "altnames": {
+    "multitree": "\nCañaris-Incahuasi\nFerreñafe\nLambayeque Kechua\nLambayeque Quechua\nQuechua, Lambayeque",
+    "lexvo": "\nIncahuasi-Cañaris [es]\nInkawasi-Kañaris [de]\nLambayeque Quechua [en]",
+    "hhbib_lgcode": "\nFer Ferreñafe-Lambayeque QIIA\nFerreñafe\nInkawasi\nLambayeque\nQuechua-Lambayeque",
+    "elcat": "\nCañaris Quechua\nCañaris-Incahuasi\nFerreñafe Quechua\nLambayeque Quechua"
+  },
+  "triggers": {
+    "lgcode": "\npukllakunan\nincahuasi\nlambayeque\ntaire\nyatrakushun\nyaapa\nferrenafe\nsurruwan\ninkawasi\nvigente"
+  },
+  "identifier": {
+    "multitree": "quf",
+    "endangeredlanguages": "5307"
+  },
+  "classification": {
+    "sub": "**hh:hv:Landerman:Quechua**:246",
+    "subrefs": "\n**hh:hv:Landerman:Quechua**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lambayeque Quechua (5307-quf) = Threatened (60 percent certain, based on the evidence available) [Lewis et al. 2017](cldf:lewis:simons:etal:ed:17)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Nauete",
+    "hid": "nxa",
+    "level": "language",
+    "iso639-3": "nxa",
+    "latitude": "-8.70733",
+    "longitude": "126.741",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "TL"
+    ],
+    "links": "\n[Nauete](https://endangeredlanguages.com/lang/2723)\n[Nauete](https://grambank.clld.org/languages/naue1237)\nhttps://en.wikipedia.org/wiki/Naueti_language\nhttps://www.wikidata.org/entity/Q6981095"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Veloso:Naueti**\n**hh:hv:Mandala:Timor-Timur**\n**hh:hvw:Hull:Timor:Austronesian**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:w:Saunders:Naueti**"
+  },
+  "altnames": {
+    "multitree": "\nNauete\nNaueti\nNauhete\nNauote\nNauoti\nNaóti",
+    "lexvo": "\nNauete [en]",
+    "hhbib_lgcode": "\nNaueti\nNaueti (ou Makaduka)",
+    "elcat": "\nNauete\nNaueti\nNauhete\nNauote\nNauoti\nNaóti"
+  },
+  "identifier": {
+    "multitree": "nxa",
+    "endangeredlanguages": "2723"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:188-194",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nauete (2723-nxa) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

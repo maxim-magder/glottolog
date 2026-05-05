@@ -1,0 +1,35 @@
+{
+  "core": {
+    "name": "Guaru",
+    "hid": "NOCODE_Guaru",
+    "level": "dialect",
+    "latitude": "-0.25",
+    "longitude": "-71.65",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Guar%C3%BA_language\nhttps://www.wikidata.org/entity/Q137883813"
+  },
+  "sources": {
+    "glottolog": "\n**hh:w:Rivet:Guaru**\n**hh:w:deIgualada:Guaru**"
+  },
+  "triggers": {
+    "lgcode": "\nguaru"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ramirez:Arawak**:447-474, 623-778",
+    "subrefs": "\n**hh:hvw:Ramirez:Arawak**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Guaru (NOCODE_Guaru-NOCODE_Guaru) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nYari"
+  }
+}

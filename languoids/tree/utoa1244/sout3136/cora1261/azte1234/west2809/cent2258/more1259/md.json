@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Morelos Nahuatl",
+    "hid": "nhm",
+    "level": "language",
+    "iso639-3": "nhm",
+    "latitude": "18.9161",
+    "longitude": "-99.1322",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Morelos Nahuatl](https://grambank.clld.org/languages/more1259)\n[Nahuatl (Milpa Alta)](https://wals.info/languoid/lect/wals_code_nmp)\nhttps://en.wikipedia.org/wiki/Morelos_Nahuatl\nhttps://www.wikidata.org/entity/Q4800819"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Dakin:Nahuatl-Morelos**\n**hh:e:Cosgrove:Morelos**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:s:Guzman:Nahuatl-Santa-Catarina**\n**hh:s:Guzman:Nahuatl-Santa-Catarina:1979**\n**hh:s:LastraHorcasitas:Nahuatl-Morelos**\n**hh:s:Montero:Hueyapan-Nahuatl**\n**hh:s:Whorf:Milpa**\n**hh:sd:Hansen:Hueyapan-Nahuatl**\n**hh:typ:Dakin:Santa-Catarina**\n**hh:typ:Hansen:Hueyapan-Nahuatl**\n**hh:w:LastraHorcasitas:Nahuatl-Distrito-Federal**\n**sil16:44919**\n**sil16:44920**\n**sil16:44922**\n**sil16:45006**\n**sil16:47112**\n**sil16:47159**\n**sil16:48020**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Nawa\nMexicano\nNahua central\nNahuatl\nNahuatl, Morelos\nNáhuatl central\nNáhuatl de Cuentepec",
+    "lexvo": "\nMorelos Nahuatl [en]",
+    "hhbib_lgcode": "\nGeographically Milpa Alta is\nGeographically this should be\nHueyapan\nHueyapan-Tetela del Volcán\nMilpa Alta\nNahuatl-Morelos\nSan Bartolomé Xicomulco-Milpa Alta\nSanta Ana Tlacotenco-Delegación de Milpa Alta-Morelos: Tepoztlán\nSanta Catarina\nSanta Catarina Zacatepec (muy cercana a Tepoztlan)\nSanta Catarina in Tepoztlan\nSanta Catarina-Morelos"
+  },
+  "triggers": {
+    "lgcode": "\nmilpa\nhueyapan\nomonemilijkej\ntlapacho\ntokaj\nconcerns\ncuentepec\ntlachijchiuaj"
+  },
+  "identifier": {
+    "multitree": "nhm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hansen:Nahuan**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Morelos (nhm-nhm) = 6a (Vigorous)."
+  }
+}

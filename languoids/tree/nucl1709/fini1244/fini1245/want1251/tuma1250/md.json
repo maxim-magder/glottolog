@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tuma-Irumu",
+    "hid": "iou",
+    "level": "language",
+    "iso639-3": "iou",
+    "latitude": "-6.29221",
+    "longitude": "146.609",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tuma-Irumu_language\nhttps://www.wikidata.org/entity/Q7852460"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Smith:Morobe**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hv:Ross:Voorhoeve**\n**hh:phon:WebbWebb:Irumu**\n**hh:typ:Webb:Irumu**\n**sil16:23723**\n**sil16:31354**\n**sil16:40078**"
+  },
+  "altnames": {
+    "multitree": "\nIrumu\nTuma\nTuma-Irumu\nUpper Irumu",
+    "lexvo": "\nTuma-Irumu [en]",
+    "hhbib_lgcode": "\nIrumu"
+  },
+  "triggers": {
+    "lgcode": "\nenthusiast\nselling"
+  },
+  "identifier": {
+    "multitree": "iou"
+  },
+  "classification": {
+    "sub": "**hh:hv:Suter:Finisterre-Huon**",
+    "subrefs": "\n**hh:hv:Suter:Finisterre-Huon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tuma-Irumu (iou-iou) = 5* (Developing)."
+  }
+}

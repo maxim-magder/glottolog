@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Moraid",
+    "hid": "msg",
+    "level": "language",
+    "iso639-3": "msg",
+    "latitude": "-1.04083",
+    "longitude": "131.965",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6909020\nhttps://en.wikipedia.org/wiki/Moraid_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Sugono:Indonesia**\n**hh:hvld:BerryBerry:WPapuan**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Flassy:Toror**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**"
+  },
+  "altnames": {
+    "multitree": "\nMoraid\nOgit",
+    "lexvo": "\nMoraid [en]",
+    "hhbib_lgcode": "\nMoraid (Ac)\nMorait"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND phylum"
+  },
+  "identifier": {
+    "multitree": "msg"
+  },
+  "classification": {
+    "sub": "**hh:hvld:BerryBerry:WPapuan**",
+    "subrefs": "\n**hh:hvld:BerryBerry:WPapuan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Moraid (msg-msg) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Kryz",
+    "hid": "kry",
+    "level": "language",
+    "iso639-3": "kry",
+    "latitude": "41.1811",
+    "longitude": "48.1846",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ"
+    ],
+    "name_comment": "The name form \"Kryz\" corresponds best to Russian \"крызский язык\", and is used by **hh:g:Authier:Kryz**.",
+    "links": "\n[Kryts](https://endangeredlanguages.com/lang/2508)\n[Kryz](https://grambank.clld.org/languages/kryt1240)\n[Kryz](https://wals.info/languoid/lect/wals_code_krz)\nhttps://en.wikipedia.org/wiki/Kryts_language\nhttps://www.wikidata.org/entity/Q35861"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2087**\n**cldf:authier:04**\n**cldf:authier:09:1**\n**cldf:clifton:09**\n**cldf:clifton:mak:etal:05**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Hummetov:Qrizca**\n**hh:g:Authier:Kryz**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Saadiev:Kryts**\n**hh:s:Saadiev:Kryzskij**\n**hh:typ:Khidirov:Kryzskom**\n**mpieva:Authier2004Descript**\n**mpieva:Khiridov2007Glagolvk**\n**sil16:45402**\n**sil16:45574**\n**sil16:45579**"
+  },
+  "altnames": {
+    "glottolog": "\nKryts",
+    "wals": "\nKryz",
+    "wals other": "\nKryc",
+    "ruhlen (1987)": "\nKryz",
+    "moseley & asher (1994)": "\nKryts",
+    "multitree": "\nDzek\nDzhek\nDzheki\nKatsy\nKriz\nKryc\nKryts\nKryz\nKryzy",
+    "lexvo": "\nJęzyk kryzyjski [pl]\nKrysische Sprache [de]\nKryts [en]\nKryts language [en]\nKrytsin kieli [fi]\nKryz [fr]\nКризька мова [uk]\nКрызский язык [ru]",
+    "hhbib_lgcode": "\nKryts",
+    "elcat": "\nDzek\nDzhek\nDzheki\nKatsy\nKjruaj mez\nKryc\nKryts\nKryz\nKryzy\nQrız dili\nc’eka mez\nqryc’ä mez\nджекский язык\nкрызский язык\nкърыцIаь мез\nцIека meз"
+  },
+  "triggers": {
+    "lgcode": "\nkryz\ntipologiceskoe\nkryzskom\ndalik\nglagolnymi\nkategorijami\nkryts\ndazerbaidjan"
+  },
+  "identifier": {
+    "wals": "krz",
+    "multitree": "kry;kry-kry",
+    "endangeredlanguages": "2508"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Schulze:Caucasian-Albanian-Udi**",
+    "subrefs": "\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kryts (2508-kry) = Endangered (80 percent certain, based on the evidence available) (While people of all ages in the mountain villages speak Kryz as their first language, the situation is more varied in the plains villages. In the Ismayıllı villages of Hacıh et emli and Mollaisaqlı, Kryz is the first language of most residents 30 and older. Due to marriages to non-Kryz spouses, however, Azerbaijani has become the language of the home for some of those from 30 to 55. Because of this, some in this group have lost proficiency in Kryz. Among those 18 to 30 years of age, it is claimed that no more than 30%% speak Kryz well. Finally, proficiency among children is low even though 30%% to 40%% come from homes where at least one parent can speak Kryz. These children are more proficient in Azerbaijani than in Kryz.) [Clifton 2009](cldf:clifton:09)"
+  }
+}

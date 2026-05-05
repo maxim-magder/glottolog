@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ingush",
+    "hid": "inh",
+    "level": "language",
+    "iso639-3": "inh",
+    "latitude": "43.11",
+    "longitude": "45.03",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "RU"
+    ],
+    "links": "\n[Ingush](https://grambank.clld.org/languages/ingu1240)\n[Ingush](https://wals.info/languoid/lect/wals_code_ing)\nhttps://en.wikipedia.org/wiki/Ingush_language\nhttps://phoible.org/languages/ingu1240\nhttps://www.wikidata.org/entity/Q33509"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4731**\n**cldf:bentolila:ed:98:5**\n**cldf:bentolila:ed:98:6**\n**cldf:guerin:98**\n**cldf:handel:nichols:00**\n**cldf:malherbe:rosenberg:96**\n**cldf:nichols:66:1**\n**cldf:nichols:66:2**\n**cldf:nichols:84**\n**hh:d:Bekova:Ingussko**\n**hh:d:Kurkiev:Ingushsko**\n**hh:d:Ozdoev:Erskij**\n**hh:d:Ozdoevetal:Ingushsko**\n**hh:e:Nichols:Chechen-Ingush**\n**hh:e:Yakovlev:Ingushi**\n**hh:g:Guerin:Ingouche**\n**hh:g:Malsagov:Ingushskogo**\n**hh:g:Nichols:Ingush**\n**hh:g:Yakovlev:Ingushskogo**\n**hh:hv:Nichols:Chechen-Ingush**\n**hh:hvw:Latham:Comparative**\n**hh:s:Aliroev:Kistinskij**\n**hh:s:Dolakova:Ingushskij**\n**hh:s:Komen:Chenchen-Ingush**\n**hh:s:Nichols:Ingush**\n**mpieva:Arsachanov1959Akkinski**\n**mpieva:Ausev1999Ghalghaj**\n**mpieva:Dachkilgov2000Mudryena**\n**mpieva:Dachkilgov2002Ingusski**\n**mpieva:Dachkilgov2003Antologi**\n**mpieva:Guliev2003Pecaljup**\n**mpieva:Izmajlova2003Strunyju**\n**mpieva:Jabagi1935Textespo**\n**mpieva:Jakovlev2001Sintaksi**\n**mpieva:Kurkiev2004Ingussko**\n**mpieva:Mankinaikqan2003Nanehieh**\n**mpieva:Matiev2002Ghalghaj**\n**mpieva:Nichols2004IngushEn**\n**mpieva:Partchieva1997Parlonst**\n**mpieva:Sultygova2007Aktualny**\n**mpieva:Tankieva2005Skazocny**"
+  },
+  "altnames": {
+    "wals": "\nIngush",
+    "ruhlen (1987)": "\nIngush",
+    "moseley & asher (1994)": "\nIngush",
+    "multitree": "\nGhalghay\nIngouche\nIngus\nIngush\nInguso",
+    "lexvo": "\nIdioma ingusetio [es]\nIngoesjetisch [nl]\nIngouche [fr]\nIngoucheg [br]\nInguschische Sprache [de]\nIngush [en]\nIngush language [en]\nIngusjisk [no]\nInguušin kieli [fi]\nInguŝa lingvo [eo]\nInguški jezik [hr]\nIngúix [ca]\nJęzyk inguski [pl]\nLingua inguscia [it]\nLíngua inguche [pt]\ningouche [fr]\nİnguşça [tr]\nІнгуська мова [uk]\nГIалгIайн мотт [ce]\nИнгушки език [bg]\nИнгушки јазик [mk]\nИнгушки језик [sr]\nИнгушский язык [ru]\nМæхъхъæлон æвзаг [os]\nאינגושית [he]\nภาษาอินกุช [th]\nイングーシ語 [ja]\n印古什語 [zh]\n인구시어 [ko]",
+    "hhbib_lgcode": "\nKistinskij"
+  },
+  "triggers": {
+    "lgcode": "\npolnjatsja\ningush\nerskij\ningushskij\nlingouche\ntchetchene\ningushskogo\ningusskogo\ningucensko\ningus\nghalghaj"
+  },
+  "identifier": {
+    "wals": "ing",
+    "multitree": "inh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nichols:Nakh-Dagestanian**",
+    "subrefs": "\n**hh:hv:Nichols:Nakh-Dagestanian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Ingush (1068-inh) = Vulnerable"
+  }
+}

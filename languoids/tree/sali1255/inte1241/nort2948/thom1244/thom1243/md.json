@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Thompson",
+    "hid": "thp",
+    "level": "language",
+    "iso639-3": "thp",
+    "latitude": "50.1668",
+    "longitude": "-120.193",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Nłeʔkepmxcín (Thompson)](https://endangeredlanguages.com/lang/1364)\n[Thompson](https://wals.info/languoid/lect/wals_code_tho)\nhttps://en.wikipedia.org/wiki/Thompson_language\nhttps://www.wikidata.org/entity/Q1755054"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2026**\n**cldf:aro:shepard:67**\n**cldf:boas:99**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:goddard:ed:96:2**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:haeberlin:18**\n**cldf:hayden:reinhardt:etal:96**\n**cldf:kroeber:92**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:okrent:ed:00:6**\n**cldf:ray:42**\n**cldf:thompson:thompson:80**\n**cldf:thompson:thompson:96**\n**hh:e:Teit:Thompson**\n**hh:e:Wyatt:Nicola**\n**hh:e:Wyatt:Thompson**\n**hh:g:ThompsonThompson:Thompson**\n**hh:s:Good:Thompson**\n**hh:s:Thompsonetal:Thompson**\n**hh:t:Egesdal:Thompson**\n**hh:typ:Boas:Ntlakyapamuq**\n**hh:typ:Koch:Nekepmxcin**\n**iso6393:2024-014**\n**mpieva:Thompson1996Thompson**\n**mpieva:Thompson1997TheThomp**"
+  },
+  "altnames": {
+    "wals": "\nThompson",
+    "wals other": "\nThompson River Salish",
+    "ruhlen (1987)": "\nThompson",
+    "moseley & asher (1994)": "\nThompson",
+    "multitree": "\nAt-nah\nNikutamú\nNklapmx\nNlaka'pamux\nNtlakapmuk\nNtlakyapamuk\nNłeʔkepmxcin\nThompson\nThompson River Salish\nnɬeʔkepmxcín",
+    "lexvo": "\nThompson [en]\nThompson language [en]",
+    "hhbib_lgcode": "\nNicola\nNtlakapamux\nNtlakya'pamuq\nNɬeʔkepmxcin",
+    "elcat": "\nAt-nah\nNklapmx\nNlaka'pamux\nNle'kepmxcín\nNlha7kápmx\nNtlakapamux\nNtlakapmuk\nNtlakyapamuk\nNłeʔkepmxcin\nNłeʔkepmxcín (Thompson)\nThompson\nThompson River Salish\nnɬeʔkepmxcín"
+  },
+  "triggers": {
+    "lgcode": "\nNOT by AND thompson\nnlekepmxcin\nnitlakapamuk\ncache"
+  },
+  "identifier": {
+    "wals": "tho",
+    "multitree": "thp",
+    "endangeredlanguages": "1364"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950**",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nłeʔkepmxcín (Thompson) (1364-thp) = Severely Endangered (60 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  }
+}

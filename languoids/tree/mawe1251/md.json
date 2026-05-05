@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mawes",
+    "hid": "mgk",
+    "level": "language",
+    "iso639-3": "mgk",
+    "latitude": "-2.36944",
+    "longitude": "139.752",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mawes](https://endangeredlanguages.com/lang/4647)\nhttps://www.wikidata.org/entity/Q6794395\nhttps://en.wikipedia.org/wiki/Mawes_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:10:2**\n**cldf:hammarstroem:17**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:vanderLeeden:Sarmische**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:ld:Grace:23**\n**hh:v:Hammarstrom:Mawes**\n**hh:wsoc:Wambaliau:Mawes**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nMawes",
+    "lexvo": "\nMawes [en]",
+    "hhbib_lgcode": "\nMawes (Ac)\nMawes Dai\nMawes Wares\nMawes Wares 8 words",
+    "elcat": "\nMawes"
+  },
+  "triggers": {
+    "lgcode": "\nmawes\nwakde"
+  },
+  "identifier": {
+    "multitree": "mgk;maws",
+    "endangeredlanguages": "4647"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:v:Hammarstrom:Mawes**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mawes (4647-mgk) = Endangered (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:264)"
+  }
+}

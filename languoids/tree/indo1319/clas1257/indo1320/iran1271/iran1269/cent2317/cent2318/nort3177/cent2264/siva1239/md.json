@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sivandi",
+    "hid": "siy",
+    "level": "language",
+    "iso639-3": "siy",
+    "latitude": "30.08",
+    "longitude": "52.92",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Sivandi](https://endangeredlanguages.com/lang/5376)\nhttps://www.wikidata.org/entity/Q13269\nhttps://en.wikipedia.org/wiki/Sivandi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borjian:13:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:g:Lecoq:Sivand**\n**hh:hs:Rogova:Iranskie**\n**hh:hvs:Andreas:Dialekte**\n**hh:hvs:MannHadank:Kurdisch-Persische**\n**hh:hvw:Zhukovskij:Persidskix:2**\n**hh:ld:Morgenstierna:Persian-Dialects**\n**hh:s:Sivandi:Sivandi**\n**hh:w:Huart:Sivend**"
+  },
+  "altnames": {
+    "multitree": "\nSivandi",
+    "lexvo": "\nSivandi [en]\nSivandi language [en]\nSiwendî [ku]\nزبان سیوندی [fa]",
+    "hhbib_lgcode": "\nSivand\nSivend\nSivendi\nSîvändî",
+    "elcat": "\nSivandi"
+  },
+  "triggers": {
+    "lgcode": "\nsivand\nsivend"
+  },
+  "identifier": {
+    "multitree": "siy",
+    "endangeredlanguages": "5376"
+  },
+  "classification": {
+    "sub": "**hh:h:Lecoq:CIran** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:h:Lecoq:CIran**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sivandi (5376-siy) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

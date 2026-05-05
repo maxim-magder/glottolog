@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Jehai",
+    "hid": "jhi",
+    "level": "language",
+    "iso639-3": "jhi",
+    "latitude": "5.63695",
+    "longitude": "101.541",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY",
+      "TH"
+    ],
+    "links": "\n[Jahai](https://endangeredlanguages.com/lang/1263)\n[Jahai](https://wals.info/languoid/lect/wals_code_jah)\n[Jahai Banun](https://lexibank.clld.org/languages/dunnaslian-Jahai_Banun)\n[Jahai Rual](https://lexibank.clld.org/languages/dunnaslian-Jahai_Rual)\n[Jehai](https://grambank.clld.org/languages/jeha1242)\nhttps://en.wikipedia.org/wiki/Jahai_language\nhttps://www.wikidata.org/entity/Q3176748"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:burenhult:00**\n**cldf:burenhult:01**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Rentse:Panganerne**\n**hh:e:vanderSluys:Jahai**\n**hh:g:Burenhult:Jahai**\n**hh:g:Burenhult:Jahai:2002**\n**hh:he:Carey:Orang-Asli**\n**hh:hv:Dunnetal:Aslian**\n**hh:hv:Yager:Northern-Aslian**\n**hh:hvw:SkeatBlagden:Malay**\n**hh:hwsoc:PetersonBishop:Northern-Aslian**\n**hh:s:Schebesta:Jahai**\n**hh:typ:Burenhult:Jahai**\n**hh:typ:Kruspe:Northern-Aslian**\n**hh:w:Adams:Pangan**\n**hh:w:Savage:Pangan**\n**sil16:41967**"
+  },
+  "altnames": {
+    "wals": "\nJahai",
+    "ruhlen (1987)": "\nJehai",
+    "moseley & asher (1994)": "\nJehai",
+    "multitree": "\nJahai\nJehai\nJehehr\nPangan\nPangan-Dialekte",
+    "lexvo": "\nJehai [en]",
+    "hhbib_lgcode": "\nJahai\nJahai Banun\nJahai Rual\nJehehr dialect of Semang Temongoh-North Peak\nNegrito: Jahai\nPangan Belimb\nPangan Jehai\nPangan Teliang\nPangan of Ulu Nenggiri below Kuala Betis in Kelantan\nPanganerna\nSem. Beg.\nSem. Jarum\nSem. Kedah\nSem. Martin\nSem. Plus.\nSungai Banun",
+    "elcat": "\nJahai\nJehai\nJehehr\nPangan\nPangan-Dialekte"
+  },
+  "triggers": {
+    "lgcode": "\ntrang\npangan\njahai"
+  },
+  "identifier": {
+    "wals": "jah",
+    "multitree": "jhi",
+    "endangeredlanguages": "1263"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunnetal:Aslian**",
+    "subrefs": "\n**hh:hv:Dunnetal:Aslian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Jahai (1263-jhi) = Threatened (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

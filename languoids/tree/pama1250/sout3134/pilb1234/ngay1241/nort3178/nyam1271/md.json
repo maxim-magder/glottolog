@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Nyamal",
+    "hid": "nly",
+    "level": "language",
+    "iso639-3": "nly",
+    "latitude": "-21.6092",
+    "longitude": "119.693",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Nyamal](https://collection.aiatsis.gov.au/austlang/language/a58)\n[Nyamal](https://endangeredlanguages.com/lang/2560)\n[Nyamal](https://lexibank.clld.org/languages/bowernpny-Nyamal)\n[Nyamal](https://wals.info/languoid/lect/wals_code_nly)\nhttps://en.wikipedia.org/wiki/Nyamal_language\nhttps://phoible.org/languages/nyam1271\nhttps://www.wikidata.org/entity/Q7070837"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:09:2**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Burgman:Nyamal**\n**hh:h:Brandenstein:Pilbara**\n**hh:he:Bates:Western-Australia**\n**hh:hv:Dench:Pilbara:Pronoun**\n**hh:hv:Koch:Pama-Nyungan**\n**hh:hv:OGrady:Proto-Ngayarda**\n**hh:w:Barlee:Shaw-River**\n**hh:w:BrownGeytenbeek:Nyamal**\n**ozbib:1161**\n**ozbib:1447**\n**ozbib:1884**\n**ozbib:2031**\n**ozbib:3792**\n**ozbib:4530**\n**ozbib:4531**\n**ozbib:4881**\n**ozbib:5628**\n**ozbib:6334**\n**ozbib:6975**\n**ozbib:723**\n**ozbib:726**\n**ozbib:737**\n**ozbib:804**\n**ozbib:864**"
+  },
+  "altnames": {
+    "multitree": "\nGnamo\nIbarga\nIbargo\nIbarrga\nN'amal\nNamal\nNamel\nNjalmal\nNjamal\nNjamarl\nNjamat\nNyamal\nNyamel\nPundju Njamal\nPundu N'amal\nTjingkai Njamal\nWanbarda\nWeedokarry\nWeedookary\nWidagaree\nWidagari\nWirdakarri\nÑamal",
+    "lexvo": "\nNyamal [en]",
+    "hhbib_lgcode": "\nNamal\nNjamal",
+    "elcat": "\nGnamo\nIbarga\nIbargo\nIbarrga\nN'amal\nNamal\nNamel\nNjalmal\nNjamal\nNjamarl\nNjamat\nNyamal\nNyamel\nPundju Njamal\nPundu N'amal\nTjingkai Njamal\nWanbarda\nWeedokarry\nWeedookary\nWidagaree\nWidagari\nWirdakarri",
+    "aiatsis": "\nGnamo\nIbarga\nIbargo\nIbarrga\nNamal\nNamarl\nNamel\nNjalmal\nNjamal\nNjamarl\nNjamat\nNyamal\nNyamarl\nNyamel\nPundju\nPundju Njamal\nPundu Namal\nTjingkai Njamal\nWanbarda\nWeedokarry\nWeedookary\nWidagaree\nWidagari\nWirdakarri\nWitukari"
+  },
+  "triggers": {
+    "lgcode": "\nnyamal"
+  },
+  "identifier": {
+    "wals": "nly",
+    "multitree": "nly",
+    "endangeredlanguages": "2560"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nyamal (2560-nly) = Critically Endangered (20 percent certain, based on the evidence available) [n.a. 2009](cldf:np:09:2)"
+  }
+}

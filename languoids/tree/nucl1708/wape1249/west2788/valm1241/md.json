@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Walman",
+    "hid": "van",
+    "level": "language",
+    "iso639-3": "van",
+    "latitude": "-3.24963",
+    "longitude": "142.499",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Walman](https://endangeredlanguages.com/lang/10550)\nhttps://en.wikipedia.org/wiki/Walman_language\n[Walman](https://wals.info/languoid/lect/wals_code_wal)\nhttps://www.wikidata.org/entity/Q7912479"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brown:dryer:09**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:schmidt:vormann:00**\n**cldf:spoelgen:schmidt:01**\n**hh:e:Schleiermacher:Buldalu**\n**hh:e:Schmidt:Berlinhafen**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:Torricelli**\n**hh:hvw:Laycock:Lumi**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Friederici:Melanesische**\n**hh:hw:KlafflVormann:Berlinhafen**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:s:Schmidt:Valman**\n**hh:s:Spolgen:Valman**\n**hh:t:Becker:Valman**\n**hh:typ:BrownDryer:Walman-verbs**\n**hh:typ:Dryer:Walman**\n**hh:w:Erdweg:Varopu**"
+  },
+  "altnames": {
+    "glottolog": "\nValman",
+    "wals": "\nWalman",
+    "wals other": "\nKoruon\nWalman",
+    "ruhlen (1987)": "\nValman (Koroko)",
+    "moseley & asher (1994)": "\nValman",
+    "multitree": "\nKoroko\nValman\nWalman",
+    "lexvo": "\nValman [en]",
+    "hhbib_lgcode": "\nAkur\nLeming\nPapuan: Valman\nTsinapali\nTsinapäli\nValman\nValman) have binary/small\nVrinagol",
+    "elcat": "\nKoroko\nValman\nWalman"
+  },
+  "triggers": {
+    "lgcode": "\nvalman\nwalman"
+  },
+  "identifier": {
+    "wals": "wal",
+    "multitree": "van",
+    "endangeredlanguages": "10550"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Laycock:Lumi**:48",
+    "subrefs": "\n**hh:hvw:Laycock:Lumi**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Walman (10550-van) = Severely Endangered (100 percent certain, based on the evidence available) (Home. Mostly speakers over the age of 60, though a few women between 40 and 60 are fairly fluent. Most adults over the age of 30 understand the language; most children under the age of 20 do not (2014 M. Dryer).) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

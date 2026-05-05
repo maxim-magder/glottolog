@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Isekiri",
+    "hid": "its",
+    "level": "language",
+    "iso639-3": "its",
+    "latitude": "5.81898",
+    "longitude": "5.5862",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Isekiri](https://lexibank.clld.org/languages/polyglottaafricana-Isekiri)\n[Isekiri](https://wals.info/languoid/lect/wals_code_ise)\nhttps://en.wikipedia.org/wiki/Itsekiri_language\nhttps://www.wikidata.org/entity/Q36045"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dahl:85**\n**cldf:omoneukanrin:42**\n**eballiso2009:11716**\n**eballiso2009:13088**\n**eballiso2009:13089**\n**eballiso2009:13095**\n**eballiso2009:13096**\n**eballiso2009:13097**\n**eballiso2009:35525**\n**eballiso2009:43732**\n**eballiso2009:44574**\n**eballiso2009:48138**\n**eballiso2009:49419**\n**eballiso2009:56520**\n**eballiso2009:7398**\n**hh:e:Lloyd:Itsekiri**\n**hh:h:Essien:Ikoro**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hew:Leonard:Lower-Niger**\n**hh:hv:Akinkugbe:Yoruba**\n**hh:hv:Akinkugbe:Yoruboid**\n**hh:phon:Omamor:Isekiri**\n**hh:phon:Opubor:Itsekiri**\n**hh:typ:Omamor:Isekiri:1976**\n**hh:typ:Omamor:Isekiri:Tense**\n**hh:typ:Osewa:Isekiri**"
+  },
+  "altnames": {
+    "wals": "\nIsekiri",
+    "multitree": "\nChekiri\nIrhobo\nIsekiri\nIselema-Otu\nIshekiri\nItsekiri\nIwere\nJekri\nSelemo\nShekiri\nWarri",
+    "lexvo": "\nIsekiri [en]\nItsekiri language [en]",
+    "hhbib_lgcode": "\nItsekiri\nJekri\nWarri\nYekri"
+  },
+  "triggers": {
+    "lgcode": "\nitsekiri\nisekiri"
+  },
+  "identifier": {
+    "wals": "ise",
+    "multitree": "its"
+  },
+  "classification": {
+    "sub": "**hh:h:Capo:Defoid** **hh:hv:Akinkugbe:Yoruboid**",
+    "subrefs": "\n**hh:h:Capo:Defoid**\n**hh:hv:Akinkugbe:Yoruboid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Isekiri (its-its) = 5* (Developing)."
+  }
+}

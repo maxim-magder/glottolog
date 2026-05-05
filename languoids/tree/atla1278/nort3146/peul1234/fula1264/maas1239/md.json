@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Maasina Fulfulde",
+    "hid": "ffm",
+    "level": "language",
+    "iso639-3": "ffm",
+    "latitude": "11.1324",
+    "longitude": "-3.64763",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI",
+      "GH",
+      "ML",
+      "MR",
+      "NE"
+    ],
+    "links": "\n[Fulfulde](https://lexibank.clld.org/languages/hantganbangime-Fulfulde)\n[Fulfulde (Maasina)](https://wals.info/languoid/lect/wals_code_fum)\n[Maasina Fulfulde](https://grambank.clld.org/languages/maas1239)\nhttps://en.wikipedia.org/wiki/Maasina_Fulfulde\nhttps://phoible.org/languages/maas1239\nhttps://www.wikidata.org/entity/Q3915322"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4962**\n**cldf:breedveld:95**\n**cldf:seydou:82**\n**hh:d:Osbornetal:Maasina**\n**hh:e:Tauxier:Peuls**\n**hh:g:Breedveld:Maasinankore**\n**hh:g:Gajdos:Fulfulde**\n**hh:gt:Fagerberg-Diallo:Maasina**\n**hh:h:Harrison:Fulfulde**\n**hh:phon:Cisse:Fulfulde-Bambara**\n**hh:sd:deWolf:Fula**\n**mpieva:Breedveld1995Formandm**\n**sil16:36524**"
+  },
+  "altnames": {
+    "wals": "\nFulfulde (Maasina)",
+    "ruhlen (1987)": "\nFul (East Maasina), Ful (West Maasina)",
+    "moseley & asher (1994)": "\nFula",
+    "multitree": "\nFulah-Idiome\nFulani\nFulbe\nFulfulde (Maasina)\nFulfulde, Maasina\nMaacina\nMaasina Fulfulde\nMacina\nPeul",
+    "lexvo": "\nMaasina Fulfulde [en]",
+    "hhbib_lgcode": "\nFulfulde\nFulfulde-Maasina\nMaasina in Mali\nPeuls de l'Issa-Ber et du Macina"
+  },
+  "triggers": {
+    "lgcode": "\nmaasina\nmaasinankoore\nmaasinankore\nmorphonological"
+  },
+  "identifier": {
+    "wals": "fum",
+    "multitree": "ffm"
+  },
+  "classification": {
+    "sub": "**hh:g:Breedveld:Maasinankore**:6-13",
+    "subrefs": "\n**hh:g:Breedveld:Maasinankore**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fulfulde, Maasina (ffm-ffm) = 4 (Educational). Recognized language (1982, Decree No. 159 of 19 July, Article 1)."
+  }
+}

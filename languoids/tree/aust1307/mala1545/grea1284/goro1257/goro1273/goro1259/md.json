@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Gorontalo",
+    "hid": "gor",
+    "level": "language",
+    "iso639-3": "gor",
+    "latitude": "0.62689",
+    "longitude": "122.288",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Gorontalo](https://wals.info/languoid/lect/wals_code_grt)\nhttps://en.wikipedia.org/wiki/Gorontalo_language\nhttps://www.wikidata.org/entity/Q2501174"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:padeta:77**\n**hh:d:Pateda:Gorontalo**\n**hh:d:Schroder:Gorontalosche**\n**hh:g:Little:Gorontalo**\n**hh:hew:vonRosenberg:Malayische-Archipel**\n**hh:hld:Riedel:NMCelebes**\n**hh:hv:SneddonUsup:Gorontalic**\n**hh:hvw:Usup:Gorontalo-Mongondow**\n**hh:ld:Usman:Gorontalo**\n**hh:ld:Usman:Gorontalo:2008**\n**hh:s:Badudu:Gorontalo**\n**hh:s:Breukink:Gorontalosche**\n**hh:s:Jahja:Gorontalo**\n**hh:s:Kosim:Tilamuta**\n**hh:s:Machmoed:Gorontalo**\n**hh:s:Pateda:Gorontalo**\n**hh:sd:Joest:Horontalo**\n**hh:w:Little:Gorontalo**\n**hh:w:Ribbe:34**\n**hh:w:Stokhofetal:Holle:7:1**\n**sil16:25264**"
+  },
+  "altnames": {
+    "wals": "\nGorontalo",
+    "ruhlen (1987)": "\nGorontalo",
+    "moseley & asher (1994)": "\nGorontalo",
+    "multitree": "\nGorontalo\nHulontalo",
+    "lexvo": "\nBahasa Gorontalo [id]\nGorontalo [en]\nGorontalo language [en]\ngorontalo [fr]",
+    "hhbib_lgcode": "\n5xGorontalo\nCelebes-Gorontalo\nGorontalo JB 1934\nGorontalo NBG 1894\nGorontalo NBG 1896\nGorontalo NBG 1906\nGorontalo NBG 1912\nHolontalosch\nLimboto\nTilamuta"
+  },
+  "triggers": {
+    "lgcode": "\nhorontalo\ngorontalo\ngorontalosche"
+  },
+  "identifier": {
+    "wals": "grt",
+    "multitree": "gor"
+  },
+  "classification": {
+    "sub": "**hh:hv:SneddonUsup:Gorontalic**",
+    "subrefs": "\n**hh:hv:SneddonUsup:Gorontalic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gorontalo (gor-gor) = 6b (Threatened)."
+  }
+}

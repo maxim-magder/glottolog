@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Min Dong Chinese",
+    "hid": "cdo",
+    "level": "language",
+    "iso639-3": "cdo",
+    "latitude": "26.0",
+    "longitude": "119.5",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Fuzhou](https://wals.info/languoid/lect/wals_code_fuz)\nhttps://en.wikipedia.org/wiki/Eastern_Min\nhttps://phoible.org/languages/mind1253\nhttps://www.wikidata.org/entity/Q36455"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chen:norman:65**\n**cldf:jiahua:60**\n**hh:d:ChenNorman:Foochow**\n**hh:d:Li:Fuzhou**\n**hh:d:Maclay:Foochow**\n**hh:d:MaclayBaldwin:Foochow**\n**hh:g:Chen:Fuzhou**\n**hh:h:LimMead:Chinese-Indonesia**\n**hh:hv:Lorentz:Min**\n**hh:hvbld:Yan:Chinese**\n**hh:hvphond:Nakajima:Fukien**\n**hh:hvw:AkitaniChen:Min-Dong**\n**hh:phon:Chan:Fuzhou**\n**hh:phon:Donohue:Fuzhou**\n**hh:phonv:Akitani:Ningde**\n**hh:phonv:Hiroyuki:Ningde**\n**hh:s:Akitani:Min-Dong**\n**hh:s:Feng:Fuqing**\n**hh:s:Li:Mindong-Gutian**\n**hh:s:Lin:Min-Dong**\n**hh:sd:Norman:Foochow**\n**hh:typ:Yiu:Min-Word-Order**\n**hh:v:Bodman:Namlong**\n**hh:v:Zheng:Zhongxian**\n**hh:vw:Lorentz:Vostochnoj-Min**\n**hh:vw:Norman:Mintung**\n**hh:w:Campbell:Chinese-Characters**\n**mpieva:Li1998FuzhouEn**\n**mpieva:Zhuging2002Fuzhouph**"
+  },
+  "altnames": {
+    "wals": "\nFuzhou",
+    "wals other": "\nChinese\nFoochow\nFuchow",
+    "ruhlen (1987)": "\nMin (Eastern) dialect (Mindong)",
+    "multitree": "\nChinese, Min Dong\nChinese,MinDong\nEastern Min\nMin\nMin Dialect Family\nMin Dong Chinese",
+    "lexvo": "\nDialecto fuzhou [es]\nDialek Fuzhou [ms]\nFuzhou dialect [en]\nFuzhou-Dialekt [de]\nHok-chiu-oē [nan]\nHók-ciŭ-uâ [cdo]\nMin Dong Chinese [en]\n福州話 [zh]\n福州語 [ja]",
+    "hhbib_lgcode": "\nChengguan\nChinese-Min Dong\nDiqiao\nEastern Fujian\nEastern Min\nEastern Min (not Southern Min)\nFudin\nFuning\nFuqing\nFutsin\nFuzhou\nFuzhou (Eastern Min)\nGutian\nJidong Zhejiang\nMin Dong\nNamlong\nNinde\nNingde\nNingteh\nPinghu\nShanyang\nZhongxian"
+  },
+  "triggers": {
+    "lgcode": "\nfuzhou\nfoochow\nzhongxian"
+  },
+  "identifier": {
+    "wals": "genus/chinese",
+    "multitree": "cdo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Norman:Min**",
+    "subrefs": "\n**hh:hv:Norman:Min**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinese, Min Dong (cdo-cdo) = 5 (Developing). Language of recognized nationality: Han."
+  }
+}

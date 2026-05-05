@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Thao",
+    "hid": "ssf",
+    "level": "language",
+    "iso639-3": "ssf",
+    "latitude": "23.8333",
+    "longitude": "120.93",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Thao](https://endangeredlanguages.com/lang/2452)\n[Thao](https://grambank.clld.org/languages/thao1240)\n[Thao](https://lexibank.clld.org/languages/blustaustronesian-thao)\n[Thao](https://wals.info/languoid/lect/wals_code_thw)\nhttps://en.wikipedia.org/wiki/Thao_language\nhttps://www.wikidata.org/entity/Q676492",
+    "timespan": "2017-01-01/2017-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chang:98**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:huang:00:2**\n**cldf:lewis:ed:09**\n**cldf:np:16:1**\n**cldf:np:nd:264**\n**cldf:ofindigenouspeoples:14**\n**cldf:zeitoun:14**\n**hh:g:Huang:Thao**\n**hh:g:Jian:Shao:2018**\n**hh:hld:Muller:Formosa**\n**hh:hv:Blust:Austronesian:2013**\n**hh:hw:Blust:Thao**\n**hh:phon:Li:Thao**\n**hh:s:Lietal:Thao**\n**hh:std:Blust:Thao**\n**hh:styp:Wang:Thao**\n**hh:typ:Blust:Triplication**\n**hh:w:Li:Formosan:2004**\n**iso6393:2021-028**"
+  },
+  "altnames": {
+    "wals": "\nThao",
+    "moseley & asher (1994)": "\nThao",
+    "multitree": "\nChui-Huan\nChuihwan\nSao\nSau\nShao\nSprache von Formosa\nSuihwan\nThao\nVulung",
+    "lexvo": "\nLingua Thao [it]\nThao [en]\nThao language [en]\nサオ語 [ja]\n邵語 [zh]",
+    "hhbib_lgcode": "\nShao\nVonum",
+    "elcat": "\nChui-Huan\nChuihwan\nSao\nSau\nShao\nSprache von Formosa\nSuihwan\nThao\nVulung\n邵語"
+  },
+  "triggers": {
+    "lgcode": "\nshao\nthao\nNOT em AND thao"
+  },
+  "identifier": {
+    "wals": "thw",
+    "multitree": "ssf;ilyn",
+    "endangeredlanguages": "2452"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2022-12-02T15:26:38",
+    "comment": "Thao (ssf-ssf) = 10 (Extinct)"
+  }
+}

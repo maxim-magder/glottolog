@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Central Awyu",
+    "hid": "awu",
+    "level": "language",
+    "iso639-3": "awu",
+    "latitude": "-6.29363",
+    "longitude": "139.693",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Awyu, Central (Busiri Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-awyu-central-busiri)\n[Awyu, Central (Ketah Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-awyu-central-ketah)\n[Awyu, Central (Nohon Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-awyu-central-nohon)\n[Awyu, Central (Taim Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-awyu-central-taim)\nhttps://www.wikidata.org/entity/Q12628801"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Warip:Awyu**\n**hh:hsoc:Susanto:Edera**\n**hh:hsoc:Susanto:Mapi**\n**hh:hwsoc:KriensLebold:Wildeman**"
+  },
+  "altnames": {
+    "multitree": "\nAjau\nAuyu\nAvio\nAwju\nAwya\nAwyu, Central\nNohon",
+    "lexvo": "\nCentral Awyu [en]",
+    "hhbib_lgcode": "\nAwyu-Central\nAwyu-Ketah\nAwyu-Nohon\nAwyu-Taim"
+  },
+  "triggers": {
+    "lgcode": "\ntwee AND awju\nmapi\nedera"
+  },
+  "identifier": {
+    "multitree": "awu"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:KriensLebold:Wildeman**:26",
+    "subrefs": "\n**hh:hwsoc:KriensLebold:Wildeman**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Auyu, Central (awu-awu) = 6b (Threatened)."
+  }
+}

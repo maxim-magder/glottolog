@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "South Tairora",
+    "hid": "omw",
+    "level": "language",
+    "iso639-3": "omw",
+    "latitude": "-6.35337",
+    "longitude": "145.883",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Tairora, South](https://lexibank.clld.org/languages/transnewguineaorg-tairora-south)\nhttps://www.wikidata.org/entity/Q20210553"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Hays:Ndumba:Tauna-Awa**\n**hh:e:Johnson:Ommura**\n**hh:lde:Gajdusek:Kuru**\n**hh:w:Vincent:Tairora-Eastern-Highlands**\n**sil16:17769**\n**silpng:silpng2004:114**\n**silpng:silpng2004:167**"
+  },
+  "altnames": {
+    "multitree": "\nOmwunra-Toqura\nSouthern Tairora\nTairora\nTairora, South",
+    "lexvo": "\nSouth Tairora [en]",
+    "hhbib_lgcode": "\nNdumba\nOmwunra\nOraura and Habi'ina speak yet another closely related Tairora\nPinata and Kokombira speak a Tairora dialect which is exclusive to the two\nS Tairora\nSE Tairora\nSouth\nTairora-South"
+  },
+  "triggers": {
+    "lgcode": "\nsouth AND tairora"
+  },
+  "identifier": {
+    "multitree": "omw"
+  },
+  "classification": {
+    "sub": "**hh:hv:McKaughan:Gadsup-Auyana-Awa-Tairora**",
+    "subrefs": "\n**hh:hv:McKaughan:Gadsup-Auyana-Awa-Tairora**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tairora, South (omw-omw) = 5* (Developing)."
+  }
+}

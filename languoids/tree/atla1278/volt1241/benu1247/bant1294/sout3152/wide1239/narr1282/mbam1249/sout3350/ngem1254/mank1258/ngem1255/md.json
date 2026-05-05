@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ngemba",
+    "hid": "nge",
+    "level": "language",
+    "iso639-3": "nge",
+    "latitude": "5.97864",
+    "longitude": "10.1469",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mankon](https://wals.info/languoid/lect/wals_code_mkq)\n[Ngemba](https://lexibank.clld.org/languages/polyglottaafricana-Ngemba)\n[Ngemba](https://wals.info/languoid/lect/wals_code_nge)\nhttps://en.wikipedia.org/wiki/Mankon_language\nhttps://phoible.org/languages/ngem1255\nhttps://www.wikidata.org/entity/Q6750551"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chumbow:77**\n**cldf:eastlack:72**\n**cldf:warnier:voorhoeve:75**\n**eballiso2009:11232**\n**eballiso2009:11235**\n**eballiso2009:1580**\n**eballiso2009:33097**\n**eballiso2009:48420**\n**eballiso2009:6553**\n**eballiso2009:7968**\n**hh:dial:Chibaka:Akum-Alaatening-Mankon**\n**hh:dial:Yameni:Ngemba**\n**hh:g:Leroy:Mankon**\n**hh:g:Leroy:Mankon:1977**\n**hh:g:Leroy:Mankon:2003**\n**hh:hsoc:AyotteLamberty:Ngemba**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hvld:Leroy:Ngemba**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:s:Ngum:Mankon**\n**hh:typ:Mekamgoum:Ngemba**\n**hh:typ:Mfonyam:Bafut**\n**hh:typ:Swiri:Mankon**\n**hh:w:Bryeetal:Mundum**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**ldh:item_403503**\n**mpieva:LeroyGrammair**\n**mpieva:Ngum1997Structur**"
+  },
+  "altnames": {
+    "wals": "\nNgemba",
+    "ruhlen (1987)": "\nMundum",
+    "moseley & asher (1994)": "\nMundum",
+    "multitree": "\nMegimba\nMogimba\nNgemba\nNgomba\nNguemba",
+    "lexvo": "\nNgemba [en]",
+    "hhbib_lgcode": "\n2xMundum\nAkum\nAla'atening\nBagangu\nMankon\nMundum I\nMundum II\nNgəmba"
+  },
+  "triggers": {
+    "lgcode": "\nmundum\nNOT mundum AND mankon\nmankon"
+  },
+  "identifier": {
+    "wals": "nge;mkq",
+    "multitree": "nge"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:AyotteLamberty:Ngemba**:36 **hh:w:Brye:Beba**:5 **hh:w:Bryeetal:Mundum**:5 **hh:soc:Kruger:Pinyin-Awing**:5",
+    "subrefs": "\n**hh:w:Brye:Beba**\n**hh:soc:Kruger:Pinyin-Awing**\n**hh:w:Bryeetal:Mundum**\n**hh:hsoc:AyotteLamberty:Ngemba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngemba (nge-nge) = 5 (Developing)."
+  }
+}

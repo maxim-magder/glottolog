@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Zacatepec Chatino",
+    "hid": "ctz",
+    "level": "language",
+    "iso639-3": "ctz",
+    "latitude": "16.08",
+    "longitude": "-97.3069",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chatino](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Chatino)\n[Eastern Chatino](https://endangeredlanguages.com/lang/1749)\n[Zacatepec Chatino](https://grambank.clld.org/languages/zaca1242)\nhttps://en.wikipedia.org/wiki/Zacatepec_Chatino\nhttps://www.wikidata.org/entity/Q8063754"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:campbell:13:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:villard:10**\n**hh:g:Villard:Zacatepec-Chatino**\n**hh:hv:Campbell:Chatino**\n**hh:s:Villard:Zacatepec-Chatino**\n**hh:v:Campbell:Tone-Change**"
+  },
+  "altnames": {
+    "multitree": "\nChatino\nChatino de San Marcos Zacatepec\nChatino de Zacatepec\nChatino de Zacatepeco\nChatino de la zona baja occidental\nChatino des basses-terres occidentales\nChatino, Zacatepec",
+    "lexvo": "\nZacatepec Chatino [en]",
+    "hhbib_lgcode": "\nChatino Zacatepec\nChatino-Zacatepec\nSan Marcos Zacatepec",
+    "elcat": "\nChatino\nChatino de San Marcos Zacatepec\nEastern Chatino\nZacatepec"
+  },
+  "triggers": {
+    "lgcode": "\nNOT of AND NOT y AND zona AND alta"
+  },
+  "identifier": {
+    "multitree": "ctz",
+    "endangeredlanguages": "1749"
+  },
+  "classification": {
+    "sub": "**hh:g:Sullivant:Tataltepec**:8-14",
+    "subrefs": "\n**hh:g:Sullivant:Tataltepec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern Chatino (1749-ctz) = Threatened (20 percent certain, based on the evidence available) [Villard 2010](cldf:villard:10)"
+  }
+}

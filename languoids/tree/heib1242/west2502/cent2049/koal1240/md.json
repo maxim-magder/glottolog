@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Koalib-Rere",
+    "hid": "kib",
+    "level": "language",
+    "iso639-3": "kib",
+    "latitude": "11.69648",
+    "longitude": "30.47166",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Koalib_language\nhttps://phoible.org/languages/koal1240\nhttps://www.wikidata.org/entity/Q35859"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:683**\n**eballiso2009:4787**\n**hh:ew:MacDiarmid:Nuba**\n**hh:h:Stevenson:Nuba:1962-1964**\n**hh:hb:Dabitz:Nuba**\n**hh:he:Nadel:Nuba**\n**hh:hv:Stevenson:Nuba:1975**\n**hh:hvs:Stevenson:Nuba**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Schadeberg:Heiban**\n**hh:ld:Nalci:Rere**\n**hh:nt:Nirere**\n**hh:phon:QuintKokko:Koalib**\n**hh:phon:QuintKokko:Koalibe**\n**hh:soc:Ismail:Nuba**\n**hh:soc:Sudan:Delami-Abri**\n**hh:soc:Sudan:Shwai-Umm-Heitan**\n**hh:soc:Sudan:Umm-Barumbeita-Faid-Umm-Abdullah**\n**hh:typ:Boychev:Koalib**\n**hh:typ:Chai:Rere-Prosody**\n**hh:typ:Fernandez:Rere**\n**hh:typ:Kim:Rere**\n**hh:typ:Quint:Djifonghorois-Bainouck**\n**hh:typ:Quint:Koalib**\n**hh:w:Knoblecher:Africae**\n**hh:w:Meinhof:Koalib**"
+  },
+  "altnames": {
+    "multitree": "\nAbri\nKawalib\nKoalib\nKowalib\nLgalige\nNgirere\nNirere\nRere",
+    "lexvo": "\nKoalib [en]",
+    "hhbib_lgcode": "\nAbri\nDelami\nHeiban: Koalib\nJebel Nyukur\nKoalib\nLooks like Koalib\nNyugur\nRere\nUmm Heitan"
+  },
+  "triggers": {
+    "lgcode": "\nrere\nkoalibe\nabri\nkoalib"
+  },
+  "identifier": {
+    "multitree": "kib"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schadeberg:Heiban**",
+    "subrefs": "\n**hh:hvw:Schadeberg:Heiban**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koalib (kib-kib) = 5* (Developing)."
+  }
+}

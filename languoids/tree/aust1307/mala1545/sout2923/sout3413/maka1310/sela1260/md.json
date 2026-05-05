@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Selayar",
+    "hid": "sly",
+    "level": "language",
+    "iso639-3": "sly",
+    "latitude": "-6.10145",
+    "longitude": "120.496",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Selayar](https://grambank.clld.org/languages/sela1260)\n[Selayar](https://wals.info/languoid/lect/wals_code_sly)\nhttps://en.wikipedia.org/wiki/Selayar_language\nhttps://www.wikidata.org/entity/Q7447520"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mithun:basri:86**\n**hh:e:Engelhard:Saleijer**\n**hh:e:vanderStok:Saleijer**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:Rahmawati:Wolio-Laiyolo-Selayar**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:s:Basri:Selayarese**\n**hh:typ:Finer:Selayarese**\n**hh:w:Stokhofetal:Holle:11**\n**hh:w:Stokhofetal:Holle:7:3**"
+  },
+  "altnames": {
+    "wals": "\nSelayar",
+    "wals other": "\nSelayarese",
+    "multitree": "\nSalajar\nSalayar\nSalayer\nSaleier\nSelayar\nSiladja\nSilajara",
+    "lexvo": "\nSelayar [en]\nSelayar language [en]",
+    "hhbib_lgcode": "\nSalayar\nSalayer"
+  },
+  "triggers": {
+    "lgcode": "\nsaleijer\nselayarese"
+  },
+  "identifier": {
+    "wals": "sly",
+    "multitree": "sly"
+  },
+  "classification": {
+    "sub": "**hh:hvw:GrimesGrimes:South-Sulawesi** **hh:hv:Smith:Western-Malayo-Polynesian**:474-475 **hh:hv:Mead:Sulawesi:2024**",
+    "subrefs": "\n**hh:hv:Mead:Sulawesi:2024**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hv:Smith:Western-Malayo-Polynesian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Selayar (sly-sly) = 5 (Developing)."
+  }
+}

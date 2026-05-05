@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Iberian",
+    "hid": "xib",
+    "level": "language",
+    "iso639-3": "xib",
+    "latitude": "40.624",
+    "longitude": "0.212401",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q855215\nhttps://en.wikipedia.org/wiki/Iberian_language",
+    "timespan": "-0400-01-01/0100-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Lorrio:Iberian**\n**hh:hld:Untermann:Iberischen**\n**hh:hv:Kausen:Europa**\n**hh:hv:Pattison:Iberian**\n**hh:ld:Alonso-Garciaetal:Tartesian**\n**hh:ld:Ferrer:Iberico**\n**hh:ld:Jimenez:Iberian**\n**hh:ld:Michelena:Ibere**\n**hh:ld:Untermann:Iberischen**\n**hh:ldw:Bergua:Iberica**"
+  },
+  "altnames": {
+    "lexvo": "\nIbereg [br]\nIberian [en]\nIberian language [en]\nIberiko [eu]\nIberisch [nl]\nIberische Sprache [de]\nIberisk [no]\nIbère [fr]\nIbèric [ca]\nIbér nyelv [hu]\nIdioma ibero [an]\nJęzyk iberyjski [pl]\nLingua ibérica [gl]\nИберский язык [ru]\n이베리아어 [ko]",
+    "hhbib_lgcode": "\nIberisch"
+  },
+  "triggers": {
+    "lgcode": "\nancient AND iberian\nazaila"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:h:Correa:Iberica**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Iberian (**hh:hld:Untermann:Iberischen**, **hh:ldw:Bergua:Iberica**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xib"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Iberian (xib-xib) = 10 (Extinct)."
+  }
+}

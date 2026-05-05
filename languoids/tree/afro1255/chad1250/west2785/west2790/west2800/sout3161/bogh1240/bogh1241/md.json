@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Boghom",
+    "hid": "bux",
+    "level": "language",
+    "iso639-3": "bux",
+    "latitude": "9.49679",
+    "longitude": "10.11454",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Burma](https://lexibank.clld.org/languages/kraftchadic-Burma)\nhttps://en.wikipedia.org/wiki/Boghom_language\nhttps://www.wikidata.org/entity/Q3440412"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:best:nd**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hld:Jungraithmayr:Chip**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Shimizu:SBauchi**\n**hh:hw:Kraft:Chadic:I**\n**hh:s:Shimizu:Boghom-Zaar**\n**hh:w:Cosper:Barawa**\n**hh:w:Gowers:Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nBogghom\nBogham\nBoghom\nBoghorom\nBohom\nBokiyim\nBorrom\nBurma\nBurom\nBurrum\nBurum\nKir\nKir-Balar\nKirr\nLarbawa\nSaya Group C\nZaar Group C",
+    "lexvo": "\nBoghom [en]\nBoghom language [en]",
+    "hhbib_lgcode": "\nBaramawa (Baram)\nBarmawa or Mbarmi (Zul)\nBurma\nBurrum\nBurrumawa\nKibyen or Burumawa"
+  },
+  "triggers": {
+    "lgcode": "\nsudplateau\nboghom"
+  },
+  "identifier": {
+    "multitree": "bogh;bux"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:SBauchi**",
+    "subrefs": "\n**hh:hvw:Shimizu:SBauchi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Boghom (bux-bux) = 6a (Vigorous)."
+  }
+}

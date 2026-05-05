@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Konkan Marathi",
+    "hid": "knn",
+    "level": "language",
+    "iso639-3": "knn",
+    "latitude": "18.404",
+    "longitude": "73.994",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Konkan Marathi](https://grambank.clld.org/languages/konk1267)\n[Konkani](https://wals.info/languoid/lect/wals_code_kkn)\nhttps://en.wikipedia.org/wiki/Maharashtri_Konkani\nhttps://phoible.org/languages/konk1267\nhttps://www.wikidata.org/entity/Q6733387"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agesth:subrah:ed:76:5**\n**cldf:almeida:85**\n**cldf:cardona:jain:ed:03:9**\n**cldf:gajendragadkar:70**\n**cldf:malherbe:rosenberg:96**\n**cldf:misra:87**\n**cldf:misra:89**\n**cldf:misra:93**\n**cldf:shanabhag:91**\n**eballiso2009:13596**\n**hh:g:Bhide:Chitpavani**\n**hh:g:Deshpande:Thakari**\n**hh:g:Laddu:Koli**\n**hh:g:Paranjpe:Karhadi**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Grierson:7**\n**hh:ld:Mesthrie:Kokni**\n**hh:s:Ghatage:Kudali**\n**hh:s:Ghatage:Kunabi**\n**hh:s:Kulshreshtha:Konkani-Maharashtra**\n**hh:wsoctyp:Resmi:Konkanis-Kerala**\n**mpieva:2000Linguist**\n**mpieva:Almeida1985Adescrip**\n**mpieva:Da1991TheKonka**\n**mpieva:Nithyanantha2004TheKonka**\n**mpieva:Pereira1971Konkania**\n**mpieva:Pereira1992Literary**"
+  },
+  "altnames": {
+    "wals": "\nKonkani",
+    "ruhlen (1987)": "\nKonkani",
+    "moseley & asher (1994)": "\nKonkani",
+    "multitree": "\nBankoti\nCentral Konkan\nConcorinum\nCugani\nKonkan Standard\nKonkanese\nKonkani\nKonkani (individual language)\nKunabi\nNorth Konkan",
+    "lexvo": "\nKonkani (individual language) [en]\nKonkani [en]",
+    "hhbib_lgcode": "\nAgri\nBankoti\nBhandari\nChitpavani\nChristian Konkani of South Kanara\nCochin\nCochin Gowd Saraswat (CGS)\nCochin Konkani\nDaldi\nDhangari\nGhati\nGoa Hindu Kannada\nKarhadi\nKarnataka Christian Konkani\nKokni in South Africa from Raigad and Ratnagiri\nKoli of Kharapti\nKonkan standard of Thana\nKonkani\nKonkani (individual language)\nKonkani of Kerala\nKudali\nKudali Christian Konkani\nKudali dialect which is the speech of Ratnagiri district\nKudumbi\nKunabi\nKunbi\nKuḍāli\nMaharashtrian Konkani\nMahari of Thana same as Konkan standard\nMangalore Christian Konkani\nNorthern speech which is spoken in Nasik-Bhusawal-Amaiawati-Nagpur\nParbhi\nSangamesvari\nThakri\nThakur hilltribe of North Konkan",
+    "glottolog": "\nMaharashtrian Konkani"
+  },
+  "triggers": {
+    "lgcode": "\nkonkani\nconcani"
+  },
+  "identifier": {
+    "wals": "kkn",
+    "multitree": "knn"
+  },
+  "classification": {
+    "sub": "**hh:s:Kulshreshtha:Konkani-Maharashtra**:158-159 **hh:hvw:Grierson:7**",
+    "subrefs": "\n**hh:s:Kulshreshtha:Konkani-Maharashtra**\n**hh:hvw:Grierson:7**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Konkani (knn-knn) = 2 (Provincial). Statutory provincial language in Goa State (1950, Constitution, Schedule VIII), amended 1992."
+  }
+}

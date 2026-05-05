@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kwegu",
+    "hid": "xwg",
+    "level": "language",
+    "iso639-3": "xwg",
+    "latitude": "5.40416",
+    "longitude": "36.1702",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Koegu](https://wals.info/languoid/lect/wals_code_koe)\n[Kwegu](https://endangeredlanguages.com/lang/2677)\n[Kwegu](https://grambank.clld.org/languages/kweg1241)\nhttps://en.wikipedia.org/wiki/Kwegu_language\nhttps://www.wikidata.org/entity/Q56723"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:31009**\n**eballiso2009:9102**\n**hh:e:Milkyas:Baccha**\n**hh:e:Turton:Kwegu**\n**hh:hel:Dimmendaal:Contraction**\n**hh:hel:Sommer:Survey**\n**hh:hv:Bender:Remnant**\n**hh:ld:Hieda:Kwegu-Mugugi**\n**hh:s:Hieda:Koegu**\n**hh:s:Hieda:Koegu-Muguji**\n**hh:s:Hieda:Koegu:1992**\n**hh:s:Inui:Kouegu**\n**hh:soc:Hieda:Koegu**\n**hh:typ:Inui:Kowegu-Adjectives**\n**hh:v:Hieda:Kara-Koegu**\n**hh:w:Haberland:Surma**\n**hh:w:Hieda:Koegu**\n**hh:w:Hieda:Koegu:1990**\n**hh:w:Inui:Kouegu-Nouns**\n**hh:wtyp:Inui:Kowegu**\n**mpieva:1998Surmicla**"
+  },
+  "altnames": {
+    "wals": "\nKoegu",
+    "ruhlen (1987)": "\nKwegu",
+    "moseley & asher (1994)": "\nKwegu",
+    "multitree": "\nBacha\nKoegu\nKwegi\nKwegu\nMenja\nNidi",
+    "lexvo": "\nKwegu [en]",
+    "hhbib_lgcode": "\nBaccha\nKoegu (Muguji)\nKouego\nYidenic bei den Bodi",
+    "elcat": "\nBacha\nKoegu\nKoyego\nKwegi\nKwegu\nMenja\nNidi"
+  },
+  "triggers": {
+    "lgcode": "\nyidenic\nkwegu\nkoegu"
+  },
+  "identifier": {
+    "wals": "koe",
+    "multitree": "xwg;kweg",
+    "endangeredlanguages": "2677"
+  },
+  "classification": {
+    "sub": "**hh:hv:Yigezu:Surmic**",
+    "subrefs": "\n**hh:hv:Yigezu:Surmic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kwegu (2677-xwg) = Endangered (20 percent certain, based on the evidence available) [Hieda 1998](cldf:hieda:98)"
+  }
+}

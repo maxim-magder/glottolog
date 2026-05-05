@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Meskwaki",
+    "hid": "sac",
+    "level": "language",
+    "iso639-3": "sac",
+    "latitude": "44.0",
+    "longitude": "-89.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Fox](https://wals.info/languoid/lect/wals_code_fox)\n[Sauk-Fox](https://endangeredlanguages.com/lang/1528)\nhttps://www.wikidata.org/entity/Q134397009"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:97:4**\n**cldf:bloomfield:33**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cowan:ed:91:4**\n**cldf:cowan:ed:91:5**\n**cldf:cowan:ed:92:1**\n**cldf:cowan:ed:94:1**\n**cldf:dahlstrom:03**\n**cldf:ed:10**\n**cldf:goddard:02**\n**cldf:goddard:90:1**\n**cldf:goddard:thomason:05**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:joffe:40**\n**cldf:jones:michelson:11**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:linton:40**\n**cldf:michelson:38**\n**cldf:nichols:ed:01:3**\n**cldf:nichols:ed:01:4**\n**cldf:nichols:ogg:ed:96:6**\n**cldf:np:nd:264**\n**cldf:pentland:ed:95:4**\n**cldf:pentland:ed:95:5**\n**cldf:pentland:ed:95:7**\n**cldf:pentland:ed:97:3**\n**cldf:pentland:ed:97:4**\n**cldf:pentland:ed:97:6**\n**cldf:tax:37**\n**cldf:wolfart:ed:03:5**\n**haspelmath:costa_concise_2009**\n**hh:d:Goddard:Fox**\n**hh:d:GoddardThomason:Meskwaki**\n**hh:d:Whittaker:Sauk**\n**hh:e:Callender:Fox**\n**hh:e:Callender:Sauk**\n**hh:e:Jones:Fox**\n**hh:g:Dahlstrom:Meskwaki**\n**hh:g:Goddard:Meskwaki**\n**hh:g:Thomason:Meskwaki**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:s:Bloomfield:Fox**\n**hh:s:Jones:Algonquian**\n**hh:t:Jones:Fox**\n**hh:typ:Dahlstrom:Fox**\n**hh:typ:Dove:Fox**\n**hh:typ:Goddard:Fox**\n**hh:typ:GoddardDahlstrom:Meskwaki-Word-Order**\n**iso6393:2007-119**"
+  },
+  "altnames": {
+    "wals": "\nFox",
+    "ruhlen (1987)": "\nFox",
+    "moseley & asher (1994)": "\nFox",
+    "multitree": "\nFox\nFox-Sauk-Kickapoo\nMeskwaki\nMeskwakie\nMesquakie\nMesquakie-Sauk-Kickapoo\nSac and Fox\nSauk-Fox\nSauk-fox",
+    "lexvo": "\nMeskwaki [en]",
+    "hhbib_lgcode": "\nFox\nMesquakie\nSauk\nSauki Meskwaki\nSaukies",
+    "elcat": "\nFox\nMeskwaki\nMeskwakie\nMesquakie\nSac and Fox\nSauk-Fox"
+  },
+  "triggers": {
+    "lgcode": "\nmeskwaki"
+  },
+  "identifier": {
+    "wals": "fox",
+    "multitree": "sac",
+    "endangeredlanguages": "1528"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Algonquian**",
+    "subrefs": "\n**hh:hv:Goddard:Algonquian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sauk-Fox (1528-sac) = Severely Endangered (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

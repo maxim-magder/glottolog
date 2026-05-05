@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nisga'a",
+    "hid": "ncg",
+    "level": "language",
+    "iso639-3": "ncg",
+    "latitude": "55.199",
+    "longitude": "-129.192",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Nisga'a](https://endangeredlanguages.com/lang/5592)\n[Nisga'a](https://grambank.clld.org/languages/nisg1240)\n[Nisgha](https://wals.info/languoid/lect/wals_code_nsg)\nhttps://en.wikipedia.org/wiki/Nisga%27a_language\nhttps://phoible.org/languages/nisg1240\nhttps://www.wikidata.org/entity/Q3342138"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:rigsby:ingram:90**\n**cldf:rood:77**\n**cldf:tarpent:87**\n**hh:e:HalpinSeguin:Tsimshian**\n**hh:g:Tarpent:Nisgha**\n**hh:hew:Boas:British-Columbia**\n**hh:phont:McCullagh:Nisga**\n**hh:t:Boas:Tsimshian**\n**mpieva:Tarpent1987Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nNisgha",
+    "ruhlen (1987)": "\nNishga",
+    "multitree": "\nNasguixián niska\nNasqa'\nNass\nNass-Gitksan\nNisga'a\nNisga’a\nNisgha\nNishga\nNishka\nNisk'a\nNiska",
+    "lexvo": "\nNisga'a [en]\nNisga'a language [en]\nNisgha [fr]",
+    "hhbib_lgcode": "\nNass\nNishga\nNiska",
+    "elcat": "\nNasqa'\nNass\nNass-Gitksan\nNisga'a\nNisgha\nNishga\nNishka\nNisk'a\nNisk'a'\nNiska\nNiska'"
+  },
+  "triggers": {
+    "lgcode": "\nnisgha"
+  },
+  "identifier": {
+    "wals": "nsg",
+    "multitree": "ncg",
+    "endangeredlanguages": "5592"
+  },
+  "classification": {
+    "sub": "**hh:g:Tarpent:Nisgha**",
+    "subrefs": "\n**hh:g:Tarpent:Nisgha**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Nisga'a (5592-ncg) = severely endangered"
+  }
+}

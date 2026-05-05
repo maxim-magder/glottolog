@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Animere",
+    "hid": "anf",
+    "level": "language",
+    "iso639-3": "anf",
+    "latitude": "7.60385",
+    "longitude": "0.41962",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Animere](https://endangeredlanguages.com/lang/3305)\nhttps://www.wikidata.org/entity/Q34783\nhttps://en.wikipedia.org/wiki/Animere_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3776**\n**cldf:blench:nd:1**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hel:Sommer:Survey**\n**hh:phon:Casali:Animere**\n**hh:typ:Heine:AfricanNC**\n**hh:w:Westermann:Animere**"
+  },
+  "altnames": {
+    "multitree": "\nAnimere\nAnyimere\nKunda",
+    "lexvo": "\nAnimere [de]\nAnimere language [en]",
+    "elcat": "\nAnimere\nAnyimere\nKunda"
+  },
+  "triggers": {
+    "lgcode": "\nanimere"
+  },
+  "identifier": {
+    "multitree": "anf",
+    "endangeredlanguages": "3305"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Ghana-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Ghana-Togo**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Animere (3305-anf) = Severely Endangered (60 percent certain, based on the evidence available) [Blench n.d.](cldf:blench:nd:1)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Amba (Uganda)",
+    "hid": "rwm",
+    "level": "language",
+    "iso639-3": "rwm",
+    "latitude": "0.81206",
+    "longitude": "30.0014",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "UG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q788423\nhttps://en.wikipedia.org/wiki/Amba_language_(Bantu)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:winter:56**\n**cldf:winter:58**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:12293**\n**eballiso2009:27130**\n**eballiso2009:28707**\n**eballiso2009:33914**\n**eballiso2009:36956**\n**eballiso2009:39226**\n**eballiso2009:41410**\n**eballiso2009:43890**\n**eballiso2009:54257**\n**eballiso2009:58084**\n**eballiso2009:58088**\n**eballiso2009:58089**\n**eballiso2009:58090**\n**hh:e:Joset:Baamba-Babwizi**\n**hh:e:Wayland:Baamba**\n**hh:e:Winter:Bwamba**\n**hh:e:Winter:Bwamba:1956**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hv:Vorbichler:Bira**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hw:Johnston:Uganda:2**\n**hh:w:Struck:Nachlass**\n**hh:w:deWit:Bira-Huku**\n**sil16:51396**"
+  },
+  "altnames": {
+    "multitree": "\nAmba\nHamba\nHumu\nKihumu\nKiumu\nKu-Amba\nKuamba\nKwamba\nLubulebule\nLwamba\nRuwenzori Kibira\nRwamba",
+    "lexvo": "\nAmba (Uganda) [en]\nAmba [en]\nAmba people [en]",
+    "hhbib_lgcode": "\n*D20B_Vamba_1919\nAmba\nBaamba\nD20B_Vamba_1919\nHumu/Kwamba\nKivamba\nKuAmba\nKuamba\nRwaAmba"
+  },
+  "triggers": {
+    "lgcode": "\nkindu\nhuku\nbwamba\ndisturbances\nbaamba\nisiamba\npatrilineal\nbabwizi\ntulungu\ninitiates"
+  },
+  "identifier": {
+    "multitree": "rwm"
+  },
+  "classification": {
+    "sub": "**hh:s:Kutsch:Bila**:450-452",
+    "subrefs": "\n**hh:s:Kutsch:Bila**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Amba (109-rwm) = Vulnerable"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tama (Chad)",
+    "hid": "tma",
+    "level": "language",
+    "iso639-3": "tma",
+    "latitude": "14.332",
+    "longitude": "21.9951",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "TD"
+    ],
+    "links": "\n[Tama](https://wals.info/languoid/lect/wals_code_tma)\n[Tama (Chad)](https://grambank.clld.org/languages/tama1331)\nhttps://en.wikipedia.org/wiki/Tama_language\nhttps://phoible.org/languages/tama1331\nhttps://www.wikidata.org/entity/Q57001"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:henderson:39**\n**eballiso2009:1922**\n**eballiso2009:30949**\n**hh:e:Cunnison:Humr**\n**hh:e:Khayar:Tama**\n**hh:h:Tucker:Sudanic**\n**hh:hb:Caprile:SoudanO**\n**hh:he:DoornbosKapteijns:Tama**\n**hh:hew:Grossard:Delimitation**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Edgar:Tama**\n**hh:hv:Rilly:Nubien-Tama**\n**hh:hvw:DoornbosBender:Wadai-Darfur**\n**hh:hvw:Edgar:Tama:Lexicon**\n**hh:hwsoc:Bombay:Tama**\n**hh:s:Kellermann:Tama**\n**hh:typ:Dimmendaal:Tama**\n**hh:w:Adam:Aranqa**\n**hh:w:Bryan:Tama-Didinga**\n**hh:w:MacMichael:Darfur**"
+  },
+  "altnames": {
+    "wals": "\nMiisiirii\nTama",
+    "wals other": "\nJabaal\nMileere\nTamok",
+    "ruhlen (1987)": "\nTama",
+    "moseley & asher (1994)": "\nTama",
+    "multitree": "\nTama\nTamok\nTamongobo\nTamot",
+    "lexvo": "\nTama (Chad) [en]\nTama [en]",
+    "hhbib_lgcode": "\nAranga\nErenga\nHumr\nJebel Mun\nMessiriya\nMiisiiri\nMileri\nTama\nTāma"
+  },
+  "triggers": {
+    "lgcode": "\nNOT c AND NOT e AND NOT term AND NOT und AND tama\nmileri\ntama"
+  },
+  "identifier": {
+    "wals": "tma;mii",
+    "multitree": "tma"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edgar:Tama** **hh:hv:Bender:ESudanic**",
+    "subrefs": "\n**hh:hv:Edgar:Tama**\n**hh:hv:Bender:ESudanic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tama (tma-tma) = 6a* (Vigorous)."
+  }
+}

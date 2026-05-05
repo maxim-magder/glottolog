@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Jina",
+    "hid": "jia",
+    "level": "language",
+    "iso639-3": "jia",
+    "latitude": "11.3555",
+    "longitude": "14.9611",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Jina](https://grambank.clld.org/languages/jina1244)\nhttps://en.wikipedia.org/wiki/Jina_language\nhttps://www.wikidata.org/entity/Q56297"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Lebeuf:Tchad**\n**hh:hv:Barreteau:NCameroun**\n**hh:s:SchmidtOddenHolmberg:Zina-Kotoko**"
+  },
+  "altnames": {
+    "multitree": "\nJina\nZina\nZine",
+    "lexvo": "\nJina [en]",
+    "hhbib_lgcode": "\nDah subsumes Zina"
+  },
+  "triggers": {
+    "lgcode": "\nzina"
+  },
+  "identifier": {
+    "multitree": "jia-jin;jia"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:61",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Da’a (jia-jia) = 6b (Threatened)."
+  }
+}

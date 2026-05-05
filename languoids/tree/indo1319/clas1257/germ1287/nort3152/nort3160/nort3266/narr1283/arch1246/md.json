@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Archaic Norrlandic",
+    "level": "language",
+    "hid": "NOCODE_Archaic-Norrlandic",
+    "countries": [
+      "SE"
+    ],
+    "macroareas": [
+      "Eurasia"
+    ],
+    "longitude": "22.84",
+    "latitude": "66.32"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:111-113",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBjursåsmålet\nDelsbo near Hudiksvall\nGamla Överkalix\nHärnösand\nKalixmål\nLulemålet\nLövånger in Västerbotten\nMedelpads\nMörttjärn-Norsjö\nNederkalix\nNederkalix och Töre\nNorsjömålet\nNot clear which diachronic variety but includes at least a significant chunk of Pihl-era materials\nRåneå is close to Piteå\nTöre\nVästerbottniska\nÅngermanländska\nÅsele\nÅsele (äldremål)\nÖverkalix\nÖverkalixmålet"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Magnevill:Bjursasmalets**\n**hh:d:Nystrom:Lulemalet**\n**hh:ht:DahlstedtAgren:Ovre-Norrlands**\n**hh:hv:Hansson:Nordnorrlandsk**\n**hh:hv:Vestlund:Medelpads**\n**hh:ldt:Holm:Lovangersmalet**\n**hh:phon:Pihl:Overkalixmalet**\n**hh:phont:Eriksson:Aselesvenska**\n**hh:s:Bucht:Harnosand**\n**hh:s:Landgren:Delsbomalet**\n**hh:s:Rutberg:Nederkalix**\n**hh:sd:ABF:Overkolismale**\n**hh:st:Wikberg:Ranemalet**\n**hh:t:Grahn:Bonnska**\n**hh:t:Pihl:Overkalix**\n**hh:typ:Holm:Vasterbottniska**\n**hh:typ:Pihl:Overkalixmalet**\n**hh:typ:Pihl:Overkalixmalet-Prepositioner**\n**hh:typt:Westerberg:Norsjomalet**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "Glottolog",
+    "date": "2026-02-24T08:16:16",
+    "comment": "Archaic Norrlandic (NOCODE_Archaic-Norrlandic-NOCODE_Archaic-Norrlandic) = 8a (Moribund)"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Swedish dialects of the far north of Sweden, regardless of diachronic status, are counted as Swedish [swe] in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. However, some archaic varieties such as Överkalixmålet were not intelligible to standard Swedish (**hh:phon:Pihl:Overkalixmalet**:2) and thus at least one separate entry is warranted. See also: Swedish [swe].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Archaic-Norrlandic"
+  }
+}

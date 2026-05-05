@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Central Wambo",
+    "hid": "lnb",
+    "level": "language",
+    "iso639-3": "lnb",
+    "latitude": "-17.578884",
+    "longitude": "16.027517",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NA"
+    ],
+    "links": "\n[Central Wambo](https://grambank.clld.org/languages/mbal1255)\n[Mbalanhu](https://wals.info/languoid/lect/wals_code_mhu)\nhttps://phoible.org/languages/mbal1255\nhttps://www.wikidata.org/entity/Q12952830"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:14037**\n**eballiso2009:27271**\n**eballiso2009:38538**\n**eballiso2009:43358**\n**eballiso2009:43371**\n**eballiso2009:43401**\n**eballiso2009:52649**\n**hh:he:Urquhart:Southwestern-Angola**\n**hh:he:Williams:Southwestern-Africa**\n**hh:hv:Baucom:Wambo**\n**hh:hv:Fourie:Wambo**\n**hh:hvld:Baucom:Proto-Wambo**\n**hh:s:Fourie:Mbalanhu**"
+  },
+  "altnames": {
+    "wals": "\nMbalanhu",
+    "ruhlen (1987)": "\nMbalantu",
+    "multitree": "\nMbaanhu\nMbalanhu\nMbalantu\nMbaluntu",
+    "lexvo": "\nMbalanhu [en]",
+    "hhbib_lgcode": "\nC Wambo\nDombondola\nMbadja\nMbadya\nMbalanhu\nMbandja\nOshidombondola\nOshimbadja",
+    "glottolog": "\nMbalanhu"
+  },
+  "triggers": {
+    "lgcode": "\noshimbalanhu\nmbalanhu\naawambo"
+  },
+  "identifier": {
+    "wals": "mhu",
+    "multitree": "lnb"
+  },
+  "classification": {
+    "sub": "**hh:s:Elderkin:Herero**:583 **hh:hv:Vansina:West-Central-Africa**:273-283",
+    "subrefs": "\n**hh:s:Elderkin:Herero**\n**hh:hv:Vansina:West-Central-Africa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbalanhu (lnb-lnb) = 6a (Vigorous)."
+  }
+}

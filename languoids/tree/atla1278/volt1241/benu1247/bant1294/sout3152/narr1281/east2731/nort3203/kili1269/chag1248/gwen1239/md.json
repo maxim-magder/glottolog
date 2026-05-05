@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Gweno",
+    "hid": "gwe",
+    "level": "language",
+    "iso639-3": "gwe",
+    "latitude": "-3.68407",
+    "longitude": "37.6827",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "TZ"
+    ],
+    "links": "\n[Gweno](https://endangeredlanguages.com/lang/4254)\n[Gweno](https://grambank.clld.org/languages/gwen1239)\nhttps://en.wikipedia.org/wiki/Gweno_language\nhttps://phoible.org/languages/gwen1239\nhttps://www.wikidata.org/entity/Q3358211"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:althaus:00**\n**cldf:althaus:94**\n**cldf:austin:08:1**\n**cldf:ed:10**\n**cldf:guthrie:71:9**\n**cldf:hollis:nd**\n**cldf:huntingford:55:1**\n**cldf:issae:75**\n**cldf:johnston:19:5**\n**cldf:johnston:85:1**\n**cldf:johnston:85:2**\n**cldf:lewis:paul:etal:ed:15**\n**eballiso2009:21447**\n**eballiso2009:23913**\n**eballiso2009:25547**\n**eballiso2009:28707**\n**eballiso2009:32712**\n**eballiso2009:32714**\n**eballiso2009:37302**\n**eballiso2009:3900**\n**eballiso2009:41770**\n**eballiso2009:42665**\n**eballiso2009:45702**\n**eballiso2009:50699**\n**eballiso2009:54523**\n**eballiso2009:7057**\n**hh:d:Sewangi:Kigweno**\n**hh:el:Winter:Gweno**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hel:Sommer:Survey**\n**hh:hew:Johnston:Kilima-Njaro**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mreta:Chasu**\n**hh:hv:Nurse:Chaga**\n**hh:hv:Nurse:ChagaTaita**\n**hh:hv:Winter:Kilimanjaro-Bantu**\n**hh:hvw:Philippson:Chaga**\n**hh:phon:Charles:Kigweno**\n**hh:s:PhilippsonNurse:Gweno**\n**hh:typ:Mmary:Kigweno**\n**hh:vtyp:Mreta:Chasu-Kigweno**"
+  },
+  "altnames": {
+    "multitree": "\nGweno\nKigweno",
+    "lexvo": "\nGweno [en]",
+    "hhbib_lgcode": "\nE65_Gweno\nKi-Gweno\nKigweno",
+    "elcat": "\nGhonu\nGweno\nKighonu\nKigweno"
+  },
+  "triggers": {
+    "lgcode": "\ngweno\nugueno\nkigweno"
+  },
+  "identifier": {
+    "multitree": "gwe",
+    "endangeredlanguages": "4254"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:EBantu**",
+    "subrefs": "\n**hh:hv:Nurse:EBantu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gweno (4254-gwe) = Threatened (20 percent certain, based on the evidence available) (The language is under increasing pressure from Asu and Swahili.) [Philippson and Nurse 2000](cldf:philippson:nurse:00)"
+  }
+}

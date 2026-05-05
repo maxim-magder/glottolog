@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Marghi Central",
+    "hid": "mrt",
+    "level": "language",
+    "iso639-3": "mrt",
+    "latitude": "10.93854",
+    "longitude": "13.0521",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Marghi Central](https://grambank.clld.org/languages/marg1265)\n[Margi](https://lexibank.clld.org/languages/kraftchadic-Margi)\n[Margi](https://wals.info/languoid/lect/wals_code_mrg)\nhttps://en.wikipedia.org/wiki/Margi_language\nhttps://phoible.org/languages/marg1265\nhttps://www.wikidata.org/entity/Q56241"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1692**\n**asjp2010:556**\n**cldf:bybee:perkins:etal:94**\n**cldf:hoffmann:75**\n**cldf:maddieson:87**\n**cldf:meek:31:2**\n**cldf:rowling:30**\n**cldf:stolz:96**\n**cldf:tranel:95**\n**eballiso2009:10398**\n**eballiso2009:1068**\n**eballiso2009:1740**\n**eballiso2009:21354**\n**eballiso2009:22464**\n**eballiso2009:29341**\n**eballiso2009:39751**\n**eballiso2009:3993**\n**eballiso2009:4870**\n**eballiso2009:51455**\n**eballiso2009:52680**\n**eballiso2009:54933**\n**eballiso2009:58364**\n**eballiso2009:5913**\n**hh:d:Peust:Margi**\n**hh:e:Vaughan:Marghi**\n**hh:g:Hoffmann:Margi**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hel:Sommer:Survey**\n**hh:hv:Hoffmann:Bura-Margyi**\n**hh:hv:Ibrizimowetal:Linguistic-Environment**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Benton:WSudan**\n**hh:hw:Kraft:Chadic:II**\n**hh:w:ReuttKogan:Margi-Bura**\n**mpieva:Kraft1981Chadicwo**"
+  },
+  "altnames": {
+    "wals": "\nMargi",
+    "ruhlen (1987)": "\nnot specified",
+    "moseley & asher (1994)": "\nMargi",
+    "multitree": "\nMarghi\nMarghi Central\nMargi\nMargi Central",
+    "lexvo": "\nMarghi Central [en]\nMargi language [en]",
+    "hhbib_lgcode": "\nCentral Margi\nGulak\nMargi\nMargi (Molgoy) is Margi of Minthla or Margyi Babal\nMargi (Ngurlavu)\nMargyi"
+  },
+  "triggers": {
+    "lgcode": "\nmargyi\nbelly\nasymmetrical\nmarghi\nzentralsudanische\nmargi"
+  },
+  "identifier": {
+    "wals": "mrg",
+    "multitree": "mrt"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:50-51",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marghi Central (mrt-mrt) = 6a* (Vigorous)."
+  }
+}

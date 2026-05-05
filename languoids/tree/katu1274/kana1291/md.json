@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Katukína-Kanamarí",
+    "hid": "knm",
+    "level": "language",
+    "iso639-3": "knm",
+    "latitude": "-6.45399",
+    "longitude": "-68.7678",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Canamarí](https://wals.info/languoid/lect/wals_code_cnm)\n[Dyapá](https://endangeredlanguages.com/lang/1458)\nhttps://en.wikipedia.org/wiki/Katuk%C3%ADna-Kanamar%C3%AD_language\nhttps://www.wikidata.org/entity/Q3438373"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonby:stan:etal:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:demelocarvalho:55**\n**cldf:dienst:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:queixalos:dosanjos:07**\n**fabreall2009ann:Katukina_kanamari01**\n**fabreall2009ann:Katukina_kanamari02**\n**fabreall2009ann:Katukina_kanamari04**\n**fabreall2009ann:Katukina_kanamari06**\n**fabreall2009ann:Katukina_kanamari07**\n**fabreall2009ann:Katukina_kanamari09**\n**fabreall2009ann:Katukina_kanamari10**\n**fabreall2009ann:Katukina_kanamari12**\n**fabreall2009ann:Katukina_kanamari13**\n**fabreall2009ann:Katukina_kanamari15**\n**fabreall2009ann:Katukina_txuhua-djapa0**\n**hh:e:Carvalho:Kanamari**\n**hh:e:Carvalho:Kanamari:2002**\n**hh:e:Costa:Kanamari**\n**hh:e:Courboin:Amazonie**\n**hh:e:Lange:Amazon**\n**hh:e:Neves:Kanamari**\n**hh:ew:Carvalho:Javari-Itacoai-Jurua**\n**hh:g:Ishy:Kanamari-Jurua**\n**hh:g:dosAnjos:Katukina-Kanamari**\n**hh:h:Aguiar:Katukina**\n**hh:h:RivetTastevin:Purus-Jurua**\n**hh:h:Tastevin:Jurua**\n**hh:he:Melatti:Javari**\n**hh:he:Ricardo:Javari**\n**hh:he:Tastevin:Jurua**\n**hh:he:Verneau:Amazon**\n**hh:hsoc:AnonbyHolbrook:Javari**\n**hh:hv:Adelaar:HarakmbutKatukina**\n**hh:hv:Adelaar:Katawixi**\n**hh:hw:Martius:Brasiliens**\n**hh:hwsoc:deAguiar:Katukina**\n**hh:phon:Ribeiroetal:Kanamari**\n**hh:phon:deMagalhaes:Kanamari**\n**hh:phon:dosAnjos:Kanamari**\n**hh:phon:dosAnjos:Katukina**\n**hh:s:Groth:Canamari**\n**hh:s:QueixalosdosAnjos:Katukina-Kanamari**\n**hh:typ:Groth:Canamari:Modo**\n**hh:typ:Groth:Canamari:Particula**\n**hh:typ:Queixalos:Katukina**\n**hh:typ:Queixalos:Katukina-Kanamari**\n**hh:typ:Queixalos:Katukina:2002**\n**hh:vw:Rivet:Katukina**\n**hh:w:Groth:Canamari**\n**hh:w:Loukotka:Inedits**"
+  },
+  "altnames": {
+    "wals": "\nCanamarí",
+    "wals other": "\nCanamari",
+    "ruhlen (1987)": "\nDjapá",
+    "moseley & asher (1994)": "\nCanamari",
+    "multitree": "\nBendiapa\nBeñdiapá\nCanamari\nCanamarí\nKanamari\nKanamaré\nKanamarí\nParaua\nParawa\nSouthern Katukinan",
+    "lexvo": "\nCanamarí [es]\nKanamarí [en]\nKanamarí language [en]",
+    "hhbib_lgcode": "\nBendiapa\nBin Djapa\nCatoquina (from the Jurua)\nKanamari\nKanamari de Jutai\nKanamari do Juruá\nKanamari-Katukína\nKanamarí\nKatukina-Kanamari\nKatukína Kanamari\nKatukína do Bia\nKatukína-Kanamari\nMeets with the Mangeroma\nParawa\nTauary-Bendiapa\nTucundiapa but no vocabulary\nles Bendiapas\nÍndios do Alto Jandiatuba (= Tsohom-Dyapa)",
+    "elcat": "\nCanamarí\nDyapá\nHondiapa/Hon-Dyapá)])\nKanamarí) (perhaps the same as Tucundiapa (Tucano Dyapa\nSouthern Katukinan\nTshom-Djapá [Txunhuã-Djapá]"
+  },
+  "triggers": {
+    "lgcode": "\nbia\nsejour\nkanamari\nitacoai\ncanamari"
+  },
+  "identifier": {
+    "wals": "cnm",
+    "multitree": "knm",
+    "endangeredlanguages": "1458"
+  },
+  "classification": {
+    "sub": "**hh:hv:Adelaar:Katawixi**",
+    "subrefs": "\n**hh:hv:Adelaar:Katawixi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dyapá (1458-knm) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

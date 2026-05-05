@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tanacross",
+    "hid": "tcb",
+    "level": "language",
+    "iso639-3": "tcb",
+    "latitude": "63.4046",
+    "longitude": "-143.338",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Tanacross](https://endangeredlanguages.com/lang/1446)\nhttps://www.wikidata.org/entity/Q28268\nhttps://en.wikipedia.org/wiki/Tanacross_language\nhttps://phoible.org/languages/tana1290\n[Tanacross](https://wals.info/languoid/lect/wals_code_tnc)"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0533**\n**anla:ANLC0535**\n**anla:ANLC0880**\n**anla:ANLC0881**\n**anla:ANLC0882**\n**anla:ANLC0883**\n**anla:ANLC0884**\n**anla:ANLC0885**\n**anla:ANLC0886**\n**anla:ANLC0887**\n**anla:ANLC0888**\n**anla:ANLC0889**\n**anla:ANLC0890**\n**anla:ANLC0891**\n**anla:ANLC0892**\n**anla:ANLC0893**\n**anla:ANLC0894**\n**anla:ANLC0895**\n**anla:ANLC0896**\n**anla:ANLC0897**\n**anla:ANLC0898**\n**anla:ANLC0899**\n**anla:ANLC0900**\n**anla:ANLC0901**\n**anla:ANLC0910**\n**anla:ANLC0911**\n**anla:ANLC0912**\n**anla:ANLC0913**\n**anla:ANLC0914**\n**anla:ANLC0915**\n**anla:ANLC0916**\n**anla:ANLC0917**\n**anla:ANLC0918**\n**anla:ANLC0919**\n**anla:ANLC0974**\n**anla:ANLC2574**\n**anla:ANLC2575**\n**anla:ANLC2869**\n**anla:ANLC2873**\n**anla:ANLC2874**\n**anla:ANLC2876**\n**anla:ANLC3658**\n**anla:ANLC3675**\n**anla:ANLC3676**\n**anla:ANLC4029**\n**anla:ANLC4077**\n**anla:ANLC4078**\n**anla:ANLC4083**\n**anla:ANLC4084**\n**anla:ANLC4086**\n**anla:ANLC4087**\n**anla:ANLC4090**\n**anla:ANLC4091**\n**anla:ANLC4100**\n**anla:ANLC4105**\n**anla:ANLC4106**\n**anla:ANLC4111**\n**anla:ANLC4116**\n**anla:ANLC4126**\n**anla:ANLC4127**\n**anla:ANLC6044**\n**anla:ANLC6059**\n**anla:ANLC6063**\n**anla:ANLC6064**\n**anla:ANLC6065**\n**anla:ANLC6137**\n**anla:ANLC6138**\n**anla:ANLC6139**\n**anla:ANLC6140**\n**anla:ANLC6141**\n**anla:ANLC6159**\n**anla:ANLC6160**\n**anla:ANLC6161**\n**anla:ANLC6162**\n**anla:ANLC6163**\n**anla:ANLC6164**\n**anla:ANLC6165**\n**anla:ANLC6166**\n**anla:CA839WB1839**\n**anla:CA975S1979a**\n**anla:CA975S1979c**\n**anla:CA9778S1979**\n**anla:CA977An1977**\n**anla:CA978R1978**\n**anla:CA982A1982a**\n**anla:G929M1985**\n**anla:G976R1994**\n**anla:KO981P1981**\n**anla:TC001F2001**\n**anla:TC981K1991b**\n**anla:TC990R1999b**\n**anla:TC990R2001b**\n**anla:TC990S1996**\n**anla:TC997H2003e**\n**anla:TC997H2007**\n**anla:TC999T2005**\n**cldf:arnold:holton:etal:03**\n**cldf:arnold:thoman:etal:09**\n**cldf:christopherrogers:campbell:10**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:krauss:07:2**\n**cldf:krauss:73**\n**cldf:leer:nd**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**haspelmath:berez_tanacross_2010**\n**hh:g:Holton:Tanacross**\n**mpieva:Arnold2009Tanacros**"
+  },
+  "altnames": {
+    "wals": "\nTanacross",
+    "ruhlen (1987)": "\nTanacross",
+    "moseley & asher (1994)": "\nTanacross",
+    "multitree": "\nTanacross\nTanana\nTanana-Upper Kuskokwim\nTransitional 2",
+    "lexvo": "\nTanacross [en]\nTanacross language [en]\nTanana [ca]",
+    "elcat": "\nNee'anděg'\nTanacross\nTransitional Tanana"
+  },
+  "triggers": {
+    "lgcode": "\ntanacross"
+  },
+  "identifier": {
+    "wals": "tnc",
+    "multitree": "tcb;tauk",
+    "endangeredlanguages": "1446"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:KraussGolla:NAthapaskan**:75-77",
+    "subrefs": "\n**hh:hvphon:KraussGolla:NAthapaskan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tanacross (1446-tcb) = Critically Endangered (100 percent certain, based on the evidence available) [Krauss 2007](cldf:krauss:07:2)"
+  }
+}

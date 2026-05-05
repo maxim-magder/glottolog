@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Svan",
+    "hid": "sva",
+    "level": "language",
+    "iso639-3": "sva",
+    "latitude": "42.9134",
+    "longitude": "42.5915",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "RU"
+    ],
+    "links": "\n[Svan](https://endangeredlanguages.com/lang/3042)\n[Svan](https://wals.info/languoid/lect/wals_code_sva)\nhttps://en.wikipedia.org/wiki/Svan_language\nhttps://phoible.org/languages/svan1243\nhttps://www.wikidata.org/entity/Q34067"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4683**\n**cldf:abraham:ed:99:3**\n**cldf:berg:ed:99:7**\n**cldf:boeder:ed:03:11**\n**cldf:boeder:ed:03:15**\n**cldf:boeder:ed:03:16**\n**cldf:boeder:ed:03:2**\n**cldf:boeder:ed:03:6**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:comrie:polinsky:ed:93:3**\n**cldf:ed:10**\n**cldf:gippert:schultze:etal:06**\n**cldf:grigolia:39**\n**cldf:klimov:99**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:oldenburg:ed:17:1**\n**cldf:oldenburg:ed:17:2**\n**cldf:oldenburg:ed:17:3**\n**cldf:tsunoda:ed:01:6**\n**hh:d:Gren:Svaneto**\n**hh:d:Gudjedjiani:Svan**\n**hh:hs:Klaproth:Kaukasus**\n**hh:s:Schmidt:Svan**\n**hh:s:Tuite:Svan**\n**hh:s:Tuite:Svan:2020**\n**hh:sd:Zavadskij:Svanskogo**\n**hh:st:Gudjedjiani:Upper-Svan**\n**hh:v:Klimov:Svan**\n**hh:w:Kojima:Svan**\n**ldh:item_403873**\n**mpieva:Topuria2000Svanuril**"
+  },
+  "altnames": {
+    "wals": "\nSvan",
+    "ruhlen (1987)": "\nSvan",
+    "moseley & asher (1994)": "\nSvan",
+    "multitree": "\nSvan\nSvane",
+    "lexvo": "\nIdioma esvano [es]\nJęzyk swański [pl]\nLingua svan [it]\nLíngua svan [pt]\nSvan [en]\nSvan language [en]\nSvanca [tr]\nSvane [fr]\nSvaneg [br]\nSvanetiska [sv]\nSvanetià [ca]\nSvanin kieli [fi]\nSvanisk [no]\nSvančina [sk]\nSwaansche Spraak [nds]\nSwanische Sprache [de]\nSzván nyelv [hu]\nСван чĕлхи [cv]\nСвански јазик [mk]\nСванский язык [ru]\nСванська мова [uk]\nסוואנית [he]\nภาษาสวาน [th]\nსვანური ენა [ka]\nスヴァン語 [ja]",
+    "elcat": "\nSvan\nlušnu nin\nsvanuri ena\nлушну нин\nсванский язык\nლუშნუ ნინ\nსვანური ენა"
+  },
+  "triggers": {
+    "lgcode": "\nsvanuri\nkaukasische\nsvan"
+  },
+  "identifier": {
+    "wals": "sva",
+    "multitree": "sva;svan",
+    "endangeredlanguages": "3042"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boeder:Kartvelian**",
+    "subrefs": "\n**hh:hv:Boeder:Kartvelian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Svan (3042-sva) = Vulnerable (20 percent certain, based on the evidence available) [Gippert et al. 2006](cldf:gippert:schultze:etal:06)"
+  }
+}

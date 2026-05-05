@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dogul Dom Dogon",
+    "hid": "dbg",
+    "level": "language",
+    "iso639-3": "dbg",
+    "latitude": "14.5872",
+    "longitude": "-3.56855",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Dogul Dom](https://endangeredlanguages.com/lang/8737)\nhttps://www.wikidata.org/entity/Q3912880\nhttps://en.wikipedia.org/wiki/Dogul_Dogon"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:411**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:heath:12**\n**cldf:simons;:fennig:ed:13**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**hh:s:Cansler:Dogul-Dom**\n**hh:w:Blench:DogulDom**\n**ldh:item_2326691**\n**ldh:item_2326771**\n**ldh:item_2378134**\n**ldh:item_2397771**\n**sil16:45051**"
+  },
+  "altnames": {
+    "multitree": "\nDogon\nDogon, Dogul Dom\nDogul-Dom",
+    "lexvo": "\nDogul Dom Dogon [en]",
+    "hhbib_lgcode": "\nDogon-Dogul Dom\nDogul Dom\nNãndoli",
+    "elcat": "\nDogon\nDogul Dom\nDogul Dom Dogon\nDogul dom\nDogul-Dom\nDogul-Dom Dogon\nDogulu\nNorth Plateau Dogon"
+  },
+  "triggers": {
+    "lgcode": "\niii AND biu\ndogul"
+  },
+  "identifier": {
+    "multitree": "dbg",
+    "endangeredlanguages": "8737"
+  },
+  "classification": {
+    "sub": "**hh:hw:Hochstetler:Dogon**, **hh:hv:HeathProkhorov:Dogon** **hh:hv:MoranProkic:Dogon**",
+    "subrefs": "\n**hh:hw:Hochstetler:Dogon**\n**hh:hv:HeathProkhorov:Dogon**\n**hh:hv:MoranProkic:Dogon**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dogul Dom (8737-dbg) = Vulnerable (20 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Koorete",
+    "hid": "kqy",
+    "level": "language",
+    "iso639-3": "kqy",
+    "latitude": "5.80545",
+    "longitude": "37.8679",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Koorete](https://grambank.clld.org/languages/koor1239)\n[Koorete](https://wals.info/languoid/lect/wals_code_kjr)\nhttps://en.wikipedia.org/wiki/Koore_language\nhttps://phoible.org/languages/koor1239\nhttps://www.wikidata.org/entity/Q6430753"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:straube:63**\n**eballiso2009:13591**\n**eballiso2009:13592**\n**eballiso2009:21250**\n**eballiso2009:28768**\n**eballiso2009:31555**\n**eballiso2009:58645**\n**eballiso2009:7043**\n**hh:d:Seyoum:Koorete**\n**hh:e:Assoma:Kore**\n**hh:e:Straube:Amarro**\n**hh:g:Mendisu:Koorete**\n**hh:g:Mendisu:Koorete:2008**\n**hh:hs:Cerulli:Sidama**\n**hh:phon:Theil:Koorete**\n**hh:s:Hayward:Koyra**\n**hh:s:Redda:Koorete**\n**hh:s:Sisay:Koorete**\n**hh:t:Mendisu:Koorete**\n**hh:typ:Zinabu:Koorete**\n**sil16:37549**\n**sil16:42576**\n**sil16:43170**\n**sil16:44002**\n**sil16:44311**\n**sil16:44314**\n**sil16:46489**\n**sil16:48104**\n**sil16:48105**"
+  },
+  "altnames": {
+    "wals": "\nKoyra",
+    "moseley & asher (1994)": "\nKoyra",
+    "multitree": "\nAmaarro\nAmarro\nBadditu\nBadittu\nBaditu\nGidiccho\nKoore\nKoorete\nKoré\nKoyra\nKwera\nNuna",
+    "lexvo": "\nKoorete [en]",
+    "hhbib_lgcode": "\nBadditu\nBaditu\nKore\nKoyra"
+  },
+  "triggers": {
+    "lgcode": "\nfayanka\njubaland\nwodundo\nsiima\namarro\nwaysiw\nkoorete\nrete"
+  },
+  "identifier": {
+    "wals": "kjr",
+    "multitree": "kqy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koorete (kqy-kqy) = 5 (Developing)."
+  }
+}

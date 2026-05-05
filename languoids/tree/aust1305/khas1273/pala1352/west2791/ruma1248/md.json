@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Rumai Palaung",
+    "hid": "rbb",
+    "level": "language",
+    "iso639-3": "rbb",
+    "latitude": "23.6404",
+    "longitude": "97.3172",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM"
+    ],
+    "links": "\n[Mang Bang](https://lexibank.clld.org/languages/deepadungpalaung-MangBang)\n[Rumai Palaung](https://grambank.clld.org/languages/ruma1248)\nhttps://www.wikidata.org/entity/Q12953797"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Lowis:Palaungs**\n**hh:hld:ShearerHongkai:China**\n**hh:hld:Svantesson:Yunnan**\n**hh:hv:Mitani:Palaung**\n**hh:hv:Ostapirat:Palaung**\n**hh:phon:Buakaw:Katiang-Palaung**\n**hh:s:Academy:Deang**\n**hh:s:Yan:Benglong**\n**hh:w:DeepadungBuakaw:Raokot**\n**sil16:37930**"
+  },
+  "altnames": {
+    "multitree": "\nHumai\nPalaung\nPalaung Rumai\nPalaung, Rumai\nRumai\nRuomai\nShan States Palaung",
+    "lexvo": "\nRumai Palaung [en]",
+    "hhbib_lgcode": "\nBenglong\nBulei De'ang\nKatiang Palaung\nNa'ang\nPalaung-Rumai\nPalaungs of Hsipaw and Tawngpeng\nRaokot\nRumai\nTa'ang-Na'ang\nTa-ang\nTa-ang dialect called Pu-le spoken in Yunnan (Yan & Zhou 1995)"
+  },
+  "triggers": {
+    "lgcode": "\npalaung\nbenglong\nsubdialect"
+  },
+  "identifier": {
+    "multitree": "rbb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sidwell:Palaungic**:12",
+    "subrefs": "\n**hh:hvw:Sidwell:Palaungic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Rumai (2473-) = Severely endangered"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "San Miguel Creole French",
+    "hid": "scf",
+    "level": "dialect",
+    "iso639-3": "scf",
+    "latitude": "8.32601",
+    "longitude": "-81.2564",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "PA"
+    ],
+    "links": "\n[San Miguel Creole French](https://endangeredlanguages.com/lang/5360)\nhttps://en.wikipedia.org/wiki/San_Miguel_Creole\nhttps://www.wikidata.org/entity/Q12953094",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "classification": {
+    "sub": "**hh:h:Ethnologue:16**",
+    "subrefs": "\n**hh:h:Ethnologue:16**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Marrero:Antillas-Francesas**"
+  },
+  "altnames": {
+    "multitree": "\nSan Miguel Creole French",
+    "lexvo": "\nSan Miguel Creole French [en]",
+    "elcat": "\nSan Miguel Creole French"
+  },
+  "triggers": {
+    "lgcode": "\nfrancesas\nancestros"
+  },
+  "identifier": {
+    "multitree": "scf",
+    "endangeredlanguages": "5360"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "San Miguel French Creole (scf-scf) = 10 (Extinct)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "San Miguel Creole French [scf] in Panama is listed as a separate language from Saint Lucian Creole French [acf] which is the 19th-century historical origin of the former. The variant in Panama appears not to have been studied leaving no evidence to assert that it was a separate language from the St. Lucian parent (**hh:hv:Corne:French-Creole**, **hh:h:Marrero:Antillas-Francesas**). See also: Saint Lucian Creole French [acf].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "scf"
+  }
+}

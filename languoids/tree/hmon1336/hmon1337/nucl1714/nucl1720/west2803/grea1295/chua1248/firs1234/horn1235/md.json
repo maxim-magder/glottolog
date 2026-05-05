@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Horned Miao",
+    "hid": "hrm",
+    "level": "language",
+    "iso639-3": "hrm",
+    "latitude": "26.8",
+    "longitude": "104.9",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q63213949"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mark:67**\n**hh:h:Hattaway:China**\n**hh:vld:Liu:Dashanjiao-Miao:1990**\n**iso6393:2007-188**"
+  },
+  "altnames": {
+    "multitree": "\nA-Hmo\nBai Miao\nHmong Khua Shua Ndrang\nHmong Sou\nHorned Miao\nJiao Miao\nJiaojiao Miao\nKha-Nzi\nMiao, Horned\nWhite Miao",
+    "lexvo": "\nHorned Miao [en]",
+    "hhbib_lgcode": "\nChuanqiandian\nDananshan\nDashanjiao\nLocal Dialect Three of CQD\nMagpie Miao\nMagpie Miao of Agongzhai\nMiao-Horned\nPingtang Miao closest lexically to Dananshan (Wang and Li 1995:570-575)\nPingtang Miao closest lexically to Dananshan Miao (Wang and Li 1995:570-575)\nShangling village Jiatong twonship\nSizhuan-Guizhou-Yunnan Miao (Chuan-Qian-Dian) Pingtang closest lexically to CQD First Vernacular of Dananshan\nWestern Pingtang\nXixiu\nXuyong\nXuyong Miao\nYoumai-Wangmo\nZhijin"
+  },
+  "triggers": {
+    "lgcode": "\nnjua\njiwei\nmiaoyu\nmeo"
+  },
+  "identifier": {
+    "multitree": "hrm"
+  },
+  "classification": {
+    "sub": "**hh:styp:McLaughlin:Hmong-Soud**:6-10 **hh:vb:Castroetal:Western-Miao**",
+    "subrefs": "\n**hh:vb:Castroetal:Western-Miao**\n**hh:styp:McLaughlin:Hmong-Soud**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miao, Horned (hrm-hrm) = 6a* (Vigorous). Language of recognized nationality: Miao."
+  }
+}

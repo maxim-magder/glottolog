@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Central Mazahua",
+    "hid": "maz",
+    "level": "language",
+    "iso639-3": "maz",
+    "latitude": "19.7357",
+    "longitude": "-100.018",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mazahua_language\nhttps://phoible.org/languages/cent2144\nhttps://www.wikidata.org/entity/Q36228"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4587**\n**hh:bld:Pellicer:Mazahua**\n**hh:d:Benitez:Mazahua**\n**hh:d:Lopez:Mazahua**\n**hh:d:Muro:Mazahua**\n**hh:d:Stewartetal:Mazahua**\n**hh:dial:Knapp:Mazahua**\n**hh:phon:Knapp:Mazahua**\n**hh:phon:Romero:Mazahua-Temascalcingo**\n**hh:s:Amador:Mazahua-San-Antonio**\n**hh:s:Cardenas:Mazahua-Pedro-Alto**\n**hh:s:Knapp:Macahua**\n**hh:s:Nagera:Mazahua**\n**hh:s:Soustelle:Mazahua**\n**hh:s:Vargas:Mazahua**\n**hh:soc:Celote:Mazahuas**\n**hh:typ:Amador:Mazahua**\n**hh:typ:Guzman:Mazahua:Sujeto**\n**hh:typ:Mora-Bustos:Mazahua**\n**hh:typ:Quintana:Mazahua-San-Juan-Manzanas**\n**hh:typ:Ring:Mazahua-Antiguo**\n**mpieva:193**\n**sil16:10198**\n**sil16:11942**\n**sil16:12382**\n**sil16:12383**\n**sil16:12384**"
+  },
+  "altnames": {
+    "multitree": "\nMasawa\nMazahua\nMazahua Central",
+    "lexvo": "\nCentral Mazahua [en]",
+    "hhbib_lgcode": "\nClosest to Central Mazahua\nJocotitlán\nMazahua Antiguo\nMazahua de Pastores-Temascalcingo\nMazahua de San Juan de las Manzanas\nMazahua de San Miguel Tenochtitlán\nMazahua de San Pedro el Alto\nMazahua from Amador 1976\nMazahua quotes a lot from Yanguas so\nMazahua-Central\nSan Miguel Tenochtitlán\nSan Pedro Potla-Municipio de Temascalcingo-Estado de México\nTemascalcingo"
+  },
+  "triggers": {
+    "lgcode": "\nmario\nmazahua"
+  },
+  "identifier": {
+    "multitree": "maz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997** **hh:hv:Campbell:Otomanguean**",
+    "subrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Eastern Mazahua (940-) = Definitely endangered"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Rema",
+    "hid": "bow",
+    "level": "language",
+    "iso639-3": "bow",
+    "latitude": "-8.41526",
+    "longitude": "141.034",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Rema](https://endangeredlanguages.com/lang/10520)\nhttps://www.wikidata.org/entity/Q7311502\nhttps://en.wikipedia.org/wiki/Rema_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:grummitt:12**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:soc:GrummittMasters:Tonda**"
+  },
+  "altnames": {
+    "multitree": "\nBothar\nRema",
+    "lexvo": "\nRema [en]",
+    "elcat": "\nBothar\nRema"
+  },
+  "identifier": {
+    "multitree": "bow",
+    "endangeredlanguages": "10520"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dohler:Morehead** **hh:hwld:Donohue:Wasur**",
+    "subrefs": "\n**hh:hv:Dohler:Morehead**\n**hh:hwld:Donohue:Wasur**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Rema (10520-bow) = Severely Endangered (20 percent certain, based on the evidence available) [Grummitt 2012](cldf:grummitt:12)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Valpei",
+    "hid": "vlp",
+    "level": "language",
+    "iso639-3": "vlp",
+    "latitude": "-14.712",
+    "longitude": "166.606",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Valpei](https://endangeredlanguages.com/lang/10769)\n[Valpei](https://lexibank.clld.org/languages/abvdoceanic-Valpei)\nhttps://en.wikipedia.org/wiki/Valpei_language\nhttps://www.wikidata.org/entity/Q7912582"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2098**\n**asjp2010:2968**\n**cldf:np:15:2**\n**hh:h:Taman:Western-Santo**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nValpay\nValpei\nValpei-Hukua",
+    "lexvo": "\nValpei [en]",
+    "hhbib_lgcode": "\nCape Cumberland\nHukua\nValpei (Tavanlav)",
+    "elcat": "\nValpei"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "vlp",
+    "endangeredlanguages": "10769"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Valpei (10769-vlp) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

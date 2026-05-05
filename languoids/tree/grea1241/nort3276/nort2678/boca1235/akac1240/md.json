@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Akacari",
+    "hid": "aci",
+    "level": "language",
+    "iso639-3": "aci",
+    "latitude": "13.49086",
+    "longitude": "92.94855",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Aka-Cari](https://wals.info/languoid/lect/wals_code_akc)\nhttps://en.wikipedia.org/wiki/Akacari\nhttps://www.wikidata.org/entity/Q2670418",
+    "timespan": "2020-01-01/2020-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:portman:92**\n**hh:d:Abbi:Great-Andamanese**\n**hh:he:Man:Andaman**\n**hh:he:Radcliffe-Brown:Andaman**\n**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**\n**hh:hvw:Temple:Languages-Andaman**\n**hh:hw:Portman:Andamanese**\n**hh:s:Abbi:Great-Andamanese:Vanishing**\n**hh:w:Temple:Andamanese**"
+  },
+  "altnames": {
+    "wals": "\nAka-Cari",
+    "wals other": "\nAka-Charíar\nAndamanese",
+    "moseley & asher (1994)": "\nAka-Cari",
+    "multitree": "\nAka-Cari\nCari\nChariar\nGreat Andamanese",
+    "lexvo": "\nAka-Cari [en]\nAka-Cari language [en]\nLèngua Aka-Cari [lmo]\nTšari [fi]",
+    "hhbib_lgcode": "\nAKC\nAka-Cari\nAka-Chariar\nAka-Čari\nAkachari\nChariar\nSare",
+    "glottolog": "\nAka-Cari"
+  },
+  "identifier": {
+    "wals": "akc",
+    "multitree": "aci"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**",
+    "subrefs": "\n**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aka-Cari (aci-aci) = 10 (Extinct)."
+  }
+}

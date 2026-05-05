@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Cahuarano",
+    "hid": "cah",
+    "level": "language",
+    "iso639-3": "cah",
+    "latitude": "-3.72665",
+    "longitude": "-73.9469",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Cahuarano](https://endangeredlanguages.com/lang/5145)\nhttps://www.wikidata.org/entity/Q2933175\nhttps://en.wikipedia.org/wiki/Cahuarano_language",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Zaparo_cahuarana0**\n**fabreall2009ann:Zaparo_cahuarana1**\n**hh:hv:Wise:Zaparos**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Jakway:Palabras**"
+  },
+  "altnames": {
+    "multitree": "\nCahuarano\nHamacore\nIkito-Kawarano\nIquito\nIquito-Cahuarano\nPuca-Uma\nQuiturran",
+    "lexvo": "\nCahuarano [en]\nKahouaraneg [br]",
+    "hhbib_lgcode": "\nCahuilla\nIkito-Cahuarano",
+    "elcat": "\nCahuarano"
+  },
+  "triggers": {
+    "lgcode": "\nzaparos"
+  },
+  "identifier": {
+    "multitree": "cah",
+    "endangeredlanguages": "5145"
+  },
+  "classification": {
+    "sub": "**hh:hv:deCarvalho:Zaparoan**",
+    "subrefs": "\n**hh:hv:deCarvalho:Zaparoan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Cahuarano (5145-cah) = Dormant [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

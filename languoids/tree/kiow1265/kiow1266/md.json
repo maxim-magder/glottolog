@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kiowa",
+    "hid": "kio",
+    "level": "language",
+    "iso639-3": "kio",
+    "latitude": "34.9403",
+    "longitude": "-98.9042",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Kiowa](https://endangeredlanguages.com/lang/867)\n[Kiowa](https://grambank.clld.org/languages/kiow1266)\n[Kiowa](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Kiowa)\n[Kiowa](https://lexibank.clld.org/languages/utoaztecan-Kiowa)\n[Kiowa](https://wals.info/languoid/lect/wals_code_kio)\nhttps://en.wikipedia.org/wiki/Kiowa_language\nhttps://phoible.org/languages/kiow1266\nhttps://www.wikidata.org/entity/Q56631"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bamforth:88**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:hill:08:1**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:linn:11**\n**cldf:lowie:23**\n**cldf:mckenzie:harrington:48**\n**cldf:mishkin:40**\n**cldf:newcomb:61**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:richardson:40**\n**cldf:sivertsen:56**\n**cldf:watkins:80**\n**cldf:watkins:90**\n**cldf:watkins:93:1**\n**haspelmath:harbour_information_2012**\n**haspelmath:watkins_linguistic_2010**\n**hh:d:Harrington:Kiowa**\n**hh:e:Hickerson:Kiowa**\n**hh:e:Levy:Kiowa**\n**hh:ew:Mooney:Kiowa**\n**hh:g:Watkins:Kiowa**\n**hh:hew:Whippleetal:North-American**\n**hh:hv:Davis:Kiowa-Tanoan**\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**\n**hh:hvw:Latham:Comparative**\n**hh:s:Crowell:Kiowa**\n**hh:s:Lyon:Kiowa**\n**hh:s:Phillips:Kiowa**\n**hh:typ:Sutton:Kiowa-Tanoan**\n**mpieva:MacKenzie1948Populara**\n**mpieva:Watkins1999Agrammar**\n**sil16:11704**\n**sil16:11705**\n**sil16:12824**\n**sil16:47389**"
+  },
+  "altnames": {
+    "wals": "\nKiowa",
+    "ruhlen (1987)": "\nKiowa",
+    "moseley & asher (1994)": "\nKiowa",
+    "multitree": "\nKiowa\nKiowan\nKiowan Isolate\nQuiova",
+    "lexvo": "\nKajovština [cs]\nKiowa [en]\nKiowa language [en]\nKioweg [br]",
+    "hhbib_lgcode": "\nKioway",
+    "elcat": "\nKiowa\nKiowan"
+  },
+  "triggers": {
+    "lgcode": "\nkiowa"
+  },
+  "identifier": {
+    "wals": "kio",
+    "multitree": "kio;kiow",
+    "endangeredlanguages": "867"
+  },
+  "classification": {
+    "sub": "**hh:hvbtyp:Sutton:Kiowa-Tanoan**:1173-1191",
+    "subrefs": "\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kiowa (867-kio) = Critically Endangered (80 percent certain, based on the evidence available) (spoken in Oklahoma by fewer than 100, mostly elderly, speakers.) [Linn 2011](cldf:linn:11)"
+  }
+}

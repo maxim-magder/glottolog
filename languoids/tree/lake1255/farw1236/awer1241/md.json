@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Awera",
+    "hid": "awr",
+    "level": "language",
+    "iso639-3": "awr",
+    "latitude": "-2.71886",
+    "longitude": "136.063",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Awera](https://endangeredlanguages.com/lang/1352)\n[Awera](https://lexibank.clld.org/languages/transnewguineaorg-awera)\nhttps://en.wikipedia.org/wiki/Awera_language\nhttps://www.wikidata.org/entity/Q56379"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Jones:ECenderawasih**\n**hh:hphon:ClouseClouse:WLakes-Plain**\n**hh:hvw:Clouse:Lakes-Plain**"
+  },
+  "altnames": {
+    "multitree": "\nAwera",
+    "lexvo": "\nAwera [en]",
+    "hhbib_lgcode": "\nLakes Plain: Awera",
+    "elcat": "\nAwera"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND cenderawasih"
+  },
+  "identifier": {
+    "multitree": "awr;awer",
+    "endangeredlanguages": "1352"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "Glottolog",
+    "date": "2026-02-18T11:52:53",
+    "comment": "Awera (awr-awr) = 8b (Nearly extinct)."
+  }
+}

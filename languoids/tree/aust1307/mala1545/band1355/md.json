@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Banda (Indonesia)",
+    "hid": "bnd",
+    "level": "language",
+    "iso639-3": "bnd",
+    "latitude": "-5.42138",
+    "longitude": "133.142",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3504147\nhttps://en.wikipedia.org/wiki/Banda_language_(Maluku)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Taber:Maluku**\n**hh:hew:Bastian:Timor**\n**hh:hld:Grimes:Central-Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hvw:Collins:ESeram**\n**hh:s:Kakerissa:Banda**\n**hh:tsoc:CollinsKaartinen:Bandanese**\n**hh:w:vanEijbergen:Aroe-Keij**"
+  },
+  "altnames": {
+    "lexvo": "\nBanda (Indonesia) [en]\nBanda [en]",
+    "hhbib_lgcode": "\nBanda\nEli Ellat\nJellat\nKei: Eli Ellat"
+  },
+  "triggers": {
+    "lgcode": "\nbandanese\nbanda AND indonesia"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:489-505",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banda (bnd-bnd) = 7 (Shifting)."
+  }
+}

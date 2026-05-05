@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Lame",
+    "hid": "bma",
+    "level": "language",
+    "iso639-3": "bma",
+    "latitude": "10.7229",
+    "longitude": "8.78768",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Lame](https://lexibank.clld.org/languages/kraftchadic-Lame)\nhttps://en.wikipedia.org/wiki/Lame_language\nhttps://www.wikidata.org/entity/Q3913997"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hel:Sommer:Survey**\n**hh:hvw:Blench:Jarawan**\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hw:Thomas:Bantu**\n**hh:vld:Green:Jarawan**\n**hh:w:Blench:Gura:2025**\n**hh:w:Gowers:Bauchi**\n**hh:wtyp:Blench:Gura**"
+  },
+  "altnames": {
+    "lexvo": "\nLame [en]",
+    "hhbib_lgcode": "\nBomberawa\nBombora\nBomborawa\nGura\nMbaru"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND death"
+  },
+  "classification": {
+    "sub": "**hh:hvw:MaddiesonWilliamson:Jarawan** **hh:hv:GreenGrollemund:Jarawan-Bantoid**",
+    "subrefs": "\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hv:GreenGrollemund:Jarawan-Bantoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lame (bma-bma) = 6b (Threatened)."
+  }
+}

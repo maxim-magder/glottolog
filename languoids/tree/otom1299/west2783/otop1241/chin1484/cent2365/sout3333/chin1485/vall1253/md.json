@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Valle Nacional Chinantec",
+    "hid": "cvn",
+    "level": "language",
+    "iso639-3": "cvn",
+    "latitude": "17.7964",
+    "longitude": "-96.3187",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Lower Central Chinantec](https://endangeredlanguages.com/lang/4061)\nhttps://www.wikidata.org/entity/Q12644329"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:delaslenguasindigenainali:09**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "altnames": {
+    "multitree": "\nChinantec\nChinantec, Valle Nacional\nChinanteco\nChinanteco de Valle Nacional\nChinanteko\nChinantèque de Valle Nacional\nValle Nacional Chinantec",
+    "lexvo": "\nValle Nacional Chinantec [en]",
+    "elcat": "\nChinantec\nChinanteco\nChinanteco central bajo\nChinanteko\nLower Central Chinantec\nValle Nacional Chinantec\nj+g dsa k+\nj+g ki tsomän\njumi dsa iin+n"
+  },
+  "identifier": {
+    "multitree": "cvn",
+    "endangeredlanguages": "4061"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lower Central Chinantec (4061-cvn) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

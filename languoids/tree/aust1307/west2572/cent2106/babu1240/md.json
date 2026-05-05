@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Babuza",
+    "hid": "bzg",
+    "level": "language",
+    "iso639-3": "bzg",
+    "latitude": "24.0017",
+    "longitude": "120.585",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q716615\nhttps://en.wikipedia.org/wiki/Babuza_language",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Happart:Favorlangsche**\n**hh:d:Medhurst:Favorlang**\n**hh:hld:Muller:Formosa**\n**hh:hvw:Latham:Comparative**\n**hh:s:Li:Favorlang**\n**hh:s:Li:Favorlang:2003**\n**hh:v:HappartHoevell:Favorlangsche**\n**hh:w:Tsuchida:Western-Taiwan**\n**hh:wb:Terrien:Formosa**"
+  },
+  "altnames": {
+    "multitree": "\nBabusa\nBabuza\nFavorlang\nFavorlangsch\nJaborlang\nPoavosa\nSprache von Formosa\nTaokas",
+    "lexvo": "\nBabuza [en]\nBabuza language [en]\nLingua Babuza [it]\nภาษาบาบูซะห์ [th]\nバブサ語 [ja]",
+    "hhbib_lgcode": "\nFavorlang\nPoavosa\nTaokas"
+  },
+  "triggers": {
+    "lgcode": "\nhappart\nfavorlangsche\ngilbertus"
+  },
+  "identifier": {
+    "multitree": "bzg"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Taokas (2043-bzg) = Extinct; Babuza (2042-bzg) = Extinct"
+  }
+}

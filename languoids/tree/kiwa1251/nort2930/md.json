@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northeast Kiwai",
+    "hid": "kiw",
+    "level": "language",
+    "iso639-3": "kiw",
+    "latitude": "-7.39215",
+    "longitude": "144.667",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Northeast Kiwai](https://grambank.clld.org/languages/nort2930)\nhttps://www.wikidata.org/entity/Q11732324"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abraham:givon:etal:ed:95:2**\n**cldf:ray:33**\n**hh:hld:Lean:11**\n**hh:hv:Wurm:Trans-Fly**\n**hh:hvld:MacDonald:Teberan**\n**hh:hvld:Wurm:Kiwaian**\n**hh:hvld:Wurm:Trans-Fly:1971**\n**hh:hvtyp:Wurm:Kiwai**\n**hh:hvw:Ray:Western**\n**hh:hw:Zgraggen:Gulf**\n**hh:phon:Clifton:Kope**\n**hh:phon:Martin:Kope**\n**hh:s:Brown:Urama**\n**hh:s:Brown:Urama:2016**\n**hh:styp:Schulz:Kope**\n**hh:typ:Clifton:Case-Kope**\n**hh:typ:Craig:Urama**\n**hh:w:Anonymous:Purari**\n**hh:w:Herbert:Urama**\n**hh:w:Woodward:Kerewa-Iwainu**\n**sil16:22102**"
+  },
+  "altnames": {
+    "multitree": "\nGibaio\nKiwai\nKiwai, Northeast\nNortheastern Kiwai\nUrama",
+    "lexvo": "\nNortheast Kiwai [en]",
+    "hhbib_lgcode": "\nAnigibi\nArigibi\nEra\nEra River\nGibaio\nGibaio Kiwai\nGope Kiwai\nIwainu\nKiwai-Northeast\nKope\nNE Kiwai\nNorth-Eastern Kiwai\nNortheastern Kiwai\nSamo [smq]; Kiwaian: Arigibi Kiwai\nUrama\nUrama Kiwai"
+  },
+  "triggers": {
+    "lgcode": "\nkope\nkiwai\nurama"
+  },
+  "identifier": {
+    "wals": "kiw",
+    "multitree": "kiw",
+    "languagelandscape": "http://languagelandscape.org/language/Kiwai%2C%20Northeast"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Wurm:Kiwaian**",
+    "subrefs": "\n**hh:hvld:Wurm:Kiwaian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kiwai, Northeast (kiw-kiw) = 5 (Developing)."
+  }
+}

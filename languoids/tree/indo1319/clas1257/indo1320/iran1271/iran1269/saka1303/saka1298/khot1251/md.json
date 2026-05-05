@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Khotanese",
+    "hid": "kho",
+    "level": "language",
+    "iso639-3": "kho",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "longitude": "79.04",
+    "latitude": "38.33",
+    "links": "\nhttps://en.wikipedia.org/wiki/Khotanese_language\nhttps://www.wikidata.org/entity/Q130224860",
+    "timespan": "0500-01-01/0900-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Bailey:Saka**\n**hh:g:Emmerick:Saka**\n**hh:s:Bailey:Saka**\n**hh:s:Durkin-Meisterernst:Khotan-Saka**\n**hh:s:Emmerick:Khotanese-Tumshuqese**\n**hh:s:Emmerick:Khotanese-Tumshuqese:2009**\n**hh:s:Gertsenberg:Xotano-Sakskij**\n**hh:s:Konow:Khotanese**\n**hh:s:Konow:Khotansakische**\n**hh:s:Konow:Oldest-Khotanese**\n**hh:vd:EmmerickSkjarvo:Khotanese**"
+  },
+  "altnames": {
+    "multitree": "\nKhotanese\nKhotanese-Sakan\nSaka\nSakan\nSakian",
+    "lexvo": "\nKhotanais [fr]\nKhotanese [en]\nKhotanese language [en]\nSakan [en]\nkhotanais [fr]\nsakan [fr]\nХотаносакский язык [ru]"
+  },
+  "triggers": {
+    "lgcode": "\ntumshuqese\nkhotanese\nkhotansakische"
+  },
+  "identifier": {
+    "multitree": "kho"
+  },
+  "classification": {
+    "sub": "**hh:s:Emmerick:Khotanese-Tumshuqese:2009**:377",
+    "subrefs": "\n**hh:s:Emmerick:Khotanese-Tumshuqese:2009**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Khotanese (kho-kho) = 10 (Extinct)."
+  }
+}

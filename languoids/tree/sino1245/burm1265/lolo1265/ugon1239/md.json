@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ugong",
+    "hid": "ugo",
+    "level": "language",
+    "iso639-3": "ugo",
+    "latitude": "14.93951",
+    "longitude": "99.32287",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TH"
+    ],
+    "links": "\n[Ugong](https://endangeredlanguages.com/lang/3435)\n[Ugong](https://grambank.clld.org/languages/ugon1239)\nhttps://en.wikipedia.org/wiki/Gong_language\nhttps://www.wikidata.org/entity/Q3448919"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bradley:10**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:phon:Bradley:Ugong**\n**hh:phon:Mayuree:Gong**\n**hh:phon:Pusit:Ugong**\n**hh:s:Mayuree:Gong**\n**hh:soc:Bradley:Ugong**\n**hh:soc:Bradley:Ugong:1989**\n**hh:typ:Mayuree:Ugong**\n**hh:w:Kerr:Lawa**"
+  },
+  "altnames": {
+    "multitree": "\n'Ugong\nGong\nKanburi Lawa\nLawa\nUgawng\nUgong",
+    "lexvo": "\nUgong [en]\nUgong language [en]\nภาษาก๊อง [th]",
+    "hhbib_lgcode": "\nGong\nKanburi Lawa\nLawa of Kwê Yai and Lawa of Kwê Noi",
+    "elcat": "\n'Ugong\nGong\nKanburi Lawa\nLawa\nUgawng\nUgong"
+  },
+  "triggers": {
+    "lgcode": "\nugong\nphonological AND gong"
+  },
+  "identifier": {
+    "multitree": "ugo",
+    "endangeredlanguages": "3435"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bradley:Tibeto-Burman** **hh:hv:Bradley:Burmic**",
+    "subrefs": "\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:hv:Bradley:Burmic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ugong (3435-ugo) = Critically Endangered (100 percent certain, based on the evidence available) (no children learn Gong at home, and people in their 30s-40s have limited language competence.\n\nDocumentation projects in Mahidol with participants from Gong communities (PI: Mayuree)) [Bradley 2010](cldf:bradley:10)"
+  }
+}

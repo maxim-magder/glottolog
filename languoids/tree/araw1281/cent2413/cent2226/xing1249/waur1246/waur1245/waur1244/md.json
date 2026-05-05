@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Waurá",
+    "hid": "wau",
+    "level": "language",
+    "iso639-3": "wau",
+    "latitude": "-13.296",
+    "longitude": "-53.6971",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Waurá](https://endangeredlanguages.com/lang/1949)\n[Waurá](https://grambank.clld.org/languages/waur1244)\n[Waurá](https://wals.info/languoid/lect/wals_code_wur)\nhttps://en.wikipedia.org/wiki/Waur%C3%A1_language\nhttps://phoible.org/languages/waur1244\nhttps://www.wikidata.org/entity/Q3450522"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:richards:73**\n**fabreall2009ann:Arawak_waura02**\n**fabreall2009ann:Arawak_waura03**\n**fabreall2009ann:Arawak_waura04**\n**fabreall2009ann:Arawak_waura05**\n**fabreall2009ann:Arawak_waura06**\n**fabreall2009ann:Arawak_waura07**\n**fabreall2009ann:Arawak_waura08**\n**fabreall2009ann:Arawak_waura09**\n**fabreall2009ann:Arawak_waura10**\n**fabreall2009ann:Arawak_waura12**\n**fabreall2009ann:Arawak_waura13**\n**fabreall2009ann:Arawak_waura14**\n**fabreall2009ann:Arawak_waura15**\n**fabreall2009ann:Arawak_waura16**\n**fabreall2009ann:Arawak_waura18**\n**fabreall2009ann:Arawak_waura19**\n**fabreall2009ann:Arawak_waura20**\n**fabreall2009ann:Arawak_waura22**\n**fabreall2009ann:Arawak_waura25**\n**fabreall2009ann:Arawak_waura26**\n**fabreall2009ann:Arawak_waura27**\n**fabreall2009ann:Arawak_waura28**\n**fabreall2009ann:Arawak_waura29**\n**fabreall2009ann:Arawak_waura30**\n**fabreall2009ann:Arawak_waura31**\n**fabreall2009ann:Arawak_waura32**\n**fabreall2009ann:Arawak_waura33**\n**fabreall2009ann:Arawak_waura34**\n**fabreall2009ann:Arawak_waura35**\n**fabreall2009ann:Arawak_waura37**\n**fabreall2009ann:Arawak_waura38**\n**fabreall2009ann:Arawak_waura39**\n**fabreall2009ann:Arawak_waura40**\n**fabreall2009ann:Arawak_waura42**\n**fabreall2009ann:Arawak_waura43**\n**fabreall2009ann:Arawak_waura44**\n**fabreall2009ann:Arawak_waura45**\n**fabreall2009ann:Arawak_waura46**\n**fabreall2009ann:Arawak_waura47**\n**fabreall2009ann:Arawak_waura48**\n**hh:e:Barcelos:Waura**\n**hh:e:Levi-Strauss:UXingu**\n**hh:e:Mello:Wauja**\n**hh:e:Schultz:Waura**\n**hh:e:SchultzChiara:Waura**\n**hh:g:Postigo:Wauja**\n**hh:hew:vondenSteinen:Zentral-Brasiliens**\n**hh:hv:Cobera:WauraMehinaku**\n**hh:hv:Corbera:Waura-Mehinaku:2012**\n**hh:hv:deCarvalho:Xinguan-Arawak**\n**hh:phon:Postigo:Wauja**\n**hh:s:Richards:Waura**\n**hh:ssoc:Ball:Wauja**\n**hh:typ:Postigo:Wauja:Genero-Numero**\n**hh:typ:Richards:Waura**\n**hh:w:Schmidt:Waura**\n**mpieva:Richards1973Dificuld**\n**sil16:12182**\n**sil16:15586**\n**sil16:16428**\n**sil16:23421**"
+  },
+  "altnames": {
+    "glottolog": "\nWaura",
+    "wals": "\nWaurá",
+    "wals other": "\nWaura",
+    "ruhlen (1987)": "\nWaurá-Meinaku",
+    "moseley & asher (1994)": "\nWaura",
+    "multitree": "\nAura\nMahinacu\nMehinakú\nMehináku\nUara\nUaura\nUaurá\nWauja\nWaura\nWaurá\nWaurá-Meinaku\nXinguan Group",
+    "lexvo": "\nWaurá [en]",
+    "hhbib_lgcode": "\nWauja",
+    "elcat": "\nAura\nMahinacu\nUara\nUaura\nUaurá\nWaura\nWaurá\nWaurá-Meinaku"
+  },
+  "triggers": {
+    "lgcode": "\nwaura\nverhandlungen\naruake\nwauja\nschinguquellgebiet\nnaturvolker\npossessao"
+  },
+  "identifier": {
+    "wals": "wur",
+    "multitree": "wau;waur",
+    "endangeredlanguages": "1949"
+  },
+  "classification": {
+    "sub": "**hh:hv:deCarvalho:Xinguan-Arawak**",
+    "subrefs": "\n**hh:hv:deCarvalho:Xinguan-Arawak**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Waurá (1949-wau) = Endangered (20 percent certain, based on the evidence available) [Mori 2012](cldf:mori:12)"
+  }
+}

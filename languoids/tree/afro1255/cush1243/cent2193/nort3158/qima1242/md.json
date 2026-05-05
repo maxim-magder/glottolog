@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Qimant",
+    "hid": "ahg",
+    "level": "language",
+    "iso639-3": "ahg",
+    "latitude": "12.8119",
+    "longitude": "37.0542",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ER",
+      "ET"
+    ],
+    "links": "\n[K'emant](https://endangeredlanguages.com/lang/3793)\n[Kemant](https://wals.info/languoid/lect/wals_code_kem)\n[Qimant](https://grambank.clld.org/languages/qima1242)\nhttps://en.wikipedia.org/wiki/Qimant_language\nhttps://phoible.org/languages/qima1242\nhttps://www.wikidata.org/entity/Q35663"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:appleyard:84:2**\n**cldf:austin:08:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:flad:60**\n**cldf:leslau:51**\n**cldf:leslau:57**\n**cldf:lewis:ed:09**\n**cldf:leyew:05**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**cldf:stern:62**\n**cldf:ymino:41**\n**cldf:zelealem:02**\n**cldf:zelealem:94**\n**eballiso2009:23814**\n**eballiso2009:23815**\n**eballiso2009:23817**\n**eballiso2009:23818**\n**eballiso2009:23819**\n**eballiso2009:23821**\n**eballiso2009:27431**\n**eballiso2009:46345**\n**eballiso2009:51894**\n**eballiso2009:52214**\n**eballiso2009:58025**\n**eballiso2009:60101**\n**hh:e:Gamst:Qemant**\n**hh:e:Grottanelli:Falascia**\n**hh:e:Kaplan:Falashas**\n**hh:e:Leslau:Falachas**\n**hh:e:Quirin:Felasha**\n**hh:el:Appleyard:Qwarenya**\n**hh:el:Leyew:Kemant**\n**hh:elw:Leyew:Kemantney**\n**hh:g:Conti:Kemant**\n**hh:g:Leyew:Kemantney**\n**hh:g:Leyew:Kemantney:2000**\n**hh:gt:Reinisch:Quara**\n**hh:h:Latham:Africa**\n**hh:h:Tubiana:Agaw**\n**hh:he:Simoons:Northwest-Ethiopia**\n**hh:hel:Sommer:Survey**\n**hh:hv:Blazek:Agaw**\n**hh:hv:Leslau:Ethiopia**\n**hh:hvw:Appleyard:Agaw**\n**hh:s:Appleyard:Kemant**\n**hh:s:Halevy:Agaou**\n**hh:s:Tsige:Kemantney**\n**hh:typsoc:Zelealem:Kemant**\n**hh:w:Hirschfeld:Falasi**\n**mpieva:Reinisch2005DieQuara**\n**sil16:37545**\n**sil16:37561**\n**sil16:42594**\n**sil16:42888**"
+  },
+  "altnames": {
+    "wals": "\nKemant",
+    "wals other": "\nAgaw\nQemant",
+    "ruhlen (1987)": "\nKemant",
+    "moseley & asher (1994)": "\nKemant",
+    "multitree": "\nChemant\nFalasha\nFalaša\nK'emant\nKamant\nKemanat\nKemant\nKimant\nKimanteney\nKwara\nQemant\nQimant\nWestern Agaw",
+    "lexvo": "\nLenga Qimant [pms]\nQimant [ca]\nQimant hizkuntza [eu]\nQimant jezik [hr]\nQimant language [en]",
+    "hhbib_lgcode": "\nAgaou\nFalascia\nFalasha\nFalashi\nFalasi\nFelasha\nKemant\nQemant\nQuara\nQwarenya",
+    "elcat": "\nFalasha\nFalaša\nK'emant\nKemant\nKimanteney\nQimant\nWestern Agaw"
+  },
+  "triggers": {
+    "lgcode": "\nkemantney\nfalachas\ndabyssinie\nqemant\nagaou\nkemant\nquarasprache"
+  },
+  "identifier": {
+    "wals": "kem",
+    "multitree": "ahg;ahg-qim",
+    "endangeredlanguages": "3793"
+  },
+  "classification": {
+    "sub": "**hh:hv:Appleyard:Agaw:1984**",
+    "subrefs": "\n**hh:hv:Appleyard:Agaw:1984**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "K'emant (3793-ahg) = Severely Endangered (80 percent certain, based on the evidence available) [Leyew 2005](cldf:leyew:05)"
+  }
+}

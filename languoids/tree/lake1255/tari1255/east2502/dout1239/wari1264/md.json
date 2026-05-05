@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Waritai",
+    "hid": "wbe",
+    "level": "language",
+    "iso639-3": "wbe",
+    "latitude": "-3.23021",
+    "longitude": "138.456",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Waritai](https://endangeredlanguages.com/lang/2801)\n[Waritai](https://lexibank.clld.org/languages/transnewguineaorg-waritai)\nhttps://en.wikipedia.org/wiki/Waritai_language\nhttps://www.wikidata.org/entity/Q7969453"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**"
+  },
+  "altnames": {
+    "multitree": "\nWari\nWaritai\nWeretai",
+    "lexvo": "\nWaritai [en]",
+    "hhbib_lgcode": "\nWeretai\nWeretai (Br)",
+    "elcat": "\nWari\nWaritai\nWeretai"
+  },
+  "identifier": {
+    "multitree": "wbe",
+    "endangeredlanguages": "2801"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Waritai (2801-wbe) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

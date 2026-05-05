@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bonari",
+    "hid": "NOCODE_Bonari",
+    "level": "language",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q16843668\nhttps://en.wikipedia.org/wiki/Boanar%C3%AD_language",
+    "longitude": "-58.468488",
+    "latitude": "-2.047516",
+    "timespan": "1875-01-01/1875-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Girard:Carib**:116-117",
+    "subrefs": "\n**hh:hv:Girard:Carib**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Adam:Caribe**\n**hh:hv:Girard:Carib**\n**hh:w:deSousa:Bonaris**"
+  },
+  "triggers": {
+    "lgcode": "\nbonaris"
+  },
+  "identifier": {
+    "multitree": "qc8"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Bonari, an extinct Cariban language most closely related to Waimiri-Atroari [atr], is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:w:deSousa:Bonaris**, **hh:hv:Girard:Carib**). See also: Waimiri-Atroari [atr].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Bonari"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Bonari (NOCODE_Bonari-NOCODE_Bonari) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBonaris"
+  }
+}

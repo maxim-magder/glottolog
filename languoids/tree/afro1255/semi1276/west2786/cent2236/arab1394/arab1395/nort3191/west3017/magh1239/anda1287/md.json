@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Andalusian Arabic",
+    "hid": "xaa",
+    "level": "language",
+    "iso639-3": "xaa",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Andalusi_Arabic\nhttps://www.wikidata.org/entity/Q1137945",
+    "longitude": "-5.2",
+    "latitude": "36.54",
+    "timespan": "0800-01-01/1600-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Corriente:Spanish-Arabic**\n**hh:d:Pereira:Arabe-Andalou**\n**hh:g:Pereira:Arabe-Andalou**\n**hh:g:Zayed:Andalusi**\n**hh:ld:Corriente:Andalusi-Arabic**\n**hh:s:Corriente:Spanish-Arabic**\n**hh:s:deAlcala:Arauiga**\n**hh:st:Corriente:Andalusi-Arabic**\n**iso6393:2006-066**"
+  },
+  "triggers": {
+    "lgcode": "\nmoriscos\nandalusi\nandalusies\nbundle\ntardios\ngranadinos"
+  },
+  "classification": {
+    "sub": "**hh:v:Grandhenry:Maghrebin** **hh:v:Souag:North-Africa**",
+    "subrefs": "\n**hh:v:Souag:North-Africa**\n**hh:v:Grandhenry:Maghrebin**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Andalusian Arabic (xaa-xaa) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAndalusi Arabic"
+  }
+}

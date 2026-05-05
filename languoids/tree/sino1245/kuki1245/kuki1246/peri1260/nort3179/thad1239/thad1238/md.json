@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Thado Chin",
+    "hid": "tcz",
+    "level": "language",
+    "iso639-3": "tcz",
+    "latitude": "24.096",
+    "longitude": "93.722",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Thado Chin](https://endangeredlanguages.com/lang/5702)\n[Thado Chin](https://grambank.clld.org/languages/thad1238)\n[Thadou](https://wals.info/languoid/lect/wals_code_thd)\nhttps://en.wikipedia.org/wiki/Thadou_language\nhttps://phoible.org/languages/thad1238\nhttps://www.wikidata.org/entity/Q6583558"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:92**\n**cldf:anderson:12**\n**cldf:grierson:ed:95:23**\n**cldf:haokip:13**\n**cldf:krishnan:80**\n**hh:d:KumarKhosei:Kuki**\n**hh:etyp:Shaw:Thado**\n**hh:g:Haokip:Thadou**\n**hh:h:Ruhemann:Burma-Assam**\n**hh:hes:Shakespear:Kuki**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Konow:Kuki-Chin**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:hv:VanBik:Proto-Kuki-Chin:2009**\n**hh:hvw:Button:NChin**\n**hh:hvw:Button:NChin:2011**\n**hh:hvw:Damant:Brahmaputra-Ningtri**\n**hh:hvw:Grierson:3:III**\n**hh:hvw:Thang:Chin**\n**hh:phon:Haokip:Thadou**\n**hh:phon:Haokip:Thadou:2008**\n**hh:phon:Sreenivasan:Thadou**\n**hh:s:Haokip:Thadou**\n**hh:s:Hodson:Thado**\n**hh:s:Joorman:Chin**\n**hh:s:Krishan:Thadou**\n**hh:typ:Haokip:Kuki-Chin:2009**\n**hh:typ:Haokip:Thadou**\n**hh:w:Butler:Naga**\n**hh:w:Campbell:India**\n**hh:w:Stewart:Thadou**\n**mpieva:Krishnan1980Thadouag**"
+  },
+  "altnames": {
+    "wals": "\nThadou",
+    "ruhlen (1987)": "\nChin (North)/Thado",
+    "moseley & asher (1994)": "\nThado",
+    "multitree": "\nChin (Thado)\nChin tado\nChin, Thado\nChin,Thado\nKuki\nKuki-Thado\nThaadou Kuki\nThado\nThado-Pao\nThado-Ubiphei\nThadou\nThādo-pao",
+    "lexvo": "\nThado Chin [en]",
+    "hhbib_lgcode": "\nChin Thado\nKuki\nKuki of Cachar\nKuki-Chin\nNew Kuki or Thado\nThado\nThado (also known as Kuki or Khuangsai)\nThadou\nThadou/Thado\nThe dialect spoken in that portion of Burma which is bounded on the North by a straight line from Akyab to Yamethin and on the East by a straight line from Yamethin to Rangoon",
+    "elcat": "\nChin\nChin (Thado)\nKuki\nKuki-Thado\nThaadou Kuki\nThado\nThado Chin\nThado-Pao\nThado-Ubiphei\nThadou\nThādo-pao\nသာဒိုး ချင်း"
+  },
+  "triggers": {
+    "lgcode": "\nthadou\nthado\nNOT survey AND kuki"
+  },
+  "identifier": {
+    "wals": "thd",
+    "multitree": "tcz",
+    "endangeredlanguages": "5702"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin** **hh:hvw:Button:NChin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**\n**hh:hvw:Button:NChin**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Thado Chin (5702-tcz) = Severely Endangered (20 percent certain, based on the evidence available) (...rapidly losing ground to Meithei, the state majority language.) [van Driem 2007](cldf:driem:07)"
+  }
+}

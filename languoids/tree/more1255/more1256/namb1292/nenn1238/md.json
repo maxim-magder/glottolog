@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nen",
+    "hid": "nqn",
+    "level": "language",
+    "iso639-3": "nqn",
+    "latitude": "-8.62183",
+    "longitude": "142.032",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Nen](https://endangeredlanguages.com/lang/4890)\n[Nen](https://grambank.clld.org/languages/nenn1238)\nhttps://en.wikipedia.org/wiki/Nen_language_(Papuan)\nhttps://www.wikidata.org/entity/Q20816352"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Evans:Nen**\n**hh:he:Williams:Trans-Fly**\n**hh:hsoc:Rueck:Morehead**\n**hh:hsoc:Rueck:Morehead:2006**\n**hh:hvw:Ray:Western**\n**hh:phon:Evans:Nen**\n**hh:s:Evans:Nen**\n**hh:typ:Evans:Nen**\n**hh:typ:Evans:Nen-Assertives**\n**hh:typ:Evans:Nen-Experiencer**\n**hh:typ:Evans:Nen-Fieldwork**\n**hh:typ:Evans:Nen-Inflection**\n**hh:typ:Evans:Nen-Quantification**\n**hh:typ:Evans:Nen-Valence**\n**hh:typ:Evans:Nen-Verb-Number**\n**hh:typ:Evans:Nen:Positional**\n**hh:typ:Muradoglu:Nen**\n**hh:w:Lyons:Vocabularies**\n**silpng:silpng2001-2003:43**"
+  },
+  "altnames": {
+    "multitree": "\nNen",
+    "lexvo": "\nNen [en]",
+    "hhbib_lgcode": "\nNen in Bimadeben\nNeni-Yem\nNenium Wakaremare tribe northeast of Bebdibem\nWekamara",
+    "elcat": "\nNen"
+  },
+  "triggers": {
+    "lgcode": "\ntanjuamu\nnenium"
+  },
+  "identifier": {
+    "multitree": "nqn",
+    "endangeredlanguages": "4890"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dohler:Morehead** **hh:hwld:Donohue:Wasur**",
+    "subrefs": "\n**hh:hv:Dohler:Morehead**\n**hh:hwld:Donohue:Wasur**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nen (4890-nqn) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

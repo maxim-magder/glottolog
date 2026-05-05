@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Jah Hut",
+    "hid": "jah",
+    "level": "language",
+    "iso639-3": "jah",
+    "latitude": "3.67619",
+    "longitude": "102.291",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Jah Hut](https://endangeredlanguages.com/lang/1264)\n[Jah Hut](https://grambank.clld.org/languages/jahh1242)\n[Jah Hut](https://lexibank.clld.org/languages/dunnaslian-Jah_Hut)\nhttps://en.wikipedia.org/wiki/Jah_Hut_language\nhttps://phoible.org/languages/jahh1242\nhttps://www.wikidata.org/entity/Q2742661"
+  },
+  "classification": {
+    "sub": "**hh:hv:Benjamin:Aslian**:145",
+    "subrefs": "\n**hh:hv:Benjamin:Aslian**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:895**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Werner:Jah-Het**\n**hh:hv:Dunnetal:Aslian**\n**hh:hvw:Benjamin:Prehistory**\n**hh:hvw:SkeatBlagden:Malay**\n**hh:ld:Diffloth:Jeh-Het**\n**hh:s:Diffloth:Jah-Hut**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Sakai\nJah Het\nJah Hut\nJah het\nJah hut\nOst-Sakai",
+    "lexvo": "\nJah Hut [en]",
+    "hhbib_lgcode": "\nJah Het\nKerdau-Sakai\nKrau Em Sakai\nKrau Ket Sakai\nSak Guai",
+    "elcat": "\nEastern Sakai\nJah Het\nJah Hut\nOst-Sakai"
+  },
+  "triggers": {
+    "lgcode": "\nvol AND liem\nhut\njah"
+  },
+  "identifier": {
+    "multitree": "jahh;jah",
+    "endangeredlanguages": "1264"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Jah Hut (1264-jah) = Threatened (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

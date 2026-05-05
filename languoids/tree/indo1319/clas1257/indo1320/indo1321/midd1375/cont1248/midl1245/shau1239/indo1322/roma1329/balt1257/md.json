@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Baltic Romani",
+    "hid": "rml",
+    "level": "language",
+    "iso639-3": "rml",
+    "latitude": "57.29",
+    "longitude": "29.06",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BY",
+      "LT",
+      "LV",
+      "PL",
+      "RU"
+    ],
+    "links": "\n[Baltic Romani](https://endangeredlanguages.com/lang/5341)\nhttps://www.wikidata.org/entity/Q513736\nhttps://en.wikipedia.org/wiki/Baltic_Romani\n[Romani (North Russian)](https://wals.info/languoid/lect/wals_code_rnr)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1993**\n**asjp2010:3150**\n**asjp2010:972**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Manus:Ciganu**\n**hh:d:SergievskijBarannikov:Tsyganskij**\n**hh:et:Abramenko:Tsygan**\n**hh:g:Tenser:Northeastern-Romani**\n**hh:g:Ventzel:Gypsy**\n**hh:h:Rusakov:North-Russian-Romani**\n**hh:he:Leland:Gypsies**\n**hh:hv:Matras:Romani**\n**hh:s:Patkanov:Cyganskij**\n**hh:s:Sergievskij:Tsyganskij**\n**hh:s:Tenser:Lithuanian**\n**hh:s:Ventcel:Cyganskij**\n**hh:s:Wentzel:Zigeuner**\n**hh:svd:Kozhanov:Tsyganskij**\n**hh:t:Dobrovolskij:Cygane**\n**hh:wsoc:Tenser:Romani-Ukraine**\n**mpieva:1995Romaniin**\n**mpieva:1997Thetypol**\n**mpieva:261**\n**mpieva:Demeter1990GypsyRus**"
+  },
+  "altnames": {
+    "wals": "\nRomani (North Russian)",
+    "moseley & asher (1994)": "\nRomany",
+    "multitree": "\nBaltic Romani\nEuropean Romany\nRomani, Baltic\nRomany\nZigeuner",
+    "lexvo": "\nBaltic Romani [en]",
+    "hhbib_lgcode": "\n(North) Russian Romani\nKrymska Roma\nLatvian Romani\nNorth Russian Romani\nRomani-Baltic\nRussian Gypsies\nSevernorusskij Cyganskij\nXaladytka",
+    "elcat": "\nBaltic\nBaltic Romani\nEuropean Romany\nRomani\nRomany\nZigeuner"
+  },
+  "triggers": {
+    "lgcode": "\ntsyganskij\ncyganskij\nromlex\nnordrussischer\nkelderarskij\nsepecides"
+  },
+  "identifier": {
+    "wals": "rnr",
+    "multitree": "rml",
+    "endangeredlanguages": "5341"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matras:Romani**:14-48 **hh:hv:Benisek:Romani-Historical** **hh:hv:ElsikBenisek:Romani**",
+    "subrefs": "\n**hh:hv:ElsikBenisek:Romani**\n**hh:hv:Benisek:Romani-Historical**\n**hh:hv:Matras:Romani**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Baltic Romani (5341-rml) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

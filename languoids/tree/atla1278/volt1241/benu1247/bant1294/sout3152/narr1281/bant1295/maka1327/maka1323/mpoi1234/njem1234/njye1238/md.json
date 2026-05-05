@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Njyem",
+    "hid": "njy",
+    "level": "language",
+    "iso639-3": "njy",
+    "latitude": "2.30483",
+    "longitude": "14.1175",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35898\nhttps://en.wikipedia.org/wiki/Njem_language\nhttps://phoible.org/languages/njye1238"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:allys:30**\n**cldf:koch:13**\n**eballiso2009:24937**\n**eballiso2009:28707**\n**eballiso2009:3239**\n**eballiso2009:43641**\n**eballiso2009:53231**\n**hh:e:Allys:Dzems**\n**hh:g:Wuchu:Njem**\n**hh:hew:Bruel:Sanga**\n**hh:hew:Koch:Molundu**\n**hh:hv:Cheucle:Makaa-Njem**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hvw:Klieman:WEquatorial**\n**hh:phon:Beavon:Njyem**\n**hh:w:Cottes:Sud-Cameroun**\n**ldh:item_406526**"
+  },
+  "altnames": {
+    "multitree": "\nDjem\nDzem\nNdjem\nNdjeme\nNdzem\nNgyeme\nNjem\nNjyem\nNyem",
+    "lexvo": "\nNjyem [en]",
+    "hhbib_lgcode": "\nA84_Njem\nD'Zem\nD'Zimu\nDzems\nNdzem\nNdzimou\nNjem\nNjem b.~Lomie\nNzimou"
+  },
+  "triggers": {
+    "lgcode": "\nbadwee\nnjyem\nnjem"
+  },
+  "identifier": {
+    "multitree": "njy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cheucle:Makaa-Njem**:516 **hh:phontyp:Beavon:Konzime**:2-3",
+    "subrefs": "\n**hh:phontyp:Beavon:Konzime**\n**hh:hv:Cheucle:Makaa-Njem**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Njyem (njy-njy) = 5* (Developing)."
+  }
+}

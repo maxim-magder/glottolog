@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Nafanan",
+    "hid": "nfr",
+    "level": "language",
+    "iso639-3": "nfr",
+    "latitude": "8.00522",
+    "longitude": "-2.51001",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "GH"
+    ],
+    "links": "\n[Nafaanra](https://wals.info/languoid/lect/wals_code_naf)\nhttps://en.wikipedia.org/wiki/Nafanan_language\nhttps://phoible.org/languages/nafa1258\nhttps://www.wikidata.org/entity/Q13297"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4812**\n**cldf:jordan:78**\n**eballiso2009:10129**\n**eballiso2009:28105**\n**eballiso2009:31202**\n**eballiso2009:36643**\n**eballiso2009:37483**\n**eballiso2009:40229**\n**eballiso2009:41837**\n**eballiso2009:41838**\n**eballiso2009:56668**\n**eballiso2009:59365**\n**eballiso2009:7050**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:he:Dittmer:Obervolta**\n**hh:he:Manoukian:Northern-Gold-Coast**\n**hh:hew:Tauxier:Bondoukou**\n**hh:hvw:Swadesh:Gur**\n**hh:hw:Kropp-Dakubu:Begho**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:phon:Jordan:Nafaara**\n**hh:w:Armstrong:West-African**\n**hh:w:Painter:Banda**\n**hh:w:Rapp:Nafana**\n**sil16:13345**\n**sil16:16079**\n**sil16:17220**\n**sil16:17221**\n**sil16:22271**\n**sil16:39648**\n**sil16:39649**\n**sil16:41192**\n**sil16:41193**\n**sil16:41584**"
+  },
+  "altnames": {
+    "wals": "\nNafaanra",
+    "ruhlen (1987)": "\nNafaanra",
+    "moseley & asher (1994)": "\nNafana",
+    "multitree": "\nBanda\nDzama\nGambo\nNafaanra\nNafaara\nNafana\nPantera-Fantera",
+    "lexvo": "\nNafaanra [de]\nNafanreg [br]\n納凡拉語 [zh]",
+    "hhbib_lgcode": "\nFantera\nGudrun Miehe: G10. Nafaanra (Pantera)\nNafaanra\nNafaara\nNafana\nNafara\nPantera",
+    "glottolog": "\nNafaanra"
+  },
+  "triggers": {
+    "lgcode": "\nwinchaara\ntakper\nnafaara\nhang{u\nprocedurals\nverwadte\npalaka\nting{ge\nbang{ga\ntuwe\ntafire\nfodonon\nnafana\nfhoslash{ndhoslash{ndhoslash{"
+  },
+  "identifier": {
+    "wals": "naf",
+    "multitree": "nfr;nfaa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Guldemann:Africa:Classification**:199 **hh:hv:Miehe:Gur:2020**:194-196 **hh:hv:Carlson:Senufo** **hh:hb:vonRoncadorMiehe:Gur** **hh:phon:Mills:Senoufo**:xii-xx",
+    "subrefs": "\n**hh:hb:vonRoncadorMiehe:Gur**\n**hh:hv:Guldemann:Africa:Classification**\n**hh:hv:Carlson:Senufo**\n**hh:hv:Miehe:Gur:2020**\n**hh:phon:Mills:Senoufo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nafaanra (nfr-nfr) = 5 (Developing)."
+  }
+}

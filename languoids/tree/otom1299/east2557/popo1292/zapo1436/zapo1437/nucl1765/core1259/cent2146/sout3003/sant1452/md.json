@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Santiago Xanica Zapotec",
+    "hid": "zpr",
+    "level": "language",
+    "iso639-3": "zpr",
+    "latitude": "15.8836",
+    "longitude": "-96.2186",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/X%C3%A1nica_Zapotec\nhttps://www.wikidata.org/entity/Q8042924"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Campbell:Central-Zapotec**\n**hh:typ:Piper:Xanica**"
+  },
+  "altnames": {
+    "multitree": "\nSantiago Xanica Zapotec\nSouthern Sapoteko\nXanica Zapotec\nZapotec\nZapotec, Santiago Xanica\nZapoteco de Asunción Tlacolulita\nZapotèque d'Asunción Tlacolulita",
+    "lexvo": "\nSantiago Xanica Zapotec [en]"
+  },
+  "triggers": {
+    "lgcode": "\nxanica\nlee"
+  },
+  "identifier": {
+    "multitree": "zpr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Coatlán Zapotec (8794-zpr) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

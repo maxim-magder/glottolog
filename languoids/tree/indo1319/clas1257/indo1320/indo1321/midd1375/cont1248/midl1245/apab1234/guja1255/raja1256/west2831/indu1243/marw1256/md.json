@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Marwari (Pakistan)",
+    "hid": "mve",
+    "level": "language",
+    "iso639-3": "mve",
+    "latitude": "28.3242",
+    "longitude": "71.5671",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:GraingerGrainger:Sind**\n**hh:hvwt:Grierson:9:II**\n**hh:vsoc:Cain:Garasia**\n**sil16:32846**\n**sil16:35060**"
+  },
+  "altnames": {
+    "multitree": "\nJaiselmer\nMarawar\nMarwari\nMarwari (Pakistan)\nMarwari Bhil\nMarwari Meghwar\nMerwari\nMewari\nRajasthani",
+    "lexvo": "\nMarwari (Pakistan) [en]\nMarwari [en]",
+    "hhbib_lgcode": "\nMB Marwari Bhil in Indira Nagar-Danta-Banaskantha-Gujarat\nMW Marwari in Wokli-Bali-Pali-Rajasthan\nMarwari\nMarwari (Meghwar-Jaiselmer) from Phuladiyon in Sanghar district (50 years ago his family came from Mandaji vllage in Jaiselmer in Rajasthan)\nWestern Marwari of Sindh (Pakistan)"
+  },
+  "triggers": {
+    "lgcode": "\nrajasthani"
+  },
+  "identifier": {
+    "multitree": "mve"
+  },
+  "classification": {
+    "sub": "**hh:hv:GraingerGrainger:Sind**:38-39",
+    "subrefs": "\n**hh:hv:GraingerGrainger:Sind**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marwari (mve-mve) = 5 (Developing)."
+  }
+}

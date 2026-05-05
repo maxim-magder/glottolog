@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Egyptian (Ancient)",
+    "hid": "egy",
+    "level": "language",
+    "iso639-3": "egy",
+    "latitude": "28.381735",
+    "longitude": "30.834959",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "EG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q50868\nhttps://en.wikipedia.org/wiki/Egyptian_language",
+    "timespan": "-3000-01-01/-3000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:budge:26**\n**cldf:budge:35**\n**cldf:cottrell:60**\n**cldf:decamp:60**\n**cldf:emery:61**\n**cldf:erman:23**\n**cldf:erman:94**\n**cldf:kees:23**\n**cldf:lucas:34**\n**cldf:maspero:95**\n**cldf:montet:46**\n**cldf:myer:94**\n**cldf:petrie:23**\n**cldf:petrie:24**\n**cldf:posener:59**\n**cldf:riefstahl:64**\n**cldf:wilkinson:79**\n**hh:d:Bates:MEgytian**\n**hh:d:Faulkner:MIddle-Egyprian**\n**hh:d:LeskoLesko:Late-Egyptian**\n**hh:d:Secco:Egizio**\n**hh:d:Takacs:Etymological-Egyptian**\n**hh:g:Allen:Middle-Egyptian**\n**hh:g:Beylage:Middle-Egyptian**\n**hh:g:Callender:Middle-Egyptian**\n**hh:g:Edel:Altagyptische**\n**hh:g:Gardiner:Egyptian**\n**hh:g:Loprieno:Egyptian**\n**hh:g:Neveu:Late-Egyptian**\n**hh:g:Werning:Agyptische**\n**hh:hv:Ehret:AEgyptian**\n**hh:hv:Hommel:Altagyptischen**\n**hh:hv:Petracek:AAHS**\n**hh:hv:Satzinger:Afroasiatic:Triliterality**\n**hh:hv:Satzinger:Egyptian-Velar**\n**hh:hv:Stork:Agyptisch**\n**hh:hv:Takacs:Egyptian**\n**hh:ld:El-Sayed:Agyptisch**\n**hh:ld:Zyhlarz:Unterathiopischen**\n**hh:s:Budge:Egyptian**\n**hh:s:Haspelmath:Egyptian-Coptic**\n**hh:s:Kramer:Egyptian**\n**hh:soc:Moreno:Ancient-Egypt**\n**hh:st:Peust:Napatanische**\n**hh:typ:Quack:Agyptischen**\n**hh:typ:Reintges:Early-Egyptian**\n**hh:v:Haase:Egyptian**\n**hh:v:Obenga:Egyptian**\n**hh:v:Vycichl:Vorhamitische**\n**hh:vld:Kammerzell:Old-Egyptian**\n**mpieva:Parkinson2005TheRoset**\n**mpieva:Schweitzer2005Schriftu**\n**mpieva:Youssef2003FromPhar**"
+  },
+  "altnames": {
+    "multitree": "\nAltägyptisch\nAncient Egyptian\nEgyptian\nMiddle Egyptian\nancient Egyptian",
+    "lexvo": "\nEgyptian (Ancient) [en]\nEgyptian [en]\négyptien [fr]",
+    "hhbib_lgcode": "\nAncient Egyptian\nEgyptian\nLate Egyptian\nMiddle Egyptian\nNapatanische\nOld Egyptian\nÄgyptischen"
+  },
+  "triggers": {
+    "lgcode": "\ntriliterality\npharaohs\nscratchy\npredominant\nsmooth"
+  },
+  "identifier": {
+    "multitree": "egy"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The extinct but well-known Ancient Egyptian language is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:g:Loprieno:Egyptian**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "egy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Satzinger:Egyptian**",
+    "subrefs": "\n**hh:hv:Satzinger:Egyptian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Egyptian (Ancient) (egy-egy) = 10 (Extinct)."
+  }
+}

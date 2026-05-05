@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Maonan",
+    "hid": "mmd",
+    "level": "language",
+    "iso639-3": "mmd",
+    "latitude": "25.0169",
+    "longitude": "108.024",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Maonan](https://endangeredlanguages.com/lang/1432)\n[Maonan](https://grambank.clld.org/languages/maon1241)\nhttps://en.wikipedia.org/wiki/Maonan_language\nhttps://www.wikidata.org/entity/Q3092293"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3244**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Lu:Maonan**\n**hh:h:Hattaway:China**\n**hh:hel:Bradley:EAsia**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Thurgood:Proto-Kam-Sui**\n**hh:hvtyp:Dabai:Dong-Tai**\n**hh:hw:CEI:Zhuang-Dong**\n**hh:s:Min:Maonan**\n**hh:s:Wang:Zhuang-Dong**\n**hh:s:ZSMYJ:Zhongguo**\n**hh:soc:Zhang:Maonan**\n**hh:soc:Zhang:Mulao**\n**hh:w:Burusphat:Zhuang-Dong**\n**mpieva:Liang1980Maonanyu**"
+  },
+  "altnames": {
+    "multitree": "\nAi Nan\nMaonan",
+    "lexvo": "\nMaonan [en]",
+    "hhbib_lgcode": "\n599-686 Maonan\nMaunan",
+    "elcat": "\nAi Nan\nMaonan\n毛南話\n毛難語"
+  },
+  "triggers": {
+    "lgcode": "\nmaonan"
+  },
+  "identifier": {
+    "multitree": "mmd",
+    "endangeredlanguages": "1432"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thurgood:Proto-Kam-Sui**",
+    "subrefs": "\n**hh:hv:Thurgood:Proto-Kam-Sui**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Maonan (1432-mmd) = Threatened (100 percent certain, based on the evidence available) (Male adults are fluent speakers of Maonan and Zhuang, while educated male adults can also speak local Chinese. In contrast, many children (before schooling) and elderly women are monolingual in Maonan. Many teachers in minority-concentrated areas also speak Maonan. Many Zhuang also can speak Maonan, but Zhuang is the more prestigious language of the two. Younger generations are showing greater language shift to Mandarin, especially because of modern technology and those growing up in urban/suburban areas.) [Lu 2008](cldf:lu:08)"
+  }
+}

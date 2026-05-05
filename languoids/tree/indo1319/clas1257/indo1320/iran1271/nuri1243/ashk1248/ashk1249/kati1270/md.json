@@ -1,0 +1,56 @@
+{
+  "core": {
+    "name": "Katë",
+    "hid": "bsh",
+    "level": "language",
+    "iso639-3": "bsh",
+    "latitude": "35.4145",
+    "longitude": "70.9826",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "PK"
+    ],
+    "links": "\n[Kati](https://endangeredlanguages.com/lang/3979)\n[Kati (in Afghanistan)](https://wals.info/languoid/lect/wals_code_ktz)\nhttps://en.wikipedia.org/wiki/Kat%C3%AB_language\nhttps://www.wikidata.org/entity/Q2605045"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:degener:02**\n**cldf:ed:10**\n**cldf:edelman:94**\n**cldf:grjunberg:80:1**\n**cldf:grjunberg:80:2**\n**cldf:klimburg:04**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:strand:73**\n**hh:d:Ghulamullah:Nuristani**\n**hh:d:Konow:Bashghali**\n**hh:d:Sun-Aro:Nuristani**\n**hh:e:Cacopardo:Jashi**\n**hh:e:Keiser:Afghan-Mountain**\n**hh:e:Tanner:Chugani**\n**hh:g:Ghulamullah:Nuristani**\n**hh:g:Halfmann:Kate**\n**hh:hewtyp:Biddulph:Hindoo-Koosh**\n**hh:hv:Nelson:Nuristani**\n**hh:hvw:Grierson:8:II**\n**hh:hwsoc:Decker:Chitral**\n**hh:st:Davidson:Bashgali**\n**hh:st:Grjunberg:Kati**\n**hh:typ:Mohammad:Kati**\n**hh:v:Konow:Bashgali**\n**hh:w:Capus:Pre-Pamiriennes**\n**hh:w:Rybatzki:Afghanistan:Iranian**\n**mpieva:Konow2001Bashgali**\n**mpieva:Morgenstierne1932Reporton**"
+  },
+  "altnames": {
+    "wals": "\nKati (in Afghanistan)",
+    "wals other": "\nBashgali\nKativiri",
+    "ruhlen (1987)": "\nNuristani",
+    "moseley & asher (1994)": "\nKati",
+    "multitree": "\nBashgali\nBašgalī\nKati\nKativiri\nKatí\nNuristani",
+    "lexvo": "\nKata-vari [en]\nKati [en]\nKati jezik [hr]",
+    "hhbib_lgcode": "\nBashgali\nBushgali\nEastern Kativiri\nEastern Kâta-vari\nJashi people once had a language of their own and occupied much of the Lower Bashgal valley before the arrival of the Kom some 400 years ago: they now speak the language of the Kom people\nKafir-Siahpouche Bachgali-Loudhé\nKamdeshi\nKamviri\nKati\nKom\nKoreishi (Katti)\nNE Katë\nShekhani\nSoutheastern dialect of the Kom\nWestern dialect of Kënégël (Bandol)\nWestern dialect of Kulem",
+    "elcat": "\nBashgali\nBašgalī\nKati\nKativiri\nNuristani",
+    "glottolog": "\nKati"
+  },
+  "triggers": {
+    "lgcode": "\nbashgali\nnuristani\nvostochnogo\ndavidsons"
+  },
+  "identifier": {
+    "wals": "ktz",
+    "multitree": "bsh",
+    "endangeredlanguages": "3979"
+  },
+  "classification": {
+    "sub": "**hh:st:Grjunberg:Kati**:16-23 **hh:h:Strand:Nuristani**:298-299 **hh:hv:Halfmann:Nuristani**",
+    "subrefs": "\n**hh:hv:Halfmann:Nuristani**\n**hh:st:Grjunberg:Kati**\n**hh:h:Strand:Nuristani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kati (3979-bsh) = Threatened (20 percent certain, based on the evidence available) [Rahman 2006](cldf:rahman:06)"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has two languages Northern Nuristani languages Kati [bsh] and Kamviri [xvi]. It has long been known that these are mutually intelligible and locally understood to be so (**hh:st:Grjunberg:Kati**:16-23,\n**hh:h:Strand:Nuristani**:298-299) although there is no indigenous name to encompass the entirety. The entries should be merged into one. See also: UNKNOWN [xvi].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "bsh"
+  }
+}

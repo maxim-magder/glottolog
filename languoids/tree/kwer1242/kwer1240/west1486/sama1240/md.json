@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Samarokena",
+    "hid": "tmj",
+    "level": "language",
+    "iso639-3": "tmj",
+    "latitude": "-1.84878",
+    "longitude": "138.34",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7408865\nhttps://en.wikipedia.org/wiki/Samarokena_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:vanderleeden:56**\n**hh:h:DuBuy:Mamberamo**\n**hh:h:Koentjaraningrat:Sarmi**\n**hh:h:vanderLeeden:Sarmische**\n**hh:he:vanderLeeden:Sarmi**\n**hh:hld:ClouseDonohueMa:NCoast**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Stokhof:Holle:5:2**"
+  },
+  "altnames": {
+    "multitree": "\nKarfasia\nSamarkena\nSamarokena\nTamaja\nTamaya",
+    "lexvo": "\nSamarokena [en]",
+    "hhbib_lgcode": "\nSamarokena (Ac)\nSamarokena en Mukrara\nTamadja\nTamaja\nTomajo"
+  },
+  "triggers": {
+    "lgcode": "\nnorth AND jaya"
+  },
+  "identifier": {
+    "multitree": "sama;tmj"
+  },
+  "classification": {
+    "sub": "**hh:hld:ClouseDonohueMa:NCoast**",
+    "subrefs": "\n**hh:hld:ClouseDonohueMa:NCoast**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samarokena (tmj-tmj) = 6b (Threatened)."
+  }
+}

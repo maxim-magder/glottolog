@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Jiongnai Bunu",
+    "hid": "pnu",
+    "level": "language",
+    "iso639-3": "pnu",
+    "latitude": "23.8692",
+    "longitude": "110.007",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Jiongnai](https://lexibank.clld.org/languages/chenhmongmien-Jiongnai)\n[Jiongnai Bunu](https://endangeredlanguages.com/lang/1328)\nhttps://en.wikipedia.org/wiki/Kiong_Nai_language\nhttps://www.wikidata.org/entity/Q56325"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chen:13:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:mao:liyunbing:02**\n**cldf:np:nd:264**\n**cldf:tiankoushanjiu:00**\n**hh:e:Wang:Hualan-Yao**\n**hh:g:MaoLi:Jiongnai**\n**hh:hel:Bradley:EAsia**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:hvw:Chen:Miao-Yao**\n**hh:ld:Taguchi:Jiongnai**"
+  },
+  "altnames": {
+    "multitree": "\nBunu jiongnai\nBunu, Jiongnai\nBunú jiongnai\nChiung-nai\nHualan Yao\nJiongnai\nJiongnaihua\nKiong Nai\nPunu\nQiungnai",
+    "lexvo": "\nJiongnai Bunu [en]",
+    "hhbib_lgcode": "\nBunu-Jiongnai\nHua Lan Yao\nHualan Yao\nJiongnai\nLonghua",
+    "elcat": "\nBunu\nChiung-nai\nHualan Yao\nJiongnai\nJiongnai Bunu\nJiongnaihua\nKiong Nai\nPunu\nQiungnai\n炯奈語\n花籃瑤"
+  },
+  "triggers": {
+    "lgcode": "\njiongnai"
+  },
+  "identifier": {
+    "multitree": "pnu",
+    "endangeredlanguages": "1328"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ratliff:Hmong-Mien**",
+    "subrefs": "\n**hh:hv:Ratliff:Hmong-Mien**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Jiongnai Bunu (1328-pnu) = Threatened (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

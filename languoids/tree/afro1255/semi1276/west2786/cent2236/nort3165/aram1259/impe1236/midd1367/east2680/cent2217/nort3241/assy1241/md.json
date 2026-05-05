@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Assyrian Neo-Aramaic",
+    "hid": "aii",
+    "level": "language",
+    "iso639-3": "aii",
+    "latitude": "36.75",
+    "longitude": "43.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "IR",
+      "SY",
+      "TR"
+    ],
+    "links": "\n[Aširat Northeastern Neo-Aramaic](https://endangeredlanguages.com/lang/9329)\n[Neo-Aramaic (Assyrian)](https://wals.info/languoid/lect/wals_code_nsy)\nhttps://en.wikipedia.org/wiki/Suret_language\nhttps://www.wikidata.org/entity/Q29440"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:ed:81:1**\n**cldf:haeberl:13**\n**cldf:kapeliuk:98**\n**cldf:tsereteli:78**\n**cldf:zaborski:ed:01:4**\n**hh:d:Kalashev:Ajsorsko**\n**hh:d:Sumanov:Assirskij**\n**hh:g:Askar:Armota**\n**hh:g:Borghero:Ashitha**\n**hh:g:Fox:Jilu**\n**hh:g:Krotkoff:Neo-Aramaic**\n**hh:g:Noldeke:Neusyrische**\n**hh:g:Noldeke:Syriac:1904**\n**hh:g:Stoddard:Syriac**\n**hh:g:Talay:Khabur**\n**hh:g:Younansardaroud:Sardarid**\n**hh:gtd:Khan:Neo-Aramaic-Barwar**\n**hh:gtd:Khan:Neo-Aramaic-Christians-Urmi**\n**hh:hvld:Khan:Neo-Aramaic-Anatolia-Iran**\n**hh:ld:Younansardaroud:Sardarid**\n**hh:s:Coghill:Tin**\n**hh:s:Fassberg:Modern-Western-Aramaic**\n**hh:s:Fox:Jilu**\n**hh:s:Mutzafi:Baz**\n**hh:s:Mutzafi:Hakkari**\n**hh:s:Talay:Tiyari**\n**hh:s:Tsereteli:Assirskij**\n**hh:t:Friedrich:Neusyrischer**\n**hh:t:Gottheil:Judaeo**\n**hh:t:Kalashev:Ajsorskie**\n**mpieva:Jastrow1993LautundF**\n**mpieva:Noldeke1974Grammati**"
+  },
+  "altnames": {
+    "wals": "\nNeo-Aramaic (Assyrian)",
+    "wals other": "\nAssyrian\nAssyrian Neo-Aramaic",
+    "moseley & asher (1994)": "\nAssyrian",
+    "multitree": "\nAisorski\nAssyrian\nAssyrian Neo-Aramaic\nAssyrianci\nAssyriski\nLishana Aturaya\nNeo-Aramaic (Assyrian)\nNeo-Syriac\nNeo-arameo oriental\nSooreth\nSoureth\nSuret\nSureth\nSuryaya Swadaya",
+    "lexvo": "\nAsirski novoaramejski [hr]\nAssyrian Neo-Aramaic [en]\nAssyrisch-Neuaramäische Sprache [de]\nAssyrisk Neo-Arameiska [sv]\nAssyríska [is]\nAturayeg [br]\nNeoarameo asirio [es]\nАсириски неоарамејски јазик [mk]\nܣܘܪܬ [aii]\nภาษาอราเมอิกใหม่อัสซีเรีย [th]",
+    "hhbib_lgcode": "\nAisorskij\nAshitha\nAssyrian\nBaz\nChristian Aradhin in Iraqi Kurdistan\nChristian dialect of Barwar\nEastern Neo Aramaic\nGzira Jewish dialect\nJilu\nNeo-Aramaic dialect spoken by Assyrian Christians in the region of Urmi (northwestern-Iran)\nNorthern Assyrian (Baz-Dez-Gavar-Jilu-Qudshanis-Salamas-Upper Barwari-Van)\nNorthern NENA\nOroomiah\nSalamas\nSapna cluster\nSat/Hakkari\nTin in the Sapna valley of Northern Iraq (Chaldeans)\nTiyare\nUrmi\nUrmia-Van\nVan)\nclose to Zakho\nʾAṛmoṭa",
+    "elcat": "\nAshirat Neo-Aramaic\nAsirat Northeastern Neo-Aramaic\nAssyrian\nAširat Northeastern Neo-Aramaic\nNENA"
+  },
+  "triggers": {
+    "lgcode": "\nkhabur\nbarwar\niranica\noroomiah\nneusyrischen\nsalamas\nneuaramaische\nassirskij\nassyrer\nnadirova\nrid\nkhtaya\naramaean\nurmia\ntiyari\njilu\nassyrians\nturabdin"
+  },
+  "identifier": {
+    "wals": "nsy",
+    "multitree": "aii",
+    "endangeredlanguages": "9329"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kim:Modern-Aramaic**",
+    "subrefs": "\n**hh:hv:Kim:Modern-Aramaic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aširat Northeastern Neo-Aramaic (9329) = Endangered (20 percent certain, based on the evidence available) (It is still spoken in the home.) [Talay 2008](cldf:talay:08)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gobu",
+    "hid": "gox",
+    "level": "language",
+    "iso639-3": "gox",
+    "latitude": "5.01201",
+    "longitude": "20.0194",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CF"
+    ],
+    "links": "\n[Gobu](https://grambank.clld.org/languages/gobu1238)\nhttps://www.wikidata.org/entity/Q7194986"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Struck:Moyen-Congo**\n**hh:hdial:Cloarec-Heiss:Banda**\n**hh:hvw:Olson:Banda**\n**hh:hw:Thonner:Ubangi**\n**hh:s:Santandrea:Banda-Zande**"
+  },
+  "altnames": {
+    "multitree": "\nGabou\nGabu\nGobu\nGubu\nNgobo\nNgobu",
+    "lexvo": "\nGobu [en]",
+    "hhbib_lgcode": "\nBanda-Gobu\nBanda-Ngobu\nGubu\nGābu"
+  },
+  "triggers": {
+    "lgcode": "\nzande AND banda"
+  },
+  "identifier": {
+    "multitree": "gox"
+  },
+  "classification": {
+    "sub": "**hh:hdial:Cloarec-Heiss:Banda** **hh:hv:Cloarec-Heiss:Banda:2000**",
+    "subrefs": "\n**hh:hdial:Cloarec-Heiss:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gobu (gox-gox) = 6a* (Vigorous)."
+  }
+}

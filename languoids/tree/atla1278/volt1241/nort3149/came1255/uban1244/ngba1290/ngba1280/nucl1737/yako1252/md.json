@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Yakoma",
+    "hid": "yky",
+    "level": "language",
+    "iso639-3": "yky",
+    "latitude": "4.1651",
+    "longitude": "22.1702",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CF"
+    ],
+    "links": "\n[Yakoma](https://grambank.clld.org/languages/yako1252)\n[Yakoma](https://wals.info/languoid/lect/wals_code_ykm)\nhttps://www.wikidata.org/entity/Q3571364"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:259**\n**cldf:boyeldieu:04:1**\n**cldf:boyeldieu:09**\n**cldf:boyeldieu:95**\n**cldf:roulon-doko:ed:98:1**\n**eballiso2009:44500**\n**eballiso2009:47764**\n**eballiso2009:48598**\n**eballiso2009:48604**\n**eballiso2009:53943**\n**eballiso2009:54758**\n**hh:g:Maba:Yakoma**\n**hh:h:ALAC:CAR**\n**hh:hs:Boyd:Oubangiennes**\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**\n**hh:hvw:McMaster:Uele**\n**hh:hw:Monino:Oubanguiennes**\n**hh:hw:Thonner:Ubangi**\n**hh:ld:Boyeldieu:Yakoma**\n**hh:s:Boyeldieu:Yakoma**\n**hh:s:BoyeldieuDiki-Kidiri:Ngbandi**\n**hh:soc:Wald:Yakomas**\n**hh:typ:Boyeldieu:Logophorique-Yakoma**\n**hh:typ:Boyeldieu:Yakoma**\n**hh:typ:Boyeldieu:Yakoma-Logophorique-Imminence**"
+  },
+  "altnames": {
+    "wals": "\nYakoma",
+    "ruhlen (1987)": "\nYakoma",
+    "moseley & asher (1994)": "\nYakoma",
+    "multitree": "\nSango\nYakoma",
+    "lexvo": "\nYakoma [en]",
+    "hhbib_lgcode": "\nYakoma de Ngbama\nYakomas"
+  },
+  "triggers": {
+    "lgcode": "\nyakoma"
+  },
+  "identifier": {
+    "wals": "ykm",
+    "multitree": "yky"
+  },
+  "classification": {
+    "sub": "**hh:h:BoyeldieuDiki-Kidiri:Ngbandi-Sango-Kpatiri**",
+    "subrefs": "\n**hh:h:BoyeldieuDiki-Kidiri:Ngbandi-Sango-Kpatiri**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yakoma (yky-yky) = 6a* (Vigorous)."
+  }
+}

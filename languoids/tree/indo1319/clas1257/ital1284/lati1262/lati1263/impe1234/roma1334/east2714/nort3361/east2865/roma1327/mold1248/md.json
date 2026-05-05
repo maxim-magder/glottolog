@@ -1,0 +1,25 @@
+{
+  "core": {
+    "name": "Moldavian",
+    "level": "dialect",
+    "iso639-3": "mol",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [],
+    "hid": "mol",
+    "links": "\n[Moldavian](https://wals.info/languoid/lect/wals_code_mol)\nhttps://en.wikipedia.org/wiki/Moldovan_language\nhttps://www.wikidata.org/entity/Q36392"
+  },
+  "iso_retirement": {
+    "comment": "Moldavian was merged into Romanian [ISO 639-3 ron].",
+    "code": "mol",
+    "name": "Moldavian",
+    "effective": "2008-11-03",
+    "remedy": "Merge with Romanian [ron] (same as [rum] 639-2/B)",
+    "reason": "merge",
+    "change_to": "\nron"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aleksandrov:00:2**\n**cldf:gajdarzi:baskakov:73**\n**cldf:kantemir:73**\n**cldf:karlov:90**\n**cldf:kozlova:82**\n**cldf:pljusnin:99**\n**cldf:postolaki:87**\n**cldf:salmanovich:47**\n**cldf:semenov:ed:00:1**\n**cldf:tolstov:ed:64**\n**cldf:zashchuk:59**"
+  }
+}

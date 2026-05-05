@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nahari",
+    "hid": "nhh",
+    "level": "language",
+    "iso639-3": "nhh",
+    "latitude": "20.4118",
+    "longitude": "81.97747",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Nahari](https://endangeredlanguages.com/lang/4854)\nhttps://www.wikidata.org/entity/Q6583560\nhttps://en.wikipedia.org/wiki/Nahari_language"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Grierson:7**",
+    "subrefs": "\n**hh:hvw:Grierson:7**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Masica:Indo-Aryan**\n**hh:hvw:Grierson:7**"
+  },
+  "altnames": {
+    "multitree": "\nNahali\nNahari",
+    "lexvo": "\nNahari [en]\nNahari language [en]\nภาษานาฮารี [th]",
+    "hhbib_lgcode": "\nNahali\nNahari dialect of Halbi in Madhya Pradesh",
+    "elcat": "\nNahali\nNahari"
+  },
+  "triggers": {
+    "lgcode": "\nterms AND korku"
+  },
+  "identifier": {
+    "multitree": "nhh",
+    "endangeredlanguages": "4854"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Nahari (4854-nhh) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

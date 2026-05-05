@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Warrongo",
+    "hid": "wrg",
+    "level": "language",
+    "iso639-3": "wrg",
+    "latitude": "-18.2496",
+    "longitude": "144.37",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Gudjal](https://endangeredlanguages.com/lang/3325)\n[Warrongo](https://grambank.clld.org/languages/waru1264)\n[Warrongo](https://wals.info/languoid/lect/wals_code_wgu)\n[Warungu](https://lexibank.clld.org/languages/bowernpny-Warungu)\nhttps://phoible.org/languages/waru1264",
+    "timespan": "1981-01-01/1981-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:321**\n**cldf:abraham:ed:99:1**\n**cldf:bowern:11:1**\n**cldf:brayshaw:90**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:siewierska:ed:98:1**\n**cldf:sterkenburg:ed:04**\n**cldf:tryon:07**\n**cldf:tsunoda:07:1**\n**cldf:tsunoda:88:2**\n**hh:d:Tsunoda:Warrungu**\n**hh:g:Tsunoda:Warrongo**\n**hh:g:Tsunoda:Warungu**\n**hh:hv:Sutton:Gugu-Badhun**\n**hh:hvw:Barrett:Maric**\n**hh:w:Sutton:Upper-Burdekin**\n**iso6393:2018-069**\n**mpieva:Tsunoda1974Agrammar**\n**mpieva:Tsunoda1999Aspectan**\n**ozbib:1554**\n**ozbib:2907**\n**ozbib:5427**\n**ozbib:5718**\n**ozbib:5778**\n**ozbib:5780**\n**ozbib:5781**\n**ozbib:5787**\n**ozbib:5790**\n**ozbib:5794**\n**ozbib:5795**\n**ozbib:5797**\n**ozbib:5798**\n**ozbib:5799**\n**ozbib:5801**\n**ozbib:5802**\n**ozbib:5803**\n**ozbib:5805**\n**ozbib:5806**\n**ozbib:5808**\n**ozbib:5809**\n**ozbib:5810**\n**ozbib:5812**\n**ozbib:5814**\n**ozbib:5818**\n**ozbib:5819**\n**ozbib:5820**\n**ozbib:5821**\n**ozbib:5822**\n**ozbib:5823**\n**ozbib:5824**\n**ozbib:5830**\n**ozbib:5839**\n**ozbib:5850**\n**ozbib:5851**\n**ozbib:5853**\n**ozbib:5856**\n**ozbib:6776**\n**ozbib:6778**\n**ozbib:6936**\n**ozbib:7199**\n**ozbib:7200**"
+  },
+  "altnames": {
+    "wals": "\nWarrungu",
+    "ruhlen (1987)": "\nWarungu",
+    "multitree": "\nGudjala\nGugu-Badhun\nKuritjal\nKutjala\nWarrialgona\nWarrongo\nWarrungu\nWarungu",
+    "lexvo": "\nWarungu [en]",
+    "hhbib_lgcode": "\nWarungu",
+    "elcat": "\nGudjal\nGudjala\nGugu-Badhun\nKoko Patun\nKuritjal\nKutjala\nWarrialgona\nWarrongo\nWarrungu\nWarungu"
+  },
+  "triggers": {
+    "lgcode": "\nwarungu\nwarrungu\nwarunu\nronshuu\nwarrongo"
+  },
+  "identifier": {
+    "wals": "wgu",
+    "multitree": "wrg",
+    "endangeredlanguages": "3325"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sutton:Gugu-Badhun** **hh:hvw:Barrett:Maric**",
+    "subrefs": "\n**hh:hv:Sutton:Gugu-Badhun**\n**hh:hvw:Barrett:Maric**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gudjal (3325-wrg) = Awakening [Bowern 2011](cldf:bowern:11:1)"
+  }
+}

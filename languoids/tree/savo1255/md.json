@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Savosavo",
+    "hid": "svs",
+    "level": "language",
+    "iso639-3": "svs",
+    "latitude": "-9.12853",
+    "longitude": "159.814",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Savosavo](https://endangeredlanguages.com/lang/2490)\n[Savosavo](https://grambank.clld.org/languages/savo1255)\n[Savosavo](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Savosavo)\n[Savosavo](https://lexibank.clld.org/languages/transnewguineaorg-savosavo)\n[Savosavo](https://wals.info/languoid/lect/wals_code_svs)\nhttps://en.wikipedia.org/wiki/Savosavo_language\nhttps://phoible.org/languages/savo1255\nhttps://www.wikidata.org/entity/Q3130296"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hammarstroem:17**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:sprachen:nd**\n**hh:g:Wegener:Savosavo**\n**hh:g:Wegener:Savosavo:2012**\n**hh:h:Ray:Non-Melanesian**\n**hh:hv:Pedros:Central-Solomons**\n**hh:hv:Terrill:Solomon-Islands**\n**hh:hv:Todd:Savosavo**\n**hh:hv:Wurm:EPapuan**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvtyp:Capell:NAN-Solomons**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvwtyp:Todd:Solomon**\n**hh:ld:Codrington:Savo**\n**hh:ld:Grace:46**\n**hh:typ:Wegener:Savosavo**\n**hh:w:Wegener:Savosavo**\n**mpieva:1973Savosavo**"
+  },
+  "altnames": {
+    "wals": "\nSavosavo",
+    "ruhlen (1987)": "\nSavosavo",
+    "moseley & asher (1994)": "\nSavsavo",
+    "multitree": "\nSavo\nSavo Island\nSavosavo",
+    "lexvo": "\nSavosavo [en]\nSavosavo language [en]",
+    "hhbib_lgcode": "\nSavo",
+    "elcat": "\nSavo\nSavo Island\nSavosavo"
+  },
+  "triggers": {
+    "lgcode": "\nsavo\nsavosavo"
+  },
+  "identifier": {
+    "wals": "svs",
+    "multitree": "svs",
+    "endangeredlanguages": "2490",
+    "languagelandscape": "http://languagelandscape.org/language/Savosavo"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Terrill:CSolomon**\n**hh:hv:DunnTerrill:Central-Solomons**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Savosavo (2490-svs) = Threatened (40 percent certain, based on the evidence available) [Wegener 2008](cldf:wegener:08)"
+  }
+}

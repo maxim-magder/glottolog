@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kaure-Narau",
+    "hid": "bpp",
+    "level": "language",
+    "iso639-3": "bpp",
+    "latitude": "-3.39188",
+    "longitude": "140.14",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kaure](https://endangeredlanguages.com/lang/10745)\n[Kaure](https://lexibank.clld.org/languages/transnewguineaorg-kaure)\n[Kaure](https://wals.info/languoid/lect/wals_code_kaj)\n[Kaure-Narau](https://grambank.clld.org/languages/kaur1271)\nhttps://www.wikidata.org/entity/Q12634336"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:16**\n**hh:d:Dommeletal:Kaure**\n**hh:e:DommelDommel:Kaure**\n**hh:e:Hovenkamp:NNG**\n**hh:he:Feuilleteauetal:Mamberamo**\n**hh:hew:Galis:Jafi**\n**hh:hew:Giel:Oost-Meervlakte**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:Voorhoeve:Miscellaneous**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:phon:DommelDommel:Kaure**\n**hh:s:Aurietal:Kaure**\n**hh:v:Palmer:Kaure**\n**hh:w:Walker:Kaureh**\n**iso6393:2019-030**\n**sil16:31927**\n**sil16:32556**\n**sil16:33755**\n**sil16:37781**"
+  },
+  "altnames": {
+    "wals": "\nKaure",
+    "ruhlen (1987)": "\nKaurne",
+    "moseley & asher (1994)": "\nKaure",
+    "multitree": "\nKaure\nKaure Proper\nKaureh",
+    "lexvo": "\nKaure [en]",
+    "hhbib_lgcode": "\nKaure\nKaure (Br)\nKaureh\nNarau\nPoeveh (= Kaure?)",
+    "elcat": "\nKaure\nKaureh\nKaurne"
+  },
+  "triggers": {
+    "lgcode": "\nkaure\nkaureki"
+  },
+  "identifier": {
+    "wals": "genus/kaure",
+    "multitree": "kaur;kaup;bpp",
+    "endangeredlanguages": "10745"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kaure (10745-bpp) = Endangered (20 percent certain, based on the evidence available) (Moribund) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

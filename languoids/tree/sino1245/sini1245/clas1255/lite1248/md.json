@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Classical Chinese",
+    "hid": "lzh",
+    "level": "language",
+    "iso639-3": "lzh",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Classical_Chinese\nhttps://www.wikidata.org/entity/Q37041",
+    "longitude": "109.05",
+    "latitude": "34.09",
+    "timespan": "-0500-01-01/0200-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:s:Brandt:Literary-Chinese**\n**hh:s:Brandt:Literary-Chinese:1954**\n**hh:s:Ding:Qinhan**\n**hh:st:Fuller:Literary-Chinese**\n**hh:t:Creel:Literary-Chinese**\n**iso6393:2008-089**"
+  },
+  "altnames": {
+    "multitree": "\nClassical Chinese\nLiterary Chinese",
+    "lexvo": "\nBahasa Cina klasik [ms]\nBahasa Tionghoa Klasik [id]\nChino clásico [es]\nChinois classique [fr]\nClassical Chinese [en]\nHán Văn [vi]\nKlassiek Chinees [nl]\nKlassisches Chinesisch [de]\nKlassisk kinesisk [no]\nKlassisk kinesiska [sv]\nKlasszikus kínai nyelv [hu]\nKlasyczny język chiński [pl]\nLiterarni kineski [hr]\nLiterary Chinese [en]\nVanahiina kirjakeel [et]\nВэньянь [ru]\nКласически китайски език [bg]\nКласична китайська мова [uk]\nКласично кинеско писмо [sr]\n文言 [lzh]\n文言文 [gan]\n漢文 [ja]\n한문 [ko]",
+    "glottolog": "\nLiterary Chinese",
+    "hhbib_lgcode": "\nLiterary Chinese\nQinhan"
+  },
+  "triggers": {
+    "lgcode": "\nliterary AND chinese"
+  },
+  "identifier": {
+    "multitree": "ltc-lit;lzh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Handel:Chinese-Diversification** **hh:hv:Norman:Chinese-Classification**",
+    "subrefs": "\n**hh:hv:Handel:Chinese-Diversification**\n**hh:hv:Norman:Chinese-Classification**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Literary Chinese (lzh-lzh) = 10 (Extinct)."
+  }
+}

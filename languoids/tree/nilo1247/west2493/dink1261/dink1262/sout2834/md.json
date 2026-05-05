@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Southeastern Dinka",
+    "hid": "dks",
+    "level": "language",
+    "iso639-3": "dks",
+    "latitude": "7.02206",
+    "longitude": "31.285",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36538"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:53161**\n**hh:e:Beswick:Sudan**\n**hh:h:Cook:Southern-Sudan**\n**hh:hb:Santandrea:Missioni**\n**hh:hlddial:Jok:Dinka**\n**hh:hlde:Kaufmann:White-Nile**\n**hh:hvld:Stigand:Lado**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hwdial:RoettgerRoettger:Dinka**\n**hh:phon:Blum:Dinka**\n**hh:phontyp:Ayom:Dinka-Bor**\n**hh:phontyp:Mayom:Bor-Dinka**\n**hh:s:Deng:Dinka**\n**hh:typ:Deng:Dinka**\n**hh:typ:vanUrk:Dinka-Bor**\n**hh:typ:vanUrk:Dinka-Bor-Pronoun**\n**hh:w:Blench:Dinka**\n**mpieva:Mitterutzer1993DieDinka**\n**mpieva:Nebel2005DinkaEng**\n**sil16:12036**\n**sil16:18428**\n**sil16:22104**\n**sil16:44660**\n**sil16:44806**\n**sil16:46894**\n**sil16:48949**"
+  },
+  "altnames": {
+    "multitree": "\nBor\nDinka\nDinka, Southeastern\nEastern Dinka\nOst-Dinka\nSoutheastern Dinka",
+    "lexvo": "\nSoutheastern Dinka [en]",
+    "hhbib_lgcode": "\nAthoc\nBor\nBor Dinka\nDinka\nDinka Bor\nDinka from north of Bor\nDinka-Southeastern\nGhol\nHol and Bor South Dinka\nJieng (Dinka)\nNyarweng\nSE Dinka\nTuic-East\nTwic-Yonglei"
+  },
+  "triggers": {
+    "lgcode": "\nstraw\n8210\nyiic\nbor"
+  },
+  "identifier": {
+    "multitree": "dks"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dinka, Southeastern (dks-dks) = 5 (Developing). Recognized language (2011, Transitional Constitution, Article 6(1)), primary education, literacy efforts."
+  }
+}

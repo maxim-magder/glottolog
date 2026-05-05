@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gen",
+    "hid": "gej",
+    "level": "language",
+    "iso639-3": "gej",
+    "latitude": "6.25971",
+    "longitude": "1.67727",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "TG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Gen_language\nhttps://phoible.org/languages/genn1243\nhttps://www.wikidata.org/entity/Q33450"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:1274**\n**eballiso2009:23537**\n**eballiso2009:25358**\n**eballiso2009:25359**\n**eballiso2009:27973**\n**eballiso2009:34050**\n**eballiso2009:38901**\n**eballiso2009:38948**\n**eballiso2009:42600**\n**eballiso2009:50615**\n**hh:b:DuthieVlaardingerbroek:Gbe**\n**hh:d:Edorh:Ge**\n**hh:d:Schuh:Gengbe**\n**hh:e:Manoukian:Ewe**\n**hh:ew:Prietze:Togo-Kolonie**\n**hh:g:Bole-Richard:Gen-Mina**\n**hh:g:Kangni:Ge**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hv:Capo:Gbe**\n**hh:hvld:Hazoume:Gbe**\n**hh:hvphon:Capo:Wacigbe-Gengbe**\n**hh:lde:Witte:Togo**\n**hh:phon:Lotven:Gengbe**\n**hh:phon:Mensah:Gegbe**\n**hh:s:Gblem:Gengbe**\n**hh:s:Henrici:Ephe**\n**hh:s:Houngues:Mina**\n**hh:s:Johnson:Ge-Mina**\n**hh:s:Jondoh:Gegbe**\n**hh:s:Kodjo:Gegbe**\n**hh:s:Pazzi:Aja-Ewe-Gen-Mina**\n**hh:s:Schroder:Ge**\n**hh:s:Seidel:Evhe**\n**hh:s:deBarrosAka:Mina**\n**hh:s:deGregorio:Eve**\n**hh:sd:Pazzi:Gen**\n**hh:soc:Capo:Gbe**\n**hh:soc:Sagbo:Dahomey**\n**hh:styp:Lewis:Gen**\n**hh:typ:Johnson:Ge**\n**hh:typ:LokossaCapo:Wacigbe-Gengbe**\n**hh:w:CNLT:Togo**\n**hh:w:Silveira:Mina**\n**mpieva:Atsou1987ZurSynta**\n**sil16:49402**"
+  },
+  "altnames": {
+    "multitree": "\nGe\nGebe\nGen\nGen-Gbe\nGuin\nMina\nMina-Gen\nPopo",
+    "lexvo": "\nGen [de]\nGen language [en]\nGena lingvo [eo]\nGeneg [br]\nLingua gen [it]\nLíngua gen [pt]",
+    "hhbib_lgcode": "\n5xGen\nAnecho\nEvhe of Anecho\nGe\nGegbe\nGen (Mina)\nGengbe\nGẽ\nMina"
+  },
+  "triggers": {
+    "lgcode": "\ngegbe\nggbe\npersonne AND mina"
+  },
+  "identifier": {
+    "multitree": "gej"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kluge:Gbe**",
+    "subrefs": "\n**hh:hv:Kluge:Gbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gen (gej-gej) = 3 (Wider communication). Originated in Ghana and Nigeria; became a major African language during the 16th–18th centuries with the expansion of the European slave trade."
+  }
+}

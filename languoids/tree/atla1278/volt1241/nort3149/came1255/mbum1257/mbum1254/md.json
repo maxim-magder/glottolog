@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mbum",
+    "hid": "mdd",
+    "level": "language",
+    "iso639-3": "mdd",
+    "latitude": "7.5789",
+    "longitude": "14.2722",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36170\nhttps://en.wikipedia.org/wiki/Mbum_language\nhttps://phoible.org/languages/mbum1254\n[Mbum](https://wals.info/languoid/lect/wals_code_mbm)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:488**\n**cldf:lembezat:61**\n**cldf:tessmann:29:1**\n**eballiso2009:16044**\n**eballiso2009:21428**\n**eballiso2009:21512**\n**eballiso2009:2344**\n**eballiso2009:2345**\n**eballiso2009:23998**\n**eballiso2009:45691**\n**eballiso2009:54710**\n**eballiso2009:57562**\n**eballiso2009:5808**\n**eballiso2009:6254**\n**eballiso2009:9015**\n**eballiso2009:9376**\n**hh:d:Flottum:Mbum**\n**hh:e:Froehlich:Mboum**\n**hh:e:Strumpell:Ostgrenzgebietes-Adamaua**\n**hh:g:Hagege:Mbum**\n**hh:he:Chauleur:Cameroun**\n**hh:he:Mohammadou:Mbere-Mboum**\n**hh:he:Tessmann:Mbakka-Limba**\n**hh:hew:Bruel:Sanga**\n**hh:hew:Meek:Tribal:II**\n**hh:hsoc:DillerDiller:Gbete**\n**hh:hsoc:Seguin:EMbum**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Strumpell:Adamauas**\n**hh:phon:Kouemou:Gbete**\n**hh:s:Tessmann:Mbaka-Limba**\n**hh:s:vonDuisburg:Mbum-Pere**\n**hh:s:vonDuisburg:Mbum:1925**\n**hh:typ:Kouemou:Gbete**\n**hh:typ:Mohamadou:Mbum**\n**hh:w:Hino:Mbum**\n**hh:w:Periquet:AEF**\n**mpieva:Guarisma1978Etudesvo**\n**mpieva:Hagege1968Descript**"
+  },
+  "altnames": {
+    "wals": "\nMbum",
+    "ruhlen (1987)": "\nMbum (East), Mbum (West)",
+    "moseley & asher (1994)": "\nMbum",
+    "multitree": "\nBuna\nMboum\nMboumtiba\nMbum\nWuna",
+    "lexvo": "\nMbum [en]",
+    "hhbib_lgcode": "\nBoum\nGbete\nMboum\nMboum yes this is the Adamawa Mbum\nMbum (also some dialects)\nMbum Babal\nMbum Mbéré\nMbum Nganha\nMbum Nger\nMbum Tiba"
+  },
+  "triggers": {
+    "lgcode": "\nextendability\ngbete\nmbum\nvoutcais\nmboum\nnganha"
+  },
+  "identifier": {
+    "wals": "mbm",
+    "multitree": "mdd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Elders:Kebi-Benue** **hh:s:Glidden:Koh**:225-226 **hh:phon:UbelsUbels:Karang**:1-5 **hh:hv:Elders:Kebi-Benue**",
+    "subrefs": "\n**hh:phon:UbelsUbels:Karang**\n**hh:s:Glidden:Koh**\n**hh:hv:Elders:Kebi-Benue**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbum (mdd-mdd) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Virgin Islands Dutch Creole",
+    "hid": "dcr",
+    "level": "language",
+    "iso639-3": "dcr",
+    "latitude": "18.3416",
+    "longitude": "-64.8922",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "VI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q1815830\n[Negerhollands](https://apics-online.info/contributions/27)\nhttps://en.wikipedia.org/wiki/Negerhollands",
+    "timespan": "1700-01-01/1987-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:denbesten:08**\n**cldf:josselindejong:26**\n**cldf:magens:08**\n**cldf:stolz:86**\n**cldf:vandiggelen:78**\n**hh:d:Oldendorp:Criolisches**\n**hh:g:Bradford:Virgin-Islands-Dutch**\n**hh:g:Hesseling:Negerhollands**\n**hh:ld:Josselin:Negerhollandsch**\n**hh:ld:Pontoppidan:Danisch**\n**hh:s:Bradford:Virgin-Islands-Dutch**\n**hh:s:Graves:Dutch-Creole**\n**hh:s:Magens:Creole-Croix**\n**hh:s:vanSluijs:Negerhollands**\n**hh:st:vanRossemvanderVoort:Creol**\n**hh:styp:vanSluijs:Virgin-Islands-Dutch**\n**hh:sv:vanRossem:Virgin-Islands-Dutch**\n**hh:t:Josselin:Negerhollandsch**\n**hh:typ:deKleine:Negerhollands**\n**hh:v:Goodman:Virgin-Islands-Creole-Dutch**\n**hh:v:Schuchardt:Negerhollandischen**\n**mpieva:Oldendorp1996Criolisc**"
+  },
+  "altnames": {
+    "lexvo": "\nNeekerihollanti [fi]\nNeger'ollands [zea]\nNegerhollands [af]\nNegerhollandsk [da]\nNegerholländisch [de]",
+    "hhbib_lgcode": "\nDutch creole of the Virgin Islands\nNegerhollands\nVirgin Islands Creole Dutch",
+    "glottolog": "\nNegerhollands"
+  },
+  "triggers": {
+    "lgcode": "\nnegerhollands\nnegerhollandsch\nnegerhollandischen"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bakker:Three-Dutch-Creoles**",
+    "subrefs": "\n**hh:hv:Bakker:Three-Dutch-Creoles**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Negerhollands (dcr-dcr) = 10 (Extinct)."
+  }
+}

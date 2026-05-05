@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lapuyan Subanun",
+    "hid": "laa",
+    "level": "language",
+    "iso639-3": "laa",
+    "latitude": "7.53449",
+    "longitude": "123.13",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12635302"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Christie:Subanuns**\n**hh:hv:Lobel:Subanen**\n**hh:hv:LobelHall:Southern-Subanen**\n**hh:s:Chua:Subanen**\n**hh:s:Promonetal:Subanen**\n**iso6393:2009-066**\n**sil16:20260**\n**sil16:33273**"
+  },
+  "altnames": {
+    "multitree": "\nLapuyen\nMargosatubig\nSubanen\nSubanun, Lapuyan",
+    "lexvo": "\nSouthern Subanen [en]",
+    "hhbib_lgcode": "\nPang-Pang Dumankilas Bay\nSouthern Subanen\nSouthern Subanon\nSouthern Subanun"
+  },
+  "triggers": {
+    "lgcode": "\nwestern AND chavacano\naspiration"
+  },
+  "identifier": {
+    "multitree": "laa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lobel:Subanen**",
+    "subrefs": "\n**hh:hv:Lobel:Subanen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Subanen, Southern (laa-laa) = 6b (Threatened)."
+  }
+}

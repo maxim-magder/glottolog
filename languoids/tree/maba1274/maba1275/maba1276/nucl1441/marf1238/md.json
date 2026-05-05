@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Marfa",
+    "hid": "mvu",
+    "level": "language",
+    "iso639-3": "mvu",
+    "latitude": "13.1568",
+    "longitude": "20.7882",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q713633\nhttps://en.wikipedia.org/wiki/Marfa_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:59498**\n**hh:he:Lebeuf:Tchad**\n**hh:he:leRouvreur:Saheliens**\n**hh:hv:Edgar:Maba**\n**hh:hv:WeissFaris:Maba**"
+  },
+  "altnames": {
+    "multitree": "\nMarba\nMarfa",
+    "lexvo": "\nMarfa [en]"
+  },
+  "triggers": {
+    "lgcode": "\nlexicon AND maba"
+  },
+  "identifier": {
+    "multitree": "mvu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edgar:Maba** **hh:hv:Starostin:Mimi**",
+    "subrefs": "\n**hh:hv:Edgar:Maba**\n**hh:hv:Starostin:Mimi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marfa (mvu-mvu) = 6a* (Vigorous)."
+  }
+}

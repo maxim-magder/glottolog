@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Gheg Albanian",
+    "hid": "aln",
+    "level": "language",
+    "iso639-3": "aln",
+    "latitude": "42.317",
+    "longitude": "21.3837",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "BG",
+      "ME",
+      "MK",
+      "RO",
+      "RS"
+    ],
+    "links": "\n[Albanian](https://lexibank.clld.org/languages/kesslersignificance-Albanian)\n[Gheg Albanian](https://grambank.clld.org/languages/gheg1238)\nhttps://en.wikipedia.org/wiki/Gheg_Albanian\nhttps://phoible.org/languages/gheg1238\nhttps://www.wikidata.org/entity/Q181037"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:coon:50**\n**cldf:durham:09**\n**cldf:durham:28**\n**cldf:hasluck:54**\n**cldf:lane:23**\n**cldf:pisko:96**\n**hh:d:Blanchus:Epiroticum**\n**hh:d:Newmark:Albanian**\n**hh:d:Rugova:Shqip**\n**hh:dial:Gjinari:Shqiptare**\n**hh:dial:Gjinari:Shqiptare:1975**\n**hh:dial:Gjinari:Shqiptare:1989**\n**hh:e:Schwander-Sievers:Albanians**\n**hh:g:Camaj:Albanian**\n**hh:g:Cordignano:Ghego**\n**hh:g:Kuqi:Kosovo-Geg**\n**hh:g:Weigand:Albanesische**\n**hh:g:daLecce:Albanese**\n**hh:hdial:Desnitskaya:Albanskij**\n**hh:hvtyp:Orel:Albanian**\n**hh:hvwtyp:Gjinari:Shqipe**\n**hh:s:Camaj:Albanischen**\n**hh:s:Kristoforidi:Albanikes**\n**hh:s:Sanz:Albanes**\n**hh:s:Tagliavini:Ghego**\n**hh:s:deRada:Albanese**\n**hh:td:Tagliavini:Albanese-Dalmazia**\n**hh:typ:Fiedler:Albanische-Gjon-Buzuku**\n**hh:typ:SchumacherMatzinger:Altalbanischen**\n**hh:v:Dedvukaj:Malsia-Madhe**\n**hh:vtyp:Demiraj:Albanian**\n**hh:vtyp:Demiraj:Shqipe**\n**mpieva:Aleksije2003Caucasia**\n**mpieva:Boretzky1975Phonolog**\n**mpieva:Boretzky1976Worterbu**\n**mpieva:Camaj1966Albanisc**\n**mpieva:Jakovska2000EnglishA**\n**mpieva:Jully2002Albanski**\n**mpieva:Jully2003Diealban**\n**mpieva:Koci1951Kratkija**\n**mpieva:Mann1974AnAlbani**\n**mpieva:Orel1998Albanian**\n**mpieva:PaniGheg**\n**mpieva:Ylli1997Dasslawi**\n**mpieva:Ylli2000Dasslawi**"
+  },
+  "altnames": {
+    "multitree": "\nAlbanesisch\nAlbanian\nAlbanian, Gheg\nArber\nArbresh\nArnaut\nGeg\nGheg\nGheg Albanian\nGuegue\nShgip\nShqipēri\nShquipni\nŠkip",
+    "lexvo": "\nAlbanés guego [es]\nDialectul Gheg [ro]\nGegijski jezik [hr]\nGegisch [de]\nGegiska [sv]\nGegë [sq]\nGheg Albanian [en]\nGuègue [fr]\nΓκεγκική διάλεκτος [el]\nГеги [bg]\nГегский диалект албанского языка [ru]\nゲグ方言 [ja]",
+    "hhbib_lgcode": "\nAlbanian of Zadrima\nAlbanian-Gheg\nGegskaja\nGheg\nMalsia Madhe\nNW Gheg\nNortheast Geg Albanian from southern Kosovo\nSüdgegischen"
+  },
+  "triggers": {
+    "lgcode": "\nalbanischen\ngheg\nshqip\nalbanische\nghego\ncasemarking\nepiroticum\ntoskskij\nalbanian"
+  },
+  "identifier": {
+    "wals": "alb",
+    "multitree": "aln"
+  },
+  "classification": {
+    "sub": "**hh:hv:KloekhorstPronk:Indo-Anatolian** **hh:hv:Peyrot:Tocharian**:89-101 **hh:hv:Ringe:Tocharian** **hh:hv:Taylor:Character-Based-Reconstruction**",
+    "subrefs": "\n**hh:hv:Ringe:Tocharian**\n**hh:hv:KloekhorstPronk:Indo-Anatolian**\n**hh:hv:Taylor:Character-Based-Reconstruction**\n**hh:hv:Peyrot:Tocharian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Albanian, Gheg (aln-aln) = 4 (Educational)."
+  }
+}

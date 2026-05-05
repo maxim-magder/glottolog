@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Otoro",
+    "hid": "otr",
+    "level": "language",
+    "iso639-3": "otr",
+    "latitude": "11.1187",
+    "longitude": "30.573",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Otoro](https://endangeredlanguages.com/lang/4937)\n[Otoro](https://grambank.clld.org/languages/otor1240)\n[Otoro](https://wals.info/languoid/lect/wals_code_otr)\nhttps://en.wikipedia.org/wiki/Otoro_language\nhttps://phoible.org/languages/otor1240\nhttps://www.wikidata.org/entity/Q36328"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2590**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:meinhof:16:8**\n**cldf:np:nd:264**\n**cldf:stevenson:57**\n**eballiso2009:4787**\n**hh:g:Stevenson:Otoro**\n**hh:h:Stevenson:Nuba:1962-1964**\n**hh:hb:Dabitz:Nuba**\n**hh:he:Nadel:Nuba**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hv:Bork:SKordofan**\n**hh:hv:Stevenson:Nuba:1975**\n**hh:hvs:Stevenson:Nuba**\n**hh:hvw:Schadeberg:Heiban**\n**hh:hw:Seligmann:Nubas**\n**hh:nt:Otoro**\n**hh:soc:Sudan:Shwai-Otoro**\n**hh:w:Meinhof:Kawama**"
+  },
+  "altnames": {
+    "wals": "\nOtoro",
+    "moseley & asher (1994)": "\nUtoro",
+    "multitree": "\nDhitoro\nKawama\nKawarma\nLitoro\nOtoro\nUtoro",
+    "lexvo": "\nOtoro [en]",
+    "hhbib_lgcode": "\nKawama\nUtoro",
+    "elcat": "\nDhitoro\nKawama\nKawarma\nLitoro\nOtoro\nUtoro"
+  },
+  "triggers": {
+    "lgcode": "\notoro\nkawama"
+  },
+  "identifier": {
+    "wals": "otr",
+    "multitree": "otr",
+    "endangeredlanguages": "4937"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schadeberg:Heiban**",
+    "subrefs": "\n**hh:hvw:Schadeberg:Heiban**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Otoro (4937-otr) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

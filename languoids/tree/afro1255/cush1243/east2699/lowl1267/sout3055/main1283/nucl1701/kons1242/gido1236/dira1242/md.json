@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dirasha",
+    "hid": "gdl",
+    "level": "language",
+    "iso639-3": "gdl",
+    "latitude": "5.60452",
+    "longitude": "37.4026",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56809\nhttps://en.wikipedia.org/wiki/Dirasha_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Black:Gidole**\n**hh:d:Wolde:Dhirayyitta**\n**hh:e:Milkyas:Kusume**\n**hh:e:Minker:Burji-Konso-Dullay**\n**hh:hv:Hayward:Dirayta**\n**hh:hv:Wondwosen:Konsoid**\n**hh:ld:Wondowosen:Diraytata-Case**\n**hh:phon:Sinkineh:Gidole**\n**hh:phon:Wondwosen:Kussummiya**\n**hh:s:Wondwosen:Diraytata**\n**hh:typ:Hailu:Gidole**\n**hh:typ:Tosco:Dirayta-Subject**\n**hh:typ:Wondowosen:Diraytata-Adjectives**\n**hh:w:Moreno:Ghidole-Gowaze**\n**hh:w:Wedekind:Gawwada:II**\n**hh:wsoc:Wedekind:Gawwada:I**\n**sil16:37546**\n**sil16:37548**\n**sil16:50333**"
+  },
+  "altnames": {
+    "multitree": "\nDhirasha\nDiraasha\nDirasha\nDirayta\nGardula\nGardulla\nGhidole\nGidole",
+    "lexvo": "\nDirasha [en]\nKonso hizkuntza [eu]\nKonso language [en]\nLenga Komso [pms]",
+    "hhbib_lgcode": "\nDarasa\nDiraasha\nDirayta\nDiraytata\nGhidole\nGidole\nKussummiya\nKusume"
+  },
+  "triggers": {
+    "lgcode": "\nqale\ngidole\ntsamay\ndiraytata"
+  },
+  "identifier": {
+    "multitree": "gdl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Black:Konsoid:1992** **hh:hv:Wondwosen:Konsoid:2023**",
+    "subrefs": "\n**hh:hv:Black:Konsoid:1992**\n**hh:hv:Wondwosen:Konsoid:2023**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dirasha (gdl-gdl) = 4 (Educational)."
+  }
+}

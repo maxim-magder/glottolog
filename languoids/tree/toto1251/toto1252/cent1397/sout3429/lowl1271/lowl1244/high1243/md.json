@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Highland Totonac",
+    "hid": "tos",
+    "level": "language",
+    "iso639-3": "tos",
+    "latitude": "20.3798",
+    "longitude": "-97.6159",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Highland Totonac](https://grambank.clld.org/languages/high1243)\n[Sierra Totonac](https://endangeredlanguages.com/lang/3519)\n[Totonac (Sierra)](https://wals.info/languoid/lect/wals_code_tos)\nhttps://en.wikipedia.org/wiki/Sierra_Totonac_language\nhttps://www.wikidata.org/entity/Q56451"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2877**\n**cldf:aschmann:73:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:b:Lara:Totonacapan**\n**hh:d:Aschmann:Totonaco**\n**hh:e:Vivanco:Totonacapan**\n**hh:g:McQuown:Totonaca**\n**hh:g:Troiani:Totonaca:2007**\n**hh:g:Troiani:Totonaque**\n**hh:g:Troiani:Totonaque:1988**\n**hh:hv:Moore:Coahuitlan-Totonac**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:phon:Aschmann:Totonaco**\n**hh:phon:McQuown:Fonemica-Totonaco**\n**hh:phon:Tino:Totonaco-Olintla**\n**hh:s:McQuown:Totonac:1940**\n**hh:s:Morales:Totonaco**\n**hh:styp:Juarez:Tuxtla-Puebla**\n**hh:typ:Aschmann:Highland-Totonac**\n**hh:typ:Gaona:Zongozotla**\n**hh:typ:Roman:Totonaco-Ozelonacaxtla**\n**hh:typ:Tino:Olintla**\n**mpieva:Aschmann1973Vocabula**\n**mpieva:Aschmann1977Castella**\n**mpieva:Aschmann1983Castella**\n**mpieva:MacQuown1990Gramatic**\n**sil16:10107**\n**sil16:10108**\n**sil16:10110**\n**sil16:10111**\n**sil16:10112**\n**sil16:10114**\n**sil16:10407**\n**sil16:12694**\n**sil16:30827**"
+  },
+  "altnames": {
+    "wals": "\nTotonac (Sierra)",
+    "ruhlen (1987)": "\nTotonaco",
+    "moseley & asher (1994)": "\nTotonac",
+    "multitree": "\nHighland Totonako\nSanto Domingo Totonac\nSierra Totonac\nTotonac\nTotonac (Sierra)\nTotonac, Highland\nTotonacano de Patla\nTotonacano de Sierra\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonaco de Coyutla\nTotonaco de Filomena Mata-Coahuitlán\nTotonaco de Ozumatlán\nTotonaco de la Sierra\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Patla-Chicontla\nTotonaque de la Sierra",
+    "lexvo": "\nHighland Totonac [en]\nTotonakeg Sierra [br]\nTotonaque de la sierra [fr]",
+    "hhbib_lgcode": "\nCoatepec\nHuehuetla Totonac\nOlintla Totonac (Ol)\nOlintla Totonaco\nOzelonacaxtla Totonac (Oz)\nOzelonacaxtla Totonaco\nSa\nSan Andrés Tlayehualancingo\nSanta Ana Chumatlán Olintla Totonaco\nTotonac-Highland\nTotonaco\nTotonaco de San Andrés Tlayehualancingo\nTotonaco de Tuxtla Puebla\nZM\nZapotitlan de Mendez\nZapotitlán Totonac (Z)\nZapotitlán de Méndez\nZon\nZongonzontla\nZongozotla",
+    "elcat": "\nHighland\nHighland Totonac\nSierra Totonac\nTotonac\nTotonac (Sierra)\nTotonaco\nTotonaco de la Sierra\nTotonako"
+  },
+  "triggers": {
+    "lgcode": "\ntotonaco\ntotonac\ncoatepec"
+  },
+  "identifier": {
+    "wals": "tos",
+    "multitree": "tcw;tlp;tqt;tos;tku;toc",
+    "endangeredlanguages": "3519"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sierra Totonac (3519-tos) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

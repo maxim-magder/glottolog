@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yale",
+    "hid": "nce",
+    "level": "language",
+    "iso639-3": "nce",
+    "latitude": "-3.79762",
+    "longitude": "141.566",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Nagatman](https://wals.info/languoid/lect/wals_code_nag)\n[Yale](https://grambank.clld.org/languages/yale1246)\n[Yalë](https://endangeredlanguages.com/lang/10682)\nhttps://en.wikipedia.org/wiki/Yal%C3%AB_language\nhttps://www.wikidata.org/entity/Q2992915"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hb:SILPNG:1956-1990**\n**hh:he:Fyfe:Upper-Sepik**\n**hh:hld:Lean:Sandaun**\n**hh:hsoc:Graham:BusaNagatman**\n**hh:hv:BassLoving:Amanab**\n**hh:hv:Laycock:Isolates**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Steer:Upper-Sepik**\n**hh:hvw:ConradDye:USepik**\n**hh:s:Aannestad:Yale**\n**hh:s:CampbellCampbell:Yade**\n**hh:typ:CampbellCambell:Yale**\n**hh:w:Laycock:D1**\n**hh:w:Laycock:D32**\n**sil16:19860**\n**sil16:46397**\n**sil16:46398**\n**sil16:46399**\n**silpng:silpng1991-2000:2320**\n**silpng:silpng1991-2000:2321**\n**silpng:silpng1991-2000:2322**\n**silpng:silpng1991-2000:2323**\n**silpng:silpng1991-2000:2324**\n**silpng:silpng1991-2000:2325**\n**silpng:silpng1991-2000:2326**\n**silpng:silpng1991-2000:2327**\n**silpng:silpng1991-2000:2328**\n**silpng:silpng1991-2000:2329**\n**silpng:silpng2001-2003:25**"
+  },
+  "altnames": {
+    "wals": "\nNagatman",
+    "wals other": "\nYade",
+    "ruhlen (1987)": "\nNagatman",
+    "moseley & asher (1994)": "\nNagatman",
+    "multitree": "\nNagatiman\nNagatman\nYade\nYale\nYarÃ«\nYarë",
+    "lexvo": "\nYale [en]\nYaleg [br]\nYalë [fi]\nYalë language [en]",
+    "hhbib_lgcode": "\nNagatman\nNagatman from Tifa village\nNagatman/Yale\nYalë",
+    "elcat": "\nNagatiman\nNagatman\nYade\nYadë\nYale\nYalë\nYare\nYarë"
+  },
+  "triggers": {
+    "lgcode": "\nyade\nimisi\nkulau\nwesibi\nafabo\nkuduju\ngali\ntaitame"
+  },
+  "identifier": {
+    "wals": "genus/yale",
+    "multitree": "nce",
+    "endangeredlanguages": "10682"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Laycock:Isolates**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yalë (10682-nce) = Endangered (20 percent certain, based on the evidence available) [Campbell and Campbell 1987](cldf:campbell:campbell:87)"
+  }
+}

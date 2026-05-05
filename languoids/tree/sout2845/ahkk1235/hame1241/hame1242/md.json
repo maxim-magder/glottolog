@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Hamer-Banna",
+    "hid": "amf",
+    "level": "language",
+    "iso639-3": "amf",
+    "latitude": "5.06515",
+    "longitude": "36.5176",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET",
+      "KE"
+    ],
+    "links": "\n[Hamer](https://wals.info/languoid/lect/wals_code_hmr)\n[Hamer-Bana-Kara](https://endangeredlanguages.com/lang/7969)\n[Hamer-Banna](https://grambank.clld.org/languages/hame1242)\nhttps://en.wikipedia.org/wiki/Hamer_language\nhttps://phoible.org/languages/hame1242\nhttps://www.wikidata.org/entity/Q35764"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bechhaus-gerst:serzisko:ed:88:4**\n**cldf:bechhaus-gerst:serzisko:ed:88:9**\n**cldf:epple:05**\n**cldf:epple:10**\n**cldf:epple:95**\n**cldf:fleming:65**\n**cldf:hieda:91:3**\n**cldf:jensen:ed:59**\n**cldf:lewis:ed:09**\n**cldf:zoll:66**\n**eballiso2009:28705**\n**eballiso2009:28713**\n**eballiso2009:28715**\n**eballiso2009:28716**\n**eballiso2009:31103**\n**eballiso2009:37956**\n**eballiso2009:48666**\n**eballiso2009:51808**\n**eballiso2009:51810**\n**eballiso2009:56423**\n**eballiso2009:6940**\n**eballiso2009:9102**\n**hh:e:Epple:Banna**\n**hh:e:Epple:Bashada**\n**hh:e:Epple:Bashada:2003**\n**hh:e:Epple:Bashada:2010**\n**hh:e:Epple:Bashada:2010:Age-Gender**\n**hh:e:Jensen:Hammar**\n**hh:e:LydallStrecker:Hamer**\n**hh:e:Masuda:Banna**\n**hh:e:Milkyas:Banne**\n**hh:e:Ricci:Amar**\n**hh:ew:Pauli:Splitterstamme**\n**hh:g:Petrollino:Hamar**\n**hh:hv:Bender:Aroid**\n**hh:hv:FlemingLewis:Ari-Banna**\n**hh:hv:Lamberti:Ari-Banna**\n**hh:hvw:Fleming:EAfrica**\n**hh:hvw:Tsuge:SOmotic**\n**hh:hvw:Yigezu:Hamar-Benna**\n**hh:ld:Lydall:Hamar**\n**hh:phon:Mary:Hamer**\n**hh:s:Joswig:Hamer**\n**hh:s:Lydall:Hamer**\n**hh:s:Petrollino:Hamar**\n**hh:typ:Cupi:Hamar**\n**hh:typ:Getahun:Hamer**\n**hh:typ:Lemma:Banna**\n**hh:vtyp:Yigezu:Hamar**\n**hh:w:Takahashi:Hamar**\n**hh:w:daTrento:Etiopia**"
+  },
+  "altnames": {
+    "wals": "\nHamer",
+    "wals other": "\nHamar",
+    "ruhlen (1987)": "\nHamer",
+    "moseley & asher (1994)": "\nHamar",
+    "multitree": "\nAmar\nAmarcocche\nAmer\nAmmar\nBana\nBanna\nBeshada\nCocche\nHamar\nHamar-Koke\nHamer\nHamer-Bana-Kara\nHamer-Banna\nHammer\nHammercoche\nKara Kerre\nKaro",
+    "lexvo": "\nHamer-Banna [de]\nHamer-Banna jezik [hr]\nHamer-Banna language [en]\nLuenga amer-banna [an]",
+    "hhbib_lgcode": "\nAmar\nAmarr Cocche\nAmarr Kokke\nBanna\nBanne\nBashada\nBenna\nHamar\nHamer",
+    "elcat": "\n\"etc.\"\nAmar\nAmarcocche\nAmer\nAmmar\nBana\nBanna\nBeshada\nCocche\nHamar\nHamar-Koke\nHamer\nHamer-Bana-Kara\nHamer-Banna\nHammer\nHammercoche\nKara Kerre"
+  },
+  "triggers": {
+    "lgcode": "\nhammar\nsudathiopien\nlaghi\nshakuyo\nmissionierung\nchristianisierung\nhamer\nhamar\nkultureller\nbashada"
+  },
+  "identifier": {
+    "wals": "hmr",
+    "multitree": "amf",
+    "endangeredlanguages": "7969"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Tsuge:SOmotic**",
+    "subrefs": "\n**hh:hvw:Tsuge:SOmotic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hamer-Bana-Kara (7969-amf) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

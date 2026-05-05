@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Amis",
+    "hid": "ami",
+    "level": "language",
+    "iso639-3": "ami",
+    "latitude": "23.0917",
+    "longitude": "121.348",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Amis](https://grambank.clld.org/languages/amis1246)\n[Amis](https://wals.info/languoid/lect/wals_code_ami)\n[Central Amis](https://lexibank.clld.org/languages/blustaustronesian-centralamis)\nhttps://en.wikipedia.org/wiki/Amis_language\nhttps://www.wikidata.org/entity/Q35132"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alvarez:27**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blundell:ed:00**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:chen:54**\n**cldf:copper:21**\n**cldf:cribb:00**\n**cldf:ding:yuan:etal:05**\n**cldf:er-wei:74**\n**cldf:ferrell:79**\n**cldf:fey:86**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:75**\n**cldf:mabuchi:60**\n**cldf:mabuchi:71**\n**cldf:np:14:5**\n**cldf:ogawa:33**\n**cldf:shiun-wey:03**\n**cldf:wei:61**\n**hh:d:Rata:Amei**\n**hh:d:SingLin:Amis**\n**hh:e:Li:Nanshih-Ami**\n**hh:ew:Fischer:Formosa**\n**hh:g:Wu:Amei:2018**\n**hh:g:Wu:Ami**\n**hh:g:Wu:Amis**\n**hh:hld:Muller:Formosa**\n**hh:hld:Zeitoun:Locative-Formosan**\n**hh:hv:Li:EFormosans**\n**hh:ld:Blust:Amis**\n**hh:phon:MaddiesonWright:Amis**\n**hh:s:HeZeng:Amis**\n**hh:s:Imanishi:Amis**\n**hh:s:Sing:Amis**\n**hh:s:Zeng:Ameisi**\n**hh:t:Sing:Amis-Isop**\n**hh:typ:Bril:Northern-Amis**\n**hh:typ:Bril:Northern-Amis-Nelemwa**\n**hh:typ:Bril:Northern-Amis:Focus**\n**hh:typ:Chen:Amis**\n**hh:typ:Chen:Amis:2010**\n**hh:typ:Chen:Amis:Serial**\n**hh:typ:Chen:Nataoran-Amis**\n**hh:typ:Chen:Nataoran-Amis:1985**\n**hh:typ:Kuo:Symmetrical-Voice**\n**hh:typ:KuoSung:Amis:Comparative**\n**hh:typ:Lin:Kavalan-Amis:Interrogative-Verbs**\n**hh:typ:Liu:Three-Formosan**\n**hh:typ:Sung:Kavalan-Amis**\n**hh:typ:Tsai:Conjunctive-Amis**\n**hh:typ:Tsukida:Amis-Verb**\n**hh:typ:Wei:Amis:Sluicing**\n**hh:typ:Wu:Amis**\n**hh:typ:Wu:Clausal-Amis**\n**hh:typ:Zeitoun:Overview:2006**\n**hh:w:Li:Formosan:2004**\n**sil16:48375**"
+  },
+  "altnames": {
+    "wals": "\nAmis",
+    "wals other": "\nMaran\nSabari",
+    "moseley & asher (1994)": "\nAmi",
+    "multitree": "\nAmi\nAmia\nAmis\nBakurut\nLam-Si-Hoan\nMaran\nPagcah\nPangcah\nPangtsah\nSabari\nSprache von Formosa\nTanah",
+    "lexvo": "\nAmis [en]\nAmis language [en]\nAmisisch [de]\nÂ-mî-ngî [hak]\nАмисский язык [ru]\nアミ語 [ja]\n阿美語 [zh]\n아미어 [ko]",
+    "hhbib_lgcode": "\nAmi vom Marandorfe bei Pilam\nFarang\nFata'an\nNanshih Ami\nNataoran Amis\nNorthern Amis"
+  },
+  "triggers": {
+    "lgcode": "\nameisiyu\nthe AND amis"
+  },
+  "identifier": {
+    "multitree": "ami"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Amis (2030-ami) = Vulnerable"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Turks And Caicos Creole English",
+    "hid": "tch",
+    "level": "language",
+    "iso639-3": "tch",
+    "latitude": "21.8078",
+    "longitude": "-71.7451",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "TC"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7855478\nhttps://en.wikipedia.org/wiki/Turks_and_Caicos_Creole"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ssoc:Cutler:Turks-Caicos**"
+  },
+  "triggers": {
+    "lgcode": "\ncaicos"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Turks and Caicos English Creole (tch-tch) = 6b (Threatened). De facto language of national identity."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Middle Low German",
+    "hid": "gml",
+    "level": "language",
+    "iso639-3": "gml",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q505674\nhttps://en.wikipedia.org/wiki/Middle_Low_German",
+    "longitude": "9.67",
+    "latitude": "53.14",
+    "timespan": "1200-01-01/1500-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Lasch:Mittelniederdeutsche**\n**hh:st:Lubben:Mittelniederdeutsche**\n**iso6393:2006-063**"
+  },
+  "altnames": {
+    "multitree": "\nMiddle Low German\nMiddle Saxon\nMittelniederdeutsch",
+    "lexvo": "\nMiddle Low German [en]"
+  },
+  "triggers": {
+    "lgcode": "\nmittelniederdeutsche"
+  },
+  "identifier": {
+    "multitree": "gml"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stiles:West-Germanic**:17-23 **hh:hv:Harbert:Germanic**:7-9",
+    "subrefs": "\n**hh:hv:Stiles:West-Germanic**\n**hh:hv:Harbert:Germanic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Middle Low German (gml-gml) = 10 (Extinct)."
+  }
+}

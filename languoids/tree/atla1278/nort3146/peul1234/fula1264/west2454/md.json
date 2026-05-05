@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Western Niger Fulfulde",
+    "hid": "fuh",
+    "level": "language",
+    "iso639-3": "fuh",
+    "latitude": "14.2471",
+    "longitude": "-0.52004",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "BJ",
+      "ML",
+      "NE",
+      "NG"
+    ],
+    "links": "\n[Fula (Burkina Faso)](https://wals.info/languoid/lect/wals_code_fbf)\nhttps://en.wikipedia.org/wiki/Western_Niger_Fulfulde\nhttps://phoible.org/languages/west2454\nhttps://www.wikidata.org/entity/Q12952430"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:delmond:53**\n**cldf:seydou:90**\n**eballiso2009:32291**\n**eballiso2009:3993**\n**hh:d:Bautista:Fulfulde**\n**hh:d:Cremer:Peul-Haute-Volta**\n**hh:d:Sow:Fulfulde**\n**hh:g:BidaudProst:Peule**\n**hh:g:PeaceCorps:Fulfulde**\n**hh:g:Sow:Gaawoore**\n**hh:h:Harrison:Fulfulde**\n**hh:ld:Gottschligg:Fula-Northern-Benin**\n**hh:phontyp:Alkali:Sokoto-Fula**\n**hh:sd:Westermann:Ful**\n**hh:soc:Harrisonetal:Fulfulde-Niger**\n**hh:vtyp:Lang:Fulfulde**\n**mpieva:Breedveld1995Formandm**"
+  },
+  "altnames": {
+    "wals": "\nFul (Liptako)\nFula (Burkina Faso)",
+    "wals other": "\nFulfulde (Burkina Faso)\nLiptaako-Dori Fula\nLiptako Ful",
+    "ruhlen (1987)": "\nFul (Liptako)\nFul(ani)",
+    "moseley & asher (1994)": "\nFula",
+    "multitree": "\nFula\nFula (Burkina Faso)\nFulah-Idiome\nFulani\nFulbe\nFulfulde\nFulfulde (Northeastern Burkina Faso)\nFulfulde, Western Niger\nGorgal\nNortheastern Burkina Faso Fulfulde\nPeul\nPeulh\nWestern Niger Fulfulde",
+    "lexvo": "\nWestern Niger Fulfulde [en]",
+    "hhbib_lgcode": "\nBurkina Faso Fulfulde\nFulfulde-Western Niger\nLiptaakore\nNiger West\nSokkoto\nSokoto\nVarious but including Westermann's Sokoto"
+  },
+  "triggers": {
+    "lgcode": "\ntrainees\ndori\ngaawoobe\nzentralsudanische\nliptako\npeulh\nbarain\nmaasinankoore\ngaawoore"
+  },
+  "identifier": {
+    "wals": "fbf;fli",
+    "multitree": "fuh"
+  },
+  "classification": {
+    "sub": "**hh:g:Breedveld:Maasinankore**:6-13",
+    "subrefs": "\n**hh:g:Breedveld:Maasinankore**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fulfulde, Western Niger (fuh-fuh) = 5 (Developing). Recognized language (1999, Constitution, Article 3)."
+  }
+}

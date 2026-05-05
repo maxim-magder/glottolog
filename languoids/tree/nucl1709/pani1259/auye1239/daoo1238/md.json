@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Dao",
+    "hid": "daz",
+    "level": "language",
+    "iso639-3": "daz",
+    "latitude": "-3.28643",
+    "longitude": "136.421",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Dao](https://endangeredlanguages.com/lang/4066)\nhttps://en.wikipedia.org/wiki/Moi-Wadea_language\nhttps://www.wikidata.org/entity/Q5221513"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:h:Ethnologue:16**\n**hh:h:Ethnologue:17**\n**iso6393:2023-005**\n**langsci:lewis:simons:etal:ed:09**"
+  },
+  "altnames": {
+    "multitree": "\n\"X-Ray\"\nDao\nManiwo",
+    "lexvo": "\nDao [en]",
+    "elcat": "\n\"X-Ray\"\nDao\nManiwo"
+  },
+  "identifier": {
+    "multitree": "daz",
+    "endangeredlanguages": "4066"
+  },
+  "classification": {
+    "sub": "**hh:s:Moxness:Auye**:6-7 **hh:hv:Tebay:Paniai**",
+    "subrefs": "\n**hh:hv:Tebay:Paniai**\n**hh:s:Moxness:Auye**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dao (4066-daz) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

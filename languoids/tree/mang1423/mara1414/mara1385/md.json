@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Marra",
+    "hid": "mec",
+    "level": "language",
+    "iso639-3": "mec",
+    "latitude": "-14.7927",
+    "longitude": "134.865",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Mara](https://wals.info/languoid/lect/wals_code_mra)\n[Marra](https://endangeredlanguages.com/lang/1915)\n[Marra](https://grambank.clld.org/languages/mara1385)\nhttps://en.wikipedia.org/wiki/Marra_language\nhttps://phoible.org/languages/mara1385\nhttps://www.wikidata.org/entity/Q6772774"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2908**\n**cldf:bowern:11:1**\n**cldf:dickson:10**\n**cldf:dixon:02:1**\n**cldf:fabricius:98**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:d:Singer:Marra**\n**hh:ew:Spencer:NTerritory**\n**hh:gtd:Heath:Mara**\n**hh:he:SpencerGillen:NCAustralia**\n**hh:hv:Capell:Arnhem**\n**hh:hv:Evans:Macassan-Top-End**\n**hh:hw:Ray:Australia**\n**hh:ld:Baker:Yukul**\n**hh:vsoctyp:Dickson:Marra-Kriol**\n**hh:w:Capell:Forty-North-Australian**\n**hh:w:Lowre:Roper-River**\n**iso6393:2018-040**\n**ozbib:2329**\n**ozbib:2598**\n**ozbib:2708**\n**ozbib:2723**\n**ozbib:2724**\n**ozbib:2740**\n**ozbib:319**\n**ozbib:4037**\n**ozbib:4050**\n**ozbib:4245**\n**ozbib:480**\n**ozbib:5202**\n**ozbib:5327**\n**ozbib:5328**\n**ozbib:5330**\n**ozbib:5400**\n**ozbib:5701**\n**ozbib:6348**\n**ozbib:7275**\n**ozbib:7278**"
+  },
+  "altnames": {
+    "wals": "\nMara",
+    "ruhlen (1987)": "\nMara",
+    "moseley & asher (1994)": "\nMara",
+    "multitree": "\nLeelalwarra\nLeelawarra\nMaarra\nMala\nMara\nMarra",
+    "lexvo": "\nMara [sk]",
+    "hhbib_lgcode": "\n25 Mara\nMara\nMarra\nRoper River\nYugul\nYukul\nlinguistically similar enough to Mara",
+    "elcat": "\nLeelalwarra\nLeelawarra\nMaarra\nMala\nMara\nMarra"
+  },
+  "triggers": {
+    "lgcode": "\ntexts AND mara\nyukul"
+  },
+  "identifier": {
+    "wals": "mra",
+    "multitree": "mec",
+    "endangeredlanguages": "1915"
+  },
+  "classification": {
+    "sub": "**hh:hv:Harvey:Warndarrang-Marra**",
+    "subrefs": "\n**hh:hv:Harvey:Warndarrang-Marra**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Marra (1915-mec) = Critically Endangered (60 percent certain, based on the evidence available) [Dickson 2010](cldf:dickson:10)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Marka",
+    "hid": "rkm",
+    "level": "language",
+    "iso639-3": "rkm",
+    "latitude": "12.7178",
+    "longitude": "-3.58355",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "ML"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36030\nhttps://en.wikipedia.org/wiki/Marka_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2580**\n**eballiso2009:19301**\n**eballiso2009:41553**\n**hh:d:Traore:Dafing**\n**hh:g:Diallo:Marka-Kan**\n**hh:g:Traore:Dafing**\n**hh:hb:Sullivan:Manding**\n**hh:he:Tauxier:Noir-Soudan**\n**hh:hvw:Vydrine:Mande**\n**hh:phon:Ouonni:Marakakan**\n**hh:phon:Zie:Maraka-Zaba**\n**hh:s:Prost:Marka**\n**hh:typ:Siebecke:Samo**\n**hh:v:Diallo:Marka**\n**sil16:42055**"
+  },
+  "altnames": {
+    "multitree": "\nDafing\nMarka\nMarka Dafing\nMarka-Dafin\nMeka",
+    "lexvo": "\nMarka [en]\nMarka language [en]",
+    "hhbib_lgcode": "\nDafing\nDafis et Markas\nMarka [rkm]\nMarka/Dafing"
+  },
+  "triggers": {
+    "lgcode": "\nNOT the AND NOT des AND NOT na AND NOT y AND marka\nmarakakan\nmarka\nzaba\ndafing\nguin"
+  },
+  "identifier": {
+    "multitree": "rkm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Galtier:Mandingues**",
+    "subrefs": "\n**hh:hv:Galtier:Mandingues**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marka (rkm-rkm) = 6a (Vigorous)."
+  }
+}

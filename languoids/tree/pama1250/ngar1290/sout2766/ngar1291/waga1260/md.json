@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Wagaya",
+    "hid": "wga",
+    "level": "language",
+    "iso639-3": "wga",
+    "latitude": "-20.329",
+    "longitude": "137.623",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Wagaya](https://grambank.clld.org/languages/waga1260)\n[Wakaya](https://collection.aiatsis.gov.au/austlang/language/c16)\n[Wakaya](https://endangeredlanguages.com/lang/3355)\n[Wakaya](https://lexibank.clld.org/languages/bowernpny-Wakaya)\nhttps://en.wikipedia.org/wiki/Wagaya_language\nhttps://phoible.org/languages/waga1260\nhttps://www.wikidata.org/entity/Q7959487",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:g:Breen:Wakaya**\n**hh:h:Roth:Nomenclature**\n**hh:hbw:MenningNash:Central-Australian**\n**hh:hv:Brammall:Warluwaric**\n**hh:hv:Breen:Ngarna**\n**hh:hv:Carew:Warluwarric**\n**hh:hvw:Breen:Western-Queensland:1971**\n**mpieva:Breed19741985Wakayavo**\n**mpieva:Breen19741985Phonolog**\n**mpieva:Breen19741985Wakayagr**\n**ozbib:1085**\n**ozbib:1155**\n**ozbib:231**\n**ozbib:237**\n**ozbib:3725**\n**ozbib:4904**\n**ozbib:4910**\n**ozbib:5400**\n**ozbib:6532**\n**ozbib:747**\n**ozbib:763**\n**ozbib:771**\n**ozbib:772**\n**ozbib:787**"
+  },
+  "altnames": {
+    "multitree": "\nAkaja\nArkiya\nLee-wakya\nLeewakya\nLeeweakya\nUkkia\nWaagai\nWaagi\nWagai\nWagaiau\nWagaja\nWagaya\nWaggaia\nWakaja\nWakaya\nWakkaja\nWarkaia\nWarkya\nWogaia\nWoorkia\nWorgai\nWorgaia\nWorkaia\nWorkia\nWorkii",
+    "lexvo": "\nWagaya [en]",
+    "hhbib_lgcode": "\nWagaja\nWakaya (Eastern/Western)",
+    "elcat": "\nAkaja\nArkiya\nLee-wakya\nLeewakya\nLeeweakya\nUkkia\nWaagai\nWaagi\nWagai\nWagaiau\nWagaja\nWagaya\nWaggaia\nWakaja\nWakaya\nWakkaja\nWarkaia\nWarkya\nWogaia\nWoorkia\nWorgai\nWorgaia\nWorkaia\nWorkia\nWorkii",
+    "aiatsis": "\nAkaja\nArkiya\nLee wakya\nLeewakya\nOther Australian Indigenous Languages\nUkkia\nWaagai\nWaagi\nWagai\nWagaia\nWagaiau\nWagaja\nWagaya\nWaggaia\nWakaja\nWakaya\nWakkaja\nWarkaia\nWarkya\nWogaia\nWoorkia\nWorgai\nWorgaia\nWorkaia\nWorki a\nWorkia\nWorkii\nWorrkii\nWuga"
+  },
+  "triggers": {
+    "lgcode": "\nwakaya"
+  },
+  "identifier": {
+    "multitree": "wga",
+    "endangeredlanguages": "3355"
+  },
+  "classification": {
+    "sub": "**hh:hv:Breen:Ngarna** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:Breen:Ngarna**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wagaya (wga-wga) = 10 (Extinct)."
+  }
+}

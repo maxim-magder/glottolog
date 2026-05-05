@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Basay",
+    "hid": "byq",
+    "level": "language",
+    "iso639-3": "byq",
+    "latitude": "25.0046",
+    "longitude": "121.857",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Basay](https://grambank.clld.org/languages/basa1287)\nhttps://en.wikipedia.org/wiki/Basay_language\nhttps://www.wikidata.org/entity/Q716647",
+    "timespan": "1915-01-01/1915-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tsuchida:yamada:etal:ed:91**\n**hh:hv:Li:EFormosans**\n**hh:ld:Li:Extinct-Formosan**\n**hh:s:Li:Basay**\n**hh:vw:Tsuchida:Kulon**\n**hh:w:Moriguchi:Basai**"
+  },
+  "altnames": {
+    "multitree": "\nBasai\nBasay\nKawanuwan\nSprache von Formosa",
+    "lexvo": "\nBasay [en]\nBasay language [en]\nBasayeg [br]\nLingua Basay [it]\nภาษาบาซาย [th]",
+    "hhbib_lgcode": "\nBasai"
+  },
+  "triggers": {
+    "lgcode": "\nasais\nbasai\nbasay"
+  },
+  "identifier": {
+    "multitree": "byq"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Basay (2048-byq) = Extinct"
+  }
+}

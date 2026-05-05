@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mawak",
+    "hid": "mjj",
+    "level": "language",
+    "iso639-3": "mjj",
+    "latitude": "-4.61817",
+    "longitude": "145.283",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mawak](https://endangeredlanguages.com/lang/2270)\n[Mawak](https://lexibank.clld.org/languages/transnewguineaorg-mawak)\n[mawak](https://lexibank.clld.org/languages/zgraggenmadang-mawak)\nhttps://en.wikipedia.org/wiki/Mawak_language\nhttps://www.wikidata.org/entity/Q11732427"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1450**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:hb:Zgraggen:Madang**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:Pick:Northern-Adelbert**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:NAdelbert**"
+  },
+  "altnames": {
+    "multitree": "\nMawak",
+    "lexvo": "\nMawak [en]",
+    "elcat": "\nMawak"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "identifier": {
+    "multitree": "mjj",
+    "endangeredlanguages": "2270"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Pick:Northern-Adelbert**:188-194",
+    "subrefs": "\n**hh:hvld:Pick:Northern-Adelbert**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mawak (2270-mjj) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

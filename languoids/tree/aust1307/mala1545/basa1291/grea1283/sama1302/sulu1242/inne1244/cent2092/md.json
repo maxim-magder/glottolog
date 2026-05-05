@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Central Sama",
+    "hid": "sml",
+    "level": "language",
+    "iso639-3": "sml",
+    "latitude": "7.004574",
+    "longitude": "118.455978",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://phoible.org/languages/cent2092\nhttps://www.wikidata.org/entity/Q3470593"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4987**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:nimmo:65**\n**cldf:nimmo:90:1**\n**cldf:nimmo:90:2**\n**cldf:np:12:13**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**cldf:sather:93**\n**cldf:sather:97**\n**hh:d:Bartter:Samal**\n**hh:hvw:Pallesen:Convergence**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:s:Drake:Sinama**\n**hh:sd:Pallesen:Central-Sinama**\n**hh:styp:James:Central-Sinama**\n**hh:typ:James:Central-Sinama**\n**hh:vtyp:Mirafuentes:Sinama-Bajau**\n**sil16:11882**\n**sil16:14870**\n**sil16:14871**\n**sil16:14872**\n**sil16:14873**\n**sil16:14874**\n**sil16:14875**\n**sil16:14876**\n**sil16:16281**\n**sil16:16283**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Sinama\nSama, Central\nSamal\nSiasi Sama\nSinama",
+    "lexvo": "\nCentral Sama [en]",
+    "hhbib_lgcode": "\nCentral Sinama\nSama Dilaut\nSama-Central\nSamal (Sml.)"
+  },
+  "triggers": {
+    "lgcode": "\nondeonde\ndilaut\nhellingta\nsamal\ntawi\nmagosaha\ntllu\ntinandog\npanganaran\ntohongan\ndakayu\nsinama"
+  },
+  "identifier": {
+    "multitree": "sml"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Pallesen:Convergence**",
+    "subrefs": "\n**hh:hvw:Pallesen:Convergence**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sama, Central (sml-sml) = 5 (Developing)."
+  }
+}

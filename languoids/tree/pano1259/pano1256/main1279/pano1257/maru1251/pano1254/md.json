@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Panoan Katukína",
+    "hid": "knt",
+    "level": "language",
+    "iso639-3": "knt",
+    "latitude": "-7.97456",
+    "longitude": "-71.56151",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Katukina do Acre](https://endangeredlanguages.com/lang/3102)\n[Panoan Katukína](https://grambank.clld.org/languages/pano1254)\n[Panoan Katukína](https://lexibank.clld.org/languages/johanssonsoundsymbolic-PanoanKatukina)\nhttps://en.wikipedia.org/wiki/Waninawa_language\nhttps://phoible.org/languages/pano1254\nhttps://www.wikidata.org/entity/Q3194265"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2460**\n**asjp2010:3816**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:dalinguaararapanodoacre:93**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:e:Batista:Katukina**\n**hh:e:Tastevin:Katukina-Pano**\n**hh:g:Aguiar:Katukina**\n**hh:h:Aguiar:Katukina**\n**hh:hsoc:deAguiar:Panoan**\n**hh:hv:deAguiar:Pano**\n**hh:hvb:Fleck:Panoan**\n**hh:hvw:RivetTastevin:Pano**\n**hh:hwsoc:deAguiar:Katukina**\n**hh:phon:Barros:Katukina**\n**hh:s:Aguiar:Katukina**\n**hh:typ:Falchi:Noke-Koi**\n**hh:vw:Rivet:Katukina**\n**hh:w:Chandless:Purus**"
+  },
+  "altnames": {
+    "glottolog": "\nPanoan Katukina",
+    "multitree": "\nArara-shawanawa\nCatuquina\nCatuquina del Acre\nKamanawa\nKamannaua\nKatukina\nKatukina de l'Acre\nKatukina do Juruá\nKatukína, Panoan\nWaninnawa\nWanninawa",
+    "lexvo": "\nPanoan Katukína [en]",
+    "hhbib_lgcode": "\nCanawary (Pano)\nKatukina\nKatukina Pano\nKatukina du Gregorio\nKatukina-Pano\nKatukina-Seringal-Campinas\nNoke Koi\nPanoan Katukina\nlikely Panoan Katukina",
+    "elcat": "\nCatuquina\nKamanawa\nKamannaua\nKatukina\nKatukina do Acre\nKatukina do Juruá\nKatukína\nPanoan\nWanninawa"
+  },
+  "triggers": {
+    "lgcode": "\namawaka\nteorica\nintrodutoria\nvocalica"
+  },
+  "identifier": {
+    "multitree": "knt",
+    "endangeredlanguages": "3102"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Katukina do Acre (3102-knt) = Endangered (20 percent certain, based on the evidence available) [Crevels 2007](cldf:crevels:07)"
+  }
+}

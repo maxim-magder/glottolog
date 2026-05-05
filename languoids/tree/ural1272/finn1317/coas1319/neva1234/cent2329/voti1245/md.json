@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Votic",
+    "hid": "vot",
+    "level": "language",
+    "iso639-3": "vot",
+    "latitude": "59.3802",
+    "longitude": "28.6235",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Votic](https://endangeredlanguages.com/lang/2993)\n[Votic](https://grambank.clld.org/languages/voti1245)\n[Votic](https://wals.info/languoid/lect/wals_code_vot)\nhttps://en.wikipedia.org/wiki/Votic_language\nhttps://phoible.org/languages/voti1245\nhttps://www.wikidata.org/entity/Q32858"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ariste:97**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:jazykov:40**\n**cldf:keppen:51**\n**cldf:konkova:96**\n**cldf:kuznetsova:markus:etal:15**\n**cldf:laanest:82**\n**cldf:lewis:ed:09**\n**cldf:markus:rozhanskiy:13**\n**cldf:np:nd:264**\n**cldf:sedov:87**\n**cldf:semenov:ed:00:2**\n**cldf:shlygina:98:2**\n**cldf:sjogren:33**\n**cldf:tolstov:ed:64**\n**cldf:uspenskij:45**\n**hh:d:Posti:Kukkosin**\n**hh:d:Tsvetkov:Vatjan**\n**hh:evw:Wiedemann:Kreewinen**\n**hh:g:Agranat:Zapadnyj-Vodskij**\n**hh:g:Ahlqvist:Wotisk**\n**hh:g:Winkler:Krewinisch**\n**hh:gd:MarkusRozanskij:Vodskij**\n**hh:s:Ariste:Vadja**\n**hh:s:Ariste:Votic**\n**hh:s:Laanest:Vodskij**\n**hh:s:Lensu:Vodi**\n**hh:s:Markus:Votic**\n**hh:s:Tsvetkov:Vadja**\n**hh:typ:Markus:Vodskogo**\n**hh:typ:Nikolaeva:Vodskij**\n**hh:vld:Videman:Krevinov**\n**mpieva:Adler19901996VadjaKee**\n**mpieva:Ariste1997Agrammar**\n**mpieva:Kettunen1932Naytteit**\n**mpieva:Laakso1989VatjanKa**\n**mpieva:Lauerma1993Vatjanvo**\n**mpieva:Magiste1959Wotenerz**\n**mpieva:Posti1980Vatjanki**\n**mpieva:Wichmann1915ZurGesch**"
+  },
+  "altnames": {
+    "wals": "\nVotic",
+    "moseley & asher (1994)": "\nVotic",
+    "multitree": "\nMaaceeli\nVadjdjaa\nVod\nVodian\nVot\nVote\nVotian\nVotiano\nVotic\nVotic Proper\nVotisch\nVotish\nWotisch\nvad'd'alaize-\nvadja\nvadjan keel\nvatjan kieli\nvod'\nvodskij jazyk\nvote\nčudy",
+    "lexvo": "\nJęzyk wotycki [pl]\nLingua votica [it]\nVad'a kiil [vro]\nVadja keel [et]\nVatja [fi]\nVatjagiella [se]\nVodų kalba [lt]\nVota lingvo [eo]\nVote [fr]\nVoteg [br]\nVotic [en]\nVotic language [en]\nVotish [gv]\nVotisk [no]\nVotisk språk [nn]\nVotiska [sv]\nVotu valoda [lv]\nVòtic [ca]\nVót nyelv [hu]\nWoties [af]\nWotisch [nl]\nWotische Sprache [de]\nvote [fr]\nВодский язык [ru]\nВодська мова [uk]\nВодь кель [myv]\nВодь кыв [kv]\nВотикийн мотт [ce]\nВотски език [bg]\nוודית [he]\n바트어 [ko]",
+    "hhbib_lgcode": "\nKreewinen\nKrevin\nKrewinisch\nKukkosi\nVatjan",
+    "elcat": "\nVod\nVodian\nVot\nVote\nVotian\nVotic\nVotisch\nVotish\nWotisch\nmaa tšeeli\nmaaceeli\nvad'd'alaizet\nvadjan keel\nvadjdjaa\nvatjan kieli\nvaďďaa tšeeli\nvađđa\nvod'\nvodskij jazyk\nčudy\nводский язык"
+  },
+  "triggers": {
+    "lgcode": "\nwotisk\njemte\nsprakprof\nwotjakischen\nvotic\nordforteckning\nvatjan"
+  },
+  "identifier": {
+    "wals": "vot",
+    "multitree": "vot",
+    "endangeredlanguages": "2993"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kallio:Proto-Finnic**",
+    "subrefs": "\n**hh:hv:Kallio:Proto-Finnic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Votic (2993-vot) = Critically Endangered (80 percent certain, based on the evidence available) (Both Ingrian and Votic populations have decreased drastically from the second half of the 20th-century onwards... In less than a hundred years, the number of Votes decreased almost tenfold while the number of Ingrians did not change significantly.) [Markus and Rozhanskiy 2013](cldf:markus:rozhanskiy:13)"
+  }
+}

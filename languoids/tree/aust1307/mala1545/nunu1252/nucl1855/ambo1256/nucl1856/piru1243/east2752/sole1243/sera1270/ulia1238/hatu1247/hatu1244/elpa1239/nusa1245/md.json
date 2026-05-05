@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Nusa Laut",
+    "hid": "nul",
+    "level": "language",
+    "iso639-3": "nul",
+    "latitude": "-3.67727",
+    "longitude": "128.776",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Nusa Laut](https://endangeredlanguages.com/lang/4902)\nhttps://www.wikidata.org/entity/Q7070332\nhttps://en.wikipedia.org/wiki/Nusa_Laut_language",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2303**\n**asjp2010:4041**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hew:Ludeking:Amboina**\n**hh:hv:Kotynski:Lease**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hvw:Collins:CMaluku**\n**hh:hw:vanHoevell:Ambonsche**\n**hh:w:Stokhofetal:Holle:3:4**"
+  },
+  "altnames": {
+    "multitree": "\nNusa Laut\nNusa laut\nNusalaut",
+    "lexvo": "\nNusa Laut [en]",
+    "hhbib_lgcode": "\nNalahia Nusa Laut\nNoesa Laut\nNoesalaoet\nNusalaut\nTitawai",
+    "elcat": "\nNusa Laut\nNusalaut"
+  },
+  "triggers": {
+    "lgcode": "\nNOT south AND vol AND NOT central AND holle"
+  },
+  "identifier": {
+    "multitree": "nul",
+    "endangeredlanguages": "4902"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nusa Laut (nul-nul) = 9 (Dormant)."
+  }
+}

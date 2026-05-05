@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gurmana",
+    "hid": "gvm",
+    "level": "language",
+    "iso639-3": "gvm",
+    "latitude": "10.1487",
+    "longitude": "6.79456",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Gurmana](https://endangeredlanguages.com/lang/4249)\nhttps://www.wikidata.org/entity/Q3913363\nhttps://en.wikipedia.org/wiki/Gurmana_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:ed:10**\n**cldf:johnston:19:33**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvw:Blench:WKainji**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Rowlands:NNigeria**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nGura\nGurmana",
+    "lexvo": "\nGurmana [en]",
+    "elcat": "\nGurmana"
+  },
+  "triggers": {
+    "lgcode": "\nnotes AND class"
+  },
+  "identifier": {
+    "multitree": "gvm",
+    "endangeredlanguages": "4249"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gurmana (4249-gvm) = Threatened (20 percent certain, based on the evidence available) [Blench 2011](cldf:blench:11:1)"
+  }
+}

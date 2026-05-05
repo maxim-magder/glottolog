@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pahi",
+    "hid": "lgt",
+    "level": "language",
+    "iso639-3": "lgt",
+    "latitude": "-3.79935",
+    "longitude": "142.299",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Pahi](https://endangeredlanguages.com/lang/10595)\nhttps://www.wikidata.org/entity/Q7124545\nhttps://en.wikipedia.org/wiki/Pahi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:hutchinson:nd**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hsoc:Hutchinson:Heyoetc**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:w:Laycock:C9**"
+  },
+  "altnames": {
+    "multitree": "\nLugitama\nPahi\nRiahoma\nRiahorna\nWansum",
+    "lexvo": "\nPahi [en]",
+    "elcat": "\nLugitama\nPahi\nRiahoma\nWansum"
+  },
+  "triggers": {
+    "lgcode": "\nheyo"
+  },
+  "identifier": {
+    "multitree": "lgt",
+    "endangeredlanguages": "10595"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:Hutchinson:Heyoetc**:128, 130 **hh:hvw:Laycock:Lumi**:48",
+    "subrefs": "\n**hh:hsoc:Hutchinson:Heyoetc**\n**hh:hvw:Laycock:Lumi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pahi (10595-lgt) = Endangered (20 percent certain, based on the evidence available) [Hutchinson n.d.](cldf:hutchinson:nd)"
+  }
+}

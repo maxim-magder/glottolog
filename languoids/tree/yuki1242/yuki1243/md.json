@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Northern Yukian",
+    "hid": "yuk",
+    "level": "language",
+    "iso639-3": "yuk",
+    "latitude": "39.8389",
+    "longitude": "-123.296",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Northern Yukian](https://grambank.clld.org/languages/yuki1243)\n[Yuki](https://wals.info/languoid/lect/wals_code_yki)\nhttps://en.wikipedia.org/wiki/Northern_Yukian_language\nhttps://phoible.org/languages/yuki1243\nhttps://www.wikidata.org/entity/Q36993",
+    "timespan": "1990-01-01/1990-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baumhoff:63**\n**cldf:cook:56**\n**cldf:driver:39**\n**cldf:elmendorf:81**\n**cldf:elmendorf:93**\n**cldf:essene:42**\n**cldf:foster:44**\n**cldf:gifford:22**\n**cldf:gifford:26:1**\n**cldf:gifford:39**\n**cldf:loeb:32**\n**hh:d:SawyerSchlichter:Yuki**\n**hh:e:Miller:Yuki**\n**hh:gt:Balodis:Yuki**\n**hh:gt:Balodis:Yuki:2016**\n**hh:hs:Kroeber:NCoast**\n**hh:hv:Kroeber:California**\n**hh:hv:Kroeber:YokutsYuki**\n**hh:hv:Sawyer:Wappo-Yuki**\n**hh:hv:Schlichter:Yukian**\n**hh:hvw:Powell:California**\n**hh:w:Gibbs:Yuba-Yukeh**"
+  },
+  "altnames": {
+    "wals": "\nYuki",
+    "ruhlen (1987)": "\nYuki",
+    "moseley & asher (1994)": "\nYuki",
+    "lexvo": "\nYoukieg [br]\nYuki [de]\nYuki language [en]\n尤基語 [zh]",
+    "hhbib_lgcode": "\nHuchnom\nTribe at Knight's Farm\nYuke\nYukeh\nYuki\nYukian",
+    "glottolog": "\nYuki"
+  },
+  "triggers": {
+    "lgcode": "\nhuchnom\nNOT los AND NOT de AND yuki"
+  },
+  "identifier": {
+    "wals": "yki"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Yuki (849-yuk) = Extinct"
+  }
+}

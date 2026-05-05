@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ndaka",
+    "hid": "ndk",
+    "level": "language",
+    "iso639-3": "ndk",
+    "latitude": "1.53341",
+    "longitude": "27.9693",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11164947\nhttps://en.wikipedia.org/wiki/Ndaka_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:29038**\n**hh:h:Rommes:Stanleyville**\n**hh:hb:Moiso:Haut-Zaire**\n**hh:he:Gusinde:Ituri**\n**hh:hew:Harvey:Bali**\n**hh:hew:vanGeluwe:Bali**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Vorbichler:Bira**\n**hh:soc:deWit:Ndaka-Mbo-Beeke**\n**hh:vtyp:Rasmussen:Bantu-D30**\n**hh:w:deWit:Bira-Huku**\n**sil16:51396**"
+  },
+  "altnames": {
+    "multitree": "\nIndaaka\nNdaaka\nNdaka",
+    "lexvo": "\nNdaka [en]",
+    "hhbib_lgcode": "\nBombo Ndaka\nD333_Ndaaka\nIndaka\nNdaaka"
+  },
+  "triggers": {
+    "lgcode": "\nbeeke"
+  },
+  "identifier": {
+    "multitree": "ndk"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Rasmussen:Bantu-D30**:159-172 **hh:soc:deWit:Ndaka-Mbo-Beeke**",
+    "subrefs": "\n**hh:vtyp:Rasmussen:Bantu-D30**\n**hh:soc:deWit:Ndaka-Mbo-Beeke**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndaka (ndk-ndk) = 6a (Vigorous)."
+  }
+}

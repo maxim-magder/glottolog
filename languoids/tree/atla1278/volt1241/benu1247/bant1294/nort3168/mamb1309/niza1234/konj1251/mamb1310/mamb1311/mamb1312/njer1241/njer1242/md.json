@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Njerep",
+    "hid": "njr",
+    "level": "language",
+    "iso639-3": "njr",
+    "latitude": "6.82183",
+    "longitude": "11.521",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Njerep](https://endangeredlanguages.com/lang/533)\nhttps://www.wikidata.org/entity/Q35844\nhttps://en.wikipedia.org/wiki/Njerep_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:austin:08:1**\n**cldf:connell:07:1**\n**cldf:dimmendaal:voeltz:07**\n**hh:el:Connell:Nigeria-Cameroon**\n**hh:h:Zeitlyn:Mambila-Njerep**\n**hh:hv:Blench:Mambiloid**\n**hh:hv:Connell:Mambiloid**\n**hh:s:ConnellZeitlyn:Njerep**"
+  },
+  "altnames": {
+    "multitree": "\nNjerep\nNjerup",
+    "lexvo": "\nNjerep [en]",
+    "hhbib_lgcode": "\nNjerup",
+    "elcat": "\nNjerep\nNjerup"
+  },
+  "triggers": {
+    "lgcode": "\nnjerep\npostcard"
+  },
+  "identifier": {
+    "multitree": "njr",
+    "endangeredlanguages": "533"
+  },
+  "classification": {
+    "sub": "**hh:s:ConnellZeitlyn:Njerep**",
+    "subrefs": "\n**hh:s:ConnellZeitlyn:Njerep**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Njerep (533-njr) = Critically Endangered (60 percent certain, based on the evidence available) (Youngest speaker aged about 60) [Connell 2007](cldf:connell:07:1)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "South Wemale",
+    "hid": "tlw",
+    "level": "language",
+    "iso639-3": "tlw",
+    "latitude": "-3.29102",
+    "longitude": "128.547",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953299"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2011-083**"
+  },
+  "altnames": {
+    "multitree": "\nHonitetu\nTala\nWemale, South",
+    "lexvo": "\nSouth Wemale [en]"
+  },
+  "iso_retirement": {
+    "comment": "Taguchi, who originally stated that they are differen langauges, recently sent\nme an e-mail stating the following \"My survey report in 1996-7 concluded that\nthe North and South Wemale should be identified as two different languages.\nHowever, after many years of interactions of Wemale community people I learned\nand can now conclude that they can communicate with each other without\ndifficulty. So now we may want to say that Wemale have at least two main\ndialects: North and South Dialects.\"\n\nI recently returned from a survey of North Wemale and they said that they have\nno problem communicating with the Wemale on the south coast of Seram.",
+    "code": "tlw",
+    "name": "South Wemale",
+    "effective": "2012-02-03",
+    "remedy": "Merged into North Wemale [weo]",
+    "reason": "merge",
+    "change_request": "2011-083",
+    "change_to": "\nweo"
+  },
+  "identifier": {
+    "multitree": "tlw"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Sos Kundi",
+    "hid": "sdk",
+    "level": "language",
+    "iso639-3": "sdk",
+    "latitude": "-3.99024",
+    "longitude": "143.396",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kwaruwi Kwundi](https://endangeredlanguages.com/lang/10613)\nhttps://www.wikidata.org/entity/Q7563811\nhttps://en.wikipedia.org/wiki/Sos_Kundi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:d:Janzen:Sos-Kundi**\n**hh:hw:Staalsen:Sawos**\n**hh:soc:Richardson:Kundi-Ambakich**\n**iso6393:2008-022**"
+  },
+  "altnames": {
+    "multitree": "\nAgbane\nAgbanekundi\nAkbana\nGaikundi\nGaikunti\nKwongai\nSawos\nSepik Plains\nSos Kundi\nSoskundi\nTshuosh\nTshwosh",
+    "lexvo": "\nSos Kundi [en]",
+    "hhbib_lgcode": "\nKwaruwi Kwundi",
+    "elcat": "\nAgbane\nAgbanekundi\nAkbana\nKeak\nKwaruwi Kwundi\nKwaruwikwundi\nSawos\nSepik Plains\nSos Kundi\nSoskundi\nTshuosh\nTshwosh"
+  },
+  "identifier": {
+    "multitree": "sdk",
+    "endangeredlanguages": "10613"
+  },
+  "classification": {
+    "sub": "**hh:hw:Staalsen:Sawos**:11 **hh:soc:Richardson:Kundi-Ambakich** **hh:g:Jendraschek:Iatmul**:4-8",
+    "subrefs": "\n**hh:hw:Staalsen:Sawos**\n**hh:soc:Richardson:Kundi-Ambakich**\n**hh:g:Jendraschek:Iatmul**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kwaruwi Kwundi (10613) = Threatened (20 percent certain, based on the evidence available) [Richardson and Tupper 2013](cldf:richardson:tupper:13)"
+  }
+}

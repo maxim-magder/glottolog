@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mbunda",
+    "hid": "mck",
+    "level": "language",
+    "iso639-3": "mck",
+    "latitude": "-14.603",
+    "longitude": "21.9768",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "ZM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mbunda_language\nhttps://www.wikidata.org/entity/Q34170"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10938**\n**eballiso2009:1649**\n**eballiso2009:22285**\n**eballiso2009:27781**\n**eballiso2009:28707**\n**eballiso2009:30985**\n**eballiso2009:30986**\n**eballiso2009:32622**\n**eballiso2009:45452**\n**eballiso2009:45453**\n**eballiso2009:48559**\n**eballiso2009:48675**\n**eballiso2009:48805**\n**eballiso2009:55988**\n**eballiso2009:57773**\n**eballiso2009:8254**\n**hh:d:Diarra:Mbunda:Base**\n**hh:d:Diarra:Mbunda:Saude**\n**hh:e:Barrett:Mbunda**\n**hh:e:Papstein:Mbunda**\n**hh:he:McCulloch:Southern-Lunda**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Bostoen:Western-Zambia**\n**hh:hv:Fleisch:Ngengela-Nyemba**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:KashokiMann:Zambia**\n**hh:phon:Diarra:Mbunda**\n**hh:s:Diarra:Mbunda**\n**hh:t:deCarvalho:Kambunda**\n**hh:typ:Gowlett:Mbuunda**\n**hh:w:Pearson:Ngangela**\n**hh:w:StirkeThomas:Sikololo-Silui-Simbunda**"
+  },
+  "altnames": {
+    "multitree": "\nChimbunda\nGimbunda\nKimbunda\nMbunda\nMbuunda",
+    "lexvo": "\nMbunda [en]",
+    "hhbib_lgcode": "\nK15_Mbunda\nKambunda\nMbunda K15\nSimbunda"
+  },
+  "triggers": {
+    "lgcode": "\nmbunda\nsimbunda\nequinoxiale\nmbuunda\npecuaria\nkambunda"
+  },
+  "identifier": {
+    "multitree": "mck"
+  },
+  "classification": {
+    "sub": "**hh:hv:Fleisch:Ngengela-Nyemba**",
+    "subrefs": "\n**hh:hv:Fleisch:Ngengela-Nyemba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbunda (mck-mck) = 5* (Developing)."
+  }
+}

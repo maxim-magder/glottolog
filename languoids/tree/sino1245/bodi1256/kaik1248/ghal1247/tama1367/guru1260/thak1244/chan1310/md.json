@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Chantyal",
+    "hid": "chx",
+    "level": "language",
+    "iso639-3": "chx",
+    "latitude": "28.684",
+    "longitude": "83.4488",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Chantyal](https://endangeredlanguages.com/lang/1620)\nhttps://www.wikidata.org/entity/Q4926344\nhttps://en.wikipedia.org/wiki/Chantyal_language\nhttps://phoible.org/languages/chan1310\n[Chantyal](https://wals.info/languoid/lect/wals_code_chn)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:noonan:01**\n**cldf:noonan:03:1**\n**cldf:noonan:03:3**\n**cldf:noonan:bhulanja:99**\n**cldf:np:nd:264**\n**cldf:shay:ed:03:4**\n**cldf:yadava:glover:ed:99:5**\n**hh:dt:Noonan:Chantyal**\n**hh:e:Michl:Chantel**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:phont:NoonanBhulanja:Chantyal**\n**hh:s:Noonan:Chantyal**\n**hh:s:NoonanHildebrandt:Chantyal**\n**hh:soc:Yadav:Chhantyal**\n**hh:typ:Noonan:Chantyal**\n**mpieva:268**\n**sil16:41773**"
+  },
+  "altnames": {
+    "wals": "\nChantyal",
+    "multitree": "\nChantel\nChantyal\nChentel\nChhantel",
+    "lexvo": "\nChantyal [en]\nChantyal language [en]\nChantyalish [gv]\nภาษาชันเตียล [th]",
+    "elcat": "\nChantel\nChantyal\nChentel\nChhantel",
+    "hhbib_lgcode": "\nChhantyal"
+  },
+  "triggers": {
+    "lgcode": "\nhimalaya\ndhaulagiri\nchantel\nchantyal"
+  },
+  "identifier": {
+    "wals": "chn",
+    "multitree": "chx",
+    "endangeredlanguages": "1620"
+  },
+  "classification": {
+    "sub": "**hh:s:Noonan:Chantyal** **hh:hv:Honda:Tamangic**",
+    "subrefs": "\n**hh:s:Noonan:Chantyal**\n**hh:hv:Honda:Tamangic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chantyal (1620-chx) = Threatened (20 percent certain, based on the evidence available) [Noonan and Bhulanja 2005](cldf:noonan:bhulanja:05)"
+  }
+}

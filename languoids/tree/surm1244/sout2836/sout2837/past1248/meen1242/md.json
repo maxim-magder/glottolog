@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Me'en",
+    "hid": "mym",
+    "level": "language",
+    "iso639-3": "mym",
+    "latitude": "6.63207",
+    "longitude": "35.6255",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Me'en](https://grambank.clld.org/languages/meen1242)\n[Me'en](https://wals.info/languoid/lect/wals_code_mee)\nhttps://en.wikipedia.org/wiki/Me%CA%BCen_language\nhttps://phoible.org/languages/meen1242\nhttps://www.wikidata.org/entity/Q3408516"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jensen:ed:59**\n**eballiso2009:11686**\n**eballiso2009:16206**\n**eballiso2009:19120**\n**eballiso2009:19121**\n**eballiso2009:19122**\n**eballiso2009:19123**\n**eballiso2009:19126**\n**eballiso2009:42827**\n**eballiso2009:42829**\n**eballiso2009:42832**\n**eballiso2009:42833**\n**eballiso2009:4437**\n**eballiso2009:45520**\n**eballiso2009:45598**\n**eballiso2009:51825**\n**eballiso2009:51844**\n**eballiso2009:53966**\n**eballiso2009:54931**\n**eballiso2009:55938**\n**eballiso2009:56714**\n**hh:d:Gebeyehu:Meenen**\n**hh:e:Abbink:Tishena-Suri**\n**hh:e:Buffavand:Bodi**\n**hh:e:Cerulli:Sciuro**\n**hh:e:Haberland:Bodi**\n**hh:ew:Conti:Mekan**\n**hh:ew:Pauli:Splitterstamme**\n**hh:g:Ricci:Mekan**\n**hh:h:Bryan:No-Man**\n**hh:hdial:Will:Bodi**\n**hh:he:Abbink:Nilo-Sahariennes-Omotiques**\n**hh:hvw:Bender:Ethiopia**\n**hh:phon:Garoma:Meenit**\n**hh:phon:Will:Meen**\n**hh:phon:Wossenu:Bodi**\n**hh:s:Joswig:Meen**\n**hh:s:Will:Meen**\n**hh:typ:Azeb:Bodi**\n**hh:typ:Will:Meen:1998**\n**hh:w:Cecchi:Sciuro**\n**hh:w:Haberland:Surma**\n**mpieva:1998Surmicla**\n**sil16:33858**\n**sil16:39476**\n**sil16:50301**"
+  },
+  "altnames": {
+    "wals": "\nMe'en",
+    "wals other": "\nMeen",
+    "ruhlen (1987)": "\nMe'en",
+    "moseley & asher (1994)": "\nMe'en",
+    "multitree": "\nMe'en\nMekan\nMen\nMeqan\nMie'en\nMieken",
+    "lexvo": "\nMe'en [en]\nMe'en language [en]\nМенски јазик [mk]",
+    "hhbib_lgcode": "\nBodi\nMekan\nMe’enit\nSciuro\nTishena (Me'en)"
+  },
+  "triggers": {
+    "lgcode": "\nbodi\nmekan\nmeen\nsciankalla\ntishana"
+  },
+  "identifier": {
+    "wals": "mee",
+    "multitree": "mym;meen"
+  },
+  "classification": {
+    "sub": "**hh:hv:Yigezu:Surmic**",
+    "subrefs": "\n**hh:hv:Yigezu:Surmic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Bodi (5929-mym-bod) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

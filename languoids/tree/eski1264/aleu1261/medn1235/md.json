@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mednyj Aleut",
+    "hid": "mud",
+    "level": "language",
+    "iso639-3": "mud",
+    "latitude": "54.6601",
+    "longitude": "167.782",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mednyj_Aleut_language\n[Mednyj Aleut](https://endangeredlanguages.com/lang/673)\nhttps://www.wikidata.org/entity/Q1977419",
+    "timespan": "2020-01-01/2020-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:golovko:23**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**hh:ld:Golovko:Copper-Island-Aleut**\n**hh:ld:Vaxtin:Komandorskix**\n**hh:s:Golovko:Mednovskij**\n**hh:s:Golovko:Mednovskix**\n**hh:s:Sekerina:Mednyj-Aleut**\n**hh:s:Thomason:Mednyj**\n**hh:typ:Golovko:Copper-Island-Aleut**\n**hh:typ:Golovko:Mednyj**\n**hh:v:Asinovskij:Komandorskix-Aleutov**"
+  },
+  "altnames": {
+    "multitree": "\nAleut de l'île Copper\nAleut, Mednyj\nAleutiano de la isla Copper\nAttuan\nCopper\nCopper Island Aleut\nCopper Island Aleut Creole\nCopper Island Attuan\nCreolized Attuan\nMedny",
+    "lexvo": "\nMedny Aleut language [en]\nMednyj Aleut [en]\nАлеутско-медновский язык [ru]",
+    "hhbib_lgcode": "\nAleut Mednyj",
+    "elcat": "\nCopper\nCopper Island Aleut Creole\nCopper Island Attuan\nCreolized Attuan\nMedny\nMednyj Aleut\nалеутско-медновский язык\nмедновский язык"
+  },
+  "triggers": {
+    "lgcode": "\nmednyj\nmednovskix\naleutov"
+  },
+  "identifier": {
+    "multitree": "mud",
+    "endangeredlanguages": "673"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aleut, Mednyj (mud-mud) = 10 (Extinct)."
+  },
+  "classification": {
+    "sub": "**hh:typ:Golovko:Copper-Island-Aleut**",
+    "subrefs": "\n**hh:typ:Golovko:Copper-Island-Aleut**"
+  }
+}

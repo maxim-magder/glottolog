@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Central Mnong",
+    "hid": "cmo",
+    "level": "language",
+    "iso639-3": "cmo",
+    "latitude": "12.6313",
+    "longitude": "107.301",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH",
+      "VN"
+    ],
+    "links": "\n[Bunong](https://lexibank.clld.org/languages/sidwellbahnaric-bunong)\n[Central Mnong](https://endangeredlanguages.com/lang/4045)\n[Central Mnong](https://grambank.clld.org/languages/cent1992)\n[Khaonh](https://lexibank.clld.org/languages/sidwellbahnaric-khaonh)\n[Mel](https://lexibank.clld.org/languages/sidwellbahnaric-mel)\nhttps://www.wikidata.org/entity/Q13018551"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Bequette:Bunong**\n**hh:d:Hoeffel:Biat**\n**hh:d:Nguyen:Mnong**\n**hh:e:Maurice:Mnong**\n**hh:he:Schliesinger:Austro-Asiatic-Cambodia**\n**hh:hew:Luce:Burma**\n**hh:hv:Blood:Mnong**\n**hh:hw:Prachakitchakonrachak:Siam**\n**hh:hwsoc:BarrPawley:Bahnaric**\n**hh:phon:Filippi:Phnong**\n**hh:s:Butler:Bunong**\n**hh:s:KporPhillips:Mnong**\n**hh:s:Phillips:Mnong**\n**hh:st:Vogel:Phnong**\n**hh:styp:Bequette:Bunong**\n**hh:styp:Bequette:Bunong:2008**\n**sil16:11917**\n**sil16:11918**\n**sil16:15129**\n**sil16:15130**\n**sil16:15131**\n**sil16:15132**\n**sil16:15133**\n**sil16:15134**\n**sil16:15135**\n**sil16:15136**\n**sil16:15137**\n**sil16:15139**\n**sil16:50449**"
+  },
+  "altnames": {
+    "multitree": "\nBhiét\nBiat\nBiet\nBudang\nBudong\nCentral Mnong\nCentral Mong\nMnong central\nMnong, Central\nPenong\nPhanong\nPhnong\nPhong\nPnong",
+    "lexvo": "\nCentral Mnong [en]",
+    "hhbib_lgcode": "\n9 varieties of Bunong\nBiat\nMnong\nMnong Occidentaux\nMnong-Central\nOu Rona\nPhnong\nPhnong (Laos/Cambodian Border)",
+    "elcat": "\nBhiét\nBiat\nBiet\nBu Nong\nBudang\nBudong\nBunong\nCentral\nCentral Mnong\nCentral Mong\nMnong\nPenong\nPhanong\nPhnong\nPhong\nPnong"
+  },
+  "triggers": {
+    "lgcode": "\nanaphora\nhoc AND nti\nmondulkiri\nbiat\nnguay\nphillips\nphnong"
+  },
+  "identifier": {
+    "multitree": "cmo",
+    "endangeredlanguages": "4045"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blood:Mnong**",
+    "subrefs": "\n**hh:hv:Blood:Mnong**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Central Mnong (4045-cmo) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

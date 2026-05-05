@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Miyako",
+    "hid": "mvi",
+    "level": "language",
+    "iso639-3": "mvi",
+    "latitude": "24.7564",
+    "longitude": "125.363",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "JP"
+    ],
+    "links": "\n[Miyako](https://endangeredlanguages.com/lang/4730)\n[Miyako](https://lexibank.clld.org/languages/hattorijaponic-Miyako)\nhttps://en.wikipedia.org/wiki/Miyakoan_language\nhttps://phoible.org/languages/miya1259\nhttps://www.wikidata.org/entity/Q36218"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:burd:52**\n**cldf:dougherty:14**\n**cldf:ed:10**\n**cldf:hayashi:13:2**\n**cldf:iwasaki:15**\n**cldf:iwasaki:ono:10**\n**cldf:iwasaki:ono:13**\n**cldf:jarosz:14**\n**cldf:lewis:ed:09**\n**cldf:nakayama:ono:13**\n**cldf:shinohara:hussain:20**\n**elpub:ldd80**\n**hh:d:Daigaku:Ryukyu:1977**\n**hh:d:Hirayama:Miyako**\n**hh:d:Jarosz:Miyako**\n**hh:d:Tomihama:Miyako-Irabu**\n**hh:g:Hayashi:Miyako-Ikema**\n**hh:g:Jarosz:Kurima**\n**hh:g:Michinori:Irabu**\n**hh:g:Pellard:Ogami**\n**hh:g:Shimoji:Irabu:2018**\n**hh:hs:Hirayamaetal:Sakishima**\n**hh:hv:Shimoji:Ryukyuan**\n**hh:hvw:Hattori:Japanese**\n**hh:hvw:LeeHasegawa:Japonic**\n**hh:hw:Hirayama:Ryukyu**\n**hh:phon:Kibe:Miyako**\n**hh:phon:Sakiyama:Tarama-Minna**\n**hh:s:Aoi:Tarama**\n**hh:s:Danning:Aragusuku**\n**hh:s:Danning:Aragusuku:2019**\n**hh:s:Hayashi:Ikema**\n**hh:s:Jarosz:Miyako-Sketch**\n**hh:s:Kenan:Miyako-Minaai**\n**hh:s:Pellard:Ogami**\n**hh:s:Shimoji:Irabu**\n**hh:s:Shimoji:Irabu:2006**\n**hh:soc:Jarosz:Miyako**\n**hh:typ:Takahashi:Aragusuku**\n**hh:w:Wirth:Liu-Kiu**"
+  },
+  "altnames": {
+    "multitree": "\nMiyako\nRyukyuan\nSaskishima\nSaskisima\nSouthern Ryukyuan",
+    "lexvo": "\nIdioma miyako [es]\nMiyako [en]\nMiyako language [en]\nMiyako-Sprache [de]\nMiyakoeg [br]\nภาษามิยาโกะ [th]\n宮古方言 [ja]",
+    "hhbib_lgcode": "\nAragusuku\nCentral Miyako\nHirara\nIkema\nIrabu\nIrafu\nKurima\nMinaai\nMinna\nMiyakoshima\nOgami\nTarama\nŌgami",
+    "elcat": "\nIkimatsu\nMiyako\nRyukyuan\nSaskishima\nSaskisima\nSouthern Ryukyuan\nミャークフツ\n宮古方言\n宮古語"
+  },
+  "triggers": {
+    "lgcode": "\nmiyako\nnevskiys\nogami\nrecovered\njarosz\nirabu\nmiyakoan\nnikolay\naleksandra"
+  },
+  "identifier": {
+    "multitree": "mvi",
+    "endangeredlanguages": "4730"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pellard:Ryukyu**",
+    "subrefs": "\n**hh:hv:Pellard:Ryukyu**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Miyako (4730-mvi) = Severely Endangered (100 percent certain, based on the evidence available) (Recent revival movements are promoting the language at events such as speech contests and religious rituals in local communities. The language plays a role in the ethnic identity for those of the Ikema minzoku tribe.) [Shinohara and Hussain 2020](cldf:shinohara:hussain:20)"
+  }
+}

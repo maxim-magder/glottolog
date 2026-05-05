@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Paipai",
+    "hid": "ppi",
+    "level": "language",
+    "iso639-3": "ppi",
+    "latitude": "31.6063",
+    "longitude": "-115.871",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Paipai](https://endangeredlanguages.com/lang/1538)\nhttps://en.wikipedia.org/wiki/Paipai_language\nhttps://www.wikidata.org/entity/Q56726"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1518**\n**cldf:drucker:37:1**\n**cldf:ed:10**\n**cldf:gifford:lowie:28**\n**cldf:golla:goddard:etal:08**\n**cldf:gonzalez:20**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**elpub:ldd106**\n**hh:hew:Robles:Baja-California**\n**hh:hvb:Golla:California**\n**hh:phon:Ibanez:Paipai**\n**hh:s:Joel:Paipai**\n**hh:styp:Sanchez:Paipai**\n**hh:v:Joel:Paipai**\n**hh:w:GiffordLowie:Akwaala**\n**sil16:12614**\n**sil16:12615**"
+  },
+  "altnames": {
+    "multitree": "\nAkwa'ala\nCuñeil\nPai'pai\nPaipai\nPaipái",
+    "lexvo": "\nPaipai [en]",
+    "hhbib_lgcode": "\nAkwa'ala of Gifford and Lowie 1928",
+    "elcat": "\nAkwa'ala\nCuñeil\nPai'pai\nPaipai"
+  },
+  "triggers": {
+    "lgcode": "\nakwaala\npaipai"
+  },
+  "identifier": {
+    "multitree": "ppi",
+    "endangeredlanguages": "1538"
+  },
+  "classification": {
+    "sub": "**hh:typ:Langdon:Yuman**:419-422",
+    "subrefs": "\n**hh:typ:Langdon:Yuman**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Paipai (1538-ppi) = Critically Endangered (100 percent certain, based on the evidence available) [Gonzalez 2020](cldf:gonzalez:20)"
+  }
+}

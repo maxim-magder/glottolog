@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Duguri",
+    "hid": "dbm",
+    "level": "language",
+    "iso639-3": "dbm",
+    "latitude": "10.05",
+    "longitude": "10.21",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7194057"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:SIL:Nigeria**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Blench:Jarawan**\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hw:Migeod:WAfrica:II**\n**hh:hw:Thomas:Bantu**\n**hh:vld:Green:Jarawan**"
+  },
+  "altnames": {
+    "multitree": "\nDugarwa\nDuguranchi\nDugurawa\nDuguri\nDukuri",
+    "lexvo": "\nDuguri [en]",
+    "hhbib_lgcode": "\nDuburi\nDuggera of Sidney Smith\nDuguri_Jarawan\nDungera\nJar-Doori"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "dbm"
+  },
+  "classification": {
+    "sub": "**hh:vld:Green:Jarawan** **hh:hvw:MaddiesonWilliamson:Jarawan**",
+    "subrefs": "\n**hh:vld:Green:Jarawan**\n**hh:hvw:MaddiesonWilliamson:Jarawan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Duguri (dbm-dbm) = 7 (Shifting)."
+  }
+}

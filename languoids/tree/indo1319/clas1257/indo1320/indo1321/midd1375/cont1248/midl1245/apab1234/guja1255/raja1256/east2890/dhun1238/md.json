@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dhundari",
+    "hid": "dhd",
+    "level": "language",
+    "iso639-3": "dhd",
+    "latitude": "26.473",
+    "longitude": "76.198",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q633359\nhttps://en.wikipedia.org/wiki/Dhundari_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:MinaRav:Rajasthana**\n**hh:htyp:Macalister:Jaypur**\n**hh:hvwt:Grierson:9:II**\n**hh:hwsoc:Abrahametal:Rajasthani**\n**hh:s:Gusain:Dhundhari**\n**hh:s:Vedamanickam:Jaipuri**"
+  },
+  "altnames": {
+    "multitree": "\nDhundari\nDhundari-Marwari\nJaipuri",
+    "lexvo": "\nDhundari [en]\nDhundari language [en]\nLenga dundari [pms]\nLingua Dhundhari [la]",
+    "hhbib_lgcode": "\nDhundhadhi\nJaipuri\nJaypur\nMarwari-Dhundari\nPachwara Bhasha\nTalhaiti in Sawai Madhopur"
+  },
+  "triggers": {
+    "lgcode": "\nwagdi\njaipuri"
+  },
+  "identifier": {
+    "multitree": "dhd"
+  },
+  "classification": {
+    "sub": "**hh:hvwt:Grierson:9:II** **hh:hwsoc:Abrahametal:Rajasthani**",
+    "subrefs": "\n**hh:hwsoc:Abrahametal:Rajasthani**\n**hh:hvwt:Grierson:9:II**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dhundari (dhd-dhd) = 5* (Developing)."
+  }
+}

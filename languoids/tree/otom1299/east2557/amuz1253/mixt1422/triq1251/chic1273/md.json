@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Chicahuaxtla Triqui",
+    "hid": "trs",
+    "level": "language",
+    "iso639-3": "trs",
+    "latitude": "17.1628",
+    "longitude": "-97.8547",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Triqui](https://endangeredlanguages.com/lang/6193)\nhttps://www.wikidata.org/entity/Q3539587\n[Trique (Chicahuaxtla)](https://wals.info/languoid/lect/wals_code_trc)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1220**\n**cldf:good:78**\n**hh:d:Good:Triqui-Chicahuaxtla**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hv:LongacreMillon:Proto-Amuzgo-Mixtecan**\n**hh:hv:Matsukawa:Trique**\n**hh:hvw:Arana:Mixteco-Trique**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:phon:Matsukawa:Chicahuaxtla-Triqui**\n**hh:phontyp:Hernandez:Triqui-Chicahuaxtla**\n**hh:s:Belmar:Trike**\n**hh:typ:Longacre:Strongly-VSO**\n**sil16:11453**\n**sil16:11454**\n**sil16:11455**\n**sil16:11457**\n**sil16:11460**\n**sil16:11475**\n**sil16:11476**\n**sil16:11485**\n**sil16:15794**\n**sil16:15961**\n**sil16:31749**\n**sil16:45865**"
+  },
+  "altnames": {
+    "wals": "\nTrique (Chicahuaxtla)",
+    "wals other": "\nTrique (de Chicahuaxtla)",
+    "ruhlen (1987)": "\nTrike",
+    "moseley & asher (1994)": "\nTrique",
+    "multitree": "\nChicahuaxtla Trike\nChicahuaxtla Trique\nTrike\nTriki\nTrique\nTrique (Chicahuaxtla)\nTriqui de San Andrés Chicahuaxtla\nTriqui, Chicahuaxtla",
+    "lexvo": "\nChicahuaxtla Triqui [en]",
+    "hhbib_lgcode": "\n134 San Andres Chicahuaxtla 1890 Triqui Belmar 1897\n135 San Andres Chicahuaxtla Triqui Hernández Mendoza 2020; Good 1978\nChicahuaxtla Trique\nTrique Chicahuaxta\nTriqui-Chicahuaxtla",
+    "elcat": "\nTriqui"
+  },
+  "triggers": {
+    "lgcode": "\nhamps\ntrike\nrescues\nchicahuaxtla\nchichahuaxtla"
+  },
+  "identifier": {
+    "wals": "trc",
+    "multitree": "trs",
+    "endangeredlanguages": "6193"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matsukawa:Triqui**",
+    "subrefs": "\n**hh:hv:Matsukawa:Triqui**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Triqui (6193) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Drung",
+    "hid": "duu",
+    "level": "language",
+    "iso639-3": "duu",
+    "latitude": "28.00792",
+    "longitude": "98.49449",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM"
+    ],
+    "links": "\n[Drung](https://endangeredlanguages.com/lang/1359)\n[Drung](https://grambank.clld.org/languages/drun1238)\n[Dulong](https://wals.info/languoid/lect/wals_code_dul)\n[Nungic_Dulong](https://lexibank.clld.org/languages/sagartst-Dulong)\n[Trung](https://lexibank.clld.org/languages/gaotb-Derung)\n[Trung](https://lexibank.clld.org/languages/suntb-Trung)\nhttps://en.wikipedia.org/wiki/Derung_language\nhttps://www.wikidata.org/entity/Q56406"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chang-pei:45**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:hongkai:82**\n**cldf:lapolla:01:1**\n**cldf:lapolla:03:3**\n**cldf:lewis:ed:09**\n**cldf:perlin:08**\n**cldf:perlin:09**\n**cldf:roche:suzuki:17**\n**hh:d:Perlin:Trung**\n**hh:dial:DuoSun:Dulong**\n**hh:e:Gongshan:Dulong**\n**hh:e:SongShen:Dulong**\n**hh:e:ZhuLi:Dulong**\n**hh:g:Perlin:Trung**\n**hh:g:Sun:Dulong**\n**hh:gtd:Perlin:Trung:2019**\n**hh:hew:dOrleans:Tonkin**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Bradley:Mran-Ni**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hwphon:Daietal:Zangmianyu**\n**hh:hws:YDBW:Yunnan**\n**hh:ld:Luo:Nuyu**\n**hh:ld:Luo:Nuyu:1999**\n**hh:s:LaPolla:Dulong**\n**hh:s:Luo:Qiu**\n**hh:s:Luo:Qiu:1942**\n**hh:s:Luo:Qiu:1952**\n**hh:s:PoaLaPolla:Dulong**\n**hh:s:Sun:Dulong:2007**\n**hh:s:ZSMYJ:Zhongguo**\n**hh:soc:Fu:Drung**\n**hh:soc:Perlin:Dulong**\n**hh:t:LaPolla:Dulong**\n**hh:typ:Sun:Dulong**\n**hh:v:Cui:Dulong**\n**hh:v:LaPolla:Dulong**\n**hh:w:Bufan:Zangmian**\n**hh:w:Chang-Pei:Trung**\n**hh:w:Huang:Zangmian**\n**lapolla-tibeto-burman:1157**\n**mpieva:Sun1982Dulongyu**"
+  },
+  "altnames": {
+    "wals": "\nDulong",
+    "wals other": "\nDrung\nTrung\nTulung",
+    "ruhlen (1987)": "\nTrung",
+    "moseley & asher (1994)": "\nTrung",
+    "multitree": "\nDrung\nDulong\nKiao\nKiu\nKiupa\nKiutze\nMelam\nMetu\nNu-tzŭ\nNung\nQiu\nQiuzi\nQui\nRawang\nT'rung\nTamalu\nTaron\nTrung\nTukiumu\nTulung",
+    "lexvo": "\nDerung language [en]\nDroungeg [br]\nDrung [en]\n独龙语 [zh]",
+    "hhbib_lgcode": "\nDulong\nDulong-Muliwang Village\nE Dulong\nKioutse of Tukiu Mu\nLoutse of Tamalou\nNu\nNuyu\nQiu\nTrung\nTrung Dulong\nW Dulong",
+    "elcat": "\nDrung\nDulong\nKiao\nKiu\nKiupa\nKiutze\nMelam\nMetu\nNu-tzŭ\nNung\nQiu\nQiuzi\nQui\nRawang\nT'rung\nTamalu\nTaron\nTrung\nTukiumu\nTulung\n獨龍語"
+  },
+  "triggers": {
+    "lgcode": "\ndulongyu\ntrung\ndulong\nNOT rawang AND dulong"
+  },
+  "identifier": {
+    "wals": "dul",
+    "multitree": "duu",
+    "endangeredlanguages": "1359"
+  },
+  "classification": {
+    "sub": "**hh:hv:Matisoff:Jingpho**:3-6 **hh:hv:Bradley:Tibeto-Burman:1997**:32-35 **hh:hv:Bradley:Tibeto-Burman**:93-94",
+    "subrefs": "\n**hh:hv:Matisoff:Jingpho**\n**hh:hv:Bradley:Tibeto-Burman:1997**\n**hh:hv:Bradley:Tibeto-Burman**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Drung (1359-duu) = Vulnerable (100 percent certain, based on the evidence available) [Perlin 2009](cldf:perlin:09)"
+  }
+}

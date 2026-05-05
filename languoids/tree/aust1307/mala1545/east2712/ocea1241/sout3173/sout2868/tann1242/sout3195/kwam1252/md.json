@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kwamera",
+    "hid": "tnk",
+    "level": "language",
+    "iso639-3": "tnk",
+    "latitude": "-19.5954",
+    "longitude": "169.442",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Kwamera](https://grambank.clld.org/languages/kwam1252)\n[Kwamera](https://lexibank.clld.org/languages/abvdoceanic-Kwamera)\n[Kwamera](https://wals.info/languoid/lect/wals_code_kwr)\nhttps://en.wikipedia.org/wiki/Kwamera_language\nhttps://www.wikidata.org/entity/Q3200806"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:230**\n**asjp2010:2336**\n**asjp2010:3360**\n**asjp2010:4899**\n**cldf:adams:84**\n**cldf:agency:09**\n**cldf:atkinson:18**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:connell:07:2**\n**cldf:cribb:00**\n**cldf:guiart:56:1**\n**cldf:humphreys:26**\n**cldf:keesing:84:2**\n**cldf:lindstrom:91**\n**cldf:np:13:12**\n**cldf:np:14:5**\n**cldf:spriggs:85**\n**cldf:turner:61**\n**hh:d:Lindstrom:Kwamera**\n**hh:h:Lindstrom:Tanna**\n**hh:hv:Lynch:Southern-Vanuatu**\n**hh:hv:Lynch:Southern-Vanuatu-Pronominal**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Lynch:Southern-Oceanic-Article**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:LindstromLynch:Kwamera**\n**hh:w:Lindstrom:Kwamera**\n**hh:w:Nehrbass:Tanna**\n**sil16:36470**"
+  },
+  "altnames": {
+    "wals": "\nKwamera",
+    "ruhlen (1987)": "\nKwamera",
+    "moseley & asher (1994)": "\nKwamera",
+    "multitree": "\nKwamera\nVanuatu",
+    "lexvo": "\nKwamera [en]",
+    "hhbib_lgcode": "\nIkiti\nIsiai\nPort R\nYatuk"
+  },
+  "triggers": {
+    "lgcode": "\nkwamera"
+  },
+  "identifier": {
+    "wals": "kwr",
+    "multitree": "tnk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Southern-Vanuatu**",
+    "subrefs": "\n**hh:hv:Lynch:Southern-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kwamera (tnk-tnk) = 6b (Threatened)."
+  }
+}

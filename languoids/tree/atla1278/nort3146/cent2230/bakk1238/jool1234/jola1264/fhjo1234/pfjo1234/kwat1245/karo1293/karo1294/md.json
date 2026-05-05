@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Karon",
+    "hid": "krx",
+    "level": "language",
+    "iso639-3": "krx",
+    "latitude": "12.9918",
+    "longitude": "-16.7382",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "SN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35704\nhttps://en.wikipedia.org/wiki/Karon_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Sambou:Joola-Karon**\n**hh:g:Sambou:Joola-Karon:2012**\n**hh:hv:Doneux:Senegal**\n**hh:hvw:Barry:Joola**\n**hh:phontyp:Sambou:Joola-Karon**\n**hh:s:Berndt:Karone**\n**hh:s:Galvagny:Karon**\n**hh:typ:Sambou:Joola-Karon**\n**hh:typ:Sambou:Joola-Karon:2003**\n**hh:w:CarltonRand:Diola**"
+  },
+  "altnames": {
+    "multitree": "\nKaron\nKarone",
+    "lexvo": "\nKaron [en]\nKaron language [en]\nKarone [fr]\nKaroneg [br]\nLenga Karon [pms]",
+    "hhbib_lgcode": "\nHilol-Karon\nKarone\nKn Karoon"
+  },
+  "triggers": {
+    "lgcode": "\nkaron"
+  },
+  "identifier": {
+    "multitree": "krx"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Karone (1298-krx) = Vulnerable"
+  }
+}

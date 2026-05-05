@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kamu",
+    "hid": "xmu",
+    "level": "language",
+    "iso639-3": "xmu",
+    "latitude": "-13.5393",
+    "longitude": "131.098",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Kamu](https://endangeredlanguages.com/lang/3239)\n[Kamu](https://collection.aiatsis.gov.au/austlang/language/n33)\nhttps://en.wikipedia.org/wiki/Kamu_language\n[Kamu](https://wals.info/languoid/lect/wals_code_kmw)\nhttps://www.wikidata.org/entity/Q6359779",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:harvey:90**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hs:Tryon:Daly**\n**hh:hw:Tryon:Daly**\n**hh:s:Harvey:Kamu**\n**ozbib:2642**\n**ozbib:2656**\n**ozbib:2658**\n**ozbib:2659**\n**ozbib:5763**\n**ozbib:5765**"
+  },
+  "altnames": {
+    "wals": "\nKamu",
+    "wals other": "\nGamor\nGamu",
+    "ruhlen (1987)": "\nKamu",
+    "multitree": "\nKamu\nKapsiki\nPsikye",
+    "lexvo": "\nKamu [en]",
+    "hhbib_lgcode": "\nGamor\nKamor",
+    "elcat": "\nGamor\nGamu\nGamy\nKamor\nKamorrkir\nKamu\nKomorrkir\nMalak Malak\nNgangigamor\nNgangigmor",
+    "aiatsis": "\nEastern Daly language\nGamor\nGamu\nGamu/Kamor\nGamy\nJunggor\nKamor\nKamorrkir\nKamu\nKomorrkir\nMadngela\nMalak Malak\nMatngela\nMulluk Mulluk\nMurra Kamangee\nNgangigmor\nNgulul Wanggar\nWooliana\nYunggor"
+  },
+  "triggers": {
+    "lgcode": "\nsketch AND gamu"
+  },
+  "identifier": {
+    "wals": "kmw",
+    "multitree": "kvj-psi",
+    "endangeredlanguages": "3239"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kamu (xmu-xmu) = 10 (Extinct)."
+  }
+}

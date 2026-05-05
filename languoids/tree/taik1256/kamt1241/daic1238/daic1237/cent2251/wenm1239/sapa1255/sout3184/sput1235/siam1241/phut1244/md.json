@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Phu Thai",
+    "hid": "pht",
+    "level": "language",
+    "iso639-3": "pht",
+    "latitude": "17.7544966667",
+    "longitude": "104.684233333",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH",
+      "VN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3626597\nhttps://en.wikipedia.org/wiki/Phu_Thai_language\nhttps://phoible.org/languages/phut1244"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Seidenfaden:So**\n**hh:h:Ratanakul:Tai**\n**hh:hv:Chamberlain:Tai-Khammouan**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hvwphon:PhothibanTrongdi:Tak-Bai**\n**hh:phon:Sritarat:Phuthai**\n**hh:s:Khanitthanan:Phu-Thai**\n**hh:soc:Worachin:Phuthai**\n**hh:styp:Sayankena:Phu-Thai**\n**hh:vld:Pacquement:Phu-Tai**\n**hh:w:Khonharn:Phuthai**"
+  },
+  "altnames": {
+    "multitree": "\nPhu Thai\nPhutai\nPhuu Thai\nPutai\nPuthai",
+    "lexvo": "\nPhu Thai [en]\nПхутайски език [bg]",
+    "hhbib_lgcode": "\nPhu Tai\nPhutai\nPhuthai\nThai Kapong is a dialect of Phu Thai"
+  },
+  "triggers": {
+    "lgcode": "\nsathana"
+  },
+  "identifier": {
+    "multitree": "pht"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chamberlain:Tai** **hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**",
+    "subrefs": "\n**hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**\n**hh:hv:Chamberlain:Tai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Phu Thai (pht-pht) = 6a* (Vigorous)."
+  }
+}

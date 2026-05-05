@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Gronings",
+    "hid": "gos",
+    "level": "language",
+    "iso639-3": "gos",
+    "latitude": "53.2842",
+    "longitude": "6.698",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE",
+      "NL"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Gronings_dialect\nhttps://www.wikidata.org/entity/Q508854"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Reker:Groninger**\n**hh:g:Reker:Oost-Groningen**\n**hh:g:Reker:West-Groningen**\n**hh:g:VosReitsema:Gronings**\n**hh:phon:Onnekes:Groningsch**\n**hh:phonv:Schuringa:Veenkolonien**\n**hh:phonv:deVries:Noordhorn**\n**hh:s:Reker:Groningen**\n**hh:s:Reker:Gronings**\n**hh:s:Veldman:Westerwolde**\n**hh:v:Niebaum:Ostfriesisch-Groningische**"
+  },
+  "altnames": {
+    "multitree": "\nFrisian\nGroningen\nGronings\nGrunnings\nNeuniederdeutsch",
+    "lexvo": "\nGreuniengs [zea]\nGrinslânsk [fy]\nGronengesch [lb]\nGroningois [fr]\nGronings [de]\nGroningsk [da]\nGroninguès [ca]\nGrunnegs [nds]\nGrôniengs [vls]\nIdioma groningués [es]\nJronėngsch [ksh]\nJęzyk groningski [pl]\nフローニン語 [ja]",
+    "hhbib_lgcode": "\nGroningsch\nNoordhorn\nWesterwolde"
+  },
+  "triggers": {
+    "lgcode": "\ntoal\nspreken\ngroninger\ngroningen\ngrunnegers\nzeg\nproaten\ngronings"
+  },
+  "identifier": {
+    "multitree": "gos"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen** **hh:v:Niebaum:Ostfriesisch-Groningische**",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**\n**hh:v:Niebaum:Ostfriesisch-Groningische**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Low Saxon (383-act, drt, frs, gos, nds, sdz, stl, twd, vel, wep) = Vulnerable"
+  }
+}

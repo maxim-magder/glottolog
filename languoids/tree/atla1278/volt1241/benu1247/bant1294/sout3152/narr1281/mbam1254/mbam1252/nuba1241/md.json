@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nubaca",
+    "hid": "baf",
+    "level": "language",
+    "iso639-3": "baf",
+    "latitude": "4.35696",
+    "longitude": "11.029",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Nubaca](https://endangeredlanguages.com/lang/556)\nhttps://www.wikidata.org/entity/Q36270\nhttps://en.wikipedia.org/wiki/Baca_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:canonici:94**\n**cldf:connell:07:1**\n**cldf:duggan-cronin:54**\n**cldf:ed:10**\n**cldf:hallowes:42**\n**cldf:hammond-tooke:53**\n**cldf:hammond-tooke:55**\n**cldf:hammond-tooke:58**\n**cldf:hammond-tooke:60**\n**cldf:hammond-tooke:62**\n**cldf:johnston:19:25**\n**eballiso2009:31097**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:MousBreedveld:Bantu-A40-A60**\n**hh:hvphon:Boyd:Mbam**\n**hh:hvw:GuarismaPaulian:Bantous**\n**hh:hvw:Paulian:Yambasa**\n**hh:hvw:Scruggs:Bokito**\n**hh:phon:Eto:Bongo**\n**hh:phontyp:Sebineni:Nubaca**\n**hh:soc:Boone:Baca**"
+  },
+  "altnames": {
+    "multitree": "\nBaca\nBango\nBongo\nNu Baca\nNubaca",
+    "lexvo": "\nNubaca [en]",
+    "hhbib_lgcode": "\nA621_Nubaca\nBaca\nBongo",
+    "elcat": "\nBaca\nBango\nBongo\nNu Baca\nNubaca"
+  },
+  "triggers": {
+    "lgcode": "\ndialectometrical\nnukalonge"
+  },
+  "identifier": {
+    "multitree": "baf",
+    "endangeredlanguages": "556"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Boyd:Mbam**:329-361",
+    "subrefs": "\n**hh:hvphon:Boyd:Mbam**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nubaca (556-baf) = Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

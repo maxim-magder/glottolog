@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Jibu",
+    "hid": "jib",
+    "level": "language",
+    "iso639-3": "jib",
+    "latitude": "7.49214",
+    "longitude": "11.3086",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914448\nhttps://en.wikipedia.org/wiki/Jibu_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:1**\n**cldf:meek:31:2**\n**eballiso2009:11463**\n**eballiso2009:12414**\n**eballiso2009:23601**\n**eballiso2009:44499**\n**eballiso2009:44876**\n**eballiso2009:45287**\n**eballiso2009:45308**\n**eballiso2009:51210**\n**eballiso2009:57562**\n**eballiso2009:6197**\n**hh:d:Blench:Jibu**\n**hh:d:Dyken:Jibu**\n**hh:el:DinslageStorch:Hone-Jukun**\n**hh:ew:Meek:Jukun**\n**hh:hew:Meek:Tribal:II**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:Storch:Jukun**\n**hh:hvw:Shimizu:Jukunoid**\n**hh:hvw:Storch:Zentral-Jukunoid**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:VanDyken:Jibu**\n**hh:typ:Bradley:Jibu**\n**hh:w:Dayrell:Juku-Munshi**\n**hh:w:Fraser:Jukon**\n**sil16:14371**\n**sil16:16760**\n**sil16:24316**"
+  },
+  "altnames": {
+    "multitree": "\nJibanci\nJibawa\nJibu",
+    "lexvo": "\nJibu [en]",
+    "hhbib_lgcode": "\nJibu-Jukun\nJubu\nJuku\nJukun-Jibu\nProbably Jibu"
+  },
+  "triggers": {
+    "lgcode": "\naspektmarkierung\nrecounting\njukon\nmunchi\npindiga\njukos\njibu"
+  },
+  "identifier": {
+    "multitree": "jib"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:Jukunoid**:25",
+    "subrefs": "\n**hh:hvw:Shimizu:Jukunoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jibu (jib-jib) = 5* (Developing)."
+  }
+}

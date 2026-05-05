@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Aweer",
+    "hid": "bob",
+    "level": "language",
+    "iso639-3": "bob",
+    "latitude": "-1.40124",
+    "longitude": "41.234",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "SO"
+    ],
+    "links": "\n[Aweer](https://endangeredlanguages.com/lang/3948)\nhttps://www.wikidata.org/entity/Q56526\nhttps://en.wikipedia.org/wiki/Aweer_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:10546**\n**eballiso2009:15760**\n**eballiso2009:21903**\n**eballiso2009:24560**\n**eballiso2009:25378**\n**eballiso2009:32493**\n**eballiso2009:33914**\n**eballiso2009:42546**\n**eballiso2009:47050**\n**eballiso2009:54846**\n**eballiso2009:5896**\n**hh:e:Blench:Pygmies**\n**hh:e:Fischer:Galla-Lande**\n**hh:e:Prins:Boni**\n**hh:e:Salkeld:Boni**\n**hh:ew:Grottanelli:Bon**\n**hh:hel:Sommer:Survey**\n**hh:hv:Heine:Boni:1982**\n**hh:hv:Heine:Sam**\n**hh:hv:Stiles:Boni:Historical**\n**hh:s:Heine:Boni**\n**hh:s:Tucker:SanyeBoni**\n**hh:soc:Rilling:Boni-Dahalo**\n**hh:sv:Heine:Boni**\n**hh:typ:Sasse:Boni**\n**hh:v:Sasse:Boni**\n**hh:w:Fischer:Gala**\n**iso6393:2006-052**\n**mpieva:Heine1982BoniDial**\n**mpieva:Pillinger1999ARendill**\n**mpieva:Schlee1978Sprachli**"
+  },
+  "altnames": {
+    "multitree": "\nAloekoe\nAluku\nAweer\nAweera\nBon\nBoni\nOgoda\nSanye\nWaata\nWaboni\nWasanye\nWata\nWata-Bala",
+    "lexvo": "\nAweer [en]\nAweer language [en]\nBoni [ca]",
+    "hhbib_lgcode": "\nAweer (Boni)\nBon of Grottanelli (1957)\nJara\nJilii\nKiboni\nWaboni",
+    "elcat": "\n\"Boni\"\nAweer\nBon\nOgoda\nSanye\nWaata\nWaboni\nWasanye\nWata\nWata-Bala"
+  },
+  "triggers": {
+    "lgcode": "\nkenia\ngala\ntaru\njubaland\nuaboni\nrealises\nNOT hunters AND NOT et AND NOT la AND NOT primer AND NOT southern AND boni"
+  },
+  "identifier": {
+    "multitree": "djk-alu;bob",
+    "endangeredlanguages": "3948"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tosco:Somali**",
+    "subrefs": "\n**hh:hv:Tosco:Somali**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aweer (3948-bob) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

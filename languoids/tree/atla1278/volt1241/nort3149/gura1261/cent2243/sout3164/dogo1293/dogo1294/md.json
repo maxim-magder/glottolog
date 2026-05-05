@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Dogoso",
+    "hid": "dgs",
+    "level": "language",
+    "iso639-3": "dgs",
+    "latitude": "10.0489",
+    "longitude": "-4.35805",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35343\nhttps://en.wikipedia.org/wiki/Dogoso_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:53829**\n**eballiso2009:57543**\n**hh:ew:Tauxier:Dorhosie**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:he:Labouret:Lobi**\n**hh:hew:Labouret:Lobi**\n**hh:hv:Winkelmann:Khe-Dogosu**\n**hh:w:Armstrong:West-African**\n**hh:w:Tauxier:Dorhosie**"
+  },
+  "altnames": {
+    "multitree": "\nBambadion-Dogoso\nBambadion-Dokhosié\nBlack Dogose\nDogoso\nDorhosié-Finng\nDorhosié-Noirs\nDorossié-Fing",
+    "lexvo": "\nDogoso [en]",
+    "hhbib_lgcode": "\nDogosu\nDogosé\nDorhosie-Fing\nDorhossie Fing\nDorosie-Fing\nDorossié\nKerstin Winkelmann: C2 Dogosu"
+  },
+  "triggers": {
+    "lgcode": "\ndorhosie\ncomparision"
+  },
+  "identifier": {
+    "multitree": "dgs"
+  },
+  "classification": {
+    "sub": "**hh:hv:Winkelmann:Khe-Dogosu**",
+    "subrefs": "\n**hh:hv:Winkelmann:Khe-Dogosu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dogoso (dgs-dgs) = 6a (Vigorous)."
+  }
+}

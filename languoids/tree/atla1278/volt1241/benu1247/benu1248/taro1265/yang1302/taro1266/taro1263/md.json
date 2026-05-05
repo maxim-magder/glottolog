@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tarok",
+    "hid": "yer",
+    "level": "language",
+    "iso639-3": "yer",
+    "latitude": "8.98356",
+    "longitude": "10.0288",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914953\nhttps://en.wikipedia.org/wiki/Tarok_language\nhttps://phoible.org/languages/taro1263\n[Tarok](https://wals.info/languoid/lect/wals_code_tok)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ames:34**\n**cldf:meek:31:1**\n**cldf:meek:31:2**\n**cldf:robinson:76**\n**eballiso2009:36293**\n**eballiso2009:40239**\n**eballiso2009:40240**\n**eballiso2009:40241**\n**eballiso2009:40242**\n**eballiso2009:51210**\n**eballiso2009:52153**\n**eballiso2009:55184**\n**eballiso2009:56076**\n**eballiso2009:57223**\n**eballiso2009:8609**\n**hh:e:Famwang:Tarok**\n**hh:ew:Fitzpatrick:Kwolla**\n**hh:g:Longtau:Tarok**\n**hh:h:Temple:NNigeria**\n**hh:hv:Blench:Tarok**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvw:Blench:Tarokoid**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ldsoc:BlenchLongtau:Tarok**\n**hh:s:Dangel:Yergum**\n**hh:s:Sibomana:Tarok**\n**hh:v:Longtau:Tarok**\n**hh:vld:Longtau:Tarok-Relations**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "wals": "\nTarok",
+    "ruhlen (1987)": "\nTarok",
+    "moseley & asher (1994)": "\nTarok",
+    "multitree": "\nAppa\nTarok\nYergam\nYergum",
+    "lexvo": "\nTarok [en]",
+    "hhbib_lgcode": "\nTarok/Yergam\nYergam\nYergam-Taroh\nYergum"
+  },
+  "triggers": {
+    "lgcode": "\nyergum\ntaroh\ntarok"
+  },
+  "identifier": {
+    "wals": "tok",
+    "multitree": "yer"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:17-18 **hh:hvw:Blench:Tarokoid**",
+    "subrefs": "\n**hh:hvw:Blench:Tarokoid**\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tarok (yer-yer) = 5* (Developing)."
+  }
+}

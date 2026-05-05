@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Iraya",
+    "hid": "iry",
+    "level": "language",
+    "iso639-3": "iry",
+    "latitude": "13.381",
+    "longitude": "120.65",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Iraya](https://endangeredlanguages.com/lang/10457)\n[Iraya](https://grambank.clld.org/languages/iray1237)\nhttps://en.wikipedia.org/wiki/Iraya_language\nhttps://www.wikidata.org/entity/Q6068356"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:g:Tweddell:Iraya**\n**hh:h:Lobel:Philippine**\n**hh:hld:Tweddell:Mindoro**\n**hh:hv:Zorc:Mangyan**\n**hh:hvw:Barbian:Mangyan-Mindoro**\n**hh:hvw:Schneider:Mangyan**\n**hh:phon:Tweddell:Iraya-Phonology**\n**hh:s:Or:Iraya**\n**hh:s:Revel:Iraya**\n**hh:typ:Or:Iraya**\n**hh:v:Reid:Iraya**\n**hh:w:Barbian:Mangyan-English**"
+  },
+  "altnames": {
+    "multitree": "\nIraya\nPhilippines",
+    "lexvo": "\nIraya [en]\nIraya language [en]",
+    "hhbib_lgcode": "\nAbra de Ilog\nCalamintao a small Iraya settlement seven kilometers up the Pagbahan river\nIraya Mangyan\nIraya of Oriental Mindoro",
+    "elcat": "\nIraya"
+  },
+  "triggers": {
+    "lgcode": "\niraya"
+  },
+  "identifier": {
+    "multitree": "iry",
+    "endangeredlanguages": "10457"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Mangyan** **hh:hv:Blust:CPhilippines** **hh:v:Reid:Iraya**",
+    "subrefs": "\n**hh:hv:Blust:CPhilippines**\n**hh:hv:Zorc:Mangyan**\n**hh:v:Reid:Iraya**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Iraya (10457-iry) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

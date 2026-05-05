@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Huba",
+    "hid": "hbb",
+    "level": "language",
+    "iso639-3": "hbb",
+    "latitude": "10.3544",
+    "longitude": "13.139",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Huba](https://grambank.clld.org/languages/huba1236)\n[Kilba](https://lexibank.clld.org/languages/kraftchadic-Kilba)\n[Kilba](https://wals.info/languoid/lect/wals_code_klb)\nhttps://en.wikipedia.org/wiki/Huba_language\nhttps://phoible.org/languages/huba1236\nhttps://www.wikidata.org/entity/Q56290"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3032**\n**cldf:schuh:83**\n**eballiso2009:45466**\n**eballiso2009:51722**\n**eballiso2009:56369**\n**hh:d:Muazu:Kilba**\n**hh:dial:Muazu:Kilba**\n**hh:g:Muazu:Kilba**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hew:Meek:Tribal:I**\n**hh:hv:Hoffmann:Bura-Margyi**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:II**\n**hh:hw:KroppDakubu:WALDS1:I**\n**hh:s:Muazu:Kilba**"
+  },
+  "altnames": {
+    "wals": "\nKilba",
+    "ruhlen (1987)": "\nKilba",
+    "moseley & asher (1994)": "\nKilba",
+    "multitree": "\nChobba\nHildi\nHuba\nKChobba\nKilba\nMarghi South",
+    "lexvo": "\nHuba [en]",
+    "hhbib_lgcode": "\nHəba\nKilba\nKilba-Pela"
+  },
+  "triggers": {
+    "lgcode": "\nkilba"
+  },
+  "identifier": {
+    "wals": "klb",
+    "multitree": "hbb"
+  },
+  "classification": {
+    "sub": "**hh:g:Hoffmann:Margi**:5-8",
+    "subrefs": "\n**hh:g:Hoffmann:Margi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nya Huba (hbb-hbb) = 5* (Developing)."
+  }
+}

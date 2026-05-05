@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tidore",
+    "hid": "tvo",
+    "level": "language",
+    "iso639-3": "tvo",
+    "latitude": "0.02461",
+    "longitude": "127.746",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tidore](https://endangeredlanguages.com/lang/10935)\n[Tidore](https://grambank.clld.org/languages/tido1248)\n[Tidore](https://lexibank.clld.org/languages/transnewguineaorg-tidore)\n[Tidore](https://wals.info/languoid/lect/wals_code_tid)\nhttps://en.wikipedia.org/wiki/Tidore_language\nhttps://www.wikidata.org/entity/Q3528199"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3754**\n**cldf:lilipaly:81**\n**cldf:pikkert:94**\n**cldf:vanstaden:10**\n**cldf:voorhoeve:94**\n**hh:d:Pickert:Tidore**\n**hh:g:vanStaden:Tidore**\n**hh:h:Taber:Maluku**\n**hh:hew:Bastian:Molukken**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hew:vanderCrab:Moluksche**\n**hh:hv:GrimesGrimes:NMoluccas**\n**hh:hv:Voorhoeve:NMoluccas**\n**hh:hvw:Hueting:Halmaherasche**\n**hh:hvw:Marsden:East-Insular**\n**hh:phon:PikkertPikkert:Tidore**\n**hh:s:Lilipaly:Tidore**\n**hh:typ:Kakerissa:Tidore**\n**hh:w:Nur:Tidore**\n**hh:w:StokhofSaleh-Bronkhorst:Holle:2**\n**hh:w:Turner:Samoa**\n**mpieva:Burquest19921995Descript**\n**mpieva:Ebah1990Thenounc**\n**sil16:37253**\n**sil16:37254**\n**sil16:37255**\n**sil16:37257**\n**sil16:37277**"
+  },
+  "altnames": {
+    "wals": "\nTidore",
+    "ruhlen (1987)": "\nTidore",
+    "moseley & asher (1994)": "\nTidore",
+    "multitree": "\nTidor\nTidore",
+    "lexvo": "\nTidore [en]\nTidore language [en]",
+    "elcat": "\nTidore"
+  },
+  "triggers": {
+    "lgcode": "\nNOT os AND NOT south AND tidore\nngom\nidagilom"
+  },
+  "identifier": {
+    "wals": "tid",
+    "multitree": "tvo",
+    "endangeredlanguages": "10935"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesGrimes:NMoluccas** **hh:hv:Voorhoeve:NMoluccas**",
+    "subrefs": "\n**hh:hv:GrimesGrimes:NMoluccas**\n**hh:hv:Voorhoeve:NMoluccas**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tidore (tvo-tvo) = 6b (Threatened)."
+  }
+}

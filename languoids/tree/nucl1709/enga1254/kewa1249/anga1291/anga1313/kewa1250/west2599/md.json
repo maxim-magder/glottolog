@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "West Kewa",
+    "hid": "kew",
+    "level": "language",
+    "iso639-3": "kew",
+    "latitude": "-6.32097",
+    "longitude": "143.73",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[West Kewa](https://grambank.clld.org/languages/west2599)\n[West Kewa](https://lexibank.clld.org/languages/transnewguineaorg-west-kewa)\nhttps://www.wikidata.org/entity/Q12952619"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:138**\n**hh:d:Franklin:Kewa**\n**hh:d:Franklin:Kewa:2007**\n**hh:e:Franklin:Hides-Kewa**\n**hh:g:Franklin:Kewa**\n**hh:g:Franklin:Kewa:1969**\n**hh:hv:FranklinVoorhoeve:Intersection**\n**hh:hvtyp:Franklin:Kewa**\n**hh:hvtyp:Franklin:Kewa-Engan**\n**hh:hw:Zgraggen:Gulf**\n**hh:ld:Franklin:Pandanus**\n**hh:typ:Franklin:Kewa-Existential**\n**hh:typ:Franklin:Kewa:Word**\n**hh:typ:Yarapea:Kewa-Interclausal**\n**mpieva:Pence1964Verbstud**\n**sil16:10033**\n**sil16:10714**\n**sil16:10718**\n**sil16:10727**\n**sil16:10728**\n**sil16:10731**\n**sil16:10736**\n**sil16:15693**\n**sil16:15700**\n**sil16:15707**\n**sil16:15714**\n**sil16:17712**\n**sil16:17713**\n**sil16:18594**\n**sil16:20274**\n**sil16:20275**\n**sil16:20276**\n**sil16:20277**\n**sil16:20278**\n**sil16:20279**\n**sil16:20280**\n**sil16:20281**\n**sil16:20282**\n**sil16:20283**\n**sil16:20284**\n**sil16:20285**\n**sil16:21658**\n**sil16:21967**\n**sil16:21968**\n**sil16:22181**\n**sil16:24355**\n**sil16:32858**\n**sil16:34848**\n**sil16:35146**\n**sil16:43707**\n**sil16:43855**\n**sil16:46835**\n**sil16:48463**\n**sil16:50485**\n**silpng:silpng1956-1990:literacy_and_community_development132**\n**silpng:silpng2004:139**"
+  },
+  "altnames": {
+    "multitree": "\nKewa\nKewa, West\nPasuma\nWestern Kewa",
+    "lexvo": "\nWest Kewa [en]",
+    "hhbib_lgcode": "\nKewa\nKewa-West\nSome West Kewa"
+  },
+  "triggers": {
+    "lgcode": "\nNOT phonology AND NOT social AND NOT introduction AND NOT pp AND kewa\njack\nmararoko\nhides\nnewsheet\npandanus\ninsulting"
+  },
+  "identifier": {
+    "multitree": "kew"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Franklin:Kewa** **hh:vw:Franklin:Samberigi**",
+    "subrefs": "\n**hh:hvtyp:Franklin:Kewa**\n**hh:vw:Franklin:Samberigi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kewapi, West (kew-kew) = 5* (Developing)."
+  }
+}

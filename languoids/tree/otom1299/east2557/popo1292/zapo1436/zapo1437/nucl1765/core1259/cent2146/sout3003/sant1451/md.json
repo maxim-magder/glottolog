@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Santa María Quiegolani Zapotec",
+    "hid": "zpi",
+    "level": "language",
+    "iso639-3": "zpi",
+    "latitude": "16.033",
+    "longitude": "-96.0486",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Santa María Quiegolani Zapotec](https://grambank.clld.org/languages/sant1451)\n[Zapotec (Quiegolani)](https://wals.info/languoid/lect/wals_code_zaq)\nhttps://en.wikipedia.org/wiki/Quiegolani_Zapotec\nhttps://www.wikidata.org/entity/Q7271823"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:black:00**\n**hh:g:Black:Quiegolani-Zapotec**\n**hh:g:Black:Quiegolani-Zapotec:2000**\n**hh:hv:Campbell:Central-Zapotec**\n**hh:phon:Regnier:Quiegolani-Zapotec**\n**hh:s:RegnierRegnier:Quiegolani-Zapotec**\n**mpieva:Black2000Quiegola**\n**mpieva:Smith2002Growingu**\n**sil16:33372**\n**sil16:34099**\n**sil16:35984**\n**sil16:38644**\n**sil16:41161**\n**sil16:44325**\n**sil16:50413**"
+  },
+  "altnames": {
+    "glottolog": "\nSanta Maria Quiegolani Zapotec",
+    "wals": "\nZapotec (Quiegolani)",
+    "ruhlen (1987)": "\nSapoteko",
+    "moseley & asher (1994)": "\nZapotec",
+    "multitree": "\nQuiegolani Zapotec\nSanta María Quiegolani Zapotec\nSouthern Sapoteko\nWestern Yautepec Zapotec\nZapotec\nZapotec (Quiegolani)\nZapotec, Santa María Quiegolani\nZapoteco (Santa Maria Quiegolani)\nZapoteco de Asunción Tlacolulita\nZapoteco de Santa María Quiegolani\nZapotèque d'Asunción Tlacolulita",
+    "lexvo": "\nSanta María Quiegolani Zapotec [en]",
+    "hhbib_lgcode": "\nSanta Maria Quiegolani Zapotec"
+  },
+  "triggers": {
+    "lgcode": "\nquiegolani"
+  },
+  "identifier": {
+    "wals": "zaq",
+    "multitree": "zpi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zapotec, Santa María Quiegolani (zpi-zpi) = 6b* (Threatened)."
+  }
+}

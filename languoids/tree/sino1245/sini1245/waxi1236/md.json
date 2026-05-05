@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Waxianghua",
+    "hid": "wxa",
+    "level": "language",
+    "iso639-3": "wxa",
+    "latitude": "28.644",
+    "longitude": "110.362",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2252191\nhttps://en.wikipedia.org/wiki/Waxiang_Chinese"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chappell:Sinitic** **hh:v:BaxterSagart:Old-Chinese**",
+    "subrefs": "\n**hh:hv:Chappell:Sinitic**\n**hh:v:BaxterSagart:Old-Chinese**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Wu:Waxiang**\n**hh:e:Wu:Waxiang**\n**hh:g:Deng:Xianghua**\n**hh:phon:Wu:Waxianghua**\n**hh:phon:Yang:Xiang**\n**hh:phon:Yang:Xiang:2004**\n**hh:phon:Yang:Xiangxi-Xianghua**\n**hh:phonv:Jie:Xiangxi-Xiang**\n**hh:phonv:Li:Xiangxi-Xiang**\n**hh:phonv:Qu:Xiangxi-Xiang**\n**hh:phonv:Zheng:Xiang**\n**hh:phonvw:Chen:Liangjiatan-Xianghua**\n**hh:sd:WuRuiqing:Waxianghua**\n**hh:sd:Yang:Yuanling-Xiang**\n**hh:soc:Qu:Xiangxi**\n**hh:typ:Wu:Locative-Waxiang**\n**mpieva:Xu2008Spaceinl**"
+  },
+  "altnames": {
+    "multitree": "\nVasianhuá\nWaxiang\nWaxianghua\nWogang\nXianghua",
+    "lexvo": "\nWaxianghua [en]",
+    "hhbib_lgcode": "\nWaxiang (Lijiatian)"
+  },
+  "triggers": {
+    "lgcode": "\nspace AND china\nwaxianghua\nguzhang"
+  },
+  "identifier": {
+    "multitree": "wxa"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Waxiang (1479-wxa) = Vulnerable"
+  }
+}

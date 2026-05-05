@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Akwa",
+    "hid": "akw",
+    "level": "language",
+    "iso639-3": "akw",
+    "latitude": "-0.39897",
+    "longitude": "15.4623",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG"
+    ],
+    "links": "\n[Akwa](https://wals.info/languoid/lect/wals_code_awk)\nhttps://en.wikipedia.org/wiki/Akwa_language\nhttps://www.wikidata.org/entity/Q34802"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aksenova:toporova:02**\n**eballiso2009:28707**\n**hh:g:AksenovaToporova:Akva**\n**hh:h:NdingaOba:Congo-Brazzaville**\n**hh:hphontyp:NdingaOba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:phon:Apondza:Ndongonyama**\n**hh:phon:Mokoko:Akwa**\n**hh:typ:Urbain:Akwa**\n**mpieva:Aksenova2002Grammati**"
+  },
+  "altnames": {
+    "lexvo": "\nAkwa [en]",
+    "hhbib_lgcode": "\nAkwá\nC22_Akwa\nNdongo nyama\nNdongonyama"
+  },
+  "triggers": {
+    "lgcode": "\nakva"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Expansion**:S4 **hh:sv:Kouarata:Mbochi-Variations**",
+    "subrefs": "\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:sv:Kouarata:Mbochi-Variations**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Akwa (akw-akw) = 6b* (Threatened)."
+  }
+}

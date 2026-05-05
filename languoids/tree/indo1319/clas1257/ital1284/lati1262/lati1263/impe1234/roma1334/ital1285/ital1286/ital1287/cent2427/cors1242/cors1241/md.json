@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Corsican",
+    "hid": "cos",
+    "level": "language",
+    "iso639-3": "cos",
+    "latitude": "41.7",
+    "longitude": "9.25537",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FR",
+      "IT"
+    ],
+    "links": "\n[Corsican](https://endangeredlanguages.com/lang/3171)\n[Corsican](https://grambank.clld.org/languages/cors1241)\nhttps://en.wikipedia.org/wiki/Corsican_language\nhttps://www.wikidata.org/entity/Q33111"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:g:Fusina:Corse**\n**hh:g:Giudicelli:Chisa**\n**hh:hdial:Dalbera:Corses**\n**hh:hvw:Latham:Comparative**\n**hh:ld:Dalbera:Corsica**\n**hh:s:Dalbera:Corse**\n**hh:s:Giacomo:Corse**\n**hh:s:Melillo:Corsica**\n**hh:s:Papi:Corse**\n**hh:s:Papi:Corse:2015**\n**hh:ssoc:Chiorboli:Corses**\n**mpieva:1988Italieni**"
+  },
+  "altnames": {
+    "multitree": "\nCorse\nCorsi\nCorsican\nCorso\nCorsu",
+    "lexvo": "\nBahasa Corsica [ms]\nBahasa Korsika [id]\nCors [ca]\nCorse [fr]\nCorseg [cy]\nCorsica-gí [nan]\nCorsicaans [li]\nCorsicagiella [se]\nCorsican [en]\nCorsican language [en]\nCorso [frp]\nCorsu [ast]\nCòrs [oc]\nIdioma corso [an]\nJęzyk korsykański [pl]\nKhô-sî-kâ-ngî [hak]\nKorseg [br]\nKorsika keel [et]\nKorsika lingvo [eo]\nKorsikaans [af]\nKorsikaca [tr]\nKorsikan kieli [fi]\nKorsikan tili [crh]\nKorsikansk [da]\nKorsikanska [sv]\nKorsikera [eu]\nKorsikiečių kalba [lt]\nKorsikāņu valoda [lv]\nKorsische Spraak [nds]\nKorsische Sprache [de]\nKorsičtina [cs]\nKorsîkî [ku]\nKorzikai nyelv [hu]\nKorzički jezik [hr]\nLengua corsa [lij]\nLimba corsicana [sc]\nLimba corsicană [ro]\nLingua corsa [co]\nLíngua corsa [pt]\ncorse [fr]\nŁéngua corsa [vec]\nΚορσικανική γλώσσα [el]\nКорзикански јазик [mk]\nКорсика тили [ky]\nКорсикан чĕлхи [cv]\nКорсиканский язык [ru]\nزبان کرسی [fa]\nكورسىكا تىلى [ug]\nلغة كورسية [ar]\nコルシカ語 [ja]\n科西嘉语 [zh]\n코르시카어 [ko]",
+    "elcat": "\nCorse\nCorsi\nCorsican\nCorso\nCorsu"
+  },
+  "triggers": {
+    "lgcode": "\ncorsica\nchisa\ncorse\nsardisch"
+  },
+  "identifier": {
+    "multitree": "cos",
+    "endangeredlanguages": "3171"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tagliavini:Neolatine**:411-417 **hh:sv:Wagner:Sarda**:393-394 **hh:s:Jones:Sardinian**:314",
+    "subrefs": "\n**hh:s:Jones:Sardinian**\n**hh:sv:Wagner:Sarda**\n**hh:hv:Tagliavini:Neolatine**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Corsican (3171-cos) = At risk (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

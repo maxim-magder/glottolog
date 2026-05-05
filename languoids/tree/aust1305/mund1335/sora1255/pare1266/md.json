@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Gorum-Parenga",
+    "hid": "pcj",
+    "level": "language",
+    "iso639-3": "pcj",
+    "latitude": "19.075",
+    "longitude": "83.9723",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Gorum](https://endangeredlanguages.com/lang/4953)\n[Gorum-Parenga](https://grambank.clld.org/languages/pare1266)\nhttps://en.wikipedia.org/wiki/Gorum_language\nhttps://phoible.org/languages/pare1266\nhttps://www.wikidata.org/entity/Q3111396"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:rau:66**\n**hh:hs:Mahapatra:Orissa**\n**hh:hvphon:Zide:Sora-Juray-Gorum**\n**hh:s:AndersonRau:Gorum**\n**hh:s:Aze:Parengi-Gorum**\n**hh:s:Bhattacharya:Parengi**\n**hh:t:AzeAze:Parengi**\n**hh:typ:Rau:Gorum**\n**hh:typ:Rau:Gorum:Voice**\n**hh:typd:Mahapatra:Parenga**\n**ldh:item_2149386**\n**ldh:item_2149389**\n**ldh:item_2149392**\n**ldh:item_407712**\n**mpieva:Zide1979Areconst**\n**sil16:10055**\n**sil16:10133**\n**sil16:26469**\n**sil16:26471**\n**sil16:26473**"
+  },
+  "altnames": {
+    "multitree": "\nGadaba\nGorum\nGorum Sama\nGorumo\nPareng\nParenga\nParenga Parja\nParengi\nParengi Poroja\nParenji\nPoroja",
+    "lexvo": "\nParenga [en]",
+    "hhbib_lgcode": "\nGorum\nParenga\nParengi",
+    "elcat": "\nGadaba\nGorum\nGorum Sama\nPareng\nParenga Parja\nParengi\nParengi Poroja\nParenji\nPoroja"
+  },
+  "triggers": {
+    "lgcode": "\nparengi\ngorum"
+  },
+  "identifier": {
+    "multitree": "pcj",
+    "endangeredlanguages": "4953"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderson:Munda** **hh:hvld:Anderson:Proto-Munda**:159-160",
+    "subrefs": "\n**hh:hv:Anderson:Munda**\n**hh:hvld:Anderson:Proto-Munda**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Gorum (4953-pcj) = Endangered (60 percent certain, based on the evidence available) (Almost no one under 30 speaks or understands it. Gorum speakers often deny knowledge of the language.) [Anderson 2012](cldf:anderson:12)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Abui",
+    "hid": "abz",
+    "level": "language",
+    "iso639-3": "abz",
+    "latitude": "-8.31058",
+    "longitude": "124.588",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Abui](https://endangeredlanguages.com/lang/1381)\n[Abui](https://grambank.clld.org/languages/abui1241)\n[Abui](https://lexibank.clld.org/languages/robinsonap-abui)\n[Abui](https://wals.info/languoid/lect/wals_code_abv)\n[Abui (Makadai Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-abui-makadai)\nhttps://en.wikipedia.org/wiki/Abui_language\nhttps://www.wikidata.org/entity/Q2822110"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baird:04**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:delpada:14**\n**cldf:dubois:40**\n**cldf:dubois:41**\n**cldf:dubois:45**\n**cldf:lewis:ed:09**\n**hh:d:KratochvilDeplada:Abui**\n**hh:e:DuBois:Alor**\n**hh:et:Nicolspeyer:Aloreesche**\n**hh:g:Kratochvil:Abui**\n**hh:hvw:Stokhof:Alor**\n**hh:ldsoc:Saad:Abui-Malay**\n**hh:s:Saad:Abui**\n**hh:s:Stokhof:Abui**\n**hh:svsoc:Saad:Abui**\n**hh:t:KratochvilDelpada:Abui**\n**hh:typ:KlamerSaad:Abui**\n**hh:w:Stokhofetal:Holle:11**\n**hh:w:Stokhofetal:Holle:6**"
+  },
+  "altnames": {
+    "multitree": "\n\"Barawahing\"\nAbui\nBarue\nNamatalaki",
+    "lexvo": "\nAbui [en]\nAbui language [en]\nLingua abui [gl]",
+    "hhbib_lgcode": "\n2xAbui\nAteng Melang\nAtimelang\nMakadal\nTakalelang",
+    "elcat": "\n\"Barawahing\"\nAbui\nBarue\nNamatalaki"
+  },
+  "triggers": {
+    "lgcode": "\nabui\naloreesche\nbevolkingsgroep"
+  },
+  "identifier": {
+    "wals": "abv",
+    "multitree": "abz",
+    "endangeredlanguages": "1381"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Abui (1381-abz) = Threatened (100 percent certain, based on the evidence available) (The linguistic situation varies from village to village. Those that reside closer to the shore and coastal markets use Malay with much greater frequency than those that reside further inland. In coastal areas, Abui children are brought up speaking Malay, and they do not learn Abui until they are older. The opposite is true in inland communities, where children are often monolingual in Abui until about age five, when they learn Malay.) [Kratochvíl 2007](cldf:kratochvil:07)"
+  }
+}

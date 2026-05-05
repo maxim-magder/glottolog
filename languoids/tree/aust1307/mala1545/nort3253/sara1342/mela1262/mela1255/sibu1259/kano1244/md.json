@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Kanowit-Tanjong Melanau",
+    "hid": "kxn",
+    "level": "language",
+    "iso639-3": "kxn",
+    "latitude": "2.03781",
+    "longitude": "112.383",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Kanowit-Tanjong](https://endangeredlanguages.com/lang/4258)\nhttps://www.wikidata.org/entity/Q6364300\nhttps://en.wikipedia.org/wiki/Kanowit_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:smith:16**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Rensch:Central-Sarawak**\n**hh:hvw:Chou:Melanau**\n**hh:hvw:MohamedYusof:Sarawak:**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:w:Urquhart:Interior-Dialects**\n**iso6393:2007-235**"
+  },
+  "altnames": {
+    "multitree": "\nKanowit\nKanowit-Tanjong",
+    "lexvo": "\nKanowit-Tanjong Melanau [en]",
+    "hhbib_lgcode": "\nKanowit\nKanowit (KT)\nMelanau-Kanowit-Tanjong\nTanjong\nTanjong (TG)",
+    "elcat": "\nKanowit\nKanowit-Tanjong"
+  },
+  "identifier": {
+    "multitree": "kxn",
+    "endangeredlanguages": "4258"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kroeger:Sarawak**:161-162 **hh:hvw:Smith:Borneo**:99-111",
+    "subrefs": "\n**hh:hv:Kroeger:Sarawak**\n**hh:hvw:Smith:Borneo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kanowit-Tanjong (4258-kxn) = Endangered (100 percent certain, based on the evidence available) (Kanowit is not being passed on to the next generation.) [Smith 2016](cldf:smith:16)"
+  }
+}

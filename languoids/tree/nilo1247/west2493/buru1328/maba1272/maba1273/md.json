@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mabaan",
+    "hid": "mfz",
+    "level": "language",
+    "iso639-3": "mfz",
+    "latitude": "9.81455",
+    "longitude": "33.5404",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "SS"
+    ],
+    "links": "\n[Mabaan](https://endangeredlanguages.com/lang/5925)\nhttps://phoible.org/languages/maba1273\nhttps://www.wikidata.org/entity/Q20526385"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:andersen:92**\n**cldf:andersen:99:3**\n**cldf:andersen:nd**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:grottanelli:48**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:seligman:seligman:32**\n**eballiso2009:11645**\n**eballiso2009:12430**\n**eballiso2009:27483**\n**eballiso2009:35763**\n**hh:e:Delmet:Mabaan**\n**hh:e:Delmet:Maban**\n**hh:e:Roberts:Mabaan**\n**hh:h:Gilley:Lwoian**\n**hh:he:Davies:Nile-Sobat**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hvtyp:Storch:WNilotic**\n**hh:hw:Evans-Pritchard:Fung**\n**hh:typ:Andersen:Mabaan**\n**hh:typ:Andersen:Mabaan:2024**\n**hh:typ:Andersen:Mabaan:Logophoricity**\n**hh:w:Knoblecher:Africae**"
+  },
+  "altnames": {
+    "multitree": "\nBarga\nGura\nMaaban\nMabaan\nMaban\nMeban\nSouthern Burun\nSüd-Burun\nTonko\nTungan\nUlu",
+    "lexvo": "\nMabaan [en]",
+    "hhbib_lgcode": "\nAbugonos Burum\nSouthern Burun\nUlu",
+    "elcat": "\nBarga\nGura\nMaaban\nMabaan\nMaban\nMeban\nSouthern Burun\nSüd-Burun\nTonko\nTungan\nUlu"
+  },
+  "triggers": {
+    "lgcode": "\nlwoian\njumjum\nniloti\nmabaan"
+  },
+  "identifier": {
+    "multitree": "mfz",
+    "endangeredlanguages": "5925"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mabaan (5925-mfz) = Severely Endangered (20 percent certain, based on the evidence available) [n.a. 1998](cldf:np:98:1)"
+  }
+}

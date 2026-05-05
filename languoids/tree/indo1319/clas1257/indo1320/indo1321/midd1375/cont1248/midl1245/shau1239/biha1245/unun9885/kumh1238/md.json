@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kumhali",
+    "hid": "kra",
+    "level": "language",
+    "iso639-3": "kra",
+    "latitude": "27.8297",
+    "longitude": "84.1357",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Kumhali](https://endangeredlanguages.com/lang/4438)\nhttps://www.wikidata.org/entity/Q13580783\nhttps://en.wikipedia.org/wiki/Kumhali_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDriem:Himalayas**:1175",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:gautam:00:1**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**hh:d:Gautam:Kumal:2019**\n**hh:he:GautamThapa:Nepal**\n**hh:s:Parajuli:Kumal**\n**hh:s:Sharma:Kumal**\n**hh:soc:Rai:Kumal**\n**hh:typ:Gautam:Kumal**\n**hh:typ:Gautam:Kumal-Verbs**\n**hh:typ:Gautam:Kumal:2011**\n**hh:typ:Kumal:Kumala**"
+  },
+  "altnames": {
+    "multitree": "\nKum?le\nKumali\nKumbale\nKumhale\nKumhali\nKumkale",
+    "lexvo": "\nKumhali [en]",
+    "hhbib_lgcode": "\nKumal",
+    "elcat": "\nKumali\nKumbale\nKumhale\nKumhali\nKumkale"
+  },
+  "triggers": {
+    "lgcode": "\nkumal"
+  },
+  "identifier": {
+    "multitree": "kra",
+    "endangeredlanguages": "4438"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kumhali (4438-kra) = Endangered (100 percent certain, based on the evidence available) ([E]ven the elderly are speaking Nepali half the time with each other. Most children do not speak Kumal at all.) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

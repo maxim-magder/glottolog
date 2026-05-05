@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Cerma",
+    "hid": "cme",
+    "level": "language",
+    "iso639-3": "cme",
+    "latitude": "10.1245",
+    "longitude": "-4.94917",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI"
+    ],
+    "links": "\n[Kirma](https://wals.info/languoid/lect/wals_code_kir)\nhttps://en.wikipedia.org/wiki/Cerma_language\nhttps://phoible.org/languages/cerm1238\nhttps://www.wikidata.org/entity/Q35074"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gueldemann:roncador:ed:02:3**\n**cldf:huerlimann:pike:85**\n**eballiso2009:14421**\n**eballiso2009:21812**\n**eballiso2009:28684**\n**eballiso2009:9369**\n**hh:ew:Tauxier:Gouin-Tourouka**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:hv:Manessy:Nominale-Soudan**\n**hh:hv:Manessy:VoltaiquesCentrales**\n**hh:hvw:Swadesh:Gur**\n**hh:s:Prost:Kirma**\n**hh:v:Miehe:Cerma-Curama**\n**hh:w:Prost:Voltaiques**\n**hh:w:Tauxier:Dorhosie**\n**sil16:17173**\n**sil16:19953**\n**sil16:23493**\n**sil16:34155**\n**sil16:35152**\n**sil16:35982**\n**sil16:36028**\n**sil16:36029**\n**sil16:36518**\n**sil16:39738**\n**sil16:39750**\n**sil16:40452**\n**sil16:40455**\n**sil16:40456**\n**sil16:40457**\n**sil16:40458**\n**sil16:40459**\n**sil16:40460**\n**sil16:40461**\n**sil16:40462**\n**sil16:40463**\n**sil16:40472**\n**sil16:41384**\n**sil16:41390**\n**sil16:41497**\n**sil16:41498**\n**sil16:41612**\n**sil16:43777**\n**sil16:46640**\n**sil16:47390**"
+  },
+  "altnames": {
+    "wals": "\nKirma",
+    "wals other": "\nGwe",
+    "ruhlen (1987)": "\nKirma",
+    "moseley & asher (1994)": "\nKirma",
+    "multitree": "\nCerma\nGouin\nGuin\nGwe\nGwen\nKirma\nMbouin",
+    "lexvo": "\nCerma [en]",
+    "hhbib_lgcode": "\nCerma (Gouin)\nGouin\nGudrun Miehe: A1. Cerma (Gouin)\nKirma"
+  },
+  "triggers": {
+    "lgcode": "\nciranba\nneltierang{mang{\nkanng{ma\nsaaya\nnelmang{cuo{ng{\nnelmang{\nniwuoning{\ngouin\nmuo{\ngbann\ngbannini\nkuo{nhelle\npigantieng{\nyung{gu\npadoro\nciraang{\nkirma\ncerman"
+  },
+  "identifier": {
+    "wals": "kir",
+    "multitree": "cme"
+  },
+  "classification": {
+    "sub": "**hh:v:Miehe:Cerma-Curama**",
+    "subrefs": "\n**hh:v:Miehe:Cerma-Curama**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cerma (cme-cme) = 5 (Developing)."
+  }
+}

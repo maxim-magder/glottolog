@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Dar Fur Daju",
+    "hid": "daj",
+    "level": "language",
+    "iso639-3": "daj",
+    "latitude": "12.2598",
+    "longitude": "25.3127",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56370\nhttps://en.wikipedia.org/wiki/Nyala_language_(Sudan)\nhttps://phoible.org/languages/darf1239\n[Daju (Dar Fur)](https://wals.info/languoid/lect/wals_code_ddf)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1439**\n**cldf:thelwall:81**\n**eballiso2009:19828**\n**eballiso2009:27057**\n**eballiso2009:27439**\n**eballiso2009:39471**\n**eballiso2009:44273**\n**eballiso2009:45758**\n**eballiso2009:963**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hv:Thelwall:Daju**\n**hh:hv:Thelwall:Nubian-Daju**\n**hh:hvw:Thelwall:NubianDajuDinka**\n**hh:typ:Heine:AfricanNC**\n**hh:typ:Ismail:Daju**\n**hh:w:MacMichael:Darfur**\n**hh:w:Thelwall:Birgid**"
+  },
+  "altnames": {
+    "wals": "\nDaju (Dar Fur)",
+    "wals other": "\nDaju\nDar Fur Daju\nDar Fur dialect",
+    "ruhlen (1987)": "\nNyala",
+    "moseley & asher (1994)": "\nLagawa, Nyala",
+    "multitree": "\nBeke\nDagu\nDagu of Darfur\nDaju (Dar Fur)\nDaju Ferne\nDaju, Dar Fur\nDār-Fūr\nFininga\nKondschara\nKongara\nLagawa\nNyala\nNyala-Lagowa",
+    "lexvo": "\nDar Fur Daju [en]",
+    "hhbib_lgcode": "\nDago\nDagu of Darfur\nDaju Nyala\nDaju of West Kordofan\nDaju-Dar Fur\nDaju-Lagawa\nLagawa\nLagowa\nNyala"
+  },
+  "triggers": {
+    "lgcode": "\ndago\ngroup AND daju\nparatonium\nlagawa"
+  },
+  "identifier": {
+    "wals": "genus/daju",
+    "multitree": "daj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thelwall:Daju**",
+    "subrefs": "\n**hh:hv:Thelwall:Daju**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Daju, Dar Fur (daj-daj) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "South Sudanese Creole Arabic",
+    "hid": "pga",
+    "level": "language",
+    "iso639-3": "pga",
+    "latitude": "5.654",
+    "longitude": "28.774",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Juba Arabic](https://apics-online.info/contributions/64)\n[South Sudanese Creole Arabic](https://grambank.clld.org/languages/suda1237)\nhttps://en.wikipedia.org/wiki/Juba_Arabic\nhttps://www.wikidata.org/entity/Q1262143"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:manfredi:05**\n**cldf:miller:01:2**\n**cldf:miller:84**\n**cldf:miller:89**\n**cldf:miller:93:3**\n**cldf:petrollino:07**\n**cldf:tosco:95**\n**cldf:watson:ola:84**\n**eballiso2009:17402**\n**eballiso2009:21940**\n**eballiso2009:23254**\n**eballiso2009:29455**\n**eballiso2009:29457**\n**eballiso2009:29460**\n**eballiso2009:31664**\n**eballiso2009:33509**\n**eballiso2009:39709**\n**eballiso2009:39710**\n**eballiso2009:46877**\n**eballiso2009:46879**\n**eballiso2009:46933**\n**eballiso2009:46937**\n**eballiso2009:47018**\n**eballiso2009:48629**\n**eballiso2009:52492**\n**eballiso2009:53268**\n**eballiso2009:7648**\n**eballiso2009:7649**\n**eballiso2009:7650**\n**hh:g:Manfredi:Arabi-Juba**\n**hh:g:Nakao:Juba-Arabia**\n**hh:h:KayeTosco:Creole**\n**hh:hld:Bell:Pidgin-Arabic**\n**hh:hld:Luffin:Arabic-Pidgins-Creoles**\n**hh:hld:Prokosch:Kontaktsprachen**\n**hh:hsoc:Nhial:Ki-Nubi**\n**hh:ld:Nakao:Juba-Arabic-Youth**\n**hh:ld:Yokwe:Juba**\n**hh:ldsoc:Miller:Argotique-Juba**\n**hh:s:Kumodado:Pidgin-Kadugli**\n**hh:s:ManfrediPetrollino:Juba-Arabic**\n**hh:s:Miller:Juba-Arabic**\n**hh:s:Watson:Juba-Arabic**\n**hh:s:Watson:Juba-Arabic:1989**\n**hh:s:Watson:Juba-Arabic:2015**\n**hh:sd:SmithAma:Juba-Arabic**\n**hh:sd:SmithAma:Juba-Arabic:1985**\n**hh:soc:Mahmud:SSudan-Arabic**\n**hh:soc:Manfredi:Arabic-Kadugli**\n**hh:soc:Miller:Juba**\n**hh:soc:Nakao:Sudan-Arabia**\n**hh:tsoc:Miller:Arabe-Sud-Soudan**\n**hh:v:Lang:Juba-Arabic-Kinubi**\n**mpieva:Smith2005JubaArab**\n**sil16:29243**\n**sil16:48949**"
+  },
+  "altnames": {
+    "multitree": "\nArabic, Sudanese Creole\nJuba Arabic\nPidgin Arabic\nSouthern Sudan Arabic\nSudanese Creole Arabic",
+    "lexvo": "\nJuba Arabic [en]\nSudanese Creole Arabic [en]",
+    "hhbib_lgcode": "\nArabic in Equatoria\nJuba Arabic\nJuba Arabic Youth Language\nJuba-Arabisch\nSouth Sudan Arabic in Australia\nSudanese Creole Arabic"
+  },
+  "triggers": {
+    "lgcode": "\nkamuus\ntribunal\ningliizi\nwavelike\nNOT study AND arabic AND juba\nleveling\ntribunaux\nlexample"
+  },
+  "identifier": {
+    "multitree": "pga"
+  },
+  "classification": {
+    "sub": "**hh:hv:ManfrediRoset:Baggara**:1-2",
+    "subrefs": "\n**hh:hv:ManfrediRoset:Baggara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Juba (pga-pga) = 3 (Wider communication). Juba Arabic originated as a pidgin language among southern slaves, soldiers, and servants in 19th century trading camps and Turco-Egyptian government stations. Unofficial lingua franca of local government, trade, and urban interaction."
+  }
+}

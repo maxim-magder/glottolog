@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Avau",
+    "hid": "avb",
+    "level": "language",
+    "iso639-3": "avb",
+    "latitude": "-6.24342",
+    "longitude": "150.427",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Avau](https://lexibank.clld.org/languages/abvdoceanic-Avau)\nhttps://en.wikipedia.org/wiki/Avau_language\nhttps://www.wikidata.org/entity/Q12627412"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Ross:WMelanesia**\n**hh:w:MacKenzieetal:Ambul**\n**hh:w:MacKenzieetal:Bebeli**\n**hh:wsoc:Spenceretal:Amio-Gelimi**\n**hh:wsoc:VanCottSpencer:Avau**\n**sil16:15971**"
+  },
+  "altnames": {
+    "multitree": "\nAvau\nAwau",
+    "lexvo": "\nAvau [en]",
+    "hhbib_lgcode": "\nAkam\nAkiwak\nAringring\nAsiwot\nAvihain\nLulakevi"
+  },
+  "triggers": {
+    "lgcode": "\nsouth AND communities AND britain"
+  },
+  "identifier": {
+    "multitree": "avb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Avau (avb-avb) = 6a (Vigorous)."
+  }
+}

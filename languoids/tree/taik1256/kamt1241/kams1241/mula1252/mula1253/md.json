@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mulam",
+    "hid": "mlm",
+    "level": "language",
+    "iso639-3": "mlm",
+    "latitude": "24.8151",
+    "longitude": "108.928",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Mulam](https://endangeredlanguages.com/lang/1431)\nhttps://www.wikidata.org/entity/Q3092284\nhttps://en.wikipedia.org/wiki/Mulam_language\n[Mulao](https://wals.info/languoid/lect/wals_code_mul)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2770**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:jung:zheng:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:wang:guoqiao:93**\n**cldf:wang:wangjun:etal:80**\n**cldf:yin:14**\n**hh:d:Yin:Mulao**\n**hh:g:Yin:Yincun-Mulam**\n**hh:g:Yin:Yincun-Mulam:2012**\n**hh:hv:Thurgood:Proto-Kam-Sui**\n**hh:s:JunGuoqiao:Mulao**\n**hh:s:JunGuoqiao:Mulao:1980**\n**hh:s:Wang:Zhuang-Dong**\n**hh:typ:Yue:Huangjin-Mulao**\n**hh:v:Deng:Liucheng-Baixinghua-Mulao**\n**hh:v:Guoqiao:Mulam**\n**hh:w:Burusphat:Zhuang-Dong**\n**mpieva:Bo2003Mulaoyuy**\n**mpieva:Wang1980Mulaoyuj**\n**mpieva:Wang1993Anoutlin**\n**sil16:22234**"
+  },
+  "altnames": {
+    "wals": "\nMulao",
+    "ruhlen (1987)": "\nMulam",
+    "moseley & asher (1994)": "\nMulao",
+    "multitree": "\nAbo\nAyo\nMolao\nMulam\nMulamo\nMulao\nMulao Miao\nMuliao\nMulou",
+    "lexvo": "\nMulam [en]",
+    "hhbib_lgcode": "\n403-510 Mulam\nHuangjin Mulao\nLuocheng Mulao\nMulao\nYincun Mulam",
+    "elcat": "\nAbo\nMolao\nMulam\nMulao\nMulao Miao\nMuliao\nMulou\n仫佬語"
+  },
+  "triggers": {
+    "lgcode": "\nmulao\nmulam"
+  },
+  "identifier": {
+    "wals": "mul",
+    "multitree": "mlm",
+    "endangeredlanguages": "1431"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thurgood:Proto-Kam-Sui**",
+    "subrefs": "\n**hh:hv:Thurgood:Proto-Kam-Sui**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mulam (1431-mlm) = Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

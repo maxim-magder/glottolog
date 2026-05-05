@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Berom",
+    "hid": "bom",
+    "level": "language",
+    "iso639-3": "bom",
+    "latitude": "9.67037",
+    "longitude": "8.81221",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Birom](https://wals.info/languoid/lect/wals_code_bir)\nhttps://en.wikipedia.org/wiki/Berom_language\nhttps://phoible.org/languages/bero1242\nhttps://www.wikidata.org/entity/Q35013"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:wolff:59**\n**eballiso2009:10729**\n**eballiso2009:10985**\n**eballiso2009:23761**\n**eballiso2009:25907**\n**eballiso2009:25910**\n**eballiso2009:33708**\n**eballiso2009:34768**\n**eballiso2009:43694**\n**eballiso2009:46362**\n**eballiso2009:48623**\n**eballiso2009:48626**\n**eballiso2009:48630**\n**eballiso2009:6141**\n**hh:d:Bouquiaux:Birom**\n**hh:e:Baker:Birom**\n**hh:e:Jacobs:Berom**\n**hh:e:Smedley:Birom**\n**hh:g:Bouquiaux:Birom**\n**hh:g:Bouquiaux:Birom:1963**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Ames:Plateau**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvtyp:Bouquiaux:Plateau**\n**hh:hvw:Blench:Beromic**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Johnston:Semi-Bantu-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Bristow:Birom**\n**hh:t:Bouquiaux:Birom**\n**hh:t:Bouquiaux:Birom:1962**\n**hh:typ:Wolff:Berom**\n**hh:w:Armstrong:West-African**\n**hh:w:Blench:Nincut**\n**hh:w:Blench:Tahoss**\n**hh:w:Gowers:Bauchi**\n**mpieva:Bouquiaux1970TextesBi**\n**mpieva:Bouquiaux2001Dictionn**\n**sil16:14334**\n**sil16:21473**\n**sil16:23599**"
+  },
+  "altnames": {
+    "wals": "\nBirom",
+    "wals other": "\nGbang\nKibo",
+    "ruhlen (1987)": "\nBirom",
+    "moseley & asher (1994)": "\nBirom",
+    "multitree": "\n\"Shosho\"\nAboro\nAfango\nBerom\nBerum\nBirom\nBoro\nBoro-Aboro\nCen Berom\nChenberom\nGbang\nKibbo\nKibbun\nKibo\nKibyen",
+    "lexvo": "\nBerom [en]\nBeromeg [br]\nBerons [pt]",
+    "hhbib_lgcode": "\nAboro\nAfango\nBerom C.\nBerom F.\nBerom R.\nBirom\nBurum\nDu\nEastern Berom\nHoss\nKibyen\nKibyen/Bukuru\nNincut\nTahoss"
+  },
+  "triggers": {
+    "lgcode": "\nnincut\nberomic\nberom\nbirom"
+  },
+  "identifier": {
+    "wals": "bir",
+    "multitree": "bom"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:23-24",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Berom (bom-bom) = 5 (Developing)."
+  }
+}

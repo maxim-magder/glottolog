@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Pekal",
+    "hid": "pel",
+    "level": "language",
+    "iso639-3": "pel",
+    "latitude": "-3.02248",
+    "longitude": "101.691",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3241781\nhttps://en.wikipedia.org/wiki/Pekal_language"
+  },
+  "classification": {
+    "sub": "**hh:hvw:McDowell:Southern-Sumatra**",
+    "subrefs": "\n**hh:hvw:McDowell:Southern-Sumatra**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:s:Syahwinetal:Pekal**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nPekal",
+    "lexvo": "\nPekal [en]"
+  },
+  "triggers": {
+    "lgcode": "\npekal\nword AND tomini"
+  },
+  "identifier": {
+    "multitree": "pel"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pekal (pel-pel) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Soic",
+    "hid": "soj",
+    "level": "language",
+    "iso639-3": "soj",
+    "latitude": "31.8542",
+    "longitude": "54.5964",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Soi](https://endangeredlanguages.com/lang/5402)\nhttps://www.wikidata.org/entity/Q7930463\nhttps://en.wikipedia.org/wiki/Soi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borjian:13:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:worth:61:2**\n**hh:d:Abbas:Bizuvi**\n**hh:d:Alijanzada:Aran-Bidgol**\n**hh:d:Safari:Dalijan**\n**hh:d:Zargari:Jawsaqan**\n**hh:hs:Rogova:Iranskie**\n**hh:hvld:Borjian:Judeo-Median**\n**hh:hvs:Andreas:Dialekte**\n**hh:hvs:MannHadank:Kurdisch-Persische**\n**hh:hvst:Lecoq:Kermaniens**\n**hh:hvw:Zhukovskij:Persidskix:1**\n**hh:hvw:Zhukovskij:Persidskix:2**\n**hh:ld:Borjian:Kesa**\n**hh:s:Borjian:Jowshaqan**\n**hh:s:Borjian:Jowshaqan:2010**\n**hh:s:Borjian:Judeo-Kashani**\n**hh:s:Borjian:Meymai**\n**hh:s:Lazard:Abu-Zeyd-Abad**\n**hh:s:Madani:Abuzeydabadi**\n**hh:s:Yarshater:Aran-Bidgol**\n**hh:s:Yarshater:Jewish-Kashan**\n**hh:typ:Haghbin:Raji**\n**hh:typ:Lambton:Persian**\n**hh:typ:Taheri:Jowshaqani**\n**hh:w:Majidi:Kasan-Mahallat**"
+  },
+  "altnames": {
+    "multitree": "\nIran\nSoi",
+    "lexvo": "\nSoi [en]",
+    "hhbib_lgcode": "\nAbuzeydābādi\nAran-Bidgol\nBarzoki dialect of the Rāji\nDalijan in the Raji/Kashan group of Central Plateau\nDzhavshakani\nEvreev Goroda Kašana\nJawshaqani\nJawšaqān-e Qāli\nJewish dialect of Kāshān\nJowshaqani in the Raji/Kashan group of Central Plateau\nJudeo-Kashani\nKashan-Mahallat-Meyma\nKashan/Raji\nKesha\nKeshe\nKeša'i\nKoxrud\nKoxrudi\nMeime\nMeimei\nMeymai\nQohrud\nQohrudi\nSo-Kohrud\nSoi\nSôî\nTāri",
+    "elcat": "\nSo'i\nSoh\nSohi\nSoi",
+    "glottolog": "\nSoi"
+  },
+  "triggers": {
+    "lgcode": "\nsiberiennes"
+  },
+  "identifier": {
+    "multitree": "soj",
+    "endangeredlanguages": "5402"
+  },
+  "classification": {
+    "sub": "**hh:h:Lecoq:CIran** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:h:Lecoq:CIran**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Soi (5402-soj) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

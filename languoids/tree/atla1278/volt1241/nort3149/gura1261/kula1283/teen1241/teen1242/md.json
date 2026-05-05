@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Téén",
+    "hid": "lor",
+    "level": "language",
+    "iso639-3": "lor",
+    "latitude": "9.84556",
+    "longitude": "-3.71183",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36467\nhttps://en.wikipedia.org/wiki/Lorhon_language\nhttps://phoible.org/languages/teen1242"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4274**\n**eballiso2009:59365**\n**hh:g:Sib:Teen**\n**hh:h:Elders:Kulango**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Dittmer:Obervolta**\n**hh:hew:Labouret:Lobi**\n**hh:hew:Tauxier:Bondoukou**\n**hh:hv:Manessy:Haute-Volta**\n**hh:hvw:MensahTchagbale:Gur**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:phon:LeenhoutsPerson:Loron**\n**hh:typ:LeenhoutsPike:Tenhe**\n**hh:typ:Person:Loron**\n**sil16:11413**\n**sil16:15246**\n**sil16:17350**\n**sil16:17354**\n**sil16:18760**\n**sil16:18761**\n**sil16:19444**\n**sil16:19445**\n**sil16:20058**\n**sil16:21516**\n**sil16:33873**\n**sil16:36229**"
+  },
+  "altnames": {
+    "glottolog": "\nTeen",
+    "multitree": "\nLoghon\nLorhon\nLoron\nNabe\nTeen\nTegesie\nTegesye\nTese\nTénhé\nTéén",
+    "lexvo": "\nTéén [en]",
+    "hhbib_lgcode": "\nLogon (Lorhon)\nLorhon\nLoron\nLoron de Danoua\nLoron de Niamoué\nLoron de n'Zans\nTeen\nTese\nTégué"
+  },
+  "triggers": {
+    "lgcode": "\ntaabo{\nloron\nnotation\ntenhe\nbtehna"
+  },
+  "identifier": {
+    "multitree": "teen;lor"
+  },
+  "classification": {
+    "sub": "**hh:g:Elders:Kulango**",
+    "subrefs": "\n**hh:g:Elders:Kulango**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Téén (lor-lor) = 6a (Vigorous)."
+  }
+}

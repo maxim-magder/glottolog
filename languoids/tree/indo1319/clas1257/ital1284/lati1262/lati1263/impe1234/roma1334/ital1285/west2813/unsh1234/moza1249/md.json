@@ -1,0 +1,34 @@
+{
+  "core": {
+    "name": "Mozarabic",
+    "hid": "mxi",
+    "level": "language",
+    "iso639-3": "mxi",
+    "latitude": "37.8763",
+    "longitude": "-1.79724",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Andalusi_Romance\nhttps://www.wikidata.org/entity/Q317044",
+    "timespan": "0711-01-01/1492-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ld:Barbato:Mozarabic**\n**hh:phonsoc:Beale:Mozarabic**"
+  },
+  "triggers": {
+    "lgcode": "\nmozarabic"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:80-83",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mozarabic (390-) = Extinct"
+  }
+}

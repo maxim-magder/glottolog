@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ngaju",
+    "hid": "nij",
+    "level": "language",
+    "iso639-3": "nij",
+    "latitude": "-1.58463",
+    "longitude": "112.794",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Oloh Mangtangai](https://wals.info/languoid/lect/wals_code_olm)\n[Pulopetak](https://wals.info/languoid/lect/wals_code_plp)\nhttps://en.wikipedia.org/wiki/Ngaju_language\nhttps://www.wikidata.org/entity/Q2992872"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baier:07**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:keesing:34:1**\n**cldf:keesing:84:2**\n**cldf:knapen:01**\n**cldf:lebar:ed:72**\n**cldf:mihing:stokhof:77**\n**cldf:miles:70**\n**cldf:miles:76**\n**cldf:np:14:5**\n**cldf:ofkalimantan:14**\n**cldf:quek:09**\n**cldf:schiller:97**\n**hh:d:Hardeland:Dajack**\n**hh:d:Hardeland:Dajackschen**\n**hh:d:Iper:Dayak-Ngaju**\n**hh:d:Suryanyahu:Dayak-Ngaju**\n**hh:e:Scharer:Ngaju**\n**hh:h:Sugono:Indonesia**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Hudson:Sarawak**\n**hh:hvw:Durasid:Barito**\n**hh:hvw:Hudson:Barito**\n**hh:hvw:Hudson:Padju-Epat**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:hw:vanKessel:Kapoeas**\n**hh:ld:Kiting:Kahajan**\n**hh:phon:Iper:Katingan**\n**hh:phon:MihingStokhof:Ngaju-Dayak**\n**hh:phon:Ristati:Dayak-Ngaju**\n**hh:s:Durasid:Katingan**\n**hh:s:Hapip:Barangas**\n**hh:s:Kawi:Kahayan**\n**hh:s:Ngabut:Sangen**\n**hh:s:Santoso:Dayak-Ngaju**\n**hh:s:Santoso:Sangen**\n**hh:s:vonderGabelentz:Dajak**\n**hh:typ:Elbaar:Baru**\n**hh:typ:Iper:Dayak-Ngaju**\n**hh:typ:Kiting:Kahajan**\n**hh:v:Misrita:Sampit**\n**hh:w:Stokhofetal:Holle:8**\n**hh:w:Sugono:Swadesh-Kalimantan-Selatan**\n**hh:w:Tiedtke:Sampitsche-Katingansche**\n**hh:w:denHamer:Borneo**\n**iso6393:2007-184**\n**mpieva:Baier1987Worterbu**"
+  },
+  "altnames": {
+    "wals": "\nOloh Mangtangai\nPulopetak",
+    "wals other": "\nDayak (Ngaju)\nNgaju",
+    "ruhlen (1987)": "\nNgaju",
+    "moseley & asher (1994)": "\nKapuas",
+    "multitree": "\nBiadju\nDayak\nDayak Ngaju\nKahayan Kapuas\nKapuas\nNgadju\nNgaja\nNgaju\nNgaju Dayak\nSouthwest Barito",
+    "lexvo": "\nBahasa Ngaju [id]\nNgaju [en]\nNgaju dayak [fr]\nNgaju language [en]",
+    "hhbib_lgcode": "\nBarangas\nBaru\nBejadjouw\nBerangas\nBiadju-Dajaksch\nDajak Ngadju\nDayak Ngaju\nKahayan\nKapuas\nKatingan\nKatingan Dayak\nKatingansche\nNgaju Dayak\nSampit\nSangen"
+  },
+  "triggers": {
+    "lgcode": "\ndajakschen\nngaju\nkatingansche\nsampitsche\ndajackschen\ndajacksch\nkatingan"
+  },
+  "identifier": {
+    "wals": "plp;olm",
+    "multitree": "nij;nij-kap"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:169-182 **hh:hv:Blust:NBorneo**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:Blust:NBorneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngaju (nij-nij) = 3 (Wider communication). Widely used in the 19th century in Central Kalimantan. Used in trade, church, and education."
+  }
+}

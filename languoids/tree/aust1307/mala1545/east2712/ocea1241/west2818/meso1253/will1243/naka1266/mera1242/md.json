@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Meramera",
+    "hid": "mxm",
+    "level": "language",
+    "iso639-3": "mxm",
+    "latitude": "-4.97468",
+    "longitude": "151.528",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Meramera](https://grambank.clld.org/languages/mera1242)\n[Meramera](https://lexibank.clld.org/languages/abvdoceanic-Meramera)\nhttps://en.wikipedia.org/wiki/Meramera_language\nhttps://www.wikidata.org/entity/Q6817936"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ohtsuba:00**\n**cldf:ohtsuba:92**\n**cldf:ohtsuba:96**\n**cldf:ohtsuba:99**\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Goodenough:Kimbe**\n**hh:hv:Ross:WMelanesia**\n**hh:hvwld:Johnston:Kimbe-Bay**\n**hh:s:Ohtsuba:Meramera**\n**hh:t:Hees:Nakanai**\n**hh:typ:Ohtsuba:Meramera**\n**hh:w:Friederici:Nakanai**\n**silpng:silpng1991-2000:1436**\n**silpng:silpng1991-2000:1437**\n**silpng:silpng1991-2000:1438**\n**silpng:silpng1991-2000:1439**\n**silpng:silpng1991-2000:1440**\n**silpng:silpng1991-2000:1441**\n**silpng:silpng1991-2000:1442**\n**silpng:silpng1991-2000:1443**\n**silpng:silpng1991-2000:1444**\n**silpng:silpng1991-2000:1445**\n**silpng:silpng1991-2000:1446**\n**silpng:silpng1991-2000:1447**\n**silpng:silpng1991-2000:1448**\n**silpng:silpng1991-2000:1449**\n**silpng:silpng1991-2000:1450**\n**silpng:silpng1991-2000:1451**\n**silpng:silpng1991-2000:1452**"
+  },
+  "altnames": {
+    "multitree": "\nMelamela\nMeramera\nUbili",
+    "lexvo": "\nMeramera [en]",
+    "hhbib_lgcode": "\nMeramera (= Melamela)\nNakanai is Melamela here\nNakanai of Open Bay and Lolobao Island"
+  },
+  "triggers": {
+    "lgcode": "\nvuso\nsalemo\nmese\nmapamulina\nkimbe\ntavine"
+  },
+  "identifier": {
+    "multitree": "mxm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goodenough:Kimbe**",
+    "subrefs": "\n**hh:hv:Goodenough:Kimbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Meramera (mxm-mxm) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Traveller Norwegian",
+    "hid": "rmg",
+    "level": "language",
+    "iso639-3": "rmg",
+    "latitude": "62.6217",
+    "longitude": "9.48913",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NO"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3177352\nhttps://en.wikipedia.org/wiki/Rodi_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4501**\n**hh:b:Refsum:Tatermal**\n**hh:ew:Sundt:Fante**\n**hh:hw:Ribsskog:Hemmelige-Sprak**\n**hh:soc:Wiedner:Norwegian-Romani**\n**hh:svd:Iversen:Romany-Norway**\n**hh:vld:Ladefoged:Romani-Scandinavian**"
+  },
+  "altnames": {
+    "multitree": "\nNorwegian Traveller\nNorwegian, Traveller\nRodi",
+    "lexvo": "\nRodi [fr]\nRodi language [en]\nTraveller Norwegian [en]",
+    "hhbib_lgcode": "\nNorwegian-Traveller\nRomani"
+  },
+  "triggers": {
+    "lgcode": "\nnorway"
+  },
+  "identifier": {
+    "multitree": "rmg"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Norwegian, Traveller (rmg-rmg) = 8a (Moribund)."
+  },
+  "classification": {
+    "sub": "**hh:hv:Matras:Romani**:14-48 **hh:svd:Iversen:Romany-Norway**",
+    "subrefs": "\n**hh:svd:Iversen:Romany-Norway**\n**hh:hv:Matras:Romani**"
+  }
+}

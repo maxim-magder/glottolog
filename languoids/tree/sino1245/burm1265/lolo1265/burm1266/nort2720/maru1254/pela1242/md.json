@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pela",
+    "hid": "bxd",
+    "level": "language",
+    "iso639-3": "bxd",
+    "latitude": "24.2142",
+    "longitude": "97.9183",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM"
+    ],
+    "links": "\n[Bela](https://lexibank.clld.org/languages/mannburmish-Bela)\n[Burmish_Bola](https://lexibank.clld.org/languages/sagartst-Bola)\n[Pela](https://endangeredlanguages.com/lang/4001)\n[Pela](https://grambank.clld.org/languages/pela1242)\nhttps://en.wikipedia.org/wiki/Pela_language\nhttps://www.wikidata.org/entity/Q57000"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:daiqingsha:jiangying:etal:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Dai:Bola**\n**hh:hel:Bradley:EAsia**\n**hh:hld:Dai:Jingpo**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Bradley:Mran-Ni**\n**hh:hv:Mann:NBurmic**\n**hh:hwphon:Daietal:Zangmianyu**\n**hh:hwsoc:Dai:Jingpo**\n**hh:s:Dai:Bola**\n**hh:s:Dai:Bola:2007**\n**hh:s:Dai:Pola**\n**hh:w:Bufan:Zangmian**\n**sil16:46069**"
+  },
+  "altnames": {
+    "multitree": "\nBela\nBola\nPala\nPela\nPolo",
+    "lexvo": "\nPela [en]",
+    "hhbib_lgcode": "\nBela\nBola\nBola-Kongjia village\nGongbie-Yunqian-Santaishan-Mang\nGongling-Yunqian-Santaishan-Mang\nPola\nThird Village-Yunqian-Santaishan-Mang",
+    "elcat": "\nBela\nBola\nPala\nPela\nPola\nPolo\n波拉話\n波拉語"
+  },
+  "triggers": {
+    "lgcode": "\npolahua"
+  },
+  "identifier": {
+    "multitree": "bxd",
+    "endangeredlanguages": "4001"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Trans-Himalayan**:120",
+    "subrefs": "\n**hh:hv:Hill:Trans-Himalayan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pela (4001-bxd) = Vulnerable (100 percent certain, based on the evidence available) [戴慶廈 et al. 2007](cldf:daiqingsha:jiangying:etal:07)"
+  }
+}

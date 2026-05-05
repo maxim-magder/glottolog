@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bookan",
+    "hid": "bnb",
+    "level": "language",
+    "iso639-3": "bnb",
+    "latitude": "5.32519",
+    "longitude": "116.474",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4943150\nhttps://en.wikipedia.org/wiki/Bookan_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hew:Rutter:Pagans-Borneo**\n**hh:hv:Spitzack:Murutic**\n**hh:ld:Prentice:Baukan**\n**hh:s:DoiDoi:Bookan-Murut**\n**hh:t:DoiDoi:Bookan**\n**sil16:48670**"
+  },
+  "altnames": {
+    "multitree": "\nBaukan\nBaukan Murut\nBookan",
+    "lexvo": "\nBookan [en]",
+    "hhbib_lgcode": "\nBaukan\nTengara"
+  },
+  "triggers": {
+    "lgcode": "\nmakagambar\nbookan\nbaukan"
+  },
+  "identifier": {
+    "multitree": "bnb"
+  },
+  "classification": {
+    "sub": "**hh:g:Prentice:Murut**:3",
+    "subrefs": "\n**hh:g:Prentice:Murut**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Murut, Bookan (bnb-bnb) = 7 (Shifting)."
+  }
+}

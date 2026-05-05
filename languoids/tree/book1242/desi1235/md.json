@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Desiya",
+    "hid": "dso",
+    "level": "language",
+    "iso639-3": "dso",
+    "latitude": "18.965",
+    "longitude": "82.646",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Desia_language\nhttps://www.wikidata.org/entity/Q12629755"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2006-075**"
+  },
+  "altnames": {
+    "multitree": "\nDeshia\nDesia\nDesiya\nKoraput Oriya\nOriya, Desiya",
+    "lexvo": "\nDesiya [en]"
+  },
+  "triggers": {
+    "lgcode": "\ndesia"
+  },
+  "identifier": {
+    "multitree": "dso"
+  },
+  "classification": {
+    "subrefs": "\n**hh:sd:Mahapatra:Desia**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has two languages Desiya [dso] and Adivasi Oriya [ort]. These names simply divide the speakers of the same language along a state border\n(**hh:sd:Mahapatra:Desia**, **hh:hs:Mahapatra:Orissa**, **hh:d:Gustafsson:Adiwasi-Oriya**) leaving one of the entries spurious. I wish to thank Felix Rao for clarifying the status of these two entries to me. See also: Kotia-Adivasi Oriya-Desiya [ort].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "dso"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Desiya (dso-dso) = 3 (Wider communication). Native to India; became dominant around the second half of the 19th century under British rule. Used in literature, poetry, music, song, trade, and interethnic communication."
+  }
+}

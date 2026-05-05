@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ngombe-Bangandu",
+    "hid": "bgf",
+    "level": "language",
+    "iso639-3": "bgf",
+    "latitude": "2.18716",
+    "longitude": "14.7506",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "CM"
+    ],
+    "links": "\n[Bangandu](https://endangeredlanguages.com/lang/3798)\nhttps://www.wikidata.org/entity/Q34938\nhttps://en.wikipedia.org/wiki/Bangandu_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**eballiso2009:50187**\n**eballiso2009:56088**\n**eballiso2009:57562**\n**eballiso2009:5965**\n**hh:h:Ndamba:Congo**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:hew:Koch:Molundu**\n**hh:hv:Burnham:Bgaya-Mkako**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hw:Monino:Oubanguiennes**\n**hh:phon:Mentsinde:Bangando**\n**hh:typ:Boursier:Verbes-Bangando**\n**hh:typ:Wiesemann:Bangando**\n**hh:w:Periquet:AEF**\n**hh:wsoc:Gardner:Epena**\n**hh:wsoc:SyssaPagbanda:Ngombe**"
+  },
+  "altnames": {
+    "multitree": "\nBagando\nBangando\nBangandu\nBangantu\nSouthern Bangantu\nTemne",
+    "lexvo": "\nBangandu [en]",
+    "hhbib_lgcode": "\nBangando\nBangando in Cameroun\nBangando-Ngombe\nBangandu\nBangandu-Bumbe\nBangantu\nNgombé (Bangui)\nNgombé (Gamboula 2)\nNgombé (Mbandjifolo)\nNgombé (Mbangou)\nYasua\nYaswa\nYaswa (langue pygmée)\nYessoua\nYessoua village of Kakassengué at the Sangha (a Gbaya lg)",
+    "elcat": "\nBagando\nBangando\nBangandu\nBangantu\nSouthern Bangantu\nTemne"
+  },
+  "triggers": {
+    "lgcode": "\ncell\nbiaka\nbangando\nchallenging"
+  },
+  "identifier": {
+    "multitree": "bgf",
+    "endangeredlanguages": "3798"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Monino:Proto-Gbaya**:451-455 **hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**",
+    "subrefs": "\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bangandu (3798-bgf) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

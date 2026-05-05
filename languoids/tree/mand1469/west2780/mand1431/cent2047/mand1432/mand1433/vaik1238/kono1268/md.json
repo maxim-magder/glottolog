@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kono (Sierra Leone)",
+    "hid": "kno",
+    "level": "language",
+    "iso639-3": "kno",
+    "latitude": "8.67039",
+    "longitude": "-10.9214",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "SL"
+    ],
+    "links": "\n[Kono](https://lexibank.clld.org/languages/polyglottaafricana-Kono)\nhttps://en.wikipedia.org/wiki/Kono_language_(Sierra_Leone)\nhttps://www.wikidata.org/entity/Q35675"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:669**\n**eballiso2009:11152**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:13541**\n**eballiso2009:15581**\n**eballiso2009:16770**\n**eballiso2009:20511**\n**eballiso2009:42771**\n**eballiso2009:7285**\n**hh:d:Moukhina:Kono**\n**hh:e:Langley:Kono**\n**hh:h:Hair:Lower-Guinea:I**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:McCulloch:Sierra-Leone**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hvw:Vydrine:Mande**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Sierra-Leone**\n**hh:phon:Foay-Ngongu:Kono**\n**hh:phon:Lessau:Kono**\n**hh:phon:Manyeh:Kono**\n**hh:vtyp:Claudi:Word-Order-Mande**\n**hh:w:LessauKastenholz:Kono**"
+  },
+  "altnames": {
+    "multitree": "\nKonnoh\nKono",
+    "lexvo": "\nKono (Sierra Leone) [en]\nKono [en]\nKono language [en]\nКоно [ru]",
+    "hhbib_lgcode": "\nKono\nMande Kono close to Vai"
+  },
+  "triggers": {
+    "lgcode": "\nkono\nkonnoh"
+  },
+  "identifier": {
+    "multitree": "kno"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kono (kno-kno) = 5* (Developing)."
+  }
+}

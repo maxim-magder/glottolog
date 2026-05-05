@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Termanu",
+    "hid": "twu",
+    "level": "language",
+    "iso639-3": "twu",
+    "latitude": "-10.7326",
+    "longitude": "123.169",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Roti](https://wals.info/languoid/lect/wals_code_rti)\n[Termanu](https://grambank.clld.org/languages/term1237)\nhttps://en.wikipedia.org/wiki/Termanu_language\nhttps://www.wikidata.org/entity/Q7702572"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:calculator:14**\n**cldf:carnegie:10**\n**cldf:cribb:00**\n**cldf:fox:73**\n**cldf:fox:77**\n**cldf:fox:83**\n**cldf:fox:93:3**\n**cldf:fox:e:95**\n**cldf:harris:11**\n**cldf:kruyt:21**\n**cldf:np:14:5**\n**cldf:wetering:25**\n**hh:d:Jonker:Rottineesch**\n**hh:e:Fox:Rotinese**\n**hh:g:Jonker:Rottineesche**\n**hh:hew:Muller:Indischen:II**\n**hh:s:Fanggidaej:Rottineesche**\n**hh:s:FoxGrimes:Roti**\n**hh:s:Ingguoe:Rote**\n**hh:t:JonkerFanggidaej:Rottineesche**\n**hh:tdial:Jonker:Rottineesche**\n**hh:typ:Kumanireng:Rote**\n**hh:w:Kleian:Rottineesch-Timoreesch**\n**hh:w:Stokhofetal:Holle:6**\n**sil16:38418**"
+  },
+  "altnames": {
+    "wals": "\nRoti",
+    "wals other": "\nRotinese\nRottinese",
+    "ruhlen (1987)": "\nRoti",
+    "moseley & asher (1994)": "\nRoti",
+    "multitree": "\nCentral Rote\nPa'da\nRote\nRote Tengah\nRoti\nRotinese\nTermanu",
+    "lexvo": "\nTermanu [en]",
+    "hhbib_lgcode": "\nBokai\nKolobafo\nRote\nRotinese-Termanu\nRottineesch\nTermanu (Pada)\nTermanu (Roti)"
+  },
+  "triggers": {
+    "lgcode": "\nroti\nrottineesche"
+  },
+  "identifier": {
+    "wals": "rti",
+    "multitree": "twu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:180-188",
+    "subrefs": "\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Termanu (twu-twu) = 5 (Developing)."
+  }
+}

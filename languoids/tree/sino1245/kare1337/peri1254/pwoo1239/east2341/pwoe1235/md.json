@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pwo Eastern Karen",
+    "hid": "kjp",
+    "level": "language",
+    "iso639-3": "kjp",
+    "latitude": "15.1915",
+    "longitude": "98.7355",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Karen (Pwo)](https://wals.info/languoid/lect/wals_code_kpw)\nhttps://en.wikipedia.org/wiki/Eastern_Pwo_language\nhttps://www.wikidata.org/entity/Q5330390"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Kato:Pwo**\n**hh:g:Mason:Karen**\n**hh:hvw:Phillips:Pwo-Karen**\n**hh:hvwld:Kato:Htoklibang**\n**hh:phon:Kato:Three-Pwo-Karen**\n**hh:phon:Phillips:West-Central-Pwo-Karen**\n**hh:s:Kato:Pwo**\n**hh:s:Kato:Pwo-Karen**\n**hh:s:Kato:Pwo:2003**\n**hh:s:Kato:Pwo:2017**\n**hh:t:Phillips:Western-Thailand-Pwo-Karen**\n**sil16:43081**\n**sil16:43403**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Pwo\nKaren\nKaren (Pwo)\nKaren, Pwo Western Thailand\nKaren,PwoEastern\nMoulmein Pwo Karen\nPhlou\nPho of Moulmein\nPwo Eastern\nPwo Karen\nPwo Western\nSouthern Pwo Karen",
+    "lexvo": "\nPwo Eastern Karen [en]",
+    "hhbib_lgcode": "\nHpa-an\nHtoklibang Pwo Karen\nHuaito-Yangkhaw\nKaren-Pwo Eastern\nOngsit\nPgho\nSongphinong\nTavoy\nThungfaek"
+  },
+  "triggers": {
+    "lgcode": "\nhpa\nlob\npong\nhom\nbhumibol"
+  },
+  "identifier": {
+    "multitree": "kjp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Karen** **hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**\n**hh:hv:Manson:Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Karen, Pwo Eastern (kjp-kjp) = 5 (Developing)."
+  }
+}

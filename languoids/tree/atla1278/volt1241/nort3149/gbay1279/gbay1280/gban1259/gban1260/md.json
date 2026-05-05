@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gbanu",
+    "hid": "gbv",
+    "level": "language",
+    "iso639-3": "gbv",
+    "latitude": "5.28183",
+    "longitude": "17.3887",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914945\nhttps://en.wikipedia.org/wiki/Gbanu_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:ld:Bradshaw:Gbanu**\n**hh:ld:Monino:Gbanu**\n**hh:phon:Gueneyama:Gbanu**\n**hh:phontyp:Ngombou:Gbagiri**\n**hh:s:Selezilo:Gbagiri**\n**hh:soc:Moehama:Gbanu**\n**hh:soc:Probst:Gbagiri**"
+  },
+  "altnames": {
+    "multitree": "\n'Bokoto\nBanu\nGbanou\nGbanu\nGbaya\nGbeya\nKara\nSouthern Gbaya\nSuma",
+    "lexvo": "\nGbanu [en]",
+    "hhbib_lgcode": "\nGbagiri\nGbagïrï"
+  },
+  "triggers": {
+    "lgcode": "\ngbanu"
+  },
+  "identifier": {
+    "multitree": "gbv"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Monino:Proto-Gbaya**:451-455 **hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**",
+    "subrefs": "\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gbanu (gbv-gbv) = 5* (Developing)."
+  }
+}

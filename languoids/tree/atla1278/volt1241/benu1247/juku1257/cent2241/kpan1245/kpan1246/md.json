@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kpan",
+    "hid": "kpk",
+    "level": "language",
+    "iso639-3": "kpk",
+    "latitude": "7.58343",
+    "longitude": "10.1642",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kpan](https://endangeredlanguages.com/lang/5042)\n[Kpan](https://lexibank.clld.org/languages/polyglottaafricana-Kpan)\n[Kpan](https://wals.info/languoid/lect/wals_code_kpa)\nhttps://en.wikipedia.org/wiki/Kpan_language\nhttps://phoible.org/languages/kpan1246\nhttps://www.wikidata.org/entity/Q3915380"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dalby:64**\n**cldf:lewis:ed:09**\n**eballiso2009:12146**\n**eballiso2009:54072**\n**eballiso2009:55027**\n**hh:hel:Sommer:Survey**\n**hh:hvw:Shimizu:Jukunoid**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:sd:Shimizu:Kente**\n**hh:w:Kilham:African**\n**hh:w:Norris:WCAfrica**\n**mpieva:Shimizu1972TheKente**"
+  },
+  "altnames": {
+    "wals": "\nKpan",
+    "ruhlen (1987)": "\nKpan",
+    "moseley & asher (1994)": "\nKpan",
+    "multitree": "\nAbakan\nEregba\nHwaso\nHwaye\nIbukwo\nIkpan\nKpan\nKpanten\nKpwate\nNyatso\nNyonyo\nYorda",
+    "lexvo": "\nKpan [en]",
+    "hhbib_lgcode": "\nAppa\nAppa Kilham\nEregba\nKentu",
+    "elcat": "\nAbakan\nEregba\nHwaso\nHwaye\nIbukwo\nIkpan\nKpan\nKpanten\nKpwate\nNyatso\nNyonyo\nYorda"
+  },
+  "triggers": {
+    "lgcode": "\nkente\nkpan\neregba"
+  },
+  "identifier": {
+    "wals": "kpa",
+    "multitree": "kpk",
+    "endangeredlanguages": "5042"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Storch:Zentral-Jukunoid**",
+    "subrefs": "\n**hh:hvw:Storch:Zentral-Jukunoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kpan (5042-kpk) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

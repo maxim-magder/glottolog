@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Kresh-Woro",
+    "hid": "krs",
+    "level": "language",
+    "iso639-3": "krs",
+    "latitude": "8.43391",
+    "longitude": "25.0",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "SD",
+      "SS"
+    ],
+    "links": "\n[Gbaya](https://endangeredlanguages.com/lang/5059)\n[Kresh](https://wals.info/languoid/lect/wals_code_kre)\n[Kresh-Woro](https://grambank.clld.org/languages/gbay1288)\nhttps://en.wikipedia.org/wiki/Kresh_language\nhttps://phoible.org/languages/gbay1288\nhttps://www.wikidata.org/entity/Q56674"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:boyeldieu:ed:00:1**\n**cldf:boyeldieu:ed:00:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:meinhof:17:4**\n**cldf:wakalema:91**\n**eballiso2009:40255**\n**eballiso2009:40260**\n**eballiso2009:49451**\n**hh:e:Santandrea:Indrietal**\n**hh:e:Santandrea:Kresh**\n**hh:h:ALAC:CAR**\n**hh:h:Santandrea:Ghazal**\n**hh:hb:Santandrea:Missioni**\n**hh:he:Modat:Fertyt**\n**hh:hel:Sommer:Survey**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hv:Guldemann:Pronominal-Macro-Sudan**\n**hh:hv:Muller:Aquatoriale**\n**hh:hv:Tucker:SSudan**\n**hh:hvs:Santandrea:Kresh**\n**hh:hvw:Boyeldieu:SBB**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hw:Schweinfurth:Central-Afrika**\n**hh:ld:Cowan:Baka-Kresh**\n**hh:phon:Brown:Kresh**\n**hh:s:Struck:Gbaya**\n**hh:typ:Brown:Kresh**\n**hh:w:Ehret:Animal**\n**hh:w:Ehret:Society**\n**hh:w:Knoblecher:Africae**\n**hh:w:Meinhof:Kredj**\n**sil16:18278**\n**sil16:18279**\n**sil16:18280**\n**sil16:18796**\n**sil16:19731**\n**sil16:19732**\n**sil16:19733**\n**sil16:19734**\n**sil16:19735**\n**sil16:19736**\n**sil16:31540**\n**sil16:31541**\n**sil16:40034**\n**sil16:49003**"
+  },
+  "altnames": {
+    "wals": "\nKresh",
+    "wals other": "\nKpala",
+    "ruhlen (1987)": "\nKresh",
+    "moseley & asher (1994)": "\nKresh",
+    "multitree": "\nGbaya\nKpala\nKpara\nKparla\nKredj\nKreich\nKreish\nKresh",
+    "lexvo": "\nGbaya (Sudan) [en]\nGbaya [en]",
+    "hhbib_lgcode": "\nA dialect of Gbaya\nBaya\nDongo\nGbaya\nGbaya (Sudan)\nKpara\nKredj\nKredj of Decorse and Schweinfurth\nKredy\nKreich\nKreish\nKresh\nKresh-Kpala\nKresh-Ndogo\nManga\nWoro",
+    "elcat": "\nGbaya\nKpala\nKpara\nKparla\nKredj\nKreich\nKreish\nKresh",
+    "glottolog": "\nGbaya (Sudan)"
+  },
+  "triggers": {
+    "lgcode": "\nozo\nleme\nfertit\nkresh\nkredj\nlub\ngl"
+  },
+  "identifier": {
+    "wals": "genus/kresh",
+    "multitree": "kres;krs",
+    "endangeredlanguages": "5059"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gbaya (5059-krs) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Santandrea:Kresh**:10-11 **hh:hv:Boyeldieu:Central-Sudanic**:411",
+    "subrefs": "\n**hh:hv:Boyeldieu:Central-Sudanic**\n**hh:hvs:Santandrea:Kresh**"
+  }
+}

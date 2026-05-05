@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Nepalese Sign Language",
+    "hid": "nsp",
+    "level": "language",
+    "iso639-3": "nsp",
+    "latitude": "27.6993",
+    "longitude": "85.3041",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3915492\nhttps://en.wikipedia.org/wiki/Nepali_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Ross:Nepali-Sign**\n**hh:h:Morgan:Southern-Asia**\n**hh:hld:Wilkinson:Signed**\n**hh:hv:Hurlbut:Signed-Nepal**\n**hh:hv:Woodward:India-Pakistan-Nepal**\n**hh:hv:Woodward:Sign-Asian**\n**hh:s:Sharma:Nepali-Sanketik**\n**hh:soc:Hoffmann:Nepali-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nNepalese Sign Language",
+    "lexvo": "\nNepalese Sign Language [en]",
+    "hhbib_lgcode": "\nDharan NSL\nKathmandu\nKathmandu NSL\nNepal: Nepali Sign Language (NSL)\nNepali Sign Language\nPokhara NSL\nRajbiraj NSL\nSurkhet NSL"
+  },
+  "identifier": {
+    "multitree": "nsp"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nepalese Sign Language (nsp-nsp) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "Lexicostatistical comparison in **hh:hv:Woodward:India-Pakistan-Nepal(**) and **hh:hv:Woodward:Sign-Asian(**).",
+    "subrefs": "\n**hh:hv:Woodward:India-Pakistan-Nepal**\n**hh:hv:Woodward:Sign-Asian**"
+  }
+}

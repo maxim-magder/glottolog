@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "West !Xoon",
+    "hid": "NOCODE_West-Taa",
+    "level": "language",
+    "latitude": "-23.59",
+    "longitude": "19.15",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "NA",
+      "ZA"
+    ],
+    "links": ""
+  },
+  "sources": {
+    "glottolog": "\n**cldf:batibo:smieja:ed:00:2**\n**cldf:traill:94:2**\n**hh:e:Boden:Namibian-Xoon**\n**hh:h:Maho:Namibia**\n**hh:htyp:Bleek:Bushman**\n**hh:hvld:Guldemann:Tuu**\n**hh:hvw:Bleek:Bushman**\n**hh:phon:Naumann:Phoneme-Taa**\n**hh:typ:Bonitz:Taa-Satzverknupfung**\n**hh:typ:GuldemannNaumann:West-Xoon**\n**hh:typ:Kiessling:Taa:Verb**\n**hh:typ:Kiessling:Xoon**\n**hh:typdial:Naumann:Taa**\n**hh:v:Pratchett:Taa-Dialectal**"
+  },
+  "altnames": {
+    "glottolog": "\n!Xoo",
+    "wals": "\n!Xóõ",
+    "wals other": "\n!Xo\n!Xo'o~\n!Xóõ\n!Xóõ (Lone Tree)\nLone Tree dialect",
+    "ruhlen (1987)": "\n!Khong",
+    "moseley & asher (1994)": "\nN/amani",
+    "multitree": "\n!Xóõ\nEngamaní\nN/amani\nNg|amani\nTaa\nTsasi",
+    "lexvo": "\n!Xóõ [de]\n!Xóõ-gú [nan]\nAn !Xóõ [ga]\nLíngua ǃxóõ [pt]\nTaa language [en]\nǃXóõ [no]\nКъхонг [ru]\n꽁옹어 [ko]",
+    "hhbib_lgcode": "\nNamibian Xoon\nSVI |nu||en\nW Xoon\nWest Taa\n|nu||en"
+  },
+  "identifier": {
+    "wals": "xoo",
+    "multitree": "nmn"
+  },
+  "classification": {
+    "sub": "**hh:typdial:Naumann:Taa**",
+    "subrefs": "\n**hh:typdial:Naumann:Taa**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E28",
+    "date": "2025-03-19T11:52:53",
+    "comment": "West !Xoon (nmn-NOCODE_West-Taa) = 6b (Threatened)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Taa [nmn] entry in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 subsumes varieties where the western and eastern endpoints are not mutually intelligible and necessitate the addition of a separate West Taa entry (**hh:typdial:Naumann:Taa**). See also: East Taa [nmn].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_West-Taa"
+  }
+}

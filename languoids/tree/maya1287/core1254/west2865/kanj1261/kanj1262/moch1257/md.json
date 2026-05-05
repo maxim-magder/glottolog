@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mocho",
+    "hid": "mhc",
+    "level": "language",
+    "iso639-3": "mhc",
+    "latitude": "15.4538",
+    "longitude": "-92.1734",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT",
+      "MX"
+    ],
+    "links": "\n[Mocho](https://grambank.clld.org/languages/moch1257)\n[Mocho'](https://endangeredlanguages.com/lang/141)\nhttps://en.wikipedia.org/wiki/Mocho%CA%BC_language\nhttps://www.wikidata.org/entity/Q1941682"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3713**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**hh:d:Kaufman:Mocho**\n**hh:g:Palosaari:Mocho**\n**hh:hvwb:Campbell:SEChiapas**\n**hh:w:Schumann:Tuzanteco**"
+  },
+  "altnames": {
+    "multitree": "\nMocho\nMochó\nMotocintlec\nMotocintlèque\nMotozintleco\nTuzantec",
+    "lexvo": "\nMocho [en]",
+    "hhbib_lgcode": "\nMotozintlec\nTuzanteco",
+    "elcat": "\nCotoque\nMocho'\nMochó\nMotozintlec\nMotozintleco"
+  },
+  "triggers": {
+    "lgcode": "\nmocho"
+  },
+  "identifier": {
+    "multitree": "mhc",
+    "endangeredlanguages": "141"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mocho' (141-mhc) = Critically Endangered (60 percent certain, based on the evidence available) [Palosaari 2011](cldf:palosaari:11)"
+  }
+}

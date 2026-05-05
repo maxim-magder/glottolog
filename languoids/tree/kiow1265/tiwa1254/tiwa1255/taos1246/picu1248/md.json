@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Picuris Northern Tiwa",
+    "hid": "NOCODE_Picuris-Northern-Tiwa",
+    "level": "language",
+    "latitude": "37.083011",
+    "longitude": "-105.267144",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Picuris](https://endangeredlanguages.com/lang/6509)\nhttps://en.wikipedia.org/wiki/Picuris_language\nhttps://www.wikidata.org/entity/Q7191257"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:golla:goddard:etal:08**\n**cldf:parsons:39**\n**cldf:trager:43**\n**hh:e:Brown:Picuris**\n**hh:g:Zaharlick:Picuris**\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**\n**hh:s:Trager:Picuris**\n**hh:t:HarringtonRoberts:Picuris**\n**hh:t:Hiatt:Tiwa**"
+  },
+  "classification": {
+    "sub": "**hh:hvbtyp:Sutton:Kiowa-Tanoan**:1168-1173",
+    "subrefs": "\n**hh:hvbtyp:Sutton:Kiowa-Tanoan**"
+  },
+  "altnames": {
+    "elcat": "\nPicuris\nTaos-Picuris"
+  },
+  "identifier": {
+    "endangeredlanguages": "6509"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Picuris (6509) = Threatened (60 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)",
+    "source": "ElCat"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Northern Tiwa [twf] entry in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 merges Taos and Picuris Northern Tiwa. However, the two have questionably mutual intelligibility (**hh:hvbtyp:Sutton:Kiowa-Tanoan**:5) which motivates adding a separate Picuris language-level entry. See also: Taos Northern Tiwa [twf].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Picuris-Northern-Tiwa"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kaska",
+    "hid": "kkz",
+    "level": "language",
+    "iso639-3": "kkz",
+    "latitude": "61.0",
+    "longitude": "-130.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Danezāgé' (Kaska)](https://endangeredlanguages.com/lang/2296)\n[Kaska](https://grambank.clld.org/languages/kask1239)\nhttps://en.wikipedia.org/wiki/Kaska_language\nhttps://www.wikidata.org/entity/Q20823"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0568**\n**anla:ANLC0569**\n**anla:ANLC0570**\n**anla:ANLC0571**\n**anla:ANLC0572**\n**anla:CA912T1912**\n**anla:CA965De1966**\n**anla:CA965L1985a**\n**anla:CA982A1982b**\n**anla:CA983J1983**\n**anla:CA992RcS2002a**\n**anla:CA994ALS1994**\n**anla:CN990M1999**\n**anla:CN990M2000**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:honigmann:49**\n**cldf:honigmann:54**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:underwood:honigmann:47**\n**hh:e:Gillespie:Nahani**\n**hh:e:Honigmann:Kaska**\n**hh:e:Teit:Tahltan-Kaska**\n**hh:gt:Moore:Kaska**\n**hh:s:Morice:Nahanaise**"
+  },
+  "altnames": {
+    "multitree": "\nCaska\nEastern Nahane\nKaska\nNahane\nNahani",
+    "lexvo": "\nIdioma kaska [es]\nKaska [en]\nKaska language [en]",
+    "hhbib_lgcode": "\nNahani",
+    "elcat": "\nCaska\nDanezāgé' (Kaska)\nEastern Nahane\nKaska\nKaska Dena\nNahane\nNahani"
+  },
+  "triggers": {
+    "lgcode": "\nkaska\nnahanaise"
+  },
+  "identifier": {
+    "multitree": "kkz",
+    "endangeredlanguages": "2296"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:KraussGolla:NAthapaskan**:82",
+    "subrefs": "\n**hh:hvphon:KraussGolla:NAthapaskan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Danezāgé' (Kaska) (2296-kkz) = critically endangered"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Vlaamse Gebarentaal",
+    "hid": "vgt",
+    "level": "language",
+    "iso639-3": "vgt",
+    "latitude": "50.8021",
+    "longitude": "4.31312",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BE"
+    ],
+    "links": "\n[Flemish Sign Language](https://endangeredlanguages.com/lang/7356)\nhttps://www.wikidata.org/entity/Q2107617\nhttps://en.wikipedia.org/wiki/Flemish_Sign_Language\n[Vlaamse Gebarentaal](https://wals.info/languoid/lect/wals_code_vla)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:d:FVD:Dovengebaren**\n**hh:hv:Safar:Sign-Belgium-Netherlands**\n**hh:s:Herreweghe:Vlaams-Belgische**\n**hh:s:Vermeerbergen:Flemish-Sign**\n**hh:s:Vermeerbergen:Vlaams-Belgische**\n**hh:soc:vanHerreweghe:Flemish-Sign**\n**hh:typ:Vermeerbergen:Flemish-Sign**\n**hh:vsoc:Vanhecke:Flemish-Sign**\n**iso6393:2006-001**"
+  },
+  "altnames": {
+    "multitree": "\nFlemish Sign Language\nNorth Belgium Sign Language\nSouth Belgium Sign Language\nVGT\nVlaamse Gebarentaal",
+    "lexvo": "\nFlemish Sign Language [en]\nVlaamse Gebarentaal [en]",
+    "elcat": "\nFlemish Sign Language\nNorth Belgium Sign Language\nSouth Belgium Sign Language\nVGT\nVlaamse Gebarentaal",
+    "hhbib_lgcode": "\nFlemish Sign Language (VGT)"
+  },
+  "triggers": {
+    "lgcode": "\ngebarentaal\nmorfosyntactische\npersoon\ntien\nrood"
+  },
+  "identifier": {
+    "wals": "vla",
+    "multitree": "vgt",
+    "endangeredlanguages": "7356"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Flemish Sign Language (7356-vgt) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  },
+  "classification": {
+    "sub": "**hh:hv:Safar:Sign-Belgium-Netherlands**",
+    "subrefs": "\n**hh:hv:Safar:Sign-Belgium-Netherlands**"
+  }
+}

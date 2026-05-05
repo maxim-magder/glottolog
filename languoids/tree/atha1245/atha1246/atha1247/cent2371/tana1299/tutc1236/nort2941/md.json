@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Northern Tutchone",
+    "hid": "ttm",
+    "level": "language",
+    "iso639-3": "ttm",
+    "latitude": "62.8235",
+    "longitude": "-136.644",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Northern Tutchone](https://endangeredlanguages.com/lang/1918)\nhttps://www.wikidata.org/entity/Q20822\n[Tutchone (Northern)](https://wals.info/languoid/lect/wals_code_tut)"
+  },
+  "sources": {
+    "glottolog": "\n**anla:CA961K1968b**\n**anla:CA965De1966**\n**anla:CA965L1993a**\n**anla:CA973K1988e**\n**anla:CA982A1982a**\n**anla:CA994ALS1994**\n**anla:KU882C1882b**\n**anla:TC990R2001b**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:legros:82**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:oleary:85**\n**hh:d:Ritter:Mayo**\n**hh:d:Ritteretal:Selkirk**\n**hh:e:McClellan:Tutchone**\n**hh:v:Ritter:Tutchone**\n**hh:w:Tom:Northern-Tutchone**\n**mpieva:Tom1987Mycountr**"
+  },
+  "altnames": {
+    "wals": "\nTutchone (Northern)",
+    "wals other": "\nSelkirk",
+    "ruhlen (1987)": "\nTutchone (Northern)",
+    "moseley & asher (1994)": "\nTutchone (Northern)",
+    "multitree": "\nNorthern Tutchone\nSelkirk\nTuchone\nTutchone\nTutchone (Northern)\nTutchone du nord\nTutchone septentrional\nTutchone, Northern",
+    "lexvo": "\nNorthern Tutchone [en]",
+    "hhbib_lgcode": "\nTutchone-Northern",
+    "elcat": "\nNorthern\nNorthern Tutchone\nSelkirk\nTuchone\nTutchone\nTutchone (Northern)"
+  },
+  "triggers": {
+    "lgcode": "\ngyo\nselkirk"
+  },
+  "identifier": {
+    "wals": "tut",
+    "multitree": "ttm",
+    "endangeredlanguages": "1918"
+  },
+  "classification": {
+    "sub": "**hh:h:Jaker:Na-Dene**:474",
+    "subrefs": "\n**hh:h:Jaker:Na-Dene**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Tutchone (1918-ttm) = Severely Endangered (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

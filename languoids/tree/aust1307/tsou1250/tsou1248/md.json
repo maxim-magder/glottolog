@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tsou",
+    "hid": "tsu",
+    "level": "language",
+    "iso639-3": "tsu",
+    "latitude": "23.216",
+    "longitude": "120.787",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Tsou](https://endangeredlanguages.com/lang/3497)\n[Tsou](https://grambank.clld.org/languages/tsou1248)\n[Tsou](https://lexibank.clld.org/languages/blustaustronesian-tsou)\n[Tsou](https://wals.info/languoid/lect/wals_code_tso)\nhttps://en.wikipedia.org/wiki/Tsou_language\nhttps://phoible.org/languages/tsou1248\nhttps://www.wikidata.org/entity/Q716681"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alvarez:27**\n**cldf:baldick:13**\n**cldf:benedict:94**\n**cldf:blevins:08:3**\n**cldf:blundell:ed:00**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:chen:00**\n**cldf:chu:00**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:copper:21**\n**cldf:cribb:00**\n**cldf:ding:yuan:etal:05**\n**cldf:ferrel:69**\n**cldf:hipwell:07**\n**cldf:keesing:84:2**\n**cldf:law:02**\n**cldf:lebar:ed:75**\n**cldf:lewis:ed:09**\n**cldf:np:14:5**\n**cldf:np:16:1**\n**cldf:np:nd:264**\n**cldf:ofindigenouspeoplesxingzhengyuanyuanzhuminzuweiyuanhui:14:2**\n**cldf:rubinstein:07**\n**cldf:szakos:15**\n**cldf:tung:64**\n**cldf:wang:ho:etal:04**\n**cldf:wright:ladefoged:94**\n**cldf:zeitoun:00:1**\n**hh:d:Nevskij:Tsou**\n**hh:e:Peschek:Cou**\n**hh:g:Szakos:Cou**\n**hh:g:Zeitoun:Tsou**\n**hh:g:Zhang:Zou:2018**\n**hh:gt:Tung:Tsou**\n**hh:hld:Muller:Formosa**\n**hh:hvs:Tsuchida:Proto-Tsouic**\n**hh:hvs:Tsuchida:Tsouic:PhD**\n**hh:phon:Ho:Tsou**\n**hh:s:Zeitoun:Tsou**\n**hh:typ:Chang:Tsou**\n**hh:typ:Pan:Tsou**\n**hh:w:Li:Formosan:2004**\n**hh:w:Tsuchida:Tsou**"
+  },
+  "altnames": {
+    "wals": "\nTsou",
+    "wals other": "\nCou",
+    "moseley & asher (1994)": "\nTsou",
+    "multitree": "\nNamakaban\nNiitaka\nSprache von Formosa\nTibola\nTibolah\nTibolak\nTibolal\nTso\nTsoo\nTsou\nTsu-U\nTsu-Wo\nTsuou\nTzo",
+    "lexvo": "\nTsou [en]\nTsou language [en]\nTsou-ngî [hak]\nツォウ語 [ja]\n鄒語 [zh]",
+    "hhbib_lgcode": "\nCou\nTso'o\nTsou-Duhtu\nZou",
+    "elcat": "\nNamakaban\nNiitaka\nSprache von Formosa\nTibola\nTibolah\nTibolak\nTibolal\nTso\nTsoo\nTsou\nTsu-U\nTsu-Wo\nTsuou\nTzo\n鄒語"
+  },
+  "triggers": {
+    "lgcode": "\ntsou\nscan\ncou\nzou"
+  },
+  "identifier": {
+    "wals": "tso",
+    "multitree": "tsu",
+    "endangeredlanguages": "3497"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tsou (3497-tsu) = Endangered (100 percent certain, based on the evidence available) (Children also learn the basics, but their language competence is far from the elderly native speakers. Young people in general have at least the passive knowledge of their heritage language.) [Szakos 2015](cldf:szakos:15)"
+  }
+}

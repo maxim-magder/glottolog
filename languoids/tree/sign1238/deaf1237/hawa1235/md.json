@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hawai'i Sign Language",
+    "hid": "hps",
+    "level": "language",
+    "iso639-3": "hps",
+    "latitude": "21.6311",
+    "longitude": "-158.002",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Hawai'i Sign Language](https://endangeredlanguages.com/lang/4275)\nhttps://en.wikipedia.org/wiki/Hawai%CA%BBi_Sign_Language\nhttps://www.wikidata.org/entity/Q33358"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:woodward:12**\n**hh:h:Rarrick:Sign-Hawaiian**\n**hh:h:Wilson:Sign-Pacific**\n**hh:soc:RarrickWilson:Hawaii-Sign**\n**hh:typ:Rarrick:Hawaii-Sign**\n**iso6393:2013-027**"
+  },
+  "altnames": {
+    "multitree": "\nHawai'i Pidgin Sign Language\nPidgin Sign Language",
+    "lexvo": "\nHawai'i Pidgin Sign Language [en]\nHawaii Pidgin Sign Language [en]\nLíngua de Sinais Havaiana [pt]",
+    "elcat": "\nHawai'i Pidgin Sign Language\nHawai'i Sign Language\nHawaii Sign Language\nPidgin Sign Language",
+    "glottolog": "\nHawai'i Pidgin Sign Language",
+    "hhbib_lgcode": "\nHawai'i Pidgin Sign Language\nHawaii Pidgin Sign Language\nHawaii Sign Language\nHawaii Sign Language (HSL)"
+  },
+  "identifier": {
+    "multitree": "hps",
+    "endangeredlanguages": "4275"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hawai'i Sign Language (4275-hps) = Critically Endangered (80 percent certain, based on the evidence available) [Woodward 2012](cldf:woodward:12)"
+  },
+  "classification": {
+    "sub": "Independent historical origin and only 20 percent cognate with ASL etc (**hh:h:Rarrick:Sign-Hawaiian**).",
+    "subrefs": "\n**hh:h:Rarrick:Sign-Hawaiian**"
+  }
+}

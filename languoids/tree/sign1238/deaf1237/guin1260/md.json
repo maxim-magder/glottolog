@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Guinea-Bissau Sign Language",
+    "hid": "lgs",
+    "level": "language",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW"
+    ],
+    "longitude": "-15.591553",
+    "latitude": "11.859297",
+    "links": "\nhttps://www.wikidata.org/entity/Q5616441\nhttps://en.wikipedia.org/wiki/Guinea-Bissau_Sign_Language",
+    "iso639-3": "lgs"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Morgado:Gestual-Guineense**\n**hh:h:Martins:Guinea-Bissau-Sign:2013**\n**hh:h:Nyst:Sign-West-Africa**\n**hh:soc:MartinsMorgado:Portuguese-Africa**\n**hh:soc:Morgado:West-African-Sign**\n**hh:typ:Martins:Sign-Bissau**\n**hh:typsoc:Martins:Sign-Bissau**\n**iso6393:2022-002**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Guinea-Bissau Sign Language (lgs-lgs) = 5* (Developing)."
+  },
+  "classification": {
+    "sub": "Said to be ``local'' according to **hh:h:Asonye:Sign-Africa(**):787 and **hh:h:Nyst:Sign-West-Africa(**):406 but without pointing to underlying evidence.",
+    "subrefs": "\n**hh:h:Nyst:Sign-West-Africa**\n**hh:h:Asonye:Sign-Africa**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nLíngua Gestual Guineense"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ale-Gawwada",
+    "hid": "gwd",
+    "level": "language",
+    "iso639-3": "gwd",
+    "latitude": "5.37869",
+    "longitude": "37.2737",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Dullay (Gollango)](https://wals.info/languoid/lect/wals_code_dug)\n[Gawwada](https://lexibank.clld.org/languages/wold-Gawwada)\nhttps://en.wikipedia.org/wiki/Ale_language\nhttps://www.wikidata.org/entity/Q3032135"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:amborn:sasse:80**\n**cldf:stolz:96**\n**eballiso2009:1715**\n**eballiso2009:25712**\n**eballiso2009:25713**\n**eballiso2009:25717**\n**eballiso2009:27980**\n**eballiso2009:27982**\n**eballiso2009:27983**\n**eballiso2009:30913**\n**eballiso2009:31102**\n**eballiso2009:31609**\n**eballiso2009:37551**\n**eballiso2009:38838**\n**eballiso2009:39133**\n**eballiso2009:44771**\n**eballiso2009:45066**\n**eballiso2009:47143**\n**hh:d:Aysama:Ale**\n**hh:d:Tosco:Gawwada**\n**hh:e:Biqamo:Alle**\n**hh:e:Minker:Burji-Konso-Dullay**\n**hh:g:Tosco:Gawwada**\n**hh:hv:Bender:Remnant**\n**hh:hv:Hayward:Qawko**\n**hh:hv:Tilahun:Lowland-East-Cushitic**\n**hh:hvld:Sava:Dullay**\n**hh:hvw:Black:Werizoid**\n**hh:s:AmbornMinkerSasse:Dullay**\n**hh:s:Lamberti:Gawwada**\n**hh:s:Prisecaru:Ale**\n**hh:s:Tosco:Gawwada**\n**hh:s:Tulu:Gawwada**\n**hh:s:Tulu:Gawwada:2014**\n**hh:typ:Gudeta:Gawwada**\n**hh:typ:Yoshino:Alle**\n**hh:w:Moreno:Ghidole-Gowaze**\n**hh:w:Wedekind:Gawwada:II**\n**sil16:37546**\n**sil16:37548**"
+  },
+  "altnames": {
+    "wals": "\nDullay (Gollango)",
+    "wals other": "\nDullay",
+    "ruhlen (1987)": "\nDullay",
+    "moseley & asher (1994)": "\nGawwada",
+    "multitree": "\nDullay (Gollango)\nGauwada\nGawata\nGawwada\nGobeze\nGolango\nGowase\nKawwad'a\nKawwada\nOrase\nW. Bussa\nWelango",
+    "lexvo": "\nGawwada [en]\nGawwada hizkuntza [eu]\nGawwada language [en]",
+    "hhbib_lgcode": "\nAle\nAlle\nDobase\nGawwada\nGawwada of Dalpena\nGollango\nGowazé\nHarso-Dobase\nPoko Allete"
+  },
+  "triggers": {
+    "lgcode": "\ngowaze\nsaamakko\ntsamako\ngawwada\nwerizoid\nqawko\ndullay"
+  },
+  "identifier": {
+    "wals": "dug",
+    "multitree": "gwd"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Sava:Dullay**",
+    "subrefs": "\n**hh:hvld:Sava:Dullay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ale (gwd-gwd) = 4 (Educational)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tonsawang",
+    "hid": "tnw",
+    "level": "language",
+    "iso639-3": "tnw",
+    "latitude": "1.0539",
+    "longitude": "124.652",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tonsawang](https://endangeredlanguages.com/lang/3524)\nhttps://www.wikidata.org/entity/Q3531660\nhttps://en.wikipedia.org/wiki/Tonsawang_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brickell:19**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**elpub:ldd113**\n**hh:d:Kalangi:Tonsawang**\n**hh:hv:Sneddon:Proto-Minahasan**\n**hh:hvld:Adriani:Minahasische**\n**hh:hvld:Brickell:North-Sulawesi**\n**hh:hvw:MerrifieldSalea:NSulawesi**\n**hh:s:Hayes:Tonsawang**\n**hh:soc:Brickell:Tonsawang**\n**hh:soc:Hirabayashi:Tonsawang**\n**hh:v:Lalamentik:Tonsawang**\n**hh:w:Stokhofetal:Holle:7:2**\n**mpieva:Sneddon1978ProtoMin**"
+  },
+  "altnames": {
+    "multitree": "\nTanema\nTombatu\nTonsawang",
+    "lexvo": "\nTonsawang [en]",
+    "hhbib_lgcode": "\nTonsawa",
+    "elcat": "\nLo'bahikolai\nTombatu\nTonsawang\nToundanow"
+  },
+  "triggers": {
+    "lgcode": "\ntonsawang\nminahasan"
+  },
+  "identifier": {
+    "multitree": "tnw",
+    "endangeredlanguages": "3524"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sneddon:Proto-Minahasan** **hh:hv:Mead:Sulawesi:2024**:154",
+    "subrefs": "\n**hh:hv:Sneddon:Proto-Minahasan**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tonsawang (3524) = Severely Endangered (100 percent certain, based on the evidence available) (EGIDS 7, UNESCO 3\n\nGroup Tonsawang language usage has been observed in prayer meetings for elders) [Brickell 2019](cldf:brickell:19)"
+  }
+}

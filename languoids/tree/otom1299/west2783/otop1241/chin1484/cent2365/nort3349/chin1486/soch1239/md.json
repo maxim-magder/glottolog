@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Sochiapam Chinantec",
+    "hid": "cso",
+    "level": "language",
+    "iso639-3": "cso",
+    "latitude": "17.7985",
+    "longitude": "-96.6079",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chinantec (Sochiapan)](https://wals.info/languoid/lect/wals_code_csc)\n[Sochiapam Chinantec](https://grambank.clld.org/languages/soch1239)\n[Western Chinantec](https://endangeredlanguages.com/lang/9870)\nhttps://en.wikipedia.org/wiki/Sochiapam_Chinantec\nhttps://phoible.org/languages/soch1239\nhttps://www.wikidata.org/entity/Q7550388"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:foris:73**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:newman:ed:97:4**\n**hh:g:Foris:Sochiapan**\n**hh:g:Foris:Sochiapan-Chinantec**\n**hh:ld:Davila:Manuscrito-Jalisco**\n**hh:typ:Foris:Sochiapan-Chinantec**\n**iso6393:2006-102**\n**otomanguean:Otomi147**\n**otomanguean:Otomi148**\n**otomanguean:Otomi149**\n**otomanguean:Otomi150**\n**otomanguean:Otomi151**\n**otomanguean:Otomi45**\n**otomanguean:Otomi81**\n**sil16:10679**\n**sil16:15680**\n**sil16:17379**\n**sil16:17380**\n**sil16:17381**\n**sil16:17382**\n**sil16:17383**\n**sil16:17384**\n**sil16:17385**\n**sil16:35197**\n**sil16:44330**\n**sil16:44331**\n**sil16:44332**\n**sil16:44333**"
+  },
+  "altnames": {
+    "wals": "\nChinantec (Sochiapan)",
+    "wals other": "\nSochiapan Chinantec",
+    "ruhlen (1987)": "\nChinanteko",
+    "moseley & asher (1994)": "\nChinantec",
+    "multitree": "\nChinantec\nChinantec (Sochiapan)\nChinantec, Sochiapan\nChinanteco\nChinanteco (Sochiapan)\nChinanteko\nSochiapam Chinantec",
+    "lexvo": "\nSochiapam Chinantec [en]\nSochiapan Chinantec [en]",
+    "hhbib_lgcode": "\nA Chinantec language\nSochiapam",
+    "elcat": "\nChinantec\nChinanteco\nChinanteco del oeste\nChinanteko\nSochiapam Chinantec\nSochiapan Chinantec\nSochiapám Chinantec\nWestern Chinantec\njujma"
+  },
+  "triggers": {
+    "lgcode": "\nsochiapan\nlanh\nsochiapam\nzanh"
+  },
+  "identifier": {
+    "wals": "csc",
+    "multitree": "cso",
+    "endangeredlanguages": "9870"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Chinantec (9870-cso) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

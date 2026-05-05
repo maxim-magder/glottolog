@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Karadjeri",
+    "hid": "gbd",
+    "level": "language",
+    "iso639-3": "gbd",
+    "latitude": "-18.6771",
+    "longitude": "122.334",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Karadjeri](https://grambank.clld.org/languages/kara1476)\n[Karadjeri](https://wals.info/languoid/lect/wals_code_krj)\n[Karajarri](https://collection.aiatsis.gov.au/austlang/language/a64)\n[Karajarri](https://endangeredlanguages.com/lang/4191)\n[Karajarri](https://lexibank.clld.org/languages/bowernpny-Karajarri)\n[KarajarriNW](https://lexibank.clld.org/languages/bowernpny-KarajarriNW)\nhttps://en.wikipedia.org/wiki/Garadjari_language\nhttps://phoible.org/languages/kara1476\nhttps://www.wikidata.org/entity/Q3913837"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonymous:62:2**\n**cldf:bowern:11:1**\n**cldf:centre:09:7**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:thieberger:96**\n**cldf:tryon:07**\n**hh:g:Sharp:Najanaja-Karajarri**\n**hh:hs:Capell:Australia**\n**hh:htyp:Scheffler:Australian-Kin**\n**hh:hv:Weber:Marrngu**\n**hh:hvw:Capell:NWAustralia**\n**hh:ld:Laves:Karadjeri**\n**hh:s:Johnson:Karajarri**\n**hh:s:Sands:Garadjari**\n**hh:typ:McKelson:Karajarri**\n**hh:w:McKelson:Karajarri**\n**iso6393:2018-029**\n**ozbib:1409**\n**ozbib:303**\n**ozbib:3348**\n**ozbib:3568**\n**ozbib:3792**\n**ozbib:3913**\n**ozbib:3994**\n**ozbib:4000**\n**ozbib:4002**\n**ozbib:4003**\n**ozbib:4173**\n**ozbib:4305**\n**ozbib:4322**\n**ozbib:4530**\n**ozbib:4607**\n**ozbib:4609**\n**ozbib:4615**\n**ozbib:504**\n**ozbib:5069**\n**ozbib:5169**\n**ozbib:5628**\n**ozbib:5629**\n**ozbib:6124**\n**ozbib:6217**\n**ozbib:6220**\n**ozbib:6222**\n**ozbib:6223**\n**ozbib:6226**\n**ozbib:6770**\n**ozbib:7243**\n**ozbib:726**\n**ozbib:731**\n**ozbib:926**\n**ozbib:928**\n**ozbib:931**\n**ozbib:966**"
+  },
+  "altnames": {
+    "wals": "\nKaradjeri",
+    "wals other": "\nGaradjari",
+    "ruhlen (1987)": "\nGaradyari",
+    "moseley & asher (1994)": "\nGaradyari",
+    "multitree": "\nGaradjara\nGaradjeri\nGaradjiri\nGaradyari\nGard'are\nGuradjara\nKaracheri\nKaradhari\nKaradjari\nKaradjeri\nKarajarri\nKaratjarri\nKarrajarri\nKularupulu\nLaradjeri\nMinala\nNadja\nNadjanadja\nNaudu\nNawudu\nNawurungainj",
+    "lexvo": "\nGaradjari language [en]\nKaradjeri [en]\nLenga karadjeri [pms]",
+    "hhbib_lgcode": "\nGaradjari\nGaradjeri\nKarajarri",
+    "elcat": "\nGaradjara\nGaradjeri\nGaradjiri\nGaradyari\nGard'are\nGuradjara\nKaradhari\nKaradjari\nKaradjeri\nKarajarri\nKaratjarri\nKarrajarri\nKularupulu\nLaradjeri\nMinala\nNadja\nNadjanadja\nNaudu\nNawudu\nNawurungainj",
+    "aiatsis": "\nGarad are\nGaradare\nGaradjara\nGaradjari\nGaradjeri\nGaradyari\nGaradyaria\nGardare\nKaradhari\nKaradjari\nKaradjeri\nKarajarri\nKaratjarri\nKaratyarri\nKarrajarra\nKularupulu\nLaradjeri\nMarrngu\nMinala\nMurgud\nNadja\nNadjanadja\nNangu\nNaudu\nNaurdu\nNawudu\nNawurtu\nNawurungainj\nNgangu\nNgawadu"
+  },
+  "triggers": {
+    "lgcode": "\ngaradjari\nkaradjari\nkarajarri"
+  },
+  "identifier": {
+    "wals": "krj",
+    "multitree": "gbd",
+    "endangeredlanguages": "4191"
+  },
+  "classification": {
+    "sub": "**hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Karajarri (4191-gbd) = Critically Endangered (100 percent certain, based on the evidence available) (The children speak Aboriginal English.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Assan",
+    "hid": "xss",
+    "level": "dialect",
+    "iso639-3": "xss",
+    "latitude": "56.0",
+    "longitude": "94.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34089\nhttps://en.wikipedia.org/wiki/Assan_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4426**\n**iso6393:2022-010**"
+  },
+  "altnames": {
+    "multitree": "\nAssan\nKowaki",
+    "lexvo": "\nAsaneg [br]\nAssan [en]\nAssan language [en]\nAssane [fr]\nAssanin kieli [fi]\nAssanisk [no]\nАссанский язык [ru]",
+    "hhbib_lgcode": "\nAssanic"
+  },
+  "triggers": {
+    "lgcode": "\nNOT with AND die AND jenissej"
+  },
+  "identifier": {
+    "multitree": "xss"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Assan (xss-xss) = 10 (Extinct)"
+  },
+  "iso_retirement": {
+    "code": "xss",
+    "name": "Assan",
+    "effective": "2023-01-20",
+    "reason": "merge",
+    "change_to": "\nzko",
+    "remedy": "Merged into [zko] Kott",
+    "change_request": "2022-010"
+  }
+}

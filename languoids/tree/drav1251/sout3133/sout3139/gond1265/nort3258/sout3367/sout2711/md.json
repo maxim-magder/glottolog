@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Southern Gondi",
+    "level": "family",
+    "latitude": "20.10446",
+    "longitude": "80.27811",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12952462"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3916**\n**asjp2010:4860**\n**asjp2010:509**\n**hh:d:Penny:Gondi**\n**hh:hv:Garapati:Gondi**\n**hh:hvs:Garapati:Gondi**\n**hh:hvwsoc:Beine:Gondi**\n**hh:hvwsoc:Beine:Gondi:2013**\n**hh:s:Patwardhan:Gondi**\n**hh:w:BurrowBhattacharya:Gondi**\n**iso6393:2015-062**\n**mpieva:Subrahmanyam1968Adescrip**"
+  },
+  "altnames": {
+    "multitree": "\nGondi\nGondi (Koya)\nGondi, Southern\nGonḍi\nGōṇḍī\nKoi Gondi\nSouthern Gondi\nTelugu Gondi",
+    "lexvo": "\nSouthern Gondi [en]",
+    "hhbib_lgcode": "\n2xRaj Gonds of Sironcha\nGondi-Southern\nRaj Gonds of Sironcha\nS Gondi"
+  },
+  "triggers": {
+    "lgcode": "\nNOT to AND gondi"
+  },
+  "identifier": {
+    "wals": "gon",
+    "multitree": "ggo"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Garapati:Gondi**",
+    "subrefs": "\n**hh:hvs:Garapati:Gondi**"
+  },
+  "iso_retirement": {
+    "change_request": "2015-062",
+    "remedy": "split into [esg] Aheri Gondi and [wsg] Adilabad Gondi",
+    "code": "ggo",
+    "name": "Southern Gondi",
+    "effective": "2016-01-15",
+    "reason": "split",
+    "change_to": "\nesg\nwsg"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Gondi, Southern (ggo-ggo) = 5 (Developing)."
+  }
+}

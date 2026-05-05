@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tangale",
+    "hid": "tan",
+    "level": "language",
+    "iso639-3": "tan",
+    "latitude": "9.75444",
+    "longitude": "11.3228",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Tangale](https://lexibank.clld.org/languages/kraftchadic-Tangale)\n[Tangale](https://wals.info/languoid/lect/wals_code_tan)\nhttps://en.wikipedia.org/wiki/Tangale_language\nhttps://phoible.org/languages/nucl1696\nhttps://www.wikidata.org/entity/Q529921"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:harnischfeger:03**\n**cldf:jungraithmayr:03**\n**cldf:jungraithmayr:71:2**\n**cldf:jungraithmayr:91**\n**cldf:kenstowicz:87**\n**eballiso2009:18226**\n**eballiso2009:18228**\n**eballiso2009:20422**\n**eballiso2009:21533**\n**eballiso2009:2513**\n**eballiso2009:29449**\n**eballiso2009:30123**\n**eballiso2009:30125**\n**eballiso2009:30126**\n**eballiso2009:30878**\n**eballiso2009:32756**\n**eballiso2009:32757**\n**eballiso2009:32760**\n**eballiso2009:32761**\n**eballiso2009:3395**\n**eballiso2009:37051**\n**eballiso2009:38983**\n**eballiso2009:44499**\n**eballiso2009:48024**\n**eballiso2009:53610**\n**eballiso2009:55069**\n**eballiso2009:59457**\n**eballiso2009:59458**\n**eballiso2009:59459**\n**eballiso2009:59851**\n**eballiso2009:6732**\n**eballiso2009:8884**\n**hh:d:Tadi:Tangle**\n**hh:e:Harnischfeger:Tangale**\n**hh:e:Mohr:Tangale-Biliri**\n**hh:h:Adelberger:Muri**\n**hh:h:AdelbergerLeger:SBole-Tangale**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:h:James:Gongola**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hld:JungraithmayrLeger:Bole-Tangale**\n**hh:hv:BaldiLeger:Bole-Tangale**\n**hh:hv:Jungraithmayr:Tangale**\n**hh:hv:Jungraitmayr:Tangale:Erosive**\n**hh:hv:Kleinewillinghofer:Tangale-Waja**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:I**\n**hh:ld:Amaechi:Tangle**\n**hh:ld:Kleinewillinghofer:Waja-Geographisches**\n**hh:phon:Kidda:Tangale:1993**\n**hh:s:Jungraithmayr:Tangale**\n**hh:sd:Jungraithmayr:Tangale**\n**hh:typ:Kenstowicz:Tangale**\n**hh:typ:Zoch:Bole-Tangale**\n**hh:typ:Zoch:Bole-Tangale:2011**\n**hh:v:Jungraithmayr:Tangale-Chadic**\n**mpieva:Kidda1993Tangalep**\n**sil16:51133**"
+  },
+  "altnames": {
+    "wals": "\nTangale",
+    "ruhlen (1987)": "\nTangale",
+    "moseley & asher (1994)": "\nTangale",
+    "multitree": "\nTanagale\nTangale\nTangle",
+    "lexvo": "\nTangale [en]\nTangale language [en]",
+    "hhbib_lgcode": "\nTangle"
+  },
+  "triggers": {
+    "lgcode": "\ntangale\nzygmunt\nerosive\nb2\npalier\njukos\nkaltungo\nprozesse"
+  },
+  "identifier": {
+    "wals": "tan",
+    "multitree": "tan"
+  },
+  "classification": {
+    "sub": "**hh:typ:Zoch:Bole-Tangale**:29",
+    "subrefs": "\n**hh:typ:Zoch:Bole-Tangale**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tangale (tan-tan) = 6b (Threatened)."
+  }
+}

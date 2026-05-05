@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Maia",
+    "hid": "sks",
+    "level": "language",
+    "iso639-3": "sks",
+    "latitude": "-4.50212",
+    "longitude": "145.096",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Maia](https://grambank.clld.org/languages/maia1254)\n[Maia (Pila Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-maia-pila)\n[Maia (Saki Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-maia-saki)\nhttps://en.wikipedia.org/wiki/Maia_language\nhttps://www.wikidata.org/entity/Q12952760"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2027**\n**asjp2010:788**\n**hh:d:Hardin:Maia**\n**hh:d:Weisenburgeretal:Maia**\n**hh:hb:Zgraggen:Madang**\n**hh:hew:Sullivan:Bogia**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:Pick:Northern-Adelbert**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:NAdelbert**\n**hh:phon:MayLoeweke:Kaukambaran**\n**hh:s:Hardin:Maia**\n**hh:w:Chinnery:Aitape**\n**sil16:48073**\n**silpng:silpng1956-1990:1541**\n**silpng:silpng1956-1990:1542**\n**silpng:silpng1956-1990:655**\n**silpng:silpng1991-2000:1197**\n**silpng:silpng1991-2000:1198**\n**silpng:silpng1991-2000:1199**\n**silpng:silpng1991-2000:1200**\n**silpng:silpng2001-2003:28**\n**silpng:silpng2001-2003:387**\n**silpng:silpng2001-2003:388**\n**silpng:silpng2004:99**"
+  },
+  "altnames": {
+    "multitree": "\nBanar\nMaia\nMaya\nPila\nSaki\nSuaro\nTurutap\nYakiba",
+    "lexvo": "\nMaia [en]",
+    "hhbib_lgcode": "\nBanar\nPila\nPila/Saki\nSaki\nTok Maia\nTurutap and Rurugap\nWagedav\nYakiba"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert\nraraidaraw\nmaia\nwimuda\nupupam\nmaiamaia\naitape"
+  },
+  "identifier": {
+    "multitree": "sks"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Pick:Northern-Adelbert**:188-194 **hh:hw:Zgraggen:NAdelbert**",
+    "subrefs": "\n**hh:hw:Zgraggen:NAdelbert**\n**hh:hvld:Pick:Northern-Adelbert**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maia (sks-sks) = 6a (Vigorous)."
+  }
+}

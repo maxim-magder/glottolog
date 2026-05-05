@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Waci Gbe",
+    "hid": "wci",
+    "level": "language",
+    "iso639-3": "wci",
+    "latitude": "6.45571",
+    "longitude": "1.69303",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "TG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36987\nhttps://en.wikipedia.org/wiki/Waci_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Manoukian:Ewe**\n**hh:g:Anson:Watyi**\n**hh:hv:Capo:Gbe**\n**hh:hvphon:Capo:Gbe**\n**hh:hvphon:Capo:Wacigbe-Gengbe**\n**hh:soc:Faton:Waci**\n**hh:soc:Sagbo:Dahomey**\n**hh:typ:LokossaCapo:Wacigbe-Gengbe**"
+  },
+  "altnames": {
+    "multitree": "\nGbe, Waci\nOuatchi\nWachi\nWaci\nWaci-Gbe\nWatyi\nWatyu",
+    "lexvo": "\nWaci Gbe [en]",
+    "hhbib_lgcode": "\nBenin: Waci\nGbe-Waci\nWaci\nWacigbe\nWatyi"
+  },
+  "triggers": {
+    "lgcode": "\nwatyi"
+  },
+  "identifier": {
+    "multitree": "wci"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kluge:Gbe**",
+    "subrefs": "\n**hh:hv:Kluge:Gbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gbe, Waci (wci-wci) = 6a (Vigorous)."
+  }
+}

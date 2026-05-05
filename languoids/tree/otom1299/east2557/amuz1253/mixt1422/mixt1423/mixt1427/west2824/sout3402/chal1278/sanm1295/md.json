@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "San Miguel El Grande Mixtec",
+    "hid": "mig",
+    "level": "language",
+    "iso639-3": "mig",
+    "latitude": "17.046881",
+    "longitude": "-97.622482",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (San Miguel el Grande)](https://wals.info/languoid/lect/wals_code_mxg)\n[San Miguel El Grande Mixtec](https://grambank.clld.org/languages/sanm1295)\n[Western Alta Mixtec](https://endangeredlanguages.com/lang/10537)\nhttps://phoible.org/languages/sanm1295\nhttps://www.wikidata.org/entity/Q12953719"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4803**\n**cldf:dyk:stoudt:73**\n**hh:d:DykStoudt:Mixteco-Miguel**\n**hh:d:Perez:Mixteco**\n**hh:g:Macaulay:Chalcatongo-Mixtec**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hv:LongacreMillon:Proto-Amuzgo-Mixtecan**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:phon:HunterPike:Molinos-Mixtec**\n**hh:s:Macaulay:Chalcotongo-Mixtec**\n**hh:s:Perez:Mixteca**\n**hh:t:Dyk:Mixteco**\n**hh:typ:Perez:Mixteco-Chalcotongo**\n**mpieva:Dyk1973Vocabula**\n**otomanguean:Mixtec279**\n**sil16:10573**\n**sil16:10574**\n**sil16:11557**\n**sil16:11558**\n**sil16:11560**\n**sil16:11561**\n**sil16:11714**\n**sil16:11730**\n**sil16:11964**\n**sil16:11967**\n**sil16:11975**\n**sil16:11976**\n**sil16:11979**\n**sil16:11980**\n**sil16:11982**\n**sil16:11983**\n**sil16:11984**\n**sil16:11986**\n**sil16:11988**\n**sil16:12035**\n**sil16:12402**\n**sil16:16360**\n**sil16:20064**\n**sil16:33190**\n**sil16:35937**\n**sil16:37754**\n**sil16:41490**\n**sil16:43870**\n**sil16:49114**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (Chalcatongo)\nMixtec (Molinos)\nMixtec (San Miguel el Grande)",
+    "wals other": "\nChalcatongo (Western Alta)\nChalcatongo Mixtec\nMixtec\nMixteco (San Miguel el Grande)\nSan Miguel",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nCentral Misteko\nCentreal Mixteco\nMixtec (San Miguel el Grande)\nMixtec, San Miguel el Grande\nMixteco (San Miguel el Grande)",
+    "lexvo": "\nSan Miguel El Grande Mixtec [en]",
+    "hhbib_lgcode": "\n64 San Miguel El Grande Mixtec Dürr 1987; Josserand 1983\n74 San Pedro Molinos Mixtec Dürr 1987; Josserand 1983\n8 Chalcatongo Hidalgo Mixtec Swanton and Mendoza Ruíz 2021; Macaulay 1996; Josserand 1983\nChal\nChalcatongo\nChalcatongo de Hidalgo\nMig\nMixtec San Miguel el Grande\nMixtec-San Miguel el Grande\nMoli\nMolinos\nMolinos Mixtec\nSan Miguel el Grande\nSan Miguel el Grande-Oaxaca\nSan Pedro Molinos\nSan Pedro Molinos-Oaxaca",
+    "elcat": "\nAtatláhuca Mixtec\nChalcatongo Mixtec\nEastern Putla Mixtec\nItundujia Mixtec\nMagdalena Peñasco Mixtec\nMixteco de San Antonio Sinicahua\nMixteco de San Bartolomé Yucuañe\nMixteco de San Esteban Atatláhuca\nMixteco de San Juan Teita\nMixteco de San Juan Ñumí\nMixteco de San Pablo Tijaltepec\nMixteco de San Pedro Molinos\nMixteco de Santa Cruz Itundujia\nMixteco de Santa Cruz Tacahua\nMixteco de Santa Lucía Monteverde\nMixteco de Santa María Yosoyúa\nMixteco de Santiago Nuyoo\nMixteco de Santiago Yosondúa\nMixteco de Santo Tomás Ocotepec\nMixteco de Sierra Sur Noroeste\nMixteco de Yosonotú\nMixteco del Sur Bajo\nMixteco del norte de Tlaxiaco\nMixteco del sur medio\nMixteco del sureste central\nMixteco del suroeste de Tlaxiaco\nNorthern Tlaxiaco Mixtec\nNuyoo Mixtec\nOcotepec Mixtec\nSan Esteban Atatláhuca Mixteco\nSan Juan Teita Mixtec\nSan Miguel el Grande Mixtec\nSanta Lucía Monteverde Mixtec\nSanto Tomás Ocotepec Mixtec\nSinicahua Mixtec\nSouth Central Tlaxiaco Mixtec\nSoutheastern Ocotepec Mixtec\nSouthern Tlaxiaco Mixtec\nSouthwestern Tlaxiaco Mixtec\nTacahua Mixtec\nTeita Mixtec\nTijaltepec Mixtec\nWestern Alta Mixtec\nYosondúa Mixtec\nYucuañe Mixtec\nÑumí Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\ndebidos\nmolinos\ninadequate\npun\nmock\nflea\nrating\noven\nchalcatongo\ngrande AND miguel\nmacaulay"
+  },
+  "identifier": {
+    "wals": "mxg;mxm;mxc",
+    "multitree": "mig",
+    "endangeredlanguages": "10537"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:15-16",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Alta Mixtec (10537) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

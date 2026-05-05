@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mafea",
+    "hid": "mkv",
+    "level": "language",
+    "iso639-3": "mkv",
+    "latitude": "-15.4316",
+    "longitude": "167.241",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Mafea](https://grambank.clld.org/languages/mafe1237)\n[Mafea](https://lexibank.clld.org/languages/abvdoceanic-Mafea)\n[Mavea](https://endangeredlanguages.com/lang/1310)\nhttps://en.wikipedia.org/wiki/Mav%CC%8Bea_language\nhttps://phoible.org/languages/mafe1237\nhttps://www.wikidata.org/entity/Q3073532"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:489**\n**cldf:ed:10**\n**cldf:francois:14:1**\n**cldf:guerin:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Guerin:Mavea**\n**hh:g:Guerin:Mavea:2011**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMafea\nMavea",
+    "lexvo": "\nMafea [en]",
+    "hhbib_lgcode": "\nMavea (Lonavu)",
+    "elcat": "\nMafea\nMavea\nMav̋ea"
+  },
+  "triggers": {
+    "lgcode": "\nmavea\ndiscovering"
+  },
+  "identifier": {
+    "multitree": "mkv",
+    "endangeredlanguages": "1310"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mavea (1310-mkv) = Critically Endangered (100 percent certain, based on the evidence available) (There are no fluent speakers younger than age 20. Most community members younger than 20 speak Bislama as their first language. Mavea is used mostly at home, but even in the home Bislama is often used.) [Guerin 2011](cldf:guerin:11)"
+  }
+}

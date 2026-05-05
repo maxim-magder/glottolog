@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Maxi Gbe",
+    "hid": "mxl",
+    "level": "language",
+    "iso639-3": "mxl",
+    "latitude": "7.57292",
+    "longitude": "1.78181",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "TG"
+    ],
+    "links": "\n[Maxi-Gbe](https://lexibank.clld.org/languages/polyglottaafricana-MaxiGbe)\nhttps://www.wikidata.org/entity/Q35770"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Manoukian:Ewe**\n**hh:g:Gbeto:Maxi**\n**hh:hv:Capo:Gbe**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Gbeto:Agonlin-Gbe**\n**hh:typ:Dognon:Maxigbe**\n**mpieva:Gbeto1996Lemaxidu**"
+  },
+  "altnames": {
+    "multitree": "\nGbe, Maxi\nMahi\nMaxi\nMaxi-Gbe",
+    "lexvo": "\nMaxi Gbe [en]",
+    "hhbib_lgcode": "\nMahi\nMaxi\nMaxigbe"
+  },
+  "triggers": {
+    "lgcode": "\nmaxi\nNOT une AND togo AND maxi"
+  },
+  "identifier": {
+    "multitree": "mxl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kluge:Gbe**",
+    "subrefs": "\n**hh:hv:Kluge:Gbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gbe, Maxi (mxl-mxl) = 6a (Vigorous)."
+  }
+}

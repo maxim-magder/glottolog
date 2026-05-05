@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Afro-Seminole Creole",
+    "hid": "afs",
+    "level": "language",
+    "iso639-3": "afs",
+    "latitude": "31.7843",
+    "longitude": "-99.2934",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q27867\nhttps://en.wikipedia.org/wiki/Afro-Seminole_Creole"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Hancock:Anglophone**\n**hh:ld:Hancock:Gullah**"
+  },
+  "triggers": {
+    "lgcode": "\nseminoles\nbrackettville\nmakasuke\ntexan"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Afro-Seminole Creole (afs-afs) = 8a (Moribund)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAfro-Seminole"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Dâw",
+    "hid": "kwa",
+    "level": "language",
+    "iso639-3": "kwa",
+    "latitude": "-0.1177",
+    "longitude": "-67.2934",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Dâw](https://endangeredlanguages.com/lang/2547)\n[Dâw](https://grambank.clld.org/languages/daww1239)\n[Dâw](https://wals.info/languoid/lect/wals_code_daw)\nhttps://en.wikipedia.org/wiki/D%C3%A2w_language\nhttps://phoible.org/languages/daww1239\nhttps://www.wikidata.org/entity/Q3042278"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:karolinobert:22**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**elpub:ldd323**\n**hh:g:Martins:Daw:2004**\n**hh:hv:Martins:Protomaku-Oriental**\n**hh:hw:Nimuendaju:Icana**\n**hh:phon:Martins:Daw:Prosodica**\n**hh:s:Martins:Daw**\n**hh:styp:Obert:Daw**\n**hh:typ:daCosta:Daw**\n**hh:vld:MartinsMartins:Daw**\n**hh:w:Koch-Grunberg:Maku**"
+  },
+  "altnames": {
+    "glottolog": "\nDaw",
+    "wals": "\nDâw",
+    "ruhlen (1987)": "\nKamán",
+    "multitree": "\nDaw\nDâw\nKam\nKaman\nKamarada\nKamá\nKamán\nKamã\nKamã Makú\nMakú-Kamarada",
+    "lexvo": "\nDâw [en]",
+    "hhbib_lgcode": "\nDóu (Makú de São Gabriel)\nRio Curicuriarý (= Dâw)",
+    "elcat": "\nDaw\nDow\nDâw\nKam\nKaman\nKamarada\nKamán\nKamã\nKamã Makú\nMakú-Kamarada"
+  },
+  "triggers": {
+    "lgcode": "\ndaw\nprotomaku"
+  },
+  "identifier": {
+    "wals": "daw",
+    "multitree": "kwa",
+    "endangeredlanguages": "2547"
+  },
+  "classification": {
+    "sub": "**hh:g:Epps:Hup**:3-5",
+    "subrefs": "\n**hh:g:Epps:Hup**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dâw (2547-kwa) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

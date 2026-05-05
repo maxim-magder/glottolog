@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Hinuq",
+    "hid": "gin",
+    "level": "language",
+    "iso639-3": "gin",
+    "latitude": "42.4502",
+    "longitude": "45.8064",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "name_comment": "The name form \"Hinuq\" is used by Diana Forker.",
+    "links": "\n[Hinukh](https://endangeredlanguages.com/lang/2315)\n[Hinuq](https://grambank.clld.org/languages/hinu1240)\n[Hinuq](https://wals.info/languoid/lect/wals_code_hnk)\nhttps://en.wikipedia.org/wiki/Hinuq_language\nhttps://www.wikidata.org/entity/Q33283"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bokarev:59**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:forker:12:1**\n**cldf:forker:nd**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Xalilov:Ginuxsko**\n**hh:e:Rizaxanova:Ginuxtsy**\n**hh:g:Forker:Hinuq**\n**hh:g:Forker:Hinuq:2013**\n**hh:g:Lomtadze:Ginuxskij**\n**hh:hs:Alekseev:Kavkazskie**\n**hh:s:Imnaishvili:Didojskij**\n**hh:s:IsakovXalilov:Hinukh**\n**hh:typ:Vakilov:Ginuxskom**\n**mpieva:Chalilov2005Ginuchsk**\n**mpieva:Imnajssvili1963Didojski**\n**mpieva:Lomtadze1963Ginuchsk**"
+  },
+  "altnames": {
+    "glottolog": "\nHinukh",
+    "wals": "\nHinukh",
+    "wals other": "\nGinux",
+    "moseley & asher (1994)": "\nHinux",
+    "multitree": "\nGinukh\nGinukhtsy\nGinux\nGuang\nHinuj\nHinukh\nHinux",
+    "lexvo": "\nHinouc'heg [br]\nHinuchische Sprache [de]\nHinuhin kieli [fi]\nHinukh [en]\nHinukh language [en]\nJęzyk ginuchijski [pl]\nГинухский язык [ru]\nГінухська мова [uk]\nХинухски јазик [mk]\nჰინუხური ენა [ka]",
+    "hhbib_lgcode": "\nHinukh",
+    "elcat": "\nGinukh\nGinukhtsy\nGinux\nGuang\nHinukh\nHinuq\nHinux\nhinuzas mec\nгинухский язык\nгьинузас мец\nԳինուխերեն\nჰინუზას მეც\nჰინუხური ენა"
+  },
+  "triggers": {
+    "lgcode": "\nginuxskij\nhinukh\nhinuq\nginuchskij\ndidojskogo"
+  },
+  "identifier": {
+    "wals": "hnk",
+    "multitree": "gin",
+    "endangeredlanguages": "2315"
+  },
+  "classification": {
+    "sub": "**hh:w:ComrieKhalilov:Bezhta**:415",
+    "subrefs": "\n**hh:w:ComrieKhalilov:Bezhta**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Hinukh (2315-gin) = Endangered (20 percent certain, based on the evidence available) [Forker n.d.](cldf:forker:nd)"
+  }
+}

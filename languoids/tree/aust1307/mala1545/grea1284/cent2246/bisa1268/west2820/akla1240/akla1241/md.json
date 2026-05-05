@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kailibo Aklanon",
+    "level": "dialect",
+    "latitude": "11.5543",
+    "longitude": "122.354",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Aklanon](https://wals.info/languoid/lect/wals_code_akl)\n[Kailibo Aklanon](https://grambank.clld.org/languages/akla1241)\nhttps://phoible.org/languages/akla1241"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jensen:barlaan:92**\n**cldf:sibley:59**\n**cldf:sibley:63**"
+  },
+  "altnames": {
+    "wals": "\nAklanon",
+    "wals other": "\nAklan",
+    "ruhlen (1987)": "\nAklanon",
+    "moseley & asher (1994)": "\nAklanon",
+    "multitree": "\nAklan\nAklano\nAklanon\nAklanon-Bisayan\nBisaya\nPanay",
+    "lexvo": "\nAkeanon [ceb]\nAklanon [en]\nAklanon language [en]\nAklanon languages [en]\nAklanska [is]\nLingua aklanon [gl]",
+    "glottolog": "\nAklanon"
+  },
+  "triggers": {
+    "lgcode": "\naklan\naklanon\npanay"
+  },
+  "identifier": {
+    "wals": "akl",
+    "multitree": "akl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E23",
+    "date": "2020-04-01T21:11:32",
+    "comment": "Aklanon (akl-akl) = 4 (Educational). De facto language of provincial identity in Aklan and Capiz provinces."
+  }
+}

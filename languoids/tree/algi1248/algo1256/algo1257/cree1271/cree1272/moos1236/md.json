@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Moose Cree",
+    "hid": "crm",
+    "level": "language",
+    "iso639-3": "crm",
+    "latitude": "51.0686",
+    "longitude": "-80.6912",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Moose_Cree_language\nhttps://www.wikidata.org/entity/Q3446671"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Honigmann:West-Main-Cree**\n**hh:g:Horden:Cree**\n**mpieva:174**\n**mpieva:1995atalohka**\n**mpieva:Ellis1989Nowthens**\n**mpieva:Watkins1981Adiction**"
+  },
+  "altnames": {
+    "multitree": "\nClisteno moose\nCree\nCree de Moose\nCree, Moose\nEastern Swampy Cree\nMoose Cree\nWest Main Cree\nWest Shore Cree\nYork Cree",
+    "lexvo": "\nMoose Cree [en]\nMoose Cree language [en]",
+    "hhbib_lgcode": "\nCree-Moose\nWest Main Cree"
+  },
+  "triggers": {
+    "lgcode": "\ntipacimowina\nsaskatchewan"
+  },
+  "identifier": {
+    "multitree": "crm"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Moose Cree (282-crm) = Vulnerable"
+  }
+}

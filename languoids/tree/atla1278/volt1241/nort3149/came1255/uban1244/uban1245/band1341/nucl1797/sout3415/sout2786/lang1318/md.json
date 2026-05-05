@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Langbashe",
+    "hid": "lna",
+    "level": "language",
+    "iso639-3": "lna",
+    "latitude": "4.87523",
+    "longitude": "20.109",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11137550"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2470**\n**hh:d:Tisserant:Banda**\n**hh:e:Jean:Langbas**\n**hh:g:Tisserant:Banda**\n**hh:h:Nougayrol:Banda**\n**hh:h:Nougayrol:NECAR**\n**hh:hdial:Cloarec-Heiss:Banda**\n**hh:he:Maes:Ubangi**\n**hh:hv:Cloarec-Heiss:Banda:2000**\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**\n**hh:hw:Monino:Oubanguiennes**"
+  },
+  "altnames": {
+    "multitree": "\nLangbase\nLangbashe\nLangbashi\nLangbasi\nLangbwasse\nLangwasi",
+    "lexvo": "\nLangbashe [en]",
+    "hhbib_lgcode": "\nBanda-Gai-Junguru-Kono-Langbasi\nBanda-Togbo-Vara [tor] but there's a lot of Langwasi\nLangbase\nLangbashi\nLangbasi\nLangwasi\nLgbi\nThis is a multidialectal grammar which does not say which one is the main variety (\"Banda\") described; Tisserant lived at Sainte-Famille in Dengo-Paka and Bambari and I am guessing this is mainly Banda-Togbo of Sainte-Famille"
+  },
+  "triggers": {
+    "lgcode": "\ndoubangui\noubangien\nlangbas"
+  },
+  "identifier": {
+    "multitree": "lna"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cloarec-Heiss:Banda:2000**",
+    "subrefs": "\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Langbashe (lna-lna) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "South Wa",
+    "hid": "prk",
+    "level": "language",
+    "iso639-3": "prk",
+    "latitude": "22.8658",
+    "longitude": "99.375",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM"
+    ],
+    "links": "\n[Parauk](https://wals.info/languoid/lect/wals_code_puk)\n[South Wa](https://grambank.clld.org/languages/para1301)\nhttps://phoible.org/languages/para1301\nhttps://www.wikidata.org/entity/Q3363719"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:maddieson:ladefoged:85**\n**cldf:qiuefeng:80**\n**hh:d:Shintani:Hsem**\n**hh:d:Shintani:Va**\n**hh:d:Shorto:Wa-Praok**\n**hh:ew:Flatz:Khalo**\n**hh:g:Seng:Wa**\n**hh:g:Yamada:Parauk-Wa**\n**hh:g:Yamada:Parauk-Wa:2020**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Diffloth:Palaungic**\n**hh:hv:Diffloth:Wa**\n**hh:hvwtyp:YanZhou:Mon-Khmer**\n**hh:phon:Tantiwuthipakorn:Wa**\n**hh:phon:Wang:Wa-Aishuai**\n**hh:phonvw:Phung:Meung-Yum**\n**hh:s:Watkins:Paraok**\n**hh:t:Yamada:Parauk-Wa**\n**hh:wsoc:Phyu:Meung-Yum**\n**mpieva:1981WaHanjia**\n**sil16:44384**"
+  },
+  "altnames": {
+    "wals": "\nParauk",
+    "wals other": "\nWa",
+    "ruhlen (1987)": "\nParuk Wa",
+    "moseley & asher (1994)": "\nPhalok",
+    "multitree": "\nBaraog\nBaroke\nParaok\nParauk\nPhalok\nPraok\nWa",
+    "lexvo": "\nParauk [en]",
+    "hhbib_lgcode": "\n492-622 1. Yanshi (Parauk language) - covered in Zhou (2004)\nBaraoke-Aishuai\nBible Wa\nKaung Sang\nKaung Sar\nKhalo\nMae Rim Lawa\nMan Gyat\nMan Kan\nMan Kyu\nMan Pein\nMan Phan\nMeung Yum\nNamt Yoke\nPan Tan\nParauk Wa\nPhalok\nSavaiq\nSiam (Hsem)\nThein Tan\nVa (En) in Chengtung (no other information supplied)\nWa spoken in Aishuai (Yànshuāi)\nWa-Parauk\nYaong Soi dialect of Wa"
+  },
+  "triggers": {
+    "lgcode": "\npraok\npatung\nsatisuk\nparauk\nyiie\nchan"
+  },
+  "identifier": {
+    "wals": "puk",
+    "multitree": "prk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Diffloth:Wa**",
+    "subrefs": "\n**hh:hv:Diffloth:Wa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wa, Parauk (prk-prk) = 5 (Developing)."
+  }
+}

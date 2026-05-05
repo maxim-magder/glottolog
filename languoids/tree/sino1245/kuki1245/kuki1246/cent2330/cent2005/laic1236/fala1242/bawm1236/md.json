@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Bawm Chin",
+    "hid": "bgr",
+    "level": "language",
+    "iso639-3": "bgr",
+    "latitude": "22.4405233333",
+    "longitude": "92.92553",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Bawm](https://wals.info/languoid/lect/wals_code_baw)\n[Bawm Chin](https://endangeredlanguages.com/lang/1596)\n[Bawm Chin](https://grambank.clld.org/languages/bawm1236)\nhttps://en.wikipedia.org/wiki/Bawm_language\nhttps://www.wikidata.org/entity/Q56765"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Spielmann:Bawm**\n**hh:hew:Lewin:Chittagong**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:st:Reichle:Bawm**\n**hh:wsoc:Kimetal:Kuki-Chin**"
+  },
+  "altnames": {
+    "wals": "\nBawm",
+    "wals other": "\nBom",
+    "ruhlen (1987)": "\nChin (Central)",
+    "multitree": "\nBanjogi\nBawm\nBawn\nBawng\nBom\nChin (Bawm)\nChin bom\nChin, Bawm\nChin,Bawm",
+    "lexvo": "\nBawm Chin [en]",
+    "hhbib_lgcode": "\nBawm\nBawm-Zo\nBoonjogi\nBunjogi\nChin-Bawm",
+    "elcat": "\nBanjogi\nBawm\nBawm Chin\nBawn\nBawng\nBom\nChin\nChin (Bawm)"
+  },
+  "triggers": {
+    "lgcode": "\nbawm"
+  },
+  "identifier": {
+    "wals": "baw",
+    "multitree": "bgr",
+    "endangeredlanguages": "1596"
+  },
+  "classification": {
+    "sub": "**hh:hv:Peterson:Kuki-Chin:2017** **hh:hv:VanBik:Proto-Kuki-Chin**",
+    "subrefs": "\n**hh:hv:Peterson:Kuki-Chin:2017**\n**hh:hv:VanBik:Proto-Kuki-Chin**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bawm Chin (1596-bgr) = Vulnerable (80 percent certain, based on the evidence available) (The vitality information is associated only with the Bawm in Bangladesh while Bawm Chin is also spoken in Indian and Myanmar.) [Kim et al. 2011](cldf:kim:roy:etal:11)"
+  }
+}

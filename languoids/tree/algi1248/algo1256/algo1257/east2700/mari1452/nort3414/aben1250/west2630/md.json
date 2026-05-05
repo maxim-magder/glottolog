@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Western Abenaki",
+    "hid": "abe",
+    "level": "language",
+    "iso639-3": "abe",
+    "latitude": "46.1381",
+    "longitude": "-72.6511",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Abenaki (Western)](https://wals.info/languoid/lect/wals_code_abw)\n[Western Abenaki](https://endangeredlanguages.com/lang/701)\nhttps://www.wikidata.org/entity/Q17502788"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:465**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:day:81**\n**cldf:day:94**\n**cldf:day:95**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:moseley:07**\n**cldf:nichols:ed:01:1**\n**cldf:np:nd:264**\n**cldf:pentland:ed:99:13**\n**hh:d:Day:Western-Abenaki**\n**hh:e:Day:Western-Abenaki**\n**hh:hv:Costa:Southern-New-England**\n**hh:hv:Goddard:Loup**\n**hh:hvwphon:Warne:Abenaki**\n**hh:s:Laurent:Abenakis**\n**hh:st:Masta:Abenaki**\n**hh:w:Day:Abenaki**"
+  },
+  "altnames": {
+    "glottolog": "\nWestern Abnaki",
+    "wals": "\nAbenaki (Western)",
+    "ruhlen (1987)": "\nAbenaki (Western)",
+    "moseley & asher (1994)": "\nAbenaki (Western)",
+    "multitree": "\nAbenaki\nAbenaki (Western)\nAbenakí occidental (Estados Unidos)\nAbenaqui\nAbnaki\nAbnaki (Western)\nAbnaki, Western\nAbénaqui occidental (Canada)\nAbénaqui occidental (États-Unis d'Amérique)\nSt Francis\nSt. Francis\nWestern Abenaki",
+    "lexvo": "\nWestern Abnaki [en]\nWestern Abnaki language [en]\nWestliche Abenaki [de]\nZapadnoabnački jezik [hr]",
+    "hhbib_lgcode": "\nAbenaki-Western\nAbnaki-Western\nMathevet Loup A3\nMathevet Loup A3 shared a major restructuring with Eastern Mahican and Abenaki\nPocumtuck\nSt Francis\nTerlaye Loup B4\nWestern Abnaki",
+    "elcat": "\nAbenaki\nAbenaki (Western)\nAbenaqui\nAbnaki\nAbnaki (Western)\nSt Francis\nSt. Francis\nWestern\nWestern Abenaki"
+  },
+  "triggers": {
+    "lgcode": "\nabenaki\nabenakis"
+  },
+  "identifier": {
+    "wals": "abw",
+    "multitree": "abe",
+    "endangeredlanguages": "701"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Eastern-Algonquian**:74-76",
+    "subrefs": "\n**hh:hv:Goddard:Eastern-Algonquian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Western Abenaki (701-abe) = Critically Endangered (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

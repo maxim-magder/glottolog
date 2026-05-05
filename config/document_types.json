@@ -1,0 +1,146 @@
+{
+  "grammar": {
+    "id": "grammar",
+    "description": "an extensive description of most elements of the grammar ~ 150 pages and beyond",
+    "rank": "17",
+    "abbv": "G",
+    "bibabbv": "g",
+    "webabbr": "G",
+    "triggers": "\ngrammar\ngramatica\ndescription\ngrammaire\njazyk\nsyntax\ncourse\nhandbook\nparlons\nmanuel\ndescriptive\nphonologie AND morphologie\ngrammaticale\nmanual"
+  },
+  "grammar sketch": {
+    "id": "grammar_sketch",
+    "description": "a less extensive description of many elements of the grammar ~ 50 pages",
+    "rank": "16",
+    "abbv": "S",
+    "bibabbv": "s",
+    "webabbr": "g",
+    "triggers": "\nsketch\noutline\nintroduction\nmorphology\nstructure\nnotes\nsprache\nesquisse\nphrase\nbahasa AND struktur\nmorfologia\nessai\nclause\nessentials\nmorphologie\ndiscourse"
+  },
+  "dictionary": {
+    "id": "dictionary",
+    "description": "~ 75 pages and beyond",
+    "rank": "15",
+    "abbv": "D",
+    "bibabbv": "d",
+    "webabbr": "D",
+    "triggers": "\ndictionary\ndiccionario\ndictionnaire\ndicionario\ndizionario\nwoordenboek\nworterbuch\nlexique\nlexicon\nslovar\nkamus"
+  },
+  "(typological) study of a specific feature": {
+    "id": "specific_feature",
+    "description": "description of some element of grammar (i.e., noun class system, verb morphology etc)",
+    "rank": "14",
+    "abbv": "F",
+    "bibabbv": "typ",
+    "webabbr": "Typo",
+    "triggers": "\norder\nclassifiers\nnominalklassen\nnominative\ninflection\nestructuras\ndiscurso\nverbal\nverb\nnoun\nclasificadores\ntypologiska\nesquema\ncontrastivos\nconstrastive\nconcord\napplicatives"
+  },
+  "phonology": {
+    "id": "phonology",
+    "description": "phonological description",
+    "rank": "13",
+    "abbv": "P",
+    "bibabbv": "phon",
+    "webabbr": "/ɸ/",
+    "triggers": "\nfonologia\nphonology\nphonological\nphonologie\nphonemes\nphonemic\nfonologico\nvowel\nfonemica\nfonetico\nphonetik\nprosodicos\northographies"
+  },
+  "text": {
+    "id": "text",
+    "description": "some amount of unanalyzed text data ~ 10 pages and beyond",
+    "rank": "12",
+    "abbv": "T",
+    "bibabbv": "t",
+    "webabbr": "Tx",
+    "triggers": "\ntext\ntextos\ntextes\ntexte\nteksten\ntranslated\nuberlieferungen\ntraduccion\noral\nmyths\nlegends"
+  },
+  "new testament": {
+    "id": "new_testament",
+    "description": "a new testament translation",
+    "rank": "11",
+    "abbv": "N",
+    "bibabbv": "nt",
+    "webabbr": "✞",
+    "triggers": "\ntestament"
+  },
+  "wordlist": {
+    "id": "wordlist",
+    "description": "wordlist ~ a couple of hundred words",
+    "rank": "10",
+    "abbv": "W",
+    "bibabbv": "w",
+    "webabbr": "wl",
+    "triggers": "\nvocabulary\nvocabulario\nlist\nlista\nvocabularies\nwordlist\nvocabulaire\nwordlists\nwoordenlijst"
+  },
+  "comparative-historical study": {
+    "id": "comparative",
+    "description": "the language is featured in a comparative study",
+    "rank": "9",
+    "abbv": "C",
+    "bibabbv": "v",
+    "webabbr": "comphist",
+    "triggers": "\nlanguages\nproto\nfamily\nclassification\ngenetic\nlenguas\nreconstruction\nposition\nrelationship\nrelationships\ngroup\nfamilia\nfamille\nprehistory\nsubgrouping\ncomparison\nplace\nsprachen\nevidence"
+  },
+  "some very small amount of data/information on a language": {
+    "id": "minimal",
+    "description": "some small amount of lexical or grammatical data but not sufficient for a full wordlist or a substantial account of some grammatical feature",
+    "rank": "8",
+    "abbv": "M",
+    "bibabbv": "numbers",
+    "webabbr": "Min",
+    "triggers": "\nfieldwork\npistas"
+  },
+  "sociolinguistically oriented": {
+    "id": "socling",
+    "description": "sociolinguistic information (where spoken, by how many etc)",
+    "rank": "6",
+    "abbv": "SL",
+    "bibabbv": "soc",
+    "webabbr": "socling",
+    "triggers": "\nsociolinguistic\nsociolinguistique\nsurveys\nsociolinguistico\ndeath\nrevitalization\nextincao\nfate\nthreatened\nrevitalizacao\nreclamation\ndead\ncontraction"
+  },
+  "dialectologically oriented": {
+    "id": "dialectology",
+    "description": "containing dialectological information, e.g., the intelligibility between different dialects, the distribution of certain isoglosses within a language",
+    "rank": "5",
+    "abbv": "X",
+    "bibabbv": "dial",
+    "webabbr": "dial",
+    "triggers": "\ndialects\nintelligibility\ngeography\ndialectologia\nvarietes\nvariability\ndialektgeographischen\ndialectale"
+  },
+  "handbook/overview": {
+    "id": "overview",
+    "description": "the language is featured in a handbook/overview publication",
+    "rank": "4",
+    "abbv": "O",
+    "bibabbv": "h",
+    "webabbr": "Hb",
+    "triggers": "\nlanguages\nsurvey\nproto\nlangues\nfamily\nlenguas\nposition\nrelationship\nsituation\nrelationships\nsprachen\nreconstruction\ncomparison\npeoples\nfamilia\nwithin\ngenetic\ngroup"
+  },
+  "ethnographic work": {
+    "id": "ethnographic",
+    "description": "ethnographic information (whether extensive or brief)",
+    "rank": "3",
+    "abbv": "E",
+    "bibabbv": "e",
+    "webabbr": "ð",
+    "triggers": "\ntribes\npeople\ntribe\ntribu\nethnography\netnografico\nethnographie\nsociety\nhistoria\necology\nlife\nsubsistence\nethnographic"
+  },
+  "bibliographically oriented": {
+    "id": "bibliographical",
+    "description": "bibiographical information (i.e., the language is featured in a bibliography))",
+    "rank": "2",
+    "abbv": "B",
+    "bibabbv": "b",
+    "webabbr": "biblio",
+    "triggers": "\nbibliography\nbibliografia\nbibliographie\nbibliographical\nworks\nscientific\nmanuscripts\ngrammars\nensembles"
+  },
+  "unknown": {
+    "id": "unknown",
+    "description": "",
+    "rank": "1",
+    "abbv": "U",
+    "bibabbv": "unknown",
+    "webabbr": "U",
+    "triggers": ""
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Sebop",
+    "hid": "sib",
+    "level": "language",
+    "iso639-3": "sib",
+    "latitude": "3.42701",
+    "longitude": "114.178",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7442799\nhttps://en.wikipedia.org/wiki/Sebop_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:71**\n**cldf:galvin:67**\n**hh:e:Furness:Punans**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Smith:Sebop-Penan-Kenyah**\n**hh:hw:Ray:Borneo**\n**hh:w:Banks:Kalamantan**\n**hh:w:Urquhart:Interior-Dialects**\n**iso6393:2007-209**"
+  },
+  "altnames": {
+    "multitree": "\nKenyah, Sebob\nSabup\nSambup\nSebob\nSebop\nSibop",
+    "lexvo": "\nSebop [en]",
+    "hhbib_lgcode": "\nBa Mali\nHouse Punan Bah Malei\nKenyah Sambap\nLirong\nLong Pokun\nSibop\nSibop of Long Mewa\nWildbeutergruppe am Dapoi-Fluß (Quellfluß des Tinjar-Sarawak)"
+  },
+  "identifier": {
+    "multitree": "sib"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Kenyah-Kayanic** **hh:e:Needham:Penan:2007** **hh:s:Sercombe:Eastern-Penan**:5-7, 30-31",
+    "subrefs": "\n**hh:hvw:Smith:Kenyah-Kayanic**\n**hh:e:Needham:Penan:2007**\n**hh:s:Sercombe:Eastern-Penan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sebop (sib-sib) = 6b (Threatened)."
+  }
+}

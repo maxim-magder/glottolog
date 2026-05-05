@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Chiripá",
+    "hid": "nhd",
+    "level": "language",
+    "iso639-3": "nhd",
+    "latitude": "-25.6521",
+    "longitude": "-55.051",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BR",
+      "PY"
+    ],
+    "links": "\n[Ñandeva](https://endangeredlanguages.com/lang/2920)\nhttps://www.wikidata.org/entity/Q2873230\nhttps://en.wikipedia.org/wiki/Ava_Guarani_language\nhttps://phoible.org/languages/chir1286"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:jensen:98:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rodrigues:58**\n**cldf:schleicher:98**\n**fabreall2009ann:Enlhet-Enenlhet9**\n**fabreall2009ann:Tupi_nhandeva00**\n**fabreall2009ann:Tupi_nhandeva01**\n**fabreall2009ann:Tupi_nhandeva02**\n**fabreall2009ann:Tupi_nhandeva03**\n**fabreall2009ann:Tupi_nhandeva04**\n**fabreall2009ann:Tupi_nhandeva05**\n**fabreall2009ann:Tupi_nhandeva06**\n**fabreall2009ann:Tupi_nhandeva09**\n**fabreall2009ann:Tupi_nhandeva10**\n**fabreall2009ann:Tupi_nhandeva11**\n**fabreall2009ann:Tupi_nhandeva12**\n**fabreall2009ann:Tupi_nhandeva13**\n**fabreall2009ann:Tupi_nhandeva14**\n**fabreall2009ann:Tupi_nhandeva15**\n**fabreall2009ann:Tupi_nhandeva16**\n**fabreall2009ann:Tupi_nhandeva17**\n**fabreall2009ann:Tupi_nhandeva18**\n**fabreall2009ann:Tupi_nhandeva19**\n**fabreall2009ann:Tupi_nhandeva20**\n**fabreall2009ann:Tupi_nhandeva21**\n**fabreall2009ann:Tupi_nhandeva22**\n**fabreall2009ann:Tupi_nhandeva25**\n**fabreall2009ann:Tupi_nhandeva26**\n**fabreall2009ann:Tupi_nhandeva27**\n**fabreall2009ann:Tupi_nhandeva28**\n**fabreall2009ann:Tupi_nhandeva29**\n**fabreall2009ann:Tupi_nhandeva31**\n**fabreall2009ann:Tupi_nhandeva32**\n**fabreall2009ann:Tupi_nhandeva33**\n**fabreall2009ann:Tupi_nhandeva34**\n**fabreall2009ann:Tupi_nhandeva35**\n**fabreall2009ann:Tupi_nhandeva36**\n**fabreall2009ann:Tupi_nhandeva37**\n**fabreall2009ann:Tupi_nhandeva38**\n**hh:he:ZanardiniBiedermann:Paraguay**\n**hh:hvld:Dooley:Nandeva**\n**hh:hvw:Firestone:Tupi-Guarani**\n**hh:hvw:deFreitas:Guayanas**\n**hh:phon:Costa:Nhandewa**\n**hh:phon:Costa:Nhandewa:2007**\n**hh:phon:Costa:Nhendewa**\n**hh:phon:Nogueira:Abaneenga**\n**hh:phonsoc:Daviet:Ava-Guarani**\n**hh:st:Nogueira:Guarani**\n**hh:t:Nimuendaju**\n**iso6393:2007-143**"
+  },
+  "altnames": {
+    "glottolog": "\nChiripa",
+    "multitree": "\nApytare\nAva\nAva Guaraní\nChiriguano-Ava\nChiripa\nChiripá\nGuarani-ñandeva\nGuaraní language area\nGuaraní ñandeva\nNhandeva\nNhandéva\nTsiripá\nTxiripá\nÑandeva",
+    "lexvo": "\nAva Guaraní [en]\nChiripá Guaraní [en]\nChiripá [en]\nGvaranių čiripų kalba [lt]",
+    "hhbib_lgcode": "\nAva-Guarani\nAvá Guarani\nCaauá do Parana-panema\nGuaraní-Ava\nNandeva\nParaná",
+    "elcat": "\nChiripa\nChiripá\nNhandeva\nNhandéva\nTsiripá\nTxiripá\nÑandeva"
+  },
+  "triggers": {
+    "lgcode": "\nnhandewa\ntraduccao\nchiripa\njesuita\nalmeida\ncatechese\nroyhendu\nabanheem\nfortalecimento\noutro\npublicada\ncomposta\ntuguy\nvertida\nviviendas\nmontoya\nmanuscripto\nnhandeva\nkambi\nnogueira\nruiz\nabaneenga\ncastelhano\nguayra"
+  },
+  "identifier": {
+    "multitree": "nhd",
+    "endangeredlanguages": "2920"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mello:Tupi-Guarani** **hh:hv:RodriguesCabral:Tupi-Guarani** **hh:hv:Rodrigues:Xeta** **hh:vw:Dietrich:Ache**",
+    "subrefs": "\n**hh:hv:Mello:Tupi-Guarani**\n**hh:hv:Rodrigues:Xeta**\n**hh:vw:Dietrich:Ache**\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ñandeva (2920-nhd) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core": {
+    "name": "Papitalai",
+    "hid": "pat",
+    "level": "dialect",
+    "iso639-3": "pat",
+    "latitude": "-2.06222",
+    "longitude": "147.417",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Papitalai](https://endangeredlanguages.com/lang/1372)\n[Papitalai](https://grambank.clld.org/languages/papi1254)\n[Papitalai](https://lexibank.clld.org/languages/abvdoceanic-Papitalai)\nhttps://www.wikidata.org/entity/Q6528659"
+  },
+  "classification": {
+    "sub": "**hh:styp:Cleary-Kemp:Koro**:6-7 **hh:hvsoc:SchoolingSchooling:Manus**",
+    "subrefs": "\n**hh:styp:Cleary-Kemp:Koro**\n**hh:hvsoc:SchoolingSchooling:Manus**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cleary-kemp:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**iso6393:2020-025**"
+  },
+  "altnames": {
+    "multitree": "\nAdmiralitäts-inseln\nPapitalai",
+    "lexvo": "\nPapitalai [en]",
+    "hhbib_lgcode": "\nPapitalai-Koro",
+    "elcat": "\nAdmiralitäts-inseln\nPapitalai"
+  },
+  "triggers": {
+    "lgcode": "\ntemporally\npapitalai\nspatially\nmanus\nadmiralitatsinsulaner"
+  },
+  "identifier": {
+    "multitree": "pat",
+    "endangeredlanguages": "1372"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Papitalai (1372-pat) = Endangered (20 percent certain, based on the evidence available) [Cleary-Kemp 2010](cldf:cleary-kemp:10)"
+  },
+  "iso_retirement": {
+    "code": "pat",
+    "name": "Papitalai",
+    "effective": "2021-01-15",
+    "reason": "merge",
+    "change_to": "\nkxr",
+    "remedy": "Merged into Koro (Papua New Guinea) [kxr]",
+    "change_request": "2020-025"
+  }
+}

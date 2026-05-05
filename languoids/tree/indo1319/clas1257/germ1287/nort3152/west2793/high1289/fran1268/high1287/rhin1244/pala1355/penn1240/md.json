@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pennsylvania German",
+    "hid": "pdc",
+    "level": "language",
+    "iso639-3": "pdc",
+    "latitude": "40.030507",
+    "longitude": "-76.3211",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Pennsylvania German](https://endangeredlanguages.com/lang/8429)\nhttps://en.wikipedia.org/wiki/Pennsylvania_Dutch_language\nhttps://www.wikidata.org/entity/Q22711"
+  },
+  "classification": {
+    "sub": "**hh:s:Green:Pfalzische**",
+    "subrefs": "\n**hh:s:Green:Pfalzische**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:250**\n**cldf:vanness:94**\n**hh:d:Stine:Pennsylvania-German**\n**hh:dial:Buffington:Pennsylvania-German**\n**hh:dialsoc:Keiser:Pennsylvania-German**\n**hh:dialsoc:Keiser:Pennsylvania-German:2012**\n**hh:e:Arends:Central-Dakota-Germans**\n**hh:g:Frey:German-Pennsylvania**\n**hh:g:Haag:Pennsylvania-German**\n**hh:g:Shoemaker:Pennsylvania-German-Amish**\n**hh:h:Valuska:Pennsylvania-German**\n**hh:hs:KonigvanderAuwera:Germanic**\n**hh:ldsoc:Tomas:Pennsylvanischdeustch**\n**hh:phon:Richter:Pennsylvania-German**\n**hh:s:Ballew:Low-German-Concordia**\n**hh:s:BuffingtonBarba:Pennsylvania-German**\n**hh:s:Burridge:PG**\n**hh:s:Frey:Pennsylvania-Dutch**\n**hh:s:Frey:Pennsylvania-German-Pumpernickel**\n**hh:s:Grindstaff:Saxon-German-Missouri**\n**hh:s:Haldeman:Pennsylvania-Dutch**\n**hh:s:Hoffman:Pennsylvania-German**\n**hh:s:Learned:Pennsylvania-German**\n**hh:s:Miller:Pennsylvania-German**\n**hh:soc:Born:Michigan-German**\n**hh:soc:Seeger:Low-German**\n**hh:ssoc:Ness:Pennsylvania-German**\n**hh:std:Horne:Pennsylvania-German**\n**hh:typsoc:Meindl:Older-Amish**\n**hh:typsoc:Meister:Pennsylvania-German**\n**hh:vsoc:Louden:Pennsylvania-Dutch**\n**mpieva:Burridge1992Diachron**"
+  },
+  "altnames": {
+    "multitree": "\nGerman, Pennsylvania\nPennsylvania Deitsh\nPennsylvania Dutch\nPennsylvanish",
+    "lexvo": "\nAlamaneg Pennsylvania [br]\nAlemany de Pennsilvània [ca]\nAlemán de Pensilvania [es]\nAlemão da Pensilvânia [pt]\nGermana din Pennsylvania [ro]\nJęzyk pensylwański [pl]\nLengua tedesca da Pennsylvania [lij]\nLingua Deitsch [la]\nPennsilfaanisch Deitsch [pdc]\nPennsilfaanisch [fr]\nPennsilvaniese Duits [af]\nPennsylvania Dutch [de]\nPennsylvania German [en]\nPennsylvania German language [en]\nPennsylvania-Duits [nl]\nPennsylvaniadeutsch [gsw]\nPennsylvaniadüütsch [nds]\nPennsylvaniako aleman [eu]\nPennsylvaniansaksa [fi]\nPennsylvaniatysk [no]\nPennsylvaniatyska [sv]\nPennsylvaynek [kw]\nPensilvangermana dialekto [eo]\nPensilvanijski njemački [hr]\nPensilvanska nemščina [sl]\nPensilvanya Almancası [tr]\nPensylvánska nemčina [sk]\nPensylvánská němčina [cs]\nTedesco della Pennsylvania [it]\nTudesch dela Pennsylvania [lmo]\nПенсильванско-немецкий диалект [ru]\nПенсильвансько-німецький діалект [uk]\nپېنسىلۋانىيە نېمىس تىلى [ug]\nፔንስልቫኒያ ጀርመንኛ [am]\nペンシルベニアドイツ語 [ja]\n賓夕法尼亞德語 [zh]\n펜실베이니아 독일어 [ko]",
+    "hhbib_lgcode": "\nCentral Dakota Germans\nLow German Dialect of Concordia in Missouri from migrations from the area north of Hannover\nMichigan German in Frankenmuth\nPennsylvanischdeutsch\nSaxon German in East Perry County Missouri",
+    "elcat": "\nPennsylvania Deitsh\nPennsylvania Dutch\nPennsylvania German\nPennsylvanish"
+  },
+  "triggers": {
+    "lgcode": "\npennsylvanian\nanabaptists\npennsylvania"
+  },
+  "identifier": {
+    "multitree": "pdc",
+    "endangeredlanguages": "8429"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Pennsylvania German (8429-pdc) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

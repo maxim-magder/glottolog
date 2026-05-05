@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nggwahyi",
+    "hid": "ngx",
+    "level": "language",
+    "iso639-3": "ngx",
+    "latitude": "10.6058",
+    "longitude": "12.9234",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Nggwahyi](https://endangeredlanguages.com/lang/5029)\n[Ngwaxi](https://lexibank.clld.org/languages/kraftchadic-Ngwaxi)\nhttps://en.wikipedia.org/wiki/Nggwahyi_language\nhttps://www.wikidata.org/entity/Q56265"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3699**\n**cldf:lewis:ed:09**\n**hh:hv:Hoffmann:Bura-Margyi**\n**hh:hw:Kraft:Chadic:II**"
+  },
+  "altnames": {
+    "multitree": "\nNggwahyi\nNgwaxi\nNgwohi",
+    "lexvo": "\nNggwahyi [en]",
+    "hhbib_lgcode": "\nNgwaxi",
+    "elcat": "\nNggwahyi\nNgwaxi\nNgwohi"
+  },
+  "triggers": {
+    "lgcode": "\niii AND biu"
+  },
+  "identifier": {
+    "multitree": "ngx",
+    "endangeredlanguages": "5029"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:50-51",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Nggwahyi (5029-ngx) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

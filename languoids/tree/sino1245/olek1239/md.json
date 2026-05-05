@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Olekha",
+    "hid": "ole",
+    "level": "language",
+    "iso639-3": "ole",
+    "latitude": "27.2079",
+    "longitude": "90.5546",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT"
+    ],
+    "links": "\n[Olekha](https://endangeredlanguages.com/lang/4919)\nhttps://www.wikidata.org/entity/Q3695204\nhttps://en.wikipedia.org/wiki/%CA%BCOle_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:hyslop:13:2**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hel:vanDriem:ThreeGems**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hv:Hyslop:East-Bodish:Reconstruction**\n**hh:hvld:Hyslop:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish:2010**\n**hh:hvld:vanDriem:Black-Mountain**\n**hh:ld:vanDriem:Monpa-Black-Mountains**\n**hh:lde:Giri:Monpas**\n**hh:ssoc:Hyslop:Olekha**\n**hh:vld:Gerber:Gongduk-Bjokapakha-Black-Mountain-Monpa:2020**"
+  },
+  "altnames": {
+    "multitree": "\nMonpa\nOle Mönpa\nOlekha",
+    "lexvo": "\nOlekha [en]",
+    "hhbib_lgcode": "\nBlack Mountain\nBlack Mountain Monpa\nBlack Mountain Mönpa\nMönpa",
+    "elcat": "\n'Olekha\nBlack Mountain\nMonpa\nOle Mönpa\nOlekha"
+  },
+  "triggers": {
+    "lgcode": "\nmtsho\nconjugational"
+  },
+  "identifier": {
+    "multitree": "ole",
+    "endangeredlanguages": "4919"
+  },
+  "classification": {
+    "sub": "**hh:vld:Gerber:Gongduk-Bjokapakha-Black-Mountain-Monpa:2020**",
+    "subrefs": "\n**hh:vld:Gerber:Gongduk-Bjokapakha-Black-Mountain-Monpa:2020**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Olekha (4919-ole) = Critically Endangered (80 percent certain, based on the evidence available) [Hyslop 2016](cldf:hyslop:16)"
+  }
+}

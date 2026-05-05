@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Bassa",
+    "hid": "bsq",
+    "level": "language",
+    "iso639-3": "bsq",
+    "latitude": "7.27501",
+    "longitude": "-11.543",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LR",
+      "SL"
+    ],
+    "links": "\n[Bassa](https://lexibank.clld.org/languages/polyglottaafricana-Bassa)\nhttps://en.wikipedia.org/wiki/Bassa_language\nhttps://phoible.org/languages/nucl1418\nhttps://www.wikidata.org/entity/Q34949"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:11152**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:11716**\n**eballiso2009:29032**\n**eballiso2009:31609**\n**eballiso2009:37008**\n**eballiso2009:49891**\n**eballiso2009:49896**\n**eballiso2009:52060**\n**eballiso2009:56339**\n**eballiso2009:59371**\n**eballiso2009:59987**\n**eballiso2009:7398**\n**eballiso2009:7662**\n**hh:e:Siegmann:Bassa**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hew:Johnston:Liberia**\n**hh:hw:Clarke:Africa**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Sierra-Leone**\n**hh:phon:Bertkau:Bassa**\n**hh:phon:Hobley:Bassa**\n**hh:s:Crocker:Basa**\n**hh:s:Muller:Basa-Grebo-Kru**\n**hh:typ:Hobley:Bassa**\n**hh:w:Kilham:African**\n**hh:w:Marchese:Kru-Lexemes**\n**hh:w:Norris:WCAfrica**"
+  },
+  "altnames": {
+    "lexvo": "\nBassa [de]",
+    "hhbib_lgcode": "\nBasa\nBasa-To\nBassa Kilham\nBasã\nGbassa"
+  },
+  "triggers": {
+    "lgcode": "\nbassa\nnaukeurige\nvilles\nformations\numbstandliche"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marchese:Kru**:73-78 **hh:hv:Vogler:Kru:2017**:11-15",
+    "subrefs": "\n**hh:hv:Marchese:Kru**\n**hh:hv:Vogler:Kru:2017**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bassa (bsq-bsq) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chhulung",
+    "hid": "cur",
+    "level": "language",
+    "iso639-3": "cur",
+    "latitude": "26.9107",
+    "longitude": "87.2133",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Chhulung](https://endangeredlanguages.com/lang/4059)\nhttps://www.wikidata.org/entity/Q5116126\nhttps://en.wikipedia.org/wiki/Chulung_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:driem:01:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:vanDriem:Himalayas**\n**hh:ld:Limbu:Chhulung**\n**hh:ld:Rai:Chhulung**\n**hh:phonsoc:Limbu:Chhulung**\n**hh:soc:Rai:Chhulung**\n**hh:typ:Limbu:Chhulung**\n**hh:typ:Limbu:Chhulung:Case**"
+  },
+  "altnames": {
+    "multitree": "\nCh?l?ng\nChhilling\nChholung\nChhulung\nChhÃ»lÃ»ng RÃ»ng\nChhûlûng Rûng\nChilling\nChulung\nChulún\nChÃ¼lÃ¼ng\nChülüng",
+    "lexvo": "\nChhulung [en]",
+    "hhbib_lgcode": "\nP 684 Chiling",
+    "elcat": "\nChhilling\nChholung\nChhulung\nChhûlûng Rûng\nChilling\nChulung\nChülüng\nChɨlɨng"
+  },
+  "triggers": {
+    "lgcode": "\nchhulung"
+  },
+  "identifier": {
+    "multitree": "cur",
+    "endangeredlanguages": "4059"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:68-69",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chhulung (4059-cur) = Endangered (100 percent certain, based on the evidence available) (\"[C]hildren are not acquiring the Chhulung language natively because parents' attitudes towards mother tongue is not positive. They think that if their children speak the Chhulung language (mother tongue), they will be weak in Nepali and English. So their parents are urging to learn Nepali language more correctly and create a situation of forgetting the mother tongue.\" (p. 34)) [Limbu 2007](cldf:limbu:07)"
+  }
+}

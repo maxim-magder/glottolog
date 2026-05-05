@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Michoacán Mazahua",
+    "hid": "mmc",
+    "level": "language",
+    "iso639-3": "mmc",
+    "latitude": "19.7239",
+    "longitude": "-100.293",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953705"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Knapp:Mazahua**\n**hh:styp:Victoria:Mazahua-Laguna**\n**hh:typ:Martinez:Mazahua-Laguna**\n**hh:typ:MoraMora:Mazahua-Michoacan**\n**hh:typ:Victoria:Mazahua-Laguna**\n**mpieva:193**"
+  },
+  "altnames": {
+    "glottolog": "\nMichoacan Mazahua",
+    "multitree": "\nMasawa\nMazahua\nMazahua, Michoacán",
+    "lexvo": "\nMichoacán Mazahua [en]",
+    "hhbib_lgcode": "\nMazahua de Occidente\nMazahua de San Antonio de la Laguna\nMazahua-Michoacán\nZitácuaro"
+  },
+  "triggers": {
+    "lgcode": "\ndiccionario AND mazahua"
+  },
+  "identifier": {
+    "multitree": "mmc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997** **hh:hv:Campbell:Otomanguean**",
+    "subrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Western Mazahua (941-) = Definitely endangered"
+  }
+}

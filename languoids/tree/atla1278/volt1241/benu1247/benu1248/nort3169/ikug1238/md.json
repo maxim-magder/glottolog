@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Iku-Gora-Ankwa",
+    "hid": "ikv",
+    "level": "language",
+    "iso639-3": "ikv",
+    "latitude": "10.27852",
+    "longitude": "7.84105",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913940\nhttps://en.wikipedia.org/wiki/Iku_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hwsoc:Hon:Adara**\n**hh:ld:Bawa:Hausa-Ekhwa**\n**hh:w:Blench:Ehwa**\n**hh:wsoc:Decker:Ejuele**\n**hh:wsoc:Decker:Ikulu**"
+  },
+  "altnames": {
+    "multitree": "\nIku\nIku-Gora-Ankwa",
+    "lexvo": "\nIku-Gora-Ankwa [en]",
+    "hhbib_lgcode": "\nAnkwa\nEhwa\nEkhwa\nHausa [hau] Ekhwa"
+  },
+  "triggers": {
+    "lgcode": "\nehwa"
+  },
+  "identifier": {
+    "multitree": "ikv"
+  },
+  "classification": {
+    "sub": "**hh:w:Blench:Ejegha** **hh:wsoc:Decker:Ejuele**:20-22",
+    "subrefs": "\n**hh:w:Blench:Ejegha**\n**hh:wsoc:Decker:Ejuele**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Iku-Gora-Ankwa (ikv-ikv) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Agob-Ende-Kawam",
+    "hid": "kit",
+    "level": "language",
+    "iso639-3": "kit",
+    "latitude": "-9.08521",
+    "longitude": "142.532",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Agob-Ende-Kawam](https://grambank.clld.org/languages/agob1244)\nhttps://en.wikipedia.org/wiki/Agob_languages\nhttps://www.wikidata.org/entity/Q3332143"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lindsey:18**\n**hh:d:Lindsay:Ende**\n**hh:e:Chalmers:Bugilai**\n**hh:esphon:Lindsey:Ende**\n**hh:he:Williams:Trans-Fly**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hld:Lindsey:Pahoturi**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hv:Wurm:Trans-Fly**\n**hh:hvld:Wurm:Trans-Fly:1971**\n**hh:hvw:Ray:Western**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:WFly**\n**hh:hw:RileyRay:Fly**\n**hh:t:Lindsey:Ende**\n**hh:typ:Scanlon:Ende**\n**hh:w:Anonymous:Dabu**\n**hh:w:Chalmers:Bugilai-Tagota**\n**hh:w:ChalmersRay:Bugi**\n**hh:w:Karius:Kawam**\n**hh:w:Karius:Kibuli**\n**hh:w:Lyons:Agob**"
+  },
+  "altnames": {
+    "multitree": "\nAgöb\nDabu",
+    "lexvo": "\nAgob [en]",
+    "hhbib_lgcode": "\nAgob\nAgöb\nBugi\nBugi (= Agob)\nBugilai (= Agob)\nDabu\nDabu and Toga west/east side of the Paho river\nEnde\nKawam\nKibuli\nNgamai-Iki ie Tupadibi tribe in villages of Bere-Wun-Gaima-Taberatat\nPahoturi: Dabu (= Agob)\nTupadidi"
+  },
+  "triggers": {
+    "lgcode": "\non AND bugilai\nbugilai"
+  },
+  "identifier": {
+    "multitree": "kit"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Agob (kit-kit) = 6a (Vigorous)."
+  },
+  "classification": {
+    "sub": "**hh:hld:Lindsey:Pahoturi**:669-672",
+    "subrefs": "\n**hh:hld:Lindsey:Pahoturi**"
+  }
+}

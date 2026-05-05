@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Samaritan",
+    "hid": "smp",
+    "level": "language",
+    "iso639-3": "smp",
+    "latitude": "32.0817",
+    "longitude": "35.4487",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "PS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56502\nhttps://en.wikipedia.org/wiki/Samaritan_Hebrew",
+    "timespan": "0300-01-01/1100-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Ben-Hayyim:Samaritan**\n**hh:g:Florentin:Late-Samaritan-Hebrew**\n**hh:g:Macuch:Samaritanischen-Hebraisch**"
+  },
+  "altnames": {
+    "multitree": "\nSamaritan\nSamaritan Hebrew",
+    "lexvo": "\nSamaritan [en]",
+    "hhbib_lgcode": "\nSamaritan Hebrew"
+  },
+  "identifier": {
+    "multitree": "smp"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Kogan:Semitic:2015**",
+    "subrefs": "\n**hh:hvw:Kogan:Semitic:2015**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samaritan Hebrew (smp-smp) = 9 (Dormant)."
+  }
+}

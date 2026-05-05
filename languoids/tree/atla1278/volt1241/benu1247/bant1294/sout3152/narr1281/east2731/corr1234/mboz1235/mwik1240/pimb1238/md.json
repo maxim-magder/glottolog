@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Pimbwe",
+    "hid": "piw",
+    "level": "language",
+    "iso639-3": "piw",
+    "latitude": "-6.81358",
+    "longitude": "31.4289",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Pimbwe](https://endangeredlanguages.com/lang/5072)\nhttps://www.wikidata.org/entity/Q3894132\nhttps://en.wikipedia.org/wiki/Pimbwe_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:guthrie:71:15**\n**cldf:johnston:19:14**\n**cldf:lewis:ed:09**\n**cldf:yuko:11**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:33159**\n**eballiso2009:3369**\n**eballiso2009:50699**\n**eballiso2009:55716**\n**eballiso2009:7057**\n**hh:e:Maurice:Bapimbwe**\n**hh:e:Seel:Pimbwe**\n**hh:e:Willis:Fipa**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:WalshSwilla:Corridor**\n**hh:hvld:Abe:Gongwe-Bende-Pimbwe**\n**hh:hvw:Roth:Wungu**\n**hh:s:Weiss:Pimbwe**\n**hh:s:Weiss:Pimbwe:2023**\n**hh:typ:Chomba:Pimbwe**"
+  },
+  "altnames": {
+    "multitree": "\nCipimbwe\nIchipimbwe\nKipimbwe\nPimbwe",
+    "lexvo": "\nPimbwe [en]",
+    "hhbib_lgcode": "\nM11_Pimbwe",
+    "elcat": "\nCipimbwe\nIchipimbwe\nKipimbwe\nPimbwe"
+  },
+  "triggers": {
+    "lgcode": "\nbapimbwe\npimbwe"
+  },
+  "identifier": {
+    "multitree": "piw",
+    "endangeredlanguages": "5072"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Roth:Wungu**",
+    "subrefs": "\n**hh:hvw:Roth:Wungu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pimbwe (5072-piw) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

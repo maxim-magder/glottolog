@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Botlikh",
+    "hid": "bph",
+    "level": "language",
+    "iso639-3": "bph",
+    "latitude": "42.665",
+    "longitude": "46.22",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Botlikh](https://endangeredlanguages.com/lang/1728)\nhttps://en.wikipedia.org/wiki/Botlikh_language\nhttps://www.wikidata.org/entity/Q56560"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2092**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:moroz:naccarato:etal:19**\n**cldf:np:nd:264**\n**hh:d:AlekseevAzaev:Botlixsko**\n**hh:d:SaidovaAbusov:Botlixsko**\n**hh:hld:Dirr:Kaukasischen**\n**hh:htyp:Gamzatova:Dagestana**\n**hh:s:Gudava:Botlix:1976**\n**hh:std:Gudava:Botlix**"
+  },
+  "altnames": {
+    "multitree": "\nBotlij\nBotlikh\nBotlix",
+    "lexvo": "\nBotlic'heg [br]\nBotlihin kieli [fi]\nBotlikh [en]\nBotlikh language [en]\nJęzyk botlichyjski [pl]\nБотлихский язык [ru]\nБотліська мова [uk]",
+    "hhbib_lgcode": "\nBotlich\nBotlixskij",
+    "elcat": "\nBotlikh\nBotlix\nBujxałi mic’c’i\nботлихский язык\nбуйхaдалъи мицIцIи\nбуйхалъи мицIцIи\nბოთლიხური ენა"
+  },
+  "triggers": {
+    "lgcode": "\nbotlixskij\nbotlixuri\nNOT und AND 1103"
+  },
+  "identifier": {
+    "multitree": "bph",
+    "endangeredlanguages": "1728"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudava:Andijskix**",
+    "subrefs": "\n**hh:hv:Gudava:Andijskix**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Botlikh (1728-bph) = Threatened (100 percent certain, based on the evidence available) [Moroz et al. 2019](cldf:moroz:naccarato:etal:19)"
+  }
+}

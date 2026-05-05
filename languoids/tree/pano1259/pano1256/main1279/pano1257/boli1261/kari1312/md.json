@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Karipuna Pano",
+    "hid": "NOCODE_Karipuna",
+    "level": "language",
+    "latitude": "-10.0",
+    "longitude": "-65.5",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Karipuna (Panoan)](https://wals.info/languoid/lect/wals_code_kdg)",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:martius:63**\n**fabreall2009ann:Pano-Takana_karipuna0**\n**fabreall2009ann:Pano-Takana_karipuna2**\n**fabreall2009ann:Pano-Takana_karipuna3**\n**fabreall2009ann:Pano-Takana_karipuna6**\n**fabreall2009ann:Pano-Takana_karipuna7**\n**fabreall2009ann:Pano-Takana_karipuna8**\n**fabreall2009ann:Pano-Takana_karipuna9**\n**hh:ew:Keller:Amazon-Madeira**\n**hh:hv:Loukotka:Madeira**\n**hh:hv:deCrequi-MontfortRivet:Pano**\n**hh:hvb:Fleck:Panoan**\n**hh:hw:Martius:Brasiliens**\n**hh:hw:Rondon:Silvicolas**\n**hh:hw:delCastillo:Bolivia**\n**hh:v:Gomesetal:Karipuna-Pano**\n**hh:w:Hanke:Karipuna**"
+  },
+  "triggers": {
+    "lgcode": "\ncaripunas\nintrodutorio\neloe\nexplorer"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Karipuna (NOCODE_Karipuna-NOCODE_Karipuna) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCaripuna\nCaripuna (E'loê)\nJaun-Avo-Caripuná\nKaripuna\nKaripuna from Martius\nKaripuna-Pano",
+    "glottolog": "\nKaripuna"
+  }
+}

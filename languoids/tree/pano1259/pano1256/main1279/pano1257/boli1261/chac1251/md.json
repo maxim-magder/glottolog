@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Chácobo",
+    "hid": "cao",
+    "level": "language",
+    "iso639-3": "cao",
+    "latitude": "-12.133",
+    "longitude": "-66.7164",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Chácobo](https://endangeredlanguages.com/lang/4156)\n[Chácobo](https://grambank.clld.org/languages/chac1251)\n[Chácobo](https://wals.info/languoid/lect/wals_code_cbo)\nhttps://en.wikipedia.org/wiki/Ch%C3%A1cobo_language\nhttps://phoible.org/languages/chac1251\nhttps://www.wikidata.org/entity/Q2591202"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:fonseca:10**\n**cldf:bybee:perkins:etal:94**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cordoba:lorena:etal:12**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:prost:62**\n**cldf:prost:65:2**\n**cldf:simons;:fennig:ed:13**\n**hh:e:Cordoba:Chacobo**\n**hh:e:Hermosa:Chacobos**\n**hh:e:Kelm:Chacobo**\n**hh:e:Prost:Chacobo**\n**hh:e:Prost:Chacobo:1970**\n**hh:ew:Hanke:Chacobo**\n**hh:ew:Hanke:Chacobo:1957**\n**hh:g:Tallman:Chacobo**\n**hh:h:Balzan:Centrale-America-Meriodionale**\n**hh:hew:Cardus:Bolivia**\n**hh:hv:Kensinger:Panoan**\n**hh:hvb:Fleck:Panoan**\n**hh:hw:Nordenskiold:B5858**\n**hh:ld:Prost:Chacobo**\n**hh:s:Cordobaetal:Pano-Meridional**\n**hh:s:Prost:Chacobo**\n**hh:s:Prost:Chacobo:1967**\n**hh:sd:Zingg:Chacobo**\n**hh:vld:ValenzuelaIggesen:Marcador-Suprasegmental-Chacobo**\n**sil16:10028**\n**sil16:10029**\n**sil16:11512**\n**sil16:12142**\n**sil16:12146**\n**sil16:12963**\n**sil16:12964**\n**sil16:12966**\n**sil16:12967**\n**sil16:12968**\n**sil16:12969**\n**sil16:12970**\n**sil16:26448**\n**sil16:43657**\n**sil16:44185**"
+  },
+  "altnames": {
+    "glottolog": "\nChacobo",
+    "wals": "\nChácobo",
+    "ruhlen (1987)": "\nChákobo",
+    "moseley & asher (1994)": "\nChacobo",
+    "multitree": "\nChacobo\nChácobo\nChákobo\nShinabo",
+    "lexvo": "\nChácobo [en]\nChácobo language [en]",
+    "hhbib_lgcode": "\nChacoba\nChacobo\nChacobos",
+    "elcat": "\nChacobo\nChakobo-Pakawara\nChácobo\nChákobo\nShinabo"
+  },
+  "triggers": {
+    "lgcode": "\nchacobos\nfolkloristic\ncaheno\nhochzeitsriten\ntsayano\nchacobo\nxoyahua\nNOT y AND chacobo\nfragmento"
+  },
+  "identifier": {
+    "wals": "cbo",
+    "multitree": "cao",
+    "endangeredlanguages": "4156"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Fleck:Panoan** **hh:hv:deOliveira:Pano**",
+    "subrefs": "\n**hh:hv:deOliveira:Pano**\n**hh:hvb:Fleck:Panoan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chácobo (4156-cao) = Vulnerable (60 percent certain, based on the evidence available) (\"los niños son monolingües hasta alcanzar la edad escolar. Los adultos son en buena parte bilingües (más los varones que las mujeres\" (p. 29).\n[the children are monolingual until they reach school age. The adults are in large parte bilingual (more the men than the women)].) [Córdoba et al. 2012](cldf:cordoba:lorena:etal:12)"
+  }
+}

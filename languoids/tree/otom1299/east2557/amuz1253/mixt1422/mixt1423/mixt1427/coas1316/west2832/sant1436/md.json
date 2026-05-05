@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Santa María Zacatepec Mixtec",
+    "hid": "mza",
+    "level": "language",
+    "iso639-3": "mza",
+    "latitude": "16.7003",
+    "longitude": "-97.9484",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Santa María Zacatepec Mixtec](https://grambank.clld.org/languages/sant1436)\nhttps://en.wikipedia.org/wiki/Zacatepec_Mixtec\nhttps://www.wikidata.org/entity/Q8063756"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Towne:Tacuate-Zacatepec**\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "altnames": {
+    "glottolog": "\nSanta Maria Zacatepec Mixtec",
+    "multitree": "\nMixtec, Santa María Zacatepec\nMixteco de Santa María Zacatepec\nMzab\nSouthern Misteko\nSouthern Mixteco\nSouthern Putla Mixtec\nTacuate\nZacatepec Mixtec",
+    "lexvo": "\nSanta María Zacatepec Mixtec [en]",
+    "hhbib_lgcode": "\n101 Santa Maria Zacatepec Mixtec Swanton and Mendoza Ruíz 2021; Towne 2011; Josserand 1983\nMixteco de Zacatepec-Oaxaca\nSanta María Zacatepec\nZac"
+  },
+  "triggers": {
+    "lgcode": "\ntacuate"
+  },
+  "identifier": {
+    "multitree": "mza",
+    "endangeredlanguages": "10528"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:13-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Coast Mixtec (10528-mza) = Vulnerable (20 percent certain, based on the evidence available) ['bib69']"
+  }
+}

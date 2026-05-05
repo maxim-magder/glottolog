@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Simaa",
+    "hid": "sie",
+    "level": "language",
+    "iso639-3": "sie",
+    "latitude": "-15.7434",
+    "longitude": "22.6455",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ZM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7517329\nhttps://en.wikipedia.org/wiki/Simaa_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:21340**\n**eballiso2009:52652**\n**hh:hv:Bostoen:Western-Zambia**\n**hh:hv:Fortune:Barotseland**\n**hh:hv:Lisimba:Luyana**\n**hh:typ:Yukawa:Mwenyi**\n**hh:w:Yukawa:Mwenyi**"
+  },
+  "altnames": {
+    "multitree": "\nSimaa\nZambia",
+    "lexvo": "\nSimaa [en]",
+    "hhbib_lgcode": "\nLuyana but nevertheless\nLuyana of Simaa\nMwenyi"
+  },
+  "triggers": {
+    "lgcode": "\nmwenyi"
+  },
+  "identifier": {
+    "multitree": "sie"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lisimba:Luyana**",
+    "subrefs": "\n**hh:hv:Lisimba:Luyana**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Mwenyi (1135-sie-mwe) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

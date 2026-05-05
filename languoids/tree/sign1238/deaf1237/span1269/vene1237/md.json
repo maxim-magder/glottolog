@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Venezuelan Sign Language",
+    "hid": "vsl",
+    "level": "language",
+    "iso639-3": "vsl",
+    "latitude": "10.3294",
+    "longitude": "-66.7678",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "VE"
+    ],
+    "links": "\n[Venezuelan Sign Language](https://endangeredlanguages.com/lang/7118)\nhttps://www.wikidata.org/entity/Q3322064\nhttps://en.wikipedia.org/wiki/Venezuelan_Sign_Language"
+  },
+  "altnames": {
+    "multitree": "\nVenezuelan Sign Language",
+    "lexvo": "\nVenezuelan Sign Language [en]",
+    "hhbib_lgcode": "\nVenezuelan Sign Language (LSV)",
+    "elcat": "\nLengua de Señas Venezolana\nVenezuelan Sign Language"
+  },
+  "identifier": {
+    "multitree": "vsl",
+    "endangeredlanguages": "7118"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Venezuelan Sign Language (vsl-vsl) = 6a (Vigorous). Recognized language (1999, Constitution, Chapter 5, Article 81)."
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:212**\n**hh:b:Oviedo:LSV**\n**hh:h:Biord:Venezuela**\n**hh:phon:Oviedo:LSV**\n**hh:soc:WilliamsParks:Deaf-Venezuela**\n**hh:typ:Dominguez:Verbos-LSV**\n**hh:typ:Dominguez:Verbos-Senas-Venezolana**\n**hh:typ:Oviedo:Flexion-Senas-Venezolana**\n**hh:typ:Oviedo:Gebarden**\n**hh:typ:Oviedo:Senas-Venezolana-Cuentos**\n**hh:typ:Oviedo:Venezuelan-Sign**\n**hh:typ:Perez:Senas-Venezolana**"
+  },
+  "classification": {
+    "sub": "Catalan Sign Language [cata1241], Valencian Sign Language [vale1251], Spanish Sign Language [span1263] (including Galician) clearly form a tight-knit family lexicostatistically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**, **hh:h:Quer:Sign-Mediterranean**:98, **hh:s:Cabeza-Pereiro:Spanish-Sign**:729). Venezuelan Sign Language [vene1237] has a historical connection and also belongs to this family (**hh:soc:WilliamsParks:Deaf-Venezuela**):9. This family has an independent history (**hh:s:Cabeza-Pereiro:Spanish-Sign**):730-731 and (contra **hh:hv:Wittmann:Classification-Signees**:282) is not related to LSF, at least not so that it can be traced lexically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22, nor to Lengua de Señas Mexicana (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22.",
+    "subrefs": "\n**hh:s:Cabeza-Pereiro:Spanish-Sign**\n**hh:h:Quer:Sign-Mediterranean**\n**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**\n**hh:hv:Wittmann:Classification-Signees**\n**hh:soc:WilliamsParks:Deaf-Venezuela**"
+  }
+}

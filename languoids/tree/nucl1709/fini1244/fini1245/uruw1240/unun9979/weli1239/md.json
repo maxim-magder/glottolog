@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Weliki",
+    "hid": "klh",
+    "level": "language",
+    "iso639-3": "klh",
+    "latitude": "-5.98588",
+    "longitude": "147.137",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Weliki](https://endangeredlanguages.com/lang/4404)\nhttps://www.wikidata.org/entity/Q7981017\nhttps://en.wikipedia.org/wiki/Weliki_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hld:Smith:Morobe**\n**hh:hv:ClaassenMcElhanon:Finisterre**"
+  },
+  "altnames": {
+    "multitree": "\nKarangi\nWeleki\nWeliki",
+    "lexvo": "\nWeliki [en]",
+    "elcat": "\nKarangi\nWeleki\nWeliki",
+    "hhbib_lgcode": "\nWeleki"
+  },
+  "identifier": {
+    "multitree": "klh",
+    "endangeredlanguages": "4404"
+  },
+  "classification": {
+    "sub": "**hh:g:McElhanon:Selepet-Finisterre-Huon**:44",
+    "subrefs": "\n**hh:g:McElhanon:Selepet-Finisterre-Huon**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Weliki (4404-klh) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Aghwan",
+    "hid": "xag",
+    "level": "language",
+    "iso639-3": "xag",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ"
+    ],
+    "longitude": "47.126667",
+    "latitude": "40.374444",
+    "links": "\n[Aghwan](https://grambank.clld.org/languages/aghw1237)\nhttps://en.wikipedia.org/wiki/Caucasian_Albanian_language\nhttps://www.wikidata.org/entity/Q34931",
+    "timespan": "0500-01-01/0700-01-01"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Schulze:Caucasian-Albanian-Udi**",
+    "subrefs": "\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ld:Greppin:Caucasian-Albanians**\n**hh:st:Gippertetal:Caucasian-Albanian**\n**hh:typ:Lolya:Kavkazsko-Albanskogo**\n**hh:vtyp:Schulze:Caucasian-Albanian-Udi**"
+  },
+  "altnames": {
+    "multitree": "\nAghwan\nAgwan\nCaucasian Albanian\nOld Udi",
+    "lexvo": "\nAghwan [en]",
+    "hhbib_lgcode": "\nCaucasian Albanian"
+  },
+  "triggers": {
+    "lgcode": "\nalbanians\npalimpsests"
+  },
+  "identifier": {
+    "multitree": "xag"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Aghwan or Caucasian Albanian, an extinct but amply attested Lezgic language, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:st:Gippertetal:Caucasian-Albanian**, **hh:ld:Greppin:Caucasian-Albanians**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xag"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Aghwan (xag-xag) = 10 (Extinct)."
+  }
+}

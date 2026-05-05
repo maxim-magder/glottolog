@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Godoberi",
+    "hid": "gdo",
+    "level": "language",
+    "iso639-3": "gdo",
+    "latitude": "42.7428",
+    "longitude": "46.2252",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Ghodoberi](https://endangeredlanguages.com/lang/2314)\n[Godoberi](https://grambank.clld.org/languages/ghod1238)\n[Godoberi](https://wals.info/languoid/lect/wals_code_god)\nhttps://en.wikipedia.org/wiki/Godoberi_language\nhttps://phoible.org/languages/ghod1238\nhttps://www.wikidata.org/entity/Q56515"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1801**\n**cldf:anonymous:96:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gudava:64**\n**cldf:humphreys:mits:ed:93**\n**cldf:kazenin:94**\n**cldf:kodzasov:99:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:saidova:73**\n**hh:d:Saidova:Godoberinsko**\n**hh:g:Kibrik:Godoberi**\n**hh:g:Saidova:Godoberinskij**\n**hh:s:Saidova:Ghodoberi**"
+  },
+  "altnames": {
+    "glottolog": "\nGhodoberi",
+    "wals": "\nGodoberi",
+    "ruhlen (1987)": "\nGodoberi",
+    "moseley & asher (1994)": "\nGodoberi",
+    "multitree": "\nGhodoberi\nGodoberi\nGodoberin\nGodoberí",
+    "lexvo": "\nGhodoberi [en]\nGodobereg [br]\nGodoberi [fr]\nGodoberi language [en]\nGodoberin kieli [fi]\nJęzyk godoberyjski [pl]\nГодоберинский язык [ru]\nГодоберинська мова [uk]\nГодоберски јазик [mk]",
+    "hhbib_lgcode": "\nGhodoberi",
+    "elcat": "\nGhodoberi\nGodoberi\nGodoberin\nƔibdiƛi micci\nгодоберийский язык\nгодоберинский язык\nгъибдилIи мицци\nღოდობერიული ენა"
+  },
+  "triggers": {
+    "lgcode": "\ngodoberi\nghodoberi\ngodoberinskij\ngodoberinsko"
+  },
+  "identifier": {
+    "wals": "god",
+    "multitree": "gdo",
+    "endangeredlanguages": "2314"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudava:Andijskix**",
+    "subrefs": "\n**hh:hv:Gudava:Andijskix**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Ghodoberi (2314-gdo) = Endangered (80 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

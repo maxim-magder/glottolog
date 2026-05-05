@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Whitesands",
+    "hid": "tnp",
+    "level": "language",
+    "iso639-3": "tnp",
+    "latitude": "-19.5019",
+    "longitude": "169.381",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Whitesands](https://grambank.clld.org/languages/whit1269)\n[Whitesands (Iarkei)](https://lexibank.clld.org/languages/abvdoceanic-WhitesandsIarkei)\nhttps://en.wikipedia.org/wiki/Whitesands_language\nhttps://www.wikidata.org/entity/Q3063761"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2983**\n**asjp2010:789**\n**hh:hv:Lynch:Southern-Vanuatu**\n**hh:hv:Lynch:Southern-Vanuatu-Pronominal**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Gray:Tanna**\n**hh:s:Hammond:Whitesands**\n**hh:styp:Hammond:Whitesands**\n**hh:typ:HammondMatic:Whitesands:Anaphora**\n**hh:w:Nehrbass:Tanna**"
+  },
+  "altnames": {
+    "multitree": "\nNapuanmen\nTepehuan septentrional\nTepehuano septentrional\nWhitesands\nWhitsands",
+    "lexvo": "\nWhitesands [en]",
+    "hhbib_lgcode": "\nLarkei\nLoniel\nTanna"
+  },
+  "triggers": {
+    "lgcode": "\nwhitesands\nlanguages AND hebrides\nweasisi"
+  },
+  "identifier": {
+    "multitree": "tnp",
+    "endangeredlanguages": "3526"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Southern-Vanuatu**",
+    "subrefs": "\n**hh:hv:Lynch:Southern-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Northern Tepehuán (2720-tnp) = Definitely endangered"
+  }
+}

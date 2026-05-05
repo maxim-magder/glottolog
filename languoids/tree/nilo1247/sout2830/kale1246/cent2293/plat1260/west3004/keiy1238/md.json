@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Keiyo",
+    "hid": "eyo",
+    "level": "language",
+    "iso639-3": "eyo",
+    "latitude": "0.510857",
+    "longitude": "35.226745",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56856\nhttps://en.wikipedia.org/wiki/Keiyo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:massam:27**\n**eballiso2009:49365**\n**eballiso2009:56536**\n**hh:g:Tornay:Keyo**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:hvw:vanOtterloo:Kalenjin**\n**hh:ld:Jerono:Kalenjin**\n**hh:phon:Kiprop:Keiyo**\n**hh:typ:Sikuku:Keiyo**\n**hh:v:Rottland:Marakwet**\n**iso6393:2007-169**"
+  },
+  "altnames": {
+    "multitree": "\nElgeyo\nKeiyo\nKeyo",
+    "lexvo": "\nKeiyo [en]",
+    "hhbib_lgcode": "\nChebiemit\nEsageri\nKamarin Keiyo\nKapsowar\nKeyo\nNerkwo\nSE Marakwet\nSergoit Keiyo\nSoy Keiyo\nTalai"
+  },
+  "triggers": {
+    "lgcode": "\nvocabulaire AND keyo"
+  },
+  "identifier": {
+    "multitree": "kln-kei"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Keiyo (eyo-eyo) = 6a (Vigorous)."
+  }
+}

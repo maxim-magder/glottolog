@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mambai",
+    "hid": "mcs",
+    "level": "language",
+    "iso639-3": "mcs",
+    "latitude": "9.6121",
+    "longitude": "14.0013",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Mambai](https://endangeredlanguages.com/lang/2345)\n[Mambai](https://grambank.clld.org/languages/mamb1294)\n[Mambai](https://wals.info/languoid/lect/wals_code_mmi)\nhttps://en.wikipedia.org/wiki/Mangbai_language\nhttps://phoible.org/languages/mamb1294\nhttps://www.wikidata.org/entity/Q6748872"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anonby:06**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:28923**\n**hh:g:Anonby:Mambay**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Strumpell:Adamauas**\n**hh:hwsoc:Hamm:Mambay**\n**hh:s:Eguchi:Mambai**\n**hh:sd:Anonby:Mambay**\n**sil16:41853**\n**sil16:48227**\n**sil16:49112**"
+  },
+  "altnames": {
+    "multitree": "\nMambai\nMambay\nMamgbay\nMamgbei\nManbai\nMangbai\nMangbaï de Biparé\nMangbei\nMomboi\nMongbay",
+    "lexvo": "\nMambai [en]",
+    "hhbib_lgcode": "\nMambay\nMangbai\nMangbei",
+    "elcat": "\nMambai\nMambay\nMamgbay\nMamgbei\nManbai\nMangbai\nMangbaï de Biparé\nMangbei\nMomboi\nMongbay"
+  },
+  "triggers": {
+    "lgcode": "\nmambay"
+  },
+  "identifier": {
+    "wals": "mmi",
+    "multitree": "mcs",
+    "endangeredlanguages": "2345"
+  },
+  "classification": {
+    "sub": "**hh:hv:Elders:Kebi-Benue** **hh:s:Glidden:Koh**:225-226 **hh:phon:UbelsUbels:Karang**:1-5 **hh:hv:Elders:Kebi-Benue**",
+    "subrefs": "\n**hh:phon:UbelsUbels:Karang**\n**hh:s:Glidden:Koh**\n**hh:hv:Elders:Kebi-Benue**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mambai (2345-mcs) = Vulnerable (20 percent certain, based on the evidence available) [Anonby 2006](cldf:anonby:06)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Chicomuceltec",
+    "hid": "cob",
+    "level": "language",
+    "iso639-3": "cob",
+    "latitude": "15.6078",
+    "longitude": "-91.2869",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT",
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3307204\nhttps://en.wikipedia.org/wiki/Chicomuceltec_language\n[Chicomuceltec](https://wals.info/languoid/lect/wals_code_cec)",
+    "timespan": "1935-01-01/1935-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:sapper:12**\n**hh:hb:ThomasSwanton:Mexico**\n**hh:hew:Sapper:Anahuac**\n**hh:hvwb:Campbell:SEChiapas**\n**hh:hvwphon:Norcliffe:Huastecan**\n**hh:ld:CampbellCanger:Chicomceltec**\n**hh:w:Zimmermann:Cotoque**"
+  },
+  "altnames": {
+    "wals": "\nChicomuceltec",
+    "moseley & asher (1994)": "\nChicomukeltec",
+    "multitree": "\nCac'chiquel Mam\nCakchiquel Mam\nChicomuceltec\nChicomulcelteco\nCotoque\nKotoke",
+    "lexvo": "\nChicomuceltec [en]\nChicomuceltekisk [no]\nJęzyk chicomuceltec [pl]\nLíngua chicomucelteca [pt]\nЧикомукелтекски јазик [mk]",
+    "hhbib_lgcode": "\nChicomucelteca"
+  },
+  "triggers": {
+    "lgcode": "\ncotoque\nhuastecan\nchicomucelo\nNOT new AND huastecan"
+  },
+  "identifier": {
+    "wals": "cec",
+    "multitree": "cob"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Norcliffe:Huastecan**",
+    "subrefs": "\n**hh:hvwphon:Norcliffe:Huastecan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chicomuceltec (cob-cob) = 9 (Dormant)."
+  }
+}

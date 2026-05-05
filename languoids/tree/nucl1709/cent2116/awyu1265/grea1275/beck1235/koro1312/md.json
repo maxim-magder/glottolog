@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Korowai",
+    "hid": "khe",
+    "level": "language",
+    "iso639-3": "khe",
+    "latitude": "-5.26952",
+    "longitude": "140.047",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Korowai](https://endangeredlanguages.com/lang/4385)\n[Korowai](https://grambank.clld.org/languages/koro1312)\n[Korowai](https://lexibank.clld.org/languages/transnewguineaorg-korowai)\n[Korowai](https://wals.info/languoid/lect/wals_code_krw)\nhttps://en.wikipedia.org/wiki/Korowai_language\nhttps://www.wikidata.org/entity/Q6432598"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Stasch:Korowai**\n**hh:e:Stasch:Society-Others**\n**hh:e:Steinmetz:Korowai**\n**hh:e:Tamm:Ndeiram**\n**hh:e:deVries:Korowai**\n**hh:e:vanEnk:Korowai**\n**hh:g:deVriesvanEnk:Korowai**\n**hh:h:Versteeg:Oerwoud**\n**hh:hvw:Wilbrink:Kopkaka**\n**hh:hwsoc:Hughes:UDigul**\n**hh:ld:Stasch:Korowai**\n**iso6393:2007-222**"
+  },
+  "altnames": {
+    "multitree": "\nKolufaup\nKorowai",
+    "lexvo": "\nKorowai [en]",
+    "hhbib_lgcode": "\nAjak\nBurukmakok (here is)\nDanowage\nKorowai/Abiowage\nMabul\nMiwage\nSnimburu\nYaniruma",
+    "elcat": "\nKolufaup\nKorowai"
+  },
+  "triggers": {
+    "lgcode": "\notherness\nkorowai\ndemon"
+  },
+  "identifier": {
+    "wals": "krw",
+    "multitree": "khe;krwa",
+    "endangeredlanguages": "4385"
+  },
+  "classification": {
+    "sub": "**hh:hv:deVriesetal:Greater-Awyu**",
+    "subrefs": "\n**hh:hv:deVriesetal:Greater-Awyu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Korowai (4385-khe) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

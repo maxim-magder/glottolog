@@ -1,0 +1,56 @@
+{
+  "core": {
+    "name": "Kui (India)",
+    "hid": "kxu",
+    "level": "language",
+    "iso639-3": "kxu",
+    "latitude": "19.2043",
+    "longitude": "83.5859",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Kui (India)](https://endangeredlanguages.com/lang/5652)\n[Kui (India)](https://grambank.clld.org/languages/kuii1252)\n[Kui (in India)](https://wals.info/languoid/lect/wals_code_kui)\nhttps://en.wikipedia.org/wiki/Kui_language_(India)\nhttps://phoible.org/languages/kuii1252\nhttps://www.wikidata.org/entity/Q33919"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:elwin:50**\n**cldf:etal:ed:02:8**\n**cldf:fuerer-haimendorf:43:1**\n**cldf:maheswaran:97**\n**cldf:np:01:1**\n**hh:d:Naik:Kui**\n**hh:d:Winfield:Kui**\n**hh:e:Mazumdar:Kui-Kondh**\n**hh:e:Mishra:Konds**\n**hh:g:Friend-Pereira:Kui**\n**hh:g:Maheswaran:Kui**\n**hh:g:Maheswaran:Kui:1989**\n**hh:g:Winfield:Kui**\n**hh:he:Menon:Dravidian**\n**hh:hs:Mahapatra:Orissa**\n**hh:hv:Zvelebil:Dravidian:1997**\n**hh:hvwld:Grierson:4**\n**hh:ld:Usha:Kuyi**\n**hh:s:Andronov:Kui**\n**hh:s:Dash:Kui**\n**hh:s:Letchmajee:Kui**\n**hh:s:Nagaraja:Kuttia-Kui**\n**hh:s:Rajendran:Kui**\n**hh:s:Smith:Khond**\n**hh:typd:Dasa:Kui**\n**hh:typd:Rauta:Kubhi**\n**hh:w:BurrowBhattacharya:Kuttia**\n**hh:w:Carmichael:Vizagapatam**\n**hh:w:Taylor:Khoonds**\n**iso6393:2019-005**\n**ldh:item_407123**\n**mpieva:Friend1909Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nKui (in India)",
+    "ruhlen (1987)": "\nKui",
+    "moseley & asher (1994)": "\nKui",
+    "multitree": "\nKanda\nKandh\nKhond\nKhondi\nKhondo\nKodu\nKodulu\nKu\nKui\nKuinga\nKuy",
+    "lexvo": "\nKui (India) [en]\nKui [en]\nKui language [en]\nLenga Kui [pms]\nLingua Kui [la]\nКуи [ru]\nகூய் மொழி [ta]\nകുയി [ml]",
+    "hhbib_lgcode": "\nBalliguda Subdivision of the Baudh-Kondmal district of Orissa\nChina Kimedi\nDaspalla-Baud-Khondmalls (Phulbani)-Kalahandi-Gumsur-Udaygiri Taluk and Chinna Kimedi in the district of Ganjam and Bissamkatak Taluk and Gunupur Taluk in the Vizagapatam district\nGumsar and Kandh Mals\nGunsur\nGunupur-Udayagiri Taluk\nHighland Khond\nKandha Gauda\nKhond\nKondh\nKondhs\nKondmals of Orissa\nKonds\nKubhi Kandha\nKui\nKui-Kandh-Khond\nKuttia Kandhs of North-east Koraput\nKuttia Kandhs of North-east Koraput (data from Gudari 19.32-83.79 some 25 miles north of Gunupur)\nKuyi/Kūyi\nParja Kandh from Bisamkatak\nStandard Kui of Eastern Ganjam and in the Gumsur region of Kandhamal\nSunkarametta in Andhra",
+    "elcat": "\nKanda\nKandh\nKhond\nKhondi\nKhondo\nKodu\nKodulu\nKu\nKui (India)\nKui (in India)\nKuinga\nKuy"
+  },
+  "triggers": {
+    "lgcode": "\nkoraput\nkondh\nkandh\nkandha\nkubhi\nkuvinga\nkhond\nparjas\nkutia\nkandhs\ntattva"
+  },
+  "identifier": {
+    "wals": "kui",
+    "multitree": "kxu",
+    "endangeredlanguages": "5652"
+  },
+  "classification": {
+    "sub": "**hh:hv:Krishnamurti:Dravidian**",
+    "subrefs": "\n**hh:hv:Krishnamurti:Dravidian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kui (India) (5652-kxu) = At risk (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  },
+  "iso_retirement": {
+    "code": "kxu",
+    "name": "Kui (India)",
+    "effective": "2020-01-23",
+    "reason": "split",
+    "change_to": "\ndwk\nuki",
+    "remedy": "Split into [dwk] Dawik Kui and [uki] Kui (India)",
+    "change_request": "2019-005"
+  }
+}

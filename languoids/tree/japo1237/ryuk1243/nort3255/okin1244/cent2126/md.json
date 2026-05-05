@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Central Okinawan",
+    "hid": "ryu",
+    "level": "language",
+    "iso639-3": "ryu",
+    "latitude": "26.14854",
+    "longitude": "127.7816",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "JP"
+    ],
+    "links": "\n[Central Okinawan](https://grambank.clld.org/languages/cent2126)\n[Okinawan](https://endangeredlanguages.com/lang/5354)\n[Shuri](https://wals.info/languoid/lect/wals_code_ryu)\nhttps://en.wikipedia.org/wiki/Okinawan_language\nhttps://www.wikidata.org/entity/Q34233"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2691**\n**asjp2010:3467**\n**cldf:chamberlain:98**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dougherty:14**\n**cldf:glacken:55**\n**cldf:kuwae:83**\n**cldf:lewis:ed:09**\n**cldf:maetzki:maetzki:63**\n**cldf:maretzki:57**\n**cldf:miyara:nd**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:pitts:lebra:etal:55**\n**cldf:read:11**\n**hh:b:Osterkamp:Ryukyuan**\n**hh:bld:Griesenhofer:Bettelheim-Ryukyuan**\n**hh:d:KKK:Okinawago**\n**hh:d:SakiharaCurry:Okinawan**\n**hh:d:Uemura:Shuri**\n**hh:e:Chamberlain:Luchu**\n**hh:g:Carlino:Iheya**\n**hh:g:Loveless:Okinawan**\n**hh:g:Uchima:Okinawan**\n**hh:g:Uchima:Ryukyu**\n**hh:hvs:Uemura:Ryukyuan**\n**hh:hvw:Hattori:Japanese**\n**hh:hvw:Hattori:Three-Okinawan**\n**hh:phon:Takaesu:Tonaki**\n**hh:phon:Takara:Itoman-Okinawan**\n**hh:s:Carlino:Iheya**\n**hh:s:Funatsu:Okinawa**\n**hh:s:Fuyu:Ryukyugo**\n**hh:s:Kazumasa:Ryukyugo**\n**hh:s:Matayoshi:Tsuken**\n**hh:s:Miyara:Shuri-Okinawan**\n**hh:s:Shimoji:Northern-Ryukyuan**\n**hh:s:Tamamoto:Kin**\n**hh:s:Tsuhako:Maejima**\n**hh:s:Tsuhako:Yagaji**\n**hh:s:Uemura:Shuri**\n**hh:sd:Chamberlain:Luchuan**\n**hh:styp:Arakaki:Shuri**\n**hh:styp:Arakaki:Shuri:2010**\n**hh:typ:Ashworth:Ryukyuan**\n**hh:v:Chamberlain:Luchuan**\n**hh:w:Broughton:Lieuchieux**\n**hh:w:Chamberlain:Luchuan**\n**hh:w:Clifford:Loo-choo**\n**hh:w:Klaproth:Lieu-Kieu**\n**hh:w:MLeod:Lewchewan**\n**mpieva:Karimata2002Prelimin**\n**mpieva:Kuwae1983Phonolog**\n**mpieva:Tsuhako2003Research**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Group\nCentral Ryukyuan\nLuchu\nOkinawa\nOkinawan\nOkinawan, Central\nOkinawano\nOkinawaïen\nRyukyuan",
+    "lexvo": "\nCentral Okinawan [en]\nIdioma okinawense [es]\nLíngua oquinauana [pt]\nOkinavski jezik [hr]\nOkinavų kalba [lt]\nOkinawan kieli [fi]\nOkinawan language [en]\nOkinawaïen [fr]\nภาษาโอกินาวา [th]\n沖縄語 [ja]\n琉球語 [zh]\n오키나와어 [ko]",
+    "hhbib_lgcode": "\nDana Iheya\nItoman Okinawan\nIzena\nKin\nKume\nLewchewan\nLieu-Kieu\nLieuchieux\nLoo-Choo\nLoochooan\nLuchuan\nOkinawan-Central\nShuri\nShuri N Ryukyuan\nSouthern Okinawa\nSyuri\nTsuken",
+    "elcat": "\nCentral\nCentral Group\nCentral Okinawan\nCentral Ryukyuan\nLuchu\nOkinawa\nOkinawan\nRyukyuan\nUchinaaguchi\nUchināguchi\nうちなーぐち\nシマクトゥバ\n沖縄方言\n沖縄語"
+  },
+  "triggers": {
+    "lgcode": "\nokinawa\nluchuan\nnaha\nokinawan\ntermed\ntonaki\nokinawago\nshuri\nmaejima\nhokubu\noshima\nyagaji\nnanbu"
+  },
+  "identifier": {
+    "wals": "ryu",
+    "multitree": "ryu",
+    "endangeredlanguages": "5354"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pellard:Ryukyu**",
+    "subrefs": "\n**hh:hv:Pellard:Ryukyu**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Okinawan (5354-ryu) = Severely Endangered (80 percent certain, based on the evidence available) (The rate of comprehension and contact sharply declines in younger generations, with those in their 40s understanding only passively or minimally, and other [younger] generations having absolutely no understanding of the language other than a few key phrases and set expressions.) [Read 2011](cldf:read:11)"
+  }
+}

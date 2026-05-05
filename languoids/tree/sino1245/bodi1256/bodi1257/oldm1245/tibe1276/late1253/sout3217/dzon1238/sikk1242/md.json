@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Sikkimese",
+    "hid": "sip",
+    "level": "language",
+    "iso639-3": "sip",
+    "latitude": "27.85795",
+    "longitude": "88.59153",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Sikkimese](https://wals.info/languoid/lect/wals_code_skk)\nhttps://en.wikipedia.org/wiki/Sikkimese_Bhutia_language\nhttps://phoible.org/languages/sikk1242\nhttps://www.wikidata.org/entity/Q35285"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:sandberg:88:2**\n**hh:e:Ghatak:Bhutia**\n**hh:g:Yliniemi:Sikkimese**\n**hh:g:Yliniemi:Sikkimese:2021**\n**hh:h:vanDriem:Sikkim**\n**hh:hvw:Grierson:3:I**\n**hh:ld:Namgyal:Drenjongke**\n**hh:phon:Yliniemi:Sikkim**\n**hh:s:Baskaran:Bhotia**\n**hh:s:Kaleon:Sikkim**\n**hh:s:Mukherjee:Bhotia**\n**hh:s:Sandberg:Sikkim**\n**hh:s:Sandberg:Sikkim:1888**"
+  },
+  "altnames": {
+    "wals": "\nSikkimese",
+    "ruhlen (1987)": "\nBhotia",
+    "moseley & asher (1994)": "\nCentral Tibetan",
+    "multitree": "\nBhōṭiā of Sikkim\nDandzongka\nDandźongka\nDanjongka\nDanyouka\nDenjong\nDenjongkha\nDenjongpa\nDenjonka\nDenjonke\nDä-njong-kä\nLachengpa\nLachungpa\nSikami\nSikkamese\nSikkim\nSikkim Bhotia\nSikkim Bhutia\nSikkimese",
+    "lexvo": "\nBhutia [cy]\nIdioma bhutia [es]\nJęzyk dandzongka [pl]\nSikkimese [en]\nSikkimese language [en]\nSikkimesiska [sv]\nСиккимский язык [ru]\nภาษาสิกขิม [th]\n锡金语 [wuu]",
+    "hhbib_lgcode": "\nBhotia\nBhotia as spoken in the Darjeeling district of West Bengal\nBhutia\nDanjong or Bhotia of Sikkim\nDrenjongke"
+  },
+  "triggers": {
+    "lgcode": "\nbhotia\nbhutia\ndenjongka\nsikkim"
+  },
+  "identifier": {
+    "wals": "skk",
+    "multitree": "sip"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Bielmeier:Tibetan**:38-48 **hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hvw:Bielmeier:Tibetan**\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sikkimese (sip-sip) = 6b (Threatened)."
+  }
+}

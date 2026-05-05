@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Harsusi",
+    "hid": "hss",
+    "level": "language",
+    "iso639-3": "hss",
+    "latitude": "19.6511",
+    "longitude": "56.1562",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "OM"
+    ],
+    "links": "\n[Ḥarsusi](https://endangeredlanguages.com/lang/4281)\nhttps://en.wikipedia.org/wiki/%E1%B8%A4arsusi_language\n[Harsusi](https://wals.info/languoid/lect/wals_code_hrs)\nhttps://www.wikidata.org/entity/Q33423"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lonnet:simeone-senelle:97**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:stroomer:04**\n**cldf:wuethrich:00**\n**hh:d:Johnstone:Harsusi**\n**hh:h:Aljahdhami:Oman**\n**hh:hv:Simeone-Senelle:MSA**\n**hh:hv:Simeone-Simelle:SouthArabian**\n**hh:ld:Rubin:Harsusi**\n**hh:s:Thomas:Hadara**\n**hh:t:StroomerJohnstone:Harsusi**"
+  },
+  "altnames": {
+    "wals": "\nHarsusi",
+    "ruhlen (1987)": "\nHarsusi",
+    "moseley & asher (1994)": "\nSouth Arabian",
+    "multitree": "\nHarsi `Aforit\nHarsusi\nHersyet\nḤarsusi\nḤarsūsī",
+    "lexvo": "\nBahasa Harsusi [ms]\nHarsouseg [br]\nHarsusi [en]\nHarsusi hizkuntza [eu]\nHarsusi language [en]\nLenga Harsusi [pms]\nاللغة الحرسوسية [ar]",
+    "elcat": "\nHarsi `Aforit\nHarsusi\nHersyet\nḤarsusi\nḤarsūsī",
+    "hhbib_lgcode": "\nḤarsusi"
+  },
+  "triggers": {
+    "lgcode": "\nharsusi"
+  },
+  "identifier": {
+    "wals": "hrs",
+    "multitree": "hss",
+    "endangeredlanguages": "4281"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rubin:Semitic**:75-76 **hh:hvw:Kogan:Semitic:2015**",
+    "subrefs": "\n**hh:hvw:Kogan:Semitic:2015**\n**hh:hv:Rubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ḥarsusi (4281-hss) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Batanga",
+    "hid": "bnm",
+    "level": "language",
+    "iso639-3": "bnm",
+    "latitude": "1.397041",
+    "longitude": "9.51011",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "GQ"
+    ],
+    "links": "\n[Batanga](https://grambank.clld.org/languages/bata1285)\nhttps://en.wikipedia.org/wiki/Tanga_language\nhttps://phoible.org/languages/bata1285\nhttps://www.wikidata.org/entity/Q34979"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:oertzen:03**\n**cldf:zeller:85**\n**eballiso2009:11215**\n**eballiso2009:19331**\n**eballiso2009:19367**\n**eballiso2009:22923**\n**eballiso2009:25818**\n**eballiso2009:28707**\n**eballiso2009:37176**\n**eballiso2009:41225**\n**eballiso2009:45311**\n**eballiso2009:54506**\n**eballiso2009:55806**\n**eballiso2009:99**\n**hh:d:Dimwemwe:Nnoho**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:hel:Sommer:Survey**\n**hh:hew:Koch:Molundu**\n**hh:hew:Mansfeld:Crossflussnegern-Kameruns**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Meinhof:Kamerun**\n**hh:hw:Clarke:Africa**\n**hh:phon:DenBesten:Batanga**\n**hh:s:Adams:Banoho**\n**hh:s:Dimwemwe:Banoho**\n**hh:s:Kouanken:Banoo**\n**hh:s:Siroma:Bapuku**\n**hh:s:VanHille:Puku**\n**hh:soc:Davison:Batanga**\n**hh:soc:Tupper:Batanga**\n**hh:typ:Bibi:Banoo**\n**hh:typ:Kouam:Banoo**\n**hh:w:Adams:Banoho-Bapuku**\n**hh:w:Wilson:Negro**"
+  },
+  "altnames": {
+    "multitree": "\nBano'o\nBanoho\nBanoo\nBatanga\nNoho\nNohu\nNoku",
+    "lexvo": "\nBatanga [en]",
+    "hhbib_lgcode": "\nA32C_Batanga\nBalangi of Great Batanga\nBanoho\nBanoho BAN\nBanoo\nBapuku\nBapuku BAP\nBatanga 1 d. puku A32\nBatanga 2 d. batanga A32\nBatanga 3 d. noho A32\nBatanga BAT\nBatanga-Balundu\nNoo\nPoko\nPuku\nTanga"
+  },
+  "triggers": {
+    "lgcode": "\npersonlichen\nbapuku\nnoho\nbanok\nbanoho\nbanoo\nbatanga"
+  },
+  "identifier": {
+    "multitree": "bnm"
+  },
+  "classification": {
+    "sub": "**hh:hv:NursePhilippson:Bantu**:170 **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:he:Ardener:Coastal-Cameroons** Yasa-Kombe: **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:h:Guthrie:Bantu-Western**:26 **hh:soc:Belew:Iyasa**:33",
+    "subrefs": "\n**hh:hv:NursePhilippson:Bantu**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:h:Guthrie:Bantu-Western**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:soc:Belew:Iyasa**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Batanga (bnm-bnm) = 7 (Shifting)."
+  }
+}

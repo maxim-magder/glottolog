@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kwanja",
+    "hid": "knp",
+    "level": "language",
+    "iso639-3": "knp",
+    "latitude": "6.30293",
+    "longitude": "11.6931",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kwanja_language\nhttps://phoible.org/languages/kwan1276\nhttps://www.wikidata.org/entity/Q35641"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Gausset:Wawa-Kwanja**\n**hh:h:Ndi:Kwanja**\n**hh:hsoc:Connell:Adamawa-Ecology**\n**hh:hv:Blench:Mambiloid**\n**hh:hv:Connell:Mambiloid**\n**hh:hvw:Guarisma:Bantoides**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**sil16:49503**\n**sil16:49528**\n**sil16:49529**\n**sil16:49530**"
+  },
+  "altnames": {
+    "multitree": "\nKondja\nKonja\nKwanja",
+    "lexvo": "\nKwanja [en]",
+    "hhbib_lgcode": "\nKondja\nKonja\nKonja-Ndung\nKonja-Sundani\nNasuna et Nduung\nNjanga (Kwanja)"
+  },
+  "triggers": {
+    "lgcode": "\ndrwa"
+  },
+  "identifier": {
+    "multitree": "knp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Bantoid**",
+    "subrefs": "\n**hh:hv:Blench:Bantoid**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Nyanjang (534-knp-nyj) = Critically Endangered (100 percent certain, based on the evidence available)"
+  }
+}

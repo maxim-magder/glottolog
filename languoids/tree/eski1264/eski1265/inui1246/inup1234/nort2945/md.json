@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Seward Alaska Inupiatun",
+    "hid": "esk",
+    "level": "language",
+    "iso639-3": "esk",
+    "latitude": "64.77955",
+    "longitude": "-161.80666",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q25559714"
+  },
+  "sources": {
+    "glottolog": "\n**anla:CA901C1902**\n**anla:G961R1980**\n**anla:IN850W1850**\n**cldf:binford:69**\n**cldf:binford:71:1**\n**cldf:binford:72**\n**cldf:boas:01:1**\n**cldf:burch:burch:etal:75**\n**cldf:kaplan:82**\n**cldf:miyaoka:ed:00:3**\n**cldf:tersis:therrien:ed:00:2**\n**hh:d:Seiler:Inuapiatun**\n**hh:e:Ray:Bering-Strait-Eskimo**\n**hh:g:Lanz:Inupiaq**\n**sil16:14961**\n**sil16:14962**\n**sil16:14963**\n**sil16:14964**\n**sil16:31497**\n**sil16:38597**\n**sil16:46141**"
+  },
+  "altnames": {
+    "multitree": "\n\"Eskimo\"\nAlaskan Inuit\nAlaskan Inupiaq\nEskimo\nInuit\nInuit de la Península Seward (estrecho de Norton)\nInupiaq de la péninsule de Seward  (King Island)\nInupiaq de la péninsule de Seward (Grande Diomède)\nInupiaq de la péninsule de Seward (Norton Sound)\nInupiaq de la péninsule de Seward (Petite Diomède)\nInupiat\nInupiatun\nInupiatun, Northwest Alaska\nNorthwest Alaska Inupiat\nNorthwest Alaska Inupiatun\nSeward Peninsula Inupiaq\nSeward Peninsula Iñupiaq",
+    "lexvo": "\nNorthwest Alaska Inupiatun [en]",
+    "hhbib_lgcode": "\nInupiatun-Northwest Alaska\nMalimiut Inupiaq\nNorthwest Alaska"
+  },
+  "triggers": {
+    "lgcode": "\nsung{ng{uat\ninupiam\ninupiatun\nugich\nunipchaat"
+  },
+  "identifier": {
+    "multitree": "esk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dorais:Inuit**:1-54",
+    "subrefs": "\n**hh:hv:Dorais:Inuit**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Inupiaq (2369-esk) = Severely Endangered (80 percent certain, based on the evidence available)"
+  }
+}

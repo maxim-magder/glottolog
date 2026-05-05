@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Leti (Indonesia)",
+    "hid": "lti",
+    "level": "language",
+    "iso639-3": "lti",
+    "latitude": "-8.19808",
+    "longitude": "127.674",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Leti](https://wals.info/languoid/lect/wals_code_let)\n[Leti (Indonesia)](https://grambank.clld.org/languages/leti1246)\nhttps://en.wikipedia.org/wiki/Leti_language\nhttps://phoible.org/languages/leti1246\nhttps://www.wikidata.org/entity/Q3236912"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blevins:99:2**\n**cldf:cremers:dendikken:ed:96:2**\n**cldf:hume:97**\n**cldf:hume:muller:etal:97**\n**hh:g:vanEngelenhoven:Leti**\n**hh:g:vanEngelenhoven:Leti:1995**\n**hh:s:Jonker:Lettineesche**\n**hh:s:vanEngelenhoven:Tetun**\n**hh:w:Heijmering:ZWEilanden**\n**hh:w:Stokhofetal:Holle:3:1**\n**sil16:35052**"
+  },
+  "altnames": {
+    "wals": "\nLeti",
+    "multitree": "\nLeti\nLetti",
+    "lexvo": "\nLeti (Indonesia) [en]\nLeti [en]\nLeti language [en]",
+    "hhbib_lgcode": "\nLeti\nLeti Tutukey\nLetti\nLettineesch"
+  },
+  "triggers": {
+    "lgcode": "\nNOT y AND leti\ntutukei"
+  },
+  "identifier": {
+    "wals": "let",
+    "multitree": "lti"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:202-247 **hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva**",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Leti (lti-lti) = 7 (Shifting)."
+  }
+}

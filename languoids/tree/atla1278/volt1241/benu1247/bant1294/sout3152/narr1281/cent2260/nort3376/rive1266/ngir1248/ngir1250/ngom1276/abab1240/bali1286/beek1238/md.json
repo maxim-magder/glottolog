@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Beeke",
+    "hid": "bkf",
+    "level": "language",
+    "iso639-3": "bkf",
+    "latitude": "3.18438",
+    "longitude": "29.9842",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Beeke](https://endangeredlanguages.com/lang/584)\nhttps://www.wikidata.org/entity/Q3441375\nhttps://en.wikipedia.org/wiki/Beeke_language"
+  },
+  "classification": {
+    "sub": "**hh:soc:deWit:Ndaka-Mbo-Beeke**:7-9 (against the more vague **hh:ld:Vorbichler:Ituri-Klasseneinteilung**:25)",
+    "subrefs": "\n**hh:soc:deWit:Ndaka-Mbo-Beeke**\n**hh:ld:Vorbichler:Ituri-Klasseneinteilung**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:geluwe:59**\n**cldf:lewis:ed:09**\n**eballiso2009:29038**\n**hh:h:Burssens:Pygmees-Ituri**\n**hh:he:Moeller:Orientale-Congo**\n**hh:hel:Sommer:Survey**\n**hh:hv:HackettvanBulck:ETeam**\n**hh:hv:Vorbichler:Bira**\n**hh:ld:Vorbichler:Ituri-Klasseneinteilung**\n**hh:soc:deWit:Ndaka-Mbo-Beeke**\n**sil16:51396**"
+  },
+  "altnames": {
+    "multitree": "\nBeeke\nBeke\nIbeeke",
+    "lexvo": "\nBeeke [en]",
+    "hhbib_lgcode": "\nBaBeke\nBaBeke from Dorf Bavwakiba 20 km westlich von Basiri-Territorium von Mambasa Provinz Stanleyville\nBabeke\nIbeeke\nKiBeke\nP 38 Beeke\nTerritorium von Mambasa Provinz Stanleyville",
+    "elcat": "\nBeeke\nBeke\nIbeeke"
+  },
+  "triggers": {
+    "lgcode": "\nndaka"
+  },
+  "identifier": {
+    "multitree": "bkf",
+    "endangeredlanguages": "584"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Beeke (584-bkf) = Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

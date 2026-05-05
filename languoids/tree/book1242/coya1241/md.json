@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Coyaima",
+    "hid": "coy",
+    "level": "language",
+    "iso639-3": "coy",
+    "latitude": "11.3333",
+    "longitude": "-73.0",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56450\nhttps://en.wikipedia.org/wiki/Coyaima_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Castro:Valle-Upar**\n**hh:lde:Ramirez:Gran-Tolima**\n**iso6393:2015-042**"
+  },
+  "altnames": {
+    "multitree": "\nCoyaima\nKoyaima\nTupe",
+    "lexvo": "\nCoyaima [en]",
+    "hhbib_lgcode": "\nContains patronyms and a handful of words of Coyaima\nCoyaimas"
+  },
+  "triggers": {
+    "lgcode": "\nupar\nfundacion"
+  },
+  "identifier": {
+    "multitree": "coy"
+  },
+  "iso_retirement": {
+    "change_request": "2015-042",
+    "remedy": "merged into [pij] Pijao",
+    "code": "coy",
+    "name": "Coyaima",
+    "effective": "2016-01-15",
+    "reason": "merge",
+    "change_to": "\npij"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Coyaima (coy-coy) = 10 (Extinct)"
+  }
+}

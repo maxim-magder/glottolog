@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Korwa",
+    "hid": "kfp",
+    "level": "language",
+    "iso639-3": "kfp",
+    "latitude": "23.4102",
+    "longitude": "83.8142",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Korwa](https://endangeredlanguages.com/lang/5624)\nhttps://www.wikidata.org/entity/Q6432786\nhttps://en.wikipedia.org/wiki/Korwa_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zide:Munda**",
+    "subrefs": "\n**hh:hv:Zide:Munda**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:np:01:1**\n**hh:d:Bahl:Korwa**\n**hh:e:Deogaonkar:Hill-Korwa**\n**hh:e:Majumdar:Bhuiyas**\n**hh:e:Majumdar:Korwas**\n**hh:e:Majumdar:Korwas:1929**\n**hh:e:Majumdar:Korwas:1930**\n**hh:e:Majumdar:Korwas:1932**\n**hh:e:Mohan:Korwa**\n**hh:e:Mohan:Korwa:1979**\n**hh:e:Mohan:Korwa:1981**\n**hh:e:Rizbi:Hill-Korwa**\n**hh:e:Rizbi:Hill-Korwa:Ethnoeconomy**\n**hh:e:Rizvi:Hill-Korwa**\n**hh:e:Sandhwar:Korwa-Palamau**\n**hh:ew:Bhaduri:Korwas**\n**hh:ew:Lahre:Pahadi-Korwa**\n**hh:h:Gupta:Bihar**\n**hh:h:Prasad:Minor-Bihar**\n**hh:he:Crooke:Central-Indian**\n**hh:he:Shoobert:Central-Provinces**\n**hh:hew:Dalton:Bengal**\n**hh:hvwld:Grierson:4**\n**hh:ld:Konow:Korwa**\n**hh:w:Crooke:Korwa**\n**hh:wsoc:Behera:Korwa-Kodaku**"
+  },
+  "altnames": {
+    "multitree": "\nErnga\nErngga\nKorwa\nMundari\nMundari-Ho\nSingli",
+    "lexvo": "\nKorwa [en]",
+    "hhbib_lgcode": "\nErnga or Singli\nHill Korwa\nPahadi Korwa\nPahari Korwa\nPahari Korwas or Hill Korwas HG",
+    "elcat": "\nErnga\nErngga\nKorwa\nMundari\nMundari-Ho\nSingli"
+  },
+  "triggers": {
+    "lgcode": "\nkorwas\nkorwa"
+  },
+  "identifier": {
+    "multitree": "kfp",
+    "endangeredlanguages": "5624"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Korwa (5624-kfp) = Vulnerable (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

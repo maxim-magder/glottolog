@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "San Marcos Tlalcoyalco Popoloca",
+    "hid": "pls",
+    "level": "language",
+    "iso639-3": "pls",
+    "latitude": "18.74",
+    "longitude": "-97.5936",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Popoloca](https://endangeredlanguages.com/lang/5287)\n[San Marcos Tlalcoyalco Popoloca](https://grambank.clld.org/languages/sanm1301)\nhttps://www.wikidata.org/entity/Q12641692"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Gamez:Ngiwa**\n**hh:phon:StarkMachin:Tlacoyalco-Popoloca**\n**hh:s:Stark:Ngigua**\n**hh:s:Stark:Popoloca-Tlacoyalco**\n**hh:s:Villanueva:Ngigua**\n**hh:typ:Machin:Clause-Northern-Popoloca**\n**hh:typ:Machin:Northern-Popoloca**\n**hh:typ:Machin:Sentence-Northern-Popoloca**\n**hh:typ:Stark:Ngigua**\n**hh:typ:Veerman-Leichsenring:Popolocan**\n**iso6393:2014-034**\n**mpieva:Merrifield1977Studiesi**\n**sil16:15239**\n**sil16:16624**\n**sil16:16625**\n**sil16:17483**\n**sil16:19991**\n**sil16:46195**\n**sil16:46196**\n**sil16:46197**\n**sil16:46198**\n**sil16:47114**\n**sil16:48839**\n**sil16:49920**\n**sil16:49921**"
+  },
+  "altnames": {
+    "multitree": "\nChocho-Popoloka\nNorthern Popoloca\nNorthern Popoloka\nPopoloca\nPopoloca de San Marcos Tlalcoyalco\nPopoloca, San Marcos Tlalcoyalco",
+    "lexvo": "\nSan Marcos Tlalcoyalco Popoloca [en]",
+    "elcat": "\nPopoloca"
+  },
+  "triggers": {
+    "lgcode": "\ncuentoe\ntlacoyalco\nqueshen"
+  },
+  "identifier": {
+    "multitree": "pls",
+    "endangeredlanguages": "5287"
+  },
+  "classification": {
+    "sub": "**hh:typ:Nakamoto:Temalacayuca-Clasificadores**:3",
+    "subrefs": "\n**hh:typ:Nakamoto:Temalacayuca-Clasificadores**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Popoloca (5287) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

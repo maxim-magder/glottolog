@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Laven",
+    "hid": "lbo",
+    "level": "language",
+    "iso639-3": "lbo",
+    "latitude": "15.2726",
+    "longitude": "106.322",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA"
+    ],
+    "links": "\n[Jru](https://lexibank.clld.org/languages/peirosaustroasiatic-Jru)\n[JruLaven](https://lexibank.clld.org/languages/sidwellbahnaric-jrulaven)\n[Laven](https://grambank.clld.org/languages/lave1248)\n[Loven](https://wals.info/languoid/lect/wals_code_lov)\nhttps://en.wikipedia.org/wiki/Jru%27_language\nhttps://www.wikidata.org/entity/Q6298648"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3303**\n**cldf:jacq:02**\n**cldf:jacq:04**\n**cldf:sidwell:jacq:ed:03:2**\n**cldf:sidwell:jacq:ed:03:3**\n**hh:g:Jacq:Jruq**\n**hh:h:Lavallee:Indo-Chine**\n**hh:hv:SidwellJacq:WBahnaric**\n**hh:ld:Ferlus:Deux-Austroasiens**\n**hh:v:L-Thongkum:13-Mon-Khmer**\n**hh:w:Bondet:Kha-Boloven**\n**mpieva:Jacq1999LovenJru**\n**sil16:42717**\n**sil16:45472**"
+  },
+  "altnames": {
+    "wals": "\nLoven",
+    "wals other": "\nJruq",
+    "ruhlen (1987)": "\nLoven",
+    "moseley & asher (1994)": "\nLoven",
+    "multitree": "\nBoloven\nBoriwen\nJaru\nJru\nJru'\nJruq\nJəru-Sprachen\nLaven\nLaweenjru\nLawen\nLoven",
+    "lexvo": "\nLaven [en]",
+    "hhbib_lgcode": "\nBoloven\nJru'/Laven\nJruq\nKha Boloven"
+  },
+  "triggers": {
+    "lgcode": "\njru\nloven\njruq"
+  },
+  "identifier": {
+    "wals": "lov",
+    "multitree": "lave;lbo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic-MSEA**:185-186",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic-MSEA**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Juk (6046-lbo-juk) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

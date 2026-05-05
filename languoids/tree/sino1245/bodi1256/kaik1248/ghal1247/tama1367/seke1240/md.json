@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Seke (Nepal)",
+    "hid": "skj",
+    "level": "language",
+    "iso639-3": "skj",
+    "latitude": "28.9251",
+    "longitude": "83.8064",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Seke (Nepal)](https://endangeredlanguages.com/lang/5688)\nhttps://www.wikidata.org/entity/Q30226846\n[Tangbe](https://wals.info/languoid/lect/wals_code_tbx)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**hh:e:Ramble:Highland-Nepal**\n**hh:phon:Honda:Seke**\n**hh:s:Honda:Tangbe**"
+  },
+  "altnames": {
+    "multitree": "\nSeke",
+    "lexvo": "\nSeke (Nepal) [en]\nSeke [en]",
+    "hhbib_lgcode": "\nTangbe\nTangbe-Tetang-Chuksang\nTe in Upper Mustang speak Seke (and South Mustang Tibetan as a second language)",
+    "elcat": "\nSeke (Nepal)"
+  },
+  "triggers": {
+    "lgcode": "\ntangbe\nseke"
+  },
+  "identifier": {
+    "wals": "tbx",
+    "multitree": "skj",
+    "endangeredlanguages": "5688"
+  },
+  "classification": {
+    "sub": "**hh:s:Noonan:Chantyal** **hh:hv:Honda:Tamangic**",
+    "subrefs": "\n**hh:s:Noonan:Chantyal**\n**hh:hv:Honda:Tamangic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Seke (Nepal) (5688-skj) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

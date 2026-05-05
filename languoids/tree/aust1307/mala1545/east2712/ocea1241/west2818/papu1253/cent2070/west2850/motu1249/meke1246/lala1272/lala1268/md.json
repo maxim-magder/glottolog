@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lala",
+    "hid": "nrz",
+    "level": "language",
+    "iso639-3": "nrz",
+    "latitude": "-8.93195",
+    "longitude": "146.749",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ala'ala](https://wals.info/languoid/lect/wals_code_all)\n[Lala](https://grambank.clld.org/languages/lala1268)\n[Lala](https://lexibank.clld.org/languages/abvdoceanic-Lala)\nhttps://en.wikipedia.org/wiki/Lala_language_(Papua_New_Guinea)\nhttps://www.wikidata.org/entity/Q6480151"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:capell:43:2**\n**cldf:lanyon-orgill:43**\n**cldf:lynch:ross:etal:ed:02:1**\n**hh:g:Symonds:Alaala**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hw:Ray:Central-Papua**\n**hh:s:Alua:Nara**\n**hh:s:ClunnKolia:Lala**\n**hh:s:Lanyon-Orgill:Pokau**\n**hh:s:Ross:Alaala**\n**hh:w:Anonymous:Nala**\n**hh:wsoc:KassellPotter:Abadi**\n**sil16:46271**\n**sil16:46272**\n**sil16:46273**\n**sil16:46274**\n**sil16:46275**\n**sil16:46276**\n**silpng:silpng2004:23**"
+  },
+  "altnames": {
+    "wals": "\nAla'ala",
+    "wals other": "\nLala\nPokau",
+    "ruhlen (1987)": "\nNara",
+    "moseley & asher (1994)": "\nNara",
+    "multitree": "\nAla'ala\nLala\nNala\nNara\nPokau",
+    "lexvo": "\nLala [en]",
+    "hhbib_lgcode": "\nAla’ala\nKaiau\nLala-Nara-Pokau\nNala\nNara\nOroi\nPokau\nPokau-Lala-Nala-Kara or Kalau\nVanuamai"
+  },
+  "triggers": {
+    "lgcode": "\npokau\nsisibata\nkikiuai\nalaala"
+  },
+  "identifier": {
+    "wals": "genus/nara",
+    "multitree": "nrz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:g:Jones:Mekeo**:23-25",
+    "subrefs": "\n**hh:g:Jones:Mekeo**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lala (nrz-nrz) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gua",
+    "hid": "gwx",
+    "level": "language",
+    "iso639-3": "gwx",
+    "latitude": "6.52106",
+    "longitude": "0.16932",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35422\nhttps://en.wikipedia.org/wiki/Gua_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:231**\n**eballiso2009:10068**\n**eballiso2009:16723**\n**eballiso2009:21073**\n**eballiso2009:27219**\n**eballiso2009:29683**\n**eballiso2009:31899**\n**hh:d:Asihene:Guan-Anum-Boso**\n**hh:hsoc:Tompkinsetal:Gua**\n**hh:hvw:Painter:Guang**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:ld:Obiri-Yeboah:Gua-Opacity**\n**hh:ld:Obiri:Gua:2023**\n**hh:phon:Obiri:Gua**\n**hh:phon:Obiri:Gua:2021**\n**hh:s:Painter:Gwa**\n**mpieva:AsiheneGuanAnum**"
+  },
+  "altnames": {
+    "multitree": "\nAnum-Boso\nGua\nGuang\nGwa",
+    "lexvo": "\nGua [en]",
+    "hhbib_lgcode": "\nBoso Gua\nGuang-Anum\nGuang-Anum-Boso\nGuang-Boso\nGwang-Asamankase Anum\nHill Guang-Gwa\nHill Guang-Gwa of Anum"
+  },
+  "triggers": {
+    "lgcode": "\nNOT im AND NOT the AND bozo\nbouzou"
+  },
+  "identifier": {
+    "multitree": "gwx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Snider:Proto-Guang:Consonants**",
+    "subrefs": "\n**hh:hv:Snider:Proto-Guang:Consonants**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gua (gwx-gwx) = 6a* (Vigorous)."
+  }
+}

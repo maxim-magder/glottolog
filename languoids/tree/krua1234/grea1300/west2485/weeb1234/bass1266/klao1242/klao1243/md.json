@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Klao",
+    "hid": "klu",
+    "level": "language",
+    "iso639-3": "klu",
+    "latitude": "5.05",
+    "longitude": "-8.85",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LR",
+      "SL"
+    ],
+    "links": "\n[Klao](https://lexibank.clld.org/languages/polyglottaafricana-Klao)\n[Klao](https://wals.info/languoid/lect/wals_code_kla)\nhttps://en.wikipedia.org/wiki/Klao_language\nhttps://phoible.org/languages/klao1243\nhttps://www.wikidata.org/entity/Q3914866"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:singler:83**\n**cldf:wilson:56**\n**eballiso2009:15732**\n**eballiso2009:31609**\n**eballiso2009:38468**\n**eballiso2009:38494**\n**eballiso2009:59371**\n**hh:hdial:Duitsmanetal:Kru**\n**hh:hvtyp:Marchese:Kru**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phon:Singler:Talo-Klao**\n**hh:s:Rickard:Kru**\n**hh:typ:Singler:Klao**\n**hh:w:Norris:WCAfrica**\n**hh:w:Pichl:Kru**\n**sil16:21537**\n**sil16:46885**"
+  },
+  "altnames": {
+    "wals": "\nKlao",
+    "wals other": "\nKru",
+    "ruhlen (1987)": "\nKlao",
+    "moseley & asher (1994)": "\nKlau",
+    "multitree": "\nKlao\nKlaoh\nKlau\nKrawi\nKroo\nKru",
+    "lexvo": "\nKlao [en]",
+    "hhbib_lgcode": "\nBlio\nBolo\nBotba\nDio\nDoo\nDreo\nDuo\nGbeta\nGbuu\nJalo\nJao\nJede\nJlao\nJlepo\nKabo\nKlao (Talo)\nKrao\nKru (Klao?)\nKru Kilham\nKru of Betu\nKweatuo\nNifa\nNyanu\nNyao\nNymala\nNyoa\nPete\nSekleo\nSeo\nSitoo\nTale\nTatue\nToao\nTolo\nWeo\nWete\nWoli"
+  },
+  "triggers": {
+    "lgcode": "\nklao\ntalo"
+  },
+  "identifier": {
+    "wals": "kla",
+    "multitree": "klao;klu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:11-15",
+    "subrefs": "\n**hh:hv:Vogler:Kru:2017**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Klao (klu-klu) = 5* (Developing)."
+  }
+}

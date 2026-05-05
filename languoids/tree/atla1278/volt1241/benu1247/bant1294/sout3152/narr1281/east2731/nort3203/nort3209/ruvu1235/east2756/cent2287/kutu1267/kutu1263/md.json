@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kutu",
+    "hid": "kdc",
+    "level": "language",
+    "iso639-3": "kdc",
+    "latitude": "-7.23789",
+    "longitude": "37.8623",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6448634\nhttps://en.wikipedia.org/wiki/Kutu_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:23459**\n**eballiso2009:23463**\n**eballiso2009:28707**\n**eballiso2009:37408**\n**eballiso2009:37746**\n**eballiso2009:434**\n**eballiso2009:50699**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hvw:Gonzales:Ruvu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:ld:Zahran:Kutu-Kwere-Zalamo**"
+  },
+  "altnames": {
+    "multitree": "\nKhutu\nKikutu\nKutu",
+    "lexvo": "\nKutu [en]",
+    "hhbib_lgcode": "\nG37_Kutu\nKixutu\nKutu G37"
+  },
+  "triggers": {
+    "lgcode": "\nuseguru\nruvu\nukutu"
+  },
+  "identifier": {
+    "multitree": "kdc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Gonzales:Ruvu**",
+    "subrefs": "\n**hh:hvw:Gonzales:Ruvu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kutu (kdc-kdc) = 6b* (Threatened)."
+  }
+}

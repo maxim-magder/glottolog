@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ambonese Malay",
+    "hid": "abs",
+    "level": "language",
+    "iso639-3": "abs",
+    "latitude": "-3.71342",
+    "longitude": "128.184",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Ambon Malay](https://apics-online.info/contributions/68)\n[Ambonese Malay](https://grambank.clld.org/languages/ambo1250)\nhttps://en.wikipedia.org/wiki/Ambonese_Malay\nhttps://phoible.org/languages/ambo1250\nhttps://www.wikidata.org/entity/Q3124354"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4139**\n**cldf:cooley:62:1**\n**cldf:cooley:62:2**\n**cldf:scott:08**\n**hh:d:Kumbangsila:Melayu-Ambon**\n**hh:d:Mailoa:Ambon**\n**hh:d:Tahitu:Moluks-Maleis**\n**hh:d:Takaria:Melayu-Ambon**\n**hh:g:Tahitu:Melaju-Sini**\n**hh:g:vanMinde:Malayu**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hvw:Marsden:East-Insular**\n**hh:ld:Erniati:Melayu-Ambon**\n**hh:s:Paauw:Ambon-Malay**\n**hh:s:Teteleptaetal:Melayu-Ambon**\n**hh:typ:Collins:Melayu-Ambon**\n**hh:typ:Tatesilano:Melayu-Ambon**\n**hh:v:Collins:Ambonese-Malay**\n**hh:v:Grimes:Ambonese-Malay**\n**hh:w:Clercq:Maleisch-Molukkken**\n**hh:w:FPM:Maluku**\n**hh:w:Hitijahubessy:Maluku**\n**hh:w:Stokhofetal:Holle:3:3**\n**sil16:37109**"
+  },
+  "altnames": {
+    "multitree": "\nAmbonese\nAmbong\nMalay, Ambonese\nMalayu Ambon",
+    "lexvo": "\nAmbonese Malay [en]",
+    "hhbib_lgcode": "\nAmbon\nAmbon Maleis\nCeram\nMelayu Ambon\nMelayu dialek Ambon\nMoluks Maleis"
+  },
+  "triggers": {
+    "lgcode": "\nambong\nmolukse\njongeren\nlauterscheinungen\nmelaju\nambonese\nsini"
+  },
+  "identifier": {
+    "multitree": "abs"
+  },
+  "classification": {
+    "sub": "**hh:hs:Paauw:Malay**",
+    "subrefs": "\n**hh:hs:Paauw:Malay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, Ambonese (abs-abs) = 3 (Wider communication). Developed on the island of Ambon in 16th century. First used as trade language. Used in market domain and media."
+  }
+}

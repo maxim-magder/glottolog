@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Western Krahn",
+    "hid": "krw",
+    "level": "language",
+    "iso639-3": "krw",
+    "latitude": "6.14415",
+    "longitude": "-8.40954",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "LR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35809"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:becker-donner:44**\n**eballiso2009:101**\n**eballiso2009:10401**\n**eballiso2009:10403**\n**eballiso2009:11152**\n**eballiso2009:11273**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:11716**\n**eballiso2009:14811**\n**eballiso2009:16212**\n**eballiso2009:16213**\n**eballiso2009:18422**\n**eballiso2009:24335**\n**eballiso2009:26261**\n**eballiso2009:28829**\n**eballiso2009:30458**\n**eballiso2009:30460**\n**eballiso2009:30461**\n**eballiso2009:32257**\n**eballiso2009:34044**\n**eballiso2009:37982**\n**eballiso2009:37987**\n**eballiso2009:45329**\n**eballiso2009:45330**\n**eballiso2009:55662**\n**eballiso2009:56986**\n**eballiso2009:7398**\n**eballiso2009:9509**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:Richard:Sud-Ouest-Ivoirien**\n**hh:hv:Ingemann:Kruan**\n**hh:hvw:Duitsman:Guere**\n**hh:phon:Duitsman:Krahn**\n**hh:soc:Hair:Afro-European**\n**hh:typ:BingDuitsman:Krahn**\n**sil16:15602**\n**sil16:15603**\n**sil16:21153**"
+  },
+  "altnames": {
+    "multitree": "\nKrahn\nKrahn, Western\nKran\nNorthern Krahn\nWestern Kran",
+    "lexvo": "\nWestern Krahn [en]",
+    "hhbib_lgcode": "\nBiai\nGbabo\nGbaeson\nGbakeso\nGbazohn\nGbo\nGbobo\nGborbo\nKrahn-Western\nPewa\nPlo"
+  },
+  "triggers": {
+    "lgcode": "\ntowerson\nkran\nkrahn\nvilles\nguynee\nguere\nkruan\nyeere"
+  },
+  "identifier": {
+    "multitree": "krw"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Duitsman:Guere** **hh:hv:Ingemann:Kruan** **hh:e:Lauer:Doo**",
+    "subrefs": "\n**hh:e:Lauer:Doo**\n**hh:hv:Ingemann:Kruan**\n**hh:hvw:Duitsman:Guere**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Krahn, Western (krw-krw) = 5* (Developing)."
+  }
+}

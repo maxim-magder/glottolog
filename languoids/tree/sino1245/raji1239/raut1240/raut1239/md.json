@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Raute",
+    "hid": "rau",
+    "level": "language",
+    "iso639-3": "rau",
+    "latitude": "28.9518",
+    "longitude": "81.1617",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Raute](https://endangeredlanguages.com/lang/5329)\n[Raute](https://grambank.clld.org/languages/raut1239)\nhttps://en.wikipedia.org/wiki/Raute_language\nhttps://www.wikidata.org/entity/Q7296262"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Fortier:Raute-Rawat**\n**hh:e:Fortier:Raute**\n**hh:e:Fortier:Raute:2009**\n**hh:e:Luintel:Raute**\n**hh:e:Reinhard:Raute**\n**hh:ew:Bista:Raute**\n**hh:he:Bista:Nepal**\n**hh:he:ShresthaSingh:Nepal**\n**hh:s:Khadka:Boto-Boli**\n**hh:soc:Bandhu:Raute**\n**hh:vld:FortierRastogi:Raji-Raute**\n**hh:w:RastogiFortier:Raji-Raute**\n**hh:w:Tolange:Raute**"
+  },
+  "altnames": {
+    "multitree": "\nHarka Gurung\nKhamchi\nRaute\nRautye",
+    "lexvo": "\nRaute [en]",
+    "hhbib_lgcode": "\nDadeldhura Raute\nKhaamci\nRautye",
+    "elcat": "\nBoto Boli\nBot̪o Boli\nHarka Gurung\nKhamchi\nKhāmci\nRaute\nRautye"
+  },
+  "triggers": {
+    "lgcode": "\nraute\nboto"
+  },
+  "identifier": {
+    "multitree": "rau",
+    "endangeredlanguages": "5329"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Raute (5329-rau) = Vulnerable (100 percent certain, based on the evidence available) (Most of the Raute refuse to settle down and they don't go to school. Therefore, they remain illiterate and monolingual.) [Fortier 2009](cldf:fortier:09)"
+  },
+  "classification": {
+    "sub": "**hh:d:Fortier:Raute-Rawat**:1-44",
+    "subrefs": "\n**hh:d:Fortier:Raute-Rawat**"
+  }
+}

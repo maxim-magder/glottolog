@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bangka",
+    "hid": "mfb",
+    "level": "language",
+    "iso639-3": "mfb",
+    "latitude": "-1.73288",
+    "longitude": "105.897",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Bangka](https://endangeredlanguages.com/lang/2706)\nhttps://en.wikipedia.org/wiki/Bangka_Malay\nhttps://www.wikidata.org/entity/Q3258818"
+  },
+  "classification": {
+    "sub": "**hh:v:Nothofer:Lom**",
+    "subrefs": "\n**hh:v:Nothofer:Lom**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:ford:88**\n**cldf:freeman:pankhurst:01:2**\n**cldf:kaehler:60**\n**cldf:lewis:ed:09**\n**cldf:marcoy:75**\n**cldf:np:nd:264**\n**hh:d:Firman:Melayu-Bangka**\n**hh:d:Smedal:Lom**\n**hh:e:Hagen:Sekka**\n**hh:e:Smedal:Lom**\n**hh:lde:Anonymous:Lom**\n**hh:phonvw:Nothofer:Bangka**\n**hh:s:Ahmad:Bangka**\n**hh:s:Mustafa:Bangka**\n**hh:s:Silahidin:Bangka**\n**hh:typ:Arifin:Melayu-Bangka**\n**hh:v:Nothofer:Lom**\n**iso6393:2007-180**"
+  },
+  "altnames": {
+    "multitree": "\nBangka\nBelom\nLom\nMapor\nMaporese",
+    "lexvo": "\nBangka [en]",
+    "hhbib_lgcode": "\nLom\nOmong Jakarta\nOrang Lom",
+    "elcat": "\nBangka\nBelom\nLom\nMapor\nMaporese"
+  },
+  "triggers": {
+    "lgcode": "\nbelom\nomong\nasalnya"
+  },
+  "identifier": {
+    "multitree": "mfb",
+    "endangeredlanguages": "2706"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bangka (2706-mfb) = Critically Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

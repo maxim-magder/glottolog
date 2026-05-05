@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Dolgan",
+    "hid": "dlg",
+    "level": "language",
+    "iso639-3": "dlg",
+    "latitude": "71.10828",
+    "longitude": "94.29358",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Dolgan](https://endangeredlanguages.com/lang/2213)\n[Dolgan](https://lexibank.clld.org/languages/savelyevturkic-Dolgan)\n[Dolgan](https://wals.info/languoid/lect/wals_code_dol)\nhttps://en.wikipedia.org/wiki/Dolgan_language\nhttps://phoible.org/languages/dolg1241\nhttps://www.wikidata.org/entity/Q32878"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:nadelyaev:ed:80:3**\n**cldf:np:nd:264**\n**cldf:salminen:07:1**\n**cldf:ubrjatova:85**\n**hh:d:Aksenova:Dolgansko**\n**hh:d:Barbolina:Dolganskogo**\n**hh:d:Stachowski:Dolganischer**\n**hh:e:Dolgix:Dolgan**\n**hh:eb:Artemev:Dolgany**\n**hh:g:Dabritz:Dolgan**\n**hh:g:Ubrjatova:Norilskix-Dolgan**\n**hh:gd:Li:Dolgan**\n**hh:he:LevinPotapov:Sibiri**\n**hh:typ:Artmev:Dolganskij**\n**mpieva:Beltjukova2004Konsonan**\n**mpieva:Ubrjatova1985Jazyknor**"
+  },
+  "altnames": {
+    "wals": "\nDolgan",
+    "moseley & asher (1994)": "\nDolgan",
+    "multitree": "\nDolgan\nDolgane\nDolgán",
+    "lexvo": "\nBahasa Dolgan [ms]\nDolgaanin kieli [fi]\nDolgan [en]\nDolgan language [en]\nDolganca [tr]\nDolgane [fr]\nDolganeg [br]\nDolganische Sprache [de]\nDolgansk [no]\nDolganu valoda [lv]\nDolganų kalba [lt]\nДолгански език [bg]\nДолгански јазик [mk]\nДолганский язык [ru]\nДолганська мова [uk]\nДолған тілі [kk]\n돌간어 [ko]",
+    "hhbib_lgcode": "\nDolgany",
+    "elcat": "\nDolgan\nDolganca\nDolgane\nDolganische Sprache\nDulğan\nHaka\nдолган тыла\nдолганский язык\nдулҕан\nҺака\nһака тыла\n돌간어"
+  },
+  "triggers": {
+    "lgcode": "\ndolganischer\nnacalnoj\ndolganskij\ndolgan\nskoly\ndolgansko\ndolganskogo\nposobie"
+  },
+  "identifier": {
+    "wals": "dol",
+    "multitree": "dlg",
+    "endangeredlanguages": "2213"
+  },
+  "classification": {
+    "sub": "**hh:sv:Pakendorf:Sakha**:4-7 **hh:hv:Egorov:Turkic**",
+    "subrefs": "\n**hh:sv:Pakendorf:Sakha**\n**hh:hv:Egorov:Turkic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dolgan (2213-dlg) = Threatened (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:1)"
+  }
+}

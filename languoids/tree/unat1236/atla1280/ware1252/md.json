@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Ware",
+    "hid": "wre",
+    "level": "language",
+    "iso639-3": "wre",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7969260\nhttps://en.wikipedia.org/wiki/Ware_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hel:Sommer:Survey**\n**hh:hv:TuckerBryan:ESection**\n**iso6393:2007-024**"
+  },
+  "altnames": {
+    "multitree": "\nWale\nWare\nWari",
+    "hhbib_lgcode": "\nP 12/131 Ware"
+  },
+  "iso_retirement": {
+    "comment": "Neither we, the SIL-UTB survey team, nor any other people we have spoken to have\nheard of the Ware people. Since no information is given in the current\nEthnologue entry as to the location of the Ware it is difficult to say\nconclusively that they do not exist, but the genetic classification of E.10\nsuggest that they would be located in the north of Tanzania.\n\nIn July 2005 and January/February 2006 the UTB survey team was in Mara Region,\nTanzania where many of the languages in the E.10 group to which Ware is said to\nbelong are located, and found no knowledge of the Ware. An SIL language team\nlocated in Arusha Region also failed to discover any knowledge of the Ware\namongst the people in their area.\n\nSince there seems to be no knowledge of the Ware in northern Tanzania now, we\nwould recommend retiring this language code element.",
+    "code": "wre",
+    "name": "Ware",
+    "effective": "2008-01-14",
+    "reason": "non-existent",
+    "change_request": "2007-024",
+    "change_to": ""
+  },
+  "identifier": {
+    "multitree": "tte-wal"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Ware (wre-wre) = 10 (Extinct)"
+  }
+}

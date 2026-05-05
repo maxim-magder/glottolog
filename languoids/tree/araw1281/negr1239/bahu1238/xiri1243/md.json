@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Xiriâna",
+    "hid": "xir",
+    "level": "language",
+    "iso639-3": "xir",
+    "latitude": "0.83868",
+    "longitude": "-63.452927",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Xiriana](https://wals.info/languoid/lect/wals_code_bah)\nhttps://en.wikipedia.org/wiki/Bahuana_language\nhttps://phoible.org/languages/xiri1243\nhttps://www.wikidata.org/entity/Q2028772",
+    "timespan": "2000-01-01/2000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Arawak_bahuana0**\n**hh:g:Ramirez:Bahuana**\n**hh:he:Nimuendaju:Icana**\n**hh:hvw:Ramirez:Arawak**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:hw:Nimuendaju:Icana**\n**langsci:ramirez:01**"
+  },
+  "altnames": {
+    "glottolog": "\nXiriana",
+    "multitree": "\nChiriana\nShiriana\nShriana\nXiriana\nXiriâna",
+    "lexvo": "\nXiriâna [en]",
+    "hhbib_lgcode": "\nBahuana\nŠiriána"
+  },
+  "triggers": {
+    "lgcode": "\nbahuana\nayari\nNOT indios AND ayari"
+  },
+  "identifier": {
+    "multitree": "xir"
+  },
+  "classification": {
+    "subrefs": "\n**hh:hvw:Ramirez:Arawak-Enciclopedia**",
+    "sub": "**hh:hvw:Ramirez:Arawak-Enciclopedia**:III:13-58"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Xiriâna (xir-xir) = 9 (Dormant)."
+  }
+}

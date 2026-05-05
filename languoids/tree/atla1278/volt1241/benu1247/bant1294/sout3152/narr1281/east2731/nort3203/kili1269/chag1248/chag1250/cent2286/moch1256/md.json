@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mochi",
+    "hid": "old",
+    "level": "language",
+    "iso639-3": "old",
+    "latitude": "-3.33743",
+    "longitude": "37.3357",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Chaga](https://wals.info/languoid/lect/wals_code_cga)\nhttps://en.wikipedia.org/wiki/Mochi_language\nhttps://phoible.org/languages/moch1256\nhttps://www.wikidata.org/entity/Q12952852"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbott:92**\n**cldf:dundas:24**\n**cldf:gutmann:13**\n**cldf:gutmann:26**\n**cldf:raum:09**\n**cldf:raum:40**\n**cldf:stahl:64**\n**eballiso2009:16249**\n**eballiso2009:23532**\n**eballiso2009:27072**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:30925**\n**eballiso2009:35106**\n**eballiso2009:38650**\n**eballiso2009:40455**\n**eballiso2009:40791**\n**eballiso2009:42421**\n**eballiso2009:42506**\n**eballiso2009:43075**\n**eballiso2009:44076**\n**eballiso2009:47873**\n**eballiso2009:48711**\n**eballiso2009:48714**\n**eballiso2009:50699**\n**eballiso2009:53929**\n**eballiso2009:58591**\n**eballiso2009:6139**\n**eballiso2009:6942**\n**eballiso2009:7057**\n**hh:d:Mrikaria:Kimochi**\n**hh:g:Raum:Dschagga**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:Chaga**\n**hh:hv:Winter:Kilimanjaro-Bantu**\n**hh:hvld:Mtallo:Chagga**\n**hh:hvtyp:Philippson:OBantu:Tons**\n**hh:hvw:Philippson:Chaga**\n**hh:ld:NursePhilippson:Tone-Old-Moshi**\n**hh:s:Shinagawa:Rwa-Uru-Mkuu**\n**hh:s:Walther:Moshi**\n**hh:w:Kersten:Ki-Dschagga-Pare**"
+  },
+  "altnames": {
+    "multitree": "\nChaga\nChagga\nKimochi\nKimoshi\nMochi\nMoshi\nMosi\nOld Moshi",
+    "lexvo": "\nMochi [en]",
+    "hhbib_lgcode": "\nArusha-Chini\nCaga 1 d. moshi kilema E62\nCaga 2 d. moshi nkichaka E62\nE622A_Kimochi\nKiMochi\nKiUru\nMoschi\nNot stated which variety of Chaga but because of the site of the mission activity one would presume\nOkuma\nOru\nRusha\nUru\nUru (E622D)\nclose enough to Mochi"
+  },
+  "triggers": {
+    "lgcode": "\nNOT history AND NOT on AND moshi\nmochi\ndschaggasprache\nmoschi\nmoshi\nkimochi"
+  },
+  "identifier": {
+    "wals": "cga",
+    "multitree": "old"
+  },
+  "classification": {
+    "sub": "**hh:hv:Winter:Kilimanjaro-Bantu** **hh:hv:Nurse:ChagaTaita**",
+    "subrefs": "\n**hh:hv:Winter:Kilimanjaro-Bantu**\n**hh:hv:Nurse:ChagaTaita**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mochi (old-old) = 6a (Vigorous)."
+  }
+}

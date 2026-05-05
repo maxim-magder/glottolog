@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Nahali-Baglani",
+    "hid": "nlx",
+    "level": "language",
+    "iso639-3": "nlx",
+    "latitude": "21.43",
+    "longitude": "74.827",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33361\nhttps://en.wikipedia.org/wiki/Kalto_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:zide:ed:66:2**\n**hh:h:Masica:Indo-Aryan**\n**hh:hvsoc:Watters:Bhils-Northern-Dhule**\n**hh:hvwt:Grierson:9:III**"
+  },
+  "altnames": {
+    "wals": "\nNahali",
+    "moseley & asher (1994)": "\nNahali",
+    "multitree": "\nKalto\nNahal\nNahale\nNahali\nNahalí\nNihali",
+    "lexvo": "\nKalteg [br]\nKalto [fr]\nKalto language [en]\nLenga nahali [pms]\nNahali [de]\nНихали [ru]\nカルト語 [ja]",
+    "hhbib_lgcode": "\nBaglani or Nahar\nNahali\nNahari-Baglani\nNahari-Baglani dialect of Bhili in N Nasik Dt-Maharashtra\nToranmal Nahali"
+  },
+  "triggers": {
+    "lgcode": "\ncomparative AND nahali"
+  },
+  "identifier": {
+    "wals": "genus/nahali",
+    "multitree": "nlx"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Watters:Bhils-Northern-Dhule**:9",
+    "subrefs": "\n**hh:hvsoc:Watters:Bhils-Northern-Dhule**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Nahali (1361-nlx) = Definitely endangered"
+  }
+}

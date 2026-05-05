@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Parawen",
+    "hid": "prw",
+    "level": "language",
+    "iso639-3": "prw",
+    "latitude": "-5.0112",
+    "longitude": "145.418",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Parawen](https://lexibank.clld.org/languages/transnewguineaorg-parawen)\nhttps://en.wikipedia.org/wiki/Parawen_language\nhttps://www.wikidata.org/entity/Q7136291"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3424**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:Pick:Northern-Adelbert**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:NAdelbert**"
+  },
+  "altnames": {
+    "multitree": "\nPara\nParawen",
+    "lexvo": "\nParawen [en]"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "identifier": {
+    "multitree": "prw"
+  },
+  "classification": {
+    "sub": "**hh:hb:Zgraggen:Madang**:23",
+    "subrefs": "\n**hh:hb:Zgraggen:Madang**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Parawen (prw-prw) = 6b (Threatened)."
+  }
+}

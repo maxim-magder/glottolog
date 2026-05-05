@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tlachichilco Tepehua",
+    "hid": "tpt",
+    "level": "language",
+    "iso639-3": "tpt",
+    "latitude": "20.704",
+    "longitude": "-98.1947",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Tepehua (Tlachichilco)](https://wals.info/languoid/lect/wals_code_tep)\n[Tlachichilco Tepehua](https://endangeredlanguages.com/lang/3514)\nhttps://en.wikipedia.org/wiki/Tlachichilco_Tepehua\nhttps://phoible.org/languages/tlac1235\nhttps://www.wikidata.org/entity/Q56330"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:watters:96**\n**hh:d:Cruz:Tlachichilco**\n**hh:g:Watters:Tepehua**\n**hh:hv:Dakin:Western-Central-Nahua**\n**hh:hv:MacKayTrechsel:Totonac-Tepehua:2018**\n**hh:hv:Moore:Coahuitlan-Totonac**\n**hh:typ:Watters:Tepehua**\n**hh:typ:Watters:Tepehua:Verb**\n**hh:w:Leon:Tepehua-Veracruz**\n**sil16:16824**\n**sil16:19029**\n**sil16:22091**\n**sil16:35675**\n**sil16:37015**"
+  },
+  "altnames": {
+    "multitree": "\nTepehua\nTepehua de Tlachichilco\nTepehua, Tlachichilco\nTepehuano de Tlachichilco\nTepewa\nTlachichilco Tepewa",
+    "lexvo": "\nTlachichilco Tepehua [en]",
+    "hhbib_lgcode": "\nHuayacocontla in Chicontepec Veracruz\nTepehua-Tlachichilco\nTlachichilco\nTlachichilco /Chintipán/Tierra Colorada\nTlachichilco Tepehua (T)",
+    "elcat": "\nTepehua\nTlachichilco\nTlachichilco Tepehua\nTlachichilcoTepewa"
+  },
+  "triggers": {
+    "lgcode": "\nphonology AND tepehua"
+  },
+  "identifier": {
+    "wals": "tep",
+    "multitree": "tpt",
+    "endangeredlanguages": "3514"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tlachichilco Tepehua (3514-tpt) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Dongxiang",
+    "hid": "sce",
+    "level": "language",
+    "iso639-3": "sce",
+    "latitude": "35.66354",
+    "longitude": "103.38952",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Dongxiang](https://endangeredlanguages.com/lang/1209)\n[Dongxiang](https://grambank.clld.org/languages/dong1285)\n[Santa](https://wals.info/languoid/lect/wals_code_sta)\nhttps://en.wikipedia.org/wiki/Santa_language\nhttps://phoible.org/languages/dong1285\nhttps://www.wikidata.org/entity/Q32947"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alpatov:ed:97:4**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:liu:81**\n**cldf:ma:chenyuanlong:01**\n**cldf:min:13**\n**cldf:np:nd:264**\n**cldf:todaeva:97:2**\n**hh:d:Buhe:Dongxiang**\n**hh:d:MaChen:Dongxiang**\n**hh:e:Chen:Dongxiang**\n**hh:g:Field:Santa**\n**hh:g:Todaeva:Dunsjanskij**\n**hh:h:Hattaway:China**\n**hh:hs:Todaeva:Mongolskie**\n**hh:hv:Nugteren:Qinghai-Gansu**\n**hh:s:Academy:Dongxiang**\n**hh:s:Jin:Dongxiang**\n**hh:s:Kim:Santa**\n**hh:s:Liu:Dongxiang**\n**hh:s:Todaeva:Tung-Hsiang**\n**hh:typ:Bao:Dongxiang**\n**hh:typ:Lefort:Dongxiang**\n**hh:typ:Liu:Dongxiang**\n**hh:typ:Napoli:Santa-Mongolian**\n**hh:vtyp:Lefort:Dongxiang**\n**mpieva:Liu1981Dongxian**\n**sil16:40110**\n**sil16:48755**"
+  },
+  "altnames": {
+    "wals": "\nSanta",
+    "wals other": "\nDunsyan",
+    "ruhlen (1987)": "\nDonxiang",
+    "moseley & asher (1994)": "\nSanta",
+    "multitree": "\nDongxiang\nDunshan\nSanta\nTsung-hsiang\nTung\nTunghsiang",
+    "lexvo": "\nBahasa Dongxiang [ms]\nBahsa Dongxiang [ace]\nDongchiangeg [br]\nDongxiang [en]\nDongxiang language [en]\nDongxiangca [tr]\nJęzyk santyjski [pl]\nДунсијански јазик [mk]\nДунсянский язык [ru]\nدۇڭشياڭ تىلى [ug]\n东乡语 [zh]",
+    "hhbib_lgcode": "\nDunsya\nSanta Mongolian",
+    "elcat": "\nDongxiang\nDunshan\nSanta\nTsung-hsiang\nTung\nTunghsiang\n東鄉語"
+  },
+  "triggers": {
+    "lgcode": "\ndunsjanskij\nyenjiu\ndongxiangyu\ndongxiang\nhsiang"
+  },
+  "identifier": {
+    "wals": "sta",
+    "multitree": "sce",
+    "endangeredlanguages": "1209"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nugteren:Qinghai-Gansu**",
+    "subrefs": "\n**hh:hv:Nugteren:Qinghai-Gansu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Dongxiang (1209-sce) = Vulnerable (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

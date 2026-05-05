@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Onin",
+    "hid": "oni",
+    "level": "language",
+    "iso639-3": "oni",
+    "latitude": "-2.75976",
+    "longitude": "132.062",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Onin](https://endangeredlanguages.com/lang/2739)\nhttps://www.wikidata.org/entity/Q7093910\nhttps://en.wikipedia.org/wiki/Onin_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Bout:West-Nieuw-Guinea**\n**hh:e:Roder:Onin**\n**hh:e:Versteegh:Onin-Kowiai**\n**hh:e:vanDissel:Onin**\n**hh:ew:Modera:Zuidwestkust**\n**hh:h:Beccari:Viaggi**\n**hh:hew:Earl:Papuans**\n**hh:hew:Muller:Indischen:I**\n**hh:hew:Robide:NNG**\n**hh:hlde:deClercq:MacCluer**\n**hh:hlde:deClercq:WNNNG**\n**hh:hv:Kaplan:Onin-Sekar-Uruangnirin**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marsden:East-Insular**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:hw:Walker:Bomberai**\n**hh:phon:Muti:Onim**\n**hh:typ:Setyaningsih:Meyah-Walak-Onim**"
+  },
+  "altnames": {
+    "multitree": "\nOnim\nOnin\nSepa",
+    "lexvo": "\nOnin [en]",
+    "hhbib_lgcode": "\n10 could be Koiwai) and 2 words fish + fire which are Onin\n10 numerals which are not Onin (fail to show the r to n change but whose 1-5 and 10 could be Koiwai) and 2 words fish + fire which are Onin\nHonin\nNumerals of Onin\nOnim\nOnin (wrongly thought to include Derembang and Kokas)\nOnin or Woni\nOnin/Woni\nRoembati\nRoembati en Patipi",
+    "elcat": "\nOnim\nOnin\nSepa"
+  },
+  "triggers": {
+    "lgcode": "\nbijzonder\npatipi\nkokas"
+  },
+  "identifier": {
+    "multitree": "oni",
+    "endangeredlanguages": "2739"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia** **hh:hv:Kaplan:Onin-Sekar-Uruangnirin**",
+    "subrefs": "\n**hh:hv:Kaplan:Onin-Sekar-Uruangnirin**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Onin (2739-oni) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

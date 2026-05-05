@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mochica",
+    "hid": "omc",
+    "level": "language",
+    "iso639-3": "omc",
+    "latitude": "-8.01667",
+    "longitude": "-79.0",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Mochica](https://grambank.clld.org/languages/moch1259)\n[Mochica](https://wals.info/languoid/lect/wals_code_mcc)\nhttps://en.wikipedia.org/wiki/Mochica_language\nhttps://phoible.org/languages/moch1259\nhttps://www.wikidata.org/entity/Q1951641",
+    "timespan": "1644-01-01/1920-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:04**\n**fabreall2009ann:Mochica0**\n**fabreall2009ann:Mochica1**\n**fabreall2009ann:Mochica11**\n**fabreall2009ann:Mochica12**\n**fabreall2009ann:Mochica13**\n**fabreall2009ann:Mochica15**\n**fabreall2009ann:Mochica16**\n**fabreall2009ann:Mochica17**\n**fabreall2009ann:Mochica18**\n**fabreall2009ann:Mochica19**\n**fabreall2009ann:Mochica20**\n**fabreall2009ann:Mochica21**\n**fabreall2009ann:Mochica25**\n**fabreall2009ann:Mochica26**\n**fabreall2009ann:Mochica27**\n**fabreall2009ann:Mochica3**\n**fabreall2009ann:Mochica30**\n**fabreall2009ann:Mochica31**\n**fabreall2009ann:Mochica33**\n**fabreall2009ann:Mochica34**\n**fabreall2009ann:Mochica35**\n**fabreall2009ann:Mochica37**\n**fabreall2009ann:Mochica39**\n**fabreall2009ann:Mochica4**\n**fabreall2009ann:Mochica40**\n**fabreall2009ann:Mochica41**\n**fabreall2009ann:Mochica42**\n**fabreall2009ann:Mochica43**\n**fabreall2009ann:Mochica45**\n**fabreall2009ann:Mochica46**\n**fabreall2009ann:Mochica48**\n**fabreall2009ann:Mochica50**\n**fabreall2009ann:Mochica51**\n**fabreall2009ann:Mochica52**\n**fabreall2009ann:Mochica53**\n**fabreall2009ann:Mochica54**\n**fabreall2009ann:Mochica55**\n**fabreall2009ann:Quechua108**\n**hh:d:Bruning:Mochica**\n**hh:e:Gillin:Moche**\n**hh:e:Larco:Mochica**\n**hh:g:Middendorf:Muchik**\n**hh:hld:Jijon:Ecuador**\n**hh:ht:Hervas:Saggio**\n**hh:hv:Adelaar:Andes**\n**hh:hv:Cerron-Palomino:Naimlap**\n**hh:hv:Cerron-Palomino:Peruana**\n**hh:hv:Stark:Maya-Yunga-Chipayan**\n**hh:hv:Stark:Mayan-Yunga**\n**hh:hv:Torero:Costa-NPeruana**\n**hh:hvld:Urban:Northern-Peru**\n**hh:hvs:Torero:Andes**\n**hh:ld:Zevallos:Chimu-Onomastica**\n**hh:ld:Zevallos:Chimu-Toponimia**\n**hh:ld:Zevallos:Yungas**\n**hh:ld:delaGrasserie:Yunga**\n**hh:s:Altieri:Mochica**\n**hh:s:Harrington:Yunka**\n**hh:s:Hovdhaugen:Mochica**\n**hh:s:Urban:Mochica**\n**hh:s:Villareal:Mochica**\n**hh:s:delaCarrera:Yunga**\n**hh:sv:Eloranta:Mochica**\n**hh:typ:Eloranta:Clasificador**\n**hh:v:Diaz-Fernandez:Mapuzungun**\n**hh:v:Urban:Mochica-Pronouns**\n**hh:w:Eloranta:Mochica**\n**hh:w:Huber:Mucik**\n**hh:w:Zevallos:Costa**\n**hh:w:Zevallos:Mochica**"
+  },
+  "altnames": {
+    "wals": "\nMochica",
+    "ruhlen (1987)": "\nMochika",
+    "moseley & asher (1994)": "\nChimu",
+    "multitree": "\nChimu\nChimú\nMochica\nMochicha\nMochika\nMuchic\nMuchik\nQuingnam\nYunca\nYunga\nYunka",
+    "lexvo": "\nMochica [en]",
+    "hhbib_lgcode": "\nMochica (a.k.a. Yunga or Muchik)\nMochica di Yungas\nYunga"
+  },
+  "triggers": {
+    "lgcode": "\nmuchik\nyungas\nyunka\ndeslindes\nmochica\nmucik\nbruning\nhuanchaco\nchimu\ncacicazgos\nmoche\nmochicas\nchicama\nyunga\ninkas\ntschimu"
+  },
+  "identifier": {
+    "wals": "mcc",
+    "multitree": "omc"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Cerron-Palomino:Naimlap**\n**hh:hvld:Urban:Peruvian-North-Coast**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mochica (631-) = Extinct"
+  }
+}

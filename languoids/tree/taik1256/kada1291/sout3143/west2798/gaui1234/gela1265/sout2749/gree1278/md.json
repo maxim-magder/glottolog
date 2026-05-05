@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Hagei Gelao",
+    "hid": "giq",
+    "level": "language",
+    "iso639-3": "giq",
+    "latitude": "22.5632",
+    "longitude": "104.698",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Hagei_language\n[Green Gelao](https://endangeredlanguages.com/lang/1510)\nhttps://www.wikidata.org/entity/Q12953525"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:daiqingsha:ed:04**\n**cldf:ed:10**\n**cldf:he:83**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:ostapirat:00**\n**hh:d:Luo:Pingzheng-Gelao**\n**hh:e:Wuchuan:Gelao**\n**hh:h:Hattaway:China**\n**hh:hld:EdmondsonJinfang:Corridor**\n**hh:hvwphon:LiZhou:Geyang**\n**hh:hvwphon:Zhou:Gelao**\n**hh:phon:Jing:Gelao**\n**hh:phon:Shen:Sanchong-Gelao**\n**hh:s:Wang:Sanchong-Chilao**\n**hh:t:Li:Geyang**\n**hh:w:Kosaka:Ge-Yang**\n**sala:3878**"
+  },
+  "altnames": {
+    "multitree": "\nCape Draping Gelao\nGelao (Vietnam)\nGelao vert (Chine)\nGelao vert (Viet Nam)\nGelao, Green\nHoki Gelao\nKlau\nQau",
+    "lexvo": "\nGreen Gelao [en]",
+    "hhbib_lgcode": "\nGreen Gelao\nHagei\nSanchong Gelao\nSanchong-Chilao\nTianba village in Pingzheng township\nWuchuan Gelao\nZhenfeng Gelao",
+    "elcat": "\nCape Draping Gelao\nCờ Lao\nGreen Gelao\nHagei\nHo Ki\nHoki Gelao\nKláo\n仡佬语哈給方言\n青仡佬"
+  },
+  "triggers": {
+    "lgcode": "\nproto AND kra\ngeyang\nsanchong"
+  },
+  "identifier": {
+    "multitree": "giq",
+    "endangeredlanguages": "1510"
+  },
+  "classification": {
+    "sub": "**hh:hld:ShearerHongkai:China**:850-852 **hh:vw:Zhang:Yiren**",
+    "subrefs": "\n**hh:hld:ShearerHongkai:China**\n**hh:vw:Zhang:Yiren**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Green Gelao (1510-giq) = Severely Endangered (100 percent certain, based on the evidence available) (The Green Gelao has the most speakers among four Gelao languages.) [(戴慶廈) 2004](cldf:daiqingsha:ed:04)"
+  }
+}

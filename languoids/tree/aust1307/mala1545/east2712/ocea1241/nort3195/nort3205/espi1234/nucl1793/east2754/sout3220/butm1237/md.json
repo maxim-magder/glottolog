@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Farafi",
+    "hid": "bnr",
+    "level": "language",
+    "iso639-3": "bnr",
+    "latitude": "-15.3353",
+    "longitude": "167.034",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Butmas-Tur](https://endangeredlanguages.com/lang/10786)\n[Butmas-Tur (Butmas)](https://lexibank.clld.org/languages/abvdoceanic-ButmasTurButmas)\nhttps://en.wikipedia.org/wiki/Butmas_language\nhttps://www.wikidata.org/entity/Q2928942"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:297**\n**asjp2010:824**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nAti\nButmas-Tur",
+    "lexvo": "\nButmas-Tur [en]",
+    "hhbib_lgcode": "\nButmas\nButmas-Tur\nSoutheast Santo-Butmas-Tur\nTur",
+    "elcat": "\nAti\nButmas-Tur\nFarafi"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "bnr",
+    "endangeredlanguages": "10786"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Butmas-Tur (10786-bnr) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

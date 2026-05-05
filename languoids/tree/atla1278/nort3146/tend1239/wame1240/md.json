@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Wamey",
+    "hid": "cou",
+    "level": "language",
+    "iso639-3": "cou",
+    "latitude": "12.5421",
+    "longitude": "-13.177",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "SN"
+    ],
+    "links": "\n[Konyagi](https://wals.info/languoid/lect/wals_code_kgi)\n[Wamey](https://endangeredlanguages.com/lang/5525)\nhttps://en.wikipedia.org/wiki/Wamey\nhttps://phoible.org/languages/wame1240\nhttps://www.wikidata.org/entity/Q36935"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:delacour:12**\n**cldf:ferry:91**\n**cldf:gessain:60**\n**cldf:gessain:67**\n**cldf:gessain:lestrange:80**\n**cldf:johnston:19:38**\n**cldf:kroch:gessain:67**\n**cldf:lestrange:50**\n**cldf:lewis:ed:09**\n**cldf:santos:77**\n**cldf:techer:33**\n**eballiso2009:10254**\n**eballiso2009:23753**\n**eballiso2009:32125**\n**eballiso2009:37851**\n**eballiso2009:47587**\n**eballiso2009:47593**\n**eballiso2009:47628**\n**eballiso2009:9627**\n**hh:e:Delacour:Tenda**\n**hh:e:deLestrange:Coniagui-Bassari**\n**hh:ed:Ferry:Tenda**\n**hh:g:Santos:Mey**\n**hh:hvs:Wilson:Atlantic**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:phon:Santos:Wey**\n**hh:phon:Toure:Wamey**\n**hh:s:JenkinsJenkins:Wey**\n**hh:s:Millimovo:Wamey**\n**hh:typ:Toure:Wamey**\n**hh:w:Armstrong:West-African**\n**hh:w:Diallo:Wamey**\n**hh:w:Gessain:Coniagui-Bassari**\n**hh:w:SantosFerry:Wey-Pe**\n**mpieva:Sachot1996Lemeylan**\n**sil16:45310**\n**sil16:45318**\n**sil16:45326**"
+  },
+  "altnames": {
+    "wals": "\nKonyagi",
+    "ruhlen (1987)": "\nKonyagi",
+    "moseley & asher (1994)": "\nKonyagi",
+    "multitree": "\nCogniagui\nConhague\nConiagui\nKoniagi\nKoniagui\nKonyagi\nTenda\nWamay\nWamei\nWamey",
+    "lexvo": "\nWamey [en]",
+    "hhbib_lgcode": "\nConiagui\nConiagui Youkounkoun\nKonyagi\nWey",
+    "elcat": "\nCogniagui\nConhague\nConiagui\nKoniagi\nKoniagui\nKonyagi\nTenda\nWamay\nWamei\nWamey"
+  },
+  "triggers": {
+    "lgcode": "\nconiagui\nkonagi\nwame\nmey\nkonyagui\nwey\nguinneennes\nuver\nwamey"
+  },
+  "identifier": {
+    "wals": "kgi",
+    "multitree": "cou",
+    "endangeredlanguages": "5525"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ferry:Parente-Atlantique** **hh:hv:Segerer:Atlantic-Isolates**",
+    "subrefs": "\n**hh:hv:Ferry:Parente-Atlantique**\n**hh:hv:Segerer:Atlantic-Isolates**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wamey (5525-cou) = Vulnerable (20 percent certain, based on the evidence available) (Seriously threatened and doomed to extinction in the near future.) [Childs 2006](cldf:childs:06)"
+  }
+}

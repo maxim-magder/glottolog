@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Akakora",
+    "hid": "ack",
+    "level": "language",
+    "iso639-3": "ack",
+    "latitude": "12.0944",
+    "longitude": "92.7466",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Aka-Kora](https://endangeredlanguages.com/lang/10716)\nhttps://en.wikipedia.org/wiki/Akakhora\nhttps://www.wikidata.org/entity/Q3433680",
+    "timespan": "2009-01-01/2009-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:09:2**\n**hh:d:Abbi:Great-Andamanese**\n**hh:he:Radcliffe-Brown:Andaman**\n**hh:s:Abbi:Great-Andamanese:Vanishing**\n**hh:s:Yadav:Great-Andamanese**"
+  },
+  "altnames": {
+    "multitree": "\nAka-Kora\nGreat Andamanese\nKora",
+    "lexvo": "\nAka-Kora [en]\nAka-Kora language [en]\nBahasa Aka-Kora [id]\nIdioma kora [es]\nKoran kieli [fi]\nLèngua Aka-Kora [lmo]",
+    "hhbib_lgcode": "\nAka-Kora\nKhora\nLanguage of Pikar who belongs to the Kora group",
+    "glottolog": "\nAka-Kora",
+    "elcat": "\nAka-Cora\nAka-Khora\nAka-Kora\nKhora\nKora"
+  },
+  "identifier": {
+    "multitree": "ack",
+    "endangeredlanguages": "10716"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**",
+    "subrefs": "\n**hh:hvw:ComrieZamponi:Great-Andamanese-Subgrouping**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aka-Kora (10716-ack) = Dormant [Abbi 2009](cldf:abbi:09:2)"
+  }
+}

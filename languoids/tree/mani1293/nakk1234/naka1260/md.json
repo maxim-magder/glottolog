@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nakara",
+    "hid": "nck",
+    "level": "language",
+    "iso639-3": "nck",
+    "latitude": "-12.07653",
+    "longitude": "134.32729",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Nakara](https://endangeredlanguages.com/lang/2552)\n[Nakara](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Nakara)\n[Nakkara](https://collection.aiatsis.gov.au/austlang/language/n80)\n[Nakkara](https://wals.info/languoid/lect/wals_code_nkk)\nhttps://en.wikipedia.org/wiki/Nakkara_language\nhttps://phoible.org/languages/naka1260\nhttps://www.wikidata.org/entity/Q6960662"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:g:Eather:Nakkara**\n**hh:g:Eather:Nakkara:2011**\n**hh:hv:Capell:Arnhem**\n**iso6393:2018-047**\n**ozbib:1807**\n**ozbib:1808**\n**ozbib:1869**\n**ozbib:1872**\n**ozbib:2132**\n**ozbib:2877**\n**ozbib:4032**\n**ozbib:5947**\n**ozbib:7311**"
+  },
+  "altnames": {
+    "wals": "\nNakkara",
+    "ruhlen (1987)": "\nNakarra",
+    "moseley & asher (1994)": "\nNakkara",
+    "lexvo": "\nNakara [en]",
+    "hhbib_lgcode": "\nNagara",
+    "elcat": "\nGukari\nGukariya\nKokori\nNa-kara\nNaga:ra\nNagara\nNaka:ra\nNakara\nNakkara\nNgara",
+    "aiatsis": "\nGukari\nGukariya\nKokori\nKukkori\nNa kara\nNackara\nNaga:ra\nNagara\nNaka:ra\nNakara\nNakkara\nNarkarrar\nNgara"
+  },
+  "triggers": {
+    "lgcode": "\nnakkara"
+  },
+  "identifier": {
+    "wals": "genus/nakkara",
+    "endangeredlanguages": "2552"
+  },
+  "classification": {
+    "sub": "Despite the lexical divergence the similarities in bound morphology between Nakkara and Ndjebbana **hh:g:Eather:Nakkara:2011**:1-3 argue for subgrouping them **hh:hv:Carew:Maningrida**:825-826.",
+    "subrefs": "\n**hh:hv:Carew:Maningrida**\n**hh:g:Eather:Nakkara:2011**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nakara (2552-nck) = Severely Endangered (100 percent certain, based on the evidence available) (The language is getting endangered.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

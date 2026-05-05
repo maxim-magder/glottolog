@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Inabaknon",
+    "hid": "abx",
+    "level": "language",
+    "iso639-3": "abx",
+    "latitude": "12.4264",
+    "longitude": "124.166",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Abaknon_language\nhttps://www.wikidata.org/entity/Q2820163"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jacobson:99**\n**hh:phon:JacobsonJacobson:Sama-Abaknon**\n**hh:s:JacobsonJacobson:Sama-Abaknon**\n**sil16:18174**\n**sil16:19707**\n**sil16:39874**\n**sil16:39875**"
+  },
+  "altnames": {
+    "multitree": "\nAbaknon\nAbaknon Sama\nCapul\nCapuleño\nInabaknon\nKapul\nSama",
+    "lexvo": "\nInabaknon [en]"
+  },
+  "triggers": {
+    "lgcode": "\nsinurat\ninaanto\nparahallingon\nabaknon"
+  },
+  "identifier": {
+    "multitree": "abx"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Pallesen:Convergence**",
+    "subrefs": "\n**hh:hvw:Pallesen:Convergence**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Inabaknon (abx-abx) = 5 (Developing)."
+  }
+}

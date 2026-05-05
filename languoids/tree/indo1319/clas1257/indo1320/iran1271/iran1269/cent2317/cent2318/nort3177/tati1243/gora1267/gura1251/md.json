@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Gurani",
+    "hid": "hac",
+    "level": "language",
+    "iso639-3": "hac",
+    "latitude": "36.8377",
+    "longitude": "44.4956",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "IR"
+    ],
+    "links": "\n[Gurani](https://endangeredlanguages.com/lang/4263)\n[Gurani](https://grambank.clld.org/languages/gura1251)\n[Hawrami](https://wals.info/languoid/lect/wals_code_hwr)\nhttps://en.wikipedia.org/wiki/Gorani_language\nhttps://www.wikidata.org/entity/Q33733"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:bld:Paul:Gorani**\n**hh:g:Bailey:Gawraju**\n**hh:g:MacKenzie:Awroman**\n**hh:g:Mohammadirad:Hewrami**\n**hh:g:Mokri:Kurdes**\n**hh:h:Anonby:Kordestan**\n**hh:h:Blau:Gurani-Zaza**\n**hh:hv:Haig:Iranian-Northern-Iraq**\n**hh:hvs:MannHadank:Guran**\n**hh:hvs:deMorgan:Kurdes**\n**hh:ld:MacKenzie:Avromani**\n**hh:ld:MacKenzie:Gurani**\n**hh:s:Mahmoudveysi:Hawrami**\n**hh:soc:Zolfaqari:Avromani**\n**hh:st:BenedictsenChristensen:Awroman**\n**hh:st:Mokri:Gouranie**\n**hh:std:Mahmoudveysi:Gorani-Gawraju**\n**hh:std:Mahmoudveysi:Gorani-Zarda**\n**hh:t:Christensen:Awromani**\n**hh:t:Mohammadirad:Hewrami**\n**hh:typ:HolmbergOdden:Hawrami**\n**hh:typ:Koohkan:Modern-West-Iranian**\n**hh:vtyp:Leezenberg:Gorani**"
+  },
+  "altnames": {
+    "wals": "\nHawrami",
+    "wals other": "\nAwroman",
+    "moseley & asher (1994)": "\nGorani",
+    "multitree": "\nAwromani\nGorani\nGurani\nHawramani\nHawrami\nHewrami\nHowrami\nMacho",
+    "lexvo": "\nGoraneg [br]\nGorani [de]\nGorani dialects [en]\nGoranice [tr]\nGoranki [diq]\nGurani [en]\nHewramî [ku]\nГорани [ru]\nزبان گورانی [fa]\nھەورامی [ckb]",
+    "hhbib_lgcode": "\nAuramani\nAvormani\nAvromani\nAwroman\nAwromani\nGawraju\nGorani\nHawraman\nHawramani\nHawrami\nHawrami (Hawraman Takht)\nHewramî\nKakayi\nKandulayi\nKänduläi\nTakht Hawrami\nZarda\nZardayana",
+    "elcat": "\nAwromani\nGorani\nGurani\nHawramani\nHawrami\nHewrami\nHowrami\nMacho"
+  },
+  "triggers": {
+    "lgcode": "\ndawroman\npawa\nhawraman\nluhon\nawroman"
+  },
+  "identifier": {
+    "wals": "hwr",
+    "multitree": "hac;hac-gur",
+    "endangeredlanguages": "4263"
+  },
+  "classification": {
+    "sub": "**hh:v:Paul:Zazaki**",
+    "subrefs": "\n**hh:v:Paul:Zazaki**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Gurani (4263-hac) = Vulnerable (20 percent certain, based on the evidence available) [Holmberg and Odden 2008](cldf:holmberg:odden:08)"
+  }
+}

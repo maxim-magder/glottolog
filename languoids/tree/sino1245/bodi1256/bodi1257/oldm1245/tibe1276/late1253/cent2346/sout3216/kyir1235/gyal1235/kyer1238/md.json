@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kyerung",
+    "hid": "kgy",
+    "level": "language",
+    "iso639-3": "kgy",
+    "latitude": "28.2922",
+    "longitude": "85.4257",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NP"
+    ],
+    "links": "\n[Kyerung](https://grambank.clld.org/languages/kyer1238)\n[Kyirong](https://wals.info/languoid/lect/wals_code_kgy)\nhttps://phoible.org/languages/kyer1238\nhttps://www.wikidata.org/entity/Q12952691"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hall:hildebrandt:66**\n**cldf:hall:hildebrandt:nd**\n**cldf:hayward:ed:90:3**\n**cldf:hildebrandt:hall:66**\n**cldf:huber:00**\n**cldf:huber:66**\n**hh:g:Huber:Lende**\n**hh:g:Huber:Lende:2002**\n**hh:hv:Hedlin:Kyirong-Yolmo**\n**hh:hwsoc:Webster:North-Gorkha**"
+  },
+  "altnames": {
+    "multitree": "\nGyirong\nKyerung\nKyirong",
+    "lexvo": "\nKyerung [en]",
+    "hhbib_lgcode": "\nKyirong"
+  },
+  "triggers": {
+    "lgcode": "\nlende\nkyirong"
+  },
+  "identifier": {
+    "wals": "kgy",
+    "multitree": "kgy"
+  },
+  "classification": {
+    "sub": "**hh:phon:HildebrandtPerry:Gyalsumdo**",
+    "subrefs": "\n**hh:phon:HildebrandtPerry:Gyalsumdo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Khaccaḍ Bhoṭe (1148-) = Definitely endangered"
+  }
+}

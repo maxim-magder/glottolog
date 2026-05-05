@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kadara",
+    "hid": "kad",
+    "level": "language",
+    "iso639-3": "kad",
+    "latitude": "9.99696",
+    "longitude": "7.45933",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914011\nhttps://en.wikipedia.org/wiki/Adara_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:smith:nd:2**\n**cldf:smith:nd:3**\n**hh:dial:Yoder:Intelligibility:2014**\n**hh:h:Bertho:Nigeria**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Gunn:Pagan-Central**\n**hh:he:SIL:Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:hwsoc:Hon:Adara**\n**hh:typ:Maikarfi:Eda**\n**hh:w:Armstrong:West-African**\n**hh:w:Blench:Kadara**\n**hh:wsoc:Decker:Ejuele**\n**hh:wsoc:Decker:Ikulu**\n**iso6393:2011-149**"
+  },
+  "altnames": {
+    "multitree": "\nAdara\nKadara",
+    "lexvo": "\nKadara [en]",
+    "hhbib_lgcode": "\nAda\nAdara\nEneje\nE̱da\nKadara (Adara)\nKajuru (Ajure)"
+  },
+  "triggers": {
+    "lgcode": "\nkadara\neda"
+  },
+  "identifier": {
+    "multitree": "kad"
+  },
+  "classification": {
+    "sub": "**hh:w:Blench:Ejegha** **hh:wsoc:Decker:Ejuele**:20-22",
+    "subrefs": "\n**hh:w:Blench:Ejegha**\n**hh:wsoc:Decker:Ejuele**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Adara (kad-kad) = 6a (Vigorous)."
+  }
+}

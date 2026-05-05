@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Dime",
+    "hid": "dim",
+    "level": "language",
+    "iso639-3": "dim",
+    "latitude": "6.20951",
+    "longitude": "36.3329",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Dime](https://grambank.clld.org/languages/dime1235)\n[Dime](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Dime)\n[Dime](https://wals.info/languoid/lect/wals_code_dim)\n[Dimé](https://endangeredlanguages.com/lang/5247)\nhttps://en.wikipedia.org/wiki/Dime_language\nhttps://phoible.org/languages/dime1235\nhttps://www.wikidata.org/entity/Q35311"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aklilu:siebert:02**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:hayward:ed:90:1**\n**cldf:jensen:ed:59**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**cldf:seyoum:08**\n**cldf:siebert:02**\n**eballiso2009:24644**\n**eballiso2009:24645**\n**eballiso2009:25351**\n**eballiso2009:29550**\n**eballiso2009:29551**\n**eballiso2009:31549**\n**eballiso2009:34538**\n**eballiso2009:54217**\n**eballiso2009:56714**\n**eballiso2009:56720**\n**hh:d:Seyoum:Dime**\n**hh:g:Seyoum:Dime**\n**hh:hv:Bender:Aroid**\n**hh:hv:Lamberti:Ari-Banna**\n**hh:hvw:Bender:Ethiopia**\n**hh:hvw:Tsuge:SOmotic**\n**hh:ld:Seyoum:Dime**\n**hh:s:Bedil:Dime**\n**hh:s:Fleming:Dime**\n**hh:w:Tsuge:Dime**\n**ldh:item_406228**\n**mpieva:Seyoum2008Agrammar**\n**sil16:36294**\n**sil16:37562**\n**sil16:42592**\n**sil16:42606**"
+  },
+  "altnames": {
+    "wals": "\nDime",
+    "wals other": "\nDima",
+    "ruhlen (1987)": "\nDime",
+    "moseley & asher (1994)": "\nDime",
+    "multitree": "\nDima\nDime\nDimé",
+    "lexvo": "\nDime [de]\nDime jezik [hr]\nDime language [en]\nLenga Dime [pms]",
+    "elcat": "\nDima\nDime\nDimme\nDimé"
+  },
+  "triggers": {
+    "lgcode": "\ndime\noutcastes"
+  },
+  "identifier": {
+    "wals": "dim",
+    "multitree": "dim",
+    "endangeredlanguages": "5247"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Tsuge:SOmotic**",
+    "subrefs": "\n**hh:hvw:Tsuge:SOmotic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dimé (5247-dim) = Threatened (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

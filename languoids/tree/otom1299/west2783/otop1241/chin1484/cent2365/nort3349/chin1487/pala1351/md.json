@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Palantla Chinantec",
+    "hid": "cpa",
+    "level": "language",
+    "iso639-3": "cpa",
+    "latitude": "17.884",
+    "longitude": "-96.3407",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Central Chinantec](https://endangeredlanguages.com/lang/9873)\n[Chinantec (Palantla)](https://wals.info/languoid/lect/wals_code_cpl)\nhttps://en.wikipedia.org/wiki/Palantla_Chinantec\nhttps://www.wikidata.org/entity/Q5100112"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:merrifield:99**\n**hh:d:MerrifieldAnderson:Chinanteco-Tlatepuzco**\n**hh:s:Merrifield:Palantla-Chinantec**\n**hh:s:Merrifield:Palantla-Chinantec:1967**\n**ldh:item_408009**\n**mpieva:Merrifield1963Palantla**\n**mpieva:Merrifield1999Dicciona**\n**sil16:11703**\n**sil16:11706**\n**sil16:11710**\n**sil16:11713**\n**sil16:11722**\n**sil16:13657**\n**sil16:34167**\n**sil16:35817**\n**sil16:46713**"
+  },
+  "altnames": {
+    "wals": "\nChinantec (Palantla)",
+    "wals other": "\nPalantla Chinantec",
+    "ruhlen (1987)": "\nChinanteko",
+    "moseley & asher (1994)": "\nChinantec",
+    "multitree": "\nChinantec\nChinantec (Palantla)\nChinantec, Palantla\nChinanteco\nChinanteco (Palantla)\nChinanteco de Santiago Tlatepusco\nChinanteko\nPalantla\nPalantla Chinanteko",
+    "lexvo": "\nPalantla Chinantec [en]",
+    "elcat": "\nCentral Chinantec\nChiltepec Chinantec\nChinantec\nChinanteco\nChinanteco Central\nChinanteko\nLealao Chinantec\nPalantla Chinantec\nUsila Chinantec\nValle Nacional Chinantec\njajme dzä mii\njmiih kia' dzä mii"
+  },
+  "triggers": {
+    "lgcode": "\npalantla\ntlatepuzco\njniang"
+  },
+  "identifier": {
+    "wals": "cpl",
+    "multitree": "cpa",
+    "endangeredlanguages": "9873"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Central Chinantec (9873) = Vulnerable (20 percent certain, based on the evidence available) (No monolinguals) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

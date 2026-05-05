@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Markweeta",
+    "hid": "enb",
+    "level": "language",
+    "iso639-3": "enb",
+    "latitude": "1.15018",
+    "longitude": "35.5866",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Markwet_language\nhttps://www.wikidata.org/entity/Q56874"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2994**\n**eballiso2009:40346**\n**hh:d:Mietzner:Cherangany**\n**hh:e:Kipkorir:Marakwet**\n**hh:e:Moore:Marakwet**\n**hh:g:Mietzner:Cherangany**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:hvw:vanOtterloo:Kalenjin**\n**hh:ld:Jerono:Kalenjin**\n**hh:phon:Zwarts:Endo**\n**hh:phon:Zwarts:Endo:2003**\n**hh:phonw:Nandako:Sengwer**\n**hh:v:Rottland:Marakwet**\n**hh:w:Beech:Endo**\n**iso6393:2006-107**\n**iso6393:2007-161**\n**sil16:39345**\n**sil16:39436**\n**sil16:50140**"
+  },
+  "altnames": {
+    "multitree": "\nEndo\nEndo-Marakwet\nMarakuet\nMarakwet\nMarkweeta\nMarkweta\nTalai",
+    "lexvo": "\nMarkweeta [en]",
+    "hhbib_lgcode": "\nCherangany\nCherangany (Chesubet/Kapcherop/Kitale)\nChesegon-Soy\nEndo\nEndo M\nEndo Marakwet\nMarakwet\nMarkweta\nMarkweta (Chesongoch/Nerkwo/Tot)\nNE Marakwet\nSengwer\nTot\nW Marakwet"
+  },
+  "triggers": {
+    "lgcode": "\niit\nrinii\nNOT vocabulary AND endo\nendo"
+  },
+  "identifier": {
+    "multitree": "enb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Sengwer (4569-enb) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

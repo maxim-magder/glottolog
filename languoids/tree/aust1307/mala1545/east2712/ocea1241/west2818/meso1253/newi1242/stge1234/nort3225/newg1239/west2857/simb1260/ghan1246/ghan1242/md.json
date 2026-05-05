@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ghanongga",
+    "hid": "ghn",
+    "level": "language",
+    "iso639-3": "ghn",
+    "latitude": "-8.02035",
+    "longitude": "156.552",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Ghanongga](https://grambank.clld.org/languages/ghan1242)\n[Kubokota](https://lexibank.clld.org/languages/abvdoceanic-Kubokota)\nhttps://en.wikipedia.org/wiki/Ghanongga_language\nhttps://www.wikidata.org/entity/Q3104772"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hew:Ribbe:Solomo-Inseln**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Grace:46**\n**hh:ld:Ray:Ganongga**\n**hh:s:Kettle:Ganoqa**\n**hh:styp:Chambers:Kubokota**\n**hh:w:Ribbe:34**"
+  },
+  "altnames": {
+    "multitree": "\nGanongga\nGhanongga\nKubokota\nKumbokota",
+    "lexvo": "\nGhanongga [en]\nGhanongga language [en]",
+    "hhbib_lgcode": "\nGanongga\nKubokota\nRenonga"
+  },
+  "triggers": {
+    "lgcode": "\nganoqa\nganongga\nkubokota"
+  },
+  "identifier": {
+    "multitree": "ghn"
+  },
+  "classification": {
+    "sub": "**hh:hv:DunnRoss:Kazukuru**:216",
+    "subrefs": "\n**hh:hv:DunnRoss:Kazukuru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ghanongga (ghn-ghn) = 6a (Vigorous)."
+  }
+}

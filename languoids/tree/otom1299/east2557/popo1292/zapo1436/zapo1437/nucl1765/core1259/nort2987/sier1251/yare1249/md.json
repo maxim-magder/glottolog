@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yareni Zapotec",
+    "hid": "zae",
+    "level": "language",
+    "iso639-3": "zae",
+    "latitude": "17.3406",
+    "longitude": "-96.7052",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Ixtlán](https://endangeredlanguages.com/lang/8749)\nhttps://www.wikidata.org/entity/Q12645368"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Radin:Zapotec**\n**hh:w:ILV:Zapoteco-Yareni**\n**otomanguean:Zapotec198**\n**otomanguean:Zapotec199**\n**otomanguean:Zapotec394**\n**otomanguean:Zapotec92**\n**otomanguean:Zapotec93**\n**otomanguean:Zapotec94**\n**otomanguean:Zapotec95**\n**otomanguean:Zapotec96**\n**sil16:21377**\n**sil16:43442**\n**sil16:44328**\n**sil16:44573**\n**sil16:44574**\n**sil16:44904**\n**sil16:44905**\n**sil16:44906**\n**sil16:44907**\n**sil16:46229**\n**sil16:47130**\n**sil16:48264**\n**sil16:50219**"
+  },
+  "altnames": {
+    "multitree": "\nNorthern Sapoteko\nWestern Sapoteko\nWestern Zapoteco\nYareni Zapotec\nZapotec\nZapotec, Yareni",
+    "lexvo": "\nYareni Zapotec [en]",
+    "elcat": "\nIxtlan\nIxtlán\nIxtlán Zapoteco\nNorthern Sapoteko\nSerrano\nSierra de Juarez\nSierra de Juárez\nSierra de Juárez Zapotec\nZapotec\nZapotec (Juárez)\nZapoteco ( Juarez Sierra)\nZapoteco de Atepec",
+    "hhbib_lgcode": "\nIhe'ja\nTeococuilco\nTeococuilco Zapotec"
+  },
+  "triggers": {
+    "lgcode": "\nyareni"
+  },
+  "identifier": {
+    "multitree": "zae",
+    "endangeredlanguages": "8749"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith-Stark:Zapotecas** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Smith-Stark:Zapotecas**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ixtlán (8749) = Vulnerable (20 percent certain, based on the evidence available) (Developing) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

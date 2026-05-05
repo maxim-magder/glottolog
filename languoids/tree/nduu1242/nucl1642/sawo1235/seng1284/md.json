@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Sengo",
+    "hid": "spk",
+    "level": "language",
+    "iso639-3": "spk",
+    "latitude": "-4.02247",
+    "longitude": "142.956",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sengo](https://endangeredlanguages.com/lang/10614)\nhttps://www.wikidata.org/entity/Q7450584\nhttps://en.wikipedia.org/wiki/Sengo_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hw:Staalsen:Sawos**"
+  },
+  "altnames": {
+    "multitree": "\nSengo",
+    "lexvo": "\nSengo [en]",
+    "elcat": "\nManambu\nSengo"
+  },
+  "identifier": {
+    "multitree": "spk",
+    "endangeredlanguages": "10614"
+  },
+  "classification": {
+    "sub": "**hh:hw:Staalsen:Sawos**:11",
+    "subrefs": "\n**hh:hw:Staalsen:Sawos**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sengo (10614-spk) = Endangered (20 percent certain, based on the evidence available) [Staalsen 1975](cldf:staalsen:75)"
+  }
+}

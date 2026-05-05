@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Koyo",
+    "hid": "koh",
+    "level": "language",
+    "iso639-3": "koh",
+    "latitude": "-0.69688",
+    "longitude": "15.7508",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG"
+    ],
+    "links": "\n[Koyo C.24](https://lexibank.clld.org/languages/bantubvd-3)\nhttps://en.wikipedia.org/wiki/Koyo_language_(Congo)\nhttps://www.wikidata.org/entity/Q35649"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:19051**\n**eballiso2009:28707**\n**hh:et:Poupon:Kouyou**\n**hh:h:NdingaOba:Congo-Brazzaville**\n**hh:hb:Leblanc:Congo**\n**hh:he:Kohler:Tribus-Sangha**\n**hh:hphontyp:NdingaOba:Congo-Brazzaville**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Naragerageje:Bantoues**\n**hh:phon:Okombi:Manga**\n**hh:s:Gazania:Koyo**\n**hh:sv:Kouarata:Mbochi-Variations**\n**hh:t:Pepper:Kouyou-Bangombe**\n**hh:typ:Elounga:Koyo**\n**hh:w:Kouarata:Mbochi-Annexes**"
+  },
+  "altnames": {
+    "multitree": "\nEkoyo\nKouyou\nKoyo",
+    "lexvo": "\nKoyo [en]",
+    "hhbib_lgcode": "\nC24_Koyo\nC25E_Eboyi closest to Koyo\nEboyi closest to Koyo\nKouyou\nKoyo 1 Mawenge C24\nKoyo 2 Ilebou C24\nKoyo in DRC\nKoyo of Fort-Rousset\nKoyó\nManga"
+  },
+  "triggers": {
+    "lgcode": "\nNOT for AND koyo\nembosi"
+  },
+  "identifier": {
+    "multitree": "koh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:205 **hh:hphontyp:NdingaOba:Congo-Brazzaville**",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hphontyp:NdingaOba:Congo-Brazzaville**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koyo (koh-koh) = 6b (Threatened)."
+  }
+}

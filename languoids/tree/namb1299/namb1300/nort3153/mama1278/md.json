@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mamaindé",
+    "hid": "wmd",
+    "level": "language",
+    "iso639-3": "wmd",
+    "latitude": "-12.986439",
+    "longitude": "-60.101072",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Mamaindé](https://endangeredlanguages.com/lang/3990)\nhttps://phoible.org/languages/mama1278"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:16**\n**fabreall2009ann:Nambikwara14**\n**fabreall2009ann:Nambikwara_mamainde00**\n**fabreall2009ann:Nambikwara_mamainde01**\n**fabreall2009ann:Nambikwara_mamainde02**\n**fabreall2009ann:Nambikwara_mamainde08**\n**fabreall2009ann:Nambikwara_mamainde10**\n**fabreall2009ann:Nambikwara_mamainde11**\n**fabreall2009ann:Nambikwara_mamainde14**\n**fabreall2009ann:Nambikwara_mamainde15**\n**fabreall2009ann:Nambikwara_mamainde17**\n**fabreall2009ann:Nambikwara_mamainde22**\n**fabreall2009ann:Nambikwara_mamainde26**\n**hh:ew:Schmidt:Tamainde**\n**hh:g:Eberhard:Mamainde**\n**hh:hew:Schmidt:Mato-Grosso**\n**hh:hew:Schmidt:Mato-Grosso:1942**\n**hh:hsoc:AnonbyEberhard:NNambiquara**\n**hh:phon:Braga:Negarote**\n**hh:phon:Eberhard:Mamainde**\n**hh:phon:Garvin:Nambikwara**\n**hh:typ:Kingston:Mamainde**\n**iso6393:2007-017**\n**mpieva:Eberhard1995Mamainde**\n**sil16:11313**\n**sil16:11540**\n**sil16:22940**\n**sil16:36299**\n**sil16:41833**\n**sil16:44100**\n**sil16:44101**\n**sil16:44667**\n**sil16:51113**"
+  },
+  "altnames": {
+    "glottolog": "\nMamainde",
+    "multitree": "\nKithāulhú\nMamainde\nMamaindé\nMamaindê\nMamande\nNakarothe\nNorthern Nambikuaran\nNorthern Nambikuára\nNorthern Nambikwara\nNorthern Nambiquara",
+    "lexvo": "\nMamaindé [en]",
+    "hhbib_lgcode": "\nNambikwara-Tarunde collected by Lévi-Strauss 1938-1939\nNegarotê\nNorthern Nambikwara\nTamaindé",
+    "elcat": "\nKithāulhú\nMamainde\nMamaindé\nNorthern Nambikuaran\nNorthern Nambikuára\nNorthern Nambikwara\nNorthern Nambiquara"
+  },
+  "triggers": {
+    "lgcode": "\nNOT three AND mamainde\ntamainde\nmamainde"
+  },
+  "identifier": {
+    "multitree": "wmd",
+    "endangeredlanguages": "3990"
+  },
+  "classification": {
+    "sub": "**hh:g:Eberhard:Mamainde**:21-31",
+    "subrefs": "\n**hh:g:Eberhard:Mamainde**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mamaindé (3990-wmd) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

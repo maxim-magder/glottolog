@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Salt-Yui",
+    "hid": "sll",
+    "level": "language",
+    "iso639-3": "sll",
+    "latitude": "-6.26519",
+    "longitude": "145.021",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Salt-Yui](https://grambank.clld.org/languages/salt1242)\n[Salt-Yui](https://wals.info/languoid/lect/wals_code_syu)\nhttps://en.wikipedia.org/wiki/Salt-Yui_language\nhttps://www.wikidata.org/entity/Q7405785"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nichols:92**\n**hh:g:Irwin:Salt-Yui**\n**hh:hv:Tida:Simbu**\n**hh:typ:Irwin:Salt-Yui**\n**sil16:11207**\n**sil16:11491**\n**sil16:17802**\n**sil16:20372**\n**sil16:20373**\n**sil16:20374**\n**sil16:20375**\n**sil16:20376**\n**sil16:20377**\n**sil16:20378**\n**sil16:20379**\n**sil16:20381**\n**sil16:20382**\n**sil16:20383**\n**sil16:20384**\n**sil16:20385**\n**sil16:20386**\n**sil16:20387**\n**sil16:20388**\n**sil16:20389**\n**sil16:49079**"
+  },
+  "altnames": {
+    "wals": "\nSalt-Yui",
+    "wals other": "\nIui\nSalt\nSalt (Yui)",
+    "multitree": "\nIui\nSalt\nSalt-Iui\nSalt-Yui\nYui",
+    "lexvo": "\nSalt-Yui [en]"
+  },
+  "triggers": {
+    "lgcode": "\nyui"
+  },
+  "identifier": {
+    "wals": "syu",
+    "multitree": "sll"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tida:East-Simbu**, **hh:hv:Tida:Simbu**",
+    "subrefs": "\n**hh:hv:Tida:East-Simbu**\n**hh:hv:Tida:Simbu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yui (sll-sll) = 6b (Threatened)."
+  }
+}

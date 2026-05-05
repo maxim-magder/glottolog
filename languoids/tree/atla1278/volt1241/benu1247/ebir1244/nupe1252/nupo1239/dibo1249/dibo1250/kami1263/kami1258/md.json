@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kami (Nigeria)",
+    "hid": "kmi",
+    "level": "language",
+    "iso639-3": "kmi",
+    "latitude": "8.57444",
+    "longitude": "6.66088",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kami (Nigeria)](https://endangeredlanguages.com/lang/4414)\nhttps://www.wikidata.org/entity/Q3915372\nhttps://en.wikipedia.org/wiki/Kami_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:houghton:97**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hevw:Weise:Niger-Benue**\n**hh:hv:Blench:Nupoid**\n**hh:hvw:Blench:Nupoid**\n**hh:wsoc:Decker:Kami**"
+  },
+  "altnames": {
+    "multitree": "\nKami\nNigeria",
+    "lexvo": "\nKami (Nigeria) [en]\nKami [en]",
+    "hhbib_lgcode": "\nEbbo\nKami",
+    "elcat": "\nKami (Nigeria)"
+  },
+  "triggers": {
+    "lgcode": "\nkenntniss AND kami"
+  },
+  "identifier": {
+    "multitree": "kmi",
+    "endangeredlanguages": "4414"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Decker:Kami**:17-18 **hh:hevw:Weise:Niger-Benue**:97-106",
+    "subrefs": "\n**hh:hevw:Weise:Niger-Benue**\n**hh:wsoc:Decker:Kami**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kami (Nigeria) (4414-kmi) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

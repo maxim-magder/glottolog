@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mak (China)",
+    "hid": "mkg",
+    "level": "language",
+    "iso639-3": "mkg",
+    "latitude": "25.5946",
+    "longitude": "107.726",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Mak (China)](https://endangeredlanguages.com/lang/1433)\n[Mak (China)](https://grambank.clld.org/languages/makc1235)\nhttps://en.wikipedia.org/wiki/Mak_language\nhttps://www.wikidata.org/entity/Q3280623"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:li:05:1**\n**cldf:np:nd:264**\n**cldf:yang:00:1**\n**hh:hv:Oshika:Kam-Sui-Mak:1973**\n**hh:hv:Thurgood:Proto-Kam-Sui**\n**hh:phont:Li:Mak**\n**hh:phont:Li:Mak:1943**\n**hh:phont:LiWang:Mohua-Jilue**\n**hh:s:Dabai:Yangfeng**\n**hh:s:Wu:Mojia**\n**hh:s:Yang:Mo**"
+  },
+  "altnames": {
+    "multitree": "\nChing\nMak\nMo\nMo-Hua\nMochiahua\nMohua\nMojiahua",
+    "lexvo": "\nMak (China) [en]\nMak [en]",
+    "hhbib_lgcode": "\nAlso Mak\nKam Sui Mak\nMak\nMohua\nMojia",
+    "elcat": "\nChing\nMak (China)\nMo\nMo-Hua\nMochiahua\nMohua\nMojiahua\n吳家話\n莫話\n莫語\n錦話"
+  },
+  "triggers": {
+    "lgcode": "\nyangfeng\nlibo"
+  },
+  "identifier": {
+    "multitree": "mkg",
+    "endangeredlanguages": "1433"
+  },
+  "classification": {
+    "sub": "**hh:hv:Thurgood:Proto-Kam-Sui**",
+    "subrefs": "\n**hh:hv:Thurgood:Proto-Kam-Sui**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Mak (China) (1433-mkg) = Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

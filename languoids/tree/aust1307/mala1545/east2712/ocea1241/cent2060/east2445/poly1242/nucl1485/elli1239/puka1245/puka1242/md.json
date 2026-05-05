@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pukapuka",
+    "hid": "pkp",
+    "level": "language",
+    "iso639-3": "pkp",
+    "latitude": "-10.91",
+    "longitude": "-165.83",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CK",
+      "NZ"
+    ],
+    "links": "\n[Pukapuka](https://endangeredlanguages.com/lang/4973)\n[Pukapuka](https://grambank.clld.org/languages/puka1242)\n[Pukapuka](https://lexibank.clld.org/languages/abvdoceanic-Pukapuka)\n[Pukapuka_152](https://lexibank.clld.org/languages/walworthpolynesian-Pukapuka)\nhttps://en.wikipedia.org/wiki/Pukapukan_language\nhttps://www.wikidata.org/entity/Q36447"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:borofsky:91**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:ed:10**\n**cldf:foster:crocombe:etal:12**\n**cldf:keesing:84:2**\n**cldf:lewis:ed:09**\n**cldf:macgregor:35**\n**cldf:np:14:5**\n**cldf:np:17:3**\n**cldf:np:nd:264**\n**cldf:salisbury:12**\n**hh:d:BeagleholeBeaglehole:Pukapukan**\n**hh:e:BeagleholeBeaglehole:Pukapuka**\n**hh:e:Hecht:Pukapuka**\n**hh:g:Salisbury:Pukapukan**\n**hh:ld:Ray:Buka**\n**hh:s:Teingo:Pukapukan**"
+  },
+  "altnames": {
+    "multitree": "\nBukabukan\nPukapuka\nPukapukan\nPukapukano",
+    "lexvo": "\nIdioma pukapukan [es]\nLingua pukapukana [gl]\nPukapuka [en]\nPukapukan kieli [fi]\nPukapukan language [en]\nPukapukanische Sprache [de]\nПукапука [ru]\n普卡普卡语 [zh]",
+    "hhbib_lgcode": "\nBuka",
+    "elcat": "\nBukabukan\nPukapuka\nPukapukan"
+  },
+  "triggers": {
+    "lgcode": "\npukapukan"
+  },
+  "identifier": {
+    "multitree": "puka;pkp",
+    "endangeredlanguages": "4973"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:Pukapukan**",
+    "subrefs": "\n**hh:hv:Wilson:Pukapukan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pukapuka (4973-pkp) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

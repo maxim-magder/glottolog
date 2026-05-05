@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Alabama",
+    "hid": "akz",
+    "level": "language",
+    "iso639-3": "akz",
+    "latitude": "30.76738",
+    "longitude": "-94.62848",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Alabama](https://endangeredlanguages.com/lang/670)\n[Alabama](https://grambank.clld.org/languages/alab1237)\n[Alabama](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Alabama)\n[Alabama](https://wals.info/languoid/lect/wals_code_abm)\nhttps://en.wikipedia.org/wiki/Alabama_language\nhttps://phoible.org/languages/alab1237\nhttps://www.wikidata.org/entity/Q1815020"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4827**\n**cldf:christopherrogers:campbell:10**\n**cldf:davis:hardy:88**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:hardy:davis:88**\n**cldf:hardy:davis:93**\n**cldf:hardy:montler:88**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lockwood:ed:99:3**\n**cldf:montler:hardy:91**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:rand:68**\n**cldf:sylestine:hardy:etal:93:1**\n**cldf:sylestine:hardy:etal:93:2**\n**hh:e:May:AlabamaKoasati**\n**hh:g:Lupardus:Alabama**\n**hh:s:Hardy:Alabama**\n**mpieva:2005Nativela**\n**mpieva:Sylestine1993Dictiona**"
+  },
+  "altnames": {
+    "wals": "\nAlabama",
+    "ruhlen (1987)": "\nAlabama",
+    "moseley & asher (1994)": "\nAlabama",
+    "multitree": "\nAlabama\nAlabama-koasati\nAlibamu",
+    "lexvo": "\nAlabama [en]\nAlabama language [en]\nAlabamaeg [br]\nLingua alabama [gl]\nАлабамский язык [ru]",
+    "elcat": "\nAlabama\nAlibamu"
+  },
+  "triggers": {
+    "lgcode": "\nalabaman\nNOT survey AND alabama"
+  },
+  "identifier": {
+    "wals": "abm",
+    "multitree": "akz",
+    "endangeredlanguages": "670"
+  },
+  "classification": {
+    "sub": "**hh:hv:Martin-Munro:Proto-Muskogean**",
+    "subrefs": "\n**hh:hv:Martin-Munro:Proto-Muskogean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Alabama (670-akz) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

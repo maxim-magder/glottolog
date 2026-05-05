@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Peñoles Mixtec",
+    "hid": "mil",
+    "level": "language",
+    "iso639-3": "mil",
+    "latitude": "17.0671",
+    "longitude": "-97.0101",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Eastern Alta Mixtec](https://endangeredlanguages.com/lang/10529)\n[Mixtec (Peñoles)](https://wals.info/languoid/lect/wals_code_mxp)\nhttps://www.wikidata.org/entity/Q42411307"
+  },
+  "sources": {
+    "glottolog": "\n**haspelmath:daly_representation_2007**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:ld:Josserand:Mixteca**\n**hh:s:Daly:Penoles-Mixtec**\n**hh:s:DalyDaly:Mixteco**\n**mpieva:Merrifield1977Studiesi**\n**sil16:10492**\n**sil16:10494**\n**sil16:15239**\n**sil16:15550**\n**sil16:15551**\n**sil16:15554**\n**sil16:18539**\n**sil16:33340**\n**sil16:36108**"
+  },
+  "altnames": {
+    "glottolog": "\nPenoles Mixtec",
+    "wals": "\nMixtec (Peñoles)",
+    "wals other": "\nEastern Mixteco\nPeñoles Mixtec",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nCentral Misteko\nCentreal Mixteco\nEastern Mixtec\nMixtec (Peñoles)\nMixtec, Peñoles\nMixteco (Peoles)\nMixteco de San Mateo Tepantepec",
+    "lexvo": "\nPeñoles Mixtec [en]",
+    "hhbib_lgcode": "\n83 Santa Catarina Estetla Mixtec Josserand 1983\n96 Santa Maria Penoles Mixtec Dürr 1987; Josserand 1983\nEste\nMixtec-Peñoles\nPeño\nPeñoles\nSanta Catarina Estetla\nSanta Maria Peñoles-Oaxaca\nSanta María Peñoles",
+    "elcat": "\nCentral Nochistlán Mixtec\nDiuxi-Tilantongo Mixtec\nEastern Alta Mixtec\nEastern Mixtec\nHuitepec Mixtec\nMitlatongo Mixtec\nMixteco bajo de Valles\nMixteco de Diuxi-Tilantongo\nMixteco de Huitepec\nMixteco de Mitlatongo\nMixteco de San Antonio Huitepec\nMixteco de San Juan Tamazola\nMixteco de San Miguel Piedras\nMixteco de San Pedro Tidaá\nMixteco de Santa María Peñoles\nMixteco de Santiago Tlazoyaltepec\nMixteco de Santo Domingo Nuxaá\nMixteco de Tidaá\nMixteco de Yutanduchi\nMixteco de Yutanduchi de Guerrero\nMixteco de Zaachila\nMixteco del Sureste de Nochixtlán\nMixteco del este central\nNorth Central Nochixtlán Mixtec\nPeñoles Mixtec\nSan Miguel Piedras Mixtec\nSindihui Mixtec\nSoutheastern Nochixtlán Mixtec\nSouthern Nochixtlan Mixtec\nTamazola Mixtec\nTidaá Mixtec\nTlazoyaltepec Mixtec\nYutanduchi Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\npenoles"
+  },
+  "identifier": {
+    "wals": "mxp",
+    "multitree": "mil",
+    "endangeredlanguages": "10529"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:14",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern Alta Mixtec (10529) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

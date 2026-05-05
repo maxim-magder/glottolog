@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Baetora",
+    "hid": "btr",
+    "level": "language",
+    "iso639-3": "btr",
+    "latitude": "-15.2574",
+    "longitude": "168.159",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Baetora (Navenevene)](https://lexibank.clld.org/languages/abvdoceanic-BaetoraNavenevene)\nhttps://en.wikipedia.org/wiki/Baetora_language\nhttps://www.wikidata.org/entity/Q2878874"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:23**\n**asjp2010:308**\n**asjp2010:4010**\n**asjp2010:4141**\n**asjp2010:5022**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "lexvo": "\nBaetora [en]",
+    "hhbib_lgcode": "\nNarovorovo\nNasawa\nNevenevene\nTam"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Baetora (btr-btr) = 6a* (Vigorous)."
+  }
+}

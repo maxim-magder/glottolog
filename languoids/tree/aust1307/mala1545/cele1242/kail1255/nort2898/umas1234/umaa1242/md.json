@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Uma",
+    "hid": "ppk",
+    "level": "language",
+    "iso639-3": "ppk",
+    "latitude": "-1.70416",
+    "longitude": "119.968",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Uma](https://grambank.clld.org/languages/umaa1242)\n[Uma](https://wals.info/languoid/lect/wals_code_uma)\nhttps://en.wikipedia.org/wiki/Uma_language\nhttps://www.wikidata.org/entity/Q7881036"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2653**\n**cldf:esser:64**\n**cldf:martens:95**\n**hh:g:Esser:Uma**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:phon:Martens:Uma**\n**hh:typ:Martens:Pronoun-Uma**\n**hh:typ:Martens:Uma:Focus**\n**hh:typ:Martens:Uma:Measurement**\n**hh:typ:Martens:Uma:Verbs**\n**hh:v:Ardana:Kaili-Uma**\n**hh:w:Martens:Uma**\n**hh:w:Martens:Uma:1995**\n**mpieva:Friberg1990Sulawesi**\n**mpieva:Verhaar19751990Miscella**\n**sil16:18812**\n**sil16:19917**\n**sil16:20015**\n**sil16:20241**\n**sil16:22080**\n**sil16:22166**\n**sil16:22167**\n**sil16:22853**\n**sil16:23211**\n**sil16:25142**\n**sil16:34445**\n**sil16:41830**\n**sil16:41956**"
+  },
+  "altnames": {
+    "wals": "\nUma",
+    "ruhlen (1987)": "\nPipikoro",
+    "moseley & asher (1994)": "\nPipikoro",
+    "multitree": "\nOema\nPipikoro\nUma",
+    "lexvo": "\nUma [en]",
+    "hhbib_lgcode": "\nKantewu or Central Uma\nPipikoro\nSouthern Uma\nTobaku\nTolee'\nTori'untu\nWinatu"
+  },
+  "triggers": {
+    "lgcode": "\numa AND sulawesi"
+  },
+  "identifier": {
+    "wals": "uma",
+    "multitree": "ppk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Valkama:Mamuju**:105",
+    "subrefs": "\n**hh:hv:Valkama:Mamuju**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Uma (ppk-ppk) = 6b (Threatened)."
+  }
+}

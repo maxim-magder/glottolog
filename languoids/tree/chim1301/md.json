@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chimariko",
+    "hid": "cid",
+    "level": "language",
+    "iso639-3": "cid",
+    "latitude": "41.0",
+    "longitude": "-123.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Chimariko](https://grambank.clld.org/languages/chim1301)\n[Chimariko](https://wals.info/languoid/lect/wals_code_chi)\nhttps://en.wikipedia.org/wiki/Chimariko_language\nhttps://phoible.org/languages/chim1301\nhttps://www.wikidata.org/entity/Q1294251",
+    "timespan": "1950-01-01/1950-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:driver:39**\n**cldf:jany:08**\n**cldf:nichols:92**\n**cldf:powell:77**\n**haspelmath:jany_clausal_2011**\n**haspelmath:jany_complementation_2007**\n**hh:b:WoodHinton:Grekoff-Chimariko**\n**hh:e:Silver:Chimariko**\n**hh:g:Dixon:Chimariko**\n**hh:g:Jany:Chimariko**\n**hh:g:Jany:Chimariko:2007**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:w:Sapir:Chimariko**\n**ldh:item_405811**"
+  },
+  "altnames": {
+    "wals": "\nChimariko",
+    "ruhlen (1987)": "\nChimariko",
+    "moseley & asher (1994)": "\nChimariko",
+    "lexvo": "\nChimariko [en]"
+  },
+  "triggers": {
+    "lgcode": "\nchimariko\ngrekoffs"
+  },
+  "identifier": {
+    "wals": "genus/chimariko",
+    "endangeredlanguages": "1688"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:g:Jany:Chimariko**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chimariko (cid-cid) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Pottangi Ollar Gadaba",
+    "hid": "gdb",
+    "level": "language",
+    "iso639-3": "gdb",
+    "latitude": "18.5968",
+    "longitude": "82.7586",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Gadaba (Kondekor)](https://wals.info/languoid/lect/wals_code_gdk)\n[Pottangi Ollar Gadaba](https://endangeredlanguages.com/lang/4198)\n[Pottangi Ollar Gadaba](https://grambank.clld.org/languages/pott1240)\nhttps://en.wikipedia.org/wiki/Ollari_language\nhttps://phoible.org/languages/pott1240\nhttps://www.wikidata.org/entity/Q33906"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:ThusuJha:Ollar-Gadba**\n**hh:g:Bapuji:Ollari-Gadaba**\n**hh:g:Bapuji:Ollari-Gadaba:2025**\n**hh:he:Menon:Dravidian**\n**hh:hs:Mahapatra:Orissa**\n**hh:s:Bhattacharya:Ollari**\n**hh:w:BurrowBhattacharya:Gadba**"
+  },
+  "altnames": {
+    "multitree": "\nAllar\nGadaba\nGadaba, Pottangi Ollar\nGadba\nHallari\nHollar Gadbas\nKondekar\nKondkor\nOllar Gadaba\nOllari\nOllaro\nPottangi\nPottangi Gadba\nSan Gadaba\nSano",
+    "lexvo": "\nPottangi Ollar Gadaba [en]",
+    "hhbib_lgcode": "\nGadaba (Ollari)\nGadaba-Pottangi Ollar\nGadaba/Ollari\nKonekor\nOllar Gadba\nOllari\nPottangi Ollar Gadba",
+    "elcat": "\nAllar\nGadaba\nGadba\nHallari\nHollar Gadbas\nKondekar\nKondkor\nOllar Gadaba\nOllari\nOllaro\nPottangi\nPottangi Gadba\nPottangi Ollar\nPottangi Ollar Gadaba\nSan Gadaba\nSano"
+  },
+  "triggers": {
+    "lgcode": "\nkonekor\nollari"
+  },
+  "identifier": {
+    "wals": "gdk",
+    "multitree": "gdb",
+    "endangeredlanguages": "4198"
+  },
+  "classification": {
+    "sub": "**hh:s:Bhaskararao:Gadaba**:356-357",
+    "subrefs": "\n**hh:s:Bhaskararao:Gadaba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Pottangi Ollar Gadaba (4198-gdb) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

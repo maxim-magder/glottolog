@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Shina",
+    "hid": "scl",
+    "level": "language",
+    "iso639-3": "scl",
+    "latitude": "34.6515",
+    "longitude": "75.287",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q1353320\nhttps://en.wikipedia.org/wiki/Shina_language\nhttps://phoible.org/languages/shin1264\n[Shina](https://wals.info/languoid/lect/wals_code_sna)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1146**\n**asjp2010:1574**\n**cldf:bailey:24**\n**cldf:cardona:jain:ed:03:15**\n**cldf:leitner:73**\n**hh:d:Ziya:Shina**\n**hh:g:Namus:Gilgit-Shina**\n**hh:hewtyp:Biddulph:Hindoo-Koosh**\n**hh:hs:Edelman:Dardskie-Nuristani**\n**hh:htyp:Edelman:Dardic-Nuristani**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:hvld:Schmidt:Shina**\n**hh:hvw:Grierson:8:II**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:SchmidtKaul:Shina-Kashmiri**\n**hh:hwdial:Radloff:Shina**\n**hh:phon:Ahmed:Gurezi**\n**hh:phon:Ahmed:Gurezi-Shina:2014**\n**hh:phon:Radloff:Gilgiti-Shina**\n**hh:s:Ahmad:Kashmiri-Shina**\n**hh:s:Ahmed:Gurezi-Shina**\n**hh:s:Bailey:Shina**\n**hh:s:SchmidtKaul:Guresi-Shina**\n**hh:s:Wilson:Shina**\n**hh:s:Ziya:Shina**\n**hh:sd:Rajapurohit:Shina-Dras**\n**hh:soc:Ahmed:Gurezi**\n**hh:st:Degener:Shina**\n**hh:st:ShakilRadloff:Shina-Gilgit**\n**hh:t:Ziya:Shina**\n**hh:typ:AhmedAhmad:Shina**\n**mpieva:Backstrom1992Language**\n**sil16:32840**\n**sil16:44302**\n**sil16:50353**"
+  },
+  "altnames": {
+    "wals": "\nShina",
+    "ruhlen (1987)": "\nShina",
+    "moseley & asher (1994)": "\nShina",
+    "multitree": "\nBrokpa\nDardu\nShina\nShinaki\nSina",
+    "lexvo": "\nChineg [br]\nIdioma shina [es]\nShina [de]\nShina language [en]\nشينا [ar]\nشینا [pnb]\nசினா மொழி [ta]",
+    "hhbib_lgcode": "\nAstorskij\nBrokpa of Dras\nDrasi\nDrass\nDrasskij\nGilgiti Shina\nGilgitskij\nGuresi\nGurez\nGurezi Shina\nGurezskij\nShina Astori\nShina Chilasi\nShina Gilgit\nShina Guresi\nShina-Gilgit"
+  },
+  "triggers": {
+    "lgcode": "\ndrasi\ngilgit\ndras\nshahi\nshiloke\nbriefer\nguresi\ngilgiti\nshina\ngurezi"
+  },
+  "identifier": {
+    "wals": "sna",
+    "multitree": "scl"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Shina (scl-scl) = 6a (Vigorous)."
+  }
+}

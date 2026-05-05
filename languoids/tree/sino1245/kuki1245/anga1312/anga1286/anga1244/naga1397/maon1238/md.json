@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mao Naga",
+    "hid": "nbi",
+    "level": "language",
+    "iso639-3": "nbi",
+    "latitude": "25.3836",
+    "longitude": "94.0035",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Mao](https://lexibank.clld.org/languages/marrisonnaga-Mao)\n[Mao Naga](https://endangeredlanguages.com/lang/5666)\n[Naga (Mao)](https://wals.info/languoid/lect/wals_code_nma)\nhttps://phoible.org/languages/maon1238\nhttps://www.wikidata.org/entity/Q12952905"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:5011**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grierson:ed:95:21**\n**cldf:lewis:ed:09**\n**hh:e:Ranjit:Mao-Naga**\n**hh:g:Giridhar:MaoNaga**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:ld:Meitei:Mao**\n**hh:w:Kumar:Mao**"
+  },
+  "altnames": {
+    "wals": "\nNaga (Mao)",
+    "ruhlen (1987)": "\nMao Naga",
+    "moseley & asher (1994)": "\nMao",
+    "multitree": "\nEmela\nMaikel\nMao\nMemi\nMāo Naga\nNaga (Mao)\nNaga, Mao\nNaga,Mao\nSopfomo\nSopvoma\nSpowama",
+    "lexvo": "\nMao Naga [en]",
+    "hhbib_lgcode": "\nMao\nNaga-Mao\nSopvroma or Mao Naga",
+    "elcat": "\nEmela\nMaikel\nMao\nMao Naga\nMemi\nMāo Naga\nNaga\nNaga (Mao)\nSopfomo\nSopvoma\nSpowama"
+  },
+  "triggers": {
+    "lgcode": "\ntower AND files"
+  },
+  "identifier": {
+    "wals": "nma",
+    "multitree": "nbi",
+    "endangeredlanguages": "5666"
+  },
+  "classification": {
+    "sub": "**hh:he:Saul:Naga-Burma**",
+    "subrefs": "\n**hh:he:Saul:Naga-Burma**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mao Naga (5666-nbi) = Vulnerable (20 percent certain, based on the evidence available) [Haokip 2011](cldf:haokip:11:2)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pará Arára",
+    "hid": "aap",
+    "level": "language",
+    "iso639-3": "aap",
+    "latitude": "-3.71263",
+    "longitude": "-53.0657",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56807\nhttps://en.wikipedia.org/wiki/Par%C3%A1_Ar%C3%A1ra_language\nhttps://phoible.org/languages/para1310"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:3137**\n**fabreall2009ann:Caribe_arara00**\n**fabreall2009ann:Caribe_arara01**\n**fabreall2009ann:Caribe_arara03**\n**fabreall2009ann:Caribe_arara04**\n**fabreall2009ann:Caribe_arara06**\n**fabreall2009ann:Caribe_arara07**\n**fabreall2009ann:Caribe_arara08**\n**fabreall2009ann:Caribe_arara14**\n**fabreall2009ann:Caribe_arara15**\n**fabreall2009ann:Caribe_arara16**\n**fabreall2009ann:Caribe_arara17**\n**fabreall2009ann:Caribe_arara18**\n**fabreall2009ann:Caribe_arara19**\n**fabreall2009ann:Caribe_arara23**\n**fabreall2009ann:Caribe_arara24**\n**hh:e:Nimuendaju:LMXingu**\n**hh:e:Pinto:Arara**\n**hh:e:Snethlage:Mittleren-Xingu**\n**hh:ew:Coudreau:Xingu**\n**hh:g:Alves:Arara**\n**hh:hw:Nimuendaju:Brasil**\n**hh:phon:Alves:Arara**\n**hh:phon:Alves:Arara:2013**\n**hh:phon:deSouza:Arara-Karib**\n**hh:phon:deSouza:Arara-Pet-Talk**\n**hh:s:deSouza:Arara-Karib**\n**hh:s:deSouza:Arara-Para**\n**hh:w:Nimuendaju:Amazonien**\n**ldh:item_401767**\n**mpieva:Souza1988Contribu**"
+  },
+  "altnames": {
+    "glottolog": "\nPara Arara",
+    "multitree": "\nAjujure\nArara\nArara do Para\nArara do Pará\nArara du Pará\nArara-Parirí\nArára de Pará\nArára, Pará\nPariri\nParirí",
+    "lexvo": "\nPará Arára [en]",
+    "hhbib_lgcode": "\nArara Para\nAraras\nArára\nParirí (Arára)"
+  },
+  "triggers": {
+    "lgcode": "\nsudeste\nrazao\nsouza\ntravesia\nNOT na AND NOT dos AND arara\nugorongmo\npet"
+  },
+  "identifier": {
+    "multitree": "aap"
+  },
+  "classification": {
+    "sub": "**hh:hv:deCarvalho:Pekodian** **hh:hv:Gildea:Cariban**",
+    "subrefs": "\n**hh:hv:Gildea:Cariban**\n**hh:hv:deCarvalho:Pekodian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Arara do Pará (1665-aap) = Vulnerable"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Da'a Kaili",
+    "hid": "kzf",
+    "level": "language",
+    "iso639-3": "kzf",
+    "latitude": "-1.21051",
+    "longitude": "119.527",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Da'a](https://wals.info/languoid/lect/wals_code_daa)\n[Da'a Kaili](https://grambank.clld.org/languages/daak1235)\nhttps://www.wikidata.org/entity/Q33103997"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:875**\n**cldf:barr:95**\n**cldf:barr:barr:88**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:ld:Barr:Afiks-Daa**\n**hh:phon:BarrBarr:Daa**\n**hh:s:Barr:Daa**\n**hh:s:Barr:Percakapan-Daa**\n**hh:typ:Barr:Daa:Reduplication**\n**hh:typ:Barr:Daa:Verbal**\n**hh:w:Likenono:Daa**\n**mpieva:Friberg1990Sulawesi**\n**sil16:18443**\n**sil16:19830**\n**sil16:22852**\n**sil16:23201**\n**sil16:23202**\n**sil16:23203**\n**sil16:23204**\n**sil16:23205**\n**sil16:25140**\n**sil16:25268**\n**sil16:34426**\n**sil16:41956**"
+  },
+  "altnames": {
+    "wals": "\nDa'a",
+    "ruhlen (1987)": "\nKaili",
+    "moseley & asher (1994)": "\nKaili",
+    "multitree": "\nBunggu\nDa'a\nKaili, Da'a",
+    "lexvo": "\nDa'a Kaili [en]",
+    "hhbib_lgcode": "\nKaili-Da'a\nPekava"
+  },
+  "triggers": {
+    "lgcode": "\ndaa AND kaili"
+  },
+  "identifier": {
+    "wals": "daa",
+    "multitree": "kzf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zobel:Kaili-Wolio** **hh:hv:Mead:Sulawesi:2024**:155-158",
+    "subrefs": "\n**hh:hv:Zobel:Kaili-Wolio**\n**hh:hv:Mead:Sulawesi:2024**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kaili, Da’a (kzf-kzf) = 5 (Developing)."
+  }
+}

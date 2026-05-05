@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Lak",
+    "hid": "lbe",
+    "level": "language",
+    "iso639-3": "lbe",
+    "latitude": "42.1328",
+    "longitude": "47.0809",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "GE",
+      "KZ",
+      "RU",
+      "UA"
+    ],
+    "links": "\n[Lak](https://grambank.clld.org/languages/lakk1252)\n[Lak](https://lexibank.clld.org/languages/northeuralex-lbe)\n[Lak](https://wals.info/languoid/lect/wals_code_lak)\nhttps://en.wikipedia.org/wiki/Lak_language\nhttps://phoible.org/languages/lakk1252\nhttps://www.wikidata.org/entity/Q36206"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2637**\n**cldf:anderson:97:3**\n**cldf:boguslavskaja:89**\n**cldf:corbett:91**\n**cldf:helmbrecht:96**\n**cldf:khajdakov:66**\n**cldf:kibrik:03**\n**cldf:klimov:alekseev:80**\n**cldf:kulikov:ed:98:3**\n**cldf:murkelinskij:67**\n**cldf:stolz:96**\n**cldf:xajdakov:01**\n**cldf:xajdakov:63**\n**cldf:xajdakov:80:1**\n**cldf:xajdakov:80:2**\n**cldf:zhirkov:55**\n**hh:d:Dzidalaev:Lakskij**\n**hh:dial:Xajdakov:Lakskogo**\n**hh:g:Murkelinskij:Lakskogo**\n**hh:g:Zhirkov:Lakskij**\n**hh:gd:Uslar:Lakskij**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Bouda:Lakkische**\n**hh:s:Fridman:Lakskogo**\n**hh:s:Friedman:Lak**\n**hh:s:Kazenin:Lakskogo**\n**hh:s:Schulze:Lak**\n**hh:s:Tchalaev:Lak**\n**mpieva:Abduallaev2005Lakkumaz**\n**mpieva:Chajdakov1962Lakskoru**\n**mpieva:Magomedov1959Lakralag**\n**mpieva:Mansurova2007Russkola**\n**mpieva:Zirkov1955Lakskijj**"
+  },
+  "altnames": {
+    "wals": "\nLak",
+    "ruhlen (1987)": "\nLak",
+    "moseley & asher (1994)": "\nLak",
+    "multitree": "\nKazikumukhtsy\nLaco\nLak\nLaki",
+    "lexvo": "\nIdioma lak [es]\nJęzyk lakijski [pl]\nLak [ca]\nLak language [en]\nLakeg [br]\nLaki keel [et]\nLakin kieli [fi]\nLakische Sprache [de]\nLakça [tr]\nLingua lak [it]\nLíngua lak [pt]\nЛак чĕлхи [cv]\nЛакку маз [lbe]\nЛакская мова [be]\nЛакски език [bg]\nЛакски јазик [mk]\nЛакский язык [ru]\nЛакська мова [uk]\nلغة لاك [ar]\nภาษาลัก [th]\n라크어 [ko]",
+    "hhbib_lgcode": "\nLak of Kurkli\nVickhi"
+  },
+  "triggers": {
+    "lgcode": "\nmagri\nsushchestvitelnyx\nlakskogo\nkonstrukcija\nkavkazskix\ndagestanskich\nlakkische\nlakskij\nslovardanuvu\nlakskoj"
+  },
+  "identifier": {
+    "wals": "lak",
+    "multitree": "lbe"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nichols:Nakh-Dagestanian**",
+    "subrefs": "\n**hh:hv:Nichols:Nakh-Dagestanian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Lak (1071-lbe) = Vulnerable"
+  }
+}

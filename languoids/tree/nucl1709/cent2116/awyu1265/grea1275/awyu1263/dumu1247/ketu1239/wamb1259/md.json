@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Wambon",
+    "hid": "wms",
+    "level": "language",
+    "iso639-3": "wms",
+    "latitude": "-5.44334",
+    "longitude": "140.48",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Wambon](https://grambank.clld.org/languages/wamb1259)\n[Wambon](https://lexibank.clld.org/languages/transnewguineaorg-wambon)\n[Wambon](https://wals.info/languoid/lect/wals_code_wbn)\nhttps://phoible.org/languages/wamb1259"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bolkestein:degroot:etal:ed:85:4**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hv:Voorhoeve:Awyu-Dumut:II**\n**hh:hvtyp:deVries:Dumut**\n**hh:hvwsoc:Jang:Southeastern-Foothills**\n**hh:hvwtyp:Wester:Awyu-Dumut**\n**hh:hw:Stokhof:Holle:1982**\n**hh:hwsoc:Hughes:UDigul**\n**hh:hwsoc:Leboldetal:Upper-Digul**\n**hh:s:Jang:Wambon**\n**hh:s:deVries:Wambon**\n**hh:s:deVries:Wambon-Kombai**\n**hh:typ:deVries:Wambon**"
+  },
+  "altnames": {
+    "wals": "\nWambon",
+    "ruhlen (1987)": "\nWambon",
+    "moseley & asher (1994)": "\nWambon",
+    "multitree": "\nIndonesia\nWambon",
+    "lexvo": "\nWambon [en]\nWambon language [en]",
+    "hhbib_lgcode": "\nDigul Wambon\nDigul-Wambon\nDigul-Wambon as it is spoken in the Sawagit area\nDigul-Wambon as it is spoken in the Sawagit area (near Manggelum)\nKenon Wambon\nKenon/Klofkamp\nKlofkamp/Manggelum Wambon\nNorth Wambon\nNorth-Wambon\nSouth Wambon\nSouth-Wambon\nUpper Kao BT numerals single out a Dumut variety as is consistent with geography\nUpper Uwimerah\nUpper Wambon\nWambon Gaguop\nWambon/Manggelum"
+  },
+  "triggers": {
+    "lgcode": "\ndigul"
+  },
+  "identifier": {
+    "wals": "wbn",
+    "multitree": "wms"
+  },
+  "classification": {
+    "sub": "**hh:hv:deVriesetal:Greater-Awyu** **hh:hvwsoc:Jang:Southeastern-Foothills**",
+    "subrefs": "\n**hh:hv:deVriesetal:Greater-Awyu**\n**hh:hvwsoc:Jang:Southeastern-Foothills**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wambon (wms-wms) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Wichita",
+    "hid": "wic",
+    "level": "language",
+    "iso639-3": "wic",
+    "latitude": "35.0665",
+    "longitude": "-98.1831",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Wichita](https://endangeredlanguages.com/lang/1003)\nhttps://www.wikidata.org/entity/Q56513\nhttps://en.wikipedia.org/wiki/Wichita_language\nhttps://phoible.org/languages/wich1260\n[Wichita](https://wals.info/languoid/lect/wals_code_wic)",
+    "timespan": "2016-01-01/2016-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1065**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:curtis:30**\n**cldf:dorsey:04:1**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:hinton:munro:ed:98:10**\n**cldf:lewis:ed:09**\n**cldf:np:08:8**\n**cldf:np:nd:264**\n**cldf:poolaw:16**\n**cldf:rood:98**\n**cldf:schmitt:52**\n**cldf:schmitt:schmitt:53**\n**hh:e:Newcomb:Wichita**\n**hh:g:Rood:Wichita**\n**hh:hvw:Parks:Northern-Caddoan**\n**hh:s:Rood:Wichita**"
+  },
+  "altnames": {
+    "wals": "\nWichita",
+    "ruhlen (1987)": "\nWichita",
+    "moseley & asher (1994)": "\nWichita",
+    "multitree": "\nQuivira\nWichita\nWichita (proper)\nWitchita",
+    "lexvo": "\nIdioma wichita [es]\nLingua wichita [it]\nWichita [en]\nWichita language [en]\nWitchiteg [br]\nУичита [ru]",
+    "elcat": "\nWichita\nWitchita"
+  },
+  "triggers": {
+    "lgcode": "\nwichita"
+  },
+  "identifier": {
+    "wals": "wic",
+    "multitree": "wich;wic",
+    "endangeredlanguages": "1003"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Parks:Northern-Caddoan**",
+    "subrefs": "\n**hh:hvw:Parks:Northern-Caddoan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wichita (1003-wic) = Dormant [Poolaw 2016](cldf:poolaw:16)"
+  }
+}

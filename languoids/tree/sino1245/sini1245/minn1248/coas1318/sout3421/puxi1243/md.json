@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pu-Xian Chinese",
+    "hid": "cpx",
+    "level": "language",
+    "iso639-3": "cpx",
+    "latitude": "25.37",
+    "longitude": "118.68",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Pu%E2%80%93Xian_Min\nhttps://www.wikidata.org/entity/Q56583"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:LimMead:Chinese-Indonesia**\n**hh:hv:Lorentz:Min**\n**hh:hvbld:Yan:Chinese**\n**hh:hvphond:Nakajima:Fukien**\n**hh:hvwphontyp:Fujian:Fujian**\n**hh:typ:Wu:Puxian**\n**hh:vdial:Li:Fujian**"
+  },
+  "altnames": {
+    "multitree": "\nChinese, Pu-Xian\nChinese,Pu-Xian\nPu-Xian Chinese",
+    "lexvo": "\nBahasa Puxian [ms]\nHingeg [br]\nJęzyk puxian [pl]\nMinish Phuxian [gv]\nPhû-sien-fa [hak]\nPu-Xian Chinese [en]\nPuxian Min [en]\nPuxian [fr]\nホ仙語 [ja]\n莆仙話 [zh]",
+    "hhbib_lgcode": "\nChinese-Pu-Xian\nPutian\nPuxian"
+  },
+  "triggers": {
+    "lgcode": "\npuxian"
+  },
+  "identifier": {
+    "multitree": "cpx"
+  },
+  "classification": {
+    "sub": "**hh:v:Kwok:Coastal-Min**",
+    "subrefs": "\n**hh:v:Kwok:Coastal-Min**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinese, Pu-Xian (cpx-cpx) = 5 (Developing). Language of recognized nationality: Han."
+  }
+}

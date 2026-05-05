@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wanda",
+    "hid": "wbh",
+    "level": "language",
+    "iso639-3": "wbh",
+    "latitude": "-8.34522",
+    "longitude": "32.4375",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Wanda](https://endangeredlanguages.com/lang/5076)\nhttps://www.wikidata.org/entity/Q7967153\nhttps://en.wikipedia.org/wiki/Wanda_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:glauning:03**\n**cldf:glauning:04**\n**cldf:guthrie:71:16**\n**cldf:johnston:19:19**\n**cldf:johnston:99**\n**cldf:lewis:ed:09**\n**cldf:mitterhofer:14**\n**eballiso2009:20226**\n**eballiso2009:20231**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:48214**\n**eballiso2009:50699**\n**eballiso2009:55716**\n**eballiso2009:7057**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:WalshSwilla:Corridor**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:soc:Lindforsetal:Sichela**"
+  },
+  "altnames": {
+    "multitree": "\nIchiwanda\nIciwanda\nKiwanda\nVanda\nWanda\nWandia",
+    "lexvo": "\nWanda [en]",
+    "hhbib_lgcode": "\nIci-Wandia\nIci-Wandia/Rambia/Ndali\nIsi-Nyixa-Wanda-Wiwa\nM21_Wanda\nSichela\nWandya",
+    "elcat": "\nIchiwanda\nIciwanda\nKiwanda\nVanda\nWanda\nWandia"
+  },
+  "triggers": {
+    "lgcode": "\nsichela"
+  },
+  "identifier": {
+    "multitree": "wbh",
+    "endangeredlanguages": "5076"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Roth:Wungu** **hh:hv:Nurse:SWTanzania**:91",
+    "subrefs": "\n**hh:hvw:Roth:Wungu**\n**hh:hv:Nurse:SWTanzania**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wanda (5076-wbh) = Vulnerable (100 percent certain, based on the evidence available) (Education and literacy are not available, but not for the Wanda not wanting it; it's the law in Tanzania that all official business and education is either in Swahili or English. ) [Mitterhofer 2014](cldf:mitterhofer:14)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Isnag",
+    "hid": "isd",
+    "level": "language",
+    "iso639-3": "isd",
+    "latitude": "18.2139",
+    "longitude": "121.16",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Isnag](https://grambank.clld.org/languages/isna1241)\n[Isnag](https://wals.info/languoid/lect/wals_code_isn)\nhttps://en.wikipedia.org/wiki/Isnag_language\nhttps://www.wikidata.org/entity/Q6085162"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4113**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:fiagoy:87**\n**cldf:keesing:34:2**\n**cldf:keesing:49**\n**cldf:keesing:62:2**\n**cldf:keesing:84:2**\n**cldf:lebar:ed:75**\n**cldf:luzon:19**\n**cldf:np:14:5**\n**cldf:ofthephilippineislands:21**\n**cldf:rahman:55**\n**cldf:scheffler:62**\n**cldf:smart:93**\n**cldf:vanoverbergh:36**\n**cldf:vanoverbergh:38:2**\n**cldf:vanoverbergh:53:1**\n**cldf:vanoverbergh:53:2**\n**cldf:vanoverbergh:54**\n**cldf:yumul:dimalanta:etal:09**\n**hh:d:Vanoverbergh:Isneg**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:hw:Vanoverbergh:Luzon**\n**hh:styp:Barlaan:Isnag**\n**hh:typ:Barlaan:Isneg**\n**hh:w:Barlaan:Isnag**\n**mpieva:Barlaan1999Aspectso**\n**sil16:10165**\n**sil16:12205**\n**sil16:14771**\n**sil16:18042**\n**sil16:18043**\n**sil16:39975**\n**sil16:40148**"
+  },
+  "altnames": {
+    "wals": "\nIsnag",
+    "wals other": "\nMaragat",
+    "ruhlen (1987)": "\nIsnag",
+    "moseley & asher (1994)": "\nIsnag",
+    "multitree": "\nDibagat-Kabugao-Isneg\nIsnag\nIsneg\nMaragat",
+    "lexvo": "\nIsnag [en]\nIsnag language [en]",
+    "hhbib_lgcode": "\nIsneg\nIsneg (Isg.)"
+  },
+  "triggers": {
+    "lgcode": "\nisneg\nisnag\nsinakit"
+  },
+  "identifier": {
+    "wals": "isn",
+    "multitree": "isd;isna"
+  },
+  "classification": {
+    "sub": "**hh:hv:Reid:Northern-Luzon**",
+    "subrefs": "\n**hh:hv:Reid:Northern-Luzon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Isnag (isd-isd) = 5* (Developing)."
+  }
+}

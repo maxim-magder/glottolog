@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Olu'bo",
+    "hid": "lul",
+    "level": "language",
+    "iso639-3": "lul",
+    "latitude": "4.6242",
+    "longitude": "31.9103",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Olu%CA%BCbo_language\nhttps://phoible.org/languages/olub1238\nhttps://www.wikidata.org/entity/Q6589401"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2258**\n**hh:h:Tucker:Eastern-Sudanic**\n**hh:he:Nalder:Mongalla**\n**hh:hvtyp:Tucker:Madi**\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**hh:phon:Andersen:Lulubo**\n**sil16:44808**"
+  },
+  "altnames": {
+    "multitree": "\nLolubo\nLuluba\nLulubo\nOlu'bo\nOlubogo\nOluboti\nOndoe",
+    "lexvo": "\nOlu'bo [en]",
+    "hhbib_lgcode": "\nLuluba\nLulubo"
+  },
+  "triggers": {
+    "lgcode": "\neastern AND languages AND sudanic\nlulubo"
+  },
+  "identifier": {
+    "multitree": "lul"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:WatsonBoone:Moru-Madi**",
+    "subrefs": "\n**hh:hwsoc:WatsonBoone:Moru-Madi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Olu’bo (lul-lul) = 5 (Developing)."
+  }
+}

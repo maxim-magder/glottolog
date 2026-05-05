@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Madurese",
+    "hid": "mad",
+    "level": "language",
+    "iso639-3": "mad",
+    "latitude": "-7.0",
+    "longitude": "113.0",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Madurese](https://grambank.clld.org/languages/nucl1460)\n[Madurese](https://wals.info/languoid/lect/wals_code_mdr)\nhttps://en.wikipedia.org/wiki/Madurese_language\nhttps://phoible.org/languages/nucl1460\nhttps://www.wikidata.org/entity/Q36213"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:stevens:94**\n**cldf:sugiarto:93**\n**hh:d:Kiliaan:Madoereesch**\n**hh:d:Komariyah:Madura**\n**hh:d:Mohtar:Madura**\n**hh:d:Pawitra:Madura**\n**hh:d:Safioedin:Madura**\n**hh:dial:Sutoko:Madura**\n**hh:dial:Wijayanti:Bawean**\n**hh:g:Davies:Madurese**\n**hh:g:Kiliaan:Madoereesche**\n**hh:g:Stevens:Madurese**\n**hh:g:Stevens:Madurese:1964**\n**hh:hb:Teeuw:Malay-Bahasa**\n**hh:hb:Uhlenbeck:Java-Madura**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hvw:Latham:Comparative**\n**hh:s:Davies:Madurese**\n**hh:s:Soegiantoetal:Madura**\n**hh:s:Wahabetal:Madura**\n**hh:t:Vreede:Madoereesche**\n**hh:vld:Maerina:Madura-Sumbawa**\n**hh:w:Clynes:Madurese**\n**mpieva:Edmondson1993Tonality**\n**sil16:35057**\n**sil16:35854**"
+  },
+  "altnames": {
+    "wals": "\nMadurese",
+    "ruhlen (1987)": "\nMadurese",
+    "moseley & asher (1994)": "\nMadurese",
+    "multitree": "\nBasa Mathura\nMadhura\nMadura\nMadura-Bali\nMadurese\nMaduresisch",
+    "lexvo": "\nBahasa Madura [id]\nBasa Madura [jv]\nJęzyk madurski [pl]\nLengua madureise [lij]\nLíngua maduresa [pt]\nMadoerees [nl]\nMadura [de]\nMadurais [fr]\nMaduran kieli [fi]\nMadurese [en]\nMadurese language [en]\nMaduresiska [sv]\nmadourais [fr]\nমাদুরীয় ভাষা [bn]\nภาษามาดูรา [th]\nマドゥラ語 [ja]\n馬都拉語 [zh]",
+    "hhbib_lgcode": "\nBawean\nBrang Bara\nBugis Madura\nLuar Madura\nMadura\nStandard Madurese of Sumenep in Eastern Madura"
+  },
+  "triggers": {
+    "lgcode": "\nmadoereesche\nmadoereesch\nmadurese"
+  },
+  "identifier": {
+    "wals": "mdr",
+    "multitree": "mad;madu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blust:NBorneo**:80-91",
+    "subrefs": "\n**hh:hv:Blust:NBorneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Madura (mad-mad) = 5 (Developing)."
+  }
+}

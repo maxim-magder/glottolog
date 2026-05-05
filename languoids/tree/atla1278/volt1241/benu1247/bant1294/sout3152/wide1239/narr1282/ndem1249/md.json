@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ndemli",
+    "hid": "nml",
+    "level": "language",
+    "iso639-3": "nml",
+    "latitude": "4.58061",
+    "longitude": "10.2197",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36089\nhttps://en.wikipedia.org/wiki/Ndemli_language\nhttps://phoible.org/languages/ndem1249"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:phon:Ngono:Ndemli**\n**hh:phon:Ngoran:Ndemli**\n**hh:s:Ndedje:Ndemli**\n**hh:typ:MutakaNgako:Ndemli**\n**hh:w:Dugast:Bandem**"
+  },
+  "altnames": {
+    "multitree": "\nBandem\nBayong\nNdemba\nNdemli",
+    "lexvo": "\nNdemli [en]",
+    "hhbib_lgcode": "\nBandem"
+  },
+  "triggers": {
+    "lgcode": "\nndemli\nbandem"
+  },
+  "identifier": {
+    "multitree": "nml;ndem"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Bantoid**",
+    "subrefs": "\n**hh:hv:Blench:Bantoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndemli (nml-nml) = 6a (Vigorous)."
+  }
+}

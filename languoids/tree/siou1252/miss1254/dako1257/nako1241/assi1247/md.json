@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Assiniboine",
+    "hid": "asb",
+    "level": "language",
+    "iso639-3": "asb",
+    "latitude": "49.2923",
+    "longitude": "-106.068",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Assiniboine](https://endangeredlanguages.com/lang/677)\n[Assiniboine](https://grambank.clld.org/languages/assi1247)\nhttps://en.wikipedia.org/wiki/Assiniboine_language\nhttps://www.wikidata.org/entity/Q2591288"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bushnell:i:etal:22**\n**cldf:christopherrogers:campbell:10**\n**cldf:culbertson:52**\n**cldf:denig:30**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lowie:10**\n**cldf:lowrie:clarke:ed:32**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:rodnick:38**\n**hh:d:Collette:Nakoda**\n**hh:e:DeMallieMiller:Assiniboine**\n**hh:e:Lowie:Assiniboine**\n**hh:g:Cumberland:Assiniboine**\n**hh:g:Levin:Assiniboine:1961**\n**hh:g:Levine:Assiniboine**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:ht:Marietti:CCL**\n**hh:hv:Collette:Nakoda**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:hw:Hayden:Missouri**\n**hh:s:Ryan:Nakona**\n**hh:st:Schudel:Nakoda**\n**hh:t:Drummond:Assiniboine**\n**hh:typ:West:Assiniboine**\n**hh:w:Schoolcraft:Vocabularies:1854**\n**iso6393:2024-017**\n**mpieva:Cumberland2005Agrammar**"
+  },
+  "altnames": {
+    "multitree": "\nAsinibóin (Estados Unidos)\nAssinaboin\nAssiniboin\nAssiniboine\nAssiniboine (Canada)\nAssiniboine (États-Unis d'Amérique)\nEstoni\nHohe\nNakon\nStoney",
+    "lexvo": "\nAsiniboineg [br]\nAssiniboine [en]\nAssiniboine language [en]\nJęzyk assiniboine [pl]",
+    "hhbib_lgcode": "\nAssiniboinice\nAssiniboins\nEastern Assiniboine\nNakona",
+    "elcat": "\nAssinaboin\nAssiniboin\nAssiniboine\nHohe\nNakon\nStoney"
+  },
+  "triggers": {
+    "lgcode": "\nnakoda\nassiniboine"
+  },
+  "identifier": {
+    "multitree": "asb",
+    "endangeredlanguages": "677"
+  },
+  "classification": {
+    "sub": "**hh:hv:Collette:Nakoda**",
+    "subrefs": "\n**hh:hv:Collette:Nakoda**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Assiniboine (677-asb) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

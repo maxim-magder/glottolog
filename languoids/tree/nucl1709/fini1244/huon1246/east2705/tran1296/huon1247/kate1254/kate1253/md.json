@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kâte",
+    "hid": "kmg",
+    "level": "language",
+    "iso639-3": "kmg",
+    "latitude": "-6.4795",
+    "longitude": "147.757",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kâte](https://lexibank.clld.org/languages/mcelhanonhuon-Kate)\n[Kâte](https://lexibank.clld.org/languages/transnewguineaorg-kate)\n[Kâte](https://wals.info/languoid/lect/wals_code_kat)\nhttps://en.wikipedia.org/wiki/K%C3%A2te_language\nhttps://www.wikidata.org/entity/Q3201059"
+  },
+  "classification": {
+    "sub": "**hh:hvw:McElhanon:Huon**:7",
+    "subrefs": "\n**hh:hvw:McElhanon:Huon**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nichols:92**\n**cldf:suter:06**\n**cldf:suter:66**\n**cldf:suter:98**\n**hh:d:FlierlStrauss:Kate**\n**hh:d:Hartwig:Kate**\n**hh:d:Keysser:Kate**\n**hh:e:Flierl:Papua**\n**hh:e:Flierl:Wilden**\n**hh:e:Keysser:Kai**\n**hh:e:Poch:Kai**\n**hh:h:Schmitz:Nordost-Neuguinea**\n**hh:hld:Smith:Morobe**\n**hh:htyp:McElhanon:Finisterre-Huon**\n**hh:hvld:McElhanon:NETNG**\n**hh:hvtyp:Suter:Huon**\n**hh:hvw:McElhanon:Huon**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schellong:Worterverzeichnisse**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:s:Grube:Kai**\n**hh:s:Pilhofer:Kate**\n**hh:s:Pilhofer:Kate:1926-1927**\n**hh:s:Schneuker:Kate**\n**hh:t:Pilhofer:Kate**\n**hh:typ:Pilhofer:Kate-Zehn**\n**hh:typ:Suter:Kate**\n**hh:typ:Suter:Kate:1992**\n**hh:typ:Suter:Kate:2014**\n**hh:w:Loukotka:Biros-Papuasprachen**\n**hh:w:Pilhofer:Kate**\n**mpieva:Pilhofer1969Grammati**\n**sil16:11636**\n**sil16:16146**\n**sil16:22192**"
+  },
+  "altnames": {
+    "glottolog": "\nKate",
+    "wals": "\nKâte",
+    "ruhlen (1987)": "\nKâte",
+    "moseley & asher (1994)": "\nKate",
+    "multitree": "\nKai\nKate\nKâte\nKâte Dong",
+    "lexvo": "\nKâte [en]\nKâte language [en]",
+    "hhbib_lgcode": "\nBila\nBussim\nJabim-Kei\nKai\nKamocka\nKamoka\nKamoka (though the numerals diverge)\nKate\nMâgob\nMâgobineng (aka Bamotâ)\nPoom\nPoum\nPóom\nSaleng\nSaleng-Kei\nSimbang\nSimbang-Kei\nSogeng\nSsogeng\nSuam-Jabim\nWamola\nWamolâ\nWamora\nWamorâ\nWemo\nYabim Kei"
+  },
+  "triggers": {
+    "lgcode": "\nkaija\nneuguinea AND kate\nkate"
+  },
+  "identifier": {
+    "wals": "kat",
+    "multitree": "kmg"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kâte (kmg-kmg) = 3 (Wider communication). Established as a church language by the Lutherans in the early 1900s. Currently an LWC in the Huon peninsula."
+  }
+}

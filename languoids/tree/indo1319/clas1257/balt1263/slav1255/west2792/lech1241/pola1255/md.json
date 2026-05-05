@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Polabian",
+    "hid": "pox",
+    "level": "language",
+    "iso639-3": "pox",
+    "latitude": "52.0",
+    "longitude": "14.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36741\nhttps://en.wikipedia.org/wiki/Polabian_language\n[Polabian](https://wals.info/languoid/lect/wals_code_plb)",
+    "timespan": "1500-01-01/1756-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:olesch:74**\n**hh:d:Olesch:Dravaenopolabicae**\n**hh:d:PolanskiSehnert:Polabian**\n**hh:g:Polanski:Polabskich**\n**hh:hvld:Stieber:Zachodnio**\n**hh:s:Lehr-Splawinski:Polabska**\n**hh:s:Polanski:Polabian**\n**hh:s:Suprun:Polabskij**\n**hh:s:Suprun:Polabskij:1987**\n**hh:vd:Polanski:Polabskich**\n**hh:w:Pallas:Vocabularia**"
+  },
+  "triggers": {
+    "lgcode": "\nwortakzent\npolabian"
+  },
+  "identifier": {
+    "wals": "plb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Poljakov:Slavic** **hh:vldsoc:Hannan:Teschen-Silesia**:85-130 **hh:hvld:Stieber:Zachodnio**:22-43",
+    "subrefs": "\n**hh:vldsoc:Hannan:Teschen-Silesia**\n**hh:hv:Poljakov:Slavic**\n**hh:hvld:Stieber:Zachodnio**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Polabian (403-) = Extinct"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nPolabskie\nPolabskij"
+  }
+}

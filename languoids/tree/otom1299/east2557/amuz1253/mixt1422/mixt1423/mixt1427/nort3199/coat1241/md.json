@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Coatzospan Mixtec",
+    "hid": "miz",
+    "level": "language",
+    "iso639-3": "miz",
+    "latitude": "18.048748",
+    "longitude": "-96.763633",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (Coatzospan)](https://wals.info/languoid/lect/wals_code_mxz)\n[Northern Alta Mixtec](https://endangeredlanguages.com/lang/10533)\nhttps://en.wikipedia.org/wiki/Coatzospan_Mixtec\nhttps://www.wikidata.org/entity/Q3317290"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brend:ed:74:2**\n**cldf:gerfen:01**\n**cldf:jones:robert:ed:79:1**\n**hh:g:Small:Coatzospan-Mixtec**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:ld:Josserand:Mixteca**\n**hh:phon:Gerfen:Coatzospan-Mixtec**\n**hh:phon:Gerfen:Coatzospan-Mixtec:1999**\n**mpieva:Josserand1983Mixtecdi**\n**sil16:11961**\n**sil16:12338**\n**sil16:16589**\n**sil16:22980**\n**sil16:23962**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (Coatzospan)",
+    "wals other": "\nCoatzospan Mixtec\nCoatzospan Mixteco\nMixteco (Coatzospan)",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nMixtec (Coatzospan)\nMixtec, Coatzospan\nMixteco (Coatzospan)\nMixteco de San Juan Coatzospan\nNorthern Misteko\nNorthern Mixteco\nTeotitlan Mixtec",
+    "lexvo": "\nCoatzospan Mixtec [en]",
+    "hhbib_lgcode": "\n44 San Juan Coatzospam Mixtec Small 1990; Dürr 1987; Josserand 1983\nCoat\nCoatzospan\nSan Juan Coatzospan\nSan Juan Coatzospan-Oaxaca",
+    "elcat": "\nCoatzospan Mixtec\nCuicatlán Mixtec\nCuyamecalco Mixtec\nMixteco de Cañada central\nMixteco de Coatzóspan\nMixteco de Cuyamecalco\nMixteco de San Juan Coatzospan\nNorthern Alta Mixtec\nTeotitlán Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\ncoatzospan\ncoatzan"
+  },
+  "identifier": {
+    "wals": "mxz",
+    "multitree": "miz",
+    "endangeredlanguages": "10533"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:12-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Alta Mixtec (10533) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

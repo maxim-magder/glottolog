@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Baré",
+    "hid": "bae",
+    "level": "language",
+    "iso639-3": "bae",
+    "latitude": "1.91649",
+    "longitude": "-66.828",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "VE"
+    ],
+    "links": "\n[Baré](https://endangeredlanguages.com/lang/1864)\n[Baré](https://grambank.clld.org/languages/bare1276)\n[Baré](https://wals.info/languoid/lect/wals_code_bae)\nhttps://en.wikipedia.org/wiki/Bar%C3%A9_language\nhttps://phoible.org/languages/bare1276\nhttps://www.wikidata.org/entity/Q3504087"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikhenvald:07:2**\n**cldf:aikhenvald:96:2**\n**cldf:aikhenvald:99:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:32:2**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:6417**\n**fabreall2009ann:Arawak_bare01**\n**fabreall2009ann:Arawak_bare02**\n**fabreall2009ann:Arawak_bare07**\n**fabreall2009ann:Arawak_bare08**\n**fabreall2009ann:Arawak_bare12**\n**fabreall2009ann:Arawak_bare15**\n**fabreall2009ann:Arawak_bare16**\n**fabreall2009ann:Arawak_bare17**\n**fabreall2009ann:Arawak_bare18**\n**fabreall2009ann:Arawak_bare20**\n**fabreall2009ann:Arawak_bare21**\n**fabreall2009ann:Arawak_bare23**\n**fabreall2009ann:Arawak_bare24**\n**fabreall2009ann:Arawak_bare29**\n**fabreall2009ann:Tukano103**\n**hh:d:deBorgo:Bare**\n**hh:e:Perez:Bale**\n**hh:h:Nowotny:Brasilianischer**\n**hh:he:Martius:Brasiliens**\n**hh:hew:Chaffanjon:Orenoque-Caura**\n**hh:hew:Wallace:Amazon**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Ramirez:Arawak**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:hw:Koch-Grunberg:Aruak**\n**hh:hw:Martius:Brasiliens**\n**hh:hw:Nimuendaju:Brasil**\n**hh:hw:Tavera-Acosta:Enelsur**\n**hh:s:Aikhenvald:Bare**\n**hh:s:Cunha:Bare**\n**hh:s:Lopez:Bare**\n**hh:w:CrevauxSagotAdam:Roucouyenne**\n**hh:w:Koch-Grunberg:Bare**\n**hh:w:deCivrieuxLichy:Guainia**\n**langsci:ramirez:01**"
+  },
+  "altnames": {
+    "glottolog": "\nBare",
+    "wals": "\nBaré",
+    "wals other": "\nBare",
+    "ruhlen (1987)": "\nBaré",
+    "moseley & asher (1994)": "\nBare",
+    "multitree": "\nArihini\nBale\nBalé\nBarauana\nBarauna\nBarawana\nBare\nBaré\nBaré (Brésil)\nBaré (République bolivarienne du Venezuela)\nBaré (Venezuela)\nCunipusana\nIbini\nIhini\nMaldavaca\nMitua\nYavita",
+    "lexvo": "\nBaré [en]",
+    "hhbib_lgcode": "\nAlihini Baré\nArihini Baré\nBare\nBarree\nBarré\nBaré (San Carlos) by Hermann Schmidt\nBále\nIhini Baré\nJhini Baré\nvocabulaire Barè\nvocabulario Barré",
+    "elcat": "\nArihini\nBale\nBalé\nBarauana\nBarauna\nBarawana\nBare\nBaré\nCunipusana\nIhini\nMaldavaca\nMitua\nYavita"
+  },
+  "triggers": {
+    "lgcode": "\nvenezuela AND bare\nturumas\npiacava"
+  },
+  "identifier": {
+    "wals": "bae",
+    "multitree": "bae;bare",
+    "endangeredlanguages": "1864"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ramirez:Arawak-Enciclopedia**:III:159-208",
+    "subrefs": "\n**hh:hvw:Ramirez:Arawak-Enciclopedia**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baré (1864-bae) = Dormant [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

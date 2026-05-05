@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Yalálag Zapotec",
+    "hid": "zpu",
+    "level": "language",
+    "iso639-3": "zpu",
+    "latitude": "17.2134",
+    "longitude": "-96.2183",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Cajonos Zapotec](https://endangeredlanguages.com/lang/9069)\nhttps://en.wikipedia.org/wiki/Yal%C3%A1lag_Zapotec\nhttps://www.wikidata.org/entity/Q8047534"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fuente:49**\n**cldf:nader:64**\n**cldf:parsons:36:1**\n**hh:e:Bauer-Thoma:Zapoteken-Mixes**\n**hh:hvld:deAnguloFreeland:Zapotekan**\n**hh:hvw:Radin:Zapotec**\n**hh:ld:Marlett:Pluralization-Zapotec**\n**hh:lde:Pauer:Yalalag**\n**hh:phontyp:Avelino:Yalalag-Zapotec**\n**hh:phontyp:Hernandez:Zapoteco**\n**hh:typ:Galant:Zapoteco-San-Andres-Yaa**\n**hh:typ:NewbergLopez:Zapoteco**\n**ldh:item_404034**\n**mpieva:Lopez1990Laconjug**\n**mpieva:Lopez2005Laconjug**\n**otomanguean:Zapotec187**\n**otomanguean:Zapotec333**\n**sil16:21348**\n**sil16:44327**\n**sil16:47240**\n**sil16:47241**\n**sil16:47242**\n**sil16:47243**"
+  },
+  "altnames": {
+    "glottolog": "\nYalalag Zapotec",
+    "multitree": "\nNorthern Sapoteko\nYalálag Zapotec\nZapotec\nZapotec, Yalálag",
+    "lexvo": "\nYalálag Zapotec [en]",
+    "hhbib_lgcode": "\nYalalag\nYalálag\nZapoteco Yalalag\nZapoteco de San Andrés Yaá\nmost similar to Yalálag Zapotec",
+    "elcat": "\nCajonos Zapotec\nVillalta (non-preferred)\ndill xhon"
+  },
+  "triggers": {
+    "lgcode": "\nyalalag"
+  },
+  "identifier": {
+    "multitree": "zpu",
+    "endangeredlanguages": "9069"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith-Stark:Zapotecas** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Smith-Stark:Zapotecas**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zapotec, Yalálag (zpu-zpu) = 5* (Developing)."
+  }
+}

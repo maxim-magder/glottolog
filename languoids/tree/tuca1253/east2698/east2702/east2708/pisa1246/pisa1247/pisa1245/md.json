@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pisamira",
+    "hid": "NOCODE_Pisamira",
+    "level": "language",
+    "latitude": "1.1017",
+    "longitude": "-70.502483",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Pisamira_language\nhttps://phoible.org/languages/pisa1245\nhttps://www.wikidata.org/entity/Q24190219"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Jackson:Fish-People**\n**hh:hw:Koch-Grunberg:Betoya**\n**hh:s:dePerez:Pisamira**\n**hh:soc:dePerez:1997**\n**hh:typ:Gonzalez:Pisamira**\n**hh:typ:Herrera:Pisamira**\n**hh:w:Stradelli:Tocana**"
+  },
+  "triggers": {
+    "lgcode": "\npisamira"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Pisamira, a Tucanoan language of the Eastern Eastern Tucanoan II subgroup (**hh:hv:Chacon:Proto-Tukanoan**), is missing in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate language (**hh:s:dePerez:Pisamira**). Pisamira is listed under Tucano [tuo] which is of the Eastern Eastern Tucanoan I subgroup and not at all intelligible to Pisamira (**hh:hv:Chacon:Proto-Tukanoan**, **hh:s:dePerez:Pisamira**). See also: Tucano [tuo].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Pisamira"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chacon:Proto-Tukanoan** **hh:gd:Ramirez:Yepa-Masa:2019**:5-7",
+    "subrefs": "\n**hh:hv:Chacon:Proto-Tukanoan**\n**hh:gd:Ramirez:Yepa-Masa:2019**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Pisamira (2006-tuo) = Critically endangered"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nUantyua ou Puçá Tapyia\nUasona\nWahüná (Pisá-Taupyo?)"
+  }
+}

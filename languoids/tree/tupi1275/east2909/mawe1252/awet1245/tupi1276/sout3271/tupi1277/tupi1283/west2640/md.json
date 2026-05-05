@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Western Bolivian Guaraní",
+    "hid": "gnw",
+    "level": "language",
+    "iso639-3": "gnw",
+    "latitude": "-20.2819",
+    "longitude": "-64.1662",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BO"
+    ],
+    "links": "\n[Simba Guaraní](https://endangeredlanguages.com/lang/1721)\nhttps://en.wikipedia.org/wiki/Western_Bolivian_Guarani\nhttps://www.wikidata.org/entity/Q3775037"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Priest:Guarani**\n**hh:nt:GingeryWieck:Guarani-Chuquisaca**\n**hh:s:Gustafson:Guarani**\n**mpieva:Guasch1998Dicciona**\n**sil16:19167**"
+  },
+  "altnames": {
+    "glottolog": "\nWestern Bolivian Guarani",
+    "multitree": "\nAva\nAva-guarani\nAvá-guaraní\nBolivian Guaraní\nChiriguano\nGuarani\nGuarani de Bolivie\nGuaraní\nGuaraní boliviano\nGuaraní language area\nGuaraní, Western Bolivian\nSimba\nSimba Guaraní\nWestern Bolivian Guaraní",
+    "lexvo": "\nSimba kalba [lt]\nWestern Bolivian Guaraní [en]",
+    "hhbib_lgcode": "\nGuarani\nSimba\nWestern Bolivian Guarani",
+    "elcat": "\nAva\nChiriguano\nGuaraSimba\nSimba Guaraní\nWestern Bolivian Guaraní"
+  },
+  "triggers": {
+    "lgcode": "\nchuquisaca\nngueta\nideologio"
+  },
+  "identifier": {
+    "multitree": "gnw",
+    "endangeredlanguages": "1721"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mello:Tupi-Guarani** **hh:hv:RodriguesCabral:Tupi-Guarani** **hh:hv:Rodrigues:Xeta** **hh:vw:Dietrich:Ache**",
+    "subrefs": "\n**hh:hv:Mello:Tupi-Guarani**\n**hh:hv:Rodrigues:Xeta**\n**hh:vw:Dietrich:Ache**\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Simba Guaraní (1721-gnw) = Threatened (20 percent certain, based on the evidence available) [Crevels 2007](cldf:crevels:07)"
+  }
+}

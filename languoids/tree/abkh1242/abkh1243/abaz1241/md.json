@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Abaza",
+    "hid": "abq",
+    "level": "language",
+    "iso639-3": "abq",
+    "latitude": "44.25",
+    "longitude": "42.0",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU",
+      "TR"
+    ],
+    "links": "\n[Abaza](https://endangeredlanguages.com/lang/1415)\n[Abaza](https://wals.info/languoid/lect/wals_code_abz)\nhttps://en.wikipedia.org/wiki/Abaza_language\nhttps://www.wikidata.org/entity/Q27567"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4991**\n**cldf:anonymous:56:2**\n**cldf:ed:10**\n**cldf:genko:95**\n**cldf:humphreys:mits:ed:93**\n**cldf:lomatidze:klychev:89**\n**cldf:np:56:1**\n**cldf:oherin:01**\n**cldf:oherin:02**\n**cldf:serdjuchenko:57**\n**cldf:simons;:fennig:ed:13**\n**cldf:tabulova:76**\n**hh:d:Tabylov:Abazinskij**\n**hh:d:Tugov:Abazinskogo**\n**hh:e:HewittWatson:Abkhazians**\n**hh:g:Genko:Abazinskij**\n**hh:g:Serdyuchenko:Abazinskogo**\n**hh:g:Tabulova:Abazinskogo**\n**hh:hv:Rostambeyk:Yazd**\n**hh:s:Arkadiev:Abaza**\n**hh:s:Lomatidze:Ashxaruli**\n**hh:s:LomtatidzeKlychev:Abaza**\n**hh:s:OHerin:Abaza-Abkhaz**\n**hh:sd:Zhirov:Abazinskij**\n**hh:typ:Klychev:Abazinskogo**\n**hh:typ:Klychev:Abazinskom**\n**ldh:item_403873**\n**mpieva:1956UrysvAba**\n**mpieva:OHerin1995Caseanda**\n**mpieva:OHerin2002Caseanda**\n**sil16:35676**\n**sil16:42870**"
+  },
+  "altnames": {
+    "wals": "\nAbaza",
+    "wals other": "\nAbazin",
+    "ruhlen (1987)": "\nAbaza",
+    "moseley & asher (1994)": "\nAbaza",
+    "multitree": "\nAbaza\nAbazin\nAbazintsy\nAhuwa\nAshuwa\nTapanta",
+    "lexvo": "\nAbasiini keel [et]\nAbasinische Sprache [de]\nAbasínska [is]\nAbaza [en]\nAbaza language [en]\nAbaza lingvo [eo]\nAbaza nyelv [hu]\nAbazaca [tr]\nAbazan kieli [fi]\nAbazeg [br]\nAbazijns [nl]\nAbazinska [sv]\nAbazinski jezik [hr]\nAbazinų kalba [lt]\nAbazí [ca]\nIdioma abaza [es]\nJęzyk abazyński [pl]\nLimba abazină [ro]\nLingua abaza [gl]\nLingua abazina [it]\nLíngua abaza [pt]\nАбаза јазик [mk]\nАбазински език [bg]\nАбазинский язык [ru]\nАбазинська мова [uk]\nԱբազերեն [hy]\nภาษาอบาซา [th]\n아바자어 [ko]",
+    "hhbib_lgcode": "\nAbkhazy north of the Caucasian ridge",
+    "elcat": "\nAbaza\nAbazin\nAbazintsy\nAhuwa\nAshuwa\nTapanta\nабаза бызшва‎"
+  },
+  "triggers": {
+    "lgcode": "\nedialekti\nabazinskij\ndialektta\nsxva\nabaza\nabazinskogo\nabazur\nashxaruli\nshoris"
+  },
+  "identifier": {
+    "wals": "abz",
+    "multitree": "abq",
+    "endangeredlanguages": "1415"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hewitt:NWC**",
+    "subrefs": "\n**hh:hv:Hewitt:NWC**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Abaza (1415-abq) = Vulnerable (20 percent certain, based on the evidence available) (More vigorous in the Russian Federation than Turkey.) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Wayoró",
+    "hid": "wyr",
+    "level": "language",
+    "iso639-3": "wyr",
+    "latitude": "-12.6945",
+    "longitude": "-61.3064",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Wayoró](https://endangeredlanguages.com/lang/1566)\nhttps://www.wikidata.org/entity/Q2875044\nhttps://en.wikipedia.org/wiki/Wayor%C3%B3_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:desouzanogueira:11**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**fabreall2009ann:Tupi_wajuru1**\n**hh:he:Caspar:Guapore**\n**hh:he:Snethlage:Guapore**\n**hh:hv:VilacyFernanda:Tupari**\n**hh:phontyp:Nogueira:Wayoro**\n**hh:typ:Nogueira:Wayoro**\n**hh:w:Loukotka:Inedits**"
+  },
+  "altnames": {
+    "glottolog": "\nWayoro",
+    "multitree": "\nAjuru\nAjurú\nAyuru\nAyurú\nHuayoró\nUaiora\nUaioró\nWajaru\nWayoró\nWayru\nWayurú",
+    "lexvo": "\nWayoró [en]",
+    "hhbib_lgcode": "\nApičum\nGuaratagaja\nGuaratäga\nGuaratégaja\nWajoro\nWayoro",
+    "elcat": "\nAjuru\nAjurú\nAyurú\nUaiora\nUaioró\nWajaru\nWayoró\nWayru\nWayurú"
+  },
+  "triggers": {
+    "lgcode": "\nwayoro\nmarico\nemeto"
+  },
+  "identifier": {
+    "multitree": "wyr",
+    "endangeredlanguages": "1566"
+  },
+  "classification": {
+    "sub": "**hh:hv:NikulinAndrade:Tuparian**",
+    "subrefs": "\n**hh:hv:NikulinAndrade:Tuparian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Wayoró (1566-wyr) = Critically Endangered (80 percent certain, based on the evidence available) [de Souza Nogueira 2011](cldf:desouzanogueira:11)"
+  }
+}

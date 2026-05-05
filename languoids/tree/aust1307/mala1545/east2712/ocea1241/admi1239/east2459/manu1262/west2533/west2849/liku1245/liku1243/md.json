@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Likum",
+    "hid": "lib",
+    "level": "language",
+    "iso639-3": "lib",
+    "latitude": "-2.16157",
+    "longitude": "146.695",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Likum](https://endangeredlanguages.com/lang/2266)\n[Likum](https://lexibank.clld.org/languages/abvdoceanic-Likum)\nhttps://en.wikipedia.org/wiki/Likum_language\nhttps://www.wikidata.org/entity/Q3240737"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:75:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Blust:Manus**\n**hh:hv:Ross:WMelanesia**\n**hh:wtyp:Blust:Likum**"
+  },
+  "altnames": {
+    "multitree": "\nAdmiralitäts-inseln\nLikum",
+    "lexvo": "\nLikum [en]",
+    "elcat": "\nAdmiralitäts-inseln\nLikum"
+  },
+  "identifier": {
+    "multitree": "lib",
+    "endangeredlanguages": "2266"
+  },
+  "classification": {
+    "sub": "**hh:wtyp:Blust:Likum**:297",
+    "subrefs": "\n**hh:wtyp:Blust:Likum**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Likum (2266-lib) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

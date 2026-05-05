@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Big Nambas",
+    "hid": "nmb",
+    "level": "language",
+    "iso639-3": "nmb",
+    "latitude": "-16.0903",
+    "longitude": "167.239",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Big Nambas](https://grambank.clld.org/languages/bign1238)\n[Nambas (Big)](https://wals.info/languoid/lect/wals_code_nbb)\n[V'ënen Taut (Leviamp)](https://lexibank.clld.org/languages/abvdoceanic-VenenTautLeviamp)\nhttps://en.wikipedia.org/wiki/V%CA%BC%C3%ABnen_Taut_language\nhttps://www.wikidata.org/entity/Q2902304"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1377**\n**asjp2010:3613**\n**hh:g:Dodd:Venen-Taut**\n**hh:g:Fox:Nambas**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**iso6393:2008-016**"
+  },
+  "altnames": {
+    "wals": "\nNambas (Big)",
+    "wals other": "\nBig Nambas",
+    "ruhlen (1987)": "\nNambas (Big)",
+    "moseley & asher (1994)": "\nNambas (Big)",
+    "multitree": "\nBig Nambas\nMallicolo\nNambas (Big)\nNambas, Big\nV'ënen Taut",
+    "lexvo": "\nBig Nambas [en]\nBig Nambas language [en]\nV'ënen Taut [en]",
+    "hhbib_lgcode": "\nLeviamp\nNambas-Big\nUnmet\nV'ënen Taut\nVenen Taut"
+  },
+  "triggers": {
+    "lgcode": "\nnambas"
+  },
+  "identifier": {
+    "wals": "nbb",
+    "multitree": "nmb"
+  },
+  "classification": {
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "V’ënen Taut (nmb-nmb) = 6b (Threatened)."
+  }
+}

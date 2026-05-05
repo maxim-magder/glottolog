@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Nyigina",
+    "hid": "nyh",
+    "level": "language",
+    "iso639-3": "nyh",
+    "latitude": "-17.9594",
+    "longitude": "124.348",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Nyigina](https://grambank.clld.org/languages/nyig1240)\n[Nyigina](https://wals.info/languoid/lect/wals_code_nyn)\n[Nyikina](https://collection.aiatsis.gov.au/austlang/language/k3)\n[Nyikina](https://endangeredlanguages.com/lang/2562)\nhttps://en.wikipedia.org/wiki/Nyigina_language\nhttps://phoible.org/languages/nyig1240\nhttps://www.wikidata.org/entity/Q3913780"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:fabricius:98**\n**cldf:lewis:ed:09**\n**cldf:nekes:worms:06**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:e:Toussaint:Kimberley**\n**hh:ew:Mathews:Western-Australia**\n**hh:g:Stokes:Nyigina**\n**hh:hvtyp:McGregor:Kimberley**\n**hh:hvw:Capell:NWAustralia**\n**hh:hvw:McGregor:NekesWorms**\n**iso6393:2018-050**\n**mpieva:MacGregor1996Studiesi**\n**ozbib:1042**\n**ozbib:1044**\n**ozbib:1184**\n**ozbib:1271**\n**ozbib:2386**\n**ozbib:2997**\n**ozbib:3723**\n**ozbib:3880**\n**ozbib:3913**\n**ozbib:3916**\n**ozbib:3942**\n**ozbib:4173**\n**ozbib:4321**\n**ozbib:4322**\n**ozbib:5947**\n**ozbib:6217**\n**ozbib:6218**\n**ozbib:6219**\n**ozbib:6220**\n**ozbib:6223**\n**ozbib:6224**\n**ozbib:6226**\n**ozbib:6643**\n**ozbib:6763**\n**ozbib:6770**\n**ozbib:7013**\n**ozbib:726**\n**ozbib:928**\n**ozbib:931**\n**ozbib:934**"
+  },
+  "altnames": {
+    "wals": "\nNyigina",
+    "ruhlen (1987)": "\nNyigina",
+    "moseley & asher (1994)": "\nNyigina",
+    "multitree": "\nDja:ba\nNigena\nNjigana\nNjigena\nNjigina\nNjikena\nNjikin\nNyi-gini\nNyigina\nNyigini\nNyikina\nTjaba\nWanji\nYeeda",
+    "lexvo": "\nLenga nyigina [pms]\nNyigina [en]\nNyigina language [en]",
+    "hhbib_lgcode": "\nLower Fitzroy\nNjigina\nNyikina",
+    "elcat": "\nDja:ba\nNigena\nNjigana\nNjigena\nNjigina\nNjikena\nNjikin\nNyi-gini\nNyigina\nNyigini\nNyikina\nTjaba\nWanji\nYeeda",
+    "aiatsis": "\nDja:ba\nNegena\nNigena\nNiggene\nNjigana\nNjigena\nNjigina\nNjikena\nNjikini\nNyegena\nNygina\nNyi gini\nNyigina\nNyigini\nNyikina\nTjaba\nWanji\nYeeda"
+  },
+  "triggers": {
+    "lgcode": "\nnyigina"
+  },
+  "identifier": {
+    "wals": "nyn",
+    "multitree": "nyh",
+    "endangeredlanguages": "2562"
+  },
+  "classification": {
+    "sub": "**hh:hv:StokesMcGregor:Nyulnyulan**, **hh:vld:Bowern:Nyulnyulan**",
+    "subrefs": "\n**hh:vld:Bowern:Nyulnyulan**\n**hh:hv:StokesMcGregor:Nyulnyulan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Nyikina (2562-nyh) = Severely Endangered (20 percent certain, based on the evidence available) (The children speak the English-based pidgin lingua franca Kriol or Aboriginal English as their first language.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

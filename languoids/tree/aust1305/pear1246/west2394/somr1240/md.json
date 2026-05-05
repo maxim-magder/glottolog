@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Somray of Battambang-Somre of Siem Reap",
+    "hid": "smu",
+    "level": "language",
+    "iso639-3": "smu",
+    "latitude": "12.243",
+    "longitude": "103.139",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "KH"
+    ],
+    "links": "\n[Samre](https://lexibank.clld.org/languages/peirosaustroasiatic-Samre)\n[Somray](https://endangeredlanguages.com/lang/5394)\nhttps://en.wikipedia.org/wiki/Somray_language\nhttps://www.wikidata.org/entity/Q6583612"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Baradat:Samre**\n**hh:hew:Moura:Cambodge**\n**hh:hv:Headley:Pearic**\n**hh:hv:Martin:Pear**\n**hh:hvld:Martin:Pear**\n**hh:hvw:Headley:Proto-Pearic**\n**hh:phon:Martin:Somree**\n**hh:w:Headley:Pearic**"
+  },
+  "altnames": {
+    "multitree": "\nSamrai\nSamray\nSamre\nSomray\nWestern Pear",
+    "lexvo": "\nSomray [en]",
+    "hhbib_lgcode": "\nBaradat's West Pear\nMoura-Samre of Siem Reap\nN Chong\nSamre Siem Reap\nSamre of Battambang\nSamre of Siem Reap\nSomray\nSomray of Battambang\nSomray-Somre\nSomree\nSâmré of Moura",
+    "elcat": "\nSamrai\nSamray\nSamre\nSomray\nWestern Pear"
+  },
+  "triggers": {
+    "lgcode": "\nsomree"
+  },
+  "identifier": {
+    "multitree": "smu",
+    "endangeredlanguages": "5394"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic**:139 **hh:hv:Ferlus:Pearic**",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic**\n**hh:hv:Ferlus:Pearic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Somray (5394-smu) = Critically Endangered (80 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

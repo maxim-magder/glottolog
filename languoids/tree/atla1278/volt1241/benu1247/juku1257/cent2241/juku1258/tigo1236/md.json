@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tigon Mbembe",
+    "hid": "nza",
+    "level": "language",
+    "iso639-3": "nza",
+    "latitude": "6.983995",
+    "longitude": "10.70849",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Tigon Mbembe](https://grambank.clld.org/languages/tigo1236)\nhttps://en.wikipedia.org/wiki/Tigon_language\nhttps://phoible.org/languages/tigo1236\nhttps://www.wikidata.org/entity/Q36518"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kaberry:52**\n**cldf:meek:31:2**\n**eballiso2009:10391**\n**eballiso2009:12464**\n**eballiso2009:57562**\n**hh:d:Eyoh:Mbembe**\n**hh:g:Richter:Mbembe**\n**hh:g:Richter:Mbembe:2014**\n**hh:h:Mafiamba:Nkambe**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hew:Meek:Tribal:II**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:Shimizu:Jukun**\n**hh:hvw:Shimizu:Jukunoid**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**sil16:48133**"
+  },
+  "altnames": {
+    "multitree": "\nAkonto\nAkwanto\nMbembe\nMbembe, Tigon\nNoale\nTigim\nTigon\nTigong\nTigum\nTigun\nTikun\nTukun",
+    "lexvo": "\nTigon Mbembe [en]",
+    "hhbib_lgcode": "\nAbõn\nAshaku\nAshuku\nKporo\nMbembe\nNama\nTigong"
+  },
+  "triggers": {
+    "lgcode": "\ntigong\ncya\nbebedjato"
+  },
+  "identifier": {
+    "multitree": "nza"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Storch:Zentral-Jukunoid**",
+    "subrefs": "\n**hh:hvw:Storch:Zentral-Jukunoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbembe, Tigon (nza-nza) = 5 (Developing)."
+  }
+}

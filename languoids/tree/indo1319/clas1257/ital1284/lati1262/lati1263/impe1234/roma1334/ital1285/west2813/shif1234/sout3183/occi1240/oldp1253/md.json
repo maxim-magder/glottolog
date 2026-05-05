@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Old Provençal",
+    "hid": "pro",
+    "level": "language",
+    "iso639-3": "pro",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FR"
+    ],
+    "longitude": "0.6",
+    "latitude": "43.5",
+    "links": "\nhttps://www.wikidata.org/entity/Q2779185\nhttps://en.wikipedia.org/wiki/Old_Occitan",
+    "timespan": "0700-01-01/1300-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:11677**\n**eballiso2009:36560**\n**eballiso2009:36561**\n**eballiso2009:4334**\n**eballiso2009:55762**\n**eballiso2009:58061**\n**eballiso2009:7094**\n**eballiso2009:7095**\n**hh:d:Malvezin:Oc**\n**hh:d:Olivier:Ancien-Occitan**\n**hh:g:Anglade:Ancien-Provencal**\n**hh:g:GirolamoLee:Provenzale**\n**hh:g:Jensen:Ancien-Occitan**\n**hh:g:Paden:Old-Occitan**\n**hh:s:Fabre:Langue-dOc**\n**hh:s:Roncaglia:Provenzale-Antico**\n**hh:st:AlisovaPluznikova:Staroprovansalskij**\n**hh:st:Bartsch:Provencale**\n**hh:t:Surrel:Occitans-Velay**"
+  },
+  "altnames": {
+    "multitree": "\nOld Occitanian\nOld Provençal",
+    "lexvo": "\nAncien occitan [fr]\nAntico occitano [it]\nOccitan ancian [oc]\nOld Occitan (to 1500) [en]\nOld Occitan [en]\nOld Provençal (to 1500) [en]\nOld Provençal [en]\nProvençal, Old (to 1500) [en]\nprovençal ancien (jusqu'à 1500) [fr]",
+    "hhbib_lgcode": "\nAncien Occitan"
+  },
+  "triggers": {
+    "lgcode": "\nsakatav\nnsontin\nlessa\nvoulait\nprovencale\ntambuka\nbobaie"
+  },
+  "identifier": {
+    "multitree": "pro"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:91-99",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Provençal (pro-pro) = 10 (Extinct)."
+  }
+}

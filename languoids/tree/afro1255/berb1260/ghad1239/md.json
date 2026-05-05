@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ghadames",
+    "hid": "gha",
+    "level": "language",
+    "iso639-3": "gha",
+    "latitude": "30.1168",
+    "longitude": "10.0165",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "DZ",
+      "LY",
+      "TN"
+    ],
+    "links": "\n[Ghadames](https://grambank.clld.org/languages/ghad1239)\n[Ghadamès](https://endangeredlanguages.com/lang/291)\nhttps://en.wikipedia.org/wiki/Ghadam%C3%A8s_language\nhttps://www.wikidata.org/entity/Q56747"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Proto-Berbere**:31 **hh:hv:Kossmann:Arabic-Berber**:25 **hh:hv:Kossmann:Berber:2020**:284",
+    "subrefs": "\n**hh:hv:Kossmann:Proto-Berbere**\n**hh:hv:Kossmann:Arabic-Berber**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1550**\n**cldf:brenzinger:07:1**\n**cldf:ed:10**\n**hh:e:Eldblom:Ghadames**\n**hh:g:Kossmann:Ghadames**\n**hh:gtd:Lanfry:Ghadames:1968-1973**\n**hh:ld:Lanfry:Ghadames:1957**\n**hh:s:Vycichl:Ghadames**\n**hh:std:Motylinski:REdames**\n**mpieva:Naumann2001Vergleic**"
+  },
+  "altnames": {
+    "multitree": "\nGadamés\nGhadames\nGhadamès\nGhadāmis",
+    "lexvo": "\nGhadamès [en]\nGhadamès jezik [hr]\nGhadamès language [en]\nГхадамесский язык [ru]",
+    "hhbib_lgcode": "\nGhadamès",
+    "elcat": "\nGhadamès"
+  },
+  "triggers": {
+    "lgcode": "\nberberssprachen\nredames\nghadames"
+  },
+  "identifier": {
+    "multitree": "gha",
+    "endangeredlanguages": "291"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ghadamès (291-gha) = Threatened (20 percent certain, based on the evidence available) [Brenzinger 2007](cldf:brenzinger:07:1)"
+  }
+}

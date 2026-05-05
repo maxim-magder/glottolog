@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bacama",
+    "hid": "bcy",
+    "level": "language",
+    "iso639-3": "bcy",
+    "latitude": "9.53072",
+    "longitude": "12.0416",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Bacama](https://lexibank.clld.org/languages/kraftchadic-Bacama)\nhttps://en.wikipedia.org/wiki/Bacama_language\nhttps://www.wikidata.org/entity/Q56274"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2438**\n**asjp2010:2491**\n**cldf:fegan:30**\n**cldf:meek:31:2**\n**eballiso2009:32957**\n**eballiso2009:50393**\n**eballiso2009:55755**\n**hh:d:Pweddon:Bwatiye**\n**hh:e:Asodati:Bwatiye**\n**hh:e:Bronnum:Bachama-Religion**\n**hh:e:Fegan:Bachama**\n**hh:e:Jensen:Bachama**\n**hh:e:Stevens:Bachama**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:SIL:Nigeria**\n**hh:hew:Meek:Tribal:I**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:III**\n**hh:ld:Harley:Mandara-Bata**\n**hh:lde:Bronnum:Bachama**\n**hh:phon:Boyd:Bata**\n**hh:soc:Bleambo:Bwatiye**\n**hh:typ:Carnochan:Bachama**\n**hh:typ:Carnochan:Bachama:Verbal**\n**hh:typ:Wama:Bwaatye**\n**hh:v:Carnochan:Bachama**\n**hh:v:Carnochan:Bachama:1977**\n**hh:vsoc:Rueck:Bwatiye**"
+  },
+  "altnames": {
+    "multitree": "\nAbacama\nBacama\nBachama\nBachama-Bata\nBashamma\nBesema\nBwareba\nGboare",
+    "lexvo": "\nBacama [en]\nBacama jezik [hr]\nBacama language [en]\nBatchameg [br]",
+    "hhbib_lgcode": "\nBacama (Imburu)\nBacama-Yimburu\nBachama\nBwaatiye\nBwatiye\nCentral Bwatiye (Kwaine)\nMwulyen\nSaid to be a northern dialect of Bata but is mostly Bacama (p.c. Roger Blench 2023)\nYimburu\nƁwaatye"
+  },
+  "triggers": {
+    "lgcode": "\nbwatiye\nbachma\nbachama"
+  },
+  "identifier": {
+    "multitree": "bcy"
+  },
+  "classification": {
+    "sub": "**hh:v:Carnochan:Bachama**:459-460 **hh:vsoc:Rueck:Bwatiye**",
+    "subrefs": "\n**hh:v:Carnochan:Bachama**\n**hh:vsoc:Rueck:Bwatiye**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bacama (bcy-bcy) = 5* (Developing)."
+  }
+}

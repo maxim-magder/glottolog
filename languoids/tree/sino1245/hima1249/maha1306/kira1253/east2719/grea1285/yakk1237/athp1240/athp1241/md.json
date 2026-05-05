@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Athpariya",
+    "hid": "aph",
+    "level": "language",
+    "iso639-3": "aph",
+    "latitude": "26.8794",
+    "longitude": "87.3296",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Athpare](https://wals.info/languoid/lect/wals_code_ath)\n[Athpariya](https://endangeredlanguages.com/lang/3852)\n[Athpariya](https://grambank.clld.org/languages/athp1241)\nhttps://en.wikipedia.org/wiki/Athpare_language\nhttps://www.wikidata.org/entity/Q3449126"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2554**\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:noonan:03:3**\n**cldf:np:nd:264**\n**hh:g:Ebert:Athpare**\n**hh:s:Nyaupane:Athpre**\n**hh:s:Tumbahang:Athpahariya**\n**hh:wsoc:Regmi:Athpariya**\n**mpieva:1997Assynopt**\n**mpieva:268**\n**sil16:41773**\n**sil16:42071**"
+  },
+  "altnames": {
+    "wals": "\nAthpare",
+    "moseley & asher (1994)": "\nAthpare",
+    "multitree": "\nArthare\nArthare-Khesang\nAth Paharia Rai\nAthapre\nAthpahariya\nAthpare\nAthpariya\nAthpre\nAtpariya\nJamindar Rai\nJindā\nRai",
+    "lexvo": "\nAthpare language [en]\nAthpariya [en]\nAthpariya jezik [hr]\nAthpariyish [gv]",
+    "hhbib_lgcode": "\nAthpahariya\nGuthitar\nHatiya/Dhankuta Bazaar\nKhalde\nSantang\nTekunala",
+    "elcat": "\nArthare\nArthare-Khesang\nAth Paharia Rai\nAthapre\nAthpare\nAthpariya\nAthpre\nJamindar Rai\nJindā\nRai"
+  },
+  "triggers": {
+    "lgcode": "\nathpare\nebert"
+  },
+  "identifier": {
+    "wals": "ath",
+    "multitree": "aph",
+    "endangeredlanguages": "3852"
+  },
+  "classification": {
+    "sub": "**hh:typ:Bickel:Belhare**:21",
+    "subrefs": "\n**hh:typ:Bickel:Belhare**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Athpariya (3852-aph) = Threatened (20 percent certain, based on the evidence available) (\"Many parents though, especially in Dhankuta and the immediate neighborhood, use Nepali with their children.\" (p.11)) [Ebert 1997](cldf:ebert:97:1)"
+  }
+}

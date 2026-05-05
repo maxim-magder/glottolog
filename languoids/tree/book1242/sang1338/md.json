@@ -1,0 +1,30 @@
+{
+  "core": {
+    "name": "Sangab Mandaya",
+    "hid": "myt",
+    "level": "language",
+    "iso639-3": "myt",
+    "latitude": "7.39531",
+    "longitude": "126.409",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12952795"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2009-068**"
+  },
+  "iso_retirement": {
+    "comment": "The present codes for Mandaya (mrt, mry, and mst) do not represent dialects of\nMandaya but data collection points when Andrew Gallman was gathering data for\nhis dissertation some 30 years ago. In reality it is all the same language with\na purer Mandaya in the mountains and more of a mixed variety of Mandaya along\nthe coast. All of it is Mandaya.",
+    "code": "myt",
+    "name": "Sangab Mandaya",
+    "effective": "2010-01-18",
+    "remedy": "merged with Mandaya [mry]",
+    "reason": "merge",
+    "change_request": "2009-068",
+    "change_to": "\nmry"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Ganglau",
+    "hid": "ggl",
+    "level": "language",
+    "iso639-3": "ggl",
+    "latitude": "-5.57945",
+    "longitude": "146.1305",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ganglau](https://lexibank.clld.org/languages/transnewguineaorg-ganglau)\n[ganglau](https://lexibank.clld.org/languages/zgraggenmadang-ganglau)\nhttps://en.wikipedia.org/wiki/Ganglau_language\nhttps://www.wikidata.org/entity/Q5521140"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**"
+  },
+  "altnames": {
+    "multitree": "\nGanglau",
+    "lexvo": "\nGanglau [en]"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "ggl"
+  },
+  "classification": {
+    "sub": "**hh:v:Jones:Horokoi** **hh:hv:ClaassenMcElhanon:Finisterre**:49",
+    "subrefs": "\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:v:Jones:Horokoi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ganglau (ggl-ggl) = 6b (Threatened)."
+  }
+}

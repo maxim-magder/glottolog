@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Zhaba",
+    "hid": "zhb",
+    "level": "language",
+    "iso639-3": "zhb",
+    "latitude": "30.7416",
+    "longitude": "100.983",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Qiangic_Zhaba](https://lexibank.clld.org/languages/sagartst-Zhaba)\n[Zhaba](https://endangeredlanguages.com/lang/5610)\n[Zhaba](https://grambank.clld.org/languages/zhab1238)\nhttps://en.wikipedia.org/wiki/Zhaba_language\nhttps://www.wikidata.org/entity/Q56334"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:gong:07:1**\n**cldf:roche:suzuki:17**\n**cldf:shirai:07**\n**cldf:shirai:08**\n**cldf:shirai:10**\n**elpub:ldd53**\n**hh:g:Gong:Zhaba**\n**hh:g:Huang:Mebzang-Ndrapa**\n**hh:g:Huang:Yajiang-Ndrapa**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Satoko:nDrapa**\n**hh:hvld:Sun:Western-Sichuan**\n**hh:hvs:Sun:Six-Rivers**\n**hh:hwphon:Daietal:Zangmianyu**\n**hh:ld:Bufan:Zhaba**\n**hh:s:Huang:Zhaba:2007**\n**hh:styp:Shirai:Dapa**\n**hh:typ:Huang-Classifiers-Ndrapa**\n**hh:typ:Huang:Zhaba**\n**hh:typ:Huang:Zhaba-Demonstrative:2018**\n**hh:typ:HuangWu:Zhaba-Directional**\n**hh:typ:Satoko:nDrapa**\n**hh:w:Bufan:Zangmian**"
+  },
+  "altnames": {
+    "multitree": "\nChaba\nZaba\nZhaba",
+    "lexvo": "\nZhaba [en]",
+    "hhbib_lgcode": "\nMätro nDrapa\nNorthern nDrapa\nSasho nDrapa\nSouthern nDrapa\nWuzhi nDrapa\nZhaba-Daofu\nZhaba-Daofu of Tratho\nZhaba-Zatuo\nnDrapa",
+    "elcat": "\nBazi\nBozi\nDraba\nZaba\nZha\nZhaba\nnDrapa\n扎巴語"
+  },
+  "triggers": {
+    "lgcode": "\nndrapa"
+  },
+  "identifier": {
+    "multitree": "zhb",
+    "endangeredlanguages": "5610"
+  },
+  "classification": {
+    "sub": "**hh:hv:JacquesMichaud:Naxi-Na-Laze**",
+    "subrefs": "\n**hh:hv:JacquesMichaud:Naxi-Na-Laze**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Zhaba (5610-zhb) = Threatened (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

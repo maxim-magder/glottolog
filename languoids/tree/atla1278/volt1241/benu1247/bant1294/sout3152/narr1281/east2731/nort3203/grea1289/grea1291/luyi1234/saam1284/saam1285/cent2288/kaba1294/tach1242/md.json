@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Tachoni",
+    "hid": "lts",
+    "level": "language",
+    "iso639-3": "lts",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q63283459",
+    "longitude": "34.8298",
+    "latitude": "0.6079"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Nakitare:Abatachoni**\n**hh:hvtyp:Kanyoro:Abaluyia**\n**hh:soc:Wanjala:Lubukusu-Lutachoni**\n**hh:typ:Odden:Tachoni**\n**iso6393:2007-171**"
+  },
+  "altnames": {
+    "lexvo": "\nLutachoni [en]\nTachoni [en]",
+    "hhbib_lgcode": "\nAbatachoni\nLutachoni\nTCH"
+  },
+  "triggers": {
+    "lgcode": "\ntachoni"
+  },
+  "classification": {
+    "sub": "**hh:v:Mohlig:Kanyoro** **hh:typ:Odden:Tachoni**:305",
+    "subrefs": "\n**hh:v:Mohlig:Kanyoro**\n**hh:typ:Odden:Tachoni**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lutachoni (lts-lts) = 5* (Developing)."
+  }
+}

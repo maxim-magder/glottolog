@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Klamath-Modoc",
+    "hid": "kla",
+    "level": "language",
+    "iso639-3": "kla",
+    "latitude": "42.5861",
+    "longitude": "-121.704",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Klamath](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Klamath)\n[Klamath](https://wals.info/languoid/lect/wals_code_klm)\n[Klamath-Modoc](https://endangeredlanguages.com/lang/2291)\n[Klamath-Modoc](https://grambank.clld.org/languages/klam1254)\nhttps://en.wikipedia.org/wiki/Klamath_language\nhttps://phoible.org/languages/klam1254\nhttps://www.wikidata.org/entity/Q2669248",
+    "timespan": "2003-01-01/2003-01-01"
+  },
+  "classification": {
+    "family": "There are interesting parallels to Wintuan and the rest of Plateau Penutian (=\nSahaptian and Molala) **hh:hv:Liedtke:WintuanPenutian**.",
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barker:64:2**\n**cldf:barrett:10**\n**cldf:blevins:01:1**\n**cldf:blevins:04:2**\n**cldf:blevins:93**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:delancey:05**\n**cldf:delancey:91**\n**cldf:delancey:99**\n**cldf:gifford:26:1**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:haynes:04**\n**cldf:johansen:07**\n**cldf:kinkade:01**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:marlo:pharris:04**\n**cldf:np:nd:264**\n**cldf:pearsall:50**\n**cldf:ray:63**\n**cldf:rude:88:3**\n**cldf:shay:ed:03:3**\n**cldf:stegnij:01**\n**cldf:stern:65**\n**cldf:voegelin:42**\n**cldf:xrakovskij:ed:01:4**\n**cldf:xrakovskij:ed:97:8**\n**hh:d:Barker:Klamath**\n**hh:e:Spier:Klamath**\n**hh:e:Stern:KlamathModoc**\n**hh:g:Barker:Klamath**\n**hh:g:Barker:Klamath:1960**\n**hh:g:Underriner:Klamath**\n**hh:gtd:Gatschet:Klamath**\n**hh:hew:Hale:Philology**\n**hh:hvb:Golla:California**\n**hh:ld:Gatschet:Klamath**\n**hh:phon:White:Klamath**\n**hh:s:Dupris:Klamath**\n**hh:s:deAnguloFreeland:Lutuami**\n**hh:t:Barker:Klamath**\n**hh:typ:DeLancey:Klamath-Motion**"
+  },
+  "altnames": {
+    "wals": "\nKlamath",
+    "ruhlen (1987)": "\nKlamath",
+    "moseley & asher (1994)": "\nKlamath",
+    "multitree": "\nE-ukshikni\nKlamath\nKlamath-Modoc\nLutuami\nLutuamí-modoco\nModoc",
+    "lexvo": "\nKlamath [fr]\nKlamath-Modoc [en]\nKlamath-Modoc language [en]\nKlamathin kieli [fi]\nКламат-модокский язык [ru]",
+    "hhbib_lgcode": "\nKlamath\nLutuami\nLutuami (Tlamatl)\nModoc",
+    "elcat": "\nE-ukshikni\nKlamath\nKlamath-Modoc\nLutuami\nModoc"
+  },
+  "triggers": {
+    "lgcode": "\nklamath\nmodoc"
+  },
+  "identifier": {
+    "wals": "genus/klamathmodoc",
+    "multitree": "kla",
+    "endangeredlanguages": "2291"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Klamath-Modoc (2291-kla) = Awakening [Johansen 2007](cldf:johansen:07)"
+  }
+}

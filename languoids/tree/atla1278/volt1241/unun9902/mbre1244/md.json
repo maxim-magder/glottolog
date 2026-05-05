@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mbre",
+    "hid": "mka",
+    "level": "language",
+    "iso639-3": "mka",
+    "latitude": "8.20929",
+    "longitude": "-5.72944",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\n[Mbre](https://endangeredlanguages.com/lang/4669)\nhttps://en.wikipedia.org/wiki/P%C9%9Br%C9%9B_language\nhttps://www.wikidata.org/entity/Q3450154"
+  },
+  "classification": {
+    "sub": "**hh:vld:Boukari:Pre**",
+    "subrefs": "\n**hh:vld:Boukari:Pre**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:5297**\n**hh:g:HeathTiote:Pere**\n**hh:hel:Mous:Africa**\n**hh:s:Tiote:Bere**\n**hh:s:Tiote:Bere:2016**\n**hh:vld:Boukari:Pre**\n**hh:vw:Blench:Bere**\n**hh:w:Blench:Pere**\n**hh:w:Blench:Pre**\n**hh:w:Creissels:Pere**\n**ldh:zenodo_3354193**\n**ldh:zenodo_3354206**"
+  },
+  "altnames": {
+    "multitree": "\nBere\nBre\nMbre\nPre\nPre Pisia",
+    "lexvo": "\nMbre [en]\nMbre language [en]",
+    "hhbib_lgcode": "\nBɛrɛ\nPere\nPɛrɛ",
+    "elcat": "\nBere\nBre\nMbre\nPre\nPre Pisia"
+  },
+  "triggers": {
+    "lgcode": "\npre AND denis"
+  },
+  "identifier": {
+    "multitree": "mka",
+    "endangeredlanguages": "4669"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mbre (4669-mka) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

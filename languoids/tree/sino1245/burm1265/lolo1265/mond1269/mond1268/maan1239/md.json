@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Maang",
+    "hid": "NOCODE_Maang",
+    "level": "language",
+    "latitude": "23.555104",
+    "longitude": "105.70091",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\n[Maang](https://lexibank.clld.org/languages/yangyi-Maang)\n[Mo'ang](https://endangeredlanguages.com/lang/5194)\nhttps://en.wikipedia.org/wiki/Maang_language\nhttps://www.wikidata.org/entity/Q3615900"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:wu:93**\n**cldf:zhou:14**\n**hh:g:Zhou:Moang**\n**hh:h:Hsiu:Southwestern-China**\n**hh:hel:Bradley:EAsia**\n**hh:hld:ShearerHongkai:China**\n**hh:hvw:Hsiu:Mondzish**\n**hh:hvw:Lama:Nisoic**\n**hh:s:She:Moang:2007**\n**hh:s:Wu:Moang**\n**hh:s:Wu:Moang:2004**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Maang is an attested separate Mondzish language missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29\n(**hh:g:Zhou:Moang**, **hh:hvw:Hsiu:Mondzish**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Maang"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hsiu:Mondzish**",
+    "subrefs": "\n**hh:hvw:Hsiu:Mondzish**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mo'ang (China) (2413-NOCODE_Maang) = Definitely endangered"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMeang\nMo'ang\nMuang",
+    "elcat": "\nMaang\nMo'ang\n末昂話\n麼昂話\n麼昂語"
+  },
+  "identifier": {
+    "endangeredlanguages": "5194"
+  }
+}

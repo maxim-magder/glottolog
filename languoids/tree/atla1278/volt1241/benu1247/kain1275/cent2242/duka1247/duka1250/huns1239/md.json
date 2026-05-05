@@ -1,0 +1,55 @@
+{
+  "core": {
+    "name": "Hun-Saare",
+    "hid": "dud",
+    "level": "language",
+    "iso639-3": "dud",
+    "latitude": "10.7898",
+    "longitude": "5.07312",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913977\nhttps://en.wikipedia.org/wiki/Hun-Saare_language\n[Duka](https://wals.info/languoid/lect/wals_code_duk)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2357**\n**cldf:bendor-samuel:cressman:73**\n**eballiso2009:1472**\n**eballiso2009:31950**\n**eballiso2009:54641**\n**eballiso2009:56366**\n**hh:e:Prazan:Dukkawa**\n**hh:h:Bertho:Nigeria**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:GunnConant:Middle-Niger**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvw:Rowlands:NNigeria**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Voorhoeve:Benue-Congo-Noun-Class**\n**hh:s:Bendor-Samueletal:Duka**\n**hh:st:Heath:Saare**\n**hh:wsoc:DettweilerDettweiler:Hun-Saare**\n**iso6393:2018-014**\n**mpieva:BendorSamuel1973Dukasent**\n**sil16:10249**"
+  },
+  "altnames": {
+    "wals": "\nDuka",
+    "wals other": "\nDukawa",
+    "ruhlen (1987)": "\nDuka",
+    "moseley & asher (1994)": "\nDuka",
+    "multitree": "\nDuka\nDukanchi\nDukanci\nDukawa\nDukwa\nHun-Saare",
+    "lexvo": "\nHun-Saare [en]",
+    "hhbib_lgcode": "\nDarangi\nDuka\nDuka (Duka-nshi)\nDuka around Giro\nDuka of Dugge and Shambo\nDukawa\nDukkawa\nDukkawa to the west in Shanga District of Yauri Emirate\nDukku\nE Duka\nEastern Duka\nGiro (Kebbi state)\nHun\nIri\nRijau\nSaare\nTungan Bunu\nW Duka\nWestern Duka\nut-Hun"
+  },
+  "triggers": {
+    "lgcode": "\nduka"
+  },
+  "identifier": {
+    "wals": "duk",
+    "multitree": "dud"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E21",
+    "date": "2018-03-22T14:53:44",
+    "comment": "Hun-Saare (dud-dud) = 5 (Developing)."
+  },
+  "iso_retirement": {
+    "code": "dud",
+    "name": "Hun-Saare",
+    "effective": "2019-01-25",
+    "reason": "split",
+    "change_to": "\nuth\nuss",
+    "remedy": "Split into ut-Hun [uth] and us-Saare [uss]",
+    "change_request": "2018-014"
+  }
+}

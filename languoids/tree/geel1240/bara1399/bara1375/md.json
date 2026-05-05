@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Barapasi",
+    "hid": "brp",
+    "level": "language",
+    "iso639-3": "brp",
+    "latitude": "-2.28732",
+    "longitude": "137.054",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56995\nhttps://en.wikipedia.org/wiki/Baropasi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Jones:ECenderawasih**\n**hh:h:Sugono:Indonesia**\n**hh:hv:Voorhoeve:EBirdsHeadGeelvinkBay**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**\n**hh:w:LeRoux:Woordenlijsten**"
+  },
+  "altnames": {
+    "multitree": "\nBarapasi\nBaropasi",
+    "lexvo": "\nBarapasi [en]",
+    "hhbib_lgcode": "\nBarapassai-Siromi-Beriferi\nBarapassi\nBaropasi\nBaropasi (Ac)"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND cenderawasih"
+  },
+  "identifier": {
+    "multitree": "brp"
+  },
+  "classification": {
+    "sub": "**hh:h:Jones:ECenderawasih**",
+    "subrefs": "\n**hh:h:Jones:ECenderawasih**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Barapasi (brp-brp) = 6b (Threatened)."
+  }
+}

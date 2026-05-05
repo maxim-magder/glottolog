@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Shahrudi-Southern Talysh",
+    "hid": "shm",
+    "level": "language",
+    "iso639-3": "shm",
+    "latitude": "36.7581",
+    "longitude": "50.2074",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Koluri](https://wals.info/languoid/lect/wals_code_klr)\n[Talysh (Southern)](https://wals.info/languoid/lect/wals_code_tls)\nhttps://en.wikipedia.org/wiki/Shahrudi_language\nhttps://www.wikidata.org/entity/Q7462280"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:stilo:05**\n**hh:d:AmlashiGhulmani:Shali**\n**hh:g:Paul:Taleshi**\n**hh:hvld:Stilo:Tati**\n**hh:ld:Vardanian:Shahrud**\n**hh:s:Lazard:Masule**\n**hh:s:Nawata:Masal-Talishi**\n**hh:s:Yarshater:Shahrud**\n**hh:v:Stilo:Northern-Talyshi**\n**hh:w:Bazin:Talesi**"
+  },
+  "altnames": {
+    "wals": "\nKoluri",
+    "multitree": "\nIran\nShahrudi",
+    "lexvo": "\nShahrudi [en]",
+    "hhbib_lgcode": "\nKoluri\nMasal\nMasali\nMasule\nMâsule\nShahrudi\nShali\nSouthern Talysh",
+    "glottolog": "\nShahrudi"
+  },
+  "triggers": {
+    "lgcode": "\nkhalkhal\nshahrud"
+  },
+  "identifier": {
+    "wals": "klr",
+    "multitree": "shm"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Stilo:Tati**",
+    "subrefs": "\n**hh:hvld:Stilo:Tati**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tati (1495-avd, esh, goz, hrz, kgn, okh, rat, rdb, shm, tks, tov, vmh, xkj, xkc, xkp) = Definitely endangered"
+  }
+}

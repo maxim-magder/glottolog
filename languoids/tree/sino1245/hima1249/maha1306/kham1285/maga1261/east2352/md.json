@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Eastern Magar",
+    "hid": "mgp",
+    "level": "language",
+    "iso639-3": "mgp",
+    "latitude": "27.4135166667",
+    "longitude": "87.06171",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Magar](https://wals.info/languoid/lect/wals_code_mag)\nhttps://www.wikidata.org/entity/Q12952758"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:grierson:ed:95:12**\n**hh:e:Ghosal:Mangar**\n**hh:e:Rai:Marwaris-Sikkim**\n**hh:g:Grunow-Harsta:Magar**\n**hh:g:Subba:Magar**\n**hh:hvw:Grierson:3:I**\n**hh:hw:Hale:Nepal**\n**hh:s:Baskaran:Mangari**\n**hh:s:Beames:Magar**\n**hh:soc:Thakur:Magar-Dhut**\n**hh:t:ShepherdShepherd:Magar**\n**hh:typ:Nishi:Magaru**\n**hh:wsoc:Hilty:Eastern-Magar**\n**ldh:item_2152218**\n**ldh:item_2152221**\n**ldh:item_2152224**\n**ldh:item_408234**\n**mpieva:268**\n**sil16:10016**\n**sil16:12314**\n**sil16:12315**\n**sil16:16536**\n**sil16:24546**\n**sil16:26453**\n**sil16:26456**\n**sil16:41773**\n**sil16:48782**\n**sil16:48783**\n**sil16:48784**\n**sil16:48787**"
+  },
+  "altnames": {
+    "wals": "\nMagar",
+    "wals other": "\nE Magar\nE. Magar\nEastern Magar\nMagar (Tanahu)\nMagari",
+    "moseley & asher (1994)": "\nMagar",
+    "multitree": "\nMagar\nMagar (Eastern)\nMagar, Eastern\nMagar,Eastern\nMagari\nMagarkura\nMagarí\nMagarī\nMangari\nManggar\nMãgari",
+    "lexvo": "\nEastern Magar [en]\nMagar language [en]\nМаґар [uk]\nภาษามาคัร [th]\n马嘉尔语 [zh]",
+    "hhbib_lgcode": "\nDhankuta\nMagar\nMagar-Eastern\nMagari based on Beames\nMainly Rising (in Tanahu) dialect of Dhanbahadur collected in Poona/Kathmandu\nMangar in India\nMangari\nPanchthar\nSarlahi\nTanahu"
+  },
+  "triggers": {
+    "lgcode": "\nmangari\nmarwaris\nmangar\nphl\nkumari\nNOT languages AND magar"
+  },
+  "identifier": {
+    "wals": "mag",
+    "multitree": "mgp"
+  },
+  "classification": {
+    "sub": "**hh:g:Grunow-Harsta:Magar**",
+    "subrefs": "\n**hh:g:Grunow-Harsta:Magar**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Magar (1118-mgp, mrd) = Definitely endangered"
+  }
+}

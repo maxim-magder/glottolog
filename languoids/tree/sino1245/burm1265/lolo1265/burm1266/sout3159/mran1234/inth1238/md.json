@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Intha-Danu",
+    "hid": "int",
+    "level": "language",
+    "iso639-3": "int",
+    "latitude": "20.392",
+    "longitude": "96.9388",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6057507\nhttps://en.wikipedia.org/wiki/Intha-Danu_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:et:Bernot:Intha**\n**hh:he:Diran:Burma**\n**hh:hvw:Taylor:Burmese**\n**hh:phonvw:Naksuk:Intha**\n**hh:s:Okell:Burmese-Dialects**"
+  },
+  "altnames": {
+    "multitree": "\nInle, Intha\nInntha\nIntha",
+    "lexvo": "\nIntha [en]",
+    "hhbib_lgcode": "\nDanu lexically and\nIntha\nclose to Intha"
+  },
+  "triggers": {
+    "lgcode": "\nintha\nengsha"
+  },
+  "identifier": {
+    "multitree": "int"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Tibetan**:51-54 **hh:hv:Bradley:Tibeto-Burman:1997**:39-41",
+    "subrefs": "\n**hh:hv:Hill:Tibetan**\n**hh:hv:Bradley:Tibeto-Burman:1997**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Intha (int-int) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Bankon",
+    "hid": "abb",
+    "level": "language",
+    "iso639-3": "abb",
+    "latitude": "4.3702",
+    "longitude": "9.6403",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Bankon](https://endangeredlanguages.com/lang/5810)\n[Bankon](https://grambank.clld.org/languages/bank1256)\n[Bankon](https://wals.info/languoid/lect/wals_code_bnk)\nhttps://en.wikipedia.org/wiki/Bankon_language\nhttps://phoible.org/languages/bank1256\nhttps://www.wikidata.org/entity/Q34860"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:atindogbe:02**\n**cldf:atindogbe:07**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:fuller:nd**\n**cldf:guthrie:71:2**\n**cldf:ittmann:26**\n**cldf:johnston:19:23**\n**cldf:lamberty:02**\n**cldf:lewis:ed:09**\n**cldf:np:96:1**\n**cldf:spellenberg:22**\n**cldf:spellenberg:69**\n**eballiso2009:28707**\n**eballiso2009:36650**\n**eballiso2009:36652**\n**eballiso2009:36653**\n**eballiso2009:37064**\n**eballiso2009:3968**\n**eballiso2009:45252**\n**eballiso2009:52055**\n**eballiso2009:56594**\n**eballiso2009:59805**\n**eballiso2009:8934**\n**hh:g:Atindogbe:Bankon**\n**hh:g:Spellenberg:Bankon**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hv:Gerhardt:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:Atindogbe:Bankon**\n**hh:typ:Ndzie:Bankon**\n**hh:wsoc:Lamberty:Abo-Barombi**\n**mpieva:Spellenberg1969DieSprac**"
+  },
+  "altnames": {
+    "wals": "\nBankon",
+    "wals other": "\nBo",
+    "moseley & asher (1994)": "\nBankon",
+    "multitree": "\nAbaw\nAbo\nBankon\nBo\nBon",
+    "lexvo": "\nBankon [de]\nBankon language [en]",
+    "hhbib_lgcode": "\nA42_Abo\nBankong\nMankon",
+    "elcat": "\nAbaw\nAbo\nBankon\nBo\nBon"
+  },
+  "triggers": {
+    "lgcode": "\nbarombi\nprenasals\nbankon"
+  },
+  "identifier": {
+    "wals": "bnk",
+    "multitree": "abb",
+    "endangeredlanguages": "5810"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Lamberty:Abo-Barombi**",
+    "subrefs": "\n**hh:wsoc:Lamberty:Abo-Barombi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bankon (5810-abb) = Vulnerable (20 percent certain, based on the evidence available) [Lamberty 2002](cldf:lamberty:02)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Old Ossetic",
+    "hid": "oos",
+    "level": "language",
+    "iso639-3": "oos",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "UA"
+    ],
+    "longitude": "39.46",
+    "latitude": "48.48",
+    "links": "\nhttps://www.wikidata.org/entity/Q65455882",
+    "timespan": "-0400-01-01/0500-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:bld:Villani:Scythae**\n**hh:e:Melyukova:Scythians-Sarmatians**\n**hh:h:Bielmeier:Sarmatisch-Alanisch-Jassisch-Altossetisch**\n**hh:h:Rastorgueva:Vostocnoiranskie**\n**hh:ld:EngbergLubotsky:Alanic**\n**hh:ld:IvanovLubotsky:Alanic**\n**hh:vld:Kullanda:Scythian-External**\n**hh:vld:Kullanda:Skifskogo**\n**hh:vld:Kullanda:Skify**\n**hh:vld:Rona-Tas:West-Old-Turkic**\n**hh:w:Abaev:Skifo-Sarmatskie**\n**mpieva:Abaev1964Agrammat**"
+  },
+  "triggers": {
+    "lgcode": "\nosetinskogo\nskifo\nsarmatskie"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entries. One of them is Old Ossetic (**hh:h:Bielmeier:Sarmatisch-Alanisch-Jassisch-Altossetisch**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "oos"
+  },
+  "classification": {
+    "sub": "**hh:v:Kim:Ossetic**",
+    "subrefs": "\n**hh:v:Kim:Ossetic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Ossetic (oos-oos) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAlanian\nAlanic\nAlanisch\nAlanskij\nAltossetisch\nJassisch\nSarmatisch\nScythae\nScytho-Sarmatian\nSkifo-Sarmatski\nSkifskogo\nSkify"
+  }
+}

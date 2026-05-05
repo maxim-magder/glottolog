@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Waray Sorsogon",
+    "hid": "srv",
+    "level": "language",
+    "iso639-3": "srv",
+    "latitude": "12.6795",
+    "longitude": "124.015",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Southern_Sorsogon_language\nhttps://www.wikidata.org/entity/Q18755610"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Zorc:Bisayan**\n**hh:hwdial:McFarland:Bikol**\n**iso6393:2009-063**"
+  },
+  "altnames": {
+    "multitree": "\nBikol Sorsogon\nBisaya\nGubat\nSorsogon, Waray\nSouthern Sorsogon",
+    "lexvo": "\nSouthern Sorsoganon [en]",
+    "hhbib_lgcode": "\nGubat\nSorsoganon-Southern\nSouthern Sorsogon"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND bikol"
+  },
+  "identifier": {
+    "multitree": "srv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zorc:Bisayan**",
+    "subrefs": "\n**hh:hv:Zorc:Bisayan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sorsoganon, Southern (srv-srv) = 6a* (Vigorous)."
+  }
+}

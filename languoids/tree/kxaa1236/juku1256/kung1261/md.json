@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "North-Central Ju",
+    "hid": "knw",
+    "level": "language",
+    "iso639-3": "knw",
+    "latitude": "-21.92",
+    "longitude": "18.0",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "NA",
+      "ZA"
+    ],
+    "links": "\n[!Xun](https://endangeredlanguages.com/lang/3645)\nhttps://en.wikipedia.org/wiki/Ekoka_%C7%83Kung\nhttps://phoible.org/languages/kung1261\n[!Xun (Ekoka)](https://wals.info/languoid/lect/wals_code_xun)\nhttps://www.wikidata.org/entity/Q616533"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:biesele:11**\n**cldf:brenzinger:11**\n**cldf:chang-pei:45**\n**cldf:gueldemann:66**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**eballiso2009:16666**\n**eballiso2009:22164**\n**eballiso2009:33319**\n**eballiso2009:46819**\n**eballiso2009:47678**\n**eballiso2009:47679**\n**eballiso2009:47686**\n**eballiso2009:8363**\n**eballiso2009:9728**\n**hh:d:KonigHeine:Northwestern-Xun**\n**hh:dial:Dickens:Lloyd-Kun**\n**hh:e:Stutzriemer:Xun**\n**hh:e:Takada:Xun**\n**hh:e:TakadaMiyake:Xun**\n**hh:g:HeineKonig:Xun**\n**hh:g:KonigHeine:Xun**\n**hh:hv:Sands:Juu**\n**hh:hvw:Bleek:Bushman**\n**hh:ld:Harrison:Kalahari**\n**hh:phonw:Heikkinen:Xu**\n**hh:s:Heikkinen:Xu**\n**hh:t:Lloyd:Kun**\n**hh:typ:Lionnet:Demonstrative-Ju**\n**hh:w:Lebzelter:Kung**\n**mpieva:Snyman1970Anintrod**\n**sil16:26412**"
+  },
+  "altnames": {
+    "wals": "\n!Xun (Ekoka)",
+    "wals other": "\n!Khung\n!Xu\n!Xun",
+    "ruhlen (1987)": "\n!Khung",
+    "moseley & asher (1994)": "\n!Kung, Qxû",
+    "multitree": "\n!Hu\n!Khung\n!Ku\n!Kung\n!Xu\n!Xun\n!Xun (Ekoka)\n!Xung\nEkoka\nEkoka-!Xû\nKung\nKung-Ekoka\nQxü",
+    "lexvo": "\nKung-Ekoka [en]",
+    "hhbib_lgcode": "\n10 Ekoka !Xung;\n5 Lister farm/Epukiro Ju|'hoansi\n7 Okongo !Xung\n8 Mpunguvlei !Xung\n9 Ovambo !Xung\nEkoka !Xun\nJu|'hoan [ktz]; (NC): 6 Tsintsabis !Xung\nKensiw\nKung-Ekoka\nLloyd's !Kun is NC !Kun\nNIIb a dialect near Ukuambi in Ovamboland SWA by Lebzelter\nOvambo !Xu\nSem. Klapr.",
+    "elcat": "\n!Hu\n!Ku\n!Kung\n!Xu\n!Xun\n!Xun (Ekoka)\n!Xung\nEkoka\nEkoka-!Xû\nJu\nKung\nKung-Ekoka\nQxü !Khung"
+  },
+  "triggers": {
+    "lgcode": "\nekoka\nNOT story AND xun\nxuu\nxou\nomuramba\nkun\novamboland"
+  },
+  "identifier": {
+    "wals": "xun",
+    "multitree": "knw",
+    "endangeredlanguages": "3645"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sands:Juu**",
+    "subrefs": "\n**hh:hv:Sands:Juu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "!Xun (3645-knw) = Vulnerable (20 percent certain, based on the evidence available) [Brenzinger 2011](cldf:brenzinger:11)"
+  }
+}

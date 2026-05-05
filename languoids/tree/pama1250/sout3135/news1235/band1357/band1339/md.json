@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bandjalangic",
+    "level": "family",
+    "latitude": "-28.3458",
+    "longitude": "152.859",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Bandjalang](https://wals.info/languoid/lect/wals_code_bnj)\n[Bandjalang (Casino)](https://wals.info/languoid/lect/wals_code_bca)\n[Bandjalang (Waalubal)](https://wals.info/languoid/lect/wals_code_bwa)\n[Bandjalang (Yugumbir)](https://wals.info/languoid/lect/wals_code_byu)\n[Bundjalung](https://collection.aiatsis.gov.au/austlang/language/e12)\nhttps://en.wikipedia.org/wiki/Yugambeh%E2%80%93Bundjalung_languages\nhttps://www.wikidata.org/entity/Q2980386"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dahl:85**\n**cldf:fabricius:98**\n**cldf:lynch:98**\n**cldf:sharpe:99**\n**cldf:tryon:walsh:ed:97:2**\n**zurich:Fitzgerald1997-1**"
+  },
+  "altnames": {
+    "wals": "\nBandjalang\nBandjalang (Casino)\nBandjalang (Waalubal)\nBandjalang (Yugumbir)\nGidabal",
+    "wals other": "\nBandjalang (Yugambeh)\nBundjalung\nGidabul\nYugambeh",
+    "ruhlen (1987)": "\nBandjalang",
+    "moseley & asher (1994)": "\nBandjalang",
+    "multitree": "\nArakwal\nBadjalang\nBadjelang\nBandjalang\nBandjalong\nBandjelang\nBandjerang\nBanyalango\nBogganger\nBudulung\nBuggul\nBundala\nBundel\nBundela\nBundjalung\nBunjellung\nDadarawa\nGidabal\nGundurimba\nPaikalyung\nPangerang\nTugurimba\nWatchee\nWoomargou\nYugumbe",
+    "lexvo": "\nBandjalang [en]\nBandjalang jezik [hr]\nBandjalang language [en]\nLenga bandjalang [pms]",
+    "hhbib_lgcode": "\nAccording to Crowley (1978b: 159) this is a mixture of words from Yaygirr and Gumbaynggirr and various southern dialects of Bundjalung\nBandjalang\nCoomera\nManandjali\nMibiny Bandjalang\nMinjungbal\nMinyungbal\nWangerriburra\nYugambeh\nYugambeh-Bundjalung\nYugumbeh\nYugumbir",
+    "aiatsis": "\nArakwal\nBadjalang\nBadjelang\nBadjulung\nBandjalang\nBandjalong\nBandjalung\nBandjelang\nBandyalang\nBanjalang\nBirihn\nBundjalung\nBunjalung\nDinggabal\nGeinyan\nGidabal\nJukambal\nJukambe\nKalibal\nKeinjun\nKitabal\nMinjunbal\nNgarahgwal\nNyangbal\nWahlubal\nWidjubal\nWiyabal\nWudjehbal\nWuhyebal\nYugambeh"
+  },
+  "triggers": {
+    "lgcode": "\nnerang\nmurre\nwangerriburra\nlismore\nbandjalang\nminyug\ngidabul\ngidabal\nclarence\nyugambeh\nbundjalung\nnarboo\nsuttor\nbanjalang\nballina"
+  },
+  "identifier": {
+    "wals": "bnj;gid;bca;byu;bwa",
+    "multitree": "bdy",
+    "endangeredlanguages": "3897"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Jefferies:Guwar** **hh:g:Crowley:Bandjalang**:143-171",
+    "subrefs": "\n**hh:hvw:Jefferies:Guwar**\n**hh:g:Crowley:Bandjalang**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Bandjalang (3897-bdy) = Severely Endangered (40 percent certain, based on the evidence available)"
+  }
+}

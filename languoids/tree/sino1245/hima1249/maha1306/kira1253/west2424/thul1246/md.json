@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Thulung",
+    "hid": "tdh",
+    "level": "language",
+    "iso639-3": "tdh",
+    "latitude": "27.5389",
+    "longitude": "87.6063",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Kiranti_Thulung](https://lexibank.clld.org/languages/sagartst-Thulung)\n[Thulung](https://endangeredlanguages.com/lang/5101)\n[Thulung](https://grambank.clld.org/languages/thul1246)\n[Thulung](https://wals.info/languoid/lect/wals_code_thu)\nhttps://en.wikipedia.org/wiki/Thulung_language\nhttps://phoible.org/languages/thul1246\nhttps://www.wikidata.org/entity/Q56553"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:bradley:ed:03:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gaenszle:66**\n**cldf:lahaussois:04**\n**cldf:lahaussois:nd**\n**cldf:lewis:ed:09**\n**cldf:np:12:8**\n**cldf:np:nd:264**\n**hh:b:Clark:Nepali-Pahari**\n**hh:g:Lahaussois:Thulung**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Toba:Northern-Rai**\n**hh:hvw:Grierson:3:I**\n**hh:s:Lahaussois:ThulungRai**\n**hh:std:Allen:Thulung**\n**hh:ttyp:EbertGaenszle:Rai**\n**hh:typ:Nishi:Turun**\n**hh:vsoc:Sapkota:Thulung**\n**hh:w:Wolfenden:Thulung**\n**mpieva:268**\n**sil16:41773**\n**sil16:42071**\n**sil16:43156**\n**sil16:48785**\n**sil16:48786**\n**sil16:48788**"
+  },
+  "altnames": {
+    "wals": "\nThulung",
+    "moseley & asher (1994)": "\nThulung",
+    "multitree": "\nRai\nTholong Lo\nThulu Luwa\nThululoa\nThulung\nThulung Jemu\nThulung La\nThulunge Rai\nThulungo\nToaku Lwa",
+    "lexvo": "\nThulung [en]\nThulung language [en]\nThulungish [gv]\nTouloungeg [br]\nТхулунґ [uk]\nภาษาทูลุง [th]",
+    "elcat": "\nRai\nTholong Lo\nThulu Luwa\nThululoa\nThulung\nThulung Jemu\nThulung La\nThulunge Rai\nToaku Lwa",
+    "hhbib_lgcode": "\nThulung Rai"
+  },
+  "triggers": {
+    "lgcode": "\nlstalo\nryaktolo\nthulung\nebert\nraksi"
+  },
+  "identifier": {
+    "wals": "thu",
+    "multitree": "tdh",
+    "endangeredlanguages": "5101"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:62",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Thulung (5101-tdh) = Severely Endangered (100 percent certain, based on the evidence available) (Education, economy, and inter-marriage are main reasons why Thulung is not passed down.) [Lahaussois 2002](cldf:lahaussois:02:1)"
+  }
+}

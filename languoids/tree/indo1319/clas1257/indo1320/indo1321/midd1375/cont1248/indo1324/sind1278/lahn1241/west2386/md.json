@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Western Panjabi",
+    "hid": "pnb",
+    "level": "language",
+    "iso639-3": "pnb",
+    "latitude": "30.0948",
+    "longitude": "75.3474",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\n[Western Panjabi](https://grambank.clld.org/languages/west2386)\nhttps://www.wikidata.org/entity/Q1334774"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:callard:wheeler:63**\n**cldf:dass:54**\n**cldf:eglar:57**\n**cldf:honigmann:57**\n**cldf:honigmann:58**\n**cldf:kennedy:57**\n**cldf:palmer:61**\n**cldf:symonds:50**\n**cldf:wilbur:64**\n**hh:d:Jukes:Jatki**\n**hh:g:Rashid:Sheikha-Gal**\n**hh:h:Hameed:Watals**\n**hh:hvw:Grierson:8:I**\n**hh:ld:Kak:Watali-Phonological**\n**hh:ld:KakPanzoo:Sheikhgal**\n**hh:ld:Safdar:Sheikha-Gal**\n**hh:phon:Sheikh:Sheikha-Gal**\n**hh:phon:Varma:Lahnda**\n**hh:s:Bailey:Panjabi**\n**hh:soc:Kak:Watals**\n**hh:soc:Mullick:Sheikhs**\n**hh:soc:Safdar:Watali**\n**hh:std:Wilson:Western-Panjabi**\n**hh:typsoc:Mullick:Sheikhgal**\n**hh:vw:HasanKhan:Dhani-Majhi**\n**hh:w:Leitner:Changars**\n**iso6393:2020-019**\n**sil16:32846**"
+  },
+  "altnames": {
+    "multitree": "\nHindki\nLahanda\nLahnda\nLahndi\nPandschabi\nPanjabi, Western\nStandard Lahnda\nWestern Panjabi\nWestern Punjabi",
+    "lexvo": "\nJęzyk lahnda [pl]\nLenga panjabi ossidental [pms]\nLingua Panjabica occidentalis [la]\nWestern Panjabi [en]\nWestern Panjabi language [en]",
+    "hhbib_lgcode": "\nChangar\nChubne\nDhani\nDhanni\nJangli of Lyallpur\nJatki and Derawal of Dera Ismail Khan\nJatki of Dera Ghazi Khan\nKachhri of Jhang\nKahuni Lahnda\nLahnda Salt Range\nLahnda of Gujranwala\nLahnda of Gujrat\nLahnda of Jhang and Lyallpur\nLahnda of Montgomery\nLahnda of Shahpur\nLahndi\nNiswami of Jhang\nPanjabi of Western Lahore\nPanjabi-Lahore\nPanjabi-Western\nPunjabi-Western\nShahpuri standard\nSheikha Gal\nSheikhgal\nShupir Sheikh Sheikha Gal in Tujgari Mohalla Nowhatta in Srinagar\nShupir Sheikh Sheikha Gal in Tujgari Mohalla Nowhatta in Srinagar=\nWazirabadi\nlikely an ofuscated Panjabi lect (thanks Robert Tegethoff)"
+  },
+  "triggers": {
+    "lgcode": "\nlahnda\nlendi\nwazirabad"
+  },
+  "identifier": {
+    "multitree": "pnb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Kogan:New-Indo-Aryan**:236 **hh:hsoc:Rensch:Hindko**:9-10",
+    "subrefs": "\n**hh:hsoc:Rensch:Hindko**\n**hh:hvw:Kogan:New-Indo-Aryan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Punjabi, Western (pnb-pnb) = 5 (Developing)."
+  }
+}

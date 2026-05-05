@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southeastern Tarahumara",
+    "hid": "tcu",
+    "level": "language",
+    "iso639-3": "tcu",
+    "latitude": "26.7282",
+    "longitude": "-106.706",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Tarahumara](https://endangeredlanguages.com/lang/3453)\nhttps://www.wikidata.org/entity/Q57419690"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Villalpando:Tarahumara-Turuachi**\n**hh:hdial:Eglandetal:Mexico**\n**hh:hvld:Valinas:Guazapar**\n**hh:vphon:Lionnet:Tarahumar**\n**hh:wsoc:Valinas:Tarahumara**"
+  },
+  "altnames": {
+    "multitree": "\nCentral\nSamachique\nTarahumara\nTarahumara de Chinatú\nTarahumara del Sureste\nTarahumara du sud-est\nTarahumara suroriental\nTarahumara, Southeastern\nTaraumara\nVorohio",
+    "lexvo": "\nSoutheastern Tarahumara [en]",
+    "hhbib_lgcode": "\nChinatú\nTarahumar Sur\nTarahumara Sur\nTarahumara-Southeastern\nTuruachi",
+    "elcat": "\nRocoroibo\nSouth-western\nSouthwestern\nTarahumara\nTarahumara del Suroeste\nTaraumara\nTubare\nVorohio"
+  },
+  "triggers": {
+    "lgcode": "\ntarahumares"
+  },
+  "identifier": {
+    "multitree": "tcu",
+    "endangeredlanguages": "3453"
+  },
+  "classification": {
+    "sub": "**hh:h:Caballero:Tarahumara** **hh:g:Villalpando:Tarahumara-Turuachi**:18-28",
+    "subrefs": "\n**hh:g:Villalpando:Tarahumara-Turuachi**\n**hh:h:Caballero:Tarahumara**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tarahumara (3453) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

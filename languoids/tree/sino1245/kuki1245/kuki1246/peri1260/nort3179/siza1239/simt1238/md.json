@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Simte",
+    "hid": "smt",
+    "level": "language",
+    "iso639-3": "smt",
+    "latitude": "24.5444",
+    "longitude": "93.3265",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Simte](https://endangeredlanguages.com/lang/5692)\nhttps://www.wikidata.org/entity/Q7521268\nhttps://en.wikipedia.org/wiki/Simte_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bradley:Tibeto-Burman**:90",
+    "subrefs": "\n**hh:hv:Bradley:Tibeto-Burman**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**hh:g:Singh:Simte**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:s:Singh:Simte**\n**hh:w:Kumar:Simte**"
+  },
+  "altnames": {
+    "multitree": "\nIndia\nSimte",
+    "lexvo": "\nSimte [en]",
+    "elcat": "\nSimte"
+  },
+  "triggers": {
+    "lgcode": "\nsimte"
+  },
+  "identifier": {
+    "multitree": "smt",
+    "endangeredlanguages": "5692"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Simte (5692-smt) = Threatened (20 percent certain, based on the evidence available) [Anderson 2012](cldf:anderson:12)"
+  }
+}

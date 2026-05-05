@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Balinese",
+    "hid": "ban",
+    "level": "language",
+    "iso639-3": "ban",
+    "latitude": "-8.35714",
+    "longitude": "115.075",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Balinese](https://grambank.clld.org/languages/bali1278)\n[Balinese](https://wals.info/languoid/lect/wals_code_bal)\nhttps://en.wikipedia.org/wiki/Balinese_language\nhttps://phoible.org/languages/bali1278\nhttps://www.wikidata.org/entity/Q33070"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adams:hudak:ed:96:13**\n**cldf:artawa:66**\n**cldf:artawa:98**\n**cldf:artawa:blake:97**\n**cldf:barber:79**\n**cldf:belo:36**\n**cldf:belo:70**\n**cldf:bhaskararao:ed:04:11**\n**cldf:chelliah:dereuse:ed:97:9**\n**cldf:clynes:95:1**\n**cldf:clynes:97**\n**cldf:covarrubias:37**\n**cldf:franken:goris:etal:60**\n**cldf:geertz:59:1**\n**cldf:geertz:59:2**\n**cldf:geertz:63**\n**cldf:geertz:67**\n**cldf:geertz:geertz:59**\n**cldf:grant:64**\n**cldf:kahin:63**\n**cldf:kroeger:04**\n**cldf:mead:macgregor:51**\n**cldf:sugiarto:93**\n**cldf:ward:73**\n**hh:d:Denes:Bali**\n**hh:d:Granoka:Bali-Kuno**\n**hh:dial:Bawa:Bali**\n**hh:g:Barber:Balinese**\n**hh:g:Clynes:Balinese**\n**hh:g:KesimanMalherbe:Balinais**\n**hh:s:Bawa:Bali**\n**hh:s:Denes:Bali-Aga**\n**hh:s:Kersten:Bali**\n**hh:s:Kersten:Balische**\n**hh:s:Oka:Bali**\n**hh:s:Spitzing:Balinese**\n**hh:ssoc:Hunter:Balinese**\n**hh:typ:Arka:Balinese**\n**hh:typ:WechslerArka:Balinese**\n**hh:w:Clynes:Balinese**\n**mpieva:Arka2003Balinese**\n**mpieva:Ward1973Phonolog**\n**sil16:35057**\n**sil16:49795**"
+  },
+  "altnames": {
+    "wals": "\nBalinese",
+    "wals other": "\nBali",
+    "ruhlen (1987)": "\nBalinese",
+    "moseley & asher (1994)": "\nBali",
+    "multitree": "\nBali\nBalinese\nBalinesisch\nMadura-Bali",
+    "lexvo": "\nBahasa Bali [id]\nBalia lingvo [eo]\nBalijski jezik [hr]\nBalin kieli [fi]\nBalinais [fr]\nBalinees [nl]\nBalinese [en]\nBalinese language [en]\nBalinesische Sprache [de]\nBalinesisk [no]\nBalinesiska [sv]\nBalinès [ca]\nBasa Bali [jv]\nJęzyk balijski [pl]\nLenga Malay, Balinese [pms]\nLingua balinese [it]\nLíngua balinesa [pt]\nbalinais [fr]\nБалийский язык [ru]\nबहासा बाली [hi]\nภาษาบาหลี [th]\nバリ語 [ja]",
+    "hhbib_lgcode": "\nBali\nKali Kuno\nOld Balinese\nSingaraja"
+  },
+  "triggers": {
+    "lgcode": "\nbalinese\nbalinais\nbalische\nlumrah"
+  },
+  "identifier": {
+    "wals": "bal",
+    "multitree": "ban"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blust:NBorneo**:80-91 **hh:hv:Adelaar:Malayo-Sumbawan**",
+    "subrefs": "\n**hh:hv:Blust:NBorneo**\n**hh:hv:Adelaar:Malayo-Sumbawan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bali (ban-ban) = 5 (Developing)."
+  }
+}

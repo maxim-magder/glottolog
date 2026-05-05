@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sirva",
+    "hid": "sbq",
+    "level": "language",
+    "iso639-3": "sbq",
+    "latitude": "-4.98243",
+    "longitude": "145.225",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sileibi](https://lexibank.clld.org/languages/transnewguineaorg-sileibi)\n[Sirva](https://endangeredlanguages.com/lang/10329)\n[Sirva](https://grambank.clld.org/languages/sile1255)\n[sileibi](https://lexibank.clld.org/languages/zgraggenmadang-sileibi)\nhttps://en.wikipedia.org/wiki/Sirva_language\nhttps://www.wikidata.org/entity/Q7514337"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1536**\n**cldf:daniels:14**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:np:15:2**\n**cldf:np:nd:264**\n**hh:hb:Zgraggen:Madang**\n**hh:hv:Daniels:Sogeram**\n**hh:hv:Daniels:Sogeram:2020**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:SAdelbert**\n**hh:s:Daniels:Sirva**"
+  },
+  "altnames": {
+    "multitree": "\nSileibi",
+    "lexvo": "\nSileibi [en]",
+    "hhbib_lgcode": "\nSileibi",
+    "elcat": "\nSileibi\nSirva"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "identifier": {
+    "multitree": "sbq",
+    "endangeredlanguages": "10329"
+  },
+  "classification": {
+    "sub": "**hh:hv:Daniels:Sogeram:2015**",
+    "subrefs": "\n**hh:hv:Daniels:Sogeram:2015**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sirva (10329-sbq) = Endangered (60 percent certain, based on the evidence available) [Daniels 2014](cldf:daniels:14)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Taliabu",
+    "hid": "tlv",
+    "level": "language",
+    "iso639-3": "tlv",
+    "latitude": "-1.79516",
+    "longitude": "124.869",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fortgens:21**\n**hh:e:vanHulstijn:Soela**\n**hh:hv:Collins:Maluku**\n**hh:hv:Collins:WCMaluku**\n**hh:lde:Fortgens:Taliabo**\n**hh:s:Fortgens:Sobojo**\n**hh:v:Collins:Taliabo**\n**hh:w:Fortgens:Woordenlijst-Taliaboe**\n**hh:w:StokhofSaleh-Bronkhorst:Holle:2**"
+  },
+  "altnames": {
+    "multitree": "\nTaliabo\nTaliabu",
+    "lexvo": "\nTaliabu [en]",
+    "hhbib_lgcode": "\nSobojo\nTaliabo"
+  },
+  "triggers": {
+    "lgcode": "\nsoela\nsoelagroep\ntaliaboe\ntaliabo\nsobojo"
+  },
+  "identifier": {
+    "multitree": "tlv"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:345-368",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Taliabu (tlv-tlv) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kare (Central African Republic)",
+    "hid": "kbn",
+    "level": "language",
+    "iso639-3": "kbn",
+    "latitude": "7.05641",
+    "longitude": "15.2207",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "CM"
+    ],
+    "links": "\n[Kare (Central African Republic)](https://grambank.clld.org/languages/kare1338)\nhttps://en.wikipedia.org/wiki/Kare_language_(Adamawa)\nhttps://phoible.org/languages/kare1338\nhttps://www.wikidata.org/entity/Q35554"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3086**\n**hh:g:Lim:Kare**\n**hh:hvw:Boyd:Adamawa**\n**hh:hw:Mouchet:15**\n**hh:phon:Lim:Kare**\n**hh:phon:Meguieng:Kari**\n**hh:typ:VoeltzLim:Labi-Kare**\n**hh:w:Junker:Centralafrikanischer**"
+  },
+  "altnames": {
+    "multitree": "\nKali\nKare\nKari\nKarré\nKerɛ",
+    "lexvo": "\nKare (Central African Republic) [en]\nKare [en]",
+    "hhbib_lgcode": "\nA-Kahle (westliche) has resemblances and divergences with Dijkman's Kare\nAmbango Apia has resemblances and divergences with Dijkman's Kare\nAmbango has resemblances and divergences with Dijkman's Kare\nKali\nKare\nKari"
+  },
+  "triggers": {
+    "lgcode": "\nbo{do{\nopgenomen"
+  },
+  "identifier": {
+    "multitree": "kbn"
+  },
+  "classification": {
+    "sub": "**hh:ld:Samarin:Sango**:33",
+    "subrefs": "\n**hh:ld:Samarin:Sango**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kare (kbn-kbn) = 5* (Developing)."
+  }
+}

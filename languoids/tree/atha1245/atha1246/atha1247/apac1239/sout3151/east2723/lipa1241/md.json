@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Lipan Apache",
+    "hid": "apl",
+    "level": "language",
+    "iso639-3": "apl",
+    "latitude": "29.93117",
+    "longitude": "-98.94286",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Lipan](https://endangeredlanguages.com/lang/654)\nhttps://www.wikidata.org/entity/Q28269\nhttps://en.wikipedia.org/wiki/Lipan_language",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3707**\n**cldf:basehart:72:1**\n**cldf:ed:10**\n**cldf:gifford:40**\n**cldf:gohre:nd**\n**cldf:golla:goddard:etal:08**\n**cldf:hrdlicka:09**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:opler:36:4**\n**cldf:opler:40:1**\n**cldf:opler:45**\n**cldf:sjoberg:53**\n**cldf:swanton:52**\n**hh:e:Opler:Lipan-Apache**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:he:Maestas:STexas**\n**hh:t:Goddard:White-Mountain-Apache**\n**hh:w:BerlandierChowell:STexas**"
+  },
+  "altnames": {
+    "multitree": "\nApache\nApache, Lipan\nEastern Apache\nLipan\nLipán",
+    "lexvo": "\nLipan Apache [en]\nLipan language [en]\nЛипан [ru]",
+    "hhbib_lgcode": "\nApache-Lipan\nLipans",
+    "elcat": "\nApache\nEastern Apache\nLipan\nLipan Apache"
+  },
+  "triggers": {
+    "lgcode": "\nwhite AND texts AND apache"
+  },
+  "identifier": {
+    "multitree": "apl",
+    "endangeredlanguages": "654"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hoijer:Apachean-Athapaskan**",
+    "subrefs": "\n**hh:hv:Hoijer:Apachean-Athapaskan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lipan (654-apl) = Awakening [Gohre n.d.](cldf:gohre:nd)"
+  }
+}

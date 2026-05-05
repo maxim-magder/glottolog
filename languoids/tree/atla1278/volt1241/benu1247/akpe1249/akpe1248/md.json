@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Akpes",
+    "hid": "ibe",
+    "level": "language",
+    "iso639-3": "ibe",
+    "latitude": "7.50256",
+    "longitude": "5.95559",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35457\nhttps://en.wikipedia.org/wiki/Akpes_language\nhttps://phoible.org/languages/akpe1248"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Akpes** **hh:hv:Elugbe:Akpes-AIKA** **hh:v:Elugbe:Akedoid**",
+    "subrefs": "\n**hh:v:Elugbe:Akedoid**\n**hh:hv:Blench:Akpes**\n**hh:hv:Elugbe:Akpes-AIKA**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2265**\n**eballiso2009:11646**\n**eballiso2009:31949**\n**eballiso2009:50952**\n**eballiso2009:55694**\n**eballiso2009:9221**\n**hh:g:Lau:Abesabesi**\n**hh:hv:Ibrahim-Arirabiyi:Akpes**\n**hh:hv:Williamson:Benue-Congo**\n**hh:ld:Maduagwu:Ikaram**\n**hh:ld:Oyebade:Edoid-Akoid-Akpes-Nupoid-Yoruboid**\n**hh:phon:Agoyi:Abesabesi**\n**hh:phon:Agoyi:Abesabesi:2010**\n**hh:phon:Agoyi:Abesabesi:2012**\n**hh:phon:Ayoola:Daja**\n**hh:phon:Raji:Ikaramu**\n**hh:vld:Agoyi:Abesabesi:2013**\n**hh:vwld:Agoyi:Ekiromi**\n**hh:vwld:Agoyi:Ekiromi:1997**\n**mpieva:BendorSamuel1989TheNiger**"
+  },
+  "altnames": {
+    "multitree": "\nAkpes\nIbaram-Efifa",
+    "lexvo": "\nAkpes [en]\nAkpes jezici [hr]\nAkpes language [en]\nAkpeseg [br]\nLenga Akpes [pms]\nLingua akpes [gl]",
+    "hhbib_lgcode": "\nDaja\nEkirom\nEkiromi\nIkaram\nIkaramu"
+  },
+  "triggers": {
+    "lgcode": "\ndaja\nabesabesi\nekiromi\nakunnu\nikaramu\nakpes\nondo"
+  },
+  "identifier": {
+    "multitree": "ibe;akps"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Ikorom (8194-ibe-iko) = Threatened (20 percent certain, based on the evidence available)"
+  }
+}

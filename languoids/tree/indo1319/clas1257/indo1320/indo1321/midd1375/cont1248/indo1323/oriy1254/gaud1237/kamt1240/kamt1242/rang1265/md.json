@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Central-Eastern Kamta",
+    "hid": "rkt",
+    "level": "language",
+    "iso639-3": "rkt",
+    "latitude": "26.3834",
+    "longitude": "88.4536",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3241618\nhttps://en.wikipedia.org/wiki/Rangpuri_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Grierson:5:I**\n**hh:hvw:Toulmin:Bangla**\n**hh:hvw:Toulmin:Kamta**\n**hh:s:Ali:Goalpariya**\n**hh:s:Chaudhuri:Rangpur**\n**hh:s:Chowdhury:Goalpariya**\n**hh:s:Das:Goalpara-Kamrup**\n**hh:ssoc:Sultan:Char**\n**iso6393:2007-008**"
+  },
+  "altnames": {
+    "multitree": "\nAnchalit Bangla\nBahe Bangla\nGoalparia\nKamta\nKamtapuri\nKoch Rajbanshi\nPolia\nRajbangsi\nRajbanshi\nRajbansi\nRajbongshi\nRangpuri",
+    "lexvo": "\nKamta [en]\nRangpuri [en]",
+    "hhbib_lgcode": "\nBhatibari BH\nBongaigaon BN\nCarua\nCaruwa\nGhullia\nGhulliya\nGoalpariya\nJharua\nJharuwa\nRajbangsi Bahe\nRajbangsi Rangpur\nRajbongshi\nRangpur RP\nRangpuri\nShalkumar SH\nThakurgaon TH",
+    "glottolog": "\nRangpuri"
+  },
+  "triggers": {
+    "lgcode": "\nsketch AND rajbanshi\ngoalpariya\nrangpur"
+  },
+  "identifier": {
+    "multitree": "rkt"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Toulmin:Bangla**",
+    "subrefs": "\n**hh:hvw:Toulmin:Bangla**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rangpuri (rkt-rkt) = 5 (Developing). Used in the market and for commerce, media, and travel by nearly all minority language speakers in the greater Rangpur-Dinajpur area. Rangpuri has reportedly been spoken in the area for centuries."
+  }
+}

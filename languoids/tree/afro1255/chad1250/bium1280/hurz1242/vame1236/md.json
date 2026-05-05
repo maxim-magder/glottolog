@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Vame",
+    "hid": "mlr",
+    "level": "language",
+    "iso639-3": "mlr",
+    "latitude": "10.9481",
+    "longitude": "14.2131",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3515088\nhttps://en.wikipedia.org/wiki/Vame_language\nhttps://phoible.org/languages/vame1236"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:38747**\n**eballiso2009:6487**\n**hh:e:Mouchet:Hurza**\n**hh:e:Nyssens:Vame**\n**hh:hv:Barreteau:NCameroun**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hvphon:Rossing:Mafa-Mada**\n**hh:hvw:Colombel:Nord-Cameroun**\n**hh:phon:Kinnaird:Plata-Vame**\n**hh:soc:Grant:Pelasla**\n**hh:typ:Kinnaird:Vame**"
+  },
+  "altnames": {
+    "multitree": "\nHurza\nHurza-Vame\nMaslava\nNdreme\nPelasla\nVame",
+    "lexvo": "\nVame [en]\nVame language [en]",
+    "hhbib_lgcode": "\nHurza\nNdreme-Mbərem-Dəmwa-Pəlasla-Hurza\nOurzo\nPelasla\nPlata\nPəlasla"
+  },
+  "triggers": {
+    "lgcode": "\nplasla\nvame"
+  },
+  "identifier": {
+    "multitree": "mlr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:45, 50",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vame (mlr-mlr) = 5 (Developing)."
+  }
+}

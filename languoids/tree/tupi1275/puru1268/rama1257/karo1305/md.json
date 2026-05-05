@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Karo (Brazil)",
+    "hid": "arr",
+    "level": "language",
+    "iso639-3": "arr",
+    "latitude": "-10.3342",
+    "longitude": "-61.5691",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Karo (Brazil)](https://endangeredlanguages.com/lang/1368)\nhttps://www.wikidata.org/entity/Q35539\nhttps://en.wikipedia.org/wiki/Ramarama_language\n[Karó (Arára)](https://wals.info/languoid/lect/wals_code_kaa)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:gabas:jr:etal:89**\n**cldf:gabas:jr:etal:98**\n**cldf:gabasjr:04**\n**cldf:np:25**\n**cldf:np:32:2**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Tupi77**\n**fabreall2009ann:Tupi_arara00**\n**fabreall2009ann:Tupi_arara01**\n**fabreall2009ann:Tupi_arara02**\n**fabreall2009ann:Tupi_arara03**\n**fabreall2009ann:Tupi_arara05**\n**fabreall2009ann:Tupi_arara06**\n**fabreall2009ann:Tupi_arara07**\n**fabreall2009ann:Tupi_arara08**\n**fabreall2009ann:Tupi_arara09**\n**fabreall2009ann:Tupi_arara12**\n**fabreall2009ann:Tupi_arara13**\n**fabreall2009ann:Tupi_arara14**\n**fabreall2009ann:Tupi_arara15**\n**fabreall2009ann:Tupi_arara16**\n**fabreall2009ann:Tupi_itogapuk1**\n**fabreall2009ann:Tupi_itogapuk2**\n**hh:ew:Barbosa:Anari-Machadinho**\n**hh:g:Gabas:Karo**\n**hh:h:MeirellesMeirelles:Rondonia**\n**hh:hew:Hugo:Desbravadores**\n**hh:hv:Gabas:Ramarama**\n**hh:hw:Nimuendaju:Icana**\n**hh:hw:Nimuendaju:Madeira**\n**hh:phon:Gabas:Karo**\n**hh:phon:Gabas:Karo:1998**\n**hh:w:Levi-Strauss:Rama-Rama**\n**hh:w:Monserrat:Amondawa**\n**hh:w:Schultz:Uruku**\n**sil16:47808**"
+  },
+  "altnames": {
+    "wals": "\nKaró (Arára)",
+    "moseley & asher (1994)": "\nArara (Tupi)",
+    "multitree": "\nArara\nArara Urukú\nArara-Karo\nArara-Urukú\nArra (Rondonia)\nArára\nArára do Jiparaná\nItanga\nItogapuc\nItogapuk\nItogapúk\nKaro\nKaró (Arára)\nKáro\nNtogapid\nNtogapig\nRamarama\nUruku\nUrukú",
+    "lexvo": "\nKaro (Brazil) [en]\nKaro [en]",
+    "hhbib_lgcode": "\nArara\nItogapig\nItogapuk\nKaro\nKaro (Brazil) despite it being called Urumi\nNtogapid\nP 36 vocabulary of Itangá of the Machadinho\nUrukú\nUrumí is here",
+    "elcat": "\nArara\nKaro (Brazil)\nKáro\nUrukú"
+  },
+  "triggers": {
+    "lgcode": "\nuruku\nlingua AND karo\nevidenciais\nramarama\nlourdes\nreassentamento"
+  },
+  "identifier": {
+    "wals": "kaa",
+    "multitree": "arr",
+    "endangeredlanguages": "1368"
+  },
+  "classification": {
+    "sub": "**hh:hv:EriksenVilacy:Tupian**",
+    "subrefs": "\n**hh:hv:EriksenVilacy:Tupian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Karo (Brazil) (1368-arr) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Thuri",
+    "hid": "thu",
+    "level": "language",
+    "iso639-3": "thu",
+    "latitude": "8.72567",
+    "longitude": "26.4858",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7799291\nhttps://en.wikipedia.org/wiki/Thuri_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Santandrea:Luo-Luel**\n**hh:e:Santandrea:Shilluk**\n**hh:h:Gilley:Lwoian**\n**hh:he:Butt:Nilotes**\n**hh:he:Madut:Luo-South-Sudan**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "altnames": {
+    "multitree": "\nDhe Thuri\nJo Thuri\nShatt\nThuri\nWada Thuri",
+    "lexvo": "\nThuri [en]",
+    "hhbib_lgcode": "\nBodho\nBwodho\nDembo\nShatt\nShatt (Thuri)\nThuri (Chatt)"
+  },
+  "triggers": {
+    "lgcode": "\nlwoian"
+  },
+  "identifier": {
+    "multitree": "thur;thu"
+  },
+  "classification": {
+    "sub": "**hh:h:Gilley:Lwoian**:165-166",
+    "subrefs": "\n**hh:h:Gilley:Lwoian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Thuri (57-thu) = Vulnerable"
+  }
+}

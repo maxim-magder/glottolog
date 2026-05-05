@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kendeje",
+    "hid": "klf",
+    "level": "language",
+    "iso639-3": "klf",
+    "latitude": "13.24447",
+    "longitude": "21.53955",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Kendeje](https://endangeredlanguages.com/lang/573)\nhttps://en.wikipedia.org/wiki/Kendeje_language\nhttps://www.wikidata.org/entity/Q56895"
+  },
+  "classification": {
+    "sub": "**hh:soc:Maassetal:Kendedje**",
+    "subrefs": "\n**hh:soc:Maassetal:Kendedje**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:ed:10**\n**hh:soc:Maassetal:Kendedje**"
+  },
+  "altnames": {
+    "multitree": "\nKedendje\nKendeje\nKendeye\nYaali",
+    "lexvo": "\nKendeje [en]",
+    "hhbib_lgcode": "\nKendedje",
+    "elcat": "\nKendeje\nKindeje\nYaali"
+  },
+  "triggers": {
+    "lgcode": "\nkendedje"
+  },
+  "identifier": {
+    "multitree": "klf",
+    "endangeredlanguages": "573"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kendeje (573-klf) = Endangered (40 percent certain, based on the evidence available) ([Used] only in the home) [Connell 2007](cldf:connell:07:1)"
+  }
+}

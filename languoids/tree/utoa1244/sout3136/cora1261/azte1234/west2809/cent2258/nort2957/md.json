@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Northern Puebla Nahuatl",
+    "hid": "ncj",
+    "level": "language",
+    "iso639-3": "ncj",
+    "latitude": "20.1356",
+    "longitude": "-97.9814",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Nahuatl (Huauchinango)](https://wals.info/languoid/lect/wals_code_nhu)\n[Nahuatl (North Puebla)](https://wals.info/languoid/lect/wals_code_nhn)\n[Northern Puebla Nahuatl](https://grambank.clld.org/languages/nort2957)\nhttps://phoible.org/languages/nort2957\nhttps://www.wikidata.org/entity/Q2262283"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brockway:63**\n**cldf:brockway:debrockway:etal:00**\n**cldf:brockway:nd**\n**cldf:hill:hill:04**\n**hh:d:Santos:Nahuatl-Norte-Puebla**\n**hh:hvw:Hertle:Puebla-Tlaxcala**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:s:Brockway:NPuebla**\n**hh:sd:Brockway:Nahuatl-Norte-Puebla:2018**\n**mpieva:Brockway2000Dicciona**\n**sil16:10332**\n**sil16:10333**\n**sil16:10334**\n**sil16:15223**\n**sil16:22119**"
+  },
+  "altnames": {
+    "wals": "\nNahuatl (North Puebla)",
+    "wals other": "\nN Puebla Nahuatl\nN. Puebla Nahuatl\nNorth Puebla Aztec\nNorth Puebla Nahuatl\nNorth Puebla Sierra Nahuatl",
+    "ruhlen (1987)": "\nNawa",
+    "moseley & asher (1994)": "\nNahuatl",
+    "multitree": "\nMexicano\nNahuatl\nNahuatl (North Puebla)\nNahuatl (Puebla Norte)\nNahuatl, Northern Puebla\nNorth Puebla Aztec\nNorthern Nahuatl\nNorthern Nawa\nNáhuatl del Norte de Puebla",
+    "lexvo": "\nNorthern Puebla Nahuatl [en]",
+    "hhbib_lgcode": "\nAtequexquitla/Xicotepec\nAtla/Pahuatlan\nCuacuila-Huauchinango\nN Puebla\nNaupan in Puebla\nTlaola\nXilocuautla-Huauchinango"
+  },
+  "triggers": {
+    "lgcode": "\nnorthern AND puebla AND nahuatl"
+  },
+  "identifier": {
+    "wals": "nhn",
+    "multitree": "ncj"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hansen:Nahuan**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Northern Puebla (ncj-ncj) = 6a* (Vigorous)."
+  }
+}

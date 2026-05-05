@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Ikposo",
+    "hid": "kpo",
+    "level": "language",
+    "iso639-3": "kpo",
+    "latitude": "7.44776",
+    "longitude": "0.83312",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH",
+      "TG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35029\nhttps://en.wikipedia.org/wiki/Kposo_language\n[Kposo](https://wals.info/languoid/lect/wals_code_kpo)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:99:1**\n**cldf:wolf:81**\n**eballiso2009:10634**\n**eballiso2009:10642**\n**eballiso2009:17654**\n**eballiso2009:17699**\n**eballiso2009:20384**\n**eballiso2009:22808**\n**eballiso2009:2319**\n**eballiso2009:45243**\n**eballiso2009:50183**\n**eballiso2009:54454**\n**hh:g:Soubrier:Ikposso**\n**hh:he:Cornevin:Litime**\n**hh:hvw:Christaller:Mittel-Niger**\n**hh:hvw:Christaller:Sudan**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:s:Gblem:Ikposo**\n**hh:s:Soubrier:Ikposo**\n**hh:s:Wolf:Kposo**\n**hh:std:Eklo:Kposso**\n**hh:w:CNLT:Togo**\n**hh:w:Hornberger:Ewe**\n**mpieva:Bartens2000Ideophon**\n**mpieva:Eklo1988Lekposso**\n**sil16:41705**"
+  },
+  "altnames": {
+    "wals": "\nKposo",
+    "wals other": "\nIkposso",
+    "ruhlen (1987)": "\nAkposo",
+    "moseley & asher (1994)": "\nKposo",
+    "multitree": "\nAkposo\nAkposos\nAkposso\nIkposo\nKposo\nKposso",
+    "lexvo": "\nIkposo [en]",
+    "hhbib_lgcode": "\n8xAkposso\nAkposo\nKposo"
+  },
+  "triggers": {
+    "lgcode": "\nlikposso\ndoume\nkposlash{soslash{\nlitime\neinzeldarstellungen\nkposo\ntomegbe\nuwi\nakposso\nsklavenkuste\nkposso\nlikposo\nikposso\nplateaux"
+  },
+  "identifier": {
+    "wals": "kpo",
+    "multitree": "kpo"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Ghana-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Ghana-Togo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ikposo (kpo-kpo) = 5 (Developing)."
+  }
+}

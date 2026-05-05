@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mazagway",
+    "hid": "dkx",
+    "level": "language",
+    "iso639-3": "dkx",
+    "latitude": "10.175",
+    "longitude": "13.6873",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mazagway](https://grambank.clld.org/languages/maza1304)\nhttps://en.wikipedia.org/wiki/Mazagway_language\nhttps://www.wikidata.org/entity/Q6798209"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Lembezat:Kirdi**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Strumpell:Adamauas**\n**hh:phon:Hayatou:Mazagway**\n**hh:phon:LienhardGiger:Daba**\n**hh:sd:Mouchet:Daba**\n**sil16:44847**"
+  },
+  "altnames": {
+    "multitree": "\nDaba\nMazagway\nMazagway-Hidi",
+    "lexvo": "\nMazagway [en]\nMazagway language [en]",
+    "hhbib_lgcode": "\nDaba-Mazagway\nGujuguju\nKola\nMazagway-Hidi\nMusugeu (Daba)\nSidifi Makdey"
+  },
+  "triggers": {
+    "lgcode": "\nmazagway\nwerti"
+  },
+  "identifier": {
+    "wals": "dab",
+    "multitree": "dkx"
+  },
+  "classification": {
+    "sub": "**hh:phon:LienhardGiger:Daba**:1-2",
+    "subrefs": "\n**hh:phon:LienhardGiger:Daba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mazagway-Hidi (dkx-dkx) = 6a (Vigorous)."
+  }
+}

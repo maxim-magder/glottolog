@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ikpana",
+    "hid": "lgq",
+    "level": "language",
+    "iso639-3": "lgq",
+    "latitude": "6.92838",
+    "longitude": "0.43068",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Logba](https://endangeredlanguages.com/lang/6030)\nhttps://www.wikidata.org/entity/Q35813\nhttps://en.wikipedia.org/wiki/Logba_language\nhttps://phoible.org/languages/logb1245"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:westermann:35:2**\n**eballiso2009:10642**\n**eballiso2009:17654**\n**eballiso2009:25464**\n**eballiso2009:2924**\n**eballiso2009:4682**\n**eballiso2009:47337**\n**eballiso2009:50214**\n**hh:d:Dorvlo:Logba**\n**hh:e:Person:Logba**\n**hh:g:Dorvlo:Logba**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:hwtyp:Seidel:Togo**\n**hh:s:Westermann:Logba**\n**hh:styp:Baron:Ikpana**\n**hh:typ:Kandybowicz:Ikpana-Interrogatives**"
+  },
+  "altnames": {
+    "multitree": "\nGhana\nLogba",
+    "lexvo": "\nLogba [de]\nLogba language [en]\nLogbaeg [br]",
+    "hhbib_lgcode": "\nLogba\nLogba of the Gonja group",
+    "elcat": "\nLogba",
+    "glottolog": "\nLogba"
+  },
+  "triggers": {
+    "lgcode": "\nikpana\nlogba"
+  },
+  "identifier": {
+    "multitree": "lgq;logb",
+    "endangeredlanguages": "6030"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Central-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Central-Togo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Logba (6030-lgq) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

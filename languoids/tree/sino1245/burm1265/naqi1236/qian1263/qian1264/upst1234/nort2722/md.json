@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northern Qiang",
+    "hid": "cng",
+    "level": "language",
+    "iso639-3": "cng",
+    "latitude": "32.2766",
+    "longitude": "103.192",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Northern Qiang](https://endangeredlanguages.com/lang/2405)\n[Northern Qiang](https://grambank.clld.org/languages/nort2722)\n[Qiang (Mawo)](https://lexibank.clld.org/languages/gaotb-QiangMawo)\nhttps://en.wikipedia.org/wiki/Northern_Qiang_language\nhttps://phoible.org/languages/nort2722\nhttps://www.wikidata.org/entity/Q56559"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:benedict:82**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dixon:y:ed:04:4**\n**cldf:lapolla:03:1**\n**cldf:lapolla:03:4**\n**cldf:lester:zhou:01**\n**cldf:lewis:ed:09**\n**cldf:matisoff:02**\n**cldf:roche:suzuki:17**\n**cldf:sun:01**\n**cldf:sun:02**\n**hh:d:ZhouSun:Qiang**\n**hh:g:Bufan:Qiang**\n**hh:g:Huang:Songpan-Qiang**\n**hh:g:LaPollaHuang:Qiang**\n**hh:g:Liu:Mawo**\n**hh:h:Hattaway:China**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Sims:Qiang**\n**hh:hvw:Latham:Comparative**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hw:Hunter:High-Asia**\n**hh:hw:Ollone:Chine**\n**hh:phonsoc:Wen:Rme**\n**hh:s:Academy:Qiang**\n**hh:s:LaPolla:Qiang:2017**\n**hh:s:PoaLaPolla:Qiang**\n**hh:s:Sun:Qiang**\n**hh:vw:Sims:Thochu**\n**hh:w:Bufan:Zangmian**\n**hh:w:Hodgson:Sifan-Horsok**\n**mpieva:Sun1981Qiangyuj**"
+  },
+  "altnames": {
+    "multitree": "\nCh'iang\nNorthern\nNorthern Qiang\nQiang\nQiang, Northern\nQiang,Northern\nSouthern",
+    "lexvo": "\nNorthern Qiang [en]\nNorthern Qiang language [en]\nQiang [fr]\nTchiangeg an norzh [br]\nภาษาเกวียงเหนือ [th]\n羌语 [zh]",
+    "hhbib_lgcode": "\n41 Dzorgai-Sifan-Tibet (Sseu tch'ouan)\n42 Kortse-Sifan-Lharde-Lhabrangin Tibet (Kan sou)\nMawo\nMawo Qiang\nMawo Rma (Qiang)\nNorthern Rma as spoken in Ronghong Village\nNorthwestern Rma\nQiang\nQiang (Northern) Mawo\nQiang (Northern) Yadu\nQiang Northern\nQiang-Mao\nQiang-Mawo\nQiang-Northern\nQiang_Mawo\nQugu dialect of Maoxian\nRme\nRonghong\nRonghong Qiang\nSichuan Songpan\nThochu\nUpstream-nu Central Heishui\nUpstream-nu W Maoxian-S Heishui\nfrom today’s Hēishuǐ County",
+    "elcat": "\nNorthern Qiang\nQiang\n羌語北部方言"
+  },
+  "triggers": {
+    "lgcode": "\nNOT reference AND qiang\nqiangyu\nmawo"
+  },
+  "identifier": {
+    "multitree": "cng",
+    "endangeredlanguages": "2405"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sims:Qiang**",
+    "subrefs": "\n**hh:hv:Sims:Qiang**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Northern Qiang (2405-cng) = Threatened (60 percent certain, based on the evidence available) [LaPolla and Huang 2003](cldf:lapolla:03:1)"
+  }
+}

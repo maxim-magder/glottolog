@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gayil",
+    "hid": "gyl",
+    "level": "language",
+    "iso639-3": "gyl",
+    "latitude": "6.15034",
+    "longitude": "36.67211",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5528771\nhttps://en.wikipedia.org/wiki/Gayil_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Bryan:No-Man**\n**hh:hvld:Yigezu:Aroid**\n**hh:s:Menuta:Aari**\n**hh:soc:Jordanetal:Gayil**\n**hh:typ:Seid:Gayl**\n**hh:v:Seid:Aari-Dialects**\n**hh:w:Tsuge:Galila**\n**iso6393:2007-040**\n**sil16:41938**"
+  },
+  "altnames": {
+    "multitree": "\nAri-Galila\nBoko",
+    "lexvo": "\nGayil [en]",
+    "hhbib_lgcode": "\nGalila\nGayi\nGayl"
+  },
+  "triggers": {
+    "lgcode": "\non AND aari"
+  },
+  "identifier": {
+    "multitree": "gyl"
+  },
+  "classification": {
+    "sub": "**hh:soc:Jordanetal:Gayil** **hh:hvw:Tsuge:SOmotic**",
+    "subrefs": "\n**hh:soc:Jordanetal:Gayil**\n**hh:hvw:Tsuge:SOmotic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gayil (gyl-gyl) = 6a (Vigorous)."
+  }
+}

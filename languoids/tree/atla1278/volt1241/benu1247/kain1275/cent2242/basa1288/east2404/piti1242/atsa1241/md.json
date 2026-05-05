@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Atsam",
+    "hid": "cch",
+    "level": "language",
+    "iso639-3": "cch",
+    "latitude": "9.95914",
+    "longitude": "8.48301",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34794\nhttps://en.wikipedia.org/wiki/Atsam_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**hh:e:Nengel:Atsam**\n**hh:h:Temple:NNigeria**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hew:Meek:Tribal:II**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:Ayandipo:Atsam**\n**hh:typ:Akangbe:Atsam**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nAtsam\nCawai\nCawe\nCawi\nChawai\nChawe\nChawi",
+    "lexvo": "\nAtsam [en]",
+    "hhbib_lgcode": "\nChawai"
+  },
+  "triggers": {
+    "lgcode": "\nnotes AND class"
+  },
+  "identifier": {
+    "multitree": "cch"
+  },
+  "classification": {
+    "sub": "**hh:h:Blench:East-Kainji**",
+    "subrefs": "\n**hh:h:Blench:East-Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Atsam (cch-cch) = 5 (Developing)."
+  }
+}

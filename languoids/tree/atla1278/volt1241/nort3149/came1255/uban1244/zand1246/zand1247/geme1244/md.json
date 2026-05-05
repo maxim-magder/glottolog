@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Geme",
+    "hid": "geq",
+    "level": "language",
+    "iso639-3": "geq",
+    "latitude": "8.48359",
+    "longitude": "20.6611",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\n[Geme](https://endangeredlanguages.com/lang/563)\n[Geme](https://grambank.clld.org/languages/geme1244)\nhttps://en.wikipedia.org/wiki/Geme_language\nhttps://www.wikidata.org/entity/Q3915851"
+  },
+  "classification": {
+    "sub": "**hh:phon:BoydNougayrol:Geme**",
+    "subrefs": "\n**hh:phon:BoydNougayrol:Geme**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**eballiso2009:36092**\n**hh:h:Nougayrol:NECAR**\n**hh:hw:Monino:Oubanguiennes**\n**hh:phon:BoydNougayrol:Geme**"
+  },
+  "altnames": {
+    "multitree": "\nGeme\nGemé\nGueme\nJeme\nNgba Geme",
+    "lexvo": "\nGeme [en]",
+    "hhbib_lgcode": "\n= Geme",
+    "elcat": "\nGeme\nGueme\nJeme\nNgba Geme"
+  },
+  "triggers": {
+    "lgcode": "\njeme\ngeme"
+  },
+  "identifier": {
+    "multitree": "geq",
+    "endangeredlanguages": "563"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Geme (563-geq) = Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

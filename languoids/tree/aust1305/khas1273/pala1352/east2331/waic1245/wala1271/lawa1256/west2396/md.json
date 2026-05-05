@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Western Lawa",
+    "hid": "lcp",
+    "level": "language",
+    "iso639-3": "lcp",
+    "latitude": "19.8678",
+    "longitude": "99.2057",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TH"
+    ],
+    "links": "\n[Lawa](https://endangeredlanguages.com/lang/1242)\n[Western Lawa](https://grambank.clld.org/languages/west2396)\nhttps://www.wikidata.org/entity/Q18644465"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:komonkitisun:85**\n**cldf:kunstadter:65**\n**cldf:kunstadter:66**\n**cldf:lebar:hickey:etal:64**\n**cldf:lewis:ed:09**\n**cldf:merrick:05**\n**cldf:np:nd:264**\n**hh:d:Ratanakul:Lawa:1986**\n**hh:d:Ratanakul:Lawa:1987**\n**hh:d:RatanakulSysamouth:Lawa**\n**hh:e:Kunstadter:Lua**\n**hh:e:Kunstadter:Lua-Skaw-Karen**\n**hh:e:Kunstadter:Lua:1965**\n**hh:e:Seidenfaden:Umphai**\n**hh:est:Suwangard:Lavie**\n**hh:ew:Flatz:Khalo**\n**hh:hv:Diffloth:Wa**\n**hh:hvphon:Mitani:Lawa**\n**hh:hvphon:Yaysa-Nga:Lavua**\n**hh:hvw:Rangsit:NSiam**\n**hh:phon:Mitani:Lawa**\n**hh:phon:RatanakulRatanahongse:Lawa**\n**hh:s:Komonkitisun:Lawa-La-Up**\n**hh:soc:Chatmongkol:Lawa**\n**hh:soc:Nahhas:Lawa**\n**hh:soc:Nahhas:Lawa:2011**\n**hh:typ:Ratanakul:Lawa**\n**hh:w:Mitani:Lawa**\n**ldh:item_403362**\n**mpieva:1981WaHanjia**\n**sil16:37490**\n**sil16:41969**"
+  },
+  "altnames": {
+    "multitree": "\nL'wa\nLa'wa\nLava\nLavua\nLavüa\nLawa\nLawa, Western\nLua\nLuwa\nMae Sariang\nMountain Lawa\nWa\nWa Proper",
+    "lexvo": "\nWestern Lawa [en]",
+    "hhbib_lgcode": "\nBan Papae village in Moo 3 in Mae Sarieng District in Mae Hongson Province\nBan Phae\nBan Phae Lawa\nBan Umphai\nLa'oop\nLa-Up in Ban Phae village\nLawa-Mae Hong Son\nLawa-Western\nLua of Pa Pae\nLua'\nMae Hong Son\nUmpai\nUmphai\nUmphai Lawa",
+    "elcat": "\nL'wa\nLa'wa\nLava\nLavua\nLavüa\nLawa\nLua\nLuwa\nMae Sariang\nMountain Lawa\nWa\nWa Proper\nWestern Lawa"
+  },
+  "triggers": {
+    "lgcode": "\nlsom\numphai\nyiie\nping"
+  },
+  "identifier": {
+    "multitree": "lcp",
+    "endangeredlanguages": "1242"
+  },
+  "classification": {
+    "sub": "**hh:hv:Diffloth:Wa**",
+    "subrefs": "\n**hh:hv:Diffloth:Wa**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Lawa (1242-lcp) = Vulnerable (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

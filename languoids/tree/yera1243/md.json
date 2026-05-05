@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yerakai",
+    "hid": "yra",
+    "level": "language",
+    "iso639-3": "yra",
+    "latitude": "-4.28828",
+    "longitude": "142.947",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Yerakai](https://endangeredlanguages.com/lang/10602)\nhttps://www.wikidata.org/entity/Q8052531\nhttps://en.wikipedia.org/wiki/Yerakai_language"
+  },
+  "classification": {
+    "family": "Yerakai shares no significant lexical relations with any Sepik language\n**hh:hvw:ConradDye:USepik**:14, except Ndu **hh:hv:Laycock:Sepik**:23, but these\nare arguably loans from the adjacent Iatmul (as of intermarriage)\n**hh:hvw:ConradDye:USepik**:14 **hh:hv:Aikhenvald:Sepik**. No other argument for\na Sepik affiliation in offered **hh:hvld:LaycockZGraggen:Sepik-Ramu**:738 and\nYerakai is not mentioned in Foley's re-consideration of the Sepik family\n**hh:hv:Foley:Sepik-Ramu**.",
+    "familyrefs": "\n**hh:hvw:ConradDye:USepik**:14\n**hh:hv:Aikhenvald:Sepik**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:he:Newton:Upper-Sepik**\n**hh:hv:Laycock:Sepik**\n**hh:w:Laycock:D28**\n**hh:w:Newton:Sepik**"
+  },
+  "altnames": {
+    "multitree": "\nYerakai\nYerekai",
+    "lexvo": "\nYerakai [en]",
+    "hhbib_lgcode": "\nYeragei\nYerakei",
+    "elcat": "\nGaramambu\nYerakai\nYerekai"
+  },
+  "triggers": {
+    "lgcode": "\nsepik AND checklist"
+  },
+  "identifier": {
+    "multitree": "year;yra",
+    "endangeredlanguages": "10602"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yerakai (10602-yra) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

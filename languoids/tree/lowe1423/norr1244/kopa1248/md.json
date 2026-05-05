@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Kopar",
+    "hid": "xop",
+    "level": "language",
+    "iso639-3": "xop",
+    "latitude": "-3.98259",
+    "longitude": "144.466",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kopar](https://endangeredlanguages.com/lang/3232)\n[Kopar (Singarin Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-kopar-singarin)\nhttps://en.wikipedia.org/wiki/Kopar_language\nhttps://www.wikidata.org/entity/Q11732346"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:g:Foley:Kopar**\n**hh:hv:Abbott:Nor-Pondo**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Ray:NPapua**\n**hh:typ:Foley:Murik-Kopar**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D24**"
+  },
+  "altnames": {
+    "multitree": "\nKopar",
+    "lexvo": "\nKopar [en]",
+    "hhbib_lgcode": "\nSingarin\np 32 in pdf 59-II-batap-kombat",
+    "elcat": "\nKopar"
+  },
+  "identifier": {
+    "multitree": "xop",
+    "endangeredlanguages": "3232"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik-Ramu** **hh:hv:Laycock:Sepik**",
+    "subrefs": "\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kopar (3232-xop) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

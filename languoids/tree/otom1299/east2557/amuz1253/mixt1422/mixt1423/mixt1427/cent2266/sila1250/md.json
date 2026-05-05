@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Silacayoapan Mixtec",
+    "hid": "mks",
+    "level": "language",
+    "iso639-3": "mks",
+    "latitude": "17.5541",
+    "longitude": "-98.1163",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Central Baja Mixtec](https://endangeredlanguages.com/lang/10527)\n[Mixtec (Silacayoapan)](https://wals.info/languoid/lect/wals_code_mxs)\nhttps://en.wikipedia.org/wiki/Silacayoapan_Mixtec\nhttps://www.wikidata.org/entity/Q7514027"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Josserand:Mixteca**\n**hh:phon:Carroll:Nieves-Mixtec**\n**hh:styp:Mantenuto:San-Sebastian-Monte-Mixtec**\n**hh:typ:Bowen:Ixpantepec-Nieves-Mixtec**\n**mpieva:Merrifield1977Studiesi**\n**otomanguean:Mixtec238**\n**sil16:15239**\n**sil16:16244**\n**sil16:21349**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (Silacayoapan)",
+    "wals other": "\nSilacayoapan Mixtec",
+    "multitree": "\nMixtec (Silacayoapan)\nMixtec, Silacayoapan\nMixteco (Silacayoapan)\nNorthern Misteko\nNorthern Mixteco",
+    "lexvo": "\nSilacayoapan Mixtec [en]",
+    "hhbib_lgcode": "\n112 Santiago Tamazola Mixtec Josserand 1983\n24 San Agustin Atenango Mixtec Mixtec Josserand 1983\n42 San Jorge Nuchita Mixtec Josserand 1983\n53 San Luis Morelia Mixtec Josserand 1983\n56 San Martin Estado Mixtec Josserand 1983\n61 San Miguel Ahuehuetitlan Mixtec Josserand 1983\n79 San Sebastian Monte Mixtec Solano 2020; Josserand 1983\nAhue\nAten\nAtenango\nIxpN\nIxpantepec\nIxpantepec (Southern Baja Silacayoapan)\nIxpantepec Nieves\nIxpantepec-Nieves (Southern Baja Silacayoapan)\nIxpantepex-Nieves\nIxpantepex-Nieves (Southern Baja Silacayoapan)\nMixtec-Silacayoapan\nMont\nMor\nNuch\nNuchita\nSan Agustín Atenango\nSan Jorge Nuchita\nSan Luís Morelia\nSan Martín del Estado\nSan Miguel Ahuehuetitlán\nSan Sebastián del Monte\nSan Sebastián del Monte Mixtec (SSM)\nSantiago Tamazola Western Baja\nSilM\nSilacayoapan\nSilacayoapan-Oaxaca\nSouthern Baja Silacayoapan\nTamS\nWestern Baja\nas Silacayoapan pace Egland 1983 (contra Josserand 1983 and Auderset et al. 2023)",
+    "elcat": "\nCentral Baja Mixtec\nMixteco de Yucuná\nMixteco del Noroeste de Oaxaca\nMixteco del noroeste\nNorthwest Oaxaca Mixtec\nSilacayoapan Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nsilacayoapan\nnieves\nixpantepec"
+  },
+  "identifier": {
+    "wals": "mxs",
+    "multitree": "mks",
+    "endangeredlanguages": "10527"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:18-20 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Central Baja Mixtec (10527) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ozumatlán Totonac",
+    "hid": "tqt",
+    "level": "language",
+    "iso639-3": "tqt",
+    "latitude": "20.4574",
+    "longitude": "-97.9486",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Totonac](https://endangeredlanguages.com/lang/3540)\nhttps://www.wikidata.org/entity/Q7116691\nhttps://en.wikipedia.org/wiki/Ozomatl%C3%A1n_Totonac"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Moore:Coahuitlan-Totonac**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:ld:Andersen:Totonaco-Cerro-Xinolatepetl**\n**iso6393:2006-099**"
+  },
+  "altnames": {
+    "multitree": "\nTotonac\nTotonac, Ozumatlán\nTotonacano de Patla\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonaco de Ozumatlán\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Patla-Chicontla",
+    "lexvo": "\nWestern Totonac [en]",
+    "hhbib_lgcode": "\nCerro Xinolatépetl (CX)\nTG\nTepetzintla de Galeana\nTotonac-Ozumatlán\nTotonaco del Cerro Xinolatépetl\nTotonaco del cerro Xinolatépetl\nWestern Totonac",
+    "elcat": "\nTotonac",
+    "glottolog": "\nWestern Totonac"
+  },
+  "triggers": {
+    "lgcode": "\ntlayehualancingo"
+  },
+  "identifier": {
+    "multitree": "tqt",
+    "endangeredlanguages": "3540"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Totonac (3540) = At risk (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

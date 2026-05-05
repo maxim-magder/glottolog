@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Vernacular Atayalic Japanese",
+    "hid": "ycr",
+    "level": "language",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Yilan Creole](https://endangeredlanguages.com/lang/10717)\nhttps://en.wikipedia.org/wiki/Yilan_Creole_Japanese\nhttps://www.wikidata.org/entity/Q10955036",
+    "longitude": "121.574283",
+    "latitude": "24.381274",
+    "iso639-3": "ycr"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abe:seiya:etal:08**\n**cldf:chien:15**\n**cldf:chien:shinji:10**\n**cldf:huang:09**\n**cldf:jianyuezhen:zhentianxinzhi:10**\n**cldf:np:16:1**\n**hh:d:ChienSanada:Yilan-Creole**\n**hh:ld:SanadaChien:Japanese-Creole**\n**hh:ldsoc:ChienSanada:Japanese-Creole**\n**hh:s:Tan:Yilan-Creole**\n**hh:typ:Qiu:Yilan**\n**hh:vtyp:Abe:Hanxi**\n**hh:vw:Chien:Muberan-Kureoru**\n**iso6393:2022-019**"
+  },
+  "classification": {
+    "sub": "**hh:ldsoc:ChienSanada:Japanese-Creole**",
+    "subrefs": "\n**hh:ldsoc:ChienSanada:Japanese-Creole**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yilan Creole (10717) = Endangered (80 percent certain, based on the evidence available) (Those born after 1980s don't speak Yilan Creole.) [Chien and Shinji 2010](cldf:chien:shinji:10)"
+  },
+  "altnames": {
+    "elcat": "\nHanhsi Atayal\nHanxi\nYilan Creole\n宜蘭克里奧爾\n寒溪泰雅語\n寒溪話",
+    "glottolog": "\nYilan Creole Japanese",
+    "hhbib_lgcode": "\nHanxi\nYilan Creole\nYilan Creole Japanese"
+  },
+  "identifier": {
+    "endangeredlanguages": "10717"
+  }
+}

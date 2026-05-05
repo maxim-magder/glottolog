@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Comaltepec Chinantec",
+    "hid": "cco",
+    "level": "language",
+    "iso639-3": "cco",
+    "latitude": "17.5909",
+    "longitude": "-96.445",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chinantec (Comaltepec)](https://wals.info/languoid/lect/wals_code_ccm)\n[Sierra Chinantec](https://endangeredlanguages.com/lang/9874)\nhttps://www.wikidata.org/entity/Q2963735"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:martinez:etal:90**\n**cldf:np:96:9**\n**haspelmath:operstein_gramatica_2010**\n**hh:d:Anderson:Comaltepec**\n**hh:g:Anderson:Comaltepec**\n**hh:g:Anderson:Comaltepec:2018**\n**hh:socttyp:Garcia:Temextitlan**\n**hh:typ:Pace:Comaltepec**\n**ldh:item_407692**\n**mpieva:Merrifield1990Syllable**\n**sil16:17375**\n**sil16:19461**\n**sil16:21288**\n**sil16:24343**\n**sil16:45246**\n**sil16:47107**\n**sil16:47108**\n**sil16:47109**\n**sil16:47110**\n**sil16:47111**\n**sil16:48416**\n**sil16:49459**"
+  },
+  "altnames": {
+    "wals": "\nChinantec (Comaltepec)",
+    "wals other": "\nComaltepec Chinantec",
+    "ruhlen (1987)": "\nChinanteko",
+    "moseley & asher (1994)": "\nChinantec",
+    "multitree": "\nChinantec\nChinantec (Comaltepec)\nChinantec, Comaltepec\nChinanteco\nChinanteco (Comaltepec)\nChinanteko\nComaltepec Chinantec\nJmii'",
+    "lexvo": "\nComaltepec Chinantec [en]",
+    "elcat": "\nChinanteco de la Sierra\nComaltepec Chinantec\nQuiotepec Chinantec\nSierra Chinantec\nValle Nacional Chinantec\njmiih dzä mo'",
+    "hhbib_lgcode": "\nTemextitlán\nYolox"
+  },
+  "triggers": {
+    "lgcode": "\ncangoang\ngueng\njaang`\ncomaltepec"
+  },
+  "identifier": {
+    "wals": "ccm",
+    "multitree": "cco",
+    "endangeredlanguages": "9874"
+  },
+  "classification": {
+    "sub": "**hh:hb:Merrifield:Chinantec** **hh:hv:Campbell:Otomanguean**:6-7",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hb:Merrifield:Chinantec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sierra Chinantec (9874) = Vulnerable (40 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Guwa",
+    "hid": "xgw",
+    "level": "language",
+    "iso639-3": "xgw",
+    "latitude": "-21.35147706",
+    "longitude": "142.5243782",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Guwa](https://endangeredlanguages.com/lang/6784)\n[Guwa](https://lexibank.clld.org/languages/bowernpny-Guwa)\nhttps://en.wikipedia.org/wiki/Guwa_language\nhttps://phoible.org/languages/guwa1242\nhttps://www.wikidata.org/entity/Q5621992",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:np:12:5**\n**hh:hew:Roth:NWCQueensland**\n**hh:hv:Breen:Western-Queensland**\n**hh:hvw:Barrett:Maric**\n**hh:hvw:Breen:Western-Queensland:1971**\n**hh:phonw:BlakeBreen:Guwa**\n**hh:w:Curr:Goa**\n**hh:w:Haines:Western-River**\n**iso6393:2012-054**\n**ozbib:1727**\n**ozbib:1730**\n**ozbib:3343**\n**ozbib:3344**\n**ozbib:3838**\n**ozbib:4904**\n**ozbib:784**"
+  },
+  "triggers": {
+    "lgcode": "\nguwa\nmiddleton"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sutton:Gugu-Badhun**",
+    "subrefs": "\n**hh:hv:Sutton:Gugu-Badhun**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6784"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Guwa (6784-xgw) = Dormant [Blake and Breen 1990](cldf:blake:breen:90)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nGoa",
+    "elcat": "\nCoa\nCoah\nGoa\nGoamulgo\nGuwa\nKoa"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Andoa",
+    "hid": "anb",
+    "level": "language",
+    "iso639-3": "anb",
+    "latitude": "-3.29664",
+    "longitude": "-76.6056",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Andoa](https://endangeredlanguages.com/lang/1571)\nhttps://www.wikidata.org/entity/Q2846171\nhttps://en.wikipedia.org/wiki/Andoa_language\nhttps://phoible.org/languages/ando1255",
+    "timespan": "2012-01-01/2012-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:gomezrendon:proano:15**\n**cldf:np:12:5**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Zaparo_andoa-shimigae00**\n**fabreall2009ann:Zaparo_andoa-shimigae01**\n**fabreall2009ann:Zaparo_andoa-shimigae02**\n**fabreall2009ann:Zaparo_andoa-shimigae03**\n**fabreall2009ann:Zaparo_andoa-shimigae05**\n**fabreall2009ann:Zaparo_andoa-shimigae08**\n**fabreall2009ann:Zaparo_andoa-shimigae10**\n**hh:h:Veigl:Maynensis**\n**hh:h:Villarejo:Selva**\n**hh:he:ChirifMora:Comunidades-Nativas**\n**hh:he:Reeve:Curaray**\n**hh:he:StewardMetraux:PEMontana**\n**hh:hv:Uriarte:Amazonia-Peruana**\n**hh:hv:Wise:Zaparos**\n**hh:hvw:Rivet:Equatorien**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Jakway:Palabras**\n**hh:hw:Villarejo:Idiomas-Selva**\n**hh:ld:Peeke:Shimigae**\n**hh:typ:SargentPeeke:Shimigae**\n**hh:w:Duche:Andoas**\n**hh:w:Leon:Jibarias**\n**hh:w:Michaeletal:Andoas**\n**hh:w:PeekeSargent:Andoa**\n**sil16:46491**"
+  },
+  "altnames": {
+    "lexvo": "\nAndoa [en]\nAndoan [hr]\nAndoeg [br]\nIdioma andoa-shimigae [es]",
+    "hhbib_lgcode": "\nSchemigaes\nSemigay\nSemigayes\nShimigae\nSimigae",
+    "elcat": "\nAndoa\nArabela-Andoa\nGae\nGaye\nSemigae\nShimigae\nSiaviri"
+  },
+  "triggers": {
+    "lgcode": "\nshimigae\nzaparos\nandoas\nandoa"
+  },
+  "classification": {
+    "sub": "**hh:hv:deCarvalho:Zaparoan**",
+    "subrefs": "\n**hh:hv:deCarvalho:Zaparoan**"
+  },
+  "identifier": {
+    "endangeredlanguages": "1571"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Andoa (1571-anb) = Dormant (The last speaker, Hipólito Arahuanaza, died in 2012.) [Gómez Rendón and Proaño 2015](cldf:gomezrendon:proano:15)"
+  }
+}

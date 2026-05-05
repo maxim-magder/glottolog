@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Asho Chin",
+    "hid": "csh",
+    "level": "language",
+    "iso639-3": "csh",
+    "latitude": "21.393",
+    "longitude": "93.5069",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "MM"
+    ],
+    "links": "\n[Asho (Kokan Tan)](https://lexibank.clld.org/languages/chindialectsurvey-AshoKokanTan-A-1)\n[Hyow](https://wals.info/languoid/lect/wals_code_hyo)\n[Hyow-Laitu Ghungurumukʰ Para (in Bandarban)](https://lexibank.clld.org/languages/chindialectsurvey-HyowLaituGhungurumukParainBandarban-A)\n[Khamaw Lake Kone](https://lexibank.clld.org/languages/chindialectsurvey-KhamawLakeKone-D-2)\n[Saingbong Ayo Taung](https://lexibank.clld.org/languages/chindialectsurvey-SaingbongAyoTaung-D-3)\nhttps://en.wikipedia.org/wiki/Sh%C3%B6_language\nhttps://www.wikidata.org/entity/Q7506059"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bradley:ed:03:1**\n**cldf:carey:tuck:96**\n**cldf:grierson:ed:95:19**\n**cldf:lehman:63**\n**cldf:stevenson:43**\n**hh:d:BernotBernot:Chin**\n**hh:g:Zakaria:Hyow**\n**hh:h:Bernot:Chittagong**\n**hh:h:Bernot:Chittagong:1960**\n**hh:hew:Dalton:Bengal**\n**hh:hew:Phayre:Arakan**\n**hh:hvw:Grierson:3:III**\n**hh:hvw:Hodgson:Indo-Chinese**\n**hh:hvw:Thang:Chin**\n**hh:hw:Hunter:High-Asia**\n**hh:phon:Zakaria:Hyow**\n**hh:phonw:Tignor:Hill-Asho**\n**hh:s:Fryer:Khyeng**\n**hh:s:Houghton:Southern-Chins**\n**hh:typ:Otsuka:Asho-Chin**\n**hh:vld:Zakaria:Hyow**\n**hh:w:Houghton:Southern-Chin-Minbu**\n**hh:wsoc:Kimetal:Kuki-Chin**"
+  },
+  "altnames": {
+    "wals": "\nHyow",
+    "wals other": "\nKhyang",
+    "ruhlen (1987)": "\nChin (South)",
+    "moseley & asher (1994)": "\nKhyang",
+    "multitree": "\nA-shö\nAsho\nAshu\nAšo\nChin (Asho)\nChin, Asho\nChin,Asho\nChinbon\nHyow\nKhyang\nKhyeng\nKyang\nLemyo\nMinbu\nQin\nSho\nShoa\nShö\nThayetmo\nŚo",
+    "lexvo": "\nAsho Chin [en]",
+    "hhbib_lgcode": "\nAsho\nAsho Chin in Bangladesh\nChin-Asho\nHill Asho\nHyow\nKhyang\nKhyang of Gongru village rattachent au groupe des Chin du Sud etudies par Houghton\nKhyeng\nKhyeng or Shou\nKhyeng v Shou\nLemyo Kying (Lemyo)\nMinbu\nSandoway\nSho/Khyang"
+  },
+  "triggers": {
+    "lgcode": "\ntermed\nminbu\ncollines\nkhyang\nhyow\nchins"
+  },
+  "identifier": {
+    "wals": "hyo",
+    "multitree": "csh"
+  },
+  "classification": {
+    "sub": "**hh:g:Hartmann:Daai-Chin**:25-26",
+    "subrefs": "\n**hh:g:Hartmann:Daai-Chin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chin, Asho (csh-csh) = 5 (Developing)."
+  }
+}

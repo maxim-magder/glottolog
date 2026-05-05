@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dharumbal",
+    "hid": "xgm",
+    "level": "language",
+    "iso639-3": "xgm",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "longitude": "150.593",
+    "latitude": "-23.307",
+    "links": "\n[Dharumbal](https://endangeredlanguages.com/lang/6350)\n[Dharumbal](https://grambank.clld.org/languages/dhar1248)\n[Dharumbal](https://lexibank.clld.org/languages/bowernpny-Dharumbal)\n[Dharumbal](https://wals.info/languoid/lect/wals_code_dhb)\nhttps://en.wikipedia.org/wiki/Darumbal_language\nhttps://phoible.org/languages/dhar1248\nhttps://www.wikidata.org/entity/Q16954400",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "classification": {
+    "sub": "**hh:s:Terrill:Dharumbal**:15",
+    "subrefs": "\n**hh:s:Terrill:Dharumbal**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:205**\n**hh:h:Dixon:Tully**\n**hh:h:Roth:Nomenclature**\n**hh:hv:Breen:Biri**\n**hh:hv:Koch:Pama-Nyungan**\n**hh:hv:Schmidt:Australischen**\n**hh:hvwphon:Holmer:South-Eastern-Queensland**\n**hh:s:Terrill:Dharumbal**\n**hh:w:Archer:Rockhampton**\n**hh:w:Muller:Yaamba**\n**iso6393:2012-104**\n**iso6393:2013-033**"
+  },
+  "triggers": {
+    "lgcode": "\nyaamba\nrockhampton\nbroad"
+  },
+  "identifier": {
+    "endangeredlanguages": "6350"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dharumbal (6350-xgm) = Awakening [n.a. n.d.](cldf:np:nd:205)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBiri or Dharumbal\nDarumbal\nGuwinmal\nGuynmal\nKuinmurburra\nRockhampton",
+    "elcat": "\nBaiali\nBayali\nBieli\nBiyali\nByellee\nByellel\nCharumbul\nDarambal\nDarawal\nDarumbal\nDharumbal\nGuñmal\nKoinbal\nKoinjmal\nKooinmarburra\nKooinmerburra\nKuinmurbara\nKungalburra\nKungmal\nMamburra\nNingebal\nOrambul\nTarumbal\nTarumbul\nTharumbal\nUrambal\nWandandian (?)\nWarabal\nYetimarala"
+  }
+}

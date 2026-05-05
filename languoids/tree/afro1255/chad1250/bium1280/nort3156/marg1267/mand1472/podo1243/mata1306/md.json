@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Matal",
+    "hid": "mfh",
+    "level": "language",
+    "iso639-3": "mfh",
+    "latitude": "10.9284",
+    "longitude": "14.0474",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Matal_language\nhttps://www.wikidata.org/entity/Q3501751"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:12634**\n**eballiso2009:12640**\n**eballiso2009:12641**\n**hh:e:Juillerat:Mouktele**\n**hh:he:Lembezat:Kirdi**\n**hh:hvphon:Rossing:Mafa-Mada**\n**hh:hvw:Colombel:Nord-Cameroun**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:ld:Mai:Mbudum-Matal**\n**hh:typ:Verdizade:Matal**"
+  },
+  "altnames": {
+    "multitree": "\nBadda\nBalda\nMatal\nMouktele\nMuktele\nMuktile",
+    "lexvo": "\nMatal [en]\nMatal language [en]",
+    "hhbib_lgcode": "\nMouktele\nMuktale\nMuktele\nMuktile"
+  },
+  "triggers": {
+    "lgcode": "\nmuktele\nmouktele"
+  },
+  "identifier": {
+    "multitree": "mfh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:51-53",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Matal (mfh-mfh) = 5 (Developing)."
+  }
+}

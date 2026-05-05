@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Dom",
+    "hid": "doa",
+    "level": "language",
+    "iso639-3": "doa",
+    "latitude": "-6.03737",
+    "longitude": "144.895",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Dom](https://grambank.clld.org/languages/domm1246)\nhttps://en.wikipedia.org/wiki/Dom_language\nhttps://www.wikidata.org/entity/Q5289770"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Jacobsen:Digibe**\n**hh:g:Tida:Dom**\n**hh:hv:Tida:Simbu**\n**hh:hvw:Capell:CHighlands**\n**hh:phon:Tida:Dom**"
+  },
+  "altnames": {
+    "multitree": "\nDom",
+    "lexvo": "\nDom [en]"
+  },
+  "triggers": {
+    "lgcode": "\npapuan AND dom"
+  },
+  "identifier": {
+    "multitree": "domm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tida:East-Simbu**, **hh:hv:Tida:Simbu**",
+    "subrefs": "\n**hh:hv:Tida:East-Simbu**\n**hh:hv:Tida:Simbu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dom (doa-doa) = 5 (Developing)."
+  }
+}

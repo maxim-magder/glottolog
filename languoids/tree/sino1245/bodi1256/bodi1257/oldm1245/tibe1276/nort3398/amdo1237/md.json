@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Amdo Tibetan",
+    "hid": "adx",
+    "level": "language",
+    "iso639-3": "adx",
+    "latitude": "34.5177",
+    "longitude": "100.485",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Amdo](https://wals.info/languoid/lect/wals_code_amd)\n[Amdo (Themchen)](https://wals.info/languoid/lect/wals_code_amt)\n[Amdo Tibetan](https://grambank.clld.org/languages/amdo1237)\n[Tibetan (Xiahe)](https://lexibank.clld.org/languages/gaotb-TibetanXiahe)\n[Tibetan (Zeku)](https://lexibank.clld.org/languages/gaotb-TibetanZeku)\n[Tibetan_Alike](https://lexibank.clld.org/languages/sagartst-Alike)\n[Tibetan_Xiahe](https://lexibank.clld.org/languages/sagartst-Xiahe)\nhttps://en.wikipedia.org/wiki/Amdo_Tibetan\nhttps://phoible.org/languages/amdo1237\nhttps://www.wikidata.org/entity/Q56509"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:732**\n**cldf:makley:dede:etal:99**\n**cldf:sun:93:2**\n**hh:d:Geng:Amdo**\n**hh:d:Hua:Anduo**\n**hh:d:HuaKlu:Amdo**\n**hh:e:Stubel:Mewu**\n**hh:g:Dpal:Amdo**\n**hh:g:Ebihara:Amudo**\n**hh:g:Ebihara:Amudo:2019**\n**hh:g:Lu:O-Thog**\n**hh:g:Norbu:Amdo-Tibetan**\n**hh:g:Roerich:Amdo**\n**hh:g:Wang:Amdo-Tibetan**\n**hh:g:Zhou:Maqu-Tibetan**\n**hh:gt:Haller:Themchen**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hs:GesangGesang:Zangyu**\n**hh:hv:Bialek:Tibetan**\n**hh:hvphon:Suzuki:West-Sichuan-Tibetan**\n**hh:hvtyp:Zeisler:Tibetan**\n**hh:hvw:Bielmeier:Tibetan**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:ld:Ma:Dparis**\n**hh:lde:Stobs:Chu-Cha**\n**hh:ldsoc:Tribur:Amdo**\n**hh:phon:Caplow:Tibetan-Tonogenesis**\n**hh:phon:Hermanns:Amdo**\n**hh:phon:Janhunen:Amdo-Tibetan**\n**hh:phon:Makleyetal:Amdo-Labrang**\n**hh:phon:Sun:Amdo**\n**hh:phon:Suzuki:Astong**\n**hh:phon:Suzuki:Babzo**\n**hh:phon:Suzuki:Yuwa**\n**hh:phon:Wu:Amchog-Tibetan**\n**hh:phon:Yang:Aba-Anduo**\n**hh:phondial:Wang:Amdo**\n**hh:phonw:Sun:Bumyag**\n**hh:s:Ebihara:Amdo-Tibetan**\n**hh:sd:Lhungrub:Amdo**\n**hh:soc:BesshoEbihara:Dparis**\n**hh:std:Ebihara:Amudo**\n**hh:styp:Tribur:Amdo-Tibetan**\n**hh:typ:Ebihara:Dparis**\n**hh:typ:Leung:Chinese-Tibetan-Mongolian**\n**hh:typ:Shao:Anduo**\n**hh:vld:KanMa:Dparis**\n**hh:vw:Suzuki:Serkha**\n**hh:w:Bufan:Zangmian**\n**hh:w:Hua:Zangyu-Anduo**\n**hh:w:Kara:Sbra-Nag**\n**hh:w:Suzuki:Shingnyag**\n**iso6393:2012-029**\n**mpieva:Kalsang2000Modernor**"
+  },
+  "altnames": {
+    "wals": "\nAmdo",
+    "wals other": "\nAmdo Tibetan\nTibetan (Amdo)",
+    "ruhlen (1987)": "\nhBrogpa",
+    "multitree": "\nAmdo\nAnduo\nNgambo\nTibetan, Amdo\nTibetan,Amdo",
+    "lexvo": "\nAmdo Tibetan [en]\nAmdo Tibetan language [en]\nAmdoeg [br]\nJęzyk amdo [pl]\n安多方言 [zh]",
+    "hhbib_lgcode": "\nAmchog\nAmdo\nAmdo Bla-Brang\nAmdo Tibetan with a rGyalrongic substrate\nAmdo Zeku\nArig\nArik\nBabzo\nBla-brang Tibetan (Amdo)\nBumyag\nChabcha\nDongna\nDongnak in the Hexi (Gansu) corridor\nDowi Amdo\nDpa'ri\nDpa'ris\nGonghe\nKhalong\nLabrang\nMachu\nMaqu\nMewu Fantzu\nNdzorge-Amdo\nO Thog\nPanang\nRebgong\nRebkong Amdo\nRebkong-Amdo\nShar Khog\nSharkhog\nShingnyag Tibetan\nThem chen\nThemchen\nThemchen-Amdo\nTianzhu Tibetan\nTibetan Xiahe-Gannan\nTibetan-Amdo\nZeku Tibetan (Amdo)\ngSerkha\ngSerpa"
+  },
+  "triggers": {
+    "lgcode": "\ngrum\nsbra\ngrzimajlos\nmaqu\namdo\nthemchen\namchog\nlamdo\narchaique"
+  },
+  "identifier": {
+    "wals": "amt;amd",
+    "multitree": "adx",
+    "languagelandscape": "http://languagelandscape.org/language/Tibetan%2C%20Amdo"
+  },
+  "classification": {
+    "sub": "**hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tibetan, Amdo (adx-adx) = 6a (Vigorous). Language of recognized nationality: Tibetan."
+  }
+}

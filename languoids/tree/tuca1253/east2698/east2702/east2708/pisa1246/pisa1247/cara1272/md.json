@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Carapana",
+    "hid": "cbc",
+    "level": "language",
+    "iso639-3": "cbc",
+    "latitude": "0.06168",
+    "longitude": "-69.6465",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "CO"
+    ],
+    "links": "\n[Carapana](https://endangeredlanguages.com/lang/3111)\n[Carapana](https://lexibank.clld.org/languages/hubercolumbian-Carapana)\n[Carapana](https://wals.info/languoid/lect/wals_code_crp)\n[carapana](https://lexibank.clld.org/languages/chaconcolumbian-Carapana)\nhttps://en.wikipedia.org/wiki/Carapana_language\nhttps://phoible.org/languages/cara1272\nhttps://www.wikidata.org/entity/Q924405"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1995**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:huber:reed:92:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:perez:10**\n**fabreall2009ann:Tukano_carapano0**\n**fabreall2009ann:Tukano_carapano1**\n**fabreall2009ann:Tukano_carapano3**\n**fabreall2009ann:Tukano_carapano4**\n**fabreall2009ann:Tukano_carapano5**\n**fabreall2009ann:Tukano_carapano6**\n**fabreall2009ann:Tukano_carapano7**\n**fabreall2009ann:Tukano_carapano8**\n**hh:d:Metzger:Carapana**\n**hh:e:Jackson:Fish-People**\n**hh:g:Metzger:Carapana**\n**hh:h:Bruzzi:Uaupes**\n**hh:hv:Ardila:Pira-Parana:Gramaticales**\n**hh:hvtyp:Constenla:Intermedia**\n**hh:hvw:Gomez-ImbertJones:Piraparana**\n**hh:hvw:HuberReed:Colombia**\n**hh:hw:Koch-Grunberg:Betoya**\n**hh:w:Mountain:Tucano-Swadesh**\n**hh:w:deWavrin:Carapana**\n**mpieva:Metzger2000Yaiayaye**\n**sil16:10012**\n**sil16:10045**\n**sil16:11732**\n**sil16:11733**\n**sil16:13139**\n**sil16:13140**\n**sil16:13141**\n**sil16:13142**\n**sil16:23040**\n**sil16:38947**\n**sil16:40340**\n**sil16:46821**\n**sil16:50027**\n**sil16:50028**"
+  },
+  "altnames": {
+    "wals": "\nCarapana",
+    "ruhlen (1987)": "\nKarapaná",
+    "moseley & asher (1994)": "\nCarapana",
+    "multitree": "\nAndokero\nAndoquero\nCarapana\nCarapana (Brésil)\nCarapana (Colombia)\nCarapana (Colombie)\nCarapana-Tapuya\nCarapano\nCarapanã\nKarapana\nKarapano\nKarapaná\nMextã\nMiranya Carapana Tapuya\nMochda\nMoxdoa\nTatuyo",
+    "lexvo": "\nCarapana [en]",
+    "hhbib_lgcode": "\nKarapaná of Schmidt\nKarapanã\nMoxtã",
+    "elcat": "\nCarapana\nCarapana-Tapuya\nCarapano\nCarapanã\nKarapana\nKarapano\nKarapaná\nMextã\nMi tea\nMiranya Carapana Tapuya\nMochda\nMoxdoa\nMuxtea"
+  },
+  "triggers": {
+    "lgcode": "\nquetic\nayaye\nkarapana\ncabuemasiataje\ncarapana\nmacan"
+  },
+  "identifier": {
+    "wals": "crp",
+    "multitree": "cbc",
+    "endangeredlanguages": "3111"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chacon:Proto-Tukanoan** **hh:gd:Ramirez:Yepa-Masa:2019**:5-7",
+    "subrefs": "\n**hh:hv:Chacon:Proto-Tukanoan**\n**hh:gd:Ramirez:Yepa-Masa:2019**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Carapana (3111-cbc) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

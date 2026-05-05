@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Aralle-Tabulahan",
+    "hid": "atq",
+    "level": "language",
+    "iso639-3": "atq",
+    "latitude": "-2.78397",
+    "longitude": "119.319",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4783889\nhttps://en.wikipedia.org/wiki/Aralle-Tabulahan_language\n[Aralle-Tabulahan](https://wals.info/languoid/lect/wals_code_atb)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Desiyana:Tabulahan**\n**hh:hv:Stromme:PUS1**\n**hh:hvsoc:Friberg:PUS1**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hvw:Smith:Ulunnu**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:phon:McKenzie:Aralle-Tabulahan**\n**hh:typ:McKenzie:Aralle-Tabulahan**\n**sil16:21969**\n**sil16:22005**"
+  },
+  "altnames": {
+    "wals": "\nAralle-Tabulahan",
+    "lexvo": "\nAralle-Tabulahan [en]",
+    "hhbib_lgcode": "\nA Aralle\nMambi et Tabulahan\nPUS-Aralle-Tabulahan\nPUS-Mambi\nTabulahan"
+  },
+  "triggers": {
+    "lgcode": "\ntabulahan"
+  },
+  "identifier": {
+    "wals": "atb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Ulunnu** **hh:hvw:GrimesGrimes:South-Sulawesi**",
+    "subrefs": "\n**hh:hvw:Smith:Ulunnu**\n**hh:hvw:GrimesGrimes:South-Sulawesi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aralle-Tabulahan (atq-atq) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kuranko",
+    "hid": "knk",
+    "level": "language",
+    "iso639-3": "knk",
+    "latitude": "9.49325",
+    "longitude": "-10.6122",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "SL"
+    ],
+    "links": "\n[Koranko](https://wals.info/languoid/lect/wals_code_kko)\nhttps://en.wikipedia.org/wiki/Kuranko_language\nhttps://phoible.org/languages/kura1250\nhttps://www.wikidata.org/entity/Q3198896"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4266**\n**cldf:chevalier:09**\n**cldf:kamara:drummond:30**\n**cldf:thomas:16:1**\n**eballiso2009:11152**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:13521**\n**eballiso2009:17579**\n**eballiso2009:42032**\n**eballiso2009:42033**\n**eballiso2009:42038**\n**eballiso2009:49381**\n**eballiso2009:49383**\n**eballiso2009:49388**\n**eballiso2009:51418**\n**eballiso2009:51422**\n**eballiso2009:59851**\n**eballiso2009:903**\n**hh:dial:Bird:Mandenkan**\n**hh:hb:Sullivan:Manding**\n**hh:he:McCulloch:Sierra-Leone**\n**hh:hv:Bimson:Mandekan**\n**hh:hv:Kastenholz:Koranko**\n**hh:hv:Kastenholz:Mande-kan**\n**hh:hvw:Long:NMande**\n**hh:hvw:Vydrine:Mande**\n**hh:hw:Thomas:Sierra-Leone**\n**hh:phontd:Kastenholz:Koranko**\n**hh:phontd:Kastenholz:Koranko:1987**\n**hh:soc:PBT:Maninka**"
+  },
+  "altnames": {
+    "wals": "\nKoranko",
+    "ruhlen (1987)": "\nKuranko",
+    "multitree": "\nKoranko\nKuranko",
+    "lexvo": "\nKuranko [en]",
+    "hhbib_lgcode": "\nKoranko"
+  },
+  "triggers": {
+    "lgcode": "\nkuranko\ntimanni\nkoranko\ntimannee"
+  },
+  "identifier": {
+    "wals": "kko",
+    "multitree": "knk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kuranko (knk-knk) = 5* (Developing)."
+  }
+}

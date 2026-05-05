@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tasmate",
+    "hid": "tmt",
+    "level": "language",
+    "iso639-3": "tmt",
+    "latitude": "-15.0792",
+    "longitude": "166.664",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Tasmate](https://endangeredlanguages.com/lang/3530)\n[Tasmate](https://lexibank.clld.org/languages/abvdoceanic-Tasmate)\nhttps://en.wikipedia.org/wiki/Tasmate_language\nhttps://www.wikidata.org/entity/Q7687571"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1769**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nTasmate\nVanuatu",
+    "lexvo": "\nTasmate [en]",
+    "hhbib_lgcode": "\n'Oa",
+    "elcat": "\nMeri\nOa\nTasmate"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "tmt",
+    "endangeredlanguages": "3530"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tasmate (3530-tmt) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

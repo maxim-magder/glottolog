@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Tsez",
+    "hid": "ddo",
+    "level": "language",
+    "iso639-3": "ddo",
+    "latitude": "42.2646",
+    "longitude": "45.8096",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "RU"
+    ],
+    "links": "\n[Tsez](https://endangeredlanguages.com/lang/2211)\n[Tsez](https://grambank.clld.org/languages/dido1241)\n[Tsez](https://lexibank.clld.org/languages/northeuralex-ddo)\n[Tsez](https://wals.info/languoid/lect/wals_code_tsz)\nhttps://en.wikipedia.org/wiki/Tsez_language\nhttps://phoible.org/languages/dido1241\nhttps://www.wikidata.org/entity/Q34033"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:258**\n**cldf:alekseev:radzhabov:04**\n**cldf:berg:ed:99:9**\n**cldf:bhaskararao:ed:04:7**\n**cldf:bokarev:59**\n**cldf:bybee:ed:01**\n**cldf:comrie:00:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:comrie:polinsky:99**\n**cldf:darnell:ed:98:2**\n**cldf:dixon:aikhenvald:ed:00:6**\n**cldf:ed:10**\n**cldf:embleton:joseph:etal:ed:99**\n**cldf:good:ed:99:3**\n**cldf:holsky:tuite:ed:03:1**\n**cldf:horie:ed:00:2**\n**cldf:humphreys:mits:ed:93**\n**cldf:kibrik:03**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:polinsky:99:1**\n**cldf:polinsky:99:2**\n**cldf:polinsky:potsdam:01**\n**cldf:schulze:ed:98**\n**hh:d:Xalilov:Tsez**\n**hh:hv:Ataev:Avaro-Ando-Cezskich**\n**hh:hvld:Dirr:Ando-Didojskoj**\n**hh:hvs:Bokarev:Tsezskie**\n**hh:hvw:Latham:Comparative**\n**hh:s:AlekseevRadzhabov:Tsez**\n**hh:s:ComriePolinsky:Tsez**\n**hh:s:Imnaishvili:Didojskij**\n**hh:s:Polinsky:Tsez**\n**mpieva:Chalilov1999Cezskoru**\n**mpieva:Imnajssvili1963Didojski**\n**mpieva:Radjabov1999Syntaksi**"
+  },
+  "altnames": {
+    "glottolog": "\nDido",
+    "wals": "\nTsez",
+    "ruhlen (1987)": "\nDido (Tsez)",
+    "moseley & asher (1994)": "\nDido",
+    "multitree": "\nCez\nDido\nDidoi\nTsez\nTsezy\nTsuntin",
+    "lexvo": "\nCeza lingvo [eo]\nCezišćina [hsb]\nDido [en]\nDidoera [eu]\nDidon kieli [fi]\nIdioma tsez [es]\nLíngua tsez [pt]\nTsesische Sprache [de]\nTsez [fr]\nTsez dili [tr]\nTsez language [en]\nTsezeg [br]\nЦезички јазик [mk]\nЦезки език [bg]\nЦезский язык [ru]\nЦезька мова [uk]\nდიდოური ენა [ka]",
+    "hhbib_lgcode": "\nDido",
+    "elcat": "\nCez\nDido\nDidoi\nTsez\nTsuntin\ncez mec\ncezyas mec\nцез мец\nцезйас мец\nцезский язык\nდიდოური ენა"
+  },
+  "triggers": {
+    "lgcode": "\ndagestana\n1062\nobscnosti\ntsezskie\ndidojskie\nsravnenii\ntsez"
+  },
+  "identifier": {
+    "wals": "tsz",
+    "multitree": "ddo",
+    "endangeredlanguages": "2211"
+  },
+  "classification": {
+    "sub": "**hh:w:ComrieKhalilov:Bezhta**:415",
+    "subrefs": "\n**hh:w:ComrieKhalilov:Bezhta**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Tsez (2211-ddo) = Threatened (20 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

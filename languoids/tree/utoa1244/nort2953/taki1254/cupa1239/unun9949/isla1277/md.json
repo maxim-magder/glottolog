@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Island Takic",
+    "hid": "NOCODE_Island-Takic",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Nicole%C3%B1o_language\nhttps://www.wikidata.org/entity/Q50241488",
+    "longitude": "-119.503678",
+    "latitude": "33.246079",
+    "timespan": "1853-01-01/1853-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:HillHill:Takic**\n**hh:hvb:Golla:California**\n**hh:ld:Munro:Nicoleno**"
+  },
+  "triggers": {
+    "lgcode": "\nnicoleno"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Island Takic, an extinct arguably distinct Cupan Uto-Aztecan language, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:ld:Munro:Nicoleno**, **hh:hvb:Golla:California**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Island-Takic"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Uto-Aztecan** **hh:hvb:Golla:California** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Island Takic (NOCODE_Island-Takic-NOCODE_Island-Takic) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nNicoleno\nNicoleño"
+  }
+}

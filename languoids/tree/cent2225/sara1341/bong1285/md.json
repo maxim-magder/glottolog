@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Bongo",
+    "hid": "bot",
+    "level": "language",
+    "iso639-3": "bot",
+    "latitude": "7.4145",
+    "longitude": "27.9918",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "SS"
+    ],
+    "links": "\n[Bongo](https://endangeredlanguages.com/lang/3953)\n[Bongo](https://grambank.clld.org/languages/bong1285)\n[Bongo](https://wals.info/languoid/lect/wals_code_bgo)\nhttps://en.wikipedia.org/wiki/Bongo_language\nhttps://phoible.org/languages/bong1285\nhttps://www.wikidata.org/entity/Q2910067"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:915**\n**cldf:boyeldieu:04:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:schweinfurth:74**\n**eballiso2009:24661**\n**eballiso2009:32659**\n**eballiso2009:58080**\n**eballiso2009:59139**\n**hh:e:Evans-Pritchard:Bongo**\n**hh:e:KronenbergKronenberg:Bongo**\n**hh:e:Santandrea:Bongo**\n**hh:e:Santandrea:BongoSudan**\n**hh:e:Schweinfurth:Bachr-Ghasal**\n**hh:ew:Petherick:Soudan**\n**hh:ew:vonHeuglin:Weissen-Nil**\n**hh:h:Persson:Bongo-Bagirmi**\n**hh:h:Santandrea:Ghazal**\n**hh:h:Tucker:Eastern-Sudanic**\n**hh:h:Tucker:Wau**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hew:Gliechen:Anglo-Egyptian-Sudan**\n**hh:hew:Marno:Aequatorial**\n**hh:hld:TuckerBryan:Non-Bantu-NEAfrica**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Santandrea:BongoBakaYuluKara**\n**hh:hw:Evans-Pritchard:Non-Dinka**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hw:Schweinfurth:Central-Afrika**\n**hh:phon:Kilpatrick:Bongo**\n**hh:phon:Kilpatrick:Bongo:1979**\n**hh:phon:Moi:Bongo-Consonant**\n**hh:s:Moi:Bongo-Grammar**\n**hh:s:Santandrea:Bongo**\n**hh:soc:Crystal:Bongo**\n**hh:typ:Nougayrol:Bongo**\n**hh:typ:Nougayrol:Bongo:Verbe**\n**hh:w:Moi:Bongo-Dictionary**\n**sil16:18428**\n**sil16:48947**"
+  },
+  "altnames": {
+    "wals": "\nBongo",
+    "wals other": "\nBungu",
+    "ruhlen (1987)": "\nBongo",
+    "moseley & asher (1994)": "\nBongo",
+    "multitree": "\nBongo\nBungu\nDor",
+    "lexvo": "\nBongo [en]",
+    "hhbib_lgcode": "\nBongo of Schweinfurth\nBongo-Bagirmi ie Bongo\nBungö\nDor\nDor of Petherick\nDōr\nShort vocabularies in Bongo",
+    "elcat": "\nBongo\nBungu\nDor"
+  },
+  "triggers": {
+    "lgcode": "\nstraw\nofficers\nNOT yulu AND the AND bongo\nzuflusse\ncentralafrika"
+  },
+  "identifier": {
+    "wals": "bgo",
+    "multitree": "bot",
+    "endangeredlanguages": "3953"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boyeldieu:Expansion-SBB**",
+    "subrefs": "\n**hh:hv:Boyeldieu:Expansion-SBB**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bongo (3953-bot) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

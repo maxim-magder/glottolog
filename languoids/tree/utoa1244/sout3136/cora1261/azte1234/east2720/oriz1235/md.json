@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Orizaba Nahuatl",
+    "hid": "nlv",
+    "level": "language",
+    "iso639-3": "nlv",
+    "latitude": "18.63995",
+    "longitude": "-96.97648",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3086050\nhttps://en.wikipedia.org/wiki/Orizaba_Nahuatl"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Sanchez:Nawatl**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:phon:Golleretal:Orizaba-Nahuatl**\n**hh:phontyp:Jeronimo:Nahuatl-Rafael-Delgado**\n**hh:s:Tuggy:Nahuatl**\n**hh:sv:Hasler:Nahuatl-Zacamilola**\n**hh:t:Mills:Nahuatl-Zongolica**\n**hh:typ:Alarcon:Nahuatl-Zongolica**\n**hh:typ:Haurholm-Larsen:Zongolica-Nawatl**\n**hh:typ:Torres:Nahuatl-Zongolica**\n**sil16:22708**\n**sil16:22859**\n**sil16:24779**\n**sil16:24812**\n**sil16:35109**\n**sil16:35674**\n**sil16:36883**\n**sil16:44522**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Nawa\nMexicano\nNahua de la Huasteca\nNahuatl\nNahuatl, Orizaba\nNáhuatl de la Sierra de Zongolica\nNáhuatl du Huasteca\nOrizaba Aztec",
+    "lexvo": "\nOrizaba Nahuatl [en]",
+    "hhbib_lgcode": "\nNahuatl Zacamilola\nNahuatl spoken in the region of Sierra de Zongolica\nNahuatl-Orizaba\nRafael Delgado\nRafael Delgado (antes: San Juan del Río)\nZongolica\nZongolica in Vera Cruz"
+  },
+  "triggers": {
+    "lgcode": "\norizaba AND nawatl"
+  },
+  "identifier": {
+    "multitree": "nlv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hansen:Nahuan**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Orizaba (nlv-nlv) = 6a* (Vigorous)."
+  }
+}

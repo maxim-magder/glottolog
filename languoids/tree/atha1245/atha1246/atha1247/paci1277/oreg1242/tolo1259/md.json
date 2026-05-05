@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tolowa-Chetco",
+    "hid": "tol",
+    "level": "language",
+    "iso639-3": "tol",
+    "latitude": "41.9192",
+    "longitude": "-124.1",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Tolowa](https://endangeredlanguages.com/lang/855)\nhttps://www.wikidata.org/entity/Q20827\nhttps://en.wikipedia.org/wiki/Tolowa_language\nhttps://phoible.org/languages/tolo1259",
+    "timespan": "1990-01-01/1990-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0656**\n**anla:ANLC0657**\n**anla:ANLC0658**\n**anla:ANLC0659**\n**anla:ANLC0660**\n**anla:ANLC0661**\n**anla:ANLC0662**\n**anla:ANLC0663**\n**anla:ANLC0664**\n**anla:ANLC0665**\n**anla:CA871P1877**\n**anla:CA920G1908**\n**anla:CA938H1960a**\n**anla:CA963G1975**\n**anla:CA979C1983**\n**anla:CA979C1985a**\n**anla:CA979C1985b**\n**anla:CA979C1989**\n**anla:CA990T1990**\n**cldf:barnett:37**\n**cldf:baumhoff:63**\n**cldf:christopherrogers:campbell:10**\n**cldf:cook:56**\n**cldf:driver:39**\n**cldf:drucker:36:2**\n**cldf:drucker:37:2**\n**cldf:drucker:40**\n**cldf:dubois:32**\n**cldf:dubois:36**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:johnson:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**cldf:underriner:09**\n**cldf:waterman:25**\n**hh:d:Bommelyn:Tolowa**\n**hh:e:Gould:Tolowa**\n**hh:e:MillerSeaburg:Athapaskans-Oregon**\n**hh:g:Bommelyn:Tolowa**\n**hh:hsoctyp:Hall:Nuu-Wee-Ya**\n**hh:hv:Spence:Oregon-Athabaskan**\n**hh:hvb:Golla:California**\n**hh:phon:Bright:Tolowa**\n**hh:s:Bommelyn:Tolowa**\n**hh:t:Jacobs:Chetco**\n**hh:t:Jacobs:Chetco:1968**\n**hh:w:Gibbs:Northwest-California**\n**mpieva:Brommelyn2003Theprole**"
+  },
+  "altnames": {
+    "multitree": "\nChetco\nSmith River\nSmith River Athabaskan\nTolowa\nTolowa-Chetco",
+    "lexvo": "\nTolowa [en]",
+    "hhbib_lgcode": "\nChetco\nTolowa\nTututni",
+    "elcat": "\nChetco\nChetco-Tolowa\nSiletz Dee-ni\nSmith River\nSmith River Athabaskan\nTolowa\nTolowa-Chetco"
+  },
+  "triggers": {
+    "lgcode": "\ntolowa\nchetco"
+  },
+  "identifier": {
+    "multitree": "tol",
+    "endangeredlanguages": "855"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tolowa (855-tol) = Awakening [Golla 2011](cldf:golla:11)"
+  }
+}

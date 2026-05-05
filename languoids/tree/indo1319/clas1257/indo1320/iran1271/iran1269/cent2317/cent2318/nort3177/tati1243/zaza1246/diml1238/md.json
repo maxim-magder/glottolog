@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Dimli",
+    "hid": "diq",
+    "level": "language",
+    "iso639-3": "diq",
+    "latitude": "38.6147",
+    "longitude": "39.6388",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "links": "\n[Dimli](https://endangeredlanguages.com/lang/5628)\n[Zazaki](https://wals.info/languoid/lect/wals_code_zaz)\nhttps://phoible.org/languages/diml1238\nhttps://www.wikidata.org/entity/Q3943996"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1352**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ludwig:09**\n**cldf:np:nd:212**\n**cldf:todd:85**\n**cldf:werner:18**\n**hh:dial:Bordie:Kurdish**\n**hh:g:Todd:Dimili**\n**hh:g:Todd:Dimili:2002**\n**hh:g:Todd:Dimili:2008**\n**hh:hv:Gippert:Zazaki**\n**hh:hvw:Latham:Comparative**\n**hh:s:Paul:Zazaki**\n**hh:st:Hadank:Zaza**\n**hh:sv:Keskin:Zazaki**\n**hh:svt:Paul:Zazaki**\n**hh:typ:Sandonato:Zazaki**\n**hh:typ:Werner:Southern-Zazaki**\n**hh:v:Paul:Zazaki**\n**iso6393:2012-076**"
+  },
+  "altnames": {
+    "wals": "\nZazaki",
+    "wals other": "\nDimili\nZaza",
+    "moseley & asher (1994)": "\nZaza",
+    "multitree": "\nDimili\nDimli\nDimli (individual language)\nSouthern Zaza\nZaza\nZazaki",
+    "lexvo": "\nDimli (individual language) [en]\nDimli [en]",
+    "hhbib_lgcode": "\nCermik-Siverek\nKor\nKori\nSivereki\nSiwerek\nSüd-Zazaki\nZaza\nZazaki\nZazaki-Southern",
+    "elcat": "\nDimili\nDimli\nDimlī\nSouthern Zaza\nZaza\nZazaki"
+  },
+  "triggers": {
+    "lgcode": "\nzazaki\ndimili\nsiwerek\ndimli"
+  },
+  "identifier": {
+    "wals": "zaz",
+    "multitree": "diq",
+    "endangeredlanguages": "5628"
+  },
+  "classification": {
+    "sub": "**hh:v:Paul:Zazaki**",
+    "subrefs": "\n**hh:v:Paul:Zazaki**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dimli (5628-diq) = Vulnerable (40 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

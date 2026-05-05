@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kolom",
+    "hid": "klm",
+    "level": "language",
+    "iso639-3": "klm",
+    "latitude": "-5.57832",
+    "longitude": "146.212",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Migum](https://lexibank.clld.org/languages/transnewguineaorg-migum)\n[migum](https://lexibank.clld.org/languages/zgraggenmadang-migum)\nhttps://en.wikipedia.org/wiki/Kolom_language\nhttps://www.wikidata.org/entity/Q6844970"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Schmitz:Nordost-Neuguinea**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvw:Ray:NPapua**\n**hh:hw:Dempwolff:Deutsch-Neuguinea**\n**hh:hw:Zgraggen:Rai**\n**hh:w:Claassen:Kolom**\n**hh:w:vonMiklucho-Maclay:Maklaya**\n**hh:wsoc:Gray:Yabong**\n**iso6393:2009-038**"
+  },
+  "altnames": {
+    "multitree": "\nKolom",
+    "lexvo": "\nMigum [en]",
+    "hhbib_lgcode": "\nLamtub\nLangtub\nMigum\nPapuan: Langtub\nSingor"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "klm"
+  },
+  "classification": {
+    "sub": "**hh:hv:ClaassenMcElhanon:Finisterre**:49 **hh:hw:Zgraggen:Rai**",
+    "subrefs": "\n**hh:hw:Zgraggen:Rai**\n**hh:hv:ClaassenMcElhanon:Finisterre**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Migum (klm-klm) = 6b (Threatened)."
+  }
+}

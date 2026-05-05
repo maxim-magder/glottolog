@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sabah Malay",
+    "hid": "msi",
+    "level": "language",
+    "iso639-3": "msi",
+    "latitude": "4.64808",
+    "longitude": "117.024",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Sabah Malay](https://grambank.clld.org/languages/saba1263)\nhttps://www.wikidata.org/entity/Q10867404"
+  },
+  "classification": {
+    "sub": "**hh:v:Hoogervorst:Sabah-Malay**",
+    "subrefs": "\n**hh:v:Hoogervorst:Sabah-Malay**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:b:Collins:Melayu-Borneo**\n**hh:g:Aye:Bazaar-Malay**\n**hh:g:Hugh:Bazaar-Malay**\n**hh:g:Kader:Melayu-Pasar**\n**hh:g:Muthiah:Bazaar-Malay**\n**hh:g:Peace-Corps:Bazaar-Malay**\n**hh:h:AdelaarPrentice:Malay**\n**hh:phonsoc:Wong:Sabah-Malay**\n**hh:s:Aye:Singapore-Bazaar**\n**hh:s:Ding:Pijin-Melayu**\n**hh:v:Hoogervorst:Sabah-Malay**\n**hh:w:Prentice:Wordlist-Borneo**\n**mpieva:Peck1988Sabahsyn**"
+  },
+  "altnames": {
+    "multitree": "\nBazaar Malay\nMalay, Sabah\nPasar Malay\nSabah Malay",
+    "lexvo": "\nSabah Malay [en]",
+    "hhbib_lgcode": "\nBazaar Malay\nBrunei\nBrunei-Sabah Malay\nMalay-Sabah\nSabah Malay\nSabah Pidgin Malay\nSingapore Bazaar Malay\nSingapore Chinese Bazaar Malay",
+    "glottolog": "\nBrunei-Sabah Malay"
+  },
+  "triggers": {
+    "lgcode": "\npasar\nsyntax AND sabah"
+  },
+  "identifier": {
+    "multitree": "msi"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, Sabah (msi-msi) = 3 (Wider communication). Used throughout the state of Sabah in virtually all non-formal domains. Became the lingua franca of over 50 different ethno-linguistic groups."
+  }
+}

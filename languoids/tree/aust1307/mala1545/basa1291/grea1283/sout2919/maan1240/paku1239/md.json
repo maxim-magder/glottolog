@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Paku",
+    "hid": "pku",
+    "level": "language",
+    "iso639-3": "pku",
+    "latitude": "-1.9063",
+    "longitude": "115.087",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2932604\nhttps://en.wikipedia.org/wiki/Paku_language_(Indonesia)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Diedrich:Paku**\n**hh:hv:Hudson:Sarawak**\n**hh:hvw:Hudson:Barito**\n**hh:hvw:Hudson:Padju-Epat**\n**hh:phon:Mulyani:Paku**\n**hh:s:Iper:Paku**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nPaku",
+    "lexvo": "\nPaku [en]"
+  },
+  "triggers": {
+    "lgcode": "\npaku\nisolects"
+  },
+  "identifier": {
+    "multitree": "pku"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hudson:Barito**",
+    "subrefs": "\n**hh:hvw:Hudson:Barito**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Paku (pku-pku) = 8a (Moribund)."
+  }
+}

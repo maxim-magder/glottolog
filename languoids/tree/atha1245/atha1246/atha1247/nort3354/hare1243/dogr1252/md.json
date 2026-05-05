@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Dogrib",
+    "hid": "dgr",
+    "level": "language",
+    "iso639-3": "dgr",
+    "latitude": "63.17",
+    "longitude": "-117.25",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Dogrib](https://endangeredlanguages.com/lang/2159)\nhttps://en.wikipedia.org/wiki/Dogrib_language\nhttps://www.wikidata.org/entity/Q20979"
+  },
+  "sources": {
+    "glottolog": "\n**anla:CA851R1852**\n**anla:CA851T1855**\n**anla:CA963G1997**\n**anla:CA968D1968**\n**anla:CA969H1970a**\n**anla:CA969H1970b**\n**anla:CA974S1983**\n**anla:CA976Rc1979b**\n**anla:CA976Rc1979c**\n**anla:CA977A1979**\n**anla:CA977A1980**\n**anla:CA980RcA1980**\n**anla:CA983ALSC1983**\n**anla:CA986HFC1986**\n**anla:CA992RcS2002a**\n**anla:CN967H1968**\n**anla:CN967H1969**\n**anla:KU894R1894a**\n**anla:KU894R1894b**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:helm:68**\n**cldf:helm:72**\n**cldf:helm:lurie:61**\n**cldf:keith:60**\n**cldf:lewis:ed:09**\n**cldf:mackenzie:66:1**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:szathmary:84**\n**hh:d:Feenstraetal:Dogrib**\n**hh:e:Helm:Dogrib**\n**hh:hv:Howren:MacKenzie**\n**hh:phon:Coleman:Dogrib**\n**hh:phon:Howren:Rae-Dogrib**\n**hh:phon:Jaker:Dogrib**\n**hh:styp:Saxon:Dogrib**\n**hh:typ:Welch:Tlicho-Yatii**\n**hh:w:Siemensetal:Dogrib**\n**iso6393:2019-052**\n**mpieva:1996TlichoYa**\n**sil16:10495**\n**sil16:10496**\n**sil16:46770**\n**sil16:47476**\n**sil16:49070**"
+  },
+  "altnames": {
+    "multitree": "\nDogrib\nDogrí\nThlingchadine",
+    "lexvo": "\nDogrib [de]\nDogrib language [en]\nFlanc-de-chien [fr]\nLíngua dogrib [pt]\ndogrib [fr]\nДогриб [ru]",
+    "hhbib_lgcode": "\nRae Dogrib\nTłı̨chǫ Yatıı̀",
+    "elcat": "\nDogrib\nThlingchadine\nTłı̨chǫ"
+  },
+  "triggers": {
+    "lgcode": "\ndogrib\ntide\nyatii\ntlo\nenihtle"
+  },
+  "identifier": {
+    "multitree": "dgr",
+    "endangeredlanguages": "2159"
+  },
+  "classification": {
+    "sub": "**hh:h:Mithun:NAmerica**:345, 350-352 **hh:h:Jaker:Na-Dene**:474",
+    "subrefs": "\n**hh:h:Mithun:NAmerica**\n**hh:h:Jaker:Na-Dene**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Dogrib (2159-dgr) = Endangered (100 percent certain, based on the evidence available) (About 1,350 regularly use it in the home.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

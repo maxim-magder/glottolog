@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Popti'",
+    "hid": "jac",
+    "level": "language",
+    "iso639-3": "jac",
+    "latitude": "15.6609",
+    "longitude": "-91.6633",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT",
+      "MX"
+    ],
+    "links": "\n[Jakalteko](https://endangeredlanguages.com/lang/6149)\n[Popti'](https://grambank.clld.org/languages/popt1235)\nhttps://en.wikipedia.org/wiki/Jakaltek_language\nhttps://phoible.org/languages/popt1235\nhttps://www.wikidata.org/entity/Q33393"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:grimes:03:1**\n**cldf:lafarge:byers:31**\n**cldf:lewis:ed:09**\n**cldf:np:09:1**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:pellicer:05**\n**cldf:richards:03**\n**cldf:sanchez:martinez:etal:12**\n**hh:d:Day:Jacaltec**\n**hh:g:Craig:Jacaltec**\n**hh:g:Day:Jacaltec**\n**hh:hb:ThomasSwanton:Mexico**\n**hh:hew:BlomLaFarge:Middle-America**\n**hh:hew:Sapper:Anahuac**\n**hh:hv:Mayers:Mayan**\n**hh:hv:VielmanMayers:Guatemala**\n**hh:hvs:Yasugi:Mayas-Guatemala**\n**hh:hvwb:Campbell:SEChiapas**\n**hh:s:ChurchChurch:Jacaltec**\n**hh:sdial:RossRojas:Popti**\n**hh:t:Shaw:Guatemala-Honduras**\n**hh:typ:ChurchChurch:Jacaltec**\n**hh:typ:Datz:Jacaltec**\n**iso6393:2008-056**\n**mpieva:Delgado2007Stzibnhe**\n**mpieva:Elson1960Mayanstu**\n**mpieva:Mendez1997Dicciona**\n**mpieva:Ramirez1996Dicciona**\n**mpieva:Ross2000Slahbaba**\n**mpieva:Ross2007Wolnheho**\n**sil16:10031**\n**sil16:10047**\n**sil16:10054**\n**sil16:10412**\n**sil16:10413**\n**sil16:10416**\n**sil16:10417**\n**sil16:12428**\n**sil16:12429**\n**sil16:12430**\n**sil16:12431**\n**sil16:13456**\n**sil16:13457**\n**sil16:13458**\n**sil16:13459**\n**sil16:13460**\n**sil16:13461**\n**sil16:13462**\n**sil16:15243**\n**sil16:15244**\n**sil16:16641**\n**sil16:16642**\n**sil16:17258**\n**sil16:22949**\n**sil16:23758**\n**sil16:33545**\n**sil16:46677**\n**sil16:46678**"
+  },
+  "altnames": {
+    "multitree": "\nEastern\nJacaltec\nJacalteco\nJakaltek\nJakalteko\nJakalteko, Eastern\nPoptí",
+    "lexvo": "\nIdioma jacalteco [es]\nJacaltec [fr]\nJacalteeks [nl]\nJakaltek language [en]\nJakaltekisk [no]\nJakalteko [en]\nLíngua jacalteca [pt]\nPopti' [en]\nХакалтекски јазик [mk]\n하칼테크어 [ko]",
+    "hhbib_lgcode": "\nJacaltec\nJacalteca\nJacalteca ()\nJakalteko-Western",
+    "elcat": "\nJacaltec\nJakalteco\nJakalteko\nPopti'"
+  },
+  "triggers": {
+    "lgcode": "\njacaltec\nmayers\nrefinements\npopti\nhune\ncul\njacalteca\nelson\njakaltenango\njacalteco\nhaca"
+  },
+  "identifier": {
+    "wals": "jak",
+    "multitree": "jac",
+    "endangeredlanguages": "6149"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Jakalteko (6149) = Vulnerable (20 percent certain, based on the evidence available) [Richards 2003](cldf:richards:03)"
+  }
+}

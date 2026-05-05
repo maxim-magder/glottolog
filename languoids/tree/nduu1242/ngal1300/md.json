@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ngala",
+    "hid": "nud",
+    "level": "language",
+    "iso639-3": "nud",
+    "latitude": "-4.26628",
+    "longitude": "142.5",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ngala](https://endangeredlanguages.com/lang/4900)\nhttps://www.wikidata.org/entity/Q7021893\nhttps://en.wikipedia.org/wiki/Nggala_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvs:Laycock:Ndu**\n**hh:hvs:Laycock:Ndu:1962**\n**hh:hvw:Laycock:Lumi**"
+  },
+  "altnames": {
+    "multitree": "\nKara\nNgala\nSogap\nSwagup",
+    "lexvo": "\nNgala [en]",
+    "elcat": "\nGala\nKara\nNgala\nNggala\nSogap\nSwagup"
+  },
+  "triggers": {
+    "lgcode": "\nNOT of AND the AND ndu"
+  },
+  "identifier": {
+    "multitree": "nud",
+    "endangeredlanguages": "4900"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Laycock:Ndu**:181, 185-189 **hh:typ:Aikhenvald:Yalaku**:242-243",
+    "subrefs": "\n**hh:hvs:Laycock:Ndu**\n**hh:typ:Aikhenvald:Yalaku**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ngala (4900-nud) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

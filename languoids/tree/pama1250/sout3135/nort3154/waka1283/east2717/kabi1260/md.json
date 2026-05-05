@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kabikabi",
+    "hid": "gbw",
+    "iso639-3": "gbw",
+    "level": "language",
+    "latitude": "-25.44486229",
+    "longitude": "153.1539929",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Gubbi Gubbi](https://endangeredlanguages.com/lang/6779)\nhttps://en.wikipedia.org/wiki/Gubbi_Gubbi_language\nhttps://phoible.org/languages/kabi1260\nhttps://www.wikidata.org/entity/Q5515391",
+    "timespan": "1983-01-01/1983-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:12:5**\n**hh:d:Bell:Butchulla**\n**hh:e:Howitt:SEAustralia**\n**hh:ew:Mathew:Two-Queensland**\n**hh:hvwphon:Holmer:South-Eastern-Queensland**\n**hh:hw:Ridley:Australian**\n**hh:sd:Bell:Badjala**\n**hh:w:Grimwade:Narinjari**\n**hh:w:MeyerUhle:Dippil**\n**hh:w:Ridley:Kamilaroi-Dippil-Turrabul**\n**hh:w:Ridley:Kamilaroi:1875**\n**hh:w:Taplin:Australian**\n**hh:w:Watson:Queensland**\n**iso6393:2012-052**"
+  },
+  "altnames": {
+    "ethnologue": "\nGabi-Gabi",
+    "hhbib_lgcode": "\nBadjala\nBatjala\nBatyala\nButchulla\nDippil\nGabi-Gabi\nGubbi Gubbi\nKabi\nKabi-Kabi\nQueensland tribes near Maryborough",
+    "elcat": "\nCabee\nCarby\nCarby-carbery\nDhapil\nDhipil\nDippil\nDipple\nDoon-dooburra\nDoondoora\nDowarburra\nDundubara\nDunduura\nGabi\nGabi-Gabi\nGabigabi\nGubbi Gubbi\nKabbi\nKabi\nKabi Kabi\nKabikabi\nKahby\nKarabi\nKarbi\nMaiba"
+  },
+  "triggers": {
+    "lgcode": "\ndippil\nbadjala"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Holmer:South-Eastern-Queensland**",
+    "subrefs": "\n**hh:hvwphon:Holmer:South-Eastern-Queensland**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6779"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Gubbi Gubbi (6779-gbw) = Dormant [Bowern 2011](cldf:bowern:11:1)"
+  }
+}

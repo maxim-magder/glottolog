@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Nauru",
+    "hid": "nau",
+    "level": "language",
+    "iso639-3": "nau",
+    "latitude": "-0.52957",
+    "longitude": "166.922",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NR"
+    ],
+    "links": "\n[Nauru](https://grambank.clld.org/languages/naur1243)\n[Nauru](https://lexibank.clld.org/languages/abvdoceanic-Nauru)\n[Nauruan](https://endangeredlanguages.com/lang/3066)\n[Nauruan](https://wals.info/languoid/lect/wals_code_nau)\nhttps://en.wikipedia.org/wiki/Nauruan_language\nhttps://www.wikidata.org/entity/Q13307"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lynch:98**\n**cldf:np:nd:264**\n**cldf:stephen:36**\n**cldf:wedgwood:36**\n**hh:d:SPC:Nauru**\n**hh:e:Hambruch:Nauru:1915**\n**hh:e:Wedgwood:Nauru**\n**hh:es:Hambruch:Nauru:1914**\n**hh:phon:Blumenfeld:Nauruan**\n**hh:phon:Johnson:Nauruan**\n**hh:s:Kayser:Nauru**\n**hh:s:Kayser:Nauruan:1937**\n**hh:typ:Aikhenvald:Classifiers:2003**\n**hh:typ:Johnson:Nauruan**\n**hh:vphon:Hughes:Nauruan**\n**hh:vw:Nathan:Nauruan**\n**langsci:kayser:93**\n**mpieva:Kayser1993Naurugra**"
+  },
+  "altnames": {
+    "wals": "\nNauruan",
+    "wals other": "\nNauru",
+    "ruhlen (1987)": "\nNauruan",
+    "moseley & asher (1994)": "\nNauruan",
+    "multitree": "\nNauru\nNauruan\nNauruano",
+    "lexvo": "\nBahasa Nauru [ms]\nDorerin Naoero [na]\nIdioma nauruano [es]\nJęzyk nauruański [pl]\nLengua naureise [lij]\nLingua nauruaisa [rm]\nLingua nauruana [it]\nLíngua nauruana [pt]\nNaoeroeg [br]\nNaura lingvo [eo]\nNaurisk [no]\nNauriska [sv]\nNauru [en]\nNauru keel [et]\nNauruaans [nl]\nNauruan [fr]\nNauruan language [en]\nNauruca [tr]\nNauruiečių kalba [lt]\nNauruiešu valoda [lv]\nNauruische Sprache [de]\nNaurun kieli [fi]\nNauruština [cs]\nnauruan [fr]\nΝαουρού [el]\nНауруански език [bg]\nНауруанский язык [ru]\nנאורית [he]\nلغة ناورونية [ar]\nภาษานาอูรู [th]\nናውሩኛ [am]\nナウル語 [ja]\n瑙鲁语 [zh]\n나우루어 [ko]",
+    "hhbib_lgcode": "\nNauruan",
+    "elcat": "\nNauru\nNauruan"
+  },
+  "triggers": {
+    "lgcode": "\nnauru\nnauruan"
+  },
+  "identifier": {
+    "wals": "nau",
+    "multitree": "naur;nau",
+    "endangeredlanguages": "3066"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping** **hh:vphon:Hughes:Nauruan**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:vphon:Hughes:Nauruan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nauruan (3066-nau) = Threatened (20 percent certain, based on the evidence available) (decreasing) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

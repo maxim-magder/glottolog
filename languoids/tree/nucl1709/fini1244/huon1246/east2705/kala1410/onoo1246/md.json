@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ono",
+    "hid": "ons",
+    "level": "language",
+    "iso639-3": "ons",
+    "latitude": "-6.19223",
+    "longitude": "147.579",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ono](https://lexibank.clld.org/languages/mcelhanonhuon-Ono)\n[Ono](https://lexibank.clld.org/languages/transnewguineaorg-ono)\n[Ono](https://wals.info/languoid/lect/wals_code_ono)\nhttps://en.wikipedia.org/wiki/Ono_language\nhttps://www.wikidata.org/entity/Q11732548"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:suter:66**\n**hh:hld:Smith:Morobe**\n**hh:htyp:McElhanon:Finisterre-Huon**\n**hh:hv:Ross:Voorhoeve**\n**hh:hvld:McElhanon:NETNG**\n**hh:hvtyp:Suter:Huon**\n**hh:hvw:McElhanon:Huon**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:phon:Phinnemore:Ono**\n**hh:phon:Phinnemore:Ono:1985**\n**hh:s:Wacke:Ono**\n**sil16:23061**\n**sil16:23410**\n**silpng:silpng1956-1990:1661**\n**silpng:silpng1956-1990:866**"
+  },
+  "altnames": {
+    "wals": "\nOno",
+    "ruhlen (1987)": "\nOno",
+    "moseley & asher (1994)": "\nOno",
+    "multitree": "\nOno",
+    "lexvo": "\nOno [en]",
+    "hhbib_lgcode": "\nKelana Kei\nKelana-Kei"
+  },
+  "triggers": {
+    "lgcode": "\nmight\nono\nsprache AND ono"
+  },
+  "identifier": {
+    "wals": "ono",
+    "multitree": "ons"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Suter:Huon**",
+    "subrefs": "\n**hh:hvtyp:Suter:Huon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ono (ons-ons) = 5* (Developing)."
+  }
+}

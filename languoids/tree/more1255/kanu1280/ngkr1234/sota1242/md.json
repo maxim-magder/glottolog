@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sota Kanum",
+    "hid": "krz",
+    "level": "language",
+    "iso639-3": "krz",
+    "latitude": "-8.40452",
+    "longitude": "140.969",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "PG"
+    ],
+    "links": "\n[Sota Kanum](https://endangeredlanguages.com/lang/4441)\nhttps://en.wikipedia.org/wiki/Nggarna_language\nhttps://www.wikidata.org/entity/Q12952568"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lebold;:kriens:09**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Mariati:Sota-Kanum**\n**hh:hwld:Donohue:Wasur**\n**hh:ld:Mariati:Kanum-Sota:Fonem**\n**hh:phon:Sanjoko:Sota-Barkari**\n**hh:typ:Mariati:Kanum-Sota**\n**hh:typ:Sanjoko:Kanum-Sota**"
+  },
+  "altnames": {
+    "multitree": "\nEnkelembu\nKanum\nKanum, Sota\nKenume\nKnwne",
+    "lexvo": "\nSota Kanum [en]",
+    "hhbib_lgcode": "\nNgkrn\nSota",
+    "elcat": "\nEnkelembu\nKanum\nKenume\nKnwne\nSota\nSota Kanum"
+  },
+  "identifier": {
+    "multitree": "krz",
+    "endangeredlanguages": "4441"
+  },
+  "classification": {
+    "sub": "**hh:hwld:Donohue:Wasur**",
+    "subrefs": "\n**hh:hwld:Donohue:Wasur**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sota Kanum (4441-krz) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

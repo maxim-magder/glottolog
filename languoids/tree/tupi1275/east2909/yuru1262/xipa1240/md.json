@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Xipaya",
+    "hid": "xiy",
+    "level": "language",
+    "iso639-3": "xiy",
+    "latitude": "-4.133",
+    "longitude": "-49.948",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Xipaya](https://endangeredlanguages.com/lang/1001)\nhttps://www.wikidata.org/entity/Q13226\nhttps://en.wikipedia.org/wiki/Xipaya_language\nhttps://phoible.org/languages/xipa1240"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:ricardo:aguilar:ed:nd**\n**fabreall2009ann:Tupi_xipaya01**\n**fabreall2009ann:Tupi_xipaya02**\n**fabreall2009ann:Tupi_xipaya05**\n**fabreall2009ann:Tupi_xipaya08**\n**fabreall2009ann:Tupi_xipaya09**\n**fabreall2009ann:Tupi_xipaya11**\n**fabreall2009ann:Tupi_xipaya13**\n**hh:e:Nimuendaju:LMXingu**\n**hh:e:Snethlage:Mittleren-Xingu**\n**hh:ew:Nimuendaju:Xipaya**\n**hh:ew:Snethlage:Xingu-Tapajoz**\n**hh:g:Reis:Xipaya**\n**hh:hv:FargettiRodrigues:Xipaya-Juruna**\n**hh:phon:Reis:Xipaya**\n**hh:s:Nimuendaju:Sipaya**\n**hh:w:Nimuendaju:Sipaya**\n**hh:w:Snethlage:Chipaya-Curuahe**\n**mpieva:Rodrigues2007Etudemor**"
+  },
+  "altnames": {
+    "multitree": "\nAchipaie\nChipaia\nChipaya\nShipaja\nShipaya\nXipaia\nXipaya\nXipáya\nŠipaya",
+    "lexvo": "\nLíngua xipaia [pt]\nXipaya [en]\nXipaya language [en]\nŠipajų kalba [lt]",
+    "hhbib_lgcode": "\nChipaya",
+    "elcat": "\nAchipaie\nChipaia\nChipaya\nShipaja\nShipaya\nXipaia\nXipaya\nXipáya\nŠipaya"
+  },
+  "triggers": {
+    "lgcode": "\nsipaya\nnordbrasilianischen\nsipaia\nxipaya\nvestida\nxipaia"
+  },
+  "identifier": {
+    "multitree": "xiy",
+    "endangeredlanguages": "1001"
+  },
+  "classification": {
+    "sub": "**hh:hv:FargettiRodrigues:Xipaya-Juruna** **hh:v:deOliveira:Juruna**",
+    "subrefs": "\n**hh:v:deOliveira:Juruna**\n**hh:hv:FargettiRodrigues:Xipaya-Juruna**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Xipaya (1001-xiy) = Dormant [Ricardo and Aguilar n.d.](cldf:ricardo:aguilar:ed:nd)"
+  }
+}

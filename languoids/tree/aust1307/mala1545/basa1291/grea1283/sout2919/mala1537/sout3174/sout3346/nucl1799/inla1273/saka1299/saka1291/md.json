@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "West Malagasy Sakalava",
+    "hid": "skg",
+    "level": "language",
+    "iso639-3": "skg",
+    "latitude": "-20.28",
+    "longitude": "44.32",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MG"
+    ],
+    "links": "\n[Sakalava](https://lexibank.clld.org/languages/servamalagasy-SakalavaAmbanja)\n[Sakalava](https://lexibank.clld.org/languages/servamalagasy-SakalavaMorondava)\n[Sakalava](https://lexibank.clld.org/languages/servamalagasy-SakalavaMiandrivazo)\n[Sakalava](https://lexibank.clld.org/languages/servamalagasy-SakalavaBesalampy)\n[Sakalava](https://lexibank.clld.org/languages/servamalagasy-SakalavaBeloniTsiribihina)\n[West Malagasy Sakalava](https://grambank.clld.org/languages/saka1291)\nhttps://www.wikidata.org/entity/Q12952768"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2548**\n**asjp2010:4227**\n**asjp2010:429**\n**cldf:faublee:46**\n**cldf:kurze:86**\n**cldf:n:64**\n**hh:he:Schomerus-Gernbock:Madagaskar**\n**hh:hv:Servaetal:Malagasy**\n**hh:hvs:Dahl:Malgache-Maanjan**\n**hh:hvw:ServaPasquini:Madagascar:2020**\n**hh:s:Tshiangale:Sakalava**\n**hh:sd:Dalmond:Malgaches**\n**hh:vd:Mellis:Nord-Ouest**\n**hh:w:Sibree:Malagasy**\n**iso6393:2010-036**"
+  },
+  "altnames": {
+    "multitree": "\nMalagasy, Sakalava\nSakalava Malagasy",
+    "lexvo": "\nSakalava Malagasy [en]",
+    "hhbib_lgcode": "\n12 Sakalava (Morondava)\n14 - Sakalava (Maintirano)\n21 Sakalava (Maintirano)\n44 - Sakalava (Miandrivazo)\n49 - Sakalava (Besalampy)\n60 - Sakalava (Belon'i Tsiribihina)\nAnkavandra\nMalagasy (various lects) including Sakalava\nMalagasy-Sakalava\nSakalava\nSakalava of Morondava\nSakalave"
+  },
+  "triggers": {
+    "lgcode": "\nformateur\npuest\nteachers AND formateur\nvezo"
+  },
+  "identifier": {
+    "multitree": "skg"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ServaPasquini:Madagascar:2020**",
+    "subrefs": "\n**hh:hvw:ServaPasquini:Madagascar:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malagasy, Sakalava (skg-skg) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gan Chinese",
+    "hid": "gan",
+    "level": "language",
+    "iso639-3": "gan",
+    "latitude": "27.9896",
+    "longitude": "115.166",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Gan_Chinese\nhttps://www.wikidata.org/entity/Q33475"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Li:Lichuan**\n**hh:d:Xiong:Nanchang**\n**hh:d:Yan:Luodi**\n**hh:g:Li:Yichun**\n**hh:g:LiShuangqing:Gan**\n**hh:g:Zhang:Pingjiang**\n**hh:hphon:Chao:Hubei**\n**hh:hv:ChappellLi:Sinitic**\n**hh:hv:Coblin:Gan**\n**hh:hvbld:Yan:Chinese**\n**hh:hvw:Hu:Gan**\n**hh:phon:Li:Longtan-Xupu**\n**hh:phon:Luo:Linchuan**\n**hh:phon:Sagart:Gan**\n**hh:phon:Sagart:Shanggao**\n**hh:phon:Sagart:Wuning**\n**hh:phon:SagartHalle:Jiangxi**\n**hh:phon:Zhang:Nancheng**\n**hh:phondial:Jiangxi:Jiangxi**\n**hh:phondial:PSBGDJP:Ganzhou**\n**hh:phonsoc:Cui:Nanchang-Gan**\n**hh:phonw:Liu:Ke-Gan**\n**hh:s:Chen:Anren**\n**hh:s:Cui:Yiyang**\n**hh:s:Min:Chongyang**\n**hh:s:Peng:Anhui**\n**hh:s:Zhang:Pingjiang**\n**hh:v:Hu:Lianhua-Gan**"
+  },
+  "altnames": {
+    "multitree": "\nChinese, Gan\nChinese,Gan\nGan\nGan Chinese\nGan Dialect Family\nGan-Hakka\nGàn\nKan",
+    "lexvo": "\nBahasa Gan [ms]\nChino gan [es]\nChinu gang [ast]\nChinês gan [pt]\nGan Chinese [en]\nGan [cy]\nGan kineski [sh]\nGan language [en]\nGan-kiina [fi]\nGaneg [br]\nGanish [gv]\nGàn [an]\nJęzyk gan [pl]\nKàm-gí [nan]\nKàm-ngî [hak]\nLingua gan [it]\nTiếng Cám [vi]\nГань [ru]\nҐань [uk]\nكن [ar]\nภาษาจีนกั้น [th]\nカン語 [ja]\n江西話 [yue]\n贛語 [gan]\n贛語 [lzh]\n赣语 [wuu]\n간어 [ko]",
+    "hhbib_lgcode": "\nAnren\nChinese-Gan\nChongyang\nGan dialects in Jiangxi-Hunan-Fujian-Hubei-Anhui provinces\nHubei\nJiangxi\nJiangxi Gan\nJiangxi Lichuan\nLianhua Gan\nLinchuan\nLongtan in Xupu\nNanchang\nNancheng\nPingjiang of Chengguan\nWuning\nYichun\nYiyang"
+  },
+  "triggers": {
+    "lgcode": "\njiangxi\nshanggao"
+  },
+  "identifier": {
+    "multitree": "gan"
+  },
+  "classification": {
+    "sub": "**hh:hv:Handel:Chinese-Diversification** **hh:hv:Norman:Chinese-Classification**",
+    "subrefs": "\n**hh:hv:Handel:Chinese-Diversification**\n**hh:hv:Norman:Chinese-Classification**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinese, Gan (gan-gan) = 5 (Developing). Language of recognized nationality: Han."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sabah Bisaya",
+    "hid": "bsy",
+    "level": "language",
+    "iso639-3": "bsy",
+    "latitude": "5.30433",
+    "longitude": "115.512",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\n[Sabah Bisaya](https://grambank.clld.org/languages/saba1267)\nhttps://en.wikipedia.org/wiki/Sabah_Bisaya\nhttps://www.wikidata.org/entity/Q7395820"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hw:Ray:Borneo**\n**hh:v:Dunn:Bisaya**\n**hh:w:Lobel:North-Borneo**\n**hh:w:Yussin:Bisaya**\n**mpieva:54**\n**mpieva:Mirasol1926Vocabula**\n**sil16:18552**"
+  },
+  "altnames": {
+    "multitree": "\nBasaya\nBesaya\nBisaia\nBisaya, Sabah\nBisayah\nJilama Bawang\nJilama Sungai",
+    "lexvo": "\nSabah Bisaya [en]",
+    "hhbib_lgcode": "\n(1) Sabah Bisaya (SBISAYA)\nBisaya\nBisaya-Sabah\nBorneo Bisayah"
+  },
+  "triggers": {
+    "lgcode": "\ny AND bisaya"
+  },
+  "identifier": {
+    "multitree": "bsy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lobel:Southwest-Sabah**",
+    "subrefs": "\n**hh:hv:Lobel:Southwest-Sabah**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bisaya, Sabah (bsy-bsy) = 6b (Threatened)."
+  }
+}

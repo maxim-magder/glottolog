@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tengou-Togo Dogon",
+    "hid": "dtk",
+    "level": "language",
+    "iso639-3": "dtk",
+    "latitude": "14.0675",
+    "longitude": "-3.37158",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Tengou-Togo Dogon](https://grambank.clld.org/languages/tene1248)\nhttps://www.wikidata.org/entity/Q11018863"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:heath:11**\n**eballiso2009:22406**\n**eballiso2009:45882**\n**eballiso2009:7340**\n**hh:dial:TessougueTogo:Dogon**\n**hh:g:Heath:Togo-Kan**\n**hh:g:Prost:TogoKa**\n**hh:h:Desplagnes:Dogon**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**hh:ld:SagaraAndrason:Tengukan-Onomatopoeias**\n**hh:ld:SagaraAndrason:Togo-Tengu-Kan-Animal**\n**hh:s:Sagara:Tengukan**\n**ldh:item_2176494**\n**ldh:item_2176508**\n**sil16:45051**"
+  },
+  "altnames": {
+    "multitree": "\nDogon\nDogon, Tene Kan\nTene\nTene Kan\nTene Tingi",
+    "lexvo": "\nTene Kan Dogon [en]",
+    "hhbib_lgcode": "\nBàkas\nTene Kan Dogon\nTeŋukan Dogon\nTingou-Khan\nTogo Kã\nTogo-Kan\nTogo-kan"
+  },
+  "triggers": {
+    "lgcode": "\ngimini"
+  },
+  "identifier": {
+    "multitree": "dtk"
+  },
+  "classification": {
+    "sub": "**hh:hw:Hochstetler:Dogon**, **hh:hv:HeathProkhorov:Dogon** **hh:hv:MoranProkic:Dogon**",
+    "subrefs": "\n**hh:hw:Hochstetler:Dogon**\n**hh:hv:HeathProkhorov:Dogon**\n**hh:hv:MoranProkic:Dogon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dogon, Togo Kan (dtk-dtk) = 6a (Vigorous)."
+  }
+}

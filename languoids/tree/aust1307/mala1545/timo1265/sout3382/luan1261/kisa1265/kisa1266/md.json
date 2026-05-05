@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kisar",
+    "hid": "kje",
+    "level": "language",
+    "iso639-3": "kje",
+    "latitude": "-8.05122",
+    "longitude": "127.18",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kisar](https://wals.info/languoid/lect/wals_code_ksr)\nhttps://en.wikipedia.org/wiki/Kisar_language\nhttps://www.wikidata.org/entity/Q3197441"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christensen:91**\n**hh:h:Taber:Maluku**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hv:vanEngelenhoven:Luangisch-Kisarsch**\n**hh:hvw:Taber:SWMaluku**\n**hh:phon:ChristensenChristensen:Kisar**\n**hh:s:Christensenetal:Kisar**\n**hh:s:Samloyetal:Kisar**\n**hh:typ:Blood:Kisar**\n**hh:v:Fernandez:Kisar**\n**hh:w:Earl:Kisser**\n**hh:w:Earl:Timor**\n**hh:w:Rinnooy:Kissersch**\n**mpieva:Burquest19921995Descript**\n**mpieva:Burquest1992Phonolog**\n**mpieva:Christensen1991Wanakunu**\n**sil16:19193**\n**sil16:19194**\n**sil16:41828**\n**sil16:41829**"
+  },
+  "altnames": {
+    "wals": "\nKisar",
+    "ruhlen (1987)": "\nKisar",
+    "moseley & asher (1994)": "\nKisar",
+    "multitree": "\nKisar\nKisser\nMeher\nYotowawa",
+    "lexvo": "\nKisar [en]",
+    "hhbib_lgcode": "\nKissa\nKota Lama (Kisar)\nMesiapy (Kisar)\nWonreli Kota (Kisar)"
+  },
+  "triggers": {
+    "lgcode": "\nyotowawa\nperspektif\nkissersch\nserawatti\nrekonstructie\nkisser\nwanakunu\nluangisch\nakilere\nkeen\nkisarsch"
+  },
+  "identifier": {
+    "wals": "ksr",
+    "multitree": "kje"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:202-247 **hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva**",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kisar (kje-kje) = 5* (Developing)."
+  }
+}

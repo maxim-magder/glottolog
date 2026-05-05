@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nanti",
+    "hid": "cox",
+    "level": "language",
+    "iso639-3": "cox",
+    "latitude": "-12.1018",
+    "longitude": "-72.3507",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Nanti](https://endangeredlanguages.com/lang/2972)\n[Nanti](https://grambank.clld.org/languages/nant1250)\nhttps://en.wikipedia.org/wiki/Nanti_language\nhttps://phoible.org/languages/nant1250\nhttps://www.wikidata.org/entity/Q15342275"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:decultura:nd**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:michael:14:1**\n**cldf:np:nd:264**\n**fabreall2009ann:Arawak_nanti00**\n**fabreall2009ann:Arawak_nanti02**\n**fabreall2009ann:Arawak_nanti03**\n**fabreall2009ann:Arawak_nanti04**\n**fabreall2009ann:Arawak_nanti06**\n**fabreall2009ann:Arawak_nanti08**\n**fabreall2009ann:Arawak_nanti09**\n**fabreall2009ann:Arawak_nanti10**\n**fabreall2009ann:Arawak_nanti11**\n**hh:ge:Michael:Nanti**\n**hh:hv:Michael:Kampa**\n**hh:phonsoc:Beier:Nanti**\n**hh:styp:Michael:Nanti**"
+  },
+  "altnames": {
+    "multitree": "\n\"Cogapacori\"\n\"Kogapakori\"\nAshaninca (Brésil)\nAshaninka (Pérou)\nAsháninca\nAshéninga\nCogapacorí\nNanti",
+    "lexvo": "\nNanti [en]",
+    "elcat": "\nCogapacori\nKogapakori\nNanti"
+  },
+  "triggers": {
+    "lgcode": "\nnanti\naniane\nrintsixu\nnantis\ntsyoteri\nkugapakori"
+  },
+  "identifier": {
+    "multitree": "cox",
+    "endangeredlanguages": "2972"
+  },
+  "classification": {
+    "sub": "**hh:hv:Michael:Kampa**",
+    "subrefs": "\n**hh:hv:Michael:Kampa**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nanti (2972-cox) = Vulnerable (100 percent certain, based on the evidence available) [Michael 2014](cldf:michael:14:1)"
+  }
+}

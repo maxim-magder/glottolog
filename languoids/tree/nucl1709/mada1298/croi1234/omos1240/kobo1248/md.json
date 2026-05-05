@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kobol",
+    "hid": "kgu",
+    "level": "language",
+    "iso639-3": "kgu",
+    "latitude": "-4.79614",
+    "longitude": "145.284",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kobol](https://lexibank.clld.org/languages/transnewguineaorg-kobol)\n[kobol](https://lexibank.clld.org/languages/zgraggenmadang-kobol)\nhttps://en.wikipedia.org/wiki/Kobol_language\nhttps://www.wikidata.org/entity/Q11732325"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1559**\n**hh:hb:Zgraggen:Madang**\n**hh:hv:Pick:Northern-Adelbert:2022**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:NAdelbert**"
+  },
+  "altnames": {
+    "multitree": "\nKobol\nKoguman\nKogumar",
+    "lexvo": "\nKobol [en]",
+    "hhbib_lgcode": "\nKoguman"
+  },
+  "triggers": {
+    "lgcode": "\nadelbert"
+  },
+  "identifier": {
+    "multitree": "kgu"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Pick:Northern-Adelbert**:450-454, 192-194 **hh:hv:PawleyHammarstrom:TNG:2013**",
+    "subrefs": "\n**hh:hv:PawleyHammarstrom:TNG:2013**\n**hh:hvld:Pick:Northern-Adelbert**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kovol (kgu-kgu) = 6a (Vigorous)."
+  }
+}

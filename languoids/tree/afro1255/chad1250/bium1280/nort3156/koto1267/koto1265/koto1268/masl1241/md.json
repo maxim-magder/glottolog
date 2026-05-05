@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Maslam",
+    "hid": "msv",
+    "level": "language",
+    "iso639-3": "msv",
+    "latitude": "12.1918",
+    "longitude": "14.8873",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Maslam](https://endangeredlanguages.com/lang/2306)\nhttps://www.wikidata.org/entity/Q3502273\nhttps://en.wikipedia.org/wiki/Maslam_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Lebeuf:Tchad**\n**hh:hv:Tourneux:Kotoko:Consonantique**\n**hh:hv:Tourneux:Kotoko:Vocalique**\n**hh:hvld:Barreteau:Tchadique-Cameroun**"
+  },
+  "altnames": {
+    "multitree": "\nKotoko-Maltam\nMaltam\nMandage\nMandagué\nMaslam\nMendage",
+    "lexvo": "\nMaslam [en]\nMaslam language [en]",
+    "hhbib_lgcode": "\nKotoko-Mandage-Mantage subsumes Maslam",
+    "elcat": "\nKotoko-Maltam\nMaltam\nMandage\nMandagué\nMaslam\nMendage"
+  },
+  "identifier": {
+    "multitree": "msv",
+    "endangeredlanguages": "2306"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tourneux:Kotoko:Consonantique** **hh:hv:BarreteauDieu:ENCameroun**:65 against the grouping on very common sound changes suggested in **hh:hv:Gravina:Central-Chadic**:46-47",
+    "subrefs": "\n**hh:hv:Tourneux:Kotoko:Consonantique**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Maslam (2306-msv) = Threatened (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

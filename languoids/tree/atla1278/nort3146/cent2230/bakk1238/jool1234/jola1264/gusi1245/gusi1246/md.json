@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Gusilay",
+    "hid": "gsl",
+    "level": "language",
+    "iso639-3": "gsl",
+    "latitude": "12.7761",
+    "longitude": "-16.5026",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\n[Gusilay](https://endangeredlanguages.com/lang/7717)\nhttps://en.wikipedia.org/wiki/Gusilay_language\nhttps://www.wikidata.org/entity/Q35439"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bassene:09:1**\n**cldf:bassene:09:2**\n**cldf:childs:06**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:17195**\n**hh:g:Tendeng:Gusiilay**\n**hh:hvw:Barry:Joola**\n**hh:phon:Yashina:Gusiilaay**\n**hh:phontyp:Sene:Joola-Thiobon**\n**hh:w:CarltonRand:Diola**\n**hh:wsoc:CarltonRand:Diolas**"
+  },
+  "altnames": {
+    "multitree": "\nGusiilay\nGusilaay\nGusilay\nKusiilaay\nKusilay",
+    "lexvo": "\nGusilay [en]",
+    "hhbib_lgcode": "\nGy Gusiilaay\nThiobon (Ehimbaan) in Blouf\nThionk-Essil-Gusilay",
+    "elcat": "\nGusiilay\nGusilaay\nGusilay\nKusiilaay\nKusilay"
+  },
+  "triggers": {
+    "lgcode": "\ngujjolaay\ngusiilay"
+  },
+  "identifier": {
+    "multitree": "gusl;gsl",
+    "endangeredlanguages": "7717"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gusilay (7717-gsl) = Vulnerable (20 percent certain, based on the evidence available) (Seriously threatened and doomed to extinction in the near future.) [Childs 2006](cldf:childs:06)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kare (Papua New Guinea)",
+    "hid": "kmf",
+    "level": "language",
+    "iso639-3": "kmf",
+    "latitude": "-5.07674",
+    "longitude": "145.499",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kare](https://lexibank.clld.org/languages/transnewguineaorg-kare)\n[kare](https://lexibank.clld.org/languages/zgraggenmadang-kare)\nhttps://en.wikipedia.org/wiki/Kare_language_(Papuan)\nhttps://www.wikidata.org/entity/Q11732286"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvld:Zgraggen:Madang**\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "altnames": {
+    "multitree": "\nKare",
+    "lexvo": "\nKare (Papua New Guinea) [en]\nKare [en]",
+    "hhbib_lgcode": "\nKare"
+  },
+  "triggers": {
+    "lgcode": "\nmabuso"
+  },
+  "identifier": {
+    "multitree": "kmf"
+  },
+  "classification": {
+    "sub": "**hh:hw:Zgraggen:Mabuso**",
+    "subrefs": "\n**hh:hw:Zgraggen:Mabuso**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kare (kmf-kmf) = 6b* (Threatened)."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Lower-Nosop",
+    "hid": "nsb",
+    "level": "language",
+    "latitude": "-25.54522",
+    "longitude": "20.588827",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ZA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6693681\nhttps://en.wikipedia.org/wiki/Lower_Nossob_language",
+    "iso639-3": "nsb",
+    "timespan": "2015-01-01/2015-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:htyp:Bleek:Bushman**\n**hh:hvld:Guldemann:Lower-Nossob**\n**hh:hvw:Bleek:Bushman**\n**hh:s:Bleek:Auni**\n**hh:s:Bleek:Auni:1937**\n**hh:s:Traill:Kuhasi**\n**iso6393:2019-054**"
+  },
+  "triggers": {
+    "lgcode": "\nauni\nnossob\nku|ha"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Guldemann:Lower-Nossob**, **hh:hv:Guldemann:Khoisan:2014**",
+    "subrefs": "\n**hh:hvld:Guldemann:Lower-Nossob**\n**hh:hv:Guldemann:Khoisan:2014**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Lower-Nosop (nsb-nsb) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\n/Auni\n/auni\nK'u|ha:si\nSIV |Auni\nSIVa Khatia\nSIVb Ki|hazi\n|auni"
+  }
+}

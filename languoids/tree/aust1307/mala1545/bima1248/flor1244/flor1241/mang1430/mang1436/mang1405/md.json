@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Manggarai",
+    "hid": "mqy",
+    "level": "language",
+    "iso639-3": "mqy",
+    "latitude": "-8.55748",
+    "longitude": "120.329",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Manggarai](https://grambank.clld.org/languages/mang1405)\n[Manggarai](https://wals.info/languoid/lect/wals_code_mng)\nhttps://en.wikipedia.org/wiki/Manggarai_language\nhttps://www.wikidata.org/entity/Q3285748"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:allerton:09**\n**cldf:arka:ross:ed:05:2**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:erb:97**\n**cldf:kartomi:01**\n**cldf:keesing:84:2**\n**cldf:koentjaraningrat:72:1**\n**cldf:morwood:sutikna:etal:09**\n**cldf:np:10:4**\n**cldf:np:14:5**\n**hh:d:Lon:Manggarai**\n**hh:d:Verheijen:Manggarai**\n**hh:e:Erb:Manggarai**\n**hh:e:Meerburg:Midden-Manggarai**\n**hh:g:Burger:Manggaraise**\n**hh:h:Sugono:Indonesia**\n**hh:he:Verheijen:Manggarai**\n**hh:hv:Blust:Bima-Sumba**\n**hh:hvwtyp:Capell:Mixed**\n**hh:ld:UmiyatuKosmas:Manggarai**\n**hh:s:Semiun:Manggarai**\n**hh:t:Verheijen:Manggarai**\n**hh:v:Afirman:Manggarai**\n**hh:w:Verheijen:Manggarai**\n**langsci:verheijen:67**\n**langsci:verheijen:70**\n**sil16:38421**"
+  },
+  "altnames": {
+    "wals": "\nManggarai",
+    "ruhlen (1987)": "\nManggarai",
+    "moseley & asher (1994)": "\nManggarai",
+    "multitree": "\nIndonesia\nManggarai",
+    "lexvo": "\nManggarai [en]",
+    "hhbib_lgcode": "\nManggarai Timur\nRuteng"
+  },
+  "triggers": {
+    "lgcode": "\nmanggarai\nkempo\nmanggaraise"
+  },
+  "identifier": {
+    "wals": "mng",
+    "multitree": "mqy"
+  },
+  "classification": {
+    "sub": "**hh:g:Schmidt:Wangka-Rembong-Riung**:67-91 **hh:hv:Verheijen:Manggarai** **hh:he:Verheijen:Manggarai**:16-21",
+    "subrefs": "\n**hh:g:Schmidt:Wangka-Rembong-Riung**\n**hh:hv:Verheijen:Manggarai**\n**hh:he:Verheijen:Manggarai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Manggarai (mqy-mqy) = 5* (Developing)."
+  }
+}

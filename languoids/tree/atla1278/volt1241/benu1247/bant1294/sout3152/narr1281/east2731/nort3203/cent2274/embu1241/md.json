@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Embu",
+    "hid": "ebu",
+    "level": "language",
+    "iso639-3": "ebu",
+    "latitude": "-0.62822",
+    "longitude": "37.5933",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35318\nhttps://en.wikipedia.org/wiki/Embu_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:18518**\n**eballiso2009:19724**\n**eballiso2009:19726**\n**eballiso2009:19733**\n**eballiso2009:2387**\n**eballiso2009:24063**\n**eballiso2009:24594**\n**eballiso2009:2661**\n**eballiso2009:28707**\n**eballiso2009:32985**\n**eballiso2009:32986**\n**eballiso2009:35706**\n**eballiso2009:38348**\n**eballiso2009:39895**\n**eballiso2009:39896**\n**eballiso2009:41688**\n**eballiso2009:45481**\n**eballiso2009:54523**\n**hh:dial:Mwaniki:Kiembu**\n**hh:e:Browne:Kenya**\n**hh:e:Njeru:Embu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mutahi:Mt-Kenya**\n**hh:hv:Mutahi:Mt-Kenya:1977**\n**hh:hvtyp:Bennett:Thagicu**\n**hh:hvtyp:Philippson:OBantu:Tons**\n**hh:hvw:Bennett:Bantu**\n**hh:hvwtyp:Mohlig:Bergdialekte**\n**hh:typ:Biersteker:Embu**\n**hh:typ:Groen:Kiembu**\n**hh:typ:Lonyangapuo:Kenyan-Bantu**\n**hh:typ:Muriungi:Kimbeere**\n**hh:typ:Muthoni:Kiembu**\n**iso6393:2007-153**\n**mpieva:Mutahi1983Soundcha**"
+  },
+  "altnames": {
+    "multitree": "\nEmbu\nKiembu",
+    "lexvo": "\nEmbu [en]\nKiembu [en]",
+    "hhbib_lgcode": "\nE52_Embu\nE52_Mbeere\nEmbu (Kimbeere)\nKiembu\nKimbeere\nKimembu\nMbeere"
+  },
+  "triggers": {
+    "lgcode": "\npatterning\nmbeere\nembu\nNOT un AND embu"
+  },
+  "identifier": {
+    "multitree": "ebu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Starzmann:Central-Kenya-Bantu** **hh:hv:Nurse:EBantu**:4-5",
+    "subrefs": "\n**hh:hv:Nurse:EBantu**\n**hh:hv:Starzmann:Central-Kenya-Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kiembu (ebu-ebu) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Western Ong-Be",
+    "hid": "onb",
+    "level": "language",
+    "iso639-3": "onb",
+    "latitude": "19.885536",
+    "longitude": "109.691664",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Be_languages\nhttps://www.wikidata.org/entity/Q7093790"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1926**\n**hh:d:Hashimoto:Be**\n**hh:d:Liu:Lingao**\n**hh:g:LiangZhang:Lingao**\n**hh:h:Hattaway:China**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Thongkum:Tai-Kadai:Hainan**\n**hh:hvwphon:Chen:Ong-Be**\n**hh:phon:Zhou:Lingao**\n**hh:t:Liu:Lingao**\n**hh:v:Zou:Lingao**\n**hh:w:Burusphat:Zhuang-Dong**\n**hh:w:Jeremiassen:Loi-Hainan**\n**sil16:22224**"
+  },
+  "altnames": {
+    "multitree": "\n(Ong-)Be\nBe\nLimkow\nLingao\nLinkow\nOng-Be\nOngbe\nVo Limkou",
+    "lexvo": "\nLingao [en]\nOng-Be language [en]\nTiếng Ông Bối [vi]\n臨高語 [zh]",
+    "hhbib_lgcode": "\nBe\nBolian\nLim-ko Loi\nLimkau\nLinGao\nLincheng\nLingao\nLingao Be of Dungying\nOng-Be\nXinying\nXinying (新盈)",
+    "glottolog": "\nLingao"
+  },
+  "triggers": {
+    "lgcode": "\nlingaohua\nlimkow\nsavina\nlingao"
+  },
+  "identifier": {
+    "multitree": "onb"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Chen:Ong-Be** **hh:v:Zou:Lingao**",
+    "subrefs": "\n**hh:hvwphon:Chen:Ong-Be**\n**hh:v:Zou:Lingao**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lingao (onb-onb) = 6a (Vigorous). Language of recognized nationality: Han."
+  }
+}

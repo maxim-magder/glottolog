@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Reel",
+    "hid": "atu",
+    "level": "language",
+    "iso639-3": "atu",
+    "latitude": "6.32234",
+    "longitude": "30.49451",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "SS"
+    ],
+    "links": "\n[Reel](https://endangeredlanguages.com/lang/1376)\nhttps://www.wikidata.org/entity/Q7306882\nhttps://en.wikipedia.org/wiki/Reel_language\nhttps://phoible.org/languages/reel1238"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:burton:81:1**\n**cldf:burton:81:2**\n**cldf:lewis:ed:09**\n**eballiso2009:57185**\n**eballiso2009:57186**\n**eballiso2009:57193**\n**hh:d:Cien:Reel**\n**hh:e:Burton:Atuot**\n**hh:g:Cien:Reel**\n**hh:he:Cummins:Bahr-El-Ghazal-Dinkas**\n**hh:hwdial:RoettgerRoettger:Dinka**\n**hh:phon:Reid:Thok-Reel**\n**hh:soc:Burton:Atuot**\n**sil16:44806**"
+  },
+  "altnames": {
+    "multitree": "\nAtuot\nAtwot\nReel\nThok Cieng Reel",
+    "lexvo": "\nReel [en]",
+    "hhbib_lgcode": "\nAtuot\nAtwot",
+    "elcat": "\nAtuot\nAtwot\nReel\nThok Cieng Reel\nThok Reel"
+  },
+  "triggers": {
+    "lgcode": "\nthok\natuot\nreel"
+  },
+  "identifier": {
+    "multitree": "atu",
+    "endangeredlanguages": "1376"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Reel (1376-atu) = Vulnerable (20 percent certain, based on the evidence available) [Reid 2010](cldf:reid:10:1)"
+  }
+}

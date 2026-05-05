@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Busang Kayan",
+    "hid": "bfg",
+    "level": "language",
+    "iso639-3": "bfg",
+    "latitude": "0.03494",
+    "longitude": "115.401",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q9231909"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:southwell:80**\n**hh:d:Barth:Boesangsch**\n**hh:h:Sellato:Upper-Makaham**\n**hh:hv:Guerreiro:CBornean**\n**hh:hvw:Smith:Borneo**"
+  },
+  "altnames": {
+    "multitree": "\nBusang\nKajan\nKajang\nKayan, Busang",
+    "lexvo": "\nBusang Kayan [en]",
+    "hhbib_lgcode": "\nBusang\nBusang/Uma Asa/Uma Tuan/Uma Mahak/Uma Suling/Uma Pala/Uma Tepai/Uma Lekua/Uma Urut/Uma Sam/Bang Kelau\nKayan Busang\nKayan Busang of Kutai\nKayan-Busang"
+  },
+  "triggers": {
+    "lgcode": "\nbusang\nbagada"
+  },
+  "identifier": {
+    "multitree": "bfg"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:52-62 **hh:hv:Guerreiro:CBornean** **hh:hv:Blust:Kayan**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:Guerreiro:CBornean**\n**hh:hv:Blust:Kayan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kayan, Busang (bfg-bfg) = 6b* (Threatened)."
+  }
+}

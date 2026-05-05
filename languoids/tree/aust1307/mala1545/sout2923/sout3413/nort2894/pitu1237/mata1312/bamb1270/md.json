@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bambam",
+    "hid": "ptu",
+    "level": "language",
+    "iso639-3": "ptu",
+    "latitude": "-3.02759",
+    "longitude": "119.201",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Bambam](https://grambank.clld.org/languages/bamb1270)\n[Bambam](https://wals.info/languoid/lect/wals_code_bbm)\nhttps://en.wikipedia.org/wiki/Bambam_language\nhttps://www.wikidata.org/entity/Q4853321"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Campbell:Pitu**\n**hh:hv:Stromme:PUS1**\n**hh:hvld:vanderVeen:Sadansche**\n**hh:hvsoc:Friberg:PUS1**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hvw:Smith:Ulunnu**\n**hh:phon:Campbell:Pitu-Ulunna-Salu**\n**mpieva:Mills1975ProtoSou**\n**sil16:21969**\n**sil16:22005**\n**sil16:22011**\n**sil16:31700**\n**sil16:42921**\n**sil16:45034**\n**sil16:45035**\n**sil16:46257**"
+  },
+  "altnames": {
+    "wals": "\nBambam",
+    "ruhlen (1987)": "\nPitu Ilunna Salo",
+    "moseley & asher (1994)": "\nPitu Ulunna Salo",
+    "multitree": "\nBambam\nNordost-Celebes\nPitu-Ulunna-Salu",
+    "lexvo": "\nBambam [en]",
+    "hhbib_lgcode": "\nMe Mehalaan\nMt Matangnga\nPUS\nPUS-Bambang\nPUS-Mehalaan\nPitoe Oeloenna Saloe"
+  },
+  "triggers": {
+    "lgcode": "\nulunna\npitu\nsalu\nbambam"
+  },
+  "identifier": {
+    "wals": "bbm",
+    "multitree": "ptu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Ulunnu** **hh:hvw:GrimesGrimes:South-Sulawesi**",
+    "subrefs": "\n**hh:hvw:Smith:Ulunnu**\n**hh:hvw:GrimesGrimes:South-Sulawesi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bambam (ptu-ptu) = 5 (Developing)."
+  }
+}

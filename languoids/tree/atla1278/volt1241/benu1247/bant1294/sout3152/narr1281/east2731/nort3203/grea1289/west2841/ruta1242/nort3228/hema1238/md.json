@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Hema",
+    "hid": "nix",
+    "level": "language",
+    "iso639-3": "nix",
+    "latitude": "1.04953",
+    "longitude": "30.0872",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "UG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5710904\nhttps://en.wikipedia.org/wiki/Hema_language"
+  },
+  "classification": {
+    "sub": "**hh:e:Thiry:Hema**",
+    "subrefs": "\n**hh:e:Thiry:Hema**"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:4034**\n**eballiso2009:658**\n**eballiso2009:9818**\n**hh:dial:Malemu:Hema**\n**hh:e:Thiry:Hema**\n**hh:hew:Liesenborghs:NEKongo**\n**hh:hv:Bastinetal:Bantu**\n**hh:phon:Asimwe:Kihema**\n**hh:s:Bahigwa:Kihema**\n**hh:soc:Bagamba:Hema**\n**hh:soc:GibsonBagamba:Shift**\n**hh:soc:Katho:Oruhuma**\n**hh:typ:Mwesigwa:Kihema**\n**hh:typ:Ndisetse:Kinyarwanda-Kihema**\n**hh:typ:Onadikonda:Hema**\n**hh:typ:Salire:Kihema**\n**hh:typ:Salire:Kihema-Kiswahili**\n**hh:typ:Wunga:Hema**\n**hh:vtyp:Habarugira:Kinyarwanda-Oruhima**"
+  },
+  "altnames": {
+    "multitree": "\nCongo Nyoro\nHema\nHema-Sud\nKihema\nNyoro\nRunyoro\nSouthern Hema",
+    "lexvo": "\nHema [en]",
+    "hhbib_lgcode": "\nBahima\nHema J11\nKihema\nNorthern Hema\nOruhima\nOruhuma\nOrunyoro"
+  },
+  "triggers": {
+    "lgcode": "\nNOT aspects AND hema\nethnohistoire\nhema\nbahema"
+  },
+  "identifier": {
+    "multitree": "nix"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Hema (nix-nix) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Hidatsa",
+    "hid": "hid",
+    "level": "language",
+    "iso639-3": "hid",
+    "latitude": "47.33",
+    "longitude": "-102.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Hidatsa](https://endangeredlanguages.com/lang/2376)\n[Hidatsa](https://grambank.clld.org/languages/hida1246)\n[Hidatsa](https://wals.info/languoid/lect/wals_code_hid)\nhttps://en.wikipedia.org/wiki/Hidatsa_language\nhttps://www.wikidata.org/entity/Q3135234"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:96**\n**cldf:andronis:ed:02:4**\n**cldf:bowers:65**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:curtis:09:1**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:jones:79**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:matthews:74**\n**cldf:np:nd:264**\n**cldf:robinett:55**\n**cldf:wied-neuwied:06**\n**cldf:wilson:17:2**\n**cldf:yegerlehner:voegelin:57**\n**haspelmath:boyle_switch-reference_2011**\n**hh:e:Stewart:Hidatsa**\n**hh:g:Boyle:Hidatsa**\n**hh:g:Park:Hidatsa**\n**hh:hs:Adam:Seize**\n**hh:phon:Rivera:Hidatsa**\n**hh:s:Matthews:Hidatsas**\n**hh:s:Robinett:Hidatsa**\n**hh:s:Robinett:Hidatsa:1954**\n**hh:sd:Matthews:Hidatsa**\n**hh:sd:Matthews:Hidatsa:1873**\n**hh:typ:Hendricksen:Hidatsa**\n**hh:v:Pierce:Crow-Hidatsa**\n**mpieva:Boyle2007Hidatsam**"
+  },
+  "altnames": {
+    "wals": "\nHidatsa",
+    "wals other": "\nHiraca\nMinitari",
+    "ruhlen (1987)": "\nHidatsa",
+    "moseley & asher (1994)": "\nHidatsa",
+    "multitree": "\nDoan\nDuan\nGros Ventre\nGros Ventres\nHidatsa\nHinatsa\nHiraca\nMinitari\nMinnetaree",
+    "lexvo": "\nHidatsa [en]\nHidatsa language [en]",
+    "elcat": "\nDoan\nDuan\nGros Ventre\nGros Ventres\nHidatsa\nHinatsa\nHiraca\nMinitari\nMinnetaree"
+  },
+  "triggers": {
+    "lgcode": "\nhidatsa"
+  },
+  "identifier": {
+    "wals": "hid",
+    "multitree": "hid",
+    "endangeredlanguages": "2376"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hidatsa (2376-hid) = Critically Endangered (80 percent certain, based on the evidence available) [Park 2012](cldf:park:12)"
+  }
+}

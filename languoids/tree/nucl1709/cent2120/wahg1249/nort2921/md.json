@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "North Wahgi",
+    "hid": "whg",
+    "level": "language",
+    "iso639-3": "whg",
+    "latitude": "-5.75356",
+    "longitude": "144.804",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953273"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:rumsey:66**\n**hh:e:Hanlon:Wahgi**\n**hh:sd:Aufenanger:Nondugl**\n**sil16:46046**\n**sil16:47656**\n**sil16:48156**\n**sil16:49316**\n**silpng:silpng2001-2003:82**\n**silpng:silpng2004:25**"
+  },
+  "altnames": {
+    "multitree": "\nMid-Wahgi\nWahgi\nWahgi, North",
+    "lexvo": "\nNorth Wahgi [en]",
+    "hhbib_lgcode": "\nKomblo of NW Wahgi\nWahgi-North"
+  },
+  "triggers": {
+    "lgcode": "\nkamben\nnondugl"
+  },
+  "identifier": {
+    "multitree": "whg"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Capell:SWPacific:1962**:105-128",
+    "subrefs": "\n**hh:hvld:Capell:SWPacific:1962**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yuwei (whg-whg) = 6a* (Vigorous)."
+  }
+}

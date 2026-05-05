@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Ali",
+    "hid": "aiy",
+    "level": "language",
+    "iso639-3": "aiy",
+    "latitude": "4.60014",
+    "longitude": "18.0352",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34814\nhttps://en.wikipedia.org/wiki/Ali_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:57562**\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:ld:Bradshaw:Ali**\n**hh:sd:Calloch:Gbea**\n**hh:soc:Probst:Ali**"
+  },
+  "altnames": {
+    "multitree": "\n'Bofi\nAli\nNgbaka\nNgbaka-Manza\nNgbaka-Minagende\nNgbaka-Minangende",
+    "lexvo": "\nAli [en]",
+    "hhbib_lgcode": "\nAli Borose\nBuruse"
+  },
+  "triggers": {
+    "lgcode": "\nNOT to AND survey AND borderland\ngbea"
+  },
+  "identifier": {
+    "multitree": "aiy"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Monino:Proto-Gbaya**:451-455 **hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**",
+    "subrefs": "\n**hh:hvphon:Monino:Proto-Gbaya**\n**hh:hv:Monino:Gbaya-Manza-Ngbaka-NC**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ali (aiy-aiy) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Koho",
+    "hid": "kpm",
+    "level": "language",
+    "iso639-3": "kpm",
+    "latitude": "11.6444",
+    "longitude": "108.057",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "VN"
+    ],
+    "links": "\n[Koho](https://grambank.clld.org/languages/koho1244)\n[Sre](https://lexibank.clld.org/languages/sidwellbahnaric-sre)\n[Sre](https://wals.info/languoid/lect/wals_code_sre)\nhttps://en.wikipedia.org/wiki/Koho_language\nhttps://phoible.org/languages/koho1244\nhttps://www.wikidata.org/entity/Q3511919"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dournes:50**\n**cldf:stolz:96**\n**hh:d:Bochet:Koho**\n**hh:d:Dournes:Koho**\n**hh:d:Drouin:Koho**\n**hh:e:Canivey:Moi**\n**hh:g:Manley:Sre**\n**hh:g:Manley:Sre:1971**\n**hh:g:Olsen:Koho-Sre**\n**hh:h:Maitre:Moi**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:he:Schrock:Vietnam**\n**hh:hv:Sidwell:SBahnaric**\n**hh:hvw:Le:Maa-Koho**\n**hh:phon:Condominas:Sud-Indochinois**\n**hh:s:Bochet:Koho**\n**hh:s:Cassaigne:Koho**\n**hh:s:Hoang:Koho**\n**hh:s:Olsen:Koho-Sre**\n**ldh:item_404097**\n**mpieva:Dournes1977MythesSr**\n**sil16:12484**\n**sil16:15119**\n**sil16:15120**\n**sil16:15121**\n**sil16:15122**\n**sil16:15123**\n**sil16:15124**\n**sil16:15125**\n**sil16:15126**\n**sil16:15127**\n**sil16:15128**\n**sil16:41973**\n**sil16:51370**\n**sil16:51371**\n**sil16:51374**"
+  },
+  "altnames": {
+    "wals": "\nSre",
+    "wals other": "\nKoho\nSrê\nSrê (Köho)",
+    "ruhlen (1987)": "\nKoho",
+    "moseley & asher (1994)": "\nSre",
+    "multitree": "\nCaho\nCoho\nKahov\nKoho\nKohor\nKɤho\nSre",
+    "lexvo": "\nKoho [en]",
+    "hhbib_lgcode": "\nKoho Sre\nKohô\nKöho\nRyông Tô"
+  },
+  "triggers": {
+    "lgcode": "\ncil\nlik\nsre\nnrop\nsra\nnus\nkoho\nldang\ncau"
+  },
+  "identifier": {
+    "wals": "sre",
+    "multitree": "kpm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:SBahnaric**",
+    "subrefs": "\n**hh:hv:Sidwell:SBahnaric**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koho (kpm-kpm) = 5 (Developing). Language of recognized ethnic group: Co Ho."
+  }
+}

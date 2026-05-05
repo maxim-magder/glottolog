@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Banda-Ndélé",
+    "hid": "bfl",
+    "level": "language",
+    "iso639-3": "bfl",
+    "latitude": "8.03339",
+    "longitude": "23.9021",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34850\nhttps://phoible.org/languages/band1345"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Nougayrol:Banda**\n**hh:h:Nougayrol:NECAR**\n**hh:he:Modat:Fertyt**\n**hh:hv:Cloarec-Heiss:Banda:2000**\n**hh:hw:Monino:Oubanguiennes**\n**hh:phon:Sampson:Banda-Tangbago**\n**hh:soc:Bluhberger:Gbongo**\n**hh:typ:Boyeldieu:Logophoriques-Banda**\n**hh:typ:Sampson:Banda-Tangbago:Pronouns**"
+  },
+  "altnames": {
+    "glottolog": "\nBanda-Ndele",
+    "multitree": "\nBanda\nBanda of Ndélé\nBanda-Ndele\nBanda-Ndélé\nNyele",
+    "lexvo": "\nBanda-Ndélé [en]",
+    "hhbib_lgcode": "\nBanda\nBanda-Muruba-Ngao\nGbongo\nNgao\nNgbala-Tangbago-Tulu\nTangbago\nTngb"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND tangbago"
+  },
+  "identifier": {
+    "multitree": "bfl;bane"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cloarec-Heiss:Banda:2000** **hh:hvw:Olson:Banda**",
+    "subrefs": "\n**hh:hvw:Olson:Banda**\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banda-Ndélé (bfl-bfl) = 6a* (Vigorous)."
+  }
+}

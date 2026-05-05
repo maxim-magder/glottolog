@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tedaga",
+    "hid": "tuq",
+    "level": "language",
+    "iso639-3": "tuq",
+    "latitude": "18.0426",
+    "longitude": "14.7717",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LY",
+      "NE",
+      "NG",
+      "TD"
+    ],
+    "links": "\n[Tedaga](https://endangeredlanguages.com/lang/4831)\n[Tedaga](https://grambank.clld.org/languages/teda1241)\nhttps://en.wikipedia.org/wiki/Teda_language\nhttps://phoible.org/languages/teda1241\nhttps://www.wikidata.org/entity/Q36639"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baroin:77**\n**cldf:barth:62**\n**cldf:briggs:58**\n**cldf:chapelle:57:1**\n**cldf:coeur:50**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:gaillard:poutrin:14**\n**cldf:lewis:ed:09**\n**cldf:nachtigal:79**\n**cldf:wolff:alidou:89**\n**eballiso2009:13550**\n**eballiso2009:19364**\n**eballiso2009:19784**\n**eballiso2009:22453**\n**eballiso2009:31783**\n**eballiso2009:34160**\n**eballiso2009:34162**\n**eballiso2009:41247**\n**eballiso2009:47514**\n**eballiso2009:51897**\n**eballiso2009:52067**\n**hh:d:LeCoeur:Teda**\n**hh:e:Cline:Teda**\n**hh:e:Kronenberg:Teda**\n**hh:e:Nachtigal:Tibbu**\n**hh:hv:Chonay:Teda-Kanuri**\n**hh:hv:Cyffer:Saharan**\n**hh:hvw:Latham:African:Recent**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:s:LeCoeurLeCoeur:Teda-Daza**\n**hh:sd:LeCoeurLeCoeur:Teda-Daza**\n**mpieva:Le1956Grammair**\n**mpieva:Person1975Twostudi**\n**sil16:44740**\n**sil16:46959**\n**sil16:46960**\n**sil16:50749**"
+  },
+  "altnames": {
+    "multitree": "\nTebou\nTebu\nTeda\nTedaga\nTib-bo\nTibbu\nToda\nTodaga\nTodga\nToubou\nTubu\nTuda\nTudaga\nTū-bu",
+    "lexvo": "\nTeda [da]\nTedaga [de]\nTedaga language [en]\nТедагаски јазик [mk]\nلغة التيدا [ar]",
+    "hhbib_lgcode": "\nTeda of Reinisch\nTibbu\nTéda",
+    "elcat": "\nTebou\nTebu\nTeda\nTedaga\nTib-bo\nTibbu\nToda\nTodaga\nTodga\nToubou\nTubu\nTuda\nTudaga\nTū-bu"
+  },
+  "triggers": {
+    "lgcode": "\ndazagada\nnombi\ndurdii\nNOT to AND teda\ntudagaa"
+  },
+  "identifier": {
+    "multitree": "tuq",
+    "endangeredlanguages": "4831"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cyffer:Saharanischen**",
+    "subrefs": "\n**hh:hv:Cyffer:Saharanischen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tedaga (4831-tuq) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Boon",
+    "hid": "bnl",
+    "level": "language",
+    "iso639-3": "bnl",
+    "latitude": "0.41988",
+    "longitude": "43.1208",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SO"
+    ],
+    "links": "\n[Boon](https://endangeredlanguages.com/lang/3944)\nhttps://www.wikidata.org/entity/Q56616\nhttps://en.wikipedia.org/wiki/Boon_language"
+  },
+  "classification": {
+    "sub": "**hh:h:Lamberti:Somali**:159-162",
+    "subrefs": "\n**hh:h:Lamberti:Somali**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2473**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:31788**\n**hh:dial:Cerulli:Basse-Caste-Hawiyya**\n**hh:e:Battaglia:Bon**\n**hh:e:Puccioni:Uaboni**\n**hh:h:Cerulli:Somalia-Storica**\n**hh:h:Lamberti:Somali**\n**hh:h:Puccioni:Giuba**\n**hh:h:Ravenstein:Galla**\n**hh:he:Puccioni:Somalia**\n**hh:hv:Abdullahi:Somali-Dialectes**\n**hh:hv:Lamberti:Somali**"
+  },
+  "altnames": {
+    "multitree": "\nAf-Boon\nBoon",
+    "lexvo": "\nBoon [en]\nBoon hizkuntza [eu]\nBoon language [en]",
+    "hhbib_lgcode": "\n61ff discusses Eyle\nBon\nBon of Gelib-Margherita-Afmadù\nEile\nEyle\nUaboni",
+    "elcat": "\nAf-Boon\nBoni\nBoon"
+  },
+  "triggers": {
+    "lgcode": "\nhawiyya\ntradizione\nhola\nwager\nmap AND democratic"
+  },
+  "identifier": {
+    "multitree": "bnl",
+    "endangeredlanguages": "3944"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Boon (3944-bnl) = Severely Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yagaria",
+    "hid": "ygr",
+    "level": "language",
+    "iso639-3": "ygr",
+    "latitude": "-6.32432",
+    "longitude": "145.388",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Yagaria](https://lexibank.clld.org/languages/transnewguineaorg-yagaria)\n[Yagaria](https://wals.info/languoid/lect/wals_code_ygr)\nhttps://en.wikipedia.org/wiki/Yagaria_language\nhttps://phoible.org/languages/yaga1260\nhttps://www.wikidata.org/entity/Q8046690"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:21**\n**asjp2010:606**\n**cldf:bybee:perkins:etal:94**\n**cldf:nichols:ogg:ed:96:8**\n**cldf:renck:67**\n**cldf:spencer:zwicky:ed:98:3**\n**hh:d:Haiman:Hua**\n**hh:d:Renck:Yagaria**\n**hh:g:Haiman:Hua**\n**hh:g:Renck:Yagaria**\n**hh:hld:Lean:EHighlands**\n**hh:hv:Ford:Kamano-Yagaria**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Xiao:HAB**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Wurm:ECTNG**\n**hh:hvw:Scott:East-Central**\n**hh:s:Haiman:Hua**\n**mpieva:Renck1987Contextu**\n**sil16:35042**\n**sil16:42689**"
+  },
+  "altnames": {
+    "wals": "\nHua\nYagaria",
+    "wals other": "\nMove dialect\nYagaria",
+    "multitree": "\nYagaria",
+    "lexvo": "\nYagaria [en]",
+    "hhbib_lgcode": "\nHua\nMove Yagaria"
+  },
+  "triggers": {
+    "lgcode": "\nyagaria"
+  },
+  "identifier": {
+    "wals": "hua;ygr",
+    "multitree": "ygr"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:WurmLaycock:NG**",
+    "subrefs": "\n**hh:hvsoc:WurmLaycock:NG**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yagaria (ygr-ygr) = 5* (Developing)."
+  }
+}

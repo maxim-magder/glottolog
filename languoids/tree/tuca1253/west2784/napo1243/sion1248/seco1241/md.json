@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Secoya",
+    "hid": "sey",
+    "level": "language",
+    "iso639-3": "sey",
+    "latitude": "-0.459785",
+    "longitude": "-75.5547",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO",
+      "EC",
+      "PE"
+    ],
+    "links": "\n[Secoya](https://lexibank.clld.org/languages/hubercolumbian-Secoya)\n[Secoya](https://wals.info/languoid/lect/wals_code_sec)\n[secoya](https://lexibank.clld.org/languages/chaconcolumbian-Secoya)\nhttps://en.wikipedia.org/wiki/Secoya_language\nhttps://phoible.org/languages/seco1241\nhttps://www.wikidata.org/entity/Q3477218"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3599**\n**cldf:huber:reed:92:1**\n**cldf:pozzi-escot:ed:98:25**\n**fabreall2009ann:Tukano_secoya00**\n**fabreall2009ann:Tukano_secoya01**\n**fabreall2009ann:Tukano_secoya02**\n**fabreall2009ann:Tukano_secoya03**\n**fabreall2009ann:Tukano_secoya04**\n**fabreall2009ann:Tukano_secoya05**\n**fabreall2009ann:Tukano_secoya06**\n**fabreall2009ann:Tukano_secoya07**\n**fabreall2009ann:Tukano_secoya08**\n**fabreall2009ann:Tukano_secoya09**\n**fabreall2009ann:Tukano_secoya10**\n**fabreall2009ann:Tukano_secoya11**\n**fabreall2009ann:Tukano_secoya12**\n**fabreall2009ann:Tukano_secoya13**\n**fabreall2009ann:Tukano_secoya14**\n**fabreall2009ann:Tukano_secoya16**\n**fabreall2009ann:Tukano_secoya17**\n**fabreall2009ann:Tukano_secoya20**\n**fabreall2009ann:Tukano_secoya21**\n**fabreall2009ann:Tukano_secoya22**\n**fabreall2009ann:Tukano_secoya23**\n**fabreall2009ann:Tukano_secoya26**\n**fabreall2009ann:Tukano_secoya27**\n**fabreall2009ann:Tukano_secoya28**\n**fabreall2009ann:Tukano_secoya30**\n**fabreall2009ann:Tukano_secoya31**\n**fabreall2009ann:Tukano_secoya32**\n**fabreall2009ann:Tukano_secoya33**\n**fabreall2009ann:Tukano_secoya34**\n**fabreall2009ann:Tukano_secoya37**\n**fabreall2009ann:Tukano_secoya38**\n**fabreall2009ann:Tukano_secoya40**\n**fabreall2009ann:Tukano_secoya41**\n**fabreall2009ann:Tukano_secoya42**\n**fabreall2009ann:Tukano_secoya44**\n**fabreall2009ann:Tukano_secoya45**\n**fabreall2009ann:Tukano_secoya46**\n**hh:d:Piaguajeetal:Secoya**\n**hh:e:Belaunde:Airo-Pai**\n**hh:e:Vickers:Sionas-Secoyas**\n**hh:g:JohnsonLevinsohn:Secoya**\n**hh:he:ChirifMora:Comunidades-Nativas**\n**hh:he:Villarejo:Selva**\n**hh:hvtyp:Constenla:Intermedia**\n**hh:hvw:HuberReed:Colombia**\n**hh:hw:ILV:Ecuatorianas**\n**hh:hw:ILV:Ecuatorianos**\n**hh:hw:Jakway:Palabras**\n**hh:hw:Villarejo:Idiomas-Selva**\n**hh:phon:Vallejos:Secoya-Putumayo**\n**ldh:item_407215**\n**mpieva:Elson1962Studiesi**\n**mpieva:Piaguaje1992Vocabula**\n**sil16:10035**\n**sil16:10039**\n**sil16:11230**\n**sil16:11231**\n**sil16:13326**\n**sil16:13327**\n**sil16:13328**\n**sil16:13330**\n**sil16:13331**\n**sil16:13332**\n**sil16:15386**\n**sil16:16272**\n**sil16:17170**\n**sil16:17171**\n**sil16:17172**"
+  },
+  "altnames": {
+    "wals": "\nSecoya",
+    "moseley & asher (1994)": "\nSecoya",
+    "multitree": "\nKakawahe\nMacaguaje\nPaicoca /secoya (Équateur)\nPiohé\nPiojé\nSecoya\nSecoya-Gai\nsecoya (Colombie)\nsecoya (Perú)\nsecoya (Pérou)",
+    "lexvo": "\nSecoya [en]",
+    "hhbib_lgcode": "\nPioje (Secoya)\nSecoyas o Piojes"
+  },
+  "triggers": {
+    "lgcode": "\nairo\nfeed\nproductiva\npaja\npiojes\nsecoya\nperiplo\nsecoyas"
+  },
+  "identifier": {
+    "wals": "sec",
+    "multitree": "sey",
+    "endangeredlanguages": "1752"
+  },
+  "classification": {
+    "sub": "**hh:hv:Skilton:Western-Tukanoan** **hh:hv:Chacon:Proto-Tukanoan** **hh:gd:Ramirez:Yepa-Masa:2019**:5-8",
+    "subrefs": "\n**hh:hv:Skilton:Western-Tukanoan**\n**hh:hv:Chacon:Proto-Tukanoan**\n**hh:gd:Ramirez:Yepa-Masa:2019**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Baicoca-Siecoca (1752-sey) = Threatened (20 percent certain, based on the evidence available) ['bib1902']"
+  }
+}

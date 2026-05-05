@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Wedau",
+    "hid": "wed",
+    "level": "language",
+    "iso639-3": "wed",
+    "latitude": "-10.1246",
+    "longitude": "150.172",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Wedau](https://grambank.clld.org/languages/weda1241)\n[Wedau](https://lexibank.clld.org/languages/abvdoceanic-Wedau)\n[Wedau](https://wals.info/languoid/lect/wals_code_wed)\nhttps://www.wikidata.org/entity/Q12953294"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:capell:43:2**\n**hh:hld:Lean:Milne-Bay**\n**hh:hsoc:Easton:Milne-Bay**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hvwtyp:Capell:Mixed**\n**hh:hw:Ray:ESEPapua**\n**hh:lde:Kahn:Wedau**\n**hh:sd:King:Wedau**\n**hh:w:King:Wedau**"
+  },
+  "altnames": {
+    "wals": "\nWedau",
+    "ruhlen (1987)": "\nWedau",
+    "moseley & asher (1994)": "\nWedau",
+    "multitree": "\nWedau\nWedaun\nWedawan",
+    "lexvo": "\nWedau [en]",
+    "hhbib_lgcode": "\nDivari\nWamira"
+  },
+  "triggers": {
+    "lgcode": "\nwedau"
+  },
+  "identifier": {
+    "wals": "wed",
+    "multitree": "wed"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Lithgow:Milne**:460 **hh:hv:Ross:WMelanesia**:190-212",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Lithgow:Milne**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wedau (wed-wed) = 3 (Wider communication). Prestige language and LWC for other language groups."
+  }
+}

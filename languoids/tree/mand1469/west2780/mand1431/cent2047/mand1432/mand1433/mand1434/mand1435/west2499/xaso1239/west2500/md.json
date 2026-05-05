@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Western Maninkakan",
+    "hid": "mlq",
+    "level": "language",
+    "iso639-3": "mlq",
+    "latitude": "13.5677",
+    "longitude": "-12.8009",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "GN",
+      "GW",
+      "ML",
+      "MR",
+      "SN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11028033\nhttps://phoible.org/languages/west2500\n[Maninka (Western)](https://wals.info/languoid/lect/wals_code_maw)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:creissels:79**\n**cldf:delafosse:29**\n**hh:g:Creissels:Maninka-Niokolo**\n**hh:sd:Meyer:Maninkaa-Niokolo**\n**hh:sv:Balde:Mandingues**\n**hh:sv:Delafosse:Mandingue**\n**hh:vdial:Balde:Mandingues:1981**\n**sil16:40391**"
+  },
+  "altnames": {
+    "wals": "\nManinka (Western)",
+    "wals other": "\nMalinke",
+    "ruhlen (1987)": "\nManinka",
+    "moseley & asher (1994)": "\nManinka",
+    "multitree": "\nMalinka\nMalinke\nManinga\nManinka (Western)\nManinka-Western\nManinkakan (Western)\nManinkakan, Western\nNorthwestern Maninka\nWestern Malinke\nWestern Maninkakan",
+    "lexvo": "\nWestern Maninkakan [en]",
+    "hhbib_lgcode": "\nDiakhanké in Senegal\nMalinké de l'ouest (Gambie-Casamance-Rio Grande)\nManinkakan-Western\nNiokolo"
+  },
+  "triggers": {
+    "lgcode": "\nniokolo\nparlons AND malinke"
+  },
+  "identifier": {
+    "wals": "maw",
+    "multitree": "mlq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Galtier:Mandingues**",
+    "subrefs": "\n**hh:hv:Galtier:Mandingues**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maninkakan, Western (mlq-mlq) = 5 (Developing). Recognized language (2001, Constitution, Article 1)."
+  }
+}

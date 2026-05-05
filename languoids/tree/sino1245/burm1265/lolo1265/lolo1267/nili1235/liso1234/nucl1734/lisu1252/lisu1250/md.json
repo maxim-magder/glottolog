@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Lisu",
+    "hid": "lis",
+    "level": "language",
+    "iso639-3": "lis",
+    "latitude": "26.91",
+    "longitude": "98.94",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN",
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Lisu](https://lexibank.clld.org/languages/gaotb-Liso)\n[Lisu](https://wals.info/languoid/lect/wals_code_lis)\n[Loloish_Lisu](https://lexibank.clld.org/languages/sagartst-Lisu)\nhttps://en.wikipedia.org/wiki/Lisu_language\nhttps://phoible.org/languages/lisu1250\nhttps://www.wikidata.org/entity/Q56480"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4294**\n**cldf:bradley:03:2**\n**cldf:handel:02:1**\n**cldf:hope:74**\n**cldf:manaster-ramer:88**\n**cldf:ostler:rudes:ed:00:3**\n**hh:d:Bradley:Lisu**\n**hh:d:Bradley:Southern-Lisu**\n**hh:d:Lin:Lisu**\n**hh:d:Ngwazah:Lisu**\n**hh:d:ZhengOuyang:Li**\n**hh:e:Dutta:Lisus**\n**hh:e:Dutta:Tirap**\n**hh:e:Si:Lisu**\n**hh:ew:Maitra:Lisus**\n**hh:ew:RossBrown:Lisu**\n**hh:g:Hope:Lisu**\n**hh:g:Hope:Lisu:1972**\n**hh:g:Roop:Lisu**\n**hh:h:Dessaint:Tibeto-Burmese**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hew:dOrleans:Tonkin**\n**hh:hld:ShearerHongkai:China**\n**hh:hvw:Lama:Nisoic**\n**hh:hvw:Satterthwaite-Phillips:Tibeto-Burman**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:ld:YuzhangLing:Lisu**\n**hh:phonsoc:Htay:Lisu**\n**hh:s:Academy:Lisu**\n**hh:s:Bradley:Lisu**\n**hh:s:Bradley:Lisu:2017**\n**hh:s:Fraser:Lisu-Yawyin**\n**hh:s:Linetal:Lisu**\n**hh:s:Maitra:Lisu**\n**hh:s:Mu:Lisu:2007**\n**hh:s:MuSun:Lisu**\n**hh:s:Nishi:Lisu**\n**hh:s:Nishida:Lisu-Tak**\n**hh:s:XuOu:Lisu**\n**hh:s:Yu:Lisu**\n**hh:s:Yu:Shibacha-Lisu**\n**hh:vld:Bradley:Lisu-Birth-Order**\n**hh:w:Biet:Lyssou**\n**hh:w:Bufan:Zangmian**\n**mpieva:Blagonravova1999Jazykcha**\n**mpieva:Bradley2005Southern**\n**mpieva:Xu1986Lisuyuji**\n**sil16:37937**\n**sil16:51418**"
+  },
+  "altnames": {
+    "wals": "\nLisu",
+    "ruhlen (1987)": "\nLisu",
+    "moseley & asher (1994)": "\nLisu",
+    "multitree": "\nCentral Lisu\nChedi\nCheli\nChung\nKhae\nLeisu\nLeshuoopa\nLesuo\nLi\nLi-Hsaw\nLi-Shaw\nLip'a\nLis(s)haw\nLis(s)u\nLisaw\nLishu\nLiso\nLissu\nLisu\nLoisu\nLu-Tzu\nLusu\nLëjengoup'a\nLëshuoop'a\nSouthern Lisu\nYao Yen\nYaw Yin\nYaw-Yen\nYawyin\nYeh-Jeh\nYeh-Jen\nYobin",
+    "lexvo": "\nJęzyk lisu [pl]\nLisoueg [br]\nLisu [en]\nLisu language [en]\nЛису [ru]\nภาษาลีสู่ [th]\n傈僳语 [zh]\n리수어 [ko]",
+    "hhbib_lgcode": "\nBlack Lisu (Salween valley)\nCentral Lisu\nDechang\nEastern Lisu\nHua Lisu (Kuyungkai frontier)\nLisaw or Yawyin\nLissou of Lou-kou\nLisu of Tak\nLisu of Vijaynagar\nLisu-Fugong\nLisu-Nujiang-Yongsheng\nLu-Tze\nLyssou\nMostly Shibacha of Yingjiang County\nNinglang\nNorthern Lisu\nNujiang\nNujiang Lisu\nShibacha of Yingjiang County\nTengchong Lisu\nWhite Lisu (Salween valley)\nYongsheng Lisu"
+  },
+  "triggers": {
+    "lgcode": "\nlisuyu\ndiao\ngrain\nlisus\ntirap\nzhao\nyawyin\nNOT a AND NOT li AND lisu"
+  },
+  "identifier": {
+    "wals": "lis",
+    "multitree": "lis"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**:153-156 **hh:hv:Bradley:Tibeto-Burman**:101-102",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**\n**hh:hv:Bradley:Tibeto-Burman**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lisu (lis-lis) = 3 (Wider communication). Language of recognized nationality: Lisu. Language of wider communication at the end of the 19th century and the early 1900s when Lisu people left China to emigrate to Myanmar, Thailand and India. Used in education, trade, communication, and music."
+  }
+}

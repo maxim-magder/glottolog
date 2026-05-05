@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Karipúna",
+    "hid": "kuq",
+    "level": "language",
+    "iso639-3": "kuq",
+    "latitude": "-10.2006",
+    "longitude": "-64.2807",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Karipuna](https://endangeredlanguages.com/lang/3107)\nhttps://www.wikidata.org/entity/Q6371071"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alpher:04**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:evans:03:2**\n**cldf:evans:ed:03:6**\n**cldf:harvey:03**\n**cldf:np:nd:264**\n**cldf:ogrady:hale:04**\n**cldf:simons;:fennig:ed:13**\n**hh:e:Anonimo:Raptadas**\n**hh:h:Ricardo:Piripkura**\n**hh:hv:Mello:Tupi-Guarani:2000**\n**hh:hvw:Sampaio:Tupi-Kawahib:2001**\n**hh:ld:Junior:Piripkura**\n**hh:w:Betts:Kagwahiva**\n**hh:w:Monserrat:Amondawa**\n**iso6393:2006-054**"
+  },
+  "identifier": {
+    "wals": "kdg",
+    "endangeredlanguages": "3107"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A major confusion in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 is with the languages called Karipuna. In addition to Karipuna Creole French [kmv] (an entry which is correct), there are two entries, both classified as Tupi-Guarani, Subgroup VI:\n\n| p{4cm}} | Karipúna [kgm] | Karipuna [kuq] |\n| Region: | Amapá, on French Guiana border | Rondônia, Acre, banks of Jaru, Jamery, Urupa, Cabecciras, Candeias, and Jaciparana rivers. |\n| Classification: | Tupi, Tupi-Guarani, Subgroup VI | Tupi, Tupi-Guarani, Subgroup VI |\n| Alternate names: | Karipúna do Amapá, Karipúna do Uaçá | Caripuna, Jau-Navo, Juanauo, Kagwahiva, Karipuná de Rondônia, Karipuná do Guaporé |\n| Population: | Extinct. | 14 (2004 ISA). |\n| Language use: | Shifted to Karipúna Creole French [kmv]. | Some may also use Tenharim [pah] |\n\n\nEarly references to the Karipuna (or similar names) of Amapá refer to a variety of Palikúr [plu]\n(**hh:he:GalloisRicardo:Amapa-Norte-Para**:62). The language of the Karipuna of Amapá in this sense is attested with a short wordlist,\nand is indeed a Palikúr [plu] variety (**hh:w:Loukotka:Inedits**).\nMore recent references to the Karipuna of Amapá refer to an immigrant group whose original language is not attested, but, is reported to have been Nheengatu [yrl] (**hh:e:Arnaud:Uaca**,\n**hh:he:GalloisRicardo:Amapa-Norte-Para**:62).  Except for the classification and the fact that Nheengatu [yrl] already has an entry,\nthe Karipúna [kgm] entry is consistent with referring to the more recent Karipuna of Amapá. Thus, whatever it refers to, the same language already has a different E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entry, either Palikur [plu]\nor Nheengatu [yrl].\n\nUntil the 1950s (**hh:e:Leonel:Urueu-au-au**:40-45, 199-213) the only language called Karipuna in the Madeira-Guaporé region was a Panoan language also known as Jau-Navo, amply attested in wordlists\n(**hh:hw:Rondon:Silvicolas**, **hh:hv:deCrequi-MontfortRivet:Pano**, **hh:hw:Martius:Brasiliens**, **hh:w:Hanke:Karipuna**). However,\nthe name started to be applied to groups of hostile indians at the Mutumparaná and Jaciparaná which were contacted in the 1950-1970s\n(**hh:e:Kastner:Urueuwauwau**:104) and turned out to speak a Tupi-Guarani language of Subgroup VI\n(**hh:hv:Mello:Tupi-Guarani:2000**, **hh:w:Monserrat:Amondawa**, **hh:w:Betts:Kagwahiva**),\nwhich we may call Kawahib. FUNAI frivolously used the name Karipuna for this Kawahib group (**hh:e:Leonel:Urueu-au-au**:45), encouraging the confusion we now observe. The Karipuna [kuq] entry mixes information from the Panoan Karipuna (e.g., the name Jau-Navo) and the Kawahib Karipuna (e.g., the classification). The Panoan Karipuna is otherwise missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 whereas the Kawahib Karipuna speak the same language as the language of several other entries. See also: Tenharim-Parintintin-Diahoi [pah].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "kuq"
+  },
+  "classification": {
+    "sub": "**hh:hv:RodriguesCabral:Tupian** **hh:hv:RodriguesCabral:Tupi-Guarani**:334 **hh:s:dosSantos:Kawahiva**:11-16",
+    "subrefs": "\n**hh:hv:RodriguesCabral:Tupi-Guarani**\n**hh:s:dosSantos:Kawahiva**\n**hh:hv:RodriguesCabral:Tupian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Karipuna (3107-kuq) = Severely Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nKaripuna\nKaripuna: April 15 to May 2 1980 at FUNAI Posto Panorama- Jaci Paraná River in the state of Rondônia\nPiripkura a Kawahiwa Meridionais group maybe Karipúna",
+    "elcat": "\nAh'e\nCaripuna\nDiahoi [Jiahui\nDiarroi]\nDjahui\nJau-Navo\nJuanauo\nKagwahiva\nKari\nKaripuna\nKaripuna do Guapore\nKaripuná de Rondônia\nKaripúna do Guaporé\nKawahib/Paranawat/Pawaté-Wirafed\nParintintín/Tenharim/Juma\nTukumanfed"
+  }
+}

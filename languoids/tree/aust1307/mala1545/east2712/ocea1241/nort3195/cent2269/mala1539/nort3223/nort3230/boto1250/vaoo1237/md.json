@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Vao-Vovo",
+    "hid": "vao",
+    "level": "language",
+    "iso639-3": "vao",
+    "latitude": "-15.898299",
+    "longitude": "167.309973",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Vao (Torono)](https://lexibank.clld.org/languages/abvdoceanic-VaoTorono)\nhttps://en.wikipedia.org/wiki/Vao_language\nhttps://www.wikidata.org/entity/Q2160405"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:67**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMallicolo\nVao",
+    "lexvo": "\nVao [en]\nVao language [en]",
+    "glottolog": "\nVao",
+    "hhbib_lgcode": "\nVao"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "vao"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral** **hh:v:Lynch:Nese**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**\n**hh:v:Lynch:Nese**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Vao (vao-vao) = 6b (Threatened)."
+  }
+}

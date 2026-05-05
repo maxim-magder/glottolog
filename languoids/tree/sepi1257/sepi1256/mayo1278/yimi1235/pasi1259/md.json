@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pasi",
+    "hid": "psq",
+    "level": "language",
+    "iso639-3": "psq",
+    "latitude": "-3.95195",
+    "longitude": "142.307",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Pasi](https://endangeredlanguages.com/lang/10594)\nhttps://www.wikidata.org/entity/Q7142091\nhttps://en.wikipedia.org/wiki/Pasi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:hutchinson:nd**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hsoc:Hutchinson:Heyoetc**\n**hh:hv:Laycock:Sepik**\n**hh:w:Laycock:D8**"
+  },
+  "altnames": {
+    "multitree": "\nBesi\nPasi",
+    "lexvo": "\nPasi [en]",
+    "elcat": "\nBesi\nPasi\nWarasai\nYau"
+  },
+  "triggers": {
+    "lgcode": "\nheyo"
+  },
+  "identifier": {
+    "multitree": "psq",
+    "endangeredlanguages": "10594"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:Hutchinson:Heyoetc**:126",
+    "subrefs": "\n**hh:hsoc:Hutchinson:Heyoetc**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pasi (10594-psq) = Endangered (20 percent certain, based on the evidence available) [Hutchinson n.d.](cldf:hutchinson:nd)"
+  }
+}

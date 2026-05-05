@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Krobu",
+    "hid": "kxb",
+    "level": "language",
+    "iso639-3": "kxb",
+    "latitude": "5.86161",
+    "longitude": "-4.47739",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35586\nhttps://en.wikipedia.org/wiki/Krobu_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:FrickBolli:CotedIvoire**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:s:Mensah:Krobou**\n**hh:typ:Adekpate:Krobou**\n**hh:typ:Adekpate:Krobou:2011**"
+  },
+  "altnames": {
+    "multitree": "\nKrobou\nKrobu",
+    "lexvo": "\nKrobu [en]",
+    "hhbib_lgcode": "\nKrobou"
+  },
+  "triggers": {
+    "lgcode": "\nkrobou"
+  },
+  "identifier": {
+    "multitree": "kxb;krob"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Krobu (kxb-kxb) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Yangum Mon",
+    "hid": "ymo",
+    "level": "language",
+    "iso639-3": "ymo",
+    "latitude": "-3.55",
+    "longitude": "142.527",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Aiku](https://endangeredlanguages.com/lang/10552)\nhttps://www.wikidata.org/entity/Q50313949"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:w:Laycock:C3**\n**iso6393:2006-057**"
+  },
+  "altnames": {
+    "multitree": "\nAiku\nMalek\nMenandon\nMinendon\nMonanda\nYangum Mon",
+    "lexvo": "\nYangum Mon [en]",
+    "hhbib_lgcode": "\nAiku\nAiku-Wumerau\nUmbrak-Aiku",
+    "elcat": "\nAiku\nMalek\nMenandon\nMinendon\nMonanda\nMonandu\nUmbrak-Aiku\nYangum Mon"
+  },
+  "identifier": {
+    "multitree": "ymo",
+    "endangeredlanguages": "10552"
+  },
+  "classification": {
+    "sub": "**hh:hv:Laycock:Sepik**",
+    "subrefs": "\n**hh:hv:Laycock:Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aiku (10552-ymo) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

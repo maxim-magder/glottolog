@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yaka-Pelende-Lonzo",
+    "hid": "yaf",
+    "level": "language",
+    "iso639-3": "yaf",
+    "latitude": "-5.984",
+    "longitude": "16.775",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "CD"
+    ],
+    "links": "\n[Yaka](https://wals.info/languoid/lect/wals_code_yak)\n[Yaka-Pelende-Lonzo](https://grambank.clld.org/languages/yaka1269)\nhttps://en.wikipedia.org/wiki/Yaka_language_(Congo%E2%80%93Angola)\nhttps://www.wikidata.org/entity/Q35588"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hyman:98**\n**cldf:kidima:87**\n**cldf:milheiros:56**\n**cldf:ruttenberg:99**\n**cldf:torday:joyce:06**\n**eballiso2009:10928**\n**eballiso2009:11377**\n**eballiso2009:11379**\n**eballiso2009:11381**\n**eballiso2009:11382**\n**eballiso2009:11385**\n**eballiso2009:11386**\n**eballiso2009:13367**\n**eballiso2009:13368**\n**eballiso2009:17501**\n**eballiso2009:20425**\n**eballiso2009:20429**\n**eballiso2009:22052**\n**eballiso2009:24216**\n**eballiso2009:24906**\n**eballiso2009:25996**\n**eballiso2009:26556**\n**eballiso2009:27582**\n**eballiso2009:28707**\n**eballiso2009:30606**\n**eballiso2009:30640**\n**eballiso2009:30643**\n**eballiso2009:32434**\n**eballiso2009:32614**\n**eballiso2009:32746**\n**eballiso2009:32747**\n**eballiso2009:34082**\n**eballiso2009:34083**\n**eballiso2009:34114**\n**eballiso2009:34115**\n**eballiso2009:34117**\n**eballiso2009:35203**\n**eballiso2009:39414**\n**eballiso2009:39675**\n**eballiso2009:40130**\n**eballiso2009:41093**\n**eballiso2009:42506**\n**eballiso2009:45722**\n**eballiso2009:46066**\n**eballiso2009:46173**\n**eballiso2009:496**\n**eballiso2009:52034**\n**eballiso2009:52201**\n**eballiso2009:52619**\n**eballiso2009:5396**\n**eballiso2009:57147**\n**eballiso2009:57733**\n**eballiso2009:57742**\n**eballiso2009:57759**\n**eballiso2009:59692**\n**eballiso2009:6922**\n**hh:d:Ruttenberg:Yaka**\n**hh:dial:Kutanikina:Yaka-Sud**\n**hh:dial:Mamonampasi:Yaka**\n**hh:e:DeBeir:Yaka**\n**hh:e:Denis:Yaka**\n**hh:e:Plancquaert:Yaka**\n**hh:e:Roosens:Yaka**\n**hh:ew:Torday:Yaka**\n**hh:h:deFaria:Pombo**\n**hh:hb:Boone:Zaire-Sud-Est**\n**hh:he:MaesBoone:Congo-Belge**\n**hh:he:Plancquaert:Jaga-Bayaka**\n**hh:he:Torday-Joyce:South-Western-Congo**\n**hh:he:TordayJoyce:Kasai-Kwango**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvb:vanBulck:Congo**\n**hh:hw:Clarke:Africa**\n**hh:ld:Hyman:Yaka**\n**hh:lde:Lamal:Basuku-Bayaka**\n**hh:phon:Kidima:KiYaka**\n**hh:s:Kayamba:Kiphelende**\n**hh:s:Kyota:Yaka**\n**hh:s:Kyota:Yaka:1999**\n**hh:s:vandenEynde:Yaka**\n**hh:t:Matadiwamba:Pelende**\n**hh:t:vanderBeken:Yaka**\n**hh:t:vanderBeken:Yaka:1993**\n**hh:typ:Dobashi:Phonological-Phrasing**\n**hh:typ:Itsieki:Yaka**\n**hh:typ:Kahungu:Pelende**\n**hh:typ:Mabalu:Yaka**\n**hh:v:Ndikita:Pelende-Yaka**\n**hh:v:Ntoya:Kiyaka**\n**hh:w:Verhulpen:Balubaises**"
+  },
+  "altnames": {
+    "wals": "\nYaka",
+    "wals other": "\nYaka (in Democratic Republic of Congo)",
+    "ruhlen (1987)": "\nYaka (in Democratic Republic of Congo)",
+    "moseley & asher (1994)": "\nYaka (Bantu, Zone H)",
+    "multitree": "\nIaca\nIaka\nIyaka\nKiyaka\nYaka",
+    "lexvo": "\nYaka (Democratic Republic of Congo) [en]\nYaka [en]",
+    "hhbib_lgcode": "\nBayaka\nH31_Yaka\nKiYaka\nKiphelende\nMaiacas\nMulopo-Ndiindi\nPelende\nPhelende\nYaka\nYaka (Democratic Republic of Congo)\nYaka 1 d. kipheleende H31\nYaka 2 Kasongo H31\nYaka 3 Popokabaka H31\nYaka 4 d. sud H31\nYaka in Zaire H31\nYaka of Mission Pelende\np 446 KiPelende"
+  },
+  "triggers": {
+    "lgcode": "\nkiyaka\nphrasing\nbayaka\npelende\nNOT pp AND yaka\nmorphotonologiques\nenonce\nmatrilineaires\nngongo\nmaiacas"
+  },
+  "identifier": {
+    "wals": "yak",
+    "multitree": "yaf"
+  },
+  "classification": {
+    "sub": "**hh:v:BostoenKoni:Hungan** **hh:hv:deSchryver:Kikongo**:138-145",
+    "subrefs": "\n**hh:v:BostoenKoni:Hungan**\n**hh:hv:deSchryver:Kikongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yaka (yaf-yaf) = 5 (Developing)."
+  }
+}

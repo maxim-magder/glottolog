@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ersu",
+    "hid": "ers",
+    "level": "language",
+    "iso639-3": "ers",
+    "latitude": "29.2867",
+    "longitude": "102.213",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Ersu](https://endangeredlanguages.com/lang/4133)\n[Ersu](https://grambank.clld.org/languages/ersu1241)\n[Ersu (Ganluo)](https://lexibank.clld.org/languages/gaotb-ErsuGanluo)\nhttps://en.wikipedia.org/wiki/Ersu_language\nhttps://phoible.org/languages/ersu1241\nhttps://www.wikidata.org/entity/Q12952417"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chirkova:15:4**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:roche:suzuki:17**\n**cldf:sun:01**\n**cldf:wang:10**\n**cldf:zhang:14**\n**elpub:ldd53**\n**hh:e:Wang:Ersu**\n**hh:ew:Baber:Western-China**\n**hh:g:Zhang:Ersu**\n**hh:g:Zhang:Ersu:2016**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvld:Sun:Western-Sichuan**\n**hh:hvs:Sun:Six-Rivers**\n**hh:hvw:Yu:Ersuic**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:s:Liu:Ersu**\n**hh:s:Sun:Ersu:2007**\n**hh:wsoc:Reha:Ganluo**"
+  },
+  "altnames": {
+    "multitree": "\nDuoxu\nErhsu\nErsu",
+    "lexvo": "\nErsoueg [br]\nErsu [en]\nErsu language [en]\nภาษาเอ้อซู [th]",
+    "hhbib_lgcode": "\nErsu-Ganluo\nGanluo Ersu\nHanyung Ersu\nManyak\nManyakof Hodgson 1853\nMeniak\nQingshui Ersu\nSifan properly Menya of Tzu-ta-ti",
+    "elcat": "\nErsu\n爾蘇語"
+  },
+  "triggers": {
+    "lgcode": "\nsichuan\nduoxu\nersu"
+  },
+  "identifier": {
+    "multitree": "ers",
+    "endangeredlanguages": "4133"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Yu:Ersuic** **hh:vw:Chirkova:Duoxu**",
+    "subrefs": "\n**hh:hvw:Yu:Ersuic**\n**hh:vw:Chirkova:Duoxu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ersu (4133-ers) = Threatened (100 percent certain, based on the evidence available) (fully proficient speakers are all in their 60s or older; children still learn the language at home. Ersu is essentially used as the primary language of oral communication in family and community events.) [Chirkova 2015](cldf:chirkova:15:4)"
+  }
+}

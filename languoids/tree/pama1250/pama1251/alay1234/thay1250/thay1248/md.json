@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Thaypan",
+    "hid": "typ",
+    "level": "language",
+    "iso639-3": "typ",
+    "latitude": "-14.8292",
+    "longitude": "143.324",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Awu Laya](https://endangeredlanguages.com/lang/3446)\n[Kuku Thaypan](https://collection.aiatsis.gov.au/austlang/language/y84)\nhttps://en.wikipedia.org/wiki/Gugu_Thaypan_language\nhttps://phoible.org/languages/thay1248\n[Thaypan](https://wals.info/languoid/lect/wals_code_thp)\nhttps://www.wikidata.org/entity/Q3915693",
+    "timespan": "2016-01-01/2016-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:mckenna:16**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:hv:Alpher:Thaypanic**\n**hh:hv:Sommer:Roth-Peninsular**\n**hh:typ:Rigsby:Thaypan**\n**hh:vphon:Rigsby:Thaypan**\n**ozbib:1727**\n**ozbib:3417**\n**ozbib:4525**\n**ozbib:5081**\n**ozbib:5521**"
+  },
+  "altnames": {
+    "wals": "\nThaypan",
+    "wals other": "\nKuku-thaypan",
+    "ruhlen (1987)": "\nThaypan",
+    "moseley & asher (1994)": "\nThaypan",
+    "multitree": "\nAwu-Alaya\nCoo-coo-warra\nGugu Dhayban\nKoko Laia\nKokowara\nKuku Thaypan\nKuku-Thaypan\nLaya\nThaypan\nWu-Laya",
+    "lexvo": "\nKuku-Thaypan language [en]\nLenga thaypan [pms]\nThaypan [en]",
+    "hhbib_lgcode": "\nAwu Alaya (Kuku Thaypan)\nHinterlands of Princess Charlotte Bay 1\nIyaramu\nKoko-Rarmul",
+    "elcat": "\nAwu Laya\nAwu-Alaya\nCoo-coo-warra\nGugu Dhayban\nKoko Laia\nKokowara\nKuku Thaypan\nKuku-Thaypan\nLaya\nWu-Laya",
+    "aiatsis": "\nAghuLaia\nAkuLaia\nAmbaram\nAngandjan\nArlga\nAwu Alaya\nAwu-Laya\nAwurangung\nBariman Cudhinma\nBarimanCutinma\nBarimangudinma\nBarinangndinma\nBarinman Guthinma\nCocobathan\nCoo coo warra\nDaiban\nDhayban\nGugu Dhayban\nJadeneni\nJeteneru\nJetieneru\nKoko Laia\nKokowara\nKoogabatha\nKookoobathy\nKuku Taipan\nKuku Thaypan\nLaia\nLaya\nOmpindamo\nOwynggan\nParimankutinma\nParinman Gutinma\nPurangunuma\nTaipan\nTaypan\nThaypan\nWu Laya\nWurangung\nYadaneru\nYananeru"
+  },
+  "triggers": {
+    "lgcode": "\nthaypan"
+  },
+  "identifier": {
+    "wals": "thp",
+    "multitree": "typ",
+    "endangeredlanguages": "3446"
+  },
+  "classification": {
+    "sub": "**hh:hv:Alpher:Thaypanic**",
+    "subrefs": "\n**hh:hv:Alpher:Thaypanic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Awu Laya (3446-typ) = Dormant [McKenna 2016](cldf:mckenna:16)"
+  }
+}

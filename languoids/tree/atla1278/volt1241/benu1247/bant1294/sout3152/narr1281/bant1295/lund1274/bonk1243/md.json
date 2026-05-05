@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bonkeng",
+    "hid": "bvg",
+    "level": "language",
+    "iso639-3": "bvg",
+    "latitude": "4.66054",
+    "longitude": "9.76306",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34958\nhttps://en.wikipedia.org/wiki/Bonkeng_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:28707**\n**eballiso2009:41799**\n**hh:h:Guthrie:Bantu-Western**\n**hh:h:Valdau:Kamerun**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**"
+  },
+  "altnames": {
+    "multitree": "\nBongken\nBonkeng\nBonkeng-Pendia\nBonkenge",
+    "lexvo": "\nBonkeng [en]",
+    "hhbib_lgcode": "\nBonge\nBongkeng\nBonken"
+  },
+  "triggers": {
+    "lgcode": "\npt AND skildringar"
+  },
+  "identifier": {
+    "multitree": "bvg"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hedinger:Manenguba**",
+    "subrefs": "\n**hh:hvw:Hedinger:Manenguba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bonkeng (bvg-bvg) = 6b* (Threatened)."
+  }
+}

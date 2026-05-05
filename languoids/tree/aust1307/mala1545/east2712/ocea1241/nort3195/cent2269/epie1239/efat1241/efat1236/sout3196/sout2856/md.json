@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Nafsan",
+    "hid": "erk",
+    "level": "language",
+    "iso639-3": "erk",
+    "latitude": "-17.7006",
+    "longitude": "168.377",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Efate (South)](https://wals.info/languoid/lect/wals_code_erk)\n[South Efate](https://grambank.clld.org/languages/sout2856)\n[South Efate](https://lexibank.clld.org/languages/abvdoceanic-SouthEfate)\nhttps://en.wikipedia.org/wiki/Nafsan_language\nhttps://phoible.org/languages/sout2856\nhttps://www.wikidata.org/entity/Q3449070"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1118**\n**asjp2010:2424**\n**asjp2010:4780**\n**cldf:thieberger:21**\n**hh:d:Thieberger:Nafsan**\n**hh:d:Thieberger:SEfate**\n**hh:g:Thieberger:SEfate**\n**hh:g:Thieberger:SEfate:2004**\n**hh:hv:Clark:Efate**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Billington:Nafsan**\n**hh:ld:Billington:Nafsan:IPA**\n**hh:t:Thieberger:South-Efate**\n**hh:typ:Krajinovic:Nafsan**\n**hh:typ:Windbergs:Nafsan**\n**hh:v:Billington:Nafsan**\n**ldh:item_407180**\n**ldh:item_407250**\n**mpieva:Macdonald1907TheOcean**"
+  },
+  "altnames": {
+    "multitree": "\nEfate, South\nErakor\nFate\nSouthern Efate",
+    "lexvo": "\nSouth Efate [en]\nSouth Efate language [en]\nÉfaté du Sud [fr]",
+    "hhbib_lgcode": "\nEfate-South\nEratap\nNafsan\nPango\nSouth Efate",
+    "glottolog": "\nSouth Efate"
+  },
+  "triggers": {
+    "lgcode": "\nvanuatu AND efate\nnatrausuen\nnig\nefat"
+  },
+  "identifier": {
+    "wals": "erk",
+    "multitree": "erk",
+    "languagelandscape": "http://languagelandscape.org/language/Efate%2C%20South"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Efate, South (erk-erk) = 6b (Threatened)."
+  }
+}

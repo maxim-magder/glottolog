@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Pech",
+    "hid": "pay",
+    "level": "language",
+    "iso639-3": "pay",
+    "latitude": "15.8033",
+    "longitude": "-85.558",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "HN"
+    ],
+    "links": "\n[Pech](https://endangeredlanguages.com/lang/4946)\n[Pech](https://grambank.clld.org/languages/pech1241)\n[Pech](https://lexibank.clld.org/languages/constenlachibchan-Pech)\n[Pech](https://wals.info/languoid/lect/wals_code_pec)\nhttps://en.wikipedia.org/wiki/Pech_language\nhttps://phoible.org/languages/pech1241\nhttps://www.wikidata.org/entity/Q4898889"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3526**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:conzemius:28**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**fabreall2009ann:4718**\n**fabreall2009ann:7037**\n**fabreall2009ann:Chibcha_pech01**\n**fabreall2009ann:Chibcha_pech02**\n**fabreall2009ann:Chibcha_pech03**\n**fabreall2009ann:Chibcha_pech04**\n**fabreall2009ann:Chibcha_pech05**\n**fabreall2009ann:Chibcha_pech09**\n**fabreall2009ann:Chibcha_pech10**\n**fabreall2009ann:Chibcha_pech17**\n**fabreall2009ann:Chibcha_pech18**\n**fabreall2009ann:Chibcha_pech20**\n**fabreall2009ann:Chibcha_pech21**\n**fabreall2009ann:Chibcha_pech23**\n**fabreall2009ann:Chibcha_pech24**\n**fabreall2009ann:Chibcha_pech25**\n**fabreall2009ann:Chibcha_pech26**\n**fabreall2009ann:Chibcha_pech27**\n**fabreall2009ann:Chibcha_pech28**\n**fabreall2009ann:Chibcha_pech29**\n**fabreall2009ann:Chibcha_pech30**\n**fabreall2009ann:Chibcha_pech31**\n**hh:e:Samson:Pech**\n**hh:es:Conzemius:Payas**\n**hh:ew:Diaz:Paya**\n**hh:ew:Diaz:Paya:1949**\n**hh:h:Flores:Pech**\n**hh:hv:Pache:Chibchan-Pech**\n**hh:hvtyp:Constenla:Intermedia**\n**hh:phon:Humnick:Paya**\n**hh:phonv:Holt:Paya**\n**hh:s:Holt:Pech**\n**hh:t:Quesada:Pesh**\n**hh:typ:Chamoreau:Pesh**\n**hh:typ:Chamoreau:Pesh-Ergative**"
+  },
+  "altnames": {
+    "wals": "\nPech",
+    "wals other": "\nCulmí dialect\nPaya\nPaya (Culmí)",
+    "ruhlen (1987)": "\nPaya",
+    "moseley & asher (1994)": "\nPaya",
+    "multitree": "\nBayano\nPaya\nPech\nPechí\nSeco\nTaia\nTowka",
+    "lexvo": "\nPech [en]",
+    "elcat": "\nBayano\nPaya\nPech\nSeco\nTaia\nTowka",
+    "hhbib_lgcode": "\nCulmí\nPesh"
+  },
+  "triggers": {
+    "lgcode": "\npech\nmithun\npaya\npayas"
+  },
+  "identifier": {
+    "wals": "genus/paya",
+    "multitree": "pay",
+    "endangeredlanguages": "4946"
+  },
+  "classification": {
+    "sub": "**hh:hv:Constenla-Umana:Chibchan**",
+    "subrefs": "\n**hh:hv:Constenla-Umana:Chibchan**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Pech (4946-pay) = Severely Endangered (60 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

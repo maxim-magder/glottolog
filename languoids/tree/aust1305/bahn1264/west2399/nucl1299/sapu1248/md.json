@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sapuan",
+    "hid": "spu",
+    "level": "language",
+    "iso639-3": "spu",
+    "latitude": "15.3692",
+    "longitude": "106.843",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA"
+    ],
+    "links": "\n[Sapuan](https://grambank.clld.org/languages/sapu1248)\n[Sapuan](https://lexibank.clld.org/languages/sidwellbahnaric-sapuan)\n[Sapuan](https://wals.info/languoid/lect/wals_code_sap)\nhttps://en.wikipedia.org/wiki/Sapuan_language\nhttps://www.wikidata.org/entity/Q7421168"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4844**\n**cldf:jacq:sidwell:99**\n**cldf:sidwell:jacq:ed:03:5**\n**hh:hv:SidwellJacq:WBahnaric**\n**hh:s:JacqSidwell:Sapuan**\n**mpieva:Jacq1999SapuanSe**"
+  },
+  "altnames": {
+    "wals": "\nSapuan",
+    "ruhlen (1987)": "\nSapuan",
+    "moseley & asher (1994)": "\nSapuan",
+    "multitree": "\nSapouan\nSapuan\nSapuor",
+    "lexvo": "\nSapuan [en]"
+  },
+  "triggers": {
+    "lgcode": "\nsapuan\nspuar"
+  },
+  "identifier": {
+    "wals": "sap",
+    "multitree": "spu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic-MSEA**:185-186",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic-MSEA**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sapuan (spu-spu) = 6a (Vigorous)."
+  }
+}

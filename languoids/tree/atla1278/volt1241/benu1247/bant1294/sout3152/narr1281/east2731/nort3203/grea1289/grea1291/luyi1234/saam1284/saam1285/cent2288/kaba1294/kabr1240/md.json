@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kabras",
+    "hid": "lkb",
+    "level": "language",
+    "iso639-3": "lkb",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "longitude": "34.83",
+    "latitude": "0.29",
+    "links": "\nhttps://www.wikidata.org/entity/Q63257894"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:49771**\n**hh:hvtyp:Kanyoro:Abaluyia**\n**hh:typ:Ebarb:Kabarasi**\n**iso6393:2007-171**"
+  },
+  "altnames": {
+    "multitree": "\nKabras",
+    "lexvo": "\nKabras [en]\nLukabaras [en]",
+    "hhbib_lgcode": "\nKAB\nKabarasi"
+  },
+  "triggers": {
+    "lgcode": "\nkabras\nlukabras"
+  },
+  "identifier": {
+    "multitree": "luy-kab"
+  },
+  "classification": {
+    "sub": "**hh:v:Mohlig:Kanyoro** **hh:typ:Odden:Tachoni**:305",
+    "subrefs": "\n**hh:v:Mohlig:Kanyoro**\n**hh:typ:Odden:Tachoni**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lukabaras (lkb-lkb) = 5* (Developing)."
+  }
+}

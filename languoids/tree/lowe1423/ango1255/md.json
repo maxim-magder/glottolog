@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Angoram",
+    "hid": "aog",
+    "level": "language",
+    "iso639-3": "aog",
+    "latitude": "-4.07758",
+    "longitude": "144.028",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Angoram](https://endangeredlanguages.com/lang/10629)\n[Angoram](https://lexibank.clld.org/languages/transnewguineaorg-angoram)\n[Angoram (Kambrindo Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-angoram-kambrindo)\nhttps://en.wikipedia.org/wiki/Angoram_language\nhttps://www.wikidata.org/entity/Q56366"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:simons:etal:ed:17**\n**cldf:simons:fennig:ed:18**\n**hh:hv:Abbott:Nor-Pondo**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvtyp:Foley:Lower-Sepik**\n**hh:ld:SanRoque:Angoram**\n**hh:lde:Thurnwald:Angoram**\n**hh:w:Haberland:Korowori**\n**iso6393:2018-010**"
+  },
+  "altnames": {
+    "multitree": "\nAngoram\nOlem\nPondo\nTjimundo",
+    "lexvo": "\nAngoram [en]",
+    "hhbib_lgcode": "\nGaindj-Mo'em\nGaindj-Mokm\nI-Pondo\nII-mbiäng-klupor\nKamberemba\nKambrindo\nKanda\nKausimbit\nMagendo 2\nMarbuk",
+    "elcat": "\nAngoram\nKanda\nMaramba\nOlem\nPondo\nSepik No. 1\nTjimundo"
+  },
+  "triggers": {
+    "lgcode": "\nangoram\ntjimundo"
+  },
+  "identifier": {
+    "multitree": "aog",
+    "endangeredlanguages": "10629"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik-Ramu** **hh:hv:Laycock:Sepik**",
+    "subrefs": "\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Angoram (10629) = Threatened (20 percent certain, based on the evidence available) [Simons and Fennig 2018](cldf:simons:fennig:ed:18)"
+  }
+}

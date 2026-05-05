@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Zamuco",
+    "hid": "NOCODE_Zamuco",
+    "level": "language",
+    "latitude": "-18.910444",
+    "longitude": "-59.439698",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO",
+      "PY"
+    ],
+    "timespan": "1745-01-01/1745-01-01",
+    "links": "\nhttps://www.wikidata.org/entity/Q12645537"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ht:Hervas:Saggio**\n**hh:hv:Bertinetto:Zamuco**\n**hh:hv:Ciucci:Zamucoan**\n**hh:hvtyp:Bertinetto:Zamuco**\n**hh:hvtyp:Ciucci:Zamucoan**\n**hh:hvtyp:Ciucci:Zamucoan:2016**\n**hh:hvw:Hervas:Poligloto**\n**hh:hvw:Latham:Comparative**\n**hh:s:Lussagnet:Zamuca**\n**hh:w:Loukotka:Zamuco**"
+  },
+  "triggers": {
+    "lgcode": "\nchome\nignace\nzamuca"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ciucci:Zamucoan**",
+    "subrefs": "\n**hh:hv:Ciucci:Zamucoan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Zamuco (NOCODE_Zamuco-NOCODE_Zamuco) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nZamuca\nZamucu"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Akie",
+    "hid": "mwy",
+    "level": "language",
+    "iso639-3": "mwy",
+    "latitude": "-5.43471",
+    "longitude": "37.1869",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Akie](https://grambank.clld.org/languages/mosi1247)\nhttps://en.wikipedia.org/wiki/Nandi%E2%80%93Markweta_languages\nhttps://www.wikidata.org/entity/Q11028135"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dt:Konig:Akie**\n**hh:e:Bakken:Akie**\n**hh:e:Kaare:Akie**\n**hh:e:Kaare:Akie:1997**\n**hh:e:Kaare:Akie:Gender**\n**hh:e:Schoperle:Akie**\n**hh:e:Schopperle:Akie**\n**hh:ew:Maguire:Il-Torobo**\n**hh:h:Legere:Torobo**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:ld:LegereKonig:Akie**\n**hh:s:Heine:Akie**\n**hh:soc:Heine:Akie**\n**hh:soc:Heine:Akie-State**\n**hh:soc:Konig:Akie**\n**hh:w:Maguire:Il-Torobo:1928**\n**hh:w:Meinhof:Ndorobo**\n**hh:w:Nurse:Akie**\n**iso6393:2016-029**"
+  },
+  "altnames": {
+    "multitree": "\nDorobo\nMosiro\nNandi\nNdorobo",
+    "lexvo": "\nMosiro [en]",
+    "hhbib_lgcode": "\nMosiro\nNdorobo"
+  },
+  "triggers": {
+    "lgcode": "\nakie\nmosiro"
+  },
+  "identifier": {
+    "multitree": "mwy"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**:84-93 although more recent work holds this relationship as premature (p.c. 2015 Christa\nKönig)",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "HeineKonigandLegere",
+    "date": "2018-11-26T14:27:48",
+    "comment": "Akie (mwy-mwy) = 7 (Shifting)."
+  },
+  "iso_retirement": {
+    "code": "mwy",
+    "name": "Mosiro",
+    "effective": "2018-01-23",
+    "reason": "non-existent",
+    "change_to": "",
+    "change_request": "2016-029"
+  }
+}

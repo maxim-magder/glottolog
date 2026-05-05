@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Eruwa",
+    "hid": "erh",
+    "level": "language",
+    "iso639-3": "erh",
+    "latitude": "5.18026",
+    "longitude": "6.04818",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Erohwa](https://endangeredlanguages.com/lang/4131)\nhttps://en.wikipedia.org/wiki/Eruwa_language\nhttps://www.wikidata.org/entity/Q3441244"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3403**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:el:Ekiugbo:Erohwa**\n**hh:el:Mowarin:Isokoland**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Bradbury:Edo**\n**hh:hv:Elugbe:Southwestern-Edo**\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "altnames": {
+    "multitree": "\nArokwa\nErakwa\nErohwa\nEruwa",
+    "lexvo": "\nEruwa [en]",
+    "hhbib_lgcode": "\nErohwa",
+    "elcat": "\nArokwa\nErakwa\nErohwa\nEruwa"
+  },
+  "triggers": {
+    "lgcode": "\nphonology AND edoid"
+  },
+  "identifier": {
+    "multitree": "erh",
+    "endangeredlanguages": "4131"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Elugbe:Edoid**",
+    "subrefs": "\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Erohwa (4131-erh) = Severely Endangered (80 percent certain, based on the evidence available) (The younger generation are not proficient in the language. However, it seems to be the case that intergenerational transmission of the language ceased only a decade or two ago... although most speakers are already in their sixties or above, there are also speakers who are in their thirties. The main domain of use is the home, traditional meetings and church. However, there is a shift in the home front, as over 60% of the homes of indigenes do not communicate using Erohwa.) [Ekiugbo and Diffre-Odiete 2018](cldf:ekiugbo:diffre-odiete:18)"
+  }
+}

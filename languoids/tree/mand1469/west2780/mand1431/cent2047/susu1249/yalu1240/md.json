@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yalunka",
+    "hid": "yal",
+    "level": "language",
+    "iso639-3": "yal",
+    "latitude": "9.97186",
+    "longitude": "-11.2836",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "ML",
+      "SL",
+      "SN"
+    ],
+    "links": "\n[Jalonke](https://lexibank.clld.org/languages/polyglottaafricana-Jalonke)\nhttps://en.wikipedia.org/wiki/Yalunka_language\nhttps://phoible.org/languages/yalu1240\nhttps://www.wikidata.org/entity/Q35524"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3294**\n**cldf:donald:68:1**\n**cldf:donald:68:2**\n**cldf:thomas:16:1**\n**eballiso2009:13509**\n**eballiso2009:13511**\n**eballiso2009:13514**\n**eballiso2009:13967**\n**eballiso2009:13968**\n**eballiso2009:15183**\n**eballiso2009:17441**\n**eballiso2009:22706**\n**eballiso2009:25760**\n**eballiso2009:25766**\n**eballiso2009:25772**\n**eballiso2009:25777**\n**eballiso2009:33016**\n**eballiso2009:38608**\n**eballiso2009:42032**\n**eballiso2009:42033**\n**eballiso2009:42038**\n**eballiso2009:44352**\n**eballiso2009:48306**\n**eballiso2009:51324**\n**eballiso2009:51325**\n**eballiso2009:51326**\n**eballiso2009:58140**\n**eballiso2009:58141**\n**eballiso2009:903**\n**hh:g:Lupke:Jalonke**\n**hh:he:Tauxier:Guinee**\n**hh:hv:Adelungetal:Mithridates:31**\n**hh:hvw:Vydrine:Mande**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Sierra-Leone**\n**hh:s:Leidy:Yalunka**\n**hh:w:Creissels:Diallonke-Faleya**\n**iso6393:2007-035**\n**iso6393:2011-175**\n**mpieva:Bowers1907Yalunkak**\n**mpieva:Lupke2004Agrammar**"
+  },
+  "altnames": {
+    "multitree": "\nDialonke\nDialonké\nDjallonke\nDjalonka\nDyalonke\nJalonke\nJalonké\nJalunga\nKjalonke\nSusu-Yalunka\nYalonka\nYalunka\nYalunke",
+    "lexvo": "\nBahasa Yalunka [ms]\nJalonke [de]\nJalonké [fr]\nYalunka [en]\nYalunka language [en]",
+    "hhbib_lgcode": "\nDiallonké de Faléya\nDialonkés\nJallonka\nMande of Jalunka\nSoso-Solima\nSusu of Sulima"
+  },
+  "triggers": {
+    "lgcode": "\nyalunka\ntimannee\ntimanni\nbaixos\njalonke\nsuccinct\nreferrible\ndialonke\nwrites\nalvares"
+  },
+  "identifier": {
+    "multitree": "yal"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kastenholz:West-Mande** **hh:hv:Dwyer:Mande:1989**",
+    "subrefs": "\n**hh:hv:Kastenholz:West-Mande**\n**hh:hv:Dwyer:Mande:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yalunka (yal-yal) = 5* (Developing)."
+  }
+}

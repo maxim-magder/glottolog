@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Northern Pastaza Quichua",
+    "hid": "qvz",
+    "level": "language",
+    "iso639-3": "qvz",
+    "latitude": "-1.88573",
+    "longitude": "-76.0389",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "EC",
+      "PE"
+    ],
+    "links": "\n[Highland Ecuadorian Quichua](https://endangeredlanguages.com/lang/10851)\nhttps://www.wikidata.org/entity/Q12953848"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Quechua356**\n**fabreall2009ann:Quechua_oriente_ecuatoriano38**\n**fabreall2009ann:Quechua_oriente_ecuatoriano39**\n**hh:d:EPIDUCE:Ecuador-Pastaza**\n**hh:e:Oberem:Canelo**\n**hh:e:Rummenholler:Inga**\n**hh:e:Whitten:Canelos**\n**hh:e:Whitten:Ecuadorian-Jungle-Quichua**\n**hh:gttyp:Rice:Northern-Pastaza-Kichwa**\n**hh:he:ChirifMora:Comunidades-Nativas**\n**hh:he:Reeve:Curaray**\n**hh:hv:Blum:Quechua**\n**hh:hv:Stark:Lowland-Ecuador**\n**hh:hv:Uriarte:Amazonia-Peruana**\n**hh:hvw:Tessmann:NOPerus**\n**hh:ldd:WrisleyOrr:Quichua-Oriente**\n**hh:s:Orr:Quichua-Pastaza**\n**hh:soc:Rice:Northern-Pastaza-Kichwa**\n**hh:styp:Nuckolls:Lowland-Ecuadorean-Quechua**\n**hh:styp:Nuckolls:Pastaza-Quechua**\n**hh:typ:Hamp:Pastaza-Quechua**\n**hh:typ:Rice:Pastaza**\n**hh:w:Leon:Jibarias**"
+  },
+  "altnames": {
+    "multitree": "\nAlama\nBobonaza\nBobonaza Quichua\nCanelo\nCanelos Quichua\nEcuador\nEcuador Quechua\nKichua\nLoreto\nNorthern Pastaza Quichua\nPastaza Quichua\nPuyo Pongo\nQuichua\nQuichua, Northern Pastaza\nSarayacu Quichua\nTigre Quechua",
+    "lexvo": "\nNorthern Pastaza Quichua [en]",
+    "hhbib_lgcode": "\nBobonaza\nCanelo\nCanelos\nCanelos Quechua\nCanelos Quichua\nKanelo\nKichwa Runa\nPastaza Kichwa\nPuyo y Bobonaza\nQuichua\nQuichua Northern Pastaza\nQuichua del Tigre\nQuichua-Canelo\nQuichua-Northern Pastaza",
+    "elcat": "\nCalderón [qud]\nCañar Highland Quichua [qxr]\nChimborazo [qug]\nCotopaxi Quichua.\nHighland Ecuadorian Quichua\nImbabura Quichua [qvi]\nLoja\nNapo Quichua [qvo]\nNorthern Pastaza Quichua [qvz]\nSalasca [qxl]\nTena Quichua [quw]"
+  },
+  "triggers": {
+    "lgcode": "\nnorthern AND pastaza"
+  },
+  "identifier": {
+    "multitree": "qvz",
+    "endangeredlanguages": "10851"
+  },
+  "classification": {
+    "sub": "**hh:d:Landerman:Pastaza**:8 **hh:v:Parks:Inga**:95-96",
+    "subrefs": "\n**hh:v:Parks:Inga**\n**hh:d:Landerman:Pastaza**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Highland Ecuadorian Quichua (10851) = Vulnerable (80 percent certain, based on the evidence available) (Calderón [qud]: \"shifting\"; home, all ages.\nCañar Highland Quichua [qxr]: \"threatened\"; \"Strong use of Quichua away from the road.\"\nChimborazo [qug]: \"developing\"\nImbabura Quichua [qvi]: Vigorous. All ages.\nLoja [qvj]: \"moribund\"; Mainly older adults. Positive attitude.\nNorthern Pastaza Quichua [qvz]: \"threatened\"; Home, community, religion. All ages. Negative attitudes. Most also\nuse Spanish [spa]. Used as L2 by Achuar-Shiwiar [acu], Waorani [auc].\nSalasca [qxl]: Home, community, agriculture. All ages. Positive attitude.\nNapo Quichua [qvo]: \"developing\".\n(Cotopaxi Quichua is not included as an entry in Ethnologue)) [Lewis et al. 2017](cldf:lewis:simons:etal:ed:17)"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Sauji",
+    "hid": "sdg",
+    "level": "language",
+    "iso639-3": "sdg",
+    "latitude": "35.166757",
+    "longitude": "71.461926",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "PK"
+    ],
+    "links": "\n[Savi](https://endangeredlanguages.com/lang/5362)\nhttps://www.wikidata.org/entity/Q3474654\nhttps://en.wikipedia.org/wiki/Sawi_language_(Dardic)\n[Savi](https://wals.info/languoid/lect/wals_code_sav)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:buddruss:67**\n**cldf:cardona:jain:ed:03:15**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hs:Edelman:Dardskie-Nuristani**\n**hh:hwsoc:Decker:Chitral**\n**hh:s:Buddruss:Sau**\n**hh:s:Knobloch:Sauji**"
+  },
+  "altnames": {
+    "wals": "\nSavi",
+    "wals other": "\nSau",
+    "ruhlen (1987)": "\nShina",
+    "moseley & asher (1994)": "\nShina",
+    "multitree": "\nDardu\nSau\nSauji\nSavi\nSaví\nSawi",
+    "lexvo": "\nSavi [en]",
+    "elcat": "\nDardu\nSau\nSauji\nSavi\nSawi",
+    "hhbib_lgcode": "\nSauji\nSavi",
+    "glottolog": "\nSavi"
+  },
+  "triggers": {
+    "lgcode": "\ndardischen\nsau\nNOT des AND ostafghanistan\nostafghanistan"
+  },
+  "identifier": {
+    "wals": "sav",
+    "multitree": "sdg",
+    "endangeredlanguages": "5362"
+  },
+  "classification": {
+    "sub": "**hh:hv:Liljegren:Dangari**",
+    "subrefs": "\n**hh:hv:Liljegren:Dangari**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Savi (sdg-sdg) = 6a (Vigorous)."
+  }
+}

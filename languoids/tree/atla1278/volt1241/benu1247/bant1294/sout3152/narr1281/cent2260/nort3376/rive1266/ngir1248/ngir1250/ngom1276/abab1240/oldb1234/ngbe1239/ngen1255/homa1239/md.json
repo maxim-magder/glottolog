@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Homa",
+    "hid": "hom",
+    "level": "language",
+    "iso639-3": "hom",
+    "latitude": "4.97912",
+    "longitude": "28.0039",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Homa](https://grambank.clld.org/languages/homa1239)\nhttps://en.wikipedia.org/wiki/Homa_language\nhttps://www.wikidata.org/entity/Q3449953",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Santandrea:Ghazal**\n**hh:hel:Sommer:Survey**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:HackettvanBulck:ETeam**\n**hh:hv:Johnston:Semi-Bantu:1917**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:typ:Santandrea:Bodo**"
+  },
+  "altnames": {
+    "multitree": "\nHoma",
+    "lexvo": "\nHoma [en]",
+    "hhbib_lgcode": "\n*D304_Homa_1919\nD304_Homa_1919\nHuma\nHôma\nHōma/Hūma/Huma"
+  },
+  "triggers": {
+    "lgcode": "\nbodo AND huma"
+  },
+  "identifier": {
+    "multitree": "hom"
+  },
+  "classification": {
+    "sub": "**hh:hvw:McMaster:Uele**",
+    "subrefs": "\n**hh:hvw:McMaster:Uele**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Homa (59-hom) = Extinct"
+  }
+}

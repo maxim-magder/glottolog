@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ndobo",
+    "hid": "ndw",
+    "level": "language",
+    "iso639-3": "ndw",
+    "latitude": "1.32539",
+    "longitude": "18.6151",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Ndobo](https://grambank.clld.org/languages/ndob1238)\nhttps://www.wikidata.org/entity/Q11008568"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:15565**\n**eballiso2009:15736**\n**eballiso2009:2496**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:deBoeck:Classification**\n**hh:s:Mangulu:Ndobo**\n**mpieva:Motingea1996Etudecom**"
+  },
+  "altnames": {
+    "multitree": "\nNdobo\nNdoobo",
+    "lexvo": "\nNdobo [en]",
+    "hhbib_lgcode": "\nBombenda villages Konga and Mokaw on the Ngiri Lobengo and Mongondo and Malele and various villages in Ndobo Chefferie all of which are on the Congo river (neighbours call them Mbonzi)\nNdobo C30Nd\nlocationwise this is Ndobo"
+  },
+  "triggers": {
+    "lgcode": "\nNOT du AND ngiri\nndobo"
+  },
+  "identifier": {
+    "multitree": "ndw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:185-189 **hh:hv:Bastinetal:Bantu**:205",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ndobo (ndw-ndw) = 6a* (Vigorous)."
+  }
+}

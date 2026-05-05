@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Estonian",
+    "hid": "ekk",
+    "level": "language",
+    "iso639-3": "ekk",
+    "latitude": "58.55",
+    "longitude": "25.82",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "EE",
+      "LV",
+      "RU"
+    ],
+    "links": "\n[Estonian](https://grambank.clld.org/languages/esto1258)\n[Estonian](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Estonian)\n[Estonian](https://lexibank.clld.org/languages/northeuralex-ekk)\n[Estonian](https://wals.info/languoid/lect/wals_code_est)\nhttps://phoible.org/languages/esto1258\nhttps://www.wikidata.org/entity/Q12361545"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abondolo:ed:98:1**\n**cldf:ackermann:03**\n**cldf:aleksandrov:shlygina:ed:71**\n**cldf:dahl:koptjevskaja-tamm:ed:01:1**\n**cldf:desivers:69**\n**cldf:dezsoe:hajdu:ed:70:2**\n**cldf:eek:75**\n**cldf:feoktistova:80**\n**cldf:fernandez-vest:ed:00:1**\n**cldf:fernandez-vest:ed:00:3**\n**cldf:fernandez-vest:ed:00:4**\n**cldf:fernandez-vest:ed:00:6**\n**cldf:hint:73**\n**cldf:karlov:90**\n**cldf:kask:66**\n**cldf:kerge:96**\n**cldf:kozlova:82**\n**cldf:laanest:82**\n**cldf:lehiste:72**\n**cldf:luts:59**\n**cldf:malherbe:rosenberg:96**\n**cldf:metslang:66**\n**cldf:rejsner:ed:16**\n**cldf:sedov:87**\n**cldf:tamm:09**\n**cldf:tamm:66**\n**cldf:tauli:73**\n**cldf:tauli:83**\n**cldf:tijk:77**\n**cldf:tolstov:ed:64**\n**cldf:valmet:uuspyld:etal:81**\n**cldf:viaari:53**\n**cldf:viitso:98**\n**cldf:vulfson:08**\n**cldf:wiedemann:76**\n**hh:d:EreltErelt:Virolainen**\n**hh:d:Saagpakk:Eesti**\n**hh:d:Tamm:Estonsko**\n**hh:g:Ets:Estonian**\n**hh:g:Harms:Estonian**\n**hh:g:Hasselblatt:Estnischen**\n**hh:g:Oinas:Estonian**\n**hh:g:Oinas:Estonian:1966**\n**hh:g:Tauli:Estonian**\n**hh:g:Wiedemann:Ehstnischen**\n**hh:g:Wiedemann:Estnischen**\n**hh:hvw:Latham:Comparative**\n**hh:s:Argus:Estonian**\n**hh:s:Gutslaff:Esthonicam**\n**hh:s:Hornung:Esthonica**\n**hh:s:Metslang:Estonian**\n**hh:s:Stahl:Esthnischen**\n**hh:s:Stahl:Esthnischen:1637**\n**hh:sb:Erelt:Estonian**\n**hh:sd:Goseken:Ohstnischen**\n**hh:sd:Gosekenius:Ohstnischen**\n**hh:sd:Hupel:Ehstnische**\n**hh:sd:Hupel:Ehstnische:1818**\n**hh:vtyp:Ariste:Eesti**\n**iso6393:2008-043**"
+  },
+  "altnames": {
+    "wals": "\nEstonian",
+    "ruhlen (1987)": "\nEstonian",
+    "moseley & asher (1994)": "\nEstonian",
+    "lexvo": "\nEstonian [en]\nestonien [fr]",
+    "hhbib_lgcode": "\nRevall\nRevalschen"
+  },
+  "triggers": {
+    "lgcode": "\nestnischen\neesti\nestnisch\nsanasto\nvirolais\nsonaraamat\nanfuhrung\nlestonien\nesthonica\nestonskogo\ntipologiai\nestonia\nuralischen\nestonian\nkodaferschen\ndurations\nsuomalainen\nestonskij\nkielitieteen"
+  },
+  "identifier": {
+    "wals": "est"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kallio:Proto-Finnic**",
+    "subrefs": "\n**hh:hv:Kallio:Proto-Finnic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Estonian, Standard (ekk-ekk) = 1 (National). Statutory national language (1992, Constitution, Article 52(1))."
+  }
+}

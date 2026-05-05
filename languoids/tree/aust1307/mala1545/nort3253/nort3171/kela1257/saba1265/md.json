@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Sa'ban",
+    "hid": "snv",
+    "level": "language",
+    "iso639-3": "snv",
+    "latitude": "3.58723",
+    "longitude": "115.664",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\n[Sa'ban](https://wals.info/languoid/lect/wals_code_sab)\nhttps://en.wikipedia.org/wiki/Sa%CA%BCban_language\nhttps://phoible.org/languages/saba1265\nhttps://www.wikidata.org/entity/Q3474891"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:01:1**\n**cldf:blust:71**\n**cldf:clayre:73**\n**cldf:thurgood:ed:99:4**\n**hh:e:Murang:Sabans**\n**hh:hld:Clayre:Eastern-Malaysia**\n**hh:hld:Clayre:Focus-Borneo**\n**hh:hv:Blust:NBorneo**\n**hh:hv:Sellato:Kenyah-Putuk**\n**hh:hvw:Blust:Saban**\n**hh:typ:Clayre:Saban**\n**hh:w:Clayre:Murut**\n**hh:w:Clayre:Sabans**"
+  },
+  "altnames": {
+    "wals": "\nSa'ban",
+    "ruhlen (1987)": "\nSa'ban",
+    "moseley & asher (1994)": "\nSa'ban",
+    "multitree": "\nMalaysia, Indonesia\nSa'ban",
+    "lexvo": "\nSa'ban [en]",
+    "hhbib_lgcode": "\nLong Banga' (Sa'ban)\nSaben"
+  },
+  "triggers": {
+    "lgcode": "\nsabans\nsaban"
+  },
+  "identifier": {
+    "wals": "sab",
+    "multitree": "snv"
+  },
+  "classification": {
+    "sub": "**hh:g:Mortensen:Kemaloh**:221-257",
+    "subrefs": "\n**hh:g:Mortensen:Kemaloh**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sa’ban (snv-snv) = 6b (Threatened)."
+  }
+}

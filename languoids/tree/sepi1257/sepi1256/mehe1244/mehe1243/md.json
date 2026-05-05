@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mehek",
+    "hid": "nux",
+    "level": "language",
+    "iso639-3": "nux",
+    "latitude": "-3.70927",
+    "longitude": "142.498",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mehek](https://endangeredlanguages.com/lang/10597)\n[Mehek](https://grambank.clld.org/languages/mehe1243)\n[Mehek](https://wals.info/languoid/lect/wals_code_mhk)\nhttps://en.wikipedia.org/wiki/Mehek_language\nhttps://www.wikidata.org/entity/Q6809452"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:g:Hatfield:Mehek**\n**hh:hld:Lean:Sandaun**\n**hh:hsoc:Bigenhagen:MehekSiliput**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**\n**hh:hvw:Laycock:Lumi**\n**hh:w:Laycock:C10**\n**hh:w:Paulonetal:Meheek**"
+  },
+  "altnames": {
+    "wals": "\nMehek",
+    "ruhlen (1987)": "\nMehek",
+    "moseley & asher (1994)": "\nMehek",
+    "multitree": "\nDriafleisuma\nIndinogosima\nMe'ek\nMehek\nNuku",
+    "lexvo": "\nMehek [en]",
+    "elcat": "\nDriafleisuma\nIndinogosima\nMehek\nMe’ek\nNuku"
+  },
+  "triggers": {
+    "lgcode": "\nsiliput\nmeheek"
+  },
+  "identifier": {
+    "wals": "mhk",
+    "multitree": "nux",
+    "endangeredlanguages": "10597"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:Hutchinson:Heyoetc**:128, 130 **hh:hvw:Laycock:Lumi**:48",
+    "subrefs": "\n**hh:hsoc:Hutchinson:Heyoetc**\n**hh:hvw:Laycock:Lumi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mehek (10597-nux) = Threatened (40 percent certain, based on the evidence available) [Bugenhagen 1981](cldf:bugenhagen:81)"
+  }
+}

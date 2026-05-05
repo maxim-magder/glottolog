@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Jamaican Creole English",
+    "hid": "jam",
+    "level": "language",
+    "iso639-3": "jam",
+    "latitude": "18.13",
+    "longitude": "-77.2612",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "JM",
+      "PA"
+    ],
+    "links": "\n[Jamaican](https://apics-online.info/contributions/8)\n[Jamaican Creole](https://wals.info/languoid/lect/wals_code_jcr)\n[Jamaican Creole English](https://grambank.clld.org/languages/jama1262)\nhttps://en.wikipedia.org/wiki/Jamaican_Patois\nhttps://phoible.org/languages/jama1262\nhttps://www.wikidata.org/entity/Q35939"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bailey:66**\n**cldf:cassidy:61**\n**cldf:cassidy:page:etal:67**\n**cldf:devonish:h:etal:07**\n**cldf:gooden:03:2**\n**cldf:hinrichs:06**\n**hh:e:Bilby:Maroon:1979**\n**hh:e:Bilby:Maroons**\n**hh:g:Bailey:Jamaican**\n**hh:g:Bailey:Jamaican:1968**\n**hh:phon:Akers:Jamaican**\n**hh:phonsoc:Alison:Jamaica**\n**hh:s:Cohen:Criollo-Panama**\n**hh:s:Durrleman-Tame:Jamaican-Creole**\n**hh:s:Farquharson:Jamaican**\n**hh:s:Kuhnel:Jamaika**\n**hh:s:Patrick:Jamaican-Creole**\n**hh:s:Sebba:British-Creole**\n**hh:ssoc:Patrick:Urban-Jamaican-Creole**\n**hh:ssoc:Patrick:Urban-Jamaican-Creole:1992**\n**hh:sv:Lalla-DCosta:Jamaican-Creole**\n**hh:typ:Patrick:Jamaican-Patwa**\n**hh:typsoc:Aceto:Panamanian-English-Creole**\n**hh:typsoc:Howell:Panamanian-English-Creole**\n**hh:typsoc:Thomas:Panamanian-Creole**\n**hh:v:Cassidy:Jamaican**\n**hh:v:Farquharson:African-Lexis-Jamaican**\n**hh:v:Smith:Krio-Maroon**\n**hh:vtyp:Arsenec:Jamaique-Martinique**\n**ldh:item_401261**\n**ldh:item_408158**\n**mpieva:1998SICOLPro**\n**mpieva:Bailey1966Jamaican**\n**mpieva:Gooden2003Thephono**\n**mpieva:Gorlach1986Focusont**\n**mpieva:Meade2001Acquisit**\n**mpieva:Muhleisen2002Creoledi**\n**mpieva:Pollard1994Dreadtal**\n**mpieva:Stewart2006Quantifi**\n**mpieva:Wassink1999Asocioph**\n**mpieva:Winford1993Predicat**\n**mpieva:Winkler1998Limonese**\n**sil16:48767**"
+  },
+  "altnames": {
+    "wals": "\nJamaican Creole",
+    "wals other": "\nCreole (Jamaican)",
+    "moseley & asher (1994)": "\nWestern Caribbian Creole",
+    "multitree": "\nBongo Talk\nJamaican\nJamaican Creole\nJamaican Creole English\nPatois\nPatwa\nQuashie Talk\nSouthwestern Caribbean Creole English",
+    "lexvo": "\nCreolo giamaicano [it]\nCréole jamaïcain [fr]\nJamaicaans Patois [nl]\nJamaicai angol nyelv [hu]\nJamaican Creole English [en]\nJamaican Patois [en]\nJamaican [oc]\nJamaikanisch-Kreolische Sprache [de]\nJamajský patois [cs]\nJęzyk jamajski [pl]\nPatois jamaiquino [es]\nPatwa [sv]\nSiamaiceg [cy]\nЯмайский креольский язык [ru]\nジャマイカ・クレオール語 [ja]\n파트와어 [ko]",
+    "hhbib_lgcode": "\nBritish Creole\nCreole English Jamaican\nCréoles de la Jamaïque\nJamaican\nJamaican Creole\nMaroons\nPanamanian Creole English\nVariant of Jamaican Creole\nWestern Maroon Creole"
+  },
+  "triggers": {
+    "lgcode": "\nkingston\nlimonese\nsicol\nexile\nrastafari\nmesolect\npanamanian\nNOT structure AND jamaican\nobjectives"
+  },
+  "identifier": {
+    "wals": "jcr",
+    "multitree": "jam"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jamaican English Creole (jam-jam) = 5* (Developing). De facto language of national identity."
+  }
+}

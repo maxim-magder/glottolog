@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Gola",
+    "hid": "gol",
+    "level": "language",
+    "iso639-3": "gol",
+    "latitude": "7.06193",
+    "longitude": "-10.8138",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LR",
+      "SL"
+    ],
+    "links": "\n[Gola](https://grambank.clld.org/languages/gola1255)\n[Gola](https://lexibank.clld.org/languages/polyglottaafricana-Gola)\n[Gola](https://wals.info/languoid/lect/wals_code_gol)\nhttps://en.wikipedia.org/wiki/Gola_language\nhttps://www.wikidata.org/entity/Q35482"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dazevedo:62**\n**cldf:westermann:21:1**\n**eballiso2009:11152**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:12144**\n**eballiso2009:44808**\n**eballiso2009:44810**\n**eballiso2009:48860**\n**eballiso2009:5566**\n**eballiso2009:7398**\n**hh:g:Koroma:Gola**\n**hh:h:Hair:Lower-Guinea:I**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hew:Johnston:Liberia**\n**hh:hv:Dalby:Mel-Polyglotta:2**\n**hh:hw:Clarke:Africa**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Thomas:Sierra-Leone**\n**hh:s:Sindlinger:Gola**\n**hh:std:Westermann:Gola**\n**hh:typ:Fachner:Gola**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "wals": "\nGola",
+    "ruhlen (1987)": "\nGola",
+    "moseley & asher (1994)": "\nGola",
+    "multitree": "\nGola\nGula",
+    "lexvo": "\nGola [en]",
+    "hhbib_lgcode": "\nAngola\nGora\nGura/Gola"
+  },
+  "triggers": {
+    "lgcode": "\ngolasprache\ngola"
+  },
+  "identifier": {
+    "wals": "gol",
+    "multitree": "gol"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gola (gol-gol) = 5* (Developing)."
+  }
+}

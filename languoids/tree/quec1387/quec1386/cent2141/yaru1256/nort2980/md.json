@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "North Junín Quechua",
+    "hid": "qvn",
+    "level": "language",
+    "iso639-3": "qvn",
+    "latitude": "-11.2132",
+    "longitude": "-75.8128",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[North Junín Quechua](https://grambank.clld.org/languages/nort2980)\n[Quechua (Tarma)](https://wals.info/languoid/lect/wals_code_qta)\n[Yaru Quechua](https://endangeredlanguages.com/lang/5315)\nhttps://en.wikipedia.org/wiki/North_Jun%C3%ADn_Quechua\nhttps://phoible.org/languages/nort2980\nhttps://www.wikidata.org/entity/Q12953844"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:88**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:simons:etal:ed:17**\n**hh:g:Adelaar:Tarma**\n**hh:g:BlackBolliTicsi:QuechuaPasco**\n**hh:hv:Adelaar:Andes**\n**hh:hv:Blum:Quechua**\n**hh:hv:Grimes:Quechua**\n**hh:s:Fuqua:North-Junin**\n**hh:typ:Creider:Tarma**\n**sil16:16842**\n**sil16:21800**\n**sil16:22113**\n**sil16:23453**\n**sil16:30972**\n**sil16:34381**\n**sil16:37004**\n**sil16:37005**\n**sil16:37598**\n**sil16:38443**\n**sil16:38536**\n**sil16:42558**\n**sil16:46192**"
+  },
+  "altnames": {
+    "glottolog": "\nNorth Junin Quechua",
+    "wals": "\nQuechua (Tarma)",
+    "ruhlen (1987)": "\nQuechua (Junín-Lima)",
+    "multitree": "\n\"quechua de Cajatambo, de Paso y de Junín septentrional.\"\nChinchaysuyo\nJunin\nJunín\nJunín Quechua\nJunín-Lima Kechua\nNorth Junín Quechua\nNorthern Quechua\nQuechua (Junin)\nQuechua (Tarma)\nQuechua, North Junín\nQuehcua de Cajatambo Pasco et du Junín nord\nTarma\nTarma-Junín Quechua\nYaru",
+    "lexvo": "\nNorth Junín Quechua [en]",
+    "hhbib_lgcode": "\nQuechua-North Jun?n\nQuechua-North Junín\nTarma\nTarma QI\nUlc Ulcumayo-Junin QI\nYaru",
+    "elcat": "\nNorthern-Junín-Pasco Quechua\nYaru Quechua"
+  },
+  "triggers": {
+    "lgcode": "\nwayinpita\ntarma\nshumag\npasco\nsureste\nuysha\ncuintucunata\njalqakunachru\nquechua AND junin\nwatushicuna"
+  },
+  "identifier": {
+    "wals": "qta",
+    "multitree": "qvn",
+    "endangeredlanguages": "5315"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grimes:Quechua**:274-279 **hh:hv:Adelaar:Andes**:183-188 **hh:hv:Landerman:Quechua**:259-260",
+    "subrefs": "\n**hh:hv:Grimes:Quechua**\n**hh:hv:Adelaar:Andes**\n**hh:hv:Landerman:Quechua**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yaru Quechua (5315-qvn) = Vulnerable (40 percent certain, based on the evidence available) [Lewis et al. 2017](cldf:lewis:simons:etal:ed:17)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Awbono",
+    "hid": "awh",
+    "level": "language",
+    "iso639-3": "awh",
+    "latitude": "-5.05875",
+    "longitude": "139.724",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Awbono](https://endangeredlanguages.com/lang/3880)\nhttps://www.wikidata.org/entity/Q3446684\nhttps://en.wikipedia.org/wiki/Awbono_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:10:2**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hvw:Wilbrink:Kopkaka**\n**hh:ld:Mukhamdanah:Awban**"
+  },
+  "altnames": {
+    "multitree": "\nAwbono\nKvolyab",
+    "lexvo": "\nAwbono [en]",
+    "hhbib_lgcode": "\nAwban\nDensar\nKovojab",
+    "elcat": "\nAwbono\nKvolyab"
+  },
+  "triggers": {
+    "lgcode": "\nurajin"
+  },
+  "identifier": {
+    "multitree": "awh",
+    "endangeredlanguages": "3880"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Awbono (3880-awh) = Vulnerable (60 percent certain, based on the evidence available) (The language is certainly being transmitted to children.) [Hammarström 2010](cldf:hammarstroem:10:2)"
+  }
+}

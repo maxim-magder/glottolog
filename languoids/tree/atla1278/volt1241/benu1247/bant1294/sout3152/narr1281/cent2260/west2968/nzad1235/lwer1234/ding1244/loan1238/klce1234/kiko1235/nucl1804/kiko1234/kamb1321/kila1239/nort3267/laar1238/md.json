@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Laari",
+    "hid": "ldi",
+    "level": "language",
+    "iso639-3": "ldi",
+    "latitude": "-4.25",
+    "longitude": "14.9",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "CD",
+      "CG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3217917"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:17784**\n**eballiso2009:21106**\n**eballiso2009:24238**\n**eballiso2009:25552**\n**eballiso2009:25553**\n**eballiso2009:2647**\n**eballiso2009:27642**\n**eballiso2009:28707**\n**eballiso2009:29297**\n**eballiso2009:29302**\n**eballiso2009:33847**\n**eballiso2009:34817**\n**eballiso2009:4128**\n**eballiso2009:41392**\n**eballiso2009:45109**\n**eballiso2009:45110**\n**eballiso2009:45431**\n**eballiso2009:45868**\n**eballiso2009:48202**\n**eballiso2009:6541**\n**eballiso2009:818**\n**eballiso2009:8441**\n**eballiso2009:8445**\n**eballiso2009:8446**\n**eballiso2009:8450**\n**hh:d:Jacquot:Laadi**\n**hh:dial:Bagamboula:Koongo**\n**hh:es:Nsonde:Lari**\n**hh:g:Jacquot:Laadi**\n**hh:g:Jacquot:Laadi:1985**\n**hh:g:Schaub:Lari**\n**hh:hb:Leblanc:Congo**\n**hh:htyp:Blanchon:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mabiala:Kongo**\n**hh:hv:deSchryver:Kikongo**\n**hh:phon:Nkouanda:Kingangala**\n**hh:phon:Unseth:Laari**\n**hh:s:Batantou:Lari**\n**hh:s:Ganga:Lari**\n**hh:s:Jaffre:Lari**\n**hh:s:Koubemba-Seko:Lari**\n**hh:s:Ngoma-Nkanga:Laari**\n**hh:s:Nkouka:Laari**\n**hh:styp:Samba:Kikongo**\n**hh:t:Jacquot:Laadi**\n**hh:typ:Bagamboula:Lari**\n**hh:typ:Nsangu:Suku-Laadi**\n**hh:typ:Renouard:Lari**\n**mpieva:Aksenova2005Grammati**\n**sil16:43930**"
+  },
+  "altnames": {
+    "multitree": "\nKilari\nKongo\nLaadi\nLaari\nLadi\nLari",
+    "lexvo": "\nLaari [en]",
+    "hhbib_lgcode": "\nGaangala\nH111 Kihangala\nH111 Kihangala 1983\nH111_Hangala\nH16f Cilaadi\nH16f_Laadi\nHangala\nHangala H16JH\nKiLadi\nKihangala\nKingaangala\nLaadi\nLaadi 1 H16F\nLaadi 2 Madzia H16F\nLari\nLâri\nSondi 3 Mavunda H16I erroneously mapped to Bandundu province in DRC but the data is Sundi from Congo-Brazzaville and is closest linguistically to Hangala"
+  },
+  "triggers": {
+    "lgcode": "\nkisundi\nlari\nlaari\nbold\nlaadi"
+  },
+  "identifier": {
+    "multitree": "ldi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:177-179, 182-184, 190-191 **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:hv:Bostoen:Ancestor-Kikongo**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Bostoen:Aire-Kongo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Laari (ldi-ldi) = 5 (Developing)."
+  }
+}

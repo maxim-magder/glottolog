@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Seediq",
+    "hid": "trv",
+    "level": "language",
+    "iso639-3": "trv",
+    "latitude": "23.9032",
+    "longitude": "121.358",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Seediq](https://endangeredlanguages.com/lang/515)\n[Seediq](https://grambank.clld.org/languages/taro1264)\n[Seediq](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Seediq)\n[Seediq](https://wals.info/languoid/lect/wals_code_see)\nhttps://en.wikipedia.org/wiki/Seediq_language\nhttps://phoible.org/languages/taro1264\nhttps://www.wikidata.org/entity/Q716686"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aldridge:04**\n**cldf:chang:00:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:np:16:1**\n**cldf:tang:11**\n**hh:d:Pecoraro:Taroko**\n**hh:es:Pecoraro:Taroko**\n**hh:g:Chen:Saideke**\n**hh:g:Holmer:Seediq**\n**hh:g:Li:Tailuge:2018**\n**hh:g:Song:Saideke:2018**\n**hh:g:Tsukida:Seediq**\n**hh:g:Zhang:Saideke**\n**hh:h:NA:Taiwan**\n**hh:hld:Muller:Formosa**\n**hh:ld:Chen:Saideke**\n**hh:ld:Tsukida:Seediq**\n**hh:phon:Yang:Paran**\n**hh:s:Asai:Sedik**\n**hh:s:Asai:Sedik:1934**\n**hh:s:Asai:Sedik:1953**\n**hh:s:Tsukida:Seediq:2005**\n**hh:styp:Kerby:Toda-Sedeq**\n**hh:styp:Oiwa:Truku-Seediq**\n**hh:typ:Aldridge:Seediq**\n**hh:typ:Chang:Seediq-Kavalan**\n**hh:typ:Hsu:Truku**\n**hh:typ:Kuo:Symmetrical-Voice**\n**hh:v:Chretien:Bu-Hwan**\n**hh:vtyp:Chen:Philippine-Voice**\n**hh:vtyp:Ochiai:Sedek-Paran**\n**hh:vw:Ochiai:Bu-Hwan**\n**hh:w:Bullock:Formosa**\n**hh:w:Li:Formosan:2004**\n**iso6393:2021-022**"
+  },
+  "altnames": {
+    "wals": "\nSeediq",
+    "wals other": "\nSedik",
+    "moseley & asher (1994)": "\nSedeq",
+    "multitree": "\nBu-Hwan\nChe-Hwan\nDaiya-Ataiyal\nHogo\nIboho\nParan\nSaediq\nSazek\nSedek\nSedeq\nSediakk\nSedik\nSediq\nSeedek\nSeedeq\nSeedik\nSeediq\nSejiq\nShedekka\nSprache von Formosa\nTaroko\nTaruku\nToda\nToroko\nTruku",
+    "lexvo": "\nLingua Seediq [it]\nSeediq [fr]\nSeediq language [en]\nTaroko [en]\nTruku [no]\n賽德克語 [zh]",
+    "hhbib_lgcode": "\nAtayal-Taroko\nBu-Hwan\nBu-hwan\nHecuo\nParan\nParan Sediiq\nParan Seediq\nSaideke\nSediq (Taroko)\nTailuge\nTaroko\nToda\nToda Sedeq\nTruku\nTruku Seediq",
+    "elcat": "\nBu-Hwan\nChe-Hwan\nDaiya-Ataiyal\nHogo\nIboho\nParan\nSaediq\nSazek\nSedek\nSedeq\nSediakk\nSedik\nSediq\nSeedek\nSeedeq\nSeedik\nSeediq\nSejiq\nShedekka\nTaroko\nTaruku\nTgdaya\nToda\nToroko\nTruku\n太魯閣語\n賽德克語\n都達方言"
+  },
+  "triggers": {
+    "lgcode": "\nbunpou\nsedik\nhwan\nsedekku\ntaroko\nseediq"
+  },
+  "identifier": {
+    "wals": "see",
+    "multitree": "trv",
+    "endangeredlanguages": "515"
+  },
+  "classification": {
+    "sub": "**hh:v:BlustChen:Nuclear-Austronesian** **hh:hv:Blust:Austronesian**",
+    "subrefs": "\n**hh:v:BlustChen:Nuclear-Austronesian**\n**hh:hv:Blust:Austronesian**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Seediq (515-trv) = Critically Endangered (80 percent certain, based on the evidence available) (\"Truku is restricted to the family domain or among seniors who are still competent in Truku use. However, the subjects below age 25 do not speak Truku in any domain; they report zero Truku dominance in their daily life.\" (p.155)) [Tang 2011](cldf:tang:11)"
+  }
+}

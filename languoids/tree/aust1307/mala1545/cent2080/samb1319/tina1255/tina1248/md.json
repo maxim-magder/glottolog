@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tinà Sambal",
+    "hid": "xsb",
+    "level": "language",
+    "iso639-3": "xsb",
+    "latitude": "15.5797",
+    "longitude": "120.095",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Tinà Sambal](https://grambank.clld.org/languages/tina1248)\nhttps://en.wikipedia.org/wiki/Sambal_language\nhttps://www.wikidata.org/entity/Q2592378"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:elgincolin:goschnick:etal:88**\n**hh:d:Elgincolin:Tina-Sambal**\n**hh:hew:Reed:Negritos**\n**hh:hvld:Stone:Sambalic:2006**\n**hh:hvw:Stone:Sambalic**\n**hh:s:Roque:Zambal**\n**hh:typ:GoschnickRamiscal:Tina-Sambal**\n**hh:w:Alegre:Sambali**\n**hh:w:Gonzalez:Sambali**\n**hh:w:delFierro:Iba-Sambali**\n**iso6393:2011-090**\n**sil16:14882**\n**sil16:16401**\n**sil16:16513**\n**sil16:18191**\n**sil16:18192**\n**sil16:18193**\n**sil16:18194**\n**sil16:18195**\n**sil16:19708**\n**sil16:23744**\n**sil16:23969**\n**sil16:29591**\n**sil16:45618**"
+  },
+  "altnames": {
+    "glottolog": "\nTina Sambal",
+    "multitree": "\nSambal, Tinà\nSambali\nTina",
+    "lexvo": "\nTina language [en]\nTinà Sambal [en]\nภาษาตีนา [th]",
+    "hhbib_lgcode": "\nIba Sambali\nSambal\nSambal-Tinà\nSambali\nZambal of Iba"
+  },
+  "triggers": {
+    "lgcode": "\ntamoy\nkasalita\ntina\ntototolon\ntawtola\nsambalic\nzambal\ntina AND sambal\npamagbiyay"
+  },
+  "identifier": {
+    "multitree": "xsb"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Stone:Sambalic**",
+    "subrefs": "\n**hh:hvw:Stone:Sambalic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sambal (xsb-xsb) = 7 (Shifting). De facto language of provincial identity in Zambales province."
+  }
+}

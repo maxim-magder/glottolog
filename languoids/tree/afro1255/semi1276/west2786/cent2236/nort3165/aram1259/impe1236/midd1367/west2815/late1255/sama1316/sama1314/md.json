@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Samaritan Aramaic",
+    "hid": "sam",
+    "level": "dialect",
+    "iso639-3": "sam",
+    "latitude": "32.3107",
+    "longitude": "35.258",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "PS"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Samaritan_Aramaic\nhttps://www.wikidata.org/entity/Q56612",
+    "timespan": "0200-01-01/1100-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**ldh:item_404507**\n**mpieva:Riggs1832Amanualo**\n**mpieva:Riggs1858Amanualo**"
+  },
+  "altnames": {
+    "multitree": "\nIsrael, Palestinian West Bank and Gaza\nSamaritan Aramaic",
+    "lexvo": "\nAramaeg ar Samaritaned [br]\nAraméen samaritain [fr]\nLingua Samaritana [la]\nSamarijanski aramejski jezik [hr]\nSamaritan Aramaic [en]\nSamaritan Aramaic language [en]\nWikang Samaritanong Arameo [tl]\nsamaritain [fr]\nСамаритански арамејски јазик [mk]\nภาษาอราเมอิกซามาริทัน [th]",
+    "hhbib_lgcode": "\nJPA"
+  },
+  "triggers": {
+    "lgcode": "\naramaisch\nsamarityanskij\nwiner\naramit\nmilon\nsamaritanischen\nshel\nsomronim"
+  },
+  "identifier": {
+    "multitree": "sam"
+  },
+  "classification": {
+    "sub": "**hh:hv:HuehnergardRubin:Semitic**",
+    "subrefs": "\n**hh:hv:HuehnergardRubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samaritan Aramaic (sam-sam) = 9 (Second language only)."
+  }
+}

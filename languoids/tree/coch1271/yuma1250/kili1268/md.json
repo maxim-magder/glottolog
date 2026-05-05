@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kiliwa",
+    "hid": "klb",
+    "level": "language",
+    "iso639-3": "klb",
+    "latitude": "30.5471",
+    "longitude": "-115.123",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Kiliwa](https://endangeredlanguages.com/lang/2293)\nhttps://www.wikidata.org/entity/Q3182593\nhttps://en.wikipedia.org/wiki/Kiliwa_language\n[Kiliwa](https://wals.info/languoid/lect/wals_code_klw)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hinton:munro:ed:98:11**\n**cldf:lewis:ed:09**\n**cldf:mixco:77**\n**cldf:mixco:98**\n**cldf:np:nd:264**\n**cldf:redden:ed:75:4**\n**hh:d:Estrada:Kiliwa**\n**hh:d:Mixco:Kiliwa**\n**hh:e:Meigs:Kiliwa**\n**hh:e:Ochoa:Kiliwa**\n**hh:g:Mixco:Kiliwa:1971**\n**hh:h:Ochoa:Baja-California**\n**hh:hew:Robles:Baja-California**\n**hh:hvb:Golla:California**\n**hh:s:Mixco:Kiliwa**\n**hh:s:Mixco:Kiliwa:1996**\n**hh:st:Mixco:Kiliwa**\n**sil16:12614**\n**sil16:12615**"
+  },
+  "altnames": {
+    "wals": "\nKiliwa",
+    "moseley & asher (1994)": "\nKiliwa",
+    "multitree": "\nKiliwa\nKiliwan Subfamily\nKiliwi\nQuiligua",
+    "lexvo": "\nKiliwa [en]",
+    "elcat": "\nKiliwa\nKiliwi\nQuiligua"
+  },
+  "triggers": {
+    "lgcode": "\nkiliwa\nNOT dictionary AND kiliwa"
+  },
+  "identifier": {
+    "wals": "klw",
+    "multitree": "klb;kilw",
+    "endangeredlanguages": "2293"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**:117-118",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kiliwa (2293-klb) = Critically Endangered (20 percent certain, based on the evidence available) [Mixco 2000](cldf:mixco:00)"
+  }
+}

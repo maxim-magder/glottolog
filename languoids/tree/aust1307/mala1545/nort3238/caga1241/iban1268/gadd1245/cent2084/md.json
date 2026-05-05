@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Central Cagayan Agta",
+    "hid": "agt",
+    "level": "language",
+    "iso639-3": "agt",
+    "latitude": "17.9571",
+    "longitude": "121.857",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Agta (Central)](https://wals.info/languoid/lect/wals_code_agc)\n[Central Cagayan Agta](https://endangeredlanguages.com/lang/2830)\n[Central Cagayan Agta](https://grambank.clld.org/languages/cent2084)\nhttps://en.wikipedia.org/wiki/Central_Cagayan_Agta_language\nhttps://www.wikidata.org/entity/Q5017296"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:863**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:goodman:estioko-griffin:etal:85**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:OatesOates:Central-Cagayan**\n**hh:e:Blumentritt:Cagayan**\n**hh:e:Blumentritt:Negritos**\n**hh:h:Lobel:Philippine**\n**hh:htyp:Liao:Formosan-Philippine**\n**hh:hv:Reid:Negrito**\n**hh:hvw:Reid:Philippine-Minor**\n**hh:hw:Vanoverbergh:Luzon**\n**hh:s:Healey:Agta**\n**hh:st:Mayfield:Central-Cagayan-Agta**\n**hh:typ:Mayfield:Central-Cagayan-Agta**\n**hh:w:MayfieldMondihar:Central-Cagayan-Agta**\n**sil16:10021**\n**sil16:11067**\n**sil16:11068**\n**sil16:11602**\n**sil16:11838**\n**sil16:14745**\n**sil16:14746**\n**sil16:14747**\n**sil16:17963**\n**sil16:17964**\n**sil16:17965**\n**sil16:17966**\n**sil16:17967**\n**sil16:17968**\n**sil16:17969**\n**sil16:17970**\n**sil16:17971**\n**sil16:22121**\n**sil16:34213**\n**sil16:45618**"
+  },
+  "altnames": {
+    "wals": "\nAgta (Central)",
+    "wals other": "\nAgta\nCentral Agta\nCentral Cagayan",
+    "ruhlen (1987)": "\nAgta",
+    "moseley & asher (1994)": "\nAgta",
+    "multitree": "\nAgta (Central Cagayan)\nAgta (Central)\nAgta de Cagayan central\nAgta de Cagayán central\nAgta, Central Cagayan",
+    "lexvo": "\nCentral Cagayan Agta [en]",
+    "hhbib_lgcode": "\nAgta\nAgta Central Cagayan\nAgta-Central Cagayan\nCagayan Negrito\nCentral Cagayan Negrito (Agta)\nNegrito des Valle de Cagayán\nNegritos of the Cordillera Central of Cagayan (Luzon)",
+    "elcat": "\nAgta\nAgta (Central Cagayan)\nAgta (Central)\nCentral Cagayan\nCentral Cagayan Agta"
+  },
+  "triggers": {
+    "lgcode": "\nagsitang\ncentral AND cagayan AND agta\ntakwan\nadalan\npaglelehut\nhukal"
+  },
+  "identifier": {
+    "wals": "agc",
+    "multitree": "agt",
+    "endangeredlanguages": "2830"
+  },
+  "classification": {
+    "sub": "**hh:hv:Reid:Northern-Luzon**",
+    "subrefs": "\n**hh:hv:Reid:Northern-Luzon**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Central Cagayan Agta (2830-agt) = Endangered (40 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

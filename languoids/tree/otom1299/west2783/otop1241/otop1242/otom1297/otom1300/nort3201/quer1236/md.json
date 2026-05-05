@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Querétaro Otomi",
+    "hid": "otq",
+    "level": "language",
+    "iso639-3": "otq",
+    "latitude": "20.1396",
+    "longitude": "-100.115",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Otomí (Santiago Mexquititlan)](https://wals.info/languoid/lect/wals_code_osm)\n[Querétaro Otomi](https://grambank.clld.org/languages/quer1236)\nhttps://www.wikidata.org/entity/Q23755688"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hekking:dejesus:89**\n**hh:d:Hekking:Otomi-Mexquititlan**\n**hh:g:Hekking:Otomi-Mexquititlan**\n**hh:gt:Palancar:Hnohno**\n**hh:hbw:Lastra:Otomi**\n**hh:hevw:Lastra:Otomies**\n**hh:s:deAgreda:Otomi**\n**hh:s:deCarceres:Othomi**\n**hh:t:Lastra:Guanajuato**\n**hh:typ:Caballero:Otomi-San-Ildefonso**\n**hh:typ:Hernandez:Otomi-Tultepec**\n**hh:typ:Palancar:Otomangues**\n**hh:typ:Rico:Otomi-Santiago-Mexquititlan**\n**hh:w:Lastra:Otomi**\n**ldh:item_405389**"
+  },
+  "altnames": {
+    "glottolog": "\nQueretaro Otomi",
+    "wals": "\nOtomí (Santiago Mexquititlan)",
+    "wals other": "\nOtomi\nSantiago Mexquititlan",
+    "ruhlen (1987)": "\nOtomí (Northwestern)",
+    "moseley & asher (1994)": "\nOtomi",
+    "multitree": "\nHñohño\nNorthwest\nNorthwestern Otomi\nNorthwestern Otomí\nOtomi\nOtomi, Querétaro\nOtomí\nOtomí de Mezquital\nOtomí de Querétaro\nOtomí de la Sierra\nOtomí del valle de Mezquital\nOtomí nord-occidental\nOtomí noroccidental\nWestern Otomi\nWestern Otomí",
+    "lexvo": "\nQuerétaro Otomi [en]",
+    "hhbib_lgcode": "\nCruz del Palmar\nCruz del Palmar west of Querétaro Otomi\nOtomi\nOtomi-Querétaro\nOtomí de Santiago Mexquititlán\nQuerétaro\nSan Ildefonso Amealco\nSan Luis de la Paz\nclosest to Otomi-Querétaro"
+  },
+  "triggers": {
+    "lgcode": "\nmexquititlan\ncuriosas\ncosas\npalmar\nministracion\nqueretaro\ndificultosa\nhnonho\ntultepec\nsacramentos\nfacilidad\nallende\ncontiene\nalguna\nildefonso"
+  },
+  "identifier": {
+    "wals": "osm",
+    "multitree": "otq"
+  },
+  "classification": {
+    "sub": "**hh:hevw:Lastra:Otomies**",
+    "subrefs": "\n**hh:hevw:Lastra:Otomies**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Northwestern Otomí (930-otq) = Vulnerable; Lower Northwestern Otomí (929-) = Vulnerable"
+  }
+}

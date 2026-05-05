@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kölsch",
+    "hid": "ksh",
+    "level": "language",
+    "iso639-3": "ksh",
+    "latitude": "50.947",
+    "longitude": "6.927",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\n[German (Ripuarian)](https://wals.info/languoid/lect/wals_code_grp)\nhttps://en.wikipedia.org/wiki/Colognian_dialect\nhttps://www.wikidata.org/entity/Q4624"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:BhattHerrwegen:Kolsche**\n**hh:g:McGraw:Kolsch**\n**hh:g:Munch:Ripuarisch-Frankischen**\n**hh:g:Tiling-Herrwegen:Kolsche**\n**hh:hv:Frings:Niederrheins**\n**hh:hv:Schmidt:Rheinisch**\n**hh:phon:Heike:Stadtkolner**\n**hh:phon:Holthausen:Remscheider**\n**hh:phon:Jardon:Aachener**\n**hh:phon:Koch:Werdener**\n**hh:phontyp:Holthaus:Ronsdorfer**\n**hh:s:Bredtmann:Velberter**\n**hh:s:Hasenclever:Wermelskirchen**\n**hh:s:Maurmann:Mulheim**\n**hh:s:Newton:Central-Franconian**\n**hh:s:Steins:Aachener**"
+  },
+  "altnames": {
+    "wals": "\nGerman (Ripuarian)",
+    "ruhlen (1987)": "\nGerman",
+    "moseley & asher (1994)": "\nGerman",
+    "multitree": "\nFrancique ripuaire -limbourgeois\nGerman (Ripuarian)\nKöIsch\nKölsch\nLimburgués-ripuarino",
+    "lexvo": "\nDialek Kölsch [id]\nDialekt koloński [pl]\nIdioma kölsch [es]\nKölsch [da]\nKölsch dialect [en]\nKölsche Sprochn [bar]\nKölsj [li]\nLingua kölsch [it]\nLíngua kölsch [pt]\nケルン語 [ja]",
+    "hhbib_lgcode": "\nAacher\nMükheim is near Duisburg\nN Central Franconian\nRipuarisch"
+  },
+  "triggers": {
+    "lgcode": "\nfrankischen\nruhr\nkolsche\nripuarisch\nmulheim\nkolsch"
+  },
+  "identifier": {
+    "wals": "grp",
+    "multitree": "ksh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:855-859 **hh:s:Newton:Central-Franconian**",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**\n**hh:s:Newton:Central-Franconian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Limburgian-Ripuarian (1020-ksh, lim) = Vulnerable"
+  }
+}

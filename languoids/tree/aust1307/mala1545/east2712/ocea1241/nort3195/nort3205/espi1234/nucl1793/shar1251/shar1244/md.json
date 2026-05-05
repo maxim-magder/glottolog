@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ngen",
+    "hid": "ssv",
+    "level": "language",
+    "iso639-3": "ssv",
+    "latitude": "-15.255284",
+    "longitude": "167.138859",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ngen](https://endangeredlanguages.com/lang/2515)\n[Shark Bay](https://lexibank.clld.org/languages/abvdoceanic-SharkBay)\nhttps://en.wikipedia.org/wiki/Ngen_language\nhttps://www.wikidata.org/entity/Q7489783"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1824**\n**asjp2010:2780**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nLengua de la Bahía del Tiburón\nShark Bay",
+    "lexvo": "\nShark Bay [en]",
+    "hhbib_lgcode": "\nShark Bay\nShark Bay I\nShark Bay II",
+    "elcat": "\nNgen\nShark Bay"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "ssv",
+    "endangeredlanguages": "2515"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ngen (2515-ssv) = Endangered (20 percent certain, based on the evidence available) [Lynch and Crowley 2001](cldf:lynch:crowley:01)"
+  }
+}

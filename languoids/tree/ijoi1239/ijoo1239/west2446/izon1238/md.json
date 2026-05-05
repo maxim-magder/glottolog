@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Izon",
+    "hid": "ijc",
+    "level": "language",
+    "iso639-3": "ijc",
+    "latitude": "5.17986",
+    "longitude": "5.51702",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ijo (Kolokuma)](https://wals.info/languoid/lect/wals_code_ijo)\n[Izon](https://endangeredlanguages.com/lang/7934)\n[Izon](https://lexibank.clld.org/languages/polyglottaafricana-Izon)\nhttps://en.wikipedia.org/wiki/Izon_language\nhttps://phoible.org/languages/izon1238\nhttps://www.wikidata.org/entity/Q35483"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1139**\n**asjp2010:3369**\n**cldf:akpana:04**\n**cldf:akpo:03**\n**cldf:alagoa:68:1**\n**cldf:alagoa:68:2**\n**cldf:banjo:85**\n**cldf:efere:84**\n**cldf:efere:95**\n**cldf:egberipou:williamson:94**\n**cldf:jenewari:73**\n**cldf:jenewari:76**\n**cldf:jenewari:85**\n**cldf:lewis:ed:09**\n**eballiso2009:16831**\n**eballiso2009:22934**\n**eballiso2009:26904**\n**eballiso2009:37251**\n**eballiso2009:37254**\n**eballiso2009:3762**\n**eballiso2009:38371**\n**eballiso2009:41062**\n**eballiso2009:41275**\n**eballiso2009:41738**\n**eballiso2009:45695**\n**eballiso2009:47189**\n**eballiso2009:47311**\n**eballiso2009:5470**\n**eballiso2009:5471**\n**eballiso2009:8534**\n**eballiso2009:8536**\n**hh:d:Abegha:Mein**\n**hh:d:Eferesuoa:Izon**\n**hh:d:WilliamsonTimitimi:Izon**\n**hh:dial:Agbegha:Western-Delta**\n**hh:g:Williamson:Kolokuma**\n**hh:g:Williamson:Kolokuma:1964**\n**hh:hb:Ndimele:Izon-Language**\n**hh:hv:Blench:Ijoid**\n**hh:hw:KroppDakubu:WALDS1:I**\n**hh:phon:Efere:Bumo**\n**hh:phon:Efere:Bumo-Nembe**\n**hh:phon:Efere:Bumo:1994**\n**hh:s:Odisi:Mein**\n**hh:s:Taylor:Ijo**\n**hh:t:Flynn:Izon**\n**hh:t:Paige:Akposee**\n**hh:typ:Eneware:Tungbo**\n**hh:typ:Feboke:Izon**\n**hh:typ:Kekai:Izon**\n**mpieva:Efere1999ThePitch**"
+  },
+  "altnames": {
+    "wals": "\nIjo (Kolokuma)",
+    "wals other": "\nIjo\nIjo (Central Western)\nIjo (North-Central)\nKolokuma\nKolokuma Ijo\nNorth-Central",
+    "ruhlen (1987)": "\nKolokuma",
+    "moseley & asher (1994)": "\nKolokuma",
+    "multitree": "\nCentral-Western Ijo\nEast Kalahari\nIjaw\nIjo\nIjo (Kolokuma)\nIzo\nIzon\nNorth Central Tshu-Khwe\nNorth-Central\nUzo\nỊjọ",
+    "lexvo": "\nIzon [en]",
+    "hhbib_lgcode": "\nBumo\nIjaw (Izon)\nKolokuma\nMein\nTungbo\nỊzọ́n-Kolokuma",
+    "elcat": "\nCentral-Western Ijo\nIjaw\nIjo\nIjo (Kolokuma)\nIzo\nIzon\nUzo\nỊjọ"
+  },
+  "triggers": {
+    "lgcode": "\nbumo\napoi\nidso\nkolokuma\nizon"
+  },
+  "identifier": {
+    "wals": "ijo",
+    "multitree": "ijc;nctk",
+    "endangeredlanguages": "7934"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jenewari:Ijoid**, **hh:hv:Connell:Defaka-Ijo:2012**",
+    "subrefs": "\n**hh:hv:Jenewari:Ijoid**\n**hh:hv:Connell:Defaka-Ijo:2012**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Izon (7934-ijc) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

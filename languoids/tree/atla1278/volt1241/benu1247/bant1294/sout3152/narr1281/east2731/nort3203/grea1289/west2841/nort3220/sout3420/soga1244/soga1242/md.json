@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Soga",
+    "hid": "xog",
+    "level": "language",
+    "iso639-3": "xog",
+    "latitude": "0.40456",
+    "longitude": "33.3942",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "UG"
+    ],
+    "links": "\n[Soga](https://grambank.clld.org/languages/soga1242)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fallers:56**\n**cldf:fallers:60**\n**cldf:roscoe:15**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:13802**\n**eballiso2009:13803**\n**eballiso2009:19586**\n**eballiso2009:19587**\n**eballiso2009:19876**\n**eballiso2009:20315**\n**eballiso2009:20316**\n**eballiso2009:24909**\n**eballiso2009:252**\n**eballiso2009:28707**\n**eballiso2009:30492**\n**eballiso2009:33914**\n**eballiso2009:3532**\n**eballiso2009:35488**\n**eballiso2009:40767**\n**eballiso2009:40768**\n**eballiso2009:52363**\n**eballiso2009:52644**\n**eballiso2009:54024**\n**eballiso2009:59093**\n**eballiso2009:59767**\n**eballiso2009:7489**\n**hh:d:Gonza:Lusoga**\n**hh:d:Gulere:Lusoga**\n**hh:e:Cohen:Busoga**\n**hh:e:Condon:Basoga**\n**hh:e:Fallers:Lacustrine**\n**hh:e:Gray:Basoga**\n**hh:e:Nayenga:Basoga**\n**hh:g:Nabirye:Lusoga**\n**hh:h:Ladefogedetal:Uganda**\n**hh:he:Cunningham:Uganda**\n**hh:he:Roscoe:Northern-Bantu**\n**hh:hew:Roscoe:Bagesu**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Hinnebuschetal:EBantu**\n**hh:hv:Mould:Greater-Luyia**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Mould:NVictorian-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hw:Johnston:Uganda:2**\n**hh:phon:vanderWal:Lusoga**\n**hh:s:Korse:Lusoga**\n**hh:ssoc:Matovu:Lusoga**\n**hh:vsoc:Basema:Lusoga-English**\n**hh:w:MacDonald:Juba-Expedition**"
+  },
+  "altnames": {
+    "multitree": "\nLusoga\nOlusoga\nSoga",
+    "lexvo": "\nJęzyk soga [pl]\nLíngua lusoga [pt]\nSoga [en]\nSogaeg [br]\nSogum [nov]\nsoga language [en]",
+    "hhbib_lgcode": "\nBasoga\nBusoga\nJE16_Lusoga\nLuSoga\nLuganda/Lusese/Lusoga\nLusoga\nSoga J16\nUsoga"
+  },
+  "triggers": {
+    "lgcode": "\nmackie\nluiya\nbagesu\nwomunafus\nlusoga\nbusoga\nbasoga\nsoga\nbureaucracy"
+  },
+  "identifier": {
+    "multitree": "xog"
+  },
+  "classification": {
+    "sub": "**hh:ew:Stephens:East-Central-Uganda**:41-51",
+    "subrefs": "\n**hh:ew:Stephens:East-Central-Uganda**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Soga (xog-xog) = 4 (Educational). De facto language of provincial identity in Iganga, 4 other districts."
+  }
+}

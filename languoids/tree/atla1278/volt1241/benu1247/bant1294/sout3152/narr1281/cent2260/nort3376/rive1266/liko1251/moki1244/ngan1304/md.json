@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ngando (Central African Republic)",
+    "hid": "ngd",
+    "level": "language",
+    "iso639-3": "ngd",
+    "latitude": "3.71666",
+    "longitude": "17.6499",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35910\nhttps://en.wikipedia.org/wiki/Ngando_language_(Central_African_Republic)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:16219**\n**eballiso2009:40801**\n**eballiso2009:57562**\n**hh:e:Hewlett:Aka-Ngandu**\n**hh:e:Hewlett:Aka-Ngandu-Narratives**\n**hh:h:ALAC:CAR**\n**hh:hsoc:GuillaumeDelobeau:Mongoumba**\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:BouquiauxThomas:C10**\n**hh:w:Periquet:AEF**"
+  },
+  "altnames": {
+    "multitree": "\nBagandou\nBangandou\nBodzanga\nDingando\nNgando\nNgando-Kota",
+    "lexvo": "\nNgando (Central African Republic) [en]\nNgando [en]",
+    "hhbib_lgcode": "\nBongando\nMouna-Bagandou\nNgando\nNgando C10\nNgando C19\nNgandu near Bokoka in CAR"
+  },
+  "triggers": {
+    "lgcode": "\nbagandou\nmbati"
+  },
+  "identifier": {
+    "multitree": "ngd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:204-205 **hh:hvld:BouquiauxThomas:C10**",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:BouquiauxThomas:C10**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngando (ngd-ngd) = 6a* (Vigorous)."
+  }
+}

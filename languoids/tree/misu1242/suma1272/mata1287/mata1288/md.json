@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Matagalpa",
+    "hid": "mtn",
+    "level": "language",
+    "iso639-3": "mtn",
+    "latitude": "13.0333",
+    "longitude": "-86.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "NI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3490756\nhttps://en.wikipedia.org/wiki/Matagalpa_language",
+    "timespan": "1997-01-01/1997-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:5032**\n**fabreall2009ann:Misumalpa_jinotega0**\n**fabreall2009ann:Misumalpa_jinotega1**\n**fabreall2009ann:Misumalpa_jinotega2**\n**fabreall2009ann:Misumalpa_jinotega3**\n**fabreall2009ann:Misumalpa_jinotega4**\n**fabreall2009ann:Misumalpa_jinotega5**\n**fabreall2009ann:Misumalpa_matagalpa0**\n**fabreall2009ann:Misumalpa_matagalpa1**\n**fabreall2009ann:Misumalpa_matagalpa2**\n**fabreall2009ann:Misumalpa_matagalpa3**\n**fabreall2009ann:Misumalpa_matagalpa4**\n**fabreall2009ann:Misumalpa_matagalpa5**\n**fabreall2009ann:Misumalpa_matagalpa6**\n**fabreall2009ann:Misumalpa_matagalpa7**\n**fabreall2009ann:Misumalpa_matagalpa8**\n**hh:hvphon:Constenla:Misumalpas**\n**hh:hw:Lehmann:Zentral-Amerika:II**"
+  },
+  "altnames": {
+    "multitree": "\nMatagalpa\nMatagalpa language area\nPantasma\nPantasmas",
+    "lexvo": "\nIdioma matagalpa [es]\nMatagalpa [cs]\nMatagalpa language [en]"
+  },
+  "triggers": {
+    "lgcode": "\nmatagalpan\nmatagalpa"
+  },
+  "identifier": {
+    "multitree": "mtn;mtnl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pineda:Misumalpan**",
+    "subrefs": "\n**hh:hv:Pineda:Misumalpan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Matagalpa (1895-mtn) = Extinct"
+  }
+}

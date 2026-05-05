@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Fyam",
+    "hid": "pym",
+    "level": "language",
+    "iso639-3": "pym",
+    "latitude": "9.59006",
+    "longitude": "9.22293",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Fyem](https://endangeredlanguages.com/lang/5303)\n[Fyem](https://wals.info/languoid/lect/wals_code_fye)\nhttps://en.wikipedia.org/wiki/Pyem_language\nhttps://www.wikidata.org/entity/Q3914025"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:36958**\n**hh:g:Nettle:Fyem**\n**hh:h:Temple:NNigeria**\n**hh:he:Ames:Plateau**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:w:Armstrong:West-African**\n**hh:w:Blench:Fyem**\n**hh:w:Gowers:Bauchi**\n**hh:w:Nettle:Fyem**"
+  },
+  "altnames": {
+    "wals": "\nFyem",
+    "ruhlen (1987)": "\nFyam",
+    "moseley & asher (1994)": "\nFyam",
+    "multitree": "\nFem\nFyam\nFyem\nGenawa\nGyem\nGyema\nPaiem\nPem\nPyem",
+    "lexvo": "\nFyam [en]",
+    "hhbib_lgcode": "\nPyem\nPyemawa",
+    "elcat": "\nFem\nFyam\nFyem\nGenawa\nGyem\nGyema\nPaiem\nPem\nPyem"
+  },
+  "triggers": {
+    "lgcode": "\nfyem"
+  },
+  "identifier": {
+    "wals": "fye",
+    "multitree": "pym",
+    "endangeredlanguages": "5303"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2009**",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2009**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Fyem (5303-pym) = Endangered (100 percent certain, based on the evidence available) (Over the last sixty years or so, the Fyem language has lost ground dramatically to Hausa as the vernacular in the Fyem villages. This language shift has produced gradients in both the use and the knowledge of Fyem along the dimension of age, space, and social position... in Chanso, older people switch freely between Hausa and Fyem, whilst children and adolescents use Hausa almost exclusively. In fact, in this village, there is little evidence that children are acquiring full competence in the language... The prospects for the language, then, might seem rather bleak. However, Richard Bruce reports that there has been an increase in Fyem use since the 1970s. The motivation behind this would seem to be an assertion of authenticity by Fyem people, who now find themselves sharing the area with more and more outsiders.) [Nettle 1998](cldf:nettle:98)"
+  }
+}

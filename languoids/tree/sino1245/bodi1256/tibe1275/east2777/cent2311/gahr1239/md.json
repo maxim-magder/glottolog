@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bunan",
+    "hid": "bfu",
+    "level": "language",
+    "iso639-3": "bfu",
+    "latitude": "32.2168",
+    "longitude": "77.9596",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Bunan](https://grambank.clld.org/languages/gahr1239)\n[Bunan](https://wals.info/languoid/lect/wals_code_ghr)\n[Gahri](https://endangeredlanguages.com/lang/1612)\n[TibetoKinauri_Bunan](https://lexibank.clld.org/languages/sagartst-Bunan)\nhttps://en.wikipedia.org/wiki/Bunan_language\nhttps://www.wikidata.org/entity/Q5516952"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:sharma:89:3**\n**hh:g:Widmer:Bunan**\n**hh:g:Widmer:Bunan:2017**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**\n**hh:hv:Sharma:Bunan**\n**hh:hv:Widmer:Western-Himalayas**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Widmer:West-Himalayish**\n**hh:hvwsoc:Chamberlain:Lahul**\n**hh:s:Sharma:Gahri**\n**hh:typ:Francke:Bunan-Manchad-Tinan**"
+  },
+  "altnames": {
+    "wals": "\nGahri",
+    "wals other": "\nBunan",
+    "ruhlen (1987)": "\nLahuli",
+    "moseley & asher (1994)": "\nBunan",
+    "multitree": "\nBoonan\nBunan\nBunán\nErankad\nGahri\nGari\nGhara\nKeylong Boli\nLahul\nLahuli of Bunan\nPoonan\nPunan",
+    "lexvo": "\nGahri [en]",
+    "hhbib_lgcode": "\nGahri\nGahri-Gawzang\nGahri-Keylong\nGahri-Stingri",
+    "elcat": "\nBoonan\nBunan\nBunán\nErankad\nGahri\nGari\nGhara\nKeylong Boli\nLahul\nLahuli of Bunan\nPoonan\nPunan"
+  },
+  "triggers": {
+    "lgcode": "\nbunan"
+  },
+  "identifier": {
+    "wals": "ghr",
+    "multitree": "bfu",
+    "endangeredlanguages": "1612"
+  },
+  "classification": {
+    "subrefs": "\n**hh:hv:Widmer:Western-Himalayas:2022**\n**hh:hvw:Widmer:West-Himalayish**",
+    "sub": "**hh:hvw:Widmer:West-Himalayish** **hh:hv:Widmer:Western-Himalayas:2022**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gahri (1612-bfu) = Threatened (100 percent certain, based on the evidence available) (\"The Bunan speaking community in Lahaul is still co-hesive and most parents still raise their children in the Gahr Valley, where they grow up speaking Bunan.\" (p.22)) [Widmer 2014](cldf:widmer:14)"
+  }
+}

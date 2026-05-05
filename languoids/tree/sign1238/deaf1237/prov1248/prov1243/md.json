@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Providencia Sign Language",
+    "hid": "prz",
+    "level": "language",
+    "iso639-3": "prz",
+    "latitude": "13.348416",
+    "longitude": "-81.373888",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\n[Providencia Sign Language](https://endangeredlanguages.com/lang/6999)\nhttps://www.wikidata.org/entity/Q3322084\nhttps://en.wikipedia.org/wiki/Providence_Island_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:woodward:12**\n**hh:h:Braithwaite:Providence-Island-Sign**\n**hh:hld:Nyst:Shared-Sign**\n**hh:ld:Woodward:Providence-Island-Sign-Pronouns**\n**hh:soc:Cortes:Providencia**\n**hh:soc:Hooker:Providencia**\n**hh:soc:Omardeen:Providence-Island**\n**hh:soc:Washabaugh:Providence-Island-Sign**\n**hh:typ:Omardeen:Providence-Island-Person**\n**hh:typ:Omardeen:Providencia-Sign**\n**hh:typ:Washabaugh:Providence-Island-Sign**\n**hh:typsoc:Washabaugh:Providence-Island-Sign**"
+  },
+  "altnames": {
+    "multitree": "\nProvidencia Sign Language",
+    "lexvo": "\nLengua de señas de Providencia [es]\nLíngua de Sinais da Providência [pt]\nProvidence Island Sign Language [en]\nProvidencia Sign Language [en]\nProvidencia-tegnspråk [no]",
+    "hhbib_lgcode": "\nProvidence Island (Colombia)\nProvindence Island Sign Language",
+    "elcat": "\nProvidence Island Sign Language\nProvidencia Sign Language"
+  },
+  "triggers": {
+    "lgcode": "\nhearing\nsigners"
+  },
+  "identifier": {
+    "multitree": "prz",
+    "endangeredlanguages": "6999"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Providencia Sign Language (6999-prz) = Threatened (20 percent certain, based on the evidence available) [Woodward 2012](cldf:woodward:12)"
+  },
+  "classification": {
+    "sub": "**hh:soc:Washabaugh:Deaf-Grand-Cayman**, **hh:soc:Washabaugh:Providence-Island-Sign**",
+    "subrefs": "\n**hh:soc:Washabaugh:Providence-Island-Sign**\n**hh:soc:Washabaugh:Deaf-Grand-Cayman**"
+  }
+}

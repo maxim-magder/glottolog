@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ouargli",
+    "hid": "oua",
+    "level": "language",
+    "iso639-3": "oua",
+    "latitude": "31.9454",
+    "longitude": "5.28444",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "DZ"
+    ],
+    "links": "\n[Ouargli](https://endangeredlanguages.com/lang/285)\nhttps://www.wikidata.org/entity/Q56586\nhttps://en.wikipedia.org/wiki/Ouargli_language\n[Berber (Wargla)](https://wals.info/languoid/lect/wals_code_bou)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brenzinger:07:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:07:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**eballiso2009:10810**\n**eballiso2009:11265**\n**eballiso2009:12064**\n**eballiso2009:12065**\n**eballiso2009:12127**\n**eballiso2009:12747**\n**eballiso2009:13285**\n**eballiso2009:13286**\n**eballiso2009:13340**\n**eballiso2009:13341**\n**eballiso2009:13507**\n**eballiso2009:13536**\n**eballiso2009:15492**\n**eballiso2009:15495**\n**eballiso2009:15497**\n**eballiso2009:15536**\n**eballiso2009:15622**\n**eballiso2009:16473**\n**eballiso2009:16685**\n**eballiso2009:16702**\n**eballiso2009:17591**\n**eballiso2009:17592**\n**eballiso2009:17594**\n**eballiso2009:2151**\n**eballiso2009:22074**\n**eballiso2009:23852**\n**eballiso2009:23853**\n**eballiso2009:24513**\n**eballiso2009:25811**\n**eballiso2009:2681**\n**eballiso2009:2682**\n**eballiso2009:27609**\n**eballiso2009:29538**\n**eballiso2009:31416**\n**eballiso2009:37438**\n**eballiso2009:37806**\n**eballiso2009:3919**\n**eballiso2009:40350**\n**eballiso2009:41290**\n**eballiso2009:46579**\n**eballiso2009:48056**\n**eballiso2009:5254**\n**eballiso2009:52963**\n**eballiso2009:56801**\n**eballiso2009:5779**\n**eballiso2009:59166**\n**eballiso2009:7359**\n**eballiso2009:7819**\n**eballiso2009:9354**\n**hh:d:Delheure:Ouargli**\n**hh:e:Delheure:Ouargla**\n**hh:gt:Biarnay:Ouargla**\n**hh:s:Delheure:Teggargrent**\n**hh:st:Basset:Mzab**"
+  },
+  "altnames": {
+    "wals": "\nBerber (Wargla)",
+    "wals other": "\nBerber (Ouargla)\nWargla",
+    "ruhlen (1987)": "\nWargla",
+    "moseley & asher (1994)": "\nWargla",
+    "multitree": "\nBerber (Wargla)\nOuargla\nOuargli\nTagargrent\nWargla",
+    "lexvo": "\nTagargrent [en]",
+    "hhbib_lgcode": "\nOuargla\nTagargrent",
+    "elcat": "\nOuargla\nOuargli\nTagargrent\nTeggargrent\nWargla"
+  },
+  "triggers": {
+    "lgcode": "\nzuara\ntfrancist\nharakta\ntunise\ntuareg\niwalen\nchaouia\nagerraw\nghadamsi\nchaoui\nteggargrent\ntidikelt\nmzabite\nmenacer\nschaui\ntamazratt\ngourara\nmizabis\nsellem\naures\nmzabites\nzenatia\nmzab\nouargla\nouargli\ntarumit"
+  },
+  "identifier": {
+    "wals": "bou",
+    "multitree": "oua",
+    "endangeredlanguages": "285"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Arabic-Berber**:21-24 **hh:hv:Kossmann:Proto-Berbere**:31-32 **hh:hv:Kossmann:Berber:2020**:283-284",
+    "subrefs": "\n**hh:hv:Kossmann:Proto-Berbere**\n**hh:hv:Kossmann:Arabic-Berber**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ouargli (285-oua) = Threatened (20 percent certain, based on the evidence available) [Brenzinger 2007](cldf:brenzinger:07:1)"
+  }
+}

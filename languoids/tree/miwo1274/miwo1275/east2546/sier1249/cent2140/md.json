@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Central Sierra Miwok",
+    "hid": "csm",
+    "level": "language",
+    "iso639-3": "csm",
+    "latitude": "38.0812",
+    "longitude": "-120.257",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Central Sierra Miwok](https://grambank.clld.org/languages/cent2140)\n[Miwok (Central Sierra)](https://wals.info/languoid/lect/wals_code_mcs)\n[Sierra Miwok](https://endangeredlanguages.com/lang/4056)\nhttps://en.wikipedia.org/wiki/Central_Sierra_Miwok\nhttps://www.wikidata.org/entity/Q2944443"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aginsky:43**\n**cldf:barrett:gifford:33**\n**cldf:baumhoff:63**\n**cldf:bullock:90**\n**cldf:cook:55**\n**cldf:cook:heizer:65**\n**cldf:gifford:16**\n**cldf:gifford:26:1**\n**cldf:gifford:26:3**\n**cldf:gifford:26:4**\n**cldf:gifford:44**\n**cldf:gifford:55**\n**hh:dt:FreelandBroadbent:Central-Sierra-Miwok**\n**hh:e:Levy:EMiwok**\n**hh:g:Freeland:Central-Sierra-Miwok**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:w:Ford:Eastern-Miwok**\n**hh:w:Johnson:California**\n**mpieva:Davis2002Caseandp**"
+  },
+  "altnames": {
+    "wals": "\nMiwok (Central Sierra)",
+    "wals other": "\nC Sierra Miwok\nCentral Sierra Miwok",
+    "ruhlen (1987)": "\nEastern Division",
+    "moseley & asher (1994)": "\nMiwok (Central Sierra)",
+    "multitree": "\nCentral Sierra Miwok\nMiwok (Central Sierra)\nMiwok de la Sierra centrale\nMiwok, Central Sierra\nMiwokano serrano central\nTuolumne",
+    "lexvo": "\nCentral Sierra Miwok [en]",
+    "hhbib_lgcode": "\n\"Tuolumne\" (Sierra Miwok)\nCentral Sierra\nMiwok-Central Sierra\nTuolumne",
+    "elcat": "\nCentral Sierra Miwok\nCentral Sierra Miwok: Tuolumne\nMe-Wuk\nMeewoc\nMewoc\nMiwoc\nMokélumne\nMoquelumnan\nNorthern Sierra Miwok\nNorthern Sierra Miwok: Seroushamne\nSan Raphael\nSawos\nSierra Miwok\nSouthern Sierra Miwok: Southern Sierra Miwok\nTalatui\nTalutui\nYosemite"
+  },
+  "triggers": {
+    "lgcode": "\nwith AND miwok"
+  },
+  "identifier": {
+    "wals": "mcs",
+    "multitree": "csm",
+    "endangeredlanguages": "4056"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Callaghan:Utian**:8-9",
+    "subrefs": "\n**hh:hvw:Callaghan:Utian**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sierra Miwok (4056) = severely endangered"
+  }
+}

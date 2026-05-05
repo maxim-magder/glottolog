@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Udihe",
+    "hid": "ude",
+    "level": "language",
+    "iso639-3": "ude",
+    "latitude": "46.63086",
+    "longitude": "135.67762",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Udege](https://endangeredlanguages.com/lang/3021)\n[Udihe](https://grambank.clld.org/languages/udih1248)\n[Udihe](https://wals.info/languoid/lect/wals_code_udh)\nhttps://en.wikipedia.org/wiki/Udege_language\nhttps://phoible.org/languages/udih1248\nhttps://www.wikidata.org/entity/Q13235"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:371**\n**cldf:alpatov:ed:97:18**\n**cldf:anonymous:75:2**\n**cldf:arsenev:26**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:girfanova:00**\n**cldf:humphreys:mits:ed:93**\n**cldf:ivashchenko:89**\n**cldf:kormushin:98**\n**cldf:larkin:58**\n**cldf:lewis:ed:09**\n**cldf:miyaoka:endo:ed:01:6**\n**cldf:nikolaeva:tolskaja:11**\n**cldf:nikolaeva:tolskaja:nd**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:startsev:00**\n**hh:d:Girfanova:Udegejskogo**\n**hh:d:Majewicz:Udeghe**\n**hh:g:Kormushin:Udyxejskij**\n**hh:g:Nikolaeva:Udihe:1999**\n**hh:g:NikolaevaTolskaya:Udihe**\n**hh:s:Girfanova:Udeghe**\n**hh:s:Perekhvalskaya:Udihe**\n**hh:s:Snejder:Ude**\n**hh:sd:Schneider:Udejsko**\n**hh:t:Nikolaeva:Udeghe**\n**mpieva:Kanchuga2002AnUdehea**\n**mpieva:Kimonko1974Tamgdebe**\n**mpieva:Kormusin1998Udychejs**\n**mpieva:Snejder1936Kratkiju**"
+  },
+  "altnames": {
+    "wals": "\nUdihe",
+    "wals other": "\nUdekhe",
+    "ruhlen (1987)": "\nUdehe",
+    "moseley & asher (1994)": "\nUdihe",
+    "lexvo": "\nOudihe [fr]\nOudiheg [br]\nUdega lingvo [eo]\nUdege language [en]\nUdegejsk [no]\nUdehen kieli [fi]\nUdihe [en]\nУдеге јазик [mk]\nУдегейська мова [uk]\nУдэгейский язык [ru]\nภาษาอูเดเก [th]\n우데게이어 [ko]",
+    "elcat": "\nSprache der Udehe\nUdege\nUdegeis\nUdeghe\nUdehe\nUdeheische\nUdekhe\nUdihe\nУдиэ\nудэгейский язык\nудэйский язык"
+  },
+  "triggers": {
+    "lgcode": "\nudihe\nudehe\nudejsko\nudegejsko\nudegejskij\nudyxejskij\nsukpaj\nudeghe\nudychejskij"
+  },
+  "identifier": {
+    "wals": "udh",
+    "endangeredlanguages": "3021"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Whaley:Tungusic**",
+    "subrefs": "\n**hh:hv:Whaley:Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Udege (3021-ude) = Critically Endangered (80 percent certain, based on the evidence available) (A shift to Russian has proceeded in Udege communities faster than almost anywhere else in Siberia, and many characteristic features of the language have been lost.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

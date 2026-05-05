@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Badui",
+    "hid": "bac",
+    "level": "dialect",
+    "iso639-3": "bac",
+    "latitude": "-6.35359",
+    "longitude": "106.177",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Baduy_language\nhttps://www.wikidata.org/entity/Q3449885"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Lauder:Indonesia**\n**hh:he:Kennedy:Greater-Sunda**"
+  },
+  "altnames": {
+    "lexvo": "\nBadui [en]",
+    "hhbib_lgcode": "\nBaduis"
+  },
+  "triggers": {
+    "lgcode": "\nobstacles"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Filipinos** **hh:hv:Ross:Batanic** **hh:hv:Adelaar:Austronesian-Asia-Madagascar**",
+    "subrefs": "\n**hh:hv:Pawley:Filipinos**\n**hh:hv:Ross:Batanic**\n**hh:hv:Adelaar:Austronesian-Asia-Madagascar**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Baduy (bac-bac) = 6b (Threatened)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Badui [bac] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate language from Sundanese [sun]. As also the entry itself says, the Badui are separate from the Sunda only socio-religiously\n(**hh:he:Kennedy:Greater-Sunda**:749-766) but in language they speak a Banten dialect of Sunda (**hh:hvw:Nothofer:West-Java**:119-121). See also: Sundanese [sun].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "bac"
+  }
+}

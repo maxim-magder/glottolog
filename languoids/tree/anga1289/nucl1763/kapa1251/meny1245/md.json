@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Menya",
+    "hid": "mcr",
+    "level": "language",
+    "iso639-3": "mcr",
+    "latitude": "-7.17425",
+    "longitude": "146.071",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Menya](https://grambank.clld.org/languages/meny1245)\n[Menya](https://wals.info/languoid/lect/wals_code_mey)\nhttps://en.wikipedia.org/wiki/Menya_language\nhttps://www.wikidata.org/entity/Q11732444"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:whitehead:05**\n**hh:g:Whitehead:Menya**\n**hh:h:Goodenough:New-Guinea**\n**hh:hld:Smith:Morobe**\n**hh:hvphon:Lloyd:Angan**\n**hh:hw:Zgraggen:Gulf**\n**hh:s:Whitehead:Menya**\n**hh:typ:Whitehead:Menya**\n**hh:w:Fischer:Kuku-Kuku**\n**sil16:22209**\n**sil16:32432**\n**silpng:silpng1956-1990:692**\n**silpng:silpng1991-2000:1411**\n**silpng:silpng1991-2000:1412**\n**silpng:silpng1991-2000:1413**\n**silpng:silpng1991-2000:1414**\n**silpng:silpng1991-2000:1415**\n**silpng:silpng1991-2000:1416**\n**silpng:silpng1991-2000:1417**\n**silpng:silpng1991-2000:1418**\n**silpng:silpng1991-2000:1419**\n**silpng:silpng1991-2000:1420**\n**silpng:silpng1991-2000:1421**\n**silpng:silpng1991-2000:1422**\n**silpng:silpng1991-2000:1423**\n**silpng:silpng1991-2000:1424**\n**silpng:silpng1991-2000:1425**\n**silpng:silpng1991-2000:1426**\n**silpng:silpng1991-2000:1427**\n**silpng:silpng1991-2000:1428**\n**silpng:silpng1991-2000:1429**\n**silpng:silpng1991-2000:1430**\n**silpng:silpng1991-2000:1431**\n**silpng:silpng1991-2000:1432**\n**silpng:silpng1991-2000:1433**\n**silpng:silpng1991-2000:1434**\n**silpng:silpng1991-2000:1435**"
+  },
+  "altnames": {
+    "wals": "\nMenya",
+    "ruhlen (1987)": "\nMenya",
+    "moseley & asher (1994)": "\nMenya",
+    "multitree": "\nMenya\nMenyama\nMenye",
+    "lexvo": "\nMenya [en]",
+    "hhbib_lgcode": "\nJamna\nMenye\nOpiya-Nautiya"
+  },
+  "triggers": {
+    "lgcode": "\nkukuya\nnatamataqa\nmenya\nsodom\niqueqa\niquta\nqanakayqa\nqauqeyqa\niqu"
+  },
+  "identifier": {
+    "wals": "mey",
+    "multitree": "mcr"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Lloyd:Angan**:36",
+    "subrefs": "\n**hh:hvphon:Lloyd:Angan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Menya (mcr-mcr) = 6b (Threatened)."
+  }
+}

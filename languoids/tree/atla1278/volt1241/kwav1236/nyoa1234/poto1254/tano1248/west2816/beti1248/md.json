@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Beti (Côte d'Ivoire)",
+    "hid": "eot",
+    "level": "language",
+    "iso639-3": "eot",
+    "latitude": "5.26495",
+    "longitude": "-3.28627",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\n[Beti](https://endangeredlanguages.com/lang/361)\nhttps://www.wikidata.org/entity/Q3915347\nhttps://en.wikipedia.org/wiki/Eotile_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**eballiso2009:59371**\n**hh:g:Kakou:Eotile**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Schulz-Weidner:Ostatlantische**\n**hh:hvld:Westermann:Tschi-Guang**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:phon:Goprou:Eotile**\n**hh:phon:Kakou:Eotile**\n**hh:s:Herault:Eotile**\n**hh:typ:Kakou:Eotile**"
+  },
+  "altnames": {
+    "glottolog": "\nBeti (Cote d'Ivoire)",
+    "multitree": "\nBeti\nEotile\nMetyibo\nÉotilé",
+    "lexvo": "\nBeti (Côte d'Ivoire) [en]\nBeti [en]",
+    "hhbib_lgcode": "\nBeti\nEotile\nMek'ibo\nMekibo\nMekyibo\nMetyibo\nMékyibo",
+    "elcat": "\nBeti\nEotile"
+  },
+  "triggers": {
+    "lgcode": "\nleotile\nsoixante AND parles"
+  },
+  "identifier": {
+    "multitree": "eot",
+    "endangeredlanguages": "361"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Beti (361-eot) = Endangered (20 percent certain, based on the evidence available) [Blench 2007](cldf:blench:07:3)"
+  }
+}

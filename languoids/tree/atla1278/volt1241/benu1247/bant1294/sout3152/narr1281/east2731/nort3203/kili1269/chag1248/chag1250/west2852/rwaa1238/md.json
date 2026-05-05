@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Rwa",
+    "hid": "rwk",
+    "level": "language",
+    "iso639-3": "rwk",
+    "latitude": "-3.42862",
+    "longitude": "36.7686",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q41432343"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:1098**\n**eballiso2009:1099**\n**eballiso2009:14068**\n**eballiso2009:15449**\n**eballiso2009:17550**\n**eballiso2009:19600**\n**eballiso2009:21309**\n**eballiso2009:28707**\n**eballiso2009:2961**\n**eballiso2009:35170**\n**eballiso2009:36437**\n**eballiso2009:37620**\n**eballiso2009:40455**\n**eballiso2009:40791**\n**eballiso2009:50699**\n**eballiso2009:5506**\n**eballiso2009:7057**\n**hh:ew:MoorePuritt:ChaggaMeru**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hvw:Philippson:Chaga**\n**hh:s:Gerlach:Rwa**\n**hh:s:Shinagawa:Rwa-Uru-Mkuu**"
+  },
+  "altnames": {
+    "multitree": "\nKirwo\nRwa\nRwo",
+    "lexvo": "\nRwa [en]",
+    "hhbib_lgcode": "\nRwa (E621A)"
+  },
+  "triggers": {
+    "lgcode": "\ntanzania AND meru\nrwa\ne61\nkiro"
+  },
+  "identifier": {
+    "multitree": "rwk"
+  },
+  "classification": {
+    "sub": "**hh:hv:Winter:Kilimanjaro-Bantu** **hh:hv:Nurse:ChagaTaita**",
+    "subrefs": "\n**hh:hv:Winter:Kilimanjaro-Bantu**\n**hh:hv:Nurse:ChagaTaita**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rwa (rwk-rwk) = 6a (Vigorous)."
+  }
+}

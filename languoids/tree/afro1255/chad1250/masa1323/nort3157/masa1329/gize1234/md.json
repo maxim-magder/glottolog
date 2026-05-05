@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Gizey",
+    "hid": "NOCODE_Gizey",
+    "level": "language",
+    "latitude": "10.023278",
+    "longitude": "15.269103",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**hh:el:Ajello:Gizey**\n**hh:evld:Gaffuri:Gizey**\n**hh:h:Guitang:Gizey**\n**hh:hw:Ajelloetal:Six-Tchadique-Central**\n**hh:phon:DeDominicis:Gizey-Tonal**\n**hh:phon:Dominicis:Gizey**\n**hh:typ:Guitang:Gizey**"
+  },
+  "triggers": {
+    "lgcode": "\ngizey"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Gizey, a language of the North Masa-Masa group, is missing\n(**hh:hw:Ajelloetal:Six-Tchadique-Central**, **hh:el:Ajello:Gizey**). Gizey is not intelligible to Masa [mcn] though many Gizey speak Masa\n(**hh:el:Melis:Ham**:45). See also: Masana [mcn].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Gizey"
+  },
+  "classification": {
+    "sub": "**hh:evld:Gaffuri:Gizey**:80-104 **hh:hw:Ajelloetal:Six-Tchadique-Central**:iv-v **hh:el:Melis:Ham** (although listed as a language of the Musey section the evidence provided leaves Ham in the Masa section)",
+    "subrefs": "\n**hh:el:Melis:Ham**\n**hh:evld:Gaffuri:Gizey**\n**hh:hw:Ajelloetal:Six-Tchadique-Central**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Gizey (NOCODE_Gizey-NOCODE_Gizey) = 6a (Vigorous)."
+  }
+}

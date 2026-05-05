@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Laal",
+    "hid": "gdm",
+    "level": "language",
+    "iso639-3": "gdm",
+    "latitude": "10.0063",
+    "longitude": "17.6143",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Laal](https://endangeredlanguages.com/lang/576)\n[Laal](https://grambank.clld.org/languages/laal1242)\n[Laal](https://wals.info/languoid/lect/wals_code_laa)\nhttps://en.wikipedia.org/wiki/Laal_language\nhttps://www.wikidata.org/entity/Q33436"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:connell:07:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Boyeldieu:Laal**\n**hh:phon:Boyeldieu:Laal**\n**hh:soc:Lionnet:Southern-Chad**\n**hh:typ:Boyeldieu:Laal:Determinations**\n**hh:typ:Lionnet:Laal**\n**hh:v:Boyeldieu:Laal**\n**hh:vld:Lionnet:Laal**\n**hh:w:Boyeldieu:Laal**"
+  },
+  "altnames": {
+    "wals": "\nLaal",
+    "multitree": "\nGori\nLaal",
+    "lexvo": "\nJęzyk laal [pl]\nLaal [de]\nLaaleg [br]\nلغة لال [ar]",
+    "elcat": "\nGori\nLaal",
+    "hhbib_lgcode": "\nLaal of Gori and Damtar"
+  },
+  "triggers": {
+    "lgcode": "\ngori\nlaal"
+  },
+  "identifier": {
+    "wals": "genus/laal",
+    "multitree": "gdm",
+    "endangeredlanguages": "576"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:g:Boyeldieu:Laal**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Laal (576-gdm) = Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

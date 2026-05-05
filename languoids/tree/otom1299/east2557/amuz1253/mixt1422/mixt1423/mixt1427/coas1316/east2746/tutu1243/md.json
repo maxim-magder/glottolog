@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Tututepec Mixtec",
+    "hid": "mtu",
+    "level": "language",
+    "iso639-3": "mtu",
+    "latitude": "16.11351",
+    "longitude": "-97.55969",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tututepec_Mixtec\nhttps://www.wikidata.org/entity/Q7857069"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:w:Belmar:Chatina-Dialectos**\n**hh:w:Sullivant:Mixteco-Tututepec**"
+  },
+  "altnames": {
+    "multitree": "\nMixtec, Tututepec\nMixteco de San Pedro Tututepec\nSouthern Misteko\nSouthern Mixteco",
+    "lexvo": "\nTututepec Mixtec [en]",
+    "hhbib_lgcode": "\n76 San Pedro Tututepec Mixtec Josserand 1983\n90 Santa Maria Acatepec Mixtec Josserand 1983\nAcat\nMixtec-Tututepec\nSan Pedro Tututepec\nSanta María Acatepec\nTut\nTututepec"
+  },
+  "identifier": {
+    "multitree": "mtu",
+    "endangeredlanguages": "10528"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:13-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Coast Mixtec (10528-mtu) = Vulnerable (20 percent certain, based on the evidence available) ['bib69']"
+  }
+}

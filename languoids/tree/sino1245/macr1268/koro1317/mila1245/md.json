@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Milang",
+    "hid": "NOCODE_Milang",
+    "level": "language",
+    "latitude": "28.5539908",
+    "longitude": "95.186127",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Milang](https://endangeredlanguages.com/lang/1378)\n[Milang](https://grambank.clld.org/languages/mila1245)\n[Milang](https://wals.info/languoid/lect/wals_code_mil)\nhttps://en.wikipedia.org/wiki/Milang_language\nhttps://www.wikidata.org/entity/Q6850761"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:modi:10**\n**cldf:post:modi:11**\n**hh:e:Modi:Millangs**\n**hh:g:Modi:Milang**\n**hh:hew:Dunbar:Abors-Galongs**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Anderson:West-Kameng**\n**hh:hv:Post:Milang-Tani**\n**hh:hv:PostModi:Milang**\n**hh:hvw:Blench:Arunachal:2024**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:s:Tayeng:Milang**"
+  },
+  "triggers": {
+    "lgcode": "\nmilang\nabors\ngalongs"
+  },
+  "identifier": {
+    "multitree": "adi-mil",
+    "endangeredlanguages": "1378"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Milang, a Tibeto-Burman language of the Siangic subgroup, is missing a distinct language\n(**hh:hew:Grewal:Arunachal**, **hh:hv:PostModi:Milang**, **hh:s:Tayeng:Milang**), first identified as such by **hh:hew:Dunbar:Abors-Galongs**:10-11 with a wordlist from an L2 speaker. The name occurs under the hodge-podge entry Adi [adi] (a highly ambiguous term, see\n**hh:he:Singh:Scheduled**:17-20, **hh:hv:Post:Siyom**:86-88)\nwhich unites the names of several very different languages. Milang is not intelligible with any of them (**hh:hv:Sun:Tani**:473). See also: Bori-Karko [adi].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Milang"
+  },
+  "classification": {
+    "sub": "**hh:hv:PostBlench:Siangic**",
+    "subrefs": "\n**hh:hv:PostBlench:Siangic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Milang (NOCODE_Milang-NOCODE_Milang) = 6b (Threatened)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMillang",
+    "elcat": "\nHolon\nMilang"
+  }
+}

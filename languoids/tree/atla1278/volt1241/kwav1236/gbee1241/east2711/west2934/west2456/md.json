@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Western Xwla Gbe",
+    "hid": "xwl",
+    "level": "language",
+    "iso639-3": "xwl",
+    "latitude": "6.33455",
+    "longitude": "2.03904",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "TG"
+    ],
+    "links": "\nhttps://phoible.org/languages/west2456\nhttps://www.wikidata.org/entity/Q21084409"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Manoukian:Ewe**\n**hh:hbld:GblemKantchoa:Togo**\n**hh:hbld:GblemKantchoa:Togo:2018**\n**hh:hv:Capo:Gbe**\n**hh:hv:Kluge:Gbe**\n**hh:soc:HensonKluge:Xwla**\n**hh:typ:Amoni:Xwlagbe**"
+  },
+  "altnames": {
+    "multitree": "\nGbe, Western Xwla\nPhla\nXwla\nXwla-Gbe",
+    "lexvo": "\nWestern Xwla Gbe [en]",
+    "hhbib_lgcode": "\nGbe-Western Xwla\nPeda-Hula\nPhla-Xwla\nPla-Peda"
+  },
+  "triggers": {
+    "lgcode": "\nxwlagbe\nhunsukwe\nconstituants"
+  },
+  "identifier": {
+    "multitree": "xwl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kluge:Gbe**",
+    "subrefs": "\n**hh:hv:Kluge:Gbe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gbe, Western Xwla (xwl-xwl) = 6a (Vigorous)."
+  }
+}

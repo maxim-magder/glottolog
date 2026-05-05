@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mairasi",
+    "hid": "zrs",
+    "level": "language",
+    "iso639-3": "zrs",
+    "latitude": "-3.4511",
+    "longitude": "134.071",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Mairasi](https://grambank.clld.org/languages/nucl1594)\n[Mairasi](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Mairasi)\n[Mairasi](https://wals.info/languoid/lect/wals_code_mrs)\nhttps://en.wikipedia.org/wiki/Mairasi_language\nhttps://www.wikidata.org/entity/Q3038645"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:peckham:87**\n**hh:d:Peckham:Mairasi**\n**hh:d:Peckham:Mairasi:2003**\n**hh:d:Peckham:Mairasi:2004**\n**hh:e:Peckham:Mairasi**\n**hh:e:Peckham:Mairasi:Day-Night**\n**hh:h:Ronsumbre:Papua-Barat**\n**hh:h:Sugono:Indonesia**\n**hh:he:Brinio:Papuans**\n**hh:he:Rumansara:Kaimana**\n**hh:hew:Muller:Indischen:I**\n**hh:hv:Anceaux:Bomberai**\n**hh:hv:Anceaux:Bomberai:1956**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Loukotka:Papuanske**\n**hh:hvw:Peckham:Etna**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:hw:Galis:NNG**\n**hh:ld:Grace:48-50**\n**hh:ld:Maturbongs:Mairasi**\n**hh:ld:Peckham:Mairasi-Conjunctions**\n**hh:nt:NA:Mairasi**\n**hh:phon:Peckham:Mairasi**\n**hh:s:Peckham:Mairasi**\n**hh:s:Peckham:Mairasi:2000**\n**hh:s:Peckham:Mairasi:2012**\n**hh:s:Waryengsi:Mairasi**\n**hh:typ:Maturbongs:Mairasi**\n**sil16:18885**\n**sil16:22591**"
+  },
+  "altnames": {
+    "wals": "\nMairasi",
+    "wals other": "\nFaranyao\nKaniran",
+    "ruhlen (1987)": "\nMairasi",
+    "moseley & asher (1994)": "\nnot specified",
+    "multitree": "\nFaranjao\nFaranjo\nFaranyao\nKaniran\nMairasi\nNortheastern Mairasi",
+    "lexvo": "\nMairasi [en]",
+    "hhbib_lgcode": "\nFaranjao\nKaniran\nMairasi (Ac)\nMairasi (Kaimana)\nMairasis\nMairassi\nMairassis\nMairassis bij Lobo (= Mairasi)"
+  },
+  "triggers": {
+    "lgcode": "\nmairasi\nfariri\nteai\nenggavoter\nneck"
+  },
+  "identifier": {
+    "wals": "mrs",
+    "multitree": "zrs"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Peckham:Etna**",
+    "subrefs": "\n**hh:hvw:Peckham:Etna**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mairasi (zrs-zrs) = 6b* (Threatened)."
+  }
+}

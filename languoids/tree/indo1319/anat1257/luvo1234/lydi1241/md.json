@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lydian",
+    "hid": "xld",
+    "level": "language",
+    "iso639-3": "xld",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "longitude": "28.599",
+    "latitude": "40.287",
+    "links": "\nhttps://www.wikidata.org/entity/Q36095\nhttps://en.wikipedia.org/wiki/Lydian_language",
+    "timespan": "-0800-01-01/-0200-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kloekhorst:Anatolian**:67-75",
+    "subrefs": "\n**hh:hv:Kloekhorst:Anatolian**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ld:Butavand:Lydienne**\n**hh:ld:Melchert:Lydian**\n**hh:ld:Merlin:Anatolia**\n**hh:ld:Woudhuizen:Lydian**\n**hh:s:Brandenstein:Lydische**\n**hh:s:Carruba:Lydischen**\n**hh:s:Gerard:Lydienne**\n**hh:s:Heubeck:Lydisch**\n**hh:s:Melchert:Lydian**\n**hh:s:Ritstsa:Lidijskij**\n**hh:s:Sevoroskin:Lidijskij**\n**hh:ttyp:Littmann:Lydian**\n**hh:v:Yakubovich:Lydian**\n**hh:w:Gusmani:Lydisches**\n**hh:w:Gusmani:Lydisches:1980**"
+  },
+  "altnames": {
+    "lexvo": "\nJęzyk lidyjski [pl]\nLidi [ca]\nLidijski jezik [hr]\nLidijščina [sl]\nLidya dili [tr]\nLingua Lydia [la]\nLingua lidia [it]\nLydian [en]\nLydian language [en]\nLydien [fr]\nLydische Sprache [de]\nLydisk språk [no]\nLydiska [sv]\nLyydian kieli [fi]\nLýdčina [sk]\nЛидийский язык [ru]\nЛидиски јазик [mk]\nЛідійська мова [uk]\nزبان لیدیایی [fa]\nภาษาไลเดีย [th]\n리디아어 [ko]"
+  },
+  "triggers": {
+    "lgcode": "\nlydisches\nlydisch\nlydienne\nlydian\nlidijskij"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Lydian (**hh:s:Sevoroskin:Lidijskij**, **hh:s:Carruba:Lydischen**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xld"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Lydian (xld-xld) = 10 (Extinct)."
+  }
+}

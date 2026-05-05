@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Shuswap",
+    "hid": "shs",
+    "level": "language",
+    "iso639-3": "shs",
+    "latitude": "50.8734",
+    "longitude": "-119.667",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Secwepemctsin (Shuswap)](https://endangeredlanguages.com/lang/1472)\n[Shuswap](https://wals.info/languoid/lect/wals_code_shu)\nhttps://en.wikipedia.org/wiki/Shuswap_language\nhttps://phoible.org/languages/shus1248\nhttps://www.wikidata.org/entity/Q3482685"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aro:shepard:67**\n**cldf:bell:82**\n**cldf:bybee:perkins:etal:94**\n**cldf:chamberlain:92**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gardiner:saunders:91**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:kuipers:74**\n**cldf:kuipers:75**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:ray:42**\n**cldf:teit:05**\n**hh:d:Kuipers:Shuswap:1993**\n**hh:e:Boelscher:Shuswap**\n**hh:e:Dawson:Shuswap**\n**hh:e:Teit:Shuswap**\n**hh:g:Gibson:Shuswap**\n**hh:g:Kuipers:Shuswap**\n**hh:hew:Tyloretal:North-Western-Canada**\n**hh:hv:Kuipers:Salish**\n**hh:s:Ignace:Shuswap**\n**hh:s:JensenPowellHarry:Shuswap**\n**hh:s:Matthew:Shuswap**\n**hh:styp:Gardiner:Shuswap:1993**\n**hh:typ:Gardiner:Shuswap**\n**iso6393:2024-013**\n**mpieva:Kuipers1974TheShusw**\n**mpieva:Kuipers1983ShuswapE**\n**mpieva:Kuipers1989Areporto**"
+  },
+  "altnames": {
+    "wals": "\nShuswap",
+    "ruhlen (1987)": "\nShuswap",
+    "moseley & asher (1994)": "\nShuswap",
+    "multitree": "\nAt-nah\nChusvapo\nSecwepemc\nSecwepemctsía\nSecwepemctsín\nShooswap\nShuswap\nsəxwəxcín",
+    "lexvo": "\nShuswap [en]\nShuswap language [en]",
+    "elcat": "\nAt-nah\nSecwepemc\nSecwepemctsin (Shuswap)\nSecwepemctsía\nSecwepemctsín\nShooswap\nShuswap\nsəxwəxcín"
+  },
+  "triggers": {
+    "lgcode": "\nshuswap"
+  },
+  "identifier": {
+    "wals": "shu",
+    "multitree": "shs",
+    "endangeredlanguages": "1472"
+  },
+  "classification": {
+    "sub": "**hh:hv:Swadesh:Salish:1950**",
+    "subrefs": "\n**hh:hv:Swadesh:Salish:1950**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Secwepemctsin (Shuswap) (1472-shs) = critically endangered"
+  }
+}

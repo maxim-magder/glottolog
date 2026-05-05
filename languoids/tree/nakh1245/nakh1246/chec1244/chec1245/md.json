@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Chechen",
+    "hid": "che",
+    "level": "language",
+    "iso639-3": "che",
+    "latitude": "43.5",
+    "longitude": "45.5",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "KZ",
+      "RU"
+    ],
+    "links": "\n[Chechen](https://grambank.clld.org/languages/chec1245)\n[Chechen](https://lexibank.clld.org/languages/northeuralex-che)\n[Chechen](https://wals.info/languoid/lect/wals_code_chc)\nhttps://en.wikipedia.org/wiki/Chechen_language\nhttps://phoible.org/languages/chec1245\nhttps://www.wikidata.org/entity/Q33350"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1464**\n**cldf:aliroev:97**\n**cldf:berg:ed:99:4**\n**cldf:desheriev:67**\n**cldf:digaev:02**\n**cldf:f:40**\n**cldf:good:03:2**\n**cldf:haspelmath:ed:04:2**\n**cldf:jeschull:04**\n**cldf:komen:66**\n**cldf:lotz:56**\n**cldf:molochieva:66:1**\n**cldf:molochieva:66:2**\n**cldf:molochieva:66:3**\n**cldf:molochieva:witzlack-makarevich:08**\n**cldf:nichols:92**\n**cldf:nichols:97:1**\n**cldf:okrent:ed:00:2**\n**cldf:plaetschke:29**\n**cldf:yakovlev:40**\n**hh:d:KarasaevMatsiev:Chechenskij**\n**hh:d:Matsiev:Chechensko**\n**hh:dial:Arsaxanov:Chechenskaja**\n**hh:e:Nichols:Chechen-Ingush**\n**hh:es:Partchieva:Tchetchene**\n**hh:g:Uslar:Chechenskij**\n**hh:g:Yakovlev:Chechenskogo**\n**hh:g:Yakovlev:Chechenskogo:Morfologiya**\n**hh:hv:Chokaev:Naxskie**\n**hh:hv:Nichols:Chechen-Ingush**\n**hh:s:Aliroev:Cecenskij**\n**hh:s:Cokaev:Chechenskogo**\n**hh:s:DottonWagner:Chechen**\n**hh:s:Komen:Chenchen-Ingush**\n**hh:s:Nichols:Chechen**\n**hh:s:Schiefner:Tschetschenzische**\n**hh:sd:Matsiev:Chechensko**\n**hh:typ:Komen:Case-Chechen**\n**hh:typ:Molochieva:Case-Chechen**\n**hh:typ:Shamilov:Chechen**\n**hh:vw:Aliroev:Cecenskogo-Ingusskogo**\n**ldh:item_378277**\n**ldh:item_403873**\n**mpieva:Aliroev2005Russkoce**\n**mpieva:Arsachanov1959Akkinski**\n**mpieva:Baisoultanov2006Ekspress**\n**mpieva:Bisultanov2004Tkqesanh**\n**mpieva:Good2003Strongli**\n**mpieva:Jakovlev1940Sintaksi**\n**mpieva:Karasaev1978Russkoce**\n**mpieva:Maciev1961NochijnO**\n**mpieva:Matsiev1995Ashortgr**\n**mpieva:Nichols2004ChechenE**\n**mpieva:Partchieva1997Parlonst**\n**sil16:49096**\n**sil16:49425**\n**sil16:49426**"
+  },
+  "altnames": {
+    "wals": "\nChechen",
+    "ruhlen (1987)": "\nChechen",
+    "moseley & asher (1994)": "\nChechen",
+    "multitree": "\nChechen\nChecheno\nGalancho\nNokchiin Muott\nNokhchiin\nTchétchène",
+    "lexvo": "\nBahasa Chechen [ms]\nChechen [en]\nChechen language [en]\nChechèn [oc]\nCsecsen nyelv [hu]\nIdioma checheno [es]\nJęzyk czeczeński [pl]\nLimba cecenă [ro]\nLingua cecena [it]\nLingua chechena [gl]\nLíngua chechena [pt]\nTchetcheneg [br]\nTchétchène [fr]\nTjetjensk [da]\nTjetjenska [sv]\nTschetschenische Sprache [de]\nTsjetsjeens [nl]\nTsjetsjensk [no]\nTxetxè [ca]\nTéténska [is]\nTšetšeeni keel [et]\nTšetšeenin kieli [fi]\ntchétchène [fr]\nÇeçence [tr]\nÇeçenî [ku]\nĈeĉena lingvo [eo]\nČečenski jezik [hr]\nČečenu valoda [lv]\nČečenština [cs]\nČečenščina [sl]\nНохчийн мотт [ce]\nСэсэн хэлэн [bxr]\nЦæцæйнаг æвзаг [os]\nЧачэнская мова [be]\nЧечен чĕлхи [cv]\nЧеченски език [bg]\nЧеченски јазик [mk]\nЧеченски језик [sr]\nЧеченский язык [ru]\nЧеченська мова [uk]\nצ'צ'נית [he]\nلغة شيشانية [ar]\nภาษาเชเชน [th]\nჩაჩნური ენა [ka]\nチェチェン語 [ja]\n車臣語 [zh]\n체첸어 [ko]"
+  },
+  "triggers": {
+    "lgcode": "\nchechenskogo\ncecenskogo\nchechen\ntchetchene\nchechenskij\ncecenskij\ntschetschenzische"
+  },
+  "identifier": {
+    "wals": "chc",
+    "multitree": "che"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nichols:Nakh-Dagestanian**",
+    "subrefs": "\n**hh:hv:Nichols:Nakh-Dagestanian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Chechen (1067-che) = Vulnerable"
+  }
+}

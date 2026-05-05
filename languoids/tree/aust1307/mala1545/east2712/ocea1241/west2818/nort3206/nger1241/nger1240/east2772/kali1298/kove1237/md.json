@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kove",
+    "hid": "kvc",
+    "level": "language",
+    "iso639-3": "kvc",
+    "latitude": "-5.58623",
+    "longitude": "149.63",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kove](https://endangeredlanguages.com/lang/2094)\n[Kove](https://grambank.clld.org/languages/kove1237)\n[Kove](https://lexibank.clld.org/languages/abvdoceanic-Kove)\nhttps://en.wikipedia.org/wiki/Kove_language\nhttps://www.wikidata.org/entity/Q3199402"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:11:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**hh:g:Sato:Kove**\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Chowning:Refugees**\n**hh:hv:Chowning:WNewBritain**\n**hh:hv:Ross:WMelanesia**\n**hh:hvs:Chowning:5NewBritain**\n**hh:hvs:Goulden:Maleu**\n**hh:hvw:HaywoodHaywood:North-Western-New-Britain**\n**hh:hvw:Thurston:NBritain**\n**hh:phon:Sato:Kove**\n**hh:wsoc:Carteretal:Malalamai**"
+  },
+  "altnames": {
+    "multitree": "\nKaliai-Kove\nKove",
+    "lexvo": "\nKove [en]",
+    "hhbib_lgcode": "\nKombe\nKove (Siasi subgroup)\nKove Guhi",
+    "elcat": "\n\"Kombe\"\nKaliai-Kove\nKove"
+  },
+  "triggers": {
+    "lgcode": "\nkove"
+  },
+  "identifier": {
+    "multitree": "kvc",
+    "endangeredlanguages": "2094"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:Northwest-New-Britain:2014**",
+    "subrefs": "\n**hh:hv:Ross:Northwest-New-Britain:2014**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kove (2094-kvc) = Threatened (100 percent certain, based on the evidence available) (Most Kove people speak Tok Pisin in daily life.) [Sato 2013](cldf:sato:13)"
+  }
+}

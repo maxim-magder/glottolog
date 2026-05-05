@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Réunion Creole French",
+    "hid": "rcf",
+    "level": "language",
+    "iso639-3": "rcf",
+    "latitude": "-21.1131",
+    "longitude": "55.5321",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "RE"
+    ],
+    "links": "\n[Reunion Creole](https://apics-online.info/contributions/54)\nhttps://en.wikipedia.org/wiki/R%C3%A9union_Creole\nhttps://phoible.org/languages/reun1238\nhttps://www.wikidata.org/entity/Q13198"
+  },
+  "classification": {
+    "sub": "**hh:g:Staudacher-Valliamee:Reunionnais**",
+    "subrefs": "\n**hh:g:Staudacher-Valliamee:Reunionnais**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bollee:07**\n**cldf:bollee:93**\n**cldf:carayol:chaudenson:etal:84**\n**cldf:chaudenson:03**\n**cldf:delalanguecreoledelareunion:sondageipsosmars2007:07**\n**hh:d:Baggioni:Reunionnais**\n**hh:d:Chaudenson:Lexique-Reunion**\n**hh:g:Staudacher-Valliamee:Reunion-Bourbon:2001**\n**hh:g:Staudacher-Valliamee:Reunionnais**\n**hh:hld:Holm:Contact**\n**hh:hvtyp:Papen:Indian-Ocean**\n**hh:phon:Staudacher-Valliamee:Reunionnais**\n**hh:s:Bollee:Reunion**\n**hh:s:Cellier:Reunionnais**\n**hh:s:Cellier:Reunionnais-Francais**\n**hh:s:Cellier:Reunionnais:PhD**\n**hh:s:Dietrich:Mascareignes**\n**hh:s:Gobl-Galdi:Patois-Francais**\n**hh:v:Speedy:Reunion-Tayo**\n**hh:vsoctyp:Chapuis:Malagasy-Reunion**\n**mpieva:Baggioni1997Dictionn**\n**mpieva:Bollee20002007**\n**mpieva:Chaudenson1981Textescr**\n**mpieva:Corne1995MetchifM**"
+  },
+  "altnames": {
+    "glottolog": "\nReunion Creole French",
+    "multitree": "\nIndian Ocean Creole French\nRéunion Creole French",
+    "lexvo": "\nCreolo della Riunione [it]\nCréole réunionnais [fr]\nRéunion Creole French [en]\nRéunion Creole [en]\nRéunion-Kreolisch [de]\nレユニオン・クレオール語 [ja]",
+    "hhbib_lgcode": "\nMascareignes\nRéunion Creole\nVernacular Lects of Réunionnais French (VLRF)"
+  },
+  "triggers": {
+    "lgcode": "\n978\nreunionnais\nmascareignes\nreunnionais"
+  },
+  "identifier": {
+    "multitree": "rcf"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Réunion French Creole (rcf-rcf) = 6a* (Vigorous)."
+  }
+}

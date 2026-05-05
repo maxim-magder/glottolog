@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kamoro",
+    "hid": "kgq",
+    "level": "language",
+    "iso639-3": "kgq",
+    "latitude": "-4.30433",
+    "longitude": "135.883",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kamoro](https://grambank.clld.org/languages/kamo1255)\n[Kamoro](https://wals.info/languoid/lect/wals_code_kmr)\nhttps://en.wikipedia.org/wiki/Kamoro_language\nhttps://www.wikidata.org/entity/Q6359001"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:pouwer:55**\n**hh:e:Bijlmer:Mimika**\n**hh:e:Bijlmer:Mimika:1936**\n**hh:e:Harple:Kamoro**\n**hh:e:Jacobs:Kamoro**\n**hh:e:Koch:Nieuw-Guinea**\n**hh:e:Pickell:Kamoro**\n**hh:e:Pouwer:Asmat-Kamoro**\n**hh:e:Pouwer:Mimika**\n**hh:e:Rawling:New-Guinea**\n**hh:e:Sutaarga:Mimika**\n**hh:e:Tillemans:Etna**\n**hh:e:Wollaston:New-Guinea**\n**hh:e:vanderSande:NNG**\n**hh:e:vanderSchoot:Mimika-Asmat**\n**hh:ew:Modera:Zuidwestkust**\n**hh:g:Drabbe:Kamoro**\n**hh:h:Bastiaanse:Nouvelle-Guinee**\n**hh:h:Mambrasar:Arso-Sentani**\n**hh:h:Ronsumbre:Papua-Barat**\n**hh:h:Sugono:Indonesia**\n**hh:he:Rumansara:Kaimana**\n**hh:hew:Earl:Papuans**\n**hh:hew:Muller:Indischen:I**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvs:Boelaars:SWNG**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Loukotka:Papuanske**\n**hh:hvw:Peckham:Etna**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:hw:Drabbe:24**\n**hh:hw:Drabbe:ZWNG**\n**hh:hw:Galis:NNG**\n**hh:hw:Meyer:NNG**\n**hh:hw:Walker:Bomberai**\n**hh:hw:vonMiklucho-Maclay:Papua-Koviaj**\n**hh:ld:Holmer:Comparative**\n**hh:typ:Makabori:Kamoro**\n**hh:typ:Mayabubun:Wania-Kamoro**\n**hh:w:Drabbe:Kamoro-Sempan-Asmat**\n**hh:w:Dumas:Mimika**\n**hh:w:Earl:ZWNG**\n**hh:w:Kok:Mimika**\n**hh:w:Miklucho-Maclay:Kowiay**\n**hh:w:Wollaston:Kamoro**"
+  },
+  "altnames": {
+    "wals": "\nKamoro",
+    "ruhlen (1987)": "\nKamoro",
+    "moseley & asher (1994)": "\nKamoro",
+    "multitree": "\nKamora\nKamoro\nKaokonau\nLakahia\nMimika\nMukamuga\nNafarpi\nNagramadu\nNagramandu\nNefarpi\nNeferipi\nUmar\nUmari",
+    "lexvo": "\nKamoro [en]\nKamoro language [en]",
+    "hhbib_lgcode": "\nAngadi\nAngádi\nJamur\nKam. (= Kamoro?)\nKamoro (Dr)\nKamoro Halkahiya\nKamoro Lakahia\nKiruru (probably related to Lakahia --- see Ray 1912)\nKiruru (probably related to Lakahia see Ray 1912)\nLakahia (a Kamoro family language close to Nagramadu with 3+ from AN)\nLobo\nMimika\nNagramadu\nNanesa (a Kamoro variety)\nNapiti\nNapiti at lake Jamur\nOeta\nOetanata\nOutanetta\nTarjà Kamoro on the Poraoka-Kipja-Maparpè-Akare-Wùmuka rivers\nUtanata\nsee Ray 1912)"
+  },
+  "triggers": {
+    "lgcode": "\natoeka\nenarotali\nverkenningstocht\ntillemans\nrivieren\nmimika\nverzamelt\nbijlmer\netnabaai\npastoor\nterug\nkamoro"
+  },
+  "identifier": {
+    "wals": "kmr",
+    "multitree": "kgq"
+  },
+  "classification": {
+    "sub": "**hh:hv:UsherSuter:Asmat-Muli** **hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**",
+    "subrefs": "\n**hh:hv:UsherSuter:Asmat-Muli**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kamoro (kgq-kgq) = 6b* (Threatened)."
+  }
+}

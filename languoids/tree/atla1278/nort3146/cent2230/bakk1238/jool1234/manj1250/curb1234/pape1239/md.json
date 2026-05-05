@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Papel",
+    "hid": "pbo",
+    "level": "language",
+    "iso639-3": "pbo",
+    "latitude": "11.8977",
+    "longitude": "-15.8388",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Pepel](https://lexibank.clld.org/languages/polyglottaafricana-Pepel)\nhttps://en.wikipedia.org/wiki/Papel_language\nhttps://www.wikidata.org/entity/Q36314"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bernatzik:33**\n**eballiso2009:20986**\n**eballiso2009:53273**\n**eballiso2009:7393**\n**eballiso2009:7398**\n**hh:g:Ndao:Pepel**\n**hh:g:Ndao:Pepel:2013**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Gaynor:Papel**\n**hh:w:Cardoso:Pepel**\n**hh:w:DalbyHair:WAfrican:1456**"
+  },
+  "altnames": {
+    "multitree": "\nMoium\nOium\nPapei\nPapel\nPepel",
+    "lexvo": "\nPapel [en]",
+    "hhbib_lgcode": "\nPepel\nPepel or Bisao"
+  },
+  "triggers": {
+    "lgcode": "\nportuguesa AND antroponimia\npepel"
+  },
+  "identifier": {
+    "multitree": "pbo"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Papel (pbo-pbo) = 6b (Threatened)."
+  }
+}

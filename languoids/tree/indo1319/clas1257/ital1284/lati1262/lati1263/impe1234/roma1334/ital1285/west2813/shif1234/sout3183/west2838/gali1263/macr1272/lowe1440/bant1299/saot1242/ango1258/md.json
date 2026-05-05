@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Angolar",
+    "hid": "aoa",
+    "level": "language",
+    "iso639-3": "aoa",
+    "latitude": "0.11438",
+    "longitude": "6.59486",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ST"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34994\n[Angolar](https://apics-online.info/contributions/36)\nhttps://en.wikipedia.org/wiki/Angolar_Creole\nhttps://phoible.org/languages/ango1258\n[Angolar](https://wals.info/languoid/lect/wals_code_ago)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2188**\n**cldf:lorenzino:00:1**\n**hh:g:Lorenzino:Angolar**\n**hh:g:Lorenzino:Angolar:LINCOM**\n**hh:g:Maurer:Angolar**\n**hh:hvphon:Mane:Crioulos-Guine**\n**hh:s:Maurer:Angolar**\n**hh:soc:GrahamGraham:West-Africa-Lusolexed**\n**hh:typ:Lorenzino:Angolar**\n**mpieva:Lorenzino1998TheAngol**\n**mpieva:Schang2000Lemergen**"
+  },
+  "altnames": {
+    "wals": "\nAngolar",
+    "ruhlen (1987)": "\nPortuguese-based Creoles",
+    "multitree": "\nAngolar\nNgola\nSão Tomé",
+    "lexvo": "\nAngolar [de]\nAngolar jezik [sh]\nAngolar language [en]\nAngolara lingvo [eo]\nCriollo angolar [es]",
+    "hhbib_lgcode": "\nS. Thomé\nSao Tomense"
+  },
+  "triggers": {
+    "lgcode": "\nlangolar\nangolar\nlusolexed\ntomense"
+  },
+  "identifier": {
+    "wals": "ago",
+    "multitree": "aoa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hagemeijer:Gulf-Guinea** **hh:hv:Bandeira:Guinea:Creole**",
+    "subrefs": "\n**hh:hv:Bandeira:Guinea:Creole**\n**hh:hv:Hagemeijer:Gulf-Guinea**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Angolar (aoa-aoa) = 6b (Threatened)."
+  }
+}

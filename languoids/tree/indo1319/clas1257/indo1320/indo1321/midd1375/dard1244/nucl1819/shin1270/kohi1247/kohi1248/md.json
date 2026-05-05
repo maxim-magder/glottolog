@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kohistani Shina",
+    "hid": "plk",
+    "level": "language",
+    "iso639-3": "plk",
+    "latitude": "35.1741",
+    "longitude": "73.3207",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kohistani_Shina\nhttps://www.wikidata.org/entity/Q12953882"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:SchmidtKohistani:Shina-Kohistani**\n**hh:hv:FitchCooper:Kohistan**\n**hh:hvld:Schmidt:Shina**\n**hh:hvw:SchmidtKaul:Shina-Kashmiri**\n**hh:phon:SchmidtKohistani:Paalus**\n**hh:phon:SchmidtZarin:Palas-Shina**\n**hh:typ:Ganai:Kohistani**\n**mpieva:Backstrom1992Language**\n**sil16:32840**"
+  },
+  "altnames": {
+    "multitree": "\nDardu\nKohistani\nKohistyo\nPalasi-Kohistani\nShina, Kohistani",
+    "lexvo": "\nKohistani Shina [en]",
+    "hhbib_lgcode": "\nKohistani\nPalas Shina\nPalasi\nPáalus\nShina-Kohistani"
+  },
+  "triggers": {
+    "lgcode": "\nkohistan AND shina"
+  },
+  "identifier": {
+    "multitree": "plk"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Shina, Kohistani (plk-plk) = 6a (Vigorous)."
+  }
+}

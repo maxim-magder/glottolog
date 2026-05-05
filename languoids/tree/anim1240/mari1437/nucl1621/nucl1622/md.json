@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Marind",
+    "hid": "mrz",
+    "level": "language",
+    "iso639-3": "mrz",
+    "latitude": "-8.15651",
+    "longitude": "140.009",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "PG"
+    ],
+    "links": "\n[Marind](https://grambank.clld.org/languages/nucl1622)\n[Marind](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Marind)\n[Marind](https://wals.info/languoid/lect/wals_code_mrd)\nhttps://en.wikipedia.org/wiki/Marind_language\nhttps://www.wikidata.org/entity/Q6763970"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:vanbaal:66**\n**hh:d:Geurtjens:Marindineesch**\n**hh:d:vandeKolkVertenten:Marindineesch**\n**hh:e:Corbey:Marind**\n**hh:e:Daeng:Marind-Anim**\n**hh:e:Geurtjens:Kaja-Kajas**\n**hh:e:Heldring:Marind**\n**hh:e:Koch:Nieuw-Guinea**\n**hh:e:Nevermann:Steinzeitmenschen**\n**hh:e:Nollen:Kaia-Kaia**\n**hh:e:Vertenten:Marind**\n**hh:e:Vertenten:SNG**\n**hh:e:Viegen:Marindineezen**\n**hh:e:Wirz:Marind-Anim**\n**hh:e:Wirz:Tugeri**\n**hh:e:vanBaal:Dema**\n**hh:e:vanBaal:Marind**\n**hh:e:vanBaal:Zuid-Nieuw-Guinea:1940-1941**\n**hh:e:vandeKolk:Marind**\n**hh:g:Drabbe:Marind**\n**hh:g:Geurtjens:Marindineesche**\n**hh:g:Olsson:Coastal-Marind**\n**hh:g:Olsson:Coastal-Marind:2021**\n**hh:h:vanBaal:WNG**\n**hh:he:Boelaars:Irian**\n**hh:he:Brinio:Papuans**\n**hh:hs:Drabbe:ZWNG**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Ray:Western**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Drabbe:24**\n**hh:hw:Drabbe:ZWNG**\n**hh:hw:Galis:NNG**\n**hh:hw:Geurtjens:Marindineesche**\n**hh:hw:Meyer:NNG**\n**hh:hw:Ray:WFly**\n**hh:hwld:Donohue:Wasur**\n**hh:s:Adriani:Merauke**\n**hh:s:SeijneKok:Halifoersch**\n**hh:soc:Leboldetal:Okaba**\n**hh:t:Olsson:Coastal-Marind**\n**hh:typ:Ndiken:Malind**\n**hh:w:Anonymous:Murray**\n**hh:w:Kok:Mimika**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Schmeltz:Tugeri**\n**langsci:drabbe:55**\n**mpieva:Drabbe1955Spraakku**\n**sil16:45042**"
+  },
+  "altnames": {
+    "wals": "\nMarind",
+    "wals other": "\nMarind (Eastern)",
+    "ruhlen (1987)": "\nMarind",
+    "moseley & asher (1994)": "\nMarind",
+    "multitree": "\nGawir\nHolifoersch\nMarind\nSoutheast Marind\nTugeri",
+    "lexvo": "\nMarind [en]",
+    "hhbib_lgcode": "\nEastern Coastal Marind\nEastern Dialect of Coastal Marind\nGawir\nKumbe River Marind not Bian Marind\nMa. (= Marind)\nMarind Gawir\nMarind-Anim\nMarind-Anim of Merauke\nMarind/Alaku\nMarind/Ihalik\nMarind/Kaptel\nMarind/Sanggase\nMarindineesch\nMerauke\nMr.1. (= Marind Gawir 1)\nSanayu\nSüdkuste\nTugeri\nTugeri-S.O.Neu-Guinea\nTugeri/Saliraka\nWestern Coastal Marind"
+  },
+  "triggers": {
+    "lgcode": "\nkoppensnellers\nmarindineezen\nmarindineesch\nhalifoersch\nkaia\nneerlandaise\nanim\nbestuur\nwordtter\ncontr\nmarindineesche\nmarindeesche\nseyne\ntugeri\nvijftien\nzoals\nmarind"
+  },
+  "identifier": {
+    "wals": "family/marind",
+    "multitree": "mrz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Voorhoeve:CSNG** **hh:hvld:Voorhoeve:CWTNG**",
+    "subrefs": "\n**hh:hv:Voorhoeve:CSNG**\n**hh:hvld:Voorhoeve:CWTNG**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marind (mrz-mrz) = 6b (Threatened)."
+  }
+}

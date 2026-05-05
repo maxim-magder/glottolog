@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lehali",
+    "hid": "tql",
+    "level": "language",
+    "iso639-3": "tql",
+    "latitude": "-13.5043",
+    "longitude": "167.332",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lehali](https://endangeredlanguages.com/lang/7371)\n[Lehali](https://lexibank.clld.org/languages/abvdoceanic-Lehali)\nhttps://en.wikipedia.org/wiki/Lehali_language\nhttps://www.wikidata.org/entity/Q3229119"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4907**\n**cldf:ed:10**\n**cldf:francois:14:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:tryon:10:1**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Alo-Teqel**\n**hh:ld:Codrington:Norbarbar**\n**hh:w:RoutelMiling:Ureparapara**"
+  },
+  "altnames": {
+    "multitree": "\nLehali\nTekel\nTeqel",
+    "lexvo": "\nLehali [en]",
+    "hhbib_lgcode": "\nLeha\nRetan or Western Ureparapara\nTekel\nTeqel\nUreparapara-Lehali",
+    "elcat": "\nLehali\nTekel\nTeqel"
+  },
+  "triggers": {
+    "lgcode": "\nteqel\nalo\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "tql",
+    "endangeredlanguages": "7371"
+  },
+  "classification": {
+    "sub": "**hh:hv:Francois:Ecology:NVanuatu**",
+    "subrefs": "\n**hh:hv:Francois:Ecology:NVanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lehali (7371-tql) = Endangered (20 percent certain, based on the evidence available) [Tryon 2010](cldf:tryon:10:1)"
+  }
+}

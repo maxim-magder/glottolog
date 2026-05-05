@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Samba Leko",
+    "hid": "ndi",
+    "level": "language",
+    "iso639-3": "ndi",
+    "latitude": "8.19236",
+    "longitude": "11.7366",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Samba Leko](https://grambank.clld.org/languages/samb1305)\n[Samba Leko](https://wals.info/languoid/lect/wals_code_sle)\nhttps://en.wikipedia.org/wiki/Chamba_Leko\nhttps://phoible.org/languages/samb1305\nhttps://www.wikidata.org/entity/Q36381"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:meek:31:2**\n**eballiso2009:1222**\n**eballiso2009:7349**\n**hh:e:Fardon:Chamba**\n**hh:e:Fardon:Chamba:1988**\n**hh:e:Fardon:Pere-Chamba**\n**hh:g:Fabre:SambaLeko**\n**hh:g:Fabre:SambaLeko:2002**\n**hh:hew:Meek:Tribal:I**\n**hh:hvw:Boyd:Adamawa:1988**\n**hh:hw:Strumpell:Adamauas**\n**hh:phon:Noss:Samba-Leeko**\n**hh:s:Essamba:Samba**\n**hh:typ:Kong:Samba-Leeko**\n**hh:typ:Ntocko:Samba**\n**hh:w:Armstrong:West-African**\n**mpieva:Essamba2002Lesyntag**"
+  },
+  "altnames": {
+    "wals": "\nSamba Leko",
+    "ruhlen (1987)": "\n(Samba) Leko",
+    "moseley & asher (1994)": "\nChamba",
+    "multitree": "\nChamba\nChamba Leko\nLego\nLeko\nLekon\nNdi\nSamba\nSamba Leeko\nSamba Leko\nSuntai",
+    "lexvo": "\nSamba Leko [en]",
+    "hhbib_lgcode": "\nChamba\nChamba Lekon\nChamba looks more like Wom but\nChamba of Donga\nTschamba-Laego"
+  },
+  "triggers": {
+    "lgcode": "\ndallani\nleeko\nsamb\ndu AND samba\nregicide"
+  },
+  "identifier": {
+    "wals": "sle",
+    "multitree": "ndi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kleinewillinghofer:Samba-Duru**",
+    "subrefs": "\n**hh:hv:Kleinewillinghofer:Samba-Duru**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Samba Leko (ndi-ndi) = 5* (Developing)."
+  }
+}

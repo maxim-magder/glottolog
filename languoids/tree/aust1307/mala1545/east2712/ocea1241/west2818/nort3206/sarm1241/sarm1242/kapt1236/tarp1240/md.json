@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tarpia",
+    "hid": "tpf",
+    "level": "language",
+    "iso639-3": "tpf",
+    "latitude": "-2.322279",
+    "longitude": "140.115497",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tarpia](https://endangeredlanguages.com/lang/2790)\n[Tarpia](https://lexibank.clld.org/languages/abvdoceanic-Tarpia)\nhttps://en.wikipedia.org/wiki/Tarpia_language\nhttps://www.wikidata.org/entity/Q12953185"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:np:nd:212**\n**hh:d:Sanjoko:Tarfia**\n**hh:e:deClercq:Tarfia**\n**hh:hlde:deClercq:NNG**\n**hh:hlde:deClercq:WNNNG**\n**hh:hv:Cowan:Austronesisch-Papoease**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:hwsoc:Kim:Bgu**\n**hh:ld:Grace:48-50**\n**hh:ld:Winarti:Bilangan**\n**hh:phon:Pagappong:Tarfia**\n**hh:s:Sanjoko:Tarfia**\n**hh:typ:Mariati:Tarfia**\n**hh:typ:Mariati:Tarfia-Adverbia**\n**iso6393:2007-231**"
+  },
+  "altnames": {
+    "multitree": "\nSufrai\nTarfia\nTarpia",
+    "lexvo": "\nTarpia [en]",
+    "hhbib_lgcode": "\nSufrai\nTarfia\nTarfia language (Papua)\nTarpia (Gr)",
+    "elcat": "\nSufrai\nTarfia\nTarpia"
+  },
+  "identifier": {
+    "multitree": "tpf",
+    "endangeredlanguages": "2790"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:Kim:Bgu**",
+    "subrefs": "\n**hh:hwsoc:Kim:Bgu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tarpia (2790-tpf) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Assamese",
+    "hid": "asm",
+    "level": "language",
+    "iso639-3": "asm",
+    "latitude": "26.0876",
+    "longitude": "91.2932",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "BT",
+      "IN"
+    ],
+    "links": "\n[Assamese](https://wals.info/languoid/lect/wals_code_ass)\nhttps://en.wikipedia.org/wiki/Assamese_language\nhttps://phoible.org/languages/assa1263\nhttps://www.wikidata.org/entity/Q29401"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cardona:jain:ed:03:1**\n**cldf:duttabaruah:ed:97:1**\n**cldf:malherbe:rosenberg:96**\n**cldf:miri:ed:03:2**\n**cldf:miri:ed:03:6**\n**hh:e:Barooah:Sonowal-Kacharis**\n**hh:es:Mahanta:Moriyas-Assam**\n**hh:g:Babakaev:Assamskij**\n**hh:g:DuttaBaruah:Assamese**\n**hh:g:Goswami:Kamrupi**\n**hh:g:Goswami:Kamrupi:1958**\n**hh:g:Kakati:Assamese**\n**hh:g:Ojah:Barpeta**\n**hh:g:Pathak:Darangi**\n**hh:g:Rabha:Dudhnoi**\n**hh:g:Singha:Dhiyan**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Grierson:5:I**\n**hh:hvw:Kogan:New-Indo-Aryan**\n**hh:hw:Robinson:Asam**\n**hh:phon:Moral:Mayong**\n**hh:phon:Sarma:Barpetia-Assamese**\n**hh:s:Bismith:Khachari**\n**hh:s:Brown:Asamese**\n**hh:s:Das:Goalpara-Kamrup**\n**hh:s:GoswamiTamuli:Asamiya**\n**hh:s:Nicoll:Assamese**\n**hh:s:Robinson:Assamese**\n**hh:st:Sen:Indian**\n**hh:sv:Puzari:Assamese-Phake**\n**hh:typ:Kalita:Assamese**\n**hh:v:Kakati:Assamese**\n**hh:w:Campbell:India**\n**ldh:item_406036**\n**ldh:item_406236**\n**mpieva:Chaliha2000Originan**\n**mpieva:Dutta1997Language**\n**mpieva:Haddad2007Adjunctc**\n**mpieva:Mahanta2007Directio**\n**mpieva:Pattanayak1966Acontrol**\n**mpieva:Sarma2001SarmasAn**"
+  },
+  "altnames": {
+    "wals": "\nAssamese",
+    "ruhlen (1987)": "\nAssamese",
+    "moseley & asher (1994)": "\nAssamese",
+    "multitree": "\nAsambe\nAsami\nAsamiya\nAssamese\nAssami",
+    "lexvo": "\nAsam simi [qu]\nAsama lingvo [eo]\nAsameg [br]\nAsamiešu valoda [lv]\nAsamski jezik [sh]\nAsamés [ast]\nAsamų kalba [lt]\nAssamais [fr]\nAssamees [nl]\nAssameg [cy]\nAssamese [en]\nAssamese language [en]\nAssamesische Sprache [de]\nAssamesisk [da]\nAssamesiska [sv]\nAssameíska [is]\nAssami [fi]\nAssamès [ca]\nAsszámi nyelv [hu]\nBahasa Assam [id]\nFiteny assamey [mg]\nIdioma asamés [es]\nJęzyk assamski [pl]\nLingua Assamica [la]\nLingua assamese [it]\nLíngua assamesa [pt]\nassamais [fr]\nÁsámčina [sk]\nÁsámština [cs]\nАсамски језик [sr]\nАсамська мова [uk]\nАссамский язык [ru]\nאסאמית [he]\nآسامی زبان [ur]\nزبان آسامی [fa]\nअसमिया [hi]\nआसामी भाषा [mr]\nঅসমীয়া ঠার [bpy]\nঅসমীয়া ভাষা [bn]\nঅসমীয়া ভাষা আৰু লিপি [as]\nઆસામીઝ ભાષા [gu]\nஅசாமிய மொழி [ta]\nఅస్సామీ భాష [te]\nಅಸ್ಸಾಮಿ [kn]\nആസ്സാമീസ് [ml]\nภาษาอัสสัม [th]\nასამური ენა [ka]\nアッサム語 [ja]\n阿萨姆语 [zh]\n아삼어 [ko]",
+    "hhbib_lgcode": "\nASS — Assamese from Neog Goswami 1987\nAsamiya\nBarpeta\nBarpetiya\nCentral Kamrupi (Nalbari)\nDarrang\nDehan\nDhiyan\nDudhnoi\nKamrupi\nMayong\nMoriyas muslims of Assam\nNalbariya\nPalasbariya\nSonowal Kacharis speak Assamese\nSouth Kamrupi (Palasbari)\nW Assamese\nW Assamese Kamrup\nWest Kamrupi (Barpeta)"
+  },
+  "triggers": {
+    "lgcode": "\nassamskij\nkhatha\nassamese\nkhachari\nbarpetia\nasamese\nasamiya\nkamrupi\nmatri"
+  },
+  "identifier": {
+    "wals": "ass",
+    "multitree": "asm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Toulmin:Bangla**",
+    "subrefs": "\n**hh:hvw:Toulmin:Bangla**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Assamese (asm-asm) = 2 (Provincial). Statutory provincial language in Assam State (1950, Constitution, Schedule VIII)."
+  }
+}

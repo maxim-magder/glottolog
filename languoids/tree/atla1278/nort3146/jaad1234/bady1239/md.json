@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Jaad-Badyara",
+    "hid": "pbp",
+    "level": "language",
+    "iso639-3": "pbp",
+    "latitude": "12.6425",
+    "longitude": "-13.4759",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Badyara](https://endangeredlanguages.com/lang/4949)\n[Jaad (Badiaranke)](https://lexibank.clld.org/languages/polyglottaafricana-Badiaranke)\nhttps://en.wikipedia.org/wiki/Badyara_language\nhttps://phoible.org/languages/bady1239\nhttps://www.wikidata.org/entity/Q35095"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:435**\n**cldf:diop:89**\n**cldf:ducos:64**\n**cldf:ed:10**\n**cldf:gessain:58**\n**cldf:gessain:lestrange:80**\n**cldf:johnston:19:37**\n**cldf:kihm:80**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:westermann:21:1**\n**eballiso2009:10254**\n**eballiso2009:32110**\n**eballiso2009:34399**\n**eballiso2009:36217**\n**eballiso2009:40147**\n**eballiso2009:53273**\n**hh:d:Meyer:Badiaranke**\n**hh:e:Delacour:Tenda**\n**hh:g:Ducos:Badiaranke**\n**hh:g:Meyer:Badiaranke**\n**hh:hvs:Wilson:Atlantic**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:KroppDakubu:WALDS2:II**\n**hh:s:Carreira:Pajadinca**\n**hh:s:Wilson:Biafada-Pajade**\n**hh:typ:Cover:Badiaranke**\n**hh:typ:Ducos:Classes-Nominales**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nBadara\nBadian\nBadiara\nBadiaranké\nBadjara\nBadyara\nBadyaranke\nBigola\nGola\nPadjade\nPajade\nPajadinka\nbadyara",
+    "lexvo": "\nBadyara [en]",
+    "hhbib_lgcode": "\nBadyara\nBadyaranké\nPadsade\nPajade\nPajadinca",
+    "elcat": "\nBadara\nBadian\nBadjara\nBadyara\nBadyaranke\nBandjana\nBigola\nGola\nPadjade\nPajade\nPajadinka"
+  },
+  "triggers": {
+    "lgcode": "\nbadyaranke\npajadinca\npajade\nbadiaranke"
+  },
+  "identifier": {
+    "multitree": "pbp",
+    "endangeredlanguages": "4949"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017** **hh:hv:Merrill:Atlantic** **hh:hv:Merrill:Cangin**",
+    "subrefs": "\n**hh:hv:Merrill:Atlantic**\n**hh:hv:Merrill:Cangin**\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Badyara (4949-pbp) = Vulnerable (20 percent certain, based on the evidence available) [Cover 2010](cldf:cover:10)"
+  }
+}

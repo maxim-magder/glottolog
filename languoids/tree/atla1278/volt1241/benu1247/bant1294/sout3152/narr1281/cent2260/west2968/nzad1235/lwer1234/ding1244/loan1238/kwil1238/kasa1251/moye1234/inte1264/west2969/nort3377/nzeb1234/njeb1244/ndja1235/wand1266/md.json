@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wandji",
+    "hid": "wdd",
+    "level": "language",
+    "iso639-3": "wdd",
+    "latitude": "-1.51945",
+    "longitude": "12.8951",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36976\nhttps://en.wikipedia.org/wiki/Wanzi_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:26242**\n**eballiso2009:26244**\n**eballiso2009:31133**\n**eballiso2009:31686**\n**eballiso2009:38508**\n**eballiso2009:39230**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Niama-Niama:Bantu-Gabon**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hvwphon:Mouele:Duma**\n**hh:phon:Mouele:Wanzi-Est**\n**hh:phon:Mwele:Wanzi**\n**hh:phonv:HombertMouele:Wanzi**\n**hh:typ:Dodo-Bounguendza:Liwandji**\n**hh:typ:Mwele:Wanzi**"
+  },
+  "altnames": {
+    "multitree": "\nBawandji\nWandji",
+    "lexvo": "\nWandji [en]",
+    "hhbib_lgcode": "\nB501_Wanzi_E\nB501_Wanzi_Mo\nDuma 2 d. wanzi B51\nLiwandji\nLiwanzi (B501)\nWanzi\nWanzi (Kessipougou) Duma 2 d. wanzi B501"
+  },
+  "triggers": {
+    "lgcode": "\nwanzi\nwandji"
+  },
+  "identifier": {
+    "multitree": "wdd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Niama-Niama:Bantu-Gabon** **hh:hv:Pacchiarotti:West-Coastal-Bantu**:163, 184, 188",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Niama-Niama:Bantu-Gabon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wandji (wdd-wdd) = 6a* (Vigorous)."
+  }
+}

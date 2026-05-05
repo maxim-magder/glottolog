@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Owiniga",
+    "hid": "owi",
+    "level": "language",
+    "iso639-3": "owi",
+    "latitude": "-4.47476",
+    "longitude": "141.697",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Owiniga](https://endangeredlanguages.com/lang/10663)\n[Owiniga](https://lexibank.clld.org/languages/transnewguineaorg-owiniga)\n[Owininga](https://wals.info/languoid/lect/wals_code_owi)\nhttps://en.wikipedia.org/wiki/Owiniga_language\nhttps://www.wikidata.org/entity/Q56454"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:escott:08**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:SkoKwomtariLeftMay**\n**hh:hvw:ConradDye:USepik**\n**hh:nt:NA:Owiniga**\n**hh:typ:Lundgren:Owininga**\n**hh:w:Laycock:D1**\n**hh:w:Laycock:D6**"
+  },
+  "altnames": {
+    "multitree": "\nBero\nOwiniga\nSamo\nTaina",
+    "lexvo": "\nOwiniga [en]",
+    "hhbib_lgcode": "\nBero\nSamo (Bero)\nSamo (Saniap) in Samun village near Auni (May River area) 1963",
+    "elcat": "\nBero\nOwiniga\nSamo\nTaina"
+  },
+  "triggers": {
+    "lgcode": "\nsienesisi\nowiniga\nowininga"
+  },
+  "identifier": {
+    "wals": "owi",
+    "multitree": "owi",
+    "endangeredlanguages": "10663"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ConradDye:USepik**",
+    "subrefs": "\n**hh:hvw:ConradDye:USepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Owiniga (10663-owi) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

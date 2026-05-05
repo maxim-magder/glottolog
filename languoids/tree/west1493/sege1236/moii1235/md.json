@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Moi (Indonesia)",
+    "hid": "mxn",
+    "level": "language",
+    "iso639-3": "mxn",
+    "latitude": "-0.96532",
+    "longitude": "131.52",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Moi (Indonesia)](https://grambank.clld.org/languages/moii1235)\nhttps://en.wikipedia.org/wiki/Moi_language\nhttps://www.wikidata.org/entity/Q11732459"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Malak:Moi**\n**hh:e:Haenen:Moi**\n**hh:el:Ekklesia:Moi-Seget-Kalabra**\n**hh:hlde:deClercq:WNNNG**\n**hh:hv:Fautngil:Salawati**\n**hh:hv:FlassyStokhof:Kepala-Burung**\n**hh:hvld:BerryBerry:WPapuan**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Flassy:Toror**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Fabritius:NNG**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**\n**hh:ld:Gifelem:Moi**\n**hh:ld:Gifelem:Moi-Numeralia**\n**hh:phon:AnsaniFautngil:Mooi**\n**hh:phon:Gifelem:Moi**\n**hh:s:AnsaniFautngil:Mooi**\n**hh:s:Menick:Moi**\n**hh:t:Menick:Moi**\n**hh:typ:Borolla:Moi**\n**hh:typ:Jamlean:Moi-Kilim**\n**hh:typ:Menick:Moi**\n**hh:typ:Reesink:Bird-Head-Morpho-Syntactic**\n**hh:w:PKL:Moi**\n**hh:w:Salamala:Moi-Kelim**\n**hh:w:Sanjoko:Moi-Kelim**\n**hh:w:Stokhof:Holle:5:2**\n**hh:w:StokhofFlassy:Mooi**"
+  },
+  "altnames": {
+    "multitree": "\nMekwei\nMoi\nMooi\nMosana",
+    "lexvo": "\nMoi (Indonesia) [en]\nMoi [en]",
+    "hhbib_lgcode": "\nBergvolken ten westen van de eilanden Amsterdam en Middelburg\nMo of Moi\nMoi\nMoi (Ac)\nMoi-dialect van Waipu\nMooi\nMói"
+  },
+  "triggers": {
+    "lgcode": "\nmooi\nmoi AND birds AND head"
+  },
+  "identifier": {
+    "multitree": "mxn"
+  },
+  "classification": {
+    "sub": "**hh:hvld:BerryBerry:WPapuan**",
+    "subrefs": "\n**hh:hvld:BerryBerry:WPapuan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Moi Kelim (mxn-mxn) = 7 (Shifting)."
+  }
+}

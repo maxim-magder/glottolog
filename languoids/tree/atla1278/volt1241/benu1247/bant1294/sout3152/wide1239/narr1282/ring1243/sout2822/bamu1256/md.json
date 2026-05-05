@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bamunka",
+    "hid": "bvm",
+    "level": "language",
+    "iso639-3": "bvm",
+    "latitude": "6.00203",
+    "longitude": "10.5127",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34882\nhttps://en.wikipedia.org/wiki/Munka_language\nhttps://phoible.org/languages/bamu1256"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:phon:Takwe:Bamunka**\n**hh:typ:Ingle:Bamunka**\n**hh:w:ChilverKaberry:Western-Grassfields**"
+  },
+  "altnames": {
+    "multitree": "\nBamunka\nBamunkun\nMbika\nMuka\nNdop-Bamunka\nNiemeng",
+    "lexvo": "\nBamunka [en]",
+    "hhbib_lgcode": "\nMuka\nMukake of Bamunka"
+  },
+  "triggers": {
+    "lgcode": "\nbamunka"
+  },
+  "identifier": {
+    "multitree": "bvm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Bantoid**",
+    "subrefs": "\n**hh:hv:Blench:Bantoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngiemekohke (bvm-bvm) = 5 (Developing)."
+  }
+}

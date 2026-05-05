@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Wumbvu",
+    "hid": "wum",
+    "level": "language",
+    "iso639-3": "wum",
+    "latitude": "-2.39234",
+    "longitude": "12.264",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36891\nhttps://en.wikipedia.org/wiki/Wumbvu_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:28707**\n**eballiso2009:48210**\n**hh:e:Youla:Bewumvu**\n**hh:h:Jacquot:Gabon**\n**hh:h:Ndamba:Congo**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvtyp:Jacquot:B10-B20-B30**\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:ld:Blanchon:Wumvu**\n**hh:phon:Mihindou:Wumvu**\n**hh:phon:Mouele:Bewumvu**\n**hh:phon:Rekanga:Wumvu**\n**hh:phonv:Koumbi:Wumvu**\n**hh:typ:Missimbaloba:Wumvu**"
+  },
+  "altnames": {
+    "multitree": "\nWumbvu\nWumvu",
+    "lexvo": "\nWumbvu [en]",
+    "hhbib_lgcode": "\nB24_Wumbvu\nBawumbvu\nWumbu\nWumvu\nWumvu 1 Gabon B24\nWumvu 2 Congo B24\nWumvu 3 Kissiele\nWunvu/Wumbu\nWúmvù"
+  },
+  "triggers": {
+    "lgcode": "\nmalinga\nwumvu\ntonalite"
+  },
+  "identifier": {
+    "multitree": "wum"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359-363 **hh:hvw:Koumbi:Kota-Kele**",
+    "subrefs": "\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wumbvu (wum-wum) = 6a* (Vigorous)."
+  }
+}

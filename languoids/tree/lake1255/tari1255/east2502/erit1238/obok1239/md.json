@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Obokuitai",
+    "hid": "afz",
+    "level": "language",
+    "iso639-3": "afz",
+    "latitude": "-2.88029",
+    "longitude": "137.924",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Obokuitai](https://endangeredlanguages.com/lang/2728)\n[Obokuitai](https://grambank.clld.org/languages/obok1239)\n[Obokuitai](https://lexibank.clld.org/languages/transnewguineaorg-obokuitai)\n[Obokuitai](https://wals.info/languoid/lect/wals_code_obk)\nhttps://en.wikipedia.org/wiki/Obokuitai_language\nhttps://www.wikidata.org/entity/Q7075258"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:scott:jenison:91**\n**hh:h:Sugono:Indonesia**\n**hh:hphon:ClouseClouse:WLakes-Plain**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:phon:JenisonJenison:Obokuitai**\n**hh:s:Jenison:Obokuitai**"
+  },
+  "altnames": {
+    "wals": "\nObokuitai",
+    "wals other": "\nBaburiwa\nObogwitai",
+    "ruhlen (1987)": "\nBaburiwa",
+    "moseley & asher (1994)": "\nBaburiwa",
+    "multitree": "\nAliki\nAti\nObogwitai\nObokuitai\nObokuitái",
+    "lexvo": "\nObokuitai [en]",
+    "elcat": "\nAliki\nAti\nObogwitai\nObokuitai"
+  },
+  "triggers": {
+    "lgcode": "\nobokuitai"
+  },
+  "identifier": {
+    "wals": "obk",
+    "multitree": "afz",
+    "endangeredlanguages": "2728"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Obokuitai (2728-afz) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

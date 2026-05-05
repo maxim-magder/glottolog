@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kota (Gabon)",
+    "hid": "koq",
+    "level": "language",
+    "iso639-3": "koq",
+    "latitude": "1.016",
+    "longitude": "13.97",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\n[Kota](https://lexibank.clld.org/languages/polyglottaafricana-Kota)\n[Kota (Gabon)](https://endangeredlanguages.com/lang/4427)\nhttps://en.wikipedia.org/wiki/Kota_language_(Gabon)\nhttps://www.wikidata.org/entity/Q35607"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:andersson:72**\n**cldf:andersson:87**\n**cldf:andersson:90**\n**cldf:andersson:91**\n**cldf:avelot:05**\n**cldf:bouquet:jacquot:67**\n**cldf:eckendorf:46**\n**cldf:guthrie:71:4**\n**cldf:idiata-mayombo:05**\n**cldf:idiata-mayombo:leitch:etal:00**\n**cldf:jacquot:83**\n**cldf:johnston:19:15**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:12170**\n**eballiso2009:12927**\n**eballiso2009:14602**\n**eballiso2009:14603**\n**eballiso2009:17276**\n**eballiso2009:18376**\n**eballiso2009:25304**\n**eballiso2009:25305**\n**eballiso2009:25307**\n**eballiso2009:25308**\n**eballiso2009:28637**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:32904**\n**eballiso2009:41979**\n**eballiso2009:48210**\n**hh:g:Magnagna:Ikota**\n**hh:h:Ndamba:Congo**\n**hh:h:Struck:Moyen-Congo**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hew:Bruel:Sanga**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:ld:Hombert:Ikota**\n**hh:phon:Gnobouet:Ikota-Massaha**\n**hh:phon:Magnagna:Ikota-Mounana**\n**hh:phon:Subbaiah:Kota**\n**hh:phont:Gamille:Kota**\n**hh:s:Piron:Kota**\n**hh:sv:Rajasekaran:Kota-Tamil**\n**hh:typ:Hubert:Gabon**\n**mpieva:Piron1990Elements**"
+  },
+  "altnames": {
+    "multitree": "\nIkota\nIkuta\nKota\nKotu",
+    "lexvo": "\nJęzyk kota [pl]\nKota (Gabon) [en]\nKota [en]\niKota [en]",
+    "hhbib_lgcode": "\nB25_Kota\nBakota\nBakota de la Boquiba\nFarmers Bakota of Central Ogowe\nIkota\nIkota de Massaha\nKota\nKota 1 madungwe\nKota 2 B25\nKota 3 B25\nKota 4 Mbomo\nKuta",
+    "elcat": "\nIkota\nIkuta\nKota (Gabon)\nKotu"
+  },
+  "triggers": {
+    "lgcode": "\ntrajets\nethnotextes\nlikota\nokota\nikota\nkuta\nlogoue\nbakota\ntells\nbakuta"
+  },
+  "identifier": {
+    "multitree": "koq",
+    "endangeredlanguages": "4427"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359-363 **hh:hvw:Koumbi:Kota-Kele**",
+    "subrefs": "\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kota (Gabon) (4427-koq) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

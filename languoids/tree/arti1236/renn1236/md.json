@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Rennellese Sign Language",
+    "hid": "rsi",
+    "level": "language",
+    "iso639-3": "rsi",
+    "latitude": "-11.615",
+    "longitude": "160.219",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Rennell Island Sign Language](https://endangeredlanguages.com/lang/5349)\nhttps://www.wikidata.org/entity/Q7313307\nhttps://en.wikipedia.org/wiki/Rennellese_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kuschel:74**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**hh:e:Birket-Smith:Rennell**\n**hh:ldsoc:Kuschel:Rennell-Sign**\n**hh:wsoc:Kuschel:Rennell-Sign**\n**iso6393:2016-002**"
+  },
+  "altnames": {
+    "multitree": "\nRennellese Sign Language",
+    "lexvo": "\nRennellese Sign Language [en]",
+    "hhbib_lgcode": "\nRennell Sign",
+    "elcat": "\nRennell Island Sign Language\nRennellese Sign Language"
+  },
+  "identifier": {
+    "multitree": "rsi",
+    "endangeredlanguages": "5349"
+  },
+  "iso_retirement": {
+    "change_request": "2016-002",
+    "remedy": "Retire",
+    "code": "rsi",
+    "name": "Rennellese Sign Language",
+    "effective": "2017-01-31",
+    "reason": "non-existent",
+    "change_to": ""
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2022-12-02T15:26:38",
+    "comment": "Rennell Island Sign Language (rsi-rsi) = 10 (Extinct)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "core": {
+    "name": "Tapieté",
+    "hid": "tpj",
+    "level": "language",
+    "iso639-3": "tpj",
+    "latitude": "-21.4169",
+    "longitude": "-62.684",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BO",
+      "PY"
+    ],
+    "links": "\n[Tapiete](https://endangeredlanguages.com/lang/2921)\nhttps://www.wikidata.org/entity/Q3121063\nhttps://phoible.org/languages/tapi1253\n[Tapieté](https://wals.info/languoid/lect/wals_code_tpt)"
+  },
+  "classification": {
+    "sub": "**hh:g:Gonzalez:Tapiete**",
+    "subrefs": "\n**hh:g:Gonzalez:Tapiete**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:gonzales:05**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**fabreall2009ann:7114**\n**fabreall2009ann:Tupi_chiriguano006**\n**fabreall2009ann:Tupi_chiriguano007**\n**fabreall2009ann:Tupi_chiriguano023**\n**fabreall2009ann:Tupi_chiriguano029**\n**fabreall2009ann:Tupi_chiriguano057**\n**fabreall2009ann:Tupi_chiriguano062**\n**fabreall2009ann:Tupi_chiriguano063**\n**fabreall2009ann:Tupi_chiriguano064**\n**fabreall2009ann:Tupi_chiriguano085**\n**fabreall2009ann:Tupi_chiriguano120**\n**fabreall2009ann:Tupi_chiriguano162**\n**fabreall2009ann:Tupi_chiriguano194**\n**fabreall2009ann:Tupi_chiriguano206**\n**hh:e:Nordenskiold:Tapiete**\n**hh:e:delCampana:Tapihete**\n**hh:ew:Palavecino:Tapiete**\n**hh:g:Gonzalez:Tapiete**\n**hh:hvw:Firestone:Tupi-Guarani**\n**hh:hw:Nordenskiold:B5858**\n**hh:ld:Gonzalez:Tapietes**"
+  },
+  "altnames": {
+    "glottolog": "\nTapiete",
+    "wals": "\nTapieté",
+    "wals other": "\nGuarayu (Paraguay)\nGuarayú",
+    "ruhlen (1987)": "\nGuarayú",
+    "moseley & asher (1994)": "\nTapiete",
+    "multitree": "\nApytare\nCaingua\nChiripá\nChiripá-Nyandeva\nGuarayo\nGuarayú\nGuaráyoan\nGuasurango\nGuasurangue\nKaiwá\nKayová\nMbiá\nMbua\nMbya\nNandeva\nNhandeva\nTapiete\nTapieté\nTirumbae\nTsiripá\nTxiripá\nYanaigua\nÑanagua\nÑandeva",
+    "lexvo": "\nTapieté [en]\nTapietų kalba [lt]",
+    "hhbib_lgcode": "\nTapiete\nTapihete",
+    "elcat": "\nAva\nChané\nChiriguano\nIzoceño [Isosó\nIzozó]\nSimba\nTapiete"
+  },
+  "triggers": {
+    "lgcode": "\ntapiete\nsocilinguistico\ntapietes\nsprache AND guarayo"
+  },
+  "identifier": {
+    "wals": "tpt",
+    "multitree": "gryu;tpj",
+    "endangeredlanguages": "2921"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tapiete (2921-tpj) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

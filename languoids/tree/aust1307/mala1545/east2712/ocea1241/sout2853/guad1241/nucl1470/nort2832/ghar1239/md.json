@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ghari",
+    "hid": "gri",
+    "level": "language",
+    "iso639-3": "gri",
+    "latitude": "-9.4791",
+    "longitude": "159.917",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Ghari](https://grambank.clld.org/languages/ghar1239)\n[Ghari (Tandai)](https://lexibank.clld.org/languages/abvdoceanic-GhariTandai)\nhttps://en.wikipedia.org/wiki/Ghari_language\nhttps://www.wikidata.org/entity/Q3104782"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tryon:hackman:83**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Codrington:Vaturana**\n**hh:phon:Todd:Qae**\n**hh:s:Bouillon:Sugu**\n**hh:s:Ivens:Vaturanga**\n**sil16:18821**"
+  },
+  "altnames": {
+    "multitree": "\nGari\nGhari\nGuadalcanar\nSughu\nSüdliche Salomons-Inseln\nTangarare\nWest Guadalcanal",
+    "lexvo": "\nGhari [en]\nGhari language [en]",
+    "hhbib_lgcode": "\nSughu\nSugu\nVaturanga (Ndi)\nW. Guadalcanal Nggae-Ndi-Nggeri-Tandai-Ghari-Nginia"
+  },
+  "triggers": {
+    "lgcode": "\nvaturana\nasking\nvaturanga"
+  },
+  "identifier": {
+    "multitree": "gri"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Guadalcanal-Nggelic**",
+    "subrefs": "\n**hh:hv:Pawley:Guadalcanal-Nggelic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ghari (gri-gri) = 5 (Developing)."
+  }
+}

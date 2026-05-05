@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Miami",
+    "hid": "mia",
+    "level": "language",
+    "iso639-3": "mia",
+    "latitude": "40.0",
+    "longitude": "-90.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Illinois](https://wals.info/languoid/lect/wals_code_ill)\n[Miami](https://grambank.clld.org/languages/miam1252)\n[Miami-Illinois](https://endangeredlanguages.com/lang/1924)\nhttps://en.wikipedia.org/wiki/Miami%E2%80%93Illinois_language\nhttps://www.wikidata.org/entity/Q56523",
+    "timespan": "1989-01-01/1989-01-01"
+  },
+  "classification": {
+    "sub": "**hh:g:Costa:Miami-Illinois**:1",
+    "subrefs": "\n**hh:g:Costa:Miami-Illinois**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baldwin:20**\n**cldf:center:13**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:costa:91**\n**cldf:costa:99**\n**cldf:cowan:ed:91:1**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:kinietz:40:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:morgan:71**\n**cldf:np:12:5**\n**cldf:np:13:14**\n**cldf:white:white:90**\n**hh:d:BaldwinCosta:Miami**\n**hh:d:Masthay:Kaskaskia**\n**hh:e:Callender:Illinois**\n**hh:e:Callender:Miami**\n**hh:g:Costa:Miami-Illinois**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:typ:Costa:Miami-Illinois:2017**\n**hh:w:Handy:Miami**\n**ldh:item_1943442**\n**mpieva:Handy2001Handysvo**"
+  },
+  "altnames": {
+    "wals": "\nIllinois",
+    "wals other": "\nIllinois (Wea)\nWea",
+    "ruhlen (1987)": "\nMiami",
+    "moseley & asher (1994)": "\nIllinois",
+    "multitree": "\nIllinois\nMiami\nMiami Cluster\nMiami-Illinois\nMiami-Myaamia\nMiami-illinois\nPeoria\nPiankishaw",
+    "lexvo": "\nLíngua Miami-Illinois [pt]\nMiami [en]\nMiami-Illinois language [en]\nMiami-illinois [fr]\nMiamieg [br]",
+    "hhbib_lgcode": "\nCahokia-Kaskaskia-Michigamea-Peoria-Tamaroa\nIllinois\nMiamis",
+    "elcat": "\nIllinois\nMiami\nMiami Cluster\nMiami-Illinois\nMiami-Myaamia\nMyaamia\nPeoria\nPiankishaw\nWea"
+  },
+  "triggers": {
+    "lgcode": "\nmiami\nkaskaskia"
+  },
+  "identifier": {
+    "wals": "ill",
+    "multitree": "mia",
+    "endangeredlanguages": "1924"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Miami-Illinois (1924-mia) = Awakening [Baldwin 2020](cldf:baldwin:20)"
+  }
+}

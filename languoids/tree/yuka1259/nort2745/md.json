@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Northern Yukaghir",
+    "hid": "ykg",
+    "level": "language",
+    "iso639-3": "ykg",
+    "latitude": "70.498",
+    "longitude": "157.853",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Northern Yukaghir](https://grambank.clld.org/languages/nort2745)\n[Northern Yukaghir](https://lexibank.clld.org/languages/northeuralex-ykg)\n[Tundra Yukagir](https://endangeredlanguages.com/lang/3024)\n[Yukaghir (Tundra)](https://wals.info/languoid/lect/wals_code_ytu)\nhttps://en.wikipedia.org/wiki/Tundra_Yukaghir_language\nhttps://phoible.org/languages/nort2745\nhttps://www.wikidata.org/entity/Q56319"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0127**\n**anla:SY982V1991**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:humphreys:mits:ed:93**\n**cldf:jochelson:19**\n**cldf:krejnovich:58:2**\n**cldf:krejnovich:68:1**\n**cldf:kreynovich:79**\n**cldf:kurilov:01**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**hh:d:Atlasova:Tundrenyj**\n**hh:d:Kurilov:Jukagirsko**\n**hh:d:Kurilov:Jukagirsko:1990**\n**hh:e:Ivanov:Iukagir**\n**hh:g:Krejnovich:Yukagirskij**\n**hh:g:Krejnovich:Yukagirskomu**\n**hh:g:Schmalz:Tundra-Yukaghir**\n**hh:s:Kurilov:Yukagirskij**\n**hh:s:Maslova:Tundra**\n**hh:t:Maslova:Yukaghir**\n**mpieva:Angere1956Dieuralo**\n**mpieva:Collinder1940Jukagiri**\n**mpieva:Krejnovic1982Issledov**\n**mpieva:Kurilov1975Novyelju**\n**mpieva:Kurilov1977Sloznyei**"
+  },
+  "altnames": {
+    "wals": "\nYukaghir (Tundra)",
+    "wals other": "\nTundra Yukaghir\nTundra dialect\nYukaghir",
+    "ruhlen (1987)": "\nYukaghir",
+    "moseley & asher (1994)": "\nYukaghir",
+    "multitree": "\nJukagir\nJukagirisch\nNorthern Yukagir\nOdul\nTundra\nTundre\nYukaghir\nYukaghir (Northern)\nYukaghir (Tundra)\nYukaghir, Northern\nYukagir",
+    "lexvo": "\nNordjukagiriska [sv]\nNordjukagirsk språk [nn]\nNorthern Yukaghir [en]\nPohjoisjukagiirin kieli [fi]\nSjevernojukagirski jezik [hr]\nTundra Yukaghir language [en]\nYoukagireg an hanternoz [br]\nСеверноюкагирский язык [ru]",
+    "hhbib_lgcode": "\nAlaji\nMostly Alaji\nTundra Yukaghir\nYukaghir-Northern",
+    "elcat": "\nNorthern Yukagir\nTundra Yukagir\nVadul Yukaghir\ncеверноюкагирский язык\npohjoisjukagiirin kieli\nВадун аруу\nвадульский юкагирский язык"
+  },
+  "triggers": {
+    "lgcode": "\nurverwandtschaft\njukagirskij\nyukagirskij\njukagirisch\njukagirskomu\nnovye\njukagirsko\njukagirskom"
+  },
+  "identifier": {
+    "wals": "genus/yukaghir",
+    "multitree": "ykg",
+    "endangeredlanguages": "3024"
+  },
+  "classification": {
+    "sub": "**hh:vw:Nikolaeva:Chuvan-Omok**",
+    "subrefs": "\n**hh:vw:Nikolaeva:Chuvan-Omok**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tundra Yukagir (3024-ykg) = Critically Endangered (80 percent certain, based on the evidence available) [Salminen 2000](cldf:salminen:00)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Peruvian Sign Language",
+    "hid": "prl",
+    "level": "language",
+    "iso639-3": "prl",
+    "latitude": "-11.9008",
+    "longitude": "-76.8213",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\n[Peruvian Sign Language](https://endangeredlanguages.com/lang/7115)\nhttps://www.wikidata.org/entity/Q3915508\nhttps://en.wikipedia.org/wiki/Peruvian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:np:nd:212**\n**cldf:simons;:fennig:ed:13**\n**hh:d:NA:Senas-Peruana**\n**hh:ld:Cuti:Senas-Peruana**\n**hh:soc:Garcias:Lenguaje-Senas**\n**hh:soc:ParksParks:Deaf-Peru**\n**hh:soc:ParksParks:Sorda-Peru**\n**hh:typ:Madrid:Senas-Peruana**\n**hh:v:Parks:Sign-Language-Comparisons**"
+  },
+  "altnames": {
+    "multitree": "\nPeruvian Sign Language",
+    "lexvo": "\nPeruvian Sign Language [en]",
+    "hhbib_lgcode": "\nLengua de Señas Peruana\nLengua de señas peruana\nLenguaje de señas\nSign Language in Arequipa\nSign Language in Chiclayo\nSign Language in Cusco\nSign Language in Iquitos\nSign Language in Lima",
+    "elcat": "\nLSP\nLengua de Signos Peruana\nLenguaje de Señas Peruanas\nLenguaje de Señas Peruano\nPeruvian Sign Language"
+  },
+  "identifier": {
+    "multitree": "prl",
+    "endangeredlanguages": "7115"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Peruvian Sign Language (7115-prl) = Threatened (60 percent certain, based on the evidence available) (In every city we visited, there were families with deafness inherited through generations. In the majority of these families, sign language was passed down from generation to generation, but some of them spoke more than signed at home, depending on their level of hearing loss. According to thirty-two deaf questionnaire participants, the majority of deaf people do not learn a sign language until after age nine.\"\n\"Although there are diverse forms of LSP used throughout the country, LSP is not likely to die since large numbers of Peruvian deaf people are eager to protect and use it.) [Parks and Parks 2009](cldf:parks:parks:09)"
+  },
+  "classification": {
+    "sub": "Lexical similarity (**hh:g:Clark:Sivia-Sign**:17-18, **hh:v:Parks:Sign-Language-Comparisons**:82). Internal coherence shown by **hh:soc:ParksParks:Sorda-Peru(**).",
+    "subrefs": "\n**hh:g:Clark:Sivia-Sign**\n**hh:v:Parks:Sign-Language-Comparisons**\n**hh:soc:ParksParks:Sorda-Peru**"
+  }
+}

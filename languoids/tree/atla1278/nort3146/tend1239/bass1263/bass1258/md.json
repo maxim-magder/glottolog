@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Bassari-Tanda",
+    "hid": "bsc",
+    "level": "language",
+    "iso639-3": "bsc",
+    "latitude": "12.4529",
+    "longitude": "-13.3495",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Bassari](https://endangeredlanguages.com/lang/7713)\nhttps://www.wikidata.org/entity/Q35098\nhttps://en.wikipedia.org/wiki/Bassari_language\n[Basari](https://wals.info/languoid/lect/wals_code_bsr)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adjanohoun:others:86**\n**cldf:badie:nd**\n**cldf:barros:85**\n**cldf:bearth:00**\n**cldf:bnantim:94**\n**cldf:boethius:80**\n**cldf:childs:06**\n**cldf:cornevin:54**\n**cldf:cornevin:62**\n**cldf:cornevin:64**\n**cldf:cox:71**\n**cldf:cox:74**\n**cldf:cox:75**\n**cldf:cox:77**\n**cldf:cox:78**\n**cldf:cox:86**\n**cldf:cox:abbott:66**\n**cldf:crunden:79**\n**cldf:crunden:81**\n**cldf:crunden:84**\n**cldf:ed:10**\n**cldf:froelich:alexandre:60**\n**cldf:gaisser:12**\n**cldf:hahn:91:1**\n**cldf:hupfeld:99:1**\n**cldf:hupfeld:99:2**\n**cldf:huppenbauer:16**\n**cldf:klose:03:2**\n**cldf:kohler:80**\n**cldf:kozelka:84**\n**cldf:kroppdakubu:77**\n**cldf:lestrange:50**\n**cldf:lewis:ed:09**\n**cldf:mukarovsky:81**\n**cldf:np:nd:264**\n**cldf:westermann:35:2**\n**eballiso2009:10253**\n**eballiso2009:10254**\n**eballiso2009:10255**\n**eballiso2009:10256**\n**eballiso2009:11473**\n**eballiso2009:2054**\n**eballiso2009:2055**\n**eballiso2009:23745**\n**eballiso2009:23749**\n**eballiso2009:23750**\n**eballiso2009:23753**\n**eballiso2009:23754**\n**eballiso2009:23756**\n**eballiso2009:28191**\n**eballiso2009:37851**\n**eballiso2009:41135**\n**eballiso2009:46059**\n**eballiso2009:51069**\n**eballiso2009:53273**\n**eballiso2009:56369**\n**hh:e:Delacour:Tenda**\n**hh:e:Gessain:Kedougou**\n**hh:e:Gessain:Tanda-Tombali**\n**hh:e:deLestrange:Coniagui-Bassari**\n**hh:ed:Ferry:Tenda**\n**hh:g:Kane:Oniyan**\n**hh:g:Perrin:Basari**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hdial:JenkinsAmdahl:Tenda**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hel:Sommer:Survey**\n**hh:hv:Doneux:Senegal**\n**hh:hv:Ka:Senegalese**\n**hh:hvld:Kane:Numeration-Ouest-Atlantiques-Mande**\n**hh:hvs:Wilson:Atlantic**\n**hh:ld:Santos:Tenda-Boin**\n**hh:phon:Santos:Boin-Tenda**\n**hh:s:Ferry:Basari**\n**hh:s:Perrin:Bassari:2024**\n**hh:s:WintersWinters:Oniyan**\n**hh:vld:Ferry:Tenda**\n**hh:vw:Ferry:Basari-Bedik**\n**hh:w:Gessain:Coniagui-Bassari**\n**iso6393:2007-034**"
+  },
+  "altnames": {
+    "wals": "\nBasari",
+    "ruhlen (1987)": "\nBasari",
+    "moseley & asher (1994)": "\nBasari",
+    "multitree": "\nAyan\nBasari\nBasarí\nBassari\nBiyan\nOnian\nOnëyan\nTenda Basari\nWo",
+    "lexvo": "\nBassari [en]\nOniyan [en]",
+    "hhbib_lgcode": "\nAne Oniyan in SW Kédougou on the Guinea border\nBasari\nBassari\nBassari Boké\nBassari Youkounkoun\nBassari de Ndama\nBassari who converted to islam\nOniyan\nTanda-Cacine\nTenda Boin",
+    "elcat": "\nAyan\nBasari\nBassari\nBiyan\nOnian\nOnëyan\nTenda Basari\nWo"
+  },
+  "triggers": {
+    "lgcode": "\nmanli\nncham\ntobote\ntogolaise\nbasarivolk\nncam\nkedougou\nvermischte\nzwolf\nbassars\nvaut\nbassari\ntchambi\nbasari\nlallogement\nlinangmanli\neisenindustrie\nntcham\nbedik\nboin\nchamps"
+  },
+  "identifier": {
+    "wals": "bsr",
+    "multitree": "bsc",
+    "endangeredlanguages": "7713"
+  },
+  "classification": {
+    "sub": "**hh:hv:Segerer:Atlantic-Isolates**",
+    "subrefs": "\n**hh:hv:Segerer:Atlantic-Isolates**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bassari (7713-bsc) = Vulnerable (20 percent certain, based on the evidence available) (Seriously threatened and doomed to extinction in the near future.) [Childs 2006](cldf:childs:06)"
+  }
+}

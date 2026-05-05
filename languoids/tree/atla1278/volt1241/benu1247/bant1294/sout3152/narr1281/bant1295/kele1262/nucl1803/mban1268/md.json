@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mbangwe",
+    "hid": "zmn",
+    "level": "language",
+    "iso639-3": "zmn",
+    "latitude": "-2.28729",
+    "longitude": "13.5956",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35928\nhttps://en.wikipedia.org/wiki/Mbangwe_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:13061**\n**eballiso2009:48210**\n**hh:hb:Idiata:Gabon**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvtyp:Jacquot:B10-B20-B30**\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:phon:Ovono:Mbani**\n**hh:w:Akaba:Mbangwe**"
+  },
+  "altnames": {
+    "multitree": "\nM'bahouin\nMbahouin\nMbangwe",
+    "lexvo": "\nMbangwe [en]",
+    "hhbib_lgcode": "\nB23_Mbangwe\nMbangwe B23\nMbani\nMbaouin (Mbangwe)\nMbaŋi\nMbaŋwɛ"
+  },
+  "triggers": {
+    "lgcode": "\nmbangw\nb23\nosyeba"
+  },
+  "identifier": {
+    "multitree": "zmn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359-363 **hh:hvw:Koumbi:Kota-Kele**",
+    "subrefs": "\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbangwe (zmn-zmn) = 6b* (Threatened)."
+  }
+}

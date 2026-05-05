@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Nayinic",
+    "hid": "nyq",
+    "level": "language",
+    "iso639-3": "nyq",
+    "latitude": "34.2212",
+    "longitude": "53.521",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Nayini](https://endangeredlanguages.com/lang/4909)\nhttps://www.wikidata.org/entity/Q6983146\nhttps://en.wikipedia.org/wiki/Nayini_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Sotuda:Naini**\n**hh:hv:Krahnke:Central-Iran**\n**hh:hvs:MannHadank:Kurdisch-Persische**\n**hh:hvst:Lecoq:Kermaniens**\n**hh:s:Naini:Naini**\n**hh:w:Ivanow:Central-Persian**\n**hh:w:Kanus-Crede:Anarak**\n**hh:w:Kiya:Irani**\n**hh:wtyp:Querry:Nayin**"
+  },
+  "altnames": {
+    "multitree": "\nBiyabanak\nNayini\nNayiní",
+    "lexvo": "\nNayini [en]",
+    "hhbib_lgcode": "\nAnarak\nAnaraki\nAnāraki\nFarvi\nKhur and Mihrijan\nKhuri\nNa'ini\nNain\nNayin\nNayini\nNāʻīnī\nNāini\nNāʻīnī\nXuri",
+    "elcat": "\nBiyabanak\nNayini",
+    "glottolog": "\nNayini"
+  },
+  "triggers": {
+    "lgcode": "\nnayin\nmihrijan\nkhur\nanarak"
+  },
+  "identifier": {
+    "multitree": "nyq",
+    "endangeredlanguages": "4909"
+  },
+  "classification": {
+    "sub": "**hh:h:Lecoq:CIran** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:h:Lecoq:CIran**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Nayini (4909-nyq) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

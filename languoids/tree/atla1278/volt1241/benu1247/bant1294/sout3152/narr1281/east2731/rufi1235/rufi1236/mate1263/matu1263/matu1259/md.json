@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Matumbi",
+    "hid": "mgw",
+    "level": "language",
+    "iso639-3": "mgw",
+    "latitude": "-8.53734",
+    "longitude": "39.0409",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Matumbi](https://grambank.clld.org/languages/matu1259)\n[Matuumbi](https://wals.info/languoid/lect/wals_code_mtb)\nhttps://en.wikipedia.org/wiki/Matumbi_language\nhttps://phoible.org/languages/matu1259\nhttps://www.wikidata.org/entity/Q6791974"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:odden:81**\n**cldf:odden:84**\n**cldf:odden:87**\n**eballiso2009:12386**\n**eballiso2009:13866**\n**eballiso2009:15792**\n**eballiso2009:17245**\n**eballiso2009:17247**\n**eballiso2009:23532**\n**eballiso2009:28707**\n**eballiso2009:3832**\n**eballiso2009:39291**\n**eballiso2009:411**\n**eballiso2009:46220**\n**eballiso2009:46617**\n**eballiso2009:47231**\n**eballiso2009:49691**\n**eballiso2009:50699**\n**eballiso2009:51733**\n**eballiso2009:51737**\n**eballiso2009:51740**\n**eballiso2009:57998**\n**eballiso2009:62**\n**eballiso2009:7057**\n**eballiso2009:76**\n**eballiso2009:8068**\n**hh:d:Krumm:Kimatumbi**\n**hh:g:Odden:Kimatuumbi**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:Odden:Rufiji-Ruvuma**\n**hh:hvtyp:Philippson:OBantu:Tons**\n**hh:s:Krumm:Matuumbi**\n**mpieva:Odden2002Thephono**"
+  },
+  "altnames": {
+    "wals": "\nMatuumbi",
+    "wals other": "\nKimatumbi\nKimatuumbi",
+    "ruhlen (1987)": "\nMatumbi",
+    "moseley & asher (1994)": "\nMatumbi",
+    "multitree": "\nKimatumbi\nMatumbi\nMatuumbi",
+    "lexvo": "\nMatumbi [en]\nMatumbi language [en]",
+    "hhbib_lgcode": "\nMatuumbi as a representative of P10\nP13_Matumbi"
+  },
+  "triggers": {
+    "lgcode": "\nmatumbi\nkimatuumbi\nkimatumbi"
+  },
+  "identifier": {
+    "wals": "mtb",
+    "multitree": "mgw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:SWTanzania**:93 **hh:hv:Gonzales:Southern-Tanzania**",
+    "subrefs": "\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:Gonzales:Southern-Tanzania**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Matumbi (mgw-mgw) = 6a (Vigorous)."
+  }
+}

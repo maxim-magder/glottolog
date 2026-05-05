@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Klon",
+    "hid": "kyo",
+    "level": "language",
+    "iso639-3": "kyo",
+    "latitude": "-8.40688",
+    "longitude": "124.429",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kelon](https://endangeredlanguages.com/lang/2086)\n[Klon](https://grambank.clld.org/languages/kelo1247)\n[Klon](https://lexibank.clld.org/languages/robinsonap-klon)\n[Klon](https://lexibank.clld.org/languages/transnewguineaorg-klon)\nhttps://en.wikipedia.org/wiki/Klon_language\nhttps://www.wikidata.org/entity/Q6386414"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:baird:04**\n**cldf:lewis:ed:09**\n**hh:g:Baird:Klon**\n**hh:hv:Adhiti:Alor**\n**hh:hvw:Stokhof:Alor**\n**hh:styp:Banamtuan:Klon**\n**sil16:48332**"
+  },
+  "altnames": {
+    "multitree": "\nKalong\nKelon\nKelong",
+    "lexvo": "\nKelon [en]",
+    "hhbib_lgcode": "\n2xKelon\nHalerman\nKelon\nProbur",
+    "elcat": "\nKalong\nKelon\nKelong\nKlon"
+  },
+  "triggers": {
+    "lgcode": "\nklon"
+  },
+  "identifier": {
+    "multitree": "kyo",
+    "endangeredlanguages": "2086"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kelon (2086-kyo) = Threatened (100 percent certain, based on the evidence available) (Though most of the community speaks Klon, Baird notes that \"A significant proportion\" of Klon children do not use Klon while playing with other Klon children. There is a growing trend for parents to speak only Malay to their children.) [Baird 2008](cldf:baird:08)"
+  }
+}

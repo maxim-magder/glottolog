@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Swabian",
+    "hid": "swg",
+    "level": "language",
+    "iso639-3": "swg",
+    "latitude": "48.386796",
+    "longitude": "9.987111",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Swabian_German\nhttps://www.wikidata.org/entity/Q327274"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:FischerPfleiderer:Schwabisches**\n**hh:dial:Braun:Heilbronn**\n**hh:dialvsoc:Klausmann:Schwabisch**\n**hh:g:Frey:Schwabisch**\n**hh:phond:Brechenmacher:Schwabische**\n**hh:s:Bohnenberger:Wurttembergs**\n**hh:s:Ehrhardt:Schwabische-Westpreussen**\n**hh:s:Fiess:Sarata-Bessarabien**\n**hh:s:Hahn:Lichtental**\n**hh:s:Irion:Bukowina**\n**hh:s:Moser:Schwabische**\n**hh:s:Russ:Swabian**\n**hh:s:Schirmunski:Schwabischen**\n**hh:s:Vogt:Deufringen**\n**hh:s:White:Swabian**\n**hh:t:Kramer:Dornfeld**\n**iso6393:2011-180**"
+  },
+  "altnames": {
+    "multitree": "\nSchwaebisch\nSchwäbisch\nSuabian\nSwabian",
+    "lexvo": "\nDialetto svevo [it]\nIdioma suabo [es]\nLengua sveva [lij]\nLingua Suebica [la]\nSchwabisk [no]\nSchwäbisch [gsw]\nSchwäbische Dialekte [de]\nSchwäbsch [nds]\nSouabe [fr]\nSwabeg [br]\nSwabian German [en]\nSwabian [en]\nSwabiese Duits [af]\nZwabisch [nl]",
+    "hhbib_lgcode": "\nDornfeld in Galizien\nLichtental\nSarata in Bessarabien\nSathmar Schwäbian\nSchwabian\nSchwäbisch\nSchwäbische Kolonie bei Kulm im ehemaligen Westpreußen"
+  },
+  "triggers": {
+    "lgcode": "\ngrundlegung\nschwabisch\nschaffenden\ndeufringen\nstuttgarter\ntranskaukasien\ndeutschunterrichts\nlehrbeispielen\nlauten\nsudukraine\nschwabischen\nschwabische\nschwabisches\nsprachkunde\nidiolekts\nbodenstandigen\nswabian\nwurttembergs\nheimatkundliche"
+  },
+  "identifier": {
+    "multitree": "swg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**:829-837",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Alemannic (1011-gsw, swg, wae) = Vulnerable; Töitschu (1344-gsw, swg, wae) = Severely endangered"
+  }
+}

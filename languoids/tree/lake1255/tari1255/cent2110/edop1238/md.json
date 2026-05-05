@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Edopi",
+    "hid": "dbf",
+    "level": "language",
+    "iso639-3": "dbf",
+    "latitude": "-3.11078",
+    "longitude": "137.387",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Edopi](https://lexibank.clld.org/languages/transnewguineaorg-edopi)\nhttps://www.wikidata.org/entity/Q12953516"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hphon:ClouseClouse:WLakes-Plain**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:s:Kim:Edopi**\n**hh:s:Kim:Edopi-Notes**\n**sil16:21665**\n**sil16:22213**\n**sil16:37311**\n**sil16:37784**"
+  },
+  "altnames": {
+    "multitree": "\nDosobou\nDou\nDoufou\nEdopi\nElopi\nFoi\nIau\nTuru\nUrundi\nUruri\nYau",
+    "lexvo": "\nEdopi [en]",
+    "hhbib_lgcode": "\nElopi"
+  },
+  "triggers": {
+    "lgcode": "\nelopi\nedopi"
+  },
+  "identifier": {
+    "multitree": "dbf"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Edopi (dbf-dbf) = 6b* (Threatened)."
+  }
+}

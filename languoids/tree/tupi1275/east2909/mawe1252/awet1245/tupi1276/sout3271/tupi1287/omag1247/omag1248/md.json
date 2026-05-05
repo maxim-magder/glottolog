@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Omagua",
+    "hid": "omg",
+    "level": "language",
+    "iso639-3": "omg",
+    "latitude": "-3.526",
+    "longitude": "-69.1667",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "PE"
+    ],
+    "links": "\n[Omagua](https://endangeredlanguages.com/lang/862)\n[Omagua](https://lexibank.clld.org/languages/gerarditupi-Omagua)\n[Omagua](https://lexibank.clld.org/languages/lundgrenomagoa-Omagua)\n[Omagua](https://wals.info/languoid/lect/wals_code_oma)\nhttps://en.wikipedia.org/wiki/Omagua_language\nhttps://phoible.org/languages/omag1248\nhttps://www.wikidata.org/entity/Q33663",
+    "timespan": "2023-01-01/2023-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4724**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:12:3**\n**cldf:decultura:nd**\n**cldf:durbin:seijas:73**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:184**\n**cldf:pozzi-escot:ed:98:21**\n**cldf:vallejos:10**\n**hh:d:OHagan:Omagua**\n**hh:e:Oberem:Oriente-Ecuatoriano**\n**hh:e:Porro:Omagua**\n**hh:h:Veigl:Maynensis**\n**hh:h:vonMurr:Glotticae**\n**hh:he:ChirifMora:Comunidades-Nativas**\n**hh:hew:Gilij:Americana**\n**hh:ht:Marietti:CCL**\n**hh:hv:Michael:Tupi-Guarani**\n**hh:hv:Uriarte:Amazonia-Peruana**\n**hh:hv:WautersOHagan:Omagua-Kokama**\n**hh:hvphon:Lundgren:Omagua-Kokama-Tupinamba**\n**hh:hvs:OHagan:Omagua-Kokama**\n**hh:hvw:Brinton:American**\n**hh:hvw:Hervas:Poligloto**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Tessmann:NOPerus**\n**hh:hw:Martius:Brasiliens**\n**hh:phon:Sandy:Omagua**\n**hh:phon:deSouza:Omagua**\n**hh:s:MichaelOHagan:Old-Omagua**\n**hh:s:MichaelOHagan:Old-Omagua:2016**\n**hh:typ:Dietrich:Omagua**\n**hh:typ:Huamancayo:Umahua**\n**hh:vsoc:Michael:Omagua-Kokama**\n**hh:w:Rivet:Cocama-Omagua**\n**hh:w:Tastevin:Cambeua**"
+  },
+  "altnames": {
+    "wals": "\nOmagua",
+    "moseley & asher (1994)": "\nOmagua",
+    "multitree": "\nAgua\nAnapia\nAriana\nCambeba\nCambeeba\nCambela\nCampeba\nCanga-Peba\nCompeva\nJanbeba\nKambeba\nMacanipa\nOmagua\nOmagua (Brésil)\nOmagua (Perú)\nOmagua (Pérou)\nOmagua-Campeva\nOmagua-Yete\nOmawa-Kampeva\nPariana\nUmaua\nYhuata",
+    "lexvo": "\nOmagua [en]",
+    "hhbib_lgcode": "\nHomagua\nHomaguaice\nOld Omagua\nOmagua: O'Hagan (p.c.)\nOmáguas\nUmahua",
+    "elcat": "\nAgua\nAnapia\nAriana\nCambeba\nCambeeba\nCambela\nCampeba\nCanga-Peba\nCompeva\nJanbeba\nKambeba\nMacanipa\nOmagua\nOmagua-Campeva\nOmagua-Yete\nOmawa-Kampeva\nPariana\nUmaua\nYhuata"
+  },
+  "triggers": {
+    "lgcode": "\ncambeua\nomagua\numaua AND karijona"
+  },
+  "identifier": {
+    "wals": "oma",
+    "multitree": "omg",
+    "endangeredlanguages": "862"
+  },
+  "classification": {
+    "sub": "**hh:hv:WautersOHagan:Omagua-Kokama**",
+    "subrefs": "\n**hh:hv:WautersOHagan:Omagua-Kokama**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Omagua (omg-omg) = 9 (Dormant)."
+  }
+}

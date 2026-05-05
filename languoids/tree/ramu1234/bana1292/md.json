@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Banaro",
+    "hid": "byz",
+    "level": "language",
+    "iso639-3": "byz",
+    "latitude": "-4.56615",
+    "longitude": "144.329",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Banaro](https://endangeredlanguages.com/lang/10640)\n[Banaro](https://lexibank.clld.org/languages/transnewguineaorg-banaro)\nhttps://en.wikipedia.org/wiki/Banaro_language\nhttps://www.wikidata.org/entity/Q56858"
+  },
+  "classification": {
+    "sub": "**hh:typ:Brooks:Chini**:69-76",
+    "subrefs": "\n**hh:typ:Brooks:Chini**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:thurnwald:16**\n**hh:e:Behrmann:Kaiserin-Augustafluss**\n**hh:e:Hays:Banaro**\n**hh:e:Juillerat:Tambaran**\n**hh:e:Thurnwald:Banaro**\n**hh:e:Thurnwald:Banaro:1916**\n**hh:hb:Zgraggen:Madang**\n**hh:he:Haberland:Sepik**\n**hh:he:Kasprus:Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Zgraggen:Madang**\n**hh:hvw:DaviesComrie:Yuat**\n**hh:nt:Butler:Waran**\n**hh:phon:Butler:Banaro**\n**hh:s:Butler:Banaro**\n**hh:typ:KillianBarlow:Deictic**\n**hh:w:Janzen:Waran-Ambakich**\n**hh:w:Laycock:D19**\n**hh:w:Laycock:D6**\n**hh:w:Zgraggen:Ramu**\n**hh:w:Zgraggen:Ramu:1974**"
+  },
+  "altnames": {
+    "multitree": "\nBanar\nBanara\nBanaro",
+    "lexvo": "\nBanaro [en]",
+    "elcat": "\nBanar\nBanara\nBanaro\nWaran",
+    "hhbib_lgcode": "\nBagaram\nBakaram\nBunaram (Bano) and Ramunga (Arome) on the Töpferfluss (Keram)\nWaran\nWaran Yar\nWestern Banaro of Likan (and Klorowom)"
+  },
+  "triggers": {
+    "lgcode": "\nbanaro"
+  },
+  "identifier": {
+    "multitree": "banr;byz",
+    "endangeredlanguages": "10640"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Banaro (10640-byz) = Threatened (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

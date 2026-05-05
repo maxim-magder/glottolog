@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kelantan-Pattani Malay",
+    "hid": "mfa",
+    "level": "language",
+    "iso639-3": "mfa",
+    "latitude": "6.38148",
+    "longitude": "101.41",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY",
+      "TH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kelantan%E2%80%93Pattani_Malay\nhttps://www.wikidata.org/entity/Q1199751"
+  },
+  "classification": {
+    "sub": "**hh:g:Tadmor:Malay-Nonthaburi**",
+    "subrefs": "\n**hh:g:Tadmor:Malay-Nonthaburi**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Tadmor:Malay-Central-Thailand**\n**hh:e:Fraser:Malay-Thailand**\n**hh:e:Fraser:Rusembilan**\n**hh:g:Tadmor:Malay-Nonthaburi**\n**hh:hv:Thavisak:Malay-Thailand**\n**hh:hvs:Omar:Susur-Galur-Melayu**\n**hh:hvs:Wu:Kelantan-Terengganu**\n**hh:ld:Teeranon:Tonal-Malay-Thailand**\n**hh:phon:Hamzah:Kelantan-Malay**\n**hh:phon:Mahmood:Kelantan**\n**hh:phon:Pakkhem:Pattani-Malay**\n**hh:phondial:Kob:Pasir-Mas**\n**hh:phont:Brown:Kelantan-Malay**\n**hh:phont:Brown:Trengganu**\n**hh:phonv:Chotikakamthorn:Satun-Pattani-Malay**\n**hh:phonv:Hasrah:Pasir-Raja**\n**hh:s:Mahmood:Kelantan**\n**hh:s:Mansor:Melayu-Terengganu**\n**hh:s:Onn:Malay**\n**hh:s:Safiah:Kelantan**\n**hh:s:Thawisak:Malayu**\n**hh:soc:Smalley:Pattani-Malay**\n**hh:typ:Karim:Melayu-Kelantan**\n**hh:w:Pepys:Kelantan**\n**hh:w:Sturrock:Kelantan**"
+  },
+  "altnames": {
+    "multitree": "\nMalay, Pattani\nPattani Malay\nThai Islam",
+    "lexvo": "\nBahasa Melayu Pattani [ms]\nPattani Malay [en]\nYawi [fr]\nYawi language [en]\nภาษามลายูปัตตานี [th]\nジャウィ語 [ja]\n亚维语 [zh]",
+    "hhbib_lgcode": "\nCoastal Terengganu\nCoastal Terengganu Malay from Kampung Gong Sentul Kuala Nerus\nKelantan\nKelantan Malay from Kampung Kusial Bharu in Tanah Merah\nKrabi\nMalay-Pattani\nNarathiwat\nPahang\nPasir Mas\nPathumthani\nPathumthani spoken in Ban Khlong Bang Pho Village Khu Bang Luang Subdistrict and Lad Lum Kaew District-Pathumthani Province\nPattani Malay\nTerengganu\nTerengganu Pesisir Pantai\nTrengganu\nUlu Tembeling dialect of Pahang Malay"
+  },
+  "triggers": {
+    "lgcode": "\npattani"
+  },
+  "identifier": {
+    "multitree": "mfa"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Patani Malay (149-) = Vulnerable"
+  }
+}

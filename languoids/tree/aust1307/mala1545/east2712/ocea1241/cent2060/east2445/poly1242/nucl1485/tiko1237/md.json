@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tikopia",
+    "hid": "tkp",
+    "level": "language",
+    "iso639-3": "tkp",
+    "latitude": "-12.2766",
+    "longitude": "168.822",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Tikopia](https://grambank.clld.org/languages/tiko1237)\n[Tikopia](https://lexibank.clld.org/languages/abvdoceanic-Tikopia)\n[Tikopia_155](https://lexibank.clld.org/languages/walworthpolynesian-Tikopia)\nhttps://en.wikipedia.org/wiki/Tikopia_language\nhttps://www.wikidata.org/entity/Q36682"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blake:hawkins:etal:83**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:firth:36:1**\n**cldf:firth:36:2**\n**cldf:firth:39**\n**cldf:firth:40:1**\n**cldf:firth:40:2**\n**cldf:firth:52**\n**cldf:firth:56**\n**cldf:firth:59:2**\n**cldf:firth:60**\n**cldf:firth:61**\n**cldf:firth:67**\n**cldf:firth:70**\n**cldf:firth:91**\n**cldf:macdonald:00**\n**cldf:np:14:2**\n**cldf:np:14:5**\n**cldf:treadaway:07**\n**cldf:yates:04**\n**hh:d:Firth:Tikopia**\n**hh:hvw:Ray:Polynesian:1912-1921**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hw:dUrville:Astrolabe**\n**hh:phon:Dodenhoff:Tikopia**\n**hh:s:Early:Tikopia**\n**hh:w:Williams:Tikopian**\n**mpieva:299**"
+  },
+  "altnames": {
+    "multitree": "\nSolomon Islands\nTikopia",
+    "lexvo": "\nTikopia [en]\nTikopia language [en]\nTikopian kieli [fi]\nTikopianische Sprache [de]",
+    "hhbib_lgcode": "\nTikopian"
+  },
+  "triggers": {
+    "lgcode": "\ntikopia\ntikopian\nvoabulary"
+  },
+  "identifier": {
+    "multitree": "tkp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian** **hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tikopia (tkp-tkp) = 5 (Developing)."
+  }
+}

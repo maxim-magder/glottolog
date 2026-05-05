@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Banggarla",
+    "hid": "bjb",
+    "level": "language",
+    "iso639-3": "bjb",
+    "latitude": "-33.3036",
+    "longitude": "136.079",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Banggarla](https://wals.info/languoid/lect/wals_code_bnl)\n[Barngarla](https://collection.aiatsis.gov.au/austlang/language/l6)\n[Barngarla](https://endangeredlanguages.com/lang/6649)\n[Parnkala](https://lexibank.clld.org/languages/bowernpny-Parnkala)\nhttps://en.wikipedia.org/wiki/Barngarla_language\nhttps://phoible.org/languages/bang1339\nhttps://www.wikidata.org/entity/Q3439071",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:park:13**\n**cldf:schuermann:44**\n**hh:ev:Fischer:Pankala**\n**hh:ew:Schurmann:Port-Lincoln**\n**hh:hv:Schmidt:Australischen**\n**hh:hv:SimpsonHercus:Thura-Yura**\n**hh:hvw:Mathew:Eaglehawk-Crow**\n**hh:hw:Eyre:Central-Australia**\n**hh:s:Clendon:Barngarla**\n**hh:sd:Schurmann:Parnkalla**\n**hh:v:Alpher:Lexicostatistics-Time-Scale**\n**hh:vw:HercusSimpson:Nauo**\n**hh:w:Grimwade:Narinjari**\n**hh:w:OGrady:Parnkalla-Karlamayi**\n**hh:w:Sawers:Gawler-Range**\n**hh:w:Taplin:Australian**\n**ozbib:1158**\n**ozbib:1855**\n**ozbib:2382**\n**ozbib:2787**\n**ozbib:3425**\n**ozbib:4340**\n**ozbib:4455**\n**ozbib:4730**\n**ozbib:5121**\n**ozbib:5320**\n**ozbib:5585**"
+  },
+  "altnames": {
+    "wals": "\nBanggarla",
+    "wals other": "\nParnkala\nParnkalla",
+    "ruhlen (1987)": "\nBanggarla",
+    "moseley & asher (1994)": "\nBanggarla",
+    "multitree": "\nArkaba-tura\nBahanga-La\nBahanga-la\nBahngala\nBangala\nBanggala\nBanggarla\nBarngarla\nBungala\nBungeha\nBungela\nKooapidna\nKortabina\nPakarla\nPangkala\nPankala\nPankalla\nPankarla\nParkalla\nParn-ka-la\nParnkala\nParnkalla\nPunkalla\nPunkirla\nWanbirujurari\nWillara\nWilleuroo",
+    "lexvo": "\nBanggarla [en]",
+    "hhbib_lgcode": "\nBarngarla\nPankala\nParnkalla\nParnkalla or Port Lincoln",
+    "elcat": "\nArkaba-tura\nBahanga-La\nBahanga-la\nBahngala\nBangala\nBanggala\nBanggarla\nBarngarla\nBungala\nBungeha\nBungela\nKooapidna\nKortabina\nPakarla\nPangkala\nPankala\nPankalla\nPankarla\nParkalla\nParn-ka-la\nParnkala\nParnkalla\nPunkalla\nPunkirla\nWanbirujurari\nWillara\nWilleuroo",
+    "aiatsis": "\nArkaba tura\nBa:Nggala\nBa:njgala\nBahanga la\nBahn gala\nBahngala\nBangala\nBangalla\nBanggala\nBanggarla\nBarngarla\nBungala\nBungeha\nBungela\nKooapidna\nKooapudna\nKortabina\nPan karla\nPangkala\nPangkarla\nPankala\nPankalla\nPankarla\nParkalla\nParn kal la\nParnkala\nPunkalla\nPunkirla\nWanbirujurari\nWillara\nWilleuroo"
+  },
+  "triggers": {
+    "lgcode": "\nparnkalla\nparnkala\ngawler"
+  },
+  "identifier": {
+    "wals": "bnl",
+    "multitree": "bjb",
+    "endangeredlanguages": "6649"
+  },
+  "classification": {
+    "sub": "**hh:hv:SimpsonHercus:Thura-Yura** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hv:SimpsonHercus:Thura-Yura**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Barngarla (6649-bjb) = Awakening [Park 2013](cldf:park:13)"
+  }
+}

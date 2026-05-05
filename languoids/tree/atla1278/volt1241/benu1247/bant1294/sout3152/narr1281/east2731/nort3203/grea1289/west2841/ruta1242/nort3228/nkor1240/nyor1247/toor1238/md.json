@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tooro",
+    "hid": "ttj",
+    "level": "language",
+    "iso639-3": "ttj",
+    "latitude": "0.57291",
+    "longitude": "30.6389",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "UG"
+    ],
+    "links": "\n[Tooro](https://grambank.clld.org/languages/toor1238)\nhttps://en.wikipedia.org/wiki/Tooro_language\nhttps://www.wikidata.org/entity/Q7824218"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:taylor:62:2**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:16218**\n**eballiso2009:17927**\n**eballiso2009:19685**\n**eballiso2009:23689**\n**eballiso2009:27249**\n**eballiso2009:28707**\n**eballiso2009:32975**\n**eballiso2009:32976**\n**eballiso2009:33914**\n**eballiso2009:35818**\n**eballiso2009:36754**\n**eballiso2009:38713**\n**eballiso2009:40900**\n**eballiso2009:4102**\n**eballiso2009:4144**\n**eballiso2009:41809**\n**eballiso2009:45668**\n**eballiso2009:46608**\n**eballiso2009:47812**\n**eballiso2009:47813**\n**eballiso2009:49563**\n**eballiso2009:5230**\n**eballiso2009:5233**\n**eballiso2009:5236**\n**eballiso2009:53306**\n**eballiso2009:54026**\n**eballiso2009:54257**\n**eballiso2009:56113**\n**eballiso2009:59521**\n**eballiso2009:59764**\n**eballiso2009:59862**\n**hh:d:Kaji:Rutooro**\n**hh:g:Rubongoya:Runyoro-Rutooro**\n**hh:h:Ladefogedetal:Uganda**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Johnston:Uganda:2**\n**hh:typ:Katushemererwe:Runyakitara**"
+  },
+  "altnames": {
+    "multitree": "\nOrutoro\nRutooro\nRutoro\nTooro\nToro",
+    "lexvo": "\nTooro [en]",
+    "hhbib_lgcode": "\nJE12_Rutooro\nRutooro\nToro-Songora\nUrutoro"
+  },
+  "triggers": {
+    "lgcode": "\nbayaga\nzabatooro\nbatoro\nrutoro\nbiggo\nrutaran\nrwihanga\nstuhlmann\nrunyakitara\ntoro\nrutooro"
+  },
+  "identifier": {
+    "multitree": "ttj;nix-tor"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schoenbrun:Great-Lakes-Bantu**, **hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**",
+    "subrefs": "\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tooro (ttj-ttj) = 4 (Educational). De facto language of provincial identity in Kabarole and Kabale districts."
+  }
+}

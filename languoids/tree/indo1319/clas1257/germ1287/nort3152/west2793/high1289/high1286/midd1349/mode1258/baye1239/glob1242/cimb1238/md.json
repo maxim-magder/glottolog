@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Cimbrian",
+    "hid": "cim",
+    "level": "language",
+    "iso639-3": "cim",
+    "latitude": "45.921",
+    "longitude": "11.324",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Cimbrian](https://endangeredlanguages.com/lang/3164)\nhttps://en.wikipedia.org/wiki/Cimbrian_language\nhttps://www.wikidata.org/entity/Q37053"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Martello:Cimbra**\n**hh:d:Schmeller:Cimbrisches**\n**hh:e:Basz:Sudtirol-Oberitalien**\n**hh:g:Schweizer:Zimbrische**\n**hh:g:Tyroller:Zimbrischen**\n**hh:hwdial:Schweizer:Zimbrischer-Fersentalerischer**\n**hh:s:Bideseetal:Zimbrische**\n**hh:s:Ferrero:Cimbri**\n**hh:s:Kranzmayer:Zimbrischen**\n**hh:ssoc:Morandi:Cimbrian**\n**hh:std:Bacher:Lusern**\n**hh:styp:Bidese:Zimbrischen**\n**hh:typ:Abraham:Cimbrian**\n**hh:typ:Grewendorf:Cimbrian**"
+  },
+  "altnames": {
+    "multitree": "\nCimbre\nCimbrian\nCimbriano\nTzimbro\nZimbrisch",
+    "lexvo": "\nCimbrian [en]",
+    "elcat": "\nCimbrian\nTzimbro\nZimbrisch",
+    "hhbib_lgcode": "\nLusern\nZimbrischer"
+  },
+  "triggers": {
+    "lgcode": "\ncimbrian\nzimbrische\nzimbrischen\nluserna"
+  },
+  "identifier": {
+    "multitree": "cim",
+    "endangeredlanguages": "3164"
+  },
+  "classification": {
+    "sub": "**hh:g:Tyroller:Zimbrischen**:8-12",
+    "subrefs": "\n**hh:g:Tyroller:Zimbrischen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Cimbrian (3164-cim) = Threatened (40 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

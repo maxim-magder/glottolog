@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Galo",
+    "hid": "adl",
+    "level": "language",
+    "iso639-3": "adl",
+    "latitude": "27.9805586",
+    "longitude": "94.6884956",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Galo](https://endangeredlanguages.com/lang/5631)\n[Galo](https://grambank.clld.org/languages/galo1242)\n[Galo](https://wals.info/languoid/lect/wals_code_gal)\nhttps://en.wikipedia.org/wiki/Gallong_language\nhttps://phoible.org/languages/galo1242\nhttps://www.wikidata.org/entity/Q2857892"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**hh:d:Rwbaaetal:Galo**\n**hh:e:Srivastava:Gallongs**\n**hh:ew:Kumar:Pailibos**\n**hh:g:Post:Galo**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Baruah:Sino-Tibetan-Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:DasGupta:Arunachal**\n**hh:hv:Marrison:Adi-Dafla**\n**hh:hv:PostSun:Tani**\n**hh:hvld:Sun:Tani**\n**hh:ld:DasGupta:Adi**\n**hh:s:Baudli:Pailibo**\n**hh:s:DasGupta:Gallong**\n**hh:s:DasGupta:Galo**\n**hh:v:Baruah:Gallong-Mishing**\n**iso6393:2008-003**"
+  },
+  "altnames": {
+    "multitree": "\nAbor\nAdi\nAdi, Galo\nAdi,Galo\nAdi-Gallong\nAdi-Galo\nAdi-galo\nGallong\nGalo\nGalong",
+    "lexvo": "\nGalo [en]",
+    "hhbib_lgcode": "\nAdi\nAdi Galo\nGallong\nLare Galo\nPailibo could lexically and intelligibility-wise be a dialect of Northern Galo although it has the characteristic E Tani innovation",
+    "elcat": "\nAbor\nAdi\nAdi-Gallong\nAdi-Galo\nGallong\nGalo\nGalong"
+  },
+  "triggers": {
+    "lgcode": "\ngalo\ngallong"
+  },
+  "identifier": {
+    "multitree": "adl",
+    "endangeredlanguages": "5631"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Galo (5631-adl) = Vulnerable (100 percent certain, based on the evidence available) (\"...the Galo remain overwhelmingly dominant in their area, their language is\nspoken daily and learned as a first language by a majority of children (though certainly\nnot by all).... However, changes in this comfortable status quo are already apparent. With\nimprovements in communication, economic opportunities, and the reach of regional,\nnational and even international media into Arunachal Pradesh, Galo are increasingly\nrelying on more widely spoken Indo-European languages – usually Hindi and Assamese,\nbut also English – when leaving their immediate home surroundings.\" (pg. 63)) [Post 2007](cldf:post:07)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Äiwoo",
+    "hid": "nfl",
+    "level": "language",
+    "iso639-3": "nfl",
+    "latitude": "-10.30387",
+    "longitude": "166.32344",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Ayiwo](https://wals.info/languoid/lect/wals_code_ayw)\nhttps://en.wikipedia.org/wiki/%C3%84iwoo_language\nhttps://www.wikidata.org/entity/Q56742\n[Äiwoo](https://endangeredlanguages.com/lang/10349)\n[Äiwoo](https://grambank.clld.org/languages/ayiw1239)\n[Äiwoo](https://lexibank.clld.org/languages/abvdoceanic-Aiwoo)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:boerger:naess:etal:12**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:davenport:69**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:14:2**\n**cldf:ross:naess:78**\n**cldf:wurm:bwakolo:etal:85**\n**hh:d:Naess:Aiwoo**\n**hh:e:Graebner:Santa-Cruz**\n**hh:el:Wurm:Decay**\n**hh:el:Wurm:Decay:1986**\n**hh:hv:Lincoln:Reef-Santa**\n**hh:hv:NaessBoerger:RSC**\n**hh:hv:RossNaess:Temotu**\n**hh:hv:Wurm:EPapuan**\n**hh:hv:Wurm:Reef-Santa:1978**\n**hh:hv:Wurm:ReefSanta**\n**hh:hv:Wurm:ReefVocabulary**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvtyp:DunnReesinkTerrill:EPapuan**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvw:Wurm:Reef**\n**hh:ld:Codrington:Nifilole**\n**hh:s:Wurm:Reef-Possession**\n**hh:typ:Aikhenvald:Classifiers:2003**\n**hh:typ:Frostad:Aiwoo**\n**hh:typ:Naess:Aiwoo**\n**hh:typ:Naess:Aiwoo:Cutting**\n**hh:typ:Naess:Aiwoo:Plural**\n**hh:typ:Naess:Aiwoo:Verb-Phrase**\n**hh:typ:Naess:Aiwoo:Voice**\n**hh:typ:Roversi:Aiwoo**\n**hh:typ:Wurm:Aiwo**\n**hh:typ:Wurm:Aiwo:1981**\n**hh:typ:Wurm:Aiwoo:Change**\n**hh:typ:Wurm:Santa-Cruz:1986**\n**hh:wsoc:Simons:Santa-Cruz**\n**iso6393:2008-064**"
+  },
+  "altnames": {
+    "wals": "\nAyiwo",
+    "wals other": "\nÄiwo",
+    "ruhlen (1987)": "\nÄiwo",
+    "moseley & asher (1994)": "\nAiwo",
+    "multitree": "\nAiwo\nAyiwo\nAïwo\nGnivo\nLomlom\nNaaude\nNifilole\nNivo\nReef\nReef Islands\nReefs\nÄiwo\nÄiwoo",
+    "lexvo": "\nAyiwo [en]\nÄiwoo [en]\nÄiwoo language [en]",
+    "hhbib_lgcode": "\nAiwoo\nAyiwo\nNifilole\nNifilole (Reefs)\nNifiloli\nReef\nReef Santa Cruz REE\nReefs\nReefs-Aiwo\nÄiwoo\nÄyiwo",
+    "elcat": "\nAiwo\nAyiwo\nAïwo\nGnivo\nLomlom\nNaaude\nNifilole\nNivo\nReef\nReef Islands\nReef Islands-Santa Cruz Sub-Family\nReefs\nÄiwo\nÄiwoo"
+  },
+  "triggers": {
+    "lgcode": "\nreefs\ndecay\nyiwo\naiwoo\naiwo\nayiwo\nnifilole"
+  },
+  "identifier": {
+    "wals": "ayw",
+    "multitree": "nfl",
+    "endangeredlanguages": "10349"
+  },
+  "classification": {
+    "sub": "**hh:hv:RossNaess:Temotu**, **hh:hv:NaessBoerger:RSC**, **hh:hvs:Francois:Vanikoro**",
+    "subrefs": "\n**hh:hv:RossNaess:Temotu**\n**hh:hv:NaessBoerger:RSC**\n**hh:hvs:Francois:Vanikoro**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Äiwoo (10349-nfl) = Vulnerable (100 percent certain, based on the evidence available) ([Äiwoo] is the home language for nearly all households in the main Reef Islands... [it] is reportedly expanding at the expense of other local languages, and as such it appears to be in no immediate danger of extinction.) [Boerger et al. 2012](cldf:boerger:naess:etal:12)"
+  }
+}

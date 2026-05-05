@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Juang",
+    "hid": "jun",
+    "level": "language",
+    "iso639-3": "jun",
+    "latitude": "21.2606",
+    "longitude": "85.5845",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Juang](https://endangeredlanguages.com/lang/4341)\n[Juang](https://grambank.clld.org/languages/juan1238)\n[Juang](https://wals.info/languoid/lect/wals_code_jun)\nhttps://en.wikipedia.org/wiki/Juang_language\nhttps://phoible.org/languages/juan1238\nhttps://www.wikidata.org/entity/Q33362"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2289**\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:etal:ed:02:4**\n**cldf:lewis:ed:09**\n**cldf:lust:wali:etal:ed:00:1**\n**cldf:np:nd:264**\n**cldf:patanik:66**\n**cldf:patnaik:subbarao:00**\n**hh:d:Juanga:Juanga**\n**hh:e:Elwin:Juang**\n**hh:e:Mitra:Juang**\n**hh:e:Mohanti:Juangs**\n**hh:e:Ray:Juangs**\n**hh:e:Upadhyay:Juang**\n**hh:he:vonFurer-Haimendorf:Tribal-Indian**\n**hh:hvwld:Grierson:4**\n**hh:s:Dasgupta:Juang**\n**hh:s:Matson:Juang**\n**hh:s:Patnaik:Juang**\n**hh:typd:Mahapatra:Juanga**\n**hh:w:Campbell:India**\n**mpieva:PatnaikJuang**"
+  },
+  "altnames": {
+    "wals": "\nJuang",
+    "ruhlen (1987)": "\nJuang (in India)",
+    "moseley & asher (1994)": "\nJuang",
+    "multitree": "\nJuang\nJuango\nPatra-Saara\nPatua\nPuttooas\nYuango",
+    "lexvo": "\nJuang [en]\nJuang language [en]\nДжуанг [ru]",
+    "hhbib_lgcode": "\nJuang of Orissa Jungles\nJuangs SB Cultivators",
+    "elcat": "\nJuang\nJuango\nPatra-Saara\nPatua\nPuttooas"
+  },
+  "triggers": {
+    "lgcode": "\njuang"
+  },
+  "identifier": {
+    "wals": "jun",
+    "multitree": "jun",
+    "endangeredlanguages": "4341"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderson:Munda** **hh:hvld:Anderson:Proto-Munda**:159-160",
+    "subrefs": "\n**hh:hv:Anderson:Munda**\n**hh:hvld:Anderson:Proto-Munda**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Juang (4341-jun) = Vulnerable (100 percent certain, based on the evidence available) (\"Speakers of this language use their mother tongue not only at home but also with their peers in school and other places in the community.\" (p.508)) [Patnaik 2008](cldf:patnaik:08)"
+  }
+}

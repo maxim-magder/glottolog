@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tabasco Zoque",
+    "hid": "zoq",
+    "level": "language",
+    "iso639-3": "zoq",
+    "latitude": "18.1713",
+    "longitude": "-93.0968",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Ayapanec Zoque](https://endangeredlanguages.com/lang/2591)\nhttps://www.wikidata.org/entity/Q323325\nhttps://en.wikipedia.org/wiki/Ayapa_Zoque"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:07:2**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rangel:nd**\n**cldf:suslak:15**\n**hh:hv:Gutierrez:Protozoque**\n**hh:soc:Rangel:Ayapaneco**\n**hh:soc:Suslak:Ayapan**\n**hh:ssoc:Rangel:Ayapaneco**\n**hh:wt:GarciadeLeon:Ayapaneco**"
+  },
+  "altnames": {
+    "multitree": "\nAyapa\nSoke\nZoque\nZoque de Ayapanec\nZoque de Tabasco\nZoque, Tabasco",
+    "lexvo": "\nTabasco Zoque [en]",
+    "elcat": "\nAyapa\nAyapanec\nAyapanec Zoque\nAyapaneco\nNumde Oode\nNumdi Oodi\nTabasco\nZoque\nZoque de Ayapanec\nZoque de Tabasco",
+    "hhbib_lgcode": "\nNumte ʔoote"
+  },
+  "triggers": {
+    "lgcode": "\nchontalpa\nzoqueano\ntabasquena\nayapaneco"
+  },
+  "identifier": {
+    "multitree": "zoq",
+    "endangeredlanguages": "2591"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ayapanec Zoque (2591-zoq) = Critically Endangered (20 percent certain, based on the evidence available) [Rangel In press](cldf:rangel:nd)"
+  }
+}

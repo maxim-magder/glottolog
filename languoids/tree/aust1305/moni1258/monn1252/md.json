@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mon",
+    "hid": "mnw",
+    "level": "language",
+    "iso639-3": "mnw",
+    "latitude": "15.49394",
+    "longitude": "98.122465",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Mon](https://grambank.clld.org/languages/monn1252)\n[Mon](https://wals.info/languoid/lect/wals_code_mon)\nhttps://en.wikipedia.org/wiki/Mon_language\nhttps://www.wikidata.org/entity/Q13349"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:10**\n**asjp2010:1101**\n**cldf:albaugh:01**\n**cldf:bauer:86**\n**cldf:ferlus:83**\n**cldf:guillon:03**\n**cldf:haswell:01**\n**cldf:hla:98**\n**cldf:jenny:03**\n**cldf:jenny:nd**\n**cldf:theraphan:87**\n**hh:d:Ramanwong:Mon**\n**hh:d:Sakamoto:Mon**\n**hh:d:Sakamoto:Mon:1976**\n**hh:d:Sakamoto:Mon:1994**\n**hh:d:Shorto:Mon**\n**hh:d:Stevens:Peguan**\n**hh:e:Halliday:Talaings**\n**hh:g:Bauer:Mon**\n**hh:g:Guillon:Mon**\n**hh:g:Jenny:Mon**\n**hh:g:Khonthet:Mon**\n**hh:g:Panthongkum:Mon**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hw:Hunter:High-Asia**\n**hh:phon:Kitisarn:Mon**\n**hh:s:Haswell:Peguan**\n**hh:s:Jenny:Modern-Mon**\n**hh:s:Jenny:Mon**\n**hh:s:Paencharoen:Mon**\n**hh:s:Pan:Mon**\n**hh:s:Pancharoen:Mon**\n**hh:s:Shatsuksiridate:Mon-Salui**\n**hh:s:Wajanarat:Mon**\n**hh:sd:HaswellStevens:Peguan**\n**hh:typ:Orathai:Mon**\n**hh:vtyp:McCormickJenny:Mon**\n**hh:vw:Srikum:Mon**\n**hh:w:Mason:Talaing**\n**hh:w:Sujaritlak:Mon**\n**ldh:item_404265**\n**sil16:38612**\n**sil16:41969**\n**sil16:41973**\n**sil16:45460**\n**sil16:49006**\n**sil16:50192**\n**sil16:50193**"
+  },
+  "altnames": {
+    "wals": "\nMon",
+    "wals other": "\nMon (Burmese)",
+    "ruhlen (1987)": "\nMon",
+    "moseley & asher (1994)": "\nMon",
+    "multitree": "\nAleng\nMon\nMun\nMôn\nPeguan\nPeguanisch\nRamañña\nTakanoon\nTalaing\nTaleng",
+    "lexvo": "\nBahasa Mon [ms]\nIdioma mon [es]\nJęzyk mon [pl]\nMon [en]\nMon language [en]\nMoneg [br]\nMonų kalba [lt]\nMôn [fr]\nTiếng Môn [vi]\nภาษามอญ [th]",
+    "hhbib_lgcode": "\nMon or Talaing\nPeguan\nTalain v Mon\nTalaing"
+  },
+  "triggers": {
+    "lgcode": "\ntalaing\nhomeri\nhypertext\nchumphorn\nsalui\nnihongo\nmoun\nsamut\nsangkhla\nnong{\nbackchannel\nlopburi\npeguan\nduu\nkyansittha"
+  },
+  "identifier": {
+    "wals": "mon",
+    "multitree": "mnw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jenny:Monic**",
+    "subrefs": "\n**hh:hv:Jenny:Monic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mon (2222-mnw) = Vulnerable"
+  }
+}

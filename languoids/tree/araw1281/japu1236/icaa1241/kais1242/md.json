@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kaishana",
+    "hid": "NOCODE_Kaishana",
+    "level": "language",
+    "latitude": "-2.171598",
+    "longitude": "-67.319199",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Kaixana](https://endangeredlanguages.com/lang/3214)\nhttps://en.wikipedia.org/wiki/Kawishana_language\nhttps://www.wikidata.org/entity/Q6379993",
+    "timespan": "2004-01-01/2004-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikhenvald:99:1**\n**cldf:crevels:12:3**\n**cldf:ricardo:aguilar:ed:nd**\n**hh:hvw:Ramirez:Arawak**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:hw:Martius:Brasiliens**\n**hh:hw:Nimuendaju:MakusiWapicanaIpurinaKapisana**\n**hh:w:Hanke:Kaisana**\n**langsci:ramirez:01**"
+  },
+  "triggers": {
+    "lgcode": "\nkaisana\nmapari"
+  },
+  "classification": {
+    "subrefs": "\n**hh:hv:Collver:Japura-Colombia**",
+    "sub": "**hh:hv:Collver:Japura-Colombia**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Kaishana, an extinct Northern Arawakan (**hh:hvw:Ramirez:Arawak**) language of Brazil, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:hw:Martius:Brasiliens**, **hh:hw:Nimuendaju:MakusiWapicanaIpurinaKapisana**, **hh:w:Hanke:Kaisana**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Kaishana"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kaixana (3214) = Dormant [Ricardo and Aguilar n.d.](cldf:ricardo:aguilar:ed:nd)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCauixana\nKapisana\nKauixana",
+    "elcat": "\nCaixana\nKaixana"
+  },
+  "identifier": {
+    "endangeredlanguages": "3214"
+  }
+}

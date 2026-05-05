@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Nhangu",
+    "hid": "jay",
+    "level": "language",
+    "iso639-3": "jay",
+    "latitude": "-12.0853",
+    "longitude": "134.877",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Yan-nhangu](https://collection.aiatsis.gov.au/austlang/language/n72)\n[Yan-nhangu](https://endangeredlanguages.com/lang/3788)\n[Yan-nhangu](https://lexibank.clld.org/languages/bowernpny-Yannhangu)\nhttps://en.wikipedia.org/wiki/Nhangu_language\nhttps://phoible.org/languages/yann1237\nhttps://www.wikidata.org/entity/Q10723405"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**hh:e:Keen:Yolngu**\n**hh:el:Bowern:Yan-nhangu**\n**hh:g:Kabisch-Lindenlaub:Golpa**\n**hh:s:Bowern:Yan-nhangu**\n**hh:s:Bowern:Yan-nhangu:2010**\n**hh:sd:Baymarrwanga:Yan-Nhangu**\n**hh:socb:BowernJames:Yan-Nhangu**\n**hh:w:Capell:Forty-North-Australian**\n**hh:w:Jamesetal:Yan-Nhangu**\n**iso6393:2007-146**\n**iso6393:2018-078**\n**ozbib:1860**\n**ozbib:1864**\n**ozbib:2424**\n**ozbib:4032**\n**ozbib:6963**"
+  },
+  "altnames": {
+    "multitree": "\nDjinaŋ\nGunbirrdji\nGunbirri\nJaer-nungo\nJan:angu\nJanango\nJanjango\nJarnango\nJarnangu\nMalara\nMalarra\nMurrungun\nMurruŋun\nMälarra\nNango\nNangu\nYaernungo\nYaerungo\nYan-Nhangu\nYan-nhangu\nYanango\nYanangu\nYannangu\nYannaŋu\nYannhangu\nYannhaŋu\nYarenango\nYarnango",
+    "lexvo": "\nYan-nhangu [en]",
+    "hhbib_lgcode": "\n16 Jarnango\nGolpa\nYan-nhangu",
+    "elcat": "\nDjinaŋ\nGunbirrdji\nGunbirri\nJaer-nungo\nJan:angu\nJanango\nJanjango\nJarnango\nJarnangu\nMalara\nMalarra\nMurrungun\nMurruŋun\nNango\nNangu\nYaernungo\nYaerungo\nYan-Nhangu\nYan-nhangu\nYanango\nYanangu\nYannangu\nYannaŋu\nYannhangu\nYannhaŋu\nYarenango\nYarnango",
+    "aiatsis": "\nDjina?\nGunbirri\nJaernungo\nJanango\nJandango\nJanjango\nJannangu\nJarnango\nJarnangu\nJarrangu\nKokolango\nMalara\nMalarra\nMurru?un\nMälarrai\nNango\nYaernungo\nYaerungo\nYalnumata\nYan-nhangu\nYandango\nYanna?u\nYannhangu\nYarnango\nYarrnangu\nYorngar",
+    "glottolog": "\nYan-nhangu"
+  },
+  "triggers": {
+    "lgcode": "\nnhangu\nNOT pp AND yuulngu"
+  },
+  "identifier": {
+    "multitree": "jay",
+    "endangeredlanguages": "3788"
+  },
+  "classification": {
+    "sub": "**hh:g:Wilkinson:Djambarrpuyngu**:10-14 **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:g:Wilkinson:Djambarrpuyngu**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yan-nhangu (3788-jay) = Endangered (20 percent certain, based on the evidence available) [Bowern and James 2010](cldf:bowern:james:10)"
+  }
+}

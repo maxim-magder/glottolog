@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Southeastern Pomo",
+    "hid": "pom",
+    "level": "language",
+    "iso639-3": "pom",
+    "latitude": "38.9354",
+    "longitude": "-122.599",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Southeastern Pomo](https://endangeredlanguages.com/lang/4987)\nhttps://www.wikidata.org/entity/Q3396025\nhttps://en.wikipedia.org/wiki/Southeastern_Pomo_language\nhttps://phoible.org/languages/sout2982\n[Pomo (Southeastern)](https://wals.info/languoid/lect/wals_code_pso)",
+    "timespan": "2023-01-01/2023-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:466**\n**cldf:ahlers:nd**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:golla:goddard:etal:08**\n**cldf:goodman:90**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:moshinsky:72**\n**cldf:np:nd:264**\n**hh:e:McLendonLowy:ESEPomo**\n**hh:g:Moshinsky:SEPomo**\n**hh:g:Moshinsky:Southeastern-Pomo:1970**\n**hh:hew:Barrett:Pomo**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**mpieva:Walker2005Aguideto**"
+  },
+  "altnames": {
+    "wals": "\nPomo (Southeastern)",
+    "wals other": "\nLower Lake Pomo\nS.E. Pomo\nSE Pomo\nSoutheastern Pomo",
+    "ruhlen (1987)": "\nPomoan",
+    "moseley & asher (1994)": "\nPomo (Southeastern)",
+    "multitree": "\nLower Lake\nLower Lake Pomo\nPomo (Southeastern)\nPomo du sud-est\nPomo suroriental\nPomo, Southeastern\nSoutheast Clear Lake Pomo\nSoutheast Pomo\nSoutheastern Pomo\nSoutheastern Pomoan Subfamily",
+    "lexvo": "\nSoutheastern Pomo [en]\nSoutheastern Pomo language [en]",
+    "hhbib_lgcode": "\nGallinomero\nPomo\nPomo-Southeastern",
+    "elcat": "\nLower Lake\nLower Lake Pomo\nPomo\nPomo (Southeastern)\nSoutheast Clear Lake Pomo\nSoutheast Pomo\nSoutheastern\nSoutheastern Pomo"
+  },
+  "triggers": {
+    "lgcode": "\nsoutheastern AND pomo"
+  },
+  "identifier": {
+    "wals": "genus/pomoan",
+    "multitree": "pom;sepo",
+    "endangeredlanguages": "4987"
+  },
+  "classification": {
+    "sub": "**hh:hv:McLendon:Pomoan:2006**",
+    "subrefs": "\n**hh:hv:McLendon:Pomoan:2006**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southeastern Pomo (4987-pom) = Awakening (Each step that the Elem Pomo Language Group took during the period reported on in this paper -- the creation of an orthography, making and using flashcards in language teaching, gathering data for a phrasebook, and holding immersion language camps -- has been an important move forward in the renewal of Elem.) [Ahlers n.d.](cldf:ahlers:nd)"
+  }
+}

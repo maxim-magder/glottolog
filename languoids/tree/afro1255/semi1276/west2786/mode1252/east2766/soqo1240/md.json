@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Soqotri",
+    "hid": "sqt",
+    "level": "language",
+    "iso639-3": "sqt",
+    "latitude": "12.4892",
+    "longitude": "53.9168",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AE",
+      "YE"
+    ],
+    "links": "\n[Soqoṭri](https://endangeredlanguages.com/lang/5410)\nhttps://www.wikidata.org/entity/Q13283\nhttps://en.wikipedia.org/wiki/Soqotri_language\nhttps://phoible.org/languages/soqo1240\n[Soqotri](https://wals.info/languoid/lect/wals_code_soq)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:303**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lamberti:ed:99**\n**cldf:lewis:ed:09**\n**cldf:lonnet:simeone-senelle:97**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:simeone-senelle:97**\n**hh:d:Leslau:Soqotri**\n**hh:e:Elie:Soqotra**\n**hh:g:Makhashen:Soqotri-Galansiyah**\n**hh:hdial:Simeone-Senelle:Soqotri**\n**hh:hv:Johnstone:Modern-South-Arabian**\n**hh:hv:Simeone-Senelle:MSA**\n**hh:hv:Simeone-Simelle:SouthArabian**\n**hh:s:Aloufi:Soqotri**\n**hh:s:Bittner:Soqotri**\n**hh:s:KoganBulakh:Soqotri**\n**hh:s:NaumkinPorxomovskij:Sokotry**\n**hh:s:Wagner:Abdelkuri**\n**hh:t:NaumkimKogan:Soqotri**\n**hh:w:Nakano:Southern-Arabic**\n**hh:w:Simeone-Senelle:Soqotri**"
+  },
+  "altnames": {
+    "wals": "\nSoqotri",
+    "wals other": "\nSocotri",
+    "ruhlen (1987)": "\nSoqotri",
+    "moseley & asher (1994)": "\nSouth Arabian",
+    "multitree": "\nSaqatri\nSocotri\nSokotri\nSoqotri\nSoqotrí\nSoqoṭri\nSoqoṭrī\nSuqutri",
+    "lexvo": "\nIdioma socotorí [an]\nIdioma socotrí [es]\nSokotran kieli [fi]\nSokotranski jezik [hr]\nSokotreg [br]\nSokotrų kalba [lt]\nSoqotri [de]\nSoqotri hizkuntza [eu]\nSoqotri language [en]\nСокотрийский язык [ru]\n소코트라어 [ko]",
+    "hhbib_lgcode": "\nAbd-el-Kuri\nSocotri\nSoqotra",
+    "elcat": "\nSaqatri\nSocotri\nSokotri\nSoqotri\nSoqoṭri\nSoqoṭrī\nSuqutri"
+  },
+  "triggers": {
+    "lgcode": "\nsokotry\nsoqotri\nabd AND kuri"
+  },
+  "identifier": {
+    "wals": "soq",
+    "multitree": "sqt",
+    "endangeredlanguages": "5410"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rubin:Semitic**:75-76 **hh:hvw:Kogan:Semitic:2015**",
+    "subrefs": "\n**hh:hvw:Kogan:Semitic:2015**\n**hh:hv:Rubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Soqoṭri (5410-sqt) = Endangered (100 percent certain, based on the evidence available) [Makhashen 2009](cldf:makhashen:09)"
+  }
+}

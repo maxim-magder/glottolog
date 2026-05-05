@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ashtiani",
+    "hid": "atn",
+    "level": "language",
+    "iso639-3": "atn",
+    "latitude": "34.60417",
+    "longitude": "49.99911",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Ashtiani](https://endangeredlanguages.com/lang/3866)\nhttps://www.wikidata.org/entity/Q3436590\nhttps://en.wikipedia.org/wiki/Ashtiani_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borjian:13:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Adelxani:Amorai**\n**hh:d:Kiya:Astian**\n**hh:h:Morgenstierne:Neu-Iranische**\n**hh:hw:Moqaddam:Vafso-Astiyano-Tafres**\n**hh:ld:Yarshater:Astiani**\n**hh:s:Saeb:Amore**\n**hh:s:Shariati:Kahak**"
+  },
+  "altnames": {
+    "multitree": "\nAshtiani\nAshtiyani\nAstiani\nAstianí",
+    "lexvo": "\nAshtiani [en]",
+    "elcat": "\nAshtiani\nAshtiyani\nAstiani",
+    "hhbib_lgcode": "\nAmorei\nKahak\nTafresh\nĀmore"
+  },
+  "triggers": {
+    "lgcode": "\niranische\nstiani\nstian"
+  },
+  "identifier": {
+    "multitree": "atn",
+    "endangeredlanguages": "3866"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Stilo:Tati**",
+    "subrefs": "\n**hh:hvld:Stilo:Tati**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ashtiani (3866-atn) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Labu",
+    "hid": "lbu",
+    "level": "language",
+    "iso639-3": "lbu",
+    "latitude": "-6.75",
+    "longitude": "146.903",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Labu](https://endangeredlanguages.com/lang/4485)\n[Labu](https://grambank.clld.org/languages/labu1248)\n[Labu](https://wals.info/languoid/lect/wals_code_lab)\nhttps://en.wikipedia.org/wiki/Labu_language\nhttps://www.wikidata.org/entity/Q6467660"
+  },
+  "classification": {
+    "sub": "**hh:hv:Holzknecht:Labu**",
+    "subrefs": "\n**hh:hv:Holzknecht:Labu**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:landweer:98**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hld:Smith:Morobe**\n**hh:hv:Holzknecht:Labu**\n**hh:hv:Ross:WMelanesia**\n**hh:hvphon:Holzknecht:Markham**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:ld:Holzknecht:Adzera**\n**hh:s:Siegel:Labu**\n**hh:w:Fischer:WampetMumengLabu**\n**sil16:46925**"
+  },
+  "altnames": {
+    "multitree": "\nHapa\nLabo\nLabu\nLabu'",
+    "lexvo": "\nLabu [en]\nLabu language [en]",
+    "hhbib_lgcode": "\nLAB\nLabu-Hapa",
+    "elcat": "\nHapa\nLabo\nLabu\nLabu'"
+  },
+  "triggers": {
+    "lgcode": "\nlabu"
+  },
+  "identifier": {
+    "wals": "lab",
+    "multitree": "labu;lbu",
+    "endangeredlanguages": "4485"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Labu (4485-lbu) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

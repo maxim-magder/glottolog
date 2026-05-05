@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Chaudangsi",
+    "hid": "cdn",
+    "level": "language",
+    "iso639-3": "cdn",
+    "latitude": "29.7033",
+    "longitude": "80.4832",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Chaudangsi](https://endangeredlanguages.com/lang/7389)\nhttps://www.wikidata.org/entity/Q5088056\nhttps://en.wikipedia.org/wiki/Chaudangsi_language\nhttps://phoible.org/languages/chau1259\n[Chaudangsi](https://wals.info/languoid/lect/wals_code_chd)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:lewis:ed:09**\n**cldf:nordhoff:sebastian:etal:ed:13**\n**cldf:sharma:01:3**\n**cldf:sharma:89:2**\n**cldf:shree:01**\n**hh:htyp:BhattPathak:Uttarakhand**\n**hh:htyp:BhattPathak:Uttarakhand:2015**\n**hh:hv:Krishan:Darma-Chaudangsi-Raji**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**\n**hh:hv:Widmer:Western-Himalayas**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Widmer:West-Himalayish**\n**hh:s:Krishan:Chaudangsi**"
+  },
+  "altnames": {
+    "wals": "\nChaudangsi",
+    "moseley & asher (1994)": "\nChaudangsi",
+    "multitree": "\nBangba Lo\nBangba Lwo\nBangbani\nChandāngsī\nChanpa Lo\nChaudangsi\nChaudans Lo\nChaudāngsī\nSauka\nSaukas\nShauka\nShaukas\nTsaudangsi\nTśaudangsi",
+    "lexvo": "\nChaudangsi [en]",
+    "elcat": "\nBangba Lo\nBangba Lwo\nBangbani\nChanpa Lo\nChaudangsi\nChaudans Lo\nSauka\nSaukas\nShauka\nShaukas\nTsaudangsi",
+    "hhbib_lgcode": "\nJaad\nJaad/Tchhongsa"
+  },
+  "triggers": {
+    "lgcode": "\nchaudangsi"
+  },
+  "identifier": {
+    "wals": "chd",
+    "multitree": "cdn",
+    "endangeredlanguages": "7389"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanDriem:Himalayas** **hh:hv:Sharma:Uttar-Pradesh**",
+    "subrefs": "\n**hh:hv:vanDriem:Himalayas**\n**hh:hv:Sharma:Uttar-Pradesh**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chaudangsi (7389-cdn) = Endangered (40 percent certain, based on the evidence available) (Most of the villages in the Chaudangs area are multi-ethnic and multi-lingual, and\nthere the Chaudangs come in close contact with Kumauni and Nepali. Many a time Hindi is\nused for inter-group communication as it is the official language of administration and\neducation. The increasing use of Kumauni and Hindi in various domains is reducing the\nnative Chaudangsi to highly restricted domains of language use.) [Shree 2001](cldf:shree:01)"
+  }
+}

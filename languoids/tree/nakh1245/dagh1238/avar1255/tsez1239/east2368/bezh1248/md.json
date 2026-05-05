@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bezhta",
+    "hid": "kap",
+    "level": "language",
+    "iso639-3": "kap",
+    "latitude": "42.1206",
+    "longitude": "46.0332",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GE",
+      "RU"
+    ],
+    "links": "\n[Bezhta](https://endangeredlanguages.com/lang/6025)\n[Bezhta](https://grambank.clld.org/languages/bezh1248)\n[Bezhta](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Bezhta)\n[Bezhta](https://lexibank.clld.org/languages/wold-Bezhta)\n[Bezhta](https://wals.info/languoid/lect/wals_code_bez)\nhttps://en.wikipedia.org/wiki/Bezhta_language\nhttps://www.wikidata.org/entity/Q33054"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:boguslavskaja:89**\n**cldf:bokarev:59**\n**cldf:bokarev:67:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:kibrik:03**\n**cldf:kibrik:81**\n**cldf:lewis:ed:09**\n**cldf:madieva:65:2**\n**cldf:moseley:05**\n**cldf:np:nd:264**\n**cldf:vandenberg:00:1**\n**hh:d:Ardoteli:Bezituri**\n**hh:d:Khalilov:Bezhtinsko**\n**hh:d:Xalilov:Bezhtinsko**\n**hh:g:Comrie:Bezhtinskogo**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Bokarev:Bezhitinskij**\n**hh:s:KibrikTestelec:Bezhta**\n**hh:s:Madieva:Bezhtinskogo**\n**hh:std:Ardoteli:Bezituri**\n**hh:w:ComrieKhalilov:Bezhta**\n**mpieva:Chalilov1995Beztinsk**\n**mpieva:Lomtadze2000Verbsand**\n**mpieva:Lomtadze2003Sintaksi**\n**mpieva:Mejlanova1984Buduchsk**"
+  },
+  "altnames": {
+    "wals": "\nBezhta",
+    "wals other": "\nKapuch",
+    "ruhlen (1987)": "\nBezhti",
+    "moseley & asher (1994)": "\nBezhta",
+    "multitree": "\nBechitin\nBejila\nBexita\nBezheta\nBezhita\nBezhta\nBezhti\nKapucha\nKapuchin\nKupuca",
+    "lexvo": "\nBejteg [br]\nBezhta [en]\nBezhta language [en]\nBežtan kieli [fi]\nJęzyk kapuczyński [pl]\nLíngua Bezhta [pt]\nБежта јазик [mk]\nБежтинский язык [ru]\nБежтинська мова [uk]",
+    "elcat": "\nBechitin\nBexita\nBezheta\nBezhita\nBezhta\nBezhti\nKapucha\nKapuchin\nKupuca\nbežƛʼalas mic\nбежитинский язык\nбежкьалас миц\nкапучинский язык"
+  },
+  "triggers": {
+    "lgcode": "\nbezitinskij\nbezhit\nbeztinskogo\nbezta\nbuduchsko\nbezhtinskij\ndagestanskich\ndannym\nbezhitinskij\ndagestanian\nbeztinsko"
+  },
+  "identifier": {
+    "wals": "bez",
+    "multitree": "kap",
+    "endangeredlanguages": "6025"
+  },
+  "classification": {
+    "sub": "**hh:w:ComrieKhalilov:Bezhta**:415",
+    "subrefs": "\n**hh:w:ComrieKhalilov:Bezhta**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Bezhta (6025-kap) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

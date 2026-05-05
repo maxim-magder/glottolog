@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Betoi-Jirara",
+    "hid": "NOCODE_Betoi",
+    "level": "language",
+    "latitude": "7.223906",
+    "longitude": "-71.420238",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "VE"
+    ],
+    "links": "\n[Betoi](https://wals.info/languoid/lect/wals_code_bti)\n[Betoi-Jirara](https://grambank.clld.org/languages/beto1236)\nhttps://en.wikipedia.org/wiki/Betoi_language\nhttps://www.wikidata.org/entity/Q926551",
+    "timespan": "1741-01-01/1787-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**fabreall2009ann:Betoi0**\n**fabreall2009ann:Betoi1**\n**fabreall2009ann:Betoi10**\n**fabreall2009ann:Betoi11**\n**fabreall2009ann:Betoi12**\n**fabreall2009ann:Betoi13**\n**fabreall2009ann:Betoi14**\n**fabreall2009ann:Betoi2**\n**fabreall2009ann:Betoi4**\n**fabreall2009ann:Betoi5**\n**fabreall2009ann:Betoi6**\n**fabreall2009ann:Betoi7**\n**fabreall2009ann:Betoi8**\n**hh:e:Hernandez:Betoi**\n**hh:e:Montejo:Betoye**\n**hh:ht:Marietti:CCL**\n**hh:hv:Zamponi:Mid-Orinoco**\n**hh:hvw:Hervas:Poligloto**\n**hh:hvw:Latham:Comparative**\n**hh:s:Hervas:Betoi**\n**hh:s:Zamponi:Betoi**\n**hh:s:Zamponi:Betoi:2002**\n**hh:s:Zamponi:Betoi:2023**\n**hh:typ:Dummler:Betoi**\n**hh:typ:Zamponi:Betoi**"
+  },
+  "altnames": {
+    "wals": "\nBetoi",
+    "ruhlen (1987)": "\nBetoi",
+    "moseley & asher (1994)": "\nBetoi",
+    "multitree": "\nBetoi",
+    "hhbib_lgcode": "\nBetoi\nBetoice\nPadilla's Betoi"
+  },
+  "triggers": {
+    "lgcode": "\nbetoye\nbetoi"
+  },
+  "identifier": {
+    "wals": "genus/betoi",
+    "multitree": "qtd-bet;qtd"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Adelaar:Andes**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Betoi-Jirara, an extinct language of present-day Venezuela, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:s:Hervas:Betoi**, **hh:s:Zamponi:Betoi**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Betoi"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Betoi (NOCODE_Betoi-NOCODE_Betoi) = 10 (Extinct)."
+  }
+}

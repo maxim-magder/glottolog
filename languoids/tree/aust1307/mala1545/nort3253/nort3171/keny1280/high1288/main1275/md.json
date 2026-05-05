@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Usun Apau Kenyah",
+    "hid": "xkl",
+    "level": "language",
+    "iso639-3": "xkl",
+    "latitude": "3.42975",
+    "longitude": "116.47431",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6736761\nhttps://en.wikipedia.org/wiki/Mainstream_Kenyah_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:71**\n**cldf:galvin:67**\n**hh:e:Sagan:Kenyah**\n**hh:e:Whittier:Kenyah-Dayak**\n**hh:h:Soriente:Kenyah**\n**hh:he:Elshout:Kenja-Dajaks**\n**hh:hv:Kroeger:Sarawak**\n**hh:hv:Sellato:Kenyah-Putuk**\n**hh:hvw:Smith:Borneo**\n**hh:hvw:Smith:Kenyah-Kayanic**\n**hh:hvw:Soriente:Kenyah:2004**\n**hh:hw:Ray:Borneo**\n**hh:phon:Lees:Lepu-Tau**\n**hh:w:Stokhofetal:Holle:8**\n**hh:w:Stort:Kenja**\n**hh:w:Sugono:Kalimantan-Timur**\n**hh:w:Sugono:Swadesh-Bulungan**\n**iso6393:2007-245**"
+  },
+  "altnames": {
+    "multitree": "\nBakong\nBakung\nBakung Kenya\nBakung Kenyah\nHighland Kenyah\nKehja\nKelinjau\nKelinyau\nKenja\nKenya\nKenyah\nKenyah, Kelinyau\nKindjin\nKinjin\nMadang\nMainstream Kenyah\nUsun Apau Kenyah",
+    "lexvo": "\nMainstream Kenyah [en]",
+    "hhbib_lgcode": "\nBadeng\nBakung\nHighland Kenyah A\nKenyah Dayak of Long Nawang-East Kalimantan\nKenyah Long Anap\nKenyah Long Atun\nKenyah Long Jeeh\nKenyah Mainstream\nKenyah-Mainstream\nLepo' Ké\nLepo' Ma'ut\nLepo' Ndang\nLepo' Tau\nLeppo Tau-Mainstream Kenyah\nLeppu' Ma'ut\nLeppu' Ndang\nLepu Anan\nLepu Pohun\nLepu Sawa\nLepu Tau\nLong Aki\nLong Nawang\nMainstream\nNyibun close to Bakung\nNyibun closest to Bakung"
+  },
+  "triggers": {
+    "lgcode": "\nkenja\nthe AND malang\nlepu"
+  },
+  "identifier": {
+    "multitree": "xkl",
+    "languagelandscape": "http://languagelandscape.org/language/Kenyah"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Kenyah-Kayanic** **hh:hv:Sellato:Kenyah-Putuk**:29",
+    "subrefs": "\n**hh:hvw:Smith:Kenyah-Kayanic**\n**hh:hv:Sellato:Kenyah-Putuk**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kenyah, Mainstream (xkl-xkl) = 6b* (Threatened)."
+  }
+}

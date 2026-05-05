@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Jamiltepec Mixtec",
+    "hid": "mxt",
+    "level": "language",
+    "iso639-3": "mxt",
+    "latitude": "16.2279",
+    "longitude": "-97.8417",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (Jamiltepec)](https://wals.info/languoid/lect/wals_code_mja)\nhttps://www.wikidata.org/entity/Q12953730"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Johnson:Jamiltepec-Mixtec**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:ld:Josserand:Mixteca**\n**mpieva:Pensinger1974Dicciona**\n**otomanguean:Mixtec111**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (Jamiltepec)",
+    "wals other": "\nJamiltepec Mixtec",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nCentral Misteko\nCentreal Mixteco\nEastern Jamiltepec-San Cristobal Mixtec\nMixtec (Jamiltepec)\nMixtec, Jamiltepec\nMixteco ( Jamiltepec)\nMixteco de Jamiltepec\nSouthern Misteko\nSouthern Mixteco",
+    "lexvo": "\nJamiltepec Mixtec [en]",
+    "hhbib_lgcode": "\n107 Santiago Jamiltepec Mixtec Johnson 1988; Josserand 1983\n93 Santa Maria Huazolotitlan Mixtec Josserand 1983\nHuaz\nJam\nJamiltepec\nMixtec-Jamiltepec\nNutió\nSanta María Huazolotitlán\nSantiago Jamiltepec\nSantiago Jamiltepec-Oaxaca"
+  },
+  "triggers": {
+    "lgcode": "\nsyntactic AND jamiltepec"
+  },
+  "identifier": {
+    "wals": "mja",
+    "multitree": "mxt",
+    "endangeredlanguages": "10528"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:13-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Coast Mixtec (10528-mxt) = Vulnerable (20 percent certain, based on the evidence available) ['bib69']"
+  }
+}

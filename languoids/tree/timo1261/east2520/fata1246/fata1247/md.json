@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Fataluku",
+    "hid": "ddg",
+    "level": "language",
+    "iso639-3": "ddg",
+    "latitude": "-8.49464",
+    "longitude": "127.08",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "TL"
+    ],
+    "links": "\n[Fataluku](https://lexibank.clld.org/languages/transnewguineaorg-fataluku)\nhttps://en.wikipedia.org/wiki/Fataluku_language\nhttps://www.wikidata.org/entity/Q35353"
+  },
+  "sources": {
+    "glottolog": "\n**elpub:ldd327**\n**hh:d:Nacher:Fataluco**\n**hh:e:Gomes:Fataluku**\n**hh:el:vanEngelenhoven:Death**\n**hh:hv:Hull:Timor**\n**hh:hv:McWilliam:Fataluku**\n**hh:hvphon:Mandala:Oirata**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:ld:vanWayenburg:Rusenu**\n**hh:phon:Heston:Fataluku**\n**hh:phon:Stoel:Fataluku**\n**hh:s:Campagnolo:Fataluku**\n**hh:s:Campagnolo:Fataluku:1979**\n**hh:s:Hull:Fataluku**\n**hh:s:Langford:Fataluku**\n**hh:s:vanEngelenhovenHuber:Fataluku**\n**hh:w:Capell:Timor**"
+  },
+  "altnames": {
+    "multitree": "\nDagada\nDagaga\nDagoda\nDagoda'\nFataluku",
+    "lexvo": "\nBahasa Fataluku [id]\nFataloukoueg [br]\nFataluco [pt]\nFataluku [de]\nFataluku language [en]\nIdioma fataluco [es]\nภาษาฟาตาลูกู [th]",
+    "hhbib_lgcode": "\nFalaluku\nFataluku-Tutuala\nNisa/Rusenu\nRusenu"
+  },
+  "triggers": {
+    "lgcode": "\nfataluku\nfataluco\naustronesienne\nlorehe\ndisguise\nmethodologique"
+  },
+  "identifier": {
+    "multitree": "fatk;ddg"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar** **hh:hvphon:Mandala:Oirata** **hh:hv:vanNaerssen:East-Timorese**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**\n**hh:hvphon:Mandala:Oirata**\n**hh:hv:vanNaerssen:East-Timorese**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fataluku (ddg-ddg) = 6a* (Vigorous)."
+  }
+}

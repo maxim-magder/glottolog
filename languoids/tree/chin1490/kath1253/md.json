@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Kathlamet",
+    "hid": "NOCODE_Kathlamet",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kathlamet_language\n[Kathlamet](https://wals.info/languoid/lect/wals_code_ktm)\nhttps://www.wikidata.org/entity/Q6376639",
+    "longitude": "-123.56",
+    "latitude": "46.197",
+    "timespan": "1935-01-01/1935-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Hymes:Kathlamet-Chinook**\n**hh:hw:Scouler:NWCoast**\n**hh:s:Jones:Chinook-Katlamat**\n**hh:t:Boas:Kathlamet**"
+  },
+  "triggers": {
+    "lgcode": "\nkathlamet"
+  },
+  "identifier": {
+    "multitree": "qp8"
+  },
+  "classification": {
+    "sub": "**hh:dial:Hymes:Clackamas**:365",
+    "subrefs": "\n**hh:dial:Hymes:Clackamas**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Kathlamet (NOCODE_Kathlamet-NOCODE_Kathlamet) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nCathlascou"
+  }
+}

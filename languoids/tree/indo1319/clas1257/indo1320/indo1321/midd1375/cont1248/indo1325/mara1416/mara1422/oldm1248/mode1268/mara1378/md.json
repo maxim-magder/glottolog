@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Marathi",
+    "hid": "mar",
+    "level": "language",
+    "iso639-3": "mar",
+    "latitude": "17.9344",
+    "longitude": "76.6665",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Marathi](https://grambank.clld.org/languages/mara1378)\n[Marathi](https://lexibank.clld.org/languages/dunnielex-marathi)\n[Marathi](https://wals.info/languoid/lect/wals_code_mhi)\nhttps://en.wikipedia.org/wiki/Marathi_language\nhttps://phoible.org/languages/mara1378\nhttps://www.wikidata.org/entity/Q1571"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abbi:92**\n**cldf:berntsen:75**\n**cldf:bhaskararao:ed:04:5**\n**cldf:cardona:jain:ed:03:12**\n**cldf:emeneau:80**\n**cldf:gil:94:2**\n**cldf:khokle:88**\n**cldf:khokle:94**\n**cldf:lust:wali:etal:ed:00:7**\n**cldf:malherbe:rosenberg:96**\n**cldf:montaut:ed:97:2**\n**cldf:stolz:96**\n**cldf:verma:ed:93:3**\n**cldf:verma:mohanan:ed:90:3**\n**cldf:wali:00:2**\n**cldf:wali:79**\n**hh:d:Kanitkar:Marathi**\n**hh:d:Molesworth:Marathi**\n**hh:es:Kshirsagar:Marathi**\n**hh:g:BerntsenNimbkar:Marathi**\n**hh:g:DhongdeWali:Marathi**\n**hh:g:Fairbank:Marathi**\n**hh:g:Ishida:Maraatiigo**\n**hh:g:Joshi:Marathi**\n**hh:g:Navalkar:Marathi**\n**hh:g:Pandharipande:Marathi**\n**hh:g:Reddy:Are-Marathi**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hvw:Grierson:7**\n**hh:ld:Pandey:Parushi**\n**hh:s:Apte:Marathi**\n**hh:s:Bellairs:Marathi**\n**hh:s:Chopade:Marathi**\n**hh:s:Fairbank:Marathi**\n**hh:s:Ghatage:Marathi-Kasargod**\n**hh:s:Ishida:Maraatiigo**\n**hh:s:Katenina:Maratxi**\n**hh:s:Kelkar:Marathi**\n**hh:s:Naito:Marathi**\n**hh:s:Pandharipande:Marathi**\n**hh:s:Parasuraman:Marathi**\n**hh:s:Ranade:Tanjore-Marathi**\n**hh:s:Wali:Marathi**\n**hh:sd:Bhide:Marathi**\n**hh:st:Valimbe:Mangi-Marathi**\n**hh:typ:Nayudu:Marathi**\n**hh:v:Bloch:Marathe**\n**hh:v:Bloch:Marathi**\n**hh:w:Ahirwal:Dadri-Nagar**\n**mpieva:2002Topicsin**\n**mpieva:Deshpande2001MarathiE**\n**mpieva:Wali2006Marathia**\n**sil16:51140**"
+  },
+  "altnames": {
+    "wals": "\nMarathi",
+    "ruhlen (1987)": "\nMarathi",
+    "moseley & asher (1994)": "\nMarathi",
+    "multitree": "\nMaharashtra\nMaharathi\nMalhatee\nMarathi\nMarthi\nMuruthu",
+    "lexvo": "\nBahasa Marathi [id]\nIdioma maratí [es]\nJęzyk marathi [pl]\nLengua marathi [lij]\nLimba marathi [ro]\nLingua Marathica [la]\nLingua marathi [it]\nLíngua marata [pt]\nMarata lingvo [eo]\nMarateg [br]\nMarathi [cy]\nMarathi bhasa [hif]\nMarathi jezik [hr]\nMarathi language [en]\nMarathi simi [qu]\nMarathi-gí [nan]\nMarathin kieli [fi]\nMarathî [ku]\nMarati [bcl]\nMarati jezik [sh]\nMaráthština [cs]\nMarâthî [fr]\nMáráthčina [sk]\nmarathe [fr]\nМаратхи [ru]\nМаратхи језик [sr]\nМаратхі [uk]\nמרטהי [he]\nزبان مراتی [fa]\nلغة ماراثية [ar]\nماراتىچە [ug]\nمراٹھی [pnb]\nމަރާޓީ [dv]\nमराठी भाषा [hi]\nমারাঠি ঠার [bpy]\nমারাঠি ভাষা [bn]\nમરાઠી [gu]\nமராத்தி [ta]\nమరాఠీ భాష [te]\nಮರಾಠಿ [kn]\nമറാഠി [ml]\nภาษามราฐี [th]\nმარათჰი [ka]\nマラーティー語 [ja]\n马拉地语 [zh]\n마라티어 [ko]",
+    "hhbib_lgcode": "\nAre Marathi\nDesi\nDifficult to know if/how different this is to Marathi\nGawdi\nGowda of Goa\nMangi Marathi\nMarathi in the Dekhan\nMarathi of Kasargod\nNath Panthi Davri Gosavi Marathi (DGM)"
+  },
+  "triggers": {
+    "lgcode": "\ncochin\nmewati\ngawdi\nNOT the AND marathi\nblending\nmarthi"
+  },
+  "identifier": {
+    "wals": "mhi",
+    "multitree": "mar"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Grierson:7**:163, 219 **hh:hv:Southworth:Marathi-Konkani**",
+    "subrefs": "\n**hh:hv:Southworth:Marathi-Konkani**\n**hh:hvw:Grierson:7**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Marathi (mar-mar) = 2 (Provincial). Statutory provincial language in Maharashtra State (1950, Constitution, Schedule VIII)."
+  }
+}

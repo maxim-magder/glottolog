@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Lishana Deni",
+    "hid": "lsd",
+    "level": "language",
+    "iso639-3": "lsd",
+    "latitude": "31.7745",
+    "longitude": "35.2225",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "IQ"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Zakho\n[Lishana Deni](https://endangeredlanguages.com/lang/4537)\nhttps://www.wikidata.org/entity/Q3436461"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:greenblatt:10**\n**cldf:haeberl:13**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Sabar:Jewish-Neo-Aramaic**\n**hh:g:Fassberg:Challa**\n**hh:g:Greenblatt:Neo-Aramaic-Amadya**\n**hh:g:Molin:Jewish-Dohok:2021**\n**hh:g:Molin:Jews-Dohok**\n**hh:g:Mutzafi:Jewish-Neo-Aramaic-Betanure**\n**hh:hv:Khan:Neo-Aramaic-Northern-Iraq**\n**hh:ld:Hetzafi:Jewish-Aradhin**\n**hh:phon:Hoberman:Modern-Aramaic**\n**hh:s:Avenery:Aramaic-Zakho**\n**hh:s:Hoberman:Modern-Aramaic**\n**hh:t:Nakano:Gzira**\n**hh:t:Sabar:Besallah**\n**hh:typ:Kalin:Neo-Aramaic**"
+  },
+  "altnames": {
+    "multitree": "\nJudeo-Aramaic\nKurdit\nLishan Hozaye\nLishan Hudaye\nLishana Deni\nLishana deni  (Israel)\nLishana deni (Iraq)\nLishana deni (Israël)",
+    "lexvo": "\nDenieg [br]\nLishana Deni [en]\nLishana deni jezik [hr]\nLişana Deni [tr]",
+    "hhbib_lgcode": "\nAmadya and Zakho\nAmidya\nGzira Jewish dialect\nJewish Aradhin in Iraqi Kurdistan\nJewish Dihok\nJewish Dohok\nJewish Neo-Aramaic Betanure\nJewish Neo-Aramaic of Challa\nJewish Zakho\nJews of Zakho\nLishana Deni (Jewish)\nLishani\nNerwa\nZakho\nclose to Zakho",
+    "elcat": "\nJudeo-Aramaic\nKurdit\nLishan Hozaye\nLishan Hudaye\nLishana Deni"
+  },
+  "triggers": {
+    "lgcode": "\ndihok\nchalla\nzakho\namdya\naradhin"
+  },
+  "identifier": {
+    "multitree": "lsd",
+    "endangeredlanguages": "4537"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kim:Modern-Aramaic**",
+    "subrefs": "\n**hh:hv:Kim:Modern-Aramaic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lishana Deni (4537-lsd) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

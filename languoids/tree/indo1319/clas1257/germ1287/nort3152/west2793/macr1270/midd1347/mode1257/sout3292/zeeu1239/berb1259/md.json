@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Berbice Creole Dutch",
+    "hid": "brc",
+    "level": "language",
+    "iso639-3": "brc",
+    "latitude": "5.3829",
+    "longitude": "-58.0002",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "GY"
+    ],
+    "links": "\n[Berbice Creole Dutch](https://endangeredlanguages.com/lang/3969)\n[Berbice Creole Dutch](https://grambank.clld.org/languages/berb1259)\n[Berbice Dutch](https://apics-online.info/contributions/28)\n[Berbice Dutch Creole](https://wals.info/languoid/lect/wals_code_bdc)\nhttps://en.wikipedia.org/wiki/Berbice_Creole_Dutch\nhttps://phoible.org/languages/berb1259\nhttps://www.wikidata.org/entity/Q35215",
+    "timespan": "2015-01-01/2015-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baker:syea:ed:96:3**\n**cldf:bruyn:adrienne:etal:99**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:kouwenberg:00**\n**cldf:kouwenberg:03:2**\n**cldf:kouwenberg:07:1**\n**cldf:kouwenberg:12**\n**cldf:kouwenberg:13:1**\n**cldf:kouwenberg:91:2**\n**cldf:kouwenberg:92**\n**cldf:kouwenberg:96:1**\n**cldf:kouwenberg:96:2**\n**cldf:kouwenberg:96:3**\n**cldf:kouwenberg:robertson:88**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:10:3**\n**cldf:np:nd:264**\n**cldf:ofthewestindies:13**\n**cldf:smith:norval:etal:87**\n**hh:g:Kouwenberg:Berbice**\n**hh:g:Kouwenberg:Berbice:1991**\n**hh:hv:Bakker:Three-Dutch-Creoles**\n**hh:ldsoc:Kouwenberg:Berbice-Dutch**\n**hh:s:Kouwenberg:Berbice-Dutch**\n**hh:s:Kouwenberg:Berbice-Dutch:1995**\n**hh:s:Robertson:Berbice-Dutch**\n**hh:soc:Robertson:Dutch-Creole**\n**hh:typ:Kouwenberg:Berbice-Dutch**\n**hh:vw:Robertson:Berbice-Skepi**\n**hh:w:Robertson:Berbiciaansche**"
+  },
+  "altnames": {
+    "wals": "\nBerbice Dutch Creole",
+    "wals other": "\nBerbice Creole Dutch\nCreole (Berbice Dutch)",
+    "moseley & asher (1994)": "\nDutch Creole",
+    "multitree": "\nBerbice\nBerbice Creole Dutch\nCréole néerlandais de Berbice",
+    "lexvo": "\nBatava Berbicensis [la]\nBerbice Creole Dutch [en]\nBerbice Dutch Creole [gsw]\nBerbice-Nederlands [nl]\nBerbice-Niederländisch [de]\nBerbice-nederlandsk [no]\nBerbiceko nederlandera [eu]",
+    "elcat": "\nBerbice Creole Dutch\nBerbice Dutch"
+  },
+  "triggers": {
+    "lgcode": "\ncreole AND berbice\nberbiciaansche\nberbice"
+  },
+  "identifier": {
+    "wals": "bdc",
+    "multitree": "brc",
+    "endangeredlanguages": "3969"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bakker:Three-Dutch-Creoles**",
+    "subrefs": "\n**hh:hv:Bakker:Three-Dutch-Creoles**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Berbice Creole Dutch (3969-brc) = Dormant [n.a. 2010](cldf:np:10:3)"
+  }
+}

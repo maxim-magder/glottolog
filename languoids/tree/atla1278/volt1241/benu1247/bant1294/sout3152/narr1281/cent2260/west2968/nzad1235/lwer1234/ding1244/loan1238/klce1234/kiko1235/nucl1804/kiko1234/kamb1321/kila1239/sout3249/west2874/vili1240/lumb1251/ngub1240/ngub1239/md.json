@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ngubi",
+    "hid": "NOCODE_Ngubi",
+    "level": "language",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q16909698\nhttps://en.wikipedia.org/wiki/Ngubi_language",
+    "longitude": "10.768112",
+    "latitude": "-3.433411"
+  },
+  "classification": {
+    "sub": "**hh:phonv:Agadji:Ngubi**:79-83 **hh:hv:Bostoen:Ancestor-Kikongo** **hh:hv:Bostoen:Aire-Kongo**",
+    "subrefs": "\n**hh:phonv:Agadji:Ngubi**\n**hh:hv:Bostoen:Aire-Kongo**\n**hh:hv:Bostoen:Ancestor-Kikongo**"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:31133**\n**eballiso2009:4310**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:deSchryver:Kikongo**\n**hh:ld:AlekaPuech:Ngubi**\n**hh:phonv:Agadji:Ngubi**\n**hh:typ:Puech:Ngubi**"
+  },
+  "triggers": {
+    "lgcode": "\nngubi"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Ngubi is a Sira (B.40) Bantu language in Gabon distinct from all other Sira (B.40) languages\n(**hh:typ:Puech:Ngubi**, **hh:ld:AlekaPuech:Ngubi**, **hh:phonv:Agadji:Ngubi**). It is missing.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Ngubi"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nB404 Ngubi\nB404_Ngubi"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "Glottolog",
+    "date": "2025-11-27T08:16:16",
+    "comment": "Ngubi (NOCODE_Ngubi-NOCODE_Ngubi) = 7 (Shifting)"
+  }
+}

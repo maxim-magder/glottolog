@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nyarafolo Senoufo",
+    "hid": "sev",
+    "level": "language",
+    "iso639-3": "sev",
+    "latitude": "9.66934",
+    "longitude": "-5.11685",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36306\nhttps://en.wikipedia.org/wiki/Nyarafolo_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvtyp:Yeo:Senoufo**\n**hh:hvw:MensahTchagbale:Gur**\n**hh:typ:Boese:Nyarafolo**\n**hh:typ:Conseibo:Nyarafolo**\n**sil16:40273**\n**sil16:40700**\n**sil16:40802**"
+  },
+  "altnames": {
+    "multitree": "\nNyarafolo-Niafolo\nNyarofolo\nSenoufo, Nyarafolo",
+    "lexvo": "\nNyarafolo Senoufo [en]",
+    "hhbib_lgcode": "\nNyarafolo\nSenoufo Nyarafolo"
+  },
+  "triggers": {
+    "lgcode": "\nprocedurals\nlli\nnyarafolo"
+  },
+  "identifier": {
+    "multitree": "sev"
+  },
+  "classification": {
+    "sub": "**hh:hv:Guldemann:Africa:Classification**:199 **hh:hv:Miehe:Gur:2020**:194-196 **hh:hv:Carlson:Senufo** **hh:hb:vonRoncadorMiehe:Gur** **hh:phon:Mills:Senoufo**:xii-xx",
+    "subrefs": "\n**hh:hb:vonRoncadorMiehe:Gur**\n**hh:hv:Guldemann:Africa:Classification**\n**hh:hv:Carlson:Senufo**\n**hh:hv:Miehe:Gur:2020**\n**hh:phon:Mills:Senoufo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sénoufo, Nyarafolo (sev-sev) = 5* (Developing)."
+  }
+}

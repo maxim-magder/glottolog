@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Dyugun",
+    "hid": "dyd",
+    "level": "language",
+    "iso639-3": "dyd",
+    "latitude": "-17.906",
+    "longitude": "122.408",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Jugun](https://collection.aiatsis.gov.au/austlang/language/k2)\nhttps://en.wikipedia.org/wiki/Djugun_dialect\nhttps://phoible.org/languages/dyug1238\nhttps://www.wikidata.org/entity/Q3913785",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Bowern:Nyulnyulan-Jigsaw**\n**hh:w:Hosokawa:Jukun**\n**mpieva:MacGregor1996Studiesi**"
+  },
+  "altnames": {
+    "multitree": "\nDjugkan\nDjugun\nDjukan\nDjukun\nDjurgun\nDyugans\nDyugun\nJoogan\nJukan\nJukannganga\nJukun\nKularrabulu\nTjugan\nTjugun\nTjukun\nTjunung",
+    "lexvo": "\nDyugun [en]\nJukun language [en]\nLenga dyugun [pms]",
+    "hhbib_lgcode": "\nJukun",
+    "aiatsis": "\nDjugan\nDjugun\nDjukan\nDjukun\nDjurgun\nDyugun\nJugun\nJukan\nJukannganga\nJukun\nKularrabulu\nTjugan\nTjugun\nTjukun\nTjunung"
+  },
+  "triggers": {
+    "lgcode": "\ncoate"
+  },
+  "identifier": {
+    "multitree": "dyd",
+    "endangeredlanguages": "3160"
+  },
+  "classification": {
+    "sub": "**hh:hv:StokesMcGregor:Nyulnyulan**, **hh:vld:Bowern:Nyulnyulan**",
+    "subrefs": "\n**hh:vld:Bowern:Nyulnyulan**\n**hh:hv:StokesMcGregor:Nyulnyulan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dyugun (dyd-dyd) = 10 (Extinct)."
+  }
+}

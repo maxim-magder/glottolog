@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Mofu-Gudur",
+    "hid": "mif",
+    "level": "language",
+    "iso639-3": "mif",
+    "latitude": "10.567",
+    "longitude": "14.0314",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Mofu-Gudur](https://wals.info/languoid/lect/wals_code_mof)\nhttps://en.wikipedia.org/wiki/Mofu-Gudur_language\nhttps://phoible.org/languages/mofu1248\nhttps://www.wikidata.org/entity/Q1365132"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hollingsworth:86**\n**eballiso2009:13985**\n**eballiso2009:13987**\n**eballiso2009:15437**\n**eballiso2009:19670**\n**eballiso2009:19671**\n**eballiso2009:19672**\n**eballiso2009:19673**\n**eballiso2009:19675**\n**eballiso2009:19676**\n**eballiso2009:19677**\n**eballiso2009:19678**\n**eballiso2009:26201**\n**eballiso2009:26988**\n**eballiso2009:26989**\n**eballiso2009:27648**\n**eballiso2009:31035**\n**eballiso2009:31036**\n**eballiso2009:31669**\n**eballiso2009:39506**\n**eballiso2009:464**\n**eballiso2009:49699**\n**eballiso2009:49702**\n**eballiso2009:49704**\n**eballiso2009:49705**\n**eballiso2009:49706**\n**eballiso2009:50111**\n**eballiso2009:50187**\n**eballiso2009:51386**\n**eballiso2009:51391**\n**hh:d:Hollingsworth:Modu-Gudur**\n**hh:e:Marchesseau:Mofou**\n**hh:gd:Barreteau:Mofu-Gudur**\n**hh:gd:Barreteau:Mofu-Gudur:1983**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:typ:Hollingsworth:Mofu**\n**hh:typ:Hollingsworth:Mofu:Discourse**\n**mpieva:Caprile1978Prealabl**\n**mpieva:Jungraithmayr1978Cinqtext**\n**mpieva:Jungraithmayr1988Etudestc**\n**mpieva:Levinsohn1994Discours**\n**sil16:15966**\n**sil16:19229**\n**sil16:19230**\n**sil16:19231**\n**sil16:19232**\n**sil16:19947**\n**sil16:19948**\n**sil16:29370**\n**sil16:33841**\n**sil16:33842**\n**sil16:34795**\n**sil16:35392**\n**sil16:35394**\n**sil16:35863**\n**sil16:38124**\n**sil16:38239**\n**sil16:38240**\n**sil16:38241**\n**sil16:40608**\n**sil16:43344**\n**sil16:45528**\n**sil16:46428**\n**sil16:51527**"
+  },
+  "altnames": {
+    "wals": "\nMofu-Gudur",
+    "wals other": "\nMofu-Sud",
+    "ruhlen (1987)": "\nMofu (South)",
+    "moseley & asher (1994)": "\nMofu",
+    "multitree": "\nMofou\nMofou de Goudour\nMofu\nMofu South\nMofu-Gudur\nMofu-Sud\nMuffo\nMuffu",
+    "lexvo": "\nMofu-Gudur [en]\nMofu-Gudur language [en]",
+    "hhbib_lgcode": "\nMofou Durum"
+  },
+  "triggers": {
+    "lgcode": "\nng{gada\ngudur\ncell\nNOT tsanaga AND NOT i AND mofu\nzazay\nxieme\njgamakwa\nvaw\ncek"
+  },
+  "identifier": {
+    "wals": "mof",
+    "multitree": "mif"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:53-55",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mofu-Gudur (mif-mif) = 5 (Developing)."
+  }
+}

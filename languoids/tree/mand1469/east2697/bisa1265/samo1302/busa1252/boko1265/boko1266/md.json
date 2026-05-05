@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Boko (Benin)",
+    "hid": "bqc",
+    "level": "language",
+    "iso639-3": "bqc",
+    "latitude": "10.5189",
+    "longitude": "3.71771",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "NG"
+    ],
+    "links": "\n[Boko](https://lexibank.clld.org/languages/polyglottaafricana-Boko)\n[Boko](https://wals.info/languoid/lect/wals_code_bok)\nhttps://en.wikipedia.org/wiki/Boko_language\nhttps://phoible.org/languages/boko1266\nhttps://www.wikidata.org/entity/Q34983"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:660**\n**cldf:jones:00**\n**hh:d:Jones:Boko**\n**hh:d:Jones:Illo-Busa**\n**hh:g:Jones:BokoBusa**\n**hh:hw:Koelle:Polyglotta**\n**hh:s:Perexvalskaya:Boko**\n**iso6393:2012-080**\n**mpieva:Jones2004Bokodict**"
+  },
+  "altnames": {
+    "wals": "\nBoko",
+    "multitree": "\nBokko\nBoko\nBokonya\nBoo\nBusa\nBusa-Boko",
+    "lexvo": "\nBoko (Benin) [en]\nBoko [en]",
+    "hhbib_lgcode": "\nBoko\nBô\nIllo-Busa"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND boko"
+  },
+  "identifier": {
+    "wals": "bok",
+    "multitree": "bqc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dwyer:Mande:1989** **hh:hv:Dwyer:Mande**",
+    "subrefs": "\n**hh:hv:Dwyer:Mande:1989**\n**hh:hv:Dwyer:Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Boko (bqc-bqc) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bouna Kulango",
+    "hid": "nku",
+    "level": "language",
+    "iso639-3": "nku",
+    "latitude": "8.46011",
+    "longitude": "-2.74627",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI",
+      "GH"
+    ],
+    "links": "\n[Bouna Kulango](https://grambank.clld.org/languages/boun1243)\nhttps://phoible.org/languages/boun1243\nhttps://www.wikidata.org/entity/Q20668241"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:tauxier:21**\n**hh:e:Boutillier:Bouna**\n**hh:g:Elders:Kulango**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:hv:Manessy:Haute-Volta**\n**hh:hvw:MensahTchagbale:Gur**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:s:Prost:Kulango**\n**hh:w:Armstrong:West-African**"
+  },
+  "altnames": {
+    "multitree": "\nBouna Koulango\nBuna Kulango\nKoulango\nKulange\nKulango\nKulango, Bouna\nNkuraeng\nNkurange",
+    "lexvo": "\nBouna Kulango [en]",
+    "hhbib_lgcode": "\nBouna Koulango\nKoulango-nord\nKulango of Bouna\nKulango of Delafosse (looks like K-nord)\nKulango of Nassian\nKulango of Prost\nKulango-Bouna\nNabaj\nNabanj\nNabay Koulango\nNkami\nNkonya\nStefan Elders: F. Kulango"
+  },
+  "triggers": {
+    "lgcode": "\nsummaire"
+  },
+  "identifier": {
+    "multitree": "nku"
+  },
+  "classification": {
+    "sub": "**hh:g:Elders:Kulango**",
+    "subrefs": "\n**hh:g:Elders:Kulango**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kulango, Bouna (nku-nku) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sartang",
+    "hid": "onp",
+    "level": "language",
+    "iso639-3": "onp",
+    "latitude": "27.375914",
+    "longitude": "92.409383",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Sartang Darbu 1](https://lexibank.clld.org/languages/abrahammonpa-SartangDarbuA)\n[Sartang Darbu 2](https://lexibank.clld.org/languages/abrahammonpa-SartangDarbuB)\nhttps://en.wikipedia.org/wiki/Sartang_language\nhttps://www.wikidata.org/entity/Q7424639"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Dondrup:Boot-Monpa**\n**hh:h:Bodt:Sartang**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hld:Barthakur:Kameng**\n**hh:hv:Bodt:Western-Kho-Bwa**\n**hh:hvw:Blench:Arunachal:2024**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:hwsoc:Abrahametal:WArunachal**\n**hh:hwsoc:Abrahametal:WArunachal:2018**\n**hh:s:Dondrup:Boot-Monpa**\n**hh:w:Kumar:Monpa**\n**iso6393:2006-034**"
+  },
+  "altnames": {
+    "multitree": "\nBootpa\nBut\nBut Monpa\nBut Pa\nBut-pa\nMatchopa\nMatchopa Nagnoo\nMonpa\nSartang",
+    "lexvo": "\nSartang [en]",
+    "hhbib_lgcode": "\nBoot Monpa\nBut Monpa\nButpa\nDarbu (d)\nKhetamji\nKhoina\nKhoina (m)\nKhoitam\nKhoitam (b)\nKhunuji\nMonpa of Kameng\nRephinji\nSartangpa"
+  },
+  "triggers": {
+    "lgcode": "\nboot"
+  },
+  "identifier": {
+    "multitree": "onp"
+  },
+  "classification": {
+    "sub": "**hh:hv:LieberherrBodt:Kho-Bwa**",
+    "subrefs": "\n**hh:hv:LieberherrBodt:Kho-Bwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sartang (onp-onp) = 6a (Vigorous)."
+  }
+}

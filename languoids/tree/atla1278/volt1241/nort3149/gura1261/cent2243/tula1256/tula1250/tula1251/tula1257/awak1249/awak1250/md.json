@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Awak",
+    "hid": "awo",
+    "level": "language",
+    "iso639-3": "awo",
+    "latitude": "9.86334",
+    "longitude": "11.3291",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Yebu_language\nhttps://www.wikidata.org/entity/Q3446643"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:CAPRO:Bauchi-State**\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hvw:Jungraithmayr:Class**\n**hh:hvw:Kleinewillinghofer:Tula-Waja**\n**hh:ld:Kleinewillinghofer:Waja-Geographisches**\n**hh:typ:Blench:Yebu**"
+  },
+  "altnames": {
+    "multitree": "\nAwak\nAwok\nYebu",
+    "lexvo": "\nAwak [en]",
+    "hhbib_lgcode": "\nAwak (Yebu/Awok)\nAwok\nYebu"
+  },
+  "triggers": {
+    "lgcode": "\nburak"
+  },
+  "identifier": {
+    "multitree": "awak;awo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Kleinewillinghofer:Tula-Waja**:2 **hh:hv:Kleinewillinghofer:Adamawa:2020**:224",
+    "subrefs": "\n**hh:hvw:Kleinewillinghofer:Tula-Waja**\n**hh:hv:Kleinewillinghofer:Adamawa:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Awak (awo-awo) = 5* (Developing)."
+  }
+}

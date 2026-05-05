@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Deccan Marathi",
+    "hid": "dcc",
+    "level": "dialect",
+    "iso639-3": "dcc",
+    "latitude": "18.5919",
+    "longitude": "75.717",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Berar-Deccan_Marathi\nhttps://www.wikidata.org/entity/Q86753925"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Grierson:7**",
+    "subrefs": "\n**hh:hvw:Grierson:7**"
+  },
+  "sources": {
+    "glottolog": "\n**mpieva:1960Linguist**"
+  },
+  "altnames": {
+    "multitree": "\nDeccan\nDeccan Marathi\nDeccani\nDekini\nDesi",
+    "lexvo": "\nDeccan [en]",
+    "hhbib_lgcode": "\nBijapuri\nKalvadi",
+    "glottolog": "\nDeccan"
+  },
+  "triggers": {
+    "lgcode": "\nvariation AND diversity"
+  },
+  "identifier": {
+    "multitree": "dcc"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Deccan (dcc-dcc) = 6a* (Vigorous)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Deccan [dcc] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate language from Marathi [mar]. The entry for Deccan [dcc]\nclosely matches the information from **hh:hvw:Grierson:7**:15, 33, 47-60,\n219 on the ``broken dialects of the Dekhan'',\nsuch as the subvarieties Dharwar and Bijapuri, but also contains information matching the similarly named Dakkhini Urdu variety of the Urdu [urd] (**hh:hdial:Schmidt:Dakhini**) such as the primary usage of Arabic script. The varieties of Dharwar and Bijapuri,\nthough showing some Kannada influences, are essentially the same dialect as the Marathi [mar] (**hh:hvw:Grierson:7**:15, 33, 47-60,\n219, called Dekhan Marathi by him). Hence this entry is spurious either as the Marathi variety or as Dakkhini Urdu. See also: Marathi [mar], Urdu [urd].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "dcc"
+  }
+}

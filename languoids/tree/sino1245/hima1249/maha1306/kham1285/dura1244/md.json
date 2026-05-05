@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Dura",
+    "hid": "drq",
+    "level": "language",
+    "iso639-3": "drq",
+    "latitude": "28.173",
+    "longitude": "84.435",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Dura](https://grambank.clld.org/languages/dura1244)\nhttps://en.wikipedia.org/wiki/Dura_language\nhttps://www.wikidata.org/entity/Q3449842",
+    "timespan": "2005-01-01/2005-01-01"
+  },
+  "classification": {
+    "sub": "**hh:sv:Schorer:Dura**:292-295",
+    "subrefs": "\n**hh:sv:Schorer:Dura**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nagila:09**\n**hh:d:Dura:Dura**\n**hh:d:Nagila:Dura**\n**hh:s:Ghimire:Dura**\n**hh:sd:Nagila:Dura**\n**hh:sv:Schorer:Dura**\n**hh:sv:Schorer:Dura:2013**\n**hh:typ:Nagila:Dura**\n**hh:w:Adhikari:Dura**"
+  },
+  "altnames": {
+    "multitree": "\nDura",
+    "lexvo": "\nDura [en]",
+    "hhbib_lgcode": "\nCalled Dura but is in fact Tandrange"
+  },
+  "triggers": {
+    "lgcode": "\ndura"
+  },
+  "identifier": {
+    "multitree": "drq"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Dura (438-drq) = Extinct"
+  }
+}

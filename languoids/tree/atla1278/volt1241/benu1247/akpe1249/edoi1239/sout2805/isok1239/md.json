@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Isoko",
+    "hid": "iso",
+    "level": "language",
+    "iso639-3": "iso",
+    "latitude": "5.52889",
+    "longitude": "6.24682",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Isoko](https://wals.info/languoid/lect/wals_code_iso)\nhttps://en.wikipedia.org/wiki/Isoko_language\nhttps://phoible.org/languages/isok1239\nhttps://www.wikidata.org/entity/Q35414"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:donwa-ifode:85:2**\n**eballiso2009:20881**\n**eballiso2009:20888**\n**eballiso2009:32618**\n**eballiso2009:40364**\n**eballiso2009:56734**\n**eballiso2009:57695**\n**eballiso2009:7214**\n**hh:e:Welch:Isoko**\n**hh:e:Welch:Isoko:1937**\n**hh:he:Bradbury:Edo**\n**hh:hv:Elugbe:Southwestern-Edo**\n**hh:hvw:Elugbe:Edoid**\n**hh:ld:Donwa-Ifode:Isoko:1985**\n**hh:ld:Yul-Ifode:Isoko**\n**hh:phon:Donwa-Ifodw:Isoko**\n**hh:phon:Donwa:Isoko**\n**hh:phon:Mafeni:Isoko**\n**hh:typ:Donwa-Ifode:Intonation-Isoko**\n**hh:w:Thomas:Edo-Other**"
+  },
+  "altnames": {
+    "wals": "\nIsoko",
+    "wals other": "\nIsoko\nUzere dialect",
+    "ruhlen (1987)": "\nIsoko",
+    "moseley & asher (1994)": "\nIsoko",
+    "multitree": "\n\"Biotu\"\n\"Igabo\"\n\"Sobo\"\nIsoko\nSobo",
+    "lexvo": "\nIsoko [en]\nIsoko language [en]",
+    "hhbib_lgcode": "\nIyede"
+  },
+  "triggers": {
+    "lgcode": "\nisoko\nuzere"
+  },
+  "identifier": {
+    "wals": "iso",
+    "multitree": "iso"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Elugbe:Edoid**",
+    "subrefs": "\n**hh:hvw:Elugbe:Edoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Isoko (iso-iso) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Hmwaveke",
+    "hid": "mrk",
+    "level": "language",
+    "iso639-3": "mrk",
+    "latitude": "-20.9246",
+    "longitude": "164.768",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Hmwaveke](https://endangeredlanguages.com/lang/4276)\nhttps://en.wikipedia.org/wiki/Hmwaveke_language\nhttps://www.wikidata.org/entity/Q5873712\n[ʰMoavekɛ](https://lexibank.clld.org/languages/abvdoceanic-Moavek)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:phon:Campbell:Fa-Tieta**\n**iso6393:2012-143**"
+  },
+  "altnames": {
+    "multitree": "\nCeta\nFaa Ceta\nHmwaveke\nMoaveke\nNeukaledonien",
+    "lexvo": "\nHmwaveke [en]",
+    "hhbib_lgcode": "\nMoaveke",
+    "elcat": "\nCeta\nFaa Ceta\nHmwaveke\nMoaveke\nNeukaledonien"
+  },
+  "triggers": {
+    "lgcode": "\ntieta"
+  },
+  "identifier": {
+    "multitree": "mrk;hmwa",
+    "endangeredlanguages": "4276"
+  },
+  "classification": {
+    "sub": "**hh:hbld:Haudricourt:New-Caledonia-Loyalty**",
+    "subrefs": "\n**hh:hbld:Haudricourt:New-Caledonia-Loyalty**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hmwaveke (4276-mrk) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

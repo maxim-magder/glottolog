@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Fars Dialects",
+    "hid": "fay",
+    "level": "language",
+    "iso639-3": "fay",
+    "latitude": "29.746",
+    "longitude": "52.267",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Dialects_of_Fars\nhttps://www.wikidata.org/entity/Q2395023"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Davani:Davani**\n**hh:d:Musawi:Gavkosak**\n**hh:d:Salami:Fars:1**\n**hh:d:Salami:Fars:2**\n**hh:d:Salami:Fars:6**\n**hh:d:Yeganeh:Jidi-Shiraz**\n**hh:ew:Shahbazi:Surkhi-Fars**\n**hh:g:Angali:Angali**\n**hh:h:Lecoq:SWIran**\n**hh:hld:Hajiani:Ardakani**\n**hh:hld:Oranskij:Iranskie**\n**hh:hld:RogovaRomanova:Iranskie**\n**hh:hldsoc:Borjian:Judeo-Iranian**\n**hh:hvld:Borjian:Judeo-Median**\n**hh:hvld:Mahamedi:Fars**\n**hh:hvst:Mann:Fars**\n**hh:ld:Morgenstierna:Persian-Dialects**\n**hh:s:Bolouki:Kharg**\n**hh:s:Kerimova:Farsa**\n**hh:s:Mortazavi:Behbahan**\n**hh:s:Rasti:Behbahani**\n**hh:s:Taki:Shahreza**\n**hh:sd:HesampourJabbareh:Sorkhi**\n**hh:t:Ahmad:Xarg**\n**hh:t:HesampourJabbareh:Sorkhi**\n**hh:typ:Gerami:Behbahani**\n**hh:typ:Gerami:Behbahani-Tartib**\n**hh:typ:Karimi:Sorkhi**\n**hh:typ:Moghaddam:Davani**\n**hh:v:Borjian:Shiraz-Jewry**\n**hh:vwtyp:Borjian:Kharg**\n**hh:w:Akbarzada:Dashtestani**\n**hh:w:Hamidi:Busehr**"
+  },
+  "altnames": {
+    "multitree": "\n\"Tajik\"\nFars\nFars, Southwestern",
+    "lexvo": "\nDavani dialect [en]\nSouthwestern Fars [en]",
+    "hhbib_lgcode": "\nAngali\nArdakani\nBehbahan\nBuringuni-Songuni-Masarmi-Papuni\nBushihr\nBušehr\nBùringûnî\nDalirān\nDashti\nDashtī (Dashtinī)\nDashtī (Dashtinī)\nDavani\nDavānī\nDavānī\nFars dialects\nFars-Southwestern\nGāvkošak in Kuhmarra Noudān\nJudeo-Shirazi likely intelligible to Fars Dialects\nKharg\nKuhmareh Sorkhi of Fars\nMâsärmî\nPāpūnī\nPâpûnî\nPāpūnī\nSW Farsa\nShirazi Jews\nSomghûnî\nSorxi\nSouthwestern Fars\nSumghānī\nSumghānī\nV2:154-158 brief summary of Southwestern Fars\nXarg"
+  },
+  "triggers": {
+    "lgcode": "\nangali\nfarsa"
+  },
+  "identifier": {
+    "multitree": "fay"
+  },
+  "classification": {
+    "sub": "**hh:h:Lecoq:SWIran**:341",
+    "subrefs": "\n**hh:h:Lecoq:SWIran**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Lari (1765-lrl, fay) = Definitely endangered"
+  }
+}

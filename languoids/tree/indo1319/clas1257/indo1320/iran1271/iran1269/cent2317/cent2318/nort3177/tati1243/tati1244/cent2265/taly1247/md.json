@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "North-Central Talysh",
+    "hid": "tly",
+    "level": "language",
+    "iso639-3": "tly",
+    "latitude": "38.4552",
+    "longitude": "48.6349",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "IR",
+      "RU"
+    ],
+    "links": "\n[Talysh](https://endangeredlanguages.com/lang/5697)\n[Talysh (Azerbaijan)](https://wals.info/languoid/lect/wals_code_taz)\nhttps://en.wikipedia.org/wiki/Talysh_language\nhttps://www.wikidata.org/entity/Q34318"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clifton:tiessen:etal:05**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:humphreys:mits:ed:93**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:paul:11**\n**cldf:stilo:05**\n**hh:b:AsatrianBorjian:Talish**\n**hh:d:Abdoli:Talesi-Tati-Azari**\n**hh:d:Aboszoda:Talys**\n**hh:d:Aboszoda:Talyshi**\n**hh:d:Mamedov:Talysko**\n**hh:d:Pirejko:Talys**\n**hh:e:Bazin:Talech**\n**hh:e:Bazin:Tales**\n**hh:g:Miller:Talysh**\n**hh:g:Paul:Taleshi**\n**hh:hvtyp:Jahandust:Tati-Taleshi-Gilaki**\n**hh:s:Guizzo:Taleshi**\n**hh:s:Hajatpur:Talesi**\n**hh:s:KohanHajatpour:Taleshi**\n**hh:s:Mammedov:Talysh**\n**hh:s:Pirejko:Tati-Irana**\n**hh:s:Piriyeva:Talysh**\n**hh:s:Schulze:Talysh**\n**hh:s:Yarshater:Taleshi-Asalem**\n**hh:soc:Tiessen:Talysh**\n**hh:t:Abdoli:Tales-Tat**\n**hh:t:Abilov:Talyshskoj**\n**hh:t:Miller:Talyshskie**\n**hh:v:Stilo:Northern-Talyshi**\n**hh:w:Bazin:Talesi**\n**hh:w:deMorgan:Nord-Perse**\n**ldh:item_404469**\n**mpieva:Pirejko1976TolysaUr**\n**sil16:45431**\n**sil16:45587**\n**sil16:45622**"
+  },
+  "altnames": {
+    "wals": "\nTalysh (Azerbaijan)\nTalysh (Southern)",
+    "ruhlen (1987)": "\nTalish",
+    "moseley & asher (1994)": "\nTalysh",
+    "multitree": "\nTalesh\nTaleshi\nTalish\nTalishi\nTalisí\nTalysh\nTalyshi",
+    "lexvo": "\nTalicheg [br]\nTalisch [de]\nTalişki [diq]\nTalişler [tr]\nTalysh [en]\nTalysh language [en]\nTalyšin kieli [fi]\nТалишки език [bg]\nТалыш чĕлхи [cv]\nТалышаг æвзаг [os]\nТалышский язык [ru]\nتالشی [fa]\nภาษาตาลิซ [th]",
+    "hhbib_lgcode": "\nAnbarani\nAnbarân Mahalle\nAsalemi\nCentral Talysh\nCentral Talyshi\nHashtpar\nKarganrudi\nNorthern Talysh\nNorthern Talyshi\nTaleshi Asalem\nTalych-Lenkorân\nTalysh\nTalysh from AzCCR\nTâleshi\nXâle Sarâ (Asâlem)",
+    "elcat": "\nTalesh\nTaleshi\nTalish\nTalishi\nTalysh\nTalyshi\nTalış dili\nTolışi\nТолыши\nتالشی زَوُن\nزبان تالشی"
+  },
+  "triggers": {
+    "lgcode": "\ntalysh\nmasule\nurusa\ntalyshi\nxosabari\ncombinations\ntaleshi\ntalysko\ntalish\ntalyshskij\ntalysskij\nirana"
+  },
+  "identifier": {
+    "wals": "taz;tls",
+    "multitree": "taly;tly",
+    "endangeredlanguages": "5697"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Stilo:Tati**",
+    "subrefs": "\n**hh:hvld:Stilo:Tati**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Talysh (5697-tly) = At risk (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

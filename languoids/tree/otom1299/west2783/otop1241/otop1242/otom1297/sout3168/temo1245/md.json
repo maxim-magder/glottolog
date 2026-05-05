@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Temoaya Otomi",
+    "hid": "ott",
+    "level": "language",
+    "iso639-3": "ott",
+    "latitude": "19.6001",
+    "longitude": "-99.6541",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Temoaya Otomi](https://grambank.clld.org/languages/temo1245)\nhttps://en.wikipedia.org/wiki/Temoaya_Otomi\nhttps://www.wikidata.org/entity/Q7698191"
+  },
+  "sources": {
+    "glottolog": "\n**hh:el:Villar:Otomi-Michoacano**\n**hh:hbw:Lastra:Otomi**\n**hh:hevw:Lastra:Otomies**\n**hh:phon:Andrews:Temoayan-Otomi**\n**hh:s:Lastra:Otomi-Cuexcontitlan**\n**hh:std:Lastra:Otomi-Toluca**\n**hh:t:Lastra:Cuexcontitlan**\n**hh:t:Lastra:Zitacuaro**\n**hh:w:Lastra:Otomi**\n**ldh:item_405389**"
+  },
+  "altnames": {
+    "multitree": "\nOthomí\nOtomi\nOtomi, Temoaya\nOtomí\nOtomí de Mezquital\nOtomí de la Sierra\nOtomí del valle de Mezquital\nSouthwest",
+    "lexvo": "\nTemoaya Otomi [en]",
+    "hhbib_lgcode": "\nOtomi Michoacano closest to Otomi-Temoaya\nOtomi Toluca\nOtomi-Temoaya\nSan Andres Cuexcontitlan\nSan Andrés\nSan Felipe\nSan Felipe los Alzati west of Otomi-Temoaya\nToluca"
+  },
+  "triggers": {
+    "lgcode": "\nalzati\nmorphophonemes\ntoluca\nzitacuaro\ncuexcontitlan\ntemoayan"
+  },
+  "identifier": {
+    "multitree": "ott"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997** **hh:hv:Campbell:Otomanguean**",
+    "subrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Western Otomí (931-) = Severely endangered; Central Otomí (928-) = Definitely endangered"
+  }
+}

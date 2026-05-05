@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Seimat",
+    "hid": "ssg",
+    "level": "language",
+    "iso639-3": "ssg",
+    "latitude": "-1.2666667",
+    "longitude": "144.25",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Seimat](https://grambank.clld.org/languages/seim1238)\n[Seimat](https://lexibank.clld.org/languages/abvdoceanic-Seimat)\nhttps://en.wikipedia.org/wiki/Seimat_language\nhttps://phoible.org/languages/seim1238\nhttps://www.wikidata.org/entity/Q3182581"
+  },
+  "sources": {
+    "glottolog": "\n**bowern:smyzgr75**\n**cldf:blust:75:1**\n**hh:he:Dempwolff:Westlichen-Inseln-Deutsch-Neu-Guinea**\n**hh:hew:Thilenius:Melanesien**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Blust:Western-Islands**\n**hh:hw:Dempwolff:Deutsch-Neuguinea**\n**hh:hw:Zgraggen:Admiralty**\n**hh:s:WoznaWilson:Seimat**\n**hh:wtyp:Blust:Seimat**\n**sil16:46048**\n**sil16:47656**\n**sil16:48158**"
+  },
+  "altnames": {
+    "multitree": "\nAdmiralitäts-inseln\nNinigo\nSeimat",
+    "lexvo": "\nSeimat [en]",
+    "hhbib_lgcode": "\nNinigo"
+  },
+  "triggers": {
+    "lgcode": "\nseimat"
+  },
+  "identifier": {
+    "multitree": "ssg"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blust:Western-Islands**:40",
+    "subrefs": "\n**hh:hvw:Blust:Western-Islands**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Seimat (ssg-ssg) = 4 (Educational)."
+  }
+}

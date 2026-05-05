@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "San Francisco Bay Ohlone",
+    "hid": "cst",
+    "level": "language",
+    "iso639-3": "cst",
+    "latitude": "37.436487",
+    "longitude": "-121.827674",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[San Francisco Bay Costanoan](https://endangeredlanguages.com/lang/7409)\nhttps://www.wikidata.org/entity/Q25559666",
+    "timespan": "1800-01-01/1800-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:committee:11**\n**cldf:kroeber:07:1**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Levy:Costanoan**\n**hh:e:Milliken:San-Francisco-Bay**\n**hh:e:Milliken:San-Francisco-Bay:1995**\n**hh:hvb:Golla:California**\n**hh:hvw:Kroeber:Chumash-Costanoan**\n**hh:hvw:Powell:California**\n**hh:ld:Brown:Costanoan**\n**hh:w:Heizer:Henshaw**\n**hh:w:Okrand:San-Francisco-Costanoan**"
+  },
+  "altnames": {
+    "lexvo": "\nChochenyo [en]\nChocheño [hr]\nNorthern Ohlone [en]",
+    "hhbib_lgcode": "\nChocheno\nChocheño\nCostano\nMisión Dolores\nNorthern Ohlone\nOhlone-Northern\nRamaytush\nSan Francisco\nSan Francisco Bay Costanoan\nSan Francisco Costanoan\nSan Francisco words that Harrington elicited from Solis\nSan Jose Costanoan\nSanta Clara\nSanta Clara (by Mengarini 1860)\nSanta Clara (from Mengarini 1860)\nSanta Cruz\nTamyen",
+    "elcat": "\nChochenyo\nChocheño\nCostanoan\nNorthern Costanoan\nNorthern Ohlone\nSan Francisco Bay Costanoan\nČočenyo",
+    "glottolog": "\nNorthern Ohlone"
+  },
+  "triggers": {
+    "lgcode": "\nnorthern AND ohlone"
+  },
+  "identifier": {
+    "wals": "cos",
+    "endangeredlanguages": "7409"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Callaghan:Utian**:14-18",
+    "subrefs": "\n**hh:hvw:Callaghan:Utian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "San Francisco Bay Costanoan (7409-cst) = Awakening (Revitalization work in progress: all ages attend workshops in the language. Many consider themselves speakers because they can converse in the language.) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Axi Yi",
+    "hid": "yix",
+    "level": "language",
+    "iso639-3": "yix",
+    "latitude": "24.6009",
+    "longitude": "103.713",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Axi](https://lexibank.clld.org/languages/yangyi-Axi)\n[Axi Yi](https://grambank.clld.org/languages/axiy1235)\n[Yi (Mile)](https://lexibank.clld.org/languages/suntb-MileYi)\nhttps://en.wikipedia.org/wiki/Axi_language\nhttps://phoible.org/languages/axiy1235\nhttps://www.wikidata.org/entity/Q4830439"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Yang:Luo**\n**hh:h:Hattaway:China**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hphon:Wang:Yi**\n**hh:hvsoc:Pelkey:Phula**\n**hh:hvw:Chenetal:Yi**\n**hh:hvw:Lama:Nisoic**\n**hh:hvw:Zhu:Yi**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hw:Ollone:Chine**\n**hh:ld:Lan:Mile-Yi**\n**hh:ld:Wu:Axi**\n**hh:phon:Pan:Axi**\n**hh:s:Chenetal:Yi**\n**hh:s:Lietard:Ahi**\n**hh:s:Lietard:Ahi:1911**\n**hh:s:Wu:Axi**\n**hh:ssoc:Iwasa:Axi-Azha**\n**hh:t:Yuan:Ahsi**\n**hh:typ:Gerner:Yi**\n**hh:w:Boell:Lolo-Ahi**\n**hh:w:Lietard:Lo-Lo**\n**hh:w:Lietard:Yun-nan**\n**hh:w:YNYF:Yunnan-Yi**\n**hh:w:Zhang:Yunnan-Yi**"
+  },
+  "altnames": {
+    "multitree": "\nAhi\nAxi\nAxibo\nAxipo\nLolo\nYi\nYi, Axi",
+    "lexvo": "\nAxi Yi [en]",
+    "hhbib_lgcode": "\n14 Achipo-Lolo-Ijen-Lou nan tcheou in Yun nan\nA-hsi\nAcipo\nAhi\nAhi 550-8 and 567-9\nAhsi\nAsi\nAxi\nMile\nMile (Axi) Axipo\nMile Axi\nMile Yi\nSoutheastern Dialect"
+  },
+  "triggers": {
+    "lgcode": "\nyi AND continuum"
+  },
+  "identifier": {
+    "multitree": "yix"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**:151-153",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Axi (yix-yix) = 6b (Threatened). Language of recognized nationality: Yi."
+  }
+}

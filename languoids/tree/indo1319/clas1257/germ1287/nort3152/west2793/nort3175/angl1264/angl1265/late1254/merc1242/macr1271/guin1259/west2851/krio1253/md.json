@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Krio",
+    "hid": "kri",
+    "level": "language",
+    "iso639-3": "kri",
+    "latitude": "10.8811",
+    "longitude": "-14.3204",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "GN",
+      "SL",
+      "SN",
+      "US"
+    ],
+    "links": "\n[Krio](https://apics-online.info/contributions/15)\nhttps://en.wikipedia.org/wiki/Krio_language\nhttps://phoible.org/languages/krio1253\nhttps://www.wikidata.org/entity/Q35744"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:finney:02**\n**cldf:finney:03**\n**cldf:finney:07**\n**cldf:hancock:71**\n**cldf:jones:71:1**\n**cldf:nylander:81**\n**eballiso2009:13541**\n**eballiso2009:1532**\n**eballiso2009:1676**\n**eballiso2009:17008**\n**eballiso2009:2064**\n**eballiso2009:23737**\n**eballiso2009:23921**\n**eballiso2009:24386**\n**eballiso2009:25182**\n**eballiso2009:26334**\n**eballiso2009:30015**\n**eballiso2009:31110**\n**eballiso2009:33472**\n**eballiso2009:33478**\n**eballiso2009:33479**\n**eballiso2009:35491**\n**eballiso2009:35492**\n**eballiso2009:37239**\n**eballiso2009:37831**\n**eballiso2009:41121**\n**eballiso2009:43132**\n**eballiso2009:4967**\n**eballiso2009:49889**\n**eballiso2009:53521**\n**eballiso2009:54475**\n**eballiso2009:54515**\n**eballiso2009:54516**\n**eballiso2009:55486**\n**eballiso2009:59637**\n**eballiso2009:641**\n**eballiso2009:6468**\n**eballiso2009:6579**\n**eballiso2009:9750**\n**hh:g:Nylander:Krio**\n**hh:hvld:Yakpo:West-African-Pidgin**\n**hh:hvs:Dalphinis:Kriul-Krio-Patwa**\n**hh:s:Dyachkov:Krio**\n**hh:s:Finney:Krio**\n**hh:s:Wilson:Krio**\n**hh:sd:FyleJones:Krio**\n**hh:soc:Huber:Nova-Scotia-Sierra-Leone**\n**hh:typ:Yillah:Krio**\n**hh:v:Hancock:Krio**\n**hh:v:Welmers:Relationships-Africa**\n**hh:vld:Huber:Krio**"
+  },
+  "triggers": {
+    "lgcode": "\nkrio\nolumokuk"
+  },
+  "classification": {
+    "sub": "**hh:svsoc:Huber:Ghanaian**:75-129 **hh:hvld:Yakpo:West-African-Pidgin**",
+    "subrefs": "\n**hh:hvld:Yakpo:West-African-Pidgin**\n**hh:svsoc:Huber:Ghanaian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Krio (kri-kri) = 3 (Wider communication). Originated in the Atlantic slave trade of the 17th and 18th centuries when it was used to facilitate coastal trade between Europeans and Africans. Used as trade language and for social interaction among all 16 ethnic groups in Sierra Leone."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAku\nGambian Krio"
+  }
+}

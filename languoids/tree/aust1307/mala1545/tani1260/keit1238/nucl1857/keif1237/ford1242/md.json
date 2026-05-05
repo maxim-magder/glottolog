@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Fordata",
+    "hid": "frd",
+    "level": "language",
+    "iso639-3": "frd",
+    "latitude": "-7.28902",
+    "longitude": "131.511",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q5468035\nhttps://en.wikipedia.org/wiki/Fordata_language\n[Fordata](https://wals.info/languoid/lect/wals_code_frd)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1643**\n**cldf:drabbe:26:1**\n**cldf:elath:90**\n**hh:d:Drabbe:Fordaatsche**\n**hh:e:Drabbe:Tanembarees**\n**hh:e:vanHoevell:Tanimbar**\n**hh:hew:Bastian:Timor**\n**hh:hv:Collins:Maluku**\n**hh:hv:Mills:Tanimbar-Kei**\n**hh:phon:Marshall:Fordata**\n**hh:phon:Marshall:Fordata:2000**\n**hh:s:Drabbe:Fordaatsche**\n**hh:s:Elath:Fordata**\n**hh:s:Pieter:Tanimbar**\n**hh:w:Earl:Timor**\n**hh:w:Stokhofetal:Holle:3:1**\n**mpieva:2000Spicesfr**\n**mpieva:Burquest19921995Descript**\n**sil16:24447**\n**sil16:37295**\n**sil16:37681**\n**sil16:37682**"
+  },
+  "altnames": {
+    "wals": "\nFordata",
+    "ruhlen (1987)": "\nKei-Fordata",
+    "moseley & asher (1994)": "\nKei",
+    "multitree": "\nFordata\nLarat\nVai Fordata\nVai Tnebar\nVaidida",
+    "lexvo": "\nFordata [en]",
+    "hhbib_lgcode": "\nFordata-Fordata\nFordata-Larat\nKei-Fordata\nSejrah auf den Tenimber\nTanembarees\nTanimbar\nTanimbarese\nTenimber (Baba)"
+  },
+  "triggers": {
+    "lgcode": "\nvaidida\nfordaatsche\nfordata\nnvaak\ntvaat"
+  },
+  "identifier": {
+    "wals": "frd",
+    "multitree": "frd"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mills:Tanimbar-Kei** **hh:hv:Blust:CEMP**:276 **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:441-487",
+    "subrefs": "\n**hh:hv:Blust:CEMP**\n**hh:hv:Mills:Tanimbar-Kei**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fordata (frd-frd) = 6b* (Threatened)."
+  }
+}

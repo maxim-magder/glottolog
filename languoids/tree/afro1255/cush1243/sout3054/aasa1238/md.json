@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Aasax",
+    "hid": "aas",
+    "level": "language",
+    "iso639-3": "aas",
+    "latitude": "-4.00679",
+    "longitude": "36.8648",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Aasáx](https://endangeredlanguages.com/lang/3581)\nhttps://www.wikidata.org/entity/Q56620\nhttps://en.wikipedia.org/wiki/Asa_language",
+    "timespan": "2000-01-01/2000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:20826**\n**eballiso2009:29725**\n**eballiso2009:35111**\n**eballiso2009:7057**\n**hh:e:Merker:Masai**\n**hh:e:Merker:Masai:1910**\n**hh:ew:Maguire:Il-Torobo**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hel:Sommer:Survey**\n**hh:ld:PetrollinoMous:Aasa**\n**hh:soc:Winter:Aasax**\n**hh:vld:Kruijsdijk:Asa-Qwadza**\n**hh:vw:Fleming:Asa**\n**hh:w:Maguire:Il-Torobo:1928**\n**hh:w:Winter:Aasax**\n**iso6393:2014-042**"
+  },
+  "altnames": {
+    "multitree": "\n\"Dorobo\"\n\"Ndorobo\"\nAasax\nAasá\nAasáx\nAsa\nAsak\nAsax\nAssa\nAsá\nIl Konono\nLamanik",
+    "lexvo": "\nAasax [es]\nAasax hizkuntza [eu]\nAasáx [ca]\nAasáx jezik [hr]\nAasáx language [en]\nAsakeg [br]",
+    "hhbib_lgcode": "\nAasax local group of Inkeso\nAasáx\nAasáx local group of Letema also known as Lelatema Mountain\nAramanig\nAramanik",
+    "elcat": "\n\"Dorobo\"\n\"Ndorobo\"\nAasax\nAasá\nAasáx\nAsa\nAsak\nAsax\nAssa\nAsá\nIl Konono\nLamanik"
+  },
+  "triggers": {
+    "lgcode": "\naasax\nasa\naasa\nrecollecting\nmasailand"
+  },
+  "identifier": {
+    "multitree": "aas",
+    "endangeredlanguages": "3581"
+  },
+  "classification": {
+    "sub": "**hh:vld:Kruijsdijk:Asa-Qwadza**, **hh:hvw:Blazek:South-Cushitic**",
+    "subrefs": "\n**hh:hvw:Blazek:South-Cushitic**\n**hh:vld:Kruijsdijk:Asa-Qwadza**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aasáx (3581-aas) = Dormant [Petrollino and Mous 2010](cldf:petrollino:mous:10)"
+  }
+}

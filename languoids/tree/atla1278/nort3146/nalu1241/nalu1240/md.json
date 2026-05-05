@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Nalu",
+    "hid": "naj",
+    "level": "language",
+    "iso639-3": "naj",
+    "latitude": "11.0397",
+    "longitude": "-14.8188",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "GW"
+    ],
+    "links": "\n[Nalu](https://endangeredlanguages.com/lang/1463)\n[Nalu](https://lexibank.clld.org/languages/polyglottaafricana-Nalu)\nhttps://en.wikipedia.org/wiki/Nalu_language\nhttps://www.wikidata.org/entity/Q36026"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:almada:41**\n**cldf:almada:42**\n**cldf:almada:64**\n**cldf:almada:84**\n**cldf:almada:94:1**\n**cldf:almada:94:2**\n**cldf:childs:06**\n**cldf:ed:10**\n**cldf:hair:67:2**\n**cldf:johnston:19:36**\n**cldf:kihm:80**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:seidel:10**\n**eballiso2009:13967**\n**eballiso2009:13968**\n**eballiso2009:25760**\n**eballiso2009:25766**\n**eballiso2009:25772**\n**eballiso2009:25777**\n**eballiso2009:32627**\n**eballiso2009:36459**\n**eballiso2009:36460**\n**eballiso2009:36461**\n**eballiso2009:36462**\n**eballiso2009:36465**\n**eballiso2009:36467**\n**eballiso2009:36468**\n**eballiso2009:53273**\n**eballiso2009:7398**\n**hh:e:Meo:Rio-Nunez**\n**hh:h:deNordeck:Bagas**\n**hh:hv:Fields:Baga**\n**hh:hv:Houis:Guinee-Cotiere**\n**hh:hvw:Fields:Rio-Nunez**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Koelle:Polyglotta**\n**hh:ld:Wilson:Nalu**\n**hh:s:Seidel:Nalu**\n**hh:typ:Seidel:Nalu-Yeyi**\n**hh:w:Armstrong:West-African**\n**hh:w:Corre:Rio-Nunez**\n**hh:w:Wilson:Baga**"
+  },
+  "altnames": {
+    "multitree": "\nNalou\nNalu",
+    "lexvo": "\nNalu [en]",
+    "hhbib_lgcode": "\nNalou\nNalous\nNalu of Koukouba in Guinea",
+    "elcat": "\nNalou\nNalu"
+  },
+  "triggers": {
+    "lgcode": "\nminorites\nnunez\nbaixos\nsuccinct\nesmeraldo\nnalu\nalvares"
+  },
+  "identifier": {
+    "multitree": "naj",
+    "endangeredlanguages": "1463"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nalu (1463-naj) = Vulnerable (20 percent certain, based on the evidence available) [Seidel 2010](cldf:seidel:10)"
+  }
+}

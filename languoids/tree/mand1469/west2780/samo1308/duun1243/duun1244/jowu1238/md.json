@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Jowulu",
+    "hid": "jow",
+    "level": "language",
+    "iso639-3": "jow",
+    "latitude": "10.7691",
+    "longitude": "-5.47873",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "ML"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3914487\nhttps://en.wikipedia.org/wiki/Jowulu_language\nhttps://phoible.org/languages/jowu1238"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:25870**\n**hh:phon:Djilla:Jowulu**\n**hh:s:Carlson:Jo**\n**hh:typ:Idiatov:Bobo-Samogo**\n**hh:w:Prost:Don**"
+  },
+  "altnames": {
+    "multitree": "\nJo\nJowulu\nSamogho",
+    "lexvo": "\nJowulu [en]",
+    "hhbib_lgcode": "\nConfusingly called Don but it is Jowulu\nJo"
+  },
+  "triggers": {
+    "lgcode": "\njo{\nsamogho\nnymphes\nfeminine\njowulu\nnixenkultbundes"
+  },
+  "identifier": {
+    "multitree": "jow"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Kastenholz:Samogo**:100 **hh:hv:Kastenholz:West-Mande**",
+    "subrefs": "\n**hh:hvtyp:Kastenholz:Samogo**\n**hh:hv:Kastenholz:West-Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jowulu (jow-jow) = 5 (Developing)."
+  }
+}

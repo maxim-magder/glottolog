@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tawoyan",
+    "hid": "twy",
+    "level": "language",
+    "iso639-3": "twy",
+    "latitude": "-1.30017",
+    "longitude": "115.204",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3513542"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Hudson:Sarawak**\n**hh:hvw:Hudson:Barito**\n**hh:hvw:Hudson:Padju-Epat**\n**hh:hvw:Smith:Borneo**\n**hh:s:Ngabut:Tawoyan**\n**hh:s:Poerwadi:Tawoyan**"
+  },
+  "altnames": {
+    "multitree": "\nDayak\nTabojan\nTabojan Tongka\nTaboyan\nTabuyan\nTawoyan\nTawoyan Dayak\nTewoyan",
+    "lexvo": "\nTawoyan [en]",
+    "hhbib_lgcode": "\nPaser\nTabojan\nTaboyan\nTabuyan"
+  },
+  "triggers": {
+    "lgcode": "\nisolects"
+  },
+  "identifier": {
+    "multitree": "twy"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:169-182 **hh:hv:Blust:NBorneo**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:Blust:NBorneo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tawoyan (twy-twy) = 6b* (Threatened)."
+  }
+}

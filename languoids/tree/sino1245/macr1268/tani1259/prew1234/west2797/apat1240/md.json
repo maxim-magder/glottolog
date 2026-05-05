@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Apatani",
+    "hid": "apt",
+    "level": "language",
+    "iso639-3": "apt",
+    "latitude": "27.1933",
+    "longitude": "93.7284",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Apatani](https://endangeredlanguages.com/lang/657)\n[Apatani](https://grambank.clld.org/languages/apat1240)\n[Apatani](https://wals.info/languoid/lect/wals_code_apt)\nhttps://en.wikipedia.org/wiki/Apatani_language\nhttps://phoible.org/languages/apat1240\nhttps://www.wikidata.org/entity/Q56306"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:kani:94**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Abraham:Apatani**\n**hh:d:Bouchery:Apatani**\n**hh:e:Haimendorf:Apa-Tanis**\n**hh:e:Haimendorf:Himalayan:Apa-Tani**\n**hh:ew:Chutia:Nyishi**\n**hh:g:Abraham:Apatani**\n**hh:he:Nair:Arunachal**\n**hh:he:vonFurer-Haimendorf:Subansiri**\n**hh:he:vonFurer-Haimendorf:Tribal-Indian**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Baruah:Sino-Tibetan-Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:PostSun:Tani**\n**hh:hvld:Sun:Tani**\n**hh:hvw:Simon:Arunachal**\n**hh:phon:PostTage:Apatani**\n**hh:s:KaniKani:Apatani**\n**hh:s:Sai:Apatani**\n**hh:s:Simon:Apatani**\n**hh:typ:Nishi:Lhopa**"
+  },
+  "altnames": {
+    "wals": "\nApatani",
+    "moseley & asher (1994)": "\nApatani",
+    "multitree": "\nApa\nApa Tani\nApatani\nPatan",
+    "lexvo": "\nApatani [en]",
+    "elcat": "\nApa\nApa Tani\nApatani\nPatan",
+    "hhbib_lgcode": "\nApa Tani\nApa Tanis\nApa Tanis Farmers"
+  },
+  "triggers": {
+    "lgcode": "\napatani"
+  },
+  "identifier": {
+    "wals": "apt",
+    "multitree": "apt",
+    "endangeredlanguages": "657"
+  },
+  "classification": {
+    "sub": "**hh:hv:Post:Defoliating-Tani**",
+    "subrefs": "\n**hh:hv:Post:Defoliating-Tani**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Apatani (657-apt) = Vulnerable (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

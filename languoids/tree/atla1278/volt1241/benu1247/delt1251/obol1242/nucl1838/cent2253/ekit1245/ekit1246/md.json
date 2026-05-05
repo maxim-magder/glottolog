@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Ekit",
+    "hid": "eke",
+    "level": "language",
+    "iso639-3": "eke",
+    "latitude": "4.7645",
+    "longitude": "7.89222",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ekit](https://endangeredlanguages.com/lang/8589)\nhttps://www.wikidata.org/entity/Q3509628\nhttps://en.wikipedia.org/wiki/Eket_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:11:1**\n**cldf:lewis:ed:09**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:FordeJones:Ibo-Ibibio**\n**hh:hvw:Connell:Lower-Cross**\n**hh:hvw:Connell:Lower-Cross:1994**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:ld:Udoeyo:Ekid**\n**hh:ld:Udoeyo:Ekid:2022**\n**hh:ld:Willie:Ekid**\n**hh:w:Connell:LCross**"
+  },
+  "altnames": {
+    "multitree": "\nEket\nEkit",
+    "lexvo": "\nEkit [en]",
+    "hhbib_lgcode": "\nEket\nEkid\nItenani perhaps 7.90 and 4.80 should be Ekit\nTinan\nÉkid",
+    "elcat": "\nEket\nEkid\nEkit"
+  },
+  "identifier": {
+    "multitree": "eke;ekit",
+    "endangeredlanguages": "8589"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Connell:Lower-Cross**:10",
+    "subrefs": "\n**hh:hvw:Connell:Lower-Cross**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ekit (8589-eke) = Vulnerable (20 percent certain, based on the evidence available) [Blench 2011](cldf:blench:11:1)"
+  }
+}

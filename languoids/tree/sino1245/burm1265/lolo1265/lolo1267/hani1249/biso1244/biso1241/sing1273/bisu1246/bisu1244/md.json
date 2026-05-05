@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bisu",
+    "hid": "bzi",
+    "level": "language",
+    "iso639-3": "bzi",
+    "latitude": "20.8542",
+    "longitude": "99.9862",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "LA",
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Bisu](https://endangeredlanguages.com/lang/4023)\n[Bisu](https://grambank.clld.org/languages/bisu1244)\nhttps://en.wikipedia.org/wiki/Bisu_language\nhttps://www.wikidata.org/entity/Q56852"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4420**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:greene:00**\n**cldf:lewis:ed:09**\n**cldf:person:01**\n**cldf:person:02**\n**cldf:person:05**\n**cldf:thurgood:ed:99:12**\n**cldf:xu:99**\n**hh:g:Beaudouin:Bisu**\n**hh:g:Shixuan:Bisu**\n**hh:g:Xu:Bisu**\n**hh:h:Wang:Tanglang-Laopin**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:ShearerHongkai:China**\n**hh:hv:Bradley:Tibeto-Burman**\n**hh:hv:Udomkool:Bisoid**\n**hh:hvw:Lama:Nisoic**\n**hh:hvw:Maung:Bisoid**\n**hh:hvw:Shixuan:Bisu-Dialects**\n**hh:ld:Drewry:Ngwi**\n**hh:ld:Li:Mibisu**\n**hh:ldsoc:Xu:Laomian**\n**hh:phon:Udomkool:Bantang-Bisu-Cauho-Tsukong**\n**hh:phon:Vacharee:Bisu**\n**hh:s:Li:Bisu:2007**\n**hh:s:Li:Mibisu**\n**hh:s:Nishida:Bisu**\n**hh:s:Nishida:Bisu:1966**\n**hh:soc:Li:Bisu**\n**hh:styp:Person:Bisu**\n**hh:typ:Day:Bisu**\n**hh:typ:Rice:Golden-Triangle**\n**hh:w:Bradley:Bisu-Dialects**\n**iso6393:2007-092**\n**sil16:40661**\n**sil16:43842**\n**sil16:45749**"
+  },
+  "altnames": {
+    "multitree": "\nBisu\nBisú\nLaopin\nLawa\nLua\nMbi\nMbisu\nMibisu\nMisu\nPin",
+    "lexvo": "\nBisu [en]",
+    "hhbib_lgcode": "\nBan Doy\nBisu: Laopinzhai in Menghai County\nBizu\nDoi Chumphu\nHuai Chomphu\nLaopin\nMbisu\nVan Phin",
+    "elcat": "\nBisu\nLaopin\nLawa\nLua\nMbi\nMbisu\nMibisu\nMisu\nPin\n畢蘇語\n米畢蘇語\n米蘇語"
+  },
+  "triggers": {
+    "lgcode": "\nbisu\ndoi\nchom\nyobiteki\nbisugo\nmibisu"
+  },
+  "identifier": {
+    "multitree": "bzi",
+    "endangeredlanguages": "4023"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic** **hh:hv:Udomkool:Bisoid**:43 **hh:hld:Edmondson:Central-Southern-Loloish**",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**\n**hh:hld:Edmondson:Central-Southern-Loloish**\n**hh:hv:Udomkool:Bisoid**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bisu (4023-bzi) = Threatened (20 percent certain, based on the evidence available) (Thailand: in Phadaeng village, the language is moribund, and in Takaw, recently extinct.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

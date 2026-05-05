@@ -1,0 +1,34 @@
+{
+  "core": {
+    "name": "Costa Rican Sign Language",
+    "hid": "csr",
+    "level": "language",
+    "iso639-3": "csr",
+    "latitude": "9.8943",
+    "longitude": "-84.118",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Costa_Rican_Sign_Language\nhttps://www.wikidata.org/entity/Q5174901"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:DEE:Sordo**\n**hh:hvsoc:Woodward:Sign-Costa-Rica**"
+  },
+  "altnames": {
+    "lexvo": "\nCosta Rican Sign Language [en]",
+    "hhbib_lgcode": "\n(N)LESCO"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Costa Rican Sign Language (csr-csr) = 5 (Developing). Recognized language (2012, Ley 9049, Official Recognition of Costa Rican Sign Language). Recognized language (2020, Law 9822 Recognition and promotion of Lenguaje de Señas Costarricense (LESCO))."
+  },
+  "classification": {
+    "sub": "Lexical similarity (**hh:hvsoc:Woodward:Sign-Costa-Rica**).",
+    "subrefs": "\n**hh:hvsoc:Woodward:Sign-Costa-Rica**"
+  }
+}

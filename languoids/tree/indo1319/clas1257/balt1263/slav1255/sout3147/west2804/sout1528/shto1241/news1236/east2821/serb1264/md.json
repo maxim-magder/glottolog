@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Serbian Standard",
+    "hid": "srp",
+    "level": "dialect",
+    "iso639-3": "srp",
+    "latitude": "44.3238",
+    "longitude": "21.9192",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "BA",
+      "BG",
+      "HR",
+      "HU",
+      "ME",
+      "MK",
+      "RO",
+      "RS"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Serbian_language\nhttps://phoible.org/languages/serb1264\nhttps://www.wikidata.org/entity/Q9299"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:coon:49**\n**cldf:halpern:56**\n**cldf:halpern:57**\n**ldh:item_405989**\n**ldh:item_406741**\n**mpieva:Benson1998Standard**\n**mpieva:Godjevac2000Intonati**\n**mpieva:Hamm1975Grammati**\n**mpieva:Hansen2001Dasslavi**\n**mpieva:Kordic1999DerRelat**\n**mpieva:Matic2003Topicspr**\n**mpieva:Piper2005Sintaksa**\n**mpieva:Seo2001Thefrequ**\n**mpieva:Skaljic1973Turcizmi**\n**mpieva:Townsend1996Commonan**\n**mpieva:Vasmer1944Diegriec**\n**mpieva:Vujanic2007Recniksr**\n**mpieva:Wechsler2003Themanyf**\n**mpieva:Zlatic1997Thestruc**"
+  },
+  "altnames": {
+    "multitree": "\nBosnian\nMontenegrin\nSerbian\nSerbian-Croatian\nSerbisch\nSerbo-Croat\nSerbo-Croatian\nSerbocroatian",
+    "lexvo": "\nCrnogorski jezik [bs]\nGagana Montenegro [sm]\nGjuha malazeze [sq]\nJuodkalniečių kalba [lt]\nJęzyk czarnogórski [pl]\nKaradağca [tr]\nLenga montneigrin-a [pms]\nLengua montenegrina [vec]\nLengua môntenegrinn-a [lij]\nLimba muntenegreană [ro]\nLingua montenegrina [gl]\nLingua montinigrina [co]\nLíngua montenegrina [pt]\nMelnkalniešu valoda [lv]\nMontenegrijns [nl]\nMontenegrin language [en]\nMontenegrinische Sprache [de]\nMontenegrinsk [da]\nMontenegrinska [sv]\nMontenegron kieli [fi]\nMontenegrói nyelv [hu]\nMonténégrin [fr]\nSerbian [en]\nserbe [fr]\nČernohorština [cs]\nČiernohorčina [sk]\nČornohoršćina [hsb]\nČrnogorščina [sl]\nЦрногорски јазик [mk]\nЦрногорски језик [sr]\nЧерногорский язык [ru]\nЧорногорська мова [uk]\nמונטנגרית [he]\nلغة مونتنغرية [ar]\nモンテネグロ語 [ja]\n蒙特內哥羅語 [zh]\n몬테네그로어 [ko]",
+    "hhbib_lgcode": "\nKarashevski\nSerbian\nTorlak\nVlasotince",
+    "glottolog": "\nSerbian"
+  },
+  "triggers": {
+    "lgcode": "\nsrpskohrvatskom\nsrpskog\nnaroda\nkajkavian\npismenica\nprostoga\nsrbskoga\nsrpskoga\nserbian\ntheticity\nkroatischen\norlec\ngovoru"
+  },
+  "identifier": {
+    "multitree": "srp"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:SussexCubberley:Slavic**",
+    "subrefs": "\n**hh:hvtyp:SussexCubberley:Slavic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Serbian (srp-srp) = 1 (National). Statutory national language (2006, Constitution, Article 10(1))."
+  }
+}

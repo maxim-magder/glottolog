@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mbabaram",
+    "hid": "vmb",
+    "level": "language",
+    "iso639-3": "vmb",
+    "latitude": "-17.41547",
+    "longitude": "145.37661",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Mbabaram](https://endangeredlanguages.com/lang/3379)\n[Mbabaram](https://lexibank.clld.org/languages/bowernpny-Mbabaram)\n[Mbabaram](https://wals.info/languoid/lect/wals_code_mbb)\nhttps://en.wikipedia.org/wiki/Mbabaram_language\nhttps://phoible.org/languages/mbab1239\nhttps://www.wikidata.org/entity/Q3303475",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1071**\n**cldf:bowern:11:1**\n**cldf:dixon:66:2**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:Dixon:Cairns**\n**hh:hv:Dixon:Mbabaram**\n**hh:hv:Schmidt:Australischen**\n**hh:hvw:Mathew:Eaglehawk-Crow**\n**hh:s:Dixon:Mbabaram**\n**iso6393:2012-137**\n**mpieva:1991TheAbori**\n**ozbib:1497**\n**ozbib:1554**\n**ozbib:1618**\n**ozbib:3122**\n**ozbib:3838**\n**ozbib:4448**"
+  },
+  "altnames": {
+    "wals": "\nMbabaram",
+    "ruhlen (1987)": "\nMbabaram",
+    "moseley & asher (1994)": "\nMbabaram",
+    "multitree": "\nBalbarum\nBar-barum\nBarbaram\nBarbarem\nBarbarum\nBoobu-ram\nBooburam\nGugu-Mbabaram\nIllagona\nKoko-Beberam\nKumbulmara\nKwearriburra\nMbabaram\nMbara\nMitjamba\nMogmbabarum\nMorruburra\nOombarbarum\nQueeariburra\nUmbarbaram\nWarrialgona\nWoombarbarram\nWoombarrmbar\nWoombarrmbarra\nWumbabaram",
+    "lexvo": "\nLenga mbabaram [pms]\nMbabaram [en]\nMbabaram language [en]",
+    "hhbib_lgcode": "\nWalsh River\nWalsh River Q",
+    "elcat": "\nBalbarum\nBar-barum\nBarbaram\nBarbarem\nBarbarum\nBoobu-ram\nBooburam\nGugu-Mbabaram\nIllagona\nKoko-Beberam\nKumbulmara\nKwearriburra\nMbabaram\nMbara\nMitjamba\nMogmbabarum\nMogmnanarim\nMorruburra\nOombarbarum\nOombarrmbarum\nQueeariburra\nUmbarbaram\nUmbarbarem\nWarrialgona\nWoombarbarram\nWoombarrmbar\nWoombarrmbarra\nWumbabaram"
+  },
+  "triggers": {
+    "lgcode": "\nmbabaram"
+  },
+  "identifier": {
+    "wals": "mbb",
+    "multitree": "vmb",
+    "endangeredlanguages": "3379"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hale:Paman**",
+    "subrefs": "\n**hh:hv:Hale:Paman**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mbabaram (3379-vmb) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

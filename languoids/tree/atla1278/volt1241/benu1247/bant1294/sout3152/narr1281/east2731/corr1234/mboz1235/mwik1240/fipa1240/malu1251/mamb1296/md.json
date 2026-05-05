@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mambwe-Lungu",
+    "hid": "mgr",
+    "level": "language",
+    "iso639-3": "mgr",
+    "latitude": "-8.86817",
+    "longitude": "31.2269",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ",
+      "ZM"
+    ],
+    "links": "\n[Mambwe](https://wals.info/languoid/lect/wals_code_mmw)\n[Mambwe-Lungu](https://grambank.clld.org/languages/mamb1296)\nhttps://en.wikipedia.org/wiki/Mambwe-Lungu_language\nhttps://phoible.org/languages/mamb1296\nhttps://www.wikidata.org/entity/Q626210"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bickmoore:boyle:95**\n**cldf:watson:54:2**\n**cldf:willis:66**\n**eballiso2009:11430**\n**eballiso2009:11431**\n**eballiso2009:14683**\n**eballiso2009:15986**\n**eballiso2009:15987**\n**eballiso2009:17168**\n**eballiso2009:18140**\n**eballiso2009:21638**\n**eballiso2009:22374**\n**eballiso2009:24779**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:25996**\n**eballiso2009:28707**\n**eballiso2009:28986**\n**eballiso2009:29922**\n**eballiso2009:31296**\n**eballiso2009:31297**\n**eballiso2009:31300**\n**eballiso2009:31301**\n**eballiso2009:3205**\n**eballiso2009:32534**\n**eballiso2009:3652**\n**eballiso2009:38009**\n**eballiso2009:38011**\n**eballiso2009:42433**\n**eballiso2009:44754**\n**eballiso2009:48214**\n**eballiso2009:50699**\n**eballiso2009:52088**\n**eballiso2009:52652**\n**eballiso2009:53171**\n**eballiso2009:54390**\n**eballiso2009:55716**\n**eballiso2009:5593**\n**eballiso2009:56977**\n**eballiso2009:60153**\n**eballiso2009:7057**\n**eballiso2009:7663**\n**hh:d:Halemba:Mambwe**\n**hh:d:Jones:Kimambwe**\n**hh:e:Watson:Mambwe**\n**hh:e:Willis:Fipa**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hew:Johnston:British-Central-Africa**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Ntenchi:Lungu-Fipa-Mambwe**\n**hh:hv:Nurse:SWTanzania**\n**hh:hv:WalshSwilla:Corridor**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:KashokiMann:Zambia**\n**hh:phon:Bickmore:Cilungu**\n**hh:s:Jones:Ki-Mambwe**\n**hh:s:Jones:Mambwe**\n**hh:s:Kagaya:Lungu**\n**hh:s:LMS:CiMambwe**\n**hh:typ:Siame:Cimambwe**\n**hh:w:Verhulpen:Balubaises**"
+  },
+  "altnames": {
+    "wals": "\nMambwe",
+    "wals other": "\nCimambwe",
+    "ruhlen (1987)": "\nMambwe",
+    "moseley & asher (1994)": "\nMambwe",
+    "multitree": "\nMambwe\nMambwe-Lungu",
+    "lexvo": "\nMambwe-Lungu [en]",
+    "hhbib_lgcode": "\nCiMambwe\nKi-Lungu\nKi-Mambwe\nKi-lungu\nKi-mambwe\nLungu\nLungu-Mambwe\nM14_Rungu\nM15_Mambwe\nMambwe\nMambwe M15\nRungu"
+  },
+  "triggers": {
+    "lgcode": "\nlungu\ncilungu\nchilungu\nulungu\namambwe\nmarungu\nkimambwe\ncimambwe\nmambwe"
+  },
+  "identifier": {
+    "wals": "mmw",
+    "multitree": "mgr"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Roth:Wungu** **hh:hv:Nurse:SWTanzania**:91",
+    "subrefs": "\n**hh:hvw:Roth:Wungu**\n**hh:hv:Nurse:SWTanzania**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mambwe-Lungu (mgr-mgr) = 5* (Developing)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Duke",
+    "hid": "nke",
+    "level": "language",
+    "iso639-3": "nke",
+    "latitude": "-7.97768",
+    "longitude": "157.064",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Nduke](https://lexibank.clld.org/languages/abvdoceanic-Nduke)\nhttps://en.wikipedia.org/wiki/Duke_language\nhttps://www.wikidata.org/entity/Q3041075"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Capell:Choiseul**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Ray:Nduke**\n**hh:lde:Scales:Duke**"
+  },
+  "altnames": {
+    "multitree": "\nDuke\nKolombangara\nNdughore\nNduke",
+    "lexvo": "\nDuke [en]\nDuke language [en]",
+    "hhbib_lgcode": "\nNduke"
+  },
+  "triggers": {
+    "lgcode": "\nnduke\non AND duke\nkolobangara"
+  },
+  "identifier": {
+    "multitree": "nke"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:NWSolomonic**",
+    "subrefs": "\n**hh:hv:Ross:NWSolomonic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dughore (nke-nke) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Dalecarlian",
+    "hid": "qer",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SE"
+    ],
+    "iso639-3": "qer",
+    "links": "\n[Dalecarlian](https://endangeredlanguages.com/lang/3189)\nhttps://en.wikipedia.org/wiki/Dalecarlian_language\nhttps://www.wikidata.org/entity/Q33046",
+    "longitude": "13.830399",
+    "latitude": "61.291358"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Noreen:Dalmalet**\n**hh:d:Noreen:Frykdalsmalet**\n**hh:d:Steensland:Alvdalsk:2021**\n**hh:d:Steensland:Alvdalska**\n**hh:g:Akerberg:Alvdalsk:2012**\n**hh:g:Sapir:Elfdalian**\n**hh:hv:Bjorklund:Alvdalsmalet**\n**hh:hv:Bjorklund:Dalmalens**\n**hh:hvsw:Levander:Dalmalet**\n**hh:phon:Boethius:Orsamalet**\n**hh:phon:Noreen:Fryksmalets:1877**\n**hh:s:Aakerberg:Alvdalska**\n**hh:s:Bannbers:Malungs**\n**hh:s:Bjorklund:Rattviksmalets**\n**hh:s:Levander:Alvdalsmalet**\n**hh:s:Noreen:Dalbymalets**\n**hh:s:Nystrom:Alvdalska**\n**hh:sd:AnderssonDanielsson:Solleron**\n**hh:soc:Masan:Solleromal**\n**hh:ssoc:Zach:Alvdalische**\n**hh:t:Bjork:Orsa**\n**hh:t:Bjorklund:Alvdalsmalet**\n**hh:ttypd:Byalad:Ostnor**\n**hh:typ:Bjorklund:Lima-Transtrands**\n**hh:typ:Garbacz:Ovdalian**\n**hh:v:Dahl:Alvadalskan**\n**hh:v:Riccardelli:Evdalico**\n**hh:vld:Arborelius:Dalekarlicae**\n**hh:vld:Nasman:Dalekarlicae**\n**hh:vtyp:Save:Dalskan-Gotlandskan**\n**hh:w:Ihre:Swenskt**"
+  },
+  "triggers": {
+    "lgcode": "\nalvdalska\ndalarna\nalvdalsmalet\nordbojning\ndalmalet"
+  },
+  "identifier": {
+    "multitree": "dlc;qer",
+    "endangeredlanguages": "3189"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Dalecarlian is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a dialect in the Swedish [swe] entry, but Dalecarlian (of which there are some varieties) is not intelligible to Swedish [swe] and thus merits a separate entry (**hh:s:Levander:Alvdalsmalet**, **hh:g:Akerberg:Alvdalsk:2012**). See also: Swedish [swe].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "qer"
+  },
+  "classification": {
+    "sub": "**hh:hvsw:Levander:Dalmalet**:I:19-48",
+    "subrefs": "\n**hh:hvsw:Levander:Dalmalet**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dalecarlian (3189-dlc) = Threatened (40 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nDalby socken af öfre Älfdalen belägen i nordligaste delen af Värmland\nDalekarlica\nDalmålet i Ofvansiljans fögderi\nDalskan\nElfdalian\nElfdaliensis\nFryksdalsmålet\nLima—Transtrands\nMalung\nMora\nMora Östnor\nMorensis\nOrsamål\nOrsamålet\nOrsensis\nOvansiljan\nSollerömål\nVärmlands Älfdal is maybe Dalecarlian\nÅsenmålet",
+    "elcat": "\nDalecarlian\nDalmaal\nDalska"
+  }
+}

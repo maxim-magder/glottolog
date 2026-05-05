@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Mazaltepec Zapotec",
+    "hid": "zpy",
+    "level": "language",
+    "iso639-3": "zpy",
+    "latitude": "17.1547",
+    "longitude": "-96.8791",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Etla Zapotec](https://endangeredlanguages.com/lang/8793)\nhttps://en.wikipedia.org/wiki/Mazaltepec_Zapotec\nhttps://www.wikidata.org/entity/Q6798223"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hvw:Rendon:Zapotecas**"
+  },
+  "altnames": {
+    "multitree": "\nEtla Zapotec\nMazaltepec Zapotec\nNorthern Sapoteko\nZapotec\nZapotec, Mazaltepec\nZapoteco de Santo Tomás Mazaltepec",
+    "lexvo": "\nMazaltepec Zapotec [en]",
+    "elcat": "\nEtla Zapotec\nTejalapan\nTejalapan Zapotec\nZapotec\nZapoteco de San Felipe Tejalapan\nZapoteco de Santo Tomás Mazaltepec\nZapoteco de Tejalápam"
+  },
+  "identifier": {
+    "multitree": "zpy",
+    "endangeredlanguages": "8793"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Central-Zapotec**",
+    "subrefs": "\n**hh:hv:Campbell:Central-Zapotec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Etla Zapotec (8793) = Threatened (20 percent certain, based on the evidence available) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Talise",
+    "hid": "tlr",
+    "level": "language",
+    "iso639-3": "tlr",
+    "latitude": "-9.76764",
+    "longitude": "160.231",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Talise](https://grambank.clld.org/languages/tali1259)\n[Tolo](https://lexibank.clld.org/languages/abvdoceanic-Tolo)\nhttps://en.wikipedia.org/wiki/Talise_language\nhttps://www.wikidata.org/entity/Q3514510"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:672**\n**cldf:tryon:hackman:83**\n**hh:d:Crowley:Tolo**\n**hh:hvw:TryonHackman:Solomon**\n**hh:s:Capell:Inakona**"
+  },
+  "altnames": {
+    "multitree": "\nGuadalcanar\nSüdliche Salomons-Inseln\nTalise\nTalisi\nTolo",
+    "lexvo": "\nTalise [en]",
+    "hhbib_lgcode": "\nInakona"
+  },
+  "triggers": {
+    "lgcode": "\ninakona\ndictionary AND tolo\ntolo"
+  },
+  "identifier": {
+    "multitree": "tlr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Guadalcanal-Nggelic**",
+    "subrefs": "\n**hh:hv:Pawley:Guadalcanal-Nggelic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Talise (tlr-tlr) = 6a (Vigorous)."
+  }
+}

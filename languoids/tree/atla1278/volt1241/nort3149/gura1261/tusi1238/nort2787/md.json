@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Northern Toussian",
+    "hid": "tsp",
+    "level": "language",
+    "iso639-3": "tsp",
+    "latitude": "11.133",
+    "longitude": "-4.88274",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11155635\nhttps://phoible.org/languages/nort2787"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:prost:ed:64**\n**hh:g:Struthers-Young:Northern-Toussian**\n**hh:s:Zaugg-Coretti:Toussian-Nord**\n**hh:vtyp:Struthers-Young:Toussian**\n**hh:w:Prost:Voltaiques**"
+  },
+  "altnames": {
+    "multitree": "\nToussian\nToussian (Northern)\nToussian (Southern)\nToussian, Northern\nTusia\nTusian",
+    "lexvo": "\nNorthern Toussian [en]",
+    "hhbib_lgcode": "\nDjigouera Northern Toussian\nTir\nToussian N"
+  },
+  "triggers": {
+    "lgcode": "\nvoltaiques AND 342\ntoussian"
+  },
+  "identifier": {
+    "multitree": "tsp"
+  },
+  "classification": {
+    "sub": "**hh:typ:Winkelmann:Win**",
+    "subrefs": "\n**hh:typ:Winkelmann:Win**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Toussian, Northern (tsp-tsp) = 6a (Vigorous)."
+  }
+}

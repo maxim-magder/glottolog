@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "San Miguel Piedras Mixtec",
+    "hid": "xtp",
+    "level": "language",
+    "iso639-3": "xtp",
+    "latitude": "16.9944",
+    "longitude": "-97.2056",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Eastern Alta Mixtec](https://endangeredlanguages.com/lang/10529)\nhttps://www.wikidata.org/entity/Q7414970\nhttps://en.wikipedia.org/wiki/San_Miguel_Piedras_Mixtec"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Misteko\nCentreal Mixteco\nMixtec, San Miguel Piedras",
+    "lexvo": "\nSan Miguel Piedras Mixtec [en]",
+    "elcat": "\nCentral Nochistlán Mixtec\nDiuxi-Tilantongo Mixtec\nEastern Alta Mixtec\nEastern Mixtec\nHuitepec Mixtec\nMitlatongo Mixtec\nMixteco bajo de Valles\nMixteco de Diuxi-Tilantongo\nMixteco de Huitepec\nMixteco de Mitlatongo\nMixteco de San Antonio Huitepec\nMixteco de San Juan Tamazola\nMixteco de San Miguel Piedras\nMixteco de San Pedro Tidaá\nMixteco de Santa María Peñoles\nMixteco de Santiago Tlazoyaltepec\nMixteco de Santo Domingo Nuxaá\nMixteco de Tidaá\nMixteco de Yutanduchi\nMixteco de Yutanduchi de Guerrero\nMixteco de Zaachila\nMixteco del Sureste de Nochixtlán\nMixteco del este central\nNorth Central Nochixtlán Mixtec\nPeñoles Mixtec\nSan Miguel Piedras Mixtec\nSindihui Mixtec\nSoutheastern Nochixtlán Mixtec\nSouthern Nochixtlan Mixtec\nTamazola Mixtec\nTidaá Mixtec\nTlazoyaltepec Mixtec\nYutanduchi Mixtec",
+    "hhbib_lgcode": "\n66 San Miguel Piedras Mixtec Josserand 1983\nPied\nSan Miguel Piedras"
+  },
+  "identifier": {
+    "multitree": "xtp",
+    "endangeredlanguages": "10529"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:14",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Eastern Alta Mixtec (10529) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

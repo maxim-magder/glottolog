@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Pamona",
+    "hid": "pmf",
+    "level": "language",
+    "iso639-3": "pmf",
+    "latitude": "-1.62663",
+    "longitude": "121.268",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Bare'e](https://lexibank.clld.org/languages/blustaustronesian-baree)\n[Pamona](https://grambank.clld.org/languages/pamo1252)\n[Pamona](https://wals.info/languoid/lect/wals_code_pna)\nhttps://en.wikipedia.org/wiki/Pamona_language\nhttps://www.wikidata.org/entity/Q3513320"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adriani:kruijt:12**\n**cldf:downs:56**\n**hh:d:Adriani:Baree**\n**hh:d:Adriani:Baree:1894**\n**hh:d:Kruyt:Baree**\n**hh:e:AdrianiKruyt:Baree**\n**hh:g:Adriani:Baree**\n**hh:h:Mead:Pamona-Dialects**\n**hh:hsoc:MeadMead:Pamona**\n**hh:hv:Valkama:Toraja**\n**hh:hvw:Barretal:Central-Sulawesi**\n**hh:hvw:Wumbu:Sulawesi-Tengah**\n**hh:hw:Adriani:Togian**\n**hh:hw:ArnaudCampagnolo:ASEI**\n**hh:s:Kruijt:Baree**\n**hh:s:Rozali:Pamona**\n**hh:typ:Verguin:Baree**\n**hh:vld:Wacana:Poso**\n**hh:w:Stokhofetal:Holle:7:3**\n**iso6393:2007-199**\n**ldh:item_403994**\n**ldh:item_403996**\n**mpieva:2**\n**mpieva:Adriani19121914DeBarees**\n**mpieva:Adriani1912LandenVo-2**\n**mpieva:Adriani1912Landenvo-1**\n**mpieva:Adriani1914Taalenle**\n**mpieva:Adriani19321933Baresver**"
+  },
+  "altnames": {
+    "multitree": "\nBare'e\nBaree\nPamona\nPoso",
+    "lexvo": "\nPamona [en]",
+    "hhbib_lgcode": "\nBare'e\nBareä\nBareë\nBareë JB 1934\nBareë NBG 1897\nTobau\nTogian\nTogian (Ampana dialect of Pamona)\nTokondindi\nTopada"
+  },
+  "triggers": {
+    "lgcode": "\nbaree\npamona"
+  },
+  "identifier": {
+    "wals": "pna",
+    "multitree": "pamn;pamo;pmf;pmf-pam"
+  },
+  "classification": {
+    "sub": "**hh:hv:vandenBerg:Wolio**",
+    "subrefs": "\n**hh:hv:vandenBerg:Wolio**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pamona (pmf-pmf) = 7 (Shifting)."
+  }
+}

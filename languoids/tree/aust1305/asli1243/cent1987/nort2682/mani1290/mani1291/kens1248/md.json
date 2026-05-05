@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kensiu",
+    "hid": "kns",
+    "level": "language",
+    "iso639-3": "kns",
+    "latitude": "5.98085",
+    "longitude": "101.026",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY",
+      "TH"
+    ],
+    "links": "\n[Kensiu](https://endangeredlanguages.com/lang/1260)\n[Kensiu](https://grambank.clld.org/languages/kens1248)\n[Kensiw Kedah](https://lexibank.clld.org/languages/dunnaslian-Kensiw_Kedah)\n[Kensiw Perak](https://lexibank.clld.org/languages/dunnaslian-Kensiw_Perak)\nhttps://en.wikipedia.org/wiki/Kensiu_language\nhttps://www.wikidata.org/entity/Q6391529"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:delafosse:04**\n**cldf:ed:10**\n**cldf:evans-pritchard:74**\n**cldf:kuchikura:88**\n**cldf:lebar:hickey:etal:64**\n**cldf:lewis:ed:09**\n**cldf:murdock:34:2**\n**cldf:murdock:35**\n**cldf:np:nd:264**\n**cldf:phaiboon:06**\n**cldf:rambo:85**\n**cldf:ray:02**\n**cldf:schebesta:27**\n**cldf:schebesta:40**\n**cldf:schebesta:52:2**\n**cldf:schebesta:54**\n**cldf:schebesta:62**\n**cldf:schebestea:52**\n**cldf:sprachen:nd**\n**cldf:whiting:64**\n**hh:e:Carey:Kensiu**\n**hh:e:Hamilton:Southern-Thai**\n**hh:e:Porath:Sakais**\n**hh:e:Schebesta:Kensiu**\n**hh:h:Lapicque:Negritos**\n**hh:he:Carey:Orang-Asli**\n**hh:he:Fortier:HG-Southeast-Asia**\n**hh:hv:Dunnetal:Aslian**\n**hh:hv:Yager:Northern-Aslian**\n**hh:hvw:Benjamin:Prehistory**\n**hh:hvw:SkeatBlagden:Malay**\n**hh:hw:Phaiboon:Aslian**\n**hh:hwsoc:PetersonBishop:Northern-Aslian**\n**hh:phon:Bishop:Kensiw**\n**hh:phon:Duangchand:Kansiw**\n**hh:phon:Pahiboon:Kansiw**\n**hh:phon:PetersonBishop:Kensiw**\n**hh:s:Peterson:Kensiw**\n**hh:s:Tauern:Sakai**\n**hh:soc:Bishop:Kensiw**\n**hh:st:Rujira:Kensiw**\n**hh:v:Bauer:Kensiw**\n**hh:v:Peterson:Tonga-Kensiw**\n**hh:w:BishopPeterson:Kensiw**\n**hh:w:Evans:Semang**\n**hh:wsoc:PetersonBishop:Maniq**\n**sil16:33799**\n**sil16:37483**\n**sil16:43081**\n**sil16:45790**\n**sil16:47373**\n**sil16:49015**\n**sil16:49354**\n**sil16:49355**\n**sil16:49356**\n**sil16:49357**\n**sil16:49358**\n**sil16:49359**"
+  },
+  "altnames": {
+    "multitree": "\nBelubn\nJarum\nKense\nKenseu\nKensieu\nKensiu\nKensiw\nKensiw (Malaisie)\nKensiw (Thaïlande)\nKinaurí\nKinnauri\nManiq\nMawas\nMendi\nMengo\nMeni\nMenik\nMoni\nMonik\nMoniq\nMos\nNgok Pa\nOrang Bukit\nOrang Liar\nSakai\nSemang\nSemang Proper (of Ulu Krian)\nSemang-Dialekte\nTiong",
+    "lexvo": "\nKensiu [en]",
+    "hhbib_lgcode": "\nKansiw\nKensiw\nKensiw Kedah\nKensiw Perak\nKensiws of Thaanto (Baan Sakai)\nManiq\nPangan Jalor\nSakai Jehehr\nSakaie\nSakais\nSem Craw. Gram.\nSem Craw. Hist.\nSem. Buk. Max.\nSem. Ij.\nSem. Ked. And.\nSem. Ked. Mar.\nSem. Ked. New.\nSem. Ked. Rob.\nSem. Klapr.\nSem. Pa. Max.\nSem. Skeat\nSem. Stev.\nSem. U. Sel.\nTea-da closer to Kensiw than Tonga",
+    "elcat": "\nBelubn\nJarum\nKense\nKenseu\nKensieu\nKensiu\nKensiw\nManiq\nMawas\nMendi\nMengo\nMeni\nMenik\nMoni\nMonik\nMoniq\nMos\nNgok Pa\nOrang Bukit\nOrang Liar\nSakai\nSemang\nSemang Proper (of Ulu Krian)\nSemang-Dialekte\nTiong"
+  },
+  "triggers": {
+    "lgcode": "\ntrang\nbhumibol\nmaniq\nkensiew\nkansiw\nkensiw"
+  },
+  "identifier": {
+    "multitree": "kns",
+    "endangeredlanguages": "1260"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunnetal:Aslian**",
+    "subrefs": "\n**hh:hv:Dunnetal:Aslian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kensiu (1260-kns) = Endangered (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

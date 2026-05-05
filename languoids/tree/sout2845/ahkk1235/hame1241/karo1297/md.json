@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Karo (Ethiopia)",
+    "hid": "kxh",
+    "level": "language",
+    "iso639-3": "kxh",
+    "latitude": "5.2101",
+    "longitude": "36.1709",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Karo (Ethiopia)](https://endangeredlanguages.com/lang/4462)\nhttps://www.wikidata.org/entity/Q3447116\nhttps://en.wikipedia.org/wiki/Karo_language_(Ethiopia)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:epple:10**\n**cldf:epple:95**\n**cldf:hieda:91:3**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:ew:Pauli:Splitterstamme**\n**hh:g:Alemgena:Kara**\n**hh:hv:Tsuge:Aroid**\n**hh:hvld:Yigezu:Aroid**\n**hh:hvw:Tsuge:SOmotic**\n**hh:hvw:Yigezu:Hamar-Benna**\n**hh:hw:Rossini:Rodolfo**\n**hh:v:Hieda:Kara-Koegu**\n**hh:vld:Yigezu:Kara**\n**hh:w:Hieda:Koegu**\n**hh:w:Takahashi:Hamar**\n**hh:w:Takahashi:Kara**"
+  },
+  "altnames": {
+    "multitree": "\nAmar\nCherre\nHamar-Koke\nHamer-Bana-Kara\nKaro\nKere\nKerre",
+    "lexvo": "\nKaro (Ethiopia) [en]\nKaro [en]\nKaro jezik [hr]\nKaro language [en]",
+    "hhbib_lgcode": "\nKara\nKaro\nKerre",
+    "elcat": "\n\"etc.\"\nAmar\nCherre\nHamar-Koke\nKaro (Ethiopia)\nKere\nKerre"
+  },
+  "identifier": {
+    "multitree": "kxh",
+    "endangeredlanguages": "4462"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Tsuge:SOmotic**",
+    "subrefs": "\n**hh:hvw:Tsuge:SOmotic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Karo (Ethiopia) (4462-kxh) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

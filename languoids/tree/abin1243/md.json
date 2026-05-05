@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Abinomn",
+    "hid": "bsa",
+    "level": "language",
+    "iso639-3": "bsa",
+    "latitude": "-2.92281",
+    "longitude": "138.891",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Abinomn](https://endangeredlanguages.com/lang/1763)\nhttps://en.wikipedia.org/wiki/Abinomn_language\nhttps://www.wikidata.org/entity/Q56648"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:17**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Lagerberg:Moegip**\n**hh:h:SilzerClouse:Index**\n**hh:h:SilzerHeikkinen:Irian**\n**hh:h:Sugono:Indonesia**\n**hh:hv:Foley:Northwest-New-Guinea**\n**hh:hvtyp:DonohueMusgrave:Melanesia**\n**hh:w:Fiwei:Abinomn**"
+  },
+  "altnames": {
+    "multitree": "\n\"Baso\"\nAbinomn\nAvinomen\nFoja\nFoya",
+    "lexvo": "\nAbinomn [en]\nAbinomn language [en]\nAbinomneg [br]\nLingua abinomn [gl]\nLlingua Abinomn [ast]",
+    "hhbib_lgcode": "\nAabinomin\nBaso",
+    "elcat": "\n\"Baso\"\nAbinomn\nAvinomen\nFoja\nFoya"
+  },
+  "triggers": {
+    "lgcode": "\nmacrohistory\nmoegip"
+  },
+  "identifier": {
+    "multitree": "bsa",
+    "endangeredlanguages": "1763"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:h:SilzerClouse:Index**\n**hh:hvtyp:DonohueMusgrave:Melanesia**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Abinomn (1763-bsa) = Critically Endangered (40 percent certain, based on the evidence available) (Speakers are shifting to the neighbouring Mander language, which also has few native speakers. The number of Foya speakers is likely to be considerably less than fifty. It has been seriously endangered before, but is now more likely to be moribund.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

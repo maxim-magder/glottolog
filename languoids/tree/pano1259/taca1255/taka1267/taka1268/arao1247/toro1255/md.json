@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Toromono",
+    "hid": "tno",
+    "level": "language",
+    "iso639-3": "tno",
+    "latitude": "-13.3028",
+    "longitude": "-67.3931",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Toromona](https://endangeredlanguages.com/lang/2139)\nhttps://en.wikipedia.org/wiki/Toromona_language\nhttps://www.wikidata.org/entity/Q510544",
+    "timespan": "1925-01-01/1925-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:crevels:12:3**\n**cldf:lewis:ed:09**\n**fabreall2009ann:Pano-Takana_toromona0**\n**hh:e:Cingolanietal:Toromonas**\n**hh:e:Huertas:Peruvian-Isolation**\n**hh:e:deBalboa:Chunchos**\n**hh:h:Alcazar:Toromona**\n**hh:h:Balzan:Centrale-America-Meriodionale**\n**hh:hw:delCastillo:Bolivia**"
+  },
+  "altnames": {
+    "multitree": "\nToromona\nToromono",
+    "lexvo": "\nToromono [en]",
+    "hhbib_lgcode": "\nChunchos and Toromonos\nToromona\nToromonas",
+    "elcat": "\nToromona\nToromono"
+  },
+  "triggers": {
+    "lgcode": "\ni AND etnografica\ntoromonas\nlucha"
+  },
+  "identifier": {
+    "multitree": "tno",
+    "endangeredlanguages": "2139"
+  },
+  "classification": {
+    "sub": "**hh:hv:Loukotka:SAmerica**, **hh:hv:Guillaume:Motion-Tacanan**",
+    "subrefs": "\n**hh:hv:Loukotka:SAmerica**\n**hh:hv:Guillaume:Motion-Tacanan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Toromona (2139-tno) = Dormant [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

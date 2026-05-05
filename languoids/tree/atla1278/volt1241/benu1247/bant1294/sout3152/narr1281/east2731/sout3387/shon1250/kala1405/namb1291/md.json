@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nambya",
+    "hid": "nmq",
+    "level": "language",
+    "iso639-3": "nmq",
+    "latitude": "-19.0899",
+    "longitude": "26.0394",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "NA",
+      "ZM",
+      "ZW"
+    ],
+    "links": "\n[Nambya](https://endangeredlanguages.com/lang/1885)\nhttps://www.wikidata.org/entity/Q3553981\nhttps://en.wikipedia.org/wiki/Nambya_language"
+  },
+  "classification": {
+    "sub": "**hh:phon:Kadenge:Nambya**",
+    "subrefs": "\n**hh:phon:Kadenge:Nambya**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hasselbring:00:1**\n**cldf:kadenge:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:d:Moreno:Nambya**\n**hh:evt:Wentzel:Kalanga**\n**hh:hsoc:Hachipola:Zimbabwe**\n**hh:hwphon:Doke:Shona**\n**hh:phon:Kadenge:Nambya**\n**hh:typ:Chabata:Nambya**\n**hh:v:Borland:Shona**"
+  },
+  "altnames": {
+    "multitree": "\nChinambya\nNambya\nNambzya\nNanzva",
+    "lexvo": "\nNambya [en]",
+    "hhbib_lgcode": "\nNambzya",
+    "elcat": "\nChinambya\nNajwa\nNambya\nNambzya\nNanzva\nSenajwa\nSenambya"
+  },
+  "triggers": {
+    "lgcode": "\nnambya"
+  },
+  "identifier": {
+    "multitree": "nmq",
+    "endangeredlanguages": "1885"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nambya (1885-nmq) = Threatened (80 percent certain, based on the evidence available) (Over half of Nambya, Yeyi, and Other Khoesan respondents said they speak their own language best.\"\n\n\"… [A] greater percent of older respondents said they spoke their own languages best than did the younger generation. This was particularly true of the !Goro, Yeyi and Nambya. This indicates that these languages may be undergoing a rapid shift… to Tswana or other languages.\"\n\n\"Among the youth and children however, //Gana, Kalanga and especially Nambya… are showing some signs of losing vitality.) [Hasselbring 2000](cldf:hasselbring:00:1)"
+  }
+}

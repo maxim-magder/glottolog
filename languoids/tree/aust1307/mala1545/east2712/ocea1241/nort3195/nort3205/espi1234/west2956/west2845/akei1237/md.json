@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Akei",
+    "hid": "tsr",
+    "level": "language",
+    "iso639-3": "tsr",
+    "latitude": "-15.6377",
+    "longitude": "166.767",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Akei](https://grambank.clld.org/languages/akei1237)\n[Akei (Penantsiro)](https://lexibank.clld.org/languages/abvdoceanic-AkeiPenantsiro)\nhttps://en.wikipedia.org/wiki/Akei_language\nhttps://www.wikidata.org/entity/Q2828964"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2187**\n**asjp2010:2273**\n**asjp2010:584**\n**hh:h:Taman:Western-Santo**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Ray:Tasiriki**"
+  },
+  "altnames": {
+    "multitree": "\nAkei\nTasiriki",
+    "lexvo": "\nAkei [en]",
+    "hhbib_lgcode": "\nPenantsiro\nTasiriki"
+  },
+  "triggers": {
+    "lgcode": "\ntasiriki"
+  },
+  "identifier": {
+    "multitree": "tsr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Akei (tsr-tsr) = 6a (Vigorous)."
+  }
+}

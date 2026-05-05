@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Cheyenne",
+    "hid": "chy",
+    "level": "language",
+    "iso639-3": "chy",
+    "latitude": "45.5321",
+    "longitude": "-106.659",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Cheyenne](https://endangeredlanguages.com/lang/1685)\n[Cheyenne](https://grambank.clld.org/languages/chey1247)\n[Cheyenne](https://wals.info/languoid/lect/wals_code_cyn)\nhttps://en.wikipedia.org/wiki/Cheyenne_language\nhttps://www.wikidata.org/entity/Q33265"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:49**\n**cldf:bushnell:i:etal:22**\n**cldf:bybee:perkins:etal:94**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:corralesteban:14**\n**cldf:ed:10**\n**cldf:eggan:37:2**\n**cldf:fisher:leman:etal:17**\n**cldf:goddard:00:2**\n**cldf:golla:goddard:etal:08**\n**cldf:grinnell:18**\n**cldf:grinnell:23**\n**cldf:gussow:54**\n**cldf:hilger:46**\n**cldf:hoebel:60**\n**cldf:leman:11**\n**cldf:leman:80:1**\n**cldf:leman:81**\n**cldf:leman:84**\n**cldf:leman:85**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:mooney:05**\n**cldf:moore:87**\n**cldf:moore:91**\n**cldf:moseley:07**\n**cldf:murray:08**\n**cldf:murray:10:1**\n**cldf:murray:16**\n**cldf:nichols:ogg:ed:96:1**\n**cldf:np:10:5**\n**cldf:np:11:3**\n**cldf:np:nd:264**\n**hh:d:Fisheretal:Cheyenne**\n**hh:d:Petter:Cheyenne**\n**hh:e:Grinnell:Cheyenne**\n**hh:e:Mooney:Cheyenne**\n**hh:e:Moore:Cheyenne**\n**hh:g:Leman:Cheyenne**\n**hh:g:Leman:Cheyenne:2014**\n**hh:g:Leman:Cheyenne:2021**\n**hh:hvw:Hale:NWAmerica**\n**hh:hw:Hayden:Missouri**\n**hh:s:Badhorse:Cheyenne**\n**hh:s:Leman:Cheyenne**\n**hh:s:Petter:Cheyenne**\n**hh:s:Petter:Cheyenne:1907**\n**hh:t:Leman:Cheyenne**\n**hh:typ:Leman:Cheyenne**\n**hh:w:Whiting:West-Mississippi**\n**mpieva:1987Naevahoo**\n**mpieva:2004Cheyenne**\n**mpieva:2004Letsread**\n**mpieva:Mooney1964TheCheye**\n**sil16:10509**\n**sil16:10758**\n**sil16:10759**\n**sil16:15726**\n**sil16:21199**\n**sil16:21200**\n**sil16:21519**\n**sil16:21520**\n**sil16:21521**\n**sil16:21522**\n**sil16:21523**\n**sil16:21524**\n**sil16:21741**\n**sil16:21942**\n**sil16:22027**\n**sil16:22028**\n**sil16:22633**\n**sil16:22888**\n**sil16:31484**\n**sil16:32626**\n**sil16:33527**\n**sil16:35591**\n**sil16:37501**\n**sil16:45285**\n**sil16:46254**\n**sil16:46255**\n**sil16:46256**\n**sil16:47221**\n**sil16:48456**\n**sil16:49071**"
+  },
+  "altnames": {
+    "wals": "\nCheyenne",
+    "ruhlen (1987)": "\nCheyenne",
+    "moseley & asher (1994)": "\nCheyenne",
+    "multitree": "\nCheyenne\nCheyenne (Montana)\nCheyenne (Oklahoma)\nCheyenne Isolate\nCheyén (Oklahoma)",
+    "lexvo": "\nBahasa Cheyenne [ms]\nCheyeneg [br]\nCheyenne [de]\nCheyenne language [en]\nIdioma cheyenne [es]\nJęzyk czejeński [pl]\nLíngua cheyenne [pt]\nTsêhesenêstsestôtse [chy]\ncheyenne [fr]\nĈejena lingvo [eo]\nШайенский язык [ru]\n샤이엔어 [ko]",
+    "hhbib_lgcode": "\nCheyennes\nShyenne",
+    "elcat": "\nCheyenne"
+  },
+  "triggers": {
+    "lgcode": "\nnevehestonanotse\ncheyenne"
+  },
+  "identifier": {
+    "wals": "cyn",
+    "multitree": "chy-che;chey;chy",
+    "endangeredlanguages": "1685"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Cheyenne (1685-chy) = Endangered (100 percent certain, based on the evidence available) (Most speakers in Oklahoma are middle aged or older.) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

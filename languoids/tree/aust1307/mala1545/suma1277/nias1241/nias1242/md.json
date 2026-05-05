@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nias",
+    "hid": "nia",
+    "level": "language",
+    "iso639-3": "nia",
+    "latitude": "0.90691",
+    "longitude": "97.4961",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Nias](https://lexibank.clld.org/languages/blustaustronesian-nias)\n[Nias](https://wals.info/languoid/lect/wals_code_nia)\nhttps://en.wikipedia.org/wiki/Nias_language\nhttps://phoible.org/languages/nias1242\nhttps://www.wikidata.org/entity/Q2407831"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beatty:12**\n**cldf:beatty:92**\n**cldf:beatty:93**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:crawfurd:56**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:hummel:07**\n**cldf:keesing:84:2**\n**cldf:loeb:28**\n**cldf:loeb:74**\n**cldf:mohamad:adam:etal:21**\n**cldf:np:08:7**\n**cldf:np:14:5**\n**cldf:sundermann:05**\n**cldf:suzuki:58**\n**cldf:suzuki:59**\n**cldf:vanoven:hammerle:etal:11**\n**hh:b:Roth:Nias-Mentawei-Enggano**\n**hh:d:Laiya:Nias**\n**hh:d:Lase:Niha**\n**hh:d:Mendrofa:Nias**\n**hh:d:Sundermann:Niassisch**\n**hh:d:Thomas:Niasisch**\n**hh:e:Feldman:Nias**\n**hh:e:Rappard:Nias**\n**hh:ew:Modigliani:Nias**\n**hh:ew:Oudemans:Engano**\n**hh:g:Brown:Nias**\n**hh:he:CeboksarovKuznetsov:Indonezii**\n**hh:he:Kennedy:Greater-Sunda**\n**hh:hew:vonRosenberg:Malayische-Archipel**\n**hh:hv:Lafeber:Niasisch**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marsden:East-Insular**\n**hh:s:Anceaux:Nias**\n**hh:s:Brown:Nias**\n**hh:s:Halawa:Nias**\n**hh:s:Sundermann:Niassische**\n**hh:s:Sundermann:Niassische:1913**\n**hh:t:Hammerle:Nias**\n**hh:t:Steinhart:Niassche**\n**hh:t:Steinhart:Niasse**\n**hh:typ:Brown:Nias:1997**\n**hh:w:Marsden:Sumatran**\n**hh:w:Oudemans:Enggano**\n**hh:w:Stokhof:Holle:1987**\n**mpieva:81**\n**mpieva:Steinhart1934Niassche**\n**mpieva:Steinhart1937Niassche**\n**mpieva:Sundermann1882KurzeFor**\n**mpieva:Sundermann1915Kleineni**"
+  },
+  "altnames": {
+    "wals": "\nNias",
+    "wals other": "\nNias Selatan",
+    "ruhlen (1987)": "\nNias",
+    "moseley & asher (1994)": "\nNias",
+    "multitree": "\nBatu\nNias",
+    "lexvo": "\nBahasa Nias [id]\nNias [en]\nNias language [en]\nNiha [fr]\nnias [fr]\nНиасский язык [ru]",
+    "hhbib_lgcode": "\nNias NBG 1905\nNias-Lagemann\nNiassans\nNiastsy\nNiha"
+  },
+  "triggers": {
+    "lgcode": "\nnias\nvoorzien\nniassische\nniassche\nniassischen\nniasisch"
+  },
+  "identifier": {
+    "wals": "nia",
+    "multitree": "nia"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran**",
+    "subrefs": "\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nias (nia-nia) = 5 (Developing)."
+  }
+}

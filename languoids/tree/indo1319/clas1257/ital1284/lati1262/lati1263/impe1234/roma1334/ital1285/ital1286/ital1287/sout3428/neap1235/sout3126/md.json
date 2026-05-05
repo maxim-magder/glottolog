@@ -1,0 +1,28 @@
+{
+  "core": {
+    "name": "South Lucanian",
+    "hid": "NOCODE_South-Lucanian",
+    "level": "dialect",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "longitude": "16.539127",
+    "latitude": "40.147849"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Wonder:Lucanians**\n**hh:hvs:Lausberg:Sudlukaniens**"
+  },
+  "triggers": {
+    "lgcode": "\nsudlukaniens"
+  },
+  "classification": {
+    "sub": "**hh:hv:Leonard:Romance** **hh:hv:Agard:Romance**:61-73",
+    "subrefs": "\n**hh:hv:Leonard:Romance**\n**hh:hv:Agard:Romance**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nNova Siri\nNs"
+  }
+}

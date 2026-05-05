@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sara Bakati'",
+    "hid": "sre",
+    "level": "language",
+    "iso639-3": "sre",
+    "latitude": "1.20403",
+    "longitude": "109.6155",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Sara](https://endangeredlanguages.com/lang/5412)\nhttps://www.wikidata.org/entity/Q33957\nhttps://en.wikipedia.org/wiki/Sara_Bakati%27_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:ld:Bryant:Bakatiq-Sara**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nSar\nSara",
+    "lexvo": "\nLenga Sara [pms]\nSara [en]\nSara language [en]",
+    "hhbib_lgcode": "\nBakati'-Sara",
+    "elcat": "\nRiok\nSara\nSara Bakati’"
+  },
+  "triggers": {
+    "lgcode": "\nsanggau\nbakatiq\nriok"
+  },
+  "identifier": {
+    "multitree": "sre;kcm-sar",
+    "endangeredlanguages": "5412"
+  },
+  "classification": {
+    "sub": "**hh:v:Renschetal:Bidayuh**:130; 211",
+    "subrefs": "\n**hh:v:Renschetal:Bidayuh**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sara (5412-sre) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

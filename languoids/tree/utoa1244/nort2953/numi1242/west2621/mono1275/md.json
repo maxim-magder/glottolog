@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Mono (USA)",
+    "hid": "mnr",
+    "level": "language",
+    "iso639-3": "mnr",
+    "latitude": "37.1935",
+    "longitude": "-119.347",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Mono](https://lexibank.clld.org/languages/utoaztecan-Mono)\n[Mono (USA)](https://grambank.clld.org/languages/mono1275)\n[Mono (United States)](https://endangeredlanguages.com/lang/4692)\n[Mono (in United States)](https://wals.info/languoid/lect/wals_code_mno)\nhttps://en.wikipedia.org/wiki/Mono_language_(California)\nhttps://www.wikidata.org/entity/Q33591"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aginsky:43**\n**cldf:baumhoff:63**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:55**\n**cldf:driver:37**\n**cldf:ed:10**\n**cldf:frawley:hill:etal:ed:02:2**\n**cldf:gayton:30**\n**cldf:gayton:45**\n**cldf:gayton:48:1**\n**cldf:gayton:48:2**\n**cldf:gifford:22**\n**cldf:gifford:26:1**\n**cldf:gifford:32:1**\n**cldf:golla:goddard:etal:08**\n**cldf:kroskrity:80**\n**cldf:langacker:76**\n**cldf:lewis:ed:09**\n**cldf:lowie:09**\n**cldf:norris:80**\n**cldf:np:nd:264**\n**cldf:steward:33**\n**cldf:steward:38**\n**cldf:steward:41**\n**cldf:whiting:64**\n**hh:d:Bethel:Western-Mono:1984**\n**hh:d:Betheletal:Western-Mono**\n**hh:d:Lamb:Monachi**\n**hh:dial:Haynie:Mono**\n**hh:e:Spier:Monache**\n**hh:g:Lamb:Mono**\n**hh:g:Norris:Eastern-Mono**\n**hh:hvb:Golla:California**\n**hh:s:Norris:Mono**\n**hh:styp:Loether:Western-Mono**"
+  },
+  "altnames": {
+    "wals": "\nMono (in United States)",
+    "wals other": "\nMonache",
+    "ruhlen (1987)": "\nMono",
+    "moseley & asher (1994)": "\nMono",
+    "multitree": "\nMonache\nMonachi\nMono\nMono (occidental)\nMono (oriental)\nSaidyuka",
+    "lexvo": "\nIdioma mono [es]\nMono (USA) [en]\nMono [en]\nMono language [en]\nMonoeg [br]\nلغة مونو [ar]",
+    "hhbib_lgcode": "\nMonache\nMono\nWestern Mono",
+    "elcat": "\nMonache\nMonachi\nMono (United States)\nMono (in United States)\nSaidyuka"
+  },
+  "triggers": {
+    "lgcode": "\nmonachi\ngrammar AND mono"
+  },
+  "identifier": {
+    "wals": "mno",
+    "multitree": "mnr",
+    "endangeredlanguages": "4692"
+  },
+  "classification": {
+    "sub": "**hh:hv:Garrettetal:Numic**",
+    "subrefs": "\n**hh:hv:Garrettetal:Numic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mono (United States) (4692-mnr) = Critically Endangered (80 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

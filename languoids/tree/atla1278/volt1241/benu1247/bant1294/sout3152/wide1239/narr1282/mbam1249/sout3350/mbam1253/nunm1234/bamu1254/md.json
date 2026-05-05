@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bamukumbit",
+    "hid": "bqt",
+    "level": "language",
+    "iso639-3": "bqt",
+    "latitude": "5.87292",
+    "longitude": "10.3537",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bamukumbit_language\nhttps://www.wikidata.org/entity/Q35078"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:BlenchHamm:Nun**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:phon:DeVisser:Bamukumbit**\n**hh:soc:SeguinMbongue:Bamukumbit**\n**hh:t:DeVisser:Bamukumbit**\n**hh:typ:DeVisser:Bamukumbit**"
+  },
+  "altnames": {
+    "multitree": "\nBamenkombit\nBamenkoumbit\nBamoukoumbit\nBamukumbit\nBamunkum\nMangkong",
+    "lexvo": "\nBamukumbit [en]",
+    "hhbib_lgcode": "\nBamenkombit\nBamunkum\nMankong"
+  },
+  "triggers": {
+    "lgcode": "\nbamukumbit"
+  },
+  "identifier": {
+    "multitree": "bqt"
+  },
+  "classification": {
+    "sub": "**hh:hv:BlenchHamm:Nun** **hh:typ:DeVisser:Bamukumbit**:9",
+    "subrefs": "\n**hh:hv:BlenchHamm:Nun**\n**hh:typ:DeVisser:Bamukumbit**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mankong (bqt-bqt) = 5 (Developing)."
+  }
+}

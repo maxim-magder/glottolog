@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Xishanba Lalo",
+    "hid": "ywt",
+    "level": "language",
+    "iso639-3": "ywt",
+    "latitude": "24.8709",
+    "longitude": "100.711",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[C-Chajiang](https://lexibank.clld.org/languages/yangyi-CChajiang)\n[C-Leba](https://lexibank.clld.org/languages/yangyi-CLeba)\n[C-Longjie](https://lexibank.clld.org/languages/yangyi-CLongjie)\n[C-Qingsheng](https://lexibank.clld.org/languages/yangyi-CQingsheng)\n[C-Qingyun](https://lexibank.clld.org/languages/yangyi-CQingyun)\n[C-Wachang](https://lexibank.clld.org/languages/yangyi-CWachang)\n[Central Lalo](https://endangeredlanguages.com/lang/5129)\n[Lalo](https://wals.info/languoid/lect/wals_code_lal)\n[Qingyun](https://lexibank.clld.org/languages/yanglalo-Qingyun)\n[Xishanba Lalo](https://grambank.clld.org/languages/xish1235)\n[Yi (Nanjian)](https://lexibank.clld.org/languages/gaotb-YiNanjian)\n[Yi (Nanjian)](https://lexibank.clld.org/languages/suntb-NanjianYi)\nhttps://www.wikidata.org/entity/Q12953336"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:473**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:yang:10:1**\n**cldf:yang:12:1**\n**hh:e:Tweddell:Tuli**\n**hh:g:Bjorverud:Lalo**\n**hh:g:Zhou:Laluo**\n**hh:h:Hattaway:China**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hphon:Wang:Yi**\n**hh:hv:Yang:Lolo**\n**hh:hvw:Chenetal:Yi**\n**hh:hvw:Zhu:Yi**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hvwphon:Yang:Lalo**\n**hh:hvwphon:Yang:Lalo:2015**\n**hh:hw:Davies:Yun-Nan**\n**hh:ld:Drewry:Ngwi**\n**hh:s:Chenetal:Yi**\n**hh:soc:ZhouHu:Lalo**\n**hh:typ:Bu:Lalo-Yi**\n**hh:typ:Gerner:Yi**\n**hh:w:HuDuan:Dali**\n**hh:w:YNYF:Yunnan-Yi**\n**hh:w:Zhang:Yunnan-Yi**\n**iso6393:2007-072**\n**iso6393:2011-093**\n**iso6393:2011-099**"
+  },
+  "altnames": {
+    "multitree": "\nDongshan Lalu Yi\nLalo\nLalo,Xishanba\nLalopa\nLolo\nMisaba\nYi\nYi (Western)\nYi, Western",
+    "lexvo": "\nXishanba Lalo [en]",
+    "hhbib_lgcode": "\nCentral Lalo\nCentral Lalo (East Mt) of Yong'an village in Yongjian-Weishan-Dali\nCentral Lalo (West Mt) of Qingyun village in Ma'anshan-Weishan-Dali\nCentral Lalo Qingsheng village in Anding-Jingdong-Pu'er\nCentral Lalo of Chajiang village in Xiaowandong-Nanjian-Dali\nCentral Lalo of Leba village in Shuixie-Yongping-Dali\nCentral Lalo of Longjie village in Wuyin-Weishan-Dali\nCentral Lalo of Wachang village in Wachang-Yangbi-Dali\nEnipu\nEnipu (Nanjian)\nLalo\nLalo Weishan Yi\nLalo Xishanba\nLalo Yi\nLalo of Longjie Wuyin Weishan Yi\nLalo of Weishan County\nLalo-Central\nLalo-Xishanba\nLalupa Nanjian County\nMenghua Lolo\nMenghwa Lolo\nMêng-hua Lo-lo from the village Ho-ti near Mêng-hua T'ing\nNanjian\nNanjian Lolo\nNanjian Yi\nS Dali Lolo\nTuli\nWeishan\nWeishan (Lalupha)\nWeishan Lalo\nWestern Dialect\nWuying (Weishan County) and Yaojie Township-Fengqing County Lalupa\nYi Weishan 2",
+    "elcat": "\nCentral Lalo\nLalo\nLalopa\nLaluo\nMisapa\nXishanba Lalo\n中臘羅語"
+  },
+  "triggers": {
+    "lgcode": "\nyi AND continuum"
+  },
+  "identifier": {
+    "wals": "lal",
+    "multitree": "ywt",
+    "endangeredlanguages": "5129"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Yang:Lalo**",
+    "subrefs": "\n**hh:hvwphon:Yang:Lalo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Central Lalo (5129-ywt) = Vulnerable (100 percent certain, based on the evidence available) [Yang 2010](cldf:yang:10:1)"
+  }
+}

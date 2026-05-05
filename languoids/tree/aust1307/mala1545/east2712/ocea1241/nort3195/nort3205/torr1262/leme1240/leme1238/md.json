@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Lemerig",
+    "hid": "lrz",
+    "level": "language",
+    "iso639-3": "lrz",
+    "latitude": "-13.739697",
+    "longitude": "167.420676",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Lemerig](https://endangeredlanguages.com/lang/7373)\n[Lemerig](https://grambank.clld.org/languages/leme1238)\n[Lemerig](https://lexibank.clld.org/languages/abvdoceanic-Lemerig)\nhttps://en.wikipedia.org/wiki/Lemerig_language\nhttps://www.wikidata.org/entity/Q2028448"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:francois:12**\n**cldf:tryon:10:1**\n**hh:htyp:Francois:Torres-Banks**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Codrington:Leon-Sasar**\n**hh:ld:Codrington:Pak**\n**hh:t:Francois:Lemerig**\n**hh:typ:Francois:Lemerig**\n**iso6393:2008-069**"
+  },
+  "altnames": {
+    "multitree": "\nBanks-Inseln\nLemerig",
+    "lexvo": "\nLemerig [en]",
+    "hhbib_lgcode": "\nAlo Teqel\nBek\nLeon-Sasar\nPak",
+    "elcat": "\nBanks-Inseln\nLemerig\nSasar"
+  },
+  "triggers": {
+    "lgcode": "\nsasar"
+  },
+  "identifier": {
+    "multitree": "lrz",
+    "endangeredlanguages": "7373"
+  },
+  "classification": {
+    "sub": "**hh:hv:KalyanFrancois:Freeing**",
+    "subrefs": "\n**hh:hv:KalyanFrancois:Freeing**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lemerig (7373-lrz) = Critically Endangered (60 percent certain, based on the evidence available) [François 2012](cldf:francois:12)"
+  }
+}

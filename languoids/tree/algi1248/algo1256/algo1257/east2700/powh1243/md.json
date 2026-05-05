@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Powhatan",
+    "hid": "pim",
+    "level": "language",
+    "iso639-3": "pim",
+    "latitude": "36.99422",
+    "longitude": "-77.20752",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Powhatan](https://wals.info/languoid/lect/wals_code_pow)\nhttps://en.wikipedia.org/wiki/Powhatan_language\nhttps://www.wikidata.org/entity/Q2270532",
+    "timespan": "1607-01-01/1800-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4669**\n**cldf:strachey:49**\n**hh:e:Feest:Virginia-Algonquians**\n**hh:hv:Goddard:Eastern-Algonquian**\n**hh:lde:Mooney:Powhatan**\n**hh:vw:Siebert:Virginia-Algonquian**\n**hh:w:Harrington:Strachey**\n**hh:w:Smith:Powhatan**\n**hh:w:Strachey:Powhatan**\n**mpieva:Strachey1999Adiction**"
+  },
+  "altnames": {
+    "wals": "\nPowhatan",
+    "wals other": "\nVirginia Algonquian",
+    "ruhlen (1987)": "\nPowhatan",
+    "moseley & asher (1994)": "\nPowhatan",
+    "multitree": "\nPowhatan\nVirginia Algonkian\nVirginia Algonquian\nVirginia Algonquianealg\nVirginia Algonquin",
+    "lexvo": "\nPowhatan [en]\nPowhatan language [en]\nPowhatan-språket [nn]",
+    "hhbib_lgcode": "\nVirginia Algonquian\nVirginia Indian"
+  },
+  "triggers": {
+    "lgcode": "\npowhatan\nvirginia"
+  },
+  "identifier": {
+    "wals": "pow",
+    "multitree": "pim"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Powhatan (pim-pim) = 9 (Dormant). Language of registered tribe: Pamunkey Indian Tribe."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Hijazi Arabic",
+    "hid": "acw",
+    "level": "language",
+    "iso639-3": "acw",
+    "latitude": "22.8346",
+    "longitude": "38.9237",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SA",
+      "YE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56608\nhttps://en.wikipedia.org/wiki/Hejazi_Arabic\n[Arabic (Hijazi)](https://wals.info/languoid/lect/wals_code_arh)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:almozainy:81**\n**hh:g:Al-Azraqi:Abha**\n**hh:g:Asiri:Rijal-Alma**\n**hh:g:Il-Hazmy:Harb**\n**hh:g:Nadwi:Ghamid-Zahran**\n**hh:g:Nakshabandi:Abha**\n**hh:g:Schreiber:Mekka**\n**hh:g:Sieny:Urban-Hijazi-Arabic**\n**hh:g:Sieny:Urban-Hijazi-Arabic:1972**\n**hh:hv:Cadora:Arabic**\n**hh:phon:Al-Mozainy:Bedouin-Hijazi**\n**hh:phonsoc:El-Salman:Fallahis-Karak**\n**hh:s:Kheshaifaty:Makkan**\n**hh:s:Prochazka:Saudi-Arabian**\n**hh:s:Simeone-Senelle:Arabe-Erythree**\n**hh:s:Toll:Hijazi**\n**hh:styp:Alqahtani:Tihami-Qahtani**\n**hh:sv:Rabin:West-Arabian**\n**hh:t:Sasi:Mekka**\n**hh:typ:Alahmari:Southwestern-Saudi-Arabian**\n**sil16:47753**"
+  },
+  "altnames": {
+    "wals": "\nArabic (Hijazi)",
+    "wals other": "\nArabic\nBedouin-Hijazi",
+    "moseley & asher (1994)": "\nArabic (Eastern)",
+    "multitree": "\nArabic\nArabic (Hijazi)\nArabic, Hijazi Spoken\nHijazi\nHijazi Arabic\nHijazi Spoken\nWest Arabian Colloquial Arabic\nḤijāzī",
+    "lexvo": "\nArabeg hijaziek [br]\nHejazi Arabic [en]\nHijazi Arabic [en]\nHijazi arapski [hr]\nSaudi Arabic [ja]\nХијазиски арапски јазик [mk]\nلهجة حجازية [ar]\nޙިޖާޒީ ޢަރަބި [dv]",
+    "hhbib_lgcode": "\nAbha\nAbha in 3Asir\nAl-Qahabah\nAl-Qauz\nArabic of 2nd language speakers in Eritrea presumably closest to Arabic-Hijazi Spoken\nArabic-Hijazi Spoken\nBal-Ahmar\nBal-Qarn\nGhamid\nHijaz\nJidda (J)\nMakkan\nMekka\nRufaidah\nS Hijaz and Tihama\nSabya\nSouthern Hijaz and the Tihamah\nTanumah\nTihama (Northern Tihama) south of the Makkah region east of the Hali valley\nTihami Qahtani\nḤarb"
+  },
+  "triggers": {
+    "lgcode": "\nmekka\nmakkan\nsaudi\nhijazi\nharb\ngazi\nrijal\nghamid\nbelad\ngamidi\nzahran\nabha"
+  },
+  "identifier": {
+    "wals": "arh",
+    "multitree": "acw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Al-Jallad:Neo-Arabic** **hh:hvb:Watson:Arabic-Dialects**",
+    "subrefs": "\n**hh:hv:Al-Jallad:Neo-Arabic**\n**hh:hvb:Watson:Arabic-Dialects**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Hijazi (acw-acw) = 6a* (Vigorous)."
+  }
+}

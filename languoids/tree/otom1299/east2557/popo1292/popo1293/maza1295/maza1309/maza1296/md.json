@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mazatlán Mazatec",
+    "hid": "vmz",
+    "level": "language",
+    "iso639-3": "vmz",
+    "latitude": "18.0829",
+    "longitude": "-96.8889",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953706\nhttps://en.wikipedia.org/wiki/Mazatl%C3%A1n_Mazatec"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Filio:Mazateco-Najndiaa**\n**hh:hv:Gudschinsky:Mazatec**\n**hh:hv:Gudschinsky:Mazatec-Dialect**\n**hh:hvwphon:Kirk:Mazatec**\n**hh:phon:Juarez:Mazahua-Deposito**\n**hh:s:Belmar:Mazateca**\n**hh:s:Carrera:Mazateca-Mazatlan**\n**hh:s:Carrera:Mazateca-Mazatlan:2010**"
+  },
+  "altnames": {
+    "glottolog": "\nMazatlan Mazatec",
+    "multitree": "\nHuautla-Mazatlán Masateko\nMasateko\nMazatec\nMazatec, Mazatlán\nMazateco\nMazateco de MazatlÃ¡n Villa de Flores\nMazateco de Mazatlán\nMazateco de Tecóatl\nMazateco de la sierra\nMazatlan de Flores\nMazatèque d'Eloxochitlán\nMazatèque de Huehuetlán\nMazatèque de Mazatlán\nMazatèque de Tecoatl\nMazatèque des hautes terres",
+    "lexvo": "\nMazatlán Mazatec [en]",
+    "hhbib_lgcode": "\nMaz Mazatlan de Flores\nMazahua de El Depósito-San Felipe del Progreso-Estado de México\nMazatec-Mazatlán\nMazatlán de Flores\nSan Cristobal Mazatlan en Teotitlan del Camino en Oaxaca"
+  },
+  "triggers": {
+    "lgcode": "\nmazateca"
+  },
+  "identifier": {
+    "multitree": "vmz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Leonard:Mazateco**:20-21 **hh:hv:Leonard:Mazatec-Patterns**:246-247",
+    "subrefs": "\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hv:Leonard:Mazateco**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Mazatlán Mazatec (1286-vmz) = Vulnerable; Huehuetlán Mazatec (1272-vmz) = Vulnerable"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Ancient North Arabian",
+    "hid": "xna",
+    "level": "language",
+    "iso639-3": "xna",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "SA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Ancient_North_Arabian_languages\nhttps://www.wikidata.org/entity/Q1472213",
+    "longitude": "39.776",
+    "latitude": "29.044",
+    "timespan": "-0800-01-01/0400-01-01"
+  },
+  "classification": {
+    "sub": "**hh:s:MacDonald:Ancient-North-Arabian**",
+    "subrefs": "\n**hh:s:MacDonald:Ancient-North-Arabian**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:est:Caskel:Lihyanisch**\n**hh:h:MacDonald:Arabia**\n**hh:hld:Hayajneh:Nordarabien**\n**hh:hv:Al-Jallad:Ancient-Levantine-Arabic**\n**hh:hv:Al-Jallad:North-Arabia**\n**hh:ldsoc:Hayajneh**\n**hh:s:Al-Jallad:Safaitic**\n**hh:s:Kootstra:Taymanitic**\n**hh:s:MacDonald:Ancient-North-Arabian**\n**hh:s:Said:Vorislamischer**\n**hh:st:King:Hismaic**\n**hh:std:Al-Jallad:Safaitic**\n**hh:t:Sima:Lihyanischen**"
+  },
+  "altnames": {
+    "lexvo": "\nAncient North Arabian [en]\nFrühnordarabische Sprache [de]\nСеверноаравийские языки [ru]\nСтар северноарапски јазик [mk]\nعربية شمالية قديمة [ar]",
+    "hhbib_lgcode": "\nHismaic\nSafaitic\nSafaitischen\nTaymanitic"
+  },
+  "triggers": {
+    "lgcode": "\nvorislamischer\nlihyanischen"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Ancient North Arabian (xna-xna) = 10 (Extinct)."
+  }
+}

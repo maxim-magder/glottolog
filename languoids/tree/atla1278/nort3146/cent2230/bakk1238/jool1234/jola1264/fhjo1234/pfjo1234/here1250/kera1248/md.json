@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Keerak",
+    "hid": "hhr",
+    "level": "language",
+    "iso639-3": "hhr",
+    "latitude": "12.3652",
+    "longitude": "-16.6857",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Keerak](https://grambank.clld.org/languages/kera1248)\nhttps://www.wikidata.org/entity/Q11010783"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Barry:Joola**\n**hh:phon:Sane:Her**\n**hh:s:RobertSegerer:Keeraak**\n**hh:typ:Segerer:Keerak**\n**hh:w:CarltonRand:Diola**\n**hh:wsoc:CarltonRand:Diolas**"
+  },
+  "altnames": {
+    "multitree": "\nHer\nKeerak\nKeeraku\nKerak",
+    "lexvo": "\nKerak [en]",
+    "hhbib_lgcode": "\nEdiamat-Kahem\nHer\nJoola Keeraak\nKabrousse-Her\nKahem-Ediamat\nKerak\nKr Keeraku"
+  },
+  "triggers": {
+    "lgcode": "\nkeerak\nNOT des AND parlons AND jola"
+  },
+  "identifier": {
+    "multitree": "hhr"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kerak (hhr-hhr) = 6a (Vigorous)."
+  }
+}

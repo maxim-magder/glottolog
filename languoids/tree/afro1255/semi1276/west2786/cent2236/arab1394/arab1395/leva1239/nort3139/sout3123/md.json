@@ -1,0 +1,59 @@
+{
+  "core": {
+    "name": "South Levantine Arabic",
+    "hid": "ajp",
+    "level": "dialect",
+    "iso639-3": "ajp",
+    "latitude": "31.5601",
+    "longitude": "38.0837",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IL",
+      "JO",
+      "KW",
+      "PS",
+      "SA",
+      "SY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q55633582\nhttps://en.wikipedia.org/wiki/South_Levantine_Arabic\n[Arabic (Palestinian)](https://wals.info/languoid/lect/wals_code_apa)\n[Arabic (Negev)](https://wals.info/languoid/lect/wals_code_arv)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4837**\n**cldf:abu-salim:80**\n**cldf:abu-salim:82**\n**cldf:blanc:71**\n**cldf:brame:73**\n**cldf:brame:74**\n**cldf:cremers:dendikken:ed:96:1**\n**cldf:granqvist:31**\n**cldf:harris:58**\n**cldf:kenstowicz:abdul-karim:80**\n**eballiso2009:12128**\n**eballiso2009:12130**\n**eballiso2009:12783**\n**eballiso2009:12847**\n**eballiso2009:16919**\n**eballiso2009:2123**\n**eballiso2009:22281**\n**eballiso2009:22286**\n**eballiso2009:24173**\n**eballiso2009:26348**\n**eballiso2009:32055**\n**eballiso2009:36327**\n**eballiso2009:37552**\n**eballiso2009:37553**\n**eballiso2009:38640**\n**eballiso2009:41072**\n**eballiso2009:41086**\n**eballiso2009:41159**\n**eballiso2009:59999**\n**eballiso2009:7105**\n**iso6393:2022-006**\n**mpieva:Bakalla1983Arabicli**\n**mpieva:Baldi1999Ancienta**\n**mpieva:Bauer1970Daspalas**\n**mpieva:Blau1960Syntaxde**\n**mpieva:Cohen1975Leparler**\n**mpieva:Hetzron1997TheSemit**\n**mpieva:Mohammad2000Wordorde**\n**mpieva:Ngom2006Lexicalb**\n**mpieva:Owens2006Alinguis**\n**mpieva:Shahin1995RuralPal**\n**mpieva:Shahin1999Palestin**\n**mpieva:Versteegh1984Pidginiz**"
+  },
+  "altnames": {
+    "wals": "\nArabic (Negev)\nArabic (Palestinian)",
+    "wals other": "\nArabic\nNegev Bedouin\nPalestinian Arabic\nPalestinian-Jordanic Arabic",
+    "ruhlen (1987)": "\nNegev Bedouin",
+    "moseley & asher (1994)": "\nArabic (Eastern)",
+    "multitree": "\nArabic\nArabic (Negev)\nArabic (Palestinian)\nArabic (South Levantine Spoken)\nArabic, South Levantine Spoken\nBedawi\nLevantine\nLevantine Arabic\nPalestinian-Jordanian Arabic\nSouth Levantine Arabic\nSouth Levantine Spoken",
+    "lexvo": "\nArabeg levantek ar su [br]\nPalestinian Arabic [en]\nPalästinensisch-Arabisch [de]\nSouth Levantine Arabic [en]\nПалестински арапски јазик [mk]\nערבית פלסטינית [he]\nلهجة فلسطينية [ar]",
+    "hhbib_lgcode": "\nAbu Shusha\nArabic-South Levantine Spoken\nAtig close to Horan\nDawayimeh\nHebron\nJérusalem\nPalestinian Arabic\nPalestinian Spoken Arabic\nRamallah\nRural Palestinian Arabic\nS Levantine close to Horan\nSalt\nTransjordanian dialects\nWadi Mousa\nǦisir izZarga"
+  },
+  "triggers": {
+    "lgcode": "\nfallahis\npalestinian\npalestinese\ngerusalemme\njordanie\nfellachen\nkaraki\npalastinische\nsalti"
+  },
+  "identifier": {
+    "wals": "apa;arv",
+    "multitree": "ajp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Naim:Levant**",
+    "subrefs": "\n**hh:hv:Naim:Levant**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E25",
+    "date": "2022-04-22T13:39:26",
+    "comment": "Arabic, South Levantine Spoken (ajp-ajp) = 3 (Wider communication). De facto national working language."
+  },
+  "iso_retirement": {
+    "code": "ajp",
+    "name": "South Levantine Arabic",
+    "effective": "2023-01-20",
+    "reason": "merge",
+    "change_to": "\napc",
+    "change_request": "2022-006"
+  }
+}

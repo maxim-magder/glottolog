@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Purari",
+    "hid": "iar",
+    "level": "language",
+    "iso639-3": "iar",
+    "latitude": "-7.59133",
+    "longitude": "145.036",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Purari](https://endangeredlanguages.com/lang/10742)\n[Purari](https://grambank.clld.org/languages/pura1257)\nhttps://en.wikipedia.org/wiki/Purari_language\nhttps://www.wikidata.org/entity/Q3499934"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bell:18**\n**cldf:brown:57**\n**cldf:hammarstroem:17**\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:holmes:24**\n**cldf:maher:67**\n**cldf:maria:kolia:77**\n**cldf:np:15:2**\n**hh:e:Maher:Purari**\n**hh:e:Ulijaszek:Sago**\n**hh:e:deWal:Purari**\n**hh:ew:Bevan:BNG**\n**hh:h:Roscoe:New-Guinea**\n**hh:he:Williams:Purari**\n**hh:hld:Lean:11**\n**hh:hv:Franklin:Gulf:1968**\n**hh:hvld:Wurm:ECTNG**\n**hh:hw:Franklin:Appendices**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Gulf**\n**hh:hw:Ray:Gulf:1914**\n**hh:hw:Zgraggen:Gulf**\n**hh:lde:Holmes:Ipi-Namau**\n**hh:nt:Holmes:Iai**\n**hh:s:Holmes:Namau**\n**hh:s:KairiKolia:Purari**\n**hh:w:Anonymous:Maipua**\n**hh:w:Anonymous:Purari**\n**hh:w:Ray:Namau**"
+  },
+  "altnames": {
+    "multitree": "\nEvorra\nIai\nKoriki\nMaipua\nNamau\nPurari",
+    "lexvo": "\nPurari [en]\nPurari language [en]",
+    "hhbib_lgcode": "\nBaroi of Koravake\nEleman: Namau\nEvorra\nIai\nKoriki\nMaipua\nNamau\nNamau/Maipua\nNamau/Purari\nPurari (Namau)\nand Evorra",
+    "elcat": "\nEvorra\nIai\nKoriki\nMaipua\nNamau\nPurari"
+  },
+  "triggers": {
+    "lgcode": "\npurari\nnamau"
+  },
+  "identifier": {
+    "multitree": "iar;pura",
+    "endangeredlanguages": "10742"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hvs:Brown:Eleman:1973**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Purari (10742-iar) = Threatened (20 percent certain, based on the evidence available) [Hammarström 2017](cldf:hammarstroem:17)"
+  }
+}

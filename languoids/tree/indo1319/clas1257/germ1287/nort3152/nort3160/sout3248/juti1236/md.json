@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Jutish",
+    "hid": "jut",
+    "level": "language",
+    "iso639-3": "jut",
+    "latitude": "54.911",
+    "longitude": "9.38924",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE",
+      "DK"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Jutlandic\nhttps://www.wikidata.org/entity/Q1340322"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Feilberg:Jyske**\n**hh:hv:Larsen:Automatiske**\n**hh:hv:Wellejus:Jysk**\n**hh:ld:Thorsen:Husum**\n**hh:ldsoc:Pedersen:Dansk-Sydslesvig**\n**hh:phon:Andersen:Ostfynsk**\n**hh:s:Jensen:Houlbjergmalet**\n**hh:s:Nielsen:Jyske**\n**hh:sd:Kok:Sonderjylland**\n**hh:soc:Larsen:North-Frisian**\n**hh:t:NA:Jyske**\n**hh:tdial:BennikeKristensen:Danske**\n**hh:v:Beijering:Danish**\n**iso6393:2014-007**"
+  },
+  "altnames": {
+    "multitree": "\nJute méridional\nJutish\nJutlandish\nJuto meridional\nJysk\nWestern Danish",
+    "lexvo": "\nJutish [en]\nJutlandic [en]\nJutlands [nl]\nJuto [es]\nJylländska [sv]\nJysk [da]\nJütisch [de]\nLenga jutish [pms]\n日德兰语 [zh]",
+    "hhbib_lgcode": "\nDansk i Sydslesvig\nHusum i Slesvig\nJustish\nJutlandish"
+  },
+  "triggers": {
+    "lgcode": "\njyske"
+  },
+  "identifier": {
+    "multitree": "jut"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:110-111",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "South Jutish (672-jut) = Definitely endangered"
+  }
+}

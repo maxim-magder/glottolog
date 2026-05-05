@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Juxtlahuaca Mixtec",
+    "hid": "vmc",
+    "level": "language",
+    "iso639-3": "vmc",
+    "latitude": "17.3518",
+    "longitude": "-98.0146",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Southern Baja Mixtec](https://endangeredlanguages.com/lang/10535)\nhttps://www.wikidata.org/entity/Q25559582"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:romney:romney:63**\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:hvw:Padgett:Mixtec**\n**hh:ld:Auderset:Mixteco-Duraznos:Tono**\n**hh:ld:Josserand:Mixteca**\n**hh:typ:Anderset:Mixtec-Duraznos-Constituency**\n**hh:typ:Auderset:Mixteco-Duraznos:Flexion**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Juxtlahuaca Mixtec\nCentral Misteko\nCentreal Mixteco\nMixtec, Juxtlahuaca\nMixteco de Juxtlahuaca",
+    "lexvo": "\nJuxtlahuaca Mixtec [en]",
+    "hhbib_lgcode": "\n108 Santiago Juxtlahuaca Mixtec Josserand 1983\n120 Santos Reyes Tepejillo Mixtec Josserand 1983\n55 San Martin Duraznos Mixtec Hernández Martínez and Auderset 2020; Josserand 1983\n80 San Sebastian Tecomaxtlahuaca Mixtec Josserand 1983\nChaP\nDurz\nGuadalupe Nundaca (GNA)\nJuxt\nJuxtlahuaca\nMixtec-Juxtlahuaca\nMixteco de San Martín Duraznos\nRey\nSan Martin Duraznos\nSan Martín Duraznos (including Yucuyi and Río de Hielo) (SMD)\nSan Miguel Cuevas (SMC)\nSan Miguel Tlacotepec\nSan Pedro Chayuco\nSan Pedro Chayuco (SPC)\nSan Sebastián Tecomaxtlahuaca\nSanta Catarina Noltepec (SCA)\nSanta Rosa Caxtlahuaca (SRC)\nSantiago Juxtlahuaca\nSantos Reyes Tepejillo\nTeco\nTlaM",
+    "elcat": "\nAyutla Mixtec\nCentral Juxtlahuaca Mixtec\nCoastal Guerrero Mixtec\nCoicoyán Mixtec\nJuxtlahuaca Mixtec\nMixteco de Ayutla\nMixteco de Juxtlahuaca\nMixteco del Oeste de Juxtlahuaca\nSouthern Baja Mixtec\nWestern Juxtlahuaca Mixtec"
+  },
+  "identifier": {
+    "multitree": "vmc",
+    "endangeredlanguages": "10535"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:17-18 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Baja Mixtec (10535) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

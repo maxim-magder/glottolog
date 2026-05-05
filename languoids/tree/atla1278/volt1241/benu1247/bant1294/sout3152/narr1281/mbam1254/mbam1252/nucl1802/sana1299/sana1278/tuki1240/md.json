@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tuki",
+    "hid": "bag",
+    "level": "language",
+    "iso639-3": "bag",
+    "latitude": "4.64348",
+    "longitude": "11.5353",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Tuki](https://grambank.clld.org/languages/tuki1240)\n[Tuki](https://wals.info/languoid/lect/wals_code_tki)\nhttps://en.wikipedia.org/wiki/Ki_language\nhttps://phoible.org/languages/tuki1240\nhttps://www.wikidata.org/entity/Q36621"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:biloa:90**\n**cldf:biloa:91**\n**cldf:biloa:97**\n**cldf:hyman:biloa:92**\n**eballiso2009:18**\n**eballiso2009:18211**\n**eballiso2009:18425**\n**eballiso2009:21513**\n**eballiso2009:39009**\n**eballiso2009:39021**\n**eballiso2009:50820**\n**eballiso2009:50826**\n**eballiso2009:51**\n**eballiso2009:7614**\n**eballiso2009:9089**\n**hh:d:Welaze:Tuki**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:MousBreedveld:Bantu-A40-A60**\n**hh:hvphon:Boyd:Mbam**\n**hh:hvw:GuarismaPaulian:Bantous**\n**hh:phon:Essono:Tuki**\n**hh:s:BiloaKatamba:Tuki**\n**hh:s:Musada:Tuki**\n**hh:s:Welaze:Tuki**\n**hh:soc:DillerDiller:Tuki**\n**hh:soc:HueyMbongue:Tuki**\n**hh:styp:Biloa:Tuki**\n**hh:typ:Biloa:Tuki**\n**hh:typ:Essono:Tuki**\n**hh:typ:Hyman:Tuki:Classes**\n**mpieva:Musada1996Elements**\n**sil16:43516**\n**sil16:47844**\n**sil16:49626**\n**sil16:50444**\n**sil16:51091**"
+  },
+  "altnames": {
+    "wals": "\nTuki",
+    "ruhlen (1987)": "\nTuki",
+    "moseley & asher (1994)": "\nKi",
+    "multitree": "\nBacenga\nBaki\nBatchenga\nBetsinga\nBetzinga\nKi\nOki\nOsa Nanga\nSanaga\nTuki",
+    "lexvo": "\nTuki [en]",
+    "hhbib_lgcode": "\nA601_Tuki\nA61_Ngoro-Asom\nA61_Ngoro-Bisoo\nA61_Ngoro-lunda\nBacenga\nTotsingo\nTsinga (Cinga)\nTuki (Tsinga)\nTuki A61"
+  },
+  "triggers": {
+    "lgcode": "\nindexe\nNOT english AND tuki\nsanaga"
+  },
+  "identifier": {
+    "wals": "tki",
+    "multitree": "bag"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Boyd:Mbam**:329-361",
+    "subrefs": "\n**hh:hvphon:Boyd:Mbam**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tuki (bag-bag) = 6a (Vigorous)."
+  }
+}

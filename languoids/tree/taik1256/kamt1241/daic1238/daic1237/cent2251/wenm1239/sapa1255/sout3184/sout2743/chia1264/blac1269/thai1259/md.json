@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Thai Song",
+    "hid": "soa",
+    "level": "language",
+    "iso639-3": "soa",
+    "latitude": "13.2136",
+    "longitude": "99.8651",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TH"
+    ],
+    "links": "\n[Thai Song](https://endangeredlanguages.com/lang/1222)\nhttps://en.wikipedia.org/wiki/Thai_Song_language\nhttps://www.wikidata.org/entity/Q7709159"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**hh:phon:Burusphat:Thai-Song-Dam**\n**hh:phon:Maneewong:Lao-Song**\n**hh:phon:Unakornsawat:Phu-Tai-Lao-Song**\n**hh:s:Jirananthanaporn:Tai-Song**\n**hh:typ:Suree:Tai-Song**\n**hh:vw:Buranasing:Thai-Song**"
+  },
+  "altnames": {
+    "multitree": "\nChong of Mương Kratt\nChong of Trat\nLao Song\nLao Song Dam\nSong\nThai Song",
+    "lexvo": "\nThai Song [en]",
+    "hhbib_lgcode": "\nTai Song\nTai Song in Ban Phai Hu Chang Pathom province",
+    "elcat": "\nLao Song\nLao Song Dam\nSong\nThai Song\nThai Song Dam\nลาวโซ่ง\nลาวโซ่งดำ"
+  },
+  "triggers": {
+    "lgcode": "\npetchaburi\ngenerations"
+  },
+  "identifier": {
+    "multitree": "soa",
+    "endangeredlanguages": "1222"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chamberlain:Tai**",
+    "subrefs": "\n**hh:hv:Chamberlain:Tai**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Thai Song (soa-soa) = 6b (Threatened)."
+  }
+}

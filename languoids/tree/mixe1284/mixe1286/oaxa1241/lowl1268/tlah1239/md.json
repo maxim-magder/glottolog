@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tlahuitoltepec Mixe",
+    "hid": "mxp",
+    "level": "language",
+    "iso639-3": "mxp",
+    "latitude": "16.9634",
+    "longitude": "-96.1186",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixe (Ayutla)](https://wals.info/languoid/lect/wals_code_mxx)\n[Mixe (Tlahuitoltepec)](https://wals.info/languoid/lect/wals_code_mth)\n[South Highland Mixe](https://lexibank.clld.org/languages/wichmannmixezoquean-SouthHighlandMixe)\n[Southern Highland Mixe](https://endangeredlanguages.com/lang/7590)\nhttps://en.wikipedia.org/wiki/Tlahuitoltepec_Mixe\nhttps://www.wikidata.org/entity/Q7810697"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1520**\n**asjp2010:2973**\n**cldf:lewis:ed:09**\n**cldf:lyon:67**\n**cldf:romero-mendez:08**\n**hh:ew:Silva:Mixes**\n**hh:g:Gutierrez:Mixe-Tlahuitoltepec**\n**hh:g:Romero-Mendez:Ayutla-Mixe**\n**hh:g:Santiago:Mixe-Tamazulapam**\n**hh:s:Lyon:Mixe**\n**hh:s:Martinez:Mixe-Tamazulapam**\n**hh:s:Martinez:Mixe-Tlahuitoltepec**\n**hh:s:Santiago:Mixe-Tamazulapeno**\n**hh:soc:Tamez:Ayuk**\n**hh:typ:Lyon:Tlahuitoltepec-Mixe**\n**hh:typ:Martinez:Inverso-Tamazulapam**\n**hh:typ:Santiago:Inverso-Mixes**\n**hh:w:ILV:Mixe**\n**sil16:11548**"
+  },
+  "altnames": {
+    "wals": "\nMixe (Tlahuitoltepec)",
+    "wals other": "\nMixe\nTlahuitoltepec",
+    "ruhlen (1987)": "\nMije",
+    "moseley & asher (1994)": "\nMixe",
+    "multitree": "\nAyutla\nMije\nMixe\nMixe (Tlahuitoltepec)\nMixe, Tlahuitoltepec\nMize (Tlahuitoltepec)\nOaxaca Mije\nSouthern Highland Mije\nTamazulapan\nTlahuitoltepec\nWest Central Mixe\nWestern Mixe\nZempoaltepetl",
+    "lexvo": "\nTlahuitoltepec Mixe [en]",
+    "hhbib_lgcode": "\nAyutla\nAyutla Mixe\nMixe\nMixe de Tlahuitoltepec\nMixe-Tamazulápam",
+    "elcat": "\nSouthern Highland Mixe\nTlahuitoltepec Mixe\nWest Central Mixe"
+  },
+  "triggers": {
+    "lgcode": "\ntukyom\nayuujk\ntamazulapam\ntlahuitoltepec"
+  },
+  "identifier": {
+    "wals": "mth",
+    "multitree": "mxp",
+    "endangeredlanguages": "7590"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Southern Highland Mixe (7590-mxp) = Threatened (100 percent certain, based on the evidence available) [Romero-Méndez 2008](cldf:romero-mendez:08)"
+  }
+}

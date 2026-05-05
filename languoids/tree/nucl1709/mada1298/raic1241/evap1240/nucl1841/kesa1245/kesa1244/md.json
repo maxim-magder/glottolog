@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kesawai",
+    "hid": "xes",
+    "level": "language",
+    "iso639-3": "xes",
+    "latitude": "-5.76797",
+    "longitude": "145.58",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kesawai](https://grambank.clld.org/languages/kesa1244)\n[Kesawai](https://lexibank.clld.org/languages/transnewguineaorg-kesawai)\n[kesawai](https://lexibank.clld.org/languages/zgraggenmadang-kesawai)\nhttps://en.wikipedia.org/wiki/Kesawai_language\nhttps://www.wikidata.org/entity/Q6394907"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Priestley:Koromu**\n**hh:g:Priestley:Koromu:2020**\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**\n**hh:typ:Priestley:Koromu**\n**hh:w:Anonymous:Ramu-Mari**"
+  },
+  "altnames": {
+    "multitree": "\nKesawai\nNamuya",
+    "lexvo": "\nKesawai [en]",
+    "hhbib_lgcode": "\nKoromu\nKoromu (Kesawai 2)\nTaga 56 with Kaikovu and Koropa"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang\nkoromu"
+  },
+  "identifier": {
+    "multitree": "xes"
+  },
+  "classification": {
+    "sub": "**hh:hb:Zgraggen:Madang**:13",
+    "subrefs": "\n**hh:hb:Zgraggen:Madang**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koromu (xes-xes) = 6b (Threatened)."
+  }
+}

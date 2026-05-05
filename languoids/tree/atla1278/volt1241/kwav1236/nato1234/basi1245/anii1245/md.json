@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Anii",
+    "hid": "blo",
+    "level": "language",
+    "iso639-3": "blo",
+    "latitude": "9.11127",
+    "longitude": "1.60169",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "TG"
+    ],
+    "links": "\n[Anii](https://endangeredlanguages.com/lang/3809)\nhttps://www.wikidata.org/entity/Q34838\nhttps://en.wikipedia.org/wiki/Anii_language\nhttps://phoible.org/languages/anii1245"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:nd:1**\n**cldf:delinguistiquedubenincnlb:83**\n**cldf:lewis:ed:09**\n**cldf:morton:12**\n**cldf:odden:11**\n**eballiso2009:17341**\n**eballiso2009:59631**\n**hh:d:Elwert:Anii**\n**hh:g:Morton:Anii**\n**hh:hdial:TompkinsKluge:Anii-Akpe**\n**hh:he:Person:Baseda**\n**hh:hvw:Bertho:Moyen-Dahomey**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:phon:Morton:Anii**\n**hh:typ:Heine:Bassila**\n**hh:typ:Morton:Bassila-Anii**\n**hh:v:Morton:Anii**\n**sil16:47392**"
+  },
+  "altnames": {
+    "multitree": "\nAkpe\nAnii\nBaseca\nBasila\nBassila\nGisida\nOuinji-Ouinji\nWinji-Winji",
+    "lexvo": "\nAnii [en]",
+    "hhbib_lgcode": "\nBashila\nBasila\nBassila\nBassila Anii\nGisida Anii",
+    "elcat": "\n\"Ouinji-Ouinji\"\n\"Winji-Winji\"\nAkpe\nAnii\nBaseca\nBasila\nBassila\nGisida"
+  },
+  "triggers": {
+    "lgcode": "\nanii\ntshummbuli\nwindji\nbaseda\nbassila"
+  },
+  "identifier": {
+    "multitree": "blo",
+    "endangeredlanguages": "3809"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Central-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Central-Togo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Anii (3809-blo) = Vulnerable (100 percent certain, based on the evidence available) [Tompkins and Kluge 2009](cldf:tompkins:kluge:09)"
+  }
+}

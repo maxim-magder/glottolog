@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sar",
+    "hid": "mwm",
+    "level": "language",
+    "iso639-3": "mwm",
+    "latitude": "8.50634",
+    "longitude": "17.8785",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Sar_language\nhttps://www.wikidata.org/entity/Q56850"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:11198**\n**eballiso2009:13546**\n**eballiso2009:13937**\n**eballiso2009:13938**\n**eballiso2009:13939**\n**eballiso2009:13940**\n**eballiso2009:14192**\n**eballiso2009:14327**\n**eballiso2009:1656**\n**eballiso2009:27902**\n**eballiso2009:28405**\n**eballiso2009:30952**\n**eballiso2009:33305**\n**eballiso2009:33369**\n**eballiso2009:34021**\n**eballiso2009:36092**\n**eballiso2009:36127**\n**eballiso2009:36129**\n**eballiso2009:36130**\n**eballiso2009:36300**\n**eballiso2009:36341**\n**eballiso2009:4070**\n**eballiso2009:41385**\n**eballiso2009:48622**\n**eballiso2009:50388**\n**eballiso2009:52056**\n**eballiso2009:53500**\n**eballiso2009:6131**\n**eballiso2009:6135**\n**eballiso2009:7512**\n**eballiso2009:8634**\n**eballiso2009:9181**\n**hh:d:ConstantKeegan:Sar**\n**hh:d:ConstantKeegan:Sar:2016**\n**hh:d:Hallaire:Sara**\n**hh:d:Palayer:Sar**\n**hh:d:TodonaneKeegan:Nar**\n**hh:e:Fortier:Sara**\n**hh:g:Palayer:Sar**\n**hh:h:Djarangar:Sara-Intercomprehension**\n**hh:hbdial:CaprileFedry:Sara**\n**hh:he:Thayer:Sara**\n**hh:hv:Djarangar:Sara**\n**hh:hvw:Huguet:Sara-Tchad**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:phon:Naridjimtez:Sasa-Bessada**\n**hh:s:Delafosse:Sara**\n**hh:s:Muraz:Tourkou**\n**hh:s:Palayer:Sar**\n**hh:w:Chabrelie:Sara**\n**ldh:item_402582**\n**mpieva:Delafosse1897Essaisur**"
+  },
+  "altnames": {
+    "multitree": "\nSar\nSara\nSara Madjingay",
+    "lexvo": "\nSar [en]",
+    "hhbib_lgcode": "\nKumra\nMadjingay\nNar\nSar-Madjingay\nSara de Bessada\nSara de Yabanda\nSara of Delafosse\nSara-madjinngaye"
+  },
+  "triggers": {
+    "lgcode": "\nparticuliere\nimmediat\nsar\nsuu\ntourkou\nNOT sud AND NOT e AND NOT its AND NOT tonales AND NOT van AND NOT von AND NOT mbaye AND NOT description AND NOT n AND NOT y AND NOT ngambay AND sara"
+  },
+  "identifier": {
+    "multitree": "mwm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sar (mwm-mwm) = 3 (Wider communication). Language of wider communication since French colonial time around 1870. Used in agriculture, communication, radio network, and religion."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mashi (Zambia)",
+    "hid": "mho",
+    "level": "language",
+    "iso639-3": "mho",
+    "latitude": "-16.7256",
+    "longitude": "22.5983",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "NA",
+      "ZM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mashi_language\nhttps://www.wikidata.org/entity/Q10962737"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:20685**\n**eballiso2009:20686**\n**eballiso2009:20687**\n**eballiso2009:21340**\n**eballiso2009:39489**\n**eballiso2009:48344**\n**hh:e:Reynolds:Kwandu**\n**hh:hv:Bostoen:Western-Zambia**\n**hh:hv:Fortune:Barotseland**\n**hh:hv:Lisimba:Luyana**"
+  },
+  "altnames": {
+    "multitree": "\nMashi\nMasi",
+    "lexvo": "\nMashi (Zambia) [en]\nMashi [en]",
+    "hhbib_lgcode": "\nKwamashi\nKwandu\nMashi\nN Kwandu"
+  },
+  "triggers": {
+    "lgcode": "\nkwandu\nva{kwandu"
+  },
+  "identifier": {
+    "multitree": "mho"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lisimba:Luyana**",
+    "subrefs": "\n**hh:hv:Lisimba:Luyana**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mashi (mho-mho) = 6b* (Threatened)."
+  }
+}

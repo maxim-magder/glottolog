@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ga'anda",
+    "hid": "gqa",
+    "level": "language",
+    "iso639-3": "gqa",
+    "latitude": "10.2955",
+    "longitude": "12.6479",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ga'anda](https://grambank.clld.org/languages/gaan1243)\n[Ga'anda](https://wals.info/languoid/lect/wals_code_gnd)\n[Ga?anda](https://lexibank.clld.org/languages/kraftchadic-Gaanda)\n[Gábin](https://lexibank.clld.org/languages/kraftchadic-Gabin)\nhttps://en.wikipedia.org/wiki/Ga%27anda_language\nhttps://www.wikidata.org/entity/Q56245"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:122**\n**asjp2010:4380**\n**cldf:ibriszimow:ed:01:5**\n**cldf:newman:71:2**\n**eballiso2009:14227**\n**eballiso2009:27227**\n**hh:ew:Boyle:Lala**\n**hh:g:Newman:Gaanda**\n**hh:hew:Meek:Tribal:II**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Kraft:Chadic:II**"
+  },
+  "altnames": {
+    "wals": "\nGa'anda",
+    "ruhlen (1987)": "\nGa'ana",
+    "moseley & asher (1994)": "\nGa'anda",
+    "multitree": "\nGa'anda\nGa'andu\nGanda\nMakwar\nMokar",
+    "lexvo": "\nGa'anda [en]\nGa'anda language [en]\nGandaeg [br]\nGa’anda jezik [hr]",
+    "hhbib_lgcode": "\nGa-anda\nGabin"
+  },
+  "triggers": {
+    "lgcode": "\ngaanda"
+  },
+  "identifier": {
+    "wals": "gnd",
+    "multitree": "gqa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:49-50",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ga’anda (gqa-gqa) = 6b (Threatened)."
+  }
+}

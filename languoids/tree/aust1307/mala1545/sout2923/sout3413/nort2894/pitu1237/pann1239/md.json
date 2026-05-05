@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Pannei",
+    "hid": "pnc",
+    "level": "language",
+    "iso639-3": "pnc",
+    "latitude": "-3.21973",
+    "longitude": "119.191",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7131391\nhttps://en.wikipedia.org/wiki/Pannei_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Stromme:PUS1**\n**hh:socdial:StrommeValkama:Mandar**\n**sil16:22005**\n**sil16:22006**"
+  },
+  "altnames": {
+    "multitree": "\nNordost-Celebes\nPannei\nTapango",
+    "lexvo": "\nPannei [en]"
+  },
+  "triggers": {
+    "lgcode": "\nwest AND polewali"
+  },
+  "identifier": {
+    "multitree": "pnc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Ulunnu** **hh:hvw:GrimesGrimes:South-Sulawesi**",
+    "subrefs": "\n**hh:hvw:Smith:Ulunnu**\n**hh:hvw:GrimesGrimes:South-Sulawesi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pannei (pnc-pnc) = 6b (Threatened)."
+  }
+}

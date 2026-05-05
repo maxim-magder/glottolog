@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Ngwaba",
+    "hid": "ngw",
+    "level": "language",
+    "iso639-3": "ngw",
+    "latitude": "10.0921",
+    "longitude": "12.7942",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Ngwaba](https://endangeredlanguages.com/lang/4852)\nhttps://www.wikidata.org/entity/Q3440480\nhttps://en.wikipedia.org/wiki/Ngwaba_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Ethnologue:17**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hsoc:Fakuade:Adamawa**"
+  },
+  "altnames": {
+    "multitree": "\nEnguaba\nGoba\nGombi\nNgwaba",
+    "lexvo": "\nNgwaba [en]\nNgwaba language [en]",
+    "hhbib_lgcode": "\nNgwaba citing BL 1987 A revision of the index of Nigerian languages",
+    "elcat": "\nGoba\nGombi\nNgwaba"
+  },
+  "identifier": {
+    "multitree": "ngw",
+    "endangeredlanguages": "4852"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:47-48 **hh:hv:BarreteauDieu:ENCameroun**:65-66",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**\n**hh:hv:BarreteauDieu:ENCameroun**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ngwaba (4852-ngw) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

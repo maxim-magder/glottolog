@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bali (Democratic Republic of Congo)",
+    "hid": "bcp",
+    "level": "language",
+    "iso639-3": "bcp",
+    "latitude": "1.1807",
+    "longitude": "26.5941",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3515074\nhttps://en.wikipedia.org/wiki/Bali_language_(DRC)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:czekanowski:24**\n**cldf:schebesta:34**\n**cldf:vangeluwe:60**\n**eballiso2009:12156**\n**eballiso2009:18324**\n**eballiso2009:25996**\n**eballiso2009:28707**\n**eballiso2009:30524**\n**eballiso2009:36358**\n**eballiso2009:40835**\n**eballiso2009:57784**\n**eballiso2009:58705**\n**eballiso2009:5877**\n**hh:e:Bouccin:Babali**\n**hh:e:Frassle:Lohali**\n**hh:hb:Moiso:Haut-Zaire**\n**hh:he:MaesBoone:Congo-Belge**\n**hh:hew:Harvey:Bali**\n**hh:hew:vanGeluwe:Bali**\n**hh:hv:Engama:Bali-Liko-Boa**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Vorbichler:Bira**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hvw:McMaster:Uele**\n**hh:phontyp:Bolingola:Bali**\n**hh:typ:Babananzaka:Bali**\n**mpieva:Bolingola1996Esquisse**"
+  },
+  "altnames": {
+    "multitree": "\nBaali\nBali\nDhibali\nKibaali\nKibala\nKibali\nLibaali",
+    "lexvo": "\nBali (Democratic Republic of Congo) [en]\nBali [en]",
+    "hhbib_lgcode": "\nBaali\nBabali\nBali\nBalí\nD21_Baali\nKiBali\nMabali"
+  },
+  "triggers": {
+    "lgcode": "\nbabali\nzoological\nautrefois\nd21"
+  },
+  "identifier": {
+    "multitree": "bcp"
+  },
+  "classification": {
+    "sub": "**hh:hvw:McMaster:Uele**",
+    "subrefs": "\n**hh:hvw:McMaster:Uele**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bali (bcp-bcp) = 6a (Vigorous)."
+  }
+}

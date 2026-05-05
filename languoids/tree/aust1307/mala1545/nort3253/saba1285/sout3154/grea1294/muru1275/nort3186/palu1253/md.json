@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Paluan",
+    "hid": "plz",
+    "level": "language",
+    "iso639-3": "plz",
+    "latitude": "5.02715",
+    "longitude": "116.346",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7128795\nhttps://en.wikipedia.org/wiki/Paluan_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hew:Rutter:Pagans-Borneo**\n**hh:hv:Spitzack:Murutic**\n**hh:ld:Prentice:Paluan**\n**hh:w:Lobel:North-Borneo**"
+  },
+  "altnames": {
+    "multitree": "\nPaluan\nPeluan",
+    "lexvo": "\nPaluan [en]",
+    "hhbib_lgcode": "\n(27) Murut Paluan (PALUAN)\nPandewan\nPeluan\nSook"
+  },
+  "triggers": {
+    "lgcode": "\npaluan"
+  },
+  "identifier": {
+    "multitree": "plz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Spitzack:Murutic**",
+    "subrefs": "\n**hh:hv:Spitzack:Murutic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Murut, Paluan (plz-plz) = 6b* (Threatened)."
+  }
+}

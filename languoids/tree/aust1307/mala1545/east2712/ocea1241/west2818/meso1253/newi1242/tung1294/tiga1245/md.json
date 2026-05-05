@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Tigak",
+    "hid": "tgc",
+    "level": "language",
+    "iso639-3": "tgc",
+    "latitude": "-2.70951",
+    "longitude": "150.893",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Tigak](https://grambank.clld.org/languages/tiga1245)\n[Tigak](https://lexibank.clld.org/languages/abvdoceanic-Tigak)\n[Tigak](https://wals.info/languoid/lect/wals_code_tgk)\nhttps://en.wikipedia.org/wiki/Tigak_language\nhttps://phoible.org/languages/tiga1245\nhttps://www.wikidata.org/entity/Q3528276"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:stolz:96**\n**hh:g:Beaumont:Tigak**\n**hh:g:Beaumont:Tigak:1974**\n**hh:hv:Beaumont:Tigak-Tungag-Kara**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:s:Beaumont:Tigak**\n**hh:typ:Beaumont:Tigak-Kara**\n**sil16:45084**"
+  },
+  "altnames": {
+    "wals": "\nTigak",
+    "wals other": "\nOmo",
+    "ruhlen (1987)": "\nTigak",
+    "moseley & asher (1994)": "\nTigak",
+    "multitree": "\nNeu-Mecklenburg\nOmo\nTigak",
+    "lexvo": "\nTigak [en]\nTigak language [en]",
+    "hhbib_lgcode": "\nKapsu"
+  },
+  "triggers": {
+    "lgcode": "\ntigak"
+  },
+  "identifier": {
+    "wals": "tgk",
+    "multitree": "tgc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:New-Ireland** **hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:New-Ireland**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tigak (tgc-tgc) = 6b (Threatened)."
+  }
+}

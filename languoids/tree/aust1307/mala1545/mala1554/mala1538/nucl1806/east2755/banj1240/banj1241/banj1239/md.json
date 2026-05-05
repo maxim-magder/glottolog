@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Banjar",
+    "hid": "bjn",
+    "level": "language",
+    "iso639-3": "bjn",
+    "latitude": "0.747105",
+    "longitude": "115.79",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": ""
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hapip:77**\n**hh:d:Hapip:Banjar**\n**hh:d:Mugeni:Banjar-Hulu**\n**hh:e:Djinar:Dayak-Jalai**\n**hh:hv:Hudson:Sarawak**\n**hh:hvw:Adelaar:Melayik-Purba**\n**hh:hvw:Adelaar:Proto-Malayic**\n**hh:hvw:Hudson:Barito**\n**hh:hvw:Hudson:Padju-Epat**\n**hh:hvw:White:Kotawaringin-Barat**\n**hh:ld:SanjotoJusran:Bandjar**\n**hh:phon:Poerwadi:Tamuan**\n**hh:s:Durasid:Banjar-Hulu**\n**hh:s:Hapip:Banjar-Kuala**\n**hh:s:Kawi:Banjar**\n**hh:s:Kawi:Banjar-Kuala**\n**hh:s:Kawi:Banjar:2002**\n**hh:s:Poerwadi:Tamuan**\n**hh:s:Widjajauksumah:Bandjar**\n**hh:typ:Durasid:Banjar-Hulu**\n**hh:typ:Wiyana:Banjarese**\n**hh:w:Stokhofetal:Holle:8**"
+  },
+  "altnames": {
+    "multitree": "\nBandjarese\nBanjar\nBanjar Malay\nBanjarese",
+    "lexvo": "\nBahasa Banjar [id]\nBanjar [en]\nBanjar language [en]\nBanjaresiska [sv]\nBanjarčina [sk]\nJęzyk banjar [pl]\nLenga Banjar [pms]\nLengua banjar [lij]",
+    "hhbib_lgcode": "\nBandjar\nBanjar Kuala\nBanjarese\nBanjarese Malay Hulu\nMartapura\nSulung\nTamuan closest to Banjar"
+  },
+  "triggers": {
+    "lgcode": "\nbandjar\nbanjar"
+  },
+  "identifier": {
+    "multitree": "bjn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Collins:Malay-Borneo**",
+    "subrefs": "\n**hh:hv:Collins:Malay-Borneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Banjar (bjn-bjn) = 3 (Wider communication). Spoken on the east coast of Kalimantan. Increased in the 17th century under Dutch colonial rule. Used in trade, fishing, farming, plantations, transportation, and mining."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Obispeño",
+    "hid": "obi",
+    "level": "language",
+    "iso639-3": "obi",
+    "latitude": "35.2873",
+    "longitude": "-120.669",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q1288385\nhttps://en.wikipedia.org/wiki/Obispe%C3%B1o_language",
+    "timespan": "1917-01-01/1917-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2732**\n**hh:e:Greenwood:Obispeno-Purisimeno**\n**hh:hvb:Golla:California**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Kroeber:Chumash-Costanoan**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Scouler:NWCoast**\n**hh:w:Grant:Scouler**\n**hh:w:Heizer:Henshaw**\n**mpieva:Pinart1952TheMissi**"
+  },
+  "altnames": {
+    "glottolog": "\nObispeno",
+    "multitree": "\nChumasha Proper\nNorthern Chumash\nObispeño\nObsipeño\nSan Luis Obispo\nSanta Rosa",
+    "lexvo": "\nObispeño [en]",
+    "hhbib_lgcode": "\nObispeno Chumash\nSan Luis Obispo"
+  },
+  "triggers": {
+    "lgcode": "\nrecords AND henshaw"
+  },
+  "identifier": {
+    "multitree": "obi"
+  },
+  "classification": {
+    "sub": "**hh:hv:JonesKlar:Polynesian-Southern-California**",
+    "subrefs": "\n**hh:hv:JonesKlar:Polynesian-Southern-California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Obispeño (852-obi) = Extinct"
+  }
+}

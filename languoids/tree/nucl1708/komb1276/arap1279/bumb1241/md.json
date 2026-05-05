@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bumbita Arapesh",
+    "hid": "aon",
+    "level": "language",
+    "iso639-3": "aon",
+    "latitude": "-3.65508",
+    "longitude": "142.859",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bumbita](https://endangeredlanguages.com/lang/2046)\nhttps://en.wikipedia.org/wiki/Bumbita_language\nhttps://phoible.org/languages/bumb1241\nhttps://www.wikidata.org/entity/Q3508044"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:e:Leavitt:Bumbita-Arapesh**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:Laycock:Lumi**\n**hh:styp:Dobrin:Arapesh**\n**hh:typ:Saras:Bumbita**\n**silpng:silpng2001-2003:328**"
+  },
+  "altnames": {
+    "multitree": "\nArapesh\nArapesh, Bumbita\nArapeso bumbita\nBumbita\nBumbita Arapesh\nBumbita arapesh\nWeri",
+    "lexvo": "\nBumbita Arapesh [en]",
+    "hhbib_lgcode": "\nArapesh-Bumbita\nBumbita",
+    "elcat": "\nBambita Arapesh\nBumbita\nBumbita Arapesh\nBut Arapesh\nWeri"
+  },
+  "triggers": {
+    "lgcode": "\nbumbita\nalubansprache"
+  },
+  "identifier": {
+    "multitree": "aon",
+    "endangeredlanguages": "2046"
+  },
+  "classification": {
+    "sub": "**hh:g:Nekitel:Abu**:39",
+    "subrefs": "\n**hh:g:Nekitel:Abu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Bumbita (2046-aon) = Endangered (60 percent certain, based on the evidence available) (Middle-aged and older speakers use the language, but except for two villages, younger people mainly use Tok Pisin, the national language of Papua New Guinea.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

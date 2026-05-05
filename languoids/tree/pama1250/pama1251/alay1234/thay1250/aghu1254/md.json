@@ -1,0 +1,53 @@
+{
+  "core": {
+    "name": "Aghu Tharnggalu",
+    "hid": "ggr",
+    "level": "language",
+    "iso639-3": "ggr",
+    "latitude": "-13.735",
+    "longitude": "142.426",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Aghu Tharnggala](https://collection.aiatsis.gov.au/austlang/language/y65)\n[Aghu Tharnggalu](https://grambank.clld.org/languages/aghu1254)\n[Aghu-Tharrnggala](https://lexibank.clld.org/languages/bowernpny-AghuTharrnggala)\nhttps://en.wikipedia.org/wiki/Aghu_Tharrnggala_language\nhttps://phoible.org/languages/aghu1254\nhttps://www.wikidata.org/entity/Q16825981",
+    "timespan": "1960-01-01/1960-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Alpher:Thaypanic**\n**hh:s:Jolly:Tharrnggala**\n**iso6393:2012-138**"
+  },
+  "altnames": {
+    "multitree": "\nAghu\nAghu Tharnggala\nAghu Tharnggalu\nAghu-Tharnggala\nAghu-Tharrnggala\nAgu-Tarnggele\nAku-Danggela\nDarnggele\nDarnggelle\nGogo Mini\nIkarranggali\nKuku-Mini",
+    "lexvo": "\nAghu Tharnggalu [en]\nAghu Tharnggalu jezik [hr]\nAghu Tharrnggala language [en]\nAghu tharnggalu [sv]\nLenga aghu tharnggalu [pms]",
+    "hhbib_lgcode": "\nAghu Tharrnggala (Agu Atharrnggala)",
+    "aiatsis": "\nAghu\nAghu Tharnggal\nAghu Tharnggala\nAghu Tharnggalai\nAghu Tharnggalu\nAghu Tharrnggala\nAgu Tarnggele\nAku Danggela\nDarnggele\nDarnggelle"
+  },
+  "triggers": {
+    "lgcode": "\ntharrnggala"
+  },
+  "iso_retirement": {
+    "comment": "Ethnologue currently lists \"Ikarranggali\" and \"Kuku-Mini\" as alternate names of\nAghu Tharnggalu [ISO 639-3: ggr]. Australian language scholarship, however,\npoints to the need to identify these as distinct languages.\n\nAUSTLANG classifies Aghu-Tharnggala and Ikarranggal as distinct languages in the\nRarmul Pama subgroup. Oates also recognizes these as two separate languages\n(1975: 287, 292).\n\nAUSTLANG tentatively lists Gugu Mini, noting it is unclear if Gugu Mini refers\nto a specific language or is used as a broader cover term. Sommer says that Kuku\nMini [AIATSIS Code Y94] literally means ‘speech good’ and is generally applied\nto languages and dialects of the Central Paman type (2008 p.c.). Gugu Mini and\nAghu-Tharnggala are considered separate entities in Wurm (1972, 1994), Oates\n(1975), and Walsh (1981).\n\nDr. Claire Bowern identifies distinct locations for Aghu-Tharnggala and Gugu\nMini in her map \"Centroid Coordinates for Australian languages\" (2011).",
+    "code": "ggr",
+    "name": "Aghu Tharnggalu",
+    "effective": "2013-01-23",
+    "remedy": "Split into Aghu-Tharnggala [gtu], Gugu-Mini [ggm], and Ikarranggal [ikr]",
+    "reason": "split",
+    "change_request": "2012-138",
+    "change_to": "\ngtu\nggm\nikr"
+  },
+  "identifier": {
+    "multitree": "ggr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Alpher:Thaypanic**",
+    "subrefs": "\n**hh:hv:Alpher:Thaypanic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Aghu-Tharnggala (6661-gtu) = Dormant"
+  }
+}

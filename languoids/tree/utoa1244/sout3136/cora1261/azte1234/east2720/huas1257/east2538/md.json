@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Eastern Huasteca Nahuatl",
+    "hid": "nhe",
+    "level": "language",
+    "iso639-3": "nhe",
+    "latitude": "21.0639",
+    "longitude": "-97.9077",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4358289"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Beatriz:Nahuatl**\n**hh:d:Celestino:Nahuatl-Huasteca**\n**hh:dial:Key:Hidalgo-Veracruz-Puebla**\n**hh:g:Beller:Nahuatl-Huasteca**\n**hh:g:BellerBeller:Huasteca**\n**hh:hv:Garcia:Huasteca-Nahuatl**\n**hh:hvw:Hertle:Puebla-Tlaxcala**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:phon:Aguilar:Chicontepec-Nahuatl**\n**hh:s:Beatriz:Nahuatl**\n**hh:s:Lastra:Nahuatl**\n**hh:styp:Cruz:Nahuatl-Teposteco**\n**hh:typ:Peregrina:Nahuatl-Huasteca-Veracruzana**\n**hh:typ:Peregrina:Nahuatl-Huasteca-Veracruzana:2009**\n**hh:w:Anonimo:Nahuatl**\n**sil16:12508**\n**sil16:15363**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Nahua\nEastern Nawa\nMexicano\nNahua de la Huasteca\nNahuatl\nNahuatl (Huasteca)\nNahuatl, Eastern Huasteca\nNáhuatl du Huasteca",
+    "lexvo": "\nEastern Huasteca Nahuatl [en]\nLingua nahuatl huaxteca orientale [it]",
+    "hhbib_lgcode": "\n-97.962055\nAcaxochitlan-Hidalgo (North Puebla)\nAcaxochitlán\nChicontepec Nahuatl\nHuautla in Hidalgo\nLas Balsas/Francisco Z. Mena\nMostly Huautla-Hidalgo\nMostly Nahuatl-Eastern Huasteca\nNahuatl-Eastern Huasteca\nNáhuatl de la huasteca\nNáhuatl de la huasteca hidalguense\nTeposteco Chicontepec perhaps 20.970416/-97.962055\ntechnically in N Puebla State but belongs to the Huasteca subgroup"
+  },
+  "triggers": {
+    "lgcode": "\nveracruzana\ntransitividad\nteposteco\nlad\nacaxochitlan\nnarrativa\nchicontepec"
+  },
+  "identifier": {
+    "multitree": "nhe"
+  },
+  "classification": {
+    "sub": "**hh:hv:Canger:Nahuas:1988**:478-479",
+    "subrefs": "\n**hh:hv:Canger:Nahuas:1988**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Huasteca Náhuatl (1506-nhe) = Vulnerable"
+  }
+}

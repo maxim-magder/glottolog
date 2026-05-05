@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kemberano",
+    "hid": "bzp",
+    "level": "language",
+    "iso639-3": "bzp",
+    "latitude": "-2.24495",
+    "longitude": "132.988",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Kemberano_language\nhttps://www.wikidata.org/entity/Q12634399"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:NA:SBH**\n**hh:e:vanRhijn:Berau**\n**hh:hv:Anceaux:Bomberai**\n**hh:hv:Anceaux:Bomberai:1956**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvtyp:BerryBerry:SBH**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**\n**hh:hw:Walker:Bomberai**\n**hh:ld:Marsden:Brau**\n**hh:ld:Walker:West-Papua**\n**hh:s:Voorhoeve:Arandai**"
+  },
+  "altnames": {
+    "multitree": "\nArandai\nBarau\nKalitami\nKemberano\nWariagar",
+    "lexvo": "\nKemberano [en]",
+    "hhbib_lgcode": "\nArandai-Bomberai\nArandai/Kemberan\nBarau\nBarau (Ac)\nJaban-Weriagar\nKalitami\nKamoendang\nKamundang\nWariagar"
+  },
+  "triggers": {
+    "lgcode": "\nNOT south AND arandai\nfle\nteminabuan"
+  },
+  "identifier": {
+    "multitree": "bzp"
+  },
+  "classification": {
+    "sub": "**hh:s:Voorhoeve:Arandai**:3",
+    "subrefs": "\n**hh:s:Voorhoeve:Arandai**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kemberano (bzp-bzp) = 6b* (Threatened)."
+  }
+}

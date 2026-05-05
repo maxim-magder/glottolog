@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Uneapa",
+    "hid": "bbn",
+    "level": "language",
+    "iso639-3": "bbn",
+    "latitude": "-4.89383",
+    "longitude": "149.141",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bali-Vitu](https://lexibank.clld.org/languages/abvdoceanic-BaliVitu)\n[Bali-Vitu](https://wals.info/languoid/lect/wals_code_bvi)\n[Uneapa](https://grambank.clld.org/languages/unea1237)\nhttps://en.wikipedia.org/wiki/Uneapa_language\nhttps://www.wikidata.org/entity/Q7884126"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lynch:ross:etal:ed:02:5**\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Ross:WMelanesia**\n**hh:hvwld:Johnston:Kimbe-Bay**\n**hh:s:Ross:Bali-Vitu**"
+  },
+  "altnames": {
+    "multitree": "\nBali\nBali-Vitu\nUneapa",
+    "lexvo": "\nUneapa [en]\nUneapa jezik [hr]\nUneapa language [en]",
+    "hhbib_lgcode": "\nBali\nBali-Vitu\nBali-Vitu (Bali)"
+  },
+  "triggers": {
+    "lgcode": "\nkimbe"
+  },
+  "identifier": {
+    "multitree": "bbn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Uneapa (bbn-bbn) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ninde",
+    "hid": "mwi",
+    "level": "language",
+    "iso639-3": "mwi",
+    "latitude": "-16.4291",
+    "longitude": "167.442",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Ninde](https://endangeredlanguages.com/lang/2511)\n[Ninde](https://grambank.clld.org/languages/labo1244)\n[Ninde (Lawa)](https://lexibank.clld.org/languages/abvdoceanic-NindeLawa)\nhttps://en.wikipedia.org/wiki/Ninde_language\nhttps://www.wikidata.org/entity/Q2157452"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2482**\n**asjp2010:790**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Ray:Meaun**\n**hh:s:Dimock:Ninde**\n**hh:s:Murray:Ninde**\n**hh:t:Pearce:Ninde**\n**iso6393:2008-014**"
+  },
+  "altnames": {
+    "multitree": "\nLabo\nMeaun\nMewun\nNide\nNinde",
+    "lexvo": "\nLabo [en]\nNinde [en]",
+    "hhbib_lgcode": "\nLabo\nMeaun\nMewun\nWindua",
+    "elcat": "\nLabo\nMeaun\nMewun\nNide\nNinde"
+  },
+  "triggers": {
+    "lgcode": "\nmeaun\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "mwi;labo",
+    "endangeredlanguages": "2511"
+  },
+  "classification": {
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ninde (2511-mwi) = Threatened (20 percent certain, based on the evidence available) [Lynch and Crowley 2001](cldf:lynch:crowley:01)"
+  }
+}

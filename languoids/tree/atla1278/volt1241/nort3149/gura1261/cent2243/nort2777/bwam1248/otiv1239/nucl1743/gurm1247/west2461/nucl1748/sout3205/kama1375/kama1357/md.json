@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kamara",
+    "hid": "jmr",
+    "level": "language",
+    "iso639-3": "jmr",
+    "latitude": "8.93891",
+    "longitude": "-2.34944",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Kamara](https://endangeredlanguages.com/lang/3309)\nhttps://www.wikidata.org/entity/Q35561\nhttps://en.wikipedia.org/wiki/Kamara_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cahill:97**\n**cldf:ed:10**\n**cldf:hunt:81**\n**cldf:hunt:hunt:80**\n**cldf:kroppdakubu:80**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:32788**\n**eballiso2009:33938**\n**eballiso2009:33940**\n**eballiso2009:33941**\n**eballiso2009:4388**\n**eballiso2009:47744**\n**eballiso2009:56366**\n**hh:hv:Naden:Central-Mabia**\n**hh:s:Prost:Kamara**\n**hh:vtyp:Naden:Kamara-Larabanga**"
+  },
+  "altnames": {
+    "multitree": "\nKamara\nMara",
+    "lexvo": "\nKamara [en]",
+    "elcat": "\nKamara\nMara",
+    "hhbib_lgcode": "\nKaMara"
+  },
+  "triggers": {
+    "lgcode": "\nkamara\nlarabanga\nhanga"
+  },
+  "identifier": {
+    "multitree": "jmr",
+    "endangeredlanguages": "3309"
+  },
+  "classification": {
+    "sub": "**hh:vtyp:Naden:Kamara-Larabanga**",
+    "subrefs": "\n**hh:vtyp:Naden:Kamara-Larabanga**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kamara (3309-jmr) = Vulnerable (40 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

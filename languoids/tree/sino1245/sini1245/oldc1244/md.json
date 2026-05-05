@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Old Chinese",
+    "hid": "och",
+    "level": "language",
+    "iso639-3": "och",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "longitude": "114.32",
+    "latitude": "36.12",
+    "links": "\n[Sinitic_Old_Chinese](https://lexibank.clld.org/languages/sagartst-OldChinese)\nhttps://en.wikipedia.org/wiki/Old_Chinese\nhttps://www.wikidata.org/entity/Q35137",
+    "timespan": "-1200-01-01/0400-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:jacques:16:3**\n**hh:d:Karlgren:Serica**\n**hh:d:Zhong:Shanggu-Han**\n**hh:g:Dobson:Early-Archaic-Chinese**\n**hh:g:Dobson:Late-Archaic-Chinese**\n**hh:g:Gurevic:Kitajskogo**\n**hh:g:Harbsmeier:Classical-Chinese**\n**hh:g:Pulleyblank:Classical-Chinese**\n**hh:gv:Chou:Ancient-Chinese**\n**hh:hv:Handel:Old-Chinese-Proto-Sino-Tibetan**\n**hh:hv:Hogan:Austronesian-Old-Chinese-Austro-Thai**\n**hh:hv:Sagart:Austronesian-Old-Chinese**\n**hh:hvw:Button:NChin**\n**hh:hvw:Button:NChin:2011**\n**hh:phon:Baxter:Old-Chinese**\n**hh:phon:Hashimoto:Ancient-Chinese**\n**hh:s:Cheng:Xixiangji**\n**hh:s:Dobson:Late-Han-Chinese**\n**hh:s:Herforth:Zhou**\n**hh:s:Kryukov:Inskix**\n**hh:s:Li:Shanggu**\n**hh:s:Nikitina:Drevnekitajskix**\n**hh:s:Peyraube:OldChinese**\n**hh:s:Starostin:Drevnekitajskij**\n**hh:s:StarostinStarostin:Drevnekitajskij**\n**hh:s:Yaxontov:Drevnekitajskij**\n**hh:std:Kryukov:Drevnekitajskij**\n**hh:t:Nikitina:Drevnekitajskomu**\n**hh:typ:Marco:Mengzi**\n**hh:vphon:Serruys:Chinese-Han**\n**hh:vw:Starostin:Chinese**\n**sn:AnsaldoEtAl2009age**"
+  },
+  "altnames": {
+    "multitree": "\nAncient Chinese\nArchaic Chinese\nOld Chinese",
+    "lexvo": "\nAltchinesische Sprache [de]\nAntico cinese [it]\nBahasa Cina Lama [ms]\nBahasa Tionghoa Kuno [id]\nChinois archaïque [fr]\nChinês antigo [pt]\nFornkinesiska [sv]\nJęzyk starochiński [pl]\nOld Chinese [en]\nДревнекитайский язык [ru]\nСтарокинески језик [sr]\n上古汉语 [wuu]\n上古音 [ja]",
+    "hhbib_lgcode": "\nAncient Chinese\nChinese\nClassic Old Chinese\nClassical Chinese\nClassical Chinese VII-III C BC\nEarly Old Chinese (as represented by documents such as The Book of Songs)\nMengzi\nZhou Chinese"
+  },
+  "triggers": {
+    "lgcode": "\nputative\nmengzi\nnadpisej\ninskix\nxixiangji\nzhou"
+  },
+  "identifier": {
+    "multitree": "och"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entries. One of them is Old Chinese (**hh:s:StarostinStarostin:Drevnekitajskij**, **hh:s:Peyraube:OldChinese**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "och"
+  },
+  "classification": {
+    "sub": "**hh:hv:Handel:Chinese-Diversification** **hh:hv:Norman:Chinese-Classification**",
+    "subrefs": "\n**hh:hv:Handel:Chinese-Diversification**\n**hh:hv:Norman:Chinese-Classification**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Chinese (och-och) = 10 (Extinct)."
+  }
+}

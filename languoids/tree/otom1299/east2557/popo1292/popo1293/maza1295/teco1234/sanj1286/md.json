@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "San Jerónimo Tecóatl Mazatec",
+    "hid": "maa",
+    "level": "language",
+    "iso639-3": "maa",
+    "latitude": "18.1999",
+    "longitude": "-96.8833",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tec%C3%B3atl_Mazatec\nhttps://www.wikidata.org/entity/Q7692927"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Agee:Mazateco-San-Jeronimo-Tecoatl**\n**hh:hv:Gudschinsky:Mazatec**\n**hh:hv:Gudschinsky:Mazatec-Dialect**\n**hh:hvwphon:Kirk:Mazatec**\n**hh:ld:Bull:San-Jeronimo-Mazatex-Phonological**\n**hh:phon:Bull:San-Jeronimo-Mazatec**\n**hh:styp:Martinez:Mazateco-Zoquiapam**\n**hh:typ:Agee:San-Jeronimo-Mazatec**\n**hh:typ:Bull:San-Jeronimo-Mazatec-Verbs**\n**hh:typ:LeonardFulcrand:Mazatec**\n**iso6393:2017-021**\n**sil16:19819**\n**sil16:42867**\n**sil16:44323**"
+  },
+  "altnames": {
+    "glottolog": "\nSan Jeronimo Tecoatl Mazatec",
+    "multitree": "\nHuautla-Mazatlán Masateko\nMasateko\nMazatec\nMazatec, San Jerónimo Tecóatl\nMazateco\nMazateco de Mazatlán\nMazateco de San Antonio Eloxochitlán\nMazateco de San Jerónimo Tecóatl\nMazateco de Tecóatl\nMazateco de la sierra\nMazatèque d'Eloxochitlán\nMazatèque de Huehuetlán\nMazatèque de Mazatlán\nMazatèque de Tecoatl\nMazatèque des hautes terres\nNorthern Highland Mazatec\nSan Jeronimo\nTecoatl",
+    "lexvo": "\nSan Jerónimo Tecóatl Mazatec [en]",
+    "hhbib_lgcode": "\nE San Antonio Eloxochitlán\nMazatec-San Jerónimo Tecóatl\nMazateco de San Juan La Unión-Zoquiapam\nSan Francisco Huehuetlán\nSan Jerónimo\nSan Lorenzo Cuaunecuiltitla\nT San Jerónimo Tecoatl\nWestern Mazatec"
+  },
+  "triggers": {
+    "lgcode": "\nsoyaltepec\ngoverned\ntecoatl\nmazatec AND jeronimo\nmatsia"
+  },
+  "identifier": {
+    "multitree": "maa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Leonard:Mazateco**:20-21 **hh:hv:Leonard:Mazatec-Patterns**:246-247",
+    "subrefs": "\n**hh:hv:Leonard:Mazatec-Patterns**\n**hh:hv:Leonard:Mazateco**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Acatepec Mazatec (1270-) = Vulnerable; Higher Reservoir Mazatec (1273-) = Vulnerable; Puebla Mazatec (1283-) = Vulnerable; Eloxochitlán Mazatec (1271-maa) = Vulnerable; Ocopetatillo Mazatec (1282-) = Vulnerable; Western Mazatec (1281-) = Vulnerable; Tecóatl Mazatec (1287-maa) = Vulnerable"
+  }
+}

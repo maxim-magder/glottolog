@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Northern Haida",
+    "hid": "hdn",
+    "level": "language",
+    "iso639-3": "hdn",
+    "latitude": "54.004532",
+    "longitude": "-132.079257",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Haida (Northern)](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Haidanorthern)\n[Haida (Northern)](https://wals.info/languoid/lect/wals_code_hno)\n[Northern Haida](https://grambank.clld.org/languages/nort2938)\nhttps://phoible.org/languages/nort2938\nhttps://www.wikidata.org/entity/Q20054484"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cybulski:90**\n**cldf:drucker:40**\n**cldf:drucker:50**\n**cldf:drucker:65**\n**cldf:duerr:ed:95:3**\n**cldf:duerr:ed:95:4**\n**cldf:eastman:79**\n**cldf:edwards:79**\n**cldf:enrico:03**\n**cldf:enrico:83**\n**cldf:golla:ed:23**\n**cldf:kane:59**\n**cldf:krause:56**\n**cldf:miyaoka:endo:ed:94:3**\n**cldf:miyaoka:oshima:ed:98:4**\n**cldf:murdock:34:1**\n**cldf:murdock:34:2**\n**cldf:murdock:36:1**\n**cldf:niblack:90**\n**cldf:rosman:rubel:71**\n**cldf:schalk:78**\n**cldf:swanton:09:1**\n**hh:d:Enrico:Haida**\n**hh:d:Lachler:Alaskan-Haida**\n**hh:d:Lawrence:Haida**\n**hh:e:Blackman:Haida**\n**hh:g:Enrico:Haida**\n**hh:hw:Scouler:NWCoast**\n**hh:hw:Tolmie:BC**\n**hh:phon:Enrico:Haida**\n**hh:s:Edwards:Haida**\n**hh:s:Enrico:Haida**\n**hh:s:Enrico:Haida-Masset**\n**hh:s:Lachler:Haida**\n**hh:t:Eastman:Kaigani-Haida**\n**hh:t:Swanton:Haida-Masset**\n**hh:typ:Enrico:Masset-Haida**\n**hh:w:Radloff:Kaiganen**\n**ldh:item_401775**"
+  },
+  "altnames": {
+    "wals": "\nHaida (Northern)",
+    "wals other": "\nMasset Haida",
+    "moseley & asher (1994)": "\nHaida",
+    "lexvo": "\nNorthern Haida [en]",
+    "hhbib_lgcode": "\nAlaskan Haida\nHaida\nHaida (Kaigani Sept.)\nHaida (Masset dialect)\nHaida-Northern\nHaidah\nKaigani\nMasset\nMasset Haida"
+  },
+  "triggers": {
+    "lgcode": "\nkaiganen\nmasset"
+  },
+  "identifier": {
+    "wals": "genus/haida",
+    "endangeredlanguages": "2050"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Xaad Kil (Haida) (2050-hdn) = Critically Endangered (80 percent certain, based on the evidence available) ['bib73']"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Judeo-Iraqi Arabic",
+    "hid": "yhd",
+    "level": "language",
+    "iso639-3": "yhd",
+    "latitude": "31.5339",
+    "longitude": "41.2595",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GB",
+      "IL",
+      "IN",
+      "IQ"
+    ],
+    "links": "\n[Judeo-Iraqi Arabic](https://endangeredlanguages.com/lang/10484)\nhttps://www.wikidata.org/entity/Q56599\nhttps://en.wikipedia.org/wiki/Judeo-Iraqi_Arabic"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:haberl:15**\n**cldf:haeberl:nd**\n**hh:d:Elias:Jewish-Arabic-Baghdad**\n**hh:g:Bar-Moshe:Jews-Baghdad**\n**hh:g:Bar-Moshe:Jews-Baghdad:2024**\n**hh:g:Jastrow:Juden-Aqra-Arbil**\n**hh:g:Mansour:Jewish-Baghdadi**\n**hh:g:Nevo:Jews-Aleppo**\n**hh:ld:Mansour:Baghdad-Jewish-Arabic**\n**hh:ld:Wexler:Iraqi-Judaeo-Arabic**\n**hh:phonsocv:Blau:Judaeo-Arabic**\n**hh:s:Blau:Medieval-Judeo-Arabic**\n**hh:s:Blau:Medieval-Judeo-Arabic:1961**\n**hh:s:Khan:Karaite-Hit**\n**hh:std:Mansour:Jewish-Baghdadi**\n**hh:typ:Edzard:Iraqi-Judeo-Arabic**"
+  },
+  "altnames": {
+    "lexvo": "\nJudeo-Iraqi Arabic [en]\nJudeoirački arapski [hr]\nЈудео-ирачки арапски јазик [mk]\nيهودية عراقية [ar]\nภาษาอาหรับยิวอิรัก [th]",
+    "hhbib_lgcode": "\nArabic-Judeo-Iraqi\nMedieval Judeo Arabic\nQeltu dialect Judeo-Iraqi Arabic\nintelligibile with Arabic-Judeo-Iraqi",
+    "elcat": "\nJudeo-Baghdadi\nJudeo-Iraqi Arabic"
+  },
+  "triggers": {
+    "lgcode": "\naqra\njuden\nbaghdadi\narbil\nkaraite\nhit"
+  },
+  "classification": {
+    "sub": "**hh:hv:Talay:Arabic-Mesopotamia**",
+    "subrefs": "\n**hh:hv:Talay:Arabic-Mesopotamia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Judeo-Iraqi Arabic (10484-yhd) = At risk (20 percent certain, based on the evidence available) [Häberl In press](cldf:haeberl:nd)"
+  },
+  "identifier": {
+    "endangeredlanguages": "10484"
+  }
+}

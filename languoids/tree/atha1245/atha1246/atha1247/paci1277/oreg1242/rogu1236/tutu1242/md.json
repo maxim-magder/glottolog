@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tututni",
+    "hid": "tuu",
+    "level": "language",
+    "iso639-3": "tuu",
+    "latitude": "42.5563",
+    "longitude": "-124.293",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q20627\nhttps://en.wikipedia.org/wiki/Tututni_language\n[Chasta Costa](https://wals.info/languoid/lect/wals_code_cco)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barnett:37**\n**cldf:drucker:36:1**\n**cldf:drucker:36:2**\n**cldf:dubois:36**\n**cldf:gray:87**\n**hh:hsoctyp:Hall:Nuu-Wee-Ya**\n**hh:hv:Spence:Oregon-Athabaskan**\n**hh:hvb:Golla:California**\n**hh:s:Golla:Tututni**\n**hh:s:Sapir:Chasta**\n**hh:typ:Hall:Tutudin**\n**hh:w:Landar:Rogue**"
+  },
+  "altnames": {
+    "multitree": "\nMishikhwutmetunee\nTutuni-Chasta Costa-Coquille\nTututni\nUpper Coquille",
+    "lexvo": "\nTututni [en]",
+    "hhbib_lgcode": "\nRogue River Tututni\nTutudin"
+  },
+  "triggers": {
+    "lgcode": "\ntututni\nrogue\nchasta"
+  },
+  "identifier": {
+    "wals": "cco",
+    "multitree": "coq"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tututni (778-tuu) = Extinct; Tututni (2728-) = Extinct"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Suruahá",
+    "hid": "swx",
+    "level": "language",
+    "iso639-3": "swx",
+    "latitude": "-6.82525",
+    "longitude": "-66.3146",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Zuruahã](https://endangeredlanguages.com/lang/1629)\nhttps://www.wikidata.org/entity/Q3114402\nhttps://en.wikipedia.org/wiki/Zuruah%C3%A1_language\nhttps://phoible.org/languages/suru1263"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Arawa_suruwaha00**\n**fabreall2009ann:Arawa_suruwaha03**\n**fabreall2009ann:Arawa_suruwaha04**\n**fabreall2009ann:Arawa_suruwaha05**\n**fabreall2009ann:Arawa_suruwaha07**\n**fabreall2009ann:Arawa_suruwaha09**\n**fabreall2009ann:Arawa_suruwaha14**\n**fabreall2009ann:Arawa_suruwaha16**\n**fabreall2009ann:Arawa_suruwaha17**\n**hh:d:Suzuki:Suruwaha**\n**hh:e:Aparicio:Suruwaha**\n**hh:e:Aparicio:Suruwaha:2023**\n**hh:e:Huber:Suruwaha**\n**hh:e:Kroemer:Zuruaha**\n**hh:e:Kroemer:Zuruaha:1994**\n**hh:h:Nogueira:Isolados**\n**hh:he:Kroemer:Purus**\n**hh:phon:Suzuki:Suruwaha**\n**hh:phon:Suzuki:Suruwaha:1995**\n**hh:s:Huber:Suruwaha**\n**ldh:item_401718**\n**mpieva:Suzuki1977Fonetica**"
+  },
+  "altnames": {
+    "glottolog": "\nSuruaha",
+    "multitree": "\nMndios do Coxodoá\nSorowahá\nSuruahá\nSuruwahá\nZuruahá",
+    "lexvo": "\nSuruahá [en]\nSuruuarrás [pt]\nSuruwahá [fr]\nZuruahá language [en]\nZuruahã [de]\nЗуруахаски јазик [mk]",
+    "hhbib_lgcode": "\nSuruwaha\nZuruahá\nZuruahá o índios do Coxodoá",
+    "elcat": "\nIndios do Coxodoá\nSorowahá\nSuruahá\nSuruwahá\nZuruahá\nZuruahã"
+  },
+  "triggers": {
+    "lgcode": "\nmalocas\nzuruaha\nsorowaha\ncuxiuara\nsuruwaha\nsuruwah\ndesconhecido"
+  },
+  "identifier": {
+    "multitree": "swx",
+    "endangeredlanguages": "1629"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dienst:Arawan**",
+    "subrefs": "\n**hh:hv:Dienst:Arawan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Zuruahã (1629-swx) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Cypriot Greek",
+    "hid": "NOCODE_Cypriot-Greek",
+    "level": "language",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CY"
+    ],
+    "links": "\n[Greek (Cypriot)](https://wals.info/languoid/lect/wals_code_gcy)\nhttps://en.wikipedia.org/wiki/Cypriot_Greek\nhttps://www.wikidata.org/entity/Q245899",
+    "longitude": "32.978113",
+    "latitude": "34.924591"
+  },
+  "sources": {
+    "glottolog": "\n**hh:phon:Arvaniti:Cypriot-Greek**\n**hh:s:Newton:Cypriot-Greek**\n**hh:soc:Arvaniti:Diglossia-Cyprus**\n**hh:typ:Vassiliou:Cypriot**\n**hh:typ:Vassiliou:Cypriot:MA**\n**hh:w:Golden:Hexaglot**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Cypriot Greek is not intelligible to Greek of Greece (**hh:soc:Arvaniti:Diglossia-Cyprus**:26), hence Cypriot Greek is missing as a separate language.",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Cypriot-Greek"
+  },
+  "classification": {
+    "sub": "**hh:hv:vanBeek:Greek** **hh:hv:Browning:Greek** **hh:hv:Sowa:Greek**",
+    "subrefs": "\n**hh:hv:Sowa:Greek**\n**hh:hv:vanBeek:Greek**\n**hh:hv:Browning:Greek**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Cypriot Greek (NOCODE_Cypriot-Greek-NOCODE_Cypriot-Greek) = 6a (Vigorous)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nGreek Anatolian-Cypriot group of Greek dialects"
+  }
+}

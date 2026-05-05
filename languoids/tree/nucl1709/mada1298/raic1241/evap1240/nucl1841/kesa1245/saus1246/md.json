@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sausi",
+    "hid": "ssj",
+    "level": "language",
+    "iso639-3": "ssj",
+    "latitude": "-5.6873",
+    "longitude": "145.492",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Sausi](https://lexibank.clld.org/languages/transnewguineaorg-sausi)\n[sausi](https://lexibank.clld.org/languages/zgraggenmadang-sausi)\nhttps://en.wikipedia.org/wiki/Sausi_language\nhttps://www.wikidata.org/entity/Q7427605"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:ClaassenMcElhanon:Finisterre**\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**\n**hh:w:Anonymous:Ramu-Wabe**"
+  },
+  "altnames": {
+    "multitree": "\nSausi\nUya",
+    "lexvo": "\nSausi [en]",
+    "hhbib_lgcode": "\nKou (Sausi)\nthe wordlist that Claassen and McElhanon took from the multilingual Koropa village was actually the Asas language)"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "ssj"
+  },
+  "classification": {
+    "sub": "**hh:hb:Zgraggen:Madang**:13",
+    "subrefs": "\n**hh:hb:Zgraggen:Madang**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wia (ssj-ssj) = 6b (Threatened)."
+  }
+}

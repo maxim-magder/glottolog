@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sassarese Sardinian",
+    "hid": "sdc",
+    "level": "language",
+    "iso639-3": "sdc",
+    "latitude": "40.748",
+    "longitude": "8.39332",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Sassarese Sardinian](https://endangeredlanguages.com/lang/5361)\nhttps://en.wikipedia.org/wiki/Sassarese_language\nhttps://www.wikidata.org/entity/Q845441"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tagliavini:Neolatine**:411-417 **hh:sv:Wagner:Sarda**:393-394 **hh:s:Jones:Sardinian**:314",
+    "subrefs": "\n**hh:s:Jones:Sardinian**\n**hh:sv:Wagner:Sarda**\n**hh:hv:Tagliavini:Neolatine**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:d:Muzzo:Sassarese**\n**hh:dial:Sanna:Sassari**\n**hh:hv:Maxia:Sardegna**\n**hh:s:Bazzoni:Sassarese**\n**hh:s:Gartmann:Sorso**\n**hh:s:Sole:Sassari**\n**hh:st:Bonaparte:Sassarese**\n**hh:sv:Wagner:Sarda**\n**hh:typ:Maxia:Gallurese-Sassarese**"
+  },
+  "altnames": {
+    "multitree": "\nNorthwestern Sardinian\nSardinian\nSardinian, Sassarese\nSasarés\nSassarese\nSassarese Sardinian\nSassarien",
+    "lexvo": "\nIdioma sassarés [es]\nJęzyk sassarski [pl]\nLingua sassarese [it]\nSasareseg [br]\nSassarais [fr]\nSassarese Sardinian [en]\nSassarese language [en]\nSassaresu [co]\nSassariera [eu]\nSassarigiella [se]\nSassarish [gv]\nSasserès [ca]\nСасарески јазик [mk]\nסאסארזה [he]",
+    "hhbib_lgcode": "\nSardinian-Sassarese\nSassarese\nSassari\nSennori\nSorso",
+    "elcat": "\nNorthwestern Sardinian\nSardinian\nSassarese\nSassarese Sardinian"
+  },
+  "triggers": {
+    "lgcode": "\nsassari\nsassarese"
+  },
+  "identifier": {
+    "multitree": "sdc",
+    "endangeredlanguages": "5361"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sassarese Sardinian (5361-sdc) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

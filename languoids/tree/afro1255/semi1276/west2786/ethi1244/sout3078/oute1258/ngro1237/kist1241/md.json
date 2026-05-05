@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kistane",
+    "hid": "gru",
+    "level": "language",
+    "iso639-3": "gru",
+    "latitude": "8.33561",
+    "longitude": "38.4763",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Kistane](https://lexibank.clld.org/languages/felekesemitic-Kistane)\n[Soddo](https://wals.info/languoid/lect/wals_code_sod)\nhttps://en.wikipedia.org/wiki/Soddo_language\nhttps://phoible.org/languages/kist1241\nhttps://www.wikidata.org/entity/Q13273"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cohen:31:2**\n**cldf:hudson:ed:96**\n**cldf:leslau:68:2**\n**cldf:leslau:ed:92:1**\n**cldf:leslau:ed:92:2**\n**eballiso2009:20019**\n**eballiso2009:29593**\n**eballiso2009:30022**\n**eballiso2009:3347**\n**eballiso2009:41087**\n**eballiso2009:43934**\n**hh:ew:Haberland:Galila**\n**hh:h:Feleke:Ethiosemitic:2020**\n**hh:hv:Fekede:Gurage**\n**hh:hv:Leslau:Gurage**\n**hh:hvs:Hetzron:Gunnan**\n**hh:hvtyp:Hetzron:Outer**\n**hh:hvw:Feleke:Ethiosemitic:2021**\n**hh:hvw:Feleke:South-Ethiosemitic**\n**hh:hvw:Feleke:South-Ethiosemitic:2020**\n**hh:hvw:Hudson:Northeast-African-Semitic**\n**hh:ld:Bulakh:Soddo**\n**hh:ld:Meyer:Gogot**\n**hh:phon:Belete:Kistane**\n**hh:s:Debela:Kistaninya**\n**hh:s:Goldenberg:Kestanenna**\n**hh:s:Pascalau:Ale**\n**hh:s:Tekle-Michael:Goggot**\n**hh:s:Wakjira:Kistane**\n**hh:s:Yehualashet:Dobbi**\n**hh:st:Leslau:Soddo**\n**hh:styp:Debela:Kistaninya**\n**hh:typ:Alemayehu:Kistane**\n**hh:typ:Minase:Kestanenna**\n**hh:typ:Tesfaye:Kistaninya**\n**hh:vtyp:Tsehay:Gurage**\n**hh:w:Mayer:English-Deutsch-Amharisch-Gallanisch-Guraguesch**\n**sil16:50110**"
+  },
+  "altnames": {
+    "wals": "\nSoddo",
+    "ruhlen (1987)": "\nSoddo",
+    "moseley & asher (1994)": "\nSoddo",
+    "multitree": "\nAymallal\nAymellel\nGogot\nGurage\nKestane\nKistane\nNorth Gurage\nSoddo\nSoddo Gurage",
+    "lexvo": "\nKistane [de]\nKistane jezik [hr]\nSoddo [ca]\nSoddo language [en]\nSodoeg [br]",
+    "hhbib_lgcode": "\nDobbi\nGalila\nGoggot\nGogot\nGurage\nSoddo\nSoddo/Aymellel"
+  },
+  "triggers": {
+    "lgcode": "\nwonci\nkistaninya\ngoggot\ngogat\nkistance\nkestanenna\nsoddo"
+  },
+  "identifier": {
+    "wals": "sod",
+    "multitree": "gru;gru-sod"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weninger:Ethio-Semitic** **hh:hv:Voigt:North-South-Ethiopian** **hh:v:BulakhKogan:Ethiopian-Semitic:2014**",
+    "subrefs": "\n**hh:v:BulakhKogan:Ethiopian-Semitic:2014**\n**hh:hv:Weninger:Ethio-Semitic**\n**hh:hv:Voigt:North-South-Ethiopian**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kistane (gru-gru) = 6a (Vigorous)."
+  }
+}

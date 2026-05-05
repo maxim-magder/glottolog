@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Taino",
+    "hid": "tnq",
+    "level": "language",
+    "iso639-3": "tnq",
+    "latitude": "18.2836",
+    "longitude": "-66.8042",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "PR"
+    ],
+    "links": "\n[Taino](https://grambank.clld.org/languages/tain1254)\nhttps://en.wikipedia.org/wiki/Ta%C3%ADno_language\nhttps://www.wikidata.org/entity/Q5232952",
+    "timespan": "1875-01-01/1875-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2106**\n**cldf:taylor:77:1**\n**hh:e:Cassa:Antillas**\n**hh:e:Feliciano-Santos:Taino**\n**hh:e:Pane:Hispaniola**\n**hh:e:Roth:Hispaniola**\n**hh:e:Rouse:Arawak**\n**hh:e:Rouse:Tainos**\n**hh:hew:Gilij:Americana**\n**hh:hw:Martius:Brasiliens**\n**hh:ld:Arrom:Antillana**\n**hh:ld:Hernandez:Taino**\n**hh:ld:Highfield:Taino**\n**hh:ld:Nin:Taino**\n**hh:lde:Bachiller:Cuba**\n**hh:ldsoc:Kacike:Taino**\n**hh:v:Taylor:Taino**\n**hh:vld:PereaPerea:Taino**\n**hh:w:Alvarez:Taino**\n**hh:w:Baracutei:Taino**\n**mpieva:Granberry2004Language**"
+  },
+  "altnames": {
+    "multitree": "\nTaino\nTaíno",
+    "lexvo": "\nTaino [en]",
+    "hhbib_lgcode": "\nBoriquen\nCiboney\nIndigenous Cuba\nTaino-Occidente\nTaíno\nV3:220-228 Aitine"
+  },
+  "triggers": {
+    "lgcode": "\nrescate\ncose\nuedute\nreligione\nceremonie\ncostumi\nhispaniola\ndirigidos\nantillana\ntaino\nglindiani\nnellisola"
+  },
+  "identifier": {
+    "multitree": "tnq"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ramirez:Arawak-Enciclopedia**:III:109-144 **hh:hv:Captain:Lokono-Guajiro**",
+    "subrefs": "\n**hh:hv:Captain:Lokono-Guajiro**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Taíno (tnq-tnq) = 9 (Dormant)."
+  }
+}

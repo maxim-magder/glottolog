@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kayupulau",
+    "hid": "kzu",
+    "level": "language",
+    "iso639-3": "kzu",
+    "latitude": "-2.54455",
+    "longitude": "140.72068",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kayupulau](https://endangeredlanguages.com/lang/1894)\n[Kayupulau](https://lexibank.clld.org/languages/abvdoceanic-KayupulauKajupulau)\nhttps://en.wikipedia.org/wiki/Kayupulau_language\nhttps://www.wikidata.org/entity/Q6380723"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Sugono:Indonesia**\n**hh:hew:Merauje:Kampung-Budaya**\n**hh:htyp:Purba:Irian-Jaya**\n**hh:hv:Ross:WMelanesia**\n**hh:hv:Suharyanto:Ormu-Kayu-Pulau-Tobati**\n**hh:hvw:Fautngil:Jayapura**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:I**\n**hh:hw:SmitsVoorhoeve:Anceaux:A:II**\n**hh:phon:Purba:Kayupulau**\n**hh:phon:Suharyanto:Kayu-Pulau**\n**hh:typ:Jamar:Kayu-Pulau**\n**hh:typ:Purba:Kayupulau**\n**hh:typ:Rumakiek:Kayu-Pulo**\n**hh:vld:Suharyanto:Kayu-Pulau**"
+  },
+  "altnames": {
+    "multitree": "\nKajupulau\nKayapulau\nKayupulau",
+    "lexvo": "\nKayupulau [en]",
+    "hhbib_lgcode": "\nKayo Pulau\nKayu Pulau\nKayu Pulo\nKayupulau of SIL",
+    "elcat": "\nKajupulau\nKayupulau"
+  },
+  "triggers": {
+    "lgcode": "\nkayupulau"
+  },
+  "identifier": {
+    "multitree": "kzu",
+    "endangeredlanguages": "1894"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Fautngil:Jayapura**",
+    "subrefs": "\n**hh:hvw:Fautngil:Jayapura**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kayupulau (1894-kzu) = Severely Endangered (80 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

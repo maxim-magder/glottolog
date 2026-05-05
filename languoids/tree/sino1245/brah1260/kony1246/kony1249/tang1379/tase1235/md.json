@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Pangwa Naga",
+    "hid": "nst",
+    "level": "language",
+    "iso639-3": "nst",
+    "latitude": "27.2572",
+    "longitude": "96.3855",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Jugli](https://wals.info/languoid/lect/wals_code_jug)\nhttps://en.wikipedia.org/wiki/Tangsa_language\nhttps://phoible.org/languages/tase1235\nhttps://www.wikidata.org/entity/Q56350"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Shintani:Shanke**\n**hh:e:Morang:Tangsas**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:DasGupta:Tangsa**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Morey:Tangsa**\n**hh:hv:Shafer:Northernmost-Naga**\n**hh:hv:Statezni:Tangshang-Naga**\n**hh:hvld:vanDam:Tangsa-Nocte**\n**hh:hvphon:French:Northern-Naga**\n**hh:hvw:Marrison:Naga**\n**hh:ld:DasGupta:Tangsa**\n**hh:phonvw:Khan:Shecyu-Mungre**\n**hh:s:Morey:Chamchang**\n**hh:s:Morey:Muishaung:2019**\n**hh:s:Morey:Tangsa**\n**hh:s:Rekhung:Jugli**\n**hh:s:Rekhung:Mungshang**\n**hh:soc:Morey:Tangsa-Sociohistorical**\n**hh:styp:Goswami:Rera**\n**hh:typ:Morey:Tangsa**\n**hh:w:Kumar:Tangsa**\n**hh:w:Needham:Moshang-Naga**"
+  },
+  "altnames": {
+    "wals": "\nJugli\nLungchang",
+    "wals other": "\nRangpang\nYogli",
+    "ruhlen (1987)": "\nTangsa/Rangpan",
+    "moseley & asher (1994)": "\nTangsa",
+    "multitree": "\nCham Chang\nChang\nNaga\nNaga, Tase\nNaga,Tase\nNorthern Naga\nRangpan\nTangsa\nTase\nTasey",
+    "lexvo": "\nTase Naga [en]",
+    "hhbib_lgcode": "\nChamchang\nCholim\nCholim Tangsa\nGaqlun\nHaqcheng\nJiingi\nJoglei\nJogli (Yogly)\nJugli\nKimsing\nLauchang\nLongri\nLungkhi\nMaitai\nMorang\nMosang (Moshang)\nMoshang\nMueshang Tangsa Naga\nMueshaung\nMueshaung Pangwa Naga\nMueshaungx\nMuishaung\nMungre\nMungshang\nNaga-Tangshang\nNaga-Tase\nNgaimong\nPangwa\nPangwa Naga-Tase\nPangwa Tase Naga\nPyengoo\nRera\nRinkhu\nRonrang\nShangke\nShangthi\nShanke\nShecyü\nTangsa\nTangsa (Moshang)\nTangsa (Yogli)\nTangsa Moshang\nTangsa Naga\nTangsa Pangwa Naga\nTangshang/Tase Naga\nYogli\nYvngban"
+  },
+  "triggers": {
+    "lgcode": "\nmungshang\nmoshang\ntangsa\nmoklum\njugli\nmesolanguage\nlungchang"
+  },
+  "identifier": {
+    "wals": "lun;jug",
+    "multitree": "naga;nst"
+  },
+  "classification": {
+    "sub": "**hh:hvld:vanDam:Tangsa-Nocte**:88-94 **hh:hv:vanDam:Patkaian** **hh:hv:vanDam:Patkaian-Northern-Naga**",
+    "subrefs": "\n**hh:hv:vanDam:Patkaian-Northern-Naga**\n**hh:hvld:vanDam:Tangsa-Nocte**\n**hh:hv:vanDam:Patkaian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Tangsa (1104-nst) = Vulnerable"
+  }
+}

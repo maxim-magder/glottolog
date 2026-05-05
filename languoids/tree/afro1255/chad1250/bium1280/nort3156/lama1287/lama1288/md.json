@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lamang",
+    "hid": "hia",
+    "level": "language",
+    "iso639-3": "hia",
+    "latitude": "11.0243",
+    "longitude": "13.7362",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Lamang](https://grambank.clld.org/languages/lama1288)\n[Lamang](https://wals.info/languoid/lect/wals_code_lmg)\nhttps://en.wikipedia.org/wiki/Lamang_language\nhttps://phoible.org/languages/lama1288\nhttps://www.wikidata.org/entity/Q35700"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:wolff:83**\n**eballiso2009:15811**\n**eballiso2009:16237**\n**eballiso2009:16238**\n**eballiso2009:17699**\n**eballiso2009:19285**\n**eballiso2009:28248**\n**eballiso2009:31609**\n**eballiso2009:31750**\n**eballiso2009:45139**\n**eballiso2009:54337**\n**eballiso2009:54372**\n**eballiso2009:54375**\n**eballiso2009:55138**\n**eballiso2009:6969**\n**eballiso2009:6970**\n**hh:b:Wolff:Lamang**\n**hh:e:White:Gwoza**\n**hh:e:Wolff:Hidkala**\n**hh:g:Wolff:Lamang**\n**hh:gd:Wolff:Lamang:2015**\n**hh:hv:Ibrizimowetal:Linguistic-Environment**\n**hh:hv:Wolff:Lamang-Hdi**\n**hh:hv:Wolff:Sprachwandel**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:s:Lukas:Hitkalanci**\n**hh:s:Wolff:Laamang**\n**hh:t:Wolff:Lamang**\n**mpieva:Bartens2000Ideophon**\n**mpieva:Heusing1997Aspectso**\n**mpieva:Wolff1983Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nLamang",
+    "wals other": "\nWaha",
+    "ruhlen (1987)": "\nnot specified",
+    "moseley & asher (1994)": "\nLamang",
+    "multitree": "\nGbuhwe\nHitkala\nLaamang\nLamang\nMandara Group B\nWaha",
+    "lexvo": "\nLamang [en]",
+    "hhbib_lgcode": "\nHidkala\nHitkalanci"
+  },
+  "triggers": {
+    "lgcode": "\nlamang\nhitkalanci\ngwad\nlaamang"
+  },
+  "identifier": {
+    "wals": "lmg",
+    "multitree": "lama;hia"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:56",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lamang (hia-hia) = 6b (Threatened)."
+  }
+}

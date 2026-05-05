@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Indri",
+    "hid": "idr",
+    "level": "language",
+    "iso639-3": "idr",
+    "latitude": "8.81513",
+    "longitude": "25.9848",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Indri](https://endangeredlanguages.com/lang/4294)\nhttps://www.wikidata.org/entity/Q35662\nhttps://en.wikipedia.org/wiki/Indri_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Santandrea:Indrietal**\n**hh:hvw:Santandrea:Indri-Togoyo-Ndogo-Feroge-Mangaya-Mondu**\n**hh:s:Santandrea:Feroge-Mundu**\n**hh:typ:Huber:Indri**"
+  },
+  "altnames": {
+    "multitree": "\nIndri\nYanderika\nYandirika",
+    "lexvo": "\nIndri [en]",
+    "elcat": "\nIndri\nYanderika\nYandirika"
+  },
+  "triggers": {
+    "lgcode": "\nindri"
+  },
+  "identifier": {
+    "multitree": "idr",
+    "endangeredlanguages": "4294"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bennett:Adamawa-Eastern**:25-27 **hh:h:BoydPasch:Sere-Ngbaka-Mba**:51-52",
+    "subrefs": "\n**hh:hv:Bennett:Adamawa-Eastern**\n**hh:h:BoydPasch:Sere-Ngbaka-Mba**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Indri (4294-idr) = Severely Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

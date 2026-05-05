@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Waimiri-Atroari",
+    "hid": "atr",
+    "level": "language",
+    "iso639-3": "atr",
+    "latitude": "-0.61832",
+    "longitude": "-60.4259",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Waimiri-Atroari](https://grambank.clld.org/languages/waim1253)\n[Waimirí-Atroarí](https://endangeredlanguages.com/lang/1956)\nhttps://en.wikipedia.org/wiki/Waimiri-Atroar%C3%AD_language\nhttps://phoible.org/languages/waim1253\nhttps://www.wikidata.org/entity/Q56865"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Caribe_waimiri01**\n**fabreall2009ann:Caribe_waimiri02**\n**fabreall2009ann:Caribe_waimiri03**\n**fabreall2009ann:Caribe_waimiri04**\n**fabreall2009ann:Caribe_waimiri05**\n**fabreall2009ann:Caribe_waimiri06**\n**fabreall2009ann:Caribe_waimiri07**\n**fabreall2009ann:Caribe_waimiri08**\n**fabreall2009ann:Caribe_waimiri09**\n**fabreall2009ann:Caribe_waimiri10**\n**fabreall2009ann:Caribe_waimiri13**\n**fabreall2009ann:Caribe_waimiri14**\n**fabreall2009ann:Caribe_waimiri15**\n**fabreall2009ann:Caribe_waimiri17**\n**fabreall2009ann:Caribe_waimiri18**\n**fabreall2009ann:Caribe_waimiri19**\n**fabreall2009ann:Caribe_waimiri21**\n**fabreall2009ann:Caribe_waimiri22**\n**fabreall2009ann:Caribe_waimiri23**\n**fabreall2009ann:Caribe_waimiri25**\n**fabreall2009ann:Caribe_waimiri30**\n**fabreall2009ann:Caribe_waimiri31**\n**fabreall2009ann:Caribe_waimiri32**\n**fabreall2009ann:Caribe_waimiri33**\n**fabreall2009ann:Caribe_waimiri35**\n**fabreall2009ann:Caribe_waimiri37**\n**fabreall2009ann:Caribe_waimiri39**\n**fabreall2009ann:Caribe_waimiri40**\n**fabreall2009ann:Caribe_waimiri41**\n**fabreall2009ann:Caribe_waimiri42**\n**fabreall2009ann:Caribe_waimiri44**\n**fabreall2009ann:Caribe_waimiri45**\n**fabreall2009ann:Caribe_waimiri46**\n**fabreall2009ann:Caribe_waimiri47**\n**fabreall2009ann:Caribe_waimiri48**\n**fabreall2009ann:Caribe_waimiri50**\n**fabreall2009ann:Caribe_waimiri51**\n**fabreall2009ann:Caribe_waimiri52**\n**fabreall2009ann:Caribe_waimiri53**\n**hh:d:Bruno:Waimiri-Atroari**\n**hh:e:Baines:Waimiri-Atroari**\n**hh:e:Carvalho:Waimiri-Atroari**\n**hh:g:Bruno:Atroari**\n**hh:h:Silva:Roraima**\n**hh:hv:Adam:Caribe**\n**hh:phon:HillHill:Waimiri-Atroari**\n**hh:s:Bruno:Waimiri-Atroari**\n**hh:typ:Lacerta:Waimiri-Atroari**\n**hh:w:Rodrigues:Waimiri-Atroari**\n**iso6393:2006-018**"
+  },
+  "altnames": {
+    "multitree": "\nAtroahy\nAtroahí\nAtroarí\nAtroaí\nAtrowari\nAtruahi\nAtruahí\nKi'nya\nKrishaná\nWaimirí\nWaimirí-atroarí\nYawaperí",
+    "lexvo": "\nWaimiri-Atroari [en]",
+    "hhbib_lgcode": "\nAtroari\nCrichanas\nWaimiri",
+    "elcat": "\nAtroahy\nAtroahí\nAtroarí\nAtroaí\nAtrowari\nAtruahi\nAtruahí\nKi'nya\nKrishaná\nWaimirí-Atroarí\nYawaperí"
+  },
+  "triggers": {
+    "lgcode": "\njauapery\ncrichanas\natroari\nwaimiri\nwaimiri_atroari"
+  },
+  "identifier": {
+    "multitree": "atr",
+    "endangeredlanguages": "1956"
+  },
+  "classification": {
+    "sub": "**hh:hv:Meira:Cariban:2006**, **hh:hewsoc:Howard:Waiwai**, **hh:hv:Gildea:Cariban**",
+    "subrefs": "\n**hh:hv:Meira:Cariban:2006**\n**hh:hewsoc:Howard:Waiwai**\n**hh:hv:Gildea:Cariban**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Waimirí-Atroarí (1956-atr) = Threatened (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

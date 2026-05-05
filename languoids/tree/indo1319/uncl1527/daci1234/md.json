@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Dacian",
+    "hid": "xdc",
+    "level": "language",
+    "iso639-3": "xdc",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RO"
+    ],
+    "longitude": "23.3",
+    "latitude": "46.2",
+    "links": "\nhttps://www.wikidata.org/entity/Q682547\nhttps://en.wikipedia.org/wiki/Dacian_language",
+    "timespan": "0050-01-01/0500-01-01"
+  },
+  "classification": {
+    "sub": "**hh:hld:Polome:Balkans**:888",
+    "subrefs": "\n**hh:hld:Polome:Balkans**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Visscher:Roman-Languages**\n**hh:hld:Polome:Balkans**\n**hh:ld:Reichenkron:Dakische**"
+  },
+  "triggers": {
+    "lgcode": "\ndakische\ndacian"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Dacian (xdc-xdc) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nDaco-Moesian\nDakisch"
+  }
+}

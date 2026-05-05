@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Neve'ei",
+    "hid": "vnm",
+    "level": "language",
+    "iso639-3": "vnm",
+    "latitude": "-16.2253",
+    "longitude": "167.427",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Neve'ei](https://grambank.clld.org/languages/vinm1237)\n[Neve'ei](https://lexibank.clld.org/languages/abvdoceanic-Neveei)\n[Vinmavis](https://endangeredlanguages.com/lang/3371)\n[Vinmavis](https://wals.info/languoid/lect/wals_code_vnm)\nhttps://en.wikipedia.org/wiki/Neve%CA%BBei_language\nhttps://www.wikidata.org/entity/Q2157431"
+  },
+  "classification": {
+    "sub": "**hh:v:Lynch:Naman** **hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:v:Lynch:Naman**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1930**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Musgrave:Neveei**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Crowley:Vinmavis**\n**iso6393:2008-012**\n**mpieva:Musgrave2001Agrammar**"
+  },
+  "altnames": {
+    "multitree": "\nLambumbu\nMallicolo\nNeve'ei\nVinmavis",
+    "lexvo": "\nNeve'ei [en]\nVinmavis [en]",
+    "hhbib_lgcode": "\nVinmavis",
+    "elcat": "\nLambumbu\nMallicolo\nVinmavis"
+  },
+  "triggers": {
+    "lgcode": "\nvinmavis\nneveei"
+  },
+  "identifier": {
+    "wals": "vnm",
+    "multitree": "vnm",
+    "endangeredlanguages": "3371"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Vinmavis (3371-vnm) = Endangered (40 percent certain, based on the evidence available) (Public Policy in Vanuatu protects minority languages but promotes English as the language of education and Bislama as the national lingua franca.) [Musgrave 2007](cldf:musgrave:07)"
+  }
+}

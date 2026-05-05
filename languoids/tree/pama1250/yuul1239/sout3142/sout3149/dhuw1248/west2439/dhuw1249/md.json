@@ -1,0 +1,56 @@
+{
+  "core": {
+    "name": "Dhuwal",
+    "hid": "duj",
+    "level": "language",
+    "iso639-3": "duj",
+    "latitude": "-12.7825",
+    "longitude": "136.008",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Dhuwal](https://lexibank.clld.org/languages/bowernpny-Dhuwal)\n[Dhuwal (Dätiwuy)](https://wals.info/languoid/lect/wals_code_dda)\nhttps://phoible.org/languages/dhuw1249\nhttps://www.wikidata.org/entity/Q20050850"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3704**\n**cldf:berndt:55**\n**cldf:elkin:50**\n**cldf:ganambarr:99**\n**cldf:howells:37**\n**cldf:long:70**\n**cldf:peterson:ed:76**\n**cldf:peterson:long:86**\n**cldf:thomson:49**\n**cldf:tindale:67**\n**cldf:warner:37**\n**hh:dialsoc:Amery:Dhuwaya**\n**hh:e:Keen:Yolngu**\n**hh:g:Morphy:Djapu**\n**hh:hvld:Schebeck:NEArnhem**\n**hh:ssoc:Amery:Yirrkala**\n**hh:st:Heath:Dhuwal**\n**hh:w:Capell:Forty-North-Australian**\n**iso6393:2013-026**\n**iso6393:2015-053**\n**mpieva:1983DjapuaYo**\n**ozbib:1617**\n**ozbib:1641**\n**ozbib:1741**\n**ozbib:2156**\n**ozbib:2157**\n**ozbib:2723**\n**ozbib:3683**\n**ozbib:4018**\n**ozbib:4155**\n**ozbib:474**\n**ozbib:5487**\n**ozbib:6178**\n**ozbib:6315**\n**ozbib:6322**\n**ozbib:6791**\n**ozbib:6872**\n**ozbib:6953**\n**ozbib:6963**"
+  },
+  "altnames": {
+    "wals": "\nDhuwal (Dätiwuy)\nDjapu",
+    "wals other": "\nDhuwal\nDhuwala\nDjapu Yolngu\nYolngu\nYolngu (Djapu)",
+    "ruhlen (1987)": "\nDhuwal",
+    "moseley & asher (1994)": "\nDhuwal",
+    "multitree": "\nArrawiya\nBalamumu\nBanjarrpuma\nBarlamomo\nBarlamumu\nBilamandji Dhurili\nDhuwal\nDual\nDuala\nDurilji\nDuwal\nMalag\nMarlark\nMurngin\nWulamba",
+    "lexvo": "\nDhuwal [en]\nDhuwal language [en]\nLenga dhuwal [pms]",
+    "hhbib_lgcode": "\n22 Djabu\nDhuwaya\nDhäpuyngu (Dng)\nDjapu (Dp)\nDätiwuy (Tt)\nMarrakulu (Mk)\nMarrangu (Mng)"
+  },
+  "triggers": {
+    "lgcode": "\ndjapu\ndhuwal\ndatiwuy"
+  },
+  "identifier": {
+    "wals": "djp;dda",
+    "multitree": "duj",
+    "endangeredlanguages": "6029"
+  },
+  "classification": {
+    "sub": "**hh:g:Wilkinson:Djambarrpuyngu**:10-14 **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:g:Wilkinson:Djambarrpuyngu**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "iso_retirement": {
+    "change_request": "2015-053",
+    "remedy": "Split into [dwu] Dhuwal and [dwy] Dhuwaya",
+    "code": "duj",
+    "name": "Dhuwal",
+    "effective": "2016-01-15",
+    "reason": "split",
+    "change_to": "\ndwu\ndwy"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Dhuwal (6029-duj) = Threatened (20 percent certain, based on the evidence available); Liyagalawumirr (5562-duj-lil) = Severely Endangered (20 percent certain, based on the evidence available); Liyagawumirr (5549-duj-liy) = Severely Endangered (20 percent certain, based on the evidence available)"
+  }
+}

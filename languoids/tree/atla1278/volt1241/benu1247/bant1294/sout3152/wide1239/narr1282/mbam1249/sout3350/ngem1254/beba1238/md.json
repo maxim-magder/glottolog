@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Beba",
+    "hid": "bfp",
+    "level": "language",
+    "iso639-3": "bfp",
+    "latitude": "6.32256",
+    "longitude": "9.73577",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35050\nhttps://en.wikipedia.org/wiki/Beba_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:w:Brye:Beba**\n**hh:w:Bryeetal:Mundum**"
+  },
+  "altnames": {
+    "multitree": "\nBaba'zhi\nBabadji\nBatadji\nBazhi\nBeba\nBeba'\nBebadji\nBiba\nBombe\nMubadji\nShishong",
+    "lexvo": "\nBeba [en]",
+    "hhbib_lgcode": "\nBombe"
+  },
+  "triggers": {
+    "lgcode": "\nbeba\nsurvey AND beba"
+  },
+  "identifier": {
+    "multitree": "bfp"
+  },
+  "classification": {
+    "sub": "**hh:hsoc:AyotteLamberty:Ngemba**:36 **hh:w:Brye:Beba**:5 **hh:w:Bryeetal:Mundum**:5 **hh:soc:Kruger:Pinyin-Awing**:5",
+    "subrefs": "\n**hh:w:Brye:Beba**\n**hh:soc:Kruger:Pinyin-Awing**\n**hh:w:Bryeetal:Mundum**\n**hh:hsoc:AyotteLamberty:Ngemba**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Beba (bfp-bfp) = 6b (Threatened)."
+  }
+}

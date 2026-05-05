@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Nzanyi",
+    "hid": "nja",
+    "level": "language",
+    "iso639-3": "nja",
+    "latitude": "10.0666",
+    "longitude": "13.3343",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG"
+    ],
+    "links": "\n[Njanye](https://lexibank.clld.org/languages/kraftchadic-Njanye)\nhttps://en.wikipedia.org/wiki/Nzanyi_language\nhttps://www.wikidata.org/entity/Q3441299"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3211**\n**eballiso2009:5913**\n**hh:e:Hallaire:Mandara**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hew:Meek:Tribal:I**\n**hh:hw:Baudelaire:Numeration**\n**hh:hw:Benton:WSudan**\n**hh:hw:Kraft:Chadic:III**\n**hh:hw:Mouchet:Quinze**\n**hh:hw:Strumpell:Mandara-Adamaua**\n**hh:ld:Harley:Mandara-Bata**\n**hh:s:Benson:Nzanyi**"
+  },
+  "altnames": {
+    "multitree": "\nJeng\nJenge\nKobochi\nKobotshi\nMzangyim\nNjai\nNjanyi\nNjegn\nNjei\nNjeing\nNjeng\nNjeny\nNzangi\nNzanyi\nZani\nZany",
+    "lexvo": "\nNzanyi [en]\nNzanyi language [en]",
+    "hhbib_lgcode": "\nJeng\nKobochi\nKobotschi\nNdjegn\nNjai/Nzangi\nNjanye\nNjei\nNjeny\nZany (Umbutudi)"
+  },
+  "triggers": {
+    "lgcode": "\nwestern AND richardsons"
+  },
+  "identifier": {
+    "multitree": "nja"
+  },
+  "classification": {
+    "sub": "**hh:s:Benson:Nzanyi**:xii",
+    "subrefs": "\n**hh:s:Benson:Nzanyi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nzanyi (nja-nja) = 6b (Threatened)."
+  }
+}

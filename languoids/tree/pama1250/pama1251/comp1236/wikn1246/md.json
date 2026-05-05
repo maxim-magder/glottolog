@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wikngenchera",
+    "hid": "wua",
+    "level": "language",
+    "iso639-3": "wua",
+    "latitude": "-13.4957",
+    "longitude": "141.599",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[KUGU NGANHCARA](https://collection.aiatsis.gov.au/austlang/language/y59)\n[Kugu-Nganhcara](https://endangeredlanguages.com/lang/2587)\nhttps://en.wikipedia.org/wiki/Kugu_Nganhcara_language\nhttps://phoible.org/languages/wikn1246\nhttps://www.wikidata.org/entity/Q10720045"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**hh:hvsoc:Sutton:Wik-Relationships**\n**mpieva:2000Grammati**"
+  },
+  "altnames": {
+    "multitree": "\nKugu Nganchara\nKugu Nganychara\nNantjara\nNgandjara\nNgantjeri\nWik Ngantjera\nWik Nganychara\nWik Ngencherr\nWik Njinturawik-Nganhcara\nWik ngencherr\nWik-Nantjara\nWik-Natjerra\nWik-Ngencherra\nWik-nantjara\nWik-ngenchera\nWiknantyara\nWikngenchera",
+    "lexvo": "\nWikngenchera [en]",
+    "elcat": "\nKugu Nganchara\nKugu Nganychara\nKugu-Nganhcara\nNantjara\nNgandjara\nNgantjeri\nWik Ngantjera\nWik Nganychara\nWik Ngencherr\nWik Njinturawik-Nganhcara\nWik-Nantjara\nWik-Natjerra\nWik-Ngencherra\nWik-nantjara\nWiknantyara\nWikngenchera",
+    "aiatsis": "\nKUGU NGANHCARA\nKugu Nganychara\nKugu/Wik Nganhcara\nMimungkum\nNantjara\nNgandjara\nNgantjeri\nWik\nWik Epa\nWik Kalkan\nWik Meanha\nWik Mungkana\nWik Natjerra\nWik Ngandjara\nWik Nganhcara\nWik Ngantjera\nWik Ngathara\nWik Ngencherra\nWik Ompom\nWik nantjara\nWikampama\nWikatinda\nWikepa\nWikmean\nWiknantjara\nWiknantyara\nWiknatanja\nWikngenchera"
+  },
+  "triggers": {
+    "lgcode": "\nand AND nganhcara"
+  },
+  "identifier": {
+    "multitree": "wua",
+    "endangeredlanguages": "2587"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Sutton:Wik-Relationships** **hh:hv:Black:Cape-York** **hh:sd:VerstrateRigsby:Yintyingka**:192-194",
+    "subrefs": "\n**hh:hvsoc:Sutton:Wik-Relationships**\n**hh:hv:Black:Cape-York**\n**hh:sd:VerstrateRigsby:Yintyingka**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kugu-Nganhcara (2587-wua) = Severely Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

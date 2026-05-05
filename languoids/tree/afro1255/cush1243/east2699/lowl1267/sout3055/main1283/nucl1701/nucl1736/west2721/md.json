@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "West Central Oromo",
+    "hid": "gaz",
+    "level": "language",
+    "iso639-3": "gaz",
+    "latitude": "8.81391",
+    "longitude": "36.7365",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET",
+      "SD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12639015\n[Oromo (West-Central)](https://wals.info/languoid/lect/wals_code_owc)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cecchi:85**\n**cldf:cerulli:32**\n**cldf:goshu:meyer:05**\n**cldf:griefenow-mewis:bitima:94**\n**cldf:hayward:lewis:ed:96:6**\n**cldf:hayward:lewis:ed:96:8**\n**cldf:huntingford:55:3**\n**cldf:knutsson:63**\n**cldf:knutsson:67**\n**cldf:lewis:65:1**\n**cldf:malherbe:rosenberg:96**\n**cldf:onnekin:56**\n**cldf:owens:85:1**\n**hh:d:Gamta:Oromo**\n**hh:d:Gragg:Oromo**\n**hh:e:Huntingford:Galla**\n**hh:e:Lewis:Galla-Jimma**\n**hh:e:Nordfeldt:Abessiniens**\n**hh:e:Tesema:Oromo-Wollega**\n**hh:e:Wayessa:Oromo-Wallaga**\n**hh:g:Launhardt:Oromo**\n**hh:g:Moreno:Galla**\n**hh:g:Nordfeldt:Galla**\n**hh:g:Yimam:Ethiopian-Oromo**\n**hh:hb:Trudnos:Oromo**\n**hh:hv:Janko:Afaan-Oromo**\n**hh:hv:Janko:Afaan-Oromoo:2012**\n**hh:hv:Negesse:Oromo**\n**hh:hvw:Bender:Ethiopia**\n**hh:hvw:Fleming:EAfrica**\n**hh:ld:Samuel:Oromo-Argot**\n**hh:phon:Lloret:Oromo**\n**hh:phon:Wako:Mecha-Oromo**\n**hh:s:ArgawPhilippson:Maccha**\n**hh:s:Banti:Oromo**\n**hh:s:BenderEteffa:Galla**\n**hh:s:Conti:Galla**\n**hh:s:Gragg:Wellegga**\n**hh:s:Massaja:Abyssiniae**\n**hh:s:Rikitu:Oromiffa**\n**hh:s:Schmidt:Shoagalla**\n**hh:typ:Aynalem:Oromo**\n**hh:typ:Clamons:Oromo**\n**hh:typ:Dejenie:Oromo**\n**hh:typ:vonKlingenheben:Galla**\n**mpieva:Borello1995Dizionar**\n**mpieva:Cohen1931EtudesdE**\n**mpieva:Hirpo1996Goldgrub**\n**mpieva:Owens1985TheOromo**\n**mpieva:Tucho1996Oromonew**\n**mpieva:Yimam1986Thephras**\n**sil16:22570**\n**sil16:37544**\n**sil16:42575**\n**sil16:42593**\n**sil16:42612**\n**sil16:42885**"
+  },
+  "altnames": {
+    "wals": "\nOromo (West-Central)",
+    "wals other": "\nOromo (Mechaa)\nOromo (Western)",
+    "ruhlen (1987)": "\nOromo",
+    "moseley & asher (1994)": "\nOromo",
+    "multitree": "\n\"Galla\"\nAfan Oromo\nGalla\nOromiffa\nOromo\nOromo (West-Central)\nOromo Proper\nOromo, West Central\nOromoo\nWest Central Oromo\nWest-Central",
+    "lexvo": "\nWest Central Oromo [en]",
+    "hhbib_lgcode": "\nGalla\nGallinya spoken in Wollega\nIlmorma\nIlubabor\nIlubabor Oromo\nJimma\nJimma Galla\nMaccaa Oromo\nMaccha\nMainly Moreno's Galla\nMec'a Galla\nMeccaa\nMeccia\nMecha\nMecha Galla\nMecha dialect as spoken in Dambi Dollo area-Western Oromia (mainly based on Janko's idiolect)\nNekemte/Nejo Galla\nOromo of Mechaa in Wellega\nOromo-West Central\nOromonicam presumbly because of where Massaja stayed most of his time\nShoa Oromo\nShowa\nTulama Galla\nTulama variety spoken in North Shewa\nTulema\nTulema (Sulultaa-Gabra-Guraacha-Fiche area)\nW Central Oromo\nWellega Oromo\nWestern Ethiopian Oromo\nWestern Oromo\nWollega"
+  },
+  "triggers": {
+    "lgcode": "\nshoagallagrammatik\ngoldgrube\noromiffa\nhedendom\nabessiniens\ngallaer\nqaanqee\nfejder\ndethiopien\nseder\namuru"
+  },
+  "identifier": {
+    "wals": "owc",
+    "multitree": "gaz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Janko:Afaan-Oromo**",
+    "subrefs": "\n**hh:hv:Janko:Afaan-Oromo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Oromo, West Central (gaz-gaz) = 3 (Wider communication). De facto language of provincial identity in Oromia region. West Central Oromo [gaz] is lingua franca of the area."
+  }
+}

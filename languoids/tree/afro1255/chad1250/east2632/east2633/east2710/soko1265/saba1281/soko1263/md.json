@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sokoro",
+    "hid": "sok",
+    "level": "language",
+    "iso639-3": "sok",
+    "latitude": "11.4634",
+    "longitude": "17.6423",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Sokoro](https://endangeredlanguages.com/lang/4585)\nhttps://www.wikidata.org/entity/Q3441303\nhttps://en.wikipedia.org/wiki/Sokoro_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**eballiso2009:13547**\n**eballiso2009:3993**\n**eballiso2009:5913**\n**hh:he:Couvy:Tchad**\n**hh:he:Lebeuf:Tchad**\n**hh:hs:deRendinger:Centre-Africain**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Benton:WSudan**\n**hh:s:Jungraithmayr:Sokoro**\n**hh:s:YarangaYaranga:Sokoro**\n**hh:soc:ChesleyFaris:Sokoro**\n**sil16:41802**\n**sil16:41859**\n**sil16:43450**\n**sil16:43451**\n**sil16:44555**\n**sil16:44831**\n**sil16:44832**\n**sil16:44833**\n**sil16:46969**\n**sil16:50803**\n**sil16:50817**\n**sil16:50823**\n**sil16:50854**\n**sil16:50870**\n**sil16:50883**\n**sil16:50905**\n**sil16:50908**\n**sil16:51264**"
+  },
+  "altnames": {
+    "multitree": "\nBedanga\nSokoro",
+    "lexvo": "\nSokoro [en]\nSokoro language [en]",
+    "hhbib_lgcode": "\nBedánga\nSokoros",
+    "elcat": "\nBedanga\nSokoro"
+  },
+  "triggers": {
+    "lgcode": "\natting{\nting{\nmang{a\nsokoro\nzentralsudanische\nmoy\nutyi\nsong{oreng{\nsong{orong{"
+  },
+  "identifier": {
+    "multitree": "sok",
+    "endangeredlanguages": "4585"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lovestrand:Chadic-Guera** **hh:vtyp:JungraithmayrPeust:Gali**",
+    "subrefs": "\n**hh:vtyp:JungraithmayrPeust:Gali**\n**hh:hv:Lovestrand:Chadic-Guera**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sokoro (4585-sok) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

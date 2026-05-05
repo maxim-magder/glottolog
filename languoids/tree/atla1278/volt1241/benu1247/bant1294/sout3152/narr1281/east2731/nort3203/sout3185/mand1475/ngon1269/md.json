@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tanzania-Mozambique Ngoni",
+    "level": "family",
+    "latitude": "-11.7794",
+    "longitude": "37.4118",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MZ",
+      "TZ"
+    ],
+    "links": "\n[Ngoni](https://wals.info/languoid/lect/wals_code_ngo)\nhttps://en.wikipedia.org/wiki/Ngoni_language_(Tanzania)\nhttps://www.wikidata.org/entity/Q7022547"
+  },
+  "classification": {
+    "sub": "**hh:styp:Kroger:Ngoni**:3-4",
+    "subrefs": "\n**hh:styp:Kroger:Ngoni**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barnes:51**\n**cldf:barnes:54**\n**cldf:mead:60**"
+  },
+  "altnames": {
+    "wals": "\nNgoni",
+    "wals other": "\nChingoni",
+    "ruhlen (1987)": "\nNgoni (in Tanzania)",
+    "multitree": "\nAngoni\nAo\nChingoni\nKingoni\nKisutu\nNgoni\nSutu",
+    "lexvo": "\nNgoni [en]",
+    "hhbib_lgcode": "\nAngoni\nChingoni\nKingoni\nKingoni (Kisulu)\nMosambikanischen Ngoni\nN12_Ngoni\nTanzanian Ngoni of Songea (TG)",
+    "glottolog": "\nNgoni"
+  },
+  "triggers": {
+    "lgcode": "\nkisutu\nmoberas\nxingoni\ncingoni\nangoniland\nsiasa\nwangoni\nmpesene\nngoni\nmagwangwara\nchingoni\nkingoni\nangoni"
+  },
+  "identifier": {
+    "wals": "ngo",
+    "multitree": "ngo"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Ao (1130-ngo) = Vulnerable"
+  }
+}

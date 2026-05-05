@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southern Tujia",
+    "hid": "tjs",
+    "level": "language",
+    "iso639-3": "tjs",
+    "latitude": "28.2368",
+    "longitude": "110.022",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Southern Tujia](https://endangeredlanguages.com/lang/1744)\nhttps://www.wikidata.org/entity/Q12633994"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chen:06:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:xu:04**\n**cldf:zhang:02**\n**hh:e:Dong:Tujia**\n**hh:g:Li:Luxi-Tujia**\n**hh:g:Xiang:Tujia**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Bradley:Mran-Ni**\n**hh:hv:Tian:Tujia**\n**hh:hvw:Zhou:Bizic**\n**hh:phond:Zhang:Tujia**\n**hh:s:Kang:Tujia**\n**hh:s:TianHe:Tujia**\n**hh:s:Wang:Tujia**\n**hh:soc:Tian:Tujia**\n**hh:v:He:Tujia**"
+  },
+  "altnames": {
+    "multitree": "\nTuchia\nTujia\nTujia du sud\nTujia meridional\nTujia, Southern\nTujia,Southern",
+    "lexvo": "\nSouthern Tujia [en]",
+    "hhbib_lgcode": "\nBoluo (Luxi) Tujia\nCabu village of Luxi county CB\nCaji-Adi village of Luxi county CJ\nLuxi Tujia\nS Tujia\nTanxi\nTujia S\nTujia-South\nXiangxi",
+    "elcat": "\nMozi\nSouthern\nSouthern Tujia\nTuchia\nTujia\n南部土家語\n土家語"
+  },
+  "triggers": {
+    "lgcode": "\nguanyu\ntujia\nyijian"
+  },
+  "identifier": {
+    "multitree": "tjs",
+    "endangeredlanguages": "1744"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Zhou:Bizic**",
+    "subrefs": "\n**hh:hvw:Zhou:Bizic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Tujia (1744-tjs) = Severely Endangered (100 percent certain, based on the evidence available) (Tujia is being discarded simply because Chinese is more practical for everyday life.) [Brassett and Brassett 2005](cldf:brassett:brassett:05)"
+  }
+}

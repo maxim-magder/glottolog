@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ko",
+    "hid": "fuj",
+    "level": "language",
+    "iso639-3": "fuj",
+    "latitude": "10.7321",
+    "longitude": "31.5399",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Ko](https://endangeredlanguages.com/lang/4182)\nhttps://www.wikidata.org/entity/Q35693\nhttps://en.wikipedia.org/wiki/Fungor_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2623**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:nadel:50**\n**eballiso2009:26324**\n**hh:e:Faris:SENuba**\n**hh:e:Faris:SENuba:1972**\n**hh:e:Riefenstahl:Kau**\n**hh:e:Riefenstahl:Kau:1976**\n**hh:hvw:MacDiarmidMacDiarmid:Nuba**\n**hh:hvw:Schadeberg:Heiban**\n**hh:typ:Faris:SENuba**"
+  },
+  "altnames": {
+    "multitree": "\nFungor\nFungur\nKau\nKo",
+    "lexvo": "\nKo [en]",
+    "hhbib_lgcode": "\nFungor\nKo (Fungor/Kau/Nyaro)",
+    "elcat": "\nFungor\nFungur\nKau\nKo"
+  },
+  "triggers": {
+    "lgcode": "\nheiban AND kordofanian"
+  },
+  "identifier": {
+    "multitree": "fuj",
+    "endangeredlanguages": "4182"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Schadeberg:Heiban**",
+    "subrefs": "\n**hh:hvw:Schadeberg:Heiban**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ko (4182-fuj) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

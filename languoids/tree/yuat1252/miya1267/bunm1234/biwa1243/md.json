@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Biwat",
+    "hid": "bwm",
+    "level": "language",
+    "iso639-3": "bwm",
+    "latitude": "-4.39429",
+    "longitude": "143.873",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Biwat](https://endangeredlanguages.com/lang/10632)\n[Biwat](https://grambank.clld.org/languages/biwa1243)\n[Biwat](https://lexibank.clld.org/languages/transnewguineaorg-biwat)\nhttps://en.wikipedia.org/wiki/Mundugumor_language\nhttps://www.wikidata.org/entity/Q56352"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:McDowell:Mundugumor**\n**hh:h:Foley:New-Guinea**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:s:McElvenny:Mudukumo**\n**hh:s:Mead:Mundugumor**\n**hh:w:Haberland:Korowori**\n**hh:w:Laycock:D23**"
+  },
+  "altnames": {
+    "multitree": "\nBiwat\nMundokuma\nMunduguma\nMundugumor",
+    "lexvo": "\nBiwat [en]",
+    "elcat": "\nBiwat\nMundokuma\nMunduguma\nMundugumor\nMundukumo"
+  },
+  "triggers": {
+    "lgcode": "\nmundugumor"
+  },
+  "identifier": {
+    "multitree": "bwm",
+    "endangeredlanguages": "10632"
+  },
+  "classification": {
+    "sub": "**hh:hv:Laycock:Sepik**, **hh:hv:Foley:Sepik:2013**",
+    "subrefs": "\n**hh:hv:Laycock:Sepik**\n**hh:hv:Foley:Sepik:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Biwat (10632-bwm) = Threatened (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

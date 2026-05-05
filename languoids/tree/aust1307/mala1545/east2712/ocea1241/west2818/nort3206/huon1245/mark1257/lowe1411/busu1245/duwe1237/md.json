@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Duwet",
+    "hid": "gve",
+    "level": "language",
+    "iso639-3": "gve",
+    "latitude": "-6.45752",
+    "longitude": "146.841",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Duwet](https://endangeredlanguages.com/lang/2161)\nhttps://www.wikidata.org/entity/Q5317647\nhttps://en.wikipedia.org/wiki/Duwet_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hld:Smith:Morobe**\n**hh:hv:Ross:WMelanesia**\n**hh:hvphon:Holzknecht:Markham**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:ld:Holzknecht:Adzera**\n**hh:typ:Holzknecht:Duwet**"
+  },
+  "altnames": {
+    "multitree": "\nDuwet\nGuwet\nGuwot\nWaing",
+    "lexvo": "\nDuwet [en]",
+    "hhbib_lgcode": "\nDWT(d)\nDuwet-Guwot\nGuwot",
+    "elcat": "\nDuwet\nGuwet\nGuwot\nWaing"
+  },
+  "identifier": {
+    "multitree": "gve",
+    "endangeredlanguages": "2161"
+  },
+  "classification": {
+    "sub": "**hh:hvphon:Holzknecht:Markham**",
+    "subrefs": "\n**hh:hvphon:Holzknecht:Markham**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Duwet (2161-gve) = Endangered (60 percent certain, based on the evidence available) (It is under pressure from large related languages, e.g. Wampar, and from Tok Pisin which children prefer.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

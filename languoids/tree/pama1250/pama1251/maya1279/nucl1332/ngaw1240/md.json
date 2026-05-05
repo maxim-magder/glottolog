@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ngawun",
+    "hid": "nxn",
+    "level": "language",
+    "iso639-3": "nxn",
+    "latitude": "-19.4484",
+    "longitude": "141.471",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Ngawun](https://collection.aiatsis.gov.au/austlang/language/g17)\n[Ngawun](https://endangeredlanguages.com/lang/4907)\n[Ngawun](https://lexibank.clld.org/languages/bowernpny-Ngawun)\n[Ngawun](https://wals.info/languoid/lect/wals_code_ngw)\nhttps://en.wikipedia.org/wiki/Ngawun_language\nhttps://phoible.org/languages/ngaw1240\nhttps://www.wikidata.org/entity/Q3915711",
+    "timespan": "1977-01-01/1977-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:fabricius:98**\n**cldf:holmer:ed:83:3**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:h:Dixon:Tully**\n**hh:hvs:Breen:Mayi**\n**hh:hvwphon:Holmer:South-Eastern-Queensland**\n**ozbib:4062**\n**ozbib:4904**\n**ozbib:5212**\n**ozbib:5534**\n**ozbib:771**"
+  },
+  "altnames": {
+    "wals": "\nNgawun",
+    "ruhlen (1987)": "\nNgawun",
+    "multitree": "\nNaungaun\nNgaon\nNgaun\nNgawun\nNouun",
+    "lexvo": "\nLenga ngawun [pms]\nNgawun [en]\nNgawun language [en]",
+    "hhbib_lgcode": "\n\"Ngawun\" Rosie Freeman spoken mixed Ngawun and Biri",
+    "elcat": "\nNaungaun\nNgaon\nNgaun\nNgawun\nNouun",
+    "aiatsis": "\nNaungaun\nNga:wun\nNgaon\nNgaun\nNgawun\nNgewin\nNounun\nNouun"
+  },
+  "triggers": {
+    "lgcode": "\nthe AND mayi"
+  },
+  "identifier": {
+    "wals": "ngw",
+    "multitree": "nxn",
+    "endangeredlanguages": "4907"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Breen:Mayi** **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:hvs:Breen:Mayi**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ngawun (nxn-nxn) = 10 (Extinct)."
+  }
+}

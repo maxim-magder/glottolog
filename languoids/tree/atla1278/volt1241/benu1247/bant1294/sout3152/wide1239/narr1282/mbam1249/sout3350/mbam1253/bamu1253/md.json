@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Bamun",
+    "hid": "bax",
+    "level": "language",
+    "iso639-3": "bax",
+    "latitude": "5.49017",
+    "longitude": "10.8477",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Bamun](https://grambank.clld.org/languages/bamu1253)\n[Bamun](https://lexibank.clld.org/languages/polyglottaafricana-Bamun)\n[Bamun](https://wals.info/languoid/lect/wals_code_bmn)\nhttps://en.wikipedia.org/wiki/Bamum_language\nhttps://phoible.org/languages/bamu1253\nhttps://www.wikidata.org/entity/Q35280"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hutter:07**\n**cldf:ibriszimow:ed:01:1**\n**cldf:martin:51:2**\n**cldf:mcculloch:littlewood:etal:54**\n**cldf:rein-wuhrmann:25**\n**eballiso2009:11361**\n**eballiso2009:17840**\n**eballiso2009:20978**\n**eballiso2009:23449**\n**eballiso2009:27363**\n**eballiso2009:27602**\n**eballiso2009:27605**\n**eballiso2009:37640**\n**eballiso2009:39650**\n**eballiso2009:42888**\n**eballiso2009:49007**\n**eballiso2009:5240**\n**eballiso2009:56098**\n**eballiso2009:57562**\n**eballiso2009:9377**\n**hh:e:Littlewood:Bamum**\n**hh:g:Nchare:Shupamem**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:hsoc:Griffin:Bangolan**\n**hh:hv:BlenchHamm:Nun**\n**hh:hv:Eliasetal:Mbam-Nkam**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Domche:Bamileke**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Koelle:Polyglotta**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:DugastJeffreys:Bamum**\n**hh:phon:Boum:Bamoun**\n**hh:phon:Ward:Bamum**\n**hh:phontyp:Pawou:Bamun**\n**hh:s:Nchare:Shupamem**\n**hh:sd:Matateyou:Bamoun**\n**hh:styp:Abass:Shupamem**\n**hh:t:Schmitt:Bamun**\n**hh:typ:Djenou:Bamun**\n**hh:typ:Hombert:Noun**\n**hh:typ:Ondoua:Shupamem**\n**ldh:item_403571**\n**mpieva:Nchare2005Uneanaly**"
+  },
+  "altnames": {
+    "wals": "\nBamun",
+    "ruhlen (1987)": "\nBamun (Shupamon)",
+    "moseley & asher (1994)": "\nBamun",
+    "multitree": "\nBamoum\nBamoun\nBamum\nBamun\nShupamem",
+    "lexvo": "\nBamum language [en]\nBamun [en]\nBamun jezik [hr]\nIdioma bamum [es]\nLíngua bamum [pt]\nБамум [ru]\n巴姆穆語 [zh]",
+    "hhbib_lgcode": "\nBamoun\nBamum\nBamun_Grassfields\nMom/Bamom\nShu Pame\nShu Pamem\nShupamem\nShupámem\nShüpamem"
+  },
+  "triggers": {
+    "lgcode": "\nbamumvolk\nshupamem\nbamoum\nbamun\nbamum\nbamoun"
+  },
+  "identifier": {
+    "wals": "bmn",
+    "multitree": "bax"
+  },
+  "classification": {
+    "sub": "**hh:hv:BlenchHamm:Nun**",
+    "subrefs": "\n**hh:hv:BlenchHamm:Nun**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bamun (bax-bax) = 3 (Wider communication). Originated in the high western grasslands of Cameroon with capital at Foumban, a town in the West region of Cameroon."
+  }
+}

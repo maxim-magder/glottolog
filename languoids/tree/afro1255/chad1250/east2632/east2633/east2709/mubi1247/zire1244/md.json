@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Zirenkel",
+    "hid": "zrn",
+    "level": "language",
+    "iso639-3": "zrn",
+    "latitude": "12.2275",
+    "longitude": "18.5374",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Zirenkel](https://endangeredlanguages.com/lang/2653)\nhttps://www.wikidata.org/entity/Q3441365\nhttps://en.wikipedia.org/wiki/Zirenkel_language"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:Johnson:Zirenkel**",
+    "subrefs": "\n**hh:wsoc:Johnson:Zirenkel**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:16199**\n**hh:h:Alio:Tchad**\n**hh:phon:Ramat:Zerenkel**\n**hh:s:Ramat:Zerenkel**\n**hh:t:Ramat:Zerenkel-Contes**\n**hh:w:MbernodjiJohnson:Moubi**\n**hh:w:Ramat:Zerenkel-Mots**\n**hh:wsoc:Johnson:Zirenkel**\n**iso6393:2009-016**\n**sil16:41847**"
+  },
+  "altnames": {
+    "multitree": "\nZirenkel",
+    "lexvo": "\nZerenkel [en]\nZirenkel language [en]",
+    "elcat": "\nZirenkel",
+    "hhbib_lgcode": "\nZerenkel"
+  },
+  "triggers": {
+    "lgcode": "\nzirenkel"
+  },
+  "identifier": {
+    "multitree": "zrn",
+    "endangeredlanguages": "2653"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zirenkel (2653-zrn) = Threatened (20 percent certain, based on the evidence available) [Johnson 2005](cldf:johnson:05)"
+  }
+}

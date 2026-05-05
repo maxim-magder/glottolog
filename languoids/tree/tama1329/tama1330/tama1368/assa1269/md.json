@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Assangori",
+    "hid": "sjg",
+    "level": "language",
+    "iso639-3": "sjg",
+    "latitude": "13.9592",
+    "longitude": "22.6393",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "TD"
+    ],
+    "links": "\n[Assangori](https://endangeredlanguages.com/lang/5191)\nhttps://www.wikidata.org/entity/Q3502255\nhttps://en.wikipedia.org/wiki/Sungor_language\n[Sungor](https://wals.info/languoid/lect/wals_code_sug)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:lukas:38**\n**hh:he:leRouvreur:Saheliens**\n**hh:hwsoc:Bombay:Tama**\n**hh:phon:Guinet:Sungor**\n**hh:s:Lukas:Sungor**"
+  },
+  "altnames": {
+    "wals": "\nSungor",
+    "moseley & asher (1994)": "\nSungor",
+    "multitree": "\nAsong\nAsongori\nAssagori\nAssangori\nAssoungor\nAsungore\nAzangori\nAzanguri\nBognak-Asungorung\nErenga\nMadungore\nShaale\nSoungor\nSungor",
+    "lexvo": "\nAssangori [en]\nSungor language [en]",
+    "hhbib_lgcode": "\nAranga\nAsongori\nErenga\nSungor",
+    "elcat": "\nAsong\nAsongori\nAssagori\nAssangori\nAssoungor\nAsungore\nAzangori\nAzanguri\nBognak-Asungorung\nErenga\nMadungore\nShaale\nSoungor\nSungor"
+  },
+  "triggers": {
+    "lgcode": "\nsungor\nassangori"
+  },
+  "identifier": {
+    "wals": "sug",
+    "multitree": "sjg",
+    "endangeredlanguages": "5191"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edgar:Tama** **hh:hv:Bender:ESudanic**",
+    "subrefs": "\n**hh:hv:Edgar:Tama**\n**hh:hv:Bender:ESudanic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Assangori (5191-sjg) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

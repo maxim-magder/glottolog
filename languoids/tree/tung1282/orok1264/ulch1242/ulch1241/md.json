@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ulch",
+    "hid": "ulc",
+    "level": "language",
+    "iso639-3": "ulc",
+    "latitude": "51.85209",
+    "longitude": "140.29045",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Ulch](https://endangeredlanguages.com/lang/3009)\n[Ulch](https://grambank.clld.org/languages/ulch1241)\n[Ulcha](https://wals.info/languoid/lect/wals_code_ulc)\nhttps://en.wikipedia.org/wiki/Ulch_language\nhttps://www.wikidata.org/entity/Q13239"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:796**\n**cldf:alpatov:ed:97:19**\n**cldf:anonymous:75:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:ivashchenko:ed:94**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:smoljak:66**\n**cldf:sunik:85:1**\n**hh:b:Alonso:Nanay**\n**hh:s:Kazama:Ulcha**\n**hh:s:Lopatin:Orochee**\n**hh:s:Petrova:Ulcskij**\n**hh:s:Pilsudski:Olcha**\n**hh:std:Sunik:Ulchskij**\n**hh:t:Kazama:Ulcha**\n**hh:td:Pilsudski:Ulchan**\n**hh:w:Kazama:Tungusic**\n**hh:w:Schmidt:Olchas**"
+  },
+  "altnames": {
+    "wals": "\nUlcha",
+    "wals other": "\nUl'cha",
+    "ruhlen (1987)": "\nUlcha",
+    "moseley & asher (1994)": "\nOlcha",
+    "lexvo": "\nOultche [fr]\nOultcheg [br]\nUlch [en]\nUlch language [en]\nUltsjisk [no]\nUltšan kieli [fi]\nУлченски език [bg]\nУлчски јазик [mk]\nУльцька мова [uk]\nУльчский язык [ru]\nภาษาอุลช์ [th]\n울치어 [ko]",
+    "hhbib_lgcode": "\nUlcha\nX. Amur Tungusic and XI. Manganskij",
+    "elcat": "\nHoche\nHol-Chih\nOlch\nOlcha\nOlchis\nOlča\nUlch\nUlcha\nUlchi\nUlych\nНани\nульчский язык"
+  },
+  "triggers": {
+    "lgcode": "\nnani\norochee\nulca\nolchas\nulcskij\nulcha"
+  },
+  "identifier": {
+    "wals": "ulc",
+    "endangeredlanguages": "3009"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Janhunen:Expansion-Tungusic**:6",
+    "subrefs": "\n**hh:hv:Janhunen:Expansion-Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ulch (3009-ulc) = Critically Endangered (100 percent certain, based on the evidence available) (All speakers are middle-aged or older, and the shift to Russian continues to proceed rapidly.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

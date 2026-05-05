@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lacandon",
+    "hid": "lac",
+    "level": "language",
+    "iso639-3": "lac",
+    "latitude": "17.02093",
+    "longitude": "-91.42348",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Lacandon](https://endangeredlanguages.com/lang/1442)\n[Lacandón](https://wals.info/languoid/lect/wals_code_lac)\nhttps://en.wikipedia.org/wiki/Lacandon_language\nhttps://www.wikidata.org/entity/Q35766"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baer:baer:49**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:delaslenguasindigenainali:09**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:tozzer:07**\n**hh:d:Hofling:Lacandon**\n**hh:e:BaerBaer:Lacandon**\n**hh:e:BaerMerrifield:Lacandones**\n**hh:e:DubyBlom:Maya-Yucatan**\n**hh:g:Bruce:Lacandon**\n**hh:hv:Sobrino:Protoyucatecano**\n**hh:styp:Bergqvist:Lakandon**\n**hh:styp:Martinez:Lacandon-Sur**\n**mpieva:Barrera2001Dicciona**\n**mpieva:Bruce1968Gramatic**\n**sil16:10137**\n**sil16:10138**\n**sil16:10139**\n**sil16:10140**\n**sil16:10142**\n**sil16:10143**\n**sil16:10144**\n**sil16:10146**"
+  },
+  "altnames": {
+    "wals": "\nLacandón",
+    "ruhlen (1987)": "\nLakantún",
+    "moseley & asher (1994)": "\nLacandon",
+    "multitree": "\nLacandon\nLacandón\nLakantún\nMa:ya",
+    "lexvo": "\nIdioma lacandón [es]\nLacandon [en]\nLacandon language [en]\nLacandonsk [no]\nLakandonština [cs]\nLíngua lacandona [pt]\nЛакандонски јазик [mk]",
+    "elcat": "\nLacandon\nLacandon Maya\nLacandón\nLakantún"
+  },
+  "triggers": {
+    "lgcode": "\nlacandon\nlacandone\nlacandones"
+  },
+  "identifier": {
+    "wals": "lac",
+    "multitree": "lac",
+    "endangeredlanguages": "1442"
+  },
+  "classification": {
+    "sub": "**hh:typ:Lehmann:Yucatec**:174-175",
+    "subrefs": "\n**hh:typ:Lehmann:Yucatec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lacandon (1442-lac) = Endangered (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

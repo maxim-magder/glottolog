@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Papiamento",
+    "hid": "pap",
+    "level": "language",
+    "iso639-3": "pap",
+    "latitude": "12.48485",
+    "longitude": "-69.93988",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AW",
+      "BQ",
+      "CW",
+      "NL"
+    ],
+    "links": "\n[Papiamentu](https://apics-online.info/contributions/47)\n[Papiamentu](https://wals.info/languoid/lect/wals_code_pap)\nhttps://en.wikipedia.org/wiki/Papiamento\nhttps://www.wikidata.org/entity/Q33856"
+  },
+  "classification": {
+    "sub": "**hh:v:Jacobs:Papiamentu**",
+    "subrefs": "\n**hh:v:Jacobs:Papiamentu**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:andersen:74**\n**cldf:andersen:90**\n**cldf:bendix:72**\n**cldf:berry-haseth:lucille:etal:98**\n**cldf:bruyn:adrienne:etal:99**\n**cldf:denbesten:96**\n**cldf:dijkhoff:83:2**\n**cldf:dijkhoff:83:3**\n**cldf:dijkhoff:89**\n**cldf:dijkhoff:marta:etal:06**\n**cldf:goilo:72**\n**cldf:groilo:74**\n**cldf:hinrichs:ed:04:2**\n**cldf:jacobs:08**\n**cldf:jansen:bert:etal:78**\n**cldf:joubert:02**\n**cldf:kester:schmitt:07**\n**cldf:kouwenberg:03:3**\n**cldf:kouwenberg:04**\n**cldf:kouwenberg:07:2**\n**cldf:kouwenberg:07:3**\n**cldf:kouwenberg:90**\n**cldf:kouwenberg:ed:03:1**\n**cldf:kouwenberg:lefebvre:07**\n**cldf:kouwenberg:muysken:95**\n**cldf:lefebvre:therrien:07:2**\n**cldf:maduro:71**\n**cldf:martinus:96**\n**cldf:maurer:stolz:ed:87:1**\n**cldf:muller:83**\n**cldf:muller:89:1**\n**cldf:muller:89:2**\n**cldf:muysken:77**\n**cldf:muysken:81:1**\n**cldf:perl:ed:98**\n**cldf:perl:poertl:ed:02**\n**cldf:remijsen:vanheuven:05**\n**cldf:richardson:77**\n**cldf:rickford:romaine:ed:99:3**\n**cldf:roemer:83**\n**cldf:roemer:91**\n**cldf:rutgers:01**\n**cldf:vanputte:85**\n**cldf:vanputte:garcia:90**\n**cldf:vos-dejesus:89**\n**cldf:wood:70**\n**cldf:wood:72**\n**cldf:zimmermann:ed:03:6**\n**cldf:zimmermann:ed:03:7**\n**eballiso2009:15254**\n**eballiso2009:16917**\n**eballiso2009:2776**\n**eballiso2009:29902**\n**eballiso2009:35538**\n**eballiso2009:3727**\n**eballiso2009:50449**\n**eballiso2009:57618**\n**hh:g:Birmingham:Papiamentu**\n**hh:g:Goilo:Papiamentu**\n**hh:g:Rivera:Papiamentu**\n**hh:gsoc:Munteanu:Papiamento:1996**\n**hh:ld:Gatschet:Aruba**\n**hh:s:Debose:Papiamentu**\n**hh:s:Goilo:Papiamentu**\n**hh:s:KouwenbergMurray:Papiamenu**\n**hh:s:Lenz:Papiamento**\n**hh:s:Lorenzino:Spanish**\n**hh:s:Maurer:Papiamentu**\n**hh:s:Varela:Papiamentu**\n**hh:styp:Maurer:Papiamento**\n**hh:sv:Kramer:Papiamento**\n**hh:sv:Munteanu:Papiamento**\n**hh:typ:Dijkhoff:Papiamentu:1990**\n**hh:typ:Dijkhoff:Papiamentu:1993**\n**hh:typ:Kouwenberg:Papiamentu**\n**hh:typ:Silva:Papiamentu**\n**hh:v:Jacobs:Papiamentu**\n**hh:v:Latour:Papiamentu**\n**hh:vld:Teza:Curassese**\n**mpieva:Bachmann2005DieSprac**\n**mpieva:Fouse2002Thestory**\n**mpieva:Goilo1975Papiamen**\n**sil16:36100**"
+  },
+  "altnames": {
+    "wals": "\nPapiamentu",
+    "wals other": "\nPapiamento",
+    "moseley & asher (1994)": "\nPapiamento",
+    "multitree": "\nCurassese\nCuraçoleño\nPapago\nPapiam\nPapiamen\nPapiamento\nPapiamentoe\nPapiamentu",
+    "lexvo": "\nAn Phaipeamaintis [ga]\nBahasa Papiamento [id]\nJęzyk papiamento [pl]\nLingua papiamento [it]\nPapiamento [br]\nPapiamento keel [et]\nPapiaments [af]\nPapiamentu [de]\nPapiamintsk [fy]\npapiamento [fr]\nПап'яменто [uk]\nПапьяменто [ru]\nパピアメント語 [ja]\n帕皮阿门托语 [zh]\n파피아멘토어 [ko]",
+    "hhbib_lgcode": "\nCurassese\nPapiamentu"
+  },
+  "triggers": {
+    "lgcode": "\npapiamentu\npapiamento\nlexified\npapiamentus"
+  },
+  "identifier": {
+    "wals": "pap",
+    "multitree": "pap"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Papiamentu (pap-pap) = 2 (Provincial). De facto provincial language in Curacao."
+  }
+}

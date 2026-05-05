@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Daakie",
+    "hid": "ptv",
+    "level": "language",
+    "iso639-3": "ptv",
+    "latitude": "-16.3083",
+    "longitude": "168.046",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Port Vato](https://lexibank.clld.org/languages/abvdoceanic-PortVato)\nhttps://en.wikipedia.org/wiki/Port_Vato_language\nhttps://www.wikidata.org/entity/Q3398323"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:typ:Krifka:Daakie**\n**hh:typ:Krifka:Daakie-Demonstrative**\n**hh:typ:Krifka:Daakie-Realis**\n**hh:typ:Paton:Pronouns**\n**mpieva:Paton1971TalesofA**"
+  },
+  "altnames": {
+    "multitree": "\nPort Vato\nVanuatu",
+    "lexvo": "\nPort Vato [en]",
+    "hhbib_lgcode": "\nPort Vato\nSouth Ambrym-Port Vato"
+  },
+  "triggers": {
+    "lgcode": "\ndaakie\ntales AND ambrym"
+  },
+  "identifier": {
+    "multitree": "ptv"
+  },
+  "classification": {
+    "sub": "**hh:g:vonPrince:Daakaka:2015**:2-4",
+    "subrefs": "\n**hh:g:vonPrince:Daakaka:2015**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Port Vato (ptv-ptv) = 5 (Developing)."
+  }
+}

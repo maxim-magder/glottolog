@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Koryak",
+    "hid": "kpy",
+    "level": "language",
+    "iso639-3": "kpy",
+    "latitude": "63.8977",
+    "longitude": "166.695",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Koryak](https://endangeredlanguages.com/lang/2506)\n[Koryak](https://wals.info/languoid/lect/wals_code_kry)\nhttps://en.wikipedia.org/wiki/Koryak_language\nhttps://phoible.org/languages/kory1246\nhttps://www.wikidata.org/entity/Q36199"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4318**\n**cldf:bergman:27**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:czaplieka:14**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:jochelson:05:2**\n**cldf:lewis:ed:09**\n**cldf:miyaoka:ed:00:1**\n**cldf:miyaoka:endo:ed:01:3**\n**cldf:miyaoka:endo:ed:01:7**\n**cldf:n:68**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:skorik:86**\n**cldf:stolz:96**\n**cldf:zhukova:67**\n**cldf:zhukova:72**\n**cldf:zhukova:80**\n**cldf:zukova:67**\n**hh:d:Nagayama:Nymylansko**\n**hh:d:Zhukova:Korjakskogo**\n**hh:d:Zhukova:Koryaksko**\n**hh:e:Cherboxova:Koryaki**\n**hh:e:Jochelson:Koryak**\n**hh:e:Krushanov:Koryakov**\n**hh:e:Vdovin:Koryakov**\n**hh:g:Korsakov:Nymylanskogo**\n**hh:g:Zhukova:Korjakskogo**\n**hh:hlde:Steller:Koriacken**\n**hh:hv:Muravyova:Chukoyskogo-Korjakskogo-Aljutorskogo**\n**hh:s:Stebnitskij:Aljutorskij-Nymylanskogo**\n**hh:s:Stebnitskij:Nymylanskij**\n**hh:s:Zhukova:Koryakskij**\n**hh:t:Bogoras:Koryak**\n**hh:t:Nagayama:Nymylanov:2015**\n**hh:t:Nagayama:Nymylanov:2020**\n**hh:typ:Abramovitz:Koryak**\n**hh:w:Kurebito:Chukchee-Kamchatkan**\n**hh:w:Radlinski:Koryakow**\n**mpieva:Bogoras1974Koryakte**\n**mpieva:Bouda1952DieVerwa**\n**mpieva:Kurebito2001Comparat**\n**mpieva:Kurebito2001TheGrayl**\n**mpieva:Kurebito2002Chavchyv**\n**mpieva:Moll1960Korjaksk**\n**mpieva:Nagayama2003Nyjintyk**\n**mpieva:Zukova1967Russkoko**\n**mpieva:g:Zukova:Korjakskogo**"
+  },
+  "altnames": {
+    "wals": "\nKoryak",
+    "ruhlen (1987)": "\nKoryak",
+    "moseley & asher (1994)": "\nKoryak",
+    "multitree": "\nCoriaco\nKorjakische\nKoryak\nKoræiki\nNymylan",
+    "lexvo": "\nIdioma coriaco [es]\nJęzyk koriacki [pl]\nKoriak [ca]\nKoriakų kalba [lt]\nKorjaaks [nl]\nKorjaka lingvo [eo]\nKorjaki keel [et]\nKorjakin kieli [fi]\nKorjakische Sprache [de]\nKorjakisk [no]\nKoryak [en]\nKoryak language [en]\nKuoriaku kalba [lt]\nLíngua koriaque [pt]\nКоряк чĕлхи [cv]\nКорякский язык [ru]\n科里亚克语 [zh]\n코랴크어 [ko]",
+    "hhbib_lgcode": "\nAljutorskij\nEastern Koryak\nKorjakskogo\nNymylanskij",
+    "elcat": "\nKorak\nKoriak\nKorjakische\nKoryak\nKoræiki\nNymylan\nкорякский язык\nнымылан"
+  },
+  "triggers": {
+    "lgcode": "\nvelly\nnymylanskij\nkorjakskij\nnymylanskogo\nkoryakskij\npalanskikh\nkoryatskij\nkamcatskoj\nnyjintykin\nkoryak\ngrayling\ntschuktschisch\nkorjaksko"
+  },
+  "identifier": {
+    "wals": "kry",
+    "multitree": "kpy",
+    "endangeredlanguages": "2506"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dunn:Chukotko-Kamchatkan**:661-665 **hh:w:Kurebito:Chukchee-Kamchatkan**:1",
+    "subrefs": "\n**hh:hv:Dunn:Chukotko-Kamchatkan**\n**hh:w:Kurebito:Chukchee-Kamchatkan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Koryak (2506-kpy) = Endangered (80 percent certain, based on the evidence available) (children speakers: very few, although the situation may vary depending on locality) [Salminen 2000](cldf:salminen:00)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Alabat Island Agta",
+    "hid": "dul",
+    "level": "language",
+    "iso639-3": "dul",
+    "latitude": "14.1217",
+    "longitude": "122.014",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Inagta Alabat](https://endangeredlanguages.com/lang/2828)\nhttps://en.wikipedia.org/wiki/Inagta_Alabat_language\nhttps://www.wikidata.org/entity/Q3399709"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Crooks:Negritos-Northern-Tayabas**\n**hh:e:Garvan:Dumagat-Alabat**\n**hh:e:Garvan:Negritos**\n**hh:e:Lukban:Pagan-Tayabas**\n**hh:e:UnsonVillarivera:Negritos-Tayabas**\n**hh:h:Blumentritt:Alabat**\n**hh:h:Lobel:Philippine**\n**hh:h:Reed:Negritos:Distribution**\n**hh:s:Lobel:Inagta-Alabat**\n**hh:vtyp:Lobel:Manide-Inagta**\n**hh:w:Bille:Luconia**\n**hh:w:Garvan:Negritos**\n**hh:w:Garvan:Negritos-Tayabas**"
+  },
+  "altnames": {
+    "multitree": "\nAgta de l'île d'Alabat\nAgta de la isla Alabat\nAgta, Alabat Island\nAlabat Island Dumagat",
+    "lexvo": "\nAlabat Island Agta [en]",
+    "hhbib_lgcode": "\nAbian\nAgta-Alabat-Lopez\nAlabat Agta\nDumagat\nDumagat (Alabat island)\nInagta Alabat\nNegrito of Dungáwan near Ginayángan-southern Tayabas (Garvan)\nNegrito of Kaláuag and of Lopez-central Tayabas (Garvan)\nNegritos of Tayabas\nNegritos of Tayabas-Kalauag\nNegritos of Tayabas-Tagkauaian\nOriginal Alabat Island Agta",
+    "elcat": "\nAlabat Island Agta\nAlabat Island Dumagat\nInagta Alabat"
+  },
+  "triggers": {
+    "lgcode": "\nalabat"
+  },
+  "identifier": {
+    "multitree": "dul",
+    "endangeredlanguages": "2828"
+  },
+  "classification": {
+    "sub": "**hh:vw:Lobel:Manide**",
+    "subrefs": "\n**hh:vw:Lobel:Manide**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Inagta Alabat (2828-dul) = Critically Endangered (80 percent certain, based on the evidence available) [Lobel et al. 2020](cldf:lobel:alpay:etal:20)"
+  }
+}

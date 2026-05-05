@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Attié",
+    "hid": "ati",
+    "level": "language",
+    "iso639-3": "ati",
+    "latitude": "5.9977",
+    "longitude": "-3.8209",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34844\nhttps://en.wikipedia.org/wiki/Atti%C3%A9_language\nhttps://phoible.org/languages/atti1239"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crosson:00**\n**cldf:dreyfus:00**\n**cldf:vincenti:22**\n**eballiso2009:35367**\n**eballiso2009:36126**\n**eballiso2009:37655**\n**eballiso2009:37656**\n**eballiso2009:38306**\n**eballiso2009:52879**\n**eballiso2009:53404**\n**eballiso2009:59371**\n**eballiso2009:6386**\n**hh:g:Ako:Akye**\n**hh:g:Kouadio:Attie-Memni**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:hv:Delafosse:Soudan**\n**hh:hvw:Dumestre:Lagunaire**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:s:Kutsch:Attie**\n**hh:s:Meraud:Attie**\n**hh:typ:Chaumeton:Attie**\n**sil16:17326**\n**sil16:17327**\n**sil16:22764**\n**sil16:22765**\n**sil16:23542**\n**sil16:23683**"
+  },
+  "altnames": {
+    "glottolog": "\nAttie",
+    "multitree": "\nAkie\nAkye\nAtche\nAtie\nAtshe\nAttie\nAttié",
+    "lexvo": "\nAttié [en]",
+    "hhbib_lgcode": "\n4xAttie\nAkye\nAkyè\nGnan\nNindin"
+  },
+  "triggers": {
+    "lgcode": "\natshe\nhuinbo\natie\nattie\nelil\nlattie\nnindin"
+  },
+  "identifier": {
+    "multitree": "ati;atti"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kropp:Kwa** **hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Kropp:Kwa**\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Attié (ati-ati) = 5* (Developing)."
+  }
+}

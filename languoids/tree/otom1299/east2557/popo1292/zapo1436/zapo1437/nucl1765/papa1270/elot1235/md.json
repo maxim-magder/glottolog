@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Elotepec Zapotec",
+    "hid": "zte",
+    "level": "language",
+    "iso639-3": "zte",
+    "latitude": "16.8693",
+    "longitude": "-97.1912",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Elotepec Zapotec](https://endangeredlanguages.com/lang/3117)\nhttps://en.wikipedia.org/wiki/Elotepec_Zapotec\nhttps://www.wikidata.org/entity/Q5367223"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beamdeazcona:21**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:12:5**\n**hh:hvw:Rendon:Papabuco**\n**hh:w:Belmar:Elotepec**\n**hh:w:Operstein:Elotepec**"
+  },
+  "altnames": {
+    "multitree": "\nElotepec Zapotec\nNorthern Sapoteko\nPapabuco\nZapotec\nZapotec, Elotepec\nZapoteco de San Juan Elotepec",
+    "lexvo": "\nElotepec Zapotec [en]",
+    "hhbib_lgcode": "\n10 variantes del zapoteco: Elotepec\nElotepec según Belmar (\"1901 papabuco\")\nZapotec-Elotepec",
+    "elcat": "\nElotepec\nElotepec Papabuco\nElotepec Zapotec"
+  },
+  "identifier": {
+    "multitree": "zte",
+    "endangeredlanguages": "3117"
+  },
+  "classification": {
+    "sub": "**hh:hv:Smith-Stark:Zapotecas** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Smith-Stark:Zapotecas**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Elotepec Zapotec (3117) = Threatened (20 percent certain, based on the evidence available) (Mainly older adults and no monolinguals) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

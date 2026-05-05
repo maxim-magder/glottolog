@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Malecite-Passamaquoddy",
+    "hid": "pqm",
+    "level": "language",
+    "iso639-3": "pqm",
+    "latitude": "45.494475",
+    "longitude": "-67.40805",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Maliseet-Passamaquoddy](https://endangeredlanguages.com/lang/1748)\n[Passamaquoddy-Maliseet](https://wals.info/languoid/lect/wals_code_psm)\nhttps://en.wikipedia.org/wiki/Maliseet-Passamaquoddy_language\nhttps://www.wikidata.org/entity/Q3183144"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2747**\n**asjp2010:4319**\n**cldf:bruening:04**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cowan:ed:94:3**\n**cldf:cowan:ed:94:4**\n**cldf:cowan:ed:94:5**\n**cldf:ed:10**\n**cldf:england:06**\n**cldf:fischer:ed:04:3**\n**cldf:francis:leavitt:98**\n**cldf:golla:goddard:etal:08**\n**cldf:leavitt:francis:86**\n**cldf:lesourd:00**\n**cldf:lesourd:95**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:ng:05**\n**cldf:ng:99**\n**cldf:nichols:ed:00:1**\n**cldf:nichols:ed:01:2**\n**cldf:np:nd:264**\n**cldf:pentland:ed:99:12**\n**cldf:pentland:ed:99:15**\n**cldf:pentland:ed:99:5**\n**cldf:rudes:costa:ed:03:5**\n**cldf:teeter:71**\n**cldf:teeter:lesourd:83**\n**hh:d:Chamberlain:Maliseet**\n**hh:e:Erickson:Maliseet-Passamaquoddy**\n**hh:g:Bruening:Passamaquoddy**\n**hh:hv:Goddard:Eastern-Algonquian**\n**hh:s:Leavitt:Passamaquoddy**\n**hh:s:Ng:Passamaquoddy**\n**hh:s:Sherwood:Maliseet-Passamaquoddy**\n**hh:s:Sherwood:Maliseet-Passamaquoddy:1983**\n**hh:typ:Lesourd:Passamaquoddy**\n**hh:typ:Montel:Malecite-Passamaquoddy**\n**hh:typ:Paul:Passamaquoddy**\n**hh:w:Alger:Passamaquoddy**\n**hh:w:Rand:Passamaquoddy**\n**mpieva:1984PhilipSL**\n**mpieva:Francis2008APassama**"
+  },
+  "altnames": {
+    "wals": "\nPassamaquoddy-Maliseet",
+    "wals other": "\nPassamaquoddy-Malecite\nPassamaquoddy-Maliseet",
+    "ruhlen (1987)": "\nPassamaquoddy",
+    "moseley & asher (1994)": "\nPassamaquoddy",
+    "multitree": "\nMalecite Cluster\nMalecite-Passamaquoddy\nMalesí-openango\nMaliseet\nMaliseet-Passamaquoddy\nMaliseet-passamaquoddy\nMalécite\nPassamaquoddy-Maliseet\nPennacook",
+    "lexvo": "\nMalecite-Passamaquoddy [en]\nMalecite-Passamaquoddy language [en]\nMalécite-passamaquoddy [fr]",
+    "elcat": "\nMalecite Cluster\nMalecite-Passamaquoddy\nMaliseet\nMaliseet-Passamaquoddy\nPassamaquoddy-Maliseet\nPennacook",
+    "hhbib_lgcode": "\nPassamaquoddy-Maliseet"
+  },
+  "triggers": {
+    "lgcode": "\nmaliseet\netchemin\nmalecite\npasamaquoddy\npassamaquoddy"
+  },
+  "identifier": {
+    "wals": "psm",
+    "multitree": "pqm",
+    "endangeredlanguages": "1748"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Eastern-Algonquian**:74-76",
+    "subrefs": "\n**hh:hv:Goddard:Eastern-Algonquian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Maliseet-Passamaquoddy (1748-pqm) = Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

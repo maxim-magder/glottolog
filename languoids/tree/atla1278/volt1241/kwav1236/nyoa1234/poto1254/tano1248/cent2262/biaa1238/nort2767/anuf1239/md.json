@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Anufo",
+    "hid": "cko",
+    "level": "language",
+    "iso639-3": "cko",
+    "latitude": "10.2839",
+    "longitude": "0.56021",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "GH",
+      "TG"
+    ],
+    "links": "\n[Anufo](https://grambank.clld.org/languages/anuf1239)\n[Anufo](https://wals.info/languoid/lect/wals_code_anu)\nhttps://en.wikipedia.org/wiki/Anufo_language\nhttps://phoible.org/languages/anuf1239\nhttps://www.wikidata.org/entity/Q34845"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1625**\n**cldf:bartels:83:1**\n**cldf:bartels:83:2**\n**eballiso2009:44788**\n**hh:d:Krass:Chokosi**\n**hh:g:Smye:Anufo**\n**hh:he:Froelich:Nord-Togo**\n**hh:hew:Rattray:Ashanti-Hinterland**\n**hh:ld:Koffi:Anoh**\n**hh:s:Adou:Ano**\n**hh:s:Bozi:Bia-Nord**\n**hh:s:Prost:Anufom**\n**hh:s:StanfordStanford:Chakosi**\n**hh:v:Hintze:Cokosi**\n**hh:vld:Kozi:Ano-Anufo**\n**mpieva:Krass1973Adiction**\n**sil16:18445**\n**sil16:18446**\n**sil16:19809**\n**sil16:27081**\n**sil16:32040**\n**sil16:32041**\n**sil16:32042**\n**sil16:32043**\n**sil16:32045**\n**sil16:32046**\n**sil16:35076**\n**sil16:35153**"
+  },
+  "altnames": {
+    "wals": "\nAnufo",
+    "ruhlen (1987)": "\nChakosi",
+    "moseley & asher (1994)": "\nChakosi",
+    "multitree": "\nAnufo\nChakosi\nChokosi\nChokossi\nKyokosi\nTchokossi\nTiokossi",
+    "lexvo": "\nAnufo [en]",
+    "hhbib_lgcode": "\nAnoh\nAnoufom ou Tchokossi\nAnufo-Chakosi"
+  },
+  "triggers": {
+    "lgcode": "\nchakosi\nanufo{\nneng{ge\nanufo\nsansanne\nfang{ga\nng{go{o{\nlanufo\nchokosi\nanufom"
+  },
+  "identifier": {
+    "wals": "anu",
+    "multitree": "cko"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Anufo (cko-cko) = 5* (Developing)."
+  }
+}

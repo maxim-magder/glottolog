@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Koch",
+    "hid": "kdq",
+    "level": "language",
+    "iso639-3": "kdq",
+    "latitude": "25.7962",
+    "longitude": "90.2566",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN"
+    ],
+    "links": "\n[Koch](https://endangeredlanguages.com/lang/4359)\nhttps://www.wikidata.org/entity/Q56431\nhttps://en.wikipedia.org/wiki/Koch_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3280**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:01:1**\n**cldf:np:nd:264**\n**hh:g:Shaikh:Koch**\n**hh:hvw:Grierson:3:II**\n**hh:s:Kondakov:Harigaya-Koch**\n**hh:ssoc:Satapathy:Saura**\n**hh:st:Mandal:Koch**\n**hh:sv:Saha:Koch-Rabha**\n**hh:w:Kondakov:Koch**\n**hh:wsoc:Ahmadetal:Koch**"
+  },
+  "altnames": {
+    "multitree": "\nKoc\nKocch\nKoce\nKoch\nKochboli\nKonch",
+    "lexvo": "\nKoch [en]\nKoch language [en]\nকোচ ভাষা [bn]",
+    "hhbib_lgcode": "\nGaro of Cooch Behar and Jalpaiguri\nTintekia-Goalpara",
+    "elcat": "\nKoc\nKocch\nKoce\nKoch\nKochboli\nKonch"
+  },
+  "triggers": {
+    "lgcode": "\nprasangge\nsurabhi\ntulana\nbilasipara\nvol AND bodo\nsange\nprakashani\nbamla\nbhasar"
+  },
+  "identifier": {
+    "multitree": "kdq",
+    "endangeredlanguages": "4359"
+  },
+  "classification": {
+    "sub": "**hh:hv:Burling:Bodo-Garo** **hh:hv:Wood:Proto-Boro-Garo**",
+    "subrefs": "\n**hh:hv:Burling:Bodo-Garo**\n**hh:hv:Wood:Proto-Boro-Garo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Koch (4359-kdq) = Vulnerable (80 percent certain, based on the evidence available) (\"[T]he Tintekiya Koch tend to live in villages where the majority of people are Tintekiya Koch, so at least within their villages their language is dominant. It is likely that Tintekiya Koch in Bangladesh will also be increasingly influenced by Bangla, but this influence will be slighter, and the rate at which Tintekiya Koch changes will likely be slower.\" (p. 25)) [Ahmad et al. 2011](cldf:ahmad:kim:etal:11)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chokri Naga",
+    "hid": "nri",
+    "level": "language",
+    "iso639-3": "nri",
+    "latitude": "25.5636",
+    "longitude": "94.2887",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Chokri](https://lexibank.clld.org/languages/marrisonnaga-Chokri)\n[Chokri Naga](https://endangeredlanguages.com/lang/1575)\nhttps://en.wikipedia.org/wiki/Chokri_language\nhttps://phoible.org/languages/chok1243\nhttps://www.wikidata.org/entity/Q5104247"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1880**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:subbarao:devi:etal:00**\n**hh:d:Kumaretal:Chakhesang**\n**hh:e:DasSaha:Chakhesang**\n**hh:h:Stirn:Naga**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Marrison:Naga**\n**hh:phon:BielenbergZhalie:Chokri**\n**hh:w:Kumar:Chakhesang**"
+  },
+  "altnames": {
+    "multitree": "\nAngami\nChakhesang\nChakrima Naga\nChakrimā\nChakru\nCharkrima\nChokri\nChokrí\nEastern Angami\nNaga\nNaga, Chokri\nNaga,Chokri\nTśakrima",
+    "lexvo": "\nChokri Naga [en]",
+    "hhbib_lgcode": "\nCākhesāṅa\nChakhesang\nChokri\nChokri (Phek)\nCākhesāṅa\nNaga Chokri\nNaga-Chokri",
+    "elcat": "\nAngami\nChakhesang\nChakrima Naga\nChakrimā\nChakru\nCharkrima\nChokri\nChokri Naga\nEastern Angami\nNaga\nTśakrima"
+  },
+  "triggers": {
+    "lgcode": "\nchakhesang\nphek\nchokri"
+  },
+  "identifier": {
+    "multitree": "nri",
+    "endangeredlanguages": "1575"
+  },
+  "classification": {
+    "sub": "**hh:hv:Coupe:Overcounting-Nagaland**",
+    "subrefs": "\n**hh:hv:Coupe:Overcounting-Nagaland**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chokri Naga (1575-nri) = Vulnerable (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

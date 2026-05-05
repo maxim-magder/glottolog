@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Motembo-Kunda",
+    "hid": "tmv",
+    "level": "language",
+    "iso639-3": "tmv",
+    "latitude": "2.0246",
+    "longitude": "20.36849",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Motembo-Kunda](https://grambank.clld.org/languages/temb1272)\nhttps://www.wikidata.org/entity/Q11013108"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:2496**\n**eballiso2009:30429**\n**eballiso2009:8594**\n**eballiso2009:8596**\n**eballiso2009:8597**\n**hh:hb:Kadima:Congo**\n**hh:hel:Mangulu:RDC**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Mangulu:Ngiri**\n**hh:hvld:FultzMorgan:Ubangi-Mongala**\n**hh:s:Mangulu:Babale**\n**hh:s:Mangulu:Kunda**\n**hh:s:Mangulu:Motembo**"
+  },
+  "altnames": {
+    "multitree": "\nLitembo\nMotembo\nTembo",
+    "lexvo": "\nTembo (Motembo) [en]\nTembo [en]",
+    "hhbib_lgcode": "\nBabale C46C from Mpa region Equateur 17.15E-2.1S (there is such a place but unlikely the data is actually from there) closest to Motembo\nBabale de Bosô-Njanoa\nKula C40K from Akula of Budjala 20.2E-2.3N\nKunda\nMotembo\nMotembo C46A\nMotembo dans la Mongala\nMotembo de Budzala\nMotembo septentrional (Buja)\nTembo\nTembo (Motembo)",
+    "glottolog": "\nMotembo-Kunda-Buja"
+  },
+  "triggers": {
+    "lgcode": "\nmotembo\nkunda"
+  },
+  "identifier": {
+    "multitree": "tmv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:177-184 **hh:hv:Bastinetal:Bantu**:207",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tembo (tmv-tmv) = 6a* (Vigorous)."
+  }
+}

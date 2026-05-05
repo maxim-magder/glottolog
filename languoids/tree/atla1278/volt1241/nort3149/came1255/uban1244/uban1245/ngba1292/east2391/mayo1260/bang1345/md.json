@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bangba",
+    "hid": "bbe",
+    "level": "language",
+    "iso639-3": "bbe",
+    "latitude": "3.39956",
+    "longitude": "28.3138",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34895\nhttps://en.wikipedia.org/wiki/Bangba_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:Costermans:Bangba**\n**hh:hv:Delafosse:Soudan**\n**hh:hv:Muller:Aquatoriale**\n**hh:hvld:vanBulck:Ubangi-Uele**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:ldsoc:Boone:Kerebolo**\n**hh:t:Schultz:Bangba**\n**hh:w:Junker:Centralafrikanischer**\n**hh:wsoc:Boone:Bangba**\n**sil16:51403**\n**sil16:51404**\n**sil16:51407**"
+  },
+  "altnames": {
+    "multitree": "\nAbangba\nBangba",
+    "lexvo": "\nBangba [en]",
+    "hhbib_lgcode": "\n= Bangba\nABangba\nBangba-Kopa\nBangba-Tora\nBere\nMadimadoko\nMadingbolo\nMadipia\nMaigo-Mungu\nMoigo-Mungu A-Bangba"
+  },
+  "triggers": {
+    "lgcode": "\nbangba\nmadimadoko"
+  },
+  "identifier": {
+    "multitree": "bbe"
+  },
+  "classification": {
+    "sub": "**hh:hv:Winkhart:Mundu-Baka** **hh:h:BoydPasch:Sere-Ngbaka-Mba**",
+    "subrefs": "\n**hh:hv:Winkhart:Mundu-Baka**\n**hh:h:BoydPasch:Sere-Ngbaka-Mba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bangba (bbe-bbe) = 6a* (Vigorous)."
+  }
+}

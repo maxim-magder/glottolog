@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Zemba",
+    "hid": "dhm",
+    "level": "language",
+    "iso639-3": "dhm",
+    "latitude": "-17.2958",
+    "longitude": "13.4424",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "AO",
+      "NA"
+    ],
+    "links": "\n[Himba](https://endangeredlanguages.com/lang/61)\nhttps://www.wikidata.org/entity/Q1845148\nhttps://en.wikipedia.org/wiki/Zemba_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:abati:98**\n**cldf:abel:54**\n**cldf:biddulph:93**\n**cldf:bollig:97**\n**cldf:bollig:98**\n**cldf:bollig:mbunguha:97**\n**cldf:caminata:97**\n**cldf:crandall:00**\n**cldf:crandall:04**\n**cldf:crandall:89**\n**cldf:crandall:92**\n**cldf:estermann:57**\n**cldf:estermann:77**\n**cldf:estermann:81**\n**cldf:fleisch:93**\n**cldf:ginerabati:92**\n**cldf:jacobsohn:86**\n**cldf:jacobsohn:pickford:etal:90**\n**cldf:johnston:19:29**\n**cldf:kavari:90**\n**cldf:kavari:93**\n**cldf:kuvare:77**\n**cldf:malan:73**\n**eballiso2009:10716**\n**eballiso2009:15096**\n**eballiso2009:16489**\n**eballiso2009:16490**\n**eballiso2009:20116**\n**eballiso2009:23437**\n**eballiso2009:23442**\n**eballiso2009:23443**\n**eballiso2009:25627**\n**eballiso2009:25632**\n**eballiso2009:2855**\n**eballiso2009:30451**\n**eballiso2009:32920**\n**eballiso2009:37086**\n**eballiso2009:37089**\n**eballiso2009:37911**\n**eballiso2009:37949**\n**eballiso2009:37950**\n**eballiso2009:37963**\n**eballiso2009:38205**\n**eballiso2009:39711**\n**eballiso2009:40485**\n**eballiso2009:42605**\n**eballiso2009:43363**\n**eballiso2009:43495**\n**eballiso2009:43496**\n**eballiso2009:43963**\n**eballiso2009:44237**\n**eballiso2009:48355**\n**eballiso2009:48362**\n**eballiso2009:51214**\n**eballiso2009:52965**\n**eballiso2009:55901**\n**eballiso2009:56533**\n**eballiso2009:56534**\n**eballiso2009:56592**\n**eballiso2009:56595**\n**eballiso2009:56922**\n**eballiso2009:56927**\n**eballiso2009:57060**\n**eballiso2009:57531**\n**eballiso2009:5857**\n**eballiso2009:7260**\n**hh:e:Blench:Pygmies**\n**hh:e:Cardoso:Ovatjimba**\n**hh:e:Hitzeroth:Tjimba**\n**hh:e:Kinahan:Himba**\n**hh:e:Kuntz:Owatschimba**\n**hh:e:MacCalmanGrobbelaar:OvaTjimba**\n**hh:e:ShieldsCampion:Himba**\n**hh:e:vanWarmelo:Kaokoveld**\n**hh:h:Maho:Namibia**\n**hh:he:Malan:Kaokoland**\n**hh:he:Urquhart:Southwestern-Angola**\n**hh:soc:KunkelCameron:Dhimba**\n**hh:sv:Ohly:Dhimba**\n**hh:w:Bollig:Southwestern-Angola**"
+  },
+  "altnames": {
+    "multitree": "\nChimba\nDhimba\nDimba\nHimba\nLuzimba\nOluthimba\nOtjidhimba\nSimba\nTjimba\nZemba",
+    "lexvo": "\nZemba [en]",
+    "hhbib_lgcode": "\nCuvale closest to Dhimba\nDhimba\nHakaona 1\nHakaona 2\nHakaona 3\nHimba\nHimba 1\nOkombambi group of OvaTjimba\nOruzimba 1\nOruzimba 2\nOtjinungua group of OvaTjimba\nOwatschimba\nTjavikwa 1\nTjimba\na cattleless Himba",
+    "elcat": "\nChimba\nDhimba\nDimba\nHimba\nLuzimba\nOluthimba\nOtjidhimba\nSimba\nTjimba\nZemba"
+  },
+  "triggers": {
+    "lgcode": "\nnamlab\ndhimba\ntjimba\nspannungsfeld\nkaoko\nowatschimbafrage\nangolas\nvakwandu\nkaokolanders\nhimba\nkaokoveldes\nviehzuchter\nkaokoland\nhimbaland\novahimba\novatjimba\nfringes\nnamlob"
+  },
+  "identifier": {
+    "multitree": "dhm",
+    "endangeredlanguages": "61"
+  },
+  "classification": {
+    "sub": "**hh:s:Elderkin:Herero**:583 **hh:hv:Vansina:West-Central-Africa**:273-283",
+    "subrefs": "\n**hh:s:Elderkin:Herero**\n**hh:hv:Vansina:West-Central-Africa**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Himba (61-dhm) = Vulnerable (60 percent certain, based on the evidence available) (Results indicate a high confidence that Dhimbas primarily marry other Dhimbas and continue to speak their language. The tendency also holds true for the languages the respondents spoke with their children... Dhimbas primarily continue to speak\nDhimba with their children. The continued vitality of Dhimba is significantly demonstrated through the frequency of Dhimba that is spoken in Dhimba families.) [Kunkel and Cameron 2002](cldf:kunkel:cameron:02)"
+  }
+}

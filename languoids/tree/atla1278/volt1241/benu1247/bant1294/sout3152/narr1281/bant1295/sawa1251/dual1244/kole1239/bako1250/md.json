@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bakole",
+    "hid": "kme",
+    "level": "language",
+    "iso639-3": "kme",
+    "latitude": "4.43654",
+    "longitude": "8.97387",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Bakole](https://endangeredlanguages.com/lang/538)\nhttps://www.wikidata.org/entity/Q35068\nhttps://phoible.org/languages/bako1250"
+  },
+  "classification": {
+    "sub": "**hh:hv:NursePhilippson:Bantu**:170 **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:he:Ardener:Coastal-Cameroons** Yasa-Kombe: **hh:hvw:Ebobisse:Sawabantu**:395-404 **hh:h:Guthrie:Bantu-Western**:26 **hh:soc:Belew:Iyasa**:33",
+    "subrefs": "\n**hh:hv:NursePhilippson:Bantu**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:h:Guthrie:Bantu-Western**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:soc:Belew:Iyasa**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:ed:10**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:hel:Sommer:Survey**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:phon:Ewota:Kole**\n**hh:phon:Ewote:Kole**\n**hh:s:Asobo:Kole**"
+  },
+  "altnames": {
+    "multitree": "\nBakole\nBakolle\nBamusso\nKole",
+    "lexvo": "\nBakole [en]",
+    "hhbib_lgcode": "\nBamusso\nKole\nKole KOL",
+    "elcat": "\nBakole\nBakolle\nBamusso\nKole"
+  },
+  "triggers": {
+    "lgcode": "\ntrusteeship"
+  },
+  "identifier": {
+    "multitree": "kme",
+    "endangeredlanguages": "538"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bakole (538-kme) = Endangered (20 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

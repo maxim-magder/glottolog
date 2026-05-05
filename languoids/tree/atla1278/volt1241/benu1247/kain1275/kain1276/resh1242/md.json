@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Reshe",
+    "hid": "res",
+    "level": "language",
+    "iso639-3": "res",
+    "latitude": "10.77046",
+    "longitude": "4.62395",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Reshe](https://endangeredlanguages.com/lang/2825)\nhttps://www.wikidata.org/entity/Q36258\nhttps://en.wikipedia.org/wiki/Reshe_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:harris:30**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Bertho:Nigeria**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:GunnConant:Middle-Niger**\n**hh:hel:Sommer:Survey**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:s:Harris:Reshe**\n**hh:typ:Makinde:Gunganchi**\n**hh:w:Blench:Reshe**\n**hh:wsoc:DettweilerDettweiler:Reshe**"
+  },
+  "altnames": {
+    "multitree": "\nBareshe\nGunga\nGunganchi\nGungawa\nReshe\nTsureja\nTsureshe\nYaurawa",
+    "lexvo": "\nReshe [en]",
+    "hhbib_lgcode": "\nGunga (Gunga-nshi)\nGunganchi\nGungawa\nGungawa and Yaurawa (Bareshe)\nYaurawa",
+    "elcat": "\nBareshe\nGunga\nGunganchi\nGungawa\nReshe\nTsureja\nTsureshe\nYaurawa"
+  },
+  "triggers": {
+    "lgcode": "\nreshe"
+  },
+  "identifier": {
+    "multitree": "res;rese",
+    "endangeredlanguages": "2825"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Reshe (2825-res) = Vulnerable (80 percent certain, based on the evidence available) [Dettweiler and Dettweiler 2002](cldf:dettweiler:dettweiler:02)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Achterhoeks",
+    "hid": "act",
+    "level": "dialect",
+    "iso639-3": "act",
+    "latitude": "52.021",
+    "longitude": "6.47521",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE",
+      "NL"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Achterhooks\nhttps://www.wikidata.org/entity/Q153627"
+  },
+  "sources": {
+    "glottolog": ""
+  },
+  "altnames": {
+    "multitree": "\nAachterhoeks\nAchterhoek\nAchterhoeks\nBajo sajón\nBas-saxon\nNeuniederdeutsch",
+    "lexvo": "\nAachterhukß [ksh]\nAchterhoeks [en]\nAchterhoeksk [fy]\nAchterhooks [en]",
+    "hhbib_lgcode": "\nEnschede"
+  },
+  "triggers": {
+    "lgcode": "\nenschede\nachterhoekse\ngemeente\nliemerse"
+  },
+  "identifier": {
+    "multitree": "act"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wiesinger:Deutschen**, **hh:h:DaanBlok:Dialecten**",
+    "subrefs": "\n**hh:hv:Wiesinger:Deutschen**\n**hh:h:DaanBlok:Dialecten**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Low Saxon (383-act, drt, frs, gos, nds, sdz, stl, twd, vel, wep) = Vulnerable"
+  }
+}

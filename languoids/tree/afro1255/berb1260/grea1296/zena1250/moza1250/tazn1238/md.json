@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sud Oranais-Gourara",
+    "hid": "grr",
+    "level": "language",
+    "iso639-3": "grr",
+    "latitude": "29.1107",
+    "longitude": "0.01992",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "DZ",
+      "MA"
+    ],
+    "links": "\n[Berber (Figuig)](https://wals.info/languoid/lect/wals_code_bfg)\n[Figuig](https://endangeredlanguages.com/lang/8490)\n[Taznatit](https://endangeredlanguages.com/lang/286)\nhttps://www.wikidata.org/entity/Q3063974"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bouhania:13**\n**cldf:brenzinger:07:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:naumann:00**\n**cldf:np:nd:264**\n**cldf:yeou:11**\n**eballiso2009:12792**\n**eballiso2009:24196**\n**eballiso2009:24197**\n**eballiso2009:24199**\n**hh:d:Benamara:Amazighe-Figuig**\n**hh:d:Yeou:Amazighe-Figuig**\n**hh:e:Bisson:Gourara**\n**hh:e:Bisson:Gourara:1998**\n**hh:g:Kossmann:Figuig**\n**hh:g:Kossmann:Figuig:1997**\n**hh:g:Saa:Figuig**\n**hh:hvphon:Elidrissi:Sud-Oranais**\n**hh:ld:Basset:Lexicographie:1887**\n**hh:s:Kossmann:Figuig:2014**\n**hh:s:Kossmann:Igli**\n**hh:soc:Abbou:Gurara**\n**hh:t:Boudot-Lamotte:Timimoun**\n**hh:typ:Kossmann:Figuig**\n**hh:v:Kossmann:Gourara**\n**hh:w:Basset:Oranais-Figuig**\n**iso6393:2016-027**"
+  },
+  "altnames": {
+    "multitree": "\nTaznatit\nTouat",
+    "lexvo": "\nTaznatit [en]",
+    "hhbib_lgcode": "\nFiguig\nFiguig-Oran\nGourara\nGurara\nIgli\nSouth Oran\nTimimoun",
+    "elcat": "\nGarawa\nShilha\nTaznatit\nZenati\nZenatia\nZenete\nZnatiya"
+  },
+  "triggers": {
+    "lgcode": "\ngourara\noranais\nfiguig\ntimimoun"
+  },
+  "identifier": {
+    "multitree": "grr",
+    "endangeredlanguages": "286"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kossmann:Arabic-Berber**:21-24 **hh:hv:Kossmann:Proto-Berbere**:31-32 **hh:hv:Kossmann:Berber:2020**:283-284",
+    "subrefs": "\n**hh:hv:Kossmann:Proto-Berbere**\n**hh:hv:Kossmann:Arabic-Berber**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Taznatit (286-grr) = Vulnerable (20 percent certain, based on the evidence available) [Brenzinger 2007](cldf:brenzinger:07:1)"
+  }
+}

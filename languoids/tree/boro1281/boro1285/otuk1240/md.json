@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Otuke",
+    "hid": "otu",
+    "level": "language",
+    "iso639-3": "otu",
+    "latitude": "-15.2698",
+    "longitude": "-59.6986",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7110049\nhttps://en.wikipedia.org/wiki/Otuke_language",
+    "timespan": "1825-01-01/1825-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hew:dOrbigny:Americain:2**\n**hh:hv:deCrequiMontfortRivet:Otuke:1913**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Montano:Bolivia:II**\n**hh:hvw:deCrequiMontfortRivet:Otuke**\n**hh:vw:Mulder:Otuke**"
+  },
+  "altnames": {
+    "multitree": "\nLouxiru\nLouxiur\nOtuké\nOtuque\nOtuqui\nOtuqué",
+    "lexvo": "\nOtuke [en]",
+    "hhbib_lgcode": "\nOtukès\nOtuké\nOtuquis/Otuke"
+  },
+  "triggers": {
+    "lgcode": "\notuke"
+  },
+  "identifier": {
+    "multitree": "otu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Camargos:Bororo**",
+    "subrefs": "\n**hh:hvw:Camargos:Bororo**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Otuke (otu-otu) = 10 (Extinct)."
+  }
+}

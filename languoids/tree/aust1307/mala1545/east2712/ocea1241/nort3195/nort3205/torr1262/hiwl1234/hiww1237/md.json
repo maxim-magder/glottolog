@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Hiw",
+    "hid": "hiw",
+    "level": "language",
+    "iso639-3": "hiw",
+    "latitude": "-13.126367",
+    "longitude": "166.584857",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Hiw](https://endangeredlanguages.com/lang/4267)\n[Hiw](https://lexibank.clld.org/languages/abvdoceanic-Hiw)\nhttps://en.wikipedia.org/wiki/Hiw_language\nhttps://www.wikidata.org/entity/Q3138713"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:580**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:htyp:Francois:Torres-Banks**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:phon:Francois:Hiw**\n**hh:typ:Francois:Hiw**\n**hh:typ:Francois:Lo-Toga-Hiw:2010**\n**hh:typ:Francois:Lo-Toga-Hiw:2019**"
+  },
+  "altnames": {
+    "multitree": "\nHiw\nTorres\nTorres Island",
+    "lexvo": "\nHiw [en]",
+    "hhbib_lgcode": "\nHiu",
+    "elcat": "\nHiu\nHiw\nTorres\nTorres Island"
+  },
+  "triggers": {
+    "lgcode": "\nhiw\nresolving\nprestopped\nlanguages AND hebrides\nambiguity"
+  },
+  "identifier": {
+    "multitree": "hiw",
+    "endangeredlanguages": "4267"
+  },
+  "classification": {
+    "sub": "**hh:hv:KalyanFrancois:Freeing**",
+    "subrefs": "\n**hh:hv:KalyanFrancois:Freeing**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hiw (4267-hiw) = Endangered (40 percent certain, based on the evidence available) (Speaker numbers are dwindling.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

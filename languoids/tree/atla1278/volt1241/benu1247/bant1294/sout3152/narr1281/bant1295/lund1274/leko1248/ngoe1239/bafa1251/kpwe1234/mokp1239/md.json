@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mokpwe",
+    "hid": "bri",
+    "level": "language",
+    "iso639-3": "bri",
+    "latitude": "4.24178",
+    "longitude": "9.23887",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Bakueri](https://wals.info/languoid/lect/wals_code_bku)\n[Mokpwe](https://grambank.clld.org/languages/mokp1239)\nhttps://en.wikipedia.org/wiki/Kpwe_language\nhttps://phoible.org/languages/mokp1239\nhttps://www.wikidata.org/entity/Q36428"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gensler:81**\n**cldf:hombert:73**\n**cldf:leuschner:03**\n**cldf:marlo:odden:07**\n**eballiso2009:12265**\n**eballiso2009:13160**\n**eballiso2009:15988**\n**eballiso2009:15993**\n**eballiso2009:15994**\n**eballiso2009:20250**\n**eballiso2009:20257**\n**eballiso2009:23298**\n**eballiso2009:23376**\n**eballiso2009:27102**\n**eballiso2009:27368**\n**eballiso2009:28707**\n**eballiso2009:2884**\n**eballiso2009:3234**\n**eballiso2009:34555**\n**eballiso2009:34603**\n**eballiso2009:34607**\n**eballiso2009:35894**\n**eballiso2009:36652**\n**eballiso2009:41797**\n**eballiso2009:41799**\n**eballiso2009:43535**\n**eballiso2009:44418**\n**eballiso2009:44565**\n**eballiso2009:47447**\n**eballiso2009:4885**\n**eballiso2009:52651**\n**eballiso2009:53610**\n**eballiso2009:53648**\n**eballiso2009:54113**\n**eballiso2009:56564**\n**eballiso2009:57577**\n**eballiso2009:60151**\n**eballiso2009:6910**\n**eballiso2009:6911**\n**eballiso2009:7104**\n**eballiso2009:7518**\n**eballiso2009:8506**\n**eballiso2009:8937**\n**hh:d:Connell:Mokpe**\n**hh:e:Valdau:Bakwileh**\n**hh:ew:Seidel:Bakwiri**\n**hh:he:Ardener:Coastal-Cameroons**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Rogozinski:Bakwiri**\n**hh:phon:Mokake:Mokpe**\n**hh:phon:Monikang:Mokpwe**\n**hh:s:Atindogbe:Mokpe**\n**hh:s:Kagaya:Bakueri**\n**hh:s:Schuler:Bakwiri**\n**hh:soc:Tasah:Kweli**\n**hh:typ:Atindogbe:Directional-Bantu-A**\n**hh:typ:Bessem:Bakweri**\n**hh:typ:Gensler:Bakweri**\n**hh:typ:Hawkinson:Bakweri**\n**hh:typ:Jemea:Mokpwe**\n**hh:typ:Lyonga:Mokpe**\n**hh:typ:Taboko:Zone-A**\n**hh:w:Hair:Cameroons**\n**ldh:item_403421**\n**ldh:item_403523**\n**mpieva:Bate1987Thenounc**\n**mpieva:Hawkinson1986Bakweriv**\n**mpieva:Taboko2000Theverba**\n**sil16:45798**"
+  },
+  "altnames": {
+    "wals": "\nBakueri",
+    "ruhlen (1987)": "\nMokpwe",
+    "moseley & asher (1994)": "\nKwiri",
+    "multitree": "\nBakpwe\nBakueri\nBakwedi\nBakwele\nBakweri\nBekwiri\nKwedi\nKweli\nKwili\nKwiri\nMokpe\nMokpwe\nUjuwa\nVakweli\nVambeng",
+    "lexvo": "\nMokpwe [en]",
+    "hhbib_lgcode": "\nA22_Bakweri\nBa-Kwileh\nBaakpe\nBakueri\nBakweri\nBakwiri\nKpe\nKweli\nMokpe\nMokpe KPE"
+  },
+  "triggers": {
+    "lgcode": "\nvakpe\nkamerunberget\nmokpwe\nwakweli\nbawiri\nbakueri\nbakweri\nmokpe\nkwileh\ntrusteeship\nbakwiri"
+  },
+  "identifier": {
+    "wals": "bku",
+    "multitree": "bri"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:355 **hh:hvw:Ebobisse:Sawabantu**:395-404",
+    "subrefs": "\n**hh:hvw:Ebobisse:Sawabantu**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mokpwe (bri-bri) = 6b* (Threatened)."
+  }
+}

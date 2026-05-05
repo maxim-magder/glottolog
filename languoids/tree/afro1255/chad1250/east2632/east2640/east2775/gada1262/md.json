@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Gadang",
+    "hid": "gdk",
+    "level": "language",
+    "iso639-3": "gdk",
+    "latitude": "10.425",
+    "longitude": "16.997",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Gadang](https://endangeredlanguages.com/lang/2309)\nhttps://www.wikidata.org/entity/Q56256\nhttps://en.wikipedia.org/wiki/Gadang_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:CaprileJungraithmayr:Tchadiques**\n**hh:he:Arditi:Vallee-Chari**\n**hh:hv:Jungraithmayr:Nachtigal**"
+  },
+  "altnames": {
+    "multitree": "\nGadang\nGadango",
+    "lexvo": "\nGadang [en]\nGadang language [en]\nGadangeg [br]",
+    "elcat": "\nGadang"
+  },
+  "identifier": {
+    "multitree": "gdk",
+    "endangeredlanguages": "2309"
+  },
+  "classification": {
+    "sub": "**hh:hv:Jungraithmayr:Nachtigal** **hh:hb:BarreteauNewman:Tchadiques**",
+    "subrefs": "\n**hh:hb:BarreteauNewman:Tchadiques**\n**hh:hv:Jungraithmayr:Nachtigal**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Gadang (2309-gdk) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

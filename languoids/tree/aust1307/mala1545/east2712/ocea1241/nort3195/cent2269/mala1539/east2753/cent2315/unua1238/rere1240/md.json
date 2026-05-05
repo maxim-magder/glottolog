@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Rerep",
+    "hid": "pgk",
+    "level": "language",
+    "iso639-3": "pgk",
+    "latitude": "-16.2934",
+    "longitude": "167.651",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Pangkumu (Datisman)](https://lexibank.clld.org/languages/abvdoceanic-PangkumuDatisman)\n[Rerep](https://endangeredlanguages.com/lang/10793)\n[Rerep](https://grambank.clld.org/languages/rere1240)\nhttps://en.wikipedia.org/wiki/Rerep_language\nhttps://www.wikidata.org/entity/Q586907"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:418**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Ray:New-Hebrides**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Morton:Pangkumu-Malekula**"
+  },
+  "altnames": {
+    "multitree": "\nMallicolo\nPangkumu\nPangkumu Bay\nRerep",
+    "lexvo": "\nRerep [en]",
+    "hhbib_lgcode": "\nMalekula-Pangkumu\nPanggumu-Tisman\nPangkumu\nPangkumu-Malekula",
+    "elcat": "\nPangkumu\nRerep\nTisman"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides\npangkumu"
+  },
+  "identifier": {
+    "multitree": "pgk",
+    "endangeredlanguages": "10793"
+  },
+  "classification": {
+    "sub": "**hh:g:Pearce:Unua**",
+    "subrefs": "\n**hh:g:Pearce:Unua**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Rerep (10793-pgk) = Endangered (20 percent certain, based on the evidence available) [François et al. 2015](cldf:francois:franjieh:etal:15)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Arabana",
+    "hid": "ard",
+    "level": "language",
+    "iso639-3": "ard",
+    "latitude": "-28.705",
+    "longitude": "135.449",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[ARABANA](https://collection.aiatsis.gov.au/austlang/language/l13)\n[Arabana](https://grambank.clld.org/languages/arab1267)\n[Arabana](https://lexibank.clld.org/languages/bowernpny-Arabana)\n[Arabana](https://wals.info/languoid/lect/wals_code_abn)\n[Arabana-Wangkangurru](https://endangeredlanguages.com/lang/3857)\nhttps://en.wikipedia.org/wiki/Arabana_language\nhttps://phoible.org/languages/arab1267\nhttps://www.wikidata.org/entity/Q3507959"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3724**\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:ofaboriginal:aiatsis:17**\n**cldf:tryon:07**\n**hh:g:Hercus:Arabana**\n**hh:hbw:MenningNash:Central-Australian**\n**hh:htyp:Scheffler:Australian-Kin**\n**hh:hv:Bowern:Karnic:2001**\n**ozbib:1855**\n**ozbib:1973**\n**ozbib:237**\n**ozbib:2773**\n**ozbib:2775**\n**ozbib:2776**\n**ozbib:2782**\n**ozbib:2783**\n**ozbib:2787**\n**ozbib:2793**\n**ozbib:2796**\n**ozbib:2797**\n**ozbib:2800**\n**ozbib:2802**\n**ozbib:2805**\n**ozbib:2808**\n**ozbib:2809**\n**ozbib:2819**\n**ozbib:2833**\n**ozbib:2835**\n**ozbib:2840**\n**ozbib:2845**\n**ozbib:2852**\n**ozbib:2972**\n**ozbib:2973**\n**ozbib:3103**\n**ozbib:3864**\n**ozbib:4455**\n**ozbib:5155**\n**ozbib:5400**\n**ozbib:5481**\n**ozbib:5714**\n**ozbib:5752**\n**ozbib:6067**\n**ozbib:6068**\n**ozbib:6188**\n**ozbib:6819**\n**ozbib:6866**\n**ozbib:6868**\n**ozbib:6929**\n**ozbib:7194**"
+  },
+  "altnames": {
+    "wals": "\nArabana",
+    "wals other": "\nArabana-Wangkangurru",
+    "ruhlen (1987)": "\nArabana",
+    "moseley & asher (1994)": "\nArabana",
+    "multitree": "\nArabana\nArabuna\nArapani\nArapina\nArbana\nArrabonna\nArrabunna\nArubbinna\nNgarabana\nNulla\nRabuna\nUrabuna\nUrabunna\nUrapuna\nUrroban\nWangarabana\nWangarabunna\nWongkurapuna",
+    "lexvo": "\nArabana [en]\nArabana language [en]",
+    "elcat": "\nArabana\nArabana-Wangkangurru\nArabuna\nArapani\nArapina\nArbana\nArrabonna\nArrabunna\nArubbinna\nNgarabana\nNulla\nRabuna\nUrabuna\nUrabunna\nUrapuna\nUrroban\nWangarabana\nWangarabunna\nWongkurapuna",
+    "aiatsis": "\nARABANA\nAnna Creek tribe\nArabana\nArabana/Wangkangurru\nArabuna\nArabunna\nArapani\nArapina\nArebana\nArrabonna\nArrabunna\nArubbinna\nJendakarangu\nNgarabana\nNulla\nPeake tribe\nRabuna\nUrabuna\nUrabunna\nUrapuna\nUrroban\nWangarabana\nWangarabuna\nWangarabunna\nWongkurapuna\nWongpurapuna\nWonkurabana\nYendakarang\nYendakarangu"
+  },
+  "triggers": {
+    "lgcode": "\nwangkangurru"
+  },
+  "identifier": {
+    "wals": "abn",
+    "multitree": "ard",
+    "endangeredlanguages": "3857"
+  },
+  "classification": {
+    "sub": "**hh:hv:Breen:Karnic** **hh:hv:Bowern:Karnic:2010** **hh:hv:BowernAtkinson:Pama-Nyungan**:832-833",
+    "subrefs": "\n**hh:hv:Breen:Karnic**\n**hh:hv:Bowern:Karnic:2010**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Arabana-Wangkangurru (3857-ard) = Dormant [of Aboriginal and AIATSIS 2017](cldf:ofaboriginal:aiatsis:17)"
+  }
+}

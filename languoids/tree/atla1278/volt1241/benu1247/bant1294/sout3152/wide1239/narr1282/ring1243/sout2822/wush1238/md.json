@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Wushi",
+    "hid": "bse",
+    "level": "language",
+    "iso639-3": "bse",
+    "latitude": "6.07415",
+    "longitude": "10.6035",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36973\nhttps://en.wikipedia.org/wiki/Wushi_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Hodieb:Wushi**\n**hh:g:Hodieb:Wushi:2023**\n**hh:hvw:Paulin:Ring**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:typ:Hedinger:Wushi**\n**hh:typ:Hodieb:Wushi**\n**hh:typ:Robinson:Wushi**"
+  },
+  "altnames": {
+    "multitree": "\nBabessi\nPesii\nSii\nVesi\nWushi",
+    "lexvo": "\nWushi [en]",
+    "hhbib_lgcode": "\nBabessi"
+  },
+  "triggers": {
+    "lgcode": "\ninterne AND bantoide"
+  },
+  "identifier": {
+    "multitree": "bse"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Bantoid**",
+    "subrefs": "\n**hh:hv:Blench:Bantoid**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wushi (bse-bse) = 6a (Vigorous)."
+  }
+}

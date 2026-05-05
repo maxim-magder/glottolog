@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mbandja",
+    "hid": "zmz",
+    "level": "language",
+    "iso639-3": "zmz",
+    "latitude": "3.98003",
+    "longitude": "19.4455",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "CF",
+      "CG"
+    ],
+    "links": "\n[Mbandja](https://grambank.clld.org/languages/mban1263)\nhttps://en.wikipedia.org/wiki/Mbandja_language\nhttps://www.wikidata.org/entity/Q3915310"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2242**\n**cldf:burssens:58**\n**hh:hdial:Cloarec-Heiss:Banda**\n**hh:he:Burssens:Congo-Ubangi**\n**hh:he:Maes:Ubangi**\n**hh:hsoc:GuillaumeDelobeau:Mongoumba**\n**hh:hv:Bontenge:Kembanza**\n**hh:hv:Cloarec-Heiss:Banda:2000**\n**hh:hvld:Donzo:Ubangiennes**\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**\n**hh:hvw:Mortier:Ubangi**\n**hh:hw:Monino:Oubanguiennes**\n**hh:hw:Thonner:Ubangi**\n**hh:s:Tingbo:Mbandza**\n**hh:s:Tingbo:Mbanja**\n**hh:typ:Kumbatulu:Oubanguiennes**\n**hh:typ:Mabele:Mbanja**\n**hh:wsoc:Gardner:Epena**"
+  },
+  "altnames": {
+    "multitree": "\nBanja\nMbandja\nMbandza\nMbanja\nMbanza",
+    "lexvo": "\nMbandja [en]",
+    "hhbib_lgcode": "\nBanza\nBanza-Bango\nKembanza\nMbanja\nMbanza\nMbja\nMbza"
+  },
+  "triggers": {
+    "lgcode": "\noubangien\nmbanja"
+  },
+  "identifier": {
+    "multitree": "zmz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cloarec-Heiss:Banda:2000**",
+    "subrefs": "\n**hh:hv:Cloarec-Heiss:Banda:2000**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbandja (zmz-zmz) = 5* (Developing)."
+  }
+}

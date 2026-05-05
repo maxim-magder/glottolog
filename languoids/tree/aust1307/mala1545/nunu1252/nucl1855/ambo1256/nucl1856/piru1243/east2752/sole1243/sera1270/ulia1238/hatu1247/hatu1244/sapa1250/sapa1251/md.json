@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Saparua",
+    "hid": "spr",
+    "level": "language",
+    "iso639-3": "spr",
+    "latitude": "-3.58314",
+    "longitude": "128.639",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Saparua](https://endangeredlanguages.com/lang/5408)\nhttps://www.wikidata.org/entity/Q7420921\nhttps://en.wikipedia.org/wiki/Saparua_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1462**\n**asjp2010:3222**\n**asjp2010:479**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Taber:Maluku**\n**hh:hew:Ludeking:Amboina**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:Collins:Maluku**\n**hh:hv:Kotynski:Lease**\n**hh:hv:Stresemann:Ambonischen**\n**hh:hv:Taguchi:WSeram**\n**hh:hvw:Collins:CMaluku**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Marsden:East-Insular**\n**hh:hw:Raffles:Java**\n**hh:hw:vanHoevell:Ambonsche**\n**hh:phon:Erniati:Sirisori**\n**hh:w:Stokhofetal:Holle:3:4**\n**hh:w:Turner:Samoa**\n**hh:w:vanEkris:Ambonsche**"
+  },
+  "altnames": {
+    "multitree": "\nSaparua",
+    "lexvo": "\nSaparua [en]",
+    "hhbib_lgcode": "\nHaria Saparua\nHaroekoe\nHatawano\nIha (Saparua)\nIha (Seram)\nIhamahu Saparua\nKulur\nOuw Saparua\nSaparoea\nSaparua near Ceram\nSaparúa\nSiri-sori\nSirisori",
+    "elcat": "\nSaparua"
+  },
+  "triggers": {
+    "lgcode": "\nNOT south AND vol AND NOT central AND holle"
+  },
+  "identifier": {
+    "multitree": "sapa",
+    "endangeredlanguages": "5408"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Collins:CMaluku** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:379-439",
+    "subrefs": "\n**hh:hvw:Collins:CMaluku**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Saparua (5408-spr) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "core": {
+    "name": "Amto",
+    "hid": "amt",
+    "level": "language",
+    "iso639-3": "amt",
+    "latitude": "-4.12165",
+    "longitude": "141.339",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Amto](https://endangeredlanguages.com/lang/2012)\nhttps://en.wikipedia.org/wiki/Amto_language\nhttps://www.wikidata.org/entity/Q56517"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:e:Craig:Amto**\n**hh:hld:Lean:Sandaun**\n**hh:hv:BassLoving:Amanab**\n**hh:hv:Laycock:Isolates**\n**hh:hv:Laycock:Sepik**\n**hh:hvw:ConradDye:USepik**\n**hh:w:Laycock:D1**"
+  },
+  "altnames": {
+    "multitree": "\nAmto\nKi\nSiafli\nSiawi\nSiwai",
+    "lexvo": "\nAmteg [br]\nAmto [en]\nAmto jezik [hr]\nAmto language [en]\nIdioma amto [es]",
+    "elcat": "\nAmto\nKi\nSiafli\nSiawi\nSiwai",
+    "hhbib_lgcode": "\nAmto (Ki) by patrol officer NJ Cavanagh 1961"
+  },
+  "triggers": {
+    "lgcode": "\namto\nsimaiya"
+  },
+  "identifier": {
+    "multitree": "amt",
+    "endangeredlanguages": "2012"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Amto (2012-amt) = Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

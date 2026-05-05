@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Yoloxochitl Mixtec",
+    "hid": "xty",
+    "level": "language",
+    "iso639-3": "xty",
+    "latitude": "16.8059",
+    "longitude": "-98.6293",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Guerrero Mixtec](https://endangeredlanguages.com/lang/10530)\nhttps://www.wikidata.org/entity/Q8054817\nhttps://en.wikipedia.org/wiki/Yolox%C3%B3chitl_Mixtec"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hb:Smith-Stark:Mixtecanas-Zapotecanas**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:phon:DiCanio:Yoloxochitl-Mixtec:Consonants**\n**hh:phon:Garcia-Mixteco-Yoloxochitl**\n**hh:s:Guadalupe:Yoloxochitl**\n**hh:typ:DiCanio:Yoloxochitl-Mixtec:Information**\n**hh:typ:Palancar:Yoloxochitl-Mixtec**"
+  },
+  "altnames": {
+    "multitree": "\nMixtec, Yoloxochitl\nSouthern Misteko\nSouthern Mixteco",
+    "lexvo": "\nYoloxochitl Mixtec [en]",
+    "elcat": "\nAlacatlatzala Mixtec\nAlcozauca Mixtec\nCentral Misteko\nGuerrero Mixtec\nHighland Guerrero Mixtec\nMetlatónoc Mixtec\nMixteco de Alacatlatzala\nMixteco de Alocozauca\nMixteco de Xochapa\nMixteco de Yoloxóchitl\nTo’on Savi\nYoloxóchitl Mixtec",
+    "hhbib_lgcode": "\n128 Yoloxochitl Mixtec Amith and Castillo García n.d.; Josserand 1983\nYoloxochitl\nYolx"
+  },
+  "triggers": {
+    "lgcode": "\nyoloxochitl"
+  },
+  "identifier": {
+    "multitree": "xty",
+    "endangeredlanguages": "10530"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023** **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Guerrero Mixtec (10530) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Nayi",
+    "hid": "noz",
+    "level": "language",
+    "iso639-3": "noz",
+    "latitude": "6.88202",
+    "longitude": "36.3813",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Nayi](https://endangeredlanguages.com/lang/2680)\nhttps://www.wikidata.org/entity/Q3183349\nhttps://en.wikipedia.org/wiki/Nayi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aklilu:01**\n**cldf:aklilu:siebert:02**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**cldf:seid:12**\n**eballiso2009:24644**\n**eballiso2009:24645**\n**eballiso2009:27**\n**eballiso2009:35595**\n**eballiso2009:35600**\n**eballiso2009:35603**\n**eballiso2009:58458**\n**hh:ew:Pauli:Splitterstamme**\n**hh:g:Tessema:Naayi**\n**hh:h:Gebeyehu:Dying-Ethiopia**\n**hh:hv:Aklilu:Maji**\n**hh:phon:Aklilu:Nayi**\n**hh:s:Yilma:Nayi**\n**hh:s:Yilma:Nayi:1994**\n**hh:s:Yilma:Nayi:1997**\n**hh:typ:Firehiwot:Nayi**\n**hh:typ:Yohannes:Nayi**\n**hh:v:Aklilu:Bench-Majoid**\n**hh:vw:Conti:Ghimirra**\n**hh:w:Abbadie:Kam**\n**hh:w:Adigeh:Nayi**\n**sil16:36294**\n**sil16:42592**\n**sil16:42879**\n**sil16:50303**"
+  },
+  "altnames": {
+    "multitree": "\nNa'o\nNao\nNaya\nNayi\nNayí",
+    "lexvo": "\nLenga Nayi [pms]\nNayi [en]\nNayi jezik [hr]\nNayi language [en]",
+    "hhbib_lgcode": "\nGimirra (Naa)\nNaa\nNaayì\nNao\nNayo",
+    "elcat": "\nNa'o\nNao\nNaya\nNayi"
+  },
+  "triggers": {
+    "lgcode": "\nnayi"
+  },
+  "identifier": {
+    "multitree": "noz",
+    "endangeredlanguages": "2680"
+  },
+  "classification": {
+    "sub": "**hh:hv:Aklilu:Maji** the similarities between Sheko and Nayi in historical phonology are all retentions and therefore\ndo not count as evidence for a Sheko-Nayi node",
+    "subrefs": "\n**hh:hv:Aklilu:Maji**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nayi (2680-noz) = Severely Endangered (100 percent certain, based on the evidence available) (Nao and Kafinoono are used at home where the former is relatively the dominant language at home among elder groups. On the other hand, in case where the interaction is between children and parents the medium of interaction is solely using Kefinoono. [...] Older persons use Nao more often than younger ones, who often use Kafinoono as their first  language. Consequently, one can argue from this Nao is in actual jeopardy at home setting [and] in the neighborhood Nao seems to give way for the dominant tongue Kafinoono. [...] Most of the children speak Kefinoono as their first language.) [Seid 2012](cldf:seid:12)"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Southern Uzbek",
+    "hid": "uzs",
+    "level": "language",
+    "iso639-3": "uzs",
+    "latitude": "36.6099",
+    "longitude": "60.6907",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "PK",
+      "TJ",
+      "TR",
+      "UZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q1066787\nhttps://en.wikipedia.org/wiki/Southern_Uzbek_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Naby:Uzbeks-Afghanistan**\n**hh:h:Jarring:Turk-Afghanistan**\n**hh:h:Kieffer:Afghanistan**\n**hh:h:Kieffer:Afghanistan-Kleinen**\n**hh:ld:Baldauf:Uzbek-Afghanistan**\n**hh:s:Boeschoten:Ozbekisches-Aibak**\n**hh:s:Menges:Ozbekischen-Afghanistan**\n**hh:t:Jarring:Uzbek-Afghan**\n**hh:t:Thalhammer:Ozbekischen-Afghanistan**\n**hh:typ:Darawgar:Afganistan-Ozbek**\n**hh:typ:Reichl:Afghan-Uzbek**\n**hh:w:Rybatzki:Afghanistan:Iranian**\n**hh:w:Rybatzki:Afghanistan:Moghol**\n**mpieva:Balci2001Dictionn**\n**mpieva:Bidwell1955Astructu**\n**mpieva:Kuslina1968Tadziksk**\n**mpieva:Poppe1997Uzbeknew**\n**sil16:47851**"
+  },
+  "altnames": {
+    "multitree": "\nSouthern Uzbek\nUsbeki\nUzbak\nUzbek\nUzbek, Southern\nUzbeki\nÖzbekisch",
+    "lexvo": "\nSouthern Uzbek [en]\nSouthern Uzbek language [en]\n南乌兹别克语 [zh]",
+    "hhbib_lgcode": "\nAibak in Samangan in Afghanistan\nCited in Kieffer as if it describes Afghani Ozbeki\nUzbek\nUzbeks\nÖzbek"
+  },
+  "triggers": {
+    "lgcode": "\nxalq\nouzbek\nozbekische\nuzbekskie"
+  },
+  "identifier": {
+    "multitree": "uzs"
+  },
+  "classification": {
+    "sub": "**hh:hv:Egorov:Turkic**:14",
+    "subrefs": "\n**hh:hv:Egorov:Turkic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Uzbek, Southern (uzs-uzs) = 5 (Developing). Statutory language of provincial identity in Fariab, Jawzjan, Saripul, other northern provinces (2004, Constitution, Article 16(2))."
+  }
+}

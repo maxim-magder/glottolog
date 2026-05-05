@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sawi",
+    "hid": "saw",
+    "level": "language",
+    "iso639-3": "saw",
+    "latitude": "-5.99286",
+    "longitude": "138.643",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q677064\nhttps://en.wikipedia.org/wiki/Sawi_language_(Papuan)"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Mills:Sawi**\n**hh:hv:Ross:Voorhoeve**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hvw:Voorhoeve:Miscellaneous**"
+  },
+  "altnames": {
+    "multitree": "\nAejauroh\nSawi\nSawuy",
+    "lexvo": "\nJęzyk sawuy [pl]\nSawi [en]\nSawi language [en]",
+    "hhbib_lgcode": "\nSawuj\nSawuy"
+  },
+  "triggers": {
+    "lgcode": "\nrow\nsawi\nsawi AND irian\nkemur"
+  },
+  "identifier": {
+    "multitree": "sawi;saw"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sawi (saw-saw) = 8a (Moribund)."
+  }
+}

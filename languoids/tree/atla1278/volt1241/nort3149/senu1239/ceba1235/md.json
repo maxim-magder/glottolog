@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Senari",
+    "hid": "sef",
+    "level": "language",
+    "iso639-3": "sef",
+    "latitude": "9.50768",
+    "longitude": "-6.15264",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI",
+      "ML"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q10975121\nhttps://en.wikipedia.org/wiki/Cebaara_language\nhttps://phoible.org/languages/ceba1235\n[Senadi](https://wals.info/languoid/lect/wals_code_snd)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:soro:97**\n**cldf:vendeix:35**\n**eballiso2009:20506**\n**eballiso2009:20509**\n**eballiso2009:20512**\n**eballiso2009:28105**\n**eballiso2009:28106**\n**eballiso2009:28107**\n**eballiso2009:37483**\n**eballiso2009:41489**\n**eballiso2009:41836**\n**eballiso2009:41838**\n**eballiso2009:4685**\n**eballiso2009:4686**\n**eballiso2009:4690**\n**eballiso2009:47209**\n**eballiso2009:57144**\n**hh:d:Mills:Senanri**\n**hh:e:Delafosse:Senoufo**\n**hh:e:Holas:Senoufo**\n**hh:g:Laughren:Tyebari**\n**hh:g:Rongier:Senoufo**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:he:Dittmer:Obervolta**\n**hh:hv:Manessy:Senoufo**\n**hh:hvtyp:Yeo:Senoufo**\n**hh:hvw:MensahTchagbale:Gur**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:ld:Ballo:Kadile**\n**hh:lde:Arnoldussen:Senoufo-Guere**\n**hh:phon:Mills:Senoufo**\n**hh:phon:Mills:Senufo**\n**hh:phon:Roulon:Tyembara**\n**hh:phon:Siabi:Nafara**\n**hh:phon:Silue:Kafire**\n**hh:phon:Soro:Tyebaara**\n**hh:s:Boutin:Fodonon**\n**hh:s:Laughren:Mougnini-Senoufo**\n**hh:s:Mills:Tyebara**\n**hh:s:Welmers:Senadi**\n**hh:st:Traore:Sicane**\n**hh:sv:Kone:Tyebari**\n**hh:t:Kientz:Senoufo**\n**hh:t:Mills:Senoufo**\n**hh:t:Mills:Senoufo:1986**\n**hh:typ:Baron:Nafara**\n**hh:typ:Mommer:Cebaari**\n**hh:typ:Silue:Senoufo**\n**hh:typ:Soro:Cebaari**\n**hh:typ:Yeo:Senoufo**\n**hh:typ:Yeo:Senoufo:Verbe**\n**hh:w:Armstrong:West-African**\n**mpieva:Roulon1968Essaidep**"
+  },
+  "altnames": {
+    "wals": "\nSenadi",
+    "wals other": "\nTyebaara Senoufo",
+    "ruhlen (1987)": "\nSenari",
+    "moseley & asher (1994)": "\nSenari",
+    "multitree": "\nSenadi\nSenari\nSenoufo, Cebaara\nSenoufou (Cebaara)\nSyenere\nTara\nTiebaara\nTyebala",
+    "lexvo": "\nCebaara Senoufo [en]",
+    "hhbib_lgcode": "\nBondoukou (Côte d'Ivoire) et la partie de la colonie anglaise du Gold-Coast voisine de la Volta Noire et pendant quarante mois successifs de séjour et de voyages dans les cercles de Korhogo et de Dabakala (Côte d'Ivoire)\nCebaara Senoufo\nCebaari\nCentral Senari\nDikodougou\nFodonon\nFodonon of Dikodougou-Cote d'Ivoire\nForo\nGudrun Miehe: G6. Tyebari (Cebari-Nyenere)\nGudrun Miehe: G8. Fodonon\nKadile\nKafiire\nKafire\nKandere\nKolia\nKorhogo\nKouflo-Fonondi\nKufuru\nNafara\nNafara-Sinematiali\nNyenere)\nSenanri of Korhogo\nSenoufo-Cebaara\nSénoufo Cebaara\nSénoufo Tyébara\nSénoufo-Cebaara\nTagba\nTagba (Tagwa)\nTagwa\nTyebaara in Dokaha-Tiorognadougou just south of Korhogo\nTyebara\nTyebari\nTyébara\nWest Senari",
+    "glottolog": "\nCebaara Senoufo"
+  },
+  "triggers": {
+    "lgcode": "\ntyembara\ntyebari\nNOT parler AND NOT langue AND senoufo\ntyebara\nscais\nmougnini\nsenadi\nsenanri\nfondondho\nplerematique\nkorhogo"
+  },
+  "identifier": {
+    "wals": "snd",
+    "multitree": "sef"
+  },
+  "classification": {
+    "sub": "**hh:hv:Guldemann:Africa:Classification**:199 **hh:hv:Miehe:Gur:2020**:194-196 **hh:hv:Carlson:Senufo** **hh:hb:vonRoncadorMiehe:Gur** **hh:phon:Mills:Senoufo**:xii-xx",
+    "subrefs": "\n**hh:hb:vonRoncadorMiehe:Gur**\n**hh:hv:Guldemann:Africa:Classification**\n**hh:hv:Carlson:Senufo**\n**hh:hv:Miehe:Gur:2020**\n**hh:phon:Mills:Senoufo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sénoufo, Cebaara (sef-sef) = 5* (Developing)."
+  }
+}

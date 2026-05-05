@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bakwé",
+    "hid": "bjw",
+    "level": "language",
+    "iso639-3": "bjw",
+    "latitude": "5.23123",
+    "longitude": "-6.51077",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\n[Bakwé](https://lexibank.clld.org/languages/polyglottaafricana-Bakwe)\nhttps://en.wikipedia.org/wiki/Bakw%C3%A9_language\nhttps://www.wikidata.org/entity/Q34899"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:clozel:villamur:02**\n**cldf:coutouly:20**\n**eballiso2009:101**\n**eballiso2009:10403**\n**eballiso2009:59371**\n**hh:d:CTAB:Bakwe**\n**hh:d:Yepi:Bakwe**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:Richard:Sud-Ouest-Ivoirien**\n**hh:hv:Marchese:Kru**\n**hh:hvtyp:Marchese:Kru**\n**hh:hw:Delafosse:CotedIvoire**\n**hh:hw:Koelle:Polyglotta**\n**hh:typ:Leidenfrost:Bakwe**\n**hh:w:Marchese:Kru-Lexemes**\n**sil16:40708**\n**sil16:46885**"
+  },
+  "altnames": {
+    "glottolog": "\nBakwe",
+    "multitree": "\nBakwe\nBakwé",
+    "lexvo": "\nBakwé [en]",
+    "hhbib_lgcode": "\nBakoué\nBakwe\nGbe/Gbei"
+  },
+  "triggers": {
+    "lgcode": "\nbakwcais\nwiia\ngogbiiwii\nbakwii\nb2a"
+  },
+  "identifier": {
+    "multitree": "bakw;bjw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vogler:Kru:2017**:38-60 **hh:hv:Marchese:Kru:1989** **hh:hv:Zogbo:Kru**",
+    "subrefs": "\n**hh:hv:Zogbo:Kru**\n**hh:hv:Vogler:Kru:2017**\n**hh:hv:Marchese:Kru:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bakwé (bjw-bjw) = 5 (Developing)."
+  }
+}

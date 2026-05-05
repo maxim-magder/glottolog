@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Batak Karo",
+    "hid": "btx",
+    "level": "language",
+    "iso639-3": "btx",
+    "latitude": "2.12787",
+    "longitude": "98.2517",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Batak (Karo)](https://wals.info/languoid/lect/wals_code_bkr)\n[Batak Karo](https://endangeredlanguages.com/lang/10889)\n[Batak Karo](https://grambank.clld.org/languages/bata1293)\nhttps://en.wikipedia.org/wiki/Batak_Karo_language\nhttps://phoible.org/languages/bata1293\nhttps://www.wikidata.org/entity/Q33012"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:joustra:01**\n**cldf:keesing:84:2**\n**cldf:kipp:95**\n**cldf:kushnick:10**\n**cldf:kushnick:13**\n**cldf:loeb:74**\n**cldf:neumann:51**\n**cldf:rae:94**\n**cldf:rodgers:93**\n**cldf:shelf:16**\n**cldf:sibeth:91**\n**cldf:sumatra:17**\n**cldf:wouk:ed:02:4**\n**hh:d:Joustra:Karosche**\n**hh:d:Sukapiring:Karo**\n**hh:d:Surbakti:Karo**\n**hh:dial:Sembiring:Karo**\n**hh:etyp:Tarigan:Karo**\n**hh:g:Woollams:KaroBatak**\n**hh:s:Bangun:Karo**\n**hh:s:Joustra:Karosche**\n**hh:s:Neumann:Karo-Batak**\n**hh:s:TariganTarigan:Karo**\n**hh:s:Woollams:Karo**\n**hh:s:Yusmaniar:Karo**\n**hh:typ:Noor:Karo**\n**hh:w:Stokhof:Holle:Northern-Sumatra**\n**mpieva:Neumann1951KaroBata**\n**mpieva:Warneck1905Tobabata**"
+  },
+  "altnames": {
+    "wals": "\nBatak (Karo)",
+    "wals other": "\nKaro Batak\nKaro-Batak",
+    "ruhlen (1987)": "\nKaro Batak",
+    "moseley & asher (1994)": "\nKaro Batak",
+    "multitree": "\nBatak (Karo)\nBatak Karo\nKaro Batak",
+    "lexvo": "\nBahasa Batak Karo [id]\nBatak Karo [en]\nBatak Karo language [en]\nKaro batak [fr]\nバタク・カロ語 [ja]",
+    "hhbib_lgcode": "\nBatak-Karo\nKaro",
+    "elcat": "\nBatak Karo\nKaro Batak"
+  },
+  "triggers": {
+    "lgcode": "\nbataks\nspraakkunst AND bataksche\ntijdschrift\ntobabataksch\nkarosche"
+  },
+  "identifier": {
+    "wals": "bkr",
+    "multitree": "btx",
+    "endangeredlanguages": "10889"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran** **hh:hv:Adelaar:Proto-Batak**",
+    "subrefs": "\n**hh:hv:Adelaar:Proto-Batak**\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Batak Karo (btx-btx) = 6b (Threatened)."
+  }
+}

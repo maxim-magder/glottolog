@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Even",
+    "hid": "eve",
+    "level": "language",
+    "iso639-3": "eve",
+    "latitude": "70.6687",
+    "longitude": "130.914",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Even](https://endangeredlanguages.com/lang/4142)\n[Even](https://grambank.clld.org/languages/even1260)\n[Even](https://wals.info/languoid/lect/wals_code_evn)\nhttps://en.wikipedia.org/wiki/Even_language\nhttps://phoible.org/languages/even1260\nhttps://www.wikidata.org/entity/Q29960"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4637**\n**cldf:alpatov:ed:97:6**\n**cldf:cincius:rises:52**\n**cldf:comrie:96**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:comrie:polinsky:ed:93:1**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:malchukov:01**\n**cldf:malchukov:07**\n**cldf:malchukov:95**\n**cldf:novikova:66**\n**cldf:novikova:97**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:sem:ed:83:10**\n**cldf:sem:ed:83:9**\n**cldf:xrakovskij:ed:01:3**\n**hh:d:Doerfer:Lamutische**\n**hh:d:RobbekRobbek:Evensko**\n**hh:e:Osenina:Even**\n**hh:e:Tugolukov:Tungusy**\n**hh:e:Turaev:Evenov**\n**hh:g:Benzing:Lamutische**\n**hh:g:Juwon:Ewen**\n**hh:g:Lebedev:Evenov**\n**hh:g:Novikova:Olskij**\n**hh:g:Novikova:Olskij:1980**\n**hh:hew:Witsen:Tartarye**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Aralova:Even**\n**hh:s:Bogoraz:Lamutskomu**\n**hh:s:Dutkin:Allaixovskij**\n**hh:s:Dutkin:Tundrennyj-Evenskogo**\n**hh:s:Kuzmina:Lamunxinskix-Evenov**\n**hh:s:Malchukov:Even**\n**hh:s:Malchukov:Ewen**\n**hh:s:Robbek:Evenov**\n**hh:s:Tsintsius:Lamutskogo**\n**hh:st:Kazama:Ewen**\n**hh:t:Schiefner:Tungusische**\n**hh:w:Dutkin:Evenskij**\n**hh:w:Kazama:Tungusic**\n**hh:w:LessepsGalaup:Kamtschadale-Koriaque-Tschouktchi-Lamoute**\n**hh:w:Pallas:Vocabularia**\n**mpieva:Cincius1952Russkoev**\n**mpieva:Dutkin1990Terminyo**\n**mpieva:Halen1978Westlamu**\n**mpieva:Malchukov1995Even**\n**mpieva:Malcukov1999Sintaksi**\n**mpieva:Malcukov2008Sintaksi**\n**mpieva:Novikova1951Tanganma**\n**mpieva:Novikova1960Naseslov**\n**mpieva:Novikova1980Ocerkidi**\n**mpieva:Robbek1988Slovarev**\n**mpieva:Robbek2004Evedynju**"
+  },
+  "altnames": {
+    "wals": "\nEven",
+    "wals other": "\nLamut",
+    "ruhlen (1987)": "\nEven",
+    "moseley & asher (1994)": "\nEven",
+    "lexvo": "\nBahasa Even [ms]\nEveens [nl]\nEven [ca]\nEven language [en]\nEven nyelv [hu]\nEvena lingvo [eo]\nEveneg [br]\nEvenin kieli [fi]\nEvensk [no]\nEvensk språk [nn]\nEvenčina [sk]\nEvenų kalba [lt]\nEwenische Sprache [de]\nJęzyk eweński [pl]\nLingua evena [it]\nLíngua even [pt]\nÉvène [fr]\nЕвенски език [bg]\nЕвенски јазик [mk]\nЭбээн тыла [sah]\nЭвенский язык [ru]",
+    "hhbib_lgcode": "\nAnadyr Even\nDistrict of Bystraia on the Kamchatka Peninsula (Eastern dialect)\nEwen\nLamoute\nLamunxinskix Èvenov\nLamut\nLamutsche\nLamutski\nSebian-Küöl in Yakutia (Western dialect)\nÈveny",
+    "elcat": "\nEben\nEven\nEwen\nEwenische\nIlqan\nLamut\nLamuti\nLamutische\nNortheastern Tungus\nOrich\nTungusisabatschi\neved'i toren\nlama-dī\nламутский язык\nэвенский язык\nэвэды торэн"
+  },
+  "triggers": {
+    "lgcode": "\nsematiceskie\nwestlamutische\nkamchatka\ntoreruk\nevenskij\nsemanticeskie\nlamutische\nevenov\newen\nnonap\nolskij"
+  },
+  "identifier": {
+    "wals": "evn",
+    "endangeredlanguages": "4142"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Whaley:Tungusic**",
+    "subrefs": "\n**hh:hv:Whaley:Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Even (4142-eve) = Severely Endangered (80 percent certain, based on the evidence available) [Salminen 2000](cldf:salminen:00)"
+  }
+}

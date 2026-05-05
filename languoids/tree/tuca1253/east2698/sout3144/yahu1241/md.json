@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yahuna",
+    "hid": "ynu",
+    "level": "language",
+    "iso639-3": "ynu",
+    "latitude": "-0.505365",
+    "longitude": "-70.478211",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "CO"
+    ],
+    "links": "\n[Yahuna](https://endangeredlanguages.com/lang/1641)\nhttps://en.wikipedia.org/wiki/Yahuna_language\nhttps://www.wikidata.org/entity/Q8050347",
+    "timespan": "1910-01-01/1910-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ardila:10**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:crevels:12:3**\n**cldf:lewis:ed:09**\n**hh:hw:Koch-Grunberg:Betoya**\n**hh:hw:Martius:Brasiliens**"
+  },
+  "altnames": {
+    "multitree": "\nJaúna\nYahuna\nYauna\nYayuna\nYaúna",
+    "lexvo": "\nYahuna [en]",
+    "hhbib_lgcode": "\nJaúna\nYahúna of Schmidt",
+    "elcat": "\nJaúna\nYahuna\nYauna\nYayuna\nYaúna"
+  },
+  "triggers": {
+    "lgcode": "\ndatuana"
+  },
+  "identifier": {
+    "multitree": "ynu",
+    "endangeredlanguages": "1641"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chacon:Proto-Tukanoan** **hh:gd:Ramirez:Yepa-Masa:2019**:5-7",
+    "subrefs": "\n**hh:hv:Chacon:Proto-Tukanoan**\n**hh:gd:Ramirez:Yepa-Masa:2019**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yahuna (1641-ynu) = Dormant (Extinct) [Ardila 2010](cldf:ardila:10)"
+  }
+}

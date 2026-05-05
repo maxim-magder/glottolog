@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ibanag",
+    "hid": "ibg",
+    "level": "language",
+    "iso639-3": "ibg",
+    "latitude": "17.4201",
+    "longitude": "121.891",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Ibanag](https://grambank.clld.org/languages/iban1267)\n[Ibanag](https://wals.info/languoid/lect/wals_code_ibn)\nhttps://en.wikipedia.org/wiki/Ibanag_language\nhttps://www.wikidata.org/entity/Q1775596"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:mcfarland:77**\n**hh:d:Ibarbia:Ibanag**\n**hh:g:Dita:Ibanag**\n**hh:g:Dita:Ibanag:2007**\n**hh:g:Fausto:Ybanag**\n**hh:hld:Llamzon:Philippine**\n**hh:hw:Vanoverbergh:Luzon**\n**hh:typ:Dita:Ibanag**"
+  },
+  "altnames": {
+    "wals": "\nIbanag",
+    "ruhlen (1987)": "\nIbanag",
+    "moseley & asher (1994)": "\nIbanag",
+    "multitree": "\nIbanag\nYbanag",
+    "lexvo": "\nIbanag [de]\nIbanag language [en]\nIbanag-ngî [hak]\nPagsasao nga Ibanag [ilo]\nWikang Ibanag [tl]\nภาษาอีบานัก [th]",
+    "hhbib_lgcode": "\nThe Ibanags"
+  },
+  "triggers": {
+    "lgcode": "\nibanag"
+  },
+  "identifier": {
+    "wals": "ibn",
+    "multitree": "ibic;ibg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Reid:Northern-Luzon**",
+    "subrefs": "\n**hh:hv:Reid:Northern-Luzon**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ibanag (ibg-ibg) = 6b (Threatened). De facto language of provincial identity in Cagayan and Isabela provinces."
+  }
+}

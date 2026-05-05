@@ -1,0 +1,31 @@
+{
+  "core": {
+    "name": "Jumano",
+    "hid": "NOCODE_Jumano",
+    "level": "language",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "longitude": "-104.39797",
+    "latitude": "29.52316",
+    "timespan": "1580-01-01/1750-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Troike:Amotomanco-Uto-Aztecan**\n**hh:soc:Hickerson:Jumano**"
+  },
+  "triggers": {
+    "lgcode": "\njumano"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nJumano is not attested\nprobably Sonoran affiliation. Jumano is not attested"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Jumano (NOCODE_Jumano-NOCODE_Jumano) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ikizu",
+    "hid": "ikz",
+    "level": "language",
+    "iso639-3": "ikz",
+    "latitude": "-1.9915",
+    "longitude": "34.3589",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TZ"
+    ],
+    "links": "\n[Ikizu](https://endangeredlanguages.com/lang/5066)\nhttps://www.wikidata.org/entity/Q10977626\nhttps://en.wikipedia.org/wiki/Ikizu_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**eballiso2009:10954**\n**eballiso2009:29569**\n**eballiso2009:2961**\n**eballiso2009:37303**\n**eballiso2009:42054**\n**eballiso2009:44125**\n**eballiso2009:47375**\n**eballiso2009:50699**\n**eballiso2009:59264**\n**eballiso2009:7057**\n**hh:d:Sewangi:Kiikiizo**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:htyp:Aunio:Mara**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvtyp:Walker:Mara-Bantu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:typ:Gray:Ikizu**\n**hh:typ:RobinsonSandeen:Ikizu**\n**hh:w:Johnston:Kishashi**\n**iso6393:2007-033**"
+  },
+  "altnames": {
+    "multitree": "\nIkikizo\nIkikizu\nIkizu\nKiikizu",
+    "lexvo": "\nIkizu [en]",
+    "hhbib_lgcode": "\nIkiShashi\nIkiZu\nJE402_Ikizu\nJE404_Shasi\nKiikiizo\nKishashi\nShashi\nSizaki",
+    "elcat": "\nIkikizo\nIkikizu\nIkizu\nKiikizu"
+  },
+  "triggers": {
+    "lgcode": "\nkiikizo\nvolkstamme\nshashi\nikizu"
+  },
+  "identifier": {
+    "multitree": "ikz-iki;ikz",
+    "endangeredlanguages": "5066"
+  },
+  "classification": {
+    "sub": "**hh:v:RothGibson:Ngoreme**",
+    "subrefs": "\n**hh:v:RothGibson:Ngoreme**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ikizu (5066-ikz) = At risk (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

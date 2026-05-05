@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kusu",
+    "hid": "ksv",
+    "level": "language",
+    "iso639-3": "ksv",
+    "latitude": "-3.61459",
+    "longitude": "25.2923",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6448199\nhttps://en.wikipedia.org/wiki/Kusu_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:torday:joyce:22**\n**cldf:vanlaere:00**\n**eballiso2009:13157**\n**eballiso2009:15310**\n**eballiso2009:2404**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:25996**\n**eballiso2009:28707**\n**eballiso2009:32534**\n**eballiso2009:37408**\n**eballiso2009:42433**\n**eballiso2009:48214**\n**eballiso2009:48314**\n**hh:h:Cordella:Maniema**\n**hh:hdial:LabaereShango:Otetela**\n**hh:hew:Johnston:British-Central-Africa**\n**hh:hew:Johnston:Grenfell-Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Motingea:Nkutsu**\n**hh:hw:Stuhlmann:Zentralafrikanischer**\n**hh:s:Kahindo-Lufungula:Kusu**\n**hh:typ:Mizaba:Kikusu**\n**hh:w:Verhulpen:Balubaises**"
+  },
+  "altnames": {
+    "multitree": "\nFuluka\nKikusu\nKongola\nKusu\nKutsu\nLokutsu",
+    "lexvo": "\nKusu [en]",
+    "hhbib_lgcode": "\nAkusu in Lubefu et Kibombo territory\nBacusu\nBakusu\nBakusu au nord du district du Lomami et au Sud du district Maniema\nKi-Kussu\nKikusu\nKucu 1 C72 Matapa-Lungu-zone de Kibombo\nKucu 2 C72 Weta-zone de Kibombo\nManiema-Bakusu\nManyema (Kusu) C72\nN-Kusu or S Manyema\nNkutsu-Kindu\nTschomba (Wa-Kussu) variant of Kusu\nVokabularium verdanke ich meinem sehr intelligenten Mukusu-Träger namens Feruzi der mir auch die Angaben über die Etappenpunkte auf dem Wege von Udjidji nach seiner Heimat geliefert hat die auf den Seiten 255 und 236 dieses Bandes angeführt wurden (p 615) numerals match ok with Bakusu in Verhulpen"
+  },
+  "triggers": {
+    "lgcode": "\ncentenaire\ndescente\nkusu\nbasankusu\norientalis\ndossier\nlomela\ncendo\nzentralafrikanischer"
+  },
+  "identifier": {
+    "multitree": "ksv"
+  },
+  "classification": {
+    "sub": "**hh:g:Jacobs:Tetela** **hh:hvw:Motingea:Nkutsu** **hh:g:Wetshemongo:Otetela**:9-11",
+    "subrefs": "\n**hh:g:Wetshemongo:Otetela**\n**hh:hvw:Motingea:Nkutsu**\n**hh:g:Jacobs:Tetela**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kusu (ksv-ksv) = 6a (Vigorous)."
+  }
+}

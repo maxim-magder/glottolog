@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Spanish Sign Language",
+    "hid": "ssp",
+    "level": "language",
+    "iso639-3": "ssp",
+    "latitude": "40.0314",
+    "longitude": "-3.70738",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3100814\nhttps://en.wikipedia.org/wiki/Spanish_Sign_Language\n[Lengua de Señas Española](https://wals.info/languoid/lect/wals_code_lse)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Villabrille:Mimica**\n**hh:g:Herrero-Blanco:Signos-Espanola**\n**hh:h:Rodriguez:Lenguaje-Signos**\n**hh:hv:ParkhurstParkhurst:Comparisons-Signed**\n**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**\n**hh:s:Cabeza-Pereiro:Spanish-Sign**\n**hh:s:Morales-Lopez:Signos-Espanola**\n**hh:s:Rodriguez-Gonzalez:Lenguaje-Signos**\n**hh:soc:Gonzalez:Signos-Galega**\n**hh:socdial:Perez:Signos-Espana**\n**hh:typ:Bobillo:LSE-Orden**\n**hh:typ:Iglesias:Signos-Espanola**\n**hh:typ:Meltem:Spanish-Sign**\n**hh:typ:Morales-Lopez:Spanish-Signed**\n**hh:typ:Morales-Lopez:Spanish-Signed-Word-Order:2012**\n**hh:vld:ParkhurstParkhurst:Lenguas-Signos**\n**hh:w:Xordas:Mans**\n**hh:wtyp:Hervas:Sordomudos**\n**sil16:47855**\n**sil16:47856**\n**sil16:48289**"
+  },
+  "altnames": {
+    "wals": "\nLengua de Señas Española",
+    "wals other": "\nMímica\nSpanish Sign Language",
+    "multitree": "\nMímica\nSpanish Sign Language",
+    "lexvo": "\nLangue des signes espagnole [fr]\nLengua de signos española [es]\nSpanish Sign Language [en]\nSpanish Sign language [en]",
+    "hhbib_lgcode": "\nAlmería LSE\nBilbao LSE\nCórdoba LSE\nGranada LSE\nJerez LSE\nLa Coruña LSE\nLengua de Signos Española\nLingua de signos galega\nMadrid LSE\nMálaga LSE\nOviedo LSE\nSan Sebastian LSE\nSantander LSE\nSantigago LSE\nTenerife LSE\nValladolid\nVigo LSE\nZaragoza LSE"
+  },
+  "identifier": {
+    "wals": "lse",
+    "multitree": "ssp"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Spanish Sign Language (ssp-ssp) = 6b (Threatened). Recognized language (2007, Law 27/2007, Official language of deaf community)."
+  },
+  "classification": {
+    "sub": "Catalan Sign Language [cata1241], Valencian Sign Language [vale1251], Spanish Sign Language [span1263] (including Galician) clearly form a tight-knit family lexicostatistically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**, **hh:h:Quer:Sign-Mediterranean**:98, **hh:s:Cabeza-Pereiro:Spanish-Sign**:729). Venezuelan Sign Language [vene1237] has a historical connection and also belongs to this family (**hh:soc:WilliamsParks:Deaf-Venezuela**):9. This family has an independent history (**hh:s:Cabeza-Pereiro:Spanish-Sign**):730-731 and (contra **hh:hv:Wittmann:Classification-Signees**:282) is not related to LSF, at least not so that it can be traced lexically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22, nor to Lengua de Señas Mexicana (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22.",
+    "subrefs": "\n**hh:s:Cabeza-Pereiro:Spanish-Sign**\n**hh:h:Quer:Sign-Mediterranean**\n**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**\n**hh:hv:Wittmann:Classification-Signees**\n**hh:soc:WilliamsParks:Deaf-Venezuela**"
+  }
+}

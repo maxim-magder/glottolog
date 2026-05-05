@@ -1,0 +1,52 @@
+{
+  "core": {
+    "name": "Tuvalu",
+    "hid": "tvl",
+    "level": "language",
+    "iso639-3": "tvl",
+    "latitude": "-8.520813",
+    "longitude": "179.198088",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FJ",
+      "KI",
+      "NR",
+      "NZ",
+      "TV"
+    ],
+    "links": "\n[Nanumea](https://wals.info/languoid/lect/wals_code_nnm)\n[Tuvalu](https://grambank.clld.org/languages/tuva1244)\n[Tuvalu_753](https://lexibank.clld.org/languages/walworthpolynesian-Tuvalu)\n[Tuvaluan](https://endangeredlanguages.com/lang/3487)\n[Tuvaluan](https://wals.info/languoid/lect/wals_code_tvl)\nhttps://en.wikipedia.org/wiki/Tuvaluan_language\nhttps://www.wikidata.org/entity/Q34055"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hill:irvine:ed:92:3**\n**cldf:kennedy:31**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:white:65**\n**hh:d:Besnier:Tuvaluan**\n**hh:d:Ranby:Nanumea**\n**hh:g:Besnier:Tuvaluan**\n**hh:hew:Hale:Philology**\n**hh:s:JacksonJackson:Tuvaluan**\n**hh:s:Kennedy:Tuvaluan**\n**hh:s:Malherbe:Tuvaluan**\n**mpieva:Jackson2001Tuvaluan**\n**sil16:39552**"
+  },
+  "altnames": {
+    "wals": "\nNanumea\nTuvaluan",
+    "wals other": "\nEllice\nTuvaluan (North)",
+    "ruhlen (1987)": "\nTuvalu",
+    "moseley & asher (1994)": "\nTuvalu",
+    "multitree": "\nEllice\nEllicean\nTuvalu\nTuvaluan\nTuvaluano",
+    "lexvo": "\nBahasa Tuvalu [id]\nIdioma tuvaluano [es]\nJęzyk tuvalu [pl]\nLingua tuvaluana [it]\nLíngua tuvaluana [pt]\nTuvala lingvo [eo]\nTuvaliečių kalba [lt]\nTuvalu [en]\nTuvaluaans [nl]\nTuvaluan [fr]\nTuvaluan language [en]\nTuvaluanska [sv]\nTuvaluanski jezik [sh]\nTuvalueg [br]\nTuvaluera [eu]\nTuvalui nyelv [hu]\nTuvaluische Sprache [de]\nTuvalun kieli [fi]\nTuvalština [cs]\ntuvalu [fr]\nТувалу [ru]\nТувалуански език [bg]\nतुवालुयाई भाषा [hi]\nツバル語 [ja]\n图瓦卢语 [zh]",
+    "hhbib_lgcode": "\nDialect of Fataafo\nTokelauan and Vaitupu\nTuvaluan",
+    "elcat": "\nEllice\nEllicean\nTuvalu\nTuvaluan"
+  },
+  "triggers": {
+    "lgcode": "\nbesnier\nellice\ntuvaluan\nnanumea"
+  },
+  "identifier": {
+    "wals": "tvl;nnm",
+    "multitree": "tvl",
+    "endangeredlanguages": "3487"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian** **hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tuvaluan (3487-tvl) = Vulnerable (80 percent certain, based on the evidence available) [Besnier 2000](cldf:besnier:00)"
+  }
+}

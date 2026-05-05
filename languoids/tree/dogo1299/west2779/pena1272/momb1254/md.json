@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Mombo Dogon",
+    "hid": "dmb",
+    "level": "language",
+    "iso639-3": "dmb",
+    "latitude": "14.376155",
+    "longitude": "-3.664799",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Mombo](https://endangeredlanguages.com/lang/8739)\n[Mombo](https://lexibank.clld.org/languages/hantganbangime-Mombo)\nhttps://en.wikipedia.org/wiki/Mombo_Dogon\nhttps://www.wikidata.org/entity/Q6897074"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:heath:12**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:prokhorov:11**\n**hh:g:Prokhorov:Mombo**\n**hh:hw:Bertho:Dogon**\n**hh:hw:Hochstetler:Dogon**\n**hh:w:Blench:Ambaleenge**\n**hh:w:Blench:Nyambeenge**\n**iso6393:2010-018**"
+  },
+  "triggers": {
+    "lgcode": "\nambaleengge\nsongho\nmombo\nkema"
+  },
+  "classification": {
+    "sub": "**hh:g:Heath:Penange**:1-2",
+    "subrefs": "\n**hh:g:Heath:Penange**"
+  },
+  "identifier": {
+    "endangeredlanguages": "8739"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mombo (8739-dmb) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nEdyenge Do\nIdyoli Donge\nKema\nMombo\nNyambeenge\nPignari\nPinari",
+    "elcat": "\nKolu\nKolu So\nKolu-so\nKolum So\nKolum-so\nMombo\nMombo Dogon\nPignari"
+  }
+}

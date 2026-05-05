@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Pinotepa Nacional Mixtec",
+    "hid": "mio",
+    "level": "language",
+    "iso639-3": "mio",
+    "latitude": "16.3043",
+    "longitude": "-97.9966",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Mixtec (Jicaltepec)](https://wals.info/languoid/lect/wals_code_mxj)\nhttps://en.wikipedia.org/wiki/Pinotepa_Mixtec\nhttps://www.wikidata.org/entity/Q7196415"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:ld:Josserand:Mixteca**\n**hh:phon:Becerra:Mixteco-Tulixtlahuaca**\n**hh:s:Bradley:Jicaltepec-Mixtec**\n**hh:s:Bradley:Jicaltepec-Mixtec:1965**\n**hh:styp:Costello:Jicaltepec-Mixtec**\n**hh:styp:Garcia:Mixteco-San-Pedro-Jicayan**\n**hh:typ:Ramirez:Mixtecas**"
+  },
+  "altnames": {
+    "wals": "\nMixtec (Jicaltepec)",
+    "wals other": "\nCostal Mixteco\nJicaltepec Mixtec\nLowland Jicaltepec Mixteco\nWestern Jamiltepec Mixteco",
+    "ruhlen (1987)": "\nMisteko",
+    "moseley & asher (1994)": "\nMixtec",
+    "multitree": "\nCoastal Mixtec\nLowland Jicaltepec Mixtec\nMixtec (Jicaltepec)\nMixtec, Pinotepa Nacional\nMixteco (Pinotepa Nacional)\nMixteco de Pinotepa Nacional\nSouthern Misteko\nSouthern Mixteco\nWestern Jamiltepec Mixtec",
+    "lexvo": "\nPinotepa Nacional Mixtec [en]",
+    "hhbib_lgcode": "\n23 Pinotepa Don Luis Mixtec Josserand 1983\n32 San Antonio Tepetlapa Mixtec Josserand 1983\n39 San Francisco Sayultepec Mixtec Josserand 1983\n69 San Pedro Atoyac Mixtec Josserand 1983\n72 San Pedro Jicayan Mixtec Josserand 1983\n94 Santa Maria Jicaltepec Mixtec Dürr 1987; Josserand 1983\nAtoy\nAtoyac\nJicaltepec\nJicaltepec Mixtec\nJict\nJicy\nMixtec San Pedro Jicayan\nMixtec-Pinotepa Nacional\nMixteco de San Pedro Tulixtlahuaca\nPinL\nPinN\nPinotepa de Don Luis-Oaxaca\nPinotepa de Don Luís\nSan Antonio Tepetlapa\nSan Francisco de Asís Sayultepec\nSan Pedro Atoyac\nSan Pedro Jicayán\nSanta Maria Jicaltepec-Oaxaca\nSanta María Jicaltepec\nSantiago Pinotepa Nacional\nSayu\nTept"
+  },
+  "triggers": {
+    "lgcode": "\ntuun23\njicayan\njicaltepec\nsa3"
+  },
+  "identifier": {
+    "wals": "mxj",
+    "multitree": "mio",
+    "endangeredlanguages": "10528"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:13-14 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Coast Mixtec (10528-mio) = Vulnerable (20 percent certain, based on the evidence available) ['bib69']"
+  }
+}

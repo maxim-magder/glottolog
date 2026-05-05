@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Turkish Sign Language",
+    "hid": "tsm",
+    "level": "language",
+    "iso639-3": "tsm",
+    "latitude": "41.02675",
+    "longitude": "28.85551",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36885\nhttps://en.wikipedia.org/wiki/Turkish_Sign_Language\n[Türk Isaret Dili](https://wals.info/languoid/lect/wals_code_tui)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:s:DikyuvaZeshan:Turk-Isaret**\n**hh:s:Kubus:Turkish-Sign**\n**hh:s:Zeshan:Turk-Isaret**\n**hh:ssoc:Zeshan:Turk-Isaret**\n**hh:typ:Hakguder:Iconicity-Sign**\n**hh:typ:Karabuklu:Turkish-Sign**\n**hh:typ:Makaroglu:Turk-Isaret**\n**hh:typ:Zeshan:Turkish-Sign**\n**iso6393:2009-002**"
+  },
+  "altnames": {
+    "wals": "\nTürk Isaret Dili",
+    "multitree": "\nTurkish Sign Language",
+    "lexvo": "\nTurka mansigna lingvo [eo]\nTurkish Sign Language [en]\nTürk İşaret Dili [en]\nTürkische Gebärdensprache [de]",
+    "hhbib_lgcode": "\nTurkish Sign Language (TID)"
+  },
+  "triggers": {
+    "lgcode": "\nsaret\nbirinci\nduzey"
+  },
+  "identifier": {
+    "wals": "tui",
+    "multitree": "tsm"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Turkish Sign Language (tsm-tsm) = 6a (Vigorous). Recognized language (2005, Disabilities Act (Act No. 5378)), articles 15 and 30 provide for its use in education and communication, and for interpreting services. Recognized language (2006, The legislation on the identification of procedures and principles concerning the constitution and implementation of the Turkish sign language system, Official Gazette, No. 26139-14/4/2006), provides for a TİD Science and Approval Commission responsible for research and development, regulation of educational materials, and examination of interpreters; regulates sign language interpreters and teachers."
+  },
+  "classification": {
+    "sub": "Arguments for the independent development of TID from the 16th century is given in **hh:ssoc:Zeshan:Turk-Isaret(**):238-252.",
+    "subrefs": "\n**hh:ssoc:Zeshan:Turk-Isaret**"
+  }
+}

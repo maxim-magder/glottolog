@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Mirpur Panjabi",
+    "hid": "pmu",
+    "level": "dialect",
+    "latitude": "33.5582",
+    "longitude": "74.3713",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GB",
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6874480\nhttps://en.wikipedia.org/wiki/Mirpur_Punjabi",
+    "iso639-3": "pmu"
+  },
+  "classification": {
+    "sub": "**hh:s:Anonymous:Mirpuri**",
+    "subrefs": "\n**hh:s:Anonymous:Mirpuri**"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2014-023**"
+  },
+  "altnames": {
+    "multitree": "\nLahnda\nMirpur Panjabi\nMirpuri\nPanjabi, Mirpur",
+    "lexvo": "\nMirpur Panjabi [en]"
+  },
+  "triggers": {
+    "lgcode": "\nmirpuri"
+  },
+  "identifier": {
+    "multitree": "pmu"
+  },
+  "iso_retirement": {
+    "change_request": "2014-023",
+    "remedy": "Merged into Pahari-Potwari [phr]",
+    "code": "pmu",
+    "name": "Mirpur Panjabi",
+    "effective": "2015-01-12",
+    "reason": "merge",
+    "change_to": "\nphr"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Panjabi, Mirpur (pmu-pmu) = 6a (Vigorous)."
+  }
+}

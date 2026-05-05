@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Eritai",
+    "hid": "ert",
+    "level": "language",
+    "iso639-3": "ert",
+    "latitude": "-2.71182",
+    "longitude": "138.053",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Eritai](https://lexibank.clld.org/languages/transnewguineaorg-eritai)\nhttps://en.wikipedia.org/wiki/Eritai_language\nhttps://www.wikidata.org/entity/Q56376"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Clouse:WLakesPlains**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "altnames": {
+    "multitree": "\nAliki\nBabiruwa\nBabrua\nBabruwa\nBaburiwa\nBarua\nEditode Edai\nErai\nEri\nEritai\nHaya",
+    "lexvo": "\nEritai [en]",
+    "hhbib_lgcode": "\nBaburiwa\nBaburiwa (Br)"
+  },
+  "triggers": {
+    "lgcode": "\nplains AND lakes"
+  },
+  "identifier": {
+    "multitree": "ert"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Clouse:Lakes-Plain** **hh:hvw:Voorhoeve:Irian**",
+    "subrefs": "\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jogwai (ert-ert) = 6b* (Threatened)."
+  }
+}

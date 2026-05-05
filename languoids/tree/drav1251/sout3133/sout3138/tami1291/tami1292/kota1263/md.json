@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kota (India)",
+    "hid": "kfe",
+    "level": "language",
+    "iso639-3": "kfe",
+    "latitude": "11.4978",
+    "longitude": "76.9387",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Kota](https://wals.info/languoid/lect/wals_code_kot)\n[Kota (India)](https://endangeredlanguages.com/lang/4369)\n[Kota (India)](https://grambank.clld.org/languages/kota1263)\nhttps://en.wikipedia.org/wiki/Kota_language_(India)\nhttps://phoible.org/languages/kota1263\nhttps://www.wikidata.org/entity/Q33483"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agesth:gowda:ed:76:7**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:emeneau:ed:69**\n**cldf:lewis:ed:09**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:reddy:16**\n**cldf:reddy:ed:03:6**\n**hh:g:Subbiah:Kota**\n**hh:g:Subbiah:Kota:1973**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:st:Emeneau:Kota**\n**hh:t:Grierson:Madras**"
+  },
+  "altnames": {
+    "wals": "\nKota",
+    "wals other": "\nKota (in India)",
+    "ruhlen (1987)": "\nKota",
+    "moseley & asher (1994)": "\nKota",
+    "multitree": "\nCota\nKota\nKother-Tamil\nKotta\nKowe-Adiwasi\nKôta\nKōta",
+    "lexvo": "\nKota (India) [en]\nKota [en]",
+    "hhbib_lgcode": "\nKota",
+    "elcat": "\nKota (India)\nKother-Tamil\nKotta\nKowe-Adiwasi\nKôta\nKōta"
+  },
+  "triggers": {
+    "lgcode": "\ntexts AND kota"
+  },
+  "identifier": {
+    "wals": "kot",
+    "multitree": "kfe",
+    "endangeredlanguages": "4369"
+  },
+  "classification": {
+    "sub": "**hh:hv:Krishnamurti:Dravidian**",
+    "subrefs": "\n**hh:hv:Krishnamurti:Dravidian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Kota (India) (4369-kfe) = Endangered (40 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

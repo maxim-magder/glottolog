@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Northwest Oaxaca Mixtec",
+    "hid": "mxa",
+    "level": "language",
+    "iso639-3": "mxa",
+    "latitude": "17.8287",
+    "longitude": "-98.0574",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Central Baja Mixtec](https://endangeredlanguages.com/lang/10527)\nhttps://www.wikidata.org/entity/Q12953739"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hdial:Eglandetal:Mexico**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "altnames": {
+    "multitree": "\nMixtec, Northwest Oaxaca\nMixteco de Yucuná\nMixteco del Noroeste de Oaxaca\nNorthern Misteko\nNorthern Mixteco",
+    "lexvo": "\nNorthwest Oaxaca Mixtec [en]",
+    "elcat": "\nCentral Baja Mixtec\nMixteco de Yucuná\nMixteco del Noroeste de Oaxaca\nMixteco del noroeste\nNorthwest Oaxaca Mixtec\nSilacayoapan Mixtec",
+    "hhbib_lgcode": "\n16 Guadalupe Villahermosa Mixtec Josserand 1983\nAmat\nFlor\nGuad\nGuadalupe Portezuelo (Silacayoapan)\nGuadalupe Portezuelo/Villahermosa\nSan Francisco de las Flores\nSan Miguel Amatitlán"
+  },
+  "identifier": {
+    "multitree": "mxa",
+    "endangeredlanguages": "10527"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:18-20 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Central Baja Mixtec (10527) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

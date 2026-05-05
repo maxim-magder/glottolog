@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Baikeno",
+    "hid": "bkx",
+    "level": "language",
+    "iso639-3": "bkx",
+    "latitude": "-9.32991",
+    "longitude": "124.256",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "TL"
+    ],
+    "links": "\n[Baikeno](https://endangeredlanguages.com/lang/7229)\n[Baikeno](https://grambank.clld.org/languages/baik1238)\nhttps://www.wikidata.org/entity/Q11200640"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hvtyp:Hull:Timoric**\n**hh:hvw:Capell:Timor**\n**hh:hvw:Hull:Timor:Austronesian**\n**hh:s:Hull:Baikenu**\n**hh:w:Riedel:Timor**\n**langsci:capell:44**\n**mpieva:Hull2001Baikenul**"
+  },
+  "altnames": {
+    "multitree": "\nAmbeno\nAmbenu\nBaikeno\nBaikenu\nBiqueno\nOe Cusi\nOecussi\nOekusi\nUab Meto\nUab Pah Meto\nVaikenu\nVaikino",
+    "lexvo": "\nBaikeno [en]",
+    "hhbib_lgcode": "\n= Baikeno\nBaikenu\nTaibenosch\nVaikenu\nVaiqueno",
+    "elcat": "\nAmbeno\nAmbenu\nBaikeno\nBaikenu\nBiqueno\nOe Cusi\nOecussi\nOekusi\nUab Meto\nUab Pah Meto\nVaikenu\nVaikino"
+  },
+  "triggers": {
+    "lgcode": "\nbaikenu\nambeno\noecussi"
+  },
+  "identifier": {
+    "multitree": "bkx",
+    "endangeredlanguages": "7229"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:180-188",
+    "subrefs": "\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baikeno (7229-bkx) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Hasha",
+    "hid": "ybj",
+    "level": "language",
+    "iso639-3": "ybj",
+    "latitude": "9.14063",
+    "longitude": "8.66137",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Hasha](https://endangeredlanguages.com/lang/485)\nhttps://www.wikidata.org/entity/Q3915338\nhttps://en.wikipedia.org/wiki/Hasha_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2285**\n**cldf:blench:11:1**\n**cldf:blench:99:3**\n**cldf:dimmendaal:voeltz:07**\n**eballiso2009:17140**\n**eballiso2009:34768**\n**eballiso2009:51210**\n**hh:hel:Sommer:Survey**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:w:Blench:Hasha**\n**hh:wsoc:Decker:Hasha**"
+  },
+  "altnames": {
+    "multitree": "\nHasha\nYashi",
+    "lexvo": "\nHasha [en]",
+    "elcat": "\nHasha\nYashi",
+    "hhbib_lgcode": "\nHusu\nKwaan\nYashi"
+  },
+  "triggers": {
+    "lgcode": "\nhasha"
+  },
+  "identifier": {
+    "multitree": "ybj",
+    "endangeredlanguages": "485"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:26-27",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hasha (485-ybj) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

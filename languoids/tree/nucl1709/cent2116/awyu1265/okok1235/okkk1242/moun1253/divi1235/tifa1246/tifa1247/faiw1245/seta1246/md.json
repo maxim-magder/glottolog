@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Setaman",
+    "hid": "stm",
+    "level": "language",
+    "iso639-3": "stm",
+    "latitude": "-5.31134",
+    "longitude": "141.833",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Setaman](https://endangeredlanguages.com/lang/5424)\n[Setaman (Baktamin Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-setaman-baktamin)\n[Setaman (Ngisokabip Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-setaman-ngisokabip)\n[Setaman (Seltamin Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-setaman-seltamin)\nhttps://en.wikipedia.org/wiki/Setaman_language\nhttps://www.wikidata.org/entity/Q7456333"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:e:Akimichi:Seltaman**\n**hh:e:Barth:Baktaman**\n**hh:he:Barth:Fly**\n**hh:hvw:Healey:Ok**\n**hh:wsoc:VanCottSpencer:Setaman**"
+  },
+  "altnames": {
+    "multitree": "\nSetaman\nSetamin",
+    "lexvo": "\nSetaman [en]",
+    "hhbib_lgcode": "\n86 proc (closest) to Seltamin\nBaktaman\nBaktamin\nFS Faiwol-Setaman",
+    "elcat": "\nSetaman\nSetamin"
+  },
+  "triggers": {
+    "lgcode": "\nsetaman\nbaktaman\nstm"
+  },
+  "identifier": {
+    "multitree": "stm",
+    "endangeredlanguages": "5424"
+  },
+  "classification": {
+    "sub": "**hh:hv:Steer:Upper-Sepik**:45-47",
+    "subrefs": "\n**hh:hv:Steer:Upper-Sepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Setaman (5424-stm) = Threatened (60 percent certain, based on the evidence available) (Setaman is the primary language used in the home and for traditional activities and local legal proceedings. Tok Pisin is used alongside Setaman in prayer at home, joking and sports. Tok Pisin is used primarily in town and in interactions with outsiders who don’t understand the vernacular.) [Cott and Spencer 2010](cldf:cott:spencer:10)"
+  }
+}

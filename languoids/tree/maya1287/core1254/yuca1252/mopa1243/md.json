@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Mopan",
+    "hid": "mop",
+    "level": "language",
+    "iso639-3": "mop",
+    "latitude": "16.3533",
+    "longitude": "-89.0673",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "BZ",
+      "GT"
+    ],
+    "links": "\n[Mopan](https://wals.info/languoid/lect/wals_code_mop)\n[Mopán](https://endangeredlanguages.com/lang/4694)\n[Mopán Maya](https://grambank.clld.org/languages/mopa1243)\nhttps://en.wikipedia.org/wiki/Mopan_language\nhttps://www.wikidata.org/entity/Q36183"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3539**\n**asjp2010:629**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:danziger:96**\n**cldf:ed:10**\n**cldf:hofling:07**\n**cldf:lewis:ed:09**\n**cldf:np:09:1**\n**cldf:np:10:2**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:pellicer:05**\n**cldf:richards:03**\n**cldf:ulrich:86:2**\n**hh:d:Sosa:Mopan**\n**hh:d:UlrichUlrich:Maya-Mopan**\n**hh:g:Schumann:Maya-Mopan**\n**hh:hew:Sapper:Anahuac**\n**hh:hv:Mayers:Mayan**\n**hh:hv:VielmanMayers:Guatemala**\n**hh:hvs:Yasugi:Mayas-Guatemala**\n**hh:hw:Cab:Mayas**\n**hh:ld:Contini-MoravaDanziger:Mopan-Maya**\n**hh:ld:Danziger:Mopan-Maya:Kinship-Acquisition**\n**hh:ld:Kita:Mopan-Maya:Gestures**\n**hh:s:Hoagland:Mopan-Maya**\n**hh:s:UlrichUlirch:Mopan**\n**hh:soc:Danziger:Mopan-Maya:Gendered**\n**hh:soc:Danziger:Mopan-Maya:Semantique**\n**hh:t:Shaw:Guatemala-Honduras**\n**hh:typ:Contini-MoravaDanziger:Mopan-Maya**\n**hh:typ:Danziger:Moan-Maya:1991**\n**hh:typ:Danziger:Mopan-Maya:Eye-Beholder**\n**hh:typ:Danziger:Mopan-Maya:Once-More**\n**hh:typ:Danziger:Mopan-Maya:Out**\n**hh:typ:Danziger:Mopan-Maya:Parts**\n**hh:typ:Danziger:Mopan-Maya:Point-View**\n**hh:typ:Danziger:Mopan-Maya:Whorfian**\n**hh:v:Verbeeck:Mopan-Maya**\n**mpieva:Barrera2001Dicciona**\n**mpieva:Danzinger2001Relative**\n**mpieva:Zavala1974Gramatic**\n**sil16:10031**\n**sil16:10047**\n**sil16:12566**\n**sil16:12567**\n**sil16:13499**\n**sil16:13500**\n**sil16:13501**\n**sil16:13502**\n**sil16:13503**\n**sil16:13504**\n**sil16:13505**\n**sil16:13506**\n**sil16:13507**\n**sil16:13508**\n**sil16:13509**\n**sil16:13510**\n**sil16:13511**\n**sil16:16757**\n**sil16:16758**\n**sil16:20126**\n**sil16:20127**\n**sil16:22722**\n**sil16:22972**\n**sil16:33545**\n**sil16:50519**"
+  },
+  "altnames": {
+    "glottolog": "\nMopan Maya\nMopán Maya",
+    "wals": "\nMopan",
+    "ruhlen (1987)": "\nMopán",
+    "moseley & asher (1994)": "\nMopan",
+    "multitree": "\nMaya\nMaya Mopán\nMaya, Mopán\nMopan\nMopane\nMopn Maya\nMopán\nMopán (Belize)\nMopán (Guatemala)",
+    "lexvo": "\nIdioma mopan [es]\nLíngua mopan [pt]\nMaya mopan [fr]\nMopan [nl]\nMopan language [en]\nMopán Maya [en]\nМопански јазик [mk]",
+    "hhbib_lgcode": "\nMaya von S. Luis (Mopan)\nMopan\nMopán Maya",
+    "elcat": "\nMaya\nMopan\nMopan Maya\nMopane\nMopán"
+  },
+  "triggers": {
+    "lgcode": "\ntziib\nmopan\npucaal\nmayers\nquiil\netel\ntzetzeec\nserio\nwila\ncontinentes\nwutzquintic\nuchben"
+  },
+  "identifier": {
+    "wals": "mop",
+    "multitree": "mop",
+    "endangeredlanguages": "4694"
+  },
+  "classification": {
+    "sub": "**hh:typ:Lehmann:Yucatec**:174-175",
+    "subrefs": "\n**hh:typ:Lehmann:Yucatec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mopán (4694-mop) = Vulnerable (20 percent certain, based on the evidence available) [Hofling 2007](cldf:hofling:07)"
+  }
+}

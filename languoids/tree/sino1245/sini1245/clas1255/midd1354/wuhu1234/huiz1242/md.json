@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hui Chinese",
+    "hid": "czh",
+    "level": "language",
+    "iso639-3": "czh",
+    "latitude": "29.7646",
+    "longitude": "118.232",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56546\nhttps://en.wikipedia.org/wiki/Huizhou_Chinese"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Cao:Yanzhou:2017**\n**hh:g:Lu:Tunxi-Hui**\n**hh:hv:ChappellLi:Sinitic**\n**hh:hv:Lien:Min**\n**hh:hv:Zhao:Hui**\n**hh:phon:Xing:Chaohu**\n**hh:s:Cao:Yanzhou**\n**hh:s:Hou:Huiyu**\n**hh:s:Meng:Anhui**\n**hh:s:Peng:Anhui**\n**hh:s:ZhaoYang:Jixi-Lingbei**\n**hh:sv:Hirata:Huizhou**\n**iso6393:2019-061**"
+  },
+  "altnames": {
+    "multitree": "\nChinese, Huizhou\nChinese,Huizhou\nHuizhou\nHuizhou Chinese",
+    "lexvo": "\nHui [fr]\nHui-Dialekt [de]\nHuizhou Chinese [en]\nSinaeg Huizhou [br]\n徽州話 [yue]\n徽語 [ja]\n徽语 [zh]",
+    "hhbib_lgcode": "\n8 Huizhou dialects\nAnhui\nChinese-Huizhou\nHui\nHuizhou\nHuizhou Chinese\nJixi\nTunxi Hui\nYanzhou"
+  },
+  "triggers": {
+    "lgcode": "\nhuizhou"
+  },
+  "identifier": {
+    "multitree": "czh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Zhao:Hui**",
+    "subrefs": "\n**hh:hv:Zhao:Hui**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinese, Huizhou (czh-czh) = 5 (Developing). Language of recognized nationality: Han."
+  }
+}

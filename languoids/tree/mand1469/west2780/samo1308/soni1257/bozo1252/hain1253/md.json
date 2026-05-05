@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hainyaxo Bozo",
+    "hid": "bzx",
+    "level": "language",
+    "iso639-3": "bzx",
+    "latitude": "13.8734",
+    "longitude": "-5.65085",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11159536\nhttps://phoible.org/languages/hain1253"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2099**\n**eballiso2009:10068**\n**eballiso2009:16723**\n**eballiso2009:21073**\n**eballiso2009:27219**\n**eballiso2009:29683**\n**eballiso2009:31899**\n**hh:g:Heath:Kelenga**\n**hh:hvdial:BleckeBlecke:Bozo**\n**hh:hvw:Creissels:Bozo**\n**hh:hvw:Vydrine:Mande**\n**hh:typ:Ebermann:Kelinga-Bozo**\n**iso6393:2010-021**"
+  },
+  "altnames": {
+    "multitree": "\nBoso\nBozo, Hainyaxo\nHain\nHainyaxo\nHanyaxo\nKelenga\nKélinga\nKéllingua\nXan\nXanyaxo",
+    "lexvo": "\nHainyaxo Bozo [en]",
+    "hhbib_lgcode": "\nBozo Kelinga\nHainyaxo\nKelenga Bozo\nKelinga"
+  },
+  "triggers": {
+    "lgcode": "\nNOT im AND NOT the AND bozo\nbouzou"
+  },
+  "identifier": {
+    "multitree": "bzx"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Kastenholz:Samogo**:100 **hh:hv:Kastenholz:West-Mande**",
+    "subrefs": "\n**hh:hvtyp:Kastenholz:Samogo**\n**hh:hv:Kastenholz:West-Mande**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bozo, Kelengaxo (bzx-bzx) = 6a (Vigorous)."
+  }
+}

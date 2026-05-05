@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Wersing",
+    "hid": "kvw",
+    "level": "language",
+    "iso639-3": "kvw",
+    "latitude": "-8.33936",
+    "longitude": "124.932",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kolana](https://wals.info/languoid/lect/wals_code_kln)\n[Wersing](https://endangeredlanguages.com/lang/9509)\n[Wersing](https://lexibank.clld.org/languages/robinsonap-wersing)\n[Wersing](https://lexibank.clld.org/languages/transnewguineaorg-wersing)\nhttps://en.wikipedia.org/wiki/Wersing_language\nhttps://www.wikidata.org/entity/Q7983599"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:ew:Verbeek:AlorPantar**\n**hh:hvw:Stokhof:Alor**\n**hh:s:SchapperHendery:Wersing**"
+  },
+  "altnames": {
+    "wals": "\nKolana",
+    "moseley & asher (1994)": "\nKolana",
+    "multitree": "\nKolana\nKolana-Wersin\nWarsina\nWersin\nWersing",
+    "lexvo": "\nWersing [en]",
+    "hhbib_lgcode": "\nKolana\nKolana'sch",
+    "elcat": "\nKolana\nKolana-Wersin\nWarsina\nWersin\nWersing"
+  },
+  "triggers": {
+    "lgcode": "\npreliminary AND pantar\nwersing"
+  },
+  "identifier": {
+    "wals": "kln",
+    "multitree": "kvw",
+    "endangeredlanguages": "9509"
+  },
+  "classification": {
+    "sub": "**hh:hv:KaipingKlamer:Timor-Alor-Pantar**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Wersing (9509-kvw) = Vulnerable (60 percent certain, based on the evidence available) (In the villages, Wersing appears to be a vibrant language, with children acquiring it in places such as Kolana and Pureman (Emilie Wellfelt pers. comm.).) [Schapper and Hendery 2014](cldf:schapper:hendery:14)"
+  }
+}

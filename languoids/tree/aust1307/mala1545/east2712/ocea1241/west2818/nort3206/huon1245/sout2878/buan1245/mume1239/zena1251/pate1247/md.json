@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Patep",
+    "hid": "ptp",
+    "level": "language",
+    "iso639-3": "ptp",
+    "latitude": "-6.91988",
+    "longitude": "146.639",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mumeng (Patep dialect)](https://lexibank.clld.org/languages/abvdoceanic-MumengPatepdialect)\n[Patep](https://grambank.clld.org/languages/pate1247)\n[Patep](https://wals.info/languoid/lect/wals_code_pat)\nhttps://phoible.org/languages/pate1247\nhttps://www.wikidata.org/entity/Q3368679"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:190**\n**cldf:lauck:79**\n**hh:g:Laucketal:Patep**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hwdial:AdamsLauck:Mumeng**\n**hh:phon:LauckAdams:Patep**\n**hh:s:Lauck:Patep**\n**hh:v:SankoffSankoff:Wave-Stammbaum**\n**mpieva:Loving1975Phonolog**\n**mpieva:Loving1976Grammati**\n**sil16:15226**\n**sil16:15265**\n**sil16:15266**\n**sil16:17750**\n**sil16:17751**\n**sil16:17752**\n**sil16:17753**\n**sil16:17754**\n**sil16:21367**\n**sil16:21500**\n**sil16:22207**\n**sil16:23216**\n**sil16:34139**\n**silpng:silpng1956-1990:1667**\n**silpng:silpng1956-1990:1668**\n**silpng:silpng1956-1990:870**\n**silpng:silpng1956-1990:871**\n**silpng:silpng1956-1990:872**\n**silpng:silpng1956-1990:873**\n**silpng:silpng1956-1990:874**\n**silpng:silpng1956-1990:875**\n**silpng:silpng1956-1990:876**"
+  },
+  "altnames": {
+    "wals": "\nPatep",
+    "wals other": "\nBuang",
+    "ruhlen (1987)": "\nMumeng",
+    "moseley & asher (1994)": "\nMumeng",
+    "multitree": "\nDengalu\nPatep\nPtep",
+    "lexvo": "\nPatep [en]",
+    "hhbib_lgcode": "\nMumeng-Patep"
+  },
+  "triggers": {
+    "lgcode": "\nyalamu\nv<hati\npihac\nmenac\nhati\nk<pihac\npatep\ngenisis"
+  },
+  "identifier": {
+    "wals": "pat",
+    "multitree": "ptp"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hooley:Morobe:Austronesian**:86",
+    "subrefs": "\n**hh:hvw:Hooley:Morobe:Austronesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Dengalu (2145-ptp-den) = Endangered (40 percent certain, based on the evidence available)"
+  }
+}

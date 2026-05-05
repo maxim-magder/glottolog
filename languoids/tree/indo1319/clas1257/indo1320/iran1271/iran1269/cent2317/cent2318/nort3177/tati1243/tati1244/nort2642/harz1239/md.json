@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Harzani-Kilit",
+    "hid": "hrz",
+    "level": "language",
+    "iso639-3": "hrz",
+    "latitude": "38.4341",
+    "longitude": "48.2848",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Harzani](https://endangeredlanguages.com/lang/4279)\nhttps://www.wikidata.org/entity/Q56464\nhttps://en.wikipedia.org/wiki/Harzandi_dialect"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:hld:Kasravi:Azari**\n**hh:hvld:Stilo:Tati**\n**hh:ld:Mortazavi:Harzani**\n**hh:s:Karang:Tati-Harzani**\n**hh:s:Karimzadeh:Harzani**\n**hh:s:Mortazavi:Harzani**\n**hh:s:Zoka:Harzandi**"
+  },
+  "altnames": {
+    "multitree": "\nHarzani\nIran",
+    "lexvo": "\nHarzani [en]",
+    "hhbib_lgcode": "\n14th-century version of Northern Tati from the Ardabil area consisting of four conversational sentences (two from Tabriz and two from Ardabil) and 14 quatrains\nGalin-Qaye\nGalinqaya\nHarzani",
+    "elcat": "\nHarzandi\nHarzani",
+    "glottolog": "\nHarzani"
+  },
+  "triggers": {
+    "lgcode": "\ngalin\nqaye\nharzandi\nharzani"
+  },
+  "identifier": {
+    "multitree": "hrz",
+    "endangeredlanguages": "4279"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Stilo:Tati**",
+    "subrefs": "\n**hh:hvld:Stilo:Tati**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Harzani (4279-hrz) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kibosy Kiantalaotsy-Majunga",
+    "hid": "buc",
+    "level": "language",
+    "iso639-3": "buc",
+    "latitude": "-12.9652",
+    "longitude": "45.1368",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "YT"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Bushi_language\nhttps://www.wikidata.org/entity/Q5150795"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Gueunier:Malgache-Mayotte**\n**hh:e:Cassagnaud:Bushi**\n**hh:hld:Rombi:Mayotte**\n**hh:hv:Servaetal:Malagasy**\n**hh:t:GueunierSaid:Malgache-Mayotte**\n**hh:v:Serva:Malagasy-Mayotte**\n**hh:vsoc:Gueunier:Malgache-Mayotte**"
+  },
+  "altnames": {
+    "multitree": "\nAntalaotra\nBushi\nKibuki\nKibushi\nSakalava\nShibushi\nShibushi Shimaore",
+    "lexvo": "\nBushi [en]\nBushi language [en]\nFiteny Antalaotra [mg]\nShibushi [fr]",
+    "hhbib_lgcode": "\n20 Sakalava (Majunga)\nBushi\nKibosy Kiantalaotsy\nKibushi Kiantalaoutsi\nalso indications Kibosy Kiantalaotsy\nclose to Majunga Malagasy"
+  },
+  "triggers": {
+    "lgcode": "\necrivent\nphonologie AND sakalava\nces"
+  },
+  "identifier": {
+    "multitree": "buc"
+  },
+  "classification": {
+    "sub": "**hh:vsoc:Gueunier:Malgache-Mayotte** **hh:hvw:ServaPasquini:Madagascar:2020**",
+    "subrefs": "\n**hh:vsoc:Gueunier:Malgache-Mayotte**\n**hh:hvw:ServaPasquini:Madagascar:2020**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bushi (buc-buc) = 6b* (Threatened)."
+  }
+}

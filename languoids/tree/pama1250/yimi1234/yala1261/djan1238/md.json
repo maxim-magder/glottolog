@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Djangun",
+    "hid": "djf",
+    "level": "language",
+    "iso639-3": "djf",
+    "latitude": "-16.91051",
+    "longitude": "144.93245",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Djangun](https://endangeredlanguages.com/lang/4087)\nhttps://www.wikidata.org/entity/Q10474818\nhttps://phoible.org/languages/djan1238",
+    "timespan": "1985-01-01/1985-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:ew:Richards:Western-Hodgkinson**\n**hh:hv:Dixon:Mbabaram**\n**hh:w:Davidson:Walsh-River**\n**hh:w:Mowbray:Granite-Range**"
+  },
+  "altnames": {
+    "multitree": "\nAdho-Adhom\nButju\nChangunberries\nChungki\nChunkumberries\nChunkunberry\nChunkunburra\nDjandnandi\nDjangun\nDjankun\nDjungan\nDyangun\nDyangunbari\nGugu Djangun\nGugu Dyangun\nJangun Djanggun\nKoko-Mudju\nKoko-Tyankun\nKokomutju\nKokotjangun\nKuu Jangkun\nMutju\nMutyu\nNgaigungo\nNgaikungo\nNgaikungo-I\nNgaikungu\nShanganburra",
+    "lexvo": "\nDjangun [en]",
+    "hhbib_lgcode": "\nDjangun though may contain some Muluridyi items\nWakoora",
+    "elcat": "\nAdho-Adhom\nButju\nChangunberries\nChungki\nChunkumberries\nChunkunberry\nChunkunburra\nDjandnandi\nDjangun\nDjankun\nDjungan\nDyangun\nDyangunbari\nGugu Djangun\nGugu Dyangun\nJangun Djanggun\nKoko-Mudju\nKoko-Tyankun\nKokomutju\nKokotjangun\nKuu Jangkun\nMutju\nMutyu\nNgaigungo\nNgaikungo\nNgaikungo-I\nNgaikungu\nShanganburra"
+  },
+  "triggers": {
+    "lgcode": "\ngranite\nhodgkinson"
+  },
+  "identifier": {
+    "multitree": "djf",
+    "endangeredlanguages": "4087"
+  },
+  "classification": {
+    "sub": "**hh:g:Patz:Yalanji**:1-6",
+    "subrefs": "\n**hh:g:Patz:Yalanji**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Djangun (4087-djf) = Dormant [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

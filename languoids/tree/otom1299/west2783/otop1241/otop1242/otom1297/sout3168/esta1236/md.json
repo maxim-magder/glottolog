@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Estado de México Otomi",
+    "hid": "ots",
+    "level": "language",
+    "iso639-3": "ots",
+    "latitude": "19.8781",
+    "longitude": "-99.61",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Central_Otomi\nhttps://www.wikidata.org/entity/Q7413841"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1179**\n**hh:hv:Bartholomew:Otopamean**\n**hh:ld:Bartholomew:Narracion-Otomi-Estado-Mexico**\n**hh:s:Soustelle:Otomi-San-Jose**\n**hh:typ:Andrews:Southwestern-Otomi**\n**hh:w:Velazquez:Otomi-Santa-Maria-Mazatla**\n**ldh:item_405389**\n**mpieva:Lastra1989OtomideS**\n**mpieva:Soustelle1937Lafamill**\n**sil16:10105**\n**sil16:10106**\n**sil16:10188**\n**sil16:10189**\n**sil16:10190**\n**sil16:10195**\n**sil16:45862**"
+  },
+  "altnames": {
+    "glottolog": "\nEstado de Mexico Otomi",
+    "multitree": "\nHñatho\nOthomí\nOtomi\nOtomi, Estado de México\nOtomÃ­ de San Felipe Santiago\nOtomÃ­ del Estado de MÃ©xico\nOtomí\nOtomí de Mezquital\nOtomí de San Felipe Santiago\nOtomí de la Sierra\nOtomí del Estado de México\nOtomí del valle de Mezquital\nState of Mexico Otomi\nState of Mexico Otomiatho",
+    "lexvo": "\nEstado de México Otomi [en]",
+    "hhbib_lgcode": "\nOtomi Estado de México\nSan José del Sitio (19.63333N-99.675W) which is closer to Otomí de San Felipe Santiago (19.60916N-99.6561111W) which is closer than Temoaya Otomi represented by San Pedro Arriba (19.49397N-99.558964W)\nSanta María Mazatla in Tlalnepantla in the State of México"
+  },
+  "triggers": {
+    "lgcode": "\notopameanos\ntoluca\nlimosnero\nprestadas\ncuexcontitlan"
+  },
+  "identifier": {
+    "multitree": "ots"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:1997** **hh:hv:Campbell:Otomanguean**",
+    "subrefs": "\n**hh:hv:Campbell:1997**\n**hh:hv:Campbell:Otomanguean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Central Otomí (928-) = Definitely endangered"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Phola",
+    "hid": "ypg",
+    "level": "language",
+    "iso639-3": "ypg",
+    "latitude": "23.4674",
+    "longitude": "102.228",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Up: Phola](https://lexibank.clld.org/languages/yangyi-Pholaypg)\nhttps://en.wikipedia.org/wiki/Phola_language\nhttps://www.wikidata.org/entity/Q7187058"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvphon:Pelkey:Phula**\n**hh:hvsoc:Pelkey:Phula**\n**hh:hvw:Pelkey:Phula-Lexicon**\n**hh:styp:Gonzalez:Phola**\n**hh:typ:Gonzalez:Phola-Alo**\n**iso6393:2007-121**"
+  },
+  "altnames": {
+    "multitree": "\nBola\nFlowery Phula\nHua Phula\nPhola\nPhula\nPhulepho\nTsha Phula",
+    "lexvo": "\nPhola [en]",
+    "hhbib_lgcode": "\nLuodie\nPhola-LDC and the Upriver Phula clade"
+  },
+  "triggers": {
+    "lgcode": "\nphula"
+  },
+  "identifier": {
+    "multitree": "ypg"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Pelkey:Phula**",
+    "subrefs": "\n**hh:hvsoc:Pelkey:Phula**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Phula (China) (2245-ypa, ypg, ypo, yip, ypn, yhl, ypb, phh, ypm, ypp, yph, ypz) = Vulnerable; Phula (Viet Nam) (2244-ypa, ypg, ypo, yip, ypn, yhl, ypb, phh, ypm, ypp, yph, ypz) = Definitely endangered"
+  }
+}

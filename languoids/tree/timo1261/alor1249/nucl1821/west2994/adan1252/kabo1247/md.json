@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kabola",
+    "hid": "klz",
+    "level": "language",
+    "iso639-3": "klz",
+    "latitude": "-8.17316",
+    "longitude": "124.539",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kabola (Aimoli Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-kabola-aimoli)\n[Kabola (Hamap Dialect)](https://lexibank.clld.org/languages/transnewguineaorg-kabola-hamap)\nhttps://www.wikidata.org/entity/Q11732258"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:5018**\n**hh:he:Nieuwenkamp:Timor**\n**hh:hv:Adhiti:Alor**\n**hh:hv:deFalco:Tontika-Leledang**\n**hh:hvw:Stokhof:Alor**\n**hh:t:Stokhof:Kabola**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nKabola",
+    "lexvo": "\nKabola [en]",
+    "hhbib_lgcode": "\n2xKabola\nAimoli\nKabola op Abor\nLeledang\nPitumbang\nTontika"
+  },
+  "triggers": {
+    "lgcode": "\nkabola"
+  },
+  "identifier": {
+    "multitree": "klz"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Stokhof:Alor** **hh:g:Haan:Adang**:5 **hh:hv:KaipingKlamer:Timor-Alor-Pantar**",
+    "subrefs": "\n**hh:hv:KaipingKlamer:Timor-Alor-Pantar**\n**hh:g:Haan:Adang**\n**hh:hvw:Stokhof:Alor**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kabola (klz-klz) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Makwe",
+    "hid": "ymk",
+    "level": "language",
+    "iso639-3": "ymk",
+    "latitude": "-10.4673",
+    "longitude": "40.0274",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MZ",
+      "TZ"
+    ],
+    "links": "\n[Makwe](https://endangeredlanguages.com/lang/5070)\n[Makwe](https://grambank.clld.org/languages/makw1236)\nhttps://en.wikipedia.org/wiki/Makwe_language\nhttps://www.wikidata.org/entity/Q6740513"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:b:Maho:Mozambican**\n**hh:g:Devos:Makwe**\n**hh:g:Devos:Makwe:2004**\n**hh:h:Schadeberg:Mozambique**\n**hh:hv:Schadeberg:Mosambik**"
+  },
+  "altnames": {
+    "multitree": "\nKimakwe\nMacue\nMakwe\nMaraba\nPalma",
+    "lexvo": "\nMakwe [en]",
+    "elcat": "\nKimakwe\nMacue\nMakwe\nMaraba\nPalma"
+  },
+  "triggers": {
+    "lgcode": "\nmosambik\nmakwe"
+  },
+  "identifier": {
+    "multitree": "ymk",
+    "endangeredlanguages": "5070"
+  },
+  "classification": {
+    "sub": "**hh:g:Devos:Makwe**:3 **hh:hvw:NurseHinnebusch:Swahili-Sabaki**:13",
+    "subrefs": "\n**hh:g:Devos:Makwe**\n**hh:hvw:NurseHinnebusch:Swahili-Sabaki**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Makwe (5070-ymk) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

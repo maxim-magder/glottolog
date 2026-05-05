@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Oy",
+    "hid": "oyb",
+    "level": "language",
+    "iso639-3": "oyb",
+    "latitude": "15.42",
+    "longitude": "106.658",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Oi_language\n[Oi](https://wals.info/languoid/lect/wals_code_oi)\nhttps://www.wikidata.org/entity/Q13018626"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:162**\n**cldf:sidwell:jacq:ed:03:4**\n**hh:e:Fraisse:Bolovens**\n**hh:h:Hoffet:Tourane-Boloven**\n**hh:h:Schliesinger:Laos**\n**hh:hv:RauSidwell:Munda-Maritime**\n**hh:hv:SidwellJacq:WBahnaric**\n**hh:hw:Prachakitchakonrachak:Siam**\n**hh:ld:Doty:Oy**\n**hh:phonvw:Daniell:Oy**\n**hh:phonw:Daniell:Oy**\n**hh:s:Doty:Oy**\n**iso6393:2016-012**"
+  },
+  "altnames": {
+    "wals": "\nOi",
+    "ruhlen (1987)": "\nOi",
+    "moseley & asher (1994)": "\nOi",
+    "multitree": "\nHuei\nOi\nOy",
+    "lexvo": "\nOy [en]",
+    "hhbib_lgcode": "\nCheng\nInthii Oy\nJeng\nKha Oi\nOi\nOy in Laos\nSok\nSouk\nThae-Lagnao-Khang Oy\nThe subgroup of Oy previously iso-639-3 thx"
+  },
+  "triggers": {
+    "lgcode": "\ndictionary AND bahnaric"
+  },
+  "identifier": {
+    "wals": "oi",
+    "multitree": "oyb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic-MSEA**:185-186",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic-MSEA**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Oy (oyb-oyb) = 6a (Vigorous)."
+  }
+}

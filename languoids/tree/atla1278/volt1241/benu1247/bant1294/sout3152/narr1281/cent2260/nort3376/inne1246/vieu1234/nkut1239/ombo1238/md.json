@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Ombo",
+    "hid": "oml",
+    "level": "language",
+    "iso639-3": "oml",
+    "latitude": "-2.32162",
+    "longitude": "25.1748",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7089928\nhttps://en.wikipedia.org/wiki/Ombo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:2027**\n**eballiso2009:25723**\n**eballiso2009:28707**\n**eballiso2009:32259**\n**eballiso2009:37774**\n**eballiso2009:38030**\n**eballiso2009:42506**\n**eballiso2009:43313**\n**eballiso2009:44922**\n**hh:e:Sulzmann:Mbole-Imoma**\n**hh:h:Rommes:Stanleyville**\n**hh:hb:Kadima:Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvld:Meeussen:Maniema**\n**hh:ld:Ankei:Songola-Ombo**\n**hh:s:Meeussen:Ombo**\n**hh:typ:Jacobs:Lombole**"
+  },
+  "altnames": {
+    "multitree": "\nHombo\nLoombo\nOmbo\nSongola",
+    "lexvo": "\nOmbo [en]",
+    "hhbib_lgcode": "\nBangengele\nC76_Ombo\nKingengele\nLombole Katako-Kombe entre Lomami et Tshuapa\nMbole southeast of Mbandaka\nNgengele C00\nOmbo C76"
+  },
+  "triggers": {
+    "lgcode": "\nyongo\nmangilongo\nlofokefoke\nbosanga\nimoma\nombo\nmbole\nboende\nbamata\nlombole\nmpenge\nkatako"
+  },
+  "identifier": {
+    "multitree": "oml"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Bassin-Congolais**:27-28 **hh:hv:Bastinetal:Bantu**:208-209",
+    "subrefs": "\n**hh:hv:Mangulu:Bassin-Congolais**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ombo (oml-oml) = 6a (Vigorous)."
+  }
+}

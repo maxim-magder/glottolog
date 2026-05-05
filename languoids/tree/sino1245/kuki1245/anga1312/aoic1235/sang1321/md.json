@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sangtam Naga",
+    "hid": "nsa",
+    "level": "language",
+    "iso639-3": "nsa",
+    "latitude": "25.8581",
+    "longitude": "94.6279",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Sangtam](https://lexibank.clld.org/languages/marrisonnaga-Sangtam)\n[Sangtam Naga](https://endangeredlanguages.com/lang/11013)\n[Sangtam Naga](https://grambank.clld.org/languages/sang1321)\nhttps://en.wikipedia.org/wiki/Sangtam_language\nhttps://www.wikidata.org/entity/Q7418144"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:58**\n**cldf:saxena:walling:18**\n**hh:d:Kumaretal:Sangtam**\n**hh:d:NA:Sangtam**\n**hh:ew:Kauffmann:Sangtam**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Bruhn:Central-Naga**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:phon:Coupe:Northern-Sangtam**\n**hh:s:Imchen:Sangtam**\n**hh:s:Imchen:Sangtam:2012**"
+  },
+  "altnames": {
+    "multitree": "\nIsachanure\nLophomi\nNaga, Sangtam\nNaga,Sangtam\nSangtam\nThukumi\nTukumi",
+    "lexvo": "\nSangtam Naga [en]",
+    "hhbib_lgcode": "\nLophomi\nNaga-Sangtam\nSangtam\nThukumi",
+    "elcat": "\nIsachanure\nLophomi\nSangtam\nSangtam Naga"
+  },
+  "triggers": {
+    "lgcode": "\nsangtam"
+  },
+  "identifier": {
+    "multitree": "nsa",
+    "endangeredlanguages": "11013"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bruhn:Central-Naga**",
+    "subrefs": "\n**hh:hv:Bruhn:Central-Naga**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sangtam Naga (11013-nsa) = Vulnerable (100 percent certain, based on the evidence available) (Language is used in most domains except marketplace & education. Multilingual in English.) [Saxena and Walling 2018](cldf:saxena:walling:18)"
+  }
+}

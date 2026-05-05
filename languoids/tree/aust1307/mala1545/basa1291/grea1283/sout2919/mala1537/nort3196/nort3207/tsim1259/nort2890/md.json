@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Northern Betsimisaraka Malagasy",
+    "hid": "bmm",
+    "level": "language",
+    "iso639-3": "bmm",
+    "latitude": "-19.9184",
+    "longitude": "48.812",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MG"
+    ],
+    "links": "\n[Betsimisaraka](https://lexibank.clld.org/languages/servamalagasy-BetsimisarakaAntalaha)\n[Betsimisaraka](https://lexibank.clld.org/languages/servamalagasy-BetsimisarakaMahanoro)\n[Betsimisaraka](https://lexibank.clld.org/languages/servamalagasy-BetsimisarakaAntsiranana)\n[Betsimisaraka](https://lexibank.clld.org/languages/servamalagasy-BetsimisarakaBrickaville)\n[Betsimisaraka](https://lexibank.clld.org/languages/servamalagasy-BetsimisarakaToamasina)\n[Betsimisaraka](https://lexibank.clld.org/languages/servamalagasy-BetsimisarakaMananara)\n[Betsimisaraka](https://lexibank.clld.org/languages/servamalagasy-BetsimisarakaMaroantsetra)\nhttps://www.wikidata.org/entity/Q2548276"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4379**\n**hh:d:Velonandro:Nord-Madagascar**\n**hh:hv:Dez:Malgache-Dialectologie**\n**hh:hv:Servaetal:Malagasy**\n**hh:hvw:Marsden:East-Insular**\n**hh:hvw:ServaPasquini:Madagascar:2020**\n**hh:phon:ONeill:Betsimisaraka**\n**hh:w:Sibree:Malagasy**\n**hh:w:deHoutman:Malais-Malgaches**\n**hh:wt:Kikusawa:Northern-Betsimisaraka**"
+  },
+  "altnames": {
+    "multitree": "\nMalagasy, Northern Betsimisaraka\nNorthern Betsimisaraka Malagasy",
+    "lexvo": "\nNorthern Betsimisaraka Malagasy [en]",
+    "hhbib_lgcode": "\n11 - Betsimisaraka (Fenoarivo-Est)\n13 Betsimisaraka (Fenoarivo-Est)\n39 - Betsimisaraka (Mananara)\n42 - Nosy Boraha (Ambodifotatra)\n53 - Betsimisaraka (Maroantsetra)\nBetsimisaraka\nBetsimisaraka du Nord\nMadagascar-de Houtman 1604\nMalagasy-Northern Betsimisaraka\nMalgache baie d'Antongil\nVavatenina\nVohipeno"
+  },
+  "triggers": {
+    "lgcode": "\nspeech AND glottochronology"
+  },
+  "identifier": {
+    "multitree": "bmm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ServaPasquini:Madagascar:2020**",
+    "subrefs": "\n**hh:hvw:ServaPasquini:Madagascar:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malagasy, Northern Betsimisaraka (bmm-bmm) = 6a (Vigorous)."
+  }
+}

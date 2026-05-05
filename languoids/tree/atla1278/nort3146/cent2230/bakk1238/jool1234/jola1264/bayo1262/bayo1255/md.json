@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kugere-Kuxinge",
+    "hid": "bda",
+    "level": "language",
+    "iso639-3": "bda",
+    "latitude": "12.6881",
+    "longitude": "-16.3947",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GM",
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Bayot](https://endangeredlanguages.com/lang/5990)\n[Kugere-Kuxinge](https://grambank.clld.org/languages/bayo1255)\nhttps://en.wikipedia.org/wiki/Bayot_language\nhttps://www.wikidata.org/entity/Q35019"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:29590**\n**eballiso2009:41677**\n**hh:g:Diagne:Bayot**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hlde:Bocande:Guinee-Portugaise**\n**hh:hv:Doneux:Senegal**\n**hh:hvw:Barry:Joola**\n**hh:hw:Tastevin:Senegalais**\n**hh:phon:Diagne:Bayot**\n**hh:s:Diagne:Bayot**\n**hh:soc:Thornell:Bayotte**\n**hh:typ:Nyafouna:Kuhinge**\n**hh:w:Armstrong:West-African**\n**hh:w:CarltonRand:Diola**\n**hh:wsoc:CarltonRand:Diolas**"
+  },
+  "altnames": {
+    "multitree": "\nBaiot\nBaiote\nBayot\nBayote\nBayotte",
+    "lexvo": "\nBayot [en]",
+    "hhbib_lgcode": "\nBa Yot\nBaiote\nBayot\nBayotte\nBt Bayoot\nDialang\nEssin\nKng Kuxinge\nKugere\nKuhinge\nÉdammé in NW Guinea Bissau",
+    "elcat": "\nBaiot\nBaiote\nBayot\nBayote\nBayotte"
+  },
+  "triggers": {
+    "lgcode": "\nbayot"
+  },
+  "identifier": {
+    "multitree": "bda;bayt",
+    "endangeredlanguages": "5990"
+  },
+  "classification": {
+    "sub": "**hh:hv:Segerer:Atlantic-Isolates** **hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:Segerer:Atlantic-Isolates**\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bayot (5990-bda) = Vulnerable (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lizu",
+    "hid": "NOCODE_Lizu",
+    "level": "language",
+    "latitude": "28.333425",
+    "longitude": "101.350309",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Lizu](https://endangeredlanguages.com/lang/10624)\nhttps://en.wikipedia.org/wiki/Lizu_language\nhttps://phoible.org/languages/lizu1234\nhttps://www.wikidata.org/entity/Q6660653"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chirkova:15:5**\n**cldf:np:15:2**\n**cldf:roche:suzuki:17**\n**cldf:wang:12:2**\n**hh:h:Hattaway:China**\n**hh:hvld:deLacouperie:China**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Yu:Ersuic**\n**hh:hw:Hunter:High-Asia**\n**hh:hwphon:Daietal:Zangmianyu**\n**hh:s:Chirkova:Lizu**\n**hh:s:Chirkova:Lizu:2017**\n**hh:vw:Takumi:Ryuzu**\n**hh:w:Hodgson:Sifan-Horsok**\n**hh:w:Ikeda:Lizu**"
+  },
+  "triggers": {
+    "lgcode": "\nlizu"
+  },
+  "identifier": {
+    "multitree": "ers-lis",
+    "endangeredlanguages": "10624"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Lizu is an Ersuic language not intelligible to Ersu [ers] (or Duoxu) and should be a language separate from the Ersu [ers] entry (**hh:hvw:Yu:Ersuic**:2, **hh:vw:Chirkova:Duoxu**:107). See also: Ersu [ers].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Lizu"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Yu:Ersuic** **hh:vw:Chirkova:Duoxu**",
+    "subrefs": "\n**hh:hvw:Yu:Ersuic**\n**hh:vw:Chirkova:Duoxu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lizu (10624) = Endangered (100 percent certain, based on the evidence available) (fully proficient speakers are all in their 60s or older; in rural areas children still learn the language at home) [Chirkova 2015](cldf:chirkova:15:5)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nKala Lizu\nLyusu-Muli\nLyuzu\nLǚsū yǔ\nLǚsū yǔ\nManyak\nManyakof Hodgson 1853\nMeniak\nNaiqu Lizu\nRyuzu",
+    "elcat": "\nLizu\nLüzu\n傈蘇\n吕蘇\n里汝語"
+  }
+}

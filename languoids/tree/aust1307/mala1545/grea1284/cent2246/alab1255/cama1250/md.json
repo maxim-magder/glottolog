@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Camarines Norte Agta",
+    "hid": "abd",
+    "level": "language",
+    "iso639-3": "abd",
+    "latitude": "14.1571",
+    "longitude": "122.835",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PH"
+    ],
+    "links": "\n[Camarines Norte Agta](https://endangeredlanguages.com/lang/2829)\nhttps://www.wikidata.org/entity/Q3399682\nhttps://en.wikipedia.org/wiki/Manide_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:265**\n**hh:e:Garvan:Negritos-Ragai**\n**hh:ew:Salvador:Negros**\n**hh:h:Lobel:Philippine**\n**hh:hv:Reid:Negrito**\n**hh:s:Doroja:Manide**\n**hh:s:Jalotjot:Itawit**\n**hh:vtyp:Lobel:Manide-Inagta**\n**hh:vw:Lobel:Manide**\n**hh:w:Garvan:Negritos**\n**hh:w:Garvan:Negritos-Tayabas**\n**iso6393:2009-085**"
+  },
+  "altnames": {
+    "multitree": "\nAgiyan\nAgta de Camarines Norte\nAgta de Camarines-nord\nAgta, Camarines Norte\nManide",
+    "lexvo": "\nManide [en]",
+    "hhbib_lgcode": "\nAbiyan Agta\nAgta-Camarines Norte\nDumagat on the islands north of Camarines\nManide\nNegrito of Balankawiten east of Ragai-western Camarines (Garvan)\nNegrito of Tagkawaian east of Ginayángan-southern Tayabas (Garvan)\nNegritos of Tayabas-Tagkauaian\nNegritos of the Ragai Gulf district",
+    "elcat": "\nAgiyan\nAgta\nCamarines Norte\nCamarines Norte Agta\nManide"
+  },
+  "triggers": {
+    "lgcode": "\nmanide\nagtas"
+  },
+  "identifier": {
+    "multitree": "abd",
+    "endangeredlanguages": "2829"
+  },
+  "classification": {
+    "sub": "**hh:vw:Lobel:Manide**",
+    "subrefs": "\n**hh:vw:Lobel:Manide**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Camarines Norte Agta (2829-abd) = Vulnerable (100 percent certain, based on the evidence available) (Manide youth exhibit virtually no language attrition compared with older speakers, something that is exceedingly rare in minority - and even majority - ethnolinguistic groups in the Philippines today.) [Lobel 2010](cldf:lobel:10)"
+  }
+}

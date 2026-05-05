@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Orok",
+    "hid": "oaa",
+    "level": "language",
+    "iso639-3": "oaa",
+    "latitude": "49.36393",
+    "longitude": "143.12819",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "JP",
+      "RU"
+    ],
+    "links": "\n[Orok](https://endangeredlanguages.com/lang/3043)\n[Orok](https://grambank.clld.org/languages/orok1265)\n[Orok](https://wals.info/languoid/lect/wals_code_ork)\nhttps://en.wikipedia.org/wiki/Uilta_language\nhttps://www.wikidata.org/entity/Q33928"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4351**\n**cldf:alpatov:ed:97:15**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:novikova:sem:97**\n**cldf:np:nd:264**\n**cldf:petrova:68**\n**cldf:petrova:69**\n**cldf:pilsudski:87**\n**cldf:salminen:00**\n**cldf:shternberg:33:1**\n**cldf:smoljak:94**\n**hh:e:Majewicz:Oroks**\n**hh:e:Smoliak:Ulchi**\n**hh:e:Smolyak:Oroki**\n**hh:g:Ozolina:Orok**\n**hh:g:Petrova:Orokov-Ulta**\n**hh:h:Yamada:Sakhalin**\n**hh:s:Nakanome:Orokko**\n**hh:s:Tsumagari:Uilta**\n**hh:s:Tsumagari:Uilta:2024**\n**hh:std:Pilsudski:Orok**\n**hh:typ:Ikegami:Orok**\n**hh:w:Kazama:Tungusic**\n**mpieva:1980Research**\n**mpieva:Avrorin2001Grammati**\n**mpieva:Ikegami1980Uirutago**\n**mpieva:Ikegami2002Uiltaora**\n**mpieva:Ozolinja2001Ujltalyc**\n**mpieva:Pilsudski1987Material**"
+  },
+  "altnames": {
+    "wals": "\nOrok",
+    "ruhlen (1987)": "\nOrok",
+    "moseley & asher (1994)": "\nOrok",
+    "lexvo": "\nOrok [en]\nOrok language [en]\nOroka lingvo [eo]\nOrokisk [no]\nОрок чĕлхи [cv]\nОрокский язык [ru]\nウィルタ語 [ja]\n윌타어 [ko]",
+    "hhbib_lgcode": "\nUilta\nYuzhnye Oroki",
+    "elcat": "\nOrok\nSprache der Oroken\nUilta\nUjlta\nUlta\nорокский язык\nуйльта\nульта"
+  },
+  "triggers": {
+    "lgcode": "\nulta\nuilta\nxoziaistvo\norokov\nulchi\nujlta\norokskij\nnastoyacem\norokko\nproslom\nbyt\noroci\nuiltas\norokskogo"
+  },
+  "identifier": {
+    "wals": "ork",
+    "endangeredlanguages": "3043"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Janhunen:Expansion-Tungusic**:6",
+    "subrefs": "\n**hh:hv:Janhunen:Expansion-Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Orok (3043-oaa) = Critically Endangered (80 percent certain, based on the evidence available) [Salminen 2000](cldf:salminen:00)"
+  }
+}

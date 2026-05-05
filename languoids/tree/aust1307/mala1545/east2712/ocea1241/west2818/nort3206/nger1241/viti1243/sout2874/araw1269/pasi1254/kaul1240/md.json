@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kaulong",
+    "hid": "pss",
+    "level": "language",
+    "iso639-3": "pss",
+    "latitude": "-6.08192",
+    "longitude": "149.696",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kaulong](https://grambank.clld.org/languages/kaul1240)\n[Kaulong](https://wals.info/languoid/lect/wals_code_kau)\n[Kaulong (Au Village)](https://lexibank.clld.org/languages/abvdoceanic-KaulongAuVillage)\nhttps://en.wikipedia.org/wiki/Kaulong_language\nhttps://www.wikidata.org/entity/Q3194294"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lynch:ross:etal:ed:02:14**\n**hh:e:Goodale:Kaulong-Sengseng**\n**hh:e:Goodale:Sing-Pigs-Kaulong**\n**hh:e:Todd:New-Britain**\n**hh:hld:Throop:Kandrian**\n**hh:hv:Chowning:Melanesian**\n**hh:hv:Chowning:New-Britain**\n**hh:hv:Chowning:WNewBritain**\n**hh:hv:Ross:WMelanesia**\n**hh:s:Ross:Kaulong**\n**hh:w:Throop:Kaulong**\n**sil16:22009**\n**silpng:silpng1991-2000:912**\n**silpng:silpng1991-2000:913**\n**silpng:silpng1991-2000:914**"
+  },
+  "altnames": {
+    "wals": "\nKaulong",
+    "ruhlen (1987)": "\nPasismanua",
+    "moseley & asher (1994)": "\nPasismanua",
+    "multitree": "\nKaulong\nKowlong\nPasismanua",
+    "lexvo": "\nKaulong [en]\nKaulong language [en]",
+    "hhbib_lgcode": "\nKaulong of Throop ms\nMöwehafen\nPasismanua\nPassis Manua"
+  },
+  "triggers": {
+    "lgcode": "\nkandrian\nkaulong\nlavin"
+  },
+  "identifier": {
+    "wals": "kau",
+    "multitree": "pss"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chowning:WNewBritain**",
+    "subrefs": "\n**hh:hv:Chowning:WNewBritain**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Getmata (2671-get) = Extinct"
+  }
+}

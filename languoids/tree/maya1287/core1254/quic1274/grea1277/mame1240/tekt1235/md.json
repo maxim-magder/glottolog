@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Tektiteko",
+    "hid": "ttc",
+    "level": "language",
+    "iso639-3": "ttc",
+    "latitude": "15.4599",
+    "longitude": "-92.1136",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT",
+      "MX"
+    ],
+    "links": "\n[Teco](https://endangeredlanguages.com/lang/3496)\n[Tectiteco](https://wals.info/languoid/lect/wals_code_tec)\n[Tektiteko](https://grambank.clld.org/languages/tekt1235)\nhttps://en.wikipedia.org/wiki/Tektitek_language\nhttps://www.wikidata.org/entity/Q36686"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2881**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:09:1**\n**cldf:np:nd:264**\n**cldf:pellicer:05**\n**cldf:richards:03**\n**hh:d:Lopez:Tektiteko**\n**hh:d:Morales:Tektiteko**\n**hh:s:Gutierrez:Tektiteka**\n**hh:s:Stevenson:Tectiteco**\n**hh:s:Tuyuc:Tektiteka**\n**hh:w:Kaufman:Teco**\n**sil16:12693**\n**sil16:22586**\n**sil16:37820**\n**sil16:37842**\n**sil16:37843**\n**sil16:37846**\n**sil16:37847**\n**sil16:37848**\n**sil16:45592**"
+  },
+  "altnames": {
+    "wals": "\nTeco",
+    "ruhlen (1987)": "\nTeko",
+    "moseley & asher (1994)": "\nTeco",
+    "multitree": "\n\"Teko\"\nMaya-Tekiteko\nTeco\nTectitec\nTectiteco\nTectitán Mam\nTeko\nTektiteko\nTektitèque",
+    "lexvo": "\nIdioma tectiteco [es]\nLíngua tectiteca [pt]\nTectiteeks [nl]\nTektitek language [en]\nTektitekisk [no]\nTektiteko [en]\nТектитечки јазик [mk]",
+    "hhbib_lgcode": "\nTeco",
+    "elcat": "\nMaya-Tekiteko\nTeco\nTectitec\nTectiteco\nTectitán Mam\nTeko\nTektiteko"
+  },
+  "triggers": {
+    "lgcode": "\nprojecto\nxconoli\ntectiteco\nqoyolin\ntectitec\nbaaj\noqtxi"
+  },
+  "identifier": {
+    "wals": "tec",
+    "multitree": "ttc",
+    "endangeredlanguages": "3496"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Teco (3496-ttc) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

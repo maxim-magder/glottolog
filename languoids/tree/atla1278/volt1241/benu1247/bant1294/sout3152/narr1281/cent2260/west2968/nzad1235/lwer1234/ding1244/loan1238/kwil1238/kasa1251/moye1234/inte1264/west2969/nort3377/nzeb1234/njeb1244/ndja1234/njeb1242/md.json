@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Njebi",
+    "hid": "nzb",
+    "level": "language",
+    "iso639-3": "nzb",
+    "latitude": "-2.18115",
+    "longitude": "12.7063",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35923\nhttps://en.wikipedia.org/wiki/Njebi_language\nhttps://phoible.org/languages/njeb1242"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:850**\n**eballiso2009:14602**\n**eballiso2009:14603**\n**eballiso2009:14654**\n**eballiso2009:15792**\n**eballiso2009:23011**\n**eballiso2009:27097**\n**eballiso2009:2797**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:41**\n**eballiso2009:4474**\n**eballiso2009:45427**\n**eballiso2009:45434**\n**eballiso2009:7936**\n**eballiso2009:7937**\n**hh:e:Dupre:Nzabi**\n**hh:g:Marchal-Nasse:Nzebi**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hew:duChaillu:Afrique-Sauvage**\n**hh:hew:duChaillu:Ashango**\n**hh:hlde:duChaillu:Afrique-Equatoriale**\n**hh:htyp:Blanchon:Gabon**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hvw:Klieman:WEquatorial**\n**hh:hvwphon:Mouele:Duma**\n**hh:s:Guthrie:Nzebi**\n**hh:sd:Muroni:Ndjabi**\n**hh:w:Trezenem:Inzabi**"
+  },
+  "altnames": {
+    "multitree": "\nBandzabi\nBinzabi\nInjebi\nNdjabi\nNdjevi\nNjabi\nNjebi\nNjevi\nNzebi\nYinjebi\nYinzebi",
+    "lexvo": "\nNjebi [en]",
+    "hhbib_lgcode": "\n4 Nzebi (Congo) Nzebi 2 Congo B52\n5 Nzebi (Gabon) Nzebi 1 Gabon B52\nB52_Nzebi\nBongo Koudja B50 (Pygmées) Koudja-Divenie-Niari-Congo (pygmees) 12°E-3.1°S too aberrant to fit an existing language but\nDuma or Njebi\nIbongo-Nzebi 91 percent cognate with Njebi\nInzebi\nInzèbi\nNdjabi\nNjavi\nNzabi\nNzebi\nNzebi 1 Gabon B52\nNzebi 2 Congo B52\nNzèbi de Mbigou"
+  },
+  "triggers": {
+    "lgcode": "\nashango\nnzbi\nseke\nndzebi\nnzabi\nnzebi\nndjabi\nb52\ninzabi\ninzebi\ntells"
+  },
+  "identifier": {
+    "multitree": "nzb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Niama-Niama:Bantu-Gabon** **hh:hv:Pacchiarotti:West-Coastal-Bantu**:163, 184, 188",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:Niama-Niama:Bantu-Gabon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Njebi (nzb-nzb) = 5* (Developing)."
+  }
+}

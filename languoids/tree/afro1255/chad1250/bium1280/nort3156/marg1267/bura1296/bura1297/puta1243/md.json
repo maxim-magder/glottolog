@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Putai",
+    "hid": "mfl",
+    "level": "language",
+    "iso639-3": "mfl",
+    "latitude": "10.83854",
+    "longitude": "12.99521",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Putai](https://endangeredlanguages.com/lang/4642)\n[West Margi](https://lexibank.clld.org/languages/kraftchadic-Westmargi)\nhttps://en.wikipedia.org/wiki/Putai_language\nhttps://www.wikidata.org/entity/Q56291"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1762**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hel:Sommer:Survey**\n**hh:hv:Hoffmann:Bura-Margyi**\n**hh:hw:Kraft:Chadic:II**"
+  },
+  "altnames": {
+    "multitree": "\nMarghi West\nPutai\nWest Marg",
+    "lexvo": "\nPoutaieg [br]\nPutai [en]\nPutai jezik [hr]\nPutai language [en]",
+    "hhbib_lgcode": "\nWest Margi (Margi Pute)",
+    "elcat": "\nMarghi West\nPutai\nWest Marg"
+  },
+  "triggers": {
+    "lgcode": "\niii AND biu"
+  },
+  "identifier": {
+    "multitree": "mfl",
+    "endangeredlanguages": "4642"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:50-51",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Putai (4642-mfl) = Severely Endangered (40 percent certain, based on the evidence available) (The language is dying out in favor of Kanuri, but the ethnic population is large. Nearly extinct.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

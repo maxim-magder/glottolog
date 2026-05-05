@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Aka",
+    "hid": "soh",
+    "level": "language",
+    "iso639-3": "soh",
+    "latitude": "11.2101",
+    "longitude": "33.6524",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD"
+    ],
+    "links": "\n[Aka](https://endangeredlanguages.com/lang/5054)\nhttps://www.wikidata.org/entity/Q3450949\nhttps://en.wikipedia.org/wiki/Sillok_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Bender:EJebel:1989**\n**hh:hvw:Bender:EJebel**\n**hh:hw:Evans-Pritchard:Fung**"
+  },
+  "altnames": {
+    "multitree": "\nAka\nFa-C-Aka\nJebel Silak\nJebels Sillok\nSillok",
+    "lexvo": "\nAka [en]\nAka language [en]\nАкаски јазик [mk]",
+    "hhbib_lgcode": "\nSilak\nSillok",
+    "elcat": "\nAka\nFa-C-Aka\nJebel Silak\nJebels Sillok\nSillok"
+  },
+  "triggers": {
+    "lgcode": "\nsudan AND languages AND jebel"
+  },
+  "identifier": {
+    "multitree": "soh",
+    "endangeredlanguages": "5054"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Bender:EJebel**",
+    "subrefs": "\n**hh:hvw:Bender:EJebel**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aka (5054-soh) = Endangered (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Lakota",
+    "hid": "lkt",
+    "level": "language",
+    "iso639-3": "lkt",
+    "latitude": "46.3699",
+    "longitude": "-103.95",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Lakhota](https://wals.info/languoid/lect/wals_code_lkt)\n[Lakota](https://endangeredlanguages.com/lang/2052)\n[Lakota](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Lakota)\nhttps://en.wikipedia.org/wiki/Lakota_language\nhttps://phoible.org/languages/lako1247\nhttps://www.wikidata.org/entity/Q33537"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2129**\n**asjp2010:2527**\n**cldf:bushnell:i:etal:22**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:consortium:16**\n**cldf:culbertson:52**\n**cldf:curtis:08**\n**cldf:dereuse:90**\n**cldf:dorsey:94**\n**cldf:duerr:ed:95:8**\n**cldf:erikson:39**\n**cldf:erikson:50**\n**cldf:ewers:37**\n**cldf:faltz:95**\n**cldf:foley:robertvanvalin:77**\n**cldf:goldfrank:43**\n**cldf:golla:goddard:etal:08**\n**cldf:grobsmith:79**\n**cldf:hassrick:44**\n**cldf:hassrick:64**\n**cldf:ingham:01:2**\n**cldf:ingham:98**\n**cldf:legendre:rood:92**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:macgregor:46**\n**cldf:mckeel:36**\n**cldf:mekeel:36**\n**cldf:mirsky:37:1**\n**cldf:niehardt:51**\n**cldf:np:nd:264**\n**cldf:pustet:00:1**\n**cldf:pustet:00:2**\n**cldf:pustet:03**\n**cldf:rood:01**\n**cldf:russell:99**\n**cldf:saltanaviciute:05**\n**cldf:shay:ed:03:5**\n**cldf:sullivan:20**\n**cldf:ullrich:08**\n**cldf:valin:80**\n**cldf:vanvalin:77:1**\n**cldf:vanvalin:77:2**\n**cldf:vanvalin:77:3**\n**haspelmath:pustet_lakota_2008**\n**haspelmath:pustet_switch-reference_2013**\n**hh:b:deReuse:Lakhota**\n**hh:b:deReuse:Lakota:1987**\n**hh:d:Ingham:Lakota**\n**hh:d:Karol:Lakota**\n**hh:e:DeMallie:Teton**\n**hh:g:Buechel:Lakota**\n**hh:g:Ullrich:Lakota**\n**hh:g:Ullrich:Lakota:2016**\n**hh:g:vanValin:Lakhota**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:phon:Carter:Teton-Dakota**\n**hh:phon:Mirzayan:Lakota**\n**hh:s:BoasDeloria:Teton**\n**hh:s:Ingham:Lakota**\n**hh:s:RoodTaylor:Lakhota**\n**hh:s:UCLP:Lakhota**\n**hh:sd:Berg:Lakota**\n**hh:sd:Ullrich:Lakota**\n**hh:styp:Ullrich:Lakota**\n**hh:styp:Williamson:Lakhota**\n**hh:t:Pustet:Lakota**\n**hh:typ:Lungstrum:Lakhota**\n**hh:typ:Scott:Lakota**\n**mpieva:1976Elementa**\n**mpieva:Buechel1970Adiction**\n**mpieva:Rogers1980Lakotana**\n**mpieva:VanValin1977Aspectso**\n**sil16:12403**\n**sil16:20071**\n**sil16:23715**"
+  },
+  "altnames": {
+    "wals": "\nLakhota",
+    "wals other": "\nDakota\nLakhota (Teton)\nLakota\nLakota (Teton)\nTeton",
+    "multitree": "\nLakhota\nLakota\nTeton",
+    "lexvo": "\nJęzyk lakota [pl]\nLak'ota simi [qu]\nLakota [de]\nLakota language [en]\nLakota lingvo [eo]\nLakotština [cs]\nLingua lakota [it]\nLíngua lakota [pt]",
+    "hhbib_lgcode": "\nLakhota\nTeton",
+    "elcat": "\nLakhota\nLakota\nLakȟótiyapi\nTeton"
+  },
+  "triggers": {
+    "lgcode": "\nyankton\nincorporating\nyanktonai\nlakhotiyapi\nsisseton\nlakota\nlakhota\nteton\nsantee"
+  },
+  "identifier": {
+    "wals": "lkt",
+    "multitree": "lkt",
+    "endangeredlanguages": "2052"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lakota (2052-lkt) = Endangered (80 percent certain, based on the evidence available) (Older adults and elderly (L1); Adolescents and young adults (L2).) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

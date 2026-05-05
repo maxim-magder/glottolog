@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Lakondê",
+    "hid": "lkd",
+    "level": "language",
+    "iso639-3": "lkd",
+    "latitude": "-13.2",
+    "longitude": "-60.5",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q20527166"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Lima:Latunde**\n**hh:hld:Telles:Nambikwara**\n**hh:hw:Rondon:Silvicolas**\n**hh:phon:Braga:Lakonde**\n**iso6393:2007-017**"
+  },
+  "altnames": {
+    "glottolog": "\nLakonde",
+    "multitree": "\nKithāulhú\nLaconde\nLacondê\nLakonde\nLatundê\nMamaindê\nMamande\nNakarothe\nNambikuára septentrional\nNambikwara du nord\nNorthern Nambikuaran\nNorthern Nambikwara\nNorthern Nambiquara\nYalapmunxte",
+    "lexvo": "\nLakondê [en]",
+    "hhbib_lgcode": "\nNenê-Nhambiquara\nTagnani-Nhambiquara\nTauitelatê-Nhambiquara"
+  },
+  "triggers": {
+    "lgcode": "\ntubarao\nlakonde"
+  },
+  "identifier": {
+    "multitree": "lkd"
+  },
+  "classification": {
+    "sub": "**hh:g:Eberhard:Mamainde**:21-31",
+    "subrefs": "\n**hh:g:Eberhard:Mamainde**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Nambiquara do Norte (1621-lkd, ltn, xtw, wmd) = Vulnerable"
+  }
+}

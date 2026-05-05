@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Awetí",
+    "hid": "awe",
+    "level": "language",
+    "iso639-3": "awe",
+    "latitude": "-12.381944",
+    "longitude": "-53.391944",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[AWETI](https://lexibank.clld.org/languages/gerarditupi-Aweti)\n[Awetí](https://endangeredlanguages.com/lang/684)\n[Awetí](https://grambank.clld.org/languages/awet1244)\nhttps://en.wikipedia.org/wiki/Awet%C3%AD_language\nhttps://phoible.org/languages/awet1244\nhttps://www.wikidata.org/entity/Q4830038"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:decassiaborella:00**\n**cldf:drude:11:1**\n**cldf:drude:11:2**\n**cldf:drude:20**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**elpub:ldd64**\n**fabreall2009ann:Tupi_aweti00**\n**fabreall2009ann:Tupi_aweti01**\n**fabreall2009ann:Tupi_aweti02**\n**fabreall2009ann:Tupi_aweti03**\n**fabreall2009ann:Tupi_aweti04**\n**fabreall2009ann:Tupi_aweti05**\n**fabreall2009ann:Tupi_aweti07**\n**fabreall2009ann:Tupi_aweti08**\n**fabreall2009ann:Tupi_aweti09**\n**fabreall2009ann:Tupi_aweti12**\n**fabreall2009ann:Tupi_aweti13**\n**fabreall2009ann:Tupi_aweti14**\n**fabreall2009ann:Tupi_aweti15**\n**fabreall2009ann:Tupi_aweti16**\n**fabreall2009ann:Tupi_aweti17**\n**fabreall2009ann:Tupi_aweti18**\n**hh:e:Figueiredo:Aweti**\n**hh:e:Levi-Strauss:UXingu**\n**hh:h:deLima:Alto-Xingu**\n**hh:hb:Correa:Aweti**\n**hh:hew:vondenSteinen:Zentral-Brasiliens**\n**hh:hv:Correa:ATG:2007**\n**hh:hv:Correa:Mawe-Aweti-Tupi-Guarani**\n**hh:hv:Drude:Aweti**\n**hh:ld:Drude:Aweti:Masculina-Feminina**\n**hh:phon:Emmerich:Aweti**\n**hh:s:Kamaiura:Awety**\n**hh:styp:Borella:Aweti**\n**hh:styp:Reiter:Aweti**\n**hh:v:Kamaiura:Aweti-Tupi-Guarani**\n**ldh:item_401379**\n**mpieva:2006Guaraniy**\n**mpieva:Cassia2000Aspectos**\n**sil16:11354**"
+  },
+  "altnames": {
+    "glottolog": "\nAweti",
+    "multitree": "\nArauine\nArauite\nAueti\nAueto\nAuetö\nAuiti\nAuití\nAweti\nAwety\nAwetí\nAwetö",
+    "lexvo": "\nAwetí [en]",
+    "elcat": "\nAueti\nAueto\nAuetö\nAuiti\nAuití\nAweti\nAwety\nAwetí\nAwetö",
+    "hhbib_lgcode": "\nAuety"
+  },
+  "triggers": {
+    "lgcode": "\nmaweti\naweti\nschinguquellgebiet\nnaturvolker"
+  },
+  "identifier": {
+    "multitree": "awe",
+    "endangeredlanguages": "684"
+  },
+  "classification": {
+    "sub": "**hh:hv:MeiraDrude:Maweti-Guarani**",
+    "subrefs": "\n**hh:hv:MeiraDrude:Maweti-Guarani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Awetí (684) = Endangered (20 percent certain, based on the evidence available) (EGIDS 6a endangered/vigorous) [Drude 2020](cldf:drude:20)"
+  }
+}

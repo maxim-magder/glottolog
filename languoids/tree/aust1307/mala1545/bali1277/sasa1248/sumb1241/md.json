@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Sumbawa",
+    "hid": "smw",
+    "level": "language",
+    "iso639-3": "smw",
+    "latitude": "-8.71919",
+    "longitude": "117.472",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3182585\nhttps://en.wikipedia.org/wiki/Sumbawa_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:goethals:67**\n**hh:d:Nuryati:Samawa**\n**hh:d:Sumarsono:Sumbawa**\n**hh:ew:Roos:Soemba**\n**hh:g:Shiohara:Sunbawa**\n**hh:hew:Zollinger:Bima-Soembawa**\n**hh:hvw:Ekowardono:Jawa-Baku**\n**hh:hvw:Latham:Comparative**\n**hh:ld:Shiohara:Sumbawan**\n**hh:s:Hayami-Allen:Taliwang**\n**hh:s:Surmarsono:Sumbawa**\n**hh:s:deRoo:Soembaneesch**\n**hh:t:Jonker:Soembawa-Timor**\n**hh:t:Jonker:Soembawareesche**\n**hh:typ:Mahsun:Sumbawa-Jereweh**\n**mpieva:Jonker1934Soembawa**\n**mpieva:Onvlee1925EenigeSo**"
+  },
+  "altnames": {
+    "multitree": "\nSemawa\nSumbawa\nSumbawarese",
+    "lexvo": "\nSumbawa [en]",
+    "hhbib_lgcode": "\nJereweh Sumbawa\nSamawa\nSoembawareesch\nTaliwang"
+  },
+  "triggers": {
+    "lgcode": "\nsunbawa\ntaliwang\nsoembaneesch\nsoembasche\nsoembawareesche\nsumbawa"
+  },
+  "identifier": {
+    "multitree": "smw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blust:NBorneo**:80-91 **hh:hv:Adelaar:Malayo-Sumbawan**",
+    "subrefs": "\n**hh:hv:Blust:NBorneo**\n**hh:hv:Adelaar:Malayo-Sumbawan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sumbawa (smw-smw) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tchitchege",
+    "hid": "tck",
+    "level": "language",
+    "iso639-3": "tck",
+    "latitude": "-2.03393",
+    "longitude": "13.6001",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "links": "\n[Tchitchege](https://endangeredlanguages.com/lang/5107)\nhttps://www.wikidata.org/entity/Q36595\nhttps://en.wikipedia.org/wiki/Tsege_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Alewijnseetal:Gabon** **hh:hv:Grollemund:Bantu-Nord-Ouest**:380",
+    "subrefs": "\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Obenga:Teke**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Niama-Niama:Bantu-Gabon**\n**hh:phon:Ikapi:Lintsitseke**"
+  },
+  "altnames": {
+    "multitree": "\nTchitchege",
+    "lexvo": "\nTchitchege [en]",
+    "hhbib_lgcode": "\nB701_Atsitsege\nBantsintseke\nLatsitsege\nLatsitsègè\nLintsitsèkè (B701)\nTsitsege",
+    "elcat": "\nTchitchege"
+  },
+  "triggers": {
+    "lgcode": "\nvarieties AND computational"
+  },
+  "identifier": {
+    "multitree": "tck",
+    "endangeredlanguages": "5107"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tchitchege (5107-tck) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

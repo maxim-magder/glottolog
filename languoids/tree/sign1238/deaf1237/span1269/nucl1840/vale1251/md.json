@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Valencian Sign Language",
+    "hid": "vsv",
+    "level": "language",
+    "iso639-3": "vsv",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ],
+    "longitude": "-0.75",
+    "latitude": "39.5",
+    "links": "\nhttps://www.wikidata.org/entity/Q32663\nhttps://en.wikipedia.org/wiki/Valencian_Sign_Language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**\n**hh:s:FESORD:Signos-Valenciana**\n**iso6393:2006-087**"
+  },
+  "triggers": {
+    "lgcode": "\nsignos\nvalenciana\nsigname"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Valencian Sign Language (vsv-vsv) = 6b (Threatened). Provincially recognized language in Valencia (2006, Law 1-2006, Autonomy Statute of Valencia, Article 13(4))."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nValencia LSV"
+  },
+  "classification": {
+    "sub": "Catalan Sign Language [cata1241], Valencian Sign Language [vale1251], Spanish Sign Language [span1263] (including Galician) clearly form a tight-knit family lexicostatistically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**, **hh:h:Quer:Sign-Mediterranean**:98, **hh:s:Cabeza-Pereiro:Spanish-Sign**:729). Venezuelan Sign Language [vene1237] has a historical connection and also belongs to this family (**hh:soc:WilliamsParks:Deaf-Venezuela**):9. This family has an independent history (**hh:s:Cabeza-Pereiro:Spanish-Sign**):730-731 and (contra **hh:hv:Wittmann:Classification-Signees**:282) is not related to LSF, at least not so that it can be traced lexically (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22, nor to Lengua de Señas Mexicana (**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**):22.",
+    "subrefs": "\n**hh:s:Cabeza-Pereiro:Spanish-Sign**\n**hh:h:Quer:Sign-Mediterranean**\n**hh:hvsoc:ParkhurstParkhurst:Spanish-Sign**\n**hh:hv:Wittmann:Classification-Signees**\n**hh:soc:WilliamsParks:Deaf-Venezuela**"
+  }
+}

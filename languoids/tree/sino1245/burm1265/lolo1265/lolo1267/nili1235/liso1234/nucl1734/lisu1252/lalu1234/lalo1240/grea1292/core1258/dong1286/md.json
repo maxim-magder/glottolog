@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Dongshanba Lalo",
+    "hid": "yik",
+    "level": "language",
+    "iso639-3": "yik",
+    "latitude": "25.435",
+    "longitude": "100.178",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[CE-Yong'an](https://lexibank.clld.org/languages/yangyi-CEYongan)\n[Diaocao](https://lexibank.clld.org/languages/yanglalo-Diaocao)\nhttps://www.wikidata.org/entity/Q12953333"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hphon:Wang:Yi**\n**hh:hvw:Lama:Nisoic**\n**hh:hvwphon:Yang:Lalo**\n**hh:hvwphon:Yang:Lalo:2015**\n**iso6393:2007-071**\n**iso6393:2011-094**"
+  },
+  "altnames": {
+    "multitree": "\nLalo\nLalo,Dongshanba\nLalu\nLalupa\nLolo\nYi\nYi, Xishan Lalu",
+    "lexvo": "\nDongshanba Lalo [en]",
+    "hhbib_lgcode": "\nDongshanba\nEastern Lalo in Diaocao village Shijiao qu-Dali-Dali\nEastern Lalo in Houshan village in Fengyi-Dali-Dali\nEastern Lalo in Taoshu village in Taiyi-Dali-Dali\nLalo of Wuyin Weishan Yi\nWeishan\nYi Weishan 1"
+  },
+  "triggers": {
+    "lgcode": "\nlalo\nyi AND continuum"
+  },
+  "identifier": {
+    "multitree": "yik"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Yang:Lalo**",
+    "subrefs": "\n**hh:hvwphon:Yang:Lalo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Lalo (534-yik, ywt, yit, ywl) = Vulnerable"
+  }
+}

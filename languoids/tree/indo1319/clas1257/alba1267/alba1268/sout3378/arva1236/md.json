@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Arvanitika Albanian",
+    "hid": "aat",
+    "level": "language",
+    "iso639-3": "aat",
+    "latitude": "38.283",
+    "longitude": "23.3703",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GR"
+    ],
+    "links": "\n[Arvanitika](https://endangeredlanguages.com/lang/3582)\nhttps://en.wikipedia.org/wiki/Arvanitika\nhttps://www.wikidata.org/entity/Q29347"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Bellusci:Albanesi-Italia-Grecia**\n**hh:g:Haebler:Albanischen-Salamis**\n**hh:g:Sasse:Arvanitika**\n**hh:hv:Sasse:Albanischen**\n**hh:s:Furikis:Ellenoalvanike**\n**hh:soc:Tsitsipis:Albanian-Greece**\n**hh:soc:Tsitsipis:Albanian-Greece:1998**\n**hh:typ:Sasse:Arvanitischen-Andros**\n**hh:w:Sasse:Albanischer-Andros**"
+  },
+  "altnames": {
+    "multitree": "\nAlbanesisch\nAlbanian\nAlbanian, Arvanitika\nArber\nArberichte\nArbresh\nArnaut\nArvanitic\nArvanitika\nArvanitika Albanian\nShqipēri\nShquipni\nŠkip",
+    "lexvo": "\nArvaniteg [br]\nArvanitico [it]\nArvanitika Albanian [en]\nArvanitika [en]\nArvanitiska [sv]\nArvanitski jezik [hr]\nArvaníska [is]\nLíngua arvanitica [pt]\nΑρβανίτικη γλώσσα [el]",
+    "hhbib_lgcode": "\nAlbanian-Arvanitika\nGreek-Albanian in Attika\nKirjaki in Böotien und Spata in Attika\nNordostattikoböotische\nNordöstlichen Teil der Eparchia Attika\nSalamis Albanisch",
+    "elcat": "\nAlbanesisch\nAlbanian\nArber\nArberichte\nArbresh\nArnaut\nArvanitic\nArvanitika\nArvanitika Albanian\nShqipēri\nShquipni\nŠkip"
+  },
+  "triggers": {
+    "lgcode": "\nsalamis\narvanitika\ngriechenland"
+  },
+  "identifier": {
+    "multitree": "aat",
+    "endangeredlanguages": "3582"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sasse:Albanischen**",
+    "subrefs": "\n**hh:hv:Sasse:Albanischen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Arvanitika (3582-aat) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

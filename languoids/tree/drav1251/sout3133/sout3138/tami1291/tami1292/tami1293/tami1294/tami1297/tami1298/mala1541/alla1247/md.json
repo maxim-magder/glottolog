@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Allar",
+    "hid": "all",
+    "level": "language",
+    "iso639-3": "all",
+    "latitude": "11.0803",
+    "longitude": "76.6593",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Allar](https://endangeredlanguages.com/lang/3833)\nhttps://www.wikidata.org/entity/Q3393634\nhttps://en.wikipedia.org/wiki/Allar_language"
+  },
+  "classification": {
+    "sub": "**hh:e:Singh:Allar**",
+    "subrefs": "\n**hh:e:Singh:Allar**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Singh:Allar**\n**hh:h:Menon:Kerala**\n**hh:he:Fuchs:India**\n**hh:he:Luiz:Kerala**\n**hh:he:Shashi:Kerala:Some:Other**"
+  },
+  "altnames": {
+    "multitree": "\nAlan\nAlanmar\nAlar\nAllan\nAllar\nChatans",
+    "lexvo": "\nAllar [en]\nAllar language [en]\nBahasa Allar [ms]",
+    "hhbib_lgcode": "\n5. Allar\nAllar intelligible to Malayalam\nAllar speak Malayalam!\nHG: Allar",
+    "elcat": "\nAlan\nAlanmar\nAlar\nAllan\nAllar\nChatans"
+  },
+  "triggers": {
+    "lgcode": "\nallar"
+  },
+  "identifier": {
+    "multitree": "all",
+    "endangeredlanguages": "3833"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Allar (3833-all) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

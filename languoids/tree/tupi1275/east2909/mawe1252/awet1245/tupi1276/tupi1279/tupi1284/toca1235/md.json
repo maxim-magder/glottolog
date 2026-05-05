@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tocantins Asurini",
+    "hid": "asu",
+    "level": "language",
+    "iso639-3": "asu",
+    "latitude": "-3.59359",
+    "longitude": "-49.8991",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\n[Asurini](https://lexibank.clld.org/languages/gerarditupi-Asurini)\n[Asuriní](https://wals.info/languoid/lect/wals_code_asu)\n[Asuriní do Tocantins](https://endangeredlanguages.com/lang/1720)\nhttps://phoible.org/languages/toca1235\nhttps://www.wikidata.org/entity/Q32041490"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bendor-samuel:ed:71**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Tupi_asurini_do_tocantins02**\n**fabreall2009ann:Tupi_asurini_do_tocantins03**\n**fabreall2009ann:Tupi_asurini_do_tocantins06**\n**fabreall2009ann:Tupi_asurini_do_tocantins07**\n**fabreall2009ann:Tupi_asurini_do_tocantins08**\n**fabreall2009ann:Tupi_asurini_do_tocantins09**\n**fabreall2009ann:Tupi_asurini_do_tocantins10**\n**fabreall2009ann:Tupi_asurini_do_tocantins11**\n**fabreall2009ann:Tupi_asurini_do_tocantins13**\n**fabreall2009ann:Tupi_asurini_do_tocantins15**\n**fabreall2009ann:Tupi_asurini_do_tocantins18**\n**fabreall2009ann:Tupi_asurini_do_tocantins20**\n**fabreall2009ann:Tupi_asurini_do_tocantins21**\n**fabreall2009ann:Tupi_asurini_do_tocantins22**\n**fabreall2009ann:Tupi_asurini_do_tocantins23**\n**fabreall2009ann:Tupi_asurini_do_tocantins24**\n**fabreall2009ann:Tupi_asurini_do_tocantins25**\n**fabreall2009ann:Tupi_asurini_do_tocantins26**\n**fabreall2009ann:Tupi_asurini_do_tocantins27**\n**fabreall2009ann:Tupi_asurini_do_tocantins28**\n**fabreall2009ann:Tupi_asurini_do_tocantins31**\n**fabreall2009ann:Tupi_asurini_do_tocantins32**\n**fabreall2009ann:Tupi_asurini_do_tocantins33**\n**fabreall2009ann:Tupi_asurini_do_tocantins34**\n**fabreall2009ann:Tupi_asurini_do_tocantins35**\n**fabreall2009ann:Tupi_asurini_do_tocantins36**\n**fabreall2009ann:Tupi_asurini_do_tocantins37**\n**fabreall2009ann:Tupi_asurini_do_tocantins38**\n**fabreall2009ann:Tupi_asurini_do_tocantins39**\n**fabreall2009ann:Tupi_asurini_do_tocantins40**\n**hh:d:Rodrigues:Asurini-Tocantins**\n**hh:e:Andrade:Asurini-Tocantins**\n**hh:e:Nimuendaju:LMXingu**\n**hh:h:Arnaud:Tocantins**\n**hh:hdial:RodriguesCabral:Asurini**\n**hh:he:Vidal:Tocantins**\n**hh:hv:Lemle:Tupi-Guarani**\n**hh:lde:Arnaud:Asurini-Parakana**\n**hh:s:Harrison:Asurini**\n**hh:s:Harrison:Asurini:1975**\n**hh:soc:Aquino:Asurini-Tocantins**\n**hh:styp:Harrison:Asurini**\n**hh:styp:Vieira:Asurini**\n**iso6393:2006-026**\n**ldh:item_407366**\n**ldh:item_407520**\n**ldh:item_407523**\n**mpieva:BendorSamuel1971Tupistud**\n**mpieva:Nicholson1975Initiati**\n**mpieva:Nicholson1977OrdemFra**\n**sil16:10003**\n**sil16:11015**\n**sil16:11016**"
+  },
+  "altnames": {
+    "wals": "\nAsuriní",
+    "ruhlen (1987)": "\nAsuriní",
+    "moseley & asher (1994)": "\nAsurini",
+    "multitree": "\nAkuawa\nAkwawa\nAkwaya\nAkwáwa\nAssurini\nAssuriní\nAssuriní do Tocantins\nAsurini\nAsuriní\nAsuriní do Tocantins\nAsuriní do Trocará\nAsurí\nMudjetire\nParakaná\nSuru do Tocantins\nTocantins Asuriní",
+    "lexvo": "\nAkwáwa [en]\nLíngua aquáua [pt]\nTocantins Asurini [en]",
+    "hhbib_lgcode": "\nAsurini-Tocantins\nAsuriní\nAsuriní do Tocantins",
+    "elcat": "\nAkuawa\nAkwaya\nAkwáwa\nAssurini\nAssuriní\nAssuriní do Tocantins\nAsurini\nAsuriní\nAsuriní do Tocantins\nAsuriní do Trocará\nAsurí\nMudjetire\nParakaná\nSuru do Tocantins\nTocantins\nTocantins Asuriní"
+  },
+  "triggers": {
+    "lgcode": "\nassurini AND tocantins\nNOT xingu AND asurini"
+  },
+  "identifier": {
+    "wals": "asu",
+    "multitree": "asu;asn-akw",
+    "endangeredlanguages": "1720"
+  },
+  "classification": {
+    "sub": "**hh:hv:RodriguesCabral:Tupi-Guarani**",
+    "subrefs": "\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Asuriní do Tocantins (1720-asu) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

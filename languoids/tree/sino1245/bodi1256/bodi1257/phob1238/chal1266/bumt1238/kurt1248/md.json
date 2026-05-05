@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kurtokha",
+    "hid": "xkz",
+    "level": "language",
+    "iso639-3": "xkz",
+    "latitude": "27.5365",
+    "longitude": "90.9822",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT",
+      "CN"
+    ],
+    "links": "\n[Kurtokha](https://endangeredlanguages.com/lang/5655)\n[Kurtokha](https://grambank.clld.org/languages/kurt1248)\nhttps://en.wikipedia.org/wiki/Kurt%C3%B6p_language\nhttps://phoible.org/languages/kurt1248\nhttps://www.wikidata.org/entity/Q3695193"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:hyslop:11**\n**hh:g:Hyslop:Kurtop**\n**hh:g:Hyslop:Kurtop:2017**\n**hh:hv:Hyslop:East-Bodish:Reconstruction**\n**hh:hv:Hyslop:Kurtop-Bhutan**\n**hh:hvld:Hyslop:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish:2010**\n**hh:phon:Hyslop:Kurtop**\n**hh:phon:Hyslop:Kurtop-Context**\n**hh:s:Hyslop:Kurtop:2017**\n**hh:typ:Busch:Kurtoep**\n**hh:w:MichailovskyMazaudon:Bumthang**"
+  },
+  "altnames": {
+    "multitree": "\nGurtü\nKurteopkha\nKurthopkha\nKurtobikha\nKurtokha\nKurtopakha\nKurtöp\nKürthöpka",
+    "lexvo": "\nKurtokha [en]\nKurtöp language [en]",
+    "hhbib_lgcode": "\nKurtoep",
+    "elcat": "\nAu Gemale\nGurtü\nKurteopkha\nKurthopkha\nKurtokha\nKurtopakha\nKurtöbikha\nKurtöp\nKurtöpkha\nKürthöpka\nZhâke"
+  },
+  "triggers": {
+    "lgcode": "\nkurtoep"
+  },
+  "identifier": {
+    "multitree": "xkz",
+    "endangeredlanguages": "5655"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bodt:East-Bodish** **hh:hvld:Hyslop:East-Bodish**",
+    "subrefs": "\n**hh:hv:Bodt:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kurtokha (5655-xkz) = Vulnerable (20 percent certain, based on the evidence available) [Hyslop 2011](cldf:hyslop:11)"
+  }
+}

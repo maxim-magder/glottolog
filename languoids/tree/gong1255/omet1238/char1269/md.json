@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Chara",
+    "hid": "cra",
+    "level": "language",
+    "iso639-3": "cra",
+    "latitude": "6.63946",
+    "longitude": "36.4192",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[C'ara](https://endangeredlanguages.com/lang/5930)\n[Chara](https://grambank.clld.org/languages/char1269)\nhttps://en.wikipedia.org/wiki/Chara_language\nhttps://www.wikidata.org/entity/Q5073694"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aklilu:02**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:np:nd:264**\n**eballiso2009:10715**\n**eballiso2009:24644**\n**eballiso2009:24645**\n**eballiso2009:24647**\n**hh:e:Addisalem:Chara**\n**hh:e:Cerulli:Sciuro**\n**hh:h:Cerulli:Etiopia-Occidentale:1928**\n**hh:hvw:Jordan:Shara-Ometo**\n**hh:s:Cerulli:Giangero**\n**hh:s:Tsegaye:Chara**\n**hh:typ:Aklilu:Chara**\n**hh:typ:Dubale:Chara**\n**hh:typ:Mulugeta:Tsaratsa**\n**sil16:36294**\n**sil16:37563**\n**sil16:42592**\n**sil16:42595**"
+  },
+  "altnames": {
+    "multitree": "\nC'ara\nChara\nCiara",
+    "lexvo": "\nChara [en]\nChara language [en]",
+    "hhbib_lgcode": "\nBulk'e Shara\nCara\nCiara\nTsaratsa",
+    "elcat": "\nC'ara\nChara\nCiara"
+  },
+  "triggers": {
+    "lgcode": "\nchara\nzaisse"
+  },
+  "identifier": {
+    "multitree": "cra",
+    "endangeredlanguages": "5930"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "C'ara (5930-cra) = Threatened (20 percent certain, based on the evidence available) [n.a. 1998](cldf:np:98:1)"
+  }
+}

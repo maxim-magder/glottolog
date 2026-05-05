@@ -1,0 +1,52 @@
+{
+  "core": {
+    "name": "Wintu",
+    "hid": "wit",
+    "level": "language",
+    "iso639-3": "wit",
+    "latitude": "39.7176",
+    "longitude": "-122.445",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Wintu](https://grambank.clld.org/languages/wint1259)\n[Wintu](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Wintu)\n[Wintu](https://wals.info/languoid/lect/wals_code_win)\nhttps://en.wikipedia.org/wiki/Wintu_language\nhttps://phoible.org/languages/wint1259\nhttps://www.wikidata.org/entity/Q56754"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:nichols:92**\n**cldf:pitkin:77**\n**cldf:schlichter:79**\n**cldf:schlichter:81**\n**cldf:shepherd:89**\n**hh:b:Pitkin:Wintun**\n**hh:d:Pitkin:Wintu**\n**hh:d:Schlichter:Wintu**\n**hh:dial:Schlichter:Wintu**\n**hh:e:Bois:Wintu**\n**hh:e:Goldschmidt:Nomlaki**\n**hh:e:LaPena:Wintu**\n**hh:g:Bjorklund:Nomlaki**\n**hh:g:Pitkin:Wintu**\n**hh:g:Pitkin:Wintu:1963**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hew:Hale:Philology**\n**hh:hv:Golla:Alsea**\n**hh:hv:Shepherd:Proto-Wintun**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:s:Dixon:Wintun**\n**hh:typ:Cramond:Wintu**\n**hh:w:Johnson:California**\n**iso6393:2012-144**\n**sil16:23062**\n**sil16:33285**"
+  },
+  "altnames": {
+    "wals": "\nPatwin\nWintu",
+    "wals other": "\nWintun",
+    "ruhlen (1987)": "\nPatwin\nWintu",
+    "moseley & asher (1994)": "\nPatwin\nWintun",
+    "multitree": "\nColouse\nNorth Wintun\nPatwin\nWintu\nWintu-Nomlaki\nWintu-nomlaki\nWintun",
+    "lexvo": "\nWintoueg [br]\nWintu [en]\nWintu language [en]",
+    "hhbib_lgcode": "\nColouse\nDigger\nKope\nNoema-Wylacker\nNome Lackee\nNomlaki\nNumsu\nSacramento River\nTehama\nTrinity\nUpper Sacramento (Nomlaki)\nWintun\nnear to Mag. Reading's on the upper waters of the Sacrame to river\" (Nomlaki)"
+  },
+  "triggers": {
+    "lgcode": "\nwintun\nnomlaki\npatwin\nwintu"
+  },
+  "iso_retirement": {
+    "comment": "Modern scholars of Wintuan languages are in agreement that Wintu, Nomlaki and\nPatwin are three separate languages. The most thorough discussion of the\nlanguage and dialect situation in all three of the Wintuan languages is in\nWhistler's (1980) dissertation (pp. 15– 30, 46–53). Shepherd's (2005) book on\nProto-Wintuan also distinguishes these three languages (see esp. pp. 1–4). Other\nmore general works in agreement are: Golla (2011, 140–147), Mithun (1999,\n560–563), and Campbell (1997, 128). The discussion in Golla (2011) of the\ndialect continuum between Wintu and Nomlaki should by no means rule out their\nbeing recognized as two distinct languages. Dialect continuums are not uncommon\nin geographically adjacent languages which are closely related. Authors of\nethnographies, grammars, dictionaries and collections of texts are careful to\ndistinguish the three groups both ethnographically and linguistically: cf. for\nPatwin, Kroeber (1932) and Whistler (1977, 1978); for Nomlaki, Goldschmidt\n(1951); and for Wintu, Shepherd (1989), Pitkin (1984, 1985), and Schlichter\n(1981).",
+    "code": "wit",
+    "name": "Wintu",
+    "effective": "2013-01-23",
+    "reason": "split",
+    "remedy": "Split into Wintu [wnw], Nomlaki [nol], and Patwin [pwi]",
+    "change_request": "2012-144",
+    "change_to": "\nwnw\nnol\npwi"
+  },
+  "identifier": {
+    "wals": "win;ptw",
+    "multitree": "wit"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Wintu (1145-wit) = Dormant"
+  }
+}

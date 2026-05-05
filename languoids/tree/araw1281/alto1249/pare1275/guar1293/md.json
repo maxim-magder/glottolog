@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Baniva de Maroa",
+    "hid": "gae",
+    "level": "language",
+    "iso639-3": "gae",
+    "latitude": "1.80835",
+    "longitude": "-66.922505",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "CO",
+      "VE"
+    ],
+    "links": "\n[Baniva de Maroa](https://grambank.clld.org/languages/guar1293)\n[Guarequena](https://endangeredlanguages.com/lang/1951)\n[Warekena](https://wals.info/languoid/lect/wals_code_wrk)\nhttps://en.wikipedia.org/wiki/Warekena_language\nhttps://phoible.org/languages/guar1293\nhttps://www.wikidata.org/entity/Q1091095"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikhenvald:07:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:np:32:1**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**fabreall2009ann:Arawak_warekena01**\n**fabreall2009ann:Arawak_warekena02**\n**fabreall2009ann:Arawak_warekena03**\n**fabreall2009ann:Arawak_warekena08**\n**fabreall2009ann:Arawak_warekena09**\n**fabreall2009ann:Arawak_warekena12**\n**fabreall2009ann:Arawak_warekena13**\n**fabreall2009ann:Arawak_warekena14**\n**fabreall2009ann:Arawak_warekena15**\n**fabreall2009ann:Arawak_warekena19**\n**fabreall2009ann:Arawak_warekena20**\n**fabreall2009ann:Arawak_warekena21**\n**fabreall2009ann:Arawak_warekena22**\n**fabreall2009ann:Arawak_warekena23**\n**fabreall2009ann:Arawak_warekena25**\n**fabreall2009ann:Arawak_warekena26**\n**hh:d:Aikhenvald:Warekena**\n**hh:d:Gonzalez:Baniva**\n**hh:e:Goldman:Uaupes**\n**hh:g:Aikhenvald:Warekena**\n**hh:g:Socorro:Baniva**\n**hh:hdial:Nanez:Maipure**\n**hh:hew:Wallace:Amazon**\n**hh:hv:Chacon:Aruak-Rio-Negro**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Ramirez:Arawak**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:s:Gonzalez:Baniva**\n**hh:s:Mosonyi:Baniva**\n**hh:s:Mosonyietal:Baniva**\n**hh:s:delaGrasserie:Baniva**\n**hh:vw:Payne:Apolista**\n**hh:w:Arawak:Warekena**\n**hh:w:CrevauxSagotAdam:Roucouyenne**\n**hh:w:Nanez:Piapoco-Baniva-Guarequena**\n**hh:w:Natterer:Warekena**\n**hh:w:deCivrieuxLichy:Guainia**\n**langsci:ramirez:01**\n**sil16:38936**"
+  },
+  "altnames": {
+    "wals": "\nWarekena",
+    "wals other": "\nWarekena (Anamoim)",
+    "ruhlen (1987)": "\nWarekena",
+    "moseley & asher (1994)": "\nGuarequena",
+    "multitree": "\nArequena\nGuarekena\nGuarenquena\nGuarequena\nGuarequena (Venezuela)\nUerequema\nUrequema\nWarekana (République bolivarienne du Venezuela)\nWarekena\nWarekena (Brésil)\nWarekéna\nWerikena",
+    "lexvo": "\nGuarequena [en]",
+    "hhbib_lgcode": "\nApolista of Montaño Aragón which pretends to be Apolista of Nordenskiöld but is actually Baniva of Maroa (Ramirez 2019:59-61)\nBaniva\nBaniwa (Toma and Maroa)\nBaniwa (Tomo-Maroa)\nGuarequena\nMaroa)\nNew Warekena\nWalékjena\nWarekena\nWarekena do Rio Xiê\nWarekena do Xie\nWarekena of Aikhenvald\nWarekena of Natterer 1831\nWerekena (Maracajátapuya)\nWerekena do Xié/Baniva-de-Maroa\nvocabulaire Baniva\nvocabulario Vaniva",
+    "elcat": "\nArequena\nGuarekena\nGuarenquena\nGuarequena\nUerequema\nUrequema\nWarekena\nWarekéna\nWerikena"
+  },
+  "triggers": {
+    "lgcode": "\nwarekana\nwarekena\npiacava\nguarekena\nguarequena\nxie\ntransformado"
+  },
+  "identifier": {
+    "wals": "wrk",
+    "multitree": "gae;wkna",
+    "endangeredlanguages": "1951"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ramirez:Arawak-Enciclopedia**:III:77-108 **hh:htyp:Zamponi:Maipure-Yavitero**:584-585",
+    "subrefs": "\n**hh:hvw:Ramirez:Arawak-Enciclopedia**\n**hh:htyp:Zamponi:Maipure-Yavitero**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Guarequena (1951-gae) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

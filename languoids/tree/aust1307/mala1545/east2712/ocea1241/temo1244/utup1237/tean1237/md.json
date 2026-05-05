@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Teanu",
+    "hid": "tkw",
+    "level": "language",
+    "iso639-3": "tkw",
+    "latitude": "-11.6752",
+    "longitude": "166.868",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Buma](https://lexibank.clld.org/languages/abvdoceanic-Buma)\n[Buma](https://wals.info/languoid/lect/wals_code_bum)\n[Teanu](https://endangeredlanguages.com/lang/2453)\n[Teanu](https://grambank.clld.org/languages/tean1237)\nhttps://en.wikipedia.org/wiki/Teanu_language\nhttps://www.wikidata.org/entity/Q3516731"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:lynch:ross:etal:ed:02:7**\n**cldf:np:nd:264**\n**cldf:tryon:hackman:83**\n**hh:ew:Lesson:Vanikoro**\n**hh:h:Tryon:Bougainville**\n**hh:hv:Francois:Vanikoro:2006**\n**hh:hvs:Francois:Vanikoro**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hw:dUrville:Astrolabe**\n**hh:s:Tryon:Buma**\n**hh:t:Tue:Vanikoro**\n**hh:typ:Francois:Vanikoro:Person**"
+  },
+  "altnames": {
+    "wals": "\nBuma",
+    "wals other": "\nBuma (Solomon Islands)\nBuma (in Solomon Islands)",
+    "ruhlen (1987)": "\nBuma",
+    "moseley & asher (1994)": "\nBuma",
+    "multitree": "\nBuma\nPuma\nTeanu",
+    "lexvo": "\nTeanu [en]",
+    "hhbib_lgcode": "\nBuma\nTaneann\nTaneanou",
+    "elcat": "\nBuma\nPuma\nTeanu"
+  },
+  "triggers": {
+    "lgcode": "\nNOT of AND NOT les AND NOT francais AND buma"
+  },
+  "identifier": {
+    "wals": "bum",
+    "multitree": "tkw",
+    "endangeredlanguages": "2453"
+  },
+  "classification": {
+    "sub": "**hh:hv:RossNaess:Temotu**, **hh:hv:NaessBoerger:RSC**, **hh:hvs:Francois:Vanikoro**",
+    "subrefs": "\n**hh:hv:RossNaess:Temotu**\n**hh:hv:NaessBoerger:RSC**\n**hh:hvs:Francois:Vanikoro**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Teanu (2453-tkw) = Severely Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

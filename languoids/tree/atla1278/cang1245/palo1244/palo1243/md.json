@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Palor",
+    "hid": "fap",
+    "level": "language",
+    "iso639-3": "fap",
+    "latitude": "14.8628",
+    "longitude": "-16.9557",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\n[Paloor](https://endangeredlanguages.com/lang/7711)\nhttps://www.wikidata.org/entity/Q36318\nhttps://en.wikipedia.org/wiki/Palor_language\nhttps://phoible.org/languages/palo1243\n[Palor](https://wals.info/languoid/lect/wals_code_plr)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:alton:87**\n**cldf:childs:06**\n**cldf:dalton:83:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:manessy:sauvageout:ed:63**\n**cldf:np:nd:264**\n**eballiso2009:28999**\n**eballiso2009:55513**\n**hh:g:dAlton:Palor**\n**hh:g:dAlton:Palor:1983**\n**hh:hv:Merrill:Cangin**\n**hh:hvtyp:Drolc:Cangin**\n**hh:hvw:Williams:Cangin**\n**hh:s:Cisse:Palor**\n**hh:s:Thornell:Paloor**\n**hh:t:Thornell:Mbadat**\n**hh:t:Thornell:Soune**\n**hh:w:Thornell:Paloor**\n**iso6393:2017-016**\n**mpieva:Alton1987Lepalore**"
+  },
+  "altnames": {
+    "wals": "\nPalor",
+    "ruhlen (1987)": "\nPalor",
+    "moseley & asher (1994)": "\nFalor",
+    "multitree": "\nFalor\nPalar\nPaloor\nPalor\nSili\nSili-Sili\nWaro",
+    "lexvo": "\nPalor [en]",
+    "hhbib_lgcode": "\nKajoor\nKhodaba\nMbadat Paloor\nPaloor\nSoune Paloor\nSouthern Paloor",
+    "elcat": "\nFalor\nPalar\nPaloor\nPalor\nSili\nSili-Sili\nWaro"
+  },
+  "triggers": {
+    "lgcode": "\nfalor\npalor"
+  },
+  "identifier": {
+    "wals": "plr",
+    "multitree": "fap",
+    "endangeredlanguages": "7711"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Cangin**",
+    "subrefs": "\n**hh:hv:Merrill:Cangin**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Paloor (7711-fap) = Threatened (20 percent certain, based on the evidence available) (Seriously threatened and doomed to extinction in the near future.) [Childs 2006](cldf:childs:06)"
+  }
+}

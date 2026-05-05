@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tiranige Diga Dogon",
+    "hid": "tde",
+    "level": "language",
+    "iso639-3": "tde",
+    "latitude": "14.76",
+    "longitude": "-3.7",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ML"
+    ],
+    "links": "\n[Tiranige Diga](https://endangeredlanguages.com/lang/8738)\n[Tiranige_Diga](https://lexibank.clld.org/languages/hantganbangime-Tiranige_Diga)\nhttps://en.wikipedia.org/wiki/Duleri_Dogon\nhttps://www.wikidata.org/entity/Q5313387"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:heath:12**\n**cldf:lewis:paul:etal:ed:15**\n**hh:g:Heath:Tiranige**\n**hh:hw:Bertho:Dogon**\n**iso6393:2009-022**\n**ldh:zenodo_3725809**"
+  },
+  "altnames": {
+    "lexvo": "\nTiranige Diga Dogon [en]",
+    "hhbib_lgcode": "\nDuleri\nTiranige",
+    "elcat": "\nDuleri\nDuleri Dom\nTiranige\nTiranige Diga\nTiranige Diga Dogon"
+  },
+  "triggers": {
+    "lgcode": "\ntiranige"
+  },
+  "classification": {
+    "sub": "**hh:hw:Hochstetler:Dogon**, **hh:hv:HeathProkhorov:Dogon** **hh:hv:MoranProkic:Dogon**",
+    "subrefs": "\n**hh:hw:Hochstetler:Dogon**\n**hh:hv:HeathProkhorov:Dogon**\n**hh:hv:MoranProkic:Dogon**"
+  },
+  "identifier": {
+    "endangeredlanguages": "8738"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tiranige Diga (8738-tde) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

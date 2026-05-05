@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Western-Kambari-Cishingini",
+    "hid": "asg",
+    "level": "language",
+    "iso639-3": "asg",
+    "latitude": "9.88458",
+    "longitude": "4.48564",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Shingini_language\nhttps://www.wikidata.org/entity/Q35199"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:51210**\n**eballiso2009:56713**\n**hh:d:Stark:Cishingini**\n**hh:e:Harris:Yauri**\n**hh:h:Temple:NNigeria**\n**hh:hel:Sommer:Survey**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**sil16:40759**\n**sil16:40760**"
+  },
+  "altnames": {
+    "multitree": "\n\"Maunchi\"\n\"Mawanchi\"\nAgwara Kambari\nAschingini\nAshaganna\nAshingini\nChisingini\nCishingini\nKambari\nKamberchi\nKamberri\nYauri",
+    "lexvo": "\nCishingini [en]",
+    "hhbib_lgcode": "\nCishingini\nKambari-Southwestern from Mahuta in Agwara district\nYauri of Yelwa district"
+  },
+  "triggers": {
+    "lgcode": "\nyauri\nkaburuma\ntsuvad{i\ncishingini\nudani"
+  },
+  "identifier": {
+    "multitree": "asg"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Blench:WKainji** **hh:g:McGill:Cicipu** **hh:hv:McGill:Kainji**",
+    "subrefs": "\n**hh:hvw:Blench:WKainji**\n**hh:g:McGill:Cicipu**\n**hh:hv:McGill:Kainji**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Cishingini (asg-asg) = 5 (Developing)."
+  }
+}

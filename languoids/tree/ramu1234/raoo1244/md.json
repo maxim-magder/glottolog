@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Rao",
+    "hid": "rao",
+    "level": "language",
+    "iso639-3": "rao",
+    "latitude": "-4.85243",
+    "longitude": "144.511",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Rao](https://endangeredlanguages.com/lang/5326)\n[Rao](https://wals.info/languoid/lect/wals_code_rao)\nhttps://en.wikipedia.org/wiki/Rao_language\nhttps://www.wikidata.org/entity/Q11732596"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hb:Zgraggen:Madang**\n**hh:he:Kasprus:Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Zgraggen:Madang**\n**hh:hvw:DaviesComrie:Yuat**\n**hh:hw:Capell:Bogia**\n**hh:s:Christensen:Rao**\n**hh:s:Stanhope:Rao**\n**hh:typ:Christensen:Rao-Discourse**\n**hh:typ:Christensen:Rao-Predications**\n**hh:w:Laycock:D24**\n**hh:w:Zgraggen:Ramu**\n**hh:w:Zgraggen:Ramu:1974**"
+  },
+  "altnames": {
+    "wals": "\nRao",
+    "ruhlen (1987)": "\nRao",
+    "moseley & asher (1994)": "\nRao",
+    "multitree": "\nAnnaberg\nRao\nRao Breri",
+    "lexvo": "\nRao [en]",
+    "hhbib_lgcode": "\nAnaberg\nKragebu\nNdelo (Annanberg) (Rao)\nRao of Lyle Scholz at Gokto",
+    "elcat": "\nAnnaberg\nRao\nRao Breri"
+  },
+  "triggers": {
+    "lgcode": "\ngrengabu"
+  },
+  "identifier": {
+    "wals": "rao",
+    "multitree": "raoo;rao",
+    "endangeredlanguages": "5326"
+  },
+  "classification": {
+    "sub": "Rao shares too little lexicon with Aiom and Anor **hh:hvld:Zgraggen:Madang**:164 **hh:typ:Brooks:Chini**:69-76 to justify a subgrouping with them (I wish to thank Joseph Brooks for pointing this out)",
+    "subrefs": "\n**hh:hvld:Zgraggen:Madang**\n**hh:typ:Brooks:Chini**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Rao (5326-rao) = Threatened (20 percent certain, based on the evidence available) [Stanhope 1980](cldf:stanhope:80)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Koti",
+    "hid": "eko",
+    "level": "language",
+    "iso639-3": "eko",
+    "latitude": "-16.4823",
+    "longitude": "39.7602",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "MZ"
+    ],
+    "links": "\n[Ekoti](https://wals.info/languoid/lect/wals_code_eko)\n[Koti](https://grambank.clld.org/languages/koti1238)\nhttps://en.wikipedia.org/wiki/Koti_language\nhttps://www.wikidata.org/entity/Q29930"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:schadeberg:00**\n**eballiso2009:18408**\n**eballiso2009:26562**\n**eballiso2009:30560**\n**eballiso2009:30563**\n**eballiso2009:30564**\n**eballiso2009:3449**\n**eballiso2009:36231**\n**eballiso2009:48593**\n**eballiso2009:53085**\n**eballiso2009:5641**\n**eballiso2009:59642**\n**hh:b:Maho:Mozambican**\n**hh:g:SchadebergMucanheia:Ekoti**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:ld:deCastro:Angoche**\n**hh:s:Abdul:Ekoti**\n**hh:s:Lyndon:Ekoti**\n**hh:w:Anonimo:Angoche**\n**hh:w:LyndonLyndon:Enatthembo**\n**hh:w:daCunha:Mocambique**\n**iso6393:2023-001**\n**mpieva:Schadeberg2000Ekotithe**\n**sil16:43198**\n**sil16:43199**\n**sil16:43200**\n**sil16:43203**\n**sil16:43205**\n**sil16:43502**"
+  },
+  "altnames": {
+    "wals": "\nEkoti",
+    "ruhlen (1987)": "\nKoti",
+    "multitree": "\nAngoche\nAngoxe\nCoti\nEkoti\nKoti",
+    "lexvo": "\nBahasa Ekoti [ms]\nKoti [en]\nKoti language [en]",
+    "hhbib_lgcode": "\nAngoche\nEkoti\nKi-Ngoje"
+  },
+  "triggers": {
+    "lgcode": "\nenatthembo\nfalladas\nmiiya\nekoti\nwm\nangoche\nmattakhuzi"
+  },
+  "identifier": {
+    "wals": "eko",
+    "multitree": "eko"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:EBantu**",
+    "subrefs": "\n**hh:hv:Nurse:EBantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Koti (eko-eko) = 5 (Developing)."
+  }
+}

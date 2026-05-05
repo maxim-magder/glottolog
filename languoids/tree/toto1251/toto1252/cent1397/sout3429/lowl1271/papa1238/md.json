@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Papantla Totonac",
+    "hid": "top",
+    "level": "language",
+    "iso639-3": "top",
+    "latitude": "20.5671",
+    "longitude": "-97.2554",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Papantla Totonac](https://endangeredlanguages.com/lang/3520)\n[Papantla Totonac](https://grambank.clld.org/languages/papa1238)\n[Totonac (Papantla)](https://wals.info/languoid/lect/wals_code_tpa)\nhttps://en.wikipedia.org/wiki/Papantla_Totonac\nhttps://phoible.org/languages/papa1238\nhttps://www.wikidata.org/entity/Q56329"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2920**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:aschmann:73:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dixon:y:ed:04:3**\n**cldf:ed:10**\n**cldf:kelly:palerm:52**\n**cldf:kriekenberg:18**\n**cldf:levy:92**\n**cldf:levypodolsky:90**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:palerm:52**\n**cldf:suarez:83:2**\n**hh:d:AschmannAschmann:Totonaco-Papantla**\n**hh:d:Garcia:Totonaco**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:phon:Garcia:Totonaco**\n**hh:phon:Garcia:Totonaco-Tajin**\n**hh:phon:Levy:Totonaco-Papantla**\n**hh:s:GarciaGarcia:Totonaco-Papantla**\n**hh:s:Levy:Totonaco**\n**hh:sd:Garcia:Totonaco**\n**hh:w:Patino:Totonaco**\n**ldh:item_408116**\n**mpieva:Aschmann1973Dicciona**\n**mpieva:Levy1990Totonaco**"
+  },
+  "altnames": {
+    "wals": "\nTotonac (Papantla)",
+    "wals other": "\nPapantla dialect\nTotonac",
+    "ruhlen (1987)": "\nTotonako",
+    "moseley & asher (1994)": "\nTotonac",
+    "multitree": "\nLowland Totonaca\nLowland Totonako\nPapantla\nTotonac (Papantla)\nTotonac, Papantla\nTotonaca (Papantla)\nTotonacano de Patla\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonaco de Papantla\nTotonaco papantla\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Papantla\nTotonaque de Patla-Chicontla",
+    "lexvo": "\nPapantla Totonac [en]",
+    "hhbib_lgcode": "\nCar\nCaristay\nEl vocabulario de la variante papanteca incorpora una tercera columna con unas pocas equivalencias del totonaco de la Sierra\nPap\nPapantla\nTajin\nTotonac-Papantla",
+    "elcat": "\nLowland Totonac\nLowland Totonako\nPapantla\nPapantla Totonac\nTotonac\nTotonac (Papantla)\nTotonaco\nTotonaco de Papantla"
+  },
+  "triggers": {
+    "lgcode": "\ntajin\npapantla"
+  },
+  "identifier": {
+    "wals": "tpa",
+    "multitree": "top",
+    "endangeredlanguages": "3520"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Papantla Totonac (3520-top) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

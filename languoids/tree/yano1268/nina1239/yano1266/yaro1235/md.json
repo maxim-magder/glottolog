@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Yaroame",
+    "hid": "yro",
+    "level": "language",
+    "iso639-3": "yro",
+    "latitude": "1.720201",
+    "longitude": "-62.230225",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/%E1%BB%B8aroam%C3%AB_language\nhttps://www.wikidata.org/entity/Q24190396"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Verdum:Yawaripe-Yanomami**\n**hh:ew:Salathe:Karime**\n**hh:hv:Ferreira:Yanomami-Brasil**\n**hh:phon:Ferreira:Yaroame**\n**hh:s:Ferreira:Yaroame**\n**hh:typ:Ferreira:Yaroame**\n**iso6393:2015-021**"
+  },
+  "triggers": {
+    "lgcode": "\nyaroame"
+  },
+  "classification": {
+    "sub": "**hh:hvwtyp:Migliazza:Yanomama** **hh:s:Ferreira:Yaroame** **hh:g:Perri:Yanomama**:12 **hh:hv:Ferreira:Yanomami-Brasil**",
+    "subrefs": "\n**hh:s:Ferreira:Yaroame**\n**hh:hv:Ferreira:Yanomami-Brasil**\n**hh:g:Perri:Yanomama**\n**hh:hvwtyp:Migliazza:Yanomama**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yaroamë (yro-yro) = 6a* (Vigorous)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nKarimé\nYaroamë\nYãroamë"
+  }
+}

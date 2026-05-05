@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Southwest Tanna",
+    "hid": "nwi",
+    "level": "language",
+    "iso639-3": "nwi",
+    "latitude": "-19.57953",
+    "longitude": "169.35603",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Southwest Tanna](https://grambank.clld.org/languages/sout2869)\n[Tanna (Southwest)](https://wals.info/languoid/lect/wals_code_tns)\n[Tanna, Southwest](https://lexibank.clld.org/languages/abvdoceanic-TannaSouthwest)\nhttps://en.wikipedia.org/wiki/Southwest_Tanna_language\nhttps://www.wikidata.org/entity/Q3504488"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1586**\n**asjp2010:2306**\n**asjp2010:2576**\n**asjp2010:336**\n**asjp2010:859**\n**cldf:humphreys:26**\n**hh:hv:Lynch:Southern-Vanuatu**\n**hh:hv:Lynch:Southern-Vanuatu-Pronominal**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Lynch:Tanna**\n**hh:w:Nehrbass:Tanna**\n**mpieva:299**"
+  },
+  "altnames": {
+    "wals": "\nTanna (Southwest)",
+    "ruhlen (1987)": "\nTanna (South-west)",
+    "moseley & asher (1994)": "\nTanna (Southwest)",
+    "multitree": "\nTanna (Southwest)\nTanna, Southwest",
+    "lexvo": "\nSouthwest Tanna [en]",
+    "hhbib_lgcode": "\nEnfit\nIkiyau\nImreang\nLapwang\nSW Tanna\nTanna-Southwest"
+  },
+  "triggers": {
+    "lgcode": "\nwest AND tanna"
+  },
+  "identifier": {
+    "wals": "tns",
+    "multitree": "nwi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Southern-Vanuatu**",
+    "subrefs": "\n**hh:hv:Lynch:Southern-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tanna, Southwest (nwi-nwi) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mbati",
+    "hid": "mdn",
+    "level": "language",
+    "iso639-3": "mdn",
+    "latitude": "3.94184",
+    "longitude": "17.7529",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36165\nhttps://en.wikipedia.org/wiki/Mbati_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:55393**\n**eballiso2009:57562**\n**hh:e:Mbalanga:Issongo**\n**hh:e:delGaudio:Issongo**\n**hh:h:ALAC:CAR**\n**hh:hsoc:GuillaumeDelobeau:Mongoumba**\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:BouquiauxThomas:C10**\n**hh:hvw:Mortier:Ubangi**\n**hh:phontyp:LePage:Mbati**\n**hh:soc:Bister:Mbati**"
+  },
+  "altnames": {
+    "multitree": "\nIsongo\nIssongo\nLisongo\nLissongo\nMbati\nSongo",
+    "lexvo": "\nMbati [en]",
+    "hhbib_lgcode": "\nBwamba of Mbaiki-Boda ClOBw\nIsongo\nIssongo\nMbaiki\nMbati C13"
+  },
+  "triggers": {
+    "lgcode": "\nlobaye\nissongo\nmbati"
+  },
+  "identifier": {
+    "multitree": "mdn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:204-205 **hh:hvld:BouquiauxThomas:C10**",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**\n**hh:hvld:BouquiauxThomas:C10**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbati (mdn-mdn) = 6a* (Vigorous)."
+  }
+}

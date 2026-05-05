@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Sumayela Ndebele",
+    "hid": "NOCODE_Sumayela-Ndebele",
+    "level": "language",
+    "latitude": "-25.6272",
+    "longitude": "29.048",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ZA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Southern_Ndebele_language\nhttps://www.wikidata.org/entity/Q36785"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fleisch:05**\n**cldf:kotey:ed:99:4**\n**eballiso2009:54903**\n**hh:e:vanWarmelo:Kekana**\n**hh:g:Ziervogel:Northern-Transvaal-Ndebele**\n**hh:hvphon:Msimang:Tekela-Nguni**\n**hh:soc:Jallow:Sindebele**\n**hh:sv:Skhosana:Ndebele**\n**hh:vtyp:Wilkes:Mbo**\n**mpieva:Ziervogel1959Agrammar**"
+  },
+  "altnames": {
+    "wals": "\nNdebele (in South Africa)",
+    "wals other": "\nNdebele (South Africa)",
+    "ruhlen (1987)": "\nNdebele",
+    "multitree": "\nNdebele\nNdzundza\nNrebele\nSouthern Ndebele\nTransvaal Ndebele",
+    "lexvo": "\nGjuha ndebele [sq]\nIdioma ndebele del sur [es]\nJęzyk ndebele południowy [pl]\nLingua ndebele [gl]\nLíngua ndebele [pt]\nNdebele, South [en]\nNdebeleg [br]\nNdebelen kieli [fi]\nNrebele [fr]\nSouth Ndebele [en]\nSouthern Ndebele language [en]\nSuda Ndebela lingvo [eo]\nSuid-Ndebele [af]\nSydndebele [sv]\nSüd-Ndebele [de]\nZuid-Ndebele [nl]\nndébélé du Sud [fr]\nНдебеле (език), ЮАР [bg]\n南ンデベレ語 [ja]",
+    "hhbib_lgcode": "\nMbo\nNdebele J. Kekana\nNoord-Transvaalse Ndebele\nNorthern South African Ndebele\nNorthern Transvaal Ndebele\nSindebele"
+  },
+  "triggers": {
+    "lgcode": "\nsenzangakhoma\nndebele\ncivic\nisi{ndebele\nnrebele\ntransvaalse\nngoeni\nisi{ndundza\nisindebele"
+  },
+  "identifier": {
+    "wals": "ndb",
+    "multitree": "nbl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gunnink:Southern-Bantu**:20-22",
+    "subrefs": "\n**hh:hv:Gunnink:Southern-Bantu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "Jallow",
+    "date": "2020-04-01T21:11:32",
+    "comment": "Sindebele (NOCODE_Sumayela-Ndebele-NOCODE_Sumayela-Ndebele) = 6b (Threatened)"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Ndebele [nbl] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as a separate language of South Africa. In addition to Ndebele [nde] in Zimbabwe, the term Ndebele in South Africa may refer to two different groups. One may be called South Transvaal Ndebele or IsiNdebele and is spoken in Mpumalanga and Gauteng provinces (**hh:sv:Skhosana:Ndebele**, **hh:s:Jiyane:IsiNdebele**), and the other can be called North Transvaal Ndebele or Sumayela Ndebele or SiNdebele and is spoken in Limpopo province (**hh:sv:Skhosana:Ndebele**, **hh:g:Ziervogel:Northern-Transvaal-Ndebele**, **hh:soc:Jallow:Sindebele**). South Transvaal Ndebele may be linguistically classified as a Zulu dialect while North Transvaal Ndebele is a more distant separate Nguni language (**hh:hv:Ownby:Nguni**). The information in the Ndebele [nbl] entry is consistent only with South Transvaal Ndebele. But South Transvaal Ndebele, from a purely linguistic perspective, should be merged with Zulu [zul]. Furthermore, the North Transvaal Ndebele which does merit its own entry, has none, given the conflicting data in Ndebele [nbl]. See also: South Transvaal Ndebele [nbl], Zimbabwean Ndebele [nde], Zulu [zul].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Sumayela-Ndebele"
+  }
+}

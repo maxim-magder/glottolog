@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Isthmus-Pajapan Nahuatl",
+    "hid": "nhp",
+    "level": "language",
+    "iso639-3": "nhp",
+    "latitude": "18.2513",
+    "longitude": "-94.6647",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Isthmus-Pajapan Nahuatl](https://grambank.clld.org/languages/isth1241)\n[Nahuatl (Pajapan)](https://wals.info/languoid/lect/wals_code_npa)\nhttps://www.wikidata.org/entity/Q2391273"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:s:Garcia:Pajapan**\n**hh:s:Koji:Nahuatl-Pajapan**\n**hh:s:Leon:Pajapan**\n**hh:typ:Peralta:Nawat-Golfo**"
+  },
+  "altnames": {
+    "wals": "\nNahuatl (Pajapan)",
+    "wals other": "\nNahuatl\nPajapan",
+    "ruhlen (1987)": "\nNawa",
+    "moseley & asher (1994)": "\nNahuatl",
+    "multitree": "\nIsthmus\nMexicano\nNahua de Tabasco\nNahuatl\nNahuatl (Istmo-Pajapan)\nNahuatl (Pajapan)\nNahuatl, Isthmus-Pajapan\nNáhuat de Pajapan\nNáhuatl de Tabasco\nNáhuatl de l'Isthme",
+    "lexvo": "\nIsthmus-Pajapan Nahuatl [en]\nPajapan Nahuatl [en]",
+    "hhbib_lgcode": "\nNahuatl-Isthmus-Pajapan\nPajapan"
+  },
+  "triggers": {
+    "lgcode": "\npajapan\nun AND pajapan\nnawat"
+  },
+  "identifier": {
+    "wals": "npa",
+    "multitree": "nhp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hansen:Nahuan**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Isthmus-Pajapan (nhp-nhp) = 6b (Threatened)."
+  }
+}

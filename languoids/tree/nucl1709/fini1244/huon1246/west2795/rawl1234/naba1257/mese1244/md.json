@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mese",
+    "hid": "mci",
+    "level": "language",
+    "iso639-3": "mci",
+    "latitude": "-6.56072",
+    "longitude": "147.137",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mese](https://lexibank.clld.org/languages/mcelhanonhuon-Mesem)\n[Mesem](https://lexibank.clld.org/languages/transnewguineaorg-mesem)\nhttps://en.wikipedia.org/wiki/Mesem_language\nhttps://www.wikidata.org/entity/Q6821190"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Smith:Morobe**\n**hh:hvtyp:Suter:Huon**\n**hh:hvw:McElhanon:Huon**\n**hh:s:Vanaria:Mese**\n**silpng:silpng1956-1990:693**\n**silpng:silpng2001-2003:114**\n**silpng:silpng2001-2003:261**"
+  },
+  "altnames": {
+    "multitree": "\nMese\nMesem\nMomalili\nMomolili",
+    "lexvo": "\nMese [en]",
+    "hhbib_lgcode": "\nMesem\nMomolili"
+  },
+  "triggers": {
+    "lgcode": "\ndulubm"
+  },
+  "identifier": {
+    "multitree": "mci"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Suter:Huon** **hh:hv:HooleyMcElhanon:Morobe**:1071",
+    "subrefs": "\n**hh:hvtyp:Suter:Huon**\n**hh:hv:HooleyMcElhanon:Morobe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mesem (mci-mci) = 5* (Developing)."
+  }
+}

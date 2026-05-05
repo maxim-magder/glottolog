@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Texistepec Popoluca",
+    "hid": "poq",
+    "level": "language",
+    "iso639-3": "poq",
+    "latitude": "17.8926",
+    "longitude": "-94.8076",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Texistepec](https://endangeredlanguages.com/lang/5285)\n[Texistepec Zoque](https://lexibank.clld.org/languages/wichmannmixezoquean-TexistepecZoque)\nhttps://en.wikipedia.org/wiki/Texistepec_language\nhttps://phoible.org/languages/texi1237\nhttps://www.wikidata.org/entity/Q5908707"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:847**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:09:4**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Wichmann:Popoluca-Texistepec**\n**hh:hld:Gutierrez:Zoqueanos**\n**hh:hv:Gutierrez:Protozoque**\n**hh:hvw:Casanova:Popolocas**\n**hh:s:Reilly:Texistepec-Popoluca**\n**hh:st:Wichmann:Popoluca-Texistepec**\n**hh:t:Wichmann:Popoluca-Texistepec**\n**hh:typ:Diez:Popoluca-Texistepec**\n**hh:w:Calderon:Sayula-Oluta-Texistepec**\n**sil16:46872**"
+  },
+  "altnames": {
+    "multitree": "\nPopoluca de Texistepec\nPopoluca de Texistepeco\nPopoluca, Texistepec\nSoke\nTeksistepekenyo\nTexistepec\nTexistepec Zoque\nTexistepèque",
+    "lexvo": "\nTexistepec Popoluca [en]",
+    "hhbib_lgcode": "\nPopoloca-Tequixtepec\nPopoluca-Texistepec\nTexistepec",
+    "elcat": "\nPopoluca\nPopoluca de Texistepec\nTexistepec\nTexistepec Zoque\nTexistepequeño"
+  },
+  "triggers": {
+    "lgcode": "\ntexistepec"
+  },
+  "identifier": {
+    "multitree": "poq",
+    "endangeredlanguages": "5285"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Texistepec (5285-poq) = Critically Endangered (20 percent certain, based on the evidence available) [n.a. 2009](cldf:np:09:4)"
+  }
+}

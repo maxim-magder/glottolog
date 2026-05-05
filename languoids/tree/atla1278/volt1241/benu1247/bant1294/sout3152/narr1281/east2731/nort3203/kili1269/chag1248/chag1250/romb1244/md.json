@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Rombo",
+    "hid": "rof",
+    "level": "language",
+    "iso639-3": "rof",
+    "latitude": "-3.07772",
+    "longitude": "37.5382",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q33330\nhttps://en.wikipedia.org/wiki/Rombo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:27072**\n**eballiso2009:27933**\n**eballiso2009:38650**\n**eballiso2009:40455**\n**eballiso2009:40791**\n**eballiso2009:42421**\n**eballiso2009:42506**\n**eballiso2009:50699**\n**eballiso2009:53929**\n**eballiso2009:7057**\n**hh:d:Shinagawa:Ronbo**\n**hh:g:Montlahuc:Chaga-Oriental**\n**hh:g:Shinagawa:Ronbo**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mreta:Chasu**\n**hh:hv:Nurse:Chaga**\n**hh:hv:Nurse:ChagaTaita**\n**hh:hv:Winter:Kilimanjaro-Bantu**\n**hh:hvtyp:Philippson:OBantu:Tons**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Philippson:Chaga**\n**hh:s:Shinagawa:Rwa-Uru-Mkuu**"
+  },
+  "altnames": {
+    "multitree": "\nKirombo\nRombo",
+    "lexvo": "\nRombo [en]\nRombo language [en]",
+    "hhbib_lgcode": "\nCaga-Rombo\nE623A_Kiseri\nE623D_Keni\nE623_Mkuu\nKeni\nMashati\nMkuu\nMkuu (E623C)\nMriti\nUseri\nUsseri"
+  },
+  "triggers": {
+    "lgcode": "\nkirombo\nkilimegalia"
+  },
+  "identifier": {
+    "multitree": "rof"
+  },
+  "classification": {
+    "sub": "**hh:hv:Winter:Kilimanjaro-Bantu** **hh:hv:Nurse:ChagaTaita**",
+    "subrefs": "\n**hh:hv:Winter:Kilimanjaro-Bantu**\n**hh:hv:Nurse:ChagaTaita**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rombo (rof-rof) = 6a (Vigorous)."
+  }
+}

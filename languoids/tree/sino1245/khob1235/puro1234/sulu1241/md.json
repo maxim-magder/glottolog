@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Eastern Puroik",
+    "hid": "suv",
+    "level": "language",
+    "iso639-3": "suv",
+    "latitude": "27.3153778",
+    "longitude": "92.3840919",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "IN"
+    ],
+    "links": "\n[Puroik](https://endangeredlanguages.com/lang/5429)\nhttps://www.wikidata.org/entity/Q56408\nhttps://en.wikipedia.org/wiki/Puroik_language\n[Sulung](https://wals.info/languoid/lect/wals_code_slg)"
+  },
+  "classification": {
+    "sub": "**hh:vphon:Lieberherr:Puroik** **hh:hvw:BlenchPost:Arunachal** **hh:hv:Anderson:West-Kameng** **hh:hv:LieberherrBodt:Kho-Bwa**",
+    "subrefs": "\n**hh:hvw:BlenchPost:Arunachal**\n**hh:vphon:Lieberherr:Puroik**\n**hh:hv:LieberherrBodt:Kho-Bwa**\n**hh:hv:Anderson:West-Kameng**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:li:04:1**\n**cldf:lieberherr:nd**\n**cldf:np:nd:264**\n**cldf:remsangphuia:08**\n**cldf:roche:suzuki:17**\n**hh:e:GangwarRamakrishnan:Arunachal**\n**hh:e:Stonor:Sulung**\n**hh:ew:Deuri:Sulungs**\n**hh:g:Li:Sulong**\n**hh:he:Dutta:Arunachal**\n**hh:he:Singh:Scheduled**\n**hh:he:vonFurer-Haimendorf:Subansiri**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:Sun:Eastern-Himalayan-China**\n**hh:hv:Burling:NEIndia**\n**hh:hv:PostBurling:NEIndia**\n**hh:hvw:Blench:Arunachal:2024**\n**hh:hvw:BlenchPost:Arunachal**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:phon:Remsangpuia:Puroik**\n**hh:s:Li:Sulong**\n**hh:s:Li:Sulong:2007**\n**hh:s:Tayeng:Sulung**\n**hh:vphon:Lieberherr:Puroik**\n**hh:w:Soja:Puroik**\n**hh:wsoc:AbrahamSako:Tagin-Puroik**\n**iso6393:2011-104**"
+  },
+  "altnames": {
+    "wals": "\nSulung",
+    "multitree": "\nPuroik\nSulung",
+    "lexvo": "\nSulung [en]",
+    "hhbib_lgcode": "\nKojo-Rojo\nPaji in Kurung Kumey\nPhereng village in Kurung Kome\nPuroik\nPuroik in China\nSanchu village of Chayangtajo circle in East Kameng\nSulong\nSulung\nThese Puroik speakers in Tibet are\nvisitors or recent migrants from Kurung Kumey",
+    "elcat": "\nPuroik\nSulung\n蘇龍語"
+  },
+  "triggers": {
+    "lgcode": "\nsulong\nethnobiological\nsulungs\nsulung\nsubansiri\npuroik"
+  },
+  "identifier": {
+    "wals": "slg",
+    "multitree": "suv",
+    "endangeredlanguages": "5429"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Puroik (5429-suv) = Threatened (20 percent certain, based on the evidence available) [Remsangphuia 2008](cldf:remsangphuia:08)"
+  }
+}

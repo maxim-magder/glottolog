@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tsuvan",
+    "hid": "tsh",
+    "level": "language",
+    "iso639-3": "tsh",
+    "latitude": "10.1551",
+    "longitude": "13.628",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3502326\nhttps://en.wikipedia.org/wiki/Tsuvan_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:26702**\n**hh:hv:Barreteau:NCameroun**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:ld:Frajzyngier:Grammaticalization**\n**hh:w:Brye:Jimjimen-Gude-Tsuvan-Sharwa**\n**sil16:41929**"
+  },
+  "altnames": {
+    "multitree": "\nMatsuvan\nMotsuvan\nTchede\nTelaki\nTeleki\nTerki\nTsuvan",
+    "lexvo": "\nTsuvan [en]\nTsuvan language [en]",
+    "hhbib_lgcode": "\nMutsuvan"
+  },
+  "triggers": {
+    "lgcode": "\ntsuvan"
+  },
+  "identifier": {
+    "multitree": "tsh"
+  },
+  "classification": {
+    "sub": "**hh:hv:BarreteauDieu:ENCameroun**:65-66",
+    "subrefs": "\n**hh:hv:BarreteauDieu:ENCameroun**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Matsuva (tsh-tsh) = 8a (Moribund)."
+  }
+}

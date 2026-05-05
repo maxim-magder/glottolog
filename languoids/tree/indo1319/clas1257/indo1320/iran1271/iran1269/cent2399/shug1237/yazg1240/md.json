@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yazgulyam",
+    "hid": "yah",
+    "level": "language",
+    "iso639-3": "yah",
+    "latitude": "38.2801",
+    "longitude": "71.565",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TJ"
+    ],
+    "links": "\n[Yazgulyami](https://endangeredlanguages.com/lang/3156)\nhttps://www.wikidata.org/entity/Q34186\nhttps://en.wikipedia.org/wiki/Yazghulami_language\n[Yazgulyam](https://wals.info/languoid/lect/wals_code_yaz)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:edelman:66**\n**cldf:efimov:75**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:paul:abbess:etal:10:1**\n**hh:d:Edelman:Jazguljamsko**\n**hh:h:Rastorgueva:Vostocnoiranskie**\n**hh:hv:Payne:Pamir**\n**hh:hv:Sokolova:Jazguljamskogo**\n**hh:hv:Sokolova:Mundzanskogo**\n**hh:phon:Narin:Yazghulami**\n**hh:phonv:Gauthiot:Yazgoulami**\n**hh:s:Edelman:Yazgulyamskij**\n**hh:s:Grierson:Ishkashmi-Zebaki-Yazghulami**\n**hh:s:Paxalina:Pamirskie**\n**hh:styp:Jamison:Yazghulami**\n**hh:t:Zarubin:Yazghulami**\n**hh:w:Skold:Pamir**\n**sil16:45877**"
+  },
+  "altnames": {
+    "wals": "\nYazgulyam",
+    "ruhlen (1987)": "\nYazgulyami",
+    "moseley & asher (1994)": "\nYazgulami",
+    "multitree": "\nIazgulem\nYazgulam\nYazgulami\nYazgulamí\nYazgulyam\nYazgulyami\nYazgulâmi",
+    "lexvo": "\nJazgulami keel [et]\nJazguljamin kieli [fi]\nYazgoulyameg [br]\nYazgulyam [en]\nYazgulyam language [en]\nЯзгулем чĕлхи [cv]\nЯзгулемски език [bg]\nภาษายัซกุลยาม [th]",
+    "hhbib_lgcode": "\nJazguljamskoj\nJazgulyamskij\nYazghulami\nYazgoulami\nYazgulyamskij",
+    "elcat": "\nIazgulem\nYazghulami\nYazgulam\nYazgulyam\nYazgulyami\nYuzdomi zəvég\nZgamígayi zəvég\nZgamígi zəvég"
+  },
+  "triggers": {
+    "lgcode": "\nyazghulami\njazguljamsko\njazguljamskij"
+  },
+  "identifier": {
+    "wals": "yaz",
+    "multitree": "yah",
+    "endangeredlanguages": "3156"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wendtland:Pamir** **hh:hv:Korn:Central-Iranian** **hh:hv:Korn:Iranian-Isoglosses**",
+    "subrefs": "\n**hh:hv:Wendtland:Pamir**\n**hh:hv:Korn:Central-Iranian**\n**hh:hv:Korn:Iranian-Isoglosses**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Yazgulyami (3156-yah) = Vulnerable (100 percent certain, based on the evidence available) (Yazghulami is the main language used between Yazghulami speakers, regardless of age, and sometimes even in official contexts. [...] Children generally do not know Tajik before they begin school.) [Paul et al. 2010](cldf:paul:abbess:etal:10:1)"
+  }
+}

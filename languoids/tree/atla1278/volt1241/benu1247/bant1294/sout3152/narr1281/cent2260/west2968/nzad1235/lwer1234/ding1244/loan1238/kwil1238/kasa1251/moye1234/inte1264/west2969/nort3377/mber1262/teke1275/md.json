@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Latege",
+    "hid": "teg",
+    "level": "language",
+    "iso639-3": "teg",
+    "latitude": "-1.61688",
+    "longitude": "14.8664",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "GA"
+    ],
+    "links": "\n[Latege](https://grambank.clld.org/languages/teke1275)\n[Northern Teke](https://lexibank.clld.org/languages/polyglottaafricana-NorthernTeke)\nhttps://en.wikipedia.org/wiki/North_Teke_language\nhttps://www.wikidata.org/entity/Q36478"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:linton:18:3**\n**eballiso2009:28707**\n**eballiso2009:30556**\n**eballiso2009:31133**\n**hh:e:Badier:Batekes**\n**hh:e:Dusselje:Tegues-Alima**\n**hh:e:Galland:Babi**\n**hh:e:Loffler:Tege**\n**hh:h:Jacquot:Congo-Brazzaville**\n**hh:h:Ndamba:Congo**\n**hh:h:Obenga:Teke**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Adam:Teke**\n**hh:phon:Magnissi:Latege**\n**hh:phontyp:Fontaney:Teke**\n**hh:s:Assoumou:Teke**\n**hh:s:Linton:Latege**\n**hh:sd:Prat:Tege**\n**hh:typ:Linton:Latege-Non-Verbales**\n**hh:typ:Linton:Latege:Noun**\n**hh:typ:Linton:Latege:Verbal**\n**hh:typ:Mfourou:Latege**\n**hh:typ:Tsou:Leteghe**\n**hh:typ:Tsoue:Letege:2017**\n**hh:vld:Hyman:Teke**"
+  },
+  "altnames": {
+    "multitree": "\nIteghe\nKatege\nKetego\nNorthern Teke\nTege\nTeghe\nTeke\nTeke Alima\nTeke Kali\nTeke-Tege",
+    "lexvo": "\nTeke-Tege [en]",
+    "hhbib_lgcode": "\nB71aLe_Teke_Leconi\nB71a_Teke_Dj\nB71a_Teke_Os\nBabi a HG social group among he Tégué (say themselves they have no other language of their own but are said by their hosts to have one of their own)\nKateghe\nKeteghe\nLatege in Gabon\nLatege in Gabon (tékés de la République gabonese et dans la zone frontalière du Congo Brazzaville entre Ewo et Okoyo)\nLéconi appx -1.5855623778334071-14.261240769870298\nPresumably Teke-Tege\nTGE Tege Ewo\nTege\nTege Ewo\nTege born in Franceville\nTege-Alima\nTege-Franceville\nTeghe\nTeke (Latege)\nTeke de plateaux altogovéens (Gabon) Tege\nTeke-Kale groups with Ombamba-Mbede\nTeke-Kateghe\nTeke-Keteghe\nTeke-Tege\nTéké (Latege)\nTékés d'Ossélé",
+    "glottolog": "\nTeke-Tege"
+  },
+  "triggers": {
+    "lgcode": "\nmanuel AND teje\nb71\ntege\nrecension\nexercices"
+  },
+  "identifier": {
+    "multitree": "teg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pacchiarotti:West-Coastal-Bantu**:163, 184, 186 **hh:hv:Niama-Niama:Bantu-Gabon** **hh:hvw:Adam:Teke**:50-52 **hh:hv:BoukaNdamba:Congo-Brazzaville**:42-45 **hh:hv:Alewijnseetal:Gabon** **hh:hv:Grollemund:Bantu-Nord-Ouest**:380",
+    "subrefs": "\n**hh:hv:Pacchiarotti:West-Coastal-Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hv:Niama-Niama:Bantu-Gabon**\n**hh:hvw:Adam:Teke**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Teke-Tege (teg-teg) = 6a (Vigorous)."
+  }
+}

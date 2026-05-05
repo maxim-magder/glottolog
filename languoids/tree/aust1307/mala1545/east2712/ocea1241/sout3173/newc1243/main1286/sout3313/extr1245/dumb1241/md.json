@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Dumbea",
+    "hid": "duf",
+    "level": "language",
+    "iso639-3": "duf",
+    "latitude": "-22.0947",
+    "longitude": "166.531",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Drubea](https://lexibank.clld.org/languages/abvdoceanic-Drubea)\n[Dumbea](https://grambank.clld.org/languages/dumb1241)\n[Paita](https://wals.info/languoid/lect/wals_code_pta)\nhttps://en.wikipedia.org/wiki/Ndrumbea_language\nhttps://www.wikidata.org/entity/Q6983819"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gordon:maddieson:99**\n**cldf:shintani:paita:90**\n**hh:d:Shintani:Paita**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:phon:Gordon:Ndumbea**\n**hh:s:Shintani:Paita**\n**hh:vphon:Rivierre:Sud-Nouvelle-Caledonie**\n**iso6393:2012-125**\n**mpieva:Genet1992Textesen**\n**mpieva:Paita1987Grammair**"
+  },
+  "altnames": {
+    "wals": "\nPaita",
+    "wals other": "\nDrùbea",
+    "ruhlen (1987)": "\nDubea",
+    "moseley & asher (1994)": "\nDubea",
+    "multitree": "\nDrubea\nDubea\nDumbea\nNaa Dubea\nNdumbea\nNeukaledonien\nNââ drubea\nPaita",
+    "lexvo": "\nDumbea [en]\nNdrumbea language [en]",
+    "hhbib_lgcode": "\nDrubea\nDubea\nNdumbea\nPaita"
+  },
+  "triggers": {
+    "lgcode": "\nlangue AND paita\npaita\nnraa"
+  },
+  "identifier": {
+    "wals": "pta",
+    "multitree": "duf"
+  },
+  "classification": {
+    "sub": "**hh:vphon:Rivierre:Sud-Nouvelle-Caledonie**",
+    "subrefs": "\n**hh:vphon:Rivierre:Sud-Nouvelle-Caledonie**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Drubea (2501-duf) = Vulnerable"
+  }
+}

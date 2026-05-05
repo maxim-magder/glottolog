@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nizaa",
+    "hid": "sgi",
+    "level": "language",
+    "iso639-3": "sgi",
+    "latitude": "7.12906",
+    "longitude": "12.3779",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q36475\nhttps://en.wikipedia.org/wiki/Nizaa_language\nhttps://phoible.org/languages/suga1248"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:28616**\n**hh:hv:Blench:Mambiloid**\n**hh:hv:Connell:Mambiloid**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:hw:Strumpell:Adamauas**\n**hh:phon:Theil:Nizaa**\n**hh:phon:Theil:Nizaa:Diachronic**\n**hh:s:Kjelsvik:Nizaa**\n**hh:typ:Pepper:Nizaa**"
+  },
+  "altnames": {
+    "multitree": "\n\"Jemjem\"\n\"Njemnjem\"\n\"Nyamnyam\"\nGalim\nNizaa\nSsuga\nSuga",
+    "lexvo": "\nSuga [en]",
+    "hhbib_lgcode": "\nNizaa (Sugaa/Nyam-Nyam)\nSuga\nSuga (Rep-Tinger)"
+  },
+  "triggers": {
+    "lgcode": "\ninterne AND bantoide\nnizaa"
+  },
+  "identifier": {
+    "multitree": "sgi;suga"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Bantoid**",
+    "subrefs": "\n**hh:hv:Blench:Bantoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nizaa (sgi-sgi) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kupang Malay",
+    "hid": "mkn",
+    "level": "language",
+    "iso639-3": "mkn",
+    "latitude": "-10.2526",
+    "longitude": "123.63",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kupang Malay](https://grambank.clld.org/languages/kupa1239)\nhttps://en.wikipedia.org/wiki/Kupang_Malay\nhttps://phoible.org/languages/kupa1239\nhttps://www.wikidata.org/entity/Q18458203"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:JacobGrimes:Kupang**\n**hh:hs:Paauw:Malay**\n**hh:s:Mboek:Melayu-Kupang**\n**hh:s:Steinhauer:Kupang**\n**hh:typ:JacobGrimes:Kupang-Malay**\n**sil16:47334**\n**sn:JacobEtAl2007**"
+  },
+  "altnames": {
+    "multitree": "\nBasa Kupang\nKupang\nMalay, Kupang",
+    "lexvo": "\nKupang Malay [en]",
+    "hhbib_lgcode": "\nKupang Malay (Timor)\nMalay-Kupang"
+  },
+  "triggers": {
+    "lgcode": "\nkupang"
+  },
+  "identifier": {
+    "multitree": "mkn"
+  },
+  "classification": {
+    "sub": "**hh:hs:Paauw:Malay**",
+    "subrefs": "\n**hh:hs:Paauw:Malay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, Kupang (mkn-mkn) = 3 (Wider communication). LWC used in spice trade in the 1640s. Lingua franca for interethnic communication in the region and in mixed marriages."
+  }
+}

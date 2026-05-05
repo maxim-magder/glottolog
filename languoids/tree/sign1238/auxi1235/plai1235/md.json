@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Plains Indian Sign Language",
+    "hid": "psd",
+    "level": "language",
+    "iso639-3": "psd",
+    "latitude": "38.3941",
+    "longitude": "-99.2499",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Plains Indian Sign Language](https://endangeredlanguages.com/lang/5293)\nhttps://www.wikidata.org/entity/Q2380124\nhttps://en.wikipedia.org/wiki/Plains_Indian_Sign_Language\n[Plains-Indians Sign Language](https://wals.info/languoid/lect/wals_code_psl)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:mckay-cody:96**\n**hh:d:Clark:Indian-Sign**\n**hh:d:Liptak:North-American-Indian-Sign**\n**hh:d:Mallery:Signs-North-American**\n**hh:g:West:Sign**\n**hh:h:Davis:American-Indian-Sign**\n**hh:h:Davis:Indigenous-Sign**\n**hh:h:Taylor:Nonspeech**\n**hh:h:Walker:Plains-Indians**\n**hh:hb:Dawe:Sign-North-America**\n**hh:ld:Harrington:American-Indian-Sign**\n**hh:ld:Kroeber:Sign**\n**hh:ld:Ljung:Plains-Indian-Sign**\n**hh:ld:Scott:Plains-Indian**\n**hh:ld:Webb:Plains-Indians**\n**hh:ldsoc:Davis:North-American-Indian**\n**hh:ldsoc:Taylor:Plains-Indian-Sign**\n**hh:ldsoc:Taylor:Plains-Sign**\n**hh:phon:Mallery:Sign-North-American**\n**hh:s:Farnell:Plains-Indian-Sign-Talk**\n**hh:s:McKay-Cody:Plains-Indian-Sign**\n**hh:s:Tomkins:Indian-Sign**\n**hh:soc:Davis:Hand-Talk**\n**hh:typ:Davis:American-Indian-Sign**\n**hh:typ:Newell:Plains-Indian-Sign**\n**hh:w:Dodge:Sign**\n**hh:w:Teit:Sign-Salishan**"
+  },
+  "altnames": {
+    "wals": "\nPlains-Indians Sign Language",
+    "multitree": "\nPlains Indian Sign Language\nPlains Sign Language",
+    "lexvo": "\nIndiana gestlingvo [eo]\nIndianernas teckenspråk [sv]\nMowa znaków [pl]\nPlains Indian Sign Language [en]\nZnakovni jezik prerijskih Indijanaca [hr]\nየሜዳ ቀይ ሕንዳውያን እጅ ምልክት ቋንቋ [am]",
+    "hhbib_lgcode": "\nAmerican Indian Sign Language\nPlains Indian Sign Language (PISL)",
+    "elcat": "\nPlains Indian Sign Language\nPlains Sign Language"
+  },
+  "triggers": {
+    "lgcode": "\nnakota\nalternate\nnonspeech"
+  },
+  "identifier": {
+    "wals": "psl",
+    "multitree": "psd",
+    "endangeredlanguages": "5293"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Plains Indian Sign Language (5293-psd) = Critically Endangered (60 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  },
+  "classification": {
+    "sub": "**hh:soc:Davis:Hand-Talk**, **hh:ldsoc:Davis:North-American-Indian**",
+    "subrefs": "\n**hh:soc:Davis:Hand-Talk**\n**hh:ldsoc:Davis:North-American-Indian**"
+  }
+}

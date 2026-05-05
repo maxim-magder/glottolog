@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sunwadia",
+    "hid": "mrb",
+    "level": "language",
+    "iso639-3": "mrb",
+    "latitude": "-14.970047",
+    "longitude": "168.057941",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Marino](https://endangeredlanguages.com/lang/4704)\n[Marino](https://lexibank.clld.org/languages/abvdoceanic-Marino)\n[Sunwadia](https://grambank.clld.org/languages/mari1426)\nhttps://en.wikipedia.org/wiki/Sungwadia_language\nhttps://www.wikidata.org/entity/Q3293299"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2116**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:henri:11:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Henri:Sunwadia**\n**hh:g:Henri:Sunwadia:2010**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nMarino\nNaone\nNorth Maewo",
+    "lexvo": "\nMarino [en]",
+    "hhbib_lgcode": "\nMarino\nSungwadia",
+    "elcat": "\nMarino\nNaone\nNorth Maewo\nSunwadia\nSuñwadia"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides\nsunwadia"
+  },
+  "identifier": {
+    "multitree": "mrb",
+    "endangeredlanguages": "4704"
+  },
+  "classification": {
+    "sub": "**hh:hvb:LynchCrowley:Vanuatu**",
+    "subrefs": "\n**hh:hvb:LynchCrowley:Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Marino (4704-mrb) = Endangered (40 percent certain, based on the evidence available) [Henri 2011](cldf:henri:11:1)"
+  }
+}

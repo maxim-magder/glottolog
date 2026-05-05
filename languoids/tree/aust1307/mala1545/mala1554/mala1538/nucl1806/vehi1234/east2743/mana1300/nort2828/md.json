@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "North Moluccan Malay",
+    "hid": "max",
+    "level": "language",
+    "iso639-3": "max",
+    "latitude": "-0.86437",
+    "longitude": "128.323",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[North Moluccan Malay](https://grambank.clld.org/languages/nort2828)\nhttps://en.wikipedia.org/wiki/North_Moluccan_Malay\nhttps://phoible.org/languages/nort2828\nhttps://www.wikidata.org/entity/Q7056136"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Pigafetta:Mondo**\n**hh:ew:Pigafetta:Mondo:II**\n**hh:g:Litamahuputty:Ternate-Malay**\n**hh:hew:Bastian:Molukken**\n**hh:hs:Paauw:Malay**\n**hh:hvsoct:Masinambow:Halmahera-Tengah**\n**hh:ld:Ulrich:Pigafetta**\n**hh:s:Litamahuputty:Ternate-Malay:Wacana**\n**hh:s:Taylor:NMoluccan-Malay**\n**hh:s:Voorhoeve:NMoluccanMalay**\n**hh:soc:Bowden:North-Maluku**\n**hh:w:Bausani:Pigafetta**\n**hh:w:Gonda:Molukken-Maleisch**\n**sil16:49743**"
+  },
+  "altnames": {
+    "multitree": "\nMalay, North Moluccan\nNorth Moluccan Malay\nTernate Malay",
+    "lexvo": "\nNorth Moluccan Malay [en]",
+    "hhbib_lgcode": "\nCebu Moluccan Malay\nIncludes a Malay wordlist collected in North Maluku under the title \"Words of those Moro people\" (p. 116-47) Moluccan Malay\nMalaisch der Molukken\nMalay-North Moluccan\nMelayu Halmahera\nNorth Moluccan Malay (North Moluccas)\nTernate Malay\nVocabuli di questi populi mori (Moluccan)"
+  },
+  "triggers": {
+    "lgcode": "\npigafettas\nprimo\nsubstandard\nmuatan AND utara"
+  },
+  "identifier": {
+    "multitree": "max"
+  },
+  "classification": {
+    "sub": "**hh:hs:Paauw:Malay**",
+    "subrefs": "\n**hh:hs:Paauw:Malay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, North Moluccan (max-max) = 3 (Wider communication). Lingua franca in Tidore in 1512; widespread medium of communication, trade language."
+  }
+}

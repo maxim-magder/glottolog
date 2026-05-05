@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Central Puebla Nahuatl",
+    "hid": "ncx",
+    "level": "language",
+    "iso639-3": "ncx",
+    "latitude": "18.7545",
+    "longitude": "-98.1264",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Central_Puebla_Nahuatl\nhttps://www.wikidata.org/entity/Q5061727"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lastra:Sur-Puebla**",
+    "subrefs": "\n**hh:hv:Lastra:Sur-Puebla**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Lastra:Sur-Puebla**\n**hh:hvw:Lastra:Nahuatl-Moderno**"
+  },
+  "altnames": {
+    "multitree": "\nCentral Nawa\nCentral Puebla Aztec\nMexicano\nNahua central\nNahuatl\nNahuatl, Central Puebla\nNáhuatl central\nNáhuatl del Suroeste de Puebla\nSouthwestern Puebla Nahuatl\nWestern Nawa",
+    "lexvo": "\nCentral Puebla Nahuatl [en]",
+    "hhbib_lgcode": "\nAyotla y Huatlatlauca\nHuatlatlauca\nHuitziltepec\nSan Miguel Ayotla-San Francisco Xochiltepec\nSan Nicolás Atlalpan-una comunidad mas rural perteneciente al municipio de Huatlatlauca\nTeopantlán y Huaujuapan que están entre Ayotla y Huatlatauca\nXochiltepec"
+  },
+  "triggers": {
+    "lgcode": "\nhuitziltepec"
+  },
+  "identifier": {
+    "multitree": "ncx"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Central Náhuatl (1503-nhn, nch, ncx) = Vulnerable"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Gothic",
+    "hid": "got",
+    "level": "language",
+    "iso639-3": "got",
+    "latitude": "46.9304",
+    "longitude": "29.9786",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "UA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Gothic_language\nhttps://www.wikidata.org/entity/Q35722",
+    "timespan": "0350-01-01/0380-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Kobler:Gotisches**\n**hh:g:Harbert:Gothic**\n**hh:g:Miller:Gothic**\n**hh:g:Wright:Gothic**\n**hh:g:Wright:Gothic:1910**\n**hh:h:Steinacher:Vandalisch**\n**hh:hv:Agee:Glottometric-Germanic**\n**hh:ld:Christiansen:Germanske**\n**hh:ld:Onesti:Tracing-Vandals**\n**hh:ld:Onesti:Vandals**\n**hh:ld:Reichert:Wandalen**\n**hh:ld:Tiefenbach:Wandalische**\n**hh:ld:Wackernagel:Burgunden**\n**hh:ld:Wrede:Wandalen**\n**hh:lde:Onesti:Vandali**\n**hh:phon:Marchand:Gothic**\n**hh:s:Hickes:Anglo-Saxonicae**\n**hh:s:Jasanoff:Gothic**\n**hh:vld:Hartmann:Burgundian**\n**hh:vld:Hartmann:Vandalic**\n**ldh:item_404572**\n**ldh:item_405159**\n**ldh:item_407930**\n**mpieva:Braune1981Gotische**\n**mpieva:Braune2004Gotische**\n**mpieva:Lehmann1986AGothice**\n**mpieva:Wright1954Grammaro**"
+  },
+  "altnames": {
+    "multitree": "\nGothic\nGothisch\ngotische",
+    "lexvo": "\nBahasa Gotik [id]\nGoatysk [fy]\nGooti keel [et]\nGootin kieli [fi]\nGootsche Spraak [nds]\nGota lingvo [eo]\nGoteg [br]\nGotheg [cy]\nGothek [kw]\nGothic [en]\nGothic language [en]\nGoties [af]\nGotiko [eu]\nGotique [fr]\nGotisc sprǣc [ang]\nGotisch [nds]\nGotische Sprache [de]\nGotisk [da]\nGotisk språk [nn]\nGotiska [sv]\nGotski jezik [hr]\nGotça [tr]\nGotščina [sl]\nGotų kalba [lt]\nGót nyelv [hu]\nGóticu [ast]\nGótčina [sk]\nGótština [cs]\nIdioma gotico [an]\nIdioma gótico [es]\nJęzyk gocki [pl]\nLenga gòtica [pms]\nLimba gotică [ro]\nLingua Gothica [la]\nLingua gotica [it]\nLingua gótica [gl]\nLlengua gòtica [ca]\nLíngua gótica [pt]\ngothique [fr]\nГотски език [bg]\nГотски јазик [mk]\nГотски језик [sr]\nГотский язык [ru]\nҐотська мова [uk]\nגותית [he]\nقوطى [arz]\nگؤتیک [glk]\nகோதிக் மொழி [ta]\nゴート語 [ja]\n哥德語 [zh]\n고트어 [ko]\n𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰 [got]",
+    "hhbib_lgcode": "\nBurgunden\nBurgundian\nCrimean Gothic\nGotisk\nMoeso-Gothicae\nVandali\nVandalic\nVandals\nWandalen\nWandalische"
+  },
+  "triggers": {
+    "lgcode": "\nvenetiarum\ngotisches\ngothic\ngotische"
+  },
+  "identifier": {
+    "multitree": "got"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Gothic (**hh:g:Wright:Gothic**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "got"
+  },
+  "classification": {
+    "sub": "**hh:vw:Stearns:Crimean** **hh:vwsoc:Stearns:Krimgotische**",
+    "subrefs": "\n**hh:vwsoc:Stearns:Krimgotische**\n**hh:vw:Stearns:Crimean**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Gothic (358-) = Extinct"
+  }
+}

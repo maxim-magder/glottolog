@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pholo",
+    "hid": "yip",
+    "level": "language",
+    "iso639-3": "yip",
+    "latitude": "23.667",
+    "longitude": "104.238",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7187103\nhttps://en.wikipedia.org/wiki/Pholo_language"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Pelkey:Phula**",
+    "subrefs": "\n**hh:hvsoc:Pelkey:Phula**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hphon:Wang:Yi**\n**hh:hvsoc:Pelkey:Phula**\n**hh:hvw:Chenetal:Yi**\n**hh:hvw:Lama:Nisoic**\n**hh:w:YNYF:Yunnan-Yi**\n**hh:w:Zhang:Yunnan-Yi**\n**iso6393:2007-074**"
+  },
+  "altnames": {
+    "multitree": "\nPholo\nPola\nYi, Poluo",
+    "lexvo": "\nPholo [en]",
+    "hhbib_lgcode": "\nAxi Touruo\nPolo\nYanshan (Pholo)\nYanshan P'olo"
+  },
+  "triggers": {
+    "lgcode": "\nvalley AND phu"
+  },
+  "identifier": {
+    "multitree": "yip"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Phula (China) (2245-ypa, ypg, ypo, yip, ypn, yhl, ypb, phh, ypm, ypp, yph, ypz) = Vulnerable; Phula (Viet Nam) (2244-ypa, ypg, ypo, yip, ypn, yhl, ypb, phh, ypm, ypp, yph, ypz) = Definitely endangered"
+  }
+}

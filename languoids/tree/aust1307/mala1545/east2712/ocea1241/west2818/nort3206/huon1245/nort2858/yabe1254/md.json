@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Yabem",
+    "hid": "jae",
+    "level": "language",
+    "iso639-3": "jae",
+    "latitude": "-6.67052",
+    "longitude": "147.81",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Jabêm](https://wals.info/languoid/lect/wals_code_jab)\n[Yabem](https://grambank.clld.org/languages/yabe1254)\n[Yabem](https://lexibank.clld.org/languages/abvdoceanic-Yabem)\nhttps://en.wikipedia.org/wiki/Yabem_language\nhttps://www.wikidata.org/entity/Q3571232"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bradshaw:ed:01:4**\n**cldf:lynch:ross:etal:ed:02:12**\n**cldf:zahn:40**\n**hh:d:Streicher:Jabem**\n**hh:e:Zahn:Jabim**\n**hh:g:Zahn:Jabem**\n**hh:hld:Smith:Morobe**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:ld:Capell:Tonal-NG**\n**hh:s:BradshawCzobor:Jabem**\n**hh:s:Dempwolff:Jabem**\n**hh:s:Ross:Jabem**\n**hh:s:Schellong:Jabim**\n**hh:s:Schmidt:Jabim**\n**hh:typ:Bradshaw:Numbami-Jabem:Ideophones**\n**hh:w:Ross:Yabem**\n**mpieva:2001Issuesin**\n**mpieva:Dempwolff2005OttoDemp**\n**mpieva:Zahn1982JabemEng**"
+  },
+  "altnames": {
+    "wals": "\nJabêm",
+    "wals other": "\nJabem\nYabim",
+    "ruhlen (1987)": "\nYabim",
+    "moseley & asher (1994)": "\nYabim",
+    "multitree": "\nJabem\nJabim\nJabêm\nLaulabu\nYabem\nYabim",
+    "lexvo": "\nYabem [en]\nYabem language [en]",
+    "hhbib_lgcode": "\nJabim\nJabêm\nSuam a village in the Yabim district\nYabim"
+  },
+  "triggers": {
+    "lgcode": "\njabem\njabim\ndempwolffs\notto\nstellund\ndicrionary\nfocusschrift\njabemsprache\nfinschhafener"
+  },
+  "identifier": {
+    "wals": "jab",
+    "multitree": "jae"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:132-159",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Yabem (jae-jae) = 6b* (Threatened)."
+  }
+}

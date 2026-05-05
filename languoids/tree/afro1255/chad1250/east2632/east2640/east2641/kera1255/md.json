@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kera",
+    "hid": "ker",
+    "level": "language",
+    "iso639-3": "ker",
+    "latitude": "9.88165",
+    "longitude": "15.1419",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Kera](https://grambank.clld.org/languages/kera1255)\n[Kera](https://wals.info/languoid/lect/wals_code_ker)\nhttps://en.wikipedia.org/wiki/Kera_language\nhttps://phoible.org/languages/kera1255\nhttps://www.wikidata.org/entity/Q56251"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:pearce:98**\n**cldf:shay:ed:03:1**\n**eballiso2009:10734**\n**eballiso2009:17124**\n**eballiso2009:27979**\n**eballiso2009:31159**\n**eballiso2009:38285**\n**eballiso2009:39167**\n**eballiso2009:39168**\n**eballiso2009:39171**\n**eballiso2009:3980**\n**eballiso2009:3993**\n**eballiso2009:59079**\n**eballiso2009:59227**\n**eballiso2009:6220**\n**eballiso2009:6221**\n**eballiso2009:6223**\n**eballiso2009:6224**\n**hh:d:Ebert:Kera**\n**hh:e:Besane:Kera**\n**hh:evw:Ndouwe:Tupuri-Kera**\n**hh:g:Ebert:Kera**\n**hh:he:Cabot:Moyen-Logone**\n**hh:hv:Ebert:Kera-Kwang**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:phon:Pearce:Kera**\n**hh:phon:Pearce:Kera:2007**\n**hh:s:Camburn:Kera**\n**hh:s:Camburn:Kera:MA**\n**hh:typ:Ebert:Kera:Verbal**\n**hh:typ:Guldemann:Logophoricity**\n**hh:v:Ruelland:Kera-Tupuri**\n**hh:w:Ebert:Tuburi**\n**mpieva:Caprile1978Prealabl**\n**sil16:19224**\n**sil16:19739**\n**sil16:27514**\n**sil16:33027**\n**sil16:34798**\n**sil16:35102**\n**sil16:35145**\n**sil16:38047**\n**sil16:38048**\n**sil16:40104**\n**sil16:48187**\n**sil16:48188**\n**sil16:48189**\n**sil16:48919**\n**sil16:51307**\n**sil16:51477**"
+  },
+  "altnames": {
+    "wals": "\nKera",
+    "ruhlen (1987)": "\nKera",
+    "moseley & asher (1994)": "\nKera",
+    "multitree": "\nEast Chadic A.3\nKera\nKera Group\nKere",
+    "lexvo": "\nKera [en]\nKera jezik [hr]\nKera language [en]\nKeraeg [br]",
+    "hhbib_lgcode": "\nKéra\nTuburi"
+  },
+  "triggers": {
+    "lgcode": "\nkeera\nevaluate\ntong{na\nzentralsudanische\nkera\nkefter\nminti"
+  },
+  "identifier": {
+    "wals": "ker",
+    "multitree": "ker;echi"
+  },
+  "classification": {
+    "sub": "**hh:hb:BarreteauNewman:Tchadiques**",
+    "subrefs": "\n**hh:hb:BarreteauNewman:Tchadiques**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kera (ker-ker) = 5 (Developing)."
+  }
+}

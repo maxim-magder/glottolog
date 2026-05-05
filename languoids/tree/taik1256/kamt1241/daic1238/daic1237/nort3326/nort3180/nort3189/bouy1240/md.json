@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Bouyei",
+    "hid": "pcc",
+    "level": "language",
+    "iso639-3": "pcc",
+    "latitude": "24.8484",
+    "longitude": "106.187",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\n[Bouyei](https://grambank.clld.org/languages/bouy1240)\n[Yay](https://wals.info/languoid/lect/wals_code_yay)\nhttps://en.wikipedia.org/wiki/Bouyei_language\nhttps://phoible.org/languages/bouy1240\nhttps://www.wikidata.org/entity/Q35100"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3372**\n**cldf:hudak:91**\n**hh:d:CAS:Buyi**\n**hh:d:ILCRD:Bouyei**\n**hh:d:Snyder:Libo-Buyi**\n**hh:d:Wu:Buyi**\n**hh:e:USA:Nhang**\n**hh:e:YirenLianzhou:Buyi**\n**hh:g:Boonsawasd:Bouyei**\n**hh:g:Snyder:Bouyei**\n**hh:h:Hattaway:China**\n**hh:h:Ratanakul:Tai**\n**hh:he:Guizhou:Guizhou**\n**hh:he:Schliesinger:Austro-Thai**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:htyp:Meesh:Mon-Khmer-China**\n**hh:htyp:Meesh:Tai-China:2016**\n**hh:hv:Edmondson:Tai:Phylogenetic**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hvld:Mo:Zhuang-Dong**\n**hh:hvtyp:Dabai:Dong-Tai**\n**hh:hvw:Long:Guiyang-Buyi**\n**hh:hw:CEI:Zhuang-Dong**\n**hh:hws:YDBW:Yunnan**\n**hh:ld:Dabai:Biandan-Bouyei**\n**hh:phon:Snyder:Bouyei**\n**hh:phondial:Wuetal:Bouyei**\n**hh:phonv:Wu:Buyi**\n**hh:phonv:Zhan:Zhenning-Buyi**\n**hh:phonw:CAS:Buyi**\n**hh:s:Gedney:Yay**\n**hh:s:Wang:Buyi**\n**hh:s:Wang:Zhuang-Dong**\n**hh:s:Yu:Bouyei:2007**\n**hh:s:Yu:Buyi**\n**hh:sd:EsquirolWilliatte:Dioi**\n**hh:std:Hudak:Yay**\n**hh:t:Zhou:Buyi**\n**hh:typ:Somsonge:Bouyei**\n**hh:v:Wei:Bouyei**\n**hh:w:Burusphat:Zhuang-Dong**\n**hh:w:Hsiu:Hezhang-Buyi**\n**ldh:item_407004**\n**mpieva:Gedney1991TheYayla**\n**mpieva:Snyder1995Variatio**\n**mpieva:Wenyi2007Surveyof**\n**mpieva:Wu2002BuyiHanc**\n**mpieva:Yang2000Moyuyanj**\n**mpieva:Yu1980Buyiyuji**\n**sil16:34676**\n**sil16:35691**\n**sil16:42703**\n**sil16:45818**\n**sil16:45888**\n**sil16:45889**\n**sil16:45890**\n**sil16:45892**\n**sil16:47372**\n**sil16:49147**\n**sil16:50196**"
+  },
+  "altnames": {
+    "wals": "\nYay",
+    "ruhlen (1987)": "\nYay",
+    "moseley & asher (1994)": "\nYay",
+    "multitree": "\nBo-I\nBouyei\nBui\nBuyei\nBuyi\nBuyui\nChung-Chia\nDioi\nGiây\nNhang\nPu-I\nPu-Jui\nPui\nPujai\nPuyi\nPuyoi\nShuihu\nTujia\nYay\nZhongjia",
+    "lexvo": "\nBouyei [en]",
+    "hhbib_lgcode": "\n125-208 Buyi\nBouyi\nBuyi\nDioi in Vietnam\nGiay\nGiay or Nhang\nHezhang-Buyi\nLibo\nLibo Buyi\nNhang\nNiuchang BY\nPu-Yi dialect in southwestern Guangxi\nTai Yay\nWangmo BY\nWestern Qian Buyi\nYai\nYay\nYay Giay\nZhenning Buyi"
+  },
+  "triggers": {
+    "lgcode": "\nbuyiyu\nbuyizu\nsongqi\nreproduisant\nbuyi\nminsu\nbouyei\ndioi"
+  },
+  "identifier": {
+    "wals": "yay",
+    "multitree": "pcc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chamberlain:Kra-Dai**:58-59 **hh:hvld:Luo:Zhuang** **hh:hv:Pittayaporn:Proto-Tai** **hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**",
+    "subrefs": "\n**hh:hv:Chamberlain:Kra-Dai**\n**hh:hvld:Luo:Zhuang**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bouyei (pcc-pcc) = 5 (Developing). Language of recognized nationality: Bouyei."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Landoma",
+    "hid": "ldm",
+    "level": "language",
+    "iso639-3": "ldm",
+    "latitude": "10.8753",
+    "longitude": "-14.0895",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN"
+    ],
+    "links": "\n[Landoma](https://endangeredlanguages.com/lang/7716)\n[Landoma](https://grambank.clld.org/languages/land1256)\n[Landuma](https://lexibank.clld.org/languages/polyglottaafricana-Landuma)\nhttps://en.wikipedia.org/wiki/Landoma_language\nhttps://www.wikidata.org/entity/Q35568"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:hair:67:2**\n**cldf:itkine:soumbatova:94**\n**cldf:johnston:19:35**\n**cldf:simons:fennig:ed:18**\n**eballiso2009:7398**\n**eballiso2009:8939**\n**hh:h:Suret:Kogoli**\n**hh:he:Tauxier:Guinee**\n**hh:he:Zwernemann:Westatlantische**\n**hh:hv:Dalby:Mel-Polyglotta:1**\n**hh:hv:Delafosse:Soudan**\n**hh:hv:Houis:Guinee-Cotiere**\n**hh:hv:Wilson:Temne-Landuma-Baga**\n**hh:hvw:Fields:Rio-Nunez**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Koelle:Polyglotta**\n**hh:t:Sumbatova:Landuma**\n**hh:typ:Sumbatova:Landuma**\n**hh:typ:Sumbatova:Landuma:Glagolnaya**\n**hh:vld:Ferry:Tyapi**\n**hh:vld:Sumbatova:Landuma-Mande**\n**hh:w:Armstrong:West-African**\n**hh:w:Corre:Rio-Nunez**\n**hh:w:Wilson:Baga**"
+  },
+  "altnames": {
+    "multitree": "\nCocoli\nLandoma\nLandouman\nLanduma\nTemne\nTiapi\nTyapi\nTyopi",
+    "lexvo": "\nLandoma [en]",
+    "hhbib_lgcode": "\nBaga Landuma\nBaga Lunduma\nBaga of Rio Nunez\nKogoli\nLandouman\nLandoumans\nLanduma",
+    "elcat": "\nCocoli\nLandoma\nLandouman\nLanduma\nTemne\nTiapi\nTyapi\nTyop\nTyopi"
+  },
+  "triggers": {
+    "lgcode": "\nlanduma\nlandouma"
+  },
+  "identifier": {
+    "multitree": "ldm",
+    "endangeredlanguages": "7716"
+  },
+  "classification": {
+    "sub": "**hh:vld:Ferry:Tyapi**:343",
+    "subrefs": "\n**hh:vld:Ferry:Tyapi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Landoma (7716-ldm) = Vulnerable (20 percent certain, based on the evidence available) [Simons and Fennig 2018](cldf:simons:fennig:ed:18)"
+  }
+}

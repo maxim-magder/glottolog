@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Muskum",
+    "hid": "mje",
+    "level": "language",
+    "iso639-3": "mje",
+    "latitude": "11.5697",
+    "longitude": "15.4113",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3913334\nhttps://en.wikipedia.org/wiki/Muskum_language",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:3656**\n**eballiso2009:38938**\n**hh:hel:Sommer:Survey**\n**hh:hv:Tourneux:Musgu**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:w:Tourneux:Muskum**"
+  },
+  "altnames": {
+    "multitree": "\nMuskum\nMuzgum",
+    "lexvo": "\nMuskum [en]",
+    "hhbib_lgcode": "\nMuzgum-Stadt"
+  },
+  "triggers": {
+    "lgcode": "\nmuskum\nmusgum"
+  },
+  "identifier": {
+    "multitree": "mje"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tourneux:Musgu**",
+    "subrefs": "\n**hh:hv:Tourneux:Musgu**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Muskum (mje-mje) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Central Tarahumara",
+    "hid": "tar",
+    "level": "language",
+    "iso639-3": "tar",
+    "latitude": "27.5648",
+    "longitude": "-107.154",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Central Tarahumara](https://grambank.clld.org/languages/cent2131)\n[Tarahumara](https://endangeredlanguages.com/lang/3453)\n[Tarahumara](https://lexibank.clld.org/languages/utoaztecan-Tarahumara)\n[Tarahumara (Central)](https://wals.info/languoid/lect/wals_code_tce)\nhttps://www.wikidata.org/entity/Q20090009"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bennett:zingg:35**\n**cldf:gasso:03**\n**cldf:hilton:59**\n**cldf:langacker:76**\n**cldf:passin:43**\n**hh:d:Brambila:Raramuri**\n**hh:d:Ferrero:Tarahumar**\n**hh:e:BennettZingg:Tarahumara**\n**hh:e:Fried:Tarahumara**\n**hh:e:Kennedy:Tarahumara:1970**\n**hh:e:Kennedy:Tarahumara:1978**\n**hh:e:Pennington:Tarahumar**\n**hh:g:Brambila:Raramuri**\n**hh:g:Caballero:Tarahumara**\n**hh:g:Caballero:Tarahumara:2022**\n**hh:g:Cohen:Tarahumara**\n**hh:g:Gasso:Raramuri**\n**hh:g:Villalpando:Norogachi**\n**hh:hdial:Eglandetal:Mexico**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:hvw:Lionnet:Varojio-Mayo**\n**hh:s:Gathings:Tarahumar**\n**hh:s:Lionnet:Tarahumara**\n**hh:s:Morales:Raramuri-Rocheachi**\n**hh:sd:Ferrero:Tarahumara**\n**hh:sd:Hilton:Tarahumara**\n**hh:sd:Thord-Gray:Tarahumara**\n**hh:typ:Medina:Derivacion-Ralamuri**\n**hh:typ:Villalpando:Norogachi**\n**hh:vld:MerrillBurgess:Ralamuli-Kinship**\n**hh:w:Hilton:Tarahumara-Guarijio**\n**hh:wsoc:Valinas:Tarahumara**\n**sil16:11108**\n**sil16:11109**\n**sil16:11110**\n**sil16:11714**\n**sil16:11813**"
+  },
+  "altnames": {
+    "wals": "\nTarahumara (Central)",
+    "wals other": "\nCentral Tarahumara\nTarahumara\nTarahumara-Cent",
+    "ruhlen (1987)": "\nTarahumara",
+    "moseley & asher (1994)": "\nTarahumara",
+    "multitree": "\nCentral\nSamachique\nSamachique Tarahumara\nTarahumara\nTarahumara (Central)\nTarahumara del Centro\nTarahumara du sud-est\nTarahumara suroriental\nTarahumara, Central\nTaraumara\nVorohio",
+    "lexvo": "\nCentral Tarahumara [en]\nIdioma tarahumara [es]\nRaramuri simi [qu]\nTarahumara central [fr]\nTarahumara language [en]",
+    "hhbib_lgcode": "\nAboreachi\nC Tarahumara\nChoguita\nCumbra Tarahumara\nCumbre Tarahumara\nData resembles Cumbre of Valinas 2001 the most\nGassó was a Jesuit missionary based at the time in Sisoguichi and data resembles Cumbre of Valinas 2001 the most\nGuachochi\nInápuchi and Yehuachique both affilated with the pueblo of Aboreachi of the Central dialect area (CA)\nN Tarahumara\nNorogachi\nNorogachi/Nararachi\nNorogachi/Nararachi in Creel y Sisoguichi\nNorte del Tarahumara acc to Valiñas but not Ethnologue\nPamachic-Guagueybo-Guaguachic-Norogachic\nRocheachi\nRochéachi-Norogáchi-Guachóchi\nSamachique\nSamachique Tarahumara\nSamachique Tarahumara and pueblos around\nSan Luis Majimachi municipio de Bocoyna en Chihuahua\nTarahumara\nTarahumara Centro\nTarahumara Norte\nTarahumara-Central\nTatar",
+    "elcat": "\nRocoroibo\nSouth-western\nSouthwestern\nTarahumara\nTarahumara del Suroeste\nTaraumara\nTubare\nVorohio"
+  },
+  "triggers": {
+    "lgcode": "\ntarahumarisches\nkonigreiche\ninteligencia\nvice\nrararumi\nsamachique\ntarahumaras\ntarahumaren\nraramuri\ntarahumaro\nbiscaya\ngebrauchen\ntarahumares"
+  },
+  "identifier": {
+    "wals": "tce",
+    "multitree": "tar",
+    "endangeredlanguages": "3453"
+  },
+  "classification": {
+    "sub": "**hh:h:Caballero:Tarahumara** **hh:g:Villalpando:Tarahumara-Turuachi**:18-28",
+    "subrefs": "\n**hh:g:Villalpando:Tarahumara-Turuachi**\n**hh:h:Caballero:Tarahumara**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tarahumara (3453) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

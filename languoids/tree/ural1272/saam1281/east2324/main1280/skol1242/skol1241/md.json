@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Skolt Saami",
+    "hid": "sms",
+    "level": "language",
+    "iso639-3": "sms",
+    "latitude": "68.8326",
+    "longitude": "29.7204",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "FI",
+      "NO",
+      "RU"
+    ],
+    "links": "\n[Skolt Saami](https://endangeredlanguages.com/lang/3047)\n[Skolt Saami](https://grambank.clld.org/languages/skol1241)\n[Skolt Sami](https://lexibank.clld.org/languages/northeuralex-sms)\nhttps://en.wikipedia.org/wiki/Skolt_S%C3%A1mi\nhttps://phoible.org/languages/skol1241\nhttps://www.wikidata.org/entity/Q13271"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:kusmenko:riessler:etal:06**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:ylikoski:ylikoski:16**\n**hh:d:Itkonen:Koltan-Kuolanlapin**\n**hh:d:SammallahtiMoshnikoff:Koltansaame**\n**hh:g:Feist:Skolt-Saami**\n**hh:g:Feist:Skolt-Saami:2015**\n**hh:hv:Mate:Lapp**\n**hh:s:Feist:Skolt-Saami**\n**hh:s:Koponen:Skolt-Saami**\n**hh:s:Korhonen:Koltansaamen**\n**hh:s:Mathisen:Skoltesamisk**\n**hh:s:Miestamo:Skolt-Saami**\n**hh:s:Moshnikoff:Koltansaamen**\n**hh:t:Itkonen:Koltan-Kuolanlapin**\n**mpieva:Itkonen1916Venajanl**\n**mpieva:Itkonen1958Koltanja**"
+  },
+  "altnames": {
+    "multitree": "\n\"Lapp\"\nEastern\nEastern Saami\nKola\nKolta\nKoltta\nLappic\nLappisch\nLappish\nLopar\nOstlappisch\nRussian Lapp\nRussisch-Lappisch\nSaam\nSaame\nSaami skolt\nSaami, Skolt\nSaamí de Skolt\nSame\nSkolt\nSkolt Lapp\nSkolt Lappish\nSkolt dialect\nSkolt-Lappisch\nSkoltlappisch\neast dialect\nlapin kieli\nlapon\nlappisk\nlopary\nlpSkolt\nostlappischer Dialekt\nrussisch-lappische Gruppe\nsaamen kieli\nsaamskij jazyk\nsabme\nsame-\nsāme-giellâ",
+    "lexvo": "\nKolta számi nyelv [hu]\nKoltansaame [fi]\nLingua sami skolt [it]\nLíngua sami de Skolt [pt]\nNuortalašgiella [se]\nSami skolt [ca]\nSamieg Skolt [br]\nSkolt Sami [en]\nSkolt-Samisch [nl]\nSkolt-samea lingvo [eo]\nSkoltesamisk [no]\nSkoltesamisk språk [nn]\nSkolto samių kalba [lt]\nSkoltsamische Sprache [de]\nSkoltsamiska [sv]\nsami skolt [fr]\nКолтта-саамский язык [ru]\nСколт-саамски език [bg]\nСколтски самиски јазик [mk]",
+    "hhbib_lgcode": "\nKola-Kolta\nKoltanlapin\nKoltansaamen\nPaatsjoki and Suõ'nn'jel\nSkolt Sami",
+    "elcat": "\nEastern Saami\nKola Saami\nKoltansaame\nKoltta\nSkolt Saami\nSkoltesamisk\nSkoltesamiska\nnuõrttsääʹmǩiõll\nsääʹmǩiõll\nколтта-саамский язык"
+  },
+  "triggers": {
+    "lgcode": "\nkoltan\nkoltansaamen\nskolt"
+  },
+  "identifier": {
+    "multitree": "sms",
+    "endangeredlanguages": "3047"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sammallahti:Saami**:6-38",
+    "subrefs": "\n**hh:hv:Sammallahti:Saami**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Skolt Saami (3047-sms) = Critically Endangered (80 percent certain, based on the evidence available) (In Finland, very few children learn the language, and in the Russian Federation, there are only elderly speakers.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

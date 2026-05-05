@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Buduma",
+    "hid": "bdm",
+    "level": "language",
+    "iso639-3": "bdm",
+    "latitude": "13.0692",
+    "longitude": "14.4492",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "NG",
+      "TD"
+    ],
+    "links": "\n[Buduma](https://endangeredlanguages.com/lang/3799)\n[Buduma](https://grambank.clld.org/languages/budu1265)\n[Buduma](https://lexibank.clld.org/languages/polyglottaafricana-Buduma)\n[Buduma](https://wals.info/languoid/lect/wals_code_bud)\nhttps://en.wikipedia.org/wiki/Yedina_language\nhttps://www.wikidata.org/entity/Q56287"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4226**\n**cldf:bouille:37**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lebeuf:59**\n**cldf:lewis:ed:09**\n**cldf:lukas:nachtigal:39**\n**cldf:wolff:ed:01:1**\n**eballiso2009:10430**\n**eballiso2009:10431**\n**eballiso2009:19998**\n**eballiso2009:31803**\n**eballiso2009:40573**\n**eballiso2009:40574**\n**eballiso2009:43687**\n**eballiso2009:51210**\n**eballiso2009:52067**\n**eballiso2009:55894**\n**eballiso2009:5913**\n**hh:ew:Talbot:Buduma**\n**hh:g:Awagana:Buduma**\n**hh:h:Temple:NNigeria**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Couvy:Tchad**\n**hh:hvw:Latham:African:Recent**\n**hh:hw:Benton:WSudan**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hw:Koelle:Polyglotta**\n**hh:phon:Awagana:Buduma**\n**hh:s:Gaudiche:Boudouma**\n**hh:st:Lukas:Buduma**\n**hh:typ:Souley:Buduma**\n**hh:v:Awagana:Kanuri-Buduma**\n**hh:w:Barth:Emghedesie**\n**mpieva:Awagana2000Grammati**\n**mpieva:Lukas1966DieSprac**\n**sil16:33792**\n**sil16:38355**\n**sil16:39415**\n**sil16:41921**\n**sil16:42057**\n**sil16:42088**\n**sil16:42090**\n**sil16:42091**\n**sil16:42092**\n**sil16:42093**\n**sil16:42094**\n**sil16:42095**\n**sil16:42148**\n**sil16:42168**\n**sil16:42169**\n**sil16:46965**\n**sil16:46966**\n**sil16:48789**\n**sil16:48790**\n**sil16:48791**\n**sil16:48792**\n**sil16:48793**\n**sil16:48794**\n**sil16:48809**\n**sil16:48810**\n**sil16:50805**\n**sil16:50806**\n**sil16:50809**\n**sil16:50812**\n**sil16:50821**\n**sil16:50824**\n**sil16:50825**\n**sil16:50845**\n**sil16:50857**\n**sil16:50866**\n**sil16:50867**\n**sil16:50873**\n**sil16:50875**\n**sil16:50876**\n**sil16:50879**\n**sil16:50880**\n**sil16:50881**"
+  },
+  "altnames": {
+    "wals": "\nBuduma",
+    "wals other": "\nYidena",
+    "ruhlen (1987)": "\nBuduma",
+    "moseley & asher (1994)": "\nBuduma",
+    "multitree": "\nBoudouma\nBuduma\nBuduma-Kuri\nYadena\nYedana\nYedima\nYedina\nYidana\nYidena",
+    "lexvo": "\nBuduma [en]\nBuduma language [en]",
+    "hhbib_lgcode": "\nBoudouma\nBoudoumas\nBudduma\nBúddŭma (Yédĭna)\nKouri\nKūry (Kārka)",
+    "elcat": "\nBoudouma\nBuduma\nBuduma-Kuri\nYadena\nYedana\nYedima\nYedina\nYidana\nYidena"
+  },
+  "triggers": {
+    "lgcode": "\ntni\nyedina\ndelicieuse\nyedena\ngway\nboudouma\nkixi\nnaji\nnaharami\nangala\nbuduma\npalmerston\nmnna\nmbu\nmonstre\nhugway\nacal\njackal\nkakad\naltu\nngaba\nlugu\nneri"
+  },
+  "identifier": {
+    "wals": "bud",
+    "multitree": "bdm",
+    "endangeredlanguages": "3799"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tourneux:Kotoko:Consonantique** **hh:hv:BarreteauDieu:ENCameroun**:65 against the grouping on very common sound changes suggested in **hh:hv:Gravina:Central-Chadic**:46-47",
+    "subrefs": "\n**hh:hv:Tourneux:Kotoko:Consonantique**\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Buduma (3799-bdm) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

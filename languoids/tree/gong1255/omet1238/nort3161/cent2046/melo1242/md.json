@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Melo",
+    "hid": "mfx",
+    "level": "language",
+    "iso639-3": "mfx",
+    "latitude": "6.53916",
+    "longitude": "36.811",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ET"
+    ],
+    "links": "\n[Malo](https://endangeredlanguages.com/lang/2700)\n[Melo](https://grambank.clld.org/languages/melo1242)\nhttps://en.wikipedia.org/wiki/Melo_language\nhttps://www.wikidata.org/entity/Q6813268"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aklilu:siebert:02**\n**cldf:alemayehu:01**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:98:1**\n**cldf:siebert:caudwell:02**\n**eballiso2009:19118**\n**eballiso2009:23516**\n**eballiso2009:24644**\n**eballiso2009:24645**\n**eballiso2009:28770**\n**eballiso2009:29872**\n**eballiso2009:31552**\n**hh:hvw:Jordan:Shara-Ometo**\n**hh:s:Abebe:Malo**\n**hh:s:Tesfu:Malo**\n**hh:v:Girard:Ometo**\n**sil16:36294**\n**sil16:37558**\n**sil16:41938**\n**sil16:42592**\n**sil16:42608**"
+  },
+  "altnames": {
+    "multitree": "\nMalo\nMelo",
+    "lexvo": "\nMelo [en]\nMelo language [en]",
+    "hhbib_lgcode": "\nArba Mele",
+    "elcat": "\nMalo\nMello\nMelo"
+  },
+  "triggers": {
+    "lgcode": "\nethiopia AND melo"
+  },
+  "identifier": {
+    "multitree": "mfx",
+    "endangeredlanguages": "2700"
+  },
+  "classification": {
+    "sub": "**hh:hv:Amha:Ometo**",
+    "subrefs": "\n**hh:hv:Amha:Ometo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Malo (2700-mfx) = Vulnerable (20 percent certain, based on the evidence available) [n.a. 1998](cldf:np:98:1)"
+  }
+}

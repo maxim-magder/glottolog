@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Najdi Arabic",
+    "hid": "ars",
+    "level": "language",
+    "iso639-3": "ars",
+    "latitude": "30.3371",
+    "longitude": "42.1773",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AE",
+      "IL",
+      "IQ",
+      "JO",
+      "KW",
+      "LB",
+      "SA",
+      "SY",
+      "TR",
+      "YE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56574\nhttps://en.wikipedia.org/wiki/Najdi_Arabic\nhttps://phoible.org/languages/najd1235"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Landberg:Anazeh**\n**hh:e:Musil:Rwala**\n**hh:g:Ingham:Najdi**\n**hh:gd:OHara:Rwala**\n**hh:ld:Ingham:Mutair**\n**hh:phon:Alhuwaykim:Northwestern-Saudi**\n**hh:phon:Badawi:Colloquial-Riyadhi**\n**hh:s:Abboud:Najdi-Arabic**\n**hh:s:Cantineau:Nomades-Arabes**\n**hh:s:Ingham:Dhafir**\n**hh:s:Johnstone:Dosiri**\n**hh:s:Prochazka:Saudi-Arabian**\n**hh:sdial:Ingham:Najdi**\n**hh:t:Hess:Beduinen-Arabiens**\n**hh:t:Landberg:Anazeh**\n**hh:t:Montagne:Sammar**\n**hh:t:Wetzstein:Syrischen-Wuste**\n**hh:typ:AlShammiry:Turaif-Arabic**"
+  },
+  "altnames": {
+    "multitree": "\nArabic\nArabic, Najdi Spoken\nBedawi\nNajdi Arabic",
+    "lexvo": "\nArabeg nadjiek [br]\nNajdi Arabic [en]\nNajdi arapski [hr]\nНајдиски јазик [mk]\nلهجة نجدية [ar]\nภาษาอาหรับนัจญ์ดี [th]",
+    "hhbib_lgcode": "\n= Arabic-Najdi Spoken\nAhi al-Shimal\nAjman\nAnazeh\nAnazi\nAniza\nArabic Najdi Spoken\nArabic-Najdi Spoken\nAttuwair in Sakaka City the administrative capital of Aljouf Province\nAwazim\nBishah\nCentral Najdi\nCentral Najdi Arabic\nColloquial Riyadhi\nDhafir\nDosiri\nDumat-el-Gandaliye au Gof et le village d'ar-Rass au Negd province du Gasim 3-4 heures de marche au sud-ouest de la ville de 3anêze\nEastern branch of the Mutair\nGezire\nHarb\nHofuf\nHā'il\nMutair\nNajdi\nNajran\nNorthern Najdi Arabic\nRiyadh\nRufai\nRwaili\nRwala\nS Najdi\nShammar\nShammar (Mas'ud)\nSudair (of Tuwaim)\nTuraif\nUtaiba"
+  },
+  "triggers": {
+    "lgcode": "\ndhafir\nnajdi\nturaif"
+  },
+  "identifier": {
+    "multitree": "ars"
+  },
+  "classification": {
+    "sub": "**hh:hvld:FischerJastrow:Arabischen**:24-25",
+    "subrefs": "\n**hh:hvld:FischerJastrow:Arabischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Najdi (ars-ars) = 3 (Wider communication). De facto national working language. Widely spoken in Saudi Arabia in the 7th century with the development of nomadism. Used in religion, trade, and among Bedouin tribes."
+  }
+}

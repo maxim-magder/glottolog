@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Dahalo",
+    "hid": "dal",
+    "level": "language",
+    "iso639-3": "dal",
+    "latitude": "-2.1843",
+    "longitude": "40.37",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\n[Dahalo](https://endangeredlanguages.com/lang/4064)\n[Dahalo](https://grambank.clld.org/languages/daha1245)\n[Dahalo](https://wals.info/languoid/lect/wals_code_dah)\nhttps://en.wikipedia.org/wiki/Dahalo_language\nhttps://phoible.org/languages/daha1245\nhttps://www.wikidata.org/entity/Q35143"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**eballiso2009:15760**\n**eballiso2009:16189**\n**eballiso2009:20210**\n**eballiso2009:22388**\n**eballiso2009:24043**\n**eballiso2009:24560**\n**eballiso2009:25378**\n**eballiso2009:26777**\n**eballiso2009:26778**\n**eballiso2009:32493**\n**eballiso2009:33914**\n**eballiso2009:54447**\n**eballiso2009:54849**\n**eballiso2009:7912**\n**hh:e:Blench:Pygmies**\n**hh:e:Werner:Wapokomo**\n**hh:el:Tosco:Dahalo**\n**hh:g:Tosco:Dahalo**\n**hh:he:Stiles:NEAfrican**\n**hh:hel:Dimmendaal:Contraction**\n**hh:hel:Sommer:Survey**\n**hh:hv:Nurse:Dahalo**\n**hh:hv:Werner:Tana-Valley**\n**hh:ld:Sands:Documentation-Phonology**\n**hh:ld:Voigt:Dahalo**\n**hh:phon:Elderkin:Dahalo**\n**hh:phon:Ladefoged:Targeted**\n**hh:phon:Maddiesonetal:Dahalo**\n**hh:s:Tucker:SanyeBoni**\n**hh:soc:Rilling:Boni-Dahalo**\n**hh:typ:Elderkin:Dahalo:Verb**\n**hh:v:Rowe:Dahalo**\n**hh:vld:Ten:Sanye-Sandawe**\n**hh:w:Dammann:Sanye**\n**hh:w:EhretElderkinNurse:Dahalo**\n**hh:w:Werner:Wasanye**"
+  },
+  "altnames": {
+    "wals": "\nDahalo",
+    "ruhlen (1987)": "\nDahalo",
+    "moseley & asher (1994)": "\nDahalo",
+    "multitree": "\nDahalo\nGuo Garimani\nSanye",
+    "lexvo": "\nDahalo [de]\nDahalo language [en]\nDahaloeg [br]\nJęzyk dahalo [pl]",
+    "hhbib_lgcode": "\nSanye",
+    "elcat": "\nDahalo\nGuo Garimani\nSanye"
+  },
+  "triggers": {
+    "lgcode": "\ntaru\nwasanye\nsanye\nwapokomo\nvot\nnumerali\ntargeted\ndahalo"
+  },
+  "identifier": {
+    "wals": "dah",
+    "multitree": "dal",
+    "endangeredlanguages": "4064"
+  },
+  "classification": {
+    "sub": "**hh:hv:Tosco:Cushitic** **hh:hv:Kiessling:South-East-Cushitic**",
+    "subrefs": "\n**hh:hv:Tosco:Cushitic**\n**hh:hv:Kiessling:South-East-Cushitic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Dahalo (4064-dal) = Endangered (100 percent certain, based on the evidence available) [Tosco 1992](cldf:tosco:92)"
+  }
+}

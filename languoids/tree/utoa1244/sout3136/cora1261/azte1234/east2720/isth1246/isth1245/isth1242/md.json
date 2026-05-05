@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Isthmus-Mecayapan Nahuatl",
+    "hid": "nhx",
+    "level": "language",
+    "iso639-3": "nhx",
+    "latitude": "18.2",
+    "longitude": "-94.7547",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Isthmus-Mecayapan Nahuatl](https://grambank.clld.org/languages/isth1242)\n[Mecayapan Nahuat](https://lexibank.clld.org/languages/davletshinaztecan-MecayapanNahuat)\n[Nahuatl (Mecayapan Isthmus)](https://wals.info/languoid/lect/wals_code_nmi)\nhttps://www.wikidata.org/entity/Q12953756"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:wolgemuth:02**\n**hh:d:Wolgemuth:Nahuatl-Mecayapan:20002**\n**hh:d:Wolgemuthetal:Nahuatl-Mecayapan**\n**hh:dial:Key:Hidalgo-Veracruz-Puebla**\n**hh:dt:Law:Gulf-Aztec**\n**hh:e:Law:Veracruz-Mecayapan**\n**hh:g:Wohlgemuth:Mecayapan**\n**hh:g:Wohlgemuth:Mecayapan:2002**\n**hh:g:Wolgemuth:Nahuatl-Mecayapan-Tatahuicapan**\n**hh:hv:Robinson:Aztec**\n**hh:hvw:Lastra:Nahuatl-Moderno**\n**hh:phon:Law:Isthmus-Nahuat**\n**hh:s:CruzHasler:Nahua-Sur-Veracruz**\n**hh:s:Law:Isthmus-Nahuat**\n**hh:s:Onorio:Mexicano-Tuxtlas**\n**hh:typ:Law:Isthmus-Nahuat**\n**hh:typ:Ramirez:Nahuat-Mecayapan**\n**ldh:item_408229**\n**mpieva:Wolgemuth2000Dicciona**\n**sil16:11372**\n**sil16:11373**\n**sil16:11375**\n**sil16:11377**\n**sil16:11379**\n**sil16:11381**\n**sil16:11383**\n**sil16:11386**\n**sil16:11391**\n**sil16:11930**\n**sil16:12799**\n**sil16:12800**\n**sil16:15965**\n**sil16:34864**\n**sil16:42851**"
+  },
+  "altnames": {
+    "wals": "\nNahuatl (Mecayapan Isthmus)",
+    "wals other": "\nIsthumus Nahuatl\nMecayapan Isthumus Nahuatl\nNahuatl (Isthmus)\nNahuatl (Mecayapan)",
+    "ruhlen (1987)": "\nNawa",
+    "moseley & asher (1994)": "\nNahuatl",
+    "multitree": "\nIsthmus\nIsthmus Aztec-Mecayapan\nMecayapan\nMexicano\nNahua de Tabasco\nNahuatl\nNahuatl (Istmo-Mecayapan)\nNahuatl (Mecayapan Isthmus)\nNahuatl, Isthmus-Mecayapan\nNáhuat de Mecayapan\nNáhuatl de Tabasco\nNáhuatl de l'Isthme",
+    "lexvo": "\nIsthmus-Mecayapan Nahuatl [en]",
+    "hhbib_lgcode": "\nMecayapan\nMecayapan-Veracruz (Isthmus)\nNahua del Sur de Veracruz\nNahuatl-Isthmus-Mecayapan"
+  },
+  "triggers": {
+    "lgcode": "\nrobelo\nmecayapan\ntamakasti\naztecs\nobligatory\nsalutacion\ntuxtlas"
+  },
+  "identifier": {
+    "wals": "nmi",
+    "multitree": "nhx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hansen:Nahuan**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Nahuatl, Isthmus-Mecayapan (nhx-nhx) = 5 (Developing)."
+  }
+}

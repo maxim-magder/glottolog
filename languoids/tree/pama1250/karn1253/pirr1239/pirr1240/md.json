@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pirriya",
+    "hid": "xpa",
+    "level": "language",
+    "iso639-3": "xpa",
+    "latitude": "-25.48006595",
+    "longitude": "142.5485119",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Pirriya](https://endangeredlanguages.com/lang/6796)\n[Pirriya](https://lexibank.clld.org/languages/bowernpny-Pirriya)\nhttps://en.wikipedia.org/wiki/Pirriya_language\nhttps://phoible.org/languages/pirr1240\nhttps://www.wikidata.org/entity/Q16978087",
+    "timespan": "1969-01-01/1969-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:12:5**\n**hh:hv:Breen:Western-Queensland**\n**hh:hvw:Barrett:Maric**\n**hh:hvw:Breen:Western-Queensland:1971**\n**hh:w:Breen:Pirriya**\n**hh:w:Curr:Birria**\n**hh:w:Curr:Thomson-Barcoo**\n**iso6393:2012-063**\n**ozbib:784**"
+  },
+  "triggers": {
+    "lgcode": "\npirriya\nbirria"
+  },
+  "classification": {
+    "sub": "**hh:h:Dixon:Australian2002**:xxxiii **hh:s:Breen:Kungkari**:64 **hh:hv:BowernAtkinson:Pama-Nyungan**",
+    "subrefs": "\n**hh:h:Dixon:Australian2002**\n**hh:s:Breen:Kungkari**\n**hh:hv:BowernAtkinson:Pama-Nyungan**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6796"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pirriya (6796-xpa) = Dormant [Breen 1990](cldf:breen:90:2)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nBirria\nKoongerri misnamed it is",
+    "elcat": "\nBidia\nBiria\nBirria\nPiria\nPirriya"
+  }
+}

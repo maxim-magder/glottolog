@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Etulo",
+    "hid": "utr",
+    "level": "language",
+    "iso639-3": "utr",
+    "latitude": "7.75865",
+    "longitude": "9.44447",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35262\nhttps://en.wikipedia.org/wiki/Etulo_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Tabe:Etulo**\n**hh:g:Ezenwafor:Etulo**\n**hh:g:Ezenwafor:Etulo:2025**\n**hh:h:Temple:NNigeria**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:CAPRO:Benue-State**\n**hh:hv:Armstrong:Idomoid:1981**\n**hh:hvw:Armstrong:Idomoid**\n**hh:phon:Adams:Etulo**\n**hh:phon:Bright-Ajoku:Etulo**\n**hh:w:Armstrong:Etulo**"
+  },
+  "altnames": {
+    "multitree": "\nEtulo\nEturo\nTurumawa\nUtur",
+    "lexvo": "\nEtulo [en]",
+    "hhbib_lgcode": "\nTuru or Turumawa"
+  },
+  "triggers": {
+    "lgcode": "\netulo"
+  },
+  "identifier": {
+    "multitree": "utr;etul"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Armstrong:Idomoid** **hh:hv:Armstrong:Idomoid:1989**",
+    "subrefs": "\n**hh:hvw:Armstrong:Idomoid**\n**hh:hv:Armstrong:Idomoid:1989**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Etulo (utr-utr) = 6a* (Vigorous)."
+  }
+}

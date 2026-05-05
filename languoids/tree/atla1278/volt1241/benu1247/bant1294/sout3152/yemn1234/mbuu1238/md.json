@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ajumbu",
+    "hid": "muc",
+    "level": "language",
+    "iso639-3": "muc",
+    "latitude": "6.53792",
+    "longitude": "10.2556",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Ajumbu](https://endangeredlanguages.com/lang/8889)\nhttps://en.wikipedia.org/wiki/Mbu%CA%BC_language\nhttps://phoible.org/languages/mbuu1238\nhttps://www.wikidata.org/entity/Q35868"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Goodetal:Lower-Fungom**",
+    "subrefs": "\n**hh:hvld:Goodetal:Lower-Fungom**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:good:dicarlo:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:DiCarlo:Lower-Fungom**\n**hh:h:Good:Fungom**\n**hh:hvld:Goodetal:Lower-Fungom**\n**hh:hwsoc:Hammetal:WBeboid**\n**iso6393:2011-148**\n**iso6393:2012-100**\n**sil16:41940**"
+  },
+  "altnames": {
+    "multitree": "\nCameroon\nMbu'",
+    "lexvo": "\nMbu' [en]",
+    "hhbib_lgcode": "\nMbu'\nMbuk\nTODO Mbuk",
+    "elcat": "\nAjumbu\nMbu'"
+  },
+  "triggers": {
+    "lgcode": "\nwestern AND menchum"
+  },
+  "identifier": {
+    "multitree": "muc",
+    "endangeredlanguages": "8889"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ajumbu (8889-muc) = Endangered (20 percent certain, based on the evidence available) [Good and DiCarlo 2012](cldf:good:dicarlo:12)"
+  }
+}

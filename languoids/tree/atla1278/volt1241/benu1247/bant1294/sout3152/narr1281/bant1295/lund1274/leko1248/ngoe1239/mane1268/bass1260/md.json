@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bassossi",
+    "hid": "bsi",
+    "level": "language",
+    "iso639-3": "bsi",
+    "latitude": "5.23655",
+    "longitude": "9.52275",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34940\nhttps://en.wikipedia.org/wiki/Sosi_language\nhttps://phoible.org/languages/bass1260"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Hedinger:Manenguba**\n**hh:hvw:Hedinger:Manenguba:1984**"
+  },
+  "altnames": {
+    "multitree": "\nAsobse\nBasosi\nBasossi\nBassossi\nNgen\nNsose\nNswase\nNswose\nSosi\nSwose",
+    "lexvo": "\nBassossi [en]",
+    "hhbib_lgcode": "\nA15B_Mienge_NW_Manenguba\nA15_Manenguba\nMYE\nMienge"
+  },
+  "triggers": {
+    "lgcode": "\nNOT study AND cameroon AND manenguba"
+  },
+  "identifier": {
+    "multitree": "bsi"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hedinger:Manenguba**",
+    "subrefs": "\n**hh:hvw:Hedinger:Manenguba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bassossi (bsi-bsi) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Motu",
+    "hid": "meu",
+    "level": "language",
+    "iso639-3": "meu",
+    "latitude": "-9.67492",
+    "longitude": "147.424",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Motu](https://grambank.clld.org/languages/motu1246)\n[Motu](https://lexibank.clld.org/languages/abvdoceanic-Motu)\n[Motu](https://lexibank.clld.org/languages/transnewguineaorg-motu)\n[Motu](https://wals.info/languoid/lect/wals_code_mtu)\nhttps://en.wikipedia.org/wiki/Motu_language\nhttps://www.wikidata.org/entity/Q33516"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:belshaw:57**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:bybee:perkins:etal:94**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:eberhard:simons:etal:ed:20**\n**cldf:f:allen:04**\n**cldf:gibson:01**\n**cldf:goddard:03:4**\n**cldf:groves:11**\n**cldf:groves:63**\n**cldf:groves:64**\n**cldf:groves:91**\n**cldf:groves:price:etal:58**\n**cldf:gwilliam:82**\n**cldf:keesing:84:2**\n**cldf:lister-turner:clark:30:1**\n**cldf:np:14:5**\n**cldf:np:18:4**\n**cldf:np:19:5**\n**cldf:oram:77**\n**cldf:pita:75**\n**cldf:turner:78**\n**hh:e:Lawes:Koiari**\n**hh:e:Wu:Hiri**\n**hh:g:Taylor:Motu**\n**hh:hew:Gill:Southern-Isles**\n**hh:hew:MacGillivray:Rattlesnake**\n**hh:hew:Murray:Polynesia-New-Guinea**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvld:Lithgow:Milne**\n**hh:hvw:Latham:Comparative**\n**hh:hvw:Ray:Melanesian**\n**hh:hvw:Zoller:DNG**\n**hh:hvwtyp:Dutton:Rigo**\n**hh:hw:Lawes:New-Guinea**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Central-Papua**\n**hh:s:Lister-TurnerClark:Motu**\n**hh:s:Lister-TurnerClark:Motu:1930**\n**hh:sd:Lawes:Motu**\n**hh:sd:Lawes:Motu:1885**\n**hh:sd:Lawes:Motu:1888**\n**hh:typ:Foreman:Motu-Police-Motu**\n**hh:typ:Wurm:Motu-Police-Motu**\n**hh:w:Anonymous:Kiwai**\n**hh:w:Bouellat:Mekeo**\n**hh:w:Dutton:Motu**\n**sil16:10322**"
+  },
+  "altnames": {
+    "wals": "\nMotu",
+    "ruhlen (1987)": "\nMotu",
+    "moseley & asher (1994)": "\nMotu",
+    "multitree": "\nMona\nMotu\nPure Motu\nTrue Motu",
+    "lexvo": "\nIdioma motu [es]\nMotu [en]\nMotu language [en]\nMotun kieli [fi]\nMotų kalba [lt]\nМоту [ru]",
+    "hhbib_lgcode": "\nManumanu SE New Guinea/Redscar Bay\nRedscar Bay\nRedscar bay and onwards towards the East End of New Guinea"
+  },
+  "triggers": {
+    "lgcode": "\ngrammar AND motu\nkoiarian"
+  },
+  "identifier": {
+    "wals": "mtu",
+    "multitree": "meu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:g:Jones:Mekeo**:23-25",
+    "subrefs": "\n**hh:g:Jones:Mekeo**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Motu (meu-meu) = 5* (Developing)."
+  }
+}

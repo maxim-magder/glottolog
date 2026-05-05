@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Cambap-Langa",
+    "hid": "twn",
+    "level": "language",
+    "iso639-3": "twn",
+    "latitude": "6.36656",
+    "longitude": "11.7002",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Twendi](https://endangeredlanguages.com/lang/532)\nhttps://www.wikidata.org/entity/Q7857682\nhttps://en.wikipedia.org/wiki/Twendi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:connell:07:1**\n**cldf:connell:96**\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:wuethrich:00**\n**hh:el:Connell:Nigeria-Cameroon**\n**hh:hv:Blench:Mambiloid**\n**hh:hv:Connell:Mambiloid**\n**hh:phon:Connell:Cambap**"
+  },
+  "altnames": {
+    "multitree": "\nCambap\nTwendi",
+    "lexvo": "\nTwendi [en]",
+    "hhbib_lgcode": "\nCambap\nTwendi",
+    "elcat": "\nCambap\nTiwa (Northern)\nTwendi"
+  },
+  "triggers": {
+    "lgcode": "\ncambap"
+  },
+  "identifier": {
+    "multitree": "twn",
+    "endangeredlanguages": "532"
+  },
+  "classification": {
+    "sub": "**hh:hv:Connell:Mambiloid:2017**:112, 121-123",
+    "subrefs": "\n**hh:hv:Connell:Mambiloid:2017**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Twendi (532-twn) = Severely Endangered (60 percent certain, based on the evidence available) [Connell 2007](cldf:connell:07:1)"
+  }
+}

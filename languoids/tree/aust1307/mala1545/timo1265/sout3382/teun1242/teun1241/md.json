@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Te'un",
+    "hid": "tve",
+    "level": "language",
+    "iso639-3": "tve",
+    "latitude": "-6.97086",
+    "longitude": "129.143718",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Te'un](https://endangeredlanguages.com/lang/2792)\n[Te'un](https://grambank.clld.org/languages/teun1241)\nhttps://en.wikipedia.org/wiki/Teun_language\nhttps://www.wikidata.org/entity/Q7690709"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Edwards:Teun-Nilua-Serua**\n**hh:h:Taber:Maluku**\n**hh:hv:Collins:Maluku**\n**hh:hvw:Taber:SWMaluku**\n**hh:ld:Erniati:Teon**\n**hh:s:Pasapan:Teon**\n**hh:typsoc:vanEngelenhoven:Teun-Nila-Serua**"
+  },
+  "altnames": {
+    "multitree": "\nTe'un\nTe'un (île de Seram)\nTe'un (île de Te'un)\nTeun (isla Te'un)",
+    "lexvo": "\nTe'un [en]",
+    "hhbib_lgcode": "\nTeon\nTeun",
+    "elcat": "\nTe'un"
+  },
+  "triggers": {
+    "lgcode": "\nteunskij"
+  },
+  "identifier": {
+    "multitree": "tve",
+    "endangeredlanguages": "2792"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Taber:SWMaluku**:392-393 **hh:hv:Edwards:Rote-Meto:2021**:77-86",
+    "subrefs": "\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hvw:Taber:SWMaluku**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Te’un (tve-tve) = 8a (Moribund)."
+  }
+}

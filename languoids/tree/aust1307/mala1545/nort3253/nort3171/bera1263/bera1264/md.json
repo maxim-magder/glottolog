@@ -1,0 +1,32 @@
+{
+  "core": {
+    "name": "Berawan",
+    "level": "family",
+    "iso639-3": "lod",
+    "hid": "lod",
+    "links": "\nhttps://www.wikidata.org/entity/Q4891018\nhttps://en.wikipedia.org/wiki/Berawan_language"
+  },
+  "altnames": {
+    "multitree": "\nBerawan"
+  },
+  "identifier": {
+    "multitree": "bera"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Burkhardt:Berawan**",
+    "subrefs": "\n**hh:hvwphon:Burkhardt:Berawan**"
+  },
+  "iso_retirement": {
+    "comment": "Juergen Burkhardt's preliminary historical-comparative analysis confirms Blust’s\n(1974) classfication, which claims:\n\nBerawan (a separate group of languages)\n\nWest-Berawan (= Berawan Long Terawan)\n\nCentral-East Berawan\n\n- Central Berawan (Batu Belah & Long Teru)\n\n- East Berawan (Long Jegan)",
+    "code": "lod",
+    "name": "Berawan",
+    "effective": "2008-01-14",
+    "reason": "split",
+    "remedy": "Split into three languages: West Berawan [zbw], Central Berawan [zbc], and East Berawan [zbe]",
+    "change_request": "2007-200",
+    "change_to": "\nzbw\nzbc\nzbe"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2007-200**"
+  }
+}

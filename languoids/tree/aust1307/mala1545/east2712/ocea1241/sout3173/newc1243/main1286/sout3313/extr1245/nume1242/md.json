@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Numee",
+    "hid": "kdk",
+    "level": "language",
+    "iso639-3": "kdk",
+    "latitude": "-22.2689",
+    "longitude": "166.705",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Kapone](https://lexibank.clld.org/languages/abvdoceanic-Kapone)\n[Numèè](https://endangeredlanguages.com/lang/1371)\nhttps://en.wikipedia.org/wiki/Num%C3%A8%C3%A8_language\nhttps://www.wikidata.org/entity/Q3346774"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:190**\n**cldf:rendina:07**\n**hh:d:Rivierre:Numee**\n**hh:ew:Nevermann:Lifou**\n**hh:g:Wacalie:Numee**\n**hh:hv:vonderGabelentz:Melanesischen**\n**hh:hvw:vonderGabelentzMeyer:Melanesischen**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:phon:Rivierre:Kwenyii**\n**hh:s:Dubois:Pins**\n**hh:s:Rendina:Numee**\n**hh:sv:Soon:Kwenyi**\n**hh:vphon:Rivierre:Sud-Nouvelle-Caledonie**\n**iso6393:2012-127**"
+  },
+  "altnames": {
+    "multitree": "\nDuauru\nKapone\nKunie\nKwenyii\nNaa Numee\nNaa-Wee\nNeukaledonien\nNumee\nOuen\nTouaouru\nTuauru\nUen\nWen",
+    "lexvo": "\nNumee [en]",
+    "hhbib_lgcode": "\nDuauru\nIle de Pins\nKapone\nKwenyii\nKwényi\nKwényï\nNumèè\nNuméé\nÎle des Pins",
+    "elcat": "\nDuauru\nKapone\nKunie\nKwenyii\nNaa-Wee\nNeukaledonien\nNumèè\nNââ Numèè\nOuen\nTouaouru\nTuauru\nUen\nWen"
+  },
+  "triggers": {
+    "lgcode": "\nsud AND lextreme"
+  },
+  "identifier": {
+    "multitree": "kdk",
+    "endangeredlanguages": "1371"
+  },
+  "classification": {
+    "sub": "**hh:vphon:Rivierre:Sud-Nouvelle-Caledonie**",
+    "subrefs": "\n**hh:vphon:Rivierre:Sud-Nouvelle-Caledonie**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Numèè (1371-kdk) = Threatened (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:190)"
+  }
+}

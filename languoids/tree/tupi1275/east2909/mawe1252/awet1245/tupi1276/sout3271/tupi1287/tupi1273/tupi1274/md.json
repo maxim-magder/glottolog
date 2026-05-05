@@ -1,0 +1,55 @@
+{
+  "core": {
+    "name": "Lingua Geral Paulista",
+    "hid": "tpw",
+    "level": "dialect",
+    "iso639-3": "tpw",
+    "latitude": "-23.95",
+    "longitude": "-46.38",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "timespan": "1600-01-01/1868-01-01",
+    "links": "\nhttps://en.wikipedia.org/wiki/Tupi_language\nhttps://www.wikidata.org/entity/Q56944"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2022-012**\n**ldh:item_400049**\n**mpieva:Anchieta1933Artedegr**\n**mpieva:Edelweiss1969Estudost**\n**mpieva:Tatevin1910Lalangue**"
+  },
+  "altnames": {
+    "glottolog": "\nTupi\nTupí",
+    "wals": "\nTupi",
+    "ruhlen (1987)": "\nTupi",
+    "moseley & asher (1994)": "\nTupi",
+    "multitree": "\nLingua Geral Paulista\nLíngua Geral\nLíngua Geral Paulista\nSouthern Tupí\nTupi\nTupi Austral\nTupí\nTupí Austral\nTupí language area",
+    "lexvo": "\nKlassisk tupí [no]\nLingua tupi [it]\nLíngua tupi [pt]\nOld Tupi language [en]\nTupi [de]\nTupí [en]\nטופי עתיקה [he]",
+    "hhbib_lgcode": "\nDiccionario de Verbos Tupi-Austral\nLingua Geral Paulista\nTupi Austral\nTupi de Piratininga\nTupi de Sao Paulo\nTupí"
+  },
+  "triggers": {
+    "lgcode": "\nrevisoes\nplantae\nmores\nmorbi\niconibus\ntapihiya\nzugrundelegung\nillustrantur\ningenia\nquingentas\nanimalia\ndescribuntur\nindigenarum\nsed"
+  },
+  "identifier": {
+    "multitree": "tpui;tpw"
+  },
+  "classification": {
+    "sub": "**hh:hv:RodriguesCabral:Tupi-Guarani**",
+    "subrefs": "\n**hh:hv:RodriguesCabral:Tupi-Guarani**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Tupí (tpw-tpw) = 10 (Extinct)."
+  },
+  "iso_retirement": {
+    "code": "tpw",
+    "name": "Tupí",
+    "effective": "2023-01-20",
+    "reason": "duplicate",
+    "change_to": "\ntpn",
+    "remedy": "Duplicate of Tupinamba [tpn]",
+    "change_request": "2022-012"
+  }
+}

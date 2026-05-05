@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wè Southern",
+    "hid": "gxx",
+    "level": "language",
+    "iso639-3": "gxx",
+    "latitude": "6.50013",
+    "longitude": "-7.63427",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "LR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q19921582"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:roca:ed:97**\n**eballiso2009:101**\n**eballiso2009:10401**\n**eballiso2009:10403**\n**eballiso2009:11152**\n**eballiso2009:11273**\n**eballiso2009:11635**\n**eballiso2009:11639**\n**eballiso2009:11641**\n**eballiso2009:11716**\n**eballiso2009:14811**\n**eballiso2009:16212**\n**eballiso2009:16213**\n**eballiso2009:18422**\n**eballiso2009:24335**\n**eballiso2009:26261**\n**eballiso2009:28829**\n**eballiso2009:30458**\n**eballiso2009:30460**\n**eballiso2009:30461**\n**eballiso2009:32257**\n**eballiso2009:34044**\n**eballiso2009:37982**\n**eballiso2009:37987**\n**eballiso2009:45329**\n**eballiso2009:45330**\n**eballiso2009:55662**\n**eballiso2009:56986**\n**eballiso2009:7398**\n**eballiso2009:9509**\n**hh:e:Schwartz:Guere**\n**hh:e:Viard:Gueres**\n**hh:h:FrickBolli:CotedIvoire**\n**hh:h:Richard:Sud-Ouest-Ivoirien**\n**hh:h:Schwartz:Guere-Wobe**\n**hh:hvphon:Bole-Richard:We**\n**hh:hvs:Marchese:Kru**\n**hh:hvw:Duitsman:Guere**\n**hh:phon:Paradis:Guere**\n**hh:phon:Paradis:Guere:1982**\n**hh:soc:Hair:Afro-European**\n**hh:w:Bertho:GereWobe**\n**hh:w:KayeKoopman:Guere**\n**hh:w:Marchese:Kru-Lexemes**\n**mpieva:Paradis1983Descript**\n**sil16:15666**"
+  },
+  "altnames": {
+    "glottolog": "\nWe Southern",
+    "multitree": "\nCentral Guéré\nGere\nGuere\nGuéré\nWè Southern\nWèè",
+    "lexvo": "\nWè Southern [en]",
+    "hhbib_lgcode": "\nBangolo Guere\nBeu\nFleo\nGuere\nGuiglo\nGuéré\nGuéré de Zagna\nNeao\nNyeo\nSibabli in Duékoué\nZaa\nZagna\nZagne\nZagné\nZibiao"
+  },
+  "triggers": {
+    "lgcode": "\ntowerson\nkran\nkrahn\nb2a\numbstandliche\nvilles\nyeere\nguere\nkruan\nguynee"
+  },
+  "identifier": {
+    "multitree": "gxx"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Duitsman:Guere** **hh:hv:Ingemann:Kruan** **hh:e:Lauer:Doo**",
+    "subrefs": "\n**hh:e:Lauer:Doo**\n**hh:hv:Ingemann:Kruan**\n**hh:hvw:Duitsman:Guere**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wè Southern (gxx-gxx) = 5* (Developing)."
+  }
+}

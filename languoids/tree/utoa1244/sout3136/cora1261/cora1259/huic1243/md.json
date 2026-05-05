@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Huichol",
+    "hid": "hch",
+    "level": "language",
+    "iso639-3": "hch",
+    "latitude": "21.954",
+    "longitude": "-104.062",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Huichol](https://endangeredlanguages.com/lang/6569)\n[Huichol](https://grambank.clld.org/languages/huic1243)\n[Huichol](https://lexibank.clld.org/languages/utoaztecan-Huichol)\n[Huichol](https://wals.info/languoid/lect/wals_code_hui)\nhttps://en.wikipedia.org/wiki/Huichol_language\nhttps://phoible.org/languages/huic1243\nhttps://www.wikidata.org/entity/Q35575"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1112**\n**cldf:comrie:82**\n**cldf:comrie:84**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:frawley:hill:etal:ed:02:3**\n**cldf:grimes:grimes:62**\n**cldf:klineberg:34**\n**cldf:langacker:76**\n**cldf:lewis:ed:09**\n**cldf:lumholtz:98**\n**cldf:np:09:4**\n**cldf:np:81**\n**cldf:np:nd:212**\n**cldf:stolz:96**\n**cldf:zingg:38**\n**hh:d:Aceves:Huichola**\n**hh:d:Grimes:Huichol**\n**hh:e:GrimesHinton:Huichol-Cora**\n**hh:g:Bierge:Wixarika**\n**hh:g:Gomez:Huichol**\n**hh:g:Iturrioz:Wixarika**\n**hh:g:Iturrioz:Wixarika:2021**\n**hh:h:Griffen:Southern-East**\n**hh:h:Moctezuma:Yutoazteca-Surena**\n**hh:hv:Miller:Uto-Aztecan:1983**\n**hh:phon:Iturrioz:Huichol**\n**hh:phon:McIntosh:Huichol**\n**hh:s:Diguet:Huichol**\n**hh:s:Grimes:Huichol**\n**hh:s:ILV:Huichol**\n**hh:s:Palafox:Huichol**\n**hh:typ:Chable:Huichol**\n**hh:typ:Cruz:Guarijio-Chihuahua**\n**hh:typ:Grimes:Huichol**\n**mpieva:228**\n**mpieva:Gomez1999Huichold**\n**mpieva:Iturrioz2006Gramatic**\n**mpieva:IturriozGramatic**\n**sil16:10854**\n**sil16:10856**\n**sil16:10857**\n**sil16:10861**\n**sil16:10862**\n**sil16:10864**\n**sil16:10876**\n**sil16:10877**\n**sil16:10898**\n**sil16:10902**\n**sil16:10903**\n**sil16:11648**\n**sil16:11650**\n**sil16:11654**\n**sil16:15826**\n**sil16:15831**\n**sil16:15832**\n**sil16:15836**\n**sil16:15841**\n**sil16:31089**\n**sil16:34495**\n**sil16:42838**\n**sil16:43243**\n**sil16:45699**\n**sil16:49917**\n**sil16:50443**"
+  },
+  "altnames": {
+    "wals": "\nHuichol",
+    "ruhlen (1987)": "\nnot specified",
+    "moseley & asher (1994)": "\nHuichol",
+    "multitree": "\nHuichol\nVixaritari Vaniuqui\nVizaritari Vaniuki\nWichol",
+    "lexvo": "\nHouitcholeg [br]\nHuichol [en]\nHuichol language [en]\nHujĉola lingvo [eo]\nIdioma huichol [es]\nWichol simi [qu]\nУичоль [ru]",
+    "hhbib_lgcode": "\n1940s songs in Zacatec\nCuachichil\nGuachichil\nTecual\nWixárika",
+    "elcat": "\nHuichol\nVixaritari Vaniuqui\nVizaritari Vaniuki"
+  },
+  "triggers": {
+    "lgcode": "\nsurena\nhuichol\nwixarika\nteputeuerie"
+  },
+  "identifier": {
+    "wals": "hui",
+    "multitree": "hch",
+    "endangeredlanguages": "6569"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hill:Uto-Aztecan** **hh:hv:Hansen:Nahuatl-Corachol**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuatl-Corachol**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Huichol (6569-hch) = Vulnerable (20 percent certain, based on the evidence available) [n.a. 2009](cldf:np:09:4)"
+  }
+}

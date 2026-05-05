@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Okiek",
+    "hid": "oki",
+    "level": "language",
+    "iso639-3": "oki",
+    "latitude": "-2.78048",
+    "longitude": "36.5977",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "TZ"
+    ],
+    "links": "\n[Okiek](https://endangeredlanguages.com/lang/3794)\nhttps://www.wikidata.org/entity/Q56367\nhttps://en.wikipedia.org/wiki/Ogiek_language"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1229**\n**cldf:austin:08:1**\n**cldf:blackburn:93**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:huntingford:51**\n**cldf:huntingford:54**\n**cldf:kiplangat:03:1**\n**cldf:kratz:00**\n**cldf:kratz:96**\n**cldf:lewis:ed:09**\n**cldf:rottland:82**\n**cldf:wayland:31**\n**eballiso2009:33932**\n**eballiso2009:48984**\n**eballiso2009:49648**\n**eballiso2009:49653**\n**hh:e:Blackburn:Okiek**\n**hh:e:Blackburn:Okiek-History**\n**hh:e:Blackburn:Okiek:1971**\n**hh:e:Blackburn:Okiek:1982**\n**hh:e:Blackburn:Okiek:1982:Monograph**\n**hh:e:Blackburn:Okiek:Fission**\n**hh:e:Distefano:Okiek**\n**hh:e:Dundas:Kikuyu-Dorobo**\n**hh:e:Evans:Akiek**\n**hh:e:Hobley:Dorobo:1906**\n**hh:e:Huntingford:Dorobo**\n**hh:e:Huntingford:Dorobo:Social**\n**hh:e:Huntingford:Hunting-Tribe**\n**hh:e:Kratz:Okiek**\n**hh:e:Kratz:Okiek:1980**\n**hh:e:Kratz:Okiek:1999**\n**hh:e:Lambert:Kikuyu**\n**hh:e:Lindblom:Elgon**\n**hh:e:Sutton:Sirikwa-Okiek**\n**hh:e:Wambua:Dorobo**\n**hh:e:Yeoman:Dorobo**\n**hh:e:vanZwanenberg:Dorobo**\n**hh:ew:Huntingford:Okiek**\n**hh:h:Blackburn:Ogiek**\n**hh:h:Huntingford:Free-Hunters**\n**hh:he:Blackburn:Okiek**\n**hh:he:Huntingford:SNilo-Hamites**\n**hh:hel:Sommer:Survey**\n**hh:hew:Hobley:EUganda**\n**hh:hsoc:Kratz:Okiek**\n**hh:hvphon:Rottland:SNilotischen**\n**hh:hvw:Distefano:Kalenjin**\n**hh:hw:Johnston:Uganda:2**\n**hh:lde:Micheli:Okiek:Honey**\n**hh:s:Micheli:Ogiek**\n**hh:soc:Micheli:Okiek**\n**hh:typ:Ochieng:Okiek**\n**hh:w:Heine:Restsprachen**\n**hh:w:Hobley:Mau**\n**hh:w:Hobley:Oggiek**\n**hh:w:Huntingford:Taturu**\n**hh:w:MacDonald:Juba-Expedition**"
+  },
+  "altnames": {
+    "multitree": "\n\"Ndorobo\"\nAkie\nAkiek\nKinare\nOgiek\nOkiek\nSogoo",
+    "lexvo": "\nOgiek language [en]\nOkiek [en]\nOkiekeg [br]",
+    "hhbib_lgcode": "\nDeals with Last's Taturu ?= Okiek\nDigiri clan of Oggiek on the slopes of Mount Kenia\nDorobo of Ndoro\nDorobo of Ravine probabli Okiek\nDorobo of Tinderet\nDorobo of the North Tindiret (Kipkurerek)\nDorobo wandering inhabiting Baringo-Suk(?)-Nandi-Mau districts and parts of the E Africa protectorate\nEldorobo of Eldama Ravine\nKinare\nMorisionig\nOgiek Kalenjin speaking\nOkiek groups in Narok District on the western Mau Escarpment: Kaplelach and Kipchornwonek Okiek\nOkiek of Kamelilo-Kapchepkendi near Tinderet 0 5 S to 0 10 N and 35 20 E to 35 35 E\nOkiek of Mariashoni\nP 60 Dorobo of Keriita\nSogoo\nWanderobo from a Suk government interpreter the Wanderobo are placed on the map east of Lake Rudolf ie Turkana (!)\nWandorobo on the higher peaks of Mount Elgon who call themselves Ogiek\nand they call themselves the Omotik -\nin the Mau Forest north-east of Mount Tinderet. By the Nandi they are called the Oggiek and they call themselves the Omotik -",
+    "elcat": "\n\"Ndorobo\"\nAkie\nAkiek\nKinare\nOgiek\nOkiek"
+  },
+  "triggers": {
+    "lgcode": "\nsirikwa\nkaruri\nchief\nNOT analysis AND NOT to AND NOT history AND NOT among AND okiek\nlvii\nokiek\nakiek\nogiek\naltitude\nmau"
+  },
+  "identifier": {
+    "multitree": "oki",
+    "endangeredlanguages": "3794"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**:84-93 although more recent work holds this relationship as premature (p.c. 2015 Christa\nKönig)",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Okiek (3794-oki) = Severely Endangered (20 percent certain, based on the evidence available) [Austin 2008](cldf:austin:08:1)"
+  }
+}

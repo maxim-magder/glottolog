@@ -1,0 +1,33 @@
+{
+  "core": {
+    "name": "Nootka",
+    "hid": "noo",
+    "level": "language",
+    "iso639-3": "noo",
+    "latitude": "49.6212",
+    "longitude": "-126.086",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": ""
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2010-033**\n**ldh:item_403717**"
+  },
+  "iso_retirement": {
+    "comment": "The Ditidaht Band is recognized by the Canadian government as a Band of the\nNuu-chah- nulth Tribe, while the Pacheedaht are recognized as an independent\nFirst Nation. The Ditidaht language is recognized as an individual language by\nthe First Peoples' Heritage, Language and Culture Council, which is a Crown\nCorporation, and appointed by the government of Bristish Columbia to oversee\nprovincial funding for native language revitalization.\n\nThe name 'Ditidaht' is commonly used for the traditional language that is shared\nby the present-day Ditidaht and Pacheedaht, though only the Ditidaht also use\nthe name as an ethnonym. The Ditidaht and Pacheedaht peoples have distinct\nethnic identities from each other, as well as distinct ethnolinguistic\nidentities from their most closely related neighbours, the Nuu-chah-nulth of\nVancouver Island, and the Makah of the Olympic Peninsula.",
+    "code": "noo",
+    "name": "Nootka",
+    "effective": "2011-05-18",
+    "remedy": "Split into [dtd] Ditidaht and [nuk] Nuu-chah-nulth",
+    "reason": "split",
+    "change_request": "2010-033",
+    "change_to": "\ndtd\nnuk"
+  },
+  "identifier": {
+    "wals": "nuu;kyq;nit"
+  }
+}

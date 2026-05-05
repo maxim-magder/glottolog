@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bedik",
+    "hid": "tnr",
+    "level": "language",
+    "iso639-3": "tnr",
+    "latitude": "12.7531",
+    "longitude": "-12.4796",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SN"
+    ],
+    "links": "\n[Ménik](https://endangeredlanguages.com/lang/1384)\nhttps://www.wikidata.org/entity/Q35096\nhttps://en.wikipedia.org/wiki/Bedik_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:childs:06**\n**cldf:ed:10**\n**cldf:ferry:91**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:sall:08**\n**cldf:sall:10**\n**eballiso2009:10253**\n**eballiso2009:10254**\n**eballiso2009:10255**\n**eballiso2009:10256**\n**eballiso2009:11473**\n**eballiso2009:2054**\n**eballiso2009:2055**\n**eballiso2009:23745**\n**eballiso2009:23749**\n**eballiso2009:23750**\n**eballiso2009:23753**\n**eballiso2009:23754**\n**eballiso2009:23756**\n**eballiso2009:28191**\n**eballiso2009:37851**\n**eballiso2009:41135**\n**eballiso2009:46059**\n**eballiso2009:50285**\n**eballiso2009:50286**\n**eballiso2009:53273**\n**hh:ed:Ferry:Tenda**\n**hh:hdial:JenkinsAmdahl:Tenda**\n**hh:hel:Sommer:Survey**\n**hh:hv:Ka:Senegalese**\n**hh:vw:Ferry:Basari-Bedik**\n**iso6393:2006-094**\n**iso6393:2012-145**\n**mpieva:Ferry1991Thesauru**"
+  },
+  "altnames": {
+    "multitree": "\nBande\nBasari du Bandemba\nBedik\nBudik\nMénik\nTandanke\nTenda\nTendanke",
+    "lexvo": "\nBedik [en]",
+    "hhbib_lgcode": "\nBanapas Bedik",
+    "elcat": "\nBande\nBasari du Bandemba\nBedik\nBudik\nMenik\nMénik\nTandanke\nTenda\nTendanke"
+  },
+  "triggers": {
+    "lgcode": "\ntombali\nkedougou\nbedik\ntenda\nsorgho"
+  },
+  "identifier": {
+    "multitree": "tnr",
+    "endangeredlanguages": "1384"
+  },
+  "classification": {
+    "sub": "**hh:hv:Segerer:Atlantic-Isolates**",
+    "subrefs": "\n**hh:hv:Segerer:Atlantic-Isolates**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ménik (1384-tnr) = Threatened (20 percent certain, based on the evidence available) [Sall 2008](cldf:sall:08)"
+  }
+}

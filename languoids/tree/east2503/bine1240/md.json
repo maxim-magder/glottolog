@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bine",
+    "hid": "bon",
+    "level": "language",
+    "iso639-3": "bon",
+    "latitude": "-9.08879",
+    "longitude": "142.893",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Bine](https://grambank.clld.org/languages/bine1240)\nhttps://en.wikipedia.org/wiki/Bine_language\nhttps://www.wikidata.org/entity/Q4914077"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:saari:92**\n**hh:g:FleischmannTurpeinen:Bine**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hv:Wurm:Trans-Fly**\n**hh:hvld:Wurm:Trans-Fly:1971**\n**hh:hvw:Ray:Western**\n**hh:hw:Ray:WFly**\n**hh:hw:RileyRay:Fly**\n**hh:hwsoc:FleischmannTurpeinen:ETrans-Fly**\n**hh:nt:Fleischmannetal:Bine**\n**hh:phon:FleischmannTurpeinen:Bine**\n**hh:s:Dohler:Bine**\n**sil16:50382**\n**silpng:silpng1956-1990:1290**\n**silpng:silpng1956-1990:1291**\n**silpng:silpng1956-1990:1292**\n**silpng:silpng1956-1990:1293**\n**silpng:silpng1956-1990:1294**\n**silpng:silpng1956-1990:194**"
+  },
+  "altnames": {
+    "multitree": "\nBine\nKunini\nMasingara\nOriomo\nPine",
+    "lexvo": "\nBine [en]",
+    "hhbib_lgcode": "\nE Trans-Fly: Kunini (= Bine)\nKunini\nMasingara\nOriomo\nOriomo (= Bine)"
+  },
+  "triggers": {
+    "lgcode": "\noriomo\nireclota\nbine\nmene\nlillian\ntate\nyoona"
+  },
+  "identifier": {
+    "multitree": "bon"
+  },
+  "classification": {
+    "sub": "**hh:hv:Josefsson:Oriomo** **hh:hvld:Wurm:Trans-Fly:1971**:146",
+    "subrefs": "\n**hh:hvld:Wurm:Trans-Fly:1971**\n**hh:hv:Josefsson:Oriomo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bine (bon-bon) = 5 (Developing)."
+  }
+}

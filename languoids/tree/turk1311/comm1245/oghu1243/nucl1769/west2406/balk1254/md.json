@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Rumelian Turkish",
+    "hid": "bgx",
+    "level": "language",
+    "iso639-3": "bgx",
+    "latitude": "41.170545",
+    "longitude": "24.44567",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BG",
+      "GR",
+      "MK",
+      "TR"
+    ],
+    "links": "\n[Balkan Gagauz Turkish](https://endangeredlanguages.com/lang/3907)\nhttps://en.wikipedia.org/wiki/Balkan_Gagauz_language\nhttps://www.wikidata.org/entity/Q2360396"
+  },
+  "classification": {
+    "sub": "**hh:ld:Manevic:Juruka**",
+    "subrefs": "\n**hh:ld:Manevic:Juruka**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:np:nd:264**\n**hh:g:Petrou:Westthrakien**\n**hh:hv:Kowalski:Turque-Bulgarie**\n**hh:hv:Nemeth:Bulgariens**\n**hh:hvld:Caferogli:Anatolischen-Rumelischen**\n**hh:ld:Baski:Deliorman**\n**hh:ld:Iliev:Gagauz-Greece**\n**hh:phont:Eckmann:Razgrad-Turk**\n**hh:phont:Katona:Turc-Macedonie**\n**hh:phont:Mollova:Balkanlarda**\n**hh:phonvld:Mollova:Merkez**\n**hh:s:Dalli:Bulgaristan**\n**hh:s:Eckmann:Edirne**\n**hh:s:Eckmann:Kumanova**\n**hh:s:Eckmann:Turkische-Warna**\n**hh:s:Gulvodina:Tirgoviste**\n**hh:s:Hazai:Turcs-Rhodope**\n**hh:s:Kakuk:Kazanlyk**\n**hh:s:Kakuk:Kustendil**\n**hh:s:Kakuk:Ohrid**\n**hh:s:Mollova:Turc-Florina**\n**hh:s:Salimehmed:Bulqaristan**\n**hh:s:Sureja:Prizrenski-Turski**\n**hh:soc:Nasteva:Gostivarskiot**\n**hh:ste:Nemeth:Turken-Vidin**\n**hh:t:Kalay:Edirne**\n**hh:typ:Eckmann:Dinler**\n**hh:v:Gulvodina:Tirgoviste**\n**hh:vtyp:Friedman:Western-Rumelian-Turkish**"
+  },
+  "altnames": {
+    "multitree": "\nBalkan Gagauz Turkish\nBalkan Turkic\nGagaouze (Balkans du sud)\nGagaouze (Bessarabia)\nGagaouze (Deli Orman)\nGagaouze balkanique\nGagauso (sur de los Balcanes)\nGagauz\nTürkische Sprache in Bulgarien",
+    "lexvo": "\nBalkan Gagauz Turkish [en]\nBalkan Gagauz Turkish language [en]\nБалкано-гагаузский язык [ru]\nБалкански гагауско-турски јазик [mk]\nภาษาตุรกีกากาอุซบอลข่าน [th]",
+    "hhbib_lgcode": "\nBalkan Gagauz Turkish\nBulgarian Turkish\nDeliorman in SW Bulgaria\nDobrogea Tatar\nDobroudja Tatar\nEast Rumelian\nEdirne\nKazanlyk\nKirdzali\nKumanova\nKustendil\nKuzeydoğu Bulgaristan türk\nMacedonian Turkish\nRazgrad Türk\nRodop Turkish\nRumelian\nRumelischen\nTurkische Warna\nTürkische Dialekt von Westthrakien\nVidin in NW Bulgaria\nWestern-Rumelian-Turkish in Macedonia\nYalıbolu (Yalıbolu tĭlĭ)",
+    "elcat": "\nBalkan Gagauz Turkish\nBalkan Turkic\nGagauz\nTürkische Sprache in Bulgarien"
+  },
+  "triggers": {
+    "lgcode": "\nprilog"
+  },
+  "identifier": {
+    "multitree": "bgx",
+    "endangeredlanguages": "3907"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Balkan Gagauz Turkish (3907-bgx) = Threatened (60 percent certain, based on the evidence available) (Probably no children) [Lewis et al. 2016](cldf:lewis:paul:etal:ed:16)"
+  }
+}

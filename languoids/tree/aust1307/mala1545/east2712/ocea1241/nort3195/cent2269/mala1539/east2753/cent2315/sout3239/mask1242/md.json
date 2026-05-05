@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Maskelynes",
+    "hid": "klv",
+    "level": "language",
+    "iso639-3": "klv",
+    "latitude": "-16.5073",
+    "longitude": "167.818",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Maskelynes](https://grambank.clld.org/languages/mask1242)\n[Uliveo (Lurtes) 162-107](https://lexibank.clld.org/languages/abvdoceanic-UliveoLurtes162107)\nhttps://en.wikipedia.org/wiki/Maskelynes_language\nhttps://www.wikidata.org/entity/Q3297282"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2403**\n**hh:g:Healey:Maskelynes**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Charpentier:Sud-Malakula**\n**hh:hvw:Tryon:NewHebrides**\n**hh:ld:Ray:Kuliviu**\n**sil16:43346**"
+  },
+  "altnames": {
+    "multitree": "\nKuliviu\nMallicolo\nMaskelyne Islands\nMaskelynes",
+    "lexvo": "\nMaskelynes [en]",
+    "hhbib_lgcode": "\nKuliviu\nUliveo"
+  },
+  "triggers": {
+    "lgcode": "\nkuliviu\nstudy AND positive"
+  },
+  "identifier": {
+    "multitree": "klv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maskelynes (klv-klv) = 6b (Threatened)."
+  }
+}

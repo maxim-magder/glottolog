@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Tohono O'odham",
+    "hid": "ood",
+    "level": "language",
+    "iso639-3": "ood",
+    "latitude": "31.7973",
+    "longitude": "-111.995",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[O'odham](https://endangeredlanguages.com/lang/1166)\n[O'odham](https://lexibank.clld.org/languages/utoaztecan-Papago)\n[O'odham](https://wals.info/languoid/lect/wals_code_ood)\n[Tohono O'odham](https://grambank.clld.org/languages/toho1245)\nhttps://en.wikipedia.org/wiki/O%CA%BCodham_language\nhttps://phoible.org/languages/toho1245\nhttps://www.wikidata.org/entity/Q2393095"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:casagrande:hale:67**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:langacker:76**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:mizukimiyashita:ortiz:03**\n**cldf:nichols:92**\n**cldf:np:nd:264**\n**cldf:payne:87:1**\n**cldf:zepeda:82**\n**haspelmath:fitzgerald_prosodic_2012**\n**hh:d:SactonSaxton:Papago**\n**hh:d:Saxton:Tohono**\n**hh:e:DiPeso:Sobaipuri**\n**hh:g:Hale:Papago**\n**hh:g:Saxton:Papago**\n**hh:g:Shaul:Sonora-Ootam**\n**hh:g:Zepeda:Papago**\n**hh:phon:Saxton:Papago**\n**hh:s:Johns:Oodham**\n**hh:s:Kurath:Papago**\n**hh:s:Mason:Papago**\n**hh:s:Shaul:Mountain-Pima**\n**hh:s:Wing:Tohono**\n**hh:s:Wisdom:Piman**\n**hh:typ:Flores:Papago**\n**hh:typ:Hale:Free-Word-Order**\n**hh:typ:Kosa:Tohono-Oodham**\n**hh:typ:Zepeda:Papago**\n**ldh:item_402453**\n**mpieva:Dolores1913Papagove**\n**mpieva:Dolores1923Papagono**\n**mpieva:Mathiot1973Adiction**\n**mpieva:Saxton1977Dictiona**\n**mpieva:Saxton1998Dictiona**\n**mpieva:Zepeda1997APapagog**\n**sil16:10855**\n**sil16:12243**\n**sil16:12244**\n**sil16:15002**\n**sil16:15003**\n**sil16:15222**\n**sil16:18367**\n**sil16:21753**\n**sil16:33331**\n**sil16:35673**\n**sil16:45699**\n**sil16:51087**"
+  },
+  "altnames": {
+    "wals": "\nNevome\nO'odham",
+    "wals other": "\nO'odham\nPapago\nPapago-Pima\nPima\nTohono O'odham",
+    "ruhlen (1987)": "\nPapago",
+    "moseley & asher (1994)": "\nPima",
+    "multitree": "\nNebome\nNebomi\nNevome\nNevomi\nNévome\nO'odham\nO'odham (Akimel)\nO'odham (Mexique)\nO'odham (Tohono)\nO'othham\nPapago (Tohono)\nPapago-Pima\nPima-Papago\nPima-Pápago\nPima-Pápago, Névome\nSobaipuri\nTepiman\nTohono O'odham\nUpper Piman",
+    "lexvo": "\nHanan Pima simi [qu]\nIdioma o'odham [es]\nJęzyk o'odham [pl]\nO'odham [fr]\nO'odham language [en]\nOdameg [br]\nTohono O'odham [en]\nОодхам [ru]",
+    "hhbib_lgcode": "\nPapago\nPima\nSobiapuri ancestors of Tohono O'odham\nTohono",
+    "elcat": "\nNebome\nNevome\nO'odham\nO'othham\nPapago\nPapago-Pima\nPima-Papago\nTohono O'odham\nUpper Piman"
+  },
+  "triggers": {
+    "lgcode": "\nnook\noodham\noob\npapago\nsobaipuri\noohana"
+  },
+  "identifier": {
+    "wals": "nev;ood",
+    "multitree": "ood",
+    "endangeredlanguages": "1166"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "O'odham (1166-ood) = Vulnerable (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

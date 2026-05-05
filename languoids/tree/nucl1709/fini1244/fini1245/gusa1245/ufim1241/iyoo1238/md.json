@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Iyo",
+    "hid": "nca",
+    "level": "language",
+    "iso639-3": "nca",
+    "latitude": "-5.84161",
+    "longitude": "146.092",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Iyo](https://grambank.clld.org/languages/iyoo1238)\nhttps://en.wikipedia.org/wiki/Iyo_language\nhttps://www.wikidata.org/entity/Q6101336"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:minter:nd**\n**hh:s:Minter:Iyo**\n**hh:s:Minter:Mahu**\n**silpng:silpng1991-2000:1540**\n**silpng:silpng1991-2000:1541**\n**silpng:silpng1991-2000:1542**\n**silpng:silpng1991-2000:1543**\n**silpng:silpng1991-2000:1544**\n**silpng:silpng1991-2000:1545**\n**silpng:silpng1991-2000:1546**\n**silpng:silpng1991-2000:1547**\n**silpng:silpng1991-2000:1548**"
+  },
+  "altnames": {
+    "multitree": "\nBure\nIyo\nNabu\nNaho\nNahu\nNdo",
+    "lexvo": "\nIyo [en]",
+    "hhbib_lgcode": "\nNahu"
+  },
+  "triggers": {
+    "lgcode": "\nyerewero\niyo\nnahu\nsowo"
+  },
+  "identifier": {
+    "multitree": "nca"
+  },
+  "classification": {
+    "sub": "**hh:g:McElhanon:Selepet-Finisterre-Huon**:45",
+    "subrefs": "\n**hh:g:McElhanon:Selepet-Finisterre-Huon**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Iyo (nca-nca) = 5 (Developing)."
+  }
+}

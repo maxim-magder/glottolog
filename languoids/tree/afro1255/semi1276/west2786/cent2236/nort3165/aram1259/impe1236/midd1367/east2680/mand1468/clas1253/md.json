@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Classical Mandaic",
+    "hid": "myz",
+    "level": "language",
+    "iso639-3": "myz",
+    "latitude": "36.1203",
+    "longitude": "49.5659",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q25559314",
+    "timespan": "0272-01-01/0850-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Macuch:Mandaic**\n**hh:g:Noldeke:Mandaische**\n**hh:typ:Malone:Classical-Mandaic-Verb**\n**mpieva:Noldek2007Mandaisc**"
+  },
+  "altnames": {
+    "multitree": "\nClassical Mandaean\nMandaic\nMandaic, Classical",
+    "lexvo": "\nClassical Mandaic [en]",
+    "hhbib_lgcode": "\nMandaic-Classical"
+  },
+  "triggers": {
+    "lgcode": "\nmandaische"
+  },
+  "identifier": {
+    "multitree": "myz"
+  },
+  "classification": {
+    "sub": "**hh:hv:HuehnergardRubin:Semitic**",
+    "subrefs": "\n**hh:hv:HuehnergardRubin:Semitic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mandaic, Classical (myz-myz) = 9 (Second language only)."
+  }
+}

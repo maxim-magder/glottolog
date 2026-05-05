@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Are",
+    "hid": "mwc",
+    "level": "language",
+    "iso639-3": "mwc",
+    "latitude": "-9.67147",
+    "longitude": "149.999",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Are](https://grambank.clld.org/languages/aree1239)\nhttps://en.wikipedia.org/wiki/Are_language\nhttps://www.wikidata.org/entity/Q29277"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Lean:Milne-Bay**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Ray:Melanesian**\n**hh:hvwtyp:Capell:Mixed**\n**hh:s:Paisawaetal:Mukawa**\n**hh:sd:Giblin:Mukawa**\n**hh:w:Strong:North-Eastern-Divisions**"
+  },
+  "altnames": {
+    "multitree": "\nAre\nMukawa",
+    "lexvo": "\nAre [en]\nDoga language [en]",
+    "hhbib_lgcode": "\nAre-Mukawa\nMukawa\nMukawa (Kapikapi)"
+  },
+  "triggers": {
+    "lgcode": "\nmukawa"
+  },
+  "identifier": {
+    "multitree": "aree;mwc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:190-212 **hh:hvld:Lithgow:Milne**:460",
+    "subrefs": "\n**hh:hvld:Lithgow:Milne**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Are (mwc-mwc) = 5* (Developing)."
+  }
+}

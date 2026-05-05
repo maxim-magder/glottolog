@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kela (Papua New Guinea)",
+    "hid": "kcl",
+    "level": "language",
+    "iso639-3": "kcl",
+    "latitude": "-7.47103",
+    "longitude": "147.173",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6349982\nhttps://en.wikipedia.org/wiki/Kala_language\nhttps://phoible.org/languages/kela1255\n[Kela (Apoze)](https://wals.info/languoid/lect/wals_code_kap)"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Smith:Morobe**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:ld:Schreyer:Kala**\n**hh:phon:CollierCollier:Kela**\n**hh:phon:Ransdell-Green:Kala**\n**hh:w:Devolder:Kala**\n**iso6393:2011-144**\n**mpieva:Loving1975Phonolog**\n**sil16:23216**"
+  },
+  "altnames": {
+    "wals": "\nKela (Apoze)",
+    "wals other": "\nApoze",
+    "ruhlen (1987)": "\nKela",
+    "moseley & asher (1994)": "\nKela",
+    "multitree": "\nGela\nKela\nKelana\nLaukanu",
+    "lexvo": "\nKela (Papua New Guinea) [en]\nKela [en]\nKela language [en]",
+    "hhbib_lgcode": "\nKala\nKela"
+  },
+  "triggers": {
+    "lgcode": "\napoze"
+  },
+  "identifier": {
+    "wals": "kap",
+    "multitree": "kcl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:132-159",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kala (kcl-kcl) = 6b (Threatened)."
+  }
+}

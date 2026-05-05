@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Atacame",
+    "hid": "NOCODE_Atacame",
+    "level": "language",
+    "latitude": "0.834931",
+    "longitude": "-79.778137",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "EC"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3058083\nhttps://en.wikipedia.org/wiki/Esmeralda_language\n[Esmeraldeño](https://wals.info/languoid/lect/wals_code_esm)",
+    "timespan": "1877-01-01/1877-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:04**\n**hh:e:Franch:Esmeraldas**\n**hh:e:IglesiasGutierrez:Atacames**\n**hh:e:Larrea:Esmeraldas**\n**hh:ew:Wolf:Ecuador**\n**hh:h:Jijon:Ecuador**\n**hh:h:Rendon:Ecuatoriano**\n**hh:hld:Jijon:Ecuador**\n**hh:hv:Adelaar:Andes**\n**hh:hvld:JijonyCaamano:Ecuador**\n**hh:hvld:Urban:Costa-Pacifica**\n**hh:hw:Lehmann:Zentral-Amerika:I**\n**hh:vld:Gomez:Esmeraldeno**\n**hh:w:Seler:Esmeraldas**"
+  },
+  "triggers": {
+    "lgcode": "\nesmeraldas\natacameno"
+  },
+  "identifier": {
+    "wals": "esm",
+    "multitree": "0ip"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Adelaar:Andes**\n**hh:hvld:Urban:Costa-Pacifica**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Atacame or Esmeraldeño, an extinct language of unknown affiliation spoken, when attested, by black people in Ecuador, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:hw:Lehmann:Zentral-Amerika:I**, **hh:hld:Jijon:Ecuador**, **hh:ew:Wolf:Ecuador**, **hh:e:Franch:Esmeraldas**, **hh:w:Seler:Esmeraldas**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Atacame"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Atacame (NOCODE_Atacame-NOCODE_Atacame) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nEsmeraldas\nEsmeraldeno\nEsmeraldeño\nEsmeraldeños"
+  }
+}

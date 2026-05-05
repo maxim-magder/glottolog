@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Asas",
+    "hid": "asd",
+    "level": "dialect",
+    "iso639-3": "asd",
+    "latitude": "-5.69345",
+    "longitude": "145.549",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Asas](https://lexibank.clld.org/languages/transnewguineaorg-asas)\n[asas](https://lexibank.clld.org/languages/zgraggenmadang-asas)\nhttps://en.wikipedia.org/wiki/Asas_language\nhttps://www.wikidata.org/entity/Q4803639"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2018-012**"
+  },
+  "altnames": {
+    "multitree": "\nAsas\nKow",
+    "lexvo": "\nAsas [en]",
+    "hhbib_lgcode": "\nKou (Asas)\nKou (Koroba)\nKow"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "asd"
+  },
+  "classification": {
+    "sub": "**hh:hb:Zgraggen:Madang**:13",
+    "subrefs": "\n**hh:hb:Zgraggen:Madang**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E21",
+    "date": "2018-03-22T14:53:44",
+    "comment": "Asas (asd-asd) = 6a (Vigorous)."
+  },
+  "iso_retirement": {
+    "code": "asd",
+    "name": "Asas",
+    "effective": "2019-01-25",
+    "reason": "merge",
+    "change_to": "\nsnz",
+    "remedy": "Merged into [snz] Kou",
+    "change_request": "2018-012"
+  }
+}

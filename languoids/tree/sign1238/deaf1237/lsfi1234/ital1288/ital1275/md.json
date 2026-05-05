@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Italian Sign Language",
+    "hid": "ise",
+    "level": "language",
+    "iso639-3": "ise",
+    "latitude": "42.72915",
+    "longitude": "12.42949",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q375619\nhttps://en.wikipedia.org/wiki/Italian_Sign_Language\n[Lingua Italiana dei Segni](https://wals.info/languoid/lect/wals_code_lii)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:celo:96**\n**hh:d:Radutzky:Lingua-Segni-Italiana**\n**hh:g:BranchiniMantovan:Italian-Sign**\n**hh:h:Corazza:Italian-Deaf-History**\n**hh:hld:Wilkinson:Signed**\n**hh:s:Geraci:Italians-Sign**\n**hh:s:Volterra:Italiana-Segni**\n**hh:typ:Checchetto:Tactile-Italian-Sign**\n**hh:typ:Fornasiero:Italian-Sign**\n**hh:typ:Mantovani:Italian-Sign**\n**hh:typ:Slonimska:Italian-Sign**\n**hh:typ:Volterra:Italian-Sign**"
+  },
+  "altnames": {
+    "wals": "\nLingua Italiana dei Segni",
+    "multitree": "\nItalian Sign Language\nLingua Italiana Dei Segni\nLis",
+    "lexvo": "\nItalian Sign Language [en]",
+    "hhbib_lgcode": "\nItalian Sign Language (LIS)\nTactile Italian Sign Language (LISt)"
+  },
+  "triggers": {
+    "lgcode": "\nvisivo\nsegni\nsordi\ncomunicazione\ngestuale"
+  },
+  "identifier": {
+    "wals": "lii",
+    "multitree": "ise"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Italian Sign Language (ise-ise) = 5 (Developing). Recognized language (2021, Sostegni Decree, Article 34)."
+  },
+  "classification": {
+    "sub": "Swiss-Italian Sign Language [swis1235] is similar to Italian Sign Language [ital1275] (**hh:h:BoyesRathmann:Sign-Northern-Europe**):22 and is in turn said to derive from French Sign Language (**hh:h:Quer:Sign-Mediterranean**:98, **hh:h:Corazza:Italian-Deaf-History**). Tunisian Sign Language [tuni1249] may be part of this family (**hh:h:Kamei:Afurika-Shuwa**):47 but historical or lexical evidence to this effect is lacking in print. **hh:v:Nefaa:Tunisian-Sign(**) contains a lexical comparison to LSF (but not to any other language) but the outcome in the low 30%:s range is inconclusive of a genealogical relationship to LSF, and if so, any closer relationship to, for example, Italian Sign.",
+    "subrefs": "\n**hh:v:Nefaa:Tunisian-Sign**\n**hh:h:Quer:Sign-Mediterranean**\n**hh:h:Corazza:Italian-Deaf-History**\n**hh:h:Kamei:Afurika-Shuwa**\n**hh:h:BoyesRathmann:Sign-Northern-Europe**"
+  }
+}

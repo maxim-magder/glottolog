@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Tumleo",
+    "hid": "tmq",
+    "level": "language",
+    "iso639-3": "tmq",
+    "latitude": "-3.14955",
+    "longitude": "142.346",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Tumleo](https://endangeredlanguages.com/lang/10521)\n[Tumleo](https://grambank.clld.org/languages/tuml1238)\n[Tumleo](https://wals.info/languoid/lect/wals_code_tum)\nhttps://en.wikipedia.org/wiki/Tumleo_language\nhttps://www.wikidata.org/entity/Q7852641"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Erdweg:Tumleo**\n**hh:e:Schmidt:Berlinhafen**\n**hh:ew:Parkinson:Berlinhafen**\n**hh:hld:Lean:Sandaun**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Laycock:AustronesianSepik**\n**hh:hvw:Ray:NPapua**\n**hh:hw:KlafflVormann:Berlinhafen**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:st:Schultze:Tumleo**\n**hh:w:Erdweg:Varopu**"
+  },
+  "altnames": {
+    "wals": "\nTumleo",
+    "ruhlen (1987)": "\nTumleo",
+    "moseley & asher (1994)": "\nTumleo",
+    "multitree": "\nTumleo",
+    "lexvo": "\nTumleo [en]",
+    "elcat": "\nTumleo",
+    "hhbib_lgcode": "\nTamara"
+  },
+  "triggers": {
+    "lgcode": "\nberlinhafen\ntumleo"
+  },
+  "identifier": {
+    "wals": "tum",
+    "multitree": "tmq",
+    "endangeredlanguages": "10521"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:120-132",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tumleo (10521-tmq) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

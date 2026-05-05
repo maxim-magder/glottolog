@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Sinicized Miao",
+    "hid": "hmz",
+    "level": "language",
+    "iso639-3": "hmz",
+    "latitude": "23.22649",
+    "longitude": "105.08171",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q16306754"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Shuad:Shua**\n**hh:dial:FlamingCastro:Hmong-Yunnan**\n**hh:e:Woo:Pa-Miao**\n**hh:hvb:Niederer:Hmong-Mjen**\n**hh:phon:Li:Mong-Sa**\n**hh:vb:Castroetal:Western-Miao**\n**iso6393:2007-132**\n**iso6393:2009-090**\n**sil16:46655**"
+  },
+  "altnames": {
+    "multitree": "\nHmo\nHmong\nHmong Shua\nHmung\nHsiung\nHunan Miao\nMiao",
+    "lexvo": "\nHmong Shua [en]\nSinicized Miao [en]",
+    "hhbib_lgcode": "\nHan Miao (Sinicized Miao)\nHmong Sat\nHmong Shua\nHmong Shuat\nHmong Sua\nHua Miao in Anshun\nPa Miao\nPian Miao (Lopsided Miao) / Han Miao\nShuat"
+  },
+  "triggers": {
+    "lgcode": "\nsa53\njituanyu"
+  },
+  "identifier": {
+    "multitree": "hmz"
+  },
+  "classification": {
+    "sub": "**hh:styp:McLaughlin:Hmong-Soud**:6-10 **hh:vb:Castroetal:Western-Miao**",
+    "subrefs": "\n**hh:vb:Castroetal:Western-Miao**\n**hh:styp:McLaughlin:Hmong-Soud**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sinicized Miao (hmz-hmz) = 6a* (Vigorous). Language of recognized nationality: Miao."
+  }
+}

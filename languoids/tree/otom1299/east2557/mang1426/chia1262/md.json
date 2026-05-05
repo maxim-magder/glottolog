@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Chiapanec",
+    "hid": "cip",
+    "level": "language",
+    "iso639-3": "cip",
+    "latitude": "16.6562",
+    "longitude": "-91.9417",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Chiapanec](https://endangeredlanguages.com/lang/4169)\nhttps://www.wikidata.org/entity/Q3364475\nhttps://en.wikipedia.org/wiki/Chiapanec_language",
+    "timespan": "1950-01-01/1950-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:277**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:97:1**\n**cldf:np:nd:264**\n**fabreall2009ann:Otomangue_chiapaneco01**\n**fabreall2009ann:Otomangue_chiapaneco02**\n**fabreall2009ann:Otomangue_chiapaneco03**\n**fabreall2009ann:Otomangue_chiapaneco04**\n**fabreall2009ann:Otomangue_chiapaneco06**\n**fabreall2009ann:Otomangue_chiapaneco09**\n**fabreall2009ann:Otomangue_chiapaneco10**\n**fabreall2009ann:Otomangue_chiapaneco11**\n**fabreall2009ann:Otomangue_chiapaneco12**\n**fabreall2009ann:Otomangue_chiapaneco13**\n**hh:d:Penagos:Chiapaneca**\n**hh:e:Foster:Mixe**\n**hh:ew:Becerra:Chiapanecas**\n**hh:gd:Penagos:Chiapaneca**\n**hh:htyp:Muller:Nachtrage**\n**hh:hv:Hamp:Chiapanec-Mangue**\n**hh:hvwb:Campbell:SEChiapas**\n**hh:s:Adam:Chiapaneque**"
+  },
+  "altnames": {
+    "multitree": "\nChaipanec\nChiapanec\nChiapaneco\nChiapaneko",
+    "lexvo": "\nChiapanec [en]",
+    "hhbib_lgcode": "\nChiapaneken",
+    "elcat": "\nChiapanec\nChiapaneco\nChiapaneko"
+  },
+  "triggers": {
+    "lgcode": "\nchiapanecas\nsecuencia\nchiapanec\nchotal\nchiapaneca\nretablis\nchiapaneque\nzoques\nrefinement"
+  },
+  "identifier": {
+    "multitree": "cip",
+    "endangeredlanguages": "4169"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kaufman:Oto-Mangean:2025**:260-263",
+    "subrefs": "\n**hh:hv:Kaufman:Oto-Mangean:2025**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chiapanec (4169-cip) = Dormant [n.a. 1997](cldf:np:97:1)"
+  }
+}

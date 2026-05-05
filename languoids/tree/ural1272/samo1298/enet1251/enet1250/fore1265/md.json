@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Forest Enets",
+    "hid": "enf",
+    "level": "language",
+    "iso639-3": "enf",
+    "latitude": "68.6",
+    "longitude": "86.5",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Forest Enets](https://endangeredlanguages.com/lang/4130)\n[Forest Enets](https://grambank.clld.org/languages/fore1265)\n[Forest Enets](https://lexibank.clld.org/languages/northeuralex-enf)\nhttps://phoible.org/languages/fore1265\nhttps://www.wikidata.org/entity/Q30249597"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:cheremisina:ed:86:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:salminen:00**\n**cldf:tereshchenko:66:1**\n**cldf:tereshchenko:66:3**\n**hh:d:KatzschmannPusztay:Enzisches**\n**hh:d:Sorokina:Enetsko**\n**hh:g:Siegl:Forest-Enets**\n**hh:g:Siegl:Forest-Enets:2011**\n**hh:h:KhaninaKoryakov:Enets**\n**hh:hv:Koryakov:Samodijskie**\n**hh:hvtyp:Janhunen:Samoyedic**\n**hh:s:Khanina:Forest-Tundra-Enets**\n**hh:s:Kunnap:Enets**\n**hh:s:Siegl:Enets**\n**hh:s:Terescenko:Enetskij**\n**hh:typ:KhaninaShluinsky:Benefactive-Enets**\n**mpieva:Labanauskas2002KernaBaz**\n**mpieva:Mikola1995Morpholo**\n**mpieva:Sorokina2001Slovaren**\n**mpieva:Sorokina2005Eneckiet**\n**mpieva:Sorokina2009Eneckijs**"
+  },
+  "altnames": {
+    "multitree": "\nBaicha-Dialekt\nBay Enets\nEnec\nEnets\nEnets des forêts\nEnets, Forest\nEnzisch\nEńeć\nJenisei\nJenisej-Samojedisch\nJenissei-Dialekt\nPe-Bae\nSamojedi\nSamojedimanzela\nYenets\nYenisei Samoyed\nYenisei Samoyedic\nYenisei Somoyed\nYenisey\nYenisey Samoyedic\nYenisey-Samoyedic\nYensisei-Samoyed\nenete\nenetj\nenets\niénisséi\nÉncico de los bosques\nèncy",
+    "lexvo": "\nForest Enets [en]",
+    "hhbib_lgcode": "\nBaj\nBaj Enets\nEnets-Forest\nJenissei\nWald Enzisch",
+    "elcat": "\nBai Enets\nBaicha-Dialekt\nEnec\nEnets\nEnzisch\nEńeć\nForest Enets\nJenisei\nJenisej-Samojedisch\nJenissei-Dialekt\nPe-Bae\nSamojedi\nSamojedimanzela\nYenets\nYenisei Samoyed\nYenisei Samoyedic\nYenisei Somoyed\nYenisey\nYenisey Samoyedic\nYenisey-Samoyedic\nYensisei-Samoyed\nenete\nenetj\nenets\nenetsin kieli\nenyec nyelv\niénisséi\nona' bazaan\nèncy\nлесной энецкий\nонаь базаан\nпэ-бай"
+  },
+  "triggers": {
+    "lgcode": "\nenets\neneckij"
+  },
+  "identifier": {
+    "multitree": "enf",
+    "endangeredlanguages": "4130"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Janhunen:Samoyedic**",
+    "subrefs": "\n**hh:hvtyp:Janhunen:Samoyedic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Forest Enets (4130-enf) = Severely Endangered (20 percent certain, based on the evidence available) [Siegl 2011](cldf:siegl:11)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Changthang",
+    "hid": "cna",
+    "level": "language",
+    "iso639-3": "cna",
+    "latitude": "34.0662",
+    "longitude": "78.2389",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12952322\nhttps://en.wikipedia.org/wiki/Changthang_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Namgail:Changpa**\n**hh:hvld:Zeisler:Kenhat**\n**hh:hvtyp:Zeisler:Tibetan**\n**hh:typ:Zeisler:Changthang**\n**hh:vld:Zeisler:West-Tibetan**"
+  },
+  "altnames": {
+    "multitree": "\nByangskat\nByanskat\nChangs-Skat\nChangtang\nChangtang Ladakhi\nChangthang\nLadak\nLadakhi\nRong\nRupshu\nStotpa\nUpper Ladakhi",
+    "lexvo": "\nChangthang [en]",
+    "hhbib_lgcode": "\nCemre\nGya\nGya-Mīru\nGya-Sasoma\nKharu\nLalok\nNyoma\nShachukul\nTrangtse in Changthang\nUpper Indus"
+  },
+  "triggers": {
+    "lgcode": "\nsikim"
+  },
+  "identifier": {
+    "multitree": "cna"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Zeisler:Kenhat** **hh:vld:Zeisler:West-Tibetan**",
+    "subrefs": "\n**hh:hvld:Zeisler:Kenhat**\n**hh:vld:Zeisler:West-Tibetan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Ladakhi (1179-cna, lbj, tkk) = Vulnerable"
+  }
+}

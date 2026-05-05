@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Demta",
+    "hid": "dmy",
+    "level": "language",
+    "iso639-3": "dmy",
+    "latitude": "-2.38475",
+    "longitude": "140.166",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q14466283\nhttps://en.wikipedia.org/wiki/Demta_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Cowan:Austronesisch-Papoease**\n**hh:hv:Cowan:Papuan**\n**hh:hvw:Cowan:Ambtelijk**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:typ:Wafom:Demta**\n**hh:wsoc:Kim:Sowari**\n**iso6393:2007-213**"
+  },
+  "altnames": {
+    "multitree": "\nDemta\nMuris",
+    "lexvo": "\nDemta [en]\nSowari [en]",
+    "hhbib_lgcode": "\nDemta (Ac)\nMuris\nSowari"
+  },
+  "triggers": {
+    "lgcode": "\nsowari"
+  },
+  "identifier": {
+    "multitree": "dmy"
+  },
+  "classification": {
+    "sub": "**hh:hv:HartzlerGregerson:Proto-Tabla-Sentani**",
+    "subrefs": "\n**hh:hv:HartzlerGregerson:Proto-Tabla-Sentani**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sowari (dmy-dmy) = 8a (Moribund)."
+  }
+}

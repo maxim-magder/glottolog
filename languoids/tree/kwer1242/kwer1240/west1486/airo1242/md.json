@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Airoran",
+    "hid": "air",
+    "level": "language",
+    "iso639-3": "air",
+    "latitude": "-1.8522",
+    "longitude": "138.158",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3321131\nhttps://en.wikipedia.org/wiki/Airoran_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Koentjaraningrat:Sarmi**\n**hh:h:Sugono:Indonesia**\n**hh:hld:ClouseDonohueMa:NCoast**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**\n**hh:w:DeVries:Adora**\n**hh:w:Erickson:Airoran**\n**hh:w:Hurd:Airoran**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Stokhof:Holle:5:2**"
+  },
+  "altnames": {
+    "multitree": "\nAdora\nAeroran\nAiroran\nIriemkena",
+    "lexvo": "\nAiroran [en]\nAiroran language [en]\nJęzyk airoran [pl]\nLenga Airoran [pms]\nLingua airoran [gl]",
+    "hhbib_lgcode": "\nAdora\nApauwar\nApauwar (on the lower end)"
+  },
+  "triggers": {
+    "lgcode": "\nnorth AND jaya"
+  },
+  "identifier": {
+    "multitree": "air"
+  },
+  "classification": {
+    "sub": "**hh:hld:ClouseDonohueMa:NCoast**",
+    "subrefs": "\n**hh:hld:ClouseDonohueMa:NCoast**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Airoran (air-air) = 7 (Shifting)."
+  }
+}

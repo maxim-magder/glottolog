@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Jirajaran",
+    "hid": "NOCODE_Jirajaran",
+    "level": "language",
+    "latitude": "10.57",
+    "longitude": "-69.7",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "VE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Jirajaran_languages\nhttps://www.wikidata.org/entity/Q3028651",
+    "timespan": "1886-01-01/1916-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Hernandez:NWVenezuela**\n**hh:h:Federmann:Venezuela**\n**hh:hv:Adelaar:Andes**\n**hh:hvtyp:Constenla:Intermedia**\n**hh:hw:Jahn:Venezuela**\n**hh:w:Oramas:Jirajara**\n**hh:w:Querales:Ayaman**"
+  },
+  "altnames": {
+    "multitree": "\nHirahara\nHiraharan\nJiraharan\nJirajara\nJirajaran\nJiraran Family",
+    "hhbib_lgcode": "\nAyamán\nAyomán\nJirajara\nJirajira de Siquisique (Estado Lara)\nXideharas"
+  },
+  "triggers": {
+    "lgcode": "\njirajara\nayaman\najagua\ngayon"
+  },
+  "identifier": {
+    "wals": "genus/jirajaran",
+    "multitree": "jiri;qfg"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Adelaar:Andes**"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of extinct lects subsumed under the name Jirajaran constitute an isolated language which is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:hw:Jahn:Venezuela**, **hh:w:Oramas:Jirajara**, **hh:w:Querales:Ayaman**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Jirajaran"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Jirajaran (NOCODE_Jirajaran-NOCODE_Jirajaran) = 10 (Extinct)."
+  }
+}

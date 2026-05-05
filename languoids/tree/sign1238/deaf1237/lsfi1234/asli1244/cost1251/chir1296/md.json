@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Chiriqui Sign Languages",
+    "level": "language",
+    "hid": "NOCODE_Chiriqui-Sign",
+    "countries": [
+      "PA"
+    ],
+    "macroareas": [
+      "North America"
+    ],
+    "longitude": "-82.409271",
+    "latitude": "8.398055",
+    "links": "\n[Chiriqui Sign Language](https://endangeredlanguages.com/lang/10733)\nhttps://en.wikipedia.org/wiki/Chiriqui_Sign_Language\nhttps://www.wikidata.org/entity/Q13411396"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Chiriqui Sign Language (10733) = Threatened (60 percent certain, based on the evidence available) (Although there are now some sign language classes offered through deaf associations, religious organizations, and some universities, deaf people indicate that these classes are primarily for hearing people and that most of the deaf community acquires sign language from their deaf friends.) [Parks et al. 2011](cldf:parks:williams:etal:11)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nLengua de Señas de Chiriquí (LSCH) en la provincia de Chiriquí",
+    "elcat": "\nChiriqui Sign Language\nLSCH\nLengua de Señas de Chiriqui"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:parks:williams:etal:11**\n**hh:soc:Parks:Chiriqui-Panamanian**\n**hh:soc:Parks:Sordos-Panama**"
+  },
+  "identifier": {
+    "endangeredlanguages": "10733"
+  },
+  "classification": {
+    "sub": "The lexical comparison of **hh:v:Parks:Sign-Language-Comparisons(**):82 shows that Honduras Sign Language [hond1239] and Panamanian Sign Language [pana1308] are each other's closest relatives and that they in turn show a slight commonality with ASL (there is also continuous ASL influence, see **hh:soc:Williams:Honduran-Deaf**:14-15). That Chiriqui Sign Language [chir1296] is also a member of this family is implied by **hh:soc:Parks:Chiriqui-Panamanian(**):314.",
+    "subrefs": "\n**hh:soc:Parks:Chiriqui-Panamanian**\n**hh:v:Parks:Sign-Language-Comparisons**\n**hh:soc:Williams:Honduran-Deaf**"
+  }
+}

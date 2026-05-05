@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Old Norse",
+    "hid": "non",
+    "level": "language",
+    "iso639-3": "non",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NO"
+    ],
+    "longitude": "10.38",
+    "latitude": "63.42",
+    "links": "\nhttps://en.wikipedia.org/wiki/Old_Norse\nhttps://www.wikidata.org/entity/Q35505",
+    "timespan": "0800-01-01/1150-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arbman:61**\n**cldf:brondsted:60**\n**cldf:coon:48**\n**cldf:duchaillu:89**\n**cldf:ellis:42**\n**cldf:hamilton:51**\n**cldf:mallet:59**\n**cldf:sawyer:62**\n**cldf:thorhallsdottir:12**\n**cldf:unknown:29**\n**cldf:wax:m:55**\n**hh:d:FaulkesBarnes:Old-Norse**\n**hh:d:Heggstad:Borron**\n**hh:d:Jakobsen:Norn**\n**hh:d:Jakobsen:Norrone**\n**hh:d:Marwick:Norn**\n**hh:g:Barnes:Old-Norse**\n**hh:g:Faarlund:Old-Norse**\n**hh:g:Haugen:Norront**\n**hh:g:Haugen:Norront:1995**\n**hh:g:Heusler:Altislandisches**\n**hh:g:Heusler:Altislandisches:1921**\n**hh:g:Noreen:Altnordische**\n**hh:g:Noreen:Altnordische:1923**\n**hh:g:deLeeuw:Modruvallabok**\n**hh:hvld:Robinson:Old-English**\n**hh:ldsoc:Barnes:Norn**\n**hh:ldsoc:Jakobsen:Norrone**\n**hh:ldsoc:Korobzow:Norn**\n**hh:phon:Raschella:Icelandic**\n**hh:s:Haugen:Norron**\n**hh:s:Haugen:Norrone**\n**hh:s:Iversen:Norron**\n**hh:s:Wessen:Islandsk**\n**hh:soc:Barnes:Norn:1989**\n**hh:soc:Stewart:Norn**\n**hh:st:Gordon:Old-Norse**\n**hh:st:Tarsi:Fornislandska**\n**hh:std:RankeHofmann:Altnordisches**\n**hh:t:Barnes:Old-Norse**\n**hh:typ:Haugan:Old-Norse**\n**hh:v:Schulze-Thulin:Old-Norse**\n**hh:vldsoc:Barnes:Norn**\n**mpieva:Blaisdell1959Preposit**"
+  },
+  "altnames": {
+    "multitree": "\nAltnordisch\nOld Norse\naltnordische",
+    "lexvo": "\nAltnordische Sprache [de]\nAntigo nórdico [gl]\nEski Nors dili [tr]\nFornnordiska [sv]\nFornnorræna [is]\nJęzyk staronordyjski [pl]\nLimba nordică veche [ro]\nLingua Nordica antiqua [la]\nLingua norrena [it]\nLíngua nórdica antiga [pt]\nMuinaisnorja [fi]\nNorena lingvo [eo]\nNoroèc [oc]\nNorrønt [da]\nNorrønt språk [nn]\nNorse, Old [en]\nNorseg [br]\nNòrdic antic [ca]\nNórdico antiguo [es]\nOidnordische Sproch [bar]\nOld Norse [en]\nOld Norse language [en]\nOudnoords [nl]\nOudnoors [af]\nSean-Lochlannais [gd]\nSennorvēģu valoda [lv]\nSenovės skandinavų kalba [lt]\nStaroseverčina [sk]\nStará severština [cs]\nVanapõhja keel [et]\nVieux norrois [fr]\nnorrois, vieux [fr]\nÓészaki nyelv [hu]\nΑρχαία σκανδιναβική γλώσσα [el]\nДавньоісландська мова [uk]\nДревнеисландский язык [ru]\nНордически език [bg]\nנורדית עתיקה [he]\nقدیمˇ اسکاندیناوی زوان [glk]\nلغة إسكندنافية قديمة [ar]\nภาษานอร์สโบราณ [th]\n古ノルド語 [ja]\n古諾爾斯語 [zh]\n고대 노르드어 [ko]",
+    "hhbib_lgcode": "\nFornisländska\nLate thirteeth-century Icelandic\nNorrøn\nOld Norn (8th-16th cent) was a West Scandinavian language closely related to Faroese-Icelandic-Norwegian\nOld Norse in Ireland\nOrkney and Shetland Norn\nintelligible Old Norse\nintelligible Old Norse and Jakobsen is not describing Norn as such but the etymologically Norse vocabulary of the 19th century local dialect of Scots English\nintelligible to Old Norse"
+  },
+  "triggers": {
+    "lgcode": "\nshetland\nnorn\nold AND preposition"
+  },
+  "identifier": {
+    "multitree": "non"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 entries. One of them is Old Norse (**hh:g:Faarlund:Old-Norse**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "non"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:110",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Norse (non-non) = 10 (Extinct)."
+  }
+}

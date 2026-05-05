@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sawknah-Fogaha",
+    "hid": "swn",
+    "level": "language",
+    "iso639-3": "swn",
+    "latitude": "29.16",
+    "longitude": "15.9742",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LY"
+    ],
+    "links": "\n[Sawknah](https://endangeredlanguages.com/lang/294)\nhttps://en.wikipedia.org/wiki/Sokna_language\nhttps://www.wikidata.org/entity/Q2988323",
+    "timespan": "1955-01-01/1955-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:brenzinger:07:1**\n**cldf:ed:10**\n**cldf:souag:12**\n**eballiso2009:26920**\n**hh:hw:Stanley:Dark:II**\n**hh:w:Paradisi:El-Fogaha**\n**hh:w:Paradisi:El-Fogaha:II**\n**hh:w:Prasse:Foqaha**\n**hh:w:Prasse:Sokni**\n**hh:w:Sarnelli:Sokna**"
+  },
+  "altnames": {
+    "multitree": "\nSawkna\nSawknah\nSokna",
+    "lexvo": "\nSawknah [an]\nSawknah jezik [hr]\nSawknah language [en]\nСокна [ru]",
+    "hhbib_lgcode": "\nSawknah\nSokna",
+    "elcat": "\nSawkna\nSawknah\nSokna"
+  },
+  "triggers": {
+    "lgcode": "\ntrascrizione\ncaratteri\nfoqaha\nfogaha\nsokna\nfaha\nsokni\nberberofona"
+  },
+  "identifier": {
+    "multitree": "swn",
+    "endangeredlanguages": "294"
+  },
+  "classification": {
+    "sub": "**hh:gv:Souag:Siwa**:17-26 **hh:hv:Kossmann:Berber:2020**:284",
+    "subrefs": "\n**hh:gv:Souag:Siwa**\n**hh:hv:Kossmann:Berber:2020**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sawknah (294-swn) = Dormant [Souag 2012](cldf:souag:12)"
+  }
+}

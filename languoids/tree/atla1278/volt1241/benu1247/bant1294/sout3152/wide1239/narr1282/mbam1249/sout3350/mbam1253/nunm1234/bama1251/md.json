@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Bamali",
+    "hid": "bbq",
+    "level": "language",
+    "iso639-3": "bbq",
+    "latitude": "5.91327",
+    "longitude": "10.4567",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34901\nhttps://en.wikipedia.org/wiki/Bamali_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Grant:Bamali**\n**hh:hv:BlenchHamm:Nun**\n**hh:typ:Robinson:Chopechop-Tone**\n**hh:typ:Robinson:Chopechop-Verb**\n**hh:typ:Wanki:Coppecope**\n**sil16:45523**"
+  },
+  "altnames": {
+    "wals": "\nSisiqa",
+    "ruhlen (1987)": "\nChoiseul, Central-Eastern",
+    "moseley & asher (1994)": "\nBabatana",
+    "multitree": "\nBamali\nChopechop\nNgoobechop",
+    "lexvo": "\nBamali [en]",
+    "hhbib_lgcode": "\nChopechop\nCɔppəcɔpə"
+  },
+  "triggers": {
+    "lgcode": "\nbamali\nsisiqa"
+  },
+  "identifier": {
+    "multitree": "bbq"
+  },
+  "classification": {
+    "sub": "**hh:hv:BlenchHamm:Nun**",
+    "subrefs": "\n**hh:hv:BlenchHamm:Nun**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chopechop (bbq-bbq) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Maranunggu",
+    "hid": "zmr",
+    "level": "language",
+    "iso639-3": "zmr",
+    "latitude": "-13.6754",
+    "longitude": "130.12",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Emmi](https://endangeredlanguages.com/lang/1905)\n[Maranunggu](https://collection.aiatsis.gov.au/austlang/language/n13)\n[Maranunggu](https://grambank.clld.org/languages/mara1386)\n[Maranunggu](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Maranunggu)\n[Maranungku](https://wals.info/languoid/lect/wals_code_mku)\nhttps://en.wikipedia.org/wiki/Marranj_language\nhttps://phoible.org/languages/mara1386\nhttps://www.wikidata.org/entity/Q6772792"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:fabricius:98**\n**hh:g:Tryon:Maranungku**\n**hh:hs:Tryon:Daly**\n**hh:htyp:Scheffler:Australian-Kin**\n**hh:hw:Tryon:Daly**\n**ozbib:1867**\n**ozbib:1868**\n**ozbib:2086**\n**ozbib:2524**\n**ozbib:3340**\n**ozbib:4656**\n**ozbib:5351**\n**ozbib:5763**\n**ozbib:5765**\n**ozbib:5771**\n**ozbib:800**\n**ozbib:801**"
+  },
+  "altnames": {
+    "wals": "\nMaranungku",
+    "wals other": "\nMaranunggu",
+    "ruhlen (1987)": "\nMaranunggu",
+    "moseley & asher (1994)": "\nMaranungku",
+    "multitree": "\nEmmi\nMaran-ungo\nMaranuka\nMaranunga\nMaranunggo\nMaranunggu\nMaranungku\nMarinunggo\nMarra Warrgat\nMarranj Warrgat\nMarranunga\nMarranungga\nMerranunggu\nMurununga\nWarrgat",
+    "lexvo": "\nMaranunggu [en]",
+    "elcat": "\nEmmi\nMaran-ungo\nMaranuka\nMaranunga\nMaranunggo\nMaranunggu\nMaranungku\nMarinunggo\nMarra Warrgat\nMarranj Warrgat\nMarranunga\nMarranungga\nMerranunggu\nMurununga\nWarrgat",
+    "aiatsis": "\nAmi\nAmijangal\nEmmi\nEmmiyangal\nManhthi Yangal\nMaramanunggu\nMaranjwarrgat\nMaranunga\nMaranunggo\nMaranunggu\nMaranungku\nMaranungo\nMaringa\nMaringar\nMarinunggo\nMarrangungu\nMarranunga\nMenhtha\nMerranunggu\nWestern Daly language."
+  },
+  "triggers": {
+    "lgcode": "\nemmi\nmaranungku"
+  },
+  "identifier": {
+    "wals": "mku",
+    "multitree": "zmr",
+    "endangeredlanguages": "1905"
+  },
+  "classification": {
+    "sub": "**hh:hs:Tryon:Daly**",
+    "subrefs": "\n**hh:hs:Tryon:Daly**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Emmi (1905) = Critically Endangered (100 percent certain, based on the evidence available) (Young people spoke the English-based pidgin lingua franca Kriol then [1983]. Now this is becoming general... The language is moribund.) [Moseley 2007](cldf:moseley:07)"
+  }
+}

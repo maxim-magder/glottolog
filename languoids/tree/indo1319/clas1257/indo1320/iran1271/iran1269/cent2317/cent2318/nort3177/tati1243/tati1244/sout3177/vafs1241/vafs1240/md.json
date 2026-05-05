@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Vafsi",
+    "hid": "vaf",
+    "level": "language",
+    "iso639-3": "vaf",
+    "latitude": "34.5309",
+    "longitude": "50.0013",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IR"
+    ],
+    "links": "\n[Vafsi](https://endangeredlanguages.com/lang/3402)\nhttps://www.wikidata.org/entity/Q32611\nhttps://en.wikipedia.org/wiki/Vafsi_dialect\n[Vafsi](https://wals.info/languoid/lect/wals_code_vaf)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:borjian:13:3**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:marzolph:stilo:05**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:stilo:04:1**\n**cldf:stilo:04:2**\n**cldf:stilo:05**\n**cldf:stilo:10**\n**hh:hw:Moqaddam:Vafso-Astiyano-Tafres**\n**hh:ld:Elwell-Sutton:Vafsi**\n**hh:s:Stilo:Vafsi**\n**hh:st:Elwell-Suttonetal:Vafsi**"
+  },
+  "altnames": {
+    "wals": "\nVafsi",
+    "moseley & asher (1994)": "\nVafsi",
+    "multitree": "\nVafsi\nVafsí",
+    "lexvo": "\nVafsi [en]",
+    "hhbib_lgcode": "\nVafs",
+    "elcat": "\nVafsi"
+  },
+  "triggers": {
+    "lgcode": "\ngurchani\nvafsi"
+  },
+  "identifier": {
+    "wals": "vaf",
+    "multitree": "vaf",
+    "endangeredlanguages": "3402"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Stilo:Tati**",
+    "subrefs": "\n**hh:hvld:Stilo:Tati**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Vafsi (3402-vaf) = Vulnerable (20 percent certain, based on the evidence available) [Stilo 2010](cldf:stilo:10)"
+  }
+}

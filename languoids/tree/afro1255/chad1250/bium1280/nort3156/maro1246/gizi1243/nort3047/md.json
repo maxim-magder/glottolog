@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "North Giziga",
+    "hid": "gis",
+    "level": "language",
+    "iso639-3": "gis",
+    "latitude": "10.6755",
+    "longitude": "14.219",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Giziga](https://wals.info/languoid/lect/wals_code_giz)\n[North Giziga](https://grambank.clld.org/languages/nort3047)\nhttps://en.wikipedia.org/wiki/North_Giziga_language\nhttps://phoible.org/languages/nort3047\nhttps://www.wikidata.org/entity/Q3515084"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:frajzyngier:96**\n**eballiso2009:31669**\n**eballiso2009:38147**\n**eballiso2009:39506**\n**eballiso2009:59851**\n**eballiso2009:9405**\n**eballiso2009:9537**\n**hh:e:Pontie:Guiziga**\n**hh:g:Shay:Giziga**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hw:Strumpell:Mandara-Adamaua**\n**hh:s:Lukas:Gisiga**\n**hh:t:Eguchi:Giziga**\n**hh:typ:FrajzyngierShay:Person-Number**"
+  },
+  "altnames": {
+    "multitree": "\nDogba\nGisiga\nGisika\nGiziga\nGiziga de Maroua\nGiziga, North\nGuiziga\nMarva\nMi Marva\nNorth Giziga\nNorth and Giziga\nSouth\nTchere",
+    "lexvo": "\nNorth Giziga [en]\nNorth Giziga language [en]",
+    "hhbib_lgcode": "\nGisiga\nGisiga-Marua\nGiziga from Dogba collected in Koza\nGiziga-North\nGuiziga du Sud de Maroua\nMostly Dogba-Maroua"
+  },
+  "triggers": {
+    "lgcode": "\nnordkamerun\nstefan\ngiziga\nguiziga\ngisiga"
+  },
+  "identifier": {
+    "multitree": "gis"
+  },
+  "classification": {
+    "sub": "**hh:g:Shay:Giziga**:1-3",
+    "subrefs": "\n**hh:g:Shay:Giziga**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Giziga, North (gis-gis) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Alsea-Yaquina",
+    "hid": "aes",
+    "level": "language",
+    "iso639-3": "aes",
+    "latitude": "44.408",
+    "longitude": "-123.94",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Alsea](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Alsea)\n[Alsea](https://wals.info/languoid/lect/wals_code_als)\n[Alsea-Yaquina](https://grambank.clld.org/languages/alse1251)\nhttps://en.wikipedia.org/wiki/Alsea_language\nhttps://www.wikidata.org/entity/Q2395641",
+    "timespan": "1942-01-01/1942-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:barnett:37**\n**cldf:boas:91:1**\n**cldf:buckley:87**\n**cldf:buckley:89**\n**hh:e:Drucker:Alsea**\n**hh:e:Zenk:Alseans**\n**hh:g:Frachtenberg:Alsea**\n**hh:hv:Golla:Alsea**\n**hh:hv:Pierce:Hanis-Miluk-Alsea**\n**hh:ld:Shirtz:Oregon-Coast**\n**hh:phon:Buckley:Alsea**\n**hh:t:Frachtenberg:Alsea**\n**hh:typ:Sui:Alsea**\n**hh:v:Kinkade:Alsea**\n**hh:vphon:Buckley:Alsea:1988**"
+  },
+  "altnames": {
+    "wals": "\nAlsea",
+    "ruhlen (1987)": "\nAlsea",
+    "moseley & asher (1994)": "\nAlsea",
+    "multitree": "\nAlsea\nAlsean\nAlséya\nAslean\nIakon\nYakona\nYakonan\nYakwina\nYaquina",
+    "lexvo": "\nAlsea [en]",
+    "hhbib_lgcode": "\nAlsea\nAlseans"
+  },
+  "triggers": {
+    "lgcode": "\nalsea\nsonorant"
+  },
+  "identifier": {
+    "wals": "genus/alsea",
+    "multitree": "alse;aes"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:1997**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Alsea (aes-aes) = 10 (Extinct)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Manam",
+    "hid": "mva",
+    "level": "language",
+    "iso639-3": "mva",
+    "latitude": "-4.07921",
+    "longitude": "145.033",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Manam](https://endangeredlanguages.com/lang/10526)\n[Manam](https://grambank.clld.org/languages/mana1295)\n[Manam](https://lexibank.clld.org/languages/abvdoceanic-Manam)\n[Manam](https://wals.info/languoid/lect/wals_code_mnm)\nhttps://en.wikipedia.org/wiki/Manam_language\nhttps://phoible.org/languages/mana1295\nhttps://www.wikidata.org/entity/Q6746851"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:agency:09**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:boehm:75**\n**cldf:calculator:14**\n**cldf:chaski:85**\n**cldf:cribb:00**\n**cldf:franks:79**\n**cldf:keesing:84:2**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:lutkehaus:90**\n**cldf:lutkehaus:91**\n**cldf:lutkehaus:95**\n**cldf:mercer:10**\n**cldf:np:14:5**\n**cldf:wedgwood:33**\n**cldf:wedgwood:34:1**\n**cldf:wedgwood:34:2**\n**cldf:wedgwood:37**\n**cldf:wedgwood:59**\n**cldf:zgraggen:71**\n**hh:e:Poch:Neu-Guinea:1906**\n**hh:ew:Werner:Finisterre**\n**hh:g:Lichtenberk:Manam**\n**hh:g:Lichtenberk:Manam:1980**\n**hh:h:Holtker:Manam**\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:hb:Zgraggen:Madang**\n**hh:hew:Bohm:Manam-Boesa-Biem-Ubrub**\n**hh:hew:Bohm:Manam-Boesa-Biem-Ubrub:1983**\n**hh:hew:Poch:Wilhelmsland**\n**hh:hew:Werner:Kaiser-Wilhelms**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:Zgraggen:Madang**\n**hh:hvw:Laycock:AustronesianSepik**\n**hh:hvw:Ray:NPapua**\n**hh:ld:Holtker:Manam**\n**hh:s:Gregersen:Manam**\n**hh:s:Turner:Manam**\n**hh:t:Sauba:Manam**\n**hh:w:Turner:Manam**\n**sil16:18813**\n**sil16:23137**\n**sil16:31835**\n**sil16:33219**\n**sil16:33220**\n**sil16:35049**\n**silpng:silpng1956-1990:1554**\n**silpng:silpng1956-1990:669**\n**silpng:silpng1991-2000:1246**\n**silpng:silpng1991-2000:1247**\n**silpng:silpng1991-2000:1248**\n**silpng:silpng1991-2000:1249**\n**silpng:silpng1991-2000:1250**\n**silpng:silpng1991-2000:1251**\n**silpng:silpng1991-2000:1252**\n**silpng:silpng1991-2000:1253**\n**silpng:silpng1991-2000:1254**"
+  },
+  "altnames": {
+    "wals": "\nManam",
+    "ruhlen (1987)": "\nManam",
+    "moseley & asher (1994)": "\nManam",
+    "multitree": "\nManam\nManum",
+    "lexvo": "\nManam [en]\nManam language [en]",
+    "hhbib_lgcode": "\nBoesa\nHansa V.\nHansavulkan\nManam island",
+    "elcat": "\nManam\nManum"
+  },
+  "triggers": {
+    "lgcode": "\nuia\nnemla\nnanari\ntaemaki\nmetiu\nmalipinga\nvenantius\nmanam\nrakana"
+  },
+  "identifier": {
+    "wals": "mnm",
+    "multitree": "mva;manm",
+    "endangeredlanguages": "10526"
+  },
+  "classification": {
+    "sub": "**hh:g:Lichtenberk:Manam**:2 **hh:hv:Ross:WMelanesia**:120-132, 418",
+    "subrefs": "\n**hh:g:Lichtenberk:Manam**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Manam (10526-mva) = Threatened (20 percent certain, based on the evidence available) [Turner 1986](cldf:turner:86)"
+  }
+}

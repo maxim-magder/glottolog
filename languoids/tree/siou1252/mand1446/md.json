@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mandan",
+    "hid": "mhq",
+    "level": "language",
+    "iso639-3": "mhq",
+    "latitude": "46.83",
+    "longitude": "-101.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Mandan](https://endangeredlanguages.com/lang/865)\nhttps://www.wikidata.org/entity/Q1957120\nhttps://en.wikipedia.org/wiki/Mandan_language\n[Mandan](https://wals.info/languoid/lect/wals_code_mdn)",
+    "timespan": "2016-01-01/2016-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowers:50**\n**cldf:carter:91**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:deland:08**\n**cldf:ed:10**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:lowie:17:1**\n**cldf:np:15:7**\n**cldf:np:nd:264**\n**cldf:skurzewski:16**\n**cldf:spottedbear:10**\n**cldf:will:spinden:06**\n**hh:d:Hollow:Mandan**\n**hh:e:WoodIrwin:Mandan**\n**hh:es:WillSpinden:Mandans**\n**hh:g:Kasak:Mandan**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Hayden:Missouri**\n**hh:ldsoc:Mixco:Mandan**\n**hh:s:Kennard:Mandan**\n**hh:s:Kennard:Mandan:1937**\n**hh:s:Mixco:Mandan**\n**hh:styp:Kasak:Mandan**\n**hh:v:Rankin:Mandan**\n**hh:w:Whiting:West-Mississippi**"
+  },
+  "altnames": {
+    "wals": "\nMandan",
+    "ruhlen (1987)": "\nMandan",
+    "moseley & asher (1994)": "\nMandan",
+    "multitree": "\nMandan\nMandano",
+    "lexvo": "\nMandan [en]\nMandan language [en]\nMandaneg [br]",
+    "elcat": "\nMandan"
+  },
+  "triggers": {
+    "lgcode": "\nmandan"
+  },
+  "identifier": {
+    "wals": "mdn",
+    "multitree": "mhq;mann",
+    "endangeredlanguages": "865"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mandan (865-mhq) = Dormant [Skurzewski 2016](cldf:skurzewski:16)"
+  }
+}

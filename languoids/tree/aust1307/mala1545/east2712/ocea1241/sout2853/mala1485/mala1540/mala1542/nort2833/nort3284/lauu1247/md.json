@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lau",
+    "hid": "llu",
+    "level": "language",
+    "iso639-3": "llu",
+    "latitude": "-8.51018",
+    "longitude": "160.872",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Lau](https://grambank.clld.org/languages/lauu1247)\n[Lau](https://lexibank.clld.org/languages/abvdoceanic-Lau)\n[Lau](https://wals.info/languoid/lect/wals_code_lau)\nhttps://en.wikipedia.org/wiki/Lau_language_(Malaita)\nhttps://www.wikidata.org/entity/Q3218574"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:fox:74:2**\n**cldf:government:01**\n**cldf:ivens:30**\n**cldf:keesing:91:1**\n**cldf:maranda:01**\n**cldf:molea:08**\n**cldf:moore:07**\n**cldf:moore:17**\n**cldf:np:19:4**\n**cldf:woodhead:87**\n**hh:d:Fox:Lau**\n**hh:hvw:TryonHackman:Solomon**\n**hh:s:Ivens:Lau**\n**hh:s:Ivens:Lau:1914**\n**hh:s:Ivens:Lau:1929**\n**hh:s:Rore:Sulagwalu**\n**hh:w:Tryon:Lau**\n**mpieva:Fox1974Laudicti**\n**sil16:18264**\n**sil16:35664**"
+  },
+  "altnames": {
+    "wals": "\nLau",
+    "ruhlen (1987)": "\nLau",
+    "moseley & asher (1994)": "\nLau",
+    "multitree": "\nLau\nSüdliche Salomons-Inseln",
+    "lexvo": "\nLau [en]\nLau language [en]",
+    "hhbib_lgcode": "\nSulagwalu\nWalade (LauS)"
+  },
+  "triggers": {
+    "lgcode": "\nidulaa\nlau"
+  },
+  "identifier": {
+    "wals": "lau",
+    "multitree": "llu"
+  },
+  "classification": {
+    "sub": "**hh:hvld:Siegel:Wai**",
+    "subrefs": "\n**hh:hvld:Siegel:Wai**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lau (llu-llu) = 5 (Developing)."
+  }
+}

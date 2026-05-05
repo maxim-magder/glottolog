@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Koi",
+    "hid": "kkt",
+    "level": "language",
+    "iso639-3": "kkt",
+    "latitude": "27.1941",
+    "longitude": "86.8531",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Koi](https://endangeredlanguages.com/lang/5648)\nhttps://www.wikidata.org/entity/Q6426194\nhttps://en.wikipedia.org/wiki/Koi_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lahaussois:66**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Rai:Koyee**\n**hh:g:Rai:Koyee:2022**\n**hh:ld:Rai:Koyee**\n**hh:s:Lahaussois:Koyi-Rai**\n**hh:s:Regmi:Koyu**\n**hh:soc:Rai:Koyee**"
+  },
+  "altnames": {
+    "multitree": "\nKohi\nKoi\nKoi Bo'o\nKoyi\nKoyu\nKoyu Bo'",
+    "lexvo": "\nKoi [en]",
+    "elcat": "\nKohi\nKoi\nKoi Bo'o\nKoyi\nKoyu\nKoyu Bo'",
+    "hhbib_lgcode": "\nKoyee"
+  },
+  "triggers": {
+    "lgcode": "\nvyakaranko\nzennun\nkoyi"
+  },
+  "identifier": {
+    "multitree": "kkt",
+    "endangeredlanguages": "5648"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:62",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Koi (5648-kkt) = Threatened (20 percent certain, based on the evidence available) [Lahaussois 2009](cldf:lahaussois:09)"
+  }
+}

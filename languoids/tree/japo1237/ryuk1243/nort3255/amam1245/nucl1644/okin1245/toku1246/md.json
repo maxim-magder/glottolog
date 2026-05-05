@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Toku-No-Shima",
+    "hid": "tkn",
+    "level": "language",
+    "iso639-3": "tkn",
+    "latitude": "27.7736",
+    "longitude": "128.961",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "JP"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tokunoshima_language\nhttps://www.wikidata.org/entity/Q3530484"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Hirayama:Amami**\n**hh:g:Leveque:Asama**\n**hh:hs:Hirayamaetal:Ryukyu**\n**hh:hvphon:Hattori:Nihon**\n**hh:phon:Sakimura:Kametsu**\n**hh:s:Leveque:Asama**"
+  },
+  "altnames": {
+    "multitree": "\nRyukyuan\nToku-No-Shima\nTokunosima",
+    "lexvo": "\nToku-No-Shima [en]",
+    "hhbib_lgcode": "\nAsama\nKametsu\nKametsu and Wadomari"
+  },
+  "triggers": {
+    "lgcode": "\nnihon\nsogo"
+  },
+  "identifier": {
+    "multitree": "tkn",
+    "endangeredlanguages": "10377"
+  },
+  "classification": {
+    "sub": "**hh:g:Pellard:Ogami**:249-276",
+    "subrefs": "\n**hh:g:Pellard:Ogami**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-04-30T13:39:05",
+    "comment": "Amami (10377-tkn) = Severely Endangered (100 percent certain, based on the evidence available) (All dialects in the Amami Islands are endangered today. In other words, the younger generation does not speak these dialects. Depending on the situation, they speak a local variety of Japanese or Standard Japanese instead. Every dialect in the Amami Islands is endangered because Standard Japanese has more political, economical, and cultural power. If such imbalance of power continues, it will continue to be diﬃcult, and unlikely, for younger people to choose to speak these dialects, which are not their ﬁrst language.) ['bib5531']"
+  }
+}

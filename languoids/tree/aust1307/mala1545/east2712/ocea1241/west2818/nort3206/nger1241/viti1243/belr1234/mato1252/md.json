@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mato",
+    "hid": "met",
+    "level": "language",
+    "iso639-3": "met",
+    "latitude": "-5.91639",
+    "longitude": "146.859",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mato](https://grambank.clld.org/languages/mato1252)\n[Nenaya](https://lexibank.clld.org/languages/abvdoceanic-Nenaya)\nhttps://en.wikipedia.org/wiki/Mato_language\nhttps://www.wikidata.org/entity/Q3299190"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Stober:Mato**\n**hh:hdial:Stober:Mato**\n**hh:hld:Smith:Morobe**\n**hh:hsoc:Stober:Mato**\n**hh:hvw:Hooley:Morobe:Austronesian**\n**hh:w:Carteretal:Mur**\n**sil16:36361**\n**sil16:47656**\n**sil16:48155**\n**sil16:48161**"
+  },
+  "altnames": {
+    "multitree": "\nMato\nNenaya\nNengaya\nNineia",
+    "lexvo": "\nMato [en]",
+    "hhbib_lgcode": "\nNengaya"
+  },
+  "triggers": {
+    "lgcode": "\nnineia"
+  },
+  "identifier": {
+    "multitree": "met"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:160-173",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mato (met-met) = 4 (Educational)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Musgu",
+    "hid": "mug",
+    "level": "language",
+    "iso639-3": "mug",
+    "latitude": "10.8439",
+    "longitude": "15.1065",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "TD"
+    ],
+    "links": "\n[Musgu](https://grambank.clld.org/languages/musg1254)\n[Musgu](https://wals.info/languoid/lect/wals_code_mgu)\nhttps://en.wikipedia.org/wiki/Musgu_language\nhttps://www.wikidata.org/entity/Q3123545"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1205**\n**asjp2010:1840**\n**asjp2010:2159**\n**asjp2010:2163**\n**asjp2010:3367**\n**cldf:houis:74**\n**cldf:lembezat:61**\n**cldf:tourneaux:78**\n**eballiso2009:13913**\n**eballiso2009:13914**\n**eballiso2009:2234**\n**eballiso2009:25481**\n**eballiso2009:25489**\n**eballiso2009:26895**\n**eballiso2009:36923**\n**eballiso2009:38053**\n**eballiso2009:38266**\n**eballiso2009:45232**\n**eballiso2009:4613**\n**eballiso2009:4616**\n**eballiso2009:51210**\n**eballiso2009:5173**\n**eballiso2009:5177**\n**eballiso2009:5178**\n**eballiso2009:51780**\n**eballiso2009:51781**\n**eballiso2009:52684**\n**eballiso2009:54427**\n**eballiso2009:55096**\n**eballiso2009:5913**\n**hh:d:Tourneux:Munjuk**\n**hh:e:Vossart:Bongor**\n**hh:e:vanEst:Mousgoum**\n**hh:e:vonHagen:Musgu**\n**hh:g:Meyer-Bahlburg:Musgu**\n**hh:g:Tourneux:Mulwi**\n**hh:g:Tourneux:Mulwi:PhD**\n**hh:he:Cabot:Moyen-Logone**\n**hh:hv:Tourneux:Musgu**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Lukas:Zentralsudanische**\n**hh:hw:Benton:WSudan**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:hw:Mouchet:Quinze**\n**hh:s:Krause:Musuk**\n**hh:s:Lukas:Musgu**\n**hh:typ:Tourneux:Munjuk**\n**hh:typ:Tourneux:Munjuk:2011**\n**mpieva:Caprile1978Prealabl**\n**mpieva:Jungraithmayr1988Etudestc**\n**mpieva:Tourneux1991Lexiquep**"
+  },
+  "altnames": {
+    "wals": "\nMusgu",
+    "wals other": "\nMulwi",
+    "ruhlen (1987)": "\nMusgu",
+    "moseley & asher (1994)": "\nMusgu",
+    "multitree": "\nMouloui\nMousgou\nMousgoum\nMousgoun\nMulwi\nMunjuk\nMusga\nMusgu\nMusgum\nMusuk\nMuzuk",
+    "lexvo": "\nMusgu [en]",
+    "hhbib_lgcode": "\nMasa of Decorse\nMouloui\nMousgoum\nMulwi\nMunjuk\nMunjuk de Pouss\nMunjuk-Nord\nMusgow (Luggoy)\nMusgoy\nMusgum\nMusgum-Girvidig\nMusgum-Ngilemong\nMuzgu\nMuzgum-Stadt\nNgelmung\nNgilemong\nPus/Girvidik\nVulum de Mogroum\nein Dorf welches einen halben Tagemarsch in östlicher Richtung von Kade entfernt nahe am Ba Logon oder Re liegt\nein Dorf wwelches einen halben Tagemarsch in östlicher Richtung von Kade entfernt nahe am Ba Logon oder Re liegt"
+  },
+  "triggers": {
+    "lgcode": "\nkrause\nmusuk\nvulum\nmulwi\nmuwli\nmunjuk\nmusgu"
+  },
+  "identifier": {
+    "wals": "mgu",
+    "multitree": "mug"
+  },
+  "classification": {
+    "sub": "**hh:hv:BarreteauDieu:ENCameroun**:65 against the grouping on very common sound changes suggested in **hh:hv:Gravina:Central-Chadic**:46-47",
+    "subrefs": "\n**hh:hv:BarreteauDieu:ENCameroun**\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Musgu (mug-mug) = 5* (Developing)."
+  }
+}

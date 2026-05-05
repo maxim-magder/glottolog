@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Adhola",
+    "hid": "adh",
+    "level": "language",
+    "iso639-3": "adh",
+    "latitude": "0.73235",
+    "longitude": "34.0341",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "UG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Adhola_dialect\nhttps://www.wikidata.org/entity/Q1971400"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:704**\n**eballiso2009:25663**\n**eballiso2009:33914**\n**hh:d:Oketcho:Dhopadhola**\n**hh:hld:Okonye:Luo**\n**hh:hvtyp:Storch:WNilotic**\n**hh:hvw:Heusing:Lwoo**\n**hh:ld:Oketcho:Dhopadhola**\n**hh:ldsoc:Okumu:Dhopadhola**\n**hh:s:Mukarovsky:Adhola**"
+  },
+  "altnames": {
+    "multitree": "\nAdhola\nDhopadhola\nJopadhola\nJopadhɔla\nLudama",
+    "lexvo": "\nAdhola [en]\nAdhola jezik [hr]\nDhopadhola [en]",
+    "hhbib_lgcode": "\nDhopadhola"
+  },
+  "triggers": {
+    "lgcode": "\ntororo\ndhopadhola\nadhola"
+  },
+  "identifier": {
+    "multitree": "adho;adh"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Heusing:Lwoo**",
+    "subrefs": "\n**hh:hvw:Heusing:Lwoo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Jopadhola (adh-adh) = 5 (Developing)."
+  }
+}

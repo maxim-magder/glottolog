@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Antigua and Barbuda Creole English",
+    "hid": "aig",
+    "level": "language",
+    "iso639-3": "aig",
+    "latitude": "17.068263",
+    "longitude": "-61.821863",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "AG",
+      "AI",
+      "DM",
+      "GB",
+      "KN",
+      "MS"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Antiguan_and_Barbudan_Creole\nhttps://phoible.org/languages/anti1245\nhttps://www.wikidata.org/entity/Q3244184"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Farquhar:Antiguan-Creole**\n**hh:hvw:Hancock:Anglophone**\n**hh:phon:Schuttenhelm:St-Kitts**\n**hh:s:BakerPederson:Kitts-Nevis**\n**hh:soc:Ballester:Creole-Antigua**\n**hh:soc:Cooper:Kitts-Nevis**\n**hh:w:Murphy:Antiguan**"
+  },
+  "triggers": {
+    "lgcode": "\nantiguan"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Hancock:Anglophone**",
+    "subrefs": "\n**hh:hvw:Hancock:Anglophone**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Leeward Caribbean English Creole (aig-aig) = 6a (Vigorous). De facto language of national identity."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAntigua\nSt Kitts Creole\nSt Kitts and Nevis Creole"
+  }
+}

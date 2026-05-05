@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bagusa",
+    "hid": "bqb",
+    "level": "language",
+    "iso639-3": "bqb",
+    "latitude": "-1.98844",
+    "longitude": "137.914",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4842178\nhttps://en.wikipedia.org/wiki/Bagusa_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Moszkowski:Mamberamo**\n**hh:h:DuBuy:Mamberamo**\n**hh:he:Jongejans:Mamberamo**\n**hh:he:Moszkowski:Mamberamo**\n**hh:hv:Donohue:Sound-Change**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:II**\n**hh:w:Moszkowski:Mamberamo**"
+  },
+  "altnames": {
+    "multitree": "\nBagusa\nKapeso\nSuaseso",
+    "lexvo": "\nBagusa [en]",
+    "hhbib_lgcode": "\nBagoesa\nBagoesa Saberi\nKamboi-Ramboi\nKoassa Kamboi Ramboi\nKwerba-Pionierbivak"
+  },
+  "triggers": {
+    "lgcode": "\nsud AND zabre"
+  },
+  "identifier": {
+    "multitree": "bqb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Donohue:Sound-Change** **hh:typt:DeVries:Kwerba**:58 **hh:e:Oosterwal:Muremarew**:168-169",
+    "subrefs": "\n**hh:e:Oosterwal:Muremarew**\n**hh:typt:DeVries:Kwerba**\n**hh:hv:Donohue:Sound-Change**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bagusa (bqb-bqb) = 7 (Shifting)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mundari",
+    "hid": "unr",
+    "level": "language",
+    "iso639-3": "unr",
+    "latitude": "23.03",
+    "longitude": "85.85",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BD",
+      "IN",
+      "NP"
+    ],
+    "links": "\n[Bhumij](https://wals.info/languoid/lect/wals_code_bhu)\n[Mundari](https://grambank.clld.org/languages/mund1320)\n[Mundari](https://lexibank.clld.org/languages/peirosaustroasiatic-Mundari)\n[Mundari](https://wals.info/languoid/lect/wals_code_mun)\nhttps://en.wikipedia.org/wiki/Mundari_language\nhttps://phoible.org/languages/mund1320\nhttps://www.wikidata.org/entity/Q3327828"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3339**\n**asjp2010:3974**\n**cldf:abbi:92**\n**cldf:bhattacharya:76**\n**cldf:croft:05**\n**cldf:etal:ed:02:10**\n**cldf:evans:osada:05:2**\n**cldf:griffiths:46**\n**cldf:gumperz:bilibiri:57**\n**cldf:hoffmann:03**\n**cldf:osada:07**\n**cldf:peterson:05:2**\n**cldf:pinnow:59**\n**cldf:sinha:74:2**\n**hh:d:Bhaduri:Mundari**\n**hh:d:Hoffmann:Mundarica**\n**hh:d:Munda:Munda**\n**hh:d:Sardar:Bhumija**\n**hh:e:Chowdhury:Bhumij**\n**hh:e:Das:Bhumijas**\n**hh:e:Mahapatra:India**\n**hh:g:Cook:Mundari**\n**hh:g:Hoffmann:Mundari**\n**hh:g:Osada:Mundari**\n**hh:g:Ramaswami:Bhumij**\n**hh:g:Sinha:Mundari**\n**hh:h:Das:West-Bengal**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hs:Mahapatra:Orissa**\n**hh:hv:Anderson:Dravidian-Munda**\n**hh:hv:Anderson:Munda**\n**hh:hv:Anderson:proto-Munda**\n**hh:hv:AndersonZide:Munda-Verb**\n**hh:hv:Bhattacharya:Munda**\n**hh:hv:Konow:Munda**\n**hh:hv:Osada:Munda-Sanskrit**\n**hh:hv:Pinnow:Austroasiatic**\n**hh:hv:Schmidt:Munda**\n**hh:hvb:Stampe:Munda**\n**hh:hvwld:Grierson:4**\n**hh:hw:Hodgson:CIndia**\n**hh:hw:Hunter:High-Asia**\n**hh:s:Jellinghaus:Mundo**\n**hh:s:KobayashiMurmu:Kera-Mundari**\n**hh:s:Mukherjee:Mundari**\n**hh:s:Munda:Mundari**\n**hh:s:Nottrott:Kolh**\n**hh:s:Osada:Mundari**\n**hh:s:Osada:Mundari:2015**\n**hh:typ:EvansOsada:WordClass2**\n**hh:typ:HengeveldRijkhoff:WordClass**\n**hh:typ:Samala:Bhumij**\n**hh:typd:Patela:Mundari**\n**hh:vsoc:Varenkamp:Mayurbhanj**\n**hh:vtyp:NigamDasgupta:Mundari-Bhumij**\n**hh:w:Campbell:India**\n**hh:wdial:Kobayashi:Kherwarian**\n**iso6393:2007-065**\n**mpieva:1965TheNewTe**\n**mpieva:Bhaduri2002AMundari**\n**mpieva:Cook1964Adescrip**\n**mpieva:Hoffmann1998Encyclop**\n**mpieva:Hoffmann2001Mundarig**"
+  },
+  "altnames": {
+    "multitree": "\nColh\nHoro\nHɔrɔ-ɟagar\nMandari\nMondari\nMunari\nMunda\nMundari\nMundari-Ho\nMuṇḍārī\nMuɳɖari",
+    "lexvo": "\nMandari [fr]\nMandari language [en]\nMundari [en]",
+    "hhbib_lgcode": "\n4xMundari\nBhumij\nBhumij Maunbhoom\nBhumija\nBhumijas of Seraikella\nBhúmij\nKeraʔ Mundari\nMankipatti-Westlichen Singbhum Mundari\nMundari of Ranchi/Palaman/Jashpur/Bamra\nPresumably Mundari\nTschaibasa"
+  },
+  "triggers": {
+    "lgcode": "\nmunda\nbhumij\nmundarica\nnagpore\nmundari\nkohls"
+  },
+  "identifier": {
+    "wals": "bhu;mun",
+    "multitree": "munr;unr"
+  },
+  "classification": {
+    "sub": "**hh:d:Hoffmann:Mundarica**",
+    "subrefs": "\n**hh:d:Hoffmann:Mundarica**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Bhumij (1601-unr-bhu) = At risk (20 percent certain, based on the evidence available)"
+  }
+}

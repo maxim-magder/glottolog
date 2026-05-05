@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Citak",
+    "hid": "txt",
+    "level": "language",
+    "iso639-3": "txt",
+    "latitude": "-5.58276",
+    "longitude": "139.461",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3447279\nhttps://en.wikipedia.org/wiki/Citak_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Baas:Tuu-Kau**\n**hh:e:deAntoni:Citak**\n**hh:e:vanArsdale:First-Contact**\n**hh:ew:vanArsdale:Interior-Asmat**\n**hh:h:Versteeg:Oerwoud**\n**hh:hv:Voorhoeve:Asmat-Kamoro-Awyu-Dumut-Ok**\n**hh:hvw:Voorhoeve:Asmat**\n**hh:s:Kruidhof:Citak**"
+  },
+  "altnames": {
+    "multitree": "\nAsmat\nAsmat Darat\nCicak\nCitak\nCitak Asmat\nKaunak\nTjitak\nTjitjak",
+    "lexvo": "\nCitak [en]\nCitak language [en]",
+    "hhbib_lgcode": "\nCitak Asmat\nKau\nUpper Eilanden"
+  },
+  "triggers": {
+    "lgcode": "\ntiau\nseperti\ncatatan\ncitak\nwitmensen\ndiucap\njaya AND asmat"
+  },
+  "identifier": {
+    "multitree": "txt"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Voorhoeve:Asmat**",
+    "subrefs": "\n**hh:hvw:Voorhoeve:Asmat**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Citak (txt-txt) = 6b* (Threatened)."
+  }
+}

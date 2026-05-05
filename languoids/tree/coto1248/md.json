@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Cotoname",
+    "hid": "xcn",
+    "level": "language",
+    "iso639-3": "xcn",
+    "latitude": "25.9116",
+    "longitude": "-97.3956",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56889\nhttps://en.wikipedia.org/wiki/Cotoname_language",
+    "timespan": "1875-01-01/1875-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:h:Mithun:NAmerica**\n**hh:hvw:Swanton:NEMexico**\n**hh:vw:Thorgeirsson:Cotoname**\n**hh:w:BerlandierChowell:STexas**\n**hh:w:Swanton:Cotoname**"
+  },
+  "altnames": {
+    "lexvo": "\nCotoname [en]",
+    "hhbib_lgcode": "\nCarrizo de Camargo"
+  },
+  "triggers": {
+    "lgcode": "\ncotoname"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hv:Campbell:Coahuiltecan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Cotoname (xcn-xcn) = 10 (Extinct)."
+  }
+}

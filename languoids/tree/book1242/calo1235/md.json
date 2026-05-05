@@ -1,0 +1,29 @@
+{
+  "core": {
+    "name": "Calo",
+    "hid": "rmr",
+    "level": "language",
+    "iso639-3": "rmr",
+    "latitude": "40.8339",
+    "longitude": "-3.5144",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "ES"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2009-031**"
+  },
+  "iso_retirement": {
+    "comment": "Erromintxela, \"Basque Romany\", is not mutually intelligible with Iberian Caló\nbecause 1) the grammar of Erromintxela is entirely based on Basque rather than\non Spanish or Portuguese and 2) the Romany component is based on Kalderash\nRomany rather than Caló. There is no context in which these languages may be\nconsidered parts of a whole.",
+    "code": "rmr",
+    "name": "Caló",
+    "effective": "2010-01-18",
+    "remedy": "Split into Caló [rmq] and Erromintxela [emx]",
+    "reason": "split",
+    "change_request": "2009-031",
+    "change_to": "\nrmq\nemx"
+  }
+}

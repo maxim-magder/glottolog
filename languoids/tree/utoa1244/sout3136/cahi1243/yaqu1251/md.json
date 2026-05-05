@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Yaqui",
+    "hid": "yaq",
+    "level": "language",
+    "iso639-3": "yaq",
+    "latitude": "29.9446",
+    "longitude": "-110.681",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Yaqui](https://endangeredlanguages.com/lang/851)\n[Yaqui](https://grambank.clld.org/languages/yaqu1251)\n[Yaqui](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Yaqui)\n[Yaqui](https://lexibank.clld.org/languages/utoaztecan-Yaqui)\n[Yaqui](https://lexibank.clld.org/languages/wold-Yaqui)\n[Yaqui](https://wals.info/languoid/lect/wals_code_yaq)\nhttps://en.wikipedia.org/wiki/Yaqui_language\nhttps://phoible.org/languages/yaqu1251\nhttps://www.wikidata.org/entity/Q34191"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:beals:43**\n**cldf:belloro:guerrero:12**\n**cldf:butt:geuder:ed:98**\n**cldf:casad:ed:00:3**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dedric:casad:99**\n**cldf:demers:escalante:etal:99**\n**cldf:drucker:41**\n**cldf:ed:10**\n**cldf:felixarmendariz:05:2**\n**cldf:golla:goddard:etal:08**\n**cldf:guerrero-valenzuela:05**\n**cldf:guerrero:05**\n**cldf:guerrero:vanvalin:04**\n**cldf:harley:09**\n**cldf:jelinek:98**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lindenfeld:71**\n**cldf:np:nd:249**\n**cldf:np:nd:264**\n**cldf:shaul:99**\n**haspelmath:harley_form_2009**\n**haspelmath:haugen_structure_2009**\n**haspelmath:jelinek_diccionario_2007**\n**haspelmath:vazquez_sonora_2007**\n**hh:d:Anonymous:Hiaki**\n**hh:d:Buitimea:Yaqui**\n**hh:dt:Estrada:Yaqui**\n**hh:e:Spicer:Yaqui**\n**hh:e:Spicer:Yaqui-Mayo**\n**hh:g:DedrickCasad:Sonora-Yaqui**\n**hh:g:EstradaAlvarez:Yaqui**\n**hh:g:EstradaBuitimea:Yaqui**\n**hh:g:Lindenfeld:Yaqui**\n**hh:ht:Hervas:Saggio**\n**hh:hv:Adelungetal:Mithridates:33**\n**hh:phon:Scoggins:Arizona-Yaqui**\n**hh:s:Kurath:Yaqui**\n**hh:s:Mason:Yaqui**\n**hh:sd:Shaul:Yoeme**\n**hh:soc:Barreras:Yoeme**\n**hh:st:Johnson:Yaqui**\n**hh:styp:Escalante:Yaqui**\n**hh:styp:Guerrero:Yaqui**\n**hh:t:Buitimea:Yaqui**\n**hh:t:Estrada:Jiak**\n**hh:t:Estrada:Yaqui**\n**hh:typ:Escalante:Yaqui-Sonora**\n**hh:typ:Martinez:Yaqui**\n**hh:typ:Trueman:Hiaki**\n**mpieva:Crumrine1961Phonolog**\n**mpieva:Guerrero2006Thestruc**\n**mpieva:Silva1998Jiaknokp**\n**sil16:10534**\n**sil16:15571**\n**sil16:34331**\n**sil16:49650**"
+  },
+  "altnames": {
+    "wals": "\nYaqui",
+    "ruhlen (1987)": "\nCahita",
+    "moseley & asher (1994)": "\nYaqui",
+    "multitree": "\nCahita\nKahita\nYaki\nYaki (États-Unis d'Amérique)\nYaqui\nYaqui (Estados Unidos)\nYaqui (Mexique)\nYaqui-Mayo\nYoeme",
+    "lexvo": "\nYaki simi [qu]\nYakieg [br]\nYaqui [en]\nYaqui language [en]",
+    "hhbib_lgcode": "\nHiaki\nYo'eme\nYoeme",
+    "elcat": "\nCahita\nKahita\nYaki\nYaqui\nYaqui-Mayo\nYoeme"
+  },
+  "triggers": {
+    "lgcode": "\nregreso\nyoeme\nbetana\nhermosillo\nnottiwame\njobe\npeesio\nyaqui\nhippocrene"
+  },
+  "identifier": {
+    "wals": "genus/cahita",
+    "multitree": "yaq",
+    "endangeredlanguages": "851"
+  },
+  "classification": {
+    "sub": "**hh:hv:Merrill:Southern-Uto-Aztecan** **hh:hv:Hill:Uto-Aztecan** **hh:hv:Haugen:Uto-Aztecan**:199-201",
+    "subrefs": "\n**hh:hv:Haugen:Uto-Aztecan**\n**hh:hv:Merrill:Southern-Uto-Aztecan**\n**hh:hv:Hill:Uto-Aztecan**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yaqui (851-yaq) = Vulnerable (60 percent certain, based on the evidence available) [Belloro and Guerrero 2012](cldf:belloro:guerrero:12)"
+  }
+}

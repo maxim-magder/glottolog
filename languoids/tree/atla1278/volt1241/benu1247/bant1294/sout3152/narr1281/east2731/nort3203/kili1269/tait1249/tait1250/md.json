@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Taita",
+    "hid": "dav",
+    "level": "language",
+    "iso639-3": "dav",
+    "latitude": "-3.79347",
+    "longitude": "38.57254",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "TZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2387274\nhttps://en.wikipedia.org/wiki/Taita_language\n[Dabida](https://wals.info/languoid/lect/wals_code_dbd)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bostock:50**\n**cldf:odden:01**\n**cldf:philippson:83**\n**cldf:prins:50**\n**cldf:prins:52**\n**cldf:rjabova:00**\n**eballiso2009:12938**\n**eballiso2009:12939**\n**eballiso2009:12945**\n**eballiso2009:1414**\n**eballiso2009:15595**\n**eballiso2009:24772**\n**eballiso2009:25547**\n**eballiso2009:27933**\n**eballiso2009:28018**\n**eballiso2009:28707**\n**eballiso2009:28840**\n**eballiso2009:31888**\n**eballiso2009:31891**\n**eballiso2009:32686**\n**eballiso2009:32738**\n**eballiso2009:33121**\n**eballiso2009:33130**\n**eballiso2009:33148**\n**eballiso2009:33497**\n**eballiso2009:33498**\n**eballiso2009:33914**\n**eballiso2009:34335**\n**eballiso2009:36811**\n**eballiso2009:38389**\n**eballiso2009:3900**\n**eballiso2009:39484**\n**eballiso2009:39788**\n**eballiso2009:40455**\n**eballiso2009:40791**\n**eballiso2009:41779**\n**eballiso2009:45702**\n**eballiso2009:49627**\n**eballiso2009:52987**\n**eballiso2009:52988**\n**eballiso2009:53741**\n**eballiso2009:54513**\n**eballiso2009:54523**\n**eballiso2009:55846**\n**eballiso2009:58970**\n**eballiso2009:7057**\n**eballiso2009:7366**\n**hh:d:Bostock:Kidawida**\n**hh:d:Hemery:Teita**\n**hh:e:Merritt:Taita**\n**hh:e:Smith:Ngeti**\n**hh:g:Ryabova:Dabida**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:he:Prins:NEBantu**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:PhilippsonMontlahuc:Kilimanjaro**\n**hh:hv:Slavikova:North-East-African**\n**hh:hwsoc:vanOtterloo:Bantu-Kenya-Coastal**\n**hh:s:Sakamoto:Kidawida**\n**hh:s:Woodward:Kitaita**\n**hh:typ:Makeeva:Dawida**\n**hh:w:Philippson:Dawida**\n**hh:w:Shaw:Swahili**\n**hh:w:Walsh:Kasigau**\n**iso6393:2007-165**\n**mpieva:Rjabova2000Jazykdab**"
+  },
+  "altnames": {
+    "wals": "\nDabida",
+    "ruhlen (1987)": "\nDabida",
+    "moseley & asher (1994)": "\nTaita",
+    "multitree": "\nDabida\nDavida\nDawida\nKidabida\nKitaita\nTaita\nTeita",
+    "lexvo": "\nDawida [en]\nTaita [en]",
+    "hhbib_lgcode": "\nDawida\nDawida E74A\nE74a_Dawida\nKasigau\nKidawida\nKidawida of Wusi\nKisighau\nTeita\nTèita"
+  },
+  "triggers": {
+    "lgcode": "\ntaveita\nwateita\ntaveta\nudigo\ne60\nkitaita\nkisagala\ntaweta\ne74\nkisighau\nnjaro\nteita\nkidawida\ndabida\ntaita\ndawida\ntsavo"
+  },
+  "identifier": {
+    "wals": "dbd",
+    "multitree": "dav"
+  },
+  "classification": {
+    "sub": "**hh:hv:Nurse:EBantu**",
+    "subrefs": "\n**hh:hv:Nurse:EBantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dawida (dav-dav) = 5 (Developing)."
+  }
+}

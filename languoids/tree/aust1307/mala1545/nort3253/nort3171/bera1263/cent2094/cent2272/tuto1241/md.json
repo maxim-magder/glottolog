@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tutong",
+    "hid": "ttg",
+    "level": "language",
+    "iso639-3": "ttg",
+    "latitude": "4.74327",
+    "longitude": "114.638",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "BN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tutong_language\nhttps://www.wikidata.org/entity/Q3507990"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:DBP:Tutong**\n**hh:hvw:Alas:Dusun**\n**hh:hvw:Nothofer:Brunei**\n**hh:hw:Ray:Borneo**\n**hh:s:Tunggal:Tutong:1991**\n**hh:s:Tunggal:Tutong:2005**\n**hh:typ:Dulani:Tutong**\n**iso6393:2007-207**"
+  },
+  "altnames": {
+    "multitree": "\nTutong\nTutong 2\nTutung",
+    "lexvo": "\nTutong [en]",
+    "hhbib_lgcode": "\nLower Tutong\nTutong 2"
+  },
+  "triggers": {
+    "lgcode": "\ntutong"
+  },
+  "identifier": {
+    "multitree": "ttg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kroeger:Sarawak**",
+    "subrefs": "\n**hh:hv:Kroeger:Sarawak**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tutong (ttg-ttg) = 6b (Threatened)."
+  }
+}

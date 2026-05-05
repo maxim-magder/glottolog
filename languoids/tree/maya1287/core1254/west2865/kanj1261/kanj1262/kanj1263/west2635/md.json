@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Akateko",
+    "hid": "knj",
+    "level": "language",
+    "iso639-3": "knj",
+    "latitude": "15.5932",
+    "longitude": "-91.8421",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT",
+      "MX"
+    ],
+    "links": "\n[Akateko](https://endangeredlanguages.com/lang/651)\n[Akateko](https://grambank.clld.org/languages/west2635)\n[Kanjobal (Western)](https://wals.info/languoid/lect/wals_code_kwe)\nhttps://en.wikipedia.org/wiki/Akatek_language\nhttps://www.wikidata.org/entity/Q34923"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1063**\n**asjp2010:3668**\n**cldf:adelaar:07:2**\n**cldf:andres:dakin:etal:96**\n**cldf:ed:10**\n**cldf:hamm:holzapfel:etal:98**\n**cldf:lewis:ed:09**\n**cldf:maldonado:92**\n**cldf:np:09:1**\n**cldf:np:nd:264**\n**cldf:pellicer:05**\n**cldf:penalosa:87**\n**cldf:richards:03**\n**cldf:stolz:96**\n**cldf:zavala:97**\n**hh:g:Zavala:Acateco**\n**hh:g:Zavala:Kanjobal**\n**hh:styp:Schule:Akatek**\n**hh:typ:Zavala:Mayan-Clause**\n**mpieva:1996Dicciona**\n**mpieva:2003Xolilalq**\n**mpieva:Pascual2007Skawxuba**\n**sil16:13444**\n**sil16:22973**\n**sil16:23631**"
+  },
+  "altnames": {
+    "wals": "\nKanjobal (Western)",
+    "wals other": "\nAcatec",
+    "ruhlen (1987)": "\nQanjobal",
+    "moseley & asher (1994)": "\nKanjobal",
+    "multitree": "\nAcatec\nAcateco\nAcatèque (Guatemala)\nAcatèque (Mexique)\nAkateko\nCanjobalés occidental (México)\nConob\nKanjobal (Western)\nKanjobal de San Miguel Acatán\nKanjobal, Western\nSan Miguel Acatán Kanjobal\nWestern Kanjobal\nWestern Q'anjob'al",
+    "lexvo": "\nAcateeks [nl]\nAkatek language [en]\nAkatekisk [no]\nAkateko [fr]\nIdioma acateco [es]\nLíngua acateca [pt]\nWestern Kanjobal [en]\nАкатечки јазик [mk]",
+    "hhbib_lgcode": "\nAwakatek\nWestern Kanjobal",
+    "elcat": "\nAcatec\nAcateco\nAkateko\nConob\nKanjobal\nKanjobal (Western)\nKanjobal de San Miguel Acatán\nSan Miguel Acatán Kanjobal\nWestern\nWestern Kanjobal\nWestern Q'anjob'al"
+  },
+  "triggers": {
+    "lgcode": "\nkanjobal\nprojecto\nakateko\nacatan\nakatek\nskawxubal\nacateco"
+  },
+  "identifier": {
+    "wals": "kwe",
+    "multitree": "knj",
+    "endangeredlanguages": "651"
+  },
+  "classification": {
+    "sub": "**hh:hv:Campbell:Mayan:2017**",
+    "subrefs": "\n**hh:hv:Campbell:Mayan:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Akateko (651-knj) = Threatened (20 percent certain, based on the evidence available) [Richards 2003](cldf:richards:03)"
+  }
+}

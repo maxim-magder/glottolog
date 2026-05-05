@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bomwali",
+    "hid": "bmw",
+    "level": "language",
+    "iso639-3": "bmw",
+    "latitude": "1.71005",
+    "longitude": "15.9546",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34984\nhttps://en.wikipedia.org/wiki/Bomwali_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:burel:10**\n**cldf:koch:13**\n**eballiso2009:28707**\n**eballiso2009:41979**\n**eballiso2009:57387**\n**hh:e:Loyre:Sanga**\n**hh:e:Roberdeau:Boumouali**\n**hh:h:Ndamba:Congo**\n**hh:hb:Leblanc:Congo**\n**hh:he:Kohler:Tribus-Sangha**\n**hh:hew:Bruel:Sanga**\n**hh:hew:Koch:Molundu**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:BoukaNdamba:Congo-Brazzaville**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvw:Klieman:WEquatorial**\n**hh:w:Cottes:Sud-Cameroun**"
+  },
+  "altnames": {
+    "multitree": "\nBomali\nBomwali\nBoumoali\nBumali\nLino\nSangasanga",
+    "lexvo": "\nBomwali [en]",
+    "hhbib_lgcode": "\nA87_Bomwali\nBomwali 1\nBomwali 2 d. lino\nBoumali\nBoumali (Sangha-Sangha)\nBoumoali\nBoumouali\nLino\nMissanga\nMissanga (Bomali-Boumali)\nSanga-Sanga\nSangha-Sangha\nSangha-sangha"
+  },
+  "triggers": {
+    "lgcode": "\nponio"
+  },
+  "identifier": {
+    "multitree": "bmw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:198",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bomwali (bmw-bmw) = 6b (Threatened)."
+  }
+}

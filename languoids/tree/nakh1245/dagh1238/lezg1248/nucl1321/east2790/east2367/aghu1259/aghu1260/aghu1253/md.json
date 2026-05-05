@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Aghul",
+    "hid": "agx",
+    "level": "language",
+    "iso639-3": "agx",
+    "latitude": "41.9242",
+    "longitude": "47.5843",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "RU"
+    ],
+    "links": "\n[Aghul](https://endangeredlanguages.com/lang/921)\n[Aghul](https://wals.info/languoid/lect/wals_code_agl)\nhttps://en.wikipedia.org/wiki/Aghul_language\nhttps://www.wikidata.org/entity/Q36498"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3575**\n**cldf:boguslavskaja:89**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:kibrik:03**\n**cldf:lewis:ed:09**\n**cldf:merdanova:daniel:01**\n**cldf:np:nd:264**\n**cldf:vonerckert:95**\n**hh:d:Ramazanov:Agulsko**\n**hh:d:Sulejmanov:Agulsko**\n**hh:e:Kosven:Aguly**\n**hh:es:Tarlanov:Aguly**\n**hh:es:Tarpanov:Aguly**\n**hh:g:Tarlanov:Agulskogo**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:hv:Sulejmanov:Agulskogo**\n**hh:s:Israfilov:Fitinskij**\n**hh:s:Israfilov:Fitinskij:2007**\n**hh:s:Sulejmanov:Agulskij:2000**\n**hh:st:Magometov:Agulskij**\n**hh:std:Dirr:Agulskij**\n**hh:std:Saumjan:Agulskogo**\n**hh:typ:Merdanova:Agulskogo**\n**hh:vld:GanenkovMaisak:Agul**"
+  },
+  "altnames": {
+    "wals": "\nAghul",
+    "wals other": "\nAgul",
+    "ruhlen (1987)": "\nAghul",
+    "moseley & asher (1994)": "\nAgul",
+    "multitree": "\nAghul\nAghulshuy\nAgul\nAguly",
+    "lexvo": "\nAghul [en]\nAghul language [en]\nAghulische Sprache [de]\nAgul [fr]\nAgula lingvo [eo]\nAgulin kieli [fi]\nJęzyk agulski [pl]\nLingua agul [gl]\nLíngua agul [pt]\nАгулски јазик [mk]\nАгульский язык [ru]\nАгульська мова [uk]",
+    "elcat": "\nAghul\nAghulshuy\nAgul\nAguly\nAğul ç'al\nагульский язык\nагъул чӀал",
+    "hhbib_lgcode": "\nAghul (various dialects)\nAghul from Dirr 1907 which is Burkixan\nAgul'skij\nBurkixan\nCentral Agul\nCirxe\nFite\nFitinskij\nGequn\nHuppuq\nKeren\nTpig\nXpyuk"
+  },
+  "triggers": {
+    "lgcode": "\nagulskogo\ndagestanskich\nopredelitelnye\nagulskij"
+  },
+  "identifier": {
+    "wals": "agl",
+    "multitree": "agx",
+    "endangeredlanguages": "921"
+  },
+  "classification": {
+    "sub": "**hh:st:Magometov:Agulskij**:15-16 **hh:hv:Sulejmanov:Agulskogo** **hh:vld:GanenkovMaisak:Agul**",
+    "subrefs": "\n**hh:st:Magometov:Agulskij**\n**hh:hv:Sulejmanov:Agulskogo**\n**hh:vld:GanenkovMaisak:Agul**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Aghul (921-agx) = Threatened (40 percent certain, based on the evidence available) (Despite the relatively large number of speakers of all ages, there are reasons such as the presence of more dominant neighbouring languages, notably Dargwa, Lak, Tabasaran and Lezgian, as well as the increasing influence of Russian, for regarding the language as definitely endangered.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

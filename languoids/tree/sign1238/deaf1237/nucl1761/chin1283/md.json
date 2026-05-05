@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Chinese Sign Language",
+    "hid": "csl",
+    "level": "language",
+    "iso639-3": "csl",
+    "latitude": "30.9063",
+    "longitude": "121.569",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MY",
+      "TW"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q1094190\nhttps://en.wikipedia.org/wiki/Chinese_Sign_Language\n[Chinese Sign Language](https://wals.info/languoid/lect/wals_code_csl)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:yang:fischer:02**\n**hh:d:Nur:Zhongguo:2003**\n**hh:d:Yau:Chinese-Signs**\n**hh:d:Zhongguo:Zhongguo**\n**hh:d:Zhongguo:Zhongguo:1994**\n**hh:d:Zhongguo:Zhongguo:2003**\n**hh:hb:Liu:Minority-Sign-China**\n**hh:hld:Gong:Sign-China**\n**hh:hld:Jo:Chinese-Sign**\n**hh:hld:Myers:Sign-China**\n**hh:hv:Woodward:Sign-Asian**\n**hh:phon:Gu:Shanghai-Sign**\n**hh:phon:Yi:Shanghai-Sign**\n**hh:phon:Zhang:Shanghai-Sign**\n**hh:s:ChenQiu:Zhongguo-Shouyu**\n**hh:s:Lu:Zhongguo-Shouyu**\n**hh:s:Yang:Chinese-Sign**\n**hh:soc:Hurlbut:Sign-Taiwan**\n**hh:typ:He:Classifier-Hong-Kong-Tianjin-Beijing**\n**hh:typ:Liu:Zhongguo-Shouyu**\n**hh:typ:Ni:Zhongguo-Shouyu**\n**hh:typ:Yang:Zhongguo-Shouyu**\n**hh:typ:Yau:Sign-Order**\n**hh:typ:Zhongguo:Zhongguo-Shouyu**\n**hh:vsoc:Ma:Chinese-Sign**\n**hh:w:Zhao:Shouyu**"
+  },
+  "altnames": {
+    "wals": "\nChinese Sign Language",
+    "lexvo": "\nChinese Sign Language [en]\nLíngua de Sinais Chinesa [pt]",
+    "hhbib_lgcode": "\nBeijing Sign Language\nShanghai\nShanghai Sign Language\nSouth Chinese Sign Language\nTianjin Sign Language\nUyghur Sign Language"
+  },
+  "identifier": {
+    "wals": "csl"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinese Sign Language (csl-csl) = 5 (Developing)."
+  },
+  "classification": {
+    "sub": "**hh:h:FischerGong:East-Asian-Sign**:499-500, **hh:phon:Gu:Shanghai-Sign**:2-3, **hh:hv:Woodward:Sign-Asian**",
+    "subrefs": "\n**hh:h:FischerGong:East-Asian-Sign**\n**hh:phon:Gu:Shanghai-Sign**\n**hh:hv:Woodward:Sign-Asian**"
+  }
+}

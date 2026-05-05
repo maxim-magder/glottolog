@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Kaonde",
+    "hid": "kqn",
+    "level": "language",
+    "iso639-3": "kqn",
+    "latitude": "-12.4129",
+    "longitude": "25.7646",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD",
+      "ZM"
+    ],
+    "links": "\n[Kaonde](https://grambank.clld.org/languages/kaon1241)\nhttps://en.wikipedia.org/wiki/Kaonde_language\nhttps://www.wikidata.org/entity/Q33601"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:melland:23**\n**cldf:watson:54:1**\n**eballiso2009:16184**\n**eballiso2009:1649**\n**eballiso2009:19068**\n**eballiso2009:21496**\n**eballiso2009:21638**\n**eballiso2009:24307**\n**eballiso2009:24914**\n**eballiso2009:28707**\n**eballiso2009:29921**\n**eballiso2009:30036**\n**eballiso2009:30725**\n**eballiso2009:31179**\n**eballiso2009:34092**\n**eballiso2009:34698**\n**eballiso2009:3485**\n**eballiso2009:3652**\n**eballiso2009:39622**\n**eballiso2009:4704**\n**eballiso2009:49372**\n**eballiso2009:49373**\n**eballiso2009:56322**\n**hh:d:Broughall:Kaonde**\n**hh:hb:Boone:Congo-Sud-Est**\n**hh:hb:Kadima:Congo**\n**hh:he:Brelsford:Northern-Rhodesia**\n**hh:he:Vansina:Congo**\n**hh:he:Whiteley:Northern-Rhodesia**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Ahmed:East-Central-Africa**\n**hh:hvw:KashokiMann:Zambia**\n**hh:phon:Mwamba:Kaonde**\n**hh:s:Mambwe:Kaonde**\n**hh:s:Moweni:Kikaonde**\n**hh:s:Wright:Kaonde**\n**hh:s:Wright:Kaonde:2007**\n**hh:w:Chanda:Zambian**"
+  },
+  "altnames": {
+    "multitree": "\nChikahonde\nChikaonde\nKaonde\nKawonde\nLuba Kaonde",
+    "lexvo": "\nKaonde [en]",
+    "hhbib_lgcode": "\nKaonde (Kasempa)\nKaonde (Solwezi)\nKaonde L42\nKikaonde\nL41_Kaonde"
+  },
+  "triggers": {
+    "lgcode": "\nkankomba\nkikaonde\nkaonde"
+  },
+  "identifier": {
+    "multitree": "kqn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu** **hh:hv:Ricquier:Lega-Luba**",
+    "subrefs": "\n**hh:hv:Ricquier:Lega-Luba**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kaonde (kqn-kqn) = 4 (Educational). Recognized language (1994, Citizen of Zambia Act, Article 16(2d), Article 17)."
+  }
+}

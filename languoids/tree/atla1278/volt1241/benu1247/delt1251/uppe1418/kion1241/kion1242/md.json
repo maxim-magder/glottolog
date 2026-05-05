@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kiong",
+    "hid": "kkm",
+    "level": "language",
+    "iso639-3": "kkm",
+    "latitude": "5.20497",
+    "longitude": "8.35234",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kiong](https://endangeredlanguages.com/lang/4401)\nhttps://www.wikidata.org/entity/Q6414512\nhttps://en.wikipedia.org/wiki/Kiong_language",
+    "timespan": "2022-01-01/2022-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:austin:08:1**\n**cldf:blench:11:1**\n**cldf:dimmendaal:voeltz:07**\n**cldf:ed:10**\n**cldf:jeffreys:70**\n**cldf:johnston:19:31**\n**cldf:lewis:ed:09**\n**cldf:mensah:12**\n**cldf:np:nd:264**\n**eballiso2009:30087**\n**hh:h:Okon:Kiong**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hel:Sommer:Survey**\n**hh:hv:Dimmendaal:UpperCross**\n**hh:hv:Sterk:Upper-Cross:1990**\n**hh:hvw:Blench:Upper-Cross**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Thomas:Southern-Nigeria**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:ld:Eyo-Ita:Kiong**\n**hh:phon:Henshaw:Kiong**\n**hh:w:Amess:Okonyon**\n**hh:wsoc:Decker:Five-Upper-Cross**"
+  },
+  "altnames": {
+    "multitree": "\nAkayon\nAkoiyang\nIyoniyong\nKiong\nOkonyong\nOkoyong",
+    "lexvo": "\nKiong [en]",
+    "hhbib_lgcode": "\nAkayon\nKiong (Ndoduo/Okoyong)\nKioŋ\nOkonyon\nOkonyon/O-Koyon\nOkoyong",
+    "elcat": "\nAkayon\nAkoiyang\nIyoniyong\nKiong\nOkonyong\nOkoyong"
+  },
+  "triggers": {
+    "lgcode": "\nokonyon"
+  },
+  "identifier": {
+    "multitree": "kkm",
+    "endangeredlanguages": "4401"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sterk:Upper-Cross**:60 **hh:hv:Dimmendaal:UpperCross**",
+    "subrefs": "\n**hh:hv:Sterk:Upper-Cross**\n**hh:hv:Dimmendaal:UpperCross**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "RogerBlench",
+    "date": "2017-03-09T08:16:16",
+    "comment": "Kiong (kkm-kkm) = 10 Extinct"
+  }
+}

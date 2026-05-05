@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Masaaba",
+    "hid": "myx",
+    "level": "language",
+    "iso639-3": "myx",
+    "latitude": "1.05906",
+    "longitude": "34.2829",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "UG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Masaba_language\nhttps://phoible.org/languages/masa1299\nhttps://www.wikidata.org/entity/Q3740241"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:roscoe:15**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:10632**\n**eballiso2009:13855**\n**eballiso2009:15589**\n**eballiso2009:19348**\n**eballiso2009:19351**\n**eballiso2009:19684**\n**eballiso2009:19890**\n**eballiso2009:24724**\n**eballiso2009:25893**\n**eballiso2009:27158**\n**eballiso2009:28707**\n**eballiso2009:30148**\n**eballiso2009:30149**\n**eballiso2009:30529**\n**eballiso2009:33877**\n**eballiso2009:33914**\n**eballiso2009:38307**\n**eballiso2009:44593**\n**eballiso2009:47335**\n**eballiso2009:4737**\n**eballiso2009:48971**\n**eballiso2009:49563**\n**eballiso2009:50194**\n**eballiso2009:52240**\n**eballiso2009:52938**\n**eballiso2009:54765**\n**eballiso2009:55769**\n**eballiso2009:5771**\n**eballiso2009:58345**\n**eballiso2009:7364**\n**eballiso2009:8907**\n**hh:d:Siertsema:Masaba**\n**hh:e:Heald:Gisu**\n**hh:e:LaFontaine:Gisu**\n**hh:e:Stigler:Ugandas**\n**hh:he:Roscoe:Northern-Bantu**\n**hh:hew:Hobley:EUganda**\n**hh:hew:Roscoe:Bagesu**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvtyp:Philippson:OBantu:Tons**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:hw:Johnston:Uganda:2**\n**hh:phon:Bogren:Ulubuya**\n**hh:phon:Brown:Lumasaaba**\n**hh:phon:Brown:Lumasaaba:1971**\n**hh:s:Purvis:Lumasaba**\n**iso6393:2007-025**"
+  },
+  "altnames": {
+    "multitree": "\nGisu\nLugisu\nLumasaba\nMasaaba\nMasaba",
+    "lexvo": "\nJęzyk masaba [pl]\nLíngua masaba [pt]\nMasaaba [en]\nMasaba language [en]",
+    "hhbib_lgcode": "\nBageshu\nBagesu\nDadiri (North LuMasaaba)\nGisu\nJE31_Lumasaaba\nKetosh\nLuDadiri\nLuGisu\nLuGisu around Nabumali (centre of the CMS mission about about eight miles south of Mbele in the Central area)\nLufumbo\nLukonde (N.W.~Elgon)\nLukonde of NW Elgon\nLumasaba\nLumasaba (same dialect as Purvis 1907)\nLusokwia and Lugesu (Masaba)\nMainly Luhugu\nMasaba\nMasawa\nS. LuMasaaba\nSouth LuMasaaba\nUlubuya"
+  },
+  "triggers": {
+    "lgcode": "\nmasaba\nvigilante\nlumieres\ngishu\nstoneham\nbagesu\ngisu\nbageshu\nlumasaaba\nlumasaba\nlugisu\nladverbe\nmbodomo"
+  },
+  "identifier": {
+    "multitree": "myx"
+  },
+  "classification": {
+    "sub": "**hh:phon:Brown:Lumasaaba:1971**:182-251 **hh:g:Austen:Bukusu**:1-33",
+    "subrefs": "\n**hh:g:Austen:Bukusu**\n**hh:phon:Brown:Lumasaaba:1971**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Masaaba (myx-myx) = 4 (Educational)."
+  }
+}

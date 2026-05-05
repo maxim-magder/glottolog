@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Nyore",
+    "hid": "nyd",
+    "level": "language",
+    "iso639-3": "nyd",
+    "latitude": "0.07523",
+    "longitude": "34.6166",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Nyole_language_(Kenya)\nhttps://www.wikidata.org/entity/Q7071227"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:28707**\n**eballiso2009:42506**\n**hh:e:Kweya:Abanyole**\n**hh:hv:Schoenbrun:Great-Lakes-Bantu:1994**\n**hh:hvtyp:Kanyoro:Abaluyia**\n**hh:hvw:Schoenbrun:Great-Lakes-Bantu**\n**hh:v:Ochilo:Lunyore**\n**iso6393:2007-163**"
+  },
+  "altnames": {
+    "multitree": "\nLunyole\nLunyore\nNyole\nNyoole\nNyore\nOlunyole\nOlunyore",
+    "lexvo": "\nNyore [en]\nOlunyole [en]",
+    "hhbib_lgcode": "\nAbanyole\nLuNyole\nLunyore\nNYO\nOlunyole"
+  },
+  "triggers": {
+    "lgcode": "\nlunyole"
+  },
+  "identifier": {
+    "multitree": "nyd"
+  },
+  "classification": {
+    "sub": "**hh:hv:MohligHeine:Kenya**:32",
+    "subrefs": "\n**hh:hv:MohligHeine:Kenya**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Olunyole (nyd-nyd) = 5 (Developing)."
+  }
+}

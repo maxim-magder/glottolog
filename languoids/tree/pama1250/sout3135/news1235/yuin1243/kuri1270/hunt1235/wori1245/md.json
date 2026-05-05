@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Worimi",
+    "hid": "kda",
+    "level": "language",
+    "iso639-3": "kda",
+    "latitude": "-32.4806",
+    "longitude": "152.107",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Warrimay](https://collection.aiatsis.gov.au/austlang/language/e2)\nhttps://en.wikipedia.org/wiki/Gathang_language\nhttps://phoible.org/languages/wori1245\nhttps://www.wikidata.org/entity/Q3914062",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2020**\n**hh:e:Enright:Kattang**\n**hh:e:Enright:Worimi:1936**\n**hh:hvw:Waferetal:New-South-Wales**\n**hh:s:Enright:Port-Stephens**\n**hh:s:Holmer:Kattang-Thangatti**\n**hh:std:Lissarrague:Gathang**\n**hh:w:Branch:Port-Macquarie**\n**hh:w:Wingham:Manning-River**\n**ozbib:1199**\n**ozbib:1881**\n**ozbib:1883**\n**ozbib:2923**\n**ozbib:2929**\n**ozbib:5086**\n**ozbib:6656**\n**ozbib:6938**\n**ozbib:7109**\n**ozbib:726**"
+  },
+  "altnames": {
+    "multitree": "\nBahree\nBirbay\nBiribi\nBirippi\nBirpai\nBirrapee\nBirripai\nBirrpayi\nBripi\nCarapath\nCottong\nGadang\nGadhang\nGadjang\nGingai\nGooreenggai\nGringai\nGutthan\nKarrapath\nKattang\nKutthack\nKutthung\nMolo\nPort Stephens tribe\nPt. Stevens tribe\nWannungine\nWarimi\nWarramie\nWarrangine\nWarrimay\nWarrimee\nWatthungk\nWattung\nWorimi",
+    "lexvo": "\nLenga worimi [pms]\nWorimi [en]\nWorimi language [en]",
+    "hhbib_lgcode": "\nBirrbay\nGathang\nKattang\nKutthung\nLower North Coast language",
+    "aiatsis": "\nBahree\nCarapath\nGadang\nGringai\nGutthan\nKarrapath\nKattang\nKutthung\nMolo\nWannungine\nWarimi\nWarrangine\nWarrimay\nWarrimay tribe\nWarrimee\nWarrimi\nWorimi"
+  },
+  "triggers": {
+    "lgcode": "\ngathang\nguringay\nworimi\nbirrbay\nwarrimay"
+  },
+  "identifier": {
+    "multitree": "wori;kda"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Waferetal:New-South-Wales**",
+    "subrefs": "\n**hh:hvw:Waferetal:New-South-Wales**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Worimi (kda-kda) = 9 (Dormant)."
+  }
+}

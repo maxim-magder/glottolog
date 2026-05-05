@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Northeastern Dinka",
+    "hid": "dip",
+    "level": "language",
+    "iso639-3": "dip",
+    "latitude": "9.27995",
+    "longitude": "31.8392",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "SS"
+    ],
+    "links": "\nhttps://phoible.org/languages/nort2815\nhttps://www.wikidata.org/entity/Q36246"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Bedri:Padang-Dinka**\n**hh:e:Beswick:Sudan**\n**hh:e:Deng:Dinka**\n**hh:e:Howell:Ngork-Dinka**\n**hh:hlddial:Jok:Dinka**\n**hh:hwdial:RoettgerRoettger:Dinka**\n**hh:typ:Remijsen:Ageer-Dinka**\n**hh:vphon:Blum:West-Nilotic**\n**hh:w:Blench:Dinka**\n**mpieva:Mitterutzer1993DieDinka**\n**mpieva:Nebel2005DinkaEng**\n**sil16:22104**\n**sil16:31545**\n**sil16:44660**\n**sil16:44806**\n**sil16:48949**"
+  },
+  "altnames": {
+    "wals": "\nDinka",
+    "ruhlen (1987)": "\nJieng (Dinka)",
+    "moseley & asher (1994)": "\nnot specified",
+    "multitree": "\nAgar\nDinka\nDinka, Northeastern\nNord-Dinka\nNortheastern Dinka\nPadang\nWhite Nile Dinka",
+    "lexvo": "\nNortheastern Dinka [en]",
+    "hhbib_lgcode": "\nAbialang\nAbilang-Paloich-Domol\nAbiliang\nAgeer Dinka\nDinka-Northeastern\nDongjol\nDongjol (Don)\nLuac\nNgok\nNgok Dinka\nNgok-Sobat\nNgork Dinka\nNorthern Dinka\nPadang\nPadang Dinka"
+  },
+  "triggers": {
+    "lgcode": "\nawarek\nmalual"
+  },
+  "identifier": {
+    "wals": "din",
+    "multitree": "dip"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dinka, Northeastern (dip-dip) = 5 (Developing). Recognized language (2011, Transitional Constitution, Article 6(1)), primary education, literacy efforts."
+  }
+}

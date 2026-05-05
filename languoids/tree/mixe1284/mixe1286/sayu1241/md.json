@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Sayula Popoluca",
+    "hid": "pos",
+    "level": "language",
+    "iso639-3": "pos",
+    "latitude": "17.8606",
+    "longitude": "-94.9531",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Sayula Popoluca](https://endangeredlanguages.com/lang/5286)\n[Sayula Popoluca](https://lexibank.clld.org/languages/wichmannmixezoquean-SayulaPopoluca)\n[Sayula Popoluca](https://wals.info/languoid/lect/wals_code_say)\nhttps://en.wikipedia.org/wiki/Sayula_Popoluca\nhttps://phoible.org/languages/sayu1241\nhttps://www.wikidata.org/entity/Q5908722"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:385**\n**cldf:adelaar:07:2**\n**cldf:clark:77:2**\n**cldf:clark:clark:60**\n**cldf:clark:declark:74**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Clark:Popoluca-Sayula**\n**hh:e:Guiteras:Sayula**\n**hh:s:Clark:Sayula**\n**hh:s:Morales:Popoluca-Veracruz**\n**hh:sd:ClarkClark:Popoluca**\n**hh:std:Clark:Sayula**\n**hh:typ:Clark:Sayula**\n**hh:w:Calderon:Sayula-Oluta-Texistepec**\n**ldh:item_408033**\n**mpieva:Clark1995Vocabula**\n**sil16:10419**\n**sil16:10422**\n**sil16:10423**\n**sil16:15501**\n**sil16:15502**\n**sil16:44953**"
+  },
+  "altnames": {
+    "wals": "\nSayultec",
+    "wals other": "\nSayula Popoluca",
+    "moseley & asher (1994)": "\nSayula",
+    "multitree": "\nPopoluca (Sayula)\nPopoluca de Sayula\nPopoluca, Sayula\nSayula\nSayula Mijean\nSayula Popoluca\nSayultec\nSayulteko",
+    "lexvo": "\nSayula Popoluca [en]",
+    "hhbib_lgcode": "\nPopoluca Sayula\nSayula",
+    "elcat": "\nPopoluca\nPopoluca (Sayula)\nPopoluca de Sayula\nSayula\nSayula Mixean\nSayula Popoluca\nSayulateco\nSayultec"
+  },
+  "triggers": {
+    "lgcode": "\nuncovered\nsayula\nNOT with AND sayula"
+  },
+  "identifier": {
+    "wals": "say",
+    "multitree": "pos",
+    "endangeredlanguages": "5286"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wichmann:Mixe-Zoquean**",
+    "subrefs": "\n**hh:hv:Wichmann:Mixe-Zoquean**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sayula Popoluca (5286-pos) = Threatened (20 percent certain, based on the evidence available) [Adelaar 2007](cldf:adelaar:07:2)"
+  }
+}

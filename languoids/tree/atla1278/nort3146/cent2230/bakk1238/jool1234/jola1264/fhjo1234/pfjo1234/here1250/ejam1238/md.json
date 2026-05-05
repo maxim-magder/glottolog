@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Ejamat",
+    "hid": "eja",
+    "level": "language",
+    "iso639-3": "eja",
+    "latitude": "12.3355",
+    "longitude": "-16.515",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GW",
+      "SN"
+    ],
+    "links": "\n[Ejamat](https://endangeredlanguages.com/lang/7712)\nhttps://en.wikipedia.org/wiki/Jola-Felupe_language\nhttps://www.wikidata.org/entity/Q6269820"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bernatzik:33**\n**cldf:childs:06**\n**cldf:cunhataborde:50**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Julliard:Felup-Ajamat**\n**hh:g:Assine:Kusaanuwaay**\n**hh:hvw:Barry:Joola**\n**hh:phontyp:Assine:Kusaanuwaay**\n**hh:w:CarltonRand:Diola**\n**hh:wsoc:CarltonRand:Diolas**"
+  },
+  "altnames": {
+    "multitree": "\nEdiamat\nEjamat\nEyamat\nFeloup\nFelup\nFelupe\nFloup\nFlup\nFulup",
+    "lexvo": "\nEjamat [en]",
+    "hhbib_lgcode": "\nEdiamat-Efok\nEdiamat-Youtou\nEf Efok\nEfok-Ediamat\nFelup-Ajamat\nFulup\nJola-Felupe\nKusaanuwaay de Suzana in São Domingos in GB\nYoutou-Ediamat",
+    "elcat": "\nEdiamat\nEjamat\nFeloup\nFelup\nFelupe\nFloup\nFlup\nFulup"
+  },
+  "triggers": {
+    "lgcode": "\nNOT des AND parlons AND jola"
+  },
+  "identifier": {
+    "multitree": "eja",
+    "endangeredlanguages": "7712"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ejamat (7712-eja) = Vulnerable (20 percent certain, based on the evidence available) (Seriously threatened and doomed to extinction in the near future.) [Childs 2006](cldf:childs:06)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Tugutil",
+    "hid": "tuj",
+    "level": "language",
+    "iso639-3": "tuj",
+    "latitude": "0.5806",
+    "longitude": "128.223",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Tugutil_language\nhttps://www.wikidata.org/entity/Q12953228"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Martodirjo:Tugutil**\n**hh:e:Martodirjo:Tugutil:1991**\n**hh:e:Martodirjo:Tugutil:1992**\n**hh:h:Taber:Maluku**\n**hh:hv:GrimesGrimes:NMoluccas**\n**hh:hv:Voorhoeve:NMoluccas**"
+  },
+  "altnames": {
+    "multitree": "\nIndonesia\nTugutil",
+    "lexvo": "\nTugutil [en]",
+    "hhbib_lgcode": "\nTobelo incl Tugutil\nTugutil Wasilei"
+  },
+  "triggers": {
+    "lgcode": "\ntugutil"
+  },
+  "identifier": {
+    "multitree": "tuj"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesGrimes:NMoluccas**:51-54",
+    "subrefs": "\n**hh:hv:GrimesGrimes:NMoluccas**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tugutil (tuj-tuj) = 6b* (Threatened)."
+  }
+}

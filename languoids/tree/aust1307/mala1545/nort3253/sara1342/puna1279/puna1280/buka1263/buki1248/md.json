@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Bukitan",
+    "hid": "bkn",
+    "level": "language",
+    "iso639-3": "bkn",
+    "latitude": "2.34947",
+    "longitude": "114.895",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3446774\nhttps://en.wikipedia.org/wiki/Bukitan_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:freeman:nd**\n**hh:e:Chan:Punan-Vuhang**\n**hh:e:Ellis:Punan-Busang**\n**hh:e:Harrisson:Borneo-Nomads**\n**hh:h:Sellato:Forest-Nomads**\n**hh:he:SellatoSercombe:Borneo-Hunter-Gatherer**\n**hh:hew:Hildebrand:Borneos**\n**hh:hv:Rensch:Central-Sarawak**\n**hh:hvw:MohamedYusof:Sarawak:**\n**hh:hvw:Smith:Borneo**\n**hh:hw:Ray:Borneo**\n**hh:hw:vanKessel:Kapoeas**\n**hh:w:Kaboy:Punan**\n**hh:w:Urquhart:Interior-Dialects**"
+  },
+  "altnames": {
+    "multitree": "\nBakatan\nBakitan\nBeketan\nBukitan\nMangkettan\nManketa\nPakatan",
+    "lexvo": "\nBukitan [en]",
+    "hhbib_lgcode": "\n= Bukitan\nBakatan\nBaketan\nBeketan\nBusang\nLisum\nManketa\nManketan\nPoenans en Mankettans\nPunan Busang\nPunan Lisum\nPunan Vuhang"
+  },
+  "triggers": {
+    "lgcode": "\nbusang\nvuhang"
+  },
+  "identifier": {
+    "multitree": "bkn"
+  },
+  "classification": {
+    "sub": "**hh:he:SellatoSercombe:Borneo-Hunter-Gatherer**:12 **hh:hvld:SellatoSoriente:Muller**",
+    "subrefs": "\n**hh:he:SellatoSercombe:Borneo-Hunter-Gatherer**\n**hh:hvld:SellatoSoriente:Muller**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bukitan (bkn-bkn) = 6b (Threatened)."
+  }
+}

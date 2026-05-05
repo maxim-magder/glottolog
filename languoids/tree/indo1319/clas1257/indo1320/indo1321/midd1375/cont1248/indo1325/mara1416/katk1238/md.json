@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Katkari",
+    "hid": "kfu",
+    "level": "language",
+    "iso639-3": "kfu",
+    "latitude": "18.20687",
+    "longitude": "73.287713",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6377671\nhttps://en.wikipedia.org/wiki/Katkari_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Gare:Katkaris**\n**hh:e:Mackintosh:Kattouries**\n**hh:e:Mulock:Kathkaris**\n**hh:e:Phadke:Katkari**\n**hh:e:Tribal:Katkari**\n**hh:gtd:Kulkarni:Katkari**\n**hh:he:Enthoven:Bombay**\n**hh:he:Wilson:Bombay**\n**hh:hvw:Grierson:7**\n**hh:ld:Kulkarni:Katkari**\n**hh:s:Abbott:Katkari**"
+  },
+  "altnames": {
+    "multitree": "\nKatakari\nKatari\nKathodi\nKatkari\nKatvadi",
+    "lexvo": "\nKatkari [en]",
+    "hhbib_lgcode": "\nKathodi\nKatkaris\nKatodis\nKattouries\nKáthkaris"
+  },
+  "triggers": {
+    "lgcode": "\nkatkari"
+  },
+  "identifier": {
+    "multitree": "kfu"
+  },
+  "classification": {
+    "sub": "**hh:s:Abbott:Katkari**:78-82 **hh:gtd:Kulkarni:Katkari**:22-23 **hh:hv:Southworth:Marathi-Konkani**",
+    "subrefs": "\n**hh:gtd:Kulkarni:Katkari**\n**hh:s:Abbott:Katkari**\n**hh:hv:Southworth:Marathi-Konkani**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Katkari (kfu-kfu) = 6a* (Vigorous)."
+  }
+}

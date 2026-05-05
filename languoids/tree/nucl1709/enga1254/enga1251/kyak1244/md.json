@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Kyaka",
+    "hid": "kyc",
+    "level": "language",
+    "iso639-3": "kyc",
+    "latitude": "-5.52462",
+    "longitude": "144.119",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kyaka](https://lexibank.clld.org/languages/transnewguineaorg-kyaka)\n[Kyaka](https://wals.info/languoid/lect/wals_code_kyk)\nhttps://en.wikipedia.org/wiki/Kyaka_language\nhttps://www.wikidata.org/entity/Q12952690"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4035**\n**hh:e:Bulmer:Kyaka**\n**hh:e:Bulmer:Kyaka-Enga:1960**\n**hh:hv:Franklin:Engan**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvw:DaviesComrie:Yuat**\n**hh:sd:DraperDraper:Kyaka-Enga**"
+  },
+  "altnames": {
+    "wals": "\nKyaka",
+    "wals other": "\nEnga (Kyaka)\nKyaka Enga",
+    "ruhlen (1987)": "\nEnga",
+    "moseley & asher (1994)": "\nEnga",
+    "multitree": "\nBaiyer\nEnga-Kyaka\nKyaka",
+    "lexvo": "\nKyaka [en]",
+    "hhbib_lgcode": "\nKyaka Enga"
+  },
+  "triggers": {
+    "lgcode": "\nkyaka"
+  },
+  "identifier": {
+    "wals": "kyk",
+    "multitree": "kyc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Franklin:Engan**",
+    "subrefs": "\n**hh:hv:Franklin:Engan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kyaka (kyc-kyc) = 5* (Developing)."
+  }
+}

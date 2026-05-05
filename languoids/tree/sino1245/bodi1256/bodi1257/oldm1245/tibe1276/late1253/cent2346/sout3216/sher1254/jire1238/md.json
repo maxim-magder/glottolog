@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Jirel",
+    "hid": "jul",
+    "level": "language",
+    "iso639-3": "jul",
+    "latitude": "27.6931",
+    "longitude": "86.3201",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Jirel](https://endangeredlanguages.com/lang/4340)\n[Tibetan (Jirel)](https://lexibank.clld.org/languages/halenepal-JirelTibetan)\nhttps://en.wikipedia.org/wiki/Jirel_language\nhttps://www.wikidata.org/entity/Q56863"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:hale:73:1**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:MaibaumStrahm:Jirel**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Nishi:Tibetan-Nepal**\n**hh:hvw:Bielmeier:Tibetan**\n**hh:hw:Hale:Nepal**\n**hh:phon:MaibaumStrahm:Jirel**\n**hh:t:MaibaumStrahm:Jirel**\n**hh:wsoc:Kansakar:Jirel**\n**ldh:item_2152218**\n**ldh:item_2152221**\n**ldh:item_2152224**\n**ldh:item_408234**\n**mpieva:268**\n**sil16:10016**\n**sil16:10017**\n**sil16:12107**\n**sil16:12423**\n**sil16:16640**\n**sil16:21621**\n**sil16:24546**\n**sil16:26453**\n**sil16:26456**\n**sil16:41773**\n**sil16:41777**\n**sil16:46220**\n**sil16:47772**\n**sil16:47773**\n**sil16:47774**\n**sil16:47775**\n**sil16:47776**"
+  },
+  "altnames": {
+    "multitree": "\nJirel\nJiri\nJirial\nZiral",
+    "lexvo": "\nJirel [en]",
+    "elcat": "\nJirel\nJiri\nJirial\nZiral"
+  },
+  "triggers": {
+    "lgcode": "\nkathaa\njirel\ndebakii\nbire"
+  },
+  "identifier": {
+    "multitree": "jul",
+    "endangeredlanguages": "4340"
+  },
+  "classification": {
+    "sub": "**hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Jirel (4340-jul) = Threatened (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

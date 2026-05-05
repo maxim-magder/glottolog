@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Libyan Arabic",
+    "hid": "ayl",
+    "level": "language",
+    "iso639-3": "ayl",
+    "latitude": "22.0032",
+    "longitude": "15.0014",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "EG",
+      "LY",
+      "NE"
+    ],
+    "links": "\n[Arabic (Eastern Libyan)](https://wals.info/languoid/lect/wals_code_ael)\n[Libyan Arabic](https://grambank.clld.org/languages/liby1240)\nhttps://en.wikipedia.org/wiki/Libyan_Arabic\nhttps://phoible.org/languages/liby1240\nhttps://www.wikidata.org/entity/Q56503"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:evans-pritchard:49:2**\n**eballiso2009:1191**\n**eballiso2009:12256**\n**eballiso2009:12311**\n**eballiso2009:12312**\n**eballiso2009:12313**\n**eballiso2009:13860**\n**eballiso2009:14905**\n**eballiso2009:15496**\n**eballiso2009:16949**\n**eballiso2009:17559**\n**eballiso2009:2687**\n**eballiso2009:31649**\n**eballiso2009:3242**\n**eballiso2009:39544**\n**eballiso2009:4262**\n**eballiso2009:43120**\n**eballiso2009:56854**\n**eballiso2009:59246**\n**eballiso2009:8425**\n**hh:b:Benkato:Libya**\n**hh:d:Panetta:Bengasi**\n**hh:g:Abdunnabi:Libyan-Arabic**\n**hh:g:Elfitoury:Libyan-Arabic**\n**hh:g:Harrama:Libyan-Arabic**\n**hh:g:Iannotta:Cirenaica**\n**hh:g:Owens:Easten-Libyan-Arabic**\n**hh:g:Pereira:Arabe-Tripoli**\n**hh:g:Pereira:Arabe-Tripoli:2010**\n**hh:gt:Panetta:Bengasi**\n**hh:h:Caubet:Fezzan**\n**hh:hld:Zavadovskij:Magriba**\n**hh:hvsoc:Pereira:Arabe-Maghrebin**\n**hh:phon:Abumdas:Libyan-Arabic**\n**hh:s:Ali:Misurata**\n**hh:s:Geist:Tripoli:1980**\n**hh:s:Matera:Cirenaica**\n**hh:s:Pereira:Arabe-Tripoli:2001**\n**hh:s:Pereira:Zadu**\n**hh:sd:Curotti:Libico**\n**hh:soc:Geist:Tripoli**\n**hh:st:Cesaro:Arabo-Tripoli**\n**hh:st:Marcais:Fezzan**\n**hh:std:Trombetti:Libico**\n**hh:sv:Benkato:Benghazi**\n**hh:typ:Aurayieth:Libyan-Arabic**\n**hh:typ:Benmoftah:Khums**\n**hh:typ:Nikolava:Libiyskiya**\n**hh:typd:Griffini:Arabo-Libia**\n**hh:v:Vella:Maltese-Libyan**\n**mpieva:Jiha1964Derarabi**"
+  },
+  "altnames": {
+    "wals": "\nArabic (Eastern Libyan)",
+    "wals other": "\nArabic (Cyrenaican Libyan)\nArabic (East Libyan)",
+    "moseley & asher (1994)": "\nArabic (Western)",
+    "multitree": "\nArabic\nArabic, Libyan Spoken\nBedawi\nLibyan Arabic\nLibyan Spoken Arabic\nLibyan Vernacular Arabic\nMaghrebi Arabic\nMaghrebine\nSulaimitian\nSulaimitian Arabic",
+    "lexvo": "\nArabeg Libia [br]\nLibijski arapski [hr]\nLibyan Arabic [en]\nÁrabe libio [es]\nÁrabe líbio [pt]\nЛибиски арапски јазик [mk]\nلهجة ليبية [ar]",
+    "hhbib_lgcode": "\nAl-Bayda in Eastern Libya\nAl-Khums in Coastal Tripolitanian between Tripoli and Misrata\nArabic-Libyan Spoken\nArabo parlato della Libia (Cirenaican)\nBengasi\nBenghazi (Libya)\nBenghazi and Eastern Libya\nCirenaican Libico Arabic\nDawada\nDawwada\nDerna\nEastern Libyan Arabic\nFezzân\nLibyan Spoken Arabic\nLivia\nMisurata\nNafusa Arabic\nNomades Fezzân\nSedentaires Fezzân\nSouthern Libyan Arabic\nTripoli\nTripoli Arabic\nTripoli and Western Libya\nTripolitanian Arabic\nWestern Libyan Arabic\nZliten in Western Libya"
+  },
+  "triggers": {
+    "lgcode": "\nisrael\ncyrenaica\nlibyans\ntripolino\nlibye\narabic AND libyan\nbengasi\noltre\ntripolitanean\nunteragypten"
+  },
+  "identifier": {
+    "wals": "ael",
+    "multitree": "ayl"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pereira:Arabic-North-African**",
+    "subrefs": "\n**hh:hv:Pereira:Arabic-North-African**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Libyan (ayl-ayl) = 3 (Wider communication). De facto national working language. Shaped by the Sulaimi migration and the migration of Arabs to the Maghreb in 1492 following the Reconquista; spoken throughout northeastern Africa. Used as a lingua franca by Libyans whose L1 is not Arabic. Used in spoken communication in Libya, folk poetry, entertainment, and written communication online."
+  }
+}

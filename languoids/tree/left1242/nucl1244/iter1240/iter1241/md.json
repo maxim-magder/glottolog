@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Iteri",
+    "hid": "itr",
+    "level": "language",
+    "iso639-3": "itr",
+    "latitude": "-4.11998",
+    "longitude": "141.585",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Iteri](https://endangeredlanguages.com/lang/4312)\nhttps://www.wikidata.org/entity/Q2083185\nhttps://en.wikipedia.org/wiki/Iteri_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:hv:Laycock:Sepik**\n**hh:hv:Laycock:SkoKwomtariLeftMay**\n**hh:hvw:ConradDye:USepik**\n**hh:nt:Buser:Bolta**\n**hh:w:Laycock:D1**\n**hh:w:Laycock:D16**\n**hh:w:Laycock:D28**"
+  },
+  "altnames": {
+    "multitree": "\nAlowiemino\nIteri\nIyo\nLaro\nRocky Peak\nYinibu",
+    "lexvo": "\nIteri [en]\nIteri language [en]",
+    "hhbib_lgcode": "\nLaro village near Asowi (May River)\nRocky Peak\nYenabi wordlist from patrol report\nYinibu",
+    "elcat": "\nAlowiemino\nIteri\nIyo\nLaro\nRocky Peak\nYinibu"
+  },
+  "identifier": {
+    "multitree": "itr",
+    "endangeredlanguages": "4312"
+  },
+  "classification": {
+    "sub": "**hh:hvw:ConradDye:USepik**",
+    "subrefs": "\n**hh:hvw:ConradDye:USepik**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Iteri (4312-itr) = Endangered (20 percent certain, based on the evidence available) [Laycock 1973](cldf:laycock:73)"
+  }
+}

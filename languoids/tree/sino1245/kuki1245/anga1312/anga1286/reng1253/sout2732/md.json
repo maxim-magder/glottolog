@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Southern Rengma Naga",
+    "hid": "nre",
+    "level": "language",
+    "iso639-3": "nre",
+    "latitude": "26.1178",
+    "longitude": "94.6853",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Rengma](https://lexibank.clld.org/languages/marrisonnaga-Rengma)\n[Southern Rengma Naga](https://endangeredlanguages.com/lang/5686)\nhttps://en.wikipedia.org/wiki/Rengma_language\nhttps://www.wikidata.org/entity/Q7313205"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:ed:10**\n**cldf:longmailai:langthasa:etal:20**\n**hh:d:Kumar:Rengma**\n**hh:etyp:Mills:Rengma**\n**hh:g:Longmailai:Dimasa**\n**hh:h:Longmailai:Western-Rengma**\n**hh:hvw:Grierson:3:II**\n**hh:hvw:Marrison:Naga**\n**hh:ld:EzungWalling:Naga**\n**hh:ld:Kumar:Rengma**\n**hh:typ:Longmailai:Western-Rengma**"
+  },
+  "altnames": {
+    "multitree": "\nInjang\nMoiyui\nMon\nMozhumi\nNaga, Southern Rengma\nNaga,SouthernRengma\nNzong\nNzonyu\nRengma\nRengma Naga\nRengma Proper\nSouthern Rengma\nUnza",
+    "lexvo": "\nSouthern Rengma Naga [en]",
+    "hhbib_lgcode": "\nHasao Dimasa of Haflong\nMill's Rengma A\nNaga-Southern Rengma\nNzonkhwe\nRengma\nRengma/Unza\nSouthern Group of Western Rengmas\nTerüpvunyu\nTerüpvunyu\nWestern Rengma",
+    "elcat": "\nCentral Rengma\nInjang\nMoiyui\nMon\nMozhumi\nNzong\nNzonyu\nRengma Naga\nRengma Proper\nSouthern Rengma\nSouthern Rengma Naga\nTerüpvunyu\nUnza\nWestern Rengma"
+  },
+  "triggers": {
+    "lgcode": "\nrengma"
+  },
+  "identifier": {
+    "multitree": "nre",
+    "endangeredlanguages": "5686"
+  },
+  "classification": {
+    "sub": "**hh:hv:Coupe:Overcounting-Nagaland**",
+    "subrefs": "\n**hh:hv:Coupe:Overcounting-Nagaland**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Southern Rengma Naga (5686-nre) = Threatened (100 percent certain, based on the evidence available) [Longmailai et al. 2020](cldf:longmailai:langthasa:etal:20)"
+  }
+}

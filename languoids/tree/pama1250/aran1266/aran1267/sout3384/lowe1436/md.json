@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lower Southern Aranda",
+    "hid": "axl",
+    "level": "language",
+    "iso639-3": "axl",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "longitude": "135.4",
+    "latitude": "-26.3",
+    "links": "\n[Lower Southern Aranda](https://endangeredlanguages.com/lang/6788)\nhttps://www.wikidata.org/entity/Q6693295\nhttps://en.wikipedia.org/wiki/Lower_Arrernte_language\nhttps://phoible.org/languages/lowe1436",
+    "timespan": "2011-01-01/2011-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:12:5**\n**cldf:roberts:53**\n**cldf:schulze:91**\n**hh:ew:Stirling:Central-Australia**\n**hh:hv:Breen:Arandic**\n**hh:hvw:Hale:Arandic**\n**hh:w:Belt:Wychinga**\n**hh:w:LondonMueller:Alice-Springs**\n**hh:w:Warburton:Charlotte-Waters**\n**iso6393:2012-058**"
+  },
+  "triggers": {
+    "lgcode": "\nwychinga\nmacumba"
+  },
+  "classification": {
+    "sub": "**hh:hv:Koch:Arandic** **hh:g:Henderson:Central-Eastern-Arrernte:2013**:10-13",
+    "subrefs": "\n**hh:hv:Koch:Arandic**\n**hh:g:Henderson:Central-Eastern-Arrernte:2013**"
+  },
+  "identifier": {
+    "endangeredlanguages": "6788"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lower Southern Aranda (6788-axl) = Dormant [Bowern 2011](cldf:bowern:11:1)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\n2xDespite the location matches exclusive with\nAranda-Lower Southern\nArunta-Dalhousie Springs\nDespite the location matches exclusive with\nLoAr (Lower Aranda from Dalhousie)\nLower Arrernte\nPertame\nSouthern Arrernte\nfrom Dalhousie)",
+    "elcat": "\nAldolanga\nAldolinga\nAlitera\nAranda\nAranta\nArinta\nArranda\nArrinda\nArrundta\nArrunta\nArunda\nArunndta\nArunta\nArunta Bu\nArunta Ulpma\nEastern Aranda\nLower Aranda\nLower Southern Aranda\nSouthern Aranda\nWestern Aranda"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Amblong",
+    "hid": "alm",
+    "level": "language",
+    "iso639-3": "alm",
+    "latitude": "-15.5169",
+    "longitude": "166.95",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Amblong](https://lexibank.clld.org/languages/abvdoceanic-Amblong)\n[Varavara](https://endangeredlanguages.com/lang/3834)\nhttps://en.wikipedia.org/wiki/Amblong_language\nhttps://www.wikidata.org/entity/Q11022615"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:963**\n**cldf:ed:10**\n**cldf:francois:14:1**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:np:nd:264**\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**"
+  },
+  "altnames": {
+    "multitree": "\nAmblong",
+    "lexvo": "\nAmblong [en]",
+    "hhbib_lgcode": "\nAje",
+    "elcat": "\nAje\nAmblong\nVaravara"
+  },
+  "triggers": {
+    "lgcode": "\nlanguages AND hebrides"
+  },
+  "identifier": {
+    "multitree": "alm",
+    "endangeredlanguages": "3834"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Linguolabial** **hh:hvb:LynchCrowley:Vanuatu**:56-57 **hh:h:Tryon:Espiritu-Santo** **hh:hv:Clark:North-Central-Vanuatu**",
+    "subrefs": "\n**hh:h:Tryon:Espiritu-Santo**\n**hh:hv:Lynch:Linguolabial**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hv:Clark:North-Central-Vanuatu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Varavara (3834-alm) = Endangered (60 percent certain, based on the evidence available) (Children tend not to learn Amblong.) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

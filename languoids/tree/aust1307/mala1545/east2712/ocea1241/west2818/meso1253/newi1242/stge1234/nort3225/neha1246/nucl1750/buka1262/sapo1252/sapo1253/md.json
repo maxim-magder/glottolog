@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Saposa",
+    "hid": "sps",
+    "level": "language",
+    "iso639-3": "sps",
+    "latitude": "-5.64103",
+    "longitude": "154.732",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Saposa](https://grambank.clld.org/languages/sapo1253)\n[Taiof](https://lexibank.clld.org/languages/abvdoceanic-Taiof)\n[Taiof](https://wals.info/languoid/lect/wals_code_taf)\nhttps://en.wikipedia.org/wiki/Saposa_language\nhttps://www.wikidata.org/entity/Q3473187"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lynch:ross:etal:ed:02:27**\n**hh:hv:Ross:WMelanesia**\n**hh:s:Ross:Taiof**\n**sil16:21422**\n**silpng:silpng1956-1990:922**\n**silpng:silpng1991-2000:1866**\n**silpng:silpng1991-2000:1867**\n**silpng:silpng1991-2000:1868**\n**silpng:silpng1991-2000:1869**\n**silpng:silpng1991-2000:1870**\n**silpng:silpng1991-2000:1871**\n**silpng:silpng2001-2003:421**"
+  },
+  "altnames": {
+    "wals": "\nTaiof",
+    "ruhlen (1987)": "\nSaposa",
+    "moseley & asher (1994)": "\nSaposa",
+    "multitree": "\nSaposa\nTaiof",
+    "lexvo": "\nSaposa [en]",
+    "hhbib_lgcode": "\nTaiof"
+  },
+  "triggers": {
+    "lgcode": "\nsiisio\ntatanik\nsaposa\ntaiof"
+  },
+  "identifier": {
+    "wals": "taf",
+    "multitree": "sps"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:215-256",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Saposa (sps-sps) = 7 (Shifting)."
+  }
+}

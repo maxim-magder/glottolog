@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "San Francisco del Mar Huave",
+    "hid": "hue",
+    "level": "language",
+    "iso639-3": "hue",
+    "latitude": "16.2836",
+    "longitude": "-94.5738",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Huave](https://endangeredlanguages.com/lang/4292)\nhttps://www.wikidata.org/entity/Q25559715"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kim:05**\n**hh:g:Kim:Huave**"
+  },
+  "altnames": {
+    "glottolog": "\nSan Francisco Del Mar Huave",
+    "multitree": "\nHuave\nHuave de San Dionisio\nHuave de San Dionisio del Mar\nHuave de San Francisco del Mar\nHuave de San Mateo del Mar\nHuave de Santa María del Mar\nHuave, San Francisco del Mar\nSan Francisco\nWave\nWavi",
+    "lexvo": "\nSan Francisco Del Mar Huave [en]",
+    "hhbib_lgcode": "\nHuave-San Francisco del Mar",
+    "elcat": "\nHuave"
+  },
+  "triggers": {
+    "lgcode": "\ntopics AND huave"
+  },
+  "identifier": {
+    "multitree": "hue",
+    "endangeredlanguages": "4292"
+  },
+  "classification": {
+    "sub": "**hh:g:Kim:Huave**:3 **hh:hvw:Suarez:Huaves** **hh:hvwsoc:Montero:Ombeayiuts**",
+    "subrefs": "\n**hh:hvwsoc:Montero:Ombeayiuts**\n**hh:g:Kim:Huave**\n**hh:hvw:Suarez:Huaves**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Huave (4292) = Vulnerable (20 percent certain, based on the evidence available) [Sánchez et al. 2012](cldf:sanchez:martinez:etal:12)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tezoatlán Mixtec",
+    "hid": "mxb",
+    "level": "language",
+    "iso639-3": "mxb",
+    "latitude": "17.6155",
+    "longitude": "-97.9002",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Tezoatlan Mixtec](https://endangeredlanguages.com/lang/10536)\n[Tezoatlán Mixtec](https://grambank.clld.org/languages/tezo1238)\nhttps://www.wikidata.org/entity/Q3317286"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Williams:Tezoatlan**\n**hh:g:Williams:Texoatlan**\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvld:McKendry:Palatalization-Mixtec**\n**hh:hvw:Josserand:Mixtec**\n**hh:phon:Santos:San-Juan-Dikiyu**\n**hh:phon:Vazquez:Mixteco-Yucuquimi-Ocampo**\n**hh:typ:Williams:Tezoatlan-Mixtec**\n**hh:typ:Williams:Tezoatlan-Mixtec:Motion**\n**mpieva:Ferguson2006Gramatic**\n**sil16:22098**\n**sil16:34866**\n**sil16:44562**\n**sil16:44563**\n**sil16:44564**\n**sil16:44644**\n**sil16:47106**\n**sil16:47113**\n**sil16:47535**\n**sil16:48399**\n**sil16:51062**\n**sil16:51065**"
+  },
+  "altnames": {
+    "glottolog": "\nTezoatlan Mixtec",
+    "multitree": "\nMixtec, Tezoatlán\nMixteco de Tezoatlán de Segura y Luna\nNorthern Misteko\nNorthern Mixteco",
+    "lexvo": "\nTezoatlán Mixtec [en]",
+    "hhbib_lgcode": "\n130 Yucunuti Benito Juarez Mixtec Josserand 1983\n131 Yucuquimi Ocampo Mixtec Swanton and Mendoza Ruíz 2021; Josserand 1983\n29 SanAndresYutatioMixtec Mixtec Williams et al. 2017\nMixtec San Jan Dikiyú\nMixtec San Juan Diquiyú\nMixtec-Tezoatlán\nMixteco de Yucuquimi de Ocampo\nSan Andrés Yutatío\nSanta María Yucuquimi de Ocampo\nSanta María Yucuñuti de Benito Juárez\nTezoatlán (TEZ)\nYucq\nYucñ",
+    "elcat": "\nCacaloxtepec Mixtec\nHuajuapan Mixtec\nMixteco de Cacaloxtepec\nMixteco de Tezoatlán de Segura y Luna\nTezoatlan Mixtec\nTezoatlán Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nzorrillo\ntezoatlan\nimplicaciones\ndetezoatlan\ndikiyu\nndiguei"
+  },
+  "identifier": {
+    "multitree": "mxb",
+    "endangeredlanguages": "10536"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:18-20 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tezoatlan Mixtec (10536) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

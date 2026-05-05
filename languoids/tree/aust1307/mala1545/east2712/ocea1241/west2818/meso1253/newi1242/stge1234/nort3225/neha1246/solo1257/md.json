@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Solos",
+    "hid": "sol",
+    "level": "language",
+    "iso639-3": "sol",
+    "latitude": "-5.41042",
+    "longitude": "154.624",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Solos](https://lexibank.clld.org/languages/abvdoceanic-Solos)\nhttps://en.wikipedia.org/wiki/Solos_language\nhttps://www.wikidata.org/entity/Q3489591"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:ayres:etal:75**\n**cldf:blackwood:35**\n**cldf:calculator:14**\n**cldf:clark:08:1**\n**cldf:cribb:00**\n**cldf:np:14:5**\n**cldf:ogan:91**\n**cldf:regan:05**\n**cldf:yule:95**\n**hh:hv:Ross:WMelanesia**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schellong:Worterverzeichnisse**\n**hh:w:Ray:Salomon**\n**silpng:silpng1991-2000:1920**\n**silpng:silpng1991-2000:1921**"
+  },
+  "altnames": {
+    "multitree": "\nSolos",
+    "lexvo": "\nSolos [en]",
+    "hhbib_lgcode": "\nBuka\nGreen-Island taken up from a native on a trading vessel\nvillage Lehona on Buka in the Solomos"
+  },
+  "triggers": {
+    "lgcode": "\nhapita\nhahatania"
+  },
+  "identifier": {
+    "multitree": "solo;sol"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:WMelanesia**:215-256",
+    "subrefs": "\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Solos (sol-sol) = 6b (Threatened)."
+  }
+}

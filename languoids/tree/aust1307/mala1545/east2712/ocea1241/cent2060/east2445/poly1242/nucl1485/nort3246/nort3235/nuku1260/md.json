@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Nukuoro",
+    "hid": "nkr",
+    "level": "language",
+    "iso639-3": "nkr",
+    "latitude": "3.84",
+    "longitude": "154.975",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM"
+    ],
+    "links": "\n[Nukuoro](https://endangeredlanguages.com/lang/4873)\n[Nukuoro](https://grambank.clld.org/languages/nuku1260)\n[Nukuoro](https://lexibank.clld.org/languages/abvdoceanic-Nukuoro)\n[Nukuoro](https://wals.info/languoid/lect/wals_code_nkr)\nhttps://en.wikipedia.org/wiki/Nukuoro_language\nhttps://www.wikidata.org/entity/Q2635961"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:calculator:14**\n**cldf:carroll:75**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:eilers:34:2**\n**cldf:lewis:ed:09**\n**cldf:np:14:5**\n**cldf:np:nd:264**\n**cldf:stolz:96**\n**hh:d:CarrollSoulik:Nukuoro**\n**hh:e:Carroll:Nukuoro**\n**hh:g:Drummond:Nukuoro**\n**hh:h:Drummond:Nukuoro**\n**hh:he:Eilers:Ponape**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:Ray:Polynesian:1912-1921**\n**hh:s:Carroll:Nukuoro**\n**hh:t:Carroll:Nukuoro**\n**hh:w:Christian:Nukuoro**"
+  },
+  "altnames": {
+    "wals": "\nNukuoro",
+    "wals other": "\nNuguor\nNukoro\nNukuoru",
+    "ruhlen (1987)": "\nNukuoro",
+    "moseley & asher (1994)": "\nNukuoro",
+    "multitree": "\nNuguor\nNukoro\nNukuoro",
+    "lexvo": "\nLingua Nukuoro [it]\nNukuoro [en]\nNukuoro kalba [lt]\nNukuoro language [en]\nNukuoron kieli [fi]",
+    "hhbib_lgcode": "\nNukuor",
+    "elcat": "\nNuguor\nNukoro\nNukuoro"
+  },
+  "triggers": {
+    "lgcode": "\nnukuoro"
+  },
+  "identifier": {
+    "wals": "nkr",
+    "multitree": "nkr",
+    "endangeredlanguages": "4873"
+  },
+  "classification": {
+    "sub": "**hh:hv:Wilson:Northern-Outliers-East-Polynesian**",
+    "subrefs": "\n**hh:hv:Wilson:Northern-Outliers-East-Polynesian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nukuoro (4873-nkr) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

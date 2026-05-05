@@ -1,0 +1,53 @@
+{
+  "core": {
+    "name": "Groot Laagte =/Kx'au//'ein",
+    "hid": "aue",
+    "level": "dialect",
+    "latitude": "-21.0554",
+    "longitude": "21.1793",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BW",
+      "NA"
+    ],
+    "links": "\n[ǂKx'au||'ein](https://endangeredlanguages.com/lang/9389)\nhttps://www.wikidata.org/entity/Q2478745\nhttps://en.wikipedia.org/wiki/%C7%82Kx%CA%BCao%C7%81%CA%BCae",
+    "iso639-3": "aue"
+  },
+  "classification": {
+    "sub": "**hh:hv:HeineHonken:Kxa**",
+    "subrefs": "\n**hh:hv:HeineHonken:Kxa**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hasselbring:00:1**\n**cldf:lewis:ed:09**\n**eballiso2009:22461**\n**eballiso2009:32679**\n**eballiso2009:45738**\n**iso6393:2014-059**"
+  },
+  "altnames": {
+    "glottolog": "\n=/Kx'au//'ein",
+    "multitree": "\n=|Kx'au||'ei\n=|Kx'au||'ein\nAuen\nKaukau\nKoko\nKung-Gobabis\n||Au||ei\n||X'au||'e\nǂKx'au||'ein\n≠Au.//eî",
+    "lexvo": "\n=/Kx'au//'ein [en]\nJęzyk ǂkx'au'ǁ'ein [pl]\nǂKxʼauǁʼein [nn]\nǂKxʼauǁʼein jezik [hr]\nǂKxʼauǁʼein language [en]",
+    "elcat": "\n//Au/ei\nAuen\nGobabis Kung\nKaukau\nKoko\nKung-Gobabis\nTcg'aox'ãe\nǂKx'au||'ein\n≠Kx'ao//'ae\n≠Kx'au//'ein\n≠X'ao//'ai"
+  },
+  "triggers": {
+    "lgcode": "\nauin"
+  },
+  "identifier": {
+    "multitree": "aue",
+    "endangeredlanguages": "9389"
+  },
+  "iso_retirement": {
+    "change_request": "2014-059",
+    "remedy": "this is the same as Juǀ'hoan [ktz]",
+    "code": "aue",
+    "name": "ǂKxʼauǁʼein",
+    "effective": "2015-01-12",
+    "reason": "duplicate",
+    "change_to": "\nktz"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "ǂKx'au||'ein (9389-aue) = Threatened (40 percent certain, based on the evidence available) [Hasselbring 2000](cldf:hasselbring:00:1)"
+  }
+}

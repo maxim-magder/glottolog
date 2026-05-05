@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Annobonese",
+    "hid": "fab",
+    "level": "language",
+    "iso639-3": "fab",
+    "latitude": "-1.43033",
+    "longitude": "5.61879",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GQ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34992\n[Fa d’Ambô](https://apics-online.info/contributions/38)\nhttps://en.wikipedia.org/wiki/Annobonese_Creole"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:creus:brunat:92**\n**cldf:post:93:2**\n**cldf:post:94**\n**cldf:post:95**\n**cldf:post:98:2**\n**elpub:ldd39**\n**hh:g:Hagemeijer:Fa-dAmbo**\n**hh:g:Zamora:Fa-dAmbo**\n**hh:hvphon:Mane:Crioulos-Guine**\n**hh:s:Barrena:Annobonesa**\n**hh:s:Post:Fa-dAmbo**\n**hh:s:Vila:Ambu**\n**hh:soc:GrahamGraham:West-Africa-Lusolexed**\n**hh:t:Ledjam:Annobones**\n**hh:t:Ledjam:Budjigel**\n**hh:typ:Silveira:Ano-Bom**\n**hh:typ:deGranda:Afro-Romanica**\n**hh:vld:Ferraz:Annobonese**"
+  },
+  "altnames": {
+    "multitree": "\nAnnobonense\nAnnobonese\nAnnobonés\nFa D'ambu\nPortuguese Guinea",
+    "lexvo": "\nAnnobonese language [en]\nAnnoboni keel [et]\nCriollo annobonense [es]\nFa D'ambu [en]\nFá d'Ambô [pt]\nАннобонский язык [ru]\nАннобонська мова [uk]",
+    "hhbib_lgcode": "\nAnnobonesa\nAnnobonés\nFa D'Ambu\nFa d'Ambô\nFa d’Ambô"
+  },
+  "triggers": {
+    "lgcode": "\nambu\nannobonese\ndambo\nannobonesa\nannobon\nlusolexed"
+  },
+  "identifier": {
+    "multitree": "fab"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hagemeijer:Gulf-Guinea** **hh:hv:Bandeira:Guinea:Creole**",
+    "subrefs": "\n**hh:hv:Bandeira:Guinea:Creole**\n**hh:hv:Hagemeijer:Gulf-Guinea**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fa d’Ambu (fab-fab) = 6a (Vigorous)."
+  }
+}

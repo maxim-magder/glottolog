@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bada (Nigeria)",
+    "hid": "bau",
+    "level": "language",
+    "iso639-3": "bau",
+    "latitude": "9.62456",
+    "longitude": "9.95",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11001650"
+  },
+  "sources": {
+    "glottolog": "\n**hh:he:CAPRO:Bauchi-State**\n**hh:he:SIL:Nigeria**\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:ld:Green:Mbat:2021**\n**hh:phon:Yabilsu:Jar-Galamkya**\n**hh:typ:Green:Mbat**\n**hh:vld:Green:Jarawan**"
+  },
+  "altnames": {
+    "multitree": "\nBada\nBadanchi\nBadawa\nBat\nGaraka\nJar\nJarawan Kogi\nKanna\nMbada\nMbadawa\nMbat\nPlains Jarawa\nRiver Jarawa",
+    "lexvo": "\nBada (Nigeria) [en]\nBada [en]",
+    "hhbib_lgcode": "\nBada\nBadawa\nGalamkya\nJar Galamkya\nJar-Mbat\nMbat"
+  },
+  "triggers": {
+    "lgcode": "\ngalamkya\ninterne AND bantoide\njar"
+  },
+  "identifier": {
+    "multitree": "bau"
+  },
+  "classification": {
+    "sub": "**hh:vld:Green:Jarawan** **hh:hvw:MaddiesonWilliamson:Jarawan**",
+    "subrefs": "\n**hh:vld:Green:Jarawan**\n**hh:hvw:MaddiesonWilliamson:Jarawan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mbat (bau-bau) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Port Sorell",
+    "hid": "xpl",
+    "level": "language",
+    "latitude": "-41.188369",
+    "longitude": "146.559906",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7230944\nhttps://en.wikipedia.org/wiki/Port_Sorell_language",
+    "iso639-3": "xpl",
+    "timespan": "1805-01-01/1805-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hiatt:67**\n**cldf:jones:71:2**\n**cldf:jones:72**\n**cldf:murdock:35**\n**cldf:roth:90**\n**hh:hv:CrowleyDixon:Tasmanian**\n**hh:hv:Wurm:Australian**\n**hh:w:Plomley:Tasmanian**\n**iso6393:2019-047**"
+  },
+  "triggers": {
+    "lgcode": "\nsorell"
+  },
+  "identifier": {
+    "multitree": "0ic"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Port Sorell (xpl-xpl) = 10 (Extinct)."
+  },
+  "classification": {
+    "sub": "**hh:hv:Bowern:Tasmanian** **hh:hv:CrowleyDixon:Tasmanian**",
+    "subrefs": "\n**hh:hv:Bowern:Tasmanian**\n**hh:hv:CrowleyDixon:Tasmanian**"
+  }
+}

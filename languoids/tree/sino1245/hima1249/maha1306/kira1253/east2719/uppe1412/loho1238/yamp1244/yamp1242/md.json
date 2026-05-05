@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Yamphu",
+    "hid": "ybi",
+    "level": "language",
+    "iso639-3": "ybi",
+    "latitude": "27.6322",
+    "longitude": "87.0441",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Yamphu](https://endangeredlanguages.com/lang/3216)\n[Yamphu](https://grambank.clld.org/languages/yamp1242)\n[Yamphu](https://wals.info/languoid/lect/wals_code_ybi)\nhttps://en.wikipedia.org/wiki/Yamphu_language\nhttps://www.wikidata.org/entity/Q56316"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:hilty:mitchell:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Rutgers:Yamphu**\n**hh:hwsoc:HiltyMitchell:Yamphu**\n**hh:wsoc:MitchellHilty:Lohorung**\n**iso6393:2006-109**"
+  },
+  "altnames": {
+    "multitree": "\nJindā\nRai\nYamphe\nYamphu\nYamphu Kha\nYamphu Rai\nYanphu",
+    "lexvo": "\nYamphu [en]\nYamphu language [en]\nYamphuish [gv]\nYampoueg [br]",
+    "hhbib_lgcode": "\nHedangna\nYamphe old iso yma same as Yamphu",
+    "elcat": "\nJindā\nRai\nYamphe\nYamphu\nYamphu Kha\nYamphu Rai\nYanphu"
+  },
+  "triggers": {
+    "lgcode": "\nyamphu"
+  },
+  "identifier": {
+    "wals": "ybi",
+    "multitree": "ybi",
+    "endangeredlanguages": "3216"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:HiltyMitchell:Yamphu**:52",
+    "subrefs": "\n**hh:hwsoc:HiltyMitchell:Yamphu**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Yamphu (3216-ybi) = Threatened (100 percent certain, based on the evidence available) (Language shift to Nepali already took place in Khoktak where Nepali already became the major language the Yamphu people use and Yamphu is no longer passed down to children.) [Hilty and Mitchell 2012](cldf:hilty:mitchell:12)"
+  }
+}

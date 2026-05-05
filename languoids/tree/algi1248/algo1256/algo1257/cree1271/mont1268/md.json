@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Montagnais",
+    "hid": "moe",
+    "level": "language",
+    "iso639-3": "moe",
+    "latitude": "49.0533",
+    "longitude": "-68.7376",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Innu](https://endangeredlanguages.com/lang/11029)\n[Montagnais](https://grambank.clld.org/languages/mont1268)\n[Montagnais](https://wals.info/languoid/lect/wals_code_mtg)\nhttps://en.wikipedia.org/wiki/Innu_language\nhttps://www.wikidata.org/entity/Q13351"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bentolila:ed:98:1**\n**cldf:burgesse:44**\n**cldf:canada:nd**\n**cldf:cowan:83**\n**cldf:james:clarke:etal:96**\n**cldf:lane:52**\n**cldf:leacock:69**\n**cldf:lemoine:01**\n**cldf:lips:47:1**\n**cldf:lips:47:2**\n**cldf:nichols:ogg:ed:96:4**\n**cldf:ostler:rudes:ed:00:2**\n**cldf:pentland:ed:97:5**\n**cldf:pentland:ed:99:1**\n**cldf:rogers:rogers:63**\n**cldf:speck:31**\n**cldf:tanner:44**\n**cldf:wolfart:ed:02:1**\n**cldf:wolfart:ed:02:3**\n**cldf:wolfart:ed:02:5**\n**hh:e:Mailhot:Innu**\n**hh:e:RogersLeacock:Montagnias-Naskapi**\n**hh:g:Clarke:Montagnais**\n**hh:g:Drapeau:Innue**\n**hh:g:Martin:Montagnais**\n**hh:g:Oxford:Innu-aimun**\n**hh:hv:Michelson:Cree-Montagnais-Naskapi**\n**hh:hvs:MacKenzie:Cree-Montagnais-Naskapi**\n**hh:s:Cyr:Montagnaise**\n**hh:s:MacKenzie:Montagnais-Naskapi**\n**hh:s:McNulty:Montagnais**\n**hh:typ:Bannister:Innu-Aimun**\n**hh:typ:Brittain:Innu-Aimun**\n**hh:typ:Hasler:Innu-Aimun**\n**hh:typ:Martin:Montagnais**\n**iso6393:2019-051**\n**mpieva:Harvey2005Soundcha**\n**mpieva:Oxford2008Agrammat**"
+  },
+  "altnames": {
+    "wals": "\nMontagnais",
+    "multitree": "\nCentral Montagnais\nCree\nEastern Montagnais\nInnu\nInnu Aimun\nInnu-Aimun\nMontagnais\nMontagnais de l'est\nMontagnais de l'ouest\nMontañés occidental\nWestern Montagnais",
+    "lexvo": "\nInnu-aimun [en]\nInua lingvo [eo]\nMontagnais [en]\nMontagneg [br]\nМонтанье-наскапи [ru]",
+    "hhbib_lgcode": "\nInnu\nInnue\nMontagnaise\nNorth-West River (Sheshātshīt)",
+    "elcat": "\nInnu\nInnu Aimun\nInnu-aimun\nMontagnais"
+  },
+  "triggers": {
+    "lgcode": "\naimun\nalgonquienne\nsheshatshit\nNOT notes AND montagnais"
+  },
+  "identifier": {
+    "wals": "mtg",
+    "multitree": "mtgn;moe",
+    "endangeredlanguages": "11029"
+  },
+  "classification": {
+    "sub": "**hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Eastern Montagnais (267-moe) = Vulnerable; Western Montagnais (2394-moe) = Vulnerable"
+  }
+}

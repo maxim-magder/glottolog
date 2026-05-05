@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Guaná (Paraguay)",
+    "hid": "gva",
+    "level": "language",
+    "iso639-3": "gva",
+    "latitude": "-21.9803",
+    "longitude": "-58.0654",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR",
+      "PY"
+    ],
+    "links": "\n[Guana (Paraguay)](https://endangeredlanguages.com/lang/2698)\nhttps://www.wikidata.org/entity/Q3033534\nhttps://en.wikipedia.org/wiki/Kaskih%C3%A1_language\n[Guana](https://wals.info/languoid/lect/wals_code_gna)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:lewis:ed:09**\n**cldf:martius:63**\n**cldf:np:nd:264**\n**cldf:vangysel:17**\n**fabreall2009ann:Enlhet-Enenlhet_guana0**\n**fabreall2009ann:Enlhet-Enenlhet_guana1**\n**fabreall2009ann:Enlhet-Enenlhet_guana2**\n**fabreall2009ann:Enlhet-Enenlhet_guana4**\n**fabreall2009ann:Enlhet-Enenlhet_guana6**\n**hh:e:Baldus:Schamakoko**\n**hh:ew:deBassilan:Amerique**\n**hh:ew:deCominges:Chaco-Norte**\n**hh:s:UnruhKalisch:Guana**\n**hh:w:Baldus:Kaskiha**\n**hh:w:Boggiani:Guana**\n**hh:w:Boggiani:Guana:77**"
+  },
+  "altnames": {
+    "wals": "\nGuana",
+    "ruhlen (1987)": "\nKaskihá",
+    "moseley & asher (1994)": "\nGuana",
+    "multitree": "\nCashquiha\nEnlhet\nGuana\nGuaná\nKashiha\nKashika\nKaskiha\nKaskihá",
+    "lexvo": "\nGuana (Paraguay) [en]\nGuana [en]",
+    "hhbib_lgcode": "\nEnlhet\nGuana\nGuana (Paraguay)\nGuana'\nGuaná / vana / enlhet / Kaskiha\nGvana\nJuan de 1892a Vocabulario guana. En: Obras escogidas: 247-249. Buenos Aires.\nKaskiha\nLooks like Guana",
+    "elcat": "\nCashquiha\nGuana (Paraguay)\nGuaná\nKashiha\nKashika\nKaskiha\nKaskihá\nVana peema",
+    "glottolog": "\nGuana (Paraguay)"
+  },
+  "triggers": {
+    "lgcode": "\nnempeema\nnelhpaqmeesma\nmaestro\nnentenyeya\npeema\nvana\nkaskiha\nrealizada\nbrettes"
+  },
+  "identifier": {
+    "wals": "gna",
+    "multitree": "gva",
+    "endangeredlanguages": "2698"
+  },
+  "classification": {
+    "sub": "**hh:hv:UnruhKalisch:Enlhet-Enenlhet** **hh:styp:Gysel:Sanapana**:53-69 **hh:hv:Gysel:Enlhet-Enenlhet**",
+    "subrefs": "\n**hh:hv:Gysel:Enlhet-Enenlhet**\n**hh:hv:UnruhKalisch:Enlhet-Enenlhet**\n**hh:styp:Gysel:Sanapana**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Guana (Paraguay) (2698-gva) = Critically Endangered (80 percent certain, based on the evidence available) (According to Han- nes Kalisch (p.c. 2017), the situation is even worse: he found only 4 living rememberers of the language, rendering Guaná effectively moribund.) [Van Gysel 2017](cldf:vangysel:17)"
+  }
+}

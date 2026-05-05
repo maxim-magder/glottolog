@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Notsi",
+    "hid": "ncf",
+    "level": "language",
+    "iso639-3": "ncf",
+    "latitude": "-3.0557",
+    "longitude": "151.661",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Notsi](https://grambank.clld.org/languages/nots1237)\nhttps://en.wikipedia.org/wiki/Notsi_language\nhttps://www.wikidata.org/entity/Q3344784"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:powdermaker:31:1**\n**cldf:powdermaker:31:2**\n**cldf:powdermaker:32**\n**cldf:powdermaker:33**\n**hh:hv:Ross:WMelanesia**\n**hh:s:EricksonErickson:Nochi**\n**hh:s:McCarthy:Notsi**\n**sil16:48087**"
+  },
+  "altnames": {
+    "multitree": "\nNochi\nNotsi",
+    "lexvo": "\nNotsi [en]"
+  },
+  "triggers": {
+    "lgcode": "\nnotsi\ninterlinear"
+  },
+  "identifier": {
+    "multitree": "ncf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ross:New-Ireland** **hh:hv:Ross:WMelanesia**:257-314",
+    "subrefs": "\n**hh:hv:Ross:New-Ireland**\n**hh:hv:Ross:WMelanesia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Notsi (ncf-ncf) = 5 (Developing)."
+  }
+}

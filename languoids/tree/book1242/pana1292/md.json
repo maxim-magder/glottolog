@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Panang",
+    "hid": "pcr",
+    "level": "language",
+    "iso639-3": "pcr",
+    "latitude": "30.7272",
+    "longitude": "86.8317",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q12953012"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2012-029**"
+  },
+  "altnames": {
+    "multitree": "\nBanag\nBanang\nPanags\nPanakha\nPananag\nPanang\nSbanag\nSbranag",
+    "lexvo": "\nPanang [en]"
+  },
+  "iso_retirement": {
+    "comment": "Panang” (Tibetan sbra.nag ‘black tent’) is the name of a particular subgroup of\nAmdo Tibetans.\n\nDenwood (1999:30) identifies their language as belonging to the category of\n“Amdo dialects with oral [onset consonant] clusters only”. My own examination of\nthe data in Kara (1984) leads me to the same conclusion: this is nothing more\nthan a variety of Amdo Tibetan. Varieties of Amdo Tibetan have a high degree of\nmutual intelligibility; Sung and\n\nlHa.byams rGyal (2005: xviii) give a typical report: “[T]he sub-dialects within\nthe Amdo region display remarkable uniformity. Any two people from different\nplaces inside the Amdo region can usually communicate with little or no\ndifficulty.”\n\nThere is therefore no reason for “Panang” to have its own ISO-693-3 code.",
+    "code": "pcr",
+    "name": "Panang",
+    "effective": "2013-01-23",
+    "remedy": "merge into Amdo Tibetan [adx]",
+    "reason": "merge",
+    "change_request": "2012-029",
+    "change_to": "\nadx"
+  },
+  "identifier": {
+    "multitree": "pcr"
+  }
+}

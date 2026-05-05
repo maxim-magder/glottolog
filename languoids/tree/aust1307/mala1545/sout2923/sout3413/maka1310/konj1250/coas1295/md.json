@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Coastal Konjo",
+    "hid": "kjc",
+    "level": "language",
+    "iso639-3": "kjc",
+    "latitude": "-5.41532",
+    "longitude": "120.304",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Konjo](https://wals.info/languoid/lect/wals_code_kjo)\nhttps://en.wikipedia.org/wiki/Coastal_Konjo_language\nhttps://www.wikidata.org/entity/Q3198689"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2640**\n**cldf:friberg:friberg:89**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:phon:FribergFriberg:Konjo**\n**hh:phonw:Friberg:Konjo**\n**hh:ttyp:Pelenkahu:Kondjo**\n**hh:typ:Friberg:Konjo-Person**\n**hh:typ:Friberg:South-Sulawesi**\n**hh:w:Stokhofetal:Holle:11**\n**hh:w:Stokhofetal:Holle:7:3**\n**mpieva:Friberg1990Sulawesi**\n**sil16:22288**\n**sil16:25146**\n**sil16:31703**\n**sil16:34440**\n**sil16:34441**\n**sil16:38423**"
+  },
+  "altnames": {
+    "wals": "\nKonjo",
+    "wals other": "\nKondjo",
+    "ruhlen (1987)": "\nMakassarese",
+    "multitree": "\nKondjo\nKonjo\nKonjo (Coastal)\nKonjo, Coastal\nTana\nTiro",
+    "lexvo": "\nCoastal Konjo [en]",
+    "hhbib_lgcode": "\nBonthain (Mangkalla Daeng Mamasa)\nBonthain Schotborg Siahaja\nKajang\nKondjo\nKonjo\nKonjo-Coastal\nKonjo-Pesisir"
+  },
+  "triggers": {
+    "lgcode": "\nnasional\nlembaga\nkonjo\nlapuran\nkondjo\ntjabang"
+  },
+  "identifier": {
+    "wals": "kjo",
+    "multitree": "kjc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:GrimesGrimes:South-Sulawesi** **hh:hv:Smith:Western-Malayo-Polynesian**:474-475 **hh:hv:Mead:Sulawesi:2024**",
+    "subrefs": "\n**hh:hv:Mead:Sulawesi:2024**\n**hh:hvw:GrimesGrimes:South-Sulawesi**\n**hh:hv:Smith:Western-Malayo-Polynesian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Konjo, Coastal (kjc-kjc) = 6b (Threatened)."
+  }
+}

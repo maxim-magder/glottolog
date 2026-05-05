@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bekwil",
+    "hid": "bkw",
+    "level": "language",
+    "iso639-3": "bkw",
+    "latitude": "1.71801",
+    "longitude": "14.6527",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CG",
+      "CM",
+      "GA"
+    ],
+    "links": "\n[Bekwil](https://grambank.clld.org/languages/bekw1242)\nhttps://en.wikipedia.org/wiki/Bekwil_language\nhttps://www.wikidata.org/entity/Q34950"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:14258**\n**eballiso2009:28636**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:33650**\n**eballiso2009:43637**\n**eballiso2009:56088**\n**hh:d:Lia:Bekwel**\n**hh:e:Lia:Bekwil**\n**hh:e:Siroto:Bakwele**\n**hh:hb:Idiata:Gabon**\n**hh:hb:Idiata:Gabon:2010**\n**hh:hb:Leblanc:Congo**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Cheucle:Makaa-Njem**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Klieman:Gabon**\n**hh:hvw:Klieman:WEquatorial**\n**hh:phon:Avore:Bakwel**\n**hh:phon:Bouka:Bekwel**\n**hh:s:Cheucle:Bekwel**\n**hh:soc:BeavonJohnson:Bekwel**\n**hh:soc:Phillips:Bekwel**\n**hh:typ:Djamba:Bekwel**\n**hh:w:Periquet:AEF**\n**iso6393:2010-032**\n**sil16:43930**"
+  },
+  "altnames": {
+    "multitree": "\nBakwele\nBakwil\nBekwel\nBekwie\nBekwil\nOkpele",
+    "lexvo": "\nBekwil [en]",
+    "hhbib_lgcode": "\nA85b_Bekwil_Makokou\nA85b_Bekwil_Mv\nBakouli\nBakouélé (Békwil/Bèkwèl)\nBakwel\nBekwel\nBɛkwel\nMpo 1 d. bekwil A86\nMpo 2 d. bekwil A86\nMpo 3 d. bekwil A86"
+  },
+  "triggers": {
+    "lgcode": "\nbakwele\noverlap\nbcais\nbakwel\nchallenging\nmasks\nbekwel"
+  },
+  "identifier": {
+    "multitree": "bkw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359",
+    "subrefs": "\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bekwel (bkw-bkw) = 6a (Vigorous)."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Yendang (Retired)",
+    "hid": "yen",
+    "level": "language",
+    "iso639-3": "yen",
+    "latitude": "9.0159",
+    "longitude": "12.1396",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ]
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2011-150**"
+  },
+  "altnames": {
+    "multitree": "\nNyandang\nYandang\nYendam\nYendang\nYundum",
+    "lexvo": "\nYendang [en]"
+  },
+  "iso_retirement": {
+    "comment": "Yotti is listed as a dialect of Yendang. This was a mistake, as they are\nlinguistically and socially distinct. In an interview in Mayo Lope in 2007, the\nYotti individuals said that they have two origins: some clans come from Yoro\n(linking them with Mumuye [mzm]) and others from Bolki (linking them with Bacama\n[bcy]). They report than many are bilingual in Mumuye [mzm] and Yendang from an\neariy age, but there are some Yotti (particularly the Nyagbalaŋ and Yɛyɪpte\nclans) who do not understand Yendang well.\n\nIntelligibility testing with children in Bonding (a Yotti village) showed very\npoor understanding of a text recorded in Kpankwai (a Yendang village).\n\nLexical similarity: 35% with Bali [bcn], 35% with Kpasham [pbn], 13% with\nYendang [yen].\n\nPopulation: Yotti have about eight villages compared with many more than thirty\nYendang villages.",
+    "code": "yen",
+    "name": "Yendang",
+    "effective": "2012-02-03",
+    "remedy": "Split into Yendang [ynq] and Yotti [yot]",
+    "reason": "split",
+    "change_request": "2011-150",
+    "change_to": "\nynq\nyot"
+  },
+  "identifier": {
+    "multitree": "yen"
+  }
+}

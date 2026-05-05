@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Camunic",
+    "hid": "xcc",
+    "level": "language",
+    "iso639-3": "xcc",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q489011\nhttps://en.wikipedia.org/wiki/Camunic_language",
+    "timespan": "-0500-01-01/-0050-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:Pisani:Italia-Antica**\n**hh:hv:Kausen:Europa**\n**hh:ld:Tibiletti:Camuno**"
+  },
+  "altnames": {
+    "multitree": "\nCamuni\nCamunic",
+    "lexvo": "\nCamunic [en]",
+    "hhbib_lgcode": "\nCamunisch\nVal Camonica"
+  },
+  "triggers": {
+    "lgcode": "\npararetico\ncamuno\nretico"
+  },
+  "identifier": {
+    "multitree": "xcc"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-05T23:26:38",
+    "comment": "Camunic (xcc-xcc) = 10 (Extinct)"
+  }
+}

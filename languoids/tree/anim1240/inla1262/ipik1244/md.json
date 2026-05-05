@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Ipiko",
+    "hid": "ipo",
+    "level": "language",
+    "iso639-3": "ipo",
+    "latitude": "-7.37424",
+    "longitude": "144.863",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Ipiko](https://endangeredlanguages.com/lang/4306)\nhttps://www.wikidata.org/entity/Q10566515\nhttps://en.wikipedia.org/wiki/Ipiko_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hld:Lean:11**\n**hh:hv:Franklin:Gulf:1968**\n**hh:hv:Franklin:Other**\n**hh:hw:Zgraggen:Gulf**\n**hh:w:Chance:Ipikoi**\n**hh:w:Petterson:Ipiko**"
+  },
+  "altnames": {
+    "multitree": "\nEpai\nHiga\nIpiko\nIpikoi",
+    "lexvo": "\nIpiko [en]",
+    "hhbib_lgcode": "\nInland Gulf: Ipiko\nIpikoi",
+    "elcat": "\nEpai\nHiga\nIpiko\nIpikoi"
+  },
+  "triggers": {
+    "lgcode": "\ntavo\neva\nipiko\nipikoi"
+  },
+  "identifier": {
+    "multitree": "ipo;ipik",
+    "endangeredlanguages": "4306"
+  },
+  "classification": {
+    "sub": "**hh:hv:UsherSuter:Anim**",
+    "subrefs": "\n**hh:hv:UsherSuter:Anim**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ipiko (4306-ipo) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

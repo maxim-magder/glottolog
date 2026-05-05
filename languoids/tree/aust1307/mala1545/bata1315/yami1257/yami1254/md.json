@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yami",
+    "hid": "tao",
+    "level": "language",
+    "iso639-3": "tao",
+    "latitude": "22.055",
+    "longitude": "121.544",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "CN",
+      "TW"
+    ],
+    "links": "\n[Tao](https://endangeredlanguages.com/lang/10747)\n[Yami](https://grambank.clld.org/languages/yami1254)\n[Yami](https://wals.info/languoid/lect/wals_code_ymi)\nhttps://en.wikipedia.org/wiki/Yami_language\nhttps://www.wikidata.org/entity/Q715760"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:calculator:14**\n**cldf:chen:98**\n**cldf:cribb:00**\n**cldf:dong:hedehua:00**\n**cldf:kane:segawa:56**\n**cldf:lebar:ed:75**\n**cldf:mabuchi:60**\n**cldf:np:14:5**\n**cldf:np:15:2**\n**cldf:np:16:1**\n**cldf:rau:02**\n**cldf:rau:dong:etal:12**\n**cldf:rau:victoria:etal:07**\n**cldf:rau:yang:07**\n**cldf:tsuchida:yamada:etal:87**\n**cldf:wei:liu:62**\n**cldf:yu:91**\n**hh:d:Rau:Yami**\n**hh:g:Chang:Yamei**\n**hh:g:HeDong:Yamei:2018**\n**hh:het:Benedek:Bashiic**\n**hh:hld:Muller:Formosa**\n**hh:hv:Moriguchi:Ivatan**\n**hh:hv:Yang:Batanic**\n**hh:hw:Tsuchidaetal:Batanic:Sentences**\n**hh:hw:Tsuchidaetal:Batanic:Worsds**\n**hh:ld:LiHo:Yami**\n**hh:s:Asai:Yami**\n**hh:s:Ho:Yami**\n**hh:s:LiHo:Yami**\n**hh:s:Moriguchi:Yami**\n**hh:s:Shih:Yami**\n**hh:std:RauDong:Yami**\n**hh:w:West:Yami**\n**sil16:38458**\n**sil16:48356**\n**sil16:48357**"
+  },
+  "altnames": {
+    "wals": "\nYami",
+    "moseley & asher (1994)": "\nYami",
+    "multitree": "\nBotel Tabago\nBotel Tobago\nLanyu\nSprache von Formosa\nTao\nTawu\nYami",
+    "lexvo": "\nLengua yami [es]\nWikang Tao [tl]\nYami [en]\nYami language [en]\nภาษาเตา [th]",
+    "hhbib_lgcode": "\nIrala",
+    "elcat": "\nTao\nYami\n達悟\n雅美"
+  },
+  "triggers": {
+    "lgcode": "\nyameiui\nyamei\nyami\nNOT i AND yami\nlanyu"
+  },
+  "identifier": {
+    "wals": "ymi",
+    "multitree": "tao;yami",
+    "endangeredlanguages": "10747"
+  },
+  "classification": {
+    "sub": "**hh:hv:Li:Batanic** **hh:hv:Ross:Batanic**",
+    "subrefs": "\n**hh:hv:Li:Batanic**\n**hh:hv:Ross:Batanic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tao (10747-tao) = Severely Endangered (100 percent certain, based on the evidence available) [Rau and Yang 2007](cldf:rau:yang:07)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Lamalama",
+    "hid": "lby",
+    "level": "language",
+    "iso639-3": "lby",
+    "latitude": "-14.559",
+    "longitude": "143.977",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Lamalama](https://endangeredlanguages.com/lang/4486)\nhttps://en.wikipedia.org/wiki/Lamalama_language\nhttps://phoible.org/languages/lamu1254\n[Lamu-Lamu](https://wals.info/languoid/lect/wals_code_lla)\nhttps://www.wikidata.org/entity/Q6482727"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1878**\n**asjp2010:882**\n**cldf:bowern:11:1**\n**cldf:laycock:71**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:h:Rigsby:Charlotte**\n**hh:hew:HaleTindale:Charlotte-Bay**\n**hh:phon:Verstraete:Mbarrumbathama**\n**hh:s:Laycock:Lamalamic**\n**hh:s:Sommer:Lamalama**\n**hh:s:Sommer:Umbuygamu**\n**iso6393:2018-037**\n**ozbib:2449**\n**ozbib:2951**\n**ozbib:5377**"
+  },
+  "altnames": {
+    "wals": "\nLamu-Lamu",
+    "ruhlen (1987)": "\nLama-Lama",
+    "moseley & asher (1994)": "\nLama-Lama",
+    "multitree": "\nBakanambia\nBarum Bathama\nKorko Lama Lama\nLama-Lama\nLamalama\nLamu-Lamu\nLamulamul\nMba Rrumbathama\nMba Rumbathama\nMbarrumbathama",
+    "lexvo": "\nLamu-Lamu [en]",
+    "hhbib_lgcode": "\nKoko-Lamalama\nLamalama\nLamu-Lamu",
+    "elcat": "\nBakanambia\nBarum Bathama\nKorko Lama Lama\nLama-Lama\nLamalama\nLamu-Lamu\nLamulamul\nMba Rrumbathama\nMba Rumbathama\nMbarrumbathama"
+  },
+  "triggers": {
+    "lgcode": "\nlamalama\nlamalamic"
+  },
+  "identifier": {
+    "wals": "lla",
+    "multitree": "lby",
+    "endangeredlanguages": "4486"
+  },
+  "classification": {
+    "sub": "**hh:hv:Verstraete:Lamalamic** **hh:hv:Verstraete:Lamalamic:2023**",
+    "subrefs": "\n**hh:hv:Verstraete:Lamalamic**\n**hh:hv:Verstraete:Lamalamic:2023**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Lamalama (4486-lby) = Critically Endangered (20 percent certain, based on the evidence available) [Tryon 2007](cldf:tryon:07)"
+  }
+}

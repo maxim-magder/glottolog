@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tunia",
+    "hid": "tug",
+    "level": "language",
+    "iso639-3": "tug",
+    "latitude": "9.42506",
+    "longitude": "18.2059",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Tunia](https://endangeredlanguages.com/lang/4586)\nhttps://www.wikidata.org/entity/Q863721\nhttps://en.wikipedia.org/wiki/Tunia_language\nhttps://phoible.org/languages/tuni1251"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**eballiso2009:15481**\n**eballiso2009:1869**\n**eballiso2009:37597**\n**eballiso2009:54759**\n**hh:ew:Palayer:Noy**\n**hh:hew:BoyeldieuSeignobos:Niellim**\n**hh:hv:Boyeldieu:Boua**\n**hh:hv:Boyeldieu:Boua:1988**\n**hh:hv:Boyeldieu:Vestiges**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:phon:Palayer:Tounia**"
+  },
+  "altnames": {
+    "multitree": "\nTounia\nTun\nTunia\nTunya",
+    "lexvo": "\nTunia [en]",
+    "hhbib_lgcode": "\nKwa Perim (Tunia dialect)\nKwaa Way\nPerim\nTounia\nWai",
+    "elcat": "\nTounia\nTun\nTunia\nTunya"
+  },
+  "triggers": {
+    "lgcode": "\nnellim\nboum\ntounia\nNOT niellim AND NOT sociolinguistique AND boua"
+  },
+  "identifier": {
+    "multitree": "tug",
+    "endangeredlanguages": "4586"
+  },
+  "classification": {
+    "sub": "**hh:hv:Boyeldieu:Bua:2018** **hh:s:Kastenholz:Bolgo**:2 **hh:hew:BoyeldieuSeignobos:Niellim** **hh:hsoc:Nodjibogoto:Boua**:7",
+    "subrefs": "\n**hh:hv:Boyeldieu:Bua:2018**\n**hh:hsoc:Nodjibogoto:Boua**\n**hh:hew:BoyeldieuSeignobos:Niellim**\n**hh:s:Kastenholz:Bolgo**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tunia (4586-tug) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Shwe Palaung",
+    "hid": "pll",
+    "level": "language",
+    "iso639-3": "pll",
+    "latitude": "23.6729",
+    "longitude": "97.7972",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "MM"
+    ],
+    "links": "\n[Palaung](https://lexibank.clld.org/languages/nagarajakhasian-Palaung)\n[Palaung](https://wals.info/languoid/lect/wals_code_plg)\n[Shwe Palaung](https://grambank.clld.org/languages/shwe1236)\nhttps://www.wikidata.org/entity/Q13018536"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bybee:perkins:etal:94**\n**cldf:lowis:06**\n**cldf:milne:24**\n**hh:d:Milne:Palaung**\n**hh:d:Shorto:Palaung-Shwe**\n**hh:g:Mak:Golden-Palaung**\n**hh:g:Milne:Palaung**\n**hh:hew:Luce:Burma**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hv:Diffloth:Palaungic**\n**hh:hvw:Deepadung:Palaung**\n**hh:hvw:Sidwell:Palaungic**\n**sil16:41973**"
+  },
+  "altnames": {
+    "multitree": "\nDe Ang\nGold Palaung\nGolden Palaung\nNam Hsan Palaung\nPalaung\nPalaung, Shwe\nShwe\nShwe Palaung\nTa-Ang Palaung\nTa-ang",
+    "lexvo": "\nShwe Palaung [en]",
+    "hhbib_lgcode": "\nHtan Hsan\nKhun Hawt\nNamhsan\nPalaung Namhsan\nPalaung or Rumai of Nam Hsan\nPalaung-Nam Hsan\nPalaung-Namhsan\nPalaung-Shwe"
+  },
+  "triggers": {
+    "lgcode": "\npalaung\ngolden\nkya\nnamhsan\nshwe"
+  },
+  "identifier": {
+    "multitree": "pll"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Sidwell:Palaungic**:12",
+    "subrefs": "\n**hh:hvw:Sidwell:Palaungic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Palaung, Shwe (pll-pll) = 5 (Developing)."
+  }
+}

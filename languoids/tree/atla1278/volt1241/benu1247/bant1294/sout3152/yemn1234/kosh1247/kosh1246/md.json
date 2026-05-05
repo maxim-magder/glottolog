@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Koshin",
+    "hid": "kid",
+    "level": "language",
+    "iso639-3": "kid",
+    "latitude": "6.5817",
+    "longitude": "10.299",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Koshin](https://endangeredlanguages.com/lang/8869)\nhttps://www.wikidata.org/entity/Q35632\nhttps://en.wikipedia.org/wiki/Koshin_language\nhttps://phoible.org/languages/kosh1246"
+  },
+  "classification": {
+    "sub": "**hh:vw:Blench:Bukwen**",
+    "subrefs": "\n**hh:vw:Blench:Bukwen**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:good:dicarlo:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Ousmanou:Koshin**\n**hh:h:DiCarlo:Lower-Fungom**\n**hh:h:Good:Fungom**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hvld:Goodetal:Lower-Fungom**\n**hh:hvld:Hombert:Beboid**\n**hh:hwsoc:Hammetal:WBeboid**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**sil16:41940**"
+  },
+  "altnames": {
+    "multitree": "\nKaw\nKoshin\nKosin",
+    "lexvo": "\nKoshin [en]",
+    "hhbib_lgcode": "\nKosin\nKosin of Kaw",
+    "elcat": "\nKaw\nKoshin\nKosin"
+  },
+  "triggers": {
+    "lgcode": "\nwestern AND menchum"
+  },
+  "identifier": {
+    "multitree": "kid",
+    "endangeredlanguages": "8869"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Koshin (8869-kid) = Threatened (20 percent certain, based on the evidence available) [Good and DiCarlo 2012](cldf:good:dicarlo:12)"
+  }
+}

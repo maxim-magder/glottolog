@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Bangala",
+    "hid": "bxg",
+    "level": "language",
+    "iso639-3": "bxg",
+    "latitude": "3.3466",
+    "longitude": "28.04453",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34989\nhttps://en.wikipedia.org/wiki/Bangala_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10378**\n**eballiso2009:15713**\n**eballiso2009:18450**\n**eballiso2009:2407**\n**eballiso2009:25996**\n**eballiso2009:26264**\n**eballiso2009:28707**\n**eballiso2009:30435**\n**eballiso2009:37013**\n**eballiso2009:37014**\n**eballiso2009:37019**\n**eballiso2009:37311**\n**eballiso2009:44246**\n**eballiso2009:46779**\n**eballiso2009:51485**\n**eballiso2009:51486**\n**eballiso2009:51488**\n**eballiso2009:51492**\n**eballiso2009:51496**\n**eballiso2009:55916**\n**eballiso2009:56992**\n**eballiso2009:57616**\n**hh:d:Dominicains:Bangala**\n**hh:d:Edema:Bangala-Lingala**\n**hh:d:Elge:Bangala**\n**hh:he:Bawele:Zaire-Ubangi**\n**hh:hvld:Stigand:Lado**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:nt:Gingrich:Bangala**\n**hh:phon:Edema:Bangala**\n**hh:s:Nassenstein:Bangala**\n**hh:s:VanMol:Bangala-Uele**\n**hh:soc:Abdel-Rahman:Lado**\n**hh:soc:Meeuwis:Lingala-Kiswahili**\n**hh:w:MacKenzie:Bangala**\n**hh:w:Tongerloo:Oewellee**\n**hh:wtyp:Guthrie:Lingua-Franca**"
+  },
+  "altnames": {
+    "multitree": "\nBangala\nNgala",
+    "lexvo": "\nBangala [en]",
+    "hhbib_lgcode": "\nBangala des oberen Uele\nBangala in Faradje (DRC)\nLangue commerciale (an early version of Lingala?)\nPidgin Bangala 1880-1900\nPidgin Bangala 1880-1900 TODO Bangala"
+  },
+  "triggers": {
+    "lgcode": "\ndegide\nNOT au AND NOT by AND NOT na AND bangala\nboeck\nmangala"
+  },
+  "identifier": {
+    "multitree": "bxg"
+  },
+  "classification": {
+    "sub": "**hh:g:Meeuwis:Lingala**:11-22",
+    "subrefs": "\n**hh:g:Meeuwis:Lingala**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Bangala (bxg-bxg) = 3 (Wider communication). Native to the Democratic Republic of the Congo; spoken between 1880 and 1900 in western, northern and northeastern Congo. Trade language, also used in entertainment, music, and dance."
+  }
+}

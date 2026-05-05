@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Metlatónoc Mixtec",
+    "hid": "mxv",
+    "level": "language",
+    "iso639-3": "mxv",
+    "latitude": "17.1947",
+    "longitude": "-98.35138",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Guerrero Mixtec](https://endangeredlanguages.com/lang/10530)\nhttps://www.wikidata.org/entity/Q53482453"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvw:Josserand:Mixtec**\n**hh:ld:Hollenbach:Focus-Mixtecan**\n**hh:t:NA:Metlatonoc**\n**hh:typ:Overholt:Guerrero-Mixtec**"
+  },
+  "altnames": {
+    "glottolog": "\nMetlatonoc Mixtec",
+    "multitree": "\nCentral Misteko\nCentreal Mixteco\nMixtec, Metlatónoc\nMixteco de San Rafael",
+    "lexvo": "\nMetlatónoc Mixtec [en]",
+    "hhbib_lgcode": "\nMetl\nMixtec-Metlatónoc\nSan Rafael\nSan Rafael and Metlatonoc",
+    "elcat": "\nAlacatlatzala Mixtec\nAlcozauca Mixtec\nCentral Misteko\nGuerrero Mixtec\nHighland Guerrero Mixtec\nMetlatónoc Mixtec\nMixteco de Alacatlatzala\nMixteco de Alocozauca\nMixteco de Xochapa\nMixteco de Yoloxóchitl\nTo’on Savi\nYoloxóchitl Mixtec"
+  },
+  "triggers": {
+    "lgcode": "\nconejo\nmixteco AND tonemic\ndivayu\nxiin\ntonemic"
+  },
+  "identifier": {
+    "multitree": "mxv",
+    "endangeredlanguages": "10530"
+  },
+  "classification": {
+    "sub": "**hh:hv:Auderset:Mixtecan:2023**:17 **hh:hvw:Josserand:Mixtec**",
+    "subrefs": "\n**hh:hv:Auderset:Mixtecan:2023**\n**hh:hvw:Josserand:Mixtec**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Guerrero Mixtec (10530) = Vulnerable (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

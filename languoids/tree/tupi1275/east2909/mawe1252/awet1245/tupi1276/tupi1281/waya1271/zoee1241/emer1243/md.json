@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Teko",
+    "hid": "eme",
+    "level": "language",
+    "iso639-3": "eme",
+    "latitude": "3.23694",
+    "longitude": "-52.3699",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "GF"
+    ],
+    "links": "\n[Emerillon](https://endangeredlanguages.com/lang/2598)\n[Emerillon](https://lexibank.clld.org/languages/gerarditupi-Emerillon)\nhttps://en.wikipedia.org/wiki/Emerillon_language\nhttps://phoible.org/languages/emer1243\nhttps://www.wikidata.org/entity/Q3588942\n[Émérillon](https://wals.info/languoid/lect/wals_code_eme)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**fabreall2009ann:Tupi_emerillon00**\n**fabreall2009ann:Tupi_emerillon02**\n**fabreall2009ann:Tupi_emerillon03**\n**fabreall2009ann:Tupi_emerillon06**\n**fabreall2009ann:Tupi_emerillon07**\n**fabreall2009ann:Tupi_emerillon08**\n**fabreall2009ann:Tupi_emerillon09**\n**fabreall2009ann:Tupi_emerillon11**\n**fabreall2009ann:Tupi_emerillon12**\n**fabreall2009ann:Tupi_emerillon13**\n**fabreall2009ann:Tupi_emerillon17**\n**fabreall2009ann:Tupi_emerillon18**\n**fabreall2009ann:Tupi_emerillon19**\n**fabreall2009ann:Tupi_emerillon20**\n**fabreall2009ann:Tupi_emerillon21**\n**fabreall2009ann:Tupi_emerillon22**\n**fabreall2009ann:Tupi_emerillon23**\n**fabreall2009ann:Tupi_emerillon24**\n**fabreall2009ann:Tupi_emerillon25**\n**hh:e:HuraultFrenay:Emerillon**\n**hh:g:Rose:Emerillon**\n**hh:g:Rose:Emerillon:2003**\n**hh:hvld:Rose:Guiana**\n**hh:phon:Rose:Emerillon**\n**hh:s:Rose:Emerillon**\n**hh:typ:Rose:Emerillon:Cariban-Number**\n**hh:typ:Rose:Emerillon:Indexation**\n**hh:typ:Rose:Emerillon:Nominale**\n**hh:typ:Rose:Emerillon:Pessoa**\n**hh:typ:Rose:Emerillon:Serialization**\n**hh:typ:Rose:Reduplication**\n**hh:typ:Rose:Repetitive**\n**hh:w:Coudreau:Ouayana**\n**hh:w:Perret:Emerillon**"
+  },
+  "altnames": {
+    "lexvo": "\nEmerillon [en]\nEmerillon language [en]\nÉmérillon [fr]",
+    "hhbib_lgcode": "\nEmerillion\nEmerillon\nÉmérillon",
+    "glottolog": "\nEmerillon",
+    "elcat": "\nEmerenhão\nEmereñon\nEmerillon\nEmerilon\nEmérillon\nGuaiapi\nGuayapi\nKaripuna\nMelejo\nMereo\nMereyo\nOiampí\nOyampí\nOyampík\nOyanpík\nTeco\nWaiampi\nWaiãpi\nWajapae\nWajapuku\nWayampí\nWayampí language area\nWayapae\nWayãpi"
+  },
+  "triggers": {
+    "lgcode": "\nemerillons\nemerillon\nlemerillon"
+  },
+  "identifier": {
+    "wals": "eme",
+    "endangeredlanguages": "2598"
+  },
+  "classification": {
+    "sub": "**hh:hv:Cabral:Tupi-Guarani:VIII**",
+    "subrefs": "\n**hh:hv:Cabral:Tupi-Guarani:VIII**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Emerillon (2598-eme) = Endangered (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

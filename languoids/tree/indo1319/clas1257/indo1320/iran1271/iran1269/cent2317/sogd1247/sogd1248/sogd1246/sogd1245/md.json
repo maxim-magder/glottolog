@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Sogdian",
+    "hid": "sog",
+    "level": "language",
+    "iso639-3": "sog",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "UZ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q205979\nhttps://en.wikipedia.org/wiki/Sogdian_language",
+    "longitude": "66.983",
+    "latitude": "39.7",
+    "timespan": "0196-01-01/0763-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Gharib:Sogdian**\n**hh:d:Sims-Williams:Christian-Sogdian**\n**hh:d:Sims-Williams:Manichaean**\n**hh:g:Benveniste:Sogdienne**\n**hh:g:Gauthiot:Sogdienne**\n**hh:g:Gerschewitsch:Manichean:1943**\n**hh:g:Gershevitch:Manichean**\n**hh:s:Sims-Williams:Sogdian**\n**hh:s:Skjaervo:Sogdian**\n**hh:s:Yoshida:Sogdian**\n**hh:typ:Gharib:Sogdian**\n**mpieva:Gershevitch1961Agrammar**"
+  },
+  "altnames": {
+    "lexvo": "\nIdioma sogdiano [es]\nJęzyk sogdyjski [pl]\nLingua Sogdiana [la]\nSogda lingvo [eo]\nSogdian [en]\nSogdian language [en]\nSogdien [fr]\nSogdin kieli [fi]\nSogdisch [nl]\nSogdische Sprache [de]\nSogdiska [sv]\nSoğdca [tr]\nsogdien [fr]\nСăкăт чĕлхи [cv]\nСогдийски език [bg]\nСогдийский язык [ru]\nСогъдаг æвзаг [os]\nزبان سغدی [fa]\nภาษาซอกเดีย [th]\nソグド語 [ja]\n粟特语 [zh]\n소그드어 [ko]",
+    "hhbib_lgcode": "\nChristian Sogdian\nManichaean Sogdian"
+  },
+  "triggers": {
+    "lgcode": "\nsogdian\nsogdienne"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient languages of the Middle East and Central Asia are attested, but missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One is Sogdian (**hh:s:Skjaervo:Sogdian**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "sog"
+  },
+  "classification": {
+    "sub": "**hh:v:Kim:Ossetic**",
+    "subrefs": "\n**hh:v:Kim:Ossetic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Sogdian (sog-sog) = 10 (Extinct)."
+  }
+}

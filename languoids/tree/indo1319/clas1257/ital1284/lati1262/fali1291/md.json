@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Faliscan",
+    "hid": "xfa",
+    "level": "language",
+    "iso639-3": "xfa",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35669\nhttps://en.wikipedia.org/wiki/Faliscan_language",
+    "longitude": "12.345",
+    "latitude": "42.3",
+    "timespan": "-0600-01-01/-0200-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Tabolli:Faliscans**\n**hh:h:Visscher:Roman-Languages**\n**hh:hb:Zair:Ancient-Italy**\n**hh:hld:Conway:Italic**\n**hh:hv:Weiss:Italic**\n**hh:ld:Berenguer:Falisco**\n**hh:ld:Giacomelli:Falisca**\n**hh:ld:Giacomelli:Falische**\n**hh:ld:Maras:Falisca**\n**hh:s:Bakkum:Faliscus**\n**hh:vld:Baldi:Latin**\n**hh:vld:Deecke:Falisker**"
+  },
+  "triggers": {
+    "lgcode": "\nfaced\nfalisco\nfaliscus\nager\nitalic\n*dheh1\nperfecto\nfalische\nitalicas\nfalisca"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Faliscan (**hh:s:Bakkum:Faliscus**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xfa"
+  },
+  "classification": {
+    "sub": "**hh:hv:Weiss:Italic**",
+    "subrefs": "\n**hh:hv:Weiss:Italic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Faliscan (xfa-xfa) = 10 (Extinct)."
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nFaliscans\nFaliscus"
+  }
+}

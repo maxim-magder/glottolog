@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Wolio",
+    "hid": "wlo",
+    "level": "language",
+    "iso639-3": "wlo",
+    "latitude": "-5.33",
+    "longitude": "122.67",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Wolio](https://grambank.clld.org/languages/woli1241)\n[Wolio](https://wals.info/languoid/lect/wals_code_wlo)\nhttps://en.wikipedia.org/wiki/Wolio_language\nhttps://www.wikidata.org/entity/Q1185114"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anceaux:grimes:95**\n**cldf:husenabas:85**\n**hh:d:Abas:Wolio**\n**hh:d:Anceaux:Wolio**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:Donohue:Muna-Buton**\n**hh:hv:Rahmawati:Wolio-Laiyolo-Selayar**\n**hh:hv:vandenBerg:Munic**\n**hh:hv:vandenBerg:Wolio**\n**hh:hw:Kaseng:Sulawesi-Tenggara**\n**hh:hw:Stokhofetal:Holle:7:4**\n**hh:s:Abasetal:Wolio**\n**hh:s:Anceaux:Wolio**\n**hh:st:Alberth:Wolio**\n**hh:typ:Marlia:Wolio**\n**hh:w:Grimes:Wolio**\n**mpieva:Anceaux1987KamusBah**\n**sil16:25278**"
+  },
+  "altnames": {
+    "wals": "\nWolio",
+    "ruhlen (1987)": "\nWolio",
+    "moseley & asher (1994)": "\nWolio",
+    "multitree": "\nBaubau\nWolio",
+    "lexvo": "\nBahasa Wolio [id]\nWolio [en]\nWolio language [en]\n窩里沃語 [zh]\n월리오어 [ko]",
+    "hhbib_lgcode": "\nBouton\nIsland of Buton\nWolio (island of Buton)"
+  },
+  "triggers": {
+    "lgcode": "\nwolio\nkemaritiman"
+  },
+  "identifier": {
+    "wals": "wlo",
+    "multitree": "wlo"
+  },
+  "classification": {
+    "sub": "**hh:hv:vandenBerg:Wolio**",
+    "subrefs": "\n**hh:hv:vandenBerg:Wolio**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Wolio (wlo-wlo) = 6b (Threatened)."
+  }
+}

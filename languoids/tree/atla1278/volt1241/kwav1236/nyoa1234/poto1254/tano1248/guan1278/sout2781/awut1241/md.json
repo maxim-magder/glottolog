@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Awutu",
+    "hid": "afu",
+    "level": "language",
+    "iso639-3": "afu",
+    "latitude": "5.42441",
+    "longitude": "-0.59545",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Awutu_language\nhttps://www.wikidata.org/entity/Q34847"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3074**\n**eballiso2009:11472**\n**eballiso2009:22706**\n**eballiso2009:23926**\n**eballiso2009:31609**\n**eballiso2009:36339**\n**eballiso2009:50592**\n**eballiso2009:6344**\n**eballiso2009:6345**\n**eballiso2009:6349**\n**hh:h:Latham:Africa**\n**hh:hld:Bowdich:Cape-Coast-Ashantee**\n**hh:hvw:Painter:Guang**\n**hh:hw:KroppDakubu:WALDS1:I**\n**hh:hw:Stewart:Awutu-Larteh-Nkonya-Krachi**\n**hh:s:Obeng:Efutu**\n**hh:styp:Agyeman:Efutu**\n**hh:typ:Frajzngier:Awutu-Verb**\n**hh:typ:Frajzyngier:Awutu**\n**hh:w:JohnsonChristaller:Niger-Gold-Coast**\n**sil16:42599**"
+  },
+  "altnames": {
+    "multitree": "\nAwutu\nGuang",
+    "lexvo": "\nAwutu [en]",
+    "hhbib_lgcode": "\nAffootoo\nAwutu-Obutu\nEfutu\nObutu"
+  },
+  "triggers": {
+    "lgcode": "\ngoldcust\nenvoyee\nreferrible\nachanti\nfunfhundert\nefutu\ngoudkust\nawutu"
+  },
+  "identifier": {
+    "multitree": "afu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stewart:Kwa**",
+    "subrefs": "\n**hh:hv:Stewart:Kwa**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Effutu (1456-afu-efu) = Threatened (100 percent certain, based on the evidence available)"
+  }
+}

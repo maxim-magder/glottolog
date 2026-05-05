@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Saint Lucian Creole French",
+    "hid": "acf",
+    "level": "language",
+    "iso639-3": "acf",
+    "latitude": "15.3947",
+    "longitude": "-61.3641",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "LC"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Saint_Lucian_Creole\nhttps://www.wikidata.org/entity/Q3006285"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3393**\n**cldf:adone:ed:03:5**\n**cldf:baker:bruyn:ed:99**\n**cldf:baker:ed:95:3**\n**cldf:baker:ed:95:4**\n**cldf:escure:schwegler:ed:04:5**\n**cldf:mcworther:ed:00:1**\n**cldf:pressman:97**\n**cldf:veronique:ed:96:1**\n**hh:d:Mondesir:Lucian-Creole**\n**hh:g:Carrington:StLucian**\n**hh:g:Phillip:Creole-Grenade**\n**hh:hsoc:Allen:Sainte-Lucie**\n**hh:hvs:Dalphinis:Kriul-Krio-Patwa**\n**hh:hvw:Brun-Trigaud:Antilles**\n**hh:s:Allen:Sainte-Lucie**\n**hh:s:Amastae:Dominican**\n**hh:s:Bellisle:Antilles**\n**hh:s:ByrneMilagros:El-Callao**\n**hh:s:Hancock:Trinidad-Creole-French**\n**hh:s:Thomas:Trinidad-Creole**\n**hh:s:Toynbee:St-Lucia-Patois**\n**hh:soc:Ferreira:Patua-Paria**\n**hh:soc:Mitchell:Kweyol**\n**hh:soc:St-Hilaire:Kweyol**\n**hh:typ:Chapuis:Kweyol**\n**iso6393:2009-069**\n**mpieva:2001Corpuscr**\n**sil16:31057**\n**sil16:32907**\n**sil16:32908**\n**sil16:32909**\n**sil16:32910**\n**sil16:39306**\n**sil16:43537**\n**sil16:43539**\n**sil16:43540**\n**sil16:43548**\n**sil16:43549**\n**sil16:43550**\n**sil16:45238**\n**sil16:45937**\n**sil16:45938**\n**sil16:45939**\n**sil16:46134**\n**sil16:46135**\n**sil16:46177**\n**sil16:47782**"
+  },
+  "altnames": {
+    "multitree": "\nKwèyòl\nKwéyòl\nLesser Antillean Creole French\nLesser Antillean Creole French.\nLesser Antillies Creole French\nPatois\nPatwa\nSaint Lucian Creole French\nTrinidadian Creole French",
+    "lexvo": "\nCréole sainte-lucien [fr]\nSaint Lucian Creole French [en]",
+    "hhbib_lgcode": "\n8xSaint Lucie\nAntillean Creole French\nDominican Creole\nDominican Creole French\nEl Callao\nGrenada Creole French\nGuiria CF\nKwéyòl\nPatuá in Paria\nSt. Lucian Patwa\nTrinidad CF"
+  },
+  "triggers": {
+    "lgcode": "\nlucia\nreflexification\nkweyol\ncallao\nlucian\nguiria\nsons"
+  },
+  "identifier": {
+    "wals": "lcr",
+    "multitree": "acf"
+  },
+  "classification": {
+    "sub": "**hh:hv:Corne:French-Creole** **hh:h:Marrero:Antillas-Francesas**",
+    "subrefs": "\n**hh:h:Marrero:Antillas-Francesas**\n**hh:hv:Corne:French-Creole**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lesser Antillean French Creole (acf-acf) = 5* (Developing). De facto language of national identity."
+  }
+}

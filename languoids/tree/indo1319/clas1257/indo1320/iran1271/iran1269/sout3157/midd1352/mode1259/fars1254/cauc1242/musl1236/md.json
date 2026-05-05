@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Muslim Tat",
+    "hid": "ttt",
+    "level": "language",
+    "iso639-3": "ttt",
+    "latitude": "41.425062",
+    "longitude": "46.645589",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "IR",
+      "RU"
+    ],
+    "links": "\n[Muslim Tat](https://endangeredlanguages.com/lang/3041)\n[Tat (Muslim)](https://wals.info/languoid/lect/wals_code_tmu)\nhttps://www.wikidata.org/entity/Q123964178"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:grjunberg:63**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:d:Soltanov:Tati**\n**hh:es:Haciyev:Tatlarinin**\n**hh:g:Grjunberg:Severoazerbaidzjanskikh**\n**hh:g:Mammadova:Tat-Apsheron**\n**hh:g:Suleymanov:Sirvan-Tat**\n**hh:g:Suleymanov:Sirvan-Tat:2019**\n**hh:hv:Miller:Taty**\n**hh:s:Galtaxcyan:Tateren**\n**hh:s:Grjunberg:Tatskij**\n**hh:s:Grjunberg:Tatskij:1982**\n**hh:s:Haciyev:Tat**\n**hh:s:Huseynova:Lahic-Tatlarinin**\n**hh:s:Miller:Tatskago**\n**hh:t:Berezin:Armyansko-Tatskie**\n**hh:v:Grjunberg:Tatskogo**\n**mpieva:Grjunberg1963Jazyksev**\n**mpieva:Zoka1954Thediale**\n**sil16:45587**\n**sil16:45623**"
+  },
+  "altnames": {
+    "wals": "\nTat (Muslim)",
+    "ruhlen (1987)": "\nTat",
+    "moseley & asher (1994)": "\n(Tati)",
+    "multitree": "\nMuslim Tat\nMussulman Tati\nTat\nTat (Muslim)\nTat, Muslim\nTati\nTatí musulmán",
+    "lexvo": "\nMuslim Tat [en]\nTat language [en]\nTata lingvo [eo]\nTateg [br]\nTatin kieli [fi]\nТатский язык [ru]\nزبان تاتی قفقاز [fa]\nภาษาตัต [th]",
+    "hhbib_lgcode": "\nArmeno-Tat\nArmyansko-Tatskie\nBalaxany-etc Tatski\nShirvan\nSirvan\nTat de l'Apshéron\nTat-Muslim\nŞirvan",
+    "elcat": "\nMuslim Tat\nMussulman Tati\nTat\nTati\nzuhun tati\nзуун тати\nтатский язык\nԹաթերեն\nთათური ენა"
+  },
+  "triggers": {
+    "lgcode": "\ntatskij\ntatskago\ntatov\nkeringan"
+  },
+  "identifier": {
+    "wals": "tmu",
+    "multitree": "ttt",
+    "endangeredlanguages": "3041"
+  },
+  "classification": {
+    "sub": "**hh:g:Suleymanov:Sirvan-Tat**:27-28",
+    "subrefs": "\n**hh:g:Suleymanov:Sirvan-Tat**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Muslim Tat (3041-ttt) = Severely Endangered (60 percent certain, based on the evidence available) (The speakers of Tat in Azerbaijan use Azerbaijani in school and for wider communication.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Toba",
+    "hid": "tob",
+    "level": "language",
+    "iso639-3": "tob",
+    "latitude": "-23.77",
+    "longitude": "-61.96",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BO",
+      "PY"
+    ],
+    "links": "\n[Toba](https://endangeredlanguages.com/lang/2143)\n[Toba](https://wals.info/languoid/lect/wals_code_tob)\nhttps://en.wikipedia.org/wiki/Toba_Qom_language\nhttps://phoible.org/languages/toba1269\nhttps://www.wikidata.org/entity/Q3113756"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:255**\n**cldf:buckwalter:80**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:crevels:12:3**\n**cldf:ed:10**\n**cldf:karsten:32:1**\n**cldf:karsten:32:2**\n**cldf:klein:81**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:messineo:02**\n**cldf:messineo:04**\n**cldf:miller:65:1**\n**cldf:miller:66:2**\n**cldf:niklison:16**\n**cldf:np:nd:264**\n**cldf:palavecino:55**\n**haspelmath:messineo_clausulas_2009**\n**hh:d:Buckwalter:Toba**\n**hh:d:Tebboth:Toba**\n**hh:e:Gordillo:Toba**\n**hh:g:Belen:Toba**\n**hh:g:Gonzalez:Toba**\n**hh:g:Gonzalez:Toba:PhD**\n**hh:g:ManelisKlein:Toba**\n**hh:g:Messineo:Toba**\n**hh:h:Balzan:Centrale-America-Meriodionale**\n**hh:hew:Pena:Chaco**\n**hh:ht:Hervas:Saggio**\n**hh:ht:Marietti:CCL**\n**hh:hv:BrunoNajlis:Tobas-Pilagas**\n**hh:hvs:Adam:Guaicuru**\n**hh:s:Censabella:Toba**\n**hh:s:Klein:Toba**\n**hh:s:ManelisKlein:Toba**\n**hh:s:Reyburn:Toba**\n**hh:s:Susnik:Toba**\n**hh:sd:Ducci:Tobas**\n**hh:sw:Lafone:Toba**\n**hh:sw:Lafone:Toba:1893-1896-1899**\n**hh:typ:Carpio:Toba**\n**hh:typ:Cuneo:Toba-Qom-Foco**\n**hh:typ:CuneoMessineo:Toba-Qom**\n**hh:typ:MessineoCuneo:Toba-Maka**\n**hh:w:Karsten:Toba**\n**hh:w:Loukotka:Poco**\n**hh:w:Vellard:Toba**\n**mpieva:Citro2003Cuerposs**"
+  },
+  "altnames": {
+    "wals": "\nToba",
+    "ruhlen (1987)": "\nToba",
+    "moseley & asher (1994)": "\nToba",
+    "multitree": "\nChaco Sur\nNamqom\nQom\nToba\nToba Qom\nToba Sur",
+    "lexvo": "\nQumlik simi [qu]\nToba Qom language [en]\nToba [en]\nTobų kalba [lt]",
+    "hhbib_lgcode": "\nOld Toba\nToba of Formosa\nToba-Mision-Vrich\nTobas",
+    "elcat": "\nNamqom\nQom\nToba\nToba Qom\nToba Sur"
+  },
+  "triggers": {
+    "lgcode": "\ntaccagale\nsoc\nNOT grammatical AND NOT vocabularios AND NOT of AND toba\njes\nzoonimia\npatrones\nsolano\nfitonimia\nespinillo\npilagas"
+  },
+  "identifier": {
+    "wals": "tob",
+    "multitree": "tob",
+    "endangeredlanguages": "2143"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Reconstruccion:2013**",
+    "subrefs": "\n**hh:hv:ViegasBarros:Guaicuru-Reconstruccion:2013**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Toba (2143-tob) = Vulnerable (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

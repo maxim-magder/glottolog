@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Peruvian Amazonian Spanish",
+    "hid": "spq",
+    "level": "language",
+    "iso639-3": "spq",
+    "latitude": "-4.74563",
+    "longitude": "-73.6507",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "PE"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q72256\nhttps://en.wikipedia.org/wiki/Amazonic_Spanish"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hldsoc:Perez-Silva:Castellanos-Peru**\n**hh:hv:Ramirez:Espanol-Peruano**\n**hh:s:Barraza:Castellano-Iquitos**\n**hh:s:Quintanilla:Castellano-Amazonico**\n**hh:s:Ramirez:Espanol-Amazonico**\n**hh:soctyp:Valenzuela:Espanol-Peruano-Amazonico**\n**hh:typ:Huaroc:Castellano-Shipibo**\n**hh:typ:Perez:Castellano-Iquitos**\n**hh:typ:Vallejos:Possession-Peruvian-Amazonian-Spanish**\n**iso6393:2020-002**"
+  },
+  "altnames": {
+    "multitree": "\nJungle Spanish\nSpanish, Loreto-Ucayali",
+    "lexvo": "\nLoreto-Ucayali Spanish [en]",
+    "hhbib_lgcode": "\nAmazonico\nAmazónico\nCastellano Iquitos is maybe\nCastellano amazónico del Perú\nCastellano de los shipibo del distrito de Yarinacocha (Ucayali)\nEspañol peruano amazónico\nLoreto-Ucayali Spanish\nSpanish-Loreto-Ucayali",
+    "glottolog": "\nLoreto-Ucayali Spanish"
+  },
+  "triggers": {
+    "lgcode": "\niquitos AND castellano"
+  },
+  "identifier": {
+    "multitree": "spq"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:108-115",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Spanish, Charapa (spq-spq) = 6a* (Vigorous)."
+  }
+}

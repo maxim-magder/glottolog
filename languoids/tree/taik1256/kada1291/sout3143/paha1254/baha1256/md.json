@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Baha Buyang",
+    "hid": "yha",
+    "level": "language",
+    "iso639-3": "yha",
+    "latitude": "23.0105",
+    "longitude": "104.449",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Baha Buyang](https://endangeredlanguages.com/lang/1514)\nhttps://www.wikidata.org/entity/Q2879238\nhttps://en.wikipedia.org/wiki/Paha_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:li:06:2**\n**cldf:li:99:4**\n**cldf:ostapirat:00**\n**hh:g:Li:Buyang**\n**hh:hv:Edmondson:Kadai**\n**hh:hv:Ostapirat:Proto-Kra:1999**\n**hh:hvs:Li:Southwest-China**\n**hh:ld:Min:Buyang**\n**hh:phon:Li:Baha-Buyang**\n**hh:s:Li:Baha-Buyang:2003**\n**hh:s:LiLuo:Paha-Buyang**\n**hh:s:Liang:Buyang**\n**hh:st:LiLuo:Buyang**\n**hh:t:Li:Geyang**\n**iso6393:2007-012**"
+  },
+  "altnames": {
+    "multitree": "\nBuyang\nBuyang Zhuang\nBuyang, Baha\nGuangnan Buyang\nWestern Buyang",
+    "lexvo": "\nBaha Buyang [en]",
+    "hhbib_lgcode": "\nBuyang-Baha\nPaha\nPaha Buyang",
+    "elcat": "\nBaha\nBaha Buyang\nBuyang\nBuyang Zhuang\nGuangnan Buyang\nPaha Buyang\nWestern Buyang\n巴哈布央語"
+  },
+  "triggers": {
+    "lgcode": "\nproto AND kra\nbuyangjiu\nbaha\npaha"
+  },
+  "identifier": {
+    "multitree": "yha",
+    "endangeredlanguages": "1514"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edmondson:Kra**",
+    "subrefs": "\n**hh:hv:Edmondson:Kra**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Baha Buyang (1514-yha) = Severely Endangered (40 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

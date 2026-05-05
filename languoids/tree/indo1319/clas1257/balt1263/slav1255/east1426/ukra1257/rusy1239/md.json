@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Rusyn",
+    "hid": "rue",
+    "level": "language",
+    "iso639-3": "rue",
+    "latitude": "48.7171",
+    "longitude": "22.9579",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BY",
+      "HU",
+      "PL",
+      "RO",
+      "SK",
+      "UA"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Rusyn_language\nhttps://phoible.org/languages/rusy1239\nhttps://www.wikidata.org/entity/Q26245"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Ramach:Rusinski**\n**hh:e:Bonkalo:Rusyns**\n**hh:ev:Hnatjuk:Rusyny**\n**hh:g:Chomiak:Lemkivskij**\n**hh:g:Chomjak:Lemkivskoho**\n**hh:g:FontanskijXomyak:Lemkivskogo**\n**hh:g:Lewicki:Ruthenischen**\n**hh:g:Pugh:Rusyn**\n**hh:g:Ramach:Rusinski**\n**hh:h:Witkowski:Baczwancach**\n**hh:hv:Stieber:Zachodnio**\n**hh:phon:Stieber:Lemkow**\n**hh:s:Harajda:Ruskoho**\n**hh:s:Horbac:Pivdennolemkivska**\n**hh:s:Horoszczak:Lemkivsko**\n**hh:s:Kostelnyk:Bacvansko**\n**hh:s:Magocsi:Rusyn**\n**hh:s:Voloshyn:Ruszin**\n**hh:s:Voloshyn:Ruten**\n**hh:soc:Anonymous:Ruthenische**\n**hh:soc:Magocsi:Rusyn**\n**hh:ssoc:Coyne:Hutsulshchyna**\n**hh:sv:Bidwell:Backa-Ruthenians**\n**hh:sv:Broch:Kleinrussischen**\n**hh:svsoc:Vanko:Rusinov**\n**hh:svsoc:Vanko:Rusyns**\n**hh:typ:Boudovskaia:Transcarpathian**\n**hh:v:Birnbaum:Rusin**\n**hh:vtyp:Harasowska:Rusyn**\n**hh:vtyp:Harasowska:Rusyn:1995**\n**iso6393:2019-016**"
+  },
+  "altnames": {
+    "multitree": "\nCarpathian\nCarpatho-Rusyn\nRusyn\nRutenio\nRuthenian\nRuthène",
+    "lexvo": "\nBahasa Rusyn [id]\nIdioma rusino [es]\nIstočnorusinski jezik [sh]\nJęzyk rusiński [pl]\nLengua rutenn-a [lij]\nLingua rutena [it]\nRoetheens [nl]\nRosienu kalba [lt]\nRusina lingvo [eo]\nRusinsk [da]\nRusinska [sv]\nRusinski jezik [hr]\nRusinšćina [hsb]\nRusinščina [sl]\nRussiini keel [et]\nRussinische Sprache [de]\nRusyn [af]\nRusyn language [en]\nRuszin nyelv [hu]\nRusínčina [sk]\nRusínština [cs]\nRuteeni [fi]\nRutè [ca]\nИсточнорусински језик [sr]\nКарпа́тьскороу́сьскъ ѩꙁꙑ́къ [cu]\nРусински език [bg]\nРусински јазик [mk]\nРусинский язык [ru]\nРусинська мова [uk]\nРусінская мова [be]\nルシン語 [ja]\n卢森尼亚语 [zh]",
+    "hhbib_lgcode": "\nBachka Ruthenians\nBačka Ruthenians\nBilyn\nCarpatho-Rusyn\nCarpatho-Ruthenian\nCarpatho-Ruthenians\nHutsul\nLemkivskoho\nLemko\nLemko-Rusnak-Ugrorus\nPannonian Rusyn\nPreshov Rusyn of Slovakia\nRuthenisch\nRuthenischen in Galizien\nVojvodina Rusyn"
+  },
+  "triggers": {
+    "lgcode": "\nruthenischen\nlemkivskogo\nruthenisch\nschriftfrage\nnimeckyj\nruthenische\nrusyn\nklein"
+  },
+  "identifier": {
+    "multitree": "rue"
+  },
+  "classification": {
+    "sub": "**hh:g:Pugh:Rusyn**:1-9",
+    "subrefs": "\n**hh:g:Pugh:Rusyn**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Rusyn (407-rue) = Vulnerable"
+  }
+}

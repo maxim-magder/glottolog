@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pulabu",
+    "hid": "pup",
+    "level": "language",
+    "iso639-3": "pup",
+    "latitude": "-5.59558",
+    "longitude": "145.738",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Pulabu](https://lexibank.clld.org/languages/transnewguineaorg-pulabu)\n[pulabu](https://lexibank.clld.org/languages/zgraggenmadang-pulabu)\nhttps://en.wikipedia.org/wiki/Pulabu_language\nhttps://www.wikidata.org/entity/Q7259163"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hvw:Ray:NPapua**\n**hh:hvw:Zoller:24**\n**hh:hvw:Zoller:DNG**\n**hh:hw:Schmidt:Deutsch-Neuguinea**\n**hh:hw:Zgraggen:Rai**"
+  },
+  "altnames": {
+    "multitree": "\nPulabu",
+    "lexvo": "\nPulabu [en]",
+    "hhbib_lgcode": "\nKadda\nKadda (= Pulabu)"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang"
+  },
+  "identifier": {
+    "multitree": "pup"
+  },
+  "classification": {
+    "sub": "**hh:hv:ClaassenMcElhanon:Finisterre**:49 **hh:hw:Zgraggen:Rai**",
+    "subrefs": "\n**hh:hw:Zgraggen:Rai**\n**hh:hv:ClaassenMcElhanon:Finisterre**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pulabu (pup-pup) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Mwotlap",
+    "hid": "mlv",
+    "level": "language",
+    "iso639-3": "mlv",
+    "latitude": "-13.655015",
+    "longitude": "167.706277",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Motlav](https://endangeredlanguages.com/lang/4680)\n[Mwotlap](https://grambank.clld.org/languages/motl1237)\n[Mwotlap](https://lexibank.clld.org/languages/abvdoceanic-Mwotlap)\n[Mwotlap](https://wals.info/languoid/lect/wals_code_mwo)\n[Volow](https://endangeredlanguages.com/lang/10765)\nhttps://en.wikipedia.org/wiki/Mwotlap_language\nhttps://phoible.org/languages/motl1237\nhttps://www.wikidata.org/entity/Q2475538"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3627**\n**cldf:bril:ozanne-rivierre:ed:04:1**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:francois:01**\n**cldf:francois:03:2**\n**cldf:francois:05:1**\n**cldf:lewis:ed:09**\n**cldf:lynch:ross:etal:ed:02:19**\n**cldf:np:15:2**\n**cldf:np:nd:264**\n**cldf:tryon:10:1**\n**hh:d:Francois:Mwotlap**\n**hh:e:Vienne:Motlav**\n**hh:g:Francois:Mwotlap**\n**hh:g:Francois:Mwotlap:2003**\n**hh:htyp:Francois:Torres-Banks**\n**hh:hv:Francois:Ecology:NVanuatu**\n**hh:hv:Francois:NVanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Crowley:Mwotlap**\n**hh:s:Francois:Mwotlap**\n**hh:typ:Francois:Mwotlap:Macro-Verb**\n**hh:typ:Francois:Mwotlap:Serial**\n**iso6393:2008-075**\n**ldh:item_401642**\n**mpieva:2004Complexp**\n**mpieva:Franccois2001Contrain**\n**sil16:43316**\n**sil16:43317**"
+  },
+  "altnames": {
+    "wals": "\nMwotlap",
+    "ruhlen (1987)": "\nMotlav",
+    "moseley & asher (1994)": "\nMotlav",
+    "multitree": "\nBanks-Inseln\nMotalava\nMotlav\nMwotlap\nVolow",
+    "lexvo": "\nMotlav [en]\nMwotlap [en]\nМвотлап [ru]",
+    "hhbib_lgcode": "\nMotlav\nMwotlav\nVolow",
+    "elcat": "\nValuwa"
+  },
+  "triggers": {
+    "lgcode": "\nboundness\nmwotlap\nnakaka"
+  },
+  "identifier": {
+    "wals": "mwo",
+    "multitree": "mlv",
+    "endangeredlanguages": "4680"
+  },
+  "classification": {
+    "sub": "**hh:hv:Francois:Ecology:NVanuatu**",
+    "subrefs": "\n**hh:hv:Francois:Ecology:NVanuatu**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Motlav (4680-mlv) = Vulnerable (60 percent certain, based on the evidence available) ([Mwotlap is] still transmitted to children... safe from immediate endangerment.) [François 2011](cldf:francois:11:2)"
+  }
+}

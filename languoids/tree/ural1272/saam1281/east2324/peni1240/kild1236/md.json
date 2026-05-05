@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kildin Saami",
+    "hid": "sjd",
+    "level": "language",
+    "iso639-3": "sjd",
+    "latitude": "68.2158",
+    "longitude": "35.8348",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Kildin Saami](https://endangeredlanguages.com/lang/3565)\n[Kildin Saami](https://lexibank.clld.org/languages/wold-KildinSaami)\n[Kildin Sami](https://lexibank.clld.org/languages/northeuralex-sjd)\n[Saami (Kildin)](https://wals.info/languoid/lect/wals_code_ski)\nhttps://en.wikipedia.org/wiki/Kildin_S%C3%A1mi\nhttps://phoible.org/languages/kild1236\nhttps://www.wikidata.org/entity/Q33656"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aikio:06:2**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:kusmenko:riessler:etal:06**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rasmussen:shaunnolan:20**\n**cldf:ylikoski:ylikoski:16**\n**cldf:zachrisson:05**\n**hh:d:Afanaseva:Saamsko**\n**hh:g:Kert:Kildinskij**\n**hh:hb:RiesslerWilbur:Kola**\n**hh:ld:Wilbur:Kildin-Saami**\n**hh:phont:Szabo:Kolalappische**\n**hh:s:Afanaseva:Saamsko**\n**hh:s:Endyukovskij:Saamskij**\n**hh:s:Halasz:Orosz-Lapp**\n**hh:s:Kert:Saamskij**\n**hh:s:Riessler:Kildin-Saami**\n**hh:t:Itkonen:Kildinlappische**\n**hh:t:Kert:Saamskoj**\n**hh:typ:Erstadt:Kolskix-Saamov**\n**hh:typ:Riessler:Kildin-Saami**"
+  },
+  "altnames": {
+    "wals": "\nSaami (Kildin)",
+    "wals other": "\nKildin\nKildin Lappish\nKildin Saami",
+    "ruhlen (1987)": "\nKola Saame",
+    "moseley & asher (1994)": "\nSaame",
+    "multitree": "\n\"Kildin Lappish\"\n\"Lapp\"\nEastern\nEastern Saami\nKildin-Lappisch\nLapp\nLappic\nLappisch\nLappish\nOstlappisch\nRussisch-Lappisch\nSaam\nSaami\nSaami (Kildin)\nSaami Kildin\nSaami, Kildin\nSaamí de Kildin\neast dialect\nlapin kieli\nlapon\nlappisk\nlopary\nostlappischer Dialekt\nsaamen kieli\nsaamskij jazyk\nsabme\nsame-\nsāme-giellâ",
+    "lexvo": "\nGielddasámegiella [se]\nKildin Sami [en]\nKildin-samea lingvo [eo]\nKildini saami keel [et]\nKildino samių kalba [lt]\nKildinsamische Sprache [de]\nKildinsamisk [no]\nKildinsamisk språk [nn]\nKildinsamiska [sv]\nKildinsamíska [is]\nKiltinänsaame [fi]\nLingua sami di Kildin [it]\nLíngua sami de Kildin [pt]\nSame de Kildin [fr]\nSami kildin [es]\nSamieg Kildin [br]\nКилдин-саами мотт [ce]\nКилдин-саамски език [bg]\nКилдински самиски јазик [mk]\nКильди́ньскъ саа́мьскъ ѩꙁꙑ́къ [cu]\nКильдин Саами кыв [kv]\nКильдинский саамский язык [ru]\n基爾丁-薩米語 [zh]",
+    "hhbib_lgcode": "\nKildin\nKildin Sami\nSaami-Kildin\nSaamskij here is Kildin Sami",
+    "elcat": "\n\"Kildin Lappish\"\n\"Lapp\"\nEastern Saami\nGielddasámegiella\nKiillt saam' kiill\nKildin Saami\nKildin Sami\nKildin Sámi\nKola Saami\nkiltinänsaame\nКӣллт са̄мь кӣлл\nкильдинский саамский язык"
+  },
+  "triggers": {
+    "lgcode": "\nkildinlappische\nkildin"
+  },
+  "identifier": {
+    "wals": "ski",
+    "multitree": "sjd",
+    "endangeredlanguages": "3565"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sammallahti:Saami**:6-38",
+    "subrefs": "\n**hh:hv:Sammallahti:Saami**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kildin Saami (3565-sjd) = Severely Endangered (60 percent certain, based on the evidence available) (...several older and even a few younger Kildin Saami use their mother tongue in conversation with family members, relatives and friends. On the whole, however, the number of Kildin speakers is decreasing rapidly from year to year and the language must be characterized as severely endangered. Especially among the younger generation, there is a strong decline in active language competence due to the lack of a vibrant speech community and the lack of social motivations for learning and using Saami.) [Riessler and Wilbur 2007](cldf:riessler:wilbur:07)"
+  }
+}

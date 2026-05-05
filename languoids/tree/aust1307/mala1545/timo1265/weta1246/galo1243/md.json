@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Galoli-Talur",
+    "hid": "gal",
+    "level": "language",
+    "iso639-3": "gal",
+    "latitude": "-8.61074",
+    "longitude": "125.959",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "TL"
+    ],
+    "links": "\n[Galoli](https://endangeredlanguages.com/lang/9169)\nhttps://www.wikidata.org/entity/Q35322\nhttps://en.wikipedia.org/wiki/Galoli_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:kaufman:12**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:pepandze:05**\n**hh:d:Duarte:Atauro**\n**hh:e:Duarte:Atauro**\n**hh:ew:deMagalhaes:Atauro**\n**hh:h:Taber:Maluku**\n**hh:hvtyp:Hull:Timoric**\n**hh:hvw:Capell:Timor**\n**hh:hvw:Hinton:Wetar**\n**hh:hvw:Hull:Timor:Austronesian**\n**hh:hvw:Taber:SWMaluku**\n**hh:s:Hull:Galoli**\n**hh:s:Sadnyana:Galolen**\n**hh:s:daSilva:Galoli**\n**hh:sd:daSilva:Galoli**\n**hh:w:Stokhofetal:Holle:3:1**\n**iso6393:2012-151**\n**langsci:capell:44**"
+  },
+  "altnames": {
+    "multitree": "\nGalole\nGaloli",
+    "lexvo": "\nGaloli [en]",
+    "hhbib_lgcode": "\nDadu'a\nGalolen\nGaloli\nHiay (Wetar)\nIlwaki (Wetar)\nLir Talo\nMakili\nRêssuk\nTalur\nWetar",
+    "elcat": "\nGalole\nGalolen\nGaloli"
+  },
+  "triggers": {
+    "lgcode": "\ngaloli"
+  },
+  "identifier": {
+    "multitree": "gal",
+    "endangeredlanguages": "9169"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:195-202 **hh:hvw:Hull:Timor:Austronesian** **hh:hv:Edwards:Rote-Meto:2021**:77-86",
+    "subrefs": "\n**hh:hvw:Hull:Timor:Austronesian**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Galoli (9169-gal) = Vulnerable (20 percent certain, based on the evidence available) (Galoli is used by older speakers in most domains, but younger speakers are increasingly using Tetun and Indonesian in most spheres of life.\n\nIntergenerational transmission of specialized traditional knowledge and vocabulary is breaking down, and there is strong evidence that younger speakers (under 40) are not using full inflectional paradigms. Speakers in Dili generally have only an emblematic command of the language.) [Kaufman 2012](cldf:kaufman:12)"
+  }
+}

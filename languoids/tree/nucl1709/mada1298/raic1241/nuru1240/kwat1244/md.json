@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Kwato",
+    "hid": "kop",
+    "level": "language",
+    "iso639-3": "kop",
+    "latitude": "-5.53799",
+    "longitude": "145.629",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Waube](https://lexibank.clld.org/languages/transnewguineaorg-waube)\n[waube](https://lexibank.clld.org/languages/zgraggenmadang-waube)\nhttps://en.wikipedia.org/wiki/Waube_language\nhttps://www.wikidata.org/entity/Q11732373"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hvld:ZGraggen:Madang-Adelbert**\n**hh:hw:Zgraggen:Rai**\n**hh:w:Anonymous:Ramu-Wabe**\n**hh:w:Priestley:Kwato**\n**hh:wsoc:Lambrechtetal:Waube**\n**iso6393:2010-029**\n**silpng:silpng2001-2003:67**"
+  },
+  "altnames": {
+    "multitree": "\nKwato\nWaupe",
+    "lexvo": "\nKwato [en]",
+    "hhbib_lgcode": "\nWabe (Mubu)\nWaube"
+  },
+  "triggers": {
+    "lgcode": "\nrai AND madang\nwaube\nkop"
+  },
+  "identifier": {
+    "multitree": "kop"
+  },
+  "classification": {
+    "sub": "**hh:hv:Pawley:Chequered-TNG** **hh:hv:PawleyHammarstrom:TNG:2013**",
+    "subrefs": "\n**hh:hv:Pawley:Chequered-TNG**\n**hh:hv:PawleyHammarstrom:TNG:2013**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Waube (kop-kop) = 6b (Threatened)."
+  }
+}

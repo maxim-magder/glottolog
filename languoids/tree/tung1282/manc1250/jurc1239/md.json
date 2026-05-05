@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Jurchen",
+    "hid": "juc",
+    "level": "language",
+    "iso639-3": "juc",
+    "latitude": "44.412626",
+    "longitude": "126.866803",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56731\nhttps://en.wikipedia.org/wiki/Jurchen_language\n[Jurchen](https://wals.info/languoid/lect/wals_code_jur)",
+    "timespan": "1185-01-01/1644-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1563**\n**cldf:alpatov:ed:97:2**\n**cldf:naeher:ed:04:4**\n**cldf:pevnov:97**\n**hh:d:JinJin:Nuzhen**\n**hh:e:Franke:Kitans-Jurchens**\n**hh:ld:Ke:Nuzhen**\n**hh:ld:Kiyose:Jurchen**\n**hh:ld:Kiyose:Jurchen:1977**\n**hh:s:KaneMiyake:Jurchen**\n**hh:vld:Holzl:Kyakala**\n**hh:w:Kane:Jurchen**\n**hh:wt:Grube:Jucen**\n**iso6393:2022-007**\n**mpieva:Pevnov2004Cteniecz**"
+  },
+  "altnames": {
+    "wals": "\nJurchen",
+    "wals other": "\nHezhen",
+    "lexvo": "\nDjourtcheneg [br]\nDzsürcsi nyelv [hu]\nDžurtšenin kieli [fi]\nJurchen [en]\nJurchen language [en]\nЏурченски јазик [mk]\nЧжурчжэньский язык [ru]\nภาษาจูร์เชน [th]\n女真語 [zh]\n여진어 [ko]",
+    "hhbib_lgcode": "\nJurchens\nKyakala"
+  },
+  "triggers": {
+    "lgcode": "\njucen\nchzhurchzhenskij\njurchen"
+  },
+  "identifier": {
+    "wals": "jur"
+  },
+  "classification": {
+    "sub": "**hh:w:Kazama:Tungusic**:1-11 **hh:hv:Whaley:Tungusic**",
+    "subrefs": "\n**hh:hv:Whaley:Tungusic**\n**hh:w:Kazama:Tungusic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2020-04-01T21:11:32",
+    "comment": "Jurchen (juc-juc) = 10 (Extinct)."
+  }
+}

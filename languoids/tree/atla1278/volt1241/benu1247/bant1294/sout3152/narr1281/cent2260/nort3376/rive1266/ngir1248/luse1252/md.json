@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Lusengo",
+    "hid": "lse",
+    "level": "language",
+    "iso639-3": "lse",
+    "latitude": "0.16988",
+    "longitude": "18.3991",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Lusengo](https://grambank.clld.org/languages/luse1252)\nhttps://en.wikipedia.org/wiki/Losengo_language\nhttps://www.wikidata.org/entity/Q6683546"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hutereau:10:1**\n**cldf:lindemann:06**\n**eballiso2009:10584**\n**eballiso2009:10591**\n**eballiso2009:2496**\n**eballiso2009:28707**\n**eballiso2009:42748**\n**eballiso2009:44246**\n**eballiso2009:51530**\n**eballiso2009:57534**\n**hh:e:Hutereau:Mafoto**\n**hh:e:Lindeman:Upotos**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Mangulu:Ngiri**\n**hh:hvs:Stapleton:Congo**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hvw:Mortier:Ubangi**\n**hh:hw:Johnston:Uganda:2**\n**hh:s:Hulstaert:Eleku**\n**hh:s:Kenemo:Opoto**\n**hh:s:Mangulu:Bongili**\n**hh:s:Mangulu:Poto**\n**hh:w:Lindeman:Mamoi**"
+  },
+  "altnames": {
+    "multitree": "\nLosengo\nLusengo",
+    "lexvo": "\nLusengo [en]",
+    "hhbib_lgcode": "\nBaenga\nBolombo\nEleku\nEnga C315\nI think this is Eleku\nLeku 1 Ibenge C30Le1\nLeku 2 Bonginda C30Le2\nLi-Kangana\nLi-foto or Upoto\nLoleko\nLoleku\nLosengo\nMongo n 396-397\nMpesa\nOpoto\nPoto\nUpoto\nUpotos"
+  },
+  "triggers": {
+    "lgcode": "\nlikangala\nmbudza\nbapoto\nupotos\nbabale\nmamoi\nvicariat\nyakata\npoto\nmafoto"
+  },
+  "identifier": {
+    "multitree": "lse;lsng"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:158-189",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lusengo (lse-lse) = 6a* (Vigorous)."
+  }
+}

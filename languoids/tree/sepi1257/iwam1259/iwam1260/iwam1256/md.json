@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Iwam",
+    "hid": "iwm",
+    "level": "language",
+    "iso639-3": "iwm",
+    "latitude": "-4.27346",
+    "longitude": "141.817",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Iwam](https://grambank.clld.org/languages/iwam1256)\n[Iwam](https://wals.info/languoid/lect/wals_code_iwm)\n[May River Iwam](https://endangeredlanguages.com/lang/10580)\nhttps://en.wikipedia.org/wiki/Iwam_language\nhttps://phoible.org/languages/iwam1256\nhttps://www.wikidata.org/entity/Q3915215"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:Jorgensen:May-Sepik-Iwam**\n**hh:e:Paulsen:May-Iwam**\n**hh:e:Schuster:May-River**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Capell:SWPacific:1962**\n**hh:hvld:LaycockZGraggen:Sepik-Ramu**\n**hh:hvld:Rehburgetal:Iwam**\n**hh:hvw:Laycock:Lumi**\n**hh:phon:Laycock:Upper-Sepik**\n**hh:s:Conrad:Iwam**\n**hh:typ:Conrad:Iwam-Noun**\n**hh:typ:Yoshida:Iwam**\n**hh:w:Laycock:D32**\n**hh:w:Newton:Sepik**\n**sil16:13083**"
+  },
+  "altnames": {
+    "wals": "\nIwam",
+    "ruhlen (1987)": "\nIwam",
+    "moseley & asher (1994)": "\nIwam",
+    "multitree": "\nIwam\nMay River",
+    "lexvo": "\nIwam [en]\nIwam language [en]\nJęzyk iwam [pl]",
+    "hhbib_lgcode": "\nIwam May River\nMay River Iwam",
+    "elcat": "\nIwam\nMay River\nMay River Iwam"
+  },
+  "triggers": {
+    "lgcode": "\nriver AND batteries\negality\nbatteries\nmaler\nfighting"
+  },
+  "identifier": {
+    "wals": "iwm",
+    "multitree": "iwm",
+    "endangeredlanguages": "10580"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik:2013**",
+    "subrefs": "\n**hh:hv:Foley:Sepik:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "May River Iwam (10580-iwm) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

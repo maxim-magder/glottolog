@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gha-mu",
+    "hid": "sfm",
+    "level": "language",
+    "iso639-3": "sfm",
+    "latitude": "26.55",
+    "longitude": "105.1",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Gha-Mu_language\nhttps://www.wikidata.org/entity/Q7542773"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ewt:Ruyet:Magpie-Miao**\n**hh:hv:Chang:Proto-Miao**\n**hh:hv:Johnson:Far-Western-Hmongic**\n**hh:hv:Purnell:Miao-Yao**\n**iso6393:2007-188**"
+  },
+  "altnames": {
+    "multitree": "\nAtse\nGhab-Mvb Ghab-Svd\nGhuab-Hmongb Ghuab-Soud\nHsiao Hwa Miao\nMiao, Small Flowery\nSmall Flowery Miao\nXiao Hua Miao",
+    "lexvo": "\nSmall Flowery Miao [en]",
+    "hhbib_lgcode": "\nCh'uan Miao\nChuan Miao\nChuilong\nGha-Mu\nHua-chieh\nMa-chia-t'un of Hsü-yung district in Szechuan from Ruey and Kuan 1962\nMagpie Miao\nMiao-Small Flowery\nMu\nSmall Flowery Miao\nSu-yung\nXingfa"
+  },
+  "triggers": {
+    "lgcode": "\nchuan"
+  },
+  "identifier": {
+    "multitree": "sfm"
+  },
+  "classification": {
+    "sub": "**hh:styp:McLaughlin:Hmong-Soud**:6-10 **hh:vb:Castroetal:Western-Miao**",
+    "subrefs": "\n**hh:vb:Castroetal:Western-Miao**\n**hh:styp:McLaughlin:Hmong-Soud**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Miao, Small Flowery (sfm-sfm) = 6a (Vigorous). Language of recognized nationality: Miao."
+  }
+}

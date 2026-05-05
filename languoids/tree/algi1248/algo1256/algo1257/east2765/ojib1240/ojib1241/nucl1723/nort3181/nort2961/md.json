@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Northwestern Ojibwa",
+    "hid": "ojb",
+    "level": "language",
+    "iso639-3": "ojb",
+    "latitude": "51.6192",
+    "longitude": "-87.7862",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Northwestern Ojibwa](https://grambank.clld.org/languages/nort2961)\nhttps://en.wikipedia.org/wiki/Northwestern_Ojibwa\nhttps://www.wikidata.org/entity/Q7060356"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baraga:78:2**\n**hh:e:Hallowell:Ojibwe-Berens**\n**hh:e:RogersTaylor:Northern-Ojibwa**\n**hh:e:Schmalz:Ojibwa**\n**hh:g:Valentine:Nishnaabemwin**\n**hh:g:Wilson:Ojebway**\n**hh:hvw:Valentine:Ojibwe**\n**ldh:item_403675**\n**mpieva:Baraga1878Atheoret**\n**mpieva:Sugarhead1996alsoinOj**\n**sil16:31485**\n**sil16:47949**\n**sil16:47950**"
+  },
+  "altnames": {
+    "multitree": "\nChippeway\nNorthwestern Ojibwa\nOjibwa\nOjibwa, Northwestern\nOjibway\nOjibwe\nOjibwe du nord-ouest\nOyibua noroccidental\nSalteaux\nSaulteau\nSaulteaux",
+    "lexvo": "\nNorthwestern Ojibwa [en]\nNorthwestern Ojibwa language [en]",
+    "hhbib_lgcode": "\nAround Lake Superior\nBerens\nBerens River Ojibwa\nEastern Ojibwa\nNishanaabemwin southern Ontario along the shores of Lake Huron and points the east roughly as far as the Ottawa River"
+  },
+  "triggers": {
+    "lgcode": "\nojebway\nwalpole\nsauteux\nsyllabics"
+  },
+  "identifier": {
+    "multitree": "ojb"
+  },
+  "classification": {
+    "sub": "**hh:hv:RhodesTodd:Subarctic-Algonquian**:62",
+    "subrefs": "\n**hh:hv:RhodesTodd:Subarctic-Algonquian**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Northwestern Ojibwe (2365-ojb) = Vulnerable"
+  }
+}

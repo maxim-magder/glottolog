@@ -1,0 +1,38 @@
+{
+  "core": {
+    "name": "Muklomic",
+    "level": "language",
+    "hid": "NOCODE_Muklom",
+    "countries": [
+      "IN"
+    ],
+    "macroareas": [
+      "Eurasia"
+    ],
+    "longitude": "96.427282",
+    "latitude": "27.626127"
+  },
+  "classification": {
+    "sub": "**hh:hvld:vanDam:Tangsa-Nocte**:88-94 **hh:hv:vanDam:Patkaian** **hh:hv:vanDam:Patkaian-Northern-Naga**",
+    "subrefs": "\n**hh:hv:vanDam:Patkaian-Northern-Naga**\n**hh:hvld:vanDam:Tangsa-Nocte**\n**hh:hv:vanDam:Patkaian**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nMoklum\nMuklom\nTangsa Moklum\nTangsa dialects: Moklum",
+    "glottolog": "\nMuklom"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Mulder:Muklom**\n**hh:he:Dutta:Arunachal**\n**hh:hew:Grewal:Arunachal**\n**hh:hld:DasGupta:Tangsa**\n**hh:hv:Morey:Tangsa**\n**hh:hvld:vanDam:Tangsa-Nocte**\n**hh:ld:DasGupta:Tangsa**\n**hh:s:Bandyopadhyay:Tangsa**\n**hh:s:Ngemu:Moklum**\n**hh:typ:Mulder:Inverse-Muklom**\n**hh:typ:Mulder:Verb-Muklom**\n**hh:w:Bandyopadhyay:Tangsa**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "Mulder",
+    "date": "2025-03-19T11:52:53",
+    "comment": "Muklom (NOCODE_Muklom-NOCODE_Muklom) = 5 (Developing)."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Tangshang Naga [nst] in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 subsumes varieties which are not mutually intelligible (**hh:g:Mulder:Muklom**:34). Consequently, Muklom merits a separate language entry. See also: Pangwa Naga [nst].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Muklom"
+  }
+}

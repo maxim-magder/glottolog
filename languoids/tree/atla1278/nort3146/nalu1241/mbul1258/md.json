@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Mbulungish",
+    "hid": "mbv",
+    "level": "language",
+    "iso639-3": "mbv",
+    "latitude": "10.8553",
+    "longitude": "-14.7372",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GN",
+      "GW"
+    ],
+    "links": "\n[Mbulungish](https://endangeredlanguages.com/lang/7714)\nhttps://www.wikidata.org/entity/Q36003\nhttps://en.wikipedia.org/wiki/Mbulungish_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aberle:53**\n**cldf:childs:06**\n**cldf:krader:63**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:paulme:56**\n**cldf:vladimirtsov:48**\n**eballiso2009:32627**\n**hh:e:Berliner:Bulongic**\n**hh:e:Paulme:Baga**\n**hh:h:Lamp:Baga**\n**hh:hv:Fields:Baga**\n**hh:hv:Houis:Guinee-Cotiere**\n**hh:hvw:Fields:Rio-Nunez**\n**hh:typ:Golovko:Baga-Fore**\n**hh:w:Wilson:Baga**"
+  },
+  "altnames": {
+    "multitree": "\nBaga Foré\nBaga Monson\nBlack Baga\nBulunits\nLongich\nMbulungish\nMonchon\nMonshon",
+    "lexvo": "\nMbulungish [en]",
+    "hhbib_lgcode": "\nBaga 'Fore'\nBaga Foré\nBulongic\nBulonic\nBɔlɔŋits (previously known as Baga Foré – literally “the Black or Wild Baga”)\nMbuluNuc",
+    "elcat": "\nBaga Foré\nBaga Monson\nBlack Baga\nBulunits\nLongich\nMbulungish\nMonchon\nMonshon"
+  },
+  "triggers": {
+    "lgcode": "\nmbulungish\nnalu"
+  },
+  "identifier": {
+    "multitree": "mbv",
+    "endangeredlanguages": "7714"
+  },
+  "classification": {
+    "sub": "**hh:hv:PozdniakovSegerer:Atlantic:2017**",
+    "subrefs": "\n**hh:hv:PozdniakovSegerer:Atlantic:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Mbulungish (7714-mbv) = Threatened (20 percent certain, based on the evidence available) [Lewis et al. 2015](cldf:lewis:paul:etal:ed:15)"
+  }
+}

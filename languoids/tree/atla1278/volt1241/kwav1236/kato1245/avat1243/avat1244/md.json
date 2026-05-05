@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Avatime",
+    "hid": "avn",
+    "level": "language",
+    "iso639-3": "avn",
+    "latitude": "6.8688",
+    "longitude": "0.41314",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GH"
+    ],
+    "links": "\n[Avatime](https://grambank.clld.org/languages/avat1244)\n[Avatime](https://wals.info/languoid/lect/wals_code_avt)\nhttps://en.wikipedia.org/wiki/Avatime_language\nhttps://phoible.org/languages/avat1244\nhttps://www.wikidata.org/entity/Q34796"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:maddieson:hinnebusch:ed:98:2**\n**eballiso2009:10642**\n**eballiso2009:13734**\n**eballiso2009:17654**\n**eballiso2009:25464**\n**eballiso2009:28382**\n**eballiso2009:30114**\n**eballiso2009:35613**\n**eballiso2009:35617**\n**eballiso2009:40435**\n**eballiso2009:47336**\n**eballiso2009:54009**\n**hh:g:Ford:Avatime**\n**hh:h:Christaller:Togogebiets**\n**hh:h:KroppDakubu:Central-Togo**\n**hh:h:deLavergnedeTressan:Inventaire:AOF**\n**hh:he:Dittmer:Obervolta**\n**hh:hvw:Christaller:Mittel-Niger**\n**hh:hvw:Christaller:Sudan**\n**hh:hvw:Christaller:Volta**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:hw:Bertho:Moyen-Togo**\n**hh:hw:Kropp:Lefana-Akpafu-Avatime**\n**hh:hwtyp:Seidel:Togo**\n**hh:ld:Ford:Discourse-Three-Ghanaian**\n**hh:phon:Schuh:Avatime**\n**hh:s:Funke:Avatime**\n**hh:s:vanPutten:Avatime**\n**hh:styp:vanPutten:Avatime**\n**hh:typ:Defina:Avatime**\n**hh:typ:Ford:Avatime**\n**hh:typ:Schuh:Avatime**\n**hh:typ:vanPutten:Avatime**\n**hh:w:Funke:Avatime**\n**hh:w:Hornberger:Ewe**"
+  },
+  "altnames": {
+    "wals": "\nAvatime",
+    "ruhlen (1987)": "\nAvatime, Siya",
+    "moseley & asher (1994)": "\nAvatime",
+    "multitree": "\nAfatime\nAvatime\nSia\nSideme",
+    "lexvo": "\nAvatime [en]\nAvatime language [en]",
+    "hhbib_lgcode": "\n2xAvatime\nAfatime\nAvatime (Selbstbezeichnung Kedemonye oder Kedanema)\nAvatime nach Oko u.~Hornberger"
+  },
+  "triggers": {
+    "lgcode": "\navatimesprache\nneubekannte\navatime"
+  },
+  "identifier": {
+    "wals": "avt",
+    "multitree": "avn"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Ghana-Togo**",
+    "subrefs": "\n**hh:hv:Blench:Ghana-Togo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Avatime (avn-avn) = 5* (Developing)."
+  }
+}

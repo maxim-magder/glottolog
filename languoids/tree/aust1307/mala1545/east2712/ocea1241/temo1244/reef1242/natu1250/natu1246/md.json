@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Natügu",
+    "hid": "ntu",
+    "level": "language",
+    "iso639-3": "ntu",
+    "latitude": "-10.6771",
+    "longitude": "165.835",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Malo, Santa Cruz](https://lexibank.clld.org/languages/abvdoceanic-MaloSantaCruz)\n[Natügu](https://grambank.clld.org/languages/natu1246)\n[Natügu](https://wals.info/languoid/lect/wals_code_nbk)\nhttps://en.wikipedia.org/wiki/Nat%C3%BCgu_language\nhttps://phoible.org/languages/natu1246\nhttps://www.wikidata.org/entity/Q63308082"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:davenport:64**\n**cldf:ross:07**\n**hh:hv:Lincoln:Reef-Santa**\n**hh:hv:NaessBoerger:RSC**\n**hh:hv:Wurm:EPapuan**\n**hh:hv:Wurm:Papuan**\n**hh:hv:Wurm:Reef-Santa:1978**\n**hh:hv:Wurm:ReefSanta**\n**hh:hv:Wurm:ReefVocabulary**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:hvw:Wurm:Reef**\n**hh:ld:Codrington:Deni**\n**hh:ldsoc:BoergerZimmerman:Nalogo-Natugu**\n**hh:s:Wurm:Reef-Possession**\n**hh:s:delaFontinelle:Neo**\n**hh:st:Boerger:Natqgu**\n**hh:typ:vandenBergBoerger:Bola-Natugu**\n**hh:w:Grace:45**\n**hh:wsoc:Simons:Santa-Cruz**\n**iso6393:2008-070**"
+  },
+  "altnames": {
+    "glottolog": "\nNatugu",
+    "multitree": "\nLödäi\nNambakaengö\nNatqgu\nNatügu\nNorthern Santa Cruz\nSanta Cruz",
+    "lexvo": "\nNatügu [en]",
+    "hhbib_lgcode": "\nDeni (Santa Cruz)\nIō IO\nLondai\nLwowa\nLöndäi\nMalo\nMalo MAL\nMatu MAT\nMbanua BAN\nNambakaengö\nNatqgu\nNelua\nNemba NEM\nNeo\nNeo NEO\nNepa NEP\nNoka NOK\nNööle NLE\nSanta Cruz\nVenga VEN"
+  },
+  "triggers": {
+    "lgcode": "\nmoto\nexactement"
+  },
+  "identifier": {
+    "multitree": "ntu"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lincoln:Reef-Santa** **hh:hv:Wurm:EPapuan**",
+    "subrefs": "\n**hh:hv:Lincoln:Reef-Santa**\n**hh:hv:Wurm:EPapuan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Natügu (ntu-ntu) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Bantawa",
+    "hid": "bap",
+    "level": "language",
+    "iso639-3": "bap",
+    "latitude": "27.12147",
+    "longitude": "87.04738",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "NP"
+    ],
+    "links": "\n[Bantawa](https://endangeredlanguages.com/lang/1590)\n[Bantawa](https://grambank.clld.org/languages/bant1281)\n[Kiranti_Bantawa](https://lexibank.clld.org/languages/sagartst-Bantawa)\nhttps://en.wikipedia.org/wiki/Bantawa_language\nhttps://www.wikidata.org/entity/Q56500"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ebert:03:2**\n**cldf:ed:10**\n**cldf:eppele:11**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**cldf:rai:schackow:66**\n**cldf:winter:rai:03**\n**hh:d:Winter:Bantawa**\n**hh:g:Doornenbal:Bantawa**\n**hh:g:Rai:Bantawa**\n**hh:hvw:Grierson:3:I**\n**hh:ld:Wolfenden:Khambu-Dilpa**\n**hh:s:Nakkeerar:Rai**\n**hh:soc:Hima:Rokdung**\n**hh:ttyp:EbertGaenszle:Rai**\n**hh:vsoctyp:Cho:Bantawa**\n**hh:w:Hodgson:Kirantis**\n**hh:wsoc:Rai:Bantawa**\n**iso6393:2018-005**\n**mpieva:268**\n**sil16:41773**\n**sil16:42071**"
+  },
+  "altnames": {
+    "multitree": "\nBantaba\nBantawa\nBantawa Dum\nBantawa Rai\nBantawa Yong\nBantawa YÃ¼ng\nBontawa\nKiranti\nRai\nRungchenbung\nRungchengbung\nRungchhenbung\nRungtśhenbung",
+    "lexvo": "\nBantawa [en]\nBantawa language [en]\nBantawaish [gv]\nBantaweg [br]",
+    "hhbib_lgcode": "\nKhambu-Rungchenbung\nKhambu-Rungchhenbung\nRai\nRokdung\nRungchhenbung",
+    "elcat": "\nBantaba\nBantawa\nBantawa Dum\nBantawa Rai\nBantawa Yong\nBantawa Yüng\nBontawa\nKiranti\nRai\nRungchenbung\nRungchengbung\nRungchhenbung\nRungtśhenbung"
+  },
+  "triggers": {
+    "lgcode": "\ndilpa\nbantawa\nkhambu\nebert"
+  },
+  "identifier": {
+    "multitree": "bap",
+    "endangeredlanguages": "1590"
+  },
+  "classification": {
+    "sub": "**hh:sv:Gerber:Oberarun**:62-68",
+    "subrefs": "\n**hh:sv:Gerber:Oberarun**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Bantawa (1590-bap) = Threatened (100 percent certain, based on the evidence available) (Eastern Bantawa has the strongest vitality whereas Northern Bantawa is endangered with speakers shifting to Nepali. Language shift to Nepali is caused mainly by low homogeneity and relative prestige.) [Eppele 2011](cldf:eppele:11)"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Tabaru",
+    "hid": "tby",
+    "level": "language",
+    "iso639-3": "tby",
+    "latitude": "1.46563",
+    "longitude": "127.633",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Tabaru](https://grambank.clld.org/languages/taba1263)\n[Tabaru](https://wals.info/languoid/lect/wals_code_tbr)\nhttps://en.wikipedia.org/wiki/Tabaru_language\nhttps://www.wikidata.org/entity/Q11732670"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:damayu:91**\n**cldf:fortgens:28**\n**hh:h:Taber:Maluku**\n**hh:hvw:Hueting:Halmaherasche**\n**hh:s:Fortgens:Tabaroesch**\n**hh:s:Kotynski:Tabaru**\n**hh:s:Kotynski:Tabaru:MA**\n**hh:typ:Asplund:North-Halmahera**\n**hh:typ:Holton:North-Halmahera**\n**hh:w:Fortgens:Tabaru-Waioli**\n**mpieva:Burquest19921995Descript**\n**sil16:19382**\n**sil16:36876**"
+  },
+  "altnames": {
+    "wals": "\nTabaru",
+    "ruhlen (1987)": "\nTobaru",
+    "moseley & asher (1994)": "\nTabaru",
+    "multitree": "\nTabaru\nTobaru",
+    "lexvo": "\nTabaru [en]"
+  },
+  "triggers": {
+    "lgcode": "\ntabaru\ntabaroesch"
+  },
+  "identifier": {
+    "wals": "tbr",
+    "multitree": "tby;toba"
+  },
+  "classification": {
+    "sub": "**hh:hv:GrimesGrimes:NMoluccas**:51-54",
+    "subrefs": "\n**hh:hv:GrimesGrimes:NMoluccas**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Tabaru (tby-tby) = 5* (Developing)."
+  }
+}

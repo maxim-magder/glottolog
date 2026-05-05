@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Tombidi",
+    "hid": "NOCODE_Tombidi",
+    "level": "language",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "GA"
+    ],
+    "longitude": "12.362376",
+    "latitude": "-2.227418"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:31133**\n**hh:hb:Idiata:Gabon**\n**hh:hv:Alewijnseetal:Gabon**\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:ld:Kwenzi-Mikala:Ntumbidi**\n**hh:phon:Bingoumou:Ntumbidi**\n**hh:phon:Mouyissi:Ntumbidi**\n**hh:soc:Hombert:Muntumbudie**\n**hh:w:Bingoumou:Ntumbidi**"
+  },
+  "triggers": {
+    "lgcode": "\nrebe\nntumbidi\nrecits AND recension"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "The Gabonese Bantu language Tombidi\n(**hh:phon:Bingoumou:Ntumbidi**, **hh:w:Bingoumou:Ntumbidi**) is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29.  It is as distinct from all other Gabonese languages as any other Gabonese language included in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29\n(**hh:hv:Alewijnseetal:Gabon**, **hh:hb:Idiata:Gabon**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Tombidi"
+  },
+  "classification": {
+    "sub": "**hh:hv:Grollemund:Bantu-Nord-Ouest**:359-363 **hh:hvw:Koumbi:Kota-Kele**",
+    "subrefs": "\n**hh:hvw:Koumbi:Kota-Kele**\n**hh:hv:Grollemund:Bantu-Nord-Ouest**"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAkele des Lacs\nMetombolo\nMuntumbudie\nMutombidi\nNtumbidi\nNtumbəde\nNtùmbìdí\nTumbidi (Ntumbidi)\ntres proche a Ntumbidi de la sud de la Ngounié"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "Hombert",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Muntumbudie (NOCODE_Tombidi-NOCODE_Tombidi) = Critically Endangered."
+  }
+}

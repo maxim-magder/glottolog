@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Ibilo",
+    "hid": "ibi",
+    "level": "language",
+    "iso639-3": "ibi",
+    "latitude": "7.42662",
+    "longitude": "6.08384",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q11011534"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2011-153**"
+  },
+  "altnames": {
+    "multitree": "\nIbilo\nNigeria",
+    "lexvo": "\nIbilo [en]"
+  },
+  "iso_retirement": {
+    "comment": "The change I am proposing is that Ibilo [ibi] be changed from being a language\nwithin [Edo- Esan-Ora, North Central, Edoid, Benue-Congo, Volta-Congo,\nAtlantic-Congo, Niger-Congo], and be moved to being a dialect of Okpamheri\n[opa], located within the Northwestern Edoid branch.\n\nI have found no publication which places Ibilo within this subclassification.\nNor have I found any dialect called \"Ibilo\" in these languages. In talking to\nProf. Ron Schaefer (Southern Illinois University Edwardsville), who has\nextensive first hand experience with Emai and other Edoid languages, he knows of\nno languages or dialects called Ibilo in North Central. He also says that Ibillo\nis the principal village in the Okpamheri cluster, which include about 20 or so\nvillages.\n\nFurther, Ben Elugbe (University of Ibadan) has written extensively on\ncomparitive Edoid.\n\nElugbe (1989a: 24) cites that he used the Ibilo dialect of Okpamheri in his\ncomparative work, and Elugbe (1989b: 296) notes that the Ibilo dialect is spoken\nin Ibilo town, and is a dialect of Okpamheri. He further provides in (1989b:\n296) the consonant inventory of Ibilo, showing it has breathy voiced consonants,\nand a lenis/nonlenis distinction. These are features of the Northwest branch.\nThe Edo-Esan-Ora language group of North Central, within which Ibilo is\nclassified by Ethnologue, do not contain these phonological features.\n\nAlso, your map 6 of Nigeria (found at\nhttp://www.ethnologue.com/show_map.asp?name=NG&seq=80) shows that the code for\nIbilo on the map is 305. This places it in the Northwest area of Edoid\nlanguages, not the North Central.\n\nFinally, in a non-linguistics article, Oseni (1991: 224) notes Okpamheri people\nfrom a town \"Ibillo\".\n\nThese facts, I feel, warrant that its status as an independent language, with\nits own language code, be removed, unless there is some distinct evidence to\nclassify it as a separate language from Okpamheri [opa].\n\nThere is the possiblity that evidence and documentation exists that Ibilo is its\nown language within the North Central branch, or that perhaps it is some dialect\nof a North Central branch language, which happens to be homophonous with a\ndialect of Okpamheri in the Northwest branch. If this is the case, I would be\nvery interested to see which sources this information comes from.",
+    "code": "ibi",
+    "name": "Ibilo",
+    "effective": "2012-02-03",
+    "remedy": "Merged into language element [opa] Okpamheri",
+    "reason": "merge",
+    "change_request": "2011-153",
+    "change_to": "\nopa"
+  },
+  "identifier": {
+    "multitree": "ibi"
+  }
+}

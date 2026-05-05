@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Munsee",
+    "hid": "umu",
+    "level": "language",
+    "iso639-3": "umu",
+    "latitude": "41.11",
+    "longitude": "-74.17",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA",
+      "US"
+    ],
+    "links": "\n[Munsee](https://endangeredlanguages.com/lang/3423)\nhttps://www.wikidata.org/entity/Q56547\nhttps://en.wikipedia.org/wiki/Munsee_language\n[Munsee](https://wals.info/languoid/lect/wals_code_mse)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cowan:ed:92:2**\n**cldf:ed:10**\n**cldf:goddard:82**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:pentland:ed:95:6**\n**hh:b:Dennis:Accessibility**\n**hh:d:OMeara:Delaware**\n**hh:hv:Costa:Southern-New-England**\n**hh:ldsoc:Goddard:Moraviantown-Delaware**\n**hh:s:Goddard:Delaware**\n**hh:s:OMeara:Delaware**\n**hh:w:Heckewelder:Minsi**"
+  },
+  "altnames": {
+    "wals": "\nMunsee",
+    "wals other": "\nDelaware",
+    "ruhlen (1987)": "\nMunsee",
+    "moseley & asher (1994)": "\nMunsee",
+    "multitree": "\nDelaware\nMunsee\nMunsee (Canada)\nMunsee Delaware\nOntario Delaware\nUnami\nUnamí (Estados Unidos)",
+    "lexvo": "\nMunsee [en]\nMunsee language [en]",
+    "hhbib_lgcode": "\nMunsee Delaware",
+    "elcat": "\nCanadian Delaware\nDelaware\nMunsee\nMunsee Delaware\nOntario Delaware"
+  },
+  "triggers": {
+    "lgcode": "\nmunsee\nNOT of AND delaware\nminsi\nmoraviantown"
+  },
+  "identifier": {
+    "wals": "mse",
+    "multitree": "umu;umu-mun",
+    "endangeredlanguages": "3423"
+  },
+  "classification": {
+    "sub": "**hh:phonvld:Goddard:Mahican**",
+    "subrefs": "\n**hh:phonvld:Goddard:Mahican**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Munsee (3423-umu) = Critically Endangered (80 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

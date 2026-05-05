@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Tundra Enets",
+    "hid": "enh",
+    "level": "language",
+    "iso639-3": "enh",
+    "latitude": "70.36",
+    "longitude": "84.08",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Tundra Enets](https://endangeredlanguages.com/lang/3029)\nhttps://www.wikidata.org/entity/Q25559411"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:KatzschmannPusztay:Enzisches**\n**hh:hvb:Hajdu:Samoyed**\n**hh:hvs:Castren:Samojedischen**\n**hh:hvtyp:Janhunen:Samoyedic**\n**hh:s:Khanina:Forest-Tundra-Enets**\n**hh:s:Labanauskas:Madus**\n**hh:s:Prokofev:Enetskij**\n**hh:t:Khanina:Eneckogo**\n**hh:typ:KhaninaShluinsky:Benefactive-Enets**\n**mpieva:Castren1997Grammati**\n**mpieva:Hajdu1997TheSamoy**\n**mpieva:Labanauskas2002KernaBaz**\n**mpieva:Mikola1995Morpholo**\n**mpieva:Sorokina2001Slovaren**\n**mpieva:Sorokina2005Eneckiet**\n**mpieva:Sorokina2009Eneckijs**"
+  },
+  "altnames": {
+    "multitree": "\nEnec\nEnets\nEnets de la toundra\nEnets, Tundra\nEnzisch\nEńeć\nJenisei\nJenisej-Samojedisch\nJenissei-Dialekt\nMadu\nSamojedi\nSamojedimanzela\nSomatu\nYenets\nYenisei Samoyed\nYenisei Samoyedic\nYenisei Somoyed\nYenisey\nYenisey Samoyedic\nYenisey-Samoyedic\nYensisei-Samoyed\nenete\nenetj\nenets\niénisséi\nÉncico de la tundra\nèncy",
+    "lexvo": "\nTundra Enets [en]",
+    "hhbib_lgcode": "\nJenissei mainly Chantai (i.e. Tundra) and comparative notes on Bai (i.e. Forest)\nMadu\nTundra Enzisch",
+    "elcat": "\nEnec\nEnets\nEnzisch\nEńeć\nJenisei\nJenisej-Samojedisch\nJenissei-Dialekt\nMadu\nSamojedi\nSamojedimanzela\nSomatu Enets\nTundra Enets\nYenets\nYenisei Samoyed\nYenisei Samoyedic\nYenisei Somoyed\nYenisey\nYenisey Samoyedic\nYenisey-Samoyedic\nYensisei-Samoyed\nenete\nenetj\nenets\nenetsin kieli\nenyec nyelv\niénisséi\nona' bazaan\nèncy\nонаь базаан\nсомату\nтундровый энецкий"
+  },
+  "triggers": {
+    "lgcode": "\neneckie\nenecko"
+  },
+  "identifier": {
+    "multitree": "enh",
+    "endangeredlanguages": "3029"
+  },
+  "classification": {
+    "sub": "**hh:hvtyp:Janhunen:Samoyedic**",
+    "subrefs": "\n**hh:hvtyp:Janhunen:Samoyedic**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tundra Enets (3029-enh) = Critically Endangered (100 percent certain, based on the evidence available) (The last speakers are bilingual in Russian and are all middle-aged or older.  There may also be individuals with a knowledge of Nganasan.) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

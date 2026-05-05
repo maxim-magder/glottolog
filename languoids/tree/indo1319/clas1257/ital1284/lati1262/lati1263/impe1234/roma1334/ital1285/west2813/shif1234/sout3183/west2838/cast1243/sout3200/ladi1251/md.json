@@ -1,0 +1,59 @@
+{
+  "core": {
+    "name": "Ladino",
+    "hid": "lad",
+    "level": "language",
+    "iso639-3": "lad",
+    "latitude": "41.205",
+    "longitude": "28.6632",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AL",
+      "BA",
+      "BG",
+      "DZ",
+      "GR",
+      "HR",
+      "IL",
+      "MA",
+      "MK",
+      "PR",
+      "RO",
+      "RS",
+      "TR",
+      "US"
+    ],
+    "links": "\n[Ladino](https://endangeredlanguages.com/lang/3444)\n[Ladino](https://wals.info/languoid/lect/wals_code_lno)\nhttps://en.wikipedia.org/wiki/Judaeo-Spanish\nhttps://phoible.org/languages/ladi1251\nhttps://www.wikidata.org/entity/Q36196"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hetzer:01**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**cldf:varol:98**\n**hh:b:Sala:Judeo-Espagnol**\n**hh:d:Bendayan:Judeoespanol**\n**hh:d:Benharroch:Haquetia**\n**hh:d:Lardschneider:Grodner**\n**hh:d:Nehama:Judeo-Espagnol**\n**hh:d:PerahyaPerahya:Judeo-Espagnol**\n**hh:d:Recuero:Ladino**\n**hh:e:Diaz-Mas:Sephardim**\n**hh:es:Varol:Judeo-Espagnol**\n**hh:es:Varol:Judeo-Spanish**\n**hh:g:Bunis:Judezmo**\n**hh:g:Markova:Ladino**\n**hh:g:Varol:Judeo-Espagnol**\n**hh:h:Aslanov:Haquetia**\n**hh:hld:Gilmer:Judeo-Spanish**\n**hh:ld:Benabu:Hakitia**\n**hh:ld:Benchimol:Espagnol-Maroc**\n**hh:phon:Sala:Judeo-Espagnol-Bucarest**\n**hh:s:Benichou:Judeo-Espanol-Marruecos**\n**hh:s:Biasi:Noneso-Ladina**\n**hh:s:Bunis:Judezmo**\n**hh:s:Bunis:Judezmo:2021**\n**hh:s:Fader:Judeo-Spanish**\n**hh:s:Gabinskij:Sefardskij**\n**hh:s:Koen-Sarano:Djudeo-Espanyol**\n**hh:s:Pellegrini:Ladino**\n**hh:s:Symeonidis:Judenspanische**\n**hh:s:Wagner:Judenspanischen**\n**hh:ssoc:Benoliel:Hakitia**\n**hh:ssoc:Sephiha:Judeo-Espagnol**\n**hh:ssoc:Sephiha:Judeo-Espagnol:1986**\n**hh:st:Gil:Judeo-Espanol**\n**hh:t:Crews:Judeo-Espagnol**\n**hh:typ:Bentolila:Haketia**\n**hh:v:Subak:Judenspanischen**\n**hh:vtyp:Simon:Judenspanischen-Saloniki**\n**mpieva:Gabinskij1992Sefardsk**\n**mpieva:Gilmer1986JudeoSpa**\n**mpieva:Symeonidis2002DasJuden**"
+  },
+  "altnames": {
+    "wals": "\nLadino",
+    "wals other": "\nJudeo Spanish\nJudeo-Espagnol\nJudeo-Spanish\nSefardi\nSephardic",
+    "multitree": "\nDzhudezmo\nHaketia\nHakitia\nHaquetiya\nJudeo Spanish\nJudeo-Spanish\nJudezmo\nJudéo-espagnol  (Europe)\nJudéo-espagnol (Israël)\nLadino\nSefardi\nSefardí (Israel)\nSephardic\nSpanyol",
+    "lexvo": "\nLadino [en]\nTetuani [en]\njudéo-espagnol [fr]\nЕврейско-романские языки [ru]",
+    "hhbib_lgcode": "\nGrödner\nHaketia\nHakitia\nHaquetia\nJudenspanischen in Konstantinopel und Bosnien\nJudenspanischen von Saloniki\nJudezmo\nSephardim",
+    "elcat": "\nDzhudezmo\nHaketia\nHakitia\nHaquetiya\nJudeo Spanish\nJudeo-Spanish\nJudezmo\nLadino\nSefardi\nSephardic\nSpanyol"
+  },
+  "triggers": {
+    "lgcode": "\njudeo AND espagnol\nthessaloniki\njudenspanischen\nsephardic\ndistanbul\ncalque\nvernaculaire\nromancero\nphiladelphia\nkonstantinopel\nliturgique\nsefardskij\nsephardisch"
+  },
+  "identifier": {
+    "wals": "lno",
+    "multitree": "lad",
+    "endangeredlanguages": "3444"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:108-115",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Ladino (3444-lad) = At risk (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

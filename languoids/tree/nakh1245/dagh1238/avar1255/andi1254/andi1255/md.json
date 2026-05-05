@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Andi",
+    "hid": "ani",
+    "level": "language",
+    "iso639-3": "ani",
+    "latitude": "42.8078",
+    "longitude": "46.2919",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "RU"
+    ],
+    "links": "\n[Andi](https://endangeredlanguages.com/lang/948)\nhttps://www.wikidata.org/entity/Q34849\nhttps://en.wikipedia.org/wiki/Andi_language\nhttps://phoible.org/languages/andi1255\n[Andi](https://wals.info/languoid/lect/wals_code_anx)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3240**\n**cldf:cercvadze:67**\n**cldf:ed:10**\n**cldf:humphreys:mits:ed:93**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Aglarov:Andis**\n**hh:g:Cercvadze:Andiuri**\n**hh:g:Salimov:Andijskogo**\n**hh:g:Suleymanov:Andijskogo**\n**hh:hv:Ardoteli:Avar-Andi-Dido**\n**hh:hv:Ardoteli:Avar-Andi-Dido:2009**\n**hh:hv:Ataev:Avaro-Ando-Cezskich**\n**hh:hv:Chajdakov:Dagestanskich**\n**hh:s:Dirr:Andijskago**\n**hh:s:Saidova:Andijskij:2000**\n**mpieva:Chalidova2006Avarskoa**\n**mpieva:Magomaeva2005Avarskie**"
+  },
+  "altnames": {
+    "wals": "\nAndi",
+    "ruhlen (1987)": "\nAndi",
+    "moseley & asher (1994)": "\nAndi",
+    "multitree": "\nAndi\nAndii\nAndiy\nQwannab",
+    "lexvo": "\nAndi [en]\nAndi language [en]\nAndieg [br]\nAndin kieli [fi]\nJęzyk andyjski [pl]\nLlengua andi [ca]\nLíngua andi [pt]\nАндиаг æвзаг [os]\nАндийский язык [ru]\nАндски јазик [mk]\nАндійська мова [uk]",
+    "hhbib_lgcode": "\nAndi of Andi\nAndis\nGagatl\nGagatlinskij\nRikvani\nUpper Andi",
+    "elcat": "\nAndi\nAndii\nAndiy\nQandisel\nQwannab\nqwavannab micci\nандийский язык\nкъIaваннаб мицци\nანდიური ენა"
+  },
+  "triggers": {
+    "lgcode": "\nandiuri\nandijskie\ndagestanskich\nobscnosti\nzaimstvovanija\ndido\nandijskij"
+  },
+  "identifier": {
+    "wals": "anx",
+    "multitree": "ani",
+    "endangeredlanguages": "948"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gudava:Andijskix**",
+    "subrefs": "\n**hh:hv:Gudava:Andijskix**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Andi (948-ani) = Vulnerable (60 percent certain, based on the evidence available) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "core": {
+    "name": "Lishán Didán",
+    "hid": "trg",
+    "level": "language",
+    "iso639-3": "trg",
+    "latitude": "36.23",
+    "longitude": "44.37",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AZ",
+      "GE",
+      "IL",
+      "IR"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Urmia\n[Jewish Azerbaijani Neo-Aramaic](https://endangeredlanguages.com/lang/3506)\nhttps://phoible.org/languages/lish1246\n[Neo-Aramaic (Persian Azerbaijan)](https://wals.info/languoid/lect/wals_code_nap)\nhttps://www.wikidata.org/entity/Q56473"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:haeberl:13**\n**cldf:hopkins:89**\n**cldf:isaksson:04**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:g:Khan:Neo-Aramaic-Urmi**\n**hh:gt:Garbell:Neo-Aramaic**\n**hh:hv:Hopkins:Neo-Aramaic-Iran**"
+  },
+  "altnames": {
+    "glottolog": "\nLishan Didan",
+    "wals": "\nNeo-Aramaic (Persian Azerbaijan)",
+    "wals other": "\nPersian Azerbaijan Jewish Aramaic",
+    "ruhlen (1987)": "\nAramaic",
+    "moseley & asher (1994)": "\nAramaic",
+    "multitree": "\nGalihalu\nLakhlokhi\nLishan didan (Israël)\nLishan didan (République islamique d'Iran)\nLishanid Nash Didán\nLishanán\nLishanán (Israel)\nLishán Didán\nNeo-Aramaic (Persian Azerbaijan)\nPersian Azerbaijan Jewish Aramaic\nSoviet Azerbaijanian Subgroup",
+    "lexvo": "\nDidaneg [br]\nLishán Didán [en]\nLishán didán [fr]\nLishán didán jezik [hr]\nLişan Didan [tr]\nلشان ددان [fa]",
+    "hhbib_lgcode": "\nAzerbaijan Jewish\nJewish Sanandaj\nNorthern Cluster Lishán Didán",
+    "elcat": "\nGalihalu\nJewish Azerbaijani Neo-Aramaic\nLakhlokhi\nLishanid Nash Didán\nLishanán\nLishán Didán\nLišān Didān\nLišānān\nNeo-Aramaic (Persian Azerbaijan)\nPersian Azerbaijan Jewish Aramaic\nלשן דידן\nלשנן\nلشان ددان"
+  },
+  "triggers": {
+    "lgcode": "\nazerbayan\nurmi"
+  },
+  "identifier": {
+    "wals": "nap",
+    "multitree": "trg",
+    "endangeredlanguages": "3506"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mutzafi:Trans-Zab**",
+    "subrefs": "\n**hh:hv:Mutzafi:Trans-Zab**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Jewish Azerbaijani Neo-Aramaic (3506-trg) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

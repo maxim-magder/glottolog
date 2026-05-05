@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "South Muyu",
+    "hid": "kts",
+    "level": "language",
+    "iso639-3": "kts",
+    "latitude": "-6.01385",
+    "longitude": "140.815",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "PG"
+    ],
+    "links": "\n[Kati (in West Papua, Indonesia)](https://wals.info/languoid/lect/wals_code_kti)\n[South Muyu](https://endangeredlanguages.com/lang/10689)\nhttps://www.wikidata.org/entity/Q42308820"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:schoorl:57**\n**hh:e:Schoorl:Moejoe**\n**hh:e:Schoorl:Muyu**\n**hh:e:Schoorl:Muyu-Land**\n**hh:e:Schoorl:Muyu-Mobility**\n**hh:e:Schoorl:Muyu:Schelpengeld**\n**hh:e:Tan:Muju**\n**hh:hs:Drabbe:ZWNG**\n**hh:hv:Ross:Voorhoeve**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Healey:Ok**\n**hh:hvw:Ray:Western**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Drabbe:24**\n**hh:hw:Drabbe:ZWNG**\n**hh:hw:Galis:NNG**\n**hh:hw:Geurtjens:Marindineesche**\n**hh:hw:Stokhof:Holle:1982**\n**hh:hwld:Donohue:Wasur**\n**hh:typ:Manap:Muyu**\n**hh:w:Austen:Anu**\n**hh:w:LeRoux:Woordenlijsten**"
+  },
+  "altnames": {
+    "multitree": "\nDigoel\nDigul\nKati\nKati Metomka\nLower Muju\nMetomka\nMuyu, South\nOk Bari\nSouth Kati\nSouth Moejoe\nSouthern Kati\nYonggom\nYongkom\nYongom",
+    "lexvo": "\nSouth Muyu [en]",
+    "hhbib_lgcode": "\nAnu\nAnu-Lower Muiu River on boundary 6 S. lat.\nCentral and Lower Uwimerah ca 30 words acc to Tim Usher 2011\nDigoeleesch (= Southern Kati dialect)\nKD Digoeleesch\nKM Southern Kati\nKa.1. (= Kati Metomka)\nKakaip\nKati\nKati Metomka\nKatì Metòmka\nKaôh\nMuju\nMuyu\nMuyu-South\nS. Kati (Dr)\nSouth Kati\nSouthern Kati\nTanah Merah Digul (parallel lists)",
+    "elcat": "\nDigoel\nDigoeleesch\nDigul\nKati Metomka\nKati-Metomka\nMetomka\nMoejoe\nMuyu\nOk Bari\nSouth Kati\nSouth Muyu\nYonggom\nYongkom\nYongom"
+  },
+  "triggers": {
+    "lgcode": "\nmodernisasi\nmoejoe\narus\nmandobos"
+  },
+  "identifier": {
+    "multitree": "kts",
+    "endangeredlanguages": "10689"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Healey:Ok**",
+    "subrefs": "\n**hh:hvw:Healey:Ok**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "South Muyu (10689-kts) = Threatened (20 percent certain, based on the evidence available) [Voorhoeve 1975](cldf:voorhoeve:75:3)"
+  }
+}

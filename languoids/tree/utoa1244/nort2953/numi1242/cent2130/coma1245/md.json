@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Comanche",
+    "hid": "com",
+    "level": "language",
+    "iso639-3": "com",
+    "latitude": "34.0",
+    "longitude": "-101.0",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Comanche](https://endangeredlanguages.com/lang/2005)\n[Comanche](https://grambank.clld.org/languages/coma1245)\n[Comanche](https://lexibank.clld.org/languages/utoaztecan-Comanche)\n[Comanche](https://wals.info/languoid/lect/wals_code_cmn)\nhttps://en.wikipedia.org/wiki/Comanche_language\nhttps://phoible.org/languages/coma1245\nhttps://www.wikidata.org/entity/Q32972"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4256**\n**cldf:armagost:85**\n**cldf:casad:ed:00:2**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gladwin:48**\n**cldf:goldstein:34**\n**cldf:golla:goddard:etal:08**\n**cldf:hoebel:40**\n**cldf:lee:57**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:linton:45**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:osborn:smalley:49**\n**cldf:riggs:49**\n**cldf:rister:55**\n**cldf:wallace:hoebel:52**\n**cldf:wistrand-robinson:armagost:90**\n**haspelmath:herrick_comanches_2011**\n**hh:e:Kavanagh:Comanche**\n**hh:g:Charney:Comanche**\n**hh:g:Charney:Comanche:1989**\n**hh:g:RobinsonArmagost:Comanche**\n**hh:g:RobinsonArmagost:Comanche:2012**\n**hh:hew:Whippleetal:North-American**\n**hh:hlde:Bollaert:Texas**\n**hh:hs:Pimentel:Mexico**\n**hh:hvb:Golla:California**\n**hh:s:Casagrande:Comanche**\n**hh:t:Canonge:Comanche**\n**hh:w:BerlandierChowell:STexas**\n**hh:w:Garcia:Comanche**\n**hh:w:Schoolcraft:Vocabularies:1852**\n**mpieva:MacDaniels2005Establis**\n**sil16:10382**\n**sil16:35683**\n**sil16:39194**"
+  },
+  "altnames": {
+    "wals": "\nComanche",
+    "moseley & asher (1994)": "\nComanche",
+    "multitree": "\nComanche",
+    "lexvo": "\nComanche [en]\nComanche dili [tr]\nComanche language [en]\nIdioma comanche [es]\nKomantcheg [br]\nKomančština [cs]\nLíngua comanche [pt]\nКоманчский язык [ru]\n코만치어 [ko]",
+    "hhbib_lgcode": "\nComanches\nNäuni or Comanche",
+    "elcat": "\nComanche"
+  },
+  "triggers": {
+    "lgcode": "\ncomanche"
+  },
+  "identifier": {
+    "wals": "cmn",
+    "multitree": "com",
+    "endangeredlanguages": "2005"
+  },
+  "classification": {
+    "sub": "**hh:hv:Garrettetal:Numic**",
+    "subrefs": "\n**hh:hv:Garrettetal:Numic**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Comanche (2005-com) = Severely Endangered (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

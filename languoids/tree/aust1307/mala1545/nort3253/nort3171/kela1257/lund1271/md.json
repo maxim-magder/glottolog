@@ -1,0 +1,54 @@
+{
+  "core": {
+    "name": "Lundayeh",
+    "hid": "lnd",
+    "level": "language",
+    "iso639-3": "lnd",
+    "latitude": "4.25064",
+    "longitude": "115.5",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "BN",
+      "ID",
+      "MY"
+    ],
+    "links": "\n[Lun Dayeh](https://wals.info/languoid/lect/wals_code_lud)\n[Lundayeh](https://grambank.clld.org/languages/lund1271)\nhttps://en.wikipedia.org/wiki/Lun_Bawang_language\nhttps://www.wikidata.org/entity/Q13479839"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blust:71**\n**hh:b:Martin:Murut**\n**hh:d:Ganang:Lundayeh**\n**hh:d:Ganang:Lundayeh:2009**\n**hh:d:Labo:Lun-Dayeh**\n**hh:e:Crain:Lun-Dayeh**\n**hh:e:Datan:Lun-Bawang**\n**hh:e:Deegan:Lun-Bawang**\n**hh:e:Kaskija:Punan**\n**hh:ew:Moulton:Batu-Lawi**\n**hh:ew:Pollard:Muruts**\n**hh:g:Mortensen:Kemaloh**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hb:Martin:Brunei:1996**\n**hh:hew:Roth:Sarawak**\n**hh:hld:Clayre:Eastern-Malaysia**\n**hh:hld:Clayre:Focus-Borneo**\n**hh:hv:Sellato:Kenyah-Putuk**\n**hh:hvs:Omar:Malay-Malaysia**\n**hh:hvw:Blust:Saban**\n**hh:hw:Ray:Borneo**\n**hh:ld:Garmanetal:Lun-Bawang**\n**hh:ld:Moody:Lundayeh**\n**hh:ld:Southwell:Murut**\n**hh:phon:Lees:Lun-Daye**\n**hh:s:Padan:Lun-Dayeh**\n**hh:soc:Coluzzi:Lun-Bawang**\n**hh:w:BolangHarrisson:Murut**\n**hh:w:Clayre:Murut**\n**iso6393:2007-205**"
+  },
+  "altnames": {
+    "wals": "\nLun Dayeh",
+    "wals other": "\nSouthern Murut",
+    "ruhlen (1987)": "\nLun Daye",
+    "moseley & asher (1994)": "\nLundayeh",
+    "multitree": "\nBrunei Murut\nLun Bawang\nLun Daya\nLun Dayah\nLun Daye\nLun Dayeh\nLun Dayoh\nLundaya\nLundayeh\nMurut\nSouthern Murut",
+    "lexvo": "\nLun Bawang [en]\nLun Bawang language [en]\nLundayeh [en]",
+    "hhbib_lgcode": "\nAdang\nAdang (Murut)\nKemaloh\nKemaloh Lun Bawang\nLun Bawang\nLun Dayeh\nLun Dayeh of Sipitang\nMurut\nMurut Trusan\nMuruts of Sarawak here\nPa' Kemaloh\nPadas\nPutuk-Lun Daye\nSarawak Murut\nSouthern Murut\nTrusan"
+  },
+  "triggers": {
+    "lgcode": "\ntrusan\nlundayeh\nbawang\ndayeh\ndaye\nclaiming\nbulungan"
+  },
+  "identifier": {
+    "wals": "lud",
+    "multitree": "lnd"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 has two entries Lun Bawang [lnd] including the alternate name ``Lundaya Putuk'' and Putoh [put] with the remark that it ``may be the same as Lun Bawang [lnd]''. Both the name Putuk and the area marked on the map for Putuk, falls under the same language that the entry Lun Bawang [lnd] represents. Though this language has a lot of dialectal variation, the division indicated by the two Ethnologue entries is not justified from a linguistic or ethnic perspective\n(**hh:e:Kaskija:Punan**:10-11, **hh:e:Crain:Lun-Dayeh**:17-35,\n**hh:hv:Hudson:Sarawak**, **hh:hvs:Omar:Malay-Malaysia**:587-588, **hh:hv:Sellato:Kenyah-Putuk**). See also: Putoh [put].",
+    "comment_type": "Spurious",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "lnd"
+  },
+  "classification": {
+    "sub": "**hh:g:Mortensen:Kemaloh**:221-257",
+    "subrefs": "\n**hh:g:Mortensen:Kemaloh**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lundayeh (lnd-lnd) = 5* (Developing)."
+  }
+}

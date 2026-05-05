@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Boga",
+    "hid": "bvw",
+    "level": "language",
+    "iso639-3": "bvw",
+    "latitude": "10.188",
+    "longitude": "12.936",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Boka](https://lexibank.clld.org/languages/kraftchadic-Boka)\nhttps://en.wikipedia.org/wiki/Boga_language\nhttps://www.wikidata.org/entity/Q56262"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:4298**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:hew:Meek:Tribal:II**\n**hh:hw:Kraft:Chadic:II**"
+  },
+  "altnames": {
+    "multitree": "\nBoga\nBoka",
+    "lexvo": "\nBoga [en]\nBoga jezik [hr]\nBoga language [en]\nBogaeg [br]",
+    "hhbib_lgcode": "\nBoga citing NM 1965 fn 4\nBoka\nGabin-Boga"
+  },
+  "triggers": {
+    "lgcode": "\nsur AND zara"
+  },
+  "identifier": {
+    "multitree": "bvw"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gravina:Central-Chadic**:49-50",
+    "subrefs": "\n**hh:hv:Gravina:Central-Chadic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Boga (bvw-bvw) = 6a* (Vigorous)."
+  }
+}

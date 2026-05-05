@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Garifuna",
+    "hid": "cab",
+    "level": "language",
+    "iso639-3": "cab",
+    "latitude": "15.3529",
+    "longitude": "-86.9091",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "BZ",
+      "GT",
+      "HN",
+      "NI"
+    ],
+    "links": "\n[Garifuna](https://grambank.clld.org/languages/gari1256)\n[Garífuna](https://endangeredlanguages.com/lang/3472)\n[Garífuna](https://wals.info/languoid/lect/wals_code_grf)\nhttps://en.wikipedia.org/wiki/Garifuna_language\nhttps://www.wikidata.org/entity/Q35490"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:2673**\n**cldf:adelaar:07:2**\n**cldf:alvarez:08**\n**cldf:bybee:perkins:etal:94**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:depurytoumi:03**\n**cldf:donabedian:ed:01:2**\n**cldf:ed:10**\n**cldf:escure:schwegler:ed:04:2**\n**cldf:lewis:ed:09**\n**cldf:meira:06**\n**cldf:mosonyi:83**\n**cldf:np:nd:264**\n**cldf:ocasio:11**\n**cldf:ocasio:16**\n**cldf:pellicer:05**\n**cldf:purytoumi:93**\n**cldf:ravindranath:09**\n**cldf:solien:60:1**\n**cldf:solien:60:2**\n**cldf:stolz:96**\n**cldf:taylor:55**\n**cldf:taylor:56:1**\n**cldf:taylor:56:4**\n**cldf:taylor:58**\n**hh:d:Cayetano:Garifuna**\n**hh:d:Suazo:Garifuna**\n**hh:e:Porter:Garifuna**\n**hh:etyp:Taylor:Black**\n**hh:g:Haurholm-Larsen:Garifuna**\n**hh:g:Quesada:Garifuna**\n**hh:g:Suazo:Garifuna**\n**hh:g:Suazo:Garifuna:1994**\n**hh:hv:VielmanMayers:Guatemala**\n**hh:ld:deGoeje:Eiland-Caraibisch**\n**hh:s:Conzemius:Garif**\n**hh:s:Drom:Garifuna**\n**hh:s:Klinkhamer:Caraibische**\n**hh:soc:Escure:Garifuna**\n**hh:soc:Sanchez:Garifuna**\n**hh:soce:Cayetano:Garifuna**\n**hh:vld:Troiani:Callinagos**\n**hh:w:Adam:Garifuna**\n**hh:w:Fleming:Carib**\n**hh:w:Mathieu:Caribe**\n**hh:w:Ramos:Honduras**\n**mpieva:Grimes1972Language**\n**sil16:10031**\n**sil16:10047**\n**sil16:10673**\n**sil16:11165**\n**sil16:11166**\n**sil16:13423**\n**sil16:13424**\n**sil16:13426**\n**sil16:13427**\n**sil16:13428**\n**sil16:13429**\n**sil16:15672**\n**sil16:15980**\n**sil16:21735**\n**sil16:22954**\n**sil16:33545**\n**sil16:39473**\n**sil16:44537**\n**sil16:44538**"
+  },
+  "altnames": {
+    "wals": "\nGarífuna",
+    "wals other": "\nBlack Carib\nCarib (Hopkins Island)\nCarib (Island)\nIsland Carib",
+    "multitree": "\n\"Moreno\"\nBlack Carib\nCaribe\nCentral American Carib\nGarfuna\nGarifuna\nGarifuna (Belize)\nGarifuna (Guatemala)\nGarifuna (Honduras)\nGarifuna (Nicaragua)\nGarífuna\nGarífuna (Nicaragua)",
+    "lexvo": "\nGarifuna [de]\nGarifuna language [en]\nGarifuna simi [qu]\nGarifunan kieli [fi]\nIdioma garífuna [es]\n가리푸나어 [ko]",
+    "hhbib_lgcode": "\nCarib\nEiland-Caraïbisch\nGarífuna",
+    "elcat": "\n\"Moreno\"\nBlack Carib\nCaribe\nCentral American Carib\nGarfuna\nGarifuna\nGarífuna"
+  },
+  "triggers": {
+    "lgcode": "\nmayers\ncaraibische\ngarifunas\nwanene\ntidangine\nubou\ngarifuna\nbritanica\npaludismo\nuraga\ngarif\ncentroamericano"
+  },
+  "identifier": {
+    "wals": "grf",
+    "multitree": "cab",
+    "endangeredlanguages": "3472"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Ramirez:Arawak-Enciclopedia**:III:109-144 **hh:hv:Captain:Lokono-Guajiro**",
+    "subrefs": "\n**hh:hv:Captain:Lokono-Guajiro**\n**hh:hvw:Ramirez:Arawak-Enciclopedia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Garífuna (3472-cab) = At risk (20 percent certain, based on the evidence available) [Adelaar and Quesada 2007](cldf:adelaar:07:2)"
+  }
+}

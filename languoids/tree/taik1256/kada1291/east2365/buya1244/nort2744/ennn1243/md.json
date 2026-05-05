@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "En",
+    "hid": "enc",
+    "level": "language",
+    "iso639-3": "enc",
+    "latitude": "22.8386",
+    "longitude": "106.167",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\n[En](https://endangeredlanguages.com/lang/1437)\nhttps://www.wikidata.org/entity/Q3504110\nhttps://en.wikipedia.org/wiki/En_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edmondson:Kra**",
+    "subrefs": "\n**hh:hv:Edmondson:Kra**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:li:06:2**\n**cldf:np:nd:264**\n**hh:hv:Edmondson:Kadai**\n**hh:hvs:Li:Southwest-China**\n**hh:ld:Edmondson:En**"
+  },
+  "altnames": {
+    "multitree": "\nEn\nNung Ven",
+    "lexvo": "\nEn [en]",
+    "hhbib_lgcode": "\nEn in Vietnam",
+    "elcat": "\nAin\nEn\nNung Ven\n儂環語\n恩語"
+  },
+  "triggers": {
+    "lgcode": "\nphat\nduoc\nven\nthuoc\nhien\nenh"
+  },
+  "identifier": {
+    "multitree": "enc",
+    "endangeredlanguages": "1437"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "En (1437-enc) = Endangered (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

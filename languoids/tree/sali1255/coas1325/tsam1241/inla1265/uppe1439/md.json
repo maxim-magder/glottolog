@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Upper Chehalis",
+    "hid": "cjh",
+    "level": "language",
+    "iso639-3": "cjh",
+    "latitude": "46.7981",
+    "longitude": "-123.169",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Chehalis (Upper)](https://wals.info/languoid/lect/wals_code_chl)\n[Upper Chehalis](https://grambank.clld.org/languages/uppe1439)\nhttps://en.wikipedia.org/wiki/Upper_Chehalis_language\nhttps://phoible.org/languages/uppe1439\nhttps://www.wikidata.org/entity/Q2962074",
+    "timespan": "2001-01-01/2001-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1078**\n**cldf:kinkade:81**\n**cldf:kinkade:91**\n**cldf:kinkade:98**\n**hh:e:Hajda:Southwestern-Coast-Salish**\n**hh:hv:Swadesh:Salish:1950**\n**hh:phon:Collord:Upper-Chehalis**\n**hh:s:Kinkade:Upper-Chehalis**\n**hh:s:Kinkade:UpperChehalis:1963-1964**\n**hh:typ:Boas:Chehalis**\n**hh:typ:Kinkade:Inland-Olympic-Salish**\n**mpieva:Kinkade1991UpperChe**"
+  },
+  "altnames": {
+    "wals": "\nChehalis (Upper)",
+    "ruhlen (1987)": "\nUpper Chehalis",
+    "moseley & asher (1994)": "\nChehalis (Upper)",
+    "multitree": "\nChehalis\nChehalis (Upper)\nChehalis, Upper\nChehalí alto\nHaut-chehalis\nKwaiailk\nOakville\nOakville Chehalis\nQ'ʷay'áyiłq'\nSatsop\nUpper Chehalis\nqʼʷayʼáyiɬqʼ",
+    "lexvo": "\nUpper Chehalis [en]",
+    "hhbib_lgcode": "\nChehalis Ch\nChehalis-Upper\nInland Olympic Salish\nSatsop Sa"
+  },
+  "triggers": {
+    "lgcode": "\nolympic\nchehalis"
+  },
+  "identifier": {
+    "wals": "chl",
+    "multitree": "cjh-sat;cjh-oak;cjh"
+  },
+  "classification": {
+    "sub": "**hh:hv:Czaykowska-HigginsKinkade:Salish**",
+    "subrefs": "\n**hh:hv:Czaykowska-HigginsKinkade:Salish**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Upper Chehalis (797-cjh) = Extinct"
+  }
+}

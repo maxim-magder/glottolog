@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Mabaale",
+    "hid": "mmz",
+    "level": "language",
+    "iso639-3": "mmz",
+    "latitude": "2.11942",
+    "longitude": "20.8759",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Mabaale](https://grambank.clld.org/languages/maba1270)\nhttps://www.wikidata.org/entity/Q11003249"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:11859**\n**eballiso2009:2504**\n**eballiso2009:3265**\n**eballiso2009:33751**\n**eballiso2009:33753**\n**eballiso2009:33755**\n**eballiso2009:42113**\n**eballiso2009:42220**\n**eballiso2009:42244**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Mangulu:Ngiri**\n**hh:s:Mangulu:Mabembe**\n**hh:s:Motingea:Mabale**\n**hh:s:MotingeaBonzoi:Mbenga**\n**hh:s:Tanghe:Mabale**\n**hh:typ:Bonzoi:Mbenga:1997**"
+  },
+  "altnames": {
+    "multitree": "\nLomabaale\nMabaale\nMabale\nMbali",
+    "lexvo": "\nMabaale [en]",
+    "hhbib_lgcode": "\nC105_Mbenga (presumably mislabeled as C105 since it fails to subgroup with C104_Aka)\nMabale\nMabembe\nMbenga\nMbinga\nMbinga of Motingea Mangulu and Bonzoi Mwamakasa (2008)\nThis is"
+  },
+  "triggers": {
+    "lgcode": "\nmbenga\nmankanza\nmabembe\nmabale\nanvers\nmab"
+  },
+  "identifier": {
+    "multitree": "mmz"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Ngiri**:185-189 **hh:hv:Bastinetal:Bantu**:205",
+    "subrefs": "\n**hh:hv:Mangulu:Ngiri**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mabaale (mmz-mmz) = 6a* (Vigorous)."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Aiome",
+    "hid": "aki",
+    "level": "language",
+    "iso639-3": "aki",
+    "latitude": "-5.13467",
+    "longitude": "144.765",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Aiome](https://endangeredlanguages.com/lang/10644)\nhttps://www.wikidata.org/entity/Q56735\nhttps://en.wikipedia.org/wiki/Aiome_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:zgraggen:71**\n**hh:hb:Zgraggen:Madang**\n**hh:he:Kasprus:Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Zgraggen:Madang**\n**hh:w:Zgraggen:Ramu**\n**hh:w:Zgraggen:Ramu:1974**"
+  },
+  "altnames": {
+    "multitree": "\nAiome\nAyom",
+    "lexvo": "\nAiome [en]",
+    "hhbib_lgcode": "\nAyome",
+    "elcat": "\nAiome\nAyom"
+  },
+  "triggers": {
+    "lgcode": "\nayom\naiome"
+  },
+  "identifier": {
+    "multitree": "aki",
+    "endangeredlanguages": "10644"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik:2013**",
+    "subrefs": "\n**hh:hv:Foley:Sepik:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Aiome (10644-aki) = Endangered (20 percent certain, based on the evidence available) [Z'graggen 1971](cldf:zgraggen:71)"
+  }
+}

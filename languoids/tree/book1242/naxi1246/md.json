@@ -1,0 +1,36 @@
+{
+  "core": {
+    "name": "Naxi (Retired)",
+    "hid": "nbf",
+    "level": "language",
+    "iso639-3": "nbf",
+    "latitude": "27.45988",
+    "longitude": "100.18172",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Naxi (Lijiang)](https://lexibank.clld.org/languages/gaotb-LijangNaxi)\n[Naxi (Yongning)](https://lexibank.clld.org/languages/gaotb-YongningNaxi)"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:887**\n**iso6393:2010-023**\n**mpieva:He1985Naxiyuji**\n**sil16:34677**\n**sil16:34678**\n**sil16:42703**\n**sil16:48150**"
+  },
+  "triggers": {
+    "lgcode": "\necriture\nencyclopaedic\nnahsi\nnaxiyu\nmoso\nnaxi"
+  },
+  "iso_retirement": {
+    "comment": "Based on first-hand experience by SIL researchers, Naxi (Naxi Proper) and Narua\n(Mosuo) are almost completely unintelligible with previously unexposed speakers\nonly being able to understand isolated words of the other's speech.\n\nBoth languages are considered \"dialects\" of the same language (called Naxi) by\nmost Chinese linguists, and most speakers are included in the official\nnationality group called Naxi, though Sichuan province speakers of Narua are\nclassed within the Mongolian nationality. However, in Chinese linguistics it is\ncommon to call closely related languages whose speakers share the same\nnationality classification \"dialects\" of the same language even when mutual\nintelligibility is very low or non-existent. The separate identities of the Naxi\nand the Na/Mosuo peoples are well-known and documented in Chinese\nanthropological circles. There is no common literature or orthography in use\nbetween the Naxi and Narua speakers.",
+    "code": "nbf",
+    "name": "Naxi",
+    "effective": "2011-05-18",
+    "remedy": "Split into Naxi [nxq] and Narua [nru]",
+    "reason": "split",
+    "change_request": "2010-023",
+    "change_to": "\nnxq\nnru"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nNaxi"
+  }
+}

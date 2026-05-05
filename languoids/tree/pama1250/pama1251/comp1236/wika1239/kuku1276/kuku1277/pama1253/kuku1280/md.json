@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Kuku-Uwanh",
+    "hid": "uwa",
+    "level": "language",
+    "iso639-3": "uwa",
+    "latitude": "-14.0756",
+    "longitude": "141.724",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Kugu Nganhcara](https://lexibank.clld.org/languages/bowernpny-KuguNganhcara)\n[Kugu Nganhcara](https://wals.info/languoid/lect/wals_code_knc)\n[Kuku-Uwanh](https://endangeredlanguages.com/lang/3404)\n[Kuku-Uwanh](https://grambank.clld.org/languages/kuku1280)\nhttps://www.wikidata.org/entity/Q3915687",
+    "timespan": "1995-01-01/1995-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:lewis:ed:09**\n**cldf:moseley:07**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**hh:g:SmithJohnson:Nganhcara**\n**hh:he:vonSturmer:Wik**\n**hh:hv:Koch:Pama-Nyungan**\n**hh:hvsoc:Sutton:Wik-Relationships**\n**hh:phon:Johnson:Kuku-Uwanh-Wik-Iyanh**\n**hh:typ:Johnson:Kugu-Nganhcara**\n**ozbib:1619**\n**ozbib:3249**\n**ozbib:5343**\n**ozbib:5344**\n**ozbib:5506**\n**ozbib:6662**"
+  },
+  "altnames": {
+    "wals": "\nKugu Nganhcara",
+    "wals other": "\nKuku Nganhcara",
+    "ruhlen (1987)": "\nKugu-Uwanh",
+    "multitree": "\nKugu Nganhcara\nKugu-Uwanh\nKuku-Uwanh",
+    "lexvo": "\nKugu-Uwanh language [en]\nKuku-Uwanh [en]\nKuku-uwanh [sv]\nLenga kuku-uwanh [pms]",
+    "hhbib_lgcode": "\nGugu Nganhcara",
+    "elcat": "\nKugu Nganhcara\nKugu-Uwanh\nKuku-Uwanh"
+  },
+  "triggers": {
+    "lgcode": "\nNOT of AND nganhcara\nnganhcara"
+  },
+  "identifier": {
+    "wals": "knc",
+    "multitree": "uwa",
+    "endangeredlanguages": "3404"
+  },
+  "classification": {
+    "sub": "**hh:hv:SuttonHale:Wik**:129",
+    "subrefs": "\n**hh:hv:SuttonHale:Wik**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kuku-Uwanh (uwa-uwa) = 10 (Extinct)."
+  }
+}

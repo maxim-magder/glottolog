@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Megleno-Romanian",
+    "hid": "ruq",
+    "level": "language",
+    "iso639-3": "ruq",
+    "latitude": "41.1174",
+    "longitude": "22.3782",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "GR",
+      "MK"
+    ],
+    "links": "\n[Megleno-Romanian](https://endangeredlanguages.com/lang/3382)\n[Megleno_Romanian](https://lexibank.clld.org/languages/saenkoromance-meglenoromanian)\nhttps://en.wikipedia.org/wiki/Megleno-Romanian_language\nhttps://www.wikidata.org/entity/Q13358"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:264**\n**hh:dial:Wild:Meglenorumanischer**\n**hh:es:Weigand:Meglen**\n**hh:g:Capidan:Meglenoromanii**\n**hh:hv:Saenko:Balkano-Romanskix**\n**hh:hvtyp:Fiedler:Balkansprachen**\n**hh:hvtyp:Maiden:Romanian**\n**hh:s:Atanasov:Meglenoromana**\n**hh:s:Rusu:Meglenoromana**\n**hh:sv:Atanasov:Megleno-Roumain**\n**hh:vtyp:Narumov:Meglenorumynskij**\n**iso6393:2020-016**"
+  },
+  "altnames": {
+    "multitree": "\nMeglenite\nMeglenitic\nMegleno-Rumanian\nMégléno-roumain\nOther Roumanian Lects\nRomanian, Megleno\nRumano meglenita",
+    "lexvo": "\nIdioma meglenorrumano [es]\nJęzyk meglenorumuński [pl]\nLimba meglenoromână [ro]\nLingua Meglenoromanica [la]\nLingua megleno-romanesa [gl]\nLingua meglenorumena [it]\nMeglenera [eu]\nMegleno Romanian [en]\nMegleno-Roemeens [nl]\nMegleno-Romanian language [en]\nMegleno-Rumence [tr]\nMegleno-rumanu [ast]\nMeglenoromán nyelv [hu]\nMeglenorumensk [no]\nMeglenorumunjski jezik [hr]\nMeglenorumänische Sprache [de]\nMeglenorumäänsch [nds]\nMégléno-roumain [fr]\nRomeno meglesita [pt]\nΒλάχικη (Μογλενίτικη) γλώσσα [el]\nМеглено-романски јазик [mk]\nМегленорумынский язык [ru]\nМъгленорумънски език [bg]",
+    "hhbib_lgcode": "\nMeglenitisch\nMegleno Romanian\nMeglenoromâna",
+    "elcat": "\nMeglenite\nMeglenitic\nMegleno\nMegleno-Romanian\nMegleno-Rumanian\nOther Roumanian Lects\nRomanian"
+  },
+  "triggers": {
+    "lgcode": "\nmeglenoromanii\ngraiul"
+  },
+  "identifier": {
+    "multitree": "ruq",
+    "endangeredlanguages": "3382"
+  },
+  "classification": {
+    "sub": "**hh:hv:Rosetti:Romane** **hh:hv:Saenko:Balkano-Romanskix** **hh:hvtyp:Maiden:Romanian**",
+    "subrefs": "\n**hh:hv:Saenko:Balkano-Romanskix**\n**hh:hvtyp:Maiden:Romanian**\n**hh:hv:Rosetti:Romane**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Megleno-Romanian (3382-ruq) = Threatened (20 percent certain, based on the evidence available) (There are probably few if any child speakers) [Salminen 2007](cldf:salminen:07:2)"
+  }
+}

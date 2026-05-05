@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Pali",
+    "hid": "pli",
+    "level": "language",
+    "iso639-3": "pli",
+    "latitude": "24.5271",
+    "longitude": "82.251",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Pali\nhttps://www.wikidata.org/entity/Q36727",
+    "timespan": "-0200-01-01/-0200-01-01"
+  },
+  "classification": {
+    "sub": "**hh:s:Oberlies:Pali**",
+    "subrefs": "\n**hh:s:Oberlies:Pali**"
+  },
+  "sources": {
+    "glottolog": "\n**hh:g:Duroiselle:Pali**\n**hh:g:Duroiselle:Pali:1921**\n**hh:g:Elizarenkova:Pali**\n**hh:g:Fahs:Pali**\n**hh:g:Oberlies:Pali**\n**hh:gt:Mayrhofer:Pali**\n**hh:h:Caillat:Asoka**\n**hh:h:vonHinuber:Mittelindisch**\n**hh:s:Bomhard:Pali**\n**hh:s:Cowell:Prakrita**\n**hh:s:Mason:Pali**\n**hh:s:Moggallana:Vyakaran**\n**hh:s:Mylius:Ardhamagadhi**\n**hh:s:Oberlies:Pali**\n**hh:s:Pind:Kaccayana**\n**hh:s:Pischel:Hemacandra-Prakrit**\n**hh:s:Pischel:Prakrit**\n**hh:s:Reissmuller:Pali**\n**hh:s:Smith:Palie**\n**hh:s:Vidyabhusana:Pali**\n**hh:s:dAlwis:Pali**\n**hh:st:Jain:Ardha-Magadhi**\n**hh:st:Jain:Ardha-Magadhi:1923**\n**hh:st:Woolner:Prakrit**\n**hh:typ:Burston:Pali**\n**hh:typ:Peterson:Pali-Ergativity**\n**hh:v:Michelson:Ardhmagadhi**\n**mpieva:1997ThePaliE**\n**mpieva:Geiger2004Palilite**\n**mpieva:Gupta2003Linguist**\n**mpieva:Oberlies2000Paliagra**"
+  },
+  "altnames": {
+    "multitree": "\nPali\nSri Lanka, India, Myanmar",
+    "lexvo": "\nAn Pháilis [ga]\nBahasa Pali [id]\nBasa Pali [jv]\nJęzyk pali [pl]\nLimba pali [ro]\nLingua Palica [la]\nLingua pali [gl]\nLingua pāli [it]\nPaalin kieli [fi]\nPali [ca]\nPalia lingvo [eo]\nPáli [cs]\nPálí [sk]\nPâli [fr]\nPāli [gd]\nTiếng Pali [vi]\npali [fr]\nПали [bg]\nПалі [uk]\nפאלי [he]\nपली [new]\nपालि भाषा [hi]\nপালি [bpy]\nপালি ভাষা [bn]\nਪਾਲੀ [pa]\nபாளி [ta]\nపాళీ భాష [te]\nപാലി [ml]\nපාලි [si]\nภาษาบาลี [th]\nパーリ語 [ja]\n巴利语 [zh]\n팔리어 [ko]",
+    "hhbib_lgcode": "\nArdhamagadhi\nAsokan Prakrit\nMagadhi\nMagadhi Prakrit\nPāli\nPāḷi"
+  },
+  "triggers": {
+    "lgcode": "\npali\nardha\nNOT on AND NOT texts AND pali"
+  },
+  "identifier": {
+    "multitree": "pli"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pali (pli-pli) = 9 (Second language only)."
+  }
+}

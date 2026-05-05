@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kulung (Nigeria)",
+    "hid": "bbu",
+    "level": "language",
+    "iso639-3": "bbu",
+    "latitude": "9.20815",
+    "longitude": "11.04651",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Kulung (Nigeria)](https://endangeredlanguages.com/lang/3888)\nhttps://en.wikipedia.org/wiki/Kulung_language_(Jarawan)\nhttps://www.wikidata.org/entity/Q35580"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1578**\n**cldf:lewis:ed:09**\n**cldf:mukarovsky:81**\n**cldf:np:nd:264**\n**hh:d:Adelberger:Kulung**\n**hh:e:Adelberger:Kulung**\n**hh:e:Saleh:Kulung**\n**hh:h:Temple:NNigeria**\n**hh:hsoc:Rueck:Adamawa-Taraba**\n**hh:hv:Adamu:Wurkun**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hvw:Blench:Jarawan**\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hw:Thomas:Bantu**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:s:Isa:Kulung**\n**hh:typ:McBride:Kulung**\n**hh:vld:Green:Jarawan**\n**hh:w:Gowers:Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nBakuli\nBakulu\nBakulung\nBambur\nKukulung\nKulu\nKulung\nKuluno\nWo\nWurkum",
+    "lexvo": "\nKulung (Nigeria) [en]\nKulung [en]",
+    "hhbib_lgcode": "\nBambur\nKulung\nKulung_Jarawan\nWurkum\nWurkum/Wurkuawa\nWurkunawa",
+    "elcat": "\nBakuli\nBakulu\nBakulung\nBambur\nKukulung\nKulu\nKulung (Nigeria)\nKuluno\nWo\nWurkum"
+  },
+  "triggers": {
+    "lgcode": "\nnantu"
+  },
+  "identifier": {
+    "multitree": "bbu",
+    "endangeredlanguages": "3888"
+  },
+  "classification": {
+    "sub": "**hh:hvw:MaddiesonWilliamson:Jarawan** **hh:hv:GreenGrollemund:Jarawan-Bantoid**",
+    "subrefs": "\n**hh:hvw:MaddiesonWilliamson:Jarawan**\n**hh:hv:GreenGrollemund:Jarawan-Bantoid**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kulung (Nigeria) (3888-bbu) = Vulnerable (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

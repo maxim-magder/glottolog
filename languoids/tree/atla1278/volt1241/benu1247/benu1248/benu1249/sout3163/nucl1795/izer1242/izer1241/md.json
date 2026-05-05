@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Izere",
+    "hid": "izr",
+    "level": "language",
+    "iso639-3": "izr",
+    "latitude": "9.5",
+    "longitude": "8.7",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Izere](https://wals.info/languoid/lect/wals_code_jar)\nhttps://en.wikipedia.org/wiki/Izere_language\nhttps://phoible.org/languages/izer1241\nhttps://www.wikidata.org/entity/Q6101921"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3731**\n**eballiso2009:10730**\n**eballiso2009:19195**\n**eballiso2009:33569**\n**eballiso2009:48332**\n**eballiso2009:59419**\n**hh:d:BlenchKaze:Izere**\n**hh:e:Nyam:Afizere**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hv:Mukarovsky:Jarawa**\n**hh:hvld:Gerhardt:Plateaus:1983**\n**hh:hvw:Shimizu:Jos**\n**hh:hw:Kraft:Chadic:III**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:s:LukasWillms:Jarawa**\n**hh:t:Meyer-Bahlburg:Afuzare**\n**hh:typ:Blench:Izere**\n**hh:typ:Gerhardt:Zarek**\n**hh:typ:Wolff:Afuzare**\n**iso6393:2007-147**"
+  },
+  "altnames": {
+    "multitree": "\nAfizare\nAfizarek\nAfusare\nFeserek\nFezere\nFizere\nHill Jarawa\nIzarek\nIzere\nJarawa\nJarawan Dutse\nJari\nJos-Zarazon",
+    "lexvo": "\nIzere [en]",
+    "hhbib_lgcode": "\nAfusare\nAfuzare\nFobur\nHill Jarawa\nJarawa\nJarawa of Fobur\nJari\nNE Zarek\nNW Zarek\nZarek"
+  },
+  "triggers": {
+    "lgcode": "\nganang\nizere\nafizere\nafuzare\nzarek"
+  },
+  "identifier": {
+    "multitree": "izr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Gerhardt:Noun-Class**:80",
+    "subrefs": "\n**hh:hv:Gerhardt:Noun-Class**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Izere (izr-izr) = 6b (Threatened)."
+  }
+}

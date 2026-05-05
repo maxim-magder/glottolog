@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Pingelapese",
+    "hid": "pif",
+    "level": "language",
+    "iso639-3": "pif",
+    "latitude": "6.20743",
+    "longitude": "160.711",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FM",
+      "GU",
+      "US"
+    ],
+    "links": "\n[Pingelapese](https://endangeredlanguages.com/lang/2031)\n[Pingelapese](https://grambank.clld.org/languages/ping1243)\n[Pingilapese](https://lexibank.clld.org/languages/abvdoceanic-Pingilapese)\n[Pingilapese](https://wals.info/languoid/lect/wals_code_pgl)\nhttps://en.wikipedia.org/wiki/Pingelapese_language\nhttps://www.wikidata.org/entity/Q36421"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:hattori:06**\n**cldf:kennedy:02**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Eilers:Ponape**\n**hh:s:GoodWelley:Pingilapese**\n**hh:styp:Hattori:Pingelapese**\n**hh:typ:Wong:Pingelapese**"
+  },
+  "altnames": {
+    "wals": "\nPingilapese",
+    "ruhlen (1987)": "\nPingilapese",
+    "multitree": "\nPingelap\nPingelapese\nPingilapese\nPingilapés",
+    "lexvo": "\nPingelapese [en]\nPingelapese language [en]\nPingelapin kieli [fi]",
+    "hhbib_lgcode": "\nPingelap",
+    "elcat": "\nPingelap\nPingelapese\nPingilapese"
+  },
+  "triggers": {
+    "lgcode": "\nglow\npingelapese\npingilapese"
+  },
+  "identifier": {
+    "wals": "pgl",
+    "multitree": "pif",
+    "endangeredlanguages": "2031"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping** **hh:vphon:Hughes:Nauruan**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:vphon:Hughes:Nauruan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pingelapese (2031-pif) = Threatened (100 percent certain, based on the evidence available) (Pohnpeian and English are used in public life and education.) [Hattori 2012](cldf:hattori:12)"
+  }
+}

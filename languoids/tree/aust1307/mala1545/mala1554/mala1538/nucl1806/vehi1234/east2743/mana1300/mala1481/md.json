@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Manado Malay",
+    "hid": "xmm",
+    "level": "language",
+    "iso639-3": "xmm",
+    "latitude": "1.48099",
+    "longitude": "124.843",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Manado Malay](https://grambank.clld.org/languages/mala1481)\n[Manadonese](https://wals.info/languoid/lect/wals_code_mds)\nhttps://en.wikipedia.org/wiki/Manado_Malay\nhttps://phoible.org/languages/mala1481\nhttps://www.wikidata.org/entity/Q1068112"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:denbesten:01**\n**hh:d:Warouw:Manado**\n**hh:g:Lasut:Manadonais**\n**hh:hs:Paauw:Malay**\n**hh:hvld:Brickell:North-Sulawesi**\n**hh:ld:Waraouw:Melayu-Manado**\n**hh:s:Karisohetal:Melayu-Manado**\n**hh:s:Prentice:Manado-Malay**\n**hh:s:Schmitt:Manado-Malay**\n**hh:s:Wantalangi:Manadonese**\n**hh:styp:Stoel:Manado-Malay**\n**hh:t:Watuseke:Manado-Maleis**\n**hh:t:deClercq:Maleisch-Minahasa**\n**hh:w:Stokhofetal:Holle:7:2**\n**mpieva:Stoel2005FocusinM**"
+  },
+  "altnames": {
+    "wals": "\nManadonese",
+    "wals other": "\nMalay (Eastern)",
+    "ruhlen (1987)": "\nManado Malay",
+    "moseley & asher (1994)": "\nMalay",
+    "multitree": "\nMalay (Manadonese)\nMalay, Manado\nManado Malay\nManadonese\nManadonese Malay\nMinahasan Malay",
+    "lexvo": "\nBahasa Manado [id]\nBahasa Melayu Manado [ms]\nMalais de Manado [fr]\nManado Malay [en]\n므나도 말레이어 [ko]",
+    "hhbib_lgcode": "\nBantik-Malay\nMalay-Manado\nManado Malay (North Sulawesi)\nManadonais"
+  },
+  "triggers": {
+    "lgcode": "\nmanadonese\nmanado\nmanando"
+  },
+  "identifier": {
+    "wals": "mds",
+    "multitree": "xmm"
+  },
+  "classification": {
+    "sub": "**hh:hs:Paauw:Malay**",
+    "subrefs": "\n**hh:hs:Paauw:Malay**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Malay, Manado (xmm-xmm) = 3 (Wider communication). ﻿Developed in 1658 under Dutch colonial period. Important, growing lingua franca in much of Sulawesi."
+  }
+}

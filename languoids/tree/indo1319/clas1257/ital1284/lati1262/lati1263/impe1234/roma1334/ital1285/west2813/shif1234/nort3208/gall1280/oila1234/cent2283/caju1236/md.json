@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Louisiana French",
+    "hid": "frc",
+    "level": "language",
+    "iso639-3": "frc",
+    "latitude": "29.6869",
+    "longitude": "-91.6133",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Cajun French](https://endangeredlanguages.com/lang/10931)\nhttps://www.wikidata.org/entity/Q880301"
+  },
+  "classification": {
+    "sub": "**hh:s:Motapanyane:Acadian**",
+    "subrefs": "\n**hh:s:Motapanyane:Acadian**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hartmann:12**\n**cldf:minahan:02**\n**hh:d:Valdman:Louisiana-French**\n**hh:g:ConwellJuilland:LouisianaFrench**\n**hh:ldsoc:Picone:Cajun-Louisiana**\n**hh:s:PapenRottet:Cajun-French**\n**hh:soc:Rottet:Coastal-Louisiana**\n**hh:soc:Rottet:Coastal-Louisiana:1995**\n**hh:soc:Valdman:Cajun**\n**mpieva:Stabler1995Entwickl**\n**mpieva:Stabler1995Laviedan**"
+  },
+  "altnames": {
+    "multitree": "\nAcadian\nCadien\nCajan\nCajun\nFrançais Acadien\nFrench, Cajun",
+    "lexvo": "\nCajun Frantsöösk [stq]\nCajun French [en]\nCajun [de]\nCajun-Frans [nl]\nFrancese cajun [it]\nFrançais cadien [fr]\nKaĵun-franca lingvo [eo]",
+    "hhbib_lgcode": "\nCajun French\nCajun French and Louisiana Creole\nFrench-Cajun\nLafourche and Terrebonne Parishes",
+    "elcat": "\nAcadien\nCajun\nCajun French\nFrançais Louisiane\nLouisiana French",
+    "glottolog": "\nCajun French"
+  },
+  "triggers": {
+    "lgcode": "\nromanischer\nkorpus\nmarshes"
+  },
+  "identifier": {
+    "multitree": "frc",
+    "endangeredlanguages": "10931"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "French, Cajun (frc-frc) = 7 (Shifting)."
+  }
+}

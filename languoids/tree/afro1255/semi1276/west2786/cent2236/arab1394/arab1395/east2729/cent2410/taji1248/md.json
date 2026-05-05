@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Tajiki Arabic",
+    "hid": "abh",
+    "level": "language",
+    "iso639-3": "abh",
+    "latitude": "37.2176",
+    "longitude": "67.3267",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF",
+      "TJ",
+      "UZ"
+    ],
+    "links": "\n[Tajiki Spoken Arabic](https://endangeredlanguages.com/lang/3585)\nhttps://www.wikidata.org/entity/Q56833\nhttps://en.wikipedia.org/wiki/Tajiki_Arabic"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:haeberl:13**\n**cldf:haywood:nahmad:62**\n**cldf:leslau:43**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:versteegh:01**\n**cldf:watson:93:1**\n**hh:d:Vinnikov:Buxarskix-Arabov**\n**hh:e:Kieffer:Arabe-Afghanistan**\n**hh:h:Farhadi:Afghanistan**\n**hh:h:Farhadi:Afghanistan:1959**\n**hh:hv:Seeger:Zentralasiatischen-Arabischen**\n**hh:hvw:vonKlaproth:Asia**\n**hh:ld:Chikovani:Central-Asian-Arabic**\n**hh:ld:Ingham:Afghanistan-Arabic**\n**hh:ld:Jastrow:Uzbekistan-Arabic:1995**\n**hh:s:Axvlediani:Buxarskij**\n**hh:s:Dereli:Uzbekistaans-Arabisch**\n**hh:s:Fischer:Arabischen-Uzbekistan**\n**hh:s:Ratcliffe:Bukhara**\n**hh:s:Zimmermann:Buchara**\n**hh:s:Zimmermann:Uzbekistan-Arabic**\n**hh:s:vanThiel:Bukhara**\n**hh:st:Chikovani:Buxarskij**\n**hh:t:Tsereteli:Bukhara**\n**hh:t:Vinnikov:Buxarskix-Arabov**\n**hh:typ:Chikovani:Central-Asia**\n**hh:typ:Jastrow:Uzbekistan-Arabic**\n**hh:typ:Versteegh:Uzbekistan-Arabic**\n**hh:typ:Windfuhr:Central-Asian-Arabic**\n**hh:typsoc:Kieffer:Arabic-Bactria**\n**hh:v:Jastrow:Uzbekistan-Arabic:1998**\n**hh:w:Sirat:Arabic-Balkh**\n**hh:w:Sirat:Arabic-Balkh:1961**\n**mpieva:Cereteli1956SuaAziis**"
+  },
+  "altnames": {
+    "multitree": "\nArabe d'Asie centrale\nArabic\nArabic, Tajiki Spoken\nBukhara Arabic\nBuxara Arabic\nCentral Asian Arabic\nJugari\nTajiji Arabic\nTajiki Arabic\nÁrabe asiático central",
+    "lexvo": "\nTadžički arapski [hr]\nTajiki Arabic [en]",
+    "hhbib_lgcode": "\n= Tajiki Arabic\nAfghanistan Arabic\nArabic in Hasan Abad in Balkh\nArabic of Bactria\nArabic-Tajiki Spoken\nBactriane Arabic\nBalkh\nBalkh Arabic\nBucharisch\nBukhara\nBukhara Arabic\nBukhara dialects in Djogari-Tchardari-Shahan-Bek (Gijduvon district)-Arabkhona (Vabkend district)\nBuxara\nBuxara Arabic\nBuxarskij\nBuxarskix\nBuxarskix Arabov\nDjogari\nJozjan\nJugari\nMazar-e-Sharif/Balh\nUzbekistan Arabic here is Buxara Arabic",
+    "elcat": "\nArabic\nBukhara Arabic\nBuxara Arabic\nCentral Asian Arabic\nJugari\nTajiji Arabic\nTajiki Arabic\nTajiki Spoken\nTajiki Spoken Arabic"
+  },
+  "triggers": {
+    "lgcode": "\narabuli\nbactriane\ndialektebi\nbucharskij\nbalkh\naziis"
+  },
+  "identifier": {
+    "multitree": "abh",
+    "endangeredlanguages": "3585"
+  },
+  "classification": {
+    "sub": "**hh:hv:Seeger:Zentralasiatischen-Arabischen**",
+    "subrefs": "\n**hh:hv:Seeger:Zentralasiatischen-Arabischen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Tajiki Spoken Arabic (3585-abh) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

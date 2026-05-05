@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Omani Arabic",
+    "hid": "acx",
+    "level": "language",
+    "iso639-3": "acx",
+    "latitude": "23.25",
+    "longitude": "58.5",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AE",
+      "OM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q56630\nhttps://en.wikipedia.org/wiki/Omani_Arabic"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10452**\n**eballiso2009:10645**\n**eballiso2009:10649**\n**eballiso2009:10697**\n**eballiso2009:10704**\n**eballiso2009:11846**\n**eballiso2009:1369**\n**eballiso2009:19584**\n**eballiso2009:23058**\n**eballiso2009:27144**\n**eballiso2009:27906**\n**eballiso2009:31200**\n**eballiso2009:31994**\n**eballiso2009:31995**\n**eballiso2009:34427**\n**eballiso2009:3581**\n**eballiso2009:36364**\n**eballiso2009:36670**\n**eballiso2009:39894**\n**eballiso2009:41126**\n**eballiso2009:43054**\n**eballiso2009:4507**\n**eballiso2009:46462**\n**eballiso2009:4673**\n**eballiso2009:49299**\n**eballiso2009:49943**\n**eballiso2009:49949**\n**eballiso2009:50715**\n**eballiso2009:50716**\n**eballiso2009:52477**\n**eballiso2009:55773**\n**eballiso2009:55852**\n**eballiso2009:58826**\n**eballiso2009:5893**\n**eballiso2009:5894**\n**eballiso2009:6591**\n**eballiso2009:699**\n**eballiso2009:7057**\n**eballiso2009:7905**\n**eballiso2009:839**\n**eballiso2009:840**\n**eballiso2009:9344**\n**eballiso2009:9346**\n**eballiso2009:9347**\n**hh:d:Nakano:Zanzibar-Arabic**\n**hh:g:Brockett:Oman-Arabic**\n**hh:g:Morano:Arabic-Oman**\n**hh:g:Reinhardt:Oman**\n**hh:hb:MahoSands:Tanzania:2004**\n**hh:hv:Holes:Oman**\n**hh:hv:Lodhi:Oriental-Swahili**\n**hh:phon:Glover:Muscat-Arabic**\n**hh:phon:Shaaban:Omani**\n**hh:s:Al-Balushi:Omani-Arabic**\n**hh:s:Eades:Arabic-Sawawi**\n**hh:s:Grunbichler:Buraimi**\n**hh:s:Jayakar:Omanee**\n**hh:s:Simeone-Senelle:Mahra**\n**hh:typ:Bettega:Omani-Arabic**\n**mpieva:Reinhardt1972Einarabi**"
+  },
+  "altnames": {
+    "multitree": "\nArabic\nArabic, Omani Spoken\nOmani Arabic\nOmani Hadari Arabic\nOmanī",
+    "lexvo": "\nOmani Arabic [en]\nOmanski arapski [hr]\nОмански арапски јазик [mk]\nภาษาอาหรับโอมาน [th]",
+    "hhbib_lgcode": "\nArabic-Omani Spoken\nBani Haru:s zwischen den Städten Nizwa und Rista:q angesiedelt\nBuraimi\nCentral Omani Arabic\nOmani Sedentary\nOmani Spoken Arabic\nThe Arabic spoken by the Mehri-speakers\nZanzibar Arabic\nzwischen den Städten Nizwa und Rista:q angesiedelt"
+  },
+  "triggers": {
+    "lgcode": "\nsawawi\noman\nomani\nsansibar\nshahee\ntippu\nmahra\nomanee\nkhabura\nthuenis\nomanisches\nmuscat\nomandialekt"
+  },
+  "identifier": {
+    "multitree": "acx"
+  },
+  "classification": {
+    "sub": "**hh:hvld:FischerJastrow:Arabischen**:24-25",
+    "subrefs": "\n**hh:hvld:FischerJastrow:Arabischen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arabic, Omani (acx-acx) = 6a* (Vigorous)."
+  }
+}

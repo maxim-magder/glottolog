@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Northwest Maidu",
+    "hid": "mjd",
+    "level": "language",
+    "iso639-3": "mjd",
+    "latitude": "39.6721",
+    "longitude": "-121.368",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Konkow](https://endangeredlanguages.com/lang/2290)\n[Konkow](https://wals.info/languoid/lect/wals_code_knw)\n[Northwest Maidu](https://grambank.clld.org/languages/nort2951)\nhttps://en.wikipedia.org/wiki/Konkow_language\nhttps://www.wikidata.org/entity/Q3198700",
+    "timespan": "2010-01-01/2010-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:424**\n**asjp2010:4635**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dixon:05:1**\n**cldf:ed:10**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:loeb:33:2**\n**cldf:np:nd:264**\n**cldf:simons;:fennig:ed:13**\n**cldf:voegelin:42**\n**hh:e:Riddell:Maidu**\n**hh:g:Ultan:Konkow**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:w:Gibbs:Yuba-Yukeh**"
+  },
+  "altnames": {
+    "wals": "\nKonkow",
+    "ruhlen (1987)": "\nKonkow",
+    "moseley & asher (1994)": "\nMaidu (Northwest)",
+    "multitree": "\nConcow\nDigger\"\"\nHolólupai\nKonkau\nKonkow\nMaidu\nMaidu, Northwest\nMaiduan\nMaidú noroccidental\nMeidoo\nMichopdo\nNorthwest Maidu\nNorthwestern Maidu\nNákum\nSecumne\nSekumne\nTsamak\nYuba",
+    "lexvo": "\nKonkow [fr]\nKonkow language [en]\nNorthwest Maidu [en]",
+    "hhbib_lgcode": "\nDigger\nHolólupai\nKonkow\nMaidu-Northwest\nNakum\nSekumne\nTsamak\nYuba\nYuba or Nevada",
+    "elcat": "\n\"Digger\"\nConcow\nHolólupai\nKonkau\nKonkow\nMaidu\nMaiduan\nMeidoo\nMichopdo\nNorthwest\nNorthwest Maidu\nNorthwestern Maidu\nNákum\nSecumne\nSekumne\nTsamak\nYuba"
+  },
+  "triggers": {
+    "lgcode": "\nkonkow\npowell"
+  },
+  "identifier": {
+    "wals": "knw",
+    "multitree": "mjd",
+    "endangeredlanguages": "2290"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Maidu, Northwest (mjd-mjd) = 9 (Dormant). Language of registered tribe: Enterprise Rancheria of Maidu Indians of California, Mechoopda Indian Tribe of Chico Rancheria, Mooretown Rancheria of Maidu Indians of California, Round Valley Indian Tribes-Round Valley Reservation."
+  }
+}

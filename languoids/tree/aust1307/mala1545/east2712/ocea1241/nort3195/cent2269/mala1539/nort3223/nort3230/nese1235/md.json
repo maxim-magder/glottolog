@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nese",
+    "hid": "NOCODE_Nese",
+    "latitude": "-15.952608",
+    "longitude": "167.222769",
+    "level": "language",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "VU"
+    ],
+    "links": "\n[Nese](https://endangeredlanguages.com/lang/2089)\n[Nese](https://grambank.clld.org/languages/nese1235)\n[Nese](https://lexibank.clld.org/languages/abvdoceanic-Nese)\nhttps://en.wikipedia.org/wiki/Nese_language\nhttps://www.wikidata.org/entity/Q2157412"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lynch:05**\n**cldf:takau:11**\n**cldf:takau:14**\n**hh:g:Takau:Nese**\n**hh:g:Takau:Nese:2023**\n**hh:h:Francois:Density-Vanuatu**\n**hh:hvb:LynchCrowley:Vanuatu**\n**hh:hvw:Tryon:NewHebrides**\n**hh:s:Crowley:Nese**\n**hh:v:Lynch:Nese**"
+  },
+  "triggers": {
+    "lgcode": "\nnese\nnaha\nnajit\nsiviti\nnjav AND malakula\nWowo\nVovo\nAlovas\nAlavas"
+  },
+  "identifier": {
+    "multitree": "1mg",
+    "endangeredlanguages": "2089"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Nese-Naha, an Oceanic language of Northwest Malekula is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 (**hh:s:Crowley:Nese**:3).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Nese"
+  },
+  "classification": {
+    "sub": "**hh:hv:Lynch:Malakula-Subgrouping** **hh:hv:Lynch:Malakula-Subgrouping-Numeral** **hh:v:Lynch:Nese**",
+    "subrefs": "\n**hh:hv:Lynch:Malakula-Subgrouping**\n**hh:hv:Lynch:Malakula-Subgrouping-Numeral**\n**hh:v:Lynch:Nese**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nese (2089) = Critically Endangered (100 percent certain, based on the evidence available) (There is one family that speaks it to the children, but the children answer with Bislama.) [Takau 2014](cldf:takau:14)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nAlovas\nMatanvat\nNaha\nNaha-Nese\nNajit\nNese-Naha\nNjav\nSiviti\nVovo\nVovo N Malakula\nVovo N Malakula not sure what this is - modern Vovo is different p.c. Aviva Shimelman 2016 this Vovo might be closer to Vao than Nese",
+    "elcat": "\nMatanvat\nNese"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Eten",
+    "hid": "etx",
+    "level": "language",
+    "iso639-3": "etx",
+    "latitude": "9.73073",
+    "longitude": "8.61443",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3915392\nhttps://en.wikipedia.org/wiki/Eten_language\nhttps://phoible.org/languages/eten1239"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1238**\n**eballiso2009:17141**\n**hh:d:Blench:Iten**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:he:Ames:Plateau**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hv:Gerhardt:Plateau:1969**\n**hh:hv:GerhardtJockers:Plateau-Sprachen**\n**hh:hvtyp:Bouquiaux:Plateau**\n**hh:hvw:Shimizu:Jos**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:w:Armstrong:West-African**\n**hh:w:Bouquiaux:Aten**"
+  },
+  "altnames": {
+    "multitree": "\nAten\nEten\nEtien\nGanawuri\nIten\nJal\nNiten\nTen",
+    "lexvo": "\nEten [en]",
+    "hhbib_lgcode": "\nAten\nAten/Ganawuri\nGanawuri\nIten\nNiten"
+  },
+  "triggers": {
+    "lgcode": "\nganawuri\niten"
+  },
+  "identifier": {
+    "multitree": "etx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Blench:Plateau:2020**:23-24",
+    "subrefs": "\n**hh:hv:Blench:Plateau:2020**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Iten (etx-etx) = 5* (Developing)."
+  }
+}

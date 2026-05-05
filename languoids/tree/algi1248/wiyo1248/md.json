@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Wiyot",
+    "hid": "wiy",
+    "level": "language",
+    "iso639-3": "wiy",
+    "latitude": "39.2492",
+    "longitude": "-122.952",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Wiyot](https://endangeredlanguages.com/lang/853)\nhttps://www.wikidata.org/entity/Q36937\nhttps://en.wikipedia.org/wiki/Wiyot_language\nhttps://phoible.org/languages/wiyo1248\n[Wiyot](https://wals.info/languoid/lect/wals_code_wiy)",
+    "timespan": "1962-01-01/1962-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:3266**\n**cldf:baumhoff:63**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:56**\n**cldf:driver:39**\n**cldf:gifford:22**\n**cldf:gifford:26:1**\n**cldf:golla:goddard:etal:08**\n**cldf:kroeber:ed:11:3**\n**cldf:kroeber:gifford:49**\n**cldf:lewis:paul:etal:ed:15**\n**cldf:loud:18**\n**cldf:nomland:kroeber:36**\n**cldf:proulx:84**\n**cldf:schalk:78**\n**cldf:teeter:nichols:91**\n**cldf:tribe:nd**\n**hh:dt:TeeterNichols:Wiyot**\n**hh:e:Elsasser:Wiyot**\n**hh:g:Reichard:Wiyot**\n**hh:g:Teeter:Wiyot**\n**hh:hs:Kroeber:NCoast**\n**hh:hv:Goddard:Algonquian-Wiyot-Yurok**\n**hh:hv:Hamp:WiyotYurok**\n**hh:hv:RhodesTodd:Subarctic-Algonquian**\n**hh:hv:Sapir:WiyotYurok**\n**hh:hvb:Golla:California**\n**hh:hvw:Powell:California**\n**hh:vld:Trombetti:Algonchine**\n**hh:w:Gibbs:Northwest-California**\n**mpieva:Reichard1926Wiyotgra**"
+  },
+  "altnames": {
+    "wals": "\nWiyot",
+    "ruhlen (1987)": "\nWiyot",
+    "moseley & asher (1994)": "\nWiyot",
+    "multitree": "\nKowilth\nWeyot\nWishosk\nWishoskan\nWiyoshk\nWiyot\nWiyotan Isolate",
+    "lexvo": "\nWiyot [en]\nWiyot language [en]\nWiyot-språket [nn]\nWiyoteg [br]\nВийот [ru]",
+    "hhbib_lgcode": "\n\"Wish-ask\"\nKowilth\nWishosk\ntwo dialects of Wiyot \"Wee-yot\"",
+    "elcat": "\nKowilth\nWeyot\nWishosk\nWiyoshk\nWiyot"
+  },
+  "triggers": {
+    "lgcode": "\nwiyot\nalgic\nNOT languages AND wiyot"
+  },
+  "identifier": {
+    "wals": "genus/wiyot",
+    "multitree": "wiyo;wiy",
+    "endangeredlanguages": "853"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California** **hh:h:Oxford:Algonquian**:504-506",
+    "subrefs": "\n**hh:hvb:Golla:California**\n**hh:h:Oxford:Algonquian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wiyot (853-wiy) = Awakening [Tribe n.d.](cldf:tribe:nd)"
+  }
+}

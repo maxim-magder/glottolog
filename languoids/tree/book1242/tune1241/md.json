@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tunen (Retired)",
+    "hid": "baz",
+    "level": "language",
+    "iso639-3": "baz",
+    "latitude": "4.75",
+    "longitude": "10.67",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q115614914"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1916**\n**asjp2010:3763**\n**iso6393:2011-080**\n**mpieva:1997Objectpo**\n**mpieva:Dugast1967Lexiqued**\n**mpieva:Dugast1975Contespr**"
+  },
+  "altnames": {
+    "wals": "\nTunen",
+    "wals other": "\nBanen",
+    "ruhlen (1987)": "\nTunen",
+    "moseley & asher (1994)": "\nTunen",
+    "multitree": "\nBanen\nBanend\nNenni Nyo'o\nPenin\nPenyin\nTunen",
+    "lexvo": "\nTunen [en]"
+  },
+  "iso_retirement": {
+    "comment": "Early linguistic survey of the area highlighted many distinguishing features of\nthe Nyokon language (Richardson 1957:28-31). Lexicostatistical studies have\nshown that the linguistic similarity between the two speech varieties (Tunen and\nNyokon) is so low that there is no possibility of inherent understanding. Mous\nand Breedveld show that the percentage of similar lexical items between the two\nlanguages is as low as 36% (1986:184). A previous study by Schadeberg and\nVoorhoeve gave a figure of approximately 50% (1977:24). Both studies show that\nTunen is more closely related to Nomaande (Mandi) ([lem]) than to Nyokon. Field\nnotes from D. Barreteau reveal that the class system of Nyokon does not align\nwith Tunen, each containing classes and gender pairs that do not occur in the\nother. This data confirms the early (and still accepted) classification of\nNyokon as a separate\n\nlanguage labeled A.45 in Guthrie's system (1971, Maho 2003:641). Nyokon\n(ninyǤ'Ǥ) has also been given the language number code 514 in the Administrative\nAtlas of the National Languages of Cameroon (Breton and Fohtung 1991: 39). Mous,\nin his studies of Tunen, specifically presents Nyokon as a related language and\nnot a dialect (2003:283). Guthrie\n\nand Tucker (1956:29) write, “Although NyǤ'̃ Ǥ̃ is closely related to Banǫn\nthere can be no question of intercomprehension.”",
+    "code": "baz",
+    "name": "Tunen",
+    "effective": "2012-02-03",
+    "remedy": "Split into Tunen [tvu] and Nyokon [nvo]",
+    "reason": "split",
+    "change_request": "2011-080",
+    "change_to": "\ntvu\nnvo"
+  },
+  "identifier": {
+    "wals": "tnn",
+    "multitree": "baz"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Aproumu Aizi",
+    "hid": "ahp",
+    "level": "language",
+    "iso639-3": "ahp",
+    "latitude": "5.20273",
+    "longitude": "-4.52192",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34810\nhttps://en.wikipedia.org/wiki/Apro_language\nhttps://phoible.org/languages/apro1235\n[Aizi](https://wals.info/languoid/lect/wals_code_aiz)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:44619**\n**eballiso2009:44620**\n**hh:dial:MarcheseHook:Aizi**\n**hh:ld:Ahate:Apro**\n**hh:typ:Ahate:Aizi-Kwa**\n**hh:typ:Ahate:Eotile**\n**sil16:42609**\n**sil16:45650**"
+  },
+  "altnames": {
+    "wals": "\nAizi",
+    "ruhlen (1987)": "\nAizi",
+    "moseley & asher (1994)": "\nAizi",
+    "multitree": "\nAhizi\nAizi\nAizi, Aproumu\nAprou\nAproumu\nAprwe\nOprou",
+    "lexvo": "\nAproumu Aizi [en]",
+    "hhbib_lgcode": "\nApro"
+  },
+  "triggers": {
+    "lgcode": "\nladioukrou AND lutilisation\nlaizi"
+  },
+  "identifier": {
+    "wals": "aiz",
+    "multitree": "ahp"
+  },
+  "classification": {
+    "sub": "**hh:dial:MarcheseHook:Aizi** **hh:ld:Ahate:Apro** seems to be an Atlantic-Congo language (but not Kru)",
+    "subrefs": "\n**hh:ld:Ahate:Apro**\n**hh:dial:MarcheseHook:Aizi**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Aizi, Aproumu (ahp-ahp) = 7 (Shifting)."
+  }
+}

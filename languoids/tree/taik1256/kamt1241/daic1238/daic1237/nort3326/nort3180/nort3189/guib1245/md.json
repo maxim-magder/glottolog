@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Guibei Zhuang",
+    "hid": "zgb",
+    "level": "language",
+    "iso639-3": "zgb",
+    "latitude": "24.9",
+    "longitude": "108.1",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q17651534\n[Zhuang (Northern)](https://wals.info/languoid/lect/wals_code_zhn)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:edmondson:01**\n**hh:hev:JohnsonWang:Zhuang**\n**hh:hphon:Qin:Zhuang**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hv:YuanshengXingyun:Zhuang**\n**hh:hvld:Luo:Zhuang**\n**hh:hvwphon:Zhangetal:Zhuang**\n**hh:ld:Edmondson:Kadai-Guangxi**\n**hh:soc:Huang:Zhuang**\n**hh:v:FengEdmondson:Sanfang-Zhuang**\n**iso6393:2007-027**\n**mpieva:Moskalev1971Grammati**\n**mpieva:Wei1980Zhuangyu**\n**mpieva:Zhang1999Zhuangyu**"
+  },
+  "altnames": {
+    "multitree": "\nChuang\nGuibei\nGuibei Zhuang\nZhuang\nZhuang, Guibei",
+    "lexvo": "\nGuibei Zhuang [en]",
+    "hhbib_lgcode": "\nBama\nDonglan\nGuibei\nGuibei Zh\nHechi\nHuanjiang\nLongsheng\nNandan\nRong'an\nSanfang\nSanfang Zhuang\nZhuang-Guibei"
+  },
+  "triggers": {
+    "lgcode": "\ncylinder\nsanfang\nczuan\nsinification"
+  },
+  "identifier": {
+    "wals": "zhn",
+    "multitree": "zgb"
+  },
+  "classification": {
+    "sub": "**hh:hv:Chamberlain:Kra-Dai**:58-59 **hh:hvld:Luo:Zhuang** **hh:hv:Pittayaporn:Proto-Tai** **hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**",
+    "subrefs": "\n**hh:hv:Chamberlain:Kra-Dai**\n**hh:hvld:Luo:Zhuang**\n**hh:hv:Pittayaporn:Proto-Tai**\n**hh:hv:EdmondsonSolnit:Kadai-Tai:Introduction**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Zhuang, Guibei (zgb-zgb) = 6a* (Vigorous). Language of recognized nationality: Zhuang."
+  }
+}

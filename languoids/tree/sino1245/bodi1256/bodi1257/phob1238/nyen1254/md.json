@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Upper Mangdep",
+    "hid": "neh",
+    "level": "language",
+    "iso639-3": "neh",
+    "latitude": "27.3732",
+    "longitude": "90.3947",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BT"
+    ],
+    "links": "\n[Nyenkha](https://endangeredlanguages.com/lang/5676)\nhttps://www.wikidata.org/entity/Q3695185\nhttps://en.wikipedia.org/wiki/Nyen_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**hh:d:Dzonkha:Mangdep**\n**hh:hev:Bodt:Eastern-Bhutan**\n**hh:hv:Hyslop:East-Bodish:Reconstruction**\n**hh:hvld:Hyslop:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish:2010**\n**hh:hvw:Donohue:Bumthang**\n**hh:ld:Nishida:Mandebi**\n**hh:ld:Nishida:Mangde-Bhutan**\n**hh:ld:Nishida:Mangdep:2018**\n**hh:typ:Nishida:Mangde-Bhutan:2013**\n**hh:typ:Nishida:Mangde-Sentences:2013**\n**hh:vtyp:Bosch:Upper-Mangdep**\n**hh:wsoc:Dorji:Hen-Kha**\n**silpng:silpng2001-2003:38**\n**silpng:silpng2001-2003:39**\n**silpng:silpng2001-2003:40**"
+  },
+  "altnames": {
+    "multitree": "\nHenkha\nLap\nMangsdekha\nNyenkha",
+    "lexvo": "\nNyenkha [en]",
+    "hhbib_lgcode": "\nHenkha\nMangde\nMangdep\nNyenkha\nUpper Mangdep",
+    "elcat": "\nHenkha\nLap\nMangsdekha\nNgenkha\nNyenkha\nNyg Ked\nNyn Kha",
+    "glottolog": "\nNyenkha"
+  },
+  "triggers": {
+    "lgcode": "\nmandebi\nmangde"
+  },
+  "identifier": {
+    "multitree": "neh",
+    "endangeredlanguages": "5676"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bodt:East-Bodish** **hh:hvld:Hyslop:East-Bodish**",
+    "subrefs": "\n**hh:hv:Bodt:East-Bodish**\n**hh:hvld:Hyslop:East-Bodish**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nyenkha (5676-neh) = Vulnerable (100 percent certain, based on the evidence available) (In the Hen Kha speaking villages, the majority still speaks their ethnic language fluently. But \"families who left their villages essentially abandoned Hen Kha once they arrived in their new communities as minority migrants.\" (p. 82)) [Dorji 2011](cldf:dorji:11)"
+  }
+}

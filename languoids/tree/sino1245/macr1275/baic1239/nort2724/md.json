@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northern Bai",
+    "hid": "bfc",
+    "level": "language",
+    "iso639-3": "bfc",
+    "latitude": "26.925",
+    "longitude": "99.656",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Bai (Bijiang)](https://lexibank.clld.org/languages/gaotb-BijangBai)\n[Lama](https://endangeredlanguages.com/lang/5606)\n[Northern Bai](https://grambank.clld.org/languages/nort2724)\nhttps://www.wikidata.org/entity/Q12642165"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**hh:h:Hsiu:Southwestern-China**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hv:Dell:Bai**\n**hh:hv:Wang:Bai**\n**hh:hv:Yang:Bai**\n**hh:hvw:Wang:Bai**\n**hh:hvw:Wang:Bai:2012**\n**hh:hvwphon:Sun:Zang-Mian-Yuyin-Cihui**\n**hh:hwdial:Allen:Bai**\n**hh:hwdial:Allen:Bai:2004**\n**hh:typ:Fu:Bai**\n**hh:typ:Yeung:Lemei**\n**hh:w:Lietard:Yun-nan**\n**iso6393:2013-006**\n**mpieva:Xu1984Baiyujia**\n**mpieva:Xu2008Spaceinl**\n**mpieva:Zhao1996BaiHanci**\n**sil16:41971**\n**sil16:44951**"
+  },
+  "altnames": {
+    "multitree": "\nBai\nBai, Northern\nBai,Northern\nBijang Bai",
+    "lexvo": "\nNorthern Bai [en]",
+    "hhbib_lgcode": "\nBai Bijiang\nBai Occidental of Dell\nBai-Northern\nBai-Panyi\nBijiang Bai\nBái yǔ (nán)\nEga Bai\nEnqi Bai\nJinman Bai\nLa-ma Jen\nLama in Yunnan\nLemei\nLuobenzhuo\nPherbu\nTuoluo Bai",
+    "elcat": "\nBai\nBijang Bai\nLaemae\nLama\nNorthern Bai"
+  },
+  "triggers": {
+    "lgcode": "\nlaryngoscopic\ndistillation"
+  },
+  "identifier": {
+    "multitree": "bfc",
+    "endangeredlanguages": "5606"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dell:Bai**",
+    "subrefs": "\n**hh:hv:Dell:Bai**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Lama (5606-bfc) = Endangered (40 percent certain, based on the evidence available) (About 15,000 of 50,000 Lama speak this variety of Bai.) [Bradley 2007](cldf:bradley:07)"
+  }
+}

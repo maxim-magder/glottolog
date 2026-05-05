@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "North Mesopotamian Arabic",
+    "hid": "ayp",
+    "level": "language",
+    "iso639-3": "ayp",
+    "latitude": "36.2986",
+    "longitude": "42.0047",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IQ",
+      "JO",
+      "SY",
+      "TR"
+    ],
+    "links": "\n[North Mesopotamian Arabic](https://endangeredlanguages.com/lang/10838)\nhttps://en.wikipedia.org/wiki/North_Mesopotamian_Arabic\nhttps://www.wikidata.org/entity/Q56577"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:haeberl:nd**\n**cldf:sweet:60**\n**cldf:versteegh:97**\n**hh:d:Al-Bakri:Mawsiliyya**\n**hh:dial:Behnstedt:Qeltu**\n**hh:g:Abu-Haidar:Arabic-Baghdad**\n**hh:g:Fink:Hasankeyf**\n**hh:g:Gralla:Nabk**\n**hh:g:Grigore:Arabe-Mardin**\n**hh:g:Grigore:Arabe-Mardin:2009**\n**hh:g:Lahdo:Tillo**\n**hh:g:McCarthy:Arabic-Baghdad**\n**hh:g:Sasse:Mhallamiye**\n**hh:g:Talay:Khawetna**\n**hh:g:Wittrich:Azex**\n**hh:h:Jastrow:Arabic-Turkey**\n**hh:hst:Jastrow:Qeltu**\n**hh:hv:Prochazka:Arabic-Eastern-Anatolia**\n**hh:ld:Abu-Haidar:Baghdad-Arabic**\n**hh:ld:Jastrow:Anatolian-Arabic**\n**hh:s:Agbaht:Sextoba**\n**hh:s:Akin:Norsen**\n**hh:s:Akkus:Mutki-Sason**\n**hh:s:Behnstedt:Mcaddamiye**\n**hh:s:Isaksson:Sason**\n**hh:s:IsakssonLahdo:Turkey-Syria**\n**hh:s:Jastrow:Mossul**\n**hh:s:Prochazka:Arabic-Eastern-Anatolia**\n**hh:s:Prochazka:Arabic-Northern-Iraq**\n**hh:s:Salonen:Sirqat**\n**hh:s:Socin:Mosul-Mardin**\n**hh:s:Talay:Haskoy**\n**hh:s:Talay:Xatuniyya**\n**hh:st:Jastrow:Daragozu**\n**hh:typ:Abu-Haidar:Rabia**\n**hh:typ:Hassan:Mergi**\n**hh:typ:Hassan:Qeltu-Dor**\n**hh:typ:Hassan:Rehjita**"
+  },
+  "altnames": {
+    "multitree": "\nArabic\nArabic, North Mesopotamian Spoken\nMesopotamian Qeltu Arabic\nMoslawi\nNorth Mesopotamian Arabic\nSyro-Mesopotamian Arabic\nSyro-Mesopotamian Vernacular Arabic",
+    "lexvo": "\nNorth Mesopotamian Arabic [en]\nSjevernomezopotamski arapski [hr]\nمصلاوية [ar]",
+    "hhbib_lgcode": "\nArabic-North Mesopotamian Spoken\nAzex\nBehzani\nChristian Arabic Dialect of Mērgī\nDer izZor\nKa'biye\nKozluk-Sason\nMardin\nMaslawi\nMossul\nMosul\nMosul Arabic\nMosul-Mardin\nNabk\nNorth Mesopotamian Spoken Arabic\nQeltu of Mardin\nQɘltu Dialect of Al-Dōr\nRabi'a\nRǝḥjīta Arabic\nSedentary Qeltu of SE Turkey and N Iraq\nSiirt-Dörfer\nSiirt-Stadt\nTillo\nŠɛxṭɔba/Shaykh Taba",
+    "elcat": "\nAnatolian Arabic\nMesopotamian Arabic\nNorth Mesopotamian Arabic"
+  },
+  "triggers": {
+    "lgcode": "\nxatuniyya\nkhawetna\ntillo\nmossul\nhaskoy\nmhallamiye\nsason\nqltu\ncukurova"
+  },
+  "identifier": {
+    "multitree": "ayp",
+    "endangeredlanguages": "10838"
+  },
+  "classification": {
+    "sub": "**hh:hv:Talay:Arabic-Mesopotamia**",
+    "subrefs": "\n**hh:hv:Talay:Arabic-Mesopotamia**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "North Mesopotamian Arabic (10838-ayp) = At risk (20 percent certain, based on the evidence available) [Versteegh 1997](cldf:versteegh:97)"
+  }
+}

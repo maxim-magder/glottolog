@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Japanese Sign Language",
+    "hid": "jsl",
+    "level": "language",
+    "iso639-3": "jsl",
+    "latitude": "36.0221",
+    "longitude": "139.079",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "JP"
+    ],
+    "links": "\n[Japanese Sign Language](https://grambank.clld.org/languages/japa1238)\n[Nihon Shuwa (Japanese Sign Language)](https://wals.info/languoid/lect/wals_code_nih)\nhttps://en.wikipedia.org/wiki/Japanese_Sign_Language\nhttps://www.wikidata.org/entity/Q35601"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:morgan:03**\n**cldf:morgan:06**\n**cldf:sagara:16**\n**hh:d:JFD:Signs**\n**hh:g:Yonekawa:Shuwa**\n**hh:h:Hara:Japanese-Sign**\n**hh:hld:Mori:Sign-Japan**\n**hh:hld:Wilkinson:Signed**\n**hh:hvld:Sagara:Japanese-Sign**\n**hh:ld:Ichida-Shuwa**\n**hh:ld:Peng:Japanese-Sign**\n**hh:s:Ichida-Shuwa**\n**hh:s:Kimura:Japanese-Sign**\n**hh:s:OkaAkahori:Nihon-Shuwa**\n**hh:soc:Hurlbut:Sign-Taiwan**\n**hh:typ:George:Japanese-Sign**\n**hh:typ:Imazato:Japanese-Sign**\n**hh:typ:Kanda:Japanese-Sign-Verbs**\n**hh:typ:Morgan:Japanese-Sign**\n**hh:typ:Nakanishi:Japanese-Sign**\n**hh:typ:Sagara:Japanese-Sign**\n**hh:vld:Sasaki:Japanese-Taiwan-Sign**\n**hh:w:Sadobaru:Shuwa**"
+  },
+  "altnames": {
+    "wals": "\nNihon Shuwa (Japanese Sign Language)",
+    "wals other": "\nShuwa\nTemane",
+    "multitree": "\nJapanese Sign Language\nShuwa\nTemane",
+    "lexvo": "\nJapanese Sign Language [en]\nLíngua de Sinais Japonesa [pt]\n日本手話 [ja]\n日本手语 [zh]"
+  },
+  "identifier": {
+    "wals": "nih",
+    "multitree": "jsl",
+    "languagelandscape": "http://languagelandscape.org/language/Japanese%20Sign%20Language"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Japanese Sign Language (jsl-jsl) = 5 (Developing). Recognized language (2013, Basic Act of Persons with Disabilities), guarantees the opportunity to choose ‘sign language’, but no further details."
+  },
+  "classification": {
+    "sub": "Historical and lexical evidence (**hh:hld:Mori:Sign-Japan**:802-803, **hh:h:FischerGong:East-Asian-Sign**, **hh:hvld:Sagara:Japanese-Sign**, **hh:h:Woll:Global-Sign**:29, **hh:vld:Sasaki:Japanese-Taiwan-Sign**).",
+    "subrefs": "\n**hh:hld:Mori:Sign-Japan**\n**hh:h:Woll:Global-Sign**\n**hh:hvld:Sagara:Japanese-Sign**\n**hh:h:FischerGong:East-Asian-Sign**\n**hh:vld:Sasaki:Japanese-Taiwan-Sign**"
+  }
+}

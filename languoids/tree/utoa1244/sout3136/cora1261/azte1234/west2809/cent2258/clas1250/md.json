@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Classical Nahuatl",
+    "hid": "nci",
+    "level": "language",
+    "iso639-3": "nci",
+    "latitude": "19.72",
+    "longitude": "-96.97",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Classical Nahuatl](https://grambank.clld.org/languages/clas1250)\n[Classical Nahuatl](https://lexibank.clld.org/languages/davletshinaztecan-ClassicalNahuatl)\n[Classical Nahuatl](https://lexibank.clld.org/languages/utoaztecan-ClassicalAztec)\nhttps://en.wikipedia.org/wiki/Classical_Nahuatl\nhttps://www.wikidata.org/entity/Q559242",
+    "timespan": "1500-01-01/1600-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:829**\n**cldf:baer:engelbrecht:90**\n**cldf:hassig:85**\n**cldf:hassig:88**\n**cldf:hinz:90**\n**cldf:holtker:30**\n**cldf:murdock:34:2**\n**cldf:prescott:22**\n**cldf:sahagun:50**\n**cldf:seler-sachs:19**\n**cldf:simeon:77**\n**cldf:soustelle:56**\n**cldf:soustelle:61**\n**cldf:thompson:33**\n**cldf:vaillant:41**\n**cldf:wimmer:06**\n**cldf:zantwijk:90**\n**hh:d:Karttunen:Nahuatl**\n**hh:d:Ringmacher:Mexicanische**\n**hh:d:Simeon:Nahuatl**\n**hh:d:Thouvenot:Nahuatl**\n**hh:d:deMolina:Mexicana**\n**hh:g:Andrews:Classical-Nahuatl**\n**hh:g:Andrews:Classical-Nahuatl:1975**\n**hh:g:CampbellKarttunen:Nahuatl**\n**hh:g:Carochi:Mexican**\n**hh:g:Carochi:Mexicana**\n**hh:g:Carr:Nahuatl**\n**hh:g:Durand:Nahuatl**\n**hh:g:Launey:Nahuatl**\n**hh:g:Launey:Nahuatl-Classique**\n**hh:g:Launey:Nahuatl:1986**\n**hh:g:Launey:Nahuatl:2011**\n**hh:g:Olmos:Nahuatl**\n**hh:g:Sullivan:Nahuatl**\n**hh:g:Sullivan:Nahuatl:2014**\n**hh:g:delaGrasserie:Nahuatl**\n**hh:hvw:deLaet:Americae**\n**hh:phon:Vazquez:Nahuatl-Clasico**\n**hh:s:Aldama:Mexicana**\n**hh:s:Anderson:Classical-Nahuatl**\n**hh:s:Newman:Nahuatl**\n**hh:s:Palma:Mejicana**\n**hh:s:Ringmacher:Mexicanische**\n**hh:s:Rojas:Nahuatl:1927**\n**hh:s:Rojas:Nahuatl:1935**\n**hh:s:Sanchez:Amerindias**\n**hh:s:Sandoval:Mexicana**\n**hh:s:deArenas:Mexicana**\n**hh:s:deMolina:Mexicana**\n**hh:s:deMolina:Mexicana:2014**\n**hh:s:deVetancurt:Mexicana**\n**hh:s:delRincon:Mexicana**\n**hh:s:delRincon:Mexicana:1885**\n**hh:std:Bierhorst:Nahuatl**\n**hh:sv:Croft:Matlapa**\n**hh:t:Simeon:Chimalpahin**\n**hh:typ:Steele:Classical-Aztec**\n**hh:v:Karttunen:Nahuatl-Middle**\n**hh:vsoc:Karttunen:Nahuatl-Maya**\n**hh:w:Rojas:Mexicana**\n**ldh:item_402403**\n**mpieva:Olmos1875Grammair**\n**mpieva:Stolz2001DieNumer**\n**sil16:12646**\n**sil16:15333**\n**sil16:15336**\n**sil16:24712**"
+  },
+  "altnames": {
+    "multitree": "\nClassical Aztec\nClassical Nahuatl\nNawa",
+    "lexvo": "\nClassical Nahuatl [en]\nKlassisk nahuatl [no]\nKlasyčno godka nahuatl [szl]\nLingua nahuatl classica [it]\nNahuatl Chlassicagh [gv]",
+    "hhbib_lgcode": "\nMexicanorum Idioma\nMostly Classical Nahuatl\nNahuatl\nNahuatl-Classical"
+  },
+  "triggers": {
+    "lgcode": "\nthelma\nmexicaine\ncontienen\ntrato\nofrecer\nsullivans\nfranciscain\ncomunes\nazteques\nrivas\nsuelen\nolmos\nmejicana\nordinarias\nespanoles\nnumeralklassifikation\nazteca\nomnipredicative\nrespuestas\netnolinguistiva"
+  },
+  "identifier": {
+    "multitree": "nci"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hansen:Nahuan**",
+    "subrefs": "\n**hh:hv:Hansen:Nahuan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Classical Nahuatl (nci-nci) = 10 (Extinct)."
+  }
+}

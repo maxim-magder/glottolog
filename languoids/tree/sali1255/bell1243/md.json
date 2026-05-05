@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Bella Coola",
+    "hid": "blc",
+    "level": "language",
+    "iso639-3": "blc",
+    "latitude": "52.3448",
+    "longitude": "-126.689",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Bella Coola](https://grambank.clld.org/languages/bell1243)\n[Bella Coola](https://wals.info/languoid/lect/wals_code_bco)\n[Nuxalk](https://endangeredlanguages.com/lang/1676)\nhttps://en.wikipedia.org/wiki/Nuxalk_language\nhttps://phoible.org/languages/bell1243\nhttps://www.wikidata.org/entity/Q977808"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:beck:00:3**\n**cldf:boas:91:2**\n**cldf:boas:99**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cybulski:90**\n**cldf:davis:saunders:80**\n**cldf:davis:saunders:84**\n**cldf:davis:saunders:86**\n**cldf:drucker:40**\n**cldf:drucker:50**\n**cldf:dunlop:gessner:etal:18**\n**cldf:ed:10**\n**cldf:fpcc:14**\n**cldf:gessner:suzanne:etal:22**\n**cldf:golla:goddard:etal:08**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:mcilwraith:48**\n**cldf:moseley:07**\n**cldf:nakayama:00**\n**cldf:nater:00**\n**cldf:newman:33**\n**cldf:newman:47**\n**cldf:newman:69**\n**cldf:np:12:5**\n**cldf:np:12:6**\n**cldf:np:nd:264**\n**cldf:rosman:rubel:71**\n**cldf:saunders:david:82**\n**cldf:saunders:davis:77**\n**cldf:schalk:78**\n**cldf:smith:25:1**\n**hh:d:Nater:Nuxalk**\n**hh:e:KennedyBouchard:Bella-Coola**\n**hh:ew:MacKenzie:Montreal**\n**hh:g:DavisSaunders:Bella-Coola**\n**hh:g:Nater:Bella-Coola:1983**\n**hh:g:Nater:BellaCoola**\n**hh:hew:Tyloretal:North-Western-Canada**\n**hh:hv:Beck:Wakashan**\n**hh:hv:Swadesh:Salish:1950**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Hale:NWAmerica**\n**hh:hw:Scouler:NWCoast**\n**hh:lde:Boas:Bella-Coola**\n**hh:phon:Nater:Bella-Coola**\n**hh:s:Beck:Bella-Coola-Lushootseed**\n**hh:std:Nater:Nuxalk**\n**hh:typ:DavisSaunders:Bella-Coola**\n**hh:v:Nater:Bella-Coola**\n**hh:v:Nater:Bella-Coola:2014**"
+  },
+  "altnames": {
+    "wals": "\nBella Coola",
+    "wals other": "\nBella-Coola\nNuxalk",
+    "ruhlen (1987)": "\nBella Coola",
+    "moseley & asher (1994)": "\nBella Coola",
+    "multitree": "\nBella Coola\nBella coola\nBellacoola\nBilcula\nNuxalk\nnuxalk",
+    "lexvo": "\nBella Coola [en]\nJęzyk nuxálk [pl]\nLenga bella coola [pms]\nNuxálk [ca]\nNuxálk language [en]",
+    "hhbib_lgcode": "\nBella Coola Be\nBillechoola\nBilqula\nFriendly Village",
+    "elcat": "\nBella Coola\nBellacoola\nNass\nNuxalk\nnuxalk"
+  },
+  "triggers": {
+    "lgcode": "\nnuxalk\nbella AND coola"
+  },
+  "identifier": {
+    "wals": "genus/bellacoola",
+    "multitree": "blc-blc;blc",
+    "endangeredlanguages": "1676"
+  },
+  "classification": {
+    "sub": "**hh:h:Davis:Salish** **hh:hv:Thompson:Salishan**",
+    "subrefs": "\n**hh:h:Davis:Salish**\n**hh:hv:Thompson:Salishan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Nuxalk (1676-blc) = Critically Endangered (80 percent certain, based on the evidence available) [n.a. 2012](cldf:np:12:6)"
+  }
+}

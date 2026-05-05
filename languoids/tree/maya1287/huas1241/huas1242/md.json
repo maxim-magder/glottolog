@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Huastec",
+    "hid": "hus",
+    "level": "language",
+    "iso639-3": "hus",
+    "latitude": "21.6153",
+    "longitude": "-98.5028",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Huastec](https://endangeredlanguages.com/lang/2085)\n[Huastec](https://grambank.clld.org/languages/huas1242)\n[Huastec](https://wals.info/languoid/lect/wals_code_htc)\nhttps://en.wikipedia.org/wiki/Huastec_language\nhttps://phoible.org/languages/huas1242\nhttps://www.wikidata.org/entity/Q35573"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:guiterasholmes:48**\n**cldf:larsen:55**\n**cldf:larsen:pike:49**\n**cldf:schuller:27**\n**cldf:stresser-peau:52**\n**hh:d:Larsen:Huasteco-Potosi**\n**hh:e:Laughlin:Huastec**\n**hh:e:Schuller:Huaxteca**\n**hh:g:Edmonson:Huastec**\n**hh:g:Kondic:Huastec**\n**hh:s:Bernardo:Huasteco**\n**hh:s:Constable:Veracruz-Huastec**\n**hh:s:Durr:Huastekische**\n**hh:s:McQuown:Huastec**\n**hh:s:Melendez:Huasteco-Mamey**\n**hh:s:Ochoa:Huasteco-Veracruz**\n**hh:s:Ochoa:Huasteco-Veracruz:1978**\n**hh:s:Zenteno:Huasteca**\n**hh:sd:Alejandre:Huasteca**\n**hh:t:Kondic:Huastec**\n**hh:typ:Munoz:Huasteco-Valency**\n**hh:v:Schuller:Huaxteca**\n**hh:vtyp:Melendez:Protohuasteco**\n**hh:w:ILV:Huasteco**\n**iso6393:2008-051**\n**mpieva:Constable1989Basiccla**\n**mpieva:Larsen1997Vocabula**\n**mpieva:Tapia1975Noticiad**\n**sil16:11357**\n**sil16:11358**\n**sil16:11360**\n**sil16:18866**\n**sil16:22705**\n**sil16:47753**"
+  },
+  "altnames": {
+    "multitree": "\nHuastec\nHuastec, Veracruz\nHuasteco\nHuasteco de Tantoyuca\nTe:nek\nWasteko",
+    "lexvo": "\nHuastec [en]\nHuasteci [sh]\nHuastecos [bs]\nHuastecs [ca]\nHuasteekit [fi]\nHuaxtechi [it]\nHuaxteeks [nl]\nIdioma huasteco [es]\nWastek language [en]\nВастек јазик [mk]\n瓦斯蒂克族 [zh]",
+    "hhbib_lgcode": "\nHuastec San Luís Potosí\nHuastec-San Luís Potosí\nHuastec-Veracruz\nHuasteca from Tapia Centena\nHuasteco\nSan Luis Potosí\nSouthern Huastec",
+    "elcat": "\nHuastec\nHuasteco\nHuasteco de Tantoyuca\nTe:nek\nTeenek\nTenek\nVeracruz\nWastek\nWasteko"
+  },
+  "triggers": {
+    "lgcode": "\ndiccionaro\npotosi\nhuastec\nhuasteco"
+  },
+  "identifier": {
+    "multitree": "hus",
+    "endangeredlanguages": "2085"
+  },
+  "classification": {
+    "sub": "**hh:hvwphon:Norcliffe:Huastecan**",
+    "subrefs": "\n**hh:hvwphon:Norcliffe:Huastecan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Huastec (2085) = Threatened (20 percent certain, based on the evidence available) [Kondic 2007](cldf:kondic:07)"
+  }
+}

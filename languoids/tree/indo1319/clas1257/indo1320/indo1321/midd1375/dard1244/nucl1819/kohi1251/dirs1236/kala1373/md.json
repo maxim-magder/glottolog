@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Gawri",
+    "hid": "gwc",
+    "level": "language",
+    "iso639-3": "gwc",
+    "latitude": "35.5303",
+    "longitude": "72.5738",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\n[Kalami](https://endangeredlanguages.com/lang/1593)\n[Kalami](https://wals.info/languoid/lect/wals_code_kal)\nhttps://en.wikipedia.org/wiki/Gawri_language\nhttps://www.wikidata.org/entity/Q1675961"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baart:97**\n**cldf:cardona:jain:ed:03:18**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:g:Baart:Kalam**\n**hh:hewtyp:Biddulph:Hindoo-Koosh**\n**hh:hs:Edelman:Dardskie-Nuristani**\n**hh:hsoc:Rensch:Swat**\n**hh:htyp:Edelman:Dardic-Nuristani**\n**hh:hv:VasilyevKogan:Vostocnodardskoj**\n**hh:hvw:Grierson:8:II**\n**hh:s:BaartZamanSagar:Gawri**\n**hh:s:Morgenstierne:Bashkarik**\n**hh:soc:Stahl:Kalam-Kohistan**\n**hh:t:Baart:Kalam-Kohistani**\n**hh:typ:Lange:Gawri**\n**hh:typ:Lothers:Kalam-Kohistani**\n**hh:w:BarthMorgenstierne:Dardic**\n**hh:w:Rensch:Swat-Dir**\n**iso6393:2019-011**\n**mpieva:46**\n**mpieva:Baart1997Thesound**\n**mpieva:Grierson2001Torwalia**\n**mpieva:Lothers1996Deixisin**\n**sil16:32836**\n**sil16:36632**\n**sil16:38010**\n**sil16:40343**\n**sil16:47032**\n**sil16:47033**\n**sil16:47857**\n**sil16:48417**\n**sil16:48421**\n**sil16:48495**\n**sil16:49115**"
+  },
+  "altnames": {
+    "wals": "\nKalami",
+    "wals other": "\nKohistani",
+    "moseley & asher (1994)": "\nBashkarik",
+    "multitree": "\nBascarí\nBashgharik\nBashkarik\nBaškarīk\nDardu\nDir Kohistani\nDiri\nDirwali\nDīrī\nGaawro\nGarwa\nGarwi\nGawri\nGowri\nGārwī\nGāwrī\nKalami\nKalami Kohistani\nKohistana\nKohistani",
+    "lexvo": "\nKalami [de]\nKalami language [en]\nKohistani de Kalam [fr]\nكالامي [ar]",
+    "hhbib_lgcode": "\nBashkarik\nBushkarik\nDashwa\nGabri/Bashkarik\nGarwi\nGawri\nKalami\nLamuti\nRajkoti\nThal\nUshu",
+    "elcat": "\nBashgharik\nBashkarik\nBaškarīk\nDardu\nDir Kohistani\nDiri\nDirwali\nDīrī\nGaawro\nGarwa\nGarwi\nGawri\nGowri\nGārwī\nGāwrī\nKalami\nKalami Kohistani\nKohistana\nKohistani",
+    "glottolog": "\nKalami"
+  },
+  "triggers": {
+    "lgcode": "\nzaban\ngawri\nsiran\nbashkarik\ndir\nkalam AND kohistani\nswat"
+  },
+  "identifier": {
+    "wals": "kal",
+    "multitree": "gwc",
+    "endangeredlanguages": "1593"
+  },
+  "classification": {
+    "sub": "**hh:hvsoc:Hallberg:Indus-Kohistan** **hh:hvld:Bashir:Dardic**",
+    "subrefs": "\n**hh:hvld:Bashir:Dardic**\n**hh:hvsoc:Hallberg:Indus-Kohistan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kalami (1593-gwc) = Threatened (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

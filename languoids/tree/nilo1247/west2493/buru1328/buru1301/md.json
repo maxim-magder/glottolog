@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Northern Burun",
+    "hid": "bdi",
+    "level": "language",
+    "iso639-3": "bdi",
+    "latitude": "10.725",
+    "longitude": "33.921",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SD",
+      "SS"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q35040\nhttps://en.wikipedia.org/wiki/Burun_language\nhttps://phoible.org/languages/buru1301"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:11645**\n**eballiso2009:12432**\n**eballiso2009:5725**\n**eballiso2009:5726**\n**hh:e:Ecsedy:Maiak**\n**hh:e:Ecsedy:Maiak:Unknown**\n**hh:h:Gilley:Lwoian**\n**hh:he:Butt:Nilotes**\n**hh:he:Hartmann:Sennar**\n**hh:he:SeligmannSeligmann:Nilotic-Sudan**\n**hh:hv:Stigand:Burun**\n**hh:hvtyp:Storch:WNilotic**\n**hh:hw:Evans-Pritchard:Fung**\n**hh:ld:Andersen:Kurmuk**\n**hh:phon:Andersen:Kurmuk**\n**hh:typ:Andersen:Kurmuk:Voice**\n**hh:typ:Andersen:Regariik**\n**hh:w:Knoblecher:Africae**"
+  },
+  "altnames": {
+    "multitree": "\nBarun\nBorun\nBurun\nCai\nLange\nNord-Burun",
+    "lexvo": "\nBurun [en]",
+    "hhbib_lgcode": "\nBurun\nFung-Berun\nJebel Kurmuk\nKurmuk\nMaiak\nMayak\nMughaja\nRagreig\nRegariik",
+    "glottolog": "\nBurun"
+  },
+  "triggers": {
+    "lgcode": "\nculturale\nmaiak\nkurmuk\nmayak\nburun\nlwoian"
+  },
+  "identifier": {
+    "multitree": "bdi;burn"
+  },
+  "classification": {
+    "sub": "**hh:typ:Andersen:Jumjum:Subjects**:79 **hh:hvtyp:Storch:WNilotic**",
+    "subrefs": "\n**hh:typ:Andersen:Jumjum:Subjects**\n**hh:hvtyp:Storch:WNilotic**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Burun (bdi-bdi) = 5 (Developing)."
+  }
+}

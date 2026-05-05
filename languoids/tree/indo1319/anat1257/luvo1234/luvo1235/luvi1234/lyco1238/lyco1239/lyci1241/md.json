@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Lycian A",
+    "hid": "xlc",
+    "level": "language",
+    "iso639-3": "xlc",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "TR"
+    ],
+    "longitude": "29.764",
+    "latitude": "36.517",
+    "links": "\nhttps://www.wikidata.org/entity/Q35969\nhttps://en.wikipedia.org/wiki/Lycian_language",
+    "timespan": "-0500-01-01/-0300-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Neumann:Lykischen**\n**hh:hv:Norbuis:Anatolian**\n**hh:ld:Hajnal:Lykische**\n**hh:ld:Heumann:Lykisch**\n**hh:ld:Houwink:Luwian-Lycia**\n**hh:ld:Melchert:Lycian**\n**hh:s:Klukxorst:Likijskij**\n**hh:s:Melchert:Lycian**\n**hh:sv:Serangeli:Lykische**\n**hh:typ:Billing:Luwic-Stress**\n**hh:typ:Billing:Lycian**\n**hh:w:Melchert:Lycian**"
+  },
+  "altnames": {
+    "multitree": "\nLate West Luwian\nLycian\nLycian A",
+    "lexvo": "\nIdioma licio [es]\nJęzyk licyjski [pl]\nLici [ca]\nLicijski jezik [hr]\nLikijščina [sl]\nLikya dili [tr]\nLingua Lycia [la]\nLingua licia [gl]\nLycian [en]\nLycian language [en]\nLycien [fr]\nLycisch [nl]\nLykische Sprache [de]\nLykisk [da]\nLykiska [sv]\nЛикийский язык [ru]\nЛикиски јазик [mk]\nزبان لیکیه‌ای [fa]\nภาษาลิเชีย [th]\n리키아어 [ko]",
+    "glottolog": "\nLycian",
+    "hhbib_lgcode": "\nLikijskij\nLycian\nLykian"
+  },
+  "triggers": {
+    "lgcode": "\nvokalismus\nlycian\nlykische\nlykisch"
+  },
+  "identifier": {
+    "multitree": "xlc"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Lycian (**hh:s:Melchert:Lycian**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "xlc"
+  },
+  "classification": {
+    "sub": "**hh:hv:Kloekhorst:Anatolian**:67-75",
+    "subrefs": "\n**hh:hv:Kloekhorst:Anatolian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Lycian (xlc-xlc) = 10 (Extinct)."
+  }
+}

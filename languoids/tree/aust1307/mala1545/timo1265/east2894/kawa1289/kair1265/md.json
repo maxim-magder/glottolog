@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Kairui-Midiki",
+    "hid": "krd",
+    "level": "language",
+    "iso639-3": "krd",
+    "latitude": "-8.74034",
+    "longitude": "126.059",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "TL"
+    ],
+    "links": "\n[Kairui-Midiki](https://endangeredlanguages.com/lang/1812)\nhttps://en.wikipedia.org/wiki/Kairui-Midiki_language\nhttps://www.wikidata.org/entity/Q12953277"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hv:Mandala:Timor-Timur**\n**hh:hvw:Hull:Timor:Austronesian**"
+  },
+  "altnames": {
+    "multitree": "\nCairui\nKairui-Midiki\nKairui-midiki\nMidiki",
+    "lexvo": "\nKairui-Midiki [en]",
+    "hhbib_lgcode": "\nKairui\nMidiki",
+    "elcat": "\nCairui\nKairui-Midiki\nMidiki"
+  },
+  "identifier": {
+    "multitree": "krd",
+    "endangeredlanguages": "1812"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edwards:Rote-Meto:2021**:77-86 **hh:v:vanEngelenhoven:Makuva** **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:188-194",
+    "subrefs": "\n**hh:v:vanEngelenhoven:Makuva**\n**hh:hv:Edwards:Rote-Meto:2021**\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kairui-Midiki (1812-krd) = Threatened (20 percent certain, based on the evidence available) [ed. 2010](cldf:ed:10)"
+  }
+}

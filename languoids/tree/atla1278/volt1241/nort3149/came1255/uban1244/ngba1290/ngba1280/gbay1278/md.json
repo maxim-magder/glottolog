@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Gbayi",
+    "hid": "gyg",
+    "level": "language",
+    "iso639-3": "gyg",
+    "latitude": "5.57378",
+    "longitude": "21.9707",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF"
+    ],
+    "links": "\n[Gbayi](https://endangeredlanguages.com/lang/5995)\n[Gbayi](https://grambank.clld.org/languages/gbay1278)\nhttps://www.wikidata.org/entity/Q11137618"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**hh:h:BoyeldieuDiki-Kidiri:Ngbandi-Sango-Kpatiri**\n**hh:hw:Monino:Oubanguiennes**\n**hh:w:Boyd:Kpatiri**"
+  },
+  "altnames": {
+    "multitree": "\nGbayi\nKpasiya",
+    "lexvo": "\nGbayi [en]",
+    "hhbib_lgcode": "\nKpatiri",
+    "elcat": "\nGbayi\nKpasiya"
+  },
+  "triggers": {
+    "lgcode": "\nkpatiri\ngbayi"
+  },
+  "identifier": {
+    "multitree": "gyg",
+    "endangeredlanguages": "5995"
+  },
+  "classification": {
+    "sub": "**hh:h:BoyeldieuDiki-Kidiri:Ngbandi-Sango-Kpatiri**",
+    "subrefs": "\n**hh:h:BoyeldieuDiki-Kidiri:Ngbandi-Sango-Kpatiri**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Gbayi (5995-gyg) = Threatened (20 percent certain, based on the evidence available) [Dimmendaal and Voeltz 2007](cldf:dimmendaal:voeltz:07)"
+  }
+}

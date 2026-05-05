@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Boloki",
+    "hid": "bkt",
+    "level": "language",
+    "iso639-3": "bkt",
+    "latitude": "0.83463",
+    "longitude": "18.4555",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Boloki](https://endangeredlanguages.com/lang/3931)\n[Boloki](https://grambank.clld.org/languages/bolo1262)\nhttps://en.wikipedia.org/wiki/Loki_dialect\nhttps://www.wikidata.org/entity/Q4144560"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bastinetal:Bantu**:206",
+    "subrefs": "\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**eballiso2009:2496**\n**eballiso2009:28707**\n**eballiso2009:39753**\n**eballiso2009:46768**\n**eballiso2009:47395**\n**eballiso2009:47397**\n**eballiso2009:54973**\n**hh:hv:Bastinetal:Bantu**\n**hh:hv:Mangulu:Ngiri**\n**hh:hvs:Stapleton:Congo**\n**hh:s:Mangulu:Boloki**"
+  },
+  "altnames": {
+    "multitree": "\nBaloki\nBoleki\nBoloki\nBuluki\nRiver Ruki",
+    "lexvo": "\nBoloki [en]",
+    "hhbib_lgcode": "\nBoloki C30Bo\nMangala\nNgala",
+    "elcat": "\nBaloki\nBoleki\nBoloki\nBuluki\nRiver Ruki"
+  },
+  "triggers": {
+    "lgcode": "\nboloki\nmonsembe"
+  },
+  "identifier": {
+    "multitree": "bkt",
+    "endangeredlanguages": "3931"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Boloki (3931-bkt) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

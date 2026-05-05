@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Marori",
+    "hid": "mok",
+    "level": "language",
+    "iso639-3": "mok",
+    "latitude": "-8.5692",
+    "longitude": "140.688",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Marori](https://endangeredlanguages.com/lang/2719)\n[Marori](https://grambank.clld.org/languages/moro1289)\n[Moraori](https://wals.info/languoid/lect/wals_code_mri)\nhttps://en.wikipedia.org/wiki/Morori_language\nhttps://www.wikidata.org/entity/Q6913275"
+  },
+  "classification": {
+    "family": "Wurm's arguments **hh:hv:Wurm:Trans-Fly**:327-335 for a Trans-Fly assignment are\nnot convincing as the only argument appears to be unreliable lexicostatistical\ncalculations.",
+    "familyrefs": "\n**hh:hv:Wurm:Trans-Fly**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:arka:15**\n**cldf:arka:16:1**\n**cldf:arka:16:2**\n**cldf:arka:17**\n**cldf:arka:dalrymple:16**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:evans:arka:etal:17**\n**cldf:gebze:donohue:98**\n**cldf:hisa:arka:etal:16**\n**cldf:lebold;:kriens:09**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:ew:Nevermann:Kanum**\n**hh:h:Boldingh:Zuid-Nieuw-Guinea**\n**hh:hs:Drabbe:ZWNG**\n**hh:hv:Voorhoeve:CSNG**\n**hh:hv:Wurm:Trans-Fly**\n**hh:hvld:Wurm:Trans-Fly:1971**\n**hh:hvs:Boelaars:SWNG**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Drabbe:24**\n**hh:hw:Drabbe:ZWNG**\n**hh:hw:Galis:NNG**\n**hh:hwld:Donohue:Wasur**\n**hh:s:Arka:Marori**\n**hh:s:Arka:Marori:2010**\n**hh:typ:Arka:Marori:Constructive-Number**\n**hh:typ:Arka:Marori:Nominal-Aspect**\n**hh:typ:ArkaDalrymple:Marori:Number**\n**hh:typ:Lindsay:Marori**"
+  },
+  "altnames": {
+    "wals": "\nMoraori",
+    "wals other": "\nMarori",
+    "ruhlen (1987)": "\nMoraori",
+    "moseley & asher (1994)": "\nMoraori",
+    "multitree": "\nMarori\nMoaraeri\nMoraori\nMorari\nMorori",
+    "lexvo": "\nMorori [en]",
+    "hhbib_lgcode": "\nMor. (= Moraori)\nMoraori\nMoraori (Dr)\nMoraori of Manggat\nMoraorì\nMorauri\nMorori\nWasur",
+    "elcat": "\nMarori\nMoaraeri\nMoraori\nMorari\nMorori"
+  },
+  "triggers": {
+    "lgcode": "\nwasur\nmarori\nprojecting\nmorori"
+  },
+  "identifier": {
+    "wals": "mri",
+    "multitree": "mok;mora",
+    "endangeredlanguages": "2719"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Marori (2719-mok) = Endangered (100 percent certain, based on the evidence available) (According to the villagers in Wasur, there is no other place where people speak the Morori language. There are less than ten families living in Wasur, and young people and children cannot speak Morori. It is almost dying out. They reported that they could understand some Marind and Kanum.) [Lebold; and Kriens 2009](cldf:lebold;:kriens:09)"
+  }
+}

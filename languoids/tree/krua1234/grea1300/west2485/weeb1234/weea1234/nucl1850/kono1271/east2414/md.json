@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Konobo-Eastern Krahn",
+    "hid": "kqo",
+    "level": "language",
+    "iso639-3": "kqo",
+    "latitude": "5.83555",
+    "longitude": "-7.85454",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CI",
+      "LR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3915374\nhttps://en.wikipedia.org/wiki/Konobo_language"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:14811**\n**eballiso2009:34044**\n**hh:hv:Ingemann:Kruan**\n**hh:hvtyp:Marchese:Kru**\n**hh:hvw:Lauer:Kran-Guere**\n**hh:w:Marchese:Kru-Lexemes**\n**sil16:46885**"
+  },
+  "altnames": {
+    "multitree": "\nEastern Kran\nKrahn, Eastern\nKran",
+    "lexvo": "\nEastern Krahn [en]",
+    "hhbib_lgcode": "\nGobo\nKana\nKanneh\nKonobo\nKrahn-Eastern\nTchien-Klahn"
+  },
+  "triggers": {
+    "lgcode": "\nkruvolkerstamme\npepper"
+  },
+  "identifier": {
+    "multitree": "kqo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Duitsman:Guere** **hh:hv:Ingemann:Kruan** **hh:e:Lauer:Doo**",
+    "subrefs": "\n**hh:e:Lauer:Doo**\n**hh:hv:Ingemann:Kruan**\n**hh:hvw:Duitsman:Guere**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Krahn, Eastern (kqo-kqo) = 5* (Developing)."
+  }
+}

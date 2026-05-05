@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Fagani",
+    "hid": "faf",
+    "level": "language",
+    "iso639-3": "faf",
+    "latitude": "-10.4479",
+    "longitude": "161.662",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Fagani](https://endangeredlanguages.com/lang/5510)\n[Fagani (Rihu'a)](https://lexibank.clld.org/languages/abvdoceanic-FaganiRihua)\nhttps://en.wikipedia.org/wiki/Fagani_language\nhttps://www.wikidata.org/entity/Q3063759"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:he:Fox:San-Cristoval**\n**hh:hvld:Codrington:Melanesian**\n**hh:hvw:TryonHackman:Solomon**\n**hh:ld:Codrington:Fagani**"
+  },
+  "altnames": {
+    "multitree": "\nFagani\nFaghani\nGani\nSüdliche Salomons-Inseln",
+    "lexvo": "\nFagani [en]",
+    "hhbib_lgcode": "\nBauro\nFaghani\nPaghani",
+    "elcat": "\nFagani\nFaghani\nSüdliche Salomons-Inseln"
+  },
+  "triggers": {
+    "lgcode": "\nfagani"
+  },
+  "identifier": {
+    "multitree": "faf",
+    "endangeredlanguages": "5510"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Fagani (5510-faf) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

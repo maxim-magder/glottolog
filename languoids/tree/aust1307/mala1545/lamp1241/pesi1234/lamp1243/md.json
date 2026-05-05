@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Lampung Api",
+    "hid": "ljp",
+    "level": "language",
+    "iso639-3": "ljp",
+    "latitude": "-5.73463",
+    "longitude": "105.037",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Lampung](https://wals.info/languoid/lect/wals_code_lmp)\nhttps://en.wikipedia.org/wiki/Lampung_Api_language\nhttps://www.wikidata.org/entity/Q49215"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:walker:75:1**\n**hh:d:Helfrich:Lampongsch**\n**hh:hv:Anderbeck:Proto-Lampungic**\n**hh:hvw:Walker:Lampung**\n**hh:s:Akhyar:Lampung-Pesisir**\n**hh:s:Arifinetal:Ranau**\n**hh:s:Kusuma:Lampung**\n**hh:s:Satun:Lampung**\n**hh:s:Sudradjat:Lampung**\n**hh:s:Walker:Lampung**\n**hh:s:Walker:Lampung:1973**\n**hh:soc:Rusminto:Lampung**\n**hh:w:Stokhofetal:Holle:10/2**\n**iso6393:2007-142**\n**mpieva:Verhaar19751990Miscella**\n**sil16:47333**\n**sil16:48330**"
+  },
+  "altnames": {
+    "wals": "\nLampung",
+    "ruhlen (1987)": "\nLampung",
+    "moseley & asher (1994)": "\nLampung",
+    "multitree": "\nApi\nLampong\nLampung\nLampung Api\nLampung Pesisir",
+    "lexvo": "\nBahasa Lampung [id]\nLampung Api [en]\nLampung [sv]\nLampung language [en]\nLampung pesisir [fr]\nLampungin kieli [fi]\nLenga Lampung [pms]",
+    "hhbib_lgcode": "\nKalianda\nKota Agung\nKroë\nKrui\nKrui-Lampong\nLampung\nPesisir Lampung\nPubian\nRanau\nWay Lima"
+  },
+  "triggers": {
+    "lgcode": "\nlampongsch\nlampung\npesisir\nkroe\nranau"
+  },
+  "identifier": {
+    "wals": "lmp",
+    "multitree": "ljp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Anderbeck:Proto-Lampungic**",
+    "subrefs": "\n**hh:hv:Anderbeck:Proto-Lampungic**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lampung Api (ljp-ljp) = 6b (Threatened)."
+  }
+}

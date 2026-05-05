@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Venetian",
+    "hid": "vec",
+    "level": "language",
+    "iso639-3": "vec",
+    "latitude": "45.503581",
+    "longitude": "12.214167",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "BR",
+      "HR",
+      "IT",
+      "MX",
+      "SI"
+    ],
+    "links": "\n[Bellunese_Venetian](https://lexibank.clld.org/languages/saenkoromance-bellunesevenetian)\n[Primiero_Venetian](https://lexibank.clld.org/languages/saenkoromance-primierovenetian)\n[Venice_Venetian](https://lexibank.clld.org/languages/saenkoromance-venicevenetian)\nhttps://en.wikipedia.org/wiki/Venetian_language\nhttps://www.wikidata.org/entity/Q32724"
+  },
+  "sources": {
+    "glottolog": "\n**hh:bsoc:Cortelazzo:Veneto**\n**hh:d:Boerio:Veneziano**\n**hh:d:Dussich:Istria**\n**hh:d:Samani:Fiumano**\n**hh:g:Belloni:Veneta**\n**hh:g:Belloni:Veneta:2009**\n**hh:g:Marcato:Veneti**\n**hh:hld:Belleli:Jews-Balkan**\n**hh:hv:Zamboni:Venezien**\n**hh:hvs:Hull:Northern-Italy-Rhaetia**\n**hh:ld:Guzzo:Talian**\n**hh:ld:Tuttle:Veneto**\n**hh:phonv:Bato:Fiumano**\n**hh:phonv:Bato:Fiumei**\n**hh:phonv:Koniges:Veglia**\n**hh:phonv:Koniges:Veglia:1933**\n**hh:s:Berghoffer:Fiumane**\n**hh:s:Brunelli:Veneta**\n**hh:s:Depoli:Fiumane**\n**hh:s:Prati:Valsugana**\n**hh:s:Wendriner:Paduanische**\n**hh:s:Zamboni:Veneto**\n**hh:sd:Anonimo:Triestino**\n**hh:soc:Nachtmann:Korfu**\n**hh:soctyp:Zanella:Italiano-Taio**\n**hh:sv:Rosic:Fiume**\n**hh:t:Nardo:Burano**\n**hh:typ:Vardakis:Corfioto**\n**hh:typ:Vardakis:Corfioto:2021**\n**hh:typ:Vardakis:Corfu**"
+  },
+  "altnames": {
+    "multitree": "\nOther Italian Lects\nVeneciano\nVenet\nVenetian\nVeneto\nVénitien",
+    "lexvo": "\nBenátština [cs]\nIdioma veneciano [es]\nIdioma venecián [an]\nJęzyk wenecki [pl]\nLenga véneta [pms]\nLengoa Veneta [lmo]\nLengua veneta [lij]\nLimba venetă [ro]\nLingua Veneta [la]\nLingua veneta [it]\nLingua venetian [ia]\nLingua vènita [scn]\nLingua véneta [gl]\nLuenga veneciana [ext]\nLíngua vêneta [pt]\nVelencei nyelv [hu]\nVenecia lingvo [eo]\nVenecijanski jezik [hr]\nVenedikçe [tr]\nVeneeshish [gv]\nVenesiaans [af]\nVeneteg [br]\nVenetiaans [nl]\nVenetian [en]\nVenetian language [en]\nVenetiansk [no]\nVenetianska [sv]\nVenetische Sprache [de]\nVenetsian kieli [fi]\nVenetų kalba [lt]\nVeneziera [eu]\nVenèt [oc]\nVènet [ca]\nVénitien [fr]\nVî-nî-sṳ̂-ngî [hak]\nŁéngua vèneta [vec]\nСовременный венетский язык [ru]\nונטית [he]\nۋېنىسىيە تىلى [ug]\nヴェネツィア語 [ja]\n威尼斯語 [zh]\n베네토어 [ko]",
+    "hhbib_lgcode": "\nBrazilian Veneto (Talian)\nBurano\nCorfiote\nCorfioto\nDialeto Italiano do Município de Taió\nFiumano\nFiume\nFiumei\nJudeo-Italian of Corfu\nJudeo-Italian of Korfu\nJudeo-Venetian\nPaduanische\nTalian\nTriestino\nValsugana\nVeglia in 1930\nVenetic\nVeneto"
+  },
+  "triggers": {
+    "lgcode": "\nveneziano\nromagna\nveneta\nemilia\nvenete\nveneto\nvalsugana"
+  },
+  "identifier": {
+    "multitree": "vec",
+    "languagelandscape": "http://languagelandscape.org/language/Venetian"
+  },
+  "classification": {
+    "sub": "**hh:hv:Agard:Romance**:73-80 (Istriot and Venetian show Agard's diagnostic development of the medial kt cluster)",
+    "subrefs": "\n**hh:hv:Agard:Romance**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Corfiot Italkian (367-) = Critically endangered; Venetan (1021-vec) = Vulnerable"
+  }
+}

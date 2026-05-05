@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Kom (Cameroon)",
+    "hid": "bkm",
+    "level": "language",
+    "iso639-3": "bkm",
+    "latitude": "6.2596",
+    "longitude": "10.3348",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM"
+    ],
+    "links": "\n[Kom](https://wals.info/languoid/lect/wals_code_kou)\n[Kom (Cameroon)](https://grambank.clld.org/languages/komc1235)\nhttps://en.wikipedia.org/wiki/Kom_language_(Cameroon)\nhttps://phoible.org/languages/komc1235\nhttps://www.wikidata.org/entity/Q1656595"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chia:83**\n**cldf:idiata:g:ed:03:2**\n**cldf:jeffreys:51**\n**cldf:kaberry:52**\n**cldf:mcculloch:littlewood:etal:54**\n**eballiso2009:14607**\n**eballiso2009:17171**\n**eballiso2009:18060**\n**eballiso2009:18061**\n**eballiso2009:18065**\n**eballiso2009:19651**\n**eballiso2009:21262**\n**eballiso2009:29430**\n**eballiso2009:30154**\n**eballiso2009:30718**\n**eballiso2009:30719**\n**eballiso2009:31292**\n**eballiso2009:31626**\n**eballiso2009:3610**\n**eballiso2009:42506**\n**eballiso2009:43185**\n**eballiso2009:46008**\n**eballiso2009:46009**\n**eballiso2009:50111**\n**eballiso2009:51698**\n**eballiso2009:57320**\n**eballiso2009:57562**\n**eballiso2009:57642**\n**eballiso2009:57778**\n**eballiso2009:58554**\n**eballiso2009:58559**\n**eballiso2009:8439**\n**hh:d:Jones:Kom**\n**hh:h:Richardson:Borderland**\n**hh:hld:ChilverKaberry:Bamenda-Numerals**\n**hh:hld:Migeod:British-Cameroons**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:JacquotRichardson:WTeam**\n**hh:hvw:Paulin:Ring**\n**hh:hvw:Piron:Bantoide**\n**hh:hvw:Piron:Bantoide:1996**\n**hh:phon:Shultz:Kom**\n**hh:s:Bruens:Nkom**\n**hh:s:Moye:Kom**\n**hh:s:Shultz:Kom**\n**hh:soc:Shultz:Kom**\n**hh:soc:Trudell:Northwest-Cameroon**\n**hh:typ:Kawuldim:Kom**\n**hh:typ:Loh:Kom**\n**hh:typ:Yuh:Kom**\n**hh:w:ChilverKaberry:Western-Grassfields**\n**ldh:item_400678**\n**ldh:item_403481**\n**mpieva:Fonyuy2003Reduplic**\n**mpieva:Idiata2003Studieso**\n**mpieva:Shultz1997Komlangu**\n**mpieva:Shultz1997Notesond**\n**sil16:21058**\n**sil16:21941**\n**sil16:31656**\n**sil16:33028**\n**sil16:33038**\n**sil16:34808**\n**sil16:38040**\n**sil16:38232**\n**sil16:41319**\n**sil16:42254**\n**sil16:42423**\n**sil16:42991**\n**sil16:43343**\n**sil16:45533**\n**sil16:47145**\n**sil16:47717**\n**sil16:48695**\n**sil16:48753**\n**sil16:49748**\n**sil16:50424**\n**sil16:50681**\n**sil16:51094**"
+  },
+  "altnames": {
+    "wals": "\nKom",
+    "ruhlen (1987)": "\nKom",
+    "moseley & asher (1994)": "\nKom",
+    "multitree": "\nBamekon\nBikom\nItangikom\nKom\nKong\nNkom",
+    "lexvo": "\nKom (Cameroon) [en]\nKom [en]\nKom language [en]",
+    "hhbib_lgcode": "\nBikom\nItangikom\nKom\nKom-Mbizinaku\nKom_Grassfields\nMbesa\nMbizenaku\nMbizinaku\nNkom\nNkom (Bikom)\nthe Nkom group (p. 56-60)"
+  },
+  "triggers": {
+    "lgcode": "\nbikom\nnkom\nNOT central AND NOT die AND NOT primer AND NOT reader AND NOT story AND NOT storybook AND NOT von AND kom"
+  },
+  "identifier": {
+    "wals": "kou",
+    "multitree": "bkm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Piron:Bantoide**:565",
+    "subrefs": "\n**hh:hvw:Piron:Bantoide**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kom (bkm-bkm) = 3 (Wider communication). Originated in Cameroon in the 19th century. Today used as a church language and in other domains by nine language groups."
+  }
+}

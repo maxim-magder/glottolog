@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Sengele",
+    "hid": "szg",
+    "level": "language",
+    "iso639-3": "szg",
+    "latitude": "-1.92256",
+    "longitude": "17.2965",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q7450555\nhttps://en.wikipedia.org/wiki/Sengele_language\n[Sengele](https://wals.info/languoid/lect/wals_code_sgl)"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:10301**\n**eballiso2009:28707**\n**eballiso2009:29059**\n**eballiso2009:4886**\n**eballiso2009:54556**\n**eballiso2009:56021**\n**eballiso2009:59236**\n**eballiso2009:59241**\n**eballiso2009:59265**\n**hh:h:Hulstaert:Cuvette-Congolaise**\n**hh:he:Matangila:Bandundu**\n**hh:he:Tshonda:Maindombe**\n**hh:hv:Bastinetal:Bantu**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:phon:Ipia:Kisengele**\n**hh:s:Mangulu:Sengele-Mbelo**\n**hh:s:Niyibizi:Sengele**\n**hh:typ:Ebengo:Sengele**\n**hh:typ:Ilonga:Sengele**\n**hh:typ:Ilonga:Sengele:1985**\n**hh:typ:Mpeti:Sengele**\n**hh:w:Detienne:Maindombe**"
+  },
+  "altnames": {
+    "wals": "\nSengele",
+    "ruhlen (1987)": "\nSengele",
+    "moseley & asher (1994)": "\nSengele",
+    "multitree": "\nKesengele\nSengele\nSengere",
+    "lexvo": "\nSengele [en]",
+    "hhbib_lgcode": "\nKesengele\nKisengele\nSengele C33"
+  },
+  "triggers": {
+    "lgcode": "\nbasengele\nsengele\nkesengele\nmblo\nsenggele"
+  },
+  "identifier": {
+    "wals": "sgl",
+    "multitree": "szg"
+  },
+  "classification": {
+    "sub": "**hh:hv:Mangulu:Bassin-Congolais**:27-28 **hh:hv:Bastinetal:Bantu**:206",
+    "subrefs": "\n**hh:hv:Mangulu:Bassin-Congolais**\n**hh:hv:Bastinetal:Bantu**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sengele (szg-szg) = 6a (Vigorous)."
+  }
+}

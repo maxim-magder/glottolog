@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Yecuatla Totonac",
+    "hid": "tlc",
+    "level": "language",
+    "iso639-3": "tlc",
+    "latitude": "20.1765",
+    "longitude": "-96.8741",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\n[Misantla Totonac](https://endangeredlanguages.com/lang/3538)\n[Totonac (Misantla)](https://wals.info/languoid/lect/wals_code_tot)\n[Yecuatla Totonac](https://grambank.clld.org/languages/yecu1235)\nhttps://en.wikipedia.org/wiki/Misantla_Totonac\nhttps://www.wikidata.org/entity/Q56460"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:levypodolsky:90**\n**cldf:lewis:ed:09**\n**cldf:mackay:91**\n**cldf:mackay:94**\n**cldf:mackay:99**\n**cldf:np:nd:264**\n**haspelmath:mackay_symmetrical_2008**\n**hh:e:Krickeberg:Totonaken**\n**hh:g:MacKay:Misantla**\n**hh:g:MacKay:Misantla:1991**\n**hh:g:MacKayTrechsel:Misantla**\n**hh:g:Zambrano:Totonaca**\n**hh:hv:MacKayTrechsel:Totonac-Tepehua:2018**\n**hh:hvw:Rojas:Totonaco-Tepehua**\n**hh:s:Ringmacher:Totonakische**"
+  },
+  "altnames": {
+    "wals": "\nTotonac (Misantla)",
+    "ruhlen (1987)": "\nTotonako",
+    "moseley & asher (1994)": "\nTotonac",
+    "multitree": "\nMisantla Totonako\nTotonac\nTotonac (Misantla)\nTotonac, Yecuatla\nTotonaca (Yecuatla)\nTotonacano de Patla\nTotonacano filomeno mata-coahuillán\nTotonaco\nTotonaco de Misantla\nTotonako\nTotonaque de Filomeno Mata\nTotonaque de Misantla\nTotonaque de Patla-Chicontla",
+    "lexvo": "\nMisantla Totonac [en]\nTotonakeg Yecuatla [br]\nTotonaque de Misantla [fr]\nYecuatla Totonac [en]",
+    "elcat": "\nLaakanaachiwiin\nMisantla Totonac\nMisantla Totonako\nSoutheastern Totonac\nTotonac (Misantla)\nTotonaca (Yecuatla)\nYecuatla Totonac",
+    "hhbib_lgcode": "\nMis\nMisantla\nMisantla (Yecuatla/San Marcos Atesquilapan)\nMisantla Totonac\nPB\nPaso Blanco\nTotonaca from Zambrano Bonilla"
+  },
+  "triggers": {
+    "lgcode": "\nmisantla"
+  },
+  "identifier": {
+    "wals": "tot",
+    "multitree": "tlc",
+    "endangeredlanguages": "3538"
+  },
+  "classification": {
+    "sub": "**hh:hv:Beck:Totonacan**",
+    "subrefs": "\n**hh:hv:Beck:Totonacan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Misantla Totonac (3538-tlc) = Endangered (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Tha",
+    "hid": "thy",
+    "level": "language",
+    "iso639-3": "thy",
+    "latitude": "9.21338",
+    "longitude": "11.1751",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Jòòle of Joole Manga](https://lexibank.clld.org/languages/kleinewillinghoeferbikwinjen-JooleofJooleManga)\n[Tha](https://endangeredlanguages.com/lang/4837)\nhttps://en.wikipedia.org/wiki/Tha_language\nhttps://www.wikidata.org/entity/Q3915849"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hvw:NortonOthaniel:Jen**\n**hh:hvw:Othaniel:Jen**"
+  },
+  "altnames": {
+    "multitree": "\nJoole Manga\nKapawa\nTha",
+    "lexvo": "\nTha [en]",
+    "elcat": "\nJoole Manga\nJoole Marga\nKapawa\nTha"
+  },
+  "triggers": {
+    "lgcode": "\nNOT du AND NOT le AND les AND adamawa"
+  },
+  "identifier": {
+    "multitree": "thy",
+    "endangeredlanguages": "4837"
+  },
+  "classification": {
+    "sub": "**hh:hvw:NortonOthaniel:Jen** **hh:hv:Kleinewillinghofer:Adamawa:2020**:224 **hh:hvld:Kleinewillinghofer:Adamawa**:96",
+    "subrefs": "\n**hh:hvld:Kleinewillinghofer:Adamawa**\n**hh:hv:Kleinewillinghofer:Adamawa:2020**\n**hh:hvw:NortonOthaniel:Jen**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Tha (4837-thy) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

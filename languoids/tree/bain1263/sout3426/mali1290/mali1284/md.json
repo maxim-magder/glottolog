@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Mali",
+    "hid": "gcc",
+    "level": "language",
+    "iso639-3": "gcc",
+    "latitude": "-4.71826",
+    "longitude": "152.214",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Mali](https://grambank.clld.org/languages/mali1284)\n[Mali](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Mali)\n[Mali](https://wals.info/languoid/lect/wals_code_mli)\nhttps://en.wikipedia.org/wiki/Mali_language\nhttps://www.wikidata.org/entity/Q6743338"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:stebbins:02**\n**haspelmath:stebbins_explaining_2010**\n**hh:d:Stebbins-Tayul:Mali**\n**hh:g:Stebbins:Mali**\n**hh:hv:Stebbins:EBismarcks**\n**hh:soc:Stebbins:Mali**\n**hh:t:Stebbins:Mali**\n**hh:typ:Stebbins:Mali**"
+  },
+  "altnames": {
+    "wals": "\nMali",
+    "wals other": "\nMali-Baining",
+    "ruhlen (1987)": "\nBaining",
+    "moseley & asher (1994)": "\nBaining",
+    "multitree": "\nGaktai\nMali\nNeu-Pommern",
+    "lexvo": "\nMali [en]"
+  },
+  "triggers": {
+    "lgcode": "\namethamon\nmali AND baining\nangetha\nthevaik"
+  },
+  "identifier": {
+    "wals": "mli",
+    "multitree": "gcc"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Tutic:Baining**",
+    "subrefs": "\n**hh:hvw:Tutic:Baining**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mali (gcc-gcc) = 6b (Threatened)."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "core": {
+    "name": "Darwazi",
+    "hid": "drw",
+    "level": "dialect",
+    "iso639-3": "drw",
+    "latitude": "38.3161",
+    "longitude": "70.7643",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q4155022"
+  },
+  "classification": {
+    "sub": "**hh:wsoc:BeckBeyer:Darwazi**",
+    "subrefs": "\n**hh:wsoc:BeckBeyer:Darwazi**"
+  },
+  "sources": {
+    "glottolog": "\n**iso6393:2009-028**"
+  },
+  "triggers": {
+    "lgcode": "\ndarwazi\ndarvazskie"
+  },
+  "iso_retirement": {
+    "comment": "Lexical similiarity of Dari and Darwazi is between 86% and 90%. Comprehension\ntesting of Eastern Farsi (Dari) showed that Dari is highly intelligible for the\nDarwazi people. The Darwazi call their area Darwaz but not their speech variety.\nNo one ever mentioned a language called Darwazi as his mother tongue. The\nDarwazi themselves explain that they speak Dari, acknowledging that their\ndialect is slightly different.",
+    "code": "drw",
+    "name": "Darwazi",
+    "effective": "2010-01-18",
+    "reason": "merge",
+    "remedy": "merge with [prs] Dari",
+    "change_request": "2009-028",
+    "change_to": "\nprs"
+  }
+}

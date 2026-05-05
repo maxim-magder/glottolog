@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Saya",
+    "hid": "say",
+    "level": "language",
+    "iso639-3": "say",
+    "latitude": "9.69441",
+    "longitude": "9.71748",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Saya](https://grambank.clld.org/languages/saya1246)\n[Seya](https://lexibank.clld.org/languages/kraftchadic-Seya)\n[Zaar](https://endangeredlanguages.com/lang/10434)\nhttps://en.wikipedia.org/wiki/Saya_language\nhttps://phoible.org/languages/saya1246\nhttps://www.wikidata.org/entity/Q3914431"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:caron:02**\n**cldf:caron:03**\n**cldf:caron:11:2**\n**cldf:caron:12**\n**cldf:caron:13**\n**cldf:frawley:ed:03**\n**eballiso2009:23711**\n**eballiso2009:39749**\n**eballiso2009:55038**\n**eballiso2009:55039**\n**hh:hb:Wente-Lukas:Nigeria**\n**hh:hdial:Caron:Kal**\n**hh:he:Gunn:Plateau-Nigeria**\n**hh:hv:Caron:Zaar-Voisins**\n**hh:hvw:JungraithmayrIbriszimow:CLR**\n**hh:hvw:Shimizu:SBauchi**\n**hh:hw:Kraft:Chadic:I**\n**hh:phon:Schneeberg:Sayanci**\n**hh:s:Caron:Guus**\n**hh:s:Caron:Zaar**\n**hh:s:Shimizu:Boghom-Zaar**\n**hh:std:Caron:Zaar**\n**hh:w:Cosper:Barawa**\n**hh:w:Gowers:Bauchi**"
+  },
+  "altnames": {
+    "multitree": "\nGambar Leere\nKal\nLusa\nSaya\nSayanci\nSayara\nSayawa\nSeiyara\nSeiyawa\nSeya\nSeyawa\nVigzar\nVikzar\nZaar",
+    "lexvo": "\nSaya [en]",
+    "hhbib_lgcode": "\nKal\nSayanci\nSayawa\nSeiyawa\nSeya\nSigidawa\nSigidi\nZaar\nZaar (Gambar Leere)\nZaar Gambar Leere\nZaar Kal\nZaar Lusa\nZaksi",
+    "elcat": "\nSaya\nSayanci\nSayara\nSayawa\nSeiyara\nSeiyawa\nSeya\nSeyawa\nVigzar\nVikzar\nZa:r\nZaar\nvik-Zaar"
+  },
+  "triggers": {
+    "lgcode": "\nsayanci\nsigidi\nsayaa\nzaar"
+  },
+  "identifier": {
+    "multitree": "say",
+    "endangeredlanguages": "10434"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:SBauchi** **hh:typ:Caron:South-Bauchi-West** **hh:hv:Caron:Zaar-Voisins**:640-641",
+    "subrefs": "\n**hh:typ:Caron:South-Bauchi-West**\n**hh:hv:Caron:Zaar-Voisins**\n**hh:hvw:Shimizu:SBauchi**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Zaar (10434-say) = Vulnerable (100 percent certain, based on the evidence available) [Caron 2013](cldf:caron:13)"
+  }
+}

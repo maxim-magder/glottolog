@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Pa Di",
+    "hid": "pdi",
+    "level": "language",
+    "iso639-3": "pdi",
+    "latitude": "26.3112",
+    "longitude": "103.486",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\n[Pa Di](https://endangeredlanguages.com/lang/4955)\nhttps://www.wikidata.org/entity/Q3359940\nhttps://en.wikipedia.org/wiki/Pa_Di_language"
+  },
+  "classification": {
+    "sub": "**hh:hv:Edmondson:Tai:Phylogenetic**",
+    "subrefs": "\n**hh:hv:Edmondson:Tai:Phylogenetic**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:he:Abadie:Haut-Tonkin**\n**hh:hv:Edmondson:Tai:Phylogenetic**\n**hh:hv:Luo:Lun-Fangyan**\n**hh:hvw:LuoZhou:Daiyu**\n**hh:typ:Dao:Jinping-Dai**"
+  },
+  "altnames": {
+    "multitree": "\nPa Di\nPadi",
+    "lexvo": "\nPa Di [en]",
+    "hhbib_lgcode": "\nJinping\nPa-y (rattache aux langues Thai)\nPadi (pa31 zi31)\nPadi found in Mường Khương SWT similar to White Tai.",
+    "elcat": "\nPa Di\nPadi"
+  },
+  "identifier": {
+    "multitree": "pdi",
+    "endangeredlanguages": "4955"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Pa Di (4955-pdi) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

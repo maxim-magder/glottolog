@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Katso",
+    "hid": "kaf",
+    "level": "language",
+    "iso639-3": "kaf",
+    "latitude": "24.6",
+    "longitude": "102.4",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN"
+    ],
+    "links": "\n[Katso](https://grambank.clld.org/languages/kats1235)\n[Kazhuo](https://endangeredlanguages.com/lang/7252)\n[Kazhuo](https://lexibank.clld.org/languages/yangyi-Kazhuo)\n[Khatso](https://endangeredlanguages.com/lang/10911)\nhttps://en.wikipedia.org/wiki/Katso_language\nhttps://www.wikidata.org/entity/Q246122"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:donlay:19**\n**cldf:ed:10**\n**cldf:mu:03**\n**hh:e:Gao:Mongolians-Tonghai**\n**hh:g:Donlay:Khatso**\n**hh:g:Donlay:Khatso:2019**\n**hh:hel:Bradley:EAsia**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hld:ShearerHongkai:China**\n**hh:hvw:Lama:Nisoic**\n**hh:s:He:Kazhuo:Bisu:2007**\n**hh:sv:Daietal:Gazhuo**\n**hh:sv:Mu:Kazhuo**\n**hh:v:He:Gazhuo**\n**hh:v:He:Mongols-Yunnan**\n**hh:vw:Hasieerdun:Yunnan-Menggu**\n**hh:w:Bufan:Zangmian**\n**iso6393:2006-127**"
+  },
+  "altnames": {
+    "lexvo": "\nKatso [en]",
+    "hhbib_lgcode": "\nGazhuo\nKazhou\nKazhuo\nMenggu Tonghai\nYunnan Menggu\nYunnan Mongolian\nYúnnán měnggǔ",
+    "elcat": "\nGazhuo\nKatso\nKazhuo\nKhatso\n卡卓\n喀卓\n嘎卓"
+  },
+  "triggers": {
+    "lgcode": "\ngazhuoyu\nkazhuo"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Lama:Nisoic**:157",
+    "subrefs": "\n**hh:hvw:Lama:Nisoic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Khatso (10911-kaf) = Threatened (100 percent certain, based on the evidence available) (Intergenerational transmission is occurring, but imperfectly. Downward trend in speaker numbers. Language is used daily in the village, but children are taught Mandarin first so they can integrate into education system; as a result, their language skills are more and more influenced by Mandarin.) [Donlay 2019](cldf:donlay:19)"
+  },
+  "identifier": {
+    "endangeredlanguages": "10911"
+  }
+}

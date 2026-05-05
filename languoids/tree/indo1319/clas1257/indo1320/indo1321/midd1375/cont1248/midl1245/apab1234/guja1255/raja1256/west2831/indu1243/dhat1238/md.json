@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Dhatki",
+    "hid": "mki",
+    "level": "language",
+    "iso639-3": "mki",
+    "latitude": "26.4156",
+    "longitude": "70.7826",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "PK"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q32480\nhttps://en.wikipedia.org/wiki/Dhatki_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hld:MinaRav:Rajasthana**\n**hh:hv:GraingerGrainger:Sind**\n**hh:hvwt:Grierson:9:II**\n**hh:svd:Bhawnani:Thari**"
+  },
+  "altnames": {
+    "multitree": "\nDhati\nDhatki\nThar",
+    "lexvo": "\nDhatki [en]\nDhatki language [en]",
+    "hhbib_lgcode": "\nDhati Boli\nDhatki (Thar)\nDhatki Thali representing western Marwari dialect of Rajasthani\nThareli/Dhatki\nThari in Pakistan"
+  },
+  "triggers": {
+    "lgcode": "\nthar"
+  },
+  "identifier": {
+    "multitree": "mki"
+  },
+  "classification": {
+    "sub": "**hh:hv:GraingerGrainger:Sind**:38-39",
+    "subrefs": "\n**hh:hv:GraingerGrainger:Sind**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Dhatki (mki-mki) = 5 (Developing)."
+  }
+}

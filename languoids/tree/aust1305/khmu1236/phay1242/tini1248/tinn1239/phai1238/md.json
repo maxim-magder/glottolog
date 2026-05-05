@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Prai",
+    "hid": "prt",
+    "level": "language",
+    "iso639-3": "prt",
+    "latitude": "19.0383",
+    "longitude": "101.218",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "TH"
+    ],
+    "links": "\n[Prai](https://endangeredlanguages.com/lang/5288)\n[Prai](https://grambank.clld.org/languages/phai1238)\nhttps://en.wikipedia.org/wiki/Prai_language\nhttps://phoible.org/languages/phai1238\nhttps://www.wikidata.org/entity/Q7180184"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:g:Malapol:Pray**\n**hh:hv:Filbeck:Tin**\n**hh:hv:Filbeck:Tin:1971**\n**hh:ld:Elliott:Lua**\n**hh:ld:Malapet:Prai**\n**hh:phon:Jordan:Prai**\n**hh:phon:Singnoi:Pray**\n**hh:s:Jordan:Prai**\n**hh:socdial:DillerDiller:Prai**\n**hh:typ:Rice:Golden-Triangle**\n**hh:w:Jirananthanaporn:Pray-Mal**\n**hh:wsoc:Jeske:Lua-Bo-Kluea**"
+  },
+  "altnames": {
+    "multitree": "\nKha\nKha Phay\nPhai\nPhay\nPrai\nPray\nPray 1\nThung Chan Pray",
+    "lexvo": "\nPhai [en]",
+    "hhbib_lgcode": "\nLua in Ban Den Village in Bo Kluea District (Nan Province)\nLua'\nPhai\nPray\nPray L1-L2-L3 likely\nPray T2-T4\nPray T3-T1-T5\nPray of Ban Wang Saw in Chon Dean sub-district in Chieng Klang which is in the north of Nan province\ngeographically East Pua Pray",
+    "elcat": "\nEast Pua Pray\nLua'\nPrai\nPray\nPray 2"
+  },
+  "triggers": {
+    "lgcode": "\nprai"
+  },
+  "identifier": {
+    "multitree": "prt",
+    "endangeredlanguages": "5288"
+  },
+  "classification": {
+    "sub": "**hh:hv:Filbeck:Tin** **hh:hv:Rischel:Mlabri-Mon-Khmer**",
+    "subrefs": "\n**hh:hv:Filbeck:Tin**\n**hh:hv:Rischel:Mlabri-Mon-Khmer**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Prai (5288-prt) = Threatened (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:264)"
+  }
+}

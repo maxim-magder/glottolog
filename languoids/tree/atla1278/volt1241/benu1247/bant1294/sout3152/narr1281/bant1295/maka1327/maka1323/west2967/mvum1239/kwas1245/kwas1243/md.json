@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kwasio",
+    "hid": "nmg",
+    "level": "language",
+    "iso639-3": "nmg",
+    "latitude": "2.39354",
+    "longitude": "10.0812",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CM",
+      "GQ"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q34098\nhttps://en.wikipedia.org/wiki/Kwasio_language\n[Bujeba](https://wals.info/languoid/lect/wals_code_buj)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:conradt:02**\n**cldf:gonzalezechegaray:60**\n**eballiso2009:13061**\n**eballiso2009:15615**\n**eballiso2009:16724**\n**eballiso2009:19367**\n**eballiso2009:24790**\n**eballiso2009:24792**\n**eballiso2009:28587**\n**eballiso2009:28707**\n**eballiso2009:31133**\n**eballiso2009:3239**\n**eballiso2009:32534**\n**eballiso2009:3404**\n**eballiso2009:37176**\n**eballiso2009:38545**\n**eballiso2009:42433**\n**eballiso2009:42506**\n**eballiso2009:42997**\n**eballiso2009:50392**\n**eballiso2009:5828**\n**eballiso2009:724**\n**hh:e:Conradt:Johann-Albrechts**\n**hh:ew:Tessmann:Pangwe**\n**hh:g:Echegaray:Bujeba**\n**hh:g:Massaga:Ngumba**\n**hh:h:Echegaray:Africa-Negra**\n**hh:h:deGranda:Guinea-Ecuatorial**\n**hh:hb:Dugast:Sud-Cameroun**\n**hh:he:Chauleur:Cameroun**\n**hh:hv:Cheucle:Makaa-Njem**\n**hh:hv:Grollemund:Bantu-Expansion**\n**hh:hv:Tessmann:Kameruns**\n**hh:hvw:Johnston:Bantu-Semi-Bantu**\n**hh:phon:Lemb:Mvumbo**\n**hh:s:Skolaster:Ngumba**\n**hh:s:Um:Mvumbo**\n**hh:soc:Guindo:Dogon**\n**hh:typ:Dadak:Mbvumbo**\n**hh:w:Cottes:Sud-Cameroun**\n**iso6393:2007-002**\n**mpieva:Gonzales1959Morfolog**"
+  },
+  "altnames": {
+    "wals": "\nBujeba",
+    "wals other": "\nBisio\nNgumba",
+    "ruhlen (1987)": "\nBujeba",
+    "moseley & asher (1994)": "\nNgumba",
+    "multitree": "\nBisio\nBisiwo\nBissio\nBujeba\nKwasio\nKwassio\nMabea\nMabi\nMgoumba\nMvumbo\nNgoumba\nNgumba",
+    "lexvo": "\nKwasio [en]\nKwasio language [en]\nNgoumbeg [br]\nNgumba [nl]\nNgumbum [nov]",
+    "hhbib_lgcode": "\nA81_Kwasio\nBujeba\nGumba\nKwasio (A81)\nMabea\nMabea-Magbea\nMabéa-Ngoumba-Batanga\nMbvumbo\nMvumbo\nNgumba\nNgumba-Mabea\nNgumba-Mvumba"
+  },
+  "triggers": {
+    "lgcode": "\nbajele\nshiwe\nosyeba\nngumba\ndescriptif\nmvumbo\nngumbasprache\nmvo\nbujeba\nalbrechts\ndescente\nnjima"
+  },
+  "identifier": {
+    "wals": "buj",
+    "multitree": "nmg;nmg-kwa"
+  },
+  "classification": {
+    "sub": "**hh:g:Grimm:Gyeli**:7-11",
+    "subrefs": "\n**hh:g:Grimm:Gyeli**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kwasio (nmg-nmg) = 5 (Developing)."
+  }
+}

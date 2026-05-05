@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Pattani",
+    "hid": "lae",
+    "level": "language",
+    "iso639-3": "lae",
+    "latitude": "32.6963",
+    "longitude": "76.5966",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Pattani](https://endangeredlanguages.com/lang/5664)\n[Pattani](https://grambank.clld.org/languages/patt1248)\n[Pattani](https://wals.info/languoid/lect/wals_code_ptt)\nhttps://en.wikipedia.org/wiki/Pattani_language\nhttps://phoible.org/languages/patt1248\nhttps://www.wikidata.org/entity/Q7148323"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:lewis:ed:09**\n**cldf:sharma:00**\n**cldf:sharma:89:2**\n**cldf:sharma:89:3**\n**hh:g:Sharma:Pattani**\n**hh:hld:Sharma:Tibeto-Burman-India**\n**hh:hv:SaxenaBorin:Tibeto-Kanauri**\n**hh:hv:Widmer:Western-Himalayas**\n**hh:hvw:Grierson:3:I**\n**hh:hvw:Widmer:West-Himalayish**\n**hh:hvwsoc:Chamberlain:Lahul**\n**hh:s:Sharma:Pattani**\n**hh:typ:Francke:Bunan-Manchad-Tinan**\n**hh:typ:Nishi:Manchadu**\n**hh:typ:Saxena:Tibeto-Kinnauri**\n**hh:vld:Sharma:PaTani**\n**hh:w:Francke:Manchad**"
+  },
+  "altnames": {
+    "wals": "\nPattani",
+    "wals other": "\nChamba",
+    "ruhlen (1987)": "\nKanauri",
+    "moseley & asher (1994)": "\nChamba",
+    "multitree": "\nChamba\nChamba Lahuli\nChamba Lāhulī\nChangsapa Boli\nLahul\nLahuli\nLahuli de Chamba\nManchad\nManchati\nManchāti\nMantśati\nMonchāti\nPatan\nPatni\nPattani\nSwangla",
+    "lexvo": "\nPattani [en]",
+    "hhbib_lgcode": "\nChamba Lahuli\nManchad\nManchati or Patni\nPaTani\nPattani-Chimrat\nPattani-Gushal\nPattani-Jobrang\nPattani-Mooling\nPattani-Salgram\nPattani-Thirot\nPattani-Tholang\nPattani-Udeypur",
+    "elcat": "\nChamba\nChamba Lahuli\nChamba Lāhulī\nChangsapa Boli\nLahul\nLahuli\nManchad\nManchati\nManchāti\nMantśati\nMonchāti\nPatan\nPatni\nPattani\nSwangla"
+  },
+  "triggers": {
+    "lgcode": "\nmanchadsprache\nmanchad\npatani\npattani"
+  },
+  "identifier": {
+    "wals": "ptt",
+    "multitree": "lae",
+    "endangeredlanguages": "5664"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Widmer:West-Himalayish** **hh:hv:Widmer:Western-Himalayas:2022**",
+    "subrefs": "\n**hh:hv:Widmer:Western-Himalayas:2022**\n**hh:hvw:Widmer:West-Himalayish**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Pattani (5664-lae) = Vulnerable (40 percent certain, based on the evidence available) (Pattani is used in the home, village, and for religion. Hindi is used in education and trade.) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

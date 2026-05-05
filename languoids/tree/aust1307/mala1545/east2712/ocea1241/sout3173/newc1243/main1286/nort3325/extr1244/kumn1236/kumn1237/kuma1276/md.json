@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Nêlêmwa-Nixumwak",
+    "hid": "nee",
+    "level": "language",
+    "iso639-3": "nee",
+    "latitude": "-20.4035",
+    "longitude": "164.193",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "NC"
+    ],
+    "links": "\n[Nelemwa](https://wals.info/languoid/lect/wals_code_nel)\n[Nêlêmwa](https://lexibank.clld.org/languages/abvdoceanic-Nelemwa)\n[Nêlêmwa-Nixumwak](https://grambank.clld.org/languages/kuma1276)\nhttps://en.wikipedia.org/wiki/Kumak_language\nhttps://www.wikidata.org/entity/Q3347266"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bril:04:3**\n**cldf:bril:07:1**\n**cldf:bril:96**\n**cldf:bril:99**\n**hh:g:Bril:Nelemwa**\n**hh:g:Bril:Nelemwa:1995**\n**hh:hvwtyp:Leenhardt:Austro-Melanesie**\n**hh:phon:Rivierre:Koumac**\n**hh:s:Bril:Nelemwa-Grammaticale**\n**hh:sd:Bril:Nelemwa**\n**hh:st:Haudricourt:Nenemas**\n**hh:typ:Bril:Conjunction**\n**hh:typ:Bril:Nelemwa**\n**hh:typ:Bril:Nelemwa-Complex**\n**hh:typ:Bril:Nelemwa:Quantification**\n**hh:typ:Bril:Nelemwa:Reciprocal**\n**hh:typ:Bril:Nelemwa:Tense**\n**hh:typ:Bril:New-Caledonian:Inclusory**\n**iso6393:2010-003**\n**mpieva:1996OceanicS**\n**mpieva:Bril2002Lenelemw**\n**mpieva:Hovdhaugen1999Negation**"
+  },
+  "altnames": {
+    "wals": "\nNelemwa",
+    "ruhlen (1987)": "\nKumak",
+    "moseley & asher (1994)": "\nKumak",
+    "multitree": "\nFwa-Goumak\nKoumac\nKumak\nNelemwa\nNeukaledonien",
+    "lexvo": "\nKumak [en]",
+    "hhbib_lgcode": "\nKoumac\nKumak\nNenema\nNêlêmwa-Nixumwak",
+    "glottolog": "\nKumak"
+  },
+  "triggers": {
+    "lgcode": "\nnelemwa\npoum\nnemwa\nkoumac"
+  },
+  "identifier": {
+    "wals": "nel",
+    "multitree": "nee"
+  },
+  "classification": {
+    "sub": "**hh:hv:Ozanne-Rivierre:Northern-New-Caledonia**",
+    "subrefs": "\n**hh:hv:Ozanne-Rivierre:Northern-New-Caledonia**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Kumak (2489-nee) = Vulnerable"
+  }
+}

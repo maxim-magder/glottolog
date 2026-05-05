@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Rennell-Bellona",
+    "hid": "mnv",
+    "level": "language",
+    "iso639-3": "mnv",
+    "latitude": "-11.6237",
+    "longitude": "160.265",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "SB"
+    ],
+    "links": "\n[Rennell-Bellona](https://grambank.clld.org/languages/renn1242)\n[RennellBellona_206](https://lexibank.clld.org/languages/walworthpolynesian-RennellBellona)\n[Rennellese](https://wals.info/languoid/lect/wals_code_rnn)\nhttps://en.wikipedia.org/wiki/Rennellese_language\nhttps://www.wikidata.org/entity/Q3397346"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bellwood:95**\n**cldf:birket-smith:56**\n**cldf:birket-smith:69**\n**cldf:blust:07:2**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:elbert:65**\n**cldf:elbert:75**\n**cldf:elbert:81**\n**cldf:government:01**\n**cldf:hays:91:5**\n**cldf:kuschel:88:1**\n**cldf:kuschel:88:2**\n**cldf:monberg:62**\n**cldf:monberg:91**\n**cldf:np:14:5**\n**cldf:ofprovincialgovernment:development:01**\n**hh:d:Elbertetal:Rennell-Bellona**\n**hh:e:Christiansen:Bellona**\n**hh:g:Elbert:Rennell**\n**hh:hvw:Ray:Polynesian**\n**hh:hvw:Ray:Polynesian:1912-1921**\n**hh:hvw:TryonHackman:Solomon**\n**hh:t:Kuschel:Bellona**\n**hh:w:Ray:Salomon**\n**hh:w:vonBulow:Moi-ki**\n**iso6393:2008-067**\n**sil16:15548**\n**sil16:18538**\n**sil16:47837**"
+  },
+  "altnames": {
+    "wals": "\nRennellese",
+    "wals other": "\nRennellese-Bellonese",
+    "ruhlen (1987)": "\nRen(n)ellese",
+    "moseley & asher (1994)": "\nRennellese",
+    "multitree": "\nRennell\nRennell-Bellona\nRennell-Belona\nRennellese\nRennellese-Bellonese",
+    "lexvo": "\nRennell-Bellona [en]",
+    "hhbib_lgcode": "\nMo-Iki\nMo-Ngiki\nMo-ava\nMo-iki\nMoi-ki\nRennell and Bellona\nRennell-Belona\nRennellese"
+  },
+  "triggers": {
+    "lgcode": "\nmugiki\nbellona"
+  },
+  "identifier": {
+    "wals": "rnn",
+    "multitree": "mnv"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marck:Polynesian** **hh:hv:Wilson:East-Polynesians**",
+    "subrefs": "\n**hh:hv:Marck:Polynesian**\n**hh:hv:Wilson:East-Polynesians**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Rennell-Bellona (mnv-mnv) = 5 (Developing)."
+  }
+}

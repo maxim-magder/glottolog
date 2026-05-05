@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Etruscan",
+    "hid": "ett",
+    "level": "language",
+    "iso639-3": "ett",
+    "latitude": "41.9",
+    "longitude": "12.4833",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IT"
+    ],
+    "links": "\n[Etruscan](https://grambank.clld.org/languages/etru1241)\nhttps://en.wikipedia.org/wiki/Etruscan_language\nhttps://www.wikidata.org/entity/Q35726",
+    "timespan": "-0690-01-01/-0690-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Turfa:Etruscans**\n**hh:g:Steinbauer:Etruskischen**\n**hh:g:Wallace:Etruscan**\n**hh:h:Visscher:Roman-Languages**\n**hh:hld:Woudhuizen:Sea**\n**hh:ht:Marietti:CCL**\n**hh:hv:Beekes:Etruscans**\n**hh:hv:Rix:Ratisch**\n**hh:hv:Robertson:Etruscan**\n**hh:hvld:Marchesini:Italia-Antica**\n**hh:hvw:Hervas:Poligloto**\n**hh:ld:Morandi:Etrusca**\n**hh:ld:Steinbauer:Etruskisch-Lemnisch**\n**hh:phon:Agostiniani:Etruscan**\n**hh:s:BonfanteBonfante:Etruscan**\n**hh:s:Carra:Etrusque**\n**hh:s:Faucounau:Etrusque**\n**hh:s:Pallottino:Etruschi**\n**hh:s:Pfiffig:Etruskische**\n**hh:s:Rix:Etruscan:2004**\n**hh:s:Rix:Etruscan:2008**\n**hh:s:Trombetti:Etrusca**\n**hh:s:Tsymburskij:Etrusskij**\n**hh:st:Morandi:Etrusca**\n**hh:t:Rix:Etruskische**\n**hh:t:vanderMeer:Zagrabiensis**\n**hh:typ:Georgiev:Etruschi**\n**hh:v:Beekes:Etruscan**\n**hh:v:Gordeziani:Etruskuli**\n**hh:vld:Breyer:Etruskisches**\n**hh:vtyp:Rigoblanco:Etrusco**\n**hh:vtyp:Rigoblanco:Etrusco:2013**\n**hh:w:Sverdrup:Etruscan**\n**mpieva:Izzo1972TuscanEt**\n**mpieva:Latypov1999Issledov**\n**mpieva:Woudhuizen2008Etruscan**"
+  },
+  "altnames": {
+    "multitree": "\nEtruscan\nEtruskisch\nTyrrhenian\nTyrsenian",
+    "lexvo": "\nEtrurski jezik [sh]\nEtrusc [ca]\nEtruscan [en]\nEtruscan language [en]\nEtruska lingvo [eo]\nEtruskeg [br]\nEtruskek [kw]\nEtruskin kieli [fi]\nEtruskisch [nl]\nEtruskische Sprache [de]\nEtruskisk [da]\nEtruskisk språk [nn]\nEtruskiska [sv]\nEtruskų kalba [lt]\nEtruszk nyelv [hu]\nEtruština [cs]\nEtrušćina [hsb]\nEtruščanski jezik [hr]\nEtrúska [is]\nIdioma etrusco [es]\nJęzyk etruski [pl]\nLingua Etrusca [la]\nLingua etrusc [ia]\nLingua etrusca [co]\nLlingua etrusca [ast]\nLíngua etrusca [pt]\nÉtrusque [fr]\nΕτρουσκική γλώσσα [el]\nЕтруски език [bg]\nЕтруська мова [uk]\nЭтрусский язык [ru]\nეტრუსკული ენა [ka]\nエトルリア語 [ja]\n伊特拉斯坎語 [zh]\n에트루리아어 [ko]",
+    "hhbib_lgcode": "\nEtrusca\nEtrusco\nÈtrusskij"
+  },
+  "triggers": {
+    "lgcode": "\netruscan\netruscans\netruskisch\netruschi\ncommento\nneues\netruskischen\netruskische\netrusca"
+  },
+  "identifier": {
+    "multitree": "ett;tyrr"
+  },
+  "classification": {
+    "familyrefs": "\n**hh:hvld:Marchesini:Italia-Antica**",
+    "family": "Contra **hh:s:Rix:Etruscan:2008**, **hh:hv:Rix:Ratisch** it is advisable to take\na more cautious position with respect to the genealogical relatedness of\nRhaetian with Etruscan **hh:hvld:Marchesini:Italia-Antica**:59. We wish to thank\nRaoul Zamponi for clarifying the status of Rhaetian to us."
+  },
+  "hh_ethnologue_comment": {
+    "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29. One of them is Etruscan (**hh:g:Wallace:Etruscan**).",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "ett"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Etruscan (ett-ett) = 10 (Extinct)."
+  }
+}

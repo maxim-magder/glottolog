@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Mayogo",
+    "hid": "mdm",
+    "level": "language",
+    "iso639-3": "mdm",
+    "latitude": "2.79827",
+    "longitude": "27.8282",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CD"
+    ],
+    "links": "\n[Mayogo](https://grambank.clld.org/languages/mayo1261)\n[Mayogo](https://wals.info/languoid/lect/wals_code_myg)\nhttps://en.wikipedia.org/wiki/Mayogo_language\nhttps://phoible.org/languages/mayo1261\nhttps://www.wikidata.org/entity/Q6797580"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1597**\n**eballiso2009:35469**\n**eballiso2009:55393**\n**hh:hb:Kadima:Congo**\n**hh:hvld:vanBulck:Ubangi-Uele**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hvw:Liesenborghs:NOCongo**\n**hh:hvw:Mortier:Ubangi**\n**hh:hw:Monino:Oubanguiennes**\n**hh:ldsoc:Boone:Kerebolo**\n**hh:s:Asangama:Budu**\n**hh:s:Sawka:Mayogo**\n**hh:s:Tercafs:Yogo**\n**mpieva:MacCord1989Acoustic**\n**mpieva:McCord1989Acoustic**\n**sil16:22703**\n**sil16:46242**\n**sil16:51403**\n**sil16:51407**"
+  },
+  "altnames": {
+    "multitree": "\nKiyogo\nMaigo\nMaiko\nMajugu\nMayko\nMayogo\nMayugo",
+    "lexvo": "\nMayogo [en]",
+    "hhbib_lgcode": "\nMangbele\nMayogu"
+  },
+  "triggers": {
+    "lgcode": "\nmadimadoko\nyogo\nmayogo"
+  },
+  "identifier": {
+    "wals": "myg",
+    "multitree": "mdm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Winkhart:Mundu-Baka** **hh:h:BoydPasch:Sere-Ngbaka-Mba**",
+    "subrefs": "\n**hh:hv:Winkhart:Mundu-Baka**\n**hh:h:BoydPasch:Sere-Ngbaka-Mba**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Mayogo (mdm-mdm) = 5* (Developing)."
+  }
+}

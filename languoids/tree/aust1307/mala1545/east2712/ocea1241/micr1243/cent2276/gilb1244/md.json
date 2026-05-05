@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Gilbertese",
+    "hid": "gil",
+    "level": "language",
+    "iso639-3": "gil",
+    "latitude": "0.179",
+    "longitude": "173.64",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "FJ",
+      "KI",
+      "SB",
+      "TV"
+    ],
+    "links": "\n[Gilbertese](https://grambank.clld.org/languages/gilb1244)\n[Kiribati](https://lexibank.clld.org/languages/abvdoceanic-Kiribati)\n[Kiribati](https://wals.info/languoid/lect/wals_code_krb)\nhttps://en.wikipedia.org/wiki/Gilbertese_language\nhttps://www.wikidata.org/entity/Q30898"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bedford:macdonald:etal:80**\n**cldf:bellwood:95**\n**cldf:blevins:08:3**\n**cldf:blust:07:2**\n**cldf:bradshaw:ed:01:5**\n**cldf:calculator:14**\n**cldf:cribb:00**\n**cldf:dobbin:11**\n**cldf:grimble:ed:89**\n**cldf:grimble:grimble:ed:72**\n**cldf:hage:harary:etal:96**\n**cldf:harrison:jackson:84**\n**cldf:keesing:84:2**\n**cldf:koch:86**\n**cldf:lambert:91**\n**cldf:macdonald:12**\n**cldf:macdonald:82**\n**cldf:maude:81**\n**cldf:np:14:5**\n**cldf:sabatier:71**\n**gilbertese:Bingham1865**\n**gilbertese:Bingham1869**\n**gilbertese:Bingham1869a**\n**gilbertese:Chambers1972**\n**gilbertese:Durrheimer1964**\n**gilbertese:Grimble1989**\n**gilbertese:Harrison1984**\n**gilbertese:Hughes1950**\n**gilbertese:Hughes1991**\n**gilbertese:Laxton1953**\n**gilbertese:Mission1959**\n**gilbertese:Onorio1984**\n**gilbertese:Pateman1949**\n**gilbertese:Shutler1975**\n**gilbertese:Terrienne1954**\n**gilbertese:Trussel1979**\n**hh:b:Kunz:Gilbert**\n**hh:b:Trussel:Gilbertese**\n**hh:d:Bingham:Gilbertese**\n**hh:d:Sabatier:Gilbertin**\n**hh:d:TrusselGroves:Gilbertese**\n**hh:e:Luomala:Gilbert**\n**hh:g:GrovesGrovesJacobs:Kiribatese**\n**hh:g:Trussel:Kiribati**\n**hh:ld:Alekseev:Gilbertese-Loanword**\n**hh:ld:Bingham:Gilbertese:1895**\n**hh:ld:BlevinsHarrison:Gilbertese**\n**hh:s:Bingham:Gilbert:1922**\n**hh:s:Bingham:Gilbertese**\n**hh:s:Colomb:Gilbert**\n**hh:s:Cowell:Gilbertese**\n**hh:t:Koru:Kiribati**\n**hh:typ:Silverman:Gilbertese**\n**hh:w:Harrison:Kiribati**\n**mpieva:2001Issuesin**\n**mpieva:Dempwolff1969DieLaute**"
+  },
+  "altnames": {
+    "wals": "\nKiribati",
+    "wals other": "\nKiribatese",
+    "ruhlen (1987)": "\nGilbertese",
+    "moseley & asher (1994)": "\nGilbertese",
+    "multitree": "\nFidji-Inseln\nGilbert-Inseln\nGilbertese\nI-Kiribati\nIkiribati\nKiribati",
+    "lexvo": "\nBahasa Kiribati [id]\nGilbertese [en]\nGilbertese language [en]\nGilbertesische Sprache [de]\nGilbertin [fr]\nGilbertski jezik [sh]\nGilbertès [ca]\nGilbertês [pt]\nIdioma gilbertés [es]\nJęzyk kiribati [pl]\nKiribateg [br]\nKiribati simi [qu]\nKiribatiešu valoda [lv]\nKiribatin kieli [fi]\nKiribatisch [nl]\nKiribatisk [da]\nKiribatiska [sv]\nLengua gilberteise [lij]\nLingua gilbertina [it]\nkiribati [fr]\nКирибати [ru]\nКирибатски език [bg]\nगिल्बर्टीज भाषा [mr]\nキリバス語 [ja]\n키리바시어 [ko]",
+    "hhbib_lgcode": "\nKiribati"
+  },
+  "triggers": {
+    "lgcode": "\ngilbertese\nlatium\nleveque\nkiribatese\narorai\nfocusschrift\nsudseesprachen"
+  },
+  "identifier": {
+    "wals": "krb",
+    "multitree": "gil"
+  },
+  "classification": {
+    "sub": "**hh:hv:LynchRossCrowley:Subgrouping** **hh:vphon:Hughes:Nauruan**",
+    "subrefs": "\n**hh:hv:LynchRossCrowley:Subgrouping**\n**hh:vphon:Hughes:Nauruan**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kiribati (gil-gil) = 1 (National). De facto national language."
+  }
+}

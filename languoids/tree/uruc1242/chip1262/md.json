@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Chipaya",
+    "hid": "cap",
+    "level": "language",
+    "iso639-3": "cap",
+    "latitude": "-18.73951",
+    "longitude": "-67.89633",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BO"
+    ],
+    "links": "\n[Chipaya](https://endangeredlanguages.com/lang/2432)\n[Chipaya](https://lexibank.clld.org/languages/crossandean-Chipaya)\n[Chipaya](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Chipaya)\n[Chipaya](https://wals.info/languoid/lect/wals_code_cpy)\nhttps://en.wikipedia.org/wiki/Chipaya_language\nhttps://phoible.org/languages/chip1262\nhttps://www.wikidata.org/entity/Q35235"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:adelaar:fonseca:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:crevels:07**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**haspelmath:hanns_chipaya:_2013**\n**hh:b:Saenz:Uru-Chipaya**\n**hh:e:Olson:Chipaya**\n**hh:e:deMesaGisbert:Chipayas**\n**hh:g:Cerron-Palomino:Chipaya**\n**hh:hv:Campbell:Maya-Chipaya**\n**hh:hv:Cerron-Palomino:Proto-Uro**\n**hh:hv:Fabre:Uru-Chipaya-Pano-Takanan**\n**hh:hv:Olson:Maya-Chipaya**\n**hh:ld:Olson:Chipaya**\n**hh:s:Cerron-Palomino:Chipaya**\n**hh:s:Porterie-Gutierrez:Chipaya**\n**hh:w:Dun:Chipayas**\n**hh:w:Posnansky:Chipaya**\n**sil16:11854**\n**sil16:12972**\n**sil16:12973**\n**sil16:12974**\n**sil16:12975**\n**sil16:16252**\n**sil16:16259**"
+  },
+  "altnames": {
+    "multitree": "\nChipaya\nPuquina\nUru-Chipaya language area",
+    "lexvo": "\nChipaya [en]",
+    "hhbib_lgcode": "\nChipayas",
+    "elcat": "\nChipaya"
+  },
+  "triggers": {
+    "lgcode": "\nquintunaca\nNOT e AND NOT und AND chipaya\nliylay"
+  },
+  "identifier": {
+    "wals": "cpy",
+    "multitree": "cap",
+    "endangeredlanguages": "2432"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Chipaya (2432-cap) = Threatened (20 percent certain, based on the evidence available) (\"el chipaya goza de una extraordinaria vitalidad, y es fuente de orgullo para sus hablantes\" (p. 29)\n[Chipaya enjoys an extraordinary vitality, and it is the source of pride for its speakers]) [Cerrón-Palomino 2009](cldf:cerron-palomino:09)"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sur",
+    "hid": "tdl",
+    "level": "language",
+    "iso639-3": "tdl",
+    "latitude": "9.47958",
+    "longitude": "9.49007",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Sur](https://endangeredlanguages.com/lang/488)\nhttps://en.wikipedia.org/wiki/Sur%E2%80%93Myet_language\nhttps://www.wikidata.org/entity/Q3914453"
+  },
+  "classification": {
+    "sub": "**hh:w:Blench:Sur**",
+    "subrefs": "\n**hh:w:Blench:Sur**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:blench:98**\n**eballiso2009:34771**\n**hh:hv:Blench:Tarok**\n**hh:hvw:Blench:Tarokoid**\n**hh:vw:Blench:Tapshin**\n**hh:w:Blench:Sur**\n**hh:wsoc:Decker:Kusur-Myet**"
+  },
+  "altnames": {
+    "multitree": "\nDishili\nMyet\nNsur\nSur\nSuru\nTapshin\nTapshinawa",
+    "lexvo": "\nSur [en]",
+    "elcat": "\nDishili\nMyet\nNsur\nSur\nSuru\nTapshin\nTapshinawa",
+    "hhbib_lgcode": "\nKusur\nMyet"
+  },
+  "triggers": {
+    "lgcode": "\ntapshin"
+  },
+  "identifier": {
+    "multitree": "tdl",
+    "endangeredlanguages": "488"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Sur (488-tdl) = Vulnerable (60 percent certain, based on the evidence available) (Even young children are learning the language and there is no evidence of a decline in competence. Even more surprisingly, but no doubt related, the language is by no means full of loanwords from Hausa and Ngas, as is sometimes the case.) [Blench 1998](cldf:blench:98)"
+  }
+}

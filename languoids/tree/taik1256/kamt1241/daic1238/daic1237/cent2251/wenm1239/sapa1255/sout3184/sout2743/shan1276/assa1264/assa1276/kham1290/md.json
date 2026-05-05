@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Khamti",
+    "hid": "kht",
+    "level": "language",
+    "iso639-3": "kht",
+    "latitude": "27.6653",
+    "longitude": "97.0359",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN",
+      "MM"
+    ],
+    "links": "\n[Khamti](https://endangeredlanguages.com/lang/1425)\nhttps://en.wikipedia.org/wiki/Khamti_language\nhttps://www.wikidata.org/entity/Q3915502"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:anderson:12**\n**cldf:aristar:aristar-dry:etal:12**\n**cldf:inglis:20**\n**cldf:simons;:fennig:ed:13**\n**hh:g:Das:Tai-Khamti**\n**hh:h:Butler:Assam**\n**hh:h:Diller:Tai-Assam**\n**hh:h:McCosh:Mountain-Bengal**\n**hh:hew:Dalton:Bengal**\n**hh:hld:Mamta:Numeral-South-Asian**\n**hh:hv:Edmondson:Shan**\n**hh:hv:Jonsson:SWTai**\n**hh:hv:Robinson:Southwestern-Tai-P**\n**hh:hvld:deLacouperie:China**\n**hh:hvw:Brown:Indo-Chinese**\n**hh:hvw:Grierson:2**\n**hh:hvw:Latham:Comparative**\n**hh:phon:Harris:Khamti-Shan**\n**hh:phond:Weidert:Khamti**\n**hh:s:Inglis:Khamti-Shan**\n**hh:sd:Needham:Khamti**\n**hh:typ:Inglis:Tai-Khamti**\n**hh:typ:Kanittanan:Kamti-Tai**\n**hh:typ:Morey:Tai-Assam-Order**\n**hh:typ:vanderVoorn:Khamti-Shan**\n**hh:v:Dockum:Tonal-Comparative**\n**hh:w:Brown:North-East-Frontier**\n**hh:w:Desgodins:Irrawaddy**"
+  },
+  "altnames": {
+    "multitree": "\nHkampti\nHkamti\nKam Ti\nKamti\nKham(p)ti\nKhampti\nKhampti Sam\nKhampti Shan\nKhamti\nKhamti Shan\nKhandi Shan\nShan\nTai Kam Ti\nTai-Khamti",
+    "lexvo": "\nKhamti [en]",
+    "hhbib_lgcode": "\n1 Tai Khamti-Putao\n2 Tai Khamti-Hukawng\nKangtis\nKham di Mou Oua\nKhamti Shan\nKhamti Shan in Irrawaddy confluence region specifically the central Khamti towns of Putao-Mogaung-Namti in Burma\nKhamti Tai\nKhamtis\nTK: Khamti\nTai Khamti\nTai Khamti-Hukawng\nTai Khamti-Putao\nTai-Khamti",
+    "elcat": "\nHkampti\nHkampti Shan\nHkamti\nKam Ti\nKamti\nKham(p)ti\nKhampti\nKhampti Sam\nKhampti Shan\nKhamti\nKhamti Shan\nKhandi Shan\nShan\nTai Kam Ti\nTai Khamti\nTai-Khamti"
+  },
+  "triggers": {
+    "lgcode": "\nkhamti\nkamti"
+  },
+  "identifier": {
+    "multitree": "kht",
+    "endangeredlanguages": "1425"
+  },
+  "classification": {
+    "sub": "**hh:hv:Morey:Tonal-Tai-India**",
+    "subrefs": "\n**hh:hv:Morey:Tonal-Tai-India**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Khamti (1425-kht) = Vulnerable (20 percent certain, based on the evidence available) [Inglis 2020](cldf:inglis:20)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Quebec Sign Language",
+    "hid": "fcs",
+    "level": "language",
+    "iso639-3": "fcs",
+    "latitude": "45.99654",
+    "longitude": "-74.87193",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "CA"
+    ],
+    "links": "\n[Quebec Sign Language](https://endangeredlanguages.com/lang/7113)\nhttps://www.wikidata.org/entity/Q13193\nhttps://en.wikipedia.org/wiki/Quebec_Sign_Language\n[Langue des Signes Québecoise](https://wals.info/languoid/lect/wals_code_lsq)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:berthiaume:rinfret:00**\n**cldf:dubuisson:99**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:woodward:12**\n**hh:d:BourcierRoy:Langue-Signes**\n**hh:d:Dubuisson:Signes-Quebecoise**\n**hh:phon:Miller:Signes-Quebecoise**\n**hh:s:Dubuisson:Signes-Quebecoise**\n**hh:s:Dubuisson:Signes-Quebecoise:1993**\n**hh:s:Parisot:Quebec-Sign**\n**hh:soc:Mayberry:French-Canadian-Sign**\n**hh:soc:ParksWilliams:Deaf-Americas**\n**hh:typ:Bouchard:Sign-Universals**\n**hh:typ:BouchardDubuisson:Quebec-Sign**\n**hh:typ:Miller:Quebec-Sign**\n**hh:typ:Nadeau:Quebec-Sign:Directional**\n**hh:typ:Pinsonneault:Signes-Quebecoise**\n**hh:v:Miller:Quebec-Sign**"
+  },
+  "altnames": {
+    "wals": "\nLangue des Signes Québecoise",
+    "multitree": "\nLSQ\nLangue Signe Quebecars\nLangue des Signes Québécoise\nLangue des Signes du Québec\nQuebec Sign Language",
+    "lexvo": "\nLangue des signes québécoise [fr]\nLíngua de Sinais Quebequiana [pt]\nQuebec Sign Language [en]",
+    "hhbib_lgcode": "\nQuebec Sign Language (LSQ)",
+    "elcat": "\nLSQ\nLangue Signe Quebecars\nLangue des Signes Québécoise\nLangue des Signes du Québec\nQuebec Sign Language"
+  },
+  "identifier": {
+    "wals": "lsq",
+    "multitree": "fcs",
+    "endangeredlanguages": "7113"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Quebec Sign Language (7113-fcs) = Threatened (20 percent certain, based on the evidence available) [Woodward 2012](cldf:woodward:12)"
+  },
+  "classification": {
+    "sub": "Historically derived from ASL with significant LSF input (**hh:s:Parisot:Quebec-Sign**):702-703.",
+    "subrefs": "\n**hh:s:Parisot:Quebec-Sign**"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Red Gelao",
+    "hid": "gir",
+    "level": "language",
+    "iso639-3": "gir",
+    "latitude": "23.1868",
+    "longitude": "104.993",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "VN"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Vandu_language\n[Red Gelao](https://endangeredlanguages.com/lang/1509)\nhttps://www.wikidata.org/entity/Q3100264"
+  },
+  "classification": {
+    "sub": "**hh:v:Li:Hong-Gelao**",
+    "subrefs": "\n**hh:v:Li:Hong-Gelao**"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:daiqingsha:ed:04**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:li:06:1**\n**cldf:li:aijierui:07**\n**cldf:li:lijinfang:etal:09**\n**cldf:li:lijinfang:etal:11**\n**cldf:li:lijinfang:etal:14**\n**cldf:np:15:2**\n**cldf:np:nd:264**\n**cldf:ostapirat:00**\n**hh:hld:EdmondsonJinfang:Corridor**\n**hh:ld:Cao:Pudi-Gelao**\n**hh:phon:EdmondsonLi:Red-Gelao**\n**hh:phon:LiEdmondson:Hong-Qilao**\n**hh:phond:Samarina:Gelao**\n**hh:s:LiHan:Hong-Gelao**\n**hh:t:Hoang:Co-Lao**\n**hh:v:Li:Hong-Gelao**\n**iso6393:2011-055**"
+  },
+  "altnames": {
+    "multitree": "\nGelao rojo (Vietnam)\nGelao rouge (Chine)\nGelao rouge (Viet Nam)\nGelao, Red\nVandu Gelao\nVoa Dê",
+    "lexvo": "\nRed Gelao [en]",
+    "hhbib_lgcode": "\nHong Gelao\nKrasnyj Gelao\nRed Co Lao\nVandu\nYunnan Red Gelao",
+    "elcat": "\nA-ou\nA-uo\nCờ Lao\nRed Gelao\nVandu Gelao\nVoa Dê\n仡佬語阿歐方言\n紅仡佬"
+  },
+  "triggers": {
+    "lgcode": "\nproto AND kra"
+  },
+  "identifier": {
+    "multitree": "gir",
+    "endangeredlanguages": "1509"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Red Gelao (1509-gir) = Critically Endangered (100 percent certain, based on the evidence available) (Red Gelao has the fewest speakers among the Gelao languages.) [(戴慶廈) 2004](cldf:daiqingsha:ed:04)"
+  }
+}

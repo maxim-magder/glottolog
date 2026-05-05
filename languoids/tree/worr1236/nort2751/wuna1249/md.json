@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Wunambal",
+    "hid": "wub",
+    "level": "language",
+    "iso639-3": "wub",
+    "latitude": "-14.8347",
+    "longitude": "125.72",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Wunambal](https://endangeredlanguages.com/lang/3315)\n[Wunambal](https://grambank.clld.org/languages/wuna1249)\nhttps://en.wikipedia.org/wiki/Wunambal_language\nhttps://phoible.org/languages/wuna1249\nhttps://www.wikidata.org/entity/Q3913805"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:kaberry:35**\n**cldf:kaberry:39**\n**cldf:lewis:ed:09**\n**cldf:np:nd:195**\n**cldf:np:nd:264**\n**cldf:tryon:07**\n**hh:e:Lommel:Unambal**\n**hh:g:Carr:Wunambal**\n**hh:hv:Kaberry:Kimberley**\n**hh:hv:McGregorRumsey:Worrorran**\n**hh:hvld:Capell:NKimberley:Structural**\n**hh:hvld:CapellCoate:NKimberley**\n**hh:hvtyp:McGregor:Kimberley**\n**hh:hvw:Capell:NWAustralia**\n**hh:s:Capell:Wunambal**\n**hh:w:SIL:Wumbulgari**\n**hh:w:SIL:Yedji**\n**ozbib:1184**\n**ozbib:1409**\n**ozbib:3549**\n**ozbib:3550**\n**ozbib:3566**\n**ozbib:4173**\n**ozbib:5930**\n**ozbib:5935**\n**ozbib:5940**\n**ozbib:6223**\n**ozbib:6770**\n**ozbib:7072**\n**ozbib:917**\n**ozbib:920**\n**ozbib:929**\n**ozbib:939**\n**ozbib:974**"
+  },
+  "altnames": {
+    "multitree": "\nJeidji\nJeithi\nNorthern Language\nUnambal\nWoonambal\nWumnabal\nWunambal\nWunambul\nWunambullu\nWunumabal\nYeidji\nYeithi",
+    "lexvo": "\nWunambal [en]",
+    "hhbib_lgcode": "\n'Ye'dji\nWumbulgari\nWunambal i\nWunambal ii\nYeidji\nYiidji\nYiiji",
+    "elcat": "\nJeidji\nJeithi\nNorthern Language\nUnambal\nWoonambal\nWumnabal\nWunambal\nWunambul\nWunambullu\nWunumabal\nYeidji\nYeithi"
+  },
+  "triggers": {
+    "lgcode": "\nunambal\nwunambal\nworrorran"
+  },
+  "identifier": {
+    "multitree": "wub",
+    "endangeredlanguages": "3315"
+  },
+  "classification": {
+    "sub": "**hh:hv:McGregorRumsey:Worrorran**",
+    "subrefs": "\n**hh:hv:McGregorRumsey:Worrorran**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Wunambal (3315-wub) = Severely Endangered (20 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

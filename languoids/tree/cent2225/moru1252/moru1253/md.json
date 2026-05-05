@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Moru",
+    "hid": "mgd",
+    "level": "language",
+    "iso639-3": "mgd",
+    "latitude": "5.1232",
+    "longitude": "30.3287",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "SS"
+    ],
+    "links": "\n[Moru](https://wals.info/languoid/lect/wals_code_mou)\nhttps://en.wikipedia.org/wiki/Moru_language\nhttps://phoible.org/languages/moru1253\nhttps://www.wikidata.org/entity/Q6915014"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1273**\n**asjp2010:1982**\n**asjp2010:2414**\n**asjp2010:3486**\n**asjp2010:3915**\n**asjp2010:4831**\n**asjp2010:4954**\n**cldf:felkin:83**\n**cldf:seligman:seligman:32**\n**cldf:tucker:67**\n**eballiso2009:12438**\n**eballiso2009:19891**\n**eballiso2009:30196**\n**eballiso2009:34998**\n**eballiso2009:39154**\n**eballiso2009:4803**\n**eballiso2009:52104**\n**eballiso2009:57232**\n**eballiso2009:58861**\n**eballiso2009:879**\n**hh:h:Tucker:Eastern-Sudanic**\n**hh:h:Tucker:Sudanic**\n**hh:hv:Larochette:Moru-Mangbetu**\n**hh:hv:Thomas:Moru-Mangbetu**\n**hh:hvtyp:Tucker:Madi**\n**hh:hvw:Czekanowski:Sprachenaufnahmen**\n**hh:hwsoc:WatsonBoone:Moru-Madi**\n**hh:ld:Hillelson:Nyangbara**\n**hh:typ:Andersen:Moru**\n**hh:typ:Andersen:Moru:Inflexion**\n**hh:typ:Kilpatrick:Moru-Madi**\n**hh:w:Mitterutzner:Nyang-Bara**\n**sil16:22494**\n**sil16:44808**\n**sil16:47548**"
+  },
+  "altnames": {
+    "wals": "\nMoru",
+    "wals other": "\nKala Moru",
+    "ruhlen (1987)": "\nMoru",
+    "moseley & asher (1994)": "\nMoru",
+    "multitree": "\nKala Moru\nMoru",
+    "lexvo": "\nMoru [en]",
+    "hhbib_lgcode": "\n7xMoru\nAgi\nAndri\nBalimba\nBälimbä\nKediru\nLakama'di\nLakamadi\nMiza\nMoroägi\nMoroändri\nMoru-Kediru\nMoru-Miza\nNyang-Bara\nThe Nyangbara speak a Nilotic language but Morlang's vocabulary labeled Nyangbara is a variety related to Madi\nWa'di\nWadi"
+  },
+  "triggers": {
+    "lgcode": "\nrumbek\nrejaf\nNOT dinka AND NOT e AND NOT reader AND NOT de AND moru\naegyptischen"
+  },
+  "identifier": {
+    "wals": "mou",
+    "multitree": "mgd"
+  },
+  "classification": {
+    "sub": "**hh:hwsoc:WatsonBoone:Moru-Madi**",
+    "subrefs": "\n**hh:hwsoc:WatsonBoone:Moru-Madi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Moru (mgd-mgd) = 5 (Developing). Recognized language (2011, Transitional Constitution, Article 6(1))."
+  }
+}

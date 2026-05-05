@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Lamaholot",
+    "hid": "slp",
+    "level": "language",
+    "iso639-3": "slp",
+    "latitude": "-8.36439",
+    "longitude": "122.803",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Lamaholot](https://grambank.clld.org/languages/lama1277)\n[Lamaholot](https://wals.info/languoid/lect/wals_code_lmh)\nhttps://en.wikipedia.org/wiki/Lamaholot_language\nhttps://www.wikidata.org/entity/Q6480777"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:vatter:32**\n**hh:d:Pampus:Koda-Kiwa:1991**\n**hh:d:Pampus:Koda-Kiwan:2010**\n**hh:d:PampusLamuri:Koda-Kiwa**\n**hh:d:Sanga:Lamaholot**\n**hh:g:Kroon:Solor**\n**hh:g:NishiyamaKelen:Lamaholot**\n**hh:h:Sugono:Indonesia**\n**hh:hew:Muller:Indischen:II**\n**hh:hew:Wallace:Malay-Archipelago**\n**hh:hv:Doyle:Flores-Lembata**\n**hh:hv:Sulistyono:Baranusa-Kedang**\n**hh:hvphon:Sulistyono:Baranusa-Kedang**\n**hh:hvw:Keraf:Lamalera**\n**hh:hvw:Latham:Comparative**\n**hh:hvwt:Akoli:Lamaholot**\n**hh:hvwtyp:Capell:Mixed**\n**hh:s:Arndt:Solor**\n**hh:s:Fernandez:Lamaholot**\n**hh:typ:Grange:Lamaholot**\n**hh:typ:Nishiyama:Lamaholot**\n**hh:vld:Fernandes:East-Indonesia**\n**hh:w:Aritonang:Swadesh-Flores-Timur**\n**hh:w:Heijmering:ZWEilanden**\n**hh:w:Stokhofetal:Holle:6**"
+  },
+  "altnames": {
+    "wals": "\nLamaholot",
+    "wals other": "\nSolor",
+    "ruhlen (1987)": "\nLamaholot",
+    "moseley & asher (1994)": "\nLamaholot",
+    "multitree": "\nLamaholot\nSolor\nSolorese",
+    "lexvo": "\nLamaholot [en]",
+    "hhbib_lgcode": "\nBaipito\nBama\nIle Mandiri\nIle Mandiri Lamaholot\nKarawatung Solor\nLL-Lewolema\nLamaholot-Solor\nLewoingu\nLewoingu Lamaholot\nLewolaga\nLewolema\nPamakayo and Lewonama on Solor\nRitaebang\nSolor\nSolor (as spoken on the East coast of Flores and on Adonare and Solor)\nSoloreesch\nSolow\nTanjung\nWB-Waibalun\nWaibalun\nWestern Lamaholot"
+  },
+  "triggers": {
+    "lgcode": "\nsolor\nlewoingu\nmandiri\nlewolema"
+  },
+  "identifier": {
+    "wals": "lmh",
+    "multitree": "slp"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Fricke:Flores-Lembata**:171-228 **hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**:131-139",
+    "subrefs": "\n**hh:hv:GrimesEdwards:Austronesian-Eastern-Indonesia**\n**hh:hvs:Fricke:Flores-Lembata**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Lamaholot (slp-slp) = 3 (Wider communication). Lingua franca in the 19th century during European colonial expansion. Used in textiles, literature, trade, and fishing."
+  }
+}

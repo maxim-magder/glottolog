@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Grass Koiari",
+    "hid": "kbk",
+    "level": "language",
+    "iso639-3": "kbk",
+    "latitude": "-9.51218",
+    "longitude": "147.437",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Grass Koiari](https://endangeredlanguages.com/lang/2226)\n[Grass Koiari](https://grambank.clld.org/languages/gras1249)\n[Grass Koiari](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Grasskoiari)\n[Grass Koiari](https://lexibank.clld.org/languages/transnewguineaorg-grass-koiari)\n[Koiari](https://wals.info/languoid/lect/wals_code_koi)\nhttps://en.wikipedia.org/wiki/Grass_Koiari_language\nhttps://phoible.org/languages/gras1249\nhttps://www.wikidata.org/entity/Q12952642"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:chalmers:90**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:dutton:69:2**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:d:Dutton:Koiari**\n**hh:dial:Dutton:Koiari**\n**hh:e:Lawes:Koiari**\n**hh:hew:Thomson:British-New-Guinea**\n**hh:hv:Dutton:Koiari**\n**hh:hv:Dutton:SETNG**\n**hh:hvs:Dutton:CPapua**\n**hh:hvw:Zoller:DNG**\n**hh:hvwtyp:Dutton:Rigo**\n**hh:hw:Ray:British-New-Guinea**\n**hh:hw:Ray:Central-Papua**\n**hh:s:Dutton:Koiari**\n**hh:sd:Dutton:Koiari**\n**hh:typ:Dutton:Koiari-Possession**\n**hh:vs:Dutton:Koiarian:1969**\n**hh:w:MacGregor:Koiari-Koita**\n**sil16:38061**"
+  },
+  "altnames": {
+    "wals": "\nKoiari",
+    "ruhlen (1987)": "\nKoiari",
+    "moseley & asher (1994)": "\nKoiari",
+    "multitree": "\nCoyarí\nGrass koiari\nKoiari\nKoiari (Grass)\nKoiari, Grass",
+    "lexvo": "\nGrass Koiari [en]",
+    "hhbib_lgcode": "\nEikiri\nFavele\nIarumi\nKoiari\nKoiari Goto\nKoiari-Grass\nKupele\nMaiari\nSogeri",
+    "elcat": "\nGrass\nGrass Koiari\nKoiari\nKoiari (Grass)"
+  },
+  "triggers": {
+    "lgcode": "\nNOT to AND koiari"
+  },
+  "identifier": {
+    "wals": "koi",
+    "multitree": "kbk",
+    "endangeredlanguages": "2226"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dutton:Proto-Koiarian**",
+    "subrefs": "\n**hh:hv:Dutton:Proto-Koiarian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Grass Koiari (2226-kbk) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

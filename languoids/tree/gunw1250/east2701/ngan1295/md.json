@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Ngandi",
+    "hid": "nid",
+    "level": "language",
+    "iso639-3": "nid",
+    "latitude": "-12.8448",
+    "longitude": "134.649",
+    "macroareas": [
+      "Australia"
+    ],
+    "countries": [
+      "AU"
+    ],
+    "links": "\n[Ngandi](https://collection.aiatsis.gov.au/austlang/language/n90)\n[Ngandi](https://endangeredlanguages.com/lang/4859)\n[Ngandi](https://grambank.clld.org/languages/ngan1295)\n[Ngandi](https://wals.info/languoid/lect/wals_code_ngn)\nhttps://en.wikipedia.org/wiki/Ngandi_language\nhttps://phoible.org/languages/ngan1295\nhttps://www.wikidata.org/entity/Q7021977"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bowern:11:1**\n**cldf:ed:10**\n**cldf:mushin:95**\n**cldf:np:nd:195**\n**hh:hv:Capell:Arnhem**\n**hh:hvtyp:Heath:Arnhem**\n**hh:hvw:Capell:NWAustralia**\n**hh:std:Heath:Ngandi**\n**hh:typ:Collins:Ngandi**\n**hh:typ:Mithun:BWO**\n**hh:w:Capell:Forty-North-Australian**\n**ozbib:2386**\n**ozbib:2598**\n**ozbib:2642**\n**ozbib:265**\n**ozbib:2650**\n**ozbib:2660**\n**ozbib:2668**\n**ozbib:2704**\n**ozbib:2706**\n**ozbib:2708**\n**ozbib:2712**\n**ozbib:2723**\n**ozbib:2738**\n**ozbib:2740**\n**ozbib:2745**\n**ozbib:319**\n**ozbib:320**\n**ozbib:4018**\n**ozbib:4057**\n**ozbib:4125**\n**ozbib:4938**\n**ozbib:4995**\n**ozbib:5327**\n**ozbib:5328**\n**ozbib:5340**\n**ozbib:567**\n**ozbib:5701**\n**ozbib:63**\n**ozbib:6367**\n**ozbib:7275**\n**ozbib:7278**\n**ozbib:807**"
+  },
+  "altnames": {
+    "wals": "\nNgandi",
+    "ruhlen (1987)": "\nNgandi",
+    "moseley & asher (1994)": "\nNgandi",
+    "multitree": "\nEngandi\nN'gundi\nNandi\nNgalbon\nNgalgbun\nNgandi",
+    "lexvo": "\nNgandi [en]",
+    "hhbib_lgcode": "\n29 Ngandi\nNgadi",
+    "elcat": "\nN'gundi\nNandi\nNgalbon\nNgalgbun\nNgandi",
+    "aiatsis": "\nGunwinyguan\nNagandi\nNagandji\nNanda\nNandi\nNgalbon\nNgalgbun\nNgandi\nNgundi"
+  },
+  "triggers": {
+    "lgcode": "\nngandi"
+  },
+  "identifier": {
+    "wals": "genus/ngandi",
+    "multitree": "nid",
+    "endangeredlanguages": "4859"
+  },
+  "classification": {
+    "sub": "**hh:hv:EvansMarley:Gunwinyguan**:783 **hh:hv:Baker:Gunwinyguan**",
+    "subrefs": "\n**hh:hv:Baker:Gunwinyguan**\n**hh:hv:EvansMarley:Gunwinyguan**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Ngandi (4859-nid) = Critically Endangered (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:195)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Loxicha Zapotec",
+    "hid": "ztp",
+    "level": "language",
+    "iso639-3": "ztp",
+    "latitude": "15.8442",
+    "longitude": "-96.6997",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Loxicha_Zapotec\nhttps://phoible.org/languages/loxi1235\nhttps://www.wikidata.org/entity/Q6694268"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hv:Beam:Zapoteco-Sureno**\n**hh:hvw:Rendon:Zapoteco**\n**hh:phon:Covarrubias:Zapoteco-Santo-Domingo-Morelos**\n**hh:phonv:Hernandez:Zapoteco-Santo-Domingo-Morelos**\n**hh:s:Salminen:Zapoteco-San-Agustin**\n**hh:s:Salminen:Zapoteco-San-Agustin:2014**\n**hh:typ:BirtlesBlack:Loxicha-Zapotec**"
+  },
+  "altnames": {
+    "multitree": "\nCopalita Zapotec\nLoxicha Zapotec\nSouthern Sapoteko\nWestern Pochutla Zapotec\nZapotec\nZapotec, Loxicha\nZapoteco de Asunción Tlacolulita\nZapoteco de Loxicha\nZapotèque d'Asunción Tlacolulita",
+    "lexvo": "\nLoxicha Zapotec [en]",
+    "hhbib_lgcode": "\nLoxicha\nSan Agustín Loxicha\nSan Bartolomé Loxicha\nSanto Domingo de Morelos\nZapotec-Loxicha\nZapoteco de San Agustín Loxicha\nZapoteco de Santo Domingo de Morelos"
+  },
+  "triggers": {
+    "lgcode": "\nacompanado\ntradicionales\nthe AND loxicha\ndzte\ndizte"
+  },
+  "identifier": {
+    "multitree": "ztp"
+  },
+  "classification": {
+    "sub": "**hh:hv:Azcona:Sierra-Sur** **hh:hv:Campbell:Otomanguean**:11-13",
+    "subrefs": "\n**hh:hv:Campbell:Otomanguean**\n**hh:hv:Azcona:Sierra-Sur**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2017-08-19T08:16:16",
+    "comment": "Coatlán Zapotec (8794-ztp) = Vulnerable (20 percent certain, based on the evidence available)"
+  }
+}

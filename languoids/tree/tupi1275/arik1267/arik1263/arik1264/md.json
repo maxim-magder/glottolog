@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Arikem",
+    "hid": "ait",
+    "level": "language",
+    "iso639-3": "ait",
+    "latitude": "-8.924",
+    "longitude": "-63.742",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q3446679\nhttps://en.wikipedia.org/wiki/Arikem_language",
+    "timespan": "1935-01-01/1935-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:hw:Rondon:Silvicolas**\n**hh:lde:Lopes:Arikemes**\n**hh:w:Nimuendaju:Amazonien**"
+  },
+  "altnames": {
+    "multitree": "\nArikem\nAriken\nArikém\nAriqueme\nAriquemes\nAriquême",
+    "lexvo": "\nArikem [en]",
+    "hhbib_lgcode": "\nAriquêm"
+  },
+  "triggers": {
+    "lgcode": "\nword AND arikem"
+  },
+  "identifier": {
+    "wals": "genus/arikem",
+    "multitree": "ait"
+  },
+  "classification": {
+    "sub": "**hh:hv:Vilacy:Tupian** **hh:hv:RodriguesCabral:Tupian**",
+    "subrefs": "\n**hh:hv:Vilacy:Tupian**\n**hh:hv:RodriguesCabral:Tupian**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Arikem (ait-ait) = 10 (Extinct)."
+  }
+}

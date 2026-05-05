@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Gbii",
+    "hid": "ggb",
+    "level": "language",
+    "iso639-3": "ggb",
+    "latitude": "5.87021",
+    "longitude": "-8.9346",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "LR"
+    ],
+    "links": "\n[Gbii](https://endangeredlanguages.com/lang/4793)\nhttps://www.wikidata.org/entity/Q3914390\nhttps://en.wikipedia.org/wiki/Gbii_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**hh:h:Duitsman:Liberian**\n**hh:hv:Ingemann:Kruan**\n**hh:hv:Marchese:Kru**"
+  },
+  "altnames": {
+    "multitree": "\nGbee\nGbi-Dowlu\nGbii",
+    "lexvo": "\nGbii [en]\nGbii language [en]",
+    "elcat": "\nGbee\nGbi-Dowlu\nGbii",
+    "hhbib_lgcode": "\nGbee"
+  },
+  "identifier": {
+    "multitree": "ggb",
+    "endangeredlanguages": "4793"
+  },
+  "classification": {
+    "sub": "**hh:hv:Marchese:Kru**:73-78 **hh:hv:Vogler:Kru:2017**:11-15",
+    "subrefs": "\n**hh:hv:Marchese:Kru**\n**hh:hv:Vogler:Kru:2017**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Gbii (4793-ggb) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

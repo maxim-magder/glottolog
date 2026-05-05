@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Eastern Balochi",
+    "hid": "bgp",
+    "level": "language",
+    "iso639-3": "bgp",
+    "latitude": "29.38213",
+    "longitude": "69.05834",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "PK"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Eastern_Balochi_(dialect)\nhttps://phoible.org/languages/east2304\nhttps://www.wikidata.org/entity/Q12952252"
+  },
+  "sources": {
+    "glottolog": "\n**eballiso2009:1288**\n**eballiso2009:23528**\n**eballiso2009:23801**\n**hh:d:Gilbertson:Balochi**\n**hh:e:Dames:Baloch**\n**hh:e:Pehrson:Marri-Baluch**\n**hh:g:Gilbertson:Balochi**\n**hh:hv:Lodhi:Oriental-Swahili**\n**hh:hvs:Korn:Balochi**\n**hh:hvs:Korn:Balochi:2003**\n**hh:hvw:Grierson:10**\n**hh:ld:Baloch:Sulaimani**\n**hh:s:Bashir:Balochi-Urdu**\n**hh:s:Dames:Northern-Balochi**\n**hh:s:Gladstone:Biluchi**\n**hh:s:JahaniKorn:Balochi**\n**hh:s:Pierce:Mekranee-Beloochee**\n**hh:typ:Bashir:Eastern-Balochi**\n**mpieva:Frolova1960Beludzsk**\n**mpieva:Jahani2000Language**\n**sil16:44300**"
+  },
+  "altnames": {
+    "wals": "\nBaluchi",
+    "wals other": "\nBalochi",
+    "ruhlen (1987)": "\nBaluchi",
+    "moseley & asher (1994)": "\nBaluchi",
+    "multitree": "\nBalochi\nBalochi, Eastern\nBaluchi\nBalutschi\nEastern Balochi",
+    "lexvo": "\nEastern Balochi [en]",
+    "hhbib_lgcode": "\nBalochi in the Upper Sindh and South Panjab\nBalochi of Bugti and Marri\nBalochi-Eastern\nE Balochi\nE Balochi of Sind\nEast of Gwadur\nKasrani Balochi\nMarri Baluch\nParallel description of all three Eastern Balochi\nSulaimani Balochi\nSulemani Balochi"
+  },
+  "triggers": {
+    "lgcode": "\nbiluchi\nbaluchi\nbalochi\nmakran\nbeloochee\nmarw\nbeludzskij\nmekranee"
+  },
+  "identifier": {
+    "wals": "blc",
+    "multitree": "balo;bgp"
+  },
+  "classification": {
+    "sub": "**hh:hvs:Korn:Balochi**:19-21 **hh:hvld:Elfenbein:Baluchi**:28",
+    "subrefs": "\n**hh:hvld:Elfenbein:Baluchi**\n**hh:hvs:Korn:Balochi**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Balochi, Eastern (bgp-bgp) = 5* (Developing)."
+  }
+}

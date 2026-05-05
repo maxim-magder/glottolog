@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Clatsop-Shoalwater Chinook",
+    "hid": "chh",
+    "level": "language",
+    "iso639-3": "chh",
+    "latitude": "46.39132",
+    "longitude": "-123.9249",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Chinook](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Chinook)\n[Chinook (Lower)](https://wals.info/languoid/lect/wals_code_ckl)\n[Clatsop-Shoalwater Chinook](https://grambank.clld.org/languages/chin1286)\nhttps://en.wikipedia.org/wiki/Lower_Chinook\nhttps://www.wikidata.org/entity/Q6693380",
+    "timespan": "1930-01-01/1930-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ray:37**\n**cldf:ray:38**\n**cldf:ray:42**\n**cldf:swan:57**\n**hh:e:Silverstein:Chinookans**\n**hh:hew:Hale:Philology**\n**hh:s:Boas:Chinook**\n**hh:s:Boas:Chinook:1911**\n**hh:s:Jones:Chinook-Katlamat**\n**hh:t:Boas:Chinook**\n**hh:typ:Swanton:Chinook-Verb**\n**hh:w:Boas:Chinook**\n**hh:w:Franchere:Chinouque**\n**hh:w:Gibbs:Chinook**\n**hh:w:Ross:Chinook**\n**mpieva:1862Dictiona**\n**mpieva:Durieu1886Practica**\n**mpieva:Hale1890Anintern**\n**mpieva:Stuart1865Adiction**\n**mpieva:Zenk1984Chinookj**"
+  },
+  "altnames": {
+    "wals": "\nChinook (Lower)",
+    "wals other": "\nChinook\nLower Chinook",
+    "ruhlen (1987)": "\nChinook (Lower)",
+    "moseley & asher (1994)": "\nChinook (Lower)",
+    "multitree": "\nChinook\nChinook (Lower)\nChinook proper\nChinookan\nCoastal Chinook\nKiksht\nLower Chinook\nLower Chinookan",
+    "lexvo": "\nChinook [en]",
+    "hhbib_lgcode": "\nChinook\nChinookans treated here are those who lived from the coast to a point above the Willamette River\nTlatsap (Clatsops)\nTshinuk",
+    "glottolog": "\nChinook"
+  },
+  "triggers": {
+    "lgcode": "\ntshimpsean\nchinnook\nNOT syntax AND NOT trade AND NOT indian AND chinook"
+  },
+  "identifier": {
+    "wals": "ckl",
+    "multitree": "chh",
+    "endangeredlanguages": "4166"
+  },
+  "classification": {
+    "sub": "**hh:dial:Hymes:Clackamas**:365",
+    "subrefs": "\n**hh:dial:Hymes:Clackamas**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Chinook (chh-chh) = 9 (Dormant). Language of registered tribe: Confederated Tribes of the Siletz Reservation, Quinault Indian Nation, Shoalwater Bay Indian Tribe of the Shoalwater Bay Indian Reservation."
+  }
+}

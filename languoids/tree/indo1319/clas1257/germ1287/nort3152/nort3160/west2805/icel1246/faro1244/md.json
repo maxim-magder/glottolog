@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Faroese",
+    "hid": "fao",
+    "level": "language",
+    "iso639-3": "fao",
+    "latitude": "62.0732",
+    "longitude": "-6.88497",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DK",
+      "FO"
+    ],
+    "links": "\n[Faroese](https://grambank.clld.org/languages/faro1244)\n[Faroese](https://wals.info/languoid/lect/wals_code_far)\nhttps://en.wikipedia.org/wiki/Faroese_language\nhttps://phoible.org/languages/faro1244\nhttps://www.wikidata.org/entity/Q25258"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:andreasen:dahl:98**\n**cldf:arnason:99**\n**cldf:barnes:94**\n**cldf:lockwood:55**\n**cldf:thrainsson:04**\n**hh:d:Gonzalez:Feroes**\n**hh:d:Young:Faroese**\n**hh:g:AdamsPetersen:Faroese:2014**\n**hh:g:Krenn:Foroyische**\n**hh:g:Lockwood:Faroese**\n**hh:g:Petersen:Foroysk**\n**hh:g:PetersenAdams:Faroese**\n**hh:g:Thrainsson:Faroese**\n**hh:g:Thrainsson:Faroese:2012**\n**hh:phon:Petersen:Faroese**\n**hh:s:BarnesWeyhe:Faroese**\n**hh:s:Dahl:Foroysk**\n**hh:s:Hammershaimb:Faroiske**\n**hh:w:Jordan:Faroese**\n**ludger-paschen-germanic:Henriksen.1994.Germanic**\n**mpieva:Petersen2009Genderas**\n**mpieva:Thrainsson2004Faroesea**"
+  },
+  "altnames": {
+    "wals": "\nFaroese",
+    "ruhlen (1987)": "\nFaeroese",
+    "moseley & asher (1994)": "\nFaroese",
+    "multitree": "\nFaroese\nFaroese Islands\nFaroés\nFéroïen\nFøroyskt",
+    "lexvo": "\nBahasa Faroe [id]\nFaaroish [gv]\nFaerana linguo [io]\nFaeroeg [br]\nFaeroyès [wa]\nFaeröars [nds]\nFaeröers [li]\nFaeröersk [fy]\nFaerčina [sk]\nFaerština [cs]\nFarer tili [crh]\nFarerų kalba [lt]\nFaroece [tr]\nFaroeera [eu]\nFaroese [en]\nFaroese language [en]\nFaroisc sprǣc [ang]\nFaroyek [kw]\nFaroëes [af]\nFarski jezik [bs]\nFarėru kalba [lt]\nFearagiella [se]\nFeroa lingvo [eo]\nFeroès [ca]\nFeroés [oc]\nFeröeri nyelv [hu]\nFerščina [sl]\nFäröische Sprache [de]\nFäröische Språch [bar]\nFäröiska [sv]\nFäröšćina [hsb]\nFääri keel [et]\nFäärin kieli [fi]\nFæreyska [is]\nFærøsk [da]\nFærøysk [no]\nFærøysk språk [nn]\nFéroïen [fr]\nFøroyskt mál [fo]\nFēriešu valoda [lv]\nIdioma feroés [an]\nJęzyk farerski [pl]\nLenga faroèisa [pms]\nLimba feroeză [ro]\nLingua Faroensis [la]\nLingua faroesa [co]\nLingua faroese [it]\nLingua faruisa [scn]\nLingua feroesa [gl]\nLèngoa farœnse [lij]\nLíngua feroesa [pt]\nZimanê feroeyî [ku]\nféroïen [fr]\nŁéngua faroexe [vec]\nАлифбои фароесӣ [tg]\nФарер йылме [mhr]\nФарераг æвзаг [os]\nФарерский язык [ru]\nФарерська мова [uk]\nФарски јазик [mk]\nФарэрская мова [be]\nФерьорски език [bg]\nزبان فاروئی [fa]\nفائېروس تىل [ug]\nفاروئى [arz]\nلغة فاروية [ar]\nफ़रोइस भाषा [hi]\nফারোয়েজীয় ভাষা [bn]\nภาษาแฟโร [th]\nფარერული ენა [ka]\nፋሮኛ [am]\nフェロー語 [ja]\n法罗语 [zh]\n페로어 [ko]"
+  },
+  "triggers": {
+    "lgcode": "\nmallqra\nfaroese\nforoyische"
+  },
+  "identifier": {
+    "wals": "far",
+    "multitree": "fao"
+  },
+  "classification": {
+    "sub": "**hh:hv:Bandle:Nordgermanischen**:110",
+    "subrefs": "\n**hh:hv:Bandle:Nordgermanischen**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Faroese (1027-fao) = Vulnerable"
+  }
+}

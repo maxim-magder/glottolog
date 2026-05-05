@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Old Saxon",
+    "hid": "osx",
+    "level": "language",
+    "iso639-3": "osx",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "DE"
+    ],
+    "longitude": "9.72",
+    "latitude": "52.37",
+    "links": "\nhttps://en.wikipedia.org/wiki/Old_Saxon\nhttps://www.wikidata.org/entity/Q35219",
+    "timespan": "0500-01-01/1000-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Tiefenbach:Saxon**\n**hh:g:Gallee:Altsachsische**\n**hh:g:Rauch:Old-Saxon**\n**hh:s:Behaghel:Heliand**\n**hh:s:Cathey:Old-Saxon**"
+  },
+  "altnames": {
+    "multitree": "\nAltnieder-deutsch\nOld Saxon",
+    "lexvo": "\nAltniederdeutsche Sprache [de]\nAntico sassone [it]\nGammelsaksisk [da]\nJęzyk starosaksoński [pl]\nMalnovsaksa lingvo [eo]\nOld Saxon [en]\nOldsaksisch [nds]\nOoldsaksisk [stq]\nOoldsassisch [nds]\nOudsaksisch [nl]\nSajón antiguo [es]\nSaxão antigo [pt]\nVieux saxon [fr]\nÓszász nyelv [hu]\nСтар долногермански јазик [mk]\n古ザクセン語 [ja]",
+    "hhbib_lgcode": "\nHeliand"
+  },
+  "triggers": {
+    "lgcode": "\nold AND saxon\naltsachsische\naltsachsisches"
+  },
+  "identifier": {
+    "multitree": "osx"
+  },
+  "classification": {
+    "sub": "**hh:hv:Stiles:West-Germanic**:17-23 **hh:hv:Harbert:Germanic**:7-9",
+    "subrefs": "\n**hh:hv:Stiles:West-Germanic**\n**hh:hv:Harbert:Germanic**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Old Saxon (osx-osx) = 10 (Extinct)."
+  }
+}

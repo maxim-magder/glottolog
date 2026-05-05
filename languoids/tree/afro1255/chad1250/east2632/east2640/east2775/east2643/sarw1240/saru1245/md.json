@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Sarua",
+    "hid": "swy",
+    "level": "language",
+    "iso639-3": "swy",
+    "latitude": "10.5987",
+    "longitude": "17.031",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "TD"
+    ],
+    "links": "\n[Sarwa](https://endangeredlanguages.com/lang/2593)\nhttps://www.wikidata.org/entity/Q56261\nhttps://en.wikipedia.org/wiki/Sarua_language"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Haruna:Endangered-Chadic**\n**hh:he:Lebeuf:Tchad**\n**hh:hel:Sommer:Survey**\n**hh:hw:Gaudefroy-Demombynes:Oubangui-Chari**\n**hh:s:Abderamane:Sarwa**\n**hh:vwtyp:JungraithmayrPeust:Sarwa**"
+  },
+  "altnames": {
+    "multitree": "\nSaroua\nSarua\nSarwa",
+    "lexvo": "\nSarouaeg [br]\nSarua [en]\nSarua jezik [hr]\nSarua language [en]",
+    "hhbib_lgcode": "\nBaranga\nSaroua\nSarwa",
+    "elcat": "\nSaroua\nSarua\nSarwa"
+  },
+  "triggers": {
+    "lgcode": "\nsurvey AND death"
+  },
+  "identifier": {
+    "multitree": "swy",
+    "endangeredlanguages": "2593"
+  },
+  "classification": {
+    "sub": "**hh:vwtyp:JungraithmayrPeust:Sarwa**:32-36 **hh:hv:Jungraithmayr:Nachtigal**",
+    "subrefs": "\n**hh:vwtyp:JungraithmayrPeust:Sarwa**\n**hh:hv:Jungraithmayr:Nachtigal**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Sarwa (2593-swy) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "core": {
+    "name": "Uruguayan Sign Language",
+    "hid": "ugy",
+    "level": "language",
+    "iso639-3": "ugy",
+    "latitude": "-34.5967",
+    "longitude": "-56.4509",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "UY"
+    ],
+    "links": "\n[Uruguayan Sign Language](https://endangeredlanguages.com/lang/7119)\nhttps://www.wikidata.org/entity/Q7901470\nhttps://en.wikipedia.org/wiki/Uruguayan_Sign_Language"
+  },
+  "altnames": {
+    "multitree": "\nUruguayan Sign Language",
+    "lexvo": "\nUruguayan Sign Language [en]",
+    "hhbib_lgcode": "\nLengua de Señas Uruguaya (LSU)",
+    "elcat": "\nLSU\nLengua de Señas Uruguaya\nUruguayan Sign Language"
+  },
+  "identifier": {
+    "multitree": "ugy",
+    "endangeredlanguages": "7119"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Uruguayan Sign Language (7119-ugy) = Threatened (20 percent certain, based on the evidence available) (Ethnologue (2013) lists he vitality of Uruguayan Sign Language as: 5 (Developing).) [Simons; and Fennig 2013](cldf:simons;:fennig:ed:13)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:simons;:fennig:ed:13**\n**hh:h:Campello:Sign-South-America**\n**hh:soc:Behares:Lenguaje-Senas-Uruguayo**\n**hh:soc:ParksWilliams:Uruguayan-Deaf**\n**hh:w:Behares:Lengua-Senas-Uruguayo**"
+  },
+  "classification": {
+    "sub": "Uruguayan Sign Language appears to be lexicostatistically distinct from Paraguayan Sign language (**hh:soc:ParksParks:Sordos-Paraguay**):8-9 and presumably from other sign languages as well.",
+    "subrefs": "\n**hh:soc:ParksParks:Sordos-Paraguay**"
+  }
+}

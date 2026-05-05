@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Baba Malay",
+    "hid": "mbf",
+    "level": "language",
+    "iso639-3": "mbf",
+    "latitude": "1.75414",
+    "longitude": "103.076",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MY",
+      "SG"
+    ],
+    "links": "\n[Baba Malay](https://endangeredlanguages.com/lang/421)\n[Baba Malay](https://grambank.clld.org/languages/baba1267)\n[Singapore Bazaar Malay](https://apics-online.info/contributions/67)\nhttps://en.wikipedia.org/wiki/Baba_Malay\nhttps://www.wikidata.org/entity/Q18642798"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:collins:86**\n**cldf:collins:98**\n**cldf:lewis:ed:09**\n**cldf:np:nd:212**\n**cldf:ofstatistics:00**\n**cldf:pakir:86**\n**cldf:pepandze:05**\n**hh:d:Gwee:Baba-Malay**\n**hh:g:Lee:Baba-Malay**\n**hh:g:Lee:Baba-Malay:2022**\n**hh:g:Pakir:Baba-Malay**\n**hh:g:Thurgood:Babamalay**\n**hh:ld:Chee-Beng:Baba-Malay**\n**hh:s:Lim:Baba-Malay**\n**hh:wsoc:Shellabear:Baba-Malay**"
+  },
+  "altnames": {
+    "multitree": "\nBaba\nChinese Malay\nMalay, Baba\nStraits Malay",
+    "lexvo": "\nBaba Malay [en]",
+    "hhbib_lgcode": "\nChinese Malay-Baba\nMalay-Baba",
+    "elcat": "\nBaba\nBaba Malay\nBahasa Peranakan\nChinese Malay\nMalay\nStraits Malay"
+  },
+  "triggers": {
+    "lgcode": "\nborn\nvariety AND influenced"
+  },
+  "identifier": {
+    "multitree": "mbf",
+    "endangeredlanguages": "421"
+  },
+  "classification": {
+    "sub": "**hh:hs:Paauw:Malay**",
+    "subrefs": "\n**hh:hs:Paauw:Malay**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Baba Malay (421-mbf) = Critically Endangered (100 percent certain, based on the evidence available) [Lee 2014](cldf:lee:14)"
+  }
+}

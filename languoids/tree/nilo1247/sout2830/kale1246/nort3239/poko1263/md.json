@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Pökoot",
+    "hid": "pko",
+    "level": "language",
+    "iso639-3": "pko",
+    "latitude": "1.57023",
+    "longitude": "35.2318",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "KE",
+      "UG"
+    ],
+    "links": "\n[Pokot](https://wals.info/languoid/lect/wals_code_pkt)\n[Pökoot](https://grambank.clld.org/languages/poko1263)\nhttps://en.wikipedia.org/wiki/P%C3%B6koot_language\nhttps://phoible.org/languages/poko1263\nhttps://www.wikidata.org/entity/Q36323"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:baroja:89**\n**eballiso2009:12344**\n**eballiso2009:19264**\n**eballiso2009:19265**\n**eballiso2009:34873**\n**eballiso2009:47733**\n**eballiso2009:49482**\n**eballiso2009:7675**\n**hh:d:Baroja:Pokot**\n**hh:es:Beech:Suk**\n**hh:g:BarojaSikamoyPartany:Pokot**\n**hh:g:Crazzolara:Pokot**\n**hh:hv:Kamuren:Kalenjin**\n**hh:hvw:Distefano:Kalenjin**\n**hh:hvw:vanOtterloo:Kalenjin**\n**hh:hw:Johnston:Uganda:2**\n**hh:typ:TuckerBryan:Pakot**\n**hh:w:MacDonald:Juba-Expedition**\n**mpieva:Herreros1989Analytic**"
+  },
+  "altnames": {
+    "glottolog": "\nPokoot",
+    "wals": "\nPokot",
+    "wals other": "\nPakot\nSuk",
+    "ruhlen (1987)": "\nPokot",
+    "moseley & asher (1994)": "\nPakot",
+    "multitree": "\nPakot\nPokot\nPökoot\nPökot\nSuk",
+    "lexvo": "\nLenga Pökoot [pms]\nPeukouteg [br]\nPökoot [de]\nPökoot language [en]",
+    "hhbib_lgcode": "\nPokot\nSuk\nSūk"
+  },
+  "triggers": {
+    "lgcode": "\npokok\npokot\npakot\nNOT among AND NOT to AND the AND pokot"
+  },
+  "identifier": {
+    "wals": "pkt",
+    "multitree": "pko"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Distefano:Kalenjin**",
+    "subrefs": "\n**hh:hvw:Distefano:Kalenjin**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pökoot (pko-pko) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Berik",
+    "hid": "bkl",
+    "level": "language",
+    "iso639-3": "bkl",
+    "latitude": "-2.26904",
+    "longitude": "138.866",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Berik](https://lexibank.clld.org/languages/johanssonsoundsymbolic-Berik)\n[Berik](https://lexibank.clld.org/languages/transnewguineaorg-berik)\n[Berik](https://wals.info/languoid/lect/wals_code_brk)\nhttps://en.wikipedia.org/wiki/Berik_language\nhttps://www.wikidata.org/entity/Q378743"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:embthimbwat:79**\n**cldf:thimbwat:westrum:etal:79**\n**hh:d:Westrumetal:Berik**\n**hh:e:Oosterwal:Papoeas**\n**hh:e:Oosterwal:Papua**\n**hh:h:vanderLeeden:Sarmische**\n**hh:hew:Oosterwal:Tor**\n**hh:hvld:Voorhoeve:CWTNG**\n**hh:hvw:Clouse:Lakes-Plain**\n**hh:hvw:Voorhoeve:Irian**\n**hh:hw:Galis:NNG**\n**hh:hw:SmitsVoorhoeve:Anceaux:B:I**\n**hh:phon:WestrumWestrum:Berik**\n**hh:s:Westrum:Berik**\n**hh:s:Westrum:Berik:1980**\n**hh:typ:Westrum:Berik**\n**hh:typ:Westrum:Berik-Pronouns**\n**hh:w:LeRoux:Woordenlijsten**\n**hh:w:Stokhof:Holle:5:2**\n**mpieva:Ajamiseba1986Olunggwa**\n**mpieva:Verhaar19751990Miscella**\n**sil16:15254**\n**sil16:17312**\n**sil16:17313**\n**sil16:17314**\n**sil16:18718**\n**sil16:19042**\n**sil16:19043**\n**sil16:19399**\n**sil16:19400**\n**sil16:19401**\n**sil16:19402**\n**sil16:19403**\n**sil16:19404**\n**sil16:20237**\n**sil16:20238**\n**sil16:21837**\n**sil16:21838**\n**sil16:21839**\n**sil16:22187**\n**sil16:26259**\n**sil16:26409**\n**sil16:32818**\n**sil16:35142**\n**sil16:37361**"
+  },
+  "altnames": {
+    "wals": "\nBerik",
+    "wals other": "\nBerik (Tor)",
+    "ruhlen (1987)": "\nBerik",
+    "moseley & asher (1994)": "\nBerik",
+    "multitree": "\nBerick\nBerik\nBerrik\nUpper Tor",
+    "lexvo": "\nBerik [en]",
+    "hhbib_lgcode": "\nBerik (Ac)\nBerrik\nBerrik Papua (Ujang-Samaninteh-Tenwer)\nSewan Sewan papuas live in the basin of the Wiske river and in the Mafin? hills west of the Tor river north coast of New Guinea\nSéwan\nTor"
+  },
+  "triggers": {
+    "lgcode": "\nnebele\ntor\ngagala\njigal\nberik"
+  },
+  "identifier": {
+    "wals": "brk",
+    "multitree": "bkl"
+  },
+  "classification": {
+    "sub": "**hh:hew:Oosterwal:Tor**",
+    "subrefs": "\n**hh:hew:Oosterwal:Tor**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Berik (bkl-bkl) = 6b (Threatened)."
+  }
+}

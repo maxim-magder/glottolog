@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Batak Mandailing",
+    "hid": "btm",
+    "level": "language",
+    "iso639-3": "btm",
+    "latitude": "0.85805",
+    "longitude": "99.898",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mandailing_Batak_language\nhttps://www.wikidata.org/entity/Q2891049"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Eggink:Angkola-Mandailing**\n**hh:s:Lubis:Mandailing**\n**hh:s:Lubis:Mandailing:1979**\n**hh:t:vanOphuijsen:Mandailingsch**\n**hh:w:Stokhof:Holle:Northern-Sumatra**"
+  },
+  "altnames": {
+    "multitree": "\nBatak Mandailing\nBatta\nMandailing Batak",
+    "lexvo": "\nBatak Mandailing [en]",
+    "hhbib_lgcode": "\nBatak-Andong\nBatak-Mandailing"
+  },
+  "triggers": {
+    "lgcode": "\nmandailing\nmandailingsch"
+  },
+  "identifier": {
+    "multitree": "btm"
+  },
+  "classification": {
+    "sub": "**hh:hv:Billings:Sumatran** **hh:hv:Adelaar:Proto-Batak**",
+    "subrefs": "\n**hh:hv:Adelaar:Proto-Batak**\n**hh:hv:Billings:Sumatran**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Batak Mandailing (btm-btm) = 6b (Threatened)."
+  }
+}

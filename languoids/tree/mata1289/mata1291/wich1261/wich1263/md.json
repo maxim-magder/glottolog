@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Vejoz",
+    "hid": "wlv",
+    "level": "language",
+    "iso639-3": "wlv",
+    "latitude": "-24.2189",
+    "longitude": "-61.9117",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "AR",
+      "BO",
+      "PY"
+    ],
+    "links": "\n[Wichí](https://endangeredlanguages.com/lang/1850)\nhttps://www.wikidata.org/entity/Q13526867\nhttps://en.wikipedia.org/wiki/Wich%C3%AD_Lhamt%C3%A9s_Vejoz"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1152**\n**cldf:urquiza:74**\n**hh:d:Braunstein:Matako-Bazanero**\n**hh:d:Gutierrez:Wichi**\n**hh:e:Montani:Wichi**\n**hh:etyp:Pelleschi:Ciacco**\n**hh:g:Hunt:Mataco**\n**hh:g:Nercesian:Wichi**\n**hh:g:Nercesian:Wichi:2014**\n**hh:g:Urquiza:Mataca**\n**hh:hew:dOrbigny:Americain:2**\n**hh:hldb:Portnoy:Argentino**\n**hh:ld:Gerzenstein:Mataco-Oriental**\n**hh:lde:Amerland:Gran-Chaco**\n**hh:phon:Urquiza:Mataca**\n**hh:s:ETUEMDRL:Wichi**\n**hh:s:Harrington:Matako**\n**hh:sd:Hunt:Mataco**\n**hh:sd:Hunt:Vejoz**\n**hh:typ:Pelleschi:Mattaco**\n**hh:w:Combes:Wichi**\n**hh:w:LafoneQuevedo:Vejoz**"
+  },
+  "altnames": {
+    "glottolog": "\nWichi Lhamtes Vejoz\nWichí Lhamtés Vejoz",
+    "multitree": "\nAiyo\nHueshuo\nMataco Vejoz\nVejos\nVejoz\nWichí Lhamtés Vejoz",
+    "lexvo": "\nWichí Lhamtés Vejoz [en]",
+    "hhbib_lgcode": "\nArriba Bermejo\nLa misión Los Baldes y los barrios La Cortada-Primavera-Cacique Catán de Morillo\nMargen Izquierda del rio Bermejo\nMataco of Rio Bermejo\nMataco that Pater Remedi studied which is in the upper Rio Bermejo in Salta province\nMataguaya\nRefers to Hunt so Mataco of Rio Bermejo\nRio Bermejo-Rio Teuco\nShe had one male consultant in his mid-40s from the village of Misión Chaqueña (\"El Algarrobal\") which is about 45 kilometers from Embarcación-Salta (1970 p. 13). Viñas Urquiza acknowledged that her work is more of a description of the idiolect of her informant Guilfredo Ibarra than it is a description of a Wichí dialect (p. 13).\nThe data for Viñas Urquiza's work (1974) came from the two different dialects spoken by her 2 main consultants: (1) Guilfredo Ibarra from Misión Chaqueña (\"El Algarrobal\") and (2) Salomón Martinez from Misión Santa María ()\nVejoz\nWichí Lhamtés Vejoz\nd'Orbigny's Vejoz\nvejoz hablada segun su contemporaneo el padre Doroteo Gionnecchini en Tarija Bolivia desde el rio Orán hasta el rio Seco y hasta el Itiyuru en la zona de la precordillera en la provincia Salta",
+    "elcat": "\nMataco\nMataco Güisnay\nMataco Pilcomayo\nMatako\nPilcomayo Wichí\nWichí\nWichí Lhamtés Güisnay"
+  },
+  "triggers": {
+    "lgcode": "\nmatako\nmataca\nel AND vejoz\nvejoz"
+  },
+  "identifier": {
+    "multitree": "wlv",
+    "endangeredlanguages": "1850"
+  },
+  "classification": {
+    "sub": "**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013** **hh:hv:Nikulin:Mayaguayan**",
+    "subrefs": "\n**hh:hv:Nikulin:Mayaguayan**\n**hh:hv:ViegasBarros:Guaicuru-Mataguayo:2013**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Wichí (1850) = Vulnerable (20 percent certain, based on the evidence available) [Crevels 2012](cldf:crevels:12:3)"
+  }
+}

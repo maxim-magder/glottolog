@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Kickapoo",
+    "hid": "kic",
+    "level": "language",
+    "iso639-3": "kic",
+    "latitude": "41.655145",
+    "longitude": "-89.03034",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "MX",
+      "US"
+    ],
+    "links": "\n[Kickapoo](https://endangeredlanguages.com/lang/4390)\n[Kickapoo](https://wals.info/languoid/lect/wals_code_kic)\nhttps://en.wikipedia.org/wiki/Kickapoo_language\nhttps://www.wikidata.org/entity/Q20162127"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:ed:10**\n**cldf:gathercole:83**\n**cldf:golla:goddard:etal:08**\n**cldf:hockett:38**\n**cldf:jones:13:2**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:morgan:71**\n**cldf:np:nd:264**\n**cldf:voorhis:77**\n**cldf:voorhis:83**\n**cldf:voorhis:88**\n**hh:e:Callender:Kickapoo**\n**hh:g:Voorhis:Kickapoo:PhD**\n**hh:phon:Moctezuma:Kickapoo**\n**hh:phon:Moctezuma:Kikapu**\n**hh:s:Bluecloud:Kickapoo**\n**hh:s:Voorhis:Kickapoo**\n**mpieva:Voorhis1988Kickapoo**"
+  },
+  "altnames": {
+    "wals": "\nKickapoo",
+    "ruhlen (1987)": "\nKickapoo",
+    "multitree": "\nKickapoo\nKickapoo (Kansas)\nKickapoo (Mexique)\nKickapoo (Oklahoma)\nKickapoo (Texas)\nKikapoo\nKikapú\nQuicapú (Texas)",
+    "lexvo": "\nKickapoo [en]",
+    "elcat": "\nKickapoo\nKikapoo\nKikapú",
+    "hhbib_lgcode": "\nKikapu"
+  },
+  "triggers": {
+    "lgcode": "\nkickapoo"
+  },
+  "identifier": {
+    "wals": "kic",
+    "multitree": "kic",
+    "endangeredlanguages": "4390"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Algonquian**",
+    "subrefs": "\n**hh:hv:Goddard:Algonquian**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Kickapoo (4390-kic) = Threatened (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}

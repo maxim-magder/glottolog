@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Hõne",
+    "hid": "juh",
+    "level": "language",
+    "iso639-3": "juh",
+    "latitude": "9.79715",
+    "longitude": "10.9206",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "NG"
+    ],
+    "links": "\n[Hõne](https://endangeredlanguages.com/lang/5848)\n[Hõne](https://grambank.clld.org/languages/hone1235)\nhttps://en.wikipedia.org/wiki/H%C3%B5ne_language\nhttps://www.wikidata.org/entity/Q5964576"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:dimmendaal:voeltz:07**\n**cldf:lewis:ed:09**\n**cldf:storch:04**\n**cldf:storch:09:1**\n**hh:ew:Meek:Jukun**\n**hh:g:Storch:Hone**\n**hh:g:Storch:Hone:1997**\n**hh:hvw:Storch:Zentral-Jukunoid**\n**hh:hw:Williamson:BCCWL:II**\n**hh:hw:WilliamsonShimizu:BCCWL:I**\n**hh:typ:Storch:Hone**"
+  },
+  "altnames": {
+    "glottolog": "\nHone",
+    "multitree": "\nHõne\nNigeria",
+    "lexvo": "\nHõne [en]",
+    "hhbib_lgcode": "\nGwana\nHone",
+    "elcat": "\nGaateri\nHone\nHõne\nKona Jukun\nPindiga-Jukun\nWapan Gwana"
+  },
+  "identifier": {
+    "multitree": "juh",
+    "endangeredlanguages": "5848"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Shimizu:Jukunoid**:25-34",
+    "subrefs": "\n**hh:hvw:Shimizu:Jukunoid**"
+  },
+  "endangerment": {
+    "status": "moribund",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hõne (5848-juh) = Severely Endangered (60 percent certain, based on the evidence available) [Storch 2009](cldf:storch:09:2)"
+  }
+}

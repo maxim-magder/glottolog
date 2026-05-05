@@ -1,0 +1,50 @@
+{
+  "core": {
+    "name": "Onya Darat",
+    "hid": "sdm",
+    "level": "language",
+    "iso639-3": "sdm",
+    "latitude": "-0.75188",
+    "longitude": "110.527",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Kualan](https://wals.info/languoid/lect/wals_code_kua)\n[Semandang](https://wals.info/languoid/lect/wals_code_smd)\nhttps://en.wikipedia.org/wiki/Semandang_language\nhttps://www.wikidata.org/entity/Q7449012"
+  },
+  "sources": {
+    "glottolog": "\n**hh:ew:Alloy:Dayak-Ketapang**\n**hh:ld:Collins:Semandang-Mentuka**\n**hh:phon:Sujarni:Simpang**\n**hh:typ:Tadmor:Onya-Darat**\n**hh:v:Sujarni:Simpang:2004**\n**hh:vld:Shin:Kualan**\n**hh:vw:Shin:Kualan**\n**hh:w:Hudson:Selako**\n**hh:w:Stokhofetal:Holle:8**\n**iso6393:2019-043**"
+  },
+  "altnames": {
+    "wals": "\nSemandang",
+    "ruhlen (1987)": "\nSemandang",
+    "multitree": "\nIndonesia\nSemandang",
+    "lexvo": "\nSemandang [en]",
+    "hhbib_lgcode": "\nKualan\nKualan Onya Darat\nMatan\nMeraban (Simpang)\nSemandang\nSimpang"
+  },
+  "identifier": {
+    "wals": "smd",
+    "multitree": "sdm"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:139-168 **hh:hv:SmithRama:Borneo**:205",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:SmithRama:Borneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E22",
+    "date": "2025-03-19T11:52:53",
+    "comment": "Semandang (sdm-sdm) = 6a* (Vigorous)."
+  },
+  "iso_retirement": {
+    "code": "sdm",
+    "name": "Semandang",
+    "effective": "2020-01-23",
+    "reason": "split",
+    "change_to": "\nsdq\nebc\ngef",
+    "remedy": "Split into Semandang [sdq], Beginci [ebc] and Gerai [gef]",
+    "change_request": "2019-043"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Chut",
+    "hid": "scb",
+    "level": "language",
+    "iso639-3": "scb",
+    "latitude": "17.6819",
+    "longitude": "105.773",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "LA",
+      "VN"
+    ],
+    "links": "\n[Sach](https://endangeredlanguages.com/lang/1215)\nhttps://en.wikipedia.org/wiki/Chut_languages\nhttps://www.wikidata.org/entity/Q2967709"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:1992**\n**asjp2010:3166**\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:e:Thanh:Ruc**\n**hh:ew:Cadiere:Nguon**\n**hh:ew:Fraisse:Nam-Om**\n**hh:ew:Guignard:Tac-Cui**\n**hh:ew:Phongetal:Ruc**\n**hh:h:Chamberlain:Nakai**\n**hh:he:Schliesinger:Vietnam:Profiles**\n**hh:hv:Alves:Ruc**\n**hh:hv:Ferlus:Viet-Muong**\n**hh:ld:Solntsev:Ruc**\n**hh:phonv:Doi:Chut**\n**hh:s:Loi:Ruc**\n**hh:sd:Solntsev:Ruk**\n**hh:std:BabaevSamarina:Maj**\n**hh:std:BabaevSamarina:Maj:2021**\n**hh:w:Cheon:Nguon-Sac-Muong**\n**sil16:41973**"
+  },
+  "altnames": {
+    "multitree": "\nChut\nKha\nMay\nRuc\nSach\nSalang",
+    "lexvo": "\nChut [en]\nChut language [en]\nภาษาชุต [th]",
+    "hhbib_lgcode": "\nChứt\nKha Mu Gia\nKha Thong Luong\nMaj\nMay\nRuc\nRuk\nSac\nSauvages de Nam-Om\nSác\nTac Cui",
+    "elcat": "\nChut\nKha\nMay\nRuc\nSach\nSalang"
+  },
+  "triggers": {
+    "lgcode": "\nchut\nmontagnes\nruc\nhistort\nvietnames\nvietnamien AND ruc"
+  },
+  "identifier": {
+    "multitree": "chut;scb",
+    "endangeredlanguages": "1215"
+  },
+  "classification": {
+    "sub": "**hh:hv:Sidwell:Austroasiatic:2015**:205",
+    "subrefs": "\n**hh:hv:Sidwell:Austroasiatic:2015**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:15",
+    "comment": "Sach (1215-scb) = Endangered (20 percent certain, based on the evidence available) [Bradley 2007](cldf:bradley:07)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Ma'anyan",
+    "hid": "mhy",
+    "level": "language",
+    "iso639-3": "mhy",
+    "latitude": "-2.1239",
+    "longitude": "115.092",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID"
+    ],
+    "links": "\n[Ma'anyan](https://grambank.clld.org/languages/maan1238)\n[Ma'anyan](https://wals.info/languoid/lect/wals_code_myn)\nhttps://en.wikipedia.org/wiki/Ma%CA%BCanyan_language\nhttps://www.wikidata.org/entity/Q2328761"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:gudai:88**\n**cldf:sundermann:13:1**\n**hh:d:Rubay:Maanyan**\n**hh:g:Gudai:Maanyan**\n**hh:h:Sugono:Indonesia**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hld:Clayre:Focus-Borneo**\n**hh:hv:Hudson:Sarawak**\n**hh:hvs:Dahl:Malgache-Maanjan**\n**hh:hvw:Durasid:Barito**\n**hh:hvw:Hudson:Barito**\n**hh:hvw:Hudson:Padju-Epat**\n**hh:hvw:Smith:Borneo**\n**hh:phon:Darmansyah:Maanyan**\n**hh:phon:Iper:Maanyan**\n**hh:s:Kawi:Maanyan**\n**hh:s:Sundermann:Olon**\n**hh:typ:Ngabut:Maanyan**\n**hh:typsoc:Mage:Pangunraun**\n**hh:w:Stokhofetal:Holle:8**\n**hh:w:denHamer:Borneo**"
+  },
+  "altnames": {
+    "wals": "\nMa'anyan",
+    "wals other": "\nMaanyan",
+    "ruhlen (1987)": "\nSouth East (Ma'anyan)",
+    "moseley & asher (1994)": "\nMa'anyan",
+    "multitree": "\nDayak\nMa'anjan\nMa'anyan\nMaanyak Dayak",
+    "lexvo": "\nBahasa Maanyan [id]\nLenga Ma'anyan [pms]\nMa'anjan [nl]\nMa'anyan [en]\nMa'anyan language [en]\nMa'anyančina [sk]",
+    "hhbib_lgcode": "\nMa'anjan\nMaanyan\nPangunraun ritual language\nSamihim\nSihoang\nSihong"
+  },
+  "triggers": {
+    "lgcode": "\nisolects\nhudson\ndajak\nmaanjan\nmaanyan"
+  },
+  "identifier": {
+    "wals": "myn",
+    "multitree": "mhy"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:169-182 **hh:hv:Blust:NBorneo**",
+    "subrefs": "\n**hh:hvw:Smith:Borneo**\n**hh:hv:Blust:NBorneo**"
+  },
+  "endangerment": {
+    "status": "threatened",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ma’anyan (mhy-mhy) = 6b* (Threatened)."
+  }
+}

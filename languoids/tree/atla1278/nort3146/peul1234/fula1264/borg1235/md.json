@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Borgu Fulfulde",
+    "hid": "fue",
+    "level": "language",
+    "iso639-3": "fue",
+    "latitude": "9.801",
+    "longitude": "3.988",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BJ",
+      "NG"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Borgu_Fulfulde\nhttps://www.wikidata.org/entity/Q12952426"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Sow:Fulfulde**\n**hh:e:Bierschenk:Fulbe-Nordbenins**\n**hh:h:Harrison:Fulfulde**\n**hh:typ:Harrison:Fulfulde-Proper**\n**mpieva:Heusing1997Aspectso**\n**sil16:42663**"
+  },
+  "altnames": {
+    "multitree": "\nBenin-Togo Fulfulde\nBorgu Fulfulde\nFulah-Idiome\nFulani\nFulbe-Borgu\nFulfulde, Borgu\nPeul\nPeulh",
+    "lexvo": "\nBorgu Fulfulde [en]",
+    "hhbib_lgcode": "\nDahomey\nFulfulde Borgu (Benin)"
+  },
+  "triggers": {
+    "lgcode": "\nnordbenins\nwirtschaftsweise\npeulh"
+  },
+  "identifier": {
+    "multitree": "fue"
+  },
+  "classification": {
+    "sub": "**hh:g:Breedveld:Maasinankore**:6-13",
+    "subrefs": "\n**hh:g:Breedveld:Maasinankore**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Fulfulde, Borgu (fue-fue) = 5 (Developing)."
+  }
+}

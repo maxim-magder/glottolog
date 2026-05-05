@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Cowlitz",
+    "hid": "cow",
+    "level": "language",
+    "iso639-3": "cow",
+    "latitude": "46.4167",
+    "longitude": "-122.917",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Cowlitz](https://grambank.clld.org/languages/cowl1242)\nhttps://en.wikipedia.org/wiki/Cowlitz_language\nhttps://www.wikidata.org/entity/Q3001877",
+    "timespan": "1965-01-01/1965-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**haspelmath:matthewson_cowlitz_2011**\n**hh:e:Hajda:Southwestern-Coast-Salish**\n**hh:hv:Swadesh:Salish:1950**\n**hh:sd:Kinkade:Cowlitz**"
+  },
+  "altnames": {
+    "multitree": "\nCowlitz\nLower Cowlitz\nSƛ'púmš\nsƛʼpúlmš",
+    "lexvo": "\nCowlitz [en]\nCowlitz language [en]",
+    "hhbib_lgcode": "\nCowlitz Cw"
+  },
+  "triggers": {
+    "lgcode": "\ncowlitz"
+  },
+  "identifier": {
+    "multitree": "cow"
+  },
+  "classification": {
+    "sub": "**hh:hv:Czaykowska-HigginsKinkade:Salish**",
+    "subrefs": "\n**hh:hv:Czaykowska-HigginsKinkade:Salish**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Cowlitz (798-cow) = Extinct"
+  }
+}

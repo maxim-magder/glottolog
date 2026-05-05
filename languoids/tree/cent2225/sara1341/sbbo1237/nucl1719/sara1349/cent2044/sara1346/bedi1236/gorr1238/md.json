@@ -1,0 +1,41 @@
+{
+  "core": {
+    "name": "Gor",
+    "hid": "gqr",
+    "level": "language",
+    "iso639-3": "gqr",
+    "latitude": "8.0841",
+    "longitude": "17.0713",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "CF",
+      "TD"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q759992"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Mercietal:Gor**\n**hh:hvd:Keegan:Central-Sara**\n**hh:hvw:Huguet:Sara-Tchad**\n**hh:hwdial:Johnson:Doba**\n**hh:hwsoc:IsaacJohnson:Doba**\n**hh:phon:Roberts:Gor**\n**sil16:41855**"
+  },
+  "altnames": {
+    "multitree": "\nBodo\nGor",
+    "lexvo": "\nGor [en]"
+  },
+  "triggers": {
+    "lgcode": "\nbedjond AND bebot"
+  },
+  "identifier": {
+    "multitree": "gqr"
+  },
+  "classification": {
+    "sub": "**hh:hv:Djarangar:Sara**",
+    "subrefs": "\n**hh:hv:Djarangar:Sara**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Gor (gqr-gqr) = 5* (Developing)."
+  }
+}

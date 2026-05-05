@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Arawá (Amazonas State)",
+    "hid": "aru",
+    "level": "language",
+    "iso639-3": "aru",
+    "latitude": "-5.5",
+    "longitude": "-67.98",
+    "macroareas": [
+      "South America"
+    ],
+    "countries": [
+      "BR"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q2746221\nhttps://en.wikipedia.org/wiki/Araw%C3%A1_language",
+    "timespan": "1877-01-01/1877-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:w:Chandless:Jurua**\n**iso6393:2007-054**"
+  },
+  "altnames": {
+    "glottolog": "\nArua (Amazonas State)\nAruá (Amazonas State)",
+    "multitree": "\nArauan\nArauá\nArawa\nArawá\nAroã\nArua\nAruá\nAruán\nArúan\nMadi",
+    "lexvo": "\nArawá [en]\nAruá (Amazonas State) [en]\nAruá [en]",
+    "hhbib_lgcode": "\nArawá"
+  },
+  "triggers": {
+    "lgcode": "\n520"
+  },
+  "identifier": {
+    "multitree": "aru"
+  },
+  "classification": {
+    "sub": "**hh:hv:Dienst:Arawan**",
+    "subrefs": "\n**hh:hv:Dienst:Arawan**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Aruá (Amazonas State) (aru-aru) = 10 (Extinct)."
+  }
+}

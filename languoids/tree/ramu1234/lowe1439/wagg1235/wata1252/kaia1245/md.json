@@ -1,0 +1,44 @@
+{
+  "core": {
+    "name": "Kaian",
+    "hid": "kct",
+    "level": "language",
+    "iso639-3": "kct",
+    "latitude": "-4.06543",
+    "longitude": "144.756",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Kaian](https://endangeredlanguages.com/lang/10646)\nhttps://www.wikidata.org/entity/Q6347538\nhttps://en.wikipedia.org/wiki/Kaian_language\n[Kaian](https://wals.info/languoid/lect/wals_code_kai)"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:hammarstroem:forkel:etal:14**\n**cldf:lewis:paul:etal:ed:15**\n**hh:e:vonPoser:Kayan**\n**hh:h:Zgraggen:CNENewGuinea**\n**hh:hv:Foley:Sepik-Ramu**\n**hh:hv:Laycock:Sepik**\n**hh:hvld:Zgraggen:Madang**\n**hh:soc:Paris:Lower-Ramu**\n**hh:w:Zgraggen:Ramu**\n**hh:w:Zgraggen:Ramu:1974**"
+  },
+  "altnames": {
+    "wals": "\nKaian",
+    "ruhlen (1987)": "\nKaian",
+    "moseley & asher (1994)": "\nKaian",
+    "multitree": "\nKaian\nKayan",
+    "lexvo": "\nKaian [en]",
+    "hhbib_lgcode": "\nKayan",
+    "elcat": "\nKaian\nKayan"
+  },
+  "identifier": {
+    "wals": "kai",
+    "multitree": "kct",
+    "endangeredlanguages": "10646"
+  },
+  "classification": {
+    "sub": "**hh:hv:Foley:Sepik:2013**",
+    "subrefs": "\n**hh:hv:Foley:Sepik:2013**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Kaian (10646-kct) = Threatened (80 percent certain, based on the evidence available) (All the children in Kayan learn the Kayan language first and use it actively with all members of society including other children.) [Paris 2015](cldf:paris:15)"
+  }
+}

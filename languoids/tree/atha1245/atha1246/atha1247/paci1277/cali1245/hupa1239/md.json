@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Hupa-Chilula",
+    "hid": "hup",
+    "level": "language",
+    "iso639-3": "hup",
+    "latitude": "41.0982",
+    "longitude": "-123.68",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Hupa](https://endangeredlanguages.com/lang/1862)\n[Hupa](https://wals.info/languoid/lect/wals_code_hup)\nhttps://en.wikipedia.org/wiki/Hupa_language\nhttps://phoible.org/languages/hupa1239\nhttps://www.wikidata.org/entity/Q28058"
+  },
+  "sources": {
+    "glottolog": "\n**anla:ANLC0757**\n**anla:ANLC0758**\n**anla:CA851T1851**\n**anla:CA854B1860a**\n**anla:CA871P1877**\n**anla:CA891M1917**\n**anla:CA913S1927**\n**anla:CA913S1936a**\n**anla:CA913S1936c**\n**anla:CA913SK1913**\n**anla:CA920G1908**\n**anla:CA927L1927**\n**anla:CA938H1960a**\n**anla:CA938H1966**\n**anla:CA955H1955**\n**anla:CA963G1975**\n**anla:CA963G1997**\n**anla:CA965L1974a**\n**anla:CA965L1975e**\n**anla:CA965L1975f**\n**anla:CA965L1975g**\n**anla:CA965L1976b**\n**anla:CA965L1977c**\n**anla:CA965Ln1976b**\n**anla:CA968D1968**\n**anla:CA968G1968**\n**anla:CA977S1977b**\n**anla:CA986HFC1986**\n**asjp2010:1373**\n**asjp2010:4163**\n**cldf:ahlers:96**\n**cldf:anonymous:83:2**\n**cldf:baumhoff:58**\n**cldf:baumhoff:63**\n**cldf:campbell:08**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:56**\n**cldf:driver:39**\n**cldf:ed:10**\n**cldf:embick:96**\n**cldf:gifford:26:1**\n**cldf:goddard:03:2**\n**cldf:goddard:03:3**\n**cldf:goldschmidt:driver:40**\n**cldf:golla:ed:28**\n**cldf:golla:goddard:etal:08**\n**cldf:gordon:96**\n**cldf:kroeber:34**\n**cldf:kroeber:gifford:49**\n**cldf:lewis:ed:09**\n**cldf:librik:beeler:ed:96:1**\n**cldf:np:83:2**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**cldf:sapir:golla:01**\n**cldf:stolz:96**\n**cldf:taylor:47**\n**cldf:wallace:47:1**\n**cldf:wallace:49**\n**cldf:wallace:taylor:50**\n**cldf:woodward:64**\n**hh:d:Golla:Hupa**\n**hh:e:Wallace:Hupa**\n**hh:g:Goddard:Hupa**\n**hh:g:Goddard:Hupa:1904**\n**hh:g:Golla:Hupa**\n**hh:hvb:Golla:California**\n**hh:s:Goddard:Hupa**\n**hh:s:Golla:Hupa**\n**hh:s:Golla:Hupa:1994**\n**hh:std:Sapir:Hupa**\n**hh:t:Goddard:Chilula**\n**hh:t:Goddard:Hupa**\n**mpieva:Goddard1907Thephono**\n**mpieva:Goddard1928Pitchacc**"
+  },
+  "altnames": {
+    "wals": "\nHupa",
+    "ruhlen (1987)": "\nHupa",
+    "moseley & asher (1994)": "\nHupa",
+    "multitree": "\nHoopa\nHoopa-Chilula\nHupa\nHupa-Chilula-Whilkut",
+    "lexvo": "\nHupa [en]\nHupa language [en]\nhupa [fr]\nХупа [ru]",
+    "hhbib_lgcode": "\nChilula\nHupa",
+    "elcat": "\nHoopa\nHoopa-Chilula\nHupa\nHupa-Chilula-Whilkut",
+    "glottolog": "\nHupa"
+  },
+  "triggers": {
+    "lgcode": "\nhupa\nNOT morphology AND hupa\nchilula"
+  },
+  "identifier": {
+    "wals": "hup",
+    "multitree": "hup",
+    "endangeredlanguages": "1862"
+  },
+  "classification": {
+    "sub": "**hh:hvb:Golla:California**",
+    "subrefs": "\n**hh:hvb:Golla:California**"
+  },
+  "endangerment": {
+    "status": "nearly extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Hupa (1862-hup) = Critically Endangered (20 percent certain, based on the evidence available) [n.a. n.d.](cldf:np:nd:264)"
+  }
+}

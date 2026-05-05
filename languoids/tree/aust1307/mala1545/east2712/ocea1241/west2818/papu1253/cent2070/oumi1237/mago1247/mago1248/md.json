@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Magori",
+    "hid": "zgr",
+    "level": "language",
+    "iso639-3": "zgr",
+    "latitude": "-10.2321",
+    "longitude": "149.26",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "PG"
+    ],
+    "links": "\n[Magori](https://endangeredlanguages.com/lang/2267)\n[Magori (South East Papua)](https://lexibank.clld.org/languages/abvdoceanic-MagoriSouthEastPapua)\nhttps://en.wikipedia.org/wiki/Magori_language\nhttps://www.wikidata.org/entity/Q3277370"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:nd:264**\n**hh:h:Dutton:Intercultural-Papua**\n**hh:h:Dutton:Papuan-Response**\n**hh:hv:Dutton:Austronesian-ESE-Papua**\n**hh:hv:Dutton:Melanesia**\n**hh:hv:Dutton:Southeast-Mainland-Papua**\n**hh:hv:Pawley:Austronesian-Papua**\n**hh:hv:Ross:WMelanesia**\n**hh:hvwld:Dutton:Magori**\n**hh:hw:Ray:ESEPapua**\n**hh:w:Bastard:Magori**"
+  },
+  "altnames": {
+    "multitree": "\nMagori\nYoba",
+    "lexvo": "\nMagori [en]",
+    "hhbib_lgcode": "\nMagori - Ray thought this was Papuan",
+    "elcat": "\nMagori"
+  },
+  "triggers": {
+    "lgcode": "\nmagori"
+  },
+  "identifier": {
+    "multitree": "zgr",
+    "endangeredlanguages": "2267"
+  },
+  "classification": {
+    "sub": "**hh:hvwld:Dutton:Magori**",
+    "subrefs": "\n**hh:hvwld:Dutton:Magori**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Magori (2267-zgr) = Endangered (40 percent certain, based on the evidence available) [Wurm 2007](cldf:wurm:07:1)"
+  }
+}

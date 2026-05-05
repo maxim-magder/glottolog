@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Nuristani Kalasha",
+    "hid": "wbk",
+    "level": "language",
+    "iso639-3": "wbk",
+    "latitude": "35.191171",
+    "longitude": "70.993533",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "AF"
+    ],
+    "links": "\n[Waigali](https://endangeredlanguages.com/lang/3363)\n[Waigali](https://wals.info/languoid/lect/wals_code_wgl)\nhttps://en.wikipedia.org/wiki/Nuristani_Kalasha_language\nhttps://www.wikidata.org/entity/Q34196"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:comrie:gil:etal:ed:05**\n**cldf:degener:02**\n**cldf:ed:10**\n**cldf:edelman:94**\n**cldf:lewis:ed:09**\n**cldf:nichols:92**\n**cldf:np:12:5**\n**cldf:np:nd:212**\n**cldf:np:nd:264**\n**hh:d:Taza:Kalasa**\n**hh:e:Katz:Vaygal**\n**hh:e:Tanner:Chugani**\n**hh:ew:Lumsden:Kandahar**\n**hh:g:Degener:Nisheygram**\n**hh:hv:Hegedus:Proto-Nuristani**\n**hh:hv:Nelson:Nuristani**\n**hh:hvw:Grierson:8:II**\n**hh:sd:Morgenstierne:Waigali**\n**hh:typ:Grjunberg:Dardskix**\n**hh:v:Hamp:Kafir**"
+  },
+  "altnames": {
+    "wals": "\nWaigali",
+    "moseley & asher (1994)": "\nKalasha-Ala",
+    "multitree": "\nKalasa-alā\nKalasha-ala\nVaigalí\nWai-alā\nWaigali\nWaigalī\nWaigeli",
+    "lexvo": "\nJęzyk kalasza-ala [pl]\nWaigali [en]\nWaigali language [en]\nВайгали [bg]\nภาษากาลาซาอลา [th]",
+    "hhbib_lgcode": "\nKaffir lg spoken in Traieguma and Waigul\nKafir\nKalasha Ala\nKalasə alā\nNisheygram\nVaygal\nWai-Ala\nWaigali\nZemiaki",
+    "elcat": "\nKalasa-alā\nKalasha-ala\nWai-alā\nWaigali\nWaigalī\nWaigeli\nWaygalī",
+    "glottolog": "\nWaigali"
+  },
+  "triggers": {
+    "lgcode": "\nnisheygram\nchugani\nwaigali"
+  },
+  "identifier": {
+    "wals": "wgl",
+    "multitree": "wbk",
+    "endangeredlanguages": "3363"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hegedus:Proto-Nuristani**:162-164",
+    "subrefs": "\n**hh:hv:Hegedus:Proto-Nuristani**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Waigali (3363-wbk) = Threatened (20 percent certain, based on the evidence available) [Lewis 2009](cldf:lewis:ed:09)"
+  }
+}

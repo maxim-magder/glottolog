@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Xinca-Chiquimulilla",
+    "hid": "NOCODE_Xinca-Chiquimulilla",
+    "level": "language",
+    "latitude": "14.083301",
+    "longitude": "-90.380259",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "GT"
+    ],
+    "links": "\n[Chiquimulilla Xinka](https://endangeredlanguages.com/lang/9709)\n[Xinca-Chiquimulilla](https://grambank.clld.org/languages/xinc1242)\nhttps://en.wikipedia.org/wiki/Chiquimulilla_Xinca\nhttps://www.wikidata.org/entity/Q25339627",
+    "timespan": "1975-01-01/1975-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:campbell:13:1**\n**cldf:np:nd:212**\n**cldf:rogers:11**\n**hh:hv:Campbell:Middle**\n**hh:hvs:Rogers:Xinkan**\n**hh:hvs:Rogers:Xinkan:2016**\n**hh:hw:Lehmann:Zentral-Amerika:I**\n**hh:phon:Schumann:Xinca-Chiquimulilla**\n**hh:s:Calderon:Yupiltepeque-Chiquimulilla**\n**hh:v:Campbell:Xinca**\n**hh:w:Fernandez:Sinca**\n**hh:w:McArthur:Xinca**\n**hh:w:MejiaDavila:Xinca**"
+  },
+  "triggers": {
+    "lgcode": "\nsinca\nchiquimulilla"
+  },
+  "hh_ethnologue_comment": {
+    "comment": "Xinca [xin] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29 as an unclassified language. In reality, there are at least four, perhaps five, different attested languages which may be divided as Xinca of Yupiltepeque, Xinca of Guazacapán, Xinca of Sinacantan, Xinca of Jumaytepeque and Xinca of Chiquimulilla (**hh:g:Sachse:Xinka**:49-53). See also: Xinca [xin].",
+    "comment_type": "Missing",
+    "ethnologue_versions": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26/E27/E28/E29",
+    "isohid": "NOCODE_Xinca-Chiquimulilla"
+  },
+  "classification": {
+    "sub": "**hh:g:Sachse:Xinka**:48-49",
+    "subrefs": "\n**hh:g:Sachse:Xinka**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Chiquimulilla Xinka (9709) = Awakening (Over the last 100 years there has been a sharp decline in the number of native speakers of Xinkan languages (see Sachse 2010:35-8 for a good overview of historical census figures of the Xinkan population).) [Rogers 2011](cldf:rogers:11)"
+  },
+  "altnames": {
+    "hhbib_lgcode": "\nChiquimulilla\nChiquimulteca\nSinca\nSinca de Jesús Fernández\nXinca-Chiquimulilla Sapper-Calderon",
+    "elcat": "\nChiguimuliya\nChiquimulilla Xinka"
+  },
+  "identifier": {
+    "endangeredlanguages": "9709"
+  }
+}

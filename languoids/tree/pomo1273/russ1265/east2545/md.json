@@ -1,0 +1,49 @@
+{
+  "core": {
+    "name": "Eastern Pomo",
+    "hid": "peb",
+    "level": "language",
+    "iso639-3": "peb",
+    "latitude": "38.5647",
+    "longitude": "-122.586",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Eastern Pomo](https://endangeredlanguages.com/lang/863)\n[Eastern Pomo](https://grambank.clld.org/languages/east2545)\n[Pomo (Eastern)](https://wals.info/languoid/lect/wals_code_pme)\nhttps://en.wikipedia.org/wiki/Eastern_Pomo_language\nhttps://www.wikidata.org/entity/Q3396032",
+    "timespan": "2008-01-01/2008-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**asjp2010:654**\n**cldf:aginsky:aginsky:67**\n**cldf:barrett:16**\n**cldf:barrett:17:1**\n**cldf:barrett:52**\n**cldf:baumhoff:63**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:cook:56**\n**cldf:freeland:23**\n**cldf:gifford:23**\n**cldf:gifford:26:1**\n**cldf:gifford:26:2**\n**cldf:gifford:kroeber:37**\n**cldf:golla:07**\n**cldf:golla:goddard:etal:08**\n**cldf:kniffen:39**\n**cldf:kroeber:29:1**\n**cldf:kroeber:53**\n**cldf:lim:nd**\n**cldf:loeb:26:2**\n**cldf:loeb:32**\n**cldf:mclendon:78**\n**cldf:stewart:43**\n**hh:d:McLendon:Eastern-Pomo**\n**hh:e:McLendonLowy:ESEPomo**\n**hh:g:McLendon:EPomo**\n**hh:g:McLendon:Eastern-Pomo**\n**hh:hew:Barrett:Pomo**\n**hh:hvb:Golla:California**\n**hh:s:McLendon:Pomo**\n**mpieva:Walker2005Aguideto**\n**zurich:Mc1996**\n**zurich:McLendon1978**\n**zurich:McLendon2003**"
+  },
+  "altnames": {
+    "wals": "\nPomo (Eastern)",
+    "wals other": "\nClear Lake Pomo\nE Pomo\nE. Pomo\nEastern Pomo",
+    "ruhlen (1987)": "\nPomoan",
+    "moseley & asher (1994)": "\nPomo (Eastern)",
+    "multitree": "\nClear Lake\nClear Lake Pomo\nEast Pomo\nEastern\nEastern Pomo\nEastern Pomoan Subfamily\nPomo (Eastern)\nPomo oriental\nPomo, Eastern\nSoutheast Clear Lake Pomo\nWest Clear Lake Pomo",
+    "lexvo": "\nEastern Pomo [en]\nEastern Pomo language [en]\nOostelijk Pomo [nl]\nPomo oriental [fr]",
+    "hhbib_lgcode": "\nPomo-Eastern",
+    "elcat": "\nClear Lake\nClear Lake Pomo\nEast Pomo\nEastern\nEastern Pomo\nPomo\nPomo (Eastern)\nSoutheast Clear Lake Pomo\nWest Clear Lake Pomo"
+  },
+  "triggers": {
+    "lgcode": "\npomo AND eastern"
+  },
+  "identifier": {
+    "wals": "genus/pomoan",
+    "multitree": "easn;peb",
+    "endangeredlanguages": "863"
+  },
+  "classification": {
+    "sub": "**hh:hv:McLendon:Pomoan:2006**",
+    "subrefs": "\n**hh:hv:McLendon:Pomoan:2006**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Pomo, Eastern (peb-peb) = 9 (Dormant). Language of registered tribe: Big Valley Band of Pomo Indians of the Big Valley Rancheria, Habematolel Pomo of Upper Lake, Middletown Rancheria of Pomo Indians of California, Robinson Rancheria, Scotts Valley Band of Pomo Indians of California."
+  }
+}

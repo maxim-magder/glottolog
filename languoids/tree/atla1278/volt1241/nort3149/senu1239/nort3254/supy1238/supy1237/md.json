@@ -1,0 +1,48 @@
+{
+  "core": {
+    "name": "Supyire Senoufo",
+    "hid": "spp",
+    "level": "language",
+    "iso639-3": "spp",
+    "latitude": "11.632",
+    "longitude": "-5.87709",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "BF",
+      "CI",
+      "ML"
+    ],
+    "links": "\n[Supyire](https://wals.info/languoid/lect/wals_code_sup)\n[Supyire Senoufo](https://grambank.clld.org/languages/supy1237)\nhttps://en.wikipedia.org/wiki/Supyire_language\nhttps://www.wikidata.org/entity/Q56284"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:carlson:00**\n**cldf:carlson:03**\n**cldf:carlson:83**\n**eballiso2009:19908**\n**eballiso2009:28105**\n**eballiso2009:37483**\n**eballiso2009:37485**\n**eballiso2009:37486**\n**eballiso2009:37488**\n**eballiso2009:37489**\n**eballiso2009:37490**\n**eballiso2009:426**\n**eballiso2009:427**\n**eballiso2009:436**\n**eballiso2009:59371**\n**eballiso2009:8753**\n**hh:g:Carlson:Supyire**\n**hh:g:Carlson:Supyire:1990**\n**hh:hbtyp:MieheWinkelmann:Gur**\n**hh:s:Welmers:Supide**\n**hh:typ:Berthe:Senoufo**\n**hh:typ:Coulibaly:Senoufo**\n**sil16:18512**\n**sil16:19862**\n**sil16:21304**\n**sil16:32901**\n**sil16:34486**\n**sil16:38436**\n**sil16:39452**\n**sil16:39467**\n**sil16:39468**\n**sil16:44362**\n**sil16:45969**\n**sil16:47222**\n**sil16:47399**\n**sil16:48753**\n**sil16:49046**\n**sil16:49498**\n**sil16:51316**"
+  },
+  "altnames": {
+    "wals": "\nSupyire",
+    "wals other": "\nKampwo dialect\nSupyire\nSupyire (Kampwo)",
+    "ruhlen (1987)": "\nSupyire",
+    "moseley & asher (1994)": "\nSuppire",
+    "multitree": "\nSenoufo (Supyire)\nSenoufo, Supyire\nSup'ide\nSupide\nSuppire\nSupyire",
+    "lexvo": "\nSoupyireg [br]\nSupyire Senoufo [en]\nSupyire language [en]",
+    "hhbib_lgcode": "\nKlaudia Dombrowsky-Hahn: G2. Supyire\nSupyire"
+  },
+  "triggers": {
+    "lgcode": "\nsupyire\nyyeeni\njofoo\nsupide\nminyanka"
+  },
+  "identifier": {
+    "wals": "sup",
+    "multitree": "spp"
+  },
+  "classification": {
+    "sub": "**hh:g:Garber:Senufo-Sucite**",
+    "subrefs": "\n**hh:g:Garber:Senufo-Sucite**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Sénoufo, Supyire (spp-spp) = 5 (Developing)."
+  }
+}

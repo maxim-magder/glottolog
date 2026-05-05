@@ -1,0 +1,42 @@
+{
+  "core": {
+    "name": "Humla",
+    "hid": "hut",
+    "level": "language",
+    "iso639-3": "hut",
+    "latitude": "30.1451",
+    "longitude": "81.5659",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "CN",
+      "NP"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Humla_Tibetan_language\nhttps://phoible.org/languages/huml1238\nhttps://www.wikidata.org/entity/Q17588918"
+  },
+  "sources": {
+    "glottolog": "\n**hh:e:Rauber:Humli**\n**hh:phon:Wilde:Limi-Bhotiya**\n**hh:wsoc:deVries:Humla-Tibetan**"
+  },
+  "altnames": {
+    "multitree": "\nDangali\nHumla\nHumla \"Bhotia\"\nPhoke",
+    "lexvo": "\nHumla [en]",
+    "hhbib_lgcode": "\nBargaun\nDojam\nHepka/Yakpa\nHumli-Khyampas\nLimi"
+  },
+  "triggers": {
+    "lgcode": "\nhumla"
+  },
+  "identifier": {
+    "multitree": "hut"
+  },
+  "classification": {
+    "sub": "**hh:hv:TournadreSuzuki:Tibetic**",
+    "subrefs": "\n**hh:hv:TournadreSuzuki:Tibetic**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "UNESCO",
+    "date": "2017-08-19T22:02:46",
+    "comment": "Limirong Tibetan (1153-) = Definitely endangered"
+  }
+}

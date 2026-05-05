@@ -1,0 +1,46 @@
+{
+  "core": {
+    "name": "Eastern Kayah",
+    "hid": "eky",
+    "level": "language",
+    "iso639-3": "eky",
+    "latitude": "19.8939",
+    "longitude": "98.3359",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "MM",
+      "TH"
+    ],
+    "links": "\n[Eastern Kayah](https://grambank.clld.org/languages/east2342)\n[Kayah Li (Eastern)](https://wals.info/languoid/lect/wals_code_kyl)\nhttps://www.wikidata.org/entity/Q25559417"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:solnit:86**\n**hh:ew:Gandasena:Red-Karens**\n**hh:g:Solnit:EKayahLi**\n**hh:hew:Dalton:Bengal**\n**hh:hew:Scott-Hardiman:Burma-Shan**\n**hh:hld:Grierson:12:Burma**\n**hh:hld:Namkung:Tibeto-Burman**\n**hh:hvw:Kauffman:Central-Karen**\n**hh:s:Brown:Red-Karen**\n**hh:s:Solnit:EKayah**\n**hh:s:Solnit:Eastern-Kayah-Li:2017**\n**hh:s:Solnit:Kayah**\n**hh:w:Houghton:Red-Karen**\n**hh:wsoc:KirklandDawkins:Eastern-Kayah-Li**\n**sil16:42627**"
+  },
+  "altnames": {
+    "wals": "\nKayah Li (Eastern)",
+    "wals other": "\nE Kayah\nEastern Kayah\nEastern Kayah Li\nKaren (Red)\nKayah Li",
+    "moseley & asher (1994)": "\nKayah",
+    "multitree": "\nEastern\nEastern Kayah Li\nKarenni\nKarennyi\nKaya\nKayah\nKayah Li\nKayah Li (Eastern)\nKayah, Eastern\nKayah,Eastern\nKayay\nRed Karen",
+    "lexvo": "\nEastern Kayah [en]",
+    "hhbib_lgcode": "\nKaren-ni\nKarenni (Red Karen)\nKayah-Eastern\nLaren E Kayah/Red Karen\nRed Karen"
+  },
+  "triggers": {
+    "lgcode": "\neastern AND kayah"
+  },
+  "identifier": {
+    "wals": "kyl",
+    "multitree": "eky"
+  },
+  "classification": {
+    "sub": "**hh:hv:Manson:Kayan-Karen**",
+    "subrefs": "\n**hh:hv:Manson:Kayan-Karen**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kayah, Eastern (eky-eky) = 5 (Developing)."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "core": {
+    "name": "Ila",
+    "hid": "ilb",
+    "level": "language",
+    "iso639-3": "ilb",
+    "latitude": "-15.60807",
+    "longitude": "26.45548",
+    "macroareas": [
+      "Africa"
+    ],
+    "countries": [
+      "ZM"
+    ],
+    "links": "\n[Ila](https://grambank.clld.org/languages/ilaa1246)\n[Ila](https://wals.info/languoid/lect/wals_code_ila)\nhttps://en.wikipedia.org/wiki/Ila_language\nhttps://www.wikidata.org/entity/Q5996885"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:smith:dale:20**\n**cldf:stolz:96**\n**cldf:tuden:nd**\n**eballiso2009:11558**\n**eballiso2009:16778**\n**eballiso2009:21134**\n**eballiso2009:21638**\n**eballiso2009:26730**\n**eballiso2009:28707**\n**eballiso2009:30784**\n**eballiso2009:34113**\n**eballiso2009:36170**\n**eballiso2009:3652**\n**eballiso2009:43238**\n**eballiso2009:45443**\n**eballiso2009:45912**\n**eballiso2009:49384**\n**eballiso2009:49423**\n**eballiso2009:52652**\n**eballiso2009:57969**\n**eballiso2009:6133**\n**eballiso2009:8016**\n**eballiso2009:8908**\n**hh:d:Torrend:Botatwe**\n**hh:ephont:SmithDale:Ila**\n**hh:g:Smith:Ila**\n**hh:he:Brelsford:Northern-Rhodesia**\n**hh:he:Haller:Kafue**\n**hh:hv:Lehmann:Kafue**\n**hh:hv:Werner:Bantu**\n**hh:hv:deLuna:Botatwe**\n**hh:hvw:deLuna:Botatwe**\n**hh:ld:Doke:Twa-Kafue**\n**hh:soc:Mukangombe:Twa-Kafue**\n**hh:t:Fowler:Ila**\n**mpieva:Fowler2000Adiction**\n**mpieva:Smith1964Ahandboo**"
+  },
+  "altnames": {
+    "wals": "\nIla",
+    "ruhlen (1987)": "\nIla",
+    "moseley & asher (1994)": "\nIla",
+    "multitree": "\nChiila\nIla\nShukulumbwe\nSukulumbwe",
+    "lexvo": "\nIla [en]",
+    "hhbib_lgcode": "\n3xIla or Sukulumbwe\nBa-Lundwe on the Bwengwa\nBatwa\nBatwa of the Kafue\nBatwa of the Kafue seem to have a language of their own but also speak Ila\nBatwa of the Kafue understandable with difficulty to Ila\nLundwe\nLundwe M632\nTwa of Chief Kabulungwe of Nyamba area (Kafue)\nTwa of Nyimba area (Kafue)"
+  },
+  "triggers": {
+    "lgcode": "\nNOT primer AND NOT storybook AND ila\nmaschukulumbe\nila"
+  },
+  "identifier": {
+    "wals": "ila",
+    "multitree": "ilb"
+  },
+  "classification": {
+    "sub": "**hh:hv:deLuna:Botatwe**",
+    "subrefs": "\n**hh:hv:deLuna:Botatwe**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Ila (ilb-ilb) = 5 (Developing)."
+  }
+}

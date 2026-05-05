@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mahasu Pahari",
+    "hid": "bfz",
+    "level": "language",
+    "iso639-3": "bfz",
+    "latitude": "31.0088",
+    "longitude": "77.5317",
+    "macroareas": [
+      "Eurasia"
+    ],
+    "countries": [
+      "IN"
+    ],
+    "links": "\n[Mahasu Pahari](https://endangeredlanguages.com/lang/5660)\nhttps://en.wikipedia.org/wiki/Mahasu_Pahari\nhttps://www.wikidata.org/entity/Q6733460"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:ed:10**\n**cldf:lewis:ed:09**\n**cldf:np:12:5**\n**hh:dt:Joshi:Pahari**\n**hh:gtd:Hendriksen:Himachali**\n**hh:hld:Tobdan:Himacal-Prades**\n**hh:hld:Varma:Pahari**\n**hh:hs:Bailey:Himalaya**\n**hh:hs:Bailey:Himalayan**\n**hh:htyp:BhattPathak:Uttarakhand**\n**hh:htyp:BhattPathak:Uttarakhand:2015**\n**hh:hv:Hendriksen:Group-Position**\n**hh:hvw:Kogan:New-Indo-Aryan**\n**hh:hvwt:Grierson:9:IV**\n**hh:ld:Abbi:Bangani**\n**hh:ld:Zoller:Bangani**\n**hh:phon:Jouanne:Kvar**\n**hh:s:Dutt:Baghati**\n**hh:s:Zoller:Bangani**\n**hh:s:vanDriemSharma:Bangani**\n**hh:typ:Abbi:Bangani**\n**hh:typ:Sharma:Outer-Siraji**\n**hh:v:vanDriemSharma:Bangani**\n**hh:vsoctyp:Menon:Bangani**\n**hh:w:Varma:Pahari:2003-2004**\n**hh:wsoc:Blair:Kullu**"
+  },
+  "altnames": {
+    "multitree": "\nBaghati\nMahasui\nPahari, Mahasu\nPaharí mahasu\nWestern Pahari",
+    "lexvo": "\nMahasu Pahari [en]",
+    "hhbib_lgcode": "\nBaghati\nBangani closest to Parbati and Koci\nKOT — Kotgarhi from Hendriksen 1976\nKiunthali\nKiuthali\nKochi\nKoci\nKot Gurui\nKotgarhi\nKvar\nOuter Seraji spoken in Ani and Nirmand tehsils\nOuter Siraji\nPahari dialects\nPahari-Mahasu\nSatlaj\nSimla Hills Baghati\nSimla Siraji\nSodochi\nSoracholi\nWestern Pahari Koci from Bashahr\ngeographically Pahari-Mahasu",
+    "elcat": "\nBaghati\nMahasu\nMahasu Pahari\nMahasui\nPahari\nWestern Pahari"
+  },
+  "triggers": {
+    "lgcode": "\nhimachali"
+  },
+  "identifier": {
+    "multitree": "bfz",
+    "endangeredlanguages": "5660"
+  },
+  "classification": {
+    "sub": "**hh:hv:Hendriksen:Group-Position** **hh:gtd:Hendriksen:Himachali**",
+    "subrefs": "\n**hh:hv:Hendriksen:Group-Position**\n**hh:gtd:Hendriksen:Himachali**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:13",
+    "comment": "Mahasu Pahari (5660-bfz) = At risk (20 percent certain, based on the evidence available) [van Driem 2007](cldf:driem:07)"
+  }
+}

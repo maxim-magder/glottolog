@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Mahican",
+    "hid": "mjy",
+    "level": "language",
+    "iso639-3": "mjy",
+    "latitude": "42.587",
+    "longitude": "-73.788",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\nhttps://en.wikipedia.org/wiki/Mohican_language\nhttps://www.wikidata.org/entity/Q3182562",
+    "timespan": "1935-01-01/1935-01-01"
+  },
+  "sources": {
+    "glottolog": "\n**hh:d:Masthay:Mahican**\n**hh:e:Brasser:Mahican**\n**hh:e:Goddard:Delaware**\n**hh:hv:Costa:Southern-New-England**\n**hh:hvw:Duponceau:Amerique-Nord**\n**hh:phonvld:Goddard:Mahican**\n**hh:s:Verlato:Muhhekaneew**\n**hh:w:Edwards:Mahican**\n**hh:w:Edwards:Muhhekaneew**\n**mpieva:1991Schmicks**"
+  },
+  "altnames": {
+    "multitree": "\nMahican\nMohegan",
+    "lexvo": "\nLíngua moicana [pt]\nMahican [en]\nMahican language [en]\nMohican [fr]",
+    "glottolog": "\nMahican\nMohican",
+    "hhbib_lgcode": "\nMahican\nMuhhekaneew"
+  },
+  "triggers": {
+    "lgcode": "\nanalogies\nenclitics\nnationis"
+  },
+  "identifier": {
+    "multitree": "mjy"
+  },
+  "classification": {
+    "sub": "**hh:hv:Goddard:Loup**",
+    "subrefs": "\n**hh:hv:Goddard:Loup**"
+  },
+  "endangerment": {
+    "status": "extinct",
+    "source": "Glottolog",
+    "date": "2018-01-05T17:27:48",
+    "comment": "Mahican (mjy-mjy) = 10 (Extinct)."
+  }
+}

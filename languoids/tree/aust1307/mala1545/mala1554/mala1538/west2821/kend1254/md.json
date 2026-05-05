@@ -1,0 +1,43 @@
+{
+  "core": {
+    "name": "Kendayan-Belangin",
+    "hid": "knx",
+    "level": "language",
+    "iso639-3": "knx",
+    "latitude": "1.47957",
+    "longitude": "109.467",
+    "macroareas": [
+      "Papunesia"
+    ],
+    "countries": [
+      "ID",
+      "MY"
+    ],
+    "links": "\nhttps://www.wikidata.org/entity/Q6388963\nhttps://en.wikipedia.org/wiki/Kendayan_language"
+  },
+  "sources": {
+    "glottolog": "\n**hh:dial:Patriantoro:Landak**\n**hh:e:Schneider:Selako-Dayak**\n**hh:e:Schneider:Selako-Dayak:1974**\n**hh:et:Dunselman:Kendajan-Dajaks**\n**hh:hb:CenseUhlenbeck:Borneo**\n**hh:hv:Adelaar:Malayic**\n**hh:hvw:MohamedYusof:Sarawak-10**\n**hh:hvw:MohamedYusof:Sarawak:**\n**hh:hvw:Smith:Borneo**\n**hh:ld:Fokker:Behe**\n**hh:phon:Herman:Kendayan**\n**hh:s:Lansau:Kendayan**\n**hh:s:Sukamto:Kendayan**\n**hh:s:Yoseph:Kendayan**\n**hh:std:Adelaar:Salako**\n**hh:typ:Sommerlot:West-Kalimantan**\n**hh:typ:Thomas:Kendayan**\n**hh:v:Adelaar:Belangin**\n**hh:w:Elam:Slakow-Larah**\n**hh:w:Hudson:Selako**\n**hh:w:Sipol:Salakau**\n**hh:w:Sugono:Ketapang**\n**iso6393:2007-261**\n**sil16:48086**\n**sil16:48664**"
+  },
+  "altnames": {
+    "multitree": "\nBaicit\nDamea\nDayak\nKenayatn\nKendayan\nKendayan Dayak\nKendayan-Ambawang\nSalakau\nSalako\nSelakau\nSelako\nSilakau",
+    "lexvo": "\nKendayan [en]\nSalako [en]",
+    "hhbib_lgcode": "\nAhe Kanayatn\nBagak (Banana)\nBanana'\nBehe\nBelangin\nDajaks van het binnenland van Mempawah\nDungun Perakapan\nJambu (Balangin)\nKanayatn\nKendayan\nMandor and Setunggang (Ahe)\nSalakau\nSambas\nSelakau\nSelako\nSilakau\nSilako\nSlakow",
+    "glottolog": "\nKendayan"
+  },
+  "triggers": {
+    "lgcode": "\nkanayatn\nbelangin\nbadamea\nsalako\nselako\nkendajan\nadat"
+  },
+  "identifier": {
+    "multitree": "knx"
+  },
+  "classification": {
+    "sub": "**hh:hvw:Smith:Borneo**:183-200 **hh:hv:Adelaar:Malayic** **hh:hv:SmithRama:Borneo**:205",
+    "subrefs": "\n**hh:hv:Adelaar:Malayic**\n**hh:hvw:Smith:Borneo**\n**hh:hv:SmithRama:Borneo**"
+  },
+  "endangerment": {
+    "status": "not endangered",
+    "source": "E29",
+    "date": "2026-03-17T11:25:25",
+    "comment": "Kendayan (knx-knx) = 3 (Wider communication). Became dominant in the 19th century under Dutch colonial era. Used in trade, agriculture, fishing, hunting, and church."
+  }
+}

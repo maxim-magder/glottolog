@@ -1,0 +1,47 @@
+{
+  "core": {
+    "name": "Crow",
+    "hid": "cro",
+    "level": "language",
+    "iso639-3": "cro",
+    "latitude": "45.368",
+    "longitude": "-107.874",
+    "macroareas": [
+      "North America"
+    ],
+    "countries": [
+      "US"
+    ],
+    "links": "\n[Crow](https://endangeredlanguages.com/lang/2008)\n[Crow](https://grambank.clld.org/languages/crow1244)\n[Crow](https://wals.info/languoid/lect/wals_code_cro)\nhttps://en.wikipedia.org/wiki/Crow_language\nhttps://phoible.org/languages/crow1244\nhttps://www.wikidata.org/entity/Q1207611"
+  },
+  "sources": {
+    "glottolog": "\n**cldf:bamforth:88**\n**cldf:christopherrogers:campbell:10**\n**cldf:comrie:gil:etal:ed:05**\n**cldf:denig:53**\n**cldf:denig:61**\n**cldf:ed:10**\n**cldf:ewers:55**\n**cldf:golla:goddard:etal:08**\n**cldf:graczyk:07**\n**cldf:kelly:95**\n**cldf:lewis:ed:09**\n**cldf:lewis:paul:etal:ed:16**\n**cldf:lowie:12:1**\n**cldf:lowie:17:2**\n**cldf:lowie:19**\n**cldf:lowie:22**\n**cldf:lowie:35**\n**cldf:moseley:07**\n**cldf:np:nd:264**\n**cldf:rudes:costa:ed:03:4**\n**cldf:wagner:allen:33**\n**haspelmath:martin_grammar_2011**\n**hh:d:Reed:Crow**\n**hh:e:Voget:Crow**\n**hh:g:Graczyk:Crow**\n**hh:he:Binford:Hunter-Gatherer**\n**hh:hel:Helgeson:North-America**\n**hh:hvw:Gallatin:US**\n**hh:hvw:Goddard:Plains-Introduction**\n**hh:hvw:Hale:NWAmerica**\n**hh:hvw:Latham:Comparative**\n**hh:hw:Hayden:Missouri**\n**hh:s:Lowie:Crow**\n**hh:st:Lowie:Crow**\n**hh:styp:Wallace:Crow**\n**hh:typ:Ko:Crow**\n**mpieva:Graczyk2007Agrammar**\n**sil16:10834**\n**sil16:14954**\n**sil16:14955**\n**sil16:18360**\n**sil16:18361**\n**sil16:18362**\n**sil16:18363**\n**sil16:19816**\n**sil16:22618**\n**sil16:41263**\n**sil16:48430**\n**sil16:48431**"
+  },
+  "altnames": {
+    "wals": "\nCrow",
+    "ruhlen (1987)": "\nCrow",
+    "moseley & asher (1994)": "\nCrow",
+    "multitree": "\nAbsaruqe\nAbsáraca\nApsaalooke\nApsaloka\nApsaroka\nCrow\nUpsaroka",
+    "lexvo": "\nCrow [en]\nCrow language [en]",
+    "hhbib_lgcode": "\nUpsaroka\nUpsaroka or Crow",
+    "elcat": "\nAbsaruqe\nApsaalooke\nApsaloka\nApsaroka\nCrow\nUpsaroka"
+  },
+  "triggers": {
+    "lgcode": "\nhileen\nnaivete\nbaapiihaake\nNOT vocabulary AND NOT reader AND NOT pp AND crow\nalilaau\naluutdeehkuua\nheelen\napsaaloke\nshiishiahe"
+  },
+  "identifier": {
+    "wals": "cro",
+    "multitree": "cro",
+    "endangeredlanguages": "2008"
+  },
+  "classification": {
+    "sub": "**hh:hv:ParksRankin:Siouan** **hh:v:Rankin:Mandan**",
+    "subrefs": "\n**hh:v:Rankin:Mandan**\n**hh:hv:ParksRankin:Siouan**"
+  },
+  "endangerment": {
+    "status": "shifting",
+    "source": "ElCat",
+    "date": "2023-07-06T16:07:14",
+    "comment": "Crow (2008-cro) = Threatened (20 percent certain, based on the evidence available) [Golla et al. 2008](cldf:golla:goddard:etal:08)"
+  }
+}
